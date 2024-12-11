@@ -31,6 +31,536 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Diciembre, un mes propicio para la prevención los siniestros de tránsito
+========================================================================
+
+Los siniestros de tránsito se incrementan en diciembre, debido al exceso de velocidad y el consumo de alcohol.
+--------------------------------------------------------------------------------------------------------------
+
+![Un siniestro de tránsito ocurrió este 10 de diciembre en la vía a Quevedo, informó la Comisión de Tránsito del Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/siniestros-editorial.jpg)
+
+**Diciembre** es un mes propicio para la ocurrencia de los **siniestros de tránsito**, pero también es ideal para que las autoridades piensen en estrategias de prevención.
+
+El **siniestro de tránsito**, sucedido el 6 de diciembre de 2024 en **Loja**, no puede pasar desapercibido, y mucho menos las casi 18 personas que fallecieron.
+
+Tampoco se pueden normalizar los **25 siniestros de tránsito** que ocurrieron en **Quito** en un solo día (4 de diciembre de 2024) y durante los tres días de fiestas de fundación de la capital.
+
+> Las muertes por siniestros de tránsito aumentaron en 2023, lo que significa que la prevención es una necesidad urgente para educar a los conductores y peatones.
+
+Las estadísticas de la **Agencia Nacional de Tránsito (ANT)** y del **Instituto Nacional de Estadística y Censos** reflejan que en diciembre se incrementan los casos frente al resto de meses. En 2023 hubo 1 966 siniestros en diciembre, mientras que un año antes se registraron 1 997. 
+
+Otro dato alarmante es que en 10 meses de 2024 murieron 1 833 personas en el país. Con estas cifras preocupantes, es necesario intensificar los mensajes de prevención de siniestros en el país. El énfasis debe estar en las provincias que —por su gran población— tienen una mayor siniestralidad. **Guayas y Pichincha** encabezan la lista.
+
+**Quito** tiene una buena iniciativa y es destacable que ponga énfasis en la prevención, especialmente en diciembre.
+
+La **Agencia Metropolitana de Tránsito** lanzó la primera semana de diciembre su iniciativa ‘No le creas al alcohol’, para disminuir los incidentes en las vías.
+
+Se denomina así, debido a que los conductores manejan sus vehículos bajo el efecto del alcohol. Además, esta es la tercera causa de siniestralidad en la ciudad en 2024. Esta se une al exceso de velocidad, que es otro factor de siniestros[.](https://www.amt.gob.ec/index.php/inicio-amt/quienes-somos/ "https://www.amt.gob.ec/index.php/inicio-amt/quienes-somos/")
+
+La **ANT** no tiene una campaña activa para esta época, pero a través de las redes sociales difunde mensajes de seguridad vial, para prevenir en las vías y carreteras. En los primeros 10 meses de 2024 se contabilizan 17 474 siniestros.
+
+En vista de que todos los días hay un **siniestro de tránsito**, las autoridades nacionales deben priorizar y ejecutar una campaña que perdure todo el año para reducir las **muertes y los siniestro**s.
+
+Cuando callar es complicidad
+============================
+
+Los historiadores nos enseñan, que la humanidad no es la primera vez que atraviesa por tanta incertidumbre y riesgo de escalar hacia situaciones de mayor deterioro.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Juan Pablo Lira B., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Juan-Pablo-Lira-B..jpg)
+
+Próximos a finalizar el 2024,  podemos decir que las **atrocidades que se viven en Europa** con la **invasión** de **Rusia a Ucrania**, como también con la política -casi consensuada- para evitar la migración de africanos; como la brutal y excedida represalia israelí al crimen de lesa **humanidad** cometido por Hamas el 7 de octubre de 2023, todos hechos execrables, a los que se pueden sumar masacres y luchas tribales en África de las que se informa poco -como si esos **seres humanos** valieran menos-, y también en nuestra **América Latina** en donde la pobreza como resultado de la **desigual distribución** de la riqueza lleva a que cada vez sea menos valorada la **democracia representativa**, y en donde el **combate al narcotráfico** “justifica” muchos excesos que se reflejan en que los **derechos humanos,** también se encuentran muy devaluados, tenemos un cuadro de generalizada decrepitud, a lo que hay que agregar que -lamentablemente- el **crimen organizado** está permeando a los poderes del estado en muchísimos de nuestros países.
+
+A lo anterior, podemos agregar el **reavivamiento de la guerra civil en Siria**, así como la conmoción política en Corea del Sur, en donde el presidente intento declarar la ley marcial para suspender todas las **libertades públicas**. 
+
+Toda la **convulsión descrita** ha llevado a que no sean pocos los analistas que comparan la actualidad con lo que ocurriera por allá por la década de los años 30 del siglo pasado, cuando la Europa post I Guerra Mundial se debatía en una **compleja situación económica**, con serios y no resueltos problemas de fronteras y, con una Alemania abatida y humillada tras la derrota en tal conflagración. 
+
+Acercando la lupa a nuestro continente, nos encontramos con una **multiplicidad de problemas,** siendo probablemente el **avance** del **narcotráfico** en todos nuestros países, el más complejo y difícil de frenar o combatir, porque es tal su poder financiero, que cuál plaga ha ido horadando y perforando todos los poderes del estado, no exceptuándose **nuestras policías y fuerzas armadas**.  Cada vez es mayor el número de expresidentes, jueces, parlamentarios, ministros de estado, oficiales y tropa de los cuerpos policiales y de nuestras fuerzas armadas que son descubiertos por sus **alianzas** con el **crimen organizado.**
+
+Para que ello sea posible, no podemos olvidar que la **pobreza mayoritaria** en el continente posibilita el contar con un contingente casi ilimitado de jóvenes, mujeres y hombres, dispuestos a enrolarse, arriesgando sus vidas, con tal de obtener algún tipo de **bienestar material**. Y del otro lado de la acera, tenemos a millones de **ciudadanos norteamericanos**, canadienses y europeos, con altos niveles de ingreso, con serios **problemas de salud mental**, dispuestos a palear su angustia, ansiedad y **depresión** ingiriendo, inyectándose o aspirando diversos **tipos de drogas de origen natural o químico**.
+
+Los historiadores nos enseñan, que la **humanidad** no es la primera vez que atraviesa por tanta **incertidumbre** y **riesgo de escalar** hacia situaciones de mayor deterioro.  Ocurre, que ahora la **información** es de una total instantaneidad, lo cual hace que el temor generalizado sea más extendido de lo que fuera décadas atrás.  
+
+Mucho se habla de la **inoperancia** de los **organismos internacionales**, singularizando aquello en las Naciones Unidas.  Ello, es cierto en aquellos organismos que tienen una función esencialmente política, pero no ocurre lo mismo con aquellos que se abocan a los **temas económicos**, así como a los que trabajan en pro del **desarrollo social**. 
+
+Lo que no se debe callar, para no ser **cómplices**, es que se ha tejido una **burocracia** en **Naciones Unidas**, que bien merecería una poda profunda, para bajar costos y aumentar la eficiencia.
+
+Cartas a Quito / 11 de diciembre de 2024
+========================================
+
+Estas son las cartas a Quito de este miércoles 11 de diciembre de 2024
+----------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Estoy cansado de las actitudes estudiantiles…
+---------------------------------------------
+
+La frustración ante las actitudes estudiantiles se ha convertido en un tema recurrente en el ámbito educativo. Cada vez más, docentes y padres se sienten agotados por comportamientos que obstaculizan el aprendizaje y generan un ambiente negativo en las aulas. Esta situación merece una reflexión profunda.
+
+Las actitudes de desmotivación, rechazo y falta de interés son comunes entre los estudiantes. Estos comportamientos no solo afectan su rendimiento académico, sino que también crean un clima de tensión y conflicto en el aula. La competitividad excesiva y la presión por obtener buenos resultados contribuyen a esta problemática, generando ansiedad y frustración en los alumnos.
+
+Un factor clave es la falta de habilidades emocionales y sociales. Muchos estudiantes carecen de herramientas para gestionar sus emociones, lo que le lleva a manifestar actitudes negativas. La educación emocional es parte fundamental del currículo, ayuda a los jóvenes a desarrollar una autoestima saludable y habilidades para la resolución de conflictos.
+
+Además, el entorno escolar a menudo no refleja la realidad social de los estudiantes. Un modelo educativo rígido y descontextualizado puede provocar desinterés y rechazo hacia las normas escolares. Es esencial que las instituciones educativas adapten sus enfoques para conectar mejor con la vida cotidiana de los alumnos.
+
+La comunicación entre docentes y estudiantes también juega un papel crucial. Cuando los profesores anticipan el fracaso o presentan contenidos difíciles sin apoyo adecuado, alimentan la inseguridad y la desmotivación en sus alumnos. Un enfoque más positivo y comprensivo podría cambiar radicalmente esta dinámica.
+
+Es fundamental que tanto educadores como padres trabajen juntos para fomentar un ambiente más positivo. Esto implica reconocer las emociones de los estudiantes y brindarles el apoyo necesario para superar sus desafíos. La empatía y la comprensión pueden ser herramientas poderosas para transformar actitudes negativas en motivación.
+
+Roberto Camana-Fiallos
+
+Mugre
+=====
+
+Un acto público financiado con recursos oficiales incitó al odio y la violencia, cuestionando si esto puede considerarse cultura.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+
+Según la RAE: «mugre es un sustantivo que significa suciedad grasienta». Los sinónimos son: «basura» o «porquería».  Banda, puede ser desde un velo, o banda de rock o hip hop; pero también las bandas del cartel Jalisco Nueva Generación, cartel de Los Rojos o Los Lobos.  El hecho es que una banda, autodenominada _**MugreSur**,_ al parecer, con **recursos públicos**, escenificaron la **muerte simbólica** del presidente Daniel Noboa, con ahorcamiento.
+
+Algunos dicen que es **libertad de expresión**. Mientras antes aplaudieron al **ególatra caudillo** que, pretendió agredir a un adolescente porque dobló su brazo a la altura del codo y mostró con disgusto su dedo intermedio. Vieja costumbre ya utilizada en la antigua Grecia. Los mismos que aprobaron que su guía, dispuso la **prisión** de un modesto propietario de una camioneta que llevaba el monigote de un borrego.
+
+En el suceso festivo, alguien, disfrazado de lobo, excitaba al odio, simulando el ahorcamiento del jefe de Estado. Arengaba, sin pelos en la lengua: «_les voy a dedicar al 52% de florindos hijos de puta…_», refiriéndose a la mayoría de los ciudadanos que sufragaron por Daniel Noboa y no por la asistente de Rafael Correa. Pregonaron el odio y la muerte. Todo esto, organizado por la **secretaria de cultura del municipio de Quito**, con los impuestos que pagan los contribuyentes. ¿Es cultura la dialéctica del odio, la banalización del **resentimiento** y la **incitación** a la **violencia**? No lo es. Significa la tanatopolítica, de la que hablo Michel Foucault, en este caso, administrada por el **poder mugriento**, propio del **extremismo fanático y la concepción totalitaria de la política**.
+
+Para cerrar este feo hecho, leamos lo que dijo Voltaire: «_Es difícil liberar a los necios de las cadenas que veneran_». Y Raymond Aron: «_La violencia es el arma de los débiles, aquellos que no saben convencer con argumentos» O «el fanatismo político es una amenaza para la democracia y la libertad individual»._
+
+¿En qué momento una **salvajada indecorosa** se presenta como **expresión de cultura**? Desde cuando se pretendió homogeneizar la sociedad alrededor de un colérico gobernante rencoroso. Desde que se extravió la **política** y se abandonó la **pluralidad**, la **tolerancia** y la **ética**. Desde el momento en que el **populismo** del rencor diseminó el odio y acabó con la **racionalidad**.
+
+Ecuador habilitó declaración en línea para viajeros que lleven 10 000 dólares
+=============================================================================
+
+Los viajeros que salgan o ingresen con 10 000 dólares o más podrán declararlo en línea. Conoce cómo utilizar este nuevo servicio.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Las personas que ingresan o salen de Ecuador están obligadas a declarar sus bienes y su dinero en efectivo](https://www.elcomercio.com/wp-content/uploads/2024/12/declaracion-dinero-ecuador.jpg)
+
+El Servicio Nacional de Aduana del Ecuador (**Senae**) habilitó un nuevo **servicio en línea**. Se trata de la **declaración** obligatoria para los pasajeros que ingresan a **Ecuador** con más de **10 000 dólares**.
+
+### Más noticias
+
+* [Asamblea Nacional presentará acción de inconstitucionalidad por ‘Ley Antipillos’](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-presentara-accion-incostitucionalidad-por-ley-antipillos.html "Asamblea Nacional presentará acción de inconstitucionalidad por ‘Ley Antipillos’")
+* [‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-tomara-accion-si-publica-ley-antipillos.html "‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales")
+* [Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro](https://www.elcomercio.com/actualidad/seguridad/ministerio-defensa-despliegue-militares-el-oro.html "Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro")
+
+Este trámite se lo realizaba únicamente de forma presencial; sin embargo, a partir del **lunes 9 de diciembre** de 2024, los viajeros pueden llenar el **Formulario de Registro Aduanero** (FRA) de manera virtual y con **anticipación**.
+
+El Formulario de Registro Aduanero es obligatorio para todos los pasajeros que ingresen a Ecuador con **bienes tributables** y **dinero en efectivo** igual o superior a 10 000 dólares, o su equivalente en otras monedas.
+
+Además, el dinero en efectivo también debe ser declarado a la **salida del país**.
+
+> 🗣️ ¡Recuerda!  
+>   
+> Debes declarar en el Formulario de Registro Aduanero el dinero en efectivo por un monto  
+> igual o superior a USD 10,000 a tu arribo 🛬 y salida 🛫 del 🇪🇨[#FRADigital](https://twitter.com/hashtag/FRADigital?src=hash&ref_src=twsrc%5Etfw)[#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/kPluWtXnT1](https://t.co/kPluWtXnT1)
+> 
+> — Servicio Nacional de Aduana del Ecuador (@SENAE\_Aduana) [December 9, 2024](https://twitter.com/SENAE_Aduana/status/1865932643092836656?ref_src=twsrc%5Etfw)
+
+¿Cómo llenar el FRA en línea?
+-----------------------------
+
+Para **registrar** una tenencia igual o superior a este monto, los pasajeros deben ingresar a la [página web de la aduana](https://www.aduana.gob.ec/servicio-al-ciudadano/formulario-de-registro-aduanero/login/ "https://www.aduana.gob.ec/servicio-al-ciudadano/formulario-de-registro-aduanero/login/") destinada para este proceso.
+
+Una vez allí, regístrate creando una **nueva cuenta**. Recuerda tu usuario y contraseña.
+
+Luego, **llena el formulario**: selecciona si ingresas o sales del país, ingresa tus datos personales y declara los bienes y el dinero que tengas consigo.
+
+Una vez completes el FRA, se generará un **código QR**. Guárdalo, porque lo deberás presentar en el control aduanero.
+
+A partir del **29 de julio** de 2025, será obligatorio para todos los pasajeros, y su presentación será **únicamente digital**, indicó la Senae.
+
+> [#FRADigital](https://twitter.com/hashtag/FRADigital?src=hash&ref_src=twsrc%5Etfw) 📣  
+>   
+> ➡️ Este proceso permite que  
+> viajeros al ingresar y  
+> salir del 🇪🇨, declaren los  
+> bienes tributables y dinero en  
+> efectivo.[#EstamosEnMejoraContinua](https://twitter.com/hashtag/EstamosEnMejoraContinua?src=hash&ref_src=twsrc%5Etfw)[#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/mzFgXc9f03](https://t.co/mzFgXc9f03)
+> 
+> — Servicio Nacional de Aduana del Ecuador (@SENAE\_Aduana) [December 8, 2024](https://twitter.com/SENAE_Aduana/status/1865753922083659900?ref_src=twsrc%5Etfw)
+
+Toma precauciones con tu declaración
+------------------------------------
+
+Los pasajeros podrán llenar este formulario hasta **tres días antes de su viaje**.
+
+La declaración del monto no conlleva al pago de tributos al comercio exterior, y asimismo, de haber sido declarado correctamente el monto, **no estarás sujeto a ninguna sanción**.
+
+Sin embargo, si no declaras, puede que recibas sanciones legales, que incluyen **multas** y la **confiscación** de tus bienes.
+
+La declaración antes descrita, no está relacionada con el Impuesto a la **Salida de Divisas** (ISD).  
+
+Diciembre, el mes con más siniestros de tránsito en Quito
+=========================================================
+
+Las autoridades consideran diciembre como el mes con mayor incidencia de siniestros de tránsito en Quito.
+---------------------------------------------------------------------------------------------------------
+
+![La AMT implementa controles de velocidad con el objetivo de reducir los siniestros de tránsito en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/Siniestros-de-transito-Quito.jpg)
+
+Diciembre registra históricamente el mayor número de **siniestros** de **tránsito** en Quito. Según Bloomberg, este fenómeno se relaciona con las **festividades** de la época, como las **Fiestas** de **Quito**, **Navidad** y **Año** **Nuevo**, que incluyen eventos frecuentemente asociados al consumo de alcohol[.](https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito#:~:text=Los%20siniestros%20viales%20no%20son,mal%20estado%20de%20una%20calle%2F "https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito#:~:text=Los%20siniestros%20viales%20no%20son,mal%20estado%20de%20una%20calle%2F")
+
+Más noticias
+------------
+
+* [Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito](https://www.elcomercio.com/actualidad/quito/personas-fallecieron-siniestros-transito-durante-feriado-fiestas-quito.html "Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito")
+* [24 siniestros de tránsito se registraron en menos de cuatro horas en Quito](https://www.elcomercio.com/actualidad/quito/24-siniestros-de-transito-se-registraron-en-menos-de-cuatro-horas-quito.html "24 siniestros de tránsito se registraron en menos de cuatro horas en Quito")
+* [El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-muerte-motociclistas.html "El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza")
+
+Exceso de velocidad: principal causa de siniestros de tránsito
+--------------------------------------------------------------
+
+El exceso de velocidad es la principal causa de siniestros de tránsito en la ciudad. Por esta razón, la Agencia Metropolitana de Tránsito (**AMT**) retomó los operativos en diversos puntos de Quito, con ajustes en las ubicaciones respecto a los controles suspendidos previamente.
+
+A pesar de que estas acciones se consideran preventivas, tanto la **AMT** como **Bloomberg** destacan que lograron reducir la siniestralidad.
+
+Los **controles** se concentran en vías críticas, como la avenida **Simón** **Bolívar**, que reporta altos índices de siniestros de tránsito.
+
+Andrés Castillo, experto en movilidad, propone que estos controles se apliquen de forma permanente para fomentar la **educación** y **concienciación** entre los conductores.
+
+Según él, “es fundamental calibrar adecuadamente los equipos y realizar un estudio detallado de velocidades ajustado a cada vía. Además, no deben anunciarse las ubicaciones de los operativos para evitar que los infractores se anticipen”.
+
+Estadísticas de siniestros de tránsito en diciembre
+---------------------------------------------------
+
+Andrea Flores, de **Bloomberg**, señala que todos los viernes de diciembre ocurren siniestros de tránsito con **víctimas** **fatales**.
+
+En 2023, se reportaron 35 fallecidos, mientras que, entre el 1 y el 9 de diciembre de 2024, ya se contabilizan cinco víctimas, coincidiendo con el cierre del feriado de **Fiestas de Quito.**
+
+![chart visualization](https://public.flourish.studio/visualisation/20729514/thumbnail)
+
+Impacto de los controles
+------------------------
+
+De acuerdo con **Bloomberg**, los controles de velocidad resultaron efectivos en las primeras semanas de implementación. Sin embargo, al no ser **sancionatorios**, los conductores suelen retomar prácticas de **exceso de velocidad.**
+
+Por ello, se recomienda que estas medidas incluyan sanciones y se ejecuten de forma visible para **disuadir estas conductas.**
+
+El consumo de **alcohol**, combinado con el **exceso de velocidad,** también contribuye al aumento de siniestros en diciembre. Las zonas más afectadas incluyen sectores con alta concentración de bares y discotecas, como la Universidad Central y La Mariscal.
+
+Los días viernes y las madrugadas de sábado y domingo son los momentos más críticos, aunque en diciembre también se registran siniestros al mediodía, antes de los feriados.
+
+![visualization](https://public.flourish.studio/story/2768888/thumbnail)
+
+Controles de alcoholemia
+------------------------
+
+Para complementar los controles de velocidad, la AMT realiza operativos de alcoholemia en puntos estratégicos de la ciudad.
+
+Según el Código Orgánico Integral Penal (COIP), superar los 0,3 grados de alcohol en la sangre puede derivar en la detención del conductor, dependiendo del nivel de intoxicación.
+
+El Municipio de Quito dijo que, en 2024, conducir bajo los efectos del alcohol representó la tercera causa principal de siniestros de tránsito, con un saldo de 366 incidentes, 252 personas lesionadas y 15 fallecidos.
+
+Este comportamiento solo es superado por el exceso de velocidad, que causó 486 siniestros, y la falta de respeto a las señales de tránsito, responsable de 399 casos.
+
+Como parte de una estrategia para reducir estos índices, la AMT lanzó la campaña **No le Creas al Alcohol**, dirigida a personas de entre 18 y 40 años.
+
+Los datos reflejan que los hombres son los más afectados, con 8 de cada 10 víctimas relacionadas con el consumo de alcohol pertenecientes a este grupo.
+
+Víctimas y vías críticas
+------------------------
+
+En diciembre, los motociclistas, especialmente hombres de entre 20 y 39 años, son las principales víctimas fatales. En 2024, el 38% de los siniestros incluyó motocicletas.
+
+Entre las vías más peligrosas se encuentran la avenida Simón Bolívar, la Quitumbe Ñan, la avenida Maldonado y la avenida Mariscal Sucre, en el sector de La Magdalena.
+
+Las autoridades subrayan que la avenida Simón Bolívar permanece como la más peligrosa de la ciudad.
+
+Con el objetivo de mitigar estos riesgos y reducir la siniestralidad, la AMT incrementará los controles de alcoholemia durante diciembre.
+
+| Tipo de actor vial | Hombre (%) | Mujer (%) | No identificados (%) |
+| --- | --- | --- | --- |
+| Ocupante motocicleta | 35% | 4%  | 38% |
+| Peatón | 20% | 9%  | 29% |
+| Ocupante vehículo 4 ruedas | 15% | 4%  | 19% |
+| Otros | 8%  | 3%  | 11% |
+| Bus | 3%  | 0%  | 3%  |
+
+Víctimas mortales por siniestros de tránsito en Quito.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Más de 70 aeronaves y barcos de China rodean Taiwán
+===================================================
+
+Taiwán calificó de "intimidaciones militares" las últimas acciones de China.
+----------------------------------------------------------------------------
+
+![Barcos y aeronaves de China rodean Taiwán.](https://www.elcomercio.com/wp-content/uploads/2024/12/china-taiwan.jpg)
+
+Más de 70 aeronaves y barcos de **China** rodearon **Taiwán** este martes 10 de diciembre de 2024.
+
+Taiwán calificó de “**intimidaciones militares**” las últimas acciones de China.
+
+### Más noticias:
+
+* [Donald Trump promete más aranceles sobre China y México](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html "Donald Trump promete más aranceles sobre China y México")
+* [Presidente chino, Xi Jinping, llega a Perú para la cumbre Asia-Pacífico](https://www.elcomercio.com/actualidad/mundo/presidente-chino-xi-jinping-llega-peru-cumbre-asia-pacifico.html "Presidente chino, Xi Jinping, llega a Perú para la cumbre Asia-Pacífico")
+
+China rodea con barcos y aeronaves a Taiwán
+-------------------------------------------
+
+Más de 70 aeronaves y buques chinos rodearon la **isla de Taiwán** por todas las direcciones, en medio de un gran despliegue naval de China en el **Pacífico** que las autoridades de Pekín todavía no han confirmado, informaron este miércoles fuentes oficiales taiwanesas.
+
+En un comunicado, el **Ministerio de Defensa Nacional** (MDN) de Taiwán señaló que, en 24 horas, había detectado 53 aeronaves y 11 buques de guerra chinos en las inmediaciones de su territorio, además de otros 8 “barcos oficiales”.
+
+Estas **cifras** superan ligeramente las registradas en la jornada previa.
+
+Antes, **Taipéi** reportó la presencia de 47 aeronaves, 12 embarcaciones militares y 9 “barcos oficiales” chinos en las proximidades de la isla.
+
+Del total de aeronaves, entre las que se encontraban **cazas de combate y drones**.
+
+23 cruzaron la línea media del estrecho de Taiwán e ingresaron en la región norte, suroeste y este de la autoproclamada **Zona de Identificación de Defensa Aérea (ADIZ)** taiwanesa.
+
+Así, rodearon por completo la isla principal de Taiwán, de acuerdo al **mapa** proporcionado por el MDN.
+
+Durante los últimos días, **China** ha permanecido en completo **silencio**.
+
+Taipéi describió la acción como un formidable despliegue de poderío militar.
+
+Múltiples buques de **la Armada y de la Guardia Costera** china navegando por un área de aproximadamente 1 000 kilómetros, que va desde **Shanghái** (este) hasta la provincia de **Fujian** (sureste).
+
+Taiwán califica de ‘intimidaciones militares’ lo realizado por China
+--------------------------------------------------------------------
+
+En las dos últimas maniobras militares en torno a Taiwán, que tuvieron lugar el **23 y 24 de mayo y el 14 de octubre** de este año, Pekín anunció públicamente tanto el inicio como el final de dichos ejercicios.
+
+Sin embargo, en esta ocasión, el mutismo ha sido absoluto, limitándose únicamente a decretar siete zonas aéreas “reservadas” frente a las provincias de **Zhejiang** (este) y **Fujian**.
+
+Según **Taipéi,** las fuerzas chinas han creado dos “muros” navales en el océano.
+
+Uno situado al este de la autoproclamada **ADIZ taiwanesa**.
+
+Otro, en el interior del Pacífico Occidental, con **el objetivo de reafirmar la soberanía china sobre el estrecho de Taiwán e intimidar a los países de la región**.
+
+“China no solo está llevando a cabo operaciones en torno a Taiwán, sino que también está intentando aislar a la región al extender sus fuerzas militares hacia el exterior”, manifestó **Hsieh Jih-sheng**, subdirector de Inteligencia.
+
+Este despliegue naval tiene lugar pocos días después de que el **presidente taiwanés, el soberanista William Lai**, finalizara una gira por el Pacífico Sur.
+
+En esta gira, visitó los tres **países aliados** de Taiwán en la zona -Islas **Marshall, Tuvalu y Palau**– y “escalas” en los territorios estadounidenses de **Hawái y Guam**, que **enfurecieron a China**.
+
+Tras la toma de posesión de **Lai** el pasado 20 de mayo, **Pekín incrementó sus actividades militares en torno a Taiwán para mostrar su rechazo al mandatario taiwanés**.
+
+Más de 3.400 aeronaves del **Ejército** chino sobrevolaron los alrededores de la isla desde entonces, de las cuales 2.366 atravesaron la línea divisoria del Estrecho o vulneraron la autoproclamada ADIZ taiwanesa, un 38 % más que en todo 2023, según las últimas cifras del MDN.
+
+El **Gobierno taiwanés** instó este miércoles a **Pekín** a “detener de inmediato” sus “**intimidaciones militares”**.
+
+Dragonas IDV despidió a Nayely Bolaños con emotivo video
+========================================================
+
+Nayely Bolaños jugó en El Nacional, Deportivo Cuenca, Dragonas IDV y la Selección de Ecuador.
+---------------------------------------------------------------------------------------------
+
+![Nayely Bolaños con su clásico festejo de gol con Dragonas IDV.](https://www.elcomercio.com/wp-content/uploads/2024/12/bolanos_brasil_1.jpg)
+
+Dragonas Independiente del Valle utilizaron sus redes sociales oficiales para despedirse de **Nayely Bolaños, la goleadora ecuatoriana** que no continuará en el plantel para la temporada 2025.
+
+El destino de **Nayely Bolaños será el Pumas de la UNAM**. Las mexicanas se frotan las manos con la incorporación de la delantera ecuatoriana de 21 años, la mejor jugadora del país en el presente.
+
+### Más noticias:
+
+* [Campeón del Mundo supo de su doping a dos días de la final](https://www.elcomercio.com/deportes/futbol/alejandro-gomez-dopung-mundial-catar.html "Campeón del Mundo supo de su doping a dos días de la final")
+* [Calendario de ecuatorianos en la Champions League](https://www.elcomercio.com/deportes/futbol/calendario-ecuatorianos-sexta-fecha-champions-league.html "Calendario de ecuatorianos en la Champions League")
+* [Botafogo es favorito ante Pachuca en Copa Intercontinental](https://www.elcomercio.com/deportes/futbol/botafogo-favorito-pachuca-copa-intercontinental.html "Botafogo es favorito ante Pachuca en Copa Intercontinental")
+
+Dragonas extrañará a Bolaños
+----------------------------
+
+Este martes 10 de diciembre de 2024, Dragonas resumieron en un video los tres años que Bolaños permaneció en el equipo al que llegó como una joven promesa y se **marcha como una de las estrellas que alcanzó su mejor versión** con su camiseta.
+
+El título de la Superliga Femenina, el cuarto puesto de la Copa Libertadores y la Bota de Oro como goleadora del torneo nacional con 21 tantos, todo en el 2024, son los logros que atesora la deportista nacidad en Ventanas, provincia de Los Ríos.
+
+El 2023 fue todo lo contario. La **rotura de ligamento cruzado anterior, más lesión menisco de externo** y distensión de ligamentos colaterales de una de sus rodillas que se produjo en septiembre de 2022, la alejaron de las canchas por un largo tiempo.
+
+Recuperada y en plenitud de condiciones no dejó dudas que se trata de un talento poco visto en el país, más si se trata de una delantera, una de las deficiencias del fútbol nacional, tanto en hombres como en mujeres.
+
+“**Tu energía nos inspiró. ¡Hasta pronto, Naye!**“, fue el texto que acompañó al video que rápidamente se regó en las redes sociales con mensajes de aliento de los aficionados al fútbol femenino.
+
+> Tu energía nos inspiró ✨ ¡Hasta pronto, Naye! 🐉 [pic.twitter.com/DeWOWegqFR](https://t.co/DeWOWegqFR)
+> 
+> — DragonasIDV (@DragonasIDV) [December 10, 2024](https://twitter.com/DragonasIDV/status/1866537583389577427?ref_src=twsrc%5Etfw)
+
+Pumas esperan a Nayely
+----------------------
+
+Fuentes cercanas a la Bolaños le confirmaron a EL COMERCIO que su debut será el 15 de diciembre en un torneo amistoso que se denomina **Brasil Ladies Cup**, y desde México también apuntan a esta fecha.
+
+El estadio Doctor Osvaldo Teixeira Duarte, ubicado en Sao Paulo, acogerá los encuentros del grupo A junto a las escuadras de Deportivo Bahía (15/12), la Selección de Paraguay (17/12) y el **Deportivo Avaí Kindermann (19/12).**
+
+En el grupo B están emparejadas **River Plate** de **Argentina**, **Atlético Paranaense, Gremio y Sport Club de Recife** de Brasil.
+
+La modalidad del torneo establece que el ganador de cada grupo avanza a la final del 22 en el Arena Pacaembú.
+
+![Instagram de la jugadora.](https://www.elcomercio.com/wp-content/uploads/2024/12/bolanos_brasil_2-1024x683.jpg)
+
+Instagram de la jugadora.
+
+San viernes
+-----------
+
+Javier Milei anunció reducción de impuestos nacionales para 2025 en Argentina
+=============================================================================
+
+El anuncio de reducción de impuestos nacionales de Milei fue acompañado de la devolución de la autonomía fiscal a las provincias.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Javier Milei hizo el anuncio de los impuestos durante el discurso por el primer año de su mandato.](https://www.elcomercio.com/wp-content/uploads/2024/12/milei-impuestos.jpg)
+
+El presidente **Javier Milei** anunció una gran reducción de **impuestos nacionales** para **2025** en **Argentina,** este martes 10 de diciembre de 2024.
+
+La noticia fue parte de su discurso por el **primer año** en la Presidencia de ese país.
+
+### Más noticias:
+
+* [Javier Milei marcará su primer aniversario al frente del Gobierno con un discurso a la nación](https://www.elcomercio.com/actualidad/mundo/javier-milei-marcara-primer-aniversario-frente-gobierno-discurso-nacion.html "Javier Milei marcará su primer aniversario al frente del Gobierno con un discurso a la nación")
+* [La ‘motosierra’ de Javier Milei empuja a miles de argentinos a ir de compras en Chile](https://www.elcomercio.com/actualidad/mundo/motosierra-javier-milei-empuja-miles-argentinos-compras-chile.html "La ‘motosierra’ de Javier Milei empuja a miles de argentinos a ir de compras en Chile")
+
+Milei, la reducción de impuestos nacionales y la autonomía fiscal de las provincias
+-----------------------------------------------------------------------------------
+
+El presidente de **Argentina**, **Javier Milei**, anunció que en 2025 bajará un **90%** los impuestos.
+
+El anuncio estuvo acompañado de otro: la **devolución de la autonomía fiscal** a las **provincias** para hacerlas más competitivas.
+
+“Mi equipo está terminando en estos días una **reforma impositiva estructural** que reducirá en un 90 % la cantidad de impuestos nacionales y le devolverá a las provincias la autonomía impositiva que nunca debieron haber perdido”, manifestó.
+
+Milei agregó: “el año próximo veremos una **verdadera competencia fiscal** entre las provincias argentinas para ver quién atrae más **inversiones**“.
+
+El discurso de Milei por el **primer aniversario** de su llegada al Gobierno tuvo una duración de 45 minutos.
+
+### Otros temas
+
+Javier Milei manifestó que, el segundo año de su gestión, estará marcado por una “**motosierra profunda**” y por la continuación del achicamiento del Estado.
+
+“Este año ya conocieron la motosierra, pero consistió principalmente en revertir los excesos de los últimos **años kirchneristas**. Ahora se viene la motosierra profunda”, dijo.
+
+Milei anticipó la eliminación de más organismos públicos y abogó por un “**Estado más chico**, más efectivo y más barato”.
+
+Milei recordó que cerró 10 ministerios, eliminó más de **100 secretarías y subsecretarías**.
+
+Además, clausuró la agencia oficial de noticias Telam y el **Instituto Nacional contra la Discriminación, la Xenofobia y el Racismo**, y desvinculó a 34 000 empleados públicos.
+
+Milei anticipó, además, “una auditoría inclemente para avanzar con la **reducción del gasto público** más profunda de la historia Argentina” y “continuar eliminando organismos, secretarías, subsecretarías, empresas públicas y todo estamento del estado que no debería existir”.
+
+De cara a 2025, aseguró que su Gobierno impulsará grandes **reformas** en materia impositiva, previsional, laboral, penal, política y en seguridad nacional, y adelantó que diseñarán un plan de energía nuclear y que impulsarán más medidas contra el narcotráfico y el crimen organizado.
+
+Canchas de fútbol y pista atlética de La Carolina cerrarán por rehabilitación
+=============================================================================
+
+El Municipio de Quito comenzó los trabajos en las canchas de fútbol, la pista atlética y otros espacios deportivos del parque La Carolina.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los espacios deportivos permanecerán cerrados al público durante varios meses](https://www.elcomercio.com/wp-content/uploads/2024/12/parque-carolina-canchas-futbol.jpg)
+
+El **Municipio de Quito** comenzó la rehabilitación de varios **espacios deportivos** del parque **La Carolina**, en el centro norte de Quito, este martes 10 de diciembre de 2024. Las obras incluyen la **adecuación** y el **mantenimiento** de la pista de atletismo, zona de calistenia y las **canchas** de césped sintético de **fútbol**.
+
+### Más noticias
+
+* [Dos generadores eléctricos de 600 kW llegaron a Quito, ¿en qué se los utilizará?](https://www.elcomercio.com/actualidad/quito/generadores-electricos-quito-agua.html "Dos generadores eléctricos de 600 kW llegaron a Quito, ¿en qué se los utilizará?")
+* [Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025](https://www.elcomercio.com/actualidad/quito/concejo-aprueba-presupuesto-quito-2025.html "Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025")
+* [Cortes de luz en Quito este miércoles 11 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-miercoles-11-diciembre.html "Cortes de luz en Quito este miércoles 11 de diciembre")
+
+Según detalló el Cabildo, la inversión inicial de **792 000 dólares** tiene como objetivo beneficiar a las más de **100 000 personas** que acuden a este tradicional parque cada semana.
+
+Trabajos en la pista de atletismo y la zona de calistenia
+---------------------------------------------------------
+
+En la **pista de atletismo** se reemplazarán **6 000 m²** de superficie con materiales sintéticos de alta calidad, diseñados para mejorar la experiencia de ejercicio y reducir el riesgo de lesiones, afirmó la entidad.
+
+Lo mismo se ejecutará en los **2 300 m²** de la **zona de calistenia**.
+
+Los trabajos en ambas áreas comenzaron con la instalación de un **cerramiento**, que se completará el viernes 13 de diciembre[.](https://www.quitoinforma.gob.ec/2024/12/09/espacios-deportivos-de-la-carolina-se-renuevan-con-una-inversion-de-usd-792-mil/ "https://www.quitoinforma.gob.ec/2024/12/09/espacios-deportivos-de-la-carolina-se-renuevan-con-una-inversion-de-usd-792-mil/")
+
+A partir de este día, los espacios **se cerrarán** para el público.
+
+Adecuación de las canchas de fútbol
+-----------------------------------
+
+También se rehabilitarán **todas las canchas** de césped sintético para fútbol del parque. En total, se trabajarán **14 canchas pequeñas** y **una cancha grande**.
+
+Mientras se realice el **mantenimiento paulatino,** algunas canchas estarán habilitadas y otras restringidas. Te recomendamos reservar con tiempo los espacios en la administración del parque, ubicada frente al Jardín Botánico.
+
+Tiempo estimado de las obras
+----------------------------
+
+Las intervenciones de la pista atlética y de la zona de calistenia finalizarán en la **primera semana** de **febrero** de 2025.
+
+Mientras que la conclusión de las **15 canchas** está prevista para **finales de marzo**.
+
+El Municipio recomendó a quienes visiten el parque La Carolina en estas fechas, **transitar con precaución** por las **áreas de trabajo** y respetar las zonas públicas designadas para cada actividad.
+
+El parque La Carolina cuenta con **61,3 hectáreas** y se ubica en el centro financiero de la capital.
+
+Es uno de los lugares más concurridos por las familias y grupos de amigos debido a las varias actividades que se puede realizar en este lugar.
+
+El cuatro, un número mágico para cinco campeones nacionales
+===========================================================
+
+La Liga Pro tendrá su nuevo campeón el sábado 14 de diciembre de 2024.
+----------------------------------------------------------------------
+
+![Jugadores del Deportivo Cuenca en el Alejandro Serrano Aguilar en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/campeones_ano_1.jpg)
+
+La primera edición del campeonato ecuatoriano se jugó en 1957. **Emelec, Barcelona Sporting Club, Deportivo Quito y Aucas** fueron los cuatro equipos que jugaron en menos de un mes de competencia.
+
+El Quito tiene el registro de haber jugado y ganador el primer partido de un campeonato ecuatoriano. **Lo hizo ante Barcelona SC con un marcador de 2-1**, pero Emelec tiene el sello de ser el primer campeón nacional.
+
+### Más noticias:
+
+* [¿Moisés Caicedo puede ganar la Premier League?](https://www.elcomercio.com/deportes/chelse-moises-caicedo-ganar-premier-league.html "¿Moisés Caicedo puede ganar la Premier League?")
+* [Ecuador en Ayacucho 202](https://www.elcomercio.com/deportes/futbol/medallas-ecuador-juegos-bolivarianos-oro.html "Ecuador en Ayacucho 2024: un vistazo a los Juegos Bolivarianos")[4: un vistazo a los Juegos Bolivarianos](https://www.elcomercio.com/deportes/futbol/medallas-ecuador-juegos-bolivarianos-oro.html "Ecuador en Ayacucho 2024: un vistazo a los Juegos Bolivarianos")
+* [Posibles rivales de Barcelona Sporting Club en la Libertadores](https://www.elcomercio.com/deportes/futbol/posibles-rivales-de-barcelona-sporting-club-en-la-libertadores.html "Posibles rivales de Barcelona Sporting Club en la Libertadores")
+
+Todos los campeones nacionales
+------------------------------
+
+Desde aquel puntapié inicial pasaron 65 años de competencia. Cada año el torneo alcanzó relevancia y se fue extendiendo a **provincias distintas a Pichincha y Guayas**, las dos potencias del fútbol local en cuanto a clubes se refiere.
+
+El Nacional, Liga de Quito, Deportivo Quito, Independiente del Valle, Aucas, Barcelona, Emelec, Everest, **Deportivo Cuenca, Delfín y Olmedo** son las instituciones que ganaron el trofeo nacional en, al menos, una ocasión.
+
+Liga está a punto de sumar un nuevo título. En la final de ida de la Liga Pro, jugada el sábado 7 de diciembre de 2024, **le ganó 3-0 a Independiente**.
+
+La vuelta se disputará el sábado 14 y todo apunta que los albos reinaran el país una año más.
+
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/campeones_ano_2-1024x683.jpg)
+
+API.
+
+El cuatro favoreció a los equipos de la Sierra
+----------------------------------------------
+
+Un dato que destaca es que en cuatro de los seis campeonatos jugados en el año que terminaba en cuatro, el títulos se quedó en manos de los equipos de la Sierra.
+
+En **1964 el campeón fue el Deportivo Quito**. Para los de la ‘Plaza del Teatro’ fue el primero de los cinco trofeos que sumaron a sus vitrinas. En el presente competen en la Segunda Categoría de Pichincha.
+
+En **1974 la sonrisa de la gloria se le presentó a Liga de Quito.** Con ello ganó su segunda estrella doméstica de las 12 que actualmente atesora sobre su escudo.
+
+En **1984 el turno fue para El Nacional**. La ‘Máquina roja’ cerraba así su segundo tricampeonato y el octavo en su palmarés. En ese año se transformó el conjunto más ganador del país con tan solo 20 año de estar en la máxima categoría.
+
+En **1994 el molde del dominio de la Sierra fue Emelec**. Los azules ganaron la corona y su primer bicampeonato.
+
+En 2004 nuevamente se rompió el dominio, pero esta vez de Pichincha y Guayas. Esta vez el **Deportivo Cuenca fue el campeón de la mano** del argentino Julio Daniel Asad, el mismo que oficio el milagro de Olmedo de Riobamba en el 2000.
+
+En **2014 el título recayó en manos de Emelec**. El ‘Bombillo’ por esos días era el mejor equipo del país. Ya había ganador el campeonato de 2013 y luego se quedó con el de 2015 con un grupo de jugadores liderados por Ángel Mena y Miller Bolaños.
+
+En el 2024 nuevamente un equipo de la Sierra ganará el título. La ventaja en para Liga de Quito, pero Independiente no se lo dejará fácil y plantará pelea con el aliento de sus hinchas y con el envión de ser local.
+
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/campeones_ano_3-1024x683.jpg)
+
+API.
+
+San viernes
+-----------
+
 Las protestas se mantienen en Napo por la construcción de la cárcel en Archidona
 ================================================================================
 
@@ -78,6 +608,8 @@ Una delegación de la nacionalidad Kichwa de Pastaza llegó para apoyar las prot
 ” El **pueblo Naporuna**, hijos e hijas de Jumandi, Beto y Wami, se ha levantado para defender el territorio, acechado por la violencia capitalista”, señaló la Confederación.
 
 Y agregó: “**Petroleras, mineras, hidroeléctricas y hoy, megacárceles**, quieren destruir nuestro hogar. Desde el puente Misahualli, seguimos firmes”.
+
+**José Esach**, presidente de Confeniae, dijo que no se ha cumplido con la **consulta previa**, libre e informada.
 
 La posición del Gobierno respecto a la cárcel en Archidona
 ----------------------------------------------------------
@@ -486,610 +1018,3 @@ La trama de la serie, también conocida como _When the Phone Rings_ y con el tí
 A pesar de estos cambios, los seguidores de la serie aún tienen la oportunidad de mantenerse informados sobre los nuevos episodios y sus nuevas fechas de estreno. Este giro en la programación refleja cómo factores externos, como los conflictos políticos, afectan a la industria del entretenimiento, especialmente en producciones internacionales.
 
 Con este cambio, los fanáticos deberán estar atentos a futuras actualizaciones para conocer la nueva fecha de estreno.
-
-Taylor Swift destrozó récords de legendarios con su gira ‘The Eras Tour’
-========================================================================
-
-La gira de Taylor Swift, 'The Eras Tour', marcó un hito sin precedentes en la industria.
-----------------------------------------------------------------------------------------
-
-![Taylor Swift sigue imparable. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-10T180100.714.jpg)
-
-La gira de Taylor Swift, **‘The Eras Tour’**, marcó un hito sin precedentes en la industria musical al recaudar más de **2 000 millones de dólares** en ventas de entradas. Esa cifra la dio **The New York Times**.
-
-Este impresionante total, que asciende a **2 077 618 725 dólares**, equivale al doble de lo que cualquier otra gira ha logrado en la historia.
-
-Más noticias:
-
-* [Feid se sumó a la lista de reguetoneros colombianos con récords Guinness](https://www.elcomercio.com/tendencias/entretenimiento/feid-record-guinness-reguetoneros-colombianos.html "https://www.elcomercio.com/tendencias/entretenimiento/feid-record-guinness-reguetoneros-colombianos.html")
-* [Karol G y Feid arrasan con su química física y musical](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-feid-fans-amor-complicidad-pareja-ano.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-feid-fans-amor-complicidad-pareja-ano.html")
-* [¿Quién es Feid, el cantante que estará en el show de la Copa América 2024?](https://www.elcomercio.com/tendencias/feid-copa-america.html "https://www.elcomercio.com/tendencias/feid-copa-america.html")
-
-**Taylor Swift destrozó récords de legendarios con su gira ‘The Eras Tour’**
-----------------------------------------------------------------------------
-
-La gira, que comenzó el 17 de marzo de 2023 en Glendale, Arizona, y concluyó el pasado domingo en Vancouver, Canadá, fue vista por más de **10 millones de personas** en **149 conciertos** a lo largo de **21 meses**.
-
-Este fenómeno redefinió los estándares de la música pop, pero también generó un impacto **económico** significativo en cada ciudad que visitó.
-
-> [View this post on Instagram](https://www.instagram.com/p/C8hIungMPmD/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Taylor Swift (@taylorswift)](https://www.instagram.com/p/C8hIungMPmD/?utm_source=ig_embed&utm_campaign=loading)
-
-Entre los récords establecidos, destaca la mayor asistencia en una sola noche, con más de **96 000 espectadores** en Melbourne, Australia, el 16 de febrero.
-
-**Taylor Swift superó a un grande**
------------------------------------
-
-Además, los ocho conciertos realizados en el estadio Wembley de **Londres** atrajeron a un total de **753 112 personas**, consolidando aún más su éxito.
-
-El precio promedio por entrada fue de **204 dólares**, superando el promedio global de **131 dólares** para las giras más populares del año.
-
-Este fenómeno hizo que las entradas se revaloricen significativamente en el mercado secundario, alcanzando precios exorbitantes.
-
-Con este logro monumental, **Taylor Swift** se establece como una de las artistas más influyentes del mundo contemporáneo; superó a Coldplay, cuya gira anterior recaudó más de **1 000 millones de dólares**
-
-Dos generadores eléctricos de 600 kW llegaron a Quito, ¿en qué se los utilizará?
-================================================================================
-
-Los generadores eléctricos se instalaron en los barrios La Roldós y Colinas del Norte, en el noroccidente de Quito.
--------------------------------------------------------------------------------------------------------------------
-
-![El Municipio de Quito prevé invertir 2,2 millones de dólares en la compra de generadores eléctricos](https://www.elcomercio.com/wp-content/uploads/2024/12/generadores-electricos-quito.jpg)
-
-Quito recibió dos **generadores eléctricos** con capacidad de 600 kilovatios. Ambos arribaron el 2 de diciembre de 2024, pero fueron instalados este lunes 9, en el noroccidente de Quito, en los barrios **La Roldós** y **Colinas del Norte**.
-
-### Más noticias
-
-* [Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025](https://www.elcomercio.com/actualidad/quito/concejo-aprueba-presupuesto-quito-2025.html "Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025")
-* [Cortes de luz en Quito este miércoles 11 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-miercoles-11-diciembre.html "Cortes de luz en Quito este miércoles 11 de diciembre")
-* [Concejo Metropolitano de Quito niega citación del secretario de Cultura](https://www.elcomercio.com/actualidad/quito/concejo-metropolitano-cultura-secretario-quitofest.html "Concejo Metropolitano de Quito niega citación del secretario de Cultura")
-
-Estas máquinas de transformación eléctrica, por el momento, se encuentran en **periodo de prueba** para garantizar su correcto funcionamiento.
-
-¿En qué se utilizarán los generadores eléctricos?
--------------------------------------------------
-
-Los generadores eléctricos se utilizarán para reforzar las operaciones en las **estaciones de bombeo** de agua potable, en los **barrios altos** de la ciudad.
-
-La Empresa Metropolitana de Agua Potable y Saneamiento (**Epmaps**) confirmó que, a demás de esta compra, se adquirirán más generadores para solventar la **crisis energética**. La inversión total alcanzará los **2,2 millones de dólares**.
-
-Estos equipos se irán instalando de forma **paulatina** hasta cubrir las **62 estaciones de bombeo** que existen en el Distrito Metropolitano.
-
-En los próximos días se espera la llegada de otros dos generadores de **300 kilovatios**. Un **segundo grupo de artefactos** llegará en el primer trimestre de 2025[.](https://www.quito.gob.ec/ "https://www.quito.gob.ec/")
-
-Crisis energética afecta la distribución de agua en Quito
----------------------------------------------------------
-
-La Epmaps explicó que los **cortes de luz programados** afectan de forma directa a la distribución de agua potable en la ciudad, en especial, en los barrios altos.
-
-“El servicio de agua potable requiere tiempo para el llenado de líneas y tanques de distribución, por lo que su retorno tras un corte eléctrico **no es inmediato**“, indicó la entidad.
-
-En algunos casos, este proceso puede tomar entre **seis y 120 horas**.
-
-Por ello, el Municipio de Quito aplicó **racionamientos de agua** desde noviembre.
-
-Ocho barrios con prioridad
---------------------------
-
-El Cabildo logró un acuerdo con el **Ministerio de Energía** para evitar apagones programados en las zonas donde operan los sistemas de bombeo, mientras se instalan los generadores de energía.
-
-Se identificó que el **6 %** de los quiteños dependen de estaciones de bombeo. Los barrios con una situación crítica son:
-
-* La Roldós
-* Colinas del Norte
-* La Merced
-* Chillogallo Medio
-* Guajaló Alto
-* Forestal Alto
-* Ferroviaria Alto
-* Chiriyacu Medio y Alto
-
-**Otros sectores** priorizados son los barrios ubicados entre **El Bosque** y **El Condado**, por encima de la avenida Occidental.
-
-La Epmaps hizo un llamado a la ciudadanía para cuidar el líquido vital y **evitar su desperdicio**, en especial, “mientras continúa ejecutándose el plan de mitigación energética en la ciudad”.
-
-Santa Elena alberga tesoros de antiguos galeones españoles, según investigador sueco 
-=====================================================================================
-
-Tesoros de galeones españoles en Ecuador prometen riqueza histórica.
---------------------------------------------------------------------
-
-![Más de 30 galeones han sido identificados en las costas ecuatorianas (imagen referencial). Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/Santa-Elena-Galeones-Hundidos.jpg)
-
-**Kjell Edwall**, investigador sueco apasionado por los grandes acontecimientos históricos, ha dedicado gran parte de su vida a desentrañar los misterios del pasado, incluidos los **galeones españoles** hundidos en las **costas de Ecuador.**  
-
-### Más noticias
-
-* [Nueva tecnología revela pistas sobre el tesoro inca de Atahualpa](https://www.elcomercio.com/tendencias/cultura/tesoro-atahualpa-ruminahui-incas.html "https://www.elcomercio.com/tendencias/cultura/tesoro-atahualpa-ruminahui-incas.html") 
-* [Gobierno colombiano declara bien de interés cultural el galeón San José](https://www.elcomercio.com/tendencias/colombia-interes-cultural-san-jose.html "https://www.elcomercio.com/tendencias/colombia-interes-cultural-san-jose.html")
-
-Entre 1532 y 1800, numerosos galeones naufragaron frente a las costas de Salinas, y desaparecieron junto con sus **valiosos cargamentos**.  
-
-El proyecto de Edwall, iniciado en 2002, ha revelado hallazgos que podrían redefinir la **historia marítima en la región**. 
-
-**Galeones españoles en Ecuador** 
-----------------------------------
-
-Edwall **inició sus investigaciones** en Ecuador con el **estudio de la cultura inca**. Entre 1986 y 1998, **lideró seis expediciones a los Llanganatis**, además, logró captar la atención del público sueco con una película transmitida por la televisión de su país, vista por 850 mil personas. En 1998, **visitó Salinas**, lo que marcó el inicio de una **investigación exhaustiva** fuera de sus costas, de acuerdo con información proporcionada por Edwall. 
-
-**Licencias y avances tecnológicos en la exploración marina** 
---------------------------------------------------------------
-
-![Foto: Cortesía Kjell Edwall. ](https://www.elcomercio.com/wp-content/uploads/2024/12/Galeones-Hundidos-Santa-Elena-1024x683.jpg)
-
-Foto: Cortesía Kjell Edwall.
-
-En 2003, su equipo obtuvo la licencia para explorar y explotar un área específica de la **costa ecuatoriana**, lo que llevó a la creación de **tecnologías avanzadas** de exploración marina. En 2014, el **Ministerio de Medio Ambiente** (MAE) emitió una **licencia ambiental** para operar entre **Punta Elena y Chanduy**, tras cumplir con estrictas regulaciones. Ese mismo año, Edwall rastreó **el primer galeón** en las profundidades del mar ecuatoriano. 
-
-**Más de 30 galeones identificados** 
--------------------------------------
-
-Desde entonces, **se han identificado más de 30 galeones** hundidos, según la misma fuente. Si se toma como referencia **la exploración, hallazgo y ganancias** proyectadas del legendario **galeón San José**, hundido en costas colombianas, los galeones en costas ecuatorianas podrían albergar grandes tesoros de valor incalculable.  
-
-**El galeón San José: un antecedente internacional** 
------------------------------------------------------
-
-De acuerdo con [EuroNews](https://es.euronews.com/cultura/2024/06/20/galeon-san-jose-comienza-la-mision-de-recuperacion-de-un-tesoro-de-incalculable-valor#:~:text=A%20pesar%20de%20llevar%20300,de%20Estado%2C%20para%20evitar%20saqueos. "https://es.euronews.com/cultura/2024/06/20/galeon-san-jose-comienza-la-mision-de-recuperacion-de-un-tesoro-de-incalculable-valor#:~:text=A%20pesar%20de%20llevar%20300,de%20Estado%2C%20para%20evitar%20saqueos."), de lo último que se sabe del **galeón San José**, el “santo grial de los naufragios” ha estado sumergido por más de tres siglos debido a **conflictos sobre su propiedad**. 
-
-Aunque lleva más de **300 años en las profundidades** del Caribe, el galeón ha generado disputas. **Descubierto en 2015** por el Gobierno colombiano y empresas aliadas, su **ubicación exacta** se mantiene bajo secreto de Estado para prevenir saqueos. 
-
-**Objetivo principal: rescatar el patrimonio marítimo de Ecuador** 
--------------------------------------------------------------------
-
-El **objetivo de Kjell Edwall** es lograr un **acuerdo con el Gobierno ecuatoriano** para **rescatar los galeones** y conservar su **invaluable patrimonio histórico**. Este ambicioso proyecto no solo resalta la **riqueza cultural y arqueológica** de Ecuador, sino que también podría convertirse en un **modelo para la exploración marítima sostenible**. 
-
-**Museos, acuarios y turismo** 
--------------------------------
-
-Adicional, hay una [empresa sueca](https://www.instagram.com/galeonesespanoles.ecuador/ "https://www.instagram.com/galeonesespanoles.ecuador/") que tiene como meta **restablecer el contrato** que permite la exploración y rescate de los **buques de la Armada Española** en las costas ecuatorianas. La empresa ha propuesto financiar la **construcción de museos y acuarios** que convertirán a Ecuador en un referente de **arqueología marina.** 
-
-### Te recomendamos:
-
-Inter Miami y Campana enfrentan la salida de un pilar clave
-===========================================================
-
-El Inter Miami se despide de una de sus piezas claves rumbo a la temporada 2025.
---------------------------------------------------------------------------------
-
-![Lionel Messi, Diego Gómez y Luis Suárez festejando un gol con el Inter Miami.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-10T181159.615.jpg)
-
-El Inter Miami de **Leonardo Campana** confirmó este martes 10 de diciembre la salida de uno de los mejores jugadores del plantel, quien tomará rumbo a la Premier League. Se trata del paraguayo Diego Gómez.
-
-A través de sus redes sociales, las ‘Garzas’ agradecieron a **Gómez** por su corta, pero destacada estancia en el club y le desearon éxitos en su nueva etapa como jugador del **Brighton & Hove Albion**.
-
-### Más noticias:
-
-* [Inter Miami tomó una importante decisión sobre Leonardo Campana](https://www.elcomercio.com/deportes/futbol/inter-miami-tomo-una-importante-decision-sobre-leonardo-campana.html "Inter Miami tomó una importante decisión sobre Leonardo Campana")
-* [Javier Mascherano, nuevo entrenador del Inter Miami](https://www.elcomercio.com/deportes/futbol/javier-mascherano-dt-inter-miami.html "Javier Mascherano, nuevo entrenador del Inter Miami")
-* [Gerardo Martino renuncia como DT del Inter Miami de Lionel Messi](https://www.elcomercio.com/deportes/futbol/gerardo-martino-renuncia-como-dt-del-inter-miami-de-lionel-messi.html "Gerardo Martino renuncia como DT del Inter Miami de Lionel Messi")
-
-Gómez deja a su compañero ecuatoriano Leonardo Campana, pero se unirá a otros compatriotas en Inglaterra como **Pervis** **Estupiñán**, pieza clave de las ‘Gaviotas’, y Jeremy Sarmiento, cedido al Burnley en la Championship.
-
-Transferencia récord para el Inter Miami
-----------------------------------------
-
-El traspaso de Diego Gómez se concretó por **USD 15 millones**, una cifra récord en la historia de las ‘Garzas’. Este monto coloca la transferencia entre las más caras de la historia de la Major League Soccer (MLS).
-
-El mediocampista paraguayo, de 21 años, llegó al Inter Miami en julio de 2023 y rápidamente se convirtió en un jugador esencial. Gómez disputó **40 partidos** en todas las competencias, marcó **7 goles** y dio **10 asistencias**.
-
-Además, fue una pieza clave en la obtención de los **primeros títulos** en la historia del club: la **Leagues Cup 2023** y el **Supporters’ Shield 2024**.
-
-> ¡Gracias por todo, Diego! 💗🖤 Te deseamos lo mejor en esta nueva etapa ✨  
->   
-> Diego Gómez has been transferred to Brighton & Hove Albion for a Club-Record Fee.  
->   
-> Details: [https://t.co/OphKNrdGrU](https://t.co/OphKNrdGrU) [pic.twitter.com/Ts6Lx0L3KR](https://t.co/Ts6Lx0L3KR)
-> 
-> — Inter Miami CF (@InterMiamiCF) [December 10, 2024](https://twitter.com/InterMiamiCF/status/1866527680595890660?ref_src=twsrc%5Etfw)
-
-Leonardo Campana continuará en el club
---------------------------------------
-
-A pesar de los cambios en el plantel, Leonardo Campana seguirá formando parte del **Inter Miami**. Según un comunicado oficial, el club renovó a figuras como Jordi Alba y confirmó la continuidad de Lionel Messi y Luis Suárez junto al delantero ecuatoriano.
-
-De los jugadores del 2024, solo siete no continuarán, incluidos **Cole Jensen**, **Sergii Kryvtsov**, **Franco Negri**, **Matías Rojas**, **Lawson Sunderland** y **Felipe Valencia**, cuyos contratos no fueron renovados. Además, Nicolás Freire regresa a su club de origen tras finalizar su préstamo.
-
-Con este panorama, **Campana** se consolida como una de las piezas claves para el Inter Miami en la temporada 2025.
-
-El éxito de ‘Wicked’ evidencia un avance hacia el fin del racismo y la discriminación en el cine
-================================================================================================
-
-El cuento de hadas musical se estrenó en Ecuador a mediados de noviembre de 2024.
----------------------------------------------------------------------------------
-
-![Cynthia Erivo y Ariana Grande protagonizan 'Wicked'.](https://www.elcomercio.com/wp-content/uploads/2024/12/wicked-El-Comercio-1.jpg)
-
-**Cynthia Erivo** es una actriz bisexual, afrodescendiente y la protagonista de un éxito: ‘**Wicked**‘.
-
-Desde su estreno a mediados de noviembre de 2024, la cinta tuvo opiniones positivas de la crítica. También contó con apoyo del público en taquilla.
-
-### Más noticias:
-
-* **[La segunda parte de Wicked ya tiene fecha de estreno](https://www.elcomercio.com/tendencias/la-segunda-parte-de-wicked-ya-tiene-fecha-de-estreno.html "https://www.elcomercio.com/tendencias/la-segunda-parte-de-wicked-ya-tiene-fecha-de-estreno.html")**
-* **[‘Kraven: El Cazador’ muestra el lado más salvaje de Marvel](https://www.elcomercio.com/afull/kraven-el-cazador-marvel.html "https://www.elcomercio.com/afull/kraven-el-cazador-marvel.html")**
-
-Además, ‘Wicked’ ha servido como un parámetro para ver cómo va el asunto de la representación e inclusión en Hollywood y en la percepción del público.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/wicked-El-Comercio-2-1024x683.jpg)
-
-La elección de Erivo en el papel de Elphaba simboliza un avance significativo en una industria que históricamente ha marginado a las minorías, porque evidencia que privilegió únicamente el talento de la actriz.
-
-Sin embargo, sugerir que este éxito marca el fin del racismo y la discriminación en el cine es un error y hay un ejemplo reciente.
-
-**La controversia en el casting de Harry Potter**
--------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/wicked-El-Comercio-3-1024x683.jpg)
-
-En paralelo al éxito de ‘Wicked’, las redes sociales ardieron con críticas al casting de la nueva serie de Harry Potter que estará en _streaming_ próximamente. ¿Por qué?
-
-Por inclusivo. La decisión de incorporar actores de diversas etnias para interpretar personajes clásicos de la saga generó opiniones polarizadas.
-
-Mientras algunos celebran el cambio como un paso hacia una representación más equitativa, otros lo perciben como una “traición” a la esencia de los libros.
-
-Este debate con la serie de Harry Potter pone demuestra la resistencia que aún existe hacia la inclusión en franquicias consolidadas.
-
-Los detractores argumentan que las decisiones de casting están motivadas por una agenda política y que es solo _marketing_ para atraer a nuevos espectadores. Mientras, los defensores señalan que la diversidad es un reflejo necesario de la sociedad actual. También hay quienes califican de forzada la inclusión y lo limitan a puro marketing.
-
-‘Wicked’ ha demostrado que el público está dispuesto a abrazar historias diversas y complejas. Las audiencias han mostrado su apoyo, pero el camino hacia la igualdad en la industria sigue siendo largo.
-
-El caso de ‘La Sirenita’
-------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/wicked-El-Comercio-1-1-1024x683.jpg)
-
-La elección de Halle Bailey como Ariel en la adaptación de ‘La Sirenita’ que se estrenó en 2023 también desató una controversia similar. Las redes sociales se llenaron de comentarios racistas que cuestionaban su elección.
-
-Además, algunos críticos atribuyeron el rendimiento comercial débil de la película a la decisión de casting.
-
-Un artículo del medio Página 12 señaló que la indignación por la elección de la actriz Halle Bailey para interpretar a la Sirenita se debió a que el presunto cambio de raza del personaje es percibido como una falta de respeto al material original.
-
-Sin embargo, sostiene el sitio, **Hans Christian Andersen,** autor de ‘La Sirenita’ en 1837, no menciona ningún color de piel. Es decir, que en la película animada de Disney, la decisión de que Ariel sea blanca es arbitraria.
-
-A pesar de las críticas, Bailey recibió elogios por su actuación y por desafiar los estándares tradicionales de belleza en Hollywood. Su participación en ‘La Sirenita’ sirvió de mucho para fijar un punto de inflexión en la lucha por la diversidad.
-
-¿Quién es Mohamed al Bashir, el encargado de liderar la transición en Siria?
-============================================================================
-
-El político islamista se graduó en Ingeniería Eléctrica y Electrónica en la Universidad de Alepo en 2007.
----------------------------------------------------------------------------------------------------------
-
-![Mohamed al Bashir es un ingeniero y político sirio.](https://www.elcomercio.com/wp-content/uploads/2024/12/mohamed-siria-1.jpg)
-
-Nacido en Jabal Zawiya (noroeste de Siria) en 1983, [Mohamed al Bashir](https://es.wikipedia.org/wiki/Mohamed_al-Bashir "https://es.wikipedia.org/wiki/Mohamed_al-Bashir") fue asignado por los rebeldes para liderar la **transición en Siria** tras el derrocamiento de 24 años de régimen de **Bashar al Asad** por una ofensiva insurgente.
-
-### Más noticias
-
-* [Entre 40 y 50 cadáveres hallados en la prisión siria de Sednaya](https://www.elcomercio.com/actualidad/mundo/entre-40-50-cadaveres-hallados-prision-siria-sednaya.html "Entre 40 y 50 cadáveres hallados en la prisión siria de Sednaya")
-* [Cronología de 13 años de guerra civil en Siria](https://www.elcomercio.com/actualidad/mundo/cronologia-13-anos-guerra-civil-siria.html "Cronología de 13 años de guerra civil en Siria")
-* [Insurgentes encargan formar gobierno en Siria al presidente de la administración de Idlib](https://www.elcomercio.com/actualidad/mundo/insurgentes-encargan-formar-gobierno-siria-presidente-administracion-idlib.html "Insurgentes encargan formar gobierno en Siria al presidente de la administración de Idlib")
-
-Ahmed al Charaa (conocido anteriormente como Abu Mohamed al Jolani), el líder islamista que encabezó la ofensiva que derrocó a Al Asad, y el ex primer ministro sirio Mohamed Ghazi al Jalali fueron quienes decidieron que **Al Bashir iba a capitanear esta nueva era en Siria,** que ha vivido más de cinco décadas bajo la familia Al Asad.
-
-Pero ¿quién es **Al Bashir** y qué es el **Gobierno de Salvación** del que era también el jefe?
-
-Ingeniero de profesión
-----------------------
-
-El político islamista se graduó en **Ingeniería Eléctrica y Electrónica en la Universidad de Alepo** en 2007. Posteriormente, en Sharía (ley islámica) en la Universidad de Idlib, la **provincia nororiental que sirvió de principal feudo opositor del Gobierno de Al Asad** en los últimos años y de donde es oriundo.
-
-En 2011, trabajó en la **Compañía Siria de Gas** como responsable del departamento de instrumentos de precisión, de acuerdo a su currículo.
-
-También cuenta con diferentes diplomas, entre los que destaca sus cursos en inglés avanzado, así como certificados en gestión de proyectos y planificación administrativa.
-
-Pero el salto a la política lo dio tras las **revueltas populares de 2011 contra Al Asad**, en el marco de la llamada ‘Primavera Árabe’ que, posteriormente, se extendieron por toda Siria y fueron duramente **reprimidas por el Gobierno de Al Asad** y de sus aliados, entre ellos Irán y Rusia.
-
-Al Bashir fue nombrado el pasado enero como **jefe del Gobierno de Salvación**, una suerte de rama política que está vinculada al **Organismo de Liberación del Levante** (Hayat Tahrir al Sham o HTS, en árabe), y cuya sede está en Idlib.
-
-Gobierno de Salvacion y su papel
---------------------------------
-
-Antes de pasar a ser el jefe del Gobierno de Salvación, estuvo como ministro de Desarrollo y Asuntos Humanitarios bajo el que era entonces el cabecilla de esa administración en Idlib, Ali Keda.
-
-Durante ese periodo de tiempo, se centró en **modernizar esta región tan castigada** por la guerra y atender las necesidades humanitarias de las alrededor de **tres millones de personas en esa provincia**, la mitad de ellas desplazadas y que han sufrido terribles ataques del Gobierno sirio y bombardeos de la aviación rusa.
-
-Pero, ¿qué es exactamente el Gobierno de Salvación?
----------------------------------------------------
-
-Establecido en 2017, esta administración que cuenta con **ministerios, departamentos y autoridades judiciales y de seguridad**. Fue creado para **ayudar a las personas** que estaban en las zonas que escapaban al control de Damasco y que no podían volver para obtener los servicios gubernamentales.
-
-No obstante, Al Bashir se tuvo que enfrentar a **varios problemas durante su cargo** como jefe del Gobierno de Salvación.
-
-El pasado febrero, grupos de manifestantes salieron a las calles de algunas ciudades de Idlib pidiendo la **caída de Al Jolani,** según informaron activistas en ese momento, en unas protestas que continuaron durante algunos meses.
-
-Sus demandas iban desde el fin de las **violaciones de derechos humanos en las cárceles**, así como reformas económicas en la región por sus **malas condiciones de vida**. Además, la oposición al monopolio de la toma de **decisiones por parte de HTS**, que es tan solo uno de las decenas de grupos que componen la oposición a Al Asad en Siria.
-
-Las unidades de seguridad de HTS **atacaron a los manifestantes con porras y gases lacrimógenos** y prosiguieron de forma esporádica durante meses. Esto mientras que **Al Bashir emitió un decreto de amnistía general** para autores de delitos que hubieran mostrado buena conducta con el fin de contentar a la población.
-
-Según el informe de septiembre de 2024 de la **Comisión de Investigación sobre Siria,** creada por la ONU, las protestas siguieron a campañas de arrestos contra miembros del HTS, grupos rivales, partidos políticos y **civiles, incluidos mujeres y niños de hasta 7 años**, mientras que los detenidos fueron sometidos a tortura.
-
-Piero Hincapié y Leverkusen vencen al Inter de Milán en Champions
-=================================================================
-
-Piero Hincapié y el Bayer Leverkusen se impusieron con un gol agónico ante el Inter de Milán en la UEFA Champions League.
--------------------------------------------------------------------------------------------------------------------------
-
-![Piero Hincapié (centro) del Bayer Leverkusen disputa un balón con Davide Fratessi del Inter de Milán en la UEFA Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-10T163344.959.jpg)
-
-**Piero Hincapié y el Bayer Leverkusen** ganaron en la sexta fecha de la UEFA Champions League y en la última de 2024. La escuadro ganó por un marcador de 1-0 ante el Inter de Milán como local y se mantiene en zona de clasificación directa a los octavos de final.
-
-La primera fase liguera de la **UEFA Champions League** se encuentra en su última recta antes de celebrar los cruces directos pues, a partir de esta temporada, el torneo contó un formato distinto. Los 36 equipos clasificados se enfrentan en ocho duelos iniciales ante un rival distinto y los ocho mejores van a octavos de final. Del 9 al 24 juegan dieciseisavos.
-
-### Más noticias:
-
-* [Piero Hincapié y el Leverkusen consiguen tres puntos en un partido complicado](https://www.elcomercio.com/deportes/futbol/piero-hincapie-leverkusen-consiguen-tres-puntos-partido-complicado.html "Piero Hincapié y el Leverkusen consiguen tres puntos en un partido complicado")
-* [Piero Hincapié y Leverkusen eliminan a Bayern Múnich en Copa de Alemania](https://www.elcomercio.com/deportes/piero-hincapie-bauyer-leverkusen-eliminacion-bayern.html "Piero Hincapié y Leverkusen eliminan a Bayern Múnich en Copa de Alemania")
-* [El Leverkusen vence a Union Berlin con un destacado Piero Hincapié](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-union-berlin.html "El Leverkusen vence a Union Berlin con un destacado Piero Hincapié")
-
-Para el compromiso, la escuadra alemana ya había llegado bien posicionada y en la zona de equipos con un **cupo directo** hacia la siguiente ronda. Pese a ello, este aún no aseguraba nada con respecto a su futuro dentro del torneo.
-
-El plantel de Hincapié tenía **10 puntos**, sin embargo, el **Inter de Milán** llegaba con un presente mucho mejores. Los italianos contaban con 13 puntos y estaban en el segundo puesto de la tabla de posiciones, por lo que de ganar podía quedar casi con un lugar asegurado en octavos.
-
-Un empate y dificultades para el Leverkusen
--------------------------------------------
-
-En un inicio, el Inter y el **Bayer Leverkusen** presentaron un panorama parejo en el cual ninguno conseguía imponerse en ataque. **Piero Hincapíe** estuvo como titular y se ubicó en el andarivel zurdo para tener acción durante los 90 minutos de juego.
-
-La más clara para el conjunto de las ‘aspirinas’ se produjo en los primeros instantes del partido. **Nathan Tella** apareció a los 3 minutos de juego y envió el balón hacia el travesaño. Pese a ello, su equipo no volvió a crear jugadas similares.
-
-Los primeros **45 minutos de juego** terminaron con un marcador de 0-0. Aunque la segunda mitad invitó a que aquello se mantenga, todo cambio en el ocaso del partido[.](https://es.wikipedia.org/wiki/Bayer_Leverkusen "https://es.wikipedia.org/wiki/Bayer_Leverkusen")
-
-Un gol agónico para Piero Hincapié y el Bayer Leverkusen
---------------------------------------------------------
-
-La etapa de complemento mantuvo la misma tónica que la primera en el compromiso. Las capacidades de **las defensas de ambas escuadras** fueron las que hicieron gala de su poderío. La jugada que rompió con la tendencia llegó a los 90 y fue más producto del azar que de la técnica.
-
-En un último ataque, los alemanes se lanzaron en su totalidad a buscar el gol. Tras un tiro de esquina que fue conectado y devino en un rebote, **Tella** logró poner el 1-0 en el marcador y el **triunfo** para los rojinegros.
-
-Con la victoria, el **Leverkusen** se catapultó hacia el tercer puesto de la tabla de posiciones con 13 unidades. Sus siguientes rivales en Champions serán el **Atlético de Madrid y el Sparta Praga**.
-
-El **Inter de Milan** se mantuvo con la misma cantidad de puntos y pasó hacia el cuarto lugar. En el futuro también deberá enfrentar al **Sparta Praga** y, finalmente, se medirá al Mónaco.
-
-Asamblea Nacional tiene juicios políticos pendientes por tramitar
-=================================================================
-
-El juicio político contra la exministra de Energía, Andrea Arrobo, se realizará el próximo 13 de diciembre de 2024.
--------------------------------------------------------------------------------------------------------------------
-
-![Andrea Arrobo en su comparecencia ante la Comisión de Fiscalización el pasado 4 de diciembre de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-10T162935.329.jpg)
-
-La **Asamblea Nacional** reanudará el juicio político contra **Andrea Arrobo**, exministra de **Energía y Minas**, quien enfrenta acusaciones de un **supuesto boicot relacionado con los apagones** ocurridos antes del referéndum de abril de 2024.
-
-### Más noticias
-
-* [Viviana Veloz ofreció garantías a Andrea Arrobo para su juicio político](https://www.elcomercio.com/actualidad/politica/viviana-veloz-ofrecio-garantias-andrea-arrobo-juicio-politico.html "Viviana Veloz ofreció garantías a Andrea Arrobo para su juicio político")
-* [Andrea Arrobo tomó una decisión sobre el juicio político en el Pleno de la Asamblea](https://www.elcomercio.com/actualidad/politica/andrea-arrobo-decision-juicio-politico-pleno-asamblea.html "Andrea Arrobo tomó una decisión sobre el juicio político en el Pleno de la Asamblea")
-* [Asamblea Nacional tomó una decisión sobre el juicio político contra Andrea Arrobo](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-tomo-decision-juicio-politico-andrea-arrobo.html "Asamblea Nacional tomó una decisión sobre el juicio político contra Andrea Arrobo")
-
-Arrobo no asistió a la sesión del pasado miércoles 4 de diciembre. En una carta pública explicó que teme **represalias si presenta pruebas en su defensa**.
-
-La p**residenta de la Asamblea, Viviana Veloz,** suspendió el juicio el 4 de diciembre al constatar la ausencia de la exfuncionaria. En su carta, **Arrobo aseguró que cuenta con pruebas** de que no participó en el presunto boicot, pero expresó su temor a sufrir consecuencias devastadoras por parte del Gobierno.
-
-Se tiene previsto, según la agenda de la **Asamblea Nacional**, que el juicio político contra Andrea Arrobo se retome el próximo viernes 13 de diciembre de 2024 a las 09:00.
-
-> 🟣COMUNICADO🟣  
->   
-> El correísmo que protegió a Wilman Terán y luego a Verónica Abad, ahora lo hace con Andrea Arrobo.  
->   
-> ¡Nosotros no pactamos con la impunidad! [@Adnecuadorok](https://twitter.com/Adnecuadorok?ref_src=twsrc%5Etfw) [pic.twitter.com/RcZMs6aNi0](https://t.co/RcZMs6aNi0)
-> 
-> — Bancada ADN (@BancadaADN) [December 5, 2024](https://twitter.com/BancadaADN/status/1864461505820791136?ref_src=twsrc%5Etfw)
-
-Crisis energética y acusaciones contra el Ejecutivo
----------------------------------------------------
-
-En su misiva, Arrobo detalló que **alertó al presidente Daniel Noboa** sobre la crisis energética, señalando que se le pidió no divulgar la información para evitar **repercusiones negativas en la consulta popular**. Según Veloz, la exministra cuenta con pruebas que podrían **evidenciar negligencia del Ejecutivo** en la gestión de la crisis.
-
-> Sobre el juicio político en mi contra, que se llevará acabo este miércoles en la [@AsambleaEcuador](https://twitter.com/AsambleaEcuador?ref_src=twsrc%5Etfw) a continuación expongo mis argumentos: [pic.twitter.com/Ot1nyW9ZeZ](https://t.co/Ot1nyW9ZeZ)
-> 
-> — Andrea Arrobo Peña (@andrearrobo) [December 4, 2024](https://twitter.com/andrearrobo/status/1864111227418419586?ref_src=twsrc%5Etfw)
-
-Los **racionamientos eléctricos** que afectaron al país desde finales de 2023 se atribuyen a una severa sequía en las principales centrales hidroeléctricas. Durante la **campaña del referéndum**, el Gobierno denunció un boicot en su contra, lo que intensificó la controversia en torno a la **administración de Noboa**.
-
-Otros juicios políticos en curso
---------------------------------
-
-El **Consejo de Administración de la Legislatura (CAL)** también calificó el juicio político contra Ivonne Núñez, ministra de Trabajo, por **presunto incumplimiento de funcione**s. La solicitud fue presentada por asambleístas de oposición, quienes cuestionan la sanción impuesta a la vicepresidenta Verónica Abad.
-
-Adicionalmente, el Parlamento tramita el juicio contra **Margarita Hernández**, **exsuperintendenta de Economía Popular y Solidaria**, acusada de irregularidades en el control del sector financiero no bancario. Ambos procesos están a la espera de resoluciones por parte de la **Comisión de Fiscalización**.
-
-La Comisión de Fiscalización **enfrenta una acumulación de seis juicios políticos previos**, incluidos aquellos contra **jueces electorales y exministros de Estado**. Los nuevos pedidos, como los casos de **Núñez y Hernández**, deberán esperar su turno en el cronograma establecido.
-
-¿Qué es un juicio político?
----------------------------
-
-El juicio político en Ecuador es un **mecanismo de control que la Asamblea Nacional** ejerce sobre las funciones Ejecutiva, Electoral, de Transparencia y Control Social, entre otras.
-
-Este proceso está destinado a censurar y eventualmente destituir a **altos funcionarios del Estado** que incumplan con sus funciones o cometan actos de corrupción.
-
-El **juicio político** está fundamentado en la Constitución del país y regulado por la **Ley Orgánica de la Función Legislativa**. Puede ser iniciado contra funcionarios como el Presidente de la República, ministros de Estado, miembros de la Corte Constitucional, Corte Nacional de Justicia, Consejo Nacional Electoral, entre otros.
-
-Proceso para el inicio del juicio político
-------------------------------------------
-
-El proceso comienza con la **presentación de una solicitud** por parte de al menos un tercio de los miembros de la Asamblea Nacional.
-
-La solicitud debe **incluir las pruebas de la infracción cometida** por el funcionario. Una vez admitida la solicitud, se procede a la **fase de investigación**, durante la cual se recaban más pruebas y se permite la defensa del acusado.
-
-Posteriormente, el proceso entra en debate en el **Pleno de la Asamblea**. Para que el juicio político culmine con la destitución del funcionario, se requiere una **mayoría calificada de dos tercios de los asambleístas presentes**.
-
-Si se alcanza esta mayoría, el funcionario es **destituido de su cargo** y podría enfrentar otras sanciones legales, dependiendo de la gravedad del caso.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Liga de Quito ganó un título cada 20 meses en 24 años
-=====================================================
-
-Desde el 2000, Liga de Quito levantó 14 títulos, entre nacionales e internacionales.
-------------------------------------------------------------------------------------
-
-![Jugadores de Liga de Quito con el trofeo de la Liga Pro de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/12/titulos_liga_1.jpg)
-
-Liga de Quito cuenta las horas para afrontar la **final de vuelta de la Liga Pro**. El sábado 14 de diciembre de 2024, desde las 15:30, vista la cancha de Independiente del Valle para definir al campeón de esta temporada.
-
-La ventaja es para Liga de Quito. En la ida **golearon 3-0 a los del Valle con un doblete del paraguayo** Álex Arce, y un gol desde fuera del área del boliviano Gabriel Villamil, otro de los refuerzos que llegó a inicio de año.
-
-### Más noticias:
-
-* [Entradas para la final de](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles") [v](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles")[uelta entre IDV y Liga de Quito: Precios y detalles](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles")
-* [Premier League destaca las cualidades de Moisés Caicedo con Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-rendimiento-premier-league-tottenham.html "Premier League destaca las cualidades de Moisés Caicedo con Chelsea")
-* [Inter Miami tomó una importante decisión sobre Leonardo Campana](https://www.elcomercio.com/deportes/futbol/inter-miami-tomo-una-importante-decision-sobre-leonardo-campana.html "Inter Miami tomó una importante decisión sobre Leonardo Campana")
-
-Liga de Quito por el bicampeonato
----------------------------------
-
-Liga intenta convertirse en el primer **bicampeón del fútbol ecuatoriano** bajo la organización de la Liga Pro. En las ediciones previas levantaron el trofeo Delfín (2019), Barcelona Sporting Club (2020), Independiente (2021) y Aucas (2022).
-
-En el 2023 lo hicieron los albos ante el mismo rival. Lo **derrotaron en la tanda de penales por 3-0** en un Rodrigo Paz Delgado que vivió un verdadera fiesta por la nueva corona del ‘Rey de Copas’ de Ecuador.
-
-El primer bicampeón de los universitarios se remonta a los años 1974 y 1975 con el colombiano Leonel Montoya como entrenador y el ecuatoriano Polo Carrera, más el argentino Juan José Pérez, como las figuras en el terreno de juego.
-
-El segundo bicampeonato se cristalizó en 1998 con el brasileño **Paulo Massa como entrenador, y en 1999 con el chileno Manuel Pellegrin**i. Además, estos títulos tuvieron como testigo al Rodrigo Paz Delgado, inaugurado en marzo de 1997.
-
-Jacinto Espinoza, Ulises de la Cruz, Eduardo Hurtado, Patricio Hurtado, Álex Escobar, Paúl Guevara, Juan Helio Guamán, Ezequiel Maggiolo, Alfonso Obregón, Nixon Carcelén, Luis Capurro, Neicer Reascos, Luis González, entre otros, conformaron una máquina de triturar rivales.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/titulos_liga_2-1024x683.jpg)
-
-API.
-
-Liga resurgió en el siglo XXI
------------------------------
-
-Lo que va de transcurrido el siglo XXI sirvió para confirmar a **Liga de Quito como el equipo más importante** de la capital de los ecuatorianos y como el más ganador en los torneos de clubes de la Conmebol por parte de este país sudamericano.
-
-Luego de la opaca etapa con el descenso a la Serie B en el 2000 y su transitar por esta categoría en el 2001, volvió en el 2002 a la A y lo hizo con el impulso necesario para convertirse en el más ganador.
-
-Son **14 títulos los ganados en los últimos 24 años** y está a horas de sumar el número 15. Además, se suman ochos subcampeonatos.
-
-Esto equivale que ganaron un trofeo cada 20 meses, pero si logran la Liga Pro ese número se reduce a 18.
-
-Los títulos del campeonato **nacional fueron en el 2003, Apertura 2005, 2007, 2010, 2018 y 2023;** la Copa Ecuador en 2019; y la Supercopa Ecuador en 2020 y 2021.
-
-Fuera del territorio local alcanzó la Copa Libertadores 2008; la Copa Sudamericana 2009 y 2023; **y la Recopa Sudamericana 2009 y 2010**.
-
-Los subcampeonatos fueron en el torneo local de 2008, 2015, 2019 y 2020; el Mundial de Clubes 2008; la Copa Suruga Bank 2010; la Sudamericana 2011; y la Recopa 2024.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/titulos_liga_3-1024x683.jpg)
-
-API.
-
-San viernes
------------
-
-Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025
-======================================================================
-
-Con 12 votos a favor y 9 abstenciones, el Concejo Metropolitano de Quito aprobó el presupuesto para el próximo año.
--------------------------------------------------------------------------------------------------------------------
-
-![El alcalde de Quito, Pabel Muñoz, defendió la proforma presupuestaria para el 2025.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-10T164519.262.jpg)
-
-Con **12 votos** a favor y **9 abstenciones**, este 10 de diciembre del 2024, el **Concejo Metropolitano** aprobó el presupuesto para el 2025. La cifra que manejará el Gobierno local será de **1 002 millones de dólares,** seis millones menos que el año presente.
-
-### Más noticias
-
-* [Así se puede tener un animal de asistencia en Quito para ir en Metro y otras opciones](https://www.elcomercio.com/actualidad/quito/animal-asistencia-ecuador-metro-quito.html "Así se puede tener un animal de asistencia en Quito para ir en Metro y otras opciones")
-* [Concejo Metropolitano de Quito niega citación del secretario de Cultura](https://www.elcomercio.com/actualidad/quito/concejo-metropolitano-cultura-secretario-quitofest.html "Concejo Metropolitano de Quito niega citación del secretario de Cultura")
-* [AMC desechó casi 5 000 litros de alcohol en fiestas de Quito](https://www.elcomercio.com/actualidad/quito/amc-desecho-casi-5-000-litros-de-alcohol-en-fiestas-de-quito.html "AMC desechó casi 5 000 litros de alcohol en fiestas de Quito")
-
-La aprobación del Presupuesto de Quito
---------------------------------------
-
-La sesión del Pleno del **Concejo Metropolitano** de Quito tuvo un solo punto en el orden del día: la proforma presupuestaria para el próximo año. De todos modos se iba a aprobar, coincidieron varios concejales opositores. Michael Aulestia, de SUMA, incluso propuso que se archivara el proyecto.
-
-Sin embargo, la proforma habría entrado en **vigencia** por **ministerio de la Ley**, si no se aprobaba. Por eso, la votación final fue de 12 votos a favor, nueve abstenciones y un ausente.
-
-Presupuesto de Quito prioriza burocracia y movilidad
-----------------------------------------------------
-
-La sesión de este 10 de diciembre, que fue la **centésima** del Concejo Metropolitano de Quito, duró algo más de **tres horas**. La mayoría de los concejales que intervinieron fue de la **oposición.** Por tanto, **cuestionaron** las **cifras** que se manejan, la reducción de inversiones en las áreas sociales y la prioridad en Movilidad, sobre todo el Metro de Quito y en el gasto corriente, para pagar[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
-
-La concejala **Analía Ledesma** hizo quizá una de las mejores exposiciones para entender cómo se distribuirán los ingresos el próximo año. Puso por caso el que cada quiteño tiene 100 dólares para repartir. Lo haría de la siguiente manera.
-
-* Ambiente: 2 dólares.
-* Gestión de la Buena Vecindad y obras de Cercanía (coordinación territorial, gobernabilidad y participación: 5.59.
-* Hábitat y ordenamiento territorial: 3,31 dólares.
-* Movilidad (subsidio a los sistemas metropolitanos de transporte) 43,83 dólares.
-* Seguridad: 0,44
-* Reactivación económica; 2,17 dólares
-* Funcionamiento del Municipio 37,23 dólares.
-* Cultura: 1,74 dólares.
-* Educación: 1,70 dólares.
-* Salud: 1,65.
-* inclusión social: 0, 27 de dólar.
-
-Entonces, solo para la **Movilidad** y para pagar el **funcionamiento** del **Municipio**: 81.06 de esos 100 dólares de cada quiteño.
-
-La ‘Metrodependencia’ en el presupuesto de Quito
-------------------------------------------------
-
-**Aulestia** sostuvo que **no se han acogido las propuestas de los concejales** ni de la sociedad civil. “Vemos cómo se **prioriza** más en **consultorías**, en tratar de contratar servicios profesionales. **Solo en este año se destinó 40 millones de dólares para consultorías** y ahora también se quieren colocar una partida de cerca de **500 000 dólares** para la **reestructuración de rutas y frecuencias**“.
-
-Para el concejal, ya hay un **Plan Maestro de Movilidad** se pagó más de **1,2 millones de dólares**, que hay que desempolvar y ponerlo en práctica. “Están acostumbrados a llenarse de herramientas de planificación, pero las guardan en algún cajón y no las ponen en práctica”.
-
-La poca ejecución del presupuesto de Quito
-------------------------------------------
-
-En el debate, uno de los cuestionamientos mayores fue la poca ejecución presupuestaria que ha tenido el Municipio. **Fidel Chamba**, presidente de la **Comisión de Presupuesto**, señaló que uno de los mayores problemas es la **ejecución del presupuesto.** Hasta el 30 de noviembre, solo se ha usado el 47% del presupuesto.
-
-Puso por ejemplo la **Secretaría de Coordinación Territorial.** “Esta Secretaría se dirige al fortalecimiento a parroquias rurales y comunas. Lamentablemente, apenas está ejecutado el 27,46%”.
-
-Al ser la **movilidad** la destinataria de la mayor partida presupuestaria, Chamba presentó la ejecución del 2024: 56,47% al 30 de noviembre. En este presupuesto para el año 2025 se está asignando 439,3 millones, es decir, se incrementa alrededor de 20 millones. Entonces, “el mensaje es que los que no fueron capaces de ejecutar el presupuesto, deben renunciar de su cargo”, dijo Chamba.
-
-Alcalde defiende el presupuesto para la burocracia
---------------------------------------------------
-
-Al alcalde de Quito, Pabel Muñoz, defendió el trabajo del Municipio y la ejecución presupuestaria realizada hasta el momento. **“Nunca ofrecí una ejecución del 100%** por las propias trabas del sistema”, dijo.
-
-Añadió que “ustedes dicen que no ven obras, pero la ciudadanía está viendo más obras que en años pasados. Los que tendrán la razón de juzgarnos democráticamente serán los ciudadanos”.
-
-Cortes de luz en Guayaquil este miércoles 11 de diciembre
-=========================================================
-
-Los cortes de luz en Guayaquil para este miércoles 11 de diciembre son de hasta tres horas continuas.
------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil para este miércoles 11 de diciembre son definidos por CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-guayaquil-miercoles-11-diciembre.jpg)
-
-Los **cortes de luz** en **Guayaquil** este **miércoles 11 de diciembre** de 2024 son de tres horas.
-
-**CNEL** estableció la programación de horarios por sectores para mañana.
-
-### Más noticias:
-
-* [Daniel Noboa anunció el fin de los apagones en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-anuncio-fin-apagones-ecuador.html "Daniel Noboa anunció el fin de los apagones en Ecuador")
-* [El embalse de la central Mazar subió dos metros en una semana](https://www.elcomercio.com/actualidad/negocios/embalse-central-mazar-subio-metros-semana.html "El embalse de la central Mazar subió dos metros en una semana")
-
-Horarios de los cortes de luz en Guayaquil este miércoles 11 de diciembre
--------------------------------------------------------------------------
-
-El presidente **Daniel Noboa** anunció, este martes que el 20 de diciembre, el fin de los cortes de luz programados por la crisis energética.
-
-El Gobierno señaló que existe una **recuperación** de capacidad instalada y la incorporación de nueva generación de energía.
-
-Además, la **compra** de energía a **Colombia** y el aumento de los caudales y los embalses que abastecen a hidroeléctricas como **Mazar** y **Paute**, que permiten tomar esta nueva medida.
-
-Así, **Ecuador** no llegaría a los tres meses de los cortes de luz programados a causa de la crisis energética por la dependencia de las **lluvias**.
-
-La suspensión de **energía eléctrica** empezó el 23 de septiembre en todo el país.
-
-A partir de esa fecha, los ecuatorianos han tenido hasta **14 horas diarias** de cortes de luz.
-
-El período diario más reducido de cortes de luz es el de la semana actual, con la suspensión del servicio de energía eléctrica de hasta **tres horas.**
-
-En **Guayaquil**, **CNEL** estableció un mismo cronograma desde el lunes 9 de diciembre hasta el viernes 13 de diciembre.
-
-Los cortes para el **sector residencial** son de tres horas continuas en la capital, van desde las 00:00 hasta las 24:00, dependiendo del sector.
-
-En tanto, para el **sector industrial**, los cortes también son de tres horas, hasta el viernes.
-
-A continuación, los **horarios de cortes de luz en Guayaquil para este miércoles 11 de diciembre de 2024**:
