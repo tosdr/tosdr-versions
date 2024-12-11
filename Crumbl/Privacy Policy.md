@@ -14,11 +14,11 @@ Subtotal
 
 [Sign in to earn Crumbs for this order!](https://crumblcookies.com/login?next=%2Fprivacy)
 
-Order Now
-
 Menu
 
 [](https://crumblcookies.com/)
+
+Order Now
 
 **Crumbl Global Privacy Policy**
 
