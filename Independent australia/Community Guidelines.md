@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [Gender inequality giving 'D-Minus Dads' a passing grade](https://independentaustralia.net/article-display/gender-inequality-giving-d-minus-dads-a-passing-grade,19247 "Permanent Link : Gender inequality giving 'D-Minus Dads' a passing grade")
+* [Direct-to-cell services a game-changer for rural and emergency networks](https://independentaustralia.net/article-display/direct-to-cell-services-a-game-changer-for-rural-and-emergency-networks,19244 "Permanent Link : Direct-to-cell services a game-changer for rural and emergency networks")
 * [Crisafulli under pressure on which way to steer Queensland](https://independentaustralia.net/article-display/crisafulli-under-pressure-on-which-way-to-steer-queensland,19242 "Permanent Link : Crisafulli under pressure on which way to steer Queensland")
 * [How Trump 2.0 will affect the South Pacific](https://independentaustralia.net/article-display/how-trump-20-will-affect-the-south-pacific,19243 "Permanent Link : How Trump 2.0 will affect the South Pacific")
 * [Head in the sand approach to P.A.L.M. visa continues](https://independentaustralia.net/article-display/head-in-the-sand-approach-to-palm-visa-continues,19241 "Permanent Link : Head in the sand approach to P.A.L.M. visa continues")
 * [News Corp’s fossil fuel advertising dressed as news should be illegal](https://independentaustralia.net/article-display/news-corps-fossil-fuel-advertising-dressed-as-news-should-be-illegal,19240 "Permanent Link : News Corp’s fossil fuel advertising dressed as news should be illegal")
 * [Reclaiming the radical spirit of the Eureka Rebellion](https://independentaustralia.net/article-display/reclaiming-the-radical-spirit-of-the-eureka-rebellion,19239 "Permanent Link : Reclaiming the radical spirit of the Eureka Rebellion")
-* [Economic growth slows, incomes surge and Coalition hypocrisy hits new high](https://independentaustralia.net/article-display/economic-growth-slows-incomes-surge-and-coalition-hypocrisy-hits-new-high,19238 "Permanent Link : Economic growth slows, incomes surge and Coalition hypocrisy hits new high")
-* [If the cap fits... maybe use it to pull one over on the boss?](https://independentaustralia.net/article-display/if-the-cap-fits-maybe-use-it-to-pull-one-over-on-the-boss,19236 "Permanent Link : If the cap fits... maybe use it to pull one over on the boss?")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
