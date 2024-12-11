@@ -1,6 +1,6 @@
-[![YTMP3](/logo.svg)](https://ytmp3.cc/en-u0Ah/)
+[![YTMP3](/logo.svg)](https://ytmp3.cc/en-u3ew/)
 
-[Home](https://ytmp3.cc/en-u0Ah/)[Add-on](https://ytmp3.cc/add-on-1/)[FAQ](https://ytmp3.cc/faq-1/)
+[Home](https://ytmp3.cc/en-u3ew/)[Add-on](https://ytmp3.cc/add-on-1/)[FAQ](https://ytmp3.cc/faq-1/)
 
 Copyright Claims
 ================
