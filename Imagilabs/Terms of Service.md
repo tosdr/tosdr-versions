@@ -1,3 +1,5 @@
+[✨Holiday Sale: 20% Off imagiCharms - Order by Dec 13th for delivery in time for the holidays! ✨](https://imagilabs.com/discount/codingjoy24?redirect=%2Fcollections%2Fshop-collection)
+
 [![imagi](//imagilabs.com/cdn/shop/files/1_-_MAIN_-_Imagi-logo-magenta-RGB_804c5ea4-e7c1-41d7-a6f7-7fa445c9fef9.png?v=1662552731&width=300)](https://imagilabs.com/ "imagi")
 
 [Cart 0](https://imagilabs.com/cart)
