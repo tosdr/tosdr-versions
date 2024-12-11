@@ -587,15 +587,15 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 
 * [Shop All Sale](https://www.houzz.com/products/on-sale)
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/8b412a1507562f7a_1503-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--cyber-monday-sale)
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/8b412a1507562f7a_1503-w1132-h1444-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--cyber-monday-sale)
 
-[![Cyber Bestsellers Under $299](https://st.hzcdn.com/fimgs/8a119f8807562018_7560-w150-h150-b4-p0--home-design.jpg)
+[![Cyber Bestsellers Under $299](https://st.hzcdn.com/fimgs/8a119f8807562018_7560-w300-h300-b4-p0--home-design.jpg)
 
-Cyber Bestsellers Under $299Up to 80% off](https://www.houzz.com/ideabooks/178967095)[![The Ultimate Bathroom Sale](https://st.hzcdn.com/fimgs/5c113af507562014_7557-w150-h150-b4-p0--home-design.jpg)
+Cyber Bestsellers Under $299Up to 80% off](https://www.houzz.com/ideabooks/178967095)[![The Ultimate Bathroom Sale](https://st.hzcdn.com/fimgs/5c113af507562014_7557-w300-h300-b4-p0--home-design.jpg)
 
-The Ultimate Bathroom SaleUp to 60% off](https://www.houzz.com/ideabooks/178947278)[![The Ultimate Decor Sale](https://st.hzcdn.com/fimgs/f52133d407562013_7555-w150-h150-b4-p0--home-design.jpg)
+The Ultimate Bathroom SaleUp to 60% off](https://www.houzz.com/ideabooks/178947278)[![The Ultimate Decor Sale](https://st.hzcdn.com/fimgs/f52133d407562013_7555-w300-h300-b4-p0--home-design.jpg)
 
-The Ultimate Decor SaleUp to 80% off](https://www.houzz.com/ideabooks/179046305)[![The Ultimate Dining Sale](https://st.hzcdn.com/fimgs/a5014c5b07562015_7559-w150-h150-b4-p0--home-design.jpg)
+The Ultimate Decor SaleUp to 80% off](https://www.houzz.com/ideabooks/179046305)[![The Ultimate Dining Sale](https://st.hzcdn.com/fimgs/a5014c5b07562015_7559-w300-h300-b4-p0--home-design.jpg)
 
 The Ultimate Dining SaleUp to 75% off](https://www.houzz.com/ideabooks/179046336)
 
@@ -611,31 +611,31 @@ Cancel
 
 [Cyber Week Extended](https://www.houzz.com/products/sale-event--cyber-monday-sale)
 
-[![Cyber Bestsellers Under $299](https://st.hzcdn.com/fimgs/8a119f8807562018_7560-w150-h150-b0-p0--home-design.jpg)
+[![Cyber Bestsellers Under $299](https://st.hzcdn.com/fimgs/8a119f8807562018_7560-w300-h300-b0-p0--home-design.jpg)
 
 UP TO 80% OFF
 
 Cyber Bestsellers Under $299](https://www.houzz.com/ideabooks/178967095) 
 
-[![The Ultimate Bathroom Sale](https://st.hzcdn.com/fimgs/5c113af507562014_7557-w150-h150-b0-p0--home-design.jpg)
+[![The Ultimate Bathroom Sale](https://st.hzcdn.com/fimgs/5c113af507562014_7557-w300-h300-b0-p0--home-design.jpg)
 
 UP TO 60% OFF
 
 The Ultimate Bathroom Sale](https://www.houzz.com/ideabooks/178947278) 
 
-[![The Ultimate Decor Sale](https://st.hzcdn.com/fimgs/f52133d407562013_7555-w150-h150-b0-p0--home-design.jpg)
+[![The Ultimate Decor Sale](https://st.hzcdn.com/fimgs/f52133d407562013_7555-w300-h300-b0-p0--home-design.jpg)
 
 UP TO 80% OFF
 
 The Ultimate Decor Sale](https://www.houzz.com/ideabooks/179046305) 
 
-[![The Ultimate Dining Sale](https://st.hzcdn.com/fimgs/a5014c5b07562015_7559-w150-h150-b0-p0--home-design.jpg)
+[![The Ultimate Dining Sale](https://st.hzcdn.com/fimgs/a5014c5b07562015_7559-w300-h300-b0-p0--home-design.jpg)
 
 UP TO 75% OFF
 
 The Ultimate Dining Sale](https://www.houzz.com/ideabooks/179046336) 
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/8b412a1507562f7a_1503-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--cyber-monday-sale) 
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/8b412a1507562f7a_1503-w1132-h1444-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--cyber-monday-sale) 
 
 [0](https://www.houzz.com/viewCart)
 
@@ -663,7 +663,7 @@ Houzz Pro: One simple solution for contractors and design pros
 
 [History of Houzz](https://www.houzz.com/houzz-historyzz)
 
-![Houzz Logo Print](//www.houzz.com/res/28897126/pic/houzz_logo.svg?v=28897126)
+![Houzz Logo Print](//www.houzz.com/res/28897848/pic/houzz_logo.svg?v=28897848)
 
 **COOKIE POLICY**
 =================
