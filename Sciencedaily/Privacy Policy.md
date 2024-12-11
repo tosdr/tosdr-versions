@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 10, 2024**
+**December 11, 2024**
 
 * * *
 
@@ -232,23 +232,23 @@ this week
 
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
-[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
+[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
-[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
-
 [Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
+
+[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
-
 [Forest](https://www.sciencedaily.com/news/earth_climate/forests/)
 
-[Ancient Civilizations](https://www.sciencedaily.com/news/fossils_ruins/ancient_civilizations/)
+[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
+
+[Cultures](https://www.sciencedaily.com/news/fossils_ruins/cultures/)
 
   
 
