@@ -3,12 +3,12 @@
 Manga & Anime Favorites
 -----------------------
 
+* [Bleach](https://www.viz.com/bleach)
+* [My Hero Academia](https://www.viz.com/my-hero-academia)
+* [Pokémon](https://www.viz.com/pokemon)
 * [Ito-verse](https://www.viz.com/junji-ito)
 * [Boruto](https://www.viz.com/boruto)
 * [Naruto](https://www.viz.com/naruto)
-* [Bleach](https://www.viz.com/bleach)
-* [Pokémon](https://www.viz.com/pokemon)
-* [My Hero Academia](https://www.viz.com/my-hero-academia)
 * [Read Kamudo Free!](https://www.viz.com/vizmanga/chapters/kamudo)
 * [Gomi](https://www.viz.com/products/gomi-no-sensei)
 
@@ -30,7 +30,10 @@ Manga & Anime Favorites
     * [Main Page](https://www.viz.com/anime)
     * [TV Shows](https://www.viz.com/anime/tv-shows)
     * [Movies](https://www.viz.com/anime/movies)
-* [Shop](https://shonenjumpstore.com/?utm_campaign=shop-link&utm_source=viz.com&utm_medium=referral)
+* [Shop](#)
+    * [VIZ Shop](https://shop.viz.com/?utm_source=www.viz.com/&utm_medium=referral&utm_campaign=shop-link&utm_term=&utm_content=)
+    * [Shonen Jump Store](https://shonenjumpstore.com/?utm_campaign=shop-link&utm_source=viz.com&utm_medium=referral)
+* [Shop](https://shop.viz.com/?utm_source=www.viz.com/&utm_medium=referral&utm_campaign=shop-link&utm_term=&utm_content=)
 * [Calendar](https://www.viz.com/calendar)
 * [More](#)
     * [Blog](https://www.viz.com/blog)
