@@ -240,12 +240,21 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Ready to get started?
+#### Want to contribute ?
 
   
-Sign up for a free dynamic DNS account, no credit card needed  
+
+[Submit your Article](https://www.dynu.com/Support/ContactUs)  
   
-[Sign Up for Free](https://www.dynu.com/ControlPanel/CreateAccount)  
+
+  
+
+[Suggest an Update](https://www.dynu.com/Support/ContactUs)  
+  
+
+  
+
+[Request an Article](https://www.dynu.com/Support/ContactUs)  
   
 
 ### News
