@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [J.G. Ballard Gets Paid to Plug Taco Bell](https://www.somethingawful.com/news/ballard-dorito-locos/)
-* [E3Girls.com](https://www.somethingawful.com/awful-links/awful-link-2887/)
-* [Kiss the Boys](https://www.somethingawful.com/movie-reviews/kiss-the-boys/1/)
-* [My Electro Band Has Important Things to Say About the 1980s](https://www.somethingawful.com/news/drive-ad-nauseam/)
-* [A Closer Look At The Photo Op Bible Trump Spilled Blood To Awkwardly Pose With](https://www.somethingawful.com/news/bible-protest-trump/)
+* [Twelve More Exclusive Star Wars Characters Revealed!](https://www.somethingawful.com/news/star-wars-cards/1/)
+* [What's Cookin'?](https://www.somethingawful.com/email-pranks/email-spam-whats/)
+* [I'm So Goddamn Skinny!](https://www.somethingawful.com/email-pranks/email-spam-im/)
+* [Cinema Paridiso](https://www.somethingawful.com/email-pranks/email-spam-cinema/1/)
+* [AwfulVision: What Would Dick & Nut Do?](https://www.somethingawful.com/awfulvision/alexyss-blob-ugly/1/)
 
 ### Popular Threads
 
-* ![](https://forumimages.somethingawful.com/forums/posticons/icons-08/art.png) [Dogs playing poker? Out.](http://forums.somethingawful.com/showthread.php?threadid=4077190 "Dogs playing poker? Out.")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Something I never got about the movie Knives Out. spoilers](http://forums.somethingawful.com/showthread.php?threadid=4077246 "Something I never got about the movie Knives Out. spoilers")
+* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Ideas to make the Something Awful Forums really "pop" in 2025](http://forums.somethingawful.com/showthread.php?threadid=4077252 "Ideas to make the Something Awful Forums really "pop" in 2025")
 
 ### Random Articles
 
-* [Congratulations From The US Dads Association!](https://www.somethingawful.com/news/dad-app-ideas/)
-* [Man of Steel; This Is the End; As Cool as I Am](https://www.somethingawful.com/current-movie-reviews/man-of-steel/1/)
-* [What the Hell is a Greasnin, Anyway?](https://www.somethingawful.com/news/what-hell-greasnin/)
-* [GameScott: The Top 10 Easter Eggs In Games](https://www.somethingawful.com/flash-tub/gamescott-top-10/)
-* [Adult Situations](https://www.somethingawful.com/news/adult-situations/)
+* [QUEER VAMPIRES!!!](https://www.somethingawful.com/awful-links/awful-link-1116/)
+* [The Something Awful Guide To Men’s Fashion, Fall 2016](https://www.somethingawful.com/news/fall-2016-fashion/)
+* [INSULTINGLY STUPID MOVIE PHYSICS](https://www.somethingawful.com/awful-links/awful-link-3871/)
+* [Some Stuff We Liked in 2012](https://www.somethingawful.com/garbage-day/best-music-2012/1/)
+* [You Don't Belong Here!](https://www.somethingawful.com/photoshop-phriday/you-dont-belong/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
