@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -140,8 +140,9 @@ MSX Music player
 
 Latest reactions
 
-* [Nogalious available on Steam](https://www.msx.org/news/software/en/nogalious-available-on-steam "Nogalious available on Steam")
 * [MSXdev24 #15 Titan Ufo](https://www.msx.org/news/challenges/en/msxdev24-15-titan-ufo "MSXdev24 #15 Titan Ufo")
+* [Pyxidis Ex and Block'em Sock'em](https://www.msx.org/news/en/two-new-games-for-msx-pyxidis-ex-and-blockem-sockem "Pyxidis Ex and Block'em Sock'em")
+* [Nogalious available on Steam](https://www.msx.org/news/software/en/nogalious-available-on-steam "Nogalious available on Steam")
 * [MSX Legends playable promo](https://www.msx.org/news/software/en/msx-legends-playable-promo "MSX Legends playable promo")
 * [The Goonies enhanced](https://www.msx.org/news/en/the-goonies-enhanced "The Goonies enhanced")
 * [MSX GOTO40](https://www.msx.org/news/en/goto-40 "MSX GOTO40")
@@ -149,14 +150,13 @@ Latest reactions
 * [Ankje Kalkwiek passed away at the age of 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at the age of 77")
 * [Sander Niessen playing Duck Hunt like a pro...](https://www.msx.org/photoshoots/nijmegen-2012/sander-niessen-playing-duck-hunt-pro "Sander Niessen playing Duck Hunt like a pro...")
 * [GFX9000 Vertical Scroll Test](https://www.msx.org/downloads/gfx9000-vertical-scroll-test "GFX9000 Vertical Scroll Test")
-* [Pyxidis Ex and Block'em Sock'em](https://www.msx.org/news/en/two-new-games-for-msx-pyxidis-ex-and-blockem-sockem "Pyxidis Ex and Block'em Sock'em")
 
 Latest forum posts
 
-* [MSX+Laserdisc arcade set](https://www.msx.org/forum/msx-talk/general-discussion/msxlaserdisc-arcade-set "MSX+Laserdisc arcade set")
-* [RP2350B will change cartridges for MSX forever!](https://www.msx.org/forum/msx-talk/hardware/this-will-change-cartridges-for-msx-moving-forward?page=2 "RP2350B will change cartridges for MSX forever!")
 * [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=14 "Christmas Quiz 2024")
+* [RP2350B will change cartridges for MSX forever!](https://www.msx.org/forum/msx-talk/hardware/this-will-change-cartridges-for-msx-moving-forward?page=2 "RP2350B will change cartridges for MSX forever!")
 * [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=3 "ZX Spectrum Convertions")
+* [MSX+Laserdisc arcade set](https://www.msx.org/forum/msx-talk/general-discussion/msxlaserdisc-arcade-set "MSX+Laserdisc arcade set")
 * [Astron Belt - Laserdisc - Not loading properly](https://www.msx.org/forum/msx-talk/software/astron-belt-laserdisc-not-loading-properly "Astron Belt - Laserdisc - Not loading properly")
 * [SCC cartridge with 16 MegaBytes on MSX !](https://www.msx.org/forum/msx-talk/hardware/scc-cartridge-with-16-megabytes-on-msx?page=1 "SCC cartridge with 16 MegaBytes on MSX !")
 * [How do i load BAS.files into Bluemsx?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-load-basfiles-into-bluemsx "How do i load BAS.files into Bluemsx?")
