@@ -83,7 +83,7 @@ Sign Up for Newsletter
 * [Bet Now](https://bets.drf.com/)
 * [Purchase PPs](http://shop.drf.com/)
 * [DRF En Espanol](https://www.drf.com/espanol)
-* [Preference Center](https://registration.drf.com/preferences)
+* [Preference Center](https://membercenter.drf.com/email-preferences-center)
 
 * [About](https://www.drf.com/about)
 * [Handicapping 101](https://www.drf.com/handicapping_101)
