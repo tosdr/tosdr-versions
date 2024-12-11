@@ -109,7 +109,7 @@ MY PILLOW® TERMS AND CONDITIONS
 
 All Product Prices are in US Currency.  
   
-These Terms & Conditions apply to the website located at [www.mypillow.com](https://www.mypillow.com/) and any other sites, mobile sites, social media, services, applications, platforms and tools through which My Pillow® products may be purchased from us and/or are advertised by us (collectively, the "Site"). As used in these Terms & Conditions, "My Pillow", "us" or "we" refers to My Pillow, Inc. and its subsidiaries and affiliates.  
+These Terms & Conditions apply to the website located at [www.mypillow.com](http://www.mypillow.com/) and any other sites, mobile sites, social media, services, applications, platforms and tools through which My Pillow® products may be purchased from us and/or are advertised by us (collectively, the "Site"). As used in these Terms & Conditions, "My Pillow", "us" or "we" refers to My Pillow, Inc. and its subsidiaries and affiliates.  
   
 PLEASE READ THE FOLLOWING CAREFULLY AS IT AFFECTS YOUR LEGAL RIGHTS. THESE TERMS & CONDITIONS CONTAIN AN AGREEMENT TO ARBITRATE THAT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES RATHER THAN JURY OR ANY OTHER COURT PROCEEDINGS, OR CLASS ACTIONS OF ANY KIND.  
   
