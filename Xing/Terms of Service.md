@@ -61,6 +61,7 @@
 * [Privacy at XING](https://privacy.xing.com/en)
 * [Privacy Policy](https://privacy.xing.com/en/privacy-policy)
 * [Cancel membership](https://www.xing.com/support/contact/memberships)
+* [Tracking](https://www.xing.com/)
 
 Language
 
