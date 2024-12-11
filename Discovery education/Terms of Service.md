@@ -1,14 +1,10 @@
 [Skip to content](#content)
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://www.discoveryeducation.co.uk/wp-content/uploads/2024/11/de-logo-full-black.png)](https://www.discoveryeducation.co.uk/)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.discoveryeducation.co.uk/)
 
 [![](https://www.discoveryeducation.co.uk/wp-content/uploads/2024/11/Discovery-Education-Logo-Horizontal-Full-Color-Neg-1024x236.png)](https://www.discoveryeducation.co.uk/)
 
 ![de-logo-full-black](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![de-logo-full-black](https://www.discoveryeducation.co.uk/wp-content/uploads/2024/11/de-logo-full-black.png)
 
 * Solutions
     
@@ -218,8 +214,6 @@ Discovery Education Europe Limited is a company registered in England and Wales 
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://www.discoveryeducation.co.uk/wp-content/uploads/2024/10/de-logo-full-black-1.png)
-
 ###### Company
 
 * [Awards](https://www.discoveryeducation.co.uk/awards/)
@@ -262,8 +256,6 @@ Discovery Education Europe Limited is a company registered in England and Wales 
 Discovery Education’s UK operating entity is Discovery Education Europe Limited, a company registered in England and Wales under Company Number: 03261277. Registered office: 9 Palace Yard Mews, Bath BA1 2NH. VAT number: GB 887 9082 56.
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://play.vidyard.com/7bCxx4ToZ1BxvGyLHcHV6P.jpg)
 
 X
 
