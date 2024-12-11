@@ -561,7 +561,7 @@ Requests may be filed by visiting our [request web page](https://privacyportal.o
 * [Life at Moderna](https://www.modernatx.com/en-US/careers/life-at-moderna)
 * [Meet our changemakers](https://www.modernatx.com/en-US/careers/meet-our-changemakers)
 * [Awards](https://www.modernatx.com/en-US/careers/awards)
-* [Join our team](https://modernatx.eightfold.ai/careers/)
+* [Join our team](https://modernatx.wd1.myworkdayjobs.com/M_tx)
 
 [](https://www.instagram.com/moderna_tx/)[](https://facebook.com/modernatx)[](https://twitter.com/moderna_tx)[](https://linkedin.com/company/modernatx)
 
