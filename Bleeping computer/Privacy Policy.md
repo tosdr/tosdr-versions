@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Blue Yonder SaaS giant breached by Termite ransomware gang](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Blue Yonder SaaS giant breached by Termite ransomware gang](https://www.bleepingcomputer.com/news/security/blue-yonder-saas-giant-breached-by-termite-ransomware-gang/)
-    * [![Ultralytics AI model hijacked to infect thousands with cryptominer](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
-    * [![New Windows zero-day exposes NTLM credentials, gets unofficial patch](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New Windows zero-day exposes NTLM credentials, gets unofficial patch](https://www.bleepingcomputer.com/news/security/new-windows-zero-day-exposes-ntlm-credentials-gets-unofficial-patch/)
-    * [![Romania's election systems targeted in over 85,000 cyberattacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Romania's election systems targeted in over 85,000 cyberattacks](https://www.bleepingcomputer.com/news/security/romanias-election-systems-targeted-in-over-85-000-cyberattacks/)
-    
-    * [![Windows 10 KB5048652 update fixes new motherboard activation bug](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Windows 10 KB5048652 update fixes new motherboard activation bug](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5048652-update-fixes-new-motherboard-activation-bug/)
     * [![Microsoft December 2024 Patch Tuesday fixes 1 exploited zero-day, 71 flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft December 2024 Patch Tuesday fixes 1 exploited zero-day, 71 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2024-patch-tuesday-fixes-1-exploited-zero-day-71-flaws/)
-    * [![Windows 11 KB5048667 & KB5048685 cumulative updates released](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![US sanctions Chinese firm for hacking firewalls in ransomware attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Windows 11 KB5048667 & KB5048685 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5048667-and-kb5048685-cumulative-updates-released/)
-    * [![FTC distributes $72 million in Fortnite refunds from Epic Games](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        US sanctions Chinese firm for hacking firewalls in ransomware attacks](https://www.bleepingcomputer.com/news/security/us-sanctions-chinese-firm-for-hacking-firewalls-in-ragnarok-ransomware-attacks/)
+    * [![New Cleo zero-day RCE flaw exploited in data theft attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        FTC distributes $72 million in Fortnite refunds from Epic Games](https://www.bleepingcomputer.com/news/gaming/ftc-distributes-72-million-in-fortnite-refunds-from-epic-games/)
+        New Cleo zero-day RCE flaw exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/new-cleo-zero-day-rce-flaw-exploited-in-data-theft-attacks/)
+    * [![Chinese hackers use Visual Studio Code tunnels for remote access](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Chinese hackers use Visual Studio Code tunnels for remote access](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-visual-studio-code-tunnels-for-remote-access/)
+    
+    * [![Wyden proposes bill to secure US telecoms after Salt Typhoon hacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Wyden proposes bill to secure US telecoms after Salt Typhoon hacks](https://www.bleepingcomputer.com/news/security/wyden-proposes-bill-to-secure-us-telecoms-after-salt-typhoon-hacks/)
+    * [![WPForms bug allows Stripe refunds on millions of WordPress sites](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        WPForms bug allows Stripe refunds on millions of WordPress sites](https://www.bleepingcomputer.com/news/security/wpforms-bug-allows-stripe-refunds-on-millions-of-wordpress-sites/)
+    * [![Ivanti warns of maximum severity CSA auth bypass vulnerability](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Ivanti warns of maximum severity CSA auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-maximum-severity-csa-auth-bypass-vulnerability/)
+    * [![Build a future in tech with CompTIA training course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Build a future in tech with CompTIA training course deal](https://www.bleepingcomputer.com/offer/deals/build-a-future-in-tech-with-comptia-training-course-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
