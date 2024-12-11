@@ -133,7 +133,7 @@ To secure these transfers, Xandrie can, for example, set up standard clauses def
 
 [About Us](https://www.qobuz.com/us-en/about) [Job opportunities](https://www.welcometothejungle.co/companies/qobuz) [Qobuz Blog](https://community.qobuz.com/news-en/) [Press Room](https://community.qobuz.com/press-en/) [Business and partners](https://www.qobuz.com/us-en/page/annonceurs-partenariats) [Qobuz Society](https://www.qobuz.com/us-en/society)
 
-[Streaming subscription plans](https://www.qobuz.com/us-en/music/streaming/offers) [Our applications](https://www.qobuz.com/us-en/discover/apps-partners) [Give Qobuz as a gift](https://www.qobuz.com/us-en/offer-qobuz) [Discover the best sound quality](https://www.qobuz.com/us-en/audio-quality) [Download store](https://www.qobuz.com/us-en/shop) [Qobuz Lifestyle](https://lifestyle.qobuz.com/)
+[Streaming subscription plans](https://www.qobuz.com/us-en/music/streaming/offers) [Qobuz Duo](https://www.qobuz.com/us-en/music/streaming/offers/duo) [Qobuz Family Offer](https://www.qobuz.com/us-en/music/streaming/offers/household) [Qobuz Student Plan](https://www.qobuz.com/us-en/music/streaming/offers/student) [Our ecosystem](https://www.qobuz.com/us-en/discover/apps-partners) [Download our Qobuz application](https://www.qobuz.com/us-en/discover/apps-qobuz) [Give Qobuz as a gift](https://www.qobuz.com/us-en/offer-qobuz) [Discover the best sound quality](https://www.qobuz.com/us-en/audio-quality) [Download store](https://www.qobuz.com/us-en/shop) [Qobuz Lifestyle](https://lifestyle.qobuz.com/)
 
 [](https://www.facebook.com/qobuz)[](https://www.twitter.com/qobuz)[](https://www.youtube.com/qobuz)[](https://www.instagram.com/qobuz)
 
