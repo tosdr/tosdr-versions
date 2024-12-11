@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can a patient be kicked out of a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-a-patient-be-kicked-out-of-a-nursing-home.jpg "Can a Patient Be Kicked Out of a Nursing Home?")](https://www.pintas.com/faq/can-a-patient-be-kicked-out-of-a-nursing-home/ "Can a Patient Be Kicked Out of a Nursing Home?")
+[![How do i know if my baby powder is safe?](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-how-do-i-know-if-my-baby-powder-is-safe.jpg "How Do I Know If My Baby Powder Is Safe?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-my-baby-powder-safe "How Do I Know If My Baby Powder Is Safe?")
 
-[#### Can a Patient Be Kicked Out of a Nursing Home?](https://www.pintas.com/faq/can-a-patient-be-kicked-out-of-a-nursing-home/)
+[#### How Do I Know If My Baby Powder Is Safe?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-my-baby-powder-safe)
 
-[![How do you get malignant mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/mesothelioma-lawyer-how-do-you-get-malignant-mesothelioma-scaled.jpg "How Do You Get Malignant Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-malignant-mesothelioma/ "How Do You Get Malignant Mesothelioma?")
+[![Can mesothelioma go into remission?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-mesothelioma-go-into-remission.jpg "Can Mesothelioma Go Into Remission?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-go-into-remission/ "Can Mesothelioma Go Into Remission?")
 
-[#### How Do You Get Malignant Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-malignant-mesothelioma/)
+[#### Can Mesothelioma Go Into Remission?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-go-into-remission/)
 
-[![How do you get mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-how-do-you-get-mesothelioma-lung-cancer.jpg "How Do You Get Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/ "How Do You Get Mesothelioma Lung Cancer?")
+[![Is non-small cell lung cancer the same as mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-is-non-small-cell-lung-cancer-the-same-as-mesothelioma.jpg "Is Non-Small Cell Lung Cancer The Same As Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-non-small-cell-lung-cancer-the-same-as-mesothelioma/ "Is Non-Small Cell Lung Cancer The Same As Mesothelioma?")
 
-[#### How Do You Get Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-do-you-get-mesothelioma-lung-cancer/)
+[#### Is Non-Small Cell Lung Cancer The Same As Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-non-small-cell-lung-cancer-the-same-as-mesothelioma/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
