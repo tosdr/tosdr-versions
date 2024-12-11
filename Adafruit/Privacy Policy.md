@@ -1,5 +1,7 @@
 Due to high demand USPS orders may not ship for up to 3-4 business days.
 
+🎁📦🚚 [Approaching Holiday Shipping Deadline](https://www.adafruit.com/Holiday): Place all UPS Ground orders by 11 am ET Friday, December 13🎄⛄❄️
+
 Glitch your gift list! Use code [gibson15](https://blog.adafruit.com/2024/12/09/gibson15/) for 15% off the [2024 Adafruit Holiday Gift Guide](https://www.adafruit.com/explore/holiday-gift-guide-2024)!
 
   Skip Navigation
@@ -79,37 +81,37 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
-    ![Angled Shot of the Raspberry Pi 512GB SSD.](https://cdn-shop.adafruit.com/230x173/6089-00.jpg)[Raspberry Pi NVMe SSD - 512GB
+    ![Angled Shot of the Adafruit A4988 Stepper Motor Driver Breakout Board.](https://cdn-shop.adafruit.com/310x233/6109-00.jpg)[Adafruit A4988 Stepper Motor Driver Breakout Board
+    
+    $6.95](https://www.adafruit.com/product/6109)
+    
+    ![Angled Shot of the Raspberry Pi 512GB SSD.](https://cdn-shop.adafruit.com/310x233/6089-00.jpg)[Raspberry Pi NVMe SSD - 512GB
     
     $45.00](https://www.adafruit.com/product/6089)
     
-    ![Angled Shot of the Adafruit AHT20 Temp+Hum Sensor - Assembled PCB](https://cdn-shop.adafruit.com/230x173/4566-04.jpg)[Adafruit AHT20 - Temperature & Humidity Sensor Breakout Board
+    ![Angled Shot of the Adafruit AHT20 Temp+Hum Sensor - Assembled PCB](https://cdn-shop.adafruit.com/310x233/4566-04.jpg)[Adafruit AHT20 - Temperature & Humidity Sensor Breakout Board
     
     $4.50](https://www.adafruit.com/product/4566)
     
-    ![Demo Shot of the USB Micro B Small Round Panel Mount Extension USB Cable.](https://cdn-shop.adafruit.com/230x173/6068-04.jpg)[USB Micro B Small Round Panel Mount Extension USB Cable
+    ![Demo Shot of the USB Micro B Small Round Panel Mount Extension USB Cable.](https://cdn-shop.adafruit.com/310x233/6068-04.jpg)[USB Micro B Small Round Panel Mount Extension USB Cable
     
     $1.95](https://www.adafruit.com/product/6068)
     
-    ![Demo Shot of the USB C Small Round Panel Mount Extension Cable.](https://cdn-shop.adafruit.com/230x173/6069-04.jpg)[USB C Small Round Panel Mount Extension Cable
-    
-    $1.95](https://www.adafruit.com/product/6069)
-    
     Featured Products[view all](https://www.adafruit.com/featured)
     
-    ![Angled shot of thin, green rectangular microcontroller with castellated pads.](https://cdn-shop.adafruit.com/230x173/6006-02.jpg)[Raspberry Pi Pico 2 - RP2350
+    ![Angled shot of thin, green rectangular microcontroller with castellated pads.](https://cdn-shop.adafruit.com/310x233/6006-02.jpg)[Raspberry Pi Pico 2 - RP2350
     
     $5.00](https://www.adafruit.com/product/6006)
     
-    ![Angled shot of rectangular dev board.](https://cdn-shop.adafruit.com/230x173/5933-01.jpg)[Adafruit ESP32-C6 Feather - STEMMA QT
+    ![Angled shot of rectangular dev board.](https://cdn-shop.adafruit.com/310x233/5933-01.jpg)[Adafruit ESP32-C6 Feather - STEMMA QT
     
     $14.95](https://www.adafruit.com/product/5933)
     
-    ![Angled shot of black, rectangular datalogging board.](https://cdn-shop.adafruit.com/230x173/5980-00.jpg)[Adafruit Feather RP2040 Adalogger - 8MB Flash with microSD Card
+    ![Angled shot of black, rectangular datalogging board.](https://cdn-shop.adafruit.com/310x233/5980-00.jpg)[Adafruit Feather RP2040 Adalogger - 8MB Flash with microSD Card
     
     $14.95](https://www.adafruit.com/product/5980)
     
-    ![Angled shot of black, rectangular doubler prototyping board.](https://cdn-shop.adafruit.com/230x173/5906-00.jpg)[Adafruit Proto Doubler PiCowbell for Pico and PicoW
+    ![Angled shot of black, rectangular doubler prototyping board.](https://cdn-shop.adafruit.com/310x233/5906-00.jpg)[Adafruit Proto Doubler PiCowbell for Pico and PicoW
     
     $7.50](https://www.adafruit.com/product/5906)
     
@@ -408,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ By always thinking unto them. I keep the subject constantly before me and wait till the first dawnings open little by little into the full light”
+“ To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful.”
 
-[Isaac Newton](https://books.google.com/books?id=agI9AAAAIAAJ&pg=PA163&lpg=PA163&dq=isaac+newton+by+always+thinking+unto+them&source=bl&ots=0k_nBzZcqm&sig=3ARIEdz66ACinqE1KNi1Uh3sMMw&hl=en&sa=X&ved=0ahUKEwiIzfDIt8fJAhVF4CYKHadLCAsQ6AEINzAG#v=onepage&q=by%20always%20thin)
+[Edward R. Murrow](https://en.wikipedia.org/wiki/Edward_R._Murrow)
 
 [](https://www.adafruit.com/about)
 
