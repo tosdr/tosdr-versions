@@ -30,16 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/657f7c0e-5590-4950-a352-c1dd2d9b2321/20241210T224034/657f7c0e-5590-4950-a352-c1dd2d9b2321_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/657f7c0e-5590-4950-a352-c1dd2d9b2321/20241210T224034/657f7c0e-5590-4950-a352-c1dd2d9b2321_360x203.jpg)](https://www.wqad.com/article/news/local/temporary-ice-rink-village-east-davenport/526-a9e8613c-31f2-402e-8a06-66ba074bc285)
+        
+        #### [Temporary ice rink installed in the Village of East Davenport](https://www.wqad.com/article/news/local/temporary-ice-rink-village-east-davenport/526-a9e8613c-31f2-402e-8a06-66ba074bc285)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/121aee24-0c2b-4909-aac2-a8dca6d803fb/20241211T040837/121aee24-0c2b-4909-aac2-a8dca6d803fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/121aee24-0c2b-4909-aac2-a8dca6d803fb/20241211T040837/121aee24-0c2b-4909-aac2-a8dca6d803fb_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-west-coach-paul-flynn-ring-of-honor/526-dd81dbf4-684a-41b2-93e0-c5867617b6cc)
         
-        #### [Longtime Davenport West coach gets his Ring of Honor](https://www.wqad.com/article/news/local/davenport-west-coach-paul-flynn-ring-of-honor/526-dd81dbf4-684a-41b2-93e0-c5867617b6cc) [![](https://media.tegna-media.com/assets/WQAD/images/121aee24-0c2b-4909-aac2-a8dca6d803fb/20241211T040837/121aee24-0c2b-4909-aac2-a8dca6d803fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/121aee24-0c2b-4909-aac2-a8dca6d803fb/20241211T040837/121aee24-0c2b-4909-aac2-a8dca6d803fb_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-west-coach-paul-flynn-ring-of-honor/526-dd81dbf4-684a-41b2-93e0-c5867617b6cc)
-        
-        #### [Davenport West honors former football coach with a Ring of Honor](https://www.wqad.com/article/news/local/davenport-west-coach-paul-flynn-ring-of-honor/526-dd81dbf4-684a-41b2-93e0-c5867617b6cc) [![](https://media.tegna-media.com/assets/WQAD/images/121aee24-0c2b-4909-aac2-a8dca6d803fb/20241211T040837/121aee24-0c2b-4909-aac2-a8dca6d803fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/121aee24-0c2b-4909-aac2-a8dca6d803fb/20241211T040837/121aee24-0c2b-4909-aac2-a8dca6d803fb_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-west-coach-paul-flynn-ring-of-honor/526-dd81dbf4-684a-41b2-93e0-c5867617b6cc)
-        
-        #### [Davenport West awards Ring of Honor to former football coach](https://www.wqad.com/article/news/local/davenport-west-coach-paul-flynn-ring-of-honor/526-dd81dbf4-684a-41b2-93e0-c5867617b6cc)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/4796400e-7517-47a4-a65c-8f8e2a5c8c79/20241211T003737/4796400e-7517-47a4-a65c-8f8e2a5c8c79_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4796400e-7517-47a4-a65c-8f8e2a5c8c79/20241211T003737/4796400e-7517-47a4-a65c-8f8e2a5c8c79_360x203.jpg)](https://www.wqad.com/article/news/local/tiktok-ban-2025-small-business-impact-marketing-iowa/526-cbc87636-2bf4-48b0-8ad1-35039ce7215d)
-        
-        #### [Potential TikTok ban could leave Iowa-based small business looking for other marketing options](https://www.wqad.com/article/news/local/tiktok-ban-2025-small-business-impact-marketing-iowa/526-cbc87636-2bf4-48b0-8ad1-35039ce7215d)
+        #### [Longtime Davenport West coach gets his Ring of Honor](https://www.wqad.com/article/news/local/davenport-west-coach-paul-flynn-ring-of-honor/526-dd81dbf4-684a-41b2-93e0-c5867617b6cc)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -100,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-32°
+29°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Light Snow](/assets/shared-images/weather-icons/snow-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
