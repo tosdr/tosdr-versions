@@ -527,20 +527,6 @@ ADD TO TOTE
 
 CHOOSE Size
 
-[![cherry-lip-balm](https://www.100percentpure.com/cdn/shop/files/CherryBalm_239x254.jpg?v=1730991181)](https://www.100percentpure.com/products/cherry-lip-balm)
-
-![ Cherry Lip Balm](//www.100percentpure.com/cdn/shop/files/CherryBalm_220x.jpg?v=1730991181)
-
-### [Cherry Lip Balm](https://www.100percentpure.com/products/cherry-lip-balm)
-
-759 reviews (759)
-
-$8.00
-
-Default Title - $8
-
-ADD TO TOTE
-
 [![watermelon-cucumber-water-locking-moisturizer](https://www.100percentpure.com/cdn/shop/files/Watermelon_Moisturizer_239x254.jpg?v=1731003947)](https://www.100percentpure.com/products/watermelon-cucumber-water-locking-moisturizer)
 
 ![ Watermelon Cucumber Water Locking Moisturizer](//www.100percentpure.com/cdn/shop/files/Watermelon_Moisturizer_220x.jpg?v=1731003947)
