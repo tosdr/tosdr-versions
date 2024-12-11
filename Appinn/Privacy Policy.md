@@ -177,11 +177,11 @@
     
     11 月 28, 2024 2
     
-* [![MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件 9](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-20T113940.399-115x115.jpg "MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件 9")](https://www.appinn.com/mailcatcher/ "MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件")
+* [![2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro 对所有人免费，包括商用 9](https://www.appinn.com/wp-content/uploads/2024/05/Appinn-Feature-images-2024-11-12T121639.911-115x115.jpg "2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro 对所有人免费，包括商用 9")](https://www.appinn.com/vmware-free-workstation-pro-and-fusion-pro/ "2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro 对所有人免费，包括商用")
     
-    [MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件](https://www.appinn.com/mailcatcher/ "MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件")
+    [2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro …](https://www.appinn.com/vmware-free-workstation-pro-and-fusion-pro/ "2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro 对所有人免费，包括商用")
     
-    11 月 20, 2024 1
+    11 月 12, 2024 1
     
 
 ### 分类
