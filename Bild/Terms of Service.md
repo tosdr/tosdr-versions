@@ -207,28 +207,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Medienbericht: Razzia bei Firmengruppe von Bau-Millionär Gröner
-
-Medienbericht: Razzia bei Firmengruppe von Bau-Millionär Gröner
-
-Medienbericht: Razzia bei Firmengruppe von Bau-Millionär Gröner
-
-Medienbericht: Razzia bei Firmengruppe von Bau-Millionär Gröner
-
-Medienbericht: Razzia bei Firmengruppe von Bau-Millionär Gröner
-
-Medienbericht: Razzia bei Firmengruppe von Bau-Millionär Gröner
-
-Medienbericht: Razzia bei Firmengruppe von Bau-Millionär Gröner
-
-Medienbericht: Razzia bei Firmengruppe von Bau-Millionär Gröner
-
-Medienbericht: Razzia bei Firmengruppe von Bau-Millionär Gröner
-
-Medienbericht: Razzia bei Firmengruppe von Bau-Millionär Gröner](https://www.bild.de/news/christoph-groener-razzia-bei-firmengruppe-von-bau-millionaer-6759312fb017ce1e42d1e6de)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
