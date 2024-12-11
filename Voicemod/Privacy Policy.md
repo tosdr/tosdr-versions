@@ -335,8 +335,7 @@ Follow us for more!
 * [Newsroom](https://www.voicemod.com/newsroom)
 * [Support](https://www.voicemod.net/en/support/ "Support (FAQ)")
 * [Careers](https://www.voicemod.com/careers)
-* [Voicemod Key](https://www.voicemod.net/en/vmkey/)
-* [Black Friday](https://www.voicemod.net/en/blackfriday/)
+* [Rizzmas](https://www.voicemod.net/en/winter-holidays/)
 
 Supercharge Your Voice
 ----------------------
