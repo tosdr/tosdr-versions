@@ -120,44 +120,44 @@
 
 ### 精选推荐
 
+* [![Photopea 开发者新作 Vectorpea：免费在线矢量图编辑器 1](https://www.appinn.com/wp-content/uploads/2024/12/appinn-homework-33-115x115.jpg "Photopea 开发者新作 Vectorpea：免费在线矢量图编辑器 1")](https://www.appinn.com/vectorpea/ "Photopea 开发者新作 Vectorpea：免费在线矢量图编辑器")
+    
+    [Photopea 开发者新作 Vectorpea：免费在线矢量图编辑器](https://www.appinn.com/vectorpea/ "Photopea 开发者新作 Vectorpea：免费在线矢量图编辑器")
+    
+    12 月 11, 2024 0
+    
 * [![Everything 1.5a 新版发布：全新 SDK3 集成平台+搜索性能优化。支持拼音搜索（全拼、首字母）、全文搜索](https://www.appinn.com/wp-content/themes/mts_best/images/nothumb-best-widgetthumb.png)](https://www.appinn.com/everything-1-5-1385a/ "Everything 1.5a 新版发布：全新 SDK3 集成平台+搜索性能优化。支持拼音搜索（全拼、首字母）、全文搜索")
     
     [Everything 1.5a 新版发布：全新 SDK3 集成平台+搜索性能优化。支持拼音搜索（全拼、首字母）、全文搜索](https://www.appinn.com/everything-1-5-1385a/ "Everything 1.5a 新版发布：全新 SDK3 集成平台+搜索性能优化。支持拼音搜索（全拼、首字母）、全文搜索")
     
     11 月 29, 2024 1
     
-* [![Scrcpy v3.0 重磅升级：支持多个安卓应用同时投屏，开源免费 1](https://www.appinn.com/wp-content/uploads/2024/11/appinn-homework-8-115x115.jpg "Scrcpy v3.0 重磅升级：支持多个安卓应用同时投屏，开源免费 1")](https://www.appinn.com/scrcpy-3/ "Scrcpy v3.0 重磅升级：支持多个安卓应用同时投屏，开源免费")
+* [![Scrcpy v3.0 重磅升级：支持多个安卓应用同时投屏，开源免费 2](https://www.appinn.com/wp-content/uploads/2024/11/appinn-homework-8-115x115.jpg "Scrcpy v3.0 重磅升级：支持多个安卓应用同时投屏，开源免费 2")](https://www.appinn.com/scrcpy-3/ "Scrcpy v3.0 重磅升级：支持多个安卓应用同时投屏，开源免费")
     
     [Scrcpy v3.0 重磅升级：支持多个安卓应用同时投屏，开源免费](https://www.appinn.com/scrcpy-3/ "Scrcpy v3.0 重磅升级：支持多个安卓应用同时投屏，开源免费")
     
     11 月 26, 2024 0
     
-* [![LittleBigMouse - 让多屏幕操作丝滑如一，鼠标移动再无边界 2](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-30T210939.481-115x115.jpg "LittleBigMouse - 让多屏幕操作丝滑如一，鼠标移动再无边界 2")](https://www.appinn.com/littlebigmouse/ "LittleBigMouse – 让多屏幕操作丝滑如一，鼠标移动再无边界")
+* [![LittleBigMouse - 让多屏幕操作丝滑如一，鼠标移动再无边界 3](https://www.appinn.com/wp-content/uploads/2024/10/Appinn-Feature-images-2024-10-30T210939.481-115x115.jpg "LittleBigMouse - 让多屏幕操作丝滑如一，鼠标移动再无边界 3")](https://www.appinn.com/littlebigmouse/ "LittleBigMouse – 让多屏幕操作丝滑如一，鼠标移动再无边界")
     
     [LittleBigMouse – 让多屏幕操作丝滑如一，鼠标移动再无边界](https://www.appinn.com/littlebigmouse/ "LittleBigMouse – 让多屏幕操作丝滑如一，鼠标移动再无边界")
     
     10 月 30, 2024 0
     
-* [![运动派对 - iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥 3](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-14T130547.367-115x115.jpg "运动派对 - iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥 3")](https://www.appinn.com/yundong-paidui/ "运动派对 – iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥")
+* [![运动派对 - iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥 4](https://www.appinn.com/wp-content/uploads/2024/08/Appinn-feature-images-2024-08-14T130547.367-115x115.jpg "运动派对 - iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥 4")](https://www.appinn.com/yundong-paidui/ "运动派对 – iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥")
     
     [运动派对 – iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥](https://www.appinn.com/yundong-paidui/ "运动派对 – iPhone/iPad 变成「体感游戏机」打怪升级，顺便…减个肥")
     
     8 月 14, 2024 0
     
-* [![Image Toolbox - 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android] 4](https://www.appinn.com/wp-content/uploads/2024/06/Appinn-feature-images-2024-06-19T142357.854-115x115.jpg "Image Toolbox - 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android] 4")](https://www.appinn.com/image-toolbox/ "Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android]")
-    
-    [Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能\[Android\]](https://www.appinn.com/image-toolbox/ "Image Toolbox – 拥有 93 个功能的开源图片编辑器，今天只介绍图片对比挑选功能[Android]")
-    
-    6 月 19, 2024 2
-    
 
 ### 最近 30 天的热门内容
 
-* [![首发限免 | Aiarty Image Matting：轻松实现抠图换背 5](https://www.appinn.com/wp-content/uploads/2024/11/Aiarty-Image-Matting-115x115.jpg "首发限免 | Aiarty Image Matting：轻松实现抠图换背 5")](https://www.appinn.com/aiarty-image-matting/ "首发限免 | Aiarty Image Matting：轻松实现抠图换背")
+* [![ByePhotos - 找出 iPhone 相册中的重复照片，还支持压缩视频[限免中] 5](https://www.appinn.com/wp-content/uploads/2024/12/appinn-homework-29-115x115.jpg "ByePhotos - 找出 iPhone 相册中的重复照片，还支持压缩视频[限免中] 5")](https://www.appinn.com/byephotos-for-ios/ "ByePhotos – 找出 iPhone 相册中的重复照片，还支持压缩视频[限免中]")
     
-    [首发限免 | Aiarty Image Matting：轻松实现抠图换背](https://www.appinn.com/aiarty-image-matting/ "首发限免 | Aiarty Image Matting：轻松实现抠图换背")
+    [ByePhotos – 找出 iPhone 相册中的重复照片，还支持压缩视频\[限免中\]](https://www.appinn.com/byephotos-for-ios/ "ByePhotos – 找出 iPhone 相册中的重复照片，还支持压缩视频[限免中]")
     
-    11 月 22, 2024 2
+    12 月 9, 2024 5
     
 * [![双 11 榜单，哪些软件买的人最多 6](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-12T142028.247-115x115.jpg "双 11 榜单，哪些软件买的人最多 6")](https://www.appinn.com/241111-lizhi-final/ "双 11 榜单，哪些软件买的人最多")
     
@@ -165,23 +165,23 @@
     
     11 月 12, 2024 2
     
-* [![29 年后，正版 WinRAR 终于来了 7](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-28T141542.151-115x115.jpg "29 年后，正版 WinRAR 终于来了 7")](https://www.appinn.com/winrar/ "29 年后，正版 WinRAR 终于来了")
+* [![首发限免 | Aiarty Image Matting：轻松实现抠图换背 7](https://www.appinn.com/wp-content/uploads/2024/11/Aiarty-Image-Matting-115x115.jpg "首发限免 | Aiarty Image Matting：轻松实现抠图换背 7")](https://www.appinn.com/aiarty-image-matting/ "首发限免 | Aiarty Image Matting：轻松实现抠图换背")
+    
+    [首发限免 | Aiarty Image Matting：轻松实现抠图换背](https://www.appinn.com/aiarty-image-matting/ "首发限免 | Aiarty Image Matting：轻松实现抠图换背")
+    
+    11 月 22, 2024 2
+    
+* [![29 年后，正版 WinRAR 终于来了 8](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-28T141542.151-115x115.jpg "29 年后，正版 WinRAR 终于来了 8")](https://www.appinn.com/winrar/ "29 年后，正版 WinRAR 终于来了")
     
     [29 年后，正版 WinRAR 终于来了](https://www.appinn.com/winrar/ "29 年后，正版 WinRAR 终于来了")
     
     11 月 28, 2024 2
     
-* [![MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件 8](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-20T113940.399-115x115.jpg "MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件 8")](https://www.appinn.com/mailcatcher/ "MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件")
+* [![MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件 9](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-20T113940.399-115x115.jpg "MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件 9")](https://www.appinn.com/mailcatcher/ "MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件")
     
     [MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件](https://www.appinn.com/mailcatcher/ "MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件")
     
     11 月 20, 2024 1
-    
-* [![2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro 对所有人免费，包括商用 9](https://www.appinn.com/wp-content/uploads/2024/05/Appinn-Feature-images-2024-11-12T121639.911-115x115.jpg "2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro 对所有人免费，包括商用 9")](https://www.appinn.com/vmware-free-workstation-pro-and-fusion-pro/ "2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro 对所有人免费，包括商用")
-    
-    [2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro …](https://www.appinn.com/vmware-free-workstation-pro-and-fusion-pro/ "2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro 对所有人免费，包括商用")
-    
-    11 月 12, 2024 1
     
 
 ### 分类
