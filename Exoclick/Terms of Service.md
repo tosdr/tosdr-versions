@@ -47,7 +47,7 @@ Terms & Conditions
 
 **TERMS AND CONDITIONS FOR PUBLISHER(S) AND ADVERTISER(S)**
 
-Effective on 31 October 2024
+Effective on 9 December 2024
 
 **THIS IS A LEGAL AGREEMENT BETWEEN YOU (“PUBLISHER” OR “ADVERTISER”) AND EXOCLICK, S.L. (“EXOCLICK NETWORK” OR “EXOCLICK PLATFORM”) STATING THE TERMS AND CONDITIONS THAT GOVERN YOUR PARTICIPATION IN THE EXOCLICK NETWORK. PLEASE READ THESE EXOCLICK TERMS AND CONDITIONS (“AGREEMENT”) AND THE DATA PROCESSING AGREEMENT (“DPA”) BEFORE PRESSING THE “SIGNUP” BUTTON AT THE BOTTOM OF THE SIGNUP PAGE. BY PRESSING “SIGNUP” YOU ARE AGREEING TO BE BOUND BY THE TERMS AND CONDITIONS AND THE DATA PROCESSING AGREEMENT. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS AND THE DATA PROCESSING AGREEMENT, YOU WILL BE UNABLE TO PARTICIPATE ON THE EXOCLICK NETWORK.**
 
@@ -357,6 +357,8 @@ During the term of this Agreement, and any renewal thereof, and for one (1) year
 21.4. Assignment. ExoClick is hereby authorized to assign, sublicense, delegate or otherwise transfer any of its rights or obligations under this Agreement without the prior written consent of the other partyprovided that the assignee shall assume all rights and obligations under this Agreement
 
 Publisher/Advertiser shall not assign, sublicense, delegate or otherwise transfer any of its rights or obligations. However, Publisher/Advertiser may, without the consent of ExoClick, assign this Agreement to an entity merging with, consolidating with, or purchasing substantially all its assets or stock, provided that the assignee shall assume in writing all rights and obligations under this Agreement.
+
+If the Publisher/Advertiser changes its name, tax ID/VAT, or any other fiscal identifier in its account, re-registration on the platform will not be required. However, a new acceptance of the Agreement, including the Privacy Policy, will be necessary. This does not affect the continuation of the original entity’s obligations, as set out in Clause 21.3 (Survival). For minor changes (e.g., contact details or payment information), re-acceptance will not be required unless ExoClick specifically requests it due to operational, legal, or fiscal reasons, which will be assessed on a case-by-case basis.
 
 21.5. Notices. All notices and other communications hereunder shall be in writing and shall be deemed to have been duly given when delivered in person (including by internationally recognized commercial delivery service), and on the day the notice is sent when sent by verified facsimile or email with confirmation receipt, if the time of transmission is during recipient’s business day, or if not on the next business day thereafter, in each case to the respective parties at the postal or email addresses provided by the them in writing.
 
