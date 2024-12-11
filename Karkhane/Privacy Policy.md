@@ -37,18 +37,18 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/11/p1-95x65.jpg)](https://karkhane.org/6098/a_critic_of_workerbee/)[نقدی بر فیلم “زنبور کارگر”](https://karkhane.org/6098/a_critic_of_workerbee/)
-* [![کتابچه‌ی راهنمای قراردادِ کار و مزد 1400](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![فیلم کودک و استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![کتابچه‌ی راهنمای قراردادِ کار و مزد 1400](https://karkhane.org/app/uploads/2021/06/ketabce-rahnama-e-qarardad-e-kar-o-mozd-1400-95x65.jpg)](https://karkhane.org/2865/%da%a9%d8%aa%d8%a7%d8%a8%da%86%d9%87-%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d9%82%d8%b1%d8%a7%d8%b1%d8%af%d8%a7%d8%af-%da%a9%d8%a7%d8%b1-%d9%88-%d9%85%d8%b2%d8%af-1400/)[کتابچه‌ی راهنمای قرارداد کار و مزد ۱۴۰۰](https://karkhane.org/2865/%da%a9%d8%aa%d8%a7%d8%a8%da%86%d9%87-%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d9%82%d8%b1%d8%a7%d8%b1%d8%af%d8%a7%d8%af-%da%a9%d8%a7%d8%b1-%d9%88-%d9%85%d8%b2%d8%af-1400/)
+    ![فیلم کودک و استثمار](https://karkhane.org/app/uploads/2020/06/kudak-o-estesmār-featured-95x65.jpg)](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)[کودکان کارگر: یادداشتی بر فیلم «کودک و استثمار»](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)
 * [![inflation and capitalism](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![inflation and capitalism](https://karkhane.org/app/uploads/2024/02/Capit-95x65.jpeg)](https://karkhane.org/5376/nirooyekar-dastmozad/)[نیروی کار، ‌دستمزد و تورم](https://karkhane.org/5376/nirooyekar-dastmozad/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/11/SizeOfArt_DailyDose_153a-95x65.jpg)](https://karkhane.org/6105/workers_hands/)[دست‌های کارگران](https://karkhane.org/6105/workers_hands/)
-* [![فیلم کودک و استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![تشکل‌های رسمی در قانون کار ایران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![فیلم کودک و استثمار](https://karkhane.org/app/uploads/2020/06/kudak-o-estesmār-featured-95x65.jpg)](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)[کودکان کارگر: یادداشتی بر فیلم «کودک و استثمار»](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)
+    ![تشکل‌های رسمی در قانون کار ایران](https://karkhane.org/app/uploads/2020/08/tasakkolhaye-rasmi-dar-qanun-e-kar-e-iran-95x65.jpg)](https://karkhane.org/2130/%d8%aa%d8%b4%da%a9%d9%84%d9%87%d8%a7%db%8c-%d8%b1%d8%b3%d9%85%db%8c-%d8%af%d8%b1-%d9%82%d8%a7%d9%86%d9%88%d9%86-%da%a9%d8%a7%d8%b1-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/)[تشکل‌های رسمی در قانون کار ایران، یک تحلیل کارگری](https://karkhane.org/2130/%d8%aa%d8%b4%da%a9%d9%84%d9%87%d8%a7%db%8c-%d8%b1%d8%b3%d9%85%db%8c-%d8%af%d8%b1-%d9%82%d8%a7%d9%86%d9%88%d9%86-%da%a9%d8%a7%d8%b1-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/)
 * [![مهاجران. قربانی سیاست‌های سرمایه‌دارانه](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![مهاجران. قربانی سیاست‌های سرمایه‌دارانه](https://karkhane.org/app/uploads/2024/03/2-95x65.jpg)](https://karkhane.org/5390/mohajeran-afghan/)[مهاجران افغان: قربانی سیاست‌های سرمایه‌دارانه](https://karkhane.org/5390/mohajeran-afghan/)
