@@ -92,7 +92,7 @@ Freeads reserves the right to refuse to publish any advertisement without ascert
 
 **Freeads Refund Policy**  
   
-If you believe you require a refund for any reason you will need to email us at freeads@freeads.co.uk either from the email address you used when you registered your Freeads account or, if you email from a different address, you will need to include your payment receipt. Refunds are granted at Freeads discretion and may be applied for at any time. Refunds will be applied to the same card your payment if possible and processed on our next payment run.
+If you believe you require a refund for any reason you will need to email us at [\[email protected\]](https://help.freeads.co.uk/cdn-cgi/l/email-protection) either from the email address you used when you registered your Freeads account or, if you email from a different address, you will need to include your payment receipt. Refunds are granted at Freeads discretion and may be applied for at any time. Refunds will be applied to the same card your payment if possible and processed on our next payment run.
 
 In addition to Freeads Classifieds' general terms and conditions, the following additional terms and conditions apply if you use the Freeads Classifieds' SMS payment service. Please note:
 
