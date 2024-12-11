@@ -299,6 +299,46 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Госдума приняла в первом чтении законопроект «Единой России» о праве добровольцев удостоверять доверенности и завещания у командира воинской части](https://cdn.er.ru/media/news/December2024/mPTooNUigqWOx8xwvL4D-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-prave-dobrovolcev-udostoveryat-doverennosti-i-zaveshaniya-u-komandira-voinskoj-chasti)
+
+[Госдума приняла в первом чтении законопроект «Единой России» о праве добровольцев удостоверять доверенности и завещания у командира воинской части](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-prave-dobrovolcev-udostoveryat-doverennosti-i-zaveshaniya-u-komandira-voinskoj-chasti)
+
+[#Цунаева](https://er.ru/activity/news?tags%5B0%5D=115584) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#доверенность](https://er.ru/activity/news?tags%5B0%5D=26199) [#завещание](https://er.ru/activity/news?tags%5B0%5D=7049) [#документы](https://er.ru/activity/news?tags%5B0%5D=5957)
+
+Сегодня 16:52
+
+[![Госдума единогласно в первом чтении одобрила инициативу «Единой России» об увековечивании памяти жертв геноцида советского народа в период Великой Отечественной войны](https://cdn.er.ru/media/news/December2024/GOFeKRMdZSH3ZJa0VTAi-small.jpg)](https://er.ru/activity/news/gosduma-edinoglasno-v-pervom-chtenii-odobrila-iniciativu-edinoj-rossii-ob-uvekovechivanii-pamyati-zhertv-genocida-sovetskogo-naroda-v-period-velikoj-otechestvennoj-vojny)
+
+[Госдума единогласно в первом чтении одобрила инициативу «Единой России» об увековечивании памяти жертв геноцида советского народа в период Великой Отечественной войны](https://er.ru/activity/news/gosduma-edinoglasno-v-pervom-chtenii-odobrila-iniciativu-edinoj-rossii-ob-uvekovechivanii-pamyati-zhertv-genocida-sovetskogo-naroda-v-period-velikoj-otechestvennoj-vojny)
+
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#геноцид](https://er.ru/activity/news?tags%5B0%5D=58283) [#ВеликаяОтечественнаявойна](https://er.ru/activity/news?tags%5B0%5D=1093130)
+
+Сегодня 16:26
+
+[![«Единая Россия» примет активное участие в решении вопросов повышения качества преподавания математики и естественно-научных предметов](https://cdn.er.ru/media/news/December2024/KG0uUXu2DiTsuLQRYa3D-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-primet-aktivnoe-uchastie-v-reshenii-voprosov-povysheniya-kachestva-prepodavaniya-matematiki-i-estestvenno-nauchnyh-predmetov)
+
+[«Единая Россия» примет активное участие в решении вопросов повышения качества преподавания математики и естественно-научных предметов](https://er.ru/activity/news/edinaya-rossiya-primet-aktivnoe-uchastie-v-reshenii-voprosov-povysheniya-kachestva-prepodavaniya-matematiki-i-estestvenno-nauchnyh-predmetov)
+
+[#Шмелева](https://er.ru/activity/news?tags%5B0%5D=35207) [#Генсовет](https://er.ru/activity/news?tags%5B0%5D=121) [#комиссия](https://er.ru/activity/news?tags%5B0%5D=168) [#преподавание](https://er.ru/activity/news?tags%5B0%5D=3944) [#математика](https://er.ru/activity/news?tags%5B0%5D=42132) [#естественныенауки](https://er.ru/activity/news?tags%5B0%5D=143161)
+
+Сегодня 15:15
+
+[![По инициативе «Единой России» военные песни в День Победы и другие памятные даты будут транслироваться и исполняться бесплатно](https://cdn.er.ru/media/news/December2024/GjLxKhMYu54u1CKIQaIG-small.jpg)](https://er.ru/activity/news/po-iniciative-edinoj-rossii-voennye-pesni-v-den-pobedy-i-drugie-pamyatnye-daty-budut-translirovatsya-i-ispolnyatsya-besplatno)
+
+[По инициативе «Единой России» военные песни в День Победы и другие памятные даты будут транслироваться и исполняться бесплатно](https://er.ru/activity/news/po-iniciative-edinoj-rossii-voennye-pesni-v-den-pobedy-i-drugie-pamyatnye-daty-budut-translirovatsya-i-ispolnyatsya-besplatno)
+
+[#Казакова](https://er.ru/activity/news?tags%5B0%5D=30356) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#ВОВ](https://er.ru/activity/news?tags%5B0%5D=357) [#песни](https://er.ru/activity/news?tags%5B0%5D=35291) [#ДеньПобеды](https://er.ru/activity/news?tags%5B0%5D=40290) [#законопреокт](https://er.ru/activity/news?tags%5B0%5D=30073)
+
+Сегодня 14:15
+
+[![Владимир Якушев: «Единая Россия» на Съезде 14 декабря обсудит направления работы на ближайшее время](https://cdn.er.ru/media/news/December2024/BOmqSkaVN3vAg7S0387n-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-na-sezde-14-dekabrya-obsudit-napravleniya-raboty-na-blizhajshee-vremya)
+
+[Владимир Якушев: «Единая Россия» на Съезде 14 декабря обсудит направления работы на ближайшее время](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-na-sezde-14-dekabrya-obsudit-napravleniya-raboty-na-blizhajshee-vremya)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#съезд](https://er.ru/activity/news?tags%5B0%5D=103) [#устав](https://er.ru/activity/news?tags%5B0%5D=978)
+
+Сегодня 13:25
+
 [![Дмитрий Медведев: Москва и Пекин активно развивают межпартийное сотрудничество по линии «Единой России» и КПК](https://cdn.er.ru/media/news/December2024/0YK2cGkRhW88Ah0Qnwhe-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-moskva-i-pekin-aktivno-razvivayut-mezhpartijnoe-sotrudnichestvo-po-linii-edinoj-rossii-i-kpk)
 
 [Дмитрий Медведев: Москва и Пекин активно развивают межпартийное сотрудничество по линии «Единой России» и КПК](https://er.ru/activity/news/dmitrij-medvedev-moskva-i-pekin-aktivno-razvivayut-mezhpartijnoe-sotrudnichestvo-po-linii-edinoj-rossii-i-kpk)
@@ -306,46 +346,6 @@
 [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#КНР](https://er.ru/activity/news?tags%5B0%5D=1871) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522)
 
 Сегодня 13:14
-
-[![Дмитрий Медведев: Англосаксам не удастся расколоть отношения России и Китая](https://cdn.er.ru/media/news/December2024/2ZDanVAlmCgosQSX0fDD-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-anglosaksam-ne-udastsya-raskolot-otnosheniya-rossii-i-kitaya)
-
-[Дмитрий Медведев: Англосаксам не удастся расколоть отношения России и Китая](https://er.ru/activity/news/dmitrij-medvedev-anglosaksam-ne-udastsya-raskolot-otnosheniya-rossii-i-kitaya)
-
-[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742) [#Китай](https://er.ru/activity/news?tags%5B0%5D=263)
-
-Сегодня 12:40
-
-[![Владимир Якушев: «Единая Россия» проведёт 16 декабря Всероссийский штаб по президентским программам капремонта и строительства образовательных учреждений](https://cdn.er.ru/media/news/December2024/YuSRQTCojmBPmfkYolYt-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-provedyot-16-dekabrya-vserossijskij-shtab-po-prezidentskim-programmam-kapremonta-i-stroitelstva-obrazovatelnyh-uchrezhdenij)
-
-[Владимир Якушев: «Единая Россия» проведёт 16 декабря Всероссийский штаб по президентским программам капремонта и строительства образовательных учреждений](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-provedyot-16-dekabrya-vserossijskij-shtab-po-prezidentskim-programmam-kapremonta-i-stroitelstva-obrazovatelnyh-uchrezhdenij)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637) [#образовательныеучреждения](https://er.ru/activity/news?tags%5B0%5D=121354) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-Сегодня 09:00
-
-[![Владимир Якушев: «Единая Россия» расширит линейку мероприятий партпроекта «Цифровая Россия»](https://cdn.er.ru/media/news/December2024/LGy4RfiEiNUncR6miIPX-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-rasshirit-linejku-meropriyatij-partproekta-cifrovaya-rossiya)
-
-[Владимир Якушев: «Единая Россия» расширит линейку мероприятий партпроекта «Цифровая Россия»](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-rasshirit-linejku-meropriyatij-partproekta-cifrovaya-rossiya)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЦифроваяРоссия](https://er.ru/activity/news?tags%5B0%5D=111610) [#Минцифра](https://er.ru/activity/news?tags%5B0%5D=145375) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-10.12.24
-
-[![По инициативе «Единой России» Госдума поддержала введение уголовной ответственности за повторную продажу табака и вейпов детям](https://cdn.er.ru/media/news/December2024/U9iR4hwVZnoKWIZuCmLT-small.jpg)](https://er.ru/activity/news/po-iniciative-edinoj-rossii-gosduma-podderzhala-vvedenie-ugolovnoj-otvetstvennosti-za-povtornuyu-prodazhu-tabaka-i-vejpov-detyam)
-
-[По инициативе «Единой России» Госдума поддержала введение уголовной ответственности за повторную продажу табака и вейпов детям](https://er.ru/activity/news/po-iniciative-edinoj-rossii-gosduma-podderzhala-vvedenie-ugolovnoj-otvetstvennosti-za-povtornuyu-prodazhu-tabaka-i-vejpov-detyam)
-
-[#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#несовершеннолетние](https://er.ru/activity/news?tags%5B0%5D=4501) [#вейпы](https://er.ru/activity/news?tags%5B0%5D=96999) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016)
-
-10.12.24
-
-[![«Единая Россия» наградила лауреатов конкурса «Цифровая журналистика - 2024»](https://cdn.er.ru/media/news/December2024/6870Ng5FS8ddnui0aTYy-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-nagradila-laureatov-konkursa-cifrovaya-zhurnalistika-2024)
-
-[«Единая Россия» наградила лауреатов конкурса «Цифровая журналистика - 2024»](https://er.ru/activity/news/edinaya-rossiya-nagradila-laureatov-konkursa-cifrovaya-zhurnalistika-2024)
-
-[#Немкин](https://er.ru/activity/news?tags%5B0%5D=1092473) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#цифроваяроссия](https://er.ru/activity/news?tags%5B0%5D=1092858) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#журналистика](https://er.ru/activity/news?tags%5B0%5D=4615)
-
-10.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
