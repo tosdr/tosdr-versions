@@ -4,7 +4,7 @@ Accessibility tools
 
 [My Account](https://myaccount.gwr.com/MyAccount/SignIn)
 
-(2) Travel updatesDisruption
+(1) Travel updatesDisruption
 
 [](https://www.gwr.com/ "GWR Homepage")[Buy tickets](https://www.gwr.com/tickets#)
 
