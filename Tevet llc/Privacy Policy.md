@@ -24,10 +24,10 @@ Menu
     
 * [Contact Us](https://www.tevet.com/contact/)
 
-Privacy Statement (US)
+Privacy Statement (CA)
 ======================
 
-_This privacy statement was last changed on 10 December 2024, last checked on 10 December 2024, and applies to citizens and legal permanent residents of the United States._  
+_This privacy statement was last changed on 11 December 2024, last checked on 11 December 2024, and applies to citizens and legal permanent residents of Canada._  
   
 
 In this privacy statement, we explain what we do with the data we obtain about you via [https://tevet.com](https://tevet.com/). We recommend you carefully read this statement. In our processing we comply with the requirements of privacy legislation. That means, among other things, that:
@@ -99,19 +99,19 @@ Our website does not respond to and does not support the Do Not Track (DNT) head
 5\. Cookies
 -----------
 
-Our website uses cookies. For more information about cookies, please refer to our Cookie Policy on our [Opt-out preferences](https://tevet.com/opt-out-preferences/) webpage. 
+Our website uses cookies. For more information about cookies, please refer to our Cookie Policy on our [Cookie Policy (CA)](https://tevet.com/cookie-policy-ca/) webpage. 
 
-We have concluded a data processing agreement with Google.
+We have concluded a data Processing Agreement with Google.
 
 6\. Security
 ------------
 
 We are committed to the security of personal data. We take appropriate security measures to limit abuse of and unauthorized access to personal data. This ensures that only the necessary persons have access to your data, that access to the data is protected, and that our security measures are regularly reviewed.
 
-7\. Third-party websites
+7\. Third party websites
 ------------------------
 
-This privacy statement does not apply to third-party websites connected by links on our website. We cannot guarantee that these third parties handle your personal data in a reliable or secure manner. We recommend you read the privacy statements of these websites prior to making use of these websites.
+This privacy statement does not apply to third party websites connected by links on our website. We cannot guarantee that these third parties handle your personal data in a reliable or secure manner. We recommend you read the privacy statements of these websites prior to making use of these websites.
 
 8\. Amendments to this privacy statement
 ----------------------------------------
@@ -121,222 +121,16 @@ We reserve the right to make amendments to this privacy statement. It is recomme
 9\. Accessing and modifying your data
 -------------------------------------
 
-If you have any questions or want to know which personal data we have about you, please contact us. Please make sure to always clearly state who you are, so that we can be certain that we do not modify or delete any data of the wrong person. We shall provide the requested information only upon receipt of a verifiable consumer request. You can contact us by using the information below. You have the following rights:
+If you have any questions or want to know which personal data we have about you, please contact us. Please make sure to always clearly state who you are, so that we can be certain that we do not modify or delete any data of the wrong person. We shall provide the requested information only upon receipt of a verifiable consumer request. You can contact us by using the information below.
 
 9.1 You have the following rights with respect to your personal data
 
 1. You may submit a request for access to the data we process about you.
-2. You may object to the processing.
-3. You may request an overview, in a commonly used format, of the data we process about you.
-4. You may request correction or deletion of the data if it is incorrect or not or no longer relevant, or to ask to restrict the processing of the data.
-
-9.2 Supplements
-
-This section, which supplements the rest of this Privacy Statement, applies to citizens and legal permanent residents of California (CPRA), Colorado (CPA), Connecticut (CTDPA), Montana (MCDPA), Nevada (NRS 603A), Oregon (OCPA), Texas (TDPSA), Utah (UCPA) and Virginia (CDPA)
-
-### California
-
-#### Right to know what personal information is being collected about you
-
-A consumer shall have the right to request that a business that collects personal information about the consumer disclose to the consumer the following:
-
-1. The categories of personal information it has collected about that consumer.
-2. The categories of sources from which the personal information is collected.
-3. The business or commercial purpose for collecting or selling personal information.
-4. The categories of third parties with whom the business shares personal information.
-5. The specific pieces of personal information it has collected about that consumer.
-
-  
-
-#### The right to know whether personal information is sold or disclosed and to whom
-
-A consumer shall have the right to request that a business that sells the consumer’s personal information, or that discloses it for a business purpose, disclose to that consumer:
-
-1. The categories of personal information that the business collected about the consumer.
-2. The categories of personal information that the business sold about the consumer and the categories of third parties to whom the personal information was sold, by category or categories of personal information for each third party to whom the personal information was sold.
-3. The categories of personal information that the business disclosed about the consumer for a business purpose.
-
-  
-
-#### The Right to equal service and price, even if you exercise your privacy rights
-
-  
-
-A consumer shall have the right to request that a business delete any personal information about the consumer which the business has collected from the consumer.
-
-  
-
-A business that receives a verifiable request from a consumer to delete the consumer’s personal information pursuant to subdivision (a) of this section shall delete the consumer’s personal information from its records and direct any service providers to delete the consumer’s personal information from their records.
-
-  
-
-A business or a service provider shall not be required to comply with a consumer’s request to delete the consumer’s personal information if it is necessary for the business or service provider to maintain the consumer’s personal information in order to:
-
-1. Complete the transaction for which the personal information was collected, provide a good or service requested by the consumer, or reasonably anticipated within the context of a business’s ongoing business relationship with the consumer, or otherwise perform a contract between the business and the consumer.
-2. Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity.
-3. Debug to identify and repair errors that impair existing intended functionality.
-4. Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law.
-5. Comply with the California Electronic Communications Privacy Act pursuant to Chapter 3.6 (commencing with Section 1546) of Title 12 of Part 2 of the Penal Code.
-6. Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the businesses’ deletion of the information is likely to render impossible or seriously impair the achievement of such research, if the consumer has provided informed consent.
-7. Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law.
-8. To enable solely internal uses that are reasonably aligned with the expectations of the consumer based on the consumer’s relationship with the business.
-9. Comply with a legal obligation.
-10. Otherwise use the consumer’s personal information, internally, in a lawful manner that is compatible with the context in which the consumer provided the information.
-
-#### Right to opt-out
-
-You may submit a request directing us not to make certain disclosures of personal information we maintain about you. For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
-
-#### Financial incentives
-
-#### Selling of personal data to third parties
-
-We have not sold consumers’ personal data in the preceding 12 months
-
-We have not disclosed consumers’ personal information for a business purpose in the preceding 12 months.
-
-* Internet activity information, including, but not limited to, browsing history, search history, and information regarding a consumer's interaction with an Internet Web site, application, or advertisement
-
-### Colorado
-
-#### Right to Data Portability
-
-When exercising the right to Access personal data , you have the right to obtain the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance. You may exercise this right no more than two times per calendar year.
-
-#### Right to opt-out
-
-You may submit a request directing us not to make certain disclosures of personal information we maintain about you.
-
-Under Colorado law this concerns the following purposes:
-
-1. targeted advertising;
-2. the sale of personal data; or
-3. profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.
-
-For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
-
-### Connecticut
-
-#### Right to Data Portability
-
-When exercising the right to Access personal data , you have the right to obtain the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance.
-
-We are not required to reveal any trade secret.
-
-#### Right to opt-out
-
-You may submit a request directing us not to make certain disclosures of personal information we maintain about you.
-
-Under the CTDPA this concerns the following purposes:
-
-1. targeted advertising; or
-2. the sale of personal data; or
-3. profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.
-
-For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
-
-### Montana
-
-#### Right to Data Portability
-
-When exercising the right to Access personal data , you have the right to obtain the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance.
-
-We are not required to reveal any trade secret.
-
-#### Right to opt-out
-
-You may submit a request directing us not to make certain disclosures of personal information we maintain about you.
-
-Under the MCDPA this concerns the following purposes:
-
-1. targeted advertising; or
-2. the sale of personal data; or
-3. profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.
-
-For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
-
-### Nevada
-
-#### Right to opt-out
-
-You may submit a request directing us not to make certain disclosures of personal information we maintain about you.
-
-For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
-
-### Oregon
-
-#### Right to Data Portability
-
-When exercising the right to Access personal data , you have the right to obtain the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance.
-
-We are not required to reveal any trade secret.
-
-#### Right to opt-out
-
-You may submit a request directing us not to make certain disclosures of personal information we maintain about you.
-
-Under the OCPA this concerns the following purposes:
-
-1. targeted advertising; or
-2. the sale of personal data; or
-3. profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.
-
-For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
-
-### Texas
-
-#### Right to Data Portability
-
-When exercising the right to Access personal data , you have the right to obtain the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance.
-
-We are not required to reveal any trade secret.
-
-#### Right to opt-out
-
-You may submit a request directing us not to make certain disclosures of personal information we maintain about you.
-
-Under the TDPSA this concerns the following purposes:
-
-1. targeted advertising; or
-2. the sale of personal data; or
-3. profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.
-
-For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
-
-### Utah
-
-#### Right to Data Portability
-
-When exercising the right to Access personal data, you have the right to obtain the personal data that you previously provided to us as a controller in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance.
-
-#### Right to opt-out
-
-You may submit a request directing us not to make certain disclosures of personal information we maintain about you.
-
-Under the UCPA this concerns the following purposes:
-
-1. targeted advertising; or
-2. the sale of personal data.
-
-For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
-
-### Virginia
-
-#### Right to Data Portability
-
-When exercising the right to Access personal data , you have the right to obtain the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance. You may exercise this right no more than two times per calendar year.
-
-#### Right to opt-out
-
-You may submit a request directing us not to make certain disclosures of personal information we maintain about you.
-
-Under the CDPA this concerns the following purposes:
-
-1. targeted advertising;
-2. the sale of personal data; or
-3. profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.
-
-For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
+2. You may request an overview, in a commonly used format, of the data we process about you.
+3. You may request correction or deletion of the data if it is incorrect or not or no longer relevant. Where appropriate, the amended information shall be transmitted to third parties having access to the information in question.
+4. You have the right to withdraw consent at any time, subject to legal or contractual restrictions and reasonable notice. You will be informed of the implications of such withdrawal.
+5. You have the right to address a challenge concerning non-compliance with PIPEDA to our organization and, if the issue is not resolved, to the Office of the Privacy Commissioner of Canada.
+6. We shall give access to personal information in an alternative format to an individual with a sensory disability who has a right of access to personal information under PIPEDA and who requests that it be transmitted in the alternative format if (a) a version of the information already exists in that format; or (b) its conversion into that format is reasonable and necessary in order for the individual to be able to exercise rights.
 
 10\. Children
 -------------
@@ -353,6 +147,10 @@ United States
 Website: [https://tevet.com](https://tevet.com/)  
 Email: sales@tevet.com  
   
+
+We have appointed a contact person for the organization’s policies and practices and to whom complaints or inquiries can be forwarded:  
+Joseph Kovacs  
+310 T Elmer Cox Dr, Greeneville, TN 37743
 
 ![TEVET](https://eadn-wc04-14473263.nxedge.io/wp-content/uploads/logo-tevet.svg)
 
