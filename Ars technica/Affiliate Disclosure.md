@@ -84,17 +84,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Apple hit with $1.2B lawsuit after killing controversial CSAM-detecting tool](https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-961402090-768x432.jpg)](https://arstechnica.com/tech-policy/2024/12/thousands-of-child-sex-abuse-victims-sue-apple-for-lax-csam-reporting/)
+1. [![Listing image for first story in Most Read: In a not-so-subtle signal to regulators, Blue Origin says New Glenn is ready](https://cdn.arstechnica.net/wp-content/uploads/2024/12/1733771570623-768x432.jpg)](https://arstechnica.com/space/2024/12/intrigue-swirls-as-blue-origin-races-toward-year-end-deadline-for-new-glenn/)
     
-    1. [Apple hit with $1.2B lawsuit after killing controversial CSAM-detecting tool](https://arstechnica.com/tech-policy/2024/12/thousands-of-child-sex-abuse-victims-sue-apple-for-lax-csam-reporting/)
+    1. [In a not-so-subtle signal to regulators, Blue Origin says New Glenn is ready](https://arstechnica.com/space/2024/12/intrigue-swirls-as-blue-origin-races-toward-year-end-deadline-for-new-glenn/)
     
 2. 2. [Ten months after first tease, OpenAI launches Sora video generation publicly](https://arstechnica.com/ai/2024/12/ten-months-after-first-tease-openai-launches-sora-video-generation-publicly/)
     
-3. 3. [Intrigue swirls as Blue Origin races toward year-end deadline for New Glenn](https://arstechnica.com/space/2024/12/intrigue-swirls-as-blue-origin-races-toward-year-end-deadline-for-new-glenn/)
+3. 3. [Apple hit with $1.2B lawsuit after killing controversial CSAM-detecting tool](https://arstechnica.com/tech-policy/2024/12/thousands-of-child-sex-abuse-victims-sue-apple-for-lax-csam-reporting/)
     
-4. 4. [Latest James Webb data hints at new physics in Universe’s expansion](https://arstechnica.com/science/2024/12/latest-james-webb-data-hints-at-new-physics-in-universes-expansion/)
+4. 4. [Efficiency, power, luxury: The 2025 Lucid Gravity SUV nails all three](https://arstechnica.com/features/2024/12/the-2025-lucid-gravity-impresses-us-with-slick-handling-magic-ride/)
     
-5. 5. [Cable ISPs compare data caps to food menus: Don’t make us offer unlimited soup](https://arstechnica.com/tech-policy/2024/12/cable-isps-compare-data-caps-to-food-menus-dont-make-us-offer-unlimited-soup/)
+5. 5. [The iPhone accessories that let me ditch my laptop while traveling](https://arstechnica.com/gadgets/2024/12/best-iphone-travel-accessories/)
     
 
 Customize
