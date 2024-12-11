@@ -24,9 +24,9 @@
     * [HRI Giving Back](https://www.homeruninnpizza.com/about-us/donation/)
     * [Join Our Team](https://www.homeruninnpizza.com/careers/)
 
-[Order Now](https://www.homeruninnpizza.com/order-online/)
+[Order Restaurant](https://www.homeruninnpizza.com/order-online/) [Buy Frozen Pizza](https://www.homeruninnpizza.com/frozen-pizza/pizza-near-me/)
 
-[Order Now](https://www.homeruninnpizza.com/order-online/)
+[Order Restaurant](https://www.homeruninnpizza.com/order-online/)
 
 **HOME RUN INN INC.’S**  
 **PRIVACY POLICY**
