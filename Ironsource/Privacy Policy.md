@@ -102,11 +102,11 @@
             
             [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#)
             
-            [**Blog**](#)[](https://www.is.com/community/blog/extend-your-holiday-success-q5-strategies-for-mobile-user-acquisition/)
+            [**Blog**](#)[](https://www.is.com/community/blog/state-of-play-a-qa-with-samantha-benjamin-on-the-shift-from-hyper-to-hybrid-casual/)
             
-            Extend Your Holiday Success: Q5 Strategies for Mobile User Acquisition
+            State of Play: a Q&A with Samantha Benjamin on the shift from hyper to hybrid-casual
             
-            [Read more >](https://www.is.com/community/blog/extend-your-holiday-success-q5-strategies-for-mobile-user-acquisition/)
+            [Read more >](https://www.is.com/community/blog/state-of-play-a-qa-with-samantha-benjamin-on-the-shift-from-hyper-to-hybrid-casual/)
             
 * [Company](#)
     * [About](https://www.is.com/about/)
