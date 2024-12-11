@@ -59,35 +59,130 @@
         ![Roundcube](https://nextcloud.com/c/uploads/2024/08/Roundcube_logo_icon.svg)
         
         RoundcubeThe most popular on-prem webmail](https://nextcloud.com/roundcube/)
-    * [Microsoft integrations](https://nextcloud.com/microsoft-integrations/)
+    * [![Microsoft integrations](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+        
+        ![Microsoft integrations](https://nextcloud.com/c/uploads/2024/12/Microsoft_logo-blue.svg)
+        
+        Microsoft integrationsOutlook, Sharepoint, Teams and more](https://nextcloud.com/microsoft-integrations/)
 * [Solutions](#)
     * [![Nextcloud Enterprise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![Nextcloud Enterprise](https://nextcloud.com/c/uploads/2022/10/nc-enterprise-icon.svg)
         
         Nextcloud EnterpriseFor mission-critical use](https://nextcloud.com/enterprise/)
-        * [Public sector](https://nextcloud.com/government/)
-        * [Enterprises](https://nextcloud.com/enterprises/)
-        * [Service providers](https://nextcloud.com/service-providers/)
-        * [Education](https://nextcloud.com/education/)
-        * [Pricing](https://nextcloud.com/pricing/)
+        * [![Public sector](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![Public sector](https://nextcloud.com/c/uploads/2023/01/nc-government-blue-icon.svg)
+            
+            Public sectorEnterprise for the public sector](https://nextcloud.com/government/)
+        * [![Enterprises](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![Enterprises](https://nextcloud.com/c/uploads/2024/12/nc-enterprises-blue-icon-3.svg)
+            
+            EnterprisesEnterprise for organizations](https://nextcloud.com/enterprises/)
+        * [![Service providers](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![Service providers](https://nextcloud.com/c/uploads/2023/01/nc-service-providers-blue-icon.svg)
+            
+            Service providersEnterprise for service providers](https://nextcloud.com/service-providers/)
+        * [![Education](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![Education](https://nextcloud.com/c/uploads/2023/01/nc-education-blue-icon.svg)
+            
+            EducationEnterprise for universities and schools](https://nextcloud.com/education/)
+        * [![Pricing](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![Pricing](https://nextcloud.com/c/uploads/2024/12/pricing-tags-icon.svg)
+            
+            PricingNextcloud Enterprise plans and pricing](https://nextcloud.com/pricing/ "Pricing")
     * [![Nextcloud at home](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![Nextcloud at home](https://nextcloud.com/c/uploads/2022/10/nc-icon-at-home.svg)
         
         Nextcloud at homeFor families, students & you](https://nextcloud.com/athome/)
 * [Resources](#)
-    * [Blog](https://nextcloud.com/blog/)
-    * [Events](https://nextcloud.com/events/)
-    * [Webinars](https://nextcloud.com/webinars/)
-    * [Success stories](https://nextcloud.com/whitepapers/)
-    * [Whitepapers](https://nextcloud.com/whitepapers/#whitepapers)
-    * [Data sheets](https://nextcloud.com/whitepapers/#data-sheets)
-    * [Nextcloud Podcast](https://nextcloud.com/podcast/)
-    * [Documentation](https://nextcloud.com/support/)
-    * [App Store](https://apps.nextcloud.com/)
-    * [FAQ](https://nextcloud.com/faq/)
-    * [Support Portal](https://portal.nextcloud.com/)
+    * [Col1](#)
+        * [![Blog](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![Blog](https://nextcloud.com/c/uploads/2024/12/bullhorn-solid.svg)
+            
+            BlogNextcloud news and articles](https://nextcloud.com/blog/)
+        * [![Events](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![Events](https://nextcloud.com/c/uploads/2024/12/NC-events-icon.svg)
+            
+            EventsAll in-person and virtual Nextcloud events](https://nextcloud.com/events/)
+        * [![Webinars](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![Webinars](https://nextcloud.com/c/uploads/2024/12/NC-webinar-icon-blue.svg)
+            
+            WebinarsAll upcoming webinars and recordings](https://nextcloud.com/webinars/)
+        * [![Success stories](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![Success stories](https://nextcloud.com/c/uploads/2024/12/nc-success-stories-icon.svg)
+            
+            Success storiesSuccess stories and case studies](https://nextcloud.com/whitepapers/)
+        * [![Whitepapers](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![Whitepapers](https://nextcloud.com/c/uploads/2024/12/nc-whitepapers-icon-blue.svg)
+            
+            WhitepapersDownload our whitepapers](https://nextcloud.com/whitepapers/#whitepapers)
+        * [![Data sheets](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![Data sheets](https://nextcloud.com/c/uploads/2024/02/data-sheets-icon-1.svg)
+            
+            Data sheetsSee all data sheets](https://nextcloud.com/whitepapers/#data-sheets)
+        * [![Podcast](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![Podcast](https://nextcloud.com/c/uploads/2024/12/NC-podcast-icon.svg)
+            
+            PodcastLatest Nextcloud Podcast episodes](https://nextcloud.com/podcast/)
+    * [Col2](#)
+        * [Featured](#)
+            
+            [](#)
+            
+            [](#)
+            
+            [](#)
+            
+            [](#)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20576'%3E%3C/svg%3E)
+            
+            ![](https://nextcloud.com/c/uploads/2024/11/nextcloud-talk-1024x576.png)](https://nextcloud.com/blog/nextcloud-talk-our-open-source-answer-to-microsoft-teams/?ref=top_megamenu_preview "The open source answer to Microsoft Teams")
+            
+            [Featured blog
+            
+            #### The open source answer to Microsoft Teams](https://nextcloud.com/blog/nextcloud-talk-our-open-source-answer-to-microsoft-teams/?ref=top_megamenu_preview "The open source answer to Microsoft Teams")
+            
+            * Blog, Release, Talk
+            
+            [All news and articles](https://nextcloud.com/blog/)
+            
+        * [![Features](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![Features](https://nextcloud.com/c/uploads/2024/12/nc-features-icon.svg)
+            
+            FeaturesA complete list of features](https://nextcloud.com/features/)
+        * [![App Store](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![App Store](https://nextcloud.com/c/uploads/2022/08/nextcloud-logo-icon.svg)
+            
+            App StoreHundreds of Nextcloud apps](https://apps.nextcloud.com/)
+        * [![Documentation](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![Documentation](https://nextcloud.com/c/uploads/2023/01/nc-education-blue-icon.svg)
+            
+            DocumentationAdmin, user and developer manuals](https://nextcloud.com/support/)
+        * [![FAQ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![FAQ](https://nextcloud.com/c/uploads/2024/12/NC-faq-icon-2-1.svg)
+            
+            FAQNextcloud Enterprise FAQ](https://nextcloud.com/faq/)
+        * [![Support Portal](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+            
+            ![Support Portal](https://nextcloud.com/c/uploads/2024/12/NC-customer-support-portal-icon.svg)
+            
+            Support PortalCustomer access to Enterprise support](https://portal.nextcloud.com/)
 * [Community](#)
     * [How to contribute](https://nextcloud.com/contribute/)
     * [Code on GitHub](https://github.com/nextcloud)
