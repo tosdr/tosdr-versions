@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> Through our information platforms, people can be more creative and enrich their lives through deeper communications with their friends and family. We view Linux and adjacent open source software as key elements for our business. ByteDance’s participation in the OIN community shows our consistent commitment to shared innovation. We will continue to support it with patent non-aggression in core Linux and other important OSS technologies.  
+> Although TAIYO YUDEN does not directly incorporate open source software in our products, our customers do, and it is important for us to support open source initiatives that are critical to the continued success of our clients.  
 
-Lynn WuChief IP CounselByteDance
+Shigetoshi AkinoGeneral Manager, Intellectual Property DivisionTAIYO YUDEN
 
-> As a licensee, we’ll have access to OIN resources in case we’re threatened by operating entities with patents.  
+> _As we build a better experience for our clients, open source can be a significant innovation enabler for the platforms and applications we build and integrate. We’re proud to join the Open Invention Network and support its role in protecting open source software from patent risk._
 
-Harvey AndersonVP & General CounselMozilla
+Michael SpringsChief Intellectual Property Counsel, Truist
 
-> We believe the protection OIN offers the open source community helps increase global contributions to and adoption of open source technologies. We are honored to stand with OIN as an active participant in its program to protect against patent aggression in core Linux and other important OSS technologies.  
+> This move (regarding Huawei’s OIN membership demonstrates that joining OIN has become a no-brainer for any product company. Setting aside the patent trolls, who would never have an incentive to join, no one is asserting patents against Linux anymore. Waging a patent war against a popular open-source project like Linux is bad for business. Of course, the OIN definition of Linux is far broader than the kernel. Even so, the OIN pool protects the basic infrastructure of the web, and no serious pro… [Read more](https://www.openinventionnetwork.com/testimonial/omelveny-myers/ "Complete testimonial by Heather Meeker")
 
-Erich AndersenCorporate Vice President and Chief IP CounselMicrosoft
-
-> OIN protects the open-source community through a patent cross-license for Linux and related open-source technologies. The license is free and available to companies, organizations, and individual developers if they agree not to assert their own patents against Linux.  
-
-Chris DiBonaDirector of Open SourceGoogle
-
-> Consistent with OIN’s mission to provide freedom of action in Linux, we believe it is important to reinforce the principle that Intellectual Property (IP) enforcement should be conducted in a manner that is rational and in consonance with the collaborative process that occurs in Open Source Software (OSS). We encourage all of our members to provide their unequivocal support for the GPL Cooperation Commitment.  
-
-Keith BergeltCEOOpen Invention Network
-
-> _We continuously look for ways to integrate the best technologies in our payment solutions, which helps to deliver capabilities and services that our merchant and bank customers value and trust. We provide our customers safer and faster digital transaction services, and open source is a significant innovation driver in these offerings. We are pleased to join the Open Invention Network and support its role in protecting Open Source software._
-
-Christophe DuquenneGroup Chief Technology & Operations Officer, Worldline
-
-> Since WSO2 was founded, we have been committed to delivering a completely open source platform that takes advantage of the Linux ecosystem. As an OIN member, we look forward not only to taking advantage of the cross-licensing opportunities, but also working with OIN to expand the scope of technologies in the patent pool.  
-
-Jonathan MarshVP, StrategyWSO2
-
-> Open source technology, especially Linux, drives innovation in areas that are critical to the customers that we serve, including technologies such as servers, storage, cloud, converged applications, big data and IoT. By joining Open Invention Network, we are demonstrating our continued commitment to open source technology, and supporting it with patent non-aggression in Linux.  
-
-Norihiro SuzukiVice President and Executive Officer - CTOHitachi
+Heather MeekerPartnerO'Melveny & Myers
 
 > Yandex likes Linux. We use it, commit to it. We advocate the creation of a secure zone around the Linux kernel, free from patent wars. The same goals are pursued by the Open Invention Network, which unites thousands of companies around the world.  
 
 Yandex
 
-> Open Source technologies, especially Embedded Linux, have enabled the rapid development of intelligent products that can be found throughout the infrastructure of homes. LIXIL’s participation in the OIN community shows our consistent commitment to open source innovation.  
+> Open source platforms enable the rapid deployment of advanced computing, storage and communications solutions. We recognize the value in shared innovation, a fundamental characteristic of open source communities. OIN membership is strategically important for YADRO in terms of patents management, R&D, marketing, and overall company reputation. Our participation in the OIN community demonstrates our commitment to support collaborative technology development and the ongoing success of the open sour… [Read more](https://www.openinventionnetwork.com/testimonial/yadro/ "Complete testimonial by Anna Egorova")
 
-Yugo KanazawaChief Digital OfficerLIXIL
+Anna EgorovaChief Delivery Officer, YADRO
+
+> We remain focused on leveraging the best technologies for our platforms and are excited to join the Open Invention Network (OIN), that supports protection from patent infringement claims for the greater good of the wider innovation community.  
+
+Josh DeathIP & Patentable Innovations LeadTD Bank
+
+> At Shopify, we’ve built our platform on Ruby on Rails. We view open source software as a key foundation for our business. By joining the Open Invention Network, we have committed to patent non-aggression in core Linux and adjacent open source software. We believe that this commitment will promote innovation and help enable entrepreneurs and developers to build on open source foundations without focusing on the threat of litigation. We strongly encourage all forward-looking ecommerce platforms,… [Read more](https://www.openinventionnetwork.com/testimonial/shopify/ "Complete testimonial by Robert Guay")
+
+Robert GuaySenior Counsel, Intellectual PropertyShopify
+
+> Linux Defenders is dedicated to protecting the Linux and the broader open-source community from poor-quality patents, through prior art activities and patent claim scope reduction.  
+
+Keith BergeltCEOOpen Invention Network
+
+> We see incredible value in the Free and Open Source Software (FOSS) communities. Our work in collecting, preserving and making source code available to developers, academics and government entities, will enable developers to continue to innovate. We are very pleased for OIN’s sponsorship and its support in maintaining the technical and scientific knowledge that may be lost without preservation and may be further useful to developers from an intellectual property perspective.  
+
+Roberto Di CosmoFounder & CEOSoftware Heritage
+
+> The OpenChain Project is part of a broad global community engaging with all aspects of intellectual property around open source.  
+
+Shane CoughlanProgram ManagerOpenChain Project
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
@@ -262,7 +262,7 @@ Your Name\*
 
 Email\*
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
