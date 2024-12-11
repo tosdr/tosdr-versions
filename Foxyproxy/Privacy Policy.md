@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you. You are the best!
+BEST QUICK SERVICE!! LOVE YOU GUYS!
 
-Max
+Natie Grossnass
