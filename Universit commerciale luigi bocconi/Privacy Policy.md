@@ -222,6 +222,7 @@ About Us
     * [Regulations, Procedures and Guidelines of the QA System](https://www.unibocconi.eu/en/about-us/quality-assurance/regulations-procedures-and-guidelines-qa-system)
     * [Training on Quality Assurance Themes](https://www.unibocconi.eu/en/about-us/quality-assurance/training-quality-assurance-themes)
     * [FAQ](https://www.unibocconi.eu/en/about-us/quality-assurance/faq)
+    * [Planning and Liaison Committee Members](https://www.unibocconi.eu/en/about-us/quality-assurance/planning-and-liaison-committee-members)
     
 * Sustainability
     
