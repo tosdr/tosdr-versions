@@ -1,6 +1,6 @@
 Holiday Sale - Up to 40% off See all deals
 
-Point finders for Google's Find My Device app Order now
+Point finders for Google's Find My Device app EXTRA 20% OFF
 
 [](https://chipolo.net/en-us/)
 
