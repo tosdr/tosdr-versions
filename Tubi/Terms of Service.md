@@ -6,8 +6,6 @@ Menu Icon
 
 [Sign In](https://tubitv.com/login?redirect=/static/terms)[Register](https://tubitv.com/signup?redirect=/static/terms)
 
-Search Icon
-
 Terms of Use
 ============
 
@@ -60,6 +58,6 @@ Copyright © 2024 Tubi, Inc.
 Tubi is a registered trademark of Tubi, Inc.  
 All rights reserved.
 
-Device ID: 7df70a31-2c54-414e-8521-a6169f7340aa
+Device ID: e03eca78-8547-46dc-8bc4-9700712365e4
 
 Made with Heart in San Francisco
