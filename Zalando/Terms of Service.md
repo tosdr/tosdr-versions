@@ -31,7 +31,7 @@ Switch Language
 
 Gebruik de pijltjes om eerdere zoekopdrachten of voorstellen te selecteren
 
-Zalando | Kleding, schoenen & accessoires online kopen  
+Zalando | Kleding, schoenen & accessoires online kopen    
 
 **Samenvatting van de Algemene Voorwaarden  
 **  
@@ -562,9 +562,9 @@ Aanbevelingen
 
 Jouw merken en creators
 
-Aanbiedingen en sales
-
 Fashionupdates
+
+Aanbiedingen en sales
 
 Bevestiging beschikbaarheidsupdate
 
