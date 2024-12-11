@@ -51,7 +51,7 @@
         * [Strategy](https://newsroom.orange.com/lead-the-future-orange-presents-its-new-strategic-plan-which-aims-to-generate-value-from-the-recognized-excellence-of-its-core-business-and-to-grow-sustainably-in-europe-africa-and-the-middle-east-or//?lang=en)
         * [Innovation](https://www.orange.com/en/group/overview/useful-innovation-that-enables-everyone-to-progress)
         * [Scientific Council](https://www.orange.com/en/group/overview/scientific-council)
-    * [Governance](https://www.orange.com/en/groups-general-management-committee)
+    * [Governance](https://www.orange.com/en/group/governance/executive-committee)
         * Governance
         * [Orange's governance](https://www.orange.com/en/group/governance/oranges-governance)
         * [Board of Directors](https://www.orange.com/en/group/governance/board-of-directors)
