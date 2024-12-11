@@ -31,6 +31,167 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Bloque de Seguridad interviene ciudadelas privadas de la vía a Daule
+====================================================================
+
+La Comisión de Tránsito del Ecuador (CTE) realiza la inspección de los vehículos para constatar que no se trate de autos robados
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Foto referencial Policía Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-17.jpg)
+
+El **Bloque de Seguridad** realizó intervenciones en 13 **ciudadelas privadas ubicadas en la vía a Daul**e este miércoles 11 de diciembre de 2024.
+
+### Más noticias
+
+* [Policía captura a miembros de Las Águilas, entre ellos el cabecilla](https://www.elcomercio.com/actualidad/seguridad/policia-captura-a-miembros-las-aguilas-entre-ellos-cabecilla.html "Policía captura a miembros de Las Águilas, entre ellos el cabecilla")
+* [Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro](https://www.elcomercio.com/actualidad/seguridad/ministerio-defensa-despliegue-militares-el-oro.html "Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro")
+* [Gobierno mostró los resultados que dejaron 293 168 operativos de seguridad](https://www.elcomercio.com/actualidad/seguridad/gobierno-resultados-seguridad-operativos.html "Gobierno mostró los resultados que dejaron 293 168 operativos de seguridad")
+
+Operativo Esperanza
+-------------------
+
+La **Policía Nacional,** en conjunto con las **Fuerzas Armadas**, realiza allanamientos en ciudadelas privadas luego de recibir alertas de los moradores en cuanto a seguridad.
+
+Los trabajos investigativos habrían arrancado durante la madrugada de este miércoles. Entre las ciudadelas intervenidas se encuentran algunas como **La Joya y Villa Club.**
+
+Estas investigaciones buscan **detectar vínculos con el crimen organizado.** Por ello, personal de la Comisión de Tránsito del Ecuador (CTE) apoya el operativo con la isnpección de vehículos.
+
+Además, se inspecciona la salida y entrada de vehículos a las urbanizaciones y en la vía. Así se busca detectar a posibles evasores del [operativo](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador").
+
+**_Noticia en desarrollo…_**
+
+Policía realizó el operativo Ónix en Guayaquil
+----------------------------------------------
+
+La Policía Nacional ejecutó el operativo llamado Ónix en Guayaquil, a través de la Dirección Nacional de Investigación Antidrogas, el martes 10 de diciembre de 2024.
+
+Esta operación dejó como resultado la **aprehensión de 14 antisociales,** entre ellos alias ‘Pilozo’, quienes habrían incurrido en el delito de delincuencia organizada.
+
+Estos sujetos serían miembros del grupo armado organizado **Las Águilas**. Cuatro de los implicados registran antecedentes por delitos como robo y tráfico de drogas.
+
+Las Águilas habrían participado en el **tráfico para el consumo interno** de sustancias catalogadas como sujetas a fiscalización. Además, generaba violencia y alteración del orden público por disputas territoriales con otros grupos delictivos.
+
+Así también, se encontró que esta organización se abastecía de sustancias ilícitas en Loja mediante el uso de vehículos con **compartimientos secretos**. Posterior a su llegada, los almacenaban en inmuebles en los distritos Portete y La Florida y luego los distribuían en la provincia del Guayas.
+
+Al menos 22 miembros de una familia mueren en un ataque israelí en Gaza
+=======================================================================
+
+Se informó que serían 30 los muertos y desaparecidos de la familia; sin embargo, solo 22 cuerpos han podido ser recuperados
+---------------------------------------------------------------------------------------------------------------------------
+
+![Dos niñas contemplan la casa de la familia Al Fayomi, otra de las destruidas en un ataque a un refugio en Gaza.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-16.jpg)
+
+Al menos 22 miembros de la familia **Abu Tarabish** murieron en un ataque israelí la madrugada de este miércoles 11 de diciembre de 2024. Cuando la aviación bombardeó la vivienda en la que se encontraban en Beit Lahia, una localidad de la región del **norte de Gaza** que permanece bajo una intensa operación militar de Israel desde hace 68 días.
+
+### Más noticias
+
+* [Hizbulá compromete el alto el fuego con Israel al](https://www.elcomercio.com/actualidad/mundo/hizbula-compromete-alto-el-fuego-israel-misiles.html "Hizbulá compromete el alto el fuego con Israel al disparar dos misiles") [disparar](https://www.elcomercio.com/actualidad/mundo/hizbula-compromete-alto-el-fuego-israel-misiles.html "Hizbulá compromete el alto el fuego con Israel al disparar dos misiles") [dos misiles](https://www.elcomercio.com/actualidad/mundo/hizbula-compromete-alto-el-fuego-israel-misiles.html "Hizbulá compromete el alto el fuego con Israel al disparar dos misiles")
+* [Amnistía Internacional cataloga como genocidio los ataques a Gaza](https://www.elcomercio.com/actualidad/mundo/amnistia-internacional-cataloga-genocidio-ataques-a-gaza.html "Amnistía Internacional cataloga como genocidio los ataques a Gaza")
+* [La CPI dicta orden de arresto contra Netanyahu por crímenes de guerra en Gaza](https://www.elcomercio.com/actualidad/mundo/cpi-dicta-orden-de-arresto-contra-netanyahu-por-crimenes-de-guerra-en-gaza.html "La CPI dicta orden de arresto contra Netanyahu por crímenes de guerra en Gaza")
+
+El ataque en la casa de los Abu Tarabish
+----------------------------------------
+
+Al amanecer de este miércoles, la agencia palestina de noticias Wafa informó de **30 muertos** y desaparecidos entre los escombros de la vivienda de los Abu Tarabish. Pero las autoridades sanitarias solo **han recuperado hasta el momento 22 cadáveres.**
+
+En las listas de fallecidos publicadas tras el ataque figuran seis **“niños mártires”,** expresión que se refiere también a adolescentes.
+
+El edificio en el que se encontraban los **Abu Tarabish** tenía tres plantas y, según Wafa, en él se encontraban más de una treintena de **desplazados por los combates del norte.** En estos momentos, un 90 % de la población de Gaza, de unos 2,1 millones de personas, se encuentra desplazada.
+
+La vivienda estaba además en las **inmediaciones del hospital Kamal Adwan**, uno de los dos únicos en funcionamiento en el área asediada del norte junto al Al Awda de Yabalia. Y que el Ejército israelí trata de desalojar desde hace días con ataques constantes tanto al propio centro como a sus alrededores.
+
+El **Ejército de Israel** no se ha pronunciado aún respecto al ataque.
+
+El sábado, el director del Kamal Adwan, Hussam Abu Safiya, denunció la entrada de dos soldados israelíes en el hospital con un megáfono, **los cuales exigían el desalojo del centro.**
+
+“En **cuatro ocasiones** entre el 3 y el 7 de diciembre, el hospital Kamal Adwan de Beit Lahia, que alberga a 90 pacientes y 66 miembros del equipo médico, **recibió ataques con disparos,** bombas y cohetes. Lo que resultó en la **muerte de siete personas i**ncluyendo cuatro médicos y un niño”, informó el martes la Oficina de la ONU para la Coordinación de Asuntos Humanitarios (OCHA).
+
+Además, **siete personas murieron** el 5 de diciembre en uno de los ataques contra los alrededores del hospital.
+
+Bombardeos en Gaza
+------------------
+
+Beit Lahia, Yabalia y Beit Hanoun, en el norte de Gaza, comenzaron a sufrir una intensa campaña de **bombardeos israelíes** el pasado 5 de octubre, a la que le siguió una incursión terrestre el día 6. Desde entonces, la zona permanece bajo un asedio militar que ha provocad**o 3 700 muertos** y desaparecidos, según las autoridades gazatíes, si bien esta cifra lleva días sin actualizarse.
+
+Fruto de los combates, la Defensa Civil, encargada de **rescatar los cadáveres** y heridos de entre los escombros de los ataques, denuncia no poder llevar a cabo su labor, crucial para poder contabilizar adecuadamente las víctimas.
+
+La ONU estima que entre **65 000 y 75 000 personas siguen** en el área asediada, si bien la ofensiva causa periódicamente olas de evacuación hacia la ciudad de Gaza, también en el norte pero fuera del cerco.
+
+El 4 de diciembre, unas **5 500 personas fueron evacuadas f**orzosamente de tres escuelas en las que se refugiaban en Beit Lahia.
+
+Las fuerzas armadas israelíes denunciaron a primera hora de la mañana **el lanzamiento de dos cohetes** hacia territorio israelí desde el centro de Gaza, los cuales cayeron en espacios abiertos.
+
+Menos de una hora después, dos cohetes más disparados desde la misma zona fueron **interceptados** antes de caer.
+
+Desde que comenzó la guerra en Gaza, casi **44 800 palestinos han perdido la vida** (el 70 % mujeres y niños), y otros 106.200 han resultado heridos, según los datos del [Ministerio de Sanidad.](https://es.wikipedia.org/wiki/Gaza "https://es.wikipedia.org/wiki/Gaza")
+
+Así funciona el Pico y placa en Quito este miércoles 11 de diciembre
+====================================================================
+
+Cuatro contraflujos se realizan en Quito como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
+----------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-10T152941.666.jpg)
+
+El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad. Este se aplica con un esquema, según el último dígito de la placa.
+
+### Más noticias
+
+* [AMC desechó casi 5 000 litros de alcohol en fiestas de Quito](https://www.elcomercio.com/actualidad/quito/amc-desecho-casi-5-000-litros-de-alcohol-en-fiestas-de-quito.html "AMC desechó casi 5 000 litros de alcohol en fiestas de Quito")
+* [AMT sancionó a 21 conductores de motos en Quito por esta razón](https://www.elcomercio.com/actualidad/quito/amt-sanciono-a-21-conductores-de-motos-quito-por-esta-razon.html "AMT sancionó a 21 conductores de motos en Quito por esta razón")
+* [Cronograma de controles de velocidad en Quito hasta el viernes 13 de diciembre](https://www.elcomercio.com/actualidad/quito/cronograma-controles-de-velocidad-quito-hasta-viernes-13-de-diciembre.html "Cronograma de controles de velocidad en Quito hasta el viernes 13 de diciembre")
+
+¿Cómo funciona el Pico y placa?
+-------------------------------
+
+La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
+
+Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
+
+Contraflujos y Pico y placa en Quito
+------------------------------------
+
+Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
+
+–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
+
+Mañana: 06:30 a 07:00 y de 07:30 a 08:00
+
+Tarde: 16:30 a 17:00 y 17:30 a 18:00
+
+–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
+
+Mañana: 06:30 a 07:30 y de 08:00 a 08:30
+
+Tarde: 16:30 a 19:30
+
+–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
+
+Mañana: 06:00 a 08:30
+
+Tarde: 17:00 a 19:00
+
+– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
+
+Mañana: 07:00 a 08:30
+
+Tarde: de 16:00 a 19:30
+
+Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
+>   
+> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
+>   
+> 🤝 Juntos llegamos sin contratiempos.  
+>   
+> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nfehiI0uUO](https://t.co/nfehiI0uUO)
+> 
+> — AMTQuito (@AMT\_Quito) [October 22, 2024](https://twitter.com/AMT_Quito/status/1848669582912897155?ref_src=twsrc%5Etfw)
+
 Diciembre, un mes propicio para la prevención los siniestros de tránsito
 ========================================================================
 
@@ -85,6 +246,24 @@ Mucho se habla de la **inoperancia** de los **organismos internacionales**, sing
 
 Lo que no se debe callar, para no ser **cómplices**, es que se ha tejido una **burocracia** en **Naciones Unidas**, que bien merecería una poda profunda, para bajar costos y aumentar la eficiencia.
 
+Mugre
+=====
+
+Un acto público financiado con recursos oficiales incitó al odio y la violencia, cuestionando si esto puede considerarse cultura.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+
+Según la RAE: «mugre es un sustantivo que significa suciedad grasienta». Los sinónimos son: «basura» o «porquería».  Banda, puede ser desde un velo, o banda de rock o hip hop; pero también las bandas del cartel Jalisco Nueva Generación, cartel de Los Rojos o Los Lobos.  El hecho es que una banda, autodenominada _**MugreSur**,_ al parecer, con **recursos públicos**, escenificaron la **muerte simbólica** del presidente Daniel Noboa, con ahorcamiento.
+
+Algunos dicen que es **libertad de expresión**. Mientras antes aplaudieron al **ególatra caudillo** que, pretendió agredir a un adolescente porque dobló su brazo a la altura del codo y mostró con disgusto su dedo intermedio. Vieja costumbre ya utilizada en la antigua Grecia. Los mismos que aprobaron que su guía, dispuso la **prisión** de un modesto propietario de una camioneta que llevaba el monigote de un borrego.
+
+En el suceso festivo, alguien, disfrazado de lobo, excitaba al odio, simulando el ahorcamiento del jefe de Estado. Arengaba, sin pelos en la lengua: «_les voy a dedicar al 52% de florindos hijos de puta…_», refiriéndose a la mayoría de los ciudadanos que sufragaron por Daniel Noboa y no por la asistente de Rafael Correa. Pregonaron el odio y la muerte. Todo esto, organizado por la **secretaria de cultura del municipio de Quito**, con los impuestos que pagan los contribuyentes. ¿Es cultura la dialéctica del odio, la banalización del **resentimiento** y la **incitación** a la **violencia**? No lo es. Significa la tanatopolítica, de la que hablo Michel Foucault, en este caso, administrada por el **poder mugriento**, propio del **extremismo fanático y la concepción totalitaria de la política**.
+
+Para cerrar este feo hecho, leamos lo que dijo Voltaire: «_Es difícil liberar a los necios de las cadenas que veneran_». Y Raymond Aron: «_La violencia es el arma de los débiles, aquellos que no saben convencer con argumentos» O «el fanatismo político es una amenaza para la democracia y la libertad individual»._
+
+¿En qué momento una **salvajada indecorosa** se presenta como **expresión de cultura**? Desde cuando se pretendió homogeneizar la sociedad alrededor de un colérico gobernante rencoroso. Desde que se extravió la **política** y se abandonó la **pluralidad**, la **tolerancia** y la **ética**. Desde el momento en que el **populismo** del rencor diseminó el odio y acabó con la **racionalidad**.
+
 Cartas a Quito / 11 de diciembre de 2024
 ========================================
 
@@ -109,24 +288,6 @@ La comunicación entre docentes y estudiantes también juega un papel crucial. C
 Es fundamental que tanto educadores como padres trabajen juntos para fomentar un ambiente más positivo. Esto implica reconocer las emociones de los estudiantes y brindarles el apoyo necesario para superar sus desafíos. La empatía y la comprensión pueden ser herramientas poderosas para transformar actitudes negativas en motivación.
 
 Roberto Camana-Fiallos
-
-Mugre
-=====
-
-Un acto público financiado con recursos oficiales incitó al odio y la violencia, cuestionando si esto puede considerarse cultura.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
-
-Según la RAE: «mugre es un sustantivo que significa suciedad grasienta». Los sinónimos son: «basura» o «porquería».  Banda, puede ser desde un velo, o banda de rock o hip hop; pero también las bandas del cartel Jalisco Nueva Generación, cartel de Los Rojos o Los Lobos.  El hecho es que una banda, autodenominada _**MugreSur**,_ al parecer, con **recursos públicos**, escenificaron la **muerte simbólica** del presidente Daniel Noboa, con ahorcamiento.
-
-Algunos dicen que es **libertad de expresión**. Mientras antes aplaudieron al **ególatra caudillo** que, pretendió agredir a un adolescente porque dobló su brazo a la altura del codo y mostró con disgusto su dedo intermedio. Vieja costumbre ya utilizada en la antigua Grecia. Los mismos que aprobaron que su guía, dispuso la **prisión** de un modesto propietario de una camioneta que llevaba el monigote de un borrego.
-
-En el suceso festivo, alguien, disfrazado de lobo, excitaba al odio, simulando el ahorcamiento del jefe de Estado. Arengaba, sin pelos en la lengua: «_les voy a dedicar al 52% de florindos hijos de puta…_», refiriéndose a la mayoría de los ciudadanos que sufragaron por Daniel Noboa y no por la asistente de Rafael Correa. Pregonaron el odio y la muerte. Todo esto, organizado por la **secretaria de cultura del municipio de Quito**, con los impuestos que pagan los contribuyentes. ¿Es cultura la dialéctica del odio, la banalización del **resentimiento** y la **incitación** a la **violencia**? No lo es. Significa la tanatopolítica, de la que hablo Michel Foucault, en este caso, administrada por el **poder mugriento**, propio del **extremismo fanático y la concepción totalitaria de la política**.
-
-Para cerrar este feo hecho, leamos lo que dijo Voltaire: «_Es difícil liberar a los necios de las cadenas que veneran_». Y Raymond Aron: «_La violencia es el arma de los débiles, aquellos que no saben convencer con argumentos» O «el fanatismo político es una amenaza para la democracia y la libertad individual»._
-
-¿En qué momento una **salvajada indecorosa** se presenta como **expresión de cultura**? Desde cuando se pretendió homogeneizar la sociedad alrededor de un colérico gobernante rencoroso. Desde que se extravió la **política** y se abandonó la **pluralidad**, la **tolerancia** y la **ética**. Desde el momento en que el **populismo** del rencor diseminó el odio y acabó con la **racionalidad**.
 
 Ecuador habilitó declaración en línea para viajeros que lleven 10 000 dólares
 =============================================================================
@@ -893,128 +1054,3 @@ José Miguel Andrade.
 
 San viernes
 -----------
-
-Así va la generación eléctrica en el Ecuador ¿se acabarán los cortes de luz en 10 días?
-=======================================================================================
-
-El presidente Noboa anunció el fin de los cortes eléctricos para el 20 de diciembre, pero expertos cuestionan la viabilidad técnica del plan.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Coca Codo Sinclair es la central hidroeléctrica más grande del país, con 1 500 MW de potencia instalada.](https://www.elcomercio.com/wp-content/uploads/2024/10/coca-codosinclair.jpg)
-
-Este martes 10 de diciembre de 2024, el presidente **Daniel Noboa** anunció que en 10 días se terminarán los **cortes de luz** en Ecuador. La información se basa en cuatro factores importantes: Recuperación de la capacidad de generación térmica instalada; incorporación de las nuevas barcazas de generación flotante; compra de energía a **Colombia**, y mejores condiciones **meteorológicas**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Cortes de luz en Quito este miércoles 11 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-miercoles-11-diciembre.html "Cortes de luz en Quito este miércoles 11 de diciembre")
-* [Daniel Noboa anunció el fin de los apagones en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-anuncio-fin-apagones-ecuador.html "Daniel Noboa anunció el fin de los apagones en Ecuador")
-* [Cortes de luz de tres horas arrancaron est](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-de-tres-horas-arrancaron-este-lunes-9-de-diciembre-en-ecuador.html "Cortes de luz de tres horas arrancaron este lunes 9 de diciembre en Ecuador")[e](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-de-tres-horas-arrancaron-este-lunes-9-de-diciembre-en-ecuador.html "Cortes de luz de tres horas arrancaron este lunes 9 de diciembre en Ecuador") [lunes 9 de diciembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-de-tres-horas-arrancaron-este-lunes-9-de-diciembre-en-ecuador.html "Cortes de luz de tres horas arrancaron este lunes 9 de diciembre en Ecuador")
-
-La condición climática de los afluentes que alimentan las hidroeléctricas es la única que ha mejorado realmente, señaló **Marco Acuña**, presidente del Colegio de Ingenieros Eléctricos de Pichincha. El resto de variables no están seguras.
-
-Así va la generación de energía en los primeros días de diciembre
------------------------------------------------------------------
-
-Según la información del [Operador Nacional de Electricidad (Cenace),](https://www.cenace.gob.ec/) entre el 1 y el 9 de diciembre de 2024, el Ecuador generó 673 214 megavatios hora (MWh), esto equivale a un promedio de 3 117 megavatios (MW) cada día. La cifra representa el 82% de la electricidad que necesita cada día el país. Es decir, 19 horas de electricidad.
-
-Sin embargo, solo el lunes 9 de diciembre, el Cenace registró una producción de **3 412 MW, el 89% de la energía que requiere el Ecuador** al día. Por esta razón ha sido posible mantener la reducción de los cortes de luz a tres horas diarias.
-
-El 62% de esa energía provino de las hidroeléctricas. Siendo **Coca Codo Sinclair**, ubicada entre las provincias de **Napo y Sucumbíos,** la principal protagonista. Esto gracias a la mejora del caudal del río Coca, que alimenta esta central.
-
-Según el reporte, **Coca Codo Sinclair** generó 946 MW el lunes. La mejora del caudal del **río Coca** se ha registrado durante los primeros días de diciembre.
-
-Por ejemplo, el monitoreo señala que el domingo **8 de diciembre**, último dato disponible, el afluente registró un caudal de 172,7 metros cúbicos por segundo (m3/s). La cifra es casi el doble del promedio registrado en noviembre que fue 96.3 m3/s.
-
-Para **Marco Acuña** la producción de la central Coca Codo ha significado la “boya de salvación del Ecuador. Y ha permitido que se tengan **cortes de luz de tres horas diarias** y no se incrementen los apagones”.
-
-¿Qué pasa con el embalse de Mazar?
-----------------------------------
-
-Mientras que el embalse de **Mazar**, el principal reservorio de agua el país, que permite planificar la entrega de energía, todavía se encuentra en **un nivel crítico**. Esto, pese a las lluvias registradas en los últimos días en la zona del Austro del Ecuador.
-
-Según el reporte de **CelecSur,** la cota del embalse de Mazar se encontraba en 2 114,6 metros sobre el nivel del mar (m.s.n.m) a las 15:00 de este martes 10 de diciembre, aún a**bajo del nivel mínimo** para operar sin riesgo.
-
-Para Acuña, el anuncio del presidente Noboa de terminar con los cortes de luz desde el 20 de diciembre no se sustenta técnicamente porque el problema eléctrico del Ecuador **no se ha solucionado**. Más bien se depende únicamente de las lluvias y lo que puede pasar es que algunos días de diciembre no hayan apagones.
-
-Siniestro de tránsito en la Ruta Viva deja heridos la tarde de este martes 10 de diciembre
-==========================================================================================
-
-El siniestro de tránsito en la Ruta Viva ocurrió a la altura de Cumbayá.
-------------------------------------------------------------------------
-
-![El siniestro de tránsito en la Ruta Viva ocurrió al ingreso del barrio San Patricio, Cumbayá.](https://www.elcomercio.com/wp-content/uploads/2024/12/siniestro-transito-ruta-viva.jpg)
-
-Un **siniestro** de **tránsito** en la **Ruta Viva**, a la altura de **Cumbayá**, dejó heridos, la **tarde de este martes 10 de diciembre** de 2024.
-
-El **Cuerpo de Bomberos de Quito** atendió la emergencia.
-
-### Más noticias:
-
-* [Ruta Viva cerrada parcialmente por siniestro de tránsito, en Quito](https://www.elcomercio.com/actualidad/quito/ruta-viva-cerrada-parcialmente-siniestro-de-transito-quito.html "Ruta Viva cerrada parcialmente por siniestro de tránsito, en Quito")
-* [Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito](https://www.elcomercio.com/actualidad/quito/personas-fallecieron-siniestros-transito-durante-feriado-fiestas-quito.html "Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito")
-
-Los heridos del siniestro de tránsito en la Ruta Viva
------------------------------------------------------
-
-A las **15:51** de este martes, se recibió una llamada de emergencia al número **911**, sobre un siniestro de tránsito en la Ruta Viva, a la altura de Cumbayá.
-
-El siniestro se produjo entre un camión y un vehículo liviano, al ingreso del **barrio San Patricio**.
-
-El **Cuerpo de Bomberos de Quito** reportó que, al llegar al lugar del suceso, se atendió a las personas que iban a bordo de los vehículos.
-
-Los bomberos estabilizaron y extrajeron al conductor que estaba **atrapado en el camión**.
-
-Los **paramédicos** atendieron a **tres pacientes heridos** con policontusiones estables.
-
-Luego, fueron movilizados a **casas de salud**.
-
-El Cuerpo de Bomberos coordinó con la **Agencia Metropolitana de Tránsito (AMT)** la circulación vehicular en el sitio.
-
-Asimismo, para brindar **seguridad**, hasta retirar los vehículos involucrados.
-
-> 🚗💥 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Nuestro equipo atiende una emergencia por un siniestro de tránsito en la Ruta Viva, sector Cumbayá, ingreso al barrio San Patricio.  
->   
-> 🚑 Tres personas que resultaron afectadas reciben atención prehospitalaria por parte de nuestros paramédicos.  
->   
-> 👉 Por favor, si vas… [pic.twitter.com/1CLd9wFnVy](https://t.co/1CLd9wFnVy)
-> 
-> — Bomberos Quito (@BomberosQuito) [December 10, 2024](https://twitter.com/BomberosQuito/status/1866602821723828435?ref_src=twsrc%5Etfw)
-
-En la mañana de este martes, se registró otro siniestro de tránsito en la **Ruta Viva**, pero a la altura de **Lumbisí**.
-
-El siniestro se produjo por el choque de tres vehículos.
-
-Producto del suceso, las autoridades reportaron **dos personas heridas** y los paramédicos las trasladaron a casas de salud.
-
-Los organismos de control y socorro recomiendan **conducir con precaución** y respetando los límites de velocidad.
-
-‘Cuando el teléfono suena’ cambia la fecha del estreno de los episodios 5 y 6 en Netflix
-========================================================================================
-
-¿A qué se debe la modificación?
--------------------------------
-
-!['Cuando el teléfono suena' es una serie surcoreana que se retransmite en Netflix.](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-7.jpg)
-
-El esperado estreno de los **episodios 5 y 6** de la serie _**Cuando el teléfono suena**_ se ha pospuesto debido a la crisis política en Corea del Sur.
-
-Esta situación afectó a varias cadenas de televisión en el país, las cuales decidieron realizar ajustes en sus programaciones para dar cobertura a las manifestaciones y cambios políticos recientes.
-
-### Más noticias:
-
-* **[El éxito de ‘Wicked’ evidencia un avance hacia el fin del racismo y la discriminación en el cine](https://www.elcomercio.com/tendencias/el-exito-de-wicked-evidencia-un-avance-hacia-el-fin-del-racismo-y-la-discriminacion-en-el-cine.html "https://www.elcomercio.com/tendencias/el-exito-de-wicked-evidencia-un-avance-hacia-el-fin-del-racismo-y-la-discriminacion-en-el-cine.html")**
-
-El presidente Yoon Suk-yeol implementó temporalmente la Ley Marcial, aunque esta fue considerada “injustificada e inconstitucional” por la Asamblea Nacional y apenas duró seis horas.
-
-Desde entonces, Corea del Sur ha vivido varias protestas pacíficas, lo que motivó a MBC TV, cadena responsable de transmitir la serie, a cambiar su programación.
-
-Por esta razón, los episodios 5 y 6 de _Cuando el teléfono suena_ no se emitirán en sus fechas previstas: el 6 y 7 de diciembre de 2024. Esta decisión afecta también la disponibilidad en **Netflix**, ya que el servicio de _streaming_ depende de la programación original de MBC.
-
-**‘Cuando el teléfono suena’ es un exitoso _thriller_ en Netflix**
-------------------------------------------------------------------
-
-La trama de la serie, también conocida como _When the Phone Rings_ y con el título original _Ji-geum Geo-sin Jeon-hwa-neun_, relata la complicada historia de un matrimonio entre un político en ascenso y su esposa, quienes ven cómo su vida cambia drásticamente tras un inesperado secuestro.
-
-A pesar de estos cambios, los seguidores de la serie aún tienen la oportunidad de mantenerse informados sobre los nuevos episodios y sus nuevas fechas de estreno. Este giro en la programación refleja cómo factores externos, como los conflictos políticos, afectan a la industria del entretenimiento, especialmente en producciones internacionales.
-
-Con este cambio, los fanáticos deberán estar atentos a futuras actualizaciones para conocer la nueva fecha de estreno.
