@@ -259,15 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![ALERT: Irish homes at risk of rat invasion over Christmas season amid warning](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ALERT: Irish homes at risk of rat invasion over Christmas season amid warning")](https://www.derrynow.com/news/national-news/1677056/alert-irish-home-at-risk-of-rat-invasion-over-christmas-season-amid-warning.html)
-
-ALERT: Irish homes at risk of rat invasion over Christmas season amid warning
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[ALERT: Irish homes at risk of rat invasion over Christmas season amid warning](https://www.derrynow.com/news/national-news/1677056/alert-irish-home-at-risk-of-rat-invasion-over-christmas-season-amid-warning.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Located: 13-year-old found 'safe and well' after going missing for 10 days](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Located: 13-year-old found 'safe and well' after going missing for 10 days")](https://www.derrynow.com/news/national-news/1677766/located-13-year-old-found-safe-and-well-after-going-missing-for-10-days.html)
 
 When last seen, Mary Chantelle was wearing a dark green tracksuit, and a school jacket.
@@ -277,31 +268,6 @@ When last seen, Mary Chantelle was wearing a dark green tracksuit, and a school 
 [Located: 13-year-old found 'safe and well' after going missing for 10 days](https://www.derrynow.com/news/national-news/1677766/located-13-year-old-found-safe-and-well-after-going-missing-for-10-days.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Christmas: Council confirm service arrangements for festive season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Christmas: Council confirm service arrangements for festive season")](https://www.derrynow.com/news/local-news/1677409/derry-christmas-council-confirm-service-arrangements-for-festive-season.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry Christmas: Council confirm service arrangements for festive season](https://www.derrynow.com/news/local-news/1677409/derry-christmas-council-confirm-service-arrangements-for-festive-season.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Eugenia Devine (Devine Hair & Beauty Salon) accepting her award](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Eugenia Devine (Devine Hair & Beauty Salon) accepting her award")](https://www.derrynow.com/news/county-derry-post/1677073/devine-new-salon-in-the-heart-of-county-derry-village.html)
-
-Eugenia Devine (Devine Hair & Beauty Salon) accepting her award
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-['Devine' new salon in the heart of County Derry village](https://www.derrynow.com/news/county-derry-post/1677073/devine-new-salon-in-the-heart-of-county-derry-village.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two motorists arrested in Derry for driving-related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two motorists arrested in Derry for driving-related offences")](https://www.derrynow.com/news/local-news/1677145/two-motorists-arrested-in-derry-for-driving-related-offences.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Two motorists arrested in Derry for driving-related offences](https://www.derrynow.com/news/local-news/1677145/two-motorists-arrested-in-derry-for-driving-related-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1677216/derry-death-notices-wednesday-december-11-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -309,39 +275,86 @@ PSNI
 [Derry Death Notices - Wednesday, December 11, 2024](https://www.derrynow.com/news/deaths/1677216/derry-death-notices-wednesday-december-11-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Maydown and Strathfoyle Annual Christmas Tree Light Switch On](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Maydown and Strathfoyle Annual Christmas Tree Light Switch On")](https://www.derrynow.com/story-telling/pictures---videos/1677215/in-pictures-maydown-and-strathfoyle-annual-christmas-tree-light-switch-on.html)
+[![Three people hospitalised following serious crash between bus and car in Donegal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three people hospitalised following serious crash between bus and car in Donegal")](https://www.derrynow.com/news/local-news/1678225/three-people-hospitalised-following-serious-crash-between-bus-and-car-in-donegal.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+The scene at Manorcunningham. Photo: NW Newspix
 
-[IN PICTURES: Maydown and Strathfoyle Annual Christmas Tree Light Switch On](https://www.derrynow.com/story-telling/pictures---videos/1677215/in-pictures-maydown-and-strathfoyle-annual-christmas-tree-light-switch-on.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Security alert following discovery of suspicious object in the Ranaghan Road area of Maghera.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Security alert following discovery of suspicious object in the Ranaghan Road area of Maghera.")](https://www.derrynow.com/news/county-derry-post/1677284/security-alert-following-discovery-of-suspicious-object-in-the-ranaghan-road-area-of-maghera.html)
+[Three people hospitalised following serious crash between bus and car in Donegal](https://www.derrynow.com/news/local-news/1678225/three-people-hospitalised-following-serious-crash-between-bus-and-car-in-donegal.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man branded 'a danger to the community' remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man branded 'a danger to the community' remanded")](https://www.derrynow.com/news/local-news/1678051/derry-man-branded-a-danger-to-the-community-remanded.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man branded 'a danger to the community' remanded](https://www.derrynow.com/news/local-news/1678051/derry-man-branded-a-danger-to-the-community-remanded.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Apprentice Boys to burn Lundy in Derry city centre tonight](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Apprentice Boys to burn Lundy in Derry city centre tonight")](https://www.derrynow.com/news/local-news/1678352/apprentice-boys-to-burn-lundy-in-derry-city-centre-tonight.html)
+
+The annual burning of the effigy was postponed due to high winds because of Storm Darragh on Saturday
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Apprentice Boys to burn Lundy in Derry city centre tonight](https://www.derrynow.com/news/local-news/1678352/apprentice-boys-to-burn-lundy-in-derry-city-centre-tonight.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Arrest warrant issued for Derry man who failed to appear in court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Arrest warrant issued for Derry man who failed to appear in court")](https://www.derrynow.com/news/local-news/1678113/arrest-warrant-issued-for-derry-man-who-failed-to-appear-in-court.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Arrest warrant issued for Derry man who failed to appear in court](https://www.derrynow.com/news/local-news/1678113/arrest-warrant-issued-for-derry-man-who-failed-to-appear-in-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Christmas comes early for Derry City as Shane Ferguson signs for the Candystripes](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Christmas comes early for Derry City as Shane Ferguson signs for the Candystripes")](https://www.derrynow.com/news/sport/1677861/christmas-comes-early-for-derry-city-as-shane-ferguson-signs-for-the-candystripes.html)
+
+Derry City’s Shane Ferguson has signed up for the 2025 season. PHOTO: Kevin Morrison.
+
+[Sport](https://www.derrynow.com/section/976/sport)
+
+[Christmas comes early for Derry City as Shane Ferguson signs for the Candystripes](https://www.derrynow.com/news/sport/1677861/christmas-comes-early-for-derry-city-as-shane-ferguson-signs-for-the-candystripes.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police investigating possible arson attack in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating possible arson attack in Derry")](https://www.derrynow.com/news/local-news/1677954/police-investigating-possible-arson-attack-in-derry.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police investigating possible arson attack in Derry](https://www.derrynow.com/news/local-news/1677954/police-investigating-possible-arson-attack-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Charity decides to reopen Limavady shop days after closing](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Charity decides to reopen Limavady shop days after closing")](https://www.derrynow.com/news/county-derry-post/1678083/charity-decides-to-reopen-limavady-shop-days-after-closing.html)
 
 [County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[Security alert following discovery of suspicious object in the Ranaghan Road area of Maghera.](https://www.derrynow.com/news/county-derry-post/1677284/security-alert-following-discovery-of-suspicious-object-in-the-ranaghan-road-area-of-maghera.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Charity decides to reopen Limavady shop days after closing](https://www.derrynow.com/news/county-derry-post/1678083/charity-decides-to-reopen-limavady-shop-days-after-closing.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry’s factory girls sculptures set in place ahead of unveiling early next year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry’s factory girls sculptures set in place ahead of unveiling early next year")](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1677257/derrys-factory-girls-sculpturesset-in-place-ahead-of-unveiling-early-next-year.html)
+[![Derry woman charged with breaching bail conditions remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with breaching bail conditions remanded")](https://www.derrynow.com/news/local-news/1678082/derry-woman-charged-with-breaching-bail-conditions-remanded.html)
 
-[Derry City and Strabane District Council](https://www.derrynow.com/section/2722/derry-city-and-strabane-district-council)
+Derry Magistrates' Court
 
-[Derry’s factory girls sculptures set in place ahead of unveiling early next year](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1677257/derrys-factory-girls-sculpturesset-in-place-ahead-of-unveiling-early-next-year.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor")](https://www.derrynow.com/news/arts---entertainment/1677287/irish-lead-the-way-as-guests-announced-for-this-week-s-graham-norton-show-on-bbc-one.html)
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[Irish lead the way as guests announced for this week's Graham Norton Show on BBC One](https://www.derrynow.com/news/arts---entertainment/1677287/irish-lead-the-way-as-guests-announced-for-this-week-s-graham-norton-show-on-bbc-one.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry woman charged with breaching bail conditions remanded](https://www.derrynow.com/news/local-news/1678082/derry-woman-charged-with-breaching-bail-conditions-remanded.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Festive cheer at annual St. Paul's PS Christmas Pensioners Dinner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Festive cheer at annual St. Paul's PS Christmas Pensioners Dinner")](https://www.derrynow.com/story-telling/pictures---videos/1676467/in-pictures-festive-cheer-at-annual-st-paul-s-ps-christmas-pensioners-dinner.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Festive cheer at annual St. Paul's PS Christmas Pensioners Dinner](https://www.derrynow.com/story-telling/pictures---videos/1676467/in-pictures-festive-cheer-at-annual-st-paul-s-ps-christmas-pensioners-dinner.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Maydown and Strathfoyle Annual Christmas Tree Light Switch On](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Maydown and Strathfoyle Annual Christmas Tree Light Switch On")](https://www.derrynow.com/story-telling/pictures---videos/1677215/in-pictures-maydown-and-strathfoyle-annual-christmas-tree-light-switch-on.html)
 
@@ -368,8 +381,8 @@ Multimedia
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Jack and Saoirse. Jost Jewels. (Photos - Deirdre Heaney, nwpresspics)](https://www.derrynow.com/story-telling/pictures---videos/1676468/in-pictures-north-west-learning-disability-centre-s-christmas-craft-fair.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: North West Learning Disability Centre's Christmas Craft Fair](https://www.derrynow.com/story-telling/pictures---videos/1676468/in-pictures-north-west-learning-disability-centre-s-christmas-craft-fair.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Enagh Youth Forum's awards ceremony at the White Horse Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Enagh Youth Forum's awards ceremony at the White Horse Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1674949/in-pictures-enagh-youth-forum-s-awards-ceremony-at-the-white-horse-hotel.html)
 
@@ -406,13 +419,6 @@ Multimedia
 [Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)](https://www.derrynow.com/story-telling/pictures---videos/1676620/throwback-tuesday-out-and-about-the-white-river-hotel-toome-2014.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch")](https://www.derrynow.com/story-telling/pictures---videos/1676466/in-pictures-50th-anniversary-commemoration-for-oglach-john-mcdaid-and-oglach-ethel-lynch.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch](https://www.derrynow.com/story-telling/pictures---videos/1676466/in-pictures-50th-anniversary-commemoration-for-oglach-john-mcdaid-and-oglach-ethel-lynch.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
@@ -426,6 +432,13 @@ ADVERTISEMENT - CONTINUE READING BELOW
 Advertise with Us
 
 Sponsored Content
+
+[![Derry TEST](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry TEST")](https://www.derrynow.com/video/sponsored-content/1678370/ulster-university-cultivating-culture-and-innovation-in-the-north-west.html)
+
+[Sponsored Content](https://www.derrynow.com/section/1056/sponsored-content)
+
+[Ulster University - Connected to the community](https://www.derrynow.com/video/sponsored-content/1678370/ulster-university-cultivating-culture-and-innovation-in-the-north-west.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Job Alert: Bluett & O'Donoghue are now recruiting for a Personal Assistant](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Job Alert: Bluett & O'Donoghue are now recruiting for a Personal Assistant")](https://www.derrynow.com/news/sponsored-content/1677379/job-alert-bluett-o-donoghue-are-now-recruiting-for-a-personal-assistant.html)
 
@@ -498,15 +511,6 @@ Ultrasound Scan Clinic also specialise in all aspects of pregnancy scanning
 [WIN: VIP tickets and an overnight stay at the 2024 Punchestown Festival with Race & Stay](https://www.derrynow.com/news/sponsored-content/1474153/win-vip-tickets-and-an-overnight-stay-at-the-2024-punchestown-festival-with-race-stay.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![New Director Sinead Creighan joins McCay Legal team](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New Director Sinead Creighan joins McCay Legal team")](https://www.derrynow.com/news/business/1472081/new-director-sinead-creighan-joins-mccay-legal-team.html)
-
-Sinead Creighan
-
-[Business](https://www.derrynow.com/section/1339/business)
-
-[New Director Sinead Creighan joins McCay Legal team](https://www.derrynow.com/news/business/1472081/new-director-sinead-creighan-joins-mccay-legal-team.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
@@ -515,57 +519,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry woman charged with breaching bail conditions remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with breaching bail conditions remanded")](https://www.derrynow.com/news/local-news/1678082/derry-woman-charged-with-breaching-bail-conditions-remanded.html)
+[![County Derry woman who crashed into car was almost five times the legal alcohol limit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman who crashed into car was almost five times the legal alcohol limit")](https://www.derrynow.com/news/home/1678078/county-derry-woman-who-crashed-into-car-was-almost-five-times-the-legal-alcohol-limit.html)
 
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman charged with breaching bail conditions remanded](https://www.derrynow.com/news/local-news/1678082/derry-woman-charged-with-breaching-bail-conditions-remanded.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man branded 'a danger to the community' remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man branded 'a danger to the community' remanded")](https://www.derrynow.com/news/local-news/1678051/derry-man-branded-a-danger-to-the-community-remanded.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man branded 'a danger to the community' remanded](https://www.derrynow.com/news/local-news/1678051/derry-man-branded-a-danger-to-the-community-remanded.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Charity decides to reopen Limavady shop days after closing](https://www.derrynow.com/resizer/165/93/true/2024_12_10/Kindness_of_Strangers-1733832542004.JPG--.JPG?1733832542027 "Charity decides to reopen Limavady shop days after closing")](https://www.derrynow.com/news/county-derry-post/1678083/charity-decides-to-reopen-limavady-shop-days-after-closing.html)
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Charity decides to reopen Limavady shop days after closing](https://www.derrynow.com/news/county-derry-post/1678083/charity-decides-to-reopen-limavady-shop-days-after-closing.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Innovative planner graduates with big ambitions for the North Coast](https://www.derrynow.com/resizer/165/93/true/2024_12_11/Caolan_Oa__Neill-1733914720654.jpg--.jpg?1733914720727 "Innovative planner graduates with big ambitions for the North Coast")](https://www.derrynow.com/news/home/1677971/innovative-planner-graduates-with-big-ambitions-for-the-north-coast.html)
-
-Caolan O'Neill pictured at his graduation ceremony yesterday.
+The case was heard in Coleraine Court today (Wednesday).
 
 [Home](https://www.derrynow.com/)
 
-[Innovative planner graduates with big ambitions for the North Coast](https://www.derrynow.com/news/home/1677971/innovative-planner-graduates-with-big-ambitions-for-the-north-coast.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry woman who crashed into car was almost five times the legal alcohol limit](https://www.derrynow.com/news/home/1678078/county-derry-woman-who-crashed-into-car-was-almost-five-times-the-legal-alcohol-limit.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Irish tanning brand bBold wins big at The 2024 Beauty Awards](https://www.derrynow.com/resizer/165/93/true/2024_12_11/Beauty_Awards_-bBold-1733909965041.jpg--.jpg?1733909966531 "Irish tanning brand bBold wins big at The 2024 Beauty Awards")](https://www.derrynow.com/news/county-derry-post/1677862/irish-tanning-brand-bbold-wins-big-at-the-2024-beauty-awards.html)
-
-The bBold team celebrate their success at the awards held in London.
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Irish tanning brand bBold wins big at The 2024 Beauty Awards](https://www.derrynow.com/news/county-derry-post/1677862/irish-tanning-brand-bbold-wins-big-at-the-2024-beauty-awards.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Paula Mullan, aunt of murdered showjumper Katie Simpson, speaking at Foyle Women's Aid's 16 Days of Action Candlelight Vigil in Derry's Guildhall Square.](https://www.derrynow.com/resizer/165/93/true/2024_12_11/Women_s_Aid_Candlelight_vigil_3-1733913614048.jpg--.jpg?1733913616486 "Paula Mullan, aunt of murdered showjumper Katie Simpson, speaking at Foyle Women's Aid's 16 Days of Action Candlelight Vigil in Derry's Guildhall Square.")](https://www.derrynow.com/news/local-news/1677959/letter-from-murdered-womans-daughter-read-at-derry-candlelight-vigil.html)
-
-Paula Mullan, aunt of murdered showjumper Katie Simpson, speaking at Foyle Women's Aid's 16 Days of Action Candlelight Vigil in Derry's Guildhall Square.
+[![Man (50s) arrested following County Derry security alert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (50s) arrested following County Derry security alert")](https://www.derrynow.com/news/local-news/1678599/man-50s-arrested-following-county-derry-security-alert.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Letter from murdered woman’s daughter read at Derry candlelight vigil](https://www.derrynow.com/news/local-news/1677959/letter-from-murdered-womans-daughter-read-at-derry-candlelight-vigil.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man (50s) arrested following County Derry security alert](https://www.derrynow.com/news/local-news/1678599/man-50s-arrested-following-county-derry-security-alert.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry celebrates success at Translink’s SPIRIT Awards](https://www.derrynow.com/resizer/165/93/true/2024_12_11/image005-1733930869294.jpg--.jpg?1733930869315 "Derry celebrates success at Translink’s SPIRIT Awards")](https://www.derrynow.com/news/local-news/1678358/derry-celebrates-success-attranslinks-spirit-awards.html)
+
+Linda Thompson, receives Platinum Spirit Award from Translink’s Safety, Health, Environment and Responsible Business Co-ordinator, Rachel McCann and KNIB Field Officer, Gareth Lamrock
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry celebrates success at Translink’s SPIRIT Awards](https://www.derrynow.com/news/local-news/1678358/derry-celebrates-success-attranslinks-spirit-awards.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![NI Pharmacy Regulator commences centenary celebrations with visit to Derry](https://www.derrynow.com/resizer/165/93/true/2024_12_11/09-12-24_Pharma_soc_Altna_18-1733929397163.jpg--.jpg?1733929399871 "NI Pharmacy Regulator commences centenary celebrations with visit to Derry")](https://www.derrynow.com/news/local-news/1678305/ni-pharmacy-regulator-commences-centenary-celebrations-with-visit-to-derry.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[NI Pharmacy Regulator commences centenary celebrations with visit to Derry](https://www.derrynow.com/news/local-news/1678305/ni-pharmacy-regulator-commences-centenary-celebrations-with-visit-to-derry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Anyone speeding in excess of 100mph will face an immediate disqualification - Derry judge](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Anyone speeding in excess of 100mph will face an immediate disqualification - Derry judge")](https://www.derrynow.com/news/local-news/1678191/anyone-speeding-in-excess-of-100mph-will-face-an-immediate-disqualification-derry-judge.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Anyone speeding in excess of 100mph will face an immediate disqualification - Derry judge](https://www.derrynow.com/news/local-news/1678191/anyone-speeding-in-excess-of-100mph-will-face-an-immediate-disqualification-derry-judge.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Apprentice Boys to burn Lundy in Derry city centre tonight](https://www.derrynow.com/resizer/165/93/true/2024_12_11/lundy-1733930939839.jpg--.jpg?1733930939913 "Apprentice Boys to burn Lundy in Derry city centre tonight")](https://www.derrynow.com/news/local-news/1678352/apprentice-boys-to-burn-lundy-in-derry-city-centre-tonight.html)
+
+The annual burning of the effigy was postponed due to high winds because of Storm Darragh on Saturday
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Apprentice Boys to burn Lundy in Derry city centre tonight](https://www.derrynow.com/news/local-news/1678352/apprentice-boys-to-burn-lundy-in-derry-city-centre-tonight.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
