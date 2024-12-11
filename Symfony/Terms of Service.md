@@ -1,4 +1,4 @@
-[![Symfony SAS](/assets/images/symfony_logo-b954b53c48fcbff5c0cb7e3881c9b2ce.png)](https://connect.symfony.com/)
+[![Symfony SAS](/assets/images/symfony_logo-uVS1PEj.png)](https://connect.symfony.com/)
 
 SymfonyConnect Terms Of Service
 ===============================
@@ -248,7 +248,7 @@ If any provision of the TOS is adjudged by a court to be void or unenforceable, 
 
 THE TOS AND USERS RELATIONSHIP WITH SYMFONY ARE GOVERNED BY FRENCH LAW. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, FRENCH COURTS SHALL HAVE JURISDICTION OVER ANY DISPUTE ARISING OUT OF OR CONNECTED WITH THE USE OF THE SERVICES OR THE SITE.
 
-[![SymfonyConnect](/assets/images/logo-footer-128d8c45885f6cd1b3b5ff3f132f5fb0.svg)](https://connect.symfony.com/)
+[![SymfonyConnect](/assets/images/logo-footer-Eo2MRYh.svg)](https://connect.symfony.com/)
 
 © 2011-2024 Symfony - [FAQ](https://connect.symfony.com/faq) - [About](https://connect.symfony.com/about) - [Contact us](https://symfony.com/support?product=SLC#products) - [API](https://connect.symfony.com/about/api) - [Privacy Policy](https://connect.symfony.com/privacy-policy) - [Terms Of Service](https://connect.symfony.com/tos)
 
