@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=3620285881523526&ev=PageView&noscript=1)                  Privacy Policy | Clevertype                     
+![](https://www.facebook.com/tr?id=3620285881523526&ev=PageView&noscript=1)                    Privacy Policy | Clevertype                     
 
 top of page
 
