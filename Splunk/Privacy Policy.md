@@ -239,63 +239,37 @@ false
     
     GET STARTED
     
-    * [Splunk Lantern
+    * [Splunk Lantern](https://lantern.splunk.com/)
         
-        Splunk experts provide clear and actionable guidance.](https://lantern.splunk.com/)
+    * [Customer Success](https://www.splunk.com/en_us/customer-success.html)
         
-    * [Customer Success
+    * [Splunk Cloud Platform Migration](https://www.splunk.com/en_us/customer-success/splunk-cloud-platform-migration.html)
         
-        Customer success starts with data success.](https://www.splunk.com/en_us/customer-success.html)
-        
-    * [Splunk Cloud Platform Migration
-        
-        Plan your migration with helpful Splunk resources.](https://www.splunk.com/en_us/customer-success/splunk-cloud-platform-migration.html)
-        
-    * [Get Started With Splunk
-        
-        Learn how to use Splunk.](https://www.splunk.com/en_us/get-started.html)
+    * [Get Started With Splunk](https://www.splunk.com/en_us/get-started.html)
         
     
     become an expert
     
-    * [Splunk Training & Certification
+    * [Splunk Training & Certification](https://www.splunk.com/en_us/training.html)
         
-        Become a certified Splunk Expert.](https://www.splunk.com/en_us/training.html)
+    * [Documentation](https://docs.splunk.com/Documentation)
         
-    * [Documentation
+    * [User Groups](https://usergroups.splunk.com/)
         
-        Find answers about how to use Splunk.](https://docs.splunk.com/Documentation)
+    * [Community](https://community.splunk.com/)
         
-    * [User Groups
-        
-        Meet Splunk enthusiasts in your area.](https://usergroups.splunk.com/)
-        
-    * [Community
-        
-        Share knowledge and inspiration.](https://community.splunk.com/)
-        
-    * [SURGe
-        
-        Access timely security research and guidance.](https://www.splunk.com/en_us/surge.html)
+    * [SURGe](https://www.splunk.com/en_us/surge.html)
         
     
     Expand & optimize
     
-    * [Customer Support
+    * [Customer Support](https://www.splunk.com/en_us/customer-success/support-programs.html)
         
-        It’s easy to get the help you need.](https://www.splunk.com/en_us/customer-success/support-programs.html)
+    * [Splunkbase](https://splunkbase.splunk.com/)
         
-    * [Splunkbase
+    * [Splunk Dev](https://dev.splunk.com/)
         
-        See Splunk’s 1,000+ Apps and Add-ons.](https://splunkbase.splunk.com/)
-        
-    * [Splunk Dev
-        
-        Create your own Splunk Apps.](https://dev.splunk.com/)
-        
-    * [Splunk Services
-        
-        Maximize your Splunk investment.](https://www.splunk.com/en_us/customer-success.html)
+    * [Splunk Services](https://www.splunk.com/en_us/customer-success.html)
         
     
 * [Company](#)
@@ -308,7 +282,7 @@ false
     
     * [About Splunk](https://www.splunk.com/en_us/about-splunk.html)
         
-    * [.conf24](https://conf.splunk.com/)
+    * [.conf25](https://conf.splunk.com/)
         
     * [Global Impact](https://www.splunk.com/en_us/global-impact.html)
         
@@ -601,61 +575,35 @@ See what Splunk is doing.](https://www.splunk.com/en_us/blog)
 
 GET STARTED
 
-[Splunk Lantern
+[Splunk Lantern](https://lantern.splunk.com/)
 
-Splunk experts provide clear and actionable guidance.](https://lantern.splunk.com/)
+[Customer Success](https://www.splunk.com/en_us/customer-success.html)
 
-[Customer Success
+[Splunk Cloud Platform Migration](https://www.splunk.com/en_us/customer-success/splunk-cloud-platform-migration.html)
 
-Customer success starts with data success.](https://www.splunk.com/en_us/customer-success.html)
-
-[Splunk Cloud Platform Migration
-
-Plan your migration with helpful Splunk resources.](https://www.splunk.com/en_us/customer-success/splunk-cloud-platform-migration.html)
-
-[Get Started With Splunk
-
-Learn how to use Splunk.](https://www.splunk.com/en_us/get-started.html)
+[Get Started With Splunk](https://www.splunk.com/en_us/get-started.html)
 
 become an expert
 
-[Splunk Training & Certification
+[Splunk Training & Certification](https://www.splunk.com/en_us/training.html)
 
-Become a certified Splunk Expert.](https://www.splunk.com/en_us/training.html)
+[Documentation](https://docs.splunk.com/Documentation)
 
-[Documentation
+[User Groups](https://usergroups.splunk.com/)
 
-Find answers about how to use Splunk.](https://docs.splunk.com/Documentation)
+[Community](https://community.splunk.com/)
 
-[User Groups
-
-Meet Splunk enthusiasts in your area.](https://usergroups.splunk.com/)
-
-[Community
-
-Share knowledge and inspiration.](https://community.splunk.com/)
-
-[SURGe
-
-Access timely security research and guidance.](https://www.splunk.com/en_us/surge.html)
+[SURGe](https://www.splunk.com/en_us/surge.html)
 
 Expand & optimize
 
-[Customer Support
+[Customer Support](https://www.splunk.com/en_us/customer-success/support-programs.html)
 
-It’s easy to get the help you need.](https://www.splunk.com/en_us/customer-success/support-programs.html)
+[Splunkbase](https://splunkbase.splunk.com/)
 
-[Splunkbase
+[Splunk Dev](https://dev.splunk.com/)
 
-See Splunk’s 1,000+ Apps and Add-ons.](https://splunkbase.splunk.com/)
-
-[Splunk Dev
-
-Create your own Splunk Apps.](https://dev.splunk.com/)
-
-[Splunk Services
-
-Maximize your Splunk investment.](https://www.splunk.com/en_us/customer-success.html)
+[Splunk Services](https://www.splunk.com/en_us/customer-success.html)
 
 [About Splunk
 
@@ -665,7 +613,7 @@ Overview
 
 [About Splunk](https://www.splunk.com/en_us/about-splunk.html)
 
-[.conf24](https://conf.splunk.com/)
+[.conf25](https://conf.splunk.com/)
 
 [Global Impact](https://www.splunk.com/en_us/global-impact.html)
 
