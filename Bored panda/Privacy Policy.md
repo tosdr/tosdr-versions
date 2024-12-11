@@ -178,7 +178,7 @@ RESOURCES
 
 [Top Users](https://www.boredpanda.com/users-top) [Contact](https://www.boredpanda.com/contact) [About us](https://www.boredpanda.com/about-us) [Jobs](https://www.boredpanda.com/jobs)
 
-[Top Users](https://www.boredpanda.com/users-top) [Contact](https://www.boredpanda.com/contact) [About us](https://www.boredpanda.com/about-us) [Jobs](https://www.boredpanda.com/jobs) [Advertise](https://www.boredpanda.com/advertise/) [Cookies](javascript:void(0)) [Sitemap](https://www.boredpanda.com/sitemap-page)
+[Advertise](https://www.boredpanda.com/advertise/) [Cookies](javascript:void(0)) [Sitemap](https://www.boredpanda.com/sitemap-page) [Privacy Policy](https://www.boredpanda.com/privacy-policy)
 
 GET THE APP
 
@@ -276,17 +276,16 @@ SUBSCRIBE
 
 RESOURCES
 
-[Top Users](https://www.boredpanda.com/users-top) [Contact](https://www.boredpanda.com/contact) [About us](https://www.boredpanda.com/about-us) [Jobs](https://www.boredpanda.com/jobs) [Advertise](https://www.boredpanda.com/advertise/) [Cookies](javascript:void(0)) [Sitemap](https://www.boredpanda.com/sitemap-page)
+[Top Users](https://www.boredpanda.com/users-top) [Contact](https://www.boredpanda.com/contact) [About us](https://www.boredpanda.com/about-us) [Jobs](https://www.boredpanda.com/jobs) [Advertise](https://www.boredpanda.com/advertise/) [Cookies](javascript:void(0)) [Sitemap](https://www.boredpanda.com/sitemap-page) [Privacy Policy](https://www.boredpanda.com/privacy-policy)
 
 GET THE APP
 
  [![Get IOS App](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/get-ios-app@2x.png)](https://itunes.apple.com/app/apple-store/id1001593357?pt=117833574&ct=Website%20Sidebar%20Top&mt=8)[![Get Android App](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/get-android-app@2x.png)](https://play.google.com/store/apps/details?id=com.boredpanda.android&referrer=utm_source%3Dwebsite%26utm_medium%3Dsidebar-top)© 2024 Bored Panda
 
-* [Featured](https://www.boredpanda.com/)
+* [Home](https://www.boredpanda.com/)
+* [TOP](https://www.boredpanda.com/top)
 * [Trending](https://www.boredpanda.com/?show=trending)
 * [Latest](https://www.boredpanda.com/?show=recent)
-* [Newsletter](https://www.boredpanda.com/bored-panda-newsletter/)
-*  [![](https://assets.boredpanda.com/blog/wp-content/themes/boredpanda/images/icons/ic_games_link.svg)](https://www.boredpanda.com/games/)[Games](https://www.boredpanda.com/games/)
 * [Premium](https://www.boredpanda.com/premium/?utm_source=boredpanda&utm_medium=subnav&utm_campaign=premium-subnav)
 
 [**The Bored Panda iOS app is live!**](https://itunes.apple.com/app/apple-store/id1001593357?pt=117833574&ct=Website%20Top%20Message&mt=8) Fight boredom with iPhones and iPads [**here**](https://itunes.apple.com/app/apple-store/id1001593357?pt=117833574&ct=Website%20Top%20Message&mt=8).[](javascript:void(0);)
