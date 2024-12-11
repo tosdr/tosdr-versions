@@ -90,11 +90,11 @@ Most Read
     
 2. 2. [Efficiency, power, luxury: The 2025 Lucid Gravity SUV nails all three](https://arstechnica.com/features/2024/12/the-2025-lucid-gravity-impresses-us-with-slick-handling-magic-ride/)
     
-3. 3. [AMD’s trusted execution environment blown wide open by new BadRAM attack](https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/)
+3. 3. [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
     
-4. 4. [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
+4. 4. [AMD’s trusted execution environment blown wide open by new BadRAM attack](https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/)
     
-5. 5. [The iPhone accessories that let me ditch my laptop while traveling](https://arstechnica.com/gadgets/2024/12/best-iphone-travel-accessories/)
+5. 5. [Amazon starts selling Hyundai cars, more brands next year](https://arstechnica.com/cars/2024/12/amazon-gets-into-the-car-sales-game-starting-with-hyundai/)
     
 
 Customize
