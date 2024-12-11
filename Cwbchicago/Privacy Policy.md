@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Manuel-Gomez-326x245.jpg)](https://cwbchicago.com/2024/12/man-robbed-4-people-at-gunpoint-within-90-minutes-while-on-felony-pretrial-release-prosecutors-claim.html "Man robbed 4 people at gunpoint within 90 minutes (while on felony pretrial release), prosecutors claim")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/carjack-dec-7-326x245.jpg)](https://cwbchicago.com/2024/12/armed-carjacker-strikes-twice-gets-arrested-after-returning-to-the-crime-scene.html "Armed carjacker strikes twice, gets arrested after returning to the crime scene")
 
-Avondale
+Goose Island
 
-### [Man robbed 4 people at gunpoint within 90 minutes (while on felony pretrial release), prosecutors claim](https://cwbchicago.com/2024/12/man-robbed-4-people-at-gunpoint-within-90-minutes-while-on-felony-pretrial-release-prosecutors-claim.html "Man robbed 4 people at gunpoint within 90 minutes (while on felony pretrial release), prosecutors claim")
+### [Armed carjacker strikes twice, gets arrested after returning to the crime scene](https://cwbchicago.com/2024/12/armed-carjacker-strikes-twice-gets-arrested-after-returning-to-the-crime-scene.html "Armed carjacker strikes twice, gets arrested after returning to the crime scene")
 
-[December 7, 2024 7:50 PM](https://cwbchicago.com/2024/12)
+[December 8, 2024 5:54 PM](https://cwbchicago.com/2024/12)
 
-A man on pretrial release for a stolen vehicle case will be spending more of his time behind bars now that prosecutors are accusing him of robbing four people at gunpoint within 90 minutes.[](https://cwbchicago.com/2024/12/man-robbed-4-people-at-gunpoint-within-90-minutes-while-on-felony-pretrial-release-prosecutors-claim.html "Man robbed 4 people at gunpoint within 90 minutes (while on felony pretrial release), prosecutors claim")
+Police arrested a suspect after two armed carjackings were reported Saturday afternoon, one in Old Town and the other outside the migrant shelter across from the Salt Shed. Authorities have not yet announced any charges.[](https://cwbchicago.com/2024/12/armed-carjacker-strikes-twice-gets-arrested-after-returning-to-the-crime-scene.html "Armed carjacker strikes twice, gets arrested after returning to the crime scene")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/1500-block-west-garfield-326x245.jpg)](https://cwbchicago.com/2024/12/armed-robber-killed-when-victim-fights-for-control-of-his-gun.html "Armed robber killed when victim fights for control of his gun, Chicago police say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/7700-n-marshfield-chicago-326x245.jpg)](https://cwbchicago.com/2024/12/home-invader-shoots-critically-injures-woman-in-rogers-park.html "Home invader shoots, critically injures woman in Rogers Park")
 
-West Englewood
+Rogers Park
 
-### [Armed robber killed when victim fights for control of his gun, Chicago police say](https://cwbchicago.com/2024/12/armed-robber-killed-when-victim-fights-for-control-of-his-gun.html "Armed robber killed when victim fights for control of his gun, Chicago police say")
+### [Home invader shoots, critically injures woman in Rogers Park](https://cwbchicago.com/2024/12/home-invader-shoots-critically-injures-woman-in-rogers-park.html "Home invader shoots, critically injures woman in Rogers Park")
 
-[December 7, 2024 6:59 PM](https://cwbchicago.com/2024/12)
+[December 8, 2024 11:41 AM](https://cwbchicago.com/2024/12)
 
-An armed robber is dead, apparently shot by his own firearm as the would-be victim tried to gain control of the weapon on Saturday afternoon, Chicago police said.[](https://cwbchicago.com/2024/12/armed-robber-killed-when-victim-fights-for-control-of-his-gun.html "Armed robber killed when victim fights for control of his gun, Chicago police say")
+A woman was shot and critically injured by a home invader in Rogers Park on Sunday morning, Chicago police said.[](https://cwbchicago.com/2024/12/home-invader-shoots-critically-injures-woman-in-rogers-park.html "Home invader shoots, critically injures woman in Rogers Park")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Ricardo-Rodriguez-326x245.jpg)](https://cwbchicago.com/2024/12/man-gets-12-years-for-committing-armed-home-invasion-months-after-having-1997-murder-conviction-vacated.html "Man gets 12 years for committing armed home invasion months after having 1997 murder conviction vacated")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Forrest-Wagner-326x245.jpg)](https://cwbchicago.com/2024/12/man-carjacked-vehicle-in-the-loop-crashed-it-on-kennedy-expressway-prosecutors-say.html "Man carjacked vehicle in the Loop, crashed it on Kennedy Expressway, prosecutors say")
 
-Belmont Cragin
+South Loop
 
-### [Man gets 12 years for committing armed home invasion months after having 1997 murder conviction vacated](https://cwbchicago.com/2024/12/man-gets-12-years-for-committing-armed-home-invasion-months-after-having-1997-murder-conviction-vacated.html "Man gets 12 years for committing armed home invasion months after having 1997 murder conviction vacated")
+### [Man carjacked vehicle in the Loop, crashed it on Kennedy Expressway, prosecutors say](https://cwbchicago.com/2024/12/man-carjacked-vehicle-in-the-loop-crashed-it-on-kennedy-expressway-prosecutors-say.html "Man carjacked vehicle in the Loop, crashed it on Kennedy Expressway, prosecutors say")
 
-[December 7, 2024 11:16 AM](https://cwbchicago.com/2024/12)
+[December 8, 2024 8:14 AM](https://cwbchicago.com/2024/12)
 
-A man has been handed a 12-year sentence for posing as a cop to commit an armed home invasion just months after being exonerated of a murder conviction for which he received a 60-year sentence in 1997.[](https://cwbchicago.com/2024/12/man-gets-12-years-for-committing-armed-home-invasion-months-after-having-1997-murder-conviction-vacated.html "Man gets 12 years for committing armed home invasion months after having 1997 murder conviction vacated")
+A Galena man is charged with carjacking a vehicle in the Loop and then crashing it on the Kennedy Expressway this week.[](https://cwbchicago.com/2024/12/man-carjacked-vehicle-in-the-loop-crashed-it-on-kennedy-expressway-prosecutors-say.html "Man carjacked vehicle in the Loop, crashed it on Kennedy Expressway, prosecutors say")
 
 Search
 
