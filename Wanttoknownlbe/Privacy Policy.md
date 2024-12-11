@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/open-brief-aan-koning-willem-alexander/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/deel-1-hoe-je-het-grootste-geheim-uit-de-moderne-geschiedenis-bewaart/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
