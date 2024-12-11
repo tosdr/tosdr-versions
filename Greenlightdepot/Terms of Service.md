@@ -494,7 +494,7 @@ Questions about the Terms of Service should be sent to us at sales@greenlightdep
 Newsletter
 ----------
 
-A short sentence describing what someone will receive by subscribing
+Subscribe to our newsletter and be the first to know about our latest products, special offers, and expert tips.
 
  Your email
 
