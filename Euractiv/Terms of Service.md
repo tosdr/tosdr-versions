@@ -613,25 +613,25 @@ Most recent
 
 [11-12-2024
 
+Europe can have its own Silicon Valley, with digital SMEs at its heart](https://www.euractiv.com/section/digital/news/europe-can-have-its-own-silicon-valley-with-digital-smes-at-its-heart/)[11-12-2024
+
+EPP: Commission should present proposal on relieving car industry from fines ‘ASAP’](https://www.euractiv.com/section/economy-jobs/news/epp-commission-should-present-proposal-on-relieving-car-industry-from-fines-asap/)[11-12-2024
+
+Trade deal could give Mercosur a leg up on EU anti-deforestation law](https://www.euractiv.com/section/agriculture-food/news/trade-deal-could-give-mercosur-a-leg-up-on-eu-anti-deforestation-law/)[11-12-2024
+
+Companies from 20 countries welcomed in NATO innovation accelerator](https://www.euractiv.com/section/global-europe/news/companies-from-20-countries-welcomed-in-nato-innovation-accelerator/)[11-12-2024
+
+Macron in Warsaw to pitch Ukraine peacekeeping mission after war ends](https://www.euractiv.com/section/global-europe/news/macron-in-warsaw-to-pitch-ukraine-peacekeeping-mission-after-war-ends/)[11-12-2024
+
+EU countries find compromise on fishing reduction in western Mediterranean](https://www.euractiv.com/section/agriculture-food/news/eu-countries-find-compromise-on-fishing-reduction-in-western-mediterranean/)[11-12-2024
+
+Scholz submits request to hold confidence vote, paves way for February elections](https://www.euractiv.com/section/politics/news/scholz-submits-request-to-hold-confidence-vote-paves-way-for-february-elections/)[11-12-2024
+
+Ukraine-Russia war raised in Putin-Orbán call](https://www.euractiv.com/section/politics/news/ukraine-russia-war-raised-in-putin-orban-call-kremlin-says/)[11-12-2024
+
 Brussels allows member states to limit access to asylum](https://www.euractiv.com/section/politics/news/brussels-allows-member-states-to-limit-access-to-asylum/) [11-12-2024
 
-Parliament negotiators caution against reforms conditionality for EU budget](https://www.euractiv.com/section/economy-jobs/news/parliament-negotiators-caution-against-reforms-conditionality-for-eu-budget/)[11-12-2024
-
-Poland Council presidency to focus on ‘relatively low-hanging fruits’ to deepen capital markets](https://www.euractiv.com/section/economy-jobs/news/poland-council-presidency-to-focus-on-relatively-low-hanging-fruits-to-deepen-capital-markets/)[11-12-2024
-
-Killing of UnitedHealthcare executive ignites US patient anger over health insurance](https://www.euractiv.com/section/health-consumers/news/killing-of-unitedhealthcare-executive-ignites-us-patient-anger-over-health-insurance/)[11-12-2024
-
-Balkan journalists battle deluge of SLAPP lawsuits](https://www.euractiv.com/section/global-europe/news/balkan-journalists-battle-deluge-of-slapp-lawsuits/)[11-12-2024
-
-MEPs to vote in plenary on creating full health committee](https://www.euractiv.com/section/health-consumers/news/meps-to-vote-in-plenary-on-creating-full-health-committee/)[11-12-2024
-
-Middle East conflicts stir safety fears for Europe’s airline pilots](https://www.euractiv.com/section/eet/news/middle-east-conflicts-stir-safety-fears-for-europes-airline-pilots/)[11-12-2024
-
-Israel says its air strikes destroyed most of Syria’s strategic weapons stockpiles](https://www.euractiv.com/section/global-europe/news/israel-says-its-air-strikes-destroyed-most-of-syrias-strategic-weapons-stockpiles/)[11-12-2024
-
-Puigdemont joins forces with Spanish right as he enters political ‘cold war’ with Sánchez](https://www.euractiv.com/section/politics/news/the-capitals-puigdemont-joins-forces-with-spanish-right-as-he-enters-political-cold-war-with-sanchez/)[11-12-2024
-
-Romania’s pro-European parties begin coalition talks amid tense national mood](https://www.euractiv.com/section/politics/news/romanias-pro-european-parties-begin-coalition-talks-amid-tense-national-mood/)
+Parliament negotiators caution against reforms conditionality for EU budget](https://www.euractiv.com/section/economy-jobs/news/parliament-negotiators-caution-against-reforms-conditionality-for-eu-budget/)
 
 ###### Advertisement
 
