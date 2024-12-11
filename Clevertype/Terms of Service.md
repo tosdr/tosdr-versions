@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=3620285881523526&ev=PageView&noscript=1)                  Terms and Conditions | Clevertype                     
+![](https://www.facebook.com/tr?id=3620285881523526&ev=PageView&noscript=1)                    Terms and Conditions | Clevertype                     
 
 top of page
 
