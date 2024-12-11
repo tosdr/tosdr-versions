@@ -146,7 +146,7 @@ If you have any questions or concerns about this Agreement, please contact us at
 
 _Last updated: November 14, 2024_
 
-_“Dave has a unique ability to create a safe, non-judgmental space where I felt comfortable sharing my deepest fears and vulnerabilities. His guidance and support have been invaluable in helping me navigate a difficult period in my life. I’m grateful for his expertise and compassion.”_
+_“Before, it felt like torture to be in my own skin. I beat myself up for everything and guilt ruled my whole life. When I started therapy, I couldn’t cope with life at all. After working with Dave, I’m not beating myself up compulsively and I feel hopeful about the future for the first time in a long time.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
