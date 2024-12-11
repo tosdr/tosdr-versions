@@ -408,9 +408,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ We are what we celebrate”
+“ What I cannot create, I do not understand”
 
-[Dean Kamen](http://en.wikipedia.org/wiki/Dean_Kamen)
+[Richard Feynman](https://www.quora.com/What-did-Richard-Feynman-mean-when-he-said-What-I-cannot-create-I-do-not-understand)
 
 [](https://www.adafruit.com/about)
 
