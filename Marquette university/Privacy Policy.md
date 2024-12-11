@@ -134,13 +134,13 @@ Key Resources
 
 * [español](https://www.marquette.edu/es/)
 * [Careers](https://employment.marquette.edu/)
-* [Campus map](https://www.marquette.edu/visit/map.php)
+* [Campus map](https://www.marquette.edu/visit/#map)
 * [Campus contacts](https://www.marquette.edu/tools/campus-contacts.php)
 * [Contact us](https://www.marquette.edu/tools/contact-us.php)
 * [Search marquette.edu](https://www.marquette.edu/search/)
 
 * [Marquette Today](https://today.marquette.edu/)
-* [eMarq](https://portal.office.com/)
+* [Marquette Email](https://outlook.office.com/)
 * [CheckMarq](https://checkmarq.mu.edu/)
 * [D2L](https://d2l.mu.edu/)
 * [MyJob](https://myjob.mu.edu/)
