@@ -146,7 +146,7 @@ If you have any questions or concerns about this Agreement, please contact us at
 
 _Last updated: November 14, 2024_
 
-_“I can’t say enough good things about working with Dave Lechnyr. The progress I’m finally making – after years of trying – is improving my life in ways that I was beginning to think was never going to happen. I finally got to the point that I was ready and willing to put the hard work in. Dave has a seamless way of guiding and directing you to help you discover the road to better mental health on your own. An efficient, effective road to self-discovery. But, I learned you have to put the work in. The work you do is the engine propelling you forward. Dave is the Captain guiding you to safety. Put the work in, and Dave will meet you there step for step. He is extremely knowledgeable, professional, encouraging, and compassionate. I have and would HIGHLY recommend Dave.”_
+_“To be honest, I was scared that couples therapy would just give us another place to fight and make things worse between us. But I was completely wrong. Instead, my wife and I learned how to really talk and listen to each other. We started working together as a team instead of always butting heads. Therapy didn't just help us fix our problems - it actually made our relationship stronger and showed us how to be better partners for each other. I'm really glad we gave it a chance because it's made a big difference in our marriage and our happiness together.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
