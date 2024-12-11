@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-[Choose country ![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dwe8cd928b/images/flags/us.png "United States") US United States (en)](https://www.weber.com/international "United States")
+[Choose country ![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dwffcfe45b/images/flags/us.png "United States") US United States (en)](https://www.weber.com/international "United States")
 
 * [RECIPES](https://www.weber.com/US/en/recipes/weber-31811.html)
 * [DISCOVER WEBER](https://www.weber.com/US/en/aboutus.html)
@@ -370,12 +370,14 @@ Replacement Parts
 * [Register a Grill](https://weber.registria.com/ "Register Grill")
 * [Find a Store](https://www.weber.com/US/en/storefinder/ "Store finder")
 
-* [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dwe8cd928b/images/flags/us.png "United States")
+* [![](https://www.weber.com/on/demandware.static/Sites-US-Site/-/default/dwffcfe45b/images/flags/us.png "United States")
     
     United States (en)](https://www.weber.com/international "United States")
     
 
-Enter Keyword or Item No.  Search Clear
+Enter Keyword or Item No. 
+
+Search Clear
 
 Search
 
@@ -383,7 +385,9 @@ Search
 
 [](#)
 
-Enter Keyword or Item No.  Search Clear
+Enter Keyword or Item No. 
+
+Search Clear
 
 Holiday Shipping Cut Off. [Learn More.](https://www.weber.com/US/en/shippingandreturns.html)
 
@@ -740,7 +744,7 @@ Sign up to receive new product news, exclusive offers, grilling tips & recipes, 
 
  Email Address
 
-Sign up
+ Sign up
 
    
 
