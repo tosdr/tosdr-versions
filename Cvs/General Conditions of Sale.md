@@ -166,6 +166,16 @@ Get the CVS app for convenient ways to refill prescriptions, save money, and mor
 
 [Back to top](javascript:void(0);)
 
+* [Terms of use](https://www.cvs.com/retail/help/terms_of_use)
+* [Accessibility](https://www.cvshealth.com/accessibility.html)
+* [In-Store WiFi Terms (PDF)](https://www.cvs.com/bizcontent/general/policy/pdf/instore_wifi_terms.pdf)
+* [Security](https://www.cvs.com/retail/help/security)
+* [Sitemap](https://www.cvs.com/retail/help/sitemap)
+* [Privacy policy](https://www.cvs.com/retail/help/privacy_policy)
+* [WA privacy policy](https://www.cvs.com/retail/help/WA_consumer_health_privacy_policy)
+* [CA privacy notice](https://www.cvs.com/retail/help/ca_notice_collection)
+* [Your Privacy Choices](https://www.cvs.com/account/compliance/do-not-sell)
+
 © Copyright 1999-2024 CVS.com
 
 [![NABP Accredited Digital Pharmacy](//images.ctfassets.net/nu3qzhcv2o1c/4n8AUMRnPUdVchKrsQDSCf/9a570c53b37a93c8fbd495b4803cc8c4/NABP.svg)](https://app.us.openbadges.me/view/#!/badge?badgeid=cbdbcd44-da1a-49c2-b50f-9aeff4a1e076)
