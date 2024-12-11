@@ -1,3 +1,5 @@
+[HOLIDAY OFFER: Get the gift of up to $70 of Bitcoin. While supplies last!](https://shop.ledger.com/pages/gift-of-bitcoin)[Shop now](https://shop.ledger.com/pages/gift-of-bitcoin)
+
 [![Ledger](/ledger-logo-short-black.svg)![Ledger](/ledger-logo-long-black.svg)](https://www.ledger.com/)
 
 * Products
@@ -506,7 +508,7 @@ Get started
 
 See also
 
-[Support](https://support.ledger.com/hc/en-us)[Bounty Program](https://www.ledger.com/bounty-program/)[Resellers](https://www.ledger.com/reseller)[Ledger Press Kit](https://www.ledger.com/press)[Affiliates](https://www.ledgerwallet.com/affiliates/)[Status](https://status.ledger.com/)[Developers](https://developers.ledger.com/)[Partners](https://www.ledger.com/partners/)
+[Support](https://support.ledger.com/hc/en-us)[Bounty Program](https://www.ledger.com/bounty-program/)[Resellers](https://www.ledger.com/reseller)[Ledger Press Kit](https://www.ledger.com/press)[Affiliates](https://affiliate.ledger.com/)[Status](https://status.ledger.com/)[Developers](https://developers.ledger.com/)[Partners](https://www.ledger.com/partners/)
 
 Careers
 
@@ -576,7 +578,7 @@ See also
 * [Bounty Program](https://www.ledger.com/bounty-program/)
 * [Resellers](https://www.ledger.com/reseller)
 * [Ledger Press Kit](https://www.ledger.com/press)
-* [Affiliates](https://www.ledgerwallet.com/affiliates/)
+* [Affiliates](https://affiliate.ledger.com/)
 * [Status](https://status.ledger.com/)
 * [Developers](https://developers.ledger.com/)
 * [Partners](https://www.ledger.com/partners/)
