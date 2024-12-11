@@ -181,7 +181,7 @@ Search
     * [Resource Management](https://www.floridadisaster.org/DEMES/resource-management/)
 * [RSS 5 Day Weather Outlook](https://www.floridadisaster.org/rss-morning-sitrep2/)
 * [Special Needs Registry](https://www.floridadisaster.org/snr/)
-* [Privacy](https://www.floridadisaster.org/privacy.htm/)
+* [Privacy](https://www.floridadisaster.org/privacy.htm)
 
 * [Contact Us](https://www.floridadisaster.org/contact-us/)
 * [Alert Florida](https://apps.floridadisaster.org/alertflorida)
@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Tuesday, December 10, 2024**
+**Wednesday, December 11, 2024**
 
-**...Active Weather Pattern Returns, Courtesy of Cold Front...Scattered Showers and Thunderstorms Becoming More Numerous Through the Day Across the Western Florida Panhandle...Rain Chances Spread Eastward Tonight...Isolated Flooding Possible West of US-231...A Few Thunderstorms May Produce Locally Damaging Winds or an Isolated Tornado...Partly to Mostly Cloudy Skies Elsewhere, With Near-Zero Rain Chances...Patchy Fog and Low Clouds Possible Tonight for Coastal Florida Big Bend and Florida Peninsula...Moderate to High Rip Current Risk Conditions Persist for Florida Panhandle and East Coast Beaches...**
+**...Cold Front to Bring Scattered to Numerous Showers and Thunderstorms Statewide...A Few Thunderstorms Could Be Strong to Locally Severe (Marginal Risk - Level 1 of 5)...Rain and Thunderstorm Activity Dissipate from Northwest to Southeast This Evening...Breezy Post-Frontal Conditions Filter Across Florida; Wind Advisories in Effect for Emerald and Forgotten Coast for Wind Gusts Near 40 MPH...Freezing Temperatures Return to North Florida, With Wind Chills Well into the 30s Across the Central Florida Peninsula...Frost Advisories Issued for Suwannee River Valley...Dangerous Beach and Marine Conditions Develop for Statewide Beaches...Elevated Waves and Moderate to High Risk of Rip Currents...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
