@@ -560,9 +560,7 @@ Unit price / Â per](https://www.atari.com/products/wireless-cx78-gamepad-atari)Â
 
 ![400 Mini: 4-Player Bundle](files/400-Mini-70s-square_f3aa03bd-1b1d-4141-bfef-3119249579d3.jpg)
 
-Add to cart
-
-30% OFF
+Sold out
 
 ##### 400 Mini: 4-Player Bundle
 
