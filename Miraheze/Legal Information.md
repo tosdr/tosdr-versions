@@ -27,7 +27,7 @@ Help/Requests/Notices
 * [Steward requests](https://meta.miraheze.org/wiki/Steward_requests)
 * [Meta administrators' noticeboard](https://meta.miraheze.org/wiki/Meta:Administrators%27_noticeboard)
 * [Meta community portal](https://meta.miraheze.org/wiki/Meta:Community_portal)
-* [SRE noticeboard](https://meta.miraheze.org/wiki/Tech:SRE_noticeboard)
+* [Tech noticeboard](https://meta.miraheze.org/wiki/Tech:Noticeboard)
 
 Miraheze
 
