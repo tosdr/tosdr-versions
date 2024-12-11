@@ -24,7 +24,7 @@ Resources
 
 [Pricing](https://www.cookiebot.com/en/pricing/)
 
-[![login.svg](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2023/06/login.svg)Log In](https://www.cookiebot.com/en/cmp-login/)[Start Free](https://admin.cookiebot.com/signup)
+[Contact Sales](https://www.cookiebot.com/en/trial-guide-consultation/)[Start Free](https://admin.cookiebot.com/signup)
 
 Cookiebot Privacy Policy
 ========================
@@ -552,4 +552,4 @@ Follow us
 
 [![Capterra](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
 
-![Capterra](/wp-content/uploads/img/AnVkVKtyGYKAcI3E.svg?t=76bec6b7)](https://www.capterra.com/p/240030/Cookiebot/reviews/)
+![Capterra](/wp-content/uploads/img/AnVkVKtyGYKAcI3E.svg?t=d924835a)](https://www.capterra.com/p/240030/Cookiebot/reviews/)
