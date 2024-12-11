@@ -175,7 +175,11 @@ Pour toute question concernant cette Politique de protection des données, l’U
 
 [Linkedin](https://www.linkedin.com/company/optidigitalsas/?originalSubdomain=pt) [Facebook-f](https://www.facebook.com/optidigitalsas/) [Twitter](https://twitter.com/optidigitalsas) [Instagram](https://www.instagram.com/opti_digital/)
 
-**Solutions d’optimisation des revenus publicitaires** **Conseil en monétisation de site** **Expertise en programmatique**
+**Solutions d’optimisation des revenus publicitaires**
+
+**Conseil en monétisation de site**
+
+**Expertise en programmatique**
 
 2 rue des vignes, 66160 Le Boulou, France
 
