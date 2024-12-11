@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Enjoy unlimited access**
+**Subscribe today**
 
-Only $2.99 a month
+Every print subscription comes with full digital access
 
-[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
@@ -92,21 +92,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Some countries have eliminated malaria, but cases are growing elsewhere](https://www.sciencenews.org/article/malaria-report-card)
+            ### [The benefits of Ozempic and its kin may extend far beyond weight loss](https://www.sciencenews.org/article/benefits-ozempic-weight-loss-glp1)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")8 hours ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")4 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [During an allergic response, some immune cells digest others](https://www.sciencenews.org/article/some-immune-cells-digest-others)
+            ### [U.S. hospitals continue to shut down labor and delivery services](https://www.sciencenews.org/article/birth-labor-delivery-closure-hospital)
             
-            By [Caroline Hemphill](https://www.sciencenews.org/author/caroline-hemphill "Posts by Caroline Hemphill")December 10, 2024
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")6 hours ago
             
-        * [Archaeology](https://www.sciencenews.org/topic/archaeology)
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [The oldest known ritual chamber in the Middle East has been found](https://www.sciencenews.org/article/oldest-ritual-chamber-in-middle-east)
+            ### [Some countries have eliminated malaria, but cases are growing elsewhere](https://www.sciencenews.org/article/malaria-report-card)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")December 9, 2024
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")14 hours ago
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -124,7 +124,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [The screams of thirsty plants may prompt some moths to lay eggs elsewhere](https://www.sciencenews.org/article/thirsty-plant-screams-moths-lay-eggs)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")2 hours ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")8 hours ago
             
         * [Plants](https://www.sciencenews.org/topic/plants)
             
@@ -147,6 +147,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Earth
         ---------------------
         
+        * [Earth](https://www.sciencenews.org/topic/earth)
+            
+            ### [The 2004 tsunami killed hundreds of thousands. Are we better prepared now?](https://www.sciencenews.org/article/2004-tsunami-killed-better-prepared-now)
+            
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")4 hours ago
+            
         * [Artificial Intelligence](https://www.sciencenews.org/topic/artificial-intelligence)
             
             ### [Generative AI is an energy hog. Is the tech worth the environmental cost?](https://www.sciencenews.org/article/generative-ai-energy-environmental-cost)
@@ -158,12 +164,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Climate change made 2024 the hottest year on record. The heat was deadly](https://www.sciencenews.org/article/climate-change-hottest-year-record-2024)
             
             By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")December 5, 2024
-            
-        * [Plants](https://www.sciencenews.org/topic/plants)
-            
-            ### [Meet a scientist tracking cactus poaching in the Atacama Desert](https://www.sciencenews.org/article/cactus-poaching-desert-pablo-guerrero)
-            
-            By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")December 5, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
