@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [NFL Math](https://www.myabandonware.com/game/nfl-math-tuo)
+* [NFL Reading](https://www.myabandonware.com/game/nfl-reading-tun)
+* [Prodigy Racing](https://www.myabandonware.com/game/prodigy-racing-tum)
 * [Siege!!](https://www.myabandonware.com/game/siege-tul)
 * [Streambolt Desero](https://www.myabandonware.com/game/streambolt-desero-tuk)
-* [Streambolt](https://www.myabandonware.com/game/streambolt-tuj)
-* [Military Madness](https://www.myabandonware.com/game/military-madness-f3l)
-* [Yongzhe Paopao Long](https://www.myabandonware.com/game/yongzhe-paopao-long-tsq)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
