@@ -79,4 +79,4 @@ It pays to share™
 
 [](https://www.facebook.com/clickasnap/)[](https://x.com/ClickASnap_)[](https://www.instagram.com/clickasnap)[](https://www.linkedin.com/company/clickasnap/)[](https://www.pinterest.co.uk/clickasnap/)[](https://www.youtube.com/@Clickasnap)[](https://www.tiktok.com/@we_are_clickasnap)
 
-© 2024 ClickASnap. All rights reserved. V2.27.1
+© 2024 ClickASnap. All rights reserved. V2.27.3
