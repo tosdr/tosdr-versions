@@ -310,6 +310,7 @@ Our Funders
 -----------
 
 * [![Co-Funded by the European Union logo](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/funders/Co-fundedbytheEU.png)](https://commission.europa.eu/index_en)
+* [![Deutsche Postcode Lotterie logo](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/funders/Logo-Deutsche-Postcode-Lotterie.png)](https://www.postcode-lotterie.de/projekte)
 * [![Logo  European Media and Information Fund](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/funders/EMIF_Horizontal_logo_Black.png)](https://emifund.eu/)
 * [![Sida – the Swedish International Development Cooperation Agency ](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/funders/funder-logo-sida.jpg)](https://www.sida.se/en)
 * [![ Swedish Postcode Lottery Foundation logo](https://cdn.ttc.io/i/fit/3840/0/sm/0/plain/tacticaltech.org/funders/Swedish-Postkode_logo.png)](https://postkodstiftelsen.se/en/)
