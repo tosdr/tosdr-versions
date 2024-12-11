@@ -84,15 +84,15 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: In a not-so-subtle signal to regulators, Blue Origin says New Glenn is ready](https://cdn.arstechnica.net/wp-content/uploads/2024/12/1733771570623-768x432.jpg)](https://arstechnica.com/space/2024/12/intrigue-swirls-as-blue-origin-races-toward-year-end-deadline-for-new-glenn/)
+1. [![Listing image for first story in Most Read: Startup will brick $800 emotional support robot for kids without refunds](https://cdn.arstechnica.net/wp-content/uploads/2024/12/Moxie-768x432-1733865293.jpg)](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
     
-    1. [In a not-so-subtle signal to regulators, Blue Origin says New Glenn is ready](https://arstechnica.com/space/2024/12/intrigue-swirls-as-blue-origin-races-toward-year-end-deadline-for-new-glenn/)
+    1. [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
     
-2. 2. [Efficiency, power, luxury: The 2025 Lucid Gravity SUV nails all three](https://arstechnica.com/features/2024/12/the-2025-lucid-gravity-impresses-us-with-slick-handling-magic-ride/)
+2. 2. [AI company trolls San Francisco with billboards saying “stop hiring humans”](https://arstechnica.com/information-technology/2024/12/ai-company-trolls-san-francisco-with-billboards-saying-stop-hiring-humans/)
     
-3. 3. [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
+3. 3. [Efficiency, power, luxury: The 2025 Lucid Gravity SUV nails all three](https://arstechnica.com/features/2024/12/the-2025-lucid-gravity-impresses-us-with-slick-handling-magic-ride/)
     
-4. 4. [AMD’s trusted execution environment blown wide open by new BadRAM attack](https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/)
+4. 4. [In a not-so-subtle signal to regulators, Blue Origin says New Glenn is ready](https://arstechnica.com/space/2024/12/intrigue-swirls-as-blue-origin-races-toward-year-end-deadline-for-new-glenn/)
     
 5. 5. [Amazon starts selling Hyundai cars, more brands next year](https://arstechnica.com/cars/2024/12/amazon-gets-into-the-car-sales-game-starting-with-hyundai/)
     
