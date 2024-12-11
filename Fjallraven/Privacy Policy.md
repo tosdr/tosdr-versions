@@ -525,7 +525,6 @@ Asia
         * [Accessibility Statement](https://www.fjallraven.com/us/en-us/legal/accessibility-statement/)
         * [#yesfjallraven Terms & Conditions](https://www.fjallraven.com/us/en-us/legal/yesfjallraven-terms-conditions/)
         * [Gift card](https://www.fjallraven.com/us/en-us/legal/gift-card/)
-        * [Terms and Conditions Fjällräven Polar Discount](https://www.fjallraven.com/us/en-us/legal/terms-and-conditions-polar-discount/)
         
 * * Change Region **English** / **United States** (USD $)
         
@@ -583,7 +582,6 @@ Main Content Starts Here
 * [Accessibility Statement](https://www.fjallraven.com/us/en-us/legal/accessibility-statement/)
 * [#yesfjallraven Terms & Conditions](https://www.fjallraven.com/us/en-us/legal/yesfjallraven-terms-conditions/)
 * [Gift card](https://www.fjallraven.com/us/en-us/legal/gift-card/)
-* [Terms and Conditions Fjällräven Polar Discount](https://www.fjallraven.com/us/en-us/legal/terms-and-conditions-polar-discount/)
 
 FJÄLLRÄVEN RETAIL USA
 
@@ -845,7 +843,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=98be0442-a45e-4403-ba6d-504323d3a1e2)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=fa4408fd-6231-401b-9aca-2cafbf9df716)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
