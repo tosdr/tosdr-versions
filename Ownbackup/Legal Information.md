@@ -128,17 +128,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Customer Stories
+[Report
 
-Own Accelerate: Powering Salesforce Innovation at Huntington National Bank and PSEG](https://www.ownbackup.com/blog/own-accelerate-powering-salesforce-innovation-at-huntington-national-bank-and-pseg)
+Meet the People Shaping the Future of Data: The Data Leaders 25](https://www.ownbackup.com/blog/meet-the-people-shaping-the-future-of-data-the-data-leaders-25)
 
-[Customer Stories
+[Data Analytics
 
-Stanley Black & Decker and ACV Auctions Unlock Salesforce Efficiency with Own Archive](https://www.ownbackup.com/blog/stanley-black-decker-and-acv-auctions-unlock-salesforce-efficiency-with-own-archive)
+CIOs Want To Be Data-Driven. Here’s What’s Holding Them Back.](https://www.ownbackup.com/blog/cios-want-to-be-data-driven-heres-whats-holding-them-back)
 
-[Compliance
+[Own Discover
 
-How to Create a SOX Compliance Checklist](https://www.ownbackup.com/blog/how-to-create-a-sox-compliance-checklist)
+Own Discover: Fuel New Insights With Your Historical SaaS Data](https://www.ownbackup.com/blog/own-discover-fuel-new-insights-with-your-historical-saas-data)
 
 Company
 
@@ -352,17 +352,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Customer Stories
+[Report
 
-Own Accelerate: Powering Salesforce Innovation at Huntington National Bank and PSEG](https://www.ownbackup.com/blog/own-accelerate-powering-salesforce-innovation-at-huntington-national-bank-and-pseg)
+Meet the People Shaping the Future of Data: The Data Leaders 25](https://www.ownbackup.com/blog/meet-the-people-shaping-the-future-of-data-the-data-leaders-25)
 
-[Customer Stories
+[Data Analytics
 
-Stanley Black & Decker and ACV Auctions Unlock Salesforce Efficiency with Own Archive](https://www.ownbackup.com/blog/stanley-black-decker-and-acv-auctions-unlock-salesforce-efficiency-with-own-archive)
+CIOs Want To Be Data-Driven. Here’s What’s Holding Them Back.](https://www.ownbackup.com/blog/cios-want-to-be-data-driven-heres-whats-holding-them-back)
 
-[Compliance
+[Own Discover
 
-How to Create a SOX Compliance Checklist](https://www.ownbackup.com/blog/how-to-create-a-sox-compliance-checklist)
+Own Discover: Fuel New Insights With Your Historical SaaS Data](https://www.ownbackup.com/blog/own-discover-fuel-new-insights-with-your-historical-saas-data)
 
 Company
 
