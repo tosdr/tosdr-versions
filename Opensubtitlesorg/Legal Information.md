@@ -119,7 +119,7 @@
 
 ![](//static.opensubtitles.org/gfx/logo_64x64.gif)[![Subtitles - download movie and TV Series subtitles](//static.opensubtitles.org/gfx/logo.gif)](https://www.opensubtitles.org/en "Subtitles - download movie and TV Series subtitles")
 
-* search in 10006283 subtitles
+* search in 10006569 subtitles
 * [Search](https://www.opensubtitles.org/en/search "subtitles Search")
 * [Upload](https://www.opensubtitles.org/en/upload "subtitles Upload")
 * [Request](https://www.opensubtitles.org/en/request "subtitles Request")
@@ -274,7 +274,7 @@ OpenSubtitles Copyrights 2006-2016 by OpenSubtitles Group Limited. All Rights Re
 
 [![](//static.opensubtitles.org/gfx/css/close.gif)](javascript:void(0))
 
-If you want to be pernament logged-in, check in form **remember me**
+If you forgot your password, click on **forgotten password**
 
 Log-In
 
