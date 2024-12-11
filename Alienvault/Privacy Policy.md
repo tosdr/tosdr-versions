@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### What Is a Brute Force Attack?
+            ##### LevelBlue SOC Analysts See Sharp Rise in Cyber Threats: Stay Vigilant
             
-            [Learn more](https://levelblue.com/blogs/security-essentials/what-is-a-brute-force-attack)
+            [Learn more](https://levelblue.com/blogs/security-essentials/levelblue-soc-analysts-see-sharp-rise-in-cyber-threats-stay-vigilant)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -399,13 +399,13 @@ If you wish to view a current list of all Data Processors, click here: [https://
 
 From the Blog
 
-![LevelBlue](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Dustin Swening and Kenneth Ng](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### LevelBlue
+#### Dustin Swening and Kenneth Ng
 
-Dec 10, 2024
+Dec 11, 2024
 
-### [What Is a Brute Force Attack?](https://levelblue.com/blogs/security-essentials/what-is-a-brute-force-attack)
+### [LevelBlue SOC Analysts See Sharp Rise in Cyber Threats: Stay Vigilant](https://levelblue.com/blogs/security-essentials/levelblue-soc-analysts-see-sharp-rise-in-cyber-threats-stay-vigilant)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
