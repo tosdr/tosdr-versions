@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Authorities seek tips on Luigi Mangione's travels in UnitedHealthcare CEO murder case](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/luigi.jpg?ve=1&tl=1)
+ [![North Texas man accused of exposing himself at theater during children's movie](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/image003.png?ve=1&tl=1)
 
- ![Authorities seek tips on Luigi Mangione's travels in UnitedHealthcare CEO murder case](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/luigi.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/luigi-mangiones-travel-brian-thompson)
+ ![North Texas man accused of exposing himself at theater during children's movie](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/image003.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ellis-co-man-accused-exposing-himself-theater-during-kids-movie)
 
-### [Authorities seek tips on Luigi Mangione's travels in UnitedHealthcare CEO murder case](https://www.fox4news.com/news/luigi-mangiones-travel-brian-thompson)
+### [North Texas man accused of exposing himself at theater during children's movie](https://www.fox4news.com/news/ellis-co-man-accused-exposing-himself-theater-during-kids-movie)
 
- [![FDA red food dye ban: When it could happen, and what to know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-1238593737-copy-scaled.jpg?ve=1&tl=1)
+ [![Fort Worth City Council approves Jay Chapa's hiring as new city manager](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/8ah2-fw-next-city-manager_00.00.01.14.jpg?ve=1&tl=1)
 
- ![FDA red food dye ban: When it could happen, and what to know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-1238593737-copy-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fda-red-food-dye-ban-what-to-know-petition-review)
+ ![Fort Worth City Council approves Jay Chapa's hiring as new city manager](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/8ah2-fw-next-city-manager_00.00.01.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-city-council-vote-hiring-jay-chapa-new-city-manager)
 
-### [FDA red food dye ban: When it could happen, and what to know](https://www.fox4news.com/news/fda-red-food-dye-ban-what-to-know-petition-review)
+### [Fort Worth City Council approves Jay Chapa's hiring as new city manager](https://www.fox4news.com/news/fort-worth-city-council-vote-hiring-jay-chapa-new-city-manager)
 
- [![NTSB: 2022 Dallas air show crash caused by lack of planning](https://images.foxtv.com/m107833-mcdn.mp.lura.live/iupl/5CC/9DD/32/18/5CC9DD0EBE517D16768985DEC4BCC51E.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=rJwvDZJ1YdnZ1jyjlbt4ZVLyp78&ve=1&tl=1)
+ [![Former NFL great Tom Brady selling watches, football items at auction](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2187918254-a.jpg?ve=1&tl=1)
 
- ![NTSB: 2022 Dallas air show crash caused by lack of planning](https://images.foxtv.com/images.foxtv.com/m107833-mcdn.mp.lura.live/iupl/5CC/9DD/32/18/592/333/5CC9DD0EBE517D16768985DEC4BCC51E.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=rJwvDZJ1YdnZ1jyjlbt4ZVLyp78&ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ntsb-2022-dallas-air-show-crash-caused-lack-planning)
+ ![Former NFL great Tom Brady selling watches, football items at auction](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2187918254-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/former-nfl-great-tom-brady-selling-watches-football-items-auction)
 
-### [NTSB: 2022 Dallas air show crash caused by lack of planning](https://www.fox4news.com/news/ntsb-2022-dallas-air-show-crash-caused-lack-planning)
+### [Former NFL great Tom Brady selling watches, football items at auction](https://www.fox4news.com/news/former-nfl-great-tom-brady-selling-watches-football-items-auction)
 
- [![Dak Prescott and fiancée Sarah Jane Ramos expecting second baby girl](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/dak-baby-1.png?ve=1&tl=1)
+ [![Are poinsettias and mistletoe really dangerous?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2186402177.jpg?ve=1&tl=1)
 
- ![Dak Prescott and fiancée Sarah Jane Ramos expecting second baby girl](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/dak-baby-1.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dak-prescott-fiancee-jarah-jane-ramos-second-baby)
+ ![Are poinsettias and mistletoe really dangerous?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2186402177.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/are-holiday-plants-dangerous)
 
-### [Dak Prescott and fiancée Sarah Jane Ramos expecting second baby girl](https://www.fox4news.com/news/dak-prescott-fiancee-jarah-jane-ramos-second-baby)
+### [Are poinsettias and mistletoe really dangerous?](https://www.fox4news.com/news/are-holiday-plants-dangerous)
 
- [![Maryland family of UnitedHealthcare CEO murder suspect 'shocked' by arrest](https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2024/12/32/18/thumbnail_image-4.jpg?ve=1&tl=1)
+ [![City of Dallas considers selling $6.5 million hospital purchase at a loss](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-dallas-housing-committee-_00.00.49.46.jpg?ve=1&tl=1)
 
- ![Maryland family of UnitedHealthcare CEO murder suspect 'shocked' by arrest](https://images.foxtv.com/images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2024/12/32/18/592/333/thumbnail_image-4.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/united-healthcare-ceo-murder-maryland-neighbors-react)
+ ![City of Dallas considers selling $6.5 million hospital purchase at a loss](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-dallas-housing-committee-_00.00.49.46.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/city-dallas-considers-selling-old-hospital-bought-6-5-million-loss)
 
-### [Maryland family of UnitedHealthcare CEO murder suspect 'shocked' by arrest](https://www.fox4news.com/news/united-healthcare-ceo-murder-maryland-neighbors-react)
+### [City of Dallas considers selling $6.5 million hospital purchase at a loss](https://www.fox4news.com/news/city-dallas-considers-selling-old-hospital-bought-6-5-million-loss)
 
 ###### [News](https://www.fox4news.com/news)
 
