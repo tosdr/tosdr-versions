@@ -1,4 +1,4 @@
-✨ New course! Enroll in [Building an AI-Powered Game](https://bit.ly/3CCG1U2)
+✨ New course! Enroll in [Collaborative Writing and Coding with OpenAI Canvas](https://bit.ly/3OrYgy3)
 
 [](https://www.deeplearning.ai/)
 
