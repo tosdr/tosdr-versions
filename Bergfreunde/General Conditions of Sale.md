@@ -2,9 +2,9 @@
 
 ### Neu?
 
-![Bergfreund Max](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-max.png)
+![Bergfreund Hannes](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-hannes.png)
 
-Bergfreund Max
+Bergfreund Hannes
 
 "Herzlich willkommen bei den Bergfreunden!"
 
@@ -837,7 +837,7 @@ Weiterführende Informationen:
 
 Stand März 2024
 
-![Bergfreund Jürgen - Einkäufer](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-juergen.png) Bergfreund Jürgen - Einkäufer
+![Bergfreund Johannes - Einkäufer](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-johannes.png) Bergfreund Johannes - Einkäufer
 
 "Ich finde die besten & neuesten Outdoor-Produkte für Dich!"
 
@@ -847,11 +847,11 @@ Stand März 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 43198 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 43242 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 43.198 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 43.242 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
