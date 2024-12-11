@@ -40,6 +40,10 @@ Cookies Policy
 
 \[Last Modified: November 2, 2023\]
 
+[PreviousVidazoo Privacy Policy](https://vidazoo.gitbook.io/vidazoo-legal/privacy-policy)[NextPrivacy Notice For California Residents](https://vidazoo.gitbook.io/vidazoo-legal/privacy-notice-for-california-residents)
+
+Last updated 2 days ago
+
 This cookies policy ("Policy") of Vidazoo Ltd. which is part of the Perion Network Ltd group ("Vidazoo", "us", "we" or "our") is designed to provide you with important information about our data collection practices using cookies that are involved with your access to or use of the Vidazoo website at: [www.vidazoo.com](https://www.vidazoo.com/) ("Site"), or the services we provide to advertisers and publishers, including any implementation of our services on advertisers and publishers sites ("Platform" and collectively the "Services"). This Policy is further intended to explain to you what cookies are, how and why we use cookies in course of the Services, the types of cookies we use, how third parties we may partner with may use cookies, your choices regarding cookies and further information about cookies.
 
 This Policy constitutes an integral part of our [Privacy Policy](https://vidazoo.gitbook.io/vidazoo-legal/privacy-policy) and our [Terms and Conditions](https://vidazoo.gitbook.io/vidazoo-legal/terms-and-conditions) and unless mentioned otherwise, the same terms that are defined therein, will apply to this Policy.
@@ -68,28 +72,28 @@ Cookies on our Platform - If you are an end-user interacting with our Platform (
 
 |     |     |     |
 | --- | --- | --- |
-| Source | Name | Purpose |
-| Vidazoo (First Party) | vdzwc\_{wid} | Used to access cache server widget data |
-| Vidazoo (First Party) | vidSid | Session ID |
-| Vidazoo (First Party) | vdzwll\_{wid} | Last widget load time |
-| Vidazoo (First Party) | vdzUqh# | Counts the instances of players on the page |
-| Vidazoo (First Party) | artms.cbss | Marks last close click |
-| Vidazoo (First Party) | artms.cutas | Stores the current URL |
-| Vidazoo (First Party) | vidpc | Counts the number of widget loads on the page |
-| Vidazoo (First Party) | vdzVer | Vidazoo player version |
-| Vidazoo (First Party) | vdzh# | Server cache |
-| Vidazoo (First Party) | vdzwf\_{wid} | Stores the widget ID associated with the current session |
-| Vidazoo (First Party) | vdzwcms\_{WIDGET\_ID} | Consistent playlist for user |
-| Vidazoo (First Party) | artms.{widgetId}.cums | Stores current playlist item state |
-| Vidazoo (First Party) | artms.cutcs | Stores url float trigger counter |
-| Vidazoo (First Party) | vdzHum | Stores ivt signal |
-| Vidazoo (First Party) | vdzwocid\_{CREATIVE\_ID} | Stores creative id |
-| Vidazoo (First Party) | vdzj1\_{id} | cookie sync metadata |
-| Vidazoo (First Party) | vdzh5\_{id} | cookie sync partner id |
-| Vidazoo (First Party) | bah383vlj1 | cookie sync metadata |
-| Vidazoo (First Party) | ck48wz12sqj7 | cookie sync partner id |
-| Vidazoo (First Party) | vdz\_sync | exchange specific user id |
-| Vidazoo (First Party) | vdz\_r | cookie sync redirect endpoint |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
 
 Note that third parties (such as advertising networks, content providers that deliver ads on our Services) may also use various cookies to uniquely distinguish your web browser and keep track of information relating to your interaction with the Services, to report usage statistics, and to deliver advertisements on and through the Services.
 
@@ -137,6 +141,134 @@ We may update this Cookie Policy from time to time. We encourage you to periodic
 
 If you have any questions about our use of cookies, please contact us at [dpo@vidazoo.com](mailto:dpo@vidazoo.com).
 
-[PreviousVidazoo Privacy Policy](https://vidazoo.gitbook.io/vidazoo-legal/privacy-policy)[NextPrivacy Notice For California Residents](https://vidazoo.gitbook.io/vidazoo-legal/privacy-notice-for-california-residents)
+Source
 
-Last updated 1 day ago
+Name
+
+Purpose
+
+Vidazoo (First Party)
+
+vdzwc\_{wid}
+
+Used to access cache server widget data
+
+Vidazoo (First Party)
+
+vidSid
+
+Session ID
+
+Vidazoo (First Party)
+
+vdzwll\_{wid}
+
+Last widget load time
+
+Vidazoo (First Party)
+
+vdzUqh#
+
+Counts the instances of players on the page
+
+Vidazoo (First Party)
+
+artms.cbss
+
+Marks last close click
+
+Vidazoo (First Party)
+
+artms.cutas
+
+Stores the current URL
+
+Vidazoo (First Party)
+
+vidpc
+
+Counts the number of widget loads on the page
+
+Vidazoo (First Party)
+
+vdzVer
+
+Vidazoo player version
+
+Vidazoo (First Party)
+
+vdzh#
+
+Server cache
+
+Vidazoo (First Party)
+
+vdzwf\_{wid}
+
+Stores the widget ID associated with the current session
+
+Vidazoo (First Party)
+
+vdzwcms\_{WIDGET\_ID}
+
+Consistent playlist for user
+
+Vidazoo (First Party)
+
+artms.{widgetId}.cums
+
+Stores current playlist item state
+
+Vidazoo (First Party)
+
+artms.cutcs
+
+Stores url float trigger counter
+
+Vidazoo (First Party)
+
+vdzHum
+
+Stores ivt signal
+
+Vidazoo (First Party)
+
+vdzwocid\_{CREATIVE\_ID}
+
+Stores creative id
+
+Vidazoo (First Party)
+
+vdzj1\_{id}
+
+cookie sync metadata
+
+Vidazoo (First Party)
+
+vdzh5\_{id}
+
+cookie sync partner id
+
+Vidazoo (First Party)
+
+bah383vlj1
+
+cookie sync metadata
+
+Vidazoo (First Party)
+
+ck48wz12sqj7
+
+cookie sync partner id
+
+Vidazoo (First Party)
+
+vdz\_sync
+
+exchange specific user id
+
+Vidazoo (First Party)
+
+vdz\_r
+
+cookie sync redirect endpoint
