@@ -695,8 +695,8 @@ Navigation
 
 Seite teilen schließen
 
-* [auf Facebook teilen (Öffnet in einem neuen Tab)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php&t=1733892574)
-* [auf Twitter teilen (Öffnet in einem neuen Tab)](https://twitter.com/share?url=https%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php&t=1733892574)
+* [auf Facebook teilen (Öffnet in einem neuen Tab)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php&t=1733913781)
+* [auf Twitter teilen (Öffnet in einem neuen Tab)](https://twitter.com/share?url=https%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php&t=1733913781)
 * [per E-Mail teilen](mailto:?subject=wuppertal.de%20-%20Seitenempfehlung&body=Hallo%2C%0A%0Aich%20m%C3%B6chte%20die%20folgende%20Seite%20empfehlen%3A%0Ahttps%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php%0A%0ABeste%20Gr%C3%BC%C3%9Fe)
 
 Suche
