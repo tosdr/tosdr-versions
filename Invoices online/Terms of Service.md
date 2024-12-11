@@ -196,63 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Kobus Venter
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=50437739)  
-TurboFibre
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=7afe5165d02b1b24cc3fdf6417a14755126100fb4ba724d50ff1f4cb602db35d&c=18436747)  
+Mtunzini Group
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=91445099)  
-SAUL ATHOL ACRES RENTAL
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=7afe5165d02b1b24cc3fdf6417a14755126100fb4ba724d50ff1f4cb602db35d&c=196417162)  
+Dombieterfontein (PTY) LTD
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=96868389)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=7afe5165d02b1b24cc3fdf6417a14755126100fb4ba724d50ff1f4cb602db35d&c=211676115)  
+Import Maaw
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=27629866)  
-webb it services
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=7afe5165d02b1b24cc3fdf6417a14755126100fb4ba724d50ff1f4cb602db35d&c=36799015)  
+Cooper Power
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=105828881)  
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=7afe5165d02b1b24cc3fdf6417a14755126100fb4ba724d50ff1f4cb602db35d&c=64869553)  
+FJW Security Cc
+
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=7afe5165d02b1b24cc3fdf6417a14755126100fb4ba724d50ff1f4cb602db35d&c=192810435)  
+Norton Medical & Consult - Namibia
+
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=7afe5165d02b1b24cc3fdf6417a14755126100fb4ba724d50ff1f4cb602db35d&c=143954873)  
 Three Moons Emporium
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=96589884)  
-SafeTclip
-
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=186918557)  
-Printo
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=126975387)  
-Myfinance-Online
-
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=11805123)  
-Cooper Power Cape Town (Pty) Ltd
-
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=116292894)  
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=7afe5165d02b1b24cc3fdf6417a14755126100fb4ba724d50ff1f4cb602db35d&c=205338146)  
 Multi CNC Solutions CC
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=129358229)  
-SR Travel Services
-
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=14026248)  
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=7afe5165d02b1b24cc3fdf6417a14755126100fb4ba724d50ff1f4cb602db35d&c=174697112)  
 Karino Merinos ( PTY ) LTD
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=70101100)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=7afe5165d02b1b24cc3fdf6417a14755126100fb4ba724d50ff1f4cb602db35d&c=50178067)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=105540503)  
-Cape Adventure Zone
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=7afe5165d02b1b24cc3fdf6417a14755126100fb4ba724d50ff1f4cb602db35d&c=181599271)  
+Immediate Health (pty)ltd
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=15481420)  
-IYD
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=7afe5165d02b1b24cc3fdf6417a14755126100fb4ba724d50ff1f4cb602db35d&c=22186777)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=7afe5165d02b1b24cc3fdf6417a14755126100fb4ba724d50ff1f4cb602db35d&c=140128982)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
+
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=7afe5165d02b1b24cc3fdf6417a14755126100fb4ba724d50ff1f4cb602db35d&c=18683317)  
+IEMS (PTY) ltd
+
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=7afe5165d02b1b24cc3fdf6417a14755126100fb4ba724d50ff1f4cb602db35d&c=1401611)  
+Peter Salvage Pty Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
