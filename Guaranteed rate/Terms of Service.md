@@ -1,9 +1,9 @@
 Search...
 
 1. Mortgage
-2. [HELOC](https://www.rate.com/redirect?dest=https://www.rate.com/heloc)
-3. [Personal loans](https://www.rate.com/redirect?dest=https://www.rate.com/personal-loans)
-4. [Reverse mortgage](https://www.rate.com/redirect?dest=https://www.rate.com/hecm-reverse-mortgage)
+2. [HELOC](https://www.rate.com/heloc)
+3. [Personal loans](https://www.rate.com/personal-loans)
+4. [Reverse mortgage](https://www.rate.com/hecm-reverse-mortgage)
 5. Insurance
 
 Back to main menu
@@ -17,23 +17,23 @@ ContactEnglish
 [![Rate Home](https://images.contentstack.io/v3/assets/blt4bf507db5c9bc5ae/blte08c31bfeb347f39/65027cfd9bcd1bdc631d027c/5min_rateLogo.svg)](https://www.rate.com/)
 
 * Mortgage
-* [HELOC](https://www.rate.com/redirect?dest=https://www.rate.com/heloc)
-* [Personal loans](https://www.rate.com/redirect?dest=https://www.rate.com/personal-loans)
-* [Reverse mortgage](https://www.rate.com/redirect?dest=https://www.rate.com/hecm-reverse-mortgage)
+* [HELOC](https://www.rate.com/heloc)
+* [Personal loans](https://www.rate.com/personal-loans)
+* [Reverse mortgage](https://www.rate.com/hecm-reverse-mortgage)
 * Insurance
 
 1. [Search](https://www.rate.com/site-search?&referrerPageUrl=https://www.rate.com/)
 2. English
 3. Contact
     
-4. [Log in](https://www.rate.com/redirect?dest=https://login.rate.com/?&icid=header:login)[Log in](https://www.rate.com/redirect?dest=https://login.rate.com/?&icid=header:login)
+4. [Log in](https://login.rate.com/?&icid=header:login)[Log in](https://login.rate.com/?&icid=header:login)
 5. Get started
     
     Get started
 
 [**Purchase or refi**
 
-Find the perfect loan for you.](https://www.rate.com/redirect?dest=https://apply.rate.com&icid=header:apply)
+Find the perfect loan for you.](https://apply.rate.com/?&icid=header:apply)
 
 [**HELOC**
 
