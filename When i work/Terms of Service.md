@@ -417,7 +417,7 @@ NOTE:  The email message feature within the Service, known as “**WorkChat**�
 
 Rules and restrictions regarding use of WorkChat / Message Staff and TeamTxt may be found in the WIW Help Center.
 
-When I Work may add new features and applications to the Service for additional fees and charges, and/or it may add or amend fees and charges for plans, features, and applications, at any time in its sole discretion, including, but not limited to, changing the monthly or annual subscription plan fees for the Service. When I Work shall provide at least thirty (30) days’ notice before any change to our pricing or payment terms. Such notice may be provided at any time by posting the changes to the When I Work website or the Service itself.
+When I Work may add new features and applications to the Service for additional fees and charges, and/or it may add or amend fees and charges for plans, features, and applications, at any time in its sole discretion, including, but not limited to, changing the monthly or annual subscription plan fees for the Service. When I Work shall provide at least thirty (30) days’ notice before any change to our pricing or payment terms. Such notice may be provided at any time by email or by posting the changes to the When I Work website or the Service itself.
 
 ##### 11.2 **Upgrades or Downgrades.**
 
@@ -607,7 +607,7 @@ No waiver of any right or provision of this Agreement shall be deemed a further 
 
 Please contact us at [support@wheniwork.com](mailto:support@wheniwork.com) with any questions regarding these Workplace ToS. The provider of the Service is When I Work, Inc., 420 North 5th St. Suite 500, Minneapolis, MN 55401 USA. We can be reached at +1-651-330-4482. If you are a California resident, in accordance with Cal. Civ. Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at 1625 North Market Blvd., Suite N 112 Sacramento, CA 95834, or by telephone at (800) 952-5210 or (916) 445-1254.
 
-**These Workplace ToS were last modified on April 16, 2024,** _with a minor revision on October 17, 2024 to add WIW’s ability to provide Payroll Services to independent contractors in addition to employees._
+**These Workplace ToS were last modified on April 16, 2024**, _with a minor revision on December 11, 2024 to allow WIW to provide advance notice of changes to pricing or payment terms via email or by  posting the changes on the WIW website or the Service itself._
 
 * * *
 
