@@ -28,10 +28,6 @@
         
         Govern your data and AI while accelerating innovation](https://www.onetrust.com/content/onetrust/us/en/solutions/data-and-ai-governance)
         
-    * [Ethics & Compliance
-        
-        Build a SpeakUp channel and case management system to develop trust with your employees](https://www.onetrust.com/content/onetrust/us/en/solutions/ethics-and-compliance)
-        
     
 * Featured Products
     
