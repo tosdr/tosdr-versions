@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Miles On ItKane Brown Ft Marshmello<br><br>10:40am |
-| LiarJelly Roll<br><br>10:37am |
-| I'Ll Be Home For ChristmasRascal Flatts<br><br>10:34am |
-| Lies, Lies, LiesMorgan Wallen<br><br>10:31am |
-| Fast CarLuke Combs<br><br>10:27am |
+| A Bar Song (Tipsy)Shaboozey<br><br>4:40pm |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>4:37pm |
+| Small Town BoyDustin Lynch<br><br>4:32pm |
+| Dirt CheapCody Johnson<br><br>4:28pm |
+| Wind Up Missing YouTucker Wetmore<br><br>4:25pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Spanish • Western
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
