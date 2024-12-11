@@ -334,7 +334,7 @@ Legal
 * [Cookie Statement](https://www.studocu.com/en-us/cookie-statement)
 
 * [](https://itunes.apple.com/app/studocu/id1460235511?ct=footer&ls=1&mt=8&pt=120058772)
-* [![Google Play Link](https://d20ohkaloyme4g.cloudfront.net/img/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.studocu.app&referrer=utm_source%3Dstudocu&utm_campaign=footer&utm_medium=badge)
+* [![Google Play Link](https://website-assets.studocu.com/img/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.studocu.app&referrer=utm_source%3Dstudocu&utm_campaign=footer&utm_medium=badge)
 
 [View our reviews on Trustpilot](https://www.trustpilot.com/review/studocu.com)
 
