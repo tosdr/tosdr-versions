@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from Exoscale using ...](https://www.backup4all.com/how-to-back-up-data-files-from-exoscale-using-backup4all-kb.html)  
+* [How to enable on Linux the ciphers supported ...](https://www.backup4all.com/how-to-enable-on-linux-the-ciphers-supported-by-backup4all-kb.html)  
     
-* [How to back up data files from Seeweb using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-seeweb-using-backup4all-kb.html)  
+* [How to schedule multiple backup jobs at once](https://www.backup4all.com/how-to-schedule-multiple-backup-jobs-at-once-kb.html)  
+    
+* [How to deactivate Backup4all Monitor](https://www.backup4all.com/how-to-deactivate-backup4all-monitor-kb.html)  
     
 * [How to back up data files from Wasabi S3 Comp ...](https://www.backup4all.com/how-to-back-up-date-files-from-wasabi-s3-compatible-kb.html)  
     
-* [Types of backup](https://www.backup4all.com/backup-types-kb.html)  
-    
-* [Backup videos with Backup4all](https://www.backup4all.com/backup-videos-with-backup4all-kb.html)  
+* [Backup4all appears to be open in taskbar but ...](https://www.backup4all.com/backup4all-appears-to-be-open-in-taskbar-but-you-cannot-see-kb.html)  
     
 
 Choose language:
