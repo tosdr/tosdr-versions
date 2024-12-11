@@ -401,6 +401,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![The touching story behind a McKinney couple's massive Christmas lights display](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/mckinney-llights-display.png?ve=1&tl=1)
+
+ ![The touching story behind a McKinney couple's massive Christmas lights display](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/mckinney-llights-display.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mckinney-house-christmas-lights-mark-cornetti-nasheel-joules)
+
+### [The touching story behind a McKinney couple's massive Christmas lights display](https://www.fox4news.com/news/mckinney-house-christmas-lights-mark-cornetti-nasheel-joules)
+
+ [![Dallas drive-by shooting leaves mother, daughter seriously hurt after night out](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-peyton-inwood-rd-rideshare-shooting-9p_00.00.04.08.jpg?ve=1&tl=1)
+
+ ![Dallas drive-by shooting leaves mother, daughter seriously hurt after night out](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-peyton-inwood-rd-rideshare-shooting-9p_00.00.04.08.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-drive-by-shooting-leaves-mother-daughter-seriously-hurt-after-night-out)
+
+### [Dallas drive-by shooting leaves mother, daughter seriously hurt after night out](https://www.fox4news.com/news/dallas-drive-by-shooting-leaves-mother-daughter-seriously-hurt-after-night-out)
+
  [![North Texas man accused of exposing himself at theater during children's movie](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/image003.png?ve=1&tl=1)
 
  ![North Texas man accused of exposing himself at theater during children's movie](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/image003.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ellis-co-man-accused-exposing-himself-theater-during-kids-movie)
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Former NFL great Tom Brady selling watches, football items at auction](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2187918254-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/former-nfl-great-tom-brady-selling-watches-football-items-auction)
 
 ### [Former NFL great Tom Brady selling watches, football items at auction](https://www.fox4news.com/news/former-nfl-great-tom-brady-selling-watches-football-items-auction)
-
- [![Are poinsettias and mistletoe really dangerous?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2186402177.jpg?ve=1&tl=1)
-
- ![Are poinsettias and mistletoe really dangerous?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2186402177.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/are-holiday-plants-dangerous)
-
-### [Are poinsettias and mistletoe really dangerous?](https://www.fox4news.com/news/are-holiday-plants-dangerous)
-
- [![City of Dallas considers selling $6.5 million hospital purchase at a loss](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-dallas-housing-committee-_00.00.49.46.jpg?ve=1&tl=1)
-
- ![City of Dallas considers selling $6.5 million hospital purchase at a loss](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-dallas-housing-committee-_00.00.49.46.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/city-dallas-considers-selling-old-hospital-bought-6-5-million-loss)
-
-### [City of Dallas considers selling $6.5 million hospital purchase at a loss](https://www.fox4news.com/news/city-dallas-considers-selling-old-hospital-bought-6-5-million-loss)
 
 ###### [News](https://www.fox4news.com/news)
 
