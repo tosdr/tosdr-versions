@@ -23,11 +23,13 @@
                 
                 Insights
                 
-                Reveals _Why_ It’s AI
+                The Original Source
                 
-                A first-of-its-kind, patent-pending innovation that comprehensively analyzes why text has been identified as AI.
+                A Copyleaks Podcast
                 
-                [Learn More](https://copyleaks.com/ai-content-detector/ai-insights?utm_source=website&utm_medium=header&utm_campaign=ai-insights)
+                Join host Shouvik Paul, COO of Copyleaks, and other members of the Copyleaks team, along with leading industry experts, as they update you on the latest in AI, EdTech, plagiarism, and more.
+                
+                [Learn More](https://copyleaks.com/the-original-source-podcast)
                 
     * * * [Academic IntegrityThe only solution that detects AI-generated code, plagiarized and modified source code, and provides essential licensing details.](https://copyleaks.com/academic-integrity)
         * * [GenAI Governance & ComplianceGuarantee ethical AI use and regulatory compliance with a robust and fully scalable governance framework.](https://copyleaks.com/governance-risk-and-compliance)
@@ -35,7 +37,7 @@
         
     * * * [AI Model TrainingEnsure your AI model is trained solely on human-created datasets to enhance accuracy and avoid potential collapse.](https://copyleaks.com/ai-model-training-data)
         * * [IP & CopyrightPreserve your intellectual property from unauthorized use and ensure full copyright compliance.](https://copyleaks.com/ip-and-copyright) 
-        * * [Code Governance & ComplianceProtect your proprietary code with comprehensive source detection and licensing compliance alerts.](https://copyleaks.com/code-governance-and-compliance)
+        * * [Codeleaks Code Governance & ComplianceSecure your intellectual property and maintain code integrity with AI-powered detection.](https://copyleaks.com/code-governance-and-compliance)
         
 * Products
     * * * #### Products
@@ -58,11 +60,15 @@
         * * [News & MediaThe latest Copyleaks announcements, updates, news and media features.](https://copyleaks.com/about-us/media)
         * * [AI Testing MethodologiesExplore the various testing methodologies used to assess the accuracy of the AI Detector.](https://copyleaks.com/ai-content-detector/testing-methodology)
         * * [Help CenterGet the support you need for integration, platforms, dashboards, and more.](https://help.copyleaks.com/)
-        * * [![](https://copyleaks.com/wp-content/uploads/2024/11/What-is-Gemini-BlogHeader-1-1.webp)](https://copyleaks.com/blog/what-is-gemini-ai-and-how-does-it-work)
+        * * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201400%20624'%3E%3C/svg%3E)
+                
+                ![](https://copyleaks.com/wp-content/uploads/2024/11/What-is-Gemini-BlogHeader-1-1.webp)](https://copyleaks.com/blog/what-is-gemini-ai-and-how-does-it-work)
                 
                 [What is Gemini AI and How Does it Work?](https://copyleaks.com/blog/what-is-gemini-ai-and-how-does-it-work)
                 
-                [![AI prompt bubbles and a computer screen](https://copyleaks.com/wp-content/uploads/2024/11/AI_Prompts.webp)](https://copyleaks.com/blog/the-process-of-ai-prompt-generation)
+                [![AI prompt bubbles and a computer screen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201485%201116'%3E%3C/svg%3E)
+                
+                ![AI prompt bubbles and a computer screen](https://copyleaks.com/wp-content/uploads/2024/11/AI_Prompts.webp)](https://copyleaks.com/blog/the-process-of-ai-prompt-generation)
                 
                 [From Data to Text: The Process of AI Prompt Generation](https://copyleaks.com/blog/the-process-of-ai-prompt-generation)
                 
