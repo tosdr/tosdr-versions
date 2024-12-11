@@ -229,6 +229,9 @@ this hour
 
 * * *
 
+* [Gene Therapy Reverses Heart Failure in Pigs](https://www.sciencedaily.com/releases/2024/12/241210115612.htm)
+* [Tiny Poops in Ocean to Help Solve Carbon Problem](https://www.sciencedaily.com/releases/2024/12/241210115607.htm)
+* [24 Hour Cognitive Boost from Exercise](https://www.sciencedaily.com/releases/2024/12/241209203726.htm)
 * [Device Helps the Visually Impaired Navigate](https://www.sciencedaily.com/releases/2024/12/241210115433.htm)
 * [AI Predicts Earth's Peak Warming](https://www.sciencedaily.com/releases/2024/12/241210115110.htm)
 * [AI Predicts Fast Rise of 3°C in Most of World](https://www.sciencedaily.com/releases/2024/12/241210115538.htm)
@@ -236,9 +239,6 @@ this hour
 * [Mars' Infamous Dust Storms](https://www.sciencedaily.com/releases/2024/12/241209123224.htm)
 * [Cracking the Code for Materials That Can Learn](https://www.sciencedaily.com/releases/2024/12/241209122941.htm)
 * [AI Cracks Complex Engineering Problems Fast](https://www.sciencedaily.com/releases/2024/12/241209122936.htm)
-* [Universe Expansion Study Challenges Cosmic ...](https://www.sciencedaily.com/releases/2024/12/241209122620.htm)
-* [Earliest Deep-Cave Ritual Compound](https://www.sciencedaily.com/releases/2024/12/241209162441.htm)
-* [Dogs Hit Button-Combos On Soundboards](https://www.sciencedaily.com/releases/2024/12/241209162449.htm)
 
 Trending Topics
 ---------------
@@ -249,11 +249,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
-
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
-[Leukemia](https://www.sciencedaily.com/news/health_medicine/leukemia/)
+[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
+
+[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -261,15 +261,15 @@ this week
 
 [Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
-[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
+[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Ancient Civilizations](https://www.sciencedaily.com/news/fossils_ruins/ancient_civilizations/)
-
 [Forest](https://www.sciencedaily.com/news/earth_climate/forests/)
 
-[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
+[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
+
+[Ancient Civilizations](https://www.sciencedaily.com/news/fossils_ruins/ancient_civilizations/)
 
   
 
