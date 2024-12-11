@@ -1,8 +1,8 @@
-[![Payouts in Bitcoin on 2Miners.com](/images/banners/banner-khajiit-logo.png?_=1733849112 "Payouts in Bitcoin on 2Miners.com")
+[![Payouts in Bitcoin on 2Miners.com](/images/banners/banner-khajiit-logo.png?_=1733922336 "Payouts in Bitcoin on 2Miners.com")
 
-![Payouts in Bitcoin on 2Miners.com](/images/banners/banner-khajiit-big.png?_=1733849112 "Payouts in Bitcoin on 2Miners.com")
+![Payouts in Bitcoin on 2Miners.com](/images/banners/banner-khajiit-big.png?_=1733922336 "Payouts in Bitcoin on 2Miners.com")
 
-![Payouts in Bitcoin on 2Miners.com](/images/banners/banner-khajiit-mob.png?_=1733849112 "Payouts in Bitcoin on 2Miners.com")](https://2miners.com/#pools "Payouts in Bitcoin on 2Miners.com")
+![Payouts in Bitcoin on 2Miners.com](/images/banners/banner-khajiit-mob.png?_=1733922336 "Payouts in Bitcoin on 2Miners.com")](https://2miners.com/#pools "Payouts in Bitcoin on 2Miners.com")
 
 [![](/images/logo.svg "Logo 2CryptoCalc")![](/images/logo_white.svg "Logo 2CryptoCalc")](https://2cryptocalc.com/)
 
