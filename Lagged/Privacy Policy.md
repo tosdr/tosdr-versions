@@ -221,8 +221,6 @@ Popular game categories
 Games you might like
 --------------------
 
-[Sprunki](https://lagged.com/en/g/sprunki) ![Sprunki Game](https://imgs2.dab3games.com/sprunki-3864526.png)
-
 [Elastic Man](https://lagged.com/en/g/elastic-man) ![Elastic Man Game](https://imgs2.dab3games.com/elastic-man-game-2.png)
 
 [Blob Opera](https://lagged.com/en/g/blob-opera) ![Blob Opera Game](https://imgs2.dab3games.com/blob-opera-game-ft2.png) top rated
@@ -245,11 +243,13 @@ Games you might like
 
 [Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
 
+[Sprunki](https://lagged.com/en/g/sprunki) ![Sprunki Game](https://imgs2.dab3games.com/sprunki-3864526.png)
+
 [Hide the Evidence](https://lagged.com/en/g/hide-the-evidence) ![Hide the Evidence Game](https://imgs2.dab3games.com/hide-the-evideance-big.png)
 
-[Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
-
 [Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
+
+[Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
 
 [Two Cats Duet](https://lagged.com/en/g/two-cats-duet) ![Two Cats Duet Game](https://imgs2.dab3games.com/two-cats-duet-ft44.png)
 
