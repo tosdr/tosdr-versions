@@ -1,3 +1,5 @@
+[10% OFF SITEWIDE - CODE HOLIDAY10 - TODAY ONLY!](https://www.tanga.com/forum/blogs/07c39016510e/10-off-sitewide-code-holiday10-today-only)
+
 [![tanga deals](https://assetcdn2.tanga.com/assets/logos/tanga_w_triangles_white-a57e9354ac73687f0c551b8efa53ff9f4aa5c867e79328b8f2ca1544d20aee93.svg)](https://www.tanga.com/)
 
 [Log In](https://www.tanga.com/login?return_path=%2Fpages%2Fterms-and-conditions) [Sign Up](https://www.tanga.com/users/new?return_path=%2Fpages%2Fterms-and-conditions)
@@ -10,7 +12,7 @@
 
 out of 5 based on
 
-75101
+75102
 
 reviews ![Tanga Reviews](https://assets.reviews.io/img/all-global-assets/logo/reviewsio-logo.svg)](http://www.reviews.io/company-reviews/store/tanga.com?utm_source=tanga.com&utm_medium=widget&utm_campaign=text-banner) 
 
