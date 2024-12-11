@@ -165,145 +165,187 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Much Evidence Exists for a Worldwide Flood
+More The Universe Was Created
 
-[![](/i/Main%20Stage%20-%201400x1050/morewhoppersand-1400x1050-MainPage.jpg)](https://www.icr.org/article/more-whopper-sand)
+[![](/i/Main%20Stage%20-%201400x1050/Supermoon_Tonight_1400x1050.jpg)](https://www.icr.org/article/supermoon-tonight)
 
-[More Whopper Sand Evidence of Global Flood](https://www.icr.org/article/more-whopper-sand/)
+[Supermoon Tonight](https://www.icr.org/article/supermoon-tonight/)
 
-In the U.S. Gulf Coast region, the Upper Jurassic Norphlet Sandstone rests right on top of thousands of feet of Middle Jurassic salt, known as the Louann...
+Tonight’s (April 7) full moon is special because it occurs when the moon is close to perigee, the point in its orbit where it is closest to Earth.1,2...
 
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/Main%20Stage%20-%201400x1050/havrevolcano_1400x1050)](https://www.icr.org/article/deep-sea-volcano-flood)
+[![](/i/Main%20Stage%20-%201400x1050/July_Astronomical_1400x1050.jpg)](https://www.icr.org/article/july-astronomical-highlights)
 
-[Deep-Sea Volcano Gives Glimpse of Flood Eruptions](https://www.icr.org/article/deep-sea-volcano-flood/)
+[July Astronomical Highlights](https://www.icr.org/article/july-astronomical-highlights/)
 
-A team of scientists from Australia and the USA recently studied the ejecta from a subsea volcano, gaining new insights into how magma can explode to the...
+This month (July 2020), multiple astronomical objects highlight God’s glory displayed in the heavens.1 For the next two weeks, all...
 
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/Main%20Stage%20-%201400x1050/Flood_Amazon_Sea_1400x1050.jpg)](https://www.icr.org/article/flood-solves-mystery-of-amazon-sea)
+[![](/i/Main%20Stage%20-%201400x1050/Venus_Active_1400x1050.jpg)](https://www.icr.org/article/venus-may-be-geologically-active)
 
-[Flood Solves Mystery of Amazon Sea](https://www.icr.org/article/flood-solves-mystery-of-amazon-sea/)
+[Venus May Be Geologically Active](https://www.icr.org/article/venus-may-be-geologically-active/)
 
-In the past 15 years, it’s been determined that a vast ocean once covered the western Amazon drainage basin.1 However, studies of the...
+Using computer simulations, a team of researchers has concluded the planet Venus could still be geologically active.1,2 The scientists used...
 
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-More Geological Evidence Indicates Rapid Formation
+More The Universe Is Stable
 
-[![](/i/Main%20Stage%20-%201400x1050/Flood_Dino_Bang_1400x1050.jpg)](https://www.icr.org/article/flood-buried-dinosaurs-with-a-bang)
+[![](/i/Main%20Stage%20-%201400x1050/Rotating_Disk_Galaxy_1400x1050.jpg)](https://www.icr.org/article/most-distant-rotating-disk-galaxy-secular-models)
 
-[Flood Buried Dinosaurs with a Bang](https://www.icr.org/article/flood-buried-dinosaurs-with-a-bang/)
+[Most Distant Rotating Disk Galaxy Challenges Secular Models](https://www.icr.org/article/most-distant-rotating-disk-galaxy-secular-models/)
 
-Scientists from the University of Bath have found that dinosaurs were thriving up to the end of the Cretaceous.1 This discovery conflicts with...
+Astronomers have determined that a distant galaxy discovered three years ago is rotating, making it the most distant rotating disk galaxy yet observed.1...
 
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/Main%20Stage%20-%201400x1050/Argentinosaurid_1400x1050.jpg)](https://www.icr.org/article/is-newfound-dinosaur-fossil-the-biggest-ever)
+[![](/i/Main%20Stage%20-%201400x1050/Comet_SWAN_1400x1050.jpg)](https://www.icr.org/article/will-comet-swan-put-on-a-celestial-show)
 
-[Is Newfound Dinosaur Fossil the Biggest Ever?](https://www.icr.org/article/is-newfound-dinosaur-fossil-the-biggest-ever/)
+[Will Comet SWAN Put on a Celestial Show?](https://www.icr.org/article/will-comet-swan-put-on-a-celestial-show/)
 
-Whether dealing with athletes, sports teams, skyscrapers, or animals, we always want to know who or what takes the top spot. Researchers just published...
+For families seeking worthwhile home-based science activities, Comet SWAN presents another opportunity to do some backyard astronomy and to celebrate God’s...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/wide/dark_matter_wide.jpg)](https://www.icr.org/article/science-still-about-dark-energy)
+
+[Science Still in the Dark about Dark Energy](https://www.icr.org/article/science-still-about-dark-energy/)
+
+Evolutionary astronomers have a problem. The universe is expanding at an ever-increasing rate, but if general relativity is an accurate cosmological model,...
 
 BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/Main%20Stage%20-%201400x1050/ocean-bottom-1400x1050)](https://www.icr.org/article/half-billion-year-old-fossil-brains)
+More Astronomy
 
-[Half-Billion-Year-Old Fossil Brains?](https://www.icr.org/article/half-billion-year-old-fossil-brains/)
+[![](/i/Main%20Stage%20-%201400x1050/Life_On_Venus_1400x1050.jpg)](https://www.icr.org/article/have-scientists-found-life-on-venus)
 
-Once again, a recent and remarkable fossil discovery has been made challenging evolutionary theory. A strange arthropod (i.e. a radiodont) has been found...
+[Have Scientists Found Life on Venus?](https://www.icr.org/article/have-scientists-found-life-on-venus/)
+
+Secular scientists are obsessed with attempting to show that life on Earth is not unique and therefore must exist, if not elsewhere in our solar system...
 
 BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-More Worldwide Catastrophic Evidence Is Everywhere
+[![](/i/Main%20Stage%20-%201400x1050/Supernova_Scripture_1400x1050.jpg)](https://www.icr.org/article/a-supernova-and-the-scripture)
 
-[![](/i/stage_248/sixthextinction-stage.jpg)](https://www.icr.org/article/newly-discovered-sixth-extinction-rewrites)
+[A Supernova and the Scripture](https://www.icr.org/article/a-supernova-and-the-scripture/)
 
-[Newly Discovered Sixth Extinction Rewrites Geology](https://www.icr.org/article/newly-discovered-sixth-extinction-rewrites/)
-
-Geology students memorize the rock system names found on geologic column diagrams, learn age assignments, typical fossils, and the five worldwide animal...
+Well, there goes another star, disappearing into the night as if it had never existed. For an entire year, Hubble scientists used the space telescope to...
 
 BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/wide/best-of-17-sixth-wide.jpeg)](https://www.icr.org/article/best-2017-sixth-extinction)
+[![](/i/Main%20Stage%20-%201400x1050/Supermoon_Tonight_1400x1050.jpg)](https://www.icr.org/article/supermoon-tonight)
 
-[Best of 2017: Sixth Extinction](https://www.icr.org/article/best-2017-sixth-extinction/)
+[Supermoon Tonight](https://www.icr.org/article/supermoon-tonight/)
 
-Geologists reassessed the abundance of fossils in Earth’s uppermost rock layers this year, and they believe they found a remarkable sixth global...
+Tonight’s (April 7) full moon is special because it occurs when the moon is close to perigee, the point in its orbit where it is closest to Earth.1,2...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+More Physics
+
+[![](/i/radio/images/physics_explains_universe_wide.jpg)](https://www.icr.org/article/universe-nothing)
+
+[A Universe from Nothing?](https://www.icr.org/article/universe-nothing/)
+
+Many famous secular physicists claim we don’t need a Creator to explain the universe’s origin. They say “the laws of physics...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/articles/af/universe_from_nothing_wide.jpg)](https://www.icr.org/article/universe-from-nothing)
+
+[A Universe from Nothing?](https://www.icr.org/article/universe-from-nothing/)
+
+Explaining the origin of the universe is an enormous challenge for those seeking to deny their Creator: How could a universe come from nothing? The...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/wide/energy_wide.jpg)](https://www.icr.org/article/particle-physics-remarkably-consistent-with-genesi)
+
+[Particle Physics Is Remarkably Consistent with Genesis](https://www.icr.org/article/particle-physics-remarkably-consistent-with-genesi/)
+
+Aided by a supercomputer, an international team of theoretical physicists has recently performed a massive computation that confirmed Einstein’s...
 
 BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/Main%20Stage%20-%201400x1050/coldslabs-1400x1050-MainPage.jpg)](https://www.icr.org/article/cold-slabs-indicate-recent-creation)
+More Contrasting Worldviews
 
-[Cold Slabs Indicate Recent Global Flood](https://www.icr.org/article/cold-slabs-indicate-recent-creation/)
+[![](/i/Main%20Stage%20-%201400x1050/Youthful_Saturn_1400x1050.jpg)](https://www.icr.org/article/picture-perfect-a-youthful-saturn)
 
-Since the 1990s, cross-section images of mantle tomography have shown visible slabs of oceanic lithosphere (which includes oceanic crust) descending...
+[Picture Perfect: A Youthful Saturn](https://www.icr.org/article/picture-perfect-a-youthful-saturn/)
+
+This summer, the Hubble Space Telescope took a brilliant new photograph of Saturn and its rings.1 Saturn’s moons Mimas and Enceladus can...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/Main%20Stage%20-%201400x1050/T_rex_Hatchling_1400x1050.jpg)](https://www.icr.org/article/no-evidence-t-rex-hatchlings-had-feathers)
+
+[No Evidence T. rex Hatchlings Had Feathers](https://www.icr.org/article/no-evidence-t-rex-hatchlings-had-feathers/)
+
+The recent discovery of a tiny tyrannosaur jaw bone fragment and a claw has some scientists again pushing dinosaurs as birds.1 But is there...
 
 BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
 
-More Creation Q&A
+[![](/i/Main%20Stage%20-%201400x1050/Tunnel_Vision_1400x1050.jpg)](https://www.icr.org/article/the-danger-of-tunnel-vision)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/how_coal_seams_form.jpg)](https://www.icr.org/article/how-did-coal-seams-form)
+[The Danger of Tunnel Vision](https://www.icr.org/article/the-danger-of-tunnel-vision/)
 
-[How Did Coal Seams Form?](https://www.icr.org/article/how-did-coal-seams-form/)
+In an executive order, dated May 1, 2020, our president made this declaration: I, DONALD J. TRUMP, President of the United States of America, find...
 
-When I drive from Dallas to Colorado, I sometimes see southbound trains loaded with coal from vast reserves buried in Wyoming rock layers. This coal...
+BY: [REBECCA MORRIS BARBER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=243)
+
+More Science
+
+[![](/i/Main%20Stage%20-%201400x1050/John_Walton_1400x1050.jpg)](https://www.icr.org/article/john-walton-twisted-views-on-disease-and-suffering)
+
+[John Walton’s Twisted Views on Disease and Suffering](https://www.icr.org/article/john-walton-twisted-views-on-disease-and-suffering/)
+
+John Walton is an influential Old Testament theologian at Wheaton College with an unorthodox and non-literal view of Genesis.1 He is also an...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+[![](/i/Main%20Stage%20-%201400x1050/Monster_Milankovitch_1400x1050.jpg)](https://www.icr.org/article/physics-today-ignores-monster-milankovitch-problem)
+
+[Physics Today Article Ignores Monster Milankovitch Problem](https://www.icr.org/article/physics-today-ignores-monster-milankovitch-problem/)
+
+An overview of the Milankovitch (or astronomical) ice age theory appears in the May 2020 issue of Physics Today.1 This theory (hypothesis, really)...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/Main%20Stage%20-%201400x1050/Human_Brain_Research_1400x1050.jpg)](https://www.icr.org/article/human-brain-research-finds-new-folds)
+
+[Human Brain Research Finds New Folds](https://www.icr.org/article/human-brain-research-finds-new-folds/)
+
+Brain researchers from San Diego State University have just reported digitally capturing the dense folds of a preserved human cerebellum using a high resolution...
 
 BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/what_is_image_of_God.jpg)](https://www.icr.org/article/what-is-the-image-of-god)
+More Creation Science Update
 
-[What Is the Image of God?](https://www.icr.org/article/what-is-the-image-of-god/)
+[![](/i/Main%20Stage%20-%201400x1050/MartianLander_1400x1050)](https://www.icr.org/article/martian-lander-discovers)
 
-Genesis 1:26 says, “Then God said, ‘Let Us make man in Our image, according to Our likeness.’” What does it mean for humans...
+[Martian Lander Discovers "Surprising" Martian.,.](https://www.icr.org/article/martian-lander-discovers/)
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+The InSight robotic lander found evidence in the interior of Mars for the existence of an active giant mantle plume, a large blob of molten rock that...
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/are_fossils_just_rocks.jpg)](https://www.icr.org/article/are-fossils-just-rocks-shaped-like-bones)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[Are Fossils Just Rocks Shaped like Bones?](https://www.icr.org/article/are-fossils-just-rocks-shaped-like-bones/)
+[![](/i/Main%20Stage%20-%201400x1050/brainscomplexity_1400x1050.jpg)](https://www.icr.org/article/cognitive-map-brain-complexity)
 
-I picked up my first fossil from beneath a swing in Kansas when I was six years old. Fossils have fascinated me ever since. Soon after, our family visited...
+[The Cognitive Map: An Incredible Display of the Brain&r.,.](https://www.icr.org/article/cognitive-map-brain-complexity/)
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+To be spatially capable creatures, humans need their brains to tell them 1) where things are in relation to themselves and 2) where everything is in...
 
-Shop Related Products
+BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
+[![](/i/Main%20Stage%20-%201400x1050/dinosaur-provincial-park-1400x1050)](https://www.icr.org/article/hillside-hadrosaur)
 
-The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
+[Eroding Hillside Reveals Dinosaur Skin Pattern](https://www.icr.org/article/hillside-hadrosaur/)
 
-$9.99
+Recently, a fossil believed to be a juvenile duck-billed dinosaur was found in a hillside in Dinosaur Provincial Park, Canada. The scientists discovered...
 
-$19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/54360544/file.jpg)
-
-Foundations in Worship](https://store.icr.org/foundations-in-worship.html)
-
-$29.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
-
-The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
-
-$14.99
-
-$19.99
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/15818899/file.jpg)
-
-The Fossil Record - eBook](https://store.icr.org/the-fossil-record-ebook.html)
-
-$9.99
-
-$19.99
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
