@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There were seven male white owls that played Hedwig.
+Culpeper’s Herbal, a book written in London in 1652 that categorizes herbs and their medical uses, served as inspiration for herbology.
 
 ### Potter History
 
-December 11, 2007 – Harry Potter and the Order of the Phoenix is released on DVD in the United States, a whole month after fans in the United Kingdom got their hands on it.
+June 16, 2010 – EA Games confirms that the Harry Potter and the Deathly Hallows video game will be released on November 19.
 
 ### Potter Quote
 
-“She stopped you killing me. And I’ve seen the real you, I saw you last year. You’re a wreck. You’re barely alive. That’s where all your power got you. You’re in hiding. You’re ugly, you’re foul —”
+“I suggest you both go up to Madam Pomfrey. She is already tending to Miss Fawcett, of Ravenclaw, and Mr. Summers, of Hufflepuff, both of whom decided to age themselves up a little too. Though I must say, neither of their beards is anything like as fine as yours.”
 
 [](#)
 
