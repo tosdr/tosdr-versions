@@ -2,11 +2,11 @@ Shop Now
 
 20% Off Framing, Canvas & Mount on Orders $99+ Ends in..
 
-1DAYS19HRS15MINS
+1DAYS13HRS1MINS
 
 20% Off Framing, Canvas & Mount on Orders $99+ Ends in..
 
-1DAYS19HRS15MINS
+1DAYS13HRS1MINS
 
 Shop Now
 
@@ -831,7 +831,7 @@ Art.com
 
 Indianapolis, IN 46268
 
-![Logo](/mobify/bundle/941/static/img/logo.svg)
+![Logo](/mobify/bundle/947/static/img/logo.svg)
 
 World's largest selection of art
 
