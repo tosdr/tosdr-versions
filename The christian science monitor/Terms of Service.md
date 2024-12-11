@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Peace
+
+### Time to go home? Hezbollah ceasefire offers northern Israelis hope.](https://www.csmonitor.com/World/Middle-East/2024/1210/israel-lebanon-border-hezbollah-ceasefire-evacuees "Time to go home? Hezbollah ceasefire offers northern Israelis hope.")
+
+[Safety
+
+### Boston broke a record last year for fewest homicides. It’s on track to do it again.](https://www.csmonitor.com/USA/Justice/2024/1210/boston-safety-2024-homicide-record "Boston broke a record last year for fewest homicides. It’s on track to do it again.")
+
 [Balance
 
 ### Hailing the innocent in Syria](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1210/Hailing-the-innocent-in-Syria "Hailing the innocent in Syria")
-
-[Hope
-
-### For Syrians, Assad is in the past: ‘The thing we all have now is hope’](https://www.csmonitor.com/World/Middle-East/2024/1209/syria-assad-jolani-russia-jihadis-hts "For Syrians, Assad is in the past: ‘The thing we all have now is hope’")
-
-[Community
-
-### Longings for home drove Syria’s liberation](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1209/Longings-for-home-drove-Syria-s-liberation "Longings for home drove Syria’s liberation")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-December 09, 2024
+December 10, 2024
 
-A historic moment in the Middle East
+A more powerful force
 
-What just happened in Syria? In his Patterns column today, Ned Temko calls this a “fall of the Berlin Wall” moment for the Middle East. The challenges will be enormous, and Ned lays them out carefully. But stunningly, a ruthless dictator is gone as crowds chanted, “One, one, the Syrian people are one!”
+“The common good.” The phrase may sound out of tune with the harsh tone of America’s public square. But it crops up in Patrik Jonsson’s story today about professional work and citizen alertness. That’s what led law enforcement to Luigi Mangione, who has been arrested on weapons charges and is a suspect in the killing of UnitedHealthcare executive Brian Thompson. Many people anonymously and darkly cheered him on. But Patrik’s sources said that Mr. Mangione may have underestimated something else at work: a deeper respect for the common good.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Time to go home? Hezbollah ceasefire offers northern Israelis hope.](https://www.csmonitor.com/World/Middle-East/2024/1210/israel-lebanon-border-hezbollah-ceasefire-evacuees "Time to go home? Hezbollah ceasefire offers northern Israelis hope.")
+
+[### Boston broke a record last year for fewest homicides. It’s on track to do it again.](https://www.csmonitor.com/USA/Justice/2024/1210/boston-safety-2024-homicide-record "Boston broke a record last year for fewest homicides. It’s on track to do it again.")
+
 [### After CEO killing, police used high-tech tools. But a civilian cinched the dragnet.](https://www.csmonitor.com/USA/2024/1210/united-healthcare-shooting-suspect-mangione "After CEO killing, police used high-tech tools. But a civilian cinched the dragnet.")
-
-[### Squat lobsters and filtering fungi: Discoveries from the ocean deep to an African lab](https://www.csmonitor.com/World/Points-of-Progress/2024/1210/barcelona-subway-domestic-violence-protections "Squat lobsters and filtering fungi: Discoveries from the ocean deep to an African lab")
-
-[### After President Milei’s first year, Argentina’s economy is looking strangely ... normal](https://www.csmonitor.com/World/Americas/2024/1210/Argentina-President-Milei-inflation-economy-Trump "After President Milei’s first year, Argentina’s economy is looking strangely ... normal")
 
 * * *
 
