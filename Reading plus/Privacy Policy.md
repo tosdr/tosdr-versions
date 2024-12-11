@@ -1,4 +1,4 @@
-        Privacy Policy - Reading Plus                                                             
+         Privacy Policy - Reading Plus                                                             
 
 X
 
