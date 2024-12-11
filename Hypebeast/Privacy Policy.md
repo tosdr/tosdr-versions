@@ -23,8 +23,8 @@
 * [Videos](https://hypebeast.com/videos)
 * [Brands](https://hypebeast.com/directory)
 * [Magazine](https://hypebeast.com/magazine)
-* [Hypebeast100](https://hypebeast.com/hb100)
 * [More](#)
+* [Hypebeast100](https://hypebeast.com/hb100)
 * [Store](https://hbx.page.link/?link=https%3A%2F%2Fhbx.com%3Futm_source%3Dhypebeast.com%26utm_medium%3Dreferral%26utm_campaign%3Dmens-2021-6-9307-hypebeast_top_area_button_referral%26utm_content%3Dimage-placement-editorial-post&apn=com.hypebeast.store&afl=https://hbx.com&isi=895353739&ibi=com.store.hypebeast.HypebeastStore&ifl=https://hbx.com&efr=1)
 
 [Home](https://hypebeast.com/)[Legal](https://hypebeast.com/legal)Privacy Policy
