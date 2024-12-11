@@ -61,6 +61,14 @@ Middle & High School
 
 [Online Classes: AoPS Online](https://artofproblemsolving.com/) [In-person: AoPS Academy](https://aopsacademy.org/)
 
+![](/assets/images/logos/math-jams-white.svg)
+
+Live Discussion!
+
+Code Jam: Your First USACO Contest is going on now!
+
+[Join InGo](https://artofproblemsolving.com/schoolhouse/room/mathjam)
+
 Spring is around the corner! Get ahead by [enrolling in our math, science, or contest classes today](https://artofproblemsolving.com/school/schedule)!
 
 JavaScript is not enabled. JavaScript is required to fully utilize the site.
