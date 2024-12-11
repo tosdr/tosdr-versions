@@ -2,7 +2,7 @@
 
 [Save 25%, Buy 9 waxes, get 3 FREE](https://waxcenter.com/pages/wax-passes)
 
-[NEW Peppermint Butter & Sugar Scrub](https://waxcenter.com/products/pumpkin-sugar-scrub?_pos=1&_sid=30161e23d&_ss=r)
+[NEW Peppermint Sugar Scrub](https://waxcenter.com/collections/all/products/peppermint-sugar-scrub)
 
  [![icon](https://cdn.shopify.com/s/files/1/0366/6670/4007/files/DiscountIcon.svg?v=1667333405) Refer a friend, Get $20 off\*](https://waxcenter.com/pages/refer-a-friend)
 
