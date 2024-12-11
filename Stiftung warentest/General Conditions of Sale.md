@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
-* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
-* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
-* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
+* [Beratung zum Augen­lasern im Test: Trübe Bilanz](https://www.test.de/augenlasern-beratung-test-1401229-0/ "Beratung zum Augenlasern im Test - Trübe Bilanz")
+* [Endometriose: Gegen die Qual – neue Therapien lindern Beschwerden](https://www.test.de/Endometriose-neue-Therapien-lindern-Beschwerden-6091533-0/ "Endometriose - Gegen die Qual – neue Therapien lindern Beschwerden")
+* [Gaming-Head­sets im Test: Die besten Kopf­hörer zum Zocken](https://www.test.de/Gaming-Headsets-im-Test-Die-besten-Kopfhoerer-zum-Zocken-6173736-0/ "Gaming-Headsets im Test - Die besten Kopfhörer zum Zocken")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
+* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
-* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
-* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
-* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
+* [Beratung zum Augen­lasern im Test: Trübe Bilanz](https://www.test.de/augenlasern-beratung-test-1401229-0/ "Beratung zum Augenlasern im Test - Trübe Bilanz")
+* [Endometriose: Gegen die Qual – neue Therapien lindern Beschwerden](https://www.test.de/Endometriose-neue-Therapien-lindern-Beschwerden-6091533-0/ "Endometriose - Gegen die Qual – neue Therapien lindern Beschwerden")
+* [Gaming-Head­sets im Test: Die besten Kopf­hörer zum Zocken](https://www.test.de/Gaming-Headsets-im-Test-Die-besten-Kopfhoerer-zum-Zocken-6173736-0/ "Gaming-Headsets im Test - Die besten Kopfhörer zum Zocken")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
+* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
-* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
-* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
-* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
+* [Beratung zum Augen­lasern im Test: Trübe Bilanz](https://www.test.de/augenlasern-beratung-test-1401229-0/ "Beratung zum Augenlasern im Test - Trübe Bilanz")
+* [Endometriose: Gegen die Qual – neue Therapien lindern Beschwerden](https://www.test.de/Endometriose-neue-Therapien-lindern-Beschwerden-6091533-0/ "Endometriose - Gegen die Qual – neue Therapien lindern Beschwerden")
+* [Gaming-Head­sets im Test: Die besten Kopf­hörer zum Zocken](https://www.test.de/Gaming-Headsets-im-Test-Die-besten-Kopfhoerer-zum-Zocken-6173736-0/ "Gaming-Headsets im Test - Die besten Kopfhörer zum Zocken")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
+* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Bewertung von Fonds und ETF: Risiko­klasse hilft bei der Fonds­wahl](https://www.test.de/Bewertung-von-Fonds-und-ETF-Risikoklasse-hilft-bei-der-Fondswahl-6139024-0/ "Bewertung von Fonds und ETF - Risikoklasse hilft bei der Fondswahl")
-* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
-* [Ib-Ex Bank: Geschäfte ohne Erlaubnis](https://www.test.de/Ib-Ex-Bank-Geschaefte-ohne-Erlaubnis-6028212-0/ "Ib-Ex Bank - Geschäfte ohne Erlaubnis")
-* [Mutmacherin: Ein Sieg für alle Frauen](https://www.test.de/Mutmacherin-Ein-Sieg-fuer-alle-Frauen-6041286-0/ "Mutmacherin - Ein Sieg für alle Frauen")
+* [Beratung zum Augen­lasern im Test: Trübe Bilanz](https://www.test.de/augenlasern-beratung-test-1401229-0/ "Beratung zum Augenlasern im Test - Trübe Bilanz")
+* [Endometriose: Gegen die Qual – neue Therapien lindern Beschwerden](https://www.test.de/Endometriose-neue-Therapien-lindern-Beschwerden-6091533-0/ "Endometriose - Gegen die Qual – neue Therapien lindern Beschwerden")
+* [Gaming-Head­sets im Test: Die besten Kopf­hörer zum Zocken](https://www.test.de/Gaming-Headsets-im-Test-Die-besten-Kopfhoerer-zum-Zocken-6173736-0/ "Gaming-Headsets im Test - Die besten Kopfhörer zum Zocken")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
+* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
 
 Stiftung Warentest
 
