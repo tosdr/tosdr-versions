@@ -263,7 +263,7 @@ About us
 
 Helpful links
 
-* [Careers](https://www.recordedfuture.com/)
+* [Careers](https://www.recordedfuture.com/careers)
 * [Contact Us](https://www.recordedfuture.com/contact)
 * [Get a Demo](https://go.recordedfuture.com/demo)
 * [The Intelligence Graph](https://www.recordedfuture.com/platform/intelligence-graph)
