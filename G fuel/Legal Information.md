@@ -1,5 +1,5 @@
   
-Terms of service – G FUEL                                                                                                     
+Terms of service – G FUEL                                                                                              
 
 [Skip to content](#MainContent)  
 
