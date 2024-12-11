@@ -32,7 +32,7 @@ Privacy Policy
 Privacy Policy
 ==============
 
-Last Revised: 20 September 2024
+Last Revised: July 3, 2024
 
 [Download PDF](https://docs.verkada.com/docs/Verkada-Privacy-Policy.pdf)
 
