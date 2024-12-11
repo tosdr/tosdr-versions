@@ -2,6 +2,8 @@
 
 [![Lactanet](https://www.cdn.ca/images/lactanet-header-en.jpg)](https://www.cdn.ca/home.php)
 
+Explore Lactanet's new website for genetic queries, [LactanetGen.ca](https://lactanetgen.ca/)
+
 Wednesday, December 11, 2024 | English Français Español Deutsch
 
 ![Sign In](https://www.cdn.ca/images/ti_signin.gif)
