@@ -263,11 +263,11 @@ Updated: April 25, 2018
 Site Menu
 ---------
 
-* [Health & drug plans](https://www.medicare.gov/health-drug-plans)
 * [Medicare basics](https://www.medicare.gov/basics)
+* [Health & drug plans](https://www.medicare.gov/health-drug-plans)
+* [Drug coverage (Part D)](https://www.medicare.gov/drug-coverage-part-d "Drug coverage (Part D)")
 * [Providers & services](https://www.medicare.gov/providers-services)
 * [What Medicare covers](https://www.medicare.gov/coverage)
-* [Drug coverage (Part D)](https://www.medicare.gov/drug-coverage-part-d "Drug coverage (Part D)")
 * [Site map](https://www.medicare.gov/sitemap "Site map")
 
 Take Action
