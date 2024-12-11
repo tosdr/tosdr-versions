@@ -8,7 +8,7 @@ You are not protected
 
 En
 
-[🇬🇧 English](javascript:;)[🇫🇷 French](javascript:;)[🇩🇪 Deutsch](javascript:;)[🇪🇸 Espanol](javascript:;)[🇷🇺 Русский](javascript:;)
+[🇫🇷 French](javascript:;)[🇩🇪 Deutsch](javascript:;)[🇪🇸 Espanol](javascript:;)[🇷🇺 Русский](javascript:;)[🇬🇧 English](javascript:;)
 
 [Subscribe](https://my.redshieldvpn.com/register)
 
