@@ -398,7 +398,7 @@ _For transfers to (sub-) processors, also describe the specific technical and or
 
 As at the Effective Date of this DPA, Controller has authorized the use of the following Subprocessors listed in [Greenhouse's subprocessors in use](https://www.greenhouse.com/subprocessors-in-use) page.
 
-be\_ixf;ym\_202412 d\_10; ct\_50
+be\_ixf;ym\_202412 d\_11; ct\_50
 
 * be\_ixf; php\_sdk; php\_sdk\_1.4.26.1
 * https://greenhouse-production.herokuapp.com/data-processing-addendum
