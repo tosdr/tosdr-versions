@@ -140,8 +140,6 @@ Games
     
     [RollerCoaster Tycoon](https://atari.com/pages/rollercoaster-tycoon)
     
-    [Atari XP](https://www.atari.com/collections/atari-xp)
-    
     [Atari Recharged](https://www.atari.com/collections/games-recharged)
     
     [Atari Classics](https://www.atari.com/collections/games-atari-classics)
@@ -189,8 +187,6 @@ Featured
     [Yars Rising](https://atari.com/products/yars-rising)
     
     [RollerCoaster Tycoon](https://atari.com/pages/rollercoaster-tycoon)
-    
-    [Atari XP](https://www.atari.com/collections/atari-xp)
     
     [Atari Recharged](https://www.atari.com/collections/games-recharged)
     
@@ -470,6 +466,22 @@ Regular price $131.73
 
 Unit price /  per](https://www.atari.com/products/black-friday-exclusive-2600-console-w-2-joysticks) 
 
+[![Atari Joystick Decanter Set](files/ThumbsUp_-ATAORGDECSET-Image1-291024-Dalia.jpg)
+
+![Atari Joystick Decanter Set](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
+
+Add to cart
+
+Best Seller
+
+##### Atari Joystick Decanter Set
+
+Regular price Sale price $125.00
+
+Regular price $125
+
+Unit price /  per](https://www.atari.com/products/atari-joystick-decanter-set) 
+
 [![Oversized Fuji Hoodie](files/fe661587-106c-4959-86f6-799dd541558bcopy.jpg)
 
 ![Oversized Fuji Hoodie](files/7fd0d636-7aef-475f-8165-f373222012f0copy.jpg)
@@ -513,6 +525,22 @@ Regular price $204.97 Sale price $163.97
 Regular price $163.97
 
 Unit price /  per](https://www.atari.com/products/7800-controller-mega-bundle) 
+
+[![Atari 2600/7800: A Visual Compendium](files/010_Atari_1800x1200_56e7b168-9969-4340-b3ce-d812afe1152f.webp)
+
+![Atari 2600/7800: A Visual Compendium](files/043_Atari_1408x928_7a84c211-fa9b-42af-9342-1e3bd369fb6d.webp)
+
+Add to cart
+
+NEW
+
+##### Atari 2600/7800: A Visual Compendium
+
+Regular price $52 Sale price $52.00
+
+Regular price $52
+
+Unit price /  per](https://www.atari.com/products/atari-2600-7800-a-visual-compendium) 
 
 [![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
 
@@ -746,7 +774,7 @@ Unit price /  per](https://www.atari.com/products/distressed-fuji-tee)     
 
 ![Atari 50 Pocket Player Pro](files/pocket-02.webp)
 
-Add to cart
+Sold out
 
 ##### Atari 50 Pocket Player Pro
 
