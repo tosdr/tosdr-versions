@@ -4,9 +4,7 @@ This is a carousel with auto-rotating slides. Use Next and Previous buttons to n
 
 Take up to 20% off **[stocking stuffers](https://naturesway.com/collections/stocking-stuffers)**. Through 12/20. [Terms apply](https://naturesway.com/pages/legal/#Promotions).
 
-[**Sign up**](#signup) for our mailing list for 20% off your first order. Terms apply.
-
-[**Sign up**](#signup) today to receive 10% off!
+[**Sign up**](#nw-newsletter-subscription-v2) for our mailing list for 20% off your first order. Terms apply.
 
      
 
@@ -1637,8 +1635,6 @@ More Info
 * Choosing a selection results in a full page refresh.
 
        
-
-Chat not available
 
 Some text goes here Open the Real Chat
 
