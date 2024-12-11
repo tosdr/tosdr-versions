@@ -30,13 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/dec6bc0f-108b-492a-90de-0241c9d25465/20241210T210217/dec6bc0f-108b-492a-90de-0241c9d25465_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dec6bc0f-108b-492a-90de-0241c9d25465/20241210T210217/dec6bc0f-108b-492a-90de-0241c9d25465_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/retired-rock-island-teacher-art-display-smith-studio-and-gallery/526-c08499f5-2167-4384-b1cb-5fab68589704)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/121aee24-0c2b-4909-aac2-a8dca6d803fb/20241211T040837/121aee24-0c2b-4909-aac2-a8dca6d803fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/121aee24-0c2b-4909-aac2-a8dca6d803fb/20241211T040837/121aee24-0c2b-4909-aac2-a8dca6d803fb_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-west-coach-paul-flynn-ring-of-honor/526-dd81dbf4-684a-41b2-93e0-c5867617b6cc)
         
-        #### [Retired Rock Island teacher has artwork on display at Geneseo's Smith Studio and Gallery](https://www.wqad.com/article/news/local/the-current/retired-rock-island-teacher-art-display-smith-studio-and-gallery/526-c08499f5-2167-4384-b1cb-5fab68589704)
+        #### [Longtime Davenport West coach gets his Ring of Honor](https://www.wqad.com/article/news/local/davenport-west-coach-paul-flynn-ring-of-honor/526-dd81dbf4-684a-41b2-93e0-c5867617b6cc) [![](https://media.tegna-media.com/assets/WQAD/images/121aee24-0c2b-4909-aac2-a8dca6d803fb/20241211T040837/121aee24-0c2b-4909-aac2-a8dca6d803fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/121aee24-0c2b-4909-aac2-a8dca6d803fb/20241211T040837/121aee24-0c2b-4909-aac2-a8dca6d803fb_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-west-coach-paul-flynn-ring-of-honor/526-dd81dbf4-684a-41b2-93e0-c5867617b6cc)
         
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/crash-semi-truck-hillsdale-rock-island-county/526-d65aa28e-4998-4921-b64c-2f492e5cb84a)
+        #### [Davenport West honors former football coach with a Ring of Honor](https://www.wqad.com/article/news/local/davenport-west-coach-paul-flynn-ring-of-honor/526-dd81dbf4-684a-41b2-93e0-c5867617b6cc) [![](https://media.tegna-media.com/assets/WQAD/images/121aee24-0c2b-4909-aac2-a8dca6d803fb/20241211T040837/121aee24-0c2b-4909-aac2-a8dca6d803fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/121aee24-0c2b-4909-aac2-a8dca6d803fb/20241211T040837/121aee24-0c2b-4909-aac2-a8dca6d803fb_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-west-coach-paul-flynn-ring-of-honor/526-dd81dbf4-684a-41b2-93e0-c5867617b6cc)
         
-        #### [1 dead in head-on collision on I-88 in Rock Island County](https://www.wqad.com/article/news/local/public-safety/crash-semi-truck-hillsdale-rock-island-county/526-d65aa28e-4998-4921-b64c-2f492e5cb84a)
+        #### [Davenport West awards Ring of Honor to former football coach](https://www.wqad.com/article/news/local/davenport-west-coach-paul-flynn-ring-of-honor/526-dd81dbf4-684a-41b2-93e0-c5867617b6cc)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/4796400e-7517-47a4-a65c-8f8e2a5c8c79/20241211T003737/4796400e-7517-47a4-a65c-8f8e2a5c8c79_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4796400e-7517-47a4-a65c-8f8e2a5c8c79/20241211T003737/4796400e-7517-47a4-a65c-8f8e2a5c8c79_360x203.jpg)](https://www.wqad.com/article/news/local/tiktok-ban-2025-small-business-impact-marketing-iowa/526-cbc87636-2bf4-48b0-8ad1-35039ce7215d)
+        
+        #### [Potential TikTok ban could leave Iowa-based small business looking for other marketing options](https://www.wqad.com/article/news/local/tiktok-ban-2025-small-business-impact-marketing-iowa/526-cbc87636-2bf4-48b0-8ad1-35039ce7215d)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +59,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/102465cd-5af8-44c8-801b-afb8334ab461/20241210T230007/102465cd-5af8-44c8-801b-afb8334ab461_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/102465cd-5af8-44c8-801b-afb8334ab461/20241210T230007/102465cd-5af8-44c8-801b-afb8334ab461_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Weather Impact Alert: Coldest air of the season so far arrives Thursday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/CCT/images/fadac9e7-1a11-419a-81d6-4b4a12d3a4d2/20241210T114827/fadac9e7-1a11-419a-81d6-4b4a12d3a4d2_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/fadac9e7-1a11-419a-81d6-4b4a12d3a4d2/20241210T114827/fadac9e7-1a11-419a-81d6-4b4a12d3a4d2_360x203.jpg)](https://www.wqad.com/article/news/nation-world/malibu-brushfire-evacuations-shelter-in-place/507-c95765d5-e4b5-4644-9e0c-2f839b252856)
         
         #### [Homes burn as wind-driven wildfire prompts evacuations in Malibu, California](https://www.wqad.com/article/news/nation-world/malibu-brushfire-evacuations-shelter-in-place/507-c95765d5-e4b5-4644-9e0c-2f839b252856)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/8723cc45-cf1a-4b68-9b53-bcef593569b2/20241210T131424/8723cc45-cf1a-4b68-9b53-bcef593569b2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8723cc45-cf1a-4b68-9b53-bcef593569b2/20241210T131424/8723cc45-cf1a-4b68-9b53-bcef593569b2_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [Weather Impact Alert: Coldest air of the season so far arrives Thursday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -78,9 +81,9 @@ Navigation
         
         #### [Vote for this week's Midwest Technical Institute Score Standout | Week 15](https://www.wqad.com/article/sports/the-score/midwest-technical-institute-score-standout-wqad/526-d485d3df-8cee-4e73-bd43-16b4f8ce1b46)
         
-    *  [![](https://media.tegna-media.com/assets/WOI/images/cdf1079d-8f82-44b0-a9fd-c705574f6ff2/20241209T180146/cdf1079d-8f82-44b0-a9fd-c705574f6ff2_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/cdf1079d-8f82-44b0-a9fd-c705574f6ff2/20241209T180146/cdf1079d-8f82-44b0-a9fd-c705574f6ff2_360x203.jpg)](https://www.wqad.com/article/sports/basketball/ap-womens-top-25-poll-tennessee-enters-iowa-iowa-state/524-0df7ab70-bb96-40a8-aea3-1df02d014cf9)
+    *  [![](https://media.tegna-media.com/assets/WTHR/images/e5056855-8330-4207-ad4c-680eff4c0fe0/20241210T145744/e5056855-8330-4207-ad4c-680eff4c0fe0_16x9.jpg) ![](https://media.tegna-media.com/assets/WTHR/images/e5056855-8330-4207-ad4c-680eff4c0fe0/20241210T145744/e5056855-8330-4207-ad4c-680eff4c0fe0_360x203.jpg)](https://www.wqad.com/article/sports/wnba/caitlin-clark-time-magazine-athlete-of-the-year-indiana-fever-wnba-sponsorships-records-ncaa-career-rookie/531-5a50b862-b338-498c-878a-300050fa9140)
         
-        #### [AP women's poll: Tennessee back in Top 25, Iowa falls in rankings](https://www.wqad.com/article/sports/basketball/ap-womens-top-25-poll-tennessee-enters-iowa-iowa-state/524-0df7ab70-bb96-40a8-aea3-1df02d014cf9)
+        #### [Caitlin Clark is TIME magazine's Athlete of the Year](https://www.wqad.com/article/sports/wnba/caitlin-clark-time-magazine-athlete-of-the-year-indiana-fever-wnba-sponsorships-records-ncaa-career-rookie/531-5a50b862-b338-498c-878a-300050fa9140)
         
     
 * [VERIFY](https://www.wqad.com/verify)
@@ -97,7 +100,7 @@ Navigation
 
 Davenport, IA »
 
-31°
+32°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
