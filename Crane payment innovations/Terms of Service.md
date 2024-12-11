@@ -26,7 +26,6 @@
             
             Software](https://www.cranepi.com/en/products/payment-technology/software)
         
-    
     * #### [Self-Service Solutions](https://www.cranepi.com/en/products/self-service-solutions)
         
         Customised solutions for vending, kiosks, payment automation, including world-leading enterprise software integration
@@ -64,7 +63,6 @@
             
             Custom Coffee](https://www.cranepi.com/en/coffee-reimagined)
         
-    
     * #### [Cash Processing](https://www.cranepi.com/en/products/cash-processing)
         
         Back office solutions to automate and process global currencies, including sorters, counters, ticket imaging and check scanning
@@ -128,7 +126,6 @@
             Protect your investment with maintenance packages](https://service.cranepi.com/)
         * [Self-Service Coin Redemption](https://www.cranepi.com/en/products/self-service-solutions/self-service-coin-redemption/coinmax)
         
-    
     * #### [Self-Service Kiosks](https://www.cranepi.com/en/self-service-kiosks)
         
         Back
@@ -152,7 +149,6 @@
             
             Protect your investment with maintenance packages](https://service.cranepi.com/)
         
-    
     * #### [Gaming and Casino](https://www.cranepi.com/en/gaming-and-casino)
         
         Back
@@ -182,7 +178,6 @@
             
             Protect your investment with maintenance packages](https://service.cranepi.com/)
         
-    
     * #### [Vending](https://www.cranepi.com/en/vending)
         
         Back
@@ -215,7 +210,6 @@
             
             Protect your investment with maintenance packages](https://service.cranepi.com/)
         
-    
     * #### [Financial Institutions](https://www.cranepi.com/en/financial-institutions)
         
         Back
@@ -230,7 +224,6 @@
             
             Protect your investment with maintenance packages](https://service.cranepi.com/)
         
-    
     * #### [Transportation and Parking](https://www.cranepi.com/en/transportation-and-parking)
         
         Back
@@ -284,7 +277,6 @@
             
             MEI Parts](https://www.cranepi.com/en/support#/)
         
-    
     * #### [Cummins Allison](https://www.cranepi.com/en/cummins-allison-support)
         
         Access technical information, contact a rep, find a service center, and access the online store
@@ -310,7 +302,6 @@
             
             Service & Maintenance](https://www.cranepi.com/service-and-maintenance)
         
-    
     * #### [Crane Merchandising Systems](https://www.cranepi.com/en/crane-merchandising-systems-support)
         
         Quick access to the technical tool kit, technical library and VendMax help support websites
@@ -416,7 +407,6 @@ Search
             
             Software](https://www.cranepi.com/en/products/payment-technology/software)
         
-    
     * #### [Self-Service Solutions](https://www.cranepi.com/en/products/self-service-solutions)
         
         Customised solutions for vending, kiosks, payment automation, including world-leading enterprise software integration
@@ -454,7 +444,6 @@ Search
             
             Custom Coffee](https://www.cranepi.com/en/coffee-reimagined)
         
-    
     * #### [Cash Processing](https://www.cranepi.com/en/products/cash-processing)
         
         Back office solutions to automate and process global currencies, including sorters, counters, ticket imaging and check scanning
@@ -518,7 +507,6 @@ Search
             Protect your investment with maintenance packages](https://service.cranepi.com/)
         * [Self-Service Coin Redemption](https://www.cranepi.com/en/products/self-service-solutions/self-service-coin-redemption/coinmax)
         
-    
     * #### [Self-Service Kiosks](https://www.cranepi.com/en/self-service-kiosks)
         
         Back
@@ -542,7 +530,6 @@ Search
             
             Protect your investment with maintenance packages](https://service.cranepi.com/)
         
-    
     * #### [Gaming and Casino](https://www.cranepi.com/en/gaming-and-casino)
         
         Back
@@ -572,7 +559,6 @@ Search
             
             Protect your investment with maintenance packages](https://service.cranepi.com/)
         
-    
     * #### [Vending](https://www.cranepi.com/en/vending)
         
         Back
@@ -605,7 +591,6 @@ Search
             
             Protect your investment with maintenance packages](https://service.cranepi.com/)
         
-    
     * #### [Financial Institutions](https://www.cranepi.com/en/financial-institutions)
         
         Back
@@ -620,7 +605,6 @@ Search
             
             Protect your investment with maintenance packages](https://service.cranepi.com/)
         
-    
     * #### [Transportation and Parking](https://www.cranepi.com/en/transportation-and-parking)
         
         Back
@@ -674,7 +658,6 @@ Search
             
             MEI Parts](https://www.cranepi.com/en/support#/)
         
-    
     * #### [Cummins Allison](https://www.cranepi.com/en/cummins-allison-support)
         
         Access technical information, contact a rep, find a service center, and access the online store
@@ -700,7 +683,6 @@ Search
             
             Service & Maintenance](https://www.cranepi.com/service-and-maintenance)
         
-    
     * #### [Crane Merchandising Systems](https://www.cranepi.com/en/crane-merchandising-systems-support)
         
         Quick access to the technical tool kit, technical library and VendMax help support websites
@@ -911,6 +893,6 @@ Quick Links
 * [Policies](https://www.cranepi.com/en/privacy-policy)
 * [Terms and Conditions](https://www.cranepi.com/en/terms-and-conditions)
 
-[Experience by ![Concentric CX](/images/concentric-cx.png)](http://concentric.cx/) 
+[Experience by ![Concentric CX](/images/concentric-cx.png)](https://concentric.cx/) 
 
 ![](https://px.ads.linkedin.com/collect/?pid=4605972&fmt=gif)
