@@ -1,5 +1,3 @@
-[Wünsche erfüllen bis 4.1.25: 0% finanzieren³¹ ab 55€ bis zu 10 Mon.](https://www.lidl.de/c/0-finanzierung/a10012438)
-
 1. [![Lidl Logo Deutschland](/static/assets/c6855ba1-a17c-468f-b8b0-09fdab67dea7.svg)](https://www.lidl.de/ "Lidl Onlineshop - Online. Immer. Mehr.")
 2. Menü
 3. [Home](https://www.lidl.de/)
