@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up your data to Scaleway](https://www.backup4all.com/how-to-back-up-your-data-to-scaleway-kb.html)  
+* [How to create a full backup](https://www.backup4all.com/how-to-create-a-full-backup-kb.html)  
     
-* [How to backup your data to vCloud Air](https://www.backup4all.com/how-to-backup-your-data-to-vcloud-air-kb.html)  
+* [What are Backup operators?](https://www.backup4all.com/what-are-backup-operators-kb.html)  
     
-* [How to back up data files from Cisco using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-cisco-using-backup4all-kb.html)  
+* [How to restore a backup from Google Cloud Sto ...](https://www.backup4all.com/how-to-restore-a-backup-from-google-cloud-storage-kb.html)  
     
-* [How to back up data files from QNAP using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-qnap-using-backup4all-kb.html)  
+* [Backup MS SQL Server data](https://www.backup4all.com/backup-ms-sql-server-data-kb.html)  
     
-* [How to install Backup4all Monitor](https://www.backup4all.com/how-to-install-backup4all-monitor-kb.html)  
+* [How to Backup to Azure](https://www.backup4all.com/how-to-backup-to-azure-kb.html)  
     
 
 Choose language:
