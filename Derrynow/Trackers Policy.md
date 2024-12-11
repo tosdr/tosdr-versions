@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-10 Dec 2024
+11 Dec 2024
 
 * [Home
     
@@ -268,6 +268,13 @@ ALERT: Irish homes at risk of rat invasion over Christmas season amid warning
 [ALERT: Irish homes at risk of rat invasion over Christmas season amid warning](https://www.derrynow.com/news/national-news/1677056/alert-irish-home-at-risk-of-rat-invasion-over-christmas-season-amid-warning.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1676620/throwback-tuesday-out-and-about-the-white-river-hotel-toome-2014.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)](https://www.derrynow.com/story-telling/pictures---videos/1676620/throwback-tuesday-out-and-about-the-white-river-hotel-toome-2014.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry man charged with attacking neighbour with machete](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with attacking neighbour with machete")](https://www.derrynow.com/news/local-news/1677052/derry-man-charged-with-attacking-neighbour-with-machete.html)
 
 Derry Magistrates' Court
@@ -283,20 +290,6 @@ Derry Magistrates' Court
 
 [Derry Death Notices - Tuesday, December 10, 2024](https://www.derrynow.com/news/deaths/1676621/derry-death-notices-tuesday-december-10-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1676620/throwback-tuesday-out-and-about-the-white-river-hotel-toome-2014.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)](https://www.derrynow.com/story-telling/pictures---videos/1676620/throwback-tuesday-out-and-about-the-white-river-hotel-toome-2014.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch")](https://www.derrynow.com/story-telling/pictures---videos/1676466/in-pictures-50th-anniversary-commemoration-for-oglach-john-mcdaid-and-oglach-ethel-lynch.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch](https://www.derrynow.com/story-telling/pictures---videos/1676466/in-pictures-50th-anniversary-commemoration-for-oglach-john-mcdaid-and-oglach-ethel-lynch.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Search stood down for Monaghan teenager missing since Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Search stood down for Monaghan teenager missing since Saturday")](https://www.derrynow.com/news/national-news/1676842/search-stood-down-for-monaghan-teenager-missing-since-saturday.html)
 
@@ -325,14 +318,12 @@ Enedis crews have arrived from Cherbourg and will help assist ESB Networks teams
 [French crews arrive to assist ESB with power restoration post Storm Darragh](https://www.derrynow.com/news/national-news/1676877/french-crews-arrive-to-assist-esb-with-power-restoration-post-storm-darragh.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Two motorists arrested in Derry for driving-related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two motorists arrested in Derry for driving-related offences")](https://www.derrynow.com/news/local-news/1677145/two-motorists-arrested-in-derry-for-driving-related-offences.html)
-
-PSNI
+[![Derry Christmas: Council confirm service arrangements for festive season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Christmas: Council confirm service arrangements for festive season")](https://www.derrynow.com/news/local-news/1677409/derry-christmas-council-confirm-service-arrangements-for-festive-season.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Two motorists arrested in Derry for driving-related offences](https://www.derrynow.com/news/local-news/1677145/two-motorists-arrested-in-derry-for-driving-related-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Christmas: Council confirm service arrangements for festive season](https://www.derrynow.com/news/local-news/1677409/derry-christmas-council-confirm-service-arrangements-for-festive-season.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Maydown and Strathfoyle Annual Christmas Tree Light Switch On](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Maydown and Strathfoyle Annual Christmas Tree Light Switch On")](https://www.derrynow.com/story-telling/pictures---videos/1677215/in-pictures-maydown-and-strathfoyle-annual-christmas-tree-light-switch-on.html)
 
@@ -340,6 +331,13 @@ PSNI
 
 [IN PICTURES: Maydown and Strathfoyle Annual Christmas Tree Light Switch On](https://www.derrynow.com/story-telling/pictures---videos/1677215/in-pictures-maydown-and-strathfoyle-annual-christmas-tree-light-switch-on.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: 'Daire's Day' coffee morning and football tournament held at Seán Dolan's GAC](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 'Daire's Day' coffee morning and football tournament held at Seán Dolan's GAC")](https://www.derrynow.com/story-telling/derry-sport/1676470/in-pictures-daire-s-day-coffee-morning-and-football-tournament-held-at-sean-dolan-s-gac.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[IN PICTURES: 'Daire's Day' coffee morning and football tournament held at Seán Dolan's GAC](https://www.derrynow.com/story-telling/derry-sport/1676470/in-pictures-daire-s-day-coffee-morning-and-football-tournament-held-at-sean-dolan-s-gac.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,6 +517,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Inner City Trust Annual Christmas Giving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Inner City Trust Annual Christmas Giving")](https://www.derrynow.com/news/local-news/1674983/inner-city-trust-annual-christmas-giving.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Inner City Trust Annual Christmas Giving](https://www.derrynow.com/news/local-news/1674983/inner-city-trust-annual-christmas-giving.html)
+------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Eugenia Devine (Devine Hair & Beauty Salon) accepting her award](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Eugenia Devine (Devine Hair & Beauty Salon) accepting her award")](https://www.derrynow.com/news/county-derry-post/1677073/devine-new-salon-in-the-heart-of-county-derry-village.html)
 
 Eugenia Devine (Devine Hair & Beauty Salon) accepting her award
@@ -528,7 +533,7 @@ Eugenia Devine (Devine Hair & Beauty Salon) accepting her award
 ['Devine' new salon in the heart of County Derry village](https://www.derrynow.com/news/county-derry-post/1677073/devine-new-salon-in-the-heart-of-county-derry-village.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Local youth praised at annual Enagh Youth Forum awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Local youth praised at annual Enagh Youth Forum awards")](https://www.derrynow.com/news/local-news/1674981/local-youth-praised-at-annual-enagh-youth-forum-awards.html)
+[![Local youth praised at annual Enagh Youth Forum awards](https://www.derrynow.com/resizer/165/93/true/2024_12_06/04-12-24_Enagh_Awards_06-1733506755275.jpg--.jpg?1733506756314 "Local youth praised at annual Enagh Youth Forum awards")](https://www.derrynow.com/news/local-news/1674981/local-youth-praised-at-annual-enagh-youth-forum-awards.html)
 
 Mark H Durkan, MLA presenting the Boxing and Self-Defence Awards at the Enagh Youth Forum's Certificate Presentation and Celebration Event. (Photos: Jim McCafferty Photography)
 
@@ -561,13 +566,6 @@ PSNI
 
 [Two motorists arrested in Derry for driving-related offences](https://www.derrynow.com/news/local-news/1677145/two-motorists-arrested-in-derry-for-driving-related-offences.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Security alert following discovery of suspicious object in the Ranaghan Road area of Maghera.](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Security alert following discovery of suspicious object in the Ranaghan Road area of Maghera.")](https://www.derrynow.com/news/county-derry-post/1677284/security-alert-following-discovery-of-suspicious-object-in-the-ranaghan-road-area-of-maghera.html)
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Security alert following discovery of suspicious object in the Ranaghan Road area of Maghera.](https://www.derrynow.com/news/county-derry-post/1677284/security-alert-following-discovery-of-suspicious-object-in-the-ranaghan-road-area-of-maghera.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
