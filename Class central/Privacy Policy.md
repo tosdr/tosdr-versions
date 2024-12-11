@@ -398,11 +398,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [\[2024\] 300+ Chemistry Courses to Expand Your Knowledge of the World](https://www.classcentral.com/report/chemistry-free-online-courses/)
-2. [Online Learning Deals & Discounts](https://www.classcentral.com/report/online-learning-deals/)
-3. [CodeSignal – The Duolingo of Coding Practice](https://www.classcentral.com/report/review-codesignal/)
-4. [10 Best Emotional Intelligence Courses for 2024](https://www.classcentral.com/report/best-emotional-intelligence-courses/)
-5. [2U Abandons Bootcamp Business, Announces More Layoffs](https://www.classcentral.com/report/2u-axes-trilogy-bootcamps-layoffs/)
+1. [9 Best Paleontology Courses for 2024](https://www.classcentral.com/report/best-paleontology-courses/)
+2. [7 Best Microsoft Access Courses for 2024](https://www.classcentral.com/report/best-microsoft-access-courses/)
+3. [Guide: How to Sign up for Coursera Courses for Free](https://www.classcentral.com/report/coursera-signup-for-free/)
+4. [\[2024\] 300+ Chemistry Courses to Expand Your Knowledge of the World](https://www.classcentral.com/report/chemistry-free-online-courses/)
+5. [Online Learning Deals & Discounts](https://www.classcentral.com/report/online-learning-deals/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,11 +412,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. machine learning
+1. project management
     
-2. trading
+2. web development
     
-3. html
+3. machine learning
     
 
 Popular subjects
