@@ -205,24 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Twelve More Exclusive Star Wars Characters Revealed!](https://www.somethingawful.com/news/star-wars-cards/1/)
-* [What's Cookin'?](https://www.somethingawful.com/email-pranks/email-spam-whats/)
-* [I'm So Goddamn Skinny!](https://www.somethingawful.com/email-pranks/email-spam-im/)
-* [Cinema Paridiso](https://www.somethingawful.com/email-pranks/email-spam-cinema/1/)
-* [AwfulVision: What Would Dick & Nut Do?](https://www.somethingawful.com/awfulvision/alexyss-blob-ugly/1/)
+* [Children's Books](https://www.somethingawful.com/photoshop-phriday/childrens-books/1/)
+* [Hel-Looks SWAT](https://www.somethingawful.com/fashion-swat/hel-looks-swat/1/)
+* [LAME CHANGE](https://www.somethingawful.com/levi-johnston/game-change-palin/1/)
+* [MegaBop 1996](https://www.somethingawful.com/awful-movie-database/megabop-1996/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Something I never got about the movie Knives Out. spoilers](http://forums.somethingawful.com/showthread.php?threadid=4077246 "Something I never got about the movie Knives Out. spoilers")
 * ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Ideas to make the Something Awful Forums really "pop" in 2025](http://forums.somethingawful.com/showthread.php?threadid=4077252 "Ideas to make the Something Awful Forums really "pop" in 2025")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Something I never got about the movie Knives Out. spoilers](http://forums.somethingawful.com/showthread.php?threadid=4077246 "Something I never got about the movie Knives Out. spoilers")
 
 ### Random Articles
 
-* [QUEER VAMPIRES!!!](https://www.somethingawful.com/awful-links/awful-link-1116/)
-* [The Something Awful Guide To Men’s Fashion, Fall 2016](https://www.somethingawful.com/news/fall-2016-fashion/)
-* [INSULTINGLY STUPID MOVIE PHYSICS](https://www.somethingawful.com/awful-links/awful-link-3871/)
-* [Some Stuff We Liked in 2012](https://www.somethingawful.com/garbage-day/best-music-2012/1/)
-* [You Don't Belong Here!](https://www.somethingawful.com/photoshop-phriday/you-dont-belong/1/)
+* [The Bitcoin Revolution!](https://www.somethingawful.com/awful-things-sale/bitcoin-revolution/)
+* [Religious Toys](https://www.somethingawful.com/photoshop-phriday/religious-toys/1/)
+* [A look at life after the apocalypse](https://www.somethingawful.com/news/look-at-life/)
+* [WootBoom's Refurbished Item Grading System](https://www.somethingawful.com/news/wootboom-condition-refurbished/)
+* [Evidence Timeline](https://www.somethingawful.com/awful-links/awful-link-2152/)
 
 [Random!](https://www.somethingawful.com/random/)
 
