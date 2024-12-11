@@ -186,8 +186,6 @@ Discover the hottest items flying off the shelves.
     
     ### [MiSole Acupuncture Insoles - Natural Relief](https://www.rangextd.com/products/mindinsole)
     
-    Out of stock
-    
     $119.99 $49.99
     
 * Sale -50% [![Snapshot Action Cam - Adventure Ready, Capture the Moment](//savvysmartdeals.com/cdn/shop/files/stack.jpg?v=1727161028&width=465)![Snapshot Action Cam - Adventure Ready, Capture the Moment](//savvysmartdeals.com/cdn/shop/files/Stack4.jpg?v=1727161028&width=465)](https://www.rangextd.com/products/snapshot-camera)
@@ -232,11 +230,11 @@ Don't Miss Out on Must-Have Devices & Unique Items!
     
     $111.09 $49.99
     
-* Sale -50% [![Horse Power Scrubby - The Game-Changer for Effortless Cleaning](//savvysmartdeals.com/cdn/shop/files/image-15-_png.webp?v=1730432137&width=465)![Horse Power Scrubby - The Game-Changer for Effortless Cleaning](//savvysmartdeals.com/cdn/shop/files/img_1-1.gif?v=1730432137&width=465)](https://www.rangextd.com/products/horse-power-scrubby)
+* Sale -51% [![Heatwell - Instant Warmth at Your Fingertips](//savvysmartdeals.com/cdn/shop/files/61IXoMk1xoL._AC_SL1500.jpg?v=1733914109&width=465)![Heatwell - Instant Warmth at Your Fingertips](//savvysmartdeals.com/cdn/shop/files/711atCM7FoL._AC_SL1500.jpg?v=1733914109&width=465)](https://www.rangextd.com/products/heatwell-instant-warmth-at-your-fingertips)
     
-    ### [Horse Power Scrubby - The Game-Changer for Effortless Cleaning](https://www.rangextd.com/products/horse-power-scrubby)
+    ### [Heatwell - Instant Warmth at Your Fingertips](https://www.rangextd.com/products/heatwell-instant-warmth-at-your-fingertips)
     
-    $110.99 $55.99
+    $100.99 $49.99
     
 
 * ![](//savvysmartdeals.com/cdn/shop/files/logo-fox.png?v=1720582128&width=150)
