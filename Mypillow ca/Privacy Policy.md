@@ -119,13 +119,15 @@ Apply
 
 [](https://www.mypillow.com/couch-and-recliner-pillows)
 
+[](https://www.mypillow.com/bedding)
+
 [](https://www.mypillow.ca/clothing)
 
 [](https://www.mypillow.com/bedding/blankets)
 
 [](https://www.mypillow.com/slipper-specials)
 
-[](https://www.mypillow.com/smoothtoe-socks)
+[](https://www.mypillow.com/mattresses)
 
 [](https://www.mypillow.com/bath/mypillow-bath-robes)
 
@@ -136,8 +138,6 @@ Apply
 [](https://www.mypillow.com/pet)
 
 [](https://www.mypillow.com/pet)
-
-[](https://www.mypillow.com/mattresses)
 
 [SAVE up to 80% with promo code
 
@@ -163,6 +163,8 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
 
 SHOP NOW](https://www.mypillow.com/hannity-new)
 
+[](https://www.mypillow.com/smoothtoe-socks)
+
 [](https://www.mypillow.com/gift-cards)
 
 [](https://www.mypillow.ca/mystore-general-redirect)
@@ -172,8 +174,6 @@ SHOP NOW](https://www.mypillow.com/hannity-new)
 [](https://www.mypillow.com/clothing/made-in-america-socks-category)
 
 [](https://www.mypillow.com/mystore-gummies)
-
-[](https://www.mypillow.ca/clothing)
 
 ### Discover our Guarantee
 
