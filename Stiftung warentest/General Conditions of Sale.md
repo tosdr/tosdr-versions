@@ -655,21 +655,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 * [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
 * [Saugroboter im Test: Die besten Saug- und Wischroboter für Teppich und Hartboden](https://www.test.de/Saugroboter-im-Test-4806685-0/ "Saugroboter im Test - Die besten Saug- und Wischroboter für Teppich und Hartboden")
-* [Hausrat­versicherung im Vergleich: So versichern Sie Ihren Hausrat gut und günstig](https://www.test.de/Hausratversicherung-Vergleich-5069958-0/ "Hausratversicherung im Vergleich - So versichern Sie Ihren Hausrat gut und günstig")
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Beratung zum Augen­lasern im Test: Trübe Bilanz](https://www.test.de/augenlasern-beratung-test-1401229-0/ "Beratung zum Augenlasern im Test - Trübe Bilanz")
-* [Endometriose: Gegen die Qual – neue Therapien lindern Beschwerden](https://www.test.de/Endometriose-neue-Therapien-lindern-Beschwerden-6091533-0/ "Endometriose - Gegen die Qual – neue Therapien lindern Beschwerden")
-* [Gaming-Head­sets im Test: Die besten Kopf­hörer zum Zocken](https://www.test.de/Gaming-Headsets-im-Test-Die-besten-Kopfhoerer-zum-Zocken-6173736-0/ "Gaming-Headsets im Test - Die besten Kopfhörer zum Zocken")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
-* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Immobilien: Colonia-Anleger wurden wohl geprellt](https://www.test.de/Immobilien-Colonia-Anleger-wurden-wohl-geprellt-6126446-0/ "Immobilien - Colonia-Anleger wurden wohl geprellt")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Quetschies im Test: Gut, aber nicht fürs Dauer­nuckeln](https://www.test.de/Quetschies-im-Test-Gut-aber-nicht-fuers-Dauernuckeln-6177423-0/ "Quetschies im Test - Gut, aber nicht fürs Dauernuckeln")
 
 Weitere Informationen
 
@@ -3073,21 +3073,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 * [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
 * [Saugroboter im Test: Die besten Saug- und Wischroboter für Teppich und Hartboden](https://www.test.de/Saugroboter-im-Test-4806685-0/ "Saugroboter im Test - Die besten Saug- und Wischroboter für Teppich und Hartboden")
-* [Hausrat­versicherung im Vergleich: So versichern Sie Ihren Hausrat gut und günstig](https://www.test.de/Hausratversicherung-Vergleich-5069958-0/ "Hausratversicherung im Vergleich - So versichern Sie Ihren Hausrat gut und günstig")
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Beratung zum Augen­lasern im Test: Trübe Bilanz](https://www.test.de/augenlasern-beratung-test-1401229-0/ "Beratung zum Augenlasern im Test - Trübe Bilanz")
-* [Endometriose: Gegen die Qual – neue Therapien lindern Beschwerden](https://www.test.de/Endometriose-neue-Therapien-lindern-Beschwerden-6091533-0/ "Endometriose - Gegen die Qual – neue Therapien lindern Beschwerden")
-* [Gaming-Head­sets im Test: Die besten Kopf­hörer zum Zocken](https://www.test.de/Gaming-Headsets-im-Test-Die-besten-Kopfhoerer-zum-Zocken-6173736-0/ "Gaming-Headsets im Test - Die besten Kopfhörer zum Zocken")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
-* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Immobilien: Colonia-Anleger wurden wohl geprellt](https://www.test.de/Immobilien-Colonia-Anleger-wurden-wohl-geprellt-6126446-0/ "Immobilien - Colonia-Anleger wurden wohl geprellt")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Quetschies im Test: Gut, aber nicht fürs Dauer­nuckeln](https://www.test.de/Quetschies-im-Test-Gut-aber-nicht-fuers-Dauernuckeln-6177423-0/ "Quetschies im Test - Gut, aber nicht fürs Dauernuckeln")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3129,39 +3129,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 * [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
 * [Saugroboter im Test: Die besten Saug- und Wischroboter für Teppich und Hartboden](https://www.test.de/Saugroboter-im-Test-4806685-0/ "Saugroboter im Test - Die besten Saug- und Wischroboter für Teppich und Hartboden")
-* [Hausrat­versicherung im Vergleich: So versichern Sie Ihren Hausrat gut und günstig](https://www.test.de/Hausratversicherung-Vergleich-5069958-0/ "Hausratversicherung im Vergleich - So versichern Sie Ihren Hausrat gut und günstig")
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Beratung zum Augen­lasern im Test: Trübe Bilanz](https://www.test.de/augenlasern-beratung-test-1401229-0/ "Beratung zum Augenlasern im Test - Trübe Bilanz")
-* [Endometriose: Gegen die Qual – neue Therapien lindern Beschwerden](https://www.test.de/Endometriose-neue-Therapien-lindern-Beschwerden-6091533-0/ "Endometriose - Gegen die Qual – neue Therapien lindern Beschwerden")
-* [Gaming-Head­sets im Test: Die besten Kopf­hörer zum Zocken](https://www.test.de/Gaming-Headsets-im-Test-Die-besten-Kopfhoerer-zum-Zocken-6173736-0/ "Gaming-Headsets im Test - Die besten Kopfhörer zum Zocken")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
-* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Immobilien: Colonia-Anleger wurden wohl geprellt](https://www.test.de/Immobilien-Colonia-Anleger-wurden-wohl-geprellt-6126446-0/ "Immobilien - Colonia-Anleger wurden wohl geprellt")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Quetschies im Test: Gut, aber nicht fürs Dauer­nuckeln](https://www.test.de/Quetschies-im-Test-Gut-aber-nicht-fuers-Dauernuckeln-6177423-0/ "Quetschies im Test - Gut, aber nicht fürs Dauernuckeln")
 
 Neueste Tests
 
+* [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 * [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
 * [Saugroboter im Test: Die besten Saug- und Wischroboter für Teppich und Hartboden](https://www.test.de/Saugroboter-im-Test-4806685-0/ "Saugroboter im Test - Die besten Saug- und Wischroboter für Teppich und Hartboden")
-* [Hausrat­versicherung im Vergleich: So versichern Sie Ihren Hausrat gut und günstig](https://www.test.de/Hausratversicherung-Vergleich-5069958-0/ "Hausratversicherung im Vergleich - So versichern Sie Ihren Hausrat gut und günstig")
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Beratung zum Augen­lasern im Test: Trübe Bilanz](https://www.test.de/augenlasern-beratung-test-1401229-0/ "Beratung zum Augenlasern im Test - Trübe Bilanz")
-* [Endometriose: Gegen die Qual – neue Therapien lindern Beschwerden](https://www.test.de/Endometriose-neue-Therapien-lindern-Beschwerden-6091533-0/ "Endometriose - Gegen die Qual – neue Therapien lindern Beschwerden")
-* [Gaming-Head­sets im Test: Die besten Kopf­hörer zum Zocken](https://www.test.de/Gaming-Headsets-im-Test-Die-besten-Kopfhoerer-zum-Zocken-6173736-0/ "Gaming-Headsets im Test - Die besten Kopfhörer zum Zocken")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [Pauschalr­eisen: Insolventer Reise­ver­anstalter FTI – alle Reisen abge­sagt](https://www.test.de/Pauschalreisen-Reiseveranstalter-FTI-insolvent-was-das-fuer-Kunden-heisst-6125329-0/ "Pauschalreisen - Insolventer Reiseveranstalter FTI – alle Reisen abgesagt")
-* [Gaspreisbremse-Rechner: So viel bringt die Gaspreisbremse](https://www.test.de/Gaspreisbremse-Rechner-So-viel-bringt-die-Gaspreisbremse-5978162-0/ "Gaspreisbremse-Rechner - So viel bringt die Gaspreisbremse")
+* [Rohgold: Rohe Gold­klumpen als Geld­anlage?](https://www.test.de/Rohgold-Rohe-Goldklumpen-als-Geldanlage-6019655-0/ "Rohgold - Rohe Goldklumpen als Geldanlage?")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Immobilien: Colonia-Anleger wurden wohl geprellt](https://www.test.de/Immobilien-Colonia-Anleger-wurden-wohl-geprellt-6126446-0/ "Immobilien - Colonia-Anleger wurden wohl geprellt")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Quetschies im Test: Gut, aber nicht fürs Dauer­nuckeln](https://www.test.de/Quetschies-im-Test-Gut-aber-nicht-fuers-Dauernuckeln-6177423-0/ "Quetschies im Test - Gut, aber nicht fürs Dauernuckeln")
 
 Stiftung Warentest
 
