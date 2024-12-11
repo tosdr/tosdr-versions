@@ -77,9 +77,8 @@ These Tracking Technologies are necessary for our Website to function and cannot
 
 | Name | Provider | Purpose | Duration |
 | --- | --- | --- | --- |
-| Path | Hexasoft (first-party cookie) via the Website | This cookie is used to identify and store user session information. | session |
-| \_\_SECURE-SESSIONID | This cookie is used to identify and store user session information. | session |
-| first\_visit | This cookie is used to store when the user first visited the website. | 1 year |
+| \_\_SECURE-SESSIONID | fraudlabspro.com | This cookie is used to identify and store user session information. | session |
+| first\_visit | fraudlabspro.com | This cookie is used to store when the user first visited the website. | 1 year |
 
 ### Performance Tracking Technologies
 
@@ -87,13 +86,13 @@ These Tracking Technologies allow us, among other things, to count Website visit
 
 | Name | Provider | Purpose | Duration |
 | --- | --- | --- | --- |
-| \_ga | Hexasoft  <br>(first-party cookie) | Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors. | 1 year 1 month 4 days |
-| \_gcl\_au | Google Tag Manager sets the cookie to experiment advertisement efficiency of websites using their services. | 3 months |
-| \_ga\_\* | Google Analytics sets this cookie to store and count page views. | 1 year 1 month 4 days |
-| \_gat\_UA-\* | Google Analytics sets this cookie for user behaviour tracking. | 1 minute |
-| \_gid | Google Analytics sets this cookie to store information on how visitors use a website while also creating an analytics report of the website's performance. Some of the collected data includes the number of visitors, their source, and the pages they visit anonymously. | 1 day |
-| \_uetsid | Bing Ads sets this cookie to engage with a user that has previously visited the website. | 1 day |
-| \_uetvid | Bing Ads sets this cookie to engage with a user that has previously visited the website. | 1 year 24 days |
+| \_ga | fraudlabspro.com | Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors. | 1 year 1 month 4 days |
+| \_ga\_\* | fraudlabspro.com | Google Analytics sets this cookie to store and count page views. | 1 year 1 month 4 days |
+| \_gid | fraudlabspro.com | Google Analytics sets this cookie to store information on how visitors use a website while also creating an analytics report of the website's performance. Some of the collected data includes the number of visitors, their source, and the pages they visit anonymously. | 1 day |
+| \_uetsid | fraudlabspro.com | Bing Ads sets this cookie to engage with a user that has previously visited the website. | 1 day |
+| \_uetvid | fraudlabspro.com | Bing Ads sets this cookie to engage with a user that has previously visited the website. | 1 year 24 days |
+| \_uetsid\_exp | fraudlabspro.com | Stores the expiration timestamp for the \_uetsid cookie. | never |
+| \_uetvid\_exp | fraudlabspro.com | Stores the expiration timestamp of the \_uetvid cookie. | never |
 
 ### Targeting Tracking Technologies
 
@@ -101,8 +100,7 @@ These Tracking Technologies may be used on our Website by our advertising partne
 
 | Name | Provider | Purpose | Duration |
 | --- | --- | --- | --- |
-| MUID | Bing.com  <br>(third-party cookie) | Bing sets this cookie to recognise unique web browsers visiting Microsoft sites. This cookie is used for advertising, site analytics, and other operations. | 1 year 24 days |
-| test\_cookie | DoubleClick (Google)  <br>(third-party cookie) | doubleclick.net sets this cookie to determine if the user's browser supports cookies. | 15 minutes |
+| MUID | bing.com | Bing sets this cookie to recognise unique web browsers visiting Microsoft sites. This cookie is used for advertising, site analytics, and other operations. | 1 year 24 days |
 
 Information Collected through the FraudLabs Pro Agent JavaScript
 ----------------------------------------------------------------
