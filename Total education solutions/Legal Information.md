@@ -4,7 +4,7 @@
 
 * [Blog](https://www.tes.com/for-schools/blog)
     
-* [Tes Awards for International Schools](https://www.tes.com/schools-awards)
+* [Tes Awards for International Schools](https://www.tes.com/schools-awards/international)
     
 * [Contact Us](https://www.tes.com/contact)
     
@@ -112,7 +112,7 @@ TES Close
     
 * [Blog](https://www.tes.com/for-schools/blog)
     
-* [Tes Awards for International Schools](https://www.tes.com/schools-awards)
+* [Tes Awards for International Schools](https://www.tes.com/schools-awards/international)
     
 * [Contact Us](https://www.tes.com/contact)
     
