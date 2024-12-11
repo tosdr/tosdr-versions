@@ -190,7 +190,7 @@ terms/terms\_of\_service.txt · Last modified: 2017/11/12 20:02 by 127.0.0.1
 
 * [Old revisions](https://www.zotero.org/support/terms/terms_of_service?do=revisions "Old revisions [o]")
 
-![](/support/lib/exe/taskrunner.php?id=terms%3Aterms_of_service&1733914100)
+![](/support/lib/exe/taskrunner.php?id=terms%3Aterms_of_service&1733936192)
 
 * [Blog](https://www.zotero.org/blog/)
 * [Forums](https://forums.zotero.org/categories/)
