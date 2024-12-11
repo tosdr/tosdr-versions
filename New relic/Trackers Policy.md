@@ -256,11 +256,11 @@ Submit
     
     Stay ahead with essential observability insights! Read the report now.](https://newrelic.com/resources/report/observability-forecast/2024)
     
-    [![New Relic Now SVG](/sites/default/files/2024-09/LOGO-white_0.svg)
+    [![Blueprint ](/sites/default/files/2024-12/O11yBlueprintSVG%20%282%29.svg)
     
-    New Relic Now
+    Observability Blueprint
     
-    See the future of observability. On-demand access available now.](https://newrelic.com/event/new-relic-now-on-demand)
+    This is your roadmap to better digital experiences.](https://newrelic.com/customers/observability-blueprint)
     
     1
     
