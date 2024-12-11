@@ -30,8 +30,10 @@
             
             * [2025 Annual Peacebuilding Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training.html)
                 
+                * [General Information](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/general-information.html)
                 * [MPI 2025 Application](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-application.html)
-                
+                * [MPI 2025 Document Submission](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-document-submission.html)
+                * [MPI 2025 Payment Information](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-payment-information.html)
                 * [MPI 2025 Volunteer Applications](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-volunteers-applications.html)
                 * [MPI 2025 Annual Training Assistant Application](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-annual-training-assistant-application.html)
                 
@@ -273,7 +275,10 @@ These Terms shall be governed by, and construed in accordance with, the laws of 
     * [Education and Training](https://www.mpiasia.net/programs/training.html)
         * [Annual Peacebuilding Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training.html)
             * [2025 Annual Peacebuilding Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training.html)
+                * [General Information](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/general-information.html)
                 * [MPI 2025 Application](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-application.html)
+                * [MPI 2025 Document Submission](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-document-submission.html)
+                * [MPI 2025 Payment Information](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-payment-information.html)
                 * [MPI 2025 Volunteer Applications](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-volunteers-applications.html)
                 * [MPI 2025 Annual Training Assistant Application](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-annual-training-assistant-application.html)
             * [Inside the Annual Training](https://www.mpiasia.net/programs/training/annual-peacebuilding-training/inside-the-annual-training.html)
