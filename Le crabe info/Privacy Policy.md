@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 362 utilisateurs actifs
+##### 625 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Windows 11 24H2 : nouvelle incompatibilité, cette fois avec des jeux Ubisoft (Assassin's Creed, Star Wars Outlaws...)](https://lecrabeinfo.net/windows-11-24h2-nouvelle-incompatibilite-cette-fois-avec-des-jeux-ubisoft-assassins-creed-star-wars-outlaws.html)
 * [Une faille de sécurité zero-day affecte toutes les versions de Windows, y compris Windows 11 24H2](https://lecrabeinfo.net/une-faille-de-securite-zero-day-affecte-toutes-les-versions-de-windows-y-compris-windows-11-24h2.html)
 * [Microsoft recommande toujours l’outil "Sauvegarder et restaurer" de Windows 7... sur Windows 11 !](https://lecrabeinfo.net/microsoft-recommande-toujours-loutil-sauvegarder-et-restaurer-de-windows-7-sur-windows-11.html)
-* [Windows 11 24H2 : Microsoft confirme des bugs importants avec l'horloge et l'audio USB](https://lecrabeinfo.net/windows-11-24h2-microsoft-confirme-des-bugs-importants-avec-lhorloge-et-laudio-usb.html)
 
 ### Tendance
 
