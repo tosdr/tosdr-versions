@@ -216,7 +216,7 @@ As noted above, Google owns the Dart trademarks, but we license them so they can
 
 At the same time, it's important to make sure that people don't use the marks in ways that could cause confusion or otherwise misuse the marks, so we have prepared [brand guidelines](https://dart.dev/brand) that describe the allowed uses of the marks. Our goal in protecting the Dart trademarks is to benefit the entire community by ensuring that the marks are only used in ways that are consistent with Google's mission to provide a free and open source SDK.
 
-Unless stated otherwise, the documentation on this site reflects Dart 3.5.4. Page last updated on 2024-07-03. [View source](https://github.com/dart-lang/site-www/tree/main/src/content/terms.md) or [report an issue](https://github.com/dart-lang/site-www/issues/new?template=1_page_issue.yml&page-url=https://dart.dev/terms/&page-source=https://github.com/dart-lang/site-www/tree/main/src/content/terms.md "Report an issue with this page").
+Unless stated otherwise, the documentation on this site reflects Dart 3.6.0. Page last updated on 2024-07-03. [View source](https://github.com/dart-lang/site-www/tree/main/src/content/terms.md) or [report an issue](https://github.com/dart-lang/site-www/issues/new?template=1_page_issue.yml&page-url=https://dart.dev/terms/&page-source=https://github.com/dart-lang/site-www/tree/main/src/content/terms.md "Report an issue with this page").
 
 [![Dart](/assets/img/logo/logo-white-text.svg)](https://dart.dev/ "Dart")
 
