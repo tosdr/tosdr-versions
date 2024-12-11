@@ -124,19 +124,19 @@ last week
 Trending Apps
 =============
 
-[NIELIT CCC](https://nielit-ccc.apps112.com/ "Continue to app")
+[PMI India Events](https://pmi-india-events-ios.apps112.com/ "Continue to app")
 
-[Angry Lion City Attack: Wild Animal Games 2020](https://angry-lion-city-attack-wild-animal-games-2020.apps112.com/ "Continue to app")
+[Pride New Orleans Celebration](https://pride-new-orleans-celebration-ios.apps112.com/ "Continue to app")
+
+[Silk Avia](https://silk-avia-ios.apps112.com/ "Continue to app")
+
+[RevivalTV](https://revivaltv-633.apps112.com/ "Continue to app")
+
+[NIELIT CCC](https://nielit-ccc.apps112.com/ "Continue to app")
 
 [RM Easimaths](https://rm-easimaths.apps112.com/ "Continue to app")
 
-[Darkonis - Icon Pack](https://darkonis-icon-pack.apps112.com/ "Continue to app")
-
-[Quick Receipt Software for Mac](https://quick-receipt-software-for-mac.apps112.com/ "Continue to app")
-
-[Andrognito - Hide Files, Photo](https://andrognito-2.apps112.com/ "Continue to app")
-
-[Muhammad Hussein Amer Quran](https://muhammad-hussein-amer-quran.apps112.com/ "Continue to app")
+[Happy Thanksgiving Messages](https://happy-thanksgiving-messages.apps112.com/ "Continue to app")
 
   
 
