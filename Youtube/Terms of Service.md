@@ -10,6 +10,8 @@
 Terms of Service
 ================
 
+#### View the Terms of Service in other languages: [հայերեն](https://www.youtube.com/t/terms?hl=hy&override_hl=1), [ខ្មែរ](https://www.youtube.com/t/terms?hl=km&override_hl=1), [فارسی](https://www.youtube.com/t/terms?hl=fa&override_hl=1), [ລາວ](https://www.youtube.com/t/terms?hl=lo&override_hl=1), [Hmong](https://www.youtube.com/t/terms?hl=hmn&override_hl=1), [ium](https://www.youtube.com/t/terms?hl=ium&override_hl=1), [Filipino](https://www.youtube.com/t/terms?hl=fil&override_hl=1), [العربية](https://www.youtube.com/t/terms?hl=ar&override_hl=1), [中文（中国）](https://www.youtube.com/t/terms?hl=zh-cn&override_hl=1), [中文（台灣）](https://www.youtube.com/t/terms?hl=zh-tw&override_hl=1), [हिन्दी](https://www.youtube.com/t/terms?hl=hi&override_hl=1), [日本語](https://www.youtube.com/t/terms?hl=ja&override_hl=1), [한국어](https://www.youtube.com/t/terms?hl=ko&override_hl=1), [ਪੰਜਾਬੀ](https://www.youtube.com/t/terms?hl=pa&override_hl=1), [Русский](https://www.youtube.com/t/terms?hl=ru&override_hl=1), [Español (Latinoamérica)](https://www.youtube.com/t/terms?hl=es-419&override_hl=1), [ไทย](https://www.youtube.com/t/terms?hl=th&override_hl=1), [Українська](https://www.youtube.com/t/terms?hl=uk&override_hl=1), [Tiếng Việt](https://www.youtube.com/t/terms?hl=vi&override_hl=1), and [English](https://www.youtube.com/t/terms?hl=en&override_hl=1)
+
 **What’s in these terms?**
 ==========================
 
