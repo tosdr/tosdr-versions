@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/economie/duurzaam/buitengewone-varkens-een-mooi-initiatief/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/open-brief-aan-koning-willem-alexander/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
