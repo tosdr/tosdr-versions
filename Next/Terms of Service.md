@@ -1,6 +1,6 @@
 6.0.12
 
-1733927911567
+1733952505389
 
                                       
 
@@ -12,7 +12,7 @@ en
 
 4.0.1
 
-1733928574948
+1733952918278
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1733928574579
+1733952366281
 
 You need to enable JavaScript to run this app.
 
@@ -480,6 +480,103 @@ The use of a nextpay card (formally known as Directory Card) or the nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### Yves Saint Laurent Promotion
+
+* The Yves Saint Laurent Free Gift will be automatically added to bag when you buy any 2 selected Yves Saint Laurent products.
+* The Yves Saint Laurent Gift contains:
+    * Holiday Notebook
+    * Mini Mascara
+* To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount.
+* This offer applies to selected indicated items when purchased at full price.
+* The Yves Saint Laurent Gift will be automatically added once 2 qualifying Yves Saint Laurent products have been added to the bag on either the Product or Shopping Bag Pages.
+* The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
+* This offer is not available to staff.
+* Offer applies while stocks last.
+
+### Next Promotion
+
+* The Next Free Gift will be automatically added to bag when you buy any Next Fragrance.
+* The Next Gift contains:
+    * Watermelon & Aloe Body Scrub
+* To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount.
+* This offer applies to selected indicated items when purchased at full price.
+* The Next Gift will be automatically added once 1 qualifying Next product has been added to the bag on either the Product or Shopping Bag Pages.
+* The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
+* This offer is not available to staff.
+* Offer applies while stocks last.
+
+### Next Promotion
+
+* The Next Free Gift will be automatically added to bag when you buy any Next Fragrance.
+* The Next Gift contains:
+    * Watermelon & Aloe Body Butter
+* To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount.
+* This offer applies to selected indicated items when purchased at full price.
+* The Next Gift will be automatically added once 1 qualifying Next product has been added to the bag on either the Product or Shopping Bag Pages.
+* The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
+* This offer is not available to staff.
+* Offer applies while stocks last.
+
+### Next Promotion
+
+* The Next Free Gift will be automatically added to bag when you buy any Next Fragrance.
+* The Next Gift contains:
+    * Strawberry & Acai Body Scrub
+* To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount.
+* This offer applies to selected indicated items when purchased at full price.
+* The Next Gift will be automatically added once 1 qualifying Next product has been added to the bag on either the Product or Shopping Bag Pages.
+* The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
+* This offer is not available to staff.
+* Offer applies while stocks last.
+
+### Next Promotion
+
+* The Next Free Gift will be automatically added to bag when you buy any Next Fragrance.
+* The Next Gift contains:
+    * Strawberry & Acai Body Butter
+* To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount.
+* This offer applies to selected indicated items when purchased at full price.
+* The Next Gift will be automatically added once 1 qualifying Next product has been added to the bag on either the Product or Shopping Bag Pages.
+* The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
+* This offer is not available to staff.
+* Offer applies while stocks last.
+
+### Next Promotion
+
+* The Next Free Gift will be automatically added to bag when you buy any Next Fragrance.
+* The Next Gift contains:
+    * Lemon & Pineapple Body Scrub
+* To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount.
+* This offer applies to selected indicated items when purchased at full price.
+* The Next Gift will be automatically added once 1 qualifying Next product has been added to the bag on either the Product or Shopping Bag Pages.
+* The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
+* This offer is not available to staff.
+* Offer applies while stocks last.
+
+### Next Promotion
+
+* The Next Free Gift will be automatically added to bag when you buy any Next Fragrance.
+* The Next Gift contains:
+    * Lemon & Pineapple Body Butter
+* To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount.
+* This offer applies to selected indicated items when purchased at full price.
+* The Next Gift will be automatically added once 1 qualifying Next product has been added to the bag on either the Product or Shopping Bag Pages.
+* The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
+* This offer is not available to staff.
+* Offer applies while stocks last.
+
+### Next Promotion
+
+* The Next Free Gift will be automatically added to bag when you buy any Next Fragrance.
+* The Next Gift contains:
+    * Coconut & Vanilla Body Scrub
+* To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount.
+* This offer applies to selected indicated items when purchased at full price.
+* The Next Gift will be automatically added once 1 qualifying Next product has been added to the bag on either the Product or Shopping Bag Pages.
+* The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
+* This offer is not available to staff.
+* Offer applies while stocks last.
 
 ### Up to £61.50 off Selected Babyliss Promotion
 
@@ -3329,7 +3426,7 @@ You need to enable JavaScript to run this app.
 
 4.0.1
 
-1733928501002
+1733952357889
 
 ##### Our Social Networks
 
