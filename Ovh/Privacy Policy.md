@@ -8,6 +8,14 @@ Open menu
     * [No pending order](https://ca.ovh.com/auth/?onsuccess=https%3A%2F%2Fca.ovh.com%2Fmanager%2Fdedicated%2F%23%2Fbilling%2Forders&ovhSubsidiary=WE)
     * [No pending ticket](https://ca.ovh.com/auth/?onsuccess=https%3A%2F%2Fca.ovh.com%2Fmanager%2Fdedicated%2F%23%2Fsupport%2Ftickets&ovhSubsidiary=WE)
 * [My customer account](https://ca.ovh.com/auth/?onsuccess=https%3A//ca.ovh.com/manager&ovhSubsidiary=WE "OVHcloud Control Panel")
+    * Back to menu
+    * [My customer account](https://ca.ovh.com/auth/?onsuccess=https%3A//ca.ovh.com/manager&ovhSubsidiary=WE)
+    * [My bills](https://ca.ovh.com/auth/?onsuccess=https%3A%2F%2Fca.ovh.com%2Fmanager%2F%23%2Fdedicated%2Fbilling%2Fhistory&ovhSubsidiary=WE)
+    * [My products and services](https://ca.ovh.com/auth/?onsuccess=https%3A%2F%2Fca.ovh.com%2Fmanager%2F%23%2Fdedicated%2Fbilling%2Fautorenew&ovhSubsidiary=WE)
+    * [My payment methods](https://ca.ovh.com/auth/?onsuccess=https%3A%2F%2Fca.ovh.com%2Fmanager%2F%23%2Fdedicated%2Fbilling%2Fpayment%2Fmethod&ovhSubsidiary=WE)
+    * [My orders](https://ca.ovh.com/auth/?onsuccess=https%3A%2F%2Fca.ovh.com%2Fmanager%2F%23%2Fdedicated%2Fbilling%2Forders&ovhSubsidiary=WE)
+    * [My contacts](https://ca.ovh.com/auth/?onsuccess=https%3A%2F%2Fca.ovh.com%2Fmanager%2F%23%2Fdedicated%2Fcontacts%2Fservices&ovhSubsidiary=WE)
+    * [My support tickets](https://help.ovhcloud.com/csm?id=csm_cases_requests)
 * [Contact Sales](https://www.ovhcloud.com/en/contact/ "Contact Sales")
 * [Webmail](https://www.ovhcloud.com/en/mail/ "Your emails online")
 * Support
@@ -40,8 +48,6 @@ Open menu
     
     *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/de.svg) Deutschland \[€\]](#)
         
-    *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/es.svg) España \[€\]](#)
-        
     *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/fr.svg) France \[€\]](#)
         
     *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/en-ie.svg) Ireland \[€\]](#)
@@ -51,8 +57,6 @@ Open menu
     *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/nl.svg) Nederland \[€\]](#)
         
     *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/pl.svg) Polska \[PLN\]](#)
-        
-    *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/pt-pt.svg) Portugal \[€\]](#)
         
     *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/en-gb.svg) United Kingdom \[£\]](#)
         
@@ -65,7 +69,7 @@ Open menu
         
     *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/en-us.svg) United States \[$\]](#)
         
-    *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/es-419.svg) América Latina \[$\]](#)
+    *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/es-419.svg) España \[€\]](#)
         
     
     Africa
@@ -636,7 +640,6 @@ Log in to order, manage your products and services, and track your orders.
         * Trusted cloud
         * [Investor Relations](https://corporate.ovhcloud.com/en/investor-relations/)
 * [Summit 2024](https://summit.ovhcloud.com/en/online-experience/)
-* [Black Friday](https://www.ovhcloud.com/en/black-friday/)
 
 Open search bar
 
@@ -968,7 +971,6 @@ Back to top
     
     * Press
     * Blog
-    * [Black Friday](https://www.ovhcloud.com/en/black-friday/)
     
 * Social networks
     
