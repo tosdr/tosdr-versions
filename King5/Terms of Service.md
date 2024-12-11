@@ -30,10 +30,11 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/fe8fe991-25a3-4921-8099-5224ad2329af/20241210T140432/fe8fe991-25a3-4921-8099-5224ad2329af_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fe8fe991-25a3-4921-8099-5224ad2329af/20241210T140432/fe8fe991-25a3-4921-8099-5224ad2329af_360x203.jpg)](https://www.king5.com/article/life/food/voodoo-doughnut-seattle/281-9f4718bc-a628-439f-96f4-33ffc1d9ce72)
+    *  [![](https://media.king5.com/assets/KING/images/b4534c1b-74f3-4e62-b68a-4042d1d34b9d/20241211T021607/b4534c1b-74f3-4e62-b68a-4042d1d34b9d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b4534c1b-74f3-4e62-b68a-4042d1d34b9d/20241211T021607/b4534c1b-74f3-4e62-b68a-4042d1d34b9d_360x203.jpg)](https://www.king5.com/article/news/local/new-mural-seattle-cowen-park-ravenna-neighborhood-vandalized/281-245ce3ec-22c2-4937-b960-f4adb5157294)
         
-        #### [Voodoo Doughnut opens first Seattle location Tuesday](https://www.king5.com/article/life/food/voodoo-doughnut-seattle/281-9f4718bc-a628-439f-96f4-33ffc1d9ce72)
+        #### [New mural in Seattle park 'violently defaced'](https://www.king5.com/article/news/local/new-mural-seattle-cowen-park-ravenna-neighborhood-vandalized/281-245ce3ec-22c2-4937-b960-f4adb5157294) [![](https://media.king5.com/assets/KING/images/b4534c1b-74f3-4e62-b68a-4042d1d34b9d/20241211T021607/b4534c1b-74f3-4e62-b68a-4042d1d34b9d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b4534c1b-74f3-4e62-b68a-4042d1d34b9d/20241211T021607/b4534c1b-74f3-4e62-b68a-4042d1d34b9d_360x203.jpg)](https://www.king5.com/article/news/local/new-mural-seattle-cowen-park-ravenna-neighborhood-vandalized/281-245ce3ec-22c2-4937-b960-f4adb5157294)
         
+        #### [New mural in Cowen Park vandalized](https://www.king5.com/article/news/local/new-mural-seattle-cowen-park-ravenna-neighborhood-vandalized/281-245ce3ec-22c2-4937-b960-f4adb5157294)
     *  [![](https://media.king5.com/assets/KING/images/ad2b1e3a-5886-42dd-912a-6b3dca0b147b/20241210T191054/ad2b1e3a-5886-42dd-912a-6b3dca0b147b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ad2b1e3a-5886-42dd-912a-6b3dca0b147b/20241210T191054/ad2b1e3a-5886-42dd-912a-6b3dca0b147b_360x203.jpg)](https://www.king5.com/article/news/local/bellevue/bellevue-bomb-squad-suspicious-vehicle-mall-parking-lot/281-f415d6f3-f934-4499-be36-4eddde0de31b)
         
         #### [Bellevue bomb squad investigate 'suspicious' vehicle in mall parking lot](https://www.king5.com/article/news/local/bellevue/bellevue-bomb-squad-suspicious-vehicle-mall-parking-lot/281-f415d6f3-f934-4499-be36-4eddde0de31b)
@@ -56,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/0d2ab732-0162-415e-a5ba-f19f4a65a9e3/20241210T130031/0d2ab732-0162-415e-a5ba-f19f4a65a9e3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0d2ab732-0162-415e-a5ba-f19f4a65a9e3/20241210T130031/0d2ab732-0162-415e-a5ba-f19f4a65a9e3_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/11e2425c-de1a-4220-9f02-f9f59600c2fc/20241211T015705/11e2425c-de1a-4220-9f02-f9f59600c2fc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/11e2425c-de1a-4220-9f02-f9f59600c2fc/20241211T015705/11e2425c-de1a-4220-9f02-f9f59600c2fc_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -82,13 +83,13 @@ Navigation
     
     Latest Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/a70bf62f-cb08-4a4c-af52-fd066b4669dd/20241210T161415/a70bf62f-cb08-4a4c-af52-fd066b4669dd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a70bf62f-cb08-4a4c-af52-fd066b4669dd/20241210T161415/a70bf62f-cb08-4a4c-af52-fd066b4669dd_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/1-on-1-interview-seahawks-receiver-jaxon-smith-njigba/281-e7707627-45d8-47a3-8ae1-631385961e9f)
+        
+        #### [Seahawks' Smith-Njigba talks family, faith and football in 1-on-1 interview](https://www.king5.com/article/sports/nfl/seahawks/1-on-1-interview-seahawks-receiver-jaxon-smith-njigba/281-e7707627-45d8-47a3-8ae1-631385961e9f)
+        
     *  [![](https://media.king5.com/assets/KING/images/cdfd217c-c59c-4c3f-8792-2fad1c2aa86e/20241209T000745/cdfd217c-c59c-4c3f-8792-2fad1c2aa86e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cdfd217c-c59c-4c3f-8792-2fad1c2aa86e/20241209T000745/cdfd217c-c59c-4c3f-8792-2fad1c2aa86e_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/three-takeaways-seahawks-27-18-win-over-cardinals/281-a22eebf0-75d5-4143-9e7a-1793e82f6824)
         
         #### [Here are three takeaways from the Seahawks' 30-18 win over the Cardinals](https://www.king5.com/article/sports/nfl/seahawks/three-takeaways-seahawks-27-18-win-over-cardinals/281-a22eebf0-75d5-4143-9e7a-1793e82f6824)
-        
-    *  [![](https://media.king5.com/assets/KING/images/ac24aed8-57ee-4892-b53e-7cba7fccac7c/20241209T004321/ac24aed8-57ee-4892-b53e-7cba7fccac7c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ac24aed8-57ee-4892-b53e-7cba7fccac7c/20241209T004321/ac24aed8-57ee-4892-b53e-7cba7fccac7c_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/charbonnet-runs-career-high-134-yards-2-tds-nfc-west-leading-seahawks-beat-cardinals-30-18/281-7dda7bec-8cc8-4e06-9faf-40c1d99dc2b2)
-        
-        #### [Charbonnet runs for career-high 134 yards, 2 TDs as NFC West-leading Seahawks beat Cardinals 30-18](https://www.king5.com/article/sports/nfl/seahawks/charbonnet-runs-career-high-134-yards-2-tds-nfc-west-leading-seahawks-beat-cardinals-30-18/281-7dda7bec-8cc8-4e06-9faf-40c1d99dc2b2)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -105,9 +106,9 @@ Navigation
 
 Seattle, WA »
 
-44°
+42°
 
-![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
