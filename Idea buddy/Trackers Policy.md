@@ -34,6 +34,8 @@ Resources
 
 ![IdeaBuddy Logo](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iNiIgdmlld0JveD0iMCAwIDEwIDYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik00LjQ4NDM3IDUuODAzODdDNC43NjU2MiA2LjA2NTM4IDUuMjM0MzcgNi4wNjUzOCA1LjUxNTYyIDUuODAzODdMOS43NjU2MiAxLjg1MjNDMTAuMDc4MSAxLjU2MTc0IDEwLjA3ODEgMS4xMjU5MSA5Ljc2NTYyIDAuODY0NDA1TDkuMDc4MTMgMC4xOTYxMjZDOC43NjU2MiAtMC4wNjUzNzUyIDguMjk2ODcgLTAuMDY1Mzc1MiA4LjAxNTYyIDAuMTk2MTI2TDQuOTg0MzcgMy4wMTQ1M0wxLjk4NDM3IDAuMTk2MTI2QzEuNzAzMTIgLTAuMDY1Mzc1MiAxLjIzNDM3IC0wLjA2NTM3NTIgMC45MjE4NzggMC4xOTYxMjZMMC4yMzQzNzQgMC44NjQ0MDVDLTAuMDc4MTI0NiAxLjEyNTkxIC0wLjA3ODEyNDYgMS41NjE3NCAwLjIzNDM3NCAxLjg1MjNMNC40ODQzNyA1LjgwMzg3WiIgZmlsbD0iI0MwQzBDMCIvPgo8L3N2Zz4K)
 
+[Free AI tools (SOON)](https://ideabuddy.com/free-ai-tools/)
+
 [Blog](https://ideabuddy.com/blog/)
 
 [Help Center](https://help.ideabuddy.com/)
@@ -79,6 +81,8 @@ Solutions ![angle](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iNiI
 [Business Schools](https://ideabuddy.com/solutions/business-schools/)
 
 Resources ![angle](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAiIGhlaWdodD0iNiIgdmlld0JveD0iMCAwIDEwIDYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik00LjQ4NDM3IDUuODAzODdDNC43NjU2MiA2LjA2NTM4IDUuMjM0MzcgNi4wNjUzOCA1LjUxNTYyIDUuODAzODdMOS43NjU2MiAxLjg1MjNDMTAuMDc4MSAxLjU2MTc0IDEwLjA3ODEgMS4xMjU5MSA5Ljc2NTYyIDAuODY0NDA1TDkuMDc4MTMgMC4xOTYxMjZDOC43NjU2MiAtMC4wNjUzNzUyIDguMjk2ODcgLTAuMDY1Mzc1MiA4LjAxNTYyIDAuMTk2MTI2TDQuOTg0MzcgMy4wMTQ1M0wxLjk4NDM3IDAuMTk2MTI2QzEuNzAzMTIgLTAuMDY1Mzc1MiAxLjIzNDM3IC0wLjA2NTM3NTIgMC45MjE4NzggMC4xOTYxMjZMMC4yMzQzNzQgMC44NjQ0MDVDLTAuMDc4MTI0NiAxLjEyNTkxIC0wLjA3ODEyNDYgMS41NjE3NCAwLjIzNDM3NCAxLjg1MjNMNC40ODQzNyA1LjgwMzg3WiIgZmlsbD0iI0MwQzBDMCIvPgo8L3N2Zz4K) 
+
+[Free AI tools (SOON)](https://ideabuddy.com/free-ai-tools/)
 
 [Blog](https://ideabuddy.com/blog/)
 
@@ -197,6 +201,8 @@ Solutions ![angle](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iNyI
 
 Resources
 
+[Free AI tools (SOON)](https://ideabuddy.com/free-ai-tools/)
+
 [Help Center](https://help.ideabuddy.com/)
 
 [IdeaBuddy Blog](https://ideabuddy.com/blog/)
@@ -206,6 +212,8 @@ Resources
 [Plan Writing Services](https://ideabuddy.com/business-plan-writing/)
 
 Resources ![angle](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTIiIGhlaWdodD0iNyIgdmlld0JveD0iMCAwIDEyIDciIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0xIDFMNiA2TDExIDEiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KPC9zdmc+Cg==) 
+
+[Free AI tools (SOON)](https://ideabuddy.com/free-ai-tools/)
 
 [Help Center](https://help.ideabuddy.com/)
 
