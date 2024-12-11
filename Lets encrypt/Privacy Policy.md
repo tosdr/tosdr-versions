@@ -376,7 +376,7 @@ Support a more secure and privacy-respecting Web.
 
 [Donate](https://letsencrypt.org/donate/)
 
-Let's Encrypt is a free, automated, and open certificate authority brought to you by the nonprofit [Internet Security Research Group (ISRG)](https://www.abetterinternet.org/). Read all about our nonprofit work this year in our [2023 Annual Report](https://www.abetterinternet.org/annual-reports/).
+Let's Encrypt is a free, automated, and open certificate authority brought to you by the nonprofit [Internet Security Research Group (ISRG)](https://www.abetterinternet.org/). Read all about our nonprofit work this year in our [2024 Annual Report](https://www.abetterinternet.org/annual-reports/).
 
 548 Market St, PMB 77519, San Francisco, CA 94104-5401, USA
 
@@ -395,7 +395,7 @@ View our [trademark policy](https://www.abetterinternet.org/trademarks).
 
 [© 2024 Internet Security Research Group](https://abetterinternet.org/)
 
-Let's Encrypt is a free, automated, and open certificate authority brought to you by the nonprofit [Internet Security Research Group (ISRG)](https://www.abetterinternet.org/). Read all about our nonprofit work this year in our [2023 Annual Report](https://www.abetterinternet.org/annual-reports/).
+Let's Encrypt is a free, automated, and open certificate authority brought to you by the nonprofit [Internet Security Research Group (ISRG)](https://www.abetterinternet.org/). Read all about our nonprofit work this year in our [2024 Annual Report](https://www.abetterinternet.org/annual-reports/).
 
 548 Market St, PMB 77519, San Francisco, CA 94104-5401, USA
 
@@ -414,7 +414,7 @@ View our [trademark policy](https://www.abetterinternet.org/trademarks).
 
 [© 2024 Internet Security Research Group](https://abetterinternet.org/)
 
-Let's Encrypt is a free, automated, and open certificate authority brought to you by the nonprofit [Internet Security Research Group (ISRG)](https://www.abetterinternet.org/). Read all about our nonprofit work this year in our [2023 Annual Report](https://www.abetterinternet.org/annual-reports/).
+Let's Encrypt is a free, automated, and open certificate authority brought to you by the nonprofit [Internet Security Research Group (ISRG)](https://www.abetterinternet.org/). Read all about our nonprofit work this year in our [2024 Annual Report](https://www.abetterinternet.org/annual-reports/).
 
 548 Market St, PMB 77519, San Francisco, CA 94104-5401, USA
 
