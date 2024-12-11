@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [Defense bill would cut F-35 purchases in 2025, delay deliveries](https://www.defensenews.com/air/2024/12/10/defense-bill-would-cut-f-35-purchases-in-2025-delay-deliveries/)  
+    12/10/24 03:45pm  
+    
+    Congress is set to cut the number of Lockheed Martin-made F-35s the military wants to buy in 2025 from 68 to 58 under this year’s defense authorization bill. (Airman Belinda Guachun-Chichay/U.S. Air Force)
+    
 * [Air Force defers NGAD decision to Trump administration](https://www.defensenews.com/breaking-news/2024/12/05/air-force-defers-ngad-decision-to-trump-administration/)  
     12/05/24 03:50pm  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     12/03/24 11:21am  
     
     Members of the 130th Airlift Wing perform aeromedical evacuation drills at McLaughlin Air National Guard Base in Charleston, West Virginia. (Edwin L. Wriston/Army National Guard)
-    
-* [Air Force wing deployments could leave bases understaffed, GAO warns](https://www.defensenews.com/air/2024/12/02/air-force-wing-deployments-could-leave-bases-understaffed-gao-warns/)  
-    12/02/24 04:30pm  
-    
-    The Air Force is changing how it deploys airmen, but government auditors warn that sending large units of airmen overseas could risk leaving their home bases vulnerable. (Senior Airman Luis Calderon/Air Force)
     
 
 Recent parts by keyword  
