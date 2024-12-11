@@ -205,10 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [We're Bringing Sexy Back](https://www.somethingawful.com/great-goon-database/great-goon-sexy/1/)
-* [Large Penis Support Group](https://www.somethingawful.com/weekend-web/lpsg/1/)
-* [I Hate You Page 84](https://www.somethingawful.com/cliff-yablonski/i-hate-you-84/)
-* [The Best of the Spore Creature Creator](https://www.somethingawful.com/comedy-goldmine/goons-spore-creature/1/)
+* [Thank You, Anderson Cooper!](https://www.somethingawful.com/news/haiti-anderson-cooper/)
+* [The inferior 30 Geocities Sites Massacre](https://www.somethingawful.com/news/inferior-30-geocities/)
+* [Reader Mail](https://www.somethingawful.com/art-of-warcraft/reader-mail-2/1/)
+* [These 32 Naked Dads Setting Up Christmas Trees Will Restore Your Faith In Humanity... And More](https://www.somethingawful.com/news/thirtytwo-hottest-dads/)
+* [Turn Albums into Books!](https://www.somethingawful.com/comedy-goldmine/albums-books-photoshop/1/)
 
 ### Popular Threads
 
@@ -217,11 +218,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Astounding Improbable Science Adventure](https://www.somethingawful.com/news/astounding-improbable-science/)
-* [Rose & Camellia](https://www.somethingawful.com/awful-links/Rose-Camellai-slap/)
-* [End Times for Thai 2000](https://www.somethingawful.com/news/thai-2000-shawnee/)
-* [Star Citizen: Trouble in Paradise?](https://www.somethingawful.com/video-game-article/star-marine-setback/)
-* [MS Paint the last thing you'll see before you die](https://www.somethingawful.com/comedy-goldmine/ms-paint-last/1/)
+* [Monstergeddon 2014 Results!](https://www.somethingawful.com/news/monstergeddon-results-2014/)
+* [Breath Capture](https://www.somethingawful.com/awful-links/awful-link-4337/)
+* [SHADOW RUN, Featuring Michael Caine](https://www.somethingawful.com/news/shadow-run-caine/)
+* [Senior Living](https://www.somethingawful.com/news/senior-living/)
+* [Acne.org, Pop That Zit, and The Hair Trader](https://www.somethingawful.com/weekend-web/pop-that-zit/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
