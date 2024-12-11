@@ -36,7 +36,7 @@
     * [Schools](#)
         * [Congdon School of Health Sciences](https://www.highpoint.edu/healthsciences/)
         * [David R. Hayworth School of Arts and Design](https://www.highpoint.edu/arts-design/)
-        * [David S. Congdon School of Entrepreneurship](https://www.highpoint.edu/blog/2024/02/new-hpu-school-named-for-david-congdon/)
+        * [David S. Congdon School of Entrepreneurship](https://www.highpoint.edu/entrepreneurship/)
         * [Douglas S. Witcher School of Humanities and Behavioral Sciences](https://www.highpoint.edu/humanities-behavioral-sciences/)
         * [Earl N. Phillips School of Business](https://www.highpoint.edu/business/)
         * [Fred Wilson School of Pharmacy](https://www.highpoint.edu/pharmacy/)
