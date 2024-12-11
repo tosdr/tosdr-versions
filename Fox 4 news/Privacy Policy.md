@@ -401,6 +401,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Rep. Nancy Mace allegedly attacked on Capitol Hill; Suspect arrested](https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2024/12/32/18/gettyimages-1770887365.jpg?ve=1&tl=1)
+
+ ![Rep. Nancy Mace allegedly attacked on Capitol Hill; Suspect arrested](https://images.foxtv.com/images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2024/12/32/18/592/333/gettyimages-1770887365.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rep-nancy-mace-allegedly-attacked-capitol-hill-suspect-arrested)
+
+### [Rep. Nancy Mace claims ‘pro-trans man’ assaulted her on Capitol Hill](https://www.fox4news.com/news/rep-nancy-mace-allegedly-attacked-capitol-hill-suspect-arrested)
+
  [![The touching story behind a McKinney couple's massive Christmas lights display](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/mckinney-llights-display.png?ve=1&tl=1)
 
  ![The touching story behind a McKinney couple's massive Christmas lights display](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/mckinney-llights-display.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mckinney-house-christmas-lights-mark-cornetti-nasheel-joules)
@@ -413,23 +419,17 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [Dallas drive-by shooting leaves mother, daughter seriously hurt after night out](https://www.fox4news.com/news/dallas-drive-by-shooting-leaves-mother-daughter-seriously-hurt-after-night-out)
 
+ [![Study finds hot cocoa can help reduce stress — but only under these conditions](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-630005112.jpg?ve=1&tl=1)
+
+ ![Study finds hot cocoa can help reduce stress — but only under these conditions](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-630005112.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hot-cocoa-reduces-stress-study)
+
+### [Study finds hot cocoa can help reduce stress — but only under these conditions](https://www.fox4news.com/news/hot-cocoa-reduces-stress-study)
+
  [![North Texas man accused of exposing himself at theater during children's movie](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/image003.png?ve=1&tl=1)
 
  ![North Texas man accused of exposing himself at theater during children's movie](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/image003.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ellis-co-man-accused-exposing-himself-theater-during-kids-movie)
 
 ### [North Texas man accused of exposing himself at theater during children's movie](https://www.fox4news.com/news/ellis-co-man-accused-exposing-himself-theater-during-kids-movie)
-
- [![Fort Worth City Council approves Jay Chapa's hiring as new city manager](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/8ah2-fw-next-city-manager_00.00.01.14.jpg?ve=1&tl=1)
-
- ![Fort Worth City Council approves Jay Chapa's hiring as new city manager](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/8ah2-fw-next-city-manager_00.00.01.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-city-council-vote-hiring-jay-chapa-new-city-manager)
-
-### [Fort Worth City Council approves Jay Chapa's hiring as new city manager](https://www.fox4news.com/news/fort-worth-city-council-vote-hiring-jay-chapa-new-city-manager)
-
- [![Former NFL great Tom Brady selling watches, football items at auction](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2187918254-a.jpg?ve=1&tl=1)
-
- ![Former NFL great Tom Brady selling watches, football items at auction](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2187918254-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/former-nfl-great-tom-brady-selling-watches-football-items-auction)
-
-### [Former NFL great Tom Brady selling watches, football items at auction](https://www.fox4news.com/news/former-nfl-great-tom-brady-selling-watches-football-items-auction)
 
 ###### [News](https://www.fox4news.com/news)
 
