@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Drink A BeerLuke Bryan<br><br>10:41pm |
-| Am I OkMegan Moroney<br><br>10:37pm |
-| You Should Probably LeaveChris Stapleton<br><br>10:34pm |
-| I Am Not OkayJelly Roll<br><br>10:22pm |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>10:19pm |
+| TexasBlake Shelton<br><br>4:39am |
+| Dancin' In The CountryTyler Hubbard<br><br>4:36am |
+| Devil You KnowTyler Braden<br><br>4:33am |
+| I Never LieZach Top<br><br>4:29am |
+| Just To Say We DidKenny Chesney<br><br>4:27am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Spanish • Western
+Sports • Midwest
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
