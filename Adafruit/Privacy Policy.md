@@ -79,6 +79,10 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled Shot of the Raspberry Pi 512GB SSD.](https://cdn-shop.adafruit.com/230x173/6089-00.jpg)[Raspberry Pi NVMe SSD - 512GB
+    
+    $45.00](https://www.adafruit.com/product/6089)
+    
     ![Angled Shot of the Adafruit AHT20 Temp+Hum Sensor - Assembled PCB](https://cdn-shop.adafruit.com/230x173/4566-04.jpg)[Adafruit AHT20 - Temperature & Humidity Sensor Breakout Board
     
     $4.50](https://www.adafruit.com/product/4566)
@@ -90,10 +94,6 @@ Search
     ![Demo Shot of the USB C Small Round Panel Mount Extension Cable.](https://cdn-shop.adafruit.com/230x173/6069-04.jpg)[USB C Small Round Panel Mount Extension Cable
     
     $1.95](https://www.adafruit.com/product/6069)
-    
-    ![Angled Shot of the Adafruit bq25185 USB / DC / Solar Charger with 5V Boost Board.](https://cdn-shop.adafruit.com/230x173/6106-00.jpg)[Adafruit bq25185 USB / DC / Solar Charger with 5V Boost Board
-    
-    $8.95](https://www.adafruit.com/product/6106)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -408,9 +408,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The most valuable thing you can make is a mistake - you can't learn anything from being perfect”
+“ We are what we celebrate”
 
-[Adam Osborne](https://en.wikipedia.org/wiki/Adam_Osborne)
+[Dean Kamen](http://en.wikipedia.org/wiki/Dean_Kamen)
 
 [](https://www.adafruit.com/about)
 
