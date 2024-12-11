@@ -395,7 +395,7 @@ We are committed to adhering to our privacy policy and applicable laws and to ma
 Newsletter
 ----------
 
-A short sentence describing what someone will receive by subscribing
+Subscribe to our newsletter and be the first to know about our latest products, special offers, and expert tips.
 
  Your email
 
