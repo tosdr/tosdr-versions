@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=314638796699198&ev=PageView&noscript=1)    Terms of Service - LG Ad Solutions                                                                                                            
+![](https://www.facebook.com/tr?id=314638796699198&ev=PageView&noscript=1)    Terms of Service - LG Ad Solutions                                                                                                             
 
 ![](https://px.ads.linkedin.com/collect/?pid=3207484&fmt=gif)
 
