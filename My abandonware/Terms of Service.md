@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Siege!!](https://www.myabandonware.com/game/siege-tul)
+* [Streambolt Desero](https://www.myabandonware.com/game/streambolt-desero-tuk)
 * [Streambolt](https://www.myabandonware.com/game/streambolt-tuj)
 * [Military Madness](https://www.myabandonware.com/game/military-madness-f3l)
 * [Yongzhe Paopao Long](https://www.myabandonware.com/game/yongzhe-paopao-long-tsq)
-* [Bubble Hero 3](https://www.myabandonware.com/game/bubble-hero-3-tsd)
-* [Perky Rabbit](https://www.myabandonware.com/game/perky-rabbit-trp)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
