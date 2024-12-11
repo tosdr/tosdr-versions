@@ -196,61 +196,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Terri Winfield
+Kobus Venter
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=951a9ec8c6ad4f948db57c9501d52d218e4d1706a8774b0bfada39886dc08633&c=7162954)  
-Skinz Printing & Branding
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=50437739)  
+TurboFibre
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=951a9ec8c6ad4f948db57c9501d52d218e4d1706a8774b0bfada39886dc08633&c=163701009)  
-kidoscabbie
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=91445099)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=951a9ec8c6ad4f948db57c9501d52d218e4d1706a8774b0bfada39886dc08633&c=16487478)  
-Konsortium Operations (PTY) LTD
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=96868389)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=951a9ec8c6ad4f948db57c9501d52d218e4d1706a8774b0bfada39886dc08633&c=59385612)  
-FLIPS AUTO ELECTRICAL
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=27629866)  
+webb it services
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=951a9ec8c6ad4f948db57c9501d52d218e4d1706a8774b0bfada39886dc08633&c=140493690)  
-TRACKFORCE (Pty) Ltd
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=105828881)  
+Three Moons Emporium
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=951a9ec8c6ad4f948db57c9501d52d218e4d1706a8774b0bfada39886dc08633&c=156486503)  
-Dr V Naik Consult
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=96589884)  
+SafeTclip
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=951a9ec8c6ad4f948db57c9501d52d218e4d1706a8774b0bfada39886dc08633&c=43706195)  
-Fox Alarms & Security
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=186918557)  
+Printo
 
-![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=951a9ec8c6ad4f948db57c9501d52d218e4d1706a8774b0bfada39886dc08633&c=76040150)  
-NC Labour Hire
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=126975387)  
+Myfinance-Online
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=951a9ec8c6ad4f948db57c9501d52d218e4d1706a8774b0bfada39886dc08633&c=148774540)  
-MSPCloud (Pty) Ltd
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=11805123)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=951a9ec8c6ad4f948db57c9501d52d218e4d1706a8774b0bfada39886dc08633&c=64116190)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=116292894)  
+Multi CNC Solutions CC
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=951a9ec8c6ad4f948db57c9501d52d218e4d1706a8774b0bfada39886dc08633&c=140367638)  
-Creative Characters
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=129358229)  
+SR Travel Services
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=951a9ec8c6ad4f948db57c9501d52d218e4d1706a8774b0bfada39886dc08633&c=110787802)  
-Meyer Towing & Recovery
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=14026248)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=951a9ec8c6ad4f948db57c9501d52d218e4d1706a8774b0bfada39886dc08633&c=38819240)  
-Oukraal Merino's
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=70101100)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=951a9ec8c6ad4f948db57c9501d52d218e4d1706a8774b0bfada39886dc08633&c=157339190)  
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=105540503)  
+Cape Adventure Zone
+
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=89f2b282f7e8ee003d479ab2e7019d7a3ee78bcb742935ff888140cf7d265f1c&c=15481420)  
 IYD
-
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=951a9ec8c6ad4f948db57c9501d52d218e4d1706a8774b0bfada39886dc08633&c=185172193)  
-Van Der Merwe Olieverspreiders
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
