@@ -29,6 +29,8 @@ Update
 
 Complete Checkout
 
+[Holiday Sale! | Buy 1 Gummy Maker, Get 1 Free! | Save automatically at Cart (Must have 2 in cart)](https://magicalbutter.com/collections/bundle-deals)
+
           
 
  * [Subscribe & Save](https://magicalbutter.com/collections/subscriptions)
