@@ -220,7 +220,7 @@ Resources
 
 * [Advertise with Mozilla](https://www.mozilla.org/en-US/advertising/)
 * [Brand Standards](https://mozilla.design/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer&utm_content=resources)
-* [Firefox Release Notes](https://www.mozilla.org/firefox/133.0/releasenotes/)
+* [Firefox Release Notes](https://www.mozilla.org/firefox/133.0.3/releasenotes/)
 
 Developers
 ----------
