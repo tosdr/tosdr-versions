@@ -476,6 +476,10 @@ Our Services
 
 * [Web hosting](https://servers.guru/anonymous-web-hosting/)
 * [VPS](https://servers.guru/anonymous-vps/)
+* [Canada VPS](https://servers.guru/canada-vps/)
+* [Singapore VPS](https://servers.guru/singapore-vps/)
+* [Netherlands VPS](https://servers.guru/netherlands-vps/)
+* [USA VPS](https://servers.guru/usa-vps/)
 * [Unmetered VPS](https://servers.guru/anonymous-unmetered-vps/)
 * [ARM VPS](https://servers.guru/arm-vps/)
 * [Cloud Servers](https://servers.guru/anonymous-dedicated-cloud-servers/)
