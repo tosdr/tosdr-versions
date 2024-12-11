@@ -1065,7 +1065,7 @@ Follow Us
 * [Youtube(Opens a new window)](https://www.youtube.com/user/Mars)
     
 
-* [Privacy Policy(Opens a new window)](https://www.prettylitter.com/privacy?latest=)
+* [Privacy Policy(Opens a new window)](https://www.prettylitter.com/privacy)
     
 * [Cookies Notice](https://www.prettylitter.com/privacy#cookies)
     
