@@ -1,10 +1,10 @@
-**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
+**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/112700-mid-day-digest-2024-12-10?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/112744-mid-day-digest-2024-12-11?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -189,7 +189,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/112700-mid-day-digest-2024-12-10?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/112744-mid-day-digest-2024-12-11?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -207,9 +207,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Mark Alexander The Hegseth Questions](https://patriotpost.us/alexander/112745-the-hegseth-questions-2024-12-11)
 *      [Gary Bauer Left-Wing Hate](https://patriotpost.us/opinion/112724-left-wing-hate-2024-12-11)
 *      [Allen West The False Gods of Leftism](https://patriotpost.us/opinion/112726-the-false-gods-of-leftism-2024-12-11)
 *      [Tim Graham Pretending There’s No Cost in Biden’s Mass Importation](https://patriotpost.us/opinion/112723-pretending-theres-no-cost-in-bidens-mass-importation-2024-12-11)
+*      [Hans von Spakovsky How Trump’s Justice Department Will Achieve More Honest Elections](https://patriotpost.us/opinion/112748-how-trumps-justice-department-will-achieve-more-honest-elections-2024-12-11)
 *      [John Stossel Your Tax Dollars Not at Work](https://patriotpost.us/opinion/112722-your-tax-dollars-not-at-work-2024-12-11)
 *      [Star Parker What’s Going on With Black and Hispanic Women?](https://patriotpost.us/opinion/112721-whats-going-on-with-black-and-hispanic-women-2024-12-11)
 *      [Byron York Can the Nation Wait Until Jan. 20?](https://patriotpost.us/opinion/112720-can-the-nation-wait-until-jan-20-2024-12-11)
@@ -217,6 +219,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Christine Flowers Just a Woman Embracing Her Age](https://patriotpost.us/opinion/112727-just-a-woman-embracing-her-age-2024-12-11)
 *      [The Washington Stand Who Controls Syria Now? How Are Christians Affected?](https://patriotpost.us/opinion/112725-who-controls-syria-now-how-are-christians-affected-2024-12-11)
 *      [The Babylon Bee 17 Signs of Poverty in a Capitalist Country](https://patriotpost.us/opinion/112718-17-signs-of-poverty-in-a-capitalist-country-2024-12-11)
+*      [Guest Commentary ICC — International Criminal Court](https://patriotpost.us/opinion/112701-icc-international-criminal-court-2024-12-11)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -230,11 +233,9 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
 
- 
-
-Shop Now](https://patriotpostshop.com/)
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
