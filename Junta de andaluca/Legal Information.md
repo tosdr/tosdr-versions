@@ -201,8 +201,8 @@
     * [Grado de Discapacidad. Reconocimiento, calificación y valoración](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/69.html "Grado de Discapacidad. Reconocimiento, calificación y valoración")
     * [Familia numerosa: expedición, renovación y modificación del título](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/7.html "Familia numerosa: expedición, renovación y modificación del título")
     * [Registro de Turismo de Andalucía (RTA): inscripción](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/6631.html "Registro de Turismo de Andalucía (RTA): inscripción")
-    * [Ayudas para el alquiler de viviendas a jóvenes](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/24974.html " Ayudas para el alquiler de viviendas a jóvenes")
-    * [Proyectos de inversión de pymes para la competitividad en Andalucía](https://www.juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/25606.html " Proyectos de inversión de pymes para la competitividad en Andalucía")
+    * [Subvenciones para la mejora de la eficiencia energética en viviendas](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/24793.html "Subvenciones para la mejora de la eficiencia energética en viviendas")
+    * [Registro de Certificados Energéticos Andaluces](https://juntadeandalucia.es/servicios/sede/tramites/procedimientos/detalle/1807.html "Registro de Certificados Energéticos Andaluces")
     
 * [Noticias](https://www.juntadeandalucia.es/noticias.html "Noticias")
     
