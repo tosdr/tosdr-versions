@@ -139,23 +139,22 @@ Save settings
 
 ### Featured Articles
 
+[![Determine Your Seasonal Color Palette](https://www.wikihow.com/images/thumb/0/08/Determine-Your-Seasonal-Color-Palette-Step-12-Version-2.jpg/-crop-126-120-126px-Determine-Your-Seasonal-Color-Palette-Step-12-Version-2.jpg)
+
+Which Season Are You? Finding Your Color Palette](https://www.wikihow.com/Determine-Your-Seasonal-Color-Palette)
+
+[![Comfort Someone Who Is Sad](https://www.wikihow.com/images/thumb/6/66/Comfort-Someone-Who-Is-Sad-Step-15-Version-2.jpg/-crop-126-120-126px-Comfort-Someone-Who-Is-Sad-Step-15-Version-2.jpg)
+
+How to  
+Comfort Someone Who Is Sad](https://www.wikihow.com/Comfort-Someone-Who-Is-Sad)
+
+[![Confuse a Narcissist](https://www.wikihow.com/images/thumb/9/90/Confuse-a-Narcissist-Step-11.jpg/-crop-126-120-126px-Confuse-a-Narcissist-Step-11.jpg)
+
+11 Ways to Confuse and Disarm a Narcissist](https://www.wikihow.com/Confuse-a-Narcissist)
+
 [![Know if a Girl Likes You](https://www.wikihow.com/images/thumb/5/54/Know-if-a-Girl-Likes-You-Step-25.jpg/-crop-126-120-126px-Know-if-a-Girl-Likes-You-Step-25.jpg)
 
 Does She Like Me? 15+ Signs She’s Into You](https://www.wikihow.com/Know-if-a-Girl-Likes-You)
-
-[![Sleep Better](https://www.wikihow.com/images/thumb/e/e3/Sleep-Better-Step-27-Version-5.jpg/-crop-126-120-126px-Sleep-Better-Step-27-Version-5.jpg)
-
-How to  
-Sleep Better](https://www.wikihow.com/Sleep-Better)
-
-[![Rizz Quiz](https://www.wikihow.com/images/thumb/3/31/Rizz_quiz.png/-crop-126-120-126px-Rizz_quiz.png)
-
-Do I Have Rizz Quiz](https://www.wikihow.com/Rizz-Quiz)
-
-[![Talk to Girls Online](https://www.wikihow.com/images/thumb/1/1e/Talk-to-Girls-Online-Step-10-Version-3.jpg/-crop-126-120-126px-Talk-to-Girls-Online-Step-10-Version-3.jpg)
-
-How to  
-Talk to Girls Online](https://www.wikihow.com/Talk-to-Girls-Online)
 
   
 
@@ -198,4 +197,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-133
+155
