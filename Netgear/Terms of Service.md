@@ -1265,13 +1265,13 @@ COMPANY
 * [Certified Refurbished](https://store.netgear.com/refurbished-info/?lang=en_us&referrerpageurl=)
 * [Where To Buy](https://www.netgear.com/home/where-to-buy/)
 
-[![facebook](/cid/fit/2048x1265/https/www.netgear.com/media/facebook_tcm148-94986.png)](https://www.facebook.com/Netgear/)
+[![facebook](/cid/fit/1024x633/https/www.netgear.com/media/facebook_tcm148-94986.png)](https://www.facebook.com/Netgear/)
 
-[![twitter_logo_home_page_smaller](/cid/fit/2048x1265/https/www.netgear.com/media/twitter_logo_home_page_smaller_tcm148-152849.png)](https://twitter.com/NETGEAR)
+[![twitter_logo_home_page_smaller](/cid/fit/1024x633/https/www.netgear.com/media/twitter_logo_home_page_smaller_tcm148-152849.png)](https://twitter.com/NETGEAR)
 
-[![instagram](/cid/fit/2048x1265/https/www.netgear.com/media/instagram_tcm148-94988.png)](https://instagram.com/netgear)
+[![instagram](/cid/fit/1024x633/https/www.netgear.com/media/instagram_tcm148-94988.png)](https://instagram.com/netgear)
 
-[![youtube](/cid/fit/2048x1265/https/www.netgear.com/media/youtube_tcm148-94989.png)](https://www.youtube.com/user/NETGEARChannel)
+[![youtube](/cid/fit/1024x633/https/www.netgear.com/media/youtube_tcm148-94989.png)](https://www.youtube.com/user/NETGEARChannel)
 
 © 1996-2024 NETGEAR®
 
