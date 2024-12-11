@@ -88,11 +88,11 @@ Most Read
     
     1. [In a not-so-subtle signal to regulators, Blue Origin says New Glenn is ready](https://arstechnica.com/space/2024/12/intrigue-swirls-as-blue-origin-races-toward-year-end-deadline-for-new-glenn/)
     
-2. 2. [Ten months after first tease, OpenAI launches Sora video generation publicly](https://arstechnica.com/ai/2024/12/ten-months-after-first-tease-openai-launches-sora-video-generation-publicly/)
+2. 2. [Efficiency, power, luxury: The 2025 Lucid Gravity SUV nails all three](https://arstechnica.com/features/2024/12/the-2025-lucid-gravity-impresses-us-with-slick-handling-magic-ride/)
     
-3. 3. [Apple hit with $1.2B lawsuit after killing controversial CSAM-detecting tool](https://arstechnica.com/tech-policy/2024/12/thousands-of-child-sex-abuse-victims-sue-apple-for-lax-csam-reporting/)
+3. 3. [AMD’s trusted execution environment blown wide open by new BadRAM attack](https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/)
     
-4. 4. [Efficiency, power, luxury: The 2025 Lucid Gravity SUV nails all three](https://arstechnica.com/features/2024/12/the-2025-lucid-gravity-impresses-us-with-slick-handling-magic-ride/)
+4. 4. [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
     
 5. 5. [The iPhone accessories that let me ditch my laptop while traveling](https://arstechnica.com/gadgets/2024/12/best-iphone-travel-accessories/)
     
