@@ -1,18 +1,18 @@
 [Skip to main content](#mainContents)
 
-[![Ingenta Connect](/images/ingenta-connect_182x60.png)](https://www.ingentaconnect.com/;jsessionid=2r3qpa8uw11tr.x-ic-live-01?logoHome=true "Link to Ingenta Connect home page")
+[![Ingenta Connect](/images/ingenta-connect_182x60.png)](https://www.ingentaconnect.com/;jsessionid=dlh3w2gmdwvo.x-ic-live-03?logoHome=true "Link to Ingenta Connect home page")
 
-Browse By section Toggle navigation [Shopping Cart](https://www.ingentaconnect.com/cart;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "Link to Shopping Cart") login
+Browse By section Toggle navigation [Shopping Cart](https://www.ingentaconnect.com/cart;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "Link to Shopping Cart") login
 
-* [About](https://www.ingentaconnect.com/about;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "About the site")
-* [Contact](https://www.ingentaconnect.com/about/contact;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "Contact us")
-* [Help](https://www.ingentaconnect.com/about/contact;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "Site Help")
-* [Cart](https://www.ingentaconnect.com/cart;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "View Shopping cart")
+* [About](https://www.ingentaconnect.com/about;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "About the site")
+* [Contact](https://www.ingentaconnect.com/about/contact;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "Contact us")
+* [Help](https://www.ingentaconnect.com/about/contact;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "Site Help")
+* [Cart](https://www.ingentaconnect.com/cart;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "View Shopping cart")
 * [youtube](https://www.youtube.com/channel/UC_SZbvpUXbs-j953YF9qpYQ "Visit our youtube page")
 * [twitter](https://twitter.com/ingentaconnect "Follow us on twitter")
 * [linkedIn](https://www.linkedin.com/company/ingenta "Visit us on LinkedIn")
 
-* [Link to Ingenta Connect home page](https://www.ingentaconnect.com/;jsessionid=2r3qpa8uw11tr.x-ic-live-01)
+* [Link to Ingenta Connect home page](https://www.ingentaconnect.com/;jsessionid=dlh3w2gmdwvo.x-ic-live-03)
 
   
 
@@ -33,14 +33,14 @@ Search by
 Submit search
 
 * [Advanced  
-    Search](https://www.ingentaconnect.com/search/advanced;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "Link to advanced search")
+    Search](https://www.ingentaconnect.com/search/advanced;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "Link to advanced search")
 
 * BROWSE BY:
-* [Publications](https://www.ingentaconnect.com/content/title;jsessionid=2r3qpa8uw11tr.x-ic-live-01?j_type=online&j_startat=Aa&j_endat=Af&j_pagesize=200&j_page=1 "Link to browse by Publication")
-* [Publisher](https://www.ingentaconnect.com/content;jsessionid=2r3qpa8uw11tr.x-ic-live-01?type=publishers "Link to browse by Publisher")
-* [Subjects](https://www.ingentaconnect.com/content;jsessionid=2r3qpa8uw11tr.x-ic-live-01?type=subjects "Link to browse by Subject")
+* [Publications](https://www.ingentaconnect.com/content/title;jsessionid=dlh3w2gmdwvo.x-ic-live-03?j_type=online&j_startat=Aa&j_endat=Af&j_pagesize=200&j_page=1 "Link to browse by Publication")
+* [Publisher](https://www.ingentaconnect.com/content;jsessionid=dlh3w2gmdwvo.x-ic-live-03?type=publishers "Link to browse by Publisher")
+* [Subjects](https://www.ingentaconnect.com/content;jsessionid=dlh3w2gmdwvo.x-ic-live-03?type=subjects "Link to browse by Subject")
 
-[Home](https://www.ingentaconnect.com/;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "home") / IngentaConnect Help Pages
+[Home](https://www.ingentaconnect.com/;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "home") / IngentaConnect Help Pages
 
 Terms and Conditions
 ====================
@@ -125,7 +125,7 @@ Close Signup Dialog
 
 ### [Sign-in](# "sign in")
 
-[Register](https://www.ingentaconnect.com/register/personal;jsessionid=2r3qpa8uw11tr.x-ic-live-01?url=%2fabout%2fterms "Sign up here")
+[Register](https://www.ingentaconnect.com/register/personal;jsessionid=dlh3w2gmdwvo.x-ic-live-03?url=%2fabout%2fterms "Sign up here")
 
 * Username: 
 * Password:  
@@ -133,11 +133,11 @@ Close Signup Dialog
 
  Remember Login
 
-[Login reminder](https://www.ingentaconnect.com/register/password-reminder;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "forgotten your login?")
+[Login reminder](https://www.ingentaconnect.com/register/password-reminder;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "forgotten your login?")
 
-[OpenAthens](https://www.ingentaconnect.com/session/athens-sign-in;jsessionid=2r3qpa8uw11tr.x-ic-live-01?url=https%3a%2f%2fwww.ingentaconnect.com%2fabout%2fterms "Sign in via OpenAthens")
+[OpenAthens](https://www.ingentaconnect.com/session/athens-sign-in;jsessionid=dlh3w2gmdwvo.x-ic-live-03?url=https%3a%2f%2fwww.ingentaconnect.com%2fabout%2fterms "Sign in via OpenAthens")
 
-[Shibboleth](https://www.ingentaconnect.com/session/shib-sign-in;jsessionid=2r3qpa8uw11tr.x-ic-live-01?url=%2fabout%2fterms "Sign in via Shibboleth")
+[Shibboleth](https://www.ingentaconnect.com/session/shib-sign-in;jsessionid=dlh3w2gmdwvo.x-ic-live-03?url=%2fabout%2fterms "Sign in via Shibboleth")
 
 #### Share Content
 
@@ -151,18 +151,18 @@ Close Signup Dialog
 * Partial Subscribed content
 * Free trial content
 
-* [_Browse by_ Publication](https://www.ingentaconnect.com/content/title;jsessionid=2r3qpa8uw11tr.x-ic-live-01?j_type=online&j_startat=Aa&j_endat=Af&j_pagesize=200&j_page=1 "/content/title?j_type=online&j_startat=Aa&j_endat=Af&j_pagesize=200&j_page=1")
-* [_Browse by_ Subject](https://www.ingentaconnect.com/content;jsessionid=2r3qpa8uw11tr.x-ic-live-01?type=subjects "/content?type=subjects")
-* [_Browse by_ Publisher](https://www.ingentaconnect.com/content;jsessionid=2r3qpa8uw11tr.x-ic-live-01?type=publishers "/content?type=publishers")
-* [Advanced Search](https://www.ingentaconnect.com/search/advanced;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "/search/advanced")
+* [_Browse by_ Publication](https://www.ingentaconnect.com/content/title;jsessionid=dlh3w2gmdwvo.x-ic-live-03?j_type=online&j_startat=Aa&j_endat=Af&j_pagesize=200&j_page=1 "/content/title?j_type=online&j_startat=Aa&j_endat=Af&j_pagesize=200&j_page=1")
+* [_Browse by_ Subject](https://www.ingentaconnect.com/content;jsessionid=dlh3w2gmdwvo.x-ic-live-03?type=subjects "/content?type=subjects")
+* [_Browse by_ Publisher](https://www.ingentaconnect.com/content;jsessionid=dlh3w2gmdwvo.x-ic-live-03?type=publishers "/content?type=publishers")
+* [Advanced Search](https://www.ingentaconnect.com/search/advanced;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "/search/advanced")
 
-* [About us](https://www.ingentaconnect.com/about;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "/about")
-* [Researchers](https://www.ingentaconnect.com/about/researchermenu;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "/about/researchermenu")
-* [Librarians](https://www.ingentaconnect.com/about/librarianmenu;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "/about/librarianmenu")
+* [About us](https://www.ingentaconnect.com/about;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "/about")
+* [Researchers](https://www.ingentaconnect.com/about/researchermenu;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "/about/researchermenu")
+* [Librarians](https://www.ingentaconnect.com/about/librarianmenu;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "/about/librarianmenu")
 
-* [New featured titles](https://www.ingentaconnect.com/about/newpublications;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "/about/newpublications")
-* [Help](https://www.ingentaconnect.com/about/help/index;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "/about/help/index")
-* [Contact us](https://www.ingentaconnect.com/about/contact;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "/about/contact")
+* [New featured titles](https://www.ingentaconnect.com/about/newpublications;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "/about/newpublications")
+* [Help](https://www.ingentaconnect.com/about/help/index;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "/about/help/index")
+* [Contact us](https://www.ingentaconnect.com/about/contact;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "/about/contact")
 
 * [Youtube](https://www.youtube.com/channel/UC_SZbvpUXbs-j953YF9qpYQ "Visit our youtube page")
 * [twitter](https://twitter.com/ingentaconnect "Follow us on twitter")
@@ -175,14 +175,14 @@ Website © 2024 Ingenta. Article copyright remains with the publisher, society o
 
 Ingenta is not the publisher of the publication content on this website. The responsibility for the publication content rests with the publishers providing the material. Please refer to our [Terms and Conditions](https://www.ingentaconnect.com/about/terms "Terms and Conditions").
 
-* [Terms and Conditions](https://www.ingentaconnect.com/about/terms;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "Link to terms and Conditions")
-* [Privacy](https://www.ingentaconnect.com/about/privacy;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "Link to view our privacy statment")
-* [Information for Advertisers](https://www.ingentaconnect.com/about/advertisers/index;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "Link to Information for Advertisers")
+* [Terms and Conditions](https://www.ingentaconnect.com/about/terms;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "Link to terms and Conditions")
+* [Privacy](https://www.ingentaconnect.com/about/privacy;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "Link to view our privacy statment")
+* [Information for Advertisers](https://www.ingentaconnect.com/about/advertisers/index;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "Link to Information for Advertisers")
 
-[Cookie Policy](https://www.ingentaconnect.com/about/privacy;jsessionid=2r3qpa8uw11tr.x-ic-live-01 "Cookie Policy")
+[Cookie Policy](https://www.ingentaconnect.com/about/privacy;jsessionid=dlh3w2gmdwvo.x-ic-live-03 "Cookie Policy")
 
 X
 
 ###### Cookie Policy
 
-**Ingenta Connect** website makes use of cookies so as to keep track of data that you have filled in. [I am Happy with this](#) [Find out more](https://www.ingentaconnect.com/about/privacy;jsessionid=2r3qpa8uw11tr.x-ic-live-01)
+**Ingenta Connect** website makes use of cookies so as to keep track of data that you have filled in. [I am Happy with this](#) [Find out more](https://www.ingentaconnect.com/about/privacy;jsessionid=dlh3w2gmdwvo.x-ic-live-03)
