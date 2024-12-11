@@ -68,33 +68,33 @@
         
         By Madison Emily Whisenand [Read More](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
         
-    *  [![](https://www.women.com/img/gallery/britney-spearss-hair-transformation-over-the-years/intro-1733346595.jpg)](https://www.women.com/1729572/britney-spears-hair-transformation/)
+    *  [![A woman in a Mocha Mousse jacket and gold earrings](https://www.women.com/img/gallery/pantones-2025-color-of-the-year-is-a-neutral-lovers-dream-how-to-bring-it-into-your-wardrobe/intro-1733759893.jpg)](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
         
-        [Beauty](https://www.women.com/category/beauty/)
+        [Fashion](https://www.women.com/category/fashion/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
+        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
         
-        ### [Britney Spears' Hair Transformation Over The Years](https://www.women.com/1729572/britney-spears-hair-transformation/)
+        ### [Pantone's 2025 Color Of The Year Is A Neutral Lover's Dream — How To Bring It Into Your Wardrobe](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
         
-        Britney Spears understands that to change your hair is to change your life. And she's undergone many hair changes.
+        Pantone's Color of the Year makes for a stunning addition to your wardrobe that won't clash with existing pieces. Hello, timeless style!
         
-        By Bernadette Roe [Read More](https://www.women.com/1729572/britney-spears-hair-transformation/)
+        By Emily Hutchinson [Read More](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
         
 
 More Stories
 ------------
 
-*  [![A woman in a Mocha Mousse jacket and gold earrings](https://www.women.com/img/gallery/pantones-2025-color-of-the-year-is-a-neutral-lovers-dream-how-to-bring-it-into-your-wardrobe/intro-1733759893.jpg)](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
+*  [![Britney Spears on the stage](https://www.women.com/img/gallery/britney-spearss-hair-transformation-over-the-years/intro-1733346595.jpg)](https://www.women.com/1729572/britney-spears-hair-transformation/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
     
-    ### [Pantone's 2025 Color Of The Year Is A Neutral Lover's Dream — How To Bring It Into Your Wardrobe](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
+    ### [Britney Spears' Hair Transformation Over The Years](https://www.women.com/1729572/britney-spears-hair-transformation/)
     
-    Pantone's Color of the Year makes for a stunning addition to your wardrobe that won't clash with existing pieces. Hello, timeless style!
+    Britney Spears understands that to change your hair is to change your life. And she's undergone many hair changes.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
+    By Bernadette Roe [Read More](https://www.women.com/1729572/britney-spears-hair-transformation/)
     
 *  [![Hailey Bieber with olive nails](https://www.women.com/img/gallery/the-chicest-celebrity-manicures-of-2024/intro-1733334961.jpg)](https://www.women.com/1729242/chicest-celebrity-manicures-2024/)
     
