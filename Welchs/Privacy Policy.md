@@ -17,7 +17,7 @@ I Agree
 * [Fruit Spreads](https://www.welchs.com/fruit-spreads/)
 * [Sparkling Juices](https://www.welchs.com/sparkling/)
 * [Snacks](https://www.welchs.com/snacks/)
-* [Careers](https://www.welchs.com/careers/)
+* [Careers](https://app.careerpuck.com/page/welchs-s3spp)
 * Discover
     * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/97bac9da56/nav-ourstory_1.jpg)Our Story](https://www.welchs.com/our-story/)
     * [![](https://img2.storyblok.com/filters:format(webp)/f/95109/200x200/f7b928ada4/nav-recipes.jpg)Recipes](https://www.welchs.com/recipes/)
@@ -115,7 +115,7 @@ Welch Foods, Inc. A Cooperative, ATTN: Consumer Affairs, 300 Baker Avenue, Suite
 * [Visit Welch's on LinkedIn](https://www.linkedin.com/company/welch's/)
 * [Visit Welch's on YouTube](https://www.youtube.com/user/officialwelchsgrapes)
 
-* [Careers](https://www.welchs.com/careers/)
+* [Careers](https://app.careerpuck.com/page/welchs-s3spp)
 * [Grower Login](https://welchs.sharepoint.com/sites/nationalgrape)
 * [Foodservice](https://www.welchs.com/foodservice)
 * [Contact Us](https://www.welchs.com/contact-us)
