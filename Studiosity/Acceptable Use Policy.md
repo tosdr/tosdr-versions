@@ -120,7 +120,7 @@ Level 1, 11 Chandos Street,
 St Leonards NSW 2065  
 Australia
 
-![Studiosity logo](https://assets-cdn-01.studiosity.com/eureka/92b22f69/connect/assets/logos/Studiosity-Reversed-150x38-b57c6b118e8b42e1959b72a845dbe44363033a171593332cbb903ebe3623055d.png)
+![Studiosity logo](https://assets-cdn-01.studiosity.com/eureka/a1c4d782/connect/assets/logos/Studiosity-Reversed-150x38-b57c6b118e8b42e1959b72a845dbe44363033a171593332cbb903ebe3623055d.png)
 
 * [Contact us](mailto:hello@studiosity.com)
 * [FAQ](https://support.studiosity.com/)
