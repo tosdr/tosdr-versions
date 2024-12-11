@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Hassan Banks on Little](/assets/Images/teasers/full/NH-Banking-2014.png)](http://www.followthemoney.org/research/blog/maggie-hassan-banks-on-jerry-little/)
+[![Donations to Ballot Measure Committees, by Industry, 2016](/assets/Images/teasers/small/Ballot-measures-by-industry.JPG)](https://www.followthemoney.org/research/institute-reports/2016-ballot-measures-overview)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
