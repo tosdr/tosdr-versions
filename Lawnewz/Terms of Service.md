@@ -279,25 +279,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Mariah Thomas](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Mariah-Thomas-baby-1-432x243.jpg)](https://lawandcrime.com/crime/i-accidentally-put-her-in-the-oven-mom-placed-infant-daughter-in-scorching-kitchen-appliance-instead-of-crib-cops-say/)
+1. [![George Gonzalez (U.S. Attorney's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/12/jan6-432x243.jpg)](https://lawandcrime.com/high-profile/man-seen-on-video-at-u-s-capitol-on-jan-6-told-investigators-he-wasnt-actually-there-that-day-feds/)
     
-    ### ['I accidentally put her in the oven': Mom placed infant daughter in scorching kitchen appliance instead of crib, cops say](https://lawandcrime.com/crime/i-accidentally-put-her-in-the-oven-mom-placed-infant-daughter-in-scorching-kitchen-appliance-instead-of-crib-cops-say/)
+    ### [Man seen on video at U.S. Capitol on Jan. 6 told investigators he wasn't actually there that day: Feds](https://lawandcrime.com/high-profile/man-seen-on-video-at-u-s-capitol-on-jan-6-told-investigators-he-wasnt-actually-there-that-day-feds/)
     
-2. [![Justices Samuel Alito, on the left; Center: Clarence Thomas, in the center; Neil Gorsuch, on the right](https://am24.mediaite.com/lc/cnt/uploads/2024/06/Alito-Thomas-Gorsuch-432x243.jpg)](https://lawandcrime.com/second-amendment/spirit-of-aloha-thomas-alito-clash-with-hawaii-over-2nd-amendment-ruling-insistence-that-constitution-is-not-a-suicide-pact/)
+2. [![Inset: Funeral home owner Chris Johnson (Coffee County Sheriff's Office). Background: The Johnson Funeral Home in Douglas, Georgia (WALB/YouTube).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/chris-johnson-432x243.jpg)](https://lawandcrime.com/crime/i-dont-know-whats-in-that-coffin-owner-of-funeral-home-allegedly-hoarded-bodies-altered-cause-of-death-for-insurance-fraud/)
     
-    ### ['Spirit of Aloha': Thomas, Alito clash with Hawaii over 2nd Amendment ruling, insistence that Constitution is not a 'suicide pact'](https://lawandcrime.com/second-amendment/spirit-of-aloha-thomas-alito-clash-with-hawaii-over-2nd-amendment-ruling-insistence-that-constitution-is-not-a-suicide-pact/)
+    ### ['I don’t know what's in that coffin': Owner of funeral home allegedly hoarded bodies, altered cause of death for insurance fraud](https://lawandcrime.com/crime/i-dont-know-whats-in-that-coffin-owner-of-funeral-home-allegedly-hoarded-bodies-altered-cause-of-death-for-insurance-fraud/)
     
-3. [![Joseph David Voigt (Orange County Jail).](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Joseph-David-Voigt-432x243.png)](https://lawandcrime.com/crime/adult-son-who-spent-majority-of-his-time-playing-video-games-killed-dad-for-telling-him-to-get-a-job-deputies/)
+3. [![Richard Wendell Sotka (Mississippi County, Arkansas Sheriff’s Dept.) and the home where he killed Rhonda Cegelski and Paula O’Connor (WBAY screenshot)](https://am22.mediaite.com/lc/cnt/uploads/2024/03/Richard-Wendell-Sotka-Mississippi-County-Arkansas-Sheriffs-Dept.-and-the-home-where-he-killed-Rhonda-Cegelski-and-Paula-OConnor-WBAY-screenshot-432x243.jpg)](https://lawandcrime.com/crime/man-who-was-humiliated-after-walking-in-on-girlfriend-being-intimate-with-another-woman-and-killed-both-is-headed-back-to-trial/)
     
-    ### [Adult son who spent 'majority of his time playing video games' killed dad for telling him to get a job: Deputies](https://lawandcrime.com/crime/adult-son-who-spent-majority-of-his-time-playing-video-games-killed-dad-for-telling-him-to-get-a-job-deputies/)
+    ### [Man who was ‘humiliated’ after walking in on girlfriend being intimate with another woman and killed both is headed back to trial](https://lawandcrime.com/crime/man-who-was-humiliated-after-walking-in-on-girlfriend-being-intimate-with-another-woman-and-killed-both-is-headed-back-to-trial/)
     
-4. [![Left: Jan. 6 defendant Mark Ibrahim (Department of Justice). Right: Donald Trump (NBC News/YouTube).](https://am21.mediaite.com/lc/cnt/uploads/2024/12/IbrahimTrump-432x243.jpg)](https://lawandcrime.com/high-profile/dea-agent-accused-of-flashing-service-weapon-and-badge-while-raiding-u-s-capitol-on-jan-6-tries-and-fails-to-use-trumps-meet-the-press-pardon-comments-to-delay-trial/)
+4. [![Popular post image](https://am22.mediaite.com/lc/cnt/uploads/2023/09/U.S.-Circuit-Court-Judge-Pauline-Newman-432x243.jpg)](https://lawandcrime.com/high-profile/unusually-cognitively-intact-oldest-federal-judge-who-refused-evaluation-wants-documents-unsealed-as-she-appeals-suspension/)
     
-    ### [DEA agent accused of flashing service weapon and badge while raiding U.S. Capitol on Jan. 6 tries — and fails — to use Trump's 'Meet the Press' pardon comments to delay trial](https://lawandcrime.com/high-profile/dea-agent-accused-of-flashing-service-weapon-and-badge-while-raiding-u-s-capitol-on-jan-6-tries-and-fails-to-use-trumps-meet-the-press-pardon-comments-to-delay-trial/)
+    ### ['Unusually cognitively intact': Oldest federal judge who refused evaluation wants documents unsealed as she appeals suspension](https://lawandcrime.com/high-profile/unusually-cognitively-intact-oldest-federal-judge-who-refused-evaluation-wants-documents-unsealed-as-she-appeals-suspension/)
     
-5. [![Inset: Sevance Brewer (Boone County Sheriff's Office). Background: Authorities responding to the scene where he killed Brittany Toalson (KRCG).](https://am21.mediaite.com/lc/cnt/uploads/2024/12/lkajfaefhqfn-432x243.jpg)](https://lawandcrime.com/crime/he-looked-like-an-idiot-up-there-man-fatally-shot-pregnant-girlfriend-in-front-of-her-2-young-kids-while-arguing-over-gun/)
+5. [![Left to right: Rupert Murdoch and Bill Barr.](https://am21.mediaite.com/lc/cnt/uploads/2024/12/Murdoch-Barr-432x243.jpg)](https://lawandcrime.com/high-profile/a-dishonesty-of-purpose-and-motive-probate-court-slams-bill-barr-while-rejecting-rupert-murdochs-bad-faith-bid-to-change-family-trust-as-a-carefully-crafted-charade/)
     
-    ### ['He looked like an idiot up there': Man fatally shot pregnant girlfriend in front of her 2 young kids while arguing over gun](https://lawandcrime.com/crime/he-looked-like-an-idiot-up-there-man-fatally-shot-pregnant-girlfriend-in-front-of-her-2-young-kids-while-arguing-over-gun/)
+    ### ['A dishonesty of purpose and motive': Probate court slams Bill Barr while rejecting Rupert Murdoch's 'bad faith' bid to change family trust as a 'carefully crafted charade'](https://lawandcrime.com/high-profile/a-dishonesty-of-purpose-and-motive-probate-court-slams-bill-barr-while-rejecting-rupert-murdochs-bad-faith-bid-to-change-family-trust-as-a-carefully-crafted-charade/)
     
 
 [](http://eepurl.com/c89Jdb)
