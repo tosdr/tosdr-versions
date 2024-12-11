@@ -42,7 +42,7 @@ Menu Close Back
     * [Shipping & Handling](https://privealliance.com/policies/shipping-policy)
     * [Contact Us](https://privealliance.com/pages/contact-us)
     
-* [Account](https://privealliance.com/account/login)
+* [Account](https://privealliance.com/customer_authentication/redirect?locale=en&region_country=US)
 
 * [Twitter](https://twitter.com/prive_alliance)
 * [Facebook](https://www.facebook.com/privealliance)
