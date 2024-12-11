@@ -1,11 +1,8 @@
-* [My Account](https://veema.co.uk/cpd-membership/my-account/)
 * [Contact Us](https://veema.co.uk/contact-us/)
 
 [SEARCH HERE](# "Search")
 
-* [](https://www.facebook.com/veemaedu "Facebook")
-* [](https://www.linkedin.com/company/veema "LinkedIn")
-* [](https://x.com/VeemaEdu "X")
+#### [MY ACCOUNT](https://veema.co.uk/cpd-membership/my-account/)
 
 [Become A Member](https://veema.co.uk/cpd-membership/ "Become A Member")
 
@@ -26,7 +23,7 @@
     * [7 – 9 Week Courses](https://veema.co.uk/7-9-week-courses/)
     * [E-Learning Video Courses](https://lms.veema.co.uk/)
 * [CPD MEMBERSHIP](https://veema.co.uk/cpd-membership/)
-    * [Dashboard](https://veema.co.uk/dashboard/)
+    * [Membership Hub](https://veema.co.uk/dashboard/)
     * [My Account](https://veema.co.uk/cpd-membership/my-account/)
 * [KEYNOTE SPEAKERS](https://veema.co.uk/keynote-speakers/)
 * [NEWS & MEDIA](https://veema.co.uk/news-media/)
@@ -51,7 +48,7 @@
     * [7 – 9 Week Courses](https://veema.co.uk/7-9-week-courses/)
     * [E-Learning Video Courses](https://lms.veema.co.uk/)
 * [CPD MEMBERSHIP](https://veema.co.uk/cpd-membership/)
-    * [Dashboard](https://veema.co.uk/dashboard/)
+    * [Membership Hub](https://veema.co.uk/dashboard/)
     * [My Account](https://veema.co.uk/cpd-membership/my-account/)
 * [KEYNOTE SPEAKERS](https://veema.co.uk/keynote-speakers/)
 * [NEWS & MEDIA](https://veema.co.uk/news-media/)
@@ -217,19 +214,23 @@ Thank you for visiting our site!
 * [![Gallery Image](https://veema.co.uk/wp-content/uploads/2024/11/WI.jpg)](https://veema.co.uk/wp-content/uploads/2024/11/WI.jpg)
     
 
-#### Phone Number : +44 (0) 20 3637 4232
-
- Subscribe
+\-->
 
 [![Veema Education](https://veema.co.uk/wp-content/themes/veema/assets/images/logo2.png)](https://veema.co.uk/ "Veema Education")
 =================================================================================================================================
 
-#### Email
+#### Social Media
 
-* [info@veema.co.uk](mailto:info@veema.co.uk)
+* [](https://www.facebook.com/veemaedu "Facebook")
+* [](https://www.linkedin.com/company/veema "LinkedIn")
+* [](https://x.com/VeemaEdu "X")
 
-#### Offices
+#### Address Office
 
+* +44 (0) 20 3637 4232
+
+  
+[info@veema.co.uk](mailto:info@veema.co.uk)  
 20 Emerson Building  
 Chadwell Lane  
 London  
