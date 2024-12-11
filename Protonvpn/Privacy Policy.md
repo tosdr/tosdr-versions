@@ -207,9 +207,9 @@ Proton VPN’s strict no-logs policy was tested in a legal case in 2019 where we
 
 Get started
 
-* [Proton VPN plans explained: Proton Free, Proton VPN Plus, and Proton Unlimited](https://protonvpn.com/support/proton-vpn-plans)
 * [How to use Okta SCIM with Proton VPN for Business](https://protonvpn.com/support/scim-okta)
 * [How to access the Tor network using Proton VPN](https://protonvpn.com/support/tor-vpn)
+* [Proton VPN plans explained: Proton Free, Proton VPN Plus, and Proton Unlimited](https://protonvpn.com/support/proton-vpn-plans)
 * [Who owns Proton VPN?](https://protonvpn.com/support/who-owns-protonvpn)
 * [How to torrent safely with a VPN](https://protonvpn.com/support/bittorrent-vpn)
 
@@ -256,7 +256,7 @@ Geneva, Switzerland
     * [VPN for streaming](https://protonvpn.com/streaming)
     * [Netflix VPN](https://protonvpn.com/streaming/netflix)
     * [Secure Core VPN](https://protonvpn.com/support/secure-core-vpn/)
-    * [VPN for Business](https://protonvpn.com/business?ref=pvpnb2cfooter)
+    * [VPN for Business](https://protonvpn.com/business?ref=pvpn_support_b2c_vpn_footer)
     * [Getting started](https://protonvpn.com/support/protonvpn-setup-guide/)
 * ### Platforms
     
@@ -276,37 +276,37 @@ Geneva, Switzerland
     
 * Company
     * [About us](https://protonvpn.com/about)
-    * [Proton Foundation(new window)](https://proton.me/foundation)
+    * [Proton Foundation(new window)](https://proton.me/foundation?ref=pvpn_support_b2c_vpn_footer)
     * [Blog](https://protonvpn.com/blog/)
     * [Careers
         
         We’re hiring
         
-        (new window)](https://proton.me/careers?ref=pvpncom)
+        (new window)](https://proton.me/careers?ref=pvpn_support_b2c_vpn_footer)
     * [Threat model](https://protonvpn.com/blog/threat-model)
     * [Open source](https://protonvpn.com/blog/open-source/)
 * ### Connect
     
 * Connect
     * [Help and support](https://protonvpn.com/support/)
-    * [Business sales](https://protonvpn.com/business/contact?ref=ftrlnk)
-    * [Partners and affiliates(new window)](https://proton.me/partners?ref=pvpncom)
-    * [Press and media(new window)](https://proton.me/media?ref=pvpncom)
+    * [Business sales](https://protonvpn.com/business/contact?ref=pvpn_support_b2c_vpn_footer)
+    * [Partners and affiliates(new window)](https://proton.me/partners?ref=pvpn_support_b2c_vpn_footer)
+    * [Press and media(new window)](https://proton.me/media?ref=pvpn_support_b2c_vpn_footer)
     * [Contact us](https://protonvpn.com/support/contact)
     * [Live chat
         
         For customers](https://account.protonvpn.com/dashboard?chat=true)
-    * [Student discount(new window)](https://proton.me/student)
+    * [Student discount(new window)](https://proton.me/student?ref=pvpn_support_b2c_vpn_footer)
 
 * * *
 
 * [System status(new window)](https://status.proton.me/)
 * [Report abuse](mailto:abuse@protonvpn.com)
 * [Report a problem](https://protonvpn.com/support/report-a-bug/)
-* [Report a security issue(new window)](https://proton.me/security/response-center?ref=pvpncom)
+* [Report a security issue(new window)](https://proton.me/security/response-center?ref=pvpn_support_b2c_vpn_footer)
 * [Request a feature(new window)](https://protonmail.uservoice.com/)
 
 * [Privacy Policy](https://protonvpn.com/privacy-policy)
-* [Terms & conditions(new window)](https://proton.me/legal/terms?ref=pvpncom)
+* [Terms & conditions(new window)](https://proton.me/legal/terms?ref=pvpn_support_b2c_vpn_footer)
 * [Transparency report](https://protonvpn.com/blog/transparency-report)
 * © 2024 Proton AG. All rights reserved.
