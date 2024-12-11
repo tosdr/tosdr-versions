@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/carjack-dec-7-326x245.jpg)](https://cwbchicago.com/2024/12/armed-carjacker-strikes-twice-gets-arrested-after-returning-to-the-crime-scene.html "Armed carjacker strikes twice, gets arrested after returning to the crime scene")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/2023.12-burglar-seen-in-JH426447-326x245.jpg)](https://cwbchicago.com/2024/12/north-side-garage-burglar-seen-in-countless-surveillance-videos-has-become-a-regular-tv-star.html "North Side garage burglar, seen in countless surveillance videos, has become ‘a regular TV star’")
 
-Goose Island
+Lincoln Square
 
-### [Armed carjacker strikes twice, gets arrested after returning to the crime scene](https://cwbchicago.com/2024/12/armed-carjacker-strikes-twice-gets-arrested-after-returning-to-the-crime-scene.html "Armed carjacker strikes twice, gets arrested after returning to the crime scene")
+### [North Side garage burglar, seen in countless surveillance videos, has become ‘a regular TV star’](https://cwbchicago.com/2024/12/north-side-garage-burglar-seen-in-countless-surveillance-videos-has-become-a-regular-tv-star.html "North Side garage burglar, seen in countless surveillance videos, has become ‘a regular TV star’")
 
-[December 8, 2024 5:54 PM](https://cwbchicago.com/2024/12)
+[December 9, 2024 5:24 AM](https://cwbchicago.com/2024/12)
 
-Police arrested a suspect after two armed carjackings were reported Saturday afternoon, one in Old Town and the other outside the migrant shelter across from the Salt Shed. Authorities have not yet announced any charges.[](https://cwbchicago.com/2024/12/armed-carjacker-strikes-twice-gets-arrested-after-returning-to-the-crime-scene.html "Armed carjacker strikes twice, gets arrested after returning to the crime scene")
+For the past few weeks, residents of a North Side neighborhood have grown tired of a prowler who has been breaking into garages and snooping around yards. Now Chicago police are trying to identify him.[](https://cwbchicago.com/2024/12/north-side-garage-burglar-seen-in-countless-surveillance-videos-has-become-a-regular-tv-star.html "North Side garage burglar, seen in countless surveillance videos, has become ‘a regular TV star’")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/7700-n-marshfield-chicago-326x245.jpg)](https://cwbchicago.com/2024/12/home-invader-shoots-critically-injures-woman-in-rogers-park.html "Home invader shoots, critically injures woman in Rogers Park")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/burke-foxx--326x245.jpg)](https://cwbchicago.com/2024/12/new-states-attorney-vows-to-seek-pre-trial-detention-for-all-violent-crimes-how-different-is-that-policy-from-kim-foxxs-we-found-out.html "New state’s attorney vows to seek pre-trial detention for all violent crimes. How different is that policy from Kim Foxx’s? We found out.")
 
-Rogers Park
+Citywide
 
-### [Home invader shoots, critically injures woman in Rogers Park](https://cwbchicago.com/2024/12/home-invader-shoots-critically-injures-woman-in-rogers-park.html "Home invader shoots, critically injures woman in Rogers Park")
+### [New state’s attorney vows to seek pre-trial detention for all violent crimes. How different is that policy from Kim Foxx’s? We found out.](https://cwbchicago.com/2024/12/new-states-attorney-vows-to-seek-pre-trial-detention-for-all-violent-crimes-how-different-is-that-policy-from-kim-foxxs-we-found-out.html "New state’s attorney vows to seek pre-trial detention for all violent crimes. How different is that policy from Kim Foxx’s? We found out.")
 
-[December 8, 2024 11:41 AM](https://cwbchicago.com/2024/12)
+[December 8, 2024 11:04 PM](https://cwbchicago.com/2024/12)
 
-A woman was shot and critically injured by a home invader in Rogers Park on Sunday morning, Chicago police said.[](https://cwbchicago.com/2024/12/home-invader-shoots-critically-injures-woman-in-rogers-park.html "Home invader shoots, critically injures woman in Rogers Park")
+Cook County’s new state’s attorney announced on her first day that prosecutors will now try to detain 100% of defendants accused of serious violent crimes and some gun charges. How does her policy compare with detention practices under Kim Foxx? We decided to find out.[](https://cwbchicago.com/2024/12/new-states-attorney-vows-to-seek-pre-trial-detention-for-all-violent-crimes-how-different-is-that-policy-from-kim-foxxs-we-found-out.html "New state’s attorney vows to seek pre-trial detention for all violent crimes. How different is that policy from Kim Foxx’s? We found out.")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Forrest-Wagner-326x245.jpg)](https://cwbchicago.com/2024/12/man-carjacked-vehicle-in-the-loop-crashed-it-on-kennedy-expressway-prosecutors-say.html "Man carjacked vehicle in the Loop, crashed it on Kennedy Expressway, prosecutors say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Michael-Coleman-lids-326x245.jpg)](https://cwbchicago.com/2024/12/career-burglar-on-probation-for-burglary-burglarized-wicker-park-sports-store-prosecutors-claim.html "Career burglar, on probation for burglary, burglarized Wicker Park sports store, prosecutors claim")
 
-South Loop
+Wicker Park
 
-### [Man carjacked vehicle in the Loop, crashed it on Kennedy Expressway, prosecutors say](https://cwbchicago.com/2024/12/man-carjacked-vehicle-in-the-loop-crashed-it-on-kennedy-expressway-prosecutors-say.html "Man carjacked vehicle in the Loop, crashed it on Kennedy Expressway, prosecutors say")
+### [Career burglar, on probation for burglary, burglarized Wicker Park sports store, prosecutors claim](https://cwbchicago.com/2024/12/career-burglar-on-probation-for-burglary-burglarized-wicker-park-sports-store-prosecutors-claim.html "Career burglar, on probation for burglary, burglarized Wicker Park sports store, prosecutors claim")
 
-[December 8, 2024 8:14 AM](https://cwbchicago.com/2024/12)
+[December 8, 2024 6:44 PM](https://cwbchicago.com/2024/12)
 
-A Galena man is charged with carjacking a vehicle in the Loop and then crashing it on the Kennedy Expressway this week.[](https://cwbchicago.com/2024/12/man-carjacked-vehicle-in-the-loop-crashed-it-on-kennedy-expressway-prosecutors-say.html "Man carjacked vehicle in the Loop, crashed it on Kennedy Expressway, prosecutors say")
+A long-time burglar who went to prison for stealing Newport cigarettes from a North Side liquor store and is currently on probation for stealing Newports from a West Loop store is now accused of burglarizing a Wicker Park sports gear store.[](https://cwbchicago.com/2024/12/career-burglar-on-probation-for-burglary-burglarized-wicker-park-sports-store-prosecutors-claim.html "Career burglar, on probation for burglary, burglarized Wicker Park sports store, prosecutors claim")
 
 Search
 
