@@ -358,23 +358,23 @@ Hier finden Sie häufig gestellte Fragen, welche wir Ihnen gerne beantworten mö
 Fragen & Antworten
 ------------------
 
-[Für welche Konten gelten die neuen Preise? Frage](#q440292533)
+[Für welche Konten gelten die neuen Preise?](#q440292533)
 
 Die neuen Preise gelten für alle Privat- & Geschäftskund\*innen, die ein Girokonto bei der GLS Bank führen.
 
 Die Änderungen sind in [diesem Dokument](https://www.gls.de/media/PDF/AGB_Konditionen_PLV/134200_Preis-_und_Leistungsverzeichnis_03.24_Stand_11.10.2024.pdf) grau hinterlegt
 
-[Wann werden die neuen Preise berechnet? Frage](#q440292532)
+[Wann werden die neuen Preise berechnet?](#q440292532)
 
 Die neuen Preise werden immer im Folgemonat der Zustimmung oder weiteren Kontonutzung berechnet.
 
-[Wie kann ich ein nicht mehr benötigtes Konto auflösen/ kündigen? Frage](#q440291942)
+[Wie kann ich ein nicht mehr benötigtes Konto auflösen/ kündigen?](#q440291942)
 
 Sie können jederzeit über das GLS Onlinebanking ein nicht mehr benötigtes Konto auflösen.
 
 [mehr erfahren](https://www.gls.de/gls-bank/service/aenderungsauftraege/kontoaufloesung/)
 
-[Was sind beleghafte Überweisungen/beleghafte Buchungen? Frage](#q440292367)
+[Was sind beleghafte Überweisungen/beleghafte Buchungen?](#q440292367)
 
 Eine **beleghafte** Buchung/Überweisung ist, wenn Sie uns einen Überweisungsträger/Überweisungsschein **per Post** senden oder in einer GLS Filiale **abgeben** oder einwerfen.   
   
@@ -393,79 +393,79 @@ Es gibt übrigens noch formlose Überweisungen als Freitextbriefe, die einen SEP
 
 ![](/media/Bilder/Angebote/Zahlungsverkehr/SEPA/SEPAueberweisungsvorlage.jpg)
 
-[Wie kann ich in Zukunft Änderungen des PLV oder der AGB´s zustimmen? Frage](#q440292531)
+[Wie kann ich in Zukunft Änderungen des PLV oder der AGB´s zustimmen?](#q440292531)
 
 Ganz einfach und bequem im Online-Banking oder über die GLS Banking App: Logge Dich hierzu im GLS Onlinebanking mit VR Netkey/ Alias und PIN ein. Hier erscheint eine Seite für die Zustimmung.
 
-[Wieso sind so viele Felder im PLV grau hinterlegt? Frage](#q440292539)
+[Wieso sind so viele Felder im PLV grau hinterlegt?](#q440292539)
 
 Bei den grau hinterlegten Feldern im Preis- und Leistungsverzeichnis handet es sich um eine optische Hervorhebung von Preisen, die nach unserer Auffassung vom Änderungsmechanismus betroffen sind. Angepasst werden Preise nur an drei Stellen: Portokosten für den postalischen Versand der Kontoauszüge, Auslandseinsatz von Kreditkarten in Fremdwährung sowie formlose Überweisungen bei Kontokorrentkonten. Die entsprechenden Details findest Du in Deinen Unterlagen.
 
-[Wieso muss ich bei den Geschäftsbedingungen aktiv zustimmen? Frage](#q440292540)
+[Wieso muss ich bei den Geschäftsbedingungen aktiv zustimmen?](#q440292540)
 
 Nach den bisherigen Regelungen in den Allgemeinen Geschäftsbedingungen galt bei Änderungen der AGB Deine Zustimmung als erteilt, wenn Du uns Deine Ablehnung zu den mindestens zwei Monaten vorher angebotenen Änderungen nicht mitgeteilt hast.
 
 Mit einem Urteil vom 27. April 2021 hat der Bundesgerichtshof diesen Änderungsmechanismus für unwirksam erklärt. Die BaFin (Bundesanstalt für Finanzdienstleistungsaufsicht) hat anknüpfend an das Urteil gegenüber allen Banken ihre Erwartung erklärt, alle Kund\*innen über die Entscheidung des BGH und dessen Auswirkungen zu informieren und deren Zustimmung zu den AGB einzuholen, um die Vertragsverhältnisse im Interesse der Rechtssicherheit auf eine wirksame Grundlage zu stellen. Wir benötigen daher Deine aktive Zustimmung zu allen Geschäftsbedingungen der Bank (Allgemeine Geschäftsbedingungen und produktbezogene Vereinbarungen), um auch zukünftig eine reibungslose Geschäftsbeziehung zu führen.
 
-[Was ändert sich für mich durch die aktive Zustimmung? Frage](#q440292541)
+[Was ändert sich für mich durch die aktive Zustimmung?](#q440292541)
 
 Mit den vorgenommenen Anpassungen in unseren bestehenden Allgemeinen Geschäftsbedingungen (AGB) setzen wir insbesondere die Anforderungen und Vorgaben zum Zustimmungsprozess aus dem BGH Urteil vom 27. April 2021 um.
 
-[Wo kann ich den Geschäftsbedingungen aktiv zustimmen? Frage](#q440292542)
+[Wo kann ich den Geschäftsbedingungen aktiv zustimmen?](#q440292542)
 
 Ganz einfach und bequem im Online-Banking: Logge Dich dazu im GLS Onlinebanking mit ihrem VR Netkey/ Alias und Ihrer PIN ein. Hier erscheint eine Seite für Deine Zustimmung. Lade die dort zur Verfügung gestellten Dokumente zum Lesen und zur Aufbewahrung herunter. Wähle danach den Button „Zustimmen“. Unabhängig davon wie viele Produkte Du bei der GLS Bank hast, musst Du den Prozess nur ein Mal machen.
 
 Übrigens: Die heruntergeladenen Unterlagen stellen wir automatisch in Dein Online-Postfach ein.
 
-[Kann ich auch formlos per E-Mail oder Briefpost zustimmen? Frage](#q440292543)
+[Kann ich auch formlos per E-Mail oder Briefpost zustimmen?](#q440292543)
 
 Nein, das geht leider nicht.  
 Wir müssen sicherstellen, dass Du sämtliche Unterlagen, heruntergeladen und zur Kenntnis genommen hast. Bitte folge dem beschriebenen Weg zur Zustimmung.
 
-[Kann ich auch über die Banking App zustimmen? Frage](#q440292544)
+[Kann ich auch über die Banking App zustimmen?](#q440292544)
 
 Nein, das geht leider nicht. Bitte folge den Anweisungen im GLS Onlinebanking über unsere Webseite.
 
-[Wieso wird mir diese Seite im Onlinebanking bei jedem Login angezeigt? Frage](#q440292545)
+[Wieso wird mir diese Seite im Onlinebanking bei jedem Login angezeigt?](#q440292545)
 
 Die Seite wird so lange angezeigt, bis Du die Zustimmung erteilt hast. Über das "X" in der Ecke rechts oben, kannst Du die Anzeige schließen und zu einem späteren zeitpunkt zustimmen. 
 
 Beim nächsten Login wird die Seite erneut angezeigt.
 
-[Was passiert, wenn ich den Geschäftsbedingungen nicht aktiv zustimme? Frage](#q440292546)
+[Was passiert, wenn ich den Geschäftsbedingungen nicht aktiv zustimme?](#q440292546)
 
 Die Zustimmung zu unseren aktuell gültigen AGB und produktbezogenen Vereinbarungen ist notwendig, damit wir die Kundenbeziehung auch in Zukunft auf einer rechtlich sicheren Grundlage weiterführen können.
 
-[Ich habe mehrere Kundenbeziehungen bei der GLS Bank (z.B. eine Einzelkontoverbindung und eine Gemeinschaftskontoverbindung oder als gesetzlicher Vertreter). Muss ich jeweils separat zustimmen? Frage](#q440292547)
+[Ich habe mehrere Kundenbeziehungen bei der GLS Bank (z.B. eine Einzelkontoverbindung und eine Gemeinschaftskontoverbindung oder als gesetzlicher Vertreter). Muss ich jeweils separat zustimmen?](#q440292547)
 
 Wir möchten die Zustimmung so einfach wie möglich gestalten. Daher gilt Deine Zustimmung für sämtliche Kundenstämme, die auf Deinen Namen lauten (z.B. für ein Einzelkonto und ein Gemeinschaftskonto).
 
 Bitte beachte, dass Du die Zustimmung für Kundenstämme bei denen Du als gesetzlicher Vertreter hinterlegt bist, separat machen musst.
 
-[Kann ich für ein Gemeinschaftskonto die Zustimmung allein geben? Frage](#q440292548)
+[Kann ich für ein Gemeinschaftskonto die Zustimmung allein geben?](#q440292548)
 
 Ja, wenn Du Mitkontoinhaber eines Gemeinschaftskontos bist und auch alleine für das Konto vertretungsberechtigt bist.
 
-[Genügt es, wenn ein gesetzlicher Vertreter des minderjährigen Kindes zustimmt? Frage](#q440292549)
+[Genügt es, wenn ein gesetzlicher Vertreter des minderjährigen Kindes zustimmt?](#q440292549)
 
 Es genügt, wenn ein gesetzlicher Vertreter des Minderjährigen den Prozess für die gesamte Kundenbeziehung durchläuft.
 
-[Wo kann ich den Geschäftsbedingungen aktiv zustimmen, wenn ich keinen Onlinebanking-Zugang habe? Frage](#q440292550)
+[Wo kann ich den Geschäftsbedingungen aktiv zustimmen, wenn ich keinen Onlinebanking-Zugang habe?](#q440292550)
 
 Ein aktiver Onlinebanking Zugang ist wichtig, um Deine Geschäftsbeziehung bei uns effizient zu führen. Bitte setze Dich mit unserem Kundenservice in Verbindung, damit wir helfen können, die notwendigen Zugänge anzulegen.
 
 Als Kunde ohne aktiven Onlinebanking Zugang erhältst Du (oder hast bereits erhalten) einen Brief mit einem personalisierten QR Code. Mit diesem kannst Du Deine Zustimmung zu den Geschäftsbedingungen erteilen. Bitte folge den Anweisungen in dem Anschreiben.
 
-[Erhalte ich eine Bestätigung, wenn ich aktiv zugestimmt habe? Frage](#q440292551)
+[Erhalte ich eine Bestätigung, wenn ich aktiv zugestimmt habe?](#q440292551)
 
 Nein, unser Banksystem verarbeitet Deine Zustimmung automatisch. Eine separate Bestätigung ist nicht vorgesehen.
 
-[Kann ich im Online-Banking sehen, ob ich den Geschäftsbedingungen zugestimmt habe? Frage](#q440292552)
+[Kann ich im Online-Banking sehen, ob ich den Geschäftsbedingungen zugestimmt habe?](#q440292552)
 
 Nein, das geht leider nicht.  
 Bei Unsicherheit kannst Du gerne bei uns nachfragen.
 
-[Wie werde ich in Zukunft über Änderungen der Geschäftsbedingungen informiert und wie kann ich dann zustimmen? Frage](#q440292553)
+[Wie werde ich in Zukunft über Änderungen der Geschäftsbedingungen informiert und wie kann ich dann zustimmen?](#q440292553)
 
 Bei Änderungen der AGB und produktbezogenen Vereinbarungen informieren wir spätestens 2 Monate, bevor diese wirksam werden sollen. Für Änderungen brauchen wir auch in Zukunft Deine aktive Zustimmung. Lediglich in Ausnahmefällen, z.B. bei Anpassungen der Geschäftsbedingungen aufgrund von gesetzlichen Vorgaben, wird eine aktive Zustimmung nicht benötigt.
 
@@ -623,18 +623,3 @@ Sozial-ökologisch seit 1974
 * [AGB](https://www.gls.de/agb/)
 * [Konditionen & Preise](https://www.gls.de/konditionen-preise/)
 * Cookies
-
-Störung
--------
-
-Zurzeit haben wir eine technische Störung und sind daher telefonisch nicht erreichbar.
-
-Wir arbeiten mit Hochdruck an einer Lösung und bitten um Verständnis.
-
-Das Onlinebanking und der Selfservice stehen Dir weiterhin zur Verfügung.
-
-Deine Karte kannst Du über die (+49) 116 116 sperren lassen.
-
-Vielen Dank für Dein Verständnis.
-
-Deine GLS Bank
