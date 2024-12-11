@@ -1,6 +1,6 @@
 [Skip to main content](#main-content)
 
-Learn about our bold new rebrand! [Read Blog](https://www.anthology.com/blog/an-exciting-new-chapter-for-anthology-a-comprehensive-rebrand)
+[Anthology Together 2025 Registration is Open](https://www2.anthology.com/together)! Get the Earliest Bird Savings until December 31
 
 Audience Menu
 -------------
