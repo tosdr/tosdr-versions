@@ -181,12 +181,12 @@
 Security & compliance
 =====================
 
-Our users trust us to keep their data safe and secure, a responsibility we take seriously. If you have any questions or concerns about this, please [get in touch](https://sanity.io/contact).
+Our users trust us to keep their data safe and secure, a responsibility we take seriously. If you have any questions or concerns about this, please [get in touch](https://www.sanity.io/contact).
 
 [](https://www.sanity.io/security#2dcf0c70eca8)Vulnerability Disclosure
 -----------------------------------------------------------------------
 
-If you would like to report a vulnerability or security concern regarding any [Sanity.io](http://sanity.io/) product, please contact [security@sanity.io](mailto:security@sanity.io).
+If you would like to report a vulnerability or security concern regarding any [Sanity.io](https://www.sanity.io/) product, please contact [security@sanity.io](mailto:security@sanity.io).
 
 We will verify the report and take corrective action as soon as possible, then notify our users and the relevant authorities of the issue. Our GPG key is available on [https://keys.openpgp.org/search?q=security@sanity.io](https://keys.openpgp.org/search?q=security@sanity.io).
 
@@ -199,7 +199,7 @@ We will verify the report and take corrective action as soon as possible, then n
 
 ### [](https://www.sanity.io/security#d2d09da58a07)General Data Protection Regulation (GDPR)
 
-[Sanity.io](http://sanity.io/) is fully GDPR-compliant, and we handle our customers' personal data with great care and respect, as outlined in our [terms of service](https://www.sanity.io/legal/tos), [privacy policy](https://www.sanity.io/legal/privacy), and throughout this document. We use industry best practices for security and privacy, and have vetted all third-party processors we employ for compliance as well. Data controlled by our customers and provided via our API is ultimately our customers' responsibility under the GDPR, but we provide tools such as data retrieval via our GROQ query language, custom data retention policies, and APIs for permanent data deletion, as well as strict security practices, which allows our customers to remain compliant as well.
+[Sanity.io](https://www.sanity.io/) is fully GDPR-compliant, and we handle our customers' personal data with great care and respect, as outlined in our [terms of service](https://www.sanity.io/legal/tos), [privacy policy](https://www.sanity.io/legal/privacy), and throughout this document. We use industry best practices for security and privacy, and have vetted all third-party processors we employ for compliance as well. Data controlled by our customers and provided via our API is ultimately our customers' responsibility under the GDPR, but we provide tools such as data retrieval via our GROQ query language, custom data retention policies, and APIs for permanent data deletion, as well as strict security practices, which allows our customers to remain compliant as well.
 
 ### [](https://www.sanity.io/security#11fcbc64f642)PCI DSS
 
@@ -207,12 +207,12 @@ All credit card and payment information is handled by our payment processor, [S
 
 ### [](https://www.sanity.io/security#f0a5508d49d6)Infrastructure
 
-[Google Cloud Platform](https://cloud.google.com/), which hosts [Sanity.io](http://sanity.io/), undergoes regular independent audits for a [range of standards](https://cloud.google.com/security/compliance/) including ISO 27001, ISO 27017, ISO 27018, SOC 2, SOC 3, CSA STAR, HIPAA, and PCI DSS.
+[Google Cloud Platform](https://cloud.google.com/), which hosts [Sanity.io](https://www.sanity.io/), undergoes regular independent audits for a [range of standards](https://cloud.google.com/security/compliance/) including ISO 27001, ISO 27017, ISO 27018, SOC 2, SOC 3, CSA STAR, HIPAA, and PCI DSS.
 
 [](https://www.sanity.io/security#3eeb0b34dd08)Infrastructure Security
 ----------------------------------------------------------------------
 
-[Sanity.io](http://sanity.io/) is hosted on [Google Cloud Platform](https://cloud.google.com/), which employs some of the best security practices in the industry. This is described in the [Google security whitepaper](https://cloud.google.com/security/overview/whitepaper) and [Google infrastructure security design overview](https://cloud.google.com/security/infrastructure/design/), and includes:
+[Sanity.io](https://www.sanity.io/) is hosted on [Google Cloud Platform](https://cloud.google.com/), which employs some of the best security practices in the industry. This is described in the [Google security whitepaper](https://cloud.google.com/security/overview/whitepaper) and [Google infrastructure security design overview](https://cloud.google.com/security/infrastructure/design/), and includes:
 
 * **Physical security:** All data centers have electronic access cards, alarms, vehicle access barriers, perimeter fencing, metal detectors, biometrics, laser beam intrusion detection, interior and exterior cameras with tracking, security guards, access logs, and more.
 * **Hardware security:** Stripped-down, custom-built servers and network equipment with a chip-based root of trust for verification, identification, and authentication, a secure boot stack with cryptographically signed BIOS, bootloader, kernel, and base operating system image, and automated patching of firmware and software vulnerabilities. Virtual machines are isolated from the host and each other via a specially hardened version of the open source KVM virtualization stack.
@@ -220,18 +220,18 @@ All credit card and payment information is handled by our payment processor, [S
 * **Data security:** All data is encrypted at rest with the industry-standard AES cipher, using regularly rotated encryption keys that are integrated with cryptographically authenticated service identities and automatically deleted on service termination. Hard drives and SSDs are also encrypted at the hardware level, and decommissioned disks are securely erased with two independent verification processes and physically destroyed on-premise.
 * **Employee security:** All Google employees undergo relevant background checks and security training, and must sign confidentiality agreements. Only a small group of employees have access to customer data, on a least-privilege need-to-know basis, with all access monitored by dedicated audit teams. Less than one percent of employees have physical access to data centers. All employee access is authenticated, authorized, and encrypted using Google's [BeyondCorp security model](https://cloud.google.com/beyondcorp/).
 
-[Sanity.io](http://sanity.io/) employees do not have physical access to data centers, nor access to the underlying Google infrastructure.
+[Sanity.io](https://www.sanity.io/) employees do not have physical access to data centers, nor access to the underlying Google infrastructure.
 
 [](https://www.sanity.io/security#9fb898ff18ce)Application Security
 -------------------------------------------------------------------
 
 ### [](https://www.sanity.io/security#d5f3e9407af2)Authentication and Access Control
 
-Users log in to their [Sanity.io](http://sanity.io/) accounts using external authentication providers (currently Google Accounts and GitHub) via an OAuth 2 flow, optionally with two-factor authentication, which we strongly recommend. The user's password is never transmitted to us, and we do not gain access to any external resources that belong to the account. Users with our third-party login feature can also implement their own authentication solution.
+Users log in to their [Sanity.io](https://www.sanity.io/) accounts using external authentication providers (currently Google Accounts and GitHub) via an OAuth 2 flow, optionally with two-factor authentication, which we strongly recommend. The user's password is never transmitted to us, and we do not gain access to any external resources that belong to the account. Users with our third-party login feature can also implement their own authentication solution.
 
 The client gains a Sanity access token, which is transmitted either as a cookie or a HTTP header, providing access to our HTTP API. The token automatically expires when not used for some time. This token is converted to a short-lived cryptographically signed JWT token when traversing our frontend infrastructure, which is used to authenticate and authorize all internal RPC calls.
 
-[Sanity.io](http://sanity.io/) datasets can be configured with either public or private read access by default, and individual authenticated users can be assigned various roles giving them read or write access as required. Customers with custom access control can also set custom access rules on documents matching specific filters.
+[Sanity.io](https://www.sanity.io/) datasets can be configured with either public or private read access by default, and individual authenticated users can be assigned various roles giving them read or write access as required. Customers with custom access control can also set custom access rules on documents matching specific filters.
 
 ### [](https://www.sanity.io/security#d785910eec4b)Encryption
 
@@ -270,7 +270,7 @@ We perform regular internal security audits and software upgrades every three mo
 
 ### [](https://www.sanity.io/security#1bd9b52a9a01)Credit Cards and Payments
 
-Credit cards and payments are processed by our payment provider, [Stripe](https://stripe.com/). [Sanity.io](http://sanity.io/) never receives credit card information, nor do we have access to it, and it is removed from Stripe as soon as the customer updates their card information or closes their account.
+Credit cards and payments are processed by our payment provider, [Stripe](https://stripe.com/). [Sanity.io](https://www.sanity.io/) never receives credit card information, nor do we have access to it, and it is removed from Stripe as soon as the customer updates their card information or closes their account.
 
 ### [](https://www.sanity.io/security#b5f6f7d55e2a)Geographic Location
 
@@ -285,7 +285,7 @@ Customer-controlled data provided via our API is only stored in Google Cloud Pla
 
 ### [](https://www.sanity.io/security#9dce65c6bceb)High Availability
 
-[Sanity.io](http://sanity.io/) is built using fully redundant and distributed systems, running across multiple data centers, and can withstand the loss of a single component or entire data center without significant service disruptions. Components are regularly taken out of service during routine maintenance, without affecting availability, and Google Cloud Platform's live migration technology transparently migrates virtual machines to other hosts prior to infrastructure maintenance.
+[Sanity.io](https://www.sanity.io/) is built using fully redundant and distributed systems, running across multiple data centers, and can withstand the loss of a single component or entire data center without significant service disruptions. Components are regularly taken out of service during routine maintenance, without affecting availability, and Google Cloud Platform's live migration technology transparently migrates virtual machines to other hosts prior to infrastructure maintenance.
 
 Incoming traffic is anycast-routed to Google's globally distributed load balancers, which pass it on to the nearest available data center, automatically routing around outages. The load balancers and CDN can absorb many types of DDoS attacks (distributed denial of service), and many of our backend systems will automatically scale to handle increased load.
 
