@@ -694,7 +694,3 @@ X
 New Research: Benchmark your defensive AI maturity against peers
 
 [Learn More](https://www.arkoselabs.com/intersection-ai-digital-fraud-cyber-defenses/)
-
-                                               
-
-https://www.arkoselabs.com/
