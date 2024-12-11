@@ -30,13 +30,18 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/9bd3a61e-3026-4faa-b980-df0c9165dbaf/20241211T022829/9bd3a61e-3026-4faa-b980-df0c9165dbaf_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9bd3a61e-3026-4faa-b980-df0c9165dbaf/20241211T022829/9bd3a61e-3026-4faa-b980-df0c9165dbaf_360x203.jpg)](https://www.king5.com/article/sports/soccer/world-cup/seattle-projected-make-over-900-million-hosting-2026-world-cup-matches/281-296e9f0d-97b5-4805-a168-2879bad00e9e)
+    *  [![](https://media.king5.com/assets/KING/images/26c279e3-dfbc-4672-84ed-65fc9c8a0d78/20240916T151939/26c279e3-dfbc-4672-84ed-65fc9c8a0d78_16x9.jpg) ![](https://media.king5.com/assets/KING/images/26c279e3-dfbc-4672-84ed-65fc9c8a0d78/20240916T151939/26c279e3-dfbc-4672-84ed-65fc9c8a0d78_360x203.jpg)](https://www.king5.com/article/news/local/king-county-judge-kroger-albertsons-ruling/281-45af98e0-af9e-4a35-9815-c2076c72afac)
         
-        #### [Seattle projected to make over $900 million from hosting 2026 World Cup matches](https://www.king5.com/article/sports/soccer/world-cup/seattle-projected-make-over-900-million-hosting-2026-world-cup-matches/281-296e9f0d-97b5-4805-a168-2879bad00e9e)
+        #### [How much grocery prices would have risen in Washington if Kroger-Albertsons merger went through](https://www.king5.com/article/news/local/king-county-judge-kroger-albertsons-ruling/281-45af98e0-af9e-4a35-9815-c2076c72afac) [![](https://media.king5.com/assets/KING/images/26c279e3-dfbc-4672-84ed-65fc9c8a0d78/20240916T151939/26c279e3-dfbc-4672-84ed-65fc9c8a0d78_16x9.jpg) ![](https://media.king5.com/assets/KING/images/26c279e3-dfbc-4672-84ed-65fc9c8a0d78/20240916T151939/26c279e3-dfbc-4672-84ed-65fc9c8a0d78_360x203.jpg)](https://www.king5.com/article/news/local/king-county-judge-kroger-albertsons-ruling/281-45af98e0-af9e-4a35-9815-c2076c72afac)
         
-    *  [![](https://media.king5.com/assets/KING/images/e7cec8c5-da70-4105-9081-d6c84a6b0a27/20241211T023819/e7cec8c5-da70-4105-9081-d6c84a6b0a27_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e7cec8c5-da70-4105-9081-d6c84a6b0a27/20241211T023819/e7cec8c5-da70-4105-9081-d6c84a6b0a27_360x203.jpg)](https://www.king5.com/article/money/business/washington-state-reaction-kroger-albertsons-merger-block/281-223a7924-f960-4325-a0c7-3afee1d8d06a)
+        #### [More info about why a Washington judge shot down the Kroger-Albertsons merger](https://www.king5.com/article/news/local/king-county-judge-kroger-albertsons-ruling/281-45af98e0-af9e-4a35-9815-c2076c72afac) [![](https://media.king5.com/assets/KING/images/26c279e3-dfbc-4672-84ed-65fc9c8a0d78/20240916T151939/26c279e3-dfbc-4672-84ed-65fc9c8a0d78_16x9.jpg) ![](https://media.king5.com/assets/KING/images/26c279e3-dfbc-4672-84ed-65fc9c8a0d78/20240916T151939/26c279e3-dfbc-4672-84ed-65fc9c8a0d78_360x203.jpg)](https://www.king5.com/article/news/local/king-county-judge-kroger-albertsons-ruling/281-45af98e0-af9e-4a35-9815-c2076c72afac)
         
-        #### [King County Superior Court judge issues permanent injunction on Kroger-Albertsons merger](https://www.king5.com/article/money/business/washington-state-reaction-kroger-albertsons-merger-block/281-223a7924-f960-4325-a0c7-3afee1d8d06a)
+        #### [How much grocery prices may have risen if the Kroger-Albertsons merger went through](https://www.king5.com/article/news/local/king-county-judge-kroger-albertsons-ruling/281-45af98e0-af9e-4a35-9815-c2076c72afac) [![](https://media.king5.com/assets/KING/images/26c279e3-dfbc-4672-84ed-65fc9c8a0d78/20240916T151939/26c279e3-dfbc-4672-84ed-65fc9c8a0d78_16x9.jpg) ![](https://media.king5.com/assets/KING/images/26c279e3-dfbc-4672-84ed-65fc9c8a0d78/20240916T151939/26c279e3-dfbc-4672-84ed-65fc9c8a0d78_360x203.jpg)](https://www.king5.com/article/news/local/king-county-judge-kroger-albertsons-ruling/281-45af98e0-af9e-4a35-9815-c2076c72afac)
+        
+        #### [Estimate: Washingtonians would have spent an extra $800 million a year on groceries had Kroger-Albertsons merger been approved](https://www.king5.com/article/news/local/king-county-judge-kroger-albertsons-ruling/281-45af98e0-af9e-4a35-9815-c2076c72afac)
+    *  [![](https://media.king5.com/assets/KING/images/a3806ea2-fc84-40b8-8fd4-e93daf529dad/20241211T190951/a3806ea2-fc84-40b8-8fd4-e93daf529dad_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3806ea2-fc84-40b8-8fd4-e93daf529dad/20241211T190951/a3806ea2-fc84-40b8-8fd4-e93daf529dad_360x203.jpg)](https://www.king5.com/article/news/local/seattle/david-bonderman-seattle-kraken-dies/281-f341c94c-0a92-4b92-a763-578e42262e90)
+        
+        #### [Seattle Kraken co-owner David Bonderman dies at 82](https://www.king5.com/article/news/local/seattle/david-bonderman-seattle-kraken-dies/281-f341c94c-0a92-4b92-a763-578e42262e90)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +61,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c1fd24e5-cd56-4051-8875-de45ccbb2b88/20241211T130718/c1fd24e5-cd56-4051-8875-de45ccbb2b88_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c1fd24e5-cd56-4051-8875-de45ccbb2b88/20241211T130718/c1fd24e5-cd56-4051-8875-de45ccbb2b88_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/dc544ca7-168d-47bc-bb5b-6c2fe7c5aa05/20241211T205319/dc544ca7-168d-47bc-bb5b-6c2fe7c5aa05_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dc544ca7-168d-47bc-bb5b-6c2fe7c5aa05/20241211T205319/dc544ca7-168d-47bc-bb5b-6c2fe7c5aa05_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -86,9 +91,9 @@ Navigation
         
         #### [Seahawks' Smith-Njigba talks family, faith and football in 1-on-1 interview](https://www.king5.com/article/sports/nfl/seahawks/1-on-1-interview-seahawks-receiver-jaxon-smith-njigba/281-e7707627-45d8-47a3-8ae1-631385961e9f)
         
-    *  [![](https://media.king5.com/assets/KING/images/d2033334-e7d4-4e07-86f5-5e78f8a24f94/20241211T071823/d2033334-e7d4-4e07-86f5-5e78f8a24f94_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d2033334-e7d4-4e07-86f5-5e78f8a24f94/20241211T071823/d2033334-e7d4-4e07-86f5-5e78f8a24f94_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/barkov-and-reinhart-help-the-panthers-beat-the-kraken-2-1-in-a-shootout/281-79b90252-7f74-4afb-85a9-e69b798275c0)
+    *  [![](https://media.king5.com/assets/KING/images/a3806ea2-fc84-40b8-8fd4-e93daf529dad/20241211T190951/a3806ea2-fc84-40b8-8fd4-e93daf529dad_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3806ea2-fc84-40b8-8fd4-e93daf529dad/20241211T190951/a3806ea2-fc84-40b8-8fd4-e93daf529dad_360x203.jpg)](https://www.king5.com/article/news/local/seattle/david-bonderman-seattle-kraken-dies/281-f341c94c-0a92-4b92-a763-578e42262e90)
         
-        #### [Barkov and Reinhart help the Panthers beat the Kraken 2-1 in a shootout](https://www.king5.com/article/sports/nhl/kraken/barkov-and-reinhart-help-the-panthers-beat-the-kraken-2-1-in-a-shootout/281-79b90252-7f74-4afb-85a9-e69b798275c0)
+        #### [Seattle Kraken co-owner David Bonderman dies at 82](https://www.king5.com/article/news/local/seattle/david-bonderman-seattle-kraken-dies/281-f341c94c-0a92-4b92-a763-578e42262e90)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -105,9 +110,9 @@ Navigation
 
 Seattle, WA »
 
-39°
+49°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
