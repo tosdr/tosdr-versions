@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What is your relationship with AU? II (4,206)](https://forum.nationstates.net/viewtopic.php?t=553319&f=25&view=unread#unread ""What is your relationship with AU?  II" (4,206 posts)")
-* [Daniel Penny ACQUITTED (316)](https://forum.nationstates.net/viewtopic.php?t=559441&f=20&view=unread#unread ""Daniel Penny ACQUITTED" (316 posts)")
-* [Making a picture for all who reply(Jo… (45)](https://forum.nationstates.net/viewtopic.php?t=559463&f=25&view=unread#unread ""Making a picture for all who reply(Jorsania version)" (45 posts)")
-* [UK Politics Thread: Don't Be So Nosey! (511)](https://forum.nationstates.net/viewtopic.php?t=558706&f=20&view=unread#unread ""UK Politics Thread: Don't Be So Nosey!" (511 posts)")
-* [The International Incelosphere. (171)](https://forum.nationstates.net/viewtopic.php?t=559200&f=20&view=unread#unread ""The International Incelosphere." (171 posts)")
+* [Scandoslavia's Q's and A's (I Guess) (4)](https://forum.nationstates.net/viewtopic.php?t=559491&f=23&view=unread#unread ""Scandoslavia's Q's and A's (I Guess)" (4 posts)")
+* [Favorite line from AN's Factbooks II (12,297)](https://forum.nationstates.net/viewtopic.php?t=510652&f=25&view=unread#unread ""Favorite line from AN's Factbooks II" (12,297 posts)")
+* [How to Create a New Nation (16)](https://forum.nationstates.net/viewtopic.php?t=533982&f=5&view=unread#unread ""How to Create a New Nation" (16 posts)")
+* [The Collective Security League Assemb… (2,021)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (2,021 posts)")
 
 Advertisement
 
