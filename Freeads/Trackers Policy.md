@@ -22,7 +22,7 @@ Herts, WD3 1DS
 
 United Kingdom
 
-E-mail: freeads@freeads.co.uk
+E-mail: [\[email protected\]](https://help.freeads.co.uk/cdn-cgi/l/email-protection)
 
 Web: [https://www.freeads.co.uk/](https://www.freeads.co.uk/) 
 
@@ -489,7 +489,7 @@ The Information Commissioner’s Office (ICO) in the UK is the for us relevant a
 
 g) Right of objection
 
-You have the right to revoke the use of your data for internal purposes at any time with effect for the future. To do so, it is sufficient to send a corresponding e-mail to datenschutz@markt.de. However, such a revocation does not affect the lawfulness of the processing operations carried out by us up to that point. This does not affect data processing with regard to all other legal bases, such as the initiation of a contract (see above).
+You have the right to revoke the use of your data for internal purposes at any time with effect for the future. To do so, it is sufficient to send a corresponding e-mail to [\[email protected\]](https://help.freeads.co.uk/cdn-cgi/l/email-protection). However, such a revocation does not affect the lawfulness of the processing operations carried out by us up to that point. This does not affect data processing with regard to all other legal bases, such as the initiation of a contract (see above).
 
   
 
