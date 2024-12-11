@@ -205,9 +205,9 @@ The Visiting Angels website contains links to other websites. Our data policy ap
 
 Visiting Angels keeps its data policy under regular review and places any updates on this web page.
 
-### Our Privacy Notice
+### Our Privacy Policy
 
-To review Visiting Angels Privacy Notice, [click here](https://www.visitingangels.com/privacy-notice).
+To review Visiting Angels Privacy Policy, [click here](https://www.visitingangels.com/privacy-policy).
 
 ### How to contact us
 
@@ -221,7 +221,7 @@ Or write to us at: 937 Haverford Road Suite 200, Bryn Mawr PA 19010
 
 ![Cookie Consent Cookie Image](img/cookie.svg)
 
-We use cookies to personalize your experience on our site. To find out more, please read our [privacy notice](https://www.visitingangels.com/privacy-notice).
+We use cookies to personalize your experience on our site. To find out more, please read our [privacy policy](https://www.visitingangels.com/privacy-policy).
 
 Accept
 
@@ -261,4 +261,4 @@ Bryn Mawr, PA 19010
 * [Senior Home Care By Angels Canada](https://www.seniorhomecarebyangels.com/)
 
 _Not all services are available at all locations. Please check with your [local agency](https://www.visitingangels.com/office-locator)._ Each Visiting Angels agency is a franchise that is independently owned and operated.  
-The Franchisor, Living Assistance Services Inc., does not control or manage the day to day business operations of any Visiting Angels franchised agency. © Visiting Angels is a registered trademark of Living Assistance Services, Inc. [Privacy Notice](https://www.visitingangels.com/privacy-notice) | [Portal](https://arc.franconnect.net/fc/) master (ac9acd3) - prod
+The Franchisor, Living Assistance Services Inc., does not control or manage the day to day business operations of any Visiting Angels franchised agency. © Visiting Angels is a registered trademark of Living Assistance Services, Inc. [Privacy Policy](https://www.visitingangels.com/privacy-policy) | [Portal](https://arc.franconnect.net/fc/) master (866f0ad) - prod
