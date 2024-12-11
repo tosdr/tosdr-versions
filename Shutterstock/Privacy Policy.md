@@ -1,3 +1,5 @@
+[Skip to content](#main-content)
+
 [](https://www.shutterstock.com/)
 
 [Images](https://www.shutterstock.com/images)
