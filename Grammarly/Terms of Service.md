@@ -407,7 +407,7 @@ Company
 * [Affiliates](https://www.grammarly.com/affiliates)
 * [Partners](https://www.grammarly.com/partners)
 * [Trust Center](https://www.grammarly.com/trust)
-* [Privacy Policy - (Updated)](https://www.grammarly.com/privacy-policy)
+* [Privacy Policy](https://www.grammarly.com/privacy-policy)
 * [Terms of Service](https://www.grammarly.com/terms)
 * [Customer Business Agreement](https://www.grammarly.com/terms/customer-business-agreement)
 * [CA Notice at Collection](https://www.grammarly.com/privacy-policy#sectionSingleColumn_1czKJnBc2oWeqKXhcP1oFx)
