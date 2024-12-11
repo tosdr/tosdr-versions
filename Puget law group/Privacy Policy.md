@@ -172,7 +172,7 @@ Whatever your situation – DUI, Criminal Charge, or Personal Injury – PLG is 
     
     By checking this box I agree to receive communication from Puget Law Group and agree to our [Privacy Policy](https://www.pugetlawgroup.com/privacy-policy/) and [Terms of Use](https://www.pugetlawgroup.com/terms-of-use/).
     
-* Email
+* Comments
     
     This field is for validation purposes and should be left unchanged.
     
