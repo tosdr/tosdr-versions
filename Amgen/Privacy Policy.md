@@ -278,7 +278,7 @@ Privacy Statement
 
 Amgen Inc. and Amgen USA Inc. (collectively "**Amgen**," "**We**" or "**Our**") are committed to respecting your privacy. This Privacy Statement is intended to answer your important questions about our privacy practices, whether you are looking for health information or are mining the experience of Amgen to refine your expertise in meeting the needs of your patients.  
 
-This Privacy Statement applies to all Amgen online or digital services activities, including, but not limited to [www.amgen.com](https://wwwext.amgen.com/) (the "**Site**"), our other websites, mobile applications ("**Apps**") and digital services ("**Services**") in which it is posted or linked.
+This Privacy Statement applies to all Amgen online or digital services activities, including, but not limited to [www.amgen.com](https://wwwext.amgen.com/) (the "**Site**"), and our other websites, mobile applications ("**Apps**") and digital services ("**Services**") in which it is posted or linked.
 
 Please carefully read this Privacy Statement to learn more about how we collect, use, disclose and store information provided and the steps we take to help protect the often sensitive information provided from unauthorized use or disclosure. When you submit information to or through the Services, you consent to the collection, processing and retention of your information as described in this Privacy Statement.
 
@@ -302,13 +302,13 @@ Certain subsets of Personal Information, such as information about health or med
 
 "**Usage Data**" is information about an individual's activity on or through the Services that, by itself, does not identify the individual, such as browser type, operating system and webpages visited.
 
-Usage Data by itself is not usually considered Personal Data because it usually does not identify an individual. If different types of Usage Data and Personal Information are linked together and, once linked, identify an individual person, Usage Data in such scenarios may be considered Personal Information.
+Usage Data by itself is not usually considered Personal Information because it usually does not identify an individual. If different types of Usage Data and Personal Information are linked together and, once linked, identify an individual person, Usage Data in such scenarios may be considered Personal Information.
 
-Please refer to [amgen.com/healthdataprivacypolicy](https://wwwext.amgen.com/healthdataprivacypolicy)
+For further specifics about the information we collect, along with disclosures applicable to residents of certain U.S. states, please refer to Section X. (“Supplemental Privacy Notice for California and Other Applicable U.S. State Laws”) of this Privacy Statement. Additionally, for disclosures applicable to residents of U.S. states with consumer health data legislation, please refer to [amgen.com/healthdataprivacypolicy](https://wwwext.amgen.com/healthdataprivacypolicy).
 
 #### II. HOW INFORMATION IS COLLECTED AND USED
 
-Amgen collects and uses information to operate the Services, including:
+Amgen collects and uses information to operate the Services, including for the purposes listed below. Depending on your place of residence and the privacy laws applicable to our processing of your Personal Information, we may obtain your consent prior to processing your Personal Information for certain purposes.
 
 **Information That You Voluntarily Provide When Using the Services.** We collect and use the Personal Information that you voluntarily provide to us through the Services. You may use certain Services without registering or identifying yourself but, if you do not register, you may not have access to all of the Services. If you choose to register, we may use the Personal Information you provide to confirm your registration and to respond to requests from you. Upon your request, we may also use the Personal Information to send you special promotions or newsletters with information that may interest you.
 
@@ -338,19 +338,19 @@ We will inform you if a specific App or service collects precise Location Data. 
 
 **When you Connect with Social Media through the Services**: Certain Services may link with social media platforms and social media plug-ins (e.g., the Facebook "Like" button, "Share to Twitter" button) (collectively, "**Social Media**"). When accessing the Services through a Facebook or other Social Media account, Amgen may (depending on the applicable user privacy settings) automatically have access to information provided to or through the Social Media platform. Amgen may collect and use this information for the purposes described in this Privacy Statement or described at the time the information was collected.
 
-**Through Service Providers:** Third parties that assist us with our business operations also collect and use information (including Personal Information and Usage Data) through the Services and also may share the collected information with us. For example, our vendors collect and share information with us to analyze use of the Services, to analyze our website performance, to help us detect and prevent fraud and to improve user experience.
+**Through Service Providers:** Our vendors that assist us with our business operations also collect and use information (including Personal Information and Usage Data) through the Services and also may share the collected information with us. For example, our vendors collect and share information with us to analyze use of the Services, to analyze our website performance, to help us detect and prevent fraud and to improve user experience.
 
-#### III. HOW INFORMATION IS SHARED AND DISCLOSED
+#### III. HOW WE DISCLOSE PERSONAL INFORMATION
 
-We may share and disclose information as described at the time information is collected and as follows:
+We may disclose information as described at the time information is collected and as follows:
 
 **To Perform Services.** We may use third parties to perform services requested or functions initiated by users. In addition, we may disclose Personal Information to identify a user in connection with communications sent through the Services. We also may offer users the opportunity to share information with friends and other users through the Services.
 
-**With Amgen's Third Party Contractors.** We share information, including Personal Information, with our service providers to perform the functions for which we engage them, such as data analysis, system design and maintenance, customer services and for advertising, marketing and promotions.
+**With Amgen's Vendors.** We share information, including Personal Information, with our vendors to perform the functions for which we engage them, such as data analysis, system design and maintenance, customer services and for advertising, marketing and promotions.
 
 **With Co-branding Partners.** We may partner with other companies to provide you with content or services on a joint or "co-branded" basis. When websites or services are co-branded, you will see both the Amgen logo and the logo of our co-branding partner. When you register for a co-branded website or service, your registration information may be shared with one or more of Amgen's co-branding partners. You may avoid sharing your information with Amgen's partners on co-branded sites or service by choosing not to use them. Each co-branding partner will have its own privacy policy and its privacy practices may differ from this Privacy Statement.
 
-Data obtained through text messaging short code programs will not be share with any third-parties for their marketing reasons/purposes.
+Data obtained through text messaging short code programs will not be shared with any third parties for their marketing reasons/purposes.
 
 **Social Media Plugins.** When you use the Services, Social Media operators can place a cookie on your computer to recognize individuals who have previously visited the Services. If you are logged into a Social Media account while using the Services, the social plugins allow that Social Media operator to receive information that you have accessed and used the Services. The social plugins also allow the Social Media operator to share information about your activities in or through the Services with other Social Media users. For example, Facebook Social Plugins allows Facebook to show your Likes and comments on our pages to your Facebook friends. Facebook Social Plugins also allows you to see your friends' Facebook activity through the Services. Amgen does not control any of the content from the Social Media plugins. For more information about Social Media plugins, please refer to the privacy statements and other legal notices of the Social Media platform.
 
@@ -362,7 +362,7 @@ Data obtained through text messaging short code programs will not be share with 
 
 We use third-party advertising companies to serve ads on other websites, including Social Media sites, and digital services. These companies may use information obtained from data collection tools in order to measure advertising effectiveness and to provide advertisements of interest to you.
 
-[**You can opt out here**](http://preferences-mgr.truste.com/?pid=amgen01&aid=amgen_pub01&type=amgen) so as not to receive targeted ads from use of the tools, but this will not affect any general advertisements you may receive.
+[**You can opt out here**](http://preferences-mgr.truste.com/?pid=amgen01&aid=amgen_pub01&type=amgen) so as not to receive targeted ads from certain online advertising networks, but this will not affect any general advertisements you may receive. You may also continue to receive targeted ads from other third parties.
 
 #### V. LINKS TO OTHER WEBSITES/SERVICES
 
@@ -384,9 +384,9 @@ When you access any interactive Service, you will be asked to affirmatively choo
 
 **Receive Marketing Communications.** When you register for the Services, you may request to receive email containing information about Amgen that we think you might find useful, including promotions, announcements of new services and products, and newsletters on particular health topics. If you decide, at any time, that you no longer wish to receive these emails you may unsubscribe from our email list by clicking the unsubscribe link in the email marketing communication you receive.
 
-**Accept and Reject Cookies.** Your browser software can be set to reject all cookies, but if you reject our cookies, certain of the functions and conveniences of the Services may not work properly. To learn more about cookies, please check your browser’s help or similar feature or visit [allaboutcookies.org](http://allaboutcookies.org/) .
+**Accept and Reject Cookies.** Your browser software can be set to reject cookies, but if you reject our cookies, certain of the functions and conveniences of the Services may not work properly. To learn more about cookies, please check your browser’s help or similar feature or visit [allaboutcookies.org](http://allaboutcookies.org/) .
 
-**How We Respond to Browser “Do Not Track” Signals.** Some web browsers incorporate a "do-not-track" or similar feature that signals to websites with which the browser communicates that a visitor does not want to have his/her online activity tracked. If a digital service that responds to a particular DNT signal receives the DNT signal, the browser can block that digital service from collecting certain Personal Information about the browser’s user. As of the Effective Date not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, Amgen along with many other digital service operators do not currently respond to DNT signals. For more information about DNT signals, visit [allaboutdnt.com](http://allaboutdnt.com/) .
+**How We Respond to Opt-Out Preference Signals.** Some web browsers or browser add-ons allow consumers to use opt-out preference signals that signal to websites with which the browser communicates that a visitor does not want to have his/her online activity tracked. As of the Effective Date not all browsers offer an opt-out preference signal option and opt-out preference signals are not yet uniform. Our websites generally do not recognize opt-out preference signals, except that we do recognize them to the extent and in the jurisdictions where we are required to do so by law. Please also note that we do not recognize the “Do Not Track” signal. IMPORTANT NOTE: Amgen cannot comply with a consumer's request to amend or remove information that was provided to Amgen by a healthcare professional or a consumer regarding an adverse drug event.
 
 IMPORTANT NOTE: Amgen cannot comply with a consumer's request to amend or remove information that was provided to Amgen by a healthcare professional or a consumer regarding an adverse drug event.
 
@@ -402,9 +402,9 @@ Amgen reserves the right to change the terms of this Privacy Statement. If we ma
 
 #### X. SUPPLEMENTAL PRIVACY NOTICE FOR CALIFORNIA AND OTHER APPLICABLE U.S. STATE LAWS
 
-Last Updated December 13, 2023
+Last Updated November --, 2024
 
-This Supplemental Website Privacy Notice ("Supplemental Notice") applies only to information collected about Consumers of U.S. states with comprehensive privacy legislation that requires provision of a privacy notice. Specifically, it provides information required under comprehensive state privacy legislation in California, Colorado, Connecticut, Montana, Oregon, Tennessee, Texas, Utah, and Virginia (collectively, "U.S. Privacy Laws"). We also provide additional disclosures for compliance with the Washington My Health My Data Act, the Nevada My Health My Data Act and Nevada Revised Statutes Chapter 603A – please see [amgen.com/healthdataprivacypolicy](https://wwwext.amgen.com/healthdataprivacypolicy)
+This Supplemental Website Privacy Notice ("Supplemental Notice") applies only to information collected about Consumers who are residents of California and other U.S. states with comprehensive privacy legislation that applies to Amgen. We also provide additional disclosures for compliance with consumer health data laws, including those in Washington and Nevada, at the following link: [amgen.com/healthdataprivacypolicy](https://wwwext.amgen.com/healthdataprivacypolicy)
 
 This Supplemental Notice describes Amgen's ("we," "us," "our") practices regarding the collection, use, and disclosure of Personal Information and provides instructions for submitting data subject requests. This Supplemental Notice is broader in scope than our Privacy Statement because this Supplemental Notice applies to Personal Information we Collect from you when you interact with us online (through our Site and our other websites, Apps, and Services) and offline.
 
@@ -419,7 +419,7 @@ Please also note that this Supplemental Notice does not address our collection a
 **A. Definitions**
 
 * "Personal Information"means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household. Personal Information includes "personal data" as that term is defined in the U.S. Privacy Laws. Personal Information also includes "Sensitive Personal Information," as defined below, except where otherwise noted, but does not include information that is exempt from the U.S. Privacy Laws, as applicable.
-* "Sensitive Personal Information"means Personal Information specifically designated by the applicable U.S. Privacy Laws as requiring a higher level of protection, which depending on your state of residence could include Personal Information that reveals a consumer's social security, driver's license, state identification card, or passport number; account log-in, financial account number, debit card number, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account; precise geolocation; racial or ethnic origin, religious beliefs, or union membership; citizenship status; contents of email or text messages; or genetic data. Sensitive Personal Information also includes processing of biometric information for the purpose of uniquely identifying a consumer and Personal Information collected and analyzed concerning a consumer's health, sex life, or sexual orientation. Sensitive Personal Information also includes "sensitive data" as that term is defined in the U.S. Privacy Laws.
+* "Sensitive Personal Information" means Personal Information specifically designated by the applicable U.S. Privacy Laws as requiring a higher level of protection, which depending on your state of residence could include Personal Information that reveals a consumer's social security, driver's license, state identification card, or passport number; account log-in, financial account number, debit card number, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account; precise geolocation; racial or ethnic origin, citizenship or immigration status, religious or philosophical beliefs, or union membership; contents of email or text messages; or genetic data. Sensitive Personal Information also includes processing of biometric information for the purpose of uniquely identifying a consumer and Personal Information collected and analyzed concerning a consumer's health, sex life, or sexual orientation. Sensitive Personal Information also includes "sensitive data" as that term is defined in the U.S. Privacy Laws.
 * "Third Party" has the meanings afforded to it in the U.S. Privacy Laws.
 * "Vendor" means a service provider, contractor, or processor as those terms are defined in the U.S. Privacy Laws.
 
@@ -427,7 +427,7 @@ To the extent other terms used in this Supplemental Notice are defined terms und
 
 **B. Collection & Processing of Personal Information and Disclosure of Personal Information to Vendors & Third Parties**
 
-We, and our Vendors, collect the following categories of Personal Information about consumers. In the past 12 months we have also collected and processed the following categories of Personal Information. Further, in the past 12 months, we have disclosed the following categories of Personal Information about consumers to Vendors and Third Parties for a business purpose:
+We, and our Vendors, collect the following categories of Personal Information about consumers. In the past 12 months we have also collected and processed the following categories of Personal Information. Further, we disclose, and we have disclosed in the past 12 months, the following categories of Personal Information about consumers to Vendors and Third Parties for a business purpose:
 
 1. Identifiers, such as name, alias, online identifiers, account name, physical characteristics or description;
 2. Contact information, including phone number, address, email address;
@@ -473,14 +473,22 @@ We, and our Vendors, collect the following categories of Personal Information ab
 
 **C. Sale & Sharing of Personal Information**
 
-The California Consumer Privacy Act of 2018 as amended by the California Privacy Rights Act of 2020 (collectively, the "CCPA") defines "sale" broadly to include sharing, transferring, disclosing, or otherwise communicating personal information with a third party for monetary or other valuable consideration, and other U.S. Privacy Laws use similar definitions of "sale." We do not sell Personal Information and we have discontinued programs that involved the sale of customer data for the purpose of delivering online advertising that was more tailored to our customer's interests. In those programs, we sold codes and related information that identified unique devices and browsers that visited our sites, but we did not sell information that identified our customers by name, address, or phone number.
+The California Consumer Privacy Act of 2018 as amended by the California Privacy Rights Act of 2020 (collectively, the "CCPA") defines "sale" broadly to include sharing, transferring, disclosing, or otherwise communicating personal information with a third party for monetary or other valuable consideration, and other U.S. Privacy Laws use similar definitions of "sale."
 
-* **Disclosure for California Consumers:** We will not sell or share any of the categories of Personal Information we collect about you, and we have not sold or shared Personal Information about California consumers in the past twelve months. Relatedly, we do not have actual knowledge that we sell or share Personal Information of California consumers under 16 years of age. For purposes of the CCPA, a "sale" is the disclosure of Personal Information to a Third Party for monetary or other valuable consideration, and a "share" is the disclosure of Personal Information to a Third Party for cross-context behavioral advertising, whether or not for monetary or other valuable consideration.
-* **Disclosure for Consumers in Other States with U.S. Privacy Laws:** We do not sell or share Personal Information to Third Parties or process Personal Information for purposes of targeted advertising or profiling in furtherance of decisions that produce legal or similarly significant effects concerning a Consumer as the terms "sell," "share," "process," "targeted advertising, " and "profiling" are defined in the U.S. Privacy Laws.
+* **Disclosure for California Consumers:** We will not sell or share any of the categories of Personal Information we collect about California consumers, and we have not sold or shared Personal Information about California consumers in the past twelve months. Relatedly, we do not have actual knowledge that we sell or share Personal Information of California consumers under 16 years of age. For purposes of the CCPA, a "sale" is the disclosure of Personal Information to a Third Party for monetary or other valuable consideration, and a "share" is the disclosure of Personal Information to a Third Party for cross-context behavioral advertising, whether or not for monetary or other valuable consideration.  
+      
+    
+    However, if you direct us to disclose your Personal Information to third parties by accepting cookies via our cookie banner, we will disclose your Personal Information to such third parties, and those third parties may use your Personal Information for their own purposes, including for marketing and advertising purposes.
+    
+* **Disclosure for Consumers in Other States with U.S. Privacy Laws:** Because the other U.S. Privacy Laws have varied and broad definitions of the terms "sale" and processing of Personal Information for "targeted advertising," our disclosures of Personal Information to third parties via cookies and other online tracking technologies that occur after you have accepted such disclosures via the cookie banner may constitute "selling" and processing of Personal Information for purposes of "targeted advertising" in some states. We do not make disclosures that may constitute a "sale" if you do not accept cookies and other online tracking technologies via the cookie banner.  Accordingly, we provide the following notice as required by some of the U.S. Privacy Laws:  
+      
+    NOTICE: We may sell your sensitive personal data.  
+      
+    Separately, please note that we do not process Personal Information for purposes of profiling in furtherance of decisions that produce legal or similarly significant effects concerning a Consumer, as the term "profiling" is defined by the U.S. Privacy Laws.
 
 **D. Sources from Which We Collect Personal Information**
 
-We collect Personal Information directly from you as well as from the following categories of sources:
+We collect Personal Information directly from you as well as from the sources listed below. Where required by applicable law, we will obtain your consent prior to collecting Personal Information about you via these sources.
 
 * Healthcare providers (including specialty pharmacies)
 * Health insurance companies (health plans) and other payors
@@ -566,31 +574,32 @@ We may also deidentify any Personal Information we collect about you. When we do
 
 **G. Data Subject Rights**
 
-* **Exercising Data Subject Rights.** California, Colorado, Connecticut, Montana, Oregon, Tennessee, Texas, Utah, and Virginia consumers have the following rights with respect to the collection and use of their Personal Information. Please read this section carefully as some rights vary by state.  
+* **Exercising Data Subject Rights.** Consumers who reside in states with comprehensive privacy legislation, including residents of California, have the following rights with respect to the collection and use of their Personal Information. Please read this section carefully as some rights vary by state.  
       
     
     You may exercise the data subject rights applicable to you by calling +1-800-867-6677 or by [clicking here](https://privacyportal.onetrust.com/webform/f56ba454-120c-4338-bbd0-0f27ae8cd5c3/3842f7ea-7241-478f-b682-5f4924bc99ef). Consumers in some states may also authorize an agent to make data subject requests on their behalf.
     
 
-* **Right to Know:** You have the right to know the following details about our privacy practice at or before the point of collection. We have provided such information in this Supplemental Notice. You may also request that we provide you with information about the following aspects of how we have handled your Personal Information specifically in the 12 months preceding your request:  
+* **Right to Know:** You have the right to know the following details about our privacy practices at or before the point of collection. We have provided such information in this Supplemental Notice. You may also request that we provide you with information about the following aspects of how we have handled your Personal Information specifically in the 12 months preceding your request:  
     
 
 * The categories of Personal Information we collected about you;
 * The categories of sources from which we collected such Personal Information;
 * The business or commercial purpose for collecting, selling, or sharing Personal Information about you;
-* The categories of Personal Information about you that we disclosed and the categories of Third Parties with whom we disclosed such Personal Information;
-* The categories of Personal Information about you that we sold, shared, or used for targeted advertising purposes, and the categories of Third Parties with whom we sold or shared such Personal Information;
+* The categories of Personal Information about you that we disclosed and the categories of Third Parties to whom we disclosed such Personal Information;
+* The categories of Personal Information about you that we sold, shared, or used for targeted advertising purposes, and the categories of Third Parties to whom we sold or shared such Personal Information;
 * If we collect Sensitive Personal Information, the categories of Sensitive Personal Information to be collected, the purposes for which it is collected or used, and whether that information is Sold or Shared; and
 * The length of time we intend to retain each category of Personal Information, or if that is not possible, the criteria used to determine that period.
 
 * **Right to Access Specific Pieces of Personal Information or Data Portability:** You may ask to obtain the specific pieces of Personal Information we have collected about you in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the Personal Information to another entity without hindrance. You may not exercise this right more than two times in a calendar year.
 *  **Right to Deletion:** You may request that we delete any Personal Information about you we that we collected from you. Please note that we may not be required to delete information under certain circumstances when applicable U.S. Privacy Laws include exemptions that allow us to retain the data in response to a request for deletion when, for example, necessary to comply with legal obligations, including those pertaining to the quality, safety, or effectiveness of a product or activity regulated by the Food and Drug Administration (FDA); complete a transaction; detect security incidents; or for certain other internal purposes.
 * **Right to Correction:** You may request that we correct any inaccurate Personal Information we maintain about you.
+* **Right to Revoke Consent:** If you have provided your consent to allow us to process certain Personal Information about you, you have the right to subsequently revoke your consent. However, please note that your revocation of consent may affect our ability to provide services to you. For example, if you give us consent to process health information about you to provide patient support services and then you later revoke that consent, we will no longer be able to provide patient support services to you, as processing of your health information is necessary for us to be able to do so.
 
 * **Verification of Data Subject Requests.** We may ask you to provide information that will enable us to verify your identity in order to comply with your data subject request. We use a third-party verification service, Lexis Nexis, for that purpose. To verify your identity, you must provide the required information when completing the online request form or making a request, including the last 4 digits of your social security number. We will ask you to provide your contact information and additional identifiers based on your relationship with us. Before we process your request, we will match these data points with a third-party identity verification service and data points we currently maintain to verify your identity and your relationship with us. Further, you may designate an authorized agent to make a data subject request on your behalf.  When you use an authorized agent to submit a data subject request, you must provide the authorized agent with written permission to do so, and, in certain circumstances, we may ask you to verify your own identity directly with us. We may deny a request from an authorized agent that does not submit proof that they have been authorized by you to act on your behalf. In some instances, we may decline to honor your request if an exception applies under applicable law. We will respond to your request consistent with applicable law.
 * **Non-Discrimination.** We will not discriminate against you for exercising your data subject rights. For example, we will not deny goods or services to you, or charge you different prices or rates, or provide a different level of quality for products or services as a result of you exercising your data subject rights.
-* **Appeals.** Colorado, Connecticut, Montana, Oregon, Tennessee, Texas, and Virginia consumers have the right to appeal our decisions on their data subject requests. This section does not apply to California or Utah consumers. To appeal our decision on your data subject requests, you may contact our Privacy Compliance team at [privacy@amgen.com](mailto:privacy@amgen.com) or by calling +1-800-867-6677. Please enclose a copy of or otherwise specifically reference our decision on your data subject request, so that we may adequately address your appeal. We will respond to your appeal in accordance with applicable law.
-* **Opt-Out Preference Signals.** We do not sell or share Personal Information, or use or disclose Sensitive Personal Information for purposes other than those authorized by the CCPA and its implementing regulations, as listed in Section E. Accordingly, we do not process opt-out preference signals. If we process opt-out preference signals in the future, we will update this policy to provide details about how we do so.
+* **Appeals.** Most U.S. Privacy Laws establish the right to appeal our decisions on their data subject requests. This section does not apply to California or Utah consumers. To appeal our decision on your data subject requests, you may contact our Privacy Compliance team at [privacy@amgen.com](mailto:privacy@amgen.com) or by calling +1-800-867-6677. Please enclose a copy of or otherwise specifically reference our decision on your data subject request, so that we may adequately address your appeal. We will respond to your appeal in accordance with applicable law.
+* **Opt-Out Preference Signals.** Our websites generally do not recognize opt-out preference signals, except that we do recognize them to the extent and in the jurisdictions where we are required to do so by law.
 
 **H. Other Disclosures**
 
@@ -599,12 +608,13 @@ We may also deidentify any Personal Information we collect about you. When we do
     Amgen will make a good faith effort to delete or remove your User Contribution from public view as soon as reasonably practicable. Please note, however, that your request that we delete your User Contribution does not ensure complete or comprehensive removal of your User Contribution. Your User Contribution may remain on backup media, cached or otherwise retained by Amgen for administrative or legal purposes, or your User Contribution may remain publicly available if you or someone else has forwarded or re-posted your User Contribution on another website or service prior to its deletion. Amgen may also be required by law to not remove (or allow removal) of your User Contribution.
 * **Disclosure About Direct Marketing for California Residents.** California Civil Code § 1798.83 permits California residents to annually request certain information regarding our disclosure of Personal Information to other entities for their direct marketing purposes in the preceding calendar year. We do not distribute your Personal Information to third parties (as defined by California Civil Code § 1798.83) for their own direct marketing purposes.
 * **Financial Incentives for California Consumers.** Under California law, we do not provide financial incentives to California consumers who allow us to collect, retain, sell, or share their Personal Information. We will describe such programs to you if and when we offer them to you.
+* **Privacy Notice for Nevada Residents.** To the extent we collect Personal Information that identifies you through an online website or service among the categories of Personal Information listed in Section B, we do not sell that Personal Information for monetary consideration.
 * **Changes to our Supplemental Notice.** We reserve the right to amend this Supplemental Notice at our discretion and at any time. When we make material changes to this Supplemental Notice, we will notify you by posting an updated Supplemental Notice on our website and listing the effective date of such updates.
 * **Contacting Us.** If you have any questions, comments, requests, or concerns related to this Supplemental Notice, Amgen's information practices, or how to access this policy in another format, please contact us at Privacy Compliance, One Amgen Center Drive, MS 28-4-A, Thousand Oaks, California 91320 or at [privacy@amgen.com](mailto:privacy@amgen.com) for assistance.
 
 #### XI. CONSUMER HEALTH DATA PRIVACY POLICY
 
-Please refer to [amgen.com/healthdataprivacypolicy](https://wwwext.amgen.com/healthdataprivacypolicy)
+If you are a resident of a state that has enacted consumer health data privacy legislation, please refer to [amgen.com/healthdataprivacypolicy](https://wwwext.amgen.com/healthdataprivacypolicy)
 
 ##### Contact Us
 
@@ -617,7 +627,7 @@ Thousand Oaks, California 91320
 
 Be sure to include your name, address, and email address if you want to receive a response by email. Otherwise, we will respond by postal mail within the time required by applicable law.
 
-Effective Date: December 13, 2023
+Effective Date: November --, 2024
 
 DECLARACIÓN DE PRIVACIDAD DE AMGEN
 ----------------------------------
