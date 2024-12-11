@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-“Harry Potter and the Philosopher’s Stone” was first published on June 26, 1997, by Bloomsbury. There were only 500 hardback copies printed for the initial print run.
+While filming Harry Potter and the Prisoner of Azkaban, Tom Felton’s Hogwarts robes had their pockets sewn shut because he kept trying to sneak food onto the set.
 
 ### Potter History
 
-June 4, 2012 – Sony unveils Wonderbook: Book of Spells at the Electronic Entertainment Expo in Los Angeles.
+April 20, 2006 – Harry Potter and the Order of the Phoenix film release dates are confirmed.
 
 ### Potter Quote
 
-“There’s no need to call me ‘sir,’ Professor.”
+“Aw, don’t worry, honey. Most guys think what you was thinking, first time they see me.”
 
 [](#)
 
