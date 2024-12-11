@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want the rest of the Farking story? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come check out what's behind the curtain.
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [They call me the king of the spreadsheets, got 'em all printed out on my bedsheets](https://www.fark.com/goto/13489694) ( [cbc.ca](https://www.fark.com/goto/13489694) ) » [(15 comments)](https://www.fark.com/comments/13489694/They-call-me-king-of-spreadsheets-got-em-all-printed-out-on-my-bedsheets) |
-| [Discussion](https://www.fark.com/discussion/) | [Mikey, Chunk, Stef, and Data try to return to Planet Astoria with the help of Sky Captain. Episode 3 of "Star Wars: Skeleton Crew" drops on D+ at 9 PM ET](https://www.fark.com/goto/13489698) ( [cnet.com](https://www.fark.com/goto/13489698) ) » [(1 comment)](https://www.fark.com/comments/13489698/Mikey-Chunk-Stef-Data-try-to-return-to-Planet-Astoria-with-help-of-Sky-Captain-Episode-3-of-Star-Wars-Skeleton-Crew-drops-on-D-at-9-PM-ET) |
-| [Sports](https://www.fark.com/sports/) | [Mike Tyson facing $1.5 million lawsuit after his "fight" with Jake Paul. No, not because it sucked](https://www.fark.com/goto/13489514) ( [apnews.com](https://www.fark.com/goto/13489514) ) » [(0 comments)](https://www.fark.com/comments/13489514/Mike-Tyson-facing-$15-million-lawsuit-after-his-fight-with-Jake-Paul-No-not-because-it-sucked) |
-| [Business](https://www.fark.com/business/) | [Tesla to release a sub-$30k EV next year. But it only costs less than $30k if you apply the $7,500 tax credit. The same tax credit Elon wants to eliminate](https://www.fark.com/goto/13490116) ( [caranddriver.com](https://www.fark.com/goto/13490116) ) » [(21 comments)](https://www.fark.com/comments/13490116/Tesla-to-release-a-sub-$30k-EV-next-year-But-it-only-costs-less-than-$30k-if-you-apply-$7500-tax-credit-The-same-tax-credit-Elon-wants-to-eliminate) |
-| [STEM](https://www.fark.com/stem/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13489576) ( [fark.com](https://www.fark.com/goto/13489576) ) » [(1 comment)](https://www.fark.com/comments/13489576/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Hawkeye vs Mr Plow, coming to bookstores near you soon](https://www.fark.com/goto/13490086) ( [avclub.com](https://www.fark.com/goto/13490086) ) » [(10 comments)](https://www.fark.com/comments/13490086/Hawkeye-vs-Mr-Plow-coming-to-bookstores-near-you-soon) |
-| [Fandom](https://www.fark.com/fandom/) | [Mikey, Chunk, Stef, and Data try to return to Planet Astoria with the help of Sky Captain. Episode 3 of "Star Wars: Skeleton Crew" drops on D+ at 9 PM ET](https://www.fark.com/goto/13489698) ( [cnet.com](https://www.fark.com/goto/13489698) ) » [(1 comment)](https://www.fark.com/comments/13489698/Mikey-Chunk-Stef-Data-try-to-return-to-Planet-Astoria-with-help-of-Sky-Captain-Episode-3-of-Star-Wars-Skeleton-Crew-drops-on-D-at-9-PM-ET) |
-| [D'awww](https://www.fark.com/dawww/) | [Mom with Alzheimer's in memory care + mop dog that goes crazy to see her = a whole lot of dust in your room](https://www.fark.com/goto/13489624) ( [youtube.com](https://www.fark.com/goto/13489624) ) » [(3 comments)](https://www.fark.com/comments/13489624/Mom-with-Alzheimers-in-memory-care-mop-dog-that-goes-crazy-to-see-her-a-whole-lot-of-dust-in-your-room) |
-| [Food](https://www.fark.com/food/) | [Kid Rock took Guy Fieri to his favorite Clarkston, MI diner for their iconically American mac and cheese](https://www.fark.com/goto/13490092) ( [mashed.com](https://www.fark.com/goto/13490092) ) » [(12 comments)](https://www.fark.com/comments/13490092/Kid-Rock-took-Guy-Fieri-to-his-favorite-Clarkston-MI-diner-for-their-iconically-American-mac-cheese) |
-| [Politics](https://www.fark.com/politics/) | [Musktongue warns Republicans not to stand in King Trumpoden's way](https://www.fark.com/goto/13489710) ( [apnews.com](https://www.fark.com/goto/13489710) ) » [(6 comments)](https://www.fark.com/comments/13489710/Musktongue-warns-Republicans-not-to-stand-in-King-Trumpodens-way) |
+| [Main](https://www.fark.com/) | [In New Zealand, little horses will finally be allowed to be doggos again](https://www.fark.com/goto/13489290) ( [bbc.co.uk](https://www.fark.com/goto/13489290) ) » [(0 comments)](https://www.fark.com/comments/13489290/In-New-Zealand-little-horses-will-finally-be-allowed-to-be-doggos-again) |
+| [Discussion](https://www.fark.com/discussion/) | [Mikey, Chunk, Stef, and Data try to return to Planet Astoria with the help of Sky Captain. Episode 3 of "Star Wars: Skeleton Crew" drops on D+ at 9 PM ET](https://www.fark.com/goto/13489698) ( [cnet.com](https://www.fark.com/goto/13489698) ) » [(7 comments)](https://www.fark.com/comments/13489698/Mikey-Chunk-Stef-Data-try-to-return-to-Planet-Astoria-with-help-of-Sky-Captain-Episode-3-of-Star-Wars-Skeleton-Crew-drops-on-D-at-9-PM-ET) |
+| [Sports](https://www.fark.com/sports/) | [Overshown's knee overblown](https://www.fark.com/goto/13490004) ( [espn.com](https://www.fark.com/goto/13490004) ) » [(1 comment)](https://www.fark.com/comments/13490004/Overshowns-knee-overblown) |
+| [Business](https://www.fark.com/business/) | [$10B later, GM gives up on robotaxis](https://www.fark.com/goto/13490316) ( [cnbc.com](https://www.fark.com/goto/13490316) ) » [(3 comments)](https://www.fark.com/comments/13490316/$10B-later-GM-gives-up-on-robotaxis) |
+| [STEM](https://www.fark.com/stem/) | [Canadians stop playing hockey and guzzling Maple Syrup long enough to invent a low-carbon jet fuel](https://www.fark.com/goto/13490134) ( [castanet.net](https://www.fark.com/goto/13490134) ) » [(5 comments)](https://www.fark.com/comments/13490134/Canadians-stop-playing-hockey-guzzling-Maple-Syrup-long-enough-to-invent-a-low-carbon-jet-fuel) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Dead Squad](https://www.fark.com/goto/13490370) ( [freep.com](https://www.fark.com/goto/13490370) ) » [(0 comments)](https://www.fark.com/comments/13490370/Dead-Squad) |
+| [Fandom](https://www.fark.com/fandom/) | [Mikey, Chunk, Stef, and Data try to return to Planet Astoria with the help of Sky Captain. Episode 3 of "Star Wars: Skeleton Crew" drops on D+ at 9 PM ET](https://www.fark.com/goto/13489698) ( [cnet.com](https://www.fark.com/goto/13489698) ) » [(7 comments)](https://www.fark.com/comments/13489698/Mikey-Chunk-Stef-Data-try-to-return-to-Planet-Astoria-with-help-of-Sky-Captain-Episode-3-of-Star-Wars-Skeleton-Crew-drops-on-D-at-9-PM-ET) |
+| [D'awww](https://www.fark.com/dawww/) | [Mom with Alzheimer's in memory care + mop dog that goes crazy to see her = a whole lot of dust in your room](https://www.fark.com/goto/13489624) ( [youtube.com](https://www.fark.com/goto/13489624) ) » [(6 comments)](https://www.fark.com/comments/13489624/Mom-with-Alzheimers-in-memory-care-mop-dog-that-goes-crazy-to-see-her-a-whole-lot-of-dust-in-your-room) |
+| [Food](https://www.fark.com/food/) | [Kid Rock took Guy Fieri to his favorite Clarkston, MI diner for their iconically American mac and cheese](https://www.fark.com/goto/13490092) ( [mashed.com](https://www.fark.com/goto/13490092) ) » [(55 comments)](https://www.fark.com/comments/13490092/Kid-Rock-took-Guy-Fieri-to-his-favorite-Clarkston-MI-diner-for-their-iconically-American-mac-cheese) |
+| [Politics](https://www.fark.com/politics/) | [Political journalist thinks most unqualified cabinet picks in history will finally be what stops the most unqualified president in history](https://www.fark.com/goto/13489382) ( [newrepublic.com](https://www.fark.com/goto/13489382) ) » [(5 comments)](https://www.fark.com/comments/13489382/Political-journalist-thinks-most-unqualified-cabinet-picks-in-history-will-finally-be-what-stops-most-unqualified-president-in-history) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 10 2024 20:42:40  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 11 2024 02:42:24  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
