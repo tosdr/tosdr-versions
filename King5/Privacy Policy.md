@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b4534c1b-74f3-4e62-b68a-4042d1d34b9d/20241211T021607/b4534c1b-74f3-4e62-b68a-4042d1d34b9d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b4534c1b-74f3-4e62-b68a-4042d1d34b9d/20241211T021607/b4534c1b-74f3-4e62-b68a-4042d1d34b9d_360x203.jpg)](https://www.king5.com/article/news/local/new-mural-seattle-cowen-park-ravenna-neighborhood-vandalized/281-245ce3ec-22c2-4937-b960-f4adb5157294)
+    *  [![](https://media.king5.com/assets/KING/images/9bd3a61e-3026-4faa-b980-df0c9165dbaf/20241211T022829/9bd3a61e-3026-4faa-b980-df0c9165dbaf_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9bd3a61e-3026-4faa-b980-df0c9165dbaf/20241211T022829/9bd3a61e-3026-4faa-b980-df0c9165dbaf_360x203.jpg)](https://www.king5.com/article/sports/soccer/world-cup/seattle-projected-make-over-900-million-hosting-2026-world-cup-matches/281-296e9f0d-97b5-4805-a168-2879bad00e9e)
         
-        #### [New mural in Seattle park 'violently defaced'](https://www.king5.com/article/news/local/new-mural-seattle-cowen-park-ravenna-neighborhood-vandalized/281-245ce3ec-22c2-4937-b960-f4adb5157294) [![](https://media.king5.com/assets/KING/images/b4534c1b-74f3-4e62-b68a-4042d1d34b9d/20241211T021607/b4534c1b-74f3-4e62-b68a-4042d1d34b9d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b4534c1b-74f3-4e62-b68a-4042d1d34b9d/20241211T021607/b4534c1b-74f3-4e62-b68a-4042d1d34b9d_360x203.jpg)](https://www.king5.com/article/news/local/new-mural-seattle-cowen-park-ravenna-neighborhood-vandalized/281-245ce3ec-22c2-4937-b960-f4adb5157294)
+        #### [Seattle projected to make over $900 million from hosting 2026 World Cup matches](https://www.king5.com/article/sports/soccer/world-cup/seattle-projected-make-over-900-million-hosting-2026-world-cup-matches/281-296e9f0d-97b5-4805-a168-2879bad00e9e)
         
-        #### [New mural in Cowen Park vandalized](https://www.king5.com/article/news/local/new-mural-seattle-cowen-park-ravenna-neighborhood-vandalized/281-245ce3ec-22c2-4937-b960-f4adb5157294)
-    *  [![](https://media.king5.com/assets/KING/images/ad2b1e3a-5886-42dd-912a-6b3dca0b147b/20241210T191054/ad2b1e3a-5886-42dd-912a-6b3dca0b147b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ad2b1e3a-5886-42dd-912a-6b3dca0b147b/20241210T191054/ad2b1e3a-5886-42dd-912a-6b3dca0b147b_360x203.jpg)](https://www.king5.com/article/news/local/bellevue/bellevue-bomb-squad-suspicious-vehicle-mall-parking-lot/281-f415d6f3-f934-4499-be36-4eddde0de31b)
+    *  [![](https://media.king5.com/assets/KING/images/e7cec8c5-da70-4105-9081-d6c84a6b0a27/20241211T023819/e7cec8c5-da70-4105-9081-d6c84a6b0a27_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e7cec8c5-da70-4105-9081-d6c84a6b0a27/20241211T023819/e7cec8c5-da70-4105-9081-d6c84a6b0a27_360x203.jpg)](https://www.king5.com/article/money/business/washington-state-reaction-kroger-albertsons-merger-block/281-223a7924-f960-4325-a0c7-3afee1d8d06a)
         
-        #### [Bellevue bomb squad investigate 'suspicious' vehicle in mall parking lot](https://www.king5.com/article/news/local/bellevue/bellevue-bomb-squad-suspicious-vehicle-mall-parking-lot/281-f415d6f3-f934-4499-be36-4eddde0de31b)
+        #### [King County Superior Court judge issues permanent injunction on Kroger-Albertsons merger](https://www.king5.com/article/money/business/washington-state-reaction-kroger-albertsons-merger-block/281-223a7924-f960-4325-a0c7-3afee1d8d06a)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -87,9 +86,9 @@ Navigation
         
         #### [Seahawks' Smith-Njigba talks family, faith and football in 1-on-1 interview](https://www.king5.com/article/sports/nfl/seahawks/1-on-1-interview-seahawks-receiver-jaxon-smith-njigba/281-e7707627-45d8-47a3-8ae1-631385961e9f)
         
-    *  [![](https://media.king5.com/assets/KING/images/cdfd217c-c59c-4c3f-8792-2fad1c2aa86e/20241209T000745/cdfd217c-c59c-4c3f-8792-2fad1c2aa86e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cdfd217c-c59c-4c3f-8792-2fad1c2aa86e/20241209T000745/cdfd217c-c59c-4c3f-8792-2fad1c2aa86e_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/three-takeaways-seahawks-27-18-win-over-cardinals/281-a22eebf0-75d5-4143-9e7a-1793e82f6824)
+    *  [![](https://media.king5.com/assets/KING/images/d2033334-e7d4-4e07-86f5-5e78f8a24f94/20241211T071823/d2033334-e7d4-4e07-86f5-5e78f8a24f94_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d2033334-e7d4-4e07-86f5-5e78f8a24f94/20241211T071823/d2033334-e7d4-4e07-86f5-5e78f8a24f94_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/barkov-and-reinhart-help-the-panthers-beat-the-kraken-2-1-in-a-shootout/281-79b90252-7f74-4afb-85a9-e69b798275c0)
         
-        #### [Here are three takeaways from the Seahawks' 30-18 win over the Cardinals](https://www.king5.com/article/sports/nfl/seahawks/three-takeaways-seahawks-27-18-win-over-cardinals/281-a22eebf0-75d5-4143-9e7a-1793e82f6824)
+        #### [Barkov and Reinhart help the Panthers beat the Kraken 2-1 in a shootout](https://www.king5.com/article/sports/nhl/kraken/barkov-and-reinhart-help-the-panthers-beat-the-kraken-2-1-in-a-shootout/281-79b90252-7f74-4afb-85a9-e69b798275c0)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -106,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-42°
+38°
 
-![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
