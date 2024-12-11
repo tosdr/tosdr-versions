@@ -1,4 +1,4 @@
-![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                         Rad Power Bikes Terms of Purchase | Rad Power Bikes | Rad Power Bikes                                [Skip to content](#main)
+![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                            Rad Power Bikes Terms of Purchase | Rad Power Bikes | Rad Power Bikes                              [Skip to content](#main)
 
 [Up to $499 in Savings](https://www.radpowerbikes.com/pages/sales-deals "Up to $499 in Savings")
 
@@ -234,7 +234,7 @@
     
     [##### Help Center
     
-    Not sure which ebike you have? Visit our help center to get the right parts for your ebike.](https://support.radpowerbikes.com/Learn_before_you_buy/What's_the_best_ebike_for_me%3F/How_to_identify_your_Rad_Power_Bikes_model_number "Help Center")
+    Not sure which ebike you have? Visit our help center to get the right parts for your ebike.](https://www.radpowerbikes.com/pages/support "Help Center")
     
 * [Service & support](https://www.radpowerbikes.com/pages/rad-service "Service & Support") [ ] 
     
@@ -258,17 +258,17 @@
     ##### [Owning a Rad ebike](https://support.radpowerbikes.com/ "Owning a Rad ebike") Owning a Rad ebike
     
     * [Rad service](https://www.radpowerbikes.com/pages/rad-service "Rad service")
-    * [Help center](https://support.radpowerbikes.com/ "Help center")
+    * [Help center](https://www.radpowerbikes.com/pages/support "Help center")
     * [Track my order](https://www.radpowerbikes.com/pages/lookup-order "Track my order")
     * [Return a product](https://www.radpowerbikes.com/apps/returns "Return a product")
     
     [##### Help center
     
-    Search our extensive help center or contact us via email or chat Monday-Friday from 8am-4pm PT, and Saturday-Sunday from 9am-3pm PT.](https://support.radpowerbikes.com/ "Help center")[##### Service
+    Search our extensive help center or contact us via email or chat Monday-Friday from 8am-4pm PT, and Saturday-Sunday from 9am-3pm PT.](https://www.radpowerbikes.com/pages/support "Help center")[##### Service
     
     Search our network of 1000+ service partners to find one near you.](https://www.radpowerbikes.com/pages/rad-service "Service")
     
-* [Why Rad](https://www.radpowerbikes.com/pages/about "Why Rad") [ ] 
+* [Why Rad](https://www.radpowerbikes.com/pages/support "Why Rad") [ ] 
     
     Why Rad
     
@@ -292,7 +292,7 @@
     [LIVE CUSTOMER SUPPORT
     ---------------------
     
-    Visit our Help Center](https://support.radpowerbikes.com/ "Live Customer Support")
+    Visit our Help Center](https://www.radpowerbikes.com/pages/support "Live Customer Support")
     
 * [Find Rad Near you](https://www.radpowerbikes.com/pages/showroom "Find Rad Near you") [Sign in / Sign up](javascript:void(0) "Sign in / Sign up")
     
@@ -646,7 +646,7 @@ Before you buy
 --------------
 
 * [Test rides](https://www.radpowerbikes.com/pages/locations)
-* [Shipping](https://support.radpowerbikes.com/Orders%2C_shipping%2C_and_returns/Shipping_and_tracking/Shipping_details)
+* [Shipping](https://www.radpowerbikes.com/pages/support-shipping)
 * [Return policy](https://www.radpowerbikes.com/pages/terms-of-purchase#returns)
 * [Product protection](https://www.radpowerbikes.com/pages/protection-plan)
 * [Financing](https://www.radpowerbikes.com/pages/financing)
@@ -659,14 +659,14 @@ After you buy
 
 * [Track my order](https://www.radpowerbikes.com/pages/lookup-order)
 * [Return a product](https://www.radpowerbikes.com/apps/returns)
-* [Holiday return policy](https://support.radpowerbikes.com/Orders%2C_shipping_and_returns/Returns/How_to_request_a_return)
+* [Holiday return policy](https://www.radpowerbikes.com/pages/support?a=How-to-request-a-return---id--pc2zKCAsTJKYCn2Q-7qH2g)
 * [Rad service center](https://www.radpowerbikes.com/pages/rad-service)
-* [Assembly videos & owner's manuals](https://support.radpowerbikes.com/Assembly_and_how-tos/Assembly_and_manuals/Download_my_owner%27s_manual_or_view_assembly_video)
+* [Assembly videos & owner's manuals](https://www.radpowerbikes.com/pages/support?a=Owner%27s-Manuals-and-Assembly-Videos---id--WprHI0VcRtm1OXwnodAFRQ)
 
 Get help
 --------
 
-* [Help center](https://support.radpowerbikes.com/)
+* [Help center](https://www.radpowerbikes.com/pages/support)
 * [Do not sell my personal information](https://www.radpowerbikes.com/pages/privacy-policy)
 * [RadWagon 4 recall notice](https://www.radpowerbikes.com/pages/recall-radwagon4-tires)
 
