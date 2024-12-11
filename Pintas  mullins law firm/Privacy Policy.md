@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is non small cell lung cancer the same as mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-is-non-small-cell-lung-cancer-the-same-as-mesothelioma.jpg "Is Non Small Cell Lung Cancer the Same As Mesothelioma?")](https://www.pintas.com/lung-cancer/is-non-small-cell-lung-cancer-the-same-as-mesothelioma/ "Is Non Small Cell Lung Cancer the Same As Mesothelioma?")
+[![How to help mormon church victims of sexual abuse](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-4-300x200.jpg "How to Help Mormon Church Victims of Sexual Abuse")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-can-i-help-a-mormon-church-sexual-abuse-victim/ "How to Help Mormon Church Victims of Sexual Abuse")
 
-[#### Is Non Small Cell Lung Cancer the Same As Mesothelioma?](https://www.pintas.com/lung-cancer/is-non-small-cell-lung-cancer-the-same-as-mesothelioma/)
+[#### How to Help Mormon Church Victims of Sexual Abuse](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-can-i-help-a-mormon-church-sexual-abuse-victim/)
 
-[![What are the four stages of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-what-are-the-four-stages-of-lung-cancer.jpg "What Are the Four Stages of Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/stages "What Are the Four Stages of Lung Cancer?")
+[![Can you sue for ovarian cancer caused by talcum powder?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-you-sue-for-ovarian-cancer-caused-by-talcum-powder-scaled.jpg "Can You Sue for Ovarian Cancer Caused By Talcum Powder?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-you-sue-for-ovarian-cancer-caused-by-talcum-powder/ "Can You Sue for Ovarian Cancer Caused By Talcum Powder?")
 
-[#### What Are the Four Stages of Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/stages)
+[#### Can You Sue for Ovarian Cancer Caused By Talcum Powder?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-you-sue-for-ovarian-cancer-caused-by-talcum-powder/)
 
-[![Can chemo cure small cell lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-can-chemo-cure-small-cell-lung-cancer.jpg "Can Chemo Cure Small Cell Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-chemo-cure-small-cell-lung-cancer/ "Can Chemo Cure Small Cell Lung Cancer?")
+[![How do bones break?](https://www.pintas.com/wp-content/uploads/2020/09/broken-bones-how-do-bones-break.jpg "How Do Bones Break?")](https://www.pintas.com/faq/broken-bones/ "How Do Bones Break?")
 
-[#### Can Chemo Cure Small Cell Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-chemo-cure-small-cell-lung-cancer/)
+[#### How Do Bones Break?](https://www.pintas.com/faq/broken-bones/)
 
 ### Injured?  
 Tell Us What Happened.
