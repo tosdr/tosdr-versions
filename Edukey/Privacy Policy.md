@@ -4,7 +4,7 @@
 
 * [Blog](https://www.tes.com/en-gb/for-schools/blog)
     
-* [Schools Awards](https://www.tes.com/en-gb/schools-awards)
+* [Schools Awards](https://www.tes.com/schools-awards/uk)
     
 * [Contact us](https://www.tes.com/en-gb/contact)
     
@@ -124,7 +124,7 @@ TES Close
     
 * [Blog](https://www.tes.com/en-gb/for-schools/blog)
     
-* [Schools Awards](https://www.tes.com/en-gb/schools-awards)
+* [Schools Awards](https://www.tes.com/schools-awards/uk)
     
 * [Contact us](https://www.tes.com/en-gb/contact)
     
