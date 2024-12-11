@@ -181,11 +181,11 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
+* [Project Mariner](https://techcrunch.com/2024/12/11/google-unveils-project-mariner-ai-agents-to-use-the-web-for-you)
 * [OpenAI’s Sora](https://techcrunch.com/2024/12/09/openais-sora-is-launching-today-heres-highlights-from-the-first-review/)
-* [Reddit AI Search](https://techcrunch.com/2024/12/09/reddit-tests-a-conversational-ai-search-tool/)
+* [Gemini 2.0](https://techcrunch.com/2024/12/11/gemini-2-0-googles-newest-flagship-ai-can-generate-text-images-and-speech/)
+* [Cruise Robotaxis](https://techcrunch.com/2024/12/10/cruise-employees-blindsided-by-gms-plan-to-end-robotaxi-program/)
 * [12 Days of OpenAI](https://techcrunch.com/storyline/openais-2024-event-live-updates-for-chatgpt-product-reveals-and-demos/)
-* [TikTok Ban](https://techcrunch.com/2024/12/09/bytedance-tiktok-ask-appeals-court-to-temporarily-block-sell-or-ban-law/)
-* [Nvidia Antitrust Probe](https://techcrunch.com/2024/12/09/china-opens-antitrust-probe-into-nvidia/)
 * [Tech Layoffs](https://techcrunch.com/2024/12/04/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/12/09/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
