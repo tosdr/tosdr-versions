@@ -944,7 +944,7 @@ Safari:
 
 [Trustpilot](https://de.trustpilot.com/review/www.jochen-schweizer.de)
 
-Newsletter abonnieren und 5 € Rabatt sichern
+Newsletter abonnieren und 10 € Rabatt sichern
 
 [Abonnieren](https://www.jochen-schweizer.de/newsletter/Newsletter/l/b21fs?source=Footer&label=Footer)
 
