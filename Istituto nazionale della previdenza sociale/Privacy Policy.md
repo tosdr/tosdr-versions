@@ -277,6 +277,13 @@ it
             * [Persone e comunità](https://www.inps.it/it/it/l-istituto/sostenibilita/iniziative-e-risultati/persone-e-comunita.html)
             * [Trasparenza e innovazione](https://www.inps.it/it/it/l-istituto/sostenibilita/iniziative-e-risultati/trasparenza-e-innovazione.html)
             
+        * [Bilanci di Sostenibilità](#)
+            
+            Bilanci di Sostenibilità
+            
+            * [Esplora Bilanci di Sostenibilità](https://www.inps.it/it/it/l-istituto/sostenibilita/bilanci-di-sostenibilita.html)
+            * [Bilancio di Sostenibilità 2023](https://www.inps.it/it/it/l-istituto/sostenibilita/bilanci-di-sostenibilita/bilancio-di-sostenibilita-2023.html)
+            
         
     * [Codice disciplinare](https://www.inps.it/it/it/l-istituto/codice-disciplinare.html)
     * [Comitato Unico di Garanzia](#)
