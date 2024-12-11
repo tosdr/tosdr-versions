@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 10, 2024**
+**December 11, 2024**
 
 * * *
 
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
-
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
-[Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
+[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
+
+[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
+
+[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
 [Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
-[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
-
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
-
-[Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
 
 [Forest](https://www.sciencedaily.com/news/earth_climate/forests/)
 
-[Ancient Civilizations](https://www.sciencedaily.com/news/fossils_ruins/ancient_civilizations/)
+[Cultures](https://www.sciencedaily.com/news/fossils_ruins/cultures/)
+
+[Rainforests](https://www.sciencedaily.com/news/earth_climate/rainforests/)
 
   
 
