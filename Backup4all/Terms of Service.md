@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from LeoNovus using ...](https://www.backup4all.com/how-to-back-up-data-files-from-leonovus-using-backup4all-kb.html)  
+* [Differential backup](https://www.backup4all.com/differential-backup-kb.html)  
     
-* [How to configure and use One Touch Backup?](https://www.backup4all.com/how-to-configure-and-use-one-touch-backup-kb.html)  
+* [How to backup your data to DDN](https://www.backup4all.com/how-to-backup-your-data-to-ddn-kb.html)  
     
-* [How to upgrade from FBackup to Backup4all](https://www.backup4all.com/how-to-upgrade-from-fbackup-to-backup4all-kb.html)  
+* [How to activate Backup4all online](https://www.backup4all.com/how-to-activate-kb.html)  
     
-* [How to restore from a backup?](https://www.backup4all.com/how-to-restore-from-a-backup-kb.html)  
+* [How to back up data files from HGST using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-hgst-using-backup4all-kb.html)  
     
-* [How to back up data files from Minio using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-minio-using-backup4all-kb.html)  
+* [How to backup your data to Backblaze](https://www.backup4all.com/how-to-backup-your-data-to-backblaze-kb.html)  
     
 
 Choose language:
