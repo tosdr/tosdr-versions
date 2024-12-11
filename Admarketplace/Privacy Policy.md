@@ -502,7 +502,7 @@ Measurement
 
 Resources
 
-[Antitrust](https://www.admarketplace.com/search-antitrust-admarketplace)[Blog](https://www.admarketplace.com/blog)[Insights & Research](https://www.admarketplace.com/insights-research)[Case Studies](https://www.admarketplace.com/case-studies)
+[Antitrust](https://www.admarketplace.com/search-antitrust-admarketplace)[Blog](https://www.admarketplace.com/blog)[Insights & Research](https://www.admarketplace.com/insights-research)[Case Studies](https://www.admarketplace.com/case-studies)[Sitemap](https://www.admarketplace.com/sitemap)
 
 About
 
