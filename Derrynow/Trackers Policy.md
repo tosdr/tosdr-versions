@@ -268,48 +268,14 @@ ALERT: Irish homes at risk of rat invasion over Christmas season amid warning
 [ALERT: Irish homes at risk of rat invasion over Christmas season amid warning](https://www.derrynow.com/news/national-news/1677056/alert-irish-home-at-risk-of-rat-invasion-over-christmas-season-amid-warning.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1676620/throwback-tuesday-out-and-about-the-white-river-hotel-toome-2014.html)
+[![Located: 13-year-old found 'safe and well' after going missing for 10 days](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Located: 13-year-old found 'safe and well' after going missing for 10 days")](https://www.derrynow.com/news/national-news/1677766/located-13-year-old-found-safe-and-well-after-going-missing-for-10-days.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)](https://www.derrynow.com/story-telling/pictures---videos/1676620/throwback-tuesday-out-and-about-the-white-river-hotel-toome-2014.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with attacking neighbour with machete](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with attacking neighbour with machete")](https://www.derrynow.com/news/local-news/1677052/derry-man-charged-with-attacking-neighbour-with-machete.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with attacking neighbour with machete](https://www.derrynow.com/news/local-news/1677052/derry-man-charged-with-attacking-neighbour-with-machete.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Search stood down for Monaghan teenager missing since Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Search stood down for Monaghan teenager missing since Saturday")](https://www.derrynow.com/news/national-news/1676842/search-stood-down-for-monaghan-teenager-missing-since-saturday.html)
-
-The teenager was reported missing on Saturday, December 7.
+When last seen, Mary Chantelle was wearing a dark green tracksuit, and a school jacket.
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Search stood down for Monaghan teenager missing since Saturday](https://www.derrynow.com/news/national-news/1676842/search-stood-down-for-monaghan-teenager-missing-since-saturday.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Galway woman claims €7 Million Lotto Jackpot with 25-year-old numbers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Galway woman claims €7 Million Lotto Jackpot with 25-year-old numbers")](https://www.derrynow.com/news/national-news/1676939/galway-woman-claims-7-million-lotto-jackpot-with-25-year-old-numbers.html)
-
-Interestingly, this isn’t her first win.
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Galway woman claims €7 Million Lotto Jackpot with 25-year-old numbers](https://www.derrynow.com/news/national-news/1676939/galway-woman-claims-7-million-lotto-jackpot-with-25-year-old-numbers.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![French crews arrive to assist ESB with power restoration post Storm Darragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "French crews arrive to assist ESB with power restoration post Storm Darragh")](https://www.derrynow.com/news/national-news/1676877/french-crews-arrive-to-assist-esb-with-power-restoration-post-storm-darragh.html)
-
-Enedis crews have arrived from Cherbourg and will help assist ESB Networks teams with power restoration in the aftermath of Storm Darragh. Picture: Iain White.
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[French crews arrive to assist ESB with power restoration post Storm Darragh](https://www.derrynow.com/news/national-news/1676877/french-crews-arrive-to-assist-esb-with-power-restoration-post-storm-darragh.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Located: 13-year-old found 'safe and well' after going missing for 10 days](https://www.derrynow.com/news/national-news/1677766/located-13-year-old-found-safe-and-well-after-going-missing-for-10-days.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Christmas: Council confirm service arrangements for festive season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Christmas: Council confirm service arrangements for festive season")](https://www.derrynow.com/news/local-news/1677409/derry-christmas-council-confirm-service-arrangements-for-festive-season.html)
 
@@ -317,6 +283,15 @@ Enedis crews have arrived from Cherbourg and will help assist ESB Networks teams
 
 [Derry Christmas: Council confirm service arrangements for festive season](https://www.derrynow.com/news/local-news/1677409/derry-christmas-council-confirm-service-arrangements-for-festive-season.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Eugenia Devine (Devine Hair & Beauty Salon) accepting her award](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Eugenia Devine (Devine Hair & Beauty Salon) accepting her award")](https://www.derrynow.com/news/county-derry-post/1677073/devine-new-salon-in-the-heart-of-county-derry-village.html)
+
+Eugenia Devine (Devine Hair & Beauty Salon) accepting her award
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+['Devine' new salon in the heart of County Derry village](https://www.derrynow.com/news/county-derry-post/1677073/devine-new-salon-in-the-heart-of-county-derry-village.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Two motorists arrested in Derry for driving-related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two motorists arrested in Derry for driving-related offences")](https://www.derrynow.com/news/local-news/1677145/two-motorists-arrested-in-derry-for-driving-related-offences.html)
 
@@ -327,6 +302,13 @@ PSNI
 [Two motorists arrested in Derry for driving-related offences](https://www.derrynow.com/news/local-news/1677145/two-motorists-arrested-in-derry-for-driving-related-offences.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1677216/derry-death-notices-wednesday-december-11-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, December 11, 2024](https://www.derrynow.com/news/deaths/1677216/derry-death-notices-wednesday-december-11-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![IN PICTURES: Maydown and Strathfoyle Annual Christmas Tree Light Switch On](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Maydown and Strathfoyle Annual Christmas Tree Light Switch On")](https://www.derrynow.com/story-telling/pictures---videos/1677215/in-pictures-maydown-and-strathfoyle-annual-christmas-tree-light-switch-on.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -334,14 +316,26 @@ PSNI
 [IN PICTURES: Maydown and Strathfoyle Annual Christmas Tree Light Switch On](https://www.derrynow.com/story-telling/pictures---videos/1677215/in-pictures-maydown-and-strathfoyle-annual-christmas-tree-light-switch-on.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry's Templemore Sports Complex to close for essential works](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's Templemore Sports Complex to close for essential works")](https://www.derrynow.com/news/local-news/1677106/derry-s-templemore-sports-complex-to-close-for-essential-works.html)
+[![Security alert following discovery of suspicious object in the Ranaghan Road area of Maghera.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Security alert following discovery of suspicious object in the Ranaghan Road area of Maghera.")](https://www.derrynow.com/news/county-derry-post/1677284/security-alert-following-discovery-of-suspicious-object-in-the-ranaghan-road-area-of-maghera.html)
 
-Templemore Sports Complex
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Security alert following discovery of suspicious object in the Ranaghan Road area of Maghera.](https://www.derrynow.com/news/county-derry-post/1677284/security-alert-following-discovery-of-suspicious-object-in-the-ranaghan-road-area-of-maghera.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Derry's Templemore Sports Complex to close for essential works](https://www.derrynow.com/news/local-news/1677106/derry-s-templemore-sports-complex-to-close-for-essential-works.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Derry’s factory girls sculptures set in place ahead of unveiling early next year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry’s factory girls sculptures set in place ahead of unveiling early next year")](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1677257/derrys-factory-girls-sculpturesset-in-place-ahead-of-unveiling-early-next-year.html)
+
+[Derry City and Strabane District Council](https://www.derrynow.com/section/2722/derry-city-and-strabane-district-council)
+
+[Derry’s factory girls sculptures set in place ahead of unveiling early next year](https://www.derrynow.com/news/derry-city-and-strabane-district-council/1677257/derrys-factory-girls-sculpturesset-in-place-ahead-of-unveiling-early-next-year.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Norton Show Graham Nor")](https://www.derrynow.com/news/arts---entertainment/1677287/irish-lead-the-way-as-guests-announced-for-this-week-s-graham-norton-show-on-bbc-one.html)
+
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+
+[Irish lead the way as guests announced for this week's Graham Norton Show on BBC One](https://www.derrynow.com/news/arts---entertainment/1677287/irish-lead-the-way-as-guests-announced-for-this-week-s-graham-norton-show-on-bbc-one.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -521,53 +515,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1677216/derry-death-notices-wednesday-december-11-2024.html)
+[![Derry woman charged with breaching bail conditions remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with breaching bail conditions remanded")](https://www.derrynow.com/news/local-news/1678082/derry-woman-charged-with-breaching-bail-conditions-remanded.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, December 11, 2024](https://www.derrynow.com/news/deaths/1677216/derry-death-notices-wednesday-december-11-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Inner City Trust Annual Christmas Giving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Inner City Trust Annual Christmas Giving")](https://www.derrynow.com/news/local-news/1674983/inner-city-trust-annual-christmas-giving.html)
+Derry Magistrates' Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Inner City Trust Annual Christmas Giving](https://www.derrynow.com/news/local-news/1674983/inner-city-trust-annual-christmas-giving.html)
-------------------------------------------------------------------------------------------------------------------------------------------
+[Derry woman charged with breaching bail conditions remanded](https://www.derrynow.com/news/local-news/1678082/derry-woman-charged-with-breaching-bail-conditions-remanded.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Eugenia Devine (Devine Hair & Beauty Salon) accepting her award](https://www.derrynow.com/resizer/165/93/true/2024_12_10/Eugenia_Devine_accepting_her_award-1733832865770_1733833535.jpg--.jpg?1733833535587 "Eugenia Devine (Devine Hair & Beauty Salon) accepting her award")](https://www.derrynow.com/news/county-derry-post/1677073/devine-new-salon-in-the-heart-of-county-derry-village.html)
+[![Derry man branded 'a danger to the community' remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man branded 'a danger to the community' remanded")](https://www.derrynow.com/news/local-news/1678051/derry-man-branded-a-danger-to-the-community-remanded.html)
 
-Eugenia Devine (Devine Hair & Beauty Salon) accepting her award
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man branded 'a danger to the community' remanded](https://www.derrynow.com/news/local-news/1678051/derry-man-branded-a-danger-to-the-community-remanded.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Charity decides to reopen Limavady shop days after closing](https://www.derrynow.com/resizer/165/93/true/2024_12_10/Kindness_of_Strangers-1733832542004.JPG--.JPG?1733832542027 "Charity decides to reopen Limavady shop days after closing")](https://www.derrynow.com/news/county-derry-post/1678083/charity-decides-to-reopen-limavady-shop-days-after-closing.html)
 
 [County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-['Devine' new salon in the heart of County Derry village](https://www.derrynow.com/news/county-derry-post/1677073/devine-new-salon-in-the-heart-of-county-derry-village.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Charity decides to reopen Limavady shop days after closing](https://www.derrynow.com/news/county-derry-post/1678083/charity-decides-to-reopen-limavady-shop-days-after-closing.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Local youth praised at annual Enagh Youth Forum awards](https://www.derrynow.com/resizer/165/93/true/2024_12_06/04-12-24_Enagh_Awards_06-1733506755275.jpg--.jpg?1733506756314 "Local youth praised at annual Enagh Youth Forum awards")](https://www.derrynow.com/news/local-news/1674981/local-youth-praised-at-annual-enagh-youth-forum-awards.html)
+[![Innovative planner graduates with big ambitions for the North Coast](https://www.derrynow.com/resizer/165/93/true/2024_12_11/Caolan_Oa__Neill-1733914720654.jpg--.jpg?1733914720727 "Innovative planner graduates with big ambitions for the North Coast")](https://www.derrynow.com/news/home/1677971/innovative-planner-graduates-with-big-ambitions-for-the-north-coast.html)
 
-Mark H Durkan, MLA presenting the Boxing and Self-Defence Awards at the Enagh Youth Forum's Certificate Presentation and Celebration Event. (Photos: Jim McCafferty Photography)
+Caolan O'Neill pictured at his graduation ceremony yesterday.
+
+[Home](https://www.derrynow.com/)
+
+[Innovative planner graduates with big ambitions for the North Coast](https://www.derrynow.com/news/home/1677971/innovative-planner-graduates-with-big-ambitions-for-the-north-coast.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Irish tanning brand bBold wins big at The 2024 Beauty Awards](https://www.derrynow.com/resizer/165/93/true/2024_12_11/Beauty_Awards_-bBold-1733909965041.jpg--.jpg?1733909966531 "Irish tanning brand bBold wins big at The 2024 Beauty Awards")](https://www.derrynow.com/news/county-derry-post/1677862/irish-tanning-brand-bbold-wins-big-at-the-2024-beauty-awards.html)
+
+The bBold team celebrate their success at the awards held in London.
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Irish tanning brand bBold wins big at The 2024 Beauty Awards](https://www.derrynow.com/news/county-derry-post/1677862/irish-tanning-brand-bbold-wins-big-at-the-2024-beauty-awards.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Paula Mullan, aunt of murdered showjumper Katie Simpson, speaking at Foyle Women's Aid's 16 Days of Action Candlelight Vigil in Derry's Guildhall Square.](https://www.derrynow.com/resizer/165/93/true/2024_12_11/Women_s_Aid_Candlelight_vigil_3-1733913614048.jpg--.jpg?1733913616486 "Paula Mullan, aunt of murdered showjumper Katie Simpson, speaking at Foyle Women's Aid's 16 Days of Action Candlelight Vigil in Derry's Guildhall Square.")](https://www.derrynow.com/news/local-news/1677959/letter-from-murdered-womans-daughter-read-at-derry-candlelight-vigil.html)
+
+Paula Mullan, aunt of murdered showjumper Katie Simpson, speaking at Foyle Women's Aid's 16 Days of Action Candlelight Vigil in Derry's Guildhall Square.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Local youth praised at annual Enagh Youth Forum awards](https://www.derrynow.com/news/local-news/1674981/local-youth-praised-at-annual-enagh-youth-forum-awards.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Christmas: Council confirm service arrangements for festive season](https://www.derrynow.com/resizer/165/93/true/2018/07/11173941/binday.png--.png "Derry Christmas: Council confirm service arrangements for festive season")](https://www.derrynow.com/news/local-news/1677409/derry-christmas-council-confirm-service-arrangements-for-festive-season.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry Christmas: Council confirm service arrangements for festive season](https://www.derrynow.com/news/local-news/1677409/derry-christmas-council-confirm-service-arrangements-for-festive-season.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![‘Skeoge United’ PeacePlus-funded project launched by Derry community group](https://www.derrynow.com/resizer/165/93/true/2024_12_10/09-12-24_GSAP__skeoge_united__05-1733828408229.jpg--.jpg?1733828410859 "‘Skeoge United’ PeacePlus-funded project launched by Derry community group")](https://www.derrynow.com/news/local-news/1676975/skeoge-united-peaceplus-funded-project-launched-by-derry-community-group.html)
-
-Group pictured at Monday's launch of the Greater Shantallow Area Partnership's 'Skeoge United' - a PeacepPlus funded project.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[‘Skeoge United’ PeacePlus-funded project launched by Derry community group](https://www.derrynow.com/news/local-news/1676975/skeoge-united-peaceplus-funded-project-launched-by-derry-community-group.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Letter from murdered woman’s daughter read at Derry candlelight vigil](https://www.derrynow.com/news/local-news/1677959/letter-from-murdered-womans-daughter-read-at-derry-candlelight-vigil.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
