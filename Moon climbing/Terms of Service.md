@@ -14,7 +14,7 @@ Shop
 
 Moonboard [Kits](https://moonclimbing.com/moonboard/kits-and-packages.html "Kits") [Hold Sets](https://moonclimbing.com/moonboard/holds-and-bolts.html "Hold Sets") [LEDs](https://moonclimbing.com/moonboard/led.html "LEDs") [Parts & Spares](https://moonclimbing.com/moonboard/parts-and-components.html "Parts & Spares") [View All](https://moonclimbing.com/moonboard.html "View All")
 
-Men's [Tops](https://moonclimbing.com/clothing/mens/tops.html "Tops") [Legwear](https://moonclimbing.com/mens-moon-climbing-clothes/bottoms.html "Legwear") [Accessories](https://moonclimbing.com/clothing/mens/accessories.html "Accessories") [Clearance](https://moonclimbing.com/clothing/mens/men-s-clearance.html "Clearance") [View All](https://moonclimbing.com/mens-moon-climbing-clothes.html "View All")
+Men's [Tops](https://moonclimbing.com/clothing/mens/tops.html "Tops") [Legwear](https://moonclimbing.com/mens-moon-climbing-clothes/bottoms.html "Legwear") [Accessories](https://moonclimbing.com/clothing/mens/accessories.html "Accessories") [Clearance](https://moonclimbing.com/clothing/mens/men-s-clearance.html "Clearance") [View All](https://moonclimbing.com/mens-moon-climbing-clothes.html?p=2 "View All")
 
 Women's [Tops](https://moonclimbing.com/clothing/womens/tops.html "Tops") [Legwear](https://moonclimbing.com/clothing/womens/legwear.html "Legwear") [Accessories](https://moonclimbing.com/clothing/womens/accessories.html "Accessories") [Clearance](https://moonclimbing.com/clothing/womens/women-s-clearance.html "Clearance") [View All](https://moonclimbing.com/clothing/womens.html "View All")
 
@@ -46,7 +46,7 @@ Moonboard
 
 Men's
 
-[Tops](https://moonclimbing.com/clothing/mens/tops.html "Tops") [Legwear](https://moonclimbing.com/mens-moon-climbing-clothes/bottoms.html "Legwear") [Accessories](https://moonclimbing.com/clothing/mens/accessories.html "Accessories") [Clearance](https://moonclimbing.com/clothing/mens/men-s-clearance.html "Clearance") [View All](https://moonclimbing.com/mens-moon-climbing-clothes.html "View All")
+[Tops](https://moonclimbing.com/clothing/mens/tops.html "Tops") [Legwear](https://moonclimbing.com/mens-moon-climbing-clothes/bottoms.html "Legwear") [Accessories](https://moonclimbing.com/clothing/mens/accessories.html "Accessories") [Clearance](https://moonclimbing.com/clothing/mens/men-s-clearance.html "Clearance") [View All](https://moonclimbing.com/mens-moon-climbing-clothes.html?p=2 "View All")
 
 Women's
 
