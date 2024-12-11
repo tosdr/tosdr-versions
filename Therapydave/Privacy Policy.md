@@ -112,7 +112,7 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 
 _Last updated: November 14, 2024_
 
-_“Working with Dave has been transformative for us as a couple. He's straightforward and practical, which was exactly what we needed to tackle the day-to-day challenges of moving back in together after two years of long distance. At the same time, he’s been incredibly supportive in helping us slowly unpack and address the deeper issues we’ve both been carrying. It's a relief to finally feel like we’re making real progress, both as individuals and as a couple, with someone who genuinely understands the balance we need.”_
+_“Dave Lechnyr is a very compassionate and empathetic couples therapist who has been able to work with me and my husband in very constructive and practical ways.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
