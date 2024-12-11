@@ -20,16 +20,16 @@ Wednesday, December 11 2024
 
 Latest
 
-* [Here’s What a Paid Bluesky Subscription Might Look Like](https://digitpatrox.com/heres-what-a-paid-bluesky-subscription-might-look-like/)
-* [Travel tech company Sabre notifies 30K people about data breach that compromised SSNs](https://digitpatrox.com/travel-tech-company-sabre-notifies-30k-people-about-data-breach-that-compromised-ssns/)
-* [How to check if your PC has an NPU on Windows 11](https://digitpatrox.com/how-to-check-if-your-pc-has-an-npu-on-windows-11/)
-* [Is Adobo Good for You?](https://digitpatrox.com/is-adobo-good-for-you/)
-* [How to Set Up a Metered Connection on Windows 11](https://digitpatrox.com/how-to-set-up-a-metered-connection-on-windows-11/)
-* [UK banks weathered the storm of cyber threats in 2024 – here’s why](https://digitpatrox.com/uk-banks-weathered-the-storm-of-cyber-threats-in-2024-heres-why/)
-* [Is Faxing Secure? Yes, With the Right Network Protection](https://digitpatrox.com/is-faxing-secure-yes-with-the-right-network-protection/)
-* [NYT Connections today hints and answers — Wednesday, December 11 (#549)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-december-11-549/)
-* [Wyden proposes bill to secure US telecoms after Salt Typhoon hacks](https://digitpatrox.com/wyden-proposes-bill-to-secure-us-telecoms-after-salt-typhoon-hacks/)
-* [How to free up space on a Windows PC](https://digitpatrox.com/how-to-free-up-space-on-a-windows-pc/)
+* [Adobe Express is now the default image editor in Box – Computerworld](https://digitpatrox.com/adobe-express-is-now-the-default-image-editor-in-box-computerworld/)
+* [Verizon Just Killed Its Messaging App](https://digitpatrox.com/verizon-just-killed-its-messaging-app/)
+* [2024년 최고의 ITV Hub Player(ITVX) VPN: 한국에서 ITV 스트리밍하는 방법](https://digitpatrox.com/2024%eb%85%84-%ec%b5%9c%ea%b3%a0%ec%9d%98-itv-hub-playeritvx-vpn-%ed%95%9c%ea%b5%ad%ec%97%90%ec%84%9c-itv-%ec%8a%a4%ed%8a%b8%eb%a6%ac%eb%b0%8d%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/)
+* [Windows 10 December 2024 update arrives with KB5048652](https://digitpatrox.com/windows-10-december-2024-update-arrives-with-kb5048652/)
+* [Best Baking Spatulas – Consumer Reports](https://digitpatrox.com/best-baking-spatulas-consumer-reports/)
+* [How to Add a Timestamp to Checkboxes in Excel](https://digitpatrox.com/how-to-add-a-timestamp-to-checkboxes-in-excel/)
+* [8 No-Cost Rank Tracker Templates for Dominating SERPs](https://digitpatrox.com/8-no-cost-rank-tracker-templates-for-dominating-serps/)
+* [There’s been 25 Netflix No. 1 shows so far in 2024 — here’s the 7 worth watching now](https://digitpatrox.com/theres-been-25-netflix-no-1-shows-so-far-in-2024-heres-the-7-worth-watching-now/)
+* [WPForms bug allows Stripe refunds on millions of WordPress sites](https://digitpatrox.com/wpforms-bug-allows-stripe-refunds-on-millions-of-wordpress-sites/)
+* [Trump’s pick for FTC chair promises to go after ‘censorship’ from tech companies](https://digitpatrox.com/trumps-pick-for-ftc-chair-promises-to-go-after-censorship-from-tech-companies/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01JES252MJ68AM0S8F4K557S4Y/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/heres-what-a-paid-bluesky-subscription-might-look-like/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3621317-0-19562200-1733849054-Adobe-Express-Box.jpeg?quality=50&strip=all&w=1024)](https://digitpatrox.com/adobe-express-is-now-the-default-image-editor-in-box-computerworld/)
     
-    [Here’s What a Paid Bluesky Subscription Might Look Like](https://digitpatrox.com/heres-what-a-paid-bluesky-subscription-might-look-like/)
+    [Adobe Express is now the default image editor in Box – Computerworld](https://digitpatrox.com/adobe-express-is-now-the-default-image-editor-in-box-computerworld/)
     
-    14 minutes ago
+    10 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Travel-tech-giant-Sabre-notifies-30K-of-data-breach-that-compromised-SSNs.jpg)](https://digitpatrox.com/travel-tech-company-sabre-notifies-30k-people-about-data-breach-that-compromised-ssns/)
+* [![](https://lifehacker.com/imagery/articles/01JES379CVS32Y18YX22MAXNXE/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/verizon-just-killed-its-messaging-app/)
     
-    [Travel tech company Sabre notifies 30K people about data breach that compromised SSNs](https://digitpatrox.com/travel-tech-company-sabre-notifies-30k-people-about-data-breach-that-compromised-ssns/)
+    [Verizon Just Killed Its Messaging App](https://digitpatrox.com/verizon-just-killed-its-messaging-app/)
     
-    20 minutes ago
+    38 minutes ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/02/windows11-check-npu-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-check-if-your-pc-has-an-npu-on-windows-11/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/2024년-최고의-ITV-Hub-PlayerITVX-VPN_-한국에서-ITV-스트리밍하는-방법.jpg)](https://digitpatrox.com/2024%eb%85%84-%ec%b5%9c%ea%b3%a0%ec%9d%98-itv-hub-playeritvx-vpn-%ed%95%9c%ea%b5%ad%ec%97%90%ec%84%9c-itv-%ec%8a%a4%ed%8a%b8%eb%a6%ac%eb%b0%8d%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/)
     
-    [How to check if your PC has an NPU on Windows 11](https://digitpatrox.com/how-to-check-if-your-pc-has-an-npu-on-windows-11/)
+    [2024년 최고의 ITV Hub Player(ITVX) VPN: 한국에서 ITV 스트리밍하는 방법](https://digitpatrox.com/2024%eb%85%84-%ec%b5%9c%ea%b3%a0%ec%9d%98-itv-hub-playeritvx-vpn-%ed%95%9c%ea%b5%ad%ec%97%90%ec%84%9c-itv-%ec%8a%a4%ed%8a%b8%eb%a6%ac%eb%b0%8d%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/)
     
-    21 minutes ago
+    44 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733507542/prod/content/dam/CRO-Images-2024/Health/CR-Health-InlineHero-Is-Adobo-Good-for-You-1124)](https://digitpatrox.com/is-adobo-good-for-you/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/12/kb5048652-windows-10-hero-mauro-huculak_.webp)](https://digitpatrox.com/windows-10-december-2024-update-arrives-with-kb5048652/)
     
-    [Is Adobo Good for You?](https://digitpatrox.com/is-adobo-good-for-you/)
+    [Windows 10 December 2024 update arrives with KB5048652](https://digitpatrox.com/windows-10-december-2024-update-arrives-with-kb5048652/)
     
-    24 minutes ago
+    45 minutes ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-router-with-an-internet-speed-meter-above-it-and-a-trail-of-light-around-it.jpg)](https://digitpatrox.com/how-to-set-up-a-metered-connection-on-windows-11/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733248100/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Baking-Spatulas-12-24)](https://digitpatrox.com/best-baking-spatulas-consumer-reports/)
     
-    [How to Set Up a Metered Connection on Windows 11](https://digitpatrox.com/how-to-set-up-a-metered-connection-on-windows-11/)
+    [Best Baking Spatulas – Consumer Reports](https://digitpatrox.com/best-baking-spatulas-consumer-reports/)
     
-    25 minutes ago
+    48 minutes ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [14 minutes ago
+* [10 minutes ago
     
-    ### Here’s What a Paid Bluesky Subscription Might Look Like](https://digitpatrox.com/heres-what-a-paid-bluesky-subscription-might-look-like/)
-* [20 minutes ago
+    ### Adobe Express is now the default image editor in Box – Computerworld](https://digitpatrox.com/adobe-express-is-now-the-default-image-editor-in-box-computerworld/)
+* [38 minutes ago
     
-    ### Travel tech company Sabre notifies 30K people about data breach that compromised SSNs](https://digitpatrox.com/travel-tech-company-sabre-notifies-30k-people-about-data-breach-that-compromised-ssns/)
-* [21 minutes ago
+    ### Verizon Just Killed Its Messaging App](https://digitpatrox.com/verizon-just-killed-its-messaging-app/)
+* [44 minutes ago
     
-    ### How to check if your PC has an NPU on Windows 11](https://digitpatrox.com/how-to-check-if-your-pc-has-an-npu-on-windows-11/)
+    ### 2024년 최고의 ITV Hub Player(ITVX) VPN: 한국에서 ITV 스트리밍하는 방법](https://digitpatrox.com/2024%eb%85%84-%ec%b5%9c%ea%b3%a0%ec%9d%98-itv-hub-playeritvx-vpn-%ed%95%9c%ea%b5%ad%ec%97%90%ec%84%9c-itv-%ec%8a%a4%ed%8a%b8%eb%a6%ac%eb%b0%8d%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/)
 
 Most Popular Topics
 
-* [September 28, 2024
+* [September 22, 2024
     
-    ### Intel and the US set to seal $8.5B CHIPS Act funding – Computerworld](https://digitpatrox.com/intel-and-the-us-set-to-seal-8-5b-chips-act-funding-computerworld/)
-* [7 days ago
+    ### Today’s NYT Connections Hints and Answer for September 22 (#469)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-september-22-469/)
+* [3 weeks ago
     
-    ### NZXT H7 Flow 2024 review: A PC case with exceptional airflow](https://digitpatrox.com/nzxt-h7-flow-2024-review-a-pc-case-with-exceptional-airflow/)
-* [October 21, 2024
+    ### Apple fixes two zero-days used in attacks on Intel-based Macs](https://digitpatrox.com/apple-fixes-two-zero-days-used-in-attacks-on-intel-based-macs/)
+* [November 6, 2024
     
-    ### Venom 3 Release Date, Trailer, Cast, Villain and Plot](https://digitpatrox.com/venom-3-release-date-trailer-cast-villain-and-plot/)
+    ### The Weather Is Coming to Your Mac’s Status Bar](https://digitpatrox.com/the-weather-is-coming-to-your-macs-status-bar/)
 
 Last Modified Topics
 
-* [1 hour ago
-    
-    ### Is Faxing Secure? Yes, With the Right Network Protection](https://digitpatrox.com/is-faxing-secure-yes-with-the-right-network-protection/)
-* [1 hour ago
-    
-    ### NYT Connections today hints and answers — Wednesday, December 11 (#549)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-december-11-549/)
 * [2 hours ago
     
-    ### Wyden proposes bill to secure US telecoms after Salt Typhoon hacks](https://digitpatrox.com/wyden-proposes-bill-to-secure-us-telecoms-after-salt-typhoon-hacks/)
+    ### 8 No-Cost Rank Tracker Templates for Dominating SERPs](https://digitpatrox.com/8-no-cost-rank-tracker-templates-for-dominating-serps/)
+* [2 hours ago
+    
+    ### There’s been 25 Netflix No. 1 shows so far in 2024 — here’s the 7 worth watching now](https://digitpatrox.com/theres-been-25-netflix-no-1-shows-so-far-in-2024-heres-the-7-worth-watching-now/)
+* [3 hours ago
+    
+    ### WPForms bug allows Stripe refunds on millions of WordPress sites](https://digitpatrox.com/wpforms-bug-allows-stripe-refunds-on-millions-of-wordpress-sites/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
