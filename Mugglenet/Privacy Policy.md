@@ -246,20 +246,6 @@ MuggleNet Archive Select Month December 2024  (6) November 2024  (23) October 
 
 ### December 2024
 
-#### Tue, Dec 10
-
-Hermione steals Polyjuice Potion ingredients
-
-Recurs yearly
-
-1992
-
-Sir Kenneth Branagh's birthday
-
-Recurs yearly
-
-Gilderoy Lockhart
-
 #### Wed, Dec 11
 
 Rita Skeeter interviews Hagrid
@@ -288,6 +274,20 @@ Recurs yearly
 
 2007
 
+#### Tue, Dec 17
+
+First meeting of the Dueling Club
+
+Recurs yearly
+
+1992
+
+Harry discovers he is a Parselmouth
+
+Recurs yearly
+
+1992
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-While filming Harry Potter and the Prisoner of Azkaban, Tom Felton’s Hogwarts robes had their pockets sewn shut because he kept trying to sneak food onto the set.
+Dementors don’t breed but grow, like fungus, where there is decay.
 
 ### Potter History
 
-April 20, 2006 – Harry Potter and the Order of the Phoenix film release dates are confirmed.
+July 15, 2009 – Harry Potter and the Half-Blood Prince is released in theaters.
 
 ### Potter Quote
 
-“Aw, don’t worry, honey. Most guys think what you was thinking, first time they see me.”
+“I ain’t got the brains to make this up.”
 
 [](#)
 
