@@ -1,6 +1,6 @@
-![](https://www.facebook.com/tr?id=2486930338255482&ev=PageView&noscript=1)
+![](https://www.facebook.com/tr?id=2486930338255482&ev=PageView&noscript=1)    
 
- ![](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzcgMzciIHdpZHRoPSIzNyIgaGVpZ2h0PSIzNyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
+ ![](https://www.goldwaterinstitute.org/wp-content/themes/mybizniche/assets/img/icn-magnifier.png)
 
 #### Frequently Searched
 
@@ -14,7 +14,7 @@
 
 [### School Choice](https://www.goldwaterinstitute.org/?s=School+Choice)
 
-*  [![Goldwater Institute](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==) ![Goldwater Institute](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjEwIDUzIiB3aWR0aD0iMjEwIiBoZWlnaHQ9IjUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.goldwaterinstitute.org/)
+*  [![Goldwater Institute](https://www.goldwaterinstitute.org/wp-content/themes/mybizniche/assets/img/logo.svg) ![Goldwater Institute](https://www.goldwaterinstitute.org/wp-content/themes/mybizniche/assets/img/logo-white.svg)](https://www.goldwaterinstitute.org/)
 
 * [Home](https://www.goldwaterinstitute.org/)
 * [About](https://www.goldwaterinstitute.org/about/)
@@ -49,11 +49,11 @@
 * Search
 
 * [](javascript:void(0))
-*  [![Goldwater Institute](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjEwIDUzIiB3aWR0aD0iMjEwIiBoZWlnaHQ9IjUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==) ![Goldwater Institute](data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.goldwaterinstitute.org/)
+*   [![Goldwater Institute](https://www.goldwaterinstitute.org/wp-content/themes/mybizniche/assets/img/logo-white.svg) ![Goldwater Institute](https://www.goldwaterinstitute.org/wp-content/themes/mybizniche/assets/img/logo.svg)](https://www.goldwaterinstitute.org/)
 
-![](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzIgMzIiIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)* [DONATE](https://www.goldwaterinstitute.org/donate/)
+![](https://www.goldwaterinstitute.org/wp-content/themes/mybizniche/assets/img/icon-search-global--white.png)* [DONATE](https://www.goldwaterinstitute.org/donate/)
 
-* [![](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTEzIDI5IiB3aWR0aD0iMTEzIiBoZWlnaHQ9IjI5IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.goldwaterinstitute.org/)
+* [![](https://www.goldwaterinstitute.org/wp-content/themes/mybizniche/assets/img/logo-mobile.svg)](https://www.goldwaterinstitute.org/)
 * [](javascript:void(0))
 
 * [Donate](https://www.goldwaterinstitute.org/donate/)
@@ -102,7 +102,7 @@ To learn more about how the Institute protects your privacy as a donor, please c
 
 Thank you for your interest in the Goldwater Institute.
 
- ![](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzMwIDY3MCIgd2lkdGg9IjMzMCIgaGVpZ2h0PSI2NzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) ![](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzc1IDE2NiIgd2lkdGg9IjM3NSIgaGVpZ2h0PSIxNjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+ ![](https://www.goldwaterinstitute.org/wp-content/themes/mybizniche/assets/img/cta-1.jpg) ![](https://www.goldwaterinstitute.org/wp-content/themes/mybizniche/assets/img/cta-mobile-1--new.jpg)
 
 #### Donate Now
 
@@ -112,7 +112,7 @@ Help all Americans live freer, happier lives. Join the Goldwater Institute as we
 
 _Since 1988, the Goldwater Institute has been in the liberty business — defending and promoting freedom, and achieving more than 400 victories in all 50 states. Donate today to help support our mission._
 
- ![](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzI3IDY3MCIgd2lkdGg9IjMyNyIgaGVpZ2h0PSI2NzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) ![](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzc1IDE2NiIgd2lkdGg9IjM3NSIgaGVpZ2h0PSIxNjYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+ ![](https://www.goldwaterinstitute.org/wp-content/themes/mybizniche/assets/img/cta-2.jpg) ![](https://www.goldwaterinstitute.org/wp-content/themes/mybizniche/assets/img/cta-mobile-2.jpg)
 
 #### We Protect Your Rights
 
@@ -146,7 +146,7 @@ Subscribe
 
 Δ
 
- [![](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjI1IDI4NyIgd2lkdGg9IjIyNSIgaGVpZ2h0PSIyODciIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.goldwaterinstitute.org/)[Donate Now](https://www.goldwaterinstitute.org/donate/)
+ [![](https://www.goldwaterinstitute.org/wp-content/themes/mybizniche/assets/img/logo-large.png)](https://www.goldwaterinstitute.org/)[Donate Now](https://www.goldwaterinstitute.org/donate/)
 
 ##### Learn
 
@@ -158,7 +158,7 @@ Subscribe
 
 Follow[](https://www.facebook.com/GoldwaterInstitute?ref=ts)[](https://twitter.com/GoldwaterInst)[](https://www.youtube.com/user/GoldwaterInstitute)
 
-![](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMzI2IDM4NiIgd2lkdGg9IjMyNiIgaGVpZ2h0PSIzODYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![](https://www.goldwaterinstitute.org/wp-content/themes/mybizniche/assets/img/senator.jpg)
 
 #### Barry Goldwater’s Legacy
 
