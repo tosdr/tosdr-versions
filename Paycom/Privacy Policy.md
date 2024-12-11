@@ -348,6 +348,8 @@ Thank you for subscribing.
 
 Subscribe
 
+![](/images/loading.gif) 
+
 * * *
 
 Payroll
