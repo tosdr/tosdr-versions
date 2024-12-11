@@ -428,14 +428,14 @@ If you have any questions about the service, please contact us at [mayoclinicsu
 
 ![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/11/14/giving-charity.svg)
 
-Make an impact on medicine!
----------------------------
+3X your impact!
+---------------
 
-[Give Today](https://give.mayoclinic.org/give/616729?utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devevergreen%2F%23%21%2Fdonation%2Fcheckout)
+[Give Now](https://give.mayoclinic.org/give/636875?utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devyearend%2F%23%21%2Fdonation%2Fcheckout)
 
-At Mayo Clinic, our benefactors play a crucial role in our work. Make a gift today to discover more cures and save more lives.
+Your gift can go 3X as far to shape the future of healthcare.
 
-[Give Today](https://give.mayoclinic.org/give/616729?utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devevergreen%2F%23%21%2Fdonation%2Fcheckout)
+[Give Now](https://give.mayoclinic.org/give/636875?utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devyearend%2F%23%21%2Fdonation%2Fcheckout)
 
 * [Find a doctor](https://www.mayoclinic.org/appointments/find-a-doctor)
     
