@@ -162,9 +162,9 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-"Fantastic - the most relevant material/resource ever seen for both dyslexia and teaching spelling rules."
+"I have just subscribed and look forward to continuing to use Spellzone. I have been really impressed with the program during the trial period and the students gave very positive feedback. Many thanks."
 
-**College Lecturer**
+**Teacher, International School, Geneva**
 
 ### Curriculum...
 
