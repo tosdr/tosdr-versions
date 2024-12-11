@@ -537,6 +537,8 @@ Translate Language
     * [Web Services](http://www.houstonisd.org/Page/68291)
     * [Workers' Compensation](http://www.houstonisd.org/Page/73125)
     * [Wraparound Services](https://www.houstonisd.org/domain/45633)
+    * [Facility Rentals](https://www.houstonisd.org/domain/57712)
+    * [SPARK Parks](https://www.houstonisd.org/domain/57713)
     * [3C's Initiative](https://www.houstonisd.org/domain/27344)
     * [Academic Support](https://www.houstonisd.org/domain/50845)
     * [Advanced Academics](https://www.houstonisd.org/domain/8034)
