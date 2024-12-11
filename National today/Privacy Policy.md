@@ -321,8 +321,8 @@ We keep track of fun holidays and special moments on the cultural calendar — g
 ### Follow us on
 
 * [](https://www.facebook.com/nationaltoday "Follow us on Facebook")
-* [](https://twitter.com/natltoday "Follow us on Twitter")
-* [](https://www.instagram.com/natltoday "Follow us on Instagram")
+* [](https://x.com/NationalToday_ "Follow us on Twitter")
+* [](https://www.instagram.com/nationaltoday_/ "Follow us on Instagram")
 
 [Follow @NatlToday](https://twitter.com/NatlToday)
 
