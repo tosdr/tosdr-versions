@@ -329,14 +329,14 @@ Accepted Web-Rings.
 Recent Comments
 ---------------
 
+* [S-Config](https://www.s-config.com/) on [Chinese Xbox 360 Wireless Receiver Driver setup](https://www.s-config.com/chinese-xbox-360-wireless-receiver-driver-setup/comment-page-39/#comment-94121)
+* Genus on [Chinese Xbox 360 Wireless Receiver Driver setup](https://www.s-config.com/chinese-xbox-360-wireless-receiver-driver-setup/comment-page-39/#comment-94117)
+* Genus on [Chinese Xbox 360 Wireless Receiver Driver setup](https://www.s-config.com/chinese-xbox-360-wireless-receiver-driver-setup/comment-page-39/#comment-94116)
 * [S-Config](https://www.s-config.com/) on [Presearch – a search engine review.](https://www.s-config.com/presearch/comment-page-1/#comment-93860)
 * [Prof. Fred Nazar](https://scientificprogress.substack.com/) on [Presearch – a search engine review.](https://www.s-config.com/presearch/comment-page-1/#comment-93777)
 * [S-Config](https://www.s-config.com/) on [Google, Facebook, Medium, Humanity?](https://www.s-config.com/google-facebook-medium-humanity/comment-page-1/#comment-93569)
 * sleepingStill on [Google, Facebook, Medium, Humanity?](https://www.s-config.com/google-facebook-medium-humanity/comment-page-1/#comment-93555)
 * Avery on [Chinese Xbox 360 Wireless Receiver Driver setup](https://www.s-config.com/chinese-xbox-360-wireless-receiver-driver-setup/comment-page-38/#comment-93475)
-* [S-Config](https://www.s-config.com/) on [YouTube – FTC – Think of the Children – Censorship – Round 3!](https://www.s-config.com/youtube-ftc-censorship-round-3/comment-page-1/#comment-93327)
-* Hugh on [YouTube – FTC – Think of the Children – Censorship – Round 3!](https://www.s-config.com/youtube-ftc-censorship-round-3/comment-page-1/#comment-93316)
-* [Ren](https://strangedefinition.com/) on [The PINEcil!](https://www.s-config.com/the-pinecil/comment-page-1/#comment-92894)
 
 The only advertisement banner you will see.
 -------------------------------------------
