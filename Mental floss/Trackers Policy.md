@@ -80,8 +80,6 @@
 Mental Floss Cookie Policy
 ==========================
 
-Mar 12, 2024
-
 [Share on Facebook](https://www.facebook.com/dialog/share?app_id=350309542584520&display=popup&href=https:%2F%2Fwww.mentalfloss.com%2Fcookie-policy)[Share on X](https://twitter.com/intent/tweet?text=Mental%20Floss%20Cookie%20Policy&url=https:%2F%2Fwww.mentalfloss.com%2Fcookie-policy)[Share on Reddit](http://www.reddit.com/submit?url=https:%2F%2Fwww.mentalfloss.com%2Fcookie-policy&title=Mental%20Floss%20Cookie%20Policy)Copy Article
 
 ![](https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_3838,h_2158/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01hrt1yvdmtnyepb7g9b.jpg)
@@ -180,8 +178,6 @@ Related Tags
 * [WORK](https://www.mentalfloss.com/section/work)
 * [TECHNOLOGY](https://www.mentalfloss.com/section/technology)
 * [BUSINESS](https://www.mentalfloss.com/section/business)
-
-[Home](https://www.mentalfloss.com/)
 
 [![Mental Floss](data:image/svg+xml,%3Csvg%20width%3D%2257%22%20height%3D%2235%22%20viewBox%3D%220%200%2057%2035%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Cg%20clip-path%3D%22url(%23clip0_1096_15867)%22%3E%0A%3Cpath%20d%3D%22M56.1739%200.62207V7.97525H42.6192V34.5614H34.3165V0.62207H56.1739Z%22%20fill%3D%22%23F16957%22%2F%3E%0A%3Cpath%20d%3D%22M32.7628%2034.5616H24.5016V26.5793L32.7628%2012.249V34.5616Z%22%20fill%3D%22%23F16957%22%2F%3E%0A%3Cpath%20d%3D%22M32.7626%209.18153L18.1317%2034.5598H14.5219L8.31828%2023.4425V34.5615H0V0.561523H7.75242L16.4099%2018.9228L25.1227%200.561523H32.7626V9.18153Z%22%20fill%3D%22%23F16957%22%2F%3E%0A%3Cpath%20d%3D%22M52.815%2015.1709H44.1368V22.4132H52.815V15.1709Z%22%20fill%3D%22%23F16957%22%2F%3E%0A%3C%2Fg%3E%0A%3Cdefs%3E%0A%3CclipPath%20id%3D%22clip0_1096_15867%22%3E%0A%3Crect%20width%3D%2256.1739%22%20height%3D%2234%22%20fill%3D%22white%22%20transform%3D%22translate(0%200.561523)%22%2F%3E%0A%3C%2FclipPath%3E%0A%3C%2Fdefs%3E%0A%3C%2Fsvg%3E%0A)](https://www.mentalfloss.com/)
 
