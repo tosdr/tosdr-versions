@@ -1,8 +1,6 @@
 [Přeskočit na obsah](#content)
 
-[![SEO specialista a copywriter Daniel Beránek: logo webu](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2050%2050'%3E%3C/svg%3E)
-
-![SEO specialista a copywriter Daniel Beránek: logo webu](https://danielberanek.cz/wp-content/uploads/db-icon-50x50-1.webp)](https://danielberanek.cz/)
+[![SEO specialista a copywriter Daniel Beránek: logo webu](https://danielberanek.cz/wp-content/uploads/db-icon-50x50-1.webp)](https://danielberanek.cz/)
 
 Hlavní menu
 
@@ -762,9 +760,7 @@ Phone number: 724501041
 
 [Copywriting?](https://danielberanek.cz/copywriter-copywriting/)
 
-[![Daniel Beránek - portrét](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20240%20495'%3E%3C/svg%3E "SEO specialista a copywriter Daniel Beránek: SEO a copy s ostrými hroty!")
-
-![Daniel Beránek - portrét](https://danielberanek.cz/wp-content/uploads/seo-specialista-copywriter-daniel-beranek.avif "SEO specialista a copywriter Daniel Beránek: SEO a copy s ostrými hroty!")](https://danielberanek.cz/wp-content/uploads/daniel-beranek-full-size-2.avif)
+[![Daniel Beránek - portrét](https://danielberanek.cz/wp-content/uploads/seo-specialista-copywriter-daniel-beranek.avif "SEO specialista a copywriter Daniel Beránek: SEO a copy s ostrými hroty!")](https://danielberanek.cz/wp-content/uploads/daniel-beranek-full-size-2.avif)
 
   
 SEO specialista a copywriter Daniel Beránek  
