@@ -253,6 +253,14 @@ Enable Dark Mode
     
     Latest Articles
     
+    * [![Class Dismissed](https://www.theadvocates.org/wp-content/uploads/2024/12/AdobeStock_52874818-300x200.jpeg)
+        
+        Underthrow Series
+        
+        Class Dismissed
+        
+        by **Max Borders** • Dec 11 • 11 mins Read](https://www.theadvocates.org/class-dismissed/)
+        
     * [![Oasis: Free Cities on the US-Mexico Border](https://www.theadvocates.org/wp-content/uploads/2024/12/Border-300x300.jpg)
         
         Underthrow Series
@@ -324,14 +332,6 @@ Enable Dark Mode
         Old Man Mountain Weeps
         
         by **Max Borders** • Oct 02 • 5 mins Read](https://www.theadvocates.org/old-man-mountain-weeps/)
-        
-    * [![The A Word (Gasp) – Anarchy](https://www.theadvocates.org/wp-content/uploads/2024/09/Update-1-300x300.jpg)
-        
-        Underthrow Series
-        
-        The A Word (Gasp) – Anarchy
-        
-        by **Max Borders** • Sep 25 • 2 mins Read](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
         
     
     [](#)[](#)
@@ -697,6 +697,14 @@ Quizzes & Apps
 Articles
 --------
 
+* [![Class Dismissed](https://www.theadvocates.org/wp-content/uploads/2024/12/AdobeStock_52874818-300x200.jpeg)
+    
+    Underthrow Series
+    
+    Class Dismissed
+    
+    by **Max Borders** • Dec 11 • 11 mins Read](https://www.theadvocates.org/class-dismissed/)
+    
 * [![Oasis: Free Cities on the US-Mexico Border](https://www.theadvocates.org/wp-content/uploads/2024/12/Border-300x300.jpg)
     
     Underthrow Series
@@ -768,14 +776,6 @@ Articles
     Old Man Mountain Weeps
     
     by **Max Borders** • Oct 02 • 5 mins Read](https://www.theadvocates.org/old-man-mountain-weeps/)
-    
-* [![The A Word (Gasp) – Anarchy](https://www.theadvocates.org/wp-content/uploads/2024/09/Update-1-300x300.jpg)
-    
-    Underthrow Series
-    
-    The A Word (Gasp) – Anarchy
-    
-    by **Max Borders** • Sep 25 • 2 mins Read](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
     
 
 [](#)[](#)
