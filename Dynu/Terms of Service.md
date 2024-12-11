@@ -304,39 +304,10 @@ m. Headings. Headings used in this Agreement and the Additional Policies are sol
 n. Entire Agreement. This Agreement, together with the Additional Policies, constitute the complete and exclusive statement of all mutual understandings between You and Dynu Systems with respect to the subject matter hereof, superseding all prior or contemporaneous proposals, communications and understandings, oral or written.  
   
 
-### Voices
+#### Did we do a good job for you?
 
-_"I’ve tried many dynamic DNS services in the past and Dynu always impresses me.  
-I can’t get my work done without it at this point and I also appreciate the incredibly fast response time by your support.  
   
-I look forward to future developments and I thank you for a great product!"_  
-  
-Jeffrey Oden, Network Engineer  
-Pennsylvania, USA  
-
-_"We have been using Dynu email hosting for years now and have never had an issue so far.  
-  
-Multi-protocol, multi-platform, nice webmail interface, extensively customizable, excellent credentials management, there is nothing bad to say about it.  
-With its very affordable price and its strong user community you really can't go wrong."_  
-  
-Gregory Journe, Project Manager  
-Lyon, France  
-
-_"I've been using Dynu hostnames as my day-to-day Remote Desktop sessions for a long time, and I'm very happy with it.  
-  
-The IP Update Client for Windows can run as a System service, so I do not even need to keep my Windows account logged in. Dynu rocks!"_  
-  
-Kristian Grandahl, Lead Architect Infrastructure Team  
-Crayon, Norway  
-
-_"Many of our customers' ISP blocks port 25 so they have not been able to host email server on premise.  
-Dynu email store/forward service literally saved the day!  
-  
-We looked at some other providers but Dynu is so far the most stable and affordable one can find. I recommend Dynu to every customer I have."_  
-  
-Allan Baker, IT Consultant  
-Arizona, USA  
-
+[kudos@dynu.com](#) - _tell us when one of our teams went above and beyond._  
   
 
 ### News
