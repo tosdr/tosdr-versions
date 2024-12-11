@@ -326,6 +326,7 @@ Menu
     * [Press Releases](https://www.veeam.com/company/press-release.html?ad=menu-company)
     * [Recognition](https://www.veeam.com/company/awards.html?ad=menu-company)
     * [Brand Resource Center](https://www.veeam.com/company/brand-resource-center.html?ad=menu-company)
+    * [Veeam Data Resilience Awards](https://www.veeam.com/company/veeam-data-resilience-awards.html?ad=menu-company)
     
     Trust Center
     
