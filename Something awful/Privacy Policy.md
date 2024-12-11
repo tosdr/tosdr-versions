@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Thank You, Anderson Cooper!](https://www.somethingawful.com/news/haiti-anderson-cooper/)
-* [The inferior 30 Geocities Sites Massacre](https://www.somethingawful.com/news/inferior-30-geocities/)
-* [Reader Mail](https://www.somethingawful.com/art-of-warcraft/reader-mail-2/1/)
-* [These 32 Naked Dads Setting Up Christmas Trees Will Restore Your Faith In Humanity... And More](https://www.somethingawful.com/news/thirtytwo-hottest-dads/)
-* [Turn Albums into Books!](https://www.somethingawful.com/comedy-goldmine/albums-books-photoshop/1/)
+* [J.G. Ballard Gets Paid to Plug Taco Bell](https://www.somethingawful.com/news/ballard-dorito-locos/)
+* [E3Girls.com](https://www.somethingawful.com/awful-links/awful-link-2887/)
+* [Kiss the Boys](https://www.somethingawful.com/movie-reviews/kiss-the-boys/1/)
+* [My Electro Band Has Important Things to Say About the 1980s](https://www.somethingawful.com/news/drive-ad-nauseam/)
+* [A Closer Look At The Photo Op Bible Trump Spilled Blood To Awkwardly Pose With](https://www.somethingawful.com/news/bible-protest-trump/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [Best fictional drug.](http://forums.somethingawful.com/showthread.php?threadid=4077188 "Best fictional drug.")
 * ![](https://forumimages.somethingawful.com/forums/posticons/icons-08/art.png) [Dogs playing poker? Out.](http://forums.somethingawful.com/showthread.php?threadid=4077190 "Dogs playing poker? Out.")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Something I never got about the movie Knives Out. spoilers](http://forums.somethingawful.com/showthread.php?threadid=4077246 "Something I never got about the movie Knives Out. spoilers")
 
 ### Random Articles
 
-* [Monstergeddon 2014 Results!](https://www.somethingawful.com/news/monstergeddon-results-2014/)
-* [Breath Capture](https://www.somethingawful.com/awful-links/awful-link-4337/)
-* [SHADOW RUN, Featuring Michael Caine](https://www.somethingawful.com/news/shadow-run-caine/)
-* [Senior Living](https://www.somethingawful.com/news/senior-living/)
-* [Acne.org, Pop That Zit, and The Hair Trader](https://www.somethingawful.com/weekend-web/pop-that-zit/1/)
+* [Congratulations From The US Dads Association!](https://www.somethingawful.com/news/dad-app-ideas/)
+* [Man of Steel; This Is the End; As Cool as I Am](https://www.somethingawful.com/current-movie-reviews/man-of-steel/1/)
+* [What the Hell is a Greasnin, Anyway?](https://www.somethingawful.com/news/what-hell-greasnin/)
+* [GameScott: The Top 10 Easter Eggs In Games](https://www.somethingawful.com/flash-tub/gamescott-top-10/)
+* [Adult Situations](https://www.somethingawful.com/news/adult-situations/)
 
 [Random!](https://www.somethingawful.com/random/)
 
