@@ -29,17 +29,17 @@ Version All 1.21.4 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 
 
 Active Servers
 
-[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
+[![Gladius](plugins/MineCraft/icons/25x25xGladius_1687724866.png.pagespeed.ic.sE5XXSLjhm.png)
 
-CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")[![FirmlyIslam](plugins/MineCraft/icons/25x25xFirmlyIslam_1733735570.png.pagespeed.ic.w1cHQEFY78.png)
+Gladius SMP SEMI ANARCHY NO CRYSTAL PVP](https://minecraft-server.net/details/Gladius/ "Gladius SMP SEMI ANARCHY NO CRYSTAL PVP")[![TotalVanilla](plugins/MineCraft/icons/25x25xTotalVanilla_1733766922.png.pagespeed.ic.6R9WISDLl7.jpg)
 
-FirmlyMC](https://minecraft-server.net/details/FirmlyIslam/ "FirmlyMC")[![A2rath](plugins/MineCraft/icons/25x25xA2rath_1731694115.png.pagespeed.ic.GN-yKvGqoG.png)
+Total Vanilla](https://minecraft-server.net/details/TotalVanilla/ "Total Vanilla")[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
 
-Fermium MC - SURVIVAL](https://minecraft-server.net/details/A2rath/ "Fermium MC - SURVIVAL")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1732687836.png.pagespeed.ic.0wYsTOy-Nc.png)
+Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
 
-STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")[![Advancius](plugins/MineCraft/icons/25x25xAdvancius_1710775022.png.pagespeed.ic.Rl94rqItDF.png)
+Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![KomboNetwork](plugins/MineCraft/icons/25x25xKomboNetwork_1733915174.png.pagespeed.ic.EJyno22pUv.jpg)
 
-Advancius Network ⭐FREE RANKS⭐](https://minecraft-server.net/details/Advancius/ "Advancius Network ⭐FREE RANKS⭐")
+KomboNetwork](https://minecraft-server.net/details/KomboNetwork/ "KomboNetwork ")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05919 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0702 - Created by [Debaucus](https://debauc.us/)
