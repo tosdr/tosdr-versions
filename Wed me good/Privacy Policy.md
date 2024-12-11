@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
+[![Juhi and Abhinay](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Juhi and Abhinay](https://image.wedmegood.com/resized/250X/uploads/images/81d76136e1ae4b11973ceb3b5fbb1e97realwedding/2_AM_AJ2.jpg?crop=230,412,1589,894)
+
+Juhi and Abhinay (Jim Corbett)](https://www.wedmegood.com/real_wedding/detail/juhi-and-abhinay-jim-corbett-wedding-4452)
+
 [![Sobhita Dhulipala and Naga Chaitanya](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
 ![Sobhita Dhulipala and Naga Chaitanya](https://image.wedmegood.com/resized/250X/uploads/images/c2ab113b5615471ebf0d12d76fbfecc4realwedding/Snapinsta.app_469853022_984584490152365_3959553071423928342_n_1080.jpg?crop=119,26,858,482)
 
 Sobhita Dhulipala and Naga Chaitanya (Hyderabad)](https://www.wedmegood.com/real_wedding/detail/sobhita-dhulipala-and-naga-chaitanya-hyderabad-telugu-wedding-4451)
-
-[![Ritika and Akash](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
-
-![Ritika and Akash](https://image.wedmegood.com/resized/250X/uploads/images/7466b1a0e78c44dbac4a13515e8675aerealwedding/IMG_2470.JPG?crop=118,1071,1016,571)
-
-Ritika and Akash (Udaipur)](https://www.wedmegood.com/real_wedding/detail/ritika-and-akash-udaipur-gujarati-wedding-4449)
 
 Browse by Category
 
