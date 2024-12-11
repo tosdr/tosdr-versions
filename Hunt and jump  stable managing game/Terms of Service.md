@@ -148,6 +148,10 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+12/11/2024 4:05 AM EST
+
+Winter 2024 hide and seek has started. It's time for Koleduvane! Also Golden Token Bundles are now in the shop. See the forum for more info.
+
 12/4/2024 4:41 AM EST
 
 Vesela Koleda!
@@ -171,13 +175,6 @@ The East Bulgarian Warmblood has trotted into the game.
 11/30/2024 11:51 PM EST
 
 ### The gift exchange has been assigned. Happy gifting!
-
-11/30/2024 4:07 AM EST
-
-It's newsletter day, and your last chance to enter the GE!
-----------------------------------------------------------
-
-Absolutely no late entries will be accepted. Do not wait until the last moment.
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
