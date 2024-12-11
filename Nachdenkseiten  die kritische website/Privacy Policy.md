@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Wolfgang Kubicki im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2020/11/Wolfgang-Kubicki-im-Gespraech-mit-Albrecht-Mueller-e1605795693982.png "Wolfgang Kubicki im Gespräch mit Albrecht Müller")](https://www.youtube.com/watch?v=8pDOd0KZv7A&list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA&index=6)
+[![Michael Hartmann im Gespräch mit Albrecht Müller (Teil 1/3)](https://www.nachdenkseiten.de/wp-content/uploads/2022/09/2022-09-13-Hartmann-Gespraech-Teil1-Cover-YTButton.jpg "Michael Hartmann im Gespräch mit Albrecht Müller (Teil 1/3)")](https://www.nachdenkseiten.de/?p=88058)
 
-* [Wolfgang Kubicki im Gespräch mit Albrecht Müller](https://www.youtube.com/watch?v=8pDOd0KZv7A&list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA&index=6)
+* [Michael Hartmann im Gespräch mit Albrecht Müller (Teil 1/3)](https://www.nachdenkseiten.de/?p=88058)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
