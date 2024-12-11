@@ -484,6 +484,10 @@ Revised June 1, 2022
 
   [![Elon Musk, a co-leader of the so-called Department of Government Efficiency, carries his son X Æ A-Xii Musk following a meeting with lawmakers on Capitol Hill in Washington on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438848.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Elon Musk, a co-leader of the so-called Department of Government Efficiency, carries his son X Æ A-Xii Musk following a meeting with lawmakers on Capitol Hill in Washington on Thursday.")](https://www.japantimes.co.jp/commentary/2024/12/09/world/permanent-daylight-saving-time/ "DOGE's best idea yet is permanent daylight saving time")
 
+[Winter chill, hot baths and the risk of heat shock: How to stay safe](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
+
+  [![A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439147.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.")](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
+
 [45-day negotiation window set to begin as Marines post Roki Sasaki](https://www.japantimes.co.jp/sports/2024/12/10/baseball/mlb/sasaki-officialy-posted/ "45-day negotiation window set to begin as Marines post Roki Sasaki")
 
   [![Roki Sasaki delivers a pitch during the first inning of the World Baseball Classic semifinal against Mexico in Miami in March 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439046.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Roki Sasaki delivers a pitch during the first inning of the World Baseball Classic semifinal against Mexico in Miami in March 2023.")](https://www.japantimes.co.jp/sports/2024/12/10/baseball/mlb/sasaki-officialy-posted/ "45-day negotiation window set to begin as Marines post Roki Sasaki")
@@ -495,14 +499,6 @@ Revised June 1, 2022
 [Welcome to Yama, Japan’s first Michelin-starred dessert restaurant](https://www.japantimes.co.jp/life/2024/12/08/food-drink/yama-koichi-katsumata-michelin-dessert/ "Welcome to Yama, Japan’s first Michelin-starred dessert restaurant")
 
   [![Koichi Katsumata is the first chef to receive a Michelin star in Japan for an 'assiette dessert' (dessert course) restaurant](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/437997.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Koichi Katsumata is the first chef to receive a Michelin star in Japan for an 'assiette dessert' (dessert course) restaurant")](https://www.japantimes.co.jp/life/2024/12/08/food-drink/yama-koichi-katsumata-michelin-dessert/ "Welcome to Yama, Japan’s first Michelin-starred dessert restaurant")
-
-[Futaba pivots to 'hope tourism' to revive its fortunes](https://www.japantimes.co.jp/life/2024/12/07/travel/fukushima-futaba-revitalization/ "Futaba pivots to 'hope tourism' to revive its fortunes")
-
-  [![The town of Futaba is still dealing with the effects of 3/11, but that isn't stopping some residents from looking forward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438190.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The town of Futaba is still dealing with the effects of 3/11, but that isn't stopping some residents from looking forward.")](https://www.japantimes.co.jp/life/2024/12/07/travel/fukushima-futaba-revitalization/ "Futaba pivots to 'hope tourism' to revive its fortunes")
-
-[2024 was the year Japanese TV found its prestige](https://www.japantimes.co.jp/culture/2024/12/07/tv-streaming/shogun-extremely-inappropriate-tokyo-swindlers/ "2024 was the year Japanese TV found its prestige")
-
-  [![“Shogun,” created by American channel FX and made by a joint American-Japanese team, utilized the strengths of both Japan and Hollywood to create a bona fide smash that critics adored. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438506.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "“Shogun,” created by American channel FX and made by a joint American-Japanese team, utilized the strengths of both Japan and Hollywood to create a bona fide smash that critics adored. ")](https://www.japantimes.co.jp/culture/2024/12/07/tv-streaming/shogun-extremely-inappropriate-tokyo-swindlers/ "2024 was the year Japanese TV found its prestige")
 
 Podcast
 -------
@@ -565,25 +561,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes](https://www.japantimes.co.jp/news/2024/12/10/japan/nobel-peace-prize-ceremony-hibakusha/ "Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes")
+[Unstable global environment reduces NPT to mere shell](https://www.japantimes.co.jp/news/2024/12/11/world/nuclear-nonproliferation-treaty/ "Unstable global environment reduces NPT to mere shell")
 
-8 hours ago
+45 mins ago
 
-[Europe’s big battery ambitions are failing, and China is benefiting](https://www.japantimes.co.jp/business/2024/12/10/companies/europe-ev-ambitions-fail-china-benfit/ "Europe’s big battery ambitions are failing, and China is benefiting")
+[South Korean police raid Yoon's office amid martial law probe](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police raid Yoon's office amid martial law probe")
 
-9 hours ago
+1 hour ago
 
-[Assad's fall in Syria exposes limits of China's Middle East diplomacy](https://www.japantimes.co.jp/news/2024/12/10/asia-pacific/politics/assad-fall-china-diplomacy/ "Assad's fall in Syria exposes limits of China's Middle East diplomacy")
+[BOJ quarterly survey likely to show weaker business sentiment in Japan](https://www.japantimes.co.jp/business/2024/12/11/economy/boj-tankan-forecasts/ "BOJ quarterly survey likely to show weaker business sentiment in Japan")
 
-10 hours ago
+1 hour ago
 
-[Nippon Life in talks to buy Resolution Life in deal worth $8.2 billion](https://www.japantimes.co.jp/business/2024/12/10/companies/nippon-life-buyout-talks-us/ "Nippon Life in talks to buy Resolution Life in deal worth $8.2 billion")
+[China begins annual economic meeting to hash out stimulus plan](https://www.japantimes.co.jp/news/2024/12/11/world/politics/china-economic-meeting-stimulus/ "China begins annual economic meeting to hash out stimulus plan")
 
-10 hours ago
+1 hour ago
 
-[Kioxia’s jumbo IPO shows weak sign contrary to booming market](https://www.japantimes.co.jp/business/2024/12/10/companies/kioxia-jumbo-ipo/ "Kioxia’s jumbo IPO shows weak sign contrary to booming market")
+[China makeup mogul is a billionaire post hot Hong Kong debut](https://www.japantimes.co.jp/business/2024/12/11/companies/china-makeup-hong-kong-debut/ "China makeup mogul is a billionaire post hot Hong Kong debut")
 
-11 hours ago
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
