@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retribution/odmazda-skoplje/sarah-palin.jpg?itok=Ij3Tw-y4)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retributionodmazda-skoplje)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/perspektive-11-art-klinike/ziriranje/ziri-pers_0.jpg?itok=RfoZvgqT)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/perspektive-11-art-klinike/ziriranje)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/mermer-i-zvuci/park-skulptura/arandjelovac-005.jpg?itok=WAFLuCCO)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/mermer-i-zvuci/park-skulptura)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/54-oktobarski-salon/milica-tomic-isleri.jpg?itok=_wB099kO)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/54-oktobarski-salon)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
