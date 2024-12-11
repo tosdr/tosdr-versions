@@ -31,6 +31,7 @@
             * [2025 Annual Peacebuilding Training](https://mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training.html)
                 
                 * [General Information](https://mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/general-information.html)
+                * [MPI 2025 FAQs](https://mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-faqs.html)
                 * [MPI 2025 Application](https://mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-application.html)
                 * [MPI 2025 Document Submission](https://mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-document-submission.html)
                 * [MPI 2025 Payment Information](https://mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-payment-information.html)
@@ -259,6 +260,7 @@ For more information on our privacy policies and data protection, please see our
         * [Annual Peacebuilding Training](https://mpiasia.net/programs/training/annual-peacebuilding-training.html)
             * [2025 Annual Peacebuilding Training](https://mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training.html)
                 * [General Information](https://mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/general-information.html)
+                * [MPI 2025 FAQs](https://mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-faqs.html)
                 * [MPI 2025 Application](https://mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-application.html)
                 * [MPI 2025 Document Submission](https://mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-document-submission.html)
                 * [MPI 2025 Payment Information](https://mpiasia.net/programs/training/annual-peacebuilding-training/2025-annual-peacebuilding-training/mpi-2025-payment-information.html)
