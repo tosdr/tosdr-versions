@@ -57,6 +57,10 @@ Search Search Cancel
 
 Search National Today  Submit
 
+* [](https://www.instagram.com/nationaltoday_/ "Follow us on Instagram")
+* [](https://x.com/NationalToday_ "Follow us on X")
+* [](https://www.tiktok.com/@www.nationaltoday.com "Follow us on TikTok")
+
 You are here:
 
 * [Home](https://nationaltoday.com/)
@@ -320,9 +324,9 @@ We keep track of fun holidays and special moments on the cultural calendar — g
 
 ### Follow us on
 
-* [](https://www.facebook.com/nationaltoday "Follow us on Facebook")
-* [](https://x.com/NationalToday_ "Follow us on Twitter")
 * [](https://www.instagram.com/nationaltoday_/ "Follow us on Instagram")
+* [](https://x.com/NationalToday_ "Follow us on X")
+* [](https://www.tiktok.com/@www.nationaltoday.com "Follow us on TikTok")
 
 [Follow @NatlToday](https://twitter.com/NatlToday)
 
