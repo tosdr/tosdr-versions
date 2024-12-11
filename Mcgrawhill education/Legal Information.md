@@ -4,7 +4,7 @@ Get Support
 
 * [PreK-12](https://www.mheducation.com/prek-12/contact.html)
 * [Higher Ed](https://www.mheducation.com/highered/contact.html)
-* [Professional](https://www.mhprofessional.com/contact-us)
+* [Professional](https://www.mheducation.com/professional/contact.html)
 * [International](https://www.mheducation.com/locations/international-support.html)
 
 Sign In
@@ -296,7 +296,7 @@ Get Support
 
 [Higher Ed](https://www.mheducation.com/highered/contact.html)
 
-[Professional](https://www.mhprofessional.com/contact-us)
+[Professional](https://www.mheducation.com/professional/contact.html)
 
 [International](https://www.mheducation.com/locations/international-support.html)
 
@@ -307,7 +307,7 @@ McGraw Hill
 
 [Higher Ed](https://www.mheducation.com/highered/home-guest.html)
 
-[Professional](https://www.mhprofessional.com/)
+[Professional](https://www.mheducation.com/professional/contact.html)
 
 [International](https://www.mheducation.com/global-sites.html)
 
