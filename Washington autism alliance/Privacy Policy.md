@@ -146,11 +146,21 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
     
-    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/SPA-Virtual-Support-Group-Facebook-Cover-1-150x56.png)](https://washingtonautismalliance.org/events/supporting-parents-of-autism-spa-2/?occurrence=2025-01-09)
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/SPA-Virtual-Support-Group-Facebook-Cover-1-150x56.png)](https://washingtonautismalliance.org/events/supporting-parents-of-autism-spa-2/?occurrence=2025-01-13)
     
-    Jan 09 2025
+    Jan 13 2025
     
-    #### [Supporting Parents of Autism - Friendship Skills for Students Who are High-Masking/Low Support Needs Autistic](https://washingtonautismalliance.org/events/supporting-parents-of-autism-spa-2/?occurrence=2025-01-09)
+    #### [Supporting Parents of Autism - Friendship Skills for Students Who are High-Masking/Low Support Needs Autistic](https://washingtonautismalliance.org/events/supporting-parents-of-autism-spa-2/?occurrence=2025-01-13)
+    
+    Zoom https://zoom.us (please download the app and check your internet connectivity)
+    
+    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABLAQAAAAC62kO+AAAAAnRSTlMAAHaTzTgAAAAUSURBVDjLY2AYBaNgFIyCUTDcAAAF3AABhXCxcQAAAABJRU5ErkJggg==)
+    
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/12/JanLL1-150x75.jpg)](https://washingtonautismalliance.org/events/best-practices-education-guidelines-for-twice-exceptional-students/?occurrence=2025-01-16)
+    
+    Jan 16 2025
+    
+    #### [Best Practices Education Guidelines for Twice Exceptional Students](https://washingtonautismalliance.org/events/best-practices-education-guidelines-for-twice-exceptional-students/?occurrence=2025-01-16)
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
