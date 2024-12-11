@@ -27,7 +27,7 @@ Marketing cookies
 -----------------
 
 These cookies are used to deliver advertisements more relevant for you, limit the number of times you see an advertisement; help measure the effectiveness of the advertising campaign; and understand people’s behavior after they view an advertisement.  
-[Adobe Privacy policy](https://www.adobe.com/privacy/policy.html) | [Marketo Privacy Policy](https://documents.marketo.com/legal/cookies/) | [Pardot Privacy Policy](https://www.salesforce.com/content/dam/web/en_us/www/documents/legal/misc/pardot-security-privacy-and-architecture.pdf) | [Oktopost Privacy Policy](https://www.oktopost.com/privacy) | [AccountInsight Privacy Policy](https://www.accountinsight.ai/privacy-policy/) | [Triblio Privacy Policy](https://triblio.com/privacy-policy/)
+[Adobe Experience Cloud Marketo](https://www.adobe.com/legal.html) | [Triblio Privacy Policy](https://foundryco.com/idg-privacy-policy/)
 
 Toggle Social Media
 
@@ -190,6 +190,8 @@ Atos homepage](https://atos.net/en/)
         * [Leveraging the move to cloud](https://atos.net/en/client-stories/ugap-leveraging-the-move-to-cloud)
         
         [All client stories](https://atos.net/en/client-stories)
+        
+        ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
         Paris 2024
         ----------
