@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Do you think the AU and AAU will get… (177)](https://forum.nationstates.net/viewtopic.php?t=559196&f=25&view=unread#unread ""Do you think the AU and AAU will get along?" (177 posts)")
-* [Will AN or AAN CTE first? (190)](https://forum.nationstates.net/viewtopic.php?t=559285&f=25&view=unread#unread ""Will AN or AAN CTE first?" (190 posts)")
-* [NSCF 32 - Everything Thread (146)](https://forum.nationstates.net/viewtopic.php?t=558327&f=7&view=unread#unread ""NSCF 32 - Everything Thread" (146 posts)")
-* [UnitedHealthcare CEO Assassinated (1,102)](https://forum.nationstates.net/viewtopic.php?t=559227&f=20&view=unread#unread ""UnitedHealthcare CEO Assassinated" (1,102 posts)")
-* [Amogus SSR Invasion of Doslonsu \[OOC|… (204)](https://forum.nationstates.net/viewtopic.php?t=559392&f=5&view=unread#unread ""Amogus SSR Invasion of Doslonsu [OOC|SIGN-UPS|OPEN]" (204 posts)")
+* [What's The Worst Country? (22)](https://forum.nationstates.net/viewtopic.php?t=559465&f=20&view=unread#unread ""What's The Worst Country?" (22 posts)")
+* [2025: The Times | OOC | Open (40)](https://forum.nationstates.net/viewtopic.php?t=559417&f=31&view=unread#unread ""2025: The Times | OOC | Open" (40 posts)")
+* [Making a picture for all who reply(Jo… (18)](https://forum.nationstates.net/viewtopic.php?t=559463&f=25&view=unread#unread ""Making a picture for all who reply(Jorsania version)" (18 posts)")
+* [What impression does AN's banner give… (825)](https://forum.nationstates.net/viewtopic.php?t=553826&f=25&view=unread#unread ""What impression does AN's banner give you?" (825 posts)")
+* [Amogus SSR Invasion of Doslonsu \[IC\] (179)](https://forum.nationstates.net/viewtopic.php?t=559434&f=5&view=unread#unread ""Amogus SSR Invasion of Doslonsu [IC]" (179 posts)")
 
 Advertisement
 
