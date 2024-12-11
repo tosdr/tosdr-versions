@@ -8,7 +8,7 @@ Free shipping on orders $50 or more inside the contiguous U.S.A. (Excluding cold
 
 * [By Brand](#)
     
-    [* Don Pablo Coffee](https://donpablocoffee.com/collections/don-pablo-coffee)[* Pablo's Pride Coffee](https://donpablocoffee.com/collections/pablos-pride-coffee)[* Subtle Earth Organic Coffee](https://donpablocoffee.com/collections/subtle-earth-organic-coffee)[* Whiskey Infused Coffees](https://donpablocoffee.com/collections/whiskey-infused-coffee)[* Limited Release Coffees](https://donpablocoffee.com/collections/limited-release-coffees)[* RTD Cold Brew](https://donpablocoffee.com/collections/don-pablo-cold-brew)
+    [* Don Pablo Coffee](https://donpablocoffee.com/collections/don-pablo-coffee)[* Pablo's Pride Coffee](https://donpablocoffee.com/collections/pablos-pride-coffee)[* Subtle Earth Organic Coffee](https://donpablocoffee.com/collections/subtle-earth-organic-coffee)[* Goodness & Light Organic Coffee](https://donpablocoffee.com/products/goodness-light-coffee)[* Whiskey Infused Coffees](https://donpablocoffee.com/collections/whiskey-infused-coffee)[* RTD Cold Brew](https://donpablocoffee.com/collections/don-pablo-cold-brew)[* Limited Release Coffees](https://donpablocoffee.com/collections/limited-release-coffees)
 * [By Roast](#)
     
     [* Light Roast](https://donpablocoffee.com/collections/light-roast-coffee)[* Medium-Dark Roast](https://donpablocoffee.com/collections/medium-dark-roast-coffee)[* Dark Roast](https://donpablocoffee.com/collections/dark-roast-coffee)
