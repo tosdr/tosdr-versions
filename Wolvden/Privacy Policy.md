@@ -88,11 +88,11 @@ If you would like to read more about the GDPR, you can visit [GDPR.eu](https://g
 
 #### Activity
 
-[**317 members online**](https://www.wolvden.com/online)  
+[**626 members online**](https://www.wolvden.com/online)  
 
 #### Activity
 
-[**317 members online**](https://www.wolvden.com/online)  
+[**626 members online**](https://www.wolvden.com/online)  
 
   
   
