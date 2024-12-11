@@ -255,13 +255,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![elevangelist Kenneth Copeland defends his lavish lifestyle](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/megachurch-pastor-tries-to-justify-his-lavish-lifestyle/85973301/) [Megachurch Pastor Tries To Justify His Lavish Lifestyle](https://www.ebaumsworld.com/videos/megachurch-pastor-tries-to-justify-his-lavish-lifestyle/85973301/)
+    [![19 Funny Work Memes to Laugh At Before You Clock Out](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/20-funny-work-memes-to-laugh-at-before-you-clock-out/87503041/) [19 Funny Work Memes to Laugh At Before You Clock Out](https://trending.ebaumsworld.com/pictures/20-funny-work-memes-to-laugh-at-before-you-clock-out/87503041/)
     
-    [![25 People Share Unexpectedly Genius Decisions They Made On a Whim](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/25-people-share-unexpectedly-genius-decisions-they-made-on-a-whim/87496580/) [25 People Share Unexpectedly Genius Decisions They Made On a Whim](https://trending.ebaumsworld.com/pictures/25-people-share-unexpectedly-genius-decisions-they-made-on-a-whim/87496580/)
+    [![Screenshot proof of NFL rigging during a Cleveland Browns and Washington Rednecks NFL football game](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/did-this-man-find-proof-the-nfl-is-rigged/85155857/) [Did This Man Find Proof The NFL is Rigged?](https://www.ebaumsworld.com/videos/did-this-man-find-proof-the-nfl-is-rigged/85155857/)
     
-    [![Touring the “Worst Resort in Las Vegas”](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/touring-the-worst-resort-in-las-vegas/87422977/) [Touring the “Worst Resort in Las Vegas”](https://www.ebaumsworld.com/videos/touring-the-worst-resort-in-las-vegas/87422977/)
+    [![a gallery of wtf and cringeworthy pics](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/27-pics-that-are-the-epitome-of-cringe/87028105/) [59 Pics That Are The Epitome of Cringe](https://www.ebaumsworld.com/pictures/27-pics-that-are-the-epitome-of-cringe/87028105/)
     
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/23-people-who-got-bad-tattoos-that-were-inked-with-regret/87510467/) [23 People Who Got Bad Tattoos That Were Inked With Regret](https://trending.ebaumsworld.com/pictures/23-people-who-got-bad-tattoos-that-were-inked-with-regret/87510467/)
+    [![Guy playing a guitar](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/heavy-metal-without-distortion-is-basically-surf-music-from-hell/85155941/) [Heavy Metal Without Distortion Is Basically Surf Rock From Hell](https://www.ebaumsworld.com/videos/heavy-metal-without-distortion-is-basically-surf-music-from-hell/85155941/)
     
 
 * Advertisement
