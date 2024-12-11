@@ -153,6 +153,8 @@ Sub Menu
 
 search
 
+Our call center is busier than usual at the moment. For immediate service, please complete your [booking online](#). If you have any questions, please check our [FAQ page](https://www.1800gotjunk.com/us_en/frequently-asked-questions). 
+
 ![1-800-GOT-JUNK? team with a junk removal customer](/sites/default/files/hero-banner.jpg)
 
 ![Spring Cleaning 2022 Giveaway](/sites/default/files/mobile_tom_0.jpg)
@@ -901,30 +903,6 @@ Jua Mupasa Columbus 07/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Nathan and Zachary are amazing: high-energy, professional, and super helpful! Love them! Give them both a raise!
-
-Tracie Coy Cincinnati 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Yaseem and Sam picked up a few items and were absolutely wonderful guys. Thank you so much!
-
-Raven Night Wisconsin 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Keone and Jarred were so efficient, helpful, and kind. Would 💯 recommend
-
-Tanya Stabler Wisconsin 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Jordan and kegan was great
 
 Jordan Torres Naples 07/12/2024
@@ -933,17 +911,9 @@ Jordan Torres Naples 07/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Bo Ronnie and John did a quick and fast service
+Nathan and Zachary are amazing: high-energy, professional, and super helpful! Love them! Give them both a raise!
 
-M P Seattle 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Samuel and Chase did an excellent job with the removal of my junk. Within 2 hours I had estimate, load and haul complete. Thank you!!!
-
-Char\_ Mukana Wisconsin 07/12/2024
+Tracie Coy Cincinnati 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -965,9 +935,9 @@ Mr MOAB Naples 07/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Jake and Joe were quick, careful, and communicative! Great work!
+Yaseem and Sam picked up a few items and were absolutely wonderful guys. Thank you so much!
 
-Joe Plese Baltimore 07/12/2024
+Raven Night Wisconsin 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -981,9 +951,41 @@ Avalon Myst Austin 07/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Jake and Joe were quick, careful, and communicative! Great work!
+
+Joe Plese Baltimore 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Keone and Jarred were so efficient, helpful, and kind. Would 💯 recommend
+
+Tanya Stabler Wisconsin 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Bo Ronnie and John did a quick and fast service
+
+M P Seattle 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Nice crew. Soph n Roosevelt were on time and move my items quick. Will get them for my spring removal of items.
 
 Joyce Gee Baltimore 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Samuel and Chase did an excellent job with the removal of my junk. Within 2 hours I had estimate, load and haul complete. Thank you!!!
+
+Char\_ Mukana Wisconsin 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -997,17 +999,25 @@ Amanda Regert Baltimore 07/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Fast and courteous. Friendly as well Samuel and Jared good workers
+Excellent service, Lane and Antonio. You were amazing! So fast and very kind!
 
-Tom Augustine Wisconsin 06/12/2024
+Tina Shereen Seattle 06/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Caden and James are awesome. Took care of everything quickly and efficiently!
+Ayden and Trevion did a great job with the removal and were very efficient and friendly
 
-Cynthia K Madison 06/12/2024
+Alex Joyal Wisconsin 06/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Antwone Kevin did a great job
+
+Michael R Seattle 06/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1016,14 +1026,6 @@ Cynthia K Madison 06/12/2024
 Awesome service!!!
 
 Ann Stine Baltimore 06/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Sam and Jared were awesome and I recommend.
-
-C J Wisconsin 06/12/2024
 
 ### 
 
