@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 * [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
 * [Saugroboter im Test: Die besten Saug- und Wischroboter für Teppich und Hartboden](https://www.test.de/Saugroboter-im-Test-4806685-0/ "Saugroboter im Test - Die besten Saug- und Wischroboter für Teppich und Hartboden")
-* [Hausrat­versicherung im Vergleich: So versichern Sie Ihren Hausrat gut und günstig](https://www.test.de/Hausratversicherung-Vergleich-5069958-0/ "Hausratversicherung im Vergleich - So versichern Sie Ihren Hausrat gut und günstig")
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
-* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
+* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
+* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
+* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Elektronische Patienten­akte: Jetzt lieber aktiv werden](https://www.test.de/elektronische-Patientenakte-6165565-0/ "Elektronische Patientenakte - Jetzt lieber aktiv werden")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
 
 Weitere Informationen
 
@@ -3862,59 +3862,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 * [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
 * [Saugroboter im Test: Die besten Saug- und Wischroboter für Teppich und Hartboden](https://www.test.de/Saugroboter-im-Test-4806685-0/ "Saugroboter im Test - Die besten Saug- und Wischroboter für Teppich und Hartboden")
-* [Hausrat­versicherung im Vergleich: So versichern Sie Ihren Hausrat gut und günstig](https://www.test.de/Hausratversicherung-Vergleich-5069958-0/ "Hausratversicherung im Vergleich - So versichern Sie Ihren Hausrat gut und günstig")
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
-* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
+* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
+* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
+* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Elektronische Patienten­akte: Jetzt lieber aktiv werden](https://www.test.de/elektronische-Patientenakte-6165565-0/ "Elektronische Patientenakte - Jetzt lieber aktiv werden")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 * [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
 * [Saugroboter im Test: Die besten Saug- und Wischroboter für Teppich und Hartboden](https://www.test.de/Saugroboter-im-Test-4806685-0/ "Saugroboter im Test - Die besten Saug- und Wischroboter für Teppich und Hartboden")
-* [Hausrat­versicherung im Vergleich: So versichern Sie Ihren Hausrat gut und günstig](https://www.test.de/Hausratversicherung-Vergleich-5069958-0/ "Hausratversicherung im Vergleich - So versichern Sie Ihren Hausrat gut und günstig")
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
-* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
+* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
+* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
+* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Elektronische Patienten­akte: Jetzt lieber aktiv werden](https://www.test.de/elektronische-Patientenakte-6165565-0/ "Elektronische Patientenakte - Jetzt lieber aktiv werden")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
 
 Neueste Tests
 
+* [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 * [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
 * [Saugroboter im Test: Die besten Saug- und Wischroboter für Teppich und Hartboden](https://www.test.de/Saugroboter-im-Test-4806685-0/ "Saugroboter im Test - Die besten Saug- und Wischroboter für Teppich und Hartboden")
-* [Hausrat­versicherung im Vergleich: So versichern Sie Ihren Hausrat gut und günstig](https://www.test.de/Hausratversicherung-Vergleich-5069958-0/ "Hausratversicherung im Vergleich - So versichern Sie Ihren Hausrat gut und günstig")
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
+* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
-* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
-* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
+* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
+* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
+* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
+* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
+* [Elektronische Patienten­akte: Jetzt lieber aktiv werden](https://www.test.de/elektronische-Patientenakte-6165565-0/ "Elektronische Patientenakte - Jetzt lieber aktiv werden")
+* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
 
 Stiftung Warentest
 
