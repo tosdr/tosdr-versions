@@ -91,7 +91,7 @@ Subscribe to our newsletter!
 
 Enter Email
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
