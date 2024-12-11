@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/maya-astrologie-iets-voor-jou/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/robert-kennedy-for-president/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
