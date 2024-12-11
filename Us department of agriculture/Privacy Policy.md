@@ -1,112 +1,535 @@
 [Skip to main content](#main-content)
 
-![U.S. flag](/themes/usda/img/favicons/flag-favicon-57.png)
+[Skip to main content](#main-content)
+
+![U.S. flag](/themes/custom/usda_uswds/img/favicons/flag-favicon-57.png)
 
 An official website of the United States government
 
 Here’s how you know
 
-![Dot gov](/themes/usda/img/icon-dot-gov.svg)
+Here’s how you know
+
+[AskUSDA](https://ask.usda.gov/s/) [News](https://www.usda.gov/about-usda/news/press-releases) [Employee Resources](https://www.usda.gov/our-agency/employee-services)
+
+![Dot gov](/themes/custom/usda_uswds/img/icon-dot-gov.svg)
 
 **Official websites use .gov**  
 A **.gov** website belongs to an official government organization in the United States.
 
-![SSL](/themes/usda/img/icon-https.svg)
+![SSL](/themes/custom/usda_uswds/img/icon-https.svg)
 
 **Secure .gov websites use HTTPS**  
-A **lock** ( LockA locked padlock ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+A **lock** ( Lock Locked padlock icon ) or **https://** means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+
+ [![USDA Logo](/themes/custom/usda_uswds/img/usda-symbol.svg)](https://www.usda.gov/ "Home")[U.S. Department of Agriculture](https://www.usda.gov/ "Home")
 
 Menu
 
- ![USDA Logo](/themes/usda/img/usda-symbol.svg)[U.S. Department of Agriculture](https://www.usda.gov/ "Home")
+![USDA Logo](/themes/custom/usda_uswds/img/usda-symbol.svg) U.S. Department of Agriculture
 
-![close](/themes/usda/img/close.svg)
+![close](/themes/custom/usda_uswds/img/x.svg)
 
-Main navigation
----------------
-
+* [![USDA Logo](/themes/custom/usda_uswds/img/usda-symbol.svg)](https://www.usda.gov/ "Home")
 * [Home](https://www.usda.gov/)
-* Topics
+* Food
     
-    * [Topics](https://www.usda.gov/topics)
-    * [Animals](https://www.usda.gov/topics/animals)
-    * [Biotechnology](https://www.usda.gov/topics/biotechnology)
-    * [Broadband](https://www.usda.gov/broadband)
-    * [Conservation](https://www.usda.gov/topics/conservation)
-    * [Coronavirus](https://www.usda.gov/coronavirus)
-    * [Data](https://www.usda.gov/topics/data)
-    * [Disaster Resource Center](https://www.usda.gov/topics/disaster-resource-center)
-    * [Farming](https://www.usda.gov/topics/farming)
-    * [Food and Nutrition](https://www.usda.gov/topics/food-and-nutrition)
-    * [Forestry](https://www.usda.gov/topics/forestry)
-    * [Health and Safety](https://www.usda.gov/topics/health-and-safety)
-    * [Invasive Species](https://www.usda.gov/topics/invasive-species)
-    * [Opioids](https://www.usda.gov/topics/opioids)
-    * [Organic](https://www.usda.gov/topics/organic)
-    * [Plants](https://www.usda.gov/topics/plants)
-    * [Recreation](https://www.usda.gov/topics/recreation)
-    * [Research and Science](https://www.usda.gov/topics/research-and-science)
-    * [Rural](https://www.usda.gov/topics/rural)
-    * [Trade](https://www.usda.gov/topics/trade)
-    * [Urban Agriculture](https://www.usda.gov/topics/urban)
+    ### About Food
     
-* Our Agency
+    Providing a safety net for millions of Americans who are food-insecure and for developing and promoting dietary guidance based on scientific evidence.
     
-    * [Our Agency](https://www.usda.gov/our-agency)
-    * [About USDA](https://www.usda.gov/our-agency/about-usda)
-    * [Agencies](https://www.usda.gov/our-agency/agencies)
-    * [Careers](https://www.usda.gov/our-agency/careers)
-    * [Employee Services](https://www.usda.gov/our-agency/employee-services)
-    * [Farm Bill](https://www.usda.gov/farmbill)
-    * [Future of Work](https://www.usda.gov/our-agency/future-of-work)
-    * [Initiatives](https://www.usda.gov/our-agency/initiatives "Initiatives and Highlighted Programs from across the department.")
-    * [Staff Offices](https://www.usda.gov/our-agency/staff-offices)
+    [Discover How](https://www.usda.gov/about-food)
     
-* Priorities
+    Food Menu
+    ---------
     
-    * [Priorities](https://www.usda.gov/priorities)
-    * [Equity at USDA](https://www.usda.gov/equity)
-    * [Climate Solutions](https://www.usda.gov/climate-solutions)
-    * [Food and Nutrition Security](https://www.usda.gov/nutrition-security)
-    * [More, New, and Better Market Opportunities](https://www.usda.gov/markets)
+    * [Food Safety](https://www.usda.gov/)
+        * [Food Safety Overview](https://www.usda.gov/about-food/food-safety "USDA conducts and funds food safety research to generate real-world results for both government and the private sector.")
+        * [Food Safety Recalls](https://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts)
+        * [Food Loss and Waste](https://www.usda.gov/about-food/food-safety/food-loss-and-waste)
+        * [Food Security](https://www.usda.gov/about-food/food-safety/food-security)
+        * [Health and Safety](https://www.usda.gov/about-food/food-safety/health-and-safety)
+    * [Nutrition Policy and Programs](https://www.usda.gov/)
+        * [Nutrition Research and Programs Overview](https://www.usda.gov/about-food/nutrition-research-and-programs "USDA provides leadership, technical expertise and cooperation for developing of the Dietary Guidelines and Federal nutrition and economic initiatives.")
+        * [Nutrition Programs](https://www.usda.gov/about-food/nutrition-research-and-programs/nutrition-programs)
+        * [Dietary Health](https://www.usda.gov/about-food/nutrition-research-and-programs/dietary-health)
+        * [Research and Science](https://www.usda.gov/about-food/nutrition-research-and-programs/research-and-science)
+        * [Food Distribution](https://www.usda.gov/about-food/nutrition-research-and-programs/food-distribution)
+    * [Food Assistance Programs](https://www.usda.gov/)
+        * [Food Assistance Programs Overview](https://www.usda.gov/about-food/food-assistance-programs "USDA provides critical nutrition assistance through Food and Nutrition Service (FNS) and emergency food assistance among many other programs.")
+        * [Supplemental Nutrition Assistance Program (SNAP)](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program "SNAP provides food benefits to low-income families to supplement their grocery budget so they can afford the food essential to health and well-being.")
+        * [Special Supplemental Nutrition Program for Women, Infants and Children (WIC)](https://www.fns.usda.gov/wic "WIC safeguards the health of low-income women, infants, and children at nutrition risk by providing food, healthy eating, and healthcare referrals.")
     
-* Media
+    Food Submenus
+    -------------
     
-    * [Media](https://www.usda.gov/media)
-    * [Agency News Releases](https://www.usda.gov/media/agency-news-releases)
-    * [Agency Reports](https://www.usda.gov/media/agency-reports)
-    * [Blog](https://www.usda.gov/media/blog)
-    * [Digital](https://www.usda.gov/media/digital)
-    * [Press Releases](https://www.usda.gov/media/press-releases)
-    * [Radio](https://www.usda.gov/media/radio "Latest Radio news from daily newsline and weekly features")
+    * [Food Safety](https://www.usda.gov/)
+        * [Food Safety Overview](https://www.usda.gov/about-food/food-safety "USDA conducts and funds food safety research to generate real-world results for both government and the private sector.")
+        * [Food Safety Recalls](https://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts)
+        * [Food Loss and Waste](https://www.usda.gov/about-food/food-safety/food-loss-and-waste)
+        * [Food Security](https://www.usda.gov/about-food/food-safety/food-security)
+        * [Health and Safety](https://www.usda.gov/about-food/food-safety/health-and-safety)
+    * [Nutrition Policy and Programs](https://www.usda.gov/)
+        * [Nutrition Research and Programs Overview](https://www.usda.gov/about-food/nutrition-research-and-programs "USDA provides leadership, technical expertise and cooperation for developing of the Dietary Guidelines and Federal nutrition and economic initiatives.")
+        * [Nutrition Programs](https://www.usda.gov/about-food/nutrition-research-and-programs/nutrition-programs)
+        * [Dietary Health](https://www.usda.gov/about-food/nutrition-research-and-programs/dietary-health)
+        * [Research and Science](https://www.usda.gov/about-food/nutrition-research-and-programs/research-and-science)
+        * [Food Distribution](https://www.usda.gov/about-food/nutrition-research-and-programs/food-distribution)
+    * [Food Assistance Programs](https://www.usda.gov/)
+        * [Food Assistance Programs Overview](https://www.usda.gov/about-food/food-assistance-programs "USDA provides critical nutrition assistance through Food and Nutrition Service (FNS) and emergency food assistance among many other programs.")
+        * [Supplemental Nutrition Assistance Program (SNAP)](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program "SNAP provides food benefits to low-income families to supplement their grocery budget so they can afford the food essential to health and well-being.")
+        * [Special Supplemental Nutrition Program for Women, Infants and Children (WIC)](https://www.fns.usda.gov/wic "WIC safeguards the health of low-income women, infants, and children at nutrition risk by providing food, healthy eating, and healthcare referrals.")
+    
+    SNAP Emergency Allotments are Ending
+    
+    Soon, many SNAP households will experience a change to their benefit amounts.
+    
+    [Learn More](https://www.usda.gov/about-usda/news/blog/2023/02/08/snap-emergency-allotments-are-ending)
+    
+    Tackle Foodborne Illness When Ordering Takeout or Delivered Foods
+    
+    If left out too long, all foods can become a source of foodborne illness.
+    
+    [Learn More](https://www.usda.gov/about-usda/news/blog/2023/02/07/tackle-foodborne-illness-when-ordering-takeout-or-delivered-foods)
+    
+    Cooking Meat: Is It Done Yet?
+    
+    Only 55% of people use a food thermometer to verify if their food is safe to consume.
+    
+    [Learn More](https://www.usda.gov/about-usda/news/blog/2022/10/03/cooking-meat-it-done-yet)
+    
+* Farming and Ranching
+    
+    ### About Farming and Ranching
+    
+    We maintain a safety net for America's farmers, ranchers and growers that includes disaster assistance, crop insurance, access to credit and more.
+    
+    [Discover How](https://www.usda.gov/farming-and-ranching)
+    
+    Farming and Ranching Menu
+    -------------------------
+    
+    * [Farm Bill](https://www.usda.gov/)
+        * [Farm Bill Overview](https://www.usda.gov/farming-and-ranching/farm-bill "President Trump signed the Farm Bill into law on December 20, 2018, and the USDA promptly began implementing key programs.")
+    * [New Farmers](https://www.usda.gov/)
+        * [New Farmers Overview](https://www.farmers.gov/your-business/beginning-farmers "New Farmers offers information and resources on how to start a farm, make a business plan, access to land and capital, manage risk, and more.")
+    * [Resources for Small and Mid-sized Farmers](https://www.usda.gov/)
+        * [Resources for Small and Mid-sized Farmers Overview](https://www.usda.gov/farming-and-ranching/resources-small-and-mid-sized-farmers "Small and midsize producers provide new opportunities for American agriculture across the country.")
+        * [Agricultural Coexistence](https://www.usda.gov/farming-and-ranching/resources-small-and-mid-sized-farmers/agricultural-coexistence)
+        * [Commodity Credit Corporation](https://www.usda.gov/farming-and-ranching/resources-small-and-mid-sized-farmers/commodity-credit-corporation)
+        * [Programs and Support](https://www.usda.gov/farming-and-ranching/resources-small-and-mid-sized-farmers/programs-and-support-small-and-mid-sized-farmers)
+    * [Animal Science](https://www.usda.gov/)
+        * [Animal Science Overview](https://www.usda.gov/farming-and-ranching/animal-science "Through applied research and developing technology, USDA has improved the research of animal diseases, well-being, veterinary biologics, and BSE.")
+        * [Animal Production](https://www.usda.gov/farming-and-ranching/animal-science/animal-production "Through research programs and reports, USDA has developed biotechnological methods and gathered data to show the development of animal productivity.")
+        * [One Health](https://www.usda.gov/farming-and-ranching/animal-science/one-health)
+        * [Animal Reports and Data](https://www.usda.gov/farming-and-ranching/animal-science/animal-reports-and-data)
+        * [BSE Surveillance Information Center](https://www.usda.gov/farming-and-ranching/animal-science/bse-surveillance-information-center)
+    * [Plants and Crops](https://www.usda.gov/)
+        * [Plants and Crops Overview](https://www.usda.gov/farming-and-ranching/plants-and-crops "USDA is developing strategies to reduce losses caused by plant diseases, pests, and weeds, providing a system to maintain environmental quality.")
+        * [Biotechnology](https://www.usda.gov/farming-and-ranching/plants-and-crops/biotechnology)
+        * [Crop Production](https://www.usda.gov/farming-and-ranching/plants-and-crops/crop-production)
+        * [Commodity Markets](https://www.usda.gov/farming-and-ranching/plants-and-crops/commodity-markets)
+        * [Plant Health and Research](https://www.usda.gov/farming-and-ranching/plants-and-crops/plant-health-and-research)
+        * [Plant Breeding](https://www.usda.gov/farming-and-ranching/plants-and-crops/plant-breeding)
+        * [Pest and Weed Management](https://www.usda.gov/farming-and-ranching/plants-and-crops/pest-and-weed-management)
+    * [Organic Farming](https://www.usda.gov/)
+        * [Organic Farming Overview](https://www.usda.gov/farming-and-ranching/organic-farming "The USDA has a wealth of organic data for producers, processors, consumers, and researchers. ")
+        * [Organic Certification](https://www.usda.gov/farming-and-ranching/organic-farming/organic-certification)
+        * [Organic Training and Transition Assistance](https://www.usda.gov/farming-and-ranching/organic-farming/get-organic-training-and-transition-assistance)
+        * [Organic Research, Education, and Extension Programs](https://www.usda.gov/farming-and-ranching/organic-farming/organic-research-education-and-extension-programs)
+    * [Agricultural Education and Outreach](https://www.usda.gov/)
+        * [Agricultural Education and Outreach Overview](https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach "The food we eat, the clothes we wear, and the fuel that powers our lives is produced with agriculture.")
+        * [Youth in Agriculture](https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach/youth-agriculture)
+        * [Educator Resources](https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach/resources-educators-and-community-leaders)
+        * [Women in Agriculture](https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach/women-agriculture)
+        * [Veterans](https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach/veterans)
+        * [Urban Agriculture](https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach/urban-agriculture)
+        * [Rural Development](https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach/rural-development)
+    * [Financial Resources for Farmers and Ranchers](https://www.usda.gov/)
+        * [Financial Resources for Farmers and Ranchers Overview](https://www.usda.gov/farming-and-ranching/financial-resources-farmers-and-ranchers "USDA provides financial support including crop and livestock insurance, grants and loans, and disaster resources for farmers and ranchers.")
+        * [Crop and Livestock Insurance](https://www.usda.gov/farming-and-ranching/financial-resources-farmers-and-ranchers/crop-and-livestock-insurance)
+        * [Grants and Loans](https://www.usda.gov/farming-and-ranching/financial-resources-farmers-and-ranchers/grants-and-loans)
+    * [Aquaculture](https://www.usda.gov/)
+        * [Aquaculture Overview](https://www.usda.gov/farming-and-ranching/aquaculture "Aquaculture is the production of aquatic organisms under controlled conditions throughout part or all their lifecycle.")
+    
+    Farming and Ranching Submenus
+    -----------------------------
+    
+    * [Farm Bill](https://www.usda.gov/)
+        * [Farm Bill Overview](https://www.usda.gov/farming-and-ranching/farm-bill "President Trump signed the Farm Bill into law on December 20, 2018, and the USDA promptly began implementing key programs.")
+    * [New Farmers](https://www.usda.gov/)
+        * [New Farmers Overview](https://www.farmers.gov/your-business/beginning-farmers "New Farmers offers information and resources on how to start a farm, make a business plan, access to land and capital, manage risk, and more.")
+    * [Resources for Small and Mid-sized Farmers](https://www.usda.gov/)
+        * [Resources for Small and Mid-sized Farmers Overview](https://www.usda.gov/farming-and-ranching/resources-small-and-mid-sized-farmers "Small and midsize producers provide new opportunities for American agriculture across the country.")
+        * [Agricultural Coexistence](https://www.usda.gov/farming-and-ranching/resources-small-and-mid-sized-farmers/agricultural-coexistence)
+        * [Commodity Credit Corporation](https://www.usda.gov/farming-and-ranching/resources-small-and-mid-sized-farmers/commodity-credit-corporation)
+        * [Programs and Support](https://www.usda.gov/farming-and-ranching/resources-small-and-mid-sized-farmers/programs-and-support-small-and-mid-sized-farmers)
+    * [Animal Science](https://www.usda.gov/)
+        * [Animal Science Overview](https://www.usda.gov/farming-and-ranching/animal-science "Through applied research and developing technology, USDA has improved the research of animal diseases, well-being, veterinary biologics, and BSE.")
+        * [Animal Production](https://www.usda.gov/farming-and-ranching/animal-science/animal-production "Through research programs and reports, USDA has developed biotechnological methods and gathered data to show the development of animal productivity.")
+        * [One Health](https://www.usda.gov/farming-and-ranching/animal-science/one-health)
+        * [Animal Reports and Data](https://www.usda.gov/farming-and-ranching/animal-science/animal-reports-and-data)
+        * [BSE Surveillance Information Center](https://www.usda.gov/farming-and-ranching/animal-science/bse-surveillance-information-center)
+    * [Plants and Crops](https://www.usda.gov/)
+        * [Plants and Crops Overview](https://www.usda.gov/farming-and-ranching/plants-and-crops "USDA is developing strategies to reduce losses caused by plant diseases, pests, and weeds, providing a system to maintain environmental quality.")
+        * [Biotechnology](https://www.usda.gov/farming-and-ranching/plants-and-crops/biotechnology)
+        * [Crop Production](https://www.usda.gov/farming-and-ranching/plants-and-crops/crop-production)
+        * [Commodity Markets](https://www.usda.gov/farming-and-ranching/plants-and-crops/commodity-markets)
+        * [Plant Health and Research](https://www.usda.gov/farming-and-ranching/plants-and-crops/plant-health-and-research)
+        * [Plant Breeding](https://www.usda.gov/farming-and-ranching/plants-and-crops/plant-breeding)
+        * [Pest and Weed Management](https://www.usda.gov/farming-and-ranching/plants-and-crops/pest-and-weed-management)
+    * [Organic Farming](https://www.usda.gov/)
+        * [Organic Farming Overview](https://www.usda.gov/farming-and-ranching/organic-farming "The USDA has a wealth of organic data for producers, processors, consumers, and researchers. ")
+        * [Organic Certification](https://www.usda.gov/farming-and-ranching/organic-farming/organic-certification)
+        * [Organic Training and Transition Assistance](https://www.usda.gov/farming-and-ranching/organic-farming/get-organic-training-and-transition-assistance)
+        * [Organic Research, Education, and Extension Programs](https://www.usda.gov/farming-and-ranching/organic-farming/organic-research-education-and-extension-programs)
+    * [Agricultural Education and Outreach](https://www.usda.gov/)
+        * [Agricultural Education and Outreach Overview](https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach "The food we eat, the clothes we wear, and the fuel that powers our lives is produced with agriculture.")
+        * [Youth in Agriculture](https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach/youth-agriculture)
+        * [Educator Resources](https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach/resources-educators-and-community-leaders)
+        * [Women in Agriculture](https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach/women-agriculture)
+        * [Veterans](https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach/veterans)
+        * [Urban Agriculture](https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach/urban-agriculture)
+        * [Rural Development](https://www.usda.gov/farming-and-ranching/agricultural-education-and-outreach/rural-development)
+    * [Financial Resources for Farmers and Ranchers](https://www.usda.gov/)
+        * [Financial Resources for Farmers and Ranchers Overview](https://www.usda.gov/farming-and-ranching/financial-resources-farmers-and-ranchers "USDA provides financial support including crop and livestock insurance, grants and loans, and disaster resources for farmers and ranchers.")
+        * [Crop and Livestock Insurance](https://www.usda.gov/farming-and-ranching/financial-resources-farmers-and-ranchers/crop-and-livestock-insurance)
+        * [Grants and Loans](https://www.usda.gov/farming-and-ranching/financial-resources-farmers-and-ranchers/grants-and-loans)
+    * [Aquaculture](https://www.usda.gov/)
+        * [Aquaculture Overview](https://www.usda.gov/farming-and-ranching/aquaculture "Aquaculture is the production of aquatic organisms under controlled conditions throughout part or all their lifecycle.")
+    
+    ##### USDA Supports America’s Heroes
+    
+    The U.S. Department of Agriculture is looking to military veterans across the country to fill the roles that keep America’s food supply safe and secure, preserve and strengthen rural communities, and restore and conserve the environment.
+    
+    [Apply Now](https://www.usda.gov/about-usda/working-usda/careers)
+    
+* Forestry
+    
+    ### About Forestry
+    
+    Forestry is the science and practice of establishing, managing, using, and conserving forests and related resources to meet goals, needs, and values.
+    
+    [Discover How](https://www.usda.gov/forestry)
+    
+    Forests Menu
+    ------------
+    
+    * [Agroforestry](https://www.usda.gov/)
+        * [Agroforestry Overview](https://www.usda.gov/forestry/agroforestry "Agroforestry is the intentional integration of trees and shrubs into crop and animal farming to create environmental, economic, and social benefits.")
+        * [Agroforestry Frequently Asked Questions](https://www.usda.gov/forestry/agroforestry/agroforestry-frequently-asked-questions)
+        * [USDA's Role in Agroforestry](https://www.usda.gov/forestry/agroforestry/usdas-role-agroforestry)
+    * [Landowner Assistance](https://www.usda.gov/)
+        * [Landowner Assistance Overview](https://www.usda.gov/forestry/landowner-assistance-programs "USDA provides several landowner assistance programs and partnerships to assist private landowners and rural communities.")
+    * [Disaster Resource Center](https://www.usda.gov/)
+        * [Disaster Resource Center Overview](https://www.usda.gov/forestry/disaster-resource-center "The Disaster Resource Center provides information on how to prepare, recover and build long-term resilience during disasters and emergencies.")
+        * [Drought](https://www.usda.gov/forestry/disaster-resource-center/drought)
+        * [Hawaii Wildfires](https://www.usda.gov/forestry/disaster-resource-center/hawaii-wildfires)
+        * [Pests and Animal Disease](https://www.usda.gov/forestry/disaster-resource-center/pests-and-animal-disease)
+        * [Weather Events](https://www.usda.gov/forestry/disaster-resource-center/weather-events)
+        * [Wildland Fire](https://www.usda.gov/forestry/disaster-resource-center/wildland-fire)
+    * [Forest Research and Development](https://www.usda.gov/)
+        * [Forest Research and Development Overview](https://www.usda.gov/forestry/forest-research-and-development "Forest Service Research and Development scientists research the biological, physical, and social sciences related to forests and rangelands.")
+    * [Forest Recreation](https://www.usda.gov/)
+        * [Forest Recreation Overview](https://www.usda.gov/forestry/recreation "What U.S. residents should know before going abroad, and rules for bringing items back from your trip.")
+    
+    Forests Submenus
+    ----------------
+    
+    * [Agroforestry](https://www.usda.gov/)
+        * [Agroforestry Overview](https://www.usda.gov/forestry/agroforestry "Agroforestry is the intentional integration of trees and shrubs into crop and animal farming to create environmental, economic, and social benefits.")
+        * [Agroforestry Frequently Asked Questions](https://www.usda.gov/forestry/agroforestry/agroforestry-frequently-asked-questions)
+        * [USDA's Role in Agroforestry](https://www.usda.gov/forestry/agroforestry/usdas-role-agroforestry)
+    * [Landowner Assistance](https://www.usda.gov/)
+        * [Landowner Assistance Overview](https://www.usda.gov/forestry/landowner-assistance-programs "USDA provides several landowner assistance programs and partnerships to assist private landowners and rural communities.")
+    * [Disaster Resource Center](https://www.usda.gov/)
+        * [Disaster Resource Center Overview](https://www.usda.gov/forestry/disaster-resource-center "The Disaster Resource Center provides information on how to prepare, recover and build long-term resilience during disasters and emergencies.")
+        * [Drought](https://www.usda.gov/forestry/disaster-resource-center/drought)
+        * [Hawaii Wildfires](https://www.usda.gov/forestry/disaster-resource-center/hawaii-wildfires)
+        * [Pests and Animal Disease](https://www.usda.gov/forestry/disaster-resource-center/pests-and-animal-disease)
+        * [Weather Events](https://www.usda.gov/forestry/disaster-resource-center/weather-events)
+        * [Wildland Fire](https://www.usda.gov/forestry/disaster-resource-center/wildland-fire)
+    * [Forest Research and Development](https://www.usda.gov/)
+        * [Forest Research and Development Overview](https://www.usda.gov/forestry/forest-research-and-development "Forest Service Research and Development scientists research the biological, physical, and social sciences related to forests and rangelands.")
+    * [Forest Recreation](https://www.usda.gov/)
+        * [Forest Recreation Overview](https://www.usda.gov/forestry/recreation "What U.S. residents should know before going abroad, and rules for bringing items back from your trip.")
+    
+    Disaster Assistance Discovery Tool
+    
+    Learn about USDA disaster assistance programs that might be right for you by completing five simple steps.
+    
+    [Find Assistance Now](https://www.farmers.gov/protection-recovery/disaster-tool)
+    
+* Sustainability
+    
+    ### About Sustainability
+    
+    Sustainable agricultural productivity growth is a foundational element in building more sustainable agricultural and food systems.
+    
+    [Discover How](https://www.usda.gov/sustainability)
+    
+    Sustainability Menu
+    -------------------
+    
+    * [Climate Change](https://www.usda.gov/)
+        * [Climate Change Overview](https://www.usda.gov/sustainability/climate-change "USDA contributes to climate assessments, analyses, and tools to support agriculture, forests, grazing lands, and rural communities.")
+        * [Climate Science and Effects](https://www.usda.gov/sustainability/climate-change/climate-science-and-effects)
+        * [Climate Change Adaptation](https://www.usda.gov/sustainability/climate-change/climate-change-adaptation)
+        * [Greenhouse Gas Inventory and Assessment Program](https://www.usda.gov/sustainability/climate-change/greenhouse-gas-inventory-and-assessment-program)
+        * [Climate Change Science Seminar Series](https://www.usda.gov/sustainability/climate-change/climate-change-science-seminar-series)
+        * [The Fifth National Climate Assessment](https://www.usda.gov/sustainability/climate-change/fifth-national-climate-assessment)
+    * [Conservation](https://www.usda.gov/)
+        * [Conservation Overview](https://www.usda.gov/sustainability/conservation "USDA recognizes that conservation by farmers, ranchers and forest owners today means thriving and sustainable agriculture for our future.")
+        * [Land Conservation](https://www.usda.gov/sustainability/conservation/land-conservation)
+        * [Wildlife](https://www.usda.gov/sustainability/conservation/wildlife)
+    * [Environmental Markets](https://www.usda.gov/)
+        * [Environmental Markets Overview](https://www.usda.gov/sustainability/environmental-markets "Environmental markets are innovative policy approaches to leverage funding for environmental conservation on private lands.")
+        * [About the Office of Environmental Markets](https://www.usda.gov/sustainability/environmental-markets/about-office-environmental-markets)
+        * [Carbon](https://www.usda.gov/sustainability/environmental-markets/carbon)
+        * [Water Quality](https://www.usda.gov/sustainability/environmental-markets/water-quality)
+        * [Wetlands and Habitats](https://www.usda.gov/sustainability/environmental-markets/wetlands-and-habitats)
+        * [Quantifying Environmental Services](https://www.usda.gov/sustainability/environmental-markets/quantifying-environmental-services)
+    * [Infrastructure](https://www.usda.gov/)
+        * [Infrastructure Overview](https://www.usda.gov/sustainability/infrastructure "USDA embarked on a groundbreaking analysis on the potential benefits of rural broadband infrastructure and emerging on-farm technology.")
+        * [Rural Broadband Expansion](https://www.usda.gov/sustainability/infrastructure/broadband)
+    * [Councils and Coalitions](https://www.usda.gov/)
+        * [Councils and Coalitions Overview](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions "USDA is committed to working with partners and stakeholders toward the sustainability of diverse agricultural and food systems.")
+        * [Definitions: Sustainability and Food Systems](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/definitions-sustainability-and-food-systems)
+        * [Sustainable Productivity Growth Coalition](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/sustainable-productivity-growth-coalition)
+        * [U.S. Food Systems](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/us-food-systems)
+        * [UN Food Systems Summit](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/un-food-systems-summit)
+        * [USDA Director and Council](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/usda-director-and-council)
+    
+    Sustainability Submenus
+    -----------------------
+    
+    * [Climate Change](https://www.usda.gov/)
+        * [Climate Change Overview](https://www.usda.gov/sustainability/climate-change "USDA contributes to climate assessments, analyses, and tools to support agriculture, forests, grazing lands, and rural communities.")
+        * [Climate Science and Effects](https://www.usda.gov/sustainability/climate-change/climate-science-and-effects)
+        * [Climate Change Adaptation](https://www.usda.gov/sustainability/climate-change/climate-change-adaptation)
+        * [Greenhouse Gas Inventory and Assessment Program](https://www.usda.gov/sustainability/climate-change/greenhouse-gas-inventory-and-assessment-program)
+        * [Climate Change Science Seminar Series](https://www.usda.gov/sustainability/climate-change/climate-change-science-seminar-series)
+        * [The Fifth National Climate Assessment](https://www.usda.gov/sustainability/climate-change/fifth-national-climate-assessment)
+    * [Conservation](https://www.usda.gov/)
+        * [Conservation Overview](https://www.usda.gov/sustainability/conservation "USDA recognizes that conservation by farmers, ranchers and forest owners today means thriving and sustainable agriculture for our future.")
+        * [Land Conservation](https://www.usda.gov/sustainability/conservation/land-conservation)
+        * [Wildlife](https://www.usda.gov/sustainability/conservation/wildlife)
+    * [Environmental Markets](https://www.usda.gov/)
+        * [Environmental Markets Overview](https://www.usda.gov/sustainability/environmental-markets "Environmental markets are innovative policy approaches to leverage funding for environmental conservation on private lands.")
+        * [About the Office of Environmental Markets](https://www.usda.gov/sustainability/environmental-markets/about-office-environmental-markets)
+        * [Carbon](https://www.usda.gov/sustainability/environmental-markets/carbon)
+        * [Water Quality](https://www.usda.gov/sustainability/environmental-markets/water-quality)
+        * [Wetlands and Habitats](https://www.usda.gov/sustainability/environmental-markets/wetlands-and-habitats)
+        * [Quantifying Environmental Services](https://www.usda.gov/sustainability/environmental-markets/quantifying-environmental-services)
+    * [Infrastructure](https://www.usda.gov/)
+        * [Infrastructure Overview](https://www.usda.gov/sustainability/infrastructure "USDA embarked on a groundbreaking analysis on the potential benefits of rural broadband infrastructure and emerging on-farm technology.")
+        * [Rural Broadband Expansion](https://www.usda.gov/sustainability/infrastructure/broadband)
+    * [Councils and Coalitions](https://www.usda.gov/)
+        * [Councils and Coalitions Overview](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions "USDA is committed to working with partners and stakeholders toward the sustainability of diverse agricultural and food systems.")
+        * [Definitions: Sustainability and Food Systems](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/definitions-sustainability-and-food-systems)
+        * [Sustainable Productivity Growth Coalition](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/sustainable-productivity-growth-coalition)
+        * [U.S. Food Systems](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/us-food-systems)
+        * [UN Food Systems Summit](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/un-food-systems-summit)
+        * [USDA Director and Council](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/usda-director-and-council)
+    
+    ![Apples in an orchard](/sites/default/files/2024-08/definitions%20%282%29.png)
+    
+    Definitions: Sustainability and Food Systems
+    
+    Most incorporate the notion that true sustainability must balance economic, social and environmental dimensions.
+    
+    [View Definitions](https://www.usda.gov/sustainability/sustainability-councils-and-coalitions/definitions-sustainability-and-food-systems)
+    
+    ![Speaker at climate change forum](/sites/default/files/2024-08/climate-change-adaptation%20%281%29.png)
+    
+    Climate Change Adaptation and USDA
+    
+    Producers, ranchers, forest landowners, and communities across the country are facing challenges posed by the effects of climate
+    
+    [View Action Plan](https://www.usda.gov/about-usda/general-information/priorities/climate-solutions/climate-change-adaptation-and-usda)
+    
+* Trade and Markets
+    
+    ### About Trade and Markets
+    
+    In a global marketplace, supply and demand in one area of the world can greatly impact the agricultural production in another.
+    
+    [Discover How](https://www.usda.gov/trade-and-markets)
+    
+    Trades and Markets Menu
+    -----------------------
+    
+    * [Exporting Goods](https://www.usda.gov/)
+        * [Exporting Goods Overview](https://www.usda.gov/trade-and-markets/exporting-goods "USDA monitors the export of products from the U.S. through a standard set of regulations and policies")
+        * [Exporting Regulations and Policies](https://www.usda.gov/trade-and-markets/exporting-goods/exporting-regulations-and-policies)
+        * [Export and Trade Research](https://www.usda.gov/trade-and-markets/exporting-goods/export-and-trade-research)
+    * [Importing Goods](https://www.usda.gov/)
+        * [Importing Goods Overview](https://www.usda.gov/trade-and-markets/importing-goods "USDA offers import programs to help American agricultural producers compete against the world market.")
+        * [Importing Regulations and Policies](https://www.usda.gov/trade-and-markets/importing-goods/importing-regulations-and-policies)
+        * [Import and Trade Research](https://www.usda.gov/trade-and-markets/importing-goods/import-and-trade-research)
+    * [Policy and Procedures](https://www.usda.gov/)
+        * [Policy and Procedures Overview](https://www.usda.gov/trade-and-markets/policies-and-procedures "At the core of USDA's mission is fostering economic opportunity and innovation that will continue to help American agriculture grow.")
+        * [Meat and Poultry Supply Chain](https://www.usda.gov/trade-and-markets/policies-and-procedures/meat-and-poultry-supply-chain)
+        * [Web-Based Supply Chain Management](https://www.usda.gov/about-food/nutrition-research-and-programs/food-distribution/web-based-supply-chain-management)
+        * [Asia-Pacific Economic Cooperation Interim Field Guides](https://www.usda.gov/trade-and-markets/policies-and-procedures/asia-pacific-economic-cooperation-interim-field-guides)
+        * [U.S. Codex Office](https://www.usda.gov/trade-and-markets/policies-and-procedures/us-codex-office)
+    * [Marketing and Trade Assistance](https://www.usda.gov/)
+        * [Marketing and Trade Assistance Overview](https://www.usda.gov/trade-and-markets/marketing-assistance-programs "Marketing assistance programs help farmers, agribusinesses, and state agriculture departments by increasing commodity production.")
+    * [Trade Data and Price Support](https://www.usda.gov/)
+        * [Trade Data and Price Support Overview](https://www.usda.gov/trade-and-markets/trade-data-and-price-support "At the core of USDA's mission is fostering economic opportunity and innovation that continues to help agriculture grow and thrive in a global economy.")
+        * [Pricing Support](https://www.usda.gov/trade-and-markets/trade-data-and-price-support/price-support)
+    
+    Trades and Markets Submenus
+    ---------------------------
+    
+    * [Exporting Goods](https://www.usda.gov/)
+        * [Exporting Goods Overview](https://www.usda.gov/trade-and-markets/exporting-goods "USDA monitors the export of products from the U.S. through a standard set of regulations and policies")
+        * [Exporting Regulations and Policies](https://www.usda.gov/trade-and-markets/exporting-goods/exporting-regulations-and-policies)
+        * [Export and Trade Research](https://www.usda.gov/trade-and-markets/exporting-goods/export-and-trade-research)
+    * [Importing Goods](https://www.usda.gov/)
+        * [Importing Goods Overview](https://www.usda.gov/trade-and-markets/importing-goods "USDA offers import programs to help American agricultural producers compete against the world market.")
+        * [Importing Regulations and Policies](https://www.usda.gov/trade-and-markets/importing-goods/importing-regulations-and-policies)
+        * [Import and Trade Research](https://www.usda.gov/trade-and-markets/importing-goods/import-and-trade-research)
+    * [Policy and Procedures](https://www.usda.gov/)
+        * [Policy and Procedures Overview](https://www.usda.gov/trade-and-markets/policies-and-procedures "At the core of USDA's mission is fostering economic opportunity and innovation that will continue to help American agriculture grow.")
+        * [Meat and Poultry Supply Chain](https://www.usda.gov/trade-and-markets/policies-and-procedures/meat-and-poultry-supply-chain)
+        * [Web-Based Supply Chain Management](https://www.usda.gov/about-food/nutrition-research-and-programs/food-distribution/web-based-supply-chain-management)
+        * [Asia-Pacific Economic Cooperation Interim Field Guides](https://www.usda.gov/trade-and-markets/policies-and-procedures/asia-pacific-economic-cooperation-interim-field-guides)
+        * [U.S. Codex Office](https://www.usda.gov/trade-and-markets/policies-and-procedures/us-codex-office)
+    * [Marketing and Trade Assistance](https://www.usda.gov/)
+        * [Marketing and Trade Assistance Overview](https://www.usda.gov/trade-and-markets/marketing-assistance-programs "Marketing assistance programs help farmers, agribusinesses, and state agriculture departments by increasing commodity production.")
+    * [Trade Data and Price Support](https://www.usda.gov/)
+        * [Trade Data and Price Support Overview](https://www.usda.gov/trade-and-markets/trade-data-and-price-support "At the core of USDA's mission is fostering economic opportunity and innovation that continues to help agriculture grow and thrive in a global economy.")
+        * [Pricing Support](https://www.usda.gov/trade-and-markets/trade-data-and-price-support/price-support)
+    
+* About
+    
+    ### About USDA
+    
+    We keep America's farmers and ranchers in business and ensure the nation's meat, poultry, and egg products are safe, wholesome, and properly labeled.
+    
+    [Discover How](https://www.usda.gov/about-usda)
+    
+    About Menu
+    ----------
+    
+    * [General Information](https://www.usda.gov/)
+        * [General Information Overview](https://www.usda.gov/about-usda/general-information "We provide leadership on food, agriculture, nutrition, and other issues based on public policy, available science, and effective management.")
+        * [Leadership at USDA](https://www.usda.gov/about-usda/general-information/leadership-usda "We provide leadership on food, agriculture, natural resources, rural development, nutrition, and related issues.")
+        * [Our Agency](https://www.usda.gov/about-usda/general-information/our-agency)
+        * [USDA Agencies](https://www.usda.gov/about-usda/general-information/agencies)
+        * [Staff Offices](https://www.usda.gov/about-usda/general-information/staff-offices)
+        * [Priorities](https://www.usda.gov/about-usda/general-information/priorities "Under Secretary Vilsack’s leadership and the Biden-Harris Administration, USDA is empowering people and improving lives.")
+        * [Initiatives](https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs)
+        * [Mission Areas](https://www.usda.gov/about-usda/general-information/mission-areas)
+        * [Topics](https://www.usda.gov/about-usda/general-information/topics)
+    * [Working with USDA](https://www.usda.gov/)
+        * [Working with USDA Overview](https://www.usda.gov/about-usda/working-usda "Familiarizing yourself with how USDA operates can help you take advantage of what USDA has to offer.")
+        * [Career Opportunities](https://www.usda.gov/about-usda/working-usda/careers)
+        * [Employee Services](https://www.usda.gov/about-usda/working-usda/employee-services)
+        * [Veterans Employment](https://www.usda.gov/about-usda/working-usda/veterans-and-employment)
+    * [Reports and Data](https://www.usda.gov/)
+        * [Reports and Data Overview](https://www.usda.gov/about-usda/reports-and-data "USDA harnesses its data assets to improve decision-making and efficient use of resources, maximize the impact of citizen-facing programs, and provide ")
+        * [Reports](https://www.usda.gov/about-usda/reports-and-data/agency-reports)
+        * [Data](https://www.usda.gov/about-usda/reports-and-data/data)
+    * [News](https://www.usda.gov/)
+        * [News Overview](https://www.usda.gov/about-usda/news "News and information about activities, policies and programs of the Department and its employees.")
+        * [Agency News Releases](https://www.usda.gov/about-usda/news/agency-news-releases)
+        * [Press Releases](https://www.usda.gov/about-usda/news/press-releases)
+        * [Blog](https://www.usda.gov/about-usda/news/blog)
+        * [Radio](https://www.usda.gov/about-usda/news/radio)
+        * [USDA Live](https://www.usda.gov/about-usda/news/usda-live)
+        * [Press Contacts](https://www.usda.gov/about-usda/general-information/staff-offices/office-communications/media-communications-coordination)
+        * [Transcripts and Speeches](https://www.usda.gov/about-usda/news/transcripts-speeches)
+    * [USDA Policies](https://www.usda.gov/)
+        * [USDA Policies Overview](https://www.usda.gov/about-usda/policies-and-links "The USDA website provides links to other websites to provide additional information regarding policies and best practices.")
+        * [Digital](https://www.usda.gov/about-usda/policies-and-links/digital)
+        * [Laws and Regulations](https://www.usda.gov/about-usda/policies-and-links/laws-and-regulations)
+        * [Departmental Directives](https://www.usda.gov/about-usda/policies-and-links/departmental-directives)
+    
+    About Submenus
+    --------------
+    
+    * [General Information](https://www.usda.gov/)
+        * [General Information Overview](https://www.usda.gov/about-usda/general-information "We provide leadership on food, agriculture, nutrition, and other issues based on public policy, available science, and effective management.")
+        * [Leadership at USDA](https://www.usda.gov/about-usda/general-information/leadership-usda "We provide leadership on food, agriculture, natural resources, rural development, nutrition, and related issues.")
+        * [Our Agency](https://www.usda.gov/about-usda/general-information/our-agency)
+        * [USDA Agencies](https://www.usda.gov/about-usda/general-information/agencies)
+        * [Staff Offices](https://www.usda.gov/about-usda/general-information/staff-offices)
+        * [Priorities](https://www.usda.gov/about-usda/general-information/priorities "Under Secretary Vilsack’s leadership and the Biden-Harris Administration, USDA is empowering people and improving lives.")
+        * [Initiatives](https://www.usda.gov/about-usda/general-information/initiatives-and-highlighted-programs)
+        * [Mission Areas](https://www.usda.gov/about-usda/general-information/mission-areas)
+        * [Topics](https://www.usda.gov/about-usda/general-information/topics)
+    * [Working with USDA](https://www.usda.gov/)
+        * [Working with USDA Overview](https://www.usda.gov/about-usda/working-usda "Familiarizing yourself with how USDA operates can help you take advantage of what USDA has to offer.")
+        * [Career Opportunities](https://www.usda.gov/about-usda/working-usda/careers)
+        * [Employee Services](https://www.usda.gov/about-usda/working-usda/employee-services)
+        * [Veterans Employment](https://www.usda.gov/about-usda/working-usda/veterans-and-employment)
+    * [Reports and Data](https://www.usda.gov/)
+        * [Reports and Data Overview](https://www.usda.gov/about-usda/reports-and-data "USDA harnesses its data assets to improve decision-making and efficient use of resources, maximize the impact of citizen-facing programs, and provide ")
+        * [Reports](https://www.usda.gov/about-usda/reports-and-data/agency-reports)
+        * [Data](https://www.usda.gov/about-usda/reports-and-data/data)
+    * [News](https://www.usda.gov/)
+        * [News Overview](https://www.usda.gov/about-usda/news "News and information about activities, policies and programs of the Department and its employees.")
+        * [Agency News Releases](https://www.usda.gov/about-usda/news/agency-news-releases)
+        * [Press Releases](https://www.usda.gov/about-usda/news/press-releases)
+        * [Blog](https://www.usda.gov/about-usda/news/blog)
+        * [Radio](https://www.usda.gov/about-usda/news/radio)
+        * [USDA Live](https://www.usda.gov/about-usda/news/usda-live)
+        * [Press Contacts](https://www.usda.gov/about-usda/general-information/staff-offices/office-communications/media-communications-coordination)
+        * [Transcripts and Speeches](https://www.usda.gov/about-usda/news/transcripts-speeches)
+    * [USDA Policies](https://www.usda.gov/)
+        * [USDA Policies Overview](https://www.usda.gov/about-usda/policies-and-links "The USDA website provides links to other websites to provide additional information regarding policies and best practices.")
+        * [Digital](https://www.usda.gov/about-usda/policies-and-links/digital)
+        * [Laws and Regulations](https://www.usda.gov/about-usda/policies-and-links/laws-and-regulations)
+        * [Departmental Directives](https://www.usda.gov/about-usda/policies-and-links/departmental-directives)
+    
+* Search
+    
+     Search USDA.gov  
+     Search All USDA Agencies
+    
+    Search USDA.gov  Search 
+    
+      Search All USDA Agencies  Search 
     
 
-  Search usda.gov  Search 
+Breadcrumb
+----------
 
-Utility navigation
-------------------
-
-* [Glossary](https://www.usda.gov/glossary)
-* [AskUSDA](https://ask.usda.gov/s/?utm_source=USDA&utm_medium=homepage&utm_campaign=homepage%20referrals)
-* [Recalls](https://www.fsis.usda.gov/wps/portal/fsis/topics/recalls-and-public-health-alerts)
-* [Contact Us](https://ask.usda.gov/s/contactsupport)
-
-Alternate Side Navigation
--------------------------
-
-* [Accessibility Statement](https://www.usda.gov/accessibility-statement)
-* [Ask USDA](https://ask.usda.gov/)
-* [Contact Us](https://ask.usda.gov/s/contactsupport)
-* [Federal Web Site Inventory](https://www.usda.gov/federal-web-site-inventory)
-* [Glossary](https://www.usda.gov/glossary)
-* [Non-Discrimination Statement](https://www.usda.gov/non-discrimination-statement)
-* [Open Government at USDA](https://www.usda.gov/open)
-* [Plain Language Writing in USDA](https://www.usda.gov/plain-writing)
-* [Policies and Links](https://www.usda.gov/policies-and-links)
-* [Privacy Policy](https://www.usda.gov/privacy-policy)
+1. [Home](https://www.usda.gov/)
+2. Privacy Policy
 
 Privacy Policy
 ==============
+
+* * *
+
+Share:
+
+[Facebook](https://www.facebook.com/sharer/sharer.php?kid_directed_site=0&sdk=joey&u=https://www.usda.gov/privacy-policy&display=popup&ref=plugin&src=share_button)
+
+[Twitter](http://twitter.com/share?text=Check%20out%20this%20page%20from%20USDA&url=https://www.usda.gov/privacy-policy)
+
+[Linkedin](https://www.linkedin.com/sharing/share-offsite/?url=https://www.usda.gov/privacy-policy)
+
+[Privacy Policy](https://www.usda.gov/privacy-policy)
+-----------------------------------------------------
+
+* [About Food](https://www.usda.gov/about-food "USDA is responsible for providing a safety net for millions of Americans who are food-insecure and for developing and promoting dietary guidance based on scientific evidence.")
+* [About USDA](https://www.usda.gov/about-usda "The U.S. Department of Agriculture (USDA) is made up of 29 agencies and offices with nearly 100,000 employees who serve the American people at more than 4,500 locations across the country and abroad.")
+* [EAS Services and Capabilities](https://www.usda.gov/eas-services-and-capabilities)
+* [Farming and Ranching](https://www.usda.gov/farming-and-ranching "We maintain a strong safety net for America's farmers, ranchers and growers that includes assistance to struggling industries, disaster assistance, crop insurance, technical assistance, access to credit and help producers implement conservation practices.")
+* [Fellowship Requirements Form](https://www.usda.gov/fellowship-requirements-form)
+* [Forestry](https://www.usda.gov/forestry "The forestry profession encompasses the science and practice of establishing, managing, using, and conserving forests, trees and associated resources in a sustainable manner to meet desired goals, needs, and values.")
+* [Privacy Policy](https://www.usda.gov/privacy-policy)
+    
+    * [Privacy Impact Assessments](https://www.usda.gov/privacy-policy/privacy-impact-assessments)
+    
+* [Senior Officials and Political Appointees](https://www.usda.gov/senior-officials-and-political-appointees)
+* [Staff Offices](https://www.usda.gov/about-usda/general-information/staff-offices)
+* [Sustainability](https://www.usda.gov/sustainability "Sustainable agricultural productivity growth is a foundational element in building more sustainable agricultural and food systems.")
+* [Trade and Markets](https://www.usda.gov/trade-and-markets "USDA works with foreign governments, international organizations, and the Office of the U.S. Trade Representative to establish international standards and rules to improve accountability and predictability for agricultural trade.")
 
 Thank you for visiting the United States Department of Agriculture (USDA) website and reviewing our privacy statement. Our privacy policy is clear: We do not collect any personally identifiable information, (PII), without your explicit consent.
 
@@ -215,57 +638,112 @@ The information collected is solely on the usage of the Application from within 
 
 Location Opting In: When a individuals opt in to background location tracking by the app, only the last known location is saved (replaces the previous location). Static locations may also be configured by subscribing to one or many U.S. ZIP code regions.
 
-[Return to top](#)
+Trending News and Updates
+-------------------------
 
-Main navigation - Footer
-------------------------
+Blog
 
-* [Home](https://www.usda.gov/)
-* [Topics](https://www.usda.gov/topics)
-* [Our Agency](https://www.usda.gov/our-agency)
-* [Priorities](https://www.usda.gov/priorities)
-* [Media](https://www.usda.gov/media)
+![](/sites/default/files/styles/trending_card_768x603/public/52402700931-3dd5f88c47-k.jpg?itok=qcWJUgxi)
 
-Footer navigation
------------------
+[Exciting News: Welcome to the New USDA.gov!](https://www.usda.gov/about-usda/news/blog/2024/12/11/exciting-news-welcome-new-usdagov)
 
-* [AskUSDA](https://ask.usda.gov/s/?utm_source=USDA&utm_medium=homepage&utm_campaign=homepage%20referrals)
-* [Pandemic Assistance](https://www.farmers.gov/pandemic-assistance)
-* [Contact Us](https://ask.usda.gov/s/contactsupport)
-* [Site Map](https://www.usda.gov/sitemap)
-* [Policies and Links](https://www.usda.gov/policies-and-links)
-* [Our Performance](https://www.usda.gov/our-agency/about-usda/performance)
-* [Careers](https://www.usda.gov/our-agency/careers)
-* [Report Fraud, Waste, and Abuse in USDA Programs](https://usdaoig.oversight.gov/resources/hotline-information)
-* [Inspector General](https://usdaoig.oversight.gov/)
-* [Plain Language Writing in USDA](https://www.usda.gov/plain-writing)
-* [Open](https://www.usda.gov/open)
-* [FOIA](https://www.usda.gov/ogc/office-information-affairs/foia-division)
+December 11, 2024
+
+We’re thrilled to introduce the new and improved USDA.gov!
+
+[Learn More](https://www.usda.gov/about-usda/news/blog/2024/12/11/exciting-news-welcome-new-usdagov)
+
+Press Release
+
+![](/sites/default/files/styles/trending_card_768x603/public/twitter-card-fs-updated.jpg?itok=U-FAdQyi)
+
+[Biden-Harris Administration announces nearly $335M in grants to support private forestland management and conservation as part of President Biden’s Investing in America Agenda](https://www.usda.gov/article/biden-harris-administration-announces-nearly-335m-grants-support-private-forestland-management-and)
+
+December 11, 2024
+
+[Learn More](https://www.usda.gov/article/biden-harris-administration-announces-nearly-335m-grants-support-private-forestland-management-and)
+
+Press Release
+
+![](/sites/default/files/styles/trending_card_768x603/public/twitter-card-oc-updated.jpg?itok=NeFDU92W)
+
+[USDA Announces Two Prominent Speakers for the 2025 Agricultural Outlook Forum](https://www.usda.gov/article/usda-announces-two-prominent-speakers-2025-agricultural-outlook-forum-0)
+
+December 11, 2024
+
+[Learn More](https://www.usda.gov/article/usda-announces-two-prominent-speakers-2025-agricultural-outlook-forum-0)
+
+Press Release
+
+![](/sites/default/files/styles/trending_card_768x603/public/twitter-card-oc-updated.jpg?itok=NeFDU92W)
+
+[USDA Announces Two Prominent Speakers for the 2025 Agricultural Outlook Forum](https://www.usda.gov/article/usda-announces-two-prominent-speakers-2025-agricultural-outlook-forum)
+
+December 11, 2024
+
+[Learn More](https://www.usda.gov/article/usda-announces-two-prominent-speakers-2025-agricultural-outlook-forum)
+
+### AskUSDA
+
+One central entry point for you to access information and help from USDA.
+
+[Ask.USDA.gov](https://ask.usda.gov/)
+
+[1-800-ONE-USDA](tel:18006638732)
+
+[askusda@usda.gov](mailto:askusda@usda.gov)
+
+[Ask a Question](https://ask.usda.gov/)
+
+U.S. Department of Agriculture
+
+Policy and Statements
+
 * [Accessibility Statement](https://www.usda.gov/accessibility-statement)
-* [Privacy Policy](https://www.usda.gov/privacy-policy)
-* [Non-Discrimination Statement](https://www.usda.gov/non-discrimination-statement)
 * [Anti-Harassment Policy](https://www.usda.gov/oascr/civil-rights-statements)
+* [Freedom of Information Act (FOIA)](https://www.usda.gov/ogc/office-information-affairs/foia-division)
 * [Information Quality](https://www.usda.gov/ocio/guidelines-and-compliance-resources/information-quality-activities)
+* [Non-Discrimination Statement](https://www.usda.gov/non-discrimination-statement)
+* [Open Government at USDA](https://www.usda.gov/open)
+* [Plain Writing](https://www.usda.gov/plain-writing)
+* [Privacy Policy](https://www.usda.gov/privacy-policy)
+* [Vulnerability Disclosure Policy](https://www.usda.gov/vulnerability-disclosure-policy)
+
+Related Sites
+
+* [AskUSDA](https://ask.usda.gov/s/)
+* [Farmers.gov](https://www.farmers.gov/)
+* [Office of the Inspector General](https://usdaoig.oversight.gov/)
 * [USA.gov](https://www.usa.gov/)
 * [WhiteHouse.gov](https://www.whitehouse.gov/)
-* [eGov](https://www.usda.gov/federal-web-site-inventory)
+
+Related Sites
+
+* [AskUSDA](https://ask.usda.gov/s/)
+* [Farmers.gov](https://www.farmers.gov/)
+* [Office of the Inspector General](https://usdaoig.oversight.gov/)
+* [USA.gov](https://www.usa.gov/)
+* [WhiteHouse.gov](https://www.whitehouse.gov/)
+
+Resources
+
+* [Careers](https://www.usda.gov/our-agency/careers)
+* [Contact Us](https://ask.usda.gov/s/contactsupport)
+* [Federal Website Inventory](https://www.usda.gov/federal-web-site-inventory)
 * [Feedback](mailto:feedback@oc.usda.gov)
 * [No FEAR Act Data](https://www.usda.gov/nofear)
-* [Office of Special Counsel](https://osc.gov/)
+* [Office of the Assistant Secretary for Civil Rights (OASCR)](https://www.usda.gov/about-usda/general-information/staff-offices/office-assistant-secretary-civil-rights)
+* [Report Fraud on USDA Contracts](https://usdaoig.oversight.gov/resources/contractor-fraud)
+* [Sitemap](https://www.usda.gov/sitemap)
+* [USDA Performance](https://www.usda.gov/our-agency/about-usda/performance)
 * [Whistleblower Protection Coordinator](https://usdaoig.oversight.gov/resources/whistleblower-protection-coordinator)
-* [Vulnerability Disclosure Policy](https://www.usda.gov/vulnerability-disclosure-policy)
-* [Agency Financial Reports](https://www.usda.gov/ocfo/plans-reports/agency-financial-reports)
-* [USDA CARES Partner Portal](https://www.usda.gov/partner-portal)
-* [21st Century IDEA Act Progress Report](https://www.usda.gov/sites/default/files/documents/report-congress-omb-implementation-21st-century-idea-act.pdf)
 
-### Sign Up for Updates
+Sign up for Email Updates
 
-[Subscribe](https://public.govdelivery.com/accounts/USDAOC/subscriber/new)
+[USDA on Facebook](https://www.facebook.com/usda/) [USDA on Twitter](https://www.twitter.com/usda/) [USDA on LinkedIn](https://www.linkedin.com/company/usda) [USDA on Youtube](https://www.youtube.com/usda/) [USDA on Instagram](https://www.instagram.com/usdagov/) [USDA on Flickr](https://flickr.com/usdagov) [USDA RSS](https://www.usda.gov/rss-feeds) [USDA Constant Contact](https://public.govdelivery.com/accounts/USDAOC/subscriber/new)
 
- ![USDA Logo](/themes/usda/img/usda-symbol.svg)[U.S. Department of Agriculture](https://www.usda.gov/ "Home")
+Help us improve USDA.gov!
 
-[USDA on Twitter](https://www.twitter.com/usda/) [USDA on Facebook](https://www.facebook.com/usda/) [USDA on LinkedIn](https://www.linkedin.com/company/usda) [USDA Constant Contact](https://visitor.r20.constantcontact.com/manage/optin?v=001Sk_8Aa13394xonLLUknSR_CtAy6sVkj7-WTntErj4YHitEGv_xZXTgEreyr8MdkMKJ6cnoDLHPraoNtEuHeVpYuA7EHtjdGdcHtASf8lweU%3D)
+USDA is currently seeking your opinion on our site via a 5-minute survey.
 
-[USDA on Instagram](https://www.instagram.com/usdagov/) [USDA on Flickr](https://flickr.com/usdagov) [USDA on Youtube](https://www.youtube.com/usda/)
-
-[USDA RSS](https://www.usda.gov/rss-feeds)
+[Take the Survey](https://www.surveymonkey.com/r/HFSLCVG)
