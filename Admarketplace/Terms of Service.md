@@ -93,102 +93,6 @@ Please enter a business email
 
 [Ok](#)
 
-[![](https://cdn.prod.website-files.com/65a562ed64015224de908a65/65a562ed64015224de908b0c_logo-white1.svg)![](https://cdn.prod.website-files.com/65a562ed64015224de908a65/65a562ed64015224de908b0d_logo-blue1.svg)](https://www.admarketplace.com/)
-
-[Advertisers](https://www.admarketplace.com/advertisers)[Publishers](https://www.admarketplace.com/publishers)[Solutions](https://www.admarketplace.com/solutions)
-
-Resources
-
-[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/65ba105716922c192b136076_Blog.svg)
-
-Blog
-
-Get insights, best practices, and thought leadership straight from the experts.](https://www.admarketplace.com/blog)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/65ba13973421a572ea919394_Case%20study.svg)
-
-Case Studies
-
-Discover how we've empowered some of the world's largest brands to achieve greater success.](https://www.admarketplace.com/case-studies)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/65ba105a55fb7325c366b7c3_infographic.svg)
-
-Infographics
-
-Take a visual deep dive into the latest industry trends and data.](https://www.admarketplace.com/infographics)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6642744ba16dde98e61355c7_research.svg)
-
-Insights & Research
-
-Stay up-to-date on all the latest learnings and insights to optimize your campaign performance](https://www.admarketplace.com/insights-research)
-
-About
-
-[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/65a7abd5b9d4594b36bac71b_story.svg)
-
-Our Story
-
-From humble beginnings to predominant adtech player, brush up on adMarketplace’s history.](https://www.admarketplace.com/our-story)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/65a7abd5b9d4594b36bac71a_news.svg)
-
-News
-
-You heard it here first—all the latest AMP news, updates, and announcements.](https://www.admarketplace.com/news)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/65a7abd5b9d4594b36bac718_culture.svg)
-
-Culture & Careers
-
-Discover the culture that powers our successes and browse our open roles for your next big opportunity.](https://www.admarketplace.com/culture-and-careers)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/65a7abd5b9d4594b36bac719_employee.svg)
-
-Employee Spotlight
-
-Honoring the talents, attributes, and wins of the incredible individuals that make up Team AMP.](https://www.admarketplace.com/employee-spotlight)
-
-[IMPACT](https://www.admarketplace.com/impact-2024-conference)
-
-![](https://cdn.prod.website-files.com/65a562ed64015224de908a65/65a562ed64015224de908b73_search-white.png)
-
-[Contact Us](#)
-
-[Sign In](https://my.admarketplace.com/login/login.html)
-
-![](https://cdn.prod.website-files.com/65a562ed64015224de908a65/65a562ed64015224de908b74_search-dark.png)
-
-[Contact Us](#)
-
-[Sign In](https://my.admarketplace.com/login/login.html)
-
-![](https://cdn.prod.website-files.com/65a562ed64015224de908a65/65a562ed64015224de908b73_search-white.png)
-
-![](https://cdn.prod.website-files.com/65a562ed64015224de908a65/65a562ed64015224de908b74_search-dark.png)
-
-Contact us
-----------
-
-I am a/an
-
-Advertiser
-
-Publisher
-
-Agency
-
-First Name
-
-Last Name
-
-Work email
-
-Title
-
-Company
-
-Thank you! Your submission has been received!
-
-Oops! Something went wrong while submitting the form.
-
-![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64f20ae9aff4ad96e13cf6c8_x1.svg)
-
-Oops!
-=====
-
-Please enter a business email
-
-[Ok](#)
-
 Terms of Use
 ------------
 
@@ -303,3 +207,9 @@ Our Office Locations:
 ![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/673370c3a88c635e7d17d0e8_21972-312_SOC_NonCPA.png)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/67360a0a7669be572307474a__iab.svg)](https://www.iab.com/)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/67360a0a4e65d2246eded872__verisign.svg)](https://www.verisign.com/en_US/website-presence/online/ssl-certificates/index.xhtml?loc=en_US)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/67360a0a3a6109017ed074c2__tag-registered.svg)](https://www.tagtoday.net/)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/67360b59d2b1a9328bbae65c_Frame.svg)](https://youradchoices.com/)
 
 © 2024. All rights reserved.
+
+![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6502c1b0483936b32c95d06b_cookie-icon-webflow-cloneable-template-brix-templates.svg)
+
+Our website USES cookies. By continuing navigating, we assume your permission to deploy cookies as detailed in our [Privacy Policy.](https://www.admarketplace.com/privacy-policy)
+
+[Accept Cookies](#)![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64f20ae9aff4ad96e13cf6c8_x1.svg)
