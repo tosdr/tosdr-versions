@@ -75,5 +75,3 @@
 \> [法律声明](https://www.douban.com/about/legal)
 
 © 2005－2024 douban.com, all rights reserved 北京豆网科技有限公司 [](https://www.douban.com/hnypt/variformcyst.py)[关于豆瓣](https://www.douban.com/about) · [在豆瓣工作](https://www.douban.com/jobs) · [联系我们](https://www.douban.com/about?topic=contactus) · [法律声明](https://www.douban.com/about/legal) · [帮助中心](https://help.douban.com/?app=main) · [移动应用](https://www.douban.com/doubanapp/)
-
-![](https://img1.doubanio.com/pics/10k.jpg) ![](https://img1.doubanio.com/pics/10k.jpg) ![](https://www.douban.com/pics/10k.jpg) ![](https://img1.doubanio.com/pics/10k.jpg)
