@@ -1,4 +1,4 @@
-![Close](//pcdn-www.pcloud.com/Zci/images/lazy-load.png)
+![Close](//pcdn-www.pcloud.com/Zhi/images/lazy-load.png)
 
 Terms of Use
 ------------
@@ -8,12 +8,12 @@ Terms of Use
 
 Categories
 
-* Intellectual Property Policy ![Arrow](//pcdn-www.pcloud.com/Zci/images/micro-mob-arrow.png)
-*   [![Inactive](//pcdn-www.pcloud.com/Zci/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/Zci/images/left-micro/business-active.png) Terms and Conditions](https://www.pcloud.com/terms_and_conditions.html)
-*   [![Inactive](//pcdn-www.pcloud.com/Zci/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/Zci/images/left-micro/business-active.png) Privacy Policy](https://www.pcloud.com/privacy_policy.html)
-*   [![Inactive](//pcdn-www.pcloud.com/Zci/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/Zci/images/left-micro/business-active.png) Intellectual Property Policy](https://www.pcloud.com/int_pr_policy.html)
-*   [![Inactive](//pcdn-www.pcloud.com/Zci/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/Zci/images/left-micro/business-active.png) Business Agreement](https://www.pcloud.com/business_agreement.html)
-*   [![Inactive](//pcdn-www.pcloud.com/Zci/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/Zci/images/left-micro/business-active.png) Affiliate Program Terms and Conditions](https://www.pcloud.com/affiliate_terms.html)
+* Intellectual Property Policy ![Arrow](//pcdn-www.pcloud.com/Zhi/images/micro-mob-arrow.png)
+*   [![Inactive](//pcdn-www.pcloud.com/Zhi/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/Zhi/images/left-micro/business-active.png) Terms and Conditions](https://www.pcloud.com/terms_and_conditions.html)
+*   [![Inactive](//pcdn-www.pcloud.com/Zhi/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/Zhi/images/left-micro/business-active.png) Privacy Policy](https://www.pcloud.com/privacy_policy.html)
+*   [![Inactive](//pcdn-www.pcloud.com/Zhi/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/Zhi/images/left-micro/business-active.png) Intellectual Property Policy](https://www.pcloud.com/int_pr_policy.html)
+*   [![Inactive](//pcdn-www.pcloud.com/Zhi/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/Zhi/images/left-micro/business-active.png) Business Agreement](https://www.pcloud.com/business_agreement.html)
+*   [![Inactive](//pcdn-www.pcloud.com/Zhi/images/left-micro/business-default.png) ![Active](//pcdn-www.pcloud.com/Zhi/images/left-micro/business-active.png) Affiliate Program Terms and Conditions](https://www.pcloud.com/affiliate_terms.html)
 
 Intellectual Property Policy
 ============================
