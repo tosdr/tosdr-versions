@@ -20,16 +20,16 @@ Wednesday, December 11 2024
 
 Latest
 
-* [What HPE’s results say about the direction of enterprise AI](https://digitpatrox.com/what-hpes-results-say-about-the-direction-of-enterprise-ai/)
-* [AI in the workplace is forcing younger tech workers to rethink their career paths – Computerworld](https://digitpatrox.com/ai-in-the-workplace-is-forcing-younger-tech-workers-to-rethink-their-career-paths-computerworld/)
-* [This Is the Best Authy Alternative for Two-Factor Authentication](https://digitpatrox.com/this-is-the-best-authy-alternative-for-two-factor-authentication/)
-* [Le migliori VPN per guardare Amazon Prime Video](https://digitpatrox.com/le-migliori-vpn-per-guardare-amazon-prime-video/)
-* [Best Turner Spatulas – Consumer Reports](https://digitpatrox.com/best-turner-spatulas-consumer-reports/)
-* [Nimble Fold 3-in-1 Wireless Charger Review: A Modern Traveling Solution](https://digitpatrox.com/nimble-fold-3-in-1-wireless-charger-review-a-modern-traveling-solution/)
-* [How IVR Analytics Fixes Call Flow Issues and Frees Up Agents](https://digitpatrox.com/how-ivr-analytics-fixes-call-flow-issues-and-frees-up-agents/)
-* [Finally! Meta Quest VR headsets can now connect to your Windows 11 PC — with up to 3 virtual monitors](https://digitpatrox.com/finally-meta-quest-vr-headsets-can-now-connect-to-your-windows-11-pc-with-up-to-3-virtual-monitors/)
-* [Ivanti warns of maximum severity CSA auth bypass vulnerability](https://digitpatrox.com/ivanti-warns-of-maximum-severity-csa-auth-bypass-vulnerability/)
-* [WordPress parent company must stop blocking WP Engine, judge rules](https://digitpatrox.com/wordpress-parent-company-must-stop-blocking-wp-engine-judge-rules/)
+* [Microsoft lifts Windows 11 24H2 block on PCs with USB scanners](https://digitpatrox.com/microsoft-lifts-windows-11-24h2-block-on-pcs-with-usb-scanners/)
+* [Krispy Kreme got cyberattacked – The Verge](https://digitpatrox.com/krispy-kreme-got-cyberattacked-the-verge/)
+* [You’re Not Alone! WhatsApp Is Currently Down](https://digitpatrox.com/youre-not-alone-whatsapp-is-currently-down/)
+* [Node4 names Richard Moseley as new CEO](https://digitpatrox.com/node4-names-richard-moseley-as-new-ceo/)
+* [8 brilliant browser tab tricks for Windows power users – Computerworld](https://digitpatrox.com/8-brilliant-browser-tab-tricks-for-windows-power-users-computerworld/)
+* [The Newest Amazon Echo Dot Is at Its Lowest Price Ever Right Now](https://digitpatrox.com/the-newest-amazon-echo-dot-is-at-its-lowest-price-ever-right-now/)
+* [How to clear a computer before selling: Protect your personal data](https://digitpatrox.com/how-to-clear-a-computer-before-selling-protect-your-personal-data/)
+* [How to stop automatic screen brightness dimming on Windows 11](https://digitpatrox.com/how-to-stop-automatic-screen-brightness-dimming-on-windows-11/)
+* [Heavy-Duty Ram Trucks Recalled Due to Risk of ABS Failure](https://digitpatrox.com/heavy-duty-ram-trucks-recalled-due-to-risk-of-abs-failure/)
+* [15 New iPhone Features You Should Check Out in iOS 18.2](https://digitpatrox.com/15-new-iphone-features-you-should-check-out-in-ios-18-2/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/8dvBHPDcPGZPUdCXCYJASa-1200-80.jpg)](https://digitpatrox.com/what-hpes-results-say-about-the-direction-of-enterprise-ai/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows-11.jpg)](https://digitpatrox.com/microsoft-lifts-windows-11-24h2-block-on-pcs-with-usb-scanners/)
     
-    [What HPE’s results say about the direction of enterprise AI](https://digitpatrox.com/what-hpes-results-say-about-the-direction-of-enterprise-ai/)
+    [Microsoft lifts Windows 11 24H2 block on PCs with USB scanners](https://digitpatrox.com/microsoft-lifts-windows-11-24h2-block-on-pcs-with-usb-scanners/)
     
-    4 minutes ago
+    13 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3619976-0-40314600-1733915010-shutterstock_2418301477.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/ai-in-the-workplace-is-forcing-younger-tech-workers-to-rethink-their-career-paths-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/DUqORQU2u0cbj_BCH7xqUNVWmsQ=/0x0:1907x1400/1200x628/filters:focal(954x700:955x701)/cdn.vox-cdn.com/uploads/chorus_asset/file/25785669/glazer_tall2_Ashna.jpg)](https://digitpatrox.com/krispy-kreme-got-cyberattacked-the-verge/)
     
-    [AI in the workplace is forcing younger tech workers to rethink their career paths – Computerworld](https://digitpatrox.com/ai-in-the-workplace-is-forcing-younger-tech-workers-to-rethink-their-career-paths-computerworld/)
+    [Krispy Kreme got cyberattacked – The Verge](https://digitpatrox.com/krispy-kreme-got-cyberattacked-the-verge/)
     
-    26 minutes ago
+    30 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JES1RP01NXMCTCY5JJVFS43K/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/this-is-the-best-authy-alternative-for-two-factor-authentication/)
+* [![](https://beebom.com/wp-content/uploads/2024/10/whatsapp-chat-window.jpg)](https://digitpatrox.com/youre-not-alone-whatsapp-is-currently-down/)
     
-    [This Is the Best Authy Alternative for Two-Factor Authentication](https://digitpatrox.com/this-is-the-best-authy-alternative-for-two-factor-authentication/)
+    [You’re Not Alone! WhatsApp Is Currently Down](https://digitpatrox.com/youre-not-alone-whatsapp-is-currently-down/)
     
-    54 minutes ago
+    46 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Le-migliori-VPN-per-guardare-Amazon-Prime-Video_-accedi-a-tutti-i-contenuti-ovunque-tu-sia.jpg)](https://digitpatrox.com/le-migliori-vpn-per-guardare-amazon-prime-video/)
+* [![](https://cdn.mos.cms.futurecdn.net/NpXURdz344WjynUefNwtBK-1200-80.jpg)](https://digitpatrox.com/node4-names-richard-moseley-as-new-ceo/)
     
-    [Le migliori VPN per guardare Amazon Prime Video](https://digitpatrox.com/le-migliori-vpn-per-guardare-amazon-prime-video/)
+    [Node4 names Richard Moseley as new CEO](https://digitpatrox.com/node4-names-richard-moseley-as-new-ceo/)
     
-    1 hour ago
+    2 hours ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733432309/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Best-Spatulas-1224)](https://digitpatrox.com/best-turner-spatulas-consumer-reports/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3620013-0-85491100-1733914970-windows-browsers.png?w=1024)](https://digitpatrox.com/8-brilliant-browser-tab-tricks-for-windows-power-users-computerworld/)
     
-    [Best Turner Spatulas – Consumer Reports](https://digitpatrox.com/best-turner-spatulas-consumer-reports/)
+    [8 brilliant browser tab tricks for Windows power users – Computerworld](https://digitpatrox.com/8-brilliant-browser-tab-tricks-for-windows-power-users-computerworld/)
     
-    1 hour ago
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [4 minutes ago
+* [13 minutes ago
     
-    ### What HPE’s results say about the direction of enterprise AI](https://digitpatrox.com/what-hpes-results-say-about-the-direction-of-enterprise-ai/)
-* [26 minutes ago
+    ### Microsoft lifts Windows 11 24H2 block on PCs with USB scanners](https://digitpatrox.com/microsoft-lifts-windows-11-24h2-block-on-pcs-with-usb-scanners/)
+* [30 minutes ago
     
-    ### AI in the workplace is forcing younger tech workers to rethink their career paths – Computerworld](https://digitpatrox.com/ai-in-the-workplace-is-forcing-younger-tech-workers-to-rethink-their-career-paths-computerworld/)
-* [54 minutes ago
+    ### Krispy Kreme got cyberattacked – The Verge](https://digitpatrox.com/krispy-kreme-got-cyberattacked-the-verge/)
+* [46 minutes ago
     
-    ### This Is the Best Authy Alternative for Two-Factor Authentication](https://digitpatrox.com/this-is-the-best-authy-alternative-for-two-factor-authentication/)
+    ### You’re Not Alone! WhatsApp Is Currently Down](https://digitpatrox.com/youre-not-alone-whatsapp-is-currently-down/)
 
 Most Popular Topics
 
-* [August 13, 2024
+* [August 27, 2024
     
-    ### What’s in the latest build? – Computerworld](https://digitpatrox.com/whats-in-the-latest-build-computerworld/)
-* [4 weeks ago
+    ### Pixel Screenshots is one of the Pixel 9’s best AI features — here’s how it works](https://digitpatrox.com/pixel-screenshots-is-one-of-the-pixel-9s-best-ai-features-heres-how-it-works/)
+* [November 3, 2024
     
-    ### Ransomware gang claims responsibility for cyber attack on Ohio school district that cancelled classes](https://digitpatrox.com/ransomware-gang-claims-responsibility-for-cyber-attack-on-ohio-school-district-that-cancelled-classes/)
-* [August 18, 2024
+    ### Kindle Colorsoft owners complain of a yellow bar on the e-reader’s screen](https://digitpatrox.com/kindle-colorsoft-owners-complain-of-a-yellow-bar-on-the-e-readers-screen/)
+* [October 18, 2024
     
-    ### NYT Connections today hints and answers — Monday, August 19 (#435)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-august-19-435/)
+    ### Are Sweet Potatoes Good for You?](https://digitpatrox.com/are-sweet-potatoes-good-for-you/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### How IVR Analytics Fixes Call Flow Issues and Frees Up Agents](https://digitpatrox.com/how-ivr-analytics-fixes-call-flow-issues-and-frees-up-agents/)
-* [2 hours ago
-    
-    ### Finally! Meta Quest VR headsets can now connect to your Windows 11 PC — with up to 3 virtual monitors](https://digitpatrox.com/finally-meta-quest-vr-headsets-can-now-connect-to-your-windows-11-pc-with-up-to-3-virtual-monitors/)
 * [3 hours ago
     
-    ### Ivanti warns of maximum severity CSA auth bypass vulnerability](https://digitpatrox.com/ivanti-warns-of-maximum-severity-csa-auth-bypass-vulnerability/)
+    ### How to clear a computer before selling: Protect your personal data](https://digitpatrox.com/how-to-clear-a-computer-before-selling-protect-your-personal-data/)
+* [3 hours ago
+    
+    ### How to stop automatic screen brightness dimming on Windows 11](https://digitpatrox.com/how-to-stop-automatic-screen-brightness-dimming-on-windows-11/)
+* [3 hours ago
+    
+    ### Heavy-Duty Ram Trucks Recalled Due to Risk of ABS Failure](https://digitpatrox.com/heavy-duty-ram-trucks-recalled-due-to-risk-of-abs-failure/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
