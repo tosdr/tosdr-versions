@@ -113,7 +113,7 @@ Menu principal
 
 [](https://twitter.com/radiofrance/ "Radio France sur Twitter - Nouvelle fenêtre")[](https://www.facebook.com/pages/Groupe-Radio-France/225248330547 "Radio France sur Facebook - Nouvelle fenêtre")[](https://www.instagram.com/radiofrance/ "Radio France sur Instagram - Nouvelle fenêtre")[](https://www.linkedin.com/company/radio-france/ "Radio France sur Linkedin - Nouvelle fenêtre")
 
-[![Radio France](/themes/custom/radiofrance/logo.svg?1733908206)](https://www.radiofrance.com/ "Radio France : retour à l'accueil")
+[![Radio France](/themes/custom/radiofrance/logo.svg?1733930586)](https://www.radiofrance.com/ "Radio France : retour à l'accueil")
 
 [](#collapse-menu-ecouter "Écouter")
 
