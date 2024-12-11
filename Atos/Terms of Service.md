@@ -201,13 +201,10 @@ Atos homepage](https://atos.net/en/)
         Upcoming events
         ---------------
         
-        * [Unlocking GenAI: How Retrieval-Augmented Generation transforms business](https://atos.net/en/events/unlocking-genai-how-retrieval-augmented-generation-transforms-business)
+        * **Your search did not return any results.**
+            
         
-        ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-        
-        Dec 10, 2024 - Dec 10, 2024
-        
-        ### Unlocking GenAI: How Retrieval-Augmented Generation transforms business
+        **Your search did not return any results.**
         
 * About Us
     * <<
