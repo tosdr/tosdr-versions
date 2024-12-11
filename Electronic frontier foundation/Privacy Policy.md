@@ -67,8 +67,6 @@ and events in your area.
 
 [Donate](https://supporters.eff.org/donate/site-m--m)
 
- [![](https://www.eff.org/files/powerup-webbanners_no_matching_1.png)](https://eff.org/r.afn0)[![](https://www.eff.org/files/powerup-mobilebanner_no_matching.png)](https://eff.org/r.f5mr)[](https://www.eff.org/ "Close")
-
 [Electronic Frontier Foundation](https://www.eff.org/)
 
 * [About](https://www.eff.org/about)
