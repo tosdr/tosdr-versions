@@ -654,7 +654,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/women-in-cybersecurity-scholarship/)
+[United States (EN)](https://www.eset.com/us/)
 
 * * *
 
@@ -679,6 +679,6 @@ San Diego, California
 
 ##### © 2008-2024 ESET North America. All rights reserved. Trademarks used herein are trademarks or registered trademarks of ESET spol. s r.o. or ESET North America. All other names and brands are registered trademarks of their respective companies.
 
-5.34.0.mas.fe03029f.awus
+5.36.0.mas.7c975c6f.awus
 
 ![](https://ssitecat.eset.com/b/ss/esetgwsprod/1/H.27.5--NS/0)
