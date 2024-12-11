@@ -31,414 +31,472 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Bloque de Seguridad interviene ciudadelas privadas de la vía a Daule
-====================================================================
+Quedan pocos días para revisión técnica vehicular en Quito
+==========================================================
 
-La Comisión de Tránsito del Ecuador (CTE) realiza la inspección de los vehículos para constatar que no se trate de autos robados
---------------------------------------------------------------------------------------------------------------------------------
+El 31 de diciembre finaliza el plazo para matricular los vehículos. Esta es una guía para cumplir con esta obligación de tránsito.
+----------------------------------------------------------------------------------------------------------------------------------
 
-![Foto referencial Policía Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-17.jpg)
+![La Revisión Técnica Vehicular es el paso más importante en el proceso de matriculación.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-83-1.jpg)
 
-El **Bloque de Seguridad** realizó intervenciones en 13 **ciudadelas privadas ubicadas en la vía a Daul**e este miércoles 11 de diciembre de 2024.
-
-### Más noticias
-
-* [Policía captura a miembros de Las Águilas, entre ellos el cabecilla](https://www.elcomercio.com/actualidad/seguridad/policia-captura-a-miembros-las-aguilas-entre-ellos-cabecilla.html "Policía captura a miembros de Las Águilas, entre ellos el cabecilla")
-* [Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro](https://www.elcomercio.com/actualidad/seguridad/ministerio-defensa-despliegue-militares-el-oro.html "Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro")
-* [Gobierno mostró los resultados que dejaron 293 168 operativos de seguridad](https://www.elcomercio.com/actualidad/seguridad/gobierno-resultados-seguridad-operativos.html "Gobierno mostró los resultados que dejaron 293 168 operativos de seguridad")
-
-Operativo Esperanza
--------------------
-
-La **Policía Nacional,** en conjunto con las **Fuerzas Armadas**, realiza allanamientos en ciudadelas privadas luego de recibir alertas de los moradores en cuanto a seguridad.
-
-Los trabajos investigativos habrían arrancado durante la madrugada de este miércoles. Entre las ciudadelas intervenidas se encuentran algunas como **La Joya y Villa Club.**
-
-Estas investigaciones buscan **detectar vínculos con el crimen organizado.** Por ello, personal de la Comisión de Tránsito del Ecuador (CTE) apoya el operativo con la isnpección de vehículos.
-
-Además, se inspecciona la salida y entrada de vehículos a las urbanizaciones y en la vía. Así se busca detectar a posibles evasores del [operativo](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador").
-
-**_Noticia en desarrollo…_**
-
-Policía realizó el operativo Ónix en Guayaquil
-----------------------------------------------
-
-La Policía Nacional ejecutó el operativo llamado Ónix en Guayaquil, a través de la Dirección Nacional de Investigación Antidrogas, el martes 10 de diciembre de 2024.
-
-Esta operación dejó como resultado la **aprehensión de 14 antisociales,** entre ellos alias ‘Pilozo’, quienes habrían incurrido en el delito de delincuencia organizada.
-
-Estos sujetos serían miembros del grupo armado organizado **Las Águilas**. Cuatro de los implicados registran antecedentes por delitos como robo y tráfico de drogas.
-
-Las Águilas habrían participado en el **tráfico para el consumo interno** de sustancias catalogadas como sujetas a fiscalización. Además, generaba violencia y alteración del orden público por disputas territoriales con otros grupos delictivos.
-
-Así también, se encontró que esta organización se abastecía de sustancias ilícitas en Loja mediante el uso de vehículos con **compartimientos secretos**. Posterior a su llegada, los almacenaban en inmuebles en los distritos Portete y La Florida y luego los distribuían en la provincia del Guayas.
-
-Al menos 22 miembros de una familia mueren en un ataque israelí en Gaza
-=======================================================================
-
-Se informó que serían 30 los muertos y desaparecidos de la familia; sin embargo, solo 22 cuerpos han podido ser recuperados
----------------------------------------------------------------------------------------------------------------------------
-
-![Dos niñas contemplan la casa de la familia Al Fayomi, otra de las destruidas en un ataque a un refugio en Gaza.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-16.jpg)
-
-Al menos 22 miembros de la familia **Abu Tarabish** murieron en un ataque israelí la madrugada de este miércoles 11 de diciembre de 2024. Cuando la aviación bombardeó la vivienda en la que se encontraban en Beit Lahia, una localidad de la región del **norte de Gaza** que permanece bajo una intensa operación militar de Israel desde hace 68 días.
+El proceso de **revisión técnica vehicular** terminará en **Quito** el **31 de diciembre del 2024**, con el **cierre del año fiscal.** Quedan pocos días para que las personas cumplan con esta **obligación** de tránsito. Sin embargo, el proceso no será tan fácil para cumplir este trámite que permite la circulación sin riesgos con las autoridades por incumplir las leyes de tránsito en la ciudad y en el país.
 
 ### Más noticias
 
-* [Hizbulá compromete el alto el fuego con Israel al](https://www.elcomercio.com/actualidad/mundo/hizbula-compromete-alto-el-fuego-israel-misiles.html "Hizbulá compromete el alto el fuego con Israel al disparar dos misiles") [disparar](https://www.elcomercio.com/actualidad/mundo/hizbula-compromete-alto-el-fuego-israel-misiles.html "Hizbulá compromete el alto el fuego con Israel al disparar dos misiles") [dos misiles](https://www.elcomercio.com/actualidad/mundo/hizbula-compromete-alto-el-fuego-israel-misiles.html "Hizbulá compromete el alto el fuego con Israel al disparar dos misiles")
-* [Amnistía Internacional cataloga como genocidio los ataques a Gaza](https://www.elcomercio.com/actualidad/mundo/amnistia-internacional-cataloga-genocidio-ataques-a-gaza.html "Amnistía Internacional cataloga como genocidio los ataques a Gaza")
-* [La CPI dicta orden de arresto contra Netanyahu por crímenes de guerra en Gaza](https://www.elcomercio.com/actualidad/mundo/cpi-dicta-orden-de-arresto-contra-netanyahu-por-crimenes-de-guerra-en-gaza.html "La CPI dicta orden de arresto contra Netanyahu por crímenes de guerra en Gaza")
+* [Fiestas de Quito generaron menos ingresos de lo esperado](https://www.elcomercio.com/actualidad/quito/fiestas-quito-economia-sectores-conciertos-artistas.html "Fiestas de Quito generaron menos ingresos de lo esperado")
+* [Luego de dos días de sol, las lluvias pueden volver a Quito](https://www.elcomercio.com/actualidad/quito/lluvias-quito-diciembre.html "Luego de dos días de sol, las lluvias pueden volver a Quito")
+* [Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025](https://www.elcomercio.com/actualidad/quito/concejo-aprueba-presupuesto-quito-2025.html "Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025")
 
-El ataque en la casa de los Abu Tarabish
-----------------------------------------
+Una guía para los rezagados en la matriculación
+-----------------------------------------------
 
-Al amanecer de este miércoles, la agencia palestina de noticias Wafa informó de **30 muertos** y desaparecidos entre los escombros de la vivienda de los Abu Tarabish. Pero las autoridades sanitarias solo **han recuperado hasta el momento 22 cadáveres.**
+La **revisión técnica vehicular** de **2024** comenzó el 1 de febrero y terminó en noviembre. A cada mes correspondía el último dígito de la placa con preferencia. Sin embargo, se podía sacar el turno**,** así no fuera en el mes correspondiente.
 
-En las listas de fallecidos publicadas tras el ataque figuran seis **“niños mártires”,** expresión que se refiere también a adolescentes.
+Ya en **diciembre** se cumple el **último plazo** para cumplir con este trámite que legaliza la circulación de un vehículo por todo el país. Sin embargo, todos deberán pagar una **multa de calendarización**, por **25 dólares.**
 
-El edificio en el que se encontraban los **Abu Tarabish** tenía tres plantas y, según Wafa, en él se encontraban más de una treintena de **desplazados por los combates del norte.** En estos momentos, un 90 % de la población de Gaza, de unos 2,1 millones de personas, se encuentra desplazada.
+Solo quedan 20 días, sin descontar el **feriado de Navidad,** el miércoles 25 de diciembre, para que finalice este mes. Y estos son los pasos si se ha rezagado para matricular el vehículo.
 
-La vivienda estaba además en las **inmediaciones del hospital Kamal Adwan**, uno de los dos únicos en funcionamiento en el área asediada del norte junto al Al Awda de Yabalia. Y que el Ejército israelí trata de desalojar desde hace días con ataques constantes tanto al propio centro como a sus alrededores.
+**Primero**, consulte las **deudas** y **multas** que mantiene con la **Agencia Metropolitana de Tránsito** (**AMT**) y la Agencia Nacional de Tránsito (**ANT**). También deberá cancelar los valores al **Servicio de Rentas Internas (SRI).**
 
-El **Ejército de Israel** no se ha pronunciado aún respecto al ataque.
+Otro valor que deberá tomar en cuenta es la **tarifa de mantenimiento vial**, que cobra la **Prefectura** de **Pichincha**. El **valor** depende del vehículo que use: motocicletas, 9,30 dólares; automóviles particulares, 18 dólares; públicos o comerciales, 20,50 dólares.
 
-El sábado, el director del Kamal Adwan, Hussam Abu Safiya, denunció la entrada de dos soldados israelíes en el hospital con un megáfono, **los cuales exigían el desalojo del centro.**
+Cancelado todo esto, que se puede hacer a través de la **página web de la AMT,** podrá ya agendar una cita para la **Revisión Técnica Vehicular**.
 
-“En **cuatro ocasiones** entre el 3 y el 7 de diciembre, el hospital Kamal Adwan de Beit Lahia, que alberga a 90 pacientes y 66 miembros del equipo médico, **recibió ataques con disparos,** bombas y cohetes. Lo que resultó en la **muerte de siete personas i**ncluyendo cuatro médicos y un niño”, informó el martes la Oficina de la ONU para la Coordinación de Asuntos Humanitarios (OCHA).
+Una guía para la Revisión Técnica Vehicular
+-------------------------------------------
 
-Además, **siete personas murieron** el 5 de diciembre en uno de los ataques contra los alrededores del hospital.
+La **revisión técnica** es el **paso imprescindible** para la matriculación del automotor. En este paso, el vehículo debe demostrar que ofrece ciertas garantías de **seguridad y cuidado ambiental.**
 
-Bombardeos en Gaza
-------------------
+Por ello, es importante que haga un **examen previo** a su vehículo. Los centros de **RTV** se concentran en el estado de los **frenos** y de las **llantas**, la **emisión de gases** contaminantes, el sistema de **luces** (altas, bajas, intermitentes y direccionales) y **condiciones mecánicas generales.**
 
-Beit Lahia, Yabalia y Beit Hanoun, en el norte de Gaza, comenzaron a sufrir una intensa campaña de **bombardeos israelíes** el pasado 5 de octubre, a la que le siguió una incursión terrestre el día 6. Desde entonces, la zona permanece bajo un asedio militar que ha provocad**o 3 700 muertos** y desaparecidos, según las autoridades gazatíes, si bien esta cifra lleva días sin actualizarse.
+Los centros de **RTV atienden de lunes a viernes de 07:00 a 18:00**. Los días sábados están abiertos de 08:00 a 12:00. Los siguientes son los RTV autorizados por la AMT.
 
-Fruto de los combates, la Defensa Civil, encargada de **rescatar los cadáveres** y heridos de entre los escombros de los ataques, denuncia no poder llevar a cabo su labor, crucial para poder contabilizar adecuadamente las víctimas.
+| Nombre del CRTV | Dirección | Sector |
+| --- | --- | --- |
+| Guamaní | [Leonidas Mata y calle S52](https://goo.gl/maps/sfzLK4rbukLYXVbL7) | La Perla |
+| Guajaló | [Av. Pedro Vicente Maldonado y pasaje revisión vehicular S/N](https://goo.gl/maps/B7Dhi75QA2J43gb37) | Asistencia Social |
+| Los Chillos | [Isla Fernandina S/N y av. General Rumiñahui](https://goo.gl/maps/dA9f6nuSQXR4obag6) | Conocoto |
+| Florida | [Florencia Malo y Carlos Arteta](https://goo.gl/maps/ACGAfqQJw35EmfaLA) | El Pedregal |
+| San Isidro del Inca | [José Felix Barrerio y calle De los Álamos](https://goo.gl/maps/ZbMqoGumdhx8SA3TA) | Unión y Progreso |
+| Carapungo | [Duchicela y Pedro Ramos](https://goo.gl/maps/LyqWgTFrWHJRV8Ki9) | El Clavel |
 
-La ONU estima que entre **65 000 y 75 000 personas siguen** en el área asediada, si bien la ofensiva causa periódicamente olas de evacuación hacia la ciudad de Gaza, también en el norte pero fuera del cerco.
+Para acceder a la página web de la **AMT**, [haga clic aquí](https://www.amt.gob.ec/index.php/rtv-y-matriculacion/ "https://www.amt.gob.ec/index.php/rtv-y-matriculacion/").
 
-El 4 de diciembre, unas **5 500 personas fueron evacuadas f**orzosamente de tres escuelas en las que se refugiaban en Beit Lahia.
+* * *
 
-Las fuerzas armadas israelíes denunciaron a primera hora de la mañana **el lanzamiento de dos cohetes** hacia territorio israelí desde el centro de Gaza, los cuales cayeron en espacios abiertos.
+El divertido video del título de Liga de Quito de la Libertadores
+=================================================================
 
-Menos de una hora después, dos cohetes más disparados desde la misma zona fueron **interceptados** antes de caer.
+Liga de Quito es el único equipo ecuatoriano que ganó la Copa Libertadores.
+---------------------------------------------------------------------------
 
-Desde que comenzó la guerra en Gaza, casi **44 800 palestinos han perdido la vida** (el 70 % mujeres y niños), y otros 106.200 han resultado heridos, según los datos del [Ministerio de Sanidad.](https://es.wikipedia.org/wiki/Gaza "https://es.wikipedia.org/wiki/Gaza")
+![Patricio Urrutia (c) levanta el trofeo de campeón de la Copa Libertadores 2008.](https://www.elcomercio.com/wp-content/uploads/2024/12/video_liga_1.jpg)
 
-Así funciona el Pico y placa en Quito este miércoles 11 de diciembre
-====================================================================
+Ser campeón de la Conmebol **Copa Libertadores es un privilegio que solo lo tienen 26 equipos** en Sudamérica. Uno de esos campeones es Liga de Quito, el único equipo ecuatoriano que supo ganarlo.
 
-Cuatro contraflujos se realizan en Quito como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
-----------------------------------------------------------------------------------------------------------------------------
+El título de Liga de Quito se registró en 2008. En la final derrotaron a Fluminense en el **mítico estadio Maracaná de Río de Janeiro**. El arquero José Francisco Cevallos fue el gran héroe de una noche inolvidable.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-10T152941.666.jpg)
+### Más noticias:
 
-El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad. Este se aplica con un esquema, según el último dígito de la placa.
+* [Joel Ordóñez sostiene al Brujas en la Champions League](https://www.elcomercio.com/deportes/futbol/joel-ordonez-brujas-sporting-champions.html "Joel Ordóñez sostiene al Brujas en la Champions League")
+* [Liga de Quito ganó un título cada 20 meses en 24 años](https://www.elcomercio.com/deportes/futbol/liga-quito-titulos-nacional-internacional.html "Liga de Quito ganó un título cada 20 meses en 24 años")
+* [Piero Hincapié y Leverkusen vencen al Inter en Champions](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-champions.html "Piero Hincapié y Leverkusen vencen al Inter de Milán en Champions")
 
-### Más noticias
+Liga de Quito rumbo a la consagración
+-------------------------------------
 
-* [AMC desechó casi 5 000 litros de alcohol en fiestas de Quito](https://www.elcomercio.com/actualidad/quito/amc-desecho-casi-5-000-litros-de-alcohol-en-fiestas-de-quito.html "AMC desechó casi 5 000 litros de alcohol en fiestas de Quito")
-* [AMT sancionó a 21 conductores de motos en Quito por esta razón](https://www.elcomercio.com/actualidad/quito/amt-sanciono-a-21-conductores-de-motos-quito-por-esta-razon.html "AMT sancionó a 21 conductores de motos en Quito por esta razón")
-* [Cronograma de controles de velocidad en Quito hasta el viernes 13 de diciembre](https://www.elcomercio.com/actualidad/quito/cronograma-controles-de-velocidad-quito-hasta-viernes-13-de-diciembre.html "Cronograma de controles de velocidad en Quito hasta el viernes 13 de diciembre")
+Liga participó en la **Copa Libertadores 2008 como el campeón de Ecuador** del año anterior. El sorteo determinó que integre el grupo 8 junto a Fluminense, el ganador de la zona, Arsenal de Argentina y Libertad de Paraguay, los dos eliminados.
 
-¿Cómo funciona el Pico y placa?
--------------------------------
+Los universitarios ganaron tres partidos, empataron uno y perdieron dos. **Anotaron 10 goles y recibieron cinco** para cerrar la primera parte de la competencia con un gol diferencia positivo de +5.
 
-La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+En cuanto a puntaje, los ecuatorianos alcanzaron la casilla 11 en la tabla general, por delante de los argentinos Boca Juniors, Lanús y San Lorenzo; el mexicano América; y el colombiano Atlético Nacional.
 
-La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
+En los octavos de final eliminó a Estudiantes de La Plata por un marcador global de 3-2; **en los cuartos de final el turno fue para dejar en el camino a San Lorenzo**. El marcador global fue de 2-2 y en la definición de penales los capitalinos mostraron efectividad y ganaron 5-3.
 
-Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
+Las semifinales fueron cerradas ante el América y también se definió en los tiros penales. El global fue de 1-1. El gol marcado en Ciudad de México le abrió la puerta a los albos a la final de la Copa Libertadores.
 
-Contraflujos y Pico y placa en Quito
-------------------------------------
+La gran final **terminó empatada con el global de 5-5.** En la taba de penales los ecuatorianos derrotaron a los brasileños con un marcador final de 3-1.
 
-Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
+![Luis Bolaños (der.), en un cotejo entre LDU y Deportivo Quito en el 2008. ](https://www.elcomercio.com/wp-content/uploads/2022/02/LUisBolanos-700x391.jpg)
 
-–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
+Luis Bolaños (der.), en un cotejo entre LDU y Deportivo Quito en el 2008.
 
-Mañana: 06:30 a 07:00 y de 07:30 a 08:00
-
-Tarde: 16:30 a 17:00 y 17:30 a 18:00
-
-–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
-
-Mañana: 06:30 a 07:30 y de 08:00 a 08:30
-
-Tarde: 16:30 a 19:30
-
-–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
-
-Mañana: 06:00 a 08:30
-
-Tarde: 17:00 a 19:00
-
-– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
-
-Mañana: 07:00 a 08:30
-
-Tarde: de 16:00 a 19:30
-
-Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
-> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
->   
-> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
->   
-> 🤝 Juntos llegamos sin contratiempos.  
->   
-> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nfehiI0uUO](https://t.co/nfehiI0uUO)
-> 
-> — AMTQuito (@AMT\_Quito) [October 22, 2024](https://twitter.com/AMT_Quito/status/1848669582912897155?ref_src=twsrc%5Etfw)
-
-Diciembre, un mes propicio para la prevención los siniestros de tránsito
-========================================================================
-
-Los siniestros de tránsito se incrementan en diciembre, debido al exceso de velocidad y el consumo de alcohol.
---------------------------------------------------------------------------------------------------------------
-
-![Un siniestro de tránsito ocurrió este 10 de diciembre en la vía a Quevedo, informó la Comisión de Tránsito del Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/siniestros-editorial.jpg)
-
-**Diciembre** es un mes propicio para la ocurrencia de los **siniestros de tránsito**, pero también es ideal para que las autoridades piensen en estrategias de prevención.
-
-El **siniestro de tránsito**, sucedido el 6 de diciembre de 2024 en **Loja**, no puede pasar desapercibido, y mucho menos las casi 18 personas que fallecieron.
-
-Tampoco se pueden normalizar los **25 siniestros de tránsito** que ocurrieron en **Quito** en un solo día (4 de diciembre de 2024) y durante los tres días de fiestas de fundación de la capital.
-
-> Las muertes por siniestros de tránsito aumentaron en 2023, lo que significa que la prevención es una necesidad urgente para educar a los conductores y peatones.
-
-Las estadísticas de la **Agencia Nacional de Tránsito (ANT)** y del **Instituto Nacional de Estadística y Censos** reflejan que en diciembre se incrementan los casos frente al resto de meses. En 2023 hubo 1 966 siniestros en diciembre, mientras que un año antes se registraron 1 997. 
-
-Otro dato alarmante es que en 10 meses de 2024 murieron 1 833 personas en el país. Con estas cifras preocupantes, es necesario intensificar los mensajes de prevención de siniestros en el país. El énfasis debe estar en las provincias que —por su gran población— tienen una mayor siniestralidad. **Guayas y Pichincha** encabezan la lista.
-
-**Quito** tiene una buena iniciativa y es destacable que ponga énfasis en la prevención, especialmente en diciembre.
-
-La **Agencia Metropolitana de Tránsito** lanzó la primera semana de diciembre su iniciativa ‘No le creas al alcohol’, para disminuir los incidentes en las vías.
-
-Se denomina así, debido a que los conductores manejan sus vehículos bajo el efecto del alcohol. Además, esta es la tercera causa de siniestralidad en la ciudad en 2024. Esta se une al exceso de velocidad, que es otro factor de siniestros[.](https://www.amt.gob.ec/index.php/inicio-amt/quienes-somos/ "https://www.amt.gob.ec/index.php/inicio-amt/quienes-somos/")
-
-La **ANT** no tiene una campaña activa para esta época, pero a través de las redes sociales difunde mensajes de seguridad vial, para prevenir en las vías y carreteras. En los primeros 10 meses de 2024 se contabilizan 17 474 siniestros.
-
-En vista de que todos los días hay un **siniestro de tránsito**, las autoridades nacionales deben priorizar y ejecutar una campaña que perdure todo el año para reducir las **muertes y los siniestro**s.
-
-Cuando callar es complicidad
-============================
-
-Los historiadores nos enseñan, que la humanidad no es la primera vez que atraviesa por tanta incertidumbre y riesgo de escalar hacia situaciones de mayor deterioro.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Juan Pablo Lira B., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Juan-Pablo-Lira-B..jpg)
-
-Próximos a finalizar el 2024,  podemos decir que las **atrocidades que se viven en Europa** con la **invasión** de **Rusia a Ucrania**, como también con la política -casi consensuada- para evitar la migración de africanos; como la brutal y excedida represalia israelí al crimen de lesa **humanidad** cometido por Hamas el 7 de octubre de 2023, todos hechos execrables, a los que se pueden sumar masacres y luchas tribales en África de las que se informa poco -como si esos **seres humanos** valieran menos-, y también en nuestra **América Latina** en donde la pobreza como resultado de la **desigual distribución** de la riqueza lleva a que cada vez sea menos valorada la **democracia representativa**, y en donde el **combate al narcotráfico** “justifica” muchos excesos que se reflejan en que los **derechos humanos,** también se encuentran muy devaluados, tenemos un cuadro de generalizada decrepitud, a lo que hay que agregar que -lamentablemente- el **crimen organizado** está permeando a los poderes del estado en muchísimos de nuestros países.
-
-A lo anterior, podemos agregar el **reavivamiento de la guerra civil en Siria**, así como la conmoción política en Corea del Sur, en donde el presidente intento declarar la ley marcial para suspender todas las **libertades públicas**. 
-
-Toda la **convulsión descrita** ha llevado a que no sean pocos los analistas que comparan la actualidad con lo que ocurriera por allá por la década de los años 30 del siglo pasado, cuando la Europa post I Guerra Mundial se debatía en una **compleja situación económica**, con serios y no resueltos problemas de fronteras y, con una Alemania abatida y humillada tras la derrota en tal conflagración. 
-
-Acercando la lupa a nuestro continente, nos encontramos con una **multiplicidad de problemas,** siendo probablemente el **avance** del **narcotráfico** en todos nuestros países, el más complejo y difícil de frenar o combatir, porque es tal su poder financiero, que cuál plaga ha ido horadando y perforando todos los poderes del estado, no exceptuándose **nuestras policías y fuerzas armadas**.  Cada vez es mayor el número de expresidentes, jueces, parlamentarios, ministros de estado, oficiales y tropa de los cuerpos policiales y de nuestras fuerzas armadas que son descubiertos por sus **alianzas** con el **crimen organizado.**
-
-Para que ello sea posible, no podemos olvidar que la **pobreza mayoritaria** en el continente posibilita el contar con un contingente casi ilimitado de jóvenes, mujeres y hombres, dispuestos a enrolarse, arriesgando sus vidas, con tal de obtener algún tipo de **bienestar material**. Y del otro lado de la acera, tenemos a millones de **ciudadanos norteamericanos**, canadienses y europeos, con altos niveles de ingreso, con serios **problemas de salud mental**, dispuestos a palear su angustia, ansiedad y **depresión** ingiriendo, inyectándose o aspirando diversos **tipos de drogas de origen natural o químico**.
-
-Los historiadores nos enseñan, que la **humanidad** no es la primera vez que atraviesa por tanta **incertidumbre** y **riesgo de escalar** hacia situaciones de mayor deterioro.  Ocurre, que ahora la **información** es de una total instantaneidad, lo cual hace que el temor generalizado sea más extendido de lo que fuera décadas atrás.  
-
-Mucho se habla de la **inoperancia** de los **organismos internacionales**, singularizando aquello en las Naciones Unidas.  Ello, es cierto en aquellos organismos que tienen una función esencialmente política, pero no ocurre lo mismo con aquellos que se abocan a los **temas económicos**, así como a los que trabajan en pro del **desarrollo social**. 
-
-Lo que no se debe callar, para no ser **cómplices**, es que se ha tejido una **burocracia** en **Naciones Unidas**, que bien merecería una poda profunda, para bajar costos y aumentar la eficiencia.
-
-Mugre
-=====
-
-Un acto público financiado con recursos oficiales incitó al odio y la violencia, cuestionando si esto puede considerarse cultura.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
-
-Según la RAE: «mugre es un sustantivo que significa suciedad grasienta». Los sinónimos son: «basura» o «porquería».  Banda, puede ser desde un velo, o banda de rock o hip hop; pero también las bandas del cartel Jalisco Nueva Generación, cartel de Los Rojos o Los Lobos.  El hecho es que una banda, autodenominada _**MugreSur**,_ al parecer, con **recursos públicos**, escenificaron la **muerte simbólica** del presidente Daniel Noboa, con ahorcamiento.
-
-Algunos dicen que es **libertad de expresión**. Mientras antes aplaudieron al **ególatra caudillo** que, pretendió agredir a un adolescente porque dobló su brazo a la altura del codo y mostró con disgusto su dedo intermedio. Vieja costumbre ya utilizada en la antigua Grecia. Los mismos que aprobaron que su guía, dispuso la **prisión** de un modesto propietario de una camioneta que llevaba el monigote de un borrego.
-
-En el suceso festivo, alguien, disfrazado de lobo, excitaba al odio, simulando el ahorcamiento del jefe de Estado. Arengaba, sin pelos en la lengua: «_les voy a dedicar al 52% de florindos hijos de puta…_», refiriéndose a la mayoría de los ciudadanos que sufragaron por Daniel Noboa y no por la asistente de Rafael Correa. Pregonaron el odio y la muerte. Todo esto, organizado por la **secretaria de cultura del municipio de Quito**, con los impuestos que pagan los contribuyentes. ¿Es cultura la dialéctica del odio, la banalización del **resentimiento** y la **incitación** a la **violencia**? No lo es. Significa la tanatopolítica, de la que hablo Michel Foucault, en este caso, administrada por el **poder mugriento**, propio del **extremismo fanático y la concepción totalitaria de la política**.
-
-Para cerrar este feo hecho, leamos lo que dijo Voltaire: «_Es difícil liberar a los necios de las cadenas que veneran_». Y Raymond Aron: «_La violencia es el arma de los débiles, aquellos que no saben convencer con argumentos» O «el fanatismo político es una amenaza para la democracia y la libertad individual»._
-
-¿En qué momento una **salvajada indecorosa** se presenta como **expresión de cultura**? Desde cuando se pretendió homogeneizar la sociedad alrededor de un colérico gobernante rencoroso. Desde que se extravió la **política** y se abandonó la **pluralidad**, la **tolerancia** y la **ética**. Desde el momento en que el **populismo** del rencor diseminó el odio y acabó con la **racionalidad**.
-
-Cartas a Quito / 11 de diciembre de 2024
-========================================
-
-Estas son las cartas a Quito de este miércoles 11 de diciembre de 2024
-----------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Estoy cansado de las actitudes estudiantiles…
----------------------------------------------
-
-La frustración ante las actitudes estudiantiles se ha convertido en un tema recurrente en el ámbito educativo. Cada vez más, docentes y padres se sienten agotados por comportamientos que obstaculizan el aprendizaje y generan un ambiente negativo en las aulas. Esta situación merece una reflexión profunda.
-
-Las actitudes de desmotivación, rechazo y falta de interés son comunes entre los estudiantes. Estos comportamientos no solo afectan su rendimiento académico, sino que también crean un clima de tensión y conflicto en el aula. La competitividad excesiva y la presión por obtener buenos resultados contribuyen a esta problemática, generando ansiedad y frustración en los alumnos.
-
-Un factor clave es la falta de habilidades emocionales y sociales. Muchos estudiantes carecen de herramientas para gestionar sus emociones, lo que le lleva a manifestar actitudes negativas. La educación emocional es parte fundamental del currículo, ayuda a los jóvenes a desarrollar una autoestima saludable y habilidades para la resolución de conflictos.
-
-Además, el entorno escolar a menudo no refleja la realidad social de los estudiantes. Un modelo educativo rígido y descontextualizado puede provocar desinterés y rechazo hacia las normas escolares. Es esencial que las instituciones educativas adapten sus enfoques para conectar mejor con la vida cotidiana de los alumnos.
-
-La comunicación entre docentes y estudiantes también juega un papel crucial. Cuando los profesores anticipan el fracaso o presentan contenidos difíciles sin apoyo adecuado, alimentan la inseguridad y la desmotivación en sus alumnos. Un enfoque más positivo y comprensivo podría cambiar radicalmente esta dinámica.
-
-Es fundamental que tanto educadores como padres trabajen juntos para fomentar un ambiente más positivo. Esto implica reconocer las emociones de los estudiantes y brindarles el apoyo necesario para superar sus desafíos. La empatía y la comprensión pueden ser herramientas poderosas para transformar actitudes negativas en motivación.
-
-Roberto Camana-Fiallos
-
-Ecuador habilitó declaración en línea para viajeros que lleven 10 000 dólares
-=============================================================================
-
-Los viajeros que salgan o ingresen con 10 000 dólares o más podrán declararlo en línea. Conoce cómo utilizar este nuevo servicio.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Las personas que ingresan o salen de Ecuador están obligadas a declarar sus bienes y su dinero en efectivo](https://www.elcomercio.com/wp-content/uploads/2024/12/declaracion-dinero-ecuador.jpg)
-
-El Servicio Nacional de Aduana del Ecuador (**Senae**) habilitó un nuevo **servicio en línea**. Se trata de la **declaración** obligatoria para los pasajeros que ingresan a **Ecuador** con más de **10 000 dólares**.
-
-### Más noticias
-
-* [Asamblea Nacional presentará acción de inconstitucionalidad por ‘Ley Antipillos’](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-presentara-accion-incostitucionalidad-por-ley-antipillos.html "Asamblea Nacional presentará acción de inconstitucionalidad por ‘Ley Antipillos’")
-* [‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-tomara-accion-si-publica-ley-antipillos.html "‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales")
-* [Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro](https://www.elcomercio.com/actualidad/seguridad/ministerio-defensa-despliegue-militares-el-oro.html "Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro")
-
-Este trámite se lo realizaba únicamente de forma presencial; sin embargo, a partir del **lunes 9 de diciembre** de 2024, los viajeros pueden llenar el **Formulario de Registro Aduanero** (FRA) de manera virtual y con **anticipación**.
-
-El Formulario de Registro Aduanero es obligatorio para todos los pasajeros que ingresen a Ecuador con **bienes tributables** y **dinero en efectivo** igual o superior a 10 000 dólares, o su equivalente en otras monedas.
-
-Además, el dinero en efectivo también debe ser declarado a la **salida del país**.
-
-> 🗣️ ¡Recuerda!  
->   
-> Debes declarar en el Formulario de Registro Aduanero el dinero en efectivo por un monto  
-> igual o superior a USD 10,000 a tu arribo 🛬 y salida 🛫 del 🇪🇨[#FRADigital](https://twitter.com/hashtag/FRADigital?src=hash&ref_src=twsrc%5Etfw)[#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/kPluWtXnT1](https://t.co/kPluWtXnT1)
-> 
-> — Servicio Nacional de Aduana del Ecuador (@SENAE\_Aduana) [December 9, 2024](https://twitter.com/SENAE_Aduana/status/1865932643092836656?ref_src=twsrc%5Etfw)
-
-¿Cómo llenar el FRA en línea?
+La Conmebol recordó el título
 -----------------------------
 
-Para **registrar** una tenencia igual o superior a este monto, los pasajeros deben ingresar a la [página web de la aduana](https://www.aduana.gob.ec/servicio-al-ciudadano/formulario-de-registro-aduanero/login/ "https://www.aduana.gob.ec/servicio-al-ciudadano/formulario-de-registro-aduanero/login/") destinada para este proceso.
+Notifulbo es el espacio animado que la Conmebol lanzó para recordar a los campeones de la Copa Libertadores.
 
-Una vez allí, regístrate creando una **nueva cuenta**. Recuerda tu usuario y contraseña.
+En este espacio animado participan personajes como Esférico Bolet, Botina Zapata, Miguayo Zapata, **Guan Thiago Goleiro, los Hermanos Pitazzo** y Gloria Eterna, que se encargaron de relatar como LDU ganó su corona de la Libertadores.
 
-Luego, **llena el formulario**: selecciona si ingresas o sales del país, ingresa tus datos personales y declara los bienes y el dinero que tengas consigo.
+El invitado en este episodio fue Cocodrigo, la mascota oficial de los albos, que fue parte de la explicación en que consiste el lanzamiento con comba o efecto y como se estructura una barrera para el cobro de los tiros libres.
 
-Una vez completes el FRA, se generará un **código QR**. Guárdalo, porque lo deberás presentar en el control aduanero.
+El estadio Rodrigo Paz Delgado, más **Joffre Guerrón, el mejor jugador de la Libertadores de ese año**, Enrique Vera y el entrenador Edgardo ‘Patón’ Bauza, son parte de este episodio que fue colgado en la [cuenta de YouTube de la Conmebol](https://www.youtube.com/watch?v=5Jz1rt0eaC4).
 
-A partir del **29 de julio** de 2025, será obligatorio para todos los pasajeros, y su presentación será **únicamente digital**, indicó la Senae.
+San viernes
+-----------
 
-> [#FRADigital](https://twitter.com/hashtag/FRADigital?src=hash&ref_src=twsrc%5Etfw) 📣  
+Así es ‘Emilia Pérez’, la responsable de la polémica entre Selena Gomez y Eugenio Derbez
+========================================================================================
+
+Ocho preguntas para que conozcas mejor el tema que está en boca de todos
+------------------------------------------------------------------------
+
+![Actriz Karla Sofía Gascón protagoniza 'Emilia Pérez'.](https://www.elcomercio.com/wp-content/uploads/2024/12/emilia-perez-El-Comercio-1.jpg)
+
+**‘Emilia Pérez**‘ es tema de conversación por distintas razones. Primero, por la [controversia de **Selena Gomez** con **Eugenio Derbez**](https://www.elcomercio.com/afull/selena-gomez-y-eugenio-derbez.html "https://www.elcomercio.com/afull/selena-gomez-y-eugenio-derbez.html") y segundo, por hacer **historia en el cine**. Te dejamos a continuación ocho preguntas para conocerla mejor.
+
+¿Qué es Emilia Pérez?
+---------------------
+
+Es una película musical francesa de 2024 que mezcla comedia y crimen.
+
+¿Quién es Emilia Pérez?
+-----------------------
+
+Emilia Pérez es una mujer trans que se somete a una **cirugía de reasignación de género** para dejar atrás su pasado criminal y reparar los daños que causó cuando era un poderoso jefe del narcotráfico mexicano llamado Juan “Manitas” del Monte.
+
+¿Quién es la estrella de ‘Emilia Pérez’?
+----------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/emilia-perez-El-Comercio-2-1024x683.jpg)
+
+Es la actriz trans española Karla Sofía Gascón, de 52 años, que interpreta a Juan “Manitas” del Monte y a Emilia Pérez, la protagonista. Es la primera mujer trans en asumir un papel central en un proyecto de este calibre.
+
+¿Qué hace Selena Gomez en ‘Emilia Pérez’?
+-----------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/emilia-perez-El-Comercio-3-1024x683.jpg)
+
+Es la **mujer de Juan “Manitas” del Monte** y **habla en español** porque la historia es íntegramente hablada y cantada en español. Es decir, Selena Gomez tiene un papel secundario en la cinta, aunque sea la que más aparece en el material que difunden de la cinta desde su disputa con Derbez.
+
+¿De quién es fue la idea de hacer esta película?
+------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/emilia-perez-El-Comercio-4-1024x683.jpg)
+
+Del cineasta francés Jacques Audiard, conocido por su capacidad de narrar historias humanas complejas.
+
+¿Cómo se le ocurrió la idea de ‘Emilia Pérez’?
+----------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/emilia-perez-El-Comercio-6-1024x683.jpg)
+
+Jacques Audiard se inspiró en el libro ‘Écoute’, de Boris Razon. “Yo leí una novela en donde en un capítulo había un personaje que era narco y quería volverse mujer (…) Yo decidí retomar este personaje y desarrollarlo y si es un asunto de narcotráfico, tenía que ser en México”, [dijo](https://www.swissinfo.ch/spa/cineasta-franc%C3%A9s-jacques-audiard-afirma-que-emilia-p%C3%A9rez-nace-de-lo-que-m%C3%A9xico-inspira/87758737 "https://www.swissinfo.ch/spa/cineasta-franc%C3%A9s-jacques-audiard-afirma-que-emilia-p%C3%A9rez-nace-de-lo-que-m%C3%A9xico-inspira/87758737").
+
+¿Cuándo se estrena ‘Emilia Pérez’ en Ecuador?
+---------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/emilia-perez-El-Comercio-5-1024x683.jpg)
+
+El estreno de Emilia Pérez en Ecuador está previsto para el 23 de enero de 2025 en el cine. Su lanzamiento fue en el Festival de Cannes el 18 de mayo de 2024.
+
+¿Qué opinan sobre la película?
+------------------------------
+
+En plataformas como Rotten Tomatoes, la cinta mantiene una aprobación del 83%.
+
+En el Festival de Cannes 2024, ganó el Premio del Jurado y las cuatro mujeres del elenco central se llevaron el galardón a la Mejor Actriz. Es la primera vez en la historia que una mujer trans obtiene este reconocimiento.
+
+También ganó los Premios de Cine Europeo a Mejor Película, Dirección y Actriz.
+
+Tiene 10 nominaciones a los [Globos de Oro 2025](https://www.elcomercio.com/afull/emilia-perez-eugenio-derbez-selena-gomez.html "https://www.elcomercio.com/afull/emilia-perez-eugenio-derbez-selena-gomez.html").
+
+Tráiler ‘Emilia Pérez’
+----------------------
+
+6 datos claves para entender el Mundial FIFA 2030
+=================================================
+
+El Mundial FIFA 2030 será histórico. La FIFA también anunció que Arabia Saudí será el anfitrión del Mundial 2034..
+------------------------------------------------------------------------------------------------------------------
+
+![El presidente de la Confederación Sudamericana de Fútbol (Conmebol) Alejandro Domínguez celebró como "un hito" que Paraguay, Argentina y Uruguay acojan los primeros tres partidos del Mundial 2030](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-49.jpg)
+
+El **Mundial FIFA 2030** será una edición histórica que marcará el centenario del primer torneo de **fútbol** celebrado en Uruguay en 1930.
+
+Este evento será diferente a los anteriores, ya que se llevará a cabo en tres continentes: Europa, África y América del Sur. Con una organización conjunta entre España, Marruecos, Portugal, Argentina, Paraguay y Uruguay, la **FIFA** busca rendir homenaje al legado del fútbol y celebrar la expansión global del deporte más popular del mundo.
+
+### Más noticias:
+
+* [Argentina, Uruguay y Paraguay son sedes del Mundial 2030](https://www.elcomercio.com/deportes/futbol/argentina-uruguay-y-paraguay-son-sedes-del-mundial-2030.html "Argentina, Uruguay y Paraguay son sedes del Mundial 2030")
+* [FIFA confirma a Arabia Saudí como sede del Mundial 2034](https://www.elcomercio.com/deportes/futbol/sede-mundial-2034-fifa-arabia-saudi.html "FIFA confirma a Arabia Saudí como sede del Mundial 2034")
+* [La millonaria cifra que el Mundial FIFA aportará a un país anfitrión](https://www.elcomercio.com/deportes/futbol/millonaria-cifra-mundial-2026-pais-anfitrion-fifa.html "La millonaria cifra que el Mundial FIFA aportará a un país anfitrión")
+
+El Congreso Extraordinario de la **FIFA,** reunido este miércoles 11 de diciembre del 2024, ratificó oficialmente esta candidatura conjunta, que no solo promete ser un evento deportivo monumental, sino también un símbolo de unidad y cooperación entre naciones.
+
+La competición se llevará a cabo del 13 de junio al 21 de julio de 2030, y las ciudades anfitrionas ya comienzan a prepararse para albergar a miles de visitantes y millones de televidentes en todo el mundo. A continuación, te presentamos seis datos clave para entender este Mundial único.
+
+**1\. Tres continentes, seis países**
+-------------------------------------
+
+El Mundial 2030 será el primero en la historia en celebrarse en tres continentes: Europa (España, Portugal), África (Marruecos) y América del Sur (Argentina, Paraguay, Uruguay). Esta distribución refleja el crecimiento global del fútbol y la intención de unir a naciones de diferentes culturas a través del deporte.
+
+**2\. El homenaje al Centenario**
+---------------------------------
+
+La edición de 2030 será especial ya que marcará 100 años desde el primer Mundial, jugado en Uruguay en 1930. Para conmemorar este evento, los partidos iniciales se jugarán en tres estadios históricos en Buenos Aires, Montevideo y Asunción, celebrando así el origen de la Copa del Mundo.
+
+**3\. 17 ciudades y 20 estadios**
+---------------------------------
+
+España, Marruecos y Portugal albergarán 17 ciudades y 20 estadios en total, con opciones para las sedes de la inauguración y la final. Entre los candidatos se encuentran el Santiago Bernabéu en Madrid, el Camp Nou de Barcelona y el Gran Estadio Hassan II de Casablanca, que se construirá especialmente para este evento.
+
+**4\. Los primeros partidos en Sudamérica**
+-------------------------------------------
+
+Aunque la mayoría de la fase de grupos se disputará en Europa y África, los partidos del Centenario comenzarán en Sudamérica, con sede en Uruguay, Argentina y Paraguay. Estos partidos abrirán oficialmente la Copa del Mundo, el 8 y 9 de junio de 2030.
+
+**5\. Infraestructura moderna y sostenible**
+--------------------------------------------
+
+Los países anfitriones han prometido una infraestructura moderna y sostenible, con estadios de última generación y un enfoque en la inclusión, la diversidad y la sostenibilidad ambiental. Este Mundial será una oportunidad para mostrar cómo el fútbol puede impulsar el desarrollo económico y social.
+
+**6\. Arabia Saudí será el siguiente anfitrión**
+------------------------------------------------
+
+La FIFA también anunció que Arabia Saudí será el anfitrión del Mundial 2034. Este evento en el país árabe será el primero en su historia y marcará una nueva etapa en la expansión del fútbol en Oriente Medio.
+
+Dos ecuatorianos eliminaron a Botafogo de la Intercontinental
+=============================================================
+
+Pachuca, con dos ecuatorianos, le da un baile al campeón de la Libertadores y avanza en la Intercontinental
+-----------------------------------------------------------------------------------------------------------
+
+![Pachuca de México eliminó a Botafogo de la Copa Intercontinental 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-11T133529.650.jpg)
+
+El **Pachuca** de México, con los ecuatorianos **Ángel Mena y Andrés Micolta,** goleó 3-0 a Botafogo este miércoles 11 de diciembre en el ‘Derbi de las Américas’, disputado en el Estadio 974 de Doha, Catar.
+
+Contra todo pronóstico, los ‘Tuzos’ eliminaron al vigente campeón de la **Copa Libertadores** y uno de los favoritos, junto al Real Madrid, para ganar el torneo.
+
+### Más noticias:
+
+* [Botafogo es favorito ante Pachuca en Copa Intercontinental](https://www.elcomercio.com/deportes/futbol/botafogo-favorito-pachuca-copa-intercontinental.html "Botafogo es favorito ante Pachuca en Copa Intercontinental")
+* [El Mundial de Clubes 2025 promete ser histórico para Ecuador](https://www.elcomercio.com/deportes/futbol/elmundial-de-clubes-2025-promete-ser-historico-para-ecuador.html "El Mundial de Clubes 2025 promete ser histórico para Ecuador")
+* [Calendario de los ecuatorianos en el Mundial de Clubes 2025](https://www.elcomercio.com/deportes/futbol/calendario-de-los-ecuatorianos-en-el-mundial-de-clubes-2025.html "Calendario de los ecuatorianos en el Mundial de Clubes 2025")
+
+Gracias a esta victoria, Pachuca avanzó a la **Copa Challenger de la FIFA**, donde enfrentará al Al-Ahly de Egipto por un boleto a la gran final de la Copa Intercontinental frente al Real Madrid.
+
+El Pachuca de los ecuatorianos goleó a Botafogo
+-----------------------------------------------
+
+Para este duelo, **Guillermo Almada**, exentrenador de Barcelona SC y actual DT del Pachuca, apostó por Andrés Micolta como titular. El defensor ecuatoriano tuvo una actuación sólida y fue clave para mantener el arco en cero. Por su parte, Ángel Mena ingresó en el segundo tiempo, aportando frescura en los contragolpes que sellaron la victoria.
+
+El primer tiempo fue parejo, sin muchas emociones en suelo catarí. Sin embargo, la dinámica cambió en la segunda mitad.
+
+La emoción llegó al minuto 54 con un **golazo de Oussama Idriss**i, el marroquí del Pachuca. El extremo realizó una gran jugada en el área, regateando a dos jugadores, para definir con clase y poner el 0-1 parcial.
+
+> ¡QUÉ GOLAZO HICISTE, IDRISSI! 😱  
 >   
-> ➡️ Este proceso permite que  
-> viajeros al ingresar y  
-> salir del 🇪🇨, declaren los  
-> bienes tributables y dinero en  
-> efectivo.[#EstamosEnMejoraContinua](https://twitter.com/hashtag/EstamosEnMejoraContinua?src=hash&ref_src=twsrc%5Etfw)[#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/mzFgXc9f03](https://t.co/mzFgXc9f03)
+> ⚽ Un festival de amagues del marroquí ponen arriba a Pachuca por 1-0 sobre Botafogo en el Derby de las Américas. [#FIFAIntercontinantalCupEnDSPORTS](https://twitter.com/hashtag/FIFAIntercontinantalCupEnDSPORTS?src=hash&ref_src=twsrc%5Etfw) | [#FIFAIntercontinentalCup](https://twitter.com/hashtag/FIFAIntercontinentalCup?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/1urDc7zvMi](https://t.co/1urDc7zvMi)
 > 
-> — Servicio Nacional de Aduana del Ecuador (@SENAE\_Aduana) [December 8, 2024](https://twitter.com/SENAE_Aduana/status/1865753922083659900?ref_src=twsrc%5Etfw)
+> — DSPORTS (@DSports) [December 11, 2024](https://twitter.com/DSports/status/1866910833776758804?ref_src=twsrc%5Etfw)
 
-Toma precauciones con tu declaración
-------------------------------------
+El golpe fue duro para el conjunto brasileño, que intentó reaccionar rápidamente realizando tres cambios en busca del empate, pero sus esfuerzos no fueron suficientes.
 
-Los pasajeros podrán llenar este formulario hasta **tres días antes de su viaje**.
+A los 66 minutos, Pachuca encaminó la victoria. Un gran remate cruzado de **Nelson** **Deossa** amplió la ventaja y dejó a los mexicanos con un pie y medio en la siguiente ronda.
 
-La declaración del monto no conlleva al pago de tributos al comercio exterior, y asimismo, de haber sido declarado correctamente el monto, **no estarás sujeto a ninguna sanción**.
+> ¡GOOOL DE PACHUCA! 🇲🇽  
+>   
+> ⚽ Tras un error en la salida de Botafogo, Deossa puso el 2-0 en el Derby de las Américas.[#FIFAIntercontinantalCupEnDSPORTS](https://twitter.com/hashtag/FIFAIntercontinantalCupEnDSPORTS?src=hash&ref_src=twsrc%5Etfw) | [#FIFAIntercontinentalCup](https://twitter.com/hashtag/FIFAIntercontinentalCup?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/u55ZzfnQJK](https://t.co/u55ZzfnQJK)
+> 
+> — DSPORTS (@DSports) [December 11, 2024](https://twitter.com/DSports/status/1866919432884539881?ref_src=twsrc%5Etfw)
 
-Sin embargo, si no declaras, puede que recibas sanciones legales, que incluyen **multas** y la **confiscación** de tus bienes.
+Finalmente, a los 80 minutos, el capitán de los ‘Tuzos’, **Salomón Rondón,** se unió a la fiesta. Tras un gran contragolpe, el venezolano sacó un potente remate para poner el 3-0 definitivo.
 
-La declaración antes descrita, no está relacionada con el Impuesto a la **Salida de Divisas** (ISD).  
+Botafogo intentó reaccionar con cambios ofensivos, pero la defensa del Pachuca, liderada por Micolta, frustró cualquier intento.
 
-Diciembre, el mes con más siniestros de tránsito en Quito
-=========================================================
+> ¡RONDÓN MARCÓ EL TERCERO PARA PACHUCA! ⚽  
+>   
+> 🇻🇪 El venezolano sentenció un contraataque letal para anotar el 3-0 ante Botafogo en el Derby de las Américas. [#FIFAIntercontinantalCupEnDSPORTS](https://twitter.com/hashtag/FIFAIntercontinantalCupEnDSPORTS?src=hash&ref_src=twsrc%5Etfw) | [#FIFAIntercontinentalCup](https://twitter.com/hashtag/FIFAIntercontinentalCup?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/gt42MnMBoM](https://t.co/gt42MnMBoM)
+> 
+> — DSPORTS (@DSports) [December 11, 2024](https://twitter.com/DSports/status/1866916879115125205?ref_src=twsrc%5Etfw)
 
-Las autoridades consideran diciembre como el mes con mayor incidencia de siniestros de tránsito en Quito.
----------------------------------------------------------------------------------------------------------
+Próximo reto del Pachuca
+------------------------
 
-![La AMT implementa controles de velocidad con el objetivo de reducir los siniestros de tránsito en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/Siniestros-de-transito-Quito.jpg)
+En la **Copa Challenger**, el Pachuca enfrentará al Al-Ahly de Egipto, que eliminó al Al-Ain de Emiratos Árabes Unidos en la fase Copa África-Asia-Pacífico. El duelo se disputará nuevamente en el Estadio 974 en Doha, Catar.
 
-Diciembre registra históricamente el mayor número de **siniestros** de **tránsito** en Quito. Según Bloomberg, este fenómeno se relaciona con las **festividades** de la época, como las **Fiestas** de **Quito**, **Navidad** y **Año** **Nuevo**, que incluyen eventos frecuentemente asociados al consumo de alcohol[.](https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito#:~:text=Los%20siniestros%20viales%20no%20son,mal%20estado%20de%20una%20calle%2F "https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito#:~:text=Los%20siniestros%20viales%20no%20son,mal%20estado%20de%20una%20calle%2F")
+Cristiano Ronaldo celebró el Mundial 2030 en Portugal
+=====================================================
+
+La FIFA ratificó a Portugal como una de las sedes para el Mundial 2030 y Cristiano Ronaldo celebró el hecho.
+------------------------------------------------------------------------------------------------------------
+
+![Cristiano Ronaldo celebra un gol de la Selección de Portugal.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-11T134017.047.jpg)
+
+Para **Cristiano Ronaldo** el Mundial 2030 es “un sueño hecho realidad”, según publicó este miércoles 11 de diciembre del 2024 en sus redes sociales, tras el anuncio del Congreso de la FIFA en el que ratificó que **España, Marruecos y Portugal** serán los organizadores del evento deportivo.
+
+Con una foto de Cristiano en la que luce el 7 con la selección portuguesa y una leyenda que reza “**el mundial más especial de todos los tiempos**“, el astro portugués hizo un guiño al hito histórico, ya que su país acogerá por primera vez un mundial de fútbol.
+
+### Más noticias:
+
+* [Cristiano Ronaldo marcó doblete y lanzará video con MrBeast](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-mr-beast-video.html "Cristiano Ronaldo marcó doblete y lanzará video con MrBeast")
+* [Cristiano Ronaldo quedó a 87 goles del millar](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-doblete-champions-asia.html "Cristiano Ronaldo quedó a 87 goles del millar")
+* [Messi y Cristiano, nominados al mejor del mundo en 2024](https://www.elcomercio.com/deportes/futbol/the-best-messi-cristiano-nominados.html "Messi y Cristiano, nominados al mejor del mundo en 2024")
+
+“**Nos llena de orgullo, Juntos**!”, concluyó Ronaldo en sus perfiles sociales. De mantener su nivel y extender su carrera de forma extraordinaria, ‘CR7’ podrá disputar el certamen a los **45 años**. Frente al próximo Mundial en 2026, el portugués es fijo en su selección y el goleador.
+
+En 2030, **Portugal y Marruecos** serán sede por primera vez de un Mundial, mientras que España ya acogió en solitario la edición de 1982[.](https://en.wikipedia.org/wiki/Cristiano_Ronaldo "https://en.wikipedia.org/wiki/Cristiano_Ronaldo") 
+
+Portugal también celebró junto a Cristiano Ronaldo
+--------------------------------------------------
+
+El primer ministro de Portugal, **Luís Montenegro**, se mostró orgulloso tras el anuncio oficial de la FIFA sobre que España, Marruecos y Portugal organizarán el Mundial 2030 y auguró que “juntos”, los tres países, harán “una **gran fiesta del deporte**“.
+
+“**Es con mucho orgullo que veo nuestro país ser sede del Mundial 2030**“, aseguró en sus redes sociales.
+
+Para el primer ministro, “**Portugal, España y Marruecos**, unidos por la geografía, historia y pasión por el fútbol van a hacer una gran fiesta del deporte”.
+
+El Congreso de la FIFA anunció de forma oficial que los tres países acogerán el Mundial 2030. A su vez, también designó a **Arabia Saudita** como sede para 2034.
+
+WhatsApp, Facebook e Instagram se caen a escala mundial
+=======================================================
+
+El Grupo Meta se pronunció sobre la caída e informó que presentan problemas técnicos y que trabajan para solucionarlos lo más pronto.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-22.jpg)
+
+Usuarios en redes sociales reportaron la caída de las **redes sociales de Meta** este miércoles 11 de diciembre de 2024 en todo el mundo.
+
+### Más noticias
+
+* [Conoce el nombre con el que te tienen guardado en WhatsApp](https://www.elcomercio.com/tecnologia/whatsapp-nombre-tutorial-telefonia.html "Conoce el nombre con el que te tienen guardado en WhatsApp ")
+* [Aplicaciones de mensajería instantánea y comunicación](https://www.elcomercio.com/opinion/aplicaciones-mensajeria-instantanea-lorena-naranjo-columnista.html "Aplicaciones de mensajería instantánea y comunicación")
+* [Añade ‘El Chulla Quiteño’ a tu perfil de Instagram con esta guía](https://www.elcomercio.com/tecnologia/instagram-musica-chulla-quiteno.html "Añade ‘El Chulla Quiteño’ a tu perfil de Instagram con esta guía ")
+
+Caída de Meta
+-------------
+
+**Una falla afecta todas las redes sociales de Meta** desde aproximadamente las 13:00 de este miércoles 10 de diciembre.
+
+Usuarios comentaron en redes sociales haberse preocupado **tras la falla en los servicios** y haber pensado que era la señal de internet.
+
+Sin embargo, a**l acudir a X** se dieron cuenta que no eran los únicos.
+
+La falla en el servicio afecta tanto en las aplicaciones descargadas en los celulares como en las [computadoras.](https://es.wikipedia.org/wiki/Meta_Platforms "https://es.wikipedia.org/wiki/Meta_Platforms")
+
+Hasta las 14:30, la falla no se solucionó y los **usuarios de Meta se volcaron a X** a expresar su malestar y buscar noticias sobre la caída.
+
+A esa hora, las aplicaciones mostraban un anuncio de que **el servicio no se encuentra disponible.**
+
+La creatividad de los afectados no se hizo esperar y compartieron **memes de burla** al respecto en X.
+
+El servicio de mensajería en **WhatsApp tiene intermitencias.**
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-23-1024x683.jpg)
+
+El pronunciamiento de Meta
+--------------------------
+
+El Grupo Meta se pronunció e informó que presentan **problemas técnicos** que afectan a algunos usuarios.
+
+En un posteo en X señalaron qu**e se encuentran trabajando** para resolver la situación lo más pronto posible.
+
+Esto seguido de un**a disculpa por los inconvenientes.**
+
+> We’re aware that a technical issue is impacting some users’ ability to access our apps. We’re working to get things back to normal as quickly as possible and apologize for any inconvenience.
+> 
+> — Meta (@Meta) [December 11, 2024](https://twitter.com/Meta/status/1866918000374280593?ref_src=twsrc%5Etfw)
+
+Reportes de caída
+-----------------
+
+La página Downdetector recibió 982 reportes de caída de Whatsapp a las 13:05 de este miércoles 11 de diciembre. A la misma hora, se recibieron 187 reportes por la caída de Instagram y 154 a las 14:00.
+
+Por la falla de Facebook, a las 13:05 hubo 431 reportes.
+
+Precio de Disney+ en 2024 tras recientes subidas 
+=================================================
+
+Disney+ ajusta precios en un mercado competitivo.
+-------------------------------------------------
+
+![Disney+ justifica el ajuste para financiar producción original y mejorar la experiencia. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/Disney.jpg)
+
+**Disney+** ha seguido el ejemplo de **Netflix** al **aumentar paulatinamente** de precio para su servicio. Entre los **últimos ajustes**, a decir de [Xataka](https://www.xatakandroid.com/mercado/disney-acaba-subir-su-precio-servicio-streaming-ahora-caro-para-todos-usuarios#:~:text=A%20continuaci%C3%B3n%2C%20los%20nuevos%20precios,139%2C90%20euros%20al%20a%C3%B1o "https://www.xatakandroid.com/mercado/disney-acaba-subir-su-precio-servicio-streaming-ahora-caro-para-todos-usuarios#:~:text=A%20continuaci%C3%B3n%2C%20los%20nuevos%20precios,139%2C90%20euros%20al%20a%C3%B1o"), el incremento varía entre el 11% y el 17% según el plan. Las **tarifas actualizadas** están disponibles en la [**web oficial**](https://help.disneyplus.com/es-EC/article/disneyplus-price "https://help.disneyplus.com/es-EC/article/disneyplus-price") de **Disney+**. 
+
+### Más noticias
+
+* [Conoce el nombre con el que te tienen guardado en WhatsApp](https://www.elcomercio.com/tecnologia/whatsapp-nombre-tutorial-telefonia.html "https://www.elcomercio.com/tecnologia/whatsapp-nombre-tutorial-telefonia.html") 
+* [Sus ‘atajos’ en informática convirtieron a Grace Hopper en la primera mujer ‘hacker’](https://www.elcomercio.com/tecnologia/grace-hopper-dia-informatica-efemeride.html "https://www.elcomercio.com/tecnologia/grace-hopper-dia-informatica-efemeride.html") 
+
+Estos incrementos **impactan a millones de usuarios**. La plataforma, que ha crecido exponencialmente desde su lanzamiento, ahora se enfrenta a la necesidad de **ajustar sus precios** para seguir siendo competitiva en un **mercado saturado**. 
+
+**Estos son los precios actuales de Disney+** 
+----------------------------------------------
+
+Los precios de la suscripción a **Disney+** varían según el plan elegido. **El plan Disney+ Estándar** ofrece acceso completo al **catálogo de Disney+** sin anuncios, e incluye películas y series de **Star**. También incluye acceso a los canales lineales de deportes **ESPN e ESPN3** con anuncios, calidad de audio hasta 5.1 y video hasta 1080 px Full HD. Es posible utilizar dos dispositivos a la vez y realizar descargas en hasta diez dispositivos. 
+
+**El plan Disney+ Premium** añade **contenidos deportivos** completos de **ESPN** y canales de TV en vivo, así como una calidad de video de hasta 4K UHD y HDR, Dolby Atmos en audio, y la posibilidad de usar hasta cuatro dispositivos simultáneamente.  
+
+Además, ambos planes **permiten descargas en hasta diez dispositivos** con un máximo de 25 títulos. También existe la opción de **Miembro Extra**, diseñada para compartir **Disney+** con familiares o amigos que no estén en el mismo hogar, lo que permite un perfil y un dispositivo a la vez. Los precios mensuales son de USD 5,99 para **Disney+ Estándar** y USD 7,99 para **Disney+ Premium**, aunque podrían aplicarse cargos de terceros. 
+
+**Impacto del aumento** 
+------------------------
+
+Este **aumento constante de precios** se produce en un contexto donde la competencia entre plataformas de ‘streaming’ es feroz. Netflix y otras plataformas también han incrementado sus tarifas recientemente, lo que ha llevado a una mayor preocupación entre los consumidores sobre el **costo del entretenimiento digital**, según [ADSL Zone](https://www.adslzone.net/noticias/streaming-tv/disney-plus-subida-precios-1024/ "https://www.adslzone.net/noticias/streaming-tv/disney-plus-subida-precios-1024/").  
+
+**¿Por qué el aumento?** 
+-------------------------
+
+Disney+ ha justificado este ajuste como una **medida necesaria** para continuar con **contenido de calidad** y mejorar la experiencia del usuario. La plataforma ha invertido fuertemente en producción original y adquisición de contenido, lo que requiere financiamiento adicional. Sin embargo, algunos críticos argumentan que la **calidad del contenido** no siempre justifica el aumento de precio. 
+
+### Te recomendamos:
+
+Fiestas de Quito generaron menos ingresos de lo esperado
+========================================================
+
+Durante las festividades se desarrollaron ferias de emprendimientos, conciertos y desfiles que congregaron a miles de personas.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![La agenda de fiestas de Quito tuvo conciertos.](https://www.elcomercio.com/wp-content/uploads/2024/12/Fiestas-Quito.jpg)
+
+Las Fiestas de **Quito** 2024, organizadas por el Municipio en coordinación con gestores culturales, generaron ingresos de 3 millones de dólares[.](https://en.wikipedia.org/wiki/Fiestas_de_Quito "https://en.wikipedia.org/wiki/Fiestas_de_Quito")
 
 Más noticias
 ------------
 
+* [AMC desechó casi 5 000 litros de alcohol en fiestas de Quito](https://www.elcomercio.com/actualidad/quito/amc-desecho-casi-5-000-litros-de-alcohol-en-fiestas-de-quito.html "AMC desechó casi 5 000 litros de alcohol en fiestas de Quito")
+* [Más de 9 000 emergencias fueron atendidas durante las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/mas-9-000-emergencias-fiestas-quito.html "Más de 9 000 emergencias fueron atendidas durante las fiestas de Quito")
 * [Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito](https://www.elcomercio.com/actualidad/quito/personas-fallecieron-siniestros-transito-durante-feriado-fiestas-quito.html "Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito")
-* [24 siniestros de tránsito se registraron en menos de cuatro horas en Quito](https://www.elcomercio.com/actualidad/quito/24-siniestros-de-transito-se-registraron-en-menos-de-cuatro-horas-quito.html "24 siniestros de tránsito se registraron en menos de cuatro horas en Quito")
-* [El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-muerte-motociclistas.html "El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza")
 
-Exceso de velocidad: principal causa de siniestros de tránsito
---------------------------------------------------------------
+La agenda **cultural** y **comercial** impulsó sectores clave, atrajo a más de 400 000 asistentes y promovió la inclusión y la solidaridad. Estas festividades incluyeron conciertos, ferias y desfiles, que reunieron a más de 400 000 personas.
 
-El exceso de velocidad es la principal causa de siniestros de tránsito en la ciudad. Por esta razón, la Agencia Metropolitana de Tránsito (**AMT**) retomó los operativos en diversos puntos de Quito, con ajustes en las ubicaciones respecto a los controles suspendidos previamente.
+Impacto económico y social
+--------------------------
 
-A pesar de que estas acciones se consideran preventivas, tanto la **AMT** como **Bloomberg** destacan que lograron reducir la siniestralidad.
+Con una inversión de 2,77 millones de dólares, las **festividades** beneficiaron a sectores como el artístico, cultural, comercial y de seguridad.
 
-Los **controles** se concentran en vías críticas, como la avenida **Simón** **Bolívar**, que reporta altos índices de siniestros de tránsito.
+Alex Zapata, productor y fotógrafo, afirmó: “La cultura genera empleo y promueve el desarrollo económico. Productores, diseñadores, sonidistas y quienes montan las estructuras se benefician de estos eventos”.
 
-Andrés Castillo, experto en movilidad, propone que estos controles se apliquen de forma permanente para fomentar la **educación** y **concienciación** entre los conductores.
+Trabajadores de seguridad provenientes de **Ambato** indicaron que los eventos les ofrecieron ingresos adicionales, esenciales para el sustento de sus familias.
 
-Según él, “es fundamental calibrar adecuadamente los equipos y realizar un estudio detallado de velocidades ajustado a cada vía. Además, no deben anunciarse las ubicaciones de los operativos para evitar que los infractores se anticipen”.
+Participación cultural
+----------------------
 
-Estadísticas de siniestros de tránsito en diciembre
----------------------------------------------------
+Las festividades incluyeron la participación de 362 artistas, 344 de ellos nacionales, en una agenda con 200 actividades culturales.
 
-Andrea Flores, de **Bloomberg**, señala que todos los viernes de diciembre ocurren siniestros de tránsito con **víctimas** **fatales**.
+Entre las actividades destacaron los desfiles de la **Confraternidad** y la **Mascarada** **Nocturna**, además de los festivales **Quitofest**, **Quinde** **ElectroFest** y el festival gastronómico Sal quiteña, que reunió a 294 mil personas.
 
-En 2023, se reportaron 35 fallecidos, mientras que, entre el 1 y el 9 de diciembre de 2024, ya se contabilizan cinco víctimas, coincidiendo con el cierre del feriado de **Fiestas de Quito.**
+Inclusión y oportunidades para emprendedores
+--------------------------------------------
 
-![chart visualization](https://public.flourish.studio/visualisation/20729514/thumbnail)
+Las megaferias, como la realizada en la **Pampa** de **Calderón**, ofrecieron un espacio a emprendedores, **artistas** y **proveedores**.
 
-Impacto de los controles
+Steve Andrade, fundador de Ice Party, expresó: “Contratamos a cinco personas más gracias a estos eventos. Son una cadena enorme que beneficia a emprendedores y proveedores”.
+
+Eduardo Salazar, quien vendió artículos decorativos de madera, comentó que “estas ferias representan una oportunidad para mostrar nuestro trabajo y crecer”.
+
+Solidaridad en fiestas de Quito
+-------------------------------
+
+La campaña **Dona** **con** **corazón** permitió recolectar alimentos y artículos de aseo para elaborar 50 mil canastas solidarias destinadas a familias vulnerables.
+
+Presupuesto y proyección
 ------------------------
 
-De acuerdo con **Bloomberg**, los controles de velocidad resultaron efectivos en las primeras semanas de implementación. Sin embargo, al no ser **sancionatorios**, los conductores suelen retomar prácticas de **exceso de velocidad.**
-
-Por ello, se recomienda que estas medidas incluyan sanciones y se ejecuten de forma visible para **disuadir estas conductas.**
-
-El consumo de **alcohol**, combinado con el **exceso de velocidad,** también contribuye al aumento de siniestros en diciembre. Las zonas más afectadas incluyen sectores con alta concentración de bares y discotecas, como la Universidad Central y La Mariscal.
-
-Los días viernes y las madrugadas de sábado y domingo son los momentos más críticos, aunque en diciembre también se registran siniestros al mediodía, antes de los feriados.
-
-![visualization](https://public.flourish.studio/story/2768888/thumbnail)
-
-Controles de alcoholemia
-------------------------
-
-Para complementar los controles de velocidad, la AMT realiza operativos de alcoholemia en puntos estratégicos de la ciudad.
-
-Según el Código Orgánico Integral Penal (COIP), superar los 0,3 grados de alcohol en la sangre puede derivar en la detención del conductor, dependiendo del nivel de intoxicación.
-
-El Municipio de Quito dijo que, en 2024, conducir bajo los efectos del alcohol representó la tercera causa principal de siniestros de tránsito, con un saldo de 366 incidentes, 252 personas lesionadas y 15 fallecidos.
-
-Este comportamiento solo es superado por el exceso de velocidad, que causó 486 siniestros, y la falta de respeto a las señales de tránsito, responsable de 399 casos.
-
-Como parte de una estrategia para reducir estos índices, la AMT lanzó la campaña **No le Creas al Alcohol**, dirigida a personas de entre 18 y 40 años.
-
-Los datos reflejan que los hombres son los más afectados, con 8 de cada 10 víctimas relacionadas con el consumo de alcohol pertenecientes a este grupo.
-
-Víctimas y vías críticas
-------------------------
-
-En diciembre, los motociclistas, especialmente hombres de entre 20 y 39 años, son las principales víctimas fatales. En 2024, el 38% de los siniestros incluyó motocicletas.
-
-Entre las vías más peligrosas se encuentran la avenida Simón Bolívar, la Quitumbe Ñan, la avenida Maldonado y la avenida Mariscal Sucre, en el sector de La Magdalena.
-
-Las autoridades subrayan que la avenida Simón Bolívar permanece como la más peligrosa de la ciudad.
-
-Con el objetivo de mitigar estos riesgos y reducir la siniestralidad, la AMT incrementará los controles de alcoholemia durante diciembre.
-
-| Tipo de actor vial | Hombre (%) | Mujer (%) | No identificados (%) |
-| --- | --- | --- | --- |
-| Ocupante motocicleta | 35% | 4%  | 38% |
-| Peatón | 20% | 9%  | 29% |
-| Ocupante vehículo 4 ruedas | 15% | 4%  | 19% |
-| Otros | 8%  | 3%  | 11% |
-| Bus | 3%  | 0%  | 3%  |
-
-Víctimas mortales por siniestros de tránsito en Quito.
+El presupuesto inicial de las festividades fue de 2,6 millones de dólares, y la inversión final alcanzó los 2,77 millones. El **impacto** **económico** esperado era de 10 millones de dólares. En 2023, los ingresos superaron los 9 millones de dólares, según **Quito** **Turismo**.
 
 * * *
 
@@ -450,607 +508,559 @@ Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Ap
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
 
-Más de 70 aeronaves y barcos de China rodean Taiwán
-===================================================
+Biden advierte que las políticas de Trump supondrían un ‘desastre económico’
+============================================================================
 
-Taiwán calificó de "intimidaciones militares" las últimas acciones de China.
-----------------------------------------------------------------------------
-
-![Barcos y aeronaves de China rodean Taiwán.](https://www.elcomercio.com/wp-content/uploads/2024/12/china-taiwan.jpg)
-
-Más de 70 aeronaves y barcos de **China** rodearon **Taiwán** este martes 10 de diciembre de 2024.
-
-Taiwán calificó de “**intimidaciones militares**” las últimas acciones de China.
-
-### Más noticias:
-
-* [Donald Trump promete más aranceles sobre China y México](https://www.elcomercio.com/actualidad/mundo/donald-trump-promete-mas-aranceles-sobre-china-y-mexico.html "Donald Trump promete más aranceles sobre China y México")
-* [Presidente chino, Xi Jinping, llega a Perú para la cumbre Asia-Pacífico](https://www.elcomercio.com/actualidad/mundo/presidente-chino-xi-jinping-llega-peru-cumbre-asia-pacifico.html "Presidente chino, Xi Jinping, llega a Perú para la cumbre Asia-Pacífico")
-
-China rodea con barcos y aeronaves a Taiwán
--------------------------------------------
-
-Más de 70 aeronaves y buques chinos rodearon la **isla de Taiwán** por todas las direcciones, en medio de un gran despliegue naval de China en el **Pacífico** que las autoridades de Pekín todavía no han confirmado, informaron este miércoles fuentes oficiales taiwanesas.
-
-En un comunicado, el **Ministerio de Defensa Nacional** (MDN) de Taiwán señaló que, en 24 horas, había detectado 53 aeronaves y 11 buques de guerra chinos en las inmediaciones de su territorio, además de otros 8 “barcos oficiales”.
-
-Estas **cifras** superan ligeramente las registradas en la jornada previa.
-
-Antes, **Taipéi** reportó la presencia de 47 aeronaves, 12 embarcaciones militares y 9 “barcos oficiales” chinos en las proximidades de la isla.
-
-Del total de aeronaves, entre las que se encontraban **cazas de combate y drones**.
-
-23 cruzaron la línea media del estrecho de Taiwán e ingresaron en la región norte, suroeste y este de la autoproclamada **Zona de Identificación de Defensa Aérea (ADIZ)** taiwanesa.
-
-Así, rodearon por completo la isla principal de Taiwán, de acuerdo al **mapa** proporcionado por el MDN.
-
-Durante los últimos días, **China** ha permanecido en completo **silencio**.
-
-Taipéi describió la acción como un formidable despliegue de poderío militar.
-
-Múltiples buques de **la Armada y de la Guardia Costera** china navegando por un área de aproximadamente 1 000 kilómetros, que va desde **Shanghái** (este) hasta la provincia de **Fujian** (sureste).
-
-Taiwán califica de ‘intimidaciones militares’ lo realizado por China
---------------------------------------------------------------------
-
-En las dos últimas maniobras militares en torno a Taiwán, que tuvieron lugar el **23 y 24 de mayo y el 14 de octubre** de este año, Pekín anunció públicamente tanto el inicio como el final de dichos ejercicios.
-
-Sin embargo, en esta ocasión, el mutismo ha sido absoluto, limitándose únicamente a decretar siete zonas aéreas “reservadas” frente a las provincias de **Zhejiang** (este) y **Fujian**.
-
-Según **Taipéi,** las fuerzas chinas han creado dos “muros” navales en el océano.
-
-Uno situado al este de la autoproclamada **ADIZ taiwanesa**.
-
-Otro, en el interior del Pacífico Occidental, con **el objetivo de reafirmar la soberanía china sobre el estrecho de Taiwán e intimidar a los países de la región**.
-
-“China no solo está llevando a cabo operaciones en torno a Taiwán, sino que también está intentando aislar a la región al extender sus fuerzas militares hacia el exterior”, manifestó **Hsieh Jih-sheng**, subdirector de Inteligencia.
-
-Este despliegue naval tiene lugar pocos días después de que el **presidente taiwanés, el soberanista William Lai**, finalizara una gira por el Pacífico Sur.
-
-En esta gira, visitó los tres **países aliados** de Taiwán en la zona -Islas **Marshall, Tuvalu y Palau**– y “escalas” en los territorios estadounidenses de **Hawái y Guam**, que **enfurecieron a China**.
-
-Tras la toma de posesión de **Lai** el pasado 20 de mayo, **Pekín incrementó sus actividades militares en torno a Taiwán para mostrar su rechazo al mandatario taiwanés**.
-
-Más de 3.400 aeronaves del **Ejército** chino sobrevolaron los alrededores de la isla desde entonces, de las cuales 2.366 atravesaron la línea divisoria del Estrecho o vulneraron la autoproclamada ADIZ taiwanesa, un 38 % más que en todo 2023, según las últimas cifras del MDN.
-
-El **Gobierno taiwanés** instó este miércoles a **Pekín** a “detener de inmediato” sus “**intimidaciones militares”**.
-
-Dragonas IDV despidió a Nayely Bolaños con emotivo video
-========================================================
-
-Nayely Bolaños jugó en El Nacional, Deportivo Cuenca, Dragonas IDV y la Selección de Ecuador.
----------------------------------------------------------------------------------------------
-
-![Nayely Bolaños con su clásico festejo de gol con Dragonas IDV.](https://www.elcomercio.com/wp-content/uploads/2024/12/bolanos_brasil_1.jpg)
-
-Dragonas Independiente del Valle utilizaron sus redes sociales oficiales para despedirse de **Nayely Bolaños, la goleadora ecuatoriana** que no continuará en el plantel para la temporada 2025.
-
-El destino de **Nayely Bolaños será el Pumas de la UNAM**. Las mexicanas se frotan las manos con la incorporación de la delantera ecuatoriana de 21 años, la mejor jugadora del país en el presente.
-
-### Más noticias:
-
-* [Campeón del Mundo supo de su doping a dos días de la final](https://www.elcomercio.com/deportes/futbol/alejandro-gomez-dopung-mundial-catar.html "Campeón del Mundo supo de su doping a dos días de la final")
-* [Calendario de ecuatorianos en la Champions League](https://www.elcomercio.com/deportes/futbol/calendario-ecuatorianos-sexta-fecha-champions-league.html "Calendario de ecuatorianos en la Champions League")
-* [Botafogo es favorito ante Pachuca en Copa Intercontinental](https://www.elcomercio.com/deportes/futbol/botafogo-favorito-pachuca-copa-intercontinental.html "Botafogo es favorito ante Pachuca en Copa Intercontinental")
-
-Dragonas extrañará a Bolaños
-----------------------------
-
-Este martes 10 de diciembre de 2024, Dragonas resumieron en un video los tres años que Bolaños permaneció en el equipo al que llegó como una joven promesa y se **marcha como una de las estrellas que alcanzó su mejor versión** con su camiseta.
-
-El título de la Superliga Femenina, el cuarto puesto de la Copa Libertadores y la Bota de Oro como goleadora del torneo nacional con 21 tantos, todo en el 2024, son los logros que atesora la deportista nacidad en Ventanas, provincia de Los Ríos.
-
-El 2023 fue todo lo contario. La **rotura de ligamento cruzado anterior, más lesión menisco de externo** y distensión de ligamentos colaterales de una de sus rodillas que se produjo en septiembre de 2022, la alejaron de las canchas por un largo tiempo.
-
-Recuperada y en plenitud de condiciones no dejó dudas que se trata de un talento poco visto en el país, más si se trata de una delantera, una de las deficiencias del fútbol nacional, tanto en hombres como en mujeres.
-
-“**Tu energía nos inspiró. ¡Hasta pronto, Naye!**“, fue el texto que acompañó al video que rápidamente se regó en las redes sociales con mensajes de aliento de los aficionados al fútbol femenino.
-
-> Tu energía nos inspiró ✨ ¡Hasta pronto, Naye! 🐉 [pic.twitter.com/DeWOWegqFR](https://t.co/DeWOWegqFR)
-> 
-> — DragonasIDV (@DragonasIDV) [December 10, 2024](https://twitter.com/DragonasIDV/status/1866537583389577427?ref_src=twsrc%5Etfw)
-
-Pumas esperan a Nayely
-----------------------
-
-Fuentes cercanas a la Bolaños le confirmaron a EL COMERCIO que su debut será el 15 de diciembre en un torneo amistoso que se denomina **Brasil Ladies Cup**, y desde México también apuntan a esta fecha.
-
-El estadio Doctor Osvaldo Teixeira Duarte, ubicado en Sao Paulo, acogerá los encuentros del grupo A junto a las escuadras de Deportivo Bahía (15/12), la Selección de Paraguay (17/12) y el **Deportivo Avaí Kindermann (19/12).**
-
-En el grupo B están emparejadas **River Plate** de **Argentina**, **Atlético Paranaense, Gremio y Sport Club de Recife** de Brasil.
-
-La modalidad del torneo establece que el ganador de cada grupo avanza a la final del 22 en el Arena Pacaembú.
-
-![Instagram de la jugadora.](https://www.elcomercio.com/wp-content/uploads/2024/12/bolanos_brasil_2-1024x683.jpg)
-
-Instagram de la jugadora.
-
-San viernes
------------
-
-Javier Milei anunció reducción de impuestos nacionales para 2025 en Argentina
-=============================================================================
-
-El anuncio de reducción de impuestos nacionales de Milei fue acompañado de la devolución de la autonomía fiscal a las provincias.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Javier Milei hizo el anuncio de los impuestos durante el discurso por el primer año de su mandato.](https://www.elcomercio.com/wp-content/uploads/2024/12/milei-impuestos.jpg)
-
-El presidente **Javier Milei** anunció una gran reducción de **impuestos nacionales** para **2025** en **Argentina,** este martes 10 de diciembre de 2024.
-
-La noticia fue parte de su discurso por el **primer año** en la Presidencia de ese país.
-
-### Más noticias:
-
-* [Javier Milei marcará su primer aniversario al frente del Gobierno con un discurso a la nación](https://www.elcomercio.com/actualidad/mundo/javier-milei-marcara-primer-aniversario-frente-gobierno-discurso-nacion.html "Javier Milei marcará su primer aniversario al frente del Gobierno con un discurso a la nación")
-* [La ‘motosierra’ de Javier Milei empuja a miles de argentinos a ir de compras en Chile](https://www.elcomercio.com/actualidad/mundo/motosierra-javier-milei-empuja-miles-argentinos-compras-chile.html "La ‘motosierra’ de Javier Milei empuja a miles de argentinos a ir de compras en Chile")
-
-Milei, la reducción de impuestos nacionales y la autonomía fiscal de las provincias
------------------------------------------------------------------------------------
-
-El presidente de **Argentina**, **Javier Milei**, anunció que en 2025 bajará un **90%** los impuestos.
-
-El anuncio estuvo acompañado de otro: la **devolución de la autonomía fiscal** a las **provincias** para hacerlas más competitivas.
-
-“Mi equipo está terminando en estos días una **reforma impositiva estructural** que reducirá en un 90 % la cantidad de impuestos nacionales y le devolverá a las provincias la autonomía impositiva que nunca debieron haber perdido”, manifestó.
-
-Milei agregó: “el año próximo veremos una **verdadera competencia fiscal** entre las provincias argentinas para ver quién atrae más **inversiones**“.
-
-El discurso de Milei por el **primer aniversario** de su llegada al Gobierno tuvo una duración de 45 minutos.
-
-### Otros temas
-
-Javier Milei manifestó que, el segundo año de su gestión, estará marcado por una “**motosierra profunda**” y por la continuación del achicamiento del Estado.
-
-“Este año ya conocieron la motosierra, pero consistió principalmente en revertir los excesos de los últimos **años kirchneristas**. Ahora se viene la motosierra profunda”, dijo.
-
-Milei anticipó la eliminación de más organismos públicos y abogó por un “**Estado más chico**, más efectivo y más barato”.
-
-Milei recordó que cerró 10 ministerios, eliminó más de **100 secretarías y subsecretarías**.
-
-Además, clausuró la agencia oficial de noticias Telam y el **Instituto Nacional contra la Discriminación, la Xenofobia y el Racismo**, y desvinculó a 34 000 empleados públicos.
-
-Milei anticipó, además, “una auditoría inclemente para avanzar con la **reducción del gasto público** más profunda de la historia Argentina” y “continuar eliminando organismos, secretarías, subsecretarías, empresas públicas y todo estamento del estado que no debería existir”.
-
-De cara a 2025, aseguró que su Gobierno impulsará grandes **reformas** en materia impositiva, previsional, laboral, penal, política y en seguridad nacional, y adelantó que diseñarán un plan de energía nuclear y que impulsarán más medidas contra el narcotráfico y el crimen organizado.
-
-Canchas de fútbol y pista atlética de La Carolina cerrarán por rehabilitación
-=============================================================================
-
-El Municipio de Quito comenzó los trabajos en las canchas de fútbol, la pista atlética y otros espacios deportivos del parque La Carolina.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los espacios deportivos permanecerán cerrados al público durante varios meses](https://www.elcomercio.com/wp-content/uploads/2024/12/parque-carolina-canchas-futbol.jpg)
-
-El **Municipio de Quito** comenzó la rehabilitación de varios **espacios deportivos** del parque **La Carolina**, en el centro norte de Quito, este martes 10 de diciembre de 2024. Las obras incluyen la **adecuación** y el **mantenimiento** de la pista de atletismo, zona de calistenia y las **canchas** de césped sintético de **fútbol**.
-
-### Más noticias
-
-* [Dos generadores eléctricos de 600 kW llegaron a Quito, ¿en qué se los utilizará?](https://www.elcomercio.com/actualidad/quito/generadores-electricos-quito-agua.html "Dos generadores eléctricos de 600 kW llegaron a Quito, ¿en qué se los utilizará?")
-* [Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025](https://www.elcomercio.com/actualidad/quito/concejo-aprueba-presupuesto-quito-2025.html "Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025")
-* [Cortes de luz en Quito este miércoles 11 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-miercoles-11-diciembre.html "Cortes de luz en Quito este miércoles 11 de diciembre")
-
-Según detalló el Cabildo, la inversión inicial de **792 000 dólares** tiene como objetivo beneficiar a las más de **100 000 personas** que acuden a este tradicional parque cada semana.
-
-Trabajos en la pista de atletismo y la zona de calistenia
----------------------------------------------------------
-
-En la **pista de atletismo** se reemplazarán **6 000 m²** de superficie con materiales sintéticos de alta calidad, diseñados para mejorar la experiencia de ejercicio y reducir el riesgo de lesiones, afirmó la entidad.
-
-Lo mismo se ejecutará en los **2 300 m²** de la **zona de calistenia**.
-
-Los trabajos en ambas áreas comenzaron con la instalación de un **cerramiento**, que se completará el viernes 13 de diciembre[.](https://www.quitoinforma.gob.ec/2024/12/09/espacios-deportivos-de-la-carolina-se-renuevan-con-una-inversion-de-usd-792-mil/ "https://www.quitoinforma.gob.ec/2024/12/09/espacios-deportivos-de-la-carolina-se-renuevan-con-una-inversion-de-usd-792-mil/")
-
-A partir de este día, los espacios **se cerrarán** para el público.
-
-Adecuación de las canchas de fútbol
------------------------------------
-
-También se rehabilitarán **todas las canchas** de césped sintético para fútbol del parque. En total, se trabajarán **14 canchas pequeñas** y **una cancha grande**.
-
-Mientras se realice el **mantenimiento paulatino,** algunas canchas estarán habilitadas y otras restringidas. Te recomendamos reservar con tiempo los espacios en la administración del parque, ubicada frente al Jardín Botánico.
-
-Tiempo estimado de las obras
-----------------------------
-
-Las intervenciones de la pista atlética y de la zona de calistenia finalizarán en la **primera semana** de **febrero** de 2025.
-
-Mientras que la conclusión de las **15 canchas** está prevista para **finales de marzo**.
-
-El Municipio recomendó a quienes visiten el parque La Carolina en estas fechas, **transitar con precaución** por las **áreas de trabajo** y respetar las zonas públicas designadas para cada actividad.
-
-El parque La Carolina cuenta con **61,3 hectáreas** y se ubica en el centro financiero de la capital.
-
-Es uno de los lugares más concurridos por las familias y grupos de amigos debido a las varias actividades que se puede realizar en este lugar.
-
-El cuatro, un número mágico para cinco campeones nacionales
-===========================================================
-
-La Liga Pro tendrá su nuevo campeón el sábado 14 de diciembre de 2024.
-----------------------------------------------------------------------
-
-![Jugadores del Deportivo Cuenca en el Alejandro Serrano Aguilar en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/campeones_ano_1.jpg)
-
-La primera edición del campeonato ecuatoriano se jugó en 1957. **Emelec, Barcelona Sporting Club, Deportivo Quito y Aucas** fueron los cuatro equipos que jugaron en menos de un mes de competencia.
-
-El Quito tiene el registro de haber jugado y ganador el primer partido de un campeonato ecuatoriano. **Lo hizo ante Barcelona SC con un marcador de 2-1**, pero Emelec tiene el sello de ser el primer campeón nacional.
-
-### Más noticias:
-
-* [¿Moisés Caicedo puede ganar la Premier League?](https://www.elcomercio.com/deportes/chelse-moises-caicedo-ganar-premier-league.html "¿Moisés Caicedo puede ganar la Premier League?")
-* [Ecuador en Ayacucho 202](https://www.elcomercio.com/deportes/futbol/medallas-ecuador-juegos-bolivarianos-oro.html "Ecuador en Ayacucho 2024: un vistazo a los Juegos Bolivarianos")[4: un vistazo a los Juegos Bolivarianos](https://www.elcomercio.com/deportes/futbol/medallas-ecuador-juegos-bolivarianos-oro.html "Ecuador en Ayacucho 2024: un vistazo a los Juegos Bolivarianos")
-* [Posibles rivales de Barcelona Sporting Club en la Libertadores](https://www.elcomercio.com/deportes/futbol/posibles-rivales-de-barcelona-sporting-club-en-la-libertadores.html "Posibles rivales de Barcelona Sporting Club en la Libertadores")
-
-Todos los campeones nacionales
-------------------------------
-
-Desde aquel puntapié inicial pasaron 65 años de competencia. Cada año el torneo alcanzó relevancia y se fue extendiendo a **provincias distintas a Pichincha y Guayas**, las dos potencias del fútbol local en cuanto a clubes se refiere.
-
-El Nacional, Liga de Quito, Deportivo Quito, Independiente del Valle, Aucas, Barcelona, Emelec, Everest, **Deportivo Cuenca, Delfín y Olmedo** son las instituciones que ganaron el trofeo nacional en, al menos, una ocasión.
-
-Liga está a punto de sumar un nuevo título. En la final de ida de la Liga Pro, jugada el sábado 7 de diciembre de 2024, **le ganó 3-0 a Independiente**.
-
-La vuelta se disputará el sábado 14 y todo apunta que los albos reinaran el país una año más.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/campeones_ano_2-1024x683.jpg)
-
-API.
-
-El cuatro favoreció a los equipos de la Sierra
-----------------------------------------------
-
-Un dato que destaca es que en cuatro de los seis campeonatos jugados en el año que terminaba en cuatro, el títulos se quedó en manos de los equipos de la Sierra.
-
-En **1964 el campeón fue el Deportivo Quito**. Para los de la ‘Plaza del Teatro’ fue el primero de los cinco trofeos que sumaron a sus vitrinas. En el presente competen en la Segunda Categoría de Pichincha.
-
-En **1974 la sonrisa de la gloria se le presentó a Liga de Quito.** Con ello ganó su segunda estrella doméstica de las 12 que actualmente atesora sobre su escudo.
-
-En **1984 el turno fue para El Nacional**. La ‘Máquina roja’ cerraba así su segundo tricampeonato y el octavo en su palmarés. En ese año se transformó el conjunto más ganador del país con tan solo 20 año de estar en la máxima categoría.
-
-En **1994 el molde del dominio de la Sierra fue Emelec**. Los azules ganaron la corona y su primer bicampeonato.
-
-En 2004 nuevamente se rompió el dominio, pero esta vez de Pichincha y Guayas. Esta vez el **Deportivo Cuenca fue el campeón de la mano** del argentino Julio Daniel Asad, el mismo que oficio el milagro de Olmedo de Riobamba en el 2000.
-
-En **2014 el título recayó en manos de Emelec**. El ‘Bombillo’ por esos días era el mejor equipo del país. Ya había ganador el campeonato de 2013 y luego se quedó con el de 2015 con un grupo de jugadores liderados por Ángel Mena y Miller Bolaños.
-
-En el 2024 nuevamente un equipo de la Sierra ganará el título. La ventaja en para Liga de Quito, pero Independiente no se lo dejará fácil y plantará pelea con el aliento de sus hinchas y con el envión de ser local.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/campeones_ano_3-1024x683.jpg)
-
-API.
-
-San viernes
------------
-
-Las protestas se mantienen en Napo por la construcción de la cárcel en Archidona
-================================================================================
-
-Pese a las protestas, la postura del Gobierno es continuar con la cárcel de máxima seguridad de Archidona; así como lo hace con la de Santa Elena.
+Biden advirtió que los recortes fiscales propuestos por Trump, combinados con reducciones en programas sociales podrían poner peligro los avances.
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Las protestas en contra de la cárcel de máxima seguridad en Archidona llevan ocho días.](https://www.elcomercio.com/wp-content/uploads/2024/12/protestas-carcel-archidona.jpg)
+![Joe Biden en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/12/joe-biden-efe-otan.jpg)
 
-Las **protestas** se mantienen en **Napo** por construcción de la **cárcel** en **Archidona,** este martes 10 de diciembre de 2024.
-
-Este es el octavo día de medidas de hecho tomadas por **organizaciones sociales e indígenas** de esa provincia, con el apoyo de sus similares de otras provincias amazónicas.
-
-### Más noticias:
-
-* [Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-cambio-gobernado-napo-carcel.html "Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel")
-* [Gobierno inicia construcción de la nueva cárcel en Santa Elena](https://www.elcomercio.com/actualidad/seguridad/gobierno-inicia-construccion-nueva-carcel-santa-elena.html)
-
-Protestas en Napo por la cárcel en Archidona
---------------------------------------------
-
-Una de las ofertas de campaña del presidente **Daniel Noboa** fue la construcción de dos cárceles de máxima seguridad en el país.
-
-Una de estas cárceles ya está ubicada en **Santa Elena** y presenta más del 30% de construcción.
-
-La otra estará en Archidona, cantón de la provincia del **Napo**.
-
-El pasado 25 de noviembre se lanzó el proceso para la construcción de una **cárcel de máxima seguridad** en Archidona.
-
-Se trata de la **ampliación** del centro de privación de la libertad ya existente en esa ciudad.
-
-La **adjudicación** estaba prevista para el 9 de diciembre, con un presupuesto de 51 millones de dólares y un plazo de ejecución de 300 días.
-
-Por esta obra, las comunidades indígenas y organizaciones sociales de la provincia del Napo han desarrollado varias **medias de hecho**.
-
-Cierre de vías que comunican Napo con **Pichincha** y otras provincias, quema de llantas, protestas y vigilias son algunas de las acciones.
-
-La **Confederación de Nacionalidades Indígenas de la Amazonía Ecuatoriana (Cofeniae)**, filial de la Conaie en la Amazonía, está al frente de las protestas.
-
-Este martes, una delegación de comunidades indígenas de **Pastaza** también llegaron a Napo para unirse a las manifestaciones.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/image-1-1024x627.png)
-
-Una delegación de la nacionalidad Kichwa de Pastaza llegó para apoyar las protestas en Napo contra la cárcel de Archidona. Foto: X Confeniae.
-
-” El **pueblo Naporuna**, hijos e hijas de Jumandi, Beto y Wami, se ha levantado para defender el territorio, acechado por la violencia capitalista”, señaló la Confederación.
-
-Y agregó: “**Petroleras, mineras, hidroeléctricas y hoy, megacárceles**, quieren destruir nuestro hogar. Desde el puente Misahualli, seguimos firmes”.
-
-**José Esach**, presidente de Confeniae, dijo que no se ha cumplido con la **consulta previa**, libre e informada.
-
-La posición del Gobierno respecto a la cárcel en Archidona
-----------------------------------------------------------
-
-A consecuencia de las protestas por la construcción de la nueva cárcel, hubo cambio en la representación del **Gobierno** en la provincia de Napo.
-
-**Marlene Cabrera** renunció al cargo de Gobernadora de Napo, el pasado sábado.
-
-Cabrera dijo que lo hace “en coherencia con mis principios y mi corazón” y agregó que lo que más quisiera es una **reubicación** de la cárcel.
-
-Entonces, con el **Decreto Ejecutivo 476**, el presidente **Daniel Noboa** designó a un nuevo Gobernador.
-
-La postura del Gobierno es seguir con la **cárcel de máxima seguridad en Archidona**, pese a las protestas.
-
-**Gary Ribadeneyra**, el nuevo gobernador de Napo, manifestó que existe una cárcel en Archidona, que está deteriorada y de lo que se trata es de **repotenciar** la cárcel ya existente.
-
-Ribadeneyra aseguró que los espacios serán lo más alejado posible del **sector urbano**.
-
-Ciclistas extraviados en el Parque Cotopaxi fueron encontrados
-==============================================================
-
-Cuatro ciclistas se extraviaron en el Parque Nacional Cotopaxi; los deportistas fueron hallados luego de 20 horas de búsqueda.
-------------------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/ciclistas-cotopaxi.jpg)
-
-**Cuatro ciclistas** reportados como **desaparecidos** fueron hallados en el **Parque Nacional Cotopaxi**, la madrugada de este martes 10 de diciembre de 2024.
+El presidente estadounidense, [Joe Biden](https://es.wikipedia.org/wiki/Joe_Biden "https://es.wikipedia.org/wiki/Joe_Biden"), alertó que las políticas de su sucesor, **Donald Trump**, especialmente sus propuestas para **recortar impuestos a los ricos** y las grandes corporaciones, podrían suponer un **“desastre económico”** para Estados Unidos.
 
 ### Más noticias
 
-* [Policía captura a miembros de Las Águilas, entre ellos el cabecilla](https://www.elcomercio.com/actualidad/seguridad/policia-captura-a-miembros-las-aguilas-entre-ellos-cabecilla.html "Policía captura a miembros de Las Águilas, entre ellos el cabecilla")
-* [Siniestro de tránsito en la Ruta Viva deja heridos la tarde de este martes 10 de diciembre](https://www.elcomercio.com/actualidad/quito/siniestro-transito-ruta-viva-heridos-movilidad.html "Siniestro de tránsito en la Ruta Viva deja heridos la tarde de este martes 10 de diciembre")
-* [Fallecidos y heridos tras caída de camioneta al abismo en Ambato](https://www.elcomercio.com/actualidad/ecuador/caida-camioneta-abismo-fallecidos-heridos-ambato.html "Fallecidos y heridos tras caída de camioneta al abismo en Ambato")
+* [Joe Biden indultó a su hijo Hunter alegando ataques políticos](https://www.elcomercio.com/actualidad/mundo/biden-indulta-hijo-hunter-posesion-armas.html "Joe Biden indultó a su hijo Hunter alegando ataques políticos")
+* [Justin Trudeau advierte que Donald Trump regresa al poder con ‘ideas más claras’](https://www.elcomercio.com/actualidad/mundo/justin-trudeau-advierte-donald-trump-regresa-poder-ideas-mas-claras.html "Justin Trudeau advierte que Donald Trump regresa al poder con ‘ideas más claras’")
+* [Donald Trump y Volodímir Zelenski se encontraron en París](https://www.elcomercio.com/actualidad/mundo/donald-trump-volodimir-zelenski-se-encontraron-paris.html "Donald Trump y Volodímir Zelenski se encontraron en París")
 
-Los deportistas iban a participar de una **competencia** en los próximos días; por lo que decidieron ir a la laguna de Limpiopungo para planificar su estrategia.
+“Rezo a Dios para que Trump descarte el ‘Proyecto 2025’. Creo que sería un **desastre económico**”, declaró Biden, saliéndose de**l guion durante un discurso** en el centro de estudios Brookings, en Washington, donde defendió su legado económico.
 
-Los ciclistas tenían pensado recorrer una ruta de ida y regreso de **70 kilómetros**, sin embargo, las **malas condiciones del clima** causaron que **se perdieran** en la montaña.
+Biden alertó de los **riesgos que algunas políticas de Trump** podrían suponer para la economía estadounidense, en particular si se aplican las **directrices del ‘Proyecto 2025’**. Fue diseñado por la **conservadora Heritage Foundation** para un **segundo mandato de Trump** y que contó con la colaboración de asesores del expresidente, aunque posteriormente este intentó desvincularse.
 
-Búsqueda y rescate de los ciclistas
------------------------------------
+¿Clase trabajadora o grandes empresas?
+--------------------------------------
 
-Los familiares de los **cuatro hombres** alertaron al **ECU 911** de la emergencia, la mañana del lunes 9 de diciembre, luego de no tener novedades de ellos.
+El mandatario consideró que Trump, quien asumirá el cargo el 20 de enero de 2025, deberá decidir entre seguir fortaleciendo a la **clase trabajadora** o favorecer a los ricos y a las grandes empresas.
 
-La entidad coordinó de inmediato el despliegue de personeros de la **Policía Nacional** y el Cuerpo de **Bomberos** de Latacunga. Un grupo de **guardaparques** y **comuneros** se sumaron a la búsqueda[.](https://es.wikipedia.org/wiki/Parque_nacional_Cotopaxi "https://es.wikipedia.org/wiki/Parque_nacional_Cotopaxi")
+“El resultado de esta elección nos sitúa en un momento crucial. ¿Continuaremos impulsando la **economía desde abajo hacia arriba y desde el centro hacia fuera**, invirtiendo en todos los estadounidenses, apoyando a los sindicatos y a las familias trabajadoras?”, planteó Biden.
 
-Dos de los cuatro ciclistas fueron **localizados** en el sector de Chalupas, cerca de las 23:00 del lunes. Los hombres recibieron **primeros auxilios** y luego fueron llevados a un lugar seguro.
+Al respecto, argumentó que las **inversiones en infraestructuras, manufactura y comunidades marginadas** realizadas durante su mandato evitaron una crisis económica grave tras la pandemia del **covid-19** y, además, aseguró que estas medidas sentaron las bases para un crecimiento económico sostenible.
 
-Los trabajos de búsqueda y rescate se retomaron en la **madrugada**, hasta que, finalmente y luego de **20 horas**, los dos ciudadanos restantes fueron encontrados en la cara sur del **volcán**.
+No obstante, advirtió que los **recortes fiscales propuestos por Trump**, combinados con reducciones en programas sociales y un aumento de los costes sanitarios, podrían poner en peligro estos avances.
 
-Familiares se rencontraron con los ciclistas
---------------------------------------------
+Trump prometió ampliar los recortes de impuestos para las grandes empresas que introdujo en su primer mandato y propone reducir la tasa impositiva del 21 % al 15 % para las compañías que produzcan todos sus productos en Estados Unidos.
 
-La familia se rencontró con los ciclistas pasadas las 05:00 del martes, en la parroquia de **Alaquez**, en Latacunga. Todos se mantenían en **condiciones estables** de salud.
-
-Uno de los hombres rescatados difundió un video en **redes sociales** donde agradeció a las personas que los ayudaron en la búsqueda.
-
-“La vida se trata de aventuras (…) **sanos y salvos** y sin ningún rasguño”, mencionó Jaime Gallardo en Facebook.
-
-Independiente tendrá casa llena para su revancha con Liga de Quito
-==================================================================
-
-Este sábado, la Liga Pro definirá si hay nuevo monarca o si Liga de Quito retiene su corona.
---------------------------------------------------------------------------------------------
-
-![Liga de Quito e Independiente del Valle pelean por el título de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-10T194033.771.jpg)
-
-La final de vuelta de la Liga Pro 2024 entre **Independiente del Valle** y **Liga de Quito** se disputará el próximo sábado 14 de diciembre en el estadio Banco Guayaquil. Con todas las entradas vendidas, el escenario estará completamente lleno.
-
-En el partido de ida, **Liga de Quito** obtuvo una amplia ventaja con una victoria por **3-0** en el Rodrigo Paz Delgado, posicionándose como favorito para ser campeón del fútbol ecuatoriano en 2024. De ganar, retendría el título que conquistó en 2023, también frente a Independiente.
-
-### Más noticias:
-
-* [Renato Paiva, exDT de Independiente del Valle, deja Toluca](https://www.elcomercio.com/deportes/renato-paiva-toluca-salida-idv.html "Renato Paiva, exDT de Independiente del Valle, deja Toluca")
-* [Liga de Quito ganó un título en cancha de Independiente](https://www.elcomercio.com/deportes/futbol/liga-quito-campeon-supercopa-ecuador.html "Liga de Quito ganó un título en cancha de Independiente")
-* [Independiente se disculpó por la derrota ante Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-se-disculpo-por-la-derrota-ante-liga-de-quito.html "Independiente se disculpó por la derrota ante Liga de Quito")
-
-El encuentro está programado para las **15:30**, pese a que hubo un intento por parte de la Liga Pro de mover el horario a las 17:00. Finalmente, se mantuvo la planificación inicial.
-
-Independiente asegura estadio lleno
------------------------------------
-
-**Andrés Larriva**, dirigente de Independiente del Valle, confirmó este martes 10 de diciembre que el estadio estará repleto. Además, detalló cómo se organizó la venta de boletos y los planes de seguridad.
-
-“Estamos con casa llena para vivir esta fiesta”, afirmó.
-
-Liga de Quito contará con el **25% del aforo**, lo que equivale a aproximadamente **2.500 hinchas**. El resto de las entradas fueron distribuidas entre abonados, escuelas del club y seguidores de Independiente del Valle, quienes tuvieron prioridad para adquirirlas.
-
-Independiente busca una remontada histórica
--------------------------------------------
-
-Para coronarse campeón**, Independiente del Valle necesita una hazaña** que va más allá de superar a un equipo sólido como Liga. Además, tendría que romper con un precedente histórico. Según datos de Aurelio Dávila, en la historia de las finales del fútbol ecuatoriano, solo en **tres ocasiones** se registró un marcador de 3-0 en alguno de los partidos, y en todas, el equipo que logró esa ventaja se coronó campeón.
-
-De estas tres finales, solo una registró el **3-0 en el partido de ida**:
-
-**2014:** Emelec empató 1-1 en la ida contra Barcelona SC y ganó 3-0 en la vuelta para llevarse el título.
-
-**1988:** Emelec goleó 3-0 a Deportivo Quito en la ida y empató 1-1 en la vuelta para ser campeón.
-
-**2005:** Liga de Quito perdió 1-0 la ida contra Barcelona SC, pero ganó 3-0 en la vuelta y se coronó campeón del Apertura.
-
-Independiente marca menos de tres goles por partido de local
-============================================================
-
-Independiente del Valle solo perdió un partido de la Liga Pro jugado de local en el 2024.
------------------------------------------------------------------------------------------
-
-![Renato Ibarra (i) y Yaimar Medina en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/goles_idv_1.jpg)
-
-**Independiente del Valle** tiene la dura y difícil tarea de anotarle, al menos, tres goles a Liga de Quito para alargar la definición del campeón de la Liga Pro de este año a los lanzamientos penales.
-
-La revancha entre Independiente del Valle y Liga de Quito está **programada para el sábado 14 de diciembre, desde las 15:30**, en la casa de los rayados, que tendrán en sus gradas a más de 10 000 aficionados.
-
-### Más noticias:
-
-* [Liga de Quito ganó tres títulos con dos entrenadores argentinos](https://www.elcomercio.com/deportes/futbol/entrenadores-argentinos-campeones-liga-quito.html "Liga de Quito ganó tres títulos con dos entrenadores argentinos")
-* [Liga de Quito prepara una sorpresa para los hinchas en la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-prepara-sorpresa-para-los-hinchas-final-de-liga-pro.html "Liga de Quito prepara una sorpresa para los hinchas en la final de Liga Pro")
-* [La Copa Sudamericana da la bienvenida a Orense](https://www.elcomercio.com/deportes/orense-copa-sudamericana-bienvenida-primera-vez.html "La Copa Sudamericana da la bienvenida a Orense")
-
-Independiente es fuerte en casa
--------------------------------
-
-Independiente ganó el 84,4% de puntos que disputó en casa. **Ganó 12 de los 15 juegos, empató dos** y tan solo perdió uno. Esos números lo confirman como uno de los mejores locales de la temporada que está por cerrarse.
-
-La única derrota del actual vicecampeón nacional se registró en el arranque de la segunda etapa de la Liga Pro. **Fue 1-2 ante Delfín con tantos de José Angulo**, exjugador de los del Valle, y de Jostin Alman desde el punto penal.
-
-Los empates fueron 1-1 ante Aucas y por el mismo marcador ante Liga de Quito, su rival en la final de vuelta, todos en la primera etapa.
-
-Los 12 restantes compromisos los saldó con victoria. Se incluye la escalofriante **goleada de 7-0 que le propinó a Macará en la fecha 14** de la segunda etapa. Esa victoria le dio esperanzas de proclamarse como los campeones directos, pero finalmente no sucedió.
-
-![Jeison Medina es el goleador de Independiente del Valle en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/goles_idv_2-1024x683.jpg)
-
-API.
-
-Los goles de Independiente
---------------------------
-
-En su casa, IDV anotó 36 goles y recibió 10, **es decir, anotó 2,4 goles por partido** con lo que se quedaría con las manos vacías y no le alcanzaría para darle vuelta al marcador de la final de ida.
-
-Si tomamos en cuenta la cantidad de minutos reglamentarios (90) y se los multiplica por los 15 partidos en casa (1 350), y se divide para el número de goles (36), los de Javier Gandolfi necesitan 37,5 minutos para vencer el arco contrario, con lo que tampoco le alcanzaría para empatar la final.
-
-Otro dato que destaca es que en seis de los 15 juegos anotó tres o más goles, pero lo hizo **ante equipos como Cumbayá e Imbabura, los dos descendidos**; Libertad, que se salvó en la última fecha; y Macará, que navegó en la parte baja de la tabla.
-
-**Universidad Católica, clasificada a la Copa Sudamericana**, fue uno de los equipos que estaba en la parte alta de la tabla que recibió cinco goles de los del Valle.
-
-El otro fue Barcelona SC. Los guayaquileños, clasificados a la fase dos de la Copa Libertadores**, salieron derrotados por 3-1** con goles de Luis Zárate, Renzo López y Alexander Bolaños, hoy Romario Bolaños por haberse comprobado que adulteró sus documentos de identidad.
-
-Independiente del Valle en casa
--------------------------------
-
-**3-1 vs. Barcelona SC  
-3-0 vs. Cumbayá  
-**1-1 vs. Aucas  
-**3-0 vs. Libertad  
-**2-1 vs. Mushuc Runa  
-1-0 vs. Deportivo Cuenca  
-1-1 vs. Liga de Quito  
-1-0 vs. Orense  
-1-2 vs. Delfín  
-1-0 vs. Técnico Universitario  
-2-1 vs. Emelec  
-**5-2 vs. Universidad Católica  
-3-1 vs. Imbabura  
-**2-0 vs. El Nacional  
-**7-0 vs. Macará**
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/goles_idv_3-1024x683.jpg)
-
-API.
-
-San viernes
------------
-
-El Liverpool queda a un paso de octavos de Champions
-====================================================
-
-El Liverpool venció al Girona y suma un puntaje casi perfecto en la UEFA Champions League que lo deja a un paso de los octavos.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Mohamed Salah celebra un gol con Liverpool ante el Girona en Champions.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-10T185258.436.jpg)
-
-El **Liverpool** se afianzó este martes en el liderato de la Liga de Campeones al sumar el pleno de victorias, seis de seis, gracias a un único gol de **Mohamed Salah** desde los once metros que deja contra las cuerdas al Girona (0-1), que está obligado a conseguir la gesta de vencer al Milan a domicilio y al Arsenal en casa para soñar con jugar las eliminatorias de la competición.
-
-El equipo de **Arne Slot**, también líder indiscutible de la **Premier League**, reivindicó su condición de equipo más en forma del continente con un nuevo triunfo, aunque tuvo que sufrirlo porque el conjunto de Míchel Sánchez firmó una actuación sólida.
-
-### Más noticias:
-
-* [Premier League suspende a árbitro por insultar al Liverpool y Klopp](https://www.elcomercio.com/deportes/futbol/premier-league-suspende-a-arbitro-por-insultar-al-liverpool-klopp.html "Premier League suspende a árbitro por insultar al Liverpool y Klopp")
-* [Piero Hincapié y Leverkusen vencen al Inter de Milán en Champions](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-champions.html "Piero Hincapié y Leverkusen vencen al Inter de Milán en Champions")
-* [Willian Pacho y PSG vuelven a la victoria en la Champions League](https://www.elcomercio.com/deportes/futbol/willian-pacho-psg-vuelven-a-la-victoria-en-la-champions-league.html "Willian Pacho y PSG vuelven a la victoria en la Champions League")
-
-Solo le faltó el gol, su gran asignatura pendiente esta temporada, al equipo catalán, que lamentó la tercera derrota y el tercer partido sin ver portería en una semana, contra el Logroñés (0-0), el **Real Madrid** (0-3) y el **Liverpool** (0-1), y ya son once encuentros sin marcar, además de registrar cinco derrotas en seis jornadas en la Liga de Campeones[.](https://es.wikipedia.org/wiki/Liverpool_Football_Club "https://es.wikipedia.org/wiki/Liverpool_Football_Club")
-
-El partido comenzó con un dominio absoluto del Liverpool, que no se plasmó en el electrónico por gracia de **Paulo Gazzaniga**. En el minuto 4, salvó a su equipo al desviar un cabezazo de Joe Gomez a saque de esquina y en el minuto 7 neutralizó de puños un disparo de Darwin Núñez.
-
-El equipo inglés dominaba a placer y era dueño y señor del duelo ante un Girona que no se asomó al área hasta los 12 minutos. Pero cuando lo hizo perdió el miedo al rival y empezó a creerse sus opciones. Daley Blind, solo en la frontal del área pequeña, no supo rematar bien un centro de **Miguel Gutiérrez**, mientras que Alejandro Francés recogió el rechace y buscó el gol, pero se topó con una parada providencial de Alisson Becker.
-
-El Girona supo aguantar y propuso ante el Liverpool
----------------------------------------------------
-
-Esa primera ocasión dio vida a los jugadores de Míchel, que ganaron metros y comenzaron a disputar la posesión y a frecuentar el área rival. **Bryan Gil** se plantó solo ante el guardameta, pero se resbaló en el peor momento y cuando recuperó la verticalidad ya tenía un gigante encima, **Alisson**.
-
-El portero brasileño, de nuevo titular en la Champions tras tres ausencias por lesión, también evitó la alegría del Girona con una parada providencial a un chut de Miguel. El partido se jugaba de tú a tú y los dos grandes protagonistas eran los porteros: un argentino y un brasileño.
-
-**Gazzaniga** se vistió de héroe otra vez para imponerse a Núñez en un uno contra uno después de un pase de Salah, y Alisson voló para enviar a córner un gran disparo desde la frontal de **Yáser Asprilla**, mediapunta en el 4-4-1-1 gerundense.
-
-Míchel optó por primera vez por colocar a **Arnaut Danjuma** como delantero referencia, ante la falta de gol de Bojan Miovski, ahora baja por lesión, y Abel Ruiz, así como la edad de Cristhian Stuani.
-
-Mohamed Salah y un penal impulsaron al Liverpool en Champions
--------------------------------------------------------------
-
-El Girona, de menos a más, había firmado sus mejores minutos en la **Liga de Campeones** y regresó de los vestuarios con la misma ambición. A los 20 segundos **Danjuma** puso en pie a todo Montilivi con una gran jugada, pero su remate, muy centrado, se estrelló en el cuerpo de Alisson. Poco después el neerlandés dejó atrás a media defensa ‘red’ con una carrera sensacional hasta llegar al área, pero falló al chutar. El estadio aplaudía.
-
-Pero el **Liverpool** seguía amenazando con su poderío ofensivo. Gazzaniga despejó a saque de esquina un tiro de Andrew Robertson, pero el córner no se llegó a sacar. El VAR avisó al colegiado de un posible penalti de Donny van de Beek sobre **Luis Díaz y Benoit Bastien** no dudó.
-
-Salah engañó a **Gazzaniga** y celebró el 1-0 con un lanzamiento a su derecha. El Girona maldecía su mala suerte en su estreno en la **Champions**: cuatro autogoles, dos penaltis en contra y un penalti a favor fallado en seis partidos. No dejó de pelear, pero no logró acercarse al empate.
-
-El equipo de **Míchel** fue un rival más que digno y Montilivi, estadio de Segunda División hace tres años, aplaudió a sus jugadores tras un partido para ilusionarse, pero, con solo tres puntos de 18 posibles, para continuar soñando en la Champions hará falta una gesta.
-
-Alineaciones Girona vs. Liverpool
+Críticas a los aranceles de Trump
 ---------------------------------
 
-0 – **Girona**: Gazzaniga; Alejandro Francés, Juanpe, Krejci, Blind (Solís, min. 76); Bryan Gil (Portu, min. 71), Van de Beek (Iván Martín, min. 76), Oriol Romeu, Miguel; Asprilla; y Danjuma (Stuani, min. 71).
+Biden también criticó la **intención de Trump de imponer aranceles** y otras políticas como el gravamen del 25 % que ha amenazado con aplicar a **Canadá y México** si no frenan el tráfico de drogas y la inmigración irregular, o las tasas de hasta el 60 % para productos chinos.
 
-1 – **Liverpool**: Alisson Becker; Alexander-Arnold, Gomez, Van Dijk, Robertson; Szoboszlai, Gravenberch, Jones (Elliott, min. 76); Salah, Núñez (Gakpo, min. 71) y Luis Díaz (Endo, min. 88).
+“Trump parece decidido a imponer **aranceles universales** elevados sobre todas las importaciones, creyendo equivocadamente que serán los países extranjeros quienes asuman el coste, en lugar de los consumidores estadounidenses. ¿Quiénes creen que acabarán pagando? **Es un grave error**”, aseguró Biden.
 
-Orense se desprende de dos jugadores históricos
-===============================================
+Adulto mayor falleció tras ser liberado de un secuestro en Guayaquil
+====================================================================
 
-Orense debutó en la Liga Pro Serie A en el 2020. Seis años más tarde jugará la Sudamericana.
---------------------------------------------------------------------------------------------
+Adulto mayor secuestrado en Guayaquil es rescatado por la Policía, pero falleció después debido a complicaciones en su salud.
+-----------------------------------------------------------------------------------------------------------------------------
 
-![Richard Calderón (i) celebra con sus compañeros de Orense un gol marcado en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/orense_jugadores_1.jpg)
+![Adulto mayor al momento de ser rescatado por miembros de la Policía Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-11T131404.866.jpg)
 
-**Orense** recordará la campaña 2024 como la mejor de sus las cinco que jugó en la Primer División de Ecuador. En el 2020 ascendió a la Liga Pro Serie A y poco a poco se va estabilizando con buenos resultados.
+Un **adulto mayor de 90 años**, quien había sido secuestrado en el sur de **Guayaquil**, falleció este miércoles tras ser liberado por la **Policía Nacional**. La víctima, que padecía **varias afecciones médicas**, fue encontrada debilitada en una casa donde **permanecía retenida contra su voluntad**.
 
-El ascenso de Orense es sostenido y con un proyecto que da mucha importancia a los jugadores que surgen en sus canteras. Hasta el **2017 militaban en la Segunda Categoría de El Oro**, y el 2018 y 2019 en la Liga Pro Serie B.
+### Más noticias
+
+* [Demuelen 10 viviendas ‘diseñadas para secuestrar’, en un operativo en Durán](https://www.elcomercio.com/actualidad/seguridad/demuelen-10-viviendas-disenadas-para-secuestrar-en-un-operativo-en-duran.html "Demuelen 10 viviendas ‘diseñadas para secuestrar’, en un operativo en Durán")
+* [Pedro Pablo Perlaza contó la experiencia de su secuestro](https://www.elcomercio.com/deportes/pedro-pablo-perlaza-secuestro-experiencia.html "Pedro Pablo Perlaza contó la experiencia de su secuestro")
+* [Tres sentenciados por secuestro extorsivo en Guayaquil ¿Cuál fue la pena?](https://www.elcomercio.com/actualidad/seguridad/tres-sentenciados-secuestro-extorsivo-guayaquil-pena.html "Tres sentenciados por secuestro extorsivo en Guayaquil ¿Cuál fue la pena?")
+
+El secuestro ocurrió el pasado 6 de diciembre, cuando el hombre estaba frente a su **vivienda en la calle García Goyena**.
+
+Sujetos encapuchados descendieron de un vehículo negro y lo llevaron con rumbo desconocido. La familia, angustiada, **rogó por su liberación explicando que el adulto mayor sufría de múltiples dolencias**, pero los secuestradores exigieron una alta suma de dinero para devolverlo.
+
+Operativo de rescate y hallazgo
+-------------------------------
+
+La **Dirección Nacional de Investigación de delitos contra la vida**, muertes violentas, desapariciones, secuestros y extorsión **(Dinased)** lideró el operativo denominado **‘Libertad 792’**.
+
+Personal de la **Unidad Antisecuestros y Extorsivos (UNASE)** desplegó técnicas investigativas para localizar a la víctima, identificando una vivienda de dos plantas como el l**ugar de cautiverio**.
+
+> [#Guayaquil](https://twitter.com/hashtag/Guayaquil?src=hash&ref_src=twsrc%5Etfw), la [#UNASE](https://twitter.com/hashtag/UNASE?src=hash&ref_src=twsrc%5Etfw), en un impresionante operativo logró la liberación de una persona de la tercera edad, por la que los secuestradores exigían 100 mil dólares. Lamentablemente el anciano habría fallecido. [pic.twitter.com/vD2K1gG9Ee](https://t.co/vD2K1gG9Ee)
+> 
+> — SomosEstrategia (@SomosEstrategia) [December 11, 2024](https://twitter.com/SomosEstrategia/status/1866899329606177138?ref_src=twsrc%5Etfw)
+
+En el inmueble, los agentes encontraron al **hombre amarrado a su silla de ruedas** en una habitación, con un trapo en la boca, sin los cuidados que una persona adulta mayor debe tener. Durante la incursión, las autoridades aprehendieron a seis personas, entre ellas Josué M. C. **(22), Magdalena C. Q. (30), Carmen C. Q. (28), Mariela H. B. (32), Eddy F. A. (30) y Ricardo Z. C. (19). Además, se incautaron siete teléfonos móviles y un vehículo.**
+
+Independiente del Valle no le gana a Liga de Quito en 30 meses
+==============================================================
+
+Liga de Quito guarda un invicto de más de dos años ante Independiente del Valle de cara a la final de vuelta de la Liga Pro 2024.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Jugadores de Liga de Quito celebran uno de los goles en la final de ida de la Liga Pro ante Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-11T114339.298.jpg)
+
+**Liga de Quito** tendrá su último partido del 2024 ante Independiente del Valle en la final de vuelta de la Liga Pro. Tras sacar ventaja en el cotejo de ida al imponerse por un marcador de 3-0, otro factor favorable se le suma y es el que no ha perdido con **Independiente del Valle** en sus dos últimas temporadas.
+
+El sábado 14 de diciembre del 2024 a las 15:30, albos y rayados jugarán el duelo que definirá al campeón de la vigente temporada. El cotejo se llevará a cabo en el estadio de **Independiente del Valle**, aunque el **Rodrigo Paz Delgado** abrirá sus puertas a los hinchas albos para que también presencien el evento a la distancia.
 
 ### Más noticias:
 
-* [Premier League toma drástica decisión por escándalo arbitral](https://www.elcomercio.com/deportes/futbol/david-coote-expulsion-premier-league.html "Premier League toma drástica decisión por escándalo arbitral")
-* [Liga de Quito y la Segunda Etapa: ¿El camino seguro al título de Liga Pro?](https://www.elcomercio.com/deportes/liga-pro-campeones-ganadores-segunda-etapa.html "Liga de Quito y la Segunda Etapa: ¿El camino seguro al título de Liga Pro?")
-* [Cristian Erbes rechazó a Emelec por la B de Argentina](https://www.elcomercio.com/deportes/futbol/cristian-erbes-emelec-argentina-ligapro.html "Cristian Erbes rechazó a Emelec por la B de Argentina")
+* [Independiente tendrá casa llena para su revancha con Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-tendra-casa-llena-para-su-revancha-con-liga-de-quito.html "Independiente tendrá casa llena para su revancha con Liga de Quito")
+* [Liga de Quito ganó un título cada 20 meses en 24 años](https://www.elcomercio.com/deportes/futbol/liga-quito-titulos-nacional-internacional.html "Liga de Quito ganó un título cada 20 meses en 24 años")
+* [Carlos Gruezo entrena con Liga de Quito previo a la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/carlos-gruezo-entrena-con-liga-de-quito-previo-a-la-final-de-liga-pro.html "Carlos Gruezo entrena con Liga de Quito previo a la final de Liga Pro")
 
-Orense se afianza en la A
--------------------------
+El duelo se llevará después de ocho cotejos desde la última vez que **Liga de Quito** cayó ante la escuadra rayados. Desde el 2 de mayo del 2022, en la primera etapa de la Liga Pro, el cuadro de Sangolquí no ha podido volver a vencer a sus rivales.
 
-Como todo equipo que asciende, Orense tuvo una primera campaña en la A en la que **luchó en la parte baja de la tabla**, pero sosteniendo la categoría para no convertirse en un equipo de los denominados ‘ascensores’.
+En medio de tal etapa, la ‘U’ y el ‘Matagigantes’ también disputaron una **final en 2023**. En aquella oportunidad, ambos clubes igualaron y definieron en penales, donde Liga de Quito salió campeón. La nueva final la disputarán a un año seguido de ello.
 
-En el 2020 terminaron en la casilla 14 con 30 puntos. Ganaron seis juegos, empataron 13, perdieron 11, **anotaron 27 goles y recibieron 46 para un gol diferencia de -19**. Liga de Portoviejo y El Nacional perdieron la categoría.
+El invicto de Liga de Quito en las dos últimas temporadas y media
+-----------------------------------------------------------------
 
-En el 2021 mostraron una leve mejoría y escalaron a la casilla 13 en la tabla de posiciones acumulada con 31 puntos; **en el 2022 subieron al puesto nueve con 36 unidades**; y en el 2023 bajaron al décimo, pero con 37 puntos.
+Dentro de sus ocho partidos previos ante **Independiente del Valle**, antes de la final de vuelta que jugará, Liga de Quito cuatro victorias y la misma cantidad de empates. A su vez, el conjunto albo tuvo hasta tres entrenadores en los enfrentamientos y el rayado a dos.
 
-En el 2024 todo ese camino obtuvo su máximo tope de rendimiento. Con 40 puntos aseguraron el octavo puesto y lograron uno de los **cuatro cupos con los que cuenta el país para la Copa Sudamericana**.
+Por la ‘U’ pasaron **Luis Zubeldía, Josep Alcácer** y el actual **DT Pablo ‘Vitamina’ Sánchez**. El primero fue el que más cotejos tuvo contra los rayados.
 
-Dos históricos no siguen en Orense
-----------------------------------
+**Zubeldía** igualó 2-2 en la segunda etapa del 2022. Tras ello venció 2-3 y 2-0 en las dos rondas del 2023 y luego consiguió los dos empates en las finales que dirimieron a Liga de Quito como campeón por penales[.](https://en.wikipedia.org/wiki/L.D.U._Quito "https://en.wikipedia.org/wiki/L.D.U._Quito")
 
-Para la temporada 2025, Orense empieza a delinear el plantel de jugadores que estarán al mando del colombiano Santiago ‘Sachi’ Escobar, el responsable técnico que encaminó a los del sur del país a su primer torneo internacional.
+**Alcácer** solo disputó un compromiso y logró empatar por 1-1 en la ronda inicial de 2024. ‘**Vitamina**‘ venció como visitante 0-1 y luego volvió a repetir el triunfo en la primera final de la vigente temporada de Liga Pro.
 
-En las últimas 24 horas, a través de sus redes sociales oficiales, anunciaron que los **ecuatorianos Richard Calderón y José Miguel Andrade** no seguirán en el plantel y darán espacio para nuevas incorporaciones.
+**Javier Gandolfi**, actual DT de Independiente del Valle no ha podido imponerse. En los duelos previos de los albos ante los rayados, el entrenador que estuvo los cinco partidos anteriores sin ganar fue Martín Anselmi, aunque antes sí había vencido.
 
-Según Trasnfermarkt, Calderón en el 2024, entre la Liga Pro y la Copa Ecuador, jugó 22 partidos, no anotó goles, recibió cinco tarjetas amarillas y acumuló 863 minutos.
+El último triunfo de Independiente del Valle
+--------------------------------------------
 
-El mediocampista llegó en el 2022 desde Macará. En total intervino en **72 encuentros, anotó siete goles, entregó ocho asistencias**, recibió 17 tarjetas amarillas, una vez fue expulsado y sumó 3 562 minutos.
+La última vez que Independiente del Valle venció a Liga de Quito fue el 2 de mayo del 2022. Aquel partido fue en el que **Anselmi** consiguió triunfar ante el cuadro de Ponceano y el cotejo correspondió a la primera etapa de la Liga Pro.
 
-En su hoja de vida consta haber defendido las camisetas de Liga de Quito, Delfín, **Macará, Universidad Católica, Deportivo Quito** y Barcelona.
+Los rayados vencieron de locales con un marcador de 1-0. El tanto llegó debido a un autogol del arquero **Gonzalo Falcón**.
 
-![Richard Calderón.](https://www.elcomercio.com/wp-content/uploads/2024/12/orense_jugadores_3-1024x683.jpg)
+¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?
+=====================================================================
 
-Richard Calderón.
+El Gobierno Nacional agilizó el acceso al seguro de desempleo para afiliados del IESS afectados por la crisis económica y energética en Ecuador.
+------------------------------------------------------------------------------------------------------------------------------------------------
 
-El 2024 de Andrade se resume en 21 partidos, dos goles, tres tarjetas amarillas y 448 minutos entre la Liga Pro y la Copa Ecuador.
+![El seguro de desempleo se solicita en la página web del IESS.](https://www.elcomercio.com/wp-content/uploads/2024/12/iess-1112.jpg)
 
-También fue contratado en el 2022 y se marchó con 70 partidos, 10 goles, cuatro asistencias, 12 tarjetas amarillas, una roja y 2 653 minutos jugados.
+El **Gobierno Nacional** implementó nuevas medidas para garantizar que los **trabajadores desempleados** puedan acceder al **seguro de desempleo** de una forma más rápida en medio de la **crisis energética** y económicas por la que atraviesa el Ecuador.
 
-Universidad Católica, Deportivo Quito, Liga de Portoviejo, Espoli, América, Cumbayá y Olmedo en Ecuador, más **Deportivo Municipal, Sport Rosario y Cienciano de Perú**, son los equipos en los que militó a sus 31 años de edad.
+### Más noticias
 
-![José Miguel Andrade.](https://www.elcomercio.com/wp-content/uploads/2024/12/orense_jugadores_2-1024x683.jpg)
+* [Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios](https://www.elcomercio.com/actualidad/negocios/ley-de-alivio-financiero-en-ecuador-puntos-clave-y-fecha-de-acceso-a-los-mas-de-20-beneficios.html "Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios")
+* [Presidente Daniel Noboa envía Ley de alivio financiero al Registro Oficial ¿Qué propone?](https://www.elcomercio.com/actualidad/negocios/ley-alivio-financiero-trata-segundo-debate-estas-son-las-principales-propuestas.html "Presidente Daniel Noboa envía Ley de alivio financiero al Registro Oficial ¿Qué propone?")
+* [‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-tomara-accion-si-publica-ley-antipillos.html "‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales")
 
-José Miguel Andrade.
+La modificación consta en la nueva ley de **alivio financiero**, que entró en vigor con la publicación del Registro Oficial, el 9 de diciembre de 2024. La normativa está dirigida a los afiliados del Instituto Ecuatoriano de Seguridad Social (IESS), que cumplan ciertos requisitos específicos.
 
-San viernes
------------
+Requisitos para acceder al seguro de desempleo
+----------------------------------------------
+
+* Para ser elegible, los trabajadores deben haber perdido su trabajo entre noviembre y diciembre de 2024, y enero y febrero de 2025.
+* Deben acumular, al menos, 24 aportaciones al IESS, de las cuales seis deben ser continuas e inmediatas antes del inicio de su situación de desempleo.
+* Deben encontrarse desempleados por un periodo no menor a diez días.
+* Presentar la solicitud dentro de los 90 días posteriores al registro del aviso de salida por parte del empleador.
+* Verificar que el empleador registró el aviso de salida en el IESS.
+* No ser jubilados.
+
+Proceso para solicitar el seguro de desempleo
+---------------------------------------------
+
+El proceso para solicitar el seguro de desempleo es sencillo y se realiza de manera virtual. Los solicitantes deben ingresar a la [plataforma en línea del IESS](https://www.iess.gob.ec/afiliados/ "https://www.iess.gob.ec/afiliados/"), con su usuario y clave. Luego deben seleccionar la opción **Seguro de desempleo**.
+
+Allí, debe completar el formulario y enviar la solicitud. Una vez aprobada, los pagos se realizarán de forma automática y mensual a la cuenta bancaria registrada, dentro de un plazo máximo de 30 días hábiles.
+
+El seguro de desempleo no solo ofrece un **alivio financiero inmediato**, sino que también asegura la continuidad económica de las familias afectadas, señaló el Gobierno.
+
+Monto y duración del seguro del desempleo
+-----------------------------------------
+
+El monto y la duración del seguro del desempleo no se han modificado. Es decir, los afilados cesantes (sin trabajo) recibirán el seguro de desempleo por cinco meses. El monto corresponde del 70% al 50% del promedio del salario de los últimos 12 meses de trabajo.
+
+En caso de no cumplir con los requisitos temporales, se aplicarán las normas generales de la Ley de Seguridad Social. Es decir, haber cumplido 60 días (dos meses) sin empleo y registrar la solicitud del seguro de desempleo a partir del día 61 días de estar cesante, hasta un plazo máximo de 45 días posteriores, es decir, 106 días de desempleo.
+
+Ecuador y Chile firmaron un convenio de cooperación consular
+============================================================
+
+Las Cancillerías de Ecuador y Chile suscribieron un nuevo acuerdo de cooperación para brindar asistencia y protección a sus ciudadanos.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Representantes de Chile y Ecuador durante la firma del convenio en Quito](https://www.elcomercio.com/wp-content/uploads/2024/12/ecuador-chile-convenio.jpg)
+
+Las Cancillerías de **Ecuador** y **Chile** suscribieron un nuevo **acuerdo de cooperación** este miércoles 11 de diciembre de 2024.
+
+### Más noticias
+
+* [Daniel Noboa asegura que hubo un coche bomba cerca de un acto en Machala](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-coche-bomba-cerca-acto-machala.html "Daniel Noboa asegura que hubo un coche bomba cerca de un acto en Machala")
+* [Asamblea Nacional tiene juicios políticos pendientes por tramitar](https://www.elcomercio.com/actualidad/politica/juicios-politicos-pendientes-asamblea-nacional.html "Asamblea Nacional tiene juicios políticos pendientes por tramitar")
+* [Daniel Noboa anunció el fin de los apagones en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-anuncio-fin-apagones-ecuador.html "Daniel Noboa anunció el fin de los apagones en Ecuador")
+
+La firma del convenio se dio en el marco de la **I Reunión de Consultas Políticas** realizada en Quito. El evento contó con la participación del vicecanciller ecuatoriano **Jaime Barberis** y la subsecretaria de Relaciones Exteriores de Chile, **Gloria de la Fuente**.
+
+Asistencia y protección consular
+--------------------------------
+
+Según detalló la Cancillería de Ecuador, el acuerdo establecerá un **mecanismo de colaboración** para la **asistencia y protección consular** a nacionales ecuatorianos y chilenos en aquellos países que uno de los estados no cuente con representación.
+
+Esto quiere decir, que los ecuatorianos ahora podrán acceder a **servicios diplomáticos** en más países, donde Chile tenga sus sedes internacionales; y viceversa[.](https://www.cancilleria.gob.ec/ "https://www.cancilleria.gob.ec/")
+
+> En el marco de la I Reunión de Consultas Políticas entre Ecuador y Chile, se suscribieron tres importantes instrumentos que consolidan la cooperación bilateral:  
+>   
+> 1️⃣ \*Acuerdo Interinstitucional de Cooperación Consular:\* Un compromiso clave para fortalecer la asistencia consular… [pic.twitter.com/y72hGtCHzt](https://t.co/y72hGtCHzt)
+> 
+> — Cancillería del Ecuador 🇪🇨 (@CancilleriaEc) [December 10, 2024](https://twitter.com/CancilleriaEc/status/1866615448793764109?ref_src=twsrc%5Etfw)
+
+Otros temas abordados en la reunión
+-----------------------------------
+
+En el encuentro también se abordaron **otros temas**, entre ellos: políticos-diplomáticos, económicos y comerciales, cooperación, culturales y educativos, regionales y multilaterales.
+
+Asimismo, Ecuador presentó un listado de pedidos con **iniciativas de colaboración** y cooperación en distintas áreas.
+
+“Ambos países reafirmaron su compromiso con valores compartidos como el respeto al **Estado de Derecho**, el multilateralismo y la solución pacífica de controversias”, indicó la Cancillería ecuatoriana en un comunicado.
+
+“Este importante mecanismo de Consultas Políticas, beneficiará a las relaciones de amistad y cooperación que mantenemos, que se cimentan en la voluntad política por fomentar un diálogo productivo sobre los temas que ocupan nuestro portafolio de interés compartido”, añadió **Jaime Barberis**.
+
+Invitación a Gabriel Boric y entrega de libros ecuatorianos
+-----------------------------------------------------------
+
+El funcionario reiteró la invitación para que el presidente chileno, **Gabriel Boric**, visite Ecuador en una nueva agenda.
+
+Al finalizar, tras suscribir el acta de la I Reunión de Consultas Políticas; Ecuador entregó una donación de **183 libros de autores nacionales** para la biblioteca de la Cancillería chilena. _**Con información de EFE**_.
+
+Independiente apela a la mística para remontar a Liga de Quito
+==============================================================
+
+Independiente del Valle enfrenta un reto monumental para coronarse campeón de la Liga Pro 2024.
+-----------------------------------------------------------------------------------------------
+
+![Richard Schunke es uno de los líderes de Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-11T124104.535.jpg)
+
+La derrota por 3-0 de I**ndependiente del Valle frente a Liga de Quito** en la final de ida de la Liga Pro 2024 dejó al equipo con mínimas posibilidades de consagrarse campeón. Sin embargo, los rayador han decidido creer en la hazaña y apuestan por darlo todo en la vuelta para revertir el marcador.
+
+A través de un emotivo video titulado **“Elijo creer”**, el club transmitió optimismo y confianza, dirigiendo un mensaje de esperanza tanto al equipo como a los aficionados.
+
+### Más noticias:
+
+* [Independiente tendrá casa llena para su revancha con Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-tendra-casa-llena-para-su-revancha-con-liga-de-quito.html "Independiente tendrá casa llena para su revancha con Liga de Quito")
+* [Independiente marca menos de tres goles por partido de local](https://www.elcomercio.com/deportes/futbol/independiente-valle-local-ligapro-goles.html "Independiente marca menos de tres goles por partido de local")
+* [Las tres piezas clave de Independiente del Valle para la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/tres-piezas-clave-independiente-del-valle-para-final-liga-pro.html "Las tres piezas clave de Independiente del Valle para la final de Liga Pro")
+
+El video muestra a diversos miembros del club, desde jugadores como Junior Sornoza hasta empleados, administrativos, cocineras y comunicadores, quienes comparten la misma fe en lograr lo que sería una de las remontadas más grandes en el fútbol ecuatoriano.
+
+**“Porque la remontada viene con sudor, esfuerzo y garra. Porque la Copa es posible cuando estamos Todos Juntos”**, señala el mensaje de texto que acompaña el video, en un claro llamado a la unión y la perseverancia.
+
+> Elijo Creer porque día a día hacemos que las cosas pasen.  
+> Elijo creer porque confío en mi equipo  
+> Elijo creer porque son mi familia  
+> Porque la remontada viene con sudor, esfuerzo y garra.  
+> Porque la 🏆 es posible cuando estamos TODOS JUNTOS.  
+> Somos [#UnClubDiferente](https://twitter.com/hashtag/UnClubDiferente?src=hash&ref_src=twsrc%5Etfw) [#ElijoCreer](https://twitter.com/hashtag/ElijoCreer?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Zk79w7YJ85](https://t.co/Zk79w7YJ85)
+> 
+> — Independiente del Valle (@IDV\_EC) [December 11, 2024](https://twitter.com/IDV_EC/status/1866649098339729764?ref_src=twsrc%5Etfw)
+
+Un reto sin precedentes
+-----------------------
+
+Para levantar el título, **Independiente del Valle** no solo debe superar a un rival sólido como Liga de Quito, sino también romper con la historia. Según datos de Aurelio Dávila, en tres finales del fútbol ecuatoriano hubo un marcador de 3-0 en alguno de los partidos, y en todas, el equipo que logró esa ventaja terminó coronándose campeón.
+
+De estas finales, solo una registró el 3-0 en el partido de ida:
+
+* **1988:** Emelec goleó 3-0 a Deportivo Quito en la ida y empató 1-1 en la vuelta para ser campeón.
+* **2005:** Liga de Quito perdió 1-0 la ida contra Barcelona SC, pero ganó 3-0 en la vuelta y se llevó el Apertura.
+* **2014:** Emelec empató 1-1 en la ida contra Barcelona SC y ganó 3-0 en la vuelta para llevarse el título.
+
+Romper esta tendencia será clave para que **Independiente** pueda escribir una nueva página en la historia del fútbol nacional.
+
+¿Cuándo se juega la revancha?
+-----------------------------
+
+La vuelta de la final está programada para el sábado 14 de diciembre de 2024, a las 15:30, en el **Estadio Banco Guayaquil, ubicado en Chillo Jijón**. Este partido definirá al campeón de la Liga Pro Serie A 2024 y promete ser un duelo emocionante lleno de intensidad.
+
+Mariah Carey gana y gasta una fortuna cada Navidad
+==================================================
+
+El villancico de Mariah Carey se convirtió en una fuente de ingresos inagotable.
+--------------------------------------------------------------------------------
+
+Cada noviembre, con el regreso de **All I Want for Christmas Is You**, **Mariah Carey** marca el inicio de la temporada navideña, consolidándose como la indiscutible ‘**Reina de la Navidad’.**
+
+### **Más noticias:**
+
+* [Mariah Carey, el secreto de su poderosa voz](https://www.elcomercio.com/tendencias/entretenimiento/mariah-carey-secreto-voz-poderosa.html "https://www.elcomercio.com/tendencias/entretenimiento/mariah-carey-secreto-voz-poderosa.html")
+* [Mariah Carey vivió un infierno con su madre y hermana](https://www.elcomercio.com/tendencias/entretenimiento/mariah-carey-violencia-familia-madre-hermana.html "https://www.elcomercio.com/tendencias/entretenimiento/mariah-carey-violencia-familia-madre-hermana.html") 
+* [Liam Payne y la controversia de la ‘cocaína rosa’](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html")
+
+**¿Cuándo se estrenó All I Want for Christmas Is You?**
+-------------------------------------------------------
+
+Esta icónica canción, lanzada en 1994, se convirtió en un fenómeno global que domina las listas de éxitos y las plataformas de ‘streaming’ durante las fiestas.
+
+Su pegajosa melodía y la poderosa voz de Carey, acompañadas de una letra que expresa el deseo de pasar las navidades junto a un ser querido, aseguran su lugar en la historia musical.
+
+**¿Cuántos años tiene All I Want for Christmas Is You?**
+--------------------------------------------------------
+
+Este año, **All I Want for Christmas Is You** celebra su aniversario número 30, un hito que refuerza su legado. Desde su lanzamiento, la canción no solo ha enamorado a millones de oyentes, sino que ha generado una fortuna considerable para su creadora.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDafWy2RLSU/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Mariah Carey (@mariahcarey)](https://www.instagram.com/reel/DDafWy2RLSU/?utm_source=ig_embed&utm_campaign=loading)
+
+**Mariah Carey gana una fortuna cada Navidad**
+----------------------------------------------
+
+Según cálculos de **The Economist**, entre 1994 y 2016, la canción reportó unos 60 millones de dólares a Carey, con un promedio anual de 2,6 millones.
+
+Sin embargo, las cifras actuales son aún más asombrosas. Cada temporada navideña, la canción genera aproximadamente 3 millones de dólares, sin contar los ingresos adicionales derivados de sus conciertos y especiales televisivos.
+
+Este año, Mariah Carey ampliará su impacto navideño con el tour ‘**Christmas Time’. Con su gira r**ecorrerá varias ciudades de Estados Unidos, incluyendo Los Ángeles, Houston y Brooklyn.
+
+La gira promete ser otro éxito rotundo para la artista, que sigue dominando la época navideña con su inconfundible estilo.
+
+**La ‘Reina de la Navidad’ también gasta una fortuna en diciembre**
+-------------------------------------------------------------------
+
+**Mariah Carey** coloca cuatro árboles muy lujosos en **Navidad** que combinan decoraciones llenas de luces y color. El principal alcanza los cinco metros de alto; ese está adornado con luces blancas.
+
+Además, realiza un sinnúmero de reuniones con **amigos** y seres queridos. “La **Navidad** es la época más divertida. Empiezo a esperarla incluso antes de que llegue el verano”, dijo Mariah Carey en una entrevista.
+
+Daniel Noboa asegura que hubo un coche bomba cerca de un acto en Machala
+========================================================================
+
+El presidente Daniel Noboa asistió al evento de firma para la construcción de la vía Primavera, en Machala.
+-----------------------------------------------------------------------------------------------------------
+
+![El presidente Daniel Noboa estuvo en un acto en Machala.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-21.jpg)
+
+El presidente **Daniel Noboa** se refirió este miércoles 11 de diciembre a un **coche bomba** que se habría detectado cerca de un evento al que acudió, en Machala.
+
+### Más noticias
+
+* [17 años de cárcel por terrorismo para seis miembros de Los Lobos](https://www.elcomercio.com/actualidad/seguridad/17-anos-de-carcel-terrorismo-para-seis-miembros-los-lobos.html "17 años de cárcel por terrorismo para seis miembros de Los Lobos")
+* [La migración irregular de ecuatorianos disminuyó, según Cancillería](https://www.elcomercio.com/actualidad/ecuador/migracion-irregular-ecuatorianos-disminuyo-segun-cancilleria.html "La migración irregular de ecuatorianos disminuyó, según Cancillería")
+* [Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro](https://www.elcomercio.com/actualidad/seguridad/ministerio-defensa-despliegue-militares-el-oro.html "Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro")
+
+El hallazgo del coche bomba
+---------------------------
+
+Elementos de la Policía Nacional detectaron un **coche bomba** abandonado cerca de las inmediaciones adonde el presidente Daniel Noboa debía asistir.
+
+Al sitio acudieron elementos del **Grupo de Intervención y Rescate** (GIR) para desactivar el artefacto explosivo.
+
+Daniel Noboa tenía previsto asistir al evento de firma para la construcción de l**a vía Primavera,** en Machala.
+
+El hallazgo se dio durante l**a noche del martes 10 de diciembre**. Los moradores alertaron a la Policía tras detectar movimientos inusuales en la vía.
+
+Según los testigos, sujetos no identificados abandonaron un **auto Chevrolet Sail rojo** con fundas de lo que parecían ser explosivos dentro.
+
+Las autoridades activaron el protocolo tras la alerta. Elementos capacitados se acercaron con ayuda de un **can para detectar el explosivo.**
+
+Investigaciones comprobaron que el **auto había sido reportado como robado** y que habría sido abandonado en la vía durante la noche del martes.
+
+La unidad antiexplosivos a cargo confirmó que en el interior del vehículo había **alrededor de 10 tacos de dinamita.**
+
+> DETONACIÓN CONTROLADA DE EXPLOSIVOS EN EL ORO  
+>   
+> Tras alerta del [#ECU911](https://twitter.com/hashtag/ECU911?src=hash&ref_src=twsrc%5Etfw) en Machala, [#ElOro](https://twitter.com/hashtag/ElOro?src=hash&ref_src=twsrc%5Etfw) de un vehículo abandonado con artefactos explosivos en su interior, [#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) mediante unidades especializadas realizó la extracción de 10 emulsiones explosivas, que fueron trasladadas… [pic.twitter.com/kWfHYZHYEH](https://t.co/kWfHYZHYEH)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [December 11, 2024](https://twitter.com/PoliciaEcuador/status/1866875118900875327?ref_src=twsrc%5Etfw)
+
+Noboa asistió al evento pese a ‘amenazas’
+-----------------------------------------
+
+El presidente **Daniel Noboa** asistió al evento programado para este miércoles a pesar de lo ocurrido con el [coche bomba.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+En él, fue testigo de honor de la firma del **convenio de financiamiento** para la ampliación de 10,25 kilómetros de la vía La Primavera.
+
+Este convenio lo firmaron el ministro de Transporte, **Roberto Luque**, y el prefecto de El Oro, Clemente Bravo.
+
+Este proyecto contempla la ampliación de l**a vía a cuatro carriles** en el tramo desde el monumento al Aguador hasta la intersección con la vía El Cambio-La Iberia, en El Oro.
+
+Esta obra cuenta con una inversión de **20 millones de dólares** y beneficiará directamente a 300 000 habitantes.
+
+En el acto, Daniel Noboa se refirió al **coche bomba** como un **intento de amedrentarlo**, esto tras el despliegue militar que se realizó en El Oro.
+
+Agregó que no iba a dejar de asistir al evento por ese acto y que no dará ni un paso atrás. Además, advirtió a los grupos delincuenciales que **“si aparecen, se van a ganar un tiro”.**
+
+Daniel Noboa reforzó la seguridad en El Oro
+-------------------------------------------
+
+El presidente **Daniel Noboa** participó de un evento militar en **El Oro**, el martes 10 de diciembre de 2024. El mandatario aprovechó su presencia para referirse a la **seguridad** de la provincia.
+
+En el encuentro en el Fuerte Militar Chacras, ubicado en **Machala**, Noboa dispuso al Ministerio de Defensa que despliegue **2 406 efectivos** y **50 vehículos blindados** para el dispositivo de seguridad en El Oro.
+
+“Enciendan estos vehículos blindados, cumplan sus misiones y **recuperen la paz** de las y los ecuatorianos”, dijo Noboa.
+
+Quiteños donaron productos en las fiestas y se abren más centros de acopio
+==========================================================================
+
+La ciudadanía respondió al programa Dona con Corazón, que busca entregar 50 000 canastas para personas en situación de pobreza.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![En los eventos por las Fiestas de Quito, varios ciudadanos entregaron donaciones para personas en situación de pobreza en la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-80-1.jpg)
+
+Durante los diferentes eventos de las **Fiestas de Quito** del 2024, el Municipio capitalino pidió a los ciudadanos que se animaran a **donar productos para personas vulnerables.** Según el informe del cabildo quiteño, el plan **Dona con corazón** tuvo una buena acogida de parte de la ciudadanía. Los quiteños donaron miles de productos no perecederos y se abrieron más centros de acopio.
+
+### Más noticias
+
+* [Diciembre, el mes con más siniestros de tránsito en Quito](https://www.elcomercio.com/actualidad/quito/diciembre-mes-mas-siniestros-transito-quito.html "Diciembre, el mes con más siniestros de tránsito en Quito")
+* [Dos generadores eléctricos de 600 kW llegaron a Quito, ¿en qué se los utilizará?](https://www.elcomercio.com/actualidad/quito/generadores-electricos-quito-agua.html "Dos generadores eléctricos de 600 kW llegaron a Quito, ¿en qué se los utilizará?")
+* [Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025](https://www.elcomercio.com/actualidad/quito/concejo-aprueba-presupuesto-quito-2025.html "Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025")
+
+Donación de productos, en las Fiestas de Quito
+----------------------------------------------
+
+Una de las **consignas** del Municipio de Quito fue que los asistentes **donaran alimentos y productos de higiene,** como si fueran la entrada para ingresar. Estas **donaciones de productos** se entregarán a personas en situación de vulnerabilidad.
+
+Según el último informe del Municipio, tanto en el **Quitofest**, como en **Chicha con Corbatín** y el **Festival del Pasacalle**, recibieron miles de productos no perecederos para entregar a los que los necesiten. Un total de **48 000 artículos** se entregaron de parte de quienes asistieron a dichos eventos en Quito.
+
+El programa se llama **Dona con corazón;** el objetivo es entregar **canastas solidarias a 50 000** personas y familias que viven bajo la línea de pobreza para esta Navidad.
+
+Dona con corazón pretende atender a **tres grupos prioritarios.** En uno de ellos, se encuentran personas en la pobreza extrema y que acuden a la **Unidad Patronato Municipal San José;**
+
+El segundo grupo corresponde a colectivos vinculados a las instituciones municipales, como **recicladores y trabajadoras sexuales.** Finalmente, el tercer grupo tiene a **comunidades rurales y barrios** que tiene **altos índices de pobreza.**
+
+Centros para acopio, se abren
+-----------------------------
+
+Desde el **martes 10 de diciembre del 2024,** se abrieron nuevos centros de acopio para que las personas que aún quieran donar productos para personas en **situación de pobreza**, lo puedan hacer. Los sitios elegidos son fundamentalmente los **centros comerciales de Quito** y algunos **espacios municipales**[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
+
+Centros comerciales para acopio de productos
+--------------------------------------------
+
+* Centro Comercial Iñaquito
+* El Bosque
+* El Recreo
+* El Jardín
+* Puruhá Shopping
+* Riocentro
+* Ventura Mall
+* Quicentro Sur
+* Granados Plaza
+* Portal Shopping
+* Plaza Doral
+
+Otros centros de acopio
+-----------------------
+
+* Comedor Comunitario de San Bartolo **(**Av. Ajaví y Huigra).
+* Oficinas de la UPMSJ (Chile y Benalcázar).
+* Parque Bicentenario**,** centro de acopio del Patronato.
+* Parque Cumandá, Mercado Mayorista y Administración Zonal Tumbaco.
+* Aeropuerto Mariscal Sucre.
+
+¿Qué entregar?
+--------------
+
+Lo fundamental es entregar productos no perecibles. Entre estos pueden ser atún, sardinas, arroz, quinua, fideos y aceite.
+
+Los productos para la higiene personal también serán bien recibidos. Papel higiénico, dentífricos, jabón, cepillos de dientes, champú, entre otros.
+
+* * *
+
+Ejército ecuatoriano abrirá inscripciones en enero de 2025
+==========================================================
+
+Los bachilleres tienen la opción de ser parte de las inscripciones en el Ejército ecuatoriano.
+----------------------------------------------------------------------------------------------
+
+![Militares en labores de seguridad en El Oro (Machala).](https://www.elcomercio.com/wp-content/uploads/2024/12/ejercito.jpg)
+
+El **Ejército** ecuatoriano abre una nueva convocatoria de **inscripciones** para sumar jóvenes a sus filas desde 2025. El proceso comenzará en 2025.
+
+El llamado está dirigido para bachilleres que quieran ser parte de tres escuelas de la **institución militar**.
+
+### Más noticias
+
+* [Ejército y SNAI trasladan a 1 193 personas privadas de la libertad a otras prisiones](https://www.elcomercio.com/actualidad/seguridad/snai-traslada-a-1-193-personas-privadas-de-la-libertad-a-otras-prisiones.html "Ejército y SNAI trasladan a 1 193 personas privadas de la libertad a otras prisiones")
+* [Daniel Noboa entregó al Ejército armas incautadas en operativo](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-entrego-ejercito-armas-incautadas-operativo.html "Daniel Noboa entregó al Ejército armas incautadas en operativo")
+* [Daniel Noboa entregó al Ejército armas incautadas en operativo](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-entrego-ejercito-armas-incautadas-operativo.html "Daniel Noboa entregó al Ejército armas incautadas en operativo")
+
+Inscripciones para el Ejército ecuatoriano
+------------------------------------------
+
+Entre el **6 de enero y el 15 de febrero** de 2025, tres escuelas militares recibirán las inscripciones a las personas interesadas en ser parte de estas. Se trata de **Esmil, Esforse y Eiwias**.
+
+La **Escuela Superior Militar Eloy Alfaro** está en Quito, con una formación tanto para hombres cuanto para mujeres. Los estudiantes consiguen el título en Licenciatura en Ciencias Militares. Dura cuatro años.
+
+En cambio, la **Escuela de Formación de Soldados del Ejército Vencedores del Cenepa (Esforse)** está en Ambato. El período de formación toma dos años y va dirigido para hombres.
+
+En lo que se refiere a la escuela [Iwias](https://eiwia.mil.ec/), el proceso está orientado a formar soldados nativos de la Amazonía. La institución está en la parroquia Shell, en **Pastaza**.
+
+El proceso para los aspirantes
+------------------------------
+
+Los aspirantes deben entregar los papeles en una carpeta. Este paso se lo debe hacer en las **unidades a escala nacional**.
+
+Entre los requisitos básicos están: **cédula de identidad** del aspirante y de los padres. Deben contar con el título de bachiller refrendado por el Ministerio de Educación.
+
+Del mismo modo, se deben incluir fotos de **perfil y de frente**, así como documentos que se publicarán en los próximos días en los canales oficiales del Ejército ecuatoriano.
+
+De no contar con este documento aún, se puede adjuntar un certificado que valide que cursa el último año de **bachillerato**.
+
+Elementos básicos para ser parte
+--------------------------------
+
+Los postulantes deben tener hasta **21 años** hasta la fecha del ingreso a la escuela militar. 
+
+No obstante, las personas deben estar **solteras y no tener hijos**. No podrán cambiar esa situación durante la formación militar.
+
+En el caso de la Esmil, la estatura mínima que se requiere es de 1,65 metros para hombres y 1,60 metros, en mujeres. Para quienes aspiran a ingresar a la **Esforse**, ese rango es de 1,63. Por otro lado, la escuela de Iwias, la talla mínima es de 1,60 metros.
+
+No obstante, uno de los pasos infaltables es llenar el [Registro Nacional](https://www.registrounicoedusup.gob.ec/) de la **Secretaría de Educación Superior, Ciencia, Tecnología e Innovación (Senescyt)**. Este se habilitó el 30 de noviembre y será hasta el 8 de diciembre de 2024.
+
+El proceso indispensable
+------------------------
+
+Para la admisión, los postulantes deberán rendir pruebas **físicas, de confianza y psicológicas**. En ese camino, además, deberán sustentar los méritos que deberán adjuntar.
+
+Entre los logros se contemplarán los **académicos, deportivos, culturales y militares**.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres ecuatorianas que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Elena Nájera hizo una solicitud a la presidenta del CNE, Diana Atamaint
+=======================================================================
+
+Consejera del CNE solicita la renuncia de su presidenta por presunto conflicto de intereses y falta de transparencia.
+---------------------------------------------------------------------------------------------------------------------
+
+![Elena Nájera y Diana Atamaint vocales del Consejo Nacional Electoral (CNE).](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-11T110709.847.jpg)
+
+La consejera del **Consejo Nacional Electoral (CNE), Elena Nájera**, envió un memorando oficial a la presidenta del organismo, **Diana Atamaint,** solicitando por tercera ocasión su renuncia a la dirección del Consejo.
+
+### Más noticias
+
+* [CNE indicó el avance en la impresión de papeletas para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-indico-avance-impresion-papeletas-elecciones-2025.html "CNE indicó el avance en la impresión de papeletas para las elecciones 2025")
+* [CNE inicia la impresión de papeletas para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-inicia-impresion-papeletas-elecciones-2025.html "CNE inicia la impresión de papeletas para las elecciones 2025")
+* [Vocales suplentes del CNE no pudieron ingresar a las instalaciones del órgano electoral](https://www.elcomercio.com/actualidad/politica/vocales-suplentes-cne-no-pudieron-ingresar-instalaciones-organo-electoral.html "Vocales suplentes del CNE no pudieron ingresar a las instalaciones del órgano electoral")
+
+Esta petición se fundamenta en presuntos **conflictos de intereses** que, según Nájera, podrían comprometer la transparencia e imparcialidad de las **Elecciones Generales de 2025**.
+
+Argumentos de Elena Nájera para pedir la renuncia de Diana Atamaint
+-------------------------------------------------------------------
+
+En el documento, Nájera hace referencia al “**Plan Nacional de Integridad Pública y Lucha contra la Corrupción**”, cuestionando la independencia de la presidenta del CNE debido al cargo que ocupa su hermano, Kar Atamaint Wampustar, como ministro **cónsul de Ecuador en Queens**, Estados Unidos.
+
+Este consulado se considera uno de los más relevantes para los migrantes ecuatorianos debido al gran número de electores en el exterior.
+
+La consejera indicó que este **no es el primer intento** por parte de ella para abordar la situación. Previamente, remitió memorandos los días **11 de octubre y 5 de noviembre de 2024**, en los cuales también solicitó la renuncia de la presidenta.
+
+Sin embargo, denuncia que sus pedidos han sido archivados sin recibir una **respuesta formal**.
+
+Llamado a la ética y la transparencia
+-------------------------------------
+
+En su pronunciamiento, Nájera enfatizó que la dimisión de Atamaint sería una señal de compromiso con la **transparencia y una garantía**.
+
+Asimismo, hizo un llamado a los **restantes consejeros y consejeras del CNE** para que se unan a su petición, instándolos a priorizar la ética y la independencia institucional.
+
+> [#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw)  
+>   
+> Para no comprometer la transparencia de las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw), conmino a la Pdta del [#CNE](https://twitter.com/hashtag/CNE?src=hash&ref_src=twsrc%5Etfw) a presentar su renuncia o, en su defecto, que su hermano deje el cargo que ostenta en el Consulado de Ecuador en Queens, Estados Unidos.  
+>   
+> Aquí mis argumentos ⤵️ [pic.twitter.com/oiDnPbSXkx](https://t.co/oiDnPbSXkx)
+> 
+> — Elena Nájera Moreira (@ElenaNajeraM) [December 11, 2024](https://twitter.com/ElenaNajeraM/status/1866855830609400312?ref_src=twsrc%5Etfw)
+
+“Siempre he sostenido que hay una línea muy fina entre lo **jurídico y lo ético**; aún más, cuando se ostenta un **alto cargo público**”, recalcó Nájera en el documento.
+
+La consejera insistió en que es momento de demostrar un **compromiso firme con la democracia**.
+
+El memorando también fue remitido a otros miembros clave del organismo. El vicepresidente del CNE, **Fernando Enrique Pita García,** y los consejeros **Ricardo Cabrera Zurita y Esthela Liliana Acebo Lanchimba**, también recibieron el mensaje.
