@@ -2,7 +2,7 @@
 
 [](https://firsthand.co/cart)
 
-[![Logo](/assets/images/logo/vaultLogoColor.png)](https://firsthand.co/welcome)
+[](https://firsthand.co/welcome)
 
 [Login](https://firsthand.co/login)
 
@@ -21,7 +21,7 @@
 
 * * *
 
-[![Logo](/assets/images/logo/vaultLogoColor.png)](https://firsthand.co/welcome)
+[](https://firsthand.co/welcome)
 
 Cookie Policy
 =============
@@ -113,7 +113,7 @@ At any time, we reserve the right to add to, modify or remove portions of our Co
 
 If you have questions regarding this Privacy Policy, would like to request more information from us, or would like to exercise a data privacy right or privilege, please contact us at any of the following: Firsthand, ATTN: Privacy Counsel, 132 West 31st Street, 16th Floor, New York, NY 10001**,** or 1-800-322-8755 or [privacy@firsthand.com](mailto:privacy@firsthand.com).
 
-[![Logo](/assets/images/logo/vaultLogoColor.png)](https://firsthand.co/welcome)
+[](https://firsthand.co/welcome)
 
 ![Tagline image](/_next/image?url=%2Fassets%2Fimages%2FTaglineImage.png&w=1080&q=75)
 
@@ -137,7 +137,7 @@ If you have questions regarding this Privacy Policy, would like to request more 
 
 **Our Business**
 
-[Contact Us](mailto:support@firsthand.co)
+Contact Us
 
 [Help Center](https://firsthandsupport.zendesk.com/hc/en-us/)
 
