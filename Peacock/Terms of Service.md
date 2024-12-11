@@ -20,7 +20,7 @@ These Terms of Service set out the agreement between you and Peacock regarding h
 
 For detailed information on how to cancel your subscription, see [Section 2.6](#ib-section-section-2) below.
 
-**BY USING THE PEACOCK SERVICE, YOU ACCEPT AND AGREE TO BE BOUND AND ABIDE BY THESE TERMS OF SERVICE AND OUR PRIVACY POLICY,** which describes our privacy practices in detail and is incorporated herein by reference. Please read them carefully.
+**BY USING THE PEACOCK SERVICE, YOU ACCEPT AND AGREE TO BE BOUND AND ABIDE BY THESE TERMS OF SERVICE AND OUR** [**PRIVACY POLICY,**](https://www.nbcuniversal.com/privacy?brandA=Peacock&intake=Peacock) which describes our privacy practices in detail and is incorporated herein by reference. Please read them carefully.
 
 **1\. Eligibility, Acceptance of Terms, and Registration**
 
