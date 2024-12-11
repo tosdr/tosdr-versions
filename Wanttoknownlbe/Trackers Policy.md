@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/vaccinatie-en-zelfbeschikkingsrecht/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/who-memos-1972-spreken-over-3-fase-vaccinatie-killers/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
