@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
-* [Elektronische Patienten­akte: Jetzt lieber aktiv werden](https://www.test.de/elektronische-Patientenakte-6165565-0/ "Elektronische Patientenakte - Jetzt lieber aktiv werden")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
+* [Immobilien­kredite: Diese Bedingungen bieten die Baufinanzierer](https://www.test.de/Immobilienkredite-Diese-Bedingungen-bieten-die-Baufinanzierer-6096433-0/ "Immobilienkredite - Diese Bedingungen bieten die Baufinanzierer")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Verletzungs­gefahr: Philips ruft Bügel­stationen zurück](https://www.test.de/Verletzungsgefahr-Philips-ruft-Buegelstationen-zurueck-6177922-0/ "Verletzungsgefahr - Philips ruft Bügelstationen zurück")
+* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
+* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
-* [Elektronische Patienten­akte: Jetzt lieber aktiv werden](https://www.test.de/elektronische-Patientenakte-6165565-0/ "Elektronische Patientenakte - Jetzt lieber aktiv werden")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
+* [Immobilien­kredite: Diese Bedingungen bieten die Baufinanzierer](https://www.test.de/Immobilienkredite-Diese-Bedingungen-bieten-die-Baufinanzierer-6096433-0/ "Immobilienkredite - Diese Bedingungen bieten die Baufinanzierer")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Verletzungs­gefahr: Philips ruft Bügel­stationen zurück](https://www.test.de/Verletzungsgefahr-Philips-ruft-Buegelstationen-zurueck-6177922-0/ "Verletzungsgefahr - Philips ruft Bügelstationen zurück")
+* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
+* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
-* [Elektronische Patienten­akte: Jetzt lieber aktiv werden](https://www.test.de/elektronische-Patientenakte-6165565-0/ "Elektronische Patientenakte - Jetzt lieber aktiv werden")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
+* [Immobilien­kredite: Diese Bedingungen bieten die Baufinanzierer](https://www.test.de/Immobilienkredite-Diese-Bedingungen-bieten-die-Baufinanzierer-6096433-0/ "Immobilienkredite - Diese Bedingungen bieten die Baufinanzierer")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Verletzungs­gefahr: Philips ruft Bügel­stationen zurück](https://www.test.de/Verletzungsgefahr-Philips-ruft-Buegelstationen-zurueck-6177922-0/ "Verletzungsgefahr - Philips ruft Bügelstationen zurück")
+* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
+* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Vivani-Schokoriegel](https://www.test.de/Verpackungsaerger-Vivani-Schokoriegel-5970152-0/ "Verpackungsärger - Vivani-Schokoriegel")
-* [Stand-up-Paddle-Boards im Test: Das Boarding klappt](https://www.test.de/Stand-up-Paddle-Boards-im-Test-Das-Boarding-klappt-6024484-0/ "Stand-up-Paddle-Boards im Test - Das Boarding klappt")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Krank auf Auslands­reise: Folgenreicher Tauchgang, Versicherung hilft](https://www.test.de/Krank-auf-Auslandsreise-Folgenreicher-Tauchgang-Versicherung-hilft-6151469-0/ "Krank auf Auslandsreise - Folgenreicher Tauchgang, Versicherung hilft")
-* [Elektronische Patienten­akte: Jetzt lieber aktiv werden](https://www.test.de/elektronische-Patientenakte-6165565-0/ "Elektronische Patientenakte - Jetzt lieber aktiv werden")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
+* [Immobilien­kredite: Diese Bedingungen bieten die Baufinanzierer](https://www.test.de/Immobilienkredite-Diese-Bedingungen-bieten-die-Baufinanzierer-6096433-0/ "Immobilienkredite - Diese Bedingungen bieten die Baufinanzierer")
+* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Verletzungs­gefahr: Philips ruft Bügel­stationen zurück](https://www.test.de/Verletzungsgefahr-Philips-ruft-Buegelstationen-zurueck-6177922-0/ "Verletzungsgefahr - Philips ruft Bügelstationen zurück")
+* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
+* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
 
 Stiftung Warentest
 
