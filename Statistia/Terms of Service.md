@@ -546,17 +546,6 @@ Phone +44 (0)20 8189 7000
    
 _Statista Ltd. is a subsidiary company of the Statista GmbH, Johannes-Brahms-Platz 1, Hamburg, Germany._
 
-Statista, S.A.R.L  
-37-39 rue de Surène  
-75008 Paris  
-France  
-Phone +33 1 84 88 96 71  
-[eu.support@statista.com](mailto:support@statista.com)
-
-**VAT No:** FR25842507246  
-   
-_Statista S.A.R.L. is a subsidiary company of the Statista GmbH, Johannes-Brahms-Platz 1, Hamburg, Germany._
-
 Statista, India Pvt. Ltd.  
 Wework  
 5th Floor, DLF Two Horizon Centre, DLF Phase 5  
