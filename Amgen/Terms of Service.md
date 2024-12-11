@@ -565,7 +565,7 @@ Thousand Oaks, California 91320
 
 Be sure to include your name, address, and email address if you want to receive a response by email. Otherwise, we will respond by postal mail within the time required by applicable law.
 
-Effective Date: November --, 2024
+Effective Date: December 11, 2024
 
 Fecha de entrada en vigor: 20 de febrero de 2024
 
