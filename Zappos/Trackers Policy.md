@@ -113,7 +113,6 @@ Zappos Footer
 * [Size Conversion Chart](https://www.zappos.com/c/shoe-size-conversion)
 * [Measure Your Bra Size](https://www.zappos.com/c/how-to-measure-your-bra-size)
 * [Associates Program](https://www.zappos.com/c/associates-program)
-* [Jobs](https://jobs.zappos.com/)
 * [Press Kit & Brand Inquiries](https://www.zappos.com/c/press-kit)
 * [Site Map](https://www.zappos.com/site-map)
 * [Take Survey](https://www.zappos.com/survey/take/zappos-voc?source=footer)
