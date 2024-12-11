@@ -1213,18 +1213,3 @@ Sozial-ökologisch seit 1974
 * [AGB](https://www.gls.de/agb/)
 * [Konditionen & Preise](https://www.gls.de/konditionen-preise/)
 * Cookies
-
-Störung
--------
-
-Zurzeit haben wir eine technische Störung und sind daher telefonisch nicht erreichbar.
-
-Wir arbeiten mit Hochdruck an einer Lösung und bitten um Verständnis.
-
-Das Onlinebanking und der Selfservice stehen Dir weiterhin zur Verfügung.
-
-Deine Karte kannst Du über die (+49) 116 116 sperren lassen.
-
-Vielen Dank für Dein Verständnis.
-
-Deine GLS Bank
