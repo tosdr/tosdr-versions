@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you !!!!!! For Foxy Proxy, if it was not for you I could not have NETFLIX working !! THANK YOU
+Thank you. You are the best!
 
-Karla Babin
+Max
