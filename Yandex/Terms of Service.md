@@ -186,13 +186,13 @@ English
 
 English
 
-Latviešu valoda
-
-Lietuvių
-
 Eesti keel
 
 Polski
+
+Lietuvių
+
+Latviešu valoda
 
 Yandex Terms of Service
 =======================
@@ -331,13 +331,13 @@ English
 
 English
 
-Latviešu valoda
-
-Lietuvių
-
 Eesti keel
 
 Polski
+
+Lietuvių
+
+Latviešu valoda
 
 [Next
 
@@ -347,13 +347,13 @@ English
 
 English
 
-Latviešu valoda
-
-Lietuvių
-
 Eesti keel
 
 Polski
+
+Lietuvių
+
+Latviešu valoda
 
 [Yandex.Support homepage](https://yandex.com/legal)
 
