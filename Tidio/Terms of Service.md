@@ -1,6 +1,4 @@
-[Get holiday-ready
-
-Boost your results this holiday season with a free guide, expert advice, and proven strategies](https://www.tidio.com/resources/holiday-season/)
+[](https://www.tidio.com/terms/)
 
 [Log in](https://www.tidio.com/panel/login)
 
