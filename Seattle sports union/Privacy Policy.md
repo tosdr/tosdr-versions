@@ -423,7 +423,7 @@ Seattle Sports Union. A group of passionate fans following teams in the Seattle 
 * [Privacy policy](https://seattlesportsunion.com/privacy-policy/)
 * [Terms of use](https://seattlesportsunion.com/terms-and-conditions/)
 
-[Facebook](http://www.facebook.com/SeattleSportsUnion) [Twitter](http://www.twitter.com/SeattleSportsU) [Instagram](http://www.instagram.com/seattlesportsunion) [Youtube](https://www.youtube.com/c/SeattleSideUp) [Rss](https://feeds.captivate.fm/the-seattle-sports-union/) [Envelope-open](mailto:seattlesportsunion@gmail.com)
+[Facebook](http://www.facebook.com/SeattleSportsUnion) [Twitter](http://www.twitter.com/SeattleSportsU) [Instagram](http://www.instagram.com/seattlesportsunion) [Youtube](https://www.youtube.com/c/SeattleSideUp) [Rss](https://feeds.captivate.fm/the-seattle-sports-union/) [\[email protected\]](https://seattlesportsunion.com/cdn-cgi/l/email-protection)
 
 [](#back-to-top)
 
