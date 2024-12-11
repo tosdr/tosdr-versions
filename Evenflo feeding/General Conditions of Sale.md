@@ -26,7 +26,7 @@ Free Shipping on Orders $60+ (Exclusions Apply)
     * [Frequently Asked Questions](https://www.evenflofeeding.com/pages/support "Frequently Asked Questions")
     * [Instruction Manuals](https://www.evenflofeeding.com/pages/instruction-manuals "Instruction Manuals")
     * [#AskEvenflo Video Series](https://www.evenflofeeding.com/pages/ask-evenflo "#AskEvenflo Video Series")
-    * [Medical/Professional](https://www.evenflofeeding.com/pages/medical-professionals "Medical/Professional")
+    * [Infant Feeding Professionals](https://www.evenflofeeding.com/pages/medical-professionals "Infant Feeding Professionals")
     * [Contact Evenflo](https://www.evenflofeeding.com/pages/support "Contact Evenflo")
     
 
@@ -219,7 +219,7 @@ Evenflo Feeding, Inc. reserves the right, at its sole discretion, to change, mod
 
 * [Register My Pump](https://www.evenflofeeding.com/pages/register-my-pump "Register My Pump")
 * [Breast Pump Through Insurance](https://www.evenflofeeding.com/pages/qualify-through-insurance "Breast Pump Through Insurance")
-* [Medical Professionals](https://www.evenflofeeding.com/pages/medical-professionals "Medical Professionals")
+* [Infant Feeding Professionals](https://www.evenflofeeding.com/pages/medical-professionals "Infant Feeding Professionals")
 * [Shipping Policy](https://www.evenflofeeding.com/policies/shipping-policy "Shipping Policy")
 * [Privacy](https://www.evenflofeeding.com/policies/privacy-policy "Privacy")
 * [Refunds](https://www.evenflofeeding.com/policies/refund-policy "Refunds")
