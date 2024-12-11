@@ -93,11 +93,11 @@ Search for:
 
 ### Recent Posts
 
+* [Revamp Your Ride: Popular Automotive Styling Trends](https://xworld.org/automotive/revamp-your-ride-popular-automotive-styling-trends/)
 * [What is rock-climbing?](https://xworld.org/sports/what-is-rock-climbing/)
 * [The Secret to Creating Loyalty Among Your Business Partners](https://xworld.org/business/the-secret-to-creating-loyalty-among-your-business-partners/)
 * [What is VED and how much do I pay?](https://xworld.org/automotive/what-is-ved-and-how-much-do-i-pay/)
 * [Do Business Coaches Need a Strong Brand?](https://xworld.org/business/do-business-coaches-need-a-strong-brand/)
-* [An Introduction to the Notary Process](https://xworld.org/law/an-introduction-to-the-notary-process/)
 
 ### Categories
 
@@ -121,6 +121,7 @@ Search for:
 
 ### Archives
 
+* [December 2024](https://xworld.org/2024/12/)
 * [November 2024](https://xworld.org/2024/11/)
 * [October 2024](https://xworld.org/2024/10/)
 * [September 2024](https://xworld.org/2024/09/)
