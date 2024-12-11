@@ -4,7 +4,7 @@ Last-minute gift alert: Sneakers up to 30% off! [Shop Holiday Sneak-Up Sale](ht
 
 Top 10 Most-Gifted UGG [Shop UGG Gifts](https://www.zappos.com/c/10-most-gifted-ugg)
 
-Gifts for everyone on your list! [Shop the Holiday Gift Guide](https://www.zappos.com/c/holiday-gift-guide)
+Join VIP for free faster shipping just in time for the holidays! [Join VIP](https://www.zappos.com/c/vip-dash)
 
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
 
