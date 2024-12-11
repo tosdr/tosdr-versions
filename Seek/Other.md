@@ -366,8 +366,6 @@ SEEK acknowledges the Traditional Custodians of the lands on which it operates i
 
 Australia
 
-[**Australia**](https://www.seek.com.au/)[Hong Kong](https://hk.jobsdb.com/)[Indonesia](https://id.jobstreet.com/)[Malaysia](https://my.jobstreet.com/)[New Zealand](https://www.seek.co.nz/)[Philippines](https://ph.jobstreet.com/)[Singapore](https://sg.jobstreet.com/)[Thailand](https://th.jobsdb.com/)
-
 [Terms & conditions](https://www.seek.com.au/terms/)
 
 [Security & Privacy](https://www.seek.com.au/security-privacy)
