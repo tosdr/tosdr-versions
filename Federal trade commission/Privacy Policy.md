@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Staff Sends Warning Letters to Healthcare Plan Marketers and Lead Generators](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-staff-sends-warning-letters-healthcare-plan-marketers-lead-generators)
+    ### [Statement on FTC’s Win in Lawsuit Against the Makers of Dietary Supplement Prevagen](https://www.ftc.gov/news-events/news/press-releases/2024/12/statement-ftcs-win-lawsuit-against-makers-dietary-supplement-prevagen)
     
     December 10, 2024
     
