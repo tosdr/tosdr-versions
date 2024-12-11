@@ -472,17 +472,25 @@ Revised June 1, 2022
 
   [![Dining habits have changed since the end of the COVID-19 pandemic, with alcohol consumption experiencing a drop.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438957.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Dining habits have changed since the end of the COVID-19 pandemic, with alcohol consumption experiencing a drop.")](https://www.japantimes.co.jp/business/2024/12/09/economy/izakaya-bankruptcies-teikoku/ "Hundreds of izakaya going bust as prices rise and customers change")
 
-[South Korea's Yoon banned from foreign travel as leadership crisis deepens](https://www.japantimes.co.jp/news/2024/12/09/asia-pacific/politics/south-korea-yoon-opposition-second-coup/ "South Korea's Yoon banned from foreign travel as leadership crisis deepens")
+[Winter chill, hot baths and the risk of heat shock: How to stay safe](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
 
-  [![Protesters tear signs, depicting the names of ruling People Power Party lawmakers who didn't vote during the impeachment motion against South Korean President Yoon Suk Yeol last Saturday, as they attend a rally calling for the impeachment of Yoon, who declared and quickly reversed a martial law order last week, in front of the PPP's headquarters in Seoul on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438844.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters tear signs, depicting the names of ruling People Power Party lawmakers who didn't vote during the impeachment motion against South Korean President Yoon Suk Yeol last Saturday, as they attend a rally calling for the impeachment of Yoon, who declared and quickly reversed a martial law order last week, in front of the PPP's headquarters in Seoul on Monday.")](https://www.japantimes.co.jp/news/2024/12/09/asia-pacific/politics/south-korea-yoon-opposition-second-coup/ "South Korea's Yoon banned from foreign travel as leadership crisis deepens")
+  [![A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439147.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.")](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
 
-[Tokyo police arrest four men on suspicion of staging colleague’s suicide](https://www.japantimes.co.jp/news/2024/12/09/japan/crime-legal/railroad-crossing-murder/ "Tokyo police arrest four men on suspicion of staging colleague’s suicide")
+[Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes](https://www.japantimes.co.jp/news/2024/12/10/japan/nobel-peace-prize-ceremony-hibakusha/ "Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes")
 
-  [![Police officers reinvestigate a Tobu Tojo Line railroad crossing in Tokyo's Itabashi Ward on Dec. 27, 2023, after a man was fatally hit by a train weeks earlier.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438810.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police officers reinvestigate a Tobu Tojo Line railroad crossing in Tokyo's Itabashi Ward on Dec. 27, 2023, after a man was fatally hit by a train weeks earlier.")](https://www.japantimes.co.jp/news/2024/12/09/japan/crime-legal/railroad-crossing-murder/ "Tokyo police arrest four men on suspicion of staging colleague’s suicide")
+  [![One of the representatives of 2024 Nobel Peace Prize winner Nihon Hidankyo, Terumi Tanaka, speaks during the Nobel Peace Prize awarding ceremony in Oslo City Hall on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439319.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "One of the representatives of 2024 Nobel Peace Prize winner Nihon Hidankyo, Terumi Tanaka, speaks during the Nobel Peace Prize awarding ceremony in Oslo City Hall on Tuesday.")](https://www.japantimes.co.jp/news/2024/12/10/japan/nobel-peace-prize-ceremony-hibakusha/ "Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes")
 
-[DOGE's best idea yet is permanent daylight saving time](https://www.japantimes.co.jp/commentary/2024/12/09/world/permanent-daylight-saving-time/ "DOGE's best idea yet is permanent daylight saving time")
+[Victim of alleged staged suicide was subjected to years of abuse](https://www.japantimes.co.jp/news/2024/12/10/japan/crime-legal/murder-railroad-crossing/ "Victim of alleged staged suicide was subjected to years of abuse")
 
-  [![Elon Musk, a co-leader of the so-called Department of Government Efficiency, carries his son X Æ A-Xii Musk following a meeting with lawmakers on Capitol Hill in Washington on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438848.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Elon Musk, a co-leader of the so-called Department of Government Efficiency, carries his son X Æ A-Xii Musk following a meeting with lawmakers on Capitol Hill in Washington on Thursday.")](https://www.japantimes.co.jp/commentary/2024/12/09/world/permanent-daylight-saving-time/ "DOGE's best idea yet is permanent daylight saving time")
+  [![Manabu Sasaki, who runs a painting company, is one of four suspects arrested on suspicion of murdering 56-year-old Osamu Takano.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439104.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Manabu Sasaki, who runs a painting company, is one of four suspects arrested on suspicion of murdering 56-year-old Osamu Takano.")](https://www.japantimes.co.jp/news/2024/12/10/japan/crime-legal/murder-railroad-crossing/ "Victim of alleged staged suicide was subjected to years of abuse")
+
+[Russia tie-up sparks fears of modernized North Korean defense industry](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/russia-north-korea-defense-industry/ "Russia tie-up sparks fears of modernized North Korean defense industry")
+
+  [![North Korean leader Kim Jong Un and then-Russian Defense Minister Sergei Shoigu visit a defense exhibition in July last year.    ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439506.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "North Korean leader Kim Jong Un and then-Russian Defense Minister Sergei Shoigu visit a defense exhibition in July last year.    ")](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/russia-north-korea-defense-industry/ "Russia tie-up sparks fears of modernized North Korean defense industry")
+
+[As Japan nears new climate goal, criticism of policy process ramps up](https://www.japantimes.co.jp/environment/2024/12/10/climate-change/climate-policymaking-criticism/ "As Japan nears new climate goal, criticism of policy process ramps up")
+
+  [![The government is preparing to set Japan’s new Nationally Determined Contribution, an emissions reduction commitment made by members of the United Nations climate framework's Paris Agreement.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/438907.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The government is preparing to set Japan’s new Nationally Determined Contribution, an emissions reduction commitment made by members of the United Nations climate framework's Paris Agreement.")](https://www.japantimes.co.jp/environment/2024/12/10/climate-change/climate-policymaking-criticism/ "As Japan nears new climate goal, criticism of policy process ramps up")
 
 [Winter chill, hot baths and the risk of heat shock: How to stay safe](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
 
@@ -495,10 +503,6 @@ Revised June 1, 2022
 [Hundreds of _izakaya_ going bust as prices rise and customers change](https://www.japantimes.co.jp/business/2024/12/09/economy/izakaya-bankruptcies-teikoku/ "Hundreds of izakaya going bust as prices rise and customers change")
 
   [![Dining habits have changed since the end of the COVID-19 pandemic, with alcohol consumption experiencing a drop.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438957.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Dining habits have changed since the end of the COVID-19 pandemic, with alcohol consumption experiencing a drop.")](https://www.japantimes.co.jp/business/2024/12/09/economy/izakaya-bankruptcies-teikoku/ "Hundreds of izakaya going bust as prices rise and customers change")
-
-[Welcome to Yama, Japan’s first Michelin-starred dessert restaurant](https://www.japantimes.co.jp/life/2024/12/08/food-drink/yama-koichi-katsumata-michelin-dessert/ "Welcome to Yama, Japan’s first Michelin-starred dessert restaurant")
-
-  [![Koichi Katsumata is the first chef to receive a Michelin star in Japan for an 'assiette dessert' (dessert course) restaurant](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/437997.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Koichi Katsumata is the first chef to receive a Michelin star in Japan for an 'assiette dessert' (dessert course) restaurant")](https://www.japantimes.co.jp/life/2024/12/08/food-drink/yama-koichi-katsumata-michelin-dessert/ "Welcome to Yama, Japan’s first Michelin-starred dessert restaurant")
 
 Podcast
 -------
@@ -519,9 +523,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -561,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Unstable global environment reduces NPT to mere shell](https://www.japantimes.co.jp/news/2024/12/11/world/nuclear-nonproliferation-treaty/ "Unstable global environment reduces NPT to mere shell")
+[Organizers say 2026 Asian Games on track](https://www.japantimes.co.jp/sports/2024/12/11/asian-games-on-track/ "Organizers say 2026 Asian Games on track")
 
-45 mins ago
+50 mins ago
 
-[South Korean police raid Yoon's office amid martial law probe](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police raid Yoon's office amid martial law probe")
-
-1 hour ago
-
-[BOJ quarterly survey likely to show weaker business sentiment in Japan](https://www.japantimes.co.jp/business/2024/12/11/economy/boj-tankan-forecasts/ "BOJ quarterly survey likely to show weaker business sentiment in Japan")
+[Japan retains strong results in OECD’s adult skills survey](https://www.japantimes.co.jp/news/2024/12/11/japan/society/oecd-adult-competencies/ "Japan retains strong results in OECD’s adult skills survey")
 
 1 hour ago
 
-[China begins annual economic meeting to hash out stimulus plan](https://www.japantimes.co.jp/news/2024/12/11/world/politics/china-economic-meeting-stimulus/ "China begins annual economic meeting to hash out stimulus plan")
+[Nippon Life to buy Resolution in $8.2 billion deal as it pursues U.S. growth](https://www.japantimes.co.jp/business/2024/12/11/companies/nippon-life-buys-resolution/ "Nippon Life to buy Resolution in $8.2 billion deal as it pursues U.S. growth")
 
 1 hour ago
 
-[China makeup mogul is a billionaire post hot Hong Kong debut](https://www.japantimes.co.jp/business/2024/12/11/companies/china-makeup-hong-kong-debut/ "China makeup mogul is a billionaire post hot Hong Kong debut")
+[JR East announces 10-year plan to drastically overhaul Suica](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
 
 1 hour ago
+
+[South Korean police blocked from raid on president's office](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
