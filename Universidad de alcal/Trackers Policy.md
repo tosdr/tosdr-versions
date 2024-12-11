@@ -75,6 +75,7 @@ Política de cookies
         * [Igualdad](https://uah.es/es/conoce-la-uah/compromiso-social/igualdad/)
         * [Mecenazgo](https://uah.es/es/conoce-la-uah/compromiso-social/mecenazgo/)
         * [Patrimonio](https://uah.es/es/conoce-la-uah/compromiso-social/patrimonio)
+        * [Sostenibilidad medioambiental](https://uah.es/es/conoce-la-uah/compromiso-social/sostenibilidad-medioambiental/)
         * [Transparencia](https://uah.es/es/conoce-la-uah/compromiso-social/transparencia/)
         * [Unidad de Atención a la Diversidad](https://uah.es/es/conoce-la-uah/compromiso-social/unidad-atencion-diversidad)
         
@@ -335,9 +336,9 @@ Contacto UAH
 Ayuda e Información
 -------------------
 
-* [Centro de información](https://uah.es/es/conoce-la-uah/organizacion-y-gobierno/servicios-universitarios/Centro-de-Informacion/ "Centro de información")
+* [Centro de información](https://uah.es/shared/es/conoce-la-uah/organizacion-y-gobierno/.content/uahserviciosadm/servicioadm_0029.html "Centro de información")
 * [Secretaría de alumnos](https://uah.es/es/admision-y-ayudas/grados/matricula/secretarias-alumnos/ "Secretaría de alumnos")
-* [Relaciones Internacionales](https://uah.es/es/conoce-la-uah/organizacion-y-gobierno/servicios-universitarios/Servicio-de-relaciones-internacionales/ "Relaciones Internacionales")
+* [Relaciones Internacionales](https://uah.es/shared/es/conoce-la-uah/organizacion-y-gobierno/.content/uahserviciosadm/servicioadm_0015.html "Relaciones Internacionales")
 * [Sala de Prensa](https://portalcomunicacion.uah.es/sala-prensa/ "Sala de Prensa")
 * [Redes Sociales](https://portalcomunicacion.uah.es/social-media/ "Redes Sociales")
 
@@ -355,7 +356,7 @@ Acerca de
 ---------
 
 * [Accesibilidad](https://uah.es/es/accesibilidad/)
-* [Acerca de nuestra web](https://uah.es/es/conoce-la-uah/organizacion-y-gobierno/servicios-universitarios/Servicio-Web-y-de-Informacion-Universitaria-00001/ "Servicio Web")
+* [Acerca de nuestra web](https://uah.es/shared/es/conoce-la-uah/organizacion-y-gobierno/.content/uahserviciosadm/servicioadm_0031.html "Servicio Web")
 * [Imagen institucional](https://uah.es/es/imagen-institucional/ "Imagen institucional")
 * [Protección de datos](https://uah.es/es/conoce-la-uah/organizacion-y-gobierno/equipo-de-direccion/secretaria-general/proteccion-de-datos-de-caracter-personal/ "Protección de datos")
 
