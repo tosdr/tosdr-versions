@@ -78,10 +78,10 @@ Trending Posts
 * [Alabama prisoners sued to stop forced labor—a court dismissed their case](https://therealnews.com/alabama-prisoners-sued-to-stop-forced-labor-a-court-dismissed-their-case)
 * [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
 * [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
+* ['We are destroying entire worlds': A West Bank rabbi's fight against Israeli Occupation](https://therealnews.com/we-are-destroying-entire-worlds-a-west-bank-rabbis-fight-against-israeli-occupation)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
 * ['We are human': Surviving 423 days of genocide in Gaza](https://therealnews.com/we-are-human-surviving-423-days-of-genocide-in-gaza)
-* ['We are destroying entire worlds': A West Bank rabbi's fight against Israeli Occupation](https://therealnews.com/we-are-destroying-entire-worlds-a-west-bank-rabbis-fight-against-israeli-occupation)
 * [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
 * [Assad government falls after nearly 14 years of civil war as rebels seize capital](https://therealnews.com/assad-government-falls-after-nearly-14-years-of-civil-war-as-rebels-seize-capital)
 
@@ -142,10 +142,10 @@ Trending Posts
 * [Alabama prisoners sued to stop forced labor—a court dismissed their case](https://therealnews.com/alabama-prisoners-sued-to-stop-forced-labor-a-court-dismissed-their-case)
 * [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
 * [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
+* ['We are destroying entire worlds': A West Bank rabbi's fight against Israeli Occupation](https://therealnews.com/we-are-destroying-entire-worlds-a-west-bank-rabbis-fight-against-israeli-occupation)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
 * ['We are human': Surviving 423 days of genocide in Gaza](https://therealnews.com/we-are-human-surviving-423-days-of-genocide-in-gaza)
-* ['We are destroying entire worlds': A West Bank rabbi's fight against Israeli Occupation](https://therealnews.com/we-are-destroying-entire-worlds-a-west-bank-rabbis-fight-against-israeli-occupation)
 * [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
 * [Assad government falls after nearly 14 years of civil war as rebels seize capital](https://therealnews.com/assad-government-falls-after-nearly-14-years-of-civil-war-as-rebels-seize-capital)
 
