@@ -1,4 +1,4 @@
-[![Playsia Logo](//s.pacn.ws/1/gallery/large/GA.07993.0001.svg?1713530212&v=PX-405)](https://www.play-asia.com/)
+[![Playsia Logo](//s.pacn.ws/1/gallery/large/GA.07993.0001.svg?1713501412&v=PX-405)](https://www.play-asia.com/)
 
 View All
 
@@ -14,11 +14,11 @@ everything PLAY Exclusives Games Gaming Peripherals Digital Toys Lifestyle Movie
 
 [Cart](https://www.play-asia.com/cart/)
 
-[![Help](//s.pacn.ws/1/gallery/large/GA.06753.0013.svg?1606407952&v=PX-405)
+[![Help](//s.pacn.ws/1/gallery/large/GA.06753.0013.svg?1606379152&v=PX-405)
 
 Help](https://www.play-asia.com/help/)
 
-[![](//s.pacn.ws/1/gallery/large/GA.07871.0186.svg?1708694989&v=PX-405)  
+[![](//s.pacn.ws/1/gallery/large/GA.07871.0186.svg?1708666189&v=PX-405)  
 EN | USD](#)
 
 ✖ theme
@@ -38,7 +38,7 @@ theme beta
 
 We accept
 
-![Payment Reach_hosted](https://s.pacn.ws/1/gallery/640/GA.03963.0184.png?1716211371&v=PX-405)  ![Payment Worldpay](https://s.pacn.ws/1/gallery/640/GA.03963.0127.png?1716182638&v=PX-405)  ![Payment Paypal](https://s.pacn.ws/1/gallery/640/GA.03963.0193.jpg?1727424039&v=PX-405)  ![Payment Reach](https://s.pacn.ws/1/gallery/640/GA.03963.0140.png?1716211419&v=PX-405)  ![Payment Bitcoin](https://s.pacn.ws/1/gallery/large/GA.03963.0189.svg?1716211370&v=PX-405)  ![Payment Binancepay](https://s.pacn.ws/1/gallery/640/GA.03963.0174.png?1716211382&v=PX-405)  ![Payment Bitpay](https://s.pacn.ws/1/gallery/640/GA.03963.0178.png?1716211379&v=PX-405)  ![Payment Worldpay2](https://s.pacn.ws/1/gallery/640/GA.03963.0126.png?1716211440&v=PX-405)  ![Payment Manual](https://s.pacn.ws/1/gallery/640/GA.03963.0190.jpg?1716226622&v=PX-405) 
+![Payment Reach_hosted](https://s.pacn.ws/1/gallery/640/GA.03963.0184.png?1716211371&v=PX-405)  ![Payment Worldpay](https://s.pacn.ws/1/gallery/640/GA.03963.0127.png?1716211438&v=PX-405)  ![Payment Paypal](https://s.pacn.ws/1/gallery/640/GA.03963.0193.jpg?1727424039&v=PX-405)  ![Payment Reach](https://s.pacn.ws/1/gallery/640/GA.03963.0140.png?1716211419&v=PX-405)  ![Payment Bitcoin](https://s.pacn.ws/1/gallery/large/GA.03963.0189.svg?1716182570&v=PX-405)  ![Payment Binancepay](https://s.pacn.ws/1/gallery/640/GA.03963.0174.png?1716211382&v=PX-405)  ![Payment Bitpay](https://s.pacn.ws/1/gallery/640/GA.03963.0178.png?1716182579&v=PX-405)  ![Payment Worldpay2](https://s.pacn.ws/1/gallery/640/GA.03963.0126.png?1716182640&v=PX-405)  ![Payment Manual](https://s.pacn.ws/1/gallery/640/GA.03963.0190.jpg?1716226622&v=PX-405) 
 
 |     |     |     |     |
 | --- | --- | --- | --- |
@@ -63,4 +63,4 @@ Be sure to visit our social media pages !
   
 Playasia and its logo are trademarks of Playasia. Website & content copyright 2002-2024 Playasia.
 
-SN: 114 | 1007 { 58 } | A: | WS: 1 | PT: 0.018 | CDN: | Ro: , Cl: 1 | Q: 20 | T: | Cf: | CO: | bot:
+SN: 112 | 1007 { 58 } | A: | WS: 1 | PT: 0.017 | CDN: | Ro: , Cl: 1 | Q: 20 | T: | Cf: | CO: | bot:
