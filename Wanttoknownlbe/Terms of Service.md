@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/de-heftigste-boodschap-over-t-corona-bewijs/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/de-vs-van-oom-agent-naar-meneer-soldaat/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
