@@ -6,7 +6,7 @@ New color drops! Exclusive and limited-edition colors. [Shop](https://www.bose.c
 
 My Bose Members, get a Holiday Bonus Card for future orders with every product purchase of $100 or more. [Learn more](https://www.bose.com/holiday-bonus-card)
 
-Stress-free shopping | 90-day return policy | Holiday Price Match Promise [Learn how](https://www.bose.com/buy-direct-from-bose)
+Save an extra 10% on select Certified Refurbished products with coupon code SAVE10. [Shop](https://www.bose.com/c/refurbished)
 
 [Cancel](#)
 
