@@ -1,6 +1,6 @@
 Quick Escape
 
-[Search](https://www.ywca.org/search-page) [Find Your YWCA](https://www.ywca.org/what-we-do/in-your-community/find-your-ywca)
+[Search](https://www.ywca.org/search-page) [Find Your YWCA](https://www.ywca.org/what-we-do/in-your-community/find-your-ywca) [YWCA Intranet](https://www.intranet.ywca.org/)
 
          
 
