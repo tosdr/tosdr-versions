@@ -6,6 +6,7 @@
     * [Approaches & Values](https://sustainablefuturesglobal.org/sf-global-about/#values "Approaches & Values")
     * [Our Team](https://sustainablefuturesglobal.org/sf-global-about/#people "Our Team")
     * [Our Hubs](https://sustainablefuturesglobal.org/our-hubs/ "Our Hubs")
+* [Our Services](https://sustainablefuturesglobal.org/our-services/ "Our Services")
 * [Our Work](https://sustainablefuturesglobal.org/resources/ "Our Work")
     * [Projects](https://sustainablefuturesglobal.org/projects/ "Projects")
     * [Publications](https://sustainablefuturesglobal.org/impacts/publications/ "Publications")
