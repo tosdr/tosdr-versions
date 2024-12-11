@@ -1,6 +1,4 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-190927977271)                                                   
-
-FLASH SALE—$9 Planners! | [SHOP](https://www.carsondellosa.com/sale/todays-offers/planners/)
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-190943238183)                                                   
 
 FREE SHIPPING on Online Orders $40+
 
