@@ -650,7 +650,6 @@ Before you buy
 * [Return policy](https://www.radpowerbikes.com/pages/terms-of-purchase#returns)
 * [Product protection](https://www.radpowerbikes.com/pages/protection-plan)
 * [Financing](https://www.radpowerbikes.com/pages/financing)
-* [Buying FAQs](https://support.radpowerbikes.com/Learn_before_you_buy)
 * [Local ebike rebates](https://www.radpowerbikes.com/pages/ebike-rebates-and-incentives)
 * [Student discounts](https://connect.studentbeans.com/v4/rad-power-bikes/us)
 
