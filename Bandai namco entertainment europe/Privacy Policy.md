@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [SYNDUALITY: Echo of Ada – Get ready for the Open Network Test with this new Game Guide!](https://en.bandainamcoent.eu/synduality/news/synduality-echo-of-ada-get-ready-the-open-network-test-new-game-guide)
 * [Free Update for DRAGON BALL Sparking! ZERO: New Features and Adjustments](https://en.bandainamcoent.eu/dragon-ball/news/free-update-dragon-ball-sparking-zero-new-features-and-adjustments)
-* [Get your wallpapers of BLEACH Rebirth of Souls for Desktop & Mobile](https://en.bandainamcoent.eu/bleach/news/get-your-wallpapers-of-bleach-rebirth-of-souls-desktop-mobile)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
