@@ -95,187 +95,61 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More The Universe Was Created
+More Days of Praise
 
-[![](/i/Main%20Stage%20-%201400x1050/Supermoon_Tonight_1400x1050.jpg)](https://www.icr.org/article/supermoon-tonight)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/triune-comforter)
 
-[Supermoon Tonight](https://www.icr.org/article/supermoon-tonight/)
+[The Triune Comforter](https://www.icr.org/article/triune-comforter/)
 
-Tonight’s (April 7) full moon is special because it occurs when the moon is close to perigee, the point in its orbit where it is closest to Earth.1,2...
+“Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort; Who comforteth us in all our...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/July_Astronomical_1400x1050.jpg)](https://www.icr.org/article/july-astronomical-highlights)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/exalting-anointed-one)
 
-[July Astronomical Highlights](https://www.icr.org/article/july-astronomical-highlights/)
+[Exalting the Anointed One](https://www.icr.org/article/exalting-anointed-one/)
 
-This month (July 2020), multiple astronomical objects highlight God’s glory displayed in the heavens.1 For the next two weeks, all...
+“The adversaries of the LORD shall be broken to pieces; out of heaven shall he thunder upon them: the LORD shall judge the ends of the earth;...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/Venus_Active_1400x1050.jpg)](https://www.icr.org/article/venus-may-be-geologically-active)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/14375)
 
-[Venus May Be Geologically Active](https://www.icr.org/article/venus-may-be-geologically-active/)
+[The Peace of the God of Peace](https://www.icr.org/article/14375/)
 
-Using computer simulations, a team of researchers has concluded the planet Venus could still be geologically active.1,2 The scientists used...
+“And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.” (Philippians 4:7) For...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-More The Universe Is Stable
+Shop Related Products
 
-[![](/i/Main%20Stage%20-%201400x1050/Rotating_Disk_Galaxy_1400x1050.jpg)](https://www.icr.org/article/most-distant-rotating-disk-galaxy-secular-models)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475587/file.jpg)
 
-[Most Distant Rotating Disk Galaxy Challenges Secular Models](https://www.icr.org/article/most-distant-rotating-disk-galaxy-secular-models/)
+The Remarkable Journey of Jonah](https://store.icr.org/dr-henry-morris-the-remarkable-journey-of-jonah.html)
 
-Astronomers have determined that a distant galaxy discovered three years ago is rotating, making it the most distant rotating disk galaxy yet observed.1...
+$9.99
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474571/file.jpg)
 
-[![](/i/Main%20Stage%20-%201400x1050/Comet_SWAN_1400x1050.jpg)](https://www.icr.org/article/will-comet-swan-put-on-a-celestial-show)
+The Bible Has the Answer](https://store.icr.org/dr-henry-morris-the-bible-has-the-answer.html)
 
-[Will Comet SWAN Put on a Celestial Show?](https://www.icr.org/article/will-comet-swan-put-on-a-celestial-show/)
+$16.99
 
-For families seeking worthwhile home-based science activities, Comet SWAN presents another opportunity to do some backyard astronomy and to celebrate God’s...
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474599/file.jpg)
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+The Biblical Basis for Modern Science](https://store.icr.org/dr-henry-morris-the-biblical-basis-for-modern-scie.html)
 
-[![](/i/wide/dark_matter_wide.jpg)](https://www.icr.org/article/science-still-about-dark-energy)
+$19.99
 
-[Science Still in the Dark about Dark Energy](https://www.icr.org/article/science-still-about-dark-energy/)
+[](https://store.icr.org/.html)
 
-Evolutionary astronomers have a problem. The universe is expanding at an ever-increasing rate, but if general relativity is an accurate cosmological model,...
+$
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475649/file.jpg)
 
-More Astronomy
+The Remarkable Record of Job](https://store.icr.org/dr-henry-morris-the-remarkable-record-of-job.html)
 
-[![](/i/Main%20Stage%20-%201400x1050/Life_On_Venus_1400x1050.jpg)](https://www.icr.org/article/have-scientists-found-life-on-venus)
-
-[Have Scientists Found Life on Venus?](https://www.icr.org/article/have-scientists-found-life-on-venus/)
-
-Secular scientists are obsessed with attempting to show that life on Earth is not unique and therefore must exist, if not elsewhere in our solar system...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/Main%20Stage%20-%201400x1050/Supernova_Scripture_1400x1050.jpg)](https://www.icr.org/article/a-supernova-and-the-scripture)
-
-[A Supernova and the Scripture](https://www.icr.org/article/a-supernova-and-the-scripture/)
-
-Well, there goes another star, disappearing into the night as if it had never existed. For an entire year, Hubble scientists used the space telescope to...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/Main%20Stage%20-%201400x1050/Supermoon_Tonight_1400x1050.jpg)](https://www.icr.org/article/supermoon-tonight)
-
-[Supermoon Tonight](https://www.icr.org/article/supermoon-tonight/)
-
-Tonight’s (April 7) full moon is special because it occurs when the moon is close to perigee, the point in its orbit where it is closest to Earth.1,2...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-More Physics
-
-[![](/i/radio/images/physics_explains_universe_wide.jpg)](https://www.icr.org/article/universe-nothing)
-
-[A Universe from Nothing?](https://www.icr.org/article/universe-nothing/)
-
-Many famous secular physicists claim we don’t need a Creator to explain the universe’s origin. They say “the laws of physics...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-[![](/i/articles/af/universe_from_nothing_wide.jpg)](https://www.icr.org/article/universe-from-nothing)
-
-[A Universe from Nothing?](https://www.icr.org/article/universe-from-nothing/)
-
-Explaining the origin of the universe is an enormous challenge for those seeking to deny their Creator: How could a universe come from nothing? The...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-[![](/i/wide/energy_wide.jpg)](https://www.icr.org/article/particle-physics-remarkably-consistent-with-genesi)
-
-[Particle Physics Is Remarkably Consistent with Genesis](https://www.icr.org/article/particle-physics-remarkably-consistent-with-genesi/)
-
-Aided by a supercomputer, an international team of theoretical physicists has recently performed a massive computation that confirmed Einstein’s...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-More Contrasting Worldviews
-
-[![](/i/Main%20Stage%20-%201400x1050/Youthful_Saturn_1400x1050.jpg)](https://www.icr.org/article/picture-perfect-a-youthful-saturn)
-
-[Picture Perfect: A Youthful Saturn](https://www.icr.org/article/picture-perfect-a-youthful-saturn/)
-
-This summer, the Hubble Space Telescope took a brilliant new photograph of Saturn and its rings.1 Saturn’s moons Mimas and Enceladus can...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-[![](/i/Main%20Stage%20-%201400x1050/T_rex_Hatchling_1400x1050.jpg)](https://www.icr.org/article/no-evidence-t-rex-hatchlings-had-feathers)
-
-[No Evidence T. rex Hatchlings Had Feathers](https://www.icr.org/article/no-evidence-t-rex-hatchlings-had-feathers/)
-
-The recent discovery of a tiny tyrannosaur jaw bone fragment and a claw has some scientists again pushing dinosaurs as birds.1 But is there...
-
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
-
-[![](/i/Main%20Stage%20-%201400x1050/Tunnel_Vision_1400x1050.jpg)](https://www.icr.org/article/the-danger-of-tunnel-vision)
-
-[The Danger of Tunnel Vision](https://www.icr.org/article/the-danger-of-tunnel-vision/)
-
-In an executive order, dated May 1, 2020, our president made this declaration: I, DONALD J. TRUMP, President of the United States of America, find...
-
-BY: [REBECCA MORRIS BARBER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=243)
-
-More Science
-
-[![](/i/Main%20Stage%20-%201400x1050/John_Walton_1400x1050.jpg)](https://www.icr.org/article/john-walton-twisted-views-on-disease-and-suffering)
-
-[John Walton’s Twisted Views on Disease and Suffering](https://www.icr.org/article/john-walton-twisted-views-on-disease-and-suffering/)
-
-John Walton is an influential Old Testament theologian at Wheaton College with an unorthodox and non-literal view of Genesis.1 He is also an...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-[![](/i/Main%20Stage%20-%201400x1050/Monster_Milankovitch_1400x1050.jpg)](https://www.icr.org/article/physics-today-ignores-monster-milankovitch-problem)
-
-[Physics Today Article Ignores Monster Milankovitch Problem](https://www.icr.org/article/physics-today-ignores-monster-milankovitch-problem/)
-
-An overview of the Milankovitch (or astronomical) ice age theory appears in the May 2020 issue of Physics Today.1 This theory (hypothesis, really)...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-[![](/i/Main%20Stage%20-%201400x1050/Human_Brain_Research_1400x1050.jpg)](https://www.icr.org/article/human-brain-research-finds-new-folds)
-
-[Human Brain Research Finds New Folds](https://www.icr.org/article/human-brain-research-finds-new-folds/)
-
-Brain researchers from San Diego State University have just reported digitally capturing the dense folds of a preserved human cerebellum using a high resolution...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-More Creation Science Update
-
-[![](/i/Main%20Stage%20-%201400x1050/MartianLander_1400x1050)](https://www.icr.org/article/martian-lander-discovers)
-
-[Martian Lander Discovers "Surprising" Martian.,.](https://www.icr.org/article/martian-lander-discovers/)
-
-The InSight robotic lander found evidence in the interior of Mars for the existence of an active giant mantle plume, a large blob of molten rock that...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-[![](/i/Main%20Stage%20-%201400x1050/brainscomplexity_1400x1050.jpg)](https://www.icr.org/article/cognitive-map-brain-complexity)
-
-[The Cognitive Map: An Incredible Display of the Brain&r.,.](https://www.icr.org/article/cognitive-map-brain-complexity/)
-
-To be spatially capable creatures, humans need their brains to tell them 1) where things are in relation to themselves and 2) where everything is in...
-
-BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
-
-[![](/i/Main%20Stage%20-%201400x1050/dinosaur-provincial-park-1400x1050)](https://www.icr.org/article/hillside-hadrosaur)
-
-[Eroding Hillside Reveals Dinosaur Skin Pattern](https://www.icr.org/article/hillside-hadrosaur/)
-
-Recently, a fossil believed to be a juvenile duck-billed dinosaur was found in a hillside in Dinosaur Provincial Park, Canada. The scientists discovered...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+$9.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
