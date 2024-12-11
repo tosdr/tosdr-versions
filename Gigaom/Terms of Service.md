@@ -49,7 +49,7 @@ Main Navigation
 
 [](#close-search "Close Search") Search
 
-[**Subscribe to GigaOm** Sign up today for a GigaOm research subscription](https://gigaom.com/subscribe/#end-user-column)
+[**HOLIDAY SALE** **2-months free/yearly** **1-month free/monthly** You choose your savings Sign up today for a GigaOm research subscription](https://gigaom.com/holiday-savings/)
 
 Terms of Service
 ================
