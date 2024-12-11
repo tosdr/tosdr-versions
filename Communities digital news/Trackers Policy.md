@@ -26,43 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-aoc-penny-1200x630.jpg)](https://americanwirenews.com/aoc-suggests-people-like-daniel-penny-should-be-locked-up-to-prevent-more-violence/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cnn-jbowman-1200-x-628-1200-x-628-1200x630.jpg)](https://americanwirenews.com/outgoing-squad-member-tries-to-guilt-trip-white-people-in-stunningly-racist-thread-it-goes-badly/)
 
-[AOC suggests people like Daniel Penny should be locked up to prevent more ‘violence’](https://americanwirenews.com/aoc-suggests-people-like-daniel-penny-should-be-locked-up-to-prevent-more-violence/)
+[Outgoing ‘Squad’ member tries to guilt trip white people in stunningly racist thread, it goes badly](https://americanwirenews.com/outgoing-squad-member-tries-to-guilt-trip-white-people-in-stunningly-racist-thread-it-goes-badly/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-adam-schiff-1200x630.png)](https://americanwirenews.com/schiff-sworn-into-new-senate-gig-a-month-early/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jayz-foxybrown-1200x630.jpg)](https://americanwirenews.com/jay-zs-ex-posts-cryptic-messages-after-his-rape-lawsuit/)
 
-[Schiff sworn into new Senate gig a month early](https://americanwirenews.com/schiff-sworn-into-new-senate-gig-a-month-early/)
+[Jay-Z’s ex posts cryptic messages after his rape lawsuit](https://americanwirenews.com/jay-zs-ex-posts-cryptic-messages-after-his-rape-lawsuit/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg_ernst-1200x630.webp)](https://americanwirenews.com/joni-ernst-changes-tune-on-hegseth-after-maga-pressure-campaign-warning-of-whats-in-store-for-others/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cuomo-1-1200x630.png)](https://americanwirenews.com/ceo-killer-suspect-considered-bombing-first-his-lawyer-steals-line-from-airplane-2-at-presser/)
 
-[Joni Ernst changes tune on Hegseth after ‘MAGA’ pressure campaign: ‘Warning of what’s in store for others…’](https://americanwirenews.com/joni-ernst-changes-tune-on-hegseth-after-maga-pressure-campaign-warning-of-whats-in-store-for-others/)
+[CEO killer suspect considered bombing first, his lawyer steals line from ‘Airplane 2’ at presser](https://americanwirenews.com/ceo-killer-suspect-considered-bombing-first-his-lawyer-steals-line-from-airplane-2-at-presser/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cdc-1200x630.jpg)](https://americanwirenews.com/deaths-from-illicit-drug-100-times-more-potent-than-fentanyl-spike-in-past-year-cdc-warns/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-nancy-mace-1200x630.jpg)](https://americanwirenews.com/nancy-mace-assaulted-at-capitol-by-pro-trans-man/)
 
-[Deaths from illicit drug 100 times more potent than fentanyl spike in past year, CDC warns](https://americanwirenews.com/deaths-from-illicit-drug-100-times-more-potent-than-fentanyl-spike-in-past-year-cdc-warns/)
+[Nancy Mace assaulted at Capitol by ‘Pro-Trans’ man](https://americanwirenews.com/nancy-mace-assaulted-at-capitol-by-pro-trans-man/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bedingfield-1200x630.jpg)](https://americanwirenews.com/awkward-moment-when-cnn-host-says-drop-the-banner-so-ceo-murder-suspects-abs-can-be-seen-and-they-do/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-sharpton-1200x630.jpg)](https://americanwirenews.com/black-church-coalition-walks-back-call-for-msnbc-to-suspend-sharpton-over-kamala-payola/)
 
-[Awkward moment when CNN host says ‘drop the banner’ so CEO murder suspect’s abs can be seen – and they do!](https://americanwirenews.com/awkward-moment-when-cnn-host-says-drop-the-banner-so-ceo-murder-suspects-abs-can-be-seen-and-they-do/)
+[Black church coalition walks back call for MSNBC to suspend Sharpton over Kamala payola](https://americanwirenews.com/black-church-coalition-walks-back-call-for-msnbc-to-suspend-sharpton-over-kamala-payola/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rnc-1200x630.jpg)](https://americanwirenews.com/im-proud-of-that-two-more-lawmakers-ditch-radicalized-dem-party-for-the-gop/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-don-jr-guilfoyle-1200x630.png)](https://americanwirenews.com/kimberly-guilfoyle-gets-offered-ambassadorship-after-rumored-split-from-don-jr/)
 
-[‘I’m proud of that’: Two more lawmakers ditch ‘radicalized’ Dem Party for the GOP](https://americanwirenews.com/im-proud-of-that-two-more-lawmakers-ditch-radicalized-dem-party-for-the-gop/)
+[Kimberly Guilfoyle gets offered ambassadorship after rumored split from Don Jr.](https://americanwirenews.com/kimberly-guilfoyle-gets-offered-ambassadorship-after-rumored-split-from-don-jr/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-1191867914-1-1200x630.jpg)](https://americanwirenews.com/ultimate-troll-trump-thanks-governor-trudeau-and-the-great-state-of-canada-after-dinner/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-wilsonrick-1200-x-628-1200x630.jpg)](https://americanwirenews.com/lincoln-project-grift-exposed-the-most-useless-people-in-america/)
 
-(Photo by Dan Kitwood/Getty Images)
+[Lincoln Project grift exposed: ‘the most useless people in America’](https://americanwirenews.com/lincoln-project-grift-exposed-the-most-useless-people-in-america/)
 
-[‘Ultimate troll!’ Trump thanks ‘Governor Trudeau’ and the ‘great state of Canada’ after dinner](https://americanwirenews.com/ultimate-troll-trump-thanks-governor-trudeau-and-the-great-state-of-canada-after-dinner/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-paml-beach-1200x630.png)](https://americanwirenews.com/member-of-violent-tren-de-aragua-gang-arrested-in-palm-beach-trumps-backyard/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-greene-1200x630.jpg)](https://americanwirenews.com/heartsick-mtg-accuses-swatter-of-murder-after-woman-dies-in-accident-involving-cop-responding-to-threat/)
+[Member of violent Tren de Aragua gang arrested in Palm Beach, Trump’s backyard](https://americanwirenews.com/member-of-violent-tren-de-aragua-gang-arrested-in-palm-beach-trumps-backyard/)
 
-[‘Heartsick’ MTG accuses swatter of ‘murder’ after woman dies in accident involving cop responding to threat](https://americanwirenews.com/heartsick-mtg-accuses-swatter-of-murder-after-woman-dies-in-accident-involving-cop-responding-to-threat/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-postmaster-1200-x-628-1200x630.jpg)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bscott-jennings-1200x630.jpg)
-
-### Scott Jennings whips out simple ‘good’ vs ‘bad’ chart so that even leftists can understand](https://americanwirenews.com/scott-jennings-whips-out-simple-good-vs-bad-chart-so-that-even-leftists-can-understand/)
+### Postmaster General childishly covers his ears during grilling by GOP lawmaker](https://americanwirenews.com/postmaster-general-childishly-covers-his-ears-during-grilling-by-gop-lawmaker/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -79,6 +77,20 @@ Search for:
 ### [Kristen Welker shocked when Trump says ALL Jan. 6 committee members ‘should go to jail’](https://americanwirenews.com/kristen-welker-shocked-when-trump-says-all-jan-6-committee-members-should-go-to-jail/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-ana-navarro-220x180.jpg)](https://americanwirenews.com/ana-navarro-calls-for-people-to-open-up-their-wallets-for-liz-cheney/)
+
+[Ana Navarro calls for people to open up their wallets for Liz Cheney](https://americanwirenews.com/ana-navarro-calls-for-people-to-open-up-their-wallets-for-liz-cheney/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-king-elementary-220x180.jpg)](https://americanwirenews.com/mom-mulls-suing-school-district-for-discriminating-against-her-son-because-hes-white/)
+
+[Mom mulls suing school district for discriminating against her son because he’s white](https://americanwirenews.com/mom-mulls-suing-school-district-for-discriminating-against-her-son-because-hes-white/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-trudeau-trump-220x180.jpeg)](https://americanwirenews.com/dana-perino-predicts-trump-will-secure-a-big-land-purchase-for-the-us-in-next-four-years/)
+
+[Dana Perino predicts Trump will secure a big land purchase for the US in next four years](https://americanwirenews.com/dana-perino-predicts-trump-will-secure-a-big-land-purchase-for-the-us-in-next-four-years/)
+
+(Official White House Photo by Shealah Craighead)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cardiona-220x180.jpg)](https://americanwirenews.com/ill-informed-cnn-commentator-has-needless-meltdown-over-trumps-birthright-citizenship-stance/)
 
@@ -165,20 +177,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-psaki-220x180.jpg)](https://americanwirenews.com/psaki-says-trump-seeks-to-appoint-loyalists-wholl-weaponize-govt-against-political-enemies/)
 
 [Psaki says Trump seeks to appoint loyalists who’ll weaponize gov’t against political enemies](https://americanwirenews.com/psaki-says-trump-seeks-to-appoint-loyalists-wholl-weaponize-govt-against-political-enemies/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-uhc-suspect-220x180.jpg)](https://americanwirenews.com/person-of-interest-in-killing-of-unitedhealthcare-ceo-arrested-at-pennsylvania-mcdonalds/)
-
-[Person of interest in killing of UnitedHealthcare CEO arrested at Pennsylvania McDonald’s](https://americanwirenews.com/person-of-interest-in-killing-of-unitedhealthcare-ceo-arrested-at-pennsylvania-mcdonalds/)
-
-Image via NYPD
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hegseth-220x180.jpg)](https://americanwirenews.com/navy-seals-pushing-petition-in-show-of-support-for-pete-hegseth/)
-
-[Navy SEALs pushing petition in show of support for Pete Hegseth](https://americanwirenews.com/navy-seals-pushing-petition-in-show-of-support-for-pete-hegseth/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-daniel-penny-220x180.jpg)](https://americanwirenews.com/praise-god-reactions-pour-in-as-daniel-penny-found-not-guilty-in-subway-chokehold-death/)
-
-[‘Praise God!’ Reactions pour in as Daniel Penny found ‘NOT GUILTY’ in subway chokehold death](https://americanwirenews.com/praise-god-reactions-pour-in-as-daniel-penny-found-not-guilty-in-subway-chokehold-death/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
