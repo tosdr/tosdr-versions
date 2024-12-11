@@ -15,6 +15,11 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-robot-vacuum-mop-combos-to-automate-all-your-wet-and-dry-cleaning-needs/)
+    
+    [The Best Robot Vacuum Mop Combos to Automate All Your Wet and Dry Cleaning Needs](https://www.coolthings.com/the-best-robot-vacuum-mop-combos-to-automate-all-your-wet-and-dry-cleaning-needs/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/telepathic-instruments-orchid-portable-standalone-chord-generating-synthesizer/)
     
     [Telepathic Instruments Orchid Brings a Portable Chord-Generating Synth You Can Play On-the-Go](https://www.coolthings.com/telepathic-instruments-orchid-portable-standalone-chord-generating-synthesizer/)
@@ -24,11 +29,6 @@
     
     [Wahoo Element Ace Takes the Bike Computer a Big Step Forward](https://www.coolthings.com/wahoo-element-ace-bike-computer-cyclometer-wind-sensor-largest-most-powerful/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/eniac-flexbar-touch-bar-pc-peripheral-windows-macos/)
-    
-    [Eniac Flexbar Revives the Touch Bar as a PC Peripheral](https://www.coolthings.com/eniac-flexbar-touch-bar-pc-peripheral-windows-macos/)
-    -----------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
@@ -95,6 +95,11 @@
     
     [See All](https://www.coolthings.com/house/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-robot-vacuum-mop-combos-to-automate-all-your-wet-and-dry-cleaning-needs/)
+    
+    [The Best Robot Vacuum Mop Combos to Automate All Your Wet and Dry Cleaning Needs](https://www.coolthings.com/the-best-robot-vacuum-mop-combos-to-automate-all-your-wet-and-dry-cleaning-needs/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-smart-christmas-lights-to-give-your-home-that-festive-holiday-feel/)
     
     [The Best Smart Christmas Lights to Give Your Home That Festive Holiday Feel](https://www.coolthings.com/the-best-smart-christmas-lights-to-give-your-home-that-festive-holiday-feel/)
@@ -104,11 +109,6 @@
     
     [Kayuso Quick Defrosting Box Gives You a Fast, Safe, and Nutrient-Preserving Way To Thaw Any Frozen Food](https://www.coolthings.com/kayuso-quick-defrosting-box-fast-safe-thawing-fan-uv-light/)
     -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-kitchen-gifts-for-the-avid-home-cook/)
-    
-    [The Best Kitchen Gifts for the Avid Home Cook](https://www.coolthings.com/the-best-kitchen-gifts-for-the-avid-home-cook/)
-    --------------------------------------------------------------------------------------------------------------------------
     
     * [FURNITURE](https://www.coolthings.com/house/furniture/)
     * [KITCHEN](https://www.coolthings.com/kitchen-dining/)
