@@ -212,15 +212,15 @@
             
             Identify security risks within your organization](https://security.lookout.com/resources/assessments)
     
-    Latest Guide
+    Latest REPort
     
-    [![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/66cce8931b3bbf2d30d1f975_lookout-sse-buyers-guide-email-1200x628-v2%20(1).png)
+    [![Q3 2024 Mobile Threat Landscape Report](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6758ccfe20c078f23acfde2b_Q3%20Threat%20Report.avif)
     
     Webflow in 2021
     
-    * SSE Buyer’s Guide: Key Capabilities for a Unified, Data-Centric Solution
+    * **Q3 Mobile Threat Landscape Report**
         
-        Discover the key capabilities every SSE needs to protect your organization.](https://resources.lookout.com/resources/sse-buyers-guide-key-capabilities-for-a-unified-data-centric-solution)
+        Discover how threats are evolving and identify areas where you may be vulnerable.](https://security.lookout.com/threat-intelligence/report/q3-2024-mobile-landscape-threat-report-copy)
     
 * Company
     
