@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/robert-kennedy-for-president/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/vaccinatie-en-zelfbeschikkingsrecht/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
