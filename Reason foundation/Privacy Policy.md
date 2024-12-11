@@ -9,7 +9,7 @@
 ### Thank you for supporting us during our webathon!
 
 #### Reason is supported by:  
-Maya Davis
+Jaime Reynoso
 
 [Donate](https://reason.com/donate/?rfr=d0001&ip_creative_slot=ad&ip_creative_name=top_banner&ip_promotion_id=d0001&ip_promotion_name=webathon_2024&ip_item_name=donation "Donate to Reason")
 
@@ -45,6 +45,7 @@ Maya Davis
 * [Subscribe](https://reason.secure.darwin.cx/J4PKEXTR?utm_source=nav&utm_medium=internal_ad&utm_campaign=reason_plus)
     * [Reason Plus Subscription](https://reason.secure.darwin.cx/J4PKEXTR?utm_source=nav&utm_medium=internal_ad&utm_campaign=reason_plus)
     * [Print Subscription](https://reason.secure.darwin.cx/J4PKFXTR?utm_source=nav&utm_medium=internal_ad&utm_campaign=reason_print)
+    * [Gift Subscriptions](https://reason.secure.darwin.cx/J4LGPR1R)
 
 Search for:  
 
