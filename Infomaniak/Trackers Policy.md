@@ -123,10 +123,9 @@ Events & Marketing
     * [![VPS Lite](/img/common/suite/vps-lite.svg)
         
         VPS Lite Create a Windows/Linux server at a low cost](https://www.infomaniak.com/en/hosting/vps-lite)
-    * ![](/img/common/suite/dbaas.svg)
+    * [![](/img/common/suite/dbaas.svg)
         
-        Database Service Manage your databases with a managed solution
-        
+        Database Service Manage your databases with a managed solution](https://www.infomaniak.com/en/hosting/public-cloud/database)
     * [![jelastic cloud](/img/common/suite/jelastic.svg)
         
         Jelastic Cloud (PaaS) Create your own customised environments](https://www.infomaniak.com/en/hosting/dedicated-and-cloud-servers/jelastic-cloud)
