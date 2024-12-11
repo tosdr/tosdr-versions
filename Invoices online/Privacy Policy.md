@@ -117,61 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
+> Enjoying Invoices Online
 > ------------------------
 > 
-> Thanks Adriaan...
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
 > 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> I have upgraded to the Gold account in order to support you guys!
 
-Johan Botha - Brand Xplosion
+Shaun Gartshore
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=205910455)  
-Cooper Logistics (Pty) Ltd
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=4616c76eab898167307461a8321055861c91dce17f141d026610ac1dd405a6ec&c=129238333)  
+Kaylas Creations
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=6717321)  
-FlipDesign - Renovation Contracting Firm
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=4616c76eab898167307461a8321055861c91dce17f141d026610ac1dd405a6ec&c=59072904)  
+MR Compressors& Industrial Supplies
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=15640183)  
-National Elite Security Services (PTY) LTD
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=4616c76eab898167307461a8321055861c91dce17f141d026610ac1dd405a6ec&c=204207427)  
+OrgChart Hosting Pty Ltd
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=130213157)  
-FX ACCOUNTING
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=4616c76eab898167307461a8321055861c91dce17f141d026610ac1dd405a6ec&c=166240440)  
+Website Café (PTY) LTD
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=213889141)  
-van Schaik rentals
+![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=4616c76eab898167307461a8321055861c91dce17f141d026610ac1dd405a6ec&c=120109162)  
+Atalie Scented Candles Pty Ltd
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=54640881)  
-OptaServ
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=4616c76eab898167307461a8321055861c91dce17f141d026610ac1dd405a6ec&c=100369472)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=28874104)  
-West Coast Horse Trails
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=4616c76eab898167307461a8321055861c91dce17f141d026610ac1dd405a6ec&c=192034497)  
+Electro-Heat
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=209478180)  
-Cooper Power South Africa (Pty) LTD
+![valued client Hydroworld PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=4616c76eab898167307461a8321055861c91dce17f141d026610ac1dd405a6ec&c=42148183)  
+Hydroworld PTY LTD
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=63610318)  
-Gemini-IT Group
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=4616c76eab898167307461a8321055861c91dce17f141d026610ac1dd405a6ec&c=52129032)  
+Immediate Health (pty)ltd
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=20867209)  
-Roamfree Boerdery (PTY) LTD
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=4616c76eab898167307461a8321055861c91dce17f141d026610ac1dd405a6ec&c=194649218)  
+SR Travel Services
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=29700228)  
-Konsortium Operations (PTY) LTD
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=4616c76eab898167307461a8321055861c91dce17f141d026610ac1dd405a6ec&c=36978665)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=39804418)  
-Roekeloos Group
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=4616c76eab898167307461a8321055861c91dce17f141d026610ac1dd405a6ec&c=82171556)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=165080338)  
-Imvubu General Trading
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=4616c76eab898167307461a8321055861c91dce17f141d026610ac1dd405a6ec&c=37452741)  
+Import Maaw
 
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=132013801)  
-Calonet
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=4616c76eab898167307461a8321055861c91dce17f141d026610ac1dd405a6ec&c=161379804)  
+BD Maintenance
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=48189916)  
-Oak Tree Immigration
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=4616c76eab898167307461a8321055861c91dce17f141d026610ac1dd405a6ec&c=22786545)  
+Bloem Rugby Academy PTY (Ltd)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
