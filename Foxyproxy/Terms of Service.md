@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks again for your excellent service.
+As usual, outstanding service and support!
 
-MD MacKillop
+Stephen Turton
