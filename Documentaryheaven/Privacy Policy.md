@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![Why We Bang](/wp-content/thumbnails/1121-100x70.jpg?x53432)
+* [![Dispatches: The Killing Zone](/wp-content/thumbnails/481-100x70.png?x53432)
     
-    Why We Bang
+    Dispatches: The Killing Zone
     
-    The film, Why We Bang, produced and directed by Orlando Myrics and Clifford Jordan for Ghetto Logik Entertainment is an independent film that documents the historical background of LA's Bloods and Cri...](https://documentaryheaven.com/why-we-bang/ "Why We Bang")
+    While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
 
 ###### Throwback Documentaries
 
-* [![Michael Collins](/wp-content/thumbnails/11435-100x70.png?x53432)
+* [![Nukes In Space](/wp-content/thumbnails/58-100x70.png?x53432)
     
-    Michael Collins
+    Nukes In Space
     
-    This Easter marked the 100th anniversary of Ireland's 1916 Easter Rising. Michael Collins who was born in Clonakilty, Co. Cork on the 16th of October 1890 was a foot-soldier in this Rising and during](https://documentaryheaven.com/michael-collins/ "Michael Collins")
-* [![Manny Pacquiao ‘The Pacman’](/wp-content/thumbnails/9711-100x70.jpg?x53432)
+    The problems encountered in the America's cold war rocketry program is dramatically illustrated with a film montage of U.S. missiles spectacularly blowing up on their launch pads. After the Soviets la](https://documentaryheaven.com/nukes-in-space/ "Nukes In Space")
+* [![Surviving D-Day](/wp-content/thumbnails/6946-100x70.jpeg?x53432)
     
-    Manny Pacquiao ‘The Pacman’
+    Surviving D-Day
     
-    The MGM Grande in Las Vagas 2009, Filipino Manny Pacquiao destroys Miguel Cotto and becomes the first man in history to win seven world titles in seven different boxing divisions. Few would](https://documentaryheaven.com/manny-pacquiao-pacman/ "Manny Pacquiao ‘The Pacman’")
-* [![Quantum Computer in a Nutshell](/wp-content/thumbnails/13504-100x70.jpg?x53432)
+    Five years into World War II, the future of Europe hangs in the balance, as 34,000 US soldiers embark on a mission to launch the biggest attack ever from sea. This fascinating documentary, interviews](https://documentaryheaven.com/surviving-d-day/ "Surviving D-Day")
+* [![The Woman Who Woke Up Chinese](/wp-content/thumbnails/8084-100x70.jpg?x53432)
     
-    Quantum Computer in a Nutshell
+    The Woman Who Woke Up Chinese
     
-    The ability to contemplate the meaning of the world around us brings out a constant desire to deepen our knowledge and broaden our horizons, this curiosity is fundamental to the development of our spe](https://documentaryheaven.com/quantum-computer-nutshell/ "Quantum Computer in a Nutshell")
-* [![Secret Lives: L. Ron Hubbard](/wp-content/thumbnails/1173-100x70.jpg?x53432)
+    In 2012, Plymouth born Sarah Colwill was rushed to hospital with what seemed to be a severe migraine. Little did she suspect that when she woke up a few hours later her usual Devon accent would be rep](https://documentaryheaven.com/woman-who-woke-up-chinese/ "The Woman Who Woke Up Chinese")
+* [![Bobby Fischer Against The World](/wp-content/thumbnails/5887-100x70.jpg?x53432)
     
-    Secret Lives: L. Ron Hubbard
+    Bobby Fischer Against The World
     
-    An intriguing, but bizarre, biographical documentary by Channel 4 on the 'Secret Life' of L Ron Hubbard - the Sci Fi author and creator of the Scientology cult. This biopic from 1997, with some fantas](https://documentaryheaven.com/secret-lives-l-ron-hubbard/ "Secret Lives: L. Ron Hubbard")
-* [![Amy Winehouse: The Girl Done Good](/wp-content/thumbnails/5936-100x70.jpg?x53432)
+    The first documentary feature – originally aired on HBO – to explore the tragic and bizarre life of the late chess master Bobby Fischer. The drama of Bobby Fischer’s career was undeniable, from his tr](https://documentaryheaven.com/bobby-fischer-against-the-world/ "Bobby Fischer Against The World")
+* [![20 Football Transfers That Shocked the World](/wp-content/thumbnails/7014-100x70.jpg?x53432)
     
-    Amy Winehouse: The Girl Done Good
+    20 Football Transfers That Shocked the World
     
-    Amy Winehouse sadly joined the notourious 27 club on 23rd July 2011. Amy joins music icons such as Kurt Cobain, Jimmy Hendrix and Jim Morrission, who all tragically died at the young age of 27.Wha](https://documentaryheaven.com/amy-winehouse-the-girl-done-good/ "Amy Winehouse: The Girl Done Good")
+    When it comes to drama and politics you can always count on the football industry to keep you on the edge of your seat. This goes especially for the time during transfer windows. This Documentary look](https://documentaryheaven.com/20-football-transfers-that-shocked-the-world/ "20 Football Transfers That Shocked the World")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
