@@ -298,7 +298,7 @@ Main Navigation
     * Find out what sets Walden apart.
     * We’ve helped more than 140,000 professionals find the way forward. And we’re ready to empower you.
     * [Why Walden Overview](https://www.waldenu.edu/why-walden)
-    * [Wayfinder](https://www.waldenu.edu/why-walden/wayfinder)
+    * [Wayfinder for Bachelor's Degree Students](https://www.waldenu.edu/why-walden/wayfinder)
     * [Flexibility](https://www.waldenu.edu/why-walden/flexibility)
     * [Social Change Mission](https://www.waldenu.edu/why-walden/social-change)
     * [Diversity](https://www.waldenu.edu/why-walden/diversity)
@@ -837,7 +837,7 @@ Utility Navigation
     * [Find out what sets Walden apart.](# "Find out what sets Walden apart.")
     * [We’ve helped more than 140,000 professionals find the way forward. And we’re ready to empower you.](# "We’ve helped more than 140,000 professionals find the way forward. And we’re ready to empower you.")
     * [Why Walden Overview](https://www.waldenu.edu/why-walden "Why Walden Overview")
-    * [Wayfinder](https://www.waldenu.edu/why-walden/wayfinder "Wayfinder")
+    * [Wayfinder for Bachelor's Degree Students](https://www.waldenu.edu/why-walden/wayfinder "Wayfinder for Bachelor's Degree Students")
     * [Flexibility](https://www.waldenu.edu/why-walden/flexibility "Flexibility")
     * [Social Change Mission](https://www.waldenu.edu/why-walden/social-change "Social Change Mission")
     * [Diversity](https://www.waldenu.edu/why-walden/diversity "Diversity")
