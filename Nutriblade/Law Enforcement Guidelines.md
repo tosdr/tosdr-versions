@@ -50,7 +50,7 @@ BY ORDERING A PRODUCT FROM US, YOU UNDERSTAND AND AGREE THAT ANY DISPUTE BETWEEN
 
 **6\. SEVERABILITY.** If any provision of this Agreement is declared or found to be unlawful, unenforceable or void, such provision will be ineffective only to the extent that it is found unlawful, unenforceable or void, and the remainder of the provision and all other provisions shall remain fully enforceable.
 
-[CLICK HERE TO ORDER NOW!](https://buynutriblade.com/checkout/magmasteel/step1?m=349001151779723059)
+[CLICK HERE TO ORDER NOW!](https://buynutriblade.com/checkout/magmasteel/step1?m=349004169801804778)
 
 * [Home](https://buynutriblade.com/Home)
 * [Privacy Policy](https://buynutriblade.com/Privacy-Policy)
