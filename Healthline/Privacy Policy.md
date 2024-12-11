@@ -164,12 +164,21 @@
 
 Subscribe
 
-[#### Migraine](https://www.healthline.com/migraine)
+[#### Parenthood](https://www.healthline.com/parenthood)
 
-* [Basics](https://www.healthline.com/migraine/basics)
-* [Treatments](https://www.healthline.com/migraine/medication-treatments)
-* [Alternative Therapies](https://www.healthline.com/migraine/alternative-therapy)
-* [Prevention](https://www.healthline.com/migraine/prevention-and-self-care)
+* Stages
+    
+    * [Becoming a Parent](https://www.healthline.com/parenthood/becoming-a-parent)
+    * [Pregnancy](https://www.healthline.com/parenthood/pregnancy)
+    * [Postpartum](https://www.healthline.com/parenthood/postpartum)
+    * [Baby](https://www.healthline.com/parenthood/baby)
+    * [Toddler](https://www.healthline.com/parenthood/toddler)
+    
+* [Fertility](https://www.healthline.com/parenthood/fertility)
+* [Health & Wellness](https://www.healthline.com/parenthood/health-wellness)
+* [Conditions & Concerns](https://www.healthline.com/parenthood/conditions-concerns)
+* [Relationships](https://www.healthline.com/parenthood/relationships)
+* [Products](https://www.healthline.com/parenthood/products-gear)
 
 Privacy Policy
 ==============
