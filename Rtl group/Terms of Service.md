@@ -308,6 +308,22 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-Ad Alliance goes programmatic linear TV](/.galleries/images/Frank-Vogel-Tom-Peruzzi_16-9.jpg?__scale=undefined&description=)
+    
+    Ad Alliance goes programmatic linear TV
+    
+    11.12.2024
+    
+    Ad-tech made in Europe: Virtual Minds’ Media Manager has been integrated into RTL Deutschland’s TV playout system, meaning Ad Alliance can now offer programmatic linear TV advertising.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Ad-Alliance-goes-programmatic-linear-TV/)
+    
+* [![slide-RTL Deutschland partners with Perplexity AI](/.galleries/images/RTL-Deutschland_Perplexity-AI_16-9.jpg?__scale=undefined&description=)
+    
+    RTL Deutschland partners with Perplexity AI
+    
+    09.12.2024
+    
+    RTL Deutschland partners with Perplexity AI to test the integration of AI-powered innovations into NTV, _Stern_ and other news offerings.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschland-partners-with-Perplexity-AI/)
+    
 * [![slide-RTL Deutschland secures Bundesliga rights](/.galleries/images/RTL-Deutschland-Bundesliga_16-9.jpg?__scale=undefined&description=)
     
     RTL Deutschland secures Bundesliga rights
@@ -323,14 +339,6 @@ Europe's leading entertainment brand
     25.11.2024
     
     RTL Deutschland’s _RTL Spendenmarathon_ took place from 21-22 November 2024, raising over €16 million for _Stiftung RTL_ and setting a world record with a 24-hour inclusion challenge.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Spendenmarathon-2024/)
-    
-* [![slide-We Are Era acquires Social Match](/.galleries/images/WAE_Social-Match-16-9.png?__scale=undefined&description=)
-    
-    We Are Era acquires Social Match
-    
-    18.11.2024
-    
-    We Are Era is strengthening its position in the German-speaking region by acquiring Social Match, a digital agency specialising in influencer and community marketing.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/We-Are-Era-acquires-Social-Match/)
     
 * [![slide-Quarterly statement: January to September 2024](/.galleries/images/Q3-2024_Title-EN_16-9.png?__scale=undefined&description=)
     
