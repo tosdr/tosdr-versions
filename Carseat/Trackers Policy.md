@@ -52,7 +52,7 @@ Install
 
 * Welcome! [CLICK HERE to ask a question](https://www.car-seat.org/index.php?forums/car-seats-child-safety-seat-questions-and-advice.4/post-thread) about the best carseat or safest choice for your family. Visitor posts subject to approval. _Please note that some threads are old and may contain obsolete or outdated information. Please verify all advice with your owner's manuals and state law._
     
-* [](https://www.car-seat.org/account/dismiss-notice?notice_id=21 "Dismiss notice")**[Community 2024 Recommended Carseats](https://www.car-seat.org/threads/2021-recommended-car-seats-list-community-picks.229649/)**
+* [](https://www.car-seat.org/account/dismiss-notice?notice_id=21 "Dismiss notice")**[Community 2024-2025 Recommended Carseats](https://www.car-seat.org/threads/2021-recommended-car-seats-list-community-picks.229649/)**
     
 
 * [Home](https://www.car-seat.org/) 
@@ -125,13 +125,6 @@ To learn more about cookies, and find more information about blocking certain ty
 ### Car-Seat.Org Facebook Group
 
 [Find us on Facebook Here](https://www.facebook.com/groups/carseatorg)
-
-### Sponsors
-
-[CarseatBlog](https://carseatblog.com/)  
-[Britax Child Safety](https://us.britax.com/shop/car-seats)  
-[Graco Baby](https://www.gracobaby.com/)  
-[Nuna Baby](https://www.nunababy.com/usa/)
 
 ### Forum statistics
 
