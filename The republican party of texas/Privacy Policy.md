@@ -422,7 +422,6 @@ Without a doubt, Texas is the strongest Republican state in the nation.
 #### Contact Us
 
 * [512.477.9821](tel:+15124779821)
-* 512.480.0709
 
 [Donate](https://secure.winred.com/republican-party-of-texas/donate)
 
