@@ -92,21 +92,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
+            ### [Some countries have eliminated malaria, but cases are growing elsewhere](https://www.sciencenews.org/article/malaria-report-card)
+            
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")59 mins ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
             ### [During an allergic response, some immune cells digest others](https://www.sciencenews.org/article/some-immune-cells-digest-others)
             
-            By [Caroline Hemphill](https://www.sciencenews.org/author/caroline-hemphill "Posts by Caroline Hemphill")13 hours ago
+            By [Caroline Hemphill](https://www.sciencenews.org/author/caroline-hemphill "Posts by Caroline Hemphill")19 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [The oldest known ritual chamber in the Middle East has been found](https://www.sciencenews.org/article/oldest-ritual-chamber-in-middle-east)
             
             By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")December 9, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [A squid-inspired medical device could reduce the need for needles](https://www.sciencenews.org/article/squid-inspired-medical-device-needles)
-            
-            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")December 9, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
