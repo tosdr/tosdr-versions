@@ -247,4 +247,4 @@ Aptoide App Store[FAQs](https://en.aptoide.com/company/faq)[Support](https://apt
 
 Aptoide S.A[The Company](https://en.aptoide.com/company/)[Products](https://en.aptoide.com/company/our-products)[About us](https://en.aptoide.com/company/about-us)[Careers](https://careers.aptoide.com/)
 
-Aptoide S.A Products[Aptoide App Store](https://en.aptoide.com/company)[Aptoide for iOS](https://ios.store.aptoide.com/)[Aptoide TV](https://tv.aptoide.com/)[Catappult](https://catappult.io/)[AppCoins Wallet](https://wallet.appcoins.io/)
+Aptoide S.A Products[Aptoide App Store](https://en.aptoide.com/company)[Aptoide for iOS](https://ios.store.aptoide.com/)[Aptoide TV](https://tv.aptoide.com/)[Aptoide Connect](https://connect.aptoide.com/)[AppCoins Wallet](https://wallet.appcoins.io/)
