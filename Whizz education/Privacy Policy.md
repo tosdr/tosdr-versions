@@ -39,10 +39,10 @@ Please click below to view all our Data Protection and Privacy Statements and/or
 [Privacy Statement for Teachers](https://www.whizz.com/wp-content/uploads/2022/12/Privacy-Statement-for-Teachers-and-Staff-1-2-22.pdf)  
 [Privacy Statement for Teachers (EEF Trials Schools Only)](https://whizz.com/wp-content/uploads/Privacy-Statement-Teachers-2024-25-EEF-Study-Only-3.pdf)  
 [Privacy Statement for Home Subscribers](https://www.whizz.com/wp-content/uploads/2022/12/Privacy-Statement-for-Home-Subscribers-1-2-22.pdf)  
-[Privacy Statement for Students](https://www.whizz.com/wp-content/uploads/2023/01/Privacy-Statement-for-Maths-Whizz-Students-1-2-22.pdf.pagespeed.ce.ZJxENXQ4Zb.pdf)  
+[Privacy Statement for Students](https://www.whizz.com/wp-content/uploads/2023/01/Privacy-Statement-for-Maths-Whizz-Students-1-2-22.pdf)  
 [Privacy Statement for Students (EEF Trial Schools Only)](https://whizz.com/wp-content/uploads/Privacy-Statement-Students-2024-25-EEF-Study-Only-3.pdf)  
 [Data Protection Supplementary Statement for Schools](https://www.whizz.com/wp-content/uploads/2022/12/Data-Protection-Supplementary-Statement-for-Schools-2021-final.pdf)  
-[Subject Access Request Form](https://www.whizz.com/wp-content/uploads/2022/12/Subject-Access-Request-Form-2021-final.pdf.pagespeed.ce.rpvutPeZGG.pdf)
+[Subject Access Request Form](https://www.whizz.com/wp-content/uploads/2022/12/Subject-Access-Request-Form-2021-final.pdf)
 
 If you have questions regarding our Data Protection Policy or any other matter related to data protection and privacy, please don’t hesitate to contact us at [dpo@whizz.com](mailto:dpo@whizz.com). Customers in the European Economic Area should contact our EU Data Representative, Ms Asem Koshkarbayeva at 10, Avenue du Maréchal Foch, 06000, Nice, email: [asem.koshkarbayeva@whizz.com](mailto:asem.koshkarbayeva@whizz.com).
 
