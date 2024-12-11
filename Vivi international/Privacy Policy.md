@@ -150,6 +150,7 @@ For all privacy-related inquiries or concerns, please reach out to us at the ded
 * [Resellers](https://www.vivi.io/resellers/)
 * [Training](https://www.vivi.io/training/)
 * [Blog](https://www.vivi.io/blog/)
+* [Press](https://www.vivi.io/press/)
 
 ##### Join our mailing list
 
