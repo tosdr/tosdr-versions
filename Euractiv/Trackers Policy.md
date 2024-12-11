@@ -111,6 +111,14 @@ Most recent
 
 [10-12-2024
 
+Deforestation law not enough to save tropical forests, EU must reflect on the impact](https://www.euractiv.com/section/eet/news/deforestation-law-not-enough-to-save-tropical-forests-eu-must-reflect-on-the-impact/)[10-12-2024
+
+Calls for less bureaucracy, more cooperation to promote EU pharmaceutical competitiveness](https://www.euractiv.com/section/health-consumers/news/calls-for-less-bureaucracy-more-cooperation-to-promote-eu-pharmaceutical-competitiveness/)[10-12-2024
+
+Wolves face increased risk after Bern Convention protections removed](https://www.euractiv.com/section/eet/news/wolves-face-increased-risk-after-bern-convention-protections-removed/)[10-12-2024
+
+Global food insecurity persists. Can certification help?](https://www.euractiv.com/section/agriculture-food/news/global-food-insecurity-persists-can-certification-help/)[10-12-2024
+
 Stronger cohesion funding, structural reform linkage could boost EU competitiveness, say new reports](https://www.euractiv.com/section/economy-jobs/news/stronger-cohesion-funding-and-structural-reform-linkage-could-boost-eu-competitiveness-say-new-reports/)[10-12-2024
 
 Macron promises to appoint new prime minister ‘within 48 hours’](https://www.euractiv.com/section/politics/news/macron-promises-to-appoint-new-prime-minister-within-48-hours/)[10-12-2024
@@ -121,15 +129,7 @@ EU mulls diplomatic visa bans as Georgia protests intensify](https://www.euracti
 
 The intense telecoms ‘war’ that triggered a regulatory debate in France](https://www.euractiv.com/section/tech/news/the-intense-telecoms-war-that-triggered-a-regulatory-debate-in-france/)[10-12-2024
 
-Europe’s beauty companies reinvesting 5% of sales in R&D for Green Deal goals](https://www.euractiv.com/section/eet/news/europes-beauty-companies-reinvesting-5-of-sales-in-rd-for-green-deal-goals/)[10-12-2024
-
-Poland’s Tusk signals possible winter peace talks for Ukraine](https://www.euractiv.com/section/politics/news/polands-tusk-signals-possible-winter-peace-talks-for-ukraine/)[10-12-2024
-
-Critical Medicines Act wedged between HERA and DG SANTE](https://www.euractiv.com/section/health-consumers/news/critical-medicines-act-wedged-between-hera-and-dg-sante/)[10-12-2024
-
-Earlier responses to Covid-19 reduced economic impact and excess deaths, says study](https://www.euractiv.com/section/health-consumers/news/earlier-responses-to-covid-19-reduced-economic-impact-and-excess-deaths-says-study/)[10-12-2024
-
-Macron to head to Warsaw to brief Tusk, Duda on US-Ukraine talks](https://www.euractiv.com/section/politics/news/macron-to-head-to-warsaw-to-brief-tusk-duda-on-us-ukraine-talks/)
+Europe’s beauty companies reinvesting 5% of sales in R&D for Green Deal goals](https://www.euractiv.com/section/eet/news/europes-beauty-companies-reinvesting-5-of-sales-in-rd-for-green-deal-goals/)
 
 ###### Advertisement
 
