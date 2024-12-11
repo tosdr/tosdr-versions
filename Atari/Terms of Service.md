@@ -140,8 +140,6 @@ Games
     
     [RollerCoaster Tycoon](https://atari.com/pages/rollercoaster-tycoon)
     
-    [Atari XP](https://www.atari.com/collections/atari-xp)
-    
     [Atari Recharged](https://www.atari.com/collections/games-recharged)
     
     [Atari Classics](https://www.atari.com/collections/games-atari-classics)
@@ -189,8 +187,6 @@ Featured
     [Yars Rising](https://atari.com/products/yars-rising)
     
     [RollerCoaster Tycoon](https://atari.com/pages/rollercoaster-tycoon)
-    
-    [Atari XP](https://www.atari.com/collections/atari-xp)
     
     [Atari Recharged](https://www.atari.com/collections/games-recharged)
     
