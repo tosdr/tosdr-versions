@@ -47,6 +47,11 @@ Skip links
     
     [Resolutions](https://texasgop.org/category/resolutions/)
     
+    [Resolution to Rein in the Abuses of the Texas Ethics Commission](https://texasgop.org/resolution-rein-in-abuses-of-tec/)
+    -------------------------------------------------------------------------------------------------------------------------
+    
+    [Resolutions](https://texasgop.org/category/resolutions/)
+    
     [Resolution Urging GOP Caucus Unity](https://texasgop.org/urging-gop-caucus-unity-resolution/)
     ----------------------------------------------------------------------------------------------
     
@@ -54,11 +59,6 @@ Skip links
     
     [Texas House GOP Caucus Resolution](https://texasgop.org/texas-house-gop-caucus-resolution/)
     --------------------------------------------------------------------------------------------
-    
-    [Press releases](https://texasgop.org/category/press-releases/)
-    
-    [Official Trump Statement](https://texasgop.org/official-trump-statement/)
-    --------------------------------------------------------------------------
     
     ###### Contact Us for Latest Updates
     
