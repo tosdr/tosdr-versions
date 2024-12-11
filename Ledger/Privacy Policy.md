@@ -1,6 +1,6 @@
-[Review and sign transactions from a single secure screen with Ledger Flex™
+[HOLIDAY OFFER: Get the gift of up to $70 of Bitcoin. While supplies last!
 
-Discover now](https://shop.ledger.com/pages/ledger-flex)
+Shop now](https://shop.ledger.com/pages/gift-of-bitcoin)
 
 Do you want to change language to ?
 
