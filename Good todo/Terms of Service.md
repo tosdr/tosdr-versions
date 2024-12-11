@@ -1,4 +1,4 @@
-[![Good Todo](/app/views/public/images/xlogo.png.pagespeed.ic.3TiL0dyGJ4.png)](https://goodtodo.com/)
+[![Good Todo](/app/views/public/images/logo.png)](https://goodtodo.com/)
 
 [BLOG](https://blog.goodtodo.com/)  _/_  [SIGN UP](#signup-popup)  _/_  [Log in](#login-popup)
 
