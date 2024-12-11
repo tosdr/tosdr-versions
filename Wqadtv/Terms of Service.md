@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/657f7c0e-5590-4950-a352-c1dd2d9b2321/20241210T224034/657f7c0e-5590-4950-a352-c1dd2d9b2321_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/657f7c0e-5590-4950-a352-c1dd2d9b2321/20241210T224034/657f7c0e-5590-4950-a352-c1dd2d9b2321_360x203.jpg)](https://www.wqad.com/article/news/local/temporary-ice-rink-village-east-davenport/526-a9e8613c-31f2-402e-8a06-66ba074bc285)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/cdab566e-c6a7-44f8-a0e2-535895d96823/20241211T230933/cdab566e-c6a7-44f8-a0e2-535895d96823_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cdab566e-c6a7-44f8-a0e2-535895d96823/20241211T230933/cdab566e-c6a7-44f8-a0e2-535895d96823_360x203.jpg)](https://www.wqad.com/article/news/local/cody-shooting-complex-range-opens-long-grove/526-84c54eb6-131e-4264-b92b-efc197a9fef4)
         
-        #### [Temporary ice rink installed in the Village of East Davenport](https://www.wqad.com/article/news/local/temporary-ice-rink-village-east-davenport/526-a9e8613c-31f2-402e-8a06-66ba074bc285)
+        #### [New shooting range opens in Long Grove](https://www.wqad.com/article/news/local/cody-shooting-complex-range-opens-long-grove/526-84c54eb6-131e-4264-b92b-efc197a9fef4) [![](https://media.tegna-media.com/assets/WQAD/images/cdab566e-c6a7-44f8-a0e2-535895d96823/20241211T230933/cdab566e-c6a7-44f8-a0e2-535895d96823_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cdab566e-c6a7-44f8-a0e2-535895d96823/20241211T230933/cdab566e-c6a7-44f8-a0e2-535895d96823_360x203.jpg)](https://www.wqad.com/article/news/local/cody-shooting-complex-range-opens-long-grove/526-84c54eb6-131e-4264-b92b-efc197a9fef4)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/121aee24-0c2b-4909-aac2-a8dca6d803fb/20241211T040837/121aee24-0c2b-4909-aac2-a8dca6d803fb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/121aee24-0c2b-4909-aac2-a8dca6d803fb/20241211T040837/121aee24-0c2b-4909-aac2-a8dca6d803fb_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-west-coach-paul-flynn-ring-of-honor/526-dd81dbf4-684a-41b2-93e0-c5867617b6cc)
+        #### [Cody Shooting Complex opens its doors to shooters in Long Grove](https://www.wqad.com/article/news/local/cody-shooting-complex-range-opens-long-grove/526-84c54eb6-131e-4264-b92b-efc197a9fef4)
+    *  [![](https://media.tegna-media.com/assets/WTSP/images/ff224081-a96d-4695-a85f-94a817e69769/ff224081-a96d-4695-a85f-94a817e69769_16x9.jpeg) ![](https://media.tegna-media.com/assets/WTSP/images/ff224081-a96d-4695-a85f-94a817e69769/ff224081-a96d-4695-a85f-94a817e69769_360x203.jpeg)](https://www.wqad.com/article/news/local/top-baby-names-2024-quad-cities-unity-point-health-trinity/526-ec51e84f-8be1-479d-8176-6d107edd1933)
         
-        #### [Longtime Davenport West coach gets his Ring of Honor](https://www.wqad.com/article/news/local/davenport-west-coach-paul-flynn-ring-of-honor/526-dd81dbf4-684a-41b2-93e0-c5867617b6cc)
+        #### [Here are the top baby names for 2024 from UnityPoint Health-Trinity](https://www.wqad.com/article/news/local/top-baby-names-2024-quad-cities-unity-point-health-trinity/526-ec51e84f-8be1-479d-8176-6d107edd1933)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/CCT/images/ecb17136-2e57-4343-92f3-64ac86a14a10/20241211T122404/ecb17136-2e57-4343-92f3-64ac86a14a10_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/ecb17136-2e57-4343-92f3-64ac86a14a10/20241211T122404/ecb17136-2e57-4343-92f3-64ac86a14a10_360x203.jpg)](https://www.wqad.com/article/news/nation-world/malibu-wildfire-evacuations/507-7264ecc2-9b62-4d78-97d4-743a69fc3fec)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/57f2f5b1-af2a-4306-b908-2157c1bbcc8e/20241211T223912/57f2f5b1-af2a-4306-b908-2157c1bbcc8e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/57f2f5b1-af2a-4306-b908-2157c1bbcc8e/20241211T223912/57f2f5b1-af2a-4306-b908-2157c1bbcc8e_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Celebrities under evacuation order as wildfire rips through Malibu](https://www.wqad.com/article/news/nation-world/malibu-wildfire-evacuations/507-7264ecc2-9b62-4d78-97d4-743a69fc3fec)
+        #### [Weather Impact Alert: Coldest air of the season so far arrives overnight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/bcdb2fd5-3013-4e01-8b61-e5b97827fd91/20241211T123134/bcdb2fd5-3013-4e01-8b61-e5b97827fd91_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/bcdb2fd5-3013-4e01-8b61-e5b97827fd91/20241211T123134/bcdb2fd5-3013-4e01-8b61-e5b97827fd91_360x203.jpg)](https://www.wqad.com/article/news/nation-world/atmospheric-river-and-potential-bomb-cyclone-east-coast/507-b079c2b0-e7eb-4d0b-b3b9-86e040a9339a)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/551466ec-9bfd-4fe8-b50c-8f180f865d48/20241211T220907/551466ec-9bfd-4fe8-b50c-8f180f865d48_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/551466ec-9bfd-4fe8-b50c-8f180f865d48/20241211T220907/551466ec-9bfd-4fe8-b50c-8f180f865d48_360x203.jpg)](https://www.wqad.com/article/news/local/eldridge-man-building-snow-tubing-hill-lost-grove-lake/526-eb253b51-f289-4e48-a5fe-890ceb25d970)
         
-        #### [Winter whiplash: East Coast could be hit with 'bomb cyclone'](https://www.wqad.com/article/news/nation-world/atmospheric-river-and-potential-bomb-cyclone-east-coast/507-b079c2b0-e7eb-4d0b-b3b9-86e040a9339a)
+        #### [Eldridge man building snow tubing hill near Lost Grove Lake](https://www.wqad.com/article/news/local/eldridge-man-building-snow-tubing-hill-lost-grove-lake/526-eb253b51-f289-4e48-a5fe-890ceb25d970)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -74,13 +75,13 @@ Navigation
     
     Latest Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/cb42fb9e-923e-4223-88fa-fd80b618a7a2/20241211T162504/cb42fb9e-923e-4223-88fa-fd80b618a7a2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cb42fb9e-923e-4223-88fa-fd80b618a7a2/20241211T162504/cb42fb9e-923e-4223-88fa-fd80b618a7a2_360x203.jpg)](https://www.wqad.com/article/sports/local-sports/lsu-kim-mulkey-davenport-divine-bourrage-quad-cities-basketball/526-34443888-079b-47cd-b27f-42c4e29b2e6e)
+        
+        #### [LSU's Kim Mulkey visits the Quad Cities to watch 5-star Davenport North recruit Divine Bourrage](https://www.wqad.com/article/sports/local-sports/lsu-kim-mulkey-davenport-divine-bourrage-quad-cities-basketball/526-34443888-079b-47cd-b27f-42c4e29b2e6e)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/e5de6744-9f1a-4d76-9794-a6eae78eefe8/20240906T144305/e5de6744-9f1a-4d76-9794-a6eae78eefe8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e5de6744-9f1a-4d76-9794-a6eae78eefe8/20240906T144305/e5de6744-9f1a-4d76-9794-a6eae78eefe8_360x203.jpg)](https://www.wqad.com/article/sports/the-score/midwest-technical-institute-score-standout-wqad/526-d485d3df-8cee-4e73-bd43-16b4f8ce1b46)
         
         #### [Vote for this week's Midwest Technical Institute Score Standout | Week 15](https://www.wqad.com/article/sports/the-score/midwest-technical-institute-score-standout-wqad/526-d485d3df-8cee-4e73-bd43-16b4f8ce1b46)
-        
-    *  [![](https://media.tegna-media.com/assets/WTHR/images/e5056855-8330-4207-ad4c-680eff4c0fe0/20241210T145744/e5056855-8330-4207-ad4c-680eff4c0fe0_16x9.jpg) ![](https://media.tegna-media.com/assets/WTHR/images/e5056855-8330-4207-ad4c-680eff4c0fe0/20241210T145744/e5056855-8330-4207-ad4c-680eff4c0fe0_360x203.jpg)](https://www.wqad.com/article/sports/wnba/caitlin-clark-time-magazine-athlete-of-the-year-indiana-fever-wnba-sponsorships-records-ncaa-career-rookie/531-5a50b862-b338-498c-878a-300050fa9140)
-        
-        #### [Caitlin Clark is TIME magazine's Athlete of the Year](https://www.wqad.com/article/sports/wnba/caitlin-clark-time-magazine-athlete-of-the-year-indiana-fever-wnba-sponsorships-records-ncaa-career-rookie/531-5a50b862-b338-498c-878a-300050fa9140)
         
     
 * [VERIFY](https://www.wqad.com/verify)
@@ -97,9 +98,9 @@ Navigation
 
 Davenport, IA »
 
-22°
+15°
 
-![Cloudy/Wind](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Clear/Wind](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
