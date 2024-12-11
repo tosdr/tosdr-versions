@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Rep. Nancy Mace allegedly attacked on Capitol Hill; Suspect arrested](https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2024/12/32/18/gettyimages-1770887365.jpg?ve=1&tl=1)
+ [![Dallas City Council adds vaping to smoke-free ordinance](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/aa90a557-vaping.jpg?ve=1&tl=1)
 
- ![Rep. Nancy Mace allegedly attacked on Capitol Hill; Suspect arrested](https://images.foxtv.com/images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2024/12/32/18/592/333/gettyimages-1770887365.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/rep-nancy-mace-allegedly-attacked-capitol-hill-suspect-arrested)
+ ![Dallas City Council adds vaping to smoke-free ordinance](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/592/333/aa90a557-vaping.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-city-council-adds-vaping-smoke-free-ordinance)
 
-### [Rep. Nancy Mace claims ‘pro-trans man’ assaulted her on Capitol Hill](https://www.fox4news.com/news/rep-nancy-mace-allegedly-attacked-capitol-hill-suspect-arrested)
+### [Dallas City Council adds vaping to smoke-free ordinance](https://www.fox4news.com/news/dallas-city-council-adds-vaping-smoke-free-ordinance)
 
- [![The touching story behind a McKinney couple's massive Christmas lights display](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/mckinney-llights-display.png?ve=1&tl=1)
+ [![Duncanville H.S. quarterback is the 2024-25 Gatorade Texas Football Player of the Year](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/keelon-russell-duncanville-high-school-scaled.jpg?ve=1&tl=1)
 
- ![The touching story behind a McKinney couple's massive Christmas lights display](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/mckinney-llights-display.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mckinney-house-christmas-lights-mark-cornetti-nasheel-joules)
+ ![Duncanville H.S. quarterback is the 2024-25 Gatorade Texas Football Player of the Year](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/keelon-russell-duncanville-high-school-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/duncanville-h-s-quarterback-is-2024-25-gatorade-texas-football-player-year)
 
-### [The touching story behind a McKinney couple's massive Christmas lights display](https://www.fox4news.com/news/mckinney-house-christmas-lights-mark-cornetti-nasheel-joules)
+### [Duncanville H.S. quarterback is the 2024-25 Gatorade Texas Football Player of the Year](https://www.fox4news.com/sports/duncanville-h-s-quarterback-is-2024-25-gatorade-texas-football-player-year)
 
- [![Dallas drive-by shooting leaves mother, daughter seriously hurt after night out](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-peyton-inwood-rd-rideshare-shooting-9p_00.00.04.08.jpg?ve=1&tl=1)
+ [![Community honors fallen Terrell police officer Jacob Candanoza](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/terrell-officer-killed-payton-8am-live-rco_2024__00.03.21.32.jpg?ve=1&tl=1)
 
- ![Dallas drive-by shooting leaves mother, daughter seriously hurt after night out](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-peyton-inwood-rd-rideshare-shooting-9p_00.00.04.08.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-drive-by-shooting-leaves-mother-daughter-seriously-hurt-after-night-out)
+ ![Community honors fallen Terrell police officer Jacob Candanoza](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/terrell-officer-killed-payton-8am-live-rco_2024__00.03.21.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/community-honors-fallen-terrell-police-officer-jacob-candanoza)
 
-### [Dallas drive-by shooting leaves mother, daughter seriously hurt after night out](https://www.fox4news.com/news/dallas-drive-by-shooting-leaves-mother-daughter-seriously-hurt-after-night-out)
+### [Community honors fallen Terrell police officer Jacob Candanoza](https://www.fox4news.com/news/community-honors-fallen-terrell-police-officer-jacob-candanoza)
 
- [![Study finds hot cocoa can help reduce stress — but only under these conditions](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-630005112.jpg?ve=1&tl=1)
+ [![‘Iranian mothership’ behind mystery drone sightings, New Jersey congressman suggests](https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/12/32/18/new-jersey-drone-credit-burned.jpg?ve=1&tl=1)
 
- ![Study finds hot cocoa can help reduce stress — but only under these conditions](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-630005112.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/hot-cocoa-reduces-stress-study)
+ ![‘Iranian mothership’ behind mystery drone sightings, New Jersey congressman suggests](https://images.foxtv.com/images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/12/32/18/592/333/new-jersey-drone-credit-burned.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/iranian-mothership-mystery-drone-sightings-new-jersey-van-drew)
 
-### [Study finds hot cocoa can help reduce stress — but only under these conditions](https://www.fox4news.com/news/hot-cocoa-reduces-stress-study)
+### [‘Iranian mothership’ behind mystery drone sightings, New Jersey congressman suggests](https://www.fox4news.com/news/iranian-mothership-mystery-drone-sightings-new-jersey-van-drew)
 
- [![North Texas man accused of exposing himself at theater during children's movie](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/image003.png?ve=1&tl=1)
+ [![UnitedHealthcare CEO killing: Gun found on suspect matches shell casings at scene](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/gettyimages-2188645306.jpg?ve=1&tl=1)
 
- ![North Texas man accused of exposing himself at theater during children's movie](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/image003.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ellis-co-man-accused-exposing-himself-theater-during-kids-movie)
+ ![UnitedHealthcare CEO killing: Gun found on suspect matches shell casings at scene](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188645306.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unitedhealthcare-ceo-killing-gun-shell-casings-match)
 
-### [North Texas man accused of exposing himself at theater during children's movie](https://www.fox4news.com/news/ellis-co-man-accused-exposing-himself-theater-during-kids-movie)
+### [UnitedHealthcare CEO killing: Gun found on suspect matches shell casings at scene](https://www.fox4news.com/news/unitedhealthcare-ceo-killing-gun-shell-casings-match)
 
 ###### [News](https://www.fox4news.com/news)
 
