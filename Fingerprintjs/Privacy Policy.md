@@ -660,7 +660,7 @@ We may update this European Data Annex from time to time and so you should revie
 
 If we need to provide you with information about something, whether for legal, marketing or other business related purposes, we will select what we believe is the best way to get in contact with you. We will usually do this through email. The fact that we may send notices to you will not stop you from being able to opt out of certain types of contact as described in this European Data Annex.
 
-Updated 16 days ago
+Updated 17 days ago
 
 * * *
 
