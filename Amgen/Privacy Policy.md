@@ -274,7 +274,7 @@ Privacy Statement
 =================
 
 * [English](#section-content-05F84315-531B-4991-867B-89819B496B47)
-* [Español](#section-content-0085E33A-B7A2-46F5-BDF4-6BC2C3E616F2)
+* [Español](#section-content-E5438B02-8DC2-415A-AA8C-5F03C1220CF4)
 
 Amgen Inc. and Amgen USA Inc. (collectively "**Amgen**," "**We**" or "**Our**") are committed to respecting your privacy. This Privacy Statement is intended to answer your important questions about our privacy practices, whether you are looking for health information or are mining the experience of Amgen to refine your expertise in meeting the needs of your patients.  
 
@@ -402,7 +402,7 @@ Amgen reserves the right to change the terms of this Privacy Statement. If we ma
 
 #### X. SUPPLEMENTAL PRIVACY NOTICE FOR CALIFORNIA AND OTHER APPLICABLE U.S. STATE LAWS
 
-Last Updated November --, 2024
+Last Updated December 11, 2024
 
 This Supplemental Website Privacy Notice ("Supplemental Notice") applies only to information collected about Consumers who are residents of California and other U.S. states with comprehensive privacy legislation that applies to Amgen. We also provide additional disclosures for compliance with consumer health data laws, including those in Washington and Nevada, at the following link: [amgen.com/healthdataprivacypolicy](https://wwwext.amgen.com/healthdataprivacypolicy)
 
@@ -627,338 +627,428 @@ Thousand Oaks, California 91320
 
 Be sure to include your name, address, and email address if you want to receive a response by email. Otherwise, we will respond by postal mail within the time required by applicable law.
 
-Effective Date: November --, 2024
+Effective Date: December 11, 2024
 
 DECLARACIÓN DE PRIVACIDAD DE AMGEN
 ----------------------------------
 
-Amgen Inc. y Amgen USA Inc. (colectivamente "**Amgen**," "**Nosotros**" o "**Nuestro**") se comprometen a respetar su privacidad. Esta Declaración de Privacidad tiene como finalidad responder a sus preguntas importantes sobre nuestras prácticas de privacidad, tanto si está buscando información sobre salud como si está examinando la experiencia de Amgen con el fin de aumentar sus conocimientos especializados sobre cómo satisfacer las necesidades de sus pacientes. Esta Declaración de Privacidad se aplica a todas las actividades de servicios de Amgen en línea o digitales, incluidas, entre otras, [www.amgen.com](https://wwwext.amgen.com/) ("**Sitio**"), nuestras otras páginas web, aplicaciones móviles ("**_Apps_**") y servicios digitales ("**Servicios**") en los que se publica o se crean enlaces.
+Amgen Inc. y Amgen USA Inc. (colectivamente "**Amgen**", "**Nosotros**" o "**Nuestro**") están comprometidos a respetar su privacidad. Esta Declaración de Privacidad está destinada a responder sus preguntas importantes sobre nuestras prácticas de privacidad, ya sea que esté buscando información de salud o aprovechando la experiencia de Amgen para mejorar su conocimiento en satisfacer las necesidades de sus pacientes.
 
-Lea con atención esta Declaración de Privacidad para entender mejor cómo recabamos, utilizamos, divulgamos y almacenamos la información facilitada, así como sobre las medidas que adoptamos para evitar que esta información, a menudo confidencial, se utilice sin autorización o se divulgue. Cuando se envía información a los Servicios o a través de estos, se está dando autorización para que esta información se recabe, procese y retenga según se describe en esta Declaración de Privacidad.
+Esta Declaración de Privacidad se aplica a todas las actividades en línea o digitales de Amgen, incluidas, pero no limitadas a [www.amgen.com](http://www.amgen.com/) (el "**Sitio**") y a nuestros otros sitios web, aplicaciones móviles ("**Aplicaciones**") y servicios digitales ("**Servicios**") en los que se publique o enlace.
 
-Esta Declaración de Privacidad se incorpora y forma parte de nuestros Términos de uso. Si aún no lo ha hecho, revise también los Términos de uso de Amgen. Los Términos de uso contienen disposiciones que limitan la responsabilidad de Amgen ante los usuarios de los Servicios.
+Por favor, lea detenidamente esta Declaración de Privacidad para aprender más sobre cómo recopilamos, utilizamos, divulgamos y almacenamos la información proporcionada y los pasos que tomamos para ayudar a proteger la información sensible proporcionada contra el uso o divulgación no autorizados. Al enviar información a través de los Servicios, usted consiente la recopilación, el procesamiento y la retención de su información según se describe en esta Declaración de Privacidad.
 
-**NO UTILICE NINGUNO DE LOS SERVICIOS SI NO ESTÁ DE ACUERDO CON ALGUNA PARTE DE ESTA DECLARACIÓN DE PRIVACIDAD.**
+Esta Declaración de Privacidad está incorporada y forma parte de nuestros Términos de Uso. Si aún no lo ha hecho, revise también los Términos de Uso de Amgen. Los Términos de Uso contienen disposiciones que limitan la responsabilidad de Amgen hacia los usuarios de los Servicios.
 
-Tenga en cuenta que esta Declaración de Privacidad no se aplica a la información recabada a través de páginas web o servicios de terceros a los que usted podría acceder a través de los Servicios.
+Tenga en cuenta que esta Declaración de Privacidad no se aplica a la información recopilada a través de sitios web o servicios de terceros a los que pueda acceder a través de los Servicios.
 
-Amgen es una multinacional con centros de datos en países de todo el mundo, entre ellos los Países Bajos y los Estados Unidos (sede central de Amgen Inc.). Amgen puede procesar la información personal que figura en las bases de datos mundiales a las que puede acceder el personal autorizado de Amgen de todo el mundo.
+Amgen es una empresa multinacional que mantiene centros de datos en todo el mundo, incluidos los Países Bajos y los Estados Unidos (sede mundial de Amgen Inc.). Amgen puede procesar información personal en bases de datos globales a las que pueden acceder empleados autorizados de Amgen en todo el mundo.
 
-La transmisión de información personal entre Amgen y las entidades de su grupo cumplen con la legislación vigente y con nuestras Normas Corporativas Vinculantes (NCV).  Para obtener información sobre las NCV, visite [http://www.amgen.com/bcr/](https://wwwext.amgen.com/bcr).
+Las transferencias de información personal entre Amgen y sus entidades grupales siguen las leyes aplicables y nuestras Reglas Corporativas Vinculantes (BCR, por sus siglas en inglés). Para obtener información sobre las BCR, visite:[http://www.amgen.com/bcr/](http://www.amgen.com/bcr/).
 
-#### I. INFORMACIÓN QUE RECABAMOS
+#### I. INFORMACIÓN QUE RECOPILAMOS
 
-Cuando se utilizan los Servicios, recabamos Información Personal y Datos de Uso.
+Cuando utiliza los Servicios, recopilamos Información Personal y Datos de Uso.
 
-En esta Declaración de Privacidad, "**Información Personal**" significa información asociada a una persona determinada, o utilizada para identificar o contactar con esa persona. La Información Personal incluye: (1) datos de contacto (como la dirección de correo electrónico, el número de teléfono y el empleador); (2) datos demográficos (como el sexo, la fecha de nacimiento y el código postal); y (3) determinados Datos de Uso (definidos más abajo).
+En esta Declaración de Privacidad, "**Información Personal**" significa información asociada con o utilizada para identificar o contactar a una persona específica. La Información Personal incluye: (1) datos de contacto (como dirección de correo electrónico, número de teléfono y empleador); (2) datos demográficos (como género, fecha de nacimiento y código postal); y (3) ciertos Datos de Uso (definidos a continuación).
 
-Determinadas partes de la Información Personal, como la información sobre salud o estado de salud (de conformidad con la legislación vigente) y los Datos de Localización (definidos más abajo), se caracterizan por ser confidenciales (colectivamente, "**Información Personal Confidencial**") y pueden estar sujetas a normativas y requisitos de autorización más estrictos que los de otro tipo de información. Antes de facilitarnos su Información Personal Confidencial, insistimos en que considere detenidamente si quiere hacerlo. Al facilitarnos Información Personal Confidencial, usted autoriza su uso y divulgación para los fines de esta Declaración de Privacidad y de la manera en que está aquí descrito.
+Ciertos subconjuntos de Información Personal, como información sobre la salud o el estado médico (según las leyes aplicables) y los Datos de Ubicación (definidos a continuación), se caracterizan como confidenciales (colectivamente, "**Información Personal Confidencial**") y pueden estar sujetas a regulaciones más estrictas y requisitos de consentimiento que otra información. Antes de proporcionarnos esta información, le instamos a considerar cuidadosamente si debe divulgar su Información Personal Confidencial. Si nos proporciona Información Personal Confidencial, usted consiente su uso y divulgación para los fines y de la manera descrita en esta Declaración de Privacidad.
 
-Los "**Datos de Uso**" consisten en información sobre la actividad de una persona en los Servicios o a través de estos que, por sí sola, no identifique al individuo, como el tipo de navegador, el sistema operativo y las páginas web visitadas.
+"**Datos de Uso**" son información sobre la actividad de un individuo en o a través de los Servicios que, por sí sola, no identifica al individuo, como el tipo de navegador, el sistema operativo y las páginas web visitadas.
 
-Los datos de uso por sí solos  no suelen considerarse datos personales porque normalmente no identifican a una persona. Si se vinculan diferentes tipos de Datos de uso e Información personal y, una vez vinculados, identifican a una persona individual, los Datos de uso en tales escenarios pueden considerarse Información personal.
+Los Datos de Uso, por sí solos, generalmente no se consideran Información Personal porque normalmente no identifican a una persona. Si diferentes tipos de Datos de Uso e Información Personal se vinculan entre sí y, una vez vinculados, identifican a una persona individual, los Datos de Uso en tales escenarios pueden considerarse Información Personal.
 
-#### II. CÓMO SE RECABA Y SE UTILIZA LA INFORMACIÓN
+Para obtener detalles adicionales sobre la información que recopilamos, junto con las divulgaciones aplicables a los residentes de ciertos estados de EE. UU., consulte la Sección X ("Aviso de Privacidad Suplementario para California y Otras Leyes Estatales Aplicables de EE. UU.") de esta Declaración de Privacidad. Además, para divulgaciones aplicables a residentes de estados de EE. UU. con legislación sobre datos de salud del consumidor, consulte: [amgen.com/healthdataprivacypolicy](http://www.amgen.com/healthdataprivacypolicy).
 
-Con el fin de prestar los Servicios, Amgen recaba y utiliza información, como:
+#### II. CÓMO SE RECOPILA Y UTILIZA LA INFORMACIÓN
 
-**Información que se facilita voluntariamente cuando se utilizan los Servicios.** Recabamos y utilizamos la Información Personal que usted nos facilita de manera voluntaria a través de los Servicios. Puede utilizar ciertos Servicios sin registrarse o identificarse, pero si no se registra, es posible que no tenga acceso a todos los Servicios. Si decide registrarse, podríamos utilizar la Información Personal que nos facilite para confirmar su registro y responder a sus consultas. Tras su consulta, también podríamos utilizar la Información Personal para enviarle promociones especiales o boletines con información que pudiera ser de su interés.
+Amgen recopila y utiliza información para operar los Servicios, incluidos los propósitos que se detallan a continuación. Dependiendo de su lugar de residencia y las leyes de privacidad aplicables al procesamiento de su Información Personal, es posible que obtengamos su consentimiento antes de procesar su Información Personal para ciertos fines.
 
-Si es usted un profesional sanitario o un proveedor sanitario institucional (colectivamente, "**Proveedores**"), antes de facilitar su Información Personal a Amgen a través de los Servicios, tiene la responsabilidad de obtener de sus pacientes toda autorización, consentimiento u otro permiso exigidos por la ley. Al enviar cualquier Información Personal sobre un paciente, usted declara y garantiza a Amgen que ha obtenido todas las autorizaciones necesarias para hacerlo.
+**Información Que Usted Proporciona Voluntariamente al Utilizar los Servicios**
 
-**A través del uso que haga de los Servicios Interactivos.** Si decide participar en nuestros cuestionarios y encuestas, así como otros Servicios interactivos, recabaremos la información, incluida información sobre salud y otra Información Personal Sensible que usted comparta con el fin de ayudarnos a entender cómo los productos de Amgen se utilizan durante el tratamiento de las enfermedades para las que se comercializan.
+Recopilamos y utilizamos la Información Personal que usted proporciona voluntariamente a través de los Servicios. Puede utilizar ciertos Servicios sin registrarse ni identificarse, pero si no se registra, es posible que no tenga acceso a todos los Servicios. Si elige registrarse, podemos usar la Información Personal que proporcione para confirmar su registro y responder a sus solicitudes. A solicitud suya, también podemos usar la Información Personal para enviarle promociones especiales o boletines con información que pueda interesarle.
 
-Sujeto a la legislación aplicable, la información que usted facilite a través de los Servicios interactivos se podría combinar con la Información Personal facilitada en otro sitio en los Servicios o a través de estos. Podríamos combinar su Información Personal con la de otras personas para crear datos resumidos que utilizaremos con fines corporativos, como investigaciones para mejorar nuestros productos y análisis que nos ayuden a comercializar mejor nuestros productos.
+Si usted es un profesional de la salud o un proveedor de atención médica institucional (colectivamente, "**Proveedores**"), es responsable de obtener cualquier autorización, consentimiento u otro permiso legal requerido de sus pacientes antes de proporcionar su Información Personal a Amgen a través de los Servicios. Al enviar cualquier Información Personal de un paciente, usted declara y garantiza a Amgen que ha obtenido todos los permisos requeridos para hacerlo.
 
-Si envía Información Personal sobre salud a través de los Servicios para participar en un ensayo clínico, podríamos utilizar su Información Personal para evaluar si cumple con los requisitos para participar en el ensayo, para contactarle en relación con sus posibilidades de participación en el ensayo y para facilitarle información adicional sobre el ensayo.
+**A Través del Uso de Servicios Interactivos**
 
-Puede facilitar información para que se edite o se muestre ("**Publique**") en las zonas públicas de los Servicios (colectivamente, "**Contribuciones del Usuario**"). Sus Contribuciones del Usuario son Publicadas y se ponen a disposición del público bajo su propia responsabilidad. Amgen no controla las acciones de terceros que tengan acceso a sus Contribuciones del Usuario. Si es usted un Proveedor y envía Información Personal sobre un participante de un estudio en relación con su participación en un ensayo clínico, esa Información Personal se tratará de conformidad con esta Declaración de Privacidad. Si determinamos que el posible participante de un estudio cumple con los requisitos para participar en el ensayo, utilizaremos la información para contactarle en relación con su posible participación en el ensayo y para facilitarle información adicional.
+Si elige participar en nuestros cuestionarios, encuestas y otros Servicios interactivos, recopilaremos la información, incluida la relacionada con la salud y otra Información Personal Confidencial que usted comparta, para ayudarnos a comprender mejor cómo se utilizan los productos de Amgen en el manejo de las enfermedades para las que están comercializados.
 
-**Cuando mantiene correspondencia con Amgen sobre los Productos de Amgen.** Si se pone en contacto con Amgen o utiliza los Servicios para plantear preguntas o para notificar problemas relacionados con su experiencia al utilizar uno de nuestros productos, podríamos utilizar la información facilitada para enviar informes a la U.S. Food and Drug Administration y conforme lo exija la ley. También podríamos utilizar la información para ponernos en contacto con el médico prescriptor con el fin de realizar el seguimiento de un acontecimiento relacionado con el uso de nuestro producto.
+La información que proporcione a través de los Servicios interactivos puede combinarse (sujeto a todas las leyes aplicables) con la Información Personal proporcionada en otros lugares dentro o a través de los Servicios. Podemos combinar su Información Personal con la de otros para crear datos resumidos que utilizaremos con fines comerciales, como investigaciones para mejorar nuestros productos y análisis que puedan ayudarnos a comercializar mejor nuestros productos.
 
-**A través de herramientas de recopilación de datos.**  Amgen también recaba de manera automática información sobre el uso de los Servicios mediante herramientas de recopilación de datos, tales como web beacons y _cookies_.
+Si envía Información Personal relacionada con la salud a través de los Servicios para participar en un ensayo clínico, podemos usar su Información Personal para evaluar si califica para inscribirse en el ensayo, contactarlo sobre la posible participación en el ensayo y proporcionarle información adicional sobre el ensayo.
 
-Una "baliza web " (también conocida como "píxel") es un fragmento de código que nos permite monitorear la actividad del usuario y el tráfico del sitio web. Una "cookie" es un código numérico único generado aleatoriamente y almacenado en la configuración del navegador web del usuario o en el disco duro de la computadora. Una cookie generalmente contiene el nombre del dominio (ubicación de Internet) desde el cual se originó la cookie, la "vida útil" de la cookie (es decir, cuándo caduca), así como el código numérico único generado aleatoriamente.
+**Cuando Publica Información o Contribuciones de Usuario**
 
-Utilizamos la información recopilada a través de herramientas de recopilación de datos para monitorear patrones de uso, analizar el rendimiento de nuestro sitio web, almacenar información sobre las preferencias del usuario y mejorar los Servicios. Por ejemplo, su información personal puede usarse para crear ofertas , información, anuncios y servicios personalizados adaptados a sus intereses y preferencias. Podemos rastrear sus actividades a lo largo del tiempo y en sitios web, aplicaciones u otros servicios en línea de terceros para mostrar anuncios en sitios web de terceros. Si no desea que utilicemos su información de esta manera, consulte "Sus opciones de privacidad" a continuación. Para obtener más información sobre nuestras prácticas de publicidad digital, consulte "Publicidad digital" a continuación.
+Puede proporcionar información para que se publique o muestre ("**Publicada**") en áreas públicas de los Servicios (colectivamente, "**Contribuciones del Usuario**"). Sus Contribuciones del Usuario se publican y están disponibles públicamente bajo su propio riesgo. Amgen no controla las acciones de terceros que tienen acceso a sus Contribuciones del Usuario.
 
-**Cuando utiliza una aplicación móvil de Amgen.** Cuando usted utiliza un _App_, nosotros utilizamos herramientas de recopilación de datos para recabar información sobre su uso del _App_ e interacción con este, como el tipo de sistema operativo, tipo de navegador, dominio y otras configuraciones del sistema, consultas de búsqueda y la zona horaria en la que está ubicado el dispositivo móvil o la tableta, los metadatos y cualquier otra información asociada a otros archivos almacenados en su dispositivo.
+**Cuando Se Comunica con Amgen Sobre los Productos de Amgen**
 
-También recabamos información sobre la localización del dispositivo móvil o la tableta utilizados para acceder a los Servicios ("**Datos de Localización**"). Los Datos de Localización incluyen: i) la localización del dispositivo móvil o tableta, obtenida a partir del uso de GPS o WiFi; ii) la dirección de IP del dispositivo móvil o tableta, o servicio de Internet utilizado para acceder a los Servicios; y iii) otra información que el usuario u otras personas hayan facilitado que indique la localización actual o anterior del usuario, tales como información de etiquetas geográficas en fotografías.
+Si se comunica con Amgen o utiliza los Servicios para hacer preguntas o informar problemas relacionados con su experiencia al usar uno de nuestros productos, podemos usar la información que proporcione para enviar informes a la Administración de Alimentos y Medicamentos de los Estados Unidos (FDA, por sus siglas en inglés) y según lo requieran las leyes aplicables. También podemos utilizar esta información para comunicarnos con el médico que prescribió el producto y dar seguimiento sobre un evento relacionado con el uso de nuestro producto.
 
-Si un _App_ o servicio determinado recabara Datos de Localización precisos, le informaremos de ello. Si no quiere que recabemos Datos de Localización a partir de su dispositivo, elimine el _App_ o deshabilite la configuración de localización de su dispositivo o tableta. Sin embargo, cabe señalar que deshabilitar la configuración de localización puede dificultar su acceso al _App_ y su uso.
+**A Través de Herramientas de Recolección de Datos**
 
-Cuando se conecta con las redes sociales a través de los Servicios:  Ciertos Servicios pueden vincularse con plataformas de redes sociales y complementos de redes sociales (por ejemplo, el botón "Me gusta" de Facebook, el botón "Compartir en Twitter") (colectivamente, "Redes sociales"). Al acceder a los Servicios a través de una cuenta de Facebook u otra red social, Amgen puede (según la configuración de privacidad del usuario aplicable) tener acceso automáticamente a la información proporcionada a la plataforma de redes sociales o a través de ella. Amgen puede recopilar y utilizar esta información para los fines descritos en esta Declaración de Privacidad o descritos en el momento en que se recopiló la información.
+Amgen recopila automáticamente información sobre el uso de los Servicios mediante herramientas de recolección de datos, como balizas web y cookies.
 
-A través de proveedores de servicios: los terceros que nos ayudan con nuestras operaciones comerciales también recopilan y utilizan información (incluida información personal y datos de uso) a través de los Servicios y también pueden compartir la información recopilada con nosotros. Por ejemplo, nuestros proveedores recopilan y comparten información con nosotros para analizar el uso de los Servicios, analizar el rendimiento de nuestro sitio web, ayudarnos a detectar y prevenir fraudes y mejorar la experiencia del usuario.
+* Una "baliza web" (también conocida como "píxel") es un fragmento de código que nos permite monitorear la actividad del usuario y el tráfico del sitio web.
+* Una "cookie" es un código numérico único generado aleatoriamente que se almacena en la configuración del navegador web del usuario o en el disco duro de su computadora. Una cookie generalmente contiene el nombre del dominio (ubicación de internet) desde el cual se originó, la "duración" de la cookie (es decir, cuándo expira) y el código numérico único generado aleatoriamente.
 
-#### III. CÓMO SE COMPARTE Y SE DIVULGA LA INFORMACIÓN
+Usamos la información recopilada mediante estas herramientas para monitorear patrones de uso, analizar el rendimiento de nuestro sitio web, almacenar información sobre las preferencias del usuario y mejorar los Servicios. Por ejemplo, su Información Personal puede usarse para crear ofertas personalizadas, información, anuncios y servicios adaptados a sus intereses y preferencias. También podemos rastrear sus actividades a lo largo del tiempo y a través de sitios web, aplicaciones u otros servicios en línea de terceros para mostrarle anuncios en sitios web de terceros. **Si no desea que utilicemos su información de esta manera, consulte la sección "Sus Opciones de Privacidad" a continuación.** Para obtener más información sobre nuestras prácticas de publicidad digital, consulte la sección "Publicidad Digital" a continuación.
 
-En el momento en que la información se recaba, podríamos compartirla y divulgarla según se ha descrito como sigue:
+**Cuando Utiliza una Aplicación Móvil de Amgen**
 
-**Para llevar a cabo los Servicios.** Podríamos recurrir a terceros para que lleven a cabo los servicios solicitados o las funciones iniciadas por los usuarios. Además, podríamos divulgar la Información Personal para identificar a un usuario en relación con comunicaciones enviadas a través de los Servicios. También podríamos ofrecer a los usuarios la oportunidad de compartir información con amigos y otros usuarios a través de los Servicios.
+Cuando utiliza una Aplicación, utilizamos herramientas de recolección de datos para recopilar información sobre su uso e interacción con la Aplicación, como el tipo de sistema operativo, tipo de navegador, dominio y otras configuraciones del sistema, consultas de búsqueda y la zona horaria en la que se encuentra el dispositivo móvil o tableta. También podemos recopilar metadatos y otra información asociada con archivos almacenados en su dispositivo.
 
-**Con terceros contratados por Amgen.**  Compartimos información, incluida información personal, con nuestros proveedores de servicios para realizar las funciones para las que los contratamos, como análisis de datos, diseño y mantenimiento de sistemas, servicios al cliente y para publicidad, marketing y promociones.
+También podemos recopilar información sobre la ubicación del dispositivo móvil o tableta utilizado para acceder a los Servicios ("**Datos de Ubicación**"). Los Datos de Ubicación incluyen: (i) la ubicación del dispositivo móvil o tableta derivada del uso de GPS o WiFi; (ii) la dirección IP del dispositivo móvil, tableta o servicio de internet utilizado para acceder a los Servicios; y (iii) otra información proporcionada por un usuario o terceros que indique la ubicación actual o anterior del usuario, como información de geolocalización en fotografías.
 
-**Con socios con los que se comparte la marca.** Podríamos asociarnos a otras empresas para facilitarle a usted el contenido o los Servicios de manera conjunta o "compartiendo la marca". Cuando en las páginas web o Servicios se comparte la marca, verá tanto el logo de Amgen como el logo de nuestro socio con el que compartimos la marca. Cuando se registre en una página web o servicio en los que se comparte la marca, su información de registro se facilitará a al menos uno de los socios de Amgen con los que compartimos la marca. Puede impedir que su información se facilite a los socios de Amgen en sitios web o servicios en los que se comparte la marca si no los utiliza. Cada socio con el que compartimos la marca tendrá su propia política de privacidad, y sus prácticas de privacidad pueden ser distintas de las de esta Declaración de Privacidad.
+Le informaremos si una Aplicación o servicio específico recopila Datos de Ubicación precisos. Si no desea que recopilemos Datos de Ubicación de su dispositivo, elimine la Aplicación o desactive la configuración de ubicación en su dispositivo o tableta. Sin embargo, tenga en cuenta que desactivar esta configuración puede afectar su capacidad para acceder y utilizar esa Aplicación.
 
-Los datos obtenidos a través de programas de códigos cortos de mensajes de texto no se compartirán con terceros por motivos/propósitos de marketing.
+**Cuando Se Conecta con Redes Sociales a Través de los Servicios**
 
-_**Plugins**_ **de Redes Sociales.** Cuando utiliza los Servicios, los operadores de redes sociales pueden colocar una cookie en su computadora para reconocer a las personas que han visitado previamente los Servicios. Si ha iniciado sesión en una cuenta de redes sociales mientras utiliza los Servicios, los complementos sociales permiten que ese operador de redes sociales reciba información de que usted ha accedido y utilizado los Servicios. Los complementos sociales también permiten al operador de redes sociales compartir información sobre sus actividades en o a través de los Servicios con otros usuarios de redes sociales. Por ejemplo, los complementos sociales de Facebook le permiten a Facebook mostrar sus Me gusta y comentarios en nuestras páginas a sus amigos de Facebook. Los complementos sociales de Facebook también le permiten ver la actividad de sus amigos en Facebook a través de los Servicios. Amgen no controla ningún contenido de los complementos de redes sociales. Para obtener más información sobre los complementos de redes sociales, consulte las declaraciones de privacidad y otros avisos legales de la plataforma de redes sociales.
+Ciertos Servicios pueden vincularse con plataformas de redes sociales y complementos de redes sociales (por ejemplo, el botón "Me gusta" de Facebook o el botón "Compartir en Twitter") (colectivamente, "**Redes Sociales**"). Al acceder a los Servicios a través de una cuenta de Facebook u otra plataforma de Redes Sociales, Amgen puede (dependiendo de la configuración de privacidad del usuario) acceder automáticamente a la información proporcionada a través de la plataforma de Redes Sociales. Amgen puede recopilar y utilizar esta información para los fines descritos en esta Declaración de Privacidad o según se describa al momento de la recopilación.
 
-**Requisitos legales.** En determinadas circunstancias, Amgen puede transmitir su Información Personal como consecuencia de una orden judicial, comparecencia, orden de registro, reglamento, pedido vinculante de una agencia de protección de datos, petición gubernamental u otro proceso regulatorio o jurídico. Amgen puede divulgar la información si considera que ello es necesario u oportuno para proteger los derechos, los bienes o la seguridad de Amgen y de nuestros consumidores u otras personas.
+**A Través de Proveedores de Servicios**
 
-**Cambios corporativos.** Podríamos transmitir información, incluida su Información Personal, en el marco de una fusión, compraventa, adquisición, cesión, reestructuración, reorganización, disolución, bancarrota u otro cambio de titularidad o control por parte de Amgen o cualquier filial (en cada caso, ya sea total o parcial). En cualquiera de estos casos, Amgen procurará de manera razonable notificar a los usuarios antes de que la información se transmita o pase a ser objeto de diversas prácticas de privacidad.
+Nuestros proveedores, que nos ayudan con nuestras operaciones comerciales, también recopilan y utilizan información (incluida Información Personal y Datos de Uso) a través de los Servicios y pueden compartir la información recopilada con nosotros. Por ejemplo, nuestros proveedores recopilan y comparten información con nosotros para analizar el uso de los Servicios, evaluar el rendimiento de nuestro sitio web, ayudarnos a detectar y prevenir fraudes, y mejorar la experiencia del usuario.
+
+#### III. CÓMO DIVULGAMOS LA INFORMACIÓN PERSONAL
+
+Podemos divulgar información como se describe al momento de la recopilación y de las siguientes maneras:
+
+**Para Realizar Servicios**
+
+Podemos utilizar terceros para realizar servicios solicitados o funciones iniciadas por los usuarios. Además, podemos divulgar Información Personal para identificar a un usuario en relación con comunicaciones enviadas a través de los Servicios. También podemos ofrecer a los usuarios la oportunidad de compartir información con amigos y otros usuarios a través de los Servicios.
+
+**Con Proveedores de Amgen**
+
+Compartimos información, incluida Información Personal, con nuestros proveedores para realizar las funciones para las cuales los contratamos, como análisis de datos, diseño y mantenimiento del sistema, servicios al cliente y para publicidad, marketing y promociones.
+
+**Con Socios de Marca Compartida**
+
+Podemos asociarnos con otras empresas para proporcionarle contenido o servicios en conjunto o bajo "marca compartida". Cuando los sitios web o servicios son de marca compartida, verá tanto el logotipo de Amgen como el logotipo de nuestro socio de marca compartida. Cuando se registre en un sitio web o servicio de marca compartida, su información de registro puede compartirse con uno o más de los socios de marca compartida de Amgen. Puede evitar compartir su información con los socios de Amgen en sitios o servicios de marca compartida al optar por no utilizarlos.
+
+Cada socio de marca compartida tendrá su propia política de privacidad, y sus prácticas de privacidad pueden diferir de esta Declaración de Privacidad.
+
+**Complementos de Redes Sociales**
+
+Cuando utiliza los Servicios, los operadores de Redes Sociales pueden colocar una cookie en su computadora para reconocer a las personas que anteriormente visitaron los Servicios. Si ha iniciado sesión en una cuenta de Redes Sociales mientras utiliza los Servicios, los complementos sociales permiten que el operador de Redes Sociales reciba información sobre su acceso y uso de los Servicios. Los complementos sociales también permiten que el operador de Redes Sociales comparta información sobre sus actividades en o a través de los Servicios con otros usuarios de Redes Sociales. Por ejemplo, los complementos sociales de Facebook permiten a Facebook mostrar sus "Me gusta" y comentarios en nuestras páginas a sus amigos de Facebook. Los complementos sociales de Facebook también le permiten ver la actividad de sus amigos de Facebook a través de los Servicios. Amgen no controla el contenido de los complementos de Redes Sociales. Para obtener más información sobre los complementos de Redes Sociales, consulte las declaraciones de privacidad y otros avisos legales de la plataforma de Redes Sociales.
+
+**Requisitos Legales**
+
+En ciertas circunstancias, Amgen puede divulgar su Información Personal en respuesta a una orden judicial, citación, orden de registro, reglamento, orden vinculante de una agencia de protección de datos, solicitud gubernamental u otro proceso legal o regulatorio. Amgen puede divulgar información si creemos que es necesaria o apropiada para proteger los derechos, la propiedad o la seguridad de Amgen, nuestros clientes u otros.
+
+**Cambios Corporativos**
+
+Podemos transferir información, incluida su Información Personal, en relación con una fusión, venta, adquisición, desinversión, reestructuración, reorganización, disolución, quiebra u otro cambio de propiedad o control de Amgen o de cualquier empresa afiliada (en cada caso, ya sea en su totalidad o en parte). Cuando ocurra uno de estos eventos, Amgen hará esfuerzos razonables para notificar a los usuarios antes de que la información se transfiera o esté sujeta a prácticas de privacidad diferentes.
 
 #### IV. PUBLICIDAD DIGITAL
 
-Utilizamos empresas de publicidad de terceros para publicar anuncios en otros sitios web, incluidos sitios de redes sociales y servicios digitales. Estas empresas pueden utilizar información obtenida de herramientas de recopilación de datos para medir la eficacia de la publicidad y proporcionarle anuncios de su interés.
+Utilizamos empresas de publicidad de terceros para servir anuncios en otros sitios web, incluidas las Redes Sociales y servicios digitales. Estas empresas pueden usar información obtenida de herramientas de recolección de datos para medir la efectividad de la publicidad y proporcionar anuncios que sean de su interés.
 
-**[**Puede excluirse aquí**](http://preferences-mgr.truste.com/?pid=amgen01&aid=amgen_pub01&type=amgen)** para no recibir anuncios específicos derivados del uso de las herramientas, y ello no afectará a ninguna publicidad de tipo general que usted pudiera recibir.
+[Aquí](http://preferences-mgr.truste.com/?pid=amgen01&aid=amgen_pub01&type=amgen) puede optar por no recibir anuncios dirigidos de ciertas redes publicitarias en línea, pero esto no afectará ningún anuncio general que pueda recibir. También puede continuar recibiendo anuncios dirigidos de otros terceros.
 
-#### V. ENLACES A OTROS SERVICIOS Y PÁGINAS WEB
+#### V. ENLACES A OTROS SITIOS WEB/SERVICIOS
 
-Un enlace a una página web o servicio digital de un tercero no significa que Amgen respalde a ese tercero, ni tampoco que respalde la calidad o la veracidad de la información ahí presentada. Si decide visitar la página web o servicio de un tercero, será objeto de sus prácticas de privacidad, y no de las de esta Declaración de Privacidad. Le recomendamos que lea atentamente la política o declaración de privacidad, así como otras notificaciones jurídicas, de todas las páginas web o servicios que visite.
+Un enlace a un sitio web o servicio digital de terceros no significa que Amgen respalde dicho sitio o la calidad o precisión de la información presentada en él. Si decide visitar un sitio web o servicio de terceros, estará sujeto a sus prácticas de privacidad y no a esta Declaración de Privacidad. Le recomendamos que lea detenidamente la política o declaración de privacidad y otros avisos legales de cada sitio web o servicio que visite.
 
-#### VI. NUESTRA POLÍTICA SOBRE MENORES
+#### VI. NUESTRA POLÍTICA PARA NIÑOS
 
-Los servicios no están destinados a su uso por menores. Si es menor de edad en su lugar de residencia, puede utilizar los Servicios solamente con la autorización, o bajo la supervisión, de su progenitor o tutor legal. De conformidad con la Ley de Protección de la Privacidad Infantil en Internet (COPPA), si llega a nuestro conocimiento que un menor de 13 años ha facilitado Información Personal a los Servicios, o a través de estos, sin la autorización previa verificada de su progenitor, utilizaremos dicha información solo para ponernos en contacto directamente con ese menor (o su progenitor o tutor legal) con el fin de informarle de que no puede utilizar los Servicios, y que a continuación dicha Información Personal se eliminará con arreglo a esta Declaración de Privacidad.
+Los Servicios no están destinados para el uso por parte de niños. Si usted es menor de edad en su lugar de residencia, puede utilizar los Servicios únicamente con el consentimiento o bajo la supervisión de su padre o tutor legal. En cumplimiento con los requisitos de la Ley de Protección de la Privacidad Infantil en Línea (COPPA), si descubrimos que un niño menor de 13 años ha proporcionado Información Personal a través de los Servicios sin haber obtenido primero el consentimiento verificado de sus padres, utilizaremos esa información solo para responder directamente a ese niño (o a su padre o tutor legal) para informarle que no puede utilizar los Servicios y, posteriormente, eliminaremos dicha Información Personal de acuerdo con esta Declaración de Privacidad.
 
-Si cree que Amgen podrían estar en posesión de cualquier información de o sobre un menor de 13 años, póngase en contacto con la Oficina de Privacidad utilizando la información de contacto facilitada al final de este Aviso de Privacidad.
+Si cree que Amgen puede tener información sobre un niño menor de 13 años, comuníquese con nuestra Oficina de Privacidad utilizando la información de contacto al final de esta Declaración de Privacidad.
 
 #### VII. SUS OPCIONES DE PRIVACIDAD
 
-Amgen tiene como objetivo aportarle opciones en relación con la Información Personal que nos facilite. En este apartado se describen los mecanismos que ofrecemos para que controle determinados usos y divulgaciones de su información.
+Amgen se esfuerza por proporcionarle opciones con respecto a la Información Personal que nos proporciona. Esta sección describe los mecanismos que ofrecemos para controlar ciertos usos y divulgaciones de su información.
 
-Cuando accede a cualquier Servicio interactivo, se le pedirá que seleccione afirmativamente ("**opt in**") a fin de facilitar la información solicitada. Siempre puede decidir no facilitar la información solicitada, pero entonces no podrá utilizar el Servicio tal y como está concebido.
+**Corregir/Actualizar Información Personal**
 
-**Corrección y actualización de la Información Personal.** Para corregir o actualizar la Información Personal que anteriormente hubiera facilitado a Amgen, cumplimente el formulario ubicado en [aqui](https://privacyportal.onetrust.com/webform/f56ba454-120c-4338-bbd0-0f27ae8cd5c3/3842f7ea-7241-478f-b682-5f4924bc99ef).
+Puede corregir o actualizar la Información Personal que proporcionó anteriormente a Amgen completando el formulario ubicado [aquí](https://privacyportal.onetrust.com/webform/f56ba454-120c-4338-bbd0-0f27ae8cd5c3/3842f7ea-7241-478f-b682-5f4924bc99ef).
 
-**Recepción de comunicaciones de marketing.** Cuando se registra para utilizar los Servicios, puede solicitar que se le envíen correos electrónicos que contengan información sobre Amgen que creemos podría resultarle útil, que incluirá promociones, anuncios de nuevos servicios y productos, así como boletines informativos sobre determinados temas de salud. Si en cualquier momento decide que ya no desea recibir estos mensajes de correo electrónico, puede darse de baja en nuestra lista de correo electrónico haciendo clic en el enlace para darse de baja en la comunicación de marketing por correo electrónico.
+**Recibir Comunicaciones de Marketing**
 
-**Aceptación y rechazo de _cookies_.** El software de su navegador se puede configurar para que rechace todas las _cookies_, pero si rechaza las nuestras, algunas de las funciones y amenidades de los Servicios podrían no funcionar correctamente. Para obtener más información sobre las _cookies_, vea la ayuda de su navegador o una función parecida, o visite [allaboutcookies.org](http://allaboutcookies.org/) .
+Cuando se registra en los Servicios, puede solicitar recibir correos electrónicos que contienen información sobre Amgen que creemos que puede encontrar útil, incluidas promociones, anuncios de nuevos servicios y productos, y boletines informativos sobre temas específicos de salud. Si en algún momento decide que ya no desea recibir estos correos electrónicos, puede darse de baja de nuestra lista de correos electrónicos haciendo clic en el enlace de cancelación de suscripción incluido en la comunicación de correo electrónico que reciba.
 
-**Cómo respondemos a las señales de “Do Not Track” del navegador.** Algunos navegadores incorporan una opción de "do-not-track" o una función similar que indica las páginas web con las que el navegador notifica que un visitante no quiere que su actividad en línea se rastree. Si un servicio digital que responde a una señal determinada de DNT recibe dicha señal de DNT, el navegador puede impedir que ese servicio digital recabe cierta Información Personal sobre el usuario del navegador. A la Fecha de Entrada en Vigor no todos los navegadores ofrecen una opción de DNT y las señales de DNT aún no son uniformes. Por este motivo, Amgen, al igual que otros muchos operadores de servicios digitales, en la actualidad no responde a las señales de DNT.  Para obtener más información sobre señales de DNT, visite [allaboutdnt.com](http://allaboutdnt.com/) .
+**Aceptar y Rechazar Cookies**
 
-AVISO IMPORTANTE: Amgen no puede satisfacer la petición de un consumidor de modificar o eliminar la información que un profesional sanitario o un consumidor haya facilitado a Amgen en relación con un acontecimiento adverso relacionado con un fármaco.
+El software de su navegador puede configurarse para rechazar cookies, pero si rechaza nuestras cookies, es posible que ciertas funciones y comodidades de los Servicios no funcionen correctamente. Para obtener más información sobre las cookies, consulte la ayuda de su navegador o visite [http://allaboutcookies.org/](http://allaboutcookies.org/).
 
-#### VIII. CÓMO SE GUARDA Y SE PROTEGE LA INFORMACIÓN
+**Cómo Respondemos a las Señales de Preferencia de Exclusión**
 
-Conservamos información mientras sea necesaria y relevante para nuestras operaciones. Además, conservamos Información personal para cumplir con la ley aplicable, prevenir fraudes, resolver disputas, solucionar problemas, ayudar con cualquier investigación, hacer cumplir nuestros Términos de uso y otras acciones permitidas por la ley. Cuando su Información personal ya no es necesaria para los fines comerciales de Amgen, la eliminamos sujeto a la ley aplicable.
+Algunos navegadores web o complementos de navegador permiten a los consumidores usar señales de preferencia de exclusión que indican a los sitios web con los que el navegador se comunica que un visitante no desea que se rastree su actividad en línea. En la fecha de vigencia, no todos los navegadores ofrecen una opción de señal de preferencia de exclusión, y las señales de preferencia de exclusión aún no son uniformes. Nuestros sitios web generalmente no reconocen señales de preferencia de exclusión, excepto en la medida y en las jurisdicciones donde la ley lo requiera. Tenga en cuenta también que no reconocemos la señal de "No rastrear".
 
-De conformidad con la legislación vigente, utilizamos medidas de seguridad razonables que tienen como objeto contribuir a proteger la seguridad de toda la información enviada a través de los Servicios. No obstante, la seguridad de la información transmitida a través de Internet no se puede garantizar. No nos hacemos responsables de ninguna intercepción ni interrupción de comunicación, ni de cambios en los datos, o pérdidas de estos, en Internet. Los usuarios de los Servicios son responsables de mantener la seguridad de las contraseñas, identificación de usuario u otra forma de identificación utilizada para obtener el acceso a zonas de los Servicios seguras o protegidas con contraseña. Todo acceso a los Servicios por medio de su identificación de usuario y contraseña se tratará como si usted lo hubiera autorizado. Para contribuir a proteger su Información Personal, si Amgen sospecha o detecta cualquier vulneración de la seguridad, podríamos suspender su uso de los Servicios, ya sea en su totalidad o en parte. El acceso sin autorización a estas zonas está prohibido y puede conllevar una acción penal.
+**NOTA IMPORTANTE:**
 
-#### IX. MODIFICACIONES A ESTA DECLARACIÓN DE PRIVACIDAD
+Amgen no puede cumplir con la solicitud de un consumidor de modificar o eliminar información que haya sido proporcionada a Amgen por un profesional de la salud o un consumidor en relación con un evento adverso relacionado con un medicamento.
 
-Amgen se reserva el derecho a modificar las condiciones de esta Declaración de Privacidad. Si realizáramos alguna modificación sustancial a esta Declaración de Privacidad, se lo notificaremos con antelación a través de los Servicios. Si decidiéramos utilizar la Información Personal de manera sustancialmente distinta a los usos descritos en esta Declaración de Privacidad o divulgados a usted de otro modo, tendrá la opción de permitir o prohibir cualquier uso o divulgación adicional de su Información Personal. No realizaremos cambios retroactivos que reduzcan sus derechos de privacidad a menos que la ley exija que lo hagamos. Su uso continuado de los Servicios tras la Fecha de Entrada en Vigor constituye su aceptación de la Declaración de Privacidad modificada. La Declaración de Privacidad modificada reemplaza a las versiones anteriores.
+#### VIII. CÓMO SE CONSERVA Y PROTEGE LA INFORMACIÓN
 
-#### X. AVISO DE PRIVACIDAD COMPLEMENTARIO PARA CALIFORNIA Y OTRAS LEYES ESTATALES APLICABLES EN EE. UU.
+Conservamos la información mientras sea necesaria y relevante para nuestras operaciones. Además, conservamos Información Personal para cumplir con la ley aplicable, prevenir fraudes, resolver disputas, solucionar problemas, asistir en investigaciones, hacer cumplir nuestros Términos de Uso y otras acciones permitidas por la ley. Cuando su Información Personal ya no sea necesaria para los propósitos comerciales de Amgen, la eliminaremos de acuerdo con la ley aplicable.
 
-Última actualización : 13 de diciembre del 2023
+De acuerdo con las leyes aplicables, empleamos medidas de seguridad razonables destinadas a proteger la seguridad de toda la información enviada a través de los Servicios. Sin embargo, no se puede garantizar la seguridad de la información transmitida a través de Internet. No somos responsables de ninguna intercepción o interrupción de comunicaciones ni de cambios o pérdidas de datos a través de Internet. Los usuarios de los Servicios son responsables de mantener la seguridad de cualquier contraseña, identificación de usuario u otra forma de autenticación utilizada para obtener acceso a áreas protegidas por contraseña o seguras de los Servicios. Cualquier acceso a los Servicios utilizando su identificación de usuario y contraseña se tratará como autorizado por usted. Para ayudar a proteger su Información Personal, podemos suspender su uso de la totalidad o parte de los Servicios, sin previo aviso, si Amgen sospecha o detecta una violación de seguridad. El acceso no autorizado a dichas áreas está prohibido y puede dar lugar a acciones legales.
 
-Este Aviso de privacidad complementario del sitio web ("Aviso complementario") se aplica únicamente a la información recopilada sobre los consumidores de los estados de EE. UU. con una legislación de privacidad integral que requiere la provisión de un aviso de privacidad. Específicamente, proporciona información requerida según la legislación estatal integral de privacidad en California, Colorado, Connecticut , Montana, Oregón, Tennessee, Texas, Utah y Virginia (colectivamente, "Leyes de Privacidad de EE. UU."). También proporcionamos divulgaciones adicionales para el cumplimiento de la Ley My Health My Data de Washington, la Ley My Health My Data de Nevada y el Capítulo 603A de los Estatutos Revisados de Nevada . Estas divulgaciones se incluyen al final de este Aviso complementario – consulte [amgen.com/healthdataprivacypolicy](https://wwwext.amgen.com/healthdataprivacypolicy)
+#### IX. CAMBIOS A ESTA DECLARACIÓN DE PRIVACIDAD
 
-Este Aviso Complementario describe las prácticas de Amgen ("nosotros", "nos", "nuestro") con respecto a la recopilación, el uso y la divulgación de Información personal y proporciona instrucciones para enviar solicitudes de los interesados. Este Aviso Complementario tiene un alcance más amplio que nuestra Declaración de Privacidad porque este Aviso Complementario se aplica a la Información personal que recopilamos de usted cuando interactúa con nosotros en línea (a través de nuestro Sitio y nuestros otros Sitios Web, Aplicaciones y Servicios) y fuera de línea.
+Amgen se reserva el derecho de cambiar los términos de esta Declaración de Privacidad. Si realizamos cambios importantes a esta Declaración de Privacidad, le notificaremos con anticipación a través de los Servicios. Si decidimos utilizar Información Personal de una manera que sea sustancialmente diferente de los usos descritos en esta Declaración de Privacidad o de otro modo divulgados a usted, tendrá la opción de permitir o no permitir dichos usos o divulgaciones adicionales de su Información Personal. No realizaremos cambios retroactivos que reduzcan sus derechos de privacidad a menos que estemos legalmente obligados a hacerlo. Su uso continuo de los Servicios después de la Fecha de Entrada en Vigor constituye su aceptación de la Declaración de Privacidad enmendada. La Declaración de Privacidad enmendada reemplaza todas las versiones anteriores.
 
-Algunas partes de este Aviso Complementario se aplican solo a consumidores de estados particulares. En esos casos, hemos indicado que ese lenguaje se aplica únicamente a esos consumidores.
+#### X. AVISO SUPLEMENTARIO DE PRIVACIDAD PARA CALIFORNIA Y OTRAS LEYES ESTATALES APLICABLES EN LOS ESTADOS UNIDOS
 
-Tenga en cuenta también que este Aviso Complementario no aborda nuestra recopilación y procesamiento de Información personal de empleados, solicitantes de empleo, otras personas con las que interactuamos en un contexto relacionado con el empleo, profesionales de la salud (HCP) u otros contactos de empresa a empresa. Los residentes de California que caen en una de esas categorías pueden acceder a las divulgaciones de privacidad de nuestro sitio web aplicables a ellos seleccionando el aviso que se aplica a ellos a continuación.
+Última actualización: diciembre, 2024
 
-* Para los HCP de California, haga clic [aquí](https://wwwext.amgen.com/hcp-ccpa)
-* Para contactos comerciales que no son de HCP en California, haga clic [aquí](https://wwwext.amgen.com/b2b-ccpa)
-* Para empleados / solicitantes de California, haga clic [aquí](http://www.amgen.com/employee-applicant-ccpa)
+Este Aviso Suplementario de Privacidad del Sitio Web ("Aviso Suplementario") se aplica únicamente a la información recopilada sobre los Consumidores que son residentes de California y otros estados de los Estados Unidos con legislación integral de privacidad que aplica a Amgen. También proporcionamos divulgaciones adicionales para cumplir con las leyes de datos de salud del consumidor, incluidas las de Washington y Nevada, en el siguiente enlace: [amgen.com/healthdataprivacypolicy](https://wwwext.amgen.com/amgen.com/healthdataprivacypolicy).
+
+Este Aviso Suplementario describe las prácticas de Amgen ("nosotros", "nos", "nuestro") con respecto a la recopilación, uso y divulgación de Información Personal y proporciona instrucciones para enviar solicitudes de derechos sobre datos. Este Aviso Suplementario tiene un alcance más amplio que nuestra Declaración de Privacidad porque se aplica a la Información Personal que recopilamos de usted cuando interactúa con nosotros en línea (a través de nuestro Sitio y otros sitios web, Aplicaciones y Servicios) y fuera de línea.
+
+Algunas partes de este Aviso Suplementario se aplican únicamente a consumidores de estados particulares. En esos casos, hemos indicado que dicho lenguaje se aplica solo a esos consumidores.
+
+Por favor, tenga en cuenta también que este Aviso Suplementario no aborda nuestra recopilación y procesamiento de Información Personal de empleados, solicitantes de empleo, otras personas con quienes interactuamos en un contexto relacionado con el empleo, profesionales de la salud (HCP, por sus siglas en inglés) u otros contactos comerciales. Los residentes de California que pertenezcan a una de estas categorías pueden acceder a nuestras divulgaciones de privacidad del sitio web aplicables seleccionando el aviso correspondiente a continuación.
+
+* Para HCP en California, haga clic [aquí](https://wwwext.amgen.com/hcp-ccpa).
+* Para Contactos Comerciales no HCP en California, haga clic [aquí](https://wwwext.amgen.com/b2b-ccpa).
+* Para Empleados/Solicitantes en California, haga clic [aquí](http://wwwext.amgen.com/employee-applicant-ccpa).
 
 **A. Definiciones**
 
-* "Información personal" significa información que identifica, se relaciona, describe, es razonablemente capaz de asociarse o podría razonablemente vincularse, directa o indirectamente, con un consumidor u hogar en particular. La información personal incluye "datos personales" tal como se define ese término en las leyes de privacidad de EE. UU. La Información personal también incluye "Información personal confidencial", como se define a continuación, excepto que se indique lo contrario, pero no incluye información que esté exenta de las Leyes de Privacidad de EE. UU., según corresponda.
-* "Información personal confidencial" significa Información personal específicamente designada por las leyes de privacidad aplicables de EE. UU. que requieren un mayor nivel de protección, que dependiendo de su estado de residencia podría incluir Información personal que revele la seguridad social, licencia de conducir, tarjeta de identificación estatal o número de pasaporte; inicio de sesión de cuenta, número de cuenta financiera, número de tarjeta de débito o número de tarjeta de crédito en combinación con cualquier código de acceso o seguridad, contraseña o credencial que permita el acceso a una cuenta; geolocalización precisa; origen racial o étnico, creencias religiosas o afiliación sindical; estado de ciudadanía; contenidos de correos electrónicos o mensajes de texto; o datos genéticos. La información personal confidencial también incluye el procesamiento de información biométrica con el fin de identificar de forma única a un consumidor y la información personal recopilada y analizada sobre la salud, la vida sexual o la orientación sexual de un consumidor. La información personal confidencial también incluye "datos confidenciales", tal como se define ese término en las leyes de privacidad de EE. UU.
-* "Terceros" tiene el significado que se le atribuye en las Leyes de Privacidad de EE. UU.
-* "Proveedor" significa un proveedor de servicios, contratista o procesador según se definen esos términos en las Leyes de Privacidad de EE. UU.
-* En la medida en que otros términos utilizados en este Aviso complementario sean términos definidos según las Leyes de Privacidad de EE. UU., tendrán el significado que se les atribuye en esos estatutos, ya sea que estén o no en mayúscula en este documento. Como existen algunas variaciones entre dichas definiciones en cada una de las leyes de privacidad de EE. UU., las definiciones aplicables a usted son las proporcionadas en el estatuto del estado en el que es consumidor. Por ejemplo, si usted es un consumidor de Virginia, los términos utilizados en este Aviso complementario que son términos definidos en la Ley de Protección de Datos del Consumidor de Virginia (VCDPA) tendrán el significado que se les otorga en la VCDPA según se aplique este Aviso complementario a usted.
+* "Información Personal" significa información que identifica, se relaciona con, describe, es razonablemente capaz de ser asociada con, o podría ser razonablemente vinculada, directa o indirectamente, con un consumidor o hogar en particular. La Información Personal incluye "datos personales" como ese término se define en las Leyes de Privacidad de los Estados Unidos. La Información Personal también incluye "Información Personal Sensible," según se define a continuación, excepto donde se indique lo contrario, pero no incluye información que esté exenta de las Leyes de Privacidad de los Estados Unidos, según sea aplicable.
+* "Información Personal Sensible" significa Información Personal específicamente designada por las Leyes de Privacidad de los Estados Unidos como que requiere un mayor nivel de protección, que, dependiendo de su estado de residencia, podría incluir Información Personal que revele el número de seguro social, licencia de conducir, tarjeta de identificación estatal o número de pasaporte; inicio de sesión de cuenta, número de cuenta financiera, número de tarjeta de débito o crédito en combinación con cualquier código de acceso, contraseña o credenciales necesarias para permitir el acceso a una cuenta; geolocalización precisa; origen racial o étnico, ciudadanía o estatus migratorio, creencias religiosas o filosóficas, o membresía sindical; contenido de correos electrónicos o mensajes de texto; o datos genéticos. La Información Personal Sensible también incluye el procesamiento de información biométrica para identificar exclusivamente a un consumidor y la Información Personal recopilada y analizada relacionada con la salud, vida sexual o orientación sexual de un consumidor.
+* "Tercero" tiene los significados otorgados en las Leyes de Privacidad de los Estados Unidos.
+* "Proveedor" significa un proveedor de servicios, contratista o procesador, según esos términos son definidos en las Leyes de Privacidad de los Estados Unidos.
 
-**B. Recopilación y procesamiento de información personal y Divulgación de información personal a proveedores y terceros**
+En la medida en que otros términos utilizados en este Aviso complementario sean términos definidos en virtud de las Leyes de privacidad de los EE. UU., tendrán los significados que se les otorgan en esos estatutos, ya sea que se escriban en mayúsculas o no en el presente. Como existen algunas variaciones entre dichas definiciones en cada una de las Leyes de privacidad de los EE. UU., las definiciones aplicables a usted son las proporcionadas en el estatuto del estado en el que usted es un consumidor. Por ejemplo, si usted es un consumidor de Virginia, los términos utilizados en este Aviso complementario que son términos definidos en la Ley de protección de datos del consumidor de Virginia (VCDPA) tendrán los significados que se les otorga en la VCDPA, ya que este Aviso complementario se aplica a usted.
 
-Nosotros, y nuestros proveedores, recopilamos las siguientes categorías de información personal sobre los consumidores.  En los últimos 12 meses también hemos recopilado y procesado  las siguientes categorías de información personal. Además, en los últimos 12 meses, hemos divulgado las siguientes categorías de Información personal sobre los consumidores a proveedores y terceros con fines comerciales:
+**B.** **Recopilación y Procesamiento de Información Personal y Divulgación de Información Personal a Proveedores y Terceros**
 
-1. Identificadores, como nombre, alias, identificadores en línea, nombre de cuenta, características físicas o descripción;
-2. Información de contacto, incluyendo número de teléfono, dirección, dirección de correo electrónico;
-3. Información financiera, incluido el número de cuenta bancaria, el número de tarjeta de crédito o débito u otra información financiera;
-4. Información médica, incluida cualquier información en posesión o derivada de un proveedor de atención médica, plan de servicios de atención médica, compañía farmacéutica o contratista con respecto al historial médico, la condición mental o física o el tratamiento de un individuo;
-5. Información de seguro de salud, incluido el número de póliza de seguro de un individuo o el número de identificación del suscrito, cualquier identificador único utilizado por una aseguradora de salud para identificar al individuo, o cualquier información en la solicitud del individuo y el historial de reclamos;
-6. Características de las clasificaciones protegidas bajo la ley estatal o federal;
-7. Información comercial, incluidos registros de propiedad personal, productos o servicios comprados, obtenidos o considerados, u otros historiales o tendencias de compra o consumo;
-8. Información de actividad de Internet u otra red electrónica, como el historial de navegación, el historial de búsqueda e información sobre la interacción de un individuo con un sitio web, aplicación o anuncio de Internet;
-9. Datos de geolocalización, como los datos de geolocalización precisos de un individuo;
-10. Información de audio, electrónica, visual, térmica, olfativa o similar (por ejemplo, una grabación de una llamada de servicio al cliente);
-11. Inferencias extraídas de cualquiera de los datos personales enumerados anteriormente para crear un perfil sobre un individuo que refleje las preferencias, características, tendencias psicológicas, preferencias, predisposiciones, comportamiento, actitudes, inteligencia, habilidades y aptitudes del individuo. (p. ej., predicciones sobre las preferencias o tendencias de un individuo), incluidas las inferencias utilizadas para indicar Datos personales confidenciales ("Inferencia de datos confidenciales"); Firmas escritas;
-12. Firmas escritas; y
-13. Información personal confidencial, incluyendo:
+Nosotros, y nuestros Proveedores, recopilamos las siguientes categorías de Información Personal sobre los consumidores. En los últimos 12 meses, también hemos recopilado y procesado las siguientes categorías de Información Personal. Además, divulgamos, y hemos divulgado en los últimos 12 meses, las siguientes categorías de Información Personal sobre los consumidores a Proveedores y Terceros para fines comerciales:
 
-1. Información personal que revela:
+1. Identificadores, como nombre, alias, identificadores en línea, nombre de cuenta, características físicas o descripción.
+2. Información de contacto, que incluye número de teléfono, dirección, correo electrónico.
+3. Información financiera, como número de cuenta bancaria, número de tarjeta de crédito o débito u otra información financiera.
+4. Información médica, que incluye cualquier información en posesión de o derivada de un proveedor de atención médica, plan de servicios de salud, empresa farmacéutica o contratista con respecto al historial médico, condición física o mental o tratamiento de una persona.
+5. Información de seguro de salud, como el número de póliza de seguro de una persona o el número de identificación del suscriptor, cualquier identificador único utilizado por un asegurador de salud para identificar a la persona o cualquier información en la solicitud o historial de reclamaciones de la persona.
+6. Características de clasificaciones protegidas bajo la ley estatal o federal.
+7. Información comercial, como registros de bienes personales, productos o servicios adquiridos, obtenidos o considerados, o historiales o tendencias de compras o consumo.
+8. Información de actividad en Internet u otra red electrónica, como historial de navegación, historial de búsqueda e información sobre la interacción de una persona con un sitio web, aplicación o anuncio en Internet.
+9. Datos de geolocalización, como la ubicación geográfica precisa de una persona.
+10. Información electrónica, visual, térmica, olfativa o similar (por ejemplo, grabaciones de llamadas de servicio al cliente).
+11. Inferencias derivadas de cualquier Información Personal mencionada anteriormente para crear un perfil sobre un individuo que refleje sus preferencias, características, tendencias psicológicas, predisposiciones, comportamiento, actitudes, inteligencia, habilidades y aptitudes, incluidas inferencias utilizadas para indicar Datos Sensibles ("Inferencia de Datos Sensibles").
+12. Firmas manuscritas; y
+13. Información Personal Sensible, incluyendo:
 
-1. Seguro social, licencia de conducir, tarjeta de identificación estatal o número de pasaporte;
-2. Inicio de sesión de la cuenta, número de cuenta financiera, número de tarjeta de débito o número de tarjeta de crédito en combinación con cualquier código de seguridad o acceso, contraseña o credenciales requeridas para permitir el acceso a una cuenta;
-3. Geolocalización precisa;
-4. Contenido del correo electrónico y los mensajes de texto de un consumidor, a menos que la empresa sea el destinatario previsto de los mismos; o
+1. Información Personal que revele:
+
+1. Número de seguridad social, licencia de conducir, tarjeta de identificación estatal o número de pasaporte.
+2. Inicio de sesión de cuenta, número de cuenta financiera, número de tarjeta de débito o crédito en combinación con el código de acceso o contraseña necesarios para permitir el acceso a una cuenta.
+3. Geolocalización precisa.
+4. Contenido de correos electrónicos y mensajes de texto, a menos que el negocio sea el destinatario previsto de estos.
 5. Datos genéticos.
 
-3. Información personal recopilada y analizada sobre la salud de un consumidor
+3. Información Personal recopilada y analizada en relación con la salud de un consumidor.
 
-**Retención de información personal.** Conservamos cada una de las categorías de Información personal enumeradas  en la Sección B durante el período razonablemente necesario para proporcionarle bienes y servicios y, durante el período razonablemente necesario, para respaldar nuestros fines operativos comerciales enumerados en la Sección E.  Los períodos de retención se establecen en el Programa de Conservación de Registros de Amgen de acuerdo con las categorías de información aplicables que se enumeran a continuación.
+**Retención de Información Personal**
 
-* Asuntos Corporativos y Desarrollo de Negocios
+Conservamos cada una de las categorías de Información Personal enumeradas en la Sección B durante el período razonablemente necesario para proporcionarle bienes y servicios y durante el período razonablemente necesario para respaldar nuestros propósitos operativos empresariales enumerados en la Sección E. Los períodos de retención se establecen en el Programa de Retención de Registros de Amgen de acuerdo con las categorías de información aplicables que se enumeran a continuación:
+
+* Asuntos Corporativos y Desarrollo Empresarial
 * Ética y Cumplimiento
-* Instalaciones y Equipamiento
+* Instalaciones y Equipos
 * Finanzas y Contabilidad
 * General y Administrativo
-* Gobierno y Relaciones Públicas
+* Relaciones Gubernamentales y Públicas
 * Salud, Seguridad y Medio Ambiente
-* Recursos humanos
+* Recursos Humanos
 * Sistemas de Información
 * Asuntos Legales
 * Marketing y Ventas
 * Asuntos Médicos y Científicos
-* Desarrollo no clínico
-* Desarrollo de productos, fabricación y soporte
-* Garantía de calidad
+* Desarrollo No Clínico
+* Desarrollo, Fabricación y Soporte de Productos
+* Aseguramiento de Calidad
 
-**C. Ventas e Intercambio de información personal**
+**C. Venta y Compartición de Información Personal**
 
-La Ley de Privacidad del Consumidor de California de 2018, modificada por la Ley de Derechos de Privacidad de California de 2020 (colectivamente, la "CCPA") define "venta" en términos generales para incluir compartir, transferir, revelar o comunicar de otro modo información personal con un tercero a cambio de dinero o otras consideraciones valiosas, y otras leyes de privacidad de EE. UU. utilizan definiciones similares de "venta". No vendemos información personal y hemos descontinuado programas que implicaban la venta de datos de clientes con el fin de ofrecer publicidad en línea que se adaptara mejor a los intereses de nuestros clientes. En esos programas, vendíamos códigos e información relacionada que identificaban dispositivos y navegadores únicos que visitaban nuestros sitios, pero no vendíamos información que identificara a nuestros clientes por nombre, dirección o número de teléfono.
+La Ley de Privacidad del Consumidor de California de 2018, enmendada por la Ley de Derechos de Privacidad de California de 2020 (colectivamente, "CCPA"), define "venta" de manera amplia para incluir la compartición, transferencia, divulgación u otra comunicación de información personal con un tercero por una contraprestación monetaria u otra valiosa. Otras Leyes de Privacidad de los Estados Unidos utilizan definiciones similares de "venta."
 
-* **Divulgación para consumidores de California:** No venderemos ni compartiremos ninguna de las categorías de Información personal que recopilamos sobre usted, y no hemos vendido ni compartido Información personal sobre consumidores de California en los últimos doce meses. En relación con esto, no tenemos conocimiento real de que vendamos o compartamos información personal de consumidores de California menores de 16 años. Para los fines de la CCPA, una "venta" es la divulgación de Información personal a un tercero por una contraprestación monetaria u otra consideración valiosa, y una "participación" es la divulgación de Información personal a un tercero para publicidad conductual en contexto, ya sea por dinero u otra consideración valiosa.
-* **Divulgación para consumidores** **en otros estados con leyes de privacidad de EE. UU.:** No vendemos ni compartimos información personal a terceros ni procesamos información personal con fines de publicidad dirigida o elaboración de perfiles para promover decisiones que produzcan efectos legales o igualmente significativos con respecto a un consumidor como el Los términos "vender", "compartir", "procesar ", "publicidad dirigida" y "elaboración de perfiles" se definen en la Ley de Privacidad de EE. UU.D. Fuentes de las que recopilamos información personal.
+* **Divulgación para consumidores de California:** No venderemos ni compartiremos ninguna de las categorías de información personal que recopilamos sobre los consumidores de California, y no hemos vendido ni compartido información personal sobre los consumidores de California en los últimos doce meses. En relación con esto, no tenemos conocimiento real de que vendamos o compartamos información personal de consumidores de California menores de 16 años. A los efectos de la CCPA, una "venta" es la divulgación de información personal a un tercero a cambio de una contraprestación monetaria u otra contraprestación valiosa, y una "participación" es la divulgación de información personal a un tercero para publicidad conductual en contexto cruzado, ya sea a cambio de una contraprestación monetaria u otra contraprestación valiosa o no.  
+      
+    Sin embargo, si nos indica que divulguemos su información personal a terceros al aceptar cookies a través de nuestro banner de cookies, divulgaremos su información personal a dichos terceros, y esos terceros podrán usar su información personal para sus propios fines, incluidos fines de marketing y publicidad.
 
-**D. Fuentes de las cuales** **recopilamos información personal**
+* **Divulgación para Consumidores en Otros Estados con Leyes de Privacidad de EE. UU.****:** Debido a que otras Leyes de Privacidad de EE. UU. tienen definiciones variadas y amplias de los términos "venta" y procesamiento de Información Personal para "publicidad dirigida," nuestras divulgaciones de Información Personal a terceros a través de cookies y otras tecnologías de seguimiento en línea que ocurren después de que usted haya aceptado dichas divulgaciones a través del banner de cookies pueden constituir "venta" y procesamiento de Información Personal con fines de "publicidad dirigida" en algunos estados. No realizamos divulgaciones que puedan constituir una "venta" si usted no acepta cookies y otras tecnologías de seguimiento en línea a través del banner de cookies. Por lo tanto, proporcionamos el siguiente aviso según lo requerido por algunas de las Leyes de Privacidad de EE. UU.:  
+      
+    AVISO: Podríamos vender sus datos personales sensibles.  
+      
+    Por separado, tenga en cuenta que no procesamos Información Personal con fines de elaboración de perfiles que conduzcan a decisiones con efectos legales o similares significativos sobre un consumidor, tal como el término "elaboración de perfiles" se define en las Leyes de Privacidad de EE. UU.
 
-Recopilamos información personal directamente de usted, así como de las siguientes categorías de fuentes:
+**D.** **Fuentes de las Que Recopilamos Información Personal**
+
+Recopilamos Información Personal directamente de usted, así como de las siguientes fuentes. Cuando la ley aplicable lo requiera, obtendremos su consentimiento antes de recopilar Información Personal sobre usted a través de estas fuentes:
 
 * Proveedores de atención médica (incluidas farmacias especializadas)
-* Compañías de seguros de salud (planes de salud) y otros pagadores
-* Representantes legales/autorizados , familiares y cuidadores
+* Compañías de seguros médicos (planes de salud) y otros pagadores
+* Representantes autorizados/legales, familiares y cuidadores
 * Procesadores de pagos y otras instituciones financieras
-* Agencias de informes del consumidor y otros terceros que verifican la información que usted proporciona
+* Agencias de informes de consumidores y otros terceros que verifican la información que usted proporciona
 * Sus dispositivos móviles con su permiso al descargar y cuando visita o interactúa con nuestros sitios web, aplicaciones y plataformas en línea
-* Sus dispositivos móviles y otros dispositivos conectados a Internet con su permiso cuando utilice estos dispositivos y aplicaciones relevantes
-* Cuando nos contacta o nos visita (automáticamente), como cuando grabamos llamadas a nuestros centros de llamadas o utilizamos cámaras CCTV en nuestras instalaciones.
+* Sus dispositivos móviles y otros dispositivos conectados a Internet con su permiso cuando usa estos dispositivos y aplicaciones relevantes
+* Cuando se comunica con nosotros o nos visita (automáticamente), como cuando grabamos llamadas a nuestros centros de llamadas o usamos cámaras de CCTV en nuestras instalaciones
 * Su computadora y dispositivos móviles (automáticamente) cuando visita o interactúa con nuestros sitios web, aplicaciones y plataformas en línea
 * Cookies, balizas web y tecnologías similares (automáticamente) cuando visita nuestros sitios web o sitios web de terceros
 * Socios publicitarios de terceros y proveedores y otros terceros y proveedores que brindan servicios de marketing digital
 * Terceros y proveedores que brindan servicios de seguridad en línea y de sitios web
-* Terceros y proveedores que brindan servicios de verificación de beneficios, inscripción en programas y cumplimiento de productos en relación con nuestros productos y servicios.
-* Terceros y proveedores que nos ayudan a mantener la exactitud de nuestros datos y agregadores de datos que nos ayudan a completar y mejorar nuestros registros.
-* Terceros y proveedores que nos brindan servicios de análisis y marketing digital utilizando cookies y tecnologías similares que contienen un identificador único, como un ID de publicidad.
+* Terceros y proveedores que brindan beneficios verificación, inscripción en programas y servicios de cumplimiento de productos en relación con nuestros productos y servicios
+* Terceros y proveedores que nos ayudan a mantener la precisión de nuestros datos y agregadores de datos que nos ayudan a completar y mejorar nuestros registros
+* Terceros y proveedores que nos brindan servicios de análisis y marketing digital mediante cookies y tecnologías similares que contienen un identificador único, como un ID de publicidad
 * Terceros y proveedores que brindan acceso a la información que usted pone a disposición del público, como plataformas de redes sociales
-* Terceros y proveedores que nos proporcionan datos complementarios del consumidor o análisis de datos y servicios de investigación de mercado, como agregadores de datos.
-* Terceros y proveedores que ayudan con la prevención, detección y mitigación del fraude.
-* Terceros y proveedores que facilitan, procesan y completan transacciones para nosotros, como revendedores, agentes de ventas y socios del programa.
-* También hacemos inferencias a partir de la información que recopilamos de usted y sobre usted, como sus preferencias, características, atributos y habilidades.
+* Terceros y proveedores que nos brindan datos complementarios de consumidores o servicios de análisis de datos e investigación de mercado, como agregadores de datos
+* Terceros y proveedores que ayudan con la prevención, detección y mitigación de fraudes
+* Terceros y proveedores que facilitan, procesan y completan transacciones para nosotros, como revendedores, agentes de ventas y socios de programas
+* También extraemos inferencias de la información que recopilamos de usted y sobre usted, como sus preferencias, características, atributos y habilidades
 
-**E. Propósitos para procesar y divulgar información personal**
+**E.** **Propósitos para el Procesamiento y Divulgación de Información Personal**
 
-Nosotros, y nuestros Proveedores, recopilamos y procesamos la Información personal (excluyendo la Información personal sensible) descrita en este Aviso Complementario para:
+Nosotros y nuestros proveedores recopilamos y procesamos la información personal (excluida la información personal confidencial) descrita en este Aviso complementario para:
 
-* Determinar la elegibilidad del programa, producto y servicio;
-* Inscribirlo en nuestros programas y proporcionarle nuestros productos y servicios;
-* Administrar, administrar, analizar y mejorar nuestros programas, productos y servicios;
-* Comunicarnos con usted con respecto a nuestros programas, productos y servicios;
-* Adquirir productos y servicios de vendedores/proveedores, incluso para gestionar y satisfacer las obligaciones contractuales relacionadas con el vendedor/proveedor;
+* Determinar la elegibilidad de programas, productos y servicios;
+* Inscribirlo en nuestros programas y brindarle nuestros productos y servicios;
+* Administrar, gestionar, analizar y mejorar nuestros programas, productos y servicios;
+* Comunicarnos con usted en relación con nuestros programas, productos y servicios;
+* Adquirir productos y servicios de proveedores, incluso para gestionar y satisfacer las obligaciones contractuales relacionadas con dichos proveedores;
 * Analizar y comprender mejor sus necesidades, preferencias e intereses, así como los de otros consumidores;
-* Realizar análisis internos de negocios e investigaciones de mercado;
-* Participar en iniciativas conjuntas de marketing;
-* Anunciar y promocionar productos, incluso para contactarlo con respecto a programas, productos, servicios y temas que puedan ser de su interés o útiles;
-* Administrar, proporcionar acceso, monitorear y asegurar nuestros sistemas de tecnología de la información, sitios web, aplicaciones, bases de datos y dispositivos;
-* Proporcionar acceso, monitorear y asegurar nuestras instalaciones, equipos y otras propiedades;
-* Supervisar, investigar y hacer cumplir nuestras políticas, términos y condiciones de productos / servicios y requisitos legales y reglamentarios;
-* Cumplir con las obligaciones legales y reglamentarias; y
-* Identificarlo a usted y a su(s)dispositivo(s) para cualquier/todos los fines identificados anteriormente, incluso para monitorear su uso e interacciones con programas, productos, servicios y anuncios para tales fines o para ayudar a garantizar la integridad de nuestros programas y la preservación de su privacidad.
+* Realizar análisis comerciales internos e investigaciones de mercado;
+* Participar en iniciativas de marketing conjuntas;
+* Publicitar y promocionar productos, incluso para comunicarnos con usted en relación con programas, productos, servicios y temas que puedan ser de su interés o serle útiles;
+* Administrar, brindar acceso, monitorear y proteger nuestros sistemas de tecnología de la información, sitios web, aplicaciones, bases de datos y dispositivos;
+* Brindar acceso, monitorear y proteger nuestras instalaciones, equipos y otras propiedades;
+* Monitorear, investigar y hacer cumplir nuestras políticas, términos y condiciones de productos y servicios, y requisitos legales y reglamentarios;
+* Cumplir con las obligaciones legales y reglamentarias; e
+* Identificarlo a usted y a sus dispositivos para todos los fines identificados anteriormente, incluido el monitoreo de su uso e interacciones con programas, productos, servicios y anuncios para dichos fines o para ayudar a garantizar la integridad de nuestros programas y la preservación de su privacidad.
 
-Nosotros, y nuestros Proveedores, recopilamos y procesamos la Información personal sensible descrita en este Aviso complementario solo para los siguientes fines autorizados por la CCPA y sus reglamentos de implementación:
+Nosotros y nuestros proveedores recopilamos y procesamos la información personal confidencial descrita en este Aviso complementario solo para los fines que se indican a continuación y que están autorizados por la CCPA y sus reglamentos de implementación:
 
-* Realizar los servicios o proporcionar los bienes razonablemente esperados por un consumidor promedio que solicita esos bienes o servicios;
+* Realizar los servicios o proporcionar los bienes que razonablemente espera un consumidor medio que solicita dichos bienes o servicios;
 * Garantizar la seguridad y la integridad en la medida en que el uso de la Información personal del consumidor sea razonablemente necesario y proporcionado para estos fines;
 * Prevenir, detectar e investigar incidentes de seguridad que comprometan la disponibilidad, autenticidad, integridad o confidencialidad de la Información personal almacenada o transmitida;
-* Resistir acciones maliciosas, engañosas, fraudulentas o ilegales dirigidas a la empresa y enjuiciar a los responsables de esas acciones;
+* Resistir acciones maliciosas, engañosas, fraudulentas o ilegales dirigidas a la empresa y procesar a los responsables de esas acciones;
 * Garantizar la seguridad física de las personas físicas;
-* Uso transitorio a corto plazo, incluyendo, pero no limitado a, publicidad no personalizada mostrada como parte de la interacción actual de un consumidor con nosotros; siempre que no divulguemos  la Información personal del consumidor a un tercero ni construyamos un perfil sobre el consumidor, ni alteremos la  experiencia del consumidor fuera de la interacción actual con el negocio; 
-* Realizar servicios en nuestro nombre, incluido el mantenimiento o servicio de cuentas, la prestación del servicio al cliente, el procesamiento o el cumplimiento de pedidos y transacciones, la verificación de la información del cliente, el procesamiento de pagos, previendo financiación, la prestación de servicios analíticos, almacenamiento o de servicios similares en nuestro nombre;
-* Realizar actividades para verificar o mantener la calidad o seguridad de un producto, servicio o dispositivo que es propiedad, fabricado por, fabricado para, o controlado por nosotros, y para mejorar, actualizar o mejorar el servicio o dispositivo que es propiedad, fabricado por, fabricado para, o controlado por nosotros.   
-* Recopilar o procesar información personal confidencial cuando dicha recopilación o procesamiento no tenga el propósito de inferir características sobre un consumidor.
+* Uso transitorio a corto plazo, que incluye, entre otros, publicidad no personalizada que se muestra como parte de la interacción actual de un consumidor con nosotros; siempre que no divulguemos la Información personal del consumidor a un tercero ni construyamos un perfil sobre el consumidor ni alteremos de otro modo la experiencia del consumidor fuera de la interacción actual con la empresa;
+* Realizar servicios en nuestro nombre, incluido el mantenimiento o servicio de cuentas, la prestación de servicios de atención al cliente, el procesamiento o cumplimiento de pedidos y transacciones, la verificación de información de clientes, el procesamiento de pagos, la prestación de financiación, la prestación de servicios analíticos, el almacenamiento o la prestación de servicios similares en nuestro nombre;
+* Realizar actividades para verificar o mantener la calidad o seguridad de un producto, servicio o dispositivo que sea de nuestra propiedad, fabricado por nosotros, fabricado para nosotros o controlado por nosotros, y para mejorar, actualizar o realzar el servicio o dispositivo que sea de nuestra propiedad, fabricado por nosotros o controlado por nosotros.
+* Recopilar o procesar información personal confidencial cuando dicha recopilación o procesamiento no tenga como finalidad inferir características sobre un consumidor.
 
-También podemos anonimizar cualquier Información personal que recopilemos sobre usted. Cuando lo hacemos, tomamos medidas razonables para garantizar que la información no pueda asociarse con un consumidor o un hogar, y mantenemos y utilizamos la información de forma anónima. No intentaremos reidentificar la información, excepto que podamos intentar reidentificar la información únicamente con el fin de determinar si nuestros procesos de desidentificación satisfacen los requisitos legales aplicables. Una vez desidentificada, la información ya no es información personal y no está sujeta a esta Declaración de privacidad.  
- 
+También podemos desidentificar cualquier Información personal que recopilemos sobre usted. Cuando lo hacemos, tomamos medidas razonables para asegurarnos de que la información no pueda asociarse con un consumidor o un hogar, y mantenemos y utilizamos la información de forma desidentificada. No intentaremos volver a identificar la información, excepto que podamos intentar volver a identificar la información únicamente con el fin de determinar si nuestros procesos de desidentificación satisfacen los requisitos legales aplicables. Una vez que se haya desidentificado, la información ya no es Información personal y no está sujeta a esta Declaración de privacidad.
 
-**F. Categorías de entidades a las que divulgamos información personal**   
+**F.** **Categorías de Entidades a las Que Divulgamos Información Personal**
 
-* **Afiliados y proveedores.** Podemos divulgar su Información Personal a nuestros afiliados y Proveedores para los fines descritos en la Sección E de este Aviso Complementario. Nuestros proveedores nos proporcionan servicios para nuestros sitios web, así como otros productos y servicios, como alojamiento web, análisis de datos, procesamiento de pagos, cumplimiento de pedidos, servicio al cliente, provisión de infraestructura, servicios de tecnología, servicios de entrega de correo electrónico, procesamiento de tarjetas de crédito, servicios legales y otros servicios similares. Otorgamos a nuestros Proveedores acceso a la Información personal solo en la medida necesaria para que puedan realizar sus funciones y les exigimos que protejan la confidencialidad y seguridad de dicha información.
-* **Terceros.**  Para cada categoría de Información Personal identificada en la Sección B, divulgamos dicha Información Personal a las siguientes categorías de Terceros:
+* **Afiliados y Proveedores:**  
+    Podemos divulgar su Información Personal a nuestras afiliadas y Proveedores para los propósitos descritos en la Sección E de este Aviso Suplementario. Nuestros Proveedores nos proporcionan servicios para nuestros sitios web, así como otros productos y servicios, como alojamiento web, análisis de datos, procesamiento de pagos, cumplimiento de pedidos, servicio al cliente, provisión de infraestructura, servicios tecnológicos, servicios de entrega de correos electrónicos, procesamiento de tarjetas de crédito, servicios legales y otros servicios similares. Otorgamos acceso a Información Personal a nuestros Proveedores únicamente en la medida necesaria para que desempeñen sus funciones y les exigimos que protejan la confidencialidad y seguridad de dicha información.
+* **Terceros:** Para cada categoría de Información Personal identificada en la Sección B, divulgamos dicha Información Personal a las siguientes categorías de Terceros:
 
-* Proveedores de atención médica (incluidas las farmacias especializadas);
-* Compañías de seguros de salud (planes de salud) y otros pagadores;
-* Representantes autorizados/legales, familiares y cuidadores;
-* Terceros que ayudan a administrar, manjenar y analizar nuestros programas y servicios;
-* Terceros con los que tenemos acuerdos conjuntos de comercialización o similares;
-* Terceros que proporcionan servicios de verificación de beneficios, inscripción en programas y cumplimiento de productos en relación con nuestros productos y servicios;
-* Procesadores de pagos, instituciones financieras y otros; según sea necesario para completar transacciones y para autenticación, seguridad y prevención de fraudes;
-* Terceros que entregan nuestras comunicaciones, como el servicio postal y los mensajeros;
-* Terceros que proporcionan servicios de mercadeo y análisis de datos, como plataformas de redes sociales utilizadas para entregar nuestros anuncios, proveedores de optimización de sitios web / correos electrónicos, proveedores de marketing por correo electrónico y proveedores de análisis de datos;
-* Red de proveedores de publicidad
-* Terceros que ayudan con nuestros programas de tecnología de la información y seguridad;
-* Terceros que ayudan con la prevención, detección y mitigación del fraude;
-* Terceros, según sea razonablemente necesario, para facilitar una fusión, venta, empresa conjunta o colaboración, cesión, transferencia u otra disposición de todo o parte de nuestro negocio, activos o acciones (incluso en relación con cualquier quiebra o procedimiento similar);
-* Contratar las tarifas necesarias para completar las transacciones y proporcionar nuestros productos / servicios, incluidas las empresas de entrega, los agentes y los fabricantes;
-* Agencias de informes del consumidor;
-* Nuestros abogados, auditores y consultores; y
-* Organismos legales y reguladores; y otros organismos públicos según lo exija la ley.
-
-También podemos divulgar su información personal a cualquier tercero con su consentimiento o bajo su dirección.
-
-**G. Derechos de los interesados**
-
-* **Ejercicio de los derechos del interesado.** Los consumidores de California, Colorado, Connecticut, Montana, Oregón, Tennessee, Texas, Utah y Virginia tienen los siguientes derechos con respecto a la recopilación y el uso de su información personal. Lea esta sección detenidamente ya que algunos derechos varían según el estado.Puede ejercer los derechos del interesado que le corresponden llamando al +1-800-867-6677 o haciendo clic aquí. Los consumidores en algunos estados también pueden autorizar a un agente a realizar solicitudes de datos en su nombre.  
+* Proveedores de atención médica (incluidas farmacias especializadas);
+* Compañías de seguros médicos (planes de salud) y otros pagadores;
+* Representantes autorizados/legales, familiares y cuidadores;  
     
-
-* **Derecho a saber:** tiene derecho a conocer los siguientes detalles sobre nuestra práctica de privacidad en el punto de recopilación o antes. Hemos proporcionado dicha información en este Aviso complementario. También puede solicitar que le proporcionemos información sobre los siguientes aspectos de cómo hemos manejado su Información personal específicamente en los 12 meses anteriores a su solicitud:
-
-* Las categorías de Información personal que recopilamos sobre usted;
-* Las categorías de fuentes de las cuales recopilamos dicha Información \`personal;
-* El propósito comercial o empresarial para recopilar, vender o compartir Información personal sobre usted;
-* Las categorías de Información personal sobre usted que divulgamos, compartimos o divulgamos y las categorías de Terceros con quienes divulgamos dicha Información personal;
-* Las categorías de Información personal sobre usted que vendimos, compartimos o utilizamos con fines publicitarios dirigidos, y las categorías de Terceros con quienes vendimos o compartimos dicha Información personal;
-* Si recopilamos Información personal confidencial, las categorías de Información personal confidencial que se recopilarán, los fines para los cuales se recopila o utiliza y si esa información se vende o se comparte; y
-* El período de tiempo que pretendemos conservar cada categoría de Información personal o, si eso no es posible, los criterios utilizados para determinar ese período.
-
-* **Derecho de Acceso a Información Personal Específica o Portabilidad de Datos:**  
-    Puede solicitar obtener información personal específica que hemos recopilado sobre usted en un formato portátil y, en la medida de lo técnicamente posible, fácilmente utilizable que le permita transmitir la información personal a otra entidad sin obstáculos. No podrá ejercitar este derecho más de dos veces en un año natural.
-* **Derecho a eliminación: puede solicitar que eliminemos cualquier información personal sobre usted que hayamos recopilado de usted.** Tenga en cuenta que es posible que no se nos solicite eliminar información en determinadas circunstancias cuando las leyes de privacidad de EE. UU. aplicables incluyan exenciones que nos permitan conservar los datos en respuesta a una solicitud de eliminación cuando, por ejemplo, sea necesario para cumplir con obligaciones legales, incluidas las correspondientes. a la calidad, seguridad o eficacia de un producto o actividad regulada por la Administración de Alimentos y Medicamentos (FDA); completar una transacción; detectar incidentes de seguridad; o para otros fines internos determinados.
-* **Derecho a corrección:** puede solicitar que corrijamos cualquier información personal inexacta que mantengamos sobre usted.  
+* Terceros que ayudan a administrar, gestionar y analizar nuestros programas y servicios;  
     
+* Terceros con quienes tenemos acuerdos de marketing conjunto y similares;  
+    
+* Terceros que brindan servicios de verificación de beneficios, inscripción en programas y cumplimiento de productos en relación con nuestros productos y servicios;  
+    
+* Procesadores de pagos, instituciones financieras y otros según sea necesario para completar transacciones y para autenticación, seguridad y prevención de fraudes;  
+    
+* Terceros que entregan nuestras comunicaciones, como el servicio postal y los mensajeros;  
+    
+* Terceros que brindan servicios de marketing y análisis de datos, como plataformas de redes sociales utilizadas para entregar nuestros anuncios, proveedores de optimización de sitios web/correo electrónico, proveedores de marketing por correo electrónico y proveedores de análisis de datos;  
+    
+* Socios publicitarios de red de terceros;  
+    
+* Terceros que ayudan con nuestros programas de tecnología de la información y seguridad;  
+    
+* Terceros que ayudan con la prevención, detección y mitigación de fraudes;  
+    
+* Terceros que sean razonablemente necesarios para facilitar una fusión, venta, empresa conjunta o colaboración, cesión, transferencia u otra disposición de la totalidad o parte de nuestro negocio, activos o acciones (incluso en relación con cualquier quiebra o procedimiento similar);  
+    
+* Terceros que sean necesarios para completar transacciones y proporcionar nuestros productos/servicios, incluidas empresas de entrega, agentes y fabricantes;  
+    
+* Agencias de informes de consumidores;  
+    
+* Nuestros abogados, auditores y consultores; y  
+    
+* Organismos legales y regulatorios y otros Terceros que lo exija la ley.Terceros según sea razonablemente necesario para facilitar una fusión, venta, empresa conjunta o colaboración, cesión, transferencia u otra disposición de todo o parte de nuestro negocio, activos o acciones (incluidos en conexión con procedimientos de quiebra o similares).
 
-* **Verificación de Solicitudes de Titulares de Datos.** Es posible que le solicitemos que proporcione información que nos permita verificar su identidad para cumplir con la solicitud del interesado. Utilizamos un servicio de verificación de terceros, Lexis Nexis, para ese fin. Para verificar su identidad, debe proporcionar la información requerida al completar el formulario de solicitud en línea o al realizar una solicitud, incluidos los últimos 4 dígitos de su número de seguro social. Le pediremos que proporcione su información de contacto e identificadores adicionales según su relación con nosotros. Antes de procesar su solicitud, compararemos estos puntos de datos con un servicio de verificación de identidad de terceros y puntos de datos que mantenemos actualmente para verificar su identidad y su relación con nosotros. Además, puede designar a un agente autorizado para realizar una solicitud de un interesado en su nombre. Cuando utiliza un agente autorizado para enviar una solicitud de un interesado, debe proporcionarle al agente autorizado un permiso por escrito para hacerlo y, en determinadas circunstancias, podemos pedirle que verifique su propia identidad directamente con nosotros. Podemos rechazar una solicitud de un agente autorizado que no presente pruebas de que usted lo ha autorizado para actuar en su nombre. En algunos casos, podemos negarnos a cumplir con su solicitud si se aplica una excepción según la ley aplicable. Responderemos a su solicitud de conformidad con la ley aplicable.
-* **No Discriminación.** No lo discriminaremos por ejercer sus derechos como interesado. Por ejemplo, no le negaremos bienes o servicios, ni le cobraremos precios o tarifas diferentes, ni le proporcionaremos un nivel diferente de calidad para los productos o servicios como resultado de que usted ejerza sus derechos como interesado.
-* **Apelaciones.** Colorado, Connecticut , Montana, Oregon, Tennessee, Texas y Virginia, los consumidores tienen derecho a apelar nuestras decisiones sobre las solicitudes de los interesados. Esta sección no se aplica a los consumidores de California o Utah. Para apelar nuestra decisión sobre sus solicitudes de interesados, puede comunicarse con nuestro equipo de Cumplimiento de Privacidad en privacy@amgen.com o llamando al +1-800-867-6677. Adjunte una copia o haga referencia específica a nuestra decisión sobre su solicitud del interesado, para que podamos abordar adecuadamente su apelación. Responderemos a su apelación de acuerdo con la ley aplicable.
-* **Señales de preferencia de exclusión voluntaria.** No vendemos ni compartimos Información personal, ni utilizamos ni divulgamos Información personal confidencial para fines distintos de los autorizados por la CCPA y sus regulaciones de implementación, como se enumera en la Sección E. En consecuencia, no procesamos señales de preferencia de exclusión voluntaria. Si procesamos señales de preferencia de exclusión voluntaria en el futuro, actualizaremos esta política para proporcionar detalles sobre cómo lo hacemos.
+También podemos revelar su información personal a cualquier tercero con su consentimiento o según sus instrucciones.
 
-**H. Otras divulgaciones**
+**G.** **Derechos de los Titulares de los Datos**
 
-* **Residentes de California menores de 18 años.** Si usted es residente de California menor de 18 años y un usuario registrado  encualquiera de los Servicios, puede solicitar que eliminemos cualquiera de sus contribuciones de usuario (definidas en la Sección II de  nuestra Declaración de [privacidad](https://www.amgen.com/privacy-statement)) que haya publicado públicamente en o en los Servicios. Para solicitar la eliminación de su contribución de usuario, envíe una solicitud con una descripción detallada de la contribución de usuario específica al equipo de Cumplimiento de privacidad, a la información de contacto proporcionada a continuación. (También puede iniciar sesión en su cuenta y eliminar su propia contribución de usuario). Amgen se reserva el derecho de solicitarle que proporcione información que nos permita confirmar que la Contribución del usuario que desea eliminar fue creada y publicada por usted.  
+* **Ejercicio de los Derechos de los Titulares de los Datos:**  
+    Los consumidores que residen en estados con legislación integral de privacidad, incluidos los residentes de California, tienen los siguientes derechos con respecto a la recopilación y el uso de su Información Personal. Lea esta sección detenidamente, ya que algunos derechos varían según el estado.  
       
-    Amgen hará un esfuerzo de buena fe para eliminar o retirar su contribución de usuario de la vista pública tan pronto como sea razonablemente posible. Tenga en cuenta, sin embargo, que su solicitud de que eliminemos su contribución de usuario no garantiza la eliminación completa o exhaustiva de su contribución de usuario. Su contribución de usuario puede permanecer en medios de copia de seguridad, almacenados en caché o retenidos de otro modo por Amgen para fines administrativos o legales, o su contribución de usuario puede permanecer disponible públicamente si usted u otra persona ha reenviado o vuelto a publicarla en otro sitio web o servicio antes de su eliminación. Amgen también puede estar obligado por ley a no eliminar (o permitir la eliminación) de su ontribución de usuario.
-* **Divulgación sobre mercadeo directo para residentes de California.**  El Código Civil de California § 1798.83 permite a los residentes de California solicitar anualmente cierta información sobre nuestra divulgación de Información Personal a otras entidades para sus fines de mercadeo directo en el año calendario anterior. No distribuimos su información personal a terceros (según lo define el Código Civil de California § 1798.83) para sus propios fines de mercadeo directo.
-* **Incentivos financieros para los consumidores de** **California****.**  Según la ley de California, no proporcionamos incentivos financieros a los consumidores de California que nos permiten recopilar, retener, vender o compartir su Información Personal. Le describiremos dichos programas siempre y cuando se los ofrezcamos.
-* **Cambios a nuestro Aviso **complementario.**** Nos reservamos el derecho de modificar este Aviso complementario a nuestra discreción y en cualquier momento. Cuando realicemos cambios sustanciales en este Aviso complementario, se lo notificaremos publicando un Aviso complementario actualizado en nuestro sitio web y enumerando la fecha de entrada en vigor de dichas actualizaciones.
-* **Contactarnos.** Si tiene alguna pregunta, comentario, solicitud o inquietud relacionada con este Aviso complementario, las prácticas de información de Amgen o cómo acceder a esta política en otro formato, comuníquese con nosotros en Cumplimiento de privacidad, One Amgen Center Drive, MS 28-4-A., Thousand Oaks, California 91320 o en [privacy@amgen.com](mailto:privacy@amgen.com) para obtener ayuda.
+    Puede ejercer los derechos aplicables como titular de los datos llamando al +1-800-867-6677 o haciendo clic [aquí](http://www.amgen.com/datasubjectrights). Los consumidores en algunos estados también pueden autorizar a un agente para que realice solicitudes de derechos sobre los datos en su nombre.
+
+* **Derecho a Saber:**  
+    Usted tiene derecho a conocer los siguientes detalles sobre nuestras prácticas de privacidad en el momento o antes de la recopilación de datos. Hemos proporcionado esta información en este Aviso Suplementario. También puede solicitar que le proporcionemos información sobre los siguientes aspectos de cómo hemos manejado su Información Personal específicamente en los 12 meses anteriores a su solicitud:
+
+* Las categorías de Información Personal que recopilamos sobre usted.
+* Las categorías de fuentes de las que recopilamos dicha Información Personal.
+* Los propósitos comerciales o de negocios para la recopilación, venta o compartición de Información Personal sobre usted.
+* Las categorías de Información Personal sobre usted que divulgamos y las categorías de Terceros a quienes divulgamos dicha Información Personal.
+* Las categorías de Información Personal sobre usted que vendimos, compartimos o utilizamos para fines de publicidad dirigida, y las categorías de Terceros a quienes vendimos o compartimos dicha Información Personal.
+* Si recopilamos Información Personal Sensible, las categorías de Información Personal Sensible que se recopilan, los propósitos para los cuales se recopila o utiliza, y si esa información se vendió o compartió.
+* La duración que pretendemos conservar cada categoría de Información Personal, o si eso no es posible, los criterios utilizados para determinar dicho período.
+
+* **Derecho a Acceder a Información Específica o a la Portabilidad de Datos:**  
+    Puede solicitar obtener las piezas específicas de Información Personal que hemos recopilado sobre usted en un formato portátil y, en la medida técnicamente posible, de fácil uso que le permita transmitir la Información Personal a otra entidad sin obstáculos. Puede ejercer este derecho hasta dos veces en un año calendario.
+* **Derecho a la Eliminación:**  
+    Puede solicitar que eliminemos cualquier Información Personal sobre usted que hayamos recopilado de usted. Tenga en cuenta que puede haber circunstancias en las que no estemos obligados a eliminar información, según lo estipulado por las Leyes de Privacidad de EE. UU., cuando sea necesario para cumplir con obligaciones legales, completar una transacción, detectar incidentes de seguridad u otros propósitos internos.  
+    
+* **Derecho a la Corrección:**  
+    Puede solicitar que corrijamos cualquier Información Personal inexacta que mantengamos sobre usted.
+* **Derecho a Revocar el Consentimiento:**  
+    Si nos ha proporcionado su consentimiento para procesar cierta Información Personal sobre usted, tiene derecho a revocar dicho consentimiento posteriormente. Sin embargo, su revocación de consentimiento puede afectar nuestra capacidad para brindarle servicios. Por ejemplo, si nos da consentimiento para procesar información de salud para proporcionarle servicios de apoyo al paciente y luego revoca ese consentimiento, ya no podremos proporcionarle dichos servicios.
+* **Verificación de Solicitudes de los Titulares de los Datos:**  
+    Es posible que le pidamos que proporcione información que nos permita verificar su identidad para cumplir con su solicitud de derechos sobre datos. Utilizamos un servicio de verificación de identidad de terceros, Lexis Nexis, para este propósito. Para verificar su identidad, debe proporcionar la información requerida al completar el formulario de solicitud en línea o al realizar una solicitud, incluidos los últimos 4 dígitos de su número de seguro social. Cuando use un agente autorizado para presentar una solicitud en su nombre, debe proporcionarle un permiso por escrito para hacerlo, y es posible que le pidamos que verifique su identidad directamente con nosotros. Es posible que rechacemos una solicitud de un agente autorizado que no proporcione prueba de que ha sido autorizado por usted.
+* **No Discriminación:**  
+    No lo discriminaremos por ejercer sus derechos como titular de los datos. Por ejemplo, no le negaremos bienes o servicios, ni le cobraremos precios o tarifas diferentes, ni le proporcionaremos un nivel diferente de calidad de productos o servicios como resultado de ejercer sus derechos.
+* **Apelaciones:**  
+    La mayoría de las Leyes de Privacidad de EE. UU. establecen el derecho a apelar nuestras decisiones sobre sus solicitudes de derechos sobre datos. Puede contactar a nuestro equipo de Cumplimiento de Privacidad en [mailto:privacy@amgen.com](mailto:privacy@amgen.com) o llamando al **+1-800-867-6677** para apelar nuestra decisión. Incluya una copia o referencia específica a nuestra decisión para que podamos abordar adecuadamente su apelación. Responderemos conforme a la ley aplicable.
+* **Señales de Preferencia de Exclusión  
+    **Nuestros sitios web generalmente no reconocen señales de preferencia de exclusión, excepto en la medida y en las jurisdicciones donde estamos legalmente obligados a hacerlo. Esto incluye reconocer señales de exclusión relacionadas con el procesamiento de Información Personal para publicidad dirigida, cuando sea requerido por la ley.
+
+**H.** **Otras Divulgaciones**
+
+* **Residentes de California Menores de 18 Año.**  
+    Si es residente de California, menor de 18 años y usuario registrado de cualquiera de los Servicios, puede solicitar que eliminemos cualquiera de sus Contribuciones de Usuario (definidas en la Sección II de nuestra Declaración de Privacidad) que haya publicado públicamente en o dentro de los Servicios. Para solicitar la eliminación de su Contribución de Usuario, envíe una solicitud con una descripción detallada de la Contribución de Usuario específica al equipo de Cumplimiento de Privacidad utilizando la información de contacto proporcionada más adelante. (También puede iniciar sesión en su cuenta y eliminar su propia Contribución de Usuario). Amgen se reserva el derecho de solicitarle información que nos permita confirmar que la Contribución de Usuario que desea eliminar fue creada y publicada por usted.  
+      
+    Amgen hará un esfuerzo de buena fe para eliminar o eliminar su Contribución de Usuario de la vista pública tan pronto como sea razonablemente posible. Sin embargo, tenga en cuenta que su solicitud de eliminar su Contribución de Usuario no garantiza la eliminación completa o integral de su Contribución. Es posible que su Contribución de Usuario permanezca en medios de respaldo, en caché o retenida por Amgen por motivos administrativos o legales, o que su Contribución de Usuario siga siendo públicamente disponible si usted u otra persona ha reenviado o republicado su Contribución de Usuario en otro sitio web o servicio antes de su eliminación.
+
+* **Divulgación Sobre Marketing Directo para Residentes de California.**  
+    El Código Civil de California § 1798.83 permite a los residentes de California solicitar anualmente cierta información sobre nuestra divulgación de Información Personal a otras entidades para sus propósitos de marketing directo durante el año calendario anterior. No distribuimos su Información Personal a terceros (según lo define el Código Civil de California § 1798.83) para sus propios propósitos de marketing directo.
+* **Incentivos Financieros para Consumidores de California.**  
+    Bajo la ley de California, no proporcionamos incentivos financieros a los consumidores de California que nos permitan recopilar, retener, vender o compartir su Información Personal. Describiremos dichos programas si y cuando se los ofrezcamos.
+* **Aviso de Privacidad para Residentes de Nevada.**  
+    En la medida en que recopilemos Información Personal que lo identifique a través de un sitio web o servicio en línea entre las categorías de Información Personal enumeradas en la Sección B, no vendemos esa Información Personal por una contraprestación monetaria.
+* **Cambios a Nuestro Aviso Suplementario  
+    **Nos reservamos el derecho de enmendar este Aviso Suplementario a nuestra discreción y en cualquier momento. Cuando realicemos cambios importantes a este Aviso Suplementario, le notificaremos publicando un Aviso Suplementario actualizado en nuestro sitio web e indicando la fecha de entrada en vigor de dichas actualizaciones.
+* **Contacto**  
+    Si tiene alguna pregunta, comentario, solicitud o inquietud relacionada con este Aviso Suplementario, las prácticas de información de Amgen o cómo acceder a esta política en otro formato, contáctenos en: **Cumplimiento de Privacidad** One Amgen Center Drive, MS 28-4-A, Thousand Oaks, California 91320 [**privacy@amgen.com**](mailto:privacy@amgen.com)
+
+#### XI. POLÍTICA DE PRIVACIDAD DE DATOS DE SALUD DEL CONSUMIDOR
+
+Si usted es residente de un estado que ha promulgado legislación sobre la privacidad de los datos de salud del consumidor, consulte el siguiente enlace para obtener más detalles sobre cómo manejamos los datos de salud: [**amgen.com/healthdataprivacypolicy**](http://www.amgen.com/healthdataprivacypolicy)
 
 ##### Contáctenos
 
-_Privacy Compliance  
+Si reside en un estado que ha promulgado una legislación sobre privacidad de datos de salud de los consumidores, consulte [amgen.com/healthdataprivacypolicy](https://wwwext.amgen.com/healthdataprivacypolicy).
+
+Amgen Inc.  
+Privacy Compliance  
 One Amgen Center Drive  
 MS 28-4-A  
-Thousand Oaks, California 91320_
+Thousand Oaks, California 91320
 
 [privacy@amgen.com](mailto:privacy@amgen.com)
 
-Fecha efectiva: 13 de diciembre del 2023
+Asegúrese de incluir su nombre, dirección y dirección de correo electrónico si desea recibir una respuesta por correo electrónico. De lo contrario, le responderemos por correo postal dentro del plazo requerido por la ley aplicable.
+
+Fecha de entrada en vigor: diciembre de 2024
 
  [](https://wwwext.amgen.com/ "Logo")
 
