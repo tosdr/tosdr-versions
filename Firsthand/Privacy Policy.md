@@ -2,7 +2,7 @@
 
 [](https://firsthand.co/cart)
 
-[![Logo](/assets/images/logo/vaultLogoColor.png)](https://firsthand.co/welcome)
+[](https://firsthand.co/welcome)
 
 [Login](https://firsthand.co/login)
 
@@ -21,7 +21,7 @@
 
 * * *
 
-[![Logo](/assets/images/logo/vaultLogoColor.png)](https://firsthand.co/welcome)
+[](https://firsthand.co/welcome)
 
 Privacy Policy
 ==============
@@ -212,7 +212,7 @@ If you have questions regarding this Privacy Policy, would like to request more 
 
 \* \* \* \* \* \* \* \* \* \*
 
-[![Logo](/assets/images/logo/vaultLogoColor.png)](https://firsthand.co/welcome)
+[](https://firsthand.co/welcome)
 
 ![Tagline image](/_next/image?url=%2Fassets%2Fimages%2FTaglineImage.png&w=1080&q=75)
 
@@ -236,7 +236,7 @@ If you have questions regarding this Privacy Policy, would like to request more 
 
 **Our Business**
 
-[Contact Us](mailto:support@firsthand.co)
+Contact Us
 
 [Help Center](https://firsthandsupport.zendesk.com/hc/en-us/)
 
