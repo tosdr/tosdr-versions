@@ -331,7 +331,7 @@ Virginia Beach, VA 23453
 
 Email\*
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
