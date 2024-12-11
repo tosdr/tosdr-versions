@@ -96,7 +96,9 @@ AI WOrkforce
 
 [The Rise of the AI Workforce
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/rise-of-the-ai-workforce)[Building SDR Teams in the Age of AI
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/rise-of-the-ai-workforce)[The New AI Marketing Funnel
+
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/the-new-ai-marketing-funnel)[Building SDR Teams in the Age of AI
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6169c5b701c52c020705d57d_arrow-right.svg)](https://www.qualified.com/building-winning-sales-development-teams-in-the-age-of-ai)[The Inbound AI SDR Hiring Guide
 
@@ -118,11 +120,15 @@ Hear from from industry leaders on all things B2B marketing.
 
 [Explore Qualified+](https://www.qualified.com/plus)
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/672e6d0fc21c4eadf4d2d7f5_FY25%20PLS%20Logo.svg)
+LIVE
 
-Wednesday, December 11th, 10am-1pm PT | Virtual Event
+from Qualified Headquarters
 
-[Register NOW](https://www.qualified.com/pipeline-summit-2025-planning)
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6759d60a6e3c41b78bb0b411_The%20New%20AI%20Marketing%20Funnel%20-%20Mobile.svg)
+
+Tuesday, December 17th, 10am PT | Virtual Event
+
+[Register NOW](https://www.qualified.com/the-new-ai-marketing-funnel-event)
 
 Say hello to
 
@@ -743,11 +749,16 @@ Functional Cookies
 
 [Watch Now](#)
 
-![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/672e6d0fc21c4eadf4d2d7f5_FY25%20PLS%20Logo.svg)
+LIVE
 
-### Wednesday, December 11th, 10am-1pm PT | Virtual Event
+From Qualified Headquarters
 
-[Register Now](https://www.qualified.com/pipeline-summit-2025-planning)
+![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6758877cc8b5d174df3c3b40_1%20The%20New%20AI%20Marketing%20Funnel.svg)
+
+Tuesday, December 17th,  
+10am PT | Virtual Event
+
+[Register Now](https://www.qualified.com/the-new-ai-marketing-funnel-event)
 
 PRODUCT
 
@@ -791,7 +802,7 @@ LEGAL
 
 EDUCATION
 
-[What is Conversational Marketing?](https://www.qualified.com/what-is-conversational-marketing)[What is an AI SDR?](https://www.qualified.com/blog/blog-posts/what-is-an-ai-sdr-everything-you-need-to-know-about-ai-sales-development-representatives)[Inbound vs. Outbound AI SDRs](https://www.qualified.com/blog/blog-posts/understanding-the-difference-between-inbound-and-outbound-ai-sdrs)[Inbound AI SDR Hiring Guide](https://www.qualified.com/ai-sdr/hiring-guide)
+[What is Conversational Marketing?](https://www.qualified.com/what-is-conversational-marketing)[What is an AI SDR?](https://www.qualified.com/blog/blog-posts/what-is-an-ai-sdr-everything-you-need-to-know-about-ai-sales-development-representatives)[Inbound vs. Outbound AI SDRs](https://www.qualified.com/blog/blog-posts/understanding-the-difference-between-inbound-and-outbound-ai-sdrs)[Inbound AI SDR Hiring Guide](https://www.qualified.com/ai-sdr/hiring-guide)[The New AI Marketing Funnel](https://www.qualified.com/the-new-ai-marketing-funnel)[Pipeline Council Template](https://www.qualified.com/resources/pipeline-council-template)
 
 Qualified University
 
