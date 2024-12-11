@@ -1,4 +1,4 @@
-[![vercel-logotype Logo](/mktng/_next/static/media/vercel-logotype-light.700a8d26.svg)![vercel-logotype Logo](/mktng/_next/static/media/vercel-logotype-dark.e8c0a742.svg)](https://vercel.com/home)
+[![vercel-logotype Logo](/vc-ap-vercel-marketing/_next/static/media/vercel-logotype-light.700a8d26.svg)![vercel-logotype Logo](/vc-ap-vercel-marketing/_next/static/media/vercel-logotype-dark.e8c0a742.svg)](https://vercel.com/home)
 
 * Products
     
