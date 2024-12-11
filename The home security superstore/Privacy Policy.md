@@ -16,6 +16,7 @@ All
 
 * All
 * Audio Jammers & Noise Generators
+* Baton Flashlights
 * Self-Defense Batons
 * Body Cams
 * Byrna® Guns
