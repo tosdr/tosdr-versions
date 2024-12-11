@@ -31,1034 +31,1065 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-¿Chris Evans regresará al Universo Marvel como Capitán América o Johnny Storm? 
-===============================================================================
+Las protestas se mantienen en Napo por la construcción de la cárcel en Archidona
+================================================================================
 
-Chris Evans vuelve al Universo Marvel en ‘Avengers: Doomsday’.
---------------------------------------------------------------
+Pese a las protestas, la postura del Gobierno es continuar con la cárcel de máxima seguridad de Archidona; así como lo hace con la de Santa Elena.
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
-![En ‘Avengers: Doomsday’, Chris Evans y Robert Downey Jr. regresan al MCU en roles sorprendentes. Foto: IMDb.](https://www.elcomercio.com/wp-content/uploads/2024/12/Chris-Evans.jpg)
+![Las protestas en contra de la cárcel de máxima seguridad en Archidona llevan ocho días.](https://www.elcomercio.com/wp-content/uploads/2024/12/protestas-carcel-archidona.jpg)
 
-**Chris Evans**, conocido por su icónico papel como **Steve Rogers / Capitán América**, se especula está listo para regresar al **Universo Cinematográfico de Marvel (MCU)** en la esperada película **‘Avengers: Doomsday’**.  
+Las **protestas** se mantienen en **Napo** por construcción de la **cárcel** en **Archidona,** este martes 10 de diciembre de 2024.
 
-### Más noticias
-
-* [¿Cómo ver ‘Ghosted’?, la película de Ana de Armas y Chris Evans](https://www.elcomercio.com/tendencias/entretenimiento/como-ver-ghosted-pelicula-ana-armas-chris-evans.html "https://www.elcomercio.com/tendencias/entretenimiento/como-ver-ghosted-pelicula-ana-armas-chris-evans.html")
-* [Chris Evans, el ‘capitán América’, tiene nueva novia](https://www.elcomercio.com/tendencias/entretenimiento/chris-evans-capitan-america-nueva-novia.html "https://www.elcomercio.com/tendencias/entretenimiento/chris-evans-capitan-america-nueva-novia.html")
-
-Este anuncio ha generado una **ola de especulaciones** entre los fanáticos, especialmente porque Evans no se sabe si volverá como el **Capitán América** o como **Johnny Storm**, su personaje en ‘Los Cuatro Fantásticos’, según [Marca](https://us.marca.com/tiramillas/cine/2024/12/10/67579909268e3e726b8b457d.html "https://us.marca.com/tiramillas/cine/2024/12/10/67579909268e3e726b8b457d.html"). La incertidumbre sobre su nuevo papel ha despertado el interés de la comunidad Marvel. 
-
-**Un elenco estelar que quiere a Chris Evans** 
------------------------------------------------
-
-La película **‘Avengers: Doomsday’**, programada para estrenarse el 1 de mayo de 2026, contará con un **elenco impresionante**. Junto a **Chris Evans**, se espera el regreso de **Robert Downey Jr.**, quien interpretará a **Victor Von Doom / Doctor Doom**, un giro inesperado ya que anteriormente encarnó a Tony Stark / Iron Man, siguiendo con  Marca.   
-
-Este regreso de los actores que formaron parte de la **“primera generación” de Avengers** marca un momento significativo en la historia del MCU. Los **hermanos Russo**, responsables de algunas de las entregas más exitosas del MCU, **dirigirán esta película**. Su participación promete un **enfoque innovador y emocionante** para la narrativa. Se especula que podrían explorar **saltos temporales o tramas complejas** que mantendrán a los espectadores al borde de sus asientos, a decir de [Hipertextual](https://hipertextual.com/2024/12/chris-evans-regresara-a-marvel-con-avengers-doomsday-pero-no-todo-son-buenas-noticias "https://hipertextual.com/2024/12/chris-evans-regresara-a-marvel-con-avengers-doomsday-pero-no-todo-son-buenas-noticias").  
-
-**Rumores sobre el papel de Evans** 
-------------------------------------
-
-A pesar del **entusiasmo por su regreso**, el **papel específico** que interpretará **Chris Evans** sigue siendo un misterio. Según informes, **su personaje no será una continuación** directa de sus papeles anteriores en el MCU, a decir de Marca.  
-
-Esto ha llevado a **diversas teorías** entre los fanáticos sobre qué nuevo personaje podría asumir. Algunos sugieren que **podría ser un villano** o incluso un héroe diferente, lo que añade una capa adicional de intriga a su regreso. 
-
-**Expectativas para ‘Avengers: Doomsday’** 
--------------------------------------------
-
-La anticipación por **‘Avengers: Doomsday’** es palpable. Los fanáticos han estado a la espera de noticias **sobre el futuro del MCU** tras los eventos de **‘Avengers: Endgame’**. Con el regreso de figuras clave como **Evans y Downey Jr.**, muchos creen que esta película podría ser una de las más épicas hasta la fecha. Además, se rumorea que otros personajes icónicos como **Thor (Chris Hemsworth) y Bruce Banner / Hulk (Mark Ruffalo)** también podrían regresar, aunque con posibles cambios en sus roles dentro del equipo, siguiendo con Marca.  
-
-### Te recomendamos:
-
-Lula da Silva, estable en la UCI tras ser operado de urgencia de una hemorragia intracraneal
-============================================================================================
-
-El mandatario de 79 años está consciente, habla "normalmente" y no tendrá ningún tipo de secuela neurológica.
--------------------------------------------------------------------------------------------------------------
-
-![El presidente de Brasil, Luiz Inácio Lula da Silva, en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/12/Lula-da-silva.jpg)
-
-El presidente brasileño, [Luiz Inácio Lula da Silva](https://es.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva "https://es.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva"), se encuentra “estable” este martes, 10 de diciembre de 2024. Se encuentra en la **unidad de cuidados intensivo**s de un **hospital de São Paulo**, después de ser operado de urgencia de una **“hemorragia intracraneal”** producto de la caída que sufrió hace dos meses.
-
-### Más noticias
-
-* [Lula está operado de una hemorragia intracraneal](https://www.elcomercio.com/actualidad/mundo/lula-operado-hemorragia-intracraneal.html "https://www.elcomercio.com/actualidad/mundo/lula-operado-hemorragia-intracraneal.html")
-* [Brasil veta las importaciones de camarones de Ecuador ¿Cuál es el motivo?](https://www.elcomercio.com/actualidad/negocios/brasil-veta-importaciones-camarones-ecuador-motivo.html "Brasil veta las importaciones de camarones de Ecuador ¿Cuál es el motivo?")
-* [Lula da Silva a Nicolás Maduro: ‘el que pierde se lleva un baño de votos, no un baño de sangre’](https://www.elcomercio.com/actualidad/mundo/lula-silva-nicolas-maduro-elecciones-venezuela.html "https://www.elcomercio.com/actualidad/mundo/lula-silva-nicolas-maduro-elecciones-venezuela.html")
-
-El **mandatario de 79 años está consciente, habla “normalmente”** y no tendrá ningún tipo de secuela neurológica. La información fue dada en una rueda de prensa el **equipo médico del Hospital Sirio-Libanés de São Paulo**. Allí permanecerá ingresado por lo menos hasta el próximo lunes.
-
-“Lula evoluciona bien”, **fue extubado y ahora está “estable” y “tranquilo”** (…) “No tuvo ninguna lesión cerebral. El riesgo de lesión es cero”, aseguró el doctor Roberto Kalil a los periodistas.
-
-En principio, Lula, quien está acompañado por su esposa Rosângela ‘Janja’ da Silva, permanecerá en la UCI durante “las próximas 48 horas” por precaución. Después continuará en **observación hasta que vuelva a Brasilia,** lo que pudiera ocurrir el 16 de diciembre.
-
-El líder progresista se empezó a encontrar mal en la tarde del lunes, 9 de diciembre de 2024, y esa noche acudió a la unidad del Sirio Libanés de Brasilia con “dolores de cabeza”.
-
-Allí se sometió a una **resonancia magnética** que constató “un sangramiento” de “tres centímetros” entre el cráneo y el cerebro.
-
-“Fue un hematoma frontoparietal en el lado izquierdo” de la cabeza, detalló el doctor Marcos Stavale, presente en la rueda de prensa.
-
-El equipo médico decidió entonces trasladarlo de urgencia a São Paulo para ser intervenido.
-
-Dos horas de cirugía
---------------------
-
-La cirugía duró unas dos horas y transcurrió sin problemas. A partir de una **trepanación, procedimiento que consiste en agujerear el cráneo**, se le drenó el hematoma, fruto de la caída que sufrió el pasado 19 de octubre en el Palacio de la Alvorada.
-
-Lula se cayó ese sábado en el baño, se golpeó la cabeza y recibió cinco puntos de sutura en la nuca. Sin embargo, el hematoma detectado ahora no fue en el mismo lugar donde se golpeó.
-
-“Cuando uno se golpea la cabeza, la hemorragia no se produce en el lugar del golpe, sino que es producida a raíz de la sacudida del cerebro porque el cerebro se mueve dentro del cráneo”, explicó el doctor Stavale.
-
-Lula se sometió entonces a varias revisiones y, por seguridad, los médicos le recomendaron no realizar viajes de larga duración en avión.
-
-Así, se vio obligado a cancelar su participación en la cumbre de líderes del grupo BRICS, en Kazán (Rusia), y en la Conferencia de la ONU sobre el Cambio Climático (COP29), celebrada en Bakú.
-
-Semanas después, retomó su agenda con total normalidad.
-
-Entre finales de noviembre y principios de diciembre, Lula tuvo una intensa agenda de trabajo. Fue el anfitrión en Río de Janeiro de la cumbre de líderes del G20 y la semana pasada viajó a Montevideo para la reunión semestral de presidentes del Mercosur.
-
-Este martes tenía previsto reunirse en Brasilia con el primer ministro de Eslovaquia, Robert Fico, quien finalmente será recibido por el vicepresidente Geraldo Alckmin.
-
-“Nada de trabajo por el momento”, dijo Kalil.
-
-Los médicos indicaron además que el hecho de que el sangramiento se haya producido dos meses después de la caída entra dentro de lo posible, y que, una vez reciba el alta, el presidente hará vida “normal”.
-
-Otros contratiempos médicos
----------------------------
-
-Lula ocupa la **Presidencia desde el 1 de enero de 2023**, después de haber gobernado durante dos mandatos consecutivos entre 2003 y 2010.
-
-En noviembre de 2022, poco después de g**anar las elecciones frente al líder ultraderechista Jair Bolsonaro,** Lula estuvo hospitalizado para la retirada de una pequeña área de “leucoplasia” -manchas blancas- en las cuerdas vocales.
-
-Entonces, se le realizaron diversas pruebas que mostraron la completa **remisión del tumor de laringe** que padeció en 2011 y que lo obligó a someterse a varias sesiones de quimioterapia.
-
-En 2023 tuvo una bronconeumonía
--------------------------------
-
-Ya en el poder, en marzo de 2023, tuvo una **bronconeumonía** que lo obligó a postergar una importante visita de Estado a China. El líder progresista insinuó hace unos meses que pretende presentarse a la reelección en 2026, **cuando tendrá cerca de 81 años.** 
-
-Lucía Yépez, nominada luchadora del año por la United World Wrestling
-=====================================================================
-
-La ecuatoriana Lucía Yépez compite con otras destacadas luchadoras a escala mundial. ¿Contra quiénes compite?
--------------------------------------------------------------------------------------------------------------
-
-![Lucía Yépez, luchadora ecuatoriana que está nominada para la mejor del mundo.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-45.jpg)
-
-**Lucía Yépez**, la laureada luchadora ecuatoriana, está nominada por la United World Wrestling como una de las cinco mejores luchadoras del año.
-
-Este reconocimiento llega después de su destacada actuación en los **Juegos Olímpicos de París 2024,** donde se convirtió en la primera ecuatoriana en ganar una **medalla olímpica en lucha**, obteniendo la plata en la categoría de 53 kg.
+Este es el octavo día de medidas de hecho tomadas por **organizaciones sociales e indígenas** de esa provincia, con el apoyo de sus similares de otras provincias amazónicas.
 
 ### Más noticias:
 
-* [Carlos Gruezo entrena con Liga de Quito previo a la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/carlos-gruezo-entrena-con-liga-de-quito-previo-a-la-final-de-liga-pro.html "Carlos Gruezo entrena con Liga de Quito previo a la final de Liga Pro")
-* [Liga de Quito vs. IDV, ¿qué jugadores pueden definir la final de Liga Pro?](https://www.elcomercio.com/deportes/futbol/liga-de-quito-idv-que-jugadores-pueden-definir-final-de-liga-pro.html "Liga de Quito vs. IDV, ¿qué jugadores pueden definir la final de Liga Pro?")
-* [Botafogo es favorito ante Pachuca en Copa Intercontinental](https://www.elcomercio.com/deportes/futbol/botafogo-favorito-pachuca-copa-intercontinental.html "Botafogo es favorito ante Pachuca en Copa Intercontinental")
+* [Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-cambio-gobernado-napo-carcel.html "Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel")
+* [Gobierno inicia construcción de la nueva cárcel en Santa Elena](https://www.elcomercio.com/actualidad/seguridad/gobierno-inicia-construccion-nueva-carcel-santa-elena.html)
 
-Lucía Yépez
------------
-
-Su impresionante desempeño la colocó en el primer lugar del ranking mundial con 54.100 puntos.
-
-**La ‘Tigra’**, como es conocida en el mundo de la lucha, comparte esta nominación con otras grandes atletas internacionales como la japonesa Sakura Motoki, Moe Kiyooka, Buse Cavusoglu de Turquía y Ziqi Feng de China.
-
-Este logro consolida a **Yépez c**omo una de las mejores exponentes de la lucha mundial y reafirma su lugar en la historia del deporte ecuatoriano.
-
-La medalla olímpica de la ‘Tigra’
----------------------------------
-
-El camino hacia la medalla de plata no fue fácil para **Lucía Yépez**. Desde sus inicios en la lucha libre a los 10 años en el estadio 7 de Octubre de **Quevedo**, la deportista ha superado grandes desafíos, entrenando incluso sin zapatos.
-
-A sus 23 años, la luchadora oriunda de Mocache ha alcanzado el más alto nivel, y su sacrificio y esfuerzo han sido recompensados con un hito histórico para Ecuador.
-
-La medalla olímpica que **Yépez** logró en París 2024, tras caer ante la japonesa **Akari Fujinami** en la final, no solo representa un logro personal para ella, sino también para todo el país. Lucía Yépez ha sido recibida como heroína en Ecuador, siendo celebrada por el Comité Olímpico Ecuatoriano y el Ministerio del Deporte, que destacan su esfuerzo y dedicación.
-
-Ahora, con su nominación a mejor luchadora del año, Lucía Yépez sigue demostrando que su historia apenas comienza.
-
-AMC desechó casi 5 000 litros de alcohol en fiestas de Quito
-============================================================
-
-La Agencia Metropolitana de Control (AMC) identificó las zonas de mayor conflicto en fiestas, como la av. Amazonas y el sector de Iñaquito.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![La AMC retuvo licor sin registro sanitario.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-10T124205.814.jpg)
-
-El **Municipio de Quito** informó sobre las labores de control que realizó el personal de la Agencia Metropolitana de Control (AMC) en las **fiestas de Quito.**
-
-### Más noticias
-
-* [¿Es viable la extensión del Metro de Quito hasta Calderón?](https://www.elcomercio.com/actualidad/quito/metro-quito-extension-calderon-viable.html "¿Es viable la extensión del Metro de Quito hasta Calderón?")
-* [AMT sancionó a 21 conductores de motos en Quito por esta razón](https://www.elcomercio.com/actualidad/quito/amt-sanciono-a-21-conductores-de-motos-quito-por-esta-razon.html "AMT sancionó a 21 conductores de motos en Quito por esta razón")
-* [Controles de velocidad en Quito este martes 10 de diciembre](https://www.elcomercio.com/actualidad/quito/controles-de-velocidad-quito-martes-10-de-diciembre.html "Controles de velocidad en Quito este martes 10 de diciembre")
-
-Agentes decomisaron alcohol
----------------------------
-
-Durante el feriado local de **fiestas de Quito**, los agentes de control de la AMC retuvieron y desecharon 4 985 litros de alcohol.
-
-Además, se retiró a 2 800 que consumían **bebidas alcohólicas** en el espacio público.
-
-El **Municipio de Quito r**esaltó que gracias a la acción conjunta de la AMC y otras instituciones municipales se pudo evitar desmanes por exceso de consumo de licor.
-
-En las fiestas de Quito 2024, la **AMC fortaleció sus operativos de control**, cuyos resultados fueron más efectivos que los realizados en 2023.
-
-Este 2024 se desplegaron más de **286 operativos**, lo que significa un incremento de **casi cinco veces** respecto a los 58 operativos ejecutados en 2023.
-
-Operativos en fiestas de Quito
-------------------------------
-
-Para la ejecución de los operativos de este año se identificaron **las zonas de mayor conflicto,** como la av. Amazonas y el sector de Iñaquito. Y se aumentó tres veces los inspectores en las calles.
-
-Entre el **alcohol decomisado sin registro sanitario** retenido y destruido están:
-
-* 6 444 botellas
-* 929 bolos o fundas
-* 129 galones
-* 41 canecas de alcohol sin registro sanitario
-* 1 111 unidades de cigarrillos de contrabando
-
-El **alcohol sin registro sanitario** puede causar daños en la salud de los consumidores, como afectar el nervio óptico que conlleva la pérdida de la visión, cirrosis, etc.
-
-Las instituciones municipales actuaron de manera conjunta para precautelar la seguridad de los quiteños y visitantes durante la celebración de las **fiestas de Quito.**
-
-Estas [instituciones](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador") son:
-
-* Agencia Metropolitana de Control (AMC)
-* Secretaría de Seguridad
-* Cuerpo de Bomberos Quito
-* Agencia Metropolitana de Tránsito (AMT)
-* Administraciones Zonales
-* Policía Nacional
-
-Carlos Gruezo entrena con Liga de Quito previo a la final de Liga Pro
-=====================================================================
-
-Carlos Gruezo fue una de las sorpresas en el entrenamiento de Liga de Quito antes del decisivo partido contra Independiente del Valle.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Carlos Gruezo en un entrenamiento con la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-10T122507.000.jpg)
-
-**Liga de Quito** continúa con su preparación para la final de vuelta de la Liga Pro 2024 contra Independiente del Valle. Durante su práctica de este martes 10 de diciembre, el equipo contó con un invitado especial: el bimundialista **Carlos Gruezo.**
-
-El volante de 29 años, quien participó en los Mundiales de Brasil 2014 y Catar 2022, se integró al entrenamiento bajo la dirección de **Pablo “Vitamina” Sánchez**. Gruezo formó parte de ejercicios y partidos durante la sesión, siendo una figura llamativa en el plantel albo.
-
-### Más noticias:
-
-* [Liga de Quito vs. IDV, ¿qué jugadores pueden definir la final de Liga Pro?](https://www.elcomercio.com/deportes/futbol/liga-de-quito-idv-que-jugadores-pueden-definir-final-de-liga-pro.html "Liga de Quito vs. IDV, ¿qué jugadores pueden definir la final de Liga Pro?")
-* [Carlos Gruezo se perfila como el reemplazo de Moisés Caicedo en Ecuador](https://www.elcomercio.com/deportes/futbol/carlos-gruezo-perfila-como-reemplazo-moises-caicedo-ecuador.html "Carlos Gruezo se perfila como el reemplazo de Moisés Caicedo en Ecuador")
-* [Carlos Gruezo entrena en Guayaquil, ¿lo convocará Ecuador?](https://www.elcomercio.com/deportes/futbol/carlos-gruezo-entrena-en-guayaquil-lo-convocara-ecuador.html "Carlos Gruezo entrena en Guayaquil, ¿lo convocará Ecuador?")
-
-El mediocampista también estuvo presente en la final de ida, observando desde un palco en el **Estadio Rodrigo Paz Delgado,** donde Liga de Quito venció 3-0 a Independiente del Valle el pasado sábado 7 de diciembre.
-
-¿Carlos Gruezo jugará en Liga de Quito?
----------------------------------------
-
-Desde el cierre de la temporada regular en la **Major League Soccer** (MLS), han surgido rumores que vinculan a Gruezo con Liga de Quito. Sin embargo, el jugador desmintió esta posibilidad antes de la final de ida, aclarando que su **entrenamiento con la ‘U’** responde a un permiso especial otorgado por el San Jose Earthquakes, su actual club en la MLS.
-
-“Estoy agradecido por dejarme entrenar, pero tengo contrato vigente en la **MLS**. Es importante mantenerse activo, ya que las vacaciones son extensas”, expresó el mediocampista.
-
-La trayectoria de Carlos Gruezo
--------------------------------
-
-**Gruezo inició su formación en Liga de Quito**, aunque su debut profesional ocurrió en 2011 con Independiente del Valle.
-
-Su talento despegó en 2012 y 2013 con **Barcelona SC,** acumulando 81 partidos y 3 goles con apenas 17 y 18 años, antes de ser transferido al Stuttgart de Alemania.
-
-En el **Stuttgart**, jugó tres temporadas, disputando 19 partidos. Posteriormente, se trasladó a la MLS, donde defendió al **FC Dallas** entre 2016 y 2019, sumando 114 partidos y 5 goles.
-
-En 2020, regresó al fútbol alemán con el **FC Augsburgo**, donde jugó tres años y medio, acumulando 75 encuentros. Desde 2023, Gruezo pertenece al San Jose Earthquakes, con 60 apariciones en la MLS hasta ahora.
-
-En la **selección ecuatoriana**, Gruezo ha sido internacional desde 2014, disputando 65 partidos y participando en dos Copas del Mundo.
-
-Entre 40 y 50 cadáveres hallados en la prisión siria de Sednaya
-===============================================================
-
-Las puertas de esta cárcel, que estaba gestionada antes por la Policía Militar siria, se abrieron.
---------------------------------------------------------------------------------------------------
-
-![La Defensa Civil siria, conocidos como los cascos blancos, llegaron a la infame prisión de Sednaya, que estaba gestionada por el Gobierno sirio.](https://www.elcomercio.com/wp-content/uploads/2024/12/prision-siria.jpg)
-
-“Entre **40 y 50 cadáveres**” fueron encontrados en la **prisión siria de Sednaya**, al norte de Damasco. Es conocida por el uso de la **tortura contra los prisionero**s, durante las operaciones de rescate iniciadas poco después de que los insurgentes tomaran la **capital siria**, dijo el director del Observatorio Sirio de Derechos Humanos, Rami Abderrahman.
-
-### Más noticias
-
-* [Cronología de 13 años de guerra civil en Siria](https://www.elcomercio.com/actualidad/mundo/cronologia-13-anos-guerra-civil-siria.html "Cronología de 13 años de guerra civil en Siria")
-* [Insurgentes encargan formar gobierno en Siria al presidente de la administración de Idlib](https://www.elcomercio.com/actualidad/mundo/insurgentes-encargan-formar-gobierno-siria-presidente-administracion-idlib.html "Insurgentes encargan formar gobierno en Siria al presidente de la administración de Idlib")
-* [Embajada siria confirma que Al Asad se encuentra en Moscú](https://www.elcomercio.com/actualidad/mundo/embajada-siria-confirma-que-al-asad-se-encuentra-en-moscu-2.html "Embajada siria confirma que Al Asad se encuentra en Moscú")
-
-En una conversación telefónica, el jefe de la ONG, cuya sede se encuentra en el Reino Unido pero que cuenta con una **amplia red de colaboradores en el terreno,** dijo que creía que “la mayoría de los cuerpos eran de ejecuciones recientes”.
-
-Presos con signos de tortura
-----------------------------
-
-Desde que el grupo islamista **Organismo de Liberación del Levante (**Hayat Tahrir al Sham o HTS, en árabe), heredera de la exfilial siria de Al Qaeda, controlara Damasco, las puertas de esta cárcel, que estaba gestionada antes por la Policía Militar siria, **se abrieron. Aparecieron varios vídeos** en los que se mostraban a algunos presos con claros signos de tortura.
-
-Con el control de cada ciudad, la organización fue abriendo las prisiones, donde se encontraban **numerosos prisioneros políticos,** como denunció durante años organizaciones de derechos humanos.
-
-En Sednaya, que albergó entre **10 000 y 20 000 detenidos**, según estimaciones de Amnistía Internacional, el uso de tortura y fuerza excesiva salió a la luz tras un **motín de presos en 2008.**
-
-‘Primavera Árabe’
------------------
-
-Desde el comienzo de la crisis en Siria en 2011, en el marco de las revueltas populares de la llamada **‘Primavera Árabe’,** la prisión se convirtió en el **destino final** tanto de opositores pacíficos a las autoridades como de militares **sospechosos de oponerse al régimen**.
-
-CNE indicó el avance en la impresión de papeletas para las elecciones 2025
-==========================================================================
-
-El CNE avanza en la impresión de papeletas para las elecciones 2025; envíos inician en enero con resguardo militar.
--------------------------------------------------------------------------------------------------------------------
-
-![Autoridades del CNE indicaron el avance de la impresión de las papeletas para las elecciones de 2025.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-100.jpg)
-
-El **Consejo Nacional Electoral (CNE)** informó este martes, 10 de diciembre, que la impresión de papeletas para las elecciones generales del 9 de febrero de 2025 avanza según el cronograma.
-
-### Más noticias
-
-* [CNE inicia la impresión de papeletas para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-inicia-impresion-papeletas-elecciones-2025.html "CNE inicia la impresión de papeletas para las elecciones 2025")
-* [¿Quiénes deben dejar sus cargos para ir a las elecciones 2025?](https://www.elcomercio.com/actualidad/politica/quienes-deben-dejar-sus-cargos-para-ir-a-las-elecciones-2025.html "¿Quiénes deben dejar sus cargos para ir a las elecciones 2025?")
-* [Vocales suplentes del CNE exigen transición conforme a la Constitución](https://www.elcomercio.com/actualidad/politica/vocales-suplentes-del-cne-exigen-transicion-conforme-a-la-constitucion.html "Vocales suplentes del CNE exigen transición conforme a la Constitución")
-
-Este proceso está a cargo del **Instituto Geográfico Militar (IGM)**, que tiene significativos avances en la producción. Entre las papeletas ya impresas, destacan el **100 % de las destinadas a asambleístas del exterior** y el 40,61 % correspondientes a parlamentarios andinos.
-
-Además, las provincias de **Galápagos, Orellana, Napo, Cañar, Morona Santiago, Zamora Chinchipe, Bolívar y Loja** cuentan con el 100 % de sus papeletas impresas.
-
-> AHORA 📌🇪🇨 | Nuestras autoridades ofrecen una rueda de prensa y realizan un recorrido por las instalaciones del [@IGM\_Ecuador](https://twitter.com/IGM_Ecuador?ref_src=twsrc%5Etfw) para constatar el avance en la impresión 🖨️ de documentos y [#PapeletasElectoralesEc](https://twitter.com/hashtag/PapeletasElectoralesEc?src=hash&ref_src=twsrc%5Etfw), para las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw). 🗳️  
->   
-> ¡Con este ejercicio garantizamos la…
-> 
-> — cnegobec (@cnegobec) [December 10, 2024](https://twitter.com/cnegobec/status/1866500807484452982?ref_src=twsrc%5Etfw)
-
-Diana Atamaint, presidenta del CNE, aseguró que el material se enviará en enero, priorizando las **circunscripciones del exterior y las provincias de difícil acceso**. Pichincha, por su parte, será la última en recibir el material el 8 de febrero, un día antes de los **comicios**.
-
-Coordinación logística en la impresión de papeletas y resguardo militar
------------------------------------------------------------------------
-
-El **coronel Iván Ramírez**, **director del IGM**, explicó que el material electoral se entregará al CNE el 2 de enero para iniciar su distribución. Este incluye las **papeletas y los comprobantes de votación** que recibirán los ciudadanos al ejercer su derecho al sufragio.
-
-El **envío al exterior comenzará el 6 de enero**, mientras que las provincias más alejadas recibirán las papeletas en las semanas posteriores.
-
-El proceso de impresión y distribución cuenta con el **resguardo de 150 uniformados asignados por el Comando Conjunto de las Fuerzas Armadas**. Este equipo se suma a los **194 trabajadores del IGM**, de los cuales **114 han sido contratados temporalmente** para asegurar el cumplimiento del cronograma.
-
-Ramírez destacó la coordinación entre las instituciones para garantizar la seguridad y eficacia en el proceso electoral.
-
-Último corte de avance en la impresión de papeletas
----------------------------------------------------
-
-Según el CNE, con corte a las 09:00 de este martes 10 de diciembre, se registra un avance de impresión de papeletas electorales del **18,34%, es decir, 10 078 764 impresiones**.
-
-En total se imprimirán **54 945 260 papeletas** para la primera vuelta electoral. Estas corresponden a binomios presidenciales, **asambleístas nacionales**, provinciales, del exterior; y parlamentarios andinos.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-El Día de los Derechos Humanos muestra travesía de niños y familias por femicidios
-==================================================================================
-
-En el mundo, una niña o mujer muere cada 10 minutos a manos de su pareja o familiar. En América Latina y el Caribe, una es asesinada cada dos horas.
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Este martes, 10 de diciembre de 2024, en el Día de los Derechos Humanos, Unicef y Aldea lanzó estudio sobre consecuencias del femicidio. Foto: El Comercio](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-10T111918.434.jpg)
-
-El **Día de los Derechos Humanos** marca una falta permanente**: la reparación y justicia de víctimas** de **femicidio** en Ecuador. Se lanzó un estudio con cifras alarmantes.
-
-En este 10 de diciembre de 2024, la [Fundación Aldea y Unicef](https://www.unicef.org/ecuador/informes/esperando-el-verano) hicieron públicos los resultados del estudio **Esperando el verano**: trayectorias de los **niños, niñas y adolescentes** víctimas de **femicidio** en Ecuador.
-
-El trabajo arroja datos desgarradores sobre cómo la violencia de género y el femicidio en las **familias**, como su expresión más extrema, impactan a la niñez y adolescencia.
-
-### Más noticias
-
-* [Hombre recibió sentencia por femicidio de la madre en Ecuador](https://www.elcomercio.com/actualidad/seguridad/hombre-sentencia-femicidio-madre-ecuador.html "Hombre recibió sentencia por femicidio de la madre en Ecuador")
-* [Condenado a cadena perpetua el autor del feminicidio que conmocionó a Italia](https://www.elcomercio.com/actualidad/mundo/condenado-cadena-perpetua-autor-feminicidio-conmociono-italia.html "Condenado a cadena perpetua el autor del feminicidio que conmocionó a Italia")
-* [La violencia de género arrebata vidas, aún hay ‘Esperanza’](https://www.elcomercio.com/opinion/editorial/violencia-genero-arrebata-vidas-aun-hay-esperanza.html "La violencia de género arrebata vidas, aún hay ‘Esperanza’")
-
-El **Día de los Derechos Humanos** y el femicidio
--------------------------------------------------
-
-Alexandra Escobar, oficial de **Unicef en Ecuado**r, detalla que el estudio deja claro que la indiferencia no es el camino, sino la justicia y reparación. Más todavía, trabajar para que los **femicidios no continúen.**
-
-La **edad promedio** de las víctimas de femicidios en **niñas** disminuye, pasando de 10 años en 2014, a ocho en 2024. Muchas enfrentaron violencia sexual e, incluso, estaban en estado de gestación.
-
-El femicidio o asesinato de una niña, adolescente o mujer, por el hecho de serlo, **es una crisis global** y regional.
-
-En el mundo**, una niña o mujer muere cada 10 minutos a manos de su pareja o de un familiar.**
-
-En América Latina y el Caribe, una mujer es asesinada cada dos horas.
-
-Hasta noviembre de 2024, en Ecuador **ocurrieron 1 920 femicidios**, que dejaron **1 817 menores en la orfandad**. Así lo reporta Aldea.
-
-La cifra corresponde al período entre 2014, cuando se tipificó este delito en el **Código Orgánico Integral Penal (COIP)**, hasta noviembre de 2024.
-
-La tendencia es creciente y se evidencia, sobre todo, en los últimos años.
-
-El informe sobre los femicidios en Ecuador
-------------------------------------------
-
-El estudio abarca **a 76 familias en Ecuador** con 151 a menores de edad. El levantamiento de la información se realizó en este 2024.
-
-Las **violencias**, aunque no de forma exclusiva, se reproducen principalmente en los núcleos familiares.
-
-> 📍En el marco de los [#16Días](https://twitter.com/hashtag/16D%C3%ADas?src=hash&ref_src=twsrc%5Etfw) de Activismo contra la Violencia de Género y en conmemoración del Día de los [#DerechosHumanos](https://twitter.com/hashtag/DerechosHumanos?src=hash&ref_src=twsrc%5Etfw), [@AldeaFundacion](https://twitter.com/AldeaFundacion?ref_src=twsrc%5Etfw) y [@unicefecuador](https://twitter.com/unicefecuador?ref_src=twsrc%5Etfw) presentan la investigación “Esperando el verano: trayectorias de los niños, niñas y adolescentes víctimas de femicidio en… [pic.twitter.com/CdJ6nU09jP](https://t.co/CdJ6nU09jP)
-> 
-> — UNICEF Ecuador (@unicefecuador) [December 10, 2024](https://twitter.com/unicefecuador/status/1866510208186392700?ref_src=twsrc%5Etfw)
-
-Los resultados de Esperando el verano
--------------------------------------
-
-El levantamiento de información revela que **dos de cada 10 familias s**eñaló que las niñas, niños y adolescentes tiene alguna enfermedad, el acceso a servicios de salud es limitado.
-
-Más de la mitad (55%) **no recibe atención en salud mental**. Si bien los menores continúan estudiando, solo dos de cada 10 permanecieron en la misma institución educativa luego del femicidio.
-
-La mayoría cambió de casa y **uno de cada 10 (16%) fue separado de sus hermanos.**
-
-**Siete de cada 10 familias no tienen ingresos suficientes** para cubrir las necesidades básicas insatisfechas. Hay hogares que se constituyen como extendidos, con, al menos, cinco miembros.
-
-Casi la mitad de las familias (47%) tuvo **problemas para pagar los alimentos** en las últimas semanas. Seis de cada 10 que acogieron a los niños y niñas no han recibido acompañamiento o asesoría.
-
-51% de las familias consultadas sí conocen y reciben el bono de orfandad. Mientras que el 38% no y el 11%, no respondió.
-
-Siete de cada 10 familias afirman que las **medidas de reparación integral son insuficientes.**
-
-Los rostros del femicidio
--------------------------
-
-Yadira Labanda, madre una **víctima de femicidio,** reafirma que un **femicidio** no solo arrebata la vida de una mujer, sino que destruye familias.
-
-Ella es activista y fue parte del proceso de **levantamiento de información**. En ese camino, además de recordar su historia, la mujer enfatiza que no hay una respuesta efectiva del Estado.
-
-**“Muchos niños han quedado al cuidado de sus abuelas, mujeres de la tercera edad, que ya no tienen las fuerzas”**.
-
-Ella señala que el **bono de la orfandad** o no llega o es insuficiente para cubrir las necesidades de los menores que pierden a su madre.
-
-Además, **muchos femicidas están libres**. En Ecuador, este delito contempla una pena privativa de libertad de 22 a 26 años.
-
-Cifras faltantes sobre los femicidios en Ecuador
-------------------------------------------------
-
-Alexandra Escobar remarca qué hay un subregistro y aú**n hacen falta datos de los niños y adolescentes,** así como de los casos de femicidio.
-
-Pero hay certezas, cóm**o las secuelas que deja el delito en las familias,** desde las psicológicas hasta las económicas.
-
-Aun así, apunta Escobar, **“el verano simboliza esperanza”**. Para que esté llegue se requiere de todos: el Gobierno y la sociedad civil. Los marcos normativos existen, pero aún falta que se cumplan.
-
-Las otras realidades tras el femicidio
---------------------------------------
-
-La investigación tiene como propósito **evidenciar y exigir acciones concretas del Estado**. Esta, justamente, evidencia que la mayoría de los niños y adolescentes **víctimas de femicidio** está bajo el cuidado de mujeres, especialmente de las abuelas. Esta realidad contempla al 46% de los casos abordados.
-
-El panorama, a su vez, abarca que el 70% encuestadas afirmó tener la custodia legal. Sin embargo, solo el 41% completó el proceso legal para obtener la custodia definitiva.
-
-Esperanza y el camino por la voz de las mujeres y familias
-----------------------------------------------------------
-
-Las voces de esa realidad **son parte de Esperanza,** el pódcast quincenal de **EL COMERCIO**.
-
-La siguiente entrega, que estará al aire el 16 de diciembre de 2024, recoge la historia de **Alexa Perlaza**, quien es parte de la **Fundación Madres Coraje**, integrada por madres de mujeres víctimas de femicidio.
-
-Su hija Danny Victoria tenía 26 años cuando quien fue **su pareja la mató.** Durante tres días ella no apareció, luego de matarla, él dejó el cadáver en la vivienda, con el ventilador prendido.
-
-Ella ahora es l**a responsable de sus nietos** y dedica su vida a la búsqueda de justicia y reparación, mientras trabaja para sostener a los pequeños y a su hija menor.
-
-**Esperanza** representa el comienzo de un camino con voces de mujeres llenas de valentía, que enfrentaron violencia, transformaron su vida y, ahora, alzan la voz.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Feid se sumó a la lista de reguetoneros colombianos con récords Guinness
-========================================================================
-
-Feid consiguió su récord Guinness en Medellín.
-----------------------------------------------
-
-![Feid tiene 32 años y es uno de los reguetoneros más queridos. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-10T120008.038.jpg)
-
-El **reguetón** deja una huella imborrable en la **música global** y varios de sus exponentes son reconocidos por sus logros excepcionales a través de récords **Guinness**.
-
-En la lista hay tres **reguetoneros** colombianos; **Feid** fue el último en sumarse.
-
-### **Más noticias:**
-
-* [¿Quién es Feid, el cantante que estará en el show de la Copa América 2024?](https://www.elcomercio.com/tendencias/feid-copa-america.html "https://www.elcomercio.com/tendencias/feid-copa-america.html")
-* [Feid comparte video de su borrachera e indigna a los usuarios de Instagram](https://www.elcomercio.com/tendencias/entretenimiento/feid-video-borracho-instagram-criticas-redes-57.html "https://www.elcomercio.com/tendencias/entretenimiento/feid-video-borracho-instagram-criticas-redes-57.html")
-* [¿Karol G y Feid se casaron en secreto?](https://www.elcomercio.com/tendencias/entretenimiento/boda-secreta-feid-karolg.html "https://www.elcomercio.com/tendencias/entretenimiento/boda-secreta-feid-karolg.html")
-
-**Feid se sumó a la lista de reguetoneros colombianos con récords Guinness**
-----------------------------------------------------------------------------
-
-Feid, el exitoso **reguetonero colombiano**, alcanzó un logro que sorprendió a sus **seguidores**.
-
-¿Qué hizo? **Se adjudicó un récord Guinness** por la mayor distancia recorrida por un artista durante un concierto en vivo; sumó 10 003 kilómetros.
-
-**Feid** recibió el reconocimiento en la última noche de su ‘**Ferxxocalipsis**‘ en Medellín.
-
-**Otros reguetoneros con récords Guinness**
--------------------------------------------
-
-**Karol G**, reconocida como una de las artistas más influyentes del **género urbano**, rompió cinco récords Guinness con su álbum ‘**Mañana Será Bonito’**.
-
-Entre los más destacados: se convirtió en la primera cantante femenina en alcanzar el **número uno de la lista Billboard 200** con un álbum completamente en español.
-
-‘Mañana Será Bonito’ se convirtió en el **álbum latino en español más reproducido** en Spotify dentro de las primeras 24 horas para una artista femenina.
-
-**J Balvin también tiene un récord Guinness**
----------------------------------------------
-
-En 2020, [Guinness World Records (GWR)](https://www.guinnessworldrecords.es/news/press-release/2020/11/j-balvin-es-oficialmente-el-artista-global-con-mas-nominaciones-a-latin-grammy-e "https://www.guinnessworldrecords.es/news/press-release/2020/11/j-balvin-es-oficialmente-el-artista-global-con-mas-nominaciones-a-latin-grammy-e"), la autoridad mundial en récords, certificó oficialmente al Embajador Global del Reggaetón, J Balvin, como el artista con **la mayor cantidad de nominaciones a los premios Latin Grammy en un año (13).** 
-
-Balvin obtuvo su primer título en marzo de 2016. Ese año rompió el récord de la mayor duración en el primer lugar de las listas de Billboard Hot Latin Songs por un solo artista. Permaneció en la cima durante 22 semanas con su éxito Ginza.
-
-‘La Guerra de los Rohirrim’ apuesta por la animación y un retorno a los orígenes 
-=================================================================================
-
-La nueva película ‘La Guerra de los Rohirrim’ revive el universo de Tolkien con un estilo anime.
-------------------------------------------------------------------------------------------------
-
-![‘La Guerra de los Rohirrim’ se ambienta 183 años antes de la trilogía original. Foto: Instagram @wbpictureslatam.](https://www.elcomercio.com/wp-content/uploads/2024/12/La-Guerra-de-los-Rohirrim-2.jpg)
-
-El 5 de diciembre de 2024, se estrenó en Ecuador **‘La Guerra de los Rohirrim’**, una película que regresa al universo de **‘El Señor de los Anillos’**. Esta **producción animada**, dirigida por **Kenji Kamiyama**, marca un cambio significativo respecto a las anteriores **adaptaciones cinematográficas**, que fueron en **‘live action’**.
-
-### Más noticias
-
-* [‘La Guerra de los Rohirrim’ llega a la gran pantalla con un estilo anime épico](https://www.elcomercio.com/tendencias/cine/la-guerra-de-los-rohirrim-cine-pelicula.html "https://www.elcomercio.com/tendencias/cine/la-guerra-de-los-rohirrim-cine-pelicula.html") 
-* [Descubren en Ecuador una rana y la nombran en honor al escritor J.R.R. Tolkien](https://www.elcomercio.com/tendencias/ciencia/descubren-ecuador-rana-nombran-honor-escritor-jrr-tolkien.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/ciencia/descubren-ecuador-rana-nombran-honor-escritor-jrr-tolkien.html?source=Internal&ref=Single+Content+Link")
-
-Esta **apuesta arriesgada** busca atraer tanto a los fanáticos de la saga como a **nuevos espectadores**, al ofrecer una **experiencia visual única** que combina la **narrativa épica** de Tolkien con un **estilo anime** distintivo. 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDXp46Kh2QT/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Warner Bros. Pictures Latam (@wbpictureslatam)](https://www.instagram.com/reel/DDXp46Kh2QT/?utm_source=ig_embed&utm_campaign=loading)
-
-**El director de ‘La** **Guerra de los Rohirrim’** 
----------------------------------------------------
-
-**Kenji Kamiyama** es conocido por su trabajo en el **mundo del anime**. Ha dirigido series aclamadas como ‘Ghost in the Shell: Stand Alone Complex’ y ‘Jin-Roh’. Su experiencia en el género le permite aportar una **perspectiva fresca y emocionante** a la historia de **Helm Hammerhand**, el legendario **rey de Rohan**. La elección de un **director japonés** para esta producción resalta la **influencia global del anime** y su capacidad para contar historias complejas y visualmente atractivas, según recoge [Gestión](https://gestion.pe/mix/tendencias-mix/el-senor-de-los-anillos-la-guerra-de-los-rohirrim-la-trama-y-fecha-de-estreno-de-la-pelicula-the-lord-of-the-rings-the-war-of-the-rohirrim-video-nnda-nnlt-noticia/?ref=gesr "https://gestion.pe/mix/tendencias-mix/el-senor-de-los-anillos-la-guerra-de-los-rohirrim-la-trama-y-fecha-de-estreno-de-la-pelicula-the-lord-of-the-rings-the-war-of-the-rohirrim-video-nnda-nnlt-noticia/?ref=gesr").  
-
-**Una trama épica** 
---------------------
-
-**‘La Guerra de los Rohirrim’** se ambienta 183 años antes de los eventos narrados en la trilogía original. La historia sigue a **Helm “Mano Martillo”**, quien debe defender su reino ante un **ataque del astuto Wulf**, un caballero dunlendino que **busca venganza** por la muerte de su padre. Este conflicto culmina en la famosa f**ortaleza del Abismo de Helm**, un lugar que se convierte en símbolo de resistencia y valentía, siguiendo con Gestión.  
-
-La película también **introduce a nuevos personajes**, como **Héra, la hija de Helm**, quien debe encontrar la fuerza para liderar a su pueblo en tiempos desesperados, a decir de [Infobae](https://www.infobae.com/espana/cultura/2024/12/03/cuando-se-ambienta-la-guerra-de-los-rohirrim-y-como-conecta-con-las-otras-entregas-de-el-senor-de-los-anillos/ "https://www.infobae.com/espana/cultura/2024/12/03/cuando-se-ambienta-la-guerra-de-los-rohirrim-y-como-conecta-con-las-otras-entregas-de-el-senor-de-los-anillos/"). Este **enfoque en personajes femeninos** fuertes y resilientes refleja una **tendencia contemporánea** en el cine que busca diversificar las narrativas tradicionales. 
-
-**Un regreso a los orígenes** 
-------------------------------
-
-El **viraje hacia la animación** puede considerarse **un regreso a los orígenes**. Las **primeras adaptaciones** de las obras de **J.R.R. Tolkien** fueron también animadas: ‘El Señor de los Anillos’ (película de 1978), lo que permite a **‘La Guerra de los Rohirrim’** conectar con esa herencia. Esta nueva adaptación no solo honra el legado del autor, sino que también explora aspectos menos conocidos del mundo que creó, según [AS](https://as.com/meristation/noticias/cuando-se-estrena-el-senor-de-los-anillos-la-guerra-de-los-rohirrim-fecha-de-estreno-oficial-y-nuevo-trailer-n-2/ "https://as.com/meristation/noticias/cuando-se-estrena-el-senor-de-los-anillos-la-guerra-de-los-rohirrim-fecha-de-estreno-oficial-y-nuevo-trailer-n-2/").  
-
-La combinación del estilo **visual anime** con la rica **tradición narrativa de Tolkien** ofrece una experiencia única. Los paisajes épicos y las **batallas espectaculares** prometen atraer tanto a los fanáticos del anime como a los seguidores de las historias clásicas de la Tierra Media. 
-
-**El desafío del cambio** 
---------------------------
-
-Aunque muchos celebran esta nueva dirección, otros son escépticos sobre el **cambio de formato**. Las películas originales dirigidas por **Peter Jackson** establecieron un estándar elevado para las **adaptaciones cinematográficas de Tolkien**. Sin embargo, este nuevo enfoque puede abrir puertas a una audiencia más amplia y ofrecer nuevas interpretaciones de historias familiares. 
-
-La película cuenta con un **elenco destacado** que incluye **voces reconocidas** como Brian Cox (Helm), Gaia Wise (Héra) y **Miranda Otto**, quien regresa como narradora tras haber interpretado a Éowyn en las películas anteriores. 
-
-Este toque nostálgico puede atraer a aquellos que crecieron con las películas originales. 
-
-### Te recomendamos:
-
-Policía captura a miembros de Las Águilas, entre ellos el cabecilla
-===================================================================
-
-Alias 'Pilozo' y 13 antisociales más fueron detenidos en flagrancia. Cuatro de ellos registran antecedentes por robo y tráfico de drogas
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![La Policía realizó en operativo Ónix en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-10T115923.950.jpg)
-
-La **Policía Nacional** informó este martes 10 de diciembre sobre los resultados de un **operativo** ejecutado en medio del combate al **crimen organizado**. Este operativo consiguió dar un golpe a Las Águilas.
-
-### Más noticias
-
-* [Policía Nacional se incautó de más de dos toneladas de cocaína](https://www.elcomercio.com/actualidad/seguridad/policia-nacional-incauto-cerca-dos-toneladas-cocaina.html "Policía Nacional se incautó de más de dos toneladas de cocaína")
-* [Daniel Noboa tomó una decisión sobre la protección policial para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-decision-proteccion-policial-elecciones-2025.html "Daniel Noboa tomó una decisión sobre la protección policial para las elecciones 2025")
-* [Daniel Noboa anunció el fin de los apagones en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-anuncio-fin-apagones-ecuador.html "Daniel Noboa anunció el fin de los apagones en Ecuador")
-
-El operativo Ónix
------------------
-
-La Policía Nacional ejecutó el operativo llamado Ónix en Guayaquil, a través de la Dirección Nacional de Investigación Antidrogas.
-
-Esta operación dejó como resultado la aprehensión de 14 antisociales, entre ellos alias ‘Pilozo’, quienes habrían incurrido en el delito de delincuencia organizada.
-
-Estos sujetos serían miembros del grupo armado organizado Las Águilas. Cuatro de los implicados registran antecedentes por delitos como robo y tráfico de drogas.
-
-El operativo se realizó durante la madrugada de este martes 10 de diciembre, luego de investigaciones desarrolladas a lo largo de ocho meses. Esta investigación estuvo a cargo de la Unidad Nacional contra el Tráfico Ilícito para el consumo Interno (UCTCI).
-
-Las Águilas habrían participado en el tráfico para el consumo interno de sustancias catalogadas como sujetas a fiscalización. Además, generaba violencia y alteración del orden público por disputas territoriales con otros grupos delictivos.
-
-Así también, se encontró que esta organización se abastecía de sustancias ilícitas en Loja mediante el uso de vehículos con compartimientos secretos. Posterior a su llegada, los almacenaban en inmuebles en los distritos Portete y La Florida y luego los distribuían en la provincia del Guayas.
-
-Mientras se realizaban las investigaciones, se realizaron cuatro operativos en donde se aprehendió a cuatro sujetos en flagrancia y se decomisó 7 841,30 gramos de cocaína.
-
-Resultados operativo Ónix
--------------------------
-
-Las acciones ejecutadas este martes 10 de diciembre dejaron los siguientes [indicios recogidos.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-* 20 kilogramos de cocaína
-* 160 gramos de marihuana
-* Un arma de fuego
-* 13 cartuchos
-* Una alimentadora
-* Dos vehículos retenidos
-* Una moto retenida
-* 11 terminales móviles
-* Dinero en efectivo
-* Prendas de vestir
-
-Liga de Quito vs. IDV, ¿qué jugadores pueden definir la final de Liga Pro?
-==========================================================================
-
-Faltan menos de siete días para conocer al nuevo monarca de la Liga Pro 2024, entre Liga de Quito e Independiente del Valle.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Jeison Medina y Alex Arce son los goleadores de Independiente del Valle y Alex Arce, respectivamente.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-10T114806.813.jpg)
-
-Liga de Quito obtuvo una importante ventaja en la ida de la final de la Liga Pro 2024. Los albos vencieron por **3-0 a Independiente del Valle** el pasado sábado 7 de diciembre en el Estadio Rodrigo Paz Delgado, dejando la serie inclinada a su favor.
-
-Este abultado marcador le otorga una ventaja estratégica y psicológica al **‘Rey de Copas’**, ya que no será quien tenga que arriesgar en la revancha. Por el contrario, IDV enfrenta toda la presión, pues necesita jugar con intensidad desde el primer minuto si pretende remontar.
-
-### Más noticias:
-
-* [Liga de Quito ganó un título en cancha de Independiente](https://www.elcomercio.com/deportes/futbol/liga-quito-campeon-supercopa-ecuador.html "Liga de Quito ganó un título en cancha de Independiente")
-* [Liga de Quito y la Segunda Etapa: ¿El camino seguro al título de Liga Pro?](https://www.elcomercio.com/deportes/liga-pro-campeones-ganadores-segunda-etapa.html "Liga de Quito y la Segunda Etapa: ¿El camino seguro al título de Liga Pro?")
-* [Liga de Quito prepara una sorpresa para los hinchas en la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-prepara-sorpresa-para-los-hinchas-final-de-liga-pro.html "Liga de Quito prepara una sorpresa para los hinchas en la final de Liga Pro")
-
-La final de vuelta se disputará este **sábado 14 de diciembre**, a las **15:30**, en el Estadio Banco Guayaquil, ubicado en el sector de Chillo Jijón, Valle de los Chillos.
-
-Los jugadores que pueden definir la final
------------------------------------------
-
-A pesar de la ventaja de Liga de Quito, ambos equipos cuentan con figuras que podrían ser clave en el desenlace del torneo, ya sea para confirmar el título albo o para concretar una histórica remontada rayada.
-
-### Liga de Quito
-
-En el **‘Rey de Copas’** hay dos jugadores clave que ya demostraron su valía en la final de ida.
-
-El primero, obviamente, no podía ser otro más que **Alex Arce**, quien anotó un doblete en el partido anterior, alcanzando los **28 goles en 30 partidos** de la Liga Pro, una cifra récord bajo este formato de torneo.
-
-Arce ha demostrado ser un delantero letal y el mejor cabeceador del campeonato, convirtiéndose en la principal amenaza ofensiva de Liga de Quito. Su olfato goleador le permite estar en el momento exacto para definir y causar estragos en las defensas rivales, especialmente en jugadas aéreas.
-
-El segundo es **Jhojan Julio**, un jugador que, en la previa, no partía como figura debido a una larga ausencia por lesión. Sin embargo, en la final de ida, fue el encargado de romper el cerrojo de IDV con su desequilibrio.
-
-Julio, quien recientemente alcanzó los **200 partidos con LDU**, fue una constante amenaza por las bandas, complicando a la defensa de los rayados y generando espacios para que sus compañeros atacaran con mayor libertad.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDZ2DASOpvD/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DDZ2DASOpvD/?utm_source=ig_embed&utm_campaign=loading)
-
-### Independiente del Valle
-
-Para intentar una épica hazaña en el fútbol ecuatoriano, **Independiente del Valle** confiará en dos figuras fundamentales:
-
-**Jeison Medina**, su máximo goleador, es el segundo en la tabla de goleo con **20 tantos**, solo detrás de Arce. Desde su llegada al club a mediados de 2024, el ariete colombiano se convirtió en la principal referencia ofensiva del equipo. Su habilidad para moverse en el área, su visión y su potente golpeo serán determinantes si IDV aspira a revertir el resultado.
-
-La otra figura es **Keny Arroyo**, el joven ecuatoriano que se consolidó como la revelación del torneo en el segundo semestre. Gracias a su habilidad con los pies, explosividad y excelente gambeta, **‘Che-Che’** ha sido un jugador clave para generar peligro tanto por las bandas como por el centro.
-
-En la ida, **Arroyo** fue uno de los pocos jugadores de Independiente que se mostró participativo en ataque. Será crucial para abrir espacios y romper la sólida defensa de Liga en el partido de vuelta.
-
-Joven fue a una entrevista de trabajo y apareció muerta, tenía dos pregrados
-============================================================================
-
-Los padres de Catalina Leyva entregaron detalles de lo que se sabe del caso.
-----------------------------------------------------------------------------
-
-![El hallazgo les dejó una profunda tristeza y decenas de preguntas que siguen sin resolver.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-10.jpg)
-
-Una **trágica** noticia enluta a una familia de Bogotá tras enterarse de que su ser querido, una joven de 24 años, salió de su hogar para una entrevista de trabajo y posteriormente fue **hallada sin vida** con signos de **violencia sexual**.
-
-### Más noticias:
-
-* [Violencia sexual en transporte municipal de Quito, ¿cuáles son los protocolos?](https://www.elcomercio.com/actualidad/quito/violencia-sexual-transporte-municipal-protocolos.html "Violencia sexual en transporte municipal de Quito, ¿cuáles son los protocolos?")
-* [Romper y hacer pactos por la eliminación de la violencia de género](https://www.elcomercio.com/actualidad/romper-hacer-pactos-eliminacion-violencia-genero.html "Romper y hacer pactos por la eliminación de la violencia de género")
-
-El hallazgo les dejó una **profunda tristeza y decenas de preguntas** que siguen sin resolver. Sus familiares piden a las autoridades celeridad en el caso.
-
-Desaparición tras entrevista y hallazgo trágico
------------------------------------------------
-
-De acuerdo con el informe de Citytv, la joven fue citada para una **entrevista de trabajo** el pasado 9 de noviembre de 2024, en el barrio El Restrepo, hasta donde la llevó su novio, quien el mismo día notificó que no había vuelto a saber de ella por lo que acudió inmediatamente hacia los padres de la mujer.
-
-“Ella sale de la casa sobre las 7 a.m. y a las 9:30 nos reportó el novio que ella había desaparecido. Recurrimos a la Policía y a través del teléfono de la niña encontramos su cadáver”, informó el padre.  
-Para sus padres y las autoridades es clave determinar que la joven no fue despojada de sus pertenencias, pues contaba con su celular, billetera y ropa sin ninguna alteración.
-
-“Cuando llegamos ella estaba boca abajo, al parecer, sin ningún indicio de violencia. Sin embargo, en la necropsia determinaron que tenía signos de violencia sexual”, confirmó el padre.
-
-¿Qué se sabe de las personas que la citaron?
+Protestas en Napo por la cárcel en Archidona
 --------------------------------------------
 
-La joven fue identificada como **Catalina Leyva**, quien mencionaron sus familiares era una **mujer juiciosa y una gran persona**: “Ella era un gran ser humano, ya había **culminado dos pregrados** y cursaba una tercera profesión. También tenía un emprendimiento de donas”.
+Una de las ofertas de campaña del presidente **Daniel Noboa** fue la construcción de dos cárceles de máxima seguridad en el país.
 
-De acuerdo con sus padres, existe el registro de la conversación que la joven mantuvo con estas personas a través del WhatsApp.
+Una de estas cárceles ya está ubicada en **Santa Elena** y presenta más del 30% de construcción.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-11-1024x683.jpg)
+La otra estará en Archidona, cantón de la provincia del **Napo**.
 
-Sus padres encontraron las conversacions en WhatsApp. Imagen generada con Ideogram.ai
+El pasado 25 de noviembre se lanzó el proceso para la construcción de una **cárcel de máxima seguridad** en Archidona.
 
-“Ceci Ariza le dice a ella que ella tiene el trabajo que ella necesita, y que es muy bien remunerado**, que es algo audiovisual**… para que ella realizara un trabajo audiovisual, pues ella estaba estudiando diseño gráfico; y ella se va hasta ese punto”, afirmó el padre.
+Se trata de la **ampliación** del centro de privación de la libertad ya existente en esa ciudad.
 
-Sus familiares accedieron a las conversaciones gracias a que Catalina dejó su red social abierta en el portátil de la casa. Sin embargo, afirman que pese a que ya entregaron las evidencias a la **Fiscalía, aún no han tenido respuesta alguna.**
+La **adjudicación** estaba prevista para el 9 de diciembre, con un presupuesto de 51 millones de dólares y un plazo de ejecución de 300 días.
 
-“Pedimos que piensen que es un ser humano, una gran hija y creo que no tenemos que tener nombre para que trabajen en el caso. Con las evidencias **ya se puede empezar a investigar quién le hizo esto a mi hija”**, concluyó su padre.
+Por esta obra, las comunidades indígenas y organizaciones sociales de la provincia del Napo han desarrollado varias **medias de hecho**.
 
-‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales
-========================================================================================
+Cierre de vías que comunican Napo con **Pichincha** y otras provincias, quema de llantas, protestas y vigilias son algunas de las acciones.
 
-El secretario de la Asamblea Nacional denuncia la inconstitucionalidad de la promulgación del Decreto Ley 'Ley Antipillos'.
----------------------------------------------------------------------------------------------------------------------------
+La **Confederación de Nacionalidades Indígenas de la Amazonía Ecuatoriana (Cofeniae)**, filial de la Conaie en la Amazonía, está al frente de las protestas.
 
-!['Ley Antipillos' ya consta en el Registro Oficial.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-99.jpg)
+Este martes, una delegación de comunidades indígenas de **Pastaza** también llegaron a Napo para unirse a las manifestaciones.
 
-El **secretario general de la Asamblea Nacional, Alejandro Muñoz**, calificó como un **‘apagón jurídico’** la promulgación del **Decreto Ley conocido como ‘Ley Antipillos’** por parte del presidente de la República, argumentando que el proyecto había sido previamente **negado y archivado por el Legislativo**.
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/image-1-1024x627.png)
 
-La Ley fue publicada en el **Registro Oficial este 10 de diciembre**.
+Una delegación de la nacionalidad Kichwa de Pastaza llegó para apoyar las protestas en Napo contra la cárcel de Archidona. Foto: X Confeniae.
 
-### Más noticias
+” El **pueblo Naporuna**, hijos e hijas de Jumandi, Beto y Wami, se ha levantado para defender el territorio, acechado por la violencia capitalista”, señaló la Confederación.
 
-* [Daniel Noboa envió al Registro Oficial Ley ‘Antipillos’](https://www.elcomercio.com/actualidad/politica/daniel-noboa-envio-registro-oficial-ley-antipillos.html "Daniel Noboa envió al Registro Oficial Ley ‘Antipillos’")
-* [Gobierno de Daniel Noboa hará una petición a México sobre Walter Solís](https://www.elcomercio.com/actualidad/seguridad/gobierno-daniel-noboa-peticion-mexico-walter-solis.html "Gobierno de Daniel Noboa hará una petición a México sobre Walter Solís")
-* [Daniel Noboa devolvió archivo de la ley de lavado de activos a la Asamblea Nacional](https://www.elcomercio.com/actualidad/politica/daniel-noboa-devolvio-archivo-ley-lavado-activos-asamblea-nacional.html "Daniel Noboa devolvió archivo de la ley de lavado de activos a la Asamblea Nacional")
+Y agregó: “**Petroleras, mineras, hidroeléctricas y hoy, megacárceles**, quieren destruir nuestro hogar. Desde el puente Misahualli, seguimos firmes”.
 
-Durante un comunicado emitido ayer, señaló que este acto “viola el **principio de independencia** y separación de funciones del Estado, y resquebraja las bases de la democracia”.
+La posición del Gobierno respecto a la cárcel en Archidona
+----------------------------------------------------------
 
-Un acto que va en contra de la Constitución, según la Asamblea sobre la ‘Ley Antipillos’
-----------------------------------------------------------------------------------------
+A consecuencia de las protestas por la construcción de la nueva cárcel, hubo cambio en la representación del **Gobierno** en la provincia de Napo.
 
-El secretario explicó que el **artículo 140 de la Constitución** establece un único procedimiento para la aprobación de leyes, sean **ordinarias o económicas urgentes**. Según Muñoz, este fue seguido correctamente por la Asamblea al archivar el proyecto en el primer debate.
+**Marlene Cabrera** renunció al cargo de Gobernadora de Napo, el pasado sábado.
 
-Según él, esta decisión tiene plena validez jurídica y constitucional, ya que no se ha declarado la inconstitucionalidad del **artículo 60 de la Ley Orgánica de la Función Legislativa**.
+Cabrera dijo que lo hace “en coherencia con mis principios y mi corazón” y agregó que lo que más quisiera es una **reubicación** de la cárcel.
 
-> ‼️[#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw)  
-> El secretario de la Asamblea, Alejandro Muñoz, dice que, en caso de que se publique la Ley Antipillos presentarán una demanda en la Corte Constitucional. Además, se analiza una acción penal por arrogación de funciones. Esto tras el Decreto Ley emitido por Noboa.  
-> ▶️… [pic.twitter.com/SNqdLAwzXw](https://t.co/SNqdLAwzXw)
-> 
-> — Ecuadorinmediato (@ecuainm\_oficial) [December 10, 2024](https://twitter.com/ecuainm_oficial/status/1866500884470882683?ref_src=twsrc%5Etfw)
+Entonces, con el **Decreto Ejecutivo 476**, el presidente **Daniel Noboa** designó a un nuevo Gobernador.
 
-“La promulgación de este Decreto Ley constituye no solo un **acto inconstitucional**, sino que, además, se ha realizado bajo un procedimiento irregular que agrava aún más la situación”, afirmó Muñoz.
+La postura del Gobierno es seguir con la **cárcel de máxima seguridad en Archidona**, pese a las protestas.
 
-Este es el artículo 60 de la Ley Orgánica de la Función Legislativa:  
-“**Art. 60.-** Inclusión del informe para primer debate en el orden del día.-  
-Las comisiones especializadas elevarán los respectivos informes a conocimiento de la Presidencia de la Asamblea Nacional.  
-El Presidente o Presidenta de la **Asamblea Nacional**, ordenará su distribución a los asambleístas por  
-Secretaría General de la Asamblea Nacional.  
-El **primer debate** se desarrollará, previa convocatoria del Presidente o Presidenta de la Asamblea Nacional, en **una sola sesión** y las y los asambleístas presentarán sus observaciones por escrito en  
-el transcurso de la misma sesión o hasta tres días después de concluida la sesión.  
-El **Pleno**, con la mayoría absoluta de sus miembros, **podrá resolver el archivo del proyecto de ley**“.
+**Gary Ribadeneyra**, el nuevo gobernador de Napo, manifestó que existe una cárcel en Archidona, que está deteriorada y de lo que se trata es de **repotenciar** la cárcel ya existente.
 
-Actuación del Ejecutivo
------------------------
+Ribadeneyra aseguró que los espacios serán lo más alejado posible del **sector urbano**.
 
-El funcionario también cuestionó la actuación de la **Secretaría Jurídica de la Presidencia**. Ya que el mismo día envió una solicitud a la Asamblea para certificar el estatus del proyecto.
-
-Sin embargo, horas después, el **Ejecutivo promulgó el decreto** sin la certificación requerida, contradiciendo su propia solicitud.
-
-“Esto demuestra no solo una falta de respeto al procedimiento, sino un claro intento de imponer decisiones que violentan el **marco jurídico**”, aseveró el secretario.
-
-Muñoz mencionó que, en caso de que se p**ublique la ‘Ley Antipillos’** presentarán una demanda en la **Corte Constitucional**. Asimismo, explicó que analizarán una **acción penal por arrogación de funciones**.
-
-Repercusiones en el sistema democrático
----------------------------------------
-
-El pronunciamiento cierra con una advertencia sobre las **implicaciones de este tipo de acciones** en la estabilidad del sistema democrático ecuatoriano. “Este tipo de decisiones arbitrarias crean un precedente peligroso y afectan la **confianza en las instituciones**”, concluyó.
-
-La publicación de la Ley Orgánica para la Mejora Recaudatoria en el Registro Oficial
-------------------------------------------------------------------------------------
-
-El 10 de diciembre de 2024, se oficializó en el **Registro Oficial la Ley Orgánica para la Mejora Recaudatoria a través del Combate al Lavado de Activos**.
-
-Este decreto-ley fue promulgado por el presidente **Daniel Noboa** tras agotar el plazo de 30 días sin resolución por parte de la **Asamblea Nacional**, lo que le permitió adoptar esta medida bajo el marco constitucional que habilita al Ejecutivo a legislar en casos de urgencia económica.
-
-La nueva normativa busca fortalecer los mecanismos de control financiero, estableciendo regulaciones estrictas para la detección y prevención de **lavado de activos**. Entre sus disposiciones, se incluye la modernización del sistema recaudatorio y la imposición de sanciones más severas para quienes incurran en delitos económicos. Con ello, el Gobierno apunta a cerrar brechas que facilitan la evasión fiscal y el flujo de dinero ilícito.
-
-Pronunciamiento del Registro Oficial
-------------------------------------
-
-El **Registro Oficial**, recordó mediante un comunicado que su función es **informar a la ciudadanía** sobre las **disposiciones legales** que rigen en el país, actuando como único órgano de comunicación legal entre el Estado y sus habitantes.
-
-La institución aclaró que **no ejerce control de legalidad o constitucionalidad**, limitándose a un control editorial para garantizar la **claridad, legibilidad y completitud de los documentos publicados**, además de verificar que incluyan sellos y firmas correspondientes.
-
-> ‼️[#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw)  
-> Frente a la emisión decreto-ley de la “Ley Antipillos”, el Registro Oficial señala que no es un órgano dirimente ni realiza controles de legalidad o de constitucionalidad. Hoy, el secretario de la Asamblea, Alejando Muñoz, anunció que en caso se publique el Decreto se… [pic.twitter.com/wXL3zFPPF5](https://t.co/wXL3zFPPF5)
-> 
-> — Ecuadorinmediato (@ecuainm\_oficial) [December 10, 2024](https://twitter.com/ecuainm_oficial/status/1866539892391461231?ref_src=twsrc%5Etfw)
-
-Asimismo, explicó que, según disposiciones transitorias **constitucionales y legales**, opera como una institución autónoma bajo la **dependencia administrativa** y presupuestaria de la Corte Constitucional, hasta que se transforme en una empresa pública.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Michimercio anda medio chill
-============================
-
-La ciudad está llena de adornos para celebrar, aunque no todos andan de buen humor: están poseídos por el espíritu grinch.
---------------------------------------------------------------------------------------------------------------------------
-
-![Michimercio y su espíritu de Navidad.](https://www.elcomercio.com/wp-content/uploads/2024/12/MichiNavidad.jpeg)
-
-El espíritu navideño ronda por todos lados y nuestro amigo anda medio, ‘gatini’ porque estos meses ha trabajado mucho.
-
-Concejo Metropolitano de Quito niega citación del secretario de Cultura
-=======================================================================
-
-Nueve concejales pidieron cambiar el orden del día para tartar el tema de los eventos ocurridos en el Quitofest.
-----------------------------------------------------------------------------------------------------------------
-
-![El Concejo Metropolitano de Quito se reunió este 10 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/Concejo-de-Quito.jpg)
-
-En este 10 de diciembre del 2024, durante el **Concejo** **Metropolitano** de Quito, no se aprobó el cambio del orden del día[.](https://es.wikipedia.org/wiki/Distrito_metropolitano_de_Quito#:~:text=Concejo%20metropolitano,-Art%C3%ADculo%20principal%3A%20Concejo&text=Es%20un%20%C3%B3rgano%20unicameral%20compuesto,concejal%20metropolitano%20preside%20una%20comisi%C3%B3n. "https://es.wikipedia.org/wiki/Distrito_metropolitano_de_Quito#:~:text=Concejo%20metropolitano,-Art%C3%ADculo%20principal%3A%20Concejo&text=Es%20un%20%C3%B3rgano%20unicameral%20compuesto,concejal%20metropolitano%20preside%20una%20comisi%C3%B3n.")
-
-Más noticias
-------------
-
-* [Nueve concejales de Quito piden llamar al Secretario de Cultura por Mugre Sur](https://www.elcomercio.com/actualidad/quito/nueve-concejales-quito-piden-llamar-secretario-cultura-mugre-sur.html "Nueve concejales de Quito piden llamar al Secretario de Cultura por Mugre Sur")
-* [Pabel Muñoz: ‘Sobre el arte y la cultura no caben procesos de censura’](https://www.elcomercio.com/actualidad/quito/pabel-munoz-sobre-arte-y-cultura-no-caben-procesos-de-censura.html "Pabel Muñoz: ‘Sobre el arte y la cultura no caben procesos de censura’")
-* [Concejo de Quito avala energía alternativa para semáforos: informe en 30 días](https://www.elcomercio.com/actualidad/quito/concejo-energia-alternativa-semaforos-quito.html "Concejo de Quito avala energía alternativa para semáforos: informe en 30 días")
-
-Nueve concejales propusieron cambiar el orden del día para que comparezca el **secretario** de **Cultura**, **Jorge** **Cisneros**.
-
-Concejales piden comparecer al secretario de cultura
-----------------------------------------------------
-
-El concejal **Michael** **Aulestia** pidió, en nombre de los nueve concejales, el cambio del orden del día.
-
-Pidió que el secretario de **Cultura** de **Quito**, Jorge Cisneros, acuda al **Concejo** para que dé explicaciones sobre la performance de **Mugre** **Sur** en el **Quitofest**.
-
-“Es preciso recibir al secretario de **Cultura**. porque más de 800 000 dólares se invirtieron en el **Quitofest** y no podemos avalar ningún acto deshumanizante”, dijo Aulestia.
-
-Según el concejal, no se puede avalar, como ciudad, una apología del odio y la incitación a la violencia. Citó el artículo 13 de la Convención Interamericana de **Derechos** **Humanos**, en el sentido en que no se puede, por ningún motivo, incitar a la **violencia**.
-
-“Esta ciudad no puede soportar o tolerar eventos ni **manifestaciones** de **odio** (…) ha merecido el reproche de la ciudadanía y rebasó los límites de la **libertad** **de** **expresión**”.
-
-Añadió que no se trata de una **censura** **artística** y solicitó el cambio del orden del día.
-
-Llamado a Cisneros no se aprueba
---------------------------------
-
-El alcalde de Quito, **Pabel** **Muñoz**, dio paso de inmediato a la votación. El resultado tuvo 9 votos a favor, 9 en contra y cuatro abstenciones.
-
-Con eso, no pasó la moción. Sin embargo, Muñoz se comprometió a considerar la petición para la sesión del **Concejo** **Metropolitano** el próximo martes 17 de diciembre del 2024.
-
-Sostuvo que presentará el balance de las **Fiestas** **de** **Quito** en su conjunto y que, por un hecho, entre las diferentes actividades que se llevaron a cabo, no empaña el conjunto de las **fiestas**.
-
-Añadió que está en contra de cualquier **censura** a los **trabajos** **artísticos** y que en lo personal no comparte contenidos explícitos ni implícitos de violencia.
-
-De este modo, el **Concejo** **Metropolitano** se dedicó a tratar el único punto del orden del día: el presupuesto para el 2025.
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Los motivos del presunto crimen que habría cometido Luigi Mangione
-==================================================================
-
-Mangione, quien huyó de Nueva York tras el crimen, fue detenido inicialmente por porte ilegal de armas.
--------------------------------------------------------------------------------------------------------
-
-![Imagen de Luigi Mangione.](https://www.elcomercio.com/wp-content/uploads/2024/12/luigi-instagram.jpg)
-
-**Luigi Mangione,** principal sospechoso del asesinato de **Brian Thompson**, presidente de la compañía **United Healthcare**, fue arrestado este lunes, 9 de diciembre de 2024, en Altoona, [Pensilvania](https://es.wikipedia.org/wiki/Pensilvania "https://es.wikipedia.org/wiki/Pensilvania"), mientras comía en un McDonald’s.
-
-### Más noticias
-
-* [Detienen en Pensilvania al sospechoso de matar al director ejecutivo de UnitedHealthcare](https://www.elcomercio.com/actualidad/mundo/detienen-pensilvania-sospechoso-matar-director-ejecutivo-unitedhealthcare.html "https://www.elcomercio.com/actualidad/mundo/detienen-pensilvania-sospechoso-matar-director-ejecutivo-unitedhealthcare.html")
-* [(En vivo) Movimiento MAGA acompañó a Donald Trump a votar en Palm Beach](https://www.elcomercio.com/actualidad/mundo/en-vivo-ee-uu-vota-comicios-insolitos-intentos-asesinato-dimisiones-condenas.html "(En vivo) Movimiento MAGA acompañó a Donald Trump a votar en Palm Beach")
-* [Donald Trump se salva de un segundo atentado en su contra](https://www.elcomercio.com/actualidad/mundo/donald-trump-se-salva-de-un-segundo-atentado-en-su-contra.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-se-salva-de-un-segundo-atentado-en-su-contra.html")
-
-Según la El Tiempo de Bogotá, las **autoridades siguieron sus rastros** desde el 4 de diciembre, día en que **Thompson fue encontrado muerto** a las afueras de un hotel en Manhattan, Nueva York, tras haber llegado para una reunión de inversores.
-
-El arresto se dio sin mayores complicaciones. Mangione, quien **huyó de Nueva York tras el crimen**, fue detenido inicialmente por porte ilegal de armas. Durante su captura, la Policía descubrió que la persona detenida coincidía con la descripción del asesino de Thompson.
-
-Las investigaciones indicaron que el arma utilizada en el asesinato pudo ser fabricada en una **impresora 3D,** conocida como **“arma fantasma”.** Según la comisionada Jessica Tisch, el arma poseía un supresor y estaba equipada para disparar balas de 9mm, señala el Tiempo de Bogotá.
-
-Motivos del crimen: un resentimiento personal
----------------------------------------------
-
-Los detalles sobre los motivos del crimen siguen siendo inciertos, pero las primeras hipótesis apuntan a un posible resentimiento personal hacia el sector salud. De acuerdo con El Tiempo de Bogotá, Mangione, quien fue un **destacado estudiante** en su **escuela y universidad,** podría haber actuado por frustraciones relacionadas con el trato que recibió un familiar suyo en el ámbito médico.
-
-En el lugar del crimen, se encontraron tres balas con las palabras **“negar”, “defender” y “deponer”,** que coinciden con términos de un libro que critica a las aseguradoras en EE. UU. Las autoridades creen que estos elementos podrían ser indicios de que Mangione planificó el ataque motivado por su percepción negativa de la industria. A pesar de estas pistas, las investigaciones continúan en curso, de acuerdo con El Tiempo de Bogotá.
-
-AMT sancionó a 21 conductores de motos en Quito por esta razón
+Ciclistas extraviados en el Parque Cotopaxi fueron encontrados
 ==============================================================
 
-Quienes incumplan la norma serán sancionados con el COIP, que contempla una multa del 15% de un Salario Básico.
----------------------------------------------------------------------------------------------------------------
+Cuatro ciclistas se extraviaron en el Parque Nacional Cotopaxi; los deportistas fueron hallados luego de 20 horas de búsqueda.
+------------------------------------------------------------------------------------------------------------------------------
 
-![La AMT sancionó a 21 conductores de moto.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-10T101208.294.jpg)
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/ciclistas-cotopaxi.jpg)
 
-La Agencia Metropolitana de Tránsito **(AMT) i**nformó el lunes 9 de diciembre de 2024 sobre un operativo realizado en Quito para controlar a las motos.
+**Cuatro ciclistas** reportados como **desaparecidos** fueron hallados en el **Parque Nacional Cotopaxi**, la madrugada de este martes 10 de diciembre de 2024.
 
 ### Más noticias
 
-* [Controles de velocidad en Quito este martes 10 de diciembre](https://www.elcomercio.com/actualidad/quito/controles-de-velocidad-quito-martes-10-de-diciembre.html "Controles de velocidad en Quito este martes 10 de diciembre")
-* [Gobierno mostró los resultados que dejaron 293 168 operativos de seguridad](https://www.elcomercio.com/actualidad/seguridad/gobierno-resultados-seguridad-operativos.html "Gobierno mostró los resultados que dejaron 293 168 operativos de seguridad")
-* [Ruta Viva cerrada parcialmente por siniestro de tránsito, en Quito](https://www.elcomercio.com/actualidad/quito/ruta-viva-cerrada-parcialmente-siniestro-de-transito-quito.html "Ruta Viva cerrada parcialmente por siniestro de tránsito, en Quito")
+* [Policía captura a miembros de Las Águilas, entre ellos el cabecilla](https://www.elcomercio.com/actualidad/seguridad/policia-captura-a-miembros-las-aguilas-entre-ellos-cabecilla.html "Policía captura a miembros de Las Águilas, entre ellos el cabecilla")
+* [Siniestro de tránsito en la Ruta Viva deja heridos la tarde de este martes 10 de diciembre](https://www.elcomercio.com/actualidad/quito/siniestro-transito-ruta-viva-heridos-movilidad.html "Siniestro de tránsito en la Ruta Viva deja heridos la tarde de este martes 10 de diciembre")
+* [Fallecidos y heridos tras caída de camioneta al abismo en Ambato](https://www.elcomercio.com/actualidad/ecuador/caida-camioneta-abismo-fallecidos-heridos-ambato.html "Fallecidos y heridos tras caída de camioneta al abismo en Ambato")
 
-Operativo a motocicletas
-------------------------
+Los deportistas iban a participar de una **competencia** en los próximos días; por lo que decidieron ir a la laguna de Limpiopungo para planificar su estrategia.
 
-La AMT realizó un operativo de **control a motocicletas** el lunes 9 de diciembre en el sur de Quito.
+Los ciclistas tenían pensado recorrer una ruta de ida y regreso de **70 kilómetros**, sin embargo, las **malas condiciones del clima** causaron que **se perdieran** en la montaña.
 
-La zona donde se realizó el control **fue en la av. Maldonado,** en el sector del puente de Guajaló, sur de la capital.
+Búsqueda y rescate de los ciclistas
+-----------------------------------
 
-En este sitio, los agentes metropolitanos de tránsito **controlaron que las motos** no circularan con exceso de pasajeros.
+Los familiares de los **cuatro hombres** alertaron al **ECU 911** de la emergencia, la mañana del lunes 9 de diciembre, luego de no tener novedades de ellos.
 
-Además, se controló **que los pasajeros usaran casco** y mantuvieran sus documentos en regla.
+La entidad coordinó de inmediato el despliegue de personeros de la **Policía Nacional** y el Cuerpo de **Bomberos** de Latacunga. Un grupo de **guardaparques** y **comuneros** se sumaron a la búsqueda[.](https://es.wikipedia.org/wiki/Parque_nacional_Cotopaxi "https://es.wikipedia.org/wiki/Parque_nacional_Cotopaxi")
 
-Luego de realizar los controles, **21 conductores de motocicletas fueron sancionados** por exceder el número de pasajeros.
+Dos de los cuatro ciclistas fueron **localizados** en el sector de Chalupas, cerca de las 23:00 del lunes. Los hombres recibieron **primeros auxilios** y luego fueron llevados a un lugar seguro.
 
-La normativa
-------------
+Los trabajos de búsqueda y rescate se retomaron en la **madrugada**, hasta que, finalmente y luego de **20 horas**, los dos ciudadanos restantes fueron encontrados en la cara sur del **volcán**.
 
-El 9 de julio de 2024, e**l Concejo Metropolitano de Quito** aprobó la normativa que prohíbe que dos personas viajen en una motocicleta.
+Familiares se rencontraron con los ciclistas
+--------------------------------------------
 
-Esta normativa **excluye a cónyuges,** convivientes, hijos o hermanos, personas con discapacidad, adultos mayores, mujeres y **menores de 12 años**. Así mismo, a servidores públicos en cumplimiento de sus funciones; sin embargo, los ciudadanos deben presentar documentos, como la cédula.
+La familia se rencontró con los ciclistas pasadas las 05:00 del martes, en la parroquia de **Alaquez**, en Latacunga. Todos se mantenían en **condiciones estables** de salud.
 
-La medida aplica en todo el **Distrito Metropolitano de Quito** con el objetivo de fortalecer la seguridad en la ciudad.
+Uno de los hombres rescatados difundió un video en **redes sociales** donde agradeció a las personas que los ayudaron en la búsqueda.
 
-Quienes incumplan con la norma serán sancionados con el Código Orgánico Integral Penal que [contempla](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") una **multa del 15% de un Salario Básico Unificado (SBU).**
+“La vida se trata de aventuras (…) **sanos y salvos** y sin ningún rasguño”, mencionó Jaime Gallardo en Facebook.
 
-> 🚨 [#GestiónAMT](https://twitter.com/hashtag/Gesti%C3%B3nAMT?src=hash&ref_src=twsrc%5Etfw) | ¡Trabajamos por tu seguridad!  
->   
-> 🚔 En el sur de Quito, 21 conductores de motocicletas fueron sancionados por exceder el número de pasajeros.  
->   
-> 💡 Además, recuerda usar casco y tener los documentos al día.  
->   
-> ✅ Con responsabilidad  
-> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/9wGxcsbT4O](https://t.co/9wGxcsbT4O)
-> 
-> — AMTQuito (@AMT\_Quito) [December 9, 2024](https://twitter.com/AMT_Quito/status/1866122289298759885?ref_src=twsrc%5Etfw)
+Independiente tendrá casa llena para su revancha con Liga de Quito
+==================================================================
 
-AMT reanudó controles por reducción de apagones
------------------------------------------------
+Este sábado, la Liga Pro definirá si hay nuevo monarca o si Liga de Quito retiene su corona.
+--------------------------------------------------------------------------------------------
 
-La AMT informó que, debido a que las **horas de cortes de luz** se redujeron, se retomará la realización de los **controles preventivos de velocidad.**
+![Liga de Quito e Independiente del Valle pelean por el título de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-10T194033.771.jpg)
 
-Así mismo, los agentes podrán retomar la ejecución de los **controles de alcotest,** placas y que no circulen dos hombres en moto.
+La final de vuelta de la Liga Pro 2024 entre **Independiente del Valle** y **Liga de Quito** se disputará el próximo sábado 14 de diciembre en el estadio Banco Guayaquil. Con todas las entradas vendidas, el escenario estará completamente lleno.
 
-Uno de ellos fue el realizado en el sur de Quito que concluyó con **21 motociclistas sancionados.**
-
-Botafogo es favorito ante Pachuca en Copa Intercontinental
-==========================================================
-
-Botafogo compite en la Copa Intercontinental. Su primer rival será el Pachuca mexicano y en la final ya está instalado el Real Madrid.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Un jugador de Botafogo celebra un gol. El equipo brasileño compite en la Copa Intercontinental.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-44.jpg)
-
- El **Botafogo**, pletórico tras proclamarse campeón de la **Copa Libertadores** y de la liga brasileña, saldrá como favorito este miércoles ante los **Tuzos** del **Pachuca** mexicanos, que no tienen actividad oficial hace un mes, en los cuartos de final de la **Copa Intercontinental**.
-
-En el Estadio 974 de **Doha,** los brasileños no solo tienen a su favor que apenas el 30 de noviembre pasado ganaron la **Libertadores,** al imponerse por 1-3 al **Atlético Minerio**, sino que en la historia de los torneos de clubes de FIFA solo una vez los mexicanos han vencido a los brasileños.
+En el partido de ida, **Liga de Quito** obtuvo una amplia ventaja con una victoria por **3-0** en el Rodrigo Paz Delgado, posicionándose como favorito para ser campeón del fútbol ecuatoriano en 2024. De ganar, retendría el título que conquistó en 2023, también frente a Independiente.
 
 ### Más noticias:
 
-* [Calendario de ecuatorianos en la Champions League](https://www.elcomercio.com/deportes/futbol/calendario-ecuatorianos-sexta-fecha-champions-league.html "Calendario de ecuatorianos en la Champions League")
-* [Campeón del Mundo supo de su doping a dos días de la final](https://www.elcomercio.com/deportes/futbol/alejandro-gomez-dopung-mundial-catar.html "Campeón del Mundo supo de su doping a dos días de la final")
-* [Los cambios en la Fórmula 1 para el 2025](https://www.elcomercio.com/deportes/cambios-formula-1-2025-equipos-pilotos.html "Los cambios en la Fórmula 1 para el 2025")
+* [Renato Paiva, exDT de Independiente del Valle, deja Toluca](https://www.elcomercio.com/deportes/renato-paiva-toluca-salida-idv.html "Renato Paiva, exDT de Independiente del Valle, deja Toluca")
+* [Liga de Quito ganó un título en cancha de Independiente](https://www.elcomercio.com/deportes/futbol/liga-quito-campeon-supercopa-ecuador.html "Liga de Quito ganó un título en cancha de Independiente")
+* [Independiente se disculpó por la derrota ante Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-se-disculpo-por-la-derrota-ante-liga-de-quito.html "Independiente se disculpó por la derrota ante Liga de Quito")
 
-Botafogo ya ganó en el 2000
----------------------------
+El encuentro está programado para las **15:30**, pese a que hubo un intento por parte de la Liga Pro de mover el horario a las 17:00. Finalmente, se mantuvo la planificación inicial.
 
-En la fase de grupos del **Mundial de Clubes de 2000**, el **Vasco da Gama** le ganó al Necaxa; en las semifinales del mismo torneo en 2017, el **Pachuca** cayó 1-0 ante el Gremio, y la única victoria de los mexicanos fue en 2020, con un triunfo de los Tigres UANL por 1-0 sobre el Palmeiras que los clasificó a la final.
+Independiente asegura estadio lleno
+-----------------------------------
 
-Además, según datos del sitio especializado **Transfermarkt**, la plantilla del **Botafogo** supera por más del doble a la del Pachuca: la de los brasileños está valuada en casi 147 millones de dólares y la del Pachuca, en 48.67.
+**Andrés Larriva**, dirigente de Independiente del Valle, confirmó este martes 10 de diciembre que el estadio estará repleto. Además, detalló cómo se organizó la venta de boletos y los planes de seguridad.
 
-Tan solo las dos principales figuras de los sudamericanos, el campeón del mundo argentino Thiago Almada y Luiz Henrique, valen más que todo el **Pachuca,** al combinarse para 52 millones.
+“Estamos con casa llena para vivir esta fiesta”, afirmó.
 
-El modelo del Pachuca es diferente al del **Botafogo**, ya que los dirigidos por el uruguayo Guillermo Almada cuentan con una de las mejores canteras de **México**, a la que apuesta, en vez de hacer fichajes millonarios.
+Liga de Quito contará con el **25% del aforo**, lo que equivale a aproximadamente **2.500 hinchas**. El resto de las entradas fueron distribuidas entre abonados, escuelas del club y seguidores de Independiente del Valle, quienes tuvieron prioridad para adquirirlas.
 
-Tienen el segundo promedio de edad más bajo de su liga local, 25,8 años, con pocas figuras extranjeras como el marroquí **Oussama Idrissi** y el colombiano Nelson Deossa, y el venezolano Salomón Rondón, el argentino Gustavo Cabral y Ángel Mena, estos últimos tres veteranos que superan los 34 años.
+Independiente busca una remontada histórica
+-------------------------------------------
 
-Copa Intercontinental
----------------------
+Para coronarse campeón**, Independiente del Valle necesita una hazaña** que va más allá de superar a un equipo sólido como Liga. Además, tendría que romper con un precedente histórico. Según datos de Aurelio Dávila, en la historia de las finales del fútbol ecuatoriano, solo en **tres ocasiones** se registró un marcador de 3-0 en alguno de los partidos, y en todas, el equipo que logró esa ventaja se coronó campeón.
 
-A diferencia del **Botafogo**, que además de ser monarca de la Libertadores es el campeón del Brasileirao, el Pachuca pasa por horas bajas ya que en el último torneo mexicano fue antepenúltimo de la clasificación, lejos de la zona de fase final, y disputó su último partido el 9 de noviembre pasado. La falta de competición, no obstante, la puede contrarrestar con su mayor frescura y la mayor aclimatación al cambio horario al haber llegado a la capital catarí día antes.
+De estas tres finales, solo una registró el **3-0 en el partido de ida**:
 
-En este partido, además del pase a las semifinales, en las que espera el **Al-Ahly** egipcio, está en juego el trofeo del **Derbi de las Américas**
+**2014:** Emelec empató 1-1 en la ida contra Barcelona SC y ganó 3-0 en la vuelta para llevarse el título.
 
-Alineaciones probables:
------------------------
+**1988:** Emelec goleó 3-0 a Deportivo Quito en la ida y empató 1-1 en la vuelta para ser campeón.
 
-**Botafogo**: John Victor; Alex Telles, Adryelson, Alexander Barboza; Mateo Ponte; Marlon Freitas, Gregore, Thiago Almada; Jefferson Savarino, Luiz Henrique e Igor Jesus.
+**2005:** Liga de Quito perdió 1-0 la ida contra Barcelona SC, pero ganó 3-0 en la vuelta y se coronó campeón del Apertura.
 
-Entrenador: Artur Jorge.
+Independiente marca menos de tres goles por partido de local
+============================================================
 
-**Pachuca:** Carlos Moreno; Sergio Bareto, Gustavo Cabral, Carlos Sánchez; Pedro Pedraza, Nelson Deossa, Bryan González, Arturo González, Elías Montiel; Salomón Rondón y Oussama Idrissi.
+Independiente del Valle solo perdió un partido de la Liga Pro jugado de local en el 2024.
+-----------------------------------------------------------------------------------------
 
-Entrenador: Guillermo Almada.
+![Renato Ibarra (i) y Yaimar Medina en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/goles_idv_1.jpg)
 
-Árbitro: Danny Makkelie (NED)
+**Independiente del Valle** tiene la dura y difícil tarea de anotarle, al menos, tres goles a Liga de Quito para alargar la definición del campeón de la Liga Pro de este año a los lanzamientos penales.
 
-Estadio: 974 de Doha.
+La revancha entre Independiente del Valle y Liga de Quito está **programada para el sábado 14 de diciembre, desde las 15:30**, en la casa de los rayados, que tendrán en sus gradas a más de 10 000 aficionados.
 
-Ho9ra: 12:00 (de Ecuador)
+### Más noticias:
 
-Calendario de ecuatorianos en la Champions League
-=================================================
+* [Liga de Quito ganó tres títulos con dos entrenadores argentinos](https://www.elcomercio.com/deportes/futbol/entrenadores-argentinos-campeones-liga-quito.html "Liga de Quito ganó tres títulos con dos entrenadores argentinos")
+* [Liga de Quito prepara una sorpresa para los hinchas en la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-prepara-sorpresa-para-los-hinchas-final-de-liga-pro.html "Liga de Quito prepara una sorpresa para los hinchas en la final de Liga Pro")
+* [La Copa Sudamericana da la bienvenida a Orense](https://www.elcomercio.com/deportes/orense-copa-sudamericana-bienvenida-primera-vez.html "La Copa Sudamericana da la bienvenida a Orense")
 
-La Uefa Champions League regresa a la acción con la presencia de tres ecuatorianos en la sexta jornada de la fase de liga.
---------------------------------------------------------------------------------------------------------------------------
+Independiente es fuerte en casa
+-------------------------------
 
-![Joel Ordóñez es uno de los ecuatorianos que debutó en la Uefa Champions League en este 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-09T151959.827.jpg)
+Independiente ganó el 84,4% de puntos que disputó en casa. **Ganó 12 de los 15 juegos, empató dos** y tan solo perdió uno. Esos números lo confirman como uno de los mejores locales de la temporada que está por cerrarse.
 
-Este martes 10 de diciembre inicia la sexta jornada de la fase de liga de la **Uefa Champions League**, la última fecha de este 2024. Los ecuatorianos **Piero Hincapié**, Willian Pacho y Joel Ordóñez estarán presentes en esta instancia crucial.
+La única derrota del actual vicecampeón nacional se registró en el arranque de la segunda etapa de la Liga Pro. **Fue 1-2 ante Delfín con tantos de José Angulo**, exjugador de los del Valle, y de Jostin Alman desde el punto penal.
 
-El nuevo formato del torneo, que reúne a los mejores equipos de **Europa**, ha sido entretenido y competitivo. En las cinco fechas previas se han dado varias sorpresas, especialmente por las posiciones de algunos clubes inesperados en lo alto de la tabla.
+Los empates fueron 1-1 ante Aucas y por el mismo marcador ante Liga de Quito, su rival en la final de vuelta, todos en la primera etapa.
+
+Los 12 restantes compromisos los saldó con victoria. Se incluye la escalofriante **goleada de 7-0 que le propinó a Macará en la fecha 14** de la segunda etapa. Esa victoria le dio esperanzas de proclamarse como los campeones directos, pero finalmente no sucedió.
+
+![Jeison Medina es el goleador de Independiente del Valle en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/goles_idv_2-1024x683.jpg)
+
+API.
+
+Los goles de Independiente
+--------------------------
+
+En su casa, IDV anotó 36 goles y recibió 10, **es decir, anotó 2,4 goles por partido** con lo que se quedaría con las manos vacías y no le alcanzaría para darle vuelta al marcador de la final de ida.
+
+Si tomamos en cuenta la cantidad de minutos reglamentarios (90) y se los multiplica por los 15 partidos en casa (1 350), y se divide para el número de goles (36), los de Javier Gandolfi necesitan 37,5 minutos para vencer el arco contrario, con lo que tampoco le alcanzaría para empatar la final.
+
+Otro dato que destaca es que en seis de los 15 juegos anotó tres o más goles, pero lo hizo **ante equipos como Cumbayá e Imbabura, los dos descendidos**; Libertad, que se salvó en la última fecha; y Macará, que navegó en la parte baja de la tabla.
+
+**Universidad Católica, clasificada a la Copa Sudamericana**, fue uno de los equipos que estaba en la parte alta de la tabla que recibió cinco goles de los del Valle.
+
+El otro fue Barcelona SC. Los guayaquileños, clasificados a la fase dos de la Copa Libertadores**, salieron derrotados por 3-1** con goles de Luis Zárate, Renzo López y Alexander Bolaños, hoy Romario Bolaños por haberse comprobado que adulteró sus documentos de identidad.
+
+Independiente del Valle en casa
+-------------------------------
+
+**3-1 vs. Barcelona SC  
+3-0 vs. Cumbayá  
+**1-1 vs. Aucas  
+**3-0 vs. Libertad  
+**2-1 vs. Mushuc Runa  
+1-0 vs. Deportivo Cuenca  
+1-1 vs. Liga de Quito  
+1-0 vs. Orense  
+1-2 vs. Delfín  
+1-0 vs. Técnico Universitario  
+2-1 vs. Emelec  
+**5-2 vs. Universidad Católica  
+3-1 vs. Imbabura  
+**2-0 vs. El Nacional  
+**7-0 vs. Macará**
+
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/goles_idv_3-1024x683.jpg)
+
+API.
+
+San viernes
+-----------
+
+El Liverpool queda a un paso de octavos de Champions
+====================================================
+
+El Liverpool venció al Girona y suma un puntaje casi perfecto en la UEFA Champions League que lo deja a un paso de los octavos.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Mohamed Salah celebra un gol con Liverpool ante el Girona en Champions.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-10T185258.436.jpg)
+
+El **Liverpool** se afianzó este martes en el liderato de la Liga de Campeones al sumar el pleno de victorias, seis de seis, gracias a un único gol de **Mohamed Salah** desde los once metros que deja contra las cuerdas al Girona (0-1), que está obligado a conseguir la gesta de vencer al Milan a domicilio y al Arsenal en casa para soñar con jugar las eliminatorias de la competición.
+
+El equipo de **Arne Slot**, también líder indiscutible de la **Premier League**, reivindicó su condición de equipo más en forma del continente con un nuevo triunfo, aunque tuvo que sufrirlo porque el conjunto de Míchel Sánchez firmó una actuación sólida.
+
+### Más noticias:
+
+* [Premier League suspende a árbitro por insultar al Liverpool y Klopp](https://www.elcomercio.com/deportes/futbol/premier-league-suspende-a-arbitro-por-insultar-al-liverpool-klopp.html "Premier League suspende a árbitro por insultar al Liverpool y Klopp")
+* [Piero Hincapié y Leverkusen vencen al Inter de Milán en Champions](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-champions.html "Piero Hincapié y Leverkusen vencen al Inter de Milán en Champions")
+* [Willian Pacho y PSG vuelven a la victoria en la Champions League](https://www.elcomercio.com/deportes/futbol/willian-pacho-psg-vuelven-a-la-victoria-en-la-champions-league.html "Willian Pacho y PSG vuelven a la victoria en la Champions League")
+
+Solo le faltó el gol, su gran asignatura pendiente esta temporada, al equipo catalán, que lamentó la tercera derrota y el tercer partido sin ver portería en una semana, contra el Logroñés (0-0), el **Real Madrid** (0-3) y el **Liverpool** (0-1), y ya son once encuentros sin marcar, además de registrar cinco derrotas en seis jornadas en la Liga de Campeones[.](https://es.wikipedia.org/wiki/Liverpool_Football_Club "https://es.wikipedia.org/wiki/Liverpool_Football_Club")
+
+El partido comenzó con un dominio absoluto del Liverpool, que no se plasmó en el electrónico por gracia de **Paulo Gazzaniga**. En el minuto 4, salvó a su equipo al desviar un cabezazo de Joe Gomez a saque de esquina y en el minuto 7 neutralizó de puños un disparo de Darwin Núñez.
+
+El equipo inglés dominaba a placer y era dueño y señor del duelo ante un Girona que no se asomó al área hasta los 12 minutos. Pero cuando lo hizo perdió el miedo al rival y empezó a creerse sus opciones. Daley Blind, solo en la frontal del área pequeña, no supo rematar bien un centro de **Miguel Gutiérrez**, mientras que Alejandro Francés recogió el rechace y buscó el gol, pero se topó con una parada providencial de Alisson Becker.
+
+El Girona supo aguantar y propuso ante el Liverpool
+---------------------------------------------------
+
+Esa primera ocasión dio vida a los jugadores de Míchel, que ganaron metros y comenzaron a disputar la posesión y a frecuentar el área rival. **Bryan Gil** se plantó solo ante el guardameta, pero se resbaló en el peor momento y cuando recuperó la verticalidad ya tenía un gigante encima, **Alisson**.
+
+El portero brasileño, de nuevo titular en la Champions tras tres ausencias por lesión, también evitó la alegría del Girona con una parada providencial a un chut de Miguel. El partido se jugaba de tú a tú y los dos grandes protagonistas eran los porteros: un argentino y un brasileño.
+
+**Gazzaniga** se vistió de héroe otra vez para imponerse a Núñez en un uno contra uno después de un pase de Salah, y Alisson voló para enviar a córner un gran disparo desde la frontal de **Yáser Asprilla**, mediapunta en el 4-4-1-1 gerundense.
+
+Míchel optó por primera vez por colocar a **Arnaut Danjuma** como delantero referencia, ante la falta de gol de Bojan Miovski, ahora baja por lesión, y Abel Ruiz, así como la edad de Cristhian Stuani.
+
+Mohamed Salah y un penal impulsaron al Liverpool en Champions
+-------------------------------------------------------------
+
+El Girona, de menos a más, había firmado sus mejores minutos en la **Liga de Campeones** y regresó de los vestuarios con la misma ambición. A los 20 segundos **Danjuma** puso en pie a todo Montilivi con una gran jugada, pero su remate, muy centrado, se estrelló en el cuerpo de Alisson. Poco después el neerlandés dejó atrás a media defensa ‘red’ con una carrera sensacional hasta llegar al área, pero falló al chutar. El estadio aplaudía.
+
+Pero el **Liverpool** seguía amenazando con su poderío ofensivo. Gazzaniga despejó a saque de esquina un tiro de Andrew Robertson, pero el córner no se llegó a sacar. El VAR avisó al colegiado de un posible penalti de Donny van de Beek sobre **Luis Díaz y Benoit Bastien** no dudó.
+
+Salah engañó a **Gazzaniga** y celebró el 1-0 con un lanzamiento a su derecha. El Girona maldecía su mala suerte en su estreno en la **Champions**: cuatro autogoles, dos penaltis en contra y un penalti a favor fallado en seis partidos. No dejó de pelear, pero no logró acercarse al empate.
+
+El equipo de **Míchel** fue un rival más que digno y Montilivi, estadio de Segunda División hace tres años, aplaudió a sus jugadores tras un partido para ilusionarse, pero, con solo tres puntos de 18 posibles, para continuar soñando en la Champions hará falta una gesta.
+
+Alineaciones Girona vs. Liverpool
+---------------------------------
+
+0 – **Girona**: Gazzaniga; Alejandro Francés, Juanpe, Krejci, Blind (Solís, min. 76); Bryan Gil (Portu, min. 71), Van de Beek (Iván Martín, min. 76), Oriol Romeu, Miguel; Asprilla; y Danjuma (Stuani, min. 71).
+
+1 – **Liverpool**: Alisson Becker; Alexander-Arnold, Gomez, Van Dijk, Robertson; Szoboszlai, Gravenberch, Jones (Elliott, min. 76); Salah, Núñez (Gakpo, min. 71) y Luis Díaz (Endo, min. 88).
+
+Orense se desprende de dos jugadores históricos
+===============================================
+
+Orense debutó en la Liga Pro Serie A en el 2020. Seis años más tarde jugará la Sudamericana.
+--------------------------------------------------------------------------------------------
+
+![Richard Calderón (i) celebra con sus compañeros de Orense un gol marcado en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/orense_jugadores_1.jpg)
+
+**Orense** recordará la campaña 2024 como la mejor de sus las cinco que jugó en la Primer División de Ecuador. En el 2020 ascendió a la Liga Pro Serie A y poco a poco se va estabilizando con buenos resultados.
+
+El ascenso de Orense es sostenido y con un proyecto que da mucha importancia a los jugadores que surgen en sus canteras. Hasta el **2017 militaban en la Segunda Categoría de El Oro**, y el 2018 y 2019 en la Liga Pro Serie B.
+
+### Más noticias:
+
+* [Premier League toma drástica decisión por escándalo arbitral](https://www.elcomercio.com/deportes/futbol/david-coote-expulsion-premier-league.html "Premier League toma drástica decisión por escándalo arbitral")
+* [Liga de Quito y la Segunda Etapa: ¿El camino seguro al título de Liga Pro?](https://www.elcomercio.com/deportes/liga-pro-campeones-ganadores-segunda-etapa.html "Liga de Quito y la Segunda Etapa: ¿El camino seguro al título de Liga Pro?")
+* [Cristian Erbes rechazó a Emelec por la B de Argentina](https://www.elcomercio.com/deportes/futbol/cristian-erbes-emelec-argentina-ligapro.html "Cristian Erbes rechazó a Emelec por la B de Argentina")
+
+Orense se afianza en la A
+-------------------------
+
+Como todo equipo que asciende, Orense tuvo una primera campaña en la A en la que **luchó en la parte baja de la tabla**, pero sosteniendo la categoría para no convertirse en un equipo de los denominados ‘ascensores’.
+
+En el 2020 terminaron en la casilla 14 con 30 puntos. Ganaron seis juegos, empataron 13, perdieron 11, **anotaron 27 goles y recibieron 46 para un gol diferencia de -19**. Liga de Portoviejo y El Nacional perdieron la categoría.
+
+En el 2021 mostraron una leve mejoría y escalaron a la casilla 13 en la tabla de posiciones acumulada con 31 puntos; **en el 2022 subieron al puesto nueve con 36 unidades**; y en el 2023 bajaron al décimo, pero con 37 puntos.
+
+En el 2024 todo ese camino obtuvo su máximo tope de rendimiento. Con 40 puntos aseguraron el octavo puesto y lograron uno de los **cuatro cupos con los que cuenta el país para la Copa Sudamericana**.
+
+Dos históricos no siguen en Orense
+----------------------------------
+
+Para la temporada 2025, Orense empieza a delinear el plantel de jugadores que estarán al mando del colombiano Santiago ‘Sachi’ Escobar, el responsable técnico que encaminó a los del sur del país a su primer torneo internacional.
+
+En las últimas 24 horas, a través de sus redes sociales oficiales, anunciaron que los **ecuatorianos Richard Calderón y José Miguel Andrade** no seguirán en el plantel y darán espacio para nuevas incorporaciones.
+
+Según Trasnfermarkt, Calderón en el 2024, entre la Liga Pro y la Copa Ecuador, jugó 22 partidos, no anotó goles, recibió cinco tarjetas amarillas y acumuló 863 minutos.
+
+El mediocampista llegó en el 2022 desde Macará. En total intervino en **72 encuentros, anotó siete goles, entregó ocho asistencias**, recibió 17 tarjetas amarillas, una vez fue expulsado y sumó 3 562 minutos.
+
+En su hoja de vida consta haber defendido las camisetas de Liga de Quito, Delfín, **Macará, Universidad Católica, Deportivo Quito** y Barcelona.
+
+![Richard Calderón.](https://www.elcomercio.com/wp-content/uploads/2024/12/orense_jugadores_3-1024x683.jpg)
+
+Richard Calderón.
+
+El 2024 de Andrade se resume en 21 partidos, dos goles, tres tarjetas amarillas y 448 minutos entre la Liga Pro y la Copa Ecuador.
+
+También fue contratado en el 2022 y se marchó con 70 partidos, 10 goles, cuatro asistencias, 12 tarjetas amarillas, una roja y 2 653 minutos jugados.
+
+Universidad Católica, Deportivo Quito, Liga de Portoviejo, Espoli, América, Cumbayá y Olmedo en Ecuador, más **Deportivo Municipal, Sport Rosario y Cienciano de Perú**, son los equipos en los que militó a sus 31 años de edad.
+
+![José Miguel Andrade.](https://www.elcomercio.com/wp-content/uploads/2024/12/orense_jugadores_2-1024x683.jpg)
+
+José Miguel Andrade.
+
+San viernes
+-----------
+
+Así va la generación eléctrica en el Ecuador ¿se acabarán los cortes de luz en 10 días?
+=======================================================================================
+
+El presidente Noboa anunció el fin de los cortes eléctricos para el 20 de diciembre, pero expertos cuestionan la viabilidad técnica del plan.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![Coca Codo Sinclair es la central hidroeléctrica más grande del país, con 1 500 MW de potencia instalada.](https://www.elcomercio.com/wp-content/uploads/2024/10/coca-codosinclair.jpg)
+
+Este martes 10 de diciembre de 2024, el presidente **Daniel Noboa** anunció que en 10 días se terminarán los **cortes de luz** en Ecuador. La información se basa en cuatro factores importantes: Recuperación de la capacidad de generación térmica instalada; incorporación de las nuevas barcazas de generación flotante; compra de energía a **Colombia**, y mejores condiciones **meteorológicas**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Cortes de luz en Quito este miércoles 11 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-miercoles-11-diciembre.html "Cortes de luz en Quito este miércoles 11 de diciembre")
+* [Daniel Noboa anunció el fin de los apagones en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-anuncio-fin-apagones-ecuador.html "Daniel Noboa anunció el fin de los apagones en Ecuador")
+* [Cortes de luz de tres horas arrancaron est](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-de-tres-horas-arrancaron-este-lunes-9-de-diciembre-en-ecuador.html "Cortes de luz de tres horas arrancaron este lunes 9 de diciembre en Ecuador")[e](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-de-tres-horas-arrancaron-este-lunes-9-de-diciembre-en-ecuador.html "Cortes de luz de tres horas arrancaron este lunes 9 de diciembre en Ecuador") [lunes 9 de diciembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-de-tres-horas-arrancaron-este-lunes-9-de-diciembre-en-ecuador.html "Cortes de luz de tres horas arrancaron este lunes 9 de diciembre en Ecuador")
+
+La condición climática de los afluentes que alimentan las hidroeléctricas es la única que ha mejorado realmente, señaló **Marco Acuña**, presidente del Colegio de Ingenieros Eléctricos de Pichincha. El resto de variables no están seguras.
+
+Así va la generación de energía en los primeros días de diciembre
+-----------------------------------------------------------------
+
+Según la información del [Operador Nacional de Electricidad (Cenace),](https://www.cenace.gob.ec/) entre el 1 y el 9 de diciembre de 2024, el Ecuador generó 673 214 megavatios hora (MWh), esto equivale a un promedio de 3 117 megavatios (MW) cada día. La cifra representa el 82% de la electricidad que necesita cada día el país. Es decir, 19 horas de electricidad.
+
+Sin embargo, solo el lunes 9 de diciembre, el Cenace registró una producción de **3 412 MW, el 89% de la energía que requiere el Ecuador** al día. Por esta razón ha sido posible mantener la reducción de los cortes de luz a tres horas diarias.
+
+El 62% de esa energía provino de las hidroeléctricas. Siendo **Coca Codo Sinclair**, ubicada entre las provincias de **Napo y Sucumbíos,** la principal protagonista. Esto gracias a la mejora del caudal del río Coca, que alimenta esta central.
+
+Según el reporte, **Coca Codo Sinclair** generó 946 MW el lunes. La mejora del caudal del **río Coca** se ha registrado durante los primeros días de diciembre.
+
+Por ejemplo, el monitoreo señala que el domingo **8 de diciembre**, último dato disponible, el afluente registró un caudal de 172,7 metros cúbicos por segundo (m3/s). La cifra es casi el doble del promedio registrado en noviembre que fue 96.3 m3/s.
+
+Para **Marco Acuña** la producción de la central Coca Codo ha significado la “boya de salvación del Ecuador. Y ha permitido que se tengan **cortes de luz de tres horas diarias** y no se incrementen los apagones”.
+
+¿Qué pasa con el embalse de Mazar?
+----------------------------------
+
+Mientras que el embalse de **Mazar**, el principal reservorio de agua el país, que permite planificar la entrega de energía, todavía se encuentra en **un nivel crítico**. Esto, pese a las lluvias registradas en los últimos días en la zona del Austro del Ecuador.
+
+Según el reporte de **CelecSur,** la cota del embalse de Mazar se encontraba en 2 114,6 metros sobre el nivel del mar (m.s.n.m) a las 15:00 de este martes 10 de diciembre, aún a**bajo del nivel mínimo** para operar sin riesgo.
+
+Para Acuña, el anuncio del presidente Noboa de terminar con los cortes de luz desde el 20 de diciembre no se sustenta técnicamente porque el problema eléctrico del Ecuador **no se ha solucionado**. Más bien se depende únicamente de las lluvias y lo que puede pasar es que algunos días de diciembre no hayan apagones.
+
+Siniestro de tránsito en la Ruta Viva deja heridos la tarde de este martes 10 de diciembre
+==========================================================================================
+
+El siniestro de tránsito en la Ruta Viva ocurrió a la altura de Cumbayá.
+------------------------------------------------------------------------
+
+![El siniestro de tránsito en la Ruta Viva ocurrió al ingreso del barrio San Patricio, Cumbayá.](https://www.elcomercio.com/wp-content/uploads/2024/12/siniestro-transito-ruta-viva.jpg)
+
+Un **siniestro** de **tránsito** en la **Ruta Viva**, a la altura de **Cumbayá**, dejó heridos, la **tarde de este martes 10 de diciembre** de 2024.
+
+El **Cuerpo de Bomberos de Quito** atendió la emergencia.
+
+### Más noticias:
+
+* [Ruta Viva cerrada parcialmente por siniestro de tránsito, en Quito](https://www.elcomercio.com/actualidad/quito/ruta-viva-cerrada-parcialmente-siniestro-de-transito-quito.html "Ruta Viva cerrada parcialmente por siniestro de tránsito, en Quito")
+* [Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito](https://www.elcomercio.com/actualidad/quito/personas-fallecieron-siniestros-transito-durante-feriado-fiestas-quito.html "Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito")
+
+Los heridos del siniestro de tránsito en la Ruta Viva
+-----------------------------------------------------
+
+A las **15:51** de este martes, se recibió una llamada de emergencia al número **911**, sobre un siniestro de tránsito en la Ruta Viva, a la altura de Cumbayá.
+
+El siniestro se produjo entre un camión y un vehículo liviano, al ingreso del **barrio San Patricio**.
+
+El **Cuerpo de Bomberos de Quito** reportó que, al llegar al lugar del suceso, se atendió a las personas que iban a bordo de los vehículos.
+
+Los bomberos estabilizaron y extrajeron al conductor que estaba **atrapado en el camión**.
+
+Los **paramédicos** atendieron a **tres pacientes heridos** con policontusiones estables.
+
+Luego, fueron movilizados a **casas de salud**.
+
+El Cuerpo de Bomberos coordinó con la **Agencia Metropolitana de Tránsito (AMT)** la circulación vehicular en el sitio.
+
+Asimismo, para brindar **seguridad**, hasta retirar los vehículos involucrados.
+
+> 🚗💥 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Nuestro equipo atiende una emergencia por un siniestro de tránsito en la Ruta Viva, sector Cumbayá, ingreso al barrio San Patricio.  
+>   
+> 🚑 Tres personas que resultaron afectadas reciben atención prehospitalaria por parte de nuestros paramédicos.  
+>   
+> 👉 Por favor, si vas… [pic.twitter.com/1CLd9wFnVy](https://t.co/1CLd9wFnVy)
+> 
+> — Bomberos Quito (@BomberosQuito) [December 10, 2024](https://twitter.com/BomberosQuito/status/1866602821723828435?ref_src=twsrc%5Etfw)
+
+En la mañana de este martes, se registró otro siniestro de tránsito en la **Ruta Viva**, pero a la altura de **Lumbisí**.
+
+El siniestro se produjo por el choque de tres vehículos.
+
+Producto del suceso, las autoridades reportaron **dos personas heridas** y los paramédicos las trasladaron a casas de salud.
+
+Los organismos de control y socorro recomiendan **conducir con precaución** y respetando los límites de velocidad.
+
+‘Cuando el teléfono suena’ cambia la fecha del estreno de los episodios 5 y 6 en Netflix
+========================================================================================
+
+¿A qué se debe la modificación?
+-------------------------------
+
+!['Cuando el teléfono suena' es una serie surcoreana que se retransmite en Netflix.](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-7.jpg)
+
+El esperado estreno de los **episodios 5 y 6** de la serie _**Cuando el teléfono suena**_ se ha pospuesto debido a la crisis política en Corea del Sur.
+
+Esta situación afectó a varias cadenas de televisión en el país, las cuales decidieron realizar ajustes en sus programaciones para dar cobertura a las manifestaciones y cambios políticos recientes.
+
+### Más noticias:
+
+* **[El éxito de ‘Wicked’ evidencia un avance hacia el fin del racismo y la discriminación en el cine](https://www.elcomercio.com/tendencias/el-exito-de-wicked-evidencia-un-avance-hacia-el-fin-del-racismo-y-la-discriminacion-en-el-cine.html "https://www.elcomercio.com/tendencias/el-exito-de-wicked-evidencia-un-avance-hacia-el-fin-del-racismo-y-la-discriminacion-en-el-cine.html")**
+
+El presidente Yoon Suk-yeol implementó temporalmente la Ley Marcial, aunque esta fue considerada “injustificada e inconstitucional” por la Asamblea Nacional y apenas duró seis horas.
+
+Desde entonces, Corea del Sur ha vivido varias protestas pacíficas, lo que motivó a MBC TV, cadena responsable de transmitir la serie, a cambiar su programación.
+
+Por esta razón, los episodios 5 y 6 de _Cuando el teléfono suena_ no se emitirán en sus fechas previstas: el 6 y 7 de diciembre de 2024. Esta decisión afecta también la disponibilidad en **Netflix**, ya que el servicio de _streaming_ depende de la programación original de MBC.
+
+**‘Cuando el teléfono suena’ es un exitoso _thriller_ en Netflix**
+------------------------------------------------------------------
+
+La trama de la serie, también conocida como _When the Phone Rings_ y con el título original _Ji-geum Geo-sin Jeon-hwa-neun_, relata la complicada historia de un matrimonio entre un político en ascenso y su esposa, quienes ven cómo su vida cambia drásticamente tras un inesperado secuestro.
+
+A pesar de estos cambios, los seguidores de la serie aún tienen la oportunidad de mantenerse informados sobre los nuevos episodios y sus nuevas fechas de estreno. Este giro en la programación refleja cómo factores externos, como los conflictos políticos, afectan a la industria del entretenimiento, especialmente en producciones internacionales.
+
+Con este cambio, los fanáticos deberán estar atentos a futuras actualizaciones para conocer la nueva fecha de estreno.
+
+Taylor Swift destrozó récords de legendarios con su gira ‘The Eras Tour’
+========================================================================
+
+La gira de Taylor Swift, 'The Eras Tour', marcó un hito sin precedentes en la industria.
+----------------------------------------------------------------------------------------
+
+![Taylor Swift sigue imparable. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-10T180100.714.jpg)
+
+La gira de Taylor Swift, **‘The Eras Tour’**, marcó un hito sin precedentes en la industria musical al recaudar más de **2 000 millones de dólares** en ventas de entradas. Esa cifra la dio **The New York Times**.
+
+Este impresionante total, que asciende a **2 077 618 725 dólares**, equivale al doble de lo que cualquier otra gira ha logrado en la historia.
+
+Más noticias:
+
+* [Feid se sumó a la lista de reguetoneros colombianos con récords Guinness](https://www.elcomercio.com/tendencias/entretenimiento/feid-record-guinness-reguetoneros-colombianos.html "https://www.elcomercio.com/tendencias/entretenimiento/feid-record-guinness-reguetoneros-colombianos.html")
+* [Karol G y Feid arrasan con su química física y musical](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-feid-fans-amor-complicidad-pareja-ano.html "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-feid-fans-amor-complicidad-pareja-ano.html")
+* [¿Quién es Feid, el cantante que estará en el show de la Copa América 2024?](https://www.elcomercio.com/tendencias/feid-copa-america.html "https://www.elcomercio.com/tendencias/feid-copa-america.html")
+
+**Taylor Swift destrozó récords de legendarios con su gira ‘The Eras Tour’**
+----------------------------------------------------------------------------
+
+La gira, que comenzó el 17 de marzo de 2023 en Glendale, Arizona, y concluyó el pasado domingo en Vancouver, Canadá, fue vista por más de **10 millones de personas** en **149 conciertos** a lo largo de **21 meses**.
+
+Este fenómeno redefinió los estándares de la música pop, pero también generó un impacto **económico** significativo en cada ciudad que visitó.
+
+> [View this post on Instagram](https://www.instagram.com/p/C8hIungMPmD/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Taylor Swift (@taylorswift)](https://www.instagram.com/p/C8hIungMPmD/?utm_source=ig_embed&utm_campaign=loading)
+
+Entre los récords establecidos, destaca la mayor asistencia en una sola noche, con más de **96 000 espectadores** en Melbourne, Australia, el 16 de febrero.
+
+**Taylor Swift superó a un grande**
+-----------------------------------
+
+Además, los ocho conciertos realizados en el estadio Wembley de **Londres** atrajeron a un total de **753 112 personas**, consolidando aún más su éxito.
+
+El precio promedio por entrada fue de **204 dólares**, superando el promedio global de **131 dólares** para las giras más populares del año.
+
+Este fenómeno hizo que las entradas se revaloricen significativamente en el mercado secundario, alcanzando precios exorbitantes.
+
+Con este logro monumental, **Taylor Swift** se establece como una de las artistas más influyentes del mundo contemporáneo; superó a Coldplay, cuya gira anterior recaudó más de **1 000 millones de dólares**
+
+Dos generadores eléctricos de 600 kW llegaron a Quito, ¿en qué se los utilizará?
+================================================================================
+
+Los generadores eléctricos se instalaron en los barrios La Roldós y Colinas del Norte, en el noroccidente de Quito.
+-------------------------------------------------------------------------------------------------------------------
+
+![El Municipio de Quito prevé invertir 2,2 millones de dólares en la compra de generadores eléctricos](https://www.elcomercio.com/wp-content/uploads/2024/12/generadores-electricos-quito.jpg)
+
+Quito recibió dos **generadores eléctricos** con capacidad de 600 kilovatios. Ambos arribaron el 2 de diciembre de 2024, pero fueron instalados este lunes 9, en el noroccidente de Quito, en los barrios **La Roldós** y **Colinas del Norte**.
+
+### Más noticias
+
+* [Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025](https://www.elcomercio.com/actualidad/quito/concejo-aprueba-presupuesto-quito-2025.html "Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025")
+* [Cortes de luz en Quito este miércoles 11 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-miercoles-11-diciembre.html "Cortes de luz en Quito este miércoles 11 de diciembre")
+* [Concejo Metropolitano de Quito niega citación del secretario de Cultura](https://www.elcomercio.com/actualidad/quito/concejo-metropolitano-cultura-secretario-quitofest.html "Concejo Metropolitano de Quito niega citación del secretario de Cultura")
+
+Estas máquinas de transformación eléctrica, por el momento, se encuentran en **periodo de prueba** para garantizar su correcto funcionamiento.
+
+¿En qué se utilizarán los generadores eléctricos?
+-------------------------------------------------
+
+Los generadores eléctricos se utilizarán para reforzar las operaciones en las **estaciones de bombeo** de agua potable, en los **barrios altos** de la ciudad.
+
+La Empresa Metropolitana de Agua Potable y Saneamiento (**Epmaps**) confirmó que, a demás de esta compra, se adquirirán más generadores para solventar la **crisis energética**. La inversión total alcanzará los **2,2 millones de dólares**.
+
+Estos equipos se irán instalando de forma **paulatina** hasta cubrir las **62 estaciones de bombeo** que existen en el Distrito Metropolitano.
+
+En los próximos días se espera la llegada de otros dos generadores de **300 kilovatios**. Un **segundo grupo de artefactos** llegará en el primer trimestre de 2025[.](https://www.quito.gob.ec/ "https://www.quito.gob.ec/")
+
+Crisis energética afecta la distribución de agua en Quito
+---------------------------------------------------------
+
+La Epmaps explicó que los **cortes de luz programados** afectan de forma directa a la distribución de agua potable en la ciudad, en especial, en los barrios altos.
+
+“El servicio de agua potable requiere tiempo para el llenado de líneas y tanques de distribución, por lo que su retorno tras un corte eléctrico **no es inmediato**“, indicó la entidad.
+
+En algunos casos, este proceso puede tomar entre **seis y 120 horas**.
+
+Por ello, el Municipio de Quito aplicó **racionamientos de agua** desde noviembre.
+
+Ocho barrios con prioridad
+--------------------------
+
+El Cabildo logró un acuerdo con el **Ministerio de Energía** para evitar apagones programados en las zonas donde operan los sistemas de bombeo, mientras se instalan los generadores de energía.
+
+Se identificó que el **6 %** de los quiteños dependen de estaciones de bombeo. Los barrios con una situación crítica son:
+
+* La Roldós
+* Colinas del Norte
+* La Merced
+* Chillogallo Medio
+* Guajaló Alto
+* Forestal Alto
+* Ferroviaria Alto
+* Chiriyacu Medio y Alto
+
+**Otros sectores** priorizados son los barrios ubicados entre **El Bosque** y **El Condado**, por encima de la avenida Occidental.
+
+La Epmaps hizo un llamado a la ciudadanía para cuidar el líquido vital y **evitar su desperdicio**, en especial, “mientras continúa ejecutándose el plan de mitigación energética en la ciudad”.
+
+Santa Elena alberga tesoros de antiguos galeones españoles, según investigador sueco 
+=====================================================================================
+
+Tesoros de galeones españoles en Ecuador prometen riqueza histórica.
+--------------------------------------------------------------------
+
+![Más de 30 galeones han sido identificados en las costas ecuatorianas (imagen referencial). Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/Santa-Elena-Galeones-Hundidos.jpg)
+
+**Kjell Edwall**, investigador sueco apasionado por los grandes acontecimientos históricos, ha dedicado gran parte de su vida a desentrañar los misterios del pasado, incluidos los **galeones españoles** hundidos en las **costas de Ecuador.**  
+
+### Más noticias
+
+* [Nueva tecnología revela pistas sobre el tesoro inca de Atahualpa](https://www.elcomercio.com/tendencias/cultura/tesoro-atahualpa-ruminahui-incas.html "https://www.elcomercio.com/tendencias/cultura/tesoro-atahualpa-ruminahui-incas.html") 
+* [Gobierno colombiano declara bien de interés cultural el galeón San José](https://www.elcomercio.com/tendencias/colombia-interes-cultural-san-jose.html "https://www.elcomercio.com/tendencias/colombia-interes-cultural-san-jose.html")
+
+Entre 1532 y 1800, numerosos galeones naufragaron frente a las costas de Salinas, y desaparecieron junto con sus **valiosos cargamentos**.  
+
+El proyecto de Edwall, iniciado en 2002, ha revelado hallazgos que podrían redefinir la **historia marítima en la región**. 
+
+**Galeones españoles en Ecuador** 
+----------------------------------
+
+Edwall **inició sus investigaciones** en Ecuador con el **estudio de la cultura inca**. Entre 1986 y 1998, **lideró seis expediciones a los Llanganatis**, además, logró captar la atención del público sueco con una película transmitida por la televisión de su país, vista por 850 mil personas. En 1998, **visitó Salinas**, lo que marcó el inicio de una **investigación exhaustiva** fuera de sus costas, de acuerdo con información proporcionada por Edwall. 
+
+**Licencias y avances tecnológicos en la exploración marina** 
+--------------------------------------------------------------
+
+![Foto: Cortesía Kjell Edwall. ](https://www.elcomercio.com/wp-content/uploads/2024/12/Galeones-Hundidos-Santa-Elena-1024x683.jpg)
+
+Foto: Cortesía Kjell Edwall.
+
+En 2003, su equipo obtuvo la licencia para explorar y explotar un área específica de la **costa ecuatoriana**, lo que llevó a la creación de **tecnologías avanzadas** de exploración marina. En 2014, el **Ministerio de Medio Ambiente** (MAE) emitió una **licencia ambiental** para operar entre **Punta Elena y Chanduy**, tras cumplir con estrictas regulaciones. Ese mismo año, Edwall rastreó **el primer galeón** en las profundidades del mar ecuatoriano. 
+
+**Más de 30 galeones identificados** 
+-------------------------------------
+
+Desde entonces, **se han identificado más de 30 galeones** hundidos, según la misma fuente. Si se toma como referencia **la exploración, hallazgo y ganancias** proyectadas del legendario **galeón San José**, hundido en costas colombianas, los galeones en costas ecuatorianas podrían albergar grandes tesoros de valor incalculable.  
+
+**El galeón San José: un antecedente internacional** 
+-----------------------------------------------------
+
+De acuerdo con [EuroNews](https://es.euronews.com/cultura/2024/06/20/galeon-san-jose-comienza-la-mision-de-recuperacion-de-un-tesoro-de-incalculable-valor#:~:text=A%20pesar%20de%20llevar%20300,de%20Estado%2C%20para%20evitar%20saqueos. "https://es.euronews.com/cultura/2024/06/20/galeon-san-jose-comienza-la-mision-de-recuperacion-de-un-tesoro-de-incalculable-valor#:~:text=A%20pesar%20de%20llevar%20300,de%20Estado%2C%20para%20evitar%20saqueos."), de lo último que se sabe del **galeón San José**, el “santo grial de los naufragios” ha estado sumergido por más de tres siglos debido a **conflictos sobre su propiedad**. 
+
+Aunque lleva más de **300 años en las profundidades** del Caribe, el galeón ha generado disputas. **Descubierto en 2015** por el Gobierno colombiano y empresas aliadas, su **ubicación exacta** se mantiene bajo secreto de Estado para prevenir saqueos. 
+
+**Objetivo principal: rescatar el patrimonio marítimo de Ecuador** 
+-------------------------------------------------------------------
+
+El **objetivo de Kjell Edwall** es lograr un **acuerdo con el Gobierno ecuatoriano** para **rescatar los galeones** y conservar su **invaluable patrimonio histórico**. Este ambicioso proyecto no solo resalta la **riqueza cultural y arqueológica** de Ecuador, sino que también podría convertirse en un **modelo para la exploración marítima sostenible**. 
+
+**Museos, acuarios y turismo** 
+-------------------------------
+
+Adicional, hay una [empresa sueca](https://www.instagram.com/galeonesespanoles.ecuador/ "https://www.instagram.com/galeonesespanoles.ecuador/") que tiene como meta **restablecer el contrato** que permite la exploración y rescate de los **buques de la Armada Española** en las costas ecuatorianas. La empresa ha propuesto financiar la **construcción de museos y acuarios** que convertirán a Ecuador en un referente de **arqueología marina.** 
+
+### Te recomendamos:
+
+Inter Miami y Campana enfrentan la salida de un pilar clave
+===========================================================
+
+El Inter Miami se despide de una de sus piezas claves rumbo a la temporada 2025.
+--------------------------------------------------------------------------------
+
+![Lionel Messi, Diego Gómez y Luis Suárez festejando un gol con el Inter Miami.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-10T181159.615.jpg)
+
+El Inter Miami de **Leonardo Campana** confirmó este martes 10 de diciembre la salida de uno de los mejores jugadores del plantel, quien tomará rumbo a la Premier League. Se trata del paraguayo Diego Gómez.
+
+A través de sus redes sociales, las ‘Garzas’ agradecieron a **Gómez** por su corta, pero destacada estancia en el club y le desearon éxitos en su nueva etapa como jugador del **Brighton & Hove Albion**.
+
+### Más noticias:
+
+* [Inter Miami tomó una importante decisión sobre Leonardo Campana](https://www.elcomercio.com/deportes/futbol/inter-miami-tomo-una-importante-decision-sobre-leonardo-campana.html "Inter Miami tomó una importante decisión sobre Leonardo Campana")
+* [Javier Mascherano, nuevo entrenador del Inter Miami](https://www.elcomercio.com/deportes/futbol/javier-mascherano-dt-inter-miami.html "Javier Mascherano, nuevo entrenador del Inter Miami")
+* [Gerardo Martino renuncia como DT del Inter Miami de Lionel Messi](https://www.elcomercio.com/deportes/futbol/gerardo-martino-renuncia-como-dt-del-inter-miami-de-lionel-messi.html "Gerardo Martino renuncia como DT del Inter Miami de Lionel Messi")
+
+Gómez deja a su compañero ecuatoriano Leonardo Campana, pero se unirá a otros compatriotas en Inglaterra como **Pervis** **Estupiñán**, pieza clave de las ‘Gaviotas’, y Jeremy Sarmiento, cedido al Burnley en la Championship.
+
+Transferencia récord para el Inter Miami
+----------------------------------------
+
+El traspaso de Diego Gómez se concretó por **USD 15 millones**, una cifra récord en la historia de las ‘Garzas’. Este monto coloca la transferencia entre las más caras de la historia de la Major League Soccer (MLS).
+
+El mediocampista paraguayo, de 21 años, llegó al Inter Miami en julio de 2023 y rápidamente se convirtió en un jugador esencial. Gómez disputó **40 partidos** en todas las competencias, marcó **7 goles** y dio **10 asistencias**.
+
+Además, fue una pieza clave en la obtención de los **primeros títulos** en la historia del club: la **Leagues Cup 2023** y el **Supporters’ Shield 2024**.
+
+> ¡Gracias por todo, Diego! 💗🖤 Te deseamos lo mejor en esta nueva etapa ✨  
+>   
+> Diego Gómez has been transferred to Brighton & Hove Albion for a Club-Record Fee.  
+>   
+> Details: [https://t.co/OphKNrdGrU](https://t.co/OphKNrdGrU) [pic.twitter.com/Ts6Lx0L3KR](https://t.co/Ts6Lx0L3KR)
+> 
+> — Inter Miami CF (@InterMiamiCF) [December 10, 2024](https://twitter.com/InterMiamiCF/status/1866527680595890660?ref_src=twsrc%5Etfw)
+
+Leonardo Campana continuará en el club
+--------------------------------------
+
+A pesar de los cambios en el plantel, Leonardo Campana seguirá formando parte del **Inter Miami**. Según un comunicado oficial, el club renovó a figuras como Jordi Alba y confirmó la continuidad de Lionel Messi y Luis Suárez junto al delantero ecuatoriano.
+
+De los jugadores del 2024, solo siete no continuarán, incluidos **Cole Jensen**, **Sergii Kryvtsov**, **Franco Negri**, **Matías Rojas**, **Lawson Sunderland** y **Felipe Valencia**, cuyos contratos no fueron renovados. Además, Nicolás Freire regresa a su club de origen tras finalizar su préstamo.
+
+Con este panorama, **Campana** se consolida como una de las piezas claves para el Inter Miami en la temporada 2025.
+
+El éxito de ‘Wicked’ evidencia un avance hacia el fin del racismo y la discriminación en el cine
+================================================================================================
+
+El cuento de hadas musical se estrenó en Ecuador a mediados de noviembre de 2024.
+---------------------------------------------------------------------------------
+
+![Cynthia Erivo y Ariana Grande protagonizan 'Wicked'.](https://www.elcomercio.com/wp-content/uploads/2024/12/wicked-El-Comercio-1.jpg)
+
+**Cynthia Erivo** es una actriz bisexual, afrodescendiente y la protagonista de un éxito: ‘**Wicked**‘.
+
+Desde su estreno a mediados de noviembre de 2024, la cinta tuvo opiniones positivas de la crítica. También contó con apoyo del público en taquilla.
+
+### Más noticias:
+
+* **[La segunda parte de Wicked ya tiene fecha de estreno](https://www.elcomercio.com/tendencias/la-segunda-parte-de-wicked-ya-tiene-fecha-de-estreno.html "https://www.elcomercio.com/tendencias/la-segunda-parte-de-wicked-ya-tiene-fecha-de-estreno.html")**
+* **[‘Kraven: El Cazador’ muestra el lado más salvaje de Marvel](https://www.elcomercio.com/afull/kraven-el-cazador-marvel.html "https://www.elcomercio.com/afull/kraven-el-cazador-marvel.html")**
+
+Además, ‘Wicked’ ha servido como un parámetro para ver cómo va el asunto de la representación e inclusión en Hollywood y en la percepción del público.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/wicked-El-Comercio-2-1024x683.jpg)
+
+La elección de Erivo en el papel de Elphaba simboliza un avance significativo en una industria que históricamente ha marginado a las minorías, porque evidencia que privilegió únicamente el talento de la actriz.
+
+Sin embargo, sugerir que este éxito marca el fin del racismo y la discriminación en el cine es un error y hay un ejemplo reciente.
+
+**La controversia en el casting de Harry Potter**
+-------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/wicked-El-Comercio-3-1024x683.jpg)
+
+En paralelo al éxito de ‘Wicked’, las redes sociales ardieron con críticas al casting de la nueva serie de Harry Potter que estará en _streaming_ próximamente. ¿Por qué?
+
+Por inclusivo. La decisión de incorporar actores de diversas etnias para interpretar personajes clásicos de la saga generó opiniones polarizadas.
+
+Mientras algunos celebran el cambio como un paso hacia una representación más equitativa, otros lo perciben como una “traición” a la esencia de los libros.
+
+Este debate con la serie de Harry Potter pone demuestra la resistencia que aún existe hacia la inclusión en franquicias consolidadas.
+
+Los detractores argumentan que las decisiones de casting están motivadas por una agenda política y que es solo _marketing_ para atraer a nuevos espectadores. Mientras, los defensores señalan que la diversidad es un reflejo necesario de la sociedad actual. También hay quienes califican de forzada la inclusión y lo limitan a puro marketing.
+
+‘Wicked’ ha demostrado que el público está dispuesto a abrazar historias diversas y complejas. Las audiencias han mostrado su apoyo, pero el camino hacia la igualdad en la industria sigue siendo largo.
+
+El caso de ‘La Sirenita’
+------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/wicked-El-Comercio-1-1-1024x683.jpg)
+
+La elección de Halle Bailey como Ariel en la adaptación de ‘La Sirenita’ que se estrenó en 2023 también desató una controversia similar. Las redes sociales se llenaron de comentarios racistas que cuestionaban su elección.
+
+Además, algunos críticos atribuyeron el rendimiento comercial débil de la película a la decisión de casting.
+
+Un artículo del medio Página 12 señaló que la indignación por la elección de la actriz Halle Bailey para interpretar a la Sirenita se debió a que el presunto cambio de raza del personaje es percibido como una falta de respeto al material original.
+
+Sin embargo, sostiene el sitio, **Hans Christian Andersen,** autor de ‘La Sirenita’ en 1837, no menciona ningún color de piel. Es decir, que en la película animada de Disney, la decisión de que Ariel sea blanca es arbitraria.
+
+A pesar de las críticas, Bailey recibió elogios por su actuación y por desafiar los estándares tradicionales de belleza en Hollywood. Su participación en ‘La Sirenita’ sirvió de mucho para fijar un punto de inflexión en la lucha por la diversidad.
+
+¿Quién es Mohamed al Bashir, el encargado de liderar la transición en Siria?
+============================================================================
+
+El político islamista se graduó en Ingeniería Eléctrica y Electrónica en la Universidad de Alepo en 2007.
+---------------------------------------------------------------------------------------------------------
+
+![Mohamed al Bashir es un ingeniero y político sirio.](https://www.elcomercio.com/wp-content/uploads/2024/12/mohamed-siria-1.jpg)
+
+Nacido en Jabal Zawiya (noroeste de Siria) en 1983, [Mohamed al Bashir](https://es.wikipedia.org/wiki/Mohamed_al-Bashir "https://es.wikipedia.org/wiki/Mohamed_al-Bashir") fue asignado por los rebeldes para liderar la **transición en Siria** tras el derrocamiento de 24 años de régimen de **Bashar al Asad** por una ofensiva insurgente.
+
+### Más noticias
+
+* [Entre 40 y 50 cadáveres hallados en la prisión siria de Sednaya](https://www.elcomercio.com/actualidad/mundo/entre-40-50-cadaveres-hallados-prision-siria-sednaya.html "Entre 40 y 50 cadáveres hallados en la prisión siria de Sednaya")
+* [Cronología de 13 años de guerra civil en Siria](https://www.elcomercio.com/actualidad/mundo/cronologia-13-anos-guerra-civil-siria.html "Cronología de 13 años de guerra civil en Siria")
+* [Insurgentes encargan formar gobierno en Siria al presidente de la administración de Idlib](https://www.elcomercio.com/actualidad/mundo/insurgentes-encargan-formar-gobierno-siria-presidente-administracion-idlib.html "Insurgentes encargan formar gobierno en Siria al presidente de la administración de Idlib")
+
+Ahmed al Charaa (conocido anteriormente como Abu Mohamed al Jolani), el líder islamista que encabezó la ofensiva que derrocó a Al Asad, y el ex primer ministro sirio Mohamed Ghazi al Jalali fueron quienes decidieron que **Al Bashir iba a capitanear esta nueva era en Siria,** que ha vivido más de cinco décadas bajo la familia Al Asad.
+
+Pero ¿quién es **Al Bashir** y qué es el **Gobierno de Salvación** del que era también el jefe?
+
+Ingeniero de profesión
+----------------------
+
+El político islamista se graduó en **Ingeniería Eléctrica y Electrónica en la Universidad de Alepo** en 2007. Posteriormente, en Sharía (ley islámica) en la Universidad de Idlib, la **provincia nororiental que sirvió de principal feudo opositor del Gobierno de Al Asad** en los últimos años y de donde es oriundo.
+
+En 2011, trabajó en la **Compañía Siria de Gas** como responsable del departamento de instrumentos de precisión, de acuerdo a su currículo.
+
+También cuenta con diferentes diplomas, entre los que destaca sus cursos en inglés avanzado, así como certificados en gestión de proyectos y planificación administrativa.
+
+Pero el salto a la política lo dio tras las **revueltas populares de 2011 contra Al Asad**, en el marco de la llamada ‘Primavera Árabe’ que, posteriormente, se extendieron por toda Siria y fueron duramente **reprimidas por el Gobierno de Al Asad** y de sus aliados, entre ellos Irán y Rusia.
+
+Al Bashir fue nombrado el pasado enero como **jefe del Gobierno de Salvación**, una suerte de rama política que está vinculada al **Organismo de Liberación del Levante** (Hayat Tahrir al Sham o HTS, en árabe), y cuya sede está en Idlib.
+
+Gobierno de Salvacion y su papel
+--------------------------------
+
+Antes de pasar a ser el jefe del Gobierno de Salvación, estuvo como ministro de Desarrollo y Asuntos Humanitarios bajo el que era entonces el cabecilla de esa administración en Idlib, Ali Keda.
+
+Durante ese periodo de tiempo, se centró en **modernizar esta región tan castigada** por la guerra y atender las necesidades humanitarias de las alrededor de **tres millones de personas en esa provincia**, la mitad de ellas desplazadas y que han sufrido terribles ataques del Gobierno sirio y bombardeos de la aviación rusa.
+
+Pero, ¿qué es exactamente el Gobierno de Salvación?
+---------------------------------------------------
+
+Establecido en 2017, esta administración que cuenta con **ministerios, departamentos y autoridades judiciales y de seguridad**. Fue creado para **ayudar a las personas** que estaban en las zonas que escapaban al control de Damasco y que no podían volver para obtener los servicios gubernamentales.
+
+No obstante, Al Bashir se tuvo que enfrentar a **varios problemas durante su cargo** como jefe del Gobierno de Salvación.
+
+El pasado febrero, grupos de manifestantes salieron a las calles de algunas ciudades de Idlib pidiendo la **caída de Al Jolani,** según informaron activistas en ese momento, en unas protestas que continuaron durante algunos meses.
+
+Sus demandas iban desde el fin de las **violaciones de derechos humanos en las cárceles**, así como reformas económicas en la región por sus **malas condiciones de vida**. Además, la oposición al monopolio de la toma de **decisiones por parte de HTS**, que es tan solo uno de las decenas de grupos que componen la oposición a Al Asad en Siria.
+
+Las unidades de seguridad de HTS **atacaron a los manifestantes con porras y gases lacrimógenos** y prosiguieron de forma esporádica durante meses. Esto mientras que **Al Bashir emitió un decreto de amnistía general** para autores de delitos que hubieran mostrado buena conducta con el fin de contentar a la población.
+
+Según el informe de septiembre de 2024 de la **Comisión de Investigación sobre Siria,** creada por la ONU, las protestas siguieron a campañas de arrestos contra miembros del HTS, grupos rivales, partidos políticos y **civiles, incluidos mujeres y niños de hasta 7 años**, mientras que los detenidos fueron sometidos a tortura.
+
+Piero Hincapié y Leverkusen vencen al Inter de Milán en Champions
+=================================================================
+
+Piero Hincapié y el Bayer Leverkusen se impusieron con un gol agónico ante el Inter de Milán en la UEFA Champions League.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Piero Hincapié (centro) del Bayer Leverkusen disputa un balón con Davide Fratessi del Inter de Milán en la UEFA Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-10T163344.959.jpg)
+
+**Piero Hincapié y el Bayer Leverkusen** ganaron en la sexta fecha de la UEFA Champions League y en la última de 2024. La escuadro ganó por un marcador de 1-0 ante el Inter de Milán como local y se mantiene en zona de clasificación directa a los octavos de final.
+
+La primera fase liguera de la **UEFA Champions League** se encuentra en su última recta antes de celebrar los cruces directos pues, a partir de esta temporada, el torneo contó un formato distinto. Los 36 equipos clasificados se enfrentan en ocho duelos iniciales ante un rival distinto y los ocho mejores van a octavos de final. Del 9 al 24 juegan dieciseisavos.
 
 ### Más noticias:
 
 * [Piero Hincapié y el Leverkusen consiguen tres puntos en un partido complicado](https://www.elcomercio.com/deportes/futbol/piero-hincapie-leverkusen-consiguen-tres-puntos-partido-complicado.html "Piero Hincapié y el Leverkusen consiguen tres puntos en un partido complicado")
-* [PSG se mantiene líder con Willian Pacho como titular ante Auxerre](https://www.elcomercio.com/deportes/futbol/psg-willian-pacho-auxerre-partido-resultado.html "PSG se mantiene líder con Willian Pacho como titular ante Auxerre")
-* [Brighton perdió y se aleja de los puestos de Champions](https://www.elcomercio.com/deportes/futbol/brighton-pervis-estupinan-fulham-resultado.html "Brighton perdió y se aleja de los puestos de Champions")
+* [Piero Hincapié y Leverkusen eliminan a Bayern Múnich en Copa de Alemania](https://www.elcomercio.com/deportes/piero-hincapie-bauyer-leverkusen-eliminacion-bayern.html "Piero Hincapié y Leverkusen eliminan a Bayern Múnich en Copa de Alemania")
+* [El Leverkusen vence a Union Berlin con un destacado Piero Hincapié](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-union-berlin.html "El Leverkusen vence a Union Berlin con un destacado Piero Hincapié")
 
-A diferencia de sus compatriotas, **Angelo** **Preciado** no participará en esta jornada debido a una lesión. El lateral ecuatoriano, habitual en el **Sparta Prag**a, tendrá que apoyar desde fuera mientras su equipo enfrenta al Feyenoord de Países Bajos el miércoles 11 de diciembre.
+Para el compromiso, la escuadra alemana ya había llegado bien posicionada y en la zona de equipos con un **cupo directo** hacia la siguiente ronda. Pese a ello, este aún no aseguraba nada con respecto a su futuro dentro del torneo.
 
-Calendario de los ecuatorianos en Champions
+El plantel de Hincapié tenía **10 puntos**, sin embargo, el **Inter de Milán** llegaba con un presente mucho mejores. Los italianos contaban con 13 puntos y estaban en el segundo puesto de la tabla de posiciones, por lo que de ganar podía quedar casi con un lugar asegurado en octavos.
+
+Un empate y dificultades para el Leverkusen
 -------------------------------------------
 
-Los tricolores que estarán presentes en esta jornada son:
+En un inicio, el Inter y el **Bayer Leverkusen** presentaron un panorama parejo en el cual ninguno conseguía imponerse en ataque. **Piero Hincapíe** estuvo como titular y se ubicó en el andarivel zurdo para tener acción durante los 90 minutos de juego.
 
-### Willian Pacho y el PSG
+La más clara para el conjunto de las ‘aspirinas’ se produjo en los primeros instantes del partido. **Nathan Tella** apareció a los 3 minutos de juego y envió el balón hacia el travesaño. Pese a ello, su equipo no volvió a crear jugadas similares.
 
-El **PSG de Willian Pacho** no atraviesa su mejor momento en el torneo. Con apenas cuatro puntos y una sola victoria en cinco partidos, el club parisino se ubica en el puesto 25, fuera de los lugares de clasificación.
+Los primeros **45 minutos de juego** terminaron con un marcador de 0-0. Aunque la segunda mitad invitó a que aquello se mantenga, todo cambio en el ocaso del partido[.](https://es.wikipedia.org/wiki/Bayer_Leverkusen "https://es.wikipedia.org/wiki/Bayer_Leverkusen")
 
-Su próximo desafío será frente al **RB Salzburgo**, en el Red Bull Arena de Salzburgo, este martes 10 de diciembre a las 15:00 (hora de Ecuador).
+Un gol agónico para Piero Hincapié y el Bayer Leverkusen
+--------------------------------------------------------
 
-### Piero Hincapié y el Bayer Leverkusen
+La etapa de complemento mantuvo la misma tónica que la primera en el compromiso. Las capacidades de **las defensas de ambas escuadras** fueron las que hicieron gala de su poderío. La jugada que rompió con la tendencia llegó a los 90 y fue más producto del azar que de la técnica.
 
-El **Bayer** **Leverkusen**, equipo sensación de la temporada pasada, se mantiene en la pelea por la clasificación directa a octavos de final. Con 10 puntos, ocupa el sexto puesto de la tabla general.
+En un último ataque, los alemanes se lanzaron en su totalidad a buscar el gol. Tras un tiro de esquina que fue conectado y devino en un rebote, **Tella** logró poner el 1-0 en el marcador y el **triunfo** para los rojinegros.
 
-En esta jornada, recibirán al **Inter de Milán en el BayArena**, este martes 10 de diciembre a las 15:00.
+Con la victoria, el **Leverkusen** se catapultó hacia el tercer puesto de la tabla de posiciones con 13 unidades. Sus siguientes rivales en Champions serán el **Atlético de Madrid y el Sparta Praga**.
 
-### Joel Ordóñez y el Club Brujas
+El **Inter de Milan** se mantuvo con la misma cantidad de puntos y pasó hacia el cuarto lugar. En el futuro también deberá enfrentar al **Sparta Praga** y, finalmente, se medirá al Mónaco.
 
-El **Club Brujas**, donde milita Joel Ordóñez, ha tenido una participación discreta en esta edición de la Champions. Con dos victorias en cinco juegos, se ubican en el puesto 22 con siete puntos.
+Asamblea Nacional tiene juicios políticos pendientes por tramitar
+=================================================================
 
-Su próximo compromiso será en Bélgica ante el **Sporting Lisboa**, en el Estadio Jan Breydel, este martes 10 de diciembre a las 15:00.
+El juicio político contra la exministra de Energía, Andrea Arrobo, se realizará el próximo 13 de diciembre de 2024.
+-------------------------------------------------------------------------------------------------------------------
 
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDZoVpZuz8A/?utm_source=ig_embed&utm_campaign=loading)
+![Andrea Arrobo en su comparecencia ante la Comisión de Fiscalización el pasado 4 de diciembre de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-10T162935.329.jpg)
+
+La **Asamblea Nacional** reanudará el juicio político contra **Andrea Arrobo**, exministra de **Energía y Minas**, quien enfrenta acusaciones de un **supuesto boicot relacionado con los apagones** ocurridos antes del referéndum de abril de 2024.
+
+### Más noticias
+
+* [Viviana Veloz ofreció garantías a Andrea Arrobo para su juicio político](https://www.elcomercio.com/actualidad/politica/viviana-veloz-ofrecio-garantias-andrea-arrobo-juicio-politico.html "Viviana Veloz ofreció garantías a Andrea Arrobo para su juicio político")
+* [Andrea Arrobo tomó una decisión sobre el juicio político en el Pleno de la Asamblea](https://www.elcomercio.com/actualidad/politica/andrea-arrobo-decision-juicio-politico-pleno-asamblea.html "Andrea Arrobo tomó una decisión sobre el juicio político en el Pleno de la Asamblea")
+* [Asamblea Nacional tomó una decisión sobre el juicio político contra Andrea Arrobo](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-tomo-decision-juicio-politico-andrea-arrobo.html "Asamblea Nacional tomó una decisión sobre el juicio político contra Andrea Arrobo")
+
+Arrobo no asistió a la sesión del pasado miércoles 4 de diciembre. En una carta pública explicó que teme **represalias si presenta pruebas en su defensa**.
+
+La p**residenta de la Asamblea, Viviana Veloz,** suspendió el juicio el 4 de diciembre al constatar la ausencia de la exfuncionaria. En su carta, **Arrobo aseguró que cuenta con pruebas** de que no participó en el presunto boicot, pero expresó su temor a sufrir consecuencias devastadoras por parte del Gobierno.
+
+Se tiene previsto, según la agenda de la **Asamblea Nacional**, que el juicio político contra Andrea Arrobo se retome el próximo viernes 13 de diciembre de 2024 a las 09:00.
+
+> 🟣COMUNICADO🟣  
+>   
+> El correísmo que protegió a Wilman Terán y luego a Verónica Abad, ahora lo hace con Andrea Arrobo.  
+>   
+> ¡Nosotros no pactamos con la impunidad! [@Adnecuadorok](https://twitter.com/Adnecuadorok?ref_src=twsrc%5Etfw) [pic.twitter.com/RcZMs6aNi0](https://t.co/RcZMs6aNi0)
 > 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DDZoVpZuz8A/?utm_source=ig_embed&utm_campaign=loading)
+> — Bancada ADN (@BancadaADN) [December 5, 2024](https://twitter.com/BancadaADN/status/1864461505820791136?ref_src=twsrc%5Etfw)
+
+Crisis energética y acusaciones contra el Ejecutivo
+---------------------------------------------------
+
+En su misiva, Arrobo detalló que **alertó al presidente Daniel Noboa** sobre la crisis energética, señalando que se le pidió no divulgar la información para evitar **repercusiones negativas en la consulta popular**. Según Veloz, la exministra cuenta con pruebas que podrían **evidenciar negligencia del Ejecutivo** en la gestión de la crisis.
+
+> Sobre el juicio político en mi contra, que se llevará acabo este miércoles en la [@AsambleaEcuador](https://twitter.com/AsambleaEcuador?ref_src=twsrc%5Etfw) a continuación expongo mis argumentos: [pic.twitter.com/Ot1nyW9ZeZ](https://t.co/Ot1nyW9ZeZ)
+> 
+> — Andrea Arrobo Peña (@andrearrobo) [December 4, 2024](https://twitter.com/andrearrobo/status/1864111227418419586?ref_src=twsrc%5Etfw)
+
+Los **racionamientos eléctricos** que afectaron al país desde finales de 2023 se atribuyen a una severa sequía en las principales centrales hidroeléctricas. Durante la **campaña del referéndum**, el Gobierno denunció un boicot en su contra, lo que intensificó la controversia en torno a la **administración de Noboa**.
+
+Otros juicios políticos en curso
+--------------------------------
+
+El **Consejo de Administración de la Legislatura (CAL)** también calificó el juicio político contra Ivonne Núñez, ministra de Trabajo, por **presunto incumplimiento de funcione**s. La solicitud fue presentada por asambleístas de oposición, quienes cuestionan la sanción impuesta a la vicepresidenta Verónica Abad.
+
+Adicionalmente, el Parlamento tramita el juicio contra **Margarita Hernández**, **exsuperintendenta de Economía Popular y Solidaria**, acusada de irregularidades en el control del sector financiero no bancario. Ambos procesos están a la espera de resoluciones por parte de la **Comisión de Fiscalización**.
+
+La Comisión de Fiscalización **enfrenta una acumulación de seis juicios políticos previos**, incluidos aquellos contra **jueces electorales y exministros de Estado**. Los nuevos pedidos, como los casos de **Núñez y Hernández**, deberán esperar su turno en el cronograma establecido.
+
+¿Qué es un juicio político?
+---------------------------
+
+El juicio político en Ecuador es un **mecanismo de control que la Asamblea Nacional** ejerce sobre las funciones Ejecutiva, Electoral, de Transparencia y Control Social, entre otras.
+
+Este proceso está destinado a censurar y eventualmente destituir a **altos funcionarios del Estado** que incumplan con sus funciones o cometan actos de corrupción.
+
+El **juicio político** está fundamentado en la Constitución del país y regulado por la **Ley Orgánica de la Función Legislativa**. Puede ser iniciado contra funcionarios como el Presidente de la República, ministros de Estado, miembros de la Corte Constitucional, Corte Nacional de Justicia, Consejo Nacional Electoral, entre otros.
+
+Proceso para el inicio del juicio político
+------------------------------------------
+
+El proceso comienza con la **presentación de una solicitud** por parte de al menos un tercio de los miembros de la Asamblea Nacional.
+
+La solicitud debe **incluir las pruebas de la infracción cometida** por el funcionario. Una vez admitida la solicitud, se procede a la **fase de investigación**, durante la cual se recaban más pruebas y se permite la defensa del acusado.
+
+Posteriormente, el proceso entra en debate en el **Pleno de la Asamblea**. Para que el juicio político culmine con la destitución del funcionario, se requiere una **mayoría calificada de dos tercios de los asambleístas presentes**.
+
+Si se alcanza esta mayoría, el funcionario es **destituido de su cargo** y podría enfrentar otras sanciones legales, dependiendo de la gravedad del caso.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Liga de Quito ganó un título cada 20 meses en 24 años
+=====================================================
+
+Desde el 2000, Liga de Quito levantó 14 títulos, entre nacionales e internacionales.
+------------------------------------------------------------------------------------
+
+![Jugadores de Liga de Quito con el trofeo de la Liga Pro de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/12/titulos_liga_1.jpg)
+
+Liga de Quito cuenta las horas para afrontar la **final de vuelta de la Liga Pro**. El sábado 14 de diciembre de 2024, desde las 15:30, vista la cancha de Independiente del Valle para definir al campeón de esta temporada.
+
+La ventaja es para Liga de Quito. En la ida **golearon 3-0 a los del Valle con un doblete del paraguayo** Álex Arce, y un gol desde fuera del área del boliviano Gabriel Villamil, otro de los refuerzos que llegó a inicio de año.
+
+### Más noticias:
+
+* [Entradas para la final de](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles") [v](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles")[uelta entre IDV y Liga de Quito: Precios y detalles](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles")
+* [Premier League destaca las cualidades de Moisés Caicedo con Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-rendimiento-premier-league-tottenham.html "Premier League destaca las cualidades de Moisés Caicedo con Chelsea")
+* [Inter Miami tomó una importante decisión sobre Leonardo Campana](https://www.elcomercio.com/deportes/futbol/inter-miami-tomo-una-importante-decision-sobre-leonardo-campana.html "Inter Miami tomó una importante decisión sobre Leonardo Campana")
+
+Liga de Quito por el bicampeonato
+---------------------------------
+
+Liga intenta convertirse en el primer **bicampeón del fútbol ecuatoriano** bajo la organización de la Liga Pro. En las ediciones previas levantaron el trofeo Delfín (2019), Barcelona Sporting Club (2020), Independiente (2021) y Aucas (2022).
+
+En el 2023 lo hicieron los albos ante el mismo rival. Lo **derrotaron en la tanda de penales por 3-0** en un Rodrigo Paz Delgado que vivió un verdadera fiesta por la nueva corona del ‘Rey de Copas’ de Ecuador.
+
+El primer bicampeón de los universitarios se remonta a los años 1974 y 1975 con el colombiano Leonel Montoya como entrenador y el ecuatoriano Polo Carrera, más el argentino Juan José Pérez, como las figuras en el terreno de juego.
+
+El segundo bicampeonato se cristalizó en 1998 con el brasileño **Paulo Massa como entrenador, y en 1999 con el chileno Manuel Pellegrin**i. Además, estos títulos tuvieron como testigo al Rodrigo Paz Delgado, inaugurado en marzo de 1997.
+
+Jacinto Espinoza, Ulises de la Cruz, Eduardo Hurtado, Patricio Hurtado, Álex Escobar, Paúl Guevara, Juan Helio Guamán, Ezequiel Maggiolo, Alfonso Obregón, Nixon Carcelén, Luis Capurro, Neicer Reascos, Luis González, entre otros, conformaron una máquina de triturar rivales.
+
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/titulos_liga_2-1024x683.jpg)
+
+API.
+
+Liga resurgió en el siglo XXI
+-----------------------------
+
+Lo que va de transcurrido el siglo XXI sirvió para confirmar a **Liga de Quito como el equipo más importante** de la capital de los ecuatorianos y como el más ganador en los torneos de clubes de la Conmebol por parte de este país sudamericano.
+
+Luego de la opaca etapa con el descenso a la Serie B en el 2000 y su transitar por esta categoría en el 2001, volvió en el 2002 a la A y lo hizo con el impulso necesario para convertirse en el más ganador.
+
+Son **14 títulos los ganados en los últimos 24 años** y está a horas de sumar el número 15. Además, se suman ochos subcampeonatos.
+
+Esto equivale que ganaron un trofeo cada 20 meses, pero si logran la Liga Pro ese número se reduce a 18.
+
+Los títulos del campeonato **nacional fueron en el 2003, Apertura 2005, 2007, 2010, 2018 y 2023;** la Copa Ecuador en 2019; y la Supercopa Ecuador en 2020 y 2021.
+
+Fuera del territorio local alcanzó la Copa Libertadores 2008; la Copa Sudamericana 2009 y 2023; **y la Recopa Sudamericana 2009 y 2010**.
+
+Los subcampeonatos fueron en el torneo local de 2008, 2015, 2019 y 2020; el Mundial de Clubes 2008; la Copa Suruga Bank 2010; la Sudamericana 2011; y la Recopa 2024.
+
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/titulos_liga_3-1024x683.jpg)
+
+API.
+
+San viernes
+-----------
+
+Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025
+======================================================================
+
+Con 12 votos a favor y 9 abstenciones, el Concejo Metropolitano de Quito aprobó el presupuesto para el próximo año.
+-------------------------------------------------------------------------------------------------------------------
+
+![El alcalde de Quito, Pabel Muñoz, defendió la proforma presupuestaria para el 2025.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-10T164519.262.jpg)
+
+Con **12 votos** a favor y **9 abstenciones**, este 10 de diciembre del 2024, el **Concejo Metropolitano** aprobó el presupuesto para el 2025. La cifra que manejará el Gobierno local será de **1 002 millones de dólares,** seis millones menos que el año presente.
+
+### Más noticias
+
+* [Así se puede tener un animal de asistencia en Quito para ir en Metro y otras opciones](https://www.elcomercio.com/actualidad/quito/animal-asistencia-ecuador-metro-quito.html "Así se puede tener un animal de asistencia en Quito para ir en Metro y otras opciones")
+* [Concejo Metropolitano de Quito niega citación del secretario de Cultura](https://www.elcomercio.com/actualidad/quito/concejo-metropolitano-cultura-secretario-quitofest.html "Concejo Metropolitano de Quito niega citación del secretario de Cultura")
+* [AMC desechó casi 5 000 litros de alcohol en fiestas de Quito](https://www.elcomercio.com/actualidad/quito/amc-desecho-casi-5-000-litros-de-alcohol-en-fiestas-de-quito.html "AMC desechó casi 5 000 litros de alcohol en fiestas de Quito")
+
+La aprobación del Presupuesto de Quito
+--------------------------------------
+
+La sesión del Pleno del **Concejo Metropolitano** de Quito tuvo un solo punto en el orden del día: la proforma presupuestaria para el próximo año. De todos modos se iba a aprobar, coincidieron varios concejales opositores. Michael Aulestia, de SUMA, incluso propuso que se archivara el proyecto.
+
+Sin embargo, la proforma habría entrado en **vigencia** por **ministerio de la Ley**, si no se aprobaba. Por eso, la votación final fue de 12 votos a favor, nueve abstenciones y un ausente.
+
+Presupuesto de Quito prioriza burocracia y movilidad
+----------------------------------------------------
+
+La sesión de este 10 de diciembre, que fue la **centésima** del Concejo Metropolitano de Quito, duró algo más de **tres horas**. La mayoría de los concejales que intervinieron fue de la **oposición.** Por tanto, **cuestionaron** las **cifras** que se manejan, la reducción de inversiones en las áreas sociales y la prioridad en Movilidad, sobre todo el Metro de Quito y en el gasto corriente, para pagar[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
+
+La concejala **Analía Ledesma** hizo quizá una de las mejores exposiciones para entender cómo se distribuirán los ingresos el próximo año. Puso por caso el que cada quiteño tiene 100 dólares para repartir. Lo haría de la siguiente manera.
+
+* Ambiente: 2 dólares.
+* Gestión de la Buena Vecindad y obras de Cercanía (coordinación territorial, gobernabilidad y participación: 5.59.
+* Hábitat y ordenamiento territorial: 3,31 dólares.
+* Movilidad (subsidio a los sistemas metropolitanos de transporte) 43,83 dólares.
+* Seguridad: 0,44
+* Reactivación económica; 2,17 dólares
+* Funcionamiento del Municipio 37,23 dólares.
+* Cultura: 1,74 dólares.
+* Educación: 1,70 dólares.
+* Salud: 1,65.
+* inclusión social: 0, 27 de dólar.
+
+Entonces, solo para la **Movilidad** y para pagar el **funcionamiento** del **Municipio**: 81.06 de esos 100 dólares de cada quiteño.
+
+La ‘Metrodependencia’ en el presupuesto de Quito
+------------------------------------------------
+
+**Aulestia** sostuvo que **no se han acogido las propuestas de los concejales** ni de la sociedad civil. “Vemos cómo se **prioriza** más en **consultorías**, en tratar de contratar servicios profesionales. **Solo en este año se destinó 40 millones de dólares para consultorías** y ahora también se quieren colocar una partida de cerca de **500 000 dólares** para la **reestructuración de rutas y frecuencias**“.
+
+Para el concejal, ya hay un **Plan Maestro de Movilidad** se pagó más de **1,2 millones de dólares**, que hay que desempolvar y ponerlo en práctica. “Están acostumbrados a llenarse de herramientas de planificación, pero las guardan en algún cajón y no las ponen en práctica”.
+
+La poca ejecución del presupuesto de Quito
+------------------------------------------
+
+En el debate, uno de los cuestionamientos mayores fue la poca ejecución presupuestaria que ha tenido el Municipio. **Fidel Chamba**, presidente de la **Comisión de Presupuesto**, señaló que uno de los mayores problemas es la **ejecución del presupuesto.** Hasta el 30 de noviembre, solo se ha usado el 47% del presupuesto.
+
+Puso por ejemplo la **Secretaría de Coordinación Territorial.** “Esta Secretaría se dirige al fortalecimiento a parroquias rurales y comunas. Lamentablemente, apenas está ejecutado el 27,46%”.
+
+Al ser la **movilidad** la destinataria de la mayor partida presupuestaria, Chamba presentó la ejecución del 2024: 56,47% al 30 de noviembre. En este presupuesto para el año 2025 se está asignando 439,3 millones, es decir, se incrementa alrededor de 20 millones. Entonces, “el mensaje es que los que no fueron capaces de ejecutar el presupuesto, deben renunciar de su cargo”, dijo Chamba.
+
+Alcalde defiende el presupuesto para la burocracia
+--------------------------------------------------
+
+Al alcalde de Quito, Pabel Muñoz, defendió el trabajo del Municipio y la ejecución presupuestaria realizada hasta el momento. **“Nunca ofrecí una ejecución del 100%** por las propias trabas del sistema”, dijo.
+
+Añadió que “ustedes dicen que no ven obras, pero la ciudadanía está viendo más obras que en años pasados. Los que tendrán la razón de juzgarnos democráticamente serán los ciudadanos”.
+
+Cortes de luz en Guayaquil este miércoles 11 de diciembre
+=========================================================
+
+Los cortes de luz en Guayaquil para este miércoles 11 de diciembre son de hasta tres horas continuas.
+-----------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil para este miércoles 11 de diciembre son definidos por CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-guayaquil-miercoles-11-diciembre.jpg)
+
+Los **cortes de luz** en **Guayaquil** este **miércoles 11 de diciembre** de 2024 son de tres horas.
+
+**CNEL** estableció la programación de horarios por sectores para mañana.
+
+### Más noticias:
+
+* [Daniel Noboa anunció el fin de los apagones en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-anuncio-fin-apagones-ecuador.html "Daniel Noboa anunció el fin de los apagones en Ecuador")
+* [El embalse de la central Mazar subió dos metros en una semana](https://www.elcomercio.com/actualidad/negocios/embalse-central-mazar-subio-metros-semana.html "El embalse de la central Mazar subió dos metros en una semana")
+
+Horarios de los cortes de luz en Guayaquil este miércoles 11 de diciembre
+-------------------------------------------------------------------------
+
+El presidente **Daniel Noboa** anunció, este martes que el 20 de diciembre, el fin de los cortes de luz programados por la crisis energética.
+
+El Gobierno señaló que existe una **recuperación** de capacidad instalada y la incorporación de nueva generación de energía.
+
+Además, la **compra** de energía a **Colombia** y el aumento de los caudales y los embalses que abastecen a hidroeléctricas como **Mazar** y **Paute**, que permiten tomar esta nueva medida.
+
+Así, **Ecuador** no llegaría a los tres meses de los cortes de luz programados a causa de la crisis energética por la dependencia de las **lluvias**.
+
+La suspensión de **energía eléctrica** empezó el 23 de septiembre en todo el país.
+
+A partir de esa fecha, los ecuatorianos han tenido hasta **14 horas diarias** de cortes de luz.
+
+El período diario más reducido de cortes de luz es el de la semana actual, con la suspensión del servicio de energía eléctrica de hasta **tres horas.**
+
+En **Guayaquil**, **CNEL** estableció un mismo cronograma desde el lunes 9 de diciembre hasta el viernes 13 de diciembre.
+
+Los cortes para el **sector residencial** son de tres horas continuas en la capital, van desde las 00:00 hasta las 24:00, dependiendo del sector.
+
+En tanto, para el **sector industrial**, los cortes también son de tres horas, hasta el viernes.
+
+A continuación, los **horarios de cortes de luz en Guayaquil para este miércoles 11 de diciembre de 2024**:
