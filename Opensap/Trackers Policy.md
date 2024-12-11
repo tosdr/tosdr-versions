@@ -24,17 +24,6 @@ You can access the content when you visit the site, but if you want to track you
 Explore all courses
 -------------------
 
-Explore responsible AI practices
---------------------------------
-
-Don't miss out on this opportunity to enhance your knowledge!  
-Join us in November for the new massive open online course (MOOC) [Putting AI Ethics into Practice at SAP](https://learning.sap.com/learning-journeys/putting-ai-ethics-into-practice-at-sap?url_id=ctabutton-glo-mooc-AIEthics).  
-Gain insights into the importance and principles of AI ethics, SAP's ethics governance framework, and the rules for employees in the development, deployment, use, and sale of AI systems.  
-
-[Join here](https://open.sap.com/learning-journeys/putting-ai-ethics-into-practice-at-sap?url_id=ctabutton-glo-mooc-AIEthics)
-
-![Hand over symbolic pawn family - stock photo.](/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fblt4e79a2501da5d16b%2Fblt2dc1b4e1ee4df9f4%2F670e85eef70c21669903acee%2F286966_16_9.jpg%3Fheight%3D600&w=3840&q=75)
-
 SAP Learning Group
 ------------------
 
