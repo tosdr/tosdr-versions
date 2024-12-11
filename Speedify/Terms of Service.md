@@ -129,11 +129,11 @@ Speedify is the only app that combines all of your Internet connections to keep 
 Upcoming Events
 ---------------
 
-Dec 11
+Dec 18
 
 10:00 am - 11:00 am EST
 
-### [12/11 @ 10am EST – How does Speedify work with BAD packet loss? | Ask the CEO your tech questions](https://speedify.com/event/12-11-10am-est-how-does-speedify-work-with-bad-packet-loss-ask-the-ceo-your-tech-questions/ "12/11 @ 10am EST – How does Speedify work with BAD packet loss? | Ask the CEO your tech questions")
+### [12/18 @ 10am EST – Can one weaker connection slow you down? | Ask the CEO your tech questions](https://speedify.com/event/12-18-10am-est-can-one-weaker-connection-slow-you-down-ask-the-ceo-your-tech-questions/ "12/18 @ 10am EST – Can one weaker connection slow you down? | Ask the CEO your tech questions")
 
 [View Calendar](https://speedify.com/calendar/ "View more events.")
 
