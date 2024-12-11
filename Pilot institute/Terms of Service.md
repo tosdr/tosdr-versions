@@ -18,7 +18,7 @@ Terms and Conditions
 
 Any information that Pilot Institute and its employees, contractors, or associates provide either in writing or in videos does not constitute legal advice and is for informational purposes only. You must consult with a lawyer to verify any information for accuracy, omissions, and more.
 
-**Important Notice:** We offer a $175 money-back guarantee on certain paid classes if you take one of our courses and fail the corresponding FAA test on your first try. This is subject to proving that you took the test and you failed and also proving that you completed 100% of the course along with 2 of our practice exams over 80% within 90 days. If your course was refunded, you are not eligible for the 1st test pass guarantee.
+**Important Notice:** We offer a $175 money-back guarantee on certain paid classes if you take one of our courses and fail the corresponding FAA test on your first try. This is subject to proving that you took the test and you failed and also proving that you completed 100% of the course along with 2 of our practice exams over 80% within 90 days. If your course was refunded, you are not eligible for the 1st test pass guarantee. Customers are only eligible to receive the $175 money back guarantee once per purchase. 
 
 Pilot Institute offers a 30-day 100% satisfaction guarantee on all of our paid courses. If you’re not happy, we will refund your course within 30 days of purchase. We reserve the right not to process a refund if you complete more than 80% of the course. 
 
