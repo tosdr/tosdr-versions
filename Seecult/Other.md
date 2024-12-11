@@ -213,18 +213,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
-    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
-    
-    **19.09.2024 | 10:00**
-    
-    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
-    
-    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
-    
-    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
-    
-    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
     [10:00 Antonio Pichillá Quiacaín, LJ](javascript:void(0);)
     
     **19.09.2024 | 10:00**
@@ -238,6 +226,18 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     Kustosinja razstave: Yasmín Martín Vodopivec
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
+    
+    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
+    
+    **19.09.2024 | 10:00**
+    
+    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
+    
+    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
+    
+    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
+    
+    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
     
     [10:00 Slikarska zbirka Muzeja za umetnost in obrt Zagreb, LJ](javascript:void(0);)
     
@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/manik/manik-full-size-image/kcb-seecult01-web.jpg?itok=oNDwcnUI)](http://seecult.org/galerija/galerija-umetnika/manik/manik-full-size-image)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retribution/odmazda-skoplje/sarah-palin.jpg?itok=Ij3Tw-y4)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-retribution-odmazda/retributionodmazda-skoplje)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/laurie-anderson-skoplje/lori4-001.jpg?itok=KSR0vqzf)](http://seecult.org/galerija/foto-galerija/foto-arhiva/laurie-anderson-skoplje)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/mermer-i-zvuci/park-skulptura/arandjelovac-005.jpg?itok=WAFLuCCO)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/mermer-i-zvuci/park-skulptura)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -314,6 +314,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Ako ne kontrolišemo – ingnorišemo, to je zvanična kulturna politika](http://seecult.org/vest/ako-ne-kontrolisemo-ingnorisemo-je-zvanicna-kulturna-politika)
 * [Direktorka JDP ponovo u UO UTE](http://seecult.org/vest/direktorka-jdp-ponovo-u-uo-ute)
 * [Buden gost Filozofskog teatra](http://seecult.org/vest/buden-gost-filozofskog-teatra-0)
 * [Provokativna završnica 12. Vizualizatora](http://seecult.org/vest/provokativna-zavrsnica-12-vizualizatora)
@@ -323,7 +324,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Osuda nasilja nad muzičarima BGF, otkazan koncert](http://seecult.org/vest/osuda-nasilja-nad-muzicarima-bgf-otkazan-koncert)
 * [Dobričin prsten uručen Aniti Mančić](http://seecult.org/vest/dobricin-prsten-urucen-aniti-mancic)
 * [Hvala i slava Raši Todosijeviću](http://seecult.org/vest/hvala-i-slava-rasi-todosijevicu)
-* [Dobitnici nagrade Miloš N. Đurić](http://seecult.org/vest/dobitnici-nagrade-milos-n-duric)
 
 * [Konkursi](#tab1_1)
 
