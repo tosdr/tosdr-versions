@@ -93,11 +93,11 @@ Nov 14, 2024 121 Comments Off on Why Do Kids Need Teeth Extractions? Common Reas
 
 ##### [Pulpectomy vs. Root Canal: A Parent’s Guide to Tooth Treatment for Kids](https://sandiegokidsdentist.com/pulpectomy-vs-root-canal-a-parents-guide-to-tooth-treatment-for-kids/)
 
-Sep 16, 2024 337 Comments Off on Pulpectomy vs. Root Canal: A Parent’s Guide to Tooth Treatment for Kids
+Sep 16, 2024 338 Comments Off on Pulpectomy vs. Root Canal: A Parent’s Guide to Tooth Treatment for Kids
 
 ##### [Common Bite Issues and Their Solutions](https://sandiegokidsdentist.com/common-bite-issues-and-their-solutions/)
 
-Jul 23, 2024 550 Comments Off on Common Bite Issues and Their Solutions
+Jul 23, 2024 552 Comments Off on Common Bite Issues and Their Solutions
 
 Quick Links
 -----------
