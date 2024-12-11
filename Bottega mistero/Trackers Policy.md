@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/the-hello-kitty-murder-l-omicidio-di-hello-kitty/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/dimmi-che-seno-hai-e-ti-diro-chi-sei-tette-boobs/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
