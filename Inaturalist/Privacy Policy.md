@@ -66,7 +66,7 @@ iNaturalist discloses Personal Information to contractors, service providers, co
 
 Some of iNaturalist’s contractors, service providers and affiliated organizations may be located outside of Your home country; by using iNaturalist's Platform, You consent to the transfer of such information to them. iNaturalist will not rent or sell Personal Information to anyone. We share your Personal information with entities that support Our Websites and data, communicating with You, fraud and spam detection, data analytics, and other legitimate business purposes including communicating with the Apple App Store, the Google Play Store, Google Analytics, Google Firebase and New Relic.
 
-We use Microsoft Azure and Amazon Web Services, Google Maps Platform (to display geographic content), and SendGrid. If You choose to participate in some optional services, We will share Personal Information with entities that make those services possible, such as Civilized Discourse Construction Kit (for the iNaturalist Forum); Freskworks (for support emails); Typeform (for optional surveys); Donorbox, PayPal, Stripe, and Double the Donation (for charitable donations); FreeWill (for legacy giving); and Threadless (for the iNaturalist Store). You can withdraw from participation in these optional services by contacting them directly.
+We use Microsoft Azure and Amazon Web Services, Google Maps Platform (to display geographic content), and SendGrid. If You choose to participate in some optional services, We will share Personal Information with entities that make those services possible, such as Civilized Discourse Construction Kit (for the iNaturalist Forum); Freshworks (for support emails); Typeform (for optional surveys); Donorbox, PayPal, Stripe, and Double the Donation (for charitable donations); FreeWill (for legacy giving); and Threadless (for the iNaturalist Store). You can withdraw from participation in these optional services by contacting them directly.
 
 Other than as described above, iNaturalist discloses Personal Information only when required to do so by law, or when iNaturalist believes in good faith that disclosure is reasonably necessary to protect the property or rights of iNaturalist, third parties, or the public at large. Unless authorized by You through Your opt-in, or as provided above, We will make Your Personal Information available to non-affiliated third parties only in the following circumstances:
 
@@ -208,7 +208,7 @@ _This Privacy Policy was last modified on August 30, 2024._
 
 © Copyright 2024 iNaturalist. All Rights Reserved.
 
-Revised on August 30, 2024 08:37 PM by [![carrieseltzer](https://static.inaturalist.org/attachments/users/icons/7580/mini.jpg?1690990943 "carrieseltzer")](https://www.inaturalist.org/users/7580) [carrieseltzer](https://www.inaturalist.org/people/carrieseltzer "carrieseltzer")
+Revised on December 11, 2024 03:39 AM by [![kvangork](https://static.inaturalist.org/attachments/users/icons/4121383/mini.jpeg?1725513551 "kvangork")](https://www.inaturalist.org/users/4121383) [kvangork](https://www.inaturalist.org/people/kvangork "kvangork")
 
 [About](https://www.inaturalist.org/pages/about)
 
