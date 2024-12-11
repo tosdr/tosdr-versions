@@ -72,7 +72,7 @@ Country UK AU & NZ SG MY US IE
     
     Latest News
     
-    ![](/media/tchdpgk1/screenshot-2024-12-05-130556.png?rmode=max&width=230&height=295&v=1db4705d3ff63e0)
+    ![](/media/tchdpgk1/screenshot-2024-12-05-130556.png?width=300&height=295&v=1db4705d3ff63e0)
     
     Posted 5th December 2024
     
@@ -80,7 +80,7 @@ Country UK AU & NZ SG MY US IE
     
     [Read article on The Access Group announces new appointments as part of USA expansion](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-announces-new-appointments-as-part-of-usa-expansion/)
     
-    ![](/media/tgbjp1yw/blogbanner_acquisitions.png?rmode=max&width=230&height=295&v=1db46a810f2f6d0)
+    ![](/media/tgbjp1yw/blogbanner_acquisitions.png?width=300&height=295&v=1db46a810f2f6d0)
     
     Posted 5th December 2024
     
@@ -88,7 +88,7 @@ Country UK AU & NZ SG MY US IE
     
     [Read article on The Access Group launches APAC Hospitality Division with the acquisition of STAAH](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-launches-apac-hospitality-division-with-the-acquisition-of-staah/)
     
-    ![](/media/xvbfjgrv/screenshot-2024-11-27-174323.png?rmode=max&width=230&height=295&v=1db417c6b112f00)
+    ![](/media/xvbfjgrv/screenshot-2024-11-27-174323.png?width=300&height=295&v=1db417c6b112f00)
     
     Posted 28th November 2024
     
@@ -96,7 +96,7 @@ Country UK AU & NZ SG MY US IE
     
     [Read article on The Access Group helps students gain skills and experience to kickstart careers in tech](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-helps-students-gain-skills-and-experience-to-kickstart-careers-in-tech/)
     
-    ![](/media/bddfnfg4/screenshot-2024-11-22-122950.png?rmode=max&width=230&height=295&v=1db3cce7b93b990)
+    ![](/media/bddfnfg4/screenshot-2024-11-22-122950.png?width=300&height=295&v=1db3cce7b93b990)
     
     Posted 22nd November 2024
     
@@ -104,7 +104,7 @@ Country UK AU & NZ SG MY US IE
     
     [Read article on The Access Group to Acquire Charity CRM Provider Donorfy](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-to-acquire-charity-crm-provider-donorfy/)
     
-    ![](/media/dcoajkae/bannerads_group_airesearchreport_1200x627-min.png?rmode=max&width=230&height=295&v=1db3a694cb0e4c0)
+    ![](/media/dcoajkae/bannerads_group_airesearchreport_1200x627-min.png?width=300&height=295&v=1db3a694cb0e4c0)
     
     Posted 19th November 2024
     
@@ -112,7 +112,7 @@ Country UK AU & NZ SG MY US IE
     
     [Read article on Generative AI: A third of UK workers admit to using AI covertly to get ahead](https://www.theaccessgroup.com/en-gb/about/news/generative-ai-a-third-of-uk-workers-admit-to-using-ai-covertly-to-get-ahead/)
     
-    ![](/media/ul5bzsny/frame-3-2.png?rmode=max&width=230&height=295&v=1db2c603cac50d0)
+    ![](/media/ul5bzsny/frame-3-2.png?width=300&height=295&v=1db2c603cac50d0)
     
     Posted 1 November 2024
     
@@ -120,7 +120,7 @@ Country UK AU & NZ SG MY US IE
     
     [Read article on The Access Group to acquire US digital guest engagement provider Paytronix](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-to-acquire-us-digital-guest-engagement-provider-paytronix/)
     
-    ![](/media/z0lnkjso/frame-3.png?rmode=max&width=230&height=295&v=1db2b72834cb4b0)
+    ![](/media/z0lnkjso/frame-3.png?width=300&height=295&v=1db2b72834cb4b0)
     
     Posted 31 October 2024
     
@@ -128,7 +128,7 @@ Country UK AU & NZ SG MY US IE
     
     [Read article on The Access Group acquires AI-powered candidate presentation solution, HireAra](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-acquires-ai-powered-candidate-presentation-solution-hireara/)
     
-    ![](/media/i14bvfmg/grads-romania-3-1.jpg?rmode=max&width=230&height=295&v=1db1af5709f7650)
+    ![](/media/i14bvfmg/grads-romania-3-1.jpg?width=300&height=295&v=1db1af5709f7650)
     
     Posted 11 October 2024
     
@@ -136,7 +136,7 @@ Country UK AU & NZ SG MY US IE
     
     [Read article on The Access Group Romanian GO Centre doubles in size, creating 654 jobs](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-romanian-go-centre-doubles-in-size-creating-654-jobs/)
     
-    ![](/media/u51ctfdu/adobestock_162465692-1-min.jpeg?rmode=max&width=230&height=295&v=1db14518622dda0)
+    ![](/media/u51ctfdu/adobestock_162465692-1-min.jpeg?width=300&height=295&v=1db14518622dda0)
     
     Posted 2 October 2024
     
@@ -144,7 +144,7 @@ Country UK AU & NZ SG MY US IE
     
     [Read article on The Access Group has entered into an agreement to acquire best in class job management platform, Tradify](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-has-entered-into-an-agreement-to-acquire-best-in-class-job-management-platform-tradify/)
     
-    ![](/media/qogbosyo/qikserve3.png?rmode=max&width=230&height=295&v=1db0f2861b9b2f0)
+    ![](/media/qogbosyo/qikserve3.png?rxy=0.6861446587717239,0.538730498706369&width=300&height=295&v=1db0f2861b9b2f0)
     
     Posted 25 September 2024
     
@@ -152,7 +152,7 @@ Country UK AU & NZ SG MY US IE
     
     [Read article on The Access Group announces the acquisition of hospitality digital order and pay specialist QikServe](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-announces-the-acquisition-of-hospitality-digital-order-and-pay-specialist-qikserve/)
     
-    ![](/media/nxdh1vjr/screenshot-2024-09-04-152957.png?rmode=max&width=230&height=295&v=1daff51988a8660)
+    ![](/media/nxdh1vjr/screenshot-2024-09-04-152957.png?width=300&height=295&v=1daff51988a8660)
     
     Posted 5th September 2024
     
@@ -258,7 +258,6 @@ About Access
 
 Contact
 
-* [0845 345 3300](tel:0845 345 3300)
 * [Our Locations](https://www.theaccessgroup.com/en-gb/about/our-offices/)
 * * [](https://x.com/theaccessgroup)
     * [](https://www.linkedin.com/company/accessgroup)
