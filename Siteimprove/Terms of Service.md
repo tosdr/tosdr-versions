@@ -13,7 +13,7 @@ Close menu
     
     [Why Siteimprove](https://siteimprove.com/why-siteimprove/)
     
-    * [![How It Works](/globalassets/media/redesign2024/icons/outlined_icon_nav_how_it_works-22.png)
+    * [![How It Works](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_how_it_works-22.png)
         
         How It Works](https://siteimprove.com/why-siteimprove/how-it-works/)
     
@@ -21,67 +21,67 @@ Close menu
     
     [Digital Accessibility & Governance](https://siteimprove.com/platform/accessibility-digital-governance/)
     
-    * [![Accessibility](/globalassets/media/redesign2024/icons/outlined_icon_nav_core_a11y_digital_governance-1.png)
+    * [![Accessibility](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_core_a11y_digital_governance-1.png)
         
         Accessibility](https://siteimprove.com/platform/accessibility-digital-governance/accessibility/)
-    * [![Quality Assurance & Custom Rules](/globalassets/media/redesign2024/icons/icon_nav_core1_qa_custom_rules-1.png)
+    * [![Quality Assurance & Custom Rules](/4aea40/globalassets/media/redesign2024/icons/icon_nav_core1_qa_custom_rules-1.png)
         
         Quality Assurance & Custom Rules](https://siteimprove.com/platform/accessibility-digital-governance/qa-and-custom-rules/)
-    * [![Designer & Developer Tools](/globalassets/media/redesign2024/icons/icon_nav_core1_designer_dev.png)
+    * [![Designer & Developer Tools](/4aea40/globalassets/media/redesign2024/icons/icon_nav_core1_designer_dev.png)
         
         Designer & Developer Tools](https://siteimprove.com/platform/accessibility-digital-governance/design-and-developer-tools/)
     
     [Digital Experience Analytics](https://siteimprove.com/platform/digital-experience-analytics/)
     
-    * [![Content & Behavior Analytics](/globalassets/media/redesign2024/icons/icon_nav_core2_content_behavior.png)
+    * [![Content & Behavior Analytics](/4aea40/globalassets/media/redesign2024/icons/icon_nav_core2_content_behavior.png)
         
         Content & Behavior Analytics](https://siteimprove.com/platform/digital-experience-analytics/content-and-behavior-analytics/)
-    * [![Journey & Funnel Analysis](/globalassets/media/redesign2024/icons/icon_nav_core2_journey_funnel.png)
+    * [![Journey & Funnel Analysis](/4aea40/globalassets/media/redesign2024/icons/icon_nav_core2_journey_funnel.png)
         
         Journey & Funnel Analysis](https://siteimprove.com/platform/digital-experience-analytics/funnel-analysis/)
-    * [![Visitor Engagement & KPIs](/globalassets/media/redesign2024/icons/icon_nav_core2_vistor_kpis.png)
+    * [![Visitor Engagement & KPIs](/4aea40/globalassets/media/redesign2024/icons/icon_nav_core2_vistor_kpis.png)
         
         Visitor Engagement & KPIs](https://siteimprove.com/platform/digital-experience-analytics/visitor-engagement-kpis/)
     
     [Search & Performance Marketing](https://siteimprove.com/platform/search-engine-marketing/)
     
-    * [![Unified Search Insights](/globalassets/media/redesign2024/icons/icon_nav_core3_unified_search_insights.png)
+    * [![Unified Search Insights](/4aea40/globalassets/media/redesign2024/icons/icon_nav_core3_unified_search_insights.png)
         
         Unified Search Insights](https://siteimprove.com/platform/search-engine-marketing/united-search-insights/)
-    * [![Content Marketing](/globalassets/media/redesign2024/icons/icon_nav_core3_content_marketing.png)
+    * [![Content Marketing](/4aea41/globalassets/media/redesign2024/icons/icon_nav_core3_content_marketing.png)
         
         Content Marketing](https://siteimprove.com/platform/search-engine-marketing/content-marketing/)
-    * [![Competitive Research](/globalassets/media/redesign2024/icons/icon_nav_core3_competitive_research.png)
+    * [![Competitive Research](/4aea40/globalassets/media/redesign2024/icons/icon_nav_core3_competitive_research.png)
         
         Competitive Research](https://siteimprove.com/platform/search-engine-marketing/competitive-research/)
-    * [![SEO Insights Stream](/globalassets/media/redesign2024/icons/icon_nav_core3_ai_seo.png)
+    * [![SEO Insights Stream](/4aea40/globalassets/media/redesign2024/icons/icon_nav_core3_ai_seo.png)
         
         SEO Insights Stream](https://siteimprove.com/platform/search-engine-marketing/ai-seo-workflow-management/)
     
     [Cross-Channel Campaign Management](https://siteimprove.com/platform/cross-channel-ad-management/)
     
-    * [![Paid Search](/globalassets/media/redesign2024/icons/icon_nav_core4_paid_search.png)
+    * [![Paid Search](/4aea41/globalassets/media/redesign2024/icons/icon_nav_core4_paid_search.png)
         
         Paid Search](https://siteimprove.com/platform/cross-channel-ad-management/paid-search/)
-    * [![Paid Social](/globalassets/media/redesign2024/icons/icon_nav_core4_paid_social.png)
+    * [![Paid Social](/4aea40/globalassets/media/redesign2024/icons/icon_nav_core4_paid_social.png)
         
         Paid Social](https://siteimprove.com/platform/cross-channel-ad-management/paid-social/)
     
     [Platform Overview](https://siteimprove.com/platform/)
     
-    * [![AI at Siteimprove](/globalassets/media/redesign2024/icons/outlined_icon_nav_ai2.png)
+    * [![AI at Siteimprove](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_ai2.png)
         
         AI at Siteimprove](https://siteimprove.com/platform/ai-at-siteimprove/)
-    * [![Professional Services](/globalassets/media/redesign2024/icons/outlined_icon_nav_professional_services2.png)
+    * [![Professional Services](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_professional_services2.png)
         
         Professional Services](https://siteimprove.com/platform/professional-services/)
-    * [![Frontier](/globalassets/media/redesign2024/icons/outlined_icon_nav_frontier2.png)
+    * [![Frontier](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_frontier2.png)
         
         Frontier](https://siteimprove.com/frontier/)
-    * [![Integrations](/globalassets/media/redesign2024/icons/outlined_icon_nav_integrations2.png)
+    * [![Integrations](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_integrations2.png)
         
         Integrations](https://siteimprove.com/integrations/)
-    * [![MarketMuse](/globalassets/media/redesign2024/icons/icon_nav_marketmuse-1.png)
+    * [![MarketMuse](/4aea40/globalassets/media/redesign2024/icons/icon_nav_marketmuse-1.png)
         
         MarketMuse](https://siteimprove.com/marketmuse/)
     
@@ -89,73 +89,73 @@ Close menu
     
     By Industry 
     
-    * [![Finance](/globalassets/media/redesign2024/icons/outlined_icon_nav_finance2.png)
+    * [![Finance](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_finance2.png)
         
         Finance](https://siteimprove.com/industries/financial-services/)
-    * [![Healthcare](/globalassets/media/redesign2024/icons/outlined_icon_nav_healthcare2.png)
+    * [![Healthcare](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_healthcare2.png)
         
         Healthcare](https://siteimprove.com/industries/healthcare/)
-    * [![Higher Education](/globalassets/media/redesign2024/icons/outlined_icon_nav_high_education2.png)
+    * [![Higher Education](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_high_education2.png)
         
         Higher Education](https://siteimprove.com/industries/higher-education/)
-    * [![Government](/globalassets/media/redesign2024/icons/outlined_icon_nav_government2.png)
+    * [![Government](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_government2.png)
         
         Government](https://siteimprove.com/industries/government/)
-    * [![Manufacturing](/globalassets/media/redesign2024/icons/outlined_icon_nav_manufacturing2.png)
+    * [![Manufacturing](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_manufacturing2.png)
         
         Manufacturing](https://siteimprove.com/industries/manufacturing/)
-    * [![Retail](/globalassets/media/redesign2024/icons/outlined_icon_nav_retail2.png)
+    * [![Retail](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_retail2.png)
         
         Retail](https://siteimprove.com/industries/retail/)
     
     By Role
     
-    * [![Accessibility Leaders](/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_a11y_leaders.png)
+    * [![Accessibility Leaders](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_a11y_leaders.png)
         
         Accessibility Leaders](https://siteimprove.com/solutions/accessibility-leaders/)
-    * [![Marketing Leaders ](/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_marketing_leaders2.png)
+    * [![Marketing Leaders ](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_marketing_leaders2.png)
         
         Marketing Leaders](https://siteimprove.com/solutions/marketing-leaders/) 
-    * [![Content Marketers ](/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_content_marketers2.png)
+    * [![Content Marketers ](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_content_marketers2.png)
         
         Content Marketers](https://siteimprove.com/solutions/content-marketers/) 
-    * [![Performance Marketers ](/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_performance_marketers2.png)
+    * [![Performance Marketers ](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_performance_marketers2.png)
         
         Performance Marketers](https://siteimprove.com/solutions/performance-marketers/) 
-    * [![Development & Design](/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_dev_design2.png)
+    * [![Development & Design](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_dev_design2.png)
         
         Development & Design](https://siteimprove.com/solutions/development-and-design-ux/)
-    * [![WebOps](/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_webops2.png)
+    * [![WebOps](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_teams_webops2.png)
         
         WebOps](https://siteimprove.com/solutions/webops/)
     
     By Goal
     
-    * [![Enhance Reputation](/globalassets/media/redesign2024/icons/outlined_icon_nav_goal_enhance_reputation2.png)
+    * [![Enhance Reputation](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_goal_enhance_reputation2.png)
         
         Enhance Reputation](https://siteimprove.com/solutions/enhance-reputation/)
-    * [![Increase Reach](/globalassets/media/redesign2024/icons/outlined_icon_nav_goal_increase_reach2.png)
+    * [![Increase Reach](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_goal_increase_reach2.png)
         
         Increase Reach](https://siteimprove.com/solutions/increase-reach/)
-    * [![Generate Revenue](/globalassets/media/redesign2024/icons/outlined_icon_nav_goal_generate_revenue2.png)
+    * [![Generate Revenue](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_goal_generate_revenue2.png)
         
         Generate Revenue](https://siteimprove.com/solutions/generate-revenue/)
-    * [![Optimize ROI](/globalassets/media/redesign2024/icons/outlined_icon_nav_goal_optimize_roi2-12.png)
+    * [![Optimize ROI](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_goal_optimize_roi2-12.png)
         
         Optimize ROI](https://siteimprove.com/solutions/optimize-roi/)
     
     Partnerships
     
-    * [![Our Partners](/globalassets/media/redesign2024/icons/outlined__icon_nav_our_partners2-12.png)
+    * [![Our Partners](/4aea40/globalassets/media/redesign2024/icons/outlined__icon_nav_our_partners2-12.png)
         
         Our Partners](https://siteimprove.com/partners/)
-    * [![Optimizely Partner Page](/globalassets/media/redesign2024/icons/outlined_icon_nav_optimizely.png)
+    * [![Optimizely Partner Page](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_optimizely.png)
         
         Optimizely Partner Page](https://siteimprove.com/optimizely-partner-page/)
-    * [![Become a Partner](/globalassets/media/redesign2024/icons/outlined_icon_nav_become_a_partner2.png)
+    * [![Become a Partner](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_become_a_partner2.png)
         
         Become a Partner](https://siteimprove.com/partners/become-a-partner/)
-    * [![Partner Portal](/globalassets/media/redesign2024/icons/outlined_icon_nav_partner_portal2.png)
+    * [![Partner Portal](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_partner_portal2.png)
         
         Partner Portal](https://partners.siteimprove.com/)
     
@@ -164,28 +164,28 @@ Close menu
     
     Learn
     
-    * [![Siteimprove 101](/globalassets/media/redesign2024/icons/outlined_icon_nav_siteimprove_1012.png)
+    * [![Siteimprove 101](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_siteimprove_1012.png)
         
         Siteimprove 101](https://siteimprove.com/siteimprove-101/)
-    * [![Siteimprove Toolkit](/globalassets/media/redesign2024/icons/outlined_icon_nav_toolkit2.png)
+    * [![Siteimprove Toolkit](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_toolkit2.png)
         
         Siteimprove Toolkit](https://siteimprove.com/toolkit/)
-    * [![Compliance](/globalassets/media/redesign2024/icons/outlined_icon_nav_compliance2.png)
+    * [![Compliance](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_compliance2.png)
         
         Compliance](https://siteimprove.com/web-accessibility-compliance/)
-    * [![Glossary](/globalassets/media/redesign2024/icons/outlined_icon_nav_glossary2.png)
+    * [![Glossary](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_glossary2.png)
         
         Glossary](https://siteimprove.com/glossary/)
-    * [![Blog](/globalassets/media/redesign2024/icons/outlined_icon_nav_blog_v22.png)
+    * [![Blog](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_blog_v22.png)
         
         Blog](https://siteimprove.com/blog/)
     
     Connect
     
-    * [![Events](/globalassets/media/redesign2024/icons/outlined_icon_nav_calendar2.png)
+    * [![Events](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_calendar2.png)
         
         Events](https://siteimprove.com/events/)
-    * [![Press](/globalassets/media/redesign2024/icons/outlined_icon_nav_press2.png)
+    * [![Press](/4aea40/globalassets/media/redesign2024/icons/outlined_icon_nav_press2.png)
         
         Press](https://siteimprove.com/press/)
     
@@ -193,7 +193,7 @@ Close menu
     
     * Curious where your site performance stands today? Get a comprehensive, fully customized report detailing both strengths and actionable opportunities to improve.
         
-        ![](/globalassets/media/redesign2024/digital_insights_report.png)
+        ![](/4a8743/globalassets/media/redesign2024/digital_insights_report.png)
     
 
 [Request a demo](https://siteimprove.com/demo-request/)
@@ -339,10 +339,10 @@ Support
 * [Developer Center](https://developer.siteimprove.com/)
 * [System Status](https://status.siteimprove.com/)
 
-*  [![](/globalassets/media/shared/social/linkedin_updated.svg) LinkedIn icon - Visit us on LinkedIn](https://www.linkedin.com/company/siteimprove)
-*  [![](/globalassets/media/shared/social/twitter.svg) Twitter icon - Visit us on Twitter](https://twitter.com/siteimprove)
-*  [![](/globalassets/media/shared/social/facebook.svg) Facebook icon - Visit us on Facebook](https://www.facebook.com/Siteimprove)
-*  [![](/globalassets/media/shared/social/youtube.svg) Youtube icon - Visit us on Youtube](https://www.youtube.com/channel/UCVost3tZNte0o4V2motH2IA)
+*  [![](/4a95e6/globalassets/media/shared/social/linkedin_updated.svg) LinkedIn](https://www.linkedin.com/company/siteimprove)
+*  [![](/4a88c1/globalassets/media/shared/social/twitter.svg) Twitter](https://twitter.com/siteimprove)
+*  [![](/4a88a2/globalassets/media/shared/social/facebook.svg) Facebook](https://www.facebook.com/Siteimprove)
+*  [![](/4a88b4/globalassets/media/shared/social/youtube.svg) Youtube](https://www.youtube.com/channel/UCVost3tZNte0o4V2motH2IA)
 
 ![Three award badges, each shaped like a shield with the "G2" logo at the top, and a red banner across the middle stating "Leader Fall 2024".](/globalassets/media/redesign2024/leader_fall_2024_new.png)
 
