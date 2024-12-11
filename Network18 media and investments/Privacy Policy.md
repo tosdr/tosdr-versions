@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
+    * [Bengaluru Techie Suicide](https://www.news18.com/viral/bengaluru-engineer-suicide-internet-demands-accenture-to-fire-atul-subhashs-wife-9152090.html)
+    * [Shark Tank India](https://www.news18.com/movies/shark-tank-india-makers-breaks-silence-on-zomato-ceo-deepinder-goyal-being-kicked-out-of-reality-show-9151853.html)
     * [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
-    * [Bengaluru Techie](https://www.news18.com/viral/justice-is-due-up-man-dies-by-suicide-in-bengaluru-leaves-behind-24-page-note-9151033.html)
-    * [Sobhita Dhulipala](https://www.news18.com/lifestyle/sobhita-dhulipala-shines-in-gold-at-cocktail-hour-after-tying-the-knot-with-naga-chaitanya-9150928.html)
-    * [#MenToo](https://www.news18.com/viral/bengaluru-engineer-atul-subhash-men-too-trending-on-x-netizens-demand-justice-latest-news-9151871.html)
-    * [Kartik Aaryan](https://www.news18.com/movies/kartik-aaryan-says-he-wont-get-industry-support-despite-bhool-bhulaiyaa-3-success-i-still-have-to-hustle-9151084.html)
-    * [Trisha Krishnan](https://www.news18.com/web-stories/celebrities/5-trisha-krishnan-inspired-saree-blouses-for-wedding-season-2675055/)
+    * [Shaheen Shah Afridi](https://www.news18.com/cricket/shaheen-shah-afridi-creates-history-becomes-1st-pakistani-bowler-to-9152031.html)
+    * [SRK](https://www.news18.com/movies/shah-rukh-khan-was-dilip-kumars-neighbour-his-aunt-sent-medicines-for-saira-banu-from-london-dad-knew-him-viral-9152039.html)
+    * [Mushtaq Khan](https://www.news18.com/movies/stree-2-actor-mushtaq-khan-kidnapped-on-delhi-meerut-highway-tortured-for-12-hours-now-safe-9151886.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
+* [Bengaluru Techie Suicide](https://www.news18.com/viral/bengaluru-engineer-suicide-internet-demands-accenture-to-fire-atul-subhashs-wife-9152090.html)
+* [Shark Tank India](https://www.news18.com/movies/shark-tank-india-makers-breaks-silence-on-zomato-ceo-deepinder-goyal-being-kicked-out-of-reality-show-9151853.html)
 * [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
-* [Bengaluru Techie](https://www.news18.com/viral/justice-is-due-up-man-dies-by-suicide-in-bengaluru-leaves-behind-24-page-note-9151033.html)
-* [Sobhita Dhulipala](https://www.news18.com/lifestyle/sobhita-dhulipala-shines-in-gold-at-cocktail-hour-after-tying-the-knot-with-naga-chaitanya-9150928.html)
-* [#MenToo](https://www.news18.com/viral/bengaluru-engineer-atul-subhash-men-too-trending-on-x-netizens-demand-justice-latest-news-9151871.html)
-* [Kartik Aaryan](https://www.news18.com/movies/kartik-aaryan-says-he-wont-get-industry-support-despite-bhool-bhulaiyaa-3-success-i-still-have-to-hustle-9151084.html)
-* [Trisha Krishnan](https://www.news18.com/web-stories/celebrities/5-trisha-krishnan-inspired-saree-blouses-for-wedding-season-2675055/)
+* [Shaheen Shah Afridi](https://www.news18.com/cricket/shaheen-shah-afridi-creates-history-becomes-1st-pakistani-bowler-to-9152031.html)
+* [SRK](https://www.news18.com/movies/shah-rukh-khan-was-dilip-kumars-neighbour-his-aunt-sent-medicines-for-saira-banu-from-london-dad-knew-him-viral-9152039.html)
+* [Mushtaq Khan](https://www.news18.com/movies/stree-2-actor-mushtaq-khan-kidnapped-on-delhi-meerut-highway-tortured-for-12-hours-now-safe-9151886.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
