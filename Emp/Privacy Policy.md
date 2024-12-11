@@ -493,7 +493,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Kundenservice ist am nächsten Tag wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Ja, unser Kundenservice ist heute erreichbar bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
