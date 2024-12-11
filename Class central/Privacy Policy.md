@@ -398,11 +398,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [CodeSignal – The Duolingo of Coding Practice](https://www.classcentral.com/report/review-codesignal/)
-2. [10 Best Emotional Intelligence Courses for 2024](https://www.classcentral.com/report/best-emotional-intelligence-courses/)
-3. [2U Abandons Bootcamp Business, Announces More Layoffs](https://www.classcentral.com/report/2u-axes-trilogy-bootcamps-layoffs/)
-4. [6 Best Zoology Courses for 2024](https://www.classcentral.com/report/best-zoology-courses/)
-5. [10 Best Tableau Courses for 2024](https://www.classcentral.com/report/best-tableau-courses/)
+1. [\[2024\] 300+ Chemistry Courses to Expand Your Knowledge of the World](https://www.classcentral.com/report/chemistry-free-online-courses/)
+2. [Online Learning Deals & Discounts](https://www.classcentral.com/report/online-learning-deals/)
+3. [CodeSignal – The Duolingo of Coding Practice](https://www.classcentral.com/report/review-codesignal/)
+4. [10 Best Emotional Intelligence Courses for 2024](https://www.classcentral.com/report/best-emotional-intelligence-courses/)
+5. [2U Abandons Bootcamp Business, Announces More Layoffs](https://www.classcentral.com/report/2u-axes-trilogy-bootcamps-layoffs/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. java
+1. project management
     
-2. excel
+2. html
     
-3. finance
+3. flutter
     
 
 Popular subjects
 
-1. [Entrepreneurship
+1. [Artificial Intelligence
     
-    4,247 courses](https://www.classcentral.com/subject/entrepreneurship)
-2. [Web Development
+    14,474 courses](https://www.classcentral.com/subject/ai)
+2. [Machine Learning
     
-    13,907 courses](https://www.classcentral.com/subject/web-development)
+    17,511 courses](https://www.classcentral.com/subject/machine-learning)
 3. [Project Management
     
     4,294 courses](https://www.classcentral.com/subject/project-management)
 
 Popular courses
 
-1. [Precalculus: the Mathematics of Numbers, Functions and Equations
+1. [Psychology of Personal Growth
     
-    University of Padova](https://www.classcentral.com/course/precalculus-8988)
-2. [Understanding Multiple Sclerosis (MS)
+    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/personal-development-the-hong-kong-university-of--8857)
+2. [Paleontology: Theropod Dinosaurs and the Origin of Birds
     
-    University of Tasmania](https://www.classcentral.com/course/independent-understanding-multiple-sclerosis-ms-13338)
-3. [Vital Signs: Understanding What the Body Is Telling Us
+    University of Alberta](https://www.classcentral.com/course/theropods-birds-5236)
+3. [Introduction to Graphic Illustration
     
-    University of Pennsylvania](https://www.classcentral.com/course/vitalsigns-1887)
+    Cornish College of the Arts](https://www.classcentral.com/course/kadenze-introduction-to-graphic-illustration-3773)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
