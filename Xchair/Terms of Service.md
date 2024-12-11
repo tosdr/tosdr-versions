@@ -198,7 +198,7 @@ Terms of Use
 
 These Terms and Conditions (“Terms”) constitute an agreement between you (“Buyer,” “you,” or “your”) and X-CHAIR (“X-CHAIR,” “us”, “we”, or “our” and together with you, the “Parties”) concerning the purchase and sale of products (individually a “Product” and collectively the “Products”) through [www.xchair.com](https://www.xchair.com/) (“Site”). Upon acceptance of an order for Products placed by you (“Order”), we agree to supply the Products specified in the Order to you, under these Terms.
 
-1. **Changes**. These Terms are subject to change by X-CHAIR, without prior written notice at any time, in X-CHAIR’s sole discretion. Any changes to the Terms will be in effect as of the "Last Updated Date" referenced on the Site. You should review these Terms before purchasing any product that is available through this Site. If you do not agree with a change to the Terms, your sole remedy is to not access or use the Site. Your continued use of this Site after the "Last Updated Date" will constitute your acceptance of and agreement to such changes.
+1. **Modifications**.  You and X-CHAIR, agree that X-CHAIR may modify these Terms. To the extent permitted by applicable law, you agree that any modifications will take effect immediately upon posting on the Site.
 
 2. **Order Acceptance and Cancellation**. You agree that your Order is an offer to buy, under these Terms, all products listed in your Order. All Orders must be accepted by us, or we will not be obligated to sell the Products to you. We may choose not to accept orders at our sole discretion, even after we send you a confirmation email with your order number and details of the items you have ordered.
 
