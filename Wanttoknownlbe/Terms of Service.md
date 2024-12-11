@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/nieuw-kinderboek-geinspireerd-door-emoto-jij-bent-mooi-ontdek-het-zelf/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/de-onbewuste-media-vaccinatie-manipulatie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
