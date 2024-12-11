@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [A New Galaxy, Much Like Our Own](https://www.sciencedaily.com/releases/2024/12/241211143905.htm)
+* [AI Thought Knee X-Rays Show If You Drink Beer](https://www.sciencedaily.com/releases/2024/12/241211143855.htm)
+* [You Are What You Eat, and So Are Your Grandkids?](https://www.sciencedaily.com/releases/2024/12/241211125103.htm)
+* [Biological Diversity Not Just Due to Genes](https://www.sciencedaily.com/releases/2024/12/241211124342.htm)
 * [Source of the Vast Energy in Cosmic Rays](https://www.sciencedaily.com/releases/2024/12/241210142040.htm)
 * [Gene Therapy Reverses Heart Failure in Pigs](https://www.sciencedaily.com/releases/2024/12/241210115612.htm)
 * [Tiny Poops in Ocean to Help Solve Carbon Problem](https://www.sciencedaily.com/releases/2024/12/241210115607.htm)
 * [24 Hour Cognitive Boost from Exercise](https://www.sciencedaily.com/releases/2024/12/241209203726.htm)
 * [Device Helps the Visually Impaired Navigate](https://www.sciencedaily.com/releases/2024/12/241210115433.htm)
 * [AI Predicts Earth's Peak Warming](https://www.sciencedaily.com/releases/2024/12/241210115110.htm)
-* [AI Predicts Fast Rise of 3°C in Most of World](https://www.sciencedaily.com/releases/2024/12/241210115538.htm)
-* [Pups of Powerful Meerkat Matriarchs Pay a Price](https://www.sciencedaily.com/releases/2024/12/241209162517.htm)
-* [Mars' Infamous Dust Storms](https://www.sciencedaily.com/releases/2024/12/241209123224.htm)
-* [Cracking the Code for Materials That Can Learn](https://www.sciencedaily.com/releases/2024/12/241209122941.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
+
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
-[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
-
-[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
+[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
+[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
-[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
+[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Forest](https://www.sciencedaily.com/news/earth_climate/forests/)
+[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
 
-[Cultures](https://www.sciencedaily.com/news/fossils_ruins/cultures/)
+[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
 
-[Rainforests](https://www.sciencedaily.com/news/earth_climate/rainforests/)
+[Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
 
   
 
