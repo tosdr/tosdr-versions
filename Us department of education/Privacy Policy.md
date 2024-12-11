@@ -322,6 +322,12 @@ October 1, 2024
 Related Content
 ---------------
 
+### [Site Security & Intrusion Detection](https://www2.ed.gov/node/7417)
+
+For security purposes, we use special software programs for monitoring network traffic to identify unauthorized attempts to upload or change information, or otherwise to cause damage to this government computer system.
+
+December 11, 2024
+
 ### [Texas State Regulations](https://www2.ed.gov/node/7374)
 
 Texas State Regulations as they relate to private schools and homeschooling.
@@ -333,12 +339,6 @@ December 4, 2024
 This Web page contains information about our rulemaking efforts on borrower defenses and financial responsibility.
 
 November 6, 2024
-
-### [U.S. Green Ribbon Schools Honorees](https://www2.ed.gov/node/7234)
-
-Find U.S. Green Ribbon Schools Honorees from 2012 through our most recent awards.
-
-October 24, 2024
 
 [Return to top](#)
 
