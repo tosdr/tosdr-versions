@@ -8,9 +8,7 @@
 * [Contact Us](https://www.birds.cornell.edu/home/contact-us/)
 * [Join Us](https://join.birds.cornell.edu/page/150611/donate/1?ea.tracking.id=WXXXXX01C)
 
-[![The Cornell Lab](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![The Cornell Lab](https://www.birds.cornell.edu/home/wp-content/themes/birdpress3/images/cornell-lab-logo.svg)](https://www.birds.cornell.edu/home/ "Return Home")
+[![The Cornell Lab](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.birds.cornell.edu/home/ "Return Home")
 
 * [About](https://www.birds.cornell.edu/home/about/)
     * [Mission & Values](https://www.birds.cornell.edu/home/about/)
@@ -180,9 +178,7 @@ The Cornell Lab will send you updates about birds, birding, and opportunities to
 
 Golden-cheeked Warbler by [Bryan Calk/Macaulay Library](https://macaulaylibrary.org/asset/241476451?__hstc=51647990.3dc5fe082014142ec15bc4e8354ffb70.1708004873696.1708004873696.1708004873696.1&__hssc=51647990.1.1708004873697&__hsfp=589919331)
 
-[![The Cornell Lab of Ornithology](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![The Cornell Lab of Ornithology](https://www.birds.cornell.edu/home/wp-content/themes/birdpress3/images/cornell-lab-logo-full-white.svg)](http://www.birds.cornell.edu/ "The Cornell Lab of Ornithology")
+[![The Cornell Lab of Ornithology](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](http://www.birds.cornell.edu/ "The Cornell Lab of Ornithology")
 
 * [Quick Links](https://www.birds.cornell.edu/home/get-involved/)
     * [Member Info](https://www.birds.cornell.edu/home/members/)
@@ -223,8 +219,6 @@ Follow Us
 * [](https://www.instagram.com/cornellbirds "Follow us on Instagram")
 
 ![Cornell University](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Cornell University](https://www.birds.cornell.edu/home/wp-content/themes/birdpress3/images/cornell-logo-white.svg)
 
 © 2024 Cornell University
 
