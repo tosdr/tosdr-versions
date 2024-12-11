@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sends More Than $540,000 in Refunds to Consumers Harmed by Phantom and Abusive Debt Collection Scheme](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-sends-more-540000-refunds-consumers-harmed-phantom-abusive-debt-collection-scheme)
+    ### [Statement on FTC Victory Securing Halt to Kroger, Albertsons Grocery Merger](https://www.ftc.gov/news-events/news/press-releases/2024/12/statement-ftc-victory-securing-halt-kroger-albertsons-grocery-merger)
     
     December 10, 2024
     
