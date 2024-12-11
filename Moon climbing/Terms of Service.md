@@ -6,15 +6,15 @@ Free UK/EU Shipping Over £35/€40 Moonboard 2024 Setup Available New T Shirts 
 
 Search
 
- ![UK shop](https://moonclimbing.com/static/version1731409879/frontend/Moon/hyva/en_GB/images/flag-uk.svg) UK shop
+ ![UK shop](https://moonclimbing.com/static/version1733914565/frontend/Moon/hyva/en_GB/images/flag-uk.svg) UK shop
 
- [![EU shop](https://moonclimbing.com/static/version1731409879/frontend/Moon/hyva/en_GB/images/flag-eu.svg) EU shop](https://eu.moonclimbing.com/)
+ [![EU shop](https://moonclimbing.com/static/version1733914565/frontend/Moon/hyva/en_GB/images/flag-eu.svg) EU shop](https://eu.moonclimbing.com/)
 
 Shop
 
 Moonboard [Kits](https://moonclimbing.com/moonboard/kits-and-packages.html "Kits") [Hold Sets](https://moonclimbing.com/moonboard/holds-and-bolts.html "Hold Sets") [LEDs](https://moonclimbing.com/moonboard/led.html "LEDs") [Parts & Spares](https://moonclimbing.com/moonboard/parts-and-components.html "Parts & Spares") [View All](https://moonclimbing.com/moonboard.html "View All")
 
-Men's [Tops](https://moonclimbing.com/clothing/mens/tops.html "Tops") [Legwear](https://moonclimbing.com/mens-moon-climbing-clothes/bottoms.html "Legwear") [Accessories](https://moonclimbing.com/clothing/mens/accessories.html "Accessories") [Clearance](https://moonclimbing.com/clothing/mens/men-s-clearance.html "Clearance") [View All](https://moonclimbing.com/mens-moon-climbing-clothes.html?p=2 "View All")
+Men's [Tops](https://moonclimbing.com/clothing/mens/tops.html "Tops") [Legwear](https://moonclimbing.com/mens-moon-climbing-clothes/bottoms.html "Legwear") [Accessories](https://moonclimbing.com/clothing/mens/accessories.html "Accessories") [Clearance](https://moonclimbing.com/clothing/mens/men-s-clearance.html "Clearance") [View All](https://moonclimbing.com/mens-moon-climbing-clothes.html "View All")
 
 Women's [Tops](https://moonclimbing.com/clothing/womens/tops.html "Tops") [Legwear](https://moonclimbing.com/clothing/womens/legwear.html "Legwear") [Accessories](https://moonclimbing.com/clothing/womens/accessories.html "Accessories") [Clearance](https://moonclimbing.com/clothing/womens/women-s-clearance.html "Clearance") [View All](https://moonclimbing.com/clothing/womens.html "View All")
 
@@ -32,7 +32,7 @@ Explore
 
 [About Us](https://moonclimbing.com/about-moon "About Us") [Sustainability](https://moonclimbing.com/sustainability "Sustainability") [History](https://moonclimbing.com/about-moon "History")
 
-[![100% climbing Since 2002](https://moonclimbing.com/static/version1731409879/frontend/Moon/hyva/en_GB/images/logo.svg)](https://moonclimbing.com/)
+[![100% climbing Since 2002](https://moonclimbing.com/static/version1733914565/frontend/Moon/hyva/en_GB/images/logo.svg)](https://moonclimbing.com/)
 
 close
 
@@ -46,7 +46,7 @@ Moonboard
 
 Men's
 
-[Tops](https://moonclimbing.com/clothing/mens/tops.html "Tops") [Legwear](https://moonclimbing.com/mens-moon-climbing-clothes/bottoms.html "Legwear") [Accessories](https://moonclimbing.com/clothing/mens/accessories.html "Accessories") [Clearance](https://moonclimbing.com/clothing/mens/men-s-clearance.html "Clearance") [View All](https://moonclimbing.com/mens-moon-climbing-clothes.html?p=2 "View All")
+[Tops](https://moonclimbing.com/clothing/mens/tops.html "Tops") [Legwear](https://moonclimbing.com/mens-moon-climbing-clothes/bottoms.html "Legwear") [Accessories](https://moonclimbing.com/clothing/mens/accessories.html "Accessories") [Clearance](https://moonclimbing.com/clothing/mens/men-s-clearance.html "Clearance") [View All](https://moonclimbing.com/mens-moon-climbing-clothes.html "View All")
 
 Women's
 
@@ -82,9 +82,9 @@ About Us
 
 [shopping bag](https://moonclimbing.com/checkout/cart/index/)[favorites](https://moonclimbing.com/wishlist/)[login / register](https://moonclimbing.com/customer/account/create/)
 
- ![UK shop](https://moonclimbing.com/static/version1731409879/frontend/Moon/hyva/en_GB/images/flag-uk.svg) UK shop
+ ![UK shop](https://moonclimbing.com/static/version1733914565/frontend/Moon/hyva/en_GB/images/flag-uk.svg) UK shop
 
- [![EU shop](https://moonclimbing.com/static/version1731409879/frontend/Moon/hyva/en_GB/images/flag-eu.svg) EU shop](https://eu.moonclimbing.com/)
+ [![EU shop](https://moonclimbing.com/static/version1733914565/frontend/Moon/hyva/en_GB/images/flag-eu.svg) EU shop](https://eu.moonclimbing.com/)
 
 [](https://moonclimbing.com/wishlist/)
 
@@ -156,7 +156,7 @@ Customer satisfaction is paramount and we aim to deal with your complaint as eff
 
 The BMC recognises that climbing and mountaineering are activities with a danger of personal injury or death. Participants in these activities should be aware of and accept these risks and be responsible for their own action and involvement. For further information visit [www.thebmc.co.uk](http://www.thebmc.co.uk/).
 
-[![Moonclimbing Logo](https://moonclimbing.com/static/version1731409879/frontend/Moon/hyva/en_GB/images/logo.svg)](https://moonclimbing.com/)
+[![Moonclimbing Logo](https://moonclimbing.com/static/version1733914565/frontend/Moon/hyva/en_GB/images/logo.svg)](https://moonclimbing.com/)
 
 train hard climb harder
 
@@ -192,7 +192,7 @@ train hard climb harder
 
 #### follow us
 
-[![](https://moonclimbing.com/static/version1731409879/frontend/Moon/hyva/en_GB/svg/social/youtube.svg)](https://www.youtube.com/@moonclimbingofficial) [![](https://moonclimbing.com/static/version1731409879/frontend/Moon/hyva/en_GB/svg/social/facebook.svg)](https://www.facebook.com/moonclimbing/) [![](https://moonclimbing.com/static/version1731409879/frontend/Moon/hyva/en_GB/svg/social/instagram.svg)](https://www.instagram.com/moonclimbing/)
+[![](https://moonclimbing.com/static/version1733914565/frontend/Moon/hyva/en_GB/svg/social/youtube.svg)](https://www.youtube.com/@moonclimbingofficial) [![](https://moonclimbing.com/static/version1733914565/frontend/Moon/hyva/en_GB/svg/social/facebook.svg)](https://www.facebook.com/moonclimbing/) [![](https://moonclimbing.com/static/version1733914565/frontend/Moon/hyva/en_GB/svg/social/instagram.svg)](https://www.instagram.com/moonclimbing/)
 
 #### payment method
 
@@ -200,9 +200,9 @@ Copyright © 2024 Moon Climbing Ltd. All rights reserved. | Company Number: 4351
 
 [Wholesale](https://trade.moonclimbing.com/)
 
- ![UK shop](https://moonclimbing.com/static/version1731409879/frontend/Moon/hyva/en_GB/images/flag-uk.svg) UK shop
+ ![UK shop](https://moonclimbing.com/static/version1733914565/frontend/Moon/hyva/en_GB/images/flag-uk.svg) UK shop
 
- [![EU shop](https://moonclimbing.com/static/version1731409879/frontend/Moon/hyva/en_GB/images/flag-eu.svg) EU shop](https://eu.moonclimbing.com/)
+ [![EU shop](https://moonclimbing.com/static/version1733914565/frontend/Moon/hyva/en_GB/images/flag-eu.svg) EU shop](https://eu.moonclimbing.com/)
 
 close
 
