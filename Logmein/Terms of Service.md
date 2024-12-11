@@ -337,11 +337,11 @@ Last Updated: November 2024 (2024.v3.0)
 
 #### Follow & Share GoTo:
 
-* [![](/-/media/images/shared/icons/social-media/icon-facebook-svg.svg?la=en&hash=657744433B667BFC2A3124A14AF4691B)](https://www.facebook.com/GoTo)
-* [![](/-/media/images/shared/icons/social-media/icon-linkedin-svg.svg?la=en&hash=8306C07D6A54AE6E1A7EE932B4FE1F0D)](https://www.linkedin.com/company/GoTo)
-* [![](/-/media/images/shared/icons/social-media/icon-twitter-svg.svg?la=en&hash=697760AC5A1C7B8C78B541F27AECC414)](https://twitter.com/GoTo)
-* [![](/-/media/images/shared/icons/social-media/icon-youtube-svg.svg?la=en&hash=2D3DF00145E8CAE4B78684D016A23990)](https://www.youtube.com/c/YourGoTo)
-* [![](/-/media/images/shared/icons/social-media/icon-instagram-svg.svg?la=en&hash=24A927510025AA69E01A9E356E318F52)](https://www.instagram.com/GoTo/)
+* [![](/-/media/images/shared/icons-old/social-media/icon-facebook-svg.svg?la=en&hash=565175C9E33AED183DFD19622BB3E47F)](https://www.facebook.com/GoTo)
+* [![](/-/media/images/shared/icons-old/social-media/icon-linkedin-svg.svg?la=en&hash=34507B78CCCDDF6DF95C0659672BCD50)](https://www.linkedin.com/company/GoTo)
+* [![](/-/media/images/shared/icons-old/social-media/icon-twitter-svg.svg?la=en&hash=EB7F61D710D158EABADF2F998B0B9D76)](https://twitter.com/GoTo)
+* [![](/-/media/images/shared/icons-old/social-media/icon-youtube-svg.svg?la=en&hash=CCE7C05D855420E56DD711143EC02D7D)](https://www.youtube.com/c/YourGoTo)
+* [![](/-/media/images/shared/icons-old/social-media/icon-instagram-svg.svg?la=en&hash=BAD3B6A00420A17A25C60C9DA5688E79)](https://www.instagram.com/GoTo/)
 
 2024 GoTo | All Rights Reserved
 
