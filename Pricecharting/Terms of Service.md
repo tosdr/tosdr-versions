@@ -328,6 +328,8 @@ Some Services on the site require payment. In order to use these Services you mu
 
 All payments are facilitated through a third party payment service, [Stripe](https://stripe.com/connect) and [PayPal](https://www.paypal.com/). You agree to the payment processor's terms of service when you pay PriceCharting for our services, when you receive payment for a sale on the marketplace, or purchase something on the marketplace.
 
+If we receive a refund request for an in-app purchase, we may provide Apple with information about the user's in-app purchase activity. This could include details such as time since app installation, total app usage time, an anonymous account identifier, whether the in-app purchase was fully consumed, whether it included a trial period, the total amount spent, and the total amount refunded.
+
 ### Summary,
 
 If you choose to use premium services on the site you will pay for them.
