@@ -2,7 +2,7 @@
 
 [](https://firsthand.co/cart)
 
-[![Logo](/assets/images/logo/vaultLogoColor.png)](https://firsthand.co/welcome)
+[](https://firsthand.co/welcome)
 
 [Login](https://firsthand.co/login)
 
@@ -21,7 +21,7 @@
 
 * * *
 
-[![Logo](/assets/images/logo/vaultLogoColor.png)](https://firsthand.co/welcome)
+[](https://firsthand.co/welcome)
 
 Terms of Service
 ================
@@ -317,7 +317,7 @@ Copyright 2021 FIRSTHAND. All rights reserved.
 
 8.1         Amendments or additions to this DPA must be made in writing to be effective. Should any provision of this DPA be or become invalid, this shall not affect the validity of the remaining terms. In the event of invalidation of any provision of this DPA, the parties shall, in any case, endeavor, in good faith, to replace the invalidated provision by another one, enforceable, valid and legal, having to the greatest possible extent a legal impact equal or equivalent to the one of the initial provision.
 
-[![Logo](/assets/images/logo/vaultLogoColor.png)](https://firsthand.co/welcome)
+[](https://firsthand.co/welcome)
 
 ![Tagline image](/_next/image?url=%2Fassets%2Fimages%2FTaglineImage.png&w=1080&q=75)
 
@@ -341,7 +341,7 @@ Copyright 2021 FIRSTHAND. All rights reserved.
 
 **Our Business**
 
-[Contact Us](mailto:support@firsthand.co)
+Contact Us
 
 [Help Center](https://firsthandsupport.zendesk.com/hc/en-us/)
 
