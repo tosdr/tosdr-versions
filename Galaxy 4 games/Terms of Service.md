@@ -211,7 +211,7 @@ Get in touch
 
 Budget Expectations50,00050,000 - 100,000100,000 - 200,000200,000+
 
-Please prove you are human by selecting the Car. 
+Please prove you are human by selecting the Star. 
 
 [![footer logo](https://galaxy4games.com/wp-content/themes/galaxy/img/logo_28_08.png)](https://galaxy4games.com/)
 
@@ -237,4 +237,4 @@ Get In Touch
 
 Budget Expectations50,00050,000 - 100,000100,000 - 200,000200,000+
 
-Please prove you are human by selecting the House.
+Please prove you are human by selecting the Flag.
