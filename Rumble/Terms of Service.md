@@ -446,125 +446,123 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Steven Crowder
-
-52.3K](https://rumble.com/v5y8kq2--top-5-true-conspiracy-theories-with-guest-alex-jones.html "Steven Crowder")
-
 [Bannons War Room
 
-20.9K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+17K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
 
-[Badlands Media
+[Dr Disrespect
 
-5.23K](https://rumble.com/v5y5qcn-badlands-daily-december-11-2024.html "Badlands Media")
+6.51K](https://rumble.com/v5y9xjk-live-dr-disrespect-fortnite-first-person-mode.html "Dr Disrespect")
 
 [NEWSMAX
 
-3.87K](https://rumble.com/v5y8rn8-the-gerry-callahan-show-live-12112024-newsmax-podcasts.html "NEWSMAX")
+2.75K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
-[Matt Kohrs
+[Barry Cunningham
 
-1.23K](https://rumble.com/v5y4iv8-the-mk-show-dec.-11th.html "Matt Kohrs")
+670](https://rumble.com/v5ybofb-trump-daily-briefing-is-america-under-attack-and-is-our-government-letting-.html "Barry Cunningham")
 
 [Lofi Girl
 
-273](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+207](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
-[Wake Up Mintzy
+[JustPearlyThings
 
-117](https://rumble.com/v5y1d0w-wake-up-mintzy-12.11.24.html "Wake Up Mintzy")
+163](https://rumble.com/v5ycqa8-what-modern-women-want-todays-relationships-with-traditional-privileges-pea.html "JustPearlyThings")
 
 [barstoolsports
 
-113](https://rumble.com/v5y1d0w-wake-up-mintzy-12.11.24.html "barstoolsports")
+148](https://rumble.com/v5yd3n2-no.-1-team-pft-vs-no.-4-team-chaps-simulator-golf-league-semifinal-1-presen.html "barstoolsports")
 
-[Mike Crispi
+[VIVA TV
 
-81](https://rumble.com/v5y8urq-the-mangione-manifesto...things-arent-adding-up.html "Mike Crispi")
+148](https://rumble.com/v5yd3n2-no.-1-team-pft-vs-no.-4-team-chaps-simulator-golf-league-semifinal-1-presen.html "VIVA TV")
 
 [Major League Fishing
 
 0](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
 
-[The Osbournes](https://rumble.com/c/TheOsbournesPodcast "The Osbournes")
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
 
-[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
+[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
 
-[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
+[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
 
-[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
+[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
 
-[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
+[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
 
-[Please End This](https://rumble.com/c/pleaseendthis "Please End This")
+[Dana Beers](https://rumble.com/c/danabeers "Dana Beers")
 
-[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
+[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
 
-[After Skool](https://rumble.com/c/AfterSkool "After Skool")
+[Bussin' With The Boys](https://rumble.com/c/BussinWithTheBoys "Bussin' With The Boys")
 
-[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
+[United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
 
-[John Burk](https://rumble.com/c/JohnBurk "John Burk")
+[NHRA](https://rumble.com/c/NHRA "NHRA")
 
-[THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
+[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
 
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
+[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
 
-[The War Effort Podcast](https://rumble.com/c/THEWAREFFORTPODCAST "The War Effort Podcast")
+[Audit the Audit](https://rumble.com/c/JohnLang "Audit the Audit")
 
-[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
+[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
 
-[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
-
-[Twisted History](https://rumble.com/c/TwistedHistory "Twisted History")
-
-[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
-
-[Primitive Survival Tool](https://rumble.com/c/PrimitiveSurvivalTools "Primitive Survival Tool")
-
-[Taylor Alesia](https://rumble.com/c/TheBibleChick "Taylor Alesia")
-
-[SB Mowing](https://rumble.com/c/SBMowing "SB Mowing")
-
-[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
-
-[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
-
-[NELK](https://rumble.com/c/NELK "NELK")
-
-[Eddie Bravo](https://rumble.com/c/eddiebravo "Eddie Bravo")
-
-[usefulidiots](https://rumble.com/c/usefulidiots "usefulidiots")
-
-[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
-
-[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
-
-[Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
-
-[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
-
-[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
-
-[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
-
-[Akademiks](https://rumble.com/c/Akademiks "Akademiks")
-
-[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
-
-[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
-
-[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
-
-[Mostly Sports With Mark Titus and Brandon Walker](https://rumble.com/c/MostlySportsTitusandWalker "Mostly Sports With Mark Titus and Brandon Walker")
-
-[Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
-
-[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
+[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
 
 [Fore Play Golf](https://rumble.com/c/ForeplayGolf "Fore Play Golf")
 
-[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
+[UFC Fight Pass](https://rumble.com/c/UFCFightPass "UFC Fight Pass")
+
+[Dave Portnoy](https://rumble.com/c/DavePortnoy "Dave Portnoy")
+
+[John Burk](https://rumble.com/c/JohnBurk "John Burk")
+
+[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
+
+[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
+
+[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
+
+[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
+
+[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
+
+[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
+
+[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
+
+[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
+
+[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
+
+[Jerry After Dark](https://rumble.com/c/JerryAfterDark "Jerry After Dark")
+
+[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
+
+[The Kirk Minihane Show](https://rumble.com/c/thekirkminihaneshow "The Kirk Minihane Show")
+
+[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
+
+[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
+
+[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
+
+[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
+
+[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
+
+[Badlands Media](https://rumble.com/c/BadlandsMedia "Badlands Media")
+
+[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
+
+[Tate Speech by Andrew Tate](https://rumble.com/c/TateSpeech "Tate Speech by Andrew Tate")
+
+[Taylor Alesia](https://rumble.com/c/TheBibleChick "Taylor Alesia")
+
+[Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
 
 ### Theme
 
