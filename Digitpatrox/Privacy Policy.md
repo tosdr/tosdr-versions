@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Tuesday, December 10 2024
+Wednesday, December 11 2024
 
 Latest
 
-* [Everything you need to know about ChatGPT Pro, including pricing, features, and available models](https://digitpatrox.com/everything-you-need-to-know-about-chatgpt-pro-including-pricing-features-and-available-models/)
-* [Everything You Need to Know](https://digitpatrox.com/everything-you-need-to-know-3/)
-* [Huge myQ sale knocks up to 50% off our favorite smart devices](https://digitpatrox.com/huge-myq-sale-knocks-up-to-50-off-our-favorite-smart-devices/)
-* [FTC distributes $72 million in Fortnite refunds from Epic Games](https://digitpatrox.com/ftc-distributes-72-million-in-fortnite-refunds-from-epic-games/)
-* [Cyberpunk 2077 just got a whole bunch of new ways to customize your character](https://digitpatrox.com/cyberpunk-2077-just-got-a-whole-bunch-of-new-ways-to-customize-your-character/)
-* [I Have Been an Apple User for 10 Years and Here’s How I Make the Most out of Apple’s Ecosystem](https://digitpatrox.com/i-have-been-an-apple-user-for-10-years-and-heres-how-i-make-the-most-out-of-apples-ecosystem/)
-* [Can you trace an email back to its originating IP address?](https://digitpatrox.com/can-you-trace-an-email-back-to-its-originating-ip-address/)
-* [Data center water consumption is skyrocketing, but Microsoft thinks it has a solution – the company’s new closed-loop cooling system consumes zero water and could save millions of liters per year](https://digitpatrox.com/data-center-water-consumption-is-skyrocketing-but-microsoft-thinks-it-has-a-solution-the-companys-new-closed-loop-cooling-system-consumes-zero-water-and-could-save-millions-of-liters-per-y/)
-* [IT at Tokio Marine means continuous learning — and many hats – Computerworld](https://digitpatrox.com/it-at-tokio-marine-means-continuous-learning-and-many-hats-computerworld/)
-* [The Smart Home Devices I Use to Protect Against Leaks and Electrical Fires](https://digitpatrox.com/the-smart-home-devices-i-use-to-protect-against-leaks-and-electrical-fires/)
+* [Here’s What a Paid Bluesky Subscription Might Look Like](https://digitpatrox.com/heres-what-a-paid-bluesky-subscription-might-look-like/)
+* [Travel tech company Sabre notifies 30K people about data breach that compromised SSNs](https://digitpatrox.com/travel-tech-company-sabre-notifies-30k-people-about-data-breach-that-compromised-ssns/)
+* [How to check if your PC has an NPU on Windows 11](https://digitpatrox.com/how-to-check-if-your-pc-has-an-npu-on-windows-11/)
+* [Is Adobo Good for You?](https://digitpatrox.com/is-adobo-good-for-you/)
+* [How to Set Up a Metered Connection on Windows 11](https://digitpatrox.com/how-to-set-up-a-metered-connection-on-windows-11/)
+* [UK banks weathered the storm of cyber threats in 2024 – here’s why](https://digitpatrox.com/uk-banks-weathered-the-storm-of-cyber-threats-in-2024-heres-why/)
+* [Is Faxing Secure? Yes, With the Right Network Protection](https://digitpatrox.com/is-faxing-secure-yes-with-the-right-network-protection/)
+* [NYT Connections today hints and answers — Wednesday, December 11 (#549)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-december-11-549/)
+* [Wyden proposes bill to secure US telecoms after Salt Typhoon hacks](https://digitpatrox.com/wyden-proposes-bill-to-secure-us-telecoms-after-salt-typhoon-hacks/)
+* [How to free up space on a Windows PC](https://digitpatrox.com/how-to-free-up-space-on-a-windows-pc/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/VP6YsDYx8KJNJyiEMYB2xC-1200-80.jpg)](https://digitpatrox.com/everything-you-need-to-know-about-chatgpt-pro-including-pricing-features-and-available-models/)
+* [![](https://lifehacker.com/imagery/articles/01JES252MJ68AM0S8F4K557S4Y/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/heres-what-a-paid-bluesky-subscription-might-look-like/)
     
-    [Everything you need to know about ChatGPT Pro, including pricing, features, and available models](https://digitpatrox.com/everything-you-need-to-know-about-chatgpt-pro-including-pricing-features-and-available-models/)
+    [Here’s What a Paid Bluesky Subscription Might Look Like](https://digitpatrox.com/heres-what-a-paid-bluesky-subscription-might-look-like/)
     
-    5 minutes ago
+    14 minutes ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/02/openai-sora-featured-feb-24.png)](https://digitpatrox.com/everything-you-need-to-know-3/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Travel-tech-giant-Sabre-notifies-30K-of-data-breach-that-compromised-SSNs.jpg)](https://digitpatrox.com/travel-tech-company-sabre-notifies-30k-people-about-data-breach-that-compromised-ssns/)
     
-    [Everything You Need to Know](https://digitpatrox.com/everything-you-need-to-know-3/)
+    [Travel tech company Sabre notifies 30K people about data breach that compromised SSNs](https://digitpatrox.com/travel-tech-company-sabre-notifies-30k-people-about-data-breach-that-compromised-ssns/)
     
-    9 minutes ago
+    20 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/pJdBq5KJPgMwtksb53WvQd-1200-80.jpg)](https://digitpatrox.com/huge-myq-sale-knocks-up-to-50-off-our-favorite-smart-devices/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/02/windows11-check-npu-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-check-if-your-pc-has-an-npu-on-windows-11/)
     
-    [Huge myQ sale knocks up to 50% off our favorite smart devices](https://digitpatrox.com/huge-myq-sale-knocks-up-to-50-off-our-favorite-smart-devices/)
+    [How to check if your PC has an NPU on Windows 11](https://digitpatrox.com/how-to-check-if-your-pc-has-an-npu-on-windows-11/)
     
-    13 minutes ago
+    21 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/12/10/fortnite-header.jpg)](https://digitpatrox.com/ftc-distributes-72-million-in-fortnite-refunds-from-epic-games/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733507542/prod/content/dam/CRO-Images-2024/Health/CR-Health-InlineHero-Is-Adobo-Good-for-You-1124)](https://digitpatrox.com/is-adobo-good-for-you/)
     
-    [FTC distributes $72 million in Fortnite refunds from Epic Games](https://digitpatrox.com/ftc-distributes-72-million-in-fortnite-refunds-from-epic-games/)
+    [Is Adobo Good for You?](https://digitpatrox.com/is-adobo-good-for-you/)
     
-    1 hour ago
+    24 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/ibJB1FJCZA0skpwKQzSSJN3Ydus=/0x0:3840x2160/1200x628/filters:focal(1727x1056:1728x1057)/cdn.vox-cdn.com/uploads/chorus_asset/file/25783727/ss_af2804aa4bf35d4251043744412ce3b359a125ef.jpg)](https://digitpatrox.com/cyberpunk-2077-just-got-a-whole-bunch-of-new-ways-to-customize-your-character/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-router-with-an-internet-speed-meter-above-it-and-a-trail-of-light-around-it.jpg)](https://digitpatrox.com/how-to-set-up-a-metered-connection-on-windows-11/)
     
-    [Cyberpunk 2077 just got a whole bunch of new ways to customize your character](https://digitpatrox.com/cyberpunk-2077-just-got-a-whole-bunch-of-new-ways-to-customize-your-character/)
+    [How to Set Up a Metered Connection on Windows 11](https://digitpatrox.com/how-to-set-up-a-metered-connection-on-windows-11/)
     
-    2 hours ago
+    25 minutes ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [5 minutes ago
+* [14 minutes ago
     
-    ### Everything you need to know about ChatGPT Pro, including pricing, features, and available models](https://digitpatrox.com/everything-you-need-to-know-about-chatgpt-pro-including-pricing-features-and-available-models/)
-* [9 minutes ago
+    ### Here’s What a Paid Bluesky Subscription Might Look Like](https://digitpatrox.com/heres-what-a-paid-bluesky-subscription-might-look-like/)
+* [20 minutes ago
     
-    ### Everything You Need to Know](https://digitpatrox.com/everything-you-need-to-know-3/)
-* [13 minutes ago
+    ### Travel tech company Sabre notifies 30K people about data breach that compromised SSNs](https://digitpatrox.com/travel-tech-company-sabre-notifies-30k-people-about-data-breach-that-compromised-ssns/)
+* [21 minutes ago
     
-    ### Huge myQ sale knocks up to 50% off our favorite smart devices](https://digitpatrox.com/huge-myq-sale-knocks-up-to-50-off-our-favorite-smart-devices/)
+    ### How to check if your PC has an NPU on Windows 11](https://digitpatrox.com/how-to-check-if-your-pc-has-an-npu-on-windows-11/)
 
 Most Popular Topics
 
-* [September 24, 2024
+* [September 28, 2024
     
-    ### What if…Jony Ive builds the human interface for AI? – Computerworld](https://digitpatrox.com/what-ifjony-ive-builds-the-human-interface-for-ai-computerworld/)
-* [4 weeks ago
+    ### Intel and the US set to seal $8.5B CHIPS Act funding – Computerworld](https://digitpatrox.com/intel-and-the-us-set-to-seal-8-5b-chips-act-funding-computerworld/)
+* [7 days ago
     
-    ### Jeep Grand Cherokee, Dodge Durango Recall ABS, Brake Light Problems](https://digitpatrox.com/jeep-grand-cherokee-dodge-durango-recall-abs-brake-light-problems/)
-* [September 20, 2024
+    ### NZXT H7 Flow 2024 review: A PC case with exceptional airflow](https://digitpatrox.com/nzxt-h7-flow-2024-review-a-pc-case-with-exceptional-airflow/)
+* [October 21, 2024
     
-    ### Vendor Spotlight: Kandji](https://digitpatrox.com/vendor-spotlight-kandji/)
+    ### Venom 3 Release Date, Trailer, Cast, Villain and Plot](https://digitpatrox.com/venom-3-release-date-trailer-cast-villain-and-plot/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [1 hour ago
     
-    ### Can you trace an email back to its originating IP address?](https://digitpatrox.com/can-you-trace-an-email-back-to-its-originating-ip-address/)
-* [3 hours ago
+    ### Is Faxing Secure? Yes, With the Right Network Protection](https://digitpatrox.com/is-faxing-secure-yes-with-the-right-network-protection/)
+* [1 hour ago
     
-    ### Data center water consumption is skyrocketing, but Microsoft thinks it has a solution – the company’s new closed-loop cooling system consumes zero water and could save millions of liters per year](https://digitpatrox.com/data-center-water-consumption-is-skyrocketing-but-microsoft-thinks-it-has-a-solution-the-companys-new-closed-loop-cooling-system-consumes-zero-water-and-could-save-millions-of-liters-per-y/)
-* [4 hours ago
+    ### NYT Connections today hints and answers — Wednesday, December 11 (#549)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-december-11-549/)
+* [2 hours ago
     
-    ### IT at Tokio Marine means continuous learning — and many hats – Computerworld](https://digitpatrox.com/it-at-tokio-marine-means-continuous-learning-and-many-hats-computerworld/)
+    ### Wyden proposes bill to secure US telecoms after Salt Typhoon hacks](https://digitpatrox.com/wyden-proposes-bill-to-secure-us-telecoms-after-salt-typhoon-hacks/)
 
 Most Viewed Topics
 
-* [August 11, 2024
+* [August 12, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
