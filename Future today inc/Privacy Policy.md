@@ -4,7 +4,7 @@
 
 [Partner with Us](#)
 
-[Advertise with us](http://futuretodayinc.com/advertise-with-us) [Distribute the Content](http://futuretodayinc.com/distribute-your-content)
+[Advertise with us](http://futuretodayinc.com/advertise-with-us) [Distribute Your Content](http://futuretodayinc.com/distribute-your-content)
 
 [Media](#)
 
@@ -14,7 +14,7 @@
 
 [![fturetodayinc](img/Logo.png)](http://futuretodayinc.com/)
 
-[About](http://futuretodayinc.com/about-us) [Advertise with us](http://futuretodayinc.com/advertise-with-us) [Distribute the Content](http://futuretodayinc.com/distribute-your-content) [Press Announcements](http://catalog.futuretodayinc.com/press-releases/) [In The News](http://catalog.futuretodayinc.com/media-coverage/) [Media Kit](http://catalog.futuretodayinc.com/media-kit/) [Contact](http://futuretodayinc.com/contact-us)
+[About](http://futuretodayinc.com/about-us) [Advertise with us](http://futuretodayinc.com/advertise-with-us) [Distribute Your Content](http://futuretodayinc.com/distribute-your-content) [Press Announcements](http://catalog.futuretodayinc.com/press-releases/) [In The News](http://catalog.futuretodayinc.com/media-coverage/) [Media Kit](http://catalog.futuretodayinc.com/media-kit/) [Contact](http://futuretodayinc.com/contact-us)
 
 Privacy Policy
 ==============
