@@ -12,7 +12,7 @@
 
 out of 5 based on
 
-75102
+75105
 
 reviews ![Tanga Reviews](https://assets.reviews.io/img/all-global-assets/logo/reviewsio-logo.svg)](http://www.reviews.io/company-reviews/store/tanga.com?utm_source=tanga.com&utm_medium=widget&utm_campaign=text-banner) 
 
