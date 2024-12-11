@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/solidaridad-lanceert-goed-goud-sieraden/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/klokkenluider-zet-farmaceutische-industrie-te-kijk/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
