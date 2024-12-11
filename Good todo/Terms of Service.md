@@ -135,7 +135,7 @@ By using Good Todo's web site or mobile apps ("Service"), you agree to be bound 
 
 [Back](https://goodtodo.com/)
 
-![](/app/views/public/images/xmini-logo.png.pagespeed.ic.1_Hk2T09JT.png)
+![](/app/views/public/images/mini-logo.png)
 
 Log in
 ------
@@ -146,7 +146,7 @@ Log in
 
 [Close](#)
 
-![](/app/views/public/images/xmini-logo.png.pagespeed.ic.1_Hk2T09JT.png)
+![](/app/views/public/images/mini-logo.png)
 
 Sign Up
 -------
@@ -159,7 +159,7 @@ Submit[](#confirm-popup)
 
 [Close](#)
 
-![](/app/views/public/images/xmini-logo.png.pagespeed.ic.1_Hk2T09JT.png)
+![](/app/views/public/images/mini-logo.png)
 
 Confirmation
 ============
@@ -172,7 +172,7 @@ Please follow the instructions to confirm your account.
 
 [Close](#)
 
-![](/app/views/public/images/xmini-logo.png.pagespeed.ic.1_Hk2T09JT.png)
+![](/app/views/public/images/mini-logo.png)
 
 Confirmation
 ============
