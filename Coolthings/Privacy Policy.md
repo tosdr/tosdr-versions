@@ -15,20 +15,20 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/raspberry-pi-500-keyboard-computer-capable-affordable-desktop-pc-setup/)
+    
+    [Raspberry Pi 500 Keyboard Computer Gives You a Capable and Affordable Productivity Machine](https://www.coolthings.com/raspberry-pi-500-keyboard-computer-capable-affordable-desktop-pc-setup/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/anbernic-rg-34xx-retro-gaming-handheld-game-boy-advance-clone-emulator/)
+    
+    [Anbernic RG 34XX Retro Gaming Handheld Clones the Game Boy Advance’s Classic Looks](https://www.coolthings.com/anbernic-rg-34xx-retro-gaming-handheld-game-boy-advance-clone-emulator/)
+    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-robot-vacuum-mop-combos-to-automate-all-your-wet-and-dry-cleaning-needs/)
     
     [The Best Robot Vacuum Mop Combos to Automate All Your Wet and Dry Cleaning Needs](https://www.coolthings.com/the-best-robot-vacuum-mop-combos-to-automate-all-your-wet-and-dry-cleaning-needs/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/telepathic-instruments-orchid-portable-standalone-chord-generating-synthesizer/)
-    
-    [Telepathic Instruments Orchid Brings a Portable Chord-Generating Synth You Can Play On-the-Go](https://www.coolthings.com/telepathic-instruments-orchid-portable-standalone-chord-generating-synthesizer/)
-    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/wahoo-element-ace-bike-computer-cyclometer-wind-sensor-largest-most-powerful/)
-    
-    [Wahoo Element Ace Takes the Bike Computer a Big Step Forward](https://www.coolthings.com/wahoo-element-ace-bike-computer-cyclometer-wind-sensor-largest-most-powerful/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
