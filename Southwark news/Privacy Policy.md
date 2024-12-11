@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![London mayor Sadiq Khan. Credit Noah Vickers-Local Democracy Reporting](https://southwarknews.co.uk/wp-content/uploads/2024/05/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-Local-Democracy-Reporting-Service-360x180.jpg)](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
+    
+    ### [Over 200 stalkers to be fitted with GPS tags on their release from prison](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
+    
     [![Our Lady of Sorrows Church (credit: Norbertines Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PECKHAM-Our-Lady-of-Sorrows-Credit-is-Norbertines-Peckham-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
     
     ### [Grade II-listed Peckham church roof saved from collapse with crucial £40k grant](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
@@ -49,15 +53,11 @@
     
     [![Victim Jamel Boyce, left, and convicted Tyrese Osei-Kofi, right](https://southwarknews.co.uk/wp-content/uploads/2024/12/Untitled-2-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
     
-    ### [Dulwich man sentenced for murder after paralysed victim dies eight years after stabbing](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
+    ### [Dulwich man sentenced for murder after paralysed victim dies years after stabbing](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
     
     [![Cllr Victor Chamberlain, leader of Southwark's Liberal Democrat opposition, has asked deputy prime minister Angela Rayner to intervene in Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG-Victor-at-MHCLG-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
     
     ### [UK government housing department ‘concerned’ as over half of Southwark council homes without smoke alarms](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
-    
-    [![Michelle in the second floor flat she has been trying to move out of for 22 years CREDIT: Facundo Arrizabalaga](https://southwarknews.co.uk/wp-content/uploads/2024/12/FMA_MYL_10651-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
-    
-    ### [Disabled mum facing 23rd Christmas alone in flat she struggles to escape](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -108,6 +108,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![London mayor Sadiq Khan. Credit Noah Vickers-Local Democracy Reporting](https://southwarknews.co.uk/wp-content/uploads/2024/05/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-Local-Democracy-Reporting-Service-360x180.jpg)](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
+    
+    ### [Over 200 stalkers to be fitted with GPS tags on their release from prison](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
+    
     [![Our Lady of Sorrows Church (credit: Norbertines Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PECKHAM-Our-Lady-of-Sorrows-Credit-is-Norbertines-Peckham-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
     
     ### [Grade II-listed Peckham church roof saved from collapse with crucial £40k grant](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
@@ -137,15 +141,11 @@ View All Result
     
     [![Victim Jamel Boyce, left, and convicted Tyrese Osei-Kofi, right](https://southwarknews.co.uk/wp-content/uploads/2024/12/Untitled-2-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
     
-    ### [Dulwich man sentenced for murder after paralysed victim dies eight years after stabbing](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
+    ### [Dulwich man sentenced for murder after paralysed victim dies years after stabbing](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
     
     [![Cllr Victor Chamberlain, leader of Southwark's Liberal Democrat opposition, has asked deputy prime minister Angela Rayner to intervene in Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG-Victor-at-MHCLG-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
     
     ### [UK government housing department ‘concerned’ as over half of Southwark council homes without smoke alarms](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
-    
-    [![Michelle in the second floor flat she has been trying to move out of for 22 years CREDIT: Facundo Arrizabalaga](https://southwarknews.co.uk/wp-content/uploads/2024/12/FMA_MYL_10651-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
-    
-    ### [Disabled mum facing 23rd Christmas alone in flat she struggles to escape](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -351,12 +351,6 @@ Website
 
 ### Popular Articles
 
-[![Steven Weems in the doorway of his Borough council flat](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00006-9-120x86.jpeg)](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
-
-### [Disabled man ‘denied Right to Buy’ council flat because of home’s disabled adaptations](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
-
-[3rd December 2024](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
-
 [![Walworth Road this morning at 4:30am. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-08-13-06-48-120x86.jpg)](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
 
 ### [Man in ‘life-threatening’ condition and two arrests after incident on Walworth Road](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
@@ -369,17 +363,17 @@ Website
 
 [9th December 2024](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
 
+[![Steven Weems in the doorway of his Borough council flat](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00006-9-120x86.jpeg)](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
+
+### [Disabled man ‘denied Right to Buy’ council flat because of home’s disabled adaptations](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
+
+[3rd December 2024](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
+
 [![Bodycam footage from one of Kent Police's raids. Image: Kent Police](https://southwarknews.co.uk/wp-content/uploads/2024/12/cliwram-latest-1-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
 
 ### [Man charged with drug supply after £5,000 cash and diamond chain found in Southwark property](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
 
 [7th December 2024](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
-
-[![Daniel Kelly in action against Plymouth. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/D-Kelly-48393-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-midfielder-out-for-six-weeks/)
-
-### [Millwall midfielder out for six weeks](https://southwarknews.co.uk/sport/football/millwall/millwall-midfielder-out-for-six-weeks/)
-
-[6th December 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-midfielder-out-for-six-weeks/)
 
 [![L: Wyndham and Comber Estate (Google Maps). R: Leaseholders Peter and Michael.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-17.33-e1733506531831-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
 
@@ -387,7 +381,19 @@ Website
 
 [9th December 2024](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
 
+[![Daniel Kelly in action against Plymouth. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/D-Kelly-48393-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-midfielder-out-for-six-weeks/)
+
+### [Millwall midfielder out for six weeks](https://southwarknews.co.uk/sport/football/millwall/millwall-midfielder-out-for-six-weeks/)
+
+[6th December 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-midfielder-out-for-six-weeks/)
+
 ### Featured Articles
+
+[![London mayor Sadiq Khan. Credit Noah Vickers-Local Democracy Reporting](https://southwarknews.co.uk/wp-content/uploads/2024/05/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-Local-Democracy-Reporting-Service-120x86.jpg)](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
+
+### [Over 200 stalkers to be fitted with GPS tags on their release from prison](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
+
+[11th December 2024](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
 
 [![Our Lady of Sorrows Church (credit: Norbertines Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PECKHAM-Our-Lady-of-Sorrows-Credit-is-Norbertines-Peckham-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
 
@@ -411,7 +417,7 @@ Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-
 
 [![Victim Jamel Boyce, left, and convicted Tyrese Osei-Kofi, right](https://southwarknews.co.uk/wp-content/uploads/2024/12/Untitled-2-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
 
-### [Dulwich man sentenced for murder after paralysed victim dies eight years after stabbing](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
+### [Dulwich man sentenced for murder after paralysed victim dies years after stabbing](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
 
 [9th December 2024](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
 
@@ -420,12 +426,6 @@ Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-
 ### [UK government housing department ‘concerned’ as over half of Southwark council homes without smoke alarms](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
 
 [9th December 2024](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
-
-[![Michelle in the second floor flat she has been trying to move out of for 22 years CREDIT: Facundo Arrizabalaga](https://southwarknews.co.uk/wp-content/uploads/2024/12/FMA_MYL_10651-120x86.jpeg)](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
-
-### [Disabled mum facing 23rd Christmas alone in flat she struggles to escape](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
-
-[9th December 2024](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
 
 ### USEFUL PAGES
 
