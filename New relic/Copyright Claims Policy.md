@@ -70,7 +70,63 @@ Submit
     * [Entity Explorer](https://newrelic.com/platform/explorer)
     * [Integrations](https://newrelic.com/instant-observability)
     
-* [Pricing](https://newrelic.com/pricing)
+* Pricing
+    
+    [![Rightsize](/sites/default/files/2024-11/06_Bento_Rightsize.svg)
+    
+    Simple, transparent pricing.
+    
+    Usage-based pricing for full-stack observability -- all in one platform.
+    
+    View Pricing View Pricing](https://newrelic.com/pricing)
+    
+    Free
+    
+    Sign up for free access with our perpetual free tier and 100GB/mo of data ingest included.
+    
+    * 100 GB data ingest
+    * Automatic logs obfuscation
+    * Unlimited basic and core users
+    * One free full platform user
+    * Access to 30+ capabilities
+    * Data retention
+    
+    [Start for Free Start for Free](https://newrelic.com/pricing/free-tier)
+    
+    Standard
+    
+    For small teams looking to get started with observability.
+    
+    * Limited to 5 full platform users
+    * Ticketed support availability
+    * 2 business days support response SLA
+    * SAML single sign-on
+    
+    [Get Standard Pricing Get Standard Pricing](https://newrelic.com/request-pricing-standard)
+    
+    Pro
+    
+    For teams with more than five engineers and complex workloads.
+    
+    * No maximum on full platform users you can provision
+    * Commitment options
+    * 2-hour critical initial support response SLA
+    * Data Plus eligibility
+    
+    [Get to Pricing Get to Pricing](https://newrelic.com/request-pricing-pro)
+    
+    Enterprise
+    
+    For at-scale organizations with advanced security and support needs.
+    
+    **Everything in Pro plus:**
+    
+    * FedRAMP Moderate and HIPAA eligibility with Data Plus
+    * Priority ticket routing
+    * 1-hour critical initial support response SLA
+    
+    [Get Custom Pricing Get Custom Pricing](https://newrelic.com/request-pricing-enterprise)
+    
 * Solutions
     
     ![Customer Stories](/sites/default/files/2024-08/customer-stories-desktop-jpg.jpg)
@@ -105,11 +161,11 @@ Submit
     * [Prometheus Monitoring](https://newrelic.com/solutions/prometheus-monitoring)
     * [SAP Monitoring](https://newrelic.com/solutions/sap)
     
-    [![state of retail image](/sites/default/files/2024-11/retail.svg)
+    [![gartner mq 2024 icon](/sites/default/files/2024-10/gartner-report-icon.svg)
     
-    State of Observability for Retail
+    Named a Leader
     
-    How do top retailers raise customer retention 30%? Read the report.](https://newrelic.com/resources/report/state-of-observability-retail-2024)
+    Learn why in the 2024 Gartner® Magic Quadrant™ for Digital Experience Monitoring (DEM).](https://newrelic.com/resources/gartner-magic-quadrant-dem)
     
     [![o11y 2024  icon](/sites/default/files/2024-10/o11y2024-icon.svg)
     
@@ -117,11 +173,11 @@ Submit
     
     Power your decisions with invaluable observability insights! Read the report.](https://newrelic.com/resources/report/observability-forecast/2024)
     
-    [![gartner mq 2024 icon](/sites/default/files/2024-10/gartner-report-icon.svg)
+    [![nr now white](/sites/default/files/2024-09/LOGO-white.svg)
     
-    Named a Leader
+    New Relic Now
     
-    Learn why in the 2024 Gartner® Magic Quadrant™ for Digital Experience Monitoring (DEM).](https://newrelic.com/resources/gartner-magic-quadrant-dem)
+    AI meets observability. On-demand access available now.](https://newrelic.com/event/new-relic-now-on-demand)
     
     1
     
@@ -244,23 +300,23 @@ Submit
         
         Learn the value of New Relic to your business.](https://newrelic.com/platform/value-calculator)
     
-    [![state of retail image](/sites/default/files/2024-11/retail.svg)
-    
-    State of Observability for Retail
-    
-    68% of brands fix issues faster with observability. Read the report for more.](https://newrelic.com/resources/report/state-of-observability-retail-2024)
-    
     [![o11y 2024  icon](/sites/default/files/2024-10/o11y2024-icon.svg)
     
     2024 Observability Forecast
     
     Stay ahead with essential observability insights! Read the report now.](https://newrelic.com/resources/report/observability-forecast/2024)
     
-    [![Blueprint ](/sites/default/files/2024-12/O11yBlueprintSVG%20%282%29.svg)
+    [![New Relic Now SVG](/sites/default/files/2024-09/LOGO-white_0.svg)
     
-    Observability Blueprint
+    New Relic Now
     
-    This is your roadmap to better digital experiences.](https://newrelic.com/customers/observability-blueprint)
+    See the future of observability. On-demand access available now.](https://newrelic.com/event/new-relic-now-on-demand)
+    
+    [![gartner mq 2024 icon](/sites/default/files/2024-10/gartner-report-icon.svg)
+    
+    New Relic is furthest in vision.
+    
+    Download the 2024 Gartner® Magic Quadrant™ for Digital Experience Monitoring (DEM).](https://newrelic.com/resources/gartner-magic-quadrant-dem)
     
     1
     
