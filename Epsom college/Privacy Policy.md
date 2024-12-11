@@ -143,7 +143,7 @@ Our website address is: https://www.epsomcollege.org.uk.
 
 This policy explains how Epsom College collects and uses information via its website. Please click on the following links for more information on how the College uses information about pupils and parents.
 
-[Privacy Notice for Parents](https://www.epsomcollege.org.uk/download/1871/?tmstv=1733924754 "Version nov 24") [Privacy Notice for Pupils](https://www.epsomcollege.org.uk/download/1874/?tmstv=1733924754) [Privacy Notice for Commercial Activities](https://www.epsomcollege.org.uk/download/1868/?tmstv=1733924754 "Version nov 2024") [Privacy Notice for Fundraising, Development Office and Alumni](https://www.epsomcollege.org.uk/download/1865/?tmstv=1733924754)
+[Privacy Notice for Parents](https://www.epsomcollege.org.uk/download/1871/?tmstv=1733947861 "Version nov 24") [Privacy Notice for Pupils](https://www.epsomcollege.org.uk/download/1874/?tmstv=1733947861) [Privacy Notice for Commercial Activities](https://www.epsomcollege.org.uk/download/1868/?tmstv=1733947861 "Version nov 2024") [Privacy Notice for Fundraising, Development Office and Alumni](https://www.epsomcollege.org.uk/download/1865/?tmstv=1733947861)
 
 For further information, to receive support or make a complaint relating to the College’s use of your personal data please contact our Bursar, Mr Paul Ratcliffe at [bursar@epsomcollege.org.uk](mailto:bursar@epsomcollege.org.uk)
 
