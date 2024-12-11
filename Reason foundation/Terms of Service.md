@@ -2,17 +2,6 @@
 
 ![Reason.com - Free Minds and Free Markets](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo_2ea65906.svg)](https://reason.com/)
 
-![Reason logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Reason logo](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./r-in-g1-01_36e38c66.svg)
-
-### Thank you for supporting us during our webathon!
-
-#### Reason is supported by:  
-Jaime Reynoso
-
-[Donate](https://reason.com/donate/?rfr=d0001&ip_creative_slot=ad&ip_creative_name=top_banner&ip_promotion_id=d0001&ip_promotion_name=webathon_2024&ip_item_name=donation "Donate to Reason")
-
 [![Reason logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20711%20180'%3E%3C/svg%3E)
 
 ![Reason logo](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-inverted-without-tag_c6a8c72e.svg)](https://reason.com/)[![Reason logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -146,7 +135,7 @@ Do you care about free minds and free markets? Sign up to get the biggest storie
 
 Email(Required)
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
