@@ -180,11 +180,10 @@ Get the app
  Trips
 
 * [All Trips](https://www.atlasobscura.com/adventures/trips)
-* [Art & Culture Trips](https://www.atlasobscura.com/adventures/trips?int=art+%26+culture)
-* [Food Trips](https://www.atlasobscura.com/adventures/trips?int=food+%26+drink)
-* [Hidden City Trips](https://www.atlasobscura.com/adventures/trips?int=hidden+cities)
-* [History Trips](https://www.atlasobscura.com/adventures/trips?int=history)
-* [Wildlife & Nature Trips](https://www.atlasobscura.com/adventures/trips?int=wildlife+%26+nature)
+* [Family Trip](https://www.atlasobscura.com/adventures/trips?int=family+trip)
+* [Food & Drink](https://www.atlasobscura.com/adventures/trips?int=food+%26+drink)
+* [History & Culture](https://www.atlasobscura.com/adventures/trips?int=history+%26+culture)
+* [Wildlife & Nature](https://www.atlasobscura.com/adventures/trips?int=wildlife+%26+nature)
 * [FAQ](https://www.atlasobscura.com/adventures/adventures-faq)
 
  Experiences
