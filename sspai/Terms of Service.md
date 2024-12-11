@@ -20,9 +20,9 @@ PRIMEMatrix栏目Pi Store更多
 
 主作者
 
-[![少数派](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!72x72r/gravity/center/crop/72x72/ignore-error/1)](https://sspai.com/u/dl0t26id/updates)
+[![少数派](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!72x72r/gravity/center/crop/72x72/format/webp/ignore-error/1)](https://sspai.com/u/dl0t26id/updates)
 
-[![](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!100x100r/gravity/center/crop/100x100/ignore-error/1)](https://sspai.com/u/dl0t26id)关注
+[![](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!100x100r/gravity/center/crop/100x100/format/webp/ignore-error/1)](https://sspai.com/u/dl0t26id)关注
 
 少数派
 
@@ -36,7 +36,7 @@ PRIMEMatrix栏目Pi Store更多
 
 [](https://sspai.com/u/dl0t26id/updates)
 
-[](https://sspai.com/u/dl0t26id/updates)[![](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!100x100r/gravity/center/crop/100x100/ignore-error/1)](https://sspai.com/u/dl0t26id)关注
+[](https://sspai.com/u/dl0t26id/updates)[![](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!100x100r/gravity/center/crop/100x100/format/webp/ignore-error/1)](https://sspai.com/u/dl0t26id)关注
 
 少数派
 
@@ -44,9 +44,9 @@ PRIMEMatrix栏目Pi Store更多
 
 联合作者
 
-[![少数派](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!72x72r/gravity/center/crop/72x72/ignore-error/1)](https://sspai.com/u/dl0t26id/updates)
+[![少数派](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!72x72r/gravity/center/crop/72x72/format/webp/ignore-error/1)](https://sspai.com/u/dl0t26id/updates)
 
-[![](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!100x100r/gravity/center/crop/100x100/ignore-error/1)](https://sspai.com/u/dl0t26id)关注
+[![](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!100x100r/gravity/center/crop/100x100/format/webp/ignore-error/1)](https://sspai.com/u/dl0t26id)关注
 
 少数派
 
@@ -60,7 +60,7 @@ PRIMEMatrix栏目Pi Store更多
 
 [](https://sspai.com/u/dl0t26id/updates)
 
-[](https://sspai.com/u/dl0t26id/updates)[![](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!100x100r/gravity/center/crop/100x100/ignore-error/1)](https://sspai.com/u/dl0t26id)关注
+[](https://sspai.com/u/dl0t26id/updates)[![](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!100x100r/gravity/center/crop/100x100/format/webp/ignore-error/1)](https://sspai.com/u/dl0t26id)关注
 
 少数派
 
@@ -96,7 +96,7 @@ PRIMEMatrix栏目Pi Store更多
 
 举报
 
-[![少数派](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!84x84r/gravity/center/crop/84x84/ignore-error/1)](https://sspai.com/u/dl0t26id/updates)
+[![少数派](https://cdn-static.sspai.com/ui/otter_avatar_placeholder_240511.png?imageMogr2/auto-orient/thumbnail/!84x84r/gravity/center/crop/84x84/format/webp/ignore-error/1)](https://sspai.com/u/dl0t26id/updates)
 
 [少数派](https://sspai.com/u/dl0t26id/updates)
 
