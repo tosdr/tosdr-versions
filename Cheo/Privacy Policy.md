@@ -108,7 +108,7 @@ Search
 Privacy and confidentiality
 ===========================
 
-![Girl in wheelchair smiling at camera](/en/rotatingimages/defaultInterior/Banner-14.jpg)
+![Mother and daughter smiling at each other](/en/rotatingimages/defaultInterior/Banner-5.jpg)
 
 [Regular](# "Default text size") [Large](# "Increase to Large text size") [X-Large](# "Increase to X-Large text size")
 
