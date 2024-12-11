@@ -1,3 +1,7 @@
+[👗 Shop in-store at Simons and earn 1% Cash Back
+
+Link Offer](https://www.rakuten.ca/in-store-cash-back)
+
 [](https://www.rakuten.ca/)
 
 EN
