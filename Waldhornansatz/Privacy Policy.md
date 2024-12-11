@@ -19,8 +19,7 @@ Suchen
 1. Aktuelle Seite:  
 2. [Horn. Können.](https://waldhorn-ansatz.de/index.php/de/) 
 3. [Tipps](https://waldhorn-ansatz.de/index.php/de/waldhorn-tipps) 
-4. [Lehrbücher für Waldhorn](https://waldhorn-ansatz.de/index.php/de/waldhorn-tipps) 
-5. Die McAfee Methode - Lehrbuch (gedrucktes Buch) 
+4. Impressum & Datenschutzhinweise 
 
 Eine Sammlung von Tipps für das Üben und Spielen ...
 ====================================================
@@ -28,7 +27,7 @@ Eine Sammlung von Tipps für das Üben und Spielen ...
 Impressum & Datenschutzhinweise
 -------------------------------
 
-Tobias Heinz [Horn lernen mit Spaß - Erfolg für Jugendliche und Erwachsene](https://waldhorn-ansatz.de/index.php/de/waldhorn-tipps) 19\. April 2017  Zugriffe: 25482
+Tobias Heinz [Horn lernen mit Spaß - Erfolg für Jugendliche und Erwachsene](https://waldhorn-ansatz.de/index.php/de/waldhorn-tipps) 19\. April 2017  Zugriffe: 25484
 
 * [](https://www.facebook.com/sharer.php?u=https://waldhorn-ansatz.de/index.php/de/impressum-datenschutz "Facebook")
 * [](https://twitter.com/share?url=https://waldhorn-ansatz.de/index.php/de/impressum-datenschutz&text=Impressum%20&%20Datenschutzhinweise "X (formerly Twitter)")
