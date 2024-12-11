@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [Free Update for DRAGON BALL Sparking! ZERO: New Features and Adjustments](https://en.bandainamcoent.eu/dragon-ball/news/free-update-dragon-ball-sparking-zero-new-features-and-adjustments)
 * [Get your wallpapers of BLEACH Rebirth of Souls for Desktop & Mobile](https://en.bandainamcoent.eu/bleach/news/get-your-wallpapers-of-bleach-rebirth-of-souls-desktop-mobile)
-* [BLEACH Rebirth of Souls set to release on 21 March 2025](https://en.bandainamcoent.eu/bleach/news/bleach-rebirth-of-souls-set-release-21-march-2025)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
