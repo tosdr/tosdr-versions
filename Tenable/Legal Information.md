@@ -166,7 +166,7 @@ Tenable One Exposure Management Platform enables you to gain visibility across y
 * [Microsoft Defender](https://www.tenable.com/why-tenable/tenable-vs-microsoft)
 * [Palo Alto Prisma Cloud](https://www.tenable.com/why-tenable/tenable-vs-palo-alto-networks)
 * [Qualys](https://www.tenable.com/why-tenable/tenable-vs-qualys)
-* [Rapid7](https://www.tenable.com/whitepapers/security-leaders-guide-to-comparing-tenable-and-rapid7)
+* [Rapid7](https://www.tenable.com/why-tenable/tenable-vs-rapid7)
 * [Wiz](https://www.tenable.com/why-tenable/tenable-vs-wiz)
 
 [![Exposure video](/themes/custom/tenable/images-new/menus/exposure-video-thumb.png)](javascript:void(0);)
@@ -378,7 +378,7 @@ Tenable is named a leading force in vulnerability management and top ranked amon
         * [Microsoft Defender](https://www.tenable.com/why-tenable/tenable-vs-microsoft)
         * [Palo Alto Prisma Cloud](https://www.tenable.com/why-tenable/tenable-vs-palo-alto-networks)
         * [Qualys](https://www.tenable.com/why-tenable/tenable-vs-qualys)
-        * [Rapid7](https://www.tenable.com/whitepapers/security-leaders-guide-to-comparing-tenable-and-rapid7)
+        * [Rapid7](https://www.tenable.com/why-tenable/tenable-vs-rapid7)
         * [Wiz](https://www.tenable.com/why-tenable/tenable-vs-wiz)
 * Resources
     * #### Tenable resources
