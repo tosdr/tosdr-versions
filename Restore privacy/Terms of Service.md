@@ -254,6 +254,54 @@ Sidebar
 LATEST NEWS
 -----------
 
+[![Windows 11 December Patch Tuesday Fixes 72 Flaws, One Zero-Day](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![Windows 11 December Patch Tuesday Fixes 72 Flaws, One Zero-Day](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0764-400x400.png)](https://cyberinsider.com/windows-11-december-patch-tuesday-fixes-72-flaws-one-zero-day/)
+
+### [Windows 11 December Patch Tuesday Fixes 72 Flaws, One Zero-Day](https://cyberinsider.com/windows-11-december-patch-tuesday-fixes-72-flaws-one-zero-day/)
+
+[![93% of Chipset Flaws on Android Devices Persist Across Generations](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![93% of Chipset Flaws on Android Devices Persist Across Generations](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0763-400x400.png)](https://cyberinsider.com/93-of-chipset-flaws-on-android-devices-persist-across-generations/)
+
+### [93% of Chipset Flaws on Android Devices Persist Across Generations](https://cyberinsider.com/93-of-chipset-flaws-on-android-devices-persist-across-generations/)
+
+[![Microsoft 365 Outage Disrupts Access to Web-Based Applications Worldwide](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![Microsoft 365 Outage Disrupts Access to Web-Based Applications Worldwide](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0761-400x400.jpeg)](https://cyberinsider.com/microsoft-365-outage-disrupts-access-to-web-based-applications-worldwide/)
+
+### [Microsoft 365 Outage Disrupts Access to Web-Based Applications Worldwide](https://cyberinsider.com/microsoft-365-outage-disrupts-access-to-web-based-applications-worldwide/)
+
+[![Fortnite Players to Receive $72M in Refunds Following FTC Settlement](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![Fortnite Players to Receive $72M in Refunds Following FTC Settlement](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Fortnite-Players-to-Receive-72M-in-Refunds-Following-FTC-Settlement-400x400.jpg)](https://cyberinsider.com/fortnite-players-to-receive-72m-in-refunds-following-ftc-settlement/)
+
+### [Fortnite Players to Receive $72M in Refunds Following FTC Settlement](https://cyberinsider.com/fortnite-players-to-receive-72m-in-refunds-following-ftc-settlement/)
+
+[![WPForms Used in 6 Million WordPress Sites Vulnerable to Arbitrary Refunds](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![WPForms Used in 6 Million WordPress Sites Vulnerable to Arbitrary Refunds](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/WPForms-Used-in-6-Million-WordPress-Sites-Vulnerable-to-Arbitrary-Refunds-400x400.jpg)](https://cyberinsider.com/wpforms-used-in-6-million-wordpress-sites-vulnerable-to-arbitrary-refunds/)
+
+### [WPForms Used in 6 Million WordPress Sites Vulnerable to Arbitrary Refunds](https://cyberinsider.com/wpforms-used-in-6-million-wordpress-sites-vulnerable-to-arbitrary-refunds/)
+
+[![Senior Dating and Ladies.com App Breaches Expose 917k User Records](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![Senior Dating and Ladies.com App Breaches Expose 917k User Records](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Senior-Dating-and-Ladies.com-App-Breaches-Expose-917k-User-Records-400x400.jpg)](https://cyberinsider.com/senior-dating-and-ladies-com-app-breaches-expose-917k-user-records/)
+
+### [Senior Dating and Ladies.com App Breaches Expose 917k User Records](https://cyberinsider.com/senior-dating-and-ladies-com-app-breaches-expose-917k-user-records/)
+
+[![O.MG Cable Scan Is a Wake Up Call for Hardware Security](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![O.MG Cable Scan Is a Wake Up Call for Hardware Security](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0757-400x400.jpeg)](https://cyberinsider.com/o-mg-cable-scan-is-a-wake-up-call-for-hardware-security/)
+
+### [O.MG Cable Scan Is a Wake Up Call for Hardware Security](https://cyberinsider.com/o-mg-cable-scan-is-a-wake-up-call-for-hardware-security/)
+
+[![International 'Phone Phishing' Gang Dismantled in Europe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![International 'Phone Phishing' Gang Dismantled in Europe](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0756-400x400.png)](https://cyberinsider.com/international-phone-phishing-gang-dismantled-in-europe/)
+
+### [International ‘Phone Phishing’ Gang Dismantled in Europe](https://cyberinsider.com/international-phone-phishing-gang-dismantled-in-europe/)
+
 [![New Realst Stealer Campaign Targets Windows and macOS Systems](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
 
 ![New Realst Stealer Campaign Targets Windows and macOS Systems](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/New-Realst-Stealer-Campaign-Targets-Windows-and-macOS-Systems-400x400.jpg)](https://cyberinsider.com/new-realst-stealer-campaign-targets-windows-and-macos-systems/)
@@ -265,54 +313,6 @@ LATEST NEWS
 ![SD Express Card Flaw Exposes Laptops and Consoles to Memory Attacks](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/SD-Express-Card-Flaw-Exposes-Laptops-and-Consoles-to-Memory-Attacks-400x400.jpg)](https://cyberinsider.com/sd-express-card-flaw-exposes-laptops-and-consoles-to-memory-attacks/)
 
 ### [SD Express Card Flaw Exposes Laptops and Consoles to Memory Attacks](https://cyberinsider.com/sd-express-card-flaw-exposes-laptops-and-consoles-to-memory-attacks/)
-
-[![Novel C2 Technique Exploits QR Codes to Bypass Browser Isolation](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Novel C2 Technique Exploits QR Codes to Bypass Browser Isolation](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Novel-C2-Technique-Exploits-QR-Codes-to-Bypass-Browser-Isolation-400x400.jpg)](https://cyberinsider.com/novel-c2-technique-exploits-qr-codes-to-bypass-browser-isolation/)
-
-### [Novel C2 Technique Exploits QR Codes to Bypass Browser Isolation](https://cyberinsider.com/novel-c2-technique-exploits-qr-codes-to-bypass-browser-isolation/)
-
-[![New 0-Day NTLM Hash Disclosure Vulnerability in Windows 7 to 11](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![New 0-Day NTLM Hash Disclosure Vulnerability in Windows 7 to 11](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/New-0-Day-NTLM-Hash-Disclosure-Vulnerability-in-Windows-7-to-11-400x400.jpg)](https://cyberinsider.com/new-0-day-ntlm-hash-disclosure-vulnerability-in-windows-7-to-11/)
-
-### [New 0-Day NTLM Hash Disclosure Vulnerability in Windows 7 to 11](https://cyberinsider.com/new-0-day-ntlm-hash-disclosure-vulnerability-in-windows-7-to-11/)
-
-[![New Android Spyware Used by Russian State-Backed Spyware Found](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![New Android Spyware Used by Russian State-Backed Spyware Found](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/New-Android-Spyware-Used-by-Russian-State-Backed-Spyware-Found-400x400.jpg)](https://cyberinsider.com/new-android-spyware-used-by-russian-state-backed-entities-found/)
-
-### [New Android Spyware Used by Russian State-Backed Entities Found](https://cyberinsider.com/new-android-spyware-used-by-russian-state-backed-entities-found/)
-
-[![Atrium Health Discloses Data Exposure Involving Patient Portal](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Atrium Health Discloses Data Exposure Involving Patient Portal](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Atrium-Health-Discloses-Data-Exposure-Involving-Patient-Portal-400x400.png)](https://cyberinsider.com/atrium-health-discloses-data-exposure-involving-patient-portal/)
-
-### [Atrium Health Discloses Data Exposure Involving Patient Portal](https://cyberinsider.com/atrium-health-discloses-data-exposure-involving-patient-portal/)
-
-[![Tor Project Retires BridgeDB in Favor of Rdsys to Fight Censorship](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Tor Project Retires BridgeDB in Favor of Rdsys to Fight Censorship](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Tor-Project-Retires-BridgeDB-in-Favor-of-Rdsys-to-Fight-Censorship-400x400.jpg)](https://cyberinsider.com/tor-project-retires-bridgedb-in-favor-of-rdsys-to-fight-censorship/)
-
-### [Tor Project Retires BridgeDB in Favor of Rdsys to Fight Censorship](https://cyberinsider.com/tor-project-retires-bridgedb-in-favor-of-rdsys-to-fight-censorship/)
-
-[![Russia's Secret Blizzard Hacked Rival Hackers' Networks for Espionage](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Russia's Secret Blizzard Hacked Rival Hackers' Networks for Espionage](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Russias-Secret-Blizzard-Hacked-Rival-Hackers-Networks-for-Espionage-400x400.jpg)](https://cyberinsider.com/russias-secret-blizzard-hacked-rival-hackers-networks-for-espionage/)
-
-### [Russia’s Secret Blizzard Hacked Rival Hackers’ Networks for Espionage](https://cyberinsider.com/russias-secret-blizzard-hacked-rival-hackers-networks-for-espionage/)
-
-[![Supply Chain Attack Hits Solana Core Library, Wallets at Risk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Supply Chain Attack Hits Solana Core Library, Wallets at Risk](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Supply-Chain-Attack-Hits-Solana-Core-Library-Wallets-at-Risk-400x400.jpg)](https://cyberinsider.com/supply-chain-attack-hits-solana-core-library-wallets-at-risk/)
-
-### [Supply Chain Attack Hits Solana Core Library, Wallets at Risk](https://cyberinsider.com/supply-chain-attack-hits-solana-core-library-wallets-at-risk/)
-
-[![New Android Malware DroidBot Targets Banking Users in Europe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![New Android Malware DroidBot Targets Banking Users in Europe](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0743-400x400.png)](https://cyberinsider.com/new-android-malware-droidbot-targets-banking-users-in-europe/)
-
-### [New Android Malware DroidBot Targets Banking Users in Europe](https://cyberinsider.com/new-android-malware-droidbot-targets-banking-users-in-europe/)
 
 Copyright © 2024 · CyberInsider.com · All Rights Reserved · [Privacy Policy](https://cyberinsider.com/privacy-policy/) ·  [Terms of Use](https://cyberinsider.com//terms-of-use/) · [Contact](https://cyberinsider.com/contact/)
 
