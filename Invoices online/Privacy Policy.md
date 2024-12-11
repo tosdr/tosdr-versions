@@ -117,57 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Anri van der Linde
+Johan Botha - Brand Xplosion
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=15e2c8ab6945fecad12dc44265313c2a5da72660e3b060036a8c3a49c74dbe86&c=115723895)  
-UMVIKELI PRIVATE SECURITY
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=205910455)  
+Cooper Logistics (Pty) Ltd
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=15e2c8ab6945fecad12dc44265313c2a5da72660e3b060036a8c3a49c74dbe86&c=99494867)  
-MONSTER SECURITY SERVICES
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=6717321)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=15e2c8ab6945fecad12dc44265313c2a5da72660e3b060036a8c3a49c74dbe86&c=196402273)  
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=15640183)  
+National Elite Security Services (PTY) LTD
+
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=130213157)  
+FX ACCOUNTING
+
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=213889141)  
+van Schaik rentals
+
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=54640881)  
+OptaServ
+
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=28874104)  
+West Coast Horse Trails
+
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=209478180)  
+Cooper Power South Africa (Pty) LTD
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=63610318)  
+Gemini-IT Group
+
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=20867209)  
+Roamfree Boerdery (PTY) LTD
+
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=29700228)  
+Konsortium Operations (PTY) LTD
+
+![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=39804418)  
+Roekeloos Group
+
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=165080338)  
+Imvubu General Trading
+
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=132013801)  
 Calonet
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=15e2c8ab6945fecad12dc44265313c2a5da72660e3b060036a8c3a49c74dbe86&c=212149711)  
-Tagline Brands
-
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=15e2c8ab6945fecad12dc44265313c2a5da72660e3b060036a8c3a49c74dbe86&c=93799206)  
-Tracknetics
-
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=15e2c8ab6945fecad12dc44265313c2a5da72660e3b060036a8c3a49c74dbe86&c=74691829)  
-Digifax (Pty) Ltd T/A SecurityHyper
-
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=15e2c8ab6945fecad12dc44265313c2a5da72660e3b060036a8c3a49c74dbe86&c=70003452)  
-Prosper Park
-
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=15e2c8ab6945fecad12dc44265313c2a5da72660e3b060036a8c3a49c74dbe86&c=197052340)  
-Know Informatics
-
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=15e2c8ab6945fecad12dc44265313c2a5da72660e3b060036a8c3a49c74dbe86&c=151742424)  
-Tantra Sound and Lightz
-
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=15e2c8ab6945fecad12dc44265313c2a5da72660e3b060036a8c3a49c74dbe86&c=50831038)  
-Printo
-
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=15e2c8ab6945fecad12dc44265313c2a5da72660e3b060036a8c3a49c74dbe86&c=191624355)  
-Sonic Electrical Services PTY Ltd
-
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=15e2c8ab6945fecad12dc44265313c2a5da72660e3b060036a8c3a49c74dbe86&c=83201617)  
-Nilbet T/A Waterman
-
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=15e2c8ab6945fecad12dc44265313c2a5da72660e3b060036a8c3a49c74dbe86&c=176618417)  
-TurboFibre
-
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=15e2c8ab6945fecad12dc44265313c2a5da72660e3b060036a8c3a49c74dbe86&c=139050850)  
-Brilliant Roof Products
-
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=15e2c8ab6945fecad12dc44265313c2a5da72660e3b060036a8c3a49c74dbe86&c=46113984)  
-National Elite Security Services (PTY) LTD
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=c0b9f7563f1a9faade4aeb9a6d9e1ded8d8af02b476faf8c50ee1929d6bfbc52&c=48189916)  
+Oak Tree Immigration
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
