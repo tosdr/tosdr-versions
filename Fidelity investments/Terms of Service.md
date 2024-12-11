@@ -7,13 +7,13 @@
 * [Customer Service](https://www.fidelity.com/customer-service/overview)
 * [Profile](https://digital.fidelity.com/ftgw/digital/profile)
 * [Open an Account](https://www.fidelity.com/open-account/overview)
-* [Virtual Assistant](https://www.fidelity.com/customer-service/ask-us?ccsource=VA_NAV)
+* [Fidelity Assistant](https://www.fidelity.com/customer-service/overview?ccsource=FA_NAV)
 * [Log In](https://digital.fidelity.com/prgw/digital/login/full-page)
 
 * [Customer Service](https://www.fidelity.com/customer-service/overview)
 * [Profile](https://digital.fidelity.com/ftgw/digital/profile)
 * [Open an Account](https://www.fidelity.com/open-account/overview)
-* [Virtual Assistant](https://www.fidelity.com/customer-service/ask-us?ccsource=VA_NAV)
+* [Fidelity Assistant](https://www.fidelity.com/customer-service/overview?ccsource=FA_NAV)
 * [Log Out](https://digital.fidelity.com/prgw/digital/login/full-page?ccview=logout&AuthRedUrl=https://www.fidelity.com/customer-service/customer-logout)
 
 * [Accounts & Trade](#)
@@ -117,13 +117,13 @@
 * [Customer Service](https://www.fidelity.com/customer-service/overview)
 * [Profile](https://digital.fidelity.com/ftgw/digital/profile)
 * [Open an Account](https://www.fidelity.com/open-account/overview)
-* [Virtual Assistant](https://www.fidelity.com/customer-service/ask-us?ccsource=VA_NAV)
+* [Fidelity Assistant](https://www.fidelity.com/customer-service/overview?ccsource=FA_NAV)
 * [Log In](https://digital.fidelity.com/prgw/digital/login/full-page)
 
 * [Customer Service](https://www.fidelity.com/customer-service/overview)
 * [Profile](https://digital.fidelity.com/ftgw/digital/profile)
 * [Open an Account](https://www.fidelity.com/open-account/overview)
-* [Virtual Assistant](https://www.fidelity.com/customer-service/ask-us?ccsource=VA_NAV)
+* [Fidelity Assistant](https://www.fidelity.com/customer-service/overview?ccsource=FA_NAV)
 * [Log Out](https://digital.fidelity.com/prgw/digital/login/full-page?ccview=logout&AuthRedUrl=https://www.fidelity.com/customer-service/customer-logout)
 
 * [**Home**](https://www.fidelity.com/)»
