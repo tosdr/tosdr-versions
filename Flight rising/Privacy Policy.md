@@ -2,7 +2,7 @@ Skip to main content
 
 [![Flight Rising Logo](https://www1.flightrising.com/static/layout/trans.png)](https://www1.flightrising.com/)
 
- ![Clock](https://www1.flightrising.com/static/layout/revamp/clock_large.png) 05:54 | [4245 Users Online](https://www1.flightrising.com/site/active)
+ ![Clock](https://www1.flightrising.com/static/layout/revamp/clock_large.png) 12:24 | [5495 Users Online](https://www1.flightrising.com/site/active)
 
 [](https://www1.flightrising.com/registration/start "Sign up!")[](https://www1.flightrising.com/login "Log In")
 
