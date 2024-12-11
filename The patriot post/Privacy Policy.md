@@ -1,10 +1,10 @@
-**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
+**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/112700-mid-day-digest-2024-12-10?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/112744-mid-day-digest-2024-12-11?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -108,7 +108,7 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/112700-mid-day-digest-2024-12-10?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/112744-mid-day-digest-2024-12-11?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -126,9 +126,11 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Mark Alexander The Hegseth Questions](https://patriotpost.us/alexander/112745-the-hegseth-questions-2024-12-11)
 *      [Gary Bauer Left-Wing Hate](https://patriotpost.us/opinion/112724-left-wing-hate-2024-12-11)
 *      [Allen West The False Gods of Leftism](https://patriotpost.us/opinion/112726-the-false-gods-of-leftism-2024-12-11)
 *      [Tim Graham Pretending There’s No Cost in Biden’s Mass Importation](https://patriotpost.us/opinion/112723-pretending-theres-no-cost-in-bidens-mass-importation-2024-12-11)
+*      [Hans von Spakovsky How Trump’s Justice Department Will Achieve More Honest Elections](https://patriotpost.us/opinion/112748-how-trumps-justice-department-will-achieve-more-honest-elections-2024-12-11)
 *      [John Stossel Your Tax Dollars Not at Work](https://patriotpost.us/opinion/112722-your-tax-dollars-not-at-work-2024-12-11)
 *      [Star Parker What’s Going on With Black and Hispanic Women?](https://patriotpost.us/opinion/112721-whats-going-on-with-black-and-hispanic-women-2024-12-11)
 *      [Byron York Can the Nation Wait Until Jan. 20?](https://patriotpost.us/opinion/112720-can-the-nation-wait-until-jan-20-2024-12-11)
@@ -136,6 +138,7 @@ Last Updated: November 15, 2011.
 *      [Christine Flowers Just a Woman Embracing Her Age](https://patriotpost.us/opinion/112727-just-a-woman-embracing-her-age-2024-12-11)
 *      [The Washington Stand Who Controls Syria Now? How Are Christians Affected?](https://patriotpost.us/opinion/112725-who-controls-syria-now-how-are-christians-affected-2024-12-11)
 *      [The Babylon Bee 17 Signs of Poverty in a Capitalist Country](https://patriotpost.us/opinion/112718-17-signs-of-poverty-in-a-capitalist-country-2024-12-11)
+*      [Guest Commentary ICC — International Criminal Court](https://patriotpost.us/opinion/112701-icc-international-criminal-court-2024-12-11)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -149,7 +152,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
