@@ -1,6 +1,6 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=11398210&cs_ucfr=1&cv=4.4.0&cj=1) />
 
-December 7, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
+December 10, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
 
 [![The Hindu Logo](https://www.thehindu.com/theme/images/th-online/thehindu-logo.svg "The Hindu Logo")](https://www.thehindu.com/)
 
@@ -190,7 +190,7 @@ Today's Cache Your download of the top 5 technology stories of the day.](https:/
 
 Connect with us[](https://whatsapp.com/channel/0029VaAvwQJ90x34WZ6FDg36 "WhatsApp")[](https://twitter.com/The_Hindu "Twitter")[](https://www.facebook.com/thehindu "Facebook")[](https://www.instagram.com/the_hindu/?ref=badge "Instagram")[](https://www.linkedin.com/school/the-hindu/ "Linkedin")[](https://www.youtube.com/user/The1878Hindu "Youtube")[](https://open.spotify.com/show/5yESTCj0iikA81EP3uXkQC "Spotify")[](https://t.me/THnewsupdates "Telegram")
 
-December 7, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
+December 10, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
 
 [Search for topics, people, articles...](https://www.thehindu.com/search/)
 
@@ -627,7 +627,7 @@ Effective Date - 18th January 2023
 
 ##### Trending on The Hindu
 
-[India vs Australia Live , 2nd Test Day 2](https://www.thehindu.com/sport/cricket/india-australia-pink-ball-second-test-day-2-december-7/article68957731.ece) [News](https://www.thehindu.com/news/) [Live news](https://www.thehindu.com/topic/live-news/) [Latest cricket news](https://www.thehindu.com/sport/cricket/) [RBI Monetary Policy Committee](https://www.thehindu.com/business/Economy/rbi-monetary-policy-committee-repo-rate-unchanged-shaktikanta-das-december-6-2024/article68953744.ece) [Delhi Chalo march](https://www.thehindu.com/news/national/farmers-march-delhi-police-on-alert-security-deployed-at-border-points/article68953651.ece) [Pushpa 2 review](https://www.thehindu.com/entertainment/movies/pushpa-2-the-rule-movie-review-what-is-your-point-pushpa/article68946633.ece) [Bengaluru metro’s Pink Line to be opened by December 2025](https://www.thehindu.com/news/cities/bangalore/bengaluru-metros-pink-line-to-be-opened-by-december-2025-blue-line-to-kia-by-2026/article68923599.ece) [Pushpa 2 Stampede](https://www.thehindu.com/news/cities/Hyderabad/pushpa-2-stampede-producers-says-they-are-committed-to-stand-by-young-boy-undergoing-treatment/article68950368.ece) [Proba 3 mission: ISRO successfully launches PSLV-C59](https://www.thehindu.com/sci-tech/science/isro-successfully-launches-pslv-c59-rocket-with-european-space-agencys-proba-3-satellites/article68950571.ece)
+[News](https://www.thehindu.com/news/) [Live news](https://www.thehindu.com/topic/live-news/) [Latest cricket news](https://www.thehindu.com/sport/cricket/) [Parliament winter session day 12 LIVE](https://www.thehindu.com/news/national/parliament-winter-session-day-12-live-updates-on-december-10/article68967876.ece) [SM Krishna death LIVE updates](https://www.thehindu.com/news/national/sm-krishna-former-karnataka-cm-maharashtra-governor-death-political-business-reactions-december-10-2024/article68967805.ece) [Syria civil war LIVE updates](https://www.thehindu.com/news/international/syria-civil-war-bashar-assad-asylum-live-updates-december-10/article68967696.ece) [Pushpa 2 review](https://www.thehindu.com/entertainment/movies/pushpa-2-the-rule-movie-review-what-is-your-point-pushpa/article68946633.ece) [Bengaluru metro’s Pink Line to be opened by December 2025](https://www.thehindu.com/news/cities/bangalore/bengaluru-metros-pink-line-to-be-opened-by-december-2025-blue-line-to-kia-by-2026/article68923599.ece) [Pushpa 2 Stampede](https://www.thehindu.com/news/cities/Hyderabad/pushpa-2-stampede-producers-says-they-are-committed-to-stand-by-young-boy-undergoing-treatment/article68950368.ece) [Proba 3 mission: ISRO successfully launches PSLV-C59](https://www.thehindu.com/sci-tech/science/isro-successfully-launches-pslv-c59-rocket-with-european-space-agencys-proba-3-satellites/article68950571.ece)
 
 ##### Trending on Group sites
 
