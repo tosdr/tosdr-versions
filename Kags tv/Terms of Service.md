@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KCEN/images/e57fb77f-175a-40bd-ada6-994b6cfe86a0/20241210T215938/e57fb77f-175a-40bd-ada6-994b6cfe86a0_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/e57fb77f-175a-40bd-ada6-994b6cfe86a0/20241210T215938/e57fb77f-175a-40bd-ada6-994b6cfe86a0_360x203.jpg)](https://www.kagstv.com/article/news/crime/man-sentenced-45-years-indecency-with-child-brazos-county/500-5775b52c-9492-4805-9e49-763e1c2c39b6)
+        
+        #### [Man sentenced to 45 years in prison for Indecency with a Child in Brazos County](https://www.kagstv.com/article/news/crime/man-sentenced-45-years-indecency-with-child-brazos-county/500-5775b52c-9492-4805-9e49-763e1c2c39b6)
+        
     *  [![](https://media.kagstv.com/assets/KAGS/images/cdaa4d60-bcc2-4b2b-ae21-9a7a9779085e/20240603T222213/cdaa4d60-bcc2-4b2b-ae21-9a7a9779085e_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/cdaa4d60-bcc2-4b2b-ae21-9a7a9779085e/20240603T222213/cdaa4d60-bcc2-4b2b-ae21-9a7a9779085e_360x203.jpg)](https://www.kagstv.com/article/sports/tamu-moving-ticket-pulls-for-football-games-online/500-141583f8-1c33-4408-b66f-2265aa16c83a)
         
         #### [After many years, Texas A&M is moving sports ticket pulls online](https://www.kagstv.com/article/sports/tamu-moving-ticket-pulls-for-football-games-online/500-141583f8-1c33-4408-b66f-2265aa16c83a)
-        
-    *  [![](https://media.kagstv.com/assets/WLTX/images/294696944/294696944_16x9.jpg) ![](https://media.kagstv.com/assets/WLTX/images/294696944/294696944_360x203.jpg)](https://www.kagstv.com/article/news/local/dryer-fire-brenham-high-school-extinguished-quickly/500-c69d6393-c640-461c-afa7-29770c1dfdaa)
-        
-        #### [Quick response prevents disaster at Brenham High School, classes remain unaffected](https://www.kagstv.com/article/news/local/dryer-fire-brenham-high-school-extinguished-quickly/500-c69d6393-c640-461c-afa7-29770c1dfdaa)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -54,9 +54,9 @@ Navigation
         
         #### [7.0 earthquake off Northern California prompts brief tsunami warning](https://www.kagstv.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
         
-    *  [![](https://media.kagstv.com/assets/KCEN/images/dcc0b272-d372-4f79-a727-74a6a1533d82/20241210T104128/dcc0b272-d372-4f79-a727-74a6a1533d82_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/dcc0b272-d372-4f79-a727-74a6a1533d82/20241210T104128/dcc0b272-d372-4f79-a727-74a6a1533d82_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/f06ffbb1-4330-4f14-b6f8-4c9a43a36812/20241210T224926/f06ffbb1-4330-4f14-b6f8-4c9a43a36812_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/f06ffbb1-4330-4f14-b6f8-4c9a43a36812/20241210T224926/f06ffbb1-4330-4f14-b6f8-4c9a43a36812_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
-        #### [Windy day ahead; staying cool and dry | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+        #### [WEATHER IMPACT ALERT | Freeze Warning for Many Overnight Tonight | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -97,9 +97,9 @@ Navigation
 
 Bryan, TX »
 
-56°
+46°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
