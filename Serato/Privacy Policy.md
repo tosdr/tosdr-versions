@@ -12,6 +12,7 @@
     * * [Music Production](https://serato.com/music-production)
             * [Serato Studio](https://serato.com/studio) [Download](https://serato.com/studio/downloads)
             * [Serato Sample![plugin badge](https://static.serato.com/common/images/plugin.svg)](https://serato.com/sample) [Download](https://serato.com/sample/downloads)
+            * [Hex FX ![plugin badge](https://static.serato.com/common/images/plugin.svg)](https://serato.com/hex-fx)  [Download](https://serato.com/hex-fx/downloads)
             * [Pitch ’n Time![plugin badge](https://static.serato.com/common/images/plugin.svg)](https://serato.com/pitchntime)
             * [Sound Packs](https://serato.com/studio/sounds)
             * [Serato Visualizer](https://serato.com/visualizer)
