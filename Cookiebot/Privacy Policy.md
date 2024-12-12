@@ -43,7 +43,7 @@ Share
 
 www.cookiebot.com
 
-Last update: November 12, 2024
+Last update: December 12, 2024
 
 Your privacy is important to us. This Privacy Policy covers what we collect and how we use, disclose, transfer and store your information.
 
@@ -421,6 +421,7 @@ If a third country transfer is provided for and no adequacy decision or appropri
 | G2.com, Inc., 100 S. Wacker Drive, Suite 600, Chicago IL 60606, USA | Analytics service | IP address, Unique ID, Date and time of visit,  <br>Page visited, Geographical location, Website activity | In the USA | GDPR Art. 6 (1) lit. a | [https://legal.g2.com/privacy-policy](https://legal.g2.com/privacy-policy) |
 | Google Ads, Google Building Gordon House, 4 Barrow Street, Dublin D04 E5W5, Ireland  <br>  <br>_By accepting the use of Google Ads, “Enhanced Conversion” will also be activated_ | Advertising  <br>Web analytics service | Gclid, Ads viewed, Cookie ID, Date and time of visit, Device info, Geographic location, IP address, Search terms, Ads shown, Impressions, Online identifiers, Browser info  <br>  <br>For Enhanced conversion: email address, phone number, name, street and number, city, zip code and country | In Ireland and the USA | GDPR Art. 6 (1) lit. a | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
 | Google Analytics, Google Building Gordon House, 4 Barrow St, Dublin, D04 E5W5, Ireland  <br>  <br>_(By consenting to the use of Google Analytics data will also be shared with Google Ads for marketing purposes. Please see above under “Google Ads” for more information about this provider.)_ | Advertising  <br>Web analytics service | Google Client ID, Click path, Date and time for visit, Device info, Location info, IP address, Pages visited, Referrer URL, Browser Info, Hostname, Browser language, Browser type, Screen resolution, Device operating system, Interaction data, User behavior, Visited URL, Hashed e-mails | In Ireland and the USA | GDPR Art. 6 (1) lit. a | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
+| Impact Tech, Inc.  <br>223 E. De La Guerra Street, Santa Barbara, CA 93101, United States of America | Affiliate marketing | IP address, Browser information, Pages visited, Date and time of visit, Website activity, User data | USA | GDPR Art. 6 (1) lit. a | [https://impact.com/privacy-policy/](https://impact.com/privacy-policy/) |
 | Intercom R&D Unlimited Company, 2nd Floor, Stephen  <br>Court, 18-21 Saint Stephen’s Green, Dublin 2; Intercom, Inc. a Delaware  <br>corporation with offices at 55 2nd Street, 4th Fl., San Francisco, CA 94105, USA; | Webchat service/chat function on our website | All information we receive in the chat function + type of account | In Ireland and the USA | GDPR Art. 6 (1) lit. a | [https://www.intercom.com/legal/privacy](https://www.intercom.com/legal/privacy) |
 | LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Ireland  <br>  <br>_(If you download our content directly through LinkedIn—not related to your cookie consent on [cookiebot.com](https://www.cookiebot.com/)—data is shared with Google Ads for the purpose of retargeting. Please see above under “Google Ads” for more information about this provider.)  <br>The data processed will be shared with Expandi.io (ProfitSoft B.V., Meerenakkerplein 51, Eindhoven, 5652BJ, the Netherlands), for the automation of communication and interaction on LinkedIn . You can find further information [here](https://expandi.io/privacy-notice/)._ | LinkedIn Insight Tag (LinkedIn Pixel) –  <br>Advertising  <br>Web analytics service | Device info, IP address, Referrer  <br>URL, Timestamp, Browser info, Hashed e-mails | In the EU ( Ireland), Singapore and the USA | GDPR Art. 6 (1) lit. a | [https://www.linkedin.com/legal/privacy-policy?src=li-other&veh=www.linkedin.com](https://www.linkedin.com/legal/privacy-policy?src=li-other&veh=www.linkedin.com) |
 | Meta Platform Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin, D02, Ireland | Facebook Pixel –  <br>Advertising  <br>Web analytics service | FBClid, Ads viewed, Content viewed, Device info, geographic location, HTTP-header, Interactions with advertisement, services and product, IP address, Items clicked, Marketing info, Pages visited, Pixel ID, Referrer URL, Usage behavior, Facebook cookie info, Facebook user ID, Usage/click behavior, Browser info, Device operating system, Device ID, User agent, Browser type, Hashed e-mails | In the EU (Ireland), Singapore and the USA | GDPR Art. 6 (1) lit. a | [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation) |
@@ -479,9 +480,9 @@ We reserve the right to update this privacy policy from time to time. In the eve
 
 * * *
 
-This Privacy Policy was last modified on November 12, 2024.
+This Privacy Policy was last modified on December 12, 2024.
 
-Click [here](https://www.cookiebot.com/en/cookiebot-privacy-policy-valid-until-november-11-2024/) to see the previous Privacy policy valid until November 11, 2024.
+Click [here](https://www.cookiebot.com/en/cookiebot-privacy-policy-valid-until-december-11-2024/) to see the previous Privacy policy valid until December 11, 2024.
 
      
 
@@ -552,4 +553,4 @@ Follow us
 
 [![Capterra](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
 
-![Capterra](/wp-content/uploads/img/AnVkVKtyGYKAcI3E.svg?t=d924835a)](https://www.capterra.com/p/240030/Cookiebot/reviews/)
+![Capterra](/wp-content/uploads/img/AnVkVKtyGYKAcI3E.svg?t=275b8a0f)](https://www.capterra.com/p/240030/Cookiebot/reviews/)
