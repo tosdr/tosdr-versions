@@ -10,7 +10,7 @@ Zur Erinnerung: Sie können Ihr bevorzugtes Land oder Ihre bevorzugte Sprache je
 
 [Das beste Preis-Leistungs-Verhältnis](https://de.iherb.com/info/about)
 
-[Letzte Chance](https://de.iherb.com/specials?specialtyFilters=12)
+[Geschenkideen](https://de.iherb.com/c/gifts/store)
 
 [Kostenloser Versand ab 40,00 €](https://de.iherb.com/shipping)
 
@@ -30,7 +30,7 @@ EUR
 
 [Das beste Preis-Leistungs-Verhältnis](https://de.iherb.com/info/about)
 
-[Letzte Chance](https://de.iherb.com/specials?specialtyFilters=12)
+[Geschenkideen](https://de.iherb.com/c/gifts/store)
 
 Liefern an   Deutschland
 
