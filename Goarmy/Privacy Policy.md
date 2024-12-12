@@ -482,7 +482,7 @@ Fill in the first and last names of the person who referred you, along with thei
 
  First Name Please enter DoD agent's First Name Last Name Please enter DoD agent's Last Name  DoD ID # Please enter DoD agent's ID  Phone Number (Optional) Please enter DoD agent's Phone Number
 
-Choose the Army career path you’re most interested in. 
+#### Choose the Army career path you’re most interested in.
 
 Full-Time Service
 
@@ -494,67 +494,67 @@ Leadership Training for College (ROTC)
 
 ### Answer True or False to the following statements based on your current situation (optional).
 
-I’m a U.S. citizen or permanent and legal resident (I-551 card). 
+#### I’m a U.S. citizen or permanent and legal resident (I-551 card).
 
 True
 
 False
 
-I am in high school, have a high school diploma, or am enrolled in college. 
+#### I am in high school, have a high school diploma, or am enrolled in college.
 
 True
 
 False
 
-I have a GED. 
+#### I have a GED.
 
 True
 
 False
 
-I don’t have any tattoos. 
+#### I don’t have any tattoos.
 
 True
 
 False
 
-I have some tattoos, with no (or subtle) placement on my hands, neck, or face. 
+#### I have some tattoos, with no (or subtle) placement on my hands, neck, or face.
 
 True
 
 False
 
-I don’t have any medical concerns. 
+#### I don’t have any medical concerns.
 
 True
 
 False
 
-I have a minor medical condition or history. 
+#### I have a minor medical condition or history.
 
 True
 
 False
 
-I don’t have any law violations. 
+#### I don’t have any law violations.
 
 True
 
 False
 
-I have minor law violations, like speeding tickets. 
+#### I have minor law violations, like speeding tickets.
 
 True
 
 False
 
-I’m ready to talk to a recruiter to learn more. 
+#### I’m ready to talk to a recruiter to learn more.
 
 True
 
 False
 
-I’m interested in the Army, but not quite ready to talk to a recruiter. 
+#### I’m interested in the Army, but not quite ready to talk to a recruiter.
 
 True
 
