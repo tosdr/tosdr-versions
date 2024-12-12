@@ -30,7 +30,15 @@ Trending now
 
 [edX For Business](https://business.edx.org/)
 
+**End-of-year savings — get up to 30% off** select programs until December 19. Use code **EDXEOY24**. [Learn more](https://www.edx.org/end-of-year-promo).
+
+Close site banner.
+
 [![edX Online](/trademark-logos/edx-logo-elm.svg)](https://www.edx.org/)
+
+**End-of-year savings — get up to 30% off** select programs until December 19. Use code **EDXEOY24**. [Learn more](https://www.edx.org/end-of-year-promo).
+
+Close site banner.
 
 edX privacy policy
 ==================
