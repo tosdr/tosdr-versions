@@ -111,7 +111,7 @@ WSECU Routing Number: **325181028**
     * [Homebuying Education](https://wsecu.org/resources?focus=format&topic=Home+Mortgage&format=Article)
     * [View All](https://wsecu.org/resources-and-support?topic=Loans)
     
-     [![](/Images/Mega%20Menu/mortgage-counseling.jpg) Sit down with a homeownership counselor. Schedule appointment](https://appointments.wsecu.org/s/TinaL)
+     [![](/Images/Mega%20Menu/mortgage-counseling.jpg) Talk possibilities with a home loan officer. Schedule appointment](https://wsecu.org/loans/mortgage-purchase#appointment2)
     
     * [Find a Home Loan Officer](https://wsecu.org/loans/home-loan-officers)
     * [Welcome Home Grant](https://wsecu.org/welcome-home-grant)
@@ -365,7 +365,7 @@ Go back to the search field
     * [Homebuying Education](https://wsecu.org/resources?focus=format&topic=Home+Mortgage&format=Article)
     * [View All](https://wsecu.org/resources-and-support?topic=Loans)
     
-     [![](/Images/Mega%20Menu/mortgage-counseling.jpg) Sit down with a homeownership counselor. Schedule appointment](https://appointments.wsecu.org/s/TinaL)
+     [![](/Images/Mega%20Menu/mortgage-counseling.jpg) Talk possibilities with a home loan officer. Schedule appointment](https://wsecu.org/loans/mortgage-purchase#appointment2)
     
     * [Find a Home Loan Officer](https://wsecu.org/loans/home-loan-officers)
     * [Welcome Home Grant](https://wsecu.org/welcome-home-grant)
