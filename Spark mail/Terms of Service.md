@@ -2,6 +2,7 @@
 * Features
     * [All Features](https://sparkmailapp.com/features "All Features")
     * [Spark +AI](https://sparkmailapp.com/features/spark-ai "Spark +AI")
+    * [Calendar & Meeting Notes](https://sparkmailapp.com/features/calendar-and-meeting-notes "Calendar & Meeting Notes")
     * [Home Screen](https://sparkmailapp.com/features/home-screen "Home Screen")
     * [Smart Inbox](https://sparkmailapp.com/features/smart_inbox "Smart Inbox")
     * [Gatekeeper](https://sparkmailapp.com/features/gatekeeper "Gatekeeper")
@@ -418,6 +419,7 @@ Address: Glandore Business Centre, Grand Canal House, 1 Grand Canal Street Upper
 ### Features
 
 * [Spark +AI](https://sparkmailapp.com/features/spark-ai)
+* [Calendar & Meeting Notes](https://sparkmailapp.com/features/calendar-and-meeting-notes)
 * [Home Screen](https://sparkmailapp.com/features/home-screen)
 * [Smart Inbox](https://sparkmailapp.com/features/smart_inbox)
 * [Gatekeeper](https://sparkmailapp.com/features/gatekeeper)
