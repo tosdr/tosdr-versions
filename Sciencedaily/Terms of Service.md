@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
+[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
 
-[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
+[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
 
-[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
+[Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+
+[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
 [Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
-[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
-
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
+[Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
 
-[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
+[Biodiversity](https://www.sciencedaily.com/news/earth_climate/biodiversity/)
 
-[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
+[Snow and Avalanches](https://www.sciencedaily.com/news/earth_climate/snow_and_avalanches/)
 
   
 
