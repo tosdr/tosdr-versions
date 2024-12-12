@@ -36,16 +36,16 @@ FOX SCORES
     | IND | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250503)
-* [Women's ODI
+* [Women's T20I
     
-    ENG won by 6 wkts (DLS)
+    NAM won by 6 wkts
     
     |     |     |
     | --- | --- |
-    | RSA | 8 /233 |
-    | ENG | 4 /153 |
+    | MAS | 7 /71 |
+    | NAM | 4 /76 |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250503)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250503)
 * [Big Bash League
     
     15/12 19:15 AEST
@@ -80,126 +80,34 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010123/box-score)
 * [NBL
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | NZB | 42  |
-    | TAS | 59  |
+    | NZB | 76  |
+    | TAS | 100 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25120001/play-by-play)
 * [NBL
     
-    12/12 19:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BRI | –   |
-    | SEM | –   |
+    | BRI | 116 |
+    | SEM | 108 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25120002)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25120002/play-by-play)
 * [WNBL
     
-    12/12 22:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | PER | –   |
-    | CAN | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25070002)
-* Football
-    
-* [UCL
-    
     Full Time
     
     |     |     |
     | --- | --- |
-    | AMD | 3   |
-    | SB  | 1   |
+    | PER | 87  |
+    | CAN | 63  |
     
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250619)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LIL | 3   |
-    | SG  | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250621)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | JUV | 2   |
-    | MCI | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250627)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | STU | 5   |
-    | YB  | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250625)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | ARS | 3   |
-    | MCO | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250633)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BEN | 0   |
-    | BOL | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250635)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BDM | 2   |
-    | BAR | 3   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250623)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | FEY | 4   |
-    | SP  | 2   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250631)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MIL | 2   |
-    | BGD | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250629)
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25070002/play-by-play)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -830,6 +738,7 @@ FOX SCORES
 * [Matildas](https://www.foxsports.com.au/video/football/matildas)
 * [UCL and Europa League](https://www.foxsports.com.au/video/football/ucl-and-europa-league)
 * [Socceroos](https://www.foxsports.com.au/video/football/socceroos)
+* [World Cup](https://www.foxsports.com.au/video/football/world-cup)
 * [Football](https://www.foxsports.com.au/video/football/football)
 * [Asian Champions League](https://www.foxsports.com.au/video/football/asian-champions-league)
 
@@ -933,7 +842,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
