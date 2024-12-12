@@ -117,57 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Jannie Schutte - myFinance-Online.co.za
+Johan Botha - Brand Xplosion
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=70520145)  
-Henry's Home Renovations
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=129693758)  
+LEO DEVELOPMENT GROUP
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=77993339)  
-Cooper Power South Africa (Pty) LTD
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=189891413)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client Eruca](https://www.invoicesonline.co.za/scripts/image.php?bid=8439&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=2587545)  
-Eruca
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=79412821)  
+AMS Ambu Medical Supplies
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=115556120)  
-Highlands Auto Engineering
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=160305360)  
+Creative Characters
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=168108227)  
-IYD
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=57266599)  
+Chiron Medical Solutions
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=124062379)  
-MONSTER CONNECT (PTY) LTD
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=207394297)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=1400630)  
-Lion Software Develepment
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=150623216)  
+BEE SURE CONSULTING (PTY) LTD
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=141868319)  
-J.M. HUMAN RESOURCES
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=86032523)  
+Druce Digital
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=43323976)  
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=196492173)  
 Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=162744622)  
-Frameless Fanatix (Pty) Ltd.
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=174943602)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=157223712)  
-National Elite Security Services (PTY) LTD
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=155373650)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client CBR PAINTS / VERWE](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=58422216)  
-CBR PAINTS / VERWE
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=53419478)  
+OrgChart Hosting Pty Ltd
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=169891184)  
-Peter Salvage Pty Ltd
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=51821817)  
+Mtunzini Group
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=103859675)  
-Multi CNC Solutions CC
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=74493879)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=80610729)  
-FLIPS AUTO ELECTRICAL
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=159534460)  
+Know Informatics
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
