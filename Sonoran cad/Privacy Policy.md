@@ -239,6 +239,8 @@ SearchCtrl + K
                 
             * [Server Functions](https://info.sonorancad.com/integration-plugins/in-game-integration/framework-development-documentation/server-functions)
                 
+            * [Server Events](https://info.sonorancad.com/integration-plugins/in-game-integration/framework-development-documentation/server-events)
+                
             * [HTTP Request Handling](https://info.sonorancad.com/integration-plugins/in-game-integration/framework-development-documentation/http-request-handling)
                 
             
