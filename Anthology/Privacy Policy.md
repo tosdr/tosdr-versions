@@ -1,6 +1,7 @@
 [Skip to main content](#main-content)
 
-[Anthology Together 2025 Registration is Open](https://www2.anthology.com/together)! Get the Earliest Bird Savings until December 31
+[Anthology Together 2025 Registration is Open](https://www2.anthology.com/together)!  
+Get the Earliest Bird Savings until December 31
 
 Audience Menu
 -------------
