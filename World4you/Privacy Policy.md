@@ -4,7 +4,7 @@ Privacy
 Privacy Policy
 ==============
 
-**Last update:**  9\. December 2024
+**Last update:**  12\. December 2024
 
 This data privacy statement applies to (amongst others):
 
@@ -628,7 +628,7 @@ You have the right to withdraw the consent granted by you for the processing of 
 
 You also have the right to lodge a complaint with the competent supervisory authority at any time.
 
-**Linz**, on  9\. December 2024
+**Linz**, on  12\. December 2024
 
 [Download as PDF](https://webcache-eu.datareporter.eu/c/9c8088b5-7ae6-4afc-83c3-f1f089b303c8/5Xps5b0vwZQ5/5z5/privacynotice_en.pdf)
 
@@ -659,6 +659,7 @@ Technically necessary cookies are used to enable the technical operation of a we
 | **cookieconsent\_status** | contains the information to what extent the user has confirmed the use of cookies. | DataReporter GmbH | 12 months | www.world4you.com |
 | **mf\_(ID)** | ensures the functionality and usability of the page and is used to track errors. |     | Session | www.world4you.com |
 | **mf\_user** | counts the number of sessions and assigns an anonymous identifier to each visitor. |     | Session | www.world4you.com |
+| **sessionId** | counts the number of sessions and assigns an anonymous identifier to each visitor. |     | Session | my.world4you.com |
 | **ssm\_au\_c** | save settings and preferences of the user such as the current language setting. | Cloudflare | Session | my.world4you.com |
 | **ti\_cid** | ensures the functionality and usability of the page and is used to track errors. |     | 12 months | world4you.com |
 | **W4YSESSID** | counts the number of sessions and assigns an anonymous identifier to each visitor. |     | Session | www.world4you.com |
@@ -676,6 +677,7 @@ Statistics cookies collect information about how websites are used to improve th
 | **\_gcl\_au** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Google | 3 months | world4you.com |
 | **\_gid** | Contains information to help distinguish users from the page. Gathers data about user visits, such as which pages are relevant. | Google | 1 day | world4you.com |
 | **jts-rw** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Jentis | 1 year | world4you.com |
+| **jts\_ga** | Contains information to help distinguish users from the page. Gathers data about user visits, such as which pages are relevant. | Google | Session | my.world4you.com |
 
 #### Marketing
 
@@ -683,6 +685,7 @@ Marketing cookies come from external advertising companies and are used to colle
 
 | Surname | Purpose | Creator | Storage time | Domain |
 | --- | --- | --- | --- | --- |
+| **\_bl\_uid** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Kognitiv | Session | my.world4you.com |
 | **\_fbc** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Facebook | Session | www.world4you.com |
 | **\_fbp** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Facebook | 3 months | world4you.com |
 | **\_gcl\_aw** | registers a unique ID that identifies and recognizes the user. Used for targeted advertising. | Google | Session | www.world4you.com |
