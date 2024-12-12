@@ -242,7 +242,7 @@ Search
 
 We're sorry, you have added the last quantity. Close
 
-♡ 11% OFF FOR ANY 5 ITEMS PURCHASE ♡ SPEND $15 FREE MAIL AND $33 FREE DELIVERY ♡ Close
+♡ 7% OFF FOR ANY 3 ITEMS PURCHASE ♡ SPEND $15 FREE MAIL AND $33 FREE DELIVERY ♡ Close
 
 RECEIVING & REFUND POLICY
 =========================
