@@ -105,11 +105,6 @@ At any time and without giving any reason, you can request at no cost, informati
 
 By using our site, you acknowledge that you have read and understand our privacy policy. Your use of our website is subject to these policies.
 
-Ezoic Privacy Policy
---------------------
-
-SchemeColor.com may also use [Ezoic](https://www.ezoic.com/) technology platform to serve advertisements. The Ezoic privacy policy can be found at [https://g.ezoic.net/privacy/schemecolor.com](https://g.ezoic.net/privacy/schemecolor.com) and also given below.
-
 ×
 
 Sign in
