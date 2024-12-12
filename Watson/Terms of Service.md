@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)2°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez dégagé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)0°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,24 +55,24 @@
 Thèmes du moment
 
 * [Votation](https://www.watson.ch/fr/votation/)
+* [retraite](https://www.watson.ch/fr/retraite/)
 * [France](https://www.watson.ch/fr/france/)
-* [Police](https://www.watson.ch/fr/police/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [Justice](https://www.watson.ch/fr/justice/)
 * [Emmanuel Macron](https://www.watson.ch/fr/emmanuel-macron/)
+* [Police](https://www.watson.ch/fr/police/)
+* [People](https://www.watson.ch/fr/people/)
 * [Coupe du monde](https://www.watson.ch/fr/coupe-du-monde/)
-* [Travail](https://www.watson.ch/fr/travail/)
-* [Facebook](https://www.watson.ch/fr/facebook/)
 * [Politique](https://www.watson.ch/fr/politique/)
 * [Football](https://www.watson.ch/fr/football/)
 * [Médias](https://www.watson.ch/fr/medias/)
 * [Netflix](https://www.watson.ch/fr/netflix/)
 * [Union Européenne](https://www.watson.ch/fr/union-europeenne/)
+* [Syrie](https://www.watson.ch/fr/syrie/)
 * [Argent](https://www.watson.ch/fr/argent/)
+* [Ski](https://www.watson.ch/fr/ski/)
 * [AVS](https://www.watson.ch/fr/avs/)
 * [Vaud](https://www.watson.ch/fr/vaud/)
-* [Cinéma](https://www.watson.ch/fr/cinema/)
-* [avion](https://www.watson.ch/fr/avion/)
-* [Bachar al-Assad](https://www.watson.ch/fr/bachar-al-assad/)
+* [New York](https://www.watson.ch/fr/new-york/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
