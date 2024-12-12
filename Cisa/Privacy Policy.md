@@ -20,7 +20,7 @@ A **lock** (LockA locked padlock) or **https://** means you’ve safely connecte
 
 [Free Cyber Services](https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools "Free Cyber Services")[Election Threat Updates](https://www.cisa.gov/topics/election-security/election-threat-updates)[#protect2024](https://www.cisa.gov/protect2024)[Secure Our World](https://www.cisa.gov/node/18883)[Shields Up](https://www.cisa.gov/node/8056)[Report A Cyber Issue](https://www.cisa.gov/report)
 
-[![CISA logo image. America's Cyber Defense Agency, National Coordinator for Critical Infrastructure Security and Resilience](/sites/default/files/images/SVG/header_logo_tagline_update.svg)](https://www.cisa.gov/)
+[![CISA logo image. America's Cyber Defense Agency, National Coordinator for Critical Infrastructure Security and Resilience](/sites/default/files/images/SVG/header_logo_tagline_update.svg)![CISA logo image. America's Cyber Defense Agency, National Coordinator for Critical Infrastructure Security and Resilience](/sites/default/files/images/SVG/header_logo_tagline_update.png)](https://www.cisa.gov/)
 
 [![CISA Logo](/sites/default/files/images/SVG/mobile_logo_wordmark.svg)](https://www.cisa.gov/)
 
