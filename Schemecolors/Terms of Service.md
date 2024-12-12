@@ -1,15 +1,31 @@
-[![schemecolor-logo](https://www.schemecolor.com/wp-content/themes/colorsite/images/schemecolor-logo.svg "SchemeColor New Logo")](https://www.schemecolor.com/)
+ [![Schemecolor Logo](https://www.schemecolor.com/wp-content/themes/sc/images/sc-logo.svg) Schemecolor](https://www.schemecolor.com/ "Schemecolor Logo")
 
-*  Login
-*  [Generate](https://www.schemecolor.com/tools/color-scheme-generator "Color Scheme Generator")
-*  [Create](https://www.schemecolor.com/create "Create a color scheme")
-*  Search
-*  Menu
+All Gradient Hex
+
+  search
+
+* [Schemes](https://www.schemecolor.com/schemes)
+* [Gradients](https://www.schemecolor.com/gradients)
+* [Tools](https://www.schemecolor.com/tools)
+* [Generator](https://www.schemecolor.com/tools/color-scheme-generator)
+* [Create](https://www.schemecolor.com/tools/create)
+* [Explorekeyboard\_arrow\_down](#)
+    
+    [![color](https://www.schemecolor.com/wp-content/themes/sc/images/blank.svg)](https://www.schemecolor.com/color/blue "blue color")[![color](https://www.schemecolor.com/wp-content/themes/sc/images/blank.svg)](https://www.schemecolor.com/color/teal "teal color")[![color](https://www.schemecolor.com/wp-content/themes/sc/images/blank.svg)](https://www.schemecolor.com/color/green "green color")[![color](https://www.schemecolor.com/wp-content/themes/sc/images/blank.svg)](https://www.schemecolor.com/color/yellow "yellow color")[![color](https://www.schemecolor.com/wp-content/themes/sc/images/blank.svg)](https://www.schemecolor.com/color/orange "orange color")[![color](https://www.schemecolor.com/wp-content/themes/sc/images/blank.svg)](https://www.schemecolor.com/color/red "red color")[![color](https://www.schemecolor.com/wp-content/themes/sc/images/blank.svg)](https://www.schemecolor.com/color/pink "pink color")[![color](https://www.schemecolor.com/wp-content/themes/sc/images/blank.svg)](https://www.schemecolor.com/color/purple "purple color")[![color](https://www.schemecolor.com/wp-content/themes/sc/images/blank.svg)](https://www.schemecolor.com/color/brown "brown color")[![color](https://www.schemecolor.com/wp-content/themes/sc/images/blank.svg)](https://www.schemecolor.com/color/gray "gray color")[![color](https://www.schemecolor.com/wp-content/themes/sc/images/blank.svg)](https://www.schemecolor.com/color/black "black color")[![color](https://www.schemecolor.com/wp-content/themes/sc/images/blank.svg)](https://www.schemecolor.com/color/white "white color")
+    
+    * * *
+    
+    ##### Collections
+    
+    [Gradients](https://www.schemecolor.com/gradients) [Tools](https://www.schemecolor.com/tools) [Flags](https://www.schemecolor.com/color/flags) [Brands](https://www.schemecolor.com/color/brand-colors) [Interior](https://www.schemecolor.com/color/interior) [Exterior](https://www.schemecolor.com/tag/exterior) [Sports](https://www.schemecolor.com/tag/sports) [Pastel](https://www.schemecolor.com/color/pastel) [Retro](https://www.schemecolor.com/tag/retro) [Wedding](https://www.schemecolor.com/tag/wedding) [Skin](https://www.schemecolor.com/tag/skin) [Bright](https://www.schemecolor.com/tag/bright) [Dull](https://www.schemecolor.com/tag/dull) [Blog](https://www.schemecolor.com/color/blog)
+    
+    [View All](https://www.schemecolor.com/tags)
+    
+
+[Login](https://www.schemecolor.com/wp-login.php?redirect=terms)
 
 Terms of Service
 ================
-
-[Home](https://www.schemecolor.com/ "Go to Schemecolor.") › Terms of Service
 
 **Date of Last Revision : 2019-11-01**
 
@@ -80,99 +96,39 @@ The web site, content and services are provided “as is”. We offer no warrant
 
 We would not be liable to you or any other person or entity for any general, punitive, special, indirect, consequential or incidental damages, or lost profits or any other damages, costs or losses arising out of your use of the web site or its content or our services.
 
-×
+* * *
 
-Sign in
--------
+* ##### Popular
+    
+* [Color Schemes](https://www.schemecolor.com/schemes)
+* [Gradients](https://www.schemecolor.com/gradients)
+* [Image Palettes](https://www.schemecolor.com/color/image)
+* [Brand & Logo colors](https://www.schemecolor.com/color/brand-colors)
 
-Dont have account?  
-[Create one](https://www.schemecolor.com/wp-login.php?action=register&redirect_to=https://www.schemecolor.com/terms)
+* ##### Color tools
+    
+* [Color code converter](https://www.schemecolor.com/tools/color-code-converter)
+* [Image to Palette](https://www.schemecolor.com/tools/image-to-palette)
+* [Color Scheme Generator](https://www.schemecolor.com/tools/color-scheme-generator)
+* [Gradients Palette Creator](https://www.schemecolor.com/tools/create-gradient-palette)
+* [Contrast Checker](https://www.schemecolor.com/tools/contrast-checker)
+
+* ##### Information
+    
+* [About Us](https://www.schemecolor.com/about)
+* [Privacy Policy](https://www.schemecolor.com/privacy)
+* [Terms of use](https://www.schemecolor.com/terms)
+* [Contact Us](https://www.schemecolor.com/contact)
+
+ [![Schemecolor Logo](https://www.schemecolor.com/wp-content/themes/sc/images/sc-logo.svg) Schemecolor](https://www.schemecolor.com/)
+
+[About](https://www.schemecolor.com/about)   |   [Privacy](https://www.schemecolor.com/privacy)   |   [Contact](https://www.schemecolor.com/contact)
+
+[Facebook](https://www.facebook.com/schemecolor) [Twitter](https://twitter.com/myschemecolor) [Pinterest](https://pinterest.com/schemecolor/) [Instagram](https://www.instagram.com/schemecolor_official/)
 
   
+© Schemecolor.com
 
-[Forgotten your password?](https://www.schemecolor.com/wp-login.php?action=lostpassword)
+cookie We use cookies to enhance your experience. By using SchemeColor.com, you agree to our [Privacy Policy](https://www.schemecolor.com/privacy).
 
-×
-
-* [Red Color](https://www.schemecolor.com/color/red "Red")
-* [Orange](https://www.schemecolor.com/color/orange "Orange")
-* [Pink](https://www.schemecolor.com/color/pink "Pink")
-* [Purple](https://www.schemecolor.com/color/purple "Purple")
-* [Blue](https://www.schemecolor.com/color/blue "Blue")
-* [Light Blue](https://www.schemecolor.com/color/light-blue "Light Blue")
-* [Green](https://www.schemecolor.com/color/green "Green")
-* [Light Green](https://www.schemecolor.com/color/light-green "Light Green")
-* [Yellow](https://www.schemecolor.com/color/yellow "Yellow")
-* [Violet](https://www.schemecolor.com/color/violet "Violet")
-* [Gray](https://www.schemecolor.com/color/gray "Gray")
-* [Brown](https://www.schemecolor.com/color/brown "Brown")
-
-* [Flag Colors](https://www.schemecolor.com/color/flags)
-* [Brand & Logo](https://www.schemecolor.com/color/brand-colors)
-* [Web Design](https://www.schemecolor.com/color/web)
-* [Graphic Design](https://www.schemecolor.com/color/graphic-designing)
-* [Exterior](https://www.schemecolor.com/color/exterior-colors)
-* [Image Colors](https://www.schemecolor.com/color/image)
-* [Rainbow](https://www.schemecolor.com/tag/rainbow)
-* [Bright](https://www.schemecolor.com/color/bright-colors)
-* [Pastel](https://www.schemecolor.com/color/pastel)
-* [Monochromatic](https://www.schemecolor.com/color/monochromatic)
-* [Wedding](https://www.schemecolor.com/color/wedding-colors)
-* [Skin Tones](https://www.schemecolor.com/color/skin-colors)
-* [Sports Team](https://www.schemecolor.com/color/sports-team)
-* [Dull Colors](https://www.schemecolor.com/color/dull-color-schemes)
-* [Fall / Autumn](https://www.schemecolor.com/color/fall-autumn)
-* [Blog Posts](https://www.schemecolor.com/color/blog)
-
-×
-
-##### Trending Search Topics
-
-* [Valentine](https://www.schemecolor.com/color/valentine-colors)
-* [Summer](https://www.schemecolor.com/tag/summer)
-* [Christmas](https://www.schemecolor.com/tag/christmas)
-* [Pastel](https://www.schemecolor.com/?trend&s=pastel)
-* [USA Flag](https://www.schemecolor.com/?trend&s=usa+flag)
-* [Pride](https://www.schemecolor.com/?trend&s=pride)
-* [Home Exterior](https://www.schemecolor.com/best-home-exterior-color-combinations-and-design-ideas.php?trend)
-* [Skin Colors](https://www.schemecolor.com/15-beautiful-skin-tone-color-palettes.php?trend)
-
-[SchemeColor is on instagram now! Follow us to get inspiring color palettes everyday](https://www.instagram.com/schemecolor_official/)
-
-[![SchemeColor New logo](https://www.schemecolor.com/wp-content/themes/colorsite/images/schemecolor-logo-white.png "SchemeColor New Logo")](https://www.schemecolor.com/)
-
-[About](https://www.schemecolor.com/about)  |  [Contact](https://www.schemecolor.com/contact)  |  [Privacy](https://www.schemecolor.com/privacy)  |  [Terms](https://www.schemecolor.com/terms)
-
-[](https://www.facebook.com/schemecolor)[](https://twitter.com/myschemecolor)[](https://pinterest.com/schemecolor/)[](https://www.youtube.com/channel/UCP6cVOMVyz94eXkX_vT6TiA/)[](https://www.instagram.com/schemecolor_official/)
-
-2024 © SchemeColor.com
-
-* ##### Tools
-    
-* [Color Scheme Generator](https://www.schemecolor.com/tools/color-scheme-generator)
-* [Create Color Scheme](https://www.schemecolor.com/create)
-* [Image To Color Palette](https://www.schemecolor.com/image-to-color-generator)
-* [Color Code Converter](https://www.schemecolor.com/color-code-converter)
-* [Color Tester](https://www.schemecolor.com/color-tester)
-
-* ##### POPULAR
-    
-* [Flag Colors](https://www.schemecolor.com/color/country-flag)
-* [Brand & Logo Colors](https://www.schemecolor.com/color/brand-colors)
-* [Exterior Colors](https://www.schemecolor.com/color/exterior-colors)
-* [Colors from Photos](https://www.schemecolor.com/color/image)
-* [Web Design Colors](https://www.schemecolor.com/tag/webdesign)
-* [Blog Posts](https://www.schemecolor.com/color/blog)
-
-* ##### TRENDING
-    
-* [Summer](https://www.schemecolor.com/?trend&s=summer)
-* [Wedding](https://www.schemecolor.com/?trend&s=wedding)
-* [Pastel](https://www.schemecolor.com/?trend&s=pastel)
-* [USA Flag](https://www.schemecolor.com/?trend&s=usa+flag)
-* [Pride](https://www.schemecolor.com/?trend&s=pride)
-* [Valentine](https://www.schemecolor.com/color/valentine-colors)
-
-We use cookies to give you the best possible website experience. By using SchemeColor.com, you agree to our [Privacy Policy](https://www.schemecolor.com/privacy?ref=gdpr)
-
-X
+cancel
