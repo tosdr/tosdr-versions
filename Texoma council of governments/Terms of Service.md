@@ -163,7 +163,7 @@ Dec 19
 
 5:30 pm - 7:00 pm [Event Series](https://tcog.com/series/governing-board-meeting-2/ "Event Series")
 
-### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting/2024-12-19/ "Governing Board Meeting")
+### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting-14/ "Governing Board Meeting")
 
 Sherman
 
