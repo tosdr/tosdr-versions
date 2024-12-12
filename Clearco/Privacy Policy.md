@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6759c296d84a4935ff04212e_best-home-goods-gifts-holiday-season2.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/675b233789dcb1c23ffea0fa_ecommerce-brand-ordering-extra-inventory-holiday-season.png)
 
-###### Best Home Goods Gifts to Wrap This Holiday Season
+###### Holiday Inventory Planning for Ecommerce: Avoid Stockouts & Maximize Sales
 
-[Read now >](https://clear.co/blog/best-home-goods-gifts-holiday-season)
+[Read now >](https://clear.co/blog/holiday-inventory-planning-ecommerce-avoid-stockouts-maximize-sales)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
