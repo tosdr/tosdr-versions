@@ -611,7 +611,17 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 Most recent
 -----------
 
-[11-12-2024
+[12-12-2024
+
+Europe’s energy poverty problem is getting worse, country-specific solutions needed](https://www.euractiv.com/section/eet/news/europes-energy-poverty-problem-is-getting-worse-country-specific-solutions-needed/)[12-12-2024
+
+Combined technology and regulation push required for EU cities to achieve net zero, says new study](https://www.euractiv.com/section/eet/news/combined-technology-and-regulation-push-required-for-eu-cities-to-achieve-net-zero-says-new-study/)[11-12-2024
+
+Put forest resilience at heart of carbon storage incentives budget, say experts](https://www.euractiv.com/section/eet/news/put-forest-resilience-at-heart-of-carbon-storage-incentives-budget-say-experts/)[11-12-2024
+
+Hungarian presidency urges ‘intergenerational solidarity’ to meet demographic challenges, ageing population](https://www.euractiv.com/section/health-consumers/news/hungarian-presidency-urges-intergenerational-solidarity-to-meet-demographic-challenges-ageing-population/)[11-12-2024
+
+Energy security will be central to Polish presidency, says climate minister](https://www.euractiv.com/section/eet/news/energy-security-will-be-central-to-polish-presidency-says-climate-minister/)[11-12-2024
 
 Europe can have its own Silicon Valley, with digital SMEs at its heart](https://www.euractiv.com/section/digital/news/europe-can-have-its-own-silicon-valley-with-digital-smes-at-its-heart/)[11-12-2024
 
@@ -621,17 +631,7 @@ Trade deal could give Mercosur a leg up on EU anti-deforestation law](https://ww
 
 Companies from 20 countries welcomed in NATO innovation accelerator](https://www.euractiv.com/section/global-europe/news/companies-from-20-countries-welcomed-in-nato-innovation-accelerator/)[11-12-2024
 
-Macron in Warsaw to pitch Ukraine peacekeeping mission after war ends](https://www.euractiv.com/section/global-europe/news/macron-in-warsaw-to-pitch-ukraine-peacekeeping-mission-after-war-ends/)[11-12-2024
-
-EU countries find compromise on fishing reduction in western Mediterranean](https://www.euractiv.com/section/agriculture-food/news/eu-countries-find-compromise-on-fishing-reduction-in-western-mediterranean/)[11-12-2024
-
-Scholz submits request to hold confidence vote, paves way for February elections](https://www.euractiv.com/section/politics/news/scholz-submits-request-to-hold-confidence-vote-paves-way-for-february-elections/)[11-12-2024
-
-Ukraine-Russia war raised in Putin-Orbán call](https://www.euractiv.com/section/politics/news/ukraine-russia-war-raised-in-putin-orban-call-kremlin-says/)[11-12-2024
-
-Brussels allows member states to limit access to asylum](https://www.euractiv.com/section/politics/news/brussels-allows-member-states-to-limit-access-to-asylum/) [11-12-2024
-
-Parliament negotiators caution against reforms conditionality for EU budget](https://www.euractiv.com/section/economy-jobs/news/parliament-negotiators-caution-against-reforms-conditionality-for-eu-budget/)
+Macron in Warsaw to pitch Ukraine peacekeeping mission after war ends](https://www.euractiv.com/section/global-europe/news/macron-in-warsaw-to-pitch-ukraine-peacekeeping-mission-after-war-ends/)
 
 ###### Advertisement
 
