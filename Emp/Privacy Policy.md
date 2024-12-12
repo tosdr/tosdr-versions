@@ -152,13 +152,13 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Packstation suchen
 
-[](https://www.emp.de/sale/)
+[](https://www.emp.de/bekleidung/?pmid=SAM-3374_20per_Afterwork_EUR)
 
-Geschenke pünktlich zum Fest!
+20% EXTRA auf (fast) ALLES\*
 
-Sichere dir dein Schnäppchen!
+Ab auf den Weihnachtsmarkt!
 
-[Jetzt shoppen!](https://www.emp.de/sale/ "Jetzt shoppen!")
+[Jetzt bestellen!](https://www.emp.de/bekleidung/?pmid=SAM-3374_20per_Afterwork_EUR "Jetzt bestellen!") Code **SAVE** kopieren
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
@@ -493,7 +493,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Ja, unser Kundenservice ist heute erreichbar bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Kundenservice ist am nächsten Tag wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
