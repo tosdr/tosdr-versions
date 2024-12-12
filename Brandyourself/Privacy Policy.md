@@ -1,4 +1,4 @@
-[](#) **[![BrandYourself](//s3.brandyourself.com/themes/default/images/logo.png)](https://brandyourself.com/)[![BrandYourself](//s2.brandyourself.com/themes/default/images/logo-white.png)](https://brandyourself.com/)**
+[](#) **[![BrandYourself](//s3.brandyourself.com/themes/default/images/logo.png)](https://brandyourself.com/)[![BrandYourself](//s3.brandyourself.com/themes/default/images/logo-white.png)](https://brandyourself.com/)**
 
 * [INDIVIDUALS](https://brandyourself.com/reputation-management-software)
     
@@ -30,7 +30,7 @@
     * [Glassdoor Review Management](https://brandyourself.com/glassdoor-review-management)
     * [Employee Branding Services](https://brandyourself.com/employee-branding-services)
     
-    ![image description](//s1.brandyourself.com/themes/default/images/img89-2.png)
+    ![image description](//s2.brandyourself.com/themes/default/images/img89-2.png)
     
     We’re here to help. [Call (646) 863-8282](tel:+16468638282)
     
@@ -58,7 +58,7 @@
     * [Contact Us](https://brandyourself.com/contact)
     
 
-* [![image description](//s1.brandyourself.com/themes/default/images/icon-60.svg)(646) 863-8226](tel:+16468638226)
+* [![image description](//s3.brandyourself.com/themes/default/images/icon-60.svg)(646) 863-8226](tel:+16468638226)
 * [Log in](https://brandyourself.com/login)
 * [free reputation report](https://brandyourself.com/sign-up)
 
@@ -383,7 +383,7 @@ The following capitalized terms shall have the meanings herein as set forth belo
 
 **AS FEATURED ON:**
 
-* [![shark tank](//s1.brandyourself.com/themes/default/images/shark-tank.png)](https://brandyourself.com/press)
-* [![wsj](//s1.brandyourself.com/themes/default/images/wsj.svg)](https://brandyourself.com/press)
-* [![forbes](//s3.brandyourself.com/themes/default/images/forbes.svg)](https://brandyourself.com/press)
-* [![npr](//s2.brandyourself.com/themes/default/images/npr.png)](https://brandyourself.com/press)
+* [![shark tank](//s3.brandyourself.com/themes/default/images/shark-tank.png)](https://brandyourself.com/press)
+* [![wsj](//s3.brandyourself.com/themes/default/images/wsj.svg)](https://brandyourself.com/press)
+* [![forbes](//s2.brandyourself.com/themes/default/images/forbes.svg)](https://brandyourself.com/press)
+* [![npr](//s1.brandyourself.com/themes/default/images/npr.png)](https://brandyourself.com/press)
