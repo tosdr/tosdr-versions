@@ -16,7 +16,7 @@ _menu_
 *    
     
 
-Announcing Dart 3.5 and an updated Dart roadmap! [Learn more](https://medium.com/dartlang/dart-3-5-6ca36259fa2f)
+Dart 3.6 is here! Read the [blog post](https://medium.com/dartlang/announcing-dart-3-6-778dd7a80983) to learn about new features in pub and the language.
 
 * [Overview](https://dart.dev/overview)
 * [Community](https://dart.dev/community)
