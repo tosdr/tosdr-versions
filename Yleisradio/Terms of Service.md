@@ -2,7 +2,7 @@
 
 [Etusivu](https://yle.fi/)
 
-[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Syyria](https://yle.fi/a/74-20129860)[Pentulive](https://yle.fi/t/18-332106/fi)
+[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Pentulive](https://yle.fi/t/18-332106/fi)
 
 [Hae](https://haku.yle.fi/)
 
@@ -14,7 +14,6 @@ Valikko
 Pinnalla nyt
 
 * [Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)
-* [Syyria](https://yle.fi/a/74-20129860)
 * [Pentulive](https://yle.fi/t/18-332106/fi)
 
 * [Etusivu](https://yle.fi/)
