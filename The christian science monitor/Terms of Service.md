@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Cooperation
+[Equality
 
-### How fall of Assad showcases the Biden-Trump policy divide in the Mideast](https://www.csmonitor.com/USA/Foreign-Policy/2024/1211/syria-trump-biden-isis-iran-mideast "How fall of Assad showcases the Biden-Trump policy divide in the Mideast")
+### Equality is on Syria’s agenda](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1212/Equality-is-on-Syria-s-agenda "Equality is on Syria’s agenda")
 
-[Dignity
+[Community
 
-### African art that liberates](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1211/African-art-that-liberates "African art that liberates")
+### Malibu’s wildfire threatens my community. It’s also bringing us together.](https://www.csmonitor.com/USA/2024/1212/franklin-fire-malibu-update "Malibu’s wildfire threatens my community. It’s also bringing us together.")
 
-[Peace
+[Prosperity
 
-### Time to go home? Hezbollah ceasefire offers northern Israelis hope.](https://www.csmonitor.com/World/Middle-East/2024/1210/israel-lebanon-border-hezbollah-ceasefire-evacuees "Time to go home? Hezbollah ceasefire offers northern Israelis hope.")
+### How young Nigerian women in arranged ‘money marriages’ are getting a new start](https://www.csmonitor.com/World/Making-a-difference/2024/1212/nigeria-money-marriage-girls-becheve "How young Nigerian women in arranged ‘money marriages’ are getting a new start")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### With Assad’s ouster, Russia’s Mideast influence collapses. What will Moscow do now?](https://www.csmonitor.com/World/Europe/2024/1211/russia-syria-regime-assad-hts-iran "With Assad’s ouster, Russia’s Mideast influence collapses. What will Moscow do now?")
+[### Malibu’s wildfire threatens my community. It’s also bringing us together.](https://www.csmonitor.com/USA/2024/1212/franklin-fire-malibu-update "Malibu’s wildfire threatens my community. It’s also bringing us together.")
 
-[### In ‘new crisis era,’ Tokyo needs help from Seoul and DC. Can it count on them?](https://www.csmonitor.com/World/Asia-Pacific/2024/1211/japan-south-korea-alliance-china-defense "In ‘new crisis era,’ Tokyo needs help from Seoul and DC. Can it count on them?")
+[### How young Nigerian women in arranged ‘money marriages’ are getting a new start](https://www.csmonitor.com/World/Making-a-difference/2024/1212/nigeria-money-marriage-girls-becheve "How young Nigerian women in arranged ‘money marriages’ are getting a new start")
 
-[### Preemptive pardons could protect Trump targets, but veer into politics](https://www.csmonitor.com/USA/Justice/2024/1211/presidential-preemptive-pardon-biden-trump "Preemptive pardons could protect Trump targets, but veer into politics")
+[### FBI Director Christopher Wray reluctantly resigns saying, ‘I love our mission’](https://www.csmonitor.com/USA/2024/1212/christopher-wray-fbi-trump-biden-kash-patel "FBI Director Christopher Wray reluctantly resigns saying, ‘I love our mission’")
 
 * * *
 
