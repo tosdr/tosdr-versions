@@ -16,7 +16,9 @@
     
     Collect real-time digital feedback from your website or app](https://www.alchemer.com/digital/)
     
-    [Pulse ![](https://www.alchemer.com/wp-content/uploads/2024/07/Frame-41.png)
+    [Pulse ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2033%2020'%3E%3C/svg%3E)
+    
+    ![](https://www.alchemer.com/wp-content/uploads/2024/07/Frame-41.png)
     
     Turn noisy text feedback into signals you can act on](https://www.alchemer.com/pulse/)
     
@@ -82,7 +84,9 @@
     
     [Resource Library](https://www.alchemer.com/resources/)
     
-    [![](https://www.alchemer.com/wp-content/uploads/2024/04/Alchemer-Research-Solutions-3.webp)](https://www.alchemer.com/resources/blog/introducing-alchemer-research-solutions/)
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20543'%3E%3C/svg%3E)
+    
+    ![](https://www.alchemer.com/wp-content/uploads/2024/04/Alchemer-Research-Solutions-3.webp)](https://www.alchemer.com/resources/blog/introducing-alchemer-research-solutions/)
     
     From the Blog
     
@@ -447,9 +451,13 @@ Effective: May 25, 2018
 
 Updated:  September 2, 2024
 
-[![](https://www.alchemer.com/wp-content/uploads/2024/08/alchemer_logo_100-1.webp)](https://www.alchemer.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20624%20100'%3E%3C/svg%3E)
 
-![](https://www.alchemer.com/wp-content/uploads/2024/05/G2-Fall-2024-Badges.png)
+![](https://www.alchemer.com/wp-content/uploads/2024/08/alchemer_logo_100-1.webp)](https://www.alchemer.com/)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20860%20300'%3E%3C/svg%3E)
+
+![](https://www.alchemer.com/wp-content/uploads/2024/05/G2-Fall-2024-Badges-3.png)
 
 Company
 
