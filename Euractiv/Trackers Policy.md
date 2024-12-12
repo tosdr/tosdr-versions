@@ -111,6 +111,10 @@ Most recent
 
 [12-12-2024
 
+Romania and Bulgaria to fully join Schengen Area in 2025](https://www.euractiv.com/section/politics/news/romania-and-bulgaria-to-fully-join-schengen-area-in-2025/)[12-12-2024
+
+French tower ‘war’: mobile internet down in 10 communes](https://www.euractiv.com/section/tech/news/french-tower-war-mobile-internet-down-in-10-communes/)[12-12-2024
+
 LinkedIn faces EU scrutiny over mandatory changes on targeted ads](https://www.euractiv.com/section/tech/news/linkedin-faces-eu-scrutiny-over-mandatory-changes-on-targeted-ads/)[12-12-2024
 
 Georgia protesters fight on as Macron blasts arbitrary arrests](https://www.euractiv.com/section/global-europe/news/georgia-protesters-fight-on-as-macron-blasts-arbitrary-arrests/)[12-12-2024
@@ -125,11 +129,7 @@ Donald Tusk Orbán-proofs Polish private media](https://www.euractiv.com/section
 
 Slovak ombudsman and opposition to challenge information bill in Constitutional Court](https://www.euractiv.com/section/politics/news/slovak-ombudsman-and-opposition-to-challenge-information-bill-in-constitutional-court/)[12-12-2024
 
-Czech EPP MEP says joining right bloc in EU Parliament is what ‘voters want’](https://www.euractiv.com/section/politics/news/czech-epp-mep-says-joining-right-bloc-in-eu-parliament-is-what-voters-want/)[12-12-2024
-
-Puigdemont’s party urges Sánchez to pay ‘what he owes’ to Catalonia](https://www.euractiv.com/section/politics/news/puigdemonts-party-urges-sanchez-to-pay-what-he-owes-to-catalonia/)[12-12-2024
-
-Italian government divided over scrapping COVID-19 vaccine opponent fines](https://www.euractiv.com/section/politics/news/italian-government-divided-over-scrapping-covid-19-vaccine-opponent-fines/)
+Czech EPP MEP says joining right bloc in EU Parliament is what ‘voters want’](https://www.euractiv.com/section/politics/news/czech-epp-mep-says-joining-right-bloc-in-eu-parliament-is-what-voters-want/)
 
 ###### Advertisement
 
