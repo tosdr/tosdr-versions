@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/news/sugary-drinks-raise-cardiovascular-diease-risk-1440x810.jpg)
+
+Soda May Raise Heart Disease Risk More Than the Occasional Sweet Treat](https://www.everydayhealth.com/heart-health/soda-may-raise-heart-disease-risk-more-than-occasional-sweet/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/glp-1s-reduce-blood-clot-risk-1440x810.jpg)
 
 GLP-1 Drugs Like Ozempic Tied to Lower Risk of Serious Blood Clots](https://www.everydayhealth.com/heart-health/glp-1-drugs-tied-to-lower-risk-of-blood-clots-in-people-with-diabetes/) [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/eating-dark-chocolate-tied-lower-ddiabetes-risk-1440x810.jpg)
-
-Dark Chocolate May Lower Type 2 Diabetes Risk](https://www.everydayhealth.com/diabetes/dark-chocolate-may-lower-type-2-diabetes-risk/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/organic-carrots-recalled-for-e-coli-1440x810.jpg)
 
