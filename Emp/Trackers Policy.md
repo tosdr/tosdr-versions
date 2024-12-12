@@ -313,7 +313,7 @@ Subscribe now and you’ll get 15% OFF your next order! [More](https://www.emp-o
 
  Your email
 
-I hereby consent to receive the EMP Newsletter and consent that EMP Mail Order UK Ltd may process my personal data and send me information about its products on a regular basis. My personal data will be processed in conformity with the provisions of the [Data Privacy Policy](https://www.emp-online.com/on/demandware.store/Sites-GLB-Site/en/Raffle-ShowCondition?contentId=terms-privacy-policy). I may revoke my consent at any time by notifying EMP Mail Order UK Ltd.
+I hereby consent to receive the EMP Newsletter and agree that EMP Mail Order UK Ltd may process my personal data to send me regular updates about its products. My personal data will be handled in accordance with the provisions of the [Data Privacy Policy](https://www.emp-online.com/on/demandware.store/Sites-GLB-Site/en/Raffle-ShowCondition?contentId=terms-privacy-policy "Open privacy statement") . I may withdraw my consent at any time by notifying EMP Mail Order UK Ltd.
 
 [Here](https://www.emp-online.com/on/demandware.store/Sites-GLB-Site/en/EmarsysNewsletter-EmailUnsubscribeConfirmation) I can unsubscribe from the newsletter.
 
@@ -325,7 +325,7 @@ Subscribe
 
 Our customer services are here for you
 
-You can reach us by phone tomorrow from 9:00 AM until 5:30 PM on {2}. [More Info](https://www.emp-online.com/contact)
+Today our customer service is available from 9:00 AM am to 5:30 PM pm. [More Info](https://www.emp-online.com/contact)
 
 Start chat
 
