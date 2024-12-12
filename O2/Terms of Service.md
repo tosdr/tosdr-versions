@@ -40,7 +40,7 @@
     * [AirPods](https://www.o2.co.uk/airpods)
     * [Coming soon](https://www.o2.co.uk/shop/coming-soon)
     * [Great deals](https://www.o2.co.uk/shop/great-deals)
-    * [Black Friday deals](https://www.o2.co.uk/black-friday-cyber-monday)
+    * [Christmas Sale](https://www.o2.co.uk/christmas)
     
     * [![](https://a.storyblok.com/f/253875/137x34/7d4cb8fb12/quick-links-apple-1100.png/m/384x0)](https://www.o2.co.uk/shop/brand/apple?cnd=new)
         
