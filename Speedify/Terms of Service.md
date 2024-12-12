@@ -139,9 +139,9 @@ Dec 18
 
 #### Popular Posts
 
+* [WhatsApp Not Working on Wi-Fi? \[SOLVED\]](https://speedify.com/blog/fix-internet-disconnecting/whatsapp-not-working-on-wifi/)
+* [WhatsApp Hangs and Is Not Working - Here's How to Fix It](https://speedify.com/blog/fix-internet-disconnecting/fix-whatsapp-hangs-and-is-not-working/)
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
-* [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
-* [\[TUTORIAL\] Snapchat Unblocked at School - How to Guide](https://speedify.com/blog/how-to/snapchat-unblocked-at-school-tutorial/)
 
 ### Bonding Apps
 
