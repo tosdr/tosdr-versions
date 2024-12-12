@@ -1,18 +1,16 @@
-[Blender Market
-
-The indie market for Blender creators](https://blendermarket.com/)
+[![](https://assets.superhivemarket.com/site_assets/blendermarketlogo.png)](https://blendermarket.com/)
 
 [Explore Marketplace](#)
 
-Browse by category[* Addons](https://blendermarket.com/categories/addons)[* Models](https://blendermarket.com/categories/models)[* Surfacing](https://blendermarket.com/categories/surfacing)[* Modifier Setups](https://blendermarket.com/categories/modifier-setups)[* Render Setups](https://blendermarket.com/categories/render-setups)[* Training](https://blendermarket.com/categories/training)* [Free](https://blendermarket.com/products?sort_price=asc)
+##### Browse by category
+
+[* Addons](https://blendermarket.com/categories/addons)[* Models](https://blendermarket.com/categories/models)[* Surfacing](https://blendermarket.com/categories/surfacing)[* Modifier Setups](https://blendermarket.com/categories/modifier-setups)[* Render Setups](https://blendermarket.com/categories/render-setups)[* Training](https://blendermarket.com/categories/training)* [Free](https://blendermarket.com/products?sort_price=asc)
 
 * [View All Products](https://blendermarket.com/products)
 * [Popular Items](https://blendermarket.com/products?sort_sales=desc)
 * [New Arrivals](https://blendermarket.com/products?sort_date=desc)
 
-[Blender Market
-
-The indie market for Blender creators](https://blendermarket.com/)
+[![](https://assets.superhivemarket.com/site_assets/blendermarketlogo.png)](https://blendermarket.com/)
 
  All Categories Addons Models Surfacing Modifier Setups Render Setups Training
 
@@ -26,7 +24,9 @@ The indie market for Blender creators](https://blendermarket.com/)
 
  All Categories Addons Models Surfacing Modifier Setups Render Setups Training
 
-Browse by category[* Addons](https://blendermarket.com/categories/addons)[* Models](https://blendermarket.com/categories/models)[* Surfacing](https://blendermarket.com/categories/surfacing)[* Modifier Setups](https://blendermarket.com/categories/modifier-setups)[* Render Setups](https://blendermarket.com/categories/render-setups)[* Training](https://blendermarket.com/categories/training)* [Free](https://blendermarket.com/products?sort_price=asc)
+##### Browse by category
+
+[* Addons](https://blendermarket.com/categories/addons)[* Models](https://blendermarket.com/categories/models)[* Surfacing](https://blendermarket.com/categories/surfacing)[* Modifier Setups](https://blendermarket.com/categories/modifier-setups)[* Render Setups](https://blendermarket.com/categories/render-setups)[* Training](https://blendermarket.com/categories/training)* [Free](https://blendermarket.com/products?sort_price=asc)
 * [View All Products](https://blendermarket.com/products)
 * [Popular Items](https://blendermarket.com/products?sort_sales=desc)
 * [New Arrivals](https://blendermarket.com/products?sort_date=desc)
@@ -586,7 +586,7 @@ This privacy policy relates solely to this Website, if not stated otherwise with
 
 ![bee icon](https://assets.superhivemarket.com/site_assets/images/bee_white.svg) ![trihex icon](https://assets.superhivemarket.com/site_assets/images/trihex_white.svg) ![hexglobe icon](https://assets.superhivemarket.com/site_assets/images/hexglobe_white.svg) ![superbutton icon](https://assets.superhivemarket.com/site_assets/images/superbutton_white.svg) ![wing icon](https://assets.superhivemarket.com/site_assets/images/winghex_white.svg)
 
-v2.10.0
+v2.10.1
 
 #### Follow Us
 
