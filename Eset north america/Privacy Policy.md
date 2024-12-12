@@ -654,7 +654,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/about/newsroom/press-releases/)
+[United States (EN)](https://www.eset.com/us/policy-hub/privacy/)
 
 * * *
 
@@ -679,6 +679,6 @@ San Diego, California
 
 ##### © 2008-2024 ESET North America. All rights reserved. Trademarks used herein are trademarks or registered trademarks of ESET spol. s r.o. or ESET North America. All other names and brands are registered trademarks of their respective companies.
 
-5.36.1.mas.1f8fe11a.awus
+5.36.2.mas.7db95e0d.awus
 
 ![](https://ssitecat.eset.com/b/ss/esetgwsprod/1/H.27.5--NS/0)
