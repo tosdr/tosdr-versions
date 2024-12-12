@@ -2,7 +2,7 @@
 
 Open menu Open navigation [](https://www.redditinc.com/)Go to Reddit Home
 
-Get app Get the Reddit app [Log In](https://www.reddit.com/login/) Log in to Reddit
+Get App Get the Reddit app [Log In](https://www.reddit.com/login/) Log in to Reddit
 
 Expand user menu Open settings menu
 
