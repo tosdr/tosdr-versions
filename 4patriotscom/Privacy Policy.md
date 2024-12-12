@@ -1,8 +1,8 @@
-[🎄 Don't Wait! Score Santa-Approved Deals & Gifts![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)](https://4patriots.com/category/deals)
+[\[Limited-Time\] 2X Power + Save 50% OFF Extra Panel![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)](https://4patriots.com/product/100w-portable-folding-solar-panel)
 
-[](https://4patriots.com/category/deals)
+[](https://4patriots.com/product/100w-portable-folding-solar-panel)
 
-[](https://4patriots.com/category/deals)[Shop Now](https://4patriots.com/category/deals)
+[](https://4patriots.com/product/100w-portable-folding-solar-panel)[Shop Now](https://4patriots.com/category/deals)
 
 ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
 
@@ -40,19 +40,19 @@ Search
     
     [Shop All](https://4patriots.com/category/deals)
     
-    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F1abd78e7a79a48ddb14cce805c8646b8?width=343)
+    [![72 Hour Food Kit in front of the Christmas tree](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fdc51854a890d466b8c68d7130b2e5343?width=343)
     
-    B1G1 Mini Generator Deal](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![72 Hour Food Kit in front of the Christmas tree](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F9627210a4b13464cb9af3ca7ff9d1cea?width=343)
+    50% OFF 100-Watt Solar Panel](https://4patriots.com/product/100w-portable-folding-solar-panel)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F1abd78e7a79a48ddb14cce805c8646b8?width=343)
     
-    FREE 72-Hour Food Kit](https://4patriots.com/product/72-hour-emergency-survival-food-kit)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F18eb4df89fce447fb8df45519e514965?width=343)
+    B1G1 Mini Generator Deal](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F53b2f8faa63c483aab46b333e5c6123b?width=343)
     
-    "Mini" Cooler & Warmer](https://4patriots.com/product/freedom-fridge-electric-cooler-warmer)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F53b2f8faa63c483aab46b333e5c6123b?width=343)
+    #1 Emergency Kit for Cars](https://4patriots.com/product/patriot-power-all-in-one-emergency-car-kit-95-pieces)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F18eb4df89fce447fb8df45519e514965?width=343)
     
-    #1 Emergency Kit for Cars](https://4patriots.com/product/patriot-power-all-in-one-emergency-car-kit-95-pieces)
+    "Mini" Cooler & Warmer](https://4patriots.com/product/freedom-fridge-electric-cooler-warmer)
     
     [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fafe30086aaf54c3191129ed6c3913c9b?width=500)](https://4patriots.com/category/deals)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F4a521c4c3a8f4b5f8006029711027a7c?width=638)](https://4patriots.com/product/emergency-food-ration-bars)
     
-    ###### Check Out Our Gift Guide For More Savings
+    ###### Check Out More Santa-Approved Savings
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
@@ -126,13 +126,13 @@ Search
     
     Best Sellers](https://4patriots.com/category/solar-power/solar-power-best-sellers)
     
-    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/SITE-AD-2409-PPG-2KX-CHARGING-DEVICES-704x1000.jpg)](https://4patriots.com/product/patriot-power-solar-generator-2000x-solar-panel)[![](https://s3-us-west-2.amazonaws.com/catsy.1040/SITE-AD-2410-PPG-2KX-CHARGING-DEVICES-854x674.jpg)](https://4patriots.com/product/patriot-power-solar-generator-2000x-solar-panel)
+    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F9d91ba3bcad84853a4e844895c0f9d68?width=500)](https://4patriots.com/product/patriot-power-solar-generator-2000x-solar-panel)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F8914726f809e418088d6636627921cd9?width=638)](https://4patriots.com/product/patriot-power-solar-generator-2000x-solar-panel)
     
-    ###### Backup Power When The World Goes Dark
+    ###### Limited Time - Save 50% On Extra Panel
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
-    [Shop the 2000X Generator](https://4patriots.com/product/patriot-power-solar-generator-2000x-solar-panel)
+    [Shop 100W Solar Panel](https://4patriots.com/product/100w-portable-folding-solar-panel)
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
