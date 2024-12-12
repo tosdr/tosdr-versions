@@ -31,6 +31,178 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Autopista General Rumiñahui, con cierre parcial este jueves 12 de diciembre
+===========================================================================
+
+Un choque se produjo en la Autopista General Rumiñahui a la altura del puente 6. Los carriles laterales se encuentran cerrados para atender la emergencia
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El choque se dio a la altura del puente 6.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-12T074633.332.jpg)
+
+El ECU911 informó sobre una **emergencia** registrada en la **Autopista General Rumiñahui** este jueves 12 de diciembre de 2024, en Quito.
+
+### Más noticias
+
+* [¿Sintieron el temblor de 2.9 en Quito?](https://www.elcomercio.com/actualidad/quito/un-temblor-de-2-9-se-registro-en-quito-este-jueves-12-de-diciembre.html "¿Sintieron el temblor de 2.9 en Quito?")
+* [Así funciona el Pico y placa en Quito este jueves 12 de diciembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-jueves-11-de-diciembre.html "Así funciona el Pico y placa en Quito este jueves 12 de diciembre")
+* [AMT impulsa la campaña No le creas al alcohol para salvar vidas](https://www.elcomercio.com/actualidad/quito/amt-impulsa-campana-no-le-creas-al-alcohol-para-salvar-vidas.html "AMT impulsa la campaña No le creas al alcohol para salvar vidas")
+
+El choque involucró a una ambulancia
+------------------------------------
+
+E**l Servicio de Emergencias** dio a conocer que recibió una llamada de alerta a las 07:06 de este jueves 12 de diciembre a la línea única de emergencias 911.
+
+En la llamada se avisaba sobre un siniestro de tránsito en la **Autopista General Rumiñahui,** a la altura del puente 6.
+
+Desde la Sala Operativa del ECU911 se coordinó la asistencia inmediata a las personas afectadas con la Policía Nacional y el **Cuerpo de Bomberos Quito.**
+
+Los paramédicos atienden a un **motociclista herido** y le brindan atención de primeros auxilios. Luego de la evaluación se decidirá si necesita atención médica en una casa de salud.
+
+En fotos compartidas se puede ver además **a un bus y a una ambulancia** involucrados en el choque.
+
+Al momento, **los carriles laterales de la autopista en el sentido Quito-Valle están cerrados** a la circulación vehicular, por lo que se registra congestión [vehicular en la zona](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador"). Busca vías alternas.
+
+Agentes de la **Policía Nacional** colaboran en la gestión del tránsito en la zona y asisten a los conductores en la vía. El cierre permanecerá mientras se solventa la emergencia para precautelar la seguridad de los involucrados y del personal de socorro.
+
+Luego de la atención a las personas heridas se debe esperar el retiro de los automotores para volver a habilitar los carriles cerrados.
+
+Sin embargo, la Prefectura de Pichincha informó que los **carriles centrales** de la autopista se encuentran totalmente habilitados. Circula con precaución.
+
+> [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Los carriles laterales en el sentido Quito – Valle de Los Chillos, de la Autopista General Rumiñahui están cerrados mientras atendemos un siniestro de tránsito. Los carriles centrales están habilitados.  
+>   
+> Maneja con precaución. [https://t.co/V7vjJH1TIi](https://t.co/V7vjJH1TIi)
+> 
+> — Autopista Rumiñahui (@AutopistaGR) [December 12, 2024](https://twitter.com/AutopistaGR/status/1867187394077946240?ref_src=twsrc%5Etfw)
+
+**_Noticia en desarrollo…_**
+
+¿Sintieron el temblor de 2.9 en Quito?
+======================================
+
+Usuarios de X reportaron haber sentido el temblor desde los sectores del norte de Quito, como Calderón, Llano Grande, Pusuquí,, Pomasqui.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Un sismo se registró en Quito este 12 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-12T071606.278.jpg)
+
+El **Instituto Geofísico** (IG) de la Politécnica Nacional informó este **jueves 12 de diciembre** de 2024 sobre la actividad sísmica registrada en Ecuador.
+
+### Más noticias
+
+* [Así funciona el Pico y placa en Quito este jueves 12 de diciembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-jueves-11-de-diciembre.html "Así funciona el Pico y placa en Quito este jueves 12 de diciembre")
+* [La Estación Marín Central de la Ecovía en Quito se cierra, así será el servicio](https://www.elcomercio.com/actualidad/quito/ecovia-marin-central-estacion-servicio.html "La Estación Marín Central de la Ecovía en Quito se cierra, así será el servicio")
+* [Bomberos rescataron a perrita que cayó a una quebrada en Quito](https://www.elcomercio.com/actualidad/bomberos-rescate-perrita-quebrada-quito.html "Bomberos rescataron a perrita que cayó a una quebrada en Quito")
+
+El temblor en Quito
+-------------------
+
+Un sismo se registró en la madrugada de este **jueves 12 de diciembre** de 2024, exactamente a las 06:20:20.
+
+Este temblor tuvo una **magnitud de 2.9** en la escala de Richter y se dio a una profundidad de 13 kilómetros de la superficie.
+
+Además, a una latitud de 0.102 °S y a una longitud de 78.372° W. **Su epicentro** se localizó a 13,77 kilómetros de **Quito, Pichincha.**
+
+Usuarios en redes sociales **confirmaron haber sentido el temblor** a pesar de que fue de poca magnitud.
+
+Los comentarios llegaron de sectores com**o Calderón, L**lano Grande, Pomasqui, Yaruquí, la Río Coca e incluso desde La Armenia. Los quiteños aseguran que lo sintieron de **manera leve y que fue rápido**.
+
+Algunas personas reportaron, en cambio, que se trató de un [sacudón fuerte](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador"). Así lo hicieron moradores de El Bosque, Plaza de Toros.
+
+Añadieron que se dieron cuenta del temblor debido al sonido de los **vidrios de las ventanas** moviéndose.
+
+> \[REVISADO\]  
+> Evento: igepn2024yjao  
+> Ocurrido: 2024-12-12 06:20:20  
+> Mag.: 2.9MLv  
+> Prof.: 13.0 km  
+> Lat.: 0.102° S  
+> Long.: 78.372° W  
+> Localizado: a 13.77 km de Quito, Pichincha  
+> Sintió este sismo? Repórtelo: [https://t.co/tKRnIKOQ7v](https://t.co/tKRnIKOQ7v) [pic.twitter.com/NDBUamyXEZ](https://t.co/NDBUamyXEZ)
+> 
+> — Instituto Geofísico (@IGecuador) [December 12, 2024](https://twitter.com/IGecuador/status/1867169036267573574?ref_src=twsrc%5Etfw)
+
+Temblor en Santa Elena
+----------------------
+
+El martes 10 de diciembre, **un temblor se registró en Ecuador**. El sismo tuvo una magnitud de 4.2 en la escala de Richter y se registró a una profundidad de 10 kilómetros.
+
+El **movimiento telúrico** se ubicó a una latitud de 2.730° S y a una longitud de 80.953° W.
+
+Su epicentro se localizó a **55,47 kilómetros de La Libertad,** provincia de Santa Elena.
+
+Usuarios en redes sociales comentaron que **no sintieron el sismo**. Esto posiblemente porque el epicentro se ubicó en el mar.
+
+> \[REVISADO\]  
+> Evento: igepn2024ygac  
+> Ocurrido: 2024-12-10 14:43:58  
+> Mag.: 4.2MLv  
+> Prof.: 10.0 km  
+> Lat.: 2.730° S  
+> Long.: 80.953° W  
+> Localizado: a 55.47 km de La Libertad, Santa Elena  
+> Sintió este sismo? Repórtelo: [https://t.co/CQP0eSlvey](https://t.co/CQP0eSlvey) [pic.twitter.com/mKmoL5CVrP](https://t.co/mKmoL5CVrP)
+> 
+> — Instituto Geofísico (@IGecuador) [December 10, 2024](https://twitter.com/IGecuador/status/1866571743353262143?ref_src=twsrc%5Etfw)
+
+Así funciona el Pico y placa en Quito este jueves 12 de diciembre
+=================================================================
+
+Recuerda que diciembre es la última posibilidad para cumplir con el proceso de matriculación si te atrasaste en tu mes.
+-----------------------------------------------------------------------------------------------------------------------
+
+![El pico y placa se aplica en Quito para controlar el tráfico.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-24.jpg)
+
+El **pico y placa continúa vigente en Quito** para autos y motos; esta medida se implementó para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+### Más noticias
+
+* [Quedan pocos días para revisión técnica vehicular en Quito](https://www.elcomercio.com/actualidad/quito/guia-rezagados-matricular-vehiculo-quito.html "Quedan pocos días para revisión técnica vehicular en Quito")
+* [AMT impulsa la campaña No le creas al alcohol para salvar vidas](https://www.elcomercio.com/actualidad/quito/amt-impulsa-campana-no-le-creas-al-alcohol-para-salvar-vidas.html "AMT impulsa la campaña No le creas al alcohol para salvar vidas")
+* [Daniel Noboa asegura que hubo un coche bomba cerca de un acto en Machala](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-coche-bomba-cerca-acto-machala.html "Daniel Noboa asegura que hubo un coche bomba cerca de un acto en Machala")
+
+El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales o de servicios de salud.
+
+El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
+
+El esquema de aplicación:
+-------------------------
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes:** los que finalizan en 3 y 4.
+* **Miércoles:** los de dígitos 5 y 6.
+* **Jueves:** los que tengan 7 y 8.
+* **Viernes:** las placas 9 y 0.
+
+Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
+
+Multas por infringir Pico y placa
+---------------------------------
+
+La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
+
+Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
+
+Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
+
+Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
+
+Matriculación vehicular
+-----------------------
+
+Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de diciembre es la última posibilidad para cumplir con el proceso de matriculación si te atrasaste en tu mes.[Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+Recuerda que la AMT realiza controles preventivos de exceso de velocidad en Quito. Reduce la velocidad y maneja con precaución.
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) |  
+> ¡Aún estás a tiempo!  
+> 🗓️ Diciembre es el mes para ponerte al día con tu vehículo.  
+> ✅ Realiza la Revisión Técnica Vehicular y matrícula el automotor, evita que la multa siga creciendo.  
+> ☝️¡Cierra el año sin preocupaciones!  
+>   
+> Con responsabilidad ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Zwx8UK09Rf](https://t.co/Zwx8UK09Rf)
+> 
+> — AMTQuito (@AMT\_Quito) [December 9, 2024](https://twitter.com/AMT_Quito/status/1866112814017896561?ref_src=twsrc%5Etfw)
+
 Control de virus respiratorios en Ecuador
 =========================================
 
@@ -1102,197 +1274,3 @@ Descubre las historias de mujeres que rompieron el silencio frente a la violenci
 Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Nuevos precios de las gasolinas extra y ecopaís desde este 12 de diciembre
-==========================================================================
-
-Ecuador regula cada mes los precios de las gasolinas extra y ecopaís de acuerdo al comportamiento del petróleo internacional.
------------------------------------------------------------------------------------------------------------------------------
-
-![Ecuador regula el precio de las gasolinas extra y ecopaís cada mes](https://www.elcomercio.com/wp-content/uploads/2024/12/nuevo-precio-gasolina-ecuador.jpg)
-
-Las gasolinas **extra y ecopaís** (de 85 octanos) tienen un **nuevo precio** desde este jueves 12 de diciembre de 2024.
-
-### Más noticias
-
-* [Diciembre, un mes propicio para la prevención los siniestros de tránsito](https://www.elcomercio.com/opinion/editorial/diciembre-mes-propicio-prevencion-siniestros-transito.html "Diciembre, un mes propicio para la prevención los siniestros de tránsito")
-* [Daniel Noboa y su roce con el Legislativo por la ‘Ley Antipillos’, ¿quién tiene la razón?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-pugna-con-legislativo-ley-antipillos-quien-tiene-razon.html "Daniel Noboa y su roce con el Legislativo por la ‘Ley Antipillos’, ¿quién tiene la razón?")
-* [‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-tomara-accion-si-publica-ley-antipillos.html "‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales")
-
-Así lo confirmó **Oswaldo Erazo**, secretario ejecutivo de la Cámara Nacional de Distribuidores de Derivados del Petróleo del Ecuador (**Camddepe**).
-
-Los nuevos valores estarán vigentes hasta el **11 de enero** de 2025.
-
-Gasolinas extra y ecopaís bajaron 3,7 centavos
-----------------------------------------------
-
-Desde las 00:00 de este jueves 12 de diciembre, el valor de las gasolinas extra y ecopaís bajarán **0,037 dólares**, un poco más de tres centavos.
-
-El precio en noviembre alcanzó los **2,679 dólares** por galón. Para estos días de diciembre y enero, el nuevo valor es de **2,642 dólares por galón**.
-
-> El precio de la gasolina extra y ecopaís baja desde este 12 de diciembre a $2,642 por galón.
-> 
-> — Oswaldo Erazo (@oswaldo\_erazoa) [December 11, 2024](https://twitter.com/oswaldo_erazoa/status/1866960404712464790?ref_src=twsrc%5Etfw)
-
-Regulación de los precios de las gasolinas
-------------------------------------------
-
-El cambio de precios se lo hace **mensualmente**, bajo un **esquema de bandas**, que se aplica desde julio de 2024.
-
-Este sistema regula el precio de las gasolinas extra y ecopaís permitiendo un aumento máximo del 5% mensual y una posible reducción de hasta el **10% del valor anterior**.
-
-La variación depende del comportamiento del precio del petróleo a nivel internacional.
-
-Este ajuste responde a la decisión del Gobierno de **Daniel Noboa** de eliminar parcialmente el subsidio a estas gasolinas.
-
-La regulación mensual se la realiza con base en el **Reglamento Codificado** de Regulación de Precios de Derivados de Hidrocarburos,
-
-**_Noticia en desarrollo.._.**
-
-Daniel Noboa y su roce con el Legislativo por la ‘Ley Antipillos’, ¿quién tiene la razón?
-=========================================================================================
-
-El debate por la ‘Ley Antipillos’ enfrenta al Ejecutivo y la Asamblea, con posturas opuestas sobre su validez constitucional.
------------------------------------------------------------------------------------------------------------------------------
-
-![Daniel Noboa en la firma de convenio de financiamiento para la ampliación de la vía La Primavera.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-11T175543.665.jpg)
-
-La promulgación de la **Ley Orgánica para la Mejora Recaudatoria** a través del **Combate al Lavado de Activos**, conocida como **‘Ley Antipillos’**, por parte del presidente Daniel Noboa, desató un enfrentamiento institucional.
-
-### Más noticias
-
-* [‘Ley Antipillos’ regula el deporte profesional y el mercado de vehículos usados](https://www.elcomercio.com/actualidad/negocios/ley-antipillos-regula-el-deporte-profesional-y-el-mercado-de-vehiculos-usados.html "‘Ley Antipillos’ regula el deporte profesional y el mercado de vehículos usados")
-* [Asamblea Nacional presentará acción de inconstitucionalidad por ‘Ley Antipillos’](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-presentara-accion-incostitucionalidad-por-ley-antipillos.html "Asamblea Nacional presentará acción de inconstitucionalidad por ‘Ley Antipillos’")
-* [El bloqueo, el papel principal de la Asamblea Nacional](https://www.elcomercio.com/opinion/editorial/bloqueo-papel-principal-asamblea-nacional.html "El bloqueo, el papel principal de la Asamblea Nacional ")
-
-Publicada en el Registro Oficial el **10 de diciembre**, esta norma fue adoptada luego de que el Ejecutivo argumentara que el **Legislativo no resolvió su trámite en el plazo constitucional**.
-
-Sin embargo, el secretario general de la Asamblea Nacional, **Alejandro Muñoz**, calificó la medida como un **‘apagón jurídico’**. Asimismo, indicó que el proyecto había sido **negado y archivado** en un primer debate legislativo, lo que, según él, invalida su promulgación.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) [#ComunicadoAsamblea](https://twitter.com/hashtag/ComunicadoAsamblea?src=hash&ref_src=twsrc%5Etfw) | En defensa de los ecuatorianos y de la institucionalidad del país presentamos una acción de inconstitucionalidad. [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/tmRXAYmX0D](https://t.co/tmRXAYmX0D)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [December 10, 2024](https://twitter.com/AsambleaEcuador/status/1866553524508577995?ref_src=twsrc%5Etfw)
-
-Asamblea cuestionó legalidad de la publicación de ‘Ley Antipillos’
-------------------------------------------------------------------
-
-Desde la Asamblea, se cuestionó la **legalidad del decreto**, argumentando que viola el principio de separación de poderes establecidos en el artículo 140 de la Constitución. Muñoz subrayó que el archivo del proyecto tiene plena validez jurídica.
-
-Además, señaló irregularidades en la actuación del Ejecutivo, que solicitó una certificación sobre el estado del proyecto y, horas después, **promulgó la norma sin esperar respuesta**. Este acto, dijo, refleja una falta de respeto al marco jurídico.
-
-Ante esta situación, la Asamblea anunció acciones legales para enfrentar lo que consideran una inconstitucionalidad. Se analiza la presentación de una demanda ante la Corte Constitucional y una posible acción penal contra el Ejecutivo por arrogación de funciones.
-
-Pugna entre Daniel Noboa y Legislativo por la ‘Ley Antipillos’
---------------------------------------------------------------
-
-El debate sobre la publicación de la **‘Ley Antipillos’** ha generado una controversia jurídica entre el Ejecutivo y la Asamblea Nacional. Esteban Ron, especialista en derecho constitucional, señaló que el Gobierno fundamenta su postura en el principio de s**upremacía constitucional**.
-
-Según el **artículo 137 de la Carta Magna**, las leyes deben tratarse en dos debates, siendo este un requisito ineludible. Además, Ron destacó otros **principios como la jerarquía normativa** y la aplicación directa de la Constitución, que fortalecen la posición del Ejecutivo de considerar publicada la ley tras el vencimiento del plazo.
-
-> Si le congelamos el dinero, le quitamos el poder al narcoterrorismo.  
->   
-> La [#LeyAntipillos](https://twitter.com/hashtag/LeyAntipillos?src=hash&ref_src=twsrc%5Etfw) no tiene banderas políticas solo busca poner bajo la lupa a quienes pretenden ir en contra de los intereses de los ecuatorianos. Con acciones firmes, aseguramos que los recursos ilegales no… [pic.twitter.com/532ceGnPRt](https://t.co/532ceGnPRt)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [December 11, 2024](https://twitter.com/Presidencia_Ec/status/1866960062184558678?ref_src=twsrc%5Etfw)
-
-Un conflicto para la Corte Constitucional
------------------------------------------
-
-Ron indicó que, a pesar de la invocación de los **artículos 60 y 61 de la LOFL** por parte de la Asamblea, estos podrían ser **considerados inconstitucionales**.
-
-El especialista explicó que la **contradicción entre la Constitución y la LOFL** podría resolverse con herramientas como una acción de interpretación constitucional.
-
-Añadió que, si bien en ocasiones anteriores leyes han sido archivadas en el primer debate, este caso marca la primera vez que se enfrenta un **conflicto de este tipo bajo el esquema** de control abstracto constitucional en Ecuador.
-
-Para Ron, los **artículos 424 y siguientes de la Constitución** ofrecen fundamentos para sostener la posición del Ejecutivo. Estos artículos refuerzan principios como la supremacía constitucional, la obligatoriedad de dos **debates legislativos y la jerarquía normativa**.
-
-Además, Ron destacó que la resolución de este conflicto debe recaer en la **Corte Constitucional**, que podría decidir mediante una acción interpretativa. Este sería un paso clave para determinar la validez de la publicación de la ley y **resolver esta inédita antinomia jurídica**.
-
-Dos posturas de interpretación
-------------------------------
-
-Por su parte, **Edison Guarango, abogado constitucionalista**, explicó que existen dos posturas principales. El Ejecutivo sostuvo que si una ley económica urgente no es aprobada ni rechazada en el plazo estipulado, se entiende publicada.
-
-La segunda, defendida por la Asamblea, se basa en el **artículo 60 de la LOFL**, que permite archivar proyectos en el primer debate. Según Guarango, esta normativa tiene presunción de constitucionalidad y no se puede ignorar mientras no la declaren inconstitucional.
-
-> 🟣RUEDA DE PRENSA  
->   
-> Buenas noticias: El Ecuador ya cuenta con la [#LeyAntipillos](https://twitter.com/hashtag/LeyAntipillos?src=hash&ref_src=twsrc%5Etfw) para combatir el lavado de dinero y al crimen organizado.  
->   
-> “El que nada debe nada teme. Por qué les preocupa a algunos asambleístas el fortalecimiento de la UAFE", señaló el asambleísta Adrián Castro… [pic.twitter.com/6cIR2UGqCV](https://t.co/6cIR2UGqCV)
-> 
-> — Bancada ADN (@BancadaADN) [December 11, 2024](https://twitter.com/BancadaADN/status/1866890857367953664?ref_src=twsrc%5Etfw)
-
-Guarango subrayó que este **conflicto no puede analizarse únicamente desde la Constitución**, ya que las leyes orgánicas son parte del ordenamiento jurídico. Afirmó que un análisis sistemático que considere tanto la Carta Magna como la LOFL permite concluir que la Asamblea podía archivar la ley en el primer debate.
-
-Este enfoque, según Guarango, respalda la decisión de la Asamblea y pone en duda la validez de la publicación de la ‘Ley Antipillos’.
-
-Los videojuegos más esperados por la comunidad ‘gamer’ en 2025 
-===============================================================
-
-En 2025, los ‘gamers’ ecuatorianos esperan emocionados títulos como ‘GTA VI’.
------------------------------------------------------------------------------
-
-![En 2025, Ecuador se une a la ola global de interés por los videojuegos. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/Videojuegos-Ecuador.jpg)
-
-El 2025 se perfila como un año emocionante para la **industria de los videojuegos**. Con un crecimiento sostenido en Ecuador y América Latina, la comunidad ‘gamer’ está ansiosa por los **lanzamientos que marcarán tendencia**. 
-
-### Más noticias
-
-* [Farmear, campear, NPC y AFK: Guía de lenguaje para entender a los gamers](https://www.elcomercio.com/games/farmear-campear-npc-y-afk-guia-de-lenguaje-para-entender-a-los-gamers.html "https://www.elcomercio.com/games/farmear-campear-npc-y-afk-guia-de-lenguaje-para-entender-a-los-gamers.html")
-* [Riesgos de usar ‘cracks’ y ‘cheats’ en los videojuegos](https://www.elcomercio.com/games/cracks-cheats-videojuegos-malware-software.html "https://www.elcomercio.com/games/cracks-cheats-videojuegos-malware-software.html")
-
-**Videojuegos destacados para 2025** 
--------------------------------------
-
-### **‘Grand Theft Auto VI’** 
-
-Uno de los lanzamientos más anticipados es **‘Grand Theft Auto VI’**. Este título de **Rockstar Games** promete revolucionar la experiencia de juego. Se espera que llegue a las consolas **PlayStation 5 y Xbox Series a finales de 2025**. La expectativa es alta, ya que la franquicia ha sido un pilar en el mundo de los videojuegos. Según analistas, este juego podría ser el catalizador para **aumentar las ventas de consolas** y suscripciones, según [La República](https://www.larepublica.co/internet-economy/grand-theft-auto-6-encabeza-la-lista-de-los-videojuegos-mas-esperados-para-2025-4000182 "https://www.larepublica.co/internet-economy/grand-theft-auto-6-encabeza-la-lista-de-los-videojuegos-mas-esperados-para-2025-4000182").  
-
-### **‘Assassin’s Creed: Shadows’** 
-
-Otro título esperado es **‘Assassin’s Creed: Shadows’**. Este juego, que se retrasó desde octubre de 2024, ofrece una nueva perspectiva sobre la famosa franquicia. El aspecto gráfico promete sumergir a los jugadores en un mundo realista. Su lanzamiento está programado para **febrero de 2025** y se espera que atraiga tanto a nuevos jugadores como a fanáticos de la serie, siguiendo con la misma fuente.  
-
-### **‘Borderlands 4’** 
-
-La saga Borderlands también regresa con **‘Borderlands 4’**. Este juego mantendrá su estilo característico de **acción y humor**, y ofrecerá nuevas aventuras en un **mundo post-apocalíptico**. La fecha de lanzamiento está prevista para **mediados de 2025** y se espera que esté disponible en múltiples plataformas, a decir de [VidaExtra](https://www.vidaextra.com/listas/estos-juegos-esperados-2025-gta-6-borderlands-4-metroid-prime-4-beyond-mucho "https://www.vidaextra.com/listas/estos-juegos-esperados-2025-gta-6-borderlands-4-metroid-prime-4-beyond-mucho"). 
-
-### **‘Metroid Prime 4’** 
-
-**Nintendo** no se queda atrás con el esperado **‘Metroid Prime 4’**. Este título, según [Hobbyconsolas](https://www.hobbyconsolas.com/reportajes/20-juegos-multiplataforma-van-definir-2025-1416787 "https://www.hobbyconsolas.com/reportajes/20-juegos-multiplataforma-van-definir-2025-1416787"), ha generado **gran expectativa entre los fans** desde su anuncio hace varios años. Se prevé que llegue junto con la **nueva consola portátil de Nintendo**, lo que podría revitalizar el interés por la marca en Ecuador. 
-
-### **‘Doom: The Dark Ages’** 
-
-La icónica **saga Doom** también tendrá una nueva entrega llamada **‘Doom: The Dark Ages’**. Este juego promete una **experiencia intensa y gráfica**, ideal para los amantes del **género ‘shooter’**. Su lanzamiento está programado para fines de 2025, según [News](https://news.instant-gaming.com/es/articulos/8276-nuestros-10-juegos-mas-esperados-de-2025 "https://news.instant-gaming.com/es/articulos/8276-nuestros-10-juegos-mas-esperados-de-2025"). 
-
-### **‘Death Stranding 2: On the Beach’** 
-
-Los seguidores de **Hideo Kojima** esperan con ansias **‘Death Stranding 2: On the Beach’**. Este título explorará **nuevas narrativas** y mecánicas innovadoras que han caracterizado al creador japonés. Aunque no hay una fecha exacta, se espera que sea uno de los grandes lanzamientos del año, siguiendo con la misma fuente.  
-
-**Intereses en Ecuador**  
---------------------------
-
-Los **gamers ecuatorianos** muestran preferencias por géneros como **RPGs, ‘shooters’ y juegos de aventura**. La comunidad local ha estado activa en **redes sociales**, y ha compartido sus expectativas sobre estos lanzamientos.  
-
-Para **Andrés ‘Widow’ López**, ‘gamer’ profesional que representó al país en la **International Esports Federation** en Bali, Indonesia, los juegos que espera para este 2025 en consolas son: 
-
-* ‘Spider-Man 2’ para PS5. 
-
-* ‘Wolverine’ para PS5. 
-
-* ‘GTA 6’ para PC. 
-
-Además, espera con ansias las actualizaciones que traerán el 2025 para juegos como ‘CS 2’, ‘DOTA 2’ y los nuevos héroes que añadirá ‘Overwatch’.  
-
-Por su parte, **Marcelo Moya**, director de la Escuela de Ingeniería en Mecatrónica de la UIDE, destaca que en el **panorama gamer para 2025** varios títulos se perfilan como imprescindibles, con alta proyección de popularidad y seguimiento en plataformas especializadas como **Metacritic, Game Informer, Reddit, Twitch y YouTube**.  
-
-**‘Final Fantasy VII Rebirth’** de Square Enix, **‘Star Wars Outlaws’** y **‘Avowed’** de Obsidian Entertainment son algunos de los más esperados, con mecánicas innovadoras, historias profundas y gráficos de última generación. **‘Grand Theft Auto VI’** también genera gran expectación, reflejada en **discusiones y encuestas**, convirtiéndose en el gran acontecimiento del año. Estos juegos responden a las tendencias actuales y las expectativas de los desarrolladores, lo que asegura una temporada de experiencias inolvidables para los ‘gamers’ más apasionados. 
-
-**Tendencias globales** 
-------------------------
-
-A nivel global, el **interés por los videojuegos** ha crecido exponencialmente. Plataformas como **Twitch y YouTube Gaming** han permitido a los jugadores compartir experiencias y **generar comunidades** alrededor de estos títulos esperados. En Ecuador, este fenómeno también se refleja en la **participación activa en foros y redes sociales.** 
-
-El año 2025 promete ser muy bueno para la **comunidad ‘gamer’ en Ecuador**. Con lanzamientos esperados como ‘GTA VI’, los ‘gamers’ tienen motivos para estar emocionados.  
-
-### Te recomendamos:
