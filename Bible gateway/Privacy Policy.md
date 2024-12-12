@@ -39,7 +39,7 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[Go Ad-FREE with BibleGateway+ for as low as $4.17/mo.](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=bgplus_alert_aslowas417_120924)
+[BEST VALUE in digital Bible study. Start for FREE.](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=bgplus_alert_value1010)
 
 close
 
