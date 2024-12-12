@@ -23,7 +23,7 @@
     
     |     |     |
     | --- | --- |
-    | ![GL-MT6000 / Flint 2](https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt6000.jpg) | ###### Home Wi-Fi<br><br>[GL-MT6000 / Flint 2 POPULAR](https://www.gl-inet.com/products/gl-mt6000/)  <br>[GL-B3000 / Marble NEW](https://www.gl-inet.com/products/gl-b3000/)  <br>[GL-AX1800 / Flint](https://www.gl-inet.com/products/gl-ax1800/)  <br>[GL-B1300 / Convexa-B](https://www.gl-inet.com/products/gl-b1300/) |
+    | ![GL-MT6000 / Flint 2](https://static.gl-inet.com/www/images/products/general/product-list/product-list_mt6000.jpg) | ###### Home Wi-Fi<br><br>[GL-BE9300 / Flint 3 UPCOMING](https://www.gl-inet.com/products/gl-be9300/)  <br>[GL-MT6000 / Flint 2 POPULAR](https://www.gl-inet.com/products/gl-mt6000/)  <br>[GL-B3000 / Marble NEW](https://www.gl-inet.com/products/gl-b3000/)  <br>[GL-AX1800 / Flint](https://www.gl-inet.com/products/gl-ax1800/)  <br>[GL-B1300 / Convexa-B](https://www.gl-inet.com/products/gl-b1300/) |
     
     |     |     |
     | --- | --- |
