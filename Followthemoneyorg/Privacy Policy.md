@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![disclosure map](/assets/logos/isrequirementsmap.png)](http://www.followthemoney.org/research/institute-research/best-practices-for-independent-spending-part-one)
-
-How does your state stack up for essential disclosure requirements?
+[![2013 and 2014: Monetary Competitiveness in State Legislative Races](/assets/Uploads/Comp-vs-Incumb.png)](https://www.followthemoney.org/research/institute-reports/2013-and-2014-monetary-competitiveness-in-state-legislative-races/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
