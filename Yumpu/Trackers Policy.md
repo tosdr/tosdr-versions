@@ -1,4 +1,4 @@
-[![logo](https://assets.yumpu.com/release/YPZdEOAZDAIU1ID/v5/img/logo/Yumpu_Logo_RGB.svg)](https://www.yumpu.com/en "Yumpu")
+[![logo](https://assets.yumpu.com/release/SApus3qj8HwmbKi/v5/img/logo/Yumpu_Logo_RGB.svg)](https://www.yumpu.com/en "Yumpu")
 
 [EN](#)
 
@@ -48,7 +48,7 @@ In the event of contradictions between the English and German versions of the Co
 
 Last Update: 2022-09-20
 
-![logo](https://assets.yumpu.com/release/YPZdEOAZDAIU1ID/v5/img/logo/yumpu-footer.svg)
+![logo](https://assets.yumpu.com/release/SApus3qj8HwmbKi/v5/img/logo/yumpu-footer.svg)
 
 [](https://www.facebook.com/yumpunews "Facebook")[](https://twitter.com/yumpu_com "Twitter")[](https://www.pinterest.com/yumpucom "Pinterest")[](https://www.youtube.com/user/yumpucom "Youtube")[](https://vimeo.com/yumpucom "Vimeo")
 
