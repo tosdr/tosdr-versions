@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[A great play on words like buy.it.com, register 1st year .IT.COM domains for only $4.49!](https://www.dynadot.com/domain/it.com?utm_source=Promobar&utm_campaign=IT%20COM%20Promobar%20Dec%202024&utm_medium=it%20com&drefid=4698)
+[A great play on words like buy.it.com, register 1st year .IT.COM domains for only $4.49!](https://www.dynadot.com/domain/it.com?utm_source=Promobar&utm_campaign=IT%20COM%20Promobar%20Dec%202024&utm_medium=it%20com&drefid=4698)[Interested in Web3? Let .LOCKER be your stepping stone, registrations are now on sale for $11.49!](https://www.dynadot.com/domain/locker?utm_source=Promobar&utm_campaign=LOCKER%20Promobar%20Dec%202024&utm_medium=locker&drefid=4699)
 
 [](https://www.dynadot.com/)
 
