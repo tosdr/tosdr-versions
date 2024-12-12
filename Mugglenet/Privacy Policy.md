@@ -246,14 +246,6 @@ MuggleNet Archive Select Month December 2024  (6) November 2024  (23) October 
 
 ### December 2024
 
-#### Wed, Dec 11
-
-Rita Skeeter interviews Hagrid
-
-Recurs yearly
-
-1994
-
 #### Thu, Dec 12
 
 Bill Nighy's birthday
@@ -288,6 +280,38 @@ Recurs yearly
 
 1992
 
+#### Wed, Dec 18
+
+Fred and George give Harry the Marauder's Map
+
+Recurs yearly
+
+1993
+
+Harry and Cho kiss in the Room of Requirement
+
+Recurs yearly
+
+1995
+
+James Payton's birthday
+
+Recurs yearly
+
+Frank Longbottom
+
+Nagini attacks Mr. Weasley
+
+Recurs yearly
+
+1995
+
+Nearly Headless Nick and Justin Finch-Fletchley are petrified
+
+Recurs yearly
+
+1992
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -298,15 +322,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There are ten different species of dragons in the magical world of Harry Potter.
+The curse of the Defense Against the Dark Arts position was inspired by the Spinal Tap drummers dying in bizarre circumstances.
 
 ### Potter History
 
-February 19, 2009 – Filming begins on Harry Potter and the Deathly Hallows.
+November 16, 2010 – The Harry Potter and the Deathly Hallows – Part 1 video game is released in North America.
 
 ### Potter Quote
 
-“I knew I could do it this time, because I’d already done it. . . . Does that make sense?”
+“It was necessary. He’s extremely powerful. We’ve had to change his guard three times – he’s very… persuasive. So we removed his tongue.”
 
 [](#)
 
