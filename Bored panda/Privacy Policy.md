@@ -284,7 +284,8 @@ GET THE APP
 
 * [Home](https://www.boredpanda.com/)
 * [TOP](https://www.boredpanda.com/top)
-* [Community](https://www.boredpanda.com/community)
+* [Trending](https://www.boredpanda.com/?show=trending)
+* [Latest](https://www.boredpanda.com/?show=recent)
 * [Premium](https://www.boredpanda.com/premium/?utm_source=boredpanda&utm_medium=subnav&utm_campaign=premium-subnav)
 
 [**The Bored Panda iOS app is live!**](https://itunes.apple.com/app/apple-store/id1001593357?pt=117833574&ct=Website%20Top%20Message&mt=8) Fight boredom with iPhones and iPads [**here**](https://itunes.apple.com/app/apple-store/id1001593357?pt=117833574&ct=Website%20Top%20Message&mt=8).[](javascript:void(0);)
