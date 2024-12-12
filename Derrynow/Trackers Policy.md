@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-11 Dec 2024
+12 Dec 2024
 
 * [Home
     
@@ -284,15 +284,6 @@ The scene at Manorcunningham. Photo: NW Newspix
 [Three people hospitalised following serious crash between bus and car in Donegal](https://www.derrynow.com/news/local-news/1678225/three-people-hospitalised-following-serious-crash-between-bus-and-car-in-donegal.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man branded 'a danger to the community' remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man branded 'a danger to the community' remanded")](https://www.derrynow.com/news/local-news/1678051/derry-man-branded-a-danger-to-the-community-remanded.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man branded 'a danger to the community' remanded](https://www.derrynow.com/news/local-news/1678051/derry-man-branded-a-danger-to-the-community-remanded.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Apprentice Boys to burn Lundy in Derry city centre tonight](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Apprentice Boys to burn Lundy in Derry city centre tonight")](https://www.derrynow.com/news/local-news/1678352/apprentice-boys-to-burn-lundy-in-derry-city-centre-tonight.html)
 
 The annual burning of the effigy was postponed due to high winds because of Storm Darragh on Saturday
@@ -301,6 +292,15 @@ The annual burning of the effigy was postponed due to high winds because of Sto
 
 [Apprentice Boys to burn Lundy in Derry city centre tonight](https://www.derrynow.com/news/local-news/1678352/apprentice-boys-to-burn-lundy-in-derry-city-centre-tonight.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man branded 'a danger to the community' remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man branded 'a danger to the community' remanded")](https://www.derrynow.com/news/local-news/1678051/derry-man-branded-a-danger-to-the-community-remanded.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man branded 'a danger to the community' remanded](https://www.derrynow.com/news/local-news/1678051/derry-man-branded-a-danger-to-the-community-remanded.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Arrest warrant issued for Derry man who failed to appear in court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Arrest warrant issued for Derry man who failed to appear in court")](https://www.derrynow.com/news/local-news/1678113/arrest-warrant-issued-for-derry-man-who-failed-to-appear-in-court.html)
 
@@ -311,6 +311,13 @@ Derry Magistrates' Court
 [Arrest warrant issued for Derry man who failed to appear in court](https://www.derrynow.com/news/local-news/1678113/arrest-warrant-issued-for-derry-man-who-failed-to-appear-in-court.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Fisherman and father-of-three remembered as 'true gentleman' following tragic fall from boat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fisherman and father-of-three remembered as 'true gentleman' following tragic fall from boat")](https://www.derrynow.com/news/national-news/1678017/fisherman-and-father-of-three-remembered-as-true-gentleman-following-tragic-fall-from-boat.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Fisherman and father-of-three remembered as 'true gentleman' following tragic fall from boat](https://www.derrynow.com/news/national-news/1678017/fisherman-and-father-of-three-remembered-as-true-gentleman-following-tragic-fall-from-boat.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Christmas comes early for Derry City as Shane Ferguson signs for the Candystripes](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Christmas comes early for Derry City as Shane Ferguson signs for the Candystripes")](https://www.derrynow.com/news/sport/1677861/christmas-comes-early-for-derry-city-as-shane-ferguson-signs-for-the-candystripes.html)
 
 Derry City’s Shane Ferguson has signed up for the 2025 season. PHOTO: Kevin Morrison.
@@ -320,20 +327,6 @@ Derry City’s Shane Ferguson has signed up for the 2025 season. PHOTO: Kevin Mo
 [Christmas comes early for Derry City as Shane Ferguson signs for the Candystripes](https://www.derrynow.com/news/sport/1677861/christmas-comes-early-for-derry-city-as-shane-ferguson-signs-for-the-candystripes.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police investigating possible arson attack in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating possible arson attack in Derry")](https://www.derrynow.com/news/local-news/1677954/police-investigating-possible-arson-attack-in-derry.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police investigating possible arson attack in Derry](https://www.derrynow.com/news/local-news/1677954/police-investigating-possible-arson-attack-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Charity decides to reopen Limavady shop days after closing](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Charity decides to reopen Limavady shop days after closing")](https://www.derrynow.com/news/county-derry-post/1678083/charity-decides-to-reopen-limavady-shop-days-after-closing.html)
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Charity decides to reopen Limavady shop days after closing](https://www.derrynow.com/news/county-derry-post/1678083/charity-decides-to-reopen-limavady-shop-days-after-closing.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry woman charged with breaching bail conditions remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with breaching bail conditions remanded")](https://www.derrynow.com/news/local-news/1678082/derry-woman-charged-with-breaching-bail-conditions-remanded.html)
 
 Derry Magistrates' Court
@@ -342,6 +335,13 @@ Derry Magistrates' Court
 
 [Derry woman charged with breaching bail conditions remanded](https://www.derrynow.com/news/local-news/1678082/derry-woman-charged-with-breaching-bail-conditions-remanded.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Charity decides to reopen Limavady shop days after closing](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Charity decides to reopen Limavady shop days after closing")](https://www.derrynow.com/news/county-derry-post/1678083/charity-decides-to-reopen-limavady-shop-days-after-closing.html)
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Charity decides to reopen Limavady shop days after closing](https://www.derrynow.com/news/county-derry-post/1678083/charity-decides-to-reopen-limavady-shop-days-after-closing.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
