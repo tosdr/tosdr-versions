@@ -366,8 +366,8 @@ Bocconi Spheres
 Media center
 
 * [BTV ![Go to BTV](/sites/default/files/styles/footer_icon/public/footer/icon-menu/btv.png.webp?itok=euce4HxJ "BTV")](https://bocconitv.it/?key=footer) 
-* [TL ![Go to TL](/sites/default/files/styles/footer_icon/public/footer/icon-menu/on.png.webp?itok=gyXozZWU "TL")](https://traileoni.it/?key=footer) 
-* [ON ![Go to ON](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tl.png.webp?itok=wrHIPLtn "ON")](https://radiobocconi.it/?key=footer) 
+* [TL ![Go to TL](/sites/default/files/styles/footer_icon/public/footer/icon-menu/on.png.webp?VersionId=VIQFmawNztLWnivLf4EuRkHr4.1vhO4q&itok=gyXozZWU "TL")](https://traileoni.it/?key=footer) 
+* [ON ![Go to ON](/sites/default/files/styles/footer_icon/public/footer/icon-menu/tl.png.webp?VersionId=zO9vy5lmBmWPRHqcgiCk9bAYuquNOJtL&itok=wrHIPLtn "ON")](https://radiobocconi.it/?key=footer) 
 
 Mobile app
 
