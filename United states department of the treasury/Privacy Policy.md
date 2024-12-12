@@ -558,6 +558,10 @@ MENU MENU
     [Featured Stories](https://home.treasury.gov/news/featured-stories)
     -------------------------------------------------------------------
     
+    December 12, 2024
+    
+    [Housing Crisis in Focus: LIHTC Best Practices to Discourage Qualified Contracts and Keep Housing Affordable for Longer](https://home.treasury.gov/news/featured-stories/housing-crisis-in-focus-lihtc-best-practices-to-discourage-qualified-contracts-and-keep-housing-affordable-for-longer)
+    
     November 19, 2024
     
     [Strengthening Global Sanctions: Two Years of Enhanced Partnership](https://home.treasury.gov/news/featured-stories/strengthening-global-sanctions-two-years-of-enhanced-partnership)
@@ -565,10 +569,6 @@ MENU MENU
     September 20, 2024
     
     [Spotlighting Women’s Retirement Security](https://home.treasury.gov/news/featured-stories/spotlighting-womens-retirement-security)
-    
-    September 12, 2024
-    
-    [From Car Dealers to Union Workers: Engaging Stakeholders on Historic Biden-Harris Climate Law](https://home.treasury.gov/news/featured-stories/from-car-dealers-to-union-workers-engaging-stakeholders-on-historic-biden-harris-climate-law)
     
     [View all Featured Stories](https://home.treasury.gov/news/featured-stories "View all Featured Stories")
     
