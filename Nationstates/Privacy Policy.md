@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Gameplay and Security Council Tech De… (177)](https://forum.nationstates.net/viewtopic.php?t=506452&f=15&view=unread#unread ""Gameplay and Security Council Tech Development" (177 posts)")
-* [What TNO faction would AN join? (171)](https://forum.nationstates.net/viewtopic.php?t=557876&f=25&view=unread#unread ""What TNO faction would AN join?" (171 posts)")
-* [The Collective Security League Assemb… (2,037)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (2,037 posts)")
-* [Syrian Civil War: Dawn Of A New Syria (1,440)](https://forum.nationstates.net/viewtopic.php?t=558866&f=20&view=unread#unread ""Syrian Civil War: Dawn Of A New Syria" (1,440 posts)")
-* [UK Politics Thread: Don't Be So Nosey! (584)](https://forum.nationstates.net/viewtopic.php?t=558706&f=20&view=unread#unread ""UK Politics Thread: Don't Be So Nosey!" (584 posts)")
+* [Say a random sentence (9,903)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (9,903 posts)")
+* [Based on AN's banner, what is life li… (11)](https://forum.nationstates.net/viewtopic.php?t=559554&f=25&view=unread#unread ""Based on AN's banner, what is life like in their nation?" (11 posts)")
+* [How much longer will AN last before C… (66)](https://forum.nationstates.net/viewtopic.php?t=559442&f=25&view=unread#unread ""How much longer will AN last before CTEing?" (66 posts)")
+* [American Politics: Turnabout Trump (9,022)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (9,022 posts)")
+* [Guess what BN's real name is - Ehrman… (201)](https://forum.nationstates.net/viewtopic.php?t=557940&f=25&view=unread#unread ""Guess what BN's real name is - Ehrmantraut series" (201 posts)")
 
 Advertisement
 
