@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 12, 2024](https://www.japantimes.co.jp/archive/2024/12/12/ "archive page")
+[December 13, 2024](https://www.japantimes.co.jp/archive/2024/12/13/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -464,21 +464,29 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[JR East announces 10-year plan to drastically overhaul Suica](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-  [![The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439434.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ")](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-[Firms should quit turning foreign workers into Japanese ones](https://www.japantimes.co.jp/commentary/2024/12/08/japan/foreign-workers-japan-challenges/ "Firms should quit turning foreign workers into Japanese ones")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/436391.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.")](https://www.japantimes.co.jp/commentary/2024/12/08/japan/foreign-workers-japan-challenges/ "Firms should quit turning foreign workers into Japanese ones")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-[City's Foden and Kovacic not expected to face Juventus, says Guardiola](https://www.japantimes.co.jp/sports/2024/12/11/soccer/city-juventus-injuries/ "City's Foden and Kovacic not expected to face Juventus, says Guardiola")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-  [![Manchester City's Phil Foden, Josko Gvardiol, Mateo Kovacic, Jack Grealish and Kyle Walker during training in Manchester on Tuesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439476.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Manchester City's Phil Foden, Josko Gvardiol, Mateo Kovacic, Jack Grealish and Kyle Walker during training in Manchester on Tuesday")](https://www.japantimes.co.jp/sports/2024/12/11/soccer/city-juventus-injuries/ "City's Foden and Kovacic not expected to face Juventus, says Guardiola")
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-[Winter chill, hot baths and the risk of heat shock: How to stay safe](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-  [![A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439147.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.")](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+
+  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+
+[London calling: Sumo's U.K. trip brings back memories of 1991](https://www.japantimes.co.jp/sports/2024/12/11/sumo/london-sumo-tournament/ "London calling: Sumo's U.K. trip brings back memories of 1991")
+
+  [![Japan’s national sport made its second foray into Western Europe, and first to the U.K., with a five-day tournament at London’s historic Royal Albert Hall in October 1991.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439479.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan’s national sport made its second foray into Western Europe, and first to the U.K., with a five-day tournament at London’s historic Royal Albert Hall in October 1991.")](https://www.japantimes.co.jp/sports/2024/12/11/sumo/london-sumo-tournament/ "London calling: Sumo's U.K. trip brings back memories of 1991")
 
 [‘Hayao Miyazaki and the Heron’ documentary meditates on auteur's creativity and legacy](https://www.japantimes.co.jp/culture/2024/12/11/film/hayao-miyazaki-and-the-heron/ "‘Hayao Miyazaki and the Heron’ documentary meditates on auteur's creativity and legacy")
 
@@ -487,10 +495,6 @@ Revised June 1, 2022
 [Yurie Collins: ‘Everyone seems sedated, fed-up … that’s why they turn to comedy’](https://www.japantimes.co.jp/community/2024/12/10/our-lives/comedian-yurie-collins-roast/ "Yurie Collins: ‘Everyone seems sedated, fed-up … that’s why they turn to comedy’")
 
   [![Yurie Collins is a bilingual comedian based in Tokyo. In addition to being a prize-winning roast comic, her dating-themed "Tokyo Hoe Tales" shows have proven to be a hit with women of all nationalities. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438914.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yurie Collins is a bilingual comedian based in Tokyo. In addition to being a prize-winning roast comic, her dating-themed "Tokyo Hoe Tales" shows have proven to be a hit with women of all nationalities. ")](https://www.japantimes.co.jp/community/2024/12/10/our-lives/comedian-yurie-collins-roast/ "Yurie Collins: ‘Everyone seems sedated, fed-up … that’s why they turn to comedy’")
-
-[As Japan nears new climate goal, criticism of policy process ramps up](https://www.japantimes.co.jp/environment/2024/12/10/climate-change/climate-policymaking-criticism/ "As Japan nears new climate goal, criticism of policy process ramps up")
-
-  [![The government is preparing to set Japan’s new Nationally Determined Contribution, an emissions reduction commitment made by members of the United Nations climate framework's Paris Agreement.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/438907.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The government is preparing to set Japan’s new Nationally Determined Contribution, an emissions reduction commitment made by members of the United Nations climate framework's Paris Agreement.")](https://www.japantimes.co.jp/environment/2024/12/10/climate-change/climate-policymaking-criticism/ "As Japan nears new climate goal, criticism of policy process ramps up")
 
 [Winter chill, hot baths and the risk of heat shock: How to stay safe](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
 
@@ -561,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[LDP and opposition far from consensus over corporate donations](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/parties-far-apart-political-funds/ "LDP and opposition far from consensus over corporate donations")
+
+3 hours ago
+
+[Danger for yen emerges with speculation BOJ may stand pat longer](https://www.japantimes.co.jp/business/2024/12/12/markets/yen-risk-boj/ "Danger for yen emerges with speculation BOJ may stand pat longer")
+
+4 hours ago
+
+[Nippon Life ramps up global push with $550 million TCW deal](https://www.japantimes.co.jp/business/2024/12/12/companies/nippon-life-tcw-deal/ "Nippon Life ramps up global push with $550 million TCW deal")
+
+4 hours ago
+
+[Approval rate of Ishiba's Cabinet dips to 26.8%, poll shows](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/ishiba-approval-rating-drops/ "Approval rate of Ishiba's Cabinet dips to 26.8%, poll shows")
+
+4 hours ago
+
 [Lower House passes ¥13.9 trillion supplementary budget](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/supplementary-budget-lower-house/ "Lower House passes ¥13.9 trillion supplementary budget")
 
-43 mins ago
-
-[New Japanese condos now cost 10 times average salary, study shows](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
-
-1 hour ago
-
-[Fossil fuels initially needed for AI boom, Tepco adviser says](https://www.japantimes.co.jp/news/2024/12/12/japan/fossil-fuel-ai-need/ "Fossil fuels initially needed for AI boom, Tepco adviser says")
-
-3 hours ago
-
-[Widow of former Prime Minister Shinzo Abe hopes to meet with Trump](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/akie-abe-trump-meeting/ "Widow of former Prime Minister Shinzo Abe hopes to meet with Trump")
-
-3 hours ago
-
-[Japanese crypto exchange Coincheck goes public in U.S.](https://www.japantimes.co.jp/business/2024/12/12/companies/coincheck-us-nasdaq/ "Japanese crypto exchange Coincheck goes public in U.S.")
-
-3 hours ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
