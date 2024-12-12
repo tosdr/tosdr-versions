@@ -1,3 +1,5 @@
+![](https://www.facebook.com/tr?id=859387999715496&ev=PageView&noscript=1) 
+
 [Skip to content](#content)
 
 [![Opt-Intelligence](https://www.opt-intelligence.com/wp-content/uploads/2017/04/opt_intelligence_logo.png)](https://www.opt-intelligence.com/)
