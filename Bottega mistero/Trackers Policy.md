@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/lights-out-who-s-there-film-challenge/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/la-capsula-del-tempo-il-nostro-lascito-al-futuro/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
