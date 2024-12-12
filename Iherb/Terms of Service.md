@@ -1023,7 +1023,7 @@ Marken der Woche
 
 [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/DRA/1733769067.png)](https://de.iherb.com/c/dragon-herbs)
 
-[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/DVI/1661530917.png)](https://de.iherb.com/c/davinci-laboratories-of-vermont)
+[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/DVI/1661530917.png)](https://de.iherb.com/c/davinci-laboratories)
 
 [Alle anzeigen](https://de.iherb.com/c/brands-of-the-week)
 
