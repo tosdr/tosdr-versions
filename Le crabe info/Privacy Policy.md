@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 721 utilisateurs actifs
+##### 559 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Microsoft améliore Mobile connecté : enfin des fichiers partagés entre iPhone et Windows !](https://lecrabeinfo.net/microsoft-ameliore-mobile-connecte-enfin-des-fichiers-partages-entre-iphone-et-windows.html)
 * [Mozilla met fin à "Do Not Track" : un choix nécessaire pour mieux protéger la vie privée](https://lecrabeinfo.net/mozilla-met-fin-a-do-not-track-un-choix-necessaire-pour-mieux-proteger-la-vie-privee.html)
 * [Microsoft Edge : le navigateur devient plus rapide que jamais sur Windows 11 grâce à WebUI 2.0](https://lecrabeinfo.net/microsoft-edge-le-navigateur-devient-plus-rapide-que-jamais-sur-windows-11-grace-a-webui-2-0.html)
-* [Windows 11 24H2 : nouvelle incompatibilité, cette fois avec des jeux Ubisoft (Assassin's Creed, Star Wars Outlaws...)](https://lecrabeinfo.net/windows-11-24h2-nouvelle-incompatibilite-cette-fois-avec-des-jeux-ubisoft-assassins-creed-star-wars-outlaws.html)
 
 ### Tendance
 
