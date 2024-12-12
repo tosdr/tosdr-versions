@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Has sex abuse happened in mormon schools?](https://www.pintas.com/wp-content/uploads/2023/04/mche-lee-PC91Jm1DlWA-unsplash-300x225.jpg "Has Sex Abuse Happened in Mormon Schools?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/did-sexual-abuse-happen-in-mormon-schools/ "Has Sex Abuse Happened in Mormon Schools?")
+[![What are the stages of mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-what-are-the-stages-of-mesothelioma.jpg "What Are the Stages of Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-are-the-stages-of-mesothelioma/ "What Are the Stages of Mesothelioma?")
 
-[#### Has Sex Abuse Happened in Mormon Schools?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/did-sexual-abuse-happen-in-mormon-schools/)
+[#### What Are the Stages of Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-are-the-stages-of-mesothelioma/)
 
-[![How are medical bills paid after a car accident?](https://www.pintas.com/wp-content/uploads/2020/07/car-accidents-how-are-medical-bills-paid-after-a-car-accident.jpg "How Are Medical Bills Paid After a Car Accident?")](https://www.pintas.com/practice-areas/car-accident-lawyer/how-are-medical-bills-paid/ "How Are Medical Bills Paid After a Car Accident?")
+[![Why is mesothelioma so deadly?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-why-is-mesothelioma-so-deadly.jpg "Why Is Mesothelioma So Deadly?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/why-is-mesothelioma-so-deadly "Why Is Mesothelioma So Deadly?")
 
-[#### How Are Medical Bills Paid After a Car Accident?](https://www.pintas.com/practice-areas/car-accident-lawyer/how-are-medical-bills-paid/)
+[#### Why Is Mesothelioma So Deadly?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/why-is-mesothelioma-so-deadly)
 
-[![Are nursing homes actually good for elderly people?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-are-nursing-homes-actually-good-for-elderly-people-scaled.jpg "Are Nursing Homes Actually Good for Elderly People?")](https://www.pintas.com/faq/are-nursing-homes-actually-good-for-elderly-people/ "Are Nursing Homes Actually Good for Elderly People?")
+[![How often are elderly people in nursing homes undermonitored?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-often-are-elderly-people-in-nursing-homes-undermonitored-scaled.jpg "How Often Are Elderly People in Nursing Homes Undermonitored?")](https://www.pintas.com/faq/how-often-are-elderly-people-in-nursing-homes-undermonitored/ "How Often Are Elderly People in Nursing Homes Undermonitored?")
 
-[#### Are Nursing Homes Actually Good for Elderly People?](https://www.pintas.com/faq/are-nursing-homes-actually-good-for-elderly-people/)
+[#### How Often Are Elderly People in Nursing Homes Undermonitored?](https://www.pintas.com/faq/how-often-are-elderly-people-in-nursing-homes-undermonitored/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
