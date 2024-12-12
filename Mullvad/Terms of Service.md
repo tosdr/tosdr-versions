@@ -17,7 +17,7 @@ This site needs Javascript for some functionality to work properly
 * [Downloads](https://mullvad.net/en/download)
 * [Help](https://mullvad.net/en/help)
 
-[Account](https://mullvad.net/en/account) [Get started](https://mullvad.net/en/account/create)
+ Snow [Account](https://mullvad.net/en/account) [Get started](https://mullvad.net/en/account/create)
 
 Terms of service
 ================
