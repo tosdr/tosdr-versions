@@ -13,7 +13,6 @@ No Fee Unless We Win [(941) 954-4000](tel:9419544000)
     * [David Shapiro](https://getmejustice.com/our-firm/david-shapiro/)
     * [Adam Shapiro](https://getmejustice.com/our-firm/adam-shapiro/)
     * [Jim Delgado](https://getmejustice.com/our-firm/jim-delgado/)
-    * [Herbert Hofmann](https://getmejustice.com/our-firm/herbert-hofmann/)
     * [Fred Melin](https://getmejustice.com/our-firm/fred-melin/)
     * [View All +](https://getmejustice.com/our-team/)
 * Practice Areas
@@ -292,7 +291,7 @@ Request Free Consultation test
 * 
 * 
 * 
-* Phone
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
