@@ -144,6 +144,34 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Dec 12, 2024
+
+> Anja Is A Fabulous Travel Consultant
+
+> Anja Mayer was extremely knowledgeable, patient, prompt with her responses to questions, and always very helpful. She was also a pleasure to work with. I would highly recommend to anyone that asks that Anja is the right person to contact if they are interested in travelling to South Africa or Botswana.
+
+Lewis Warren
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Dec 12, 2024
+
+> Anja did a fabulous job!
+
+> Anja was knowledgeble, patient prompt with her responses to questions and always very helpful. In addition, it was a pleasure working with her. I would recommend her to anyone without any reservation.
+
+Lewis Warren
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Dec 10, 2024
 
 > Mel du Toit was the perfect person to…
@@ -239,34 +267,6 @@ Noelene Hosking
 ,
 
 AU
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Dec 4, 2024
-
-> It was amazing
-
-> It was amazing. She even helped us with some of our questions and where to stay.🌞
-
-SMK Thomas🌞🌞
-
-,
-
-CA
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Dec 2, 2024
-
-> a seamless booking experience with…
-
-> a seamless booking experience with everything handled really well. Bravo!
-
-JUDITH ANN
-
-,
-
-US
 
 VIP service
 
