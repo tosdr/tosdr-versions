@@ -587,7 +587,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 
 * [Shop All Sale](https://www.houzz.com/products/on-sale)
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/8b412a1507562f7a_1503-w1132-h1444-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--cyber-monday-sale)
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/8e612bcb07592a3f_6769-w1132-h1444-b0-p0--home-design.jpg)](https://www.houzz.com/products/furniture/on-sale)
 
 [![Ultimate Savings on Best Sellers](https://st.hzcdn.com/fimgs/aef1f8dc075a5190_2369-w300-h300-b4-p0--home-design.jpg)
 
@@ -635,7 +635,7 @@ UP TO 75% OFF
 
 The Ultimate Rug Sale](https://www.houzz.com/ideabooks/179179245) 
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/8b412a1507562f7a_1503-w1132-h1444-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--cyber-monday-sale) 
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/8e612bcb07592a3f_6769-w1132-h1444-b0-p0--home-design.jpg)](https://www.houzz.com/products/furniture/on-sale) 
 
 [0](https://www.houzz.com/viewCart)
 
