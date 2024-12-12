@@ -130,13 +130,13 @@ Book your tee-times up to 90 days in advance!
 Insider News
 ============
 
+[![](https://disneyspringshotels.com/wp-content/uploads/2020/03/Epcot-International-Flower-Garden-Festival-2022-0316ZP_0237KP_JB-700x467.jpg)](https://disneyspringshotels.com/epcots-international-flower-garden-festival/ "Permanent Link to EPCOT® International Flower & Garden Festival")
+
+[EPCOT® International Flower & Garden Festival](https://disneyspringshotels.com/epcots-international-flower-garden-festival/ "Permanent Link to EPCOT® International Flower & Garden Festival") EPCOT® International Flower & Garden Festival runs March 5-May 26, 2025 and features brilliant gardens, fresh flavors, lively entertainment and more. What to look forward to: Topiary Displays, Exhibits and Gardens Garden Graze – Take a walk on the delicious side—and enjoy a surprise at the end of your journey. Outdoor Kitchens – Eat, drink… [View Article »](https://disneyspringshotels.com/epcots-international-flower-garden-festival/)
+
 [![](https://disneyspringshotels.com/wp-content/uploads/2024/11/MK17-HappilyEverAfter-2024.jpg)](https://disneyspringshotels.com/holidays-at-walt-disney-world-resort-2024/ "Permanent Link to Holidays at Walt Disney World Resort")
 
 [Holidays at Walt Disney World Resort](https://disneyspringshotels.com/holidays-at-walt-disney-world-resort-2024/ "Permanent Link to Holidays at Walt Disney World Resort") Magic Kingdom® Park Seasonal Décor Explore holly, jolly trimmings and theming throughout Main Street, U.S.A and the park. Jingle Cruise During the holiday season, the beloved Jungle Cruise undergoes a yuletide transformation. It’s a festive-yet-familiar adventure from stem to stern! Frozen Holiday Surprise For the first time in forever, Guests will be able to join… [View Article »](https://disneyspringshotels.com/holidays-at-walt-disney-world-resort-2024/)
-
-[![](https://disneyspringshotels.com/wp-content/uploads/2022/08/Mickeys-Very-Merry-Christmas.jpg)](https://disneyspringshotels.com/mickeys-very-merry-christmas-party/ "Permanent Link to Mickey’s Very Merry Christmas Party")
-
-[Mickey’s Very Merry Christmas Party](https://disneyspringshotels.com/mickeys-very-merry-christmas-party/ "Permanent Link to Mickey’s Very Merry Christmas Party")   Select Nights from November 8 – December 20, Guests can Experience the Holiday Magic at Magic Kingdom® Park Do you still believe in holiday magic? Discover it again as you step into a Yuletide tale full of warm and wonderful traditions during Mickey’s Very Merry Christmas Party at Magic Kingdom® Park. Join Mickey and… [View Article »](https://disneyspringshotels.com/mickeys-very-merry-christmas-party/)
 
 [View All News](https://disneyspringshotels.com/whats-new/ "Link to What's New")
 
