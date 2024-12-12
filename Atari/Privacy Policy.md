@@ -80,9 +80,9 @@ Hardware
 
 [![Introducing the Atari+ Platform](files/Product_Image_c0c068c9-b237-41e5-ae28-d64f55335d9a.png)
 
-Introducing the Atari+ Platform](https://www.atari.com/collections/atari-platform)[![Super Pocket Atari Edition](files/Product_Image_2db1dbea-2baa-499c-bd5c-1ba43b694bfd.png)
+Introducing the Atari+ Platform](https://www.atari.com/collections/atari-platform)[![](files/7800_ControllerBundle_ac00091b-dc0f-4116-9738-d7ed57de3ea7.jpg)
 
-Super Pocket: Atari Edition](https://www.atari.com/products/super-pocket-atari-edition)
+Holiday Bundles](https://www.atari.com/collections/holiday-best-sellers)
 
 Hardware
 
@@ -124,9 +124,9 @@ COLLECTIONS
 
 Introducing the Atari+ Platform](https://www.atari.com/collections/atari-platform)
 
-[![Super Pocket Atari Edition](files/Product_Image_2db1dbea-2baa-499c-bd5c-1ba43b694bfd.png)
+[![](files/7800_ControllerBundle_ac00091b-dc0f-4116-9738-d7ed57de3ea7.jpg)
 
-Super Pocket: Atari Edition](https://www.atari.com/products/super-pocket-atari-edition)
+Holiday Bundles](https://www.atari.com/collections/holiday-best-sellers)
 
 \*\*New!\*\*/collections/7800;\*\*New!\*\*/collections/atari-platform
 
@@ -542,6 +542,22 @@ Regular price $52
 
 Unit price /  per](https://www.atari.com/products/atari-2600-7800-a-visual-compendium) 
 
+[![Atari Neon LED Sign (12" x 13")](files/ATARI_73fded4d-4a6c-4240-a6f2-57cb5d4ecb9b.jpg)
+
+![Atari Neon LED Sign (12" x 13")](files/2_7a0610c5-3e6c-45b9-8002-ee83821f5588.jpg)
+
+Add to cart
+
+NEW
+
+##### Atari Neon LED Sign (12" x 13")
+
+Regular price Sale price $39.99
+
+Regular price $39.99
+
+Unit price /  per](https://www.atari.com/products/atari-neon-led-sign) 
+
 [![CX30+ Paddle Controller Bundle](files/ProductImage-A_79a257b5-bdaf-485d-805f-65148be7ac1a.jpg)
 
 ![CX30+ Paddle Controller Bundle](files/Atari2023pt02_DSC00878.jpg)
@@ -662,22 +678,6 @@ Unit price /  per](https://www.atari.com/products/7800-collect-them-all-bundle)
 
 [### GIFT IDEAS FOR EVERYONE ON YOUR LIST](https://atari.com/pages/holiday-gift-guides)
 
-[![Super Pocket Atari Edition](files/Image2-DualShotcopy.jpg)
-
-![Super Pocket Atari Edition](files/Image4-Lifestyle.png)
-
-Add to cart
-
-Best Seller
-
-##### Super Pocket Atari Edition
-
-Regular price Sale price $59.99
-
-Regular price $59.99
-
-Unit price /  per](https://www.atari.com/products/super-pocket-atari-edition) 
-
 [![Atari Joystick Decanter Set](files/ThumbsUp_-ATAORGDECSET-Image1-291024-Dalia.jpg)
 
 ![Atari Joystick Decanter Set](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
@@ -725,6 +725,22 @@ Regular price $99.99 Sale price $24.99
 Regular price $24.99
 
 Unit price /  per](https://www.atari.com/products/pong-speakerhat) 
+
+[![Atari Neon LED Sign (12" x 13")](files/ATARI_73fded4d-4a6c-4240-a6f2-57cb5d4ecb9b.jpg)
+
+![Atari Neon LED Sign (12" x 13")](files/2_7a0610c5-3e6c-45b9-8002-ee83821f5588.jpg)
+
+Add to cart
+
+NEW
+
+##### Atari Neon LED Sign (12" x 13")
+
+Regular price Sale price $39.99
+
+Regular price $39.99
+
+Unit price /  per](https://www.atari.com/products/atari-neon-led-sign) 
 
 [![Atari 3D Cartridge Wall Art](files/3D_WallArt_Front_PDP.jpg)
 
