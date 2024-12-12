@@ -54,6 +54,25 @@ Parents and School Administrators >
                 
                 [Contact Sales](https://factsmgt.com/contact-sales/)
                 
+* Products
+    * * * [School Management](https://factsmgt.com/products/school-management/)
+                * [Administration & Communication](https://factsmgt.com/products/school-management/administration-communication/)
+                * [Teaching & Learning](https://factsmgt.com/products/school-management/teaching-learning/)
+                * [Health & Wellbeing](https://factsmgt.com/products/school-management/health-wellbeing/)
+                * [Financial Management](https://factsmgt.com/products/school-management/financial-management/)
+                * [Specialty Modules](https://factsmgt.com/products/school-management/specialty-modules/)
+                * [Reporting & Analytics](https://factsmgt.com/products/school-management/reporting-analytics/)
+        * * [Tuition Management](https://factsmgt.com/products/financial-management/tuition-management/)
+                * [Payment Plans](https://factsmgt.com/products/financial-management/tuition-management/)
+                * [Payment Forms](https://factsmgt.com/products/financial-management/payment-forms/)
+                * [Incidental Billing & Prepay Accounts](https://factsmgt.com/products/financial-management/incidental-billing-prepay-accounts/)
+        * * ![Smiling person holding a tablet device](/wp-content/uploads/Header-Featured-Circle.png)
+                
+                Elevating the Education Experience
+                ----------------------------------
+                
+                [Contact Us](https://factsmgt.com/au/contact-us/)
+                
 * Industries
     * [K-12 School Software and Services](https://factsmgt.com/industries/k-12-schools/)
     * [Business Learning Solutions](https://factsmgt.com/industries/corporate-learning-solutions/)
@@ -65,6 +84,7 @@ Parents and School Administrators >
     * [Customer Stories](https://factsmgt.com/customer-stories/)
     * [Events](https://factsmgt.com/events/)
     * [Elevate](https://factsmgt.com/elevate/)
+    * [Elevate Brisbane](https://factsmgt.com/au/elevate/)
     * [Blog](https://factsmgt.com/blog/)
 * Company
     * [About Us](https://factsmgt.com/about-us/)
@@ -75,6 +95,7 @@ Parents and School Administrators >
     * [Careers](https://factsmgt.com/careers/)
     * [Help & Support](https://factsmgt.com/support/)
     * [Contact Us](https://factsmgt.com/contact-us/)
+    * [Contact Us](https://factsmgt.com/au/contact-us/)
 * Parents
     * [Parent Solutions](https://factsmgt.com/parents/)
     * [Payment Plans](https://factsmgt.com/parents/#payment-plans)
@@ -164,29 +185,44 @@ These Terms constitute the complete and exclusive statement of the mutual unders
 
 BY USING THIS WEBSITE, YOU: (A) ASSUME ALL RISKS OF LOSSES OR DAMAGES RESULTING FROM YOUR USE OF OR INABILITY TO USE THIS WEBSITE; (B) IRREVOCABLY WAIVE ALL LOSSES OR INDIRECT, SPECIAL, CONSEQUENTIAL, PUNITIVE OR INCIDENTAL DAMAGES (INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM LOST PROFITS, LOST DATA OR BUSINESS INTERRUPTION) THAT MAY OCCUR AS A RESULT OF YOUR USE OF THIS WEBSITE; AND (C) EXPRESSLY AGREE TO RELEASE AND DISCHARGE FACTS, AND ITS AFFILIATES, EMPLOYEES, AGENTS, REPRESENTATIVES, SUCCESSORS, OR ASSIGNS FROM ANY AND ALL CLAIMS OR CAUSES OF ACTION RESULTING, DIRECTLY OR INDIRECTLY, FROM YOUR USE OF THIS WEBSITE;  AND (D) YOU VOLUNTARILY GIVE UP OR WAIVE ANY RIGHT THAT YOU MAY OTHERWISE HAVE TO BRING A LEGAL ACTION AGAINST FACTS FOR LOSSES OR DAMAGES, WHETHER BASED ON WARRANTY, CONTRACT, TORT OR OTHER LEGAL THEORY, INCLUDING ANY CLAIM BASED ON ALLEGED NEGLIGENCE ON THE PART OF FACTS AND ITS AGENTS AND EMPLOYEES. YOU ACKNOWLEDGE THAT YOU HAVE CAREFULLY READ THIS “WAIVER AND RELEASE” AND FULLY UNDERSTAND THAT IT IS A RELEASE OF LIABILITY.
 
-* [Products](https://factsmgt.com/)
+* Products
 * [Education Services](https://factsmgt.com/products/education-services/)
 * [Education Technology](https://factsmgt.com/products/education-technology/)
 * [Financial Management](https://factsmgt.com/products/financial-management/)
+* School Management
+* [Administration & Communication](https://factsmgt.com/products/school-management/administration-communication/)
+* [Teaching & Learning](https://factsmgt.com/products/school-management/teaching-learning/)
+* [Health & Wellbeing](https://factsmgt.com/products/school-management/health-wellbeing/)
+* [Financial Management](https://factsmgt.com/products/school-management/financial-management/)
+* [Specialty Modules](https://factsmgt.com/products/school-management/specialty-modules/)
+* [Reporting & Analytics](https://factsmgt.com/products/school-management/reporting-analytics/)
 
-* [Markets](https://factsmgt.com/)
+* Markets
 * [K-12 School Software and Services](https://factsmgt.com/industries/k-12-schools/)
 * [Business Learning Solutions](https://factsmgt.com/industries/corporate-learning-solutions/)
 * [Faith Community Software](https://factsmgt.com/industries/faith-community-software/)
+* Tuition Management
+* [Payment Plans](https://factsmgt.com/products/financial-management/tuition-management/)
+* [Payment Forms](https://factsmgt.com/products/financial-management/payment-forms/)
+* [Incidental Billing & Prepay Accounts](https://factsmgt.com/products/financial-management/incidental-billing-prepay-accounts/)
 
 * Resources
 * [Insights](https://factsmgt.com/insights/)
 * [Product Demos](https://factsmgt.com/product-demos/)
 * [Webinars](https://factsmgt.com/webinars/)
+* [Customer Stories](https://factsmgt.com/customer-stories/)
 * [Events](https://factsmgt.com/events/)
+* [Elevate Brisbane](https://factsmgt.com/au/elevate/)
 * [Blog](https://factsmgt.com/blog/)
 
 * Company
 * [About Us](https://factsmgt.com/about-us/)
-* [Partners](https://factsmgt.com/partners/)
 * [Our Customer Service Difference](https://factsmgt.com/the-facts-customer-experience/)
+* [Partners](https://factsmgt.com/partners/)
+* [Press Releases](https://factsmgt.com/press-releases/)
 * [Careers](https://factsmgt.com/careers/)
 * [Contact Us](https://factsmgt.com/contact-us/)
+* [Contact Us](https://factsmgt.com/au/contact-us/)
 
 * Parents
 * [Payment Plans](https://factsmgt.com/parents/#payment-plans)
