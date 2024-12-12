@@ -22,6 +22,7 @@
     [AIRES ATHLETES](https://www.airestech.com/pages/athlete)
     
     * [UFC FIGHTER MICHAEL CHANDLER](https://www.airestech.com/pages/michael-chandler)
+    * [TORONTO MAPLE LEAVES FORWARD MAX DOMI](https://airestech.com/pages/max-domi)
     * [UFC FIGHTER MAYCEE BARBER](https://airestech.com/pages/maycee-barber-ufc)
     * [NFL LEGEND TIKI BARBER](https://airestech.com/pages/tiki)
     * [NBA PLAYER RJ BARRETT](https://airestech.com/pages/rj-barrett)
@@ -555,6 +556,7 @@ United States (USD $)
 * [AIRES ATHLETES](https://www.airestech.com/pages/athlete)
     
     * [UFC FIGHTER MICHAEL CHANDLER](https://www.airestech.com/pages/michael-chandler)
+    * [TORONTO MAPLE LEAVES FORWARD MAX DOMI](https://airestech.com/pages/max-domi)
     * [UFC FIGHTER MAYCEE BARBER](https://airestech.com/pages/maycee-barber-ufc)
     * [NFL LEGEND TIKI BARBER](https://airestech.com/pages/tiki)
     * [NBA PLAYER RJ BARRETT](https://airestech.com/pages/rj-barrett)
