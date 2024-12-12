@@ -1,6 +1,4 @@
-![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/674988ce89c36feadba10771_Miniature%20bandeau%20promo.png)
-
-Prix le plus bas de l'année : votre permis dès 489,99€ \* ! [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
+![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66aa3a4f12c391602bbf34db_Badge%20alerte.svg)
 
 0
 
@@ -14,17 +12,7 @@ Jours
 
 Heures
 
-1
-
-5
-
-MIN
-
-1
-
-5
-
-sec
+Votre permis dès 559,99 € ! Nouveau : paiement en 4x sans frais [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
@@ -1566,19 +1554,19 @@ Versions précédentes
 
 Le contenu dans cet article présente uniquement un caractère informatif et n’engage pas contractuellement Ornikar (à savoir les entités Marianne Formation SAS et Ornikar Assurances). Cette dernière décline toute responsabilité sur les décisions et conséquences qui pourraient en découler.
 
-[PRIX LE + BAS DE L'ANNÉE
+[ORNIKAR
 
-Jusqu'à -70€ sur les packs permis !
+2x moins cher que les autres auto-écoles
 
-100 % de chance de réussir votre permis, dès 489,99 € seulement !
+100 % de chance de réussir votre permis, dès 559,99 € seulement !
 
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-Je découvre](https://www.ornikar.com/)[PRIX LE + BAS DE L'ANNÉE
+Je découvre](https://www.ornikar.com/)[ORNIKAR
 
-Jusqu'à -70€ sur les packs permis !
+La 1ère auto-école de France
 
-100 % de chance de réussir votre permis, dès 489,99 € seulement !
+100 % de chance de réussir votre permis, dès 559,99 € seulement !
 
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
@@ -1656,11 +1644,11 @@ adaptée à votre profil de conducteur.
 
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[PRIX LE + BAS DE L'ANNÉE
+J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[ORNIKAR
 
-Jusqu'à -70€ sur les packs permis !
+2x moins cher que les autres auto-écoles
 
-100 % de chance de réussir votre permis, dès 489,99 € seulement !
+100 % de chance de réussir votre permis, dès 559,99 € seulement !
 
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
