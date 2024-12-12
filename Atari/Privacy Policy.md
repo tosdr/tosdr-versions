@@ -375,20 +375,20 @@ SAVE on consoles, games, merch, and more!
 
  
 
+**Introducing the Atari 7800+**
+
+New console, new games, and new accessories!
+
+[Pre-Order Yours Today!](https://atari.com/collections/7800)
+
+ 
+
 RCT Classic
 ===========
 
 RollerCoaster Tycoon Classic is coming to Nintendo Switch
 
 [Coming Soon](https://www.atari.com/products/rollercoaster-tycoon-classic)
-
- 
-
-**Introducing the Atari 7800+**
-
-New console, new games, and new accessories!
-
-[Pre-Order Yours Today!](https://atari.com/collections/7800)
 
  
 
@@ -424,13 +424,13 @@ THE HOLIDAYS ARE HERE
 
 ### 20% OFF ATARI GEAR
 
-Our hoodies, hats, tees and more are on sale!
+Hoodies, hats, tees and more are on sale!
 
-Shop Black Friday Deals](https://atari.com/collections/apparel-accessories?filter.p.product_type=Bags&filter.p.product_type=Bottoms&filter.p.product_type=Hats&filter.p.product_type=Jackets&filter.p.product_type=Shirts&filter.p.product_type=Sweatshirts&sort_by=best-selling)[![](files/stockingstuffers.jpg)
+Shop Black Friday Deals](https://atari.com/collections/apparel-accessories?filter.p.product_type=Bags&filter.p.product_type=Bottoms&filter.p.product_type=Hats&filter.p.product_type=Jackets&filter.p.product_type=Shirts&filter.p.product_type=Sweatshirts&sort_by=best-selling)[![](files/6_4375e4fb-6be0-458c-91ca-c9196f238680.jpg)
 
-### PERFECT STOCKING STUFFERS
+### Light up your game room
 
-SHOP NOW](https://www.atari.com/collections/stocking-stuffers)
+SHOP NOW](https://www.atari.com/products/atari-neon-led-sign)
 
 ### Holiday Best Sellers
 
