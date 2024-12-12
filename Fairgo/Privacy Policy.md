@@ -7,27 +7,32 @@
 PRIVACY POLICY 
 ===============
 
-### **What info do we collect?**
+**What info do we collect?**
+----------------------------
 
 You can’t have a barbie without snags and tomato sauce, just like you can’t play for cash at Fair Go without giving us a little bit of info first. We’re not talking about your star sign or whether you’re a Home and Away or a Neighbours fan either. We just need your name, your email address, a mailing address and your credit card details (number and expiration date). Once we have this info, we can process all of your transactions lickity split.
 
-### **Why do we collect it?**
+**Why do we collect it?**
+-------------------------
 
 We need info such as your email address, mailing address and your name so we can keep you up to date with any bonza comps or ripper promos you enter. You don’t want to miss out on winning a motza after all. Of course, if you think we’re going a bit troppo with our emails, you can always unsubscribe from any mail you don’t want to receive.
 
 In addition, we collect personal details when you have a crack at a customer survey. This is done to ensure we have the info necessary to improve your gaming experience. Player traffic patterns and site usage help us enhance the design of our website while your IP address is used to gather demographic info and for when we need to diagnose problems with our server or website.
 
-### **Advertising system**
+**Advertising system**
+----------------------
 
 Reckon our advertising system is a bit how ya goin? Well, don’t worry. It only logs IP addresses to provide more accurate advertising features such as language specific banners.
 
-### **Account Creation Information**
+**Account Creation Information**
+--------------------------------
 
 We collect email addresses of those who communicate with us via email. Your email address and any other info you give the Fair Go team, including personal details you provide during rego, is kept strictly confidential. The only time we even use your email address is when we’re notifying you of software updates, promotions and various casino operations (deposits, withdrawals etc.).
 
 Rest assured, we’d no sooner share this info with a third-party company or organisation than ask for a middie in Melbourne or a butcher in Brisbane. Any personal details provided to us will only be used for their intended purpose and not shared across our site or used in any other promotion, competition, survey or mailout unless specified by you.
 
-### **Winnings**
+**Winnings**
+------------
 
 Any winnings you bag or cashouts you claim are kept 100% confidential. So rather than letting all your details go walkabout, we store all winning info within our secure operating environment. This info is then kept private from third-party companies and organisations. That is, unless it’s required to be disclosed by law, regulation or any governmental or competent regulatory authority.
 
