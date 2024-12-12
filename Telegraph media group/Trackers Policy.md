@@ -3,8 +3,6 @@ Privacy and Cookie Policy
 
 Save
 
-[Comment speech bubble icon](#comment)
-
 Share article
 -------------
 
@@ -24,8 +22,6 @@ Share article
 29 September 2024 10:00am BST
 
 Save
-
-[Comment speech bubble icon](#comment)
 
 * Copy link
     
