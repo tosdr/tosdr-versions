@@ -1,4 +1,6 @@
-[👗 Shop in-store at Simons and earn 1% Cash Back
+[Puma Canada: Up to 50% off select styles + Up to 20% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/puma-canada?store=puma-canada&sourceName=sitewide-sticky-header)[👗 Shop in-store at Simons and earn 1% Cash Back
 
 Link Offer](https://www.rakuten.ca/in-store-cash-back)
 
