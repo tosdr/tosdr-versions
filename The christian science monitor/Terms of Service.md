@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Cooperation
+
+### How fall of Assad showcases the Biden-Trump policy divide in the Mideast](https://www.csmonitor.com/USA/Foreign-Policy/2024/1211/syria-trump-biden-isis-iran-mideast "How fall of Assad showcases the Biden-Trump policy divide in the Mideast")
+
 [Dignity
 
 ### African art that liberates](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1211/African-art-that-liberates "African art that liberates")
@@ -100,21 +104,17 @@ Recent Stories
 
 ### Time to go home? Hezbollah ceasefire offers northern Israelis hope.](https://www.csmonitor.com/World/Middle-East/2024/1210/israel-lebanon-border-hezbollah-ceasefire-evacuees "Time to go home? Hezbollah ceasefire offers northern Israelis hope.")
 
-[Safety
-
-### Boston broke a record last year for fewest homicides. It’s on track to do it again.](https://www.csmonitor.com/USA/Justice/2024/1210/boston-safety-2024-homicide-record "Boston broke a record last year for fewest homicides. It’s on track to do it again.")
-
 [See all News & Values stories](https://www.csmonitor.com/values)
 
 * * *
 
 Monitor Daily
 
-December 10, 2024
+December 11, 2024
 
-A more powerful force
+A hour’s wage for a cup of coffee
 
-“The common good.” The phrase may sound out of tune with the harsh tone of America’s public square. But it crops up in Patrik Jonsson’s story today about professional work and citizen alertness. That’s what led law enforcement to Luigi Mangione, who has been arrested on weapons charges and is a suspect in the killing of UnitedHealthcare executive Brian Thompson. Many people anonymously and darkly cheered him on. But Patrik’s sources said that Mr. Mangione may have underestimated something else at work: a deeper respect for the common good.
+“The minimum wage back home was $7.25, and here, that’s a coffee.” That’s Jillian McGeehin, a small-town student now attending the University of Chicago. Today’s story by Kelly Field looks at why relatively few rural students go to top colleges – and what can be done about it. Elite colleges have widened America’s cultural rifts. Kelly’s story considers the idea that, in reaching out to rural America, maybe they can be a part of the solution, too. 
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### With Assad’s ouster, Russia’s Mideast influence collapses. What will Moscow do now?](https://www.csmonitor.com/World/Europe/2024/1211/russia-syria-regime-assad-hts-iran "With Assad’s ouster, Russia’s Mideast influence collapses. What will Moscow do now?")
+
+[### In ‘new crisis era,’ Tokyo needs help from Seoul and DC. Can it count on them?](https://www.csmonitor.com/World/Asia-Pacific/2024/1211/japan-south-korea-alliance-china-defense "In ‘new crisis era,’ Tokyo needs help from Seoul and DC. Can it count on them?")
+
 [### Preemptive pardons could protect Trump targets, but veer into politics](https://www.csmonitor.com/USA/Justice/2024/1211/presidential-preemptive-pardon-biden-trump "Preemptive pardons could protect Trump targets, but veer into politics")
-
-[### Why is the Chinese military deployment around Taiwan the largest in years?](https://www.csmonitor.com/World/Asia-Pacific/2024/1211/china-taiwan-military-navy-trump "Why is the Chinese military deployment around Taiwan the largest in years?")
-
-[### ‘We are looking for a good future’: Lebanese life amid the rubble](https://www.csmonitor.com/World/Middle-East/2024/1211/lebanon-israel-hezbollah-ceasefire-iran "‘We are looking for a good future’: Lebanese life amid the rubble")
 
 * * *
 
