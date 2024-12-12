@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![reynolds 2011-12](/assets/logos/ReynoldsAmericanByRecipient2011-12.png)](http://www.followthemoney.org/research/institute-research/big-tobacco-wins-tax-battles)
+[![high court 09-10](/assets/logos/HighCourtRaces.png)](http://www.followthemoney.org/research/institute-research/money-in-judicial-elections-2009-2010)
 
-Look at this tobacco giant’s giving.
+Is the judiciary “above politics”? See high court races.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
