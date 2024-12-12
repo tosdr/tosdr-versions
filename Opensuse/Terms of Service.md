@@ -174,7 +174,7 @@ Retrieved from "[https://en.opensuse.org/index.php?title=Terms\_of\_site&oldid=1
 
 * [Policies and guidelines](https://en.opensuse.org/Category:Policies_and_guidelines "Category:Policies and guidelines")
 
-This page was last edited on 22 October 2024, at 12:27. Content is available under [GNU Free Documentation License 1.2](https://www.gnu.org/licenses/fdl-1.2.html) unless otherwise noted. This page has been accessed 378,172 times.
+This page was last edited on 22 October 2024, at 12:27. Content is available under [GNU Free Documentation License 1.2](https://www.gnu.org/licenses/fdl-1.2.html) unless otherwise noted. This page has been accessed 378,213 times.
 
 * [Privacy policy](https://en.opensuse.org/openSUSE:Privacy_policy "openSUSE:Privacy policy")
 * [About openSUSE Wiki](https://en.opensuse.org/openSUSE:About "openSUSE:About")
@@ -184,7 +184,7 @@ This page was last edited on 22 October 2024, at 12:27. Content is available und
 
 Sponsors
 
-[![Sponsor](https://static.opensuse.org/themes/bento/images/sponsors/sponsor_ip-exchange2.png)](https://en.opensuse.org/Sponsors)
+[![Sponsor](https://static.opensuse.org/themes/bento/images/sponsors/sponsor_b1-systems.png)](https://en.opensuse.org/Sponsors)
 
 ##### Log in
 
