@@ -20,16 +20,16 @@ Thursday, December 12 2024
 
 Latest
 
-* [Ireland has become a “data dumping ground” for big tech](https://digitpatrox.com/ireland-has-become-a-data-dumping-ground-for-big-tech/)
-* [Pioneering the future of AI-powered public safety – Computerworld](https://digitpatrox.com/pioneering-the-future-of-ai-powered-public-safety-computerworld/)
-* [How to Create Custom Lists on Your Hearth Display](https://digitpatrox.com/how-to-create-custom-lists-on-your-hearth-display/)
-* [9 Best Large-Capacity Washers of 2024, Lab-Tested and Reviewed](https://digitpatrox.com/9-best-large-capacity-washers-of-2024-lab-tested-and-reviewed/)
-* [YouTube Changed How Playback Speed Works, but It’s a Step Back](https://digitpatrox.com/youtube-changed-how-playback-speed-works-but-its-a-step-back/)
-* [How much performance boost should you expect?](https://digitpatrox.com/how-much-performance-boost-should-you-expect/)
-* [Everything you need to know about the Cleo file transfer vulnerability, including affected products, patches, and temporary mitigations](https://digitpatrox.com/everything-you-need-to-know-about-the-cleo-file-transfer-vulnerability-including-affected-products-patches-and-temporary-mitigations/)
-* [Take This $75 Chromebook Anywhere](https://digitpatrox.com/take-this-75-chromebook-anywhere/)
-* [Google Pixel 9a leak spills specs early — 5 biggest changes that may be coming to the phone](https://digitpatrox.com/google-pixel-9a-leak-spills-specs-early-5-biggest-changes-that-may-be-coming-to-the-phone/)
-* [New EagleMsgSpy Android spyware used by Chinese police, researchers say](https://digitpatrox.com/new-eaglemsgspy-android-spyware-used-by-chinese-police-researchers-say/)
+* [How to decide which VPN to use](https://digitpatrox.com/how-to-decide-which-vpn-to-use/)
+* [AWS wants to drastically cut down AI hallucinations – here’s how it plans to do it](https://digitpatrox.com/aws-wants-to-drastically-cut-down-ai-hallucinations-heres-how-it-plans-to-do-it/)
+* [How to choose videoconferencing software – Computerworld](https://digitpatrox.com/how-to-choose-videoconferencing-software-computerworld/)
+* [The ‘Magic Basket’ Method Breaks Decluttering Into Two Manageable Steps](https://digitpatrox.com/the-magic-basket-method-breaks-decluttering-into-two-manageable-steps/)
+* [Ransomware gang claims attack on California hospital that forced staff to use pen and paper](https://digitpatrox.com/ransomware-gang-claims-attack-on-california-hospital-that-forced-staff-to-use-pen-and-paper/)
+* [What is Presence Sensing, and how to use it on Windows 11? Everything you need to know](https://digitpatrox.com/what-is-presence-sensing-and-how-to-use-it-on-windows-11-everything-you-need-to-know/)
+* [When Assisted Living Is Needed](https://digitpatrox.com/when-assisted-living-is-needed/)
+* [I Always Use These 6 Security Features In Microsoft Edge](https://digitpatrox.com/i-always-use-these-6-security-features-in-microsoft-edge/)
+* [Google jumps on the agentic AI bandwagon](https://digitpatrox.com/google-jumps-on-the-agentic-ai-bandwagon/)
+* [How to Fix Network Jitter (for Good) in Under 10 Minutes](https://digitpatrox.com/how-to-fix-network-jitter-for-good-in-under-10-minutes/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/hL6om5KzC3eURQqHcBM5Ra-1200-80.jpg)](https://digitpatrox.com/ireland-has-become-a-data-dumping-ground-for-big-tech/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/How-to-decide-which-VPN-to-use.jpg)](https://digitpatrox.com/how-to-decide-which-vpn-to-use/)
     
-    [Ireland has become a “data dumping ground” for big tech](https://digitpatrox.com/ireland-has-become-a-data-dumping-ground-for-big-tech/)
+    [How to decide which VPN to use](https://digitpatrox.com/how-to-decide-which-vpn-to-use/)
     
-    7 minutes ago
+    44 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3623120-0-74920100-1734005803-Picture1_carpet-CCTV-resized-1.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/pioneering-the-future-of-ai-powered-public-safety-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/up7KoVRatQ55Re8Gti5rFT-1200-80.jpg)](https://digitpatrox.com/aws-wants-to-drastically-cut-down-ai-hallucinations-heres-how-it-plans-to-do-it/)
     
-    [Pioneering the future of AI-powered public safety – Computerworld](https://digitpatrox.com/pioneering-the-future-of-ai-powered-public-safety-computerworld/)
-    
-    29 minutes ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JD5M0WN686Z7STG8S93GENC7/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-create-custom-lists-on-your-hearth-display/)
-    
-    [How to Create Custom Lists on Your Hearth Display](https://digitpatrox.com/how-to-create-custom-lists-on-your-hearth-display/)
-    
-    57 minutes ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1719951392/prod/content/dam/CRO-Images-2024/Appliances/CR-Appliances-InlineHero-Large-Capacity-Washers-hero-update-0724)](https://digitpatrox.com/9-best-large-capacity-washers-of-2024-lab-tested-and-reviewed/)
-    
-    [9 Best Large-Capacity Washers of 2024, Lab-Tested and Reviewed](https://digitpatrox.com/9-best-large-capacity-washers-of-2024-lab-tested-and-reviewed/)
+    [AWS wants to drastically cut down AI hallucinations – here’s how it plans to do it](https://digitpatrox.com/aws-wants-to-drastically-cut-down-ai-hallucinations-heres-how-it-plans-to-do-it/)
     
     1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-hand-holding-a-phone-with-youtube-logo-coming-out-of-the-screen-and-several-youtube-logos-in-the-background.jpg)](https://digitpatrox.com/youtube-changed-how-playback-speed-works-but-its-a-step-back/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3606596-0-62677500-1734001365-woman-on-video-call-by-karolina-kaboompics-via-pexels.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/how-to-choose-videoconferencing-software-computerworld/)
     
-    [YouTube Changed How Playback Speed Works, but It’s a Step Back](https://digitpatrox.com/youtube-changed-how-playback-speed-works-but-its-a-step-back/)
+    [How to choose videoconferencing software – Computerworld](https://digitpatrox.com/how-to-choose-videoconferencing-software-computerworld/)
     
-    1 hour ago
+    2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JEXSBMD75ZNYC3KM32GHJ497/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-magic-basket-method-breaks-decluttering-into-two-manageable-steps/)
+    
+    [The ‘Magic Basket’ Method Breaks Decluttering Into Two Manageable Steps](https://digitpatrox.com/the-magic-basket-method-breaks-decluttering-into-two-manageable-steps/)
+    
+    2 hours ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/California-hospital-resorts-to-pen-and-paper-after-ransomware-gang-claims-hack.jpg)](https://digitpatrox.com/ransomware-gang-claims-attack-on-california-hospital-that-forced-staff-to-use-pen-and-paper/)
+    
+    [Ransomware gang claims attack on California hospital that forced staff to use pen and paper](https://digitpatrox.com/ransomware-gang-claims-attack-on-california-hospital-that-forced-staff-to-use-pen-and-paper/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [7 minutes ago
+* [44 minutes ago
     
-    ### Ireland has become a “data dumping ground” for big tech](https://digitpatrox.com/ireland-has-become-a-data-dumping-ground-for-big-tech/)
-* [29 minutes ago
+    ### How to decide which VPN to use](https://digitpatrox.com/how-to-decide-which-vpn-to-use/)
+* [1 hour ago
     
-    ### Pioneering the future of AI-powered public safety – Computerworld](https://digitpatrox.com/pioneering-the-future-of-ai-powered-public-safety-computerworld/)
-* [57 minutes ago
+    ### AWS wants to drastically cut down AI hallucinations – here’s how it plans to do it](https://digitpatrox.com/aws-wants-to-drastically-cut-down-ai-hallucinations-heres-how-it-plans-to-do-it/)
+* [2 hours ago
     
-    ### How to Create Custom Lists on Your Hearth Display](https://digitpatrox.com/how-to-create-custom-lists-on-your-hearth-display/)
+    ### How to choose videoconferencing software – Computerworld](https://digitpatrox.com/how-to-choose-videoconferencing-software-computerworld/)
 
 Most Popular Topics
 
-* [November 7, 2024
+* [August 16, 2024
     
-    ### Vendor Spotlight: Icinga](https://digitpatrox.com/vendor-spotlight-icinga/)
-* [September 10, 2024
+    ### How to Tunnel Web Traffic Through SSH for Secure Browsing](https://digitpatrox.com/how-to-tunnel-web-traffic-through-ssh-for-secure-browsing/)
+* [September 1, 2024
     
-    ### Today’s Wordle Answer and Hints (September 11, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-11-2024/)
-* [October 24, 2024
+    ### Apple’s rumored Mac Mini redesign may ditch the USB-A port](https://digitpatrox.com/apples-rumored-mac-mini-redesign-may-ditch-the-usb-a-port/)
+* [August 13, 2024
     
-    ### Energy firms need to up their game to protect against supply chain risks](https://digitpatrox.com/energy-firms-need-to-up-their-game-to-protect-against-supply-chain-risks/)
+    ### Kootenai Health notifies 464K people of data breach that exposed SSNs, medical info](https://digitpatrox.com/kootenai-health-notifies-464k-people-of-data-breach-that-exposed-ssns-medical-info/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Everything you need to know about the Cleo file transfer vulnerability, including affected products, patches, and temporary mitigations](https://digitpatrox.com/everything-you-need-to-know-about-the-cleo-file-transfer-vulnerability-including-affected-products-patches-and-temporary-mitigations/)
+    ### When Assisted Living Is Needed](https://digitpatrox.com/when-assisted-living-is-needed/)
 * [2 hours ago
     
-    ### Take This $75 Chromebook Anywhere](https://digitpatrox.com/take-this-75-chromebook-anywhere/)
-* [2 hours ago
+    ### I Always Use These 6 Security Features In Microsoft Edge](https://digitpatrox.com/i-always-use-these-6-security-features-in-microsoft-edge/)
+* [3 hours ago
     
-    ### Google Pixel 9a leak spills specs early — 5 biggest changes that may be coming to the phone](https://digitpatrox.com/google-pixel-9a-leak-spills-specs-early-5-biggest-changes-that-may-be-coming-to-the-phone/)
+    ### Google jumps on the agentic AI bandwagon](https://digitpatrox.com/google-jumps-on-the-agentic-ai-bandwagon/)
 
 Most Viewed Topics
 
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 12, 2024
+* [August 13, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
