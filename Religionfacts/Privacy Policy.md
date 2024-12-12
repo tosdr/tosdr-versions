@@ -51,7 +51,7 @@ Article Info
 | Last Updated | June 21, 2024 |
 | Full URL | https:://religionfacts.com/privacy |
 | Short URL | https://rlft.co/1879 |
-| MLA Citation | “Privacy Policy.” _ReligionFacts._ 3 Oct 2013, https:://religionfacts.com/privacy. Accessed 11 Dec 2024. |
+| MLA Citation | “Privacy Policy.” _ReligionFacts._ 3 Oct 2013, https:://religionfacts.com/privacy. Accessed 12 Dec 2024. |
 | Embed Link | <a href="https:://religionfacts.com/privacy">Privacy Policy</a> — ReligionFacts |
 
 © 2004-2024 [ReligionFacts](https://religionfacts.com/). All rights reserved.
