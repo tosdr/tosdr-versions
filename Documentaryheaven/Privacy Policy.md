@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Commanding Heights](/wp-content/thumbnails/4758-100x70.jpg?x53432)
+* [![The Nature of Ayahuasca](/wp-content/thumbnails/16205-100x70.jpg?x53432)
     
-    Commanding Heights
+    The Nature of Ayahuasca
     
-    Episode One: The Battle of IdeasA global economy, energized by technological change and unprecedented flows of people and money, collapses in the wake of a terrorist attack .... The year is 1914.W](https://documentaryheaven.com/commanding-heights/ "Commanding Heights")
-* [![Desperately Hungry Housewives](/wp-content/thumbnails/7781-100x70.jpg?x53432)
+    Ayahuasca is a plant-based psychedelic brew that originated from the South American rainforests. It is made from boiling the Banisteriopsis caapi vine, the Psychotria viridis shrub together, although](https://documentaryheaven.com/nature-of-ayahuasca/ "The Nature of Ayahuasca")
+* [![The Voynich Code: The World’s Most Mysterious Manuscript](/wp-content/thumbnails/14251-100x70.jpg?x53432)
     
-    Desperately Hungry Housewives
+    The Voynich Code: The World’s Most Mysterious Manuscript
     
-    When you think of anorexia and bulimia you generally think teenage girls, but these dangerous eating disorders are now on the increase among older women.This film goes into the seemingly p](https://documentaryheaven.com/desperately-hungry-housewives/ "Desperately Hungry Housewives")
-* [![For The Bible Tells Me So](/wp-content/thumbnails/7010-100x70.jpg?x53432)
+    Since the beginning of time people have searched for means to keep certain communication private, over the years this developed into encoding information with cyphers, this is especially true with reg](https://documentaryheaven.com/voynich-code-worlds-most-mysterious-manuscript/ "The Voynich Code: The World’s Most Mysterious Manuscript")
+* [![The Anthropocene: The Age of Mankind](/wp-content/thumbnails/13378-100x70.jpg?x53432)
     
-    For The Bible Tells Me So
+    The Anthropocene: The Age of Mankind
     
-    For the Bible Tells Me So is a 2007 American documentary film directed by Daniel G. Karslake about homosexuality and its perceived conflict with religion, as well as various interpretations of what th](https://documentaryheaven.com/for-the-bible-tells-me-so/ "For The Bible Tells Me So")
-* [![Cocaine: Narcos, Sicarios and Peru](/wp-content/thumbnails/10193-100x70.jpg?x53432)
+    Humans have been trying to control nature for quite some time, and out influence has become more and more dramatic, in fact it is now so strong that following years of research and monitoring an inter](https://documentaryheaven.com/anthropocene-age-of-mankind/ "The Anthropocene: The Age of Mankind")
+* [![The Battle of Chosin](/wp-content/thumbnails/12762-100x70.jpg?x53432)
     
-    Cocaine: Narcos, Sicarios and Peru
+    The Battle of Chosin
     
-    From the terror of hired killers trained by the cartels to the war on drugs in the remote jungles of Peru, this is a series about the new cartel wars and the legacy left behind by Pablo Escobar.Pa](https://documentaryheaven.com/cocaine-narcos-sicarios-peru/ "Cocaine: Narcos, Sicarios and Peru")
-* [![EP1/2 Louis Theroux: Miami Mega Jail](/wp-content/thumbnails/5799-100x70.jpg?x53432)
+    In the last days of November 1950, twelve thousand men of the 1st Marine Division along with a few thousand army soldiers found themselves trapped high in the mountains of North Korea near a reservoir](https://documentaryheaven.com/battle-of-chosin/ "The Battle of Chosin")
+* [![Igor: Child of Chernobyl](/wp-content/thumbnails/16025-100x70.jpeg?x53432)
     
-    EP1/2 Louis Theroux: Miami Mega Jail
+    Igor: Child of Chernobyl
     
-    In the first episode of this two-part series, Louis Theroux spends time in one of the most notorious sections of Miami County Jail: the fifth and sixth floor of ‘Main Jail’, where many of the most vol](https://documentaryheaven.com/louis-theroux-miami-mega-jail/ "EP1/2 Louis Theroux: Miami Mega Jail")
+    Igor Pavlovets was one of the first children to be born during the aftermath of the Chernobyl disaster in 1986. He was eight years old at the time this documentary was filmed. He is missing his right](https://documentaryheaven.com/igor-child-of-chernobyl/ "Igor: Child of Chernobyl")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
