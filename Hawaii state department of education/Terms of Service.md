@@ -4,8 +4,6 @@
 
                         
 
-* ............................ ![](/PublishingImages/masterpage/alert_icon.png) **_Important Alert:_** Farrington High School campus is closed 12/11 due to active police investigation
-
 [![logo](/PublishingImages/masterpage/hidoe-logo.png)](https://www.hawaiipublicschools.org/)
 
 Hawaiʻi State Department of Education  
