@@ -279,25 +279,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![George Gonzalez (U.S. Attorney's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/12/jan6-432x243.jpg)](https://lawandcrime.com/high-profile/man-seen-on-video-at-u-s-capitol-on-jan-6-told-investigators-he-wasnt-actually-there-that-day-feds/)
+1. [![Inset, left to right: Yusef Salaam, Antron McCray, Korey Wise, Kevin Richardson, Raymond Santana (CBS Sunday Morning). Background: Donald Trump speaks at the annual Road to Majority conference in Washington, DC, June 22, 2024. (Allison Bailey/NurPhoto via AP)](https://am23.mediaite.com/lc/cnt/uploads/2024/11/sdfadsf-432x243.jpg)](https://lawandcrime.com/high-profile/trump-says-comments-that-central-park-five-killed-a-person-were-substantially-true-despite-exoneration-in-push-to-dismiss-defamation-suit/)
     
-    ### [Man seen on video at U.S. Capitol on Jan. 6 told investigators he wasn't actually there that day: Feds](https://lawandcrime.com/high-profile/man-seen-on-video-at-u-s-capitol-on-jan-6-told-investigators-he-wasnt-actually-there-that-day-feds/)
+    ### [Trump says comments that Central Park Five 'killed a person' were 'substantially true,' despite exoneration, in push to dismiss defamation suit](https://lawandcrime.com/high-profile/trump-says-comments-that-central-park-five-killed-a-person-were-substantially-true-despite-exoneration-in-push-to-dismiss-defamation-suit/)
     
-2. [![Inset: Funeral home owner Chris Johnson (Coffee County Sheriff's Office). Background: The Johnson Funeral Home in Douglas, Georgia (WALB/YouTube).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/chris-johnson-432x243.jpg)](https://lawandcrime.com/crime/i-dont-know-whats-in-that-coffin-owner-of-funeral-home-allegedly-hoarded-bodies-altered-cause-of-death-for-insurance-fraud/)
+2. [![Denise Balbaneda, Miranda Sipps, Gerald Gonzales](https://am24.mediaite.com/lc/cnt/uploads/2024/08/Texas-432x243.jpg)](https://lawandcrime.com/crime/parents-who-allegedly-gave-dying-cheerleader-daughter-smoothies-and-left-her-on-pallet-for-days-instead-of-getting-help-will-face-a-jury/)
     
-    ### ['I don’t know what's in that coffin': Owner of funeral home allegedly hoarded bodies, altered cause of death for insurance fraud](https://lawandcrime.com/crime/i-dont-know-whats-in-that-coffin-owner-of-funeral-home-allegedly-hoarded-bodies-altered-cause-of-death-for-insurance-fraud/)
+    ### [Parents who allegedly gave dying cheerleader daughter smoothies and left her on 'pallet' for days instead of getting help will face a jury](https://lawandcrime.com/crime/parents-who-allegedly-gave-dying-cheerleader-daughter-smoothies-and-left-her-on-pallet-for-days-instead-of-getting-help-will-face-a-jury/)
     
-3. [![Richard Wendell Sotka (Mississippi County, Arkansas Sheriff’s Dept.) and the home where he killed Rhonda Cegelski and Paula O’Connor (WBAY screenshot)](https://am22.mediaite.com/lc/cnt/uploads/2024/03/Richard-Wendell-Sotka-Mississippi-County-Arkansas-Sheriffs-Dept.-and-the-home-where-he-killed-Rhonda-Cegelski-and-Paula-OConnor-WBAY-screenshot-432x243.jpg)](https://lawandcrime.com/crime/man-who-was-humiliated-after-walking-in-on-girlfriend-being-intimate-with-another-woman-and-killed-both-is-headed-back-to-trial/)
+3. [![Left to right: Aileen Cannon, Ryan Routh](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Cannon-Routh-1-432x243.jpg)](https://lawandcrime.com/high-profile/not-entirely-sure-the-road-blocks-youre-describing-exist-judge-aileen-cannon-skeptical-of-efforts-to-obtain-lengthy-trial-delay-in-alleged-trump-assassin-case/)
     
-    ### [Man who was ‘humiliated’ after walking in on girlfriend being intimate with another woman and killed both is headed back to trial](https://lawandcrime.com/crime/man-who-was-humiliated-after-walking-in-on-girlfriend-being-intimate-with-another-woman-and-killed-both-is-headed-back-to-trial/)
+    ### ['Not entirely sure the road blocks you're describing exist': Judge Aileen Cannon skeptical of efforts to obtain lengthy trial delay in alleged Trump assassin case](https://lawandcrime.com/high-profile/not-entirely-sure-the-road-blocks-youre-describing-exist-judge-aileen-cannon-skeptical-of-efforts-to-obtain-lengthy-trial-delay-in-alleged-trump-assassin-case/)
     
-4. [![Popular post image](https://am22.mediaite.com/lc/cnt/uploads/2023/09/U.S.-Circuit-Court-Judge-Pauline-Newman-432x243.jpg)](https://lawandcrime.com/high-profile/unusually-cognitively-intact-oldest-federal-judge-who-refused-evaluation-wants-documents-unsealed-as-she-appeals-suspension/)
+4. [![Left to right: Daniel Page Adams and Cody Page Carter Connell (U.S. Attorney's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/12/j6-1-432x243.jpg)](https://lawandcrime.com/high-profile/youre-not-even-a-f-ing-american-cousins-who-fought-with-police-led-charge-of-initial-breach-on-jan-6-sentenced/)
     
-    ### ['Unusually cognitively intact': Oldest federal judge who refused evaluation wants documents unsealed as she appeals suspension](https://lawandcrime.com/high-profile/unusually-cognitively-intact-oldest-federal-judge-who-refused-evaluation-wants-documents-unsealed-as-she-appeals-suspension/)
+    ### ['You're not even a f---ing American!': Cousins who fought with police, led charge of initial breach on Jan. 6 sentenced](https://lawandcrime.com/high-profile/youre-not-even-a-f-ing-american-cousins-who-fought-with-police-led-charge-of-initial-breach-on-jan-6-sentenced/)
     
-5. [![Left to right: Rupert Murdoch and Bill Barr.](https://am21.mediaite.com/lc/cnt/uploads/2024/12/Murdoch-Barr-432x243.jpg)](https://lawandcrime.com/high-profile/a-dishonesty-of-purpose-and-motive-probate-court-slams-bill-barr-while-rejecting-rupert-murdochs-bad-faith-bid-to-change-family-trust-as-a-carefully-crafted-charade/)
+5. [![Michael Flynn appears in a file photo speaking at a conference in Washington, D.C., on January 10, 2017. (Photo by CHRIS KLEPONIS/AFP via Getty Images.)](https://am22.mediaite.com/lc/cnt/uploads/2021/12/Michael-Flynn-Getty-Images-631410810-432x243.jpg)](https://lawandcrime.com/high-profile/judge-tosses-michael-flynns-50-million-lawsuit-that-claimed-he-was-prosecuted-to-derail-and-discredit-trumps-2020-presidential-bid/)
     
-    ### ['A dishonesty of purpose and motive': Probate court slams Bill Barr while rejecting Rupert Murdoch's 'bad faith' bid to change family trust as a 'carefully crafted charade'](https://lawandcrime.com/high-profile/a-dishonesty-of-purpose-and-motive-probate-court-slams-bill-barr-while-rejecting-rupert-murdochs-bad-faith-bid-to-change-family-trust-as-a-carefully-crafted-charade/)
+    ### [Judge tosses Michael Flynn's $50 million lawsuit that claimed he was prosecuted to 'derail and discredit' Trump's 2020 presidential bid](https://lawandcrime.com/high-profile/judge-tosses-michael-flynns-50-million-lawsuit-that-claimed-he-was-prosecuted-to-derail-and-discredit-trumps-2020-presidential-bid/)
     
 
 [](http://eepurl.com/c89Jdb)
