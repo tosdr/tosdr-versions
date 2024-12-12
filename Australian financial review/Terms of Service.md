@@ -293,43 +293,46 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.5083%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_284%2C$y_161/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d0812b133f62b7ea57e3cc3c9b213c96d710745e)](https://www.afr.com/life-and-luxury/fashion-and-style/from-the-hamptons-to-the-australian-open-inside-the-world-of-ralph-lauren-20240903-p5k7gp)
+[![Zara Tindall initially saddled up for Magic Millions for a year. But a firm friendship with event owner Katie Page and a fondness for the Gold Coast keeps bringing the royal back.](https://static.ffx.io/images/$zoom_0.3562%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_109%2C$y_448/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/494dcebd22117352bd2f512344a448e0a925e81b)](https://www.afr.com/life-and-luxury/travel/the-royal-who-loves-coming-to-australia-each-summer-20241003-p5kfrc)
 
-### [From the Hamptons to the Australian Open: inside Ralph Lauren’s world](https://www.afr.com/life-and-luxury/fashion-and-style/from-the-hamptons-to-the-australian-open-inside-the-world-of-ralph-lauren-20240903-p5k7gp)
+### [The royal who loves coming to Australia each summer](https://www.afr.com/life-and-luxury/travel/the-royal-who-loves-coming-to-australia-each-summer-20241003-p5kfrc)
 
-* Lauren Sams
+* 50 mins ago
+* Jane Knight
 
-* ### [The year’s best books as chosen by the Financial Review newsroom](https://www.afr.com/life-and-luxury/arts-and-culture/the-year-s-best-books-as-chosen-by-the-financial-review-newsroom-20241118-p5krh3)
+* ### [The retail boss who is obsessed with Christmas](https://www.afr.com/life-and-luxury/fashion-and-style/the-retail-boss-who-is-obsessed-with-christmas-20241023-p5kkll)
     
-* ### [Egypt’s bygone glamour gets a luxurious new spin](https://www.afr.com/life-and-luxury/travel/egypt-s-bygone-glamour-gets-a-luxurious-new-spin-20241023-p5kkke)
+* ### [From the Hamptons to the Australian Open: inside Ralph Lauren’s world](https://www.afr.com/life-and-luxury/fashion-and-style/from-the-hamptons-to-the-australian-open-inside-the-world-of-ralph-lauren-20240903-p5k7gp)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Sophie Jackman is likely to expand her team when the new sustainability reporting standards are introduced.](https://static.ffx.io/images/$zoom_0.7646%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_142%2C$y_423/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/cc5afa797ebf093823751aefb82fb7831e8821be)](https://www.afr.com/work-and-careers/careers/how-accountants-will-help-save-the-planet-20241209-p5kww2)
+[![MinRes founder Chris Ellison will still be at the company into 2026.](https://static.ffx.io/images/$zoom_0.3147%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_21/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1741e3e3548e5d364f723047189c53910d0a5a95)](https://www.afr.com/work-and-careers/leaders/drumstick-awards-the-five-biggest-corporate-stuff-ups-of-2024-20241209-p5kx0s)
 
-### [How accountants will help save the planet](https://www.afr.com/work-and-careers/careers/how-accountants-will-help-save-the-planet-20241209-p5kww2)
+### [Drumstick Awards: The five biggest corporate stuff-ups of 2024](https://www.afr.com/work-and-careers/leaders/drumstick-awards-the-five-biggest-corporate-stuff-ups-of-2024-20241209-p5kx0s)
 
-* Sally Patten
+* 55 mins ago
+* James Thomson
 
-* ### [This woman made history when she took over her local A-League club](https://www.afr.com/work-and-careers/leaders/this-woman-made-history-when-she-took-over-her-local-a-league-club-20241021-p5kk1e)
+* ### [How accountants will help save the planet](https://www.afr.com/work-and-careers/careers/how-accountants-will-help-save-the-planet-20241209-p5kww2)
     
-* ### [Australia’s 50 highest-paid CEOs in 2024 revealed](https://www.afr.com/work-and-careers/workplace/australia-s-50-highest-paid-ceos-in-2024-revealed-20241202-p5kv4m)
+* ### [This woman made history when she took over her local A-League club](https://www.afr.com/work-and-careers/leaders/this-woman-made-history-when-she-took-over-her-local-a-league-club-20241021-p5kk1e)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Le Panier district in Marseille.](https://static.ffx.io/images/$zoom_0.247%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_24/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/bc032997889c5298e87e66f0f7d4496a9670dec9)](https://www.afr.com/life-and-luxury/travel/the-magic-of-marseille-exists-if-you-know-where-to-find-it-20241120-p5ks9v)
+[![ ](https://static.ffx.io/images/$zoom_0.1293%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_26/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/cc2e8c7101666bf040968f5bdb8773917c91fe3d)](https://www.afr.com/life-and-luxury/fashion-and-style/should-men-wear-shorts-out-at-night-20241209-p5kwtu)
 
-### [The magic of Marseille exists if you know where to find it](https://www.afr.com/life-and-luxury/travel/the-magic-of-marseille-exists-if-you-know-where-to-find-it-20241120-p5ks9v)
+### [Should men wear shorts out at night?](https://www.afr.com/life-and-luxury/fashion-and-style/should-men-wear-shorts-out-at-night-20241209-p5kwtu)
 
-* Robert Bevan
+* 55 mins ago
+* Lauren Sams
 
-* ### [A gift guide for foodies, from cookbooks to culinary rarities](https://www.afr.com/life-and-luxury/food-and-wine/a-gift-guide-for-foodies-from-cookbooks-to-culinary-rarities-20241104-p5kns9)
+* ### [These award-winning restaurants and bars are designed to take you away](https://www.afr.com/life-and-luxury/design/these-award-winning-restaurants-and-bars-are-designed-to-take-you-away-20241205-p5kw2v)
     
-* ### [The Kiwi fashion label adored by Margot Robbie and Jacinda Ardern](https://www.afr.com/life-and-luxury/fashion-and-style/the-kiwi-fashion-label-adored-by-margot-robbie-and-jacinda-ardern-20241009-p5kgxs)
+* ### [The only car you’ll ever need (if you have a spare $3.8m)](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/the-only-car-you-ll-ever-need-if-you-have-a-spare-3-8m-20241126-p5ktnl)
     
 
 [Rich List](https://www.afr.com/rich-list)
