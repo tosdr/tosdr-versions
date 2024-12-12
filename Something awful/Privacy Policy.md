@@ -206,22 +206,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 ### What's Hot
 
 * [Children's Books](https://www.somethingawful.com/photoshop-phriday/childrens-books/1/)
-* [Hel-Looks SWAT](https://www.somethingawful.com/fashion-swat/hel-looks-swat/1/)
-* [LAME CHANGE](https://www.somethingawful.com/levi-johnston/game-change-palin/1/)
-* [MegaBop 1996](https://www.somethingawful.com/awful-movie-database/megabop-1996/)
+* [Let's improve landmarks](https://www.somethingawful.com/photoshop-phriday/lets-improve-landmarks/)
+* [Every Review Of Ghostbusters You Will Read This Week](https://www.somethingawful.com/news/every-ghostbusters-review/)
+* [Dangerfood](https://www.somethingawful.com/awful-movie-database/movie-food-industry/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Ideas to make the Something Awful Forums really "pop" in 2025](http://forums.somethingawful.com/showthread.php?threadid=4077252 "Ideas to make the Something Awful Forums really "pop" in 2025")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Something I never got about the movie Knives Out. spoilers](http://forums.somethingawful.com/showthread.php?threadid=4077246 "Something I never got about the movie Knives Out. spoilers")
+* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Yellow banner](http://forums.somethingawful.com/showthread.php?threadid=4077290 "Yellow banner")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [Why are the forums going down tonight?](http://forums.somethingawful.com/showthread.php?threadid=4077300 "Why are the forums going down tonight?")
+* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Ideas to make the Something Awful Forums really "pop" in 2025](http://forums.somethingawful.com/showthread.php?threadid=4077252 "Ideas to make the Something Awful Forums really "pop" in 2025")
 
 ### Random Articles
 
-* [The Bitcoin Revolution!](https://www.somethingawful.com/awful-things-sale/bitcoin-revolution/)
-* [Religious Toys](https://www.somethingawful.com/photoshop-phriday/religious-toys/1/)
-* [A look at life after the apocalypse](https://www.somethingawful.com/news/look-at-life/)
-* [WootBoom's Refurbished Item Grading System](https://www.somethingawful.com/news/wootboom-condition-refurbished/)
-* [Evidence Timeline](https://www.somethingawful.com/awful-links/awful-link-2152/)
+* [<I>Anarchy Online</I>: First Impressions](https://www.somethingawful.com/feature-articles/ianarchy-onlinei-first/1/)
+* [Hollywood Films vs. Internet Subtitles](https://www.somethingawful.com/comedy-goldmine/hollywood-films-vs/1/)
+* [Fighting Game Quips Make All Movies Better](https://www.somethingawful.com/news/fighting-game-subtitles/)
+* [Why the Last Thing the USA Needs is More Goddang Teachers](https://www.somethingawful.com/news/don-larry-teachers/1/)
+* [The Great Glittering Balloon Caper](https://www.somethingawful.com/news/glittering-balloon-caper/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
