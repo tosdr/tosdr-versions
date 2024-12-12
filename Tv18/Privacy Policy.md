@@ -389,7 +389,6 @@ News
 * [India](https://www.cnbctv18.com/india/ "India")
 * [Education](https://www.cnbctv18.com/education/ "Education")
 * [Politics](https://www.cnbctv18.com/politics/ "Politics")
-
 * [Technology](https://www.cnbctv18.com/technology/ "Technology")
 * [Auto](https://www.cnbctv18.com/auto/ "Auto")
 * [Startup](https://www.cnbctv18.com/startup/ "Startup")
@@ -422,11 +421,27 @@ Popular Categories
 * [Views](https://www.cnbctv18.com/views/ "Views")
 * [Webstories](https://www.cnbctv18.com/webstories/ "Webstories")
 * [Photos](https://www.cnbctv18.com/photos/ "Photos")
-
 * [Entertainment](https://www.cnbctv18.com/entertainment/ "Entertainment")
 * [Environment](https://www.cnbctv18.com/environment/ "Environment")
 * [Healthcare](https://www.cnbctv18.com/healthcare/ "Healthcare")
 * [Podcast](https://www.cnbctv18.com/podcast/ "Podcast")
+
+Calculators
+
+* [Pension Calculator](https://www.cnbctv18.com/calculators/pension-calculator/ "Pension Calculator")
+* [Inflation Calculator](https://www.cnbctv18.com/calculators/inflation-calculator/ "Inflation Calculator")
+* [Term Insurance Calculator](https://www.cnbctv18.com/calculators/term-insurance-calculator/ "Term Insurance Calculator")
+* [SIP Calculator](https://www.cnbctv18.com/calculators/sip-calculator/ "SIP Calculator")
+* [HRA Calculator](https://www.cnbctv18.com/calculators/hra-exemption-calculator/ "HRA Calculator")
+* [Home Loan Calculator](https://www.cnbctv18.com/calculators/home-loan-calculator/ "Home Loan Calculator")
+* [EMI Calculator](https://www.cnbctv18.com/calculators/emi-calculator/ "EMI Calculator")
+* [Personal Loan Calculator](https://www.cnbctv18.com/calculators/personal-loan-calculator/ "Personal Loan Calculator")
+* [Education Loan Calculator](https://www.cnbctv18.com/calculators/education-loan-calculator/ "Education Loan Calculator")
+* [FD Calculator](https://www.cnbctv18.com/calculators/fixed-deposit-calculator/ "FD Calculator")
+* [RD Calculator](https://www.cnbctv18.com/calculators/recurring-deposit-calculator/ "RD Calculator")
+* [PPF Calculator](https://www.cnbctv18.com/calculators/public-provident-fund-calculator/ "PPF Calculator")
+* [EPF Calculator](https://www.cnbctv18.com/calculators/employee-provident-fund-calculator/ "EPF Calculator")
+* [Gratuity Calculator](https://www.cnbctv18.com/calculators/gratuity-calculator/ "Gratuity Calculator")
 
 Trending Now
 
