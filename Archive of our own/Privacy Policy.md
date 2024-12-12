@@ -45,7 +45,7 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: buffy gen teen AND "no archive warnings apply" 
+* Work Search  tip: "sherlock (tv)" m/m NOT "sherlock holmes/john watson" 
     
 
 Terms of Service
