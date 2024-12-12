@@ -12,9 +12,9 @@ Join Now
 [![](https://www.minds.com/static/en/assets/logos/bulb.svg)](https://www.minds.com/ "Home")_close_
 
 * [_#_Explore](https://www.minds.com/discovery)
+* [_headphones_Audio](https://www.minds.com/search?q=&f=latest&t=audio)
 * [_add\_to\_queue_Minds+](https://www.minds.com/discovery/plus/overview)
 * [_tips\_and\_updates_Supermind](https://www.minds.com/supermind)
-* [_volunteer\_activism_Affiliate](https://www.minds.com/settings/affiliates-program)
 * [_group_Groups](https://www.minds.com/groups/memberships)
 * [_dashboard_Networks](https://www.minds.com/about/networks)
 
