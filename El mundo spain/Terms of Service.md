@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Z1nxIQoAAcIAAABaIFs)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Z1o@MgoAAcIAAABaM@U)
 
 Es noticia
 
