@@ -47,18 +47,18 @@ Skip links
     
     [Resolutions](https://texasgop.org/category/resolutions/)
     
+    [Resolution Commemorating The Honorable Carlos H. Cascos](https://texasgop.org/resolution-commemorating-the-honorable-carlos-h-cascos/)
+    ---------------------------------------------------------------------------------------------------------------------------------------
+    
+    [Resolutions](https://texasgop.org/category/resolutions/)
+    
+    [Resolution Encouraging the Texas Legislature to Prohibit Counties from Expending Taxpayer Funds to Pay Private Companies to Register Voters](https://texasgop.org/resolution-encouraging-the-txlege-prohibit-expending-taxpayer-funds-register-voters/)
+    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [Resolutions](https://texasgop.org/category/resolutions/)
+    
     [Resolution to Rein in the Abuses of the Texas Ethics Commission](https://texasgop.org/resolution-rein-in-abuses-of-tec/)
     -------------------------------------------------------------------------------------------------------------------------
-    
-    [Resolutions](https://texasgop.org/category/resolutions/)
-    
-    [Resolution Urging GOP Caucus Unity](https://texasgop.org/urging-gop-caucus-unity-resolution/)
-    ----------------------------------------------------------------------------------------------
-    
-    [Resolutions](https://texasgop.org/category/resolutions/)
-    
-    [Texas House GOP Caucus Resolution](https://texasgop.org/texas-house-gop-caucus-resolution/)
-    --------------------------------------------------------------------------------------------
     
     ###### Contact Us for Latest Updates
     
