@@ -13,8 +13,6 @@
 
 [Contact Us](https://www.dpdsmiles.com/contact-us/)
 
-[Patient Portal](https://dpdsmiles.curveconnex.com/login/?path=%2Fportal%2F)
-
 [![DPD Smiles Logo](https://www.dpdsmiles.com/wp-content/uploads/2024/08/IMG_20240821_124347-1024x1024.jpg)](https://www.dpdsmiles.com/)
 
 * [Home](https://www.dpdsmiles.com/)
@@ -61,7 +59,6 @@
     * [Frenectomies](https://www.dpdsmiles.com/wheaton-frenectomies/)
     * [Laser Dentistry](https://www.dpdsmiles.com/wheaton-laser-dentistry/)
 * [Patients](#)
-    * [Patient Portal](https://dpdsmiles.curveconnex.com/)
     * [Pay My Bill](https://payments.paynetworx.com/?token=23yQLnGCUhzdxzMYrczupKRb5l4)
     * [Insurance & Financial](https://www.dpdsmiles.com/dental-financing-options/)
     * [Post Procedure Care](https://www.dpdsmiles.com/post-op-care/)
@@ -118,7 +115,6 @@ Menu
     * [Frenectomies](https://www.dpdsmiles.com/wheaton-frenectomies/)
     * [Laser Dentistry](https://www.dpdsmiles.com/wheaton-laser-dentistry/)
 * [Patients](#)
-    * [Patient Portal](https://dpdsmiles.curveconnex.com/)
     * [Pay My Bill](https://payments.paynetworx.com/?token=23yQLnGCUhzdxzMYrczupKRb5l4)
     * [Insurance & Financial](https://www.dpdsmiles.com/dental-financing-options/)
     * [Post Procedure Care](https://www.dpdsmiles.com/post-op-care/)
@@ -129,7 +125,7 @@ Menu
     * [Referrals](https://www.dpdsmiles.com/doctor-referrals/)
     * [Request For School Form](https://www.dpdsmiles.com/st-charles-request-for-school-form/)
 
-* [](https://dpdsmiles.curveconnex.com/login/?path=%2Fportal%2F)
+* [](https://www.dpdsmiles.com/dental-financing-options/)
 * [](https://www.dpdsmiles.com/contact-us/)
 * [](https://payments.paynetworx.com/?token=23yQLnGCUhzdxzMYrczupKRb5l4)
 
