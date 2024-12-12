@@ -34,11 +34,6 @@
 * [Latin America and the Caribbean](https://www.opensocietyfoundations.org/what-we-do/regions/latin-america-and-the-caribbean)
 * [Middle East and North Africa](https://www.opensocietyfoundations.org/what-we-do/regions/middle-east-and-north-africa)
 * [United States](https://www.opensocietyfoundations.org/what-we-do/regions/united-states)
-* Themes
-* [Climate Justice](https://www.opensocietyfoundations.org/what-we-do/themes/climate-justice)
-* [Equity](https://www.opensocietyfoundations.org/what-we-do/themes/equity)
-* [Expression](https://www.opensocietyfoundations.org/what-we-do/themes/expression)
-* [Justice](https://www.opensocietyfoundations.org/what-we-do/themes/justice)
 
 * [Voices](https://www.opensocietyfoundations.org/voices)
 * [Events](https://www.opensocietyfoundations.org/events)
@@ -355,12 +350,12 @@ Read the latest from our staff, grantees, and partners about how we’re working
 
 [_Learn more_](https://www.opensocietyfoundations.org/voices)
 
-[Open Society Barometer](https://www.opensocietyfoundations.org/focus/open-society-barometer)
----------------------------------------------------------------------------------------------
+[How We Fund](https://www.opensocietyfoundations.org/how-we-work/how-we-fund)
+-----------------------------------------------------------------------------
 
-The Open Society Barometer is one of the largest ever studies of global public opinion on human rights and democracy across 30 countries—representing almost 5.5 billion people worldwide.
+Every year the Open Society Foundations give thousands of grants to groups and individuals that work on issues we focus on—promoting justice, equity, and human rights.
 
-[_Explore the results_](https://www.opensocietyfoundations.org/focus/open-society-barometer)
+[_Learn more_](https://www.opensocietyfoundations.org/how-we-work/how-we-fund)
 
 * [Who We Are](https://www.opensocietyfoundations.org/who-we-are)
 * [Our History](https://www.opensocietyfoundations.org/who-we-are/our-history)
