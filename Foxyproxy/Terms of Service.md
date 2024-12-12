@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Wonderful support!
+I must say you guys are very responsive and helpful. It's refreshing in today's world!
 
-Thomas J Ackermann
+Tim C.
