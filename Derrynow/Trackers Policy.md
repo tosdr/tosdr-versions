@@ -275,32 +275,14 @@ An Garda Síochána would like to thank the media and the public for their assis
 [Search stood down for teenage girl who was missing nearly three weeks](https://www.derrynow.com/news/national-news/1678800/search-stood-down-for-teenage-girl-who-was-missing-nearly-three-weeks.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Three people hospitalised following serious crash between bus and car in Donegal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three people hospitalised following serious crash between bus and car in Donegal")](https://www.derrynow.com/news/local-news/1678225/three-people-hospitalised-following-serious-crash-between-bus-and-car-in-donegal.html)
+[![REVEALED: Organisers confirm familiar venue for the 2025 National Ploughing Championships](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "REVEALED: Organisers confirm familiar venue for the 2025 National Ploughing Championships")](https://www.derrynow.com/news/national-news/1679090/revealed-organisers-confirm-familiar-venue-for-the-2025-national-ploughing-championships.html)
 
-The scene at Manorcunningham. Photo: NW Newspix
+File photo. Credit: Alf Harvey
 
-[Local News](https://www.derrynow.com/section/975/news)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Three people hospitalised following serious crash between bus and car in Donegal](https://www.derrynow.com/news/local-news/1678225/three-people-hospitalised-following-serious-crash-between-bus-and-car-in-donegal.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Apprentice Boys to burn Lundy in Derry city centre tonight](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Apprentice Boys to burn Lundy in Derry city centre tonight")](https://www.derrynow.com/news/local-news/1678352/apprentice-boys-to-burn-lundy-in-derry-city-centre-tonight.html)
-
-The annual burning of the effigy was postponed due to high winds because of Storm Darragh on Saturday
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Apprentice Boys to burn Lundy in Derry city centre tonight](https://www.derrynow.com/news/local-news/1678352/apprentice-boys-to-burn-lundy-in-derry-city-centre-tonight.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Arrest warrant issued for Derry man who failed to appear in court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Arrest warrant issued for Derry man who failed to appear in court")](https://www.derrynow.com/news/local-news/1678113/arrest-warrant-issued-for-derry-man-who-failed-to-appear-in-court.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Arrest warrant issued for Derry man who failed to appear in court](https://www.derrynow.com/news/local-news/1678113/arrest-warrant-issued-for-derry-man-who-failed-to-appear-in-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[REVEALED: Organisers confirm familiar venue for the 2025 National Ploughing Championships](https://www.derrynow.com/news/national-news/1679090/revealed-organisers-confirm-familiar-venue-for-the-2025-national-ploughing-championships.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Christmas comes early for EuroMillions Plus player who claimed top prize](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Christmas comes early for EuroMillions Plus player who claimed top prize")](https://www.derrynow.com/news/national-news/1678781/christmas-comes-early-for-euromillions-plus-player-who-claimed-top-prize.html)
 
@@ -318,15 +300,6 @@ Play National Lottery games responsibly, play for fun.     
 [Derry Death Notices - Thursday, December 12, 2024](https://www.derrynow.com/news/deaths/1678369/derry-death-notices-thursday-december-12-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Anyone speeding in excess of 100mph will face an immediate disqualification - Derry judge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Anyone speeding in excess of 100mph will face an immediate disqualification - Derry judge")](https://www.derrynow.com/news/local-news/1678191/anyone-speeding-in-excess-of-100mph-will-face-an-immediate-disqualification-derry-judge.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Anyone speeding in excess of 100mph will face an immediate disqualification - Derry judge](https://www.derrynow.com/news/local-news/1678191/anyone-speeding-in-excess-of-100mph-will-face-an-immediate-disqualification-derry-judge.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![BREAKING: Man arrested on suspicion of murdering Kyran Durnin](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "BREAKING: Man arrested on suspicion of murdering Kyran Durnin")](https://www.derrynow.com/news/national-news/1678899/breaking-man-arrested-on-suspicion-of-murdering-kyran-durnin.html)
 
 There has been no confirmed sighting of Kyran Durnin since May of 2022.
@@ -336,14 +309,41 @@ There has been no confirmed sighting of Kyran Durnin since May of 2022.
 [BREAKING: Man arrested on suspicion of murdering Kyran Durnin](https://www.derrynow.com/news/national-news/1678899/breaking-man-arrested-on-suspicion-of-murdering-kyran-durnin.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ireland's most generous counties revealed in new Christmas spending list](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ireland's most generous counties revealed in new Christmas spending list")](https://www.derrynow.com/news/national-news/1678187/ireland-s-most-generous-counties-revealed-in-new-christmas-spending-list.html)
+[![Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death")](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
 
-A survey by Paypal reveals Kildare, Meath and Carlow expected to spend the most on Christmas gifts this festive season PIC: Pixabay
+The late Rebecca Browne
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man breached Sexual Offences Prevention Order by being in the presence of children](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man breached Sexual Offences Prevention Order by being in the presence of children")](https://www.derrynow.com/news/local-news/1679028/derry-man-breached-sexual-offences-prevention-order-by-being-in-the-presence-of-children.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man breached Sexual Offences Prevention Order by being in the presence of children](https://www.derrynow.com/news/local-news/1679028/derry-man-breached-sexual-offences-prevention-order-by-being-in-the-presence-of-children.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Self confessed drug dealer jailed for 26 months at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Self confessed drug dealer jailed for 26 months at Derry Crown Court")](https://www.derrynow.com/news/local-news/1679038/self-confessed-drug-dealer-jailed-for-26-months-at-derry-crown-court.html)
+
+Derry Crown Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Self confessed drug dealer jailed for 26 months at Derry Crown Court](https://www.derrynow.com/news/local-news/1679038/self-confessed-drug-dealer-jailed-for-26-months-at-derry-crown-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Missing 15-year-old girl found 'safe and well'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Missing 15-year-old girl found 'safe and well'")](https://www.derrynow.com/news/national-news/1678792/missing-15-year-old-girl-found-safe-and-well-after-six-days-of-searching.html)
+
+Jamie Moorehouse went missing on Thursday, December 5.
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Ireland's most generous counties revealed in new Christmas spending list](https://www.derrynow.com/news/national-news/1678187/ireland-s-most-generous-counties-revealed-in-new-christmas-spending-list.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Missing 15-year-old girl found 'safe and well' after six days of searching](https://www.derrynow.com/news/national-news/1678792/missing-15-year-old-girl-found-safe-and-well-after-six-days-of-searching.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -521,7 +521,41 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Self confessed drug dealer jailed for 26 months at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Self confessed drug dealer jailed for 26 months at Derry Crown Court")](https://www.derrynow.com/news/local-news/1679038/self-confessed-drug-dealer-jailed-for-26-months-at-derry-crown-court.html)
+[![Birds top suspects amid anger and confusion over missing grave stones in Greysteel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Birds top suspects amid anger and confusion over missing grave stones in Greysteel")](https://www.derrynow.com/news/home/1679103/birds-top-suspects-amid-anger-and-confusion-over-missing-grave-stones-in-greysteel.html)
+
+[Home](https://www.derrynow.com/)
+
+[Birds top suspects amid anger and confusion over missing grave stones in Greysteel](https://www.derrynow.com/news/home/1679103/birds-top-suspects-amid-anger-and-confusion-over-missing-grave-stones-in-greysteel.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death")](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
+
+The late Rebecca Browne
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![BBC Home of the Year Finalist ](https://www.derrynow.com/resizer/165/93/true/2024_12_12/BBC_Home_of_the_Year_Finalist-1734008043436.jpg--.jpg?1734008045229 "BBC Home of the Year Finalist ")](https://www.derrynow.com/news/county-derry-post/1679114/county-derry-home-featured-in-homesnis-hotlist-of-2024.html)
+
+BBC Home of the Year Finalist
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[County Derry Home Featured in HomesNI’s Hotlist of 2024](https://www.derrynow.com/news/county-derry-post/1679114/county-derry-home-featured-in-homesnis-hotlist-of-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man jailed at Derry Magistrate's Court for assaulting an ambulance worker](https://www.derrynow.com/resizer/165/93/true/1635524105854.jpg--.jpg?1635524105000 "Man jailed at Derry Magistrate's Court for assaulting an ambulance worker")](https://www.derrynow.com/news/local-news/1679087/man-jailed-at-derry-magistrate-s-court-for-assaulting-an-ambulance-worker.html)
+
+Altnagelvin Hospital
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man jailed at Derry Magistrate's Court for assaulting an ambulance worker](https://www.derrynow.com/news/local-news/1679087/man-jailed-at-derry-magistrate-s-court-for-assaulting-an-ambulance-worker.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Self confessed drug dealer jailed for 26 months at Derry Crown Court](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Self confessed drug dealer jailed for 26 months at Derry Crown Court")](https://www.derrynow.com/news/local-news/1679038/self-confessed-drug-dealer-jailed-for-26-months-at-derry-crown-court.html)
 
 Derry Crown Court
 
@@ -530,7 +564,7 @@ Derry Crown Court
 [Self confessed drug dealer jailed for 26 months at Derry Crown Court](https://www.derrynow.com/news/local-news/1679038/self-confessed-drug-dealer-jailed-for-26-months-at-derry-crown-court.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man returned for trial to Derry Crown Court on drug charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned for trial to Derry Crown Court on drug charges")](https://www.derrynow.com/news/local-news/1679032/man-returned-for-trial-to-derry-crown-court-on-drug-charges.html)
+[![Man returned for trial to Derry Crown Court on drug charges](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Man returned for trial to Derry Crown Court on drug charges")](https://www.derrynow.com/news/local-news/1679032/man-returned-for-trial-to-derry-crown-court-on-drug-charges.html)
 
 Derry Magistrates' Court
 
@@ -538,40 +572,6 @@ Derry Magistrates' Court
 
 [Man returned for trial to Derry Crown Court on drug charges](https://www.derrynow.com/news/local-news/1679032/man-returned-for-trial-to-derry-crown-court-on-drug-charges.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man breached Sexual Offences Prevention Order by being in the presence of children](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Derry man breached Sexual Offences Prevention Order by being in the presence of children")](https://www.derrynow.com/news/local-news/1679028/derry-man-breached-sexual-offences-prevention-order-by-being-in-the-presence-of-children.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man breached Sexual Offences Prevention Order by being in the presence of children](https://www.derrynow.com/news/local-news/1679028/derry-man-breached-sexual-offences-prevention-order-by-being-in-the-presence-of-children.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry families learn to 'live more sustainably' through 'I Can Grow' Programme](https://www.derrynow.com/resizer/165/93/true/2024_12_12/Acorn_Farm_2024_Cohort_at_TCV_Brooke_Park_DerryLondonderry-1733997048407.jpeg--.jpeg?1733997048464 "Derry families learn to 'live more sustainably' through 'I Can Grow' Programme")](https://www.derrynow.com/news/local-news/1678946/derry-families-learn-to-live-more-sustainably-through-i-can-grow-programme.html)
-
-Acorn Farm 2024 participant showing their vegetables and Acorn Farm 2024 Cohort at TCV, Brooke Park.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry families learn to 'live more sustainably' through 'I Can Grow' Programme](https://www.derrynow.com/news/local-news/1678946/derry-families-learn-to-live-more-sustainably-through-i-can-grow-programme.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![PBP East Derry condemns inaction on borough housing crisis](https://www.derrynow.com/resizer/165/93/true/upload/1478514630247_1712237270.jpg--.jpg "PBP East Derry condemns inaction on borough housing crisis")](https://www.derrynow.com/news/county-derry-post/1678874/pbp-east-derry-condemns-inaction-on-borough-housing-crisis.html)
-
-PBP East Derry condemns inaction on borough housing crisis
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[PBP East Derry condemns inaction on borough housing crisis](https://www.derrynow.com/news/county-derry-post/1678874/pbp-east-derry-condemns-inaction-on-borough-housing-crisis.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Fifty-eight officers injured in vehicle rammings in last year](https://www.derrynow.com/resizer/165/93/true/pa/2024_12_11/1733936714424_0.jpg--.jpg?1733936714605 "Fifty-eight officers injured in vehicle rammings in last year")](https://www.derrynow.com/news/local-news/1678829/fifty-eight-officers-injured-in-vehicle-rammings-in-last-year.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Fifty-eight officers injured in vehicle rammings in last year](https://www.derrynow.com/news/local-news/1678829/fifty-eight-officers-injured-in-vehicle-rammings-in-last-year.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
