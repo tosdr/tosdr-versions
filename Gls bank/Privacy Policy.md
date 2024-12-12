@@ -94,7 +94,7 @@
         Barrierearmut
         
     
-    [![Weiblich gelesene Person auf dem Fahrrad](/media/_processed_/3/6/csm_sparen-78A2713-_a5ff4fe3e8.jpg "Wechsle jetzt zur sozial-ökologischen GLS Bank")](https://www.gls.de/konten-karten/konten/kontowechsel/)
+     [![Weiblich gelesene Person auf dem Fahrrad](/media/_processed_/3/6/csm_sparen-78A2713-_a5ff4fe3e8.jpg "Wechsle jetzt zur sozial-ökologischen GLS Bank")](https://www.gls.de/konten-karten/konten/kontowechsel/)
     
     Kontowechsel
     
@@ -141,7 +141,7 @@
         Barrierearmut
         
     
-    ![](/media/_processed_/6/b/csm_anlegen-oekonomisch-530x380_d8838e4b04.jpg)
+     ![](/media/_processed_/6/b/csm_anlegen-oekonomisch-530x380_d8838e4b04.jpg)
     
     Wie anlegen?
     
@@ -209,7 +209,7 @@
         Barrierearmut
         
     
-    [![3 weiblich gelesene Personen und ein Kleinkind auf einer Baustelle](/media/Bilder/Angebote/Branchen/Bauen/Hof-Praedikow-Wohnprojekt.jpg "Nachhaltig bauen, modernisieren und finanzieren mit der GLS Bank")](https://www.gls.de/finanzieren/branchen/nachhaltige-immobilie/)
+     [![3 weiblich gelesene Personen und ein Kleinkind auf einer Baustelle](/media/Bilder/Angebote/Branchen/Bauen/Hof-Praedikow-Wohnprojekt.jpg "Nachhaltig bauen, modernisieren und finanzieren mit der GLS Bank")](https://www.gls.de/finanzieren/branchen/nachhaltige-immobilie/)
     
     Nachhaltig Bauen
     
@@ -254,7 +254,7 @@
         Barrierearmut
         
     
-    [![Illustration von 2 weiblich gelesenen Personen, die mit gegenseitiger Unterstützung hochsteigen](/media/_processed_/9/f/csm_Keyvisual_Frauen_und_Finance_335x185_76517fcd3b.jpg "Finanzkompetenz für Frauen")](https://www.gls.de/vorsorgen/altersvorsorge/ "Rentenangebote sozial-ökologisch")
+     [![Illustration von 2 weiblich gelesenen Personen, die mit gegenseitiger Unterstützung hochsteigen](/media/_processed_/9/f/csm_Keyvisual_Frauen_und_Finance_335x185_76517fcd3b.jpg "Finanzkompetenz für Frauen")](https://www.gls.de/vorsorgen/altersvorsorge/ "Rentenangebote sozial-ökologisch")
     
     Geld ist auch Frauensache
     
@@ -325,7 +325,7 @@
         Barrierearmut
         
     
-    [![Die Illustration zeigt Menschen in Interaktion miteinander. Im Vordergrund stehen Windräder und Häuser mit PV-Anlagen.](/media/_processed_/e/8/csm_GLS-Nachhaltigkeitsbericht-2023-V2-335x185_6cedb444dd.jpg)](https://nachhaltigkeitsbericht.gls.de/ "zum GLS Nachhaltigkeitsbericht")
+     [![Die Illustration zeigt Menschen in Interaktion miteinander. Im Vordergrund stehen Windräder und Häuser mit PV-Anlagen.](/media/_processed_/e/8/csm_GLS-Nachhaltigkeitsbericht-2023-V2-335x185_6cedb444dd.jpg)](https://nachhaltigkeitsbericht.gls.de/ "zum GLS Nachhaltigkeitsbericht")
     
     GLS Nachhaltigkeitsbericht
     
