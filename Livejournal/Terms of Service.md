@@ -252,7 +252,7 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15272](https://www.liv
 
 English Deutsch Dansk español Français Italiano Русский Українська Беларуская 日本語 Português Esperanto עברית Nederlands Magyar Gaeilge íslenska suomi Ελληνικά Norsk bokmål Svenska polski 简体中文 Latviešu Türkçe Bahasa Melayu हिन्दी Brazilian Portuguese Chinese Traditional Lietuvių Norsk nynorsk
 
-[v.806](https://www.livejournal.com/betatest.bml)
+[v.806.1](https://www.livejournal.com/betatest.bml)
 
 * [Privacy Policy](https://www.livejournal.com/legal/privacy-en.bml)
 * [User Agreement](https://www.livejournal.com/legal/tos-en.bml)
@@ -265,7 +265,7 @@ English Deutsch Dansk español Français Italiano Русский Українс�
 
 ![](//www.tns-counter.ru/V13a****rambler_ad/ru/UTF-8/tmsec=rambler_cid1100108-posid2155106/)
 
-![](https://xc3.services.livejournal.com/ljcounter/?d=srv:kr-ws14,r:0,j:0,uri:%22%2Flegal%2Ftos-en.bml%22,vig:0,m:0,extra:)  
+![](https://xc3.services.livejournal.com/ljcounter/?d=srv:kr-ws15,r:0,j:0,uri:%22%2Flegal%2Ftos-en.bml%22,vig:0,m:0,extra:)  
 
 ![](//mc.yandex.ru/watch/27737346)
 
