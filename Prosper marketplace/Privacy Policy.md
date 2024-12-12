@@ -2,25 +2,18 @@
 
 [![Prosper Logo link to Prosper homepage.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='186'%20height='30'%3E%3C/svg%3E)](https://www.prosper.com/)
 
-* Logged (Mobile/Tablet)
+* Loans
     
-    [Your Investments](https://www.prosper.com/investor/myaccount)
+    Loans
+    -----
     
-    [My Account](https://www.prosper.com/myaccount)
+    Take control of your finances with a low-interest fixed-rate personal loan.
     
-    [Messages](https://www.prosper.com/account/events/messages%20%20)
+    [Get your rate](https://www.prosper.com/web-offers/get-rate/loan-amount-purpose) [Explore](https://www.prosper.com/personal-loans)
     
-    [Settings](https://www.prosper.com/settings)
-    
-    [Documents & History](https://www.prosper.com/account/documents-and-history)
-    
-    [Log Out](https://www.prosper.com/signout)
-    
-* PRODUCTS
+    ### Explore
     
     [Personal Loans](https://www.prosper.com/personal-loans)
-    
-    [Apply Now](https://www.prosper.com/web-offers/get-rate/loan-amount-purpose)
     
     [Debt Consolidation Loans](https://www.prosper.com/personal-loans/debt-consolidation)
     
@@ -30,107 +23,158 @@
     
     [Dental Loans](https://www.prosper.com/personal-loans/healthcare-financing/dental)
     
+    [Vehicle Loans](https://www.prosper.com/personal-loans/auto-loans)
+    
     [Special Occasion Loans](https://www.prosper.com/personal-loans/special-occasion)
-    
-    [Credit Card](https://www.prosper.com/credit-card)
-    
-    [Apply Now](https://www.prosper.com/credit-card/apply)
     
     [Business Loans](https://www.prosper.com/business-loans)
     
-    [Get Started](https://businessloans.com/c/6e521ced-41fe-4585-8d92-d5f913ca36a7?cobrand=prosper)
-    
     [Student Loans](https://www.prosper.com/student-loans)
     
-    [Get Started with Sparrow](https://www.sparrowfi.com/?utm_source=prosper&utm_medium=referral&utm_campaign=nav)
+    ### Calculators
     
-    [Home Equity](https://www.prosper.com/home-equity)
+    [Debt Consolidation Savings Calculator](https://www.prosper.com/debt-consolidation-loans/loan-calculator)
     
-    [Apply Now](https://www.prosper.com/home-equity/check-rate/tell-us-about-your-home)
+    [Loan Estimate Calculator](https://www.prosper.com/personal-loans/prosper-personal-loan-calculator)
     
-    [Home Equity Line of Credit](https://www.prosper.com/home-equity/line-of-credit)
+    ### Articles
     
-    [Home Equity Loans](https://www.prosper.com/home-equity/loan)
+    [The Pros and Cons of a Joint Personal Loan](https://www.prosper.com/blog/pros-cons-joint-personal-loans)
     
-    [Invest](https://www.prosper.com/invest)
+    [How Do Loan Origination Fees Work?](https://www.prosper.com/blog/how-do-loan-origination-fees-work)
     
-    [Get Started](https://www.prosper.com/investor/inv_funnel#/)
+    [What Higher Interest Rates Mean for You](https://www.prosper.com/blog/what-higher-interest-rates-mean-for-you)
     
-* RESOURCES
+* Prosper® Card
     
-    [Calculators & Guides](https://www.prosper.com/resources)
+    The Prosper® Card
+    -----------------
     
-    [Personal Loan Calculator](https://www.prosper.com/personal-loans/prosper-personal-loan-calculator)
+    Built to help you take control of your credit
     
-    [Debt Consolidation Calculator](https://www.prosper.com/debt-consolidation-loans/loan-calculator)
+    [Apply now](https://www.prosper.com/credit-card/apply) [Explore](https://www.prosper.com/credit-card)
+    
+    ### Explore
+    
+    [The Prosper® Card](https://www.prosper.com/credit-card)
+    
+    ### Articles
+    
+    [What to Do if You Can't Pay Your Credit Card](https://www.prosper.com/blog/what-to-do-if-you-cant-pay-your-credit-card)
+    
+    [Freezing Your Credit: How It Works](https://www.prosper.com/blog/freezing-your-credit-how-it-works)
+    
+* Home Equity
+    
+    Home Equity
+    -----------
+    
+    Turn your home equity into cash fast. Get your rate in minutes.
+    
+    [Get your rate](https://www.prosper.com/home-equity/check-rate/tell-us-about-your-home) [Explore](https://www.prosper.com/home-equity)
+    
+    ### Explore
+    
+    [Home Equity Lines of Credit (HELOC)](https://www.prosper.com/home-equity/line-of-credit)
+    
+    [Home Equity Loans (HELoan)](https://www.prosper.com/home-equity/loan)
+    
+    [Compare home equity options](https://www.prosper.com/home-equity)
+    
+    [Get your rate](https://www.prosper.com/home-equity/check-rate/tell-us-about-your-home)
+    
+    ### Calculators
     
     [Home Equity Calculator](https://www.prosper.com/home-equity/calculator)
     
-    [Home Equity Rate & Payment Calculator](https://www.prosper.com/home-equity/line-of-credit/calculator)
+    [Rate & Monthly Payment Calculator](https://www.prosper.com/home-equity/line-of-credit/calculator)
+    
+    ### Articles
+    
+    [Home Equity Loans: Pros and Cons](https://www.prosper.com/blog/home-equity-loans-pros-and-cons)
+    
+    [Home Ownership Costs That Are Often Overlooked](https://www.prosper.com/blog/home-ownership-costs-that-are-often-overlooked)
+    
+* Investing
+    
+    Investing
+    ---------
+    
+    Diversify your portfolio—invest in personal loans.
+    
+    [Get started](https://www.prosper.com/investor/inv_funnel#) [Explore](https://www.prosper.com/invest)
+    
+    ### Explore
+    
+    [Investing with Prosper](https://www.prosper.com/invest)
+    
+    [Performance Updates](https://www.prosper.com/blog/category/investor-updates)
+    
+* More
+    
+    Explore Prosper
+    ---------------
+    
+    Learn about products and services promoted or offered by our partners, more helpful resources, and all about Prosper.
+    
+    [Resources Hub](https://www.prosper.com/resources) [Blog](https://www.prosper.com/blog)
+    
+    ### Insurance
+    
+    [Home insurance](https://www.prosper.com/insurance)
+    
+    [Car insurance](https://www.prosper.com/insurance)
+    
+    [Life insurance](https://www.prosper.com/insurance)
+    
+    ### Tools & Resources
+    
+    [Debt Consolidation Savings Calculator](https://www.prosper.com/debt-consolidation-loans/loan-calculator)
+    
+    [Personal Loan Estimate Calculator](https://www.prosper.com/personal-loans/prosper-personal-loan-calculator)
+    
+    [Home Equity Rate/Payment Calculator](https://www.prosper.com/home-equity/line-of-credit/calculator)
+    
+    [Home Equity Calculator](https://www.prosper.com/home-equity/calculator)
     
     [Debt Consolidation Guide](https://www.prosper.com/resources/debt-consolidation-guide)
     
+    [Money Management Guide](https://www.prosper.com/resources/money-management-guide)
+    
     [Blog](https://www.prosper.com/blog)
-    
-    [Credit Management](https://www.prosper.com/blog/category/credit-management)
-    
-    [Financial Wellness](https://www.prosper.com/blog/category/financial-literacy)
-    
-    [Home Ownership](https://www.prosper.com/blog/category/home-ownership)
-    
-    [Investor Center](https://www.prosper.com/blog/category/investor-center)
-    
-    Need Help?
-    ----------
-    
-    [Help Center](https://help.prosper.com/hc/en-us)
-    
-    [Contact Us](https://www.prosper.com/contact-us)
-    
-* ABOUT PROSPER
     
     ### Company
     
-    [About Us](https://www.prosper.com/about)
+    [About us](https://www.prosper.com/about)
     
-    [Press](https://www.prosper.com/media)
+    [Media room](https://www.prosper.com/media)
     
-    [Work With Us](https://www.prosper.com/jobs)
+    [Careers](https://www.prosper.com/jobs)
     
-    Follow Us
-    ---------
-    
-    [Facebook](https://www.facebook.com/prosperloans)
-    
-    [Instagram](https://www.instagram.com/letsgoprosper/)
-    
-    [Twitter](https://twitter.com/prosperloans)
-    
-    [Linkedin](https://www.linkedin.com/authwall?trk=bf&trkInfo=AQGW6drmEm8qcgAAAYTTI1U4zN97lCSxFXTf3N83zgYEIhu79grPuQR4MVA99LxwLGHjZm_rrIcw5MUWst2O68hoMQ3glY0RH_8Q92dVb87R-cccYj-D6553HRLFNKwbwpAZcEs=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fprosper-marketplace)
-    
-* [Log Out](https://www.prosper.com/auth/signout)
-* User (FirstName)
-* [Log In](https://www.prosper.com/auth/email-code)
-* [Log In](https://www.prosper.com/auth/email-code)
-    
-    * Logged In (Desktop)
-    
-    [Your Investments](https://www.prosper.com/investor/myaccount)
-    
-    [My Account](https://www.prosper.com/myaccount)
-    
-    [Messages](https://www.prosper.com/account/events/messages)
-    
-    [Settings](https://www.prosper.com/settings)
-    
-    [Documents & History](https://www.prosper.com/account/documents-and-history)
-    
-    [Log Out](https://www.prosper.com/auth/signout)
+    [Support center](https://help.prosper.com/hc/en-us)
     
 
 [](https://www.prosper.com/)
 
 X
+
+* [Log in](https://www.prosper.com/auth/email-code)
+    
+    * [Log out](https://www.prosper.com/auth/signout)
+    * [Home](https://www.prosper.com/account/dashboard)
+    * [Profile & Settings](https://www.prosper.com/settings)
+    * [Messages](https://www.prosper.com/account/events/messages)
+    * [Documents & History](https://www.prosper.com/account/documents-and-history)
+    
+* Get started
+    
+    * [Personal Loans](https://www.prosper.com/web-offers/get-rate/loan-amount-purpose)
+    * [The Prosper® Card](https://www.prosper.com/credit-card/apply)
+    * [Home Equity Lines & Loans](https://www.prosper.com/home-equity/check-rate/tell-us-about-your-home)
+    * [Investing & IRAs](https://www.prosper.com/investor/inv_funnel#)
+    
+
+[I have an offer code](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjExMjQ4IiwidG9nZ2xlIjpmYWxzZX0%3D)
 
 Prosper Privacy Policy & Federal Privacy Notice
 ===============================================
@@ -820,3 +864,13 @@ Prosper Funding LLC
 [Contact Us](https://www.prosper.com/contact-us) | [Terms of Use and Electronic Consent](https://www.prosper.com/legal/terms-of-use)
 
 © 2005-2023 Prosper Funding LLC. All rights reserved.
+
+### Received an offer code from us?
+
+You’re in the right place! Get started by entering your offer code below.
+
+Enter your 8-digit offer code  ![valid checkmark](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='18'%20height='13'%20fill='none'%3E%3Cpath%20stroke='%2358AB6A'%20stroke-linecap='round'%20stroke-linejoin='round'%20stroke-width='1.5'%20d='M17%201%206%2012%201%207'/%3E%3C/svg%3E)
+
+Continue
+
+[Continue without an offer code](#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9)
