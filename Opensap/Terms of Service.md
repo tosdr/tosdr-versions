@@ -192,14 +192,14 @@ Revised and posted as of November 23, 2023
 
 ###### 
 
-Quick Links
+Quick links
 
-* [SAP Trust Center](https://www.sap.com/about/trust-center.html " ")
-* [Find a Solution](https://www.sap.com/partners/find-partner-solutions.html " ")
+* [SAP Trust center](https://www.sap.com/about/trust-center.html " ")
+* [Find a solution](https://www.sap.com/partners/find-partner-solutions.html " ")
 * [Industries](https://www.sap.com/industries.html " ")
-* [Find a Partner](https://www.sap.com/partners/find.html " ")
-* [Trials and Demos](https://www.sap.com/products/try-sap.html " ")
-* [Find Services](https://www.sap.com/services-support.html " ")
+* [Find a partner](https://www.sap.com/partners/find.html " ")
+* [Trials and demos](https://www.sap.com/products/try-sap.html " ")
+* [Find services](https://www.sap.com/services-support.html " ")
 
 ###### 
 
@@ -210,31 +210,32 @@ Trending
 * [What is RISE with SAP?](https://www.sap.com/products/erp/rise.html " ")
 * [SAP Business AI](https://www.sap.com/products/artificial-intelligence.html " ")
 * [Sustainability](https://www.sap.com/products/sustainability.html " ")
-* [Partner Ecosystem](https://partneredge.sap.com/en.html " ")
+* [Partner ecosystem](https://partneredge.sap.com/en.html " ")
 
 ###### 
 
 About SAP
 
-* [Company Information](https://www.sap.com/about/company.html)
-* [Worldwide Directory](https://www.sap.com/about/company/office-locations.html)
-* [Investor Relations](https://www.sap.com/investors/en.html)
+* [Company information](https://www.sap.com/about/company.html)
+* [Worldwide directory](https://www.sap.com/about/company/office-locations.html)
+* [Investor relations](https://www.sap.com/investors/en.html)
 * [Careers](https://jobs.sap.com/?utm_source=CareerSite&utm_campaign=CorpSite_FT "Visit our Careers site")
-* [News and Press](https://news.sap.com/)
+* [News and press](https://news.sap.com/)
 * [Events](https://www.sap.com/events.html)
-* [Customer Stories](https://www.sap.com/about/customer-stories.html)
+* [Customer stories](https://www.sap.com/about/customer-stories.html)
 * [Newsletter](https://www.sap.com/dashboard/newsletters.html " ")
 
 ###### 
 
-Site Information
+Site information
 
 * [Privacy](https://www.sap.com/about/legal/privacy.html)
 * [Terms of Use](https://www.sap.com/about/legal/terms-of-use.html)
-* [Legal Disclosure](https://www.sap.com/about/legal/impressum.html)
+* [Legal disclosure](https://www.sap.com/about/legal/impressum.html)
 * [Copyright](https://www.sap.com/about/legal/copyright.html)
 * [Trademark](https://www.sap.com/about/legal/trademark.html)
-* [Do Not Share/Sell My Personal Information](https://www.sap.com/registration/dnss.html?refererContentPath=%2Fcontent%2Fsapdx%2Fcountries%2Fen_us&&navTitle=Do+Not+Share%2FSell+My+Personal+Information " ")
+* [Cookie statement](https://www.sap.com/about/legal/privacy/cookies.html " ")
+* [Do not share/sell my personal information](https://www.sap.com/registration/dnss.html?refererContentPath=%2Fcontent%2Fsapdx%2Fcountries%2Fen_us&&navTitle=Do+Not+Share%2FSell+My+Personal+Information " ")
 
 * [](https://www.facebook.com/SAP "Facebook")
 * [](https://www.youtube.com/@SAP "YouTube")
