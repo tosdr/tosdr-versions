@@ -205,26 +205,30 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [Old Meets New](https://www.somethingawful.com/comedy-goldmine/old-meets-new/1/)
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [Shopping Cart Safety Warnings](https://www.somethingawful.com/photoshop-phriday/shopping-cart-warnings/1/)
+* [Kim Jong-un, Cable TV Star!](https://www.somethingawful.com/photoshop-phriday/kim-jongun-tv/1/)
+* [SA Forum Goons vs. The Dating Game](https://www.somethingawful.com/feature-articles/sa-forum-goons/1/)
+* [A Reading Time Christmas Primer](https://www.somethingawful.com/news/reading-time-christmas/1/)
+* [Stories from Rent-to-Own](https://www.somethingawful.com/comedy-goldmine/stories-from-renttoown/1/)
+* [The Grown-up World of Richard Scarry](https://www.somethingawful.com/photoshop-phriday/grownup-world-richard/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [What do you consider the MVP of tools?](http://forums.somethingawful.com/showthread.php?threadid=4077325 "What do you consider the MVP of tools?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/school.png) [Is homeschooling artisanal child abuse?](http://forums.somethingawful.com/showthread.php?threadid=4077305 "Is homeschooling artisanal child abuse?")
-* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Yellow banner](http://forums.somethingawful.com/showthread.php?threadid=4077290 "Yellow banner")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [A war with non human intelligence is brewing. Choose your faction.](http://forums.somethingawful.com/showthread.php?threadid=4077351 "A war with non human intelligence is brewing. Choose your faction.")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [Why are the forums going down tonight?](http://forums.somethingawful.com/showthread.php?threadid=4077300 "Why are the forums going down tonight?")
+* ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [What do you consider the MVP of tools?](http://forums.somethingawful.com/showthread.php?threadid=4077325 "What do you consider the MVP of tools?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Did you name your bongs or fancy glass pipes in college](http://forums.somethingawful.com/showthread.php?threadid=4077360 "Did you name your bongs or fancy glass pipes in college")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [Why are pharmacies so awful?](http://forums.somethingawful.com/showthread.php?threadid=4077387 "Why are pharmacies so awful?")
+* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Yellow banner](http://forums.somethingawful.com/showthread.php?threadid=4077290 "Yellow banner")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [looking for cobblers plz](http://forums.somethingawful.com/showthread.php?threadid=4077326 "looking for cobblers plz")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/school.png) [Is homeschooling artisanal child abuse?](http://forums.somethingawful.com/showthread.php?threadid=4077305 "Is homeschooling artisanal child abuse?")
 
 ### Random Articles
 
-* [Extreme Enunciation Expo](https://www.somethingawful.com/webcam-ward/konami-e3-rant/)
-* [Review: Fear the Walking Dead](https://www.somethingawful.com/news/fear-walking-dead/)
-* [Penis Gym (Thanks, change my name!)](https://www.somethingawful.com/awful-links/penis-enlargement-gym/)
-* [Draw-A-Dog Tuesday!](https://www.somethingawful.com/comedy-goldmine/draw-dog-tuesday/1/)
-* [Hoarding Judge Sheet](https://www.somethingawful.com/news/hoarders/1/)
+* [Mothers, Let Your Kids Grow Up to Be Lawyers!](https://www.somethingawful.com/news/mothers-let-your/)
+* [The Lollapaloozicon Random 1990s Cthulhu Adventure Generator](https://www.somethingawful.com/dungeons-and-dragons/cthulhu-keeper-tool/)
+* [Your Whole Town Will Suffer for Its Mistreatment of Wizards](https://www.somethingawful.com/news/wizards-revenge-skeletons/)
+* [July 16, 2007 - Burgin' and Aspergin'](https://www.somethingawful.com/forum-fridays/ff07-16-07/1/)
+* [I'm Gonna Serve You 4](https://www.somethingawful.com/hentai-game-reviews/im-gonna-serve/)
 
 [Random!](https://www.somethingawful.com/random/)
 
