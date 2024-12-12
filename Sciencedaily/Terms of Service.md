@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Early-Onset Colorectal Cancer Surges Globally](https://www.sciencedaily.com/releases/2024/12/241211190108.htm)
+* [Jaw-Dropping Evolution of Lizards and Snakes](https://www.sciencedaily.com/releases/2024/12/241211125055.htm)
+* [Recycling Human, Animal Excreta as Fertilizer](https://www.sciencedaily.com/releases/2024/12/241211124514.htm)
+* [Devices With Operation Speeds 1000 Times Faster?](https://www.sciencedaily.com/releases/2024/12/241211124354.htm)
+* [Making Skin Bacterium Into a Topical Vaccine](https://www.sciencedaily.com/releases/2024/12/241211124345.htm)
+* [Soda Taxes Don't Just Affect Sales](https://www.sciencedaily.com/releases/2024/12/241210183516.htm)
 * [A New Galaxy, Much Like Our Own](https://www.sciencedaily.com/releases/2024/12/241211143905.htm)
 * [AI Thought Knee X-Rays Show If You Drink Beer](https://www.sciencedaily.com/releases/2024/12/241211143855.htm)
 * [You Are What You Eat, and So Are Your Grandkids?](https://www.sciencedaily.com/releases/2024/12/241211125103.htm)
 * [Biological Diversity Not Just Due to Genes](https://www.sciencedaily.com/releases/2024/12/241211124342.htm)
-* [Source of the Vast Energy in Cosmic Rays](https://www.sciencedaily.com/releases/2024/12/241210142040.htm)
-* [Gene Therapy Reverses Heart Failure in Pigs](https://www.sciencedaily.com/releases/2024/12/241210115612.htm)
-* [Tiny Poops in Ocean to Help Solve Carbon Problem](https://www.sciencedaily.com/releases/2024/12/241210115607.htm)
-* [24 Hour Cognitive Boost from Exercise](https://www.sciencedaily.com/releases/2024/12/241209203726.htm)
-* [Device Helps the Visually Impaired Navigate](https://www.sciencedaily.com/releases/2024/12/241210115433.htm)
-* [AI Predicts Earth's Peak Warming](https://www.sciencedaily.com/releases/2024/12/241210115110.htm)
 
 Trending Topics
 ---------------
@@ -249,17 +249,17 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
-
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
 [Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
+[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
+
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
-
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+
+[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
 [Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
 
