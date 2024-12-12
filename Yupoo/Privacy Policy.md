@@ -1,6 +1,6 @@
-![](https://s.zhidian-inc.cn/website/4.26.52/icons/logo1@558.png)
+![](https://s.zhidian-inc.cn/website/4.26.53/icons/logo1@558.png)
 
-[![Yupoo](https://s.zhidian-inc.cn/website/4.26.52/imgs/logo_3.png)](https://x.yupoo.com/)
+[![Yupoo](https://s.zhidian-inc.cn/website/4.26.53/imgs/logo_3.png)](https://x.yupoo.com/)
 
 * [Home](https://x.yupoo.com/)
 * [Pricing](https://x.yupoo.com/price)
@@ -16,7 +16,7 @@
 Privacy
 =======
 
-![](https://s.zhidian-inc.cn/website/4.26.52/imgs/website_header_mask.png)
+![](https://s.zhidian-inc.cn/website/4.26.53/imgs/website_header_mask.png)
 
 Yupoo privacy statement.
 
@@ -84,4 +84,4 @@ english
 
 Links [UPYUN](https://www.upyun.com/) [FuBu Business Forum](http://bbs.fobshanghai.com/) [ShangZhiBo](https://shangzhibo.tv/) [Qiaohaohuo](https://x.yupoo.com/tongji?hmpl=ql&hmci=v1.1&hmcu=cl&redirectUrl=https://www.qiaohaohuo.com) [demo+](https://www.mbjia.com/)
 
-[增值电信业务经营许可证：浙B2-20110282](https://beian.miit.gov.cn/) [产权保护](https://x.yupoo.com/privacy?type=ipstatement)不良信息举报QQ：1220575721（交易咨询恕不接待/ For report abuse ONLY) Copyright© 2005-2024 all rights reserved [![](https://s.zhidian-inc.cn/website/4.26.52/imgs/policeIcon.png) 浙公网安备 33010502006611 号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010502006611) [浙B2-20110282-10](https://beian.miit.gov.cn/)
+[增值电信业务经营许可证：浙B2-20110282](https://beian.miit.gov.cn/) [产权保护](https://x.yupoo.com/privacy?type=ipstatement)不良信息举报QQ：1220575721（交易咨询恕不接待/ For report abuse ONLY) Copyright© 2005-2024 all rights reserved [![](https://s.zhidian-inc.cn/website/4.26.53/imgs/policeIcon.png) 浙公网安备 33010502006611 号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010502006611) [浙B2-20110282-10](https://beian.miit.gov.cn/)
