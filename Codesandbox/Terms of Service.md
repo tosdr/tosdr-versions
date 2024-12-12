@@ -1,10 +1,13 @@
-[CodeSandbox](https://codesandbox.io/)
+[](https://codesandbox.io/)
 
 * [Sign In](https://codesandbox.io/signin?utm_source=landingpage)
 * [Try for free](https://codesandbox.io/new?utm_source=landingpage)
 
 * [Features](https://codesandbox.io/features)
 * [Use Cases](https://codesandbox.io/use-cases)
+    * [deployed\_codeCodeSandbox SDK
+        
+        Programmatically spin up dev environments.](https://codesandbox.io/sdk)
     * [dnsCloud Development Environments
         
         Give every developer a 2x faster machine.](https://codesandbox.io/cloud-development-environments)
@@ -17,6 +20,7 @@
     * [schoolLearn & Experiment
         
         Try frameworks and experiment new tools.](https://codesandbox.io/learn-and-experiment)
+* [SDK](https://codesandbox.io/sdk)
 * [Resources](https://codesandbox.io/resources)
     * [codeTemplates
         
@@ -36,9 +40,9 @@
 
 New
 
-### Introducing a new and improved editor powered by VS Code Web
+### CodeSandbox is now part of [Together AI!](https://together.ai/) We have joined forces to launch [CodeSandbox SDK](https://codesandbox.io/sdk) and bring code interpretation to generative AI.
 
-[Learn more](https://codesandbox.io/blog/a-new-and-improved-editor-powered-by-vs-code-web)
+[Learn more](https://codesandbox.io/blog/joining-together-ai-introducing-codesandbox-sdk)
 
 Legal
 
@@ -566,6 +570,7 @@ Appendix 1 to Annex 1 | Categories of Personal Data and Data Subjects
 
 Use Cases
 
+* [CodeSandbox SDK](https://codesandbox.io/sdk)
 * [Cloud Dev Environments](https://codesandbox.io/cloud-development-environments)
 * [Code Reviews](https://codesandbox.io/improve-code-reviews)
 * [Code in Sandboxes](https://codesandbox.io/code-in-sandboxes)
@@ -598,7 +603,7 @@ Company
 
 * * *
 
-Copyright © 2024 CodeSandbox B.V. All rights reserved.  
+Copyright © 2024 CodeSandbox BV, a Together AI company. All rights reserved.  
 
 * [Terms of Use](https://codesandbox.io/legal/terms)
 * [Privacy & Cookie Policy](https://codesandbox.io/legal/privacy)
