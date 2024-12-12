@@ -24,13 +24,13 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://drawabox.com/rec/proko/figuredrawing)
+[](https://drawabox.com/rec/bucci/digitalpainting)
 
-[](https://amzn.to/4cdoFKu)
+[](https://amzn.to/3KZMtFM)
 
-[](https://drawabox.com/rec/proko/drawingbasics)
+[](https://drawabox.com/rec/uncomfortable/whattodraw)
 
-[](https://amzn.to/4cDKBhz)
+[](https://amzn.to/2Bz3JgN)
 
 ![Drawabox](https://d15v304a6xpq4b.cloudfront.net/assets/images/drawabox-logo.png "Drawabox")
 
