@@ -147,9 +147,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Manabu Sasaki, who runs a painting company, is one of four suspects arrested on suspicion of murdering 56-year-old Osamu Takano.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439104.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Manabu Sasaki, who runs a painting company, is one of four suspects arrested on suspicion of murdering 56-year-old Osamu Takano.")](https://www.japantimes.co.jp/news/2024/12/10/japan/crime-legal/murder-railroad-crossing/ "Victim of alleged staged suicide was subjected to years of abuse")
 
-[Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP](https://www.japantimes.co.jp/business/2024/12/10/economy/keidanren-proposal-1-quadrillion-gdp/ "Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP")
+[South Korean police blocked from raid on president's office](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
 
-  [![Keidanren chief Masakazu Tokura speaks to reporters in the city of Nanao, Ishikawa Prefecture on Nov. 20.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439191.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Keidanren chief Masakazu Tokura speaks to reporters in the city of Nanao, Ishikawa Prefecture on Nov. 20.")](https://www.japantimes.co.jp/business/2024/12/10/economy/keidanren-proposal-1-quadrillion-gdp/ "Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP")
+  [![Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439573.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.")](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
 
 Editors' Picks
 --------------
@@ -184,13 +184,13 @@ By [Pierre-Henry Deshayes](https://www.japantimes.co.jp/author/4565/pierre-henry
 
   [![Manabu Sasaki, who runs a painting company, is one of four suspects arrested on suspicion of murdering 56-year-old Osamu Takano.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439104.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Manabu Sasaki, who runs a painting company, is one of four suspects arrested on suspicion of murdering 56-year-old Osamu Takano.")](https://www.japantimes.co.jp/news/2024/12/10/japan/crime-legal/murder-railroad-crossing/ "Victim of alleged staged suicide was subjected to years of abuse")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP](https://www.japantimes.co.jp/business/2024/12/10/economy/keidanren-proposal-1-quadrillion-gdp/ "Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP")
+[South Korean police blocked from raid on president's office](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
 
-By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
+By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
 
-  [![Keidanren chief Masakazu Tokura speaks to reporters in the city of Nanao, Ishikawa Prefecture on Nov. 20.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439191.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Keidanren chief Masakazu Tokura speaks to reporters in the city of Nanao, Ishikawa Prefecture on Nov. 20.")](https://www.japantimes.co.jp/business/2024/12/10/economy/keidanren-proposal-1-quadrillion-gdp/ "Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP")
+  [![Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439573.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.")](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
 
 Podcast
 -------
@@ -253,17 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[BOJ said to see little cost to waiting for next rate hike](https://www.japantimes.co.jp/business/2024/12/12/boj-rate-hike-waiting/ "BOJ said to see little cost to waiting for next rate hike")
+[Japan aims to raise awareness of administrative consultation services](https://www.japantimes.co.jp/news/2024/12/12/japan/administrative-consultation-awareness/ "Japan aims to raise awareness of administrative consultation services")
 
-28 mins ago
+12 mins ago
 
-[Bain raises offer for Fuji Soft in $4.3 billion contest with KKR](https://www.japantimes.co.jp/business/2024/12/11/bain-fuji-43-billion-kkr/ "Bain raises offer for Fuji Soft in $4.3 billion contest with KKR")
+[Rise in pro-government 'fact checking' sparks concern in Europe](https://www.japantimes.co.jp/news/2024/12/12/world/politics/pro-government-fact-checking-concerns-europe/ "Rise in pro-government 'fact checking' sparks concern in Europe")
 
-[Organizers say 2026 Asian Games on track](https://www.japantimes.co.jp/sports/2024/12/11/asian-games-on-track/ "Organizers say 2026 Asian Games on track")
+36 mins ago
 
-[Japan retains strong results in OECD’s adult skills survey](https://www.japantimes.co.jp/news/2024/12/11/japan/society/oecd-adult-competencies/ "Japan retains strong results in OECD’s adult skills survey")
+[Argentina inflation hits four-year low as locals hope worst is over](https://www.japantimes.co.jp/business/2024/12/12/economy/argentina-inflation-four-year-low/ "Argentina inflation hits four-year low as locals hope worst is over")
 
-[Nippon Life to buy Resolution in $8.2 billion deal as it pursues U.S. growth](https://www.japantimes.co.jp/business/2024/12/11/companies/nippon-life-buys-resolution/ "Nippon Life to buy Resolution in $8.2 billion deal as it pursues U.S. growth")
+56 mins ago
+
+[Mazda’s Mexico investment to hinge on Trump’s tariff decisions](https://www.japantimes.co.jp/business/2024/12/12/companies/mazda-mexico-trump/ "Mazda’s Mexico investment to hinge on Trump’s tariff decisions")
+
+1 hour ago
+
+[Experts warn of more strong Noto Peninsula earthquakes](https://www.japantimes.co.jp/news/2024/12/12/japan/noto-earthquakes-warning/ "Experts warn of more strong Noto Peninsula earthquakes")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
