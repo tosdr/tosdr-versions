@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Dallas City Council adds vaping to smoke-free ordinance](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/aa90a557-vaping.jpg?ve=1&tl=1)
+ [![Time to name Trump 'Person of the Year' for second time](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2180589131.jpg?ve=1&tl=1)
 
- ![Dallas City Council adds vaping to smoke-free ordinance](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/592/333/aa90a557-vaping.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-city-council-adds-vaping-smoke-free-ordinance)
+ ![Time to name Trump 'Person of the Year' for second time](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2180589131.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-time-person-year-2024)
 
-### [Dallas City Council adds vaping to smoke-free ordinance](https://www.fox4news.com/news/dallas-city-council-adds-vaping-smoke-free-ordinance)
+### [Time to name Trump 'Person of the Year' for second time](https://www.fox4news.com/news/trump-time-person-year-2024)
 
- [![Duncanville H.S. quarterback is the 2024-25 Gatorade Texas Football Player of the Year](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/keelon-russell-duncanville-high-school-scaled.jpg?ve=1&tl=1)
+ [![Dallas City Council approves funds for hosting 2026 FIFA World Cup International Broadcast Center](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/05/32/18/052223-MG-LB-VOSOT_KBH-CONVENTION-CENTER-_REDESIGN_00.00.06.44.jpg?ve=1&tl=1)
 
- ![Duncanville H.S. quarterback is the 2024-25 Gatorade Texas Football Player of the Year](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/keelon-russell-duncanville-high-school-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/duncanville-h-s-quarterback-is-2024-25-gatorade-texas-football-player-year)
+ ![Dallas City Council approves funds for hosting 2026 FIFA World Cup International Broadcast Center](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/05/32/18/592/333/052223-MG-LB-VOSOT_KBH-CONVENTION-CENTER-_REDESIGN_00.00.06.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2026-fifa-world-cup-international-broadcast-center-will-be-dallas)
 
-### [Duncanville H.S. quarterback is the 2024-25 Gatorade Texas Football Player of the Year](https://www.fox4news.com/sports/duncanville-h-s-quarterback-is-2024-25-gatorade-texas-football-player-year)
+### [Dallas City Council approves funds for hosting 2026 FIFA World Cup International Broadcast Center](https://www.fox4news.com/news/2026-fifa-world-cup-international-broadcast-center-will-be-dallas)
 
- [![Community honors fallen Terrell police officer Jacob Candanoza](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/terrell-officer-killed-payton-8am-live-rco_2024__00.03.21.32.jpg?ve=1&tl=1)
+ [![Annual Texas Rangers Toy Drive brings in hundreds of donations from fans](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-dionne-rangers-toy-drive-530p_00.00.14.34.jpg?ve=1&tl=1)
 
- ![Community honors fallen Terrell police officer Jacob Candanoza](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/terrell-officer-killed-payton-8am-live-rco_2024__00.03.21.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/community-honors-fallen-terrell-police-officer-jacob-candanoza)
+ ![Annual Texas Rangers Toy Drive brings in hundreds of donations from fans](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-dionne-rangers-toy-drive-530p_00.00.14.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-rangers-toy-drive-2024)
 
-### [Community honors fallen Terrell police officer Jacob Candanoza](https://www.fox4news.com/news/community-honors-fallen-terrell-police-officer-jacob-candanoza)
+### [Annual Texas Rangers Toy Drive brings in hundreds of donations from fans](https://www.fox4news.com/news/texas-rangers-toy-drive-2024)
 
- [![‘Iranian mothership’ behind mystery drone sightings, New Jersey congressman suggests](https://images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/12/32/18/new-jersey-drone-credit-burned.jpg?ve=1&tl=1)
+ [![Bag of bullets found in Central Park not tied to CEO killing: sources](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/bullets-luigi.jpg?ve=1&tl=1)
 
- ![‘Iranian mothership’ behind mystery drone sightings, New Jersey congressman suggests](https://images.foxtv.com/images.foxtv.com/static.fox29.com/www.fox29.com/content/uploads/2024/12/32/18/592/333/new-jersey-drone-credit-burned.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/iranian-mothership-mystery-drone-sightings-new-jersey-van-drew)
+ ![Bag of bullets found in Central Park not tied to CEO killing: sources](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/bullets-luigi.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dogwalker-finds-bag-bullets-tied-ceo-killing)
 
-### [‘Iranian mothership’ behind mystery drone sightings, New Jersey congressman suggests](https://www.fox4news.com/news/iranian-mothership-mystery-drone-sightings-new-jersey-van-drew)
+### [Bag of bullets found in Central Park not tied to CEO killing: sources](https://www.fox4news.com/news/dogwalker-finds-bag-bullets-tied-ceo-killing)
 
- [![UnitedHealthcare CEO killing: Gun found on suspect matches shell casings at scene](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/gettyimages-2188645306.jpg?ve=1&tl=1)
+ [![FBI Director Christopher Wray plans to resign next month](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-1527767204.jpg?ve=1&tl=1)
 
- ![UnitedHealthcare CEO killing: Gun found on suspect matches shell casings at scene](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188645306.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unitedhealthcare-ceo-killing-gun-shell-casings-match)
+ ![FBI Director Christopher Wray plans to resign next month](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-1527767204.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fbi-christopher-wray-resigns)
 
-### [UnitedHealthcare CEO killing: Gun found on suspect matches shell casings at scene](https://www.fox4news.com/news/unitedhealthcare-ceo-killing-gun-shell-casings-match)
+### [FBI Director Christopher Wray plans to resign next month](https://www.fox4news.com/news/fbi-christopher-wray-resigns)
 
 ###### [News](https://www.fox4news.com/news)
 
