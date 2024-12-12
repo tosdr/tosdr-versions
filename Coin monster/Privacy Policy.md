@@ -212,7 +212,7 @@ Although most changes are likely to be minor, Currency Hub LLC may change its Pr
 * [Discover Bitcoin](https://coinmonster.store/bitcoin-2/)
 * [Visit the Bitcoin Show](https://bitcoinshow.net/)
 
-**Bitcoin**Black Friday, get 20% off your entire order! [Dismiss](#)
+Pay with **Bitcoin** and get 5% off your entire order! [Dismiss](#)
 
 Select your currency
 
