@@ -150,14 +150,14 @@
 
 * [Злаковый завтрак](https://www.russianfood.com/recipes/recipe.php?rid=123899)
 * [Бабка с яблоками и творогом](https://www.russianfood.com/recipes/recipe.php?rid=52531)
-* [Салат яблочный с творогом и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=60879)
 * [Творожные палатшинкен](https://www.russianfood.com/recipes/recipe.php?rid=93639)
 * [Горячие бутерброды с ливерной колбасой и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=1979)
 * [Мещерская окрошка](https://www.russianfood.com/recipes/recipe.php?rid=3683)
 * [Бутерброды с сосиской и яйцом](https://www.russianfood.com/recipes/recipe.php?rid=5485)
 * [Бутерброды с килькой и ливерной колбасой](https://www.russianfood.com/recipes/recipe.php?rid=5489)
 * [Бутерброды со свеклой](https://www.russianfood.com/recipes/recipe.php?rid=5523)
-* [Горячая «спичечная» закуска из колбасы и стручкового перца](https://www.russianfood.com/recipes/recipe.php?rid=5573)
+* [Яйца в гнездышке](https://www.russianfood.com/recipes/recipe.php?rid=6655)
+* [Солянка мясная](https://www.russianfood.com/recipes/recipe.php?rid=6773)
 
 |     |
 | --- |
@@ -192,7 +192,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175022#comments) | 12.12.24 |     |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175022#comments) | 12.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -206,7 +206,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175076#comments) | 12.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175076#comments) | 12.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -461,10 +461,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753284.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174632) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756936.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174807) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754914.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759568.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175076) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756173.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174419) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758670.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175022) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759431.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174889) |
-| [Слоёная галета с цукини, рикоттой и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174632) | [Салат "Змея" с картошкой, рыбными консервами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174807) | [Круглая гата с начинкой "хориз" (с сухофруктами и орехами)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [Яичные роллы с крабовыми палочками и сыром](https://www.russianfood.com/recipes/recipe.php?rid=175076) | [Полента с говядиной (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174419) | [Пряный тыквенный кекс](https://www.russianfood.com/recipes/recipe.php?rid=175022) | [Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=174889) |
-| [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174942) |
-| [Закусочный пирог из лаваша, с сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174942) |
+| [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756936.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174807) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753284.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174632) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759568.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175076) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754914.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759431.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174889) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758670.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175022) |
+| [Салат "Змея" с картошкой, рыбными консервами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174807) | [Слоёная галета с цукини, рикоттой и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174632) | [Яичные роллы с крабовыми палочками и сыром](https://www.russianfood.com/recipes/recipe.php?rid=175076) | [Закусочный пирог из лаваша, с сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [Круглая гата с начинкой "хориз" (с сухофруктами и орехами)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=174889) | [Пряный тыквенный кекс](https://www.russianfood.com/recipes/recipe.php?rid=175022) |
+| [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756173.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174419) |
+| [Полента с говядиной (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174419) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -481,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(116)
+(188)
