@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Tendências de Marketing para 2025 - A imagem que ilustra o tema tem o fundo azul e no meio uma ilustração no formato 3D de um celular com um alvo na tela e, em volta, vários ícones que remetem ao digital e redes sociais.](https://postgrain.com/wp-content/uploads/2024/12/THUMB-BLOG-10-Tendencias-de-Marketing-para-2025-Posicione-sua-marca-para-o-sucesso-580x290.jpg)](https://postgrain.com/?post_type=post&p=12763)
+[![benchmarking eficaz - a imagem que ilustra o tema tem o fundo escuro de onde surge uma mão clicando num painel cheio de gráficos.](https://postgrain.com/wp-content/uploads/2024/12/THUMB-BLOG-Como-fazer-benchmarking-para-a-sua-estrategia-de-conteudo-em-2025-580x290.jpg)](https://postgrain.com/?post_type=post&p=12769)
 
-[10 Tendências de Marketing para 2025: Posicione sua marca para o sucesso!](https://postgrain.com/?post_type=post&p=12763)
+[Como fazer benchmarking eficaz para a sua estratégia de conteúdo em 2025?](https://postgrain.com/?post_type=post&p=12769)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12763)
+[Leia mais](https://postgrain.com/?post_type=post&p=12769)
 
 Ilustração de um dos personagens do Postgrain
 
