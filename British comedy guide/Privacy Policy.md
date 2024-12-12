@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Gavin & Stacey. Image shows left to right: Nessa (Ruth Jones), Smithy (James Corden)](https://cdn.comedy.co.uk/images/library/comedies/300x200/g/gavin_and_stacey_smithy_nessa.jpg "Gavin & Stacey. Image shows left to right: Nessa (Ruth Jones), Smithy (James Corden)")](https://www.comedy.co.uk/tv/gavin_stacey/features/the-quiz/) Shop
+
+[Gavin & Stacey: The quiz](https://www.comedy.co.uk/tv/gavin_stacey/features/the-quiz/)
+
 [![Inside No. 9. Image shows left to right: Len Shelby (Steve Pemberton), Tommy Drake (Reece Shearsmith). Credit: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200_eps/i/inside_no_9_0402a.jpg "Inside No. 9. Image shows left to right: Len Shelby (Steve Pemberton), Tommy Drake (Reece Shearsmith). Credit: BBC")](https://www.comedy.co.uk/quiz/336/) Quiz
 
 [British Comedy Quiz #336](https://www.comedy.co.uk/quiz/336/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![The Rest Is Entertainment. Image shows left to right: Marina Hyde, Richard Osman](https://cdn.comedy.co.uk/images/library/misc/300x200/r/rest_is_entertainment.jpg "The Rest Is Entertainment. Image shows left to right: Marina Hyde, Richard Osman")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-62/) Live
 
 [The Rest Is Entertainment Live, One Man Musical, Mike Rice - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-62/)
-
-[![George & Mildred. Image shows from L to R: Mildred Roper (Yootha Joyce), George Roper (Brian Murphy). Copyright: Thames Television](https://cdn.comedy.co.uk/images/library/comedies/300/g/george_and_mildred.jpg "George & Mildred. Image shows from L to R: Mildred Roper (Yootha Joyce), George Roper (Brian Murphy). Copyright: Thames Television")](https://www.comedy.co.uk/features/comedy-rewind/george-and-mildred/) Features
-
-[Comedy Rewind: George & Mildred - A classy sitcom all about class](https://www.comedy.co.uk/features/comedy-rewind/george-and-mildred/)
 
 #### Subscribe to our newsletters
 
