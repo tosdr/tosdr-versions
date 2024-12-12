@@ -56,11 +56,11 @@ Original Submission Date Received: .
 
 You seem to have javascript disabled. Please note that many of the page functionalities won't work as expected without javascript enabled.
 
-[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1733905199 "MDPI Open Access Journals")](https://www.mdpi.com/)
+[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1733997312 "MDPI Open Access Journals")](https://www.mdpi.com/)
 
 [_clear_](#) [_zoom\_out\_map_](https://www.mdpi.com/toggle_desktop_layout_cookie "Toggle desktop layout") [_search_](#) [_menu_](# "MDPI main page")
 
-[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1733905199 "MDPI Open Access Journals")](https://www.mdpi.com/)
+[![](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-black-small1.svg?da3a8dcae975a41c?1733997312 "MDPI Open Access Journals")](https://www.mdpi.com/)
 
 * [Journals](https://www.mdpi.com/about/journals)
     * * [Active Journals](https://www.mdpi.com/about/journals)
@@ -432,7 +432,7 @@ These Terms and Conditions were last updated on 18 November 2024.
 
 [LinkedIn](https://www.linkedin.com/company/mdpi) [Facebook](https://www.facebook.com/MDPIOpenAccessPublishing) [Twitter](https://twitter.com/MDPIOpenAccess)
 
-![MDPI](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-white-small.png?71d18e5f805839ab?1733905199 "MDPI Open Access Journals")
+![MDPI](https://pub.mdpi-res.com/img/design/mdpi-pub-logo-white-small.png?71d18e5f805839ab?1733997312 "MDPI Open Access Journals")
 
 Subscribe to receive issue release notifications and newsletters from MDPI journals
 
