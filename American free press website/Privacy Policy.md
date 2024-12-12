@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
+* [\[ December 12, 2024 \] Issue 49/50 2024 News You May Have Missed National News](https://americanfreepress.net/issue-49-50-2024-news-you-may-have-missed/ "Issue 49/50 2024 News You May Have Missed")
+* [\[ December 12, 2024 \] Are We Merely an Afterthought to the Government? Subscriber Only](https://americanfreepress.net/are-we-merely-an-afterthought-to-the-government/ "Are We Merely an Afterthought to the Government?")
 * [\[ November 15, 2024 \] Russians Are Rank Amateurs at Interfering in U.S. Elections Subscriber Only](https://americanfreepress.net/russians-are-rank-amateurs-at-interfering-in-u-s-elections/ "Russians Are Rank Amateurs at Interfering in U.S. Elections")
 * [\[ November 14, 2024 \] ‘Hefty’ Wins the Day—and Many People Are ‘Glad’ to See It Subscriber Only](https://americanfreepress.net/hefty-wins-the-day-and-many-people-are-glad-to-see-it/ "‘Hefty’ Wins the Day—and Many People Are ‘Glad’ to See It")
 * [\[ November 3, 2024 \] Citizen Volunteers Do More Than FEMA National News](https://americanfreepress.net/citizen-volunteers-do-more-than-fema/ "Citizen Volunteers Do More Than FEMA")
-* [\[ November 2, 2024 \] Elon Musk: Analyzing the Good, the Bad, the Ugly … and the Downright Puzzling Subscriber Only](https://americanfreepress.net/elon-musk-analyzing-the-good-the-bad-the-ugly-and-the-downright-puzzling/ "Elon Musk: Analyzing the Good, the Bad, the Ugly … and the Downright Puzzling")
-* [\[ November 2, 2024 \] Mystery Drones ‘Swarm’ U.S. Bases Conspiracy Buzz](https://americanfreepress.net/mystery-drones-swarm-u-s-bases/ "Mystery Drones ‘Swarm’ U.S. Bases")
 
 [Home](https://americanfreepress.net/)PRIVACY POLICY
 
@@ -268,11 +268,11 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
+* [Issue 49/50 2024 News You May Have Missed](https://americanfreepress.net/issue-49-50-2024-news-you-may-have-missed/)
+* [Are We Merely an Afterthought to the Government?](https://americanfreepress.net/are-we-merely-an-afterthought-to-the-government/)
+* [Sacred Cows Gored](https://americanfreepress.net/sacred-cows-gored/)
+* [Final Days of the ‘Big Lie Machine’ Are Coming](https://americanfreepress.net/final-days-of-the-big-lie-machine-are-coming/)
 * [Efforts Were Made to Ensure Election Integrity for All](https://americanfreepress.net/efforts-were-made-to-ensure-election-integrity-for-all/)
-* [Russians Are Rank Amateurs at Interfering in U.S. Elections](https://americanfreepress.net/russians-are-rank-amateurs-at-interfering-in-u-s-elections/)
-* [Issue 45/46 20204 News You May Have Missed](https://americanfreepress.net/issue-45-46-20204-news-you-may-have-missed/)
-* [‘Hefty’ Wins the Day—and Many People Are ‘Glad’ to See It](https://americanfreepress.net/hefty-wins-the-day-and-many-people-are-glad-to-see-it/)
-* [Trump Won; He Needs to Keep his Word](https://americanfreepress.net/trump-won-he-needs-to-keep-his-word/)
 
 ###### Recent Comments
 
@@ -318,4 +318,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=16260877)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1689512588)
