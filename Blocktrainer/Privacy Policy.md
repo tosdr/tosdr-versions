@@ -590,7 +590,7 @@ Kopieren
 
 [](#)
 
-[![Exitkey](/fileadmin/_processed_/6/c/csm_exitkey_390x615px_2_a3cd29a02e.png)](https://ref.blocktrainer.de/exitkey/ws/blocktrainer-empfehlungslinks/logo-banner)
+[![BitBox Swiss](/fileadmin/_processed_/2/a/csm_blocktrainervertikal_7f33fe5e4a.jpg)](https://ref.blocktrainer.de/bitbox/ws/blocktrainer-empfehlungslinks/logo-banner)
 
 **Privatsphäre-Einstellungen**
 
