@@ -441,9 +441,7 @@ Who Was Diagnosed?\*\-Select One-MyselfParentSpouseSiblingGrandparentFriendOther
 
 Tell us your story (optional)
 
-Privacy Client Agree\*
-
-**Yes**, I understand and agree that submitting this form does not create an attorney-client relationship and is not confidential or privileged and may be shared. I understand and agree to the [Privacy Policy](https://www.sokolovelaw.com/privacy/) & [Terms of Use](https://www.sokolovelaw.com/terms/).
+I understand by submitting this form that I am providing my consent to be contacted by Sokolove Law and its co-counsel, potentially using automated technology, at the number provided regarding my potential claim/their services. Consent is not required to use their services. Msg frequency varies, and message and data rates may apply. Reply HELP for help or STOP to unsubscribe. [SMS Terms of Service](https://www.sokolovelaw.com/sms-terms/). I understand and agree that by submitting this form I agree to the [Privacy Policy](https://www.sokolovelaw.com/privacy/) and [Terms of Use](https://www.sokolovelaw.com/terms/) and that this form does not create an attorney-client relationship and is not confidential or privileged and may be shared.
 
 gclidintake sourcegasourcegamediumgacampaigngatermgacontentURLmatchtypenetworkmkwidcookieEntryPagecookieDeviceTypecookieOScookieScreenResolutioncookieBrowsercookieBrowserSizecookieReferrercookieLastClickEventcookieUserPathcookieLastUserPathcookieUserTimeZone
 
