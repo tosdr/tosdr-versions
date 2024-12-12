@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=1540084302933059&ev=PageView&noscript=1)    
 
-                     
+                         
 
 ![](https://tags.w55c.net/rs?id=d5308c050ef44dc58b06a9f3df60d349&t=marketing)![](//legacybox.com/cdn/shop/t/566/assets/placeholder-pixel.png?v=50439485113009717681726754073)
 
@@ -37,11 +37,13 @@ We know how important every home movie and photo is, so we’ve pioneered our ve
 
 Track it [Trouble logging in?](https://my.legacybox.com/activate/)
 
-#### Login to Legacybox Backup
+#### Login to Legacybox Cloud
 
-Legacybox Backup securely stores your newly digitized files on the cloud to give you peace of mind.
+Login to stream, share and download your recorded moments.
 
-[Login](https://legacybox.com/pages/backup-login?view=backup-login)
+[Login](https://cloud.legacybox.com/)
+
+[Or, login to Legacybox Backup](https://legacybox.com/pages/backup-login?view=backup-login)
 
 [](https://legacybox.com/cart)
 
@@ -167,11 +169,13 @@ We know how important every home movie and photo is, so we’ve pioneered our ve
 
 Track it [Trouble logging in?](https://my.legacybox.com/activate/)
 
-#### Login to Legacybox Backup
+#### Login to Legacybox Cloud
 
-Legacybox Backup securely stores your newly digitized files on the cloud to give you peace of mind.
+Login to stream, share and download your recorded moments.
 
-[Login](https://legacybox.com/pages/backup-login?view=backup-login)
+[Login](https://cloud.legacybox.com/)
+
+[Or, login to Legacybox Backup](https://legacybox.com/pages/backup-login?view=backup-login)
 
  [![Digitize Home Movies, Photos, Slides & More with Legacybox®](https://cdn.shopify.com/s/files/1/1933/0091/files/holiday_logo.svg?v=1698879504)](https://legacybox.com/)Simplest and easiest way to convert your recorded media to digital. Legacybox is the world's largest digitizer of home movies, photos & film.
 =======================================================================================================================================================================================================================================================================================================================
