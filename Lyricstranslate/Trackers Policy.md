@@ -137,67 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Julia Arellano](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1639319-1733771947.png)](https://lyricstranslate.com/en/translator/julia-arellano "Julia Arellano")
-
-New request
-
-[Ebi - به سلامتیت (Be Salamatit)](https://lyricstranslate.com/en/request/%D8%A8%D9%87-%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C%D8%AA)
-
-Persian → German
-
-[![RetroPanda](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1536684-1650612822.jpg)](https://lyricstranslate.com/en/translator/retropanda "RetroPanda")
-
-New request
-
-[Minako Honda - APÉRITIF](https://lyricstranslate.com/en/request/ap%C3%A9ritif)
-
-Japanese → English
-
-[![RetroPanda](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1536684-1650612822.jpg)](https://lyricstranslate.com/en/translator/retropanda "RetroPanda")
-
-New request
-
-[Eri Nitta - 銀色のスーベニール (Gin'iro no Souvenir)](https://lyricstranslate.com/en/request/%E9%8A%80%E8%89%B2%E3%81%AE%E3%82%B9%E3%83%BC%E3%83%99%E3%83%8B%E3%83%BC%E3%83%AB)
-
-Japanese → English
-
-[![julietarab](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1050123-1706250255.jpg)](https://lyricstranslate.com/en/translator/julietarab "julietarab")
-
-New song
-
-[Barry Gleeson - Sweet Daffodil Mulligan](https://lyricstranslate.com/en/barry-gleeson-sweet-daffodil-mulligan-lyrics)
-
-English
-
-[![Guaglione](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/guaglione "Guaglione")
-
-New song
-
-[Marian Anderson - Deep River](https://lyricstranslate.com/en/marian-anderson-deep-river-lyrics)
-
-English
-
-[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
+[![eelumi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1592639-1694895842.png)](https://lyricstranslate.com/en/translator/eelumi "eelumi")
 
 New translation
 
-[Joe Dassin - Les joies de la cuisine](https://lyricstranslate.com/en/joe-dassin-les-joies-de-la-cuisine-english-0)
+[Leevi and the Leavings - Kaivopuiston kuristaja](https://lyricstranslate.com/en/leevi-and-leavin-kaivopuiston-kuristaja-english)
 
-French → English
+Finnish → English
 
-[![damianzimu](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1547118-1662476290.jpg)](https://lyricstranslate.com/en/translator/damianzimu "damianzimu")
+[![Super Girl](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1308083-1547756752.png)](https://lyricstranslate.com/en/translator/super-girl "Super Girl")
 
 New translation
 
-[Bloodywood - ज़ंजीरों से (Zanjeero Se)](https://lyricstranslate.com/en/bloodywood-zanjeero-se-czech)
+[Nikos Vertis - Κάνεις πως δε με ακούς (Kánis pos dhe me akoús)](https://lyricstranslate.com/en/nikos-vertis-kanis-pos-dhe-me-akous-romanian)
 
-English → Czech
+Greek → Romanian
 
-[![RetroPanda](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1536684-1650612822.jpg)](https://lyricstranslate.com/en/translator/retropanda "RetroPanda")
+[![Valeriu Raut](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1118259-1658638924.jpg)](https://lyricstranslate.com/en/translator/valeriu-raut "Valeriu Raut")
+
+New translation
+
+[Jehro - Continuando](https://lyricstranslate.com/en/jehro-continuando-romanian)
+
+Spanish → Romanian
+
+[![Jessuka97](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1528319-1716847288.jpg)](https://lyricstranslate.com/en/translator/jessuka97 "Jessuka97")
+
+Transcription request fulfilled
+
+[Långt härifrån (Repris) \[Beyond (Reprise)\]](https://lyricstranslate.com/en/moana-2-ost-langt-harifran-repris-lyrics)
+
+Swedish
+
+[![Jessuka97](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1528319-1716847288.jpg)](https://lyricstranslate.com/en/translator/jessuka97 "Jessuka97")
+
+New song
+
+[Moana 2 (OST) - Långt härifrån (Repris) \[Beyond (Reprise)\]](https://lyricstranslate.com/en/moana-2-ost-langt-harifran-repris-lyrics)
+
+Swedish
+
+[![Eagles Hunter](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1298895-1590944054.jpg)](https://lyricstranslate.com/en/translator/eagles-hunter "Eagles Hunter")
 
 New comment
 
-  \[video:https://youtu.be/PGtzwf\_05Xw\] ...  [more](https://lyricstranslate.com/en/comment/1180820#comment-1180820)
+Lyrics are not complete. A lot of lines are ...  [more](https://lyricstranslate.com/en/comment/1181224#comment-1181224)
+
+[![Laplage](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1112497-1596264636.jpg)](https://lyricstranslate.com/en/translator/laplage "Laplage")
+
+New translation
+
+[Rosé - not the same](https://lyricstranslate.com/en/rose-not-same-finnish)
+
+English → Finnish
+
+[![Baran-29](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1454896-1656511190.jpg)](https://lyricstranslate.com/en/translator/baran-29 "Baran-29")
+
+New translation
+
+[Cartoon Songs - The Flintstones (Closing Theme)](https://lyricstranslate.com/en/cartoon-songs-flintstones-closing-turkish)
+
+English → Turkish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
