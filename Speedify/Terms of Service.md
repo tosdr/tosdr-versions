@@ -139,9 +139,9 @@ Dec 18
 
 #### Popular Posts
 
+* [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
 * [WhatsApp Not Working on Wi-Fi? \[SOLVED\]](https://speedify.com/blog/fix-internet-disconnecting/whatsapp-not-working-on-wifi/)
 * [WhatsApp Hangs and Is Not Working - Here's How to Fix It](https://speedify.com/blog/fix-internet-disconnecting/fix-whatsapp-hangs-and-is-not-working/)
-* [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
 
 ### Bonding Apps
 
