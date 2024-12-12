@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
 * [Kühl-Gefrier-Kombinationen im Test: Kühl­schränke − spar­sam und stark](https://www.test.de/Kuehlschraenke-im-Test-4735177-0/ "Kühl-Gefrier-Kombinationen im Test - Kühlschränke − sparsam und stark")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
-* [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
 
 test.de entdecken
 
-* [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
-* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Wunder­sames aus dem Prüf­labor: Miefschützer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Miefschuetzer-6110438-0/ "Wundersames aus dem Prüflabor - Miefschützer")
 * [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
-* [Verpackungs­ärger: Buiteman's Sun Dried Tomato Biscuits](https://www.test.de/Verpackungsaerger-Buitemans-Sun-Dried-Tomato-Biscuits-5986964-0/ "Verpackungsärger - Buiteman's Sun Dried Tomato Biscuits")
-* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
+* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
+* [Wunder­sames aus dem Prüf­labor: Hitziger Streuner](https://www.test.de/Wundersames-aus-dem-Prueflabor-Hitziger-Streuner-6125232-0/ "Wundersames aus dem Prüflabor - Hitziger Streuner")
+* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
 
 Weitere Informationen
 
@@ -3862,59 +3862,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
 * [Kühl-Gefrier-Kombinationen im Test: Kühl­schränke − spar­sam und stark](https://www.test.de/Kuehlschraenke-im-Test-4735177-0/ "Kühl-Gefrier-Kombinationen im Test - Kühlschränke − sparsam und stark")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
-* [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
 
 test.de entdecken
 
-* [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
-* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Wunder­sames aus dem Prüf­labor: Miefschützer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Miefschuetzer-6110438-0/ "Wundersames aus dem Prüflabor - Miefschützer")
 * [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
-* [Verpackungs­ärger: Buiteman's Sun Dried Tomato Biscuits](https://www.test.de/Verpackungsaerger-Buitemans-Sun-Dried-Tomato-Biscuits-5986964-0/ "Verpackungsärger - Buiteman's Sun Dried Tomato Biscuits")
-* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
+* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
+* [Wunder­sames aus dem Prüf­labor: Hitziger Streuner](https://www.test.de/Wundersames-aus-dem-Prueflabor-Hitziger-Streuner-6125232-0/ "Wundersames aus dem Prüflabor - Hitziger Streuner")
+* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
 * [Kühl-Gefrier-Kombinationen im Test: Kühl­schränke − spar­sam und stark](https://www.test.de/Kuehlschraenke-im-Test-4735177-0/ "Kühl-Gefrier-Kombinationen im Test - Kühlschränke − sparsam und stark")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
-* [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
 
 test.de entdecken
 
-* [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
-* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Wunder­sames aus dem Prüf­labor: Miefschützer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Miefschuetzer-6110438-0/ "Wundersames aus dem Prüflabor - Miefschützer")
 * [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
-* [Verpackungs­ärger: Buiteman's Sun Dried Tomato Biscuits](https://www.test.de/Verpackungsaerger-Buitemans-Sun-Dried-Tomato-Biscuits-5986964-0/ "Verpackungsärger - Buiteman's Sun Dried Tomato Biscuits")
-* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
+* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
+* [Wunder­sames aus dem Prüf­labor: Hitziger Streuner](https://www.test.de/Wundersames-aus-dem-Prueflabor-Hitziger-Streuner-6125232-0/ "Wundersames aus dem Prüflabor - Hitziger Streuner")
+* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
 
 Neueste Tests
 
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
 * [Kühl-Gefrier-Kombinationen im Test: Kühl­schränke − spar­sam und stark](https://www.test.de/Kuehlschraenke-im-Test-4735177-0/ "Kühl-Gefrier-Kombinationen im Test - Kühlschränke − sparsam und stark")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
-* [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
 
 test.de entdecken
 
-* [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
-* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Wunder­sames aus dem Prüf­labor: Miefschützer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Miefschuetzer-6110438-0/ "Wundersames aus dem Prüflabor - Miefschützer")
 * [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
-* [Verpackungs­ärger: Buiteman's Sun Dried Tomato Biscuits](https://www.test.de/Verpackungsaerger-Buitemans-Sun-Dried-Tomato-Biscuits-5986964-0/ "Verpackungsärger - Buiteman's Sun Dried Tomato Biscuits")
-* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
+* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
+* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
+* [Wunder­sames aus dem Prüf­labor: Hitziger Streuner](https://www.test.de/Wundersames-aus-dem-Prueflabor-Hitziger-Streuner-6125232-0/ "Wundersames aus dem Prüflabor - Hitziger Streuner")
+* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
 
 Stiftung Warentest
 
