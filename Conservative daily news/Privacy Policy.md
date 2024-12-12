@@ -1,15 +1,4 @@
-Tuesday, December 10 2024
-
-Breaking News
-
-* [President Joe Biden’s Schedule for Tuesday, December 10, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-tuesday-december-10-2024/)
-* [You Say You Want A Revolution? Watch Trump](https://www.conservativedailynews.com/2024/12/you-say-you-want-a-revolution-watch-trump/)
-* [Under Pressure, Biden Opts For Minimum Acreage Possible In Drilling Decision](https://www.conservativedailynews.com/2024/12/under-pressure-biden-opts-for-minimum-acreage-possible-in-drilling-decision/)
-* [BLM Leader Calls For ‘Black Vigilantes’ To Descend On Cities Following Daniel Penny Acquittal](https://www.conservativedailynews.com/2024/12/blm-leader-calls-for-black-vigilantes-to-descend-on-cities-following-daniel-penny-acquittal/)
-* [Ernst Signals Support For Hegseth After ‘Encouraging Conversations’](https://www.conservativedailynews.com/2024/12/ernst-signals-support-for-hegseth-after-encouraging-conversations/)
-* [Trump Policies Follow Principle of Economic Greatness](https://www.conservativedailynews.com/2024/12/trump-policies-follow-principle-of-economic-greatness/)
-* [People In North Carolina Are living In Tents While Biden Pledges Billions To Africa](https://www.conservativedailynews.com/2024/12/people-in-north-carolina-are-living-in-tents-while-biden-pledges-billions-to-africa/)
-* [Medal of Honor Monday: Navy Lt. Cmdr. Jackson Pharris](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-navy-lt-cmdr-jackson-pharris/)
+Wednesday, December 11 2024
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -115,82 +104,82 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/12/alan-dershowitz-predicts-daniel-penny-will-win-civil-lawsuit/)
+    
+    [Alan Dershowitz Predicts Daniel Penny Will ‘Win’ Civil Lawsuit](https://www.conservativedailynews.com/2024/12/alan-dershowitz-predicts-daniel-penny-will-win-civil-lawsuit/)
+    
+    December 11, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/04/Hawk-Newsome-BLM-220x150.jpg)](https://www.conservativedailynews.com/2024/12/blm-leader-calls-for-black-vigilantes-to-descend-on-cities-following-daniel-penny-acquittal/)
     
     [BLM Leader Calls For ‘Black Vigilantes’ To Descend On Cities Following Daniel Penny Acquittal](https://www.conservativedailynews.com/2024/12/blm-leader-calls-for-black-vigilantes-to-descend-on-cities-following-daniel-penny-acquittal/)
     
     December 9, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5885-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/)
-    
-    [He’s A Different Man, At Peace With His Mission](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/)
-    
-    December 8, 2024
     
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/JOe-Biden-speech-14-220x150.png)](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-tuesday-december-10-2024/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/12/alan-dershowitz-predicts-daniel-penny-will-win-civil-lawsuit/)
     
-    [President Joe Biden’s Schedule for Tuesday, December 10, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-tuesday-december-10-2024/)
+    [Alan Dershowitz Predicts Daniel Penny Will ‘Win’ Civil Lawsuit](https://www.conservativedailynews.com/2024/12/alan-dershowitz-predicts-daniel-penny-will-win-civil-lawsuit/)
     
-    December 10, 2024
+    December 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/02-parting-gift-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/parting-gift-2/)
+* [![Joe Biden pardon hunter](https://www.conservativedailynews.com/wp-content/uploads/2024/06/gv061324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/hunter-bidens-pardon-really-rubbed-america-the-wrong-way-poll-shows/)
     
-    [Parting Gift](https://www.conservativedailynews.com/2024/12/parting-gift-2/)
+    [Hunter Biden’s Pardon Really Rubbed America The Wrong Way, Poll Shows](https://www.conservativedailynews.com/2024/12/hunter-bidens-pardon-really-rubbed-america-the-wrong-way-poll-shows/)
     
-    December 10, 2024
+    December 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Saving-piggy-bank-money-220x150.png)](https://www.conservativedailynews.com/2024/12/9-best-money-books-for-kids-and-teens/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/Pentagon-220x150.jpg)](https://www.conservativedailynews.com/2024/12/army-fires-four-star-renegade-general-who-promoted-deeply-unqualified-female-crony/)
     
-    [9 Best Money Books for Kids and Teens](https://www.conservativedailynews.com/2024/12/9-best-money-books-for-kids-and-teens/)
+    [Army Fires Four-Star ‘Renegade General’ Who Promoted Deeply Unqualified Female Crony](https://www.conservativedailynews.com/2024/12/army-fires-four-star-renegade-general-who-promoted-deeply-unqualified-female-crony/)
     
-    December 10, 2024
+    December 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/07/2020-02-11T011157Z_622246339_RC21YE9U3011_RTRMADP_3_USA-ELECTION-BIDEN-220x150.jpg)](https://www.conservativedailynews.com/2024/12/biden-the-tyrant/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-signing-bill-Jill-Biden-supervising-220x150.png)](https://www.conservativedailynews.com/2024/12/biden-issuing-preemptive-pardons-to-trump-opponents-would-be-big-expansion-of-power/)
     
-    [Biden the Tyrant](https://www.conservativedailynews.com/2024/12/biden-the-tyrant/)
+    [Biden Issuing Preemptive Pardons To Trump Opponents Would Be Big Expansion Of Power](https://www.conservativedailynews.com/2024/12/biden-issuing-preemptive-pardons-to-trump-opponents-would-be-big-expansion-of-power/)
     
-    December 10, 2024
+    December 11, 2024
     
-* [![Trump wins success fighter](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg110624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/you-say-you-want-a-revolution-watch-trump/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/09/Sanctuary-City-sign-2-1.jpg)](https://www.conservativedailynews.com/2024/12/california-county-dems-move-to-shield-migrants-charged-with-heinous-crimes-from-ice/)
     
-    [You Say You Want A Revolution? Watch Trump](https://www.conservativedailynews.com/2024/12/you-say-you-want-a-revolution-watch-trump/)
+    [California County Dems Move To Shield Migrants Charged With ‘Heinous Crimes’ From ICE](https://www.conservativedailynews.com/2024/12/california-county-dems-move-to-shield-migrants-charged-with-heinous-crimes-from-ice/)
     
-    December 9, 2024
+    December 11, 2024
     
-* [![gas prices energy policy biden admin](https://www.conservativedailynews.com/wp-content/uploads/2022/06/mrz061622dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/under-pressure-biden-opts-for-minimum-acreage-possible-in-drilling-decision/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/Daniel-Penny-220x150.jpg)](https://www.conservativedailynews.com/2024/12/daniel-penny-stands-by-his-actions-says-hed-face-court-million-times-to-save-others/)
     
-    [Under Pressure, Biden Opts For Minimum Acreage Possible In Drilling Decision](https://www.conservativedailynews.com/2024/12/under-pressure-biden-opts-for-minimum-acreage-possible-in-drilling-decision/)
+    [Daniel Penny Stands By His Actions, Says He’d Face Court ‘Million’ Times To Save Others](https://www.conservativedailynews.com/2024/12/daniel-penny-stands-by-his-actions-says-hed-face-court-million-times-to-save-others/)
     
-    December 9, 2024
+    December 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/08/TikTok-China.jpg)](https://www.conservativedailynews.com/2024/12/tiktok-owner-pleads-for-legal-relief-against-us-tiktok-ban/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Judge-with-Gavel-220x150.jpg)](https://www.conservativedailynews.com/2024/12/federal-state-judges-block-kroger-albertsons-25-billion-merger/)
     
-    [TikTok Owner Pleads For Legal Relief Against US TikTok Ban](https://www.conservativedailynews.com/2024/12/tiktok-owner-pleads-for-legal-relief-against-us-tiktok-ban/)
+    [Federal, State Judges Block Kroger-Albertsons $25 Billion Merger](https://www.conservativedailynews.com/2024/12/federal-state-judges-block-kroger-albertsons-25-billion-merger/)
     
-    December 9, 2024
+    December 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/04/Hawk-Newsome-BLM-220x150.jpg)](https://www.conservativedailynews.com/2024/12/blm-leader-calls-for-black-vigilantes-to-descend-on-cities-following-daniel-penny-acquittal/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg121124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/bad-gifts-2/)
     
-    [BLM Leader Calls For ‘Black Vigilantes’ To Descend On Cities Following Daniel Penny Acquittal](https://www.conservativedailynews.com/2024/12/blm-leader-calls-for-black-vigilantes-to-descend-on-cities-following-daniel-penny-acquittal/)
+    [Bad Gifts](https://www.conservativedailynews.com/2024/12/bad-gifts-2/)
     
-    December 9, 2024
+    December 11, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
-* [Florida Driver Refuses Carjacker Then Shoots Him](https://www.thegunpage.com/florida-driver-refuses-carjacker-then-shoots-him/10612409)
-* [MI: “Ghost gun” Bills in Senate](https://www.thegunpage.com/mi-ghost-gun-bills-in-senate/10612408)
-* [New Measure Would Ban Biden’s Medicaid Funding For Gun Control](https://www.thegunpage.com/new-measure-would-ban-bidens-medicaid-funding-for-gun-control/10612406)
-* [SAF Wades Into Montana Gun-Free School Zone Case](https://www.thegunpage.com/saf-wades-into-montana-gun-free-school-zone-case/10612401)
-* [Lipsey's Drops New Exclusive Ruger .41 Magnum](https://www.thegunpage.com/lipseys-drops-new-exclusive-ruger-41-magnum/10612407)
-* [High-Profile CEO Killing Brings Focus to Ghost Guns](https://www.thegunpage.com/high-profile-ceo-killing-brings-focus-to-ghost-guns/10612398)
-* [Hillsdale College’s Halter Shooting Sports Education Center Dedicated To Competition](https://www.thegunpage.com/hillsdale-colleges-halter-shooting-sports-education-center-dedicated-to-competition/10612402)
-* [Five Classic Divisions, Plus Limited Optics On Display At 2024 USPSA Handgun Nationals](https://www.thegunpage.com/five-classic-divisions-plus-limited-optics-on-display-at-2024-uspsa-handgun-nationals/10612397)
-* [TFB Review: Aimpoint ACRO C-2](https://www.thegunpage.com/tfb-review-aimpoint-acro-c-2/10612394)
-* [POTD: B&T APC223 PDW Tele + Thermal & Predator Ghillie](https://www.thegunpage.com/potd-bt-apc223-pdw-tele-thermal-predator-ghillie/10612395)
+* [PA: Year in Review](https://www.thegunpage.com/pa-year-in-review/10612447)
+* [FAB Defense Grips, Stocks and Mags](https://www.thegunpage.com/fab-defense-grips-stocks-and-mags/10612443)
+* [Ruger & Magpul are Making a Glock Clone? The Ruger RXM](https://www.thegunpage.com/ruger-magpul-are-making-a-glock-clone-the-ruger-rxm/10612445)
+* [Illegal Chinese National Arrested In California Shipping Weapons And Devices To North Korea](https://www.thegunpage.com/illegal-chinese-national-arrested-in-california-shipping-weapons-and-devices-to-north-korea/10612441)
+* [The Sub $1K Double-Stack 1911 – Girsan Witness2311 Match](https://www.thegunpage.com/the-sub-1k-double-stack-1911-girsan-witness2311-match/10612446)
+* [GOA Announces Second Annual GOALS Conference for 2025](https://www.thegunpage.com/goa-announces-second-annual-goals-conference-for-2025/10612439)
+* [Michigan Gun Control Bill Pushes for Only State-Approved Firearm Colors](https://www.thegunpage.com/michigan-gun-control-bill-pushes-for-only-state-approved-firearm-colors/10612433)
+* [Davidson’s Exclusive Ruger Mini-14 Tactical in .300 AAC Blackout](https://www.thegunpage.com/davidsons-exclusive-ruger-mini-14-tactical-in-300-aac-blackout/10612435)
+* [FPC Weighs In On Mag Ban Case Before Washington Supreme Court](https://www.thegunpage.com/fpc-weighs-in-on-mag-ban-case-before-washington-supreme-court/10612431)
+* [Galco Thunderclap Now For The SIG Sauer P226](https://www.thegunpage.com/galco-thunderclap-now-for-the-sig-sauer-p226/10612436)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -229,18 +218,6 @@ Contact Us
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
 * [X](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
-
-Recent Comments
-
-* JSSWS on [He’s A Different Man, At Peace With His Mission](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/#comment-783601)
-* Stanley Warner on [The Biden Crime Family Is Above the Law](https://www.conservativedailynews.com/2024/12/the-biden-crime-family-is-above-the-law/#comment-783585)
-* Catherine Skinner on [Sold Out](https://www.conservativedailynews.com/2024/12/sold-out/#comment-783584)
-* [Bill](http://conservativedailynews.com/) on [Unqualified Is Code For They Scare Me To Death](https://www.conservativedailynews.com/2024/12/unqualified-is-code-for-they-scare-me-to-death/#comment-783583)
-* Cassidy Rodriguez on [Trump Sends His Clearest Message Yet To DOJ Bureaucrats With Unexpected Leadership Picks](https://www.conservativedailynews.com/2024/11/trump-sends-his-clearest-message-yet-to-doj-bureaucrats-with-unexpected-leadership-picks/#comment-783544)
-* Singleshot on [Tucker Carlson Is Back In Moscow With A Terrifying Revelation](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/#comment-783536)
-* Stanley Warner on [Pardon Me, Is This The Final Lie](https://www.conservativedailynews.com/2024/12/pardon-me-is-this-the-final-lie/#comment-783535)
-* Stanley Warner on [Trump Working His Magic With Tariff Diplomacy](https://www.conservativedailynews.com/2024/12/trump-working-his-magic-with-tariff-diplomacy/#comment-783527)
-* Kevin M. Nadzam on [Joe Biden Confirms his “Contempt” for the American People with his Hunter Biden Pardon](https://www.conservativedailynews.com/2024/12/joe-biden-confirms-his-contempt-for-the-american-people-with-his-hunter-biden-pardon/#comment-783526)
 
 [Close](#)
 
