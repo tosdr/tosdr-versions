@@ -31,6 +31,575 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Control de virus respiratorios en Ecuador
+=========================================
+
+La vacunación y prevención contra las infecciones respiratorias protegen a poblaciones vulnerables.
+---------------------------------------------------------------------------------------------------
+
+![Imagen creada en Ideogram con el prompt: Ilustración tipo cartoon de un médico vacunando a un paciente en un centro de salud, en el fondo promoviendo campañas para prevenir enfermedades respiratorias.](https://www.elcomercio.com/wp-content/uploads/2024/12/ok_720.jpg)
+
+Los virus respiratorios en Ecuador aún demandan atención y control para evitar su propagación.
+
+Hasta el 6 de diciembre de 2024, el **Ministerio de Salud Pública (MSP)** confirmó 13 792 casos de covid-19. Además, se reportaron 1 708 casos de Infección Respiratoria Aguda Grave (IRAG) hasta la última semana de noviembre. Ambas causas provocaron 100 muertes. 
+
+Estos datos resaltan la importancia de que el sistema de salud siga vigilante ante la propagación de virus respiratorios. Estos afectan, principalmente, a poblaciones vulnerables, entre ellos niños, adultos mayores y personas con enfermedades crónicas.
+
+A escala regional, la **Organización Panamericana de la Salud (OPS)** ha subrayado en mantener medidas rigurosas para mitigar la transmisión de estos virus.
+
+> El control exitoso de brotes en varios países muestra que la clave está en una estrategia combinada. Esta incluye vacunación, higiene, distanciamiento social y un monitoreo de la situación epidemiológica.
+
+Los datos del MSP revelan que el virus sincitial respiratorio (VSR), que afecta a niños pequeños, es el agente más prevalente. Representa el 35,66 % de los casos de IRAG. Sigue el SARS-CoV-2 con un 22,08 %. 
+
+La diversidad de patógenos circulantes, incluidas variantes de la influenza, demanda protocolos de prevención más estrictos. La [Organización Mundial de la Salud (OMS)](https://www.paho.org/es/documentos/alerta-epidemiologica-sars-cov-2-influenza-otros-virus-respiratorios-region-americas-5 "https://www.paho.org/es/documentos/alerta-epidemiologica-sars-cov-2-influenza-otros-virus-respiratorios-region-americas-5") recomendó mantener esfuerzos para aumentar la vacunación, junto con la vigilancia constante y planes de respuesta actualizados.
+
+A pesar de esto, la vacuna anual contra el covid-19 enfrenta rechazo en Ecuador. Además, se ha perdido la percepción del riesgo, pese a lo que se vivió en la pandemia. Como resultado, quienes no se vacunan enferman y todavía hay muertes.
+
+De 262 000 dosis disponibles contra el covid-19 para el 2023, se aplicaron 236 000. Este año, de una existencia de 250 000, se beneficiaron 235 000. Las dosis sobrantes se pierden porque una vez preparadas no duran mucho tiempo.
+
+En cambio, las campañas de vacunación contra la influenza tienen mejor aceptación, aunque no hay que bajar la guardia, sobre todo en temporadas críticas. Ecuador cuenta con cinco millones de dosis, de las cuales 840 000 están destinadas a niños entre seis meses y siete años.
+
+A nivel nacional, un millón de personas han sido inmunizadas contra la influenza. Aunque se avanza, aún falta alcanzar una mayor cobertura hasta fines de [febrero de 2025](https://www.elcomercio.com/actualidad/campana-vacunacion-influenza-desarrolla-ecuador-hasta-cuando.html "https://www.elcomercio.com/actualidad/campana-vacunacion-influenza-desarrolla-ecuador-hasta-cuando.html"). Esta vacunación es clave para reducir la carga hospitalaria durante los brotes.
+
+Es esencial que los grupos de riesgo accedan a la vacuna en centros de salud públicos.
+
+En este contexto, el monitoreo constante de las tendencias epidemiológicas es crucial. El uso eficiente del Sistema Integrado de Vigilancia Epidemiológica (SIVE) del MSP permite detectar rápidamente focos de contagio y actuar de inmediato.
+
+La población también debe mantenerse informada para prevenir la propagación. No se pueden relajar medidas como el lavado de manos o el uso de mascarillas en espacios concurridos. Además, es fundamental que quienes presenten síntomas respiratorios se aíslen adecuadamente.
+
+Japón, por ejemplo, implementó políticas estrictas de higiene pública que han demostrado ser eficaces para contener la propagación de enfermedades respiratorias.
+
+La protección de las poblaciones vulnerables es especialmente importante en centros educativos, hogares de ancianos y hospitales, donde las medidas de control deben ser rigurosas para reducir el riesgo de complicaciones. El uso de filtros de aire y sistemas de ventilación mejorados también ayuda a disminuir la transmisión en espacios cerrados.
+
+La cooperación entre el gobierno, el sistema de salud y la sociedad es significativa para proteger a los más vulnerables. Las acciones preventivas y la respuesta rápida son herramientas clave para mitigar el impacto de las infecciones respiratorias y evitar la sobrecarga del sistema sanitario. Mantener estos virus bajo control es una prioridad.
+
+El placer culpable
+==================
+
+El placer como esencial para el bienestar físico, emocional y espiritual, promoviendo su disfrute equilibrado y consciente, libre de culpas y excesos.
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
+
+**El tema es apasionante**. Sí, de veras apasionante, porque quien no pone pasión en la vida -el amor, la familia, el trabajo, la lectura, el estudio, el servicio, el tiempo libre, el descanso activo, y en general la búsqueda de sentido- no ha logrado consolidar un proyecto existencial saludable.
+
+**Esta premisa da consistencia a la idea sobre lo que pensamos y sentimos sobre el placer, que es una categoría humana respetable que ha sido menospreciada en contextos culturales y religiosos** que usurparon este derecho humano, en nombre de la culpa o del pecado**.** Este **error por omisión ha condenado a muchas personas** a la soledad, al remordimiento, al dolor y al sufrimiento fruto del escarnio interior.
+
+Hablemos claro**: el placer es una experiencia primaria que se produce cuando se satisface una necesidad o un deseo, ya sea de forma real o anticipada.** Basta recordar el famoso **triángulo de Abraham Maslow**, quien formula una jerarquía de necesidades humanas en cinco niveles: ​los cuatro primeros se agrupan como **“necesidades de déficit”,** mientras que el nivel superior es denominado **“autorrealización”**, motivación de crecimiento o necesidad de ser.
+
+En ese contexto es interesante identificar: **el placer físico, el placer psíquico, el placer emocional, el placer intelectual, el placer lúdico y el placer contemplativo**, entre otros. Los griegos distinguieron cuatro tipos de amor: **la philia (afectivo), storge (amistad); el ágape (a los demás); y el eros (romántico o sexual).**
+
+**El placer -en un sentido amplio- es encontrar lo que nos hace bien.** También es reconocido como un **sentimiento agradable -mejor si es recíproco-, que nos estimula a nivel físico y emocional.**
+
+**La solución, aparentemente, es simple: conocerlo, disfrutarlo**. Los terapistas plantean que el placer es afín a la salud física, emocional y espiritual. **Pero si el placer se convierte en culpable se torna negativo y a veces agresivo.**
+
+Un **primer paso** sería **no confundir el placer con el sexo o la sexualidad,** porque el verdadero placer abarca un abanico de opciones en la dirección del bienestar pleno. El **segundo paso es no desacreditar el placer, en nombre de un hedonismo desenfrenado,** porque el verdadero placer tiene rostro humano**; por lo tanto, autocontrolado y supeditado a valores superiores.**
+
+**La ciencia ha confirmado que el placer -no solo sexual- descarga una cantidad de hormonas** como la dopamina, serotonina, oxitocina y endorfinas que generan una sensación de bienestar general y contribuyen a mejorar nuestra salud. En cambio, **el placer culpable puede provocar dolor, sufrimiento y enfermedad.** ¿Qué opina?
+
+Cartas a Quito / 12 de diciembre de 2024
+========================================
+
+Estas son las cartas a Quito de este jueves 12 de diciembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Excesiva burocracia
+-------------------
+
+Como vocera de la gente que carece de voz, elevo cada una de las quejas que, por uno u otro medio, llegan hacia mi persona.
+
+En esta ocasión me referiré a la dificultad y tardanza que tenemos los ecuatorianos frente a las gestiones y trámites que queremos realizar, pues, como hemos comprobado, cualquier trámite, por sencillo que sea, demora meses y hasta años en darnos una respuesta y, más aún, si de solucionarlo se trata.
+
+A no dudarlo, esto, aparte de otros factores, se debe al exceso de burócratas que existen a todo nivel, por lo que los documentos y trámites pasan de mano en mano y se prestan a la confusión y muchas veces se pierden en el trayecto.
+
+Está más que claro que, con seguridad, esto ocurre con la burocracia del SRI en donde quedan retenidos los documentos durante un largo tiempo sin que el usuario tenga una respuesta favorable.
+
+Por otra parte, las devoluciones del  IVA son  tardías, por cuotas y a largo plazo y es de suponer que, en la mayoría de los casos, el sufrido  beneficiario de este servicio, cuenta con ese aporte (ingreso extra) aunque sea mínimo para suplir y solventar sus necesidades más elementales.
+
+Ojalá estas observaciones tengan eco en la conciencia de los responsables de estas anomalías y se trate de buscar las soluciones pertinentes.
+
+Fabiola Carrera Alemán
+
+Estados Unidos e Israel analizan la posibilidad de liberar rehenes de Gaza
+==========================================================================
+
+Los Ministros de Defensa de EE. UU. e Israel mantuvieron una conversación para tratar una posible liberación de rehenes de Gaza.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Crece el optimismo por una posible tregua para intercambiar rehenes, entre Hamás e Israel](https://www.elcomercio.com/wp-content/uploads/2024/12/rehenes-gaza.jpg)
+
+El **ministro de Defensa** de **Israel**, Israel Katz, y el de **Estados Unidos**, Lloyd Austin, mantuvieron una **conversación telefónica** para tratar la posibilidad de firmar un **acuerdo** para liberar a los **rehenes** que siguen en la **Franja de Gaza**.
+
+### Más noticias
+
+* [Al menos 22 miembros de una familia mueren en un ataque israelí en Gaza](https://www.elcomercio.com/actualidad/mundo/al-menos-22-miembros-de-una-familia-mueren-ataque-israeli-en-gaza.html "Al menos 22 miembros de una familia mueren en un ataque israelí en Gaza")
+* [Un pasajero intentó desviar un avión hacia Estados Unidos](https://www.elcomercio.com/actualidad/mundo/pasajero-intento-desviar-avion-estados-unidos.html "Un pasajero intentó desviar un avión hacia Estados Unidos")
+* [¿Qué sigue para Siria y el mundo tras la caída de Bashar al Asad?](https://www.elcomercio.com/actualidad/mundo/sigue-para-siria-mundo-caida-bashar-asad.html "¿Qué sigue para Siria y el mundo tras la caída de Bashar al Asad?")
+
+“En este momento existe la posibilidad de un **nuevo acuerdo**, con la esperanza de liberar a todos los **secuestrados**, incluidos los que tienen **ciudadanía estadounidense**“, dijo Katz durante la conversación de este miércoles **11 de diciembre de 2024**.
+
+Austin, a través de un **comunicado**, subrayó el **compromiso** de **Washington** para “liberar a todos los **rehenes** en Gaza, incluyendo ciudadanos **estadounidenses**“, aunque volvió a llamar a **Israel** a remediar la **crisis humanitaria** en la **Franja**.
+
+Disputa en Siria por la ocupación de una zona desmilitarizada
+-------------------------------------------------------------
+
+Los **funcionarios** también hablaron sobre la decisión del **Ejército israelí** de ocupar la **zona desmilitarizada** de **Siria**, que colinda con **Israel**, tras la caída del régimen de al Asad.
+
+En este sentido, Austin “subrayó la **importancia** de que **Estados Unidos** e **Israel** mantengan **estrechas consultas** sobre los **acontecimientos en Siria**“, entre las quejas de la **comunidad internacional** por la **presencia militar israelí** en el país vecino.
+
+“**Estados Unidos** está siguiendo de cerca los **eventos en Siria**, y apoya una **transición pacífica e inclusiva**“, señaló el **comunicado estadounidense**[.](https://es.wikipedia.org/wiki/Franja_de_Gaza "https://es.wikipedia.org/wiki/Franja_de_Gaza")
+
+Relaciones con Líbano tras el cese al fuego
+-------------------------------------------
+
+En cuanto a **Líbano**, país con el que **Israel** pactó un **cese al fuego** el **26 de noviembre**, tras un año de **enfrentamientos**, Katz reiteró su postura de “**tolerancia cero contra las violaciones**“, pese a que ambas naciones se acusan mutuamente de faltar las cláusulas de lo pactado.
+
+**Estados Unidos** e **Israel**, indicó el **comunicado**, acordaron cooperar para frenar cualquier intento de “**contrabando de armas** desde **Irán** a **Líbano**, a través de **Siria**“.
+
+Optimismo por una tregua en Gaza
+--------------------------------
+
+La **conversación** entre ambos se produce en un momento de cierto **optimismo** por el retorno a la mesa de **negociación** para alcanzar una **tregua** en **Gaza**, tras un estancamiento desde **agosto**.
+
+Según informó **EFE**, una **delegación israelí** se reunió el martes con **funcionarios egipcios** en **El Cairo** para hablar sobre el **acuerdo**.
+
+Entre los **rehenes** propuestos para un posible intercambio con **presos palestinos** hay **mujeres**, **niños**, **enfermos** y **heridos críticos**, además de cuatro **rehenes** con **doble ciudadanía israelí y estadounidense**.
+
+Al momento quedan **96 rehenes secuestrados** tras los ataques de **Hamás** del **7 de octubre**. El **atentado** dejó **34 muertos**, según el **Ejército israelí**.
+
+Historial de acuerdos entre Hamás e Israel
+------------------------------------------
+
+En más de un año de **guerra**, **Hamás** e **Israel** solo han llegado a un **acuerdo** de **alto el fuego** y **liberación de rehenes**, en **noviembre de 2023**. En ese momento fueron liberados **105 de los 251 secuestrados**, a cambio de **240 presos palestinos** que estaban encerrados en **cárceles israelíes**.
+
+Cárcel en Archidona: Gobierno, Asamblea y población tomaron decisiones
+======================================================================
+
+Las protestas por la construcción de la cárcel en Archidona provocaron cierres viales. Gobierno y autoridades locales se reunieron y no llegaron a acuerdos.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Noveno día de protestas contra la construcción de la cárcel de máxima seguridad en Archidona.](https://www.elcomercio.com/wp-content/uploads/2024/12/carcel-archidona.jpg)
+
+El **Gobierno** de **Daniel Noboa**, una mayoría en el Pleno de la **Asamblea** y la **población de Napo** tomaron decisiones sobre la **cárcel en Archidona**, en las últimas horas.
+
+El Gobierno busca construir una **segunda cárcel de máxima seguridad**, de características similares a la que ya se edifica en **Santa Elena**. En el **noveno día de protestas**, varias **vías están cerradas**.
+
+### Más noticias:
+
+* [Las protestas se mantienen en Napo por la construcción de la cárcel en Archidona](https://www.elcomercio.com/actualidad/seguridad/protestas-napo-carcel-archidona.html "Las protestas se mantienen en Napo por la construcción de la cárcel en Archidona")
+* [Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-cambio-gobernado-napo-carcel.html "Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel")
+
+Gobierno, Asamblea y población tomaron decisiones sobre la construcción de la cárcel en Archidona
+-------------------------------------------------------------------------------------------------
+
+Una de las **ofertas de campaña** de **Daniel Noboa** para llegar a la Presidencia en 2023 fue la construcción de dos cárceles de máxima seguridad en Ecuador.
+
+La primera ya se construye en **Santa Elena** y tiene un avance de más del 30%, con una inversión de **52 millones de dólares.**
+
+El Gobierno tiene prevista la construcción de la segunda en Archidona, cantón de la provincia del Napo.
+
+El Gobierno adjudicó la construcción de la cárcel en Archidona y continuará con la obra
+---------------------------------------------------------------------------------------
+
+El **Servicio Nacional de Atención a Personas Privadas de la Libertad y Adolescentes Infractores (SNAI) adjudicó** el martes 10 de diciembre el proceso de “**Construcción y equipamiento del centro de privación de libertad en Archidona**“.
+
+El proceso tiene previsto un presupuesto de **51 970 087 millones de dólares** y fue declarado **reservado**, al igual que el de la cárcel de Santa Elena.
+
+Bajo el tipo de “**contrataciones con empresas públicas internacionales**“, lo que se conoce del proceso es una invitación a participar.
+
+La Comisión Técnica recomendó la adjudicación del proceso a **la compañía Puentes Y Calzadas Infraestructuras S.L.**, subsidiaria de la empresa estatal **China Road And Bridge Corporation**, única empresa a la que se invitó.
+
+Esta empresa es la misma que fue **invitada** para construir la cárcel de máxima seguridad de Santa Elena.
+
+En la noche, **Justina Zambrano, subsecretaria de Gobernabilidad**, anunció que el Gobierno ha decidido mantener el proyecto en el mismo lugar.
+
+Zambrano realizó este anunció luego de un diálogo con autoridades locales, **la noche de este miércoles**.
+
+La resolución de exhorto de la Asamblea sobre la cárcel de Archidona
+--------------------------------------------------------------------
+
+La tarde de este miércoles, en el **Pleno de la Asamblea**, un grupo de asambleístas amazónicos impulsaron la aprobación de una resolución sobre la cárcel de Archidona.
+
+La asambleísta de Napo, **Sandra Rueda**, presentó una moción de resolución con varios puntos, tras señalar que existe preocupación por las implicaciones sociales, culturales y ambientales de la obra.
+
+Esto, debido a que el centro está ubicado en una **zona urbana** del cantón, cercano a establecimientos educativos, provocando inseguridad entre estudiantes y padres de familia.
+
+* **Solidarizarse** con el **pueblo de Archidona y la provincia del Napo**, en particular con **niños, niñas y adolescentes**; así como, con las **comunidades indígenas**, por la **vulneración de sus derechos** por la construcción del centro.
+* **Exhortar** al **Presidente de la República y al titular del SNAI** a **suspender de manera inmediata** la ejecución del proyecto de construcción en cumplimiento de los derechos constitucionales y el Derecho Internacional.
+* Exhortar al Presidente de la República a que **desista de imponer la construcción de una cárcel en Napo y todo el territorio amazónico.**
+
+La resolución fue aprobada con **95 votos afirmativos**, 24 negativos, 0 blancos y 2 abstenciones. No existieron votos para la reconsideración.
+
+Las medidas de la población de Napo sobre la cárcel en Archidona
+----------------------------------------------------------------
+
+Mientras esto ocurrió en el Ejecutivo y el Legislativo, la población de Napo se autoconvocó para el **noveno día de protestas** en contra de la construcción de la cárcel en Archidona.
+
+Esto, pese a que el **SNAI** ya adjudicó el contrato este martes 10 de diciembre.
+
+La **Confederación de Nacionalidades Indígenas de la Amazonía Ecuatoriana (Confeniae)**, filial de la **Conaie** en esa región, emitió un pronunciamiento esta tarde para rechazar la construcción de la cárcel.
+
+Lo hizo con el apoyo de la población de **Napo** y siete nacionalidades indígenas de **Pastaza** y líderes de **Orellana**, en el marco de “**Asamblea Popular en Defensa de la Amazonía**“, en la ciudad de Puyo, provincia de Pastaza.
+
+Los líderes indígenas señalaron que se suman “**a la** **lucha y a la resistencia**” de Napo, respaldarán las acciones de protesta y las marchas para lograr la suspensión del proyecto gubernamental.
+
+Tras un diálogo con el Gobierno, las **autoridades indígenas** señalaron que declaran el **estado de emergencia a la región amazónica** y convocaron a otras organizaciones a **sumarse a la resistencia**.
+
+La **radicalización** de las medidas de hecho se anunciarán la tarde de este jueves 12 de diciembre.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/image-2-1024x771.png)
+
+Foto: Confeniae
+
+En tanto, la **Asociación de Municipalidades de Ecuador (AME)** hizo un llamado al Gobierno a priorizar el diálogo y la paz.
+
+> Comunicado | Ligia Caiza, presidenta [#AME](https://twitter.com/hashtag/AME?src=hash&ref_src=twsrc%5Etfw) [#UTR2](https://twitter.com/hashtag/UTR2?src=hash&ref_src=twsrc%5Etfw), solicita priorizar el diálogo y la paz en el cantón [#Archidona](https://twitter.com/hashtag/Archidona?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/Qu1nDkv6kj](https://t.co/Qu1nDkv6kj)
+> 
+> — Municipalidades Ec (@AMEcuador) [December 12, 2024](https://twitter.com/AMEcuador/status/1867025962082185386?ref_src=twsrc%5Etfw)
+
+Vías bloqueadas por las protestas contra la construcción de la cárcel en Archidona
+----------------------------------------------------------------------------------
+
+El **ECU 911** reportó el **cierre de 15 vías en Napo** por manifestaciones, con corte a las 19:59, de este miércoles 11 de diciembre:
+
+* Y DE BAEZA – PAPALLACTA
+* CHONTAPUNTA – COCA
+* AHUANO – CHONTAPUNTA
+* Y DE BAEZA – LAGO AGRIO
+* Y DE NARUPA – ARCHIDONA – TENA
+* Y DE NARUPA – TENA
+* PUERTO NAPO – AHUANO
+* Y DE NARUPA – Y DE BAEZA
+* EL REVENTADOR – Y DE BAEZA
+* Y DE NARUPA – LORETO
+* TENA -BAEZA
+* AHUANO-CHONTAPUNTA
+* TENA – LORETO
+* TENA – PUYO
+* VIA COCA – TENA – Y DE NARUPA  
+      
+    
+
+La violencia de género en Ecuador conlleva sanciones económicas, ¿a dónde van?
+==============================================================================
+
+La violencia de género contempla multas y rubros como reparación integral. Sin embargo, aún hay faltantes en el proceso.
+------------------------------------------------------------------------------------------------------------------------
+
+![La violencia de género repercute en la realidad de menores de edad.](https://www.elcomercio.com/wp-content/uploads/2024/12/multas-femicidio.jpg)
+
+El **femicidio** o asesinato de una niña, adolescente o mujer por el hecho de serlo es una crisis global y regional. Ecuador no está libre.
+
+### Más noticias
+
+* [La violencia de género arrebata vidas, aún hay ‘Esperanza’](https://www.elcomercio.com/opinion/editorial/violencia-genero-arrebata-vidas-aun-hay-esperanza.html "La violencia de género arrebata vidas, aún hay ‘Esperanza’")
+* [El Día de los Derechos Humanos muestra travesía de niños y familias por femicidios](https://www.elcomercio.com/actualidad/ecuador/esperando-verano-travesia-ninos-familias-causa-femicidio-ecuador.html "El Día de los Derechos Humanos muestra  travesía de niños y familias por femicidios")
+* [Pódcast Esperanza se lanza en el Día Internacional de la Eliminación de la Violencia contra las Mujeres](https://www.elcomercio.com/actualidad/seguridad/esperanza-lanza-dia-internacional-eliminacion-violencia-contra-mujeres.html "Pódcast Esperanza se lanza en el Día Internacional de la Eliminación de la Violencia contra las Mujeres")
+
+Violencia de género en Ecuador
+------------------------------
+
+En el país, desde 2014, cuando se tipificó el delito en el **Código Orgánico Integral Penal (COIP)**, hasta noviembre de 2024, se registraron 1 920 casos. Al menos, 1 817 menores quedaron en la orfandad. Así lo reporta Fundación Aldea. 
+
+La **violencia de género**, incluido el femicidio, además de la pena privativa de libertad, conlleva rubros económicos, entre multas y reparación integral.
+
+> 📍En el marco de los [#16Días](https://twitter.com/hashtag/16D%C3%ADas?src=hash&ref_src=twsrc%5Etfw) de Activismo contra la Violencia de Género y en conmemoración del Día de los [#DerechosHumanos](https://twitter.com/hashtag/DerechosHumanos?src=hash&ref_src=twsrc%5Etfw), [@AldeaFundacion](https://twitter.com/AldeaFundacion?ref_src=twsrc%5Etfw) y [@unicefecuador](https://twitter.com/unicefecuador?ref_src=twsrc%5Etfw) presentan la investigación “Esperando el verano: trayectorias de los niños, niñas y adolescentes víctimas de femicidio en… [pic.twitter.com/CdJ6nU09jP](https://t.co/CdJ6nU09jP)
+> 
+> — UNICEF Ecuador (@unicefecuador) [December 10, 2024](https://twitter.com/unicefecuador/status/1866510208186392700?ref_src=twsrc%5Etfw)
+
+Femicidio en Ecuador y las multas
+---------------------------------
+
+**Daniela Rosero**, integrante de Aldea y Legatum, detalla que las multas en cuanto a contravenciones de violencia contra la mujer se especifican en el **artículo 159 del COIP**.
+
+Esos rubros se determinan en concordancia con el artículo 70 del COIP. Entonces, en cuanto a contravenciones, el monto depende del grado de “gravedad” de la **agresión**.
+
+Si en el examen médico de la víctima se determinan, por ejemplo, dos días de incapacidad, significa una pena privativa de libertad de **15 a 30 días** y una multa del 25% de un salario básico unificado.
+
+No obstante, la activista apunta a que las **multas** no se ejecutan. Lo propio, dice, pasa con las reparaciones económicas previstas en las sentencias por femicidios.
+
+Por ejemplo, se ponen montos por **15 000 o 30 000**, pero “no se ha visto ni un dólar de esta cantidad de plata”.
+
+Ese panorama, justamente, es uno de los vacíos en los casos de las víctimas de **violencia de género**: la reparación.
+
+Los destinos de los rubros
+--------------------------
+
+En lo que se refiere a los montos definidos como reparación integral, el dinero debe dirigirse directamente a las **víctimas**. En el caso de femicidio, a las familias. Los valores de las multas, en cambio, van al **Estado**.
+
+Sin embargo, como indican desde la Fiscalía, en casos de femicidio se solicita la protección de algunas instituciones que son parte del sistema de la **Ley de Erradicación de la Violencia a la Mujer**.
+
+En ese grupo están los **Ministerios de Salud, Educación, Inclusión**, entre otras entidades. La premisa es garantizar los derechos de las víctimas indirectas. En este caso, los hijos.
+
+Claro que también se contempla reparación integral no material, de acuerdo con la acusación particular de las víctimas.
+
+**Tanya Torres**, docente de Derecho, alerta que, usualmente, es complicado cobrar a los agresores.
+
+Las **sobrevivientes**, además, no siempre optan por seguir el proceso legal, por las trabas que encuentran.
+
+Torres indica que la **Defensoría Pública** trabaja en una reforma legal para que los defensores se encarguen no solo de llegar hasta las sentencia, sino de todo el procedimiento. Este incluye el cobro y, en general, el cumplimiento de las reparaciones ordenadas por el juez.
+
+La reparación aún falta
+-----------------------
+
+La Fundación Aldea y Unicef realizaron el estudio **Esperando el verano: trayectorias de los niños, niñas y adolescentes víctimas de femicidio en Ecuador**. 
+
+**Alexandra Escobar**, oficial de Política Social de **Unicef** en Ecuador, detalla que el estudio deja claro que el femicidio no solo cobra las vidas de las mujeres, sino que deja deudas en las familias.
+
+La investigación recoge información de 76 hogares en Ecuador con **151 a menores de edad**. El levantamiento se hizo en este 2024, pero abarca casos desde 2014.
+
+Entre los resultados se presentó que alrededor de **1 846 niños, niñas y adolescentes** quedaron en la orfandad. La mayor parte se encuentra en la **Costa y le siguen la Sierra y la Amazonía**.
+
+Los cuidados se complican
+-------------------------
+
+Tras el femicidio, casi siete de cada **10 menores** quedan bajo el cuidado y responsabilidad de una sola persona. Un 16% está a cargo de dos y un 3%, de tres.
+
+De las familias encuestadas, casi la mitad (46%) de niñas, niños y adolescentes quedaron bajo el cuidado de las **abuelas**. Ellas cambian de rol y pasan a ser madres de sus nietos.
+
+El **16%** de los menores fueron separados de sus hermanos u otros familiares debido a que no podían cubrir las necesidades.
+
+Los padres de los menores, cuando no son los femicidas, quedan al cuidado en el 8% de los  
+casos.
+
+Las condiciones de los hogares
+------------------------------
+
+Más de la mitad de los **hogares consultado**s cuentan con ingresos de una sola persona. En el 30% de las familias, dos personas aportan económicamente al hogar.
+
+También existen tres **familias** en las cuales una sola persona cuenta con un trabajo de medio tiempo.  
+No se contó con información de cinco familias.
+
+No obstante, que los **rubros** aporten a la economía de las familias aún es una odisea, empezando porque, en la mayoría de los casos, la sentencia tarda años o, simplemente, no llega.
+
+Ese es el caso de las integrantes de la **Fundación Madres Coraje**, conformada en 2022 y consolidada jurídicamente en 2023. Gran parte de las 35 integrantes no han conseguido sentencia y, mucho menos, reparación integral.
+
+Bono de orfandad
+----------------
+
+Algunas, incluso, han tenido que peregrinar por años para recibir el denominado **Bono de Orfandad**. Este va dirigido a menores que perdieron a sus madres como resultado de un femicidio.
+
+Según el viceministro de Inclusión Económica y Social, **Harold Burbano**, el bono, con corte a noviembre de 2024, se entrega a 507.
+
+No obstante, el funcionario, en una entrevista para Ecuadoradio, reconoció que son muchos más. “La hipótesis es que hay un subrregistro”.
+
+Recordó que el bono se activa tras una **sentencia ejecutoriada** o denuncia en instrucción fiscal.
+
+Los detalles de los casos
+-------------------------
+
+De los **76 casos consultados** en el estudio, el rango de edad con el mayor número de víctimas es el comprendido entre los 26 y 35 años, con un total de **32 víctimas**.
+
+De los **151 menores** incluidos en la investigación, el mayor número tenía entre 6 y 10 años al momento del delito. Para 2024, algunos ya son adolescentes.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres ecuatorianas que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+CTE implementa cámaras ‘bodycam’ en sus agentes, ¿qué pasa si no las encienden?
+===============================================================================
+
+La Comisión de Tránsito del Ecuador (CTE) implementó el uso obligatorio de 'bodycam' en sus agentes desde el 10 de diciembre.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes de tránsito de la CTE están obligados a utilizar las cámaras corporales todo el tiempo](https://www.elcomercio.com/wp-content/uploads/2024/12/agentes-transito-cte-bodycam.jpg)
+
+La **Comisión de Tránsito del Ecuador** (CTE) implementó una nueva regulación para sus **agentes**. Se trata del uso obligatorio de **dispositivos de videograbación**, conocidos como ‘**bodycam**‘.
+
+### Más noticias
+
+* [Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro](https://www.elcomercio.com/actualidad/seguridad/ministerio-defensa-despliegue-militares-el-oro.html "Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro")
+* [Policía captura a miembros de Las Águilas, entre ellos el cabecilla](https://www.elcomercio.com/actualidad/seguridad/policia-captura-a-miembros-las-aguilas-entre-ellos-cabecilla.html "Policía captura a miembros de Las Águilas, entre ellos el cabecilla")
+* [Diciembre, un mes propicio para la prevención los siniestros de tránsito](https://www.elcomercio.com/opinion/editorial/diciembre-mes-propicio-prevencion-siniestros-transito.html "Diciembre, un mes propicio para la prevención los siniestros de tránsito")
+
+Estos aparatos electrónicos fueron dotados a los encargados del tránsito y la movilidad para que los utilicen durante **toda su jornada laboral**. La medida se aplicó desde este martes **10 de diciembre** de 2024.
+
+CTE busca reducir la corrupción en los procedimientos
+-----------------------------------------------------
+
+Según explicó la CTE, el objetivo de la implementación de las ‘bodycam’ es garantizar la **transparencia** en los procedimientos viales, entre los conductores y los agentes. De esta forma se busca que los casos de **corrupción** o mala aplicación de la ley disminuyan.
+
+Los agentes deberán utilizar estos electrónicos, que vienen integrados en sus uniformes, **todo el tiempo**.
+
+En caso de que los ciudadanos detecten que **no estén prendidos** mientras se realiza una intervención, la CTE recomendó a los usuarios que le exijan al agente el respectivo encendido.
+
+Cuando el ‘bodycam’ está funcionando, una **luz roja** parpadea constantemente.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDZhFxER3xM/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Comision de Tránsito del Ecuador (@comisiondetransitodelecuador)](https://www.instagram.com/reel/DDZhFxER3xM/?utm_source=ig_embed&utm_campaign=loading)
+
+Sanciones para agentes de tránsito que no utilicen las ‘bodycam’
+----------------------------------------------------------------
+
+Si los colaboradores de la CTE no utilizan los dispositivos, los conductores están en su derecho de **denunciarlos** a la entidad.
+
+Esta acción será considerada como una **falta grave** que, según el Código Orgánico de Entidades de Seguridad Ciudadana y Orden Público (Coescop) se sanciona con el **8 %** de la remuneración mensual que percibe el servidor.
+
+CTE suspendió operativos de control
+-----------------------------------
+
+La CTE informó que a partir del 6 de diciembre de 2024, **se suspendieron los operativos de control**, “sin excepción alguna”[.](https://www.comisiontransito.gob.ec/ "https://www.comisiontransito.gob.ec/")
+
+Esto, porque sus agentes se sumarán a los Controles de Armas, Municiones y Explosivos (**Camex**), junto a la **Policía Nacional** y las **Fuerzas Armadas**.
+
+El personal de la Dirección de Asuntos Internos (**DAI**) es el encargado de supervisar que se cumpla esta disposición.
+
+La Comisión de Tránsito del Ecuador **opera en siete provincias**: Guayas, Santa Elena, Los Ríos, Azuay, El Oro, Manabí y Santo Domingo de los Tsáchilas.
+
+Registro Civil anuncia última jornada extra para emisión de cédulas y pasaportes
+================================================================================
+
+El Registro Civil atenderá en agencias de tres provincias durante la jornada extra para cédulas y pasaportes.
+-------------------------------------------------------------------------------------------------------------
+
+![Agencias del Registro Civil atenderán en la última jornada extra para cédulas y pasaportes.](https://www.elcomercio.com/wp-content/uploads/2024/04/registro-civil-cedula-el-comercio.jpg)
+
+El **Registro Civil** anunció la última jornada extraordinaria para la emisión de **cédulas y pasaportes** en lo que resta de 2024, este miércoles 11 de diciembre.
+
+Habrá **cinco agencias habilitadas** para la atención a la ciudadanía con estos servicios en todo el país.
+
+### Más noticias:
+
+* [Ejército ecuatoriano abrirá inscripciones en enero de 2025](https://www.elcomercio.com/actualidad/ecuador/ejercito-ecuatoriano-abrira-inscripciones-enero-2025.html "Ejército ecuatoriano abrirá inscripciones en enero de 2025")
+* [Daniel Noboa reducirá Impuesto a la Salida de Divisas](https://www.elcomercio.com/actualidad/politica/daniel-noboa-reduce-impuesto-de-salida-de-divisas.html "Daniel Noboa reducirá Impuesto a la Salida de Divisas")
+
+Agencias habilitadas para la jornada extra del Registro Civil de emisión de cédulas y pasaportes
+------------------------------------------------------------------------------------------------
+
+El Registro Civil llevará a cabo la última jornada extraordinaria del año para la emisión de pasaportes y cédulas en las ciudades de **Quito, Guayaquil y Cuenca**.
+
+El usuario que requiera el servicio debe pagar la tarifa y agendar un turno a través de la **Agencia Virtual del Registro Civil** en la página oficial: www.registrocivil.gob.ec.
+
+El **turno** es completamente **gratuito** y debe ser solicitado por la persona que requiera el servicio.
+
+El Registro Civil realizará la jornada extraordinaria el **sábado 14 de diciembre** de 2024, en el horario de **8:00 a 17:00**.  
+  
+Las cinco **agencias habilitadas** para esta jornada de emisión de cédulas y pasaportes son:
+
+* **Pichincha**: Quito, Iñaquito Matriz, en av. Amazonas y Naciones Unidas.
+* **Guayas**: Gobierno Zonal, en av. Francisco de Orellana y Justino Cornejo.
+* **Guayas**: Centro (Rocafuerte), en av. 9 de Octubre 203 y Pichincha (solo cédula).
+* **Azuay**: Cuenca (San Blas), en Alfonso Jerves y Alfonso Malo.
+* **Azuay**: Bellavista, en Luis Cordero y av. Héroes de Verdeloma (solo cédula).
+
+En el año 2024, el Registro Civil del Ecuador ha ejecutado **10 jornadas** de fines de semana y 2 jornadas ampliadas, del 15 al 19 de enero y del 8 al 19 de abril.
+
+Esto ha beneficiado a más de **231 mil ecuatorianos** en total.
+
+### Costos y requisitos
+
+La **tarifa** de emisión de **cédula** por renovación es de **16 dólares**. Para **pasaporte** el costo es de **90 dólares**.
+
+Es obligatorio que el usuario presente el **comprobante de pago** impreso, la cédula o pasaporte anterior, en caso de renovación.
+
+Por pérdida o robo se requiere la constancia impresa o digital del **Formulario de Documentos Extraviados del Consejo de la Judicatura**, accesible en el siguiente enlace: https://goo.su/BUnGxpZ.
+
+Los **trámites son personales**. Solo podrá ingresar la persona que haya agendado el turno.
+
+**No se permitirá** la entrada de acompañantes, ni de mochilas o maletas, para garantizar el orden y la seguridad en el proceso.
+
+La ducha antes del sexo, ¿un paso necesario o exagerado?
+========================================================
+
+La higiene íntima antes de mantener relaciones sexuales genera diversas opiniones.
+----------------------------------------------------------------------------------
+
+![Un exceso en la higiene íntima puede alterar la flora vaginal natural. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-11T170119.482.jpg)
+
+La **higiene íntim**a antes de mantener **relaciones sexuales** es un tema que genera diversas opiniones y prácticas. A continuación, te presentamos los **pros y contras** de **bañarse** antes de ‘**encontrarnos**‘ con nuestro ser amado.
+
+### **Más noticias:**
+
+* [¿Quieres un juguete sexual? Una experta te ayuda a elegir al compañero ideal](https://www.elcomercio.com/tendencias/bienestar/juguete-sexual-companero-ideal-seleccion-pareja.html "https://www.elcomercio.com/tendencias/bienestar/juguete-sexual-companero-ideal-seleccion-pareja.html")
+* [Los efectos secundarios de los comestibles para el placer sexual](https://www.elcomercio.com/tendencias/bienestar/efectos-secundarios-comestibles-placer-sexual.html "https://www.elcomercio.com/tendencias/bienestar/efectos-secundarios-comestibles-placer-sexual.html")
+* [Sexo programado para contrarrestar la rutina diaria](https://www.elcomercio.com/tendencias/bienestar/sexo-programado-parejas-hombres-mujeres-relaciones-sexuales.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/bienestar/sexo-programado-parejas-hombres-mujeres-relaciones-sexuales.html?source=Internal&ref=Single+Content+Link") 
+
+**La ducha antes del sexo, ¿un paso necesario o exagerado?**
+------------------------------------------------------------
+
+**Seis** de siete personas están a favor del duchazo antes de mantener **relaciones sexuales**. Alejandro (27 años) afirma que “esa es una forma de **prevenir** enfermedades”.
+
+Sin embargo, apunta que hay “**excepciones**“.
+
+Camila (37 años) es otra de las personas que jamás mantendría una **relación sexual** sin un previo duchazo. “Tengo pánico a los gérmenes; los dos nos duchamos”.
+
+Cristina (43 años) es la única del grupo encuestado que “haría el amor” sin preocuparse de ese paso. “¿Qué hago si nos da ganas en plena carretera?”.
+
+**Pros de bañarse antes de tener relaciones sexuales**
+------------------------------------------------------
+
+* **Sensación de limpieza**: Muchas personas se sienten más cómodas y seguras al estar limpias antes de un encuentro sexual. Esto puede mejorar la experiencia y la conexión con la pareja.
+* **Prevención de olores**: Una ducha rápida puede ayudar a eliminar olores corporales que podrían resultar incómodos durante el acto sexual, contribuyendo a una mejor intimidad.
+* **Higiene general**: Mantener una buena higiene personal es crucial para prevenir infecciones y mantener la salud sexual.
+
+**Contras de bañarse antes de tener relaciones sexuales**
+---------------------------------------------------------
+
+* **Alteración de la microbiota**: Un exceso en la higiene íntima, como el uso excesivo de jabones o duchas vaginales, puede alterar la flora vaginal natural, aumentando el riesgo de infecciones. Lo afirma -en su página web- la Organización Mundial de la Salud.
+* **Incomodidad por rituales excesivos**: Algunas personas pueden sentir que ducharse antes del sexo se convierte en un ritual tedioso, lo que podría restar espontaneidad a la relación.
+
+Las Sociedades Anónimas Deportivas con luz verde en Ecuador
+===========================================================
+
+En Ecuador aun no existen las Sociedades Anónimas Deportivas ligadas al fútbol profesional.
+-------------------------------------------------------------------------------------------
+
+![Imagen referencial de la previa de un partido de la Liga Pro en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/sad_1.jpg)
+
+Desde el martes **10 de diciembre de 2024 se publicó en el Registro Oficial** el decreto de la Ley Orgánica para la Mejora Recaudatoria a través del Combate al Lavado de Activos, más conocido como la ‘Ley Antipillos’.
+
+La referida ley tiene injerencia directa en el deporte ecuatoriano, y en particular en el fútbol, el deporte de **mayor acogida popular y el que más ingresos genera anualmente** por concepto de auspiciantes y derechos de televisión, entre otros.
+
+### Más noticias:
+
+* [Dragonas IDV despidió a Nayely Bolaños con emotivo video](https://www.elcomercio.com/deportes/futbol/nayely-bolanos-pumas-debut-brasil.html "Dragonas IDV despidió a Nayely Bolaños con emotivo video")
+* [La millonaria cifra que el Mundial FIFA aportará a un país anfitrión](https://www.elcomercio.com/deportes/futbol/millonaria-cifra-mundial-2026-pais-anfitrion-fifa.html "La millonaria cifra que el Mundial FIFA aportará a un país anfitrión")
+* [FIFA confirma a Arabia Saudí como sede del Mundial 2034](https://www.elcomercio.com/deportes/futbol/sede-mundial-2034-fifa-arabia-saudi.html "FIFA confirma a Arabia Saudí como sede del Mundial 2034")
+
+¿Qué son las SAD?
+-----------------
+
+A pesar que esta ley no es reconocida por parte de la Asamblea Nacional, el **Gobierno central hizo caso omiso a esta postura** y ordenó que el cuerpo legal ya está en vigencia y sea parte de la normativa que rige a los ecuatorianos.
+
+En esencia, las Sociedades Anónimas Deportivas (SAD) son entidades conformadas por individuos que comparten intereses similares. Y su **propósito es participar en competiciones deportivas de carácter profesional**, con el añadido de que buscan generar beneficios económicos.
+
+Este modelo de gestión difiere del que se utiliza en la mayoría de los clubes de fútbol profesional a nivel global.
+
+En Ecuador, **según lo estipulado en la actual Ley del Deporte**, todos los clubes profesionales están organizados como sociedades civiles sin fines de lucro. Estas instituciones son propiedad de sus socios en su totalidad.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-3-1024x683.jpg)
+
+¿Qué dice la Ley sobre las SAD?
+-------------------------------
+
+La ‘Ley Antipillos’ menciona en su sexta disposición transitoria que se tiene que reformar la **Ley del Deporte, Educación Física y Recreación** en su artículo 15, donde establece que las SAD, además de ser entidades de derecho privado, podrán perseguir los fines que establezcan en sus estatutos y en la Ley de Compañías.
+
+“En ningún caso estas estructuras servirán para facilitar el lavado de activos”, mencionan.
+
+El artículo 16.4 se refiere específicamente a los clubes o equipos profesionales. Indican “(…) **que los clubes deportivos o equipos que participen** en deportes profesionales para adoptar la forma jurídica de” una SAD, que estarán sujetas al régimen general de las sociedades mercantiles, la ley en cuestión y su reglamento.
+
+Dejan claro que esta prohibida “la participación societaria, accionaria y administrativa de una persona natural o jurídica en más de una” SAD que estén en un mismo deporte, directa o indirectamente, o a través de un tercero.
+
+Agregan que una SAD podrá ser “titular federativo de mas de un club”, pero se debe hacer la diferenciación que no tienen que militar “en el mismo deporte, categoría y serie”, es decir, algo **similar a lo que pasa con las filiales de los equipos de la A y B** que no pueden competir en el mismo torneo, tal como se aplica en la Liga Pro.
+
+En el siguiente artículo se refieren a la liga profesional. Dictaminan que en toda “**competición oficial de deportes colectivos profesionales**, existirá una liga profesional por deporte”, que se encargará de toda la organización de su “respectiva disciplina”.
+
+Explican que la liga profesional debe tener “personería jurídica propia, autonomía técnica, administrativa y financiera (…) y se **[constituirá con al menos cinco Sociedades Anónimas Deportivas](http://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiMDBmOWM3MWEtZTgwNS00MzU1LTg1NzAtYzBiMmRkMDY1ZGRmLnBkZiJ9)**“.
+
+En **un plazo máximo de 90 días** desde su entrada en vigor, la Superintendencia de Compañías debe emitir la normativa secundaria para que los clubes deportivos, equipos u otras sociedades civiles sin fines de lucro que participen en el deporte profesional adopten la forma jurídica de las SAD.
+
+San viernes
+-----------
+
 Liga de Quito va por el tercer bicampeonato de su historia
 ==========================================================
 
@@ -658,98 +1227,6 @@ Guarango subrayó que este **conflicto no puede analizarse únicamente desde la 
 
 Este enfoque, según Guarango, respalda la decisión de la Asamblea y pone en duda la validez de la publicación de la ‘Ley Antipillos’.
 
-Cárcel en Archidona: Gobierno, Asamblea y población tomaron decisiones
-======================================================================
-
-La protestas por la cárcel de Archidona generan el cierre de 15 vías que conectan a Napo con Quito y otras localidades.
------------------------------------------------------------------------------------------------------------------------
-
-![Noveno día de protestas contra la construcción de la cárcel de máxima seguridad en Archidona.](https://www.elcomercio.com/wp-content/uploads/2024/12/carcel-archidona.jpg)
-
-El **Gobierno** de **Daniel Noboa**, una mayoría en el Pleno de la **Asamblea** y la **población de Napo** tomaron decisiones sobre la **cárcel en Archidona**, en las últimas horas.
-
-El Gobierno busca construir una **segunda cárcel de máxima seguridad**, de características similares a la que ya se edifica en **Santa Elena**.
-
-### Más noticias:
-
-* [Las protestas se mantienen en Napo por la construcción de la cárcel en Archidona](https://www.elcomercio.com/actualidad/seguridad/protestas-napo-carcel-archidona.html "Las protestas se mantienen en Napo por la construcción de la cárcel en Archidona")
-* [Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-cambio-gobernado-napo-carcel.html "Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel")
-
-Gobierno, Asamblea y población tomaron decisiones sobre la construcción de la cárcel en Archidona
--------------------------------------------------------------------------------------------------
-
-Una de las **ofertas de campaña** de **Daniel Noboa** para llegar a la Presidencia en 2023 fue la construcción de dos cárceles de máxima seguridad en Ecuador.
-
-La primera ya se construye en **Santa Elena** y tiene un avance de más del 30%, con una inversión de **52 millones de dólares.**
-
-El Gobierno tiene prevista la construcción de la segunda en Archidona, cantón de la provincia del Napo.
-
-La adjudicación del Gobierno para la construcción de la cárcel en Archidona
----------------------------------------------------------------------------
-
-El **Servicio Nacional de Atención a Personas Privadas de la Libertad y Adolescentes Infractores (SNAI) adjudicó** el martes 10 de diciembre el proceso de “**Construcción y equipamiento del centro de privación de libertad en Archidona**“.
-
-El proceso tiene previsto un presupuesto de **51 970 087 millones de dólares** y fue declarado **reservado**, al igual que el de la cárcel de Santa Elena.
-
-Bajo el tipo de “**contrataciones con empresas públicas internacionales**“, lo que se conoce del proceso es una invitación a participar.
-
-La Comisión Técnica recomendó la adjudicación del proceso a **la compañía Puentes Y Calzadas Infraestructuras S.L.**, subsidiaria de la empresa estatal **China Road And Bridge Corporation**, única empresa a la que se invitó.
-
-Esta empresa es la misma que fue **invitada** para construir la cárcel de máxima seguridad de Santa Elena.
-
-La resolución de exhorto de la Asamblea sobre la cárcel de Archidona
---------------------------------------------------------------------
-
-La tarde de este miércoles, en el **Pleno de la Asamblea**, un grupo de asambleístas amazónicos impulsaron la aprobación de una resolución sobre la cárcel de Archidona.
-
-La asambleísta de Napo, **Sandra Rueda**, presentó una moción de resolución con varios puntos, tras señalar que existe preocupación por las implicaciones sociales, culturales y ambientales de la obra.
-
-Esto, debido a que el centro está ubicado en una **zona urbana** del cantón, cercano a establecimientos educativos, provocando inseguridad entre estudiantes y padres de familia.
-
-* **Solidarizarse** con el **pueblo de Archidona y la provincia del Napo**, en particular con **niños, niñas y adolescentes**; así como, con las **comunidades indígenas**, por la **vulneración de sus derechos** por la construcción del centro.
-* **Exhortar** al **Presidente de la República y al titular del SNAI** a **suspender de manera inmediata** la ejecución del proyecto de construcción en cumplimiento de los derechos constitucionales y el Derecho Internacional.
-* Exhortar al Presidente de la República a que **desista de imponer la construcción de una cárcel en Napo y todo el territorio amazónico.**
-
-La resolución fue aprobada con **95 votos afirmativos**, 24 negativos, 0 blancos y 2 abstenciones. No existieron votos para la reconsideración.
-
-Las medidas de la población de Napo sobre la cárcel en Archidona
-----------------------------------------------------------------
-
-Mientras esto ocurrió en el Ejecutivo y el Legislativo, la población de Napo se autoconvocó para el **noveno día de protestas** en contra de la construcción de la cárcel en Archidona.
-
-Esto, pese a que el **SNAI** ya adjudicó el contrato este martes 10 de diciembre.
-
-La **Confederación de Nacionalidades Indígenas de la Amazonía Ecuatoriana (Confeniae)**, filial de la **Conaie** en esa región, emitió un pronunciamiento esta tarde para rechazar la construcción de la cárcel.
-
-Lo hizo con el apoyo de la población de **Napo** y siete nacionalidades indígenas de **Pastaza** y líderes de **Orellana**, en el marco de “**Asamblea Popular en Defensa de la Amazonía**“, en la ciudad de Puyo, provincia de Pastaza.
-
-Los líderes indígenas señalaron que se suman “**a la** **lucha y a la resistencia**” de Napo, respaldarán las acciones de protesta y las marchas para lograr la suspensión del proyecto gubernamental.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/image-2-1024x771.png)
-
-Vías bloqueadas por las protestas contra la construcción de la cárcel en Archidona
-----------------------------------------------------------------------------------
-
-El **ECU 911** reportó el **cierre de 15 vías en Napo** por manifestaciones, con corte a las 19:59, de este miércoles 11 de diciembre:
-
-* Y DE BAEZA – PAPALLACTA
-* CHONTAPUNTA – COCA
-* AHUANO – CHONTAPUNTA
-* Y DE BAEZA – LAGO AGRIO
-* Y DE NARUPA – ARCHIDONA – TENA
-* Y DE NARUPA – TENA
-* PUERTO NAPO – AHUANO
-* Y DE NARUPA – Y DE BAEZA
-* EL REVENTADOR – Y DE BAEZA
-* Y DE NARUPA – LORETO
-* TENA -BAEZA
-* AHUANO-CHONTAPUNTA
-* TENA – LORETO
-* TENA – PUYO
-* VIA COCA – TENA – Y DE NARUPA  
-      
-    
-
 Los videojuegos más esperados por la comunidad ‘gamer’ en 2025 
 ===============================================================
 
@@ -819,407 +1296,3 @@ A nivel global, el **interés por los videojuegos** ha crecido exponencialmente.
 El año 2025 promete ser muy bueno para la **comunidad ‘gamer’ en Ecuador**. Con lanzamientos esperados como ‘GTA VI’, los ‘gamers’ tienen motivos para estar emocionados.  
 
 ### Te recomendamos:
-
-Donald Trump será nombrado ‘Persona del año’ por la revista Time, según varios medios
-=====================================================================================
-
-Time desveló hace varios días su lista de finalistas para el galardón que comunicará mañana 12 de diciembre de 2024.
---------------------------------------------------------------------------------------------------------------------
-
-![Donald Trump en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/12/Donald-Trump-efe-26.jpg)
-
-El presidente electo [Donald Trump](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump") será nombrado el 12 de diciembre de 2024, ‘Persona del año’ por la revista Time. Esta distinción la concede por segunda vez después de que ya lo hiciera en 2016, según adelantan este miércoles **varios medios como CNN o Político.**
-
-### Más noticias
-
-* [Justin Trudeau contraataca a Donald Trump](https://www.elcomercio.com/actualidad/mundo/justin-trudeau-contraataca-donald-trump.html "Justin Trudeau contraataca a Donald Trump")
-* [Donald Trump plantea reformas a visas y ‘Green Cards’ para migrantes](https://www.elcomercio.com/actualidad/mundo/donald-trump-plantea-reformas-clave-politicas-migratorias-ee-uu.html "Donald Trump plantea reformas a visas y ‘Green Cards’ para migrantes")
-* [Nuera de Donald Trump deja el Partido Republicano y podría ir al Senado](https://www.elcomercio.com/actualidad/mundo/nuera-donald-trump-deja-direccion-del-partido-republicano-podria-senado.html "Nuera de Donald Trump deja el Partido Republicano y podría ir al Senado")
-
-Esa es la razón de que Trump reservó mañana el **toque de campana en Wall Street,** que representa la apertura de la bolsa a las 9:30 ya que será un modo de **celebrar ese galardón,** según resaltaron fuentes no identificadas a esos medios.
-
-No es habitual que una misma persona sea reconocida dos veces por la revista Time, pero sí que la publicación **reconozca a presidentes de Estados Unidos**: hasta 13 veces fueron considerados los presidentes ‘Persona del año’, incluido Joe Biden.
-
-Time desveló hace varios días su **lista de finalistas para el galardón** que comunicará mañana, y en ella estaban, además de Trump, el **primer ministro israelí Benjamin Netanyahu**, el magnate Elon Musk, la vicepresidenta Kamala Harris y la princesa Catalina de Gales.
-
-Antes de ser reconocido en 2016, Trump tuvo palabras poco amables con Time y su famosa lista. Las calificó como “una broma y un **truco publicitario de una revista** que pronto estará muerta”, pero tras su aparición en 2016 cambió radicalmente de tono. “Esto significa mucho para alguien que, como yo, creció leyendo Time: es una revista muy importante”, dijo entonces, como recuerda Politico.
-
-Además de la Persona del año, Time eligió ya en días pasados al Atleta del año (la baloncestista Caitlin Clark), Ícono del año (el cantante Elton John) y CEO del año (Lisa Su, directora ejecutiva de Advanced Micro Devices). 
-
-El Sparta Praga de Angelo Preciado, al borde de la eliminación en Champions
-===========================================================================
-
-El Sparta Praga de Angelo Preciado volvió a sumar una derrota en la UEFA Champions League y está al borde de la eliminación.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Tomas Wieser, compañero de Angelo Preciado en el Sparta Praga, pelea un balón contra un rival del Feyenoord.](https://www.elcomercio.com/wp-content/uploads/2024/12/34ad90111a78625e646df78637a64e22fb3c80a3.jpg)
-
-El **Feyenoord**, impulsado por un arranque fulgurante, favorecido por un ritmo alocado y por la fragilidad de su adversario, se reencontró ante el frágil **Sparta Praga**, que no contó con Angelo Preciado, con el triunfo en la Liga de Campeones (4-1), en modo goleada que culminó el mexicano Santi Giménez, que le devuelve a los puestos de clasificación de los que provisionalmente había salido.
-
-El conjunto de **Brian Priske** está otra vez entre los veinticuatro equipos que apuntan a la continuidad en el torneo. No está para ambiciones mayores. Los ocho primeros lugares quedan lejos. Pero ha conseguido enderezar su recorrido europeo que se afeó con la derrota contra el Salzburgo porque el empate contra el **Manchester City** resultó gratificante. Evitó la derrota en Inglaterra después de tener el marcador en contra por 3-0.
-
-### Más noticias:
-
-* [El FC Barcelona acaricia los octavos de la Champions](https://www.elcomercio.com/deportes/futbol/barcelona-dortmund-resultado-champions-league.html "El FC Barcelona acaricia los octavos de la Champions")
-* [El Liverpool queda a un paso de octavos de Champions](https://www.elcomercio.com/deportes/liverpool-octavos-champions-girona.html "El Liverpool queda a un paso de octavos de Champions")
-* [Piero Hincapié y Leverkusen vencen al Inter de Milán en Champions](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-champions.html "Piero Hincapié y Leverkusen vencen al Inter de Milán en Champions")
-
-El r**epresentante neerlandés** alargó la dinámica y la inspiración que le reactivó en el Etihad y sumó otro triunfo, el tercero en los seis encuentros europeos que ha jugado.
-
-Ante el Sparta, que no pudo evitar su cuarta derrota seguida y quinto encuentro sin perder, puso de cara el choque con dos goles en dos minutos antes del cuarto de hora inicial. Porque abrió el marcador en un saque de esquina que despejó mal **Elias Cobbaut**. Gernot Trauner se vio con el balón en los pies y solo tuvo que empujar a la red. Era en 9. Uno después, casi tras el saque de centro visitante, Antoni Milambo robó el balón al Sparta y se lo envió a **Santi Giménez**. El mexicano, en la rápida transición, encontró a Igor Paixao que con espacio, a campo abierto, batió desde fuera del área otra vez a Peter Vindahl.
-
-Era una avalancha, en plena inspiración del cuadro de Rotterdam que pudo hacer el tercero en el 19, por medio de **Milambo** y que salvó, con el pie, como pudo, el portero checo.
-
-No pudo evitarlo, sin embargo, a la media hora. Un golazo. Desde el vértice del área. Obra de Anis Haj Moussa tras recibir el balón de **Bart Nieuwkoop** que, a media altura, con gran efecto, alcanzó la red.
-
-El Sparta Praga de Angelo Preciado encontró el gol, pero no bastó
------------------------------------------------------------------
-
-En plena locura todo podía pasar y aprovechó el Sparta su momento para recortar las distancias y regresar al partido en pleno correcalles. En un saque de banda largo, al área, que alargó de cabeza **Asger Sorensen** y que despejó mal un defensa. Le llegó, en el segundo palo, al kosovar **Albion Rrahmani** que alargó la pierna y alcanzó para marcar.
-
-Dio la sensación de reaccionar el equipo de Lars Frijs a la vuelta de vestuarios. Lukas Sadilek pudo hacer el segundo pero salió al paso Timon Wellenreuther y después **Santi Giménez** hacer el cuarto. Y luego Veljko Birmancevir otra vez para el Sparta. Hasta que el Feyenoord acertó y estableció la goleada.
-
-Fue el reencuentro de Giménez con el acierto. En su sitio, de ariete. De primeras aprovechó un error de la zaga visitante para enviar a la red un balón al área de **Anis Hadj Moussa**[.](https://en.wikipedia.org/wiki/UEFA_Champions_League "https://en.wikipedia.org/wiki/UEFA_Champions_League")
-
-El partido se rompió del todo con mucho por jugar y los goles se acercaron a uno y otro lado. Pero fue para el Sparta el segundo, en propia puerta de **Thomas Beelen** tres minutos después de que el VAR anulara por fuera de juego el anotado por Veljko Birmancevic.
-
-Alineaciones del Feyenoord y el Sparta Praga
---------------------------------------------
-
-4 – **Feyenoord**: Timon Wellenreuther; Bart Nieuwkoop (Hugo Bueno, m.75), Gernot Trauner, Dávid Hancko, Gijs Smal (Thomas Beelen, m.58); Hwang In-beom (Ramiz Zerrouki, m.75), Antoni Milambo, Quinten Timber; Anis Hadj Moussa (Calvin Stengs, m.75), Santiago Giménez (Ibrahim Osman, m.68) e Igor Paixão.
-
-2 – **Sparta Praga**: Peter Vindahl; Martin Vitik, Asger Sorensen, Elias Cobbaut (Filip Panak, m.68); Tomas Wiesner, Lukas Sadilek, Markus Solbakken (Qazim Laci, m.68), Kaan Kairinen, Matej Rynes (Jarsolav Zeleny, m.83); Albino Rrahmani (Victor Olatunji, m.77) y Veljko Birmancevic (Ermal Krasniqi, m.77).
-
-**Goles**: 1-0, m.9: Gernot Trauner; 2-0, m.10: Igor Paixao; 3-0, m.31: Anis Hadji Moussa. 3-1, m.43: Albion Rrahmani; 4-1, m.63: Santi Giménez; 4-2, m.79: Thomas Beelen, en propia puerta.
-
-Kylian Mbappé pierde demanda ante el PSG
-========================================
-
-Kylian Mbappé, actual jugador del Real Madrid, pedía una suma superior a los 55 millones de dólares.
-----------------------------------------------------------------------------------------------------
-
-![El delantero francés del Real Madrid Kylian Mbappé durante el partido de la jornada 19 de LaLiga que Girona FC y Real Madrid.](https://www.elcomercio.com/wp-content/uploads/2024/12/mbappe_demanda_1.jpg)
-
-La Comisión de Disciplina de la Liga de Fútbol Profesional de Francia (LFP) **no impondrá ninguna sanción al PSG** por el litigio entre el club y su exjugador Kylian Mbappé, pues no admitió a trámite la demanda del delantero sobre los impagos de sus últimos salarios y primas.
-
-En un comunicado, la LFP justificó este miércoles 11 de diciembre de 2024, su **decisión por el recurso que el club parisino ha interpuesto** ante la Justicia ordinaria contra la propia Liga francesa en vistas de anular las dos decisiones en las que el organismo instaba al PSG a pagar 57,7 millones de dólares a Mbappé.
-
-### Más noticias:
-
-* [Dragonas IDV despidió a Nayely Bolaños con emotivo video](https://www.elcomercio.com/deportes/futbol/nayely-bolanos-pumas-debut-brasil.html "Dragonas IDV despidió a Nayely Bolaños con emotivo video")
-* [La millonaria cifra que el Mundial FIFA aportará a un país anfitrión](https://www.elcomercio.com/deportes/futbol/millonaria-cifra-mundial-2026-pais-anfitrion-fifa.html "La millonaria cifra que el Mundial FIFA aportará a un país anfitrión")
-* [FIFA confirma a Arabia Saudí como sede del Mundial 2034](https://www.elcomercio.com/deportes/futbol/sede-mundial-2034-fifa-arabia-saudi.html "FIFA confirma a Arabia Saudí como sede del Mundial 2034")
-
-¿Cómo fue el reclamo de Mbappé?
--------------------------------
-
-Ante esa situación, “la Comisión de Disciplina concluye que **no es posible tramitar la demanda formulada** por el señor Kylian Mbappé”, señaló la instancia rectora del campeonato francés.
-
-Tanto el 11 de septiembre como el 25 de octubre, dos instancias de la LFP (la Comisión Jurídica y la de Apelación) habían instado al PSG a pagar los 57,7 millones a Mbappé.
-
-El jugador del Real Madrid apeló entonces a la Comisión de Disciplina de la LFP en vistas de que sancionasen rápidamente a su antiguo club, algo que no ha sucedido y que **supone un revés para los intereses del campeón del mundo en 2018**.
-
-“Estamos muy contentos de que la Comisión de Disciplina haya decidido no sancionar al PSG como pedía el futbolista”, señaló un portavoz del club, en un comunicado enviado a EFE.
-
-La misma fuente destacó que se abre la puerta a “**una solución amistosa**” que el club siempre quiso y acusó a su antigua estrella de “mala fe” en todo este proceso.
-
-![EFE.](https://www.elcomercio.com/wp-content/uploads/2024/12/mbappe_demanda_2-1024x683.jpg)
-
-EFE.
-
-El PSG advierte a Mbappé
-------------------------
-
-La entidad parisina alertó, en todo caso, de que estará “**lista para exponer completamente la situación**” en caso de que Mbappé “persista a no respetar a lo que se comprometió de manera pública y privada” y siga con su demanda en un tribunal del ámbito laboral.
-
-El PSG sostiene que **había llegado con Mbappé a un acuerdo verbal en el verano de 2023** para desbloquear la decisión de los propietarios cataríes del club francés de apartarle de la primera plantilla a principios de la pasada temporada por negarse a renovar.
-
-Ese trato, al que **Mbappé aludió en alguna ocasión ante la prensa**, es al que se aferra el PSG para no pagar esa suma, pero los abogados del jugador lo consideran inválido y caduco.
-
-San viernes
------------
-
-Manchester City en riesgo de quedar fuera de la Champions League
-================================================================
-
-El Manchester City sumó su tercer partido consecutivo sin ganar en la Champions League, complicando seriamente su clasificación a la siguiente ronda.
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Jack Grealish, jugador del Manchester City, en un partido de Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-11T171350.459.jpg)
-
-La temporada 2024/25 del equipo dirigido por **Pep Guardiola** está siendo irregular tanto en la **Premier League** como en el torneo europeo. Este miércoles 11 de diciembre, los ‘Citizens’ sufrieron una nueva derrota en la **Champions League**, esta vez ante la **Juventus** en Italia.
-
-El equipo italiano se impuso 2-0 con goles de **Dušan V****lahović** y **Weston McKennie** en la sexta jornada del torneo, la última que se disputará en este año.
-
-### Más noticias:
-
-* [El FC Barcelona acaricia los octavos de la Champions](https://www.elcomercio.com/deportes/futbol/barcelona-dortmund-resultado-champions-league.html "El FC Barcelona acaricia los octavos de la Champions")
-* [El Liverpool queda a un paso de octavos de Champions](https://www.elcomercio.com/deportes/liverpool-octavos-champions-girona.html "El Liverpool queda a un paso de octavos de Champions")
-* [Piero Hincapié y Leverkusen vencen al Inter de Milán en Champions](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-champions.html "Piero Hincapié y Leverkusen vencen al Inter de Milán en Champions")
-
-El City sumó el enésimo capítulo negativo de una temporada para el olvido. Envuelto en el juicio más mediático del fútbol y atravesando el peor momento desde que **Guardiola** está en el banquillo -con 6 derrotas y 1 victoria en los últimos 9 encuentros-, el City llegó a Turín con la obligación de ganar a una ‘Juve’ que no estaba en mucha mejor forma.
-
-Sobre todo porque en enero, los ‘cityzens’ viajarán a **Francia para medirse a un PSG** también en apuros, en lo que será otro enfrentamiento directo y puede que decisivo.
-
-Juventus complicó al City
--------------------------
-
-Fue otro partido que dejó entrever las numerosas costuras de los ingleses. La ‘**Juve**‘, sin mucho que proponer, con solo 1 victoria en los últimos 6 partidos, también algo condicionada por las lesiones, consiguió frenar la maquinaria rival y, cuando tuvo su oportunidad, aprovechó para matar a un equipo muy mermado.
-
-Se le notó espeso al combinado mancuniano. Lento en circulación, esperando que una chispa individual de **De** **Bruyne**, Doku o Haaland marcara la diferencia para desarbolar el buen entramado defensivo juventino.
-
-Estuvo sólida en el carril central la ‘Juve’. También ágil en la salida rápida con espacios. Conceicao se picó con Doku por ver quién iba a ser el extremo más decisivo del partido con los regates, pero apareció por el otro costado la joven perla turca para poner orden. **Yildiz** sacó un disparo que marcó el inicio de las ocasiones.
-
-Respondió el City con una jugada clásica. Orquestada por el siempre clínico De Bruyne. Pase filtrado a Haaland, solo ante Di Gregorio. El noruego picó sutilmente el balón pero el meta italiano adivinó las intenciones y sacó una mano salvadora, la primera del partido.
-
-La gran ocasión, lejos de espolear al City, le hizo más tímido. Se creció la ‘Juve’, evitando la presión con cierta facilidad en salida de balón. Y obtuvo su recompensa nada más empezar el segundo tiempo, con un gol de Vlahovic que puso patas arriba el Juventus Stadium.
-
-Todo en una jugada curiosa que dejó una tijera de Gatti, el central. No anduvo fino **Gvardiol** en el despeje y Yildiz encontró en el segundo palo a **Vlahovic** que, con un cabezazo validado por la tecnología de gol en el reloj del colegiado, señaló el camino de la victoria
-
-> ¡El reloj sonó y Dusan Vlahovic gritó el 1-0 de Juventus ante Manchester City!  
->   
-> 📺 Mirá la [#UCL](https://twitter.com/hashtag/UCL?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/xdh9N2ZhUB](https://t.co/xdh9N2ZhUB)
-> 
-> — SportsCenter (@SC\_ESPN) [December 11, 2024](https://twitter.com/SC_ESPN/status/1866954297843364226?ref_src=twsrc%5Etfw)
-
-Despertó en ese momento el **City**. Se vino arriba, empezó a hundir a la ‘Juve’ y a generar peligro real. Los extremos llegaron con más facilidad, pero siempre toparon con la gigante defensa italiana. Y Di Gregorio sacó otra mano fundamental a un disparo de **Gundogan**.
-
-Pareció que el gol del City era cuestión de tiempo, pero otra vez la ‘Juve’ estuvo mejor en la interpretación del duelo. Y el City muy blando. Porque permitió la contra cuando estaba muy abierto. **McKennie** condujo desde el centro del campo. Inició y terminó. Definió con una media volea el centro de Weah.
-
-> ¡GOLAZO Y MÁS ALARMAS PARA MANCHESTER CITY! Espectacular lo de Weston McKennie para el 2-0 de Juventus en la Champions.  
->   
-> 📺 Mirá la [#UCL](https://twitter.com/hashtag/UCL?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/nCRFVxSEZu](https://t.co/nCRFVxSEZu)
-> 
-> — SportsCenter (@SC\_ESPN) [December 11, 2024](https://twitter.com/SC_ESPN/status/1866959620251541795?ref_src=twsrc%5Etfw)
-
-Sentenció un partido que dio mucho aire al club turinés, ahora con 11 puntos, más cerca de los 8 primeros. Y que **dejó muy tocado al City, con 8 unidades y al borde del abismo**, número 22 de los 24 que entran en la ronda previa a octavos.
-
-Justin Trudeau contraataca a Donald Trump
-=========================================
-
-Trudeau viajó a Florida para reunirse con Trump e intentó convencerle de que no castigue a Canadá con aranceles del 25%.
-------------------------------------------------------------------------------------------------------------------------
-
-![Justin Trudeau en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/12/justin-trudeau-efe.jpg)
-
-El primer ministro de Canadá, [Justin Trudeau](https://es.wikipedia.org/wiki/Justin_Trudeau "https://es.wikipedia.org/wiki/Justin_Trudeau"), relacionó este miércoles, 11 de diciembre de 2024, la **victoria electoral de Donald Trump** con el **retroceso de los derechos de las mujeres**. Esto después de que el republicano se burlara del líder canadiense al llamarlo “gobernador” de un estado de Estados Unidos.
-
-### Más noticias
-
-* [Justin Trudeau advierte que Donald Trump regresa al poder con ‘ideas más claras’](https://www.elcomercio.com/actualidad/mundo/justin-trudeau-advierte-donald-trump-regresa-poder-ideas-mas-claras.html "Justin Trudeau advierte que Donald Trump regresa al poder con ‘ideas más claras’")
-* [Donald Trump plantea reformas a visas y ‘Green Cards’ para migrantes](https://www.elcomercio.com/actualidad/mundo/donald-trump-plantea-reformas-clave-politicas-migratorias-ee-uu.html "Donald Trump plantea reformas a visas y ‘Green Cards’ para migrantes")
-* [Nuera de Donald Trump deja el Partido Republicano y podría ir al Senado](https://www.elcomercio.com/actualidad/mundo/nuera-donald-trump-deja-direccion-del-partido-republicano-podria-senado.html "Nuera de Donald Trump deja el Partido Republicano y podría ir al Senado")
-
-Trudeau a finales de octubre viajó a Florida para **reunirse con el presidente electo** donde intentó convencerle de que no castigue a Canadá con aranceles del 25 %. El mandatario canadiense afirmó en un evento en Ottawa que hay políticos y “**fuerzas reaccionarias”** que quieren dar marcha atrás a los derechos de las mujeres.
-
-“Se suponía que estaríamos en una **marcha constante**, aunque difícil, hacia el progreso. Y aún así, hace pocas semanas, Estados Unidos votó por segunda vez **no elegir a su primera mujer presidenta**“, continuó el primer ministro.
-
-Justin Trudeau es un orgulloso feminista
-----------------------------------------
-
-“En todos los lados, los **derechos de las mujeres y el progreso de las mujeres** están bajo ataque, de forma abierta o sutilmente. Quiero que sepan que soy y siempre seré un **orgulloso feminista**. Siempre tendrán en mí y en mi **Gobierno un aliad**o”, añadió ante una audiencia mayoritariamente feminista.
-
-Trudeau tiene previsto reunirse este miércoles con los jefes de Gobierno de las **11 provincias del país** para informarles del plan para invertir **1 000 millones de dólares canadienses** (710 millones de dólares estadounidenses o 670 millones de euros) para reforzar la **seguridad fronteriza.**
-
-Aranceles del 25% a Canadá y México
------------------------------------
-
-Trump afirmó que aplicará **aranceles del 25 % a Canadá y México** hasta que cese el flujo de drogas e inmigrantes indocumentados procedentes de esos dos países.
-
-Tras la amenaza, Trudeau cenó con el **presidente electo en su residencia de Mar-a-Lago.** Durante esa cena, Trump bromeó que la solución a los devastadores aranceles que quiere imponer es que Canadá se integre en Estados Unidos como un estado más.
-
-Esta semana, en una continuación de su broma, Trump llamó a Trudeau el “gobernador” del “gran estado de Canadá”.
-
-Bomberos rescataron a perrita que cayó a una quebrada en Quito
-==============================================================
-
-Los Bomberos rescataron a 'Helen', una perrita que se quedó atrapada en una quebrada, tras caer varios metros.
---------------------------------------------------------------------------------------------------------------
-
-![La perrita cayó varios metros hacia una quebrada tras resbalar](https://www.elcomercio.com/wp-content/uploads/2024/12/bomberos-rescate-quito-perrita.jpg)
-
-Una perrita fue **rescatada de una quebrada** tras resbalar y caer varios metros. El hecho se registró en el sector de **Carcelén**, en el norte de Quito, este martes 10 de diciembre de 2024.
-
-### Más noticias
-
-* [Daniel Noboa asegura que hubo un coche bomba cerca de un acto en Machala](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-coche-bomba-cerca-acto-machala.html "Daniel Noboa asegura que hubo un coche bomba cerca de un acto en Machala")
-* [Un rayo alcanzó a dos personas en El Teleférico; Bomberos detallaron su estado](https://www.elcomercio.com/actualidad/quito/rayo-descarga-teleferico-quito-bomberos.html "Un rayo alcanzó a dos personas en El Teleférico; Bomberos detallaron su estado")
-* [Quedan pocos días para revisión técnica vehicular en Quito](https://www.elcomercio.com/actualidad/quito/guia-rezagados-matricular-vehiculo-quito.html "Quedan pocos días para revisión técnica vehicular en Quito")
-
-El Cuerpo de **Bomberos** de la ciudad recibió la alerta por parte del ECU 911 y de inmediato desplegó una **unidad de rescate** al lugar.
-
-Al llegar, los uniformados encontraron a **Helen**, una perrita blanquinegra, en el fondo de la pendiente, rodeada de **maleza y vegetación**.
-
-Perrita trotaba junto a su dueño cuando cayó a la quebrada
-----------------------------------------------------------
-
-Su dueño contó que ambos salieron a trotar cuando la perrita perdió el equilibrio y **se cayó**.
-
-El personal comenzó con los trabajos de rescate, para lo que se utilizó un sistema de descenso con cuerdas.
-
-Los bomberos **calmaron al asustado can**, para luego colocarle un chaleco y un bozal[.](https://www.bomberosquito.gob.ec/ "https://www.bomberosquito.gob.ec/")
-
-Finalmente, Helen fue extraída con éxito de la quebrada y entregada a sus preocupados **dueños**.
-
-> 🐾 [#RescateAnimal](https://twitter.com/hashtag/RescateAnimal?src=hash&ref_src=twsrc%5Etfw) | En medio de una situación particular, Helen, una perrita que había resbalado y caído en el interior de una quebrada, en el sector de Carcelén, fue rescatada con éxito por nuestro equipo.  
->   
-> 👉 Juan\*, quien había salido a trotar, vivió momentos de gran… [pic.twitter.com/cx8qNEkRDA](https://t.co/cx8qNEkRDA)
-> 
-> — Bomberos Quito (@BomberosQuito) [December 11, 2024](https://twitter.com/BomberosQuito/status/1866644249820770313?ref_src=twsrc%5Etfw)
-
-Cerca de 5 000 animales fueron esterilizados en Quito
------------------------------------------------------
-
-La Unidad de Bienestar Animal de Quito (UBA) presentó los resultados de su trabajo en noviembre.
-
-En total, 4 792 animales, entre perros y gatos, fueron esterilizados este mes.
-
-Además, se ejecutaron 239 esterilizaciones especiales del programa ‘Atrapar, esterilizar y retornar’.
-
-La entidad del Municipio también realizó 461 desparasitaciones, 42 adopciones, 4 755 sensibilizaciones con dueños y 311 inspecciones.
-
-El FC Barcelona acaricia los octavos de la Champions
-====================================================
-
-El FC Barcelona y el Borussia Dortmund jugaron un partidazo en el Signal Iduna Park.
-------------------------------------------------------------------------------------
-
-![Rapinha celebra el gol marcado con el Barcelona al Dortmund en la Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/12/barca_dortmund_1.jpg)
-
-El **FC Barcelona derrotó por 2-3 al Borussia Dortmund** en el Signa Iduna Park y dio un paso gigante para clasificarse a los octavos de final de la Champions League, mientras que los alemanes retrocedieron en esa intención.
-
-El encuentro entre el Borussia Dortmund y el FC Barcelona se jugó este miércoles 11 de diciembre de 2024, **con lo que se cerró los partidos de la Champions de este año**. En enero de 2025 se completarán dos partidos más.
-
-### Más noticias:
-
-* [Independiente marca menos de tres goles por partido de local](https://www.elcomercio.com/deportes/futbol/independiente-valle-local-ligapro-goles.html "Independiente marca menos de tres goles por partido de local")
-* [Independiente](https://www.elcomercio.com/deportes/futbol/independiente-tendra-casa-llena-para-su-revancha-con-liga-de-quito.html "Independiente tendrá casa llena para su revancha con Liga de Quito") [t](https://www.elcomercio.com/deportes/futbol/independiente-tendra-casa-llena-para-su-revancha-con-liga-de-quito.html "Independiente tendrá casa llena para su revancha con Liga de Quito")[endrá casa llena para su revancha con Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-tendra-casa-llena-para-su-revancha-con-liga-de-quito.html "Independiente tendrá casa llena para su revancha con Liga de Quito")
-* [El cuatro, un número mágico para cinco campeones nacionales](https://www.elcomercio.com/deportes/futbol/campeones-ecuador-equipos-anios-cuatro.html "El cuatro, un número mágico para cinco campeones nacionales")
-
-FC Barcelona resistió en Alemania
----------------------------------
-
-El partido entre alemanes y españoles fue un encuentro de dos estilos directos de generación del fútbol y del buen toque del balón. Esas características hicieron que se viva un entretenido encuentro de ida y vuelta.
-
-En la primera mitas ambas escuadra tuvieron opciones claras de gol. La poca puntería de los delanteros y las excelentes actuaciones del **portero suizo Gregor Kobel y del español Iñaki Peña**, hicieron que el marcador no se abra.
-
-Los goles llegaron en el segundo tiempo. A los **52 minutos un tanto de Rapinha puso el 0-1** en favor del Barca.
-
-Sin embargo, **a los 60′ el Dortmund llegó al 1-1 con un gol de penal** transformado por el guineano Serhou Guirassy.
-
-La falta penal le fue cometida al goleador africano. El joven **Pau Cubarsí lo empujó en el área de forma inexplicable** y dio paso a la sanción del juez central. El defensa central fue amonestado con tarjeta amarilla, pese a que mencionaba que no había cometido infracción alguna.
-
-Guirassy minutos antes ya **había anunciado su peligrosidad y olfato goleador**. Un balón impactado con su pierna derecha fue a parar al fondo del arco de Peña, pero una posición adelantada condenó al Borussia y salvó al Barcelona.
-
-Con el 1-1 clavado llegó el turno de brillar de Ferran Torres. El atacante ingresó por Robert Lewandowski.
-
-A los **75′ colocó el 1-2, pero a los 78′, nuevamente Guirassy**, empató el marcador con un 2-2 que parecía ser el resultado con el que cerraría el vibrante juego, pero eso no estaba en los planes de Torres.
-
-A los 85′ anotó el 2-3 tras aprovechar un pase precio de Lamine Yamal, que antes había combinado con Pedri.
-
-![EFE.](https://www.elcomercio.com/wp-content/uploads/2024/12/barca_dortmund_2-1024x683.jpg)
-
-EFE.
-
-El Barca en zona de clasificación
----------------------------------
-
-Con este resultado, el FC Barcelona permanece en la segunda posición de la tabla de posiciones con 15 puntos y un gol diferencia de +14, mientras que el Dortmund descendió a la novena con 12 puntos y un gol diferencia de +9.
-
-El líder es Liverpool con puntaje perfecto. **Jugó seis partidos, ganó los seis y acumula 18 unidades**.
-
-A falta de dos fechas para terminar la fase de liga, **el Arsenal, Leverkusen, Aston Villa, Inter, Stade Brestois** y Lile completan, todos con 13 puntos, el cuadro de ocho equipos que clasificarán directamente a los octavos de final.
-
-En el lote de los 16 equipos que jugarán una eliminatoria previa están el Dortmund, Bayern Múnich, Atlético Madrid, J**uventus, Milan, Real Madrid y el Manchester City**. Sorpresivamente uno de los eliminados es el PSG del ecuatoriano Willian Pacho.
-
-El 21 de enero el Barcelona visitará Portugal para enfrentarse al Benfica. El Dortmund irá a Italia para enfrentarse al Bolonia.
-
-San viernes
------------
-
-Luigi Mangione al matar a Brian Thompson, no quería ‘poner en riesgo a inocentes’
-=================================================================================
-
-Medios de EE.UU. describen a Mangione como una persona resentida con el sistema de salud de ese país.
------------------------------------------------------------------------------------------------------
-
-![Fotografía Luigi Mangione facilitada por el Departamento de Correccionales de Pennsylvania.](https://www.elcomercio.com/wp-content/uploads/2024/12/luigi-brian-thompson.jpg)
-
-Luigi Mangione, presunto **asesino del director ejecutivo o CEO de UnitedHealthcare** -Brian Thompson-, aseguró que quería cometer un **asesinato “preciso, que no ponga en riesgo a inocentes**”. Esta información la dejó escrita en un cuaderno ahora en manos de la Policía al que [The New York Times](https://es.wikipedia.org/wiki/The_New_York_Times "https://es.wikipedia.org/wiki/The_New_York_Times") tuvo acceso.
-
-### Más noticias
-
-* [Los motivos del presunto crimen que habría cometido Luigi Mangione](https://www.elcomercio.com/actualidad/mundo/detencion-luigi-mangione-presunto-asesino-brian-thompson.html "Los motivos del presunto crimen que habría cometido Luigi Mangione")
-* [Armas fantasma: el nuevo desafío para la seguridad en EE. UU.](https://www.elcomercio.com/actualidad/mundo/armas-fantasma-nuevo-desafio-seguridad-ee-uu.html "Armas fantasma: el nuevo desafío para la seguridad en EE. UU.")
-
-También la CNN recoge que [Mangione](https://en.wikipedia.org/wiki/Killing_of_Brian_Thompson "https://en.wikipedia.org/wiki/Killing_of_Brian_Thompson") consideró usar una **bomba contra Thompson,** pero lo descartó porque “podría matar inocentes”. En otra anotación de ese mismo texto donde el hombre, de 26 años, declaraba su “animadversión por la América empresarial”.
-
-En ese mismo cuaderno también calificaba la **reunión con inversores de su empresa** -a la que se dirigía Thompson en el momento del asesinato- como “una **convención anual de tacaños parásitos**”.
-
-Resentimiento con el sistema de salud estadounidense
-----------------------------------------------------
-
-El caso de Mangione sigue ocupando las **portadas de los grandes medios estadounidenses**, que recogen párrafos de ese cuaderno que aparentemente describen a una **persona resentida** con el sistema de salud del país. También se mostraba en contar del **mundo empresarial** que se enriquece con la **gestión de las enfermedades.**
-
-Según el tabloide New York Post, Mangione mencionó que era **injusto que Estados Unidos** tuviera el sistema de salud más caro del mundo y que ello sirviera para el **lucro de unas cuantas compañías,** pero no para aumentar “nuestra esperanza de vida”.
-
-En cuanto a los avances en la investigación policial, CNN cita dos fuentes que aseguran que las huellas dactilares encontradas en el lugar de los hechos coinciden con las del propio Mangione.
-
-A pesar de eso sus abogados aseguran que se va a declarar no culpable, al menos de los delitos por los que se le persigue en Pensilvania, relativos a documentación falsa y a posesión ilegal de arma.
-
-Su defensa legal también adelantó que van a **negarse a la “extradición” del estado de Pensilvania**, donde fue detenido, al de Nueva York, donde se le podría juzgar por el **asesinato en un proceso que duraría varias semanas**, según The New York Times.
-
-‘Ley Antipillos’ regula el deporte profesional y el mercado de vehículos usados
-===============================================================================
-
-La nueva Ley Antipillos busca combatir el lavado de activos regulando sectores vulnerables como el mercado vehicular y el deporte profesional, además de fortalecer la supervisión financiera.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Clubes deportivos deberán transformarse en Sociedades Anónimas para mayor transparencia.](https://www.elcomercio.com/wp-content/uploads/2024/12/ley.jpg)
-
-La **Ley Orgánica para la Mejora Recaudatoria a través del Combate al Lavado de Activos**, conocida popularmente como ‘Ley Antipillos’ entró en vigor el 10 de diciembre del 2024. Según el Gobierno de Daniel Noboa, la nueva normativa tiene como objetivo debilitar las finanzas del crimen organizado y aumentar los ingresos tributarios, mediante la formalización de sectores clave de la economía[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Asamblea Nacional presentará acción de inconstitucionalidad por ‘Ley Antipillos’](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-presentara-accion-incostitucionalidad-por-ley-antipillos.html "Asamblea Nacional presentará acción de inconstitucionalidad por ‘Ley Antipillos’")
-* [¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?](https://www.elcomercio.com/actualidad/negocios/como-acceder-seguro-desempleo-con-ley-alivio-financiero.html "¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?")
-* [Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios](https://www.elcomercio.com/actualidad/negocios/ley-de-alivio-financiero-en-ecuador-puntos-clave-y-fecha-de-acceso-a-los-mas-de-20-beneficios.html "Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios")
-
-La ley establece medidas específicas para prevenir, localizar y eliminar el lavado de activos en el país, destacando la regulación en sectores vulnerables com**o la compra y venta de vehículos usados** y el **deporte profesional**.
-
-Regulaciones en el ámbito vehicular
------------------------------------
-
-Uno de los cambios más relevantes es la implementación de un impuesto en la compra y venta de vehículos usados.
-
-Este impuesto será sobre el **precio de venta** del vehículo usado. Este valor no podrá ser inferior al avalúo que se encuentra registrado en la base de datos del SRI. La tarifa no superará el 5% de ese avalúo y estará establecida en el reglamento de esta Ley.
-
-El pago será **requisito previo** para la obtención de la **matrícula vehicular** por parte de la entidad competente de tránsito.
-
-Según el Gobierno, este impuesto busca combatir prácticas ilícitas en el mercado vehicular, uno de los sectores identificados como susceptibles al lavado de dinero.
-
-Regulaciones para las organizaciones deportivas
------------------------------------------------
-
-En el ámbito deportivo, la normativa obliga a los clubes y equipos profesionales a adoptar la figura de **Sociedades Anónimas Deportivas**, con el fin de garantizar mayor transparencia y evitar el uso de estas estructuras para actividades ilícitas. Las mismas estarán sujetas a todos los procesos de control y vigilancia de la Superintendencia de Compañías, Valores y Seguros.
-
-La nueva ley establece un plazo máximo de noventa días desde su entrada en vigor para que la **Superintendencia de Compañías** emita la normativa secundaria para que los clubes deportivos, equipos u otras sociedades civiles sin fines de lucro que participen en el deporte profesional adopten la forma jurídica de Sociedades Anónimas Deportivas.
-
-Así, la normativa regula la participación de deportistas profesionales y establece controles más estrictos sobre la financiación en este sector.
-
-Otros cambios
--------------
-
-La **Unidad de Análisis Financiero y Económico** (UAFE) también verá fortalecidas sus competencias, permitiéndole congelar fondos sospechosos, sancionar incumplimientos y colaborar directamente con la Fiscalía en casos relacionados con la extinción de dominio. Además, la ley amplía la supervisión a empresas de tecnología financiera y aseguradoras de vida.
-
-La Ley para la Mejora Recaudatoria a través del Combate al Lavado de Activos fue publicada como Decreto Ley el 10 de diciembre de 2024. Esto, después de que la Asamblea Nacional no se pronunciara sobre la propuesta enviada por el presidente **Daniel Noboa** y calificada como urgente en materia económica.  
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
