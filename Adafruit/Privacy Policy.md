@@ -89,13 +89,13 @@ Search
     
     $2.95](https://www.adafruit.com/product/6094)
     
-    ![Demo Shot of the Snowflake LED Filament powered on.](https://cdn-shop.adafruit.com/310x233/6093-00.jpg)[Snowflake LED Filament
-    
-    $2.95](https://www.adafruit.com/product/6093)
-    
     ![Demo Shot of the Raspberry Pi Monitor (Red/White) with the Raspberry Pi 400 Desktop - Full Computer Kit.](https://cdn-shop.adafruit.com/310x233/6088-06.jpg)[Raspberry Pi Monitor - Red and White Colorway
     
     $100.00](https://www.adafruit.com/product/6088)
+    
+    ![Angled shot of solar charger PCB in enclosure with lid off.](https://cdn-shop.adafruit.com/310x233/6114-00.jpg)[Snap-on Enclosure for Adafruit USB / DC / Solar Lithium Charger
+    
+    $4.50](https://www.adafruit.com/product/6114)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -410,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I always wanted to be someone better the next day than I was the day before”
+“ Things do not happen. Things are made to happen”
 
-[Sidney Poitier](https://blog.adafruit.com/2022/01/07/sidney-poitier-who-paved-the-way-for-black-actors-in-film-dies-at-94/)
+[John F. Kennedy](http://library.und.edu/digital/john-f-kennedy-archive/delivered.php)
 
 [](https://www.adafruit.com/about)
 
