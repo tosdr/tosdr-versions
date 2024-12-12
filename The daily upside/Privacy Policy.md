@@ -44,7 +44,6 @@ Search
     * [The Daily Upside](https://www.thedailyupside.com/)
     * [Advisor Upside](https://www.thedailyupside.com/advisor/)
     * [CIO Upside](https://www.thedailyupside.com/welcome-to-cio-upside/)
-    * [Patent Drop](https://www.thedailyupside.com/patent-drop/)
     * [Power Corridor](https://www.thedailyupside.com/power-corridor/)
 
 Get more than news. Get insights.
