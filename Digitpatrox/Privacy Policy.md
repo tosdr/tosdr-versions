@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Wednesday, December 11 2024
+Thursday, December 12 2024
 
 Latest
 
-* [Microsoft lifts Windows 11 24H2 block on PCs with USB scanners](https://digitpatrox.com/microsoft-lifts-windows-11-24h2-block-on-pcs-with-usb-scanners/)
-* [Krispy Kreme got cyberattacked – The Verge](https://digitpatrox.com/krispy-kreme-got-cyberattacked-the-verge/)
-* [You’re Not Alone! WhatsApp Is Currently Down](https://digitpatrox.com/youre-not-alone-whatsapp-is-currently-down/)
-* [Node4 names Richard Moseley as new CEO](https://digitpatrox.com/node4-names-richard-moseley-as-new-ceo/)
-* [8 brilliant browser tab tricks for Windows power users – Computerworld](https://digitpatrox.com/8-brilliant-browser-tab-tricks-for-windows-power-users-computerworld/)
-* [The Newest Amazon Echo Dot Is at Its Lowest Price Ever Right Now](https://digitpatrox.com/the-newest-amazon-echo-dot-is-at-its-lowest-price-ever-right-now/)
-* [How to clear a computer before selling: Protect your personal data](https://digitpatrox.com/how-to-clear-a-computer-before-selling-protect-your-personal-data/)
-* [How to stop automatic screen brightness dimming on Windows 11](https://digitpatrox.com/how-to-stop-automatic-screen-brightness-dimming-on-windows-11/)
-* [Heavy-Duty Ram Trucks Recalled Due to Risk of ABS Failure](https://digitpatrox.com/heavy-duty-ram-trucks-recalled-due-to-risk-of-abs-failure/)
-* [15 New iPhone Features You Should Check Out in iOS 18.2](https://digitpatrox.com/15-new-iphone-features-you-should-check-out-in-ios-18-2/)
+* [Samsung Galaxy Z Flip 7 leak sounds like terrible news](https://digitpatrox.com/samsung-galaxy-z-flip-7-leak-sounds-like-terrible-news/)
+* [Hunk Companion WordPress plugin exploited to install vulnerable plugins](https://digitpatrox.com/hunk-companion-wordpress-plugin-exploited-to-install-vulnerable-plugins/)
+* [How to responsibly get rid of the stuff you’ve decluttered](https://digitpatrox.com/how-to-responsibly-get-rid-of-the-stuff-youve-decluttered/)
+* [Sonos plans return-to-office push for its product teams](https://digitpatrox.com/sonos-plans-return-to-office-push-for-its-product-teams/)
+* [Sony Confirms Intent to Buy FromSoftware Parent Company Kadokawa](https://digitpatrox.com/sony-confirms-intent-to-buy-fromsoftware-parent-company-kadokawa/)
+* [Ransomware gang demands $2 million from Tennessee school district after cyber attack](https://digitpatrox.com/ransomware-gang-demands-2-million-from-tennessee-school-district-after-cyber-attack/)
+* [Open source malware surged by 156% in 2024](https://digitpatrox.com/open-source-malware-surged-by-156-in-2024/)
+* [Federal judge slaps down Automattic, granting temporary injunction to WP Engine in ongoing WordPress squabble – Computerworld](https://digitpatrox.com/federal-judge-slaps-down-automattic-granting-temporary-injunction-to-wp-engine-in-ongoing-wordpress-squabble-computerworld/)
+* [Google’s Gemini 2.0 Is All About Efficiency](https://digitpatrox.com/googles-gemini-2-0-is-all-about-efficiency/)
+* [How to check if someone is using my identity](https://digitpatrox.com/how-to-check-if-someone-is-using-my-identity/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows-11.jpg)](https://digitpatrox.com/microsoft-lifts-windows-11-24h2-block-on-pcs-with-usb-scanners/)
+* [![](https://cdn.mos.cms.futurecdn.net/TwS5Q4RoRWN2DWqP6VVHmT-1200-80.jpg)](https://digitpatrox.com/samsung-galaxy-z-flip-7-leak-sounds-like-terrible-news/)
     
-    [Microsoft lifts Windows 11 24H2 block on PCs with USB scanners](https://digitpatrox.com/microsoft-lifts-windows-11-24h2-block-on-pcs-with-usb-scanners/)
+    [Samsung Galaxy Z Flip 7 leak sounds like terrible news](https://digitpatrox.com/samsung-galaxy-z-flip-7-leak-sounds-like-terrible-news/)
     
-    13 minutes ago
+    3 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/DUqORQU2u0cbj_BCH7xqUNVWmsQ=/0x0:1907x1400/1200x628/filters:focal(954x700:955x701)/cdn.vox-cdn.com/uploads/chorus_asset/file/25785669/glazer_tall2_Ashna.jpg)](https://digitpatrox.com/krispy-kreme-got-cyberattacked-the-verge/)
+* [![](https://www.bleepstatic.com/content/hl-images/2023/12/07/back-2.jpg)](https://digitpatrox.com/hunk-companion-wordpress-plugin-exploited-to-install-vulnerable-plugins/)
     
-    [Krispy Kreme got cyberattacked – The Verge](https://digitpatrox.com/krispy-kreme-got-cyberattacked-the-verge/)
+    [Hunk Companion WordPress plugin exploited to install vulnerable plugins](https://digitpatrox.com/hunk-companion-wordpress-plugin-exploited-to-install-vulnerable-plugins/)
     
-    30 minutes ago
+    1 hour ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/10/whatsapp-chat-window.jpg)](https://digitpatrox.com/youre-not-alone-whatsapp-is-currently-down/)
+* [![](https://cdn.vox-cdn.com/thumbor/z4o_quka4NN6sULON4iOr9s79qM=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/13725697/jbareham_190130_grid_four_up_01_2.jpg)](https://digitpatrox.com/how-to-responsibly-get-rid-of-the-stuff-youve-decluttered/)
     
-    [You’re Not Alone! WhatsApp Is Currently Down](https://digitpatrox.com/youre-not-alone-whatsapp-is-currently-down/)
+    [How to responsibly get rid of the stuff you’ve decluttered](https://digitpatrox.com/how-to-responsibly-get-rid-of-the-stuff-youve-decluttered/)
     
-    46 minutes ago
+    1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/NpXURdz344WjynUefNwtBK-1200-80.jpg)](https://digitpatrox.com/node4-names-richard-moseley-as-new-ceo/)
+* [![](https://cdn.vox-cdn.com/thumbor/boijSjwT1cHyoZ9eG_HATmAkI7A=/0x0:4250x2834/1200x628/filters:focal(2125x1417:2126x1418)/cdn.vox-cdn.com/uploads/chorus_asset/file/25651493/_STK084_SONOS_A.png)](https://digitpatrox.com/sonos-plans-return-to-office-push-for-its-product-teams/)
     
-    [Node4 names Richard Moseley as new CEO](https://digitpatrox.com/node4-names-richard-moseley-as-new-ceo/)
+    [Sonos plans return-to-office push for its product teams](https://digitpatrox.com/sonos-plans-return-to-office-push-for-its-product-teams/)
+    
+    1 hour ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/12/Sony-and-Kadokawa-logo-with-all-FromSoftware-games.jpg)](https://digitpatrox.com/sony-confirms-intent-to-buy-fromsoftware-parent-company-kadokawa/)
+    
+    [Sony Confirms Intent to Buy FromSoftware Parent Company Kadokawa](https://digitpatrox.com/sony-confirms-intent-to-buy-fromsoftware-parent-company-kadokawa/)
     
     2 hours ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3620013-0-85491100-1733914970-windows-browsers.png?w=1024)](https://digitpatrox.com/8-brilliant-browser-tab-tricks-for-windows-power-users-computerworld/)
-    
-    [8 brilliant browser tab tricks for Windows power users – Computerworld](https://digitpatrox.com/8-brilliant-browser-tab-tricks-for-windows-power-users-computerworld/)
-    
-    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [13 minutes ago
+* [3 minutes ago
     
-    ### Microsoft lifts Windows 11 24H2 block on PCs with USB scanners](https://digitpatrox.com/microsoft-lifts-windows-11-24h2-block-on-pcs-with-usb-scanners/)
-* [30 minutes ago
+    ### Samsung Galaxy Z Flip 7 leak sounds like terrible news](https://digitpatrox.com/samsung-galaxy-z-flip-7-leak-sounds-like-terrible-news/)
+* [1 hour ago
     
-    ### Krispy Kreme got cyberattacked – The Verge](https://digitpatrox.com/krispy-kreme-got-cyberattacked-the-verge/)
-* [46 minutes ago
+    ### Hunk Companion WordPress plugin exploited to install vulnerable plugins](https://digitpatrox.com/hunk-companion-wordpress-plugin-exploited-to-install-vulnerable-plugins/)
+* [1 hour ago
     
-    ### You’re Not Alone! WhatsApp Is Currently Down](https://digitpatrox.com/youre-not-alone-whatsapp-is-currently-down/)
+    ### How to responsibly get rid of the stuff you’ve decluttered](https://digitpatrox.com/how-to-responsibly-get-rid-of-the-stuff-youve-decluttered/)
 
 Most Popular Topics
 
-* [August 27, 2024
+* [October 24, 2024
     
-    ### Pixel Screenshots is one of the Pixel 9’s best AI features — here’s how it works](https://digitpatrox.com/pixel-screenshots-is-one-of-the-pixel-9s-best-ai-features-heres-how-it-works/)
-* [November 3, 2024
+    ### M4 MacBook Pro Leaks: Everything We Know So Far](https://digitpatrox.com/m4-macbook-pro-leaks-everything-we-know-so-far/)
+* [3 weeks ago
     
-    ### Kindle Colorsoft owners complain of a yellow bar on the e-reader’s screen](https://digitpatrox.com/kindle-colorsoft-owners-complain-of-a-yellow-bar-on-the-e-readers-screen/)
+    ### Controversial Windows Recall Feature Now Available for Testing](https://digitpatrox.com/controversial-windows-recall-feature-now-available-for-testing/)
 * [October 18, 2024
     
-    ### Are Sweet Potatoes Good for You?](https://digitpatrox.com/are-sweet-potatoes-good-for-you/)
+    ### ESET partner breached to send data wipers to Israeli orgs](https://digitpatrox.com/eset-partner-breached-to-send-data-wipers-to-israeli-orgs/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### How to clear a computer before selling: Protect your personal data](https://digitpatrox.com/how-to-clear-a-computer-before-selling-protect-your-personal-data/)
-* [3 hours ago
+    ### Open source malware surged by 156% in 2024](https://digitpatrox.com/open-source-malware-surged-by-156-in-2024/)
+* [4 hours ago
     
-    ### How to stop automatic screen brightness dimming on Windows 11](https://digitpatrox.com/how-to-stop-automatic-screen-brightness-dimming-on-windows-11/)
-* [3 hours ago
+    ### Federal judge slaps down Automattic, granting temporary injunction to WP Engine in ongoing WordPress squabble – Computerworld](https://digitpatrox.com/federal-judge-slaps-down-automattic-granting-temporary-injunction-to-wp-engine-in-ongoing-wordpress-squabble-computerworld/)
+* [4 hours ago
     
-    ### Heavy-Duty Ram Trucks Recalled Due to Risk of ABS Failure](https://digitpatrox.com/heavy-duty-ram-trucks-recalled-due-to-risk-of-abs-failure/)
+    ### Google’s Gemini 2.0 Is All About Efficiency](https://digitpatrox.com/googles-gemini-2-0-is-all-about-efficiency/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
