@@ -28,7 +28,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223002%22%3A%7B%22g%22%3A%22c%22%2C%22v%22%3A6%7D%7D&xhStatsUid=675b11695319e0.390780886f0&xhSessionToken=2165892cec2b68d4d0dc0e99a62574552a5f616f&xhSessionStartedAt=1734021481)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223002%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A6%7D%7D&xhStatsUid=675b68046b4d60.24153620b11&xhSessionToken=9ef327705cc82bcf5977e4a005f993597bba2714&xhSessionStartedAt=1734043652)
 
 [Categories](https://xhamster.com/categories)
 
@@ -46,7 +46,7 @@ Sex Chat](https://xhamster.com/ff/out?utm_source=xhamster&utm_medium=menu&utm_ca
 
 [![Faphouse](//static-nss.xhcdn.com/xh-images/components/header/components/header-nav/faphouse-crown.component.svg)
 
-Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=guest&utm_content=landingpage&exp=%7B%223002%22%3A%7B%22g%22%3A%22c%22%2C%22v%22%3A6%7D%7D)
+Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=guest&utm_content=landingpage&exp=%7B%223002%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A6%7D%7D)
 
 [🔥AI Jerk Off](https://tsyndicate.com/api/v1/direct/82b7126ec17b4b8c8814dd0067da91ef)
 
@@ -381,7 +381,7 @@ Last Modified: January 04, 2024
 
 ### Start making money with us
 
-* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-desktop&utm_medium=footer)
+* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-mobile&utm_medium=footer)
 * [Creator Contest](https://xhamster.com/creators/contest)
 * [Сontent Creators Program](https://xhamster.com/creator?source=footerCcp)
 
