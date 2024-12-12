@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Rush hour power outage leaves 3,500 NYC subway riders stranded on trains for hours: 'Absolutely brutal commute'](https://nypost.com/2024/12/12/us-news/mta-power-outage-leaves-3500-nyc-subway-riders-stranded-on-trains-for-hours/)
+
 Privacy Notice Highlights
 =========================
 
