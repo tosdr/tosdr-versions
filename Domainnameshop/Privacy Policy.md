@@ -330,6 +330,7 @@ The Registry Operators for the TLDs we offer and their respective policies are l
 | .com | VeriSign, Inc. | United States | No  | [https:/​/​www.verisign.com/​en\_US/​domain-​names/​com-​domain-​names/​](https://www.verisign.com/en_US/domain-names/com-domain-names/) |
 | .community | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
 | .company | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .compare | GoDaddy Registry | United States | Yes | [https:/​/​domains.registry.godaddy/​compare](https://domains.registry.godaddy/compare) |
 | .computer | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
 | .condos | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
 | .construction | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
@@ -340,6 +341,7 @@ The Registry Operators for the TLDs we offer and their respective policies are l
 | .cool | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
 | .country | Tucows Registry | Canada | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
 | .coupons | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .courses | GoDaddy Registry | United States | Yes | [https:/​/​domains.registry.godaddy/​courses](https://domains.registry.godaddy/courses) |
 | .credit | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
 | .creditcard | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
 | .cricket | GoDaddy Registry | United States | Yes | [http:/​/​nic.cricket/​resources.html](http://nic.cricket/resources.html) |
@@ -444,6 +446,7 @@ The Registry Operators for the TLDs we offer and their respective policies are l
 | .guru | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
 | .hair | CentralNic Ltd | United Kingdom | Yes | [https:/​/​nic.hair/​registry-​policies](https://nic.hair/registry-policies) |
 | .haus | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .health | GoDaddy Registry | United States | Yes | [https:/​/​domains.registry.godaddy/​health](https://domains.registry.godaddy/health) |
 | .healthcare | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
 | .help | CentralNic Ltd | United Kingdom | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
 | .hiphop | Tucows Registry | Canada | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
@@ -586,6 +589,7 @@ The Registry Operators for the TLDs we offer and their respective policies are l
 | .schule | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
 | .science | GoDaddy Registry | United States | Yes | [http:/​/​nic.science/​resources.html](http://nic.science/resources.html) |
 | .se | Internetstiftelsen i Sverige (IIS) | Sweden | Yes | [https:/​/​www.iis.se/​english/​domains/​se/​terms-​and-​conditions/​](https://www.iis.se/english/domains/se/terms-and-conditions/) |
+| .select | GoDaddy Registry | United States | Yes | [https:/​/​domains.registry.godaddy/​select](https://domains.registry.godaddy/select) |
 | .services | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
 | .sexy | Tucows Registry | Canada | Yes | [http:/​/​uniregistry.link/​registry-​policies/​](http://uniregistry.link/registry-policies/) |
 | .sh | Identity Digital Inc. | United States | Yes | [https:/​/​www.nic.sh/​policy.htm](https://www.nic.sh/policy.htm) |
@@ -607,6 +611,7 @@ The Registry Operators for the TLDs we offer and their respective policies are l
 | .store | CentralNic Ltd | United Kingdom | Yes | [https:/​/​radix.website/​policies/​](https://radix.website/policies/) |
 | .stream | GoDaddy Registry | United States | Yes | [http:/​/​nic.stream/​resources.html](http://nic.stream/resources.html) |
 | .studio | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
+| .study | GoDaddy Registry | United States | Yes | [https:/​/​domains.registry.godaddy/​study](https://domains.registry.godaddy/study) |
 | .style | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
 | .supplies | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
 | .supply | Identity Digital Inc. | United States | No  | [https:/​/​identity.digital/​policies/​](https://identity.digital/policies/) |
