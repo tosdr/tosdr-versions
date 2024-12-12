@@ -32,7 +32,6 @@ Primary Menu Sections
 * [Shopping](https://nypost.com/shopping/)
 * [Lifestyle](https://nypost.com/lifestyle/)
     * [Weird But True](https://nypost.com/weird-but-true/)
-    * [Health](https://nypost.com/health/)
     * [Sex & Relationships](https://nypost.com/sex-and-relationships/)
     * [Viral Trends](https://nypost.com/viral-trends/)
     * [Human Interest](https://nypost.com/human-interest/)
@@ -40,6 +39,15 @@ Primary Menu Sections
     * [Fashion & Beauty](https://nypost.com/fashion-and-beauty/)
     * [Food & Drink](https://nypost.com/food-and-drink/)
     * [Travel](https://nypost.com/travel/)
+* [Health](https://nypost.com/health/)
+    * [Wellness](https://nypost.com/wellness/)
+    * [Fitness](https://nypost.com/fitness/)
+    * [Health Care](https://nypost.com/health-care/)
+    * [Medicine](https://nypost.com/medicine/)
+    * [Men’s Health](https://nypost.com/mens-health/)
+    * [Women’s Health](https://nypost.com/womens-health/)
+    * [Mental Health](https://nypost.com/mental-health/)
+    * [Nutrition](https://nypost.com/nutrition/)
 * [Real Estate](https://nypost.com/real-estate/)
 * [Alexa](https://nypost.com/alexa/)
 * [Media](https://nypost.com/media/)
@@ -78,7 +86,7 @@ Search
 
 #### Breaking News
 
-[Rush hour power outage leaves 3,500 NYC subway riders stranded on trains for hours: 'Absolutely brutal commute'](https://nypost.com/2024/12/12/us-news/mta-power-outage-leaves-3500-nyc-subway-riders-stranded-on-trains-for-hours/)
+[President-elect Trump named Time's 'Person of the Year' after stunning political comeback](https://nypost.com/2024/12/12/us-news/president-elect-donald-trump-named-times-person-of-the-year-after-historic-comeback-unparalleled-in-american-history/)
 
 Privacy Notice Highlights
 =========================
