@@ -170,7 +170,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Safety (27)](https://www.iplocation.net/blog/category/safety)
 * [Data & Database (24)](https://www.iplocation.net/blog/category/data)
 * [Digital Marketing (126)](https://www.iplocation.net/blog/category/digital-marketing)
-* [Education (46)](https://www.iplocation.net/blog/category/education)
+* [Education (47)](https://www.iplocation.net/blog/category/education)
 * [Email (71)](https://www.iplocation.net/blog/category/email)
 * [Entertainment (16)](https://www.iplocation.net/blog/category/entertainment)
 * [Fashion (2)](https://www.iplocation.net/blog/category/fashion)
