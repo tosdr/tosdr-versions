@@ -105,10 +105,10 @@ Panopto Privacy Policies
 * Please click here to see the [**Panopto Authorised User Privacy Policy**](https://www.panopto.com/privacy-panopto-user/)  
     This privacy policy applies to individuals who use any Panopto products or services.
 
-Ready to **see Panopto in action?**
------------------------------------
+Ready to **see Panopto or elai in action?**
+-------------------------------------------
 
-[Schedule a demo](https://www.panopto.com/schedule-demo/)
+[See a demo](https://www.panopto.com/schedule-demo/)
 
 * * *
 
