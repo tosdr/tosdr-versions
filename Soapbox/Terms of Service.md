@@ -144,7 +144,7 @@ Search icon Search
 * [Retail Partners](https://www.soapboxsoaps.com/pages/store-locator)
 * [Hope Code](https://www.soapboxsoaps.com/pages/hope)
 
-* [Account icon Log in](https://www.soapboxsoaps.com/account/login)
+* [Account icon Log in](https://www.soapboxsoaps.com/customer_authentication/redirect?locale=en&region_country=US)
 
 [Find us on Facebook](https://www.facebook.com/SoapboxCare "Facebook") [Find us on Twitter](https://twitter.com/soapboxcare "Twitter") [Find us on Instagram](https://www.instagram.com/soapbox/ "Instagram") [Find us on TikTok](https://www.tiktok.com/@soapboxcare "TikTok") [Find us on Youtube](https://www.youtube.com/user/SoapBoxSoaps "Youtube") [Find us on LinkedIn](https://www.linkedin.com/company/soapbox-soaps/ "LinkedIn")
 
@@ -359,7 +359,5 @@ Close icon
 Chevron down icon Chevron down icon
 
        
-
-     
 
 {"themeColor":"#574cd5","iconColor":"#574cd5","showLogo":true,"topBottomPosition":10,"rightLeftPosition":10,"iconSize":"small","iconCustomSize":64,"position":"bottom-right"}
