@@ -1,12 +1,12 @@
 [![Reason.com - Free Minds and Free Markets](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20711%20180'%3E%3C/svg%3E)
 
-![Reason.com - Free Minds and Free Markets](https://reason.com/wp-content/themes/reason-dot-com-theme/dist/./logo_2ea65906.svg)](https://reason.com/)
+![Reason.com - Free Minds and Free Markets](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo_2ea65906.svg)](https://reason.com/)
 
 [![Reason logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20711%20180'%3E%3C/svg%3E)
 
-![Reason logo](https://reason.com/wp-content/themes/reason-dot-com-theme/dist/./logo-inverted-without-tag_c6a8c72e.svg)](https://reason.com/)[![Reason logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+![Reason logo](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-inverted-without-tag_c6a8c72e.svg)](https://reason.com/)[![Reason logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![Reason logo](https://reason.com/wp-content/themes/reason-dot-com-theme/dist/./r-in-g1-01_36e38c66.svg)](https://reason.com/)
+![Reason logo](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./r-in-g1-01_36e38c66.svg)](https://reason.com/)
 
 * [Latest](https://reason.com/latest/)
 * [Magazine](https://reason.com/magazine/)
@@ -227,13 +227,13 @@ This site is protected by reCAPTCHA and the Google [**Privacy Policy**](https://
 
 ![r](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![r](https://reason.com/wp-content/themes/reason-dot-com-theme/dist/./logo-inverted-without-tag_c6a8c72e.svg)
+![r](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./logo-inverted-without-tag_c6a8c72e.svg)
 
 Do you care about free minds and free markets? Sign up to get the biggest stories from Reason in your inbox every afternoon.
 
 Email(Required)
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -247,7 +247,7 @@ This modal will close in 10
 
 ![Reason Plus](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![Reason Plus](https://reason.com/wp-content/themes/reason-dot-com-theme/dist/./reason-plus-logo_fa18e919.svg)
+![Reason Plus](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./reason-plus-logo_fa18e919.svg)
 
 #### Special Offer!
 
