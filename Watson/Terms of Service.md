@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)2°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)2°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
-* [Politique](https://www.watson.ch/fr/politique/)
 * [People](https://www.watson.ch/fr/people/)
+* [Travail](https://www.watson.ch/fr/travail/)
+* [Facebook](https://www.watson.ch/fr/facebook/)
+* [Politique](https://www.watson.ch/fr/politique/)
 * [Karin Keller-Sutter](https://www.watson.ch/fr/karin-keller-sutter/)
+* [Médias](https://www.watson.ch/fr/medias/)
 * [Syrie](https://www.watson.ch/fr/syrie/)
-* [Dubaï](https://www.watson.ch/fr/dubai/)
-* [commerce](https://www.watson.ch/fr/commerce/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [Chine](https://www.watson.ch/fr/chine/)
-* [ukraine](https://www.watson.ch/fr/ukraine/)
-* [Inflation](https://www.watson.ch/fr/inflation/)
-* [RTS](https://www.watson.ch/fr/rts/)
+* [Dubaï](https://www.watson.ch/fr/dubai/)
+* [Argent](https://www.watson.ch/fr/argent/)
+* [Arnaque](https://www.watson.ch/fr/arnaque/)
+* [avion](https://www.watson.ch/fr/avion/)
 * [Confédération](https://www.watson.ch/fr/confederation/)
-* [Parlement](https://www.watson.ch/fr/parlement/)
 * [Interview](https://www.watson.ch/fr/interview/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Justice](https://www.watson.ch/fr/justice/)
+* [Poutine](https://www.watson.ch/fr/poutine/)
 * [Bachar al-Assad](https://www.watson.ch/fr/bachar-al-assad/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Poutine](https://www.watson.ch/fr/poutine/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
