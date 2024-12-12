@@ -108,7 +108,9 @@ from$6/GB](https://smartproxy.com/proxies/mobile/pricing)
 
 [Datacenter
 
-from$0.09/IP](https://smartproxy.com/proxies/datacenter-proxies/pricing)
+DEAL
+
+from$0.026/IP](https://smartproxy.com/proxies/datacenter-proxies/pricing)
 
 [Site Unblocker
 
