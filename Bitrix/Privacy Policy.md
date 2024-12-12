@@ -696,6 +696,7 @@ Bitrix24
 * [In the press](https://www.bitrix24.com/about/press.php)
 * [Sustainability](https://www.bitrix24.com/pr/sustainability.php)
 * [Holiday Sale 2024](https://www.bitrix24.com/promo/sales/holiday-sale-2024/)
+* [New Bitrix24 Synergy](https://www.bitrix24.com/promo/winter-2024-release/)
 
 Support
 
