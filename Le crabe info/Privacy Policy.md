@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 645 utilisateurs actifs
+##### 721 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Mozilla met fin à "Do Not Track" : un choix nécessaire pour mieux protéger la vie privée](https://lecrabeinfo.net/mozilla-met-fin-a-do-not-track-un-choix-necessaire-pour-mieux-proteger-la-vie-privee.html)
 * [Microsoft Edge : le navigateur devient plus rapide que jamais sur Windows 11 grâce à WebUI 2.0](https://lecrabeinfo.net/microsoft-edge-le-navigateur-devient-plus-rapide-que-jamais-sur-windows-11-grace-a-webui-2-0.html)
 * [Windows 11 24H2 : nouvelle incompatibilité, cette fois avec des jeux Ubisoft (Assassin's Creed, Star Wars Outlaws...)](https://lecrabeinfo.net/windows-11-24h2-nouvelle-incompatibilite-cette-fois-avec-des-jeux-ubisoft-assassins-creed-star-wars-outlaws.html)
-* [Une faille de sécurité zero-day affecte toutes les versions de Windows, y compris Windows 11 24H2](https://lecrabeinfo.net/une-faille-de-securite-zero-day-affecte-toutes-les-versions-de-windows-y-compris-windows-11-24h2.html)
 
 ### Tendance
 
@@ -152,12 +152,12 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 032 membres
-* 970 articles
-* 27 079 commentaires
-* [2 683 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
+* 68 040 membres
+* 972 articles
+* 27 083 commentaires
+* [2 684 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
 * [867 abonnés X](https://x.com/lecrabeinfo)
-* [67 519 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
+* [67 520 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
