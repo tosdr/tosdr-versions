@@ -319,4 +319,4 @@ Telstra
 
 [Top](#)
 
-At Telstra we recognise and acknowledge the existing, original and ancient connection Aboriginal and Torres Strait Islander peoples have to the lands and waterways across the Australian continent. We pay our respects to the elders past and present. We commit to working together to build a [prosperous and inclusive Australia](https://www.telstra.com.au/first-nations-australians).
+At Telstra we recognise and acknowledge the existing, original, and ancient connection Aboriginal and Torres Strait Islander peoples have to the lands, waterways, and sky country across the Australian continent. We pay our respects to their Elders past and present. We commit to working together to build a [prosperous and inclusive Australia](https://www.telstra.com.au/first-nations-australians).
