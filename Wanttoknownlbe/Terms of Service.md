@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-terugkeer-van-de-regenboog-krijgers/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/mens-een-van-de-twee/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
