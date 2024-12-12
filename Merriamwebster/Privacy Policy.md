@@ -388,9 +388,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [sublimate](https://www.merriam-webster.com/word-of-the-day)
+#### [pastiche](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of sublimate](/dist-cross-dungarees/2024-12-11--20-42-38-0hlq1i/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of sublimate")
+[![Listen to the pronunciation of pastiche](/dist-cross-dungarees/2024-12-11--20-42-38-0hlq1i/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of pastiche")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
