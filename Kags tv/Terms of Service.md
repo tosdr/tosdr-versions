@@ -31,7 +31,7 @@ Navigation
     
     *  [![](https://media.kagstv.com/assets/KCEN/images/f26274ba-f9aa-40ac-bcc9-7aee1c838e59/20241212T030802/f26274ba-f9aa-40ac-bcc9-7aee1c838e59_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/f26274ba-f9aa-40ac-bcc9-7aee1c838e59/20241212T030802/f26274ba-f9aa-40ac-bcc9-7aee1c838e59_360x203.jpg)](https://www.kagstv.com/article/news/crime/man-that-escaped-prison-grimes-county-2023-sentenced-20-total-years/500-ce1d8e4b-b1c3-4eec-9c33-9a553dd9ac1b)
         
-        #### [Man that escaped jail in Grimes County in 2023 sentenced to 20 total years](https://www.kagstv.com/article/news/crime/man-that-escaped-prison-grimes-county-2023-sentenced-20-total-years/500-ce1d8e4b-b1c3-4eec-9c33-9a553dd9ac1b)
+        #### [Man who escaped jail in Grimes County in 2023 sentenced to 20 total years](https://www.kagstv.com/article/news/crime/man-that-escaped-prison-grimes-county-2023-sentenced-20-total-years/500-ce1d8e4b-b1c3-4eec-9c33-9a553dd9ac1b)
         
     *  [![](https://media.kagstv.com/assets/KCEN/images/e57fb77f-175a-40bd-ada6-994b6cfe86a0/20241210T215938/e57fb77f-175a-40bd-ada6-994b6cfe86a0_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/e57fb77f-175a-40bd-ada6-994b6cfe86a0/20241210T215938/e57fb77f-175a-40bd-ada6-994b6cfe86a0_360x203.jpg)](https://www.kagstv.com/article/news/crime/man-sentenced-45-years-indecency-with-child-brazos-county/500-5775b52c-9492-4805-9e49-763e1c2c39b6)
         
@@ -97,7 +97,7 @@ Navigation
 
 Bryan, TX »
 
-42°
+65°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
