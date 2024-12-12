@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| LiarJelly%20roll<br><br>4:40pm |
-| I%20had%20some%20helpPost%20malone%20ft%20morgan%20wallen<br><br>4:36pm |
-| The%20bonesMaren%20morris<br><br>4:33pm |
-| White%20horseChris%20stapleton<br><br>4:29pm |
-| Sounds%20like%20the%20radioZach%20top<br><br>4:26pm |
+| Where%20the%20wild%20things%20areLuke%20combs<br><br>10:41pm |
+| I%20remember%20everythingZach%20bryan%20ft%20kacey%20musgraves<br><br>10:38pm |
+| A%20lot%20more%20freeMax%20mcnown<br><br>10:35pm |
+| Tennessee%20orangeMegan%20moroney<br><br>10:22pm |
+| Need%20a%20favorJelly%20roll<br><br>10:19pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
-
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Pacific NW
+Sports • Midwest
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-News Talk • Eastern
+Spanish • Western
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
