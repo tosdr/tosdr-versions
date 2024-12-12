@@ -90,9 +90,9 @@ Most Read
     
 2. 2. [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
     
-3. 3. [Congressional Republicans conclude SARS-CoV-2 originated in a lab leak](https://arstechnica.com/science/2024/12/congressional-republicans-conclude-sars-cov-2-originated-in-a-lab-leak/)
+3. 3. [Russia takes unusual route to hack Starlink-connected devices in Ukraine](https://arstechnica.com/security/2024/12/russia-takes-unusual-route-to-hack-starlink-connected-devices-in-ukraine/)
     
-4. 4. [AI company trolls San Francisco with billboards saying “stop hiring humans”](https://arstechnica.com/information-technology/2024/12/ai-company-trolls-san-francisco-with-billboards-saying-stop-hiring-humans/)
+4. 4. [Congressional Republicans conclude SARS-CoV-2 originated in a lab leak](https://arstechnica.com/science/2024/12/congressional-republicans-conclude-sars-cov-2-originated-in-a-lab-leak/)
     
 5. 5. [Ranking the 25 coolest things in space so far during the 21st century](https://arstechnica.com/space/2024/12/ranking-the-25-coolest-things-in-space-so-far-during-the-21st-century/)
     
