@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/music-and-maths-an-easter-worksheet/)
+ [](https://schoolsmusicmarket.com/product/compose-a-song-cut-and-stick/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/pitch-the-eggs-an-easter-musical-worksheet/)
+ [](https://schoolsmusicmarket.com/product/music-appreciation-worksheet-activity/)
 
 ###### Browse By Year/Grade
 
