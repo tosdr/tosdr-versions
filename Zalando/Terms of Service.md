@@ -595,6 +595,7 @@ _help_Hulp & ContactHulp & Contact
 * [Wachtwoord wijzigen](https://www.zalando.nl/faq/how-do-i-reset-my-password.html)
 * [Aanmelden nieuwsbrief](https://www.zalando.nl/zalando-newsletter/)
 * [Kwetsbaarheid melden](https://corporate.zalando.com/en/about-us/report-vulnerability/)
+* [Productveiligheid](https://www.zalando.nl/faq/Product-safety)
 
 _gift\_card_Kortingscodes & CadeaubonnenKortingscodes & Cadeaubonnen
 
