@@ -197,13 +197,13 @@ Advertisement
 
 * ### eBaum's Picks
     
+    [![2020 memes - they dont want to put me on either - condom talking to a mask cartoon](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/30-memes-that-capture-the-hot-mess-that-is-2020/86434297/) [30 Memes That Capture the Suck of 2020](https://www.ebaumsworld.com/pictures/30-memes-that-capture-the-hot-mess-that-is-2020/86434297/)
+    
     [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-rips-a-massive-fart-after-finding-out-hes-being-charged-with-possession-of-a-firearm/87424149/) [Guy Rips a Massive Fart After Finding Out He Was Being Charged With Possession of a Firearm](https://www.ebaumsworld.com/videos/guy-rips-a-massive-fart-after-finding-out-hes-being-charged-with-possession-of-a-firearm/87424149/)
     
-    [![kangaroo punching to save dog](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/crazy-dude-fights-a-kangaroo-to-save-his-dog/85207341/) [Daring Dude Punches a Kangaroo to Save His Dog](https://www.ebaumsworld.com/videos/crazy-dude-fights-a-kangaroo-to-save-his-dog/85207341/)
+    [![list of cool and fascinating pics | a close up photo of an elephants tail |](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/pictures/32-fascinating-things-you-rarely-get-to-see/85916369/) [32 Fascinating Things You Rarely Get to See](https://www.ebaumsworld.com/pictures/32-fascinating-things-you-rarely-get-to-see/85916369/)
     
-    [![fails and facepalms](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/36-cringey-fails-unworthy-to-our-forefathers/87496608/) [36 Fails and Facepalms Crushing Your Hope for Future Generations](https://trending.ebaumsworld.com/pictures/36-cringey-fails-unworthy-to-our-forefathers/87496608/)
-    
-    [![22 Fails and Facepalms From the Past Few Weeks](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/22-fails-flounders-and-facepalms-that-cracked-us-up/87507571/) [22 Fails, Flounders, and Facepalms That Cracked Us Up](https://trending.ebaumsworld.com/pictures/22-fails-flounders-and-facepalms-that-cracked-us-up/87507571/)
+    [![David Grusch testifying at the UFO hearing today](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/) [US Air Force Officer Admits Under Oath That the US Government Is In Possession of UFOs and Non-Human Bodies](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/)
     
 
 * Advertisement
