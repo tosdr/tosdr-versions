@@ -575,17 +575,17 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    December 12, 2024
+    
+    [U.S. Treasury Announces $47 Million in Awards from the SIPPRA Program](https://home.treasury.gov/news/press-releases/jy2747)
+    
+    December 12, 2024
+    
+    [Treasury’s Office of Cybersecurity and Critical Infrastructure Protection Issues Consumer Advisory to Protect Against Cyber Fraud During the Holiday Shopping Season](https://home.treasury.gov/news/press-releases/jy2746)
+    
     December 10, 2024
     
     [Treasury Department Announces Disbursement of $20 Billion Loan to Benefit Ukraine, To Be Repaid with Proceeds Earned from Immobilized Russian Sovereign Assets](https://home.treasury.gov/news/press-releases/jy2744)
-    
-    December 10, 2024
-    
-    [Joint Statement on the EU-U.S. Joint Financial Regulatory Forum](https://home.treasury.gov/news/press-releases/jy2743)
-    
-    December 10, 2024
-    
-    [Treasury Sanctions Cybersecurity Company Involved in Compromise of Firewall Products and Attempted Ransomware Attacks](https://home.treasury.gov/news/press-releases/jy2742)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
