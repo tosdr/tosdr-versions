@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» внесла в Госдуму законопроект, который позволит подтвердить подлинность страниц НКО «знаком качества» через Госуслуги - они получат визуальное обозначение](https://cdn.er.ru/media/news/December2024/R9rFVxAmlnpwPUgCZ3Wz-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-v-gosdumu-zakonoproekt-kotoryj-pozvolit-podtverdit-podlinnost-stranic-nko-znakom-kachestva-cherez-gosuslugi-oni-poluchat-vizualnoe-oboznachenie)
+
+[«Единая Россия» внесла в Госдуму законопроект, который позволит подтвердить подлинность страниц НКО «знаком качества» через Госуслуги - они получат визуальное обозначение](https://er.ru/activity/news/edinaya-rossiya-vnesla-v-gosdumu-zakonoproekt-kotoryj-pozvolit-podtverdit-podlinnost-stranic-nko-znakom-kachestva-cherez-gosuslugi-oni-poluchat-vizualnoe-oboznachenie)
+
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#соцсети](https://er.ru/activity/news?tags%5B0%5D=1649) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#Госуслуги](https://er.ru/activity/news?tags%5B0%5D=1090944)
+
+Сегодня 11:00
+
+[![Владимир Якушев: Конституция стала символом единства нашего народа и его исторического выбора, который определил путь России как независимого, сильного и демократического государства](https://cdn.er.ru/media/news/December2024/G47wfnSRDJOoAfzQH6Rv-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-konstituciya-stala-simvolom-edinstva-nashego-naroda-i-ego-istoricheskogo-vybora-kotoryj-opredelil-put-rossii-kak-nezavisimogo-silnogo-i-demokraticheskogo-gosudarstva)
+
+[Владимир Якушев: Конституция стала символом единства нашего народа и его исторического выбора, который определил путь России как независимого, сильного и демократического государства](https://er.ru/activity/news/vladimir-yakushev-konstituciya-stala-simvolom-edinstva-nashego-naroda-i-ego-istoricheskogo-vybora-kotoryj-opredelil-put-rossii-kak-nezavisimogo-silnogo-i-demokraticheskogo-gosudarstva)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#ДеньКонституции](https://er.ru/activity/news?tags%5B0%5D=1093468) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172)
+
+Сегодня 10:38
+
+[![«Единая Россия» отправила в ДНР тёплые вещи для жителей освобождённых населённых пунктов](https://cdn.er.ru/media/news/December2024/hS2l204kUiqjc7tg0Alg-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-otpravila-v-dnr-tyoplye-veshi-dlya-zhitelej-osvobozhdyonnyh-naselyonnyh-punktov)
+
+[«Единая Россия» отправила в ДНР тёплые вещи для жителей освобождённых населённых пунктов](https://er.ru/activity/news/edinaya-rossiya-otpravila-v-dnr-tyoplye-veshi-dlya-zhitelej-osvobozhdyonnyh-naselyonnyh-punktov)
+
+[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#ПВР](https://er.ru/activity/news?tags%5B0%5D=45895) [#одежда](https://er.ru/activity/news?tags%5B0%5D=28792)
+
+Сегодня 09:38
+
 [![Госдума приняла в первом чтении законопроект «Единой России» о праве добровольцев удостоверять доверенности и завещания у командира воинской части](https://cdn.er.ru/media/news/December2024/mPTooNUigqWOx8xwvL4D-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-prave-dobrovolcev-udostoveryat-doverennosti-i-zaveshaniya-u-komandira-voinskoj-chasti)
 
 [Госдума приняла в первом чтении законопроект «Единой России» о праве добровольцев удостоверять доверенности и завещания у командира воинской части](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-prave-dobrovolcev-udostoveryat-doverennosti-i-zaveshaniya-u-komandira-voinskoj-chasti)
@@ -320,30 +344,6 @@
 [«Единая Россия» примет активное участие в решении вопросов повышения качества преподавания математики и естественно-научных предметов](https://er.ru/activity/news/edinaya-rossiya-primet-aktivnoe-uchastie-v-reshenii-voprosov-povysheniya-kachestva-prepodavaniya-matematiki-i-estestvenno-nauchnyh-predmetov)
 
 [#Шмелева](https://er.ru/activity/news?tags%5B0%5D=35207) [#Генсовет](https://er.ru/activity/news?tags%5B0%5D=121) [#комиссия](https://er.ru/activity/news?tags%5B0%5D=168) [#преподавание](https://er.ru/activity/news?tags%5B0%5D=3944) [#математика](https://er.ru/activity/news?tags%5B0%5D=42132) [#естественныенауки](https://er.ru/activity/news?tags%5B0%5D=143161)
-
-11.12.24
-
-[![По инициативе «Единой России» военные песни в День Победы и другие памятные даты будут транслироваться и исполняться бесплатно](https://cdn.er.ru/media/news/December2024/GjLxKhMYu54u1CKIQaIG-small.jpg)](https://er.ru/activity/news/po-iniciative-edinoj-rossii-voennye-pesni-v-den-pobedy-i-drugie-pamyatnye-daty-budut-translirovatsya-i-ispolnyatsya-besplatno)
-
-[По инициативе «Единой России» военные песни в День Победы и другие памятные даты будут транслироваться и исполняться бесплатно](https://er.ru/activity/news/po-iniciative-edinoj-rossii-voennye-pesni-v-den-pobedy-i-drugie-pamyatnye-daty-budut-translirovatsya-i-ispolnyatsya-besplatno)
-
-[#Казакова](https://er.ru/activity/news?tags%5B0%5D=30356) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#ВОВ](https://er.ru/activity/news?tags%5B0%5D=357) [#песни](https://er.ru/activity/news?tags%5B0%5D=35291) [#ДеньПобеды](https://er.ru/activity/news?tags%5B0%5D=40290) [#законопреокт](https://er.ru/activity/news?tags%5B0%5D=30073)
-
-11.12.24
-
-[![Владимир Якушев: «Единая Россия» на Съезде 14 декабря обсудит направления работы на ближайшее время](https://cdn.er.ru/media/news/December2024/BOmqSkaVN3vAg7S0387n-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-na-sezde-14-dekabrya-obsudit-napravleniya-raboty-na-blizhajshee-vremya)
-
-[Владимир Якушев: «Единая Россия» на Съезде 14 декабря обсудит направления работы на ближайшее время](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-na-sezde-14-dekabrya-obsudit-napravleniya-raboty-na-blizhajshee-vremya)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#съезд](https://er.ru/activity/news?tags%5B0%5D=103) [#устав](https://er.ru/activity/news?tags%5B0%5D=978)
-
-11.12.24
-
-[![Дмитрий Медведев: Москва и Пекин активно развивают межпартийное сотрудничество по линии «Единой России» и КПК](https://cdn.er.ru/media/news/December2024/0YK2cGkRhW88Ah0Qnwhe-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-moskva-i-pekin-aktivno-razvivayut-mezhpartijnoe-sotrudnichestvo-po-linii-edinoj-rossii-i-kpk)
-
-[Дмитрий Медведев: Москва и Пекин активно развивают межпартийное сотрудничество по линии «Единой России» и КПК](https://er.ru/activity/news/dmitrij-medvedev-moskva-i-pekin-aktivno-razvivayut-mezhpartijnoe-sotrudnichestvo-po-linii-edinoj-rossii-i-kpk)
-
-[#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#КНР](https://er.ru/activity/news?tags%5B0%5D=1871) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522)
 
 11.12.24
 
