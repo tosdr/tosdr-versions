@@ -113,6 +113,7 @@ Please enter a search term
     * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
     * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
         * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
+        * [Aerospace & Defence](https://www.pinsentmasons.com/sectors/technology-science-industry/aerospace-defence)
         * [Diversified Industrial](https://www.pinsentmasons.com/sectors/technology-science-industry/diversified-industrial)
         * [Life Sciences & Health](https://www.pinsentmasons.com/sectors/technology-science-industry/life-sciences-health)
         * [Technology & Digital Markets](https://www.pinsentmasons.com/sectors/technology-science-industry/technology)
