@@ -1,6 +1,6 @@
-[![Platinmods.com - Android & iOS MOD APKs IPAs, Games & Apps](/styles/io_dark/images/pm_logo.png)](https://platinmods.com/)
+[![Platinmods - Best Free Android MOD APK & iOS Community](/styles/io_dark/images/pm_logo.png)](https://platinmods.com/)
 
-[![Platinmods.com - Android & iOS MOD APKs IPAs, Games & Apps](/styles/io_dark/images/pm_logo.png)](https://platinmods.com/)
+[![Platinmods - Best Free Android MOD APK & iOS Community](/styles/io_dark/images/pm_logo.png)](https://platinmods.com/)
 
 * [HOME](https://platinmods.com/)
     
@@ -69,7 +69,7 @@ Help
 
 [DMCA](https://platinmods.com/help/dmca/) [Smilies](https://platinmods.com/help/smilies/) [BB codes](https://platinmods.com/help/bb-codes/) [Hide BB codes](https://platinmods.com/help/hide-bb-codes/) [Trophies](https://platinmods.com/help/trophies/) [Cookie usage](https://platinmods.com/help/cookies/) [Terms and rules](https://platinmods.com/help/terms/) [Privacy policy](https://platinmods.com/help/privacy-policy/)
 
-We are Platinmods.com - Android & iOS MOD APKs IPAs, Games & Apps ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://platinmods.com/misc/contact).
+We are Platinmods - Best Free Android MOD APK & iOS Community ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please [contact us](https://platinmods.com/misc/contact).
 
 What information we hold about you
 ----------------------------------
@@ -152,25 +152,25 @@ This site is protected by hCaptcha and its [privacy policy](https://hcaptcha.com
 
 ### Share this page
 
-[WhatsApp](#_xfUid-1-1733955202) [Email](#_xfUid-1-1733955202) [Share](#_xfUid-1-1733955202) [Link](#_xfUid-1-1733955202)
+[WhatsApp](#_xfUid-1-1733973004) [Email](#_xfUid-1-1733973004) [Share](#_xfUid-1-1733973004) [Link](#_xfUid-1-1733973004)
 
 ### Forum statistics
 
 Threads
 
-69,208
+69,239
 
 Messages
 
-3,060,345
+3,061,007
 
 Members
 
-4,810,654
+4,811,245
 
 Latest member
 
-[aizen204](https://platinmods.com/members/aizen204.5140763/)
+[frendydc87](https://platinmods.com/members/frendydc87.5141361/)
 
 * [Platinmods.com - Futuristic S-Dark](https://platinmods.com/misc/style "Style chooser")
 
