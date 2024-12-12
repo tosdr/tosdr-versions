@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/01820b09-170b-4c58-aa82-ee6c6c1177c2/20241212T020744/01820b09-170b-4c58-aa82-ee6c6c1177c2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/01820b09-170b-4c58-aa82-ee6c6c1177c2/20241212T020744/01820b09-170b-4c58-aa82-ee6c6c1177c2_360x203.jpg)](https://www.king5.com/article/news/local/man-charged-allegedly-causing-1-million-in-damage-kitsap-county-construction-site/281-3ec7c2cc-dcea-43f0-8331-12c261f996b4)
+    *  [![](https://media.king5.com/assets/KING/images/7a6af6cc-3624-4c84-a9fc-79a4e385c83c/20241212T071419/7a6af6cc-3624-4c84-a9fc-79a4e385c83c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7a6af6cc-3624-4c84-a9fc-79a4e385c83c/20241212T071419/7a6af6cc-3624-4c84-a9fc-79a4e385c83c_360x203.jpg)](https://www.king5.com/article/news/local/body-worn-video-arrest-edmonds-cop-after-allegedly-pointed-gun-at-driver-while-off-duty/281-0dcb4f20-b394-475c-af11-281965800d0f)
         
-        #### [Man charged for allegedly causing more than $1 million in damage at Kitsap County construction site](https://www.king5.com/article/news/local/man-charged-allegedly-causing-1-million-in-damage-kitsap-county-construction-site/281-3ec7c2cc-dcea-43f0-8331-12c261f996b4) [![](https://media.king5.com/assets/KING/images/01820b09-170b-4c58-aa82-ee6c6c1177c2/20241212T020744/01820b09-170b-4c58-aa82-ee6c6c1177c2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/01820b09-170b-4c58-aa82-ee6c6c1177c2/20241212T020744/01820b09-170b-4c58-aa82-ee6c6c1177c2_360x203.jpg)](https://www.king5.com/article/news/local/man-charged-allegedly-causing-1-million-in-damage-kitsap-county-construction-site/281-3ec7c2cc-dcea-43f0-8331-12c261f996b4)
+        #### [Body-worn video shows arrest of Edmonds cop after she allegedly pointed gun at driver while off-duty](https://www.king5.com/article/news/local/body-worn-video-arrest-edmonds-cop-after-allegedly-pointed-gun-at-driver-while-off-duty/281-0dcb4f20-b394-475c-af11-281965800d0f)
         
-        #### [Former employee charged after allegedly causing $1 million in damage at Kitsap County construction site](https://www.king5.com/article/news/local/man-charged-allegedly-causing-1-million-in-damage-kitsap-county-construction-site/281-3ec7c2cc-dcea-43f0-8331-12c261f996b4)
-    *  [![](https://media.king5.com/assets/KING/images/a3806ea2-fc84-40b8-8fd4-e93daf529dad/20241211T190951/a3806ea2-fc84-40b8-8fd4-e93daf529dad_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3806ea2-fc84-40b8-8fd4-e93daf529dad/20241211T190951/a3806ea2-fc84-40b8-8fd4-e93daf529dad_360x203.jpg)](https://www.king5.com/article/news/local/seattle/david-bonderman-seattle-kraken-dies/281-f341c94c-0a92-4b92-a763-578e42262e90)
+    *  [![](https://media.king5.com/assets/KING/images/9f7a4116-3665-4f55-9970-9069a2e98c99/20241021T131731/9f7a4116-3665-4f55-9970-9069a2e98c99_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9f7a4116-3665-4f55-9970-9069a2e98c99/20241021T131731/9f7a4116-3665-4f55-9970-9069a2e98c99_360x203.jpg)](https://www.king5.com/article/news/local/officials-plan-file-lawsuit-challenging-constitutionality-i-2066/281-9e2fa3fd-d8c4-45a4-ad87-fafce8495308)
         
-        #### [Seattle Kraken co-owner David Bonderman dies at 82](https://www.king5.com/article/news/local/seattle/david-bonderman-seattle-kraken-dies/281-f341c94c-0a92-4b92-a763-578e42262e90)
+        #### [Officials plan to file lawsuit challenging constitutionality of I-2066](https://www.king5.com/article/news/local/officials-plan-file-lawsuit-challenging-constitutionality-i-2066/281-9e2fa3fd-d8c4-45a4-ad87-fafce8495308)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -57,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/dc544ca7-168d-47bc-bb5b-6c2fe7c5aa05/20241211T205319/dc544ca7-168d-47bc-bb5b-6c2fe7c5aa05_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dc544ca7-168d-47bc-bb5b-6c2fe7c5aa05/20241211T205319/dc544ca7-168d-47bc-bb5b-6c2fe7c5aa05_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/1ea145d8-3e88-4bf5-ac0e-018b8a60af02/20241212T022128/1ea145d8-3e88-4bf5-ac0e-018b8a60af02_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1ea145d8-3e88-4bf5-ac0e-018b8a60af02/20241212T022128/1ea145d8-3e88-4bf5-ac0e-018b8a60af02_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -106,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-42°
+38°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
