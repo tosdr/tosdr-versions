@@ -136,6 +136,7 @@ Menu
         
     * [Photography](https://apnews.com/photography)
         
+        * [2024 YEAR END PHOTOS](https://apnews.com/photography/2024-year-end-photos)
         * [Photo Essays](https://apnews.com/photography/photo-essays)
         * [Photography](https://apnews.com/photography)
         * [The Americans](https://apnews.com/photography/the-americans)
@@ -296,13 +297,14 @@ Submit Search
     
 * [Photography](https://apnews.com/photography)
     
+    * [2024 YEAR END PHOTOS](https://apnews.com/photography/2024-year-end-photos)
     * [Photo Essays](https://apnews.com/photography/photo-essays)
     * [Photography](https://apnews.com/photography)
     * [The Americans](https://apnews.com/photography/the-americans)
     
     SECTIONS
     
-    [Photo Essays](https://apnews.com/photography/photo-essays) [Photography](https://apnews.com/photography) [The Americans](https://apnews.com/photography/the-americans)
+    [2024 YEAR END PHOTOS](https://apnews.com/photography/2024-year-end-photos) [Photo Essays](https://apnews.com/photography/photo-essays) [Photography](https://apnews.com/photography) [The Americans](https://apnews.com/photography/the-americans)
     
 * [AP Investigations](https://apnews.com/hub/ap-investigations/)
     
