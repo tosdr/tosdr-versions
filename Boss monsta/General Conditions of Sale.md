@@ -3,8 +3,8 @@
 * Collaborators
     
     * Collaborators
+    * [Danny](https://bossmonsta.com/collections/danny-the-protogen "Danny")
     * [IVYCOMB](https://bossmonsta.com/collections/ivycomb "IVYCOMB")
-    * [RAEAL](https://bossmonsta.com/collections/raeal "RAEAL")
     * [SLUSHIE](https://bossmonsta.com/collections/slushie "SLUSHIE")
     * [SNUFFLES](https://bossmonsta.com/collections/snuffles "SNUFFLES")
     * [TERANEN](https://bossmonsta.com/collections/teranen "TERANEN")
@@ -30,8 +30,8 @@
 
 * [Collaborators](https://bossmonsta.com/)
     
+    * [Danny](https://bossmonsta.com/collections/danny-the-protogen)
     * [IVYCOMB](https://bossmonsta.com/collections/ivycomb)
-    * [RAEAL](https://bossmonsta.com/collections/raeal)
     * [SLUSHIE](https://bossmonsta.com/collections/slushie)
     * [SNUFFLES](https://bossmonsta.com/collections/snuffles)
     * [TERANEN](https://bossmonsta.com/collections/teranen)
