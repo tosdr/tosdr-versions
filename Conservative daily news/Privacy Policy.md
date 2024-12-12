@@ -2,14 +2,14 @@ Thursday, December 12 2024
 
 Breaking News
 
+* [Manchin, Sinema Help Tank Pro-Union Biden Labor Board Nominee On Their Way Out The Door](https://www.conservativedailynews.com/2024/12/manchin-sinema-help-tank-pro-union-biden-labor-board-nominee-on-their-way-out-the-door/)
+* [Job One For Doug Burgum](https://www.conservativedailynews.com/2024/12/job-one-for-doug-burgum/)
+* [DOJ Misled Courts In Applications To Abet Snooping On Lawmakers, Staffers As Russiagate Played Out](https://www.conservativedailynews.com/2024/12/doj-misled-courts-in-applications-to-abet-snooping-on-lawmakers-staffers-as-russiagate-played-out/)
+* [Ukraine Sent Drone Operators And Drones To U.S. Designated Terrorist Group](https://www.conservativedailynews.com/2024/12/ukraine-sent-drone-operators-and-drones-to-u-s-designated-terrorist-group/)
+* [President Joe Biden’s Schedule for Thursday, December 12, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-thursday-december-12-2024/)
 * [Alan Dershowitz Predicts Daniel Penny Will ‘Win’ Civil Lawsuit](https://www.conservativedailynews.com/2024/12/alan-dershowitz-predicts-daniel-penny-will-win-civil-lawsuit/)
 * [Hunter Biden’s Pardon Really Rubbed America The Wrong Way, Poll Shows](https://www.conservativedailynews.com/2024/12/hunter-bidens-pardon-really-rubbed-america-the-wrong-way-poll-shows/)
 * [Army Fires Four-Star ‘Renegade General’ Who Promoted Deeply Unqualified Female Crony](https://www.conservativedailynews.com/2024/12/army-fires-four-star-renegade-general-who-promoted-deeply-unqualified-female-crony/)
-* [Biden Issuing Preemptive Pardons To Trump Opponents Would Be Big Expansion Of Power](https://www.conservativedailynews.com/2024/12/biden-issuing-preemptive-pardons-to-trump-opponents-would-be-big-expansion-of-power/)
-* [California County Dems Move To Shield Migrants Charged With ‘Heinous Crimes’ From ICE](https://www.conservativedailynews.com/2024/12/california-county-dems-move-to-shield-migrants-charged-with-heinous-crimes-from-ice/)
-* [Daniel Penny Stands By His Actions, Says He’d Face Court ‘Million’ Times To Save Others](https://www.conservativedailynews.com/2024/12/daniel-penny-stands-by-his-actions-says-hed-face-court-million-times-to-save-others/)
-* [President Joe Biden’s Schedule for Wednesday, December 11, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-wednesday-december-11-2024/)
-* [Biden’s Sprint To The Finish Looks Like A Tortoise Race](https://www.conservativedailynews.com/2024/12/bidens-sprint-to-the-finish-looks-like-a-tortoise-race/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,57 +130,58 @@ Orange = One-Time Donations
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/12/alan-dershowitz-predicts-daniel-penny-will-win-civil-lawsuit/)
+* [![Daniel Penny](https://www.conservativedailynews.com/wp-content/uploads/2024/12/mrz121224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/a-penny-saved/)
     
-    [Alan Dershowitz Predicts Daniel Penny Will ‘Win’ Civil Lawsuit](https://www.conservativedailynews.com/2024/12/alan-dershowitz-predicts-daniel-penny-will-win-civil-lawsuit/)
+    [A Penny Saved…](https://www.conservativedailynews.com/2024/12/a-penny-saved/)
     
-    December 11, 2024
+    December 12, 2024
     
-* [![Joe Biden pardon hunter](https://www.conservativedailynews.com/wp-content/uploads/2024/06/gv061324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/hunter-bidens-pardon-really-rubbed-america-the-wrong-way-poll-shows/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/12/universal-health-care-delusions/)
     
-    [Hunter Biden’s Pardon Really Rubbed America The Wrong Way, Poll Shows](https://www.conservativedailynews.com/2024/12/hunter-bidens-pardon-really-rubbed-america-the-wrong-way-poll-shows/)
+    [Universal Health Care Delusions](https://www.conservativedailynews.com/2024/12/universal-health-care-delusions/)
     
-    December 11, 2024
+    December 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/Pentagon-220x150.jpg)](https://www.conservativedailynews.com/2024/12/army-fires-four-star-renegade-general-who-promoted-deeply-unqualified-female-crony/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/08/Couch-Furniture-Chair-Living-Room-220x150.png)](https://www.conservativedailynews.com/2024/12/the-high-cost-of-sitting-down-2/)
     
-    [Army Fires Four-Star ‘Renegade General’ Who Promoted Deeply Unqualified Female Crony](https://www.conservativedailynews.com/2024/12/army-fires-four-star-renegade-general-who-promoted-deeply-unqualified-female-crony/)
+    [The High Cost of Sitting Down](https://www.conservativedailynews.com/2024/12/the-high-cost-of-sitting-down-2/)
     
-    December 11, 2024
+    December 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-signing-bill-Jill-Biden-supervising-220x150.png)](https://www.conservativedailynews.com/2024/12/biden-issuing-preemptive-pardons-to-trump-opponents-would-be-big-expansion-of-power/)
+* [![Joe Biden not sure signing considering confused sad upset](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-not-sure-signing-considering-confused-220x150.png)](https://www.conservativedailynews.com/2024/12/manchin-sinema-help-tank-pro-union-biden-labor-board-nominee-on-their-way-out-the-door/)
     
-    [Biden Issuing Preemptive Pardons To Trump Opponents Would Be Big Expansion Of Power](https://www.conservativedailynews.com/2024/12/biden-issuing-preemptive-pardons-to-trump-opponents-would-be-big-expansion-of-power/)
+    [Manchin, Sinema Help Tank Pro-Union Biden Labor Board Nominee On Their Way Out The Door](https://www.conservativedailynews.com/2024/12/manchin-sinema-help-tank-pro-union-biden-labor-board-nominee-on-their-way-out-the-door/)
     
-    December 11, 2024
+    December 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/09/Sanctuary-City-sign-2-1.jpg)](https://www.conservativedailynews.com/2024/12/california-county-dems-move-to-shield-migrants-charged-with-heinous-crimes-from-ice/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/02/Oil-pump-jack-220x150.jfif)](https://www.conservativedailynews.com/2024/12/job-one-for-doug-burgum/)
     
-    [California County Dems Move To Shield Migrants Charged With ‘Heinous Crimes’ From ICE](https://www.conservativedailynews.com/2024/12/california-county-dems-move-to-shield-migrants-charged-with-heinous-crimes-from-ice/)
+    [Job One For Doug Burgum](https://www.conservativedailynews.com/2024/12/job-one-for-doug-burgum/)
     
-    December 11, 2024
+    December 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/Daniel-Penny-220x150.jpg)](https://www.conservativedailynews.com/2024/12/daniel-penny-stands-by-his-actions-says-hed-face-court-million-times-to-save-others/)
+* [![Department of Justice weapon Jack Smith](https://www.conservativedailynews.com/wp-content/uploads/2022/11/stg112022dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/doj-misled-courts-in-applications-to-abet-snooping-on-lawmakers-staffers-as-russiagate-played-out/)
     
-    [Daniel Penny Stands By His Actions, Says He’d Face Court ‘Million’ Times To Save Others](https://www.conservativedailynews.com/2024/12/daniel-penny-stands-by-his-actions-says-hed-face-court-million-times-to-save-others/)
+    [DOJ Misled Courts In Applications To Abet Snooping On Lawmakers, Staffers As Russiagate Played Out](https://www.conservativedailynews.com/2024/12/doj-misled-courts-in-applications-to-abet-snooping-on-lawmakers-staffers-as-russiagate-played-out/)
     
-    December 11, 2024
+    December 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/04/Judge-with-Gavel-220x150.jpg)](https://www.conservativedailynews.com/2024/12/federal-state-judges-block-kroger-albertsons-25-billion-merger/)
+* [![Zelensky Ukraine](https://www.conservativedailynews.com/wp-content/uploads/2023/03/stg030223dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/ukraine-sent-drone-operators-and-drones-to-u-s-designated-terrorist-group/)
     
-    [Federal, State Judges Block Kroger-Albertsons $25 Billion Merger](https://www.conservativedailynews.com/2024/12/federal-state-judges-block-kroger-albertsons-25-billion-merger/)
+    [Ukraine Sent Drone Operators And Drones To U.S. Designated Terrorist Group](https://www.conservativedailynews.com/2024/12/ukraine-sent-drone-operators-and-drones-to-u-s-designated-terrorist-group/)
     
-    December 11, 2024
+    December 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg121124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/bad-gifts-2/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/12/the-devils-are-here/)
     
-    [Bad Gifts](https://www.conservativedailynews.com/2024/12/bad-gifts-2/)
+    [The Devils Are Here](https://www.conservativedailynews.com/2024/12/the-devils-are-here/)
     
-    December 11, 2024
+    December 12, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [A Survival Guide For USPSA Range Officers](https://www.thegunpage.com/a-survival-guide-for-uspsa-range-officers/10612452)
 * [TFB Review: Vectronix Vector X – Premium Laser Rangefinder Binocular](https://www.thegunpage.com/tfb-review-vectronix-vector-x-premium-laser-rangefinder-binocular/10612449)
 * [POTD: Tanfoglio Gold Custom Eric – Shooting Open .38 Super Comp](https://www.thegunpage.com/potd-tanfoglio-gold-custom-eric-shooting-open-38-super-comp/10612450)
 * [Wheelgun Wednesday: A WWI Bayonet For British Revolvers](https://www.thegunpage.com/wheelgun-wednesday-a-wwi-bayonet-for-british-revolvers/10612451)
@@ -190,7 +191,6 @@ Recent Posts
 * [Illegal Chinese National Arrested In California Shipping Weapons And Devices To North Korea](https://www.thegunpage.com/illegal-chinese-national-arrested-in-california-shipping-weapons-and-devices-to-north-korea/10612441)
 * [The Sub $1K Double-Stack 1911 – Girsan Witness2311 Match](https://www.thegunpage.com/the-sub-1k-double-stack-1911-girsan-witness2311-match/10612446)
 * [GOA Announces Second Annual GOALS Conference for 2025](https://www.thegunpage.com/goa-announces-second-annual-goals-conference-for-2025/10612439)
-* [Michigan Gun Control Bill Pushes for Only State-Approved Firearm Colors](https://www.thegunpage.com/michigan-gun-control-bill-pushes-for-only-state-approved-firearm-colors/10612433)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
