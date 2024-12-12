@@ -36,26 +36,6 @@ FOX SCORES
     | IND | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250503)
-* [Men's T20I
-    
-    ZIM won by 4 wkts
-    
-    |     |     |
-    | --- | --- |
-    | ZIM | 6 /145 |
-    | AFG | 6 /144 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-251001)
-* [Women's ODI
-    
-    AUS won by 83 runs
-    
-    |     |     |
-    | --- | --- |
-    | AUS | 6 /298 |
-    | IND | 215 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250403)
 * [Women's ODI
     
     ENG won by 6 wkts (DLS)
@@ -66,38 +46,48 @@ FOX SCORES
     | ENG | 4 /153 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250503)
+* [Big Bash League
+    
+    15/12 19:15 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PER | –   |
+    | MELS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/BBL2024-250101)
 * Basketball
     
 * [NBA
     
-    3rd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | NY  | 66  |
-    | ATL | 70  |
+    | NY  | 100 |
+    | ATL | 108 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010125/box-score)
 * [NBA
     
-    12/12 13:30 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | HOU | –   |
-    | GS  | –   |
+    | HOU | 91  |
+    | GS  | 90  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010123)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010123/box-score)
 * [NBL
     
-    12/12 17:30 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | NZB | –   |
-    | TAS | –   |
+    | NZB | 42  |
+    | TAS | 59  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25120001)
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25120001/play-by-play)
 * [NBL
     
     12/12 19:30 AEST
