@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -157,7 +157,7 @@
 * [Бутерброды с килькой и ливерной колбасой](https://www.russianfood.com/recipes/recipe.php?rid=5489)
 * [Бутерброды со свеклой](https://www.russianfood.com/recipes/recipe.php?rid=5523)
 * [Суп из квашеной капусты](https://www.russianfood.com/recipes/recipe.php?rid=7498)
-* [Вафельный рулет с сосиской](https://www.russianfood.com/recipes/recipe.php?rid=8089)
+* [Салат с колбасой](https://www.russianfood.com/recipes/recipe.php?rid=8269)
 
 |     |
 | --- |
@@ -179,6 +179,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Миндальное печенье](https://www.russianfood.com/recipes/recipe.php?rid=175128) |     |
+
+[![Фото к рецепту: Миндальное печенье](//img1.russianfood.com/dycontent/images_upl/761/sm_760115.jpg "Фото к рецепту: Миндальное печенье")](https://www.russianfood.com/recipes/recipe.php?rid=175128)
+
+Миндальное печенье готовить очень просто, а получается оно необыкновенно вкусным. Воздушное, хрустящее, с насыщенным вкусом миндаля. Если вы не знаете, куда потратить яичные белки, рекомендую это печенье.) Приготовьте и попробуйте.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175128)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175128#comments) | 12.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Благотворительность › [Благотворительность](https://www.russianfood.com/themes/?theme_id=23)<br><br>[Девочке нужны постоянные занятия со специалистами и курсы реабилитации.](https://www.russianfood.com/reading/?post_id=22986) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/760/sm_759984.jpg)](https://www.russianfood.com/reading/?post_id=22986)
+
+Кристину ждут в одном из РЦ г. Санкт-Петербурга, чтобы продолжить работу по закреплению уже приобретенных умений и развитию новых. Курс реабилитации в этом центре стоит 89 910 рублей, и мы знаем, что с вашей помощью нам удастся помочь Кристине попасть на необходимый ей курс реабилитации.
+
+[Читать дальше](https://www.russianfood.com/reading/?post_id=22986)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Благотворительность](https://www.russianfood.com/blogs/?id=276205) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22986#comments) | 12.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -276,7 +304,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175022#comments) | 12.12.24 |     |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175022#comments) | 12.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -290,7 +318,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175076#comments) | 12.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175076#comments) | 12.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -360,35 +388,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175069#comments) | 11.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Простой состав – прекрасный вкус! Лучшие рецепты ЭКОНОМНЕЕ! №24-50](https://www.russianfood.com/reading/?post_id=22980) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/757/sm_756154.jpg)](https://www.russianfood.com/reading/?post_id=22980)
-
-Бутерброды "Змейки" со шпинатом и сыром. Капустные котлеты с грибами. Картошка со стручковой фасолью. Говяжья печень в томатно-медовом соусе. Творожно-молочное желе с бананом.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22980)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ЭКОНОМНЕЕ!](https://www.russianfood.com/blogs/?id=338625) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22980#comments) | 11.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[И для будней, и для праздников! Лучшие УЖИНЫ №24-50](https://www.russianfood.com/reading/?post_id=22979) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/756/sm_755699.jpg)](https://www.russianfood.com/reading/?post_id=22979)
-
-Салат "Змея" с курицей и сыром. Рис с грибами, горошком и беконом. Котлеты под шубкой. Морской коктейль в соусе. Картошка с курицей и яблоками. Стейки из цветной капусты с курицей. Картошка с капустой и черносливом.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22979)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие ужины](https://www.russianfood.com/blogs/?id=325304) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22979#comments) | 11.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175069#comments) | 11.12.24 |     |
 
 |     |
 | --- |
@@ -461,10 +461,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756936.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174807) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756173.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174419) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753284.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174632) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758670.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175022) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754914.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759568.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175076) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759431.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174889) |
-| [Салат "Змея" с картошкой, рыбными консервами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174807) | [Полента с говядиной (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174419) | [Слоёная галета с цукини, рикоттой и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174632) | [Пряный тыквенный кекс](https://www.russianfood.com/recipes/recipe.php?rid=175022) | [Круглая гата с начинкой "хориз" (с сухофруктами и орехами)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [Яичные роллы с крабовыми палочками и сыром](https://www.russianfood.com/recipes/recipe.php?rid=175076) | [Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=174889) |
-| [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758737.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174955) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758712.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174952) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758757.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174953) |
-| [Суп с говяжьим фаршем и бататом](https://www.russianfood.com/recipes/recipe.php?rid=174955) | [Закусочный пирог из лаваша, с сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [Сырный суп с шампиньонами и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174952) | [Рыбный суп с тыквой и сливками](https://www.russianfood.com/recipes/recipe.php?rid=174953) |
+| [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754914.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753284.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174632) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756936.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174807) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756173.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174419) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760115.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175128) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758712.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174952) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758670.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175022) |
+| [Круглая гата с начинкой "хориз" (с сухофруктами и орехами)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [Слоёная галета с цукини, рикоттой и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174632) | [Салат "Змея" с картошкой, рыбными консервами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174807) | [Полента с говядиной (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174419) | [Миндальное печенье](https://www.russianfood.com/recipes/recipe.php?rid=175128) | [Сырный суп с шампиньонами и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174952) | [Пряный тыквенный кекс](https://www.russianfood.com/recipes/recipe.php?rid=175022) |
+| [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759431.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174889) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758737.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174955) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758757.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174953) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759568.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175076) |
+| [Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=174889) | [Суп с говяжьим фаршем и бататом](https://www.russianfood.com/recipes/recipe.php?rid=174955) | [Закусочный пирог из лаваша, с сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [Рыбный суп с тыквой и сливками](https://www.russianfood.com/recipes/recipe.php?rid=174953) | [Яичные роллы с крабовыми палочками и сыром](https://www.russianfood.com/recipes/recipe.php?rid=175076) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -481,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(126)
+(103)
