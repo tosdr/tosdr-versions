@@ -1,5 +1,5 @@
   
-Privacy policy – G FUEL                                                                                                  
+Privacy policy – G FUEL                                                                                          
 
 [Skip to content](#MainContent)  
 
@@ -115,7 +115,7 @@ Close menu
 
 ### SEE HOTTEST PICKS 🔥
 
- [![Nuka Cola Quantum](//gfuel.com/cdn/shop/files/nuka-cola-quantum-tub-g-fuel-gamer-drink-655279_medium.png?v=1712710170) Nuka Cola Quantum](https://gfuel.com/products/fallout-25-anniversary-nuka-cola-quantum-energy-tub)
+ [![Nuka Cola](//gfuel.com/cdn/shop/files/nuka-cola-quantum-tub-g-fuel-gamer-drink-655279_medium.png?v=1712710170) Nuka Cola](https://gfuel.com/products/fallout-25-anniversary-nuka-cola-energy-tub)
 
  [![Miami Nights](//gfuel.com/cdn/shop/files/miami-nights-tub-g-fuel-gamer-drink-108238_medium.png?v=1733447356) Miami Nights](https://gfuel.com/products/miami-nights-tub)
 
