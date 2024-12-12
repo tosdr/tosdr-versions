@@ -2,14 +2,14 @@ Thursday, December 12 2024
 
 Breaking News
 
+* [Translunacy](https://www.conservativedailynews.com/2024/12/translunacy/)
+* [White House Press Briefing with Karine Jean-Pierre – 12/12/24](https://www.conservativedailynews.com/2024/12/white-house-press-briefing-with-karine-jean-pierre-12-12-24/)
+* [Joe, Please Do No (more) Harm To America On Your Way Out](https://www.conservativedailynews.com/2024/12/joe-please-do-no-more-harm-to-america-on-your-way-out/)
 * [Manchin, Sinema Help Tank Pro-Union Biden Labor Board Nominee On Their Way Out The Door](https://www.conservativedailynews.com/2024/12/manchin-sinema-help-tank-pro-union-biden-labor-board-nominee-on-their-way-out-the-door/)
 * [Job One For Doug Burgum](https://www.conservativedailynews.com/2024/12/job-one-for-doug-burgum/)
 * [DOJ Misled Courts In Applications To Abet Snooping On Lawmakers, Staffers As Russiagate Played Out](https://www.conservativedailynews.com/2024/12/doj-misled-courts-in-applications-to-abet-snooping-on-lawmakers-staffers-as-russiagate-played-out/)
 * [Ukraine Sent Drone Operators And Drones To U.S. Designated Terrorist Group](https://www.conservativedailynews.com/2024/12/ukraine-sent-drone-operators-and-drones-to-u-s-designated-terrorist-group/)
 * [President Joe Biden’s Schedule for Thursday, December 12, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-thursday-december-12-2024/)
-* [Alan Dershowitz Predicts Daniel Penny Will ‘Win’ Civil Lawsuit](https://www.conservativedailynews.com/2024/12/alan-dershowitz-predicts-daniel-penny-will-win-civil-lawsuit/)
-* [Hunter Biden’s Pardon Really Rubbed America The Wrong Way, Poll Shows](https://www.conservativedailynews.com/2024/12/hunter-bidens-pardon-really-rubbed-america-the-wrong-way-poll-shows/)
-* [Army Fires Four-Star ‘Renegade General’ Who Promoted Deeply Unqualified Female Crony](https://www.conservativedailynews.com/2024/12/army-fires-four-star-renegade-general-who-promoted-deeply-unqualified-female-crony/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,28 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![gender surgery pediaquack](https://www.conservativedailynews.com/wp-content/uploads/2023/06/mrz061323dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/translunacy/)
+    
+    [Translunacy](https://www.conservativedailynews.com/2024/12/translunacy/)
+    
+    December 12, 2024
+    
+* [White House Press Briefing with Karine Jean-Pierre – 12/12/24](https://www.conservativedailynews.com/2024/12/white-house-press-briefing-with-karine-jean-pierre-12-12-24/)
+    
+    December 12, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5908-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/joe-please-do-no-more-harm-to-america-on-your-way-out/)
+    
+    [Joe, Please Do No (more) Harm To America On Your Way Out](https://www.conservativedailynews.com/2024/12/joe-please-do-no-more-harm-to-america-on-your-way-out/)
+    
+    December 12, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/02-stopww3-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/a-f-branco-cartoon-trouble-shooter/)
+    
+    [Trouble Shooter](https://www.conservativedailynews.com/2024/12/a-f-branco-cartoon-trouble-shooter/)
+    
+    December 12, 2024
+    
 * [![Daniel Penny](https://www.conservativedailynews.com/wp-content/uploads/2024/12/mrz121224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/a-penny-saved/)
     
     [A Penny Saved…](https://www.conservativedailynews.com/2024/12/a-penny-saved/)
@@ -154,33 +176,11 @@ Recent Posts
     
     December 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/02/Oil-pump-jack-220x150.jfif)](https://www.conservativedailynews.com/2024/12/job-one-for-doug-burgum/)
-    
-    [Job One For Doug Burgum](https://www.conservativedailynews.com/2024/12/job-one-for-doug-burgum/)
-    
-    December 12, 2024
-    
-* [![Department of Justice weapon Jack Smith](https://www.conservativedailynews.com/wp-content/uploads/2022/11/stg112022dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/doj-misled-courts-in-applications-to-abet-snooping-on-lawmakers-staffers-as-russiagate-played-out/)
-    
-    [DOJ Misled Courts In Applications To Abet Snooping On Lawmakers, Staffers As Russiagate Played Out](https://www.conservativedailynews.com/2024/12/doj-misled-courts-in-applications-to-abet-snooping-on-lawmakers-staffers-as-russiagate-played-out/)
-    
-    December 12, 2024
-    
-* [![Zelensky Ukraine](https://www.conservativedailynews.com/wp-content/uploads/2023/03/stg030223dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/ukraine-sent-drone-operators-and-drones-to-u-s-designated-terrorist-group/)
-    
-    [Ukraine Sent Drone Operators And Drones To U.S. Designated Terrorist Group](https://www.conservativedailynews.com/2024/12/ukraine-sent-drone-operators-and-drones-to-u-s-designated-terrorist-group/)
-    
-    December 12, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/12/the-devils-are-here/)
-    
-    [The Devils Are Here](https://www.conservativedailynews.com/2024/12/the-devils-are-here/)
-    
-    December 12, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Recent Ballistic Analysis Places Officer On No Gun Status After Bystander Shooting](https://www.thegunpage.com/recent-ballistic-analysis-places-officer-on-no-gun-status-after-bystander-shooting/10612455)
+* [Academy Sports Recalls Redfield 12-Gun and 18-Gun Fireproof Safes](https://www.thegunpage.com/academy-sports-recalls-redfield-12-gun-and-18-gun-fireproof-safes/10612453)
 * [A Survival Guide For USPSA Range Officers](https://www.thegunpage.com/a-survival-guide-for-uspsa-range-officers/10612452)
 * [TFB Review: Vectronix Vector X – Premium Laser Rangefinder Binocular](https://www.thegunpage.com/tfb-review-vectronix-vector-x-premium-laser-rangefinder-binocular/10612449)
 * [POTD: Tanfoglio Gold Custom Eric – Shooting Open .38 Super Comp](https://www.thegunpage.com/potd-tanfoglio-gold-custom-eric-shooting-open-38-super-comp/10612450)
@@ -189,8 +189,6 @@ Recent Posts
 * [FAB Defense Grips, Stocks and Mags](https://www.thegunpage.com/fab-defense-grips-stocks-and-mags/10612443)
 * [Ruger & Magpul are Making a Glock Clone? The Ruger RXM](https://www.thegunpage.com/ruger-magpul-are-making-a-glock-clone-the-ruger-rxm/10612445)
 * [Illegal Chinese National Arrested In California Shipping Weapons And Devices To North Korea](https://www.thegunpage.com/illegal-chinese-national-arrested-in-california-shipping-weapons-and-devices-to-north-korea/10612441)
-* [The Sub $1K Double-Stack 1911 – Girsan Witness2311 Match](https://www.thegunpage.com/the-sub-1k-double-stack-1911-girsan-witness2311-match/10612446)
-* [GOA Announces Second Annual GOALS Conference for 2025](https://www.thegunpage.com/goa-announces-second-annual-goals-conference-for-2025/10612439)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +230,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [Hunter Biden’s Pardon Really Rubbed America The Wrong Way, Poll Shows](https://www.conservativedailynews.com/2024/12/hunter-bidens-pardon-really-rubbed-america-the-wrong-way-poll-shows/#comment-783704)
 * KayCee on [Bad Gifts](https://www.conservativedailynews.com/2024/12/bad-gifts-2/#comment-783697)
 * KayCee on [Hunter Biden’s Pardon Really Rubbed America The Wrong Way, Poll Shows](https://www.conservativedailynews.com/2024/12/hunter-bidens-pardon-really-rubbed-america-the-wrong-way-poll-shows/#comment-783696)
 * KayCee on [People In North Carolina Are living In Tents While Biden Pledges Billions To Africa](https://www.conservativedailynews.com/2024/12/people-in-north-carolina-are-living-in-tents-while-biden-pledges-billions-to-africa/#comment-783690)
@@ -240,7 +239,6 @@ Recent Comments
 * KayCee on [BLM Leader Calls For ‘Black Vigilantes’ To Descend On Cities Following Daniel Penny Acquittal](https://www.conservativedailynews.com/2024/12/blm-leader-calls-for-black-vigilantes-to-descend-on-cities-following-daniel-penny-acquittal/#comment-783652)
 * JSSWS on [He’s A Different Man, At Peace With His Mission](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/#comment-783601)
 * Stanley Warner on [The Biden Crime Family Is Above the Law](https://www.conservativedailynews.com/2024/12/the-biden-crime-family-is-above-the-law/#comment-783585)
-* Catherine Skinner on [Sold Out](https://www.conservativedailynews.com/2024/12/sold-out/#comment-783584)
 
 [Close](#)
 
