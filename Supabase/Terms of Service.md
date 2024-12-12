@@ -1,4 +1,4 @@
-[![Supabase Logo](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--light.daaeffd3.png&w=256&q=75)![Supabase Logo](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=256&q=75)](https://supabase.io/)
+[![Supabase Logo](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--light.daaeffd3.png&w=256&q=75&dpl=dpl_J48aNhGZB1CmwxNJpYRhun6hUzFD)![Supabase Logo](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=256&q=75&dpl=dpl_J48aNhGZB1CmwxNJpYRhun6hUzFD)](https://supabase.io/)
 
 * Product
 * Developers
@@ -236,7 +236,7 @@ We protect your data.[More on Security](https://supabase.io/security)
 * SOC2 Type 2 Certified
 * HIPAA Compliant
 
-[![Supabase Logo](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--light.daaeffd3.png&w=384&q=75)![Supabase Logo](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=384&q=75)](https://supabase.io/)
+[![Supabase Logo](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--light.daaeffd3.png&w=384&q=75&dpl=dpl_J48aNhGZB1CmwxNJpYRhun6hUzFD)![Supabase Logo](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fsupabase-logo-wordmark--dark.b36ebb5f.png&w=384&q=75&dpl=dpl_J48aNhGZB1CmwxNJpYRhun6hUzFD)](https://supabase.io/)
 
 [Twitter](https://twitter.com/supabase)[GitHub](https://github.com/supabase)[Discord](https://discord.supabase.com/)[Youtube](https://youtube.com/c/supabase)
 
