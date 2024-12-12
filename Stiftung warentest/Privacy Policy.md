@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
+* [Kühl-Gefrier-Kombinationen im Test: Kühl­schränke − spar­sam und stark](https://www.test.de/Kuehlschraenke-im-Test-4735177-0/ "Kühl-Gefrier-Kombinationen im Test - Kühlschränke − sparsam und stark")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 * [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
-* [Saugroboter im Test: Die besten Saug- und Wischroboter für Teppich und Hartboden](https://www.test.de/Saugroboter-im-Test-4806685-0/ "Saugroboter im Test - Die besten Saug- und Wischroboter für Teppich und Hartboden")
-* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
-* [Immobilien­kredite: Diese Bedingungen bieten die Baufinanzierer](https://www.test.de/Immobilienkredite-Diese-Bedingungen-bieten-die-Baufinanzierer-6096433-0/ "Immobilienkredite - Diese Bedingungen bieten die Baufinanzierer")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [Verletzungs­gefahr: Philips ruft Bügel­stationen zurück](https://www.test.de/Verletzungsgefahr-Philips-ruft-Buegelstationen-zurueck-6177922-0/ "Verletzungsgefahr - Philips ruft Bügelstationen zurück")
-* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
-* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
+* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
+* [Wunder­sames aus dem Prüf­labor: Tauchtunnel](https://www.test.de/Wundersames-aus-dem-Prueflabor-Tauchtunnel-6145086-0/ "Wundersames aus dem Prüflabor - Tauchtunnel")
+* [Warn­liste: Nicht in Westen Invest investieren](https://www.test.de/Warnliste-Nicht-in-Westen-Invest-investieren-5997655-0/ "Warnliste - Nicht in Westen Invest investieren")
+* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
+* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
+* [Frag Finanztest: Jetzt noch in offene Immobilienfonds investieren?](https://www.test.de/Wie-investiere-ich-in-offene-Immobilienfonds-6133384-0/ "Frag Finanztest - Jetzt noch in offene Immobilienfonds investieren?")
 
 Weitere Informationen
 
@@ -3862,59 +3862,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
+* [Kühl-Gefrier-Kombinationen im Test: Kühl­schränke − spar­sam und stark](https://www.test.de/Kuehlschraenke-im-Test-4735177-0/ "Kühl-Gefrier-Kombinationen im Test - Kühlschränke − sparsam und stark")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 * [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
-* [Saugroboter im Test: Die besten Saug- und Wischroboter für Teppich und Hartboden](https://www.test.de/Saugroboter-im-Test-4806685-0/ "Saugroboter im Test - Die besten Saug- und Wischroboter für Teppich und Hartboden")
-* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
-* [Immobilien­kredite: Diese Bedingungen bieten die Baufinanzierer](https://www.test.de/Immobilienkredite-Diese-Bedingungen-bieten-die-Baufinanzierer-6096433-0/ "Immobilienkredite - Diese Bedingungen bieten die Baufinanzierer")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [Verletzungs­gefahr: Philips ruft Bügel­stationen zurück](https://www.test.de/Verletzungsgefahr-Philips-ruft-Buegelstationen-zurueck-6177922-0/ "Verletzungsgefahr - Philips ruft Bügelstationen zurück")
-* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
-* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
+* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
+* [Wunder­sames aus dem Prüf­labor: Tauchtunnel](https://www.test.de/Wundersames-aus-dem-Prueflabor-Tauchtunnel-6145086-0/ "Wundersames aus dem Prüflabor - Tauchtunnel")
+* [Warn­liste: Nicht in Westen Invest investieren](https://www.test.de/Warnliste-Nicht-in-Westen-Invest-investieren-5997655-0/ "Warnliste - Nicht in Westen Invest investieren")
+* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
+* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
+* [Frag Finanztest: Jetzt noch in offene Immobilienfonds investieren?](https://www.test.de/Wie-investiere-ich-in-offene-Immobilienfonds-6133384-0/ "Frag Finanztest - Jetzt noch in offene Immobilienfonds investieren?")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
+* [Kühl-Gefrier-Kombinationen im Test: Kühl­schränke − spar­sam und stark](https://www.test.de/Kuehlschraenke-im-Test-4735177-0/ "Kühl-Gefrier-Kombinationen im Test - Kühlschränke − sparsam und stark")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 * [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
-* [Saugroboter im Test: Die besten Saug- und Wischroboter für Teppich und Hartboden](https://www.test.de/Saugroboter-im-Test-4806685-0/ "Saugroboter im Test - Die besten Saug- und Wischroboter für Teppich und Hartboden")
-* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
-* [Immobilien­kredite: Diese Bedingungen bieten die Baufinanzierer](https://www.test.de/Immobilienkredite-Diese-Bedingungen-bieten-die-Baufinanzierer-6096433-0/ "Immobilienkredite - Diese Bedingungen bieten die Baufinanzierer")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [Verletzungs­gefahr: Philips ruft Bügel­stationen zurück](https://www.test.de/Verletzungsgefahr-Philips-ruft-Buegelstationen-zurueck-6177922-0/ "Verletzungsgefahr - Philips ruft Bügelstationen zurück")
-* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
-* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
+* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
+* [Wunder­sames aus dem Prüf­labor: Tauchtunnel](https://www.test.de/Wundersames-aus-dem-Prueflabor-Tauchtunnel-6145086-0/ "Wundersames aus dem Prüflabor - Tauchtunnel")
+* [Warn­liste: Nicht in Westen Invest investieren](https://www.test.de/Warnliste-Nicht-in-Westen-Invest-investieren-5997655-0/ "Warnliste - Nicht in Westen Invest investieren")
+* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
+* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
+* [Frag Finanztest: Jetzt noch in offene Immobilienfonds investieren?](https://www.test.de/Wie-investiere-ich-in-offene-Immobilienfonds-6133384-0/ "Frag Finanztest - Jetzt noch in offene Immobilienfonds investieren?")
 
 Neueste Tests
 
+* [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
+* [Kühl-Gefrier-Kombinationen im Test: Kühl­schränke − spar­sam und stark](https://www.test.de/Kuehlschraenke-im-Test-4735177-0/ "Kühl-Gefrier-Kombinationen im Test - Kühlschränke − sparsam und stark")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 * [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
-* [Saugroboter im Test: Die besten Saug- und Wischroboter für Teppich und Hartboden](https://www.test.de/Saugroboter-im-Test-4806685-0/ "Saugroboter im Test - Die besten Saug- und Wischroboter für Teppich und Hartboden")
-* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
-* [Immobilien­kredite: Diese Bedingungen bieten die Baufinanzierer](https://www.test.de/Immobilienkredite-Diese-Bedingungen-bieten-die-Baufinanzierer-6096433-0/ "Immobilienkredite - Diese Bedingungen bieten die Baufinanzierer")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
-* [Verletzungs­gefahr: Philips ruft Bügel­stationen zurück](https://www.test.de/Verletzungsgefahr-Philips-ruft-Buegelstationen-zurueck-6177922-0/ "Verletzungsgefahr - Philips ruft Bügelstationen zurück")
-* [Lithium-Investment: Unerlaubte Werbeanrufe für kana­dische Firma](https://www.test.de/Lithium-Investment-Unerlaubte-Werbeanrufe-fuer-kanadische-Firma-6010914-0/ "Lithium-Investment - Unerlaubte Werbeanrufe für kanadische Firma")
-* [Verpackungs­ärger: Ceramide Capsules von Elisabeth Arden](https://www.test.de/Verpackungsaerger-Ceramide-Capsules-von-Elisabeth-Arden-6073348-0/ "Verpackungsärger - Ceramide Capsules von Elisabeth Arden")
+* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
+* [Wunder­sames aus dem Prüf­labor: Tauchtunnel](https://www.test.de/Wundersames-aus-dem-Prueflabor-Tauchtunnel-6145086-0/ "Wundersames aus dem Prüflabor - Tauchtunnel")
+* [Warn­liste: Nicht in Westen Invest investieren](https://www.test.de/Warnliste-Nicht-in-Westen-Invest-investieren-5997655-0/ "Warnliste - Nicht in Westen Invest investieren")
+* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
+* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
+* [Frag Finanztest: Jetzt noch in offene Immobilienfonds investieren?](https://www.test.de/Wie-investiere-ich-in-offene-Immobilienfonds-6133384-0/ "Frag Finanztest - Jetzt noch in offene Immobilienfonds investieren?")
 
 Stiftung Warentest
 
