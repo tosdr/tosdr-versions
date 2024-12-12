@@ -14,7 +14,7 @@ Your options
 ------------
 
 * Allow JavaScript in your browser
-* Use one of the [third-party applications](https://framagit.org/framasoft/peertube/documentation/-/raw/master/docs/use/third-party-application.md) to browse this instance
+* Use one of the [third-party applications](https://docs.joinpeertube.org/use/third-party-application) to browse this instance
 * Review the source code on [GitHub](https://github.com/Chocobozzz/PeerTube) or [Framasoft's GitLab](https://framagit.org/framasoft/peertube/PeerTube), and ask for modifications from the instance owner.
 
 PeerTube
