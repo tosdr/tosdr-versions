@@ -498,6 +498,10 @@
 
 Learning Solutions Why OffSec Plans & Pricing Partners Kali & Community Resources
 
+![8-bit video game blocks with pixel art of the Learn One and Learn Enterprise logos](/_astro/combo-banner.BAiAoTYB.svg)
+
+Level up your training with limited-time offers - Discounts for [Individuals](https://www.offensive-security.com/pricing/individual/) and [Enterprise](https://learn.offsec.com/q4-enterprise-promo)
+
 Legal
 =====
 
