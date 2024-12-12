@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Say a random sentence (9,903)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (9,903 posts)")
-* [Based on AN's banner, what is life li… (11)](https://forum.nationstates.net/viewtopic.php?t=559554&f=25&view=unread#unread ""Based on AN's banner, what is life like in their nation?" (11 posts)")
-* [How much longer will AN last before C… (66)](https://forum.nationstates.net/viewtopic.php?t=559442&f=25&view=unread#unread ""How much longer will AN last before CTEing?" (66 posts)")
-* [American Politics: Turnabout Trump (9,022)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (9,022 posts)")
-* [Guess what BN's real name is - Ehrman… (201)](https://forum.nationstates.net/viewtopic.php?t=557940&f=25&view=unread#unread ""Guess what BN's real name is - Ehrmantraut series" (201 posts)")
+* [Ukrainian War VII: Advent's Offspring (12,420)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Advent's Offspring" (12,420 posts)")
+* [AN Out of Context III (4,817)](https://forum.nationstates.net/viewtopic.php?t=552139&f=25&view=unread#unread ""AN Out of Context III" (4,817 posts)")
+* [How cute is AN's national animal? (376)](https://forum.nationstates.net/viewtopic.php?t=556564&f=25&view=unread#unread ""How cute is AN's national animal?" (376 posts)")
+* [American Politics: Turnabout Trump (9,077)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (9,077 posts)")
+* [What is unique abt AN? (1,554)](https://forum.nationstates.net/viewtopic.php?t=551158&f=25&view=unread#unread ""What is unique abt AN?" (1,554 posts)")
 
 Advertisement
 
