@@ -162,6 +162,8 @@ Flatmates.com.au may, in its absolute discretion, suspend or terminate your Acco
 
 **b.** in Flatmates.com.au’s sole opinion, your ongoing use of the Service will bring, or may bring, the reputation of Flatmates.com.au into disrepute or cause Flatmates to be in breach of an applicable law.
 
+**c.** in Flatmates.com.au’s reasonable opinion, your ongoing use of the Service may pose a threat to the health, safety or wellbeing of any Flatmates.com.au user or others within the community.
+
 3\. WEBSITE AND SERVICES
 ------------------------
 
@@ -431,7 +433,7 @@ Apps accessible via Android devices include software from The Android Open Sourc
 
 More About Us
 
-[Why you should use the message system - App](https://flatmates.com.au/info/why-you-should-use-the-message-system-app)[Flatmates Accessibility Features FAQ](https://flatmates.com.au/info/flatmates-accessibility-features)[National Share Accommodation Survey Competition Conditions of Entry](https://flatmates.com.au/info/national-share-survey-competition-tcs)[How to protect yourself from scammers](https://flatmates.com.au/info/scammers)[Terms and Conditions of Use](https://flatmates.com.au/info/terms)[View all About Us](https://flatmates.com.au/info/about-us)
+[Terms and Conditions of Use](https://flatmates.com.au/info/terms)[Why you should use the message system - App](https://flatmates.com.au/info/why-you-should-use-the-message-system-app)[Flatmates Accessibility Features FAQ](https://flatmates.com.au/info/flatmates-accessibility-features)[National Share Accommodation Survey Competition Conditions of Entry](https://flatmates.com.au/info/national-share-survey-competition-tcs)[How to protect yourself from scammers](https://flatmates.com.au/info/scammers)[View all About Us](https://flatmates.com.au/info/about-us)
 
 1. [Home](https://flatmates.com.au/)
 2. [Info](https://flatmates.com.au/info)
