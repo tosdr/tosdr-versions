@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/6559.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/8356.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -92,9 +92,9 @@ ACTUALITÉSdes articles SONY sélectionnés au meilleurs prix](https://www.micro
 
 100.-de rabais sur une sélection d'iPad Pro](https://www.microspot.ch/fr/cms/apple-ipad)
 
-[![hp](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-Xmas-02-CM2-Promos-KW50-6.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyMDk1NDd8aW1hZ2UvanBlZ3xhR1V6TDJobU1DODROakI0TkRnMFgwa3lORjlUY0ZCZldHMWhjMTh3TWw5RFRUSmZVSEp2Ylc5elgwdFhOVEJmTmk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EWXdlRFE0TkY5Sk1qUmZVM0JRWDFodFlYTmZNREpmUTAweVgxQnliMjF2YzE5TFZ6VXdYell1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrfGE2NTQwYTY5Yjc0MTJkYTcyYzFhY2I2ZmU4YTZlNTkxNWFhMzA2YWNjMTE3OTAwYzYwZmVkMzdkMzcwYjAxNzM&w=2360&q=75)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0760-CM2-Gaming-Special.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzNzgyOHxpbWFnZS9qcGVnfGFEaGpMMmczWlM4NE5qQjRORGcwWDBreU5GOHdOell3WDBOTk1sOUhZVzFwYm1kZlUzQmxZMmxoYkM1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EWXdlRFE0TkY5Sk1qUmZNRGMyTUY5RFRUSmZSMkZ0YVc1blgxTndaV05wWVd3dWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa3wxZjhkZDcyYjZhMGFhM2RlZmU5M2VkZGYwMWQ5MjUzNDdiYTAwOWMxOTM5MjhhM2M3NTNmYzA3MWY1MTdlZjA3&w=2360&q=75)
 
-ACTIONsur les produits de HP](https://www.microspot.ch/fr/brand/hp)
+ACTIONGaming Week](https://www.microspot.ch/fr/cms/actions-jeux)
 
 Autres actions ici
 
@@ -217,9 +217,9 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Frais de port gratuits pour livraison
+[Garantie Plus
 
-à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 [Retrait gratuit
 
