@@ -150,9 +150,9 @@ Mediavine’s Copyright Policy safeguards its intellectual property by outlining
 * [Creator First Future](https://www.mediavine.com/creator-first-future/)
 
 * [Careers](https://www.mediavine.com/jobs/)
-* [Recruitment Fraud](https://www.mediavine.com/mediavine-recruiting-scam-awareness/)
+* [Recruiting Fraud](https://www.mediavine.com/mediavine-recruiting-scam-awareness/)
 * [Publisher Advocacy](https://www.mediavine.com/ai-and-our-commitment-to-a-creator-first-future/)
-* [Status Page](http://status.mediavine.com/)
+* [Status Page](https://status.mediavine.com/)
 * [Contact Us](https://www.mediavine.com/contact/)
 
 8 The Green, #20971  
@@ -179,8 +179,6 @@ Dover, DE 19901
     * [Advertising](https://www.mediavine.com/category/advertising/)
     * [Grow](https://www.mediavine.com/category/wordpress-plugins/grow-by-mediavine/)
     * [Trellis](https://www.mediavine.com/category/trellis/)
-    * [Create](https://www.mediavine.com/category/create/)
-    * [SEO Like A CEO](https://www.mediavine.com/category/seo-like-a-ceo/)
     * [Optimize Your Ads](#)
         * [Ad Settings](https://www.mediavine.com/category/ad-settings/)
         * [Increasing RPM](https://www.mediavine.com/category/increasing-rpm/)
@@ -202,24 +200,14 @@ Dover, DE 19901
         * [Podcast](https://www.mediavine.com/category/podcast/)
         * [Summer of Live](https://www.mediavine.com/category/summer-of-live/)
         * [Transcripts](https://www.mediavine.com/category/transcripts/)
-    * [Conferences](#)
-        * [Mediavine Conferences](https://www.mediavine.com/category/mediavine-conference/)
-        * [Blogger Conferences](https://www.mediavine.com/category/blogger-conference/)
-    * [Mediavine](https://www.mediavine.com/category/mediavine/)
-        * [Case Studies](https://www.mediavine.com/category/case-study/)
-        * [Diversity](https://www.mediavine.com/category/diversity/)
-        * [Shine](https://www.mediavine.com/category/shine/)
+    * [Case Studies](https://www.mediavine.com/category/case-study/)
 * [Careers](https://www.mediavine.com/jobs/)
-* [Products](https://www.mediavine.com/products/)
-* [Shine](https://www.mediavine.com/shine/)
 
 * [Events](https://www.mediavine.com/events/)
 * [Dashboard](https://dashboard.mediavine.com/)
 * [Status Page](https://status.mediavine.com/)
 * [Help](https://help.mediavine.com/)
 * [Contact Us](https://www.mediavine.com/contact/)
-* [COVID-19 Resources](https://www.mediavine.com/covid-19-resources/)
-* [We Stand With You](https://www.mediavine.com/wswy-resources/)
 
 Subscribe for Updates 
 
