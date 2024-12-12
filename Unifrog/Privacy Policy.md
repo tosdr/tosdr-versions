@@ -568,4 +568,4 @@ the universal destinations platform
 * [](https://www.facebook.com/unifrog)
 * [](https://www.linkedin.com/company/unifrog-education)
 
-© Unifrog 2024 | Company number: 08231699 | VAT number: 160 4858 06 | uA
+© Unifrog 2024 | Company number: 08231699 | VAT number: 160 4858 06 | uC
