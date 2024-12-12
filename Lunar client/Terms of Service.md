@@ -76,6 +76,8 @@ These Terms are, at all times, subject to our [Privacy Policy](https://www.luna
 
 By using the Services, you confirm that you are above the minimum age and are not barred from using the Services under applicable law. 
 
+THESE TERMS REQUIRE THE USE OF [ARBITRATION](https://www.lunarclient.com/terms#dispute-resolution) (ON AN INDIVIDUAL BASIS ONLY; I.E., CASE CONSOLIDATIONS AND CLASS-ACTIONS ARE NOT PERMITTED) IN ORDER TO RESOLVE DISPUTES. BY ACCEPTING THESE TERMS, EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN THAT ARBITRATION CLAUSE, YOU AND COMPANY AGREE THAT DISPUTES BETWEEN US WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION, AND YOU AND COMPANY WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
+
 THE LUNAR CLIENT IS AN INDEPENDENT MINECRAFT MOD. NEITHER THE LUNAR CLIENT NOR MOONSWORTH LLC IS AFFILIATED WITH, ENDORSED BY, OR OTHERWISE CONNECTED TO MOJANG AB OR THE MICROSOFT CORPORATION. THE TERMS “MINECRAFT,” “MOJANG,” MICROSOFT, AND ANY OTHER PRODUCT MARKS, TRADEMARKS, LOGOS, WORD MARKS, OR SERVICE MARKS, ALONG WITH MINECRAFT AND UNDERLYING MATERIALS THEREIN ARE THE PROPERTY OF THEIR RESPECTIVE OWNERS. USE OF THE FOREGOING DOES NOT IMPLY ANY AFFILIATION WITH OR ENDORSEMENT MOJANG OR MICROSOFT.   
 
 OUR SERVICES ARE INTENDED FOR PERSONS OVER THE AGE OF 13 (OR 16 IN SOME JURISDICTIONS). IF YOU ARE UNDER THE AGE OF 13 (OR 16 DEPENDING ON YOUR JURISDICTION) YOU MAY NOT USE THE SERVICES.
@@ -112,7 +114,7 @@ OUR SERVICES ARE INTENDED FOR PERSONS OVER THE AGE OF 13 (OR 16 IN SOME JURISDIC
 
 "**Protected Content**" means all content, included as part of the Services and any compilation thereof including, without limitation, Cosmetic Items, the look and feel of the Services, the text, graphics, source code, sound recordings, musical composition, narrative, characters, images, literary works, and any other works of authorship or other materials contained therein, whether or not protectable by copyright, trademark, or other applicable law or legal theory.  
 
-“**Services**” means the Lunar Client as well as Lunar+, Jail MC Network, the Crypto Store, and the Website, inclusive of any associated services or materials thereon.  
+“**Services**” means the Lunar Client as well as Lunar+, The Lunar Network, Jail MC Network, the Crypto Store, and the Website, inclusive of any associated services or materials thereon.  
 
 **“Terms”** means these terms of service and end user license agreement and any terms, conditions, covenants, representations, warranties, obligations, and licenses contained herein. 
 
@@ -124,13 +126,13 @@ OUR SERVICES ARE INTENDED FOR PERSONS OVER THE AGE OF 13 (OR 16 IN SOME JURISDIC
 
 **2\. License** 
 
-The Services are licensed to you for your personal use and entertainment. Company hereby grants you a personal, limited, non-transferable, fully, revocable, and non-exclusive License to use the Services for your non-commercial use, subject to your compliance with these Terms. You may not access, copy, modify or distribute the Services, unless expressly authorized by Company or permitted by applicable law. You may not reverse engineer or attempt to extract or otherwise use source code or other data from the Services, unless expressly authorized by Company or permitted by law. Company or its licensors own and reserve all other rights, including all right, title and interest in the Services and all materials or content therein, and all associated Intellectual Property Rights.  
+The Services are licensed to you for your personal use and entertainment. Company hereby grants you a personal, limited, non-transferable, fully, revocable, and non-exclusive license to use the Services for your non-commercial use, subject to your compliance with these Terms. All licenses granted hereunder are subject to the terms and conditions herein. You may not access, copy, modify or distribute the Services, unless expressly authorized by Company or permitted by applicable law. You may not reverse engineer or attempt to extract or otherwise use source code or other data from the Services, unless expressly authorized by Company or permitted by law. Company or its licensors own and reserve all other rights, including all right, title and interest in the Services and all materials or content therein, and all associated Intellectual Property Rights. The licenses granted to you under these terms do not confer title or ownership of the Services, Cosmetic Items, or Lunar+ Subscriptions.
 
 If you purchase any Cosmetic Items or a Lunar+ subscription, Company hereby grants you a limited, non-exclusive, non-commercial license to use the Cosmetic Item or Lunar+ subscription within the Lunar Client.  You acknowledge and agree that you may not reproduce, re-distribute, transmit, copy, publish, publicly perform or display, or create derivative works based on the Cosmetic Item or otherwise use or exploit the Cosmetic Item in any manner not authorized by these Terms.  
   
 **3\. License Restrictions and Prohibited Conduct**  
 
-You may not do any of the following with respect to the Services or any components thereof:  
+As a condition of your use of the Services, you represent and warrant to Company that you will not use the Services for any purpose that is unlawful or prohibited by these Terms. You may not do any of the following with respect to the Services or any components thereof:  
 
 1. Use the Services commercially or for a promotional purpose, except as otherwise authorized herein;  
     
@@ -138,7 +140,7 @@ You may not do any of the following with respect to the Services or any componen
     
 3. Reverse engineer, decompile, disassemble or otherwise attempt to discover the source code of the Services or any part thereof, except and only to the extent that this activity is expressly permitted by the applicable law of your country of residence;  
     
-4. Modify, adapt, translate or create derivative works based upon the Services or any part thereof, except and only to the extent that such activity is expressly permitted these Terms or by applicable law notwithstanding this limitation; 
+4. Modify, adapt, translate or create derivative works based upon the Services or any part thereof, except and only to the extent that such activity is expressly permitted by these Terms or by applicable law notwithstanding this limitation; 
     
 5. Remove, circumvent, disable, damage or otherwise interfere with security-related features of the Services;  
     
@@ -148,8 +150,20 @@ You may not do any of the following with respect to the Services or any componen
     
 8. Harvest or collect the email addresses or other contact information of other Users;  
     
-9. Use the Services for any illegal purpose, or in violation of any local, state, national, or international law or regulation, including, without limitation, laws governing intellectual property and other proprietary rights, data protection and privacy.  
+9. Use the Services for any illegal purpose, or in violation of any local, state, national, or international law or regulation, including, without limitation, laws governing intellectual property and other proprietary rights, data protection and privacy;
     
+10. Use the Services in any manner which could damage, disable, overburden, or impair the Website or Website servers, or otherwise interfere with any other party's use and enjoyment of the Services;
+    
+11. Obtain or attempt to obtain any materials or information through any means not intentionally made available or provided for through the Services;
+    
+12. Impersonate any person or entity, falsely claim an affiliation with any person or entity, forge another person’s digital signature, misrepresent the source, identity, or content of information transmitted via the Services, or perform any other similar fraudulent activity;
+    
+13. Defame, harass, abuse, threaten or defraud Users, or collect, or attempt to collect, personal information about Users or third parties without their consent; or
+    
+14. Attempt to indicate in any manner that you have a relationship with Company or that Company has endorsed you or any products or services for any purpose. 
+    
+
+Company also reserves all available legal rights and remedies to prevent the unauthorized use of the Services, including, but not limited to, technological barriers, IP mapping, and contacting your internet service provider. 
 
 **4\. Children Under 18**
 
@@ -182,15 +196,7 @@ Lunar+ requires a Lunar Account. A subscription to Lunar+ may grant you access t
 
 You may pay a one-time fee for the subscription term of your choice, or you may set up recurring payments that are charged automatically at the end of the applicable subscription term at the then-current subscription price. 
 
-**Recurring Payments**
-
-If you elect to purchase Lunar+ via recurring payments, you acknowledge and agree that the payment method you provide will be automatically charged at regular monthly intervals, indefinitely,  unless your subscription is cancelled. Lunar+ subscription prices are subject to change at any time. 
-
-YOU MAY CANCEL YOUR LUNAR+ SUBSCRIPTION AT ANY TIME BY FOLLOWING THE INSTRUCTIONS FOUND [HERE](https://support.lunarclient.com/support/solutions/articles/60000714713-how-to-cancel-your-lunar-subscription). CANCELLATIONS ARE PROCESSED VIA TEBEX, AND WE ARE NOT RESPONSIBLE FOR ANY DELAYS WITH RESPECT TO CANCELLATIONS. WHEN YOU CANCEL YOUR LUNAR+ SUBSCRIPTION, YOU CAN CONTINUE TO ENJOY ACCESS TO YOUR LUNAR+ ACCOUNT FOR THE REMAINDER OF THE SUBSCRIPTION TERM FOR WHICH YOU PAID. 
-
-For more information on how the Lunar+ Program affects your data privacy rights, please see our [Privacy Policy](https://www.lunarclient.com/privacy) and [Loyalty Program Privacy Notice](https://www.lunarclient.com/loyalty-program-privacy-notice/).  
-
-YOU ACKNOWLEDGE AND AGREE THAT COMPANY IS NOT A BROKER, FINANCIAL INSTITUTION, CREDITOR, INSURER OR CHARITABLE ORGANIZATION AND COMPANY HAS NO CONTROL OVER THE CONDUCT OF OR ANY INFORMATION PROVIDED BY ANY THIRD-PARTY PLATFORM, INCLUDING ANY TERMS, SERVICES, CONDITIONS, REPRESENTATIONS, COVENANTS, OR WARRANTIES SET FORTH IN ANY AGREEMENT BETWEEN YOU AND SUCH THIRD PARTY PLATFORM AND COMPANY HEREBY DISCLAIMS ALL LIABILITY IN THIS REGARD TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW.
+You may cancel your Lunar+ subscription at any time by following the instructions found [here](https://support.lunarclient.com/support/solutions/articles/60000714713-how-to-cancel-your-lunar-subscription). Cancellations are processed via Tebex, and we are not responsible for any delays with respect to cancellations. When you cancel your Lunar+ subscription, you can continue to enjoy access to your Lunar+ Account for the remainder of the subscription term for which you paid. 
 
 **6\. Electronic Communication** 
 
@@ -198,13 +204,13 @@ Each and every time you send an email or other electronic communication to Compa
 
 **7\. Cosmetic Items**
 
-We may make available for purchase certain Cosmetic Items on the Company Website. Any information regarding Cosmetic Items (including pricing) and the availability of any Cosmetic Items (including the validity of any coupon or discount) are subject to change at any time without notice. Tebex Limited is an authorized reseller with respect to Cosmetic Items purchased via credit card. Tebex has the ability to set its own prices. Prices listed on the Website are the suggested retail price and Tebex may change the pricing of any Cosmetic Items in its discretion at any time without notice. You acknowledge that we do not control the prices of Cosmetic Items purchased via credit card and we shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Cosmetic Items, Website, or Service. We make reasonable efforts to accurately display the attributes of Cosmetic Items, including the applicable colors, however the actual colors you see will depend on your computer system, and we cannot guarantee that your computer will accurately display such colors.  
+We may make available for purchase certain Cosmetic Items on the Company Website. When you purchase a Cosmetic Item on the Company Website, you are receiving a license to the Cosmetic Items, subject to the terms set forth in Sections 2 and 3 above. You do not receive ownership rights to the Cosmetic Items or any portion thereof. Any information regarding Cosmetic Items (including pricing) and the availability of any Cosmetic Items (including the validity of any coupon or discount) are subject to change at any time without notice. Tebex Limited is an authorized reseller with respect to Cosmetic Items purchased via credit card. Tebex has the ability to set its own prices. Prices listed on the Website are the suggested retail price and Tebex may change the pricing of any Cosmetic Items in its discretion at any time without notice. You acknowledge that we do not control the prices of Cosmetic Items purchased via credit card and we shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Cosmetic Items, Website, or Service. We make reasonable efforts to accurately display the attributes of Cosmetic Items, including the applicable colors, however the actual colors you see will depend on your computer system, and we cannot guarantee that your computer will accurately display such colors.  
 
 By making a transaction, you represent that the applicable Cosmetic Items will be used only in accordance with these Terms. You agree that you will not resell any Cosmetic Items obtained through a transaction, unless we have provided our express prior written consent for you to do so.
 
 **8\. Transactions**
 
-If you wish to purchase a Cosmetic Item or subscribe to Lunar+, you are required to pay the applicable purchase price. Unless otherwise indicated, all fees and other charges are in U.S. dollars, and all payments shall be in U.S. currency or the equivalent amount of cryptocurrency as excepted by Coinbase Commerce. You must be at least 18 years of age or have your parent or legal guardian’s permission prior to making any purchase via the Services including, but not limited to, prior to purchasing a Lunar+ subscription.  
+If you wish to purchase a Cosmetic Item or subscribe to Lunar+, you are required to pay the applicable purchase price. Unless otherwise indicated, all fees and other charges are in U.S. dollars, and all payments shall be in U.S. currency or the equivalent amount of cryptocurrency as excepted by Coinbase Commerce.
 
 Billing and Account Information.
 
@@ -222,7 +228,7 @@ Billing and Account Information.
     
 7. Refunds. To the maximum extent permitted by applicable law, all purchases of Lunar+ subscriptions are final and Company does not offer refunds with respect to Lunar+ subscriptions. Company may, in its sole discretion, issue refunds to users that purchase defective or otherwise unacceptable Cosmetic Items. To request a refund, please contact our support website [here](https://support.moonsworth.com/). For customers located in the UK or the EU, please see  
     
-    i. **Right of Withdraw for UK and EU Consumers:** If you are a resident of the United Kingdom or European Union/EEC you have a right to withdraw and receive a refund from certain transactions. However, please note that by purchasing any Cosmetic Items or other digital goods, you agree to waive this right and any refunds will be subject to Company’s sole discretion. For more information on this right, please see our Notice of the Right of Withdrawal, located in [Section 29](https://www.lunarclient.com/terms#section-Right_of_Withdrawal) below.   
+    i. **Right of Withdraw for UK and EU Consumers:** If you are a resident of the United Kingdom or European Union/EEC you have a right to withdrawal and receive a refund from certain transactions. For more information on this right, please see our Notice of the Right to Withdrawal, located in [Section 28](https://www.lunarclient.com/terms#section-Right_of_Withdrawal) below.
     
 8. Crypto Payments and Gift Cards. We offer Users the opportunity to purchase Cosmetic Items and Gift Cards, via crypto currency, to purchase goods and services available within the Services. All such purchases must be made via our Crypto Store. For more information on Gift Cards and Crypto Purchases, please consult our [Crypto and Gift Card Payment Terms and Conditions](https://www.lunarclient.com/crypto-and-gift-card-payments-terms-and-conditions/).
     
@@ -285,48 +291,31 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, COMPANY WILL NOT BE RESPONSIB
 
 YOU FURTHER ACKNOWLEDGE AND AGREE THAT IN THE EVENT OF ANY BREACH OF THIS AGREEMENT BY COMPANY, YOUR REMEDIES SHALL BE LIMITED TO AN ACTION FOR DAMAGES, IF ANY AND AS LIMITED ABOVE AND IN NO EVENT SHALL YOU  BE ENTITLED TO SEEK TO ENJOIN OR RESTRAIN COMPANY’S PERFORMANCE IN ANY MANNER. ACCORDINGLY, YOU EXPRESSLY AGREE THAT ANY DAMAGE TO YOU WILL NOT BE IRREPARABLE OR OTHERWISE INCALCULABLE SO AS TO ENTITLE YOU TO SEEK AND/OR OBTAIN EQUITABLE OR INJUNCTIVE RELIEF.   
   
-**14\. Prohibited Conduct** 
-
-You are granted a non-exclusive, non-transferable, revocable License to access and use the Services, strictly in accordance with these Terms. As a condition of your use of the Services, you represent and warrant to Company that you will not use the Services for any purpose that is unlawful or prohibited by these Terms. Further, you agree that you will comply with these Terms and will not: 
-
-1. Use the Services in any manner which could damage, disable, overburden, or impair the Website or Website servers, or otherwise interfere with any other party's use and enjoyment of the Services; 
-    
-2. Obtain or attempt to obtain any materials or information through any means not intentionally made available or provided for through the Services; 
-    
-3. Impersonate any person or entity, falsely claim an affiliation with any person or entity, forge another person’s digital signature, misrepresent the source, identity, or content of information transmitted via the Services, or perform any other similar fraudulent activity; 
-    
-4. Defame, harass, abuse, threaten or defraud Users, or collect, or attempt to collect, personal information about Users or third parties without their consent; and 
-    
-5. Attempt to indicate in any manner that you have a relationship with Company or that Company has endorsed you or any products or services for any purpose. 
-    
-
-Company also reserves all available legal rights and remedies to prevent the unauthorized use of the Services, including, but not limited to, technological barriers, IP mapping, and contacting your internet service provider.  
-  
-**15\. Representations and Warranties** 
+**14\. Representations and Warranties** 
 
 In addition to any other representations and warranties made herein, you hereby represent and warrant that i) you are not prohibited from receiving or using any aspect of the Services under applicable laws and ii) Company has not previously disabled your access to the Services for a violation of the law or these Terms or other applicable agreements, terms of use, or contracts.   
   
-**16\. Links to Third Party Sites**  
+**15\. Links to Third Party Sites**  
 
 The Services may contain links to third-party websites. The third-party websites are not under the control of Company and Company is not responsible for the contents of the same, including without limitation any link contained therein. Company is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement by Company of the website or any association with its operators.  
   
-**17\. Device and Internet Connection** 
+**16\. Device and Internet Connection** 
 
 Use and access of the Services may require the use of your personal computer, laptop, tablet, or mobile device, as well as communication with or use of space on such device. You are solely responsible for all internet and/or mobile data connection and all associated fees that you incur when accessing the Services.  
   
-**18\. International Users** 
+**17\. International Users** 
 
 The Services are controlled, operated and administered by Company from our offices within the United States. If you access the Services from a location outside the United States, you are responsible for compliance with all local laws. You agree that you will not use the Services in any country or in any manner prohibited by any applicable laws, restrictions or regulations.  
   
-**19\. Release** 
+**18\. Release** 
 
 You hereby agree to release Company from all damages (whether direct, indirect, incidental, consequential or otherwise), losses, liabilities, costs and expenses of every kind and nature, known and unknown, arising out of a dispute between you and a third-party (including other Users) in connection with the Services and any content therein. In furtherance of the foregoing, you hereby waive any applicable law or statute, which says, in substance: "A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE RELEASED PARTY."   
   
-**20\. Indemnification** 
+**19\. Indemnification** 
 
 To the maximum extent permitted by applicable law, you agree to indemnify, defend and hold harmless Company, its officers, directors, employees, agents and assigns from and against any and all claims, losses, costs, debt, liabilities and expenses (including, but not limited to attorney’s fees) arising from (i) your misuse of and access to the Services; (ii) your violation of these Terms; (iii) your violation of any third-party right, including without limitation any copyright, intellectual property, or privacy right; (iv) your use of or inability to use the Services; and (v) any claim that you caused damage to a third-party.   
   
-**21\. Dispute Resolution** 
+**20\. Dispute Resolution** 
 
 In the event the parties are not able to resolve any Dispute between them arising out of or concerning these Terms, or any provisions hereof, whether in contract, tort, or otherwise at law or in equity for damages or any other relief, then, except as provided below, the parties hereby agree to submit any Dispute they cannot resolve informally to final and binding arbitration. The arbitration will be conducted before a single neutral arbitrator in accordance with the rules of JAMS. The arbitration will be conducted remotely unless the arbitrator believes an in-person hearing is required, in which case the location of the arbitration hearing will be determined by JAMS rules. The arbitrator will follow Delaware law in adjudicating the Dispute. The arbitrator will provide a detailed written statement of decision, which will be part of the arbitration award and admissible in any judicial proceeding to confirm, correct or vacate the award. Interpretations of these Terms, including determinations of unconscionability, will be determined by the arbitrator selected through this provision. The arbitrator shall determine the scope and enforceability of this agreement to arbitrate, including whether any Dispute is subject to arbitration and shall rule on any defense, raised by a party hereto, that the claim(s) in question is exempt from this arbitration requirement. As part of the arbitration, the parties shall engage in the exchange and/or discovery of non-privileged information relevant to the Dispute, in accordance with JAMS rules. 
 
@@ -334,19 +323,19 @@ The foregoing shall not apply to any claims that fall under the auspices of a sm
 
 The parties acknowledge and agree that any action with respect to your infringement or alleged infringement of any Intellectual Property Rights, any action in which Company seeks equitable relief, or any other action that may not be submitted to arbitration under applicable law, including the enforcement of any arbitration ruling, shall be tried by a court of competent jurisdiction located in New Castle County, Delaware. In that respect, you hereby consent to the jurisdiction of the State of Delaware agree that its laws will be used to resolve all disputes arising from or concerning these Terms.   
   
-**22\. Class Action Waiver** 
+**21\. Class Action Waiver** 
 
 Any arbitration under these Terms will take place on an individual basis; class arbitrations and class/representative/collective actions are not permitted. THE PARTIES AGREE THAT A PARTY MAY BRING CLAIMS AGAINST THE OTHER ONLY IN EACH PARTY'S INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PUTATIVE CLASS, COLLECTIVE AND/ OR REPRESENTATIVE PROCEEDING, SUCH AS IN THE FORM OF A PRIVATE ATTORNEY GENERAL ACTION AGAINST THE OTHER. Further, unless both you and Company agree otherwise, the arbitrator may not consolidate more than one person's claims and may not otherwise preside over any form of a representative or class proceeding.  
   
-**23\. Termination and Access Restriction** 
+**22\. Termination and Access Restriction** 
 
 Company reserves the right to terminate your access to the Services, or any portion thereof at any time, without Notice, for any reason including, without limitation, a breach of these Terms. Use of the Services is unauthorized in any jurisdiction that does not give effect to all provisions of these Terms, including, without limitation, this section.  
   
-**24\. Severability** 
+**23\. Severability** 
 
 In the event that any provision of these Terms is determined to be unlawful, void or unenforceable, such provision shall nonetheless be enforceable to the fullest extent permitted by applicable law, and the unenforceable portion shall be deemed to be severed from these Terms, such determination shall not affect the validity and enforceability of any other remaining provisions.
 
-**25\. Miscellaneous** 
+**24\. Miscellaneous** 
 
 Company’s performance of the obligations described herein is subject to existing laws and legal process, and nothing contained in these Terms are in derogation of Company's right to comply with governmental, court and law enforcement requests or requirements relating to your use of the Services or information provided to or gathered by Company with respect to such use. 
 
@@ -354,7 +343,7 @@ These Terms, the Privacy Policy, and any other document incorporated herein by r
 
 These Terms are non-transferable, and you may not assign your rights and obligations under these Terms without the express written consent of Company.
 
-**26\. Copyright Infringement Policy** 
+**25\. Copyright Infringement Policy** 
 
 Company is committed to protecting the rights of copyright rights holders and seeks to comply with all applicable laws and regulations regarding the protection of intellectual property. 
 
@@ -377,7 +366,7 @@ Company will process any notices of alleged copyright infringement and will take
 
 The designated agent can be reached at: [\[email protected\]](https://www.lunarclient.com/cdn-cgi/l/email-protection)  
   
-**27\. DMCA Counter Claims**  
+**26\. DMCA Counter Claims**  
 
 Company may notify the owner or administrator of the affected Content so that he or she can make a counter-notification pursuant to his or her rights under the DMCA. If you receive such a notice, you may provide counter-notification in writing to the Designated Agent. To be effective, the counter-notification must be a written communication that includes the following:
 
@@ -390,29 +379,29 @@ Company may notify the owner or administrator of the affected Content so that he
 
 Your name, physical address and telephone number, and a statement that you consent to the jurisdiction of a Federal District Court for the judicial district in which your physical address is located, or if your physical address is outside of the United States, for any judicial district in which Company may be found, and that you will accept service of process from the person who provided notification of allegedly infringing material or an agent of such person.
 
-**28\. Contact**  
+**27\. Contact**  
 
 If you have any questions regarding your use of the Services or compliance with these Terms, please contact us at [\[email protected\]](https://www.lunarclient.com/cdn-cgi/l/email-protection)
 
-**29\. For EU/UK Residents: Right of Withdrawal**
+**28\. For EU/UK Residents: Right of Withdrawal**
 
-1. Right of Withdrawal: Pursuant to the EU Consumer Rights Directive (the “Directive”) All Users who are residents of the European Union or United Kingdom have a right to withdraw from any purchase of Cosmetic Items or other goods or services, whether digital or physical (collectively “Goods”) made via the Services, for any reason. For any Goods that you purchase online, you agree that the withdrawal period will expire upon the sooner of fourteen (14) days after you purchase the Goods or 14 days after you download such Goods. For any physical Goods, your Right of Withdrawal will expire 14 days after you take possession of the Goods.  
+1. Right of Withdrawal: Pursuant to the EU Consumer Rights Directive (the “Directive”) All Users who are residents of the European Union or United Kingdom have a right to withdrawal from any purchase of Cosmetic Items or other goods or services, whether digital or physical (collectively “Goods”) made via the Services, for any reason. For any Goods that you purchase online, you agree that the withdrawal period will expire upon the sooner of fourteen (14) days after you purchase the Goods or 14 days after you download such Goods. For any physical Goods, your right to withdrawal will expire 14 days after you take possession of the Goods.  
     
-    To exercise the right of withdrawal, you must provide us an unequivocal statement that you wish to withdraw from the purchase and no longer access or have use of the applicable Goods within the Services. Specifically, your statement must provide:  
+    To exercise the right of withdrawal, you must provide us an unequivocal statement that you wish to withdrawal from the purchase and no longer access or have use of the applicable Goods within the Services. Specifically, your statement must provide:  
     
     1) Date of request 
     
     2) Your name and address (if sent request sent my physical mail) and the name of your Account 
     
-    3) The following statement: “I hereby give notice of my decision to withdraw from the purchase of the following (Good(s) that you purchased, along with the date of purchase).  
+    3) The following statement: “I hereby give notice of my decision to withdrawal from the purchase of the following (Good(s) that you purchased, along with the date of purchase).  
     
     4) Please sign the form if you send your request via physical mail and not via the automated form.  
     
     To exercise your Right of Withdrawal, please contact our support website [here](https://support.moonsworth.com/), or write to us at [\[email protected\]](https://www.lunarclient.com/cdn-cgi/l/email-protection)
     
-2. Effects of Right of Withdrawal: In the event you exercise your right of withdrawal we will, within 14 days of the request reimburse all payments received from you with respect to the applicable Goods, provided that if you made use of the Goods, we may deduct from the reimbursement an amount proportional to such use.  We will reimburse you via the same means of payment that you used for the initial transaction. For any physical Goods, we may withhold reimbursement until we receive the applicable goods. You must return all physical Goods within 14 days of your request to receive reimbursement and you will be responsible for all associated shipping and handling costs. Please note that, upon your exercise of the Right of Withdrawal, your Account will no longer have access to the applicable Goods in any form of the Services.
+2. Effects of Right of Withdrawal: In the event you exercise your right of withdrawal we will, within 14 days of the request reimburse all payments received from you with respect to the applicable Goods, provided that if you made use of the Goods, we may deduct from the reimbursement an amount proportional to such use.  We will reimburse you via the same means of payment that you used for the initial transaction. For any physical Goods, we may withhold reimbursement until we receive the applicable goods. You must return all physical Goods within 14 days of your request to receive reimbursement and you will be responsible for all associated shipping and handling costs. Please note that, upon your exercise of the Right to Withdrawal, your Account will no longer have access to the applicable Goods in any form of the Services.
     
-3. Exceptions of the Right of Withdrawal: You acknowledge and agree that, pursuant to the Directive, your Right of Withdrawal will not apply in the following circumstances, among others:  
+3. Exceptions of the Right to Withdrawal: You acknowledge and agree that, pursuant to the Directive, your right to withdrawal will not apply in the following circumstances, among others:  
     
     1) Service contracts after the service has been fully performed if the performance has begun with  your prior express consent, and with the acknowledgement that you will lose his right of withdrawal once the contract has been fully performed;  
     
@@ -422,12 +411,12 @@ If you have any questions regarding your use of the Services or compliance with 
     
     4) The supply of sealed audio or sealed video recordings or sealed computer software which were unsealed after delivery; 
     
-    5) The supply of digital goods including, but not limited to, Cosmetic Items which are not supplied on a tangible medium if the performance has begun, subject to your prior express consent and acknowledgment that you thereby lose your Right of Withdrawal. Note that, when you purchase any Cosmetic Items from Tebex, you will waive your Right of Withdrawal.
+    5) The supply of digital Goods which are not supplied on a tangible medium if the performance has begun, subject to your prior express consent and acknowledgment that you thereby lose your right of withdrawal
     
 
 Last Updated
 
-2024-08-21 00:00
+2024-12-09 00:00
 
 [Documentation
 
