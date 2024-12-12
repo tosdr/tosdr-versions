@@ -1,11 +1,5 @@
 [![](/assets/logo-text-gray-26b195a25ce6db1e678f9b15b0a34ed038d8dd81c0e6c9d70c3a17145d1a797f.png)](https://chartable.com/)
 
-  
-
-[Charts](https://chartable.com/charts)
-
-[Log in](https://chartable.com/sign_in)
-
 Privacy Policy
 
 Last Updated and Effective as of: January 1, 2023
@@ -180,12 +174,6 @@ We may change this Policy from time to time. If we make changes, we will notify 
 12\. Contact Us
 
 Thank you for reading our Policy. If you have any questions about this Policy, please contact our Data Protection Officer by emailing [\[email protected\]](https://chartable.com/cdn-cgi/l/email-protection) or by writing to us at Chartable Holding, LLC, 150 Greenwich Street, Floor 62, New York, NY 10007, USA.
-
-Podcasts
-
-[Podcast Reviews](https://chartable.com/publishers/podcast-reviews)
-
-[Podcast Charts](https://chartable.com/charts)
 
 Accounts
 
