@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/911-gewoon-even-n-paar-zaken-op-n-rijtje/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/buy-beer-and-hookers-to-save-your-country/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
