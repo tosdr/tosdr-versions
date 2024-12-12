@@ -185,11 +185,12 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Richard (Dick) Palermo](https://cdn.returningveterans.org/images/honor/Dick_s_Promo__2_.jpg)  
+![Sergeant Delmas G. Akers](https://cdn.returningveterans.org/images/honor/Delmas_Akers_2.jpg)  
 
-**In Memory of Richard (Dick) Palermo**  
+**In Memory of Sergeant Delmas G. Akers**  
+United States Air Force  
 United States Army  
-Submitted by Peter Palermo](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Monte Akers](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 12/12/24 - 1:13:59  
+Printed 12/12/24 - 7:24:06  
 © 2024 Returning Veterans Project
