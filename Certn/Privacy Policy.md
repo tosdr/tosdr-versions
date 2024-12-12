@@ -103,7 +103,6 @@ Error
 * [Conditions D'Utilisation Du Demandeur](#contract-hk1b1gfm1g)
 * [FCRA Disclosure](#contract-hyxjlua1jl)
 * [NYC Fair Housing Notice](#contract-skzxxyyfye)
-* [OneID Consent - Portal Version (EN) (Copy)](#contract-dud9-4rff)
 
 Test Contract 2
 ---------------
@@ -4241,11 +4240,11 @@ Certn Holdings Inc., y compris ses sociétés affiliées Certn (Canada) Inc., Ce
 OneID Consent - Portal Version (EN)
 -----------------------------------
 
-### Version 6.1
+### Version 7.0
 
 ##### Effective December 11th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6759b7ff31226449c57e2a43.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6759f10deebc8111676a611e.pdf)
 
 * * *
 
@@ -4255,7 +4254,7 @@ OneID Consent - Portal Version (EN)
 
 **Biometric Consent**
 
-We need your consent to collect and process your biometric data for the purpose of verifying your identity on behalf of our client (the “**Company**”). Biometric data in this instance includes facial features from a real-time photo and information from your government-issued ID. We will store your biometric data securely and implement appropriate measures to safeguard such information against unauthorized access, disclosure, alteration, and destruction.
+We need your consent to collect and process your biometric data for the purpose of verifying your identity on behalf of {{{company\_name}}} (the “**Company**”). Biometric data in this instance includes facial features from a real-time photo and information from your government-issued ID. We will store your biometric data securely and implement appropriate measures to safeguard such information against unauthorized access, disclosure, alteration, and destruction.
 
 By clicking “agree” below, you confirm that you have read and understood this Biometric Consent, as well as our [Biometric Notice](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-s1qa70-t6), and you agree to the collection and processing of your biometric data in accordance with these terms and our [Privacy Policy](https://certn.co/privacy-policy/). Further, you acknowledge and agree to the transfer of your biometric data to the Company in connection with your background check and verification and any applicable third-party sub-processors, solely for the purpose of completing your identity verification. This consent is given voluntarily and with the understanding that the data will be used exclusively for identity verification including the prevention and combat of fraud. Your biometric data, and where required by law, any information or copy of documents collected to support your identity verification, will be retained for the duration necessary to fulfill the intended purpose and as required by applicable laws, and will be securely deleted thereafter. If you choose not to consent, we may not be able to process your application or provide verification results for your background check.
 
@@ -4565,11 +4564,11 @@ You can withdraw your consent, dispute the accuracy of a Report, or ask for a co
 OneID Consent - Portal Version (FR)
 -----------------------------------
 
-### Version 2.4
+### Version 3.0
 
 ##### Effective December 11th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6759b86c5dc03555d607174e.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6759f174eebc8111676a69b8.pdf)
 
 * * *
 
@@ -4581,7 +4580,7 @@ OneID Consent - Portal Version (FR)
 
   
 
-Nous avons besoin de votre consentement pour collecter et traiter vos données biométriques dans le but de vérifier votre identité au nom de notre client (la « **Société** »). Les données biométriques dans ce cas incluent les caractéristiques faciales d'une photo en temps réel et les informations de votre pièce d'identité émise par le gouvernement. Nous stockerons vos données biométriques de manière sécurisée et mettrons en œuvre des mesures appropriées pour protéger ces informations contre tout accès, divulgation, altération et destruction non autorisés.
+Nous avons besoin de votre consentement pour collecter et traiter vos données biométriques dans afin de vérifier votre identité pour le compte de {{{company\_name}}} (la « **Société** »). Les données biométriques dans ce cas incluent les caractéristiques faciales d'une photo en temps réel et les informations de votre pièce d'identité émise par le gouvernement. Nous stockerons vos données biométriques de manière sécurisée et mettrons en œuvre des mesures appropriées pour protéger ces informations contre tout accès, divulgation, altération et destruction non autorisés.
 
 En cliquant sur « accepter » ci-dessous, vous confirmez que vous avez lu et compris ce Consentement à la Biométrie, ainsi que notre [Avis Biométrique](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-sjl9lwojr), et vous acceptez la collecte et le traitement de vos données biométriques conformément à ces termes et à notre [Politique de Confidentialité](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-bylz4uhm3). De plus, vous reconnaissez et acceptez le transfert de vos données biométriques à la Société dans le cadre de votre vérification d'antécédents et de toute sous-traitance applicable à des tiers, uniquement dans le but de compléter votre vérification d'identité. Ce consentement est donné volontairement et avec la compréhension que les données seront utilisées exclusivement pour la vérification de votre identité, y compris la prévention et la lutte contre la fraude. Vos données biométriques, et lorsque la loi l'exige, toute information ou copie de documents collectés pour soutenir votre vérification d'identité, seront conservées pendant la durée nécessaire pour atteindre l'objectif prévu et tel que requis par les lois applicables, et seront supprimées de manière sécurisée par la suite. Si vous choisissez de ne pas consentir, nous pourrions ne pas être en mesure de traiter votre demande ou de fournir les résultats de vérification pour votre vérification d'antécédents.
 
@@ -6351,31 +6350,6 @@ Reviewable criminal history. 1. The term “reviewable criminal history” means
 § 3. This local law takes effect January 1, 2025.
 
   
-
-OneID Consent - Portal Version (EN) (Copy)
-------------------------------------------
-
-### Version 1.0
-
-##### Effective December 11th 2024
-
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6759cf91ebf3bcf6cfe55205.pdf)
-
-* * *
-
-### Table of Contents
-
-* * *
-
-**Biometric Consent**
-
-We need your consent to collect and process your biometric data for the purpose of verifying your identity on behalf of {{{company\_name}}} (the “**Company**”). Biometric data in this instance includes facial features from a real-time photo and information from your government-issued ID. We will store your biometric data securely and implement appropriate measures to safeguard such information against unauthorized access, disclosure, alteration, and destruction.
-
-By clicking “agree” below, you confirm that you have read and understood this Biometric Consent, as well as our [Biometric Notice](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-s1qa70-t6), and you agree to the collection and processing of your biometric data in accordance with these terms and our [Privacy Policy](https://certn.co/privacy-policy/). Further, you acknowledge and agree to the transfer of your biometric data to the Company in connection with your background check and verification and any applicable third-party sub-processors, solely for the purpose of completing your identity verification. This consent is given voluntarily and with the understanding that the data will be used exclusively for identity verification including the prevention and combat of fraud. Your biometric data, and where required by law, any information or copy of documents collected to support your identity verification, will be retained for the duration necessary to fulfill the intended purpose and as required by applicable laws, and will be securely deleted thereafter. If you choose not to consent, we may not be able to process your application or provide verification results for your background check.
-
-You can revoke your consent at any time by notifying us in writing at [privacy@certn.co](mailto:privacy@certn.co). Upon revocation, we will notify the Company and cease the collection, use, and retention of your biometric data. You have the right to request access to your biometric data and to request corrections or deletions of inaccuracies. If you require more information about the nature and scope of your data processing or for a copy of the information we hold about you, please contact Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co).
-
-If you reside in a location that is different from our processing locations or the location of the Company, we may transfer your Personal Information for the purpose of completing the identity verification, in accordance with our [Privacy Policy](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-byeg-ihlj) and applicable privacy laws.
 
 * * *
 
