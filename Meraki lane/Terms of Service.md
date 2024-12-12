@@ -41,17 +41,17 @@ Main Menu
     
     [Fashion](https://www.merakilane.com/category/fashion/)
     
-    [![8 Warm Tone Makeup Looks for Every Season | If you have a warm skin tone, wearing warm colours and earthy hues will enhance your complexion and bring out your best features. You want to look for foundations and eyeshadows with warm undertones, but you can balance it out with cool makeup, particularly with your eyes. Click for our warm skin tone makeup Dos and Don'ts, plus 2 makeup looks each for fall, winter, spring, and summer to teach you how to choose and apply makeup for your skin tone.](https://www.merakilane.com/wp-content/uploads/2024/12/Warm-Tone-Makeup-Looks-Featured-Image.png)](https://www.merakilane.com/8-warm-tone-makeup-looks-for-every-season/)
+    [![Contrast Makeup for Beginners | +13 Looks to Try | If your TikTok algorithm is anything like ours, you’ve probably seen the contrast makeup theory all over your FYP. The theory uses the contrast level of your facial features to determine the most flattering makeup looks for you. Want to learn more about this BeautyTok trend? We're sharing application tips and products, plus step-by-step tutorials and gorgeous low, medium, and dark looks to inspire you! Click for the details and looks!](https://www.merakilane.com/wp-content/uploads/2024/12/Contrast-Makeup-for-Beginners-featured-image.png)](https://www.merakilane.com/contrast-makeup-for-beginners-13-tips-looks-to-try/)
     
-    ### [8 Warm Tone Makeup Looks for Every Season](https://www.merakilane.com/8-warm-tone-makeup-looks-for-every-season/)
+    ### [Contrast Makeup for Beginners (+13 Tips & Looks to Try)](https://www.merakilane.com/contrast-makeup-for-beginners-13-tips-looks-to-try/)
     
-    [![How to Style Barely There Bangs | From curtain bangs to micro bangs, blunt bangs and subtle bangs, bangs are back in a huge way. Tempted but not quite ready for a full fringe? Barely there bangs are a great option. They’re light, feathery and incredibly versatile, and they work with short, medium length, and long hair that's straight, wavy, and curly. They suit all face shapes, particularly heart and oval face shapes. Click for our fav styling tips, tutorials and looks!](https://www.merakilane.com/wp-content/uploads/2024/12/How-to-Style-Barely-There-Bangs-Featured-Image.png)](https://www.merakilane.com/how-to-style-barely-there-bangs-11-styling-tips-looks/)
+    [![How to Dye Your Hair at Home | Whether it's due to time or financial constraints (or both), getting your hair dyed at a salon isn't always an option. The good news is that hair coloring at home isn't as difficult as you might think. In this post, we share the different types of hair dye available, how to choose the right one for your hair type, plus our best step-by-step tips and hacks for beginners so you can dye your hair blonde, red, and everything in between from the comfort of home!](https://www.merakilane.com/wp-content/uploads/2024/12/How-to-Dye-Your-Hair-at-Home-featured-image.png)](https://www.merakilane.com/how-to-dye-your-hair-at-home-11-beginner-tips-hacks/)
     
-    ### [How to Style Barely There Bangs: 11 Styling Tips & Looks](https://www.merakilane.com/how-to-style-barely-there-bangs-11-styling-tips-looks/)
+    ### [How to Dye Your Hair at Home: 11 Beginner Tips & Hacks](https://www.merakilane.com/how-to-dye-your-hair-at-home-11-beginner-tips-hacks/)
     
-    [![6 2000s Side Bang Looks We Love | Side swept bangs are all about volume and a deep side part and they flatter all face shapes. They’re the perfect in-between style for those considering a full bang, and they work with short hair, long hair, medium length hair with layers, and everything in between. From sleek and straight, to messy and textured, 2000s side bangs are making a comeback and we've compiled everything you need to know –– how to style them plus the best looks for every hair length.](https://www.merakilane.com/wp-content/uploads/2024/11/3-3.png)](https://www.merakilane.com/y2k-bangs-6-2000s-side-bang-looks-we-love/)
+    [![How to Style Micro Bangs | 10 Styling Tips & Looks | Thanks to the resurgence of the Y2K era, micro bangs are having a major moment. Shorter than the classic bang, they fall an inch or two below the hairline and really make a statement whether you have short, medium length, or long hair. Not sure if they are right for you and your face shape, hair length, and hair texture? Want to know all of the ways you can style them? Click for all the details –– tips, tutorials, looks, and more!](https://www.merakilane.com/wp-content/uploads/2024/12/How-to-Style-Micro-Bangs-Featured-Image.png)](https://www.merakilane.com/how-to-style-micro-bangs-10-styling-tips-looks/)
     
-    ### [Y2K Bangs: 6 2000s Side Bang Looks We Love](https://www.merakilane.com/y2k-bangs-6-2000s-side-bang-looks-we-love/)
+    ### [How to Style Micro Bangs: 10 Styling Tips & Looks](https://www.merakilane.com/how-to-style-micro-bangs-10-styling-tips-looks/)
     
 * [Wellness](https://www.merakilane.com/category/wellness/)
     
@@ -117,6 +117,10 @@ Main Menu
     
     [Travel Guides](https://www.merakilane.com/category/family-travel-guides/)
     
+    [![26 Fun and Creative Ways to Give Gift Cards | While gift cards were once thought to be an impersonal gift, many people prefer the idea of being able to pick out something they actually want and need, making them the perfect gift idea for any occasion, especially if you don't know the person well (or they are impossible to buy for). Not sure how to give a gift card? We're sharing our favorite unique and clever ways to give the gift of choice this post. Click for our fav gift card giving ideas!](https://www.merakilane.com/wp-content/uploads/2024/12/Creative-Ways-to-Give-Gift-Cards-featured-image.png)](https://www.merakilane.com/26-fun-and-creative-ways-to-give-gift-cards/)
+    
+    ### [26 Fun and Creative Ways to Give Gift Cards](https://www.merakilane.com/26-fun-and-creative-ways-to-give-gift-cards/)
+    
     [![How to Help Your Child Fall Asleep | 17 Tips for Parents | We expect our kids will need some sort of sleep training when they are babies and/or toddlers as they learn to self-soothe, go through sleep regressions, cut teeth, and stop using a pacifier or sucking their thumb, but no one talks about sleep challenges in older kids. Whether it's nightmares, difficulty calming down and regulating emotions, FOMO, or a combination of all 3, this post has simple sleep strategies for older kids that work!](https://www.merakilane.com/wp-content/uploads/2024/12/How-to-Help-Your-Child-Fall-Asleep-Featured-Image.png)](https://www.merakilane.com/how-to-help-your-child-fall-asleep-17-tips-for-parents/)
     
     ### [How to Help Your Child Fall Asleep: 17 Tips for Parents](https://www.merakilane.com/how-to-help-your-child-fall-asleep-17-tips-for-parents/)
@@ -124,10 +128,6 @@ Main Menu
     [![How to Make Friendship Bracelets | 20 Designs and Tutorials | There are so many different ways to make friendship bracelets. From easy braids and intricate macrame knots, to plastic lace and gimp bracelets, to aesthetic Taylor Swift clay bead bracelets and more, jewelry making is the perfect activity kids can enjoy together or as an independent activity. Click for bracelet making tips and tutorials to help you learn the different techniques, plus creative designs to inspire you!](https://www.merakilane.com/wp-content/uploads/2024/11/friendship-bracelets-featured-image.png)](https://www.merakilane.com/how-to-make-friendship-bracelets-20-designs-and-tutorials/)
     
     ### [How to Make Friendship Bracelets: 20 Designs and Tutorials](https://www.merakilane.com/how-to-make-friendship-bracelets-20-designs-and-tutorials/)
-    
-    [![How to Make Friends with ADHD | 7 Tips for Kids | If you're a parent, teacher, or therapist of a child with attention deficit hyperactivity disorder and you're looking for tips to help making (and keeping) friends easier for them, this post is for you. Many of the symptoms of ADHD - trouble paying attention, being loud, blurting out rude comments, etc. - can make friendships challenging for children with ADHD, but there are ways you can encourage appropriate social skills. Click for more!](https://www.merakilane.com/wp-content/uploads/2024/11/1-4.png)](https://www.merakilane.com/how-to-make-friends-with-adhd-7-tips-for-kids/)
-    
-    ### [How to Make Friends with ADHD: 7 Tips for Kids](https://www.merakilane.com/how-to-make-friends-with-adhd-7-tips-for-kids/)
     
 * [Contact](https://www.merakilane.com/contact/)
 
