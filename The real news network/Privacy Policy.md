@@ -79,11 +79,11 @@ Trending Posts
 * ['We are destroying entire worlds': A West Bank rabbi's fight against Israeli Occupation](https://therealnews.com/we-are-destroying-entire-worlds-a-west-bank-rabbis-fight-against-israeli-occupation)
 * [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
 * [Assad government falls after nearly 14 years of civil war as rebels seize capital](https://therealnews.com/assad-government-falls-after-nearly-14-years-of-civil-war-as-rebels-seize-capital)
-* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
 * [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
+* [Shattering the myth of Rosa Parks reveals the civil rights movement's true history](https://therealnews.com/rosa-parks-myth-civil-rights-movement-history)
+* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
-* [Shattering the myth of Rosa Parks reveals the civil rights movement's true history](https://therealnews.com/rosa-parks-myth-civil-rights-movement-history)
 
 Close
 
@@ -143,11 +143,11 @@ Trending Posts
 * ['We are destroying entire worlds': A West Bank rabbi's fight against Israeli Occupation](https://therealnews.com/we-are-destroying-entire-worlds-a-west-bank-rabbis-fight-against-israeli-occupation)
 * [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
 * [Assad government falls after nearly 14 years of civil war as rebels seize capital](https://therealnews.com/assad-government-falls-after-nearly-14-years-of-civil-war-as-rebels-seize-capital)
-* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
 * [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
+* [Shattering the myth of Rosa Parks reveals the civil rights movement's true history](https://therealnews.com/rosa-parks-myth-civil-rights-movement-history)
+* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
-* [Shattering the myth of Rosa Parks reveals the civil rights movement's true history](https://therealnews.com/rosa-parks-myth-civil-rights-movement-history)
 
 [Skip to content](#main)
 
