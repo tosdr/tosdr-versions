@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-[](https://www.itpro.tv/)
+[](https://www.itpro.tv/itpro/)
 
 Site navigation
 ---------------
