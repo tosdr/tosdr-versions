@@ -305,7 +305,7 @@
 
 [#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#ДеньКонституции](https://er.ru/activity/news?tags%5B0%5D=1093468) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Вологодская область](https://er.ru/activity/news?tags%5B0%5D=4193) [#Ивановская область](https://er.ru/activity/news?tags%5B0%5D=611) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#Оренбургская область](https://er.ru/activity/news?tags%5B0%5D=269) [#Мурманская область](https://er.ru/activity/news?tags%5B0%5D=1927) [#Волгоградская область](https://er.ru/activity/news?tags%5B0%5D=444) [#Республика Башкортостан](https://er.ru/activity/news?tags%5B0%5D=490)
 
-Сегодня 18:15
+12.12.24
 
 [![Анна Кузнецова: В декаду приёмов, приуроченную ко Дню рождения партии, в «Единую Россию» обратились почти 79 тысяч человек](https://cdn.er.ru/media/news/December2024/d1aEM9S6ewNm21g6reLw-small.jpg)](https://er.ru/activity/news/anna-kuznecova-v-dekadu-priyomov-priurochennuyu-ko-dnyu-rozhdeniya-partii-v-edinuyu-rossiyu-obratilis-pochti-79-tysyach-chelovek)
 
@@ -313,7 +313,7 @@
 
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#декадаприемов](https://er.ru/activity/news?tags%5B0%5D=113286) [#деньрожденияпартии](https://er.ru/activity/news?tags%5B0%5D=141860) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640)
 
-Сегодня 15:00
+12.12.24
 
 [![«Единая Россия» обеспечила защиту прав детей и родителей при покупке жилья с использованием маткапитала](https://cdn.er.ru/media/news/December2024/8NJKywIsfetVkTWjCeth-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechila-zashitu-prav-detej-i-roditelej-pri-pokupke-zhilya-s-ispolzovaniem-matkapitala)
 
@@ -321,7 +321,7 @@
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#материнскийкапитал](https://er.ru/activity/news?tags%5B0%5D=113800) [#жилье](https://er.ru/activity/news?tags%5B0%5D=113) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 13:34
+12.12.24
 
 [![«Молодая Гвардия Единой России» провела акции ко Дню Конституции по всей стране](https://cdn.er.ru/media/news/December2024/Tk7dFe2yxlAaPJ6Wcq4f-small.jpeg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-provela-akcii-ko-dnyu-konstitucii-po-vsej-strane)
 
@@ -329,7 +329,7 @@
 
 [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Воробьев](https://er.ru/activity/news?tags%5B0%5D=114) [#Тульская область](https://er.ru/activity/news?tags%5B0%5D=2194) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ДеньКонституции](https://er.ru/activity/news?tags%5B0%5D=1093468) [#квизы](https://er.ru/activity/news?tags%5B0%5D=134874) [#триколор](https://er.ru/activity/news?tags%5B0%5D=3575)
 
-Сегодня 12:45
+12.12.24
 
 [![«Единая Россия» внесла в Госдуму законопроект, который позволит подтвердить подлинность страниц НКО «знаком качества» через Госуслуги - они получат визуальное обозначение](https://cdn.er.ru/media/news/December2024/R9rFVxAmlnpwPUgCZ3Wz-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-v-gosdumu-zakonoproekt-kotoryj-pozvolit-podtverdit-podlinnost-stranic-nko-znakom-kachestva-cherez-gosuslugi-oni-poluchat-vizualnoe-oboznachenie)
 
@@ -337,7 +337,7 @@
 
 [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#соцсети](https://er.ru/activity/news?tags%5B0%5D=1649) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#Госуслуги](https://er.ru/activity/news?tags%5B0%5D=1090944)
 
-Сегодня 11:00
+12.12.24
 
 [![Владимир Якушев: Конституция стала символом единства нашего народа и его исторического выбора, который определил путь России как независимого, сильного и демократического государства](https://cdn.er.ru/media/news/December2024/G47wfnSRDJOoAfzQH6Rv-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-konstituciya-stala-simvolom-edinstva-nashego-naroda-i-ego-istoricheskogo-vybora-kotoryj-opredelil-put-rossii-kak-nezavisimogo-silnogo-i-demokraticheskogo-gosudarstva)
 
@@ -345,7 +345,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#ДеньКонституции](https://er.ru/activity/news?tags%5B0%5D=1093468) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172)
 
-Сегодня 10:38
+12.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
