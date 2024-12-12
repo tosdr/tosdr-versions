@@ -49,6 +49,16 @@ Om du delar din lokaliseringsdata behandlar vi den för att kunna rikta viktiga 
 
 Om du önskar få nyhetsbrev från oss behandlar SVT uppgifter om din e-postadress för att kunna skicka nyhetsbrev till dig. Denna behandling grundas på intresseavvägning och din e-postadress raderas när du meddelat oss att du inte längre vill ta emot nyhetsbrev från oss. 
 
+**Användare av digitala tjänster för barn**
+
+**Appen "SVT Barn":** Vi samlar inte in några uppgifter som kan användas för att identifiera eller kontakta en enskild person i SVT Barn-appen om det inte är kopplat till det publicistiska området.
+
+Vi samlar in statistik om hur personer använder SVT Barn för att kunna förbättra tjänsten. Bland annat sparar vi information om vilka program som spelas. Uppgifterna kan inte kopplas till en specifik person. 
+
+SVT Barn använder cookies för att förbättra din användarupplevelse och för personalisering. SVT använder tredje part för insamling och lagring av statistik. 
+
+**Appen "Bolibompa":** Vi samlar inte in några uppgifter i Bolibompa som kan användas för att identifiera eller kontakta en enskild person. Vi samlar in statistik om hur personer använder Bolibompa för att kunna förbättra tjänsten. SVT använder tredje part för insamling och lagring av statistik. 
+
 Besökare
 
 Om du besöker någon av SVT:s lokaler i Stockholm, Göteborg, Malmö och Umeå behandlar vi uppgifter om ditt namn och datum för besöket och eventuellt ditt personnummer, dina kontaktuppgifter och arbetsgivare. Uppgifter behandlas för att vi ska kunna uppfylla våra skyldigheter enligt skyddslagen (2010:305), s.k. rättslig förpliktelse. De anonymiseras inom 90 dagar från ditt besök.  
