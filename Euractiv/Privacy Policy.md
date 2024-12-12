@@ -443,25 +443,25 @@ Most recent
 
 [12-12-2024
 
-Europe’s energy poverty problem is getting worse, country-specific solutions needed](https://www.euractiv.com/section/eet/news/europes-energy-poverty-problem-is-getting-worse-country-specific-solutions-needed/)[12-12-2024
+LinkedIn faces EU scrutiny over mandatory changes on targeted ads](https://www.euractiv.com/section/tech/news/linkedin-faces-eu-scrutiny-over-mandatory-changes-on-targeted-ads/)[12-12-2024
 
-Combined technology and regulation push required for EU cities to achieve net zero, says new study](https://www.euractiv.com/section/eet/news/combined-technology-and-regulation-push-required-for-eu-cities-to-achieve-net-zero-says-new-study/)[11-12-2024
+Georgia protesters fight on as Macron blasts arbitrary arrests](https://www.euractiv.com/section/global-europe/news/georgia-protesters-fight-on-as-macron-blasts-arbitrary-arrests/)[12-12-2024
 
-Put forest resilience at heart of carbon storage incentives budget, say experts](https://www.euractiv.com/section/eet/news/put-forest-resilience-at-heart-of-carbon-storage-incentives-budget-say-experts/)[11-12-2024
+Russia could launch another hypersonic missile at Ukraine soon, US official says](https://www.euractiv.com/section/global-europe/news/russia-could-launch-another-hypersonic-missile-at-ukraine-soon-us-official-says/)[12-12-2024
 
-Hungarian presidency urges ‘intergenerational solidarity’ to meet demographic challenges, ageing population](https://www.euractiv.com/section/health-consumers/news/hungarian-presidency-urges-intergenerational-solidarity-to-meet-demographic-challenges-ageing-population/)[11-12-2024
+Shocked West mulls dilemma posed by Syria’s new leaders](https://www.euractiv.com/section/global-europe/news/shocked-west-mulls-dilemma-posed-by-syrias-new-leaders/)[12-12-2024
 
-Energy security will be central to Polish presidency, says climate minister](https://www.euractiv.com/section/eet/news/energy-security-will-be-central-to-polish-presidency-says-climate-minister/)[11-12-2024
+Bulgaria, Greece fine-tune details to lift border controls](https://www.euractiv.com/section/politics/news/bulgaria-greece-fine-tune-details-to-lift-border-controls/)[12-12-2024
 
-Europe can have its own Silicon Valley, with digital SMEs at its heart](https://www.euractiv.com/section/digital/news/europe-can-have-its-own-silicon-valley-with-digital-smes-at-its-heart/)[11-12-2024
+Donald Tusk Orbán-proofs Polish private media](https://www.euractiv.com/section/politics/news/the-capitals-donald-tusk-orban-proofs-polish-private-media/)[12-12-2024
 
-EPP: Commission should present proposal on relieving car industry from fines ‘ASAP’](https://www.euractiv.com/section/economy-jobs/news/epp-commission-should-present-proposal-on-relieving-car-industry-from-fines-asap/)[11-12-2024
+Slovak ombudsman and opposition to challenge information bill in Constitutional Court](https://www.euractiv.com/section/politics/news/slovak-ombudsman-and-opposition-to-challenge-information-bill-in-constitutional-court/)[12-12-2024
 
-Trade deal could give Mercosur a leg up on EU anti-deforestation law](https://www.euractiv.com/section/agriculture-food/news/trade-deal-could-give-mercosur-a-leg-up-on-eu-anti-deforestation-law/)[11-12-2024
+Czech EPP MEP says joining right bloc in EU Parliament is what ‘voters want’](https://www.euractiv.com/section/politics/news/czech-epp-mep-says-joining-right-bloc-in-eu-parliament-is-what-voters-want/)[12-12-2024
 
-Companies from 20 countries welcomed in NATO innovation accelerator](https://www.euractiv.com/section/global-europe/news/companies-from-20-countries-welcomed-in-nato-innovation-accelerator/)[11-12-2024
+Puigdemont’s party urges Sánchez to pay ‘what he owes’ to Catalonia](https://www.euractiv.com/section/politics/news/puigdemonts-party-urges-sanchez-to-pay-what-he-owes-to-catalonia/)[12-12-2024
 
-Macron in Warsaw to pitch Ukraine peacekeeping mission after war ends](https://www.euractiv.com/section/global-europe/news/macron-in-warsaw-to-pitch-ukraine-peacekeeping-mission-after-war-ends/)
+Italian government divided over scrapping COVID-19 vaccine opponent fines](https://www.euractiv.com/section/politics/news/italian-government-divided-over-scrapping-covid-19-vaccine-opponent-fines/)
 
 ###### Advertisement
 
