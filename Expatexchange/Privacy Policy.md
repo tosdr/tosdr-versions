@@ -68,9 +68,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![GeoBlue](https://www.expatexchange.com/banner/INDV2079-ExpatExchangeAd_728x90_FNL.jpg)](https://www.expatexchange.com/partnerdirect/76/62262-DESKTOP-leader-leaderad-vrs-A-Global-leader)
+[![SJB Global](https://www.expatexchange.com/banner/SJB-GlobalSJB-Global-Financial-Planning-for-Expats-ldr2.jpg)](https://www.expatexchange.com/partnerdirect/182/54696-DESKTOP-leader-leaderad-vrs-B-Global-leader)
 
-[![GeoBlue](https://www.expatexchange.com/banner/INDV2079-ExpatExchangeAd_300x250_FNL.jpg)](https://www.expatexchange.com/partnerdirect/76/62262-MOBILE-leader-leaderad-vrs-A-Global-leader)
+[![SJB Global](https://www.expatexchange.com/banner/SJB-GlobalSJB-Global-Financial-Planning-for-Expats-mpu-2.jpg)](https://www.expatexchange.com/partnerdirect/182/54696-MOBILE-leader-leaderad-vrs-B-Global-leader)
 
 Privacy Policy
 ==============
@@ -411,17 +411,17 @@ Based on the applicable laws of your country, you may have the right to request 
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
 
-[![GeoBlue](https://www.expatexchange.com/images/GeoBlueCouple200-200.jpg)](https://www.expatexchange.com/partnerdirect/76/99555-DESKTOP-cbar-vrs-A-hicontent-Global-62)
+[![GeoBlue](https://www.expatexchange.com/images/GeoBlueCouple200-200.jpg)](https://www.expatexchange.com/partnerdirect/76/8736-DESKTOP-cbar-vrs-B-hicontent-Global-62)
 
-[GeoBlue](https://www.expatexchange.com/partnerdirect/76/99555-DESKTOP-cbar-vrs-A-hicontent-Global-62)
-
-Top-quality coverage for people who live, work, study and travel internationally.  
-[Get Quote](https://www.expatexchange.com/partnerdirect/76/99555-DESKTOP-cbar-vrs-A-hicontent-Global-62 "Get Quote")
-
-[![GeoBlue](https://www.expatexchange.com/images/GeoBlueCouple200-200.jpg)](https://www.expatexchange.com/partnerdirect/76/99555-MOBILE-cbar-vrs-A-hicontent-Global-62)[GeoBlue](https://www.expatexchange.com/partnerdirect/76/99555-MOBILE-cbar-vrs-A-hicontent-Global-62)
+[GeoBlue](https://www.expatexchange.com/partnerdirect/76/8736-DESKTOP-cbar-vrs-B-hicontent-Global-62)
 
 Top-quality coverage for people who live, work, study and travel internationally.  
-[Get Quote](https://www.expatexchange.com/partnerdirect/76/99555-MOBILE-cbar-vrs-A-hicontent-Global-62 "Get Quote")
+[Get Quote](https://www.expatexchange.com/partnerdirect/76/8736-DESKTOP-cbar-vrs-B-hicontent-Global-62 "Get Quote")
+
+[![GeoBlue](https://www.expatexchange.com/images/GeoBlueCouple200-200.jpg)](https://www.expatexchange.com/partnerdirect/76/8736-MOBILE-cbar-vrs-B-hicontent-Global-62)[GeoBlue](https://www.expatexchange.com/partnerdirect/76/8736-MOBILE-cbar-vrs-B-hicontent-Global-62)
+
+Top-quality coverage for people who live, work, study and travel internationally.  
+[Get Quote](https://www.expatexchange.com/partnerdirect/76/8736-MOBILE-cbar-vrs-B-hicontent-Global-62 "Get Quote")
 
 How do I use Expat Exchange?  
 You'll gain access to the best information and features when you [join our site](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange") (it's free). Then, choose your destination and you'll find many of these features for your country:  
