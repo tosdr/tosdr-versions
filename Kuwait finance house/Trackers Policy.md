@@ -189,7 +189,7 @@ _![](/dam/jcr:1205b642-1de8-4ede-a150-721c5882a2a7/user-top.png)_ Customer Login
 * [A](javascript:void(0))
 * [A](javascript:void(0))
 * [](javascript:void(0))
-* [Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9156&lang=en_uk&readid=mainContent&url=https%3A%2F%2Fwww.kfh.com%2Fen%2Fhome%2FPersonal%2FCookies-and-Data-Privacy-Notice.html%3Bjsessionid%3D4SC5zA5Y-FykJ9npDaHvHzyNvdI9CLV7eqzhcfIa6DGDsUZFPJBP!1160309182 "Listen to this page using ReadSpeaker")
+* [Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9156&lang=en_uk&readid=mainContent&url=https%3A%2F%2Fwww.kfh.com%2Fen%2Fhome%2FPersonal%2FCookies-and-Data-Privacy-Notice.html "Listen to this page using ReadSpeaker")
     
 
 Cookie Notice
