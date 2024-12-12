@@ -160,13 +160,13 @@ Featured Success Stories
 
 Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/reduce-student-behavior-referrals)
 
-[Simmons MS
-
-Enhanced School Security & Student Accountability](https://www.smartpass.app/customers/ridgeland-school-district-122)
-
 [Pinelands Regional HS
 
 Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-pinelands-reduced-students-cutting-class-by-60)
+
+[Simmons MS
+
+Enhanced School Security & Student Accountability](https://www.smartpass.app/customers/ridgeland-school-district-122)
 
 ![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
 
