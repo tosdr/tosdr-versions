@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Can't get enough Fark in your life? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-The next best thing to UltraFark
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Amazing video of aerial firefighters refilling planes mid-flight. Or as water coolers call it, the ultimate flex](https://www.fark.com/goto/13491154) ( [boingboing.net](https://www.fark.com/goto/13491154) ) » [(1 comment)](https://www.fark.com/comments/13491154/Amazing-video-of-aerial-firefighters-refilling-planes-mid-flight-Or-as-water-coolers-call-it-ultimate-flex) |
-| [Discussion](https://www.fark.com/discussion/) | [Tonight on AEW: Winter is Coming - Mina challenges Mariah for her AEW Women's title, Adam Cole face Kyle, Pac & Mox vs O.C. & Jay White plus two Gold League matches. Does the Indie God have some words for Jericho? Find out at 8 PM ET on TBS](https://www.fark.com/goto/13491092) ( [allelitewrestling.com](https://www.fark.com/goto/13491092) ) » [(23 comments)](https://www.fark.com/comments/13491092/Tonight-on-AEW-Winter-is-Coming-Mina-challenges-Mariah-for-her-AEW-Womens-title-Adam-Cole-face-Kyle-Pac-Mox-vs-OC-Jay-White-plus-two-Gold-League-matches-Does-Indie-God-have-some-words-for-Jericho-Find-out-at-8-PM-ET-on-TBS) |
-| [Sports](https://www.fark.com/sports/) | [Tonight on AEW: Winter is Coming - Mina challenges Mariah for her AEW Women's title, Adam Cole face Kyle, Pac & Mox vs O.C. & Jay White plus two Gold League matches. Does the Indie God have some words for Jericho? Find out at 8 PM ET on TBS](https://www.fark.com/goto/13491092) ( [allelitewrestling.com](https://www.fark.com/goto/13491092) ) » [(23 comments)](https://www.fark.com/comments/13491092/Tonight-on-AEW-Winter-is-Coming-Mina-challenges-Mariah-for-her-AEW-Womens-title-Adam-Cole-face-Kyle-Pac-Mox-vs-OC-Jay-White-plus-two-Gold-League-matches-Does-Indie-God-have-some-words-for-Jericho-Find-out-at-8-PM-ET-on-TBS) |
-| [Business](https://www.fark.com/business/) | [The final straw was the cardinal sin of trying to kill the hemi V8](https://www.fark.com/goto/13491070) ( [roadandtrack.com](https://www.fark.com/goto/13491070) ) » [(35 comments)](https://www.fark.com/comments/13491070/The-final-straw-was-cardinal-sin-of-trying-to-kill-hemi-V8) |
-| [STEM](https://www.fark.com/stem/) | [Final incident report for Ingenuity, plus a bonus "Get your ass to the Mars CHOPPER"](https://www.fark.com/goto/13491172) ( [nasa.gov](https://www.fark.com/goto/13491172) ) » [(0 comments)](https://www.fark.com/comments/13491172/Final-incident-report-for-Ingenuity-plus-a-bonus-Get-your-ass-to-Mars-CHOPPER) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Cher, Dick Van Dyke make Daily Mail headline without dying, but the reason still sucks](https://www.fark.com/goto/13491124) ( [dailymail.co.uk](https://www.fark.com/goto/13491124) ) » [(0 comments)](https://www.fark.com/comments/13491124/Cher-Dick-Van-Dyke-make-Daily-Mail-headline-without-dying-but-reason-still-sucks) |
-| [Fandom](https://www.fark.com/fandom/) | [Rush and Barenaked Ladies want to wish you a Merry Christmas. In the style of Black Sabbath](https://www.fark.com/goto/13491128) ( [youtube.com](https://www.fark.com/goto/13491128) ) » [(11 comments)](https://www.fark.com/comments/13491128/Rush-Barenaked-Ladies-want-to-wish-you-a-Merry-Christmas-In-style-of-Black-Sabbath) |
-| [D'awww](https://www.fark.com/dawww/) | [Now that no humans are facing winter without proper shelter, please think of the rescue pigs who need blankets](https://www.fark.com/goto/13490682) ( [thecentralvirginian.com](https://www.fark.com/goto/13490682) ) » [(9 comments)](https://www.fark.com/comments/13490682/Now-that-no-humans-are-facing-winter-without-proper-shelter-please-think-of-rescue-pigs-who-need-blankets) |
-| [Food](https://www.fark.com/food/) | [Well, OK. I'll allow it. But only one is allowed to remain standing. TWO SHIATHOLE RESTAURANTS ENTER, ONE SHIATHOLE RESTAURANT LEAVES](https://www.fark.com/goto/13491266) ( [cnn.com](https://www.fark.com/goto/13491266) ) » [(24 comments)](https://www.fark.com/comments/13491266/Well-OK-Ill-allow-it-But-only-one-is-allowed-to-remain-standing-TWO-SHIATHOLE-RESTAURANTS-ENTER-ONE-SHIATHOLE-RESTAURANT-LEAVES) |
-| [Politics](https://www.fark.com/politics/) | [Only Donald Trump can save TikTok now. Bye, TikTok](https://www.fark.com/goto/13491062) ( [slate.com](https://www.fark.com/goto/13491062) ) » [(11 comments)](https://www.fark.com/comments/13491062/Only-Donald-Trump-can-save-TikTok-now-Bye-TikTok) |
+| [Main](https://www.fark.com/) | [Fark NotNewsletter: It's a me all along, Luigi](https://www.fark.com/goto/13487782) ( [fark.com](https://www.fark.com/goto/13487782) ) » [(0 comments)](https://www.fark.com/comments/blog1464/Fark-NotNewsletter-Its-a-me-all-along-Luigi) |
+| [Discussion](https://www.fark.com/discussion/) | [Which animal has the largest breasts in the zoo? The zebra. This is your Bad Joke Thursday thread, where we learn that fish say damn after they swim into a wall](https://www.fark.com/goto/13491676) ( [trivia.cracked.com](https://www.fark.com/goto/13491676) ) » [(22 comments)](https://www.fark.com/comments/13491676/Which-animal-has-largest-breasts-in-zoo-The-zebra-This-is-your-Bad-Joke-Thursday-thread-where-we-learn-that-fish-say-damn-after-they-swim-into-a-wall) |
+| [Sports](https://www.fark.com/sports/) | [Return of Rich Rod](https://www.fark.com/goto/13491612) ( [espn.com](https://www.fark.com/goto/13491612) ) » [(0 comments)](https://www.fark.com/comments/13491612/Return-of-Rich-Rod) |
+| [Business](https://www.fark.com/business/) | [By focusing on vertical integration, health insurers have boosted profits and found a loophole in ACA requirements for care. It's a win-win](https://www.fark.com/goto/13491784) ( [statnews.com](https://www.fark.com/goto/13491784) ) » [(5 comments)](https://www.fark.com/comments/13491784/By-focusing-on-vertical-integration-health-insurers-have-boosted-profits-found-a-loophole-in-ACA-requirements-for-care-Its-a-win-win) |
+| [STEM](https://www.fark.com/stem/) | [Was the force one with nature? Let's find out](https://www.fark.com/goto/13491768) ( [bbc.com](https://www.fark.com/goto/13491768) ) » [(0 comments)](https://www.fark.com/comments/13491768/Was-force-one-with-nature-Lets-find-out) |
+| [Entertainment](https://www.fark.com/entertainment/) | [After sleeping with 100 men in 24 hours, OnlyFans model reacts the same way submitter's wife does after our annual session](https://www.fark.com/goto/13491586) ( [tmz.com](https://www.fark.com/goto/13491586) ) » [(49 comments)](https://www.fark.com/comments/13491586/After-sleeping-with-100-men-in-24-hours-OnlyFans-model-reacts-same-way-submitters-wife-does-after-our-annual-session) |
+| [Fandom](https://www.fark.com/fandom/) | [That book was adapted, but into our current reality rather than a movie](https://www.fark.com/goto/13491462) ( [giantfreakinrobot.com](https://www.fark.com/goto/13491462) ) » [(1 comment)](https://www.fark.com/comments/13491462/That-book-was-adapted-but-into-our-current-reality-rather-than-a-movie) |
+| [D'awww](https://www.fark.com/dawww/) | [Harold, I think the dog wants to go out](https://www.fark.com/goto/13491458) ( [newsweek.com](https://www.fark.com/goto/13491458) ) » [(2 comments)](https://www.fark.com/comments/13491458/Harold-I-think-dog-wants-to-go-out) |
+| [Food](https://www.fark.com/food/) | [We can all agree that roasted whole turkey is one of the worst, if not the worst, holiday foods OF ALL TIME. But here's why you should be eating it all year long, anyway](https://www.fark.com/goto/13491874) ( [slate.com](https://www.fark.com/goto/13491874) ) » [(6 comments)](https://www.fark.com/comments/13491874/We-can-all-agree-that-roasted-whole-turkey-is-one-of-worst-if-not-worst-holiday-foods-OF-ALL-TIME-But-heres-why-you-should-be-eating-it-all-year-long-anyway) |
+| [Politics](https://www.fark.com/politics/) | [The first rule of fighting a tangerine coloured, god-damned fascist, is you don't give them power](https://www.fark.com/goto/13491862) ( [cbc.ca](https://www.fark.com/goto/13491862) ) » [(12 comments)](https://www.fark.com/comments/13491862/The-first-rule-of-fighting-a-tangerine-coloured-god-damned-fascist-is-you-dont-give-them-power) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 12 2024 01:42:11  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 12 2024 08:42:45  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
