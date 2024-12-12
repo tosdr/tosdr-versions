@@ -18,7 +18,7 @@ Offers
 
 Go to previous offer
 
-*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **It's Apple Pay Wednesday!** Use Apple Pay to get $5 off your order
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy a ticket to Mufasa: The Lion King** Chance to win a vacation!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Moana 2 Ticket to Adventure - Only $29.99!** Get the Disney pin set & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rise to victory with The Champion's Collection** Get an Exclusive Gladiator II Movie Pack
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
@@ -64,14 +64,6 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventurebundle/?cmp=TARS~FANDANGO~Moana2ticket2adventurebundle_Footer)
     
-* [Ascend to victory with The Champion's Collection image link ![Ascend to victory with The Champion's Collection](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/117eeb80-9e1f-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-gladiator2bundle-292x118.png)](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_Footer) 
-    
-    ### Ascend to victory with The Champion's Collection
-    
-    Featuring 1 ticket to Gladiator II at a Regal theatre, an exclusive physical poster, and more!
-    
-    [LEARN MORE](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_Footer)
-    
 * [Save 15% off on the Moana 2 vinyl LP image link ![Save 15% off on the Moana 2 vinyl LP](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/5600fa30-acfe-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moana2-vinyl-gwp-292x118.png)](https://www.fandangomovietickets.com/Moana2VinylGWPOffer?cmp=TARS~FANDANGO~Moana2VinylTicketingOffer_Footer) 
     
     ### Save 15% off on the Moana 2 vinyl LP
@@ -80,13 +72,21 @@ Offers
     
     [BUY TICKETS](https://www.fandangomovietickets.com/Moana2VinylGWPOffer?cmp=TARS~FANDANGO~Moana2VinylTicketingOffer_Footer)
     
-* [Save on select movies image link ![Save on select movies](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ca0ae630-acfd-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-sonicthehedgehog3-gwp-292x118.png)](https://www.watchfandangoathome.com/Sonic3?cmp=TARS~FANDANGO~RewardsSonic3Promo_Footer) 
+* [Discover the new Fandango FanStore image link ![Discover the new Fandango FanStore](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/aef25cc0-a933-11ef-8321-2b978811c524--fan-globalofferunit-homepage-fanstorelaunch-292x118-v2.png)](https://www.fandangofanstore.com/?cmp=TARS~FANDANGO~_Footer) 
     
-    ### Save on select movies
+    ### Discover the new Fandango FanStore
     
-    And get up to $5.00 towards a movie ticket\* to see Sonic the Hedgehog 3 in theaters
+    Need a gift for the holidays? Shop Wicked, Gladiator II, Despicable Me, & More!
     
-    [LEARN MORE](https://www.watchfandangoathome.com/Sonic3?cmp=TARS~FANDANGO~RewardsSonic3Promo_Footer)
+    [SHOP NOW](https://www.fandangofanstore.com/?cmp=TARS~FANDANGO~_Footer)
+    
+* [Gladiator II Prop Auction image link ![Gladiator II Prop Auction](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/9f6f3b60-9899-11ef-8321-2b978811c524--fan-globalofferunit-homepage-gladiator2auction-292x118-v5.png)](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer) 
+    
+    ### Gladiator II Prop Auction
+    
+    Take a piece of history home with official props straight from the movie set!
+    
+    [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer)
     
 
 New & Coming soon
@@ -190,11 +190,11 @@ New & Coming soon
 
 Close
 
-![It's Apple Pay Wednesday!](http://images.fandango.com/cms/assets/abda58c0-b433-11ef-ab6e-6bc4e16d49df--fan-globalnavbar-applepay-wickedgladiator2-tickets-343x362-2.png)
+![Buy a ticket to Mufasa: The Lion King](http://images.fandango.com/cms/assets/6c40a650-b434-11ef-a07e-5b03d6159fe4--fan-globalnavbar-mufasa-343x362.png)
 
-#### Today only! Save $5 on your order with Apple Pay
+#### Buy a ticket to Mufasa: The Lion King for a chance to win a vacation to the Walt Disney World® Resort!
 
-Limited time offer, and limited quantities available. To redeem the offer, purchase one or more movie tickets on Wednesday 12/11/2024, to see any film through Fandango.com or the Fandango iOS mobile app and use Apple Pay®️ as the payment method, and enter the Fandango Promotional Code APPLEPAYWED (“Code”) in order to get the $5 off the entire purchase. There is a limited quantity of Code redemptions allowed in this promotion and therefore the offer is only available first come first served while supplies last. Code expires, and can no longer be used, upon earlier of Wednesday 12/11/2024, or after the limit of Code redemptions have been reached. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango iOS app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. One-time use only per email address, for a maximum of one transaction, receiving a maximum of one $5 discount on the purchase total regardless of how many tickets were purchased in that one transaction. Not for resale; void if sold or exchanged. Limit 1 Code per email address. Fandango reserves the right to modify or cancel this offer at any time and without notice. The redemption of the Code is subject to Fandango’s Terms and Policies at www.fandango.com/terms-and-policies. Apple Pay is a service provided by Apple Payments Services LLC, a subsidiary of Apple Inc. Neither Apple Inc. nor Apple Payments Services LLC is a bank. Any card used in Apple Pay is offered by the card issuer. Apple Pay is a registered mark of Apple Inc. [GET TICKETS](https://www.fandango.com/redirect.aspx?source=mlp&promo=applepaywed&cmp=TARS~FANDANGO~Fandango_globalnav~applepaywednesday~TLP)
+NO PURCHASE OR APP NECESSARY. Open to legal residents of the 50 United States and D.C., 18 years of age and older. Void where prohibited. Ends December 29, 2024. For Official Rules/Odds/Free Entry visit  https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes.com.  Sponsor: Fandango Media, LLC, 12180 Millennium Dr., Ste. 200, Playa Vista, CA, 90094 [LEARN MORE](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_promomodule)
 
 ### SPECIAL OFFER
 
