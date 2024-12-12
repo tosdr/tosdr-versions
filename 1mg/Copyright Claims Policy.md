@@ -954,7 +954,6 @@ QUICK BUY! Get 15% off on medicines\*
     
 * [Winter Care Essentials](https://www.1mg.com/categories/winter-care-essentials-3362)
     
-    * [Winter Care - Best Deals](https://www.1mg.com/categories/winter-care-essentials/winter-care-best-deals-3368)
     * [Cough, Cold & Fever](https://www.1mg.com/categories/winter-care-essentials/cough-cold-fever-672)
     * [Skin & Hair Care](https://www.1mg.com/categories/winter-care-essentials/skin-hair-care-3367)
     * [Shampoo](https://www.1mg.com/categories/winter-care-essentials/skin-hair-care/shampoo-205)
@@ -965,9 +964,9 @@ QUICK BUY! Get 15% off on medicines\*
     * [Herbal Tea & Honey](https://www.1mg.com/categories/winter-care-essentials/herbal-tea-honey-3366)
     * [Pain Relief](https://www.1mg.com/categories/winter-care-essentials/pain-relief-32)
     * [Gel & Sprays](https://www.1mg.com/categories/winter-care-essentials/pain-relief/gel-sprays-635)
-    * [Electric heating pads](https://www.1mg.com/categories/winter-care-essentials/pain-relief/electric-heating-pads-1402)
     * [Hot Water Bottles](https://www.1mg.com/categories/winter-care-essentials/pain-relief/hot-water-bottles-597)
     * [Oils For Pain Relief](https://www.1mg.com/categories/winter-care-essentials/pain-relief/oils-for-pain-relief-636)
+    * [Electric heating pads](https://www.1mg.com/categories/winter-care-essentials/pain-relief/electric-heating-pads-1402)
     * [Heating Aids & Belts](https://www.1mg.com/categories/winter-care-essentials/pain-relief/heating-aids-belts-637)
     * [Pain Balm & Ointment](https://www.1mg.com/categories/winter-care-essentials/pain-relief/pain-balm-ointment-638)
     * [Pain Relief Tablets](https://www.1mg.com/categories/winter-care-essentials/pain-relief/pain-relief-tablets-3131)
