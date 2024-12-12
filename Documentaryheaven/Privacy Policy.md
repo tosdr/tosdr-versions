@@ -128,39 +128,39 @@ Advertisement
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
-* [![September Clues](/wp-content/thumbnails/1588-100x70.jpg?x53432)
+* [![Why We Bang](/wp-content/thumbnails/1121-100x70.jpg?x53432)
     
-    September Clues
+    Why We Bang
     
-    This comprehensive analysis of the 9/11 broadcasts shows how the mainstream media actively participated in the 9/11 false-flag operation aimed at generating public support for illegal wars. This media...](https://documentaryheaven.com/september-clues/ "September Clues")
+    The film, Why We Bang, produced and directed by Orlando Myrics and Clifford Jordan for Ghetto Logik Entertainment is an independent film that documents the historical background of LA's Bloods and Cri...](https://documentaryheaven.com/why-we-bang/ "Why We Bang")
 
 ###### Throwback Documentaries
 
-* [![Can Eating Insects Save the World](/wp-content/thumbnails/7082-100x70.jpg?x53432)
+* [![Embedded With Al-Qaeda in Syria: ISIS & Al-Nusra](/wp-content/thumbnails/9056-100x70.jpg?x53432)
     
-    Can Eating Insects Save the World
+    Embedded With Al-Qaeda in Syria: ISIS & Al-Nusra
     
-    How would you feel about eating deep fried locusts, ant egg salad or barbequed tarantulas? This documentary sees presenter and food writer Stefan Gates immerse himself in the extraordinary world of ha](https://documentaryheaven.com/can-eating-insects-save-the-world/ "Can Eating Insects Save the World")
-* [![Secrets of the Scammers](/wp-content/thumbnails/8502-100x70.jpg?x53432)
+    Over two and a half years ago, unarmed protesters demonstrated in the streets of Syria demanding the downfall of the Assad regime. They hope that like the revolutions seen in Egypt, Tunisia and Libya](https://documentaryheaven.com/embedded-al-qaeda-syria-isis-al-nusra/ "Embedded With Al-Qaeda in Syria: ISIS & Al-Nusra")
+* [![Seven Ages Of Starlight](/wp-content/thumbnails/8006-100x70.jpg?x53432)
     
-    Secrets of the Scammers
+    Seven Ages Of Starlight
     
-    They are responsible for the fastest growing area of crime, they targeted half of the British population last year but despite this they prove very hard to catch, meet the foreign scam artists who are](https://documentaryheaven.com/secrets-scammers/ "Secrets of the Scammers")
-* [![Coronavirus: A Horizon Special](/wp-content/thumbnails/16230-100x70.png?x53432)
+    This is the epic story of the stars, and how discovering their tale has transformed our own understanding of the universe.Once we thought the sun and stars were gods and giants. Now we know, in a](https://documentaryheaven.com/seven-ages-of-starlight/ "Seven Ages Of Starlight")
+* [![Steve O Demise and Rise](/wp-content/thumbnails/6393-100x70.jpg?x53432)
     
-    Coronavirus: A Horizon Special
+    Steve O Demise and Rise
     
-    Coronavirus (COVID-19) struck just a few months ago, it was a deadly virus that took an unprepared world by storm. But as the world scrambled to react to this growing emergency an astonishing global](https://documentaryheaven.com/coronavirus-horizon-special/ "Coronavirus: A Horizon Special")
-* [![LEGO](/wp-content/thumbnails/6417-100x70.jpg?x53432)
+    Over one year sober now and fresh off a comeback stint on ABC's 'Dancing With the Stars', Steve-O is set to bare his soul and everything else in 'Steve-O: Demise and Rise', a brutally honest one-hour](https://documentaryheaven.com/steve-o-demise-and-rise/ "Steve O Demise and Rise")
+* [![Meet The Mormons](/wp-content/thumbnails/12069-100x70.jpg?x53432)
     
-    LEGO
+    Meet The Mormons
     
-    National Geographic goes on a fun and fascinating adventure that would be the envy of any kid in the world inside the Lego factory in Billund, Denmark.The Documentary covers many aspects of the prod](https://documentaryheaven.com/lego/ "LEGO")
-* [![Britain’s Street Kids](/wp-content/thumbnails/12950-100x70.jpg?x53432)
+    In this film we meet several British Mormons, young missionaries who's job it is to convert us to their particular brand of Christianity. Run from Salt Lake City in Utah the Mormon religion is an](https://documentaryheaven.com/meet-mormons/ "Meet The Mormons")
+* [![The Cola Wars](/wp-content/thumbnails/14516-100x70.jpg?x53432)
     
-    Britain’s Street Kids
+    The Cola Wars
     
-    Every day in the United Kingdom it seems that hundreds of children are being forced to leave home and charities such as Shelter say the number of homeless children is simply bound to rise as a di](https://documentaryheaven.com/britains-street-kids/ "Britain’s Street Kids")
+    The soft drink industry is a 100 million dollar juggernaut, the Coca Cola Company and Pepsi Co. control vast empires which reach into practically every corner of the globe. Through huge networks of bo](https://documentaryheaven.com/cola-wars/ "The Cola Wars")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
