@@ -1,8 +1,8 @@
 [Skip to content](#MainContent)
 
-[**Free shipping on orders $70+ (US Only)**](https://tuttletwins.store/collections/shop-all)
+[**Free shipping on orders $150+ (US Only)**](https://tuttletwins.store/collections/shop-all)
 
-[**Order by Dec. 11 for Christmas Delivery!**](https://tuttletwins.store/collections/shop-all)
+[**Expedited Shipping Now Available!**](https://tuttletwins.store/collections/shop-all)
 
    
 
