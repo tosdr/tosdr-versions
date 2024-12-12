@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Mike Mccarthy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2299%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/50-facts-about-mike-mccarthy/)
+[![37 Facts About Turkey ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2294%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/countries/37-facts-about-turkey/)
 
-Sports
+Countries
 
-11 Dec 2024
+12 Dec 2024
 
-[50 Facts About Mike Mccarthy](https://facts.net/lifestyle/sports/50-facts-about-mike-mccarthy/)
+[37 Facts About Turkey](https://facts.net/world/countries/37-facts-about-turkey/)
 
-[![30 Facts About GammaSarcoglycanopathy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-gamma-sarcoglycanopathy/)
+[![39 Facts About Captain Jack Bonavita ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/39-facts-about-captain-jack-bonavita/)
 
-Health Science
+People
 
-11 Dec 2024
+12 Dec 2024
 
-[30 Facts About GammaSarcoglycanopathy](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-gamma-sarcoglycanopathy/)
+[39 Facts About Captain Jack Bonavita](https://facts.net/history/people/39-facts-about-captain-jack-bonavita/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
