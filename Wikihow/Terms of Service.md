@@ -391,22 +391,23 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Know if a Guy Likes You](https://www.wikihow.com/images/thumb/d/d0/Know-if-a-Guy-Likes-You-Step-17-Version-2.jpg/-crop-126-120-126px-Know-if-a-Guy-Likes-You-Step-17-Version-2.jpg)
+
+How to  
+Know if a Guy Likes You](https://www.wikihow.com/Know-if-a-Guy-Likes-You)
+
+[![Get a Six Pack Without Any Equipment](https://www.wikihow.com/images/thumb/e/e0/Get-a-Six-Pack-Without-Any-Equipment-Step-14-Version-7.jpg/-crop-126-120-126px-Get-a-Six-Pack-Without-Any-Equipment-Step-14-Version-7.jpg)
+
+How to  
+Get a Six Pack Without Any Equipment](https://www.wikihow.com/Get-a-Six-Pack-Without-Any-Equipment)
+
+[![What Animal Am I](https://www.wikihow.com/images/thumb/b/ba/What_animal_are_you_quiz.png/-crop-126-120-126px-What_animal_are_you_quiz.png)
+
+What Animal Am I Quiz](https://www.wikihow.com/What-Animal-Am-I)
+
 [![Determine Your Seasonal Color Palette](https://www.wikihow.com/images/thumb/0/08/Determine-Your-Seasonal-Color-Palette-Step-12-Version-2.jpg/-crop-126-120-126px-Determine-Your-Seasonal-Color-Palette-Step-12-Version-2.jpg)
 
 Which Season Are You? Finding Your Color Palette](https://www.wikihow.com/Determine-Your-Seasonal-Color-Palette)
-
-[![Comfort Someone Who Is Sad](https://www.wikihow.com/images/thumb/6/66/Comfort-Someone-Who-Is-Sad-Step-15-Version-2.jpg/-crop-126-120-126px-Comfort-Someone-Who-Is-Sad-Step-15-Version-2.jpg)
-
-How to  
-Comfort Someone Who Is Sad](https://www.wikihow.com/Comfort-Someone-Who-Is-Sad)
-
-[![Confuse a Narcissist](https://www.wikihow.com/images/thumb/9/90/Confuse-a-Narcissist-Step-11.jpg/-crop-126-120-126px-Confuse-a-Narcissist-Step-11.jpg)
-
-11 Ways to Confuse and Disarm a Narcissist](https://www.wikihow.com/Confuse-a-Narcissist)
-
-[![Know if a Girl Likes You](https://www.wikihow.com/images/thumb/5/54/Know-if-a-Girl-Likes-You-Step-25.jpg/-crop-126-120-126px-Know-if-a-Girl-Likes-You-Step-25.jpg)
-
-Does She Like Me? 15+ Signs She’s Into You](https://www.wikihow.com/Know-if-a-Girl-Likes-You)
 
   
 
@@ -449,4 +450,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-248
+181
