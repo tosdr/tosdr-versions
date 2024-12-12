@@ -88,13 +88,13 @@ Most Read
     
     1. [NASA believes it understands why Ingenuity crashed on Mars](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/)
     
-2. 2. [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
+2. 2. [Russia takes unusual route to hack Starlink-connected devices in Ukraine](https://arstechnica.com/security/2024/12/russia-takes-unusual-route-to-hack-starlink-connected-devices-in-ukraine/)
     
-3. 3. [Russia takes unusual route to hack Starlink-connected devices in Ukraine](https://arstechnica.com/security/2024/12/russia-takes-unusual-route-to-hack-starlink-connected-devices-in-ukraine/)
+3. 3. [Congressional Republicans conclude SARS-CoV-2 originated in a lab leak](https://arstechnica.com/science/2024/12/congressional-republicans-conclude-sars-cov-2-originated-in-a-lab-leak/)
     
-4. 4. [Congressional Republicans conclude SARS-CoV-2 originated in a lab leak](https://arstechnica.com/science/2024/12/congressional-republicans-conclude-sars-cov-2-originated-in-a-lab-leak/)
+4. 4. [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
     
-5. 5. [Ranking the 25 coolest things in space so far during the 21st century](https://arstechnica.com/space/2024/12/ranking-the-25-coolest-things-in-space-so-far-during-the-21st-century/)
+5. 5. [Photobucket opted inactive users into privacy nightmare, lawsuit says](https://arstechnica.com/tech-policy/2024/12/photobucket-sold-users-biometric-data-without-consent-lawsuit-says/)
     
 
 Customize
