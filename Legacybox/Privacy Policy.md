@@ -6,7 +6,7 @@
 
  
 
-BEST DEAL OF THE YEAR 65% OFF LEGACYBOX. DEALS START AT $25.
+HERE'S A HOLLY JOLLY $7.99 TAPES SALE! HERE'S A HOLLY JOLLY $7.99 TAPES SALE!
 
 00 DAY
 
@@ -16,9 +16,9 @@ BEST DEAL OF THE YEAR 65% OFF LEGACYBOX. DEALS START AT $25.
 
 00 SEC
 
-65% OFF LEGACYBOX | DEALS START AT $25
+MOST MEANINGFUL XMAS GIFT
 
-[SHOP LOWEST PRICES >](https://legacybox.com/products/legacybox-digitizing-kit)
+[SHOP LOWEST PRICES >](https://legacybox.com/products/legacybox-digitizing-kit-9-tapes-film)
 
  [![Digitize Home Movies, Photos, Slides & More with Legacybox®](https://cdn.shopify.com/s/files/1/1933/0091/files/holiday_logo.svg?v=1698879504)](https://legacybox.com/)Simplest and easiest way to convert your recorded media to digital. Legacybox is the world's largest digitizer of home movies, photos & film.
 =======================================================================================================================================================================================================================================================================================================================
