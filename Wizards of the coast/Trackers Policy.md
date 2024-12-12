@@ -8,43 +8,9 @@ Cookies
 =======
 
 What Are Cookies?  
-Last Updated: 3/3/2022
+Last Updated: 12/11/2024
 
 Cookies are small text files that are placed on your device by apps and websites that you visit. Cookies are widely used in order to make websites work, fulfill your preferences, and to provide information to the owners of websites.
-
-**The table below explains the cookies we use and why.**
-
-| DOMAIN | COOKIE NAME | DESCRIPTION |
-| --- | --- | --- |
-| company.wizards.com | \_ga | Used to distinguish users for Google Analytics. |
-| company.wizards.com | \_gat | This cookie is used by Google accounts on relevant pages. |
-| company.wizards.com | \_gid | Used to distinguish users for Google Analytics. |
-| company.wizards.com | cookies-agreed | Used by the Company site to record that the user has accepted the cookie policy. |
-| company.wizards.com | locale | Used by the Company site to provide the user with localized content. |
-
-  
-  
-
-**Use the table below to access the cookie disclosure pages for our various websites.**
-
-| Site Name | Link to Cookie Disclosure |
-| --- | --- |
-| Magic the Gathering | [https://magic.wizards.com/en/cookies](https://magic.wizards.com/en/cookies) |
-| Gatherer Magic Card Database | [https://gatherer.wizards.com/Pages/LearnMore.aspx](https://gatherer.wizards.com/Pages/LearnMore.aspx) |
-| Magic the Gathering China | [https://www.cnwizards.com/rules/cookies](https://www.cnwizards.com/rules/cookies) |
-| Magic the Gathering Japan | [https://mtg-jp.com/cookie/](https://mtg-jp.com/cookie/) |
-| Wizards Play Network | [https://wpn.wizards.com/en/cookie-information](https://wpn.wizards.com/en/cookie-information) |
-| Dark Alliance | [https://www.darkalliance.com/en/cookies](https://www.darkalliance.com/en/cookies) |
-| Esports | [https://magic.gg/cookies](https://magic.gg/cookies) |
-| Accounts | [https://myaccounts.wizards.com/cookies](https://myaccounts.wizards.com/cookies) |
-| Accounts (Legacy) | [https://accounts.wizards.com/Default/IsCookiesUp](https://accounts.wizards.com/Default/IsCookiesUp) |
-| DnD | [https://dnd.wizards.com/cookie-information](https://dnd.wizards.com/cookie-information) |
-| DnD Beyond | [https://www.dndbeyond.com/cookies](https://www.dndbeyond.com/cookies) |
-| Store Event Locator | [https://locator.wizards.com/cookies](https://locator.wizards.com/cookies) |
-| EventLink | [https://eventlink.wizards.com/cookies](https://eventlink.wizards.com/cookies) |
-| SpellTable | [https://www.spelltable.com/cookies](https://www.spelltable.com/cookies) |
-| Customer Feedback (Customer Support) | [https://support.wizards.com/hc/en-us/articles/360059540251-UserVoice-Cookies](https://support.wizards.com/hc/en-us/articles/360059540251-UserVoice-Cookies) |
-| Support Tool  <br>Magic Support  <br>MTGArena Support  <br>MTGO Support  <br>Dungeons & Dragons Support  <br>Dark Alliance Support  <br>Magic Spellslingers Support  <br>MTGO Beta Support | [https://support.wizards.com/hc/en-us/articles/360059542811-Zendesk-Cookies](https://support.wizards.com/hc/en-us/articles/360059542811-Zendesk-Cookies) |
 
 **Mobile Apps third-party service providers:**
 
