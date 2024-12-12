@@ -26,9 +26,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Are you ready for retail media advertising? What you need to know in 2025](https://illumin.com/wp-content/uploads/2024/12/retail-media-guide-263x300.jpg)
+    * ![Winning ad strategies from the 2024 holiday season](https://illumin.com/wp-content/uploads/2024/12/best-holiday-ads-263x300.jpg)
         
-        Are you ready for retail media advertising? What you need to know in 2025[Read More](https://illumin.com/insights/guides/retail-media-advertising-2025/)
+        Winning ad strategies from the 2024 holiday season[Read More](https://illumin.com/insights/blog/winning-ad-strategies-2024-holidays/)
         
 * [Company](#)
     * [Company](#)
