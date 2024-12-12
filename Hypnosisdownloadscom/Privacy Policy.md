@@ -19,7 +19,7 @@ Or try our [Intelligent Assistant](https://www.hypnosisdownloads.com/ai-assistan
 
 [![Hively Customer Satisfaction Survey](//hdcdnsun2.r.worldssl.net/sites/www.hypnosisdownloads.com/files/hively-badge.jpg)
 
-9157 people are happy with our customer service](https://uncommon-care-team.teamhively.com/)
+9178 people are happy with our customer service](https://uncommon-care-team.teamhively.com/)
 
 [Menu](#)
 
@@ -88,7 +88,7 @@ Or try our [Intelligent Assistant](https://www.hypnosisdownloads.com/ai-assistan
 
 [![Hively Customer Satisfaction Survey](//hdcdnsun2.r.worldssl.net/sites/www.hypnosisdownloads.com/files/hively-badge.jpg)
 
-9157 people are happy with our customer service](https://uncommon-care-team.teamhively.com/)
+9178 people are happy with our customer service](https://uncommon-care-team.teamhively.com/)
 
 Privacy Policy
 ==============
