@@ -120,17 +120,13 @@ Pronatura Service Navigation
 
 Pronatura Main
 
-* [Biodiversitätskrise](https://www.pronatura.ch/de/biodiversitaet)
-    
-    * [Aktiv werden für die Natur](https://www.pronatura.ch/de/aktiv-werden-fuer-die-natur)
-    * [Fragen und Antworten](https://www.pronatura.ch/de/biodiversitaet-der-schweiz-fragen-und-antworten)
-    * [Lebensräume kennenlernen](https://www.pronatura.ch/de/lebensraeume)
-    
+* [Unsere Projekte](https://www.pronatura.ch/de/unsere-projekte)
 * [Unsere Themen](https://www.pronatura.ch/de/unsere-themen)
     
+    * [Biodiversitätskrise](https://www.pronatura.ch/de/biodiversitaet)
     * [Landwirtschaft](https://www.pronatura.ch/de/landwirtschaft)
-    * [Klimakrise](https://www.pronatura.ch/de/klimakrise-in-der-schweiz)
     * [Energie](https://www.pronatura.ch/de/energie)
+    * [Lebensräume kennenlernen](https://www.pronatura.ch/de/lebensraeume)
     * [Schutzgebiete sichern](https://www.pronatura.ch/de/schutzgebiete)
     * [Weitere Themen](https://www.pronatura.ch/de/unsere-themen)
     
