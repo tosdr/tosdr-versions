@@ -1133,10 +1133,6 @@ Crazy Egg
 
 cebsp\_, \_ce.s, \_ce.clock\_data, \_ce.clock\_event, cebs
 
-Hotjar
-
-OptanonConsent, \_sctr, \_cs\_s, \_hjFirstSeen, \_hjAbsoluteSessionInProgress, \_hjSessionUser\_14, \_fbp, ajs\_anonymous\_id, \_hjSessionUser\_<hotjar-id>, \_uetsid, \_schn, \_uetvid, NEXT\_LOCALE, \_hjSession\_14, \_hjid, \_cs\_c, \_scid, \_hjAbsoluteSessionInProgress, \_cs\_id, \_gcl\_au, \_ga, \_gid, \_hjIncludedInPageviewSample, \_hjSession\_<hotjar-id>, \_hjIncludedInSessionSample\_<hotjar-id>
-
 Linkedin
 
 lidc, AnalyticsSyncHistory, UserMatchHistory, bcookie, li\_sugr, ln\_or
