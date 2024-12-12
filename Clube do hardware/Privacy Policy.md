@@ -130,105 +130,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Elias martins](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239262c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EEM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1077555-elias-martins/ "Ir ao perfil de Elias martins")
-        
-        6
-        
-        [Fonte Deepcool DA500 segura Ryzen 7 5800X e GeForce RTX 4060 ou devo trocar?](https://www.clubedohardware.com.br/forums/topic/1705311-fonte-deepcool-da500-segura-ryzen-7-5800x-e-geforce-rtx-4060-ou-devo-trocar/?do=getNewComment "Fonte Deepcool DA500 segura Ryzen 7 5800X e GeForce RTX 4060 ou devo trocar?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Elias martins](https://www.clubedohardware.com.br/profile/1077555-elias-martins/ "Ir ao perfil de Elias martins")  
-        1 hora atrás
-        
-    * [![Uma_Ilha](https://www.clubedohardware.com.br/uploads/members/monthly_2021_07/download.thumb.jpeg.8363bcb784d38512e6abfba0b46989d9.jpeg)](https://www.clubedohardware.com.br/profile/1165579-uma_ilha/ "Ir ao perfil de Uma_Ilha")
+    * [![victorioshi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257829.thumb.png.11422e782290e3676bcba9579d1d8b0a.png)](https://www.clubedohardware.com.br/profile/1257829-victorioshi/ "Ir ao perfil de victorioshi")
         
         0
         
-        Outro [Fórmula para controle mensal](https://www.clubedohardware.com.br/forums/topic/1705310-f%C3%B3rmula-para-controle-mensal/?do=getNewComment "Fórmula para controle mensal")
+        [Pouco uso de cpu e gpu](https://www.clubedohardware.com.br/forums/topic/1705345-pouco-uso-de-cpu-e-gpu/?do=getNewComment "Pouco uso de cpu e gpu")
         
-        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
-        Por [Uma\_Ilha](https://www.clubedohardware.com.br/profile/1165579-uma_ilha/ "Ir ao perfil de Uma_Ilha")  
-        1 hora atrás
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [victorioshi](https://www.clubedohardware.com.br/profile/1257829-victorioshi/ "Ir ao perfil de victorioshi")  
+        22 minutos atrás
         
-    * [![Cauã angelo00](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236283c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ECA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257805-cau%C3%A3-angelo00/ "Ir ao perfil de Cauã angelo00")
-        
-        0
-        
-        [Computador desliga quando retorna do suspender](https://www.clubedohardware.com.br/forums/topic/1705308-computador-desliga-quando-retorna-do-suspender/?do=getNewComment "Computador desliga quando retorna do suspender")
-        
-        [Computador desligando sozinho](https://www.clubedohardware.com.br/forums/forum/258-computador-desligando-sozinho/ "Computador desligando sozinho")  
-        Por [Cauã angelo00](https://www.clubedohardware.com.br/profile/1257805-cau%C3%A3-angelo00/ "Ir ao perfil de Cauã angelo00")  
-        2 horas atrás
-        
-    * [![Evaristo de meto](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23aac462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EEM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255624-evaristo-de-meto/ "Ir ao perfil de Evaristo de meto")
-        
-        1
-        
-        [canais regionais não abrem](https://www.clubedohardware.com.br/forums/topic/1705307-canais-regionais-n%C3%A3o-abrem/?do=getNewComment "canais regionais não abrem")
-        
-        [Equipamentos de som e home theaters](https://www.clubedohardware.com.br/forums/forum/52-equipamentos-de-som-e-home-theaters/ "Equipamentos de som e home theaters")  
-        Por [Evaristo de meto](https://www.clubedohardware.com.br/profile/1255624-evaristo-de-meto/ "Ir ao perfil de Evaristo de meto")  
-        4 horas atrás
-        
-    * [![Murilo Boldrin](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c466%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/993514-murilo-boldrin/ "Ir ao perfil de Murilo Boldrin")
-        
-        1
-        
-        [Indicação de teclado mecânico](https://www.clubedohardware.com.br/forums/topic/1705306-indica%C3%A7%C3%A3o-de-teclado-mec%C3%A2nico/?do=getNewComment "Indicação de teclado mecânico")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Murilo Boldrin](https://www.clubedohardware.com.br/profile/993514-murilo-boldrin/ "Ir ao perfil de Murilo Boldrin")  
-        6 horas atrás
-        
-    * [![isacxs](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c49562%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EI%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257731-isacxs/ "Ir ao perfil de isacxs")
+    * [![tigasz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257828.thumb.png.83968a652d73b574552be818de978c9e.png)](https://www.clubedohardware.com.br/profile/1257828-tigasz/ "Ir ao perfil de tigasz")
         
         2
         
-        [montei uma configuração pro meu pc, ela é boa?](https://www.clubedohardware.com.br/forums/topic/1705305-montei-uma-configura%C3%A7%C3%A3o-pro-meu-pc-ela-%C3%A9-boa/?do=getNewComment "montei uma configuração pro meu pc, ela é boa?")
+        [Preciso de recomendação de placas de até 1000 reais!!!](https://www.clubedohardware.com.br/forums/topic/1705344-preciso-de-recomenda%C3%A7%C3%A3o-de-placas-de-at%C3%A9-1000-reais/?do=getNewComment "Preciso de recomendação de placas de até 1000 reais!!!")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [isacxs](https://www.clubedohardware.com.br/profile/1257731-isacxs/ "Ir ao perfil de isacxs")  
-        7 horas atrás
+        Por [tigasz](https://www.clubedohardware.com.br/profile/1257828-tigasz/ "Ir ao perfil de tigasz")  
+        28 minutos atrás
         
-    * [![Vasto_Lorde961](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257676.thumb.jpeg.9cbb48b4c800412e35861e56f0881838.jpeg)](https://www.clubedohardware.com.br/profile/1257676-vasto_lorde961/ "Ir ao perfil de Vasto_Lorde961")
+    * [![ManoJooJ](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253433.thumb.jpeg.78a73492e5259fb4d1eabc9db1f48fe7.jpeg)](https://www.clubedohardware.com.br/profile/1253433-manojooj/ "Ir ao perfil de ManoJooJ")
         
-        0
+        5
         
-        [Drivers de rede não funcionam (erro 56)](https://www.clubedohardware.com.br/forums/topic/1705304-drivers-de-rede-n%C3%A3o-funcionam-erro-56/?do=getNewComment "Drivers de rede não funcionam (erro 56)")
+        [Vale a pena trocar o meu processador core I3 10105f por um Ryzen 7 5700X?](https://www.clubedohardware.com.br/forums/topic/1705343-vale-a-pena-trocar-o-meu-processador-core-i3-10105f-por-um-ryzen-7-5700x/?do=getNewComment "Vale a pena trocar o meu processador core I3 10105f por um Ryzen 7 5700X?")
         
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [Vasto\_Lorde961](https://www.clubedohardware.com.br/profile/1257676-vasto_lorde961/ "Ir ao perfil de Vasto_Lorde961")  
-        8 horas atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [ManoJooJ](https://www.clubedohardware.com.br/profile/1253433-manojooj/ "Ir ao perfil de ManoJooJ")  
+        39 minutos atrás
         
-    * [![Jordan-](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46662%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1012874-jordan/ "Ir ao perfil de Jordan-")
+    * [![tDemon](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1238585.thumb.jpeg.d5c3673f3217452f65b07257dadfcfbc.jpeg)](https://www.clubedohardware.com.br/profile/1238585-tdemon/ "Ir ao perfil de tDemon")
         
         2
         
-        [Temperatura alta Ryzen 9 5950x](https://www.clubedohardware.com.br/forums/topic/1705303-temperatura-alta-ryzen-9-5950x/?do=getNewComment "Temperatura alta Ryzen 9 5950x")
+        [Nome do Monitor e Faixa de Preço](https://www.clubedohardware.com.br/forums/topic/1705342-nome-do-monitor-e-faixa-de-pre%C3%A7o/?do=getNewComment "Nome do Monitor e Faixa de Preço")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Jordan-](https://www.clubedohardware.com.br/profile/1012874-jordan/ "Ir ao perfil de Jordan-")  
-        8 horas atrás
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [tDemon](https://www.clubedohardware.com.br/profile/1238585-tdemon/ "Ir ao perfil de tDemon")  
+        44 minutos atrás
         
-    * [![GabrielSolid](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1249227.thumb.png.97fdab62f9ceca7f8d32c3841aa42e93.png)](https://www.clubedohardware.com.br/profile/1249227-gabrielsolid/ "Ir ao perfil de GabrielSolid")
+    * [![João Vitor Gois Bonierski](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c1c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257827-jo%C3%A3o-vitor-gois-bonierski/ "Ir ao perfil de João Vitor Gois Bonierski")
         
-        1
+        2
         
-        [pc indo para 100% de uso e depois voltando ao normal.](https://www.clubedohardware.com.br/forums/topic/1705302-pc-indo-para-100-de-uso-e-depois-voltando-ao-normal/?do=getNewComment "pc indo para 100% de uso e depois voltando ao normal.")
+        [Atualizei a BIOS da minha placa-mãe, troquei o processador e não da mais vídeo](https://www.clubedohardware.com.br/forums/topic/1705341-atualizei-a-bios-da-minha-placa-m%C3%A3e-troquei-o-processador-e-n%C3%A3o-da-mais-v%C3%ADdeo/?do=getNewComment "Atualizei a BIOS da minha placa-mãe,  troquei o processador e não da mais vídeo")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [GabrielSolid](https://www.clubedohardware.com.br/profile/1249227-gabrielsolid/ "Ir ao perfil de GabrielSolid")  
-        8 horas atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [João Vitor Gois Bonierski](https://www.clubedohardware.com.br/profile/1257827-jo%C3%A3o-vitor-gois-bonierski/ "Ir ao perfil de João Vitor Gois Bonierski")  
+        50 minutos atrás
         
-    * [![IShow88](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/18f36d3c70be9d4fae7256335d1cdf90_compressed.thumb.png.340d0ab489176ffb3fd7ba2c9ab9b1df.png)](https://www.clubedohardware.com.br/profile/1254754-ishow88/ "Ir ao perfil de IShow88")
+    * [![Swalls](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/2(1)(1).thumb.gif.8bc9075f9ac397929081e02491b40cb5.gif)](https://www.clubedohardware.com.br/profile/1160883-swalls/ "Ir ao perfil de Swalls")
         
-        1
+        2
         
-        [Upgrade até R$500 reais](https://www.clubedohardware.com.br/forums/topic/1705301-upgrade-at%C3%A9-r500-reais/?do=getNewComment "Upgrade até R$500 reais")
+        [NVMe e mSATA são a mesma coisa?](https://www.clubedohardware.com.br/forums/topic/1705340-nvme-e-msata-s%C3%A3o-a-mesma-coisa/?do=getNewComment "NVMe e mSATA são a mesma coisa?")
+        
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Swalls](https://www.clubedohardware.com.br/profile/1160883-swalls/ "Ir ao perfil de Swalls")  
+        53 minutos atrás
+        
+    * [![Adilson Taquaral](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4a8%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EAT%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1205893-adilson-taquaral/ "Ir ao perfil de Adilson Taquaral")
+        
+        4
+        
+        [Fonte Seasonic 620W S12II suporta Core i5-13400F e GeForce RTX 3060Ti?](https://www.clubedohardware.com.br/forums/topic/1705339-fonte-seasonic-620w-s12ii-suporta-core-i5-13400f-e-geforce-rtx-3060ti/?do=getNewComment "Fonte Seasonic 620W S12II suporta Core i5-13400F e GeForce RTX 3060Ti?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Adilson Taquaral](https://www.clubedohardware.com.br/profile/1205893-adilson-taquaral/ "Ir ao perfil de Adilson Taquaral")  
+        1 hora atrás
+        
+    * [![Betelgeuse](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257826.thumb.jpeg.a21fa0c3c5424a1510ac03ec3ea8ae02.jpeg)](https://www.clubedohardware.com.br/profile/1257826-betelgeuse/ "Ir ao perfil de Betelgeuse")
+        
+        2
+        
+        [Uso de CPU em 100%](https://www.clubedohardware.com.br/forums/topic/1705338-uso-de-cpu-em-100/?do=getNewComment "Uso de CPU em 100%")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [Betelgeuse](https://www.clubedohardware.com.br/profile/1257826-betelgeuse/ "Ir ao perfil de Betelgeuse")  
+        1 hora atrás
+        
+    * [![JoaoVitor3](https://www.clubedohardware.com.br/uploads/members/monthly_2020_11/imported-photo-1096835.thumb.png.a4dd1fda16c8e544e53a1df8a7d15ebb.png)](https://www.clubedohardware.com.br/profile/1096835-joaovitor3/ "Ir ao perfil de JoaoVitor3")
+        
+        0
+        
+        [Socket da placa-mãe com rebaixo](https://www.clubedohardware.com.br/forums/topic/1705337-socket-da-placa-m%C3%A3e-com-rebaixo/?do=getNewComment "Socket da placa-mãe com rebaixo")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [JoaoVitor3](https://www.clubedohardware.com.br/profile/1096835-joaovitor3/ "Ir ao perfil de JoaoVitor3")  
+        1 hora atrás
+        
+    * [![Lawliet240hz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257226.thumb.jpeg.dc678eb313c9dc0b4e44a1a4b66acd5e.jpeg)](https://www.clubedohardware.com.br/profile/1257226-lawliet240hz/ "Ir ao perfil de Lawliet240hz")
+        
+        3
+        
+        [Vale trocar GeForce RTX 3060 por Radeon RX 6600, Ryzen 5 5600G e 300 reais?](https://www.clubedohardware.com.br/forums/topic/1705335-vale-trocar-geforce-rtx-3060-por-radeon-rx-6600-ryzen-5-5600g-e-300-reais/?do=getNewComment "Vale trocar GeForce RTX 3060 por Radeon RX 6600, Ryzen 5 5600G e 300 reais?")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [IShow88](https://www.clubedohardware.com.br/profile/1254754-ishow88/ "Ir ao perfil de IShow88")  
-        8 horas atrás
+        Por [Lawliet240hz](https://www.clubedohardware.com.br/profile/1257226-lawliet240hz/ "Ir ao perfil de Lawliet240hz")  
+        1 hora atrás
         
     
 
