@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Atul Subhash](https://www.news18.com/india/were-not-guilty-family-of-atul-subhashs-wife-expresses-regret-on-techies-death-9152784.html)
+    * [Atul Subhash](https://www.news18.com/viral/atul-subhash-suicide-bengaluru-engineers-brother-in-law-threatens-reporters-over-coverage-9152680.html)
     * [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
+    * [Alimony Factors](https://www.news18.com/india/supreme-court-lays-down-8-factors-to-decide-alimony-amount-amid-bengaluru-techies-suicide-9153288.html)
+    * [Bengaluru Techie Suicide](https://www.news18.com/india/this-atm-is-closed-now-harrowing-details-of-bengaluru-techie-atul-subhashs-life-and-death-9153273.html)
     * [Mohanlal](https://www.news18.com/movies/mohanlal-reacts-to-pushpa-2-success-calls-it-a-gatecrash-the-film-industrys-wheel-has-to-turn-exclusive-9152565.html)
-    * [Shark Tank India](https://www.news18.com/movies/shark-tank-india-makers-breaks-silence-on-zomato-ceo-deepinder-goyal-being-kicked-out-of-reality-show-9151853.html)
-    * [Trisha Krishnan](https://www.news18.com/web-stories/celebrities/5-trisha-krishnan-inspired-saree-blouses-for-wedding-season-2675055/)
-    * [Sobhita Dhulipala](https://www.news18.com/lifestyle/sobhita-dhulipala-shines-in-gold-at-cocktail-hour-after-tying-the-knot-with-naga-chaitanya-9150928.html)
+    * [Andrew Garfield](https://www.news18.com/movies/spider-man-star-andrew-garfield-breaks-silence-on-meeting-shraddha-kapoor-says-he-loves-zoya-akhtar-9151908.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Atul Subhash](https://www.news18.com/india/were-not-guilty-family-of-atul-subhashs-wife-expresses-regret-on-techies-death-9152784.html)
+* [Atul Subhash](https://www.news18.com/viral/atul-subhash-suicide-bengaluru-engineers-brother-in-law-threatens-reporters-over-coverage-9152680.html)
 * [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
+* [Alimony Factors](https://www.news18.com/india/supreme-court-lays-down-8-factors-to-decide-alimony-amount-amid-bengaluru-techies-suicide-9153288.html)
+* [Bengaluru Techie Suicide](https://www.news18.com/india/this-atm-is-closed-now-harrowing-details-of-bengaluru-techie-atul-subhashs-life-and-death-9153273.html)
 * [Mohanlal](https://www.news18.com/movies/mohanlal-reacts-to-pushpa-2-success-calls-it-a-gatecrash-the-film-industrys-wheel-has-to-turn-exclusive-9152565.html)
-* [Shark Tank India](https://www.news18.com/movies/shark-tank-india-makers-breaks-silence-on-zomato-ceo-deepinder-goyal-being-kicked-out-of-reality-show-9151853.html)
-* [Trisha Krishnan](https://www.news18.com/web-stories/celebrities/5-trisha-krishnan-inspired-saree-blouses-for-wedding-season-2675055/)
-* [Sobhita Dhulipala](https://www.news18.com/lifestyle/sobhita-dhulipala-shines-in-gold-at-cocktail-hour-after-tying-the-knot-with-naga-chaitanya-9150928.html)
+* [Andrew Garfield](https://www.news18.com/movies/spider-man-star-andrew-garfield-breaks-silence-on-meeting-shraddha-kapoor-says-he-loves-zoya-akhtar-9151908.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
