@@ -256,7 +256,7 @@ Algolia’s Designated Copyright Agent to receive notifications of claimed copyr
 
 #### Company
 
-[About Algolia](https://www.algolia.com/about)Careers[Newsroom](https://www.algolia.com/about/news)[Events](https://www.algolia.com/events)[Leadership](https://www.algolia.com/about/leadership)[Social impact](https://www.algolia.com/about/social-impact)[Contact us](https://www.algolia.com/contact)
+[About Algolia](https://www.algolia.com/about)[Careers](https://www.algolia.com/careers)[Newsroom](https://www.algolia.com/about/news)[Events](https://www.algolia.com/events)[Leadership](https://www.algolia.com/about/leadership)[Social impact](https://www.algolia.com/about/social-impact)[Contact us](https://www.algolia.com/contact)
 
 #### Social networks
 
@@ -296,7 +296,7 @@ Algolia’s Designated Copyright Agent to receive notifications of claimed copyr
 
 #### Company
 
-[About Algolia](https://www.algolia.com/about)Careers[Newsroom](https://www.algolia.com/about/news)[Events](https://www.algolia.com/events)[Leadership](https://www.algolia.com/about/leadership)[Social impact](https://www.algolia.com/about/social-impact)[Contact us](https://www.algolia.com/contact)
+[About Algolia](https://www.algolia.com/about)[Careers](https://www.algolia.com/careers)[Newsroom](https://www.algolia.com/about/news)[Events](https://www.algolia.com/events)[Leadership](https://www.algolia.com/about/leadership)[Social impact](https://www.algolia.com/about/social-impact)[Contact us](https://www.algolia.com/contact)
 
 #### Social networks
 
