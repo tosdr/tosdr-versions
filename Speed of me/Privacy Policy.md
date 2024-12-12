@@ -27,7 +27,9 @@ TO CHANGE CONSENT OR RECEIVE INFORMATION ON DATA YOU MUST PROVIDE THE IP ADDRESS
 Privacy Policy
 ==============
 
-Our Privacy Policy was last updated and posted on July 22, 2019. It governs the privacy terms of our Website, located at [https://speedof.me/privacy.html](https://speedof.me/privacy.html). Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
+Our Privacy Policy was last updated and posted on July 22, 2019. It governs the privacy terms of our Website, located at [https://speedof.me/privacy.html](https://speedof.me/privacy.html). Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our [Terms of Service](https://speedof.me/terms.html).
+
+Check out our Ad partner privacy policy [here](https://g.ezoic.net/privacy/speedof.me).
 
 Your Privacy
 ------------
