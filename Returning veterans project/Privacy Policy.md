@@ -185,12 +185,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Sergeant Delmas G. Akers](https://cdn.returningveterans.org/images/honor/Delmas_Akers_2.jpg)  
+![Charles E. Beckel](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
-**In Memory of Sergeant Delmas G. Akers**  
-United States Air Force  
-United States Army  
-Submitted by Monte Akers](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Charles E. Beckel**  
+Submitted by Ted and Julie Johnson](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +231,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 12/12/24 - 7:24:06  
+Printed 12/12/24 - 1:23:03  
 © 2024 Returning Veterans Project
