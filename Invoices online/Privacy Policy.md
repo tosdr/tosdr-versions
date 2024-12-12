@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Henry Venter
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=792f579d3af2734e0eed2ecf8ca88665c0b743a3b8f136b216abedf9896041ab&c=139410858)  
-Camp 4 Africa (Pty) Ltd
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=70520145)  
+Henry's Home Renovations
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=792f579d3af2734e0eed2ecf8ca88665c0b743a3b8f136b216abedf9896041ab&c=150091958)  
-Westside Car Audio CC
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=77993339)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=792f579d3af2734e0eed2ecf8ca88665c0b743a3b8f136b216abedf9896041ab&c=156585714)  
-Roamfree Boerdery (PTY) LTD
+![valued client Eruca](https://www.invoicesonline.co.za/scripts/image.php?bid=8439&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=2587545)  
+Eruca
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=792f579d3af2734e0eed2ecf8ca88665c0b743a3b8f136b216abedf9896041ab&c=95813990)  
-SA Security Brokerz (Pty) Ltd
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=115556120)  
+Highlands Auto Engineering
 
-![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=792f579d3af2734e0eed2ecf8ca88665c0b743a3b8f136b216abedf9896041ab&c=88454715)  
-Stevens Consulting
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=168108227)  
+IYD
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=792f579d3af2734e0eed2ecf8ca88665c0b743a3b8f136b216abedf9896041ab&c=52018498)  
-TIGERDSL
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=124062379)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=792f579d3af2734e0eed2ecf8ca88665c0b743a3b8f136b216abedf9896041ab&c=115150490)  
-Konsortium Operations (PTY) LTD
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=1400630)  
+Lion Software Develepment
 
-![valued client CBR PAINTS / VERWE](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=792f579d3af2734e0eed2ecf8ca88665c0b743a3b8f136b216abedf9896041ab&c=85584977)  
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=141868319)  
+J.M. HUMAN RESOURCES
+
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=43323976)  
+Brand's Fountains Deco and Events Coordinatoin
+
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=162744622)  
+Frameless Fanatix (Pty) Ltd.
+
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=157223712)  
+National Elite Security Services (PTY) LTD
+
+![valued client CBR PAINTS / VERWE](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=58422216)  
 CBR PAINTS / VERWE
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=792f579d3af2734e0eed2ecf8ca88665c0b743a3b8f136b216abedf9896041ab&c=214270121)  
-United Paintball Federation
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=169891184)  
+Peter Salvage Pty Ltd
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=792f579d3af2734e0eed2ecf8ca88665c0b743a3b8f136b216abedf9896041ab&c=165991528)  
-Lemba Truck Stop
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=103859675)  
+Multi CNC Solutions CC
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=792f579d3af2734e0eed2ecf8ca88665c0b743a3b8f136b216abedf9896041ab&c=54970536)  
-VIV'S TRUCKS (Pty) Ltd. (117)
-
-![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=792f579d3af2734e0eed2ecf8ca88665c0b743a3b8f136b216abedf9896041ab&c=110727513)  
-Protech Marketing
-
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=792f579d3af2734e0eed2ecf8ca88665c0b743a3b8f136b216abedf9896041ab&c=26621713)  
-LEONARD
-
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=792f579d3af2734e0eed2ecf8ca88665c0b743a3b8f136b216abedf9896041ab&c=95966280)  
-PROGRAPHIX PTY LTD
-
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=792f579d3af2734e0eed2ecf8ca88665c0b743a3b8f136b216abedf9896041ab&c=84190294)  
-Mtunzini Group
+![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=affc4d610bf7d1ed3cafbebfd9cebababf834d46570df0ddec0f82e9ba2c9a28&c=80610729)  
+FLIPS AUTO ELECTRICAL
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
