@@ -122,7 +122,7 @@ Open user options menu
 
 * [Today's Paper](https://edition.arkansasonline.com/arkansas-democrat-gazette/)
 * [Local News](https://www.arkansasonline.com/news/news/arkansas/?page=1)
-* [Videos](https://www.youtube.com/arkansasonline)
+* [Prison Project](https://www.arkansasonline.com/franklin-county-prison/)
 * [Sports](https://www.arkansasonline.com/news/sports/)
 * [Features](https://www.arkansasonline.com/news/features/style/)
 * [Podcasts](https://www.arkansasonline.com/news/podcasts/)
