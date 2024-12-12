@@ -464,25 +464,25 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[JR East announces 10-year plan to drastically overhaul Suica](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439434.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ")](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Prince Hisahito to enroll at University of Tsukuba](https://www.japantimes.co.jp/news/2024/12/11/japan/prince-hisahito-tsukuba-university/ "Prince Hisahito to enroll at University of Tsukuba")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![Prince Hisahito, who is second in line to the Chrysanthemum Throne, is currently a third-year student at the University of Tsukuba’s affiliated high school.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439508.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prince Hisahito, who is second in line to the Chrysanthemum Throne, is currently a third-year student at the University of Tsukuba’s affiliated high school.")](https://www.japantimes.co.jp/news/2024/12/11/japan/prince-hisahito-tsukuba-university/ "Prince Hisahito to enroll at University of Tsukuba")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[Tokyo remains third in global city index for ninth consecutive year](https://www.japantimes.co.jp/news/2024/12/11/japan/society/tokyo-city-survey/ "Tokyo remains third in global city index for ninth consecutive year")
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![The silhouettes of Mount Fuji, the Tokyo Metropolitan Government building and Shinjuku skyscrapers are seen during sunset in Tokyo in November. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439220.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The silhouettes of Mount Fuji, the Tokyo Metropolitan Government building and Shinjuku skyscrapers are seen during sunset in Tokyo in November. ")](https://www.japantimes.co.jp/news/2024/12/11/japan/society/tokyo-city-survey/ "Tokyo remains third in global city index for ninth consecutive year")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[South Korean police blocked from raid on president's office](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439573.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.")](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
 
-[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+[Union blasts Nippon Steel’s $5,000 per worker bonus in U.S. Steel deal](https://www.japantimes.co.jp/business/2024/12/11/companies/nippon-steel-union-bonus/ "Union blasts Nippon Steel’s $5,000 per worker bonus in U.S. Steel deal")
 
-  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+  [![The United Steelworkers union claims that Nippon Steel's latest offer is tantamount to bribery.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439473.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The United Steelworkers union claims that Nippon Steel's latest offer is tantamount to bribery.")](https://www.japantimes.co.jp/business/2024/12/11/companies/nippon-steel-union-bonus/ "Union blasts Nippon Steel’s $5,000 per worker bonus in U.S. Steel deal")
 
 [London calling: Sumo's U.K. trip brings back memories of 1991](https://www.japantimes.co.jp/sports/2024/12/11/sumo/london-sumo-tournament/ "London calling: Sumo's U.K. trip brings back memories of 1991")
 
@@ -567,23 +567,21 @@ Latest News
 
 [LDP and opposition far from consensus over corporate donations](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/parties-far-apart-political-funds/ "LDP and opposition far from consensus over corporate donations")
 
-3 hours ago
+9 hours ago
 
 [Danger for yen emerges with speculation BOJ may stand pat longer](https://www.japantimes.co.jp/business/2024/12/12/markets/yen-risk-boj/ "Danger for yen emerges with speculation BOJ may stand pat longer")
 
-4 hours ago
+9 hours ago
 
 [Nippon Life ramps up global push with $550 million TCW deal](https://www.japantimes.co.jp/business/2024/12/12/companies/nippon-life-tcw-deal/ "Nippon Life ramps up global push with $550 million TCW deal")
 
-4 hours ago
+10 hours ago
 
 [Approval rate of Ishiba's Cabinet dips to 26.8%, poll shows](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/ishiba-approval-rating-drops/ "Approval rate of Ishiba's Cabinet dips to 26.8%, poll shows")
 
-4 hours ago
+10 hours ago
 
 [Lower House passes ¥13.9 trillion supplementary budget](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/supplementary-budget-lower-house/ "Lower House passes ¥13.9 trillion supplementary budget")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
