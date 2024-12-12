@@ -392,4 +392,4 @@ Follow us
 
 [![Capterra](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
 
-![Capterra](/wp-content/uploads/img/AnVkVKtyGYKAcI3E.svg?t=d924835a)](https://www.capterra.com/p/240030/Cookiebot/reviews/)
+![Capterra](/wp-content/uploads/img/AnVkVKtyGYKAcI3E.svg?t=275b8a0f)](https://www.capterra.com/p/240030/Cookiebot/reviews/)
