@@ -20,6 +20,15 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The Aylesbury Estate in Walworth, Southwark. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Aylesbury-Estate-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
+    
+    ### [Lib Dems claim Southwark Council failing to use empty homes powers](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
+    
+    [![CGI of James Allen's Girls' School's new planned pre-prep building on East Dulwich Grove. 
+    CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/12/CGI-of-James-Allens-Girls-Schools-360x180.jpg)](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
+    
+    ### [London’s oldest private girls’ school wins approval for new home](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
+    
     [![Felicitas Kanu at Westminster Abbey.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Felicitas-Kanu-at-Westminster-Abbey-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
     
     ### [Evelina London staff receive royal invite to carol service hosted by Princess of Wales](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
@@ -48,15 +57,6 @@
     [![London mayor Sadiq Khan. Credit Noah Vickers-Local Democracy Reporting](https://southwarknews.co.uk/wp-content/uploads/2024/05/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-Local-Democracy-Reporting-Service-360x180.jpg)](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
     
     ### [Over 200 stalkers to be fitted with GPS tags on their release from prison](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
-    
-    [![Our Lady of Sorrows Church (credit: Norbertines Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PECKHAM-Our-Lady-of-Sorrows-Credit-is-Norbertines-Peckham-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
-    
-    ### [Grade II-listed Peckham church roof saved from collapse with crucial £40k grant](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
-    
-    [![Charlie Marriage 
-    Photo from www.instagram.com/charliemarriage/](https://southwarknews.co.uk/wp-content/uploads/2024/12/Charlie-Marriage-1-1-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
-    
-    ### [Inquest hears that Camberwell man ‘wasted last morning begging for medication pharmacy didn’t have’](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -107,6 +107,15 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The Aylesbury Estate in Walworth, Southwark. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Aylesbury-Estate-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
+    
+    ### [Lib Dems claim Southwark Council failing to use empty homes powers](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
+    
+    [![CGI of James Allen's Girls' School's new planned pre-prep building on East Dulwich Grove. 
+    CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/12/CGI-of-James-Allens-Girls-Schools-360x180.jpg)](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
+    
+    ### [London’s oldest private girls’ school wins approval for new home](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
+    
     [![Felicitas Kanu at Westminster Abbey.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Felicitas-Kanu-at-Westminster-Abbey-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
     
     ### [Evelina London staff receive royal invite to carol service hosted by Princess of Wales](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
@@ -135,15 +144,6 @@ View All Result
     [![London mayor Sadiq Khan. Credit Noah Vickers-Local Democracy Reporting](https://southwarknews.co.uk/wp-content/uploads/2024/05/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-Local-Democracy-Reporting-Service-360x180.jpg)](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
     
     ### [Over 200 stalkers to be fitted with GPS tags on their release from prison](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
-    
-    [![Our Lady of Sorrows Church (credit: Norbertines Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PECKHAM-Our-Lady-of-Sorrows-Credit-is-Norbertines-Peckham-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
-    
-    ### [Grade II-listed Peckham church roof saved from collapse with crucial £40k grant](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
-    
-    [![Charlie Marriage 
-    Photo from www.instagram.com/charliemarriage/](https://southwarknews.co.uk/wp-content/uploads/2024/12/Charlie-Marriage-1-1-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
-    
-    ### [Inquest hears that Camberwell man ‘wasted last morning begging for medication pharmacy didn’t have’](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -221,17 +221,17 @@ Terms of Use
 
 [8th December 2024](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
 
-[![Ryan Leonard after Millwall's loss to Coventry City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/R-Leonard-001277-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
-
-### [Lenny set to miss Sheffield United clash – but reinforcements on the way after Millwall midfielder made season debut against Coventry City](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
-
-[9th December 2024](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
-
 [![Neil Harris applauds supporters after his side beat Swansea City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/N-Harris-25425727-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
 
 ### [Neil Harris addresses Lions fans as he explains decision to leave Millwall for second time](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
 
 [10th December 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
+
+[![Ryan Leonard after Millwall's loss to Coventry City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/R-Leonard-001277-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
+
+### [Lenny set to miss Sheffield United clash – but reinforcements on the way after Millwall midfielder made season debut against Coventry City](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
+
+[9th December 2024](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
 
 [![Bodycam footage from one of Kent Police's raids. Image: Kent Police](https://southwarknews.co.uk/wp-content/uploads/2024/12/cliwram-latest-1-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
 
@@ -246,6 +246,19 @@ Terms of Use
 [10th December 2024](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
 
 ### Featured Articles
+
+[![The Aylesbury Estate in Walworth, Southwark. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Aylesbury-Estate-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
+
+### [Lib Dems claim Southwark Council failing to use empty homes powers](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
+
+[12th December 2024](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
+
+[![CGI of James Allen's Girls' School's new planned pre-prep building on East Dulwich Grove. 
+CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/12/CGI-of-James-Allens-Girls-Schools-120x86.jpg)](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
+
+### [London’s oldest private girls’ school wins approval for new home](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
+
+[12th December 2024](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
 
 [![Felicitas Kanu at Westminster Abbey.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Felicitas-Kanu-at-Westminster-Abbey-120x86.jpg)](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
 
@@ -271,18 +284,6 @@ Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-
 ### [APPROVED: Plans to revamp London’s former City Hall in Bermondsey](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
 
 [11th December 2024](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
-
-[![London mayor Sadiq Khan. Credit Noah Vickers-Local Democracy Reporting](https://southwarknews.co.uk/wp-content/uploads/2024/05/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-Local-Democracy-Reporting-Service-120x86.jpg)](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
-
-### [Over 200 stalkers to be fitted with GPS tags on their release from prison](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
-
-[11th December 2024](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
-
-[![Our Lady of Sorrows Church (credit: Norbertines Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PECKHAM-Our-Lady-of-Sorrows-Credit-is-Norbertines-Peckham-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
-
-### [Grade II-listed Peckham church roof saved from collapse with crucial £40k grant](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
-
-[10th December 2024](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
 
 ### USEFUL PAGES
 
