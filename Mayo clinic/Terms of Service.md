@@ -587,13 +587,13 @@ Your gift can go 3X as far to shape the future of healthcare.
 Follow Mayo Clinic
 ------------------
 
-* [X](https://twitter.com/mayoclinic)
+* [X](https://x.com/mayoclinic)
     
-* [Youtube](https://www.youtube.com/user/mayoclinic)
+* [YouTube](https://www.youtube.com/user/mayoclinic)
     
 * [Facebook](https://www.facebook.com/MayoClinic)
     
-* [Linkedin](https://www.linkedin.com/company/mayo-clinic)
+* [LinkedIn](https://www.linkedin.com/company/mayo-clinic)
     
 * [Instagram](https://www.instagram.com/mayoclinic/)
     
