@@ -10,7 +10,7 @@ Menu
 
 Search
 
-  Search 
+  Find Fun Here 
 
 [![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Logo_Flatlg_900x.png?v=1614326358)](https://areyougame.com/)
 
@@ -25,7 +25,7 @@ Search
 
 Search
 
-  Search 
+  Find Fun Here 
 
 * [GAMES](https://areyougame.com/collections/games)
     * [SHOP BY CATEGORY](#)
@@ -214,7 +214,7 @@ Search
 
 Search
 
-  Search 
+  Find Fun Here 
 
 [](https://areyougame.com/account)
 
@@ -225,7 +225,7 @@ Search
 
 Search
 
-  Search 
+  Find Fun Here 
 
 Close search
 
