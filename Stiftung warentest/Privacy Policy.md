@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fernseher richtig einstellen: Mehr Spaß beim Fußball­gucken](https://www.test.de/Fernseher-richtig-einstellen-Mehr-Spass-beim-Fussballgucken-6119038-0/ "Fernseher richtig einstellen - Mehr Spaß beim Fußballgucken")
-* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
-* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
-* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
+* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
+* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
+* [Verpackungs­ärger: Buiteman's Sun Dried Tomato Biscuits](https://www.test.de/Verpackungsaerger-Buitemans-Sun-Dried-Tomato-Biscuits-5986964-0/ "Verpackungsärger - Buiteman's Sun Dried Tomato Biscuits")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fernseher richtig einstellen: Mehr Spaß beim Fußball­gucken](https://www.test.de/Fernseher-richtig-einstellen-Mehr-Spass-beim-Fussballgucken-6119038-0/ "Fernseher richtig einstellen - Mehr Spaß beim Fußballgucken")
-* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
-* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
-* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
+* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
+* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
+* [Verpackungs­ärger: Buiteman's Sun Dried Tomato Biscuits](https://www.test.de/Verpackungsaerger-Buitemans-Sun-Dried-Tomato-Biscuits-5986964-0/ "Verpackungsärger - Buiteman's Sun Dried Tomato Biscuits")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fernseher richtig einstellen: Mehr Spaß beim Fußball­gucken](https://www.test.de/Fernseher-richtig-einstellen-Mehr-Spass-beim-Fussballgucken-6119038-0/ "Fernseher richtig einstellen - Mehr Spaß beim Fußballgucken")
-* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
-* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
-* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
+* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
+* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
+* [Verpackungs­ärger: Buiteman's Sun Dried Tomato Biscuits](https://www.test.de/Verpackungsaerger-Buitemans-Sun-Dried-Tomato-Biscuits-5986964-0/ "Verpackungsärger - Buiteman's Sun Dried Tomato Biscuits")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fernseher richtig einstellen: Mehr Spaß beim Fußball­gucken](https://www.test.de/Fernseher-richtig-einstellen-Mehr-Spass-beim-Fussballgucken-6119038-0/ "Fernseher richtig einstellen - Mehr Spaß beim Fußballgucken")
-* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
-* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
-* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Kameras im Test: Richtig gute Bilder machen – mit System!](https://www.test.de/Digitalkameras-im-Test-1538975-0/ "Kameras im Test - Richtig gute Bilder machen – mit System!")
+* [Fonds­verschmel­zungen: Amundi ordnet ETF-Angebot neu](https://www.test.de/Fondsschliessungen-Hilfe-mein-Fonds-wird-aufgeloest-5979370-0/ "Fondsverschmelzungen - Amundi ordnet ETF-Angebot neu")
+* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
+* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
+* [Verpackungs­ärger: Buiteman's Sun Dried Tomato Biscuits](https://www.test.de/Verpackungsaerger-Buitemans-Sun-Dried-Tomato-Biscuits-5986964-0/ "Verpackungsärger - Buiteman's Sun Dried Tomato Biscuits")
+* [Samsungs Falt-Smartphones im Schnell­test: Flip und Fold − Flop oder top?](https://www.test.de/Samsungs-Falt-Smartphones-im-Schnelltest-Flip-und-Fold-Flop-oder-top-6148252-0/ "Samsungs Falt-Smartphones im Schnelltest - Flip und Fold − Flop oder top?")
 
 Stiftung Warentest
 
