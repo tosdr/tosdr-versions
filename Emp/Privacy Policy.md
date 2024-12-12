@@ -154,7 +154,7 @@ Katalog durchsuchen  löschen Packstation suchen
 
 [](https://www.emp.de/sale/)
 
-Weihnachten steht vor der Tür
+Geschenke pünktlich zum Fest!
 
 Sichere dir dein Schnäppchen!
 
