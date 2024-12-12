@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the stages of mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-what-are-the-stages-of-mesothelioma.jpg "What Are the Stages of Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-are-the-stages-of-mesothelioma/ "What Are the Stages of Mesothelioma?")
+[![Brookhaven clergy abuse lawyer](https://www.pintas.com/wp-content/uploads/2020/11/sexual-assault-lawyer-new-york-clergy-abuse-brookhaven.jpg "Brookhaven Clergy Abuse Lawyer")](https://www.pintas.com/near-me/new-york/brookhaven/clergy-sexual-abuse "Brookhaven Clergy Abuse Lawyer")
 
-[#### What Are the Stages of Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-are-the-stages-of-mesothelioma/)
+[#### Brookhaven Clergy Abuse Lawyer](https://www.pintas.com/near-me/new-york/brookhaven/clergy-sexual-abuse)
 
-[![Why is mesothelioma so deadly?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-why-is-mesothelioma-so-deadly.jpg "Why Is Mesothelioma So Deadly?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/why-is-mesothelioma-so-deadly "Why Is Mesothelioma So Deadly?")
+[![How do you get roundup off your skin?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-do-you-get-roundup-off-your-skin.jpg "How Do You Get Roundup Off Your Skin?")](https://www.pintas.com/lawsuit/roundup-weed-killer/how-do-you-get-roundup-off-your-skin/ "How Do You Get Roundup Off Your Skin?")
 
-[#### Why Is Mesothelioma So Deadly?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/why-is-mesothelioma-so-deadly)
+[#### How Do You Get Roundup Off Your Skin?](https://www.pintas.com/lawsuit/roundup-weed-killer/how-do-you-get-roundup-off-your-skin/)
 
-[![How often are elderly people in nursing homes undermonitored?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-often-are-elderly-people-in-nursing-homes-undermonitored-scaled.jpg "How Often Are Elderly People in Nursing Homes Undermonitored?")](https://www.pintas.com/faq/how-often-are-elderly-people-in-nursing-homes-undermonitored/ "How Often Are Elderly People in Nursing Homes Undermonitored?")
+[![What are the misconceptions about a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-misconceptions-about-a-nursing-home-scaled.jpg "What Are the Misconceptions About a Nursing Home?")](https://www.pintas.com/faq/what-are-the-misconceptions-about-a-nursing-home/ "What Are the Misconceptions About a Nursing Home?")
 
-[#### How Often Are Elderly People in Nursing Homes Undermonitored?](https://www.pintas.com/faq/how-often-are-elderly-people-in-nursing-homes-undermonitored/)
+[#### What Are the Misconceptions About a Nursing Home?](https://www.pintas.com/faq/what-are-the-misconceptions-about-a-nursing-home/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
