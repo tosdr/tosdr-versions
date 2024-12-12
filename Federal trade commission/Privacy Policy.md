@@ -235,11 +235,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Dec11
+    Dec18
     
-    ### [How To Bring National Consumer Protection Week to Your Library](https://www.ftc.gov/news-events/events/2024/12/how-bring-national-consumer-protection-week-your-library)
+    ### [Competition Snuffed Out: How Predatory Pricing Harms Competition, Consumers, and Innovation](https://www.ftc.gov/news-events/events/2024/12/competition-snuffed-out-how-predatory-pricing-harms-competition-consumers-innovation)
     
-    Wednesday, December 11, 2024 | 2:00PM - 3:00PM
+    Wednesday, December 18, 2024 | 9:30AM - 12:30PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
