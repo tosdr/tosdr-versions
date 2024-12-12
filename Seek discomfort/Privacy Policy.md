@@ -148,4 +148,18 @@ Your cart is empty
 
 [Start shopping](https://www.seekdiscomfort.com/collections/all)
 
+ 
+
+Close
+
+![](//www.seekdiscomfort.com/cdn/shop/files/image_30.png?v=1733944170&width=1280)
+
+##### AFTER REVIEWING THOUSANDS OF INCREDIBLE ENTRIES,  
+WE'VE SELECTED OUR 10 FINALISTS.
+
+##### EXPLORE THEIR AMAZING WORK  
+& PLACE YOUR VOTE FOR THE WINNER!
+
+[explore](https://www.seekdiscomfort.com/pages/seek-discomfort-photo-contest-2024-vote)
+
 [](#)
