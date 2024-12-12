@@ -1,5 +1,40 @@
 ROYAL CARIBBEAN'S PRIVACY POLICY
 
+**Table of Contents**
+
+SECTION I: Section for global application
+
+1. Who We Are
+  
+3. Acknowledgement / Privacy Notice Highlights
+  
+5. Personal Data
+  
+3.1    Who's responsible for your personal data.  
+3.2   What personal data do We collect or receive.  
+3.3   How We use your personal data and who We share it with.  
+3.4   Direct marketing.  
+3.5   Profiling and personalised marketing.  
+3.6   Cookies and other technologies.  
+3.7    Data retention.  
+3.8   Acting on someone else's behalf.  
+3.9   Multi-guest reservations and linking reservations.  
+3.10  Childern.  
+
+SECTION II: Jurisdiction-Specific Disclosures & Rights
+
+     4.  Disclosures and rights for residents of certain states within the United States
+
+  
+     5.  Disclosures and rights for residents of the European Union/United Kingdom
+
+  
+     6.  Disclosures and rights for residents of the People’s Republic of China  
+
+SECTION III: Updates to Privacy Notice and Contact Information
+
+  
+  
 **SECTION I: Section for global application**
 
 1. **Who We Are**  
