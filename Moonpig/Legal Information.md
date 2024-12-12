@@ -41,18 +41,19 @@ Menu
     * [Funny](https://www.moonpig.com/uk/personalised-cards/christmas/funny/)
     * [Letters From Santa](https://www.moonpig.com/uk/personalised-cards/christmas/letter-from-santa/all/)
     * [New Designs](https://www.moonpig.com/uk/personalised-cards/christmas/new)
+    * [Photo Upload Cards](https://www.moonpig.com/uk/personalised-cards/christmas/photo-upload/)
     * [Traditional](https://www.moonpig.com/uk/personalised-cards/christmas/traditional/)
     
     ### Gifts by Type
     
     * [Balloons](https://www.moonpig.com/uk/gifts/balloons/christmas/)
     * [Beauty & Fragrance](https://www.moonpig.com/uk/gifts/christmas/beauty-grooming/)
+    * [Bouquets From £24](https://www.moonpig.com/uk/flowers-and-plants/christmas/)
     * [Champagne & Prosecco](https://www.moonpig.com/uk/gifts/christmas/alcohol-gifts/champagne-prosecco/)
-    * [Chocolate & Sweets](https://www.moonpig.com/uk/gifts/christmas/chocolate-sweets/)
+    * [Chocolate & Sweets From £8](https://www.moonpig.com/uk/gifts/christmas/chocolate-sweets/)
     * [Drink Gifts](https://www.moonpig.com/uk/gifts/christmas/alcohol-gifts/)
     * [Experience Gifts](https://www.moonpig.com/uk/gifts/experience-gifts/all/)
-    * [Flowers & Plants](https://www.moonpig.com/uk/flowers-and-plants/christmas/)
-    * [Hampers](https://www.moonpig.com/uk/gifts/christmas/hampers/)
+    * [Hampers From £24](https://www.moonpig.com/uk/gifts/christmas/hampers/)
     * [Home](https://www.moonpig.com/uk/gifts/homeware/christmas/)
     * [Kids Toys](https://www.moonpig.com/uk/gifts/christmas/toys-games/)
     * [Personalised Gifts](https://www.moonpig.com/uk/gifts/personalised-gifts/christmas/)
@@ -60,7 +61,7 @@ Menu
     
     ### Gift Inspiration
     
-    * [Top Picks](https://www.moonpig.com/uk/gifts/christmas/star-picks/)
+    * [Top Picks From £10](https://www.moonpig.com/uk/gifts/christmas/star-picks/)
     * [Stocking Fillers £20 & Under](https://www.moonpig.com/uk/gifts/christmas/stocking-fillers/)
     * [Across The Miles](https://www.moonpig.com/uk/gifts/christmas/across-the-miles/)
     * [Premium](https://www.moonpig.com/uk/gifts/christmas/luxury/)
@@ -241,7 +242,6 @@ Menu
     * [All Plants](https://www.moonpig.com/uk/flowers-and-plants/all-plants/)
     * [Arena Flowers](https://www.moonpig.com/uk/flowers-and-plants/arena/)
     * [Cath Kidston](https://www.moonpig.com/uk/flowers-and-plants/cath-kidston/)
-    * [Patch Plants](https://www.moonpig.com/uk/flowers-and-plants/patch-plants/)
     * [Letterbox](https://www.moonpig.com/uk/flowers-and-plants/letterbox/)
     * [Garden Gifts](https://www.moonpig.com/uk/gifts/garden/all/)
     
