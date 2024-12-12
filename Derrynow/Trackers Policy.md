@@ -259,22 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Located: 13-year-old found 'safe and well' after going missing for 10 days](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Located: 13-year-old found 'safe and well' after going missing for 10 days")](https://www.derrynow.com/news/national-news/1677766/located-13-year-old-found-safe-and-well-after-going-missing-for-10-days.html)
-
-When last seen, Mary Chantelle was wearing a dark green tracksuit, and a school jacket.
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Located: 13-year-old found 'safe and well' after going missing for 10 days](https://www.derrynow.com/news/national-news/1677766/located-13-year-old-found-safe-and-well-after-going-missing-for-10-days.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1677216/derry-death-notices-wednesday-december-11-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, December 11, 2024](https://www.derrynow.com/news/deaths/1677216/derry-death-notices-wednesday-december-11-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Three people hospitalised following serious crash between bus and car in Donegal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three people hospitalised following serious crash between bus and car in Donegal")](https://www.derrynow.com/news/local-news/1678225/three-people-hospitalised-following-serious-crash-between-bus-and-car-in-donegal.html)
 
 The scene at Manorcunningham. Photo: NW Newspix
@@ -342,6 +326,22 @@ Derry Magistrates' Court
 
 [Charity decides to reopen Limavady shop days after closing](https://www.derrynow.com/news/county-derry-post/1678083/charity-decides-to-reopen-limavady-shop-days-after-closing.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police investigating possible arson attack in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating possible arson attack in Derry")](https://www.derrynow.com/news/local-news/1677954/police-investigating-possible-arson-attack-in-derry.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police investigating possible arson attack in Derry](https://www.derrynow.com/news/local-news/1677954/police-investigating-possible-arson-attack-in-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Anyone speeding in excess of 100mph will face an immediate disqualification - Derry judge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Anyone speeding in excess of 100mph will face an immediate disqualification - Derry judge")](https://www.derrynow.com/news/local-news/1678191/anyone-speeding-in-excess-of-100mph-will-face-an-immediate-disqualification-derry-judge.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Anyone speeding in excess of 100mph will face an immediate disqualification - Derry judge](https://www.derrynow.com/news/local-news/1678191/anyone-speeding-in-excess-of-100mph-will-face-an-immediate-disqualification-derry-judge.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,6 +519,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1678369/derry-death-notices-thursday-december-12-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, December 12, 2024](https://www.derrynow.com/news/deaths/1678369/derry-death-notices-thursday-december-12-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![County Derry woman who crashed into car was almost five times the legal alcohol limit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman who crashed into car was almost five times the legal alcohol limit")](https://www.derrynow.com/news/home/1678078/county-derry-woman-who-crashed-into-car-was-almost-five-times-the-legal-alcohol-limit.html)
 
 The case was heard in Coleraine Court today (Wednesday).
@@ -528,7 +535,7 @@ The case was heard in Coleraine Court today (Wednesday).
 [County Derry woman who crashed into car was almost five times the legal alcohol limit](https://www.derrynow.com/news/home/1678078/county-derry-woman-who-crashed-into-car-was-almost-five-times-the-legal-alcohol-limit.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man (50s) arrested following County Derry security alert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (50s) arrested following County Derry security alert")](https://www.derrynow.com/news/local-news/1678599/man-50s-arrested-following-county-derry-security-alert.html)
+[![Man (50s) arrested following County Derry security alert](https://www.derrynow.com/resizer/165/93/true/2024_12_11/1632648154255.jpg--police_deploy_stinger_during_county_derry_car_chase-1733944187718.jpg--.jpg?1733944187748 "Man (50s) arrested following County Derry security alert")](https://www.derrynow.com/news/local-news/1678599/man-50s-arrested-following-county-derry-security-alert.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -559,15 +566,6 @@ Derry Magistrates' Court
 
 [Anyone speeding in excess of 100mph will face an immediate disqualification - Derry judge](https://www.derrynow.com/news/local-news/1678191/anyone-speeding-in-excess-of-100mph-will-face-an-immediate-disqualification-derry-judge.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Apprentice Boys to burn Lundy in Derry city centre tonight](https://www.derrynow.com/resizer/165/93/true/2024_12_11/lundy-1733930939839.jpg--.jpg?1733930939913 "Apprentice Boys to burn Lundy in Derry city centre tonight")](https://www.derrynow.com/news/local-news/1678352/apprentice-boys-to-burn-lundy-in-derry-city-centre-tonight.html)
-
-The annual burning of the effigy was postponed due to high winds because of Storm Darragh on Saturday
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Apprentice Boys to burn Lundy in Derry city centre tonight](https://www.derrynow.com/news/local-news/1678352/apprentice-boys-to-burn-lundy-in-derry-city-centre-tonight.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
