@@ -162,10 +162,10 @@ The Terms of Service, and any rights and licenses granted hereunder, may not be 
 **XII. General**  
 You agree that: (i) the Panopto Service shall be deemed solely based in Delaware; and (ii) the Panopto Service shall be deemed a passive website that does not give rise to personal jurisdiction over Panopto, either specific or general, in jurisdictions other than Delaware. The Terms of Service shall be governed by the laws of the State of Delaware, without respect to its conflict of laws principles. Any claim or dispute between you and Panopto that arises in whole or in part from the Panopto Service shall be decided exclusively by a court of competent jurisdiction located in New Castle County, Delaware. These Terms of Service, together with Panopto’s Privacy Policies, located at https://www.panopto.com/privacy and any other legal notices published by Panopto on the Panopto Service, shall constitute the entire agreement between you and Panopto concerning the Panopto Service unless otherwise prohibited by the terms of Panopto’s agreement with your respective Licensee. If any provision of these Terms of Service is deemed invalid by a court of competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of these Terms of Service, which shall remain in full force and effect. No waiver of any term of this these Terms of Service shall be deemed a further or continuing waiver of such term or any other term, and Panopto failure to assert any right or provision under these Terms of Service shall not constitute a waiver of such right or provision. Panopto shall not be liable for any delay in the performance hereunder due to causes beyond its control, including but not limited to an act of God, war or natural disaster or other similar event. Panopto reserves the right to amend these Terms of Service at any time and without notice and it is your responsibility to review these Terms of Service for any changes. Your use of the Panopto Service following any amendment of these Terms of Service will signify your assent to and acceptance of its revised terms. YOU AND PANOPTO AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE PANOPTO SERVICE MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
 
-Ready to **see Panopto in action?**
------------------------------------
+Ready to **see Panopto or elai in action?**
+-------------------------------------------
 
-[Schedule a demo](https://www.panopto.com/schedule-demo/)
+[See a demo](https://www.panopto.com/schedule-demo/)
 
 * * *
 
