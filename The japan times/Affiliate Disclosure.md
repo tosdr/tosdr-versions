@@ -213,9 +213,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -257,23 +257,21 @@ Latest News
 
 [LDP and opposition far from consensus over corporate donations](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/parties-far-apart-political-funds/ "LDP and opposition far from consensus over corporate donations")
 
-3 hours ago
+9 hours ago
 
 [Danger for yen emerges with speculation BOJ may stand pat longer](https://www.japantimes.co.jp/business/2024/12/12/markets/yen-risk-boj/ "Danger for yen emerges with speculation BOJ may stand pat longer")
 
-4 hours ago
+9 hours ago
 
 [Nippon Life ramps up global push with $550 million TCW deal](https://www.japantimes.co.jp/business/2024/12/12/companies/nippon-life-tcw-deal/ "Nippon Life ramps up global push with $550 million TCW deal")
 
-4 hours ago
+10 hours ago
 
 [Approval rate of Ishiba's Cabinet dips to 26.8%, poll shows](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/ishiba-approval-rating-drops/ "Approval rate of Ishiba's Cabinet dips to 26.8%, poll shows")
 
-4 hours ago
+10 hours ago
 
 [Lower House passes ¥13.9 trillion supplementary budget](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/supplementary-budget-lower-house/ "Lower House passes ¥13.9 trillion supplementary budget")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
