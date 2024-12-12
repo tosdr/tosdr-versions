@@ -220,7 +220,3 @@ Newsletter signup
 * [Data Subject Access Request](https://illumin.com/legal/subject-access-request/)
 * [Privacy Policy](https://illumin.com/legal/privacy/)
 * [Opt Out/Do Not Sell or Share My Info](https://illumin.com/opt-out.html)
-
-![](https://www.facebook.com/tr?id=791746128738564&ev=ViewContent&noscript=1&cd%5Bpage_title%5D=Corporate+Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1652&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fcorporate%2F)
-
-![](https://www.facebook.com/tr?id=791746128738564&ev=PageView&noscript=1&cd%5Bpage_title%5D=Corporate+Privacy+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1652&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fcorporate%2F)
