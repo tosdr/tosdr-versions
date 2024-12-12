@@ -21,7 +21,9 @@
 [Learn more](https://nextcloud.com/blog/nextcloud-hub9/ "Nextcloud Hub 9 is here!
 ")
 
-[![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
+[![Nextcloud logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
+
+![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
 
 * [Products](#)
     * [![Nextcloud Hub](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -500,7 +502,7 @@ You have the option to withdraw your consent to the processing of personal data 
 
 You can also object to the processing of your personal data at any time if and insofar as this processing is carried out on the basis of Art. 6 para. 1 sentence 1 lit. f) GDPR \[see XXI. (1) Right to object below\].
 
-You can send both the cancellation and the objection, e.g. by email to [Behoerdenmeldung@dataguard.de](mailto:Behoerdenmeldung@dataguard.de). Note that this means conversations that are ongoing, instant trials you have started, newsletter subscriptions and other services that require us to have your data, will stop.
+You can send both the cancellation and the objection, e.g. by clicking [here](#no_scroll) . Note that this means conversations that are ongoing, instant trials you have started, newsletter subscriptions and other services that require us to have your data, will stop.
 
 **VII. Newsletter**
 -------------------
@@ -606,7 +608,7 @@ You have the option to withdraw your consent to the processing of personal data 
 
 You can also object to the processing of your personal data at any time if and insofar as this processing is carried out on the basis of Art. 6 para. 1 sentence 1 lit. f) GDPR \[see XXI. (1) Right to object below\].
 
-You can send both the cancellation and the objection, e.g. by email to [Behoerdenmeldung@dataguard.de](mailto:Behoerdenmeldung@dataguard.de).
+You can send both the cancellation and the objection, e.g. by clicking [here](#no_scroll) .
 
 The user can prevent or cancel the installation of a cookie and its storage, and thus his cookie consent, at any time by changing the settings of his browser. However, the functionality of this website is then not guaranteed.
 
@@ -658,7 +660,7 @@ You have the option to revoke your consent to the processing of personal data at
 
 You can also object to the processing of your personal data at any time if and insofar as this processing is carried out on the basis of Art. 6 para. 1 sentence 1 lit. f) GDPR \[see below XIX. (1) Right to object\].
 
-You can send both the cancellation and the objection, e.g. by email to [Behoerdenmeldung@dataguard.de](mailto:Behoerdenmeldung@dataguard.de). In such a case, however, the conversation cannot be continued.
+You can send both the cancellation and the objection, e.g. by clicking [here](#no_scroll) . In such a case, however, the conversation cannot be continued.
 
 For security reasons, we must also remove the apps you have uploaded when deleting your personal data.
 
@@ -703,7 +705,7 @@ You have the option to withdraw your consent to the processing of personal data 
 
 You can also object to the processing of your personal data at any time if and insofar as this processing is carried out on the basis of Art. 6 para. 1 sentence 1 lit. f) GDPR \[see XXI.(1) Right to object below\].
 
-You can send both the withdrawal and the objection, e.g. by email to [Behoerdenmeldung@dataguard.de](mailto:Behoerdenmeldung@dataguard.de). In such a case, however, the conversation cannot be continued.
+You can send both the withdrawal and the objection, e.g. by clicking [here](#no_scroll) . In such a case, however, the conversation cannot be continued.
 
 **XI. Third Party Tools**
 -------------------------
@@ -893,7 +895,7 @@ After an objection or cancellation declared by you \[see below under (6)\], your
 
 As a company, you can change your contact persons at any time after logging in.
 
-You can also contact us, e.g. by email to [Behoerdenmeldung@dataguard.de](mailto:Behoerdenmeldung@dataguard.de), if you are not (or no longer) available as a contact person. However, since you were appointed by your company, we request that you seek clarification within the company.
+You can also contact us, e.g. by clicking [here](#no_scroll) , if you are not (or no longer) available as a contact person. However, since you were appointed by your company, we request that you seek clarification within the company.
 
 If you do contact us, please understand that we will need to confirm with the company how to proceed, especially if you are the only contact person.
 
@@ -1025,7 +1027,7 @@ If we process your personal data, you are a data subject within the meaning of t
 
 **(b) You may also object to other processing that we derive from a legitimate interest within the meaning of Art. 6 para. 1 sentence 1 lit. f) GDPR by stating reasons related to your particular situation. This also applies in principle to profiling based on this provision However, we do not currently engage in such profiling. We will stop processing your personal data unless we can demonstrate compelling reasons for the processing that outweigh your interests, rights and freedoms, or if the processing serves to assert, exercise or defend legal claims.**
 
-**(c) Any objection can be made informally. For example, sending an email to [Behoerdenmeldung@dataguard.de](mailto:Behoerdenmeldung@dataguard.dem) is sufficient.**
+**(c) Any objection can be made informally. For example, sending an email [here](#no_scroll) is sufficient.**
 
 **(2) Right to information**
 
@@ -1100,7 +1102,7 @@ In exercising this right, you also have the right to request that the personal d
 
 **(8) Right to revoke the declaration of consent under data protection law**
 
-You have the right to revoke your declaration of consent under data protection law at any time. The withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal. If you wish to exercise your right to withdraw consent, simply send an email to [Behoerdenmeldung@dataguard.de](mailto:Behoerdenmeldung@dataguard.de).
+You have the right to revoke your declaration of consent under data protection law at any time. The withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal. If you wish to exercise your right to withdraw consent, simply send an email [here](#no_scroll) .
 
 **(9) Right to lodge a complaint with a supervisory authority**
 
@@ -1134,7 +1136,52 @@ This website uses SSL encryption for security reasons and to protect the transmi
 
 We reserve the right to amend this data protection declaration in order to continually adapt it to the applicable provisions, as well as our offerings on our website.
 
-Last updated: July 2024
+Use of the Data Subject Request Tool (DSR) for the management of data subject requests
+--------------------------------------------------------------------------------------
+
+### 1\. Scope of processing personal data
+
+We use functionalities of the data protection plug-in „DSR“ of DataCo GmbH, Dachauer Str. 65, 80335, Munich, Bavaria, Germany (hereinafter referred to as: DataCo).
+
+By using the button „Submit Data Subject Request“, all visitors of our website have the opportunity to make use of their data subject rights. To do so, you specify your relationship to our company, which data subject right you wish to exercise, provide further optional information and, if necessary, identify yourself with further characteristics. The data subject request will then be processed by us.
+
+The following personal data will be processed by DataCo:
+
+* First and last name
+* Relationship to the controller (employee, customer, interested party, etc.)
+* E-mail address
+* Further voluntarily communicated personal data
+
+For further information on the processing of data by DataCo, please click here: [https://www.dataguard.com/privacy-policy](https://www.dataguard.com/privacy-policy)
+
+In addition, to ensure technical functionality, logfiles may be forwarded to DataCo GmbH, which include the following:
+
+* Browser type and version used
+* The user’s operation system
+* The user’s internet service provider
+* The user’s IP address
+* Date and time of access
+* Websites from which the user’s system made the request
+
+### 2\. Purpose of the data processing
+
+The use of DSR serves to protect the data protection rights of our website visitors. We enable you to make use of your data subject rights and to contact us quickly and easily.
+
+### 3\. Legal basis for data processing
+
+The legal basis for the use of the DSR tool and the processing of corresponding data is your declaration of consent in accordance with art. 6 para. 1 s. 1 lit. a GDPR.
+
+The legal basis for the use of the logfiles is our legitimate interest in ensuring the technical functionality of the tool according to art. 6 para. 1 s. 1 lit. f GDPR.
+
+### 4\. Duration of storage
+
+Data will be stored for as long as necessary to fulfil the purposes described in this privacy policy or as required by law.
+
+### 5\. Objection and removal
+
+The user has the possibility to revoke the consent to the processing of their personal data or object the processing of logfiles at any time by contacting the data controller by mail or by using the DSR tool.
+
+Last updated: December 2024
 
 ![Logo Nextcloud white](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20211'%3E%3C/svg%3E)
 
