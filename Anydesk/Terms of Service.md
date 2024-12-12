@@ -490,7 +490,7 @@ Loading captcha...
 
 ![](/_static/img/logos/based-in-florida-white-ecce6b.svg "AnyDesk logo")
 
-![](/_static/icons/red/bold/arrow-down-1-13dd01.svg)
+![](/_static/icons/red/bold/arrow-down-1-347e70.svg)
 
  [![](/_static/img/badges/google-play-badge-1338ed.svg)](https://play.google.com/store/apps/details?id=com.anydesk.anydeskandroid)[![](/_static/img/badges/app-store-badge-2f2fe1.svg)](https://itunes.apple.com/us/app/anydesk/id1176131273)
 
