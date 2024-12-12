@@ -117,61 +117,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Johan Botha - Brand Xplosion
+Kobus Venter
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=129693758)  
-LEO DEVELOPMENT GROUP
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=59dfc0dd143a0648643c9e6f550d2307529d6cf82beb4b964f60edf32ec4bcb8&c=59319189)  
+SLOANE STAR MEAT MARKET
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=189891413)  
-Camp 4 Africa (Pty) Ltd
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=59dfc0dd143a0648643c9e6f550d2307529d6cf82beb4b964f60edf32ec4bcb8&c=12541207)  
+Cooper Power
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=79412821)  
-AMS Ambu Medical Supplies
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=59dfc0dd143a0648643c9e6f550d2307529d6cf82beb4b964f60edf32ec4bcb8&c=142320578)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=160305360)  
-Creative Characters
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=59dfc0dd143a0648643c9e6f550d2307529d6cf82beb4b964f60edf32ec4bcb8&c=62688078)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=57266599)  
-Chiron Medical Solutions
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=59dfc0dd143a0648643c9e6f550d2307529d6cf82beb4b964f60edf32ec4bcb8&c=129621379)  
+Repairs In Motion
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=207394297)  
-MOSELA GROUP Pty(ltd)
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=59dfc0dd143a0648643c9e6f550d2307529d6cf82beb4b964f60edf32ec4bcb8&c=58610202)  
+BD Maintenance
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=150623216)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=59dfc0dd143a0648643c9e6f550d2307529d6cf82beb4b964f60edf32ec4bcb8&c=116891154)  
+West Coast Horse Trails
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=86032523)  
-Druce Digital
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=59dfc0dd143a0648643c9e6f550d2307529d6cf82beb4b964f60edf32ec4bcb8&c=101620299)  
+Electro-Heat
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=196492173)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=59dfc0dd143a0648643c9e6f550d2307529d6cf82beb4b964f60edf32ec4bcb8&c=21821367)  
+Van Der Merwe Olieverspreiders
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=174943602)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=59dfc0dd143a0648643c9e6f550d2307529d6cf82beb4b964f60edf32ec4bcb8&c=125454529)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=155373650)  
-Roamfree Boerdery (PTY) LTD
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=59dfc0dd143a0648643c9e6f550d2307529d6cf82beb4b964f60edf32ec4bcb8&c=187929262)  
+Kara Medical (Pty) Ltd
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=53419478)  
-OrgChart Hosting Pty Ltd
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=59dfc0dd143a0648643c9e6f550d2307529d6cf82beb4b964f60edf32ec4bcb8&c=22164015)  
+Lion Software Develepment
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=51821817)  
-Mtunzini Group
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=59dfc0dd143a0648643c9e6f550d2307529d6cf82beb4b964f60edf32ec4bcb8&c=189357573)  
+van Schaik rentals
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=74493879)  
-MONSTER CONNECT (PTY) LTD
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=59dfc0dd143a0648643c9e6f550d2307529d6cf82beb4b964f60edf32ec4bcb8&c=92045975)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=9fb1ec5477b1484bc834c5b53644ed2a98b50b4d2ced6fe3b9d68e3449a89106&c=159534460)  
-Know Informatics
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=59dfc0dd143a0648643c9e6f550d2307529d6cf82beb4b964f60edf32ec4bcb8&c=3608032)  
+SafeTclip
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
