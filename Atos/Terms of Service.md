@@ -142,15 +142,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Eviden ranked as a Market Leader in Analytics, AI, Data Platforms and Automation (AADA) in HFS Research Quadfecta Assessment for 2024](https://atos.net/en/2024/press-release_2024_12_12/eviden-ranked-as-a-market-leader-in-analytics-ai-data-platforms-and-automation-aada-in-hfs-research-quadfecta-assessment-for-2024)
         * [NTT Group Chooses Evidian Identity Governance & Administration as the Cornerstone of their Identity Management Infrastructure in Japan](https://atos.net/en/2024/press-release_2024_12_10/ntt-group-chooses-evidian-identity-governance-administration-as-the-cornerstone-of-their-identity-management-infrastructure-in-japan)
         * [Atos ranked as a Leader in ISG’s report Mainframes – Services and Solutions in Europe](https://atos.net/en/2024/news_2024_12_05/atos-ranked-as-a-leader-in-isgs-report-mainframes-services-and-solutions-in-europe)
-        * [Agreement reached between Atos and Unisys regarding the lawsuit filed by Unisys against Atos and two Atos employees](https://atos.net/en/2024/press-release_2024_12_03/agreement-reached-between-atos-and-unisys-regarding-the-lawsuit-filed-by-unisys-against-atos-and-two-atos-employees)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Dec 10, 2024
+        Dec 12, 2024
         
-        ### NTT Group Chooses Evidian Identity Governance & Administration as the Cornerstone of their Identity Management Infrastructure in Japan
+        ### Eviden ranked as a Market Leader in Analytics, AI, Data Platforms and Automation (AADA) in HFS Research Quadfecta Assessment for 2024
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
