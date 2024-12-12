@@ -26,17 +26,17 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-googlead-1200x630.jpg)](https://americanwirenews.com/google-tells-bud-light-hold-my-beer-with-new-woke-christmas-ad/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-peteshawnryanshow-1200-x-628-1200x630.jpg)](https://americanwirenews.com/west-point-apologizes-for-giving-false-info-to-leftist-reporter-after-hegseth-blows-up-hit-piece/)
 
-[Google tells Bud Light ‘hold my beer’ with new WOKE Christmas ad](https://americanwirenews.com/google-tells-bud-light-hold-my-beer-with-new-woke-christmas-ad/)
+[West Point apologizes for giving false info to leftist reporter after Hegseth blows up hit piece](https://americanwirenews.com/west-point-apologizes-for-giving-false-info-to-leftist-reporter-after-hegseth-blows-up-hit-piece/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-wild-gaetz-1200x630.jpg)](https://americanwirenews.com/unscrupulous-dem-behind-gaetz-report-leak-mia-at-house-ethics-committee-meeting/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-smile-rally-1200x630.jpg)](https://americanwirenews.com/get-the-popcorn-time-magazine-expected-to-make-liberal-heads-explode/)
 
-[Unscrupulous Dem behind Gaetz report leak MIA at House ethics committee meeting](https://americanwirenews.com/unscrupulous-dem-behind-gaetz-report-leak-mia-at-house-ethics-committee-meeting/)
+[Get the popcorn, Time magazine expected to make liberal heads explode](https://americanwirenews.com/get-the-popcorn-time-magazine-expected-to-make-liberal-heads-explode/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-maddow-1200x630.jpg)](https://americanwirenews.com/rachel-maddow-links-unitedhealthcare-ceo-killer-to-trump-via-asinine-unabomber-connection/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-berniesanderscbs-1200-x-628-1200x630.jpg)](https://americanwirenews.com/leftist-geezer-senator-hints-hell-hang-around-until-hes-pushing-90-lucky-us/)
 
-[Rachel Maddow links UnitedHealthcare CEO killer to Trump via asinine Unabomber connection](https://americanwirenews.com/rachel-maddow-links-unitedhealthcare-ceo-killer-to-trump-via-asinine-unabomber-connection/)
+[Leftist geezer senator hints he’ll hang around until he’s pushing 90 – lucky us](https://americanwirenews.com/leftist-geezer-senator-hints-hell-hang-around-until-hes-pushing-90-lucky-us/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-martinez-1200x630.jpg)](https://americanwirenews.com/san-diego-county-sheriff-will-not-adhere-to-board-of-supervisors-super-sanctuary-policy/)
 
@@ -60,9 +60,9 @@ Search for:
 
 [Fetterman call for Trump ‘hush money’ pardon in first-ever Truth Social post](https://americanwirenews.com/fetterman-call-for-trump-hush-money-pardon-in-first-ever-truth-social-post/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-clark-kelly-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-penny-bragg-split-1200-x-628-1200x630.jpg)
 
-### Megyn Kelly blasts WNBA phenom Caitlin Clark for ‘self-flagellation’ over white supremacy myth](https://americanwirenews.com/megyn-kelly-blasts-wnba-phenom-caitlin-clark-for-self-flagellation-over-white-supremacy-myth/)
+### Daniel Penny could sue prosecutor Alvin Bragg for malicious prosecution](https://americanwirenews.com/daniel-penny-could-sue-prosecutor-alvin-bragg-for-malicious-prosecution/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
