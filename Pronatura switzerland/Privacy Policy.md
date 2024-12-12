@@ -122,17 +122,13 @@ Pronatura Service Navigation FR
 
 Pronatura Main
 
-* [Biodiversité](https://www.pronatura.ch/fr/biodiversite)
-    
-    * [Agir pour la nature](https://www.pronatura.ch/fr/agir-pour-la-nature)
-    * [Questions et réponses](https://www.pronatura.ch/fr/la-biodiversite-en-suisse-questions-et-reponses)
-    * [Découvrir les milieux naturels](https://www.pronatura.ch/fr/biotopes)
-    
+* [Nos projets](https://www.pronatura.ch/fr/nos-projets)
 * [Nos thèmes](https://www.pronatura.ch/fr/nos-themes)
     
+    * [Biodiversité](https://www.pronatura.ch/fr/biodiversite)
     * [Agriculture](https://www.pronatura.ch/fr/agriculture)
-    * [Climat](https://www.pronatura.ch/fr/le-temps-presse-face-la-crise-climatique-en-suisse)
     * [Énergie](https://www.pronatura.ch/fr/energie "S’attaquer enfin à la crise climatique – pour préserver la nature")
+    * [Découvrir les milieux naturels](https://www.pronatura.ch/fr/biotopes)
     * [Sauvegarde des réserves naturelles](https://www.pronatura.ch/fr/reserves-naturelles)
     * [Autres thèmes](https://www.pronatura.ch/fr/nos-themes)
     
