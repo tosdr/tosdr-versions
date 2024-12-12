@@ -59,14 +59,6 @@ In accordance with the Data Protection Act 1998 you have the right to access any
 
 Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [nsfwyoutube@gmail.com](mailto:nsfwyoutube@gmail.com)
 
-[![](https://www.nsfwyoutube.com/images/banners/jacket.jpg)
-
-THE HOTTEST JACKET RIGHT NOW, YOU ALL KNOW WHY! 😉](https://amzn.to/4g13Xzq)
-
-[![](https://www.nsfwyoutube.com/images/banners/jacket.jpg)
-
-THE HOTTEST JACKET RIGHT NOW, YOU ALL KNOW WHY! 😉](https://amzn.to/4g13Xzq)
-
 * * *
 
 1 click login bypass. No more typing! Drag "Bypass YT login" link to your bookmarks bar:
