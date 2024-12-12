@@ -418,9 +418,9 @@ Top
     
     [Keys to Learning Hindi: 1. Learn to Read First!](https://blog.karlrock.com/keys-to-learning-hindi-1-learn-to-read-first/ "Keys to Learning Hindi: 1. Learn to Read First!")
     
-* [![Best Chai Masala Recipe EVER! (Video)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2020/07/Chai-Masala.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/best-chai-masala-recipe-ever/ "Best Chai Masala Recipe EVER! (Video)")
+* [![My Favourite Restaurants in Jaffna (& Tourist Map)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/12/20211211_125744-1-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/my-favourite-restaurants-in-jaffna/ "My Favourite Restaurants in Jaffna (& Tourist Map)")
     
-    [Best Chai Masala Recipe EVER! (Video)](https://blog.karlrock.com/best-chai-masala-recipe-ever/ "Best Chai Masala Recipe EVER! (Video)")
+    [My Favourite Restaurants in Jaffna (& Tourist Map)](https://blog.karlrock.com/my-favourite-restaurants-in-jaffna/ "My Favourite Restaurants in Jaffna (& Tourist Map)")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
