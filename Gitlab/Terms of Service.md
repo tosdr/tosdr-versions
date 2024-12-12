@@ -2157,7 +2157,6 @@
             * [ ]  [Career Development and Mobility](https://handbook.gitlab.com/handbook/people-group/learning-and-development/career-development/)
                 * [ ]  [Career Development for Individual Contributors at GitLab](https://handbook.gitlab.com/handbook/people-group/learning-and-development/career-development/ic-development/)
                 * [ ]  [Individual Growth Plan (IGP) Guide](https://handbook.gitlab.com/handbook/people-group/learning-and-development/career-development/igp-guide/)
-            * [ ]  [Compliance Courses](https://handbook.gitlab.com/handbook/people-group/learning-and-development/compliance-courses/)
             * [ ]  [Elevate Programs](https://handbook.gitlab.com/handbook/people-group/learning-and-development/elevate-programs/)
                 * [ ]  [Elevate](https://handbook.gitlab.com/handbook/people-group/learning-and-development/elevate-programs/elevate/)
                 * [ ]  [Elevate Applied](https://handbook.gitlab.com/handbook/people-group/learning-and-development/elevate-programs/elevate-applied/)
