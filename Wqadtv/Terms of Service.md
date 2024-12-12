@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/fec91053-dc66-4685-a57c-2d7cfa415be1/20241212T040626/fec91053-dc66-4685-a57c-2d7cfa415be1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fec91053-dc66-4685-a57c-2d7cfa415be1/20241212T040626/fec91053-dc66-4685-a57c-2d7cfa415be1_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-city-council-postpones-vote-updated-hotel-incentive/526-a8130354-fe9e-446c-9b60-aefb08e374b4)
+        
+        #### [Davenport City Council postpones vote on updated hotel incentive proposal](https://www.wqad.com/article/news/local/davenport-city-council-postpones-vote-updated-hotel-incentive/526-a8130354-fe9e-446c-9b60-aefb08e374b4)
+        
     *  [![](https://media.tegna-media.com/assets/WCNC/images/ee1d658c-0db2-4115-8856-92c61647684f/ee1d658c-0db2-4115-8856-92c61647684f_16x9.jpg) ![](https://media.tegna-media.com/assets/WCNC/images/ee1d658c-0db2-4115-8856-92c61647684f/ee1d658c-0db2-4115-8856-92c61647684f_360x203.jpg)](https://www.wqad.com/article/news/local/winter-quad-cites-community-resources-staying-warm/526-81290a64-72cb-4bbe-9913-1af0a0645366)
         
         #### [Quad Cities area community resources for staying warm this winter](https://www.wqad.com/article/news/local/winter-quad-cites-community-resources-staying-warm/526-81290a64-72cb-4bbe-9913-1af0a0645366)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/948728d5-eb92-4cbc-8873-8e1285d3c851/20241211T224458/948728d5-eb92-4cbc-8873-8e1285d3c851_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/948728d5-eb92-4cbc-8873-8e1285d3c851/20241211T224458/948728d5-eb92-4cbc-8873-8e1285d3c851_360x203.jpg)](https://www.wqad.com/article/news/local/national-pickleball-tournament-quad-cities/526-61ff0935-d3cf-418b-a51b-9d346a0689c1)
-        
-        #### [National pickleball tournament coming to the Quad Cities](https://www.wqad.com/article/news/local/national-pickleball-tournament-quad-cities/526-61ff0935-d3cf-418b-a51b-9d346a0689c1)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/8ab49ff1-9b25-49ad-a028-7bd4a91d4de3/20241212T042919/8ab49ff1-9b25-49ad-a028-7bd4a91d4de3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8ab49ff1-9b25-49ad-a028-7bd4a91d4de3/20241212T042919/8ab49ff1-9b25-49ad-a028-7bd4a91d4de3_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Weather Impact Alert: Coldest air of the season so far arrives overnight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/f57d6ded-2feb-455d-9024-8e7df023baf6/20240926T155346/f57d6ded-2feb-455d-9024-8e7df023baf6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f57d6ded-2feb-455d-9024-8e7df023baf6/20240926T155346/f57d6ded-2feb-455d-9024-8e7df023baf6_360x203.jpg)](https://www.wqad.com/article/weather/national-weather-service-is-making-changes-to-cold-weather-headlines-this-season/526-6ef8f399-e510-4c7c-8c4c-4c14976a57a5)
         
         #### [National Weather Service is making changes to cold weather headlines this season](https://www.wqad.com/article/weather/national-weather-service-is-making-changes-to-cold-weather-headlines-this-season/526-6ef8f399-e510-4c7c-8c4c-4c14976a57a5)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/57f2f5b1-af2a-4306-b908-2157c1bbcc8e/20241211T223912/57f2f5b1-af2a-4306-b908-2157c1bbcc8e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/57f2f5b1-af2a-4306-b908-2157c1bbcc8e/20241211T223912/57f2f5b1-af2a-4306-b908-2157c1bbcc8e_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [Weather Impact Alert: Coldest air of the season so far arrives overnight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -97,7 +97,7 @@ Navigation
 
 Davenport, IA »
 
-9°
+5°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
