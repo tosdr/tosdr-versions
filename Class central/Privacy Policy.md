@@ -416,7 +416,7 @@ Most common
     
 2. psychology
     
-3. html
+3. finance
     
 
 Popular subjects
@@ -424,24 +424,24 @@ Popular subjects
 1. [Management & Leadership
     
     2,761 courses](https://www.classcentral.com/subject/management-and-leadership)
-2. [Cybersecurity
+2. [Information Technology
     
-    17,021 courses](https://www.classcentral.com/subject/cybersecurity)
-3. [Python
+    5,148 courses](https://www.classcentral.com/subject/information-technology)
+3. [Digital Marketing
     
-    10,069 courses](https://www.classcentral.com/subject/python)
+    6,342 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 
-1. [The Science of Success: What Researchers Know that You Should Know
+1. [Exploring English: Language and Culture
     
-    University of Michigan](https://www.classcentral.com/course/success-8087)
-2. [Exploring Play: The Importance of Play in Everyday Life
+    British Council](https://www.classcentral.com/course/explore-english-language-culture-2135)
+2. [EU policy and implementation: making Europe work!
     
-    The University of Sheffield](https://www.classcentral.com/course/play-2134)
-3. [Let's Get Started: Building Self-Awareness
+    Leiden University](https://www.classcentral.com/course/eu-making-europe-work-7408)
+3. [Learning How to Learn: Powerful mental tools to help you master tough subjects
     
-    University System of Maryland](https://www.classcentral.com/course/leadership-the-university-of-maryland-college-par-19743)
+    Deep Teaching Solutions](https://www.classcentral.com/course/learning-how-to-learn-2161)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
