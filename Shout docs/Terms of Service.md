@@ -149,6 +149,19 @@ We maintain these rights to ensure compliance with our legal obligations and agr
 
 By using our Services, you acknowledge and agree that Problem Free Limited has the right to terminate your account at any time, without notice or cause, and that such termination may result in the deletion of your content and data. You agree that Problem Free Limited will not be liable to you or any third party for any termination of your access to the Services or deletion of your content or data.
 
+Community Features
+------------------
+
+Our Services include community features such as feature voting, suggestions, and public forums. By participating in these features, you agree that:
+
+* Your username and profile information will be publicly displayed as a required part of participating in these features
+* Any content you post in community areas (including feature suggestions, votes, comments, and forum posts) may be viewed by other users of the Service
+* You will receive email notifications about updates to community content you've subscribed to or participated in, which you can manage through your account settings
+* Problem Free Limited reserves the right to moderate, edit, or remove any community content at our sole discretion
+* You remain responsible for all content you post in community areas, and such content must comply with our Use Policy
+
+You acknowledge that content posted in community features is public and may be visible to all users of the Service. You should not share any confidential or sensitive information in these areas.
+
 Special Category Data
 ---------------------
 
