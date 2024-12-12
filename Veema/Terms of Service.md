@@ -21,9 +21,8 @@
     * [Accredited Courses](https://veema.co.uk/cpd-programmes/)
     * [Bespoke Programmes](mailto:cpd@veema.co.uk?subject=CPD%20Enquiry)
     * [7 – 9 Week Courses](https://veema.co.uk/7-9-week-courses/)
-    * [E-Learning Video Courses](https://lms.veema.co.uk/)
 * [CPD MEMBERSHIP](https://veema.co.uk/cpd-membership/)
-    * [Membership Hub](https://veema.co.uk/dashboard/)
+    * [Leadership Hub](https://veema.co.uk/dashboard/)
     * [My Account](https://veema.co.uk/cpd-membership/my-account/)
 * [KEYNOTE SPEAKERS](https://veema.co.uk/keynote-speakers/)
 * [NEWS & MEDIA](https://veema.co.uk/news-media/)
@@ -46,9 +45,8 @@
     * [Accredited Courses](https://veema.co.uk/cpd-programmes/)
     * [Bespoke Programmes](mailto:cpd@veema.co.uk?subject=CPD%20Enquiry)
     * [7 – 9 Week Courses](https://veema.co.uk/7-9-week-courses/)
-    * [E-Learning Video Courses](https://lms.veema.co.uk/)
 * [CPD MEMBERSHIP](https://veema.co.uk/cpd-membership/)
-    * [Membership Hub](https://veema.co.uk/dashboard/)
+    * [Leadership Hub](https://veema.co.uk/dashboard/)
     * [My Account](https://veema.co.uk/cpd-membership/my-account/)
 * [KEYNOTE SPEAKERS](https://veema.co.uk/keynote-speakers/)
 * [NEWS & MEDIA](https://veema.co.uk/news-media/)
@@ -225,7 +223,7 @@ Thank you for visiting our site!
 * [](https://www.linkedin.com/company/veema "LinkedIn")
 * [](https://x.com/VeemaEdu "X")
 
-#### Address Office
+#### Address
 
 * +44 (0) 20 3637 4232
 
@@ -240,7 +238,7 @@ N8 7RF
 
 © 2024 Smooth Digital Ltd. All Rights Reserved.
 
-* [Join the Veema Team](https://veema.co.uk/join-the-veema-team/)
+* [Join Veema](https://veema.co.uk/join-veema/)
 * [Terms of Use](https://veema.co.uk/terms-of-use/)
 * [Privacy Policy](https://veema.co.uk/privacy-policy/)
 * [Cookie Policy](https://veema.co.uk/our-cookie-policy/)
