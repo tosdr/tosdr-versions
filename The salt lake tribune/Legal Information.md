@@ -100,9 +100,9 @@ Customer Care Contacts
 
 [SUPPORT](https://www.sltrib.com/support)[WEEKLY PRINT EDITION](https://sltiservices.navigacloud.com/cmo_slt-c-cmdb-01/subscriber/web/startoffers.html)[EMAIL NEWSLETTERS](https://www.sltrib.com/newsletters)[PODCASTS](https://www.sltrib.com/podcasts)[NEWS TIPS](https://www.sltrib.com/tips)[DONATE](https://www.sltrib.com/donate)[COOKIE PREFERENCES](#)
 
-![twitter-logo](/pf/resources/img/t-1.png?d=508)
+![twitter-logo](/pf/resources/img/t-1.png?d=509)
 
-[![google-play-badge](/pf/resources/img/googleplay.png?d=508)](https://play.google.com/store/apps/details?id=com.saltlaketribune.android.prod&hl=en_US&gl=US)[![apple-store-badge](/pf/resources/img/applestore.png?d=508)](https://apps.apple.com/ai/app/salt-lake-tribune-eedition/id995297003)
+[![google-play-badge](/pf/resources/img/googleplay.png?d=509)](https://play.google.com/store/apps/details?id=com.saltlaketribune.android.prod&hl=en_US&gl=US)[![apple-store-badge](/pf/resources/img/applestore.png?d=509)](https://apps.apple.com/ai/app/salt-lake-tribune-eedition/id995297003)
 
   
 
@@ -110,8 +110,8 @@ Report a missed paper by emailing [subscribe@sltrib.com](mailto:subscribe@sltri
 
 For e-edition questions or comments, contact customer support [801-237-2900](tel:801-237-2900) or email [subscribe@sltrib.com](mailto:subscribe@sltrib.com)
 
-[![The Salt Lake Tribune Logo](/pf/resources/svg/sltrib-logo.svg?d=508)](https://www.sltrib.com/)
+[![The Salt Lake Tribune Logo](/pf/resources/svg/sltrib-logo.svg?d=509)](https://www.sltrib.com/)
 
 sltrib.com © 1996-2024 The Salt Lake Tribune. All rights reserved.
 
-[![The Salt Lake Tribune Logo](/pf/resources/svg/Trib_masthead_top_000000.svg?d=508)](https://www.sltrib.com/)
+[![The Salt Lake Tribune Logo](/pf/resources/svg/Trib_masthead_top_000000.svg?d=509)](https://www.sltrib.com/)
