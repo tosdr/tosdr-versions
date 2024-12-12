@@ -19,7 +19,7 @@
 * [Reddit](https://www.reddit.com/r/PinballFX3/)
 * [Twitch](https://www.twitch.tv/zenstudios)
 
-[![Willliams™ Pinball Volume 8](https://zensite.wpenginepowered.com/wp-content/uploads/2024/09/Williams_Pinball_Volume_8_ZenWebBackground_Dec_12-1-scaled.jpg)](https://zenstudios.com/games/willliams-pinball-volume-8/)
+[![Willliams™ Pinball Volume 8](https://zensite.wpenginepowered.com/wp-content/uploads/2024/09/Williams_Pinball_Volume_8_ZenWebBackground_Now_A-scaled.jpg)](https://zenstudios.com/games/willliams-pinball-volume-8/)
 
 * [YouTube](http://www.youtube.com/user/zenstudiosgames)
 * [Instagram](http://instagram.com/zen_studios)
