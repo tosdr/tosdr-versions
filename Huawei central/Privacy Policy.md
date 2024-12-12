@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch Fit 3 Christmas Edition](https://www.huaweicentral.com/wp-content/uploads/2024/12/Watch-Fit-3-1-400x240.jpg)
+        
+        Huawei Watch Fit 3 Christmas Edition launched with dual-tone straps](https://www.huaweicentral.com/huawei-watch-fit-3-christmas-edition-launched-with-dual-tone-straps/)
     * [![Huawei Watch GT 5 Christmas Edition](https://www.huaweicentral.com/wp-content/uploads/2024/12/Christmas-Edition-400x240.jpg)
         
         Huawei introduces Watch GT 5 Christmas Edition in red and green colors](https://www.huaweicentral.com/huawei-introduces-watch-gt-5-christmas-edition-in-red-and-green-colors/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei AI Messages smartwatches](https://www.huaweicentral.com/wp-content/uploads/2024/12/AI-Messages-400x240.jpg)
         
         Huawei announces AI Messages support for these 15 smartwatches](https://www.huaweicentral.com/huawei-announces-ai-messages-support-for-these-15-smartwatches/)
-    * [![Huawei Watch D2 sale China](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-D2-sale-400x240.jpg)
-        
-        Huawei Watch D2 wearable enters first sale in China](https://www.huaweicentral.com/huawei-watch-d2-wearable-enters-first-sale-in-china/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
