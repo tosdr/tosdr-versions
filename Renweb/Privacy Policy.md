@@ -385,12 +385,12 @@ How to Contact Us
 
 If you have any questions about this Web Privacy Policy please contact us by email at [\[email protected\]](https://factsmgt.com/cdn-cgi/l/email-protection) or via our [Contact Us portal](https://factsmgt.com/contact-us/).
 
-* Products
+* [Products](https://factsmgt.com/)
 * [Education Services](https://factsmgt.com/products/education-services/)
 * [Education Technology](https://factsmgt.com/products/education-technology/)
 * [Financial Management](https://factsmgt.com/products/financial-management/)
 
-* Markets
+* [Markets](https://factsmgt.com/)
 * [K-12 School Software and Services](https://factsmgt.com/industries/k-12-schools/)
 * [Business Learning Solutions](https://factsmgt.com/industries/corporate-learning-solutions/)
 * [Faith Community Software](https://factsmgt.com/industries/faith-community-software/)
