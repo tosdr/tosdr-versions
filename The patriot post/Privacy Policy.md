@@ -1,6 +1,6 @@
-**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
+**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -120,20 +120,23 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34646)
+     [](https://patriotpost.us/cartoons/34658)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Mark Alexander The Hegseth Questions](https://patriotpost.us/alexander/112745-the-hegseth-questions-2024-12-11)
-*      [Gary Bauer Left-Wing Hate](https://patriotpost.us/opinion/112724-left-wing-hate-2024-12-11)
-*      [Allen West The False Gods of Leftism](https://patriotpost.us/opinion/112726-the-false-gods-of-leftism-2024-12-11)
-*      [Tim Graham Pretending There’s No Cost in Biden’s Mass Importation](https://patriotpost.us/opinion/112723-pretending-theres-no-cost-in-bidens-mass-importation-2024-12-11)
-*      [Hans von Spakovsky How Trump’s Justice Department Will Achieve More Honest Elections](https://patriotpost.us/opinion/112748-how-trumps-justice-department-will-achieve-more-honest-elections-2024-12-11)
-*      [John Stossel Your Tax Dollars Not at Work](https://patriotpost.us/opinion/112722-your-tax-dollars-not-at-work-2024-12-11)
-*      [Star Parker What’s Going on With Black and Hispanic Women?](https://patriotpost.us/opinion/112721-whats-going-on-with-black-and-hispanic-women-2024-12-11)
-*      [Byron York Can the Nation Wait Until Jan. 20?](https://patriotpost.us/opinion/112720-can-the-nation-wait-until-jan-20-2024-12-11)
+*      [Allen West The Constitutional Question in the Case of Daniel Penny](https://patriotpost.us/opinion/112766-the-constitutional-question-in-the-case-of-daniel-penny-2024-12-12)
+*      [Cal Thomas No Peace on Earth, or Goodwill](https://patriotpost.us/opinion/112765-no-peace-on-earth-or-goodwill-2024-12-12)
+*      [Larry Elder Daniel Penny’s ‘Crime’? Wrong Race, Wrong Place](https://patriotpost.us/opinion/112764-daniel-pennys-crime-wrong-race-wrong-place-2024-12-12)
+*      [Ann Coulter Kill Obamacare, Not CEOs](https://patriotpost.us/opinion/112763-kill-obamacare-not-ceos-2024-12-12)
+*      [Gary Bauer Our Rogue Regime](https://patriotpost.us/opinion/112762-our-rogue-regime-2024-12-12)
+*      [Ben Shapiro The Devils Are Here](https://patriotpost.us/opinion/112761-the-devils-are-here-2024-12-12)
+*      [Laura Hollis Universal Health Care Delusions](https://patriotpost.us/opinion/112759-universal-health-care-delusions-2024-12-12)
+*      [Armstrong Williams The Price of Profits Paid in Blood](https://patriotpost.us/opinion/112760-the-price-of-profits-paid-in-blood-2024-12-12)
+*      [Hans von Spakovsky The Uncivil Left Wrecks Domestic Civility at Home](https://patriotpost.us/opinion/112749-the-uncivil-left-wrecks-domestic-civility-at-home-2024-12-12)
+*      [The Babylon Bee McDonald’s Surpasses FBI in Number of Shooters Apprehended in 2024](https://patriotpost.us/opinion/112772-mcdonalds-surpasses-fbi-in-number-of-shooters-apprehended-in-2024-2024-12-12)
+*      [The Washington Stand Can Donald Trump Really End the War in Ukraine?](https://patriotpost.us/opinion/112747-can-donald-trump-really-end-the-war-in-ukraine-2024-12-12)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,13 +150,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“Public opinion sets bounds to every government, and is the real sovereign in every free one.” —James Madison (1791)
+“The ordaining of laws in favor of one part of the nation, to the prejudice and oppression of another, is certainly the most erroneous and mistaken policy. An equal dispensation of protection, rights, privileges, and advantages, is what every part is entitled to, and ought to enjoy.” —Benjamin Franklin (1774)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
