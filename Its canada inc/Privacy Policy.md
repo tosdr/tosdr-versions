@@ -229,7 +229,7 @@ We may change our Privacy Policy from time to time without notice.  Please chec
 
 If you have any questions or concerns regarding our Privacy Policy, please contact us as follows:
 
-Privacy Officer, privacy@its-can.com
+Privacy Officer, [\[email protected\]](https://its-can.com/cdn-cgi/l/email-protection)
 
 **Policy Last Updated: March 21, 2021**
 
@@ -287,7 +287,7 @@ __________ 5/5
 
 [T: 1-866-970-3396](tel:1-866-970-3396)
 
-[E: info@its-can.com](mailto:office@tecnologia.com)
+[\[email protected\]](https://its-can.com/cdn-cgi/l/email-protection)
 
 [](https://ca.linkedin.com/in/its-canada-inc-8786ab2aa)
 
