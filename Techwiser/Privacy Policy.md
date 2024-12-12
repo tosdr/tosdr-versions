@@ -1,4 +1,4 @@
-[![TechWiser](https://techwiser.com/wp-content/uploads/2021/05/TechWiser-logo-new.png)](https://techwiser.com/)
+[![TechWiser](https://techwiser.com/wp-content/uploads/2024/12/TechWiser-logo-new.png)](https://techwiser.com/)
 
 * [News](https://techwiser.com/category/news/)
 * [Reviews](https://techwiser.com/category/reviews/)
