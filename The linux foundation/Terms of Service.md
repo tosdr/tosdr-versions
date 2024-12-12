@@ -1,4 +1,4 @@
-⚡ LAST CHANCE! Transform Your Skills & Save up to 60% [SAVE NOW](https://hubs.la/Q02ZyQXw0)
+KubeCon + CloudNativeCon Europe · Apr 1-4 · London [REGISTER TODAY](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/)
 
 English Japan China Europe
 
