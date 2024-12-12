@@ -15,7 +15,7 @@
 search  
 
 * [3-Year Thomann Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
-* [Satisfaction Guarantee](https://www.thomannmusic.com/helpdesk_satisfaction.html)
+* [30-Days Money-Back](https://www.thomannmusic.com/helpdesk_moneyback.html)
 
 en · $
 
