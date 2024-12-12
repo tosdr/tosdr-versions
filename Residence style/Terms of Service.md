@@ -155,6 +155,30 @@ Terms of Service was last modified: June 4th, 2018 by Admin
 
 #### **most recent**
 
+[![2](https://www.residencestyle.com/wp-content/uploads/2024/12/2-150x150.jpg)](https://www.residencestyle.com/how-to-incorporate-mid-century-modern-kitchen-cabinets-in-small-spaces/)
+
+###### Kitchen Designs
+
+### [How to Incorporate Mid-Century Modern Kitchen Cabinets in Small Spaces](https://www.residencestyle.com/how-to-incorporate-mid-century-modern-kitchen-cabinets-in-small-spaces/)
+
+[![1](https://www.residencestyle.com/wp-content/uploads/2024/12/1-150x150.png)](https://www.residencestyle.com/rodent-control-how-to-deter-rats/)
+
+###### Home and Garden
+
+### [Rodent Control: How to Deter Rats](https://www.residencestyle.com/rodent-control-how-to-deter-rats/)
+
+[![1](https://www.residencestyle.com/wp-content/uploads/2024/12/1-3-150x150.jpg)](https://www.residencestyle.com/how-to-finance-your-dream-home-build-with-new-construction-loans/)
+
+###### Home and Garden
+
+### [How To Finance Your Dream Home Build with New Construction Loans](https://www.residencestyle.com/how-to-finance-your-dream-home-build-with-new-construction-loans/)
+
+[![1](https://www.residencestyle.com/wp-content/uploads/2024/12/1-2-150x150.jpg)](https://www.residencestyle.com/which-professionals-can-help-keep-your-home-comfortable-all-year-long/)
+
+###### Home and Garden
+
+### [Which Professionals Can Help Keep Your Home Comfortable All Year Long?](https://www.residencestyle.com/which-professionals-can-help-keep-your-home-comfortable-all-year-long/)
+
 [![1](https://www.residencestyle.com/wp-content/uploads/2024/12/1-1-150x150.jpg)](https://www.residencestyle.com/roof-maintenance-to-keep-your-homes-exterior-in-good-condition/)
 
 ###### Exterior Designs
@@ -167,35 +191,11 @@ Terms of Service was last modified: June 4th, 2018 by Admin
 
 ### [Common Roofing Problems and How to Avoid Them](https://www.residencestyle.com/common-roofing-problems-and-how-to-avoid-them/)
 
-[![1](https://www.residencestyle.com/wp-content/uploads/2024/12/1-150x150.jpg)](https://www.residencestyle.com/how-e-books-are-changing-how-we-think-about-copyright/)
-
-###### Technology
-
-### [How E-Books Are Changing How We Think About Copyright](https://www.residencestyle.com/how-e-books-are-changing-how-we-think-about-copyright/)
-
-[![Deck Improvement Project](https://www.residencestyle.com/wp-content/uploads/2024/12/Deck-Improvement-Project-150x150.jpg)](https://www.residencestyle.com/environmental-best-practices-when-completing-a-deck-improvement-project/)
-
-###### Exterior Designs
-
-### [Environmental Best Practices When Completing a Deck Improvement Project](https://www.residencestyle.com/environmental-best-practices-when-completing-a-deck-improvement-project/)
-
-[![Tips for a Successful Kitchen Remodel](https://www.residencestyle.com/wp-content/uploads/2024/12/Tips-for-a-Successful-Kitchen-Remodel-150x150.jpg)](https://www.residencestyle.com/transform-your-space-essential-tips-for-a-successful-kitchen-remodel/)
-
-###### Kitchen Designs
-
-### [Transform Your Space: Essential Tips for a Successful Kitchen Remodel](https://www.residencestyle.com/transform-your-space-essential-tips-for-a-successful-kitchen-remodel/)
-
-[![Investing in Maintenance](https://www.residencestyle.com/wp-content/uploads/2024/12/Investing-in-Maintenance-150x150.jpg)](https://www.residencestyle.com/investing-in-maintenance-now-to-save-future-headaches/)
-
-###### Home Improvement
-
-### [Investing in Maintenance Now to Save Future Headaches](https://www.residencestyle.com/investing-in-maintenance-now-to-save-future-headaches/)
-
+* [How to Incorporate Mid-Century Modern Kitchen Cabinets in Small Spaces](https://www.residencestyle.com/how-to-incorporate-mid-century-modern-kitchen-cabinets-in-small-spaces/)
+* [Rodent Control: How to Deter Rats](https://www.residencestyle.com/rodent-control-how-to-deter-rats/)
+* [How To Finance Your Dream Home Build with New Construction Loans](https://www.residencestyle.com/how-to-finance-your-dream-home-build-with-new-construction-loans/)
+* [Which Professionals Can Help Keep Your Home Comfortable All Year Long?](https://www.residencestyle.com/which-professionals-can-help-keep-your-home-comfortable-all-year-long/)
 * [Roof Maintenance to Keep Your Home’s Exterior in Good Condition](https://www.residencestyle.com/roof-maintenance-to-keep-your-homes-exterior-in-good-condition/)
-* [Common Roofing Problems and How to Avoid Them](https://www.residencestyle.com/common-roofing-problems-and-how-to-avoid-them/)
-* [How E-Books Are Changing How We Think About Copyright](https://www.residencestyle.com/how-e-books-are-changing-how-we-think-about-copyright/)
-* [Environmental Best Practices When Completing a Deck Improvement Project](https://www.residencestyle.com/environmental-best-practices-when-completing-a-deck-improvement-project/)
-* [Transform Your Space: Essential Tips for a Successful Kitchen Remodel](https://www.residencestyle.com/transform-your-space-essential-tips-for-a-successful-kitchen-remodel/)
 
 [](https://www.instagram.com/residencestyle)[](https://www.facebook.com/ResidenceStyle/)
 
