@@ -233,27 +233,27 @@ Legal Department/Paralegal
 
 8020 Arco Corporate Drive, Raleigh, North Carolina, US, 27167.
 
-![FAQ](https://www.mycomfees.com/static/version1733290342/frontend/Attindas/attindas/default/images/floating-contact/Group.svg) Help
+![FAQ](https://www.mycomfees.com/static/version1733981628/frontend/Attindas/attindas/default/images/floating-contact/Group.svg) Help
 
- [![FAQ](https://www.mycomfees.com/static/version1733290342/frontend/Attindas/attindas/default/images/floating-contact/faq-q.svg) FAQ](https://www.mycomfees.com/faq/)
+ [![FAQ](https://www.mycomfees.com/static/version1733981628/frontend/Attindas/attindas/default/images/floating-contact/faq-q.svg) FAQ](https://www.mycomfees.com/faq/)
 
- [![Contact us](https://www.mycomfees.com/static/version1733290342/frontend/Attindas/attindas/default/images/floating-contact/contact.svg) Contact us](https://www.mycomfees.com/contactus/)
+ [![Contact us](https://www.mycomfees.com/static/version1733981628/frontend/Attindas/attindas/default/images/floating-contact/contact.svg) Contact us](https://www.mycomfees.com/contactus/)
 
-![Call](https://www.mycomfees.com/static/version1733290342/frontend/Attindas/attindas/default/images/floating-contact/phone-call.svg) Call
+![Call](https://www.mycomfees.com/static/version1733981628/frontend/Attindas/attindas/default/images/floating-contact/phone-call.svg) Call
 
-![Call](https://www.mycomfees.com/static/version1733290342/frontend/Attindas/attindas/default/images/floating-contact/phone-call.svg) Call
+![Call](https://www.mycomfees.com/static/version1733981628/frontend/Attindas/attindas/default/images/floating-contact/phone-call.svg) Call
 
-![Close](https://www.mycomfees.com/static/version1733290342/frontend/Attindas/attindas/default/images/floating-contact/close.svg)
+![Close](https://www.mycomfees.com/static/version1733981628/frontend/Attindas/attindas/default/images/floating-contact/close.svg)
 
-![agent-img](https://www.mycomfees.com/static/version1733290342/frontend/Attindas/attindas/default/images/floating-contact/agent-image-desktop.jpg)
+![agent-img](https://www.mycomfees.com/static/version1733981628/frontend/Attindas/attindas/default/images/floating-contact/agent-image-desktop.jpg)
 
 Call us
 
 Support agent
 
-[![Logo](https://www.mycomfees.com/static/version1733290342/frontend/Attindas/comfees/default/images/footer/logo_white.png)](https://www.mycomfees.com/)
+[![Logo](https://www.mycomfees.com/static/version1733981628/frontend/Attindas/comfees/default/images/footer/logo_white.png)](https://www.mycomfees.com/)
 
- [![aria-label="facebook"](https://www.mycomfees.com/static/version1733290342/frontend/Attindas/comfees/default/images/facebook.svg)](https://www.facebook.com/mycomfees/)[![Instagram](https://www.mycomfees.com/static/version1733290342/frontend/Attindas/comfees/default/images/instagram.svg)](https://www.instagram.com/Mycomfees_USA/?hl=en)[![Twitter](https://www.mycomfees.com/static/version1733290342/frontend/Attindas/comfees/default/images/twitter.svg)](https://twitter.com/mycomfees)
+ [![aria-label="facebook"](https://www.mycomfees.com/static/version1733981628/frontend/Attindas/comfees/default/images/facebook.svg)](https://www.facebook.com/mycomfees/)[![Instagram](https://www.mycomfees.com/static/version1733981628/frontend/Attindas/comfees/default/images/instagram.svg)](https://www.instagram.com/Mycomfees_USA/?hl=en)[![Twitter](https://www.mycomfees.com/static/version1733981628/frontend/Attindas/comfees/default/images/twitter.svg)](https://twitter.com/mycomfees)
 
 **Contact Us:** [800-351-1538](tel:800-351-1538)
 
