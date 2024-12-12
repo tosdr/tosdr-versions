@@ -1,6 +1,6 @@
 [](https://girls.xyz/)
 
-2362 Online
+2990 Online
 
 [Login](https://girls.xyz/login) [Join now for free](https://girls.xyz/members/join)
 
@@ -10,43 +10,43 @@
 
 Categories
 
-* [Anal (787 Live)](https://girls.xyz/anal)
-* [Arab (5 Live)](https://girls.xyz/arab)
-* [Asian (89 Live)](https://girls.xyz/asian)
-* [Babes (701 Live)](https://girls.xyz/babes)
-* [BBW (183 Live)](https://girls.xyz/bbw)
-* [Best for Privates (55 Live)](https://girls.xyz/best-for-privates)
-* [Big Ass (719 Live)](https://girls.xyz/big-ass)
-* [Big Tits (578 Live)](https://girls.xyz/big-tits)
-* [Blonde (311 Live)](https://girls.xyz/blonde)
-* [Bondage (299 Live)](https://girls.xyz/bondage)
-* [Brunette (1119 Live)](https://girls.xyz/brunette)
-* [College Girls (501 Live)](https://girls.xyz/college-girls)
-* [Curvy (279 Live)](https://girls.xyz/curvy)
-* [Ebony (199 Live)](https://girls.xyz/ebony)
-* [Fetish (1121 Live)](https://girls.xyz/fetish)
-* [Granny (26 Live)](https://girls.xyz/granny)
+* [Anal (950 Live)](https://girls.xyz/anal)
+* [Arab (16 Live)](https://girls.xyz/arab)
+* [Asian (71 Live)](https://girls.xyz/asian)
+* [Babes (826 Live)](https://girls.xyz/babes)
+* [BBW (209 Live)](https://girls.xyz/bbw)
+* [Best for Privates (77 Live)](https://girls.xyz/best-for-privates)
+* [Big Ass (835 Live)](https://girls.xyz/big-ass)
+* [Big Tits (676 Live)](https://girls.xyz/big-tits)
+* [Blonde (358 Live)](https://girls.xyz/blonde)
+* [Bondage (428 Live)](https://girls.xyz/bondage)
+* [Brunette (1347 Live)](https://girls.xyz/brunette)
+* [College Girls (598 Live)](https://girls.xyz/college-girls)
+* [Curvy (318 Live)](https://girls.xyz/curvy)
+* [Ebony (225 Live)](https://girls.xyz/ebony)
+* [Fetish (1391 Live)](https://girls.xyz/fetish)
+* [Granny (27 Live)](https://girls.xyz/granny)
 * [Group Sex (0 Live)](https://girls.xyz/group-sex)
-* [Hairy Pussy (184 Live)](https://girls.xyz/hairy-pussy)
-* [Housewives (620 Live)](https://girls.xyz/housewives)
-* [Huge Tits (115 Live)](https://girls.xyz/huge-tits)
-* [Indian (2 Live)](https://girls.xyz/indian)
-* [Latina (468 Live)](https://girls.xyz/latina)
-* [Lesbian (12 Live)](https://girls.xyz/lesbian)
-* [Mature (405 Live)](https://girls.xyz/mature)
-* [Medium Tits (631 Live)](https://girls.xyz/medium-tits)
+* [Hairy Pussy (193 Live)](https://girls.xyz/hairy-pussy)
+* [Housewives (762 Live)](https://girls.xyz/housewives)
+* [Huge Tits (145 Live)](https://girls.xyz/huge-tits)
+* [Indian (5 Live)](https://girls.xyz/indian)
+* [Latina (771 Live)](https://girls.xyz/latina)
+* [Lesbian (11 Live)](https://girls.xyz/lesbian)
+* [Mature (488 Live)](https://girls.xyz/mature)
+* [Medium Tits (735 Live)](https://girls.xyz/medium-tits)
 * [Muscle (21 Live)](https://girls.xyz/muscle)
-* [Petite (159 Live)](https://girls.xyz/petite)
-* [Pornstar (5 Live)](https://girls.xyz/pornstar)
+* [Petite (227 Live)](https://girls.xyz/petite)
+* [Pornstar (8 Live)](https://girls.xyz/pornstar)
 * [Pregnant (0 Live)](https://girls.xyz/pregnant)
-* [Redhead (175 Live)](https://girls.xyz/redhead)
-* [Shaved Pussy (1101 Live)](https://girls.xyz/shaved-pussy)
-* [Small Tits (281 Live)](https://girls.xyz/small-tits)
-* [Smoking (21 Live)](https://girls.xyz/smoking)
-* [Squirt (865 Live)](https://girls.xyz/squirt)
-* [Teens 18+ (501 Live)](https://girls.xyz/teens-18)
-* [Toys (1154 Live)](https://girls.xyz/toys)
-* [White Girls (842 Live)](https://girls.xyz/white-girls)
+* [Redhead (206 Live)](https://girls.xyz/redhead)
+* [Shaved Pussy (1295 Live)](https://girls.xyz/shaved-pussy)
+* [Small Tits (353 Live)](https://girls.xyz/small-tits)
+* [Smoking (17 Live)](https://girls.xyz/smoking)
+* [Squirt (1085 Live)](https://girls.xyz/squirt)
+* [Teens 18+ (598 Live)](https://girls.xyz/teens-18)
+* [Toys (1408 Live)](https://girls.xyz/toys)
+* [White Girls (822 Live)](https://girls.xyz/white-girls)
 
 History
 
@@ -644,13 +644,13 @@ You can unsubscribe from our newsletters and we never give out your email addre
 
 13.6. The English version will prevail of all legal statements, statutory declarations made by Girls.xyz, including the present Agreement. Girls.xyz does not accept any kind of legal claims, or other complaints for the misunderstandings as a result of any mistranslation.
 
-13.7. These Terms of Use will be governed by and construed in accordance with the laws of the Czech Republic, excluding its conflicts of law rules. You expressly agree that the exclusive jurisdiction for any claim or action arising out of or relating to these Terms of Use or your use of this Site will lie only in the courts of the Czech Republic, and you further agree to and submit to the exercise of personal jurisdiction of such courts for the purpose of litigating any such claim or action.
+13.7. These Terms of Use will be governed by and construed in accordance with the laws of the Republic of Cyprus, excluding its conflicts of law rules. You expressly agree that the exclusive jurisdiction for any claim or action arising out of or relating to these Terms of Use or your use of this Site will lie only in the courts of the Republic of Cyprus, and you further agree to and submit to the exercise of personal jurisdiction of such courts for the purpose of litigating any such claim or action.
 
-13.8. Any disputes arising between Girls.xyz and the Subscribers will be settled amicably and only when this solution is not efficient, the competent jurisdiction for the disputes arising from this Agreement will be the courts of the Czech Republic.
+13.8. Any disputes arising between Girls.xyz and the Subscribers will be settled amicably and only when this solution is not efficient, the competent jurisdiction for the disputes arising from this Agreement will be the courts of the Republic of Cyprus.
 
 **In other words**
 
-Girls.xyz is a global website, but by using our services you agree that the jurisdiction for any claim or dispute arising from these Terms and Conditions lie only in the courts of the Czech Republic.
+Girls.xyz is a global website, but by using our services you agree that the jurisdiction for any claim or dispute arising from these Terms and Conditions lie only in the courts of the Republic of Cyprus.
 
 If any part of these Terms and Conditions will become invalid as a result of a court verdict or change in legislation, the rest will still be in effect. The main version of these Terms and Conditions is in English and it will prevail of all others.
 
