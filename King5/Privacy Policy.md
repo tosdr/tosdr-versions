@@ -30,15 +30,11 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/26c279e3-dfbc-4672-84ed-65fc9c8a0d78/20240916T151939/26c279e3-dfbc-4672-84ed-65fc9c8a0d78_16x9.jpg) ![](https://media.king5.com/assets/KING/images/26c279e3-dfbc-4672-84ed-65fc9c8a0d78/20240916T151939/26c279e3-dfbc-4672-84ed-65fc9c8a0d78_360x203.jpg)](https://www.king5.com/article/news/local/king-county-judge-kroger-albertsons-ruling/281-45af98e0-af9e-4a35-9815-c2076c72afac)
+    *  [![](https://media.king5.com/assets/KING/images/01820b09-170b-4c58-aa82-ee6c6c1177c2/20241212T020744/01820b09-170b-4c58-aa82-ee6c6c1177c2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/01820b09-170b-4c58-aa82-ee6c6c1177c2/20241212T020744/01820b09-170b-4c58-aa82-ee6c6c1177c2_360x203.jpg)](https://www.king5.com/article/news/local/man-charged-allegedly-causing-1-million-in-damage-kitsap-county-construction-site/281-3ec7c2cc-dcea-43f0-8331-12c261f996b4)
         
-        #### [How much grocery prices would have risen in Washington if Kroger-Albertsons merger went through](https://www.king5.com/article/news/local/king-county-judge-kroger-albertsons-ruling/281-45af98e0-af9e-4a35-9815-c2076c72afac) [![](https://media.king5.com/assets/KING/images/26c279e3-dfbc-4672-84ed-65fc9c8a0d78/20240916T151939/26c279e3-dfbc-4672-84ed-65fc9c8a0d78_16x9.jpg) ![](https://media.king5.com/assets/KING/images/26c279e3-dfbc-4672-84ed-65fc9c8a0d78/20240916T151939/26c279e3-dfbc-4672-84ed-65fc9c8a0d78_360x203.jpg)](https://www.king5.com/article/news/local/king-county-judge-kroger-albertsons-ruling/281-45af98e0-af9e-4a35-9815-c2076c72afac)
+        #### [Man charged for allegedly causing more than $1 million in damage at Kitsap County construction site](https://www.king5.com/article/news/local/man-charged-allegedly-causing-1-million-in-damage-kitsap-county-construction-site/281-3ec7c2cc-dcea-43f0-8331-12c261f996b4) [![](https://media.king5.com/assets/KING/images/01820b09-170b-4c58-aa82-ee6c6c1177c2/20241212T020744/01820b09-170b-4c58-aa82-ee6c6c1177c2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/01820b09-170b-4c58-aa82-ee6c6c1177c2/20241212T020744/01820b09-170b-4c58-aa82-ee6c6c1177c2_360x203.jpg)](https://www.king5.com/article/news/local/man-charged-allegedly-causing-1-million-in-damage-kitsap-county-construction-site/281-3ec7c2cc-dcea-43f0-8331-12c261f996b4)
         
-        #### [More info about why a Washington judge shot down the Kroger-Albertsons merger](https://www.king5.com/article/news/local/king-county-judge-kroger-albertsons-ruling/281-45af98e0-af9e-4a35-9815-c2076c72afac) [![](https://media.king5.com/assets/KING/images/26c279e3-dfbc-4672-84ed-65fc9c8a0d78/20240916T151939/26c279e3-dfbc-4672-84ed-65fc9c8a0d78_16x9.jpg) ![](https://media.king5.com/assets/KING/images/26c279e3-dfbc-4672-84ed-65fc9c8a0d78/20240916T151939/26c279e3-dfbc-4672-84ed-65fc9c8a0d78_360x203.jpg)](https://www.king5.com/article/news/local/king-county-judge-kroger-albertsons-ruling/281-45af98e0-af9e-4a35-9815-c2076c72afac)
-        
-        #### [How much grocery prices may have risen if the Kroger-Albertsons merger went through](https://www.king5.com/article/news/local/king-county-judge-kroger-albertsons-ruling/281-45af98e0-af9e-4a35-9815-c2076c72afac) [![](https://media.king5.com/assets/KING/images/26c279e3-dfbc-4672-84ed-65fc9c8a0d78/20240916T151939/26c279e3-dfbc-4672-84ed-65fc9c8a0d78_16x9.jpg) ![](https://media.king5.com/assets/KING/images/26c279e3-dfbc-4672-84ed-65fc9c8a0d78/20240916T151939/26c279e3-dfbc-4672-84ed-65fc9c8a0d78_360x203.jpg)](https://www.king5.com/article/news/local/king-county-judge-kroger-albertsons-ruling/281-45af98e0-af9e-4a35-9815-c2076c72afac)
-        
-        #### [Estimate: Washingtonians would have spent an extra $800 million a year on groceries had Kroger-Albertsons merger been approved](https://www.king5.com/article/news/local/king-county-judge-kroger-albertsons-ruling/281-45af98e0-af9e-4a35-9815-c2076c72afac)
+        #### [Former employee charged after allegedly causing $1 million in damage at Kitsap County construction site](https://www.king5.com/article/news/local/man-charged-allegedly-causing-1-million-in-damage-kitsap-county-construction-site/281-3ec7c2cc-dcea-43f0-8331-12c261f996b4)
     *  [![](https://media.king5.com/assets/KING/images/a3806ea2-fc84-40b8-8fd4-e93daf529dad/20241211T190951/a3806ea2-fc84-40b8-8fd4-e93daf529dad_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3806ea2-fc84-40b8-8fd4-e93daf529dad/20241211T190951/a3806ea2-fc84-40b8-8fd4-e93daf529dad_360x203.jpg)](https://www.king5.com/article/news/local/seattle/david-bonderman-seattle-kraken-dies/281-f341c94c-0a92-4b92-a763-578e42262e90)
         
         #### [Seattle Kraken co-owner David Bonderman dies at 82](https://www.king5.com/article/news/local/seattle/david-bonderman-seattle-kraken-dies/281-f341c94c-0a92-4b92-a763-578e42262e90)
@@ -110,9 +106,9 @@ Navigation
 
 Seattle, WA »
 
-49°
+42°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
