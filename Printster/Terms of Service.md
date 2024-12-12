@@ -6,6 +6,9 @@ The store will not work correctly when cookies are disabled.
 
  [](#)  [](#)
 
+* It's not too late! Order by 19th December for Christmas. [Details here](https://www.printster.co.uk/shipping-information).  
+    
+
 * Printed & Dispatched Within 24 Hours  
     
 * Next Day Delivery Available  
