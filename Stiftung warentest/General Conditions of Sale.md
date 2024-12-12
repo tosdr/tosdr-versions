@@ -655,21 +655,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
+* [Kühl-Gefrier-Kombinationen im Test: Kühl­schränke − spar­sam und stark](https://www.test.de/Kuehlschraenke-im-Test-4735177-0/ "Kühl-Gefrier-Kombinationen im Test - Kühlschränke − sparsam und stark")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 * [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
-* [Saugroboter im Test: Die besten Saug- und Wischroboter für Teppich und Hartboden](https://www.test.de/Saugroboter-im-Test-4806685-0/ "Saugroboter im Test - Die besten Saug- und Wischroboter für Teppich und Hartboden")
-* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Fest­geld von Invest Check24: Falsche Checker auf dubioser Webseite](https://www.test.de/Warnliste-Falsche-Checker-auf-dubioser-Webseite-5997646-0/ "Festgeld von Invest Check24 - Falsche Checker auf dubioser Webseite")
-* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
-* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
-* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
+* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
+* [Toaster im Test: Klein bräunt besser](https://www.test.de/Toaster-im-Test-Klein-braeunt-besser-6132973-0/ "Toaster im Test - Klein bräunt besser")
+* [Natrium in Brause­tabletten: Unnötige Gefahr fürs Herz](https://www.test.de/Natrium-in-Brausetabletten-Unnoetige-Gefahr-fuers-Herz-6094431-0/ "Natrium in Brausetabletten - Unnötige Gefahr fürs Herz")
+* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
 
 Weitere Informationen
 
@@ -3073,21 +3073,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
+* [Kühl-Gefrier-Kombinationen im Test: Kühl­schränke − spar­sam und stark](https://www.test.de/Kuehlschraenke-im-Test-4735177-0/ "Kühl-Gefrier-Kombinationen im Test - Kühlschränke − sparsam und stark")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 * [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
-* [Saugroboter im Test: Die besten Saug- und Wischroboter für Teppich und Hartboden](https://www.test.de/Saugroboter-im-Test-4806685-0/ "Saugroboter im Test - Die besten Saug- und Wischroboter für Teppich und Hartboden")
-* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Fest­geld von Invest Check24: Falsche Checker auf dubioser Webseite](https://www.test.de/Warnliste-Falsche-Checker-auf-dubioser-Webseite-5997646-0/ "Festgeld von Invest Check24 - Falsche Checker auf dubioser Webseite")
-* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
-* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
-* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
+* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
+* [Toaster im Test: Klein bräunt besser](https://www.test.de/Toaster-im-Test-Klein-braeunt-besser-6132973-0/ "Toaster im Test - Klein bräunt besser")
+* [Natrium in Brause­tabletten: Unnötige Gefahr fürs Herz](https://www.test.de/Natrium-in-Brausetabletten-Unnoetige-Gefahr-fuers-Herz-6094431-0/ "Natrium in Brausetabletten - Unnötige Gefahr fürs Herz")
+* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3129,39 +3129,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
+* [Kühl-Gefrier-Kombinationen im Test: Kühl­schränke − spar­sam und stark](https://www.test.de/Kuehlschraenke-im-Test-4735177-0/ "Kühl-Gefrier-Kombinationen im Test - Kühlschränke − sparsam und stark")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 * [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
-* [Saugroboter im Test: Die besten Saug- und Wischroboter für Teppich und Hartboden](https://www.test.de/Saugroboter-im-Test-4806685-0/ "Saugroboter im Test - Die besten Saug- und Wischroboter für Teppich und Hartboden")
-* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Fest­geld von Invest Check24: Falsche Checker auf dubioser Webseite](https://www.test.de/Warnliste-Falsche-Checker-auf-dubioser-Webseite-5997646-0/ "Festgeld von Invest Check24 - Falsche Checker auf dubioser Webseite")
-* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
-* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
-* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
+* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
+* [Toaster im Test: Klein bräunt besser](https://www.test.de/Toaster-im-Test-Klein-braeunt-besser-6132973-0/ "Toaster im Test - Klein bräunt besser")
+* [Natrium in Brause­tabletten: Unnötige Gefahr fürs Herz](https://www.test.de/Natrium-in-Brausetabletten-Unnoetige-Gefahr-fuers-Herz-6094431-0/ "Natrium in Brausetabletten - Unnötige Gefahr fürs Herz")
+* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
 
 Neueste Tests
 
+* [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
+* [Kühl-Gefrier-Kombinationen im Test: Kühl­schränke − spar­sam und stark](https://www.test.de/Kuehlschraenke-im-Test-4735177-0/ "Kühl-Gefrier-Kombinationen im Test - Kühlschränke − sparsam und stark")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
 * [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
 * [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 * [Kinder­hilfs­organisationen im Vergleich: Spenden für Kinder in Not](https://www.test.de/Kinderhilfsorganisationen-im-Vergleich-Spenden-fuer-Kinder-in-Not-6179374-0/ "Kinderhilfsorganisationen im Vergleich - Spenden für Kinder in Not")
-* [Saugroboter im Test: Die besten Saug- und Wischroboter für Teppich und Hartboden](https://www.test.de/Saugroboter-im-Test-4806685-0/ "Saugroboter im Test - Die besten Saug- und Wischroboter für Teppich und Hartboden")
-* [MSCI World Index: Aktuelle Analysen zum MSCI World](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - Aktuelle Analysen zum MSCI World")
 
 test.de entdecken
 
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Fest­geld von Invest Check24: Falsche Checker auf dubioser Webseite](https://www.test.de/Warnliste-Falsche-Checker-auf-dubioser-Webseite-5997646-0/ "Festgeld von Invest Check24 - Falsche Checker auf dubioser Webseite")
-* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
-* [Über­gangs­pflege: Wann Patienten länger im Kranken­haus bleiben dürfen](https://www.test.de/Uebergangspflege-6078178-0/ "Übergangspflege - Wann Patienten länger im Krankenhaus bleiben dürfen")
-* [Werbungs­kosten: Partys von der Steuer absetzen](https://www.test.de/Werbungskosten-Partys-von-der-Steuer-absetzen-6006642-0/ "Werbungskosten - Partys von der Steuer absetzen")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
+* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
+* [Toaster im Test: Klein bräunt besser](https://www.test.de/Toaster-im-Test-Klein-braeunt-besser-6132973-0/ "Toaster im Test - Klein bräunt besser")
+* [Natrium in Brause­tabletten: Unnötige Gefahr fürs Herz](https://www.test.de/Natrium-in-Brausetabletten-Unnoetige-Gefahr-fuers-Herz-6094431-0/ "Natrium in Brausetabletten - Unnötige Gefahr fürs Herz")
+* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
 
 Stiftung Warentest
 
