@@ -148,8 +148,6 @@ Eine Übersicht aller von uns eingesetzten Tools und Cookies sowie eine Widerruf
 
 Im Folgenden erhalten Sie Datenschutzhinweise in ausführlicher Form.
 
-![Illustration](//images.ctfassets.net/jopovb6lh5n2/2m1oDdad6gIwq0G24gkEu0/0c64bae98a2446f6c7a70022df20f8b8/illu2.png)
-
 Wie wir Ihnen unsere Inhalte bereitstellen
 ------------------------------------------
 
@@ -454,8 +452,6 @@ Rechtsgrundlage für die vorgenannten Datenverarbeitungen ist unser berechtigtes
 
 Sie haben die Möglichkeit, Inhalte unserer Websites weiter zu empfehlen über die am Inhalt platzierten Buttons; auf mobilen Endgeräten über die native Sharing-Funktion. Wir stellen den sozialen Netzwerken Inhalte - und keine personenbezogene Daten - zur Verfügung, die ausschließlich dazu dienen, Inhalte darzustellen. Wenn Sie die Buttons nutzen, verlinken wir lediglich auf die Seite des jeweiligen Social Media-Anbieters. Wir verarbeiten keine personenbezogenen Daten von Ihnen.
 
-![Illustration](//images.ctfassets.net/jopovb6lh5n2/1BPucwK0lSQWIKuk4iw0ca/520bb875c711e78e9ab6bdd59bb2bf7a/illu1.png)
-
 Wie wir unsere Produkte optimieren
 ----------------------------------
 
@@ -576,8 +572,6 @@ Rechtsgrundlage für die Datenverarbeitung ist Ihre Einwilligung gemäß Art. 6 
 
 Für unsere Umfragen verwenden wir das Online-Umfragetool easyfeedback unseres Dienstleisters easyfeedback GmbH, Ernst-Abbe-Straße 4, 56070 Koblenz. Informationen zum Datenschutz finden Sie [hier](https://easy-feedback.de/privacy/datenschutz "Datenschutz EasyFeedback").
 
-![Illustration](//images.ctfassets.net/jopovb6lh5n2/2m1oDdad6gIwq0G24gkEu0/0c64bae98a2446f6c7a70022df20f8b8/illu2.png)
-
 Wenn Sie Angebote bestellen
 ---------------------------
 
@@ -645,8 +639,6 @@ Für Veranstaltungen verarbeiten wir Ihre Namen, Kontakt- und Adressdaten, die z
 
 Sobald der Zweck zur Erhebung der Daten und gesetzliche Aufbewahrungspflichten erfüllt sind, werden die Daten gelöscht.
 
-![Illustration](//images.ctfassets.net/jopovb6lh5n2/1BWHFa1QwY88OEQQ6804Is/31e7d2c13d363ea0881abb62a562fbb3/illu5.png)
-
 Wenn Sie uns kontaktieren
 -------------------------
 
@@ -666,8 +658,6 @@ Wenn Sie uns Ihrer Einwilligung erteilt haben, speichern wir den Gesprächsverla
 
 Die von Ihnen im Rahmen Ihrer Chatbot-Anfrage mitgeteilten personenbezogenen Daten werden zum Zwecke der Beantwortung Ihrer Anfrage verarbeitet.  
 Sofern der Chatverlauf in ein Verkaufsgespräch übergeht und zu einem Vertragsabschluss führt, speichern wir ausschließlich den Verkaufsteil des Gesprächs zur Dokumentation des Vertragsverhältnisses nach Art. 6 Abs. 1 lit. b DSGVO. Dieser Verkaufsteil wird zunächst nach Vertragsbeendigung eingeschränkt, nach Ablauf gesetzlichen Aufbewahrungsfristen gelöscht.
-
-![Illustration](//images.ctfassets.net/jopovb6lh5n2/59RW6KReDu42qGKwyiQYAc/fda455b70b317fb2770add280b280135/illu4.png)
 
 Wenn wir für unsere Produkte werben
 -----------------------------------
@@ -920,16 +910,12 @@ Informationen dazu, wie Sie Ihre Privatsphäre-Einstellungen bei TikTok verwalte
 
 Nach eigenen Angaben speichert TikTok Daten, so lange, wie es für die Bereitstellung der Plattform und für die anderen in TikToks Datenschutzerklärung genannten Zwecke erforderlich ist. Laut Eigenaussage von TikTok bewahrt es die Daten zudem auch auf, wenn dies zur Erfüllung vertraglicher und rechtlicher Verpflichtungen erforderlich ist, wenn TikTok ein berechtigtes Geschäftsinteresse daran hat, und zur Geltendmachung oder Verteidigung von Rechtsansprüchen. Nähere Informationen zur Speicherung der Daten finden Sie in den [TikTok-Datenschutzrichtlinien](https://www.tiktok.com/legal/page/eea/privacy-policy/de).
 
-![Illustration](//images.ctfassets.net/jopovb6lh5n2/59RW6KReDu42qGKwyiQYAc/fda455b70b317fb2770add280b280135/illu4.png)
-
 Wenn Dritte bei uns für ihre Produkte werben
 --------------------------------------------
 
 Um unsere digitalen Angebote zu refinanzieren, vermarkten wir unsere Werbeflächen - über unsere Vermarktungsdienstleister aber auch über [Dritte](#OBA).
 
-Eine Übersicht der Dritten und wie diese Ihre Daten zu welchem Zweck verarbeiten, finden Sie in den Datenschutz-Einstellungen im Footer der Website. Bitte beachten Sie, dass die dort aufgeführten Dritten Ihnen als SZ Plus-Abonnent nicht Werbung aus sogenannte Backfill- oder Restplatzvermarktung ausspielen können. Auch die Versteigerung von Werbeflächen über offene Auktionen sowie die personalisierten Werbeeinblendungen in den Artikel-Empfehlungen unter unseren Texten schließen wir für Sie als zahlende Leserinnen und Leser aus.
-
-Durch diese Reduzierung der Werbung stellen wir sicher, dass die Daten, die wir von SZ Plus-Abonnenten erheben, ausschließlich von uns sowie durch von uns geprüfte Partner verarbeitet werden. Diese Partner verpflichten wir auf Datensparsamkeit im Rahmen der europäischen Datenschutzvorschriften. Die Datenerhebung über unsere geprüften Werbepartner wird so auf ein notwendiges Mindestmaß reduziert, um beispielsweise Reichweitenmessungen und Qualitätsverbesserungen vorzunehmen. Durch diese Maßnahmen verhindern wir, dass unbekannte und ungeprüfte Dritte anhand des Nutzungsverhaltens individuelle Profile von unseren Digital-Abonnenten erstellen und diese zu eigenen Zwecken nutzen können.
+Eine Übersicht der Dritten und wie diese Ihre Daten zu welchem Zweck verarbeiten, finden Sie in den Datenschutz-Einstellungen. Ihnen als SZ Plus-Abonnent wird weniger Werbung ausgespielt. Durch diese Reduzierung der Werbung stellen wir sicher, dass die Daten, die wir von SZ Plus-Abonnenten erheben, ausschließlich von uns sowie durch von uns geprüfte Partner verarbeitet werden. Diese Partner verpflichten wir auf Datensparsamkeit im Rahmen der europäischen Datenschutzvorschriften. Die Datenerhebung über unsere geprüften Werbepartner wird so auf ein notwendiges Mindestmaß reduziert, um beispielsweise Reichweitenmessungen und Qualitätsverbesserungen vorzunehmen. Durch diese Maßnahmen verhindern wir, dass unbekannte und ungeprüfte Dritte anhand des Nutzungsverhaltens individuelle Profile von unseren Digital-Abonnenten erstellen und diese zu eigenen Zwecken nutzen können.
 
 ### Eigenvermarktung von Anzeigen
 
@@ -959,9 +945,6 @@ In diesem Zusammenhang können mit Ihrer Einwilligung gem. Art. 49 Abs. 1 lit. a
 
 Um diese Art der Werbung datenschutzkonform steuern zu können, verwenden wir das [Transparency and Consent Framework des IAB Europe 2.2](https://iabeurope.eu/iab-europe-transparency-consent-framework-policies/). Dieses Regelwerk des Interactive Advertising Bureau Europe („IAB Europe“), einem Branchenverband für online Marketing, definiert und überwacht die datenschutzkonforme Ausspielung von Werbung.
 
-**Verarbeitungszwecke**  
-Dazu hat das IAB Europe die nachfolgenden elf Zwecke für die Verarbeitung von Daten, einschließlich der personenbezogenen Daten von Nutzern, definiert, denen der Nutzer zustimmen oder diese ablehnen kann:
-
 #### Werbung über das IAB TCF
 
 Zur datenschutzkonformen Steuerung von Werbung hat das IAB Europe die nachfolgenden Zwecke für die Verarbeitung von Daten, einschließlich der personenbezogenen Daten von Nutzern, definiert:
@@ -984,83 +967,74 @@ Informationen über Ihre Aktivitäten auf diesem Dienst (wie ausgefüllte Formul
 _Beispiele_
 
 * Wenn Sie beispielsweise mehrere Artikel über das beste Fahrradzubehör im Handel lesen, können diese Informationen verwendet werden, um ein Profil über Ihr Interesse an Fahrradzubehör zu erstellen. Ein solches Profil kann zu einem späteren Zeitpunkt auf derselben oder einer anderen Webseite oder App verwendet oder verbessert werden, um Ihnen Werbung für eine bestimmte Fahrradzubehörmarke anzuzeigen. Wenn Sie sich auch einen Konfigurator für ein Fahrzeug auf der Webseite eines Luxusautoherstellers ansehen, können diese Informationen mit Ihrem Interesse an Fahrrädern kombiniert werden, um Ihr Profil zu verfeinern, und zur Annahme führen, dass Sie an Luxusfahrradausrüstung interessiert sind.
-* Ein Bekleidungsunternehmen möchte seine neue Kollektion hochwertiger Babykleidung bewerben.Es setzt sich mit einer Agentur in Verbindung, die über ein Netzwerk von Kunden mit hohem Einkommen verfügt (z. B. Supermärkte der gehobenen Preisklasse) und bittet die Agentur, Profile junger Eltern oder Paare zu erstellen, von denen angenommen werden kann, dass sie wohlhabend sind und kürzlich ein Kind bekommen haben, damit diese später verwendet werden können, um Werbung in Partner-Apps zu schalten.
+* Ein Bekleidungsunternehmen möchte seine neue Kollektion hochwertiger Babykleidung bewerben. Es setzt sich mit einer Agentur in Verbindung, die über ein Netzwerk von Kunden mit hohem Einkommen verfügt (z. B. Supermärkte der gehobenen Preisklasse) und bittet die Agentur, Profile junger Eltern oder Paare zu erstellen, von denen angenommen werden kann, dass sie wohlhabend sind und kürzlich ein Kind bekommen haben, damit diese später verwendet werden können, um Werbung in Partner-Apps zu schalten.
 
-#### Verwendung von Profilen zur Auswahl personalisierter Werbung
-
+**Verwendung von Profilen zur Auswahl personalisierter Werbung (Purpose 4)**  
 Werbung, die Ihnen auf diesem Dienst angezeigt wird, kann auf Ihrem Werbeprofil basieren. Dieses Werbeprofil kann Ihre Aktivitäten (wie ausgefüllte Formulare, angesehene Inhalte) auf diesem Dienst oder anderen Webseiten oder Apps, mögliche Interessen und persönliche Merkmale beinhalten.
 
-**Beispiele**
+_Beispiele_
 
 * Ein Online-Händler möchte ein begrenztes Angebot an Laufschuhen ankündigen. Er möchte die Werbung auf Nutzer ausrichten, die sich zuvor Laufschuhe in seiner mobilen App angesehen haben. Tracking-Technologien könnten eingesetzt werden, um zu erkennen, dass Sie die mobile App zuvor für die Suche nach Laufschuhen verwendet haben, damit Ihnen die entsprechende Werbung in der App angezeigt wird.
 * Ein Profil, das für personalisierte Werbung in Bezug auf eine Person erstellt wurde, die auf einer Website nach Fahrradzubehör gesucht hat, kann verwendet werden, um die entsprechende Werbung für Fahrradzubehör auf einer mobilen App eines anderen Unternehmens zu präsentieren.
 
-#### Erstellung von Profilen zur Personalisierung von Inhalten
-
+**Erstellung von Profilen zur Personalisierung von Inhalten (Purpose 5)**  
 Informationen über Ihre Aktivitäten auf diesem Dienst (wie zum Beispiel: ausgefüllte Formulare, angesehene nicht werbliche Inhalte) können gespeichert und mit anderen Informationen über Sie (wie Ihrer vorherigen Aktivität auf diesem Dienst oder anderen Webseiten oder Apps) oder ähnlichen Benutzern kombiniert werden.  
 Diese werden dann verwendet, um ein Profil über Sie zu erstellen oder zu ergänzen (dies kann z.B. mögliche Interessen und persönliche Merkmale beinhalten). Ihr Profil kann (auch zu einem späteren Zeitpunkt) verwendet werden, um Ihnen Inhalte anzuzeigen, die aufgrund Ihrer möglichen Interessen für Sie wahrscheinlich relevanter sind, indem z. B. die Reihenfolge, in der Ihnen Inhalte angezeigt werden, geändert wird, um es Ihnen noch leichter zu machen, Inhalte zu finden, die Ihren Interessen entsprechen.
 
-**Beispiele**
+_Beispiele_
 
 * Sie lesen auf einer Social-Media-Plattform mehrere Artikel darüber, wie man ein Baumhaus baut. Diese Information kann einem Profil hinzugefügt werden, um Ihr Interesse an Inhalten zu Aktivitäten im Freien sowie an Do-it-yourself-Anleitungen festzuhalten (mit dem Ziel, die Personalisierung von Inhalten zu ermöglichen, sodass Ihnen beispielsweise in Zukunft mehr Blog-Posts und Artikel über Baumhäuser und Holzhütten präsentiert werden).
 * Sie haben sich in verschiedenen TV-Apps drei Videos zum Thema Weltraumforschung angesehen. Eine davon unabhängige Nachrichtenplattform, die Sie bisher nicht genutzt haben, erstellt basierend auf diesem Nutzungsverhalten ein Profil und erfasst Weltraumforschung als ein Thema von möglichem Interesse für zukünftige Videos.
 
-#### Verwendung von Profilen zur Auswahl personalisierter Inhalte
-
+**Verwendung von Profilen zur Auswahl personalisierter Inhalte (Purpose 6)**  
 Inhalte, die Ihnen auf diesem Dienst präsentiert werden, können auf Ihren personalisierten Inhaltsprofilen basieren, die Ihre Aktivitäten auf diesem oder anderen Diensten (wie Formulare, die Sie abschicken, Inhalte, die Sie sich ansehen), mögliche Interessen und persönliche Merkmale beinhalten, wie z. B. die geänderte Reihenfolge, in der Ihnen Inhalte angezeigt werden, um Ihnen das Auffinden von (nicht werblichen) Inhalten, die Ihren Interessen entsprechen, noch einfacher zu machen.
 
-**Beispiele**
+_Beispiele_
 
 * Sie lesen auf einer Social-Media-Plattform Artikel über vegetarisches Essen und verwenden dann die Koch-App eines von der Plattform unabhängigen Unternehmens. Das Profil, das über Sie auf der Social-Media-Plattform erstellt wurde, wird verwendet, um Ihnen auf der Startseite der Koch-App vegetarische Rezepte zu präsentieren.
 * Sie haben sich auf verschiedenen Webseiten drei Videos zum Thema Rudersport angesehen. Wenn Sie Ihre TV-App verwenden, empfiehlt Ihnen eine von den Webseiten unabhängige Video-Sharing-Plattform, basierend auf einem Profil das über Sie erstellt wurde als Sie sich die Online-Videos auf diesen Websites angesehen haben, fünf weitere Videos zum Thema Rudersport, die für Sie von Interesse sein könnten.
 
-#### Messung der Werbeleistung
-
+**Messung der Werbeleistung (Purpose 7)**  
 Informationen darüber, welche Werbung Ihnen präsentiert wird und wie Sie damit interagieren, können verwendet werden, um festzustellen, wie sehr eine Werbung Sie oder andere Benutzer angesprochen hat und ob die Ziele der Werbekampagne erreicht wurden. Die Informationen umfassen zum Beispiel, ob Sie sich eine Anzeige angesehen haben, ob Sie daraufgeklickt haben, ob sie Sie dazu animiert hat, ein Produkt zu kaufen oder eine Webseite zu besuchen usw. Diese Informationen sind hilfreich, um die Relevanz von Werbekampagnen zu ermitteln.
 
-**Beispiele**
+_Beispiele_
 
 * Sie haben auf der Webseite eines Webseitenbetreibers auf eine Werbung über einen „Black Friday“-Rabatt eines Online-Shops geklickt und ein Produkt gekauft. Ihr Klick wird mit diesem Kauf verknüpft. Ihre Interaktion und die anderer Benutzer wird gemessen, um herauszufinden, wie viele Klicks auf die Anzeige zu einem Kauf geführt haben.
 * Sie gehören zu den wenigen, die in der App eines App-Betreibers auf eine Werbung, über einen Rabatt anlässlich eines besonderen Ereignisses (z.B. „internationaler Tag der Anerkennung“), eines Online-Geschenkeshops geklickt haben. Der App-Betreiber möchte Statistiken darüber erhalten, wie oft eine bestimmte Anzeige innerhalb der App, insbesondere die Anzeige zu einem besonderen Ereignis (z.B. „internationaler Tag der Anerkennung“) von Ihnen und anderen Benutzern angesehen oder angeklickt wurde, um dem App-Betreiber und seinen Partnern (wie Agenturen) zu helfen, die Anzeigenschaltung zu optimieren.
 
-#### Messung der Performance von Inhalten
-
+**Messung der Performance von Inhalten (Purpose 8)**  
 Informationen darüber, welche Werbung Ihnen präsentiert wird und wie Sie damit interagieren, können dazu verwendet werden festzustellen, ob (nicht werbliche) Inhalte z. B. die beabsichtigte Zielgruppe erreicht und Ihren Interessen entsprochen haben. Dazu gehören beispielsweise Informationen darüber, ob Sie einen bestimmten Artikel gelesen, sich ein bestimmtes Video angesehen, einen bestimmten Podcast angehört oder sich eine bestimmte Produktbeschreibung angesehen haben, wie viel Zeit Sie auf diesem Dienst und den von Ihnen besuchten Webseiten verbracht haben usw. Diese Informationen helfen dabei, die Relevanz von (nicht werblichen) Inhalten, die Ihnen angezeigt werden, zu ermitteln.
 
-**Beispiele**
+_Beispiele_
 
 * Sie haben in der mobilen App eines App-Betreibers einen Blog-Post zum Thema Wandern gelesen und einen Link zu einem empfohlenen ähnlichen Post angetippt. Ihre Interaktionen werden aufgezeichnet, um festzuhalten, dass der erste Post zum Thema Wandern für Sie nützlich war und dass er Sie erfolgreich zum Lesen des ähnlichen Posts animiert hat. Diese Informationen werden gemessen, um herauszufinden, ob in Zukunft mehr Posts zum Thema Wandern verfasst werden sollen und wo sie auf dem Startbildschirm der mobilen App platziert werden sollten.
 * Ihnen wurde ein Video über Modetrends präsentiert, aber Sie und mehrere andere Benutzer haben dieses nach 30 Sekunden abgebrochen. Diese Information wird zur Evaluierung der geeigneten Länge zukünftiger Videos zu Modetrends verwendet.
 
-#### Analyse von Zielgruppen durch Statistiken oder Kombinationen von Daten aus verschiedenen Quellen
-
+**Analyse von Zielgruppen durch Statistiken oder Kombinationen von Daten aus verschiedenen Quellen (Purpose 9)**  
 Basierend auf der Kombination von Datensätzen (wie Benutzerprofilen, Statistiken, Marktforschung, Analysedaten) können Berichte über Ihre Interaktionen und die anderer Benutzer mit Werbe- oder (nicht werblichen) Inhalten erstellt werden, um gemeinsame Merkmale zu ermitteln (z. B., um festzustellen, welche Zielgruppen für eine Werbekampagne oder für bestimmte Inhalte empfänglich sind).
 
-**Beispiele**
+_Beispiele_
 
 * Der Eigentümer eines Online-Buchhandels möchte eine Auswertung, wie viele Besucher seine Webseite besucht haben, ohne etwas zu kaufen, oder wie viele die Webseite besucht haben, um die neuste Promi-Biographie des Monats zu kaufen, sowie das Durchschnittsalter der Besucher und wie viele davon männlich bzw. weiblich sind, aufgeteilt je nach Kategorie. Daten über Ihre Navigation auf der Webseite und Ihre persönlichen Merkmale werden dann verwendet und mit anderen solcher Daten kombiniert, um diese Statistiken zu erstellen.
 * Ein Werbetreibender möchte die Art der Zielgruppe, die mit seinen Anzeigen interagiert, besser verstehen. Er beauftragt ein Forschungsinstitut, die Eigenschaften von Benutzern, die mit der Anzeige interagiert haben, mit typischen Attributen von Benutzern ähnlicher Plattformen über verschiedene Geräte hinweg zu vergleichen. Dieser Vergleich zeigt dem Werbetreibenden, dass seine Zielgruppe hauptsächlich über mobile Geräte auf die Werbung zugreift und wahrscheinlich im Alter zwischen 45–60 Jahren liegt.
 
-#### Entwicklung und Verbesserung der Angebote
-
+**Entwicklung und Verbesserung der Angebote (Purpose 10)**  
 Informationen über Ihre Aktivitäten auf diesem Angebot, wie z. B. Ihre Interaktion mit Anzeigen oder Inhalten, können dabei helfen, Produkte und Angebote zu verbessern und neue Produkte und Angebote zu entwickeln basierend auf Benutzerinteraktionen, der Art der Zielgruppe usw. Dieser Verarbeitungszweck umfasst nicht die Entwicklung, Ergänzung oder Verbesserung von Benutzerprofilen und Kennungen.
 
-**Beispiele**
+_Beispiele_
 
 * Informationen über Ihre Aktivitäten auf diesem Angebot, wie z. B. Ihre Interaktion mit Anzeigen oder Inhalten, können dabei helfen, Produkte und Angebote zu verbessern und neue Produkte und Angebote zu entwickeln basierend auf Benutzerinteraktionen, der Art der Zielgruppe usw. Dieser Verarbeitungszweck umfasst nicht die Entwicklung, Ergänzung oder Verbesserung von Benutzerprofilen und Kennungen.
 * Ein Werbetreibender sucht nach einer Möglichkeit, Anzeigen auf einem neuartigen Endgerät anzuzeigen. Er sammelt Informationen darüber, wie Benutzer mit dieser neuen Art von Endgerät interagieren, um herauszufinden, ob er einen neuen Mechanismus für die Anzeige von Werbung auf dieser Art von Endgerät entwickeln kann.
 
-#### Verwendung reduzierter Daten zur Auswahl von Inhalten
-
+**Verwendung reduzierter Daten zur Auswahl von Inhalten (Purpose 11)**  
 Inhalte, die Ihnen auf diesem Dienst präsentiert werden, können auf reduzierten Daten basieren, wie z. B. der Webseite oder App, die Sie verwenden, Ihrem ungefähren Standort, Ihrem Endgerätetyp oder der Information, mit welchen Inhalten Sie interagieren (oder interagiert haben) (z. B. zur Begrenzung wie häufig Ihnen ein Video oder ein Artikel angezeigt wird).
 
-**Beispiele**
+_Beispiele_
 
 * Ein Reisemagazin hat auf seiner Webseite einen Artikel über die neuen Online-Kurse veröffentlicht, die von einer Sprachschule angeboten werden, um die Reiseerfahrungen im Ausland zu verbessern. Die Blog-Posts der Reiseschule werden direkt am Ende der Seite eingefügt und basierend auf Ihrem ungefähren Standort ausgewählt (z. B. Blog-Posts mit dem Lehrplan für den Kurs einer Sprache, die nicht die Sprache Ihres Landes ist).
 * Eine mobile App für Sportnachrichten hat eine neue Sparte mit Artikeln über die neuesten Fußballspiele eingeführt. Jeder Artikel enthält Videos mit Highlights des Spiels, die von einer externen Streaming-Plattform gehostet werden. Wenn Sie ein Video vorspulen, kann diese Information verwendet werden, um im Anschluss ein Video abzuspielen, das kürzer ist.
 
-**Spezielle Verarbeitungszwecke**
-
+**Spezielle Verarbeitungszwecke**  
 Für die beiden folgenden speziellen Verarbeitungszwecke hat der Nutzer keine Wahlmöglichkeit, da diese unbedingt erforderlich sind, um den Dienst zur Verfügung stellen zu können.
 
 * **Gewährleistung der Sicherheit, Verhinderung und Aufdeckung von Betrug und Fehlerbehebung:** Ihre Daten können verwendet werden, um ungewöhnliche und potenziell betrügerische Aktivitäten (zum Beispiel bezüglich Werbung, Werbe-Klicks durch Bots) zu überwachen und zu verhindern, und um sicherzustellen, dass Systeme und Prozesse ordnungsgemäß und sicher funktionieren. Die Daten können auch verwendet werden, um Probleme zu beheben, die Sie, der Webseite- oder Appbetreiber oder der Werbetreibende bei der Bereitstellung von Inhalten und Anzeigen und bei Ihrer Interaktion mit diesen haben können.  
@@ -1073,22 +1047,18 @@ Für die beiden folgenden speziellen Verarbeitungszwecke hat der Nutzer keine Wa
     Beispiel:  
     Wenn Sie eine Website besuchen und vor die Wahl gestellt werden, ob Sie in die Verwendung von Profilen für personalisierte Werbung einwilligen oder nicht, wird die von Ihnen getroffene Entscheidung gespeichert und an die betreffenden Werbeanbieter übermittelt, damit Ihre Entscheidung im Rahmen der Ihnen präsentierten Werbung berücksichtigt wird.
 
-**Funktionen**
-
-Für folgende Funktionen werden personenbezogene Daten für einen oder mehrere der o.g. Zwecke verwendet, sofern der Nutzer diesen Zwecken zugestimmt hat.
+**Funktionen**  
+Für folgende Funktionen werden personenbezogene Daten für einen oder mehrere der o.g. Zwecke verwendet, sofern Sie diesen Zwecken zustimmen.
 
 * **Abgleichung und Kombination von Daten aus unterschiedlichen Datenquellen:** Informationen über Ihre Aktivitäten auf diesem Dienst können zur Unterstützung der in diesem Rahmenwerk erläuterten Zwecke mit anderen Informationen über Sie aus unterschiedlichen Quellen abgeglichen und kombiniert werden (z. B. Ihre Aktivitäten auf einem anderen Online-Dienst, Ihrer Nutzung einer Kundenkarte im Geschäft oder Ihren Antworten auf eine Umfrage)
 * **Verknüpfung verschiedener Endgeräte:** Zur Unterstützung der in diesem Rahmenwerk erläuterten Zwecke kann ermittelt werden, ob es wahrscheinlich ist, dass Ihr Endgerät mit anderen Endgeräten verbunden ist, die Ihnen oder Ihrem Haushalt angehören (z. B., weil Sie sowohl auf Ihrem Handy als auch auf Ihrem Computer beim gleichen Dienst angemeldet sind oder weil Sie auf beiden Endgeräten die gleiche Internetverbindung verwenden).
 * **Identifikation von Endgeräten anhand automatisch übermittelter Informationen:** Ihr Endgerät kann zur Unterstützung der in diesem Rahmenwerk erläuterten Zwecke mithilfe von Informationen unterschieden werden, die es beim Zugriff auf das Internet automatisch übermittelt (z. B. die IP-Adresse Ihrer Internetverbindung oder die Art des Browsers, den Sie verwenden).
 
-**Besondere Funktionen**
-
+**Besondere Funktionen**  
 Für folgende besonderen Funktionen werden personenbezogene Daten für einen oder mehrere der o.g. Zwecke verwendet, sofern Sie diesen Zwecken zustimmen.
 
 * **Verwendung präziser geografischer Daten:** Mit Ihrem Einverständnis kann Ihr genauer Standort (in einem Umkreis von weniger als 500 Metern) zur Unterstützung der o.g. Zwecke verwendet werden.
 * **Aktives Scannen der Geräteeigenschaften zur Identifizierung:** Mit Ihrem Einverständnis können bestimmte Merkmale Ihres Geräts abgefragt und verwendet werden, um es von anderen Geräten zu unterscheiden (z. B. die installierten Schriftarten oder Plugins, die Auflösung Ihres Bildschirms), um die o.g. Zwecke zu unterstützen.
-
-![Illustration](//images.ctfassets.net/jopovb6lh5n2/60KxekfwaWyagOWoY2sSay/05984a9466db6d302241c40a141e8a79/illu7.png)
 
 Was Sie noch wissen sollten
 ---------------------------
