@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![The Best Picture Books of 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/25110717/best-books-2024-600x314-picture.jpg)
-    
-    The Best Picture Books of 2024
-    
-    Learn More >](https://www.readbrightly.com/picture-books-2024/)
-
-* * *
-
-* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
-    
-    Browse All Our Lists, Essays, and Interviews
-    
-    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
-
-* * *
-
 * [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/12/08132549/PRH_Site_1200x628_DEC2024.jpg)
     
     New Releases
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-december/)
+
+* * *
+
+* [![Books for the Christmas Romance Fan](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/13132423/PRH_site_1200x628_Christmas_Romance_Fan.jpg)
+    
+    Books for the Christmas Romance Fan
+    
+    Read More >](https://www.penguinrandomhouse.com/the-read-down/holiday-romantic-comedies/)
+
+* * *
+
+* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
+    
+    How To Read More in 2024
+    
+    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
 
 * <
     
@@ -43,7 +43,7 @@ Audio
     
 * [New & Noteworthy](https://www.penguinrandomhouse.com/books/all-new-releases)
 * [Bestsellers](https://www.penguinrandomhouse.com/books/all-best-sellers/)
-* [Popular Series](https://www.penguinrandomhouse.com/the-read-down/series/)
+* [Graphic Novels & Manga](https://www.penguinrandomhouse.com/books/graphic-novels-manga/)
 * [The Must-Read Books of 2024](https://www.penguinrandomhouse.com/the-read-down/the-best-books-of-2024/)
 * [Popular Books in Spanish](https://www.penguinrandomhouse.com/cc/que-quieres-leer-hoy/?cat=Novedades)
 * [Coming Soon](https://www.penguinrandomhouse.com/books/all-coming-soon/)
@@ -102,7 +102,7 @@ Audio
 * [Picture Books](https://www.penguinrandomhouse.com/books/picture-books-childrens/)
 * [Guided Reading Levels](https://www.penguinrandomhouse.com/books/leveled-readers/)
 * [Middle Grade](https://www.penguinrandomhouse.com/books/middle-grade-books-childrens/)
-* [Activity Books](https://www.penguinrandomhouse.com/books/activity-books-childrens/)
+* [Graphic Novels](https://www.penguinrandomhouse.com/books/graphic-novels-childrens/)
 * <
     
     [View All\>](https://www.penguinrandomhouse.com/books/childrens/)
@@ -214,7 +214,7 @@ Popular
 
 * * *
 
-[New & Noteworthy](https://www.penguinrandomhouse.com/books/all-new-releases)[Bestsellers](https://www.penguinrandomhouse.com/books/all-best-sellers/)[Popular Series](https://www.penguinrandomhouse.com/the-read-down/series/)[The Must-Read Books of 2024](https://www.penguinrandomhouse.com/the-read-down/the-best-books-of-2024/)[Popular Books in Spanish](https://www.penguinrandomhouse.com/cc/que-quieres-leer-hoy/?cat=Novedades)[Coming Soon](https://www.penguinrandomhouse.com/books/all-coming-soon/)
+[New & Noteworthy](https://www.penguinrandomhouse.com/books/all-new-releases)[Bestsellers](https://www.penguinrandomhouse.com/books/all-best-sellers/)[Graphic Novels & Manga](https://www.penguinrandomhouse.com/books/graphic-novels-manga/)[The Must-Read Books of 2024](https://www.penguinrandomhouse.com/the-read-down/the-best-books-of-2024/)[Popular Books in Spanish](https://www.penguinrandomhouse.com/cc/que-quieres-leer-hoy/?cat=Novedades)[Coming Soon](https://www.penguinrandomhouse.com/books/all-coming-soon/)
 
 [Fiction](https://www.penguinrandomhouse.com/books/fiction/)
 
@@ -262,7 +262,7 @@ Categories
 
 * * *
 
-[Board Books](https://www.penguinrandomhouse.com/books/board-books-childrens/)[Picture Books](https://www.penguinrandomhouse.com/books/picture-books-childrens/)[Guided Reading Levels](https://www.penguinrandomhouse.com/books/leveled-readers/)[Middle Grade](https://www.penguinrandomhouse.com/books/middle-grade-books-childrens/)[Activity Books](https://www.penguinrandomhouse.com/books/activity-books-childrens/)[View All \>](https://www.penguinrandomhouse.com/books/childrens/)
+[Board Books](https://www.penguinrandomhouse.com/books/board-books-childrens/)[Picture Books](https://www.penguinrandomhouse.com/books/picture-books-childrens/)[Guided Reading Levels](https://www.penguinrandomhouse.com/books/leveled-readers/)[Middle Grade](https://www.penguinrandomhouse.com/books/middle-grade-books-childrens/)[Graphic Novels](https://www.penguinrandomhouse.com/books/graphic-novels-childrens/)[View All \>](https://www.penguinrandomhouse.com/books/childrens/)
 
 [The Best Picture Books of 2024
 
