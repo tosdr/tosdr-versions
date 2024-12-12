@@ -196,57 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Henry Venter
+Johan Botha - Brand Xplosion
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=11752466)  
-Frameless Fanatix (Pty) Ltd.
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=211914601)  
+Vplay Grafix
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=103423431)  
-Lizzy Pop PTY(Ltd)
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=181880369)  
+Lion Software Develepment
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=122310431)  
-Highlands Auto Engineering
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=18685422)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=45555546)  
-MONSTER CONNECT (PTY) LTD
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=107606673)  
+KTEN PARTS
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=179065429)  
-AFS Electrical
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=108787290)  
+BEE SURE CONSULTING (PTY) LTD
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=140333494)  
-Wiselink Broadband Vryheid
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=98335548)  
+Fox Alarms & Security CC
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=84993308)  
-LEONARD
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=155894215)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=132940189)  
-Brilliant Roof Products
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=2637217)  
+van Schaik rentals
 
-![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=81272709)  
-Eruca (PTY)Ltd
+![valued client Eruca](https://www.invoicesonline.co.za/scripts/image.php?bid=8439&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=97605530)  
+Eruca
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=170113111)  
-Henry's Home Renovations
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=87401878)  
+Oukraal Merino's
 
-![valued client Mmakoma projects ](https://www.invoicesonline.co.za/scripts/image.php?bid=5917&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=48477267)  
-Mmakoma projects
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=127349284)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=83439544)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=9058945)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=177024743)  
-MONSTER SECURITY GUARDING
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=91688040)  
+West Coast Horse Trails
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=141942627)  
-VIR Electrical (PTY) LTD
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=38512783)  
+Cape Adventure Zone
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=158666632)  
-National Elite Security Services (PTY) LTD
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=206043668)  
+Repairs In Motion
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
