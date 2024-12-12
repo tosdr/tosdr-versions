@@ -177,11 +177,11 @@
     
     11 月 28, 2024 2
     
-* [![2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro 对所有人免费，包括商用 9](https://www.appinn.com/wp-content/uploads/2024/05/Appinn-Feature-images-2024-11-12T121639.911-115x115.jpg "2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro 对所有人免费，包括商用 9")](https://www.appinn.com/vmware-free-workstation-pro-and-fusion-pro/ "2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro 对所有人免费，包括商用")
+* [![Everything 1.5a 新版发布：全新 SDK3 集成平台+搜索性能优化。支持拼音搜索（全拼、首字母）、全文搜索](https://www.appinn.com/wp-content/themes/mts_best/images/nothumb-best-widgetthumb.png)](https://www.appinn.com/everything-1-5-1385a/ "Everything 1.5a 新版发布：全新 SDK3 集成平台+搜索性能优化。支持拼音搜索（全拼、首字母）、全文搜索")
     
-    [2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro …](https://www.appinn.com/vmware-free-workstation-pro-and-fusion-pro/ "2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro 对所有人免费，包括商用")
+    [Everything 1.5a 新版发布：全新 SDK3 集成平台+搜索性能优化。支持拼音搜索（全拼、首字母）、全文搜索](https://www.appinn.com/everything-1-5-1385a/ "Everything 1.5a 新版发布：全新 SDK3 集成平台+搜索性能优化。支持拼音搜索（全拼、首字母）、全文搜索")
     
-    11 月 12, 2024 1
+    11 月 29, 2024 1
     
 
 ### 分类
