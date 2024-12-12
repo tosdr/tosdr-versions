@@ -330,12 +330,6 @@ News
 
 Elektrische Türschlösser sicher steuern – Homematic IP Universal Motorschloss Controller und Universal Türöffner Controller](https://homematic-ip.com/de/news/smart-home-elektrische-tuerschloesser-steuern)
 
- [![](/sites/default/files/styles/thumbnail/public/images/neuheiten_press_news-grafik_3.jpg.webp?itok=P10YaEAs)
-
-News
-
-Macht jeden Garten smart: Das neue Homematic IP Schalt-Mess-Kabel – außen](https://homematic-ip.com/de/news/schalt-mess-kabel-aussen-smarter-garten)
-
 [Dez.
 
 12-14
