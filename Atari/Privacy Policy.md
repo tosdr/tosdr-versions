@@ -326,9 +326,9 @@ New
 
 ###### New Arrivals
 
-[![](files/RB_Gaming-Blend_combo_beanpile_02_1.jpg)
+[![](files/stockings.jpg)
 
-Roasty Buds](https://www.atari.com/collections/roasty-buds-x-atari-vcs)
+Stocking Stuffers](https://www.atari.com/collections/stocking-stuffers)
 
 [![](files/atari_merch_nov2024-350_1.jpg)
 
@@ -348,9 +348,9 @@ Menu
 
 ###### New Arrivals
 
-[![](files/RB_Gaming-Blend_combo_beanpile_02_1.jpg)
+[![](files/stockings.jpg)
 
-Roasty Buds](https://www.atari.com/collections/roasty-buds-x-atari-vcs)
+Stocking Stuffers](https://www.atari.com/collections/stocking-stuffers)
 
 [![](files/atari_merch_nov2024-350_1.jpg)
 
@@ -417,20 +417,18 @@ A re-imagining of the Atari 2600 cult classic.
 
 [Coming Soon](https://www.atari.com/products/fatal-run-2089)
 
-THE HOLIDAYS ARE HERE
----------------------
+NEW HOLIDAY COLLECTIONS
+-----------------------
 
-[![](files/atari_merch_nov2024-206_1_1.jpg)
+[![](files/stockings.jpg)
 
-### 20% OFF ATARI GEAR
+### The perfect Stocking Stuffers
 
-Hoodies, hats, tees and more are on sale!
+Shop Now](https://www.atari.com/collections/stocking-stuffers)[![](files/atari_merch_nov2024-206_1_1.jpg)
 
-Shop Black Friday Deals](https://atari.com/collections/apparel-accessories?filter.p.product_type=Bags&filter.p.product_type=Bottoms&filter.p.product_type=Hats&filter.p.product_type=Jackets&filter.p.product_type=Shirts&filter.p.product_type=Sweatshirts&sort_by=best-selling)[![](files/6_4375e4fb-6be0-458c-91ca-c9196f238680.jpg)
+### 20% off Atari Merch
 
-### Light up your game room
-
-SHOP NOW](https://www.atari.com/products/atari-neon-led-sign)
+SHOP NOW](https://www.atari.com/collections/apparel-accessories)
 
 ### Holiday Best Sellers
 
@@ -466,21 +464,21 @@ Regular price $131.73
 
 Unit price /  per](https://www.atari.com/products/black-friday-exclusive-2600-console-w-2-joysticks) 
 
-[![Atari Joystick Decanter Set](files/ThumbsUp_-ATAORGDECSET-Image1-291024-Dalia.jpg)
+[![Atari 2600/7800: A Visual Compendium](files/010_Atari_1800x1200_56e7b168-9969-4340-b3ce-d812afe1152f.webp)
 
-![Atari Joystick Decanter Set](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
+![Atari 2600/7800: A Visual Compendium](files/043_Atari_1408x928_7a84c211-fa9b-42af-9342-1e3bd369fb6d.webp)
 
 Add to cart
 
-Best Seller
+NEW
 
-##### Atari Joystick Decanter Set
+##### Atari 2600/7800: A Visual Compendium
 
-Regular price Sale price $125.00
+Regular price $52 Sale price $52.00
 
-Regular price $125
+Regular price $52
 
-Unit price /  per](https://www.atari.com/products/atari-joystick-decanter-set) 
+Unit price /  per](https://www.atari.com/products/atari-2600-7800-a-visual-compendium) 
 
 [![Oversized Fuji Hoodie](files/fe661587-106c-4959-86f6-799dd541558bcopy.jpg)
 
@@ -510,6 +508,22 @@ Regular price $40
 
 Unit price /  per](https://www.atari.com/products/oversized-fuji-hoodie)         
 
+[![Atari Joystick Decanter Set](files/ThumbsUp_-ATAORGDECSET-Image1-291024-Dalia.jpg)
+
+![Atari Joystick Decanter Set](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
+
+Add to cart
+
+Best Seller
+
+##### Atari Joystick Decanter Set
+
+Regular price Sale price $125.00
+
+Regular price $125
+
+Unit price /  per](https://www.atari.com/products/atari-joystick-decanter-set) 
+
 [![7800+ Controller Mega Bundle](files/7800bundle.jpg)
 
 ![7800+ Controller Mega Bundle](files/Atari_10102024_257_2acf285d-0a69-4d16-8e20-8eb1747f08ac.jpg)
@@ -526,29 +540,11 @@ Regular price $163.97
 
 Unit price /  per](https://www.atari.com/products/7800-controller-mega-bundle) 
 
-[![Atari 2600/7800: A Visual Compendium](files/010_Atari_1800x1200_56e7b168-9969-4340-b3ce-d812afe1152f.webp)
-
-![Atari 2600/7800: A Visual Compendium](files/043_Atari_1408x928_7a84c211-fa9b-42af-9342-1e3bd369fb6d.webp)
-
-Add to cart
-
-NEW
-
-##### Atari 2600/7800: A Visual Compendium
-
-Regular price $52 Sale price $52.00
-
-Regular price $52
-
-Unit price /  per](https://www.atari.com/products/atari-2600-7800-a-visual-compendium) 
-
 [![Atari Neon LED Sign (12" x 13")](files/ATARI_73fded4d-4a6c-4240-a6f2-57cb5d4ecb9b.jpg)
 
 ![Atari Neon LED Sign (12" x 13")](files/2_7a0610c5-3e6c-45b9-8002-ee83821f5588.jpg)
 
-Add to cart
-
-NEW
+Sold out
 
 ##### Atari Neon LED Sign (12" x 13")
 
@@ -730,9 +726,7 @@ Unit price /  per](https://www.atari.com/products/pong-speakerhat) 
 
 ![Atari Neon LED Sign (12" x 13")](files/2_7a0610c5-3e6c-45b9-8002-ee83821f5588.jpg)
 
-Add to cart
-
-NEW
+Sold out
 
 ##### Atari Neon LED Sign (12" x 13")
 
