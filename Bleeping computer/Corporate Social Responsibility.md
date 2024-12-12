@@ -36,18 +36,18 @@
         
         Chinese hackers use Visual Studio Code tunnels for remote access](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-visual-studio-code-tunnels-for-remote-access/)
     
+    * [![Hunk Companion WordPress plugin exploited to install vulnerable plugins](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Hunk Companion WordPress plugin exploited to install vulnerable plugins](https://www.bleepingcomputer.com/news/security/hunk-companion-wordpress-plugin-exploited-to-install-vulnerable-plugins/)
+    * [![Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024 MITRE ATT&CK Evaluation](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024 MITRE ATT&CK Evaluation](https://www.bleepingcomputer.com/news/security/cynet-delivers-100-percent-protection-and-100-percent-detection-visibility-in-the-2024-mitre-attandck-evaluation/)
+    * [![New EagleMsgSpy Android spyware used by Chinese police, researchers say](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        New EagleMsgSpy Android spyware used by Chinese police, researchers say](https://www.bleepingcomputer.com/news/security/new-eaglemsgspy-android-spyware-used-by-chinese-police-researchers-say/)
     * [![Microsoft lifts Windows 11 24H2 block on PCs with USB scanners](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft lifts Windows 11 24H2 block on PCs with USB scanners](https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-24h2-block-on-pcs-with-usb-scanners/)
-    * [![Improve your Microsoft  skills with this $60 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Improve your Microsoft skills with this $60 course bundle deal](https://www.bleepingcomputer.com/offer/deals/improve-your-microsoft-skills-with-this-60-course-bundle-deal/)
-    * [![Facebook, Instagram, WhatsApp hit by massive worldwide outage](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Facebook, Instagram, WhatsApp hit by massive worldwide outage](https://www.bleepingcomputer.com/news/technology/facebook-instagram-whatsapp-hit-by-massive-worldwide-outage/)
-    * [![Russian Turla hackers hit Starlink-connected devices in Ukraine](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Russian Turla hackers hit Starlink-connected devices in Ukraine](https://www.bleepingcomputer.com/news/security/russian-turla-hackers-hit-starlink-connected-devices-in-ukraine/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
