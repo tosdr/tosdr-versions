@@ -3,10 +3,8 @@
 [![Traffic Factory](https://www.trafficfactory.com/wp-content/uploads/2019/06/3.png)](https://www.trafficfactory.com/index.html)
 
 * [CONTACT US](https://www.trafficfactory.com/contact-us/index.html)
-* [BLOG](https://www.trafficfactory.com/index1469.html?page_id=18)
 
 * [CONTACT US](https://www.trafficfactory.com/contact-us/index.html)
-* [BLOG](https://www.trafficfactory.com/index1469.html?page_id=18)
 
 [REGISTER NOW](https://admin.trafficfactory.com/signup/getting-started)
 
@@ -15,10 +13,8 @@
 [![Traffic Factory](https://www.trafficfactory.com/wp-content/uploads/2019/06/3.png)](https://www.trafficfactory.com/index.html)
 
 * [CONTACT US](https://www.trafficfactory.com/contact-us/index.html)
-* [BLOG](https://www.trafficfactory.com/index1469.html?page_id=18)
 
 * [CONTACT US](https://www.trafficfactory.com/contact-us/index.html)
-* [BLOG](https://www.trafficfactory.com/index1469.html?page_id=18)
 
 [REGISTER NOW](https://main.trafficfactory.biz/users/sign_up)
 
