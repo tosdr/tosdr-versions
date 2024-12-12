@@ -20,16 +20,16 @@ Thursday, December 12 2024
 
 Latest
 
-* [Samsung Galaxy Z Flip 7 leak sounds like terrible news](https://digitpatrox.com/samsung-galaxy-z-flip-7-leak-sounds-like-terrible-news/)
-* [Hunk Companion WordPress plugin exploited to install vulnerable plugins](https://digitpatrox.com/hunk-companion-wordpress-plugin-exploited-to-install-vulnerable-plugins/)
-* [How to responsibly get rid of the stuff you’ve decluttered](https://digitpatrox.com/how-to-responsibly-get-rid-of-the-stuff-youve-decluttered/)
-* [Sonos plans return-to-office push for its product teams](https://digitpatrox.com/sonos-plans-return-to-office-push-for-its-product-teams/)
-* [Sony Confirms Intent to Buy FromSoftware Parent Company Kadokawa](https://digitpatrox.com/sony-confirms-intent-to-buy-fromsoftware-parent-company-kadokawa/)
-* [Ransomware gang demands $2 million from Tennessee school district after cyber attack](https://digitpatrox.com/ransomware-gang-demands-2-million-from-tennessee-school-district-after-cyber-attack/)
-* [Open source malware surged by 156% in 2024](https://digitpatrox.com/open-source-malware-surged-by-156-in-2024/)
-* [Federal judge slaps down Automattic, granting temporary injunction to WP Engine in ongoing WordPress squabble – Computerworld](https://digitpatrox.com/federal-judge-slaps-down-automattic-granting-temporary-injunction-to-wp-engine-in-ongoing-wordpress-squabble-computerworld/)
-* [Google’s Gemini 2.0 Is All About Efficiency](https://digitpatrox.com/googles-gemini-2-0-is-all-about-efficiency/)
-* [How to check if someone is using my identity](https://digitpatrox.com/how-to-check-if-someone-is-using-my-identity/)
+* [The Best Way to Bypass a Paywall to Read an Article for Free Online](https://digitpatrox.com/the-best-way-to-bypass-a-paywall-to-read-an-article-for-free-online/)
+* [Best Small Kitchen Appliances of 2024](https://digitpatrox.com/best-small-kitchen-appliances-of-2024/)
+* [The Best Optical Disk Technology You (Probably) Never Heard Of](https://digitpatrox.com/the-best-optical-disk-technology-you-probably-never-heard-of/)
+* [Apple CEO Tim Cook hails company’s “deep connection” with UK as figures show it’s invested £18 billion since 2019](https://digitpatrox.com/apple-ceo-tim-cook-hails-companys-deep-connection-with-uk-as-figures-show-its-invested-18-billion-since-2019/)
+* [6 Types of Network Address Translation: Which One to Use?](https://digitpatrox.com/6-types-of-network-address-translation-which-one-to-use/)
+* [I just tested the new iOS 18.2 Apple Intelligence features — and I’m surprisingly underwhelmed](https://digitpatrox.com/i-just-tested-the-new-ios-18-2-apple-intelligence-features-and-im-surprisingly-underwhelmed/)
+* [Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024 MITRE ATT&CK Evaluation](https://digitpatrox.com/cynet-delivers-100-protection-and-100-detection-visibility-in-the-2024-mitre-attck-evaluation/)
+* [Steam is adding a new default option for game updates](https://digitpatrox.com/steam-is-adding-a-new-default-option-for-game-updates/)
+* [NYT Strands Today: Hints and Answers for December 12, 2024](https://digitpatrox.com/nyt-strands-today-hints-and-answers-for-december-12-2024/)
+* [Russia is targeting unpatched vulnerabilities – what can tech leaders do to shore up defenses?](https://digitpatrox.com/russia-is-targeting-unpatched-vulnerabilities-what-can-tech-leaders-do-to-shore-up-defenses/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/TwS5Q4RoRWN2DWqP6VVHmT-1200-80.jpg)](https://digitpatrox.com/samsung-galaxy-z-flip-7-leak-sounds-like-terrible-news/)
+* [![](https://lifehacker.com/imagery/articles/01HF2GTD2GVD2SP033WMTR85N6/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-best-way-to-bypass-a-paywall-to-read-an-article-for-free-online/)
     
-    [Samsung Galaxy Z Flip 7 leak sounds like terrible news](https://digitpatrox.com/samsung-galaxy-z-flip-7-leak-sounds-like-terrible-news/)
+    [The Best Way to Bypass a Paywall to Read an Article for Free Online](https://digitpatrox.com/the-best-way-to-bypass-a-paywall-to-read-an-article-for-free-online/)
     
-    3 minutes ago
+    2 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2023/12/07/back-2.jpg)](https://digitpatrox.com/hunk-companion-wordpress-plugin-exploited-to-install-vulnerable-plugins/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733783908/prod/content/dam/CRO-Images-2024/Home/CR-Home-InlineHero-Best-Small-Kitchen-Appliances-1224)](https://digitpatrox.com/best-small-kitchen-appliances-of-2024/)
     
-    [Hunk Companion WordPress plugin exploited to install vulnerable plugins](https://digitpatrox.com/hunk-companion-wordpress-plugin-exploited-to-install-vulnerable-plugins/)
+    [Best Small Kitchen Appliances of 2024](https://digitpatrox.com/best-small-kitchen-appliances-of-2024/)
     
-    1 hour ago
+    12 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/z4o_quka4NN6sULON4iOr9s79qM=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/13725697/jbareham_190130_grid_four_up_01_2.jpg)](https://digitpatrox.com/how-to-responsibly-get-rid-of-the-stuff-youve-decluttered/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/an-optical-data-archive-with-several-cds-in-the-background.jpg)](https://digitpatrox.com/the-best-optical-disk-technology-you-probably-never-heard-of/)
     
-    [How to responsibly get rid of the stuff you’ve decluttered](https://digitpatrox.com/how-to-responsibly-get-rid-of-the-stuff-youve-decluttered/)
+    [The Best Optical Disk Technology You (Probably) Never Heard Of](https://digitpatrox.com/the-best-optical-disk-technology-you-probably-never-heard-of/)
     
-    1 hour ago
+    13 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/boijSjwT1cHyoZ9eG_HATmAkI7A=/0x0:4250x2834/1200x628/filters:focal(2125x1417:2126x1418)/cdn.vox-cdn.com/uploads/chorus_asset/file/25651493/_STK084_SONOS_A.png)](https://digitpatrox.com/sonos-plans-return-to-office-push-for-its-product-teams/)
+* [![](https://cdn.mos.cms.futurecdn.net/pW6djk3rLN4uTQ7xeB2adf-1200-80.jpg)](https://digitpatrox.com/apple-ceo-tim-cook-hails-companys-deep-connection-with-uk-as-figures-show-its-invested-18-billion-since-2019/)
     
-    [Sonos plans return-to-office push for its product teams](https://digitpatrox.com/sonos-plans-return-to-office-push-for-its-product-teams/)
+    [Apple CEO Tim Cook hails company’s “deep connection” with UK as figures show it’s invested £18 billion since 2019](https://digitpatrox.com/apple-ceo-tim-cook-hails-companys-deep-connection-with-uk-as-figures-show-its-invested-18-billion-since-2019/)
     
-    1 hour ago
+    52 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/12/Sony-and-Kadokawa-logo-with-all-FromSoftware-games.jpg)](https://digitpatrox.com/sony-confirms-intent-to-buy-fromsoftware-parent-company-kadokawa/)
+* [![](https://assets.techrepublic.com/uploads/2024/12/network-address-translation-featured-image-12102024-min.png)](https://digitpatrox.com/6-types-of-network-address-translation-which-one-to-use/)
     
-    [Sony Confirms Intent to Buy FromSoftware Parent Company Kadokawa](https://digitpatrox.com/sony-confirms-intent-to-buy-fromsoftware-parent-company-kadokawa/)
+    [6 Types of Network Address Translation: Which One to Use?](https://digitpatrox.com/6-types-of-network-address-translation-which-one-to-use/)
     
-    2 hours ago
+    56 minutes ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 minutes ago
+* [2 minutes ago
     
-    ### Samsung Galaxy Z Flip 7 leak sounds like terrible news](https://digitpatrox.com/samsung-galaxy-z-flip-7-leak-sounds-like-terrible-news/)
-* [1 hour ago
+    ### The Best Way to Bypass a Paywall to Read an Article for Free Online](https://digitpatrox.com/the-best-way-to-bypass-a-paywall-to-read-an-article-for-free-online/)
+* [12 minutes ago
     
-    ### Hunk Companion WordPress plugin exploited to install vulnerable plugins](https://digitpatrox.com/hunk-companion-wordpress-plugin-exploited-to-install-vulnerable-plugins/)
-* [1 hour ago
+    ### Best Small Kitchen Appliances of 2024](https://digitpatrox.com/best-small-kitchen-appliances-of-2024/)
+* [13 minutes ago
     
-    ### How to responsibly get rid of the stuff you’ve decluttered](https://digitpatrox.com/how-to-responsibly-get-rid-of-the-stuff-youve-decluttered/)
+    ### The Best Optical Disk Technology You (Probably) Never Heard Of](https://digitpatrox.com/the-best-optical-disk-technology-you-probably-never-heard-of/)
 
 Most Popular Topics
 
-* [October 24, 2024
+* [September 18, 2024
     
-    ### M4 MacBook Pro Leaks: Everything We Know So Far](https://digitpatrox.com/m4-macbook-pro-leaks-everything-we-know-so-far/)
-* [3 weeks ago
+    ### River Delta Unified School District data breach: ransomware gang claims responsibility](https://digitpatrox.com/river-delta-unified-school-district-data-breach-ransomware-gang-claims-responsibility/)
+* [November 5, 2024
     
-    ### Controversial Windows Recall Feature Now Available for Testing](https://digitpatrox.com/controversial-windows-recall-feature-now-available-for-testing/)
-* [October 18, 2024
+    ### Why ‘space as a service’ is helping businesses meet worker demands – even as tech execs push ‘return to office’](https://digitpatrox.com/why-space-as-a-service-is-helping-businesses-meet-worker-demands-even-as-tech-execs-push-return-to-office/)
+* [1 day ago
     
-    ### ESET partner breached to send data wipers to Israeli orgs](https://digitpatrox.com/eset-partner-breached-to-send-data-wipers-to-israeli-orgs/)
+    ### Windows 11 24H2 and 23H2 receive December 2024 updates with KB5048667 and KB5048685](https://digitpatrox.com/windows-11-24h2-and-23h2-receive-december-2024-updates-with-kb5048667-and-kb5048685/)
 
 Last Modified Topics
 
+* [2 hours ago
+    
+    ### Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024 MITRE ATT&CK Evaluation](https://digitpatrox.com/cynet-delivers-100-protection-and-100-detection-visibility-in-the-2024-mitre-attck-evaluation/)
+* [2 hours ago
+    
+    ### Steam is adding a new default option for game updates](https://digitpatrox.com/steam-is-adding-a-new-default-option-for-game-updates/)
 * [3 hours ago
     
-    ### Open source malware surged by 156% in 2024](https://digitpatrox.com/open-source-malware-surged-by-156-in-2024/)
-* [4 hours ago
-    
-    ### Federal judge slaps down Automattic, granting temporary injunction to WP Engine in ongoing WordPress squabble – Computerworld](https://digitpatrox.com/federal-judge-slaps-down-automattic-granting-temporary-injunction-to-wp-engine-in-ongoing-wordpress-squabble-computerworld/)
-* [4 hours ago
-    
-    ### Google’s Gemini 2.0 Is All About Efficiency](https://digitpatrox.com/googles-gemini-2-0-is-all-about-efficiency/)
+    ### NYT Strands Today: Hints and Answers for December 12, 2024](https://digitpatrox.com/nyt-strands-today-hints-and-answers-for-december-12-2024/)
 
 Most Viewed Topics
 
@@ -249,7 +249,7 @@ Most Viewed Topics
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
