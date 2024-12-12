@@ -281,7 +281,7 @@ article 3 days ago](https://www.nasa.gov/humans-in-space/becoming-an-astronaut/2
 
 ### Matt Dominick’s X Account: A Visual Journey from Space
 
-article 7 days ago](https://www.nasa.gov/missions/station/matt-dominicks-x-account-a-visual-journey-from-space/)
+article 1 week ago](https://www.nasa.gov/missions/station/matt-dominicks-x-account-a-visual-journey-from-space/)
 
 ### Highlights
 
@@ -291,13 +291,13 @@ article 7 days ago](https://www.nasa.gov/missions/station/matt-dominicks-x-accou
 
 ### NASA-DOD Study: Saltwater to Widely Taint Coastal Groundwater by 2100
 
-article 20 hours ago](https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/)[![NASA Study: Crops, Forests Responding to Changing Rainfall Patterns](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/1-precip%20map.jpg)
+article 23 hours ago](https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/)[![NASA Study: Crops, Forests Responding to Changing Rainfall Patterns](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/1-precip%20map.jpg)
 
 4 min read
 
 ### NASA Study: Crops, Forests Responding to Changing Rainfall Patterns
 
-article 20 hours ago](https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/)[![Data taken by NASA’s PACE and the international SWOT](https://www.nasa.gov/wp-content/uploads/2024/12/swot-pace-still-thumbnail.png?w=1024)
+article 23 hours ago](https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/)[![Data taken by NASA’s PACE and the international SWOT](https://www.nasa.gov/wp-content/uploads/2024/12/swot-pace-still-thumbnail.png?w=1024)
 
 6 min read
 
@@ -313,7 +313,7 @@ article 3 days ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-sw
 
 ### NASA Performs First Aircraft Accident Investigation on Another World
 
-article 23 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/ingenuity-helicopter/nasa-performs-first-aircraft-accident-investigation-on-another-world/)[![JunoCam](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/PERIJOVE-37-POPUP-CLOUDS.png)
+article 1 day ago](https://www.nasa.gov/missions/mars-2020-perseverance/ingenuity-helicopter/nasa-performs-first-aircraft-accident-investigation-on-another-world/)[![JunoCam](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/PERIJOVE-37-POPUP-CLOUDS.png)
 
 2 min read
 
@@ -329,47 +329,47 @@ article 2 days ago](https://science.nasa.gov/science-research/heliophysics/scien
 
 ### Featured
 
-[![Found: First Actively Forming Galaxy as Lightweight as Young Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JD0MVRQ4ANVGZJV5PM1Z7AJM-1K.png)
+[![Roman Integrated Payload Assembly](https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy.jpg?w=819)
+
+4 min read
+
+### NASA Successfully Integrates Roman Mission’s Telescope, Instruments
+
+article 2 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-roman-missions-telescope-instruments/)[![Found: First Actively Forming Galaxy as Lightweight as Young Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JD0MVRQ4ANVGZJV5PM1Z7AJM-1K.png)
 
 6 min read
 
 ### Found: First Actively Forming Galaxy as Lightweight as Young Milky Way
 
-article 22 hours ago](https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/)[![Discovery Alert: A Planet with a ‘Tail’](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2024/03/WASP-69%20b%20Tail.jpg)
+article 1 day ago](https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/)[![Discovery Alert: A Planet with a ‘Tail’](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2024/03/WASP-69%20b%20Tail.jpg)
 
 4 min read
 
 ### Discovery Alert: A Planet with a ‘Tail’
 
-article 2 days ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-planet-with-a-tail/)[![Hubble Spots a Spiral in the Celestial River](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC1637_potw2449a.jpg)
-
-2 min read
-
-### Hubble Spots a Spiral in the Celestial River
-
-article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/)
+article 2 days ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-planet-with-a-tail/)
 
 ### Highlights
 
-[![Title slide for Open Science Success Stories with Dr Vla Fajardo](https://www.nasa.gov/wp-content/uploads/2024/10/success-stories-title-slide-valfajardo.jpg?w=1024)
+[![Title slide for OSDR Chats interview with Dr Jakub Mieczkowski](https://www.nasa.gov/wp-content/uploads/2024/12/osdr-chats-title-slide-mieczkowski.jpg?w=1024)
+
+2 min read
+
+### OSDR Chats with Dr Jakub Mieczkowski
+
+article 32 mins ago](https://www.nasa.gov/osdr-chats-with-dr-jakub-mieczkowski/)[![Title slide for Open Science Success Stories with Dr Vla Fajardo](https://www.nasa.gov/wp-content/uploads/2024/10/success-stories-title-slide-valfajardo.jpg?w=1024)
 
 1 min read
 
 ### Open Science Success Stories with Dr Val Fajardo
 
-article 18 hours ago](https://www.nasa.gov/open-science-success-stories-with-dr-val-fajardo/)[![Found: First Actively Forming Galaxy as Lightweight as Young Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JD0MVRQ4ANVGZJV5PM1Z7AJM-1K.png)
+article 21 hours ago](https://www.nasa.gov/open-science-success-stories-with-dr-val-fajardo/)[![Found: First Actively Forming Galaxy as Lightweight as Young Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JD0MVRQ4ANVGZJV5PM1Z7AJM-1K.png)
 
 6 min read
 
 ### Found: First Actively Forming Galaxy as Lightweight as Young Milky Way
 
-article 22 hours ago](https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/)[![NASA’s Ingenuity Mars Helicopter](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26238-ingentuity-ripples-cropped.jpg?w=1024)
-
-5 min read
-
-### NASA Performs First Aircraft Accident Investigation on Another World
-
-article 23 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/ingenuity-helicopter/nasa-performs-first-aircraft-accident-investigation-on-another-world/)
+article 1 day ago](https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 23 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/ingen
 
 ### Atmospheric Probe Shows Promise in Test Flight
 
-article 19 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/atmospheric-probe-shows-promise-in-test-flight/)[![A black drone with an orange top in flight in Nevada.](https://www.nasa.gov/wp-content/uploads/2024/12/drone-test.jpg?w=1024)
+article 22 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/atmospheric-probe-shows-promise-in-test-flight/)[![A black drone with an orange top in flight in Nevada.](https://www.nasa.gov/wp-content/uploads/2024/12/drone-test.jpg?w=1024)
 
 3 min read
 
@@ -395,7 +395,13 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-f
 
 ### Highlights
 
-[![Researchers Al Capps (seated) and Paul Borchers demonstrate Airspace Technology Demonstration 2 (ATD-2) tools that air traffic managers began testing in 2017.](https://www.nasa.gov/wp-content/uploads/2021/09/dsc_0007.jpg?w=1024)
+[![Animation showing air moving through a disc brake.](https://www.nasa.gov/wp-content/uploads/2024/12/orbis-2.gif?w=960)
+
+3 min read
+
+### NASA Gives The World a Brake
+
+article 30 mins ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/)[![Researchers Al Capps (seated) and Paul Borchers demonstrate Airspace Technology Demonstration 2 (ATD-2) tools that air traffic managers began testing in 2017.](https://www.nasa.gov/wp-content/uploads/2021/09/dsc_0007.jpg?w=1024)
 
 3 min read
 
@@ -407,35 +413,17 @@ article 2 weeks ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/an-e
 
 ### Amendment 71: F.11 Stand-Alone Landing Site-Agnostic Payloads and Research Investigations on the Surface of the Moon Final Text and Due Dates Released.
 
-article 2 weeks ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)[![Illustration of the BioSentinel spacecraft, flying past the Moon with the CubeSat's solar arrays fully deployed, facing the Sun.](https://www.nasa.gov/wp-content/uploads/2021/12/biosentinel_1920x1080.png?w=1024)
-
-8 min read
-
-### What is BioSentinel?
-
-article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/ames/what-is-biosentinel/)
+article 2 weeks ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-71-f-11-stand-alone-landing-site-agnostic-payloads-and-research-investigations-on-the-surface-of-the-moon-final-text-and-due-dates-released/)
 
 ### Featured
 
-[![A group of people are sitting at a desk looking at computers with headsets on. A man is pointing and smiling at one of the computer screens.](https://images-assets.nasa.gov/image/AFRC2024-0178-095/AFRC2024-0178-095~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+[![Children sitting in a circle around a newly planted Moon tree and learning about NASA's Artemis I mission.](https://www.nasa.gov/wp-content/uploads/2024/12/img-7413-adria-gillespie.jpg?w=1024)
 
 3 min read
 
-### NASA Experts Share Inspiring Stories of Perseverance to Students
+### They Grow So Fast: Moon Tree Progress Since NASA’s Artemis I Mission
 
-article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)[![Aaron Yazzie, a Navajo man with black hair and glasses, stands with his arms crossed. He wears business professional attire with a navy blue jacket and beaded Indigenous tie making the NASA meatball logo. Behind him a large model of NASA's Mars Perseverance rover is visible.](https://www.nasa.gov/wp-content/uploads/2024/11/dct-jpl-yazzie-01-2023-09-29-1-crop.jpg?w=1024)
-
-4 min read
-
-### Aaron Yazzie: Bridging Indigenous Heritage and Space Exploration
-
-article 2 weeks ago](https://www.nasa.gov/learning-resources/bridging-indigenous-heritage-and-space-exploration/)[![Students at NASA's Jet Propulsion Laboratory pose for photos around the laboratory wearing their eclipse glasses.](https://www.nasa.gov/wp-content/uploads/2023/03/38540233062-abf67c18dd-o.jpeg?w=985)
-
-2 min read
-
-### Why NASA Is a Great Place to Launch Your Career 
-
-article 3 weeks ago](https://www.nasa.gov/learning-resources/launch-your-career/)
+article 24 hours ago](https://www.nasa.gov/learning-resources/moon-tree-progress-since-nasas-artemis-i-mission/)
 
 ### Featured
 
