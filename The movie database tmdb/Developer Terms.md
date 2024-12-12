@@ -150,7 +150,7 @@ This Agreement was last updated on: October 20, 2023.
 * [Privacy Policy](https://www.themoviedb.org/privacy-policy)
 * [DMCA Policy](https://www.themoviedb.org/dmca-policy)
 
-Build e108467 (8285)
+Build 6d04522 (8287)
 
 Can't find a movie or TV show? Login to create it.
 
@@ -229,5 +229,3 @@ Want to rate or add this item to a list?
 Not a member?
 
 [Sign up and join the community](https://www.themoviedb.org/signup)
-
-You need to be logged in to continue. Click [here](https://www.themoviedb.org/login) to login or [here](https://www.themoviedb.org/signup) to sign up.
