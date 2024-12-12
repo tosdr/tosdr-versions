@@ -1235,7 +1235,7 @@ Network Technologies
 
 Careers
 
-* [Welcome to the #NetworkLife](https://mycareer.verizon.com/)
+* [Welcome to the #VTeamLife](https://mycareer.verizon.com/)
 * [Life at Verizon](https://mycareer.verizon.com/life-at-verizon/)
 * [Culture & Diversity](https://mycareer.verizon.com/life-at-verizon/work-culture/)
 * [Search Open Roles](https://mycareer.verizon.com/jobs/?search=&location=)
