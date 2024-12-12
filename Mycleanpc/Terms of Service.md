@@ -1,4 +1,4 @@
-[![MyCleanPC](/pagespeed_static/1.JiBnMqyl6S.gif)](https://www.mycleanpc.com/) [![MyCleanPC](images/logo-230x50-mycleanpc.com.svg)](https://www.mycleanpc.com/)
+[![MyCleanPC](images/mycleanpc-logo-white-168x41.png)](https://www.mycleanpc.com/) [![MyCleanPC](images/logo-230x50-mycleanpc.com.svg)](https://www.mycleanpc.com/)
 
 As seen on TV
 
@@ -13,11 +13,11 @@ Customer Support
 Powered by USTechSupport  
 Special offers when you call
 
-![CNN](/pagespeed_static/1.JiBnMqyl6S.gif)
+![CNN](images/xlogo-cnn-50x23.png.pagespeed.ic.w6hUlTbnfp.png)
 
-![FOX NEWS](/pagespeed_static/1.JiBnMqyl6S.gif)
+![FOX NEWS](images/xlogo-foxnews-50x50.png.pagespeed.ic.cMdyXe0jFE.png)
 
-![FOX BUSINESS](/pagespeed_static/1.JiBnMqyl6S.gif)
+![FOX BUSINESS](images/xlogo-foxbusiness-50x25.png.pagespeed.ic.9EEDh5c85G.png)
 
 TERMS OF SERVICE / END USER LICENSE AGREEMENT
 =============================================
@@ -187,7 +187,7 @@ IF YOU DO NOT WISH TO BE BOUND BY THIS AGREEMENT OR ANY REVISED AGREEMENT IN THE
     4. You may not assign any of your rights under this Agreement, and any such attempt will be void. RealDefense may assign its rights to any of its affiliates or subsidiaries, or to any successor in interest of any business associated with the Services.
     5. If any part of this Agreement is held or found to be invalid or unenforceable, that portion of the Agreement will be construed to be consistent with applicable law while the remaining portions of the Agreement remain in full force and effect.
 
-[![Powered by REALDEFENSE](/pagespeed_static/1.JiBnMqyl6S.gif)](https://www.realdefen.se/)
+[![Powered by REALDEFENSE](images/powered-by-realdefense-148x39.png)](https://www.realdefen.se/)
 
 [150 S Los Robles Ave. Suite 400
 
@@ -214,13 +214,13 @@ Pasadena, CA 91101](https://www.google.com/search?q=RealDefense)
 * [Compliance](https://www.mycleanpc.com/compliance.html)
 * [Sitemap](https://www.mycleanpc.com/sitemap.html)
 
-[![AppEsteem](/pagespeed_static/1.JiBnMqyl6S.gif)](https://customer.appesteem.com/certified?q=RealDefense)
+[![AppEsteem](images/xappesteem_seal_with_r-90x77.png.pagespeed.ic.-ezfaYup-L.png)](https://customer.appesteem.com/certified?q=RealDefense)
 
-![This site is protected by Trustwave's Trusted Commerce program](/pagespeed_static/1.JiBnMqyl6S.gif "This site is protected by Trustwave's Trusted Commerce program")
+![This site is protected by Trustwave's Trusted Commerce program](https://sealserver.trustwave.com/seal_image.php?customerId=43c164a5135e4aafa40260a4e8656b46&size=105x54&style=invert "This site is protected by Trustwave's Trusted Commerce program")
 
-[![BBB A+ Accredited Business](/pagespeed_static/1.JiBnMqyl6S.gif)](https://www.bbb.org/losangelessiliconvalley/business-reviews/computer-hardware/ustech-support-in-santa-monica-ca-13196224)
+[![BBB A+ Accredited Business](images/xBBB-72x50.png.pagespeed.ic.Q8ZDPmhfs2.png)](https://www.bbb.org/losangelessiliconvalley/business-reviews/computer-hardware/ustech-support-in-santa-monica-ca-13196224)
 
-[![GeoTrust](/pagespeed_static/1.JiBnMqyl6S.gif)](https://www.geocerts.com/ssl-checker?domain=www.mycleanpc.com#domain)
+[![GeoTrust](images/xgt-secured-seal-90x43.gif.pagespeed.ic.IErs5SxiUT.png)](https://www.geocerts.com/ssl-checker?domain=www.mycleanpc.com#domain)
 
 [](https://www.facebook.com/mycleanpc/)
 
