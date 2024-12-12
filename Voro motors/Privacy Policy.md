@@ -1,12 +1,12 @@
 Γ
 
-                                                                 Privacy Policy - VORO MOTORS                   
+                                                                     
 
-       
+Privacy Policy - VORO MOTORS                              
 
-[**Preorders for EMOVE Cruiser v2 dual motors is live! 🎉**](https://www.voromotors.com/en-gb/products/emove-cruiser-v2 "https://www.voromotors.com/en-gb/products/emove-cruiser-v2")
+[**Shop Now for the NEW EMOVE RoadRunner V3! 🎉**](https://www.voromotors.com/products/emove-roadrunner-v3-seated-electric-scooter "EMOVE Roadrunner V3 - World's First Electric Scooter Bike Hybrid")
 
-[](https://www.voromotors.com/en-gb/products/emove-cruiser-v2 "https://www.voromotors.com/en-gb/products/emove-cruiser-v2")**🎄**[Order before Dec 18 to receive by Christmas](https://www.voromotors.com/en-gb/products/emove-cruiser-v2 "https://www.voromotors.com/en-gb/products/emove-cruiser-v2")
+[**🎄**Order before Dec 18 to receive by Christmas](https://www.voromotors.com/products/emove-roadrunner-v3-seated-electric-scooter "EMOVE Roadrunner V3 - World's First Electric Scooter Bike Hybrid")
 
 Menu
 
@@ -18,7 +18,7 @@ Menu
         * [Roadster](https://www.voromotors.com/products/roadster)
         * [RoadRunner SE](https://www.voromotors.com/products/emove-roadrunner-se-light-weight-entry-level-seated-electric-scooter)
         * [RoadRunner V2](https://www.voromotors.com/products/emove-roadrunner)
-        * [RoadRunner V3 Waitlist](https://www.voromotors.com/pages/roadrunner-v3-waitlist)
+        * [RoadRunner V3](https://www.voromotors.com/products/emove-roadrunner-v3-seated-electric-scooter)
         * [RoadRunner Pro](https://www.voromotors.com/products/emove-roadrunner-pro-seated-electric-scooter)
     * [Inmotion Electric Scooters](https://www.voromotors.com/collections/inmotion-electric-scooters)
         * [RS Midnight](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter)
@@ -113,9 +113,9 @@ Menu
 
 [0](https://www.voromotors.com/cart "Cart")
 
-[**Preorders for EMOVE Cruiser v2 dual motors is live! 🎉**](https://www.voromotors.com/en-gb/products/emove-cruiser-v2 "https://www.voromotors.com/en-gb/products/emove-cruiser-v2")
+[**Shop Now for the NEW EMOVE RoadRunner V3! 🎉**](https://www.voromotors.com/products/emove-roadrunner-v3-seated-electric-scooter "EMOVE Roadrunner V3 - World's First Electric Scooter Bike Hybrid")
 
-[](https://www.voromotors.com/en-gb/products/emove-cruiser-v2 "https://www.voromotors.com/en-gb/products/emove-cruiser-v2")**🎄**[Order before Dec 18 to receive by Christmas](https://www.voromotors.com/en-gb/products/emove-cruiser-v2 "https://www.voromotors.com/en-gb/products/emove-cruiser-v2")
+[**🎄**Order before Dec 18 to receive by Christmas](https://www.voromotors.com/products/emove-roadrunner-v3-seated-electric-scooter "EMOVE Roadrunner V3 - World's First Electric Scooter Bike Hybrid")
 
 * [](mailto:support@voromotors.com "Email VORO MOTORS")
 * [](https://www.facebook.com/voromotors/?hc_ref=ARQt5oqSRDb3O_2dEeqJf59C-0aG1zH3i68aiYoxYjZddTaL3EBY2I-npawa3-pm4zY&fref=nf&__xts__[0]=68.ARBnR8fjq1PI-62n0AGbymqjO7N1yW0RJu0-fc_uFFEiwGCxljiit_Cqr9RcgQSywZ9gXhwCLM9rWCyHk9BtF7kd7J4Zp0ay3rj9-wuGn6FvpyK3pQhZGnD_jRYFDPhgQg00Bahz2QH9qjJcsbvnGurdzantzaIoLXFjQBUesFZQ0hu5P2V_m0jsAFF4-spGlFIhonboGzEhhvyK8m22L7XU_fmStWE3-GWxJdGVI_aPRBfTJm_42V5uqUk46OE1wIRkFnysjCUacVYdvKvPdzGJEbjV7nBu6FdQhyTA0F8ochmKtT8_epk&__tn__=kC-R "VORO MOTORS on Facebook")
@@ -159,7 +159,7 @@ Continue Shopping
         * [Roadster](https://www.voromotors.com/products/roadster)
         * [RoadRunner SE](https://www.voromotors.com/products/emove-roadrunner-se-light-weight-entry-level-seated-electric-scooter)
         * [RoadRunner V2](https://www.voromotors.com/products/emove-roadrunner)
-        * [RoadRunner V3 Waitlist](https://www.voromotors.com/pages/roadrunner-v3-waitlist)
+        * [RoadRunner V3](https://www.voromotors.com/products/emove-roadrunner-v3-seated-electric-scooter)
         * [RoadRunner Pro](https://www.voromotors.com/products/emove-roadrunner-pro-seated-electric-scooter)
     * [Inmotion Electric Scooters](https://www.voromotors.com/collections/inmotion-electric-scooters)
         * [RS Midnight](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter)
