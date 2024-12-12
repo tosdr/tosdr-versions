@@ -440,7 +440,7 @@ Load Your Saved Config
 
  Load
 
-Christmas Guarantee Delivery With Rush Service | Order by 12/11/2024 [More Details](https://www.cyberpowerpc.com/page/christmas-holiday/) [Shop Now](https://www.cyberpowerpc.com/page/Mega-Special/)
+Christmas Guarantee Delivery For Prebuilts Only | Order by 12/18/2024 [More Details](https://www.cyberpowerpc.com/page/christmas-holiday/) [Shop Now](https://www.cyberpowerpc.com/page/Mega-Special/)
 
 [![Windows 11](/template/common/images/banners/Windows11_Banner_219x32_blue.png?v2)](https://www.cyberpowerpc.com/page/Microsoft/Windows-11/)
 
