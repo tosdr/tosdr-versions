@@ -143,8 +143,6 @@ Krausestraße 31
 Phone: +49-40-4807473 (limited availability by telephone, no support!)  
 Email: datenschutz@perfect-privacy.com (no support!)
 
-Our data protection officer is a member of German Association for Data Protection and Data Security (GDD).
-
 4\. Data collection on our website
 ----------------------------------
 
