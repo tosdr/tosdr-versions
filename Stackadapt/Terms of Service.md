@@ -1464,8 +1464,6 @@ Submit
 
 This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
 
-reCAPTCHA Validation Failed.
-
 Product
 
 * [Plan Campaigns](https://www.stackadapt.com/campaign-planning)
