@@ -95,8 +95,8 @@
     
     * [Internet über DSL](#)
         * [DSL Tarife im Vergleich](https://www.congstar.de/internet/dsl-tarife-im-vergleich/)
-        * [congstar Zuhause 250 Flex](https://www.congstar.de/internet/dsl/congstar-zuhause-250-flex/)
         * [congstar Zuhause 100 Flex](https://www.congstar.de/internet/dsl/congstar-zuhause-100-flex/)
+        * [congstar Zuhause 250 Flex](https://www.congstar.de/internet/dsl/congstar-zuhause-250-flex/)
     
     * [Internet über LTE](#)
         * [Homespot Tarife im Vergleich](https://www.congstar.de/internet/homespot/)
