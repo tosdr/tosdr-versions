@@ -104,6 +104,26 @@ Dec 05 2024
 
 By **[Shannon Watkins](https://admin.mi52siterestore.com/person/shannon-watkins/)** Read time **30 mins** [Read More](https://admin.mi52siterestore.com/article/protecting-the-liberal-arts-and-humanities-in-american-higher-education/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-federal-reserve-banks-are-turning-left.jpg)[](https://admin.mi52siterestore.com/article/the-federal-reserve-banks-are-turning-left/ "Read More")
+
+Commentary Economics, Governance
+
+Dec 11 2024
+
+[The Federal Reserve Banks Are Turning Left](https://admin.mi52siterestore.com/article/the-federal-reserve-banks-are-turning-left/)
+
+By **[Judge Glock](https://admin.mi52siterestore.com/person/judge-glock/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-federal-reserve-banks-are-turning-left/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-affirmative-action-fight-comes-to-high-schools.jpg)[](https://admin.mi52siterestore.com/article/the-affirmative-action-fight-comes-to-high-schools/ "Read More")
+
+Commentary Education Pre K-12, Affirmative Action
+
+Dec 10 2024
+
+[The Affirmative Action Fight Comes to High Schools](https://admin.mi52siterestore.com/article/the-affirmative-action-fight-comes-to-high-schools/)
+
+By **[Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-affirmative-action-fight-comes-to-high-schools/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/new-york-voters-dont-fail-the-next-daniel-penny-and-jordan-neely-oust-bragg-and-the-soft-on-crime-radicals.jpg)[](https://admin.mi52siterestore.com/article/dear-ny-voters-dont-fail-the-next-daniel-penny-and-jordan-neely-oust-da-bragg-and-the-soft-on-crime-radicals/ "Read More")
 
 Commentary Governance, Public Safety New York, New York City
@@ -123,26 +143,6 @@ Dec 08 2024
 [The Murder of UnitedHealthcare CEO Brian Thompson Is a Bad Sign for New York City](https://admin.mi52siterestore.com/article/the-murder-of-unitedhealthcare-ceo-brian-thompson-is-a-bad-sign-for-new-york-city/)
 
 By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-murder-of-unitedhealthcare-ceo-brian-thompson-is-a-bad-sign-for-new-york-city/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/donald-trump-vice-voters.jpg)[](https://admin.mi52siterestore.com/article/what-will-trump-do-for-vice-voters/ "Read More")
-
-Commentary Governance Culture & Society
-
-Dec 04 2024
-
-[What Will Trump Do for ‘Vice Voters’?](https://admin.mi52siterestore.com/article/what-will-trump-do-for-vice-voters/)
-
-By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/what-will-trump-do-for-vice-voters/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/georgetown-university.jpg)[](https://admin.mi52siterestore.com/article/model-legislation-to-track-foreign-funds-to-american-universities/ "Read More")
-
-Issue Brief Education, Governance
-
-Dec 03 2024
-
-[Model Legislation to Track Foreign Funds to American Universities](https://admin.mi52siterestore.com/article/model-legislation-to-track-foreign-funds-to-american-universities/)
-
-By **[Neetu Arnold](https://admin.mi52siterestore.com/person/neetu-arnold/)** Read time **14 mins** [Read More](https://admin.mi52siterestore.com/article/model-legislation-to-track-foreign-funds-to-american-universities/)
 
 Our Policy Areas
 ----------------
