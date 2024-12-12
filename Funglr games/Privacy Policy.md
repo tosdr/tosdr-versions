@@ -134,23 +134,23 @@ All the issues and problems will be resolved pursuant to our Japanese Privacy Po
 
 * No article
 
-[![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280a.jpg)](https://accesstra.de/0050f1000ymk)
+[![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280b.jpg)](https://accesstra.de/0050f1000ymk)
 
-* [![Review! the Feature-Rich ](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/02/neogeo-arcade-stick-pro-unbox-00-1-150x150.jpg "Review! the Feature-Rich ")
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/03/trials-of-mana-demo-play-00-150x150.jpg)
     
-    Review! the Feature-Rich "NEOGEO Arcade Stick PRO"!](https://saiganak.com/review/neogeo-arcade-stick-pro-unbox/ "Review! the Feature-Rich ")
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/05/life-is-strange-2-00-150x150.jpg)
+    "TRIALS of MANA" Trial Version Review! Immersion in a story!](https://saiganak.com/review/trials-of-mana-demo-play/)
+* [![Suntory's Energy Drink ](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/05/digital-performance-energy-zone-launch-01-150x150.jpg "Suntory's Energy Drink ")
     
-    "Life Is Strange 2" that walks a life full of regret](https://saiganak.com/review/life-is-strange-2/)
-* [![From April Fool's Joke to Reality: Razer's New Energy Drink](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/razer-respawn-release00-1-150x150.jpg "From April Fool's Joke to Reality: Razer's New Energy Drink")
-    
-    From April Fool's Joke to Reality: Razer's New Energy Drink](https://saiganak.com/product/razer-respawn-release/ "From April Fool's Joke to Reality: Razer's New Energy Drink")
+    Suntory's Energy Drink "ZONe", finally Released Nationwide!](https://saiganak.com/product/digital-performance-energy-zone-launch/ "Suntory's Energy Drink ")
 * [![Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/05/ff35th-anniversary-ut-additional-production-00-150x150.jpg "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
     
     Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://saiganak.com/product/ff35th-anniversary-ut-additional-production/ "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
 * [!['SURVIVOR'! Energy Drink Available for 100 JPY (0.93 USD)!](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/05/survivor-energy-drink-testing-00-150x150.jpg "'SURVIVOR'! Energy Drink Available for 100 JPY (0.93 USD)!")
     
     'SURVIVOR'! Energy Drink Available for 100 JPY (0.93 USD)!](https://saiganak.com/review/survivor-energy-drink-testing/ "'SURVIVOR'! Energy Drink Available for 100 JPY (0.93 USD)!")
+* [![Tried to Check the Taste of Energy Drink ](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/05/suntory-zone-ver-1-0-0-00-150x150.jpg "Tried to Check the Taste of Energy Drink ")
+    
+    Tried to Check the Taste of Energy Drink "ZONe Ver.1.0.0"](https://saiganak.com/review/suntory-zone-ver-1-0-0/ "Tried to Check the Taste of Energy Drink ")
 
 [](#top)
 
