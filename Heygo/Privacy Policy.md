@@ -215,6 +215,7 @@
     * [Event calendar](https://events.restless.co.uk/event-calendar/)
     * [FAQs](https://events.restless.co.uk/faq/)
 * [Log in](#)
+* [Join for Free](https://restless.co.uk/join)
 * [Account](#)
     * [Log Out](#)
 
@@ -530,6 +531,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![7 of the cheapest Caribbean islands to visit on a budget](https://media.restless.co.uk/uploads/2023/08/the-cheapest-caribbean-islands-to-visit-on-a-budget-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
+
+### [7 of the cheapest Caribbean islands to visit on a budget](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
+
+[Read More »](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
+
 [![Group tours of the UK – 10 lesser-known places to visit in 2025](https://media.restless.co.uk/uploads/2024/11/group-tours-of-the-uk-10-lesser-known-places-to-visit-in-2025-768x508.jpg)](https://restless.co.uk/travel/group-tours-of-the-uk-lesser-known-places-to-visit-in-2025/)
 
 ### [Group tours of the UK – 10 lesser-known places to visit in 2025](https://restless.co.uk/travel/group-tours-of-the-uk-lesser-known-places-to-visit-in-2025/)
@@ -560,14 +567,14 @@ New in travel
 
 [Read More »](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/)
 
-[![12 idyllic beach destinations in Southern Europe](https://media.restless.co.uk/uploads/2023/08/idyllic-beach-destinations-in-southern-europe-768x512.jpg)](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
-
-### [12 idyllic beach holidays in Southern Europe](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
-
-[Read More »](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
-
 Popular travel guides
 ---------------------
+
+[![7 of the cheapest Caribbean islands to visit on a budget](https://media.restless.co.uk/uploads/2023/08/the-cheapest-caribbean-islands-to-visit-on-a-budget-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
+
+### [7 of the cheapest Caribbean islands to visit on a budget](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
+
+[Read More »](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
 
 [![10 budget-friendly all-inclusive holiday destinations](https://media.restless.co.uk/uploads/2023/10/budget-friendly-all-inclusive-holiday-destinations-1-768x511.jpg)](https://restless.co.uk/travel/budget-friendly-all-inclusive-holiday-destinations/)
 
@@ -586,12 +593,6 @@ Popular travel guides
 ### [12 things to do and places to visit in February in the UK](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
 
 [Read More »](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
-
-[![7 of the cheapest Caribbean islands to visit on a budget](https://media.restless.co.uk/uploads/2023/08/the-cheapest-caribbean-islands-to-visit-on-a-budget-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
-
-### [7 of the cheapest Caribbean islands to visit on a budget](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
-
-[Read More »](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
 
 [![11 travel destinations where you can avoid crowds](https://media.restless.co.uk/uploads/2023/01/travel-destinations-where-you-can-avoid-crowds-768x512.jpg)](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
 
