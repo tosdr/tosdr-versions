@@ -79,7 +79,6 @@ Terms and Conditions
 
 * [Introduction](#tab-)
 * [Your Use of the GWR Services](#tab-)
-* [](#tab-)
 * [GWR’s Intellectual Property](#tab-)
 * [Your User Content](#tab-)
 * [Your Safety](#tab-)
@@ -88,7 +87,6 @@ Terms and Conditions
 * [Indemnity](#tab-)
 * [Disclaimer of Warranty and Limitation of Liability](#tab-)
 * [General](#tab-)
-* [](#tab-)
 
 ### Introduction
 
