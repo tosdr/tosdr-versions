@@ -205,8 +205,6 @@ These are the terms and conditions for Telegraph.co.uk and all associated websit
 
 Save
 
-[Comment speech bubble icon](#comment)
-
 Share article
 -------------
 
@@ -226,8 +224,6 @@ Share article
 31 August 2023 11:29am BST
 
 Save
-
-[Comment speech bubble icon](#comment)
 
 * Copy link
     
@@ -615,7 +611,6 @@ Follow us on:
 * [Download the Telegraph App](https://www.telegraph.co.uk/customer/subsdigitaleditionapp/)
 * [Help Centre](https://www.telegraph.co.uk/contact-us/)
 * [About us](https://telegraphmediagroup.com/about-us/)
-* [Telegraph Extra](https://extra.telegraph.co.uk/)
 * [Reader Prints](https://telegraph.newsprints.co.uk/)
 * [Branded Content](https://www.telegraph.co.uk/branded-content/)
 * [Syndication and Commissioning](https://www.telegraph.co.uk/syndication/)
