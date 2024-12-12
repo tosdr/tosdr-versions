@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Henry Venter
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=5a584651742d59f76d885930f299b6f61620049ed2dcd019d53646aac95de0e5&c=7714212)  
-UMVIKELI PRIVATE SECURITY
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=11752466)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=5a584651742d59f76d885930f299b6f61620049ed2dcd019d53646aac95de0e5&c=12345434)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=103423431)  
+Lizzy Pop PTY(Ltd)
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=5a584651742d59f76d885930f299b6f61620049ed2dcd019d53646aac95de0e5&c=114054304)  
-CGHK Enterprises (PTY) LTD
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=122310431)  
+Highlands Auto Engineering
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=5a584651742d59f76d885930f299b6f61620049ed2dcd019d53646aac95de0e5&c=28983528)  
-Tantra Sound and Lightz
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=45555546)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=5a584651742d59f76d885930f299b6f61620049ed2dcd019d53646aac95de0e5&c=60173660)  
-Redlum Group (Pty) Ltd
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=179065429)  
+AFS Electrical
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=5a584651742d59f76d885930f299b6f61620049ed2dcd019d53646aac95de0e5&c=210084418)  
-SAUL ATHOL ACRES RENTAL
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=140333494)  
+Wiselink Broadband Vryheid
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=5a584651742d59f76d885930f299b6f61620049ed2dcd019d53646aac95de0e5&c=166912096)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=84993308)  
+LEONARD
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=5a584651742d59f76d885930f299b6f61620049ed2dcd019d53646aac95de0e5&c=95209173)  
-APTV Telecoms CC
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=132940189)  
+Brilliant Roof Products
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=5a584651742d59f76d885930f299b6f61620049ed2dcd019d53646aac95de0e5&c=158531603)  
-Leef in Afrikaans
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=81272709)  
+Eruca (PTY)Ltd
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=5a584651742d59f76d885930f299b6f61620049ed2dcd019d53646aac95de0e5&c=110659508)  
-Myfinance-Online
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=170113111)  
+Henry's Home Renovations
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=5a584651742d59f76d885930f299b6f61620049ed2dcd019d53646aac95de0e5&c=43767135)  
-Import Maaw
+![valued client Mmakoma projects ](https://www.invoicesonline.co.za/scripts/image.php?bid=5917&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=48477267)  
+Mmakoma projects
 
-![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=5a584651742d59f76d885930f299b6f61620049ed2dcd019d53646aac95de0e5&c=173274450)  
-Protech Marketing
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=83439544)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=5a584651742d59f76d885930f299b6f61620049ed2dcd019d53646aac95de0e5&c=106207450)  
-Imhoff Equestrian Centre
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=177024743)  
+MONSTER SECURITY GUARDING
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=5a584651742d59f76d885930f299b6f61620049ed2dcd019d53646aac95de0e5&c=28165052)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=141942627)  
+VIR Electrical (PTY) LTD
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=5a584651742d59f76d885930f299b6f61620049ed2dcd019d53646aac95de0e5&c=23619418)  
-Westside Car Audio CC
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=bf6ff610543b8827b6d9940c67f91ae71e81af94acd90ed2352631ef5e4716a0&c=158666632)  
+National Elite Security Services (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
