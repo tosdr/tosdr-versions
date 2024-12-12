@@ -3267,6 +3267,7 @@
                         * [ ]  [Articles](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/articles/)
                         * [ ]  [Automations](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/automations/)
                         * [ ]  [Dev Pulse](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/dev_pulse/)
+                        * [ ]  [Dynamic Content](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/dynamic_content/)
                         * [ ]  [Emails](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/emails/)
                         * [ ]  [End-users](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/end_users/)
                         * [ ]  [Groups](https://handbook.gitlab.com/handbook/support/readiness/operations/docs/zendesk/groups/)
