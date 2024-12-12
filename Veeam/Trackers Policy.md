@@ -180,18 +180,6 @@ Menu
     * [Incident Response by Coveware](https://www.veeam.com/solutions/services/incident-response.html?ad=menu-solutions)
     * [Cyber Secure Program](https://www.veeam.com/products/veeam-data-platform/cyber-secure.html?ad=menu-solutions)
     
-    Environment
-    
-    **Cloud**  [AWS](https://www.veeam.com/products/cloud/aws-backup.html?ad=menu-solutions) | [Azure](https://www.veeam.com/products/cloud/azure-backup.html?ad=menu-solutions) | [Google](https://www.veeam.com/products/cloud/google-cloud-backup.html?ad=menu-solutions) | [Kubernetes](https://www.veeam.com/products/cloud/kubernetes-data-protection.html?ad=menu-solutions)
-    
-    **Virtual**  [VMware](https://www.veeam.com/products/virtual/vmware-backup-recovery.html?ad=menu-solutions) | [Hyper-V](https://www.veeam.com/products/virtual/hyper-v-backup-recovery.html?ad=menu-solutions) | [Nutanix AHV](https://www.veeam.com/products/virtual/nutanix-backup-recovery.html?ad=menu-solutions) | [Oracle Linux VM](https://www.veeam.com/products/virtual/kvm-backup-recovery.html?ad=menu-solutions) | [RHV](https://www.veeam.com/products/virtual/kvm-backup-recovery.html?ad=menu-solutions) | [Proxmox](https://www.veeam.com/products/virtual/proxmox-backup-recovery.html?ad=menu-solutions)
-    
-    **Physical**  [Windows](https://www.veeam.com/products/physical/windows-backup-recovery.html?ad=menu-solutions) | [Linux](https://www.veeam.com/products/physical/linux-backup-recovery.html?ad=menu-solutions) | [MacOS](https://www.veeam.com/products/physical/mac-backup-recovery.html?ad=menu-solutions) | [Unix](https://www.veeam.com/products/physical/ibm-aix-oracle-solaris-backup-recovery.html?ad=menu-solutions) | [NAS](https://www.veeam.com/products/physical/nas-backup-recovery.html?ad=menu-solutions)
-    
-    **Apps**  [Microsoft](https://www.veeam.com/products/applications/explorers-microsoft-backup-recovery.html?ad=menu-solutions) | [Oracle](https://www.veeam.com/products/applications/oracle-backup-recovery.html?ad=menu-solutions) | [SAP Hana](https://www.veeam.com/products/applications/sap-hana-backup-recovery.html?ad=menu-solutions) | [PostgreSQL](https://www.veeam.com/products/physical/linux-backup-recovery.html?ad=menu-solutions) | [MongoDB](https://www.veeam.com/products/applications/mongodb-backup-recovery.html?ad=menu-solutions)
-    
-    **SaaS**  [Microsoft 365](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=menu-solutions) | [Microsoft Entra ID](https://www.veeam.com/products/saas/microsoft-entra-id-backup-software.html?ad=menu-solutions) | [Salesforce](https://www.veeam.com/products/saas/salesforce-backup.html?ad=menu-solutions)
-    
     Alliance Technologies
     
     * [See All Veeam Alliance Partners](https://www.veeam.com/solutions/alliance-partner.html?ad=menu-solutions)
@@ -203,6 +191,19 @@ Menu
     * [Microsoft](https://www.veeam.com/solutions/alliance-partner/microsoft.html?ad=menu-solutions)
     * [VMware](https://www.veeam.com/solutions/alliance-partner/vmware.html?ad=menu-solutions)
     * [Alliance Partner Integrations & Qualifications](https://www.veeam.com/solutions/alliance-partner/integrations-qualifications.html?ad=menu-solutions)
+    
+    Environment
+    
+    **Cloud**  [AWS](https://www.veeam.com/products/cloud/aws-backup.html?ad=menu-solutions) | [Azure](https://www.veeam.com/products/cloud/azure-backup.html?ad=menu-solutions) | [Google](https://www.veeam.com/products/cloud/google-cloud-backup.html?ad=menu-solutions) | [Kubernetes](https://www.veeam.com/products/cloud/kubernetes-data-protection.html?ad=menu-solutions)
+    
+    **Virtual**  [VMware](https://www.veeam.com/products/virtual/vmware-backup-recovery.html?ad=menu-solutions) | [Hyper-V](https://www.veeam.com/products/virtual/hyper-v-backup-recovery.html?ad=menu-solutions) | [Nutanix AHV](https://www.veeam.com/products/virtual/nutanix-backup-recovery.html?ad=menu-solutions) | [Oracle Linux VM](https://www.veeam.com/products/virtual/kvm-backup-recovery.html?ad=menu-solutions) | [RHV](https://www.veeam.com/products/virtual/kvm-backup-recovery.html?ad=menu-solutions) | [Proxmox](https://www.veeam.com/products/virtual/proxmox-backup-recovery.html?ad=menu-solutions)
+    
+    **Physical**  [Windows](https://www.veeam.com/products/physical/windows-backup-recovery.html?ad=menu-solutions) | [Linux](https://www.veeam.com/products/physical/linux-backup-recovery.html?ad=menu-solutions) | [MacOS](https://www.veeam.com/products/physical/mac-backup-recovery.html?ad=menu-solutions) | [Unix](https://www.veeam.com/products/physical/ibm-aix-oracle-solaris-backup-recovery.html?ad=menu-solutions) | [NAS](https://www.veeam.com/products/physical/nas-backup-recovery.html?ad=menu-solutions)
+    
+    **Apps**  [Microsoft](https://www.veeam.com/products/applications/explorers-microsoft-backup-recovery.html?ad=menu-solutions) | [Oracle](https://www.veeam.com/products/applications/oracle-backup-recovery.html?ad=menu-solutions) | [SAP Hana](https://www.veeam.com/products/applications/sap-hana-backup-recovery.html?ad=menu-solutions) | [PostgreSQL](https://www.veeam.com/products/physical/linux-backup-recovery.html?ad=menu-solutions) | [MongoDB](https://www.veeam.com/products/applications/mongodb-backup-recovery.html?ad=menu-solutions)
+    
+    **SaaS**  [Microsoft 365](https://www.veeam.com/products/saas/backup-microsoft-office-365.html?ad=menu-solutions) |   
+    [Microsoft Entra ID](https://www.veeam.com/products/saas/microsoft-entra-id-backup-software.html?ad=menu-solutions) | [Salesforce](https://www.veeam.com/products/saas/salesforce-backup.html?ad=menu-solutions)
     
 * Support
     
