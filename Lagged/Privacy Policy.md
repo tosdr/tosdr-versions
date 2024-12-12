@@ -231,9 +231,9 @@ Games you might like
 
 [Ragdoll Playground](https://lagged.com/en/g/ragdoll-playground) ![Ragdoll Playground Game](https://imgs2.dab3games.com/ragdollbreak-ft1135.png) top rated
 
-[TikTok Challenges 2025](https://lagged.com/en/g/tiktok-challenges-2025) ![TikTok Challenges 2025 Game](https://imgs2.dab3games.com/tiktok-202531.png)
-
 [Sprunki](https://lagged.com/en/g/sprunki) ![Sprunki Game](https://imgs2.dab3games.com/sprunki-3864526.png)
+
+[TikTok Challenges 2025](https://lagged.com/en/g/tiktok-challenges-2025) ![TikTok Challenges 2025 Game](https://imgs2.dab3games.com/tiktok-202531.png)
 
 [Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://imgs2.dab3games.com/bikiniforlove-ft50.png)
 
