@@ -75,7 +75,6 @@ Aviso Legal
         * [Igualdad](https://uah.es/es/conoce-la-uah/compromiso-social/igualdad/)
         * [Mecenazgo](https://uah.es/es/conoce-la-uah/compromiso-social/mecenazgo/)
         * [Patrimonio](https://uah.es/es/conoce-la-uah/compromiso-social/patrimonio)
-        * [Sostenibilidad medioambiental](https://uah.es/es/conoce-la-uah/compromiso-social/sostenibilidad-medioambiental/)
         * [Transparencia](https://uah.es/es/conoce-la-uah/compromiso-social/transparencia/)
         * [Unidad de Atención a la Diversidad](https://uah.es/es/conoce-la-uah/compromiso-social/unidad-atencion-diversidad)
         
