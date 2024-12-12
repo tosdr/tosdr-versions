@@ -240,7 +240,7 @@ Last updated May 8, 2018.
 
 [](https://www.emsisoft.com/en/ "Emsisoft")
 
-[© 2003-2024 Emsisoft - 12/11/2024 - Legal Notice](https://www.emsisoft.com/en/legal/) - [Terms](https://www.emsisoft.com/en/terms/) - [Privacy Policy](https://www.emsisoft.com/en/privacy/) - [Cookie Policy](https://www.emsisoft.com/en/cookie-policy/) - [System Status](https://status.emsisoft.com/) - 
+[© 2003-2024 Emsisoft - 12/12/2024 - Legal Notice](https://www.emsisoft.com/en/legal/) - [Terms](https://www.emsisoft.com/en/terms/) - [Privacy Policy](https://www.emsisoft.com/en/privacy/) - [Cookie Policy](https://www.emsisoft.com/en/cookie-policy/) - [System Status](https://status.emsisoft.com/) - 
 
 * [English](#)
     * [English](https://www.emsisoft.com/en/terms/)
