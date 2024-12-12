@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Bill Belichick set to become football coach in shocker](https://nypost.com/2024/12/11/sports/bill-belichick-becoming-north-carolinas-head-coach-in-stunner/)
+
 Terms Of Use
 ============
 
