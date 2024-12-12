@@ -84,17 +84,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Startup will brick $800 emotional support robot for kids without refunds](https://cdn.arstechnica.net/wp-content/uploads/2024/12/Moxie-768x432-1733865293.jpg)](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
+1. [![Listing image for first story in Most Read: NASA believes it understands why Ingenuity crashed on Mars](https://cdn.arstechnica.net/wp-content/uploads/2024/12/1_PIA26238_ingentuity-ripples_cropped.width-1320-768x432-1733936851.jpg)](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/)
     
-    1. [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
+    1. [NASA believes it understands why Ingenuity crashed on Mars](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/)
     
-2. 2. [NASA believes it understands why Ingenuity crashed on Mars](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/)
+2. 2. [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
     
-3. 3. [AI company trolls San Francisco with billboards saying “stop hiring humans”](https://arstechnica.com/information-technology/2024/12/ai-company-trolls-san-francisco-with-billboards-saying-stop-hiring-humans/)
+3. 3. [Congressional Republicans conclude SARS-CoV-2 originated in a lab leak](https://arstechnica.com/science/2024/12/congressional-republicans-conclude-sars-cov-2-originated-in-a-lab-leak/)
     
-4. 4. [Amazon starts selling Hyundai cars, more brands next year](https://arstechnica.com/cars/2024/12/amazon-gets-into-the-car-sales-game-starting-with-hyundai/)
+4. 4. [AI company trolls San Francisco with billboards saying “stop hiring humans”](https://arstechnica.com/information-technology/2024/12/ai-company-trolls-san-francisco-with-billboards-saying-stop-hiring-humans/)
     
-5. 5. [Efficiency, power, luxury: The 2025 Lucid Gravity SUV nails all three](https://arstechnica.com/features/2024/12/the-2025-lucid-gravity-impresses-us-with-slick-handling-magic-ride/)
+5. 5. [Ranking the 25 coolest things in space so far during the 21st century](https://arstechnica.com/space/2024/12/ranking-the-25-coolest-things-in-space-so-far-during-the-21st-century/)
     
 
 Customize
