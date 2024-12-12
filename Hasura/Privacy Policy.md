@@ -1,4 +1,4 @@
-[Join us for AI Deep Dive on December 12th. Register now](https://hasura.io/events/community-call/2024/december)
+[Announcing PromptQL: Build AI apps with Agentic Data Access](https://promptql.hasura.io/)
 
 [![Hasura Logo](https://res.cloudinary.com/dh8fp23nd/image/upload/v1686659126/website%20v3/hasura-primary_y9cdnn.svg)](https://hasura.io/)
 
