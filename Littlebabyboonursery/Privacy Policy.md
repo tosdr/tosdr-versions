@@ -2,8 +2,6 @@ top of page
 
 [](https://www.littlebabyboonursery.com/)
 
-[](https://www.littlebabyboonursery.com/cart-page)
-
 Log In
 
 * [The Nursery](https://www.littlebabyboonursery.com/the-nursery)
