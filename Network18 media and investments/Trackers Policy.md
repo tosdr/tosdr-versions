@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [IPS Officer](https://www.news18.com/india/karnataka-ips-officer-harsh-bardhan-dies-road-accident-on-his-way-to-first-posting-hassan-latest-updates-9142069.html)
-    * [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
-    * [Nargis Fakhri](https://www.news18.com/movies/nargis-fakhris-sister-aliya-arrested-in-us-for-killing-her-ex-boyfriend-mother-denies-charges-9143038.html)
-    * [Vikrant Massey](https://www.news18.com/movies/vikrant-massey-retirement-real-reason-behind-his-break-revealed-director-says-actor-doesnt-want-to-9143126.html)
-    * [Sreeleela](https://www.news18.com/web-stories/celebrities/south-star-sreeleela-inspired-5-lehenga-blouses-for-marriage-season-2653106/)
     * [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
+    * [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
+    * [Park Min Jae](https://www.news18.com/movies/south-korean-actor-park-min-jae-dies-at-32-cause-of-death-revealed-9143231.html)
+    * [IPS Officer Death](https://www.news18.com/india/karnataka-ips-officer-harsh-bardhan-dies-road-accident-on-his-way-to-first-posting-hassan-latest-updates-9142069.html)
+    * [Ravi Kishan](https://www.news18.com/movies/ravi-kishan-on-karan-veer-chum-darangs-romance-on-bigg-boss-18-hes-a-flirt-but-exclusive-9142988.html)
+    * [Donald Trump](https://www.news18.com/world/donald-trump-justin-trudeau-dinner-florida-canada-should-become-51st-state-of-usa-tariff-9143131.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [IPS Officer](https://www.news18.com/india/karnataka-ips-officer-harsh-bardhan-dies-road-accident-on-his-way-to-first-posting-hassan-latest-updates-9142069.html)
-* [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
-* [Nargis Fakhri](https://www.news18.com/movies/nargis-fakhris-sister-aliya-arrested-in-us-for-killing-her-ex-boyfriend-mother-denies-charges-9143038.html)
-* [Vikrant Massey](https://www.news18.com/movies/vikrant-massey-retirement-real-reason-behind-his-break-revealed-director-says-actor-doesnt-want-to-9143126.html)
-* [Sreeleela](https://www.news18.com/web-stories/celebrities/south-star-sreeleela-inspired-5-lehenga-blouses-for-marriage-season-2653106/)
 * [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
+* [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
+* [Park Min Jae](https://www.news18.com/movies/south-korean-actor-park-min-jae-dies-at-32-cause-of-death-revealed-9143231.html)
+* [IPS Officer Death](https://www.news18.com/india/karnataka-ips-officer-harsh-bardhan-dies-road-accident-on-his-way-to-first-posting-hassan-latest-updates-9142069.html)
+* [Ravi Kishan](https://www.news18.com/movies/ravi-kishan-on-karan-veer-chum-darangs-romance-on-bigg-boss-18-hes-a-flirt-but-exclusive-9142988.html)
+* [Donald Trump](https://www.news18.com/world/donald-trump-justin-trudeau-dinner-florida-canada-should-become-51st-state-of-usa-tariff-9143131.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
