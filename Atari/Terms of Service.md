@@ -80,9 +80,9 @@ Hardware
 
 [![Introducing the Atari+ Platform](files/Product_Image_c0c068c9-b237-41e5-ae28-d64f55335d9a.png)
 
-Introducing the Atari+ Platform](https://www.atari.com/collections/atari-platform)[![Super Pocket Atari Edition](files/Product_Image_2db1dbea-2baa-499c-bd5c-1ba43b694bfd.png)
+Introducing the Atari+ Platform](https://www.atari.com/collections/atari-platform)[![](files/7800_ControllerBundle_ac00091b-dc0f-4116-9738-d7ed57de3ea7.jpg)
 
-Super Pocket: Atari Edition](https://www.atari.com/products/super-pocket-atari-edition)
+Holiday Bundles](https://www.atari.com/collections/holiday-best-sellers)
 
 Hardware
 
@@ -124,9 +124,9 @@ COLLECTIONS
 
 Introducing the Atari+ Platform](https://www.atari.com/collections/atari-platform)
 
-[![Super Pocket Atari Edition](files/Product_Image_2db1dbea-2baa-499c-bd5c-1ba43b694bfd.png)
+[![](files/7800_ControllerBundle_ac00091b-dc0f-4116-9738-d7ed57de3ea7.jpg)
 
-Super Pocket: Atari Edition](https://www.atari.com/products/super-pocket-atari-edition)
+Holiday Bundles](https://www.atari.com/collections/holiday-best-sellers)
 
 \*\*New!\*\*/collections/7800;\*\*New!\*\*/collections/atari-platform
 
