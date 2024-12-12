@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Taxi 3: Extreme Rush](https://www.myabandonware.com/game/taxi-3-extreme-rush-tur)
+* [Tango Strike](https://www.myabandonware.com/game/tango-strike-tuq)
 * [Cylindrix](https://www.myabandonware.com/game/cylindrix-cic)
 * [Super Ken Senshi](https://www.myabandonware.com/game/super-ken-senshi-tup)
 * [NFL Math](https://www.myabandonware.com/game/nfl-math-tuo)
-* [NFL Reading](https://www.myabandonware.com/game/nfl-reading-tun)
-* [Prodigy Racing](https://www.myabandonware.com/game/prodigy-racing-tum)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
