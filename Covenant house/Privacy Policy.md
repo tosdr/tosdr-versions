@@ -50,13 +50,13 @@
     
 * Get Involved
     
-    [Get Involved](https://www.covenanthouse.org/get-involved)
+    [Browse Gift Catalog](https://gifts.covenanthouse.org/collections/holiday-items)
     
     Ways to Give
     
     * [Donate Now](https://www.covenanthouse.org/get-involved/ways-to-give/donate-now)
     * [Donate Monthly](https://www.covenanthouse.org/get-involved/ways-to-give/donate-monthly)
-    * [DIY Fundraise](https://www.covenanthouse.org/get-involved/ways-to-give/fundraise)
+    * [Shop our Gift Catalog](https://gifts.covenanthouse.org/)
     * [Corporate Partnerships](https://www.covenanthouse.org/get-involved/ways-to-give/corporate-partnerships)
     * [Open Arms Society](https://www.covenanthouse.org/get-involved/ways-to-give/open-arms-society)
     * [Planned Giving](https://covenanthouse.myplannedgift.org/)
@@ -149,17 +149,17 @@
     
 * Get Involved
     
-    Join the Movement to End Youth Homelessness
+    NEW: Holiday Gift Catalog
     
-    There are many ways to take action in support of youth facing homelessness.
+    Celebrate the season of giving with a gift that provides warmth, safety, and hope to homeless youth. Shop our Holiday Gift Catalog today.
     
-    [Get Involved](https://www.covenanthouse.org/get-involved)
+    [Browse Gift Catalog](https://gifts.covenanthouse.org/collections/holiday-items)
     
     Ways to Give
     
     * [Donate Now](https://www.covenanthouse.org/get-involved/ways-to-give/donate-now)
     * [Donate Monthly](https://www.covenanthouse.org/get-involved/ways-to-give/donate-monthly)
-    * [DIY Fundraise](https://www.covenanthouse.org/get-involved/ways-to-give/fundraise)
+    * [Shop our Gift Catalog](https://gifts.covenanthouse.org/)
     * [Corporate Partnerships](https://www.covenanthouse.org/get-involved/ways-to-give/corporate-partnerships)
     * [Open Arms Society](https://www.covenanthouse.org/get-involved/ways-to-give/open-arms-society)
     * [Planned Giving](https://covenanthouse.myplannedgift.org/)
