@@ -3,7 +3,7 @@ elsenutrition
 
 [Skip to content](#MainContent)
 
-[Learn About Our Ingredients!](https://elsenutrition.com/pages/ingredients) ' + '' + ' ' + '' + '
+FREE Shipping on orders $59 and over! [Learn About Our Ingredients!](https://elsenutrition.com/pages/ingredients) ' + '' + ' ' + '' + '
 
    [![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935) ![Else Nutrition](https://elsenutrition.com/cdn/shop/files/freedomcarribeanblue-_1.png?v=1720511935)](https://elsenutrition.com/)
 
