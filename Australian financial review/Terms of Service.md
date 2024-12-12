@@ -293,15 +293,15 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ed706490aa9fe83dbd9196902d20a1051d1c116d)](https://www.afr.com/life-and-luxury/arts-and-culture/the-year-s-best-books-as-chosen-by-the-financial-review-newsroom-20241118-p5krh3)
+[![ ](https://static.ffx.io/images/$zoom_0.5083%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_284%2C$y_161/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d0812b133f62b7ea57e3cc3c9b213c96d710745e)](https://www.afr.com/life-and-luxury/fashion-and-style/from-the-hamptons-to-the-australian-open-inside-the-world-of-ralph-lauren-20240903-p5k7gp)
 
-### [The year’s best books as chosen by the Financial Review newsroom](https://www.afr.com/life-and-luxury/arts-and-culture/the-year-s-best-books-as-chosen-by-the-financial-review-newsroom-20241118-p5krh3)
+### [From the Hamptons to the Australian Open: inside Ralph Lauren’s world](https://www.afr.com/life-and-luxury/fashion-and-style/from-the-hamptons-to-the-australian-open-inside-the-world-of-ralph-lauren-20240903-p5k7gp)
 
-* Staff writers
+* Lauren Sams
 
-* ### [Egypt’s bygone glamour gets a luxurious new spin](https://www.afr.com/life-and-luxury/travel/egypt-s-bygone-glamour-gets-a-luxurious-new-spin-20241023-p5kkke)
+* ### [The year’s best books as chosen by the Financial Review newsroom](https://www.afr.com/life-and-luxury/arts-and-culture/the-year-s-best-books-as-chosen-by-the-financial-review-newsroom-20241118-p5krh3)
     
-* ### [Christmas recipes from some of Melbourne’s best restaurants](https://www.afr.com/life-and-luxury/food-and-wine/christmas-recipes-from-some-of-melbourne-s-best-restaurants-20241023-p5kkk9)
+* ### [Egypt’s bygone glamour gets a luxurious new spin](https://www.afr.com/life-and-luxury/travel/egypt-s-bygone-glamour-gets-a-luxurious-new-spin-20241023-p5kkke)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
@@ -311,7 +311,6 @@ Advertise
 
 ### [How accountants will help save the planet](https://www.afr.com/work-and-careers/careers/how-accountants-will-help-save-the-planet-20241209-p5kww2)
 
-* 1 hr ago
 * Sally Patten
 
 * ### [This woman made history when she took over her local A-League club](https://www.afr.com/work-and-careers/leaders/this-woman-made-history-when-she-took-over-her-local-a-league-club-20241021-p5kk1e)
@@ -326,7 +325,6 @@ Advertise
 
 ### [The magic of Marseille exists if you know where to find it](https://www.afr.com/life-and-luxury/travel/the-magic-of-marseille-exists-if-you-know-where-to-find-it-20241120-p5ks9v)
 
-* 1 hr ago
 * Robert Bevan
 
 * ### [A gift guide for foodies, from cookbooks to culinary rarities](https://www.afr.com/life-and-luxury/food-and-wine/a-gift-guide-for-foodies-from-cookbooks-to-culinary-rarities-20241104-p5kns9)
@@ -341,7 +339,6 @@ Advertise
 
 ### [Fortescue executive chairman Andrew Forrest in his own words](https://www.afr.com/companies/mining/fortescue-executive-chairman-andrew-forrest-in-his-own-words-20241210-p5kx5n)
 
-* 1 hr ago
 * Primrose Riordan
 
 * ### [Inside the ‘unending chaos’ at Andrew Forrest’s Fortescue](https://www.afr.com/companies/energy/inside-the-unending-chaos-at-andrew-forrest-s-fortescue-20241008-p5kgrn)
