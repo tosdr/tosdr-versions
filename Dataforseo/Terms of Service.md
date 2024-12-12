@@ -80,7 +80,36 @@
     
 * [Use Cases](https://dataforseo.com/solutions)
     
-    * [Mega Menu Test](https://dataforseo.com/?dfs_mega_menu_item=mega-menu-test)
+    * By industry
+        
+        [Media](https://dataforseo.com/solutions/media)
+        
+        [Ecommerce](https://dataforseo.com/solutions/ecommerce-apis)
+        
+        [Digital Marketing](https://dataforseo.com/solutions/digital-marketing-apis)
+        
+        [Marketing Tech](https://dataforseo.com/solutions/marketing-tech-apis)
+        
+        [AI Development](https://dataforseo.com/solutions/data-for-ai-training)
+        
+        By company type
+        
+        [SEO Agency](https://dataforseo.com/solutions/seo-agency)
+        
+        [SEO Software](https://dataforseo.com/solutions/seo-software)
+        
+        By application
+        
+        [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
+        
+        [Reputation Management](https://dataforseo.com/solutions/api-driven-reputation-management)
+        
+        [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
+        
+        [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
+        
+        [Keyword Trends Tool](https://dataforseo.com/solutions/keyword-trends-tool)
+        
     
 * [Pricing](https://dataforseo.com/pricing)
 * [Knowledge base](https://dataforseo.com/knowledgebase)
@@ -160,7 +189,36 @@
     
 * [Use Cases](https://dataforseo.com/solutions)
     
-    * [Mega Menu Test](https://dataforseo.com/?dfs_mega_menu_item=mega-menu-test)
+    * By industry
+        
+        [Media](https://dataforseo.com/solutions/media)
+        
+        [Ecommerce](https://dataforseo.com/solutions/ecommerce-apis)
+        
+        [Digital Marketing](https://dataforseo.com/solutions/digital-marketing-apis)
+        
+        [Marketing Tech](https://dataforseo.com/solutions/marketing-tech-apis)
+        
+        [AI Development](https://dataforseo.com/solutions/data-for-ai-training)
+        
+        By company type
+        
+        [SEO Agency](https://dataforseo.com/solutions/seo-agency)
+        
+        [SEO Software](https://dataforseo.com/solutions/seo-software)
+        
+        By application
+        
+        [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
+        
+        [Reputation Management](https://dataforseo.com/solutions/api-driven-reputation-management)
+        
+        [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
+        
+        [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
+        
+        [Keyword Trends Tool](https://dataforseo.com/solutions/keyword-trends-tool)
+        
     
 * [Pricing](https://dataforseo.com/pricing)
 * [Knowledge base](https://dataforseo.com/knowledgebase)
@@ -236,7 +294,36 @@
     * [Postman Integration](https://dataforseo.com/postman-integrations)
     * [Airtable integration](https://dataforseo.com/airtable-integration)
 * [Use Cases](https://dataforseo.com/solutions)
-    * [Mega Menu Test](https://dataforseo.com/?dfs_mega_menu_item=mega-menu-test)
+    * By industry
+        
+        [Media](https://dataforseo.com/solutions/media)
+        
+        [Ecommerce](https://dataforseo.com/solutions/ecommerce-apis)
+        
+        [Digital Marketing](https://dataforseo.com/solutions/digital-marketing-apis)
+        
+        [Marketing Tech](https://dataforseo.com/solutions/marketing-tech-apis)
+        
+        [AI Development](https://dataforseo.com/solutions/data-for-ai-training)
+        
+        By company type
+        
+        [SEO Agency](https://dataforseo.com/solutions/seo-agency)
+        
+        [SEO Software](https://dataforseo.com/solutions/seo-software)
+        
+        By application
+        
+        [Backlink App](https://dataforseo.com/solutions/api-driven-backlinksapp)
+        
+        [Reputation Management](https://dataforseo.com/solutions/api-driven-reputation-management)
+        
+        [Rank Tracking App](https://dataforseo.com/solutions/rank-tracking-app)
+        
+        [Keyword Research App](https://dataforseo.com/solutions/keyword-research-app)
+        
+        [Keyword Trends Tool](https://dataforseo.com/solutions/keyword-trends-tool)
+        
 * [Pricing](https://dataforseo.com/pricing)
 * [Knowledge base](https://dataforseo.com/knowledgebase)
     * [Blog](https://dataforseo.com/blog)
