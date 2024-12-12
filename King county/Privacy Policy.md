@@ -134,7 +134,7 @@ Global Navigation
 ### Waste Services expand\_more
 
 * [Solid waste facilities](https://kingcounty.gov/en/dept/dnrp/waste-services/garbage-recycling-compost/solid-waste-facilities)
-* [Mattress disposal/recycling](https://kingcounty.gov/legacy/depts/dnrp/solid-waste/programs/linkup/mattresses)
+* [Mattress disposal/recycling](https://kingcounty.gov/en/dept/dnrp/waste-services/garbage-recycling-compost/solid-waste-programs/circular-economy/mattresses)
 * [Reducing food waste](https://kingcounty.gov/en/dept/dnrp/waste-services/garbage-recycling-compost/solid-waste-programs/food-waste-prevention)
 * [Wastewater capacity charge](https://kingcounty.gov/en/dept/dnrp/waste-services/wastewater-treatment/sewer-system-services/capacity-charge)
 * [Paint recycling](https://kingcounty.gov/en/dept/dnrp/waste-services/garbage-recycling-compost/services/paint-recycling)
