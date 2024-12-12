@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 11, 2024**
+**December 12, 2024**
 
 * * *
 
@@ -208,6 +208,8 @@ this hour
 
 * * *
 
+* [Important Step With Space-Time Crystals](https://www.sciencedaily.com/releases/2024/12/241209122743.htm)
+* [Minuscule Robots for Targeted Drug Delivery](https://www.sciencedaily.com/releases/2024/12/241211143603.htm)
 * [Early-Onset Colorectal Cancer Surges Globally](https://www.sciencedaily.com/releases/2024/12/241211190108.htm)
 * [Jaw-Dropping Evolution of Lizards and Snakes](https://www.sciencedaily.com/releases/2024/12/241211125055.htm)
 * [Recycling Human, Animal Excreta as Fertilizer](https://www.sciencedaily.com/releases/2024/12/241211124514.htm)
@@ -216,8 +218,6 @@ this hour
 * [Soda Taxes Don't Just Affect Sales](https://www.sciencedaily.com/releases/2024/12/241210183516.htm)
 * [A New Galaxy, Much Like Our Own](https://www.sciencedaily.com/releases/2024/12/241211143905.htm)
 * [AI Thought Knee X-Rays Show If You Drink Beer](https://www.sciencedaily.com/releases/2024/12/241211143855.htm)
-* [You Are What You Eat, and So Are Your Grandkids?](https://www.sciencedaily.com/releases/2024/12/241211125103.htm)
-* [Biological Diversity Not Just Due to Genes](https://www.sciencedaily.com/releases/2024/12/241211124342.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
+[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
 
-[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
+[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
 
-[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
+[Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
-[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
+[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
-[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
+[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
-
-[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
-
 [Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
+
+[Biodiversity](https://www.sciencedaily.com/news/earth_climate/biodiversity/)
+
+[Snow and Avalanches](https://www.sciencedaily.com/news/earth_climate/snow_and_avalanches/)
 
   
 
