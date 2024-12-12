@@ -313,7 +313,7 @@ No obstante, si el usuario rechaza o borra las cookies de navegación/técnicas,
 
 La UAH podrá modificar su Política de Cookies en función de las necesidades legislativas, criterios jurisprudenciales. Prácticas del sector o intereses de la institución. Cualquier cambio se pondrá en conocimiento de los miembros de la comunidad universitaria a través del presente sitio web, por lo que se recomienda su visita periódica.
 
-   Wed Nov 23 09:22:58 CET 2022
+   23/11/2022
 
 [![Logotipo de la Universidad de Alcalá](/export/sites/uah/.galleries/imagenes-estructura/logopie.png "Logotipo de la Universidad de Alcalá")](https://uah.es/)
 
@@ -336,9 +336,9 @@ Contacto UAH
 Ayuda e Información
 -------------------
 
-* [Centro de información](https://uah.es/shared/es/conoce-la-uah/organizacion-y-gobierno/.content/uahserviciosadm/servicioadm_0029.html "Centro de información")
+* [Centro de información](https://uah.es/es/conoce-la-uah/organizacion-y-gobierno/servicios-universitarios/Centro-de-Informacion/ "Centro de información")
 * [Secretaría de alumnos](https://uah.es/es/admision-y-ayudas/grados/matricula/secretarias-alumnos/ "Secretaría de alumnos")
-* [Relaciones Internacionales](https://uah.es/shared/es/conoce-la-uah/organizacion-y-gobierno/.content/uahserviciosadm/servicioadm_0015.html "Relaciones Internacionales")
+* [Relaciones Internacionales](https://uah.es/es/conoce-la-uah/organizacion-y-gobierno/servicios-universitarios/Servicio-de-relaciones-internacionales/ "Relaciones Internacionales")
 * [Sala de Prensa](https://portalcomunicacion.uah.es/sala-prensa/ "Sala de Prensa")
 * [Redes Sociales](https://portalcomunicacion.uah.es/social-media/ "Redes Sociales")
 
@@ -356,7 +356,7 @@ Acerca de
 ---------
 
 * [Accesibilidad](https://uah.es/es/accesibilidad/)
-* [Acerca de nuestra web](https://uah.es/shared/es/conoce-la-uah/organizacion-y-gobierno/.content/uahserviciosadm/servicioadm_0031.html "Servicio Web")
+* [Acerca de nuestra web](https://uah.es/es/conoce-la-uah/organizacion-y-gobierno/servicios-universitarios/Servicio-Web-y-de-Informacion-Universitaria-00001/ "Servicio Web")
 * [Imagen institucional](https://uah.es/es/imagen-institucional/ "Imagen institucional")
 * [Protección de datos](https://uah.es/es/conoce-la-uah/organizacion-y-gobierno/equipo-de-direccion/secretaria-general/proteccion-de-datos-de-caracter-personal/ "Protección de datos")
 
