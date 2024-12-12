@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Aristocrats: The Rothschilds](/wp-content/thumbnails/14249-100x70.jpg?x53432)
+* [![Commanding Heights](/wp-content/thumbnails/4758-100x70.jpg?x53432)
     
-    The Aristocrats: The Rothschilds
+    Commanding Heights
     
-    It's not every family that hollywood makes an oscar nominated movie about, nor one that so successfully cements the Rothschilds reputation as the most famous family in the world. They are enormously w](https://documentaryheaven.com/aristocrats-rothschilds/ "The Aristocrats: The Rothschilds")
-* [![Surviving R. Kelly](/wp-content/thumbnails/14446-100x70.jpg?x53432)
+    Episode One: The Battle of IdeasA global economy, energized by technological change and unprecedented flows of people and money, collapses in the wake of a terrorist attack .... The year is 1914.W](https://documentaryheaven.com/commanding-heights/ "Commanding Heights")
+* [![Desperately Hungry Housewives](/wp-content/thumbnails/7781-100x70.jpg?x53432)
     
-    Surviving R. Kelly
+    Desperately Hungry Housewives
     
-    Surviving R. Kelly is a six part documentary series which was released by Lifetime, it deals directly with the countless allegations that have been brought forward against R. Kelly regarding sexual ab](https://documentaryheaven.com/surviving-r-kelly/ "Surviving R. Kelly")
-* [![Amish: A Secret Life](/wp-content/thumbnails/8052-100x70.jpg?x53432)
+    When you think of anorexia and bulimia you generally think teenage girls, but these dangerous eating disorders are now on the increase among older women.This film goes into the seemingly p](https://documentaryheaven.com/desperately-hungry-housewives/ "Desperately Hungry Housewives")
+* [![For The Bible Tells Me So](/wp-content/thumbnails/7010-100x70.jpg?x53432)
     
-    Amish: A Secret Life
+    For The Bible Tells Me So
     
-    An intimate portrait of Amish family life and faith, this film opens up a world usually kept private. Miriam and David are Old Order Amish and photography is not permitted under the strict rules of th](https://documentaryheaven.com/amish-secret-life/ "Amish: A Secret Life")
-* [![Monster In The Mind](/wp-content/thumbnails/14464-100x70.png?x53432)
+    For the Bible Tells Me So is a 2007 American documentary film directed by Daniel G. Karslake about homosexuality and its perceived conflict with religion, as well as various interpretations of what th](https://documentaryheaven.com/for-the-bible-tells-me-so/ "For The Bible Tells Me So")
+* [![Cocaine: Narcos, Sicarios and Peru](/wp-content/thumbnails/10193-100x70.jpg?x53432)
     
-    Monster In The Mind
+    Cocaine: Narcos, Sicarios and Peru
     
-    CNN veteran reporter Jean Carper is now 83 years old and finds herself at high risk for getting Alzheimer’s disease. In this film we see her embark on a journey to discover all there is to know about](https://documentaryheaven.com/monster-in-the-mind/ "Monster In The Mind") 
-* [![America Before Columbus](/wp-content/thumbnails/13966-100x70.jpg?x53432)
+    From the terror of hired killers trained by the cartels to the war on drugs in the remote jungles of Peru, this is a series about the new cartel wars and the legacy left behind by Pablo Escobar.Pa](https://documentaryheaven.com/cocaine-narcos-sicarios-peru/ "Cocaine: Narcos, Sicarios and Peru")
+* [![EP1/2 Louis Theroux: Miami Mega Jail](/wp-content/thumbnails/5799-100x70.jpg?x53432)
     
-    America Before Columbus
+    EP1/2 Louis Theroux: Miami Mega Jail
     
-    Summer 1492, after three months at sea The Santa María, The Pinta and The Niña anchor off the Bahamas, and with this Europe has found the Americas, next comes conquest and colonisation by settler](https://documentaryheaven.com/america-before-columbus-2/ "America Before Columbus")
+    In the first episode of this two-part series, Louis Theroux spends time in one of the most notorious sections of Miami County Jail: the fifth and sixth floor of ‘Main Jail’, where many of the most vol](https://documentaryheaven.com/louis-theroux-miami-mega-jail/ "EP1/2 Louis Theroux: Miami Mega Jail")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
