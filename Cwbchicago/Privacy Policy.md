@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Julio-Rodriguez-326x245.jpg)](https://cwbchicago.com/2024/12/parole-agent-found-sex-offender-engaged-in-x-rated-video-call-with-14-year-old-girl-prosecutors-allege.html "Parole agent found sex offender engaged in X-rated video call with 14-year-old girl, prosecutors allege")
+
+Chatham
+
+### [Parole agent found sex offender engaged in X-rated video call with 14-year-old girl, prosecutors allege](https://cwbchicago.com/2024/12/parole-agent-found-sex-offender-engaged-in-x-rated-video-call-with-14-year-old-girl-prosecutors-allege.html "Parole agent found sex offender engaged in X-rated video call with 14-year-old girl, prosecutors allege")
+
+[December 9, 2024 7:36 PM](https://cwbchicago.com/2024/12)
+
+In a stunning set of allegations, prosecutors are claiming that a parole agent visiting the residence of a man on parole for child pornography found the parolee pleasuring himself with his pants lowered while on a video call with a 14-year-old girl.[](https://cwbchicago.com/2024/12/parole-agent-found-sex-offender-engaged-in-x-rated-video-call-with-14-year-old-girl-prosecutors-allege.html "Parole agent found sex offender engaged in X-rated video call with 14-year-old girl, prosecutors allege")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Left-to-right-Curtis-Benson-Glen-Ruiz-and-Kavon-Waddell-326x245.jpg)](https://cwbchicago.com/2024/12/3-men-charged-with-3-armed-robberies-after-police-helicopter-tracked-them-down-officials-say.html "3 men charged with 3 armed robberies after police helicopter tracked them down, officials say")
+
+Brighton Park
+
+### [3 men charged with 3 armed robberies after police helicopter tracked them down, officials say](https://cwbchicago.com/2024/12/3-men-charged-with-3-armed-robberies-after-police-helicopter-tracked-them-down-officials-say.html "3 men charged with 3 armed robberies after police helicopter tracked them down, officials say")
+
+[December 9, 2024 11:03 AM](https://cwbchicago.com/2024/12)
+
+Three men have been detained as public safety risks after prosecutors accused them of robbing four victims at gunpoint and beating one victim with a handgun.[](https://cwbchicago.com/2024/12/3-men-charged-with-3-armed-robberies-after-police-helicopter-tracked-them-down-officials-say.html "3 men charged with 3 armed robberies after police helicopter tracked them down, officials say")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/12/2023.12-burglar-seen-in-JH426447-326x245.jpg)](https://cwbchicago.com/2024/12/north-side-garage-burglar-seen-in-countless-surveillance-videos-has-become-a-regular-tv-star.html "North Side garage burglar, seen in countless surveillance videos, has become ‘a regular TV star’")
 
 Lincoln Square
@@ -252,26 +272,6 @@ Lincoln Square
 [December 9, 2024 5:24 AM](https://cwbchicago.com/2024/12)
 
 For the past few weeks, residents of a North Side neighborhood have grown tired of a prowler who has been breaking into garages and snooping around yards. Now Chicago police are trying to identify him.[](https://cwbchicago.com/2024/12/north-side-garage-burglar-seen-in-countless-surveillance-videos-has-become-a-regular-tv-star.html "North Side garage burglar, seen in countless surveillance videos, has become ‘a regular TV star’")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/burke-foxx--326x245.jpg)](https://cwbchicago.com/2024/12/new-states-attorney-vows-to-seek-pre-trial-detention-for-all-violent-crimes-how-different-is-that-policy-from-kim-foxxs-we-found-out.html "New state’s attorney vows to seek pre-trial detention for all violent crimes. How different is that policy from Kim Foxx’s? We found out.")
-
-Citywide
-
-### [New state’s attorney vows to seek pre-trial detention for all violent crimes. How different is that policy from Kim Foxx’s? We found out.](https://cwbchicago.com/2024/12/new-states-attorney-vows-to-seek-pre-trial-detention-for-all-violent-crimes-how-different-is-that-policy-from-kim-foxxs-we-found-out.html "New state’s attorney vows to seek pre-trial detention for all violent crimes. How different is that policy from Kim Foxx’s? We found out.")
-
-[December 8, 2024 11:04 PM](https://cwbchicago.com/2024/12)
-
-Cook County’s new state’s attorney announced on her first day that prosecutors will now try to detain 100% of defendants accused of serious violent crimes and some gun charges. How does her policy compare with detention practices under Kim Foxx? We decided to find out.[](https://cwbchicago.com/2024/12/new-states-attorney-vows-to-seek-pre-trial-detention-for-all-violent-crimes-how-different-is-that-policy-from-kim-foxxs-we-found-out.html "New state’s attorney vows to seek pre-trial detention for all violent crimes. How different is that policy from Kim Foxx’s? We found out.")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Michael-Coleman-lids-326x245.jpg)](https://cwbchicago.com/2024/12/career-burglar-on-probation-for-burglary-burglarized-wicker-park-sports-store-prosecutors-claim.html "Career burglar, on probation for burglary, burglarized Wicker Park sports store, prosecutors claim")
-
-Wicker Park
-
-### [Career burglar, on probation for burglary, burglarized Wicker Park sports store, prosecutors claim](https://cwbchicago.com/2024/12/career-burglar-on-probation-for-burglary-burglarized-wicker-park-sports-store-prosecutors-claim.html "Career burglar, on probation for burglary, burglarized Wicker Park sports store, prosecutors claim")
-
-[December 8, 2024 6:44 PM](https://cwbchicago.com/2024/12)
-
-A long-time burglar who went to prison for stealing Newport cigarettes from a North Side liquor store and is currently on probation for stealing Newports from a West Loop store is now accused of burglarizing a Wicker Park sports gear store.[](https://cwbchicago.com/2024/12/career-burglar-on-probation-for-burglary-burglarized-wicker-park-sports-store-prosecutors-claim.html "Career burglar, on probation for burglary, burglarized Wicker Park sports store, prosecutors claim")
 
 Search
 
