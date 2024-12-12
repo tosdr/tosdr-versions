@@ -186,7 +186,7 @@ Events](https://www.beaconcrm.org/events)[![](https://cdn.prod.website-files.com
 
 Partner network](https://partners.beaconcrm.org/)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/639b38f65c1ff15ef2c038d3_icons8-video-demos.webp)
 
-Video demos](https://www.beaconcrm.org/video-demos)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/639b392f0507a3b82ff0ca6c_icons8-blog.webp)
+Video demos](https://www.beaconcrm.org/on-demand-demo)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/639b392f0507a3b82ff0ca6c_icons8-blog.webp)
 
 Blog](https://www.beaconcrm.org/blog)
 
