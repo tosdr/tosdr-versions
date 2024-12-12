@@ -464,25 +464,21 @@ Revised June 1, 2022
 
 * Editors' Picks
 
+[JR East announces 10-year plan to drastically overhaul Suica](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
+
+  [![The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439434.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ")](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
+
 [Firms should quit turning foreign workers into Japanese ones](https://www.japantimes.co.jp/commentary/2024/12/08/japan/foreign-workers-japan-challenges/ "Firms should quit turning foreign workers into Japanese ones")
 
   [![Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/436391.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.")](https://www.japantimes.co.jp/commentary/2024/12/08/japan/foreign-workers-japan-challenges/ "Firms should quit turning foreign workers into Japanese ones")
 
+[City's Foden and Kovacic not expected to face Juventus, says Guardiola](https://www.japantimes.co.jp/sports/2024/12/11/soccer/city-juventus-injuries/ "City's Foden and Kovacic not expected to face Juventus, says Guardiola")
+
+  [![Manchester City's Phil Foden, Josko Gvardiol, Mateo Kovacic, Jack Grealish and Kyle Walker during training in Manchester on Tuesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439476.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Manchester City's Phil Foden, Josko Gvardiol, Mateo Kovacic, Jack Grealish and Kyle Walker during training in Manchester on Tuesday")](https://www.japantimes.co.jp/sports/2024/12/11/soccer/city-juventus-injuries/ "City's Foden and Kovacic not expected to face Juventus, says Guardiola")
+
 [Winter chill, hot baths and the risk of heat shock: How to stay safe](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
 
   [![A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439147.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.")](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
-
-[Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes](https://www.japantimes.co.jp/news/2024/12/10/japan/nobel-peace-prize-ceremony-hibakusha/ "Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes")
-
-  [![One of the representatives of 2024 Nobel Peace Prize winner Nihon Hidankyo, Terumi Tanaka, speaks during the Nobel Peace Prize awarding ceremony in Oslo City Hall on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439319.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "One of the representatives of 2024 Nobel Peace Prize winner Nihon Hidankyo, Terumi Tanaka, speaks during the Nobel Peace Prize awarding ceremony in Oslo City Hall on Tuesday.")](https://www.japantimes.co.jp/news/2024/12/10/japan/nobel-peace-prize-ceremony-hibakusha/ "Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes")
-
-[Victim of alleged staged suicide was subjected to years of abuse](https://www.japantimes.co.jp/news/2024/12/10/japan/crime-legal/murder-railroad-crossing/ "Victim of alleged staged suicide was subjected to years of abuse")
-
-  [![Manabu Sasaki, who runs a painting company, is one of four suspects arrested on suspicion of murdering 56-year-old Osamu Takano.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439104.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Manabu Sasaki, who runs a painting company, is one of four suspects arrested on suspicion of murdering 56-year-old Osamu Takano.")](https://www.japantimes.co.jp/news/2024/12/10/japan/crime-legal/murder-railroad-crossing/ "Victim of alleged staged suicide was subjected to years of abuse")
-
-[South Korean police blocked from raid on president's office](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
-
-  [![Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439573.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.")](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
 
 [‘Hayao Miyazaki and the Heron’ documentary meditates on auteur's creativity and legacy](https://www.japantimes.co.jp/culture/2024/12/11/film/hayao-miyazaki-and-the-heron/ "‘Hayao Miyazaki and the Heron’ documentary meditates on auteur's creativity and legacy")
 
@@ -523,9 +519,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +561,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan aims to raise awareness of administrative consultation services](https://www.japantimes.co.jp/news/2024/12/12/japan/administrative-consultation-awareness/ "Japan aims to raise awareness of administrative consultation services")
+[Lower House passes ¥13.9 trillion supplementary budget](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/supplementary-budget-lower-house/ "Lower House passes ¥13.9 trillion supplementary budget")
 
-12 mins ago
+43 mins ago
 
-[Rise in pro-government 'fact checking' sparks concern in Europe](https://www.japantimes.co.jp/news/2024/12/12/world/politics/pro-government-fact-checking-concerns-europe/ "Rise in pro-government 'fact checking' sparks concern in Europe")
-
-36 mins ago
-
-[Argentina inflation hits four-year low as locals hope worst is over](https://www.japantimes.co.jp/business/2024/12/12/economy/argentina-inflation-four-year-low/ "Argentina inflation hits four-year low as locals hope worst is over")
-
-56 mins ago
-
-[Mazda’s Mexico investment to hinge on Trump’s tariff decisions](https://www.japantimes.co.jp/business/2024/12/12/companies/mazda-mexico-trump/ "Mazda’s Mexico investment to hinge on Trump’s tariff decisions")
+[New Japanese condos now cost 10 times average salary, study shows](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
 
 1 hour ago
 
-[Experts warn of more strong Noto Peninsula earthquakes](https://www.japantimes.co.jp/news/2024/12/12/japan/noto-earthquakes-warning/ "Experts warn of more strong Noto Peninsula earthquakes")
+[Fossil fuels initially needed for AI boom, Tepco adviser says](https://www.japantimes.co.jp/news/2024/12/12/japan/fossil-fuel-ai-need/ "Fossil fuels initially needed for AI boom, Tepco adviser says")
 
-1 hour ago
+3 hours ago
+
+[Widow of former Prime Minister Shinzo Abe hopes to meet with Trump](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/akie-abe-trump-meeting/ "Widow of former Prime Minister Shinzo Abe hopes to meet with Trump")
+
+3 hours ago
+
+[Japanese crypto exchange Coincheck goes public in U.S.](https://www.japantimes.co.jp/business/2024/12/12/companies/coincheck-us-nasdaq/ "Japanese crypto exchange Coincheck goes public in U.S.")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
