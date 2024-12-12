@@ -1,9 +1,3 @@
-X
-
-**Don’t Miss Out: Transform Your 2025 in Just 30 Minutes**
-
-[REGISTER NOW](https://engageware.com/events/)
-
 class="agentbot"
 
 [![Engageware Logo](https://engageware.com/wp-content/themes/engageware_wp_2024/assets/img/tf-site-header__logo-sm.svg)](https://engageware.com/)
