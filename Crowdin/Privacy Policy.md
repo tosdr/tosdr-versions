@@ -167,7 +167,7 @@ The following are defined as interested parties that are relevant to the ISMS:
 [Information security objectives:](#information-security-objectives)
 --------------------------------------------------------------------
 
-* Ensure compliance with the requirements of ISO / IEC 27001: 2022 which will allow Crowdin to be a certified company and trusted supplier for its customers. ([View Certificate](https://support.crowdin.com/C1296-ISMS483-11-21.pdf)). Ensure compliance with relevant laws, regulations (legislation of Estonia, Ukraine), contractual agreements, and organizational policies related to information security.
+* Ensure compliance with the requirements of ISO / IEC 27001: 2022 which will allow Crowdin to be a certified company and trusted supplier for its customers. ([View Certificate](https://support.crowdin.com/Certificate_ISO_27001_2024_12_12.pdf)). Ensure compliance with relevant laws, regulations (legislation of Estonia, Ukraine), contractual agreements, and organizational policies related to information security.
 * Ensure the availability, integrity and confidentiality of both customer and employee data, confidentiality of internal business processes.
 * Continuously reduce risks within the organization’s ISMS.
 * Prevent or minimize potential IS incident damage.
