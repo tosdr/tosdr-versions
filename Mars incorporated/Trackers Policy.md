@@ -282,15 +282,15 @@ Indonesia
 
 Japan
 
-[Japanese](https://jpn.mars.com/)
+[日本語](https://www.mars.com/ja-jp)
 
-[Japanese](https://jpn.mars.com/)
+[日本語](https://www.mars.com/ja-jp)
 
 Korea
 
-[Korean](https://kor.mars.com/)
+[한국어](https://www.mars.com/ko-kr)
 
-[Korean](https://kor.mars.com/)
+[한국어](https://www.mars.com/ko-kr)
 
 Taiwan, China
 
@@ -326,9 +326,9 @@ Denmark
 
 Finland
 
-[English](https://fin.mars.com/en/)
+[Suomi](https://www.mars.com/fi-fi)
 
-[English](https://fin.mars.com/en/)
+[Suomi](https://www.mars.com/fi-fi)
 
 France
 
@@ -374,9 +374,9 @@ Lithuania
 
 Netherlands
 
-[Nederlands](https://nld.mars.com/)
+[Nederlands](https://www.mars.com/nl-nl)
 
-[Nederlands](https://nld.mars.com/)
+[Nederlands](https://www.mars.com/nl-nl)
 
 Norway
 
