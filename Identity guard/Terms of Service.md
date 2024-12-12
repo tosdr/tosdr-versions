@@ -209,7 +209,7 @@ Customer Service P.O. Box 222455 Chantilly, VA 20153-2455 Or Email: [Customer Se
 * [Identity Theft Prevention](https://www.identityguard.com/news/prevent-identity-theft)
 * [Identity Theft Examples](https://www.identityguard.com/news/identity-theft-examples)
 * [Medical Identity Theft](https://www.identityguard.com/news/how-to-prevent-medical-identity-theft)
-* [Tax Identity Theft](https://www.identityguard.com/news/how-to-prevent-medical-identity-theft)
+* [Tax Identity Theft](https://www.identityguard.com/news/tax-identity-theft)
 
 ##### Legal
 
