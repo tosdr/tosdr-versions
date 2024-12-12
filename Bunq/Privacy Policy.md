@@ -81,15 +81,11 @@ All
 
 ### Pricing Sheet
 
-Get transparent, straightforward pricing on all bunq services, so you know exactly what to expect.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### Personal Account T&C
-
-Read the terms designed to keep your bunq Personal Account safe, easy, and hassle-free.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/personal-account)
 
@@ -97,15 +93,11 @@ Read the terms designed to keep your bunq Personal Account safe, easy, and hassl
 
 ### Business Account T&C
 
-Read the terms that keep your bunq Business Account efficient, clear, and ready to support your goals.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/business-account)
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
 
 ### Privacy Policy
-
-See how bunq protects your privacy, ensuring your data is handled safely and transparently.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/privacy)
 
@@ -113,15 +105,11 @@ See how bunq protects your privacy, ensuring your data is handled safely and tra
 
 ### Cookie Statement
 
-Find out how bunq uses cookies to improve your experience while respecting your privacy.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/cookies)
 
 [![](https://framerusercontent.com/images/PlL8EXOrpUnCAigq8maiB7C4E.svg)
 
 ### 2024 SREP Decision Statement
-
-Read about the 2024 regulatory review of bunq’s strong, sustainable growth.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/srep-decision-2024)
 
@@ -129,15 +117,11 @@ Read about the 2024 regulatory review of bunq’s strong, sustainable growth.
 
 ### Responsible Disclosure Policy
 
-bunq’s Responsible Disclosure Policy encourages safe, secure reporting of vulnerabilities.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/responsible-disclosure)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### API T&C
-
-Access guidelines for using bunq’s secure API, empowering developers to create and innovate with confidence.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/api)
 
@@ -145,15 +129,11 @@ Access guidelines for using bunq’s secure API, empowering developers to create
 
 ### App Directory T&C
 
-Learn about the terms for the bunq App Directory, your gateway to useful tools and enhancements.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/app-directory)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### bunq.com T&C
-
-Read the terms for using bunq.com that provide you with a safe, smooth experience every time.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/website)
 
@@ -161,15 +141,11 @@ Read the terms for using bunq.com that provide you with a safe, smooth experienc
 
 ### bunq.me T&C
 
-Read the terms for using bunq.me links, making sending and receiving payments simple and stress-free.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/bunq-me)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### Developer Website T&C
-
-Read the terms of use for bunq’s Developer Website to build securely and innovate freely.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/developer-website)
 
@@ -177,15 +153,11 @@ Read the terms of use for bunq’s Developer Website to build securely and innov
 
 ### iDIN T&C
 
-Read bunq’s iDIN terms of use for seamless and secure online identity verification.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/idin)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### Mastercard Chargeback T&C
-
-Read the terms for Mastercard Chargebacks with bunq, giving you extra protection on payments.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/chargeback)
 
@@ -193,15 +165,11 @@ Read the terms for Mastercard Chargebacks with bunq, giving you extra protection
 
 ### Mobile Wallet T&C
 
-Read the terms of use for bunq’s Mobile Wallet, for fast, secure, and easy digital payments.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/mobile-wallet)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### Purchase Protection & Extended Warranty T&C
-
-Read the details of purchase protection and extended warranties with bunq, adding extra peace of mind.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/purchase-protection-extended-warranty)
 
@@ -209,15 +177,11 @@ Read the details of purchase protection and extended warranties with bunq, addin
 
 ### Switch Service T&C
 
-Learn how bunq’s Switch Service makes switching banks seamless and straightforward.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/switch-service)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### Travel Insurance T&C
-
-Read bunq’s Travel Insurance terms for added security on your travels.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/travel-insurance)
 
@@ -225,15 +189,11 @@ Read bunq’s Travel Insurance terms for added security on your travels.
 
 ### Wheel of Fortune T&C
 
-Explore the terms of use for bunq’s Wheel of Fortune, where banking meets fun rewards.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/wheel-of-fortune)
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
 
 ### Operational Resilience Policy
-
-See bunq’s Operational Resilience Policy for our commitment to stability and service reliability.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/operational-resilience-policy)
 
@@ -255,15 +215,11 @@ All
 
 ### Pricing Sheet
 
-Get transparent, straightforward pricing on all bunq services, so you know exactly what to expect.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### Personal Account T&C
-
-Read the terms designed to keep your bunq Personal Account safe, easy, and hassle-free.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/personal-account)
 
@@ -271,15 +227,11 @@ Read the terms designed to keep your bunq Personal Account safe, easy, and hassl
 
 ### Business Account T&C
 
-Read the terms that keep your bunq Business Account efficient, clear, and ready to support your goals.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/business-account)
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
 
 ### Privacy Policy
-
-See how bunq protects your privacy, ensuring your data is handled safely and transparently.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/privacy)
 
@@ -287,15 +239,11 @@ See how bunq protects your privacy, ensuring your data is handled safely and tra
 
 ### Cookie Statement
 
-Find out how bunq uses cookies to improve your experience while respecting your privacy.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/cookies)
 
 [![](https://framerusercontent.com/images/PlL8EXOrpUnCAigq8maiB7C4E.svg)
 
 ### 2024 SREP Decision Statement
-
-Read about the 2024 regulatory review of bunq’s strong, sustainable growth.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/srep-decision-2024)
 
@@ -303,15 +251,11 @@ Read about the 2024 regulatory review of bunq’s strong, sustainable growth.
 
 ### Responsible Disclosure Policy
 
-bunq’s Responsible Disclosure Policy encourages safe, secure reporting of vulnerabilities.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/responsible-disclosure)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### API T&C
-
-Access guidelines for using bunq’s secure API, empowering developers to create and innovate with confidence.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/api)
 
@@ -319,15 +263,11 @@ Access guidelines for using bunq’s secure API, empowering developers to create
 
 ### App Directory T&C
 
-Learn about the terms for the bunq App Directory, your gateway to useful tools and enhancements.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/app-directory)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### bunq.com T&C
-
-Read the terms for using bunq.com that provide you with a safe, smooth experience every time.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/website)
 
@@ -335,15 +275,11 @@ Read the terms for using bunq.com that provide you with a safe, smooth experienc
 
 ### bunq.me T&C
 
-Read the terms for using bunq.me links, making sending and receiving payments simple and stress-free.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/bunq-me)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### Developer Website T&C
-
-Read the terms of use for bunq’s Developer Website to build securely and innovate freely.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/developer-website)
 
@@ -351,15 +287,11 @@ Read the terms of use for bunq’s Developer Website to build securely and innov
 
 ### iDIN T&C
 
-Read bunq’s iDIN terms of use for seamless and secure online identity verification.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/idin)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### Mastercard Chargeback T&C
-
-Read the terms for Mastercard Chargebacks with bunq, giving you extra protection on payments.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/chargeback)
 
@@ -367,15 +299,11 @@ Read the terms for Mastercard Chargebacks with bunq, giving you extra protection
 
 ### Mobile Wallet T&C
 
-Read the terms of use for bunq’s Mobile Wallet, for fast, secure, and easy digital payments.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/mobile-wallet)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### Purchase Protection & Extended Warranty T&C
-
-Read the details of purchase protection and extended warranties with bunq, adding extra peace of mind.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/purchase-protection-extended-warranty)
 
@@ -383,15 +311,11 @@ Read the details of purchase protection and extended warranties with bunq, addin
 
 ### Switch Service T&C
 
-Learn how bunq’s Switch Service makes switching banks seamless and straightforward.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/switch-service)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
 ### Travel Insurance T&C
-
-Read bunq’s Travel Insurance terms for added security on your travels.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/travel-insurance)
 
@@ -399,15 +323,11 @@ Read bunq’s Travel Insurance terms for added security on your travels.
 
 ### Wheel of Fortune T&C
 
-Explore the terms of use for bunq’s Wheel of Fortune, where banking meets fun rewards.
-
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/wheel-of-fortune)
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
 
 ### Operational Resilience Policy
-
-See bunq’s Operational Resilience Policy for our commitment to stability and service reliability.
 
 ![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)](https://www.bunq.com/assets/media/legal/en/documents/operational-resilience-policy)
 
@@ -427,123 +347,83 @@ All
 
 [![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
 
-### Pricing Sheet
-
-Get transparent, straightforward pricing on all bunq services, so you know exactly what to expect.](https://www.bunq.com/assets/media/legal/en/documents/pricing)
+###### Pricing Sheet](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Personal Account T&C
-
-Read the terms designed to keep your bunq Personal Account safe, easy, and hassle-free.](https://www.bunq.com/assets/media/legal/en/documents/personal-account)
+###### Personal Account T&C](https://www.bunq.com/assets/media/legal/en/documents/personal-account)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Business Account T&C
-
-Read the terms that keep your bunq Business Account efficient, clear, and ready to support your goals.](https://www.bunq.com/assets/media/legal/en/documents/business-account)
+###### Business Account T&C](https://www.bunq.com/assets/media/legal/en/documents/business-account)
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
 
-### Privacy Policy
-
-See how bunq protects your privacy, ensuring your data is handled safely and transparently.](https://www.bunq.com/assets/media/legal/en/documents/privacy)
+###### Privacy Policy](https://www.bunq.com/assets/media/legal/en/documents/privacy)
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
 
-### Cookie Statement
-
-Find out how bunq uses cookies to improve your experience while respecting your privacy.](https://www.bunq.com/assets/media/legal/en/documents/cookies)
+###### Cookie Statement](https://www.bunq.com/assets/media/legal/en/documents/cookies)
 
 [![](https://framerusercontent.com/images/PlL8EXOrpUnCAigq8maiB7C4E.svg)
 
-### 2024 SREP Decision Statement
-
-Read about the 2024 regulatory review of bunq’s strong, sustainable growth.](https://www.bunq.com/assets/media/legal/en/documents/srep-decision-2024)
+###### 2024 SREP Decision Statement](https://www.bunq.com/assets/media/legal/en/documents/srep-decision-2024)
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
 
-### Responsible Disclosure Policy
-
-bunq’s Responsible Disclosure Policy encourages safe, secure reporting of vulnerabilities.](https://www.bunq.com/assets/media/legal/en/documents/responsible-disclosure)
+###### Responsible Disclosure Policy](https://www.bunq.com/assets/media/legal/en/documents/responsible-disclosure)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### API T&C
-
-Access guidelines for using bunq’s secure API, empowering developers to create and innovate with confidence.](https://www.bunq.com/assets/media/legal/en/documents/api)
+###### API T&C](https://www.bunq.com/assets/media/legal/en/documents/api)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### App Directory T&C
-
-Learn about the terms for the bunq App Directory, your gateway to useful tools and enhancements.](https://www.bunq.com/assets/media/legal/en/documents/app-directory)
+###### App Directory T&C](https://www.bunq.com/assets/media/legal/en/documents/app-directory)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### bunq.com T&C
-
-Read the terms for using bunq.com that provide you with a safe, smooth experience every time.](https://www.bunq.com/assets/media/legal/en/documents/website)
+###### bunq.com T&C](https://www.bunq.com/assets/media/legal/en/documents/website)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### bunq.me T&C
-
-Read the terms for using bunq.me links, making sending and receiving payments simple and stress-free.](https://www.bunq.com/assets/media/legal/en/documents/bunq-me)
+###### bunq.me T&C](https://www.bunq.com/assets/media/legal/en/documents/bunq-me)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Developer Website T&C
-
-Read the terms of use for bunq’s Developer Website to build securely and innovate freely.](https://www.bunq.com/assets/media/legal/en/documents/developer-website)
+###### Developer Website T&C](https://www.bunq.com/assets/media/legal/en/documents/developer-website)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### iDIN T&C
-
-Read bunq’s iDIN terms of use for seamless and secure online identity verification.](https://www.bunq.com/assets/media/legal/en/documents/idin)
+###### iDIN T&C](https://www.bunq.com/assets/media/legal/en/documents/idin)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Mastercard Chargeback T&C
-
-Read the terms for Mastercard Chargebacks with bunq, giving you extra protection on payments.](https://www.bunq.com/assets/media/legal/en/documents/chargeback)
+###### Mastercard Chargeback T&C](https://www.bunq.com/assets/media/legal/en/documents/chargeback)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Mobile Wallet T&C
-
-Read the terms of use for bunq’s Mobile Wallet, for fast, secure, and easy digital payments.](https://www.bunq.com/assets/media/legal/en/documents/mobile-wallet)
+###### Mobile Wallet T&C](https://www.bunq.com/assets/media/legal/en/documents/mobile-wallet)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Purchase Protection & Extended Warranty T&C
-
-Read the details of purchase protection and extended warranties with bunq, adding extra peace of mind.](https://www.bunq.com/assets/media/legal/en/documents/purchase-protection-extended-warranty)
+###### Purchase Protection & Extended Warranty T&C](https://www.bunq.com/assets/media/legal/en/documents/purchase-protection-extended-warranty)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Switch Service T&C
-
-Learn how bunq’s Switch Service makes switching banks seamless and straightforward.](https://www.bunq.com/assets/media/legal/en/documents/switch-service)
+###### Switch Service T&C](https://www.bunq.com/assets/media/legal/en/documents/switch-service)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Travel Insurance T&C
-
-Read bunq’s Travel Insurance terms for added security on your travels.](https://www.bunq.com/assets/media/legal/en/documents/travel-insurance)
+###### Travel Insurance T&C](https://www.bunq.com/assets/media/legal/en/documents/travel-insurance)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-### Wheel of Fortune T&C
-
-Explore the terms of use for bunq’s Wheel of Fortune, where banking meets fun rewards.](https://www.bunq.com/assets/media/legal/en/documents/wheel-of-fortune)
+###### Wheel of Fortune T&C](https://www.bunq.com/assets/media/legal/en/documents/wheel-of-fortune)
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
 
-### Operational Resilience Policy
-
-See bunq’s Operational Resilience Policy for our commitment to stability and service reliability.](https://www.bunq.com/assets/media/legal/en/documents/operational-resilience-policy)
+###### Operational Resilience Policy](https://www.bunq.com/assets/media/legal/en/documents/operational-resilience-policy)
 
 Load more
 
