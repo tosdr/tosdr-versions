@@ -16,6 +16,10 @@ Resources
 
 [Blog](https://grain.com/blog)[Help Center](https://support.grain.com/en/)[Self-guided Product Tour](https://grain.com/resource/self-guided-product-tour)[Contact Us](https://grain.com/contact)[Contact Us](#)
 
+Compare
+
+[Gong](https://grain.com/compare/gong)[Clari](https://grain.com/compare/clari)[Jiminny](https://grain.com/compare/jiminny)
+
 [Pricing](https://grain.com/pricing)[Sign In](https://grain.com/login)
 
 [Get Grain for Free](#get-started-section)
