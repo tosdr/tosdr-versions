@@ -338,6 +338,13 @@ Main navigation
         
         [Go to **Family nutrition**](https://www.nestle.com/brands/family-nutrition)
         
+        * [Early childhood](https://www.nestle.com/brands/family-nutrition/early-childhood)
+            
+            [Back](# "Close Menu")
+            
+            [Go to **Early childhood**](https://www.nestle.com/brands/family-nutrition/early-childhood)
+            
+        
     * [Cereals](https://www.nestle.com/brands/cereals)
         
         [Back](# "Close Menu")
