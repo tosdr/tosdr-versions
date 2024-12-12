@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Subscribe today**
+**Enjoy unlimited access**
 
-Every print subscription comes with full digital access
+Only $2.99 a month
 
-[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
@@ -90,23 +90,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Humans
         ----------------------
         
+        * [Genetics](https://www.sciencenews.org/topic/genetics)
+            
+            ### [Neandertal genes in people today came from hook-ups around 47,000 years ago](https://www.sciencenews.org/article/neandertal-mate-people-47000-years-ago)
+            
+            By [McKenzie Prillaman](https://www.sciencenews.org/author/mckenzie-prillaman "Posts by McKenzie Prillaman")2 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [These are the viruses that defined 2024](https://www.sciencenews.org/article/the-viruses-that-defined-2024)
+            
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")5 hours ago
+            
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [The benefits of Ozempic and its kin may extend far beyond weight loss](https://www.sciencenews.org/article/benefits-ozempic-weight-loss-glp1)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")21 hours ago
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [U.S. hospitals continue to shut down labor and delivery services](https://www.sciencenews.org/article/birth-labor-delivery-closure-hospital)
-            
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")23 hours ago
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Some countries have eliminated malaria, but cases are growing elsewhere](https://www.sciencenews.org/article/malaria-report-card)
-            
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")December 11, 2024
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")December 11, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -120,23 +120,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Life
         --------------------
         
+        * [Life](https://www.sciencenews.org/topic/life)
+            
+            ### [The ‘Blob,’ an unprecedented marine heat wave, killed 4 million seabirds](https://www.sciencenews.org/article/blob-marine-heat-wave-killed-seabirds)
+            
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")2 hours ago
+            
+        * [Genetics](https://www.sciencenews.org/topic/genetics)
+            
+            ### [Neandertal genes in people today came from hook-ups around 47,000 years ago](https://www.sciencenews.org/article/neandertal-mate-people-47000-years-ago)
+            
+            By [McKenzie Prillaman](https://www.sciencenews.org/author/mckenzie-prillaman "Posts by McKenzie Prillaman")2 hours ago
+            
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [The screams of thirsty plants may prompt some moths to lay eggs elsewhere](https://www.sciencenews.org/article/thirsty-plant-screams-moths-lay-eggs)
             
             By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")December 11, 2024
-            
-        * [Plants](https://www.sciencenews.org/topic/plants)
-            
-            ### [Meet a scientist tracking cactus poaching in the Atacama Desert](https://www.sciencenews.org/article/cactus-poaching-desert-pablo-guerrero)
-            
-            By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")December 5, 2024
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [Climate stress may undermine male spiders’ romantic gift giving](https://www.sciencenews.org/article/climate-stress-male-spiders-gift-giving)
-            
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")December 5, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -151,13 +151,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Earth’s inner core may be changing shape](https://www.sciencenews.org/article/inner-core-changing-shape-earth)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")1 hour ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")7 hours ago
             
         * [Earth](https://www.sciencenews.org/topic/earth)
             
             ### [The 2004 tsunami killed hundreds of thousands. Are we better prepared now?](https://www.sciencenews.org/article/2004-tsunami-killed-better-prepared-now)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")20 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")December 11, 2024
             
         * [Artificial Intelligence](https://www.sciencenews.org/topic/artificial-intelligence)
             
