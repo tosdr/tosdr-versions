@@ -69,7 +69,7 @@ Cookie Preferences
 
 You can update your cookie preferences for our websites by clicking below.
 
-[Update cookie preferences.](https://www.dallasnews.com/help/privacy-policy/?ccpa_link=1#manageConsent "https://www.dallasnews.com/help/privacy-policy/?ccpa_link=1#manageConsent")
+Update cookie preferences
 
 To update your cookie preferences while using our mobile apps, please go to your phone settings to adjust how your data is shared with us.
 
