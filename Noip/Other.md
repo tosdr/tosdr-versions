@@ -208,42 +208,10 @@ Resources
         
     * [Enhancing ICANN Accountability – Work Stream 2 Implementation](https://www.icann.org/resources/pages/work-stream-2-implementation-2022-05-23-en)
         
-* [Governance](https://www.icann.org/resources/pages/governance-2012-02-25-en)
+* [Governance](https://www.icann.org/en/governance)
     
-    * [Governance Documents](https://www.icann.org/resources/pages/governance-2012-02-25-en)
+    * [Governance Documents](https://www.icann.org/en/governance)
         
-        * [Guidelines](https://www.icann.org/resources/pages/governance-guidelines-2018-07-20-en)
-            
-        * [Articles of Incorporation](https://www.icann.org/resources/pages/governance/articles-en)
-            
-            * [Current](https://www.icann.org/resources/pages/governance/articles-en)
-                
-            * [Archive](https://www.icann.org/resources/pages/articles-2012-02-25-en)
-                
-        * [Bylaws](https://www.icann.org/resources/pages/governance/bylaws-en)
-            
-            * [Current Bylaws](https://www.icann.org/resources/pages/governance/bylaws-en)
-                
-            * [Archive](https://www.icann.org/resources/pages/archive-bc-2012-02-25-en)
-                
-        * [Board Code of Conduct](https://www.icann.org/resources/pages/code-of-conduct-2023-01-24-en)
-            
-        * [Board Conflicts of Interest Policy](https://www.icann.org/resources/pages/governance/coi-en)
-            
-        * [Board Statements of Interest](https://www.icann.org/resources/pages/sois-2012-02-25-en)
-            
-        * [Delegation of Authority Guidelines](https://www.icann.org/en/system/files/files/delegation-of-authority-guidelines-24oct24-en.pdf)
-            
-            * [Current Guidelines](https://www.icann.org/en/system/files/files/delegation-of-authority-guidelines-24oct24-en.pdf)
-                
-            * [Archive](https://www.icann.org/resources/pages/delegation-authority-guidelines-archives-2024-10-28-en)
-                
-                * [DoA Guidelines (16 March 2017)](https://www.icann.org/en/system/files/files/delegation-of-authority-guidelines-16mar17-en.pdf)
-                    
-                * [DoA Guidelines (8 November 2016)](https://www.icann.org/en/system/files/files/delegation-of-authority-guidelines-08nov16-en.pdf)
-                    
-        * [Summary of Conflicts of Interest and Ethics Practices Review](https://www.icann.org/resources/files/summary-ethics-review-2013-05-13-en)
-            
     * [Evolving ICANN’s MSM](https://www.icann.org/resources/pages/governance-plan-improve-multistakeholder-model-2019-04-08-en)
         
     * [Agreements](https://www.icann.org/resources/pages/agreements-2012-02-25-en)
