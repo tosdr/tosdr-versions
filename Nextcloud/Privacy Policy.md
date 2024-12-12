@@ -1140,7 +1140,7 @@ Last updated: July 2024
 
 ![Logo Nextcloud white](https://nextcloud.com/c/uploads/2022/11/logo_nextcloud_white.svg)
 
-Nextcloud offers a modern, on-premises content collaboration platform with real-time document editing, video chat & groupware on mobile, desktop and web.
+Nextcloud offers a modern, on premise content collaboration platform with real-time document editing, video chat & groupware on mobile, desktop and web.
 
 ### Search
 
