@@ -36,6 +36,9 @@
         
         Chinese hackers use Visual Studio Code tunnels for remote access](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-visual-studio-code-tunnels-for-remote-access/)
     
+    * [![Ditch the monthly payments: a lifetime of Microsoft Office is now $70](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Ditch the monthly payments: a lifetime of Microsoft Office is now $70](https://www.bleepingcomputer.com/offer/deals/ditch-the-monthly-payments-a-lifetime-of-microsoft-office-is-now-70/)
     * [![Hunk Companion WordPress plugin exploited to install vulnerable plugins](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Hunk Companion WordPress plugin exploited to install vulnerable plugins](https://www.bleepingcomputer.com/news/security/hunk-companion-wordpress-plugin-exploited-to-install-vulnerable-plugins/)
@@ -45,9 +48,6 @@
     * [![New EagleMsgSpy Android spyware used by Chinese police, researchers say](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         New EagleMsgSpy Android spyware used by Chinese police, researchers say](https://www.bleepingcomputer.com/news/security/new-eaglemsgspy-android-spyware-used-by-chinese-police-researchers-say/)
-    * [![Microsoft lifts Windows 11 24H2 block on PCs with USB scanners](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft lifts Windows 11 24H2 block on PCs with USB scanners](https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-24h2-block-on-pcs-with-usb-scanners/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
