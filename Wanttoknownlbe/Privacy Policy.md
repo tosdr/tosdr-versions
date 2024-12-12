@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/hoe-bp-zelf-ook-steeds-smeriger-wordt/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/eu-juncker-dwarsboomde-anti-belastingontduiking/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
