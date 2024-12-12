@@ -124,7 +124,7 @@ Full Menu Menu
         * [Elementary School (K-6)](https://www.fcps.edu/academics/elementary)
         * [Secondary (7-12)](https://www.fcps.edu/academics/curriculum/middle-and-high-school-grades-7-12)
         * [Subject Areas](https://www.fcps.edu/curriculum-subject-areas)
-        * [Special Education](https://www.fcps.edu/special-education-instruction)
+        * [Special Education](https://www.fcps.edu/academics/curriculum/special-education)
     * Academic Programs
         * [Academies and Specialized Programs](https://www.fcps.edu/academics/high/career-and-technical-education/academies-and-specialized-programs)
         * [Adult and Community Education (ACE)](https://www.fcps.edu/academics/adult-and-community-education-ace-overview)
@@ -289,11 +289,7 @@ Related Pages
 
 ### Student Rights and Responsibilities (SR&R)
 
-Expectations for student behavior and adult responses to enhance school safety and to create a fair, equitable and supportive school environment.](https://www.fcps.edu/about-fcps/leadership/policies-regulations-notices/student-rights-and-responsibilities-srr)  [![American Flag](/sites/default/files/styles/card_1x/public/media/hero/021611-1110_63.jpg?h=371fb43d&itok=IKjgz5oH)
-
-### 2018 General Assembly Approved Bill Report
-
-2018 General Assembly Approved Bill Report](https://www.fcps.edu/node/36151)  [![SRO sitting in a classroom working with a student](/sites/default/files/styles/card_1x/public/media/hero/051806-1071.jpg?h=58c8a5e7&itok=sZI6_qjB)
+Expectations for student behavior and adult responses to enhance school safety and to create a fair, equitable and supportive school environment.](https://www.fcps.edu/about-fcps/leadership/policies-regulations-notices/student-rights-and-responsibilities-srr)  [![SRO sitting in a classroom working with a student](/sites/default/files/styles/card_1x/public/media/hero/051806-1071.jpg?h=58c8a5e7&itok=sZI6_qjB)
 
 ### Memorandum of Understanding Between FCPS and the Fairfax County Police Department
 
@@ -303,11 +299,15 @@ View the signed MOU](https://www.fcps.edu/about-fcps/safety-security/school-reso
 
 Fairfax County Public Schools is committed to providing access to digital resources in a manner that respects and protects student privacy while maximizing learning opportunities for our students.](https://www.fcps.edu/services/technology/digital-citizenship-guidance-technology-use/digital-privacy-fcps)  [![American Flag](/sites/default/files/styles/card_1x/public/media/hero/021611-1110_32.jpg?h=371fb43d&itok=LKGR3bXV)
 
-### Passed Bill Report](https://www.fcps.edu/node/33480)  [![American Flag](/sites/default/files/styles/card_1x/public/media/hero/021611-1110_86.jpg?h=371fb43d&itok=Fu2vyAIA)
+### Passed Bill Report](https://www.fcps.edu/node/33480)  [![Student working on a computer](/sites/default/files/styles/card_1x/public/media/hero/071203-1077.jpg?h=69879900&itok=eRLpKtbe)
 
-### 2019 General Assembly Passed Bill Report
+### Internet Content Filtering
 
-2019 General Assembly Passed Bill Report](https://www.fcps.edu/node/38076)
+Highlighting the steps FCPS takes to satisfy the requirements of the Children's Internet Protection Act](https://www.fcps.edu/family-resources/technology/digital-citizenship-internet-safety/internet-content-filtering)  [![Picture of raised hands, representing opting into external research study.](/sites/default/files/styles/card_1x/public/media/hero/071004-1040_3%5B1%5D.jpg?h=50844e28&itok=RaI0UGcL)
+
+### Research Application Questions
+
+Answers to your questions regarding the research application process.](https://www.fcps.edu/about-fcps/leadership/policies-regulations-notices/external-research-approval-process/application)
 
 Footer
 ------
