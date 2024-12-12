@@ -14,6 +14,7 @@
         * [The Week Ahead](https://unric.org/en/the-week-ahead-un-in-brussels/)
         * [Ciné-ONU | UN Cinema](https://unric.org/en/un-cinema-cine-onu/)
     * [UN-EU Partnership](https://unric.org/en/the-eu-and-the-united-nations-2024/)
+    * [UN Trail – Sonian Forest](https://unric.org/en/united-nations-sonian-soignes-zonienwoud-walking-trail/)
 * [UN Careers](https://unric.org/en/united-nations-employment-and-internships/)
     * [Employment and internships](https://unric.org/en/united-nations-employment-and-internships/)
     * [Brussels Vacancies](https://unric.org/en/brussels-vacancies/)
@@ -105,6 +106,7 @@ A-Z Site Index
         * [The Week Ahead](https://unric.org/en/the-week-ahead-un-in-brussels/)
         * [Ciné-ONU | UN Cinema](https://unric.org/en/un-cinema-cine-onu/)
     * [UN-EU Partnership](https://unric.org/en/the-eu-and-the-united-nations-2024/)
+    * [UN Trail – Sonian Forest](https://unric.org/en/united-nations-sonian-soignes-zonienwoud-walking-trail/)
 * [UN Careers](https://unric.org/en/united-nations-employment-and-internships/)
     * [Employment and internships](https://unric.org/en/united-nations-employment-and-internships/)
     * [Brussels Vacancies](https://unric.org/en/brussels-vacancies/)
@@ -189,7 +191,7 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Publications
 
-* [December 2024](https://unric.org/en/2024/12/) (11)
+* [December 2024](https://unric.org/en/2024/12/) (12)
 * [November 2024](https://unric.org/en/2024/11/) (23)
 * [October 2024](https://unric.org/en/2024/10/) (38)
 * [September 2024](https://unric.org/en/2024/09/) (34)
