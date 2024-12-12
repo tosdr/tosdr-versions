@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Wednesday, December 11, 2024**
+**Thursday, December 12, 2024**
 
-**...Cold Front to Bring Scattered to Numerous Showers and Thunderstorms Statewide...A Few Thunderstorms Could Be Strong to Locally Severe (Marginal Risk - Level 1 of 5)...Rain and Thunderstorm Activity Dissipate from Northwest to Southeast This Evening...Breezy Post-Frontal Conditions Filter Across Florida; Wind Advisories in Effect for Emerald and Forgotten Coast for Wind Gusts Near 40 MPH...Freezing Temperatures Return to North Florida, With Wind Chills Well into the 30s Across the Central Florida Peninsula...Frost Advisories Issued for Suwannee River Valley...Dangerous Beach and Marine Conditions Develop for Statewide Beaches...Elevated Waves and Moderate to High Risk of Rip Currents...**
+**...High Pressure to Create Cool and Dry Conditions Statewide...A Few Isolated Showers Possible Along the Southeast Coast and Keys As Yesterday's Cold Front Moves Further Offshore...Breezy Northeasterly to Northerly Winds With Gusts Upwards of 15-25 MPH Expected Along the Peninsula And Keys Today...Sensitive to Elevated Wildfire Conditions Across North and West-Central Florida This Afternoon; Critical Conditions Not Expected But Localized Areas Could Approach Critical Thresholds...Moderate to High Risk for Rip Currents Statewide...Low Temperatures In the 30s to Low 40s Across North Florida; Temperatures Will Feel Like They Are In the Upper 20s to Middle 30s Across North Florida and Upper 30s to Low 40s Into the Nature Coast Early Friday Morning...Areas of Frost Possible Across North Florida...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
