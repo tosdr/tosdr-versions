@@ -17,7 +17,7 @@
         * [Prepaid-Tarife](https://www.telekom.de/unterwegs/prepaid-tarife "Prepaid-Tarife")
         * [Young-Tarife](https://www.telekom.de/mobilfunk/tarife/smartphone-tarife-young "Young-Tarife")
         * [Daten-Tarife](https://www.telekom.de/shop/tarife/daten-tarife "Daten-Tarife")
-        * [Watch- & Tracker-Tarife](https://www.telekom.de/mobilfunk/tarife/smart-connect/geraet "Watch- & Tracker-Tarife")
+        * [Watch- & Tracker-Tarife](https://www.telekom.de/shop/tarife/smart-connect "Watch- & Tracker-Tarife")
         * [Zusatzkarten](https://www.telekom.de/unterwegs/tarife-und-optionen/zusatzkarten "Zusatzkarten")
         * [Zubuchoptionen](https://www.telekom.de/optionsuebersicht/mobilfunk "Zubuchoptionen")
         * [Infos zu Roaming & Ausland](https://www.telekom.de/unterwegs/tarife-und-optionen/roaming "Infos zu Roaming & Ausland")
@@ -276,7 +276,7 @@
                 
             * [Daten-Tarife](https://www.telekom.de/shop/tarife/daten-tarife)
                 
-            * [Watch- & Tracker-Tarife](https://www.telekom.de/mobilfunk/tarife/smart-connect/geraet)
+            * [Watch- & Tracker-Tarife](https://www.telekom.de/shop/tarife/smart-connect)
                 
             * [Zusatzkarten](https://www.telekom.de/unterwegs/tarife-und-optionen/zusatzkarten)
                 
@@ -1071,7 +1071,7 @@ Direkteinstiege
 * [MagentaTV One (2. Generation)](https://www.telekom.de/zuhause/geraete-und-zubehoer/media-receiver/magenta-tv-one-zweite-generation "MagentaTV One (2. Generation)")
 * [WLAN Pakete](https://www.telekom.de/festnetz/heimvernetzung/wlan-pakete "WLAN Pakete")
 * [Handyvergleich](https://www.telekom.de/unterwegs/handyvergleich "Handyvergleich")
-* [Smartwatches](https://www.telekom.de/mobilfunk/geraete/smartwatch "Smartwatches")
+* [Smartwatches](https://www.telekom.de/shop/geraete/smartwatches "Smartwatches")
 * [Tablets](https://www.telekom.de/shop/geraete/tablets "Tablets")
 
 ### Tarife
