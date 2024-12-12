@@ -86,7 +86,7 @@ Transformación Digital PYMES
 
 Red.es presenta la nueva convocatoria de Kit Digital dirigida a medianas empresas
 
-A partir del 12 de diciembre a las 11 horas, las empresas podrán solicitar su bono digital. El plazo estará abierto hasta el 30 de junio de 2025 
+Hoy a partir de las 11 horas, las empresas podrán solicitar su bono digital. El plazo estará abierto hasta el 30 de junio de 2025 
 
 [Red.es presenta la nueva convocatoria de Kit Digital dirigida a medianas empresas](http://red.es/es/actualidad/noticias/convocatoria-kitdigital-medianas-empresas "Ir al contenido de: Red.es presenta la nueva convocatoria de Kit Digital dirigida a medianas empresas  ")
 
