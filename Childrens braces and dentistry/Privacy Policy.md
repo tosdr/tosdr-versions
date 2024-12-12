@@ -89,7 +89,7 @@ Recent Blog Posts
 
 ##### [Why Do Kids Need Teeth Extractions? Common Reasons and What Parents Should Know](https://sandiegokidsdentist.com/why-do-kids-need-teeth-extractions-common-reasons-and-what-parents-should-know/)
 
-Nov 14, 2024 123 Comments Off on Why Do Kids Need Teeth Extractions? Common Reasons and What Parents Should Know
+Nov 14, 2024 125 Comments Off on Why Do Kids Need Teeth Extractions? Common Reasons and What Parents Should Know
 
 ##### [Pulpectomy vs. Root Canal: A Parent’s Guide to Tooth Treatment for Kids](https://sandiegokidsdentist.com/pulpectomy-vs-root-canal-a-parents-guide-to-tooth-treatment-for-kids/)
 
