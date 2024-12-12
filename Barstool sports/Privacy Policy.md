@@ -107,7 +107,7 @@
     * [Miss Peaches](https://store.barstoolsports.com/collections/miss-peaches)
     * [Barstool Golf](https://store.barstoolsports.com/collections/golf)
     * [Stella Blue Coffee](https://stellabluecoffee.com/?utm_source=stellabluecoffee.com&utm_medium=referral&utm_campaign=referral_stellabluecoffee.com_site_placement_trending_topics_hover_stellabluecoffee)
-    * [Nooners](https://store.barstoolsports.com/collections/nooners?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_nooners)
+    * [Belichick](https://store.barstoolsports.com/collections/chapel-hill)
     * [Shirt of the Month Club](https://store.barstoolsports.com/collections/shirt-of-the-month?utm_source=barstoolsports&utm_medium=referral&utm_campaign=referral_barstoolsports_site_placement_trending_topics_hover_shirtofthemonth)
     
 * [+](https://www.barstoolsports.com/privacy-policy#more)
@@ -142,9 +142,9 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Surviving Barstool](https://www.barstoolsports.com/video/3533618/surviving-barstool-s4-ep.-4-or-dave-scrambles-to-stay-alive)
-* [Rundown](https://www.barstoolsports.com/video/3533663/ceo-killer-found-at-mcdonalds-barstool-rundown-december-10th-2024)
-* [Surviving Barstool Office Reactions](https://www.barstoolsports.com/video/3533341/office-reacts-to-surviving-barstools-shocking-eliminations-or-stool-scenes)
+* [Surviving Barstool](https://www.barstoolsports.com/video/3533747/surviving-barstool-s4-ep.-5-or-the-game-is-officially-on)
+* [Rundown](https://www.barstoolsports.com/video/3533756/bill-belichick-finalizing-deal-to-be-head-coach-of-unc-barstool-rundown-december-11th-2024)
+* [Bill Belichick](https://store.barstoolsports.com/collections/chapel-hill)
 * [Stella Blue Coffee](https://stellabluecoffee.com/)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
 
