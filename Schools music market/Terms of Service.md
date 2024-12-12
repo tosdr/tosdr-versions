@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/bachs-fight-for-freedom/)
+ [](https://schoolsmusicmarket.com/product/christmas-medley-version-2-full-band-score/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/lets-learn-about-reggae-music/)
+ [](https://schoolsmusicmarket.com/product/desk-drumming-for-beginners/)
 
 ###### Browse By Year/Grade
 
