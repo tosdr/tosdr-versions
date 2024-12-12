@@ -18,7 +18,7 @@
     
 * [News & Events](https://www.atlantafed.org/news)
     
-    [Conferences & Events](https://www.atlantafed.org/news/conferences-and-events/conferences/financial-markets-conference) [Press Room](https://www.atlantafed.org/news/press-room) [Speeches](https://www.atlantafed.org/news/speeches)
+    [Conferences & Events](https://www.atlantafed.org/news/conferences-and-events) [Press Room](https://www.atlantafed.org/news/press-room) [Speeches](https://www.atlantafed.org/news/speeches)
     
 * [Education](https://www.atlantafed.org/education)
     
@@ -30,7 +30,7 @@
     
 * [About the Fed](https://www.atlantafed.org/about)
     
-    [The Atlanta Fed](https://www.atlantafed.org/about/atlantafed) [Careers](https://www.atlantafed.org/about/careers) [FAQ](https://www.atlantafed.org/about/faq) [The Fed Explained](https://www.atlantafed.org/education/teach/infographic-posters/the-fed-explained) [Federal Reserve System](https://www.atlantafed.org/research/data-and-tools) [Holidays](https://www.atlantafed.org/about/holidays) [Diversity, Equity, & Inclusion](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion) [Transparency](https://www.atlantafed.org/about/atlantafed/transparency) [Publications](https://www.atlantafed.org/about/publications) [Visit](https://www.atlantafed.org/about/visit)
+    [The Atlanta Fed](https://www.atlantafed.org/about/atlantafed) [Careers](https://www.atlantafed.org/about/careers) [FAQ](https://www.atlantafed.org/about/faq) [The Fed Explained](https://www.atlantafed.org/education/teach/infographic-posters/the-fed-explained) [Federal Reserve System](https://www.atlantafed.org/about/federal-reserve-system) [Holidays](https://www.atlantafed.org/about/holidays) [Diversity, Equity, & Inclusion](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion) [Transparency](https://www.atlantafed.org/about/atlantafed/transparency) [Publications](https://www.atlantafed.org/about/publications) [Visit](https://www.atlantafed.org/about/visit)
     
 
         
@@ -85,7 +85,7 @@ Menutoggle menu
         * [Economic Survey Research Center](https://www.atlantafed.org/research/surveys.aspx)
         * [Center for Workforce and Economic Opportunity](https://www.atlantafed.org/cweo)
     * [Regional Economy](https://www.atlantafed.org/rein)
-        * [Atlanta](https://www.atlantafed.org/banking-and-payments/lending)
+        * [Atlanta](https://www.atlantafed.org/rein/atlanta)
         * [Birmingham](https://www.atlantafed.org/rein/birmingham)
         * [Jacksonville](https://www.atlantafed.org/rein/jacksonville)
         * [Miami](https://www.atlantafed.org/rein/miami)
@@ -188,7 +188,7 @@ Menutoggle menu
     * [The Atlanta Fed](https://www.atlantafed.org/about/atlantafed)
         * [Advisory Groups](https://www.atlantafed.org/about/atlantafed/advisory-groups)
         * [Annual Reports](https://www.atlantafed.org/about/publications/annual-reports)
-        * [Branches](https://www.atlantafed.org/research/surveys/publications-and-research)
+        * [Branches](https://www.atlantafed.org/about/atlantafed/branches)
         * [Directors](https://www.atlantafed.org/about/atlantafed/directors)
         * [Executive Leadership Committee](https://www.atlantafed.org/about/atlantafed/executive-leadership-committee)
         * [Outreach](https://www.atlantafed.org/about/atlantafed/outreach)
