@@ -10,7 +10,7 @@
 
 [![AirVPN](/static/img/logo/web_header.png)](https://airvpn.org/)
 
-*  [![Servers online.](/img/icons/server_status.png) Online: **25405** users - **294516** Mbit/s total BW](https://airvpn.org/status/ "See Server Status")
+*  [![Servers online.](/img/icons/server_status.png) Online: **26180** users - **307591** Mbit/s total BW](https://airvpn.org/status/ "See Server Status")
 
 * [Your IP: **159.223.154.84**](https://airvpn.org/external_link/?url=https%3A%2F%2Fipleak.net)
 
