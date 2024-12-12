@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 12, 2024](https://www.japantimes.co.jp/archive/2024/12/12/ "archive page")
+[December 13, 2024](https://www.japantimes.co.jp/archive/2024/12/13/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -135,21 +135,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439434.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ")](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
 
-[Firms should quit turning foreign workers into Japanese ones](https://www.japantimes.co.jp/commentary/2024/12/08/japan/foreign-workers-japan-challenges/ "Firms should quit turning foreign workers into Japanese ones")
+[Prince Hisahito to enroll at University of Tsukuba](https://www.japantimes.co.jp/news/2024/12/11/japan/prince-hisahito-tsukuba-university/ "Prince Hisahito to enroll at University of Tsukuba")
 
-  [![Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/436391.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.")](https://www.japantimes.co.jp/commentary/2024/12/08/japan/foreign-workers-japan-challenges/ "Firms should quit turning foreign workers into Japanese ones")
+  [![Prince Hisahito, who is second in line to the Chrysanthemum Throne, is currently a third-year student at the University of Tsukuba’s affiliated high school.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439508.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prince Hisahito, who is second in line to the Chrysanthemum Throne, is currently a third-year student at the University of Tsukuba’s affiliated high school.")](https://www.japantimes.co.jp/news/2024/12/11/japan/prince-hisahito-tsukuba-university/ "Prince Hisahito to enroll at University of Tsukuba")
 
-[City's Foden and Kovacic not expected to face Juventus, says Guardiola](https://www.japantimes.co.jp/sports/2024/12/11/soccer/city-juventus-injuries/ "City's Foden and Kovacic not expected to face Juventus, says Guardiola")
+[Tokyo remains third in global city index for ninth consecutive year](https://www.japantimes.co.jp/news/2024/12/11/japan/society/tokyo-city-survey/ "Tokyo remains third in global city index for ninth consecutive year")
 
-  [![Manchester City's Phil Foden, Josko Gvardiol, Mateo Kovacic, Jack Grealish and Kyle Walker during training in Manchester on Tuesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439476.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Manchester City's Phil Foden, Josko Gvardiol, Mateo Kovacic, Jack Grealish and Kyle Walker during training in Manchester on Tuesday")](https://www.japantimes.co.jp/sports/2024/12/11/soccer/city-juventus-injuries/ "City's Foden and Kovacic not expected to face Juventus, says Guardiola")
+  [![The silhouettes of Mount Fuji, the Tokyo Metropolitan Government building and Shinjuku skyscrapers are seen during sunset in Tokyo in November. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439220.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The silhouettes of Mount Fuji, the Tokyo Metropolitan Government building and Shinjuku skyscrapers are seen during sunset in Tokyo in November. ")](https://www.japantimes.co.jp/news/2024/12/11/japan/society/tokyo-city-survey/ "Tokyo remains third in global city index for ninth consecutive year")
 
-[Winter chill, hot baths and the risk of heat shock: How to stay safe](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
+[South Korean police blocked from raid on president's office](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
 
-  [![A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439147.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.")](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
+  [![Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439573.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.")](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
 
-[Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes](https://www.japantimes.co.jp/news/2024/12/10/japan/nobel-peace-prize-ceremony-hibakusha/ "Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes")
+[Union blasts Nippon Steel’s $5,000 per worker bonus in U.S. Steel deal](https://www.japantimes.co.jp/business/2024/12/11/companies/nippon-steel-union-bonus/ "Union blasts Nippon Steel’s $5,000 per worker bonus in U.S. Steel deal")
 
-  [![One of the representatives of 2024 Nobel Peace Prize winner Nihon Hidankyo, Terumi Tanaka, speaks during the Nobel Peace Prize awarding ceremony in Oslo City Hall on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439319.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "One of the representatives of 2024 Nobel Peace Prize winner Nihon Hidankyo, Terumi Tanaka, speaks during the Nobel Peace Prize awarding ceremony in Oslo City Hall on Tuesday.")](https://www.japantimes.co.jp/news/2024/12/10/japan/nobel-peace-prize-ceremony-hibakusha/ "Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes")
+  [![The United Steelworkers union claims that Nippon Steel's latest offer is tantamount to bribery.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439473.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The United Steelworkers union claims that Nippon Steel's latest offer is tantamount to bribery.")](https://www.japantimes.co.jp/business/2024/12/11/companies/nippon-steel-union-bonus/ "Union blasts Nippon Steel’s $5,000 per worker bonus in U.S. Steel deal")
 
 Editors' Picks
 --------------
@@ -162,35 +162,37 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
   [![The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439434.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ")](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
 
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
-
-[Firms should quit turning foreign workers into Japanese ones](https://www.japantimes.co.jp/commentary/2024/12/08/japan/foreign-workers-japan-challenges/ "Firms should quit turning foreign workers into Japanese ones")
-
-By [Takashi Kumon](https://www.japantimes.co.jp/author/5990/takashi-kumon/ "Takashi Kumon")  
-
-  [![Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/436391.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.")](https://www.japantimes.co.jp/commentary/2024/12/08/japan/foreign-workers-japan-challenges/ "Firms should quit turning foreign workers into Japanese ones")
-
-[SOCCER](https://www.japantimes.co.jp/sports/soccer/ "SOCCER")
-
-[City's Foden and Kovacic not expected to face Juventus, says Guardiola](https://www.japantimes.co.jp/sports/2024/12/11/soccer/city-juventus-injuries/ "City's Foden and Kovacic not expected to face Juventus, says Guardiola")
-
-  [![Manchester City's Phil Foden, Josko Gvardiol, Mateo Kovacic, Jack Grealish and Kyle Walker during training in Manchester on Tuesday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439476.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Manchester City's Phil Foden, Josko Gvardiol, Mateo Kovacic, Jack Grealish and Kyle Walker during training in Manchester on Tuesday")](https://www.japantimes.co.jp/sports/2024/12/11/soccer/city-juventus-injuries/ "City's Foden and Kovacic not expected to face Juventus, says Guardiola")
-
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Winter chill, hot baths and the risk of heat shock: How to stay safe](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
+[Prince Hisahito to enroll at University of Tsukuba](https://www.japantimes.co.jp/news/2024/12/11/japan/prince-hisahito-tsukuba-university/ "Prince Hisahito to enroll at University of Tsukuba")
 
 By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-  [![A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439147.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.")](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
+  [![Prince Hisahito, who is second in line to the Chrysanthemum Throne, is currently a third-year student at the University of Tsukuba’s affiliated high school.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439508.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prince Hisahito, who is second in line to the Chrysanthemum Throne, is currently a third-year student at the University of Tsukuba’s affiliated high school.")](https://www.japantimes.co.jp/news/2024/12/11/japan/prince-hisahito-tsukuba-university/ "Prince Hisahito to enroll at University of Tsukuba")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes](https://www.japantimes.co.jp/news/2024/12/10/japan/nobel-peace-prize-ceremony-hibakusha/ "Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes")
+[Tokyo remains third in global city index for ninth consecutive year](https://www.japantimes.co.jp/news/2024/12/11/japan/society/tokyo-city-survey/ "Tokyo remains third in global city index for ninth consecutive year")
 
-By [Pierre-Henry Deshayes](https://www.japantimes.co.jp/author/4565/pierre-henry-deshayes/ "Pierre-Henry Deshayes")  
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-  [![One of the representatives of 2024 Nobel Peace Prize winner Nihon Hidankyo, Terumi Tanaka, speaks during the Nobel Peace Prize awarding ceremony in Oslo City Hall on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439319.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "One of the representatives of 2024 Nobel Peace Prize winner Nihon Hidankyo, Terumi Tanaka, speaks during the Nobel Peace Prize awarding ceremony in Oslo City Hall on Tuesday.")](https://www.japantimes.co.jp/news/2024/12/10/japan/nobel-peace-prize-ceremony-hibakusha/ "Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes")
+  [![The silhouettes of Mount Fuji, the Tokyo Metropolitan Government building and Shinjuku skyscrapers are seen during sunset in Tokyo in November. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439220.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The silhouettes of Mount Fuji, the Tokyo Metropolitan Government building and Shinjuku skyscrapers are seen during sunset in Tokyo in November. ")](https://www.japantimes.co.jp/news/2024/12/11/japan/society/tokyo-city-survey/ "Tokyo remains third in global city index for ninth consecutive year")
+
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+
+[South Korean police blocked from raid on president's office](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
+
+By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
+
+  [![Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439573.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.")](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Union blasts Nippon Steel’s $5,000 per worker bonus in U.S. Steel deal](https://www.japantimes.co.jp/business/2024/12/11/companies/nippon-steel-union-bonus/ "Union blasts Nippon Steel’s $5,000 per worker bonus in U.S. Steel deal")
+
+By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
+
+  [![The United Steelworkers union claims that Nippon Steel's latest offer is tantamount to bribery.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439473.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The United Steelworkers union claims that Nippon Steel's latest offer is tantamount to bribery.")](https://www.japantimes.co.jp/business/2024/12/11/companies/nippon-steel-union-bonus/ "Union blasts Nippon Steel’s $5,000 per worker bonus in U.S. Steel deal")
 
 Podcast
 -------
@@ -211,9 +213,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[LDP and opposition far from consensus over corporate donations](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/parties-far-apart-political-funds/ "LDP and opposition far from consensus over corporate donations")
+
+3 hours ago
+
+[Danger for yen emerges with speculation BOJ may stand pat longer](https://www.japantimes.co.jp/business/2024/12/12/markets/yen-risk-boj/ "Danger for yen emerges with speculation BOJ may stand pat longer")
+
+4 hours ago
+
+[Nippon Life ramps up global push with $550 million TCW deal](https://www.japantimes.co.jp/business/2024/12/12/companies/nippon-life-tcw-deal/ "Nippon Life ramps up global push with $550 million TCW deal")
+
+4 hours ago
+
+[Approval rate of Ishiba's Cabinet dips to 26.8%, poll shows](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/ishiba-approval-rating-drops/ "Approval rate of Ishiba's Cabinet dips to 26.8%, poll shows")
+
+4 hours ago
+
 [Lower House passes ¥13.9 trillion supplementary budget](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/supplementary-budget-lower-house/ "Lower House passes ¥13.9 trillion supplementary budget")
 
-44 mins ago
-
-[New Japanese condos now cost 10 times average salary, study shows](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
-
-1 hour ago
-
-[Fossil fuels initially needed for AI boom, Tepco adviser says](https://www.japantimes.co.jp/news/2024/12/12/japan/fossil-fuel-ai-need/ "Fossil fuels initially needed for AI boom, Tepco adviser says")
-
-3 hours ago
-
-[Widow of former Prime Minister Shinzo Abe hopes to meet with Trump](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/akie-abe-trump-meeting/ "Widow of former Prime Minister Shinzo Abe hopes to meet with Trump")
-
-3 hours ago
-
-[Japanese crypto exchange Coincheck goes public in U.S.](https://www.japantimes.co.jp/business/2024/12/12/companies/coincheck-us-nasdaq/ "Japanese crypto exchange Coincheck goes public in U.S.")
-
-3 hours ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
