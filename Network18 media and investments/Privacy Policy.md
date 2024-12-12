@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Thu, Dec 12, 2024
+Fri, Dec 13, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Atul Subhash](https://www.news18.com/viral/atul-subhash-suicide-bengaluru-engineers-brother-in-law-threatens-reporters-over-coverage-9152680.html)
+    * [Chennai Weather](https://www.news18.com/india/chennai-weather-update-how-many-more-days-of-heavy-rain-in-tamil-nadu-ws-a-9153534.html)
+    * [Bengaluru Techie Suicide](https://www.news18.com/viral/bengaluru-techie-suicide-family-of-atul-subhashs-wife-on-the-run-vacates-jaunpur-home-9153633.html)
+    * [Idli Recipes](https://www.news18.com/web-stories/lifestyle/5-wholesome-south-indian-idli-recipes-2679427/)
     * [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
-    * [Alimony Factors](https://www.news18.com/india/supreme-court-lays-down-8-factors-to-decide-alimony-amount-amid-bengaluru-techies-suicide-9153288.html)
-    * [Bengaluru Techie Suicide](https://www.news18.com/india/this-atm-is-closed-now-harrowing-details-of-bengaluru-techie-atul-subhashs-life-and-death-9153273.html)
-    * [Mohanlal](https://www.news18.com/movies/mohanlal-reacts-to-pushpa-2-success-calls-it-a-gatecrash-the-film-industrys-wheel-has-to-turn-exclusive-9152565.html)
-    * [Andrew Garfield](https://www.news18.com/movies/spider-man-star-andrew-garfield-breaks-silence-on-meeting-shraddha-kapoor-says-he-loves-zoya-akhtar-9151908.html)
+    * [Atul Subhash Salary](https://www.news18.com/india/atul-subhashs-monthly-salary-was-rs-84000-heres-how-much-went-to-his-estranged-wife-ws-ab-9153502.html)
+    * [D Gukesh](https://www.news18.com/sports/d-gukesh-defeat-ding-liren-to-win-the-world-chess-championship-in-historic-nail-biting-game-14-becomes-youngest-ever-champion-in-history-9153866.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Atul Subhash](https://www.news18.com/viral/atul-subhash-suicide-bengaluru-engineers-brother-in-law-threatens-reporters-over-coverage-9152680.html)
+* [Chennai Weather](https://www.news18.com/india/chennai-weather-update-how-many-more-days-of-heavy-rain-in-tamil-nadu-ws-a-9153534.html)
+* [Bengaluru Techie Suicide](https://www.news18.com/viral/bengaluru-techie-suicide-family-of-atul-subhashs-wife-on-the-run-vacates-jaunpur-home-9153633.html)
+* [Idli Recipes](https://www.news18.com/web-stories/lifestyle/5-wholesome-south-indian-idli-recipes-2679427/)
 * [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
-* [Alimony Factors](https://www.news18.com/india/supreme-court-lays-down-8-factors-to-decide-alimony-amount-amid-bengaluru-techies-suicide-9153288.html)
-* [Bengaluru Techie Suicide](https://www.news18.com/india/this-atm-is-closed-now-harrowing-details-of-bengaluru-techie-atul-subhashs-life-and-death-9153273.html)
-* [Mohanlal](https://www.news18.com/movies/mohanlal-reacts-to-pushpa-2-success-calls-it-a-gatecrash-the-film-industrys-wheel-has-to-turn-exclusive-9152565.html)
-* [Andrew Garfield](https://www.news18.com/movies/spider-man-star-andrew-garfield-breaks-silence-on-meeting-shraddha-kapoor-says-he-loves-zoya-akhtar-9151908.html)
+* [Atul Subhash Salary](https://www.news18.com/india/atul-subhashs-monthly-salary-was-rs-84000-heres-how-much-went-to-his-estranged-wife-ws-ab-9153502.html)
+* [D Gukesh](https://www.news18.com/sports/d-gukesh-defeat-ding-liren-to-win-the-world-chess-championship-in-historic-nail-biting-game-14-becomes-youngest-ever-champion-in-history-9153866.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Dec 12, 2024
+Dec 13, 2024
 
 [View All](https://www.news18.com/short-news/)
 
