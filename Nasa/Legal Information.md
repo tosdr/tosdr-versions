@@ -70,13 +70,13 @@ Suggested Searches
 
 ### NASA Invites Social Creators for Launch of Two NASA Missions 
 
-article21 hours ago](https://www.nasa.gov/general/nasa-invites-social-creators-for-launch-of-two-nasa-astrophysical-missions/)[![Scientists Share Early Results from NASA’s Solar Eclipse Experiments ](https://images-assets.nasa.gov/image/NHQ202404080101/NHQ202404080101~large.jpg)
+article1 day ago](https://www.nasa.gov/general/nasa-invites-social-creators-for-launch-of-two-nasa-astrophysical-missions/)[![Scientists Share Early Results from NASA’s Solar Eclipse Experiments ](https://images-assets.nasa.gov/image/NHQ202404080101/NHQ202404080101~large.jpg)
 
 5 min read
 
 ### Scientists Share Early Results from NASA’s Solar Eclipse Experiments 
 
-article24 hours ago](https://science.nasa.gov/science-research/heliophysics/scientists-share-early-results-from-nasas-solar-eclipse-experiments/)[![NASA’s Hubble Celebrates Decade of Tracking Outer Planets](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/solar-system/collage/Hubble_OPAL10_Cover_STScI-01JE3XMES9TH3WPDCG1BTTRRPN.jpg)
+article1 day ago](https://science.nasa.gov/science-research/heliophysics/scientists-share-early-results-from-nasas-solar-eclipse-experiments/)[![NASA’s Hubble Celebrates Decade of Tracking Outer Planets](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/solar-system/collage/Hubble_OPAL10_Cover_STScI-01JE3XMES9TH3WPDCG1BTTRRPN.jpg)
 
 8 min read
 
@@ -247,7 +247,7 @@ Back
 
 ### NASA Invites Social Creators for Launch of Two NASA Missions 
 
-article 21 hours ago](https://www.nasa.gov/general/nasa-invites-social-creators-for-launch-of-two-nasa-astrophysical-missions/)[![NASA’s Hubble Celebrates Decade of Tracking Outer Planets](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/solar-system/collage/Hubble_OPAL10_Cover_STScI-01JE3XMES9TH3WPDCG1BTTRRPN.jpg)
+article 1 day ago](https://www.nasa.gov/general/nasa-invites-social-creators-for-launch-of-two-nasa-astrophysical-missions/)[![NASA’s Hubble Celebrates Decade of Tracking Outer Planets](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/solar-system/collage/Hubble_OPAL10_Cover_STScI-01JE3XMES9TH3WPDCG1BTTRRPN.jpg)
 
 8 min read
 
@@ -285,25 +285,25 @@ article 6 days ago](https://www.nasa.gov/missions/station/matt-dominicks-x-accou
 
 ### Highlights
 
-[![Data taken by NASA’s PACE and the international SWOT](https://www.nasa.gov/wp-content/uploads/2024/12/swot-pace-still-thumbnail.png?w=1024)
+[![Watersheds on the U.S. Eastern Seaboard](https://www.nasa.gov/wp-content/uploads/2024/12/1-terra-modis-04-21-23.jpg?w=1024)
+
+5 min read
+
+### NASA-DOD Study: Saltwater to Widely Taint Coastal Groundwater by 2100
+
+article 7 hours ago](https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/)[![NASA Study: Crops, Forests Responding to Changing Rainfall Patterns](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/1-precip%20map.jpg)
+
+4 min read
+
+### NASA Study: Crops, Forests Responding to Changing Rainfall Patterns
+
+article 7 hours ago](https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/)[![Data taken by NASA’s PACE and the international SWOT](https://www.nasa.gov/wp-content/uploads/2024/12/swot-pace-still-thumbnail.png?w=1024)
 
 6 min read
 
 ### NASA’s PACE, US-European SWOT Satellites Offer Combined Look at Ocean
 
-article 2 days ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean/)[![NASA Flights Map Critical Minerals from Skies Above Western US](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/Mineral%20Map%20-%20no%20legend.png)
-
-6 min read
-
-### NASA Flights Map Critical Minerals from Skies Above Western US
-
-article 6 days ago](https://science.nasa.gov/earth/nasa-flights-map-critical-minerals-from-skies-above-western-us/)[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
-
-4 min read
-
-### NASA’s C-20A Studies Extreme Weather Events
-
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)
+article 2 days ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean/)
 
 ### Highlights
 
@@ -313,85 +313,85 @@ article 7 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-
 
 ### NASA Performs First Aircraft Accident Investigation on Another World
 
-article 23 mins ago](https://www.nasa.gov/missions/mars-2020-perseverance/ingenuity-helicopter/nasa-performs-first-aircraft-accident-investigation-on-another-world/)[![JunoCam](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/PERIJOVE-37-POPUP-CLOUDS.png)
+article 11 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/ingenuity-helicopter/nasa-performs-first-aircraft-accident-investigation-on-another-world/)[![JunoCam](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/projects/PERIJOVE-37-POPUP-CLOUDS.png)
 
 2 min read
 
 ### JunoCam
 
-article 20 hours ago](https://science.nasa.gov/citizen-science/junocam-2/)[![Scientists Share Early Results from NASA’s Solar Eclipse Experiments ](https://images-assets.nasa.gov/image/NHQ202404080101/NHQ202404080101~large.jpg)
+article 1 day ago](https://science.nasa.gov/citizen-science/junocam-2/)[![Scientists Share Early Results from NASA’s Solar Eclipse Experiments ](https://images-assets.nasa.gov/image/NHQ202404080101/NHQ202404080101~large.jpg)
 
 5 min read
 
 ### Scientists Share Early Results from NASA’s Solar Eclipse Experiments 
 
-article 24 hours ago](https://science.nasa.gov/science-research/heliophysics/scientists-share-early-results-from-nasas-solar-eclipse-experiments/)
+article 1 day ago](https://science.nasa.gov/science-research/heliophysics/scientists-share-early-results-from-nasas-solar-eclipse-experiments/)
 
 ### Featured
 
-[![Discovery Alert: A Planet with a ‘Tail’](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2024/03/WASP-69%20b%20Tail.jpg)
+[![Found: First Actively Forming Galaxy as Lightweight as Young Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JD0MVRQ4ANVGZJV5PM1Z7AJM-1K.png)
+
+6 min read
+
+### Found: First Actively Forming Galaxy as Lightweight as Young Milky Way
+
+article 9 hours ago](https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/)[![Discovery Alert: A Planet with a ‘Tail’](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2024/03/WASP-69%20b%20Tail.jpg)
 
 4 min read
 
 ### Discovery Alert: A Planet with a ‘Tail’
 
-article 22 hours ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-planet-with-a-tail/)[![Hubble Spots a Spiral in the Celestial River](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC1637_potw2449a.jpg)
+article 1 day ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-planet-with-a-tail/)[![Hubble Spots a Spiral in the Celestial River](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC1637_potw2449a.jpg)
 
 2 min read
 
 ### Hubble Spots a Spiral in the Celestial River
 
-article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/)[![NASA’s Hubble Takes the Closest-Ever Look at a Quasar](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/quasars/Hubble_STIS_Quasar3C273.png)
-
-4 min read
-
-### NASA’s Hubble Takes the Closest-Ever Look at a Quasar
-
-article 6 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-takes-the-closest-ever-look-at-a-quasar/)
+article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/)
 
 ### Highlights
 
-[![NASA’s Ingenuity Mars Helicopter](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26238-ingentuity-ripples-cropped.jpg?w=1024)
+[![Title slide for Open Science Success Stories with Dr Vla Fajardo](https://www.nasa.gov/wp-content/uploads/2024/10/success-stories-title-slide-valfajardo.jpg?w=1024)
+
+1 min read
+
+### Open Science Success Stories with Dr Val Fajardo
+
+article 6 hours ago](https://www.nasa.gov/open-science-success-stories-with-dr-val-fajardo/)[![Found: First Actively Forming Galaxy as Lightweight as Young Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JD0MVRQ4ANVGZJV5PM1Z7AJM-1K.png)
+
+6 min read
+
+### Found: First Actively Forming Galaxy as Lightweight as Young Milky Way
+
+article 9 hours ago](https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/)[![NASA’s Ingenuity Mars Helicopter](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26238-ingentuity-ripples-cropped.jpg?w=1024)
 
 5 min read
 
 ### NASA Performs First Aircraft Accident Investigation on Another World
 
-article 23 mins ago](https://www.nasa.gov/missions/mars-2020-perseverance/ingenuity-helicopter/nasa-performs-first-aircraft-accident-investigation-on-another-world/)[![A large scientific balloon is tethered to the snow-covered ground as it inflates before liftoff in Antarctica.](https://www.nasa.gov/wp-content/uploads/2024/12/p1180607.jpg?w=1024)
-
-5 min read
-
-### NASA Scientific Balloon Flights to Lift Off From Antarctica
-
-article 20 hours ago](https://www.nasa.gov/missions/scientific-balloons/nasa-scientific-balloon-flights-to-lift-off-from-antarctica/)[![Scientists Share Early Results from NASA’s Solar Eclipse Experiments ](https://images-assets.nasa.gov/image/NHQ202404080101/NHQ202404080101~large.jpg)
-
-5 min read
-
-### Scientists Share Early Results from NASA’s Solar Eclipse Experiments 
-
-article 24 hours ago](https://science.nasa.gov/science-research/heliophysics/scientists-share-early-results-from-nasas-solar-eclipse-experiments/)
+article 11 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/ingenuity-helicopter/nasa-performs-first-aircraft-accident-investigation-on-another-world/)
 
 ### Highlights
 
-[![A black drone with an orange top in flight in Nevada.](https://www.nasa.gov/wp-content/uploads/2024/12/drone-test.jpg?w=1024)
+[![An atmospheric probe model carried by a quad rotor aircraft rises and the Moon is visible.](https://images-assets.nasa.gov/image/AFRC2024-0166-032/AFRC2024-0166-032~large.jpg?w=1919&h=1281&fit=clip&crop=faces%2Cfocalpoint)
+
+3 min read
+
+### Atmospheric Probe Shows Promise in Test Flight
+
+article 6 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/atmospheric-probe-shows-promise-in-test-flight/)[![A black drone with an orange top in flight in Nevada.](https://www.nasa.gov/wp-content/uploads/2024/12/drone-test.jpg?w=1024)
 
 3 min read
 
 ### NASA Moves Drone Package Delivery Industry Closer to Reality
 
-article 20 hours ago](https://www.nasa.gov/aeronautics/drones/nasa-moves-drone-package-delivery-industry-closer-to-reality/)[![Two men prepare a wing test article for obtaining vibration data.](https://images-assets.nasa.gov/image/AFRC2024-0142-096/AFRC2024-0142-096~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+article 1 day ago](https://www.nasa.gov/aeronautics/drones/nasa-moves-drone-package-delivery-industry-closer-to-reality/)[![Two men prepare a wing test article for obtaining vibration data.](https://images-assets.nasa.gov/image/AFRC2024-0142-096/AFRC2024-0142-096~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
 ### NASA Flips Efficient Wing Concept for Testing
 
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-flips-efficient-wing-concept-for-testing/)[![An angled view of a large, long testbed setup featuring metal hardware, wires, cables, and testing machinery.](https://www.nasa.gov/wp-content/uploads/2024/11/1-speed.jpg?w=1024)
-
-2 min read
-
-### Scaled Power Electrified Drivetrain (SPEED)
-
-article 1 week ago](https://www.nasa.gov/speed/)
+article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-flips-efficient-wing-concept-for-testing/)
 
 ### Highlights
 
@@ -445,13 +445,13 @@ article 3 weeks ago](https://www.nasa.gov/learning-resources/launch-your-career/
 
 ### NASA Moves Drone Package Delivery Industry Closer to Reality
 
-article 20 hours ago](https://www.nasa.gov/aeronautics/drones/nasa-moves-drone-package-delivery-industry-closer-to-reality/)[![NASA’s SPHEREx observatory](https://www.nasa.gov/wp-content/uploads/2024/10/1-spherex-telescope.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/aeronautics/drones/nasa-moves-drone-package-delivery-industry-closer-to-reality/)[![NASA’s SPHEREx observatory](https://www.nasa.gov/wp-content/uploads/2024/10/1-spherex-telescope.jpg?w=1024)
 
 6 min read
 
 ### NASA Invites Social Creators for Launch of Two NASA Missions 
 
-article 21 hours ago](https://www.nasa.gov/general/nasa-invites-social-creators-for-launch-of-two-nasa-astrophysical-missions/)[![The Group 15 NASA and international astronaut candidates pose for a group photo – front row, Jeffrey S. Ashby, left, Dafydd “Dave” R. Williams, James F. Reilly, Scott D. Altman, Rick D. Husband, and Michael J. Bloomfield; middle row, Pamela A. Melroy, left, Michael P. Anderson, Michel Tognini, Kathryn “Kay” P. Hire, Kalpana Chawla, Carlos I. Noriega, Susan L. Still, Takao Doi, and Frederick “Rick” W. Sturckow; back row, Janet L. Kavandi, left, Edward T. Lu, Steven K. Robinson, Robert L. Curbeam, Dominic L.P. Gorie, Joe F. Edwards, Steven W. Lindsey, and Jean-Loup Chrétien.](https://www.nasa.gov/wp-content/uploads/2024/12/group-15-1-group-portrait.jpg?w=1020)
+article 1 day ago](https://www.nasa.gov/general/nasa-invites-social-creators-for-launch-of-two-nasa-astrophysical-missions/)[![The Group 15 NASA and international astronaut candidates pose for a group photo – front row, Jeffrey S. Ashby, left, Dafydd “Dave” R. Williams, James F. Reilly, Scott D. Altman, Rick D. Husband, and Michael J. Bloomfield; middle row, Pamela A. Melroy, left, Michael P. Anderson, Michel Tognini, Kathryn “Kay” P. Hire, Kalpana Chawla, Carlos I. Noriega, Susan L. Still, Takao Doi, and Frederick “Rick” W. Sturckow; back row, Janet L. Kavandi, left, Edward T. Lu, Steven K. Robinson, Robert L. Curbeam, Dominic L.P. Gorie, Joe F. Edwards, Steven W. Lindsey, and Jean-Loup Chrétien.](https://www.nasa.gov/wp-content/uploads/2024/12/group-15-1-group-portrait.jpg?w=1020)
 
 17 min read
 
@@ -467,19 +467,19 @@ article 2 days ago](https://www.nasa.gov/history/30-years-ago-nasa-selects-its-1
 
 ### La NASA identifica causa de pérdida de material del escudo térmico de Orion de Artemis I
 
-article 5 days ago](https://www.nasa.gov/es/la-nasa-identifica-causa-de-perdida-de-material-del-escudo-termico-de-orion-de-artemis-i/)[![View from outside a large run stall. The 100-foot-long X-59 sits in the run stall with the engine and the rest of the back of the aircraft sitting outside the run stall’s open bay door.](https://images-assets.nasa.gov/image/AFRC2024-0176-01/AFRC2024-0176-01~large.jpg?w=1920&h=1281&fit=clip&crop=faces%2Cfocalpoint)
+article 5 days ago](https://www.nasa.gov/es/la-nasa-identifica-causa-de-perdida-de-material-del-escudo-termico-de-orion-de-artemis-i/)[![NASA astronaut and Expedition 72 Flight Engineer Nick Hague pedals on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), an exercise cycle located aboard the International Space Station's Destiny laboratory module. CEVIS provides aerobic and cardiovascular conditioning through recumbent (leaning back position) or upright cycling activities.](https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+
+8 min read
+
+### Preguntas frecuentes: La verdadera historia del cuidado de la salud de los astronautas en el espacio
+
+article 3 weeks ago](https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/)[![View from outside a large run stall. The 100-foot-long X-59 sits in the run stall with the engine and the rest of the back of the aircraft sitting outside the run stall’s open bay door.](https://images-assets.nasa.gov/image/AFRC2024-0176-01/AFRC2024-0176-01~large.jpg?w=1920&h=1281&fit=clip&crop=faces%2Cfocalpoint)
 
 4 min read
 
 ### El X-59 enciende su motor por primera vez rumbo al despegue
 
-article 1 month ago](https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-primera-vez-rumbo-al-despegue/)[![A view of the front of a bustling event tent outfitted with NASA flags and insignia. The tent is centered in the photo and sits atop a concrete airfield, where many people are walking in and out of the tent. A grey-white overcast sky is behind and above the tent.](https://www.nasa.gov/wp-content/uploads/2024/10/nasa-miramarairshow-10012024-dsc00038.jpg?w=1024)
-
-3 min read
-
-### La NASA lleva un dron y un rover espacial a un espectáculo aéreo
-
-article 1 month ago](https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/)
+article 1 month ago](https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-primera-vez-rumbo-al-despegue/)
 
 [![OCIO Banner](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png?w=1907)](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png)
 
