@@ -88,13 +88,13 @@ Most Read
     
     1. [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
     
-2. 2. [AI company trolls San Francisco with billboards saying “stop hiring humans”](https://arstechnica.com/information-technology/2024/12/ai-company-trolls-san-francisco-with-billboards-saying-stop-hiring-humans/)
+2. 2. [NASA believes it understands why Ingenuity crashed on Mars](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/)
     
-3. 3. [Efficiency, power, luxury: The 2025 Lucid Gravity SUV nails all three](https://arstechnica.com/features/2024/12/the-2025-lucid-gravity-impresses-us-with-slick-handling-magic-ride/)
+3. 3. [AI company trolls San Francisco with billboards saying “stop hiring humans”](https://arstechnica.com/information-technology/2024/12/ai-company-trolls-san-francisco-with-billboards-saying-stop-hiring-humans/)
     
-4. 4. [In a not-so-subtle signal to regulators, Blue Origin says New Glenn is ready](https://arstechnica.com/space/2024/12/intrigue-swirls-as-blue-origin-races-toward-year-end-deadline-for-new-glenn/)
+4. 4. [Amazon starts selling Hyundai cars, more brands next year](https://arstechnica.com/cars/2024/12/amazon-gets-into-the-car-sales-game-starting-with-hyundai/)
     
-5. 5. [Amazon starts selling Hyundai cars, more brands next year](https://arstechnica.com/cars/2024/12/amazon-gets-into-the-car-sales-game-starting-with-hyundai/)
+5. 5. [Efficiency, power, luxury: The 2025 Lucid Gravity SUV nails all three](https://arstechnica.com/features/2024/12/the-2025-lucid-gravity-impresses-us-with-slick-handling-magic-ride/)
     
 
 Customize
