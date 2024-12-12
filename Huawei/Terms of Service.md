@@ -49,17 +49,17 @@ search  Search Close
 
 Popular Products
 
-[](https://consumer.huawei.com/en/wearables/watch-gt5-pro/ "HUAWEI WATCH GT 5 Pro")
+[](https://consumer.huawei.com/en/phones/mate-x6/ "HUAWEI Mate X6")
 
-[HUAWEI WATCH GT 5 Pro](https://consumer.huawei.com/en/wearables/watch-gt5-pro/ "HUAWEI WATCH GT 5 Pro")
+[HUAWEI Mate X6](https://consumer.huawei.com/en/phones/mate-x6/ "HUAWEI Mate X6")
 
-[](https://consumer.huawei.com/en/wearables/watch-ultimate/ "HUAWEI WATCH Ultimate")
+[](https://consumer.huawei.com/en/phones/nova13-pro/ "HUAWEI nova 13 Pro")
 
-[HUAWEI WATCH Ultimate](https://consumer.huawei.com/en/wearables/watch-ultimate/ "HUAWEI WATCH Ultimate")
+[HUAWEI nova 13 Pro](https://consumer.huawei.com/en/phones/nova13-pro/ "HUAWEI nova 13 Pro")
 
-[](https://consumer.huawei.com/en/tablets/matepad-pro-12-2/ "HUAWEI MatePad Pro 12.2-inch")
+[](https://consumer.huawei.com/en/headphones/freebuds-pro-4/ "HUAWEI FreeBuds Pro 4")
 
-[HUAWEI MatePad Pro 12.2-inch](https://consumer.huawei.com/en/tablets/matepad-pro-12-2/ "HUAWEI MatePad Pro 12.2-inch")
+[HUAWEI FreeBuds Pro 4](https://consumer.huawei.com/en/headphones/freebuds-pro-4/ "HUAWEI FreeBuds Pro 4")
 
 Quick View
 
