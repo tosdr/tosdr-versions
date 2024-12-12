@@ -20,7 +20,7 @@ Toggle navigation [RANDOM.ORG](https://www.random.org/)
 * [Pregenerated File Archive](https://archive.random.org/)
 * [API Services](https://api.random.org/)
 
-* [w0](#)
+* [wx](#)
 
 * [Login](#)
     *   
