@@ -47,7 +47,7 @@ aanbod richt zich uitsluitend op consumenten die de aankoop doen voor privédoel
 7\. Over terugbetalingen: Terugbetalingen vinden automatisch plaats op de manier dat u oorspronkelijk hebt betaald. Tenzij u uitdrukkelijk akkoord gaat met een andere methode.  
 8\. Over de klantenservice: Ga bij vragen naar onze hulppagina’s of neem [contact](https://www.zalando.nl/faq) met ons op.  
 9\. Over mogelijke klachten: Wij hebben een meld- en klachtenprocedure opgezet om mogelijk illegale inhoud te beoordelen. Mocht u het niet eens zijn met onze beslissing, staan u verschillende rechtsmiddelen ter beschikking.  
-10\. Overig: De wettelijke rechten van de consument, waar u recht op hebt, zijn van toepassing. Meer informatie vindt u in de AV. [Hier](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/0c82a477-3533-4b09-938d-b88af226538e.pdf) kunt u ook de AV downloaden en archiveren.  
+10\. Overig: De wettelijke rechten van de consument, waar u recht op hebt, zijn van toepassing. Meer informatie vindt u in de AV. [Hier](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a86efc0b-ba66-4efb-82e2-378f70a3c503.pdf) kunt u ook de AV downloaden en archiveren.  
   
 **Kennisgevings- en klachtenprocedure; buitengerechtelijke geschillenbeslechting**
 
@@ -68,7 +68,7 @@ Deel I - ALGEMENE EN AANVULLENDE VOORWAARDEN
 Deel II - ALGEMENE VOORWAARDEN VOOR DE INRUILOPTIE
 --------------------------------------------------
 
-[**PDF Download**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/0c82a477-3533-4b09-938d-b88af226538e.pdf)
+[**PDF Download**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a86efc0b-ba66-4efb-82e2-378f70a3c503.pdf)
 
 **  
 Deel I:**
@@ -323,7 +323,7 @@ Besteld op\*/ontvangen op\* \[datum bestelling bij diensten of ontvangst bij pro
 
 **ALGEMENE EN AANVULLENDE VOORWAARDEN**
 
-[PDF](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/0c82a477-3533-4b09-938d-b88af226538e.pdf)  
+[PDF](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a86efc0b-ba66-4efb-82e2-378f70a3c503.pdf)  
 Aanvullende algemene voorwaarden (AV) voor bestellingen via www.zalando.nlHierna willen wij u onze Algemene Voorwaarden presenteren, die ten grondslag liggen aan alle diensten die op Zalando.de worden geleverd. Wij bieden u op [www.zalando.nl](https://www.zalando.nl/)  een gepersonaliseerde shopping- en service-ervaring, die is aangepast aan uw interesses en behoeften. Op [www.zalando.nl](https://www.zalando.nl/)  verkopen wij artikelen van Zalando en partners van Zalando.  
 **De aanbiedingen op onze websites www.zalando.nl zijn uitsluitend bedoeld voor consumenten die de aankoop doen met een doel dat noch aan hun commerciële noch aan hun professionele activiteiten kan worden toegeschreven.  
 **Zalando-artikelen zijn alle artikelen, die we u op www.zalando.nl aanbieden, inclusief Zalando pre-owned fashion-artikelen, voor zover wij u er niet op wijzen dat het om een Zalando-partner-artikel gaat. Zalando-partner-artikelen zijn artikelen, die we u op [www.zalando.nl](https://www.zalando.nl/) aanbieden en die wij daar als Zalando-partner-artikel aanduiden. Alle Zalando-partners zijn zakelijke handelaren. Zalando pre-owned fashion-artikelen zijn alle artikelen, die we u op [www.zalando.nl](http://www.zalando.nl/) aanbieden en die we daar als Zalando pre-owned fashion-artikelen aanduiden.
@@ -415,7 +415,9 @@ Het ontbindingsrecht is uitgesloten voor verzegelde producten, die om redenen va
 
 **9\. TERUGBETALINGEN**
 
-Elke terugbetaling voeren wij automatisch uit op de door u voor de betaling gebruikte rekening. Let op: als je een of meer artikelen toevoegt aan het retourpakket die je niet hebt vermeld op het retourformulier, krijg je je geld terug via een cadeaubon voor alle artikelen in het pakket. Bij betaling op rekening en bij vooruitbetaling wordt teruggeboekt op de rekening waarvan wij de betaling hebben ontvangen. Heeft u met Paypal / creditcard betaald, dan volgt de terugboeking op de daaraan verbonden Paypal-/creditcardrekening. Indien u bij uw koop een cadeaubon heeft gebruikt, dan boeken wij het betreffende bedrag op uw cadeaubonrekening. Tenzij u uitdrukkelijk akkoord gaat met een andere methode.
+Elke terugbetaling voeren wij automatisch uit op de door u voor de betaling gebruikte rekening. Bij betaling op rekening en bij vooruitbetaling wordt teruggeboekt op de rekening waarvan wij de betaling hebben ontvangen. Heeft u met Paypal / creditcard betaald, dan volgt de terugboeking op de daaraan verbonden Paypal-/creditcardrekening. Indien u bij uw koop een cadeaubon heeft gebruikt, dan boeken wij het betreffende bedrag op uw cadeaubonrekening. Tenzij u uitdrukkelijk akkoord gaat met een andere methode.  
+  
+Als je een “cadeaubon” kiest voor je restitutie en andere artikelen uit dezelfde bestelling retourneert in plaats van de artikelen die vermeld staan in de online retourregistratie, passen we je saldo aan zodat het overeenkomt met de waarde van de cadeaubon. Dit betekent het volgende: Zalando beoordeelt of u recht heeft op een extra terugbetaling of dat er nog een betaling aan ons verschuldigd is.Het bedrag boven de waarde van de cadeaukaart wordt teruggestort naar het oorspronkelijke betaalmiddel.
 
 **10\. KWALITEIT ZALANDO PRE-OWNED FASHION ARTIKELEN**
 
@@ -428,7 +430,7 @@ De klantendienst kan worden gecontacteerd via onze [FAQs](https://www.zalando.nl
 **12\. TOEPASSELIJK RECHT EN VERDERE INFORMATIE**
 
 12.1 Op al onze overeenkomsten is het Nederlandse recht van toepassing.  
-12.2 U vindt deze Algemene Voorwaarden op www.zalando.nl Daarnaast kunt u dit document uitprinten of opslaan, door de gebruikelijke functie van uw internetprogramma (=browser: meestel als “document opslaan”) te gebruiken. U kunt dit document als pdf downloaden en archiveren, door [hier aanklikken.](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/0c82a477-3533-4b09-938d-b88af226538e.pdf) Om een pdf te kunnen openen, heeft een gratis programma nodig van Adobe Reader (www.adobe.com/nl/) of een vergelijkbaar programma, die het pdf-format beheerst.  
+12.2 U vindt deze Algemene Voorwaarden op www.zalando.nl Daarnaast kunt u dit document uitprinten of opslaan, door de gebruikelijke functie van uw internetprogramma (=browser: meestel als “document opslaan”) te gebruiken. U kunt dit document als pdf downloaden en archiveren, door [hier aanklikken.](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a86efc0b-ba66-4efb-82e2-378f70a3c503.pdf) Om een pdf te kunnen openen, heeft een gratis programma nodig van Adobe Reader (www.adobe.com/nl/) of een vergelijkbaar programma, die het pdf-format beheerst.  
 12.3 Het gebruik van het beschikbare aanbod op [www.zalando.nl](https://www.zalando.nl/) is mogelijk voor personen die minstens 18 jaar oud zijn.  
 12.4 Elke klant mag slechts één klantenaccount bij Zalando hebben. Wij behouden ons het recht voor, meerdere aanmeldingen van één persoon te wissen.  
 12.5 U kunt ook aanvullend de gegevens van uw bestelling archiveren, door de Algemene Voorwaarden te downloaden en de op de laatste pagina van het bestelproces weergegeven gegevens met behulp van uw browserfunctie op te slaan of te wachten op de ontvangstbevestiging van uw bestelling, welke wij u tevens per e-mail zullen sturen na afloop van uw bestelling. Deze bevestiging bevat nogmaals uw bestelgegevens en onze Algemene Voorwaarden. Deze kunt u eenvoudig uitprinten, dan wel met uw e-mailprogramma opslaan.  
@@ -441,7 +443,7 @@ Postadres: Zalando SE 11501 Berlijn (Duitsland)
 Bezoekadres: Zalando SE Valeska-Gert-Straße 5 10243 Berlijn (Duitsland)  
 Ingeschreven in het handelsregister van het kantongerecht Charlottenburg Berlijn (Duitsland), HRB 158855 B  
   
-Stand: 27.09.2024  
+Stand: 12.12.2024  
 
 **Deel II**
 
@@ -650,7 +652,6 @@ _shopping\_bag\_full_Makkelijk online shoppenMakkelijk online shoppen
 
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-* [Ontdek Zalando Plus](https://www.zalando.nl/zalandoplus/)
 * [Gratis standaard verzending vanaf €25,-](https://www.zalando.nl/faq/what-delivery-options-are-available.html)
 * [100 dagen retourrecht](https://www.zalando.nl/faq/what-is-your-return-policy.html)
 * [Gratis retour](https://www.zalando.nl/faq/how-can-I-return-my-order.html)
