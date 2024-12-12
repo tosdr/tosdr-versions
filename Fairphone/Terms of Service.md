@@ -9,8 +9,7 @@
 * [Shop](https://shop.fairphone.com/en/)
     * [Smartphones](https://shop.fairphone.com/smartphones)
         * [Fairphone 5](https://shop.fairphone.com/fairphone-5)
-        * [Fairphone 4](https://shop.fairphone.com/fairphone-4)
-        * [Fairphone 4 with /e/os](https://shop.fairphone.com/fairphone-4-e-operating-system)
+        * [Fairphone 5 with /e/os](https://shop.fairphone.com/fairphone-5-e-operating-system)
     * [Audio](https://shop.fairphone.com/audio)
         * [Fairbuds XL Headphones](https://shop.fairphone.com/en/fairbuds-xl)
         * [Fairbuds](https://shop.fairphone.com/fairbuds)
@@ -32,8 +31,7 @@
 * [Shop](https://shop.fairphone.com/en/)
     * [Smartphones](https://shop.fairphone.com/smartphones)
         * [Fairphone 5](https://shop.fairphone.com/fairphone-5)
-        * [Fairphone 4](https://shop.fairphone.com/fairphone-4)
-        * [Fairphone 4 with /e/os](https://shop.fairphone.com/fairphone-4-e-operating-system)
+        * [Fairphone 5 with /e/os](https://shop.fairphone.com/fairphone-5-e-operating-system)
     * [Audio](https://shop.fairphone.com/audio)
         * [Fairbuds XL Headphones](https://shop.fairphone.com/en/fairbuds-xl)
         * [Fairbuds](https://shop.fairphone.com/fairbuds)
@@ -49,7 +47,7 @@
 
 [Login](https://shop.fairphone.com/web/login)
 
-India | English
+English
 
 [Change country](https://shop.fairphone.com/languagegateway/?previous_id=1&previous_type=wordpress?previous_id=1&previous_type=wordpress&previous_url=terms-and-conditions-for-fairphone-website-usage)
 
@@ -163,8 +161,7 @@ Yes, I would like to receive recurring e-mails from Fairphone. I can update my p
 
 * [Products](#?ref=footer)
     * [Fairphone 5](https://shop.fairphone.com/fairphone-5?ref=footer)
-    * [Fairphone 4](https://shop.fairphone.com/en/?ref=footer)
-    * [Fairphone 4 with /e/os](https://shop.fairphone.com/fairphone-4-e-operating-system?ref=footer)
+    * [Fairphone 5 with /e/os](https://shop.fairphone.com/fairphone-5-e-operating-system?ref=footer)
     * [Fairbuds XL Headphones](https://shop.fairphone.com/en/fairbuds-xl?ref=footer)
     * [Fairbuds](https://shop.fairphone.com/fairbuds?ref=footer)
     * [Spare Parts](https://shop.fairphone.com/shop/category/spare-parts-4?ref=footer)
