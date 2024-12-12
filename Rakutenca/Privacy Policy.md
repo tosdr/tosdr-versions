@@ -395,7 +395,7 @@ FR
         
         $25 for every $10,000](https://www.rakuten.ca/all-purposerealty.com)[Best Buy
         
-        up to 3% Cash Back](https://www.rakuten.ca/best-buy)
+        up to 2% Cash Back](https://www.rakuten.ca/best-buy)
         
         Featured Shops & Deals
         
@@ -541,7 +541,7 @@ FR
         
         Viator - A TripAdvisor Company
         
-        8% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/viator?sourceName=nav-menu)
+        12% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/viator?sourceName=nav-menu)
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
@@ -560,7 +560,7 @@ FR
         
         Viator - A TripAdvisor Company
         
-        8% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/viator?sourceName=nav-menu)
+        12% Cash Back](https://www.rakuten.ca/ticket/campaign/14CategoryFeaturedStores/store/viator?sourceName=nav-menu)
         
     * [See All Stores](https://www.rakuten.ca/stores "See All Stores at Rakuten.ca")
 * [2X Cash Back](https://www.rakuten.ca/holiday-prep "Double Cash Back Promo Codes and Coupons at Rakuten.ca")
