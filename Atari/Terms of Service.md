@@ -326,9 +326,9 @@ New
 
 ###### New Arrivals
 
-[![](files/RB_Gaming-Blend_combo_beanpile_02_1.jpg)
+[![](files/stockings.jpg)
 
-Roasty Buds](https://www.atari.com/collections/roasty-buds-x-atari-vcs)
+Stocking Stuffers](https://www.atari.com/collections/stocking-stuffers)
 
 [![](files/atari_merch_nov2024-350_1.jpg)
 
@@ -348,9 +348,9 @@ Menu
 
 ###### New Arrivals
 
-[![](files/RB_Gaming-Blend_combo_beanpile_02_1.jpg)
+[![](files/stockings.jpg)
 
-Roasty Buds](https://www.atari.com/collections/roasty-buds-x-atari-vcs)
+Stocking Stuffers](https://www.atari.com/collections/stocking-stuffers)
 
 [![](files/atari_merch_nov2024-350_1.jpg)
 
