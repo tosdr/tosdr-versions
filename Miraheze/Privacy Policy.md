@@ -27,7 +27,7 @@ Help/Requests/Notices
 * [Steward requests](https://meta.miraheze.org/wiki/Steward_requests)
 * [Meta administrators' noticeboard](https://meta.miraheze.org/wiki/Meta:Administrators%27_noticeboard)
 * [Meta community portal](https://meta.miraheze.org/wiki/Meta:Community_portal)
-* [SRE noticeboard](https://meta.miraheze.org/wiki/Tech:SRE_noticeboard)
+* [Tech noticeboard](https://meta.miraheze.org/wiki/Tech:Noticeboard)
 
 Miraheze
 
@@ -106,8 +106,8 @@ Other languages:
 * English
 * [español](https://meta.miraheze.org/wiki/Privacy_Policy/es "Política de Privacidad (8% translated)")
 * [हिन्दी](https://meta.miraheze.org/wiki/Privacy_Policy/hi "गोपनीयता नीति (55% translated)")
-* [中文（简体）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-hans "隐私政策 (9% translated)")
-* [中文（繁體）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-hant "隱私權政策 (15% translated)")
+* [中文（简体）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-hans "隐私政策 (14% translated)")
+* [中文（繁體）](https://meta.miraheze.org/wiki/Privacy_Policy/zh-hant "隱私權政策 (17% translated)")
 * [日本語](https://meta.miraheze.org/wiki/Privacy_Policy/ja "プライバシー・ポリシー (3% translated)")
 
 |     |     |
