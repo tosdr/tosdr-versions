@@ -1,4 +1,4 @@
-[Unlock seamless workflows and faster delivery with our latest releases- get the details](https://www.sanity.io/release?ref=homepage)
+[Unlock seamless workflows and faster delivery with our latest releases – get the details](https://www.sanity.io/release?ref=homepage)
 
 [Sanity](https://www.sanity.io/)
 
