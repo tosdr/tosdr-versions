@@ -128,17 +128,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Report
+[Backup and Recovery
 
-Meet the People Shaping the Future of Data: The Data Leaders 25](https://www.ownbackup.com/blog/meet-the-people-shaping-the-future-of-data-the-data-leaders-25)
+How Quickly Could You Recover Lost Salesforce Data?](https://www.ownbackup.com/blog/how-quickly-recover-lost-salesforce-data)
 
-[Data Analytics
+[Backup and Recovery
 
-CIOs Want To Be Data-Driven. Here’s What’s Holding Them Back.](https://www.ownbackup.com/blog/cios-want-to-be-data-driven-heres-whats-holding-them-back)
+The Most Common Salesforce Data Backup Fears and How to Overcome Them](https://www.ownbackup.com/blog/the-most-common-salesforce-data-backup-fears-and-how-to-overcome-them)
 
-[Own Discover
+[Backup and Recovery
 
-Own Discover: Fuel New Insights With Your Historical SaaS Data](https://www.ownbackup.com/blog/own-discover-fuel-new-insights-with-your-historical-saas-data)
+Why and How to Back Up Your Salesforce Metadata](https://www.ownbackup.com/blog/why-back-up-salesforce-metadata)
 
 Company
 
@@ -352,17 +352,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Report
+[Backup and Recovery
 
-Meet the People Shaping the Future of Data: The Data Leaders 25](https://www.ownbackup.com/blog/meet-the-people-shaping-the-future-of-data-the-data-leaders-25)
+How Quickly Could You Recover Lost Salesforce Data?](https://www.ownbackup.com/blog/how-quickly-recover-lost-salesforce-data)
 
-[Data Analytics
+[Backup and Recovery
 
-CIOs Want To Be Data-Driven. Here’s What’s Holding Them Back.](https://www.ownbackup.com/blog/cios-want-to-be-data-driven-heres-whats-holding-them-back)
+The Most Common Salesforce Data Backup Fears and How to Overcome Them](https://www.ownbackup.com/blog/the-most-common-salesforce-data-backup-fears-and-how-to-overcome-them)
 
-[Own Discover
+[Backup and Recovery
 
-Own Discover: Fuel New Insights With Your Historical SaaS Data](https://www.ownbackup.com/blog/own-discover-fuel-new-insights-with-your-historical-saas-data)
+Why and How to Back Up Your Salesforce Metadata](https://www.ownbackup.com/blog/why-back-up-salesforce-metadata)
 
 Company
 
