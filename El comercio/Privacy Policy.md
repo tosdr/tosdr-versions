@@ -31,540 +31,306 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Autopista General Rumiñahui, con cierre parcial este jueves 12 de diciembre
-===========================================================================
+Kylian Mbappé, del Real Madrid, es duda para la Intercontinental
+================================================================
 
-Un choque se produjo en la Autopista General Rumiñahui a la altura del puente 6. Los carriles laterales se encuentran cerrados para atender la emergencia
----------------------------------------------------------------------------------------------------------------------------------------------------------
+Kylian Mbappé es una de las figuras galácticas del Real Madrid en este campaña 2024/25.
+---------------------------------------------------------------------------------------
 
-![El choque se dio a la altura del puente 6.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-12T074633.332.jpg)
+![Kylian Mbappé, figura del Real Madrid, es duda para la Copa Intercontinental.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-12T142746.953.jpg)
 
-El ECU911 informó sobre una **emergencia** registrada en la **Autopista General Rumiñahui** este jueves 12 de diciembre de 2024, en Quito.
+**Kylian** **Mbappé**, delantero francés del **Real** **Madrid**, presenta una lesión en el muslo izquierdo tras abandonar el campo en el minuto 35 del partido frente a la Atalanta. Según información obtenida por EFE, su participación en la final de la Copa Intercontinental está en duda.
 
-### Más noticias
-
-* [¿Sintieron el temblor de 2.9 en Quito?](https://www.elcomercio.com/actualidad/quito/un-temblor-de-2-9-se-registro-en-quito-este-jueves-12-de-diciembre.html "¿Sintieron el temblor de 2.9 en Quito?")
-* [Así funciona el Pico y placa en Quito este jueves 12 de diciembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-jueves-11-de-diciembre.html "Así funciona el Pico y placa en Quito este jueves 12 de diciembre")
-* [AMT impulsa la campaña No le creas al alcohol para salvar vidas](https://www.elcomercio.com/actualidad/quito/amt-impulsa-campana-no-le-creas-al-alcohol-para-salvar-vidas.html "AMT impulsa la campaña No le creas al alcohol para salvar vidas")
-
-El choque involucró a una ambulancia
-------------------------------------
-
-E**l Servicio de Emergencias** dio a conocer que recibió una llamada de alerta a las 07:06 de este jueves 12 de diciembre a la línea única de emergencias 911.
-
-En la llamada se avisaba sobre un siniestro de tránsito en la **Autopista General Rumiñahui,** a la altura del puente 6.
-
-Desde la Sala Operativa del ECU911 se coordinó la asistencia inmediata a las personas afectadas con la Policía Nacional y el **Cuerpo de Bomberos Quito.**
-
-Los paramédicos atienden a un **motociclista herido** y le brindan atención de primeros auxilios. Luego de la evaluación se decidirá si necesita atención médica en una casa de salud.
-
-En fotos compartidas se puede ver además **a un bus y a una ambulancia** involucrados en el choque.
-
-Al momento, **los carriles laterales de la autopista en el sentido Quito-Valle están cerrados** a la circulación vehicular, por lo que se registra congestión [vehicular en la zona](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador"). Busca vías alternas.
-
-Agentes de la **Policía Nacional** colaboran en la gestión del tránsito en la zona y asisten a los conductores en la vía. El cierre permanecerá mientras se solventa la emergencia para precautelar la seguridad de los involucrados y del personal de socorro.
-
-Luego de la atención a las personas heridas se debe esperar el retiro de los automotores para volver a habilitar los carriles cerrados.
-
-Sin embargo, la Prefectura de Pichincha informó que los **carriles centrales** de la autopista se encuentran totalmente habilitados. Circula con precaución.
-
-> [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Los carriles laterales en el sentido Quito – Valle de Los Chillos, de la Autopista General Rumiñahui están cerrados mientras atendemos un siniestro de tránsito. Los carriles centrales están habilitados.  
->   
-> Maneja con precaución. [https://t.co/V7vjJH1TIi](https://t.co/V7vjJH1TIi)
-> 
-> — Autopista Rumiñahui (@AutopistaGR) [December 12, 2024](https://twitter.com/AutopistaGR/status/1867187394077946240?ref_src=twsrc%5Etfw)
-
-**_Noticia en desarrollo…_**
-
-¿Sintieron el temblor de 2.9 en Quito?
-======================================
-
-Usuarios de X reportaron haber sentido el temblor desde los sectores del norte de Quito, como Calderón, Llano Grande, Pusuquí,, Pomasqui.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Un sismo se registró en Quito este 12 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-12T071606.278.jpg)
-
-El **Instituto Geofísico** (IG) de la Politécnica Nacional informó este **jueves 12 de diciembre** de 2024 sobre la actividad sísmica registrada en Ecuador.
-
-### Más noticias
-
-* [Así funciona el Pico y placa en Quito este jueves 12 de diciembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-jueves-11-de-diciembre.html "Así funciona el Pico y placa en Quito este jueves 12 de diciembre")
-* [La Estación Marín Central de la Ecovía en Quito se cierra, así será el servicio](https://www.elcomercio.com/actualidad/quito/ecovia-marin-central-estacion-servicio.html "La Estación Marín Central de la Ecovía en Quito se cierra, así será el servicio")
-* [Bomberos rescataron a perrita que cayó a una quebrada en Quito](https://www.elcomercio.com/actualidad/bomberos-rescate-perrita-quebrada-quito.html "Bomberos rescataron a perrita que cayó a una quebrada en Quito")
-
-El temblor en Quito
--------------------
-
-Un sismo se registró en la madrugada de este **jueves 12 de diciembre** de 2024, exactamente a las 06:20:20.
-
-Este temblor tuvo una **magnitud de 2.9** en la escala de Richter y se dio a una profundidad de 13 kilómetros de la superficie.
-
-Además, a una latitud de 0.102 °S y a una longitud de 78.372° W. **Su epicentro** se localizó a 13,77 kilómetros de **Quito, Pichincha.**
-
-Usuarios en redes sociales **confirmaron haber sentido el temblor** a pesar de que fue de poca magnitud.
-
-Los comentarios llegaron de sectores com**o Calderón, L**lano Grande, Pomasqui, Yaruquí, la Río Coca e incluso desde La Armenia. Los quiteños aseguran que lo sintieron de **manera leve y que fue rápido**.
-
-Algunas personas reportaron, en cambio, que se trató de un [sacudón fuerte](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador"). Así lo hicieron moradores de El Bosque, Plaza de Toros.
-
-Añadieron que se dieron cuenta del temblor debido al sonido de los **vidrios de las ventanas** moviéndose.
-
-> \[REVISADO\]  
-> Evento: igepn2024yjao  
-> Ocurrido: 2024-12-12 06:20:20  
-> Mag.: 2.9MLv  
-> Prof.: 13.0 km  
-> Lat.: 0.102° S  
-> Long.: 78.372° W  
-> Localizado: a 13.77 km de Quito, Pichincha  
-> Sintió este sismo? Repórtelo: [https://t.co/tKRnIKOQ7v](https://t.co/tKRnIKOQ7v) [pic.twitter.com/NDBUamyXEZ](https://t.co/NDBUamyXEZ)
-> 
-> — Instituto Geofísico (@IGecuador) [December 12, 2024](https://twitter.com/IGecuador/status/1867169036267573574?ref_src=twsrc%5Etfw)
-
-Temblor en Santa Elena
-----------------------
-
-El martes 10 de diciembre, **un temblor se registró en Ecuador**. El sismo tuvo una magnitud de 4.2 en la escala de Richter y se registró a una profundidad de 10 kilómetros.
-
-El **movimiento telúrico** se ubicó a una latitud de 2.730° S y a una longitud de 80.953° W.
-
-Su epicentro se localizó a **55,47 kilómetros de La Libertad,** provincia de Santa Elena.
-
-Usuarios en redes sociales comentaron que **no sintieron el sismo**. Esto posiblemente porque el epicentro se ubicó en el mar.
-
-> \[REVISADO\]  
-> Evento: igepn2024ygac  
-> Ocurrido: 2024-12-10 14:43:58  
-> Mag.: 4.2MLv  
-> Prof.: 10.0 km  
-> Lat.: 2.730° S  
-> Long.: 80.953° W  
-> Localizado: a 55.47 km de La Libertad, Santa Elena  
-> Sintió este sismo? Repórtelo: [https://t.co/CQP0eSlvey](https://t.co/CQP0eSlvey) [pic.twitter.com/mKmoL5CVrP](https://t.co/mKmoL5CVrP)
-> 
-> — Instituto Geofísico (@IGecuador) [December 10, 2024](https://twitter.com/IGecuador/status/1866571743353262143?ref_src=twsrc%5Etfw)
-
-Así funciona el Pico y placa en Quito este jueves 12 de diciembre
-=================================================================
-
-Recuerda que diciembre es la última posibilidad para cumplir con el proceso de matriculación si te atrasaste en tu mes.
------------------------------------------------------------------------------------------------------------------------
-
-![El pico y placa se aplica en Quito para controlar el tráfico.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-24.jpg)
-
-El **pico y placa continúa vigente en Quito** para autos y motos; esta medida se implementó para mejorar el flujo vehicular en las horas de mayor tránsito.
-
-### Más noticias
-
-* [Quedan pocos días para revisión técnica vehicular en Quito](https://www.elcomercio.com/actualidad/quito/guia-rezagados-matricular-vehiculo-quito.html "Quedan pocos días para revisión técnica vehicular en Quito")
-* [AMT impulsa la campaña No le creas al alcohol para salvar vidas](https://www.elcomercio.com/actualidad/quito/amt-impulsa-campana-no-le-creas-al-alcohol-para-salvar-vidas.html "AMT impulsa la campaña No le creas al alcohol para salvar vidas")
-* [Daniel Noboa asegura que hubo un coche bomba cerca de un acto en Machala](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-coche-bomba-cerca-acto-machala.html "Daniel Noboa asegura que hubo un coche bomba cerca de un acto en Machala")
-
-El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales o de servicios de salud.
-
-El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
-
-El esquema de aplicación:
--------------------------
-
-* **Lunes:** placas terminadas en 1 y 2.
-* **Martes:** los que finalizan en 3 y 4.
-* **Miércoles:** los de dígitos 5 y 6.
-* **Jueves:** los que tengan 7 y 8.
-* **Viernes:** las placas 9 y 0.
-
-Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
-
-Multas por infringir Pico y placa
----------------------------------
-
-La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
-
-Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
-
-Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
-
-Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
-
-Matriculación vehicular
------------------------
-
-Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de diciembre es la última posibilidad para cumplir con el proceso de matriculación si te atrasaste en tu mes.[Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-Recuerda que la AMT realiza controles preventivos de exceso de velocidad en Quito. Reduce la velocidad y maneja con precaución.
-
-> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) |  
-> ¡Aún estás a tiempo!  
-> 🗓️ Diciembre es el mes para ponerte al día con tu vehículo.  
-> ✅ Realiza la Revisión Técnica Vehicular y matrícula el automotor, evita que la multa siga creciendo.  
-> ☝️¡Cierra el año sin preocupaciones!  
->   
-> Con responsabilidad ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Zwx8UK09Rf](https://t.co/Zwx8UK09Rf)
-> 
-> — AMTQuito (@AMT\_Quito) [December 9, 2024](https://twitter.com/AMT_Quito/status/1866112814017896561?ref_src=twsrc%5Etfw)
-
-Control de virus respiratorios en Ecuador
-=========================================
-
-La vacunación y prevención contra las infecciones respiratorias protegen a poblaciones vulnerables.
----------------------------------------------------------------------------------------------------
-
-![Imagen creada en Ideogram con el prompt: Ilustración tipo cartoon de un médico vacunando a un paciente en un centro de salud, en el fondo promoviendo campañas para prevenir enfermedades respiratorias.](https://www.elcomercio.com/wp-content/uploads/2024/12/ok_720.jpg)
-
-Los virus respiratorios en Ecuador aún demandan atención y control para evitar su propagación.
-
-Hasta el 6 de diciembre de 2024, el **Ministerio de Salud Pública (MSP)** confirmó 13 792 casos de covid-19. Además, se reportaron 1 708 casos de Infección Respiratoria Aguda Grave (IRAG) hasta la última semana de noviembre. Ambas causas provocaron 100 muertes. 
-
-Estos datos resaltan la importancia de que el sistema de salud siga vigilante ante la propagación de virus respiratorios. Estos afectan, principalmente, a poblaciones vulnerables, entre ellos niños, adultos mayores y personas con enfermedades crónicas.
-
-A escala regional, la **Organización Panamericana de la Salud (OPS)** ha subrayado en mantener medidas rigurosas para mitigar la transmisión de estos virus.
-
-> El control exitoso de brotes en varios países muestra que la clave está en una estrategia combinada. Esta incluye vacunación, higiene, distanciamiento social y un monitoreo de la situación epidemiológica.
-
-Los datos del MSP revelan que el virus sincitial respiratorio (VSR), que afecta a niños pequeños, es el agente más prevalente. Representa el 35,66 % de los casos de IRAG. Sigue el SARS-CoV-2 con un 22,08 %. 
-
-La diversidad de patógenos circulantes, incluidas variantes de la influenza, demanda protocolos de prevención más estrictos. La [Organización Mundial de la Salud (OMS)](https://www.paho.org/es/documentos/alerta-epidemiologica-sars-cov-2-influenza-otros-virus-respiratorios-region-americas-5 "https://www.paho.org/es/documentos/alerta-epidemiologica-sars-cov-2-influenza-otros-virus-respiratorios-region-americas-5") recomendó mantener esfuerzos para aumentar la vacunación, junto con la vigilancia constante y planes de respuesta actualizados.
-
-A pesar de esto, la vacuna anual contra el covid-19 enfrenta rechazo en Ecuador. Además, se ha perdido la percepción del riesgo, pese a lo que se vivió en la pandemia. Como resultado, quienes no se vacunan enferman y todavía hay muertes.
-
-De 262 000 dosis disponibles contra el covid-19 para el 2023, se aplicaron 236 000. Este año, de una existencia de 250 000, se beneficiaron 235 000. Las dosis sobrantes se pierden porque una vez preparadas no duran mucho tiempo.
-
-En cambio, las campañas de vacunación contra la influenza tienen mejor aceptación, aunque no hay que bajar la guardia, sobre todo en temporadas críticas. Ecuador cuenta con cinco millones de dosis, de las cuales 840 000 están destinadas a niños entre seis meses y siete años.
-
-A nivel nacional, un millón de personas han sido inmunizadas contra la influenza. Aunque se avanza, aún falta alcanzar una mayor cobertura hasta fines de [febrero de 2025](https://www.elcomercio.com/actualidad/campana-vacunacion-influenza-desarrolla-ecuador-hasta-cuando.html "https://www.elcomercio.com/actualidad/campana-vacunacion-influenza-desarrolla-ecuador-hasta-cuando.html"). Esta vacunación es clave para reducir la carga hospitalaria durante los brotes.
-
-Es esencial que los grupos de riesgo accedan a la vacuna en centros de salud públicos.
-
-En este contexto, el monitoreo constante de las tendencias epidemiológicas es crucial. El uso eficiente del Sistema Integrado de Vigilancia Epidemiológica (SIVE) del MSP permite detectar rápidamente focos de contagio y actuar de inmediato.
-
-La población también debe mantenerse informada para prevenir la propagación. No se pueden relajar medidas como el lavado de manos o el uso de mascarillas en espacios concurridos. Además, es fundamental que quienes presenten síntomas respiratorios se aíslen adecuadamente.
-
-Japón, por ejemplo, implementó políticas estrictas de higiene pública que han demostrado ser eficaces para contener la propagación de enfermedades respiratorias.
-
-La protección de las poblaciones vulnerables es especialmente importante en centros educativos, hogares de ancianos y hospitales, donde las medidas de control deben ser rigurosas para reducir el riesgo de complicaciones. El uso de filtros de aire y sistemas de ventilación mejorados también ayuda a disminuir la transmisión en espacios cerrados.
-
-La cooperación entre el gobierno, el sistema de salud y la sociedad es significativa para proteger a los más vulnerables. Las acciones preventivas y la respuesta rápida son herramientas clave para mitigar el impacto de las infecciones respiratorias y evitar la sobrecarga del sistema sanitario. Mantener estos virus bajo control es una prioridad.
-
-El placer culpable
-==================
-
-El placer como esencial para el bienestar físico, emocional y espiritual, promoviendo su disfrute equilibrado y consciente, libre de culpas y excesos.
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
-
-**El tema es apasionante**. Sí, de veras apasionante, porque quien no pone pasión en la vida -el amor, la familia, el trabajo, la lectura, el estudio, el servicio, el tiempo libre, el descanso activo, y en general la búsqueda de sentido- no ha logrado consolidar un proyecto existencial saludable.
-
-**Esta premisa da consistencia a la idea sobre lo que pensamos y sentimos sobre el placer, que es una categoría humana respetable que ha sido menospreciada en contextos culturales y religiosos** que usurparon este derecho humano, en nombre de la culpa o del pecado**.** Este **error por omisión ha condenado a muchas personas** a la soledad, al remordimiento, al dolor y al sufrimiento fruto del escarnio interior.
-
-Hablemos claro**: el placer es una experiencia primaria que se produce cuando se satisface una necesidad o un deseo, ya sea de forma real o anticipada.** Basta recordar el famoso **triángulo de Abraham Maslow**, quien formula una jerarquía de necesidades humanas en cinco niveles: ​los cuatro primeros se agrupan como **“necesidades de déficit”,** mientras que el nivel superior es denominado **“autorrealización”**, motivación de crecimiento o necesidad de ser.
-
-En ese contexto es interesante identificar: **el placer físico, el placer psíquico, el placer emocional, el placer intelectual, el placer lúdico y el placer contemplativo**, entre otros. Los griegos distinguieron cuatro tipos de amor: **la philia (afectivo), storge (amistad); el ágape (a los demás); y el eros (romántico o sexual).**
-
-**El placer -en un sentido amplio- es encontrar lo que nos hace bien.** También es reconocido como un **sentimiento agradable -mejor si es recíproco-, que nos estimula a nivel físico y emocional.**
-
-**La solución, aparentemente, es simple: conocerlo, disfrutarlo**. Los terapistas plantean que el placer es afín a la salud física, emocional y espiritual. **Pero si el placer se convierte en culpable se torna negativo y a veces agresivo.**
-
-Un **primer paso** sería **no confundir el placer con el sexo o la sexualidad,** porque el verdadero placer abarca un abanico de opciones en la dirección del bienestar pleno. El **segundo paso es no desacreditar el placer, en nombre de un hedonismo desenfrenado,** porque el verdadero placer tiene rostro humano**; por lo tanto, autocontrolado y supeditado a valores superiores.**
-
-**La ciencia ha confirmado que el placer -no solo sexual- descarga una cantidad de hormonas** como la dopamina, serotonina, oxitocina y endorfinas que generan una sensación de bienestar general y contribuyen a mejorar nuestra salud. En cambio, **el placer culpable puede provocar dolor, sufrimiento y enfermedad.** ¿Qué opina?
-
-Cartas a Quito / 12 de diciembre de 2024
-========================================
-
-Estas son las cartas a Quito de este jueves 12 de diciembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Excesiva burocracia
--------------------
-
-Como vocera de la gente que carece de voz, elevo cada una de las quejas que, por uno u otro medio, llegan hacia mi persona.
-
-En esta ocasión me referiré a la dificultad y tardanza que tenemos los ecuatorianos frente a las gestiones y trámites que queremos realizar, pues, como hemos comprobado, cualquier trámite, por sencillo que sea, demora meses y hasta años en darnos una respuesta y, más aún, si de solucionarlo se trata.
-
-A no dudarlo, esto, aparte de otros factores, se debe al exceso de burócratas que existen a todo nivel, por lo que los documentos y trámites pasan de mano en mano y se prestan a la confusión y muchas veces se pierden en el trayecto.
-
-Está más que claro que, con seguridad, esto ocurre con la burocracia del SRI en donde quedan retenidos los documentos durante un largo tiempo sin que el usuario tenga una respuesta favorable.
-
-Por otra parte, las devoluciones del  IVA son  tardías, por cuotas y a largo plazo y es de suponer que, en la mayoría de los casos, el sufrido  beneficiario de este servicio, cuenta con ese aporte (ingreso extra) aunque sea mínimo para suplir y solventar sus necesidades más elementales.
-
-Ojalá estas observaciones tengan eco en la conciencia de los responsables de estas anomalías y se trate de buscar las soluciones pertinentes.
-
-Fabiola Carrera Alemán
-
-Estados Unidos e Israel analizan la posibilidad de liberar rehenes de Gaza
-==========================================================================
-
-Los Ministros de Defensa de EE. UU. e Israel mantuvieron una conversación para tratar una posible liberación de rehenes de Gaza.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Crece el optimismo por una posible tregua para intercambiar rehenes, entre Hamás e Israel](https://www.elcomercio.com/wp-content/uploads/2024/12/rehenes-gaza.jpg)
-
-El **ministro de Defensa** de **Israel**, Israel Katz, y el de **Estados Unidos**, Lloyd Austin, mantuvieron una **conversación telefónica** para tratar la posibilidad de firmar un **acuerdo** para liberar a los **rehenes** que siguen en la **Franja de Gaza**.
-
-### Más noticias
-
-* [Al menos 22 miembros de una familia mueren en un ataque israelí en Gaza](https://www.elcomercio.com/actualidad/mundo/al-menos-22-miembros-de-una-familia-mueren-ataque-israeli-en-gaza.html "Al menos 22 miembros de una familia mueren en un ataque israelí en Gaza")
-* [Un pasajero intentó desviar un avión hacia Estados Unidos](https://www.elcomercio.com/actualidad/mundo/pasajero-intento-desviar-avion-estados-unidos.html "Un pasajero intentó desviar un avión hacia Estados Unidos")
-* [¿Qué sigue para Siria y el mundo tras la caída de Bashar al Asad?](https://www.elcomercio.com/actualidad/mundo/sigue-para-siria-mundo-caida-bashar-asad.html "¿Qué sigue para Siria y el mundo tras la caída de Bashar al Asad?")
-
-“En este momento existe la posibilidad de un **nuevo acuerdo**, con la esperanza de liberar a todos los **secuestrados**, incluidos los que tienen **ciudadanía estadounidense**“, dijo Katz durante la conversación de este miércoles **11 de diciembre de 2024**.
-
-Austin, a través de un **comunicado**, subrayó el **compromiso** de **Washington** para “liberar a todos los **rehenes** en Gaza, incluyendo ciudadanos **estadounidenses**“, aunque volvió a llamar a **Israel** a remediar la **crisis humanitaria** en la **Franja**.
-
-Disputa en Siria por la ocupación de una zona desmilitarizada
--------------------------------------------------------------
-
-Los **funcionarios** también hablaron sobre la decisión del **Ejército israelí** de ocupar la **zona desmilitarizada** de **Siria**, que colinda con **Israel**, tras la caída del régimen de al Asad.
-
-En este sentido, Austin “subrayó la **importancia** de que **Estados Unidos** e **Israel** mantengan **estrechas consultas** sobre los **acontecimientos en Siria**“, entre las quejas de la **comunidad internacional** por la **presencia militar israelí** en el país vecino.
-
-“**Estados Unidos** está siguiendo de cerca los **eventos en Siria**, y apoya una **transición pacífica e inclusiva**“, señaló el **comunicado estadounidense**[.](https://es.wikipedia.org/wiki/Franja_de_Gaza "https://es.wikipedia.org/wiki/Franja_de_Gaza")
-
-Relaciones con Líbano tras el cese al fuego
--------------------------------------------
-
-En cuanto a **Líbano**, país con el que **Israel** pactó un **cese al fuego** el **26 de noviembre**, tras un año de **enfrentamientos**, Katz reiteró su postura de “**tolerancia cero contra las violaciones**“, pese a que ambas naciones se acusan mutuamente de faltar las cláusulas de lo pactado.
-
-**Estados Unidos** e **Israel**, indicó el **comunicado**, acordaron cooperar para frenar cualquier intento de “**contrabando de armas** desde **Irán** a **Líbano**, a través de **Siria**“.
-
-Optimismo por una tregua en Gaza
---------------------------------
-
-La **conversación** entre ambos se produce en un momento de cierto **optimismo** por el retorno a la mesa de **negociación** para alcanzar una **tregua** en **Gaza**, tras un estancamiento desde **agosto**.
-
-Según informó **EFE**, una **delegación israelí** se reunió el martes con **funcionarios egipcios** en **El Cairo** para hablar sobre el **acuerdo**.
-
-Entre los **rehenes** propuestos para un posible intercambio con **presos palestinos** hay **mujeres**, **niños**, **enfermos** y **heridos críticos**, además de cuatro **rehenes** con **doble ciudadanía israelí y estadounidense**.
-
-Al momento quedan **96 rehenes secuestrados** tras los ataques de **Hamás** del **7 de octubre**. El **atentado** dejó **34 muertos**, según el **Ejército israelí**.
-
-Historial de acuerdos entre Hamás e Israel
-------------------------------------------
-
-En más de un año de **guerra**, **Hamás** e **Israel** solo han llegado a un **acuerdo** de **alto el fuego** y **liberación de rehenes**, en **noviembre de 2023**. En ese momento fueron liberados **105 de los 251 secuestrados**, a cambio de **240 presos palestinos** que estaban encerrados en **cárceles israelíes**.
-
-Cárcel en Archidona: Gobierno, Asamblea y población tomaron decisiones
-======================================================================
-
-Las protestas por la construcción de la cárcel en Archidona provocaron cierres viales. Gobierno y autoridades locales se reunieron y no llegaron a acuerdos.
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Noveno día de protestas contra la construcción de la cárcel de máxima seguridad en Archidona.](https://www.elcomercio.com/wp-content/uploads/2024/12/carcel-archidona.jpg)
-
-El **Gobierno** de **Daniel Noboa**, una mayoría en el Pleno de la **Asamblea** y la **población de Napo** tomaron decisiones sobre la **cárcel en Archidona**, en las últimas horas.
-
-El Gobierno busca construir una **segunda cárcel de máxima seguridad**, de características similares a la que ya se edifica en **Santa Elena**. En el **noveno día de protestas**, varias **vías están cerradas**.
+El galo estará, según pudo saber EFE de fuentes del club, unos diez días de baja, por lo que no formará parte del equipo que juegue en Vallecas y es duda para la **Intercontinental** del miércoles 18 de diciembre en Lusail (Catar, Doha).
 
 ### Más noticias:
 
-* [Las protestas se mantienen en Napo por la construcción de la cárcel en Archidona](https://www.elcomercio.com/actualidad/seguridad/protestas-napo-carcel-archidona.html "Las protestas se mantienen en Napo por la construcción de la cárcel en Archidona")
-* [Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-cambio-gobernado-napo-carcel.html "Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel")
+* [Figuras ecuatorianas buscan hacer historia en la nueva Copa Intercontinental](https://www.elcomercio.com/deportes/copa-intercontinental-ecuatoriano-historia-derby-americas.html "Figuras ecuatorianas buscan hacer historia en la nueva Copa Intercontinental")
+* [Dos ecuatorianos eliminaron a Botafogo de la Intercontinental](https://www.elcomercio.com/deportes/futbol/dos-ecuatorianos-eliminaron-botafogo-de-la-intercontinental.html "Dos ecuatorianos eliminaron a Botafogo de la Intercontinental")
+* [Golazo de Kylian Mbappé, pero se lesiona en Champions League](https://www.elcomercio.com/deportes/futbol/gol-kylian-mbappe-champions-league-real-madrid.html "Golazo de Kylian Mbappé, pero se lesiona en Champions League")
 
-Gobierno, Asamblea y población tomaron decisiones sobre la construcción de la cárcel en Archidona
--------------------------------------------------------------------------------------------------
+Mbappé es duda para la Intercontinental
+---------------------------------------
 
-Una de las **ofertas de campaña** de **Daniel Noboa** para llegar a la Presidencia en 2023 fue la construcción de dos cárceles de máxima seguridad en Ecuador.
+Sin Mbappé, además de los lesionados David Alaba, Eduardo Camavinga -quienes completaron trabajo individual sobre el césped-, Ferland Mendy, Éder Militao y Dani Carvajal visitará el Real Madrid al Rayo Vallecano.
 
-La primera ya se construye en **Santa Elena** y tiene un avance de más del 30%, con una inversión de **52 millones de dólares.**
+Un partido que Ancelotti empezó a preparar estableciendo trabajo de recuperación para los titulares en Bérgamo, con el inglés **Jude Bellingham** sin saltar al césped, al ser el que más cansancio acumula. Eso sí, molestias, pero sin lesión y se espera que este viernes se ejerciten con normalidad en la Ciudad Deportiva de Valdebebas.
 
-El Gobierno tiene prevista la construcción de la segunda en Archidona, cantón de la provincia del Napo.
+Con estas **ausencias**, el técnico italiano llevó a cabo una sesión vespertina que arrancó en el gimnasio y, posteriormente, con ejercicios de posesión, control, salida de balón y presión sobre el césped, antes de finalizar con los habituales partidos en un campo de dimensiones reducidas y disparos a portería.
 
-El Gobierno adjudicó la construcción de la cárcel en Archidona y continuará con la obra
----------------------------------------------------------------------------------------
+Ecuatorianos en la Intercontinental
+-----------------------------------
 
-El **Servicio Nacional de Atención a Personas Privadas de la Libertad y Adolescentes Infractores (SNAI) adjudicó** el martes 10 de diciembre el proceso de “**Construcción y equipamiento del centro de privación de libertad en Archidona**“.
+El Pachuca de México, con los ecuatorianos **Ángel Mena y Andrés Micolta**, goleó 3-0 a Botafogo este miércoles 11 de diciembre en el ‘Derbi de las Américas’, disputado en el Estadio 974 de Doha, Catar.
 
-El proceso tiene previsto un presupuesto de **51 970 087 millones de dólares** y fue declarado **reservado**, al igual que el de la cárcel de Santa Elena.
+Contra todo pronóstico, los **‘Tuzos’ eliminaron al vigente campeón de la Copa Libertadores** y uno de los favoritos, junto al Real Madrid, para ganar el torneo.
 
-Bajo el tipo de “**contrataciones con empresas públicas internacionales**“, lo que se conoce del proceso es una invitación a participar.
+Gracias a esta victoria, Pachuca avanzó a la Copa Challenger de la FIFA, donde enfrentará al Al-Ahly de Egipto por un boleto a la gran final de la **Copa Intercontinental** frente al Real Madrid.
 
-La Comisión Técnica recomendó la adjudicación del proceso a **la compañía Puentes Y Calzadas Infraestructuras S.L.**, subsidiaria de la empresa estatal **China Road And Bridge Corporation**, única empresa a la que se invitó.
+Alex Arce y Jeison Medina, los goleadores que definirán la Liga Pro
+===================================================================
 
-Esta empresa es la misma que fue **invitada** para construir la cárcel de máxima seguridad de Santa Elena.
+Liga de Quito e Independiente del Valle apuestan a sus máximos artilleros para decidir al campeón del torneo ecuatoriano.
+-------------------------------------------------------------------------------------------------------------------------
 
-En la noche, **Justina Zambrano, subsecretaria de Gobernabilidad**, anunció que el Gobierno ha decidido mantener el proyecto en el mismo lugar.
+![Jeison Medina y Alex Arce son los mejores delanteros de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-5.jpg)
 
-Zambrano realizó este anunció luego de un diálogo con autoridades locales, **la noche de este miércoles**.
+**Alex Arce y Jeison Medina**, delanteros letales de **Liga de Quito e Independiente del Valle**, respectivamente, han demostrado ser los hombres más peligrosos frente al arco rival en la Liga Pro 2024. Ahora, se enfrentarán una vez más en la gran final del campeonato ecuatoriano.
 
-La resolución de exhorto de la Asamblea sobre la cárcel de Archidona
---------------------------------------------------------------------
+En la ida, Liga de Quito se impuso con un contundente 3-0 en el **Estadio Rodrigo Paz Delgado**, con dos goles de Arce. Sin embargo, la serie no está cerrada, e Independiente del Valle, liderado por Medina, buscará dar vuelta a la situación para conseguir una hazaña histórica.
 
-La tarde de este miércoles, en el **Pleno de la Asamblea**, un grupo de asambleístas amazónicos impulsaron la aprobación de una resolución sobre la cárcel de Archidona.
+### Más noticias:
 
-La asambleísta de Napo, **Sandra Rueda**, presentó una moción de resolución con varios puntos, tras señalar que existe preocupación por las implicaciones sociales, culturales y ambientales de la obra.
+* [Álex Arce cerca del récord de los 30 goles en Ecuador](https://www.elcomercio.com/deportes/futbol/alex-arce-goles-record-futbol-ecuador.html "Álex Arce cerca del récord de los 30 goles en Ecuador")
+* [Los goleadores de Liga Pro se metieron en la tabla con variados contextos](https://www.elcomercio.com/deportes/goleadores-liga-pro-2024-armas-arce-medina.html "Los goleadores de Liga Pro se metieron en la tabla con variados contextos")
+* [Liga de Quito vs. IDV, ¿qué jugadores pueden definir la final de Liga Pro?](https://www.elcomercio.com/deportes/futbol/liga-de-quito-idv-que-jugadores-pueden-definir-final-de-liga-pro.html "Liga de Quito vs. IDV, ¿qué jugadores pueden definir la final de Liga Pro?")
 
-Esto, debido a que el centro está ubicado en una **zona urbana** del cantón, cercano a establecimientos educativos, provocando inseguridad entre estudiantes y padres de familia.
+La **final de vuelta** se disputará este sábado 14 de diciembre a las 15:30 en el Estadio Banco Guayaquil, en Chillo Jijón, Valle de los Chillos.
 
-* **Solidarizarse** con el **pueblo de Archidona y la provincia del Napo**, en particular con **niños, niñas y adolescentes**; así como, con las **comunidades indígenas**, por la **vulneración de sus derechos** por la construcción del centro.
-* **Exhortar** al **Presidente de la República y al titular del SNAI** a **suspender de manera inmediata** la ejecución del proyecto de construcción en cumplimiento de los derechos constitucionales y el Derecho Internacional.
-* Exhortar al Presidente de la República a que **desista de imponer la construcción de una cárcel en Napo y todo el territorio amazónico.**
+Dos goleadores, un solo título
+------------------------------
 
-La resolución fue aprobada con **95 votos afirmativos**, 24 negativos, 0 blancos y 2 abstenciones. No existieron votos para la reconsideración.
+Ambos delanteros han sido protagonistas indiscutibles de la Liga Pro 2024. **Alex Arce lidera la tabla de goleadores con 28 tantos**, mientras que Jeison Medina suma 20 goles, destacándose como los más efectivos del torneo. Aunque comparten su capacidad para marcar, tienen estilos de juego diferentes que los hacen únicos.
 
-Las medidas de la población de Napo sobre la cárcel en Archidona
-----------------------------------------------------------------
+### Alex Arce, el artillero de la ‘U’
 
-Mientras esto ocurrió en el Ejecutivo y el Legislativo, la población de Napo se autoconvocó para el **noveno día de protestas** en contra de la construcción de la cárcel en Archidona.
+**Alex Arce** se caracteriza por ser un **centrodelantero clásico**, un auténtico ‘nueve’ de área con gran movilidad, lo que lo convierte en una amenaza constante para las defensas rivales.
 
-Esto, pese a que el **SNAI** ya adjudicó el contrato este martes 10 de diciembre.
+Además, no se limita a finalizar jugadas; también le gusta retroceder hacia el centro del campo para participar en la creación y elaboración de juego. Su i**mponente físico y altura** le permiten ganar duelos individuales y arrastrar marcas, generando espacios para sus compañeros en ataque.
 
-La **Confederación de Nacionalidades Indígenas de la Amazonía Ecuatoriana (Confeniae)**, filial de la **Conaie** en esa región, emitió un pronunciamiento esta tarde para rechazar la construcción de la cárcel.
+![Alex Arce fue la figura de Liga de Quito en la final de Liga Pro con dos goles.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-07T165654.936-1024x683.jpg)
 
-Lo hizo con el apoyo de la población de **Napo** y siete nacionalidades indígenas de **Pastaza** y líderes de **Orellana**, en el marco de “**Asamblea Popular en Defensa de la Amazonía**“, en la ciudad de Puyo, provincia de Pastaza.
+Uno de **sus puntos más destacados es su habilidad en el juego aéreo**, lo que lo ha llevado a convertirse en el máximo goleador de la Liga Pro 2024, con diferencia significativa sobre otros jugadores en este rubro.
 
-Los líderes indígenas señalaron que se suman “**a la** **lucha y a la resistencia**” de Napo, respaldarán las acciones de protesta y las marchas para lograr la suspensión del proyecto gubernamental.
+De sus 28 goles en 30 partidos, logró un **promedio de anotación cada 87 minutos**. Su distribución es igualmente impresionante: **12 de cabeza**, 10 con la pierna derecha y 6 con la izquierda. Solo uno de estos tantos llegó desde el punto penal, lo que resalta su capacidad de marcar en jugadas abiertas.
 
-Tras un diálogo con el Gobierno, las **autoridades indígenas** señalaron que declaran el **estado de emergencia a la región amazónica** y convocaron a otras organizaciones a **sumarse a la resistencia**.
+### Jeison Medina, el ‘killer’ de IDV
 
-La **radicalización** de las medidas de hecho se anunciarán la tarde de este jueves 12 de diciembre.
+A diferencia de su rival, **Jeison Medina no suele interiorizar** en el juego, a pesar de ser un ‘nueve’ de área. Prefiere **recibir el balón por los costados** y luego ingresar al área, donde muestra su capacidad goleadora.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/image-2-1024x771.png)
+Como arma ofensiva, **Medina es más versátil** y destaca por su juego asociativo, además de su gran entendimiento con sus compañeros, lo que lo convierte en un delantero completo.
 
-Foto: Confeniae
+![Jeison Medina, delantero de Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/10/ideal_2-1024x683.jpg)
 
-En tanto, la **Asociación de Municipalidades de Ecuador (AME)** hizo un llamado al Gobierno a priorizar el diálogo y la paz.
+En la temporada 2024, Medina anotó **20 goles en 31 partidos**, distribuidos entre 11 con Aucas y 9 con Independiente del Valle. Su promedio de gol es de uno **cada 114 minutos**.
 
-> Comunicado | Ligia Caiza, presidenta [#AME](https://twitter.com/hashtag/AME?src=hash&ref_src=twsrc%5Etfw) [#UTR2](https://twitter.com/hashtag/UTR2?src=hash&ref_src=twsrc%5Etfw), solicita priorizar el diálogo y la paz en el cantón [#Archidona](https://twitter.com/hashtag/Archidona?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/Qu1nDkv6kj](https://t.co/Qu1nDkv6kj)
-> 
-> — Municipalidades Ec (@AMEcuador) [December 12, 2024](https://twitter.com/AMEcuador/status/1867025962082185386?ref_src=twsrc%5Etfw)
+Sus tantos se reparten de la siguiente manera: 4 de cabeza, 13 con la pierna derecha y 3 con la izquierda. Además, anotó dos goles desde el punto penal.
 
-Vías bloqueadas por las protestas contra la construcción de la cárcel en Archidona
-----------------------------------------------------------------------------------
+Lionel Messi y sus emotivos gestos en reconocimiento masivo
+===========================================================
 
-El **ECU 911** reportó el **cierre de 15 vías en Napo** por manifestaciones, con corte a las 19:59, de este miércoles 11 de diciembre:
+Lionel Messi vivió un reconocimiento masivo en Azerbaiyán junto a compañero del Inter de Miami y retribuyó los gestos a los fanáticos.
+--------------------------------------------------------------------------------------------------------------------------------------
 
-* Y DE BAEZA – PAPALLACTA
-* CHONTAPUNTA – COCA
-* AHUANO – CHONTAPUNTA
-* Y DE BAEZA – LAGO AGRIO
-* Y DE NARUPA – ARCHIDONA – TENA
-* Y DE NARUPA – TENA
-* PUERTO NAPO – AHUANO
-* Y DE NARUPA – Y DE BAEZA
-* EL REVENTADOR – Y DE BAEZA
-* Y DE NARUPA – LORETO
-* TENA -BAEZA
-* AHUANO-CHONTAPUNTA
-* TENA – LORETO
-* TENA – PUYO
-* VIA COCA – TENA – Y DE NARUPA  
-      
-    
+![Lionel Messi con su premio a mejor jugador de la MLS antes de viajar a Azerbaiyán con el Inter de Miami.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-12T133835.093.jpg)
 
-La violencia de género en Ecuador conlleva sanciones económicas, ¿a dónde van?
-==============================================================================
+El legendario futbolista argentino **Lionel Messi** se dio hoy un baño de masas en Bakú, donde fue agasajado por miles de admiradores. Le recibieron jubilosamente con camisetas de la selección de Argentina y del Barça y entre gritos de “¡Gran Messi!”, “¡Eres un genio!” y “¡Eres el mejor!”
 
-La violencia de género contempla multas y rubros como reparación integral. Sin embargo, aún hay faltantes en el proceso.
-------------------------------------------------------------------------------------------------------------------------
+“**Esta visita a Bakú me ha dado la oportunidad de conocer la rica cultura de Azerbaiyán**“, afirmó durante el concierto benéfico ofrecido en el estadio Baku Crystal Hall. Allí estuvo junto a sus compañeros del Inter Miami Luis Suárez, Jordi Alba y Sergio Busquets.
 
-![La violencia de género repercute en la realidad de menores de edad.](https://www.elcomercio.com/wp-content/uploads/2024/12/multas-femicidio.jpg)
+### Más noticias:
 
-El **femicidio** o asesinato de una niña, adolescente o mujer por el hecho de serlo es una crisis global y regional. Ecuador no está libre.
+* [El único jugador que compartió cancha con Kempes, Maradona y Messi](https://www.elcomercio.com/deportes/futbol/roberto-abbondanzieri-kempes-maradona-messi.html "El único jugador que compartió cancha con Kempes, Maradona y Messi")
+* [Lionel Messi lidera el equipo ideal de la MLS de 2024](https://www.elcomercio.com/deportes/futbol/messi-equipo-ideal-mls-eeuu.html "Lionel Messi lidera el equipo ideal de la MLS de 2024")
+* [Lionel Messi encabeza el equipo del año en MLS](https://www.elcomercio.com/deportes/futbol/lionel-messi-equipo-ideal-mls.html "Lionel Messi encabeza el equipo del año en MLS")
+
+El público tuvo ocasión de ver un filme dedicado al campeón mundial y ganador en ocho ocasiones del **Balón de Oro** y otro gran número de distinciones. Además, disfrutó de un concierto con el grupo rumano Morandi.
+
+Messi, quien realizó un “viaje relámpago” a **Azerbaiyán**, agradeció en nombre de sus compañeros de equipo a todos los que ayudaron a organizar este concierto. En él, varios niños se lanzaron a abrazarle y uno no logró reprimir la emoción de estar junto a su ídolo y rompió a llorar.
+
+El Inter de Miami y Lionel Messi interactuaron con el público
+-------------------------------------------------------------
+
+Los futbolistas del **Inter Miami** también hicieron varios pases de balón con jóvenes aficionados azerbaiyanos. También lanzaron al público varios balones con sus autógrafos, para júbilo de los presentes.
+
+Además del concierto, los futbolistas disfrutaron de un programa cultural que incluyó una visita al **hipódromo de Bakú**. Allí pudieron observar caballos de la raza Karabaj, una de las especies más raras del mundo que destaca por su energía, rapidez y agilidad.
+
+También visitaron el Centro cultural Heydar Aliyev, donde visitaron una exposición del alfombras azerbaiyanas y otra de automóviles clásicos.
+
+Messi y el Inter también estuvieron en un homenaje
+--------------------------------------------------
+
+**Messi** y sus compañeros aprovecharon la ocasión para rendir un homenaje al expresidente azerbaiyano Heydar Alíyev, padre del actual mandatario, al visitar su mausoleo en vísperas del 22 aniversario de su muerte.
+
+No ha trascendido quién organizó y financió la visita de las estrellas futbolísticas a **Azerbaiyán**, pero la prensa local destacó que estos contaron con la compañía del reconocido empresario azerí Adnán Ajmadzada, exvicepresidente adjunto del consorcio petroquímico azerbaiyano SOCAR
+
+12 binomios para las elecciones 2025 en Ecuador ya tienen resguardo
+===================================================================
+
+Binomios presidenciales cuentan con seguridad. Aunque algunos aún faltan.
+-------------------------------------------------------------------------
+
+![El 21 de octubre, la Policía presentó a los servidores para la seguridad de los binomios.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-28.jpg)
+
+Las **elecciones 2025** en **Ecuador** cuenta con 16 binomios presidenciales. **Diana Atamaint**, presidenta del **Consejo Nacional Electoral (CNE)**, informó sobre los candidatos que ya cuentan con cápsulas de seguridad. En el caso del candidato-presidente, **Daniel Noboa**, hay una particularidad.
+
+**288 agentes de protección** de la Policía Nacional se formaron para custodiar a los binomios presidenciales. Ellos cumplieron 144 horas de especialización. Cuentan con chalecos antibalas.
 
 ### Más noticias
 
-* [La violencia de género arrebata vidas, aún hay ‘Esperanza’](https://www.elcomercio.com/opinion/editorial/violencia-genero-arrebata-vidas-aun-hay-esperanza.html "La violencia de género arrebata vidas, aún hay ‘Esperanza’")
-* [El Día de los Derechos Humanos muestra travesía de niños y familias por femicidios](https://www.elcomercio.com/actualidad/ecuador/esperando-verano-travesia-ninos-familias-causa-femicidio-ecuador.html "El Día de los Derechos Humanos muestra  travesía de niños y familias por femicidios")
-* [Pódcast Esperanza se lanza en el Día Internacional de la Eliminación de la Violencia contra las Mujeres](https://www.elcomercio.com/actualidad/seguridad/esperanza-lanza-dia-internacional-eliminacion-violencia-contra-mujeres.html "Pódcast Esperanza se lanza en el Día Internacional de la Eliminación de la Violencia contra las Mujeres")
+* [CNE indicó el avance en la impresión de papeletas para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-indico-avance-impresion-papeletas-elecciones-2025.html "CNE indicó el avance en la impresión de papeletas para las elecciones 2025")
+* [¿Quiénes deben dejar sus cargos para ir a las elecciones 2025?](https://www.elcomercio.com/actualidad/politica/quienes-deben-dejar-sus-cargos-para-ir-a-las-elecciones-2025.html "¿Quiénes deben dejar sus cargos para ir a las elecciones 2025?")
+* [Daniel Noboa tomó una decisión sobre la protección policial para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-decision-proteccion-policial-elecciones-2025.html "Daniel Noboa tomó una decisión sobre la protección policial para las elecciones 2025")
 
-Violencia de género en Ecuador
-------------------------------
+Elecciones 2025 y la seguridad para los binomios
+------------------------------------------------
 
-En el país, desde 2014, cuando se tipificó el delito en el **Código Orgánico Integral Penal (COIP)**, hasta noviembre de 2024, se registraron 1 920 casos. Al menos, 1 817 menores quedaron en la orfandad. Así lo reporta Fundación Aldea. 
+La Presidenta del **CNE**, este 12 de diciembre de 2024, informó que 12 de los 16 binomios ya cuentan con una cápsula de seguridad.
 
-La **violencia de género**, incluido el femicidio, además de la pena privativa de libertad, conlleva rubros económicos, entre multas y reparación integral.
+No obstante, hizo algunas puntualizaciones. Por ejemplo, que **Daniel Noboa** cuenta con resguardo militar. En cambio, su dupla, **María José Pinto,** tiene la custodia de los agentes de la Policía.
 
-> 📍En el marco de los [#16Días](https://twitter.com/hashtag/16D%C3%ADas?src=hash&ref_src=twsrc%5Etfw) de Activismo contra la Violencia de Género y en conmemoración del Día de los [#DerechosHumanos](https://twitter.com/hashtag/DerechosHumanos?src=hash&ref_src=twsrc%5Etfw), [@AldeaFundacion](https://twitter.com/AldeaFundacion?ref_src=twsrc%5Etfw) y [@unicefecuador](https://twitter.com/unicefecuador?ref_src=twsrc%5Etfw) presentan la investigación “Esperando el verano: trayectorias de los niños, niñas y adolescentes víctimas de femicidio en… [pic.twitter.com/CdJ6nU09jP](https://t.co/CdJ6nU09jP)
+En el binomio de Suma, hasta la fecha, solo el postulante a la Presidencia, **Wilson Enrique Gómez**, tiene resguardo. Aún no la candidata a la Vicepresidencia, Inés Díaz Chiran, dijo Atamaint.
+
+Del lado de **Avanza** tiene resguardo solo la vicepresidenciable, **Karla Rosero**. En cambio, Luis Felipe Tillería, aún no. Según **Diana Atamaint**, se conoce que está fuera del país.
+
+Los binomios de **Unidad Popular** y la alianza **Revolución Ciudadana-Reto** aún no cuentan con la cápsula de seguridad.
+
+> [#ConversatorioElecciones2025](https://twitter.com/hashtag/ConversatorioElecciones2025?src=hash&ref_src=twsrc%5Etfw)🎙️📺🗞️  
+>   
+> Hoy, con la presencia de representantes de medios de comunicación nacionales e internacionales, nuestras autoridades dieron a conocer el cumplimiento de los hitos del calendario electoral de las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw). 🗳️🇪🇨  
+>   
+> Aquí los detalles 📰⤵️… [pic.twitter.com/vleWpp1gGA](https://t.co/vleWpp1gGA)
 > 
-> — UNICEF Ecuador (@unicefecuador) [December 10, 2024](https://twitter.com/unicefecuador/status/1866510208186392700?ref_src=twsrc%5Etfw)
+> — cnegobec (@cnegobec) [December 12, 2024](https://twitter.com/cnegobec/status/1867248218762887210?ref_src=twsrc%5Etfw)
 
-Femicidio en Ecuador y las multas
----------------------------------
+Los detalles del resguardo para binomios
+----------------------------------------
 
-**Daniela Rosero**, integrante de Aldea y Legatum, detalla que las multas en cuanto a contravenciones de violencia contra la mujer se especifican en el **artículo 159 del COIP**.
+Para las elecciones anticipadas 2023, en las que fue asesinado el excandidato **Fernando Villavicencio**, el CNE reportó que 11 candidatos de **binomios presidenciales** solicitaron resguardo.
 
-Esos rubros se determinan en concordancia con el artículo 70 del COIP. Entonces, en cuanto a contravenciones, el monto depende del grado de “gravedad” de la **agresión**.
+En lo que se refiere a asambleístas, el pedido llegó de **41 aspirantes**. En esas votaciones se definieron 137 curules y en el 2025, serán 151. También, serán cinco parlamentarios andinos.
 
-Si en el examen médico de la víctima se determinan, por ejemplo, dos días de incapacidad, significa una pena privativa de libertad de **15 a 30 días** y una multa del 25% de un salario básico unificado.
+El análisis de riesgo lo realizan el **Ministerio del Interior** y la Policía Nacional, que tienen la competencia para brindar seguridad. Para las elecciones 2025, se contempló que los binomios presidenciales tendrán una **cápsula de seguridad** de nueve servidores, dependiendo del nivel de riesgo.
 
-No obstante, la activista apunta a que las **multas** no se ejecutan. Lo propio, dice, pasa con las reparaciones económicas previstas en las sentencias por femicidios.
+Internet eleva a Luigi Mangione como un antihéroe que despierta pasiones
+========================================================================
 
-Por ejemplo, se ponen montos por **15 000 o 30 000**, pero “no se ha visto ni un dólar de esta cantidad de plata”.
+Luigi Mangione, un joven de 26 años detenido por el asesinato de Brian Thompson, se convirtió en un fenómeno viral.
+-------------------------------------------------------------------------------------------------------------------
 
-Ese panorama, justamente, es uno de los vacíos en los casos de las víctimas de **violencia de género**: la reparación.
+![Foto facilitada por el Departamento de Policía de Altoona, Pensilvania, de Luigi Mangione.](https://www.elcomercio.com/wp-content/uploads/2024/12/Luigi-mangione-efe-diciembre.jpg)
 
-Los destinos de los rubros
---------------------------
+El caso de [Luigi Mangione](https://en.wikipedia.org/wiki/Killing_of_Brian_Thompson "https://en.wikipedia.org/wiki/Killing_of_Brian_Thompson"), arrestado por asesinato, refleja cómo las **redes sociales** construyen mitos sobre criminales, creando **figuras polémicas**, según una publicación de El País.
 
-En lo que se refiere a los montos definidos como reparación integral, el dinero debe dirigirse directamente a las **víctimas**. En el caso de femicidio, a las familias. Los valores de las multas, en cambio, van al **Estado**.
+### Más noticias
 
-Sin embargo, como indican desde la Fiscalía, en casos de femicidio se solicita la protección de algunas instituciones que son parte del sistema de la **Ley de Erradicación de la Violencia a la Mujer**.
+* [Luigi Mangione al matar a Brian Thompson, no quería ‘poner en riesgo a inocentes’](https://www.elcomercio.com/actualidad/mundo/luigi-mangione-queria-poner-riesgo-inocentes.html "Luigi Mangione al matar a Brian Thompson, no quería ‘poner en riesgo a inocentes’")
+* [Los motivos del presunto crimen que habría cometido Luigi Mangione](https://www.elcomercio.com/actualidad/mundo/detencion-luigi-mangione-presunto-asesino-brian-thompson.html "Los motivos del presunto crimen que habría cometido Luigi Mangione")
+* [Armas fantasma: el nuevo desafío para la seguridad en EE. UU.](https://www.elcomercio.com/actualidad/mundo/armas-fantasma-nuevo-desafio-seguridad-ee-uu.html "Armas fantasma: el nuevo desafío para la seguridad en EE. UU.")
 
-En ese grupo están los **Ministerios de Salud, Educación, Inclusión**, entre otras entidades. La premisa es garantizar los derechos de las víctimas indirectas. En este caso, los hijos.
+Luigi Mangione, un **joven de 26 años** detenido por el asesinato de Brian Thompson, CEO de UnitedHealthcare, se convirtió en un fenómeno viral.
 
-Claro que también se contempla reparación integral no material, de acuerdo con la acusación particular de las víctimas.
+Desde su arresto, su historia cautivó a **miles de usuarios en redes sociales**, quienes lo transformaron en una **figura controversial y admirada,** comparándolo con íconos de la cultura pop como el personaje Luigi de los videojuegos.
 
-**Tanya Torres**, docente de Derecho, alerta que, usualmente, es complicado cobrar a los agresores.
+### Criminal que despierta pasiones
 
-Las **sobrevivientes**, además, no siempre optan por seguir el proceso legal, por las trabas que encuentran.
+Sin embargo, Mangione no es el primer **criminal en despertar pasiones,** pero su **juventud, atractivo y los detalles** sobre su vida personal generan una obsesión inesperada. La noticia, publicada por El País, destaca cómo las redes sociales convirtieron a un **asesino en un antihéroe moderno**, similar a otros criminales que fueron elevados a la categoría de figuras públicas.
 
-Torres indica que la **Defensoría Pública** trabaja en una reforma legal para que los defensores se encarguen no solo de llegar hasta las sentencia, sino de todo el procedimiento. Este incluye el cobro y, en general, el cumplimiento de las reparaciones ordenadas por el juez.
+Un crimen que tocó fibras sociales
+----------------------------------
 
-La reparación aún falta
------------------------
+El asesinato de Thompson, un **influyente magnate de las aseguradoras**, llevó a muchos a justificar la acción de Mangione, incluso como una **forma de justicia social.** En su carta a las autoridades, el joven expresó su d**esdén por el sistema de salud estadounidense,** uno de los más costosos y deshumanizados del mundo.
 
-La Fundación Aldea y Unicef realizaron el estudio **Esperando el verano: trayectorias de los niños, niñas y adolescentes víctimas de femicidio en Ecuador**. 
+Los detalles de su vida, **incluyendo su perfil de Spotify y fotos privadas filtradas en las redes**, fueron analizados minuciosamente por internautas, lo que contribuyó a crear una **imagen romántica del joven.** Esta fascinación por Mangione refleja cómo las **redes sociales** pueden influir en la percepción pública de los crímenes, a menudo distorsionando la realidad. Como señala **Clara Tiscar,** criminóloga consultada por El País, el encanto hacia estos criminales se debe a la **percepción de que sus causas son justas**, lo que genera empatía, aunque el acto de violencia sea incuestionable.
 
-**Alexandra Escobar**, oficial de Política Social de **Unicef** en Ecuador, detalla que el estudio deja claro que el femicidio no solo cobra las vidas de las mujeres, sino que deja deudas en las familias.
+¿Un villano o un héroe moderno?
+-------------------------------
 
-La investigación recoge información de 76 hogares en Ecuador con **151 a menores de edad**. El levantamiento se hizo en este 2024, pero abarca casos desde 2014.
+La polémica sobre la figura de Mangione también resalta un **fenómeno más amplio:** la glorificación de los criminales como símbolos de rebelión contra sistemas injustos.
 
-Entre los resultados se presentó que alrededor de **1 846 niños, niñas y adolescentes** quedaron en la orfandad. La mayor parte se encuentra en la **Costa y le siguen la Sierra y la Amazonía**.
+Al igual que en otros casos, como los **hermanos Menéndez, la narrativa** del “asesino con causa” resonó con quienes ven a Mangione como un “Robin Hood” moderno. Sin embargo, este fenómeno plantea un debate ético sobre hasta qué punto se debe admirar a alguien que comete un crimen, incluso si la motivación detrás de su acto parece legítima.
 
-Los cuidados se complican
--------------------------
+La crítica social es válida, pero la **violencia nunca puede ser la solución,** advierte Tiscar. Mientras tanto, las redes siguen difundiendo su historia, como un reflejo de la transformación de los criminales en figuras de culto.
 
-Tras el femicidio, casi siete de cada **10 menores** quedan bajo el cuidado y responsabilidad de una sola persona. Un 16% está a cargo de dos y un 3%, de tres.
+Redes sociales distorsionan la percepción pública
+-------------------------------------------------
 
-De las familias encuestadas, casi la mitad (46%) de niñas, niños y adolescentes quedaron bajo el cuidado de las **abuelas**. Ellas cambian de rol y pasan a ser madres de sus nietos.
+Este caso pone de relieve los **riesgos de consumir contenido sin filtro** y cómo las **redes sociales pueden distorsionar la percepción pública**, creando mitos a partir de personas reales involucradas en crímenes violentos. Como señala El País, es crucial no caer en la tentación de admirar a figuras como Mangione sin cuestionar la moralidad detrás de sus acciones.
 
-El **16%** de los menores fueron separados de sus hermanos u otros familiares debido a que no podían cubrir las necesidades.
+Compensación del consumo energético, ¿ya se refleja este beneficio en la planilla de luz?
+=========================================================================================
 
-Los padres de los menores, cuando no son los femicidas, quedan al cuidado en el 8% de los  
-casos.
+Gobierno cubre 180 kWh de consumo eléctrico mensual, beneficiando a familias ecuatorianas durante la emergencia energética.
+---------------------------------------------------------------------------------------------------------------------------
 
-Las condiciones de los hogares
-------------------------------
+![Imagen referencial sobre una planilla de luz.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-12T132016.784.jpg)
 
-Más de la mitad de los **hogares consultado**s cuentan con ingresos de una sola persona. En el 30% de las familias, dos personas aportan económicamente al hogar.
+El Gobierno de **Daniel Noboa** implementó la **compensación del consumo eléctrico** para familias ecuatorianas, una medida que busca **aliviar la economía familiar** en medio de la emergencia energética.
 
-También existen tres **familias** en las cuales una sola persona cuenta con un trabajo de medio tiempo.  
-No se contó con información de cinco familias.
+### Más noticias
 
-No obstante, que los **rubros** aporten a la economía de las familias aún es una odisea, empezando porque, en la mayoría de los casos, la sentencia tarda años o, simplemente, no llega.
+* [Daniel Noboa y su roce con el Legislativo por la ‘Ley Antipillos’, ¿quién tiene la razón?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-pugna-con-legislativo-ley-antipillos-quien-tiene-razon.html "Daniel Noboa y su roce con el Legislativo por la ‘Ley Antipillos’, ¿quién tiene la razón?")
+* [Ministerio de Energía anunció reducción de cortes de luz para semana del 9 de diciembre](https://www.elcomercio.com/actualidad/ecuador/ministerio-de-energia-anuncio-reduccion-de-cortes-de-luz-para-semana-del-9-de-diciembre.html "Ministerio de Energía anunció reducción de cortes de luz para semana del 9 de diciembre")
+* [Cortes de luz en Guayaquil este jueves 12 de diciembre](https://www.elcomercio.com/actualidad/guayaquil/cortes-luz-guayaquil-12-diciembre.html "Cortes de luz en Guayaquil este jueves 12 de diciembre")
 
-Ese es el caso de las integrantes de la **Fundación Madres Coraje**, conformada en 2022 y consolidada jurídicamente en 2023. Gran parte de las 35 integrantes no han conseguido sentencia y, mucho menos, reparación integral.
+A partir de noviembre de 2024, las planillas de luz reflejan la compensación de hasta **180 kilovatios hora (kWh) por mes**, según lo establecido en el Decreto Ejecutivo 442. Esta disposición permanecerá vigente hasta febrero de 2025.
 
-Bono de orfandad
+> BOLETÍN | [#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) 🇪🇨  
+>   
+> La primera compensación de los 180 kilovatios hora (kWh) se ve reflejada en las planillas de luz correspondientes al mes de noviembre, a escala nacional. Esta medida fue dispuesta por el presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw), a través del Decreto Ejecutivo N.°… [pic.twitter.com/Y4sRea5fIW](https://t.co/Y4sRea5fIW)
+> 
+> — Comunicación Ecuador 🇪🇨 (@ComunicacionEc) [December 12, 2024](https://twitter.com/ComunicacionEc/status/1867249514274312210?ref_src=twsrc%5Etfw)
+
+Detalles de la medida de las planillas de luz
+---------------------------------------------
+
+Durante los **cuatro meses de aplicación**, las familias no pagarán por los primeros **180 kWh de consumo eléctrico**. Esto significa un **ahorro directo en las planilla**s, permitiendo que los recursos destinados al pago de energía puedan ser utilizados en otras necesidades.
+
+Sin embargo, quienes superen ese límite de consumo deberán **cancelar el valor excedente** conforme a las tarifas regulares.
+
+La compensación es exclusiva para el rubro de **‘Valor Consumo**‘ y no afecta otros conceptos de la planilla, como el alumbrado público, la recolección de basura o la **contribución a los bomberos**.
+
+Las autoridades, a través del **Ministerio de Energía y Minas y la Agencia de Regulación y Control de Electricidad (Arconel),** garantizarán el cumplimiento de la normativa.
+
+Impacto esperado
 ----------------
 
-Algunas, incluso, han tenido que peregrinar por años para recibir el denominado **Bono de Orfandad**. Este va dirigido a menores que perdieron a sus madres como resultado de un femicidio.
+La medida busca aliviar la carga económica de los hogares en un contexto de **emergencia energética**, brindando apoyo **directo a las familias**.
 
-Según el viceministro de Inclusión Económica y Social, **Harold Burbano**, el bono, con corte a noviembre de 2024, se entrega a 507.
+Se estima que miles de usuarios a nivel nacional se beneficien de esta compensación durante su vigencia. Este esfuerzo también tiene como objetivo fomentar un consumo responsable de la energía eléctrica.
 
-No obstante, el funcionario, en una entrevista para Ecuadoradio, reconoció que son muchos más. “La hipótesis es que hay un subrregistro”.
+* * *
 
-Recordó que el bono se activa tras una **sentencia ejecutoriada** o denuncia en instrucción fiscal.
+### Esperanza
 
-Los detalles de los casos
--------------------------
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
 
-De los **76 casos consultados** en el estudio, el rango de edad con el mayor número de víctimas es el comprendido entre los 26 y 35 años, con un total de **32 víctimas**.
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
 
-De los **151 menores** incluidos en la investigación, el mayor número tenía entre 6 y 10 años al momento del delito. Para 2024, algunos ya son adolescentes.
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Facilidades para pagar internet, telefonía y electricidad con la Ley de Alivio Financiero
+=========================================================================================
+
+El Gobierno implementó facilidades de pago para internet, electricidad y servicios móviles, incluyendo suspensión de cortes y opciones flexibles durante emergencias.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Las empresas de telefonía deben brindar facilidades de pago por la crisis energética.](https://www.elcomercio.com/wp-content/uploads/2024/12/telefonia.jpg)
+
+En respuesta a las **emergencias económicas y eléctricas** que enfrenta el **Ecuador**, el **Gobierno Nacional** dispuso facilidades de pago para **internet, telefonía móvil** y **electricidad**, según la **Ley de Alivio Financiero**. Estas medidas buscan aliviar la carga financiera de las familias y empresas afectadas por la **crisis energética**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?](https://www.elcomercio.com/actualidad/negocios/como-acceder-seguro-desempleo-con-ley-alivio-financiero.html "¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?")
+* [Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios](https://www.elcomercio.com/actualidad/negocios/ley-de-alivio-financiero-en-ecuador-puntos-clave-y-fecha-de-acceso-a-los-mas-de-20-beneficios.html "Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios")
+* [‘Ley Antipillos’ regula el deporte profesional y el mercado de vehículos usados](https://www.elcomercio.com/actualidad/negocios/ley-antipillos-regula-el-deporte-profesional-y-el-mercado-de-vehiculos-usados.html "‘Ley Antipillos’ regula el deporte profesional y el mercado de vehículos usados")
+
+Estas facilidades de pago de servicios esenciales incluyen la suspensión temporal por falta de pago. Además, de opciones de **pagos** flexibles para regularizar facturas pendientes y apoyo extendido mientras dure la **emergencia energética.** Las medidas están establecidas en la nueva **Ley de Alivio Financiero**, vigente desde el 9 de diciembre de 2024.
+
+Estas disposiciones son aplicables a **todos los usuarios registrados** de los servicios mencionados, tanto del sector **público como privado**.
+
+¿Cómo acceder a los beneficios?
+-------------------------------
+
+Para beneficiarse de estas medidas, los usuarios de las operadoras deben comunicarse con sus proveedores de servicios, consultar las opciones disponibles y formalizar un **plan de pagos adaptado a sus necesidades**. Este proceso garantiza que las personas puedan continuar utilizando servicios esenciales sin interrupciones.
+
+En el caso de la **electricidad**, los proveedores deben implementar **acciones correctivas** y ofrecer facilidades de pago a los usuarios afectados por la situación actual del sector eléctrico.
+
+Asimismo, los usuarios podrán presentar reclamos **por cobros excesivos en sus planillas de energía** **eléctrica**, respaldados con documentación. Durante la sustanciación del reclamo, las empresas distribuidoras no podrán exigir el pago ni suspender el servicio, y se garantiza que no se cargarán intereses ni recargos adicionales.
+
+Los reclamos deberán resolverse en un plazo máximo de 10 días. Si se detectan valores a favor del usuario, estos se acreditarán como saldo a favor en futuras planillas.
+
+Al garantizar el **acceso continuo a servicios esenciales**, se busca preservar la estabilidad social y económica de las **familias ecuatorianas**, asegurando que ningún ciudadano quede desprotegido, establece la norma.
 
 * * *
 
@@ -576,694 +342,615 @@ Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Ap
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
 
-CTE implementa cámaras ‘bodycam’ en sus agentes, ¿qué pasa si no las encienden?
-===============================================================================
+Protestas en Manbech, norte de Siria, tras ser tomada por facciones proturcas
+=============================================================================
 
-La Comisión de Tránsito del Ecuador (CTE) implementó el uso obligatorio de 'bodycam' en sus agentes desde el 10 de diciembre.
------------------------------------------------------------------------------------------------------------------------------
+Los kurdosirios aseguraron que este jueves mataron a "tres mercenarios de ocupación turcos".
+--------------------------------------------------------------------------------------------
 
-![Los agentes de tránsito de la CTE están obligados a utilizar las cámaras corporales todo el tiempo](https://www.elcomercio.com/wp-content/uploads/2024/12/agentes-transito-cte-bodycam.jpg)
+![Kurdos ondean banderas y gritan consignas durante una protesta.](https://www.elcomercio.com/wp-content/uploads/2024/12/kurdos-efe.jpg)
 
-La **Comisión de Tránsito del Ecuador** (CTE) implementó una nueva regulación para sus **agentes**. Se trata del uso obligatorio de **dispositivos de videograbación**, conocidos como ‘**bodycam**‘.
+La ciudad de **Manbech**, en el norte de [Siria](https://www.elcomercio.com/actualidad/mundo/sigue-para-siria-mundo-caida-bashar-asad.html "https://www.elcomercio.com/actualidad/mundo/sigue-para-siria-mundo-caida-bashar-asad.html"), fue escenario este jueves, 12 de diciembre de 2024, de “**manifestaciones masivas**“. Ocurre después de que un **grupo de facciones armadas proturcas** se hiciera con el control de la localidad, que antes estaba en manos de la alianza liderada por kurdosirios Fuerzas de Siria Democrática (FSD), informó una ONG.
 
 ### Más noticias
 
-* [Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro](https://www.elcomercio.com/actualidad/seguridad/ministerio-defensa-despliegue-militares-el-oro.html "Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro")
-* [Policía captura a miembros de Las Águilas, entre ellos el cabecilla](https://www.elcomercio.com/actualidad/seguridad/policia-captura-a-miembros-las-aguilas-entre-ellos-cabecilla.html "Policía captura a miembros de Las Águilas, entre ellos el cabecilla")
-* [Diciembre, un mes propicio para la prevención los siniestros de tránsito](https://www.elcomercio.com/opinion/editorial/diciembre-mes-propicio-prevencion-siniestros-transito.html "Diciembre, un mes propicio para la prevención los siniestros de tránsito")
+* [¿Qué sigue para Siria y el mundo tras la caída de Bashar al Asad?](https://www.elcomercio.com/actualidad/mundo/sigue-para-siria-mundo-caida-bashar-asad.html "¿Qué sigue para Siria y el mundo tras la caída de Bashar al Asad?")
+* [¿Quién es Mohamed al Bashir, el encargado de liderar la transición en Siria?](https://www.elcomercio.com/actualidad/mundo/mohamed-bashir-encargado-liderar-transicion-siria.html "¿Quién es Mohamed al Bashir, el encargado de liderar la transición en Siria?")
+* [Insurgentes encargan formar gobierno en Siria al presidente de la administración de Idlib](https://www.elcomercio.com/actualidad/mundo/insurgentes-encargan-formar-gobierno-siria-presidente-administracion-idlib.html "Insurgentes encargan formar gobierno en Siria al presidente de la administración de Idlib")
 
-Estos aparatos electrónicos fueron dotados a los encargados del tránsito y la movilidad para que los utilicen durante **toda su jornada laboral**. La medida se aplicó desde este martes **10 de diciembre** de 2024.
+El **Observatorio Sirio de Derechos Humanos** dijo que en estas **“manifestaciones masivas”** los residentes de esta localidad septentional protestaron contra “la**s violaciones cometidas por las facciones** contra los civiles y sus propiedades”. Incluyeron además, como los **“robos, saqueos, arrestos y asesinatos**“.
 
-CTE busca reducir la corrupción en los procedimientos
------------------------------------------------------
+La ciudad, que desde 2016 estaba bajo control de las FSD, fue tomada ayer por la facción armada Ejército Nacional Sirio (SNA), financiada y entrenada por Ankara, tras varios días de **intensos combates** que terminaron en un acuerdo un alto el fuego -mediado po**r Estados Unidos-con los kurdosirios** para que se retiraran de Manbech.
 
-Según explicó la CTE, el objetivo de la implementación de las ‘bodycam’ es garantizar la **transparencia** en los procedimientos viales, entre los conductores y los agentes. De esta forma se busca que los casos de **corrupción** o mala aplicación de la ley disminuyan.
+Sin embargo, las FSD denunciaron que los combatientes del SNA prosiguieron con su ofensiva en las inmediaciones de la presa Tishrín, que separa de oeste a este del río Éufrates las localidades de Manbech y Al Raqa.
 
-Los agentes deberán utilizar estos electrónicos, que vienen integrados en sus uniformes, **todo el tiempo**.
+Tres mercenarios fallecieron
+----------------------------
 
-En caso de que los ciudadanos detecten que **no estén prendidos** mientras se realiza una intervención, la CTE recomendó a los usuarios que le exijan al agente el respectivo encendido.
+Asimismo, los kurdosirios aseguraron que este jueves mataron a “**tres mercenarios de ocupación turco**s” mientras sus fuerzas repelían un ataque contra el centro de la ciudad de Manbech “a pesar del acuerdo de armisticio garantizado internacionalmente”.
 
-Cuando el ‘bodycam’ está funcionando, una **luz roja** parpadea constantemente.
+El SNA forma parte de la coalición insurgente que derrocó al régimen del presidente sirio Bachar al Asad y que está liderada por la **alianza islamista Hayat Tahrir al Sham (**HTS u Organismo de Liberación del Levante), heredera de la exfilial de Al Qaeda en Siria, el Frente Al Nusra.
 
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDZhFxER3xM/?utm_source=ig_embed&utm_campaign=loading)
+Sin embargo, mientras el HTS se centró en **controlar Damasco** y en consolidar territorio tras el éxito de sus 12 días de vertiginosa ofensiva, las **facciones proturcas** emprendieron una operación contra los kurdosirios del norte de Siria para **romper las líneas de suministro de las FSD,** aliadas de Estados Unidos.
+
+El principal componente de las FSD son las **Unidades de Protección del Pueblo Kurdo (YPG),** que Turquía considera filial de la guerrilla Partido de los **Trabajadores del Kurdistán (PKK)**, considerado terrorista por Ankara. 
+
+Asamblea Nacional plantea una medida contra la ‘Ley Antipillos’
+===============================================================
+
+Viviana Veloz denuncia inconstitucionalidad en ley del Ejecutivo y alerta riesgo para la democracia en Ecuador por publicación de 'Ley Antipillos'.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Viviana Veloz, presidenta de la Asamblea Nacional en una rueda de prensa.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-12T115714.242.jpg)
+
+La presidenta de la **Asamblea Nacional**, **Viviana Veloz**, informó que presentará ante la Corte Constitucional una acción de inconstitucionalidad para retirar del **Registro Oficial la** “Ley para la Mejora Recaudatoria a través del Combate al Lavado de Activos”.
+
+### Más noticias
+
+* [Daniel Noboa y su roce con el Legislativo por la ‘Ley Antipillos’, ¿quién tiene la razón?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-pugna-con-legislativo-ley-antipillos-quien-tiene-razon.html "Daniel Noboa y su roce con el Legislativo por la ‘Ley Antipillos’, ¿quién tiene la razón?")
+* [‘Ley Antipillos’ regula el deporte profesional y el mercado de vehículos usados](https://www.elcomercio.com/actualidad/negocios/ley-antipillos-regula-el-deporte-profesional-y-el-mercado-de-vehiculos-usados.html "‘Ley Antipillos’ regula el deporte profesional y el mercado de vehículos usados")
+
+Según la legisladora, esta normativa fue enviada de **manera ilegal por el Ejecutivo**, pese a haber sido rechazada por el Legislativo.
+
+“No confiamos en una Corte que se ha sometido al poder político. Esa es la realidad, la Corte Constitucional **se termina sometiendo, la mayoría de las veces**, al poder político. (…) Esperamos que la Corte actúe de manera diligente, que no se lave las **manos como Pilato** y que como defensora de la Constitución se pronuncie como establece la ley, el ordenamiento jurídico y la Carta Magna”, afirmó Veloz.
+
+> [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) [@VivianaVelozEc](https://twitter.com/VivianaVelozEc?ref_src=twsrc%5Etfw) enfatizó en que presentará ante la [@CorteConstEcu](https://twitter.com/CorteConstEcu?ref_src=twsrc%5Etfw) 1 acción de inconstitucionalidad para expulsar del Registro Oficial la Ley para la Mejora Recaudatoria y Combate al Lavado de Activos [#SemanalLegislativo](https://twitter.com/hashtag/SemanalLegislativo?src=hash&ref_src=twsrc%5Etfw)  
+> Boletín [https://t.co/qzuZ7KQDSW](https://t.co/qzuZ7KQDSW) [pic.twitter.com/NhAoacfhxT](https://t.co/NhAoacfhxT)
 > 
-> [Una publicación compartida por Comision de Tránsito del Ecuador (@comisiondetransitodelecuador)](https://www.instagram.com/reel/DDZhFxER3xM/?utm_source=ig_embed&utm_campaign=loading)
+> — Asamblea Nacional (@AsambleaEcuador) [December 12, 2024](https://twitter.com/AsambleaEcuador/status/1867243142954586172?ref_src=twsrc%5Etfw)
 
-Sanciones para agentes de tránsito que no utilicen las ‘bodycam’
-----------------------------------------------------------------
+Además, adelantó que solicitará una **medida cautelar** para suspender la aplicación de los tributos establecidos en la ley, argumentando que estos perjudican a los ciudadanos en **medio de una crisis económica y energética**.
 
-Si los colaboradores de la CTE no utilizan los dispositivos, los conductores están en su derecho de **denunciarlos** a la entidad.
+Denuncia de afectación democrática
+----------------------------------
 
-Esta acción será considerada como una **falta grave** que, según el Código Orgánico de Entidades de Seguridad Ciudadana y Orden Público (Coescop) se sanciona con el **8 %** de la remuneración mensual que percibe el servidor.
+En su intervención, Veloz denunció que el **sistema democrático del Ecuador** ha sido lacerado por el actuar del Ejecutivo, que envió la ley al [**Registro Oficia**l](https://es.wikipedia.org/wiki/Registro_Oficial_de_Ecuador#:~:text=El%20Registro%20Oficial%20del%20Ecuador,y%20privados%20de%20inserci%C3%B3n%20obligatoria. "https://es.wikipedia.org/wiki/Registro_Oficial_de_Ecuador#:~:text=El%20Registro%20Oficial%20del%20Ecuador,y%20privados%20de%20inserci%C3%B3n%20obligatoria.") tras su rechazo legislativo.
 
-CTE suspendió operativos de control
------------------------------------
+“Es una **actuación muy grave**, porque cuando la Asamblea se pronunció, se notificó al Registro Oficial y en el suplemento se encuentra **publicada la negativa**”, puntualizó.
 
-La CTE informó que a partir del 6 de diciembre de 2024, **se suspendieron los operativos de control**, “sin excepción alguna”[.](https://www.comisiontransito.gob.ec/ "https://www.comisiontransito.gob.ec/")
+La presidenta también criticó la normativa, a la que calificó como un instrumento para satisfacer al **Fondo Monetario Internacional (FMI)** y recibir un nuevo desembolso financiero. “Esto altera el sistema de pesos y contrapesos de un **Estado de Derecho** y pone la democracia en riesgo. En Carondelet hay un apagón energético, democrático y jurídico que ha aniquilado lo que nos quedaba de institucionalidad en el país”, declaró.
 
-Esto, porque sus agentes se sumarán a los Controles de Armas, Municiones y Explosivos (**Camex**), junto a la **Policía Nacional** y las **Fuerzas Armadas**.
+Desmiente pugna de poderes
+--------------------------
 
-El personal de la Dirección de Asuntos Internos (**DAI**) es el encargado de supervisar que se cumpla esta disposición.
+La Presidenta también aclaró que **no existe una pugna de poderes entre el Legislativo y el Ejecutivo**.
 
-La Comisión de Tránsito del Ecuador **opera en siete provincias**: Guayas, Santa Elena, Los Ríos, Azuay, El Oro, Manabí y Santo Domingo de los Tsáchilas.
+“No pugnamos con nadie, nos pronunciamos porque mi presidencia tiene un hito histórico y es no permitir que se sigan cometiendo más arbitrariedades”, afirmó.
 
-Registro Civil anuncia última jornada extra para emisión de cédulas y pasaportes
-================================================================================
+Veloz destacó el trabajo realizado por la **Asamblea Nacional**, asegurando que los 137 asambleístas han aprobado más de **30 leyes en tiempo récord**. “No hay tiempo que perder. Afuera la gente se muere de hambre, afuera los niños **no tienen que comer, afuera la gente no tiene medicinas**”, concluyó.
 
-El Registro Civil atenderá en agencias de tres provincias durante la jornada extra para cédulas y pasaportes.
--------------------------------------------------------------------------------------------------------------
+* * *
 
-![Agencias del Registro Civil atenderán en la última jornada extra para cédulas y pasaportes.](https://www.elcomercio.com/wp-content/uploads/2024/04/registro-civil-cedula-el-comercio.jpg)
+### Esperanza
 
-El **Registro Civil** anunció la última jornada extraordinaria para la emisión de **cédulas y pasaportes** en lo que resta de 2024, este miércoles 11 de diciembre.
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
 
-Habrá **cinco agencias habilitadas** para la atención a la ciudadanía con estos servicios en todo el país.
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Segundo Castillo tuvo un ciclo invicto con Barcelona SC
+=======================================================
+
+La continuidad de Segundo Alejandro Castillo en Barcelona SC aún no está asegurada pese a que finalizó invicto durante su gestión.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Segundo Alejandro Castillo en una rueda de prensa con Barcelona SC.](https://www.elcomercio.com/wp-content/uploads/2024/12/1000185662-1.jpg)
+
+La continuidad de **Segundo Alejandro Castillo**, quien terminó como DT del club en la temporada 2025, aún no está asegurada. Pese a ello, el entrenador ecuatoriano tuvo réditos durante su ciclo en **Barcelona SC** y méritos que avalaron su gestión.
+
+Después que saliera a la luz que el entrenador ecuatoriano no había llegado a un acuerdo para renovar su contrato con el ‘**Ídolo**‘, la directiva del elenco se pronunció. Tras un reclamo en redes sociales por las frustradas negociaciones y de que se le pidiese que mantenga a Castillo, **Antonio Álvarez** -presidente de la institución- manifestó en X que era necesario “poner la plata”.
 
 ### Más noticias:
 
-* [Ejército ecuatoriano abrirá inscripciones en enero de 2025](https://www.elcomercio.com/actualidad/ecuador/ejercito-ecuatoriano-abrira-inscripciones-enero-2025.html "Ejército ecuatoriano abrirá inscripciones en enero de 2025")
-* [Daniel Noboa reducirá Impuesto a la Salida de Divisas](https://www.elcomercio.com/actualidad/politica/daniel-noboa-reduce-impuesto-de-salida-de-divisas.html "Daniel Noboa reducirá Impuesto a la Salida de Divisas")
+* [Felipe Caicedo se enojó con la dirigencia de Barcelona SC](https://www.elcomercio.com/deportes/futbol/felipe-caicedo-se-enojo-con-la-dirigencia-de-barcelona-sc.html "Felipe Caicedo se enojó con la dirigencia de Barcelona SC")
+* [¿Matías Oyola reemplazará a Segundo Alejandro Castillo en Barcelona SC?](https://www.elcomercio.com/deportes/futbol/matias-oyola-reemplazara-a-segundo-alejandro-castillo-en-barcelona-sc.html "¿Matías Oyola reemplazará a Segundo Alejandro Castillo en Barcelona SC?")
+* [El FC Barcelona acaricia los octavos de la Champions](https://www.elcomercio.com/deportes/futbol/barcelona-dortmund-resultado-champions-league.html "El FC Barcelona acaricia los octavos de la Champions")
 
-Agencias habilitadas para la jornada extra del Registro Civil de emisión de cédulas y pasaportes
-------------------------------------------------------------------------------------------------
+Antes de que se produzcan tales acontecimientos, el máximo dirigente de **Barcelona SC** había señalado que la intención era mantener a Castillo en el banquillo. Tras el último partido de la **Liga Pro** del conjunto torero, este ratificó al DT como el elegido para que estar al frente del club en 2025.
 
-El Registro Civil llevará a cabo la última jornada extraordinaria del año para la emisión de pasaportes y cédulas en las ciudades de **Quito, Guayaquil y Cuenca**.
+Al término del campeonato ecuatoriano, el entrenador había respondido bien desde que tomó el club por tercera, pues antes tuvo dos interinatos. En aquella nueva etapa, este finalizó invicto, reposicionó a **Barcelona SC** y ganó un **Clásico del Astillero** en su debut.
 
-El usuario que requiera el servicio debe pagar la tarifa y agendar un turno a través de la **Agencia Virtual del Registro Civil** en la página oficial: www.registrocivil.gob.ec.
+Segundo Alejandro Castillo al frente de Barcelona SC
+----------------------------------------------------
 
-El **turno** es completamente **gratuito** y debe ser solicitado por la persona que requiera el servicio.
+**Segundo Alejandro Castillo** llegó a Barcelona SC como el tercer técnico en el año del equipo torero. El ecuatoriano reemplazo al entrenador argentino **Ariel Holan**, quien antes había sustituido al uruguayo Diego López.
 
-El Registro Civil realizará la jornada extraordinaria el **sábado 14 de diciembre** de 2024, en el horario de **8:00 a 17:00**.  
-  
-Las cinco **agencias habilitadas** para esta jornada de emisión de cédulas y pasaportes son:
+El arribo de Castillo se produjo después de que **Holan** cayera por goleada ante **El Nacional** en Quito por un marcador de 3-0. Ante ello, el exfutbolista, que formaba parte del cuerpo técnico del argentino, fue anunciado como DT para los siguientes seis partidos.
 
-* **Pichincha**: Quito, Iñaquito Matriz, en av. Amazonas y Naciones Unidas.
-* **Guayas**: Gobierno Zonal, en av. Francisco de Orellana y Justino Cornejo.
-* **Guayas**: Centro (Rocafuerte), en av. 9 de Octubre 203 y Pichincha (solo cédula).
-* **Azuay**: Cuenca (San Blas), en Alfonso Jerves y Alfonso Malo.
-* **Azuay**: Bellavista, en Luis Cordero y av. Héroes de Verdeloma (solo cédula).
+En los cotejos en los que el ecuatoriano debió estar al frente del club, este logró tres triunfos y un empate. Asimismo, también logró un **trofeo amistoso** en el parón de eliminatorias[.](https://en.wikipedia.org/wiki/Segundo_Castillo_(footballer,_born_1982) "https://en.wikipedia.org/wiki/Segundo_Castillo_(footballer,_born_1982)")
 
-En el año 2024, el Registro Civil del Ecuador ha ejecutado **10 jornadas** de fines de semana y 2 jornadas ampliadas, del 15 al 19 de enero y del 8 al 19 de abril.
+Un Clásico, goleadas, clasificación a Libertadores y pelar la etapa
+-------------------------------------------------------------------
 
-Esto ha beneficiado a más de **231 mil ecuatorianos** en total.
+En su partido debut, Castillo consiguió vencer en el **Clásico del Astillero** a Emelec. El ‘Ídolo’ y su DT se impusieron por un marcador de 2-1, sobre sus rivales.
 
-### Costos y requisitos
+Dentro de los seis partidos oficiales que disputó, ‘Sir Second’ y sus dirigidos consiguieron la mayor goleada del año. **Barcelona SC** se impuso ante el **Cumbayá** por un marcador de 8-1.
 
-La **tarifa** de emisión de **cédula** por renovación es de **16 dólares**. Para **pasaporte** el costo es de **90 dólares**.
+Los resultados de Castillo, además, le permitieron asegurar la clasificación a la primera fase previa de la **Copa Libertadores** al terminar en el tercer puesto de la tabla acumulada. A su vez, el estratega tomó al equipo en la **quinta posición** de la segunda etapa y lo llevó a pelear por el liderato, pese a que terminó cuarto.
 
-Es obligatorio que el usuario presente el **comprobante de pago** impreso, la cédula o pasaporte anterior, en caso de renovación.
+Lucía Yépez es la mejor luchadora del mundo en 53 kg
+====================================================
 
-Por pérdida o robo se requiere la constancia impresa o digital del **Formulario de Documentos Extraviados del Consejo de la Judicatura**, accesible en el siguiente enlace: https://goo.su/BUnGxpZ.
+Lucía Yépez lidera el ranking de su categoría y además está nominada para la mejor del año por la United World Wrestling.
+-------------------------------------------------------------------------------------------------------------------------
 
-Los **trámites son personales**. Solo podrá ingresar la persona que haya agendado el turno.
+![La ecuatoriana Lucía Yépez lidera el ranking mundial en los 53 kg.](https://www.elcomercio.com/wp-content/uploads/2024/12/Lucia-yepez.jpg)
 
-**No se permitirá** la entrada de acompañantes, ni de mochilas o maletas, para garantizar el orden y la seguridad en el proceso.
+**Lucía Yépez**, la luchadora ecuatoriana, es la **mejor del mundo** en la **categoría** de 53 kg, según el **ranking** de la **United World Wrestling**. Gracias a eso se llevará un reconocimiento económico por su desempeó.
 
-La ducha antes del sexo, ¿un paso necesario o exagerado?
-========================================================
+Este reconocimiento llega tras su destacada actuación en los Juegos Olímpicos de París 2024, donde se colgó la medalla de plata, convirtiéndose en la primera ecuatoriana en lograr una presea olímpica en lucha.
 
-La higiene íntima antes de mantener relaciones sexuales genera diversas opiniones.
-----------------------------------------------------------------------------------
+### Más noticias:
 
-![Un exceso en la higiene íntima puede alterar la flora vaginal natural. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-11T170119.482.jpg)
+* [Joel Ordóñez, el ecuatoriano que domina el fútbol de Bélgica](https://www.elcomercio.com/deportes/futbol/joel-ordonez-el-ecuatoriano-que-domina-el-futbol-de-belgica.html "Joel Ordóñez, el ecuatoriano que domina el fútbol de Bélgica")
+* [Segundo Castillo tuvo un ciclo invicto con Barcelona SC](https://www.elcomercio.com/deportes/futbol/segundo-castillo-barcelona-sc-invicto-renovacion.html "Segundo Castillo tuvo un ciclo invicto con Barcelona SC")
+* [Lucía Yépez, nominada luchadora del año por la United World Wrestling](https://www.elcomercio.com/deportes/otros/lucia-yepez-nominada-mejor-luchadora-mundo.html "Lucía Yépez, nominada luchadora del año por la United World Wrestling")
 
-La **higiene íntim**a antes de mantener **relaciones sexuales** es un tema que genera diversas opiniones y prácticas. A continuación, te presentamos los **pros y contras** de **bañarse** antes de ‘**encontrarnos**‘ con nuestro ser amado.
+Además, la ecuatoriana compite por ser considerada como la [mejor luchadora del año.](https://www.elcomercio.com/deportes/otros/lucia-yepez-nominada-mejor-luchadora-mundo.html)
+
+Lucía Yepez la número uno del mundo en 53 kg
+--------------------------------------------
+
+La organización internacional destacó que las luchadoras mejor clasificadas del año fueron determinadas tras la conclusión de varios eventos importantes, incluidos los Juegos Olímpicos y los Campeonatos Mundiales.
+
+**Yépez** lidera el ranking de su categoría de peso. Le siguen A. Fujinami (Japón), Q. Pang (China) y E. Malmgren (Suecia).
+
+“Las luchadoras mejor clasificadas del año después de la conclusión de los eventos basados en puntos de 2024: los Juegos Olímpicos, los Campeonatos Mundiales no Olímpicos, los Campeonatos Continentales y los eventos de la Serie de Clasificación”, publicó la United World Wrestling este 12 de diciembre del 2024.
+
+“Cada una de las luchadoras número 1 del ranking se llevará a casa **5 mil dólares** por sus esfuerzos durante toda la temporada.”
+
+Nominada a la mejor luchadora del año
+-------------------------------------
+
+La atleta ecuatoriana también compite por el título de la mejor luchadora femenina del año por la United World Wrestling.
+
+Yépez es la número uno del mundo en los 53 kg y tiene, 54100 puntos. Se destaca su medalla de plata en París 2024.
+
+Las otras nominadas a **mejor luchadora del año** son:
+
+Sakura Motoki de Japón, la número 1 del mundo en los 62 kg con 60 000 puntos. Campeona olímpica en 2024.
+
+Moe Kiyooka, de Japón. Número 1 de los 55 kg y tiene 55 000 puntos.
+
+Buse Tosun de Turqía. Número 1 de los 68 kg y suma 60 200 puntos.
+
+Feng Ziqi de China. Número 1 de los 50 kg. 59 400 puntos.
+
+‘La Tigra’
+----------
+
+La ‘Tigra’, como es conocida en el ámbito deportivo, ha tenido un camino lleno de sacrificios. Desde sus inicios a los 10 años en Quevedo, ha enfrentado numerosos desafíos, incluyendo entrenar sin el equipo adecuado.
+
+Su dedicación ha dado frutos, y su medalla olímpica no solo representa un logro personal, sino también un hito histórico para **Ecuador.**
+
+En la final de París 2024, Yépez se enfrentó a la japonesa [**Akari Fujinami,**](https://es.wikipedia.org/wiki/Akari_Fujinami) donde aunque perdió por un contundente 10-0, su desempeño en el torneo fue sobresaliente.
+
+A lo largo de la competencia, solo cedió puntos en esa última pelea, mostrando su habilidad y fortaleza.
+
+Con apenas 23 años, Yépez continúa escribiendo su historia en el deporte y se posiciona como un referente para futuras generaciones de atletas ecuatorianos. Su éxito es un motivo de orgullo nacional y una inspiración para muchos jóvenes que sueñan con alcanzar grandes logros en el deporte.
+
+Policía desarticula un centro de videovigilancia clandestino en Guayaquil
+=========================================================================
+
+Investigaciones buscan dar con el grupo delictivo que operaba en este lugar, desde el cual se presume se vigilaban contenedores
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial de cámaras de videovigilancia.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-12T115914.784.jpg)
+
+La **Policía Nacional** informó este jueves 12 de diciembre sobre un **operativo desarrollado en Guayaquil** que permitió la **detección de un centro de monitoreo clandestino.**
+
+### Más noticias
+
+* [Bloque de Seguridad asegura una reducción del 17% de crímenes en Ecuador](https://www.elcomercio.com/actualidad/seguridad/bloque-de-seguridad-asegura-reduccion-de-crimenes-ecuador.html "Bloque de Seguridad asegura una reducción del 17% de crímenes en Ecuador")
+* [Daniel Noboa asegura que hubo un coche bomba cerca de un acto en Machala](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-coche-bomba-cerca-acto-machala.html "Daniel Noboa asegura que hubo un coche bomba cerca de un acto en Machala")
+* [Policía captura a miembros de Las Águilas, entre ellos el cabecilla](https://www.elcomercio.com/actualidad/seguridad/policia-captura-a-miembros-las-aguilas-entre-ellos-cabecilla.html "Policía captura a miembros de Las Águilas, entre ellos el cabecilla")
+
+El operativo en la Isla Trinitaria
+----------------------------------
+
+Un operativo se ejecutó esta madrugada en el **sector de la Isla Trinitaria**, una zona cercana a los puertos de la parte sur de Guayaquil.
+
+Agentes policiales **allanaron alrededor de una decena de inmuebles**; en uno de ellos hallaron un centro de monitoreo clandestino.
+
+En la inspección se detectaron más de **15 cámaras de videovigilancia.** Algunas de ellas, ubicadas en los exteriores de viviendas del sector, abarcaban varias manzanas a la redonda y eran empleadas para detectar **operativos policiales.**
+
+Además, según información policial, con estas **cámaras se vigilaba el paso de contenedores** que salían del puerto. Esto sería parte del accionar de grupos delictivos que operan en el tráfico de sustancias ilícitas.
+
+Dos motocicletas también fueron decomisadas en este operativo, así como las cámaras de vigilancia. No se reportaron personas detenidas en este operativo.
+
+Investigaciones se enfocan en los responsables
+----------------------------------------------
+
+Las **investigaciones policiales** están dirigidas a dar con las personas que ocupaban este centro de monitoreo. En la zona operan bandas como los Latin Kings y Los Lagartos.
+
+Se conoce que en los puertos, las bandas operan escondiendo **sustancias ilícitas** sobre todo en los contenedores de banano que salen de esta zona.
+
+También se han denunciado amenazas contra el **personal aduanero** y [de carga](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador").
+
+La Policía Nacional trabaja en Guayaquil, Naranjal, Samborondón, el cerro del Carmen y más sitios de la provincia del Guayas para detectar el accionar de **grupos delictivos.**
+
+Karol G y Shakira superaron a Taylor Swift y ahora las mimadas de YouTube
+=========================================================================
+
+Karol G y Shakira brillan por sobre Taylor Swift, The Weeknd, Ariana Grande y Billie Eilish.
+--------------------------------------------------------------------------------------------
+
+![Karol G sigue marcando hitos. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-12T122654.393.jpg)
+
+**Vevo**, la plataforma encargada de distribuir los **videos musicales** de grandes sellos discográficos, presentó el **ranking** de los artistas más reproducidos de 2024.
+
+En este listado, las estrellas colombianas **Karol G y Shakira** destacaron como las más vistas, superando a figuras internacionales como **Taylor Swift, The Weeknd, Ariana Grande y Billie Eilish**.
 
 ### **Más noticias:**
 
-* [¿Quieres un juguete sexual? Una experta te ayuda a elegir al compañero ideal](https://www.elcomercio.com/tendencias/bienestar/juguete-sexual-companero-ideal-seleccion-pareja.html "https://www.elcomercio.com/tendencias/bienestar/juguete-sexual-companero-ideal-seleccion-pareja.html")
-* [Los efectos secundarios de los comestibles para el placer sexual](https://www.elcomercio.com/tendencias/bienestar/efectos-secundarios-comestibles-placer-sexual.html "https://www.elcomercio.com/tendencias/bienestar/efectos-secundarios-comestibles-placer-sexual.html")
-* [Sexo programado para contrarrestar la rutina diaria](https://www.elcomercio.com/tendencias/bienestar/sexo-programado-parejas-hombres-mujeres-relaciones-sexuales.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/bienestar/sexo-programado-parejas-hombres-mujeres-relaciones-sexuales.html?source=Internal&ref=Single+Content+Link") 
+* [El misterio de la muerte de Liam Payne crece con dos nuevos imputados](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-dos-nuevos-acusados.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-dos-nuevos-acusados.html")
+* [El cuerpo de Liam Payne finalmente llegó a casa](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cuerpo-repatriado-londres.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cuerpo-repatriado-londres.html")
+* [Liam Payne y la controversia de la ‘cocaína rosa’](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html")
 
-**La ducha antes del sexo, ¿un paso necesario o exagerado?**
-------------------------------------------------------------
+**Karol G y Shakira superaron a Taylor Swift y ahora las mimadas de YouTube**
+-----------------------------------------------------------------------------
 
-**Seis** de siete personas están a favor del duchazo antes de mantener **relaciones sexuales**. Alejandro (27 años) afirma que “esa es una forma de **prevenir** enfermedades”.
+Karol G lidera la lista global con 3,57 billones de reproducciones en **YouTube,** mientras que Shakira ocupa el segundo lugar con 2,01 billones.
 
-Sin embargo, apunta que hay “**excepciones**“.
+Este logro refleja el impacto que ambas han tenido en la industria musical este año, consolidándose como dos de las figuras más influyentes a nivel mundial.
 
-Camila (37 años) es otra de las personas que jamás mantendría una **relación sexual** sin un previo duchazo. “Tengo pánico a los gérmenes; los dos nos duchamos”.
+> [View this post on Instagram](https://www.instagram.com/p/CxJgm7-OeSn/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by KAROL G (@karolg)](https://www.instagram.com/p/CxJgm7-OeSn/?utm_source=ig_embed&utm_campaign=loading)
 
-Cristina (43 años) es la única del grupo encuestado que “haría el amor” sin preocuparse de ese paso. “¿Qué hago si nos da ganas en plena carretera?”.
+Además de su éxito global, Karol G se posicionó como la artista latina más escuchada en Estados Unidos, alcanzando 383 millones de vistas solo en este país.
 
-**Pros de bañarse antes de tener relaciones sexuales**
+Otros artistas colombianos también destacan en la lista, como Feid, quien ocupa el quinto puesto con 1,69 billones de reproducciones, y Maluma, en el noveno lugar, con 1,32 billones.
+
+**Estos son los videos más vistos de 2024 en YouTube**
 ------------------------------------------------------
 
-* **Sensación de limpieza**: Muchas personas se sienten más cómodas y seguras al estar limpias antes de un encuentro sexual. Esto puede mejorar la experiencia y la conexión con la pareja.
-* **Prevención de olores**: Una ducha rápida puede ayudar a eliminar olores corporales que podrían resultar incómodos durante el acto sexual, contribuyendo a una mejor intimidad.
-* **Higiene general**: Mantener una buena higiene personal es crucial para prevenir infecciones y mantener la salud sexual.
+Karol G vuelve a brillar con su tema _Si antes te hubiera conocido_, que logró 193 millones de vistas, siendo el quinto video más popular de 2024.
 
-**Contras de bañarse antes de tener relaciones sexuales**
----------------------------------------------------------
+La ‘Bichota’ superó a artistas como **Ariana Grande y Eminem.** Feid también hizo su aparición con su video _Luna_, en colaboración con ATL Jacob, que alcanzó 165 millones de reproducciones.
 
-* **Alteración de la microbiota**: Un exceso en la higiene íntima, como el uso excesivo de jabones o duchas vaginales, puede alterar la flora vaginal natural, aumentando el riesgo de infecciones. Lo afirma -en su página web- la Organización Mundial de la Salud.
-* **Incomodidad por rituales excesivos**: Algunas personas pueden sentir que ducharse antes del sexo se convierte en un ritual tedioso, lo que podría restar espontaneidad a la relación.
+Chelsea goleó al FC Astana en la Conference League
+==================================================
 
-Las Sociedades Anónimas Deportivas con luz verde en Ecuador
-===========================================================
+Chelsea visitó al FC Astana en el estadio Central de Pavlodar, en Kazajistán. Los 'Blues' siguen firmes en el torneo.
+---------------------------------------------------------------------------------------------------------------------
 
-En Ecuador aun no existen las Sociedades Anónimas Deportivas ligadas al fútbol profesional.
--------------------------------------------------------------------------------------------
+![Chelsea visitó al Astana en Kazajistán por la Conference League.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-50.jpg)
 
-![Imagen referencial de la previa de un partido de la Liga Pro en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/sad_1.jpg)
+El **Chelsea** continúa su marcha imparable en la **UEFA** **Conference League** tras golear 3-1 al **FC Astana** en un emocionante encuentro disputado el 12 de diciembre de 2024.
 
-Desde el martes **10 de diciembre de 2024 se publicó en el Registro Oficial** el decreto de la Ley Orgánica para la Mejora Recaudatoria a través del Combate al Lavado de Activos, más conocido como la ‘Ley Antipillos’.
-
-La referida ley tiene injerencia directa en el deporte ecuatoriano, y en particular en el fútbol, el deporte de **mayor acogida popular y el que más ingresos genera anualmente** por concepto de auspiciantes y derechos de televisión, entre otros.
+Los **‘Blues’** demostraron su calidad y dominio en el juego, aunque en el segundo tiempo el elenco local se mostró más fuerte.
 
 ### Más noticias:
 
-* [Dragonas IDV despidió a Nayely Bolaños con emotivo video](https://www.elcomercio.com/deportes/futbol/nayely-bolanos-pumas-debut-brasil.html "Dragonas IDV despidió a Nayely Bolaños con emotivo video")
-* [La millonaria cifra que el Mundial FIFA aportará a un país anfitrión](https://www.elcomercio.com/deportes/futbol/millonaria-cifra-mundial-2026-pais-anfitrion-fifa.html "La millonaria cifra que el Mundial FIFA aportará a un país anfitrión")
-* [FIFA confirma a Arabia Saudí como sede del Mundial 2034](https://www.elcomercio.com/deportes/futbol/sede-mundial-2034-fifa-arabia-saudi.html "FIFA confirma a Arabia Saudí como sede del Mundial 2034")
+* [Felipe Caicedo se enojó con la dirigencia de Barcelona SC](https://www.elcomercio.com/deportes/futbol/felipe-caicedo-se-enojo-con-la-dirigencia-de-barcelona-sc.html "Felipe Caicedo se enojó con la dirigencia de Barcelona SC")
+* [¿Matías Oyola reemplazará a Segundo Alejandro Castillo en Barcelona SC?](https://www.elcomercio.com/deportes/futbol/matias-oyola-reemplazara-a-segundo-alejandro-castillo-en-barcelona-sc.html "¿Matías Oyola reemplazará a Segundo Alejandro Castillo en Barcelona SC?")
+* [Calendario de ecuatorianos en Conference y Europa League](https://www.elcomercio.com/deportes/futbol/calendario-de-ecuatorianos-en-conference-y-europa-league.html "Calendario de ecuatorianos en Conference y Europa League")
 
-¿Qué son las SAD?
------------------
+Chelsea
+-------
 
-A pesar que esta ley no es reconocida por parte de la Asamblea Nacional, el **Gobierno central hizo caso omiso a esta postura** y ordenó que el cuerpo legal ya está en vigencia y sea parte de la normativa que rige a los ecuatorianos.
+Desde el inicio, el **Chelsea** mostró su intención de llevarse los tres puntos. **Marc Guiu** abrió el marcador a los 14 minutos, seguido por un autogol de **Aleksandr Marochkin** que amplió la ventaja a 2-0 a los 18 minutos.
 
-En esencia, las Sociedades Anónimas Deportivas (SAD) son entidades conformadas por individuos que comparten intereses similares. Y su **propósito es participar en competiciones deportivas de carácter profesional**, con el añadido de que buscan generar beneficios económicos.
+**Renato Veiga** selló la primera mitad con un tercer gol a los 39 minutos, dejando al **Astana** con pocas opciones antes del descanso.
 
-Este modelo de gestión difiere del que se utiliza en la mayoría de los clubes de fútbol profesional a nivel global.
+Sin embargo, **Marin Tomasov** descontó para el equipo local justo antes del medio tiempo, poniendo el marcador 3-1.
 
-En Ecuador, **según lo estipulado en la actual Ley del Deporte**, todos los clubes profesionales están organizados como sociedades civiles sin fines de lucro. Estas instituciones son propiedad de sus socios en su totalidad.
+A pesar de la victoria, el **Chelsea** no contó con la presencia del ecuatoriano **Moisés Caicedo**, quien fue dejado fuera de la convocatoria por el entrenador **Enzo Maresca.**
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-3-1024x683.jpg)
+El estratega decidió reservar al talentoso mediocampista para los compromisos de la **Premier League**, donde ha sido una pieza clave para el equipo **londinense.**
 
-¿Qué dice la Ley sobre las SAD?
--------------------------------
+Caicedo ha tenido un rendimiento sobresaliente esta temporada, destacándose en su último partido contra el **Tottenham,** donde fue fundamental para la victoria por 4-3.
 
-La ‘Ley Antipillos’ menciona en su sexta disposición transitoria que se tiene que reformar la **Ley del Deporte, Educación Física y Recreación** en su artículo 15, donde establece que las SAD, además de ser entidades de derecho privado, podrán perseguir los fines que establezcan en sus estatutos y en la Ley de Compañías.
+Su versatilidad le permitió adaptarse a diferentes posiciones en el campo, lo que ha llamado la atención de los analistas deportivos y de la **Premier League.**
 
-“En ningún caso estas estructuras servirán para facilitar el lavado de activos”, mencionan.
+Con esta victoria, **Chelsea** se mantiene invicto en la **Conference League** y se posiciona firmemente como uno de los favoritos para avanzar a las etapas finales del torneo. Los **‘Blues’** están primeros en el torneo
 
-El artículo 16.4 se refiere específicamente a los clubes o equipos profesionales. Indican “(…) **que los clubes deportivos o equipos que participen** en deportes profesionales para adoptar la forma jurídica de” una SAD, que estarán sujetas al régimen general de las sociedades mercantiles, la ley en cuestión y su reglamento.
+La infusión de frutas ecuatorianas para enfermedades respiratorias 
+===================================================================
 
-Dejan claro que esta prohibida “la participación societaria, accionaria y administrativa de una persona natural o jurídica en más de una” SAD que estén en un mismo deporte, directa o indirectamente, o a través de un tercero.
+Las infusiones de frutas son un recurso natural para tratar algunas enfermedades.
+---------------------------------------------------------------------------------
 
-Agregan que una SAD podrá ser “titular federativo de mas de un club”, pero se debe hacer la diferenciación que no tienen que militar “en el mismo deporte, categoría y serie”, es decir, algo **similar a lo que pasa con las filiales de los equipos de la A y B** que no pueden competir en el mismo torneo, tal como se aplica en la Liga Pro.
+![Las infusiones de frutas, comunes en Ecuador, alivian síntomas respiratorios. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/infusiones-fruta-Ecuador.jpg)
 
-En el siguiente artículo se refieren a la liga profesional. Dictaminan que en toda “**competición oficial de deportes colectivos profesionales**, existirá una liga profesional por deporte”, que se encargará de toda la organización de su “respectiva disciplina”.
-
-Explican que la liga profesional debe tener “personería jurídica propia, autonomía técnica, administrativa y financiera (…) y se **[constituirá con al menos cinco Sociedades Anónimas Deportivas](http://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiMDBmOWM3MWEtZTgwNS00MzU1LTg1NzAtYzBiMmRkMDY1ZGRmLnBkZiJ9)**“.
-
-En **un plazo máximo de 90 días** desde su entrada en vigor, la Superintendencia de Compañías debe emitir la normativa secundaria para que los clubes deportivos, equipos u otras sociedades civiles sin fines de lucro que participen en el deporte profesional adopten la forma jurídica de las SAD.
-
-San viernes
------------
-
-Liga de Quito va por el tercer bicampeonato de su historia
-==========================================================
-
-Liga de Quito se enfrentará a Independiente del Valle en la final de la Liga Pro y podría coronarse bicampeón por segunda vez.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Eduardo 'Tanque' Hurtado celebra uno de los goles de Liga de Quito en su último bicampeonato.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-11T185103.169.jpg)
-
-**Liga de Quito** está a puertas de consagrarse campeón de la Liga Pro ante Independiente del Valle y sumar su segundo bicampeonato en la historia. Las únicas veces en las cuales el club se había hecho con el título por dos años consecutivos fueron en las campañas de **1974 y 1975 y 1998 y 1999**.
-
-Este sábado 14 de diciembre del 2024 a las 15:30, los albos se enfrentarán a los rayados en la final de vuelta del torneo nacional en el **Estadio de Independiente del Valle**. Para el compromiso, la escuadra azucena parte con una ventaja de 3-0 tras imponerse en la ida en el Rodrigo Paz Delgado.
-
-### Más noticias:
-
-* [Liga de Quito perdió un partido por más de tres goles en el 2024](https://www.elcomercio.com/deportes/futbol/liga-quito-resultados-visitante-ligapro.html "Liga de Quito perdió un partido por más de tres goles en el 2024")
-* [El divertido video del título de Liga de Quito de la Libertadores](https://www.elcomercio.com/deportes/futbol/liga-quito-video-animado-libertadores.html "El divertido video del título de Liga de Quito de la Libertadores")
-* [Independiente del Valle no le gana a Liga de Quito en 30 meses](https://www.elcomercio.com/deportes/liga-independiente-invicto-final-30-meses.html "Independiente del Valle no le gana a Liga de Quito en 30 meses")
-
-La ventaja sacada en el partido de ida por **Liga de Quito** obliga a que los rayados le saquen una diferencia de tres goles para forzar la definición desde la tanda de penales. Para coronarse campeones directos, los de **Sangolquí** deben quedar por cuatro goles arriba en el marcador.
-
-De hacerse con título, este sería el número 13 de los albos dentro de campeonatos nacionales, de manera que igualarían a **El Nacional** como el tercero con más cantidad de tales preseas en Ecuador. Asimismo, repetirían un bicampeonato por primera vez en 26 años.
-
-El primer bicampeonato de Liga de Quito se remonta a la década de 1970
-----------------------------------------------------------------------
-
-![Plantilla de Liga de Quito que ganó el bicampeonato en 1975.](https://www.elcomercio.com/wp-content/uploads/2024/12/ldu-75-1024x513.jpg)
-
-QUITO, ECUADOR. Plantilla de Liga de Quito que ganó el bicampeonato en 1975. Foto: Archivo / EL COMERCIO
-
-El nuevo bicampeonato que puede ganar **Liga de Quito**, sin embargo, no es el primero. En el siglo XX, los albos consiguieron el primero en la década de 1970. Tras coronarse campeones nacionales en 1974, al año siguiente repitieron la hazaña.
-
-Durante la temporada de 1974, el sistema de juego del torneo nacional contó con uno similar al de la **Liga Pro** en este 2024, pero contó con ocho clubes. Tras dos rondas en modalidad de todos contra todos a ida y vuelta, el equipo con mayor puntaje en la **tabla acumulada** iba directo a la final, mientras que los ganadores de la primera y la segunda etapa se enfrentaban entre sí en una semifinal.
-
-**Deportivo Cuenca** fue el ganador de la primera etapa y **El Nacional** de la segunda. Dado que los puros criollos fueron los mejores en el año y llegaron directo a la final, el cupo restante a la ronda previa se le dio a **Liga de Quito**, escolta de los rojos en la fase dos.
-
-En semifinales, los albos se impusieron al **Deportivo Cuenca** y en la final lo hicieron ante **El Nacional**. Así, Liga obtuvo el título y lo hizo tras haber ascendido desde la Serie B a mediados de año.
-
-Para **1975**, el torneo aumentó su cantidad de equipos a 12 para la primera etapa, aunque dos descendieron a mitad de temporada y la segunda se jugó con 10. Los tres mejores de la primera y los dos mejores de la segunda clasificaron a una liguilla de cinco equipos donde los albos se alzaron con la Copa.
-
-El bicampeonato de 1998 y 1999, el último de Liga de Quito
-----------------------------------------------------------
-
-Liga de Quito volvió a un bicampeonato después de 23 años del primero. Los títulos consecutivos se le volvieron a dar en **1998 y 1999.**
-
-En 1998, el campeonato nacional contó con 12 clubes. Estos jugaron cuatro etapas, tres de ellas con liguillas de donde salieron los finalistas. El partido de definición por el título fue entre **Liga de Quito y Emelec**. En la ida en Guayaquil, los azules se impusieron por 1-0, pero en Casa Blanca, los albos golearon 7-0.
-
-Durante 1999, el torneo volvió a contar con **doce clubes**. Este tuvo una ronda en la que se enfrentaron todos contra todos a ida y vuelta. Los cuatro mejores clasificaban directamente a una liguilla final y los dos restantes se definían en una segunda etapa conformada por dos grupos de seis equipos cada uno.
-
-En la liguilla final, conformada por los seis clasificados, los que finalizasen en las dos mejores posiciones se disputarían el título. Allí, **Liga de Quito y El Nacional** volvieron a enfrentarse y los albos ganaron el torneo.
-
-Militar va a juicio por su presunta extralimitación durante un control de seguridad en Quevedo
-==============================================================================================
-
-Un militar fue llamado a juicio por su presunta responsabilidad en el delito de extralimitación en la ejecución de un acto de servicio.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![El hecho ocurrió durante un control militar en Quevedo](https://www.elcomercio.com/wp-content/uploads/2024/12/juicio-militar-quevedo.jpg)
-
-Un Juez de **Quevedo** decidió llamar a **juicio** a un subteniente del Ejército ecuatoriano por su presunta responsabilidad en el delito de **extralimitación en la ejecución de un acto de servicio**.
+Las **infusiones de frutas** se han convertido en un **recurso valioso** para el tratamiento de **enfermedades respiratorias** en Ecuador. A continuación, las **propiedades curativas** de estas infusiones, su relevancia actual y los aspectos que las hacen únicas. 
 
 ### Más noticias
 
-* [Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro](https://www.elcomercio.com/actualidad/seguridad/ministerio-defensa-despliegue-militares-el-oro.html "Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro")
-* [Policía captura a miembros de Las Águilas, entre ellos el cabecilla](https://www.elcomercio.com/actualidad/seguridad/policia-captura-a-miembros-las-aguilas-entre-ellos-cabecilla.html "Policía captura a miembros de Las Águilas, entre ellos el cabecilla")
-* [Gobierno entregó 1 735 fusiles a la Policía Nacional](https://www.elcomercio.com/actualidad/seguridad/gobierno-entrega-fusiles-policia-nacional.html "Gobierno entregó 1 735 fusiles a la Policía Nacional")
+* [La fruta secreta para un sueño reparador](https://www.elcomercio.com/tendencias/salud/fruta-sueno-insomnio-alimentos.html "https://www.elcomercio.com/tendencias/salud/fruta-sueno-insomnio-alimentos.html") 
+* [Guayaba y canela, infusión con insospechados beneficios para la salud](https://www.elcomercio.com/tendencias/salud/guayaba-canela-infusion-bienestar-salud.html "https://www.elcomercio.com/tendencias/salud/guayaba-canela-infusion-bienestar-salud.html")
 
-Cuando ocurrió el hecho, un **grupo de militares** realizaba un control de seguridad en el sector La Perla, la madrugada del 7 de julio de 2024.
-
-Un **agente de tránsito**, de 22 años, conducía su vehículo particular por el lugar. El ciudadano iba acompañado de tres amigos.
-
-Al percatarse del retén móvil, el agente **intentó evadirlo**. Tras esta acción, uno de los militares **disparó contra el vehículo** con su arma de dotación[.](https://www.fiscalia.gob.ec/militar-es-llamado-a-juicio-por-la-presunta-extralimitacion-en-un-acto-de-servicio-que-resulto-en-la-muerte-de-una-persona/ "https://www.fiscalia.gob.ec/militar-es-llamado-a-juicio-por-la-presunta-extralimitacion-en-un-acto-de-servicio-que-resulto-en-la-muerte-de-una-persona/")
-
-El proyectil atravesó la puerta del automotor e impactó en el abdomen del conductor.
-
-El disparo causó su **muerte inmediata**. El vehículo avanzó unos **500 metros** antes de detenerse.
-
-Militar que disparó fue procesado en flagrancia
+**La importancia de las infusiones de frutas** 
 -----------------------------------------------
 
-El militar responsable fue identificado como Luis J., detenido en el lugar y procesado en **flagrancia**.
+La **salud respiratoria** es un tema importante en Ecuador. Afecciones como **el resfriado, la gripe y el asma** son comunes. En este contexto, las **infusiones de frutas**, fáciles de encontrar en el país, ofrecen una **alternativa natural** que puede **complementar los tratamientos** convencionales. Estas bebidas no solo **alivian síntomas**, sino que también **mejoran la calidad de vida** de quienes sufren estas condiciones. Según un estudio, el 61,1% de las personas utilizan plantas medicinales para curar afecciones respiratorias y un 21,2% como medio preventivo, de acuerdo con un estudio en [Journal of Science and Research](https://dialnet.unirioja.es/servlet/articulo?codigo=8106378 "https://dialnet.unirioja.es/servlet/articulo?codigo=8106378"). 
 
-El oficial recibió **medidas cautelares alternativas** a la prisión mientras se desarrollaba la instrucción fiscal.
-
-Este miércoles 11 de diciembre, durante la audiencia de evaluación y preparatoria de juicio, el Fiscal del caso presentó **varios elementos de convicción**, entre ellos:
-
-* Protocolo de autopsia
-* Informe de reconocimiento de evidencias
-* Acta del levantamiento del cadáver
-* Informe de reconstrucción de los hechos
-* Pericia de trayectoria balística
-* Informe de microscopía de las manos del procesado
-* Informe de audio y video
-* Secuencia de los hechos
-
-Con base en estas pruebas, el Juez resolvió **llamar a juicio al militar** y ratificó las medidas cautelares en su contra.
-
-Por este delito, el oficial de las Fuerzas Armadas podría enfrentar una pena de **siete a 10 años** de prisión.
-
-El estadio de Independiente del Valle recibió dos finales
-=========================================================
-
-Independiente del Valle construyó su estadio dentro del Complejo donde entrenan todas sus categorías.
------------------------------------------------------------------------------------------------------
-
-![Vista del estadio de Independiente del Valle desde el terreno de juego.](https://www.elcomercio.com/wp-content/uploads/2024/12/finales_estadio_1.jpg)
-
-El sábado 20 de marzo de 2021 se jugó el primer **partido oficial en el estadio de Independiente del Valle**, ubicado en la zona de Chillo-Jijón, al suroriente de Quito, la capital de Ecuador.
-
-Esa tarde, **Independiente del Valle derrotó a Delfín por 2-0** en la quinta fecha de la primera etapa de la Liga Pro. El argentino Lorenzo Faravelli (7′) y el paraguayo Brian Montenegro (88′) inauguraron el marcador en el nuevo estadio.
-
-### Más noticias:
-
-* [Cristiano Ronaldo celebró el Mundial 2030 en Portugal](https://www.elcomercio.com/deportes/futbol/mundial-cristiano-ronaldo-2030-portugal.html "Cristiano Ronaldo celebró el Mundial 2030 en Portugal")
-* [Dos ecuatorianos eliminaron a Botafogo de la Intercontinental](https://www.elcomercio.com/deportes/futbol/dos-ecuatorianos-eliminaron-botafogo-de-la-intercontinental.html "Dos ecuatorianos eliminaron a Botafogo de la Intercontinental")
-* [Seis datos claves para entender el Mundial FIFA 2030](https://www.elcomercio.com/deportes/futbol/datos-claves-mundial-fifa-2030-2034.html "Seis datos claves para entender el Mundial FIFA 2030")
-
-Independiente estrena su estadio
---------------------------------
-
-El encuentro ante Delfín marcó el inicio del recorrido en torneos nacionales y también compromisos internacionales con la Selección de Ecuador como protagonista de esta historia.
-
-El lunes 29 de marzo se llevó a cabo un encuentro amistoso contra Bolivia. Los tricolores ganaron 2-1 **gracias a las anotaciones de Fidel Martínez (37′) y Michael Estrada (59′)**. La visita descontó por intermedio de Rodrigo Ramallo (90+4′).
-
-El 14 de julio de ese mismo año, IDV se estrenó en los torneos Conmebol jugando en casa. Los ecuatorianos perdieron por 0-2 la ida de los octavos de final de la Copa Sudamericana.
-
-Fabrício Bruno y Ramires anotaron los tantos de los brasileños.
-
-Todos esos antecedentes pusieron en el **mapa al estadio**. Por tal motivo, no demoró en llegar la primera final de un torneo nacional. Los dos equipos más ganadores del fútbol ecuatoriano disputaron un título.
-
-Final de la Supercopa Ecuador
------------------------------
-
-El 26 de junio de 2021 se jugó la **final de la Supercopa Ecuador. Barcelona SC y Liga de Quito** se citaron en el partido decisivo del torneo que está a cargo de la Federación Ecuatoriana de Fútbol (FEF).
-
-Antes de llegar a la final, la Supercopa arrancó con una fase preliminar. 9 de Octubre derrotó por 2 0 a Emelec, y Delfín sorprendió, derrotó y eliminó a Independiente del Valle con un contundente 5-3.
-
-En las semifinales, BSC le ganó 1-0 a **9 de Octubre con un tanto de Carlos Garcés (70′)**, desde el punto penal.
-
-En la otra semifinal, **LDU le ganó 4-2 a Delfín con dobletes del ecuatoriano Billy Arce** y del paraguayo Luis Amarilla. Los mantenses descontaron por intermedio de Robert Burbano y el argentino Oscar Piris.
-
-La final se definió en favor de los **albos por 1-0 con un autogol de Bryan Caicedo** a los cuatro minutos del primer tiempo.
-
-Ese tanto fue suficiente para sumar el segundo título de la Supercopa Ecuador para Liga de Quito y ser el primer equipo en dar una vuelta olímpica en la cancha de los del Valle.
-
-> SUPER BICAMPEONES ⚪️🔴🏆[#OrgulloYPasion](https://twitter.com/hashtag/OrgulloYPasion?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/wNN03roEAr](https://t.co/wNN03roEAr)
-> 
-> — LDU Oficial (@LDU\_Oficial) [June 26, 2021](https://twitter.com/LDU_Oficial/status/1408908557823664137?ref_src=twsrc%5Etfw)
-
-Final de la Liga Pro
+**Contexto actual** 
 --------------------
 
-El 2021 se cerró para Independiente del Valle y su estadio con su primera final de la Liga Pro.
+Con el aumento de **enfermedades respiratorias post-pandemia**, muchas personas buscan **soluciones naturales** para **fortalecer su sistema inmunológico**. Las infusiones han ganado popularidad como **remedios caseros eficaces**. Este interés se debe a la búsqueda de **alternativas más saludables y accesibles**. La medicina tradicional ecuatoriana se ha visto revitalizada por esta tendencia, al destacar la importancia cultural y medicinal de las infusiones. 
 
-El domingo **5 de diciembre recibieron a Emelec en la final de ida.** El partido tenía que arrancar a las 19:00, pero las intensas lluvias que cayeron en la zona abnegaron el terreno de juego y retrasaron el inicio para las 20:00.
+**Propiedades curativas** 
+--------------------------
 
-En lo estrictamente deportivo, IDV fue superior a Emelec y le ganó por 3-1 con goles de Junior Sornoza (2) y Jonatan Bauman. El **‘Bombillo’ descontó a los 90+9′ con un lanzamiento penal** del uruguayo Sebastián Rodríguez.
+Las **infusiones de frutas** combinan **propiedades antioxidantes y antiinflamatorias**, esenciales para **aliviar síntomas respiratorios**. Por ejemplo, **el eucalipto** (Eucalyptus globulus) es conocido por sus **efectos expectorantes y antitusivos**. Este se utiliza comúnmente en infusiones para **tratar tos y congestión**, según la misma fuente.  
 
-Una semana más tarde el escenario se volvió a repetir. La lluvia hizo estragos en el césped del George Capwell y se tuvo que retrasar el inicio del partido hasta que se desalojó la gran cantidad de agua acumulada.
+Además, el **jengibre** es otro ingrediente destacado por sus **propiedades broncodilatadoras**, que ayudan a mejorar la respiración, de acuerdo con [20 Minutos](https://www.20minutos.es/salud/nutricion/los-alimentos-que-actuan-como-broncodilatadores-naturales-para-aliviar-los-sintomas-los-virus-respiratorios-4366888/ "https://www.20minutos.es/salud/nutricion/los-alimentos-que-actuan-como-broncodilatadores-naturales-para-aliviar-los-sintomas-los-virus-respiratorios-4366888/").  
 
-El **primer título de los capitalinos** se concretó tras el 1-1 en el marcador.
+Asimismo, **frutas muy populares en el país**, como la **guayaba**, potenciada con canela según [El Tiempo de Colombia](https://www.eltiempo.com/cultura/gente/el-poder-del-agua-de-guayaba-con-canela-para-que-sirve-esta-tradicional-infusion-y-su-efecto-en-la-salud-3402780#:~:text=Previene%20enfermedades%20respiratorias%3A%20esta%20bebida,que%20causan%20los%20radicales%20libres. "https://www.eltiempo.com/cultura/gente/el-poder-del-agua-de-guayaba-con-canela-para-que-sirve-esta-tradicional-infusion-y-su-efecto-en-la-salud-3402780#:~:text=Previene%20enfermedades%20respiratorias%3A%20esta%20bebida,que%20causan%20los%20radicales%20libres."), debido a su alta **cantidad de vitamina C**, es un gran aliado para **aumentar el sistema inmunológico** y prevenir enfermedades como la gripe. 
 
-La tercera final se jugará el sábado 14 de diciembre, desde las 15:30. Liga tiene la ventaja de 3-0 en el marcador.
+**Preparación de infusiones** 
+------------------------------
 
-![X Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_estadio_2-1024x683.jpg)
+La preparación de estas infusiones es sencilla y económica. Un ejemplo común es la **infusión de eucalipto y jengibre**: 
 
-X Liga Pro.
+* Hervir un vaso de agua. 
 
-Finales en Chillo-Jijón
------------------------
+* Añadir 3 gramos de jengibre rallado y 4 hojas de eucalipto. 
 
-**2021 – Supercopa Ecuador  
-**Liga de Quito 1-0 Barcelona SC
+* Cocinar durante 20 minutos. 
 
-**2021 – Ida Liga Pro  
-**Independiente del Valle 3-1 Emelec
+* Agregar una cucharada de miel y una cucharada de jugo de limón antes de servir. 
 
-**2023 – Vuelta Liga Pro  
-**Independiente del Valle – Liga de Quito
+Este tipo de preparaciones no solo son fáciles, sino que también permiten que más personas se beneficien de sus propiedades curativas. 
 
-San viernes
------------
-
-Inamhi pronostica cinco días de lluvias en Ecuador ¿Cuáles serán las zonas más afectadas?
-=========================================================================================
-
-Las lluvias pronosticadas por el Inamhi serán de niveles medio y alto en varias zonas de Ecuador.
--------------------------------------------------------------------------------------------------
-
-![Las lluvias en Ecuador se incrementarán en los próximos días, según el Inamhi.](https://www.elcomercio.com/wp-content/uploads/2024/12/lluvias-ecuador.jpg)
-
-El **Instituto Nacional de Metereología e Hidrología (Inamhi)** pronosticó **cinco días de lluvias** de variada intensidad en **Ecuador**, este miércoles 11 de diciembre de 2024.
-
-Las precipitaciones serán continuas **entre las 13:00 del 12 diciembre y las 10:00 del 16 de diciembre**, en diferentes zonas del país.
-
-### Más noticias:
-
-* [Lluvias en Cuenca, ¿bastan para salir de la sequía más prolongada en 51 años?](https://www.elcomercio.com/actualidad/ecuador/cuenca-salir-sequia-prolongada-51-anos.html "Lluvias en Cuenca, ¿bastan para salir de la sequía más prolongada en 51 años?")
-* [Luego de dos días de sol, las lluvias pueden volver a Quito](https://www.elcomercio.com/actualidad/quito/lluvias-quito-diciembre.html "Luego de dos días de sol, las lluvias pueden volver a Quito")
-
-Zonas con mayor impacto de las lluvias en Ecuador entre el 12 y el 16 de diciembre
-----------------------------------------------------------------------------------
-
-Este miércoles 11 de diciembre, el Inamhi emitió una advertencia metereológica, con **lluvias de niveles medio y alto**, en Ecuador.
-
-Entre el 12 y 16 de diciembre se presentarán lluvias de variable intensidad con **tormentas y ráfagas de viento** en gran parte del país.
-
-El mayor énfasis de estas lluvias estará en **zonas de cordillera**.
-
-Los días con **mayor intensidad** y distribución de lluvias serán el **viernes 13 y sábado 14.**
-
-El Inamhi no descarta “**eventos puntuales muy fuertes**“.
-
-Tampoco la probabilidad de que estas condiciones se repitan la **próxima semana.**
-
-Estas serán las **zonas más afectadas**:
-
-* **Región Litoral**: Mayor relevancia **12 y 13 de diciembre** en la zona norte e interior la región (**Esmeraldas, Santo Domingo y Los Ríos**).
-* **Región Interandina**: Mayor intensidad en **Carchi, Imbabura, Pichincha, Cotopaxi y Bolívar** (zonas de cordillera).
-* **Región Amazónica**: Mayor intensidad en las estribaciones de la cordillera oriental (**Zamora, Morona Santiago, Napo y Sucumbíos**).
-
-> [#AdvertenciaMeteorológicaEc](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gicaEc?src=hash&ref_src=twsrc%5Etfw) N.67 / ⚠️Entre el 12 y 16 de diciembre se presentarán lluvias de variable intensidad con tormentas y ráfagas de viento en gran parte del país. Los días con mayor intensidad serán el 13 y 14 (no se descartan eventos puntuales Muy Fuertes) 🌦️🌧️ [pic.twitter.com/8Jvr27ajCR](https://t.co/8Jvr27ajCR)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [December 11, 2024](https://twitter.com/inamhi_ec/status/1866945953808450003?ref_src=twsrc%5Etfw)
-
-Este escenario responde, entre otros factores, al **aumento de humedad** y contenido de agua precipitable en el ambiente.
-
-Esto, producto del ingreso de masas de aire húmedas desde la **Zona de Convergencia Intertropical (ZCIT)** y de la cuenca Amazónica.
-
-Sumado a procesos de convergencia y divergencia de **vientos**.
-
-Advertencias y recomendaciones por las lluvias en Ecuador
----------------------------------------------------------
-
-La **Secretaría Nacional de Gestión de Riesgos (SNGR)** indicó que es probable que se produzca acumulación de agua en hogares, negocios y caminos susceptibles.
-
-Las condiciones de las vías podrían verse afectadas por **agua estancada, deslizamientos de tierra y bancos de niebla**.
-
-Podrían existir **desbordamientos** de cuerpos de agua en aquellas localidades con mayor saturación e intensidad de lluvias, como zonas de estribación de cordillera.
-
-Además, **descargas eléctricas** y ráfagas de viento fuerte al presentarse tormentas.
-
-La SNGR señaló que, si las autoridades lo indican, se debe **evacuar** lo antes posible.
-
-Además, recomendó a la ciudadanía prestar atención a las indicaciones de las autoridades a través de las **fuentes oficiales**.
-
-La alerta es para varias zonas de **Ecuador**.
-
-Independiente ganó la Sudamericana 2019 antes de jugarla
-========================================================
-
-Independiente del Valle ganó la Copa Sudamericana en 2019 y lo repitió en 2022.
--------------------------------------------------------------------------------
-
-![Jugadores de Independiente del Valle con el trofeo de la Copa Sudamericana 2019.](https://www.elcomercio.com/wp-content/uploads/2024/12/lavallen_idv_1.jpg)
-
-**Independiente del Valle** ganó su primera Copa Sudamericana en 2019. Lo hizo sin haber ganado un solo título nacional y con el antecedente que en el 2016 estuvo a punto de consagrarse ganador de la Copa Libertadores.
-
-Luego de ganar la Copa Sudamericana, **Independiente del Valle sumó su segundo trofeo** de la competencia en el 2022, y la Recopa Sudamericana en 2023, demostrando que su estreno internacional no fue fruto de la causalidad, sino de un proyecto bien sustentando.
-
-### Más noticias:
-
-* [Argentina, Uruguay y Paraguay son sedes del Mundial 2030](https://www.elcomercio.com/deportes/futbol/argentina-uruguay-y-paraguay-son-sedes-del-mundial-2030.html "Argentina, Uruguay y Paraguay son sedes del Mundial 2030")
-* [Independiente apela a la mística para remontar a Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-apela-a-la-mistica-para-remontar-a-liga-de-quito.html "Independiente apela a la mística para remontar a Liga de Quito")
-* [Independiente del Valle no le gana a Liga de Quito en 30 meses](https://www.elcomercio.com/deportes/liga-independiente-invicto-final-30-meses.html "Independiente del Valle no le gana a Liga de Quito en 30 meses")
-
-Independiente y su primera estrella
------------------------------------
-
-El primer buen recuerdo de Independiente del Valle en un torneo continental se **registró en la final de la Sudamericana** jugada en Asunción, Paraguay, el 9 de noviembre, ante más de 46 mil espectadores, en su gran mayoría de Colón de Santa Fe.
-
-El compromiso tuvo que ser suspendido por alrededor de una hora por la intensa lluvia que cayó sobre el terreno de juego, que quedó totalmente inundado y no permitió el normal desarrollo del juego.
-
-Superados estos inconvenientes, Independiente se impuso por 3-1 con tantos de **Luis Fernando León (27′), Jhon Sánchez (42′) y Cristian Dájome (96′)**.
-
-El descuento para los argentinos lo marcó Emmanuel Olivera (88′). Solo sirvió para adornar el marcador final.
-
-En el recuerdo queda el show en la previa con la inolvidable participación de la agrupación ‘Los Palmeras’ que emocionaron a los hinchas argentinos, **pero que fue el preámbulo de la fiesta que sería total** para el puñado de ecuatorianos presentes en la capital paraguaya.
-
-> 💪🇪🇨 ¡Hace un año, [@IDV\_EC](https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw) hacía historia!  
->   
-> 🔙 Un día como hoy, se consagró campeón de la [#Sudamericana](https://twitter.com/hashtag/Sudamericana?src=hash&ref_src=twsrc%5Etfw) 2019 al vencer 3-1 a [#Colón](https://twitter.com/hashtag/Col%C3%B3n?src=hash&ref_src=twsrc%5Etfw) y conquistó su primer título internacional.  
->   
-> 🏆 [#LaGranConquista](https://twitter.com/hashtag/LaGranConquista?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/jbj2iS9v90](https://t.co/jbj2iS9v90)
-> 
-> — CONMEBOL Sudamericana (@Sudamericana) [November 9, 2020](https://twitter.com/Sudamericana/status/1325664412301078528?ref_src=twsrc%5Etfw)
-
-Pablo Lavallén explicó la derrota
+**Frutas comunes en infusiones** 
 ---------------------------------
 
-Pablo Lavallén tomó las riendas de Colón de Santa Fe el 7 de marzo de 2019. Fue el responsable de una histórica campaña para el modesto equipo del interior de Argentina.
+En Ecuador, varias frutas se utilizan en infusiones para tratar **problemas respiratorios**. Algunas de las más efectivas, siguiendo con 20 Minutos, incluyen: 
 
-En el camino a la final eliminó a River Plate de Uruguay, Deportivo Zulia de Venezuela, **Deportivo Municipal de Perú, Argentinos Juniors** de Argentina y Atlético Mineiro de Brasil.
+* **Eucalipto:** Utilizado por su capacidad para aliviar la tos y la congestión. 
 
-Este miércoles 11 de diciembre de 2024, el sitio ‘Ataque Futbolero’ se hizo eco de una entrevista de Lavallén con el programa que se denomina ‘Te Dejo En Orsai’.
+* **Jengibre:** Conocido por sus propiedades antiinflamatorias. 
 
-En un momento de la charla recordó lo vivido en la final con IDV y enumeró tres sucesos que inclinaron la balanza en favor de los del Valle.
+* **Limón:** Ayuda a eliminar la mucosidad acumulada en los bronquios. 
 
-“Me acuerdo de todo. Una lástima porque estaba dado todo para la épica, **pero habían señales que todo venía cruzado**“, dijo el entrenador que también dirigió en Honduras, Perú y Bolivia.
+**Evidencia científica** 
+-------------------------
 
-El primer hecho tiene que ver con la **lesión de Rodrigo Aliendo**. La molestia física se registró en la práctica previa en la que el delantero se quedó fuera del partido por un desgarro.
+**Diversos estudios**, como los que constan en la [Biblioteca Nacional de Salud y Seguridad Social de Costa Rica](https://www.binasss.sa.cr/revistas/farmacos/v15n2/art7.htm "https://www.binasss.sa.cr/revistas/farmacos/v15n2/art7.htm"), respaldan el uso de infusiones como **tratamientos complementarios** para enfermedades respiratorias. Investigaciones han demostrado que el consumo regular de **hierbas medicinales** puede aliviar síntomas como tos y congestión nasal. 
 
-“Ya ese fue el primer paso en falso”, recordó.
+Las **infusiones de frutas** representan una **opción natural efectiva** para aliviar síntomas asociados a **enfermedades respiratorias**. Su preparación accesible y sus **propiedades curativas** hacen que sean una alternativa valiosa frente a los **tratamientos convencionales**. Fomentar su uso puede ayudar a **mejorar la salud pública** y promover la **medicina tradicional ecuatoriana** como complemento a los tratamientos modernos. 
 
-El segundo **suceso involucra a Luis Miguel Rodríguez**, la figura del plantel en esa temporada. El ‘Pulga’ tuvo que ser infiltrado a minutos de saltar a la cancha por un esguince en uno de sus tobillos.
+Benny Blanco no es el verdadero nombre del futuro esposo de Selena Gomez
+========================================================================
 
-“Entro al vestuario y miro al ‘Pulga’ tirado en la camilla con una aguja en el tobillo. Le pregunto, ¿Qué pasó? Me dijo que se dobló el tobillo en una alfombra que había en la entrada”.
+Además, tiene una inesperada afición que inició en el pasado.
+-------------------------------------------------------------
 
-Pese a la advertencia del cuerpo médico de la indisposición del delantero para jugar, lo mando a la cancha, lo mantuvo los 90 minutos y falló un penal ante Jorge Pinos.
+![Benny Blanco y su prometida, Selena Gomez.](https://www.elcomercio.com/wp-content/uploads/2024/12/selena-El-Comercio-1.jpg)
 
-“Cuando nosotros s**alimos a la cancha se larga una tormenta**. En cancha yo nunca vi nada igual”, indicó sobre el tercer acontecimiento que confabuló para que se queden con las manos vacías y no puedan dar la vuelta olímpica ante los miles de hinchas que viajaron a observar el juego.
+**Selena Gomez** ha sorprendido a sus seguidores al anunciar su **compromiso** con **Benny Blanco**, el aclamado productor musical detrás de numerosos éxitos del pop contemporáneo.
 
-> 🎬 [@tedejoenorsai](https://twitter.com/tedejoenorsai?ref_src=twsrc%5Etfw). [pic.twitter.com/VQ1TNjXAgu](https://t.co/VQ1TNjXAgu)
+La pareja, que inició su relación hace un año, es una de las favoritas en la industria del entretenimiento. Los fans saben mucho de Selena, pero tal vez no conocen estos datos de su futuro esposo.
+
+### Más noticias:
+
+* **[La cifra que pagó Benny Blanco por el anillo de diamante de Selena Gomez](https://www.elcomercio.com/afull/anillo-selena-gomez-compromiso.html "https://www.elcomercio.com/afull/anillo-selena-gomez-compromiso.html")**
+* **[Selena Gomez anunció su compromiso en sus redes sociales](https://www.elcomercio.com/tendencias/entretenimiento/selena-gomez-anuncio-compromiso-redes-sociales-benny-blanco.html "https://www.elcomercio.com/tendencias/entretenimiento/selena-gomez-anuncio-compromiso-redes-sociales-benny-blanco.html")**
+
+Benny Blanco no es su verdadero nombre. El prometido de Selena fue bautizado como **Benjamin Joseph Levin**. Nació en Virginia, Estados Unidos, en 1988.
+
+Encontró su nombre artístico en un momento de autodescubrimiento. Confiesa que en sus inicios intentó convertirse en rapero con nombres como Lil’ B y Short Stuff , pero nada le funcionaba.
+
+Durante una sesión de estudio, reflexionó sobre su color de piel y su interés por el español, lo que lo llevó a elegir el nombre Blanco. Un amigo lo inspiró al sugerirle Benny Blanco , referencia a la famosa película Carlito’s Way, según [un artículo de Reuters](https://www.reuters.com/article/lifestyle/virginia-native-becomes-an-in-demand-producer-at-22-idUSTRE64E08D/#:~:text=I%20was%20in%20the%20studio,%2C%20like%20in%20'Carlito's%20Way. "https://www.reuters.com/article/lifestyle/virginia-native-becomes-an-in-demand-producer-at-22-idUSTRE64E08D/#:~:text=I%20was%20in%20the%20studio,%2C%20like%20in%20'Carlito's%20Way.") de mayo de 2010.
+
+El productor admite que todos sus otros nombres eran “horribles”, por lo que no tuvo más opción que adoptar ese. Desde entonces, Benny Blanco se ha convertido en uno de los productores más exitosos de la industria musical.
+
+Tiene el cabello rizado, ojos verdes y mide entre 1,70-1,73 cm, mientras que Selena tiene una estatura de 1,65 cm.
+
+Tiene éxito en su carrera
+-------------------------
+
+Es considerado uno de los productores más influyentes de la música pop actual. Su trayectoria comenzó en 2008 con éxitos como “Circus” de Britney Spears y “I Kissed a Girl” de Katy Perry.
+
+Desde entonces, ha trabajado con artistas de renombre como Rihanna, Justin Bieber, Ed Sheeran y Maroon 5,BTS y Snoop Dogg. Ha sido nominado al Grammy.
+
+Es mayor que Selena Gomez
+-------------------------
+
+Benny es cuatro años mayor que su prometida, Selena Gomez, con quien comparte tanto amor como afinidad musical. Juntos, representan una de las parejas más creativas y exitosas del espectáculo.
+
+La relación comenzó en 2019 con su colaboración en el éxito I Can’t Get Enough, donde Blanco no produjo en solitario, sino que también cantó junto a Tainy y J Balvin.
+
+Ama la cocina
+-------------
+
+Además de ser un productor destacado, ha explorado su amor por la cocina con el libro ‘Open Wide: A Cookbook for Friends’.
+
+En este comparte recetas y consejos como anfitrión, y ha protagonizado programas culinarios como Matty y Benny Eat Out America.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/C5jHrvdJsC-/?utm_source=ig_embed&utm_campaign=loading)
 > 
-> — Ataque Futbolero (@AtaqueFutbolero) [December 11, 2024](https://twitter.com/AtaqueFutbolero/status/1866856186546438382?ref_src=twsrc%5Etfw)
+> [Una publicación compartida por benny blanco (@itsbennyblanco)](https://www.instagram.com/reel/C5jHrvdJsC-/?utm_source=ig_embed&utm_campaign=loading)
 
-San viernes
------------
+Dice un artículo del sitio Glamour que tiene dos programas de cocina propios: en “Matty and Benny Eat Out America”, se va de viaje con el chef Matthew Matheson, protagonista de la serie de Disney+ ‘El Oso’. Mientras que en ‘Stupid F\*cking Cooking Show’, los dos preparan platos delante de la cámara.
 
-‘Cien años de soledad’ en Netflix: un árbol genealógico para no perderse entre los Buendía
-==========================================================================================
+Joel Ordóñez, el ecuatoriano que domina el fútbol de Bélgica
+============================================================
 
-Conoce a los principales miembros de esta fascinante dinastía.
---------------------------------------------------------------
+Joel Ordóñez es un joven talento ecuatoriano que está destacando de manera brillante en el fútbol europeo.
+----------------------------------------------------------------------------------------------------------
 
-![Aureliano Buendía en la serie 'Cien años de soledad' de Netflix.](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-8.jpg)
+![Joel Ordóñez es una de las figuras del Club Brujas del fútbol de Bélgica.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-12T115858.266.jpg)
 
-“Muchos años después, frente al pelotón de fusilamiento, el **coronel Aureliano Buendía** había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo”.
+El nombre de **Joel Ordóñez** ha ganado fuerza en esta temporada 2024/2025 gracias a sus sobresalientes actuaciones con el **Club Brujas** de Bélgica. Su rendimiento no solo ha despertado el interés de varios clubes importantes, sino que también ha duplicado su valor de mercado en poco tiempo.
 
-Así comienza ‘Cien años de soledad’, la obra maestra de **Gabriel García Márquez** que da un salto monumental como serie en **Netflix** el 11 de diciembre de 2024.
+El defensor ecuatoriano se ha consolidado como titular en el club belga, debutando en la **Uefa Champions League** y en la **Selección de Ecuador** durante este año, convirtiéndose en uno de los nombres más prometedores de su generación.
 
-Dividida en dos partes, la primera temporada de ocho episodios nos sumerge en el mundo de **Macondo** y su familia fundadora, los **Buendía**.
+### Más noticias:
 
-Si algo caracteriza a esta obra es la complejidad del árbol genealógico de los Buendía. Comprenderlo será esencial para disfrutar al máximo de la serie, pero podría haber espóiler.
+* [Joel Ordóñez sostiene al Brujas en la Champions League](https://www.elcomercio.com/deportes/futbol/joel-ordonez-brujas-sporting-champions.html "Joel Ordóñez sostiene al Brujas en la Champions League")
+* [Joel Ordóñez, la joya ecuatoriana por la que se pelean en la Premier League](https://www.elcomercio.com/deportes/futbol/joel-ordonez-joya-ecuatoriana-pelean-premier-league.html "Joel Ordóñez, la joya ecuatoriana por la que se pelean en la Premier League")
+* [Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions](https://www.elcomercio.com/deportes/futbol/joel-ordonez-brujas-champions-league.html "Con Joel Ordóñez, Brujas sorprende a Aston Villa en Champions")
 
-Primera generación
-------------------
+Joel Ordóñez, el jugador más valioso de Bélgica
+-----------------------------------------------
 
-### **José Arcadio Buendía**
+Según un reciente informe de **Transfermarkt**, plataforma especializada en valorar a futbolistas, Joel Ordóñez ha sido catalogado como uno de los jugadores más valiosos de la **Jupiler Pro League**.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-9-1024x683.jpg)
+A inicios de octubre de 2024, el joven defensa estaba cotizado en **9,4 millones de dólares**, pero su impresionante presente elevó su valor a **19 millones de dólares**, convirtiéndolo en el futbolista mejor valorado del campeonato belga.
 
-Actor Diego Vásquez. Screenshot
+Ordóñez comparte el primer lugar del ranking con su compañero de equipo, el griego **Christos Tzolis**. Además, entre los cinco jugadores más valiosos de la liga, cuatro pertenecen al **Club Brujas**, mientras que el quinto es parte del **Círculo de Brujas**.
 
-Es el patriarca y fundador de Macondo. Su fascinación por la alquimia y los inventos lo lleva a descubrir, crear y perder la razón. En la serie, Marco Antonio González interpreta su versión joven, mientras que Diego Vásquez encarna su caso marcado por la locura.
+> 💥 🇪🇨 El central Joel Ordóñez es el gran protagonista de la actualización de los valores de mercado de la Jupiler Pro League belga.  
+>   
+> ✖️ 2⃣ La promesa ecuatoriana del Brujas dobla su tasación y se convierte en el nuevo MVP del campeonato.  
+>   
+> 👉 [https://t.co/AFPz23iCNg](https://t.co/AFPz23iCNg)[#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/IMQHJoqqAo](https://t.co/IMQHJoqqAo)
+> 
+> — Transfermarkt.es (@TMes\_news) [December 11, 2024](https://twitter.com/TMes_news/status/1866888218857103779?ref_src=twsrc%5Etfw)
 
-### **Úrsula Iguarán**
+La carrera de Joel Ordóñez en Bélgica
+-------------------------------------
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-10-1024x683.jpg)
+Joel Ordóñez llegó al fútbol europeo en 2022, con apenas **18 años**, tras destacar en las divisiones inferiores de **Independiente del Valle**. Fichó por el **Club Brujas** y comenzó su travesía en el equipo filial, compitiendo en la segunda división de Bélgica. Allí disputó **29 partidos** y marcó un gol en su primera temporada.
 
-Es la prima y **esposa de José Arcadio**, y el verdadero pilar de la familia. Úrsula vive 120 años, según la novela, y su sabiduría guía a los Buendía a través de generaciones. En pantalla, Susana Morales interpreta su juventud, y Marleyda Soto, su madurez.
+En la campaña 2023/2024, Ordóñez inició nuevamente en el filial, pero su gran desempeño le permitió ascender al primer equipo, donde se convirtió en pieza clave para que el Brujas conquistara el título liguero.
 
-* [**Este es el pueblo que inspiró a García Márquez para crear Macondo en ‘Cien años de soledad’**](https://www.elcomercio.com/tendencias/macondo-cien-anos-de-soledad.html)
+En la actual temporada 2024/2025, Joel ha jugado **19 partidos**, de los cuales **16 fueron como titular**, distribuidos entre la **liga belga**, la **Uefa Champions League** y la **Croky Cup**. Su solidez defensiva y liderazgo lo han posicionado como uno de los futbolistas más destacados del torneo.
 
-Segunda generación
-------------------
+El rendimiento de Ordóñez no ha pasado desapercibido fuera de Bélgica. Según informes recientes, clubes de la **Premier League**, como el **Aston Villa** y el **Newcastle United**, están interesados en ficharlo. Se espera que ambos equipos presenten ofertas formales durante el mercado de invierno en enero de 2025.
 
-### **Aureliano Buendía**
+Bloque de Seguridad asegura una reducción del 17% de crímenes en Ecuador
+========================================================================
 
-![Aureliano Buendía en la serie 'Cien años de soledad' de Netflix.](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-8-1024x683.jpg)
+Entre el 1 de enero y el 8 de diciembre, se decomisaron 278 toneladas de droga, una cifra que representa 28% más que lo obtenido en 2023.
+-----------------------------------------------------------------------------------------------------------------------------------------
 
-Aureliano Buendía en la serie ‘Cien años de soledad’ de Netflix.
+![El Bloque de Seguridad dio una rueda de prensa desde Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-12T112741.595.jpg)
 
-Es el legendario coronel que lidera 32 guerras civiles y sobrevive al pelotón de fusilamiento. Aureliano es un símbolo del carácter épico y trágico de los Buendía. Claudio Cataño interpreta su versión adulta, acompañado por Santiago Vázquez y los niños Jerónimo Echeverría y Jerónimo Barón.
+Este jueves 12 de diciembre, el **Bloque de Seguridad** informó de las tareas realizadas del 2 al 11 de diciembre en el territorio nacional.
 
-* **[¿Quién es el actor colombiano que protagonizará ‘Cien años de soledad’ en Netflix?](https://www.elcomercio.com/tendencias/entretenimiento/cien-anos-soledad-serie-netflix.html "https://www.elcomercio.com/tendencias/entretenimiento/cien-anos-soledad-serie-netflix.html")**
+### Más noticias
 
-### **José Arcadio (hijo)**
+* [Policía captura a miembros de Las Águilas, entre ellos el cabecilla](https://www.elcomercio.com/actualidad/seguridad/policia-captura-a-miembros-las-aguilas-entre-ellos-cabecilla.html "Policía captura a miembros de Las Águilas, entre ellos el cabecilla")
+* [Daniel Noboa tomó una decisión sobre la protección policial para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-decision-proteccion-policial-elecciones-2025.html "Daniel Noboa tomó una decisión sobre la protección policial para las elecciones 2025")
+* [Bloque de Seguridad interviene ciudadelas privadas de la vía a Daule](https://www.elcomercio.com/actualidad/seguridad/bloque-de-seguridad-interviene-ciudadelas-privadas-via-a-daule.html "Bloque de Seguridad interviene ciudadelas privadas de la vía a Daule")
 
-![Actor Édgar Vittorino encarna a José Arcadio Buendía, hijo de Úrsula y José Arcadio. ](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-16-1024x683.jpg)
+Disminución de homicidios intencionales
+---------------------------------------
 
-El actor Édgar Vittorino encarna a José Arcadio Buendía, hijo de Úrsula y el patriarca José Arcadio.
+El ministro de Defensa, **Giancarlo Loffredo,** se refirió esta mañana en Quito al refuerzo de recursos en Machala para luchar por la paz y el orden de las familias orenses. Señaló que esta semana el presidente Daniel Noboa ordenó el despliegue militar de personal y vehículos.
 
-Es el primogénito de Úrsula y José Arcadio. Rebelde e impulsivo, desaparece de Macondo para regresar como un hombre irreconocible. Édgar Vittorino, Leonardo Soto y Thiago Padilla representan sus distintas etapas en la serie.
+Son 2 500 efectivos militares y más de **50 vehículos tácticos** los que se sumaron a las fuerzas del orden en El Oro. Además, se redoblan los esfuerzos de Inteligencia en la zona.
 
-### **Amaranta**
+La **Comisión de Tránsito del Ecuador** (CTE) se sumó a las tareas del Bloque de Seguridad para realizar controles de armas, municiones y explosivos más **eficientes en las vías.** Sobre todo se aplicarán en corredores estratégicos y pasos fronterizos.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-11-1024x683.jpg)
+Entre los **resultados** que dejan las operaciones del **Bloque de Seguridad** resaltó:
 
-Actriz Loren Sofía Paz. Screenshot
+* Más de 37 000 galones de combustible incautados en Sucumbíos, Rumiñahui y Guayas
+* 1,4 toneladas de droga se incautaron en Manabí
+* Las FF.AA. apoyó en el combate a los incendios en Samborondón y Guayas con sus helicópteros equipados con ‘bambi bucket’
 
-Es la hija menor de los fundadores, rival de su hermanastra Rebeca. Vive consumida por los celos y el rencor, elementos clave en su historia. Loren Sofía Paz y Luna Ruíz dan vida al personaje de la serie.
+Resultados obtenidos
+--------------------
 
-### **Rebeca**
+El viceministro del Interior subrogante**, Lyonel Calderón,** señaló que el Bloque de Seguridad ejecuta diversas acciones tras detectar el desplazamiento de los grupos de delincuencia organizada.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-12-1024x683.jpg)
+Informó que, en un comparativo del 1 de enero al 8 de diciembre de 2023 con el mismo período del año en curso, existe una **reducción del 17% de los homicidio**s intencionales a escala nacional
 
-Laura Sofía Grueso “Akima” interpreta a Rebeca de joven.
+Es decir, se pasó de **7 687 a 6 395 homicidios** intencionales en este período.
 
-La misteriosa niña huérfana que llega a Macondo con una bolsa de huesos y un hábito peculiar de comer tierra. Laura Sofía Grueso “Akima” y Nicole Montenegro interpretan sus distintas etapas.
+Agregó que respecto a la droga incautada, en un conglomerado de las labores de la Policía y de FF.AA., en un período entre el 1 de enero y el 8 de diciembre, se decomisaron **278 toneladas de droga**. Esta es una cifra histórica que representa un 28% más con relación a lo incautado en ese período de 2023.
 
-Tercera generación
-------------------
+Calderón se refirió a las cifras **en Quito**, las cuales evidencian una reducción del **15% de homicidios** intencionales en los períodos comparados.
 
-### **Arcadio**
+En **Manta**, luego de la intervención del **Bloque de Seguridad**, entre el 6 de junio y 8 de diciembre hay una **reducción del 32% en los homicidios intencionales.**
 
-Nieto de los fundadores, hijo de José Arcadio y Pilar Ternera. Su vida refleja las tensiones entre tradición y caos en Macondo.
+En **Durán,** desde la intervención del Bloque de Seguridad, del 1 de julio al 8 de diciembre de 2024 hay una reducción consolidada de**l 37% de los homicidios intencionales.** Esto repercute en la disminución de la violencia registrada en las [calles del cantón.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
 
-### **Aureliano José**
+> [@CmdtPoliciaEc](https://twitter.com/CmdtPoliciaEc?ref_src=twsrc%5Etfw), [#GraDVíctorZárate](https://twitter.com/hashtag/GraDV%C3%ADctorZ%C3%A1rate?src=hash&ref_src=twsrc%5Etfw):  
+>   
+> El [#BloqueDeSeguridad](https://twitter.com/hashtag/BloqueDeSeguridad?src=hash&ref_src=twsrc%5Etfw) y los resultados consolidados en lo que va del año a través de los esfuerzos de [#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) se han logrado decomisar 9,992 armas de fuego, 402.729 cartuchos, 278 toneladas de droga, se ha puesto a órdenes de las… [pic.twitter.com/WPb9JSNqxB](https://t.co/WPb9JSNqxB)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [December 12, 2024](https://twitter.com/PoliciaEcuador/status/1867232446372008221?ref_src=twsrc%5Etfw)
 
-Hijo de Pilar Ternera y el coronel Aureliano Buendía. Acompaña a su padre en algunas guerras, pero regresa al pueblo debido a que está enamorado de su tía Amaranta, quien lo crio desde que era bebé.
+Amnistía Internacional acusa a Israel de cometer crímenes de guerra en Líbano
+=============================================================================
 
-### **17 Aurelianos**
+Los investigadores también fotografiaron restos de las municiones utilizadas en los ataques para su identificación por expertos.
+--------------------------------------------------------------------------------------------------------------------------------
 
-El coronel Aureliano Buendía tuvo 17 hijos con 17 mujeres distintas durante sus 32 guerras civiles, cada relación durando solo una noche. Esta práctica responde a una tradición en la que las mujeres jóvenes se unían a los soldados para tener hijos fuertes. Las 17 madres visitaron la casa de los Buendía para solicitar que Úrsula bautizara a sus hijos, quienes recibieron el nombre de Aurelia.
+![Los soldados libaneses aseguran la zona después de que las tropas israelíes se retiraran de la aldea de Khiam en el distrito de Marjayoun, gobernación de Nabatieh, sur del Líbano.](https://www.elcomercio.com/wp-content/uploads/2024/12/soldado-libano.jpg)
 
-Cuarta generación
------------------
+**Amnistía Internacional** (AI) acusó este jueves, 12 de diciembre de 2024, a Israel de cometer **crímenes de guerra** después de determinar mediante una investigación que **bombardeó,** sin previo aviso y hasta en cuatro ocasiones **infraestructuras civiles** en el [Líbano](https://es.wikipedia.org/wiki/L%C3%ADbano "https://es.wikipedia.org/wiki/L%C3%ADbano"), causando al menos la muerte de 49 ciudadanos.
 
-### **Remedios la Bella**
+### Más noticias
 
-Conocida por su extraordinaria belleza, vive alejada de las ambiciones terrenales. Su destino es uno de los pasajes más poéticos de la novela. Aunque su papel es breve, será fundamental.
+* [Estados Unidos e Israel analizan la posibilidad de liberar rehenes de Gaza](https://www.elcomercio.com/actualidad/mundo/estados-unidos-israel-liberacion-rehenes-gaza.html "Estados Unidos e Israel analizan la posibilidad de liberar rehenes de Gaza")
+* [Al menos 22 miembros de una familia mueren en un ataque israelí en Gaza](https://www.elcomercio.com/actualidad/mundo/al-menos-22-miembros-de-una-familia-mueren-ataque-israeli-en-gaza.html "Al menos 22 miembros de una familia mueren en un ataque israelí en Gaza")
+* [Hizbulá compromete el alto el fuego con Israel al disparar dos misiles](https://www.elcomercio.com/actualidad/mundo/hizbula-compromete-alto-el-fuego-israel-misiles.html "Hizbulá compromete el alto el fuego con Israel al disparar dos misiles")
 
-### **Los gemelos José Arcadio Segundo y Aureliano**
+Según el comunicado de AI, los **cuatro bombardeos a civiles** se produjeron entre el 29 de septiembre y el 21 de octubre y “**diezmaron familias enteras de civiles**“, ya que se dieron sin que el Ejército israelí advirtiese previamente, lo que merece ser “**investigado como crímenes de guerra**“.
 
-Son hijos de Arcadio y Santa Sofía de la Piedad.
+“El gobierno libanés debe convocar urgentemente una **Sesión Especial en el Consejo de Derechos Humanos** de la ONU para establecer un mecanismo de **investigación independiente** y también debe conceder a la **Corte Penal Internacional jurisdicción** sobre los crímenes del Estatuto de Roma cometidos en territorio libanés”, urgió la directora general de Investigación, Incidencia Política y Campañas de AI, Erika Guevara.
 
-Las últimas generaciones en Macondo
------------------------------------
+En este sentido, la ONG subrayó que estos **cuatro bombardeos mataron a cerca de cinco decenas de civiles,** entre ellos un bebé de cinco meses y varios menores entre los once meses y los cinco años mientras dormían.
 
-La **quinta generación** incluye a José Arcadio, Meme y Amaranta Úrsula, hijos de Aureliano Segundo y Fernanda del Carpio. José Arcadio, criado para ser Papa, abandona el seminario y regresa a Macondo con los vicios de sus antecesores. Meme tiene a Aureliano Babilonia, quien está escondido por su abuela Fernanda. Amaranta Úrsula, la hija menor, vive ajena al origen de Aureliano, a quien más tarde amará sin saber que es su sobrino.
+La investigación consistió de entrevistas a **35 supervivientes y testigos**, además de la inspección de los lugares de los ataques en **Nabatiye, Aitou y la ciudad de Baalbek** y la visita a un hospital donde recibieron tratamiento algunos de los heridos.
 
-En la **sexta generación**, Aureliano Babilonia heredó el carácter de su bisabuelo, el coronel Aureliano, pero su destino lo encierra en el aislamiento. Finalmente, la **séptima generación**, con Aureliano hijo, marca el fin de los Buendía, cumpliendo la profecía de Úrsula con su nacimiento.
+Fotografías de municiones
+-------------------------
 
-Personas fuera de la familia Buendía
-------------------------------------
+Los investigadores también fotografiaron **restos de las municiones u**tilizadas en los ataques para su identificación por expertos, verificaron decenas de vídeos y material fotográfico de fuentes locales y disponible en las redes sociales, y examinaron imágenes por satélite de los lugares.
 
-### **Melquíades**
+La organización, que no encontró en **ninguna de estas infraestructuras** señales de posibles objetivos militares, escribió a las autoridades israelíes el 11 de noviembre solicitando información sobre los **propósitos bélicos** alcanzados en estos lugares y las **medidas adoptadas** para evitar o minimizar el causar víctimas civiles, pero “no recibió respuesta antes de la **publicación de la investigación**“.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-17-1024x683.jpg)
+Caso Purga, juez Javier de la Cadena resolvió tres solicitudes
+==============================================================
 
-El gitano que introduce la alquimia a José Arcadio y deja los pergaminos que guardan los secretos de los Buendía. El actor Moreno Borja interpreta a este personaje, clave para desentrañar el destino de Macondo.
+Juez niega cambiar prisión preventiva a procesados del caso Purga. Demoras y recusaciones amenazan con caducar medidas.
+-----------------------------------------------------------------------------------------------------------------------
 
-### **Pilar Ternera**
+![Audiencia del caso Purga, este jueves 12 de diciembre de 2024, en la Corte Nacional de Justicia.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-12T111725.151.jpg)
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-13-1024x683.jpg)
+El **caso Purga** sigue su curso judicial con un nuevo capítulo que se desarrolló la mañana del jueves 12 de diciembre. El **juez Javier de la Cadena**, de la Corte Nacional de Justicia, negó las solicitudes de sustitución de la prisión preventiva para los procesados **Henry T. T., Alberto L. T. y Andrés Ch. P.**
 
-Amante de los hermanos José Arcadio y Aureliano, y madre de sus hijos. **Pilar Ternera** es interpretada por **Viña Machado**, un papel que promete conmover al público.
+### Más noticias
 
-### **Apolinar Moscote**
+* [Diana Salazar estuvo presente en el caso Purga este 26 de noviembre](https://www.elcomercio.com/actualidad/seguridad/diana-salazar-estuvo-presente-caso-purga.html "Diana Salazar estuvo presente en el caso Purga este 26 de noviembre")
+* [¿Tribunal de la CNJ puede pedir nuevas investigaciones a Fiscalía sobre caso Metástasis?](https://www.elcomercio.com/actualidad/politica/tribunal-cnj-puede-pedir-nuevas-investigaciones-fiscalia-caso-metastasis.html "¿Tribunal de la CNJ puede pedir nuevas investigaciones a Fiscalía sobre caso Metástasis?")
+* [Wilman Terán fue mencionado sobre el reparto en el Consejo de la Judicatura](https://www.elcomercio.com/actualidad/seguridad/wilman-teran-mencionado-reparto-jueces-fiscales-caso-pantalla-testigo-protegido.html "Wilman Terán fue mencionado sobre el reparto en el Consejo de la Judicatura")
 
-![Jairo Camargo interpreta al corregidor Moscote.](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-15-1024x683.jpg)
+La decisión se tomó al no encontrarse **nuevos elementos que justifiquen la incompatibilidad** de esta medida cautelar en el marco de la investigación por **delincuencia organizada.**
 
-Jairo Camargo interpreta al corregidor Moscote.
+Esta resolución se emitió después de varios retrasos en el proceso. Inicialmente, la diligencia estaba programada para el 27 de noviembre, pero fue diferida debido a una recusación presentada contra el juez De la Cadena por **Fabiola G., también procesada en el caso**.
 
-Es el corregidor enviado a Macondo, representando la llegada del orden institucional al pueblo. Se convierte en parte de la familia Buendía al casar a su hija Remedios Moscote con Aureliano Buendía.
+Casi dos semanas después, la recusación fue retirada, permitiendo al magistrado retomar su competencia y avanzar en el proceso penal que busca **esclarecer los hechos**.
 
-### El general Moncada
+> 🔵[#SalaPenalCNJ](https://twitter.com/hashtag/SalaPenalCNJ?src=hash&ref_src=twsrc%5Etfw) | Audiencia de revisión de medidas cautelares por el presunto delito de delincuencia organizada.[#AudienciasCNJ](https://twitter.com/hashtag/AudienciasCNJ?src=hash&ref_src=twsrc%5Etfw)  
+> 💻 Sigue la audiencia aquí [https://t.co/z9rsqIdyZg](https://t.co/z9rsqIdyZg) [pic.twitter.com/4j3oBhMFBU](https://t.co/4j3oBhMFBU)
+> 
+> — Corte Nacional de Justicia (@CorteNacional) [December 12, 2024](https://twitter.com/CorteNacional/status/1867193419354746930?ref_src=twsrc%5Etfw)
 
-![El general Moncada es interpretado por el actor Salvador del Solar.](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-14-1024x683.jpg)
+Recusaciones y demoras en el proceso del caso Purga
+---------------------------------------------------
 
-El general Moncada es interpretado por el actor Salvador del Solar.
+Desde julio pasado, cuando concluyeron los **120 días de instrucción fisca**l, el caso Purga enfrentó numerosos obstáculos para avanzar hacia la audiencia de evaluación y preparatoria de juicio. En noviembre, dos audiencias programadas en la **Corte Nacional de Justicia se diferieron**
 
-Es un líder liberal y amigo cercano del coronel Aureliano Buendía, con quien comparte ideales políticos.
+Uno de estos diferimientos estuvo relacionado con que varios de los acusados en Purga estaban siendo juzgados en el **caso Metástasis**.
 
-La Estación Marín Central de la Ecovía en Quito se cierra, así será el servicio
-===============================================================================
+Los retrasos y las recusaciones han complicado el desarrollo del proceso. La situación podría derivar en la caducidad de la **prisión preventiva de 15 de los procesados**, incluyendo a **Fabiola** **G., y Pablo M.,**, si no se realizan las audiencias correspondientes antes de marzo de 2025. Esto representa un reto significativo para el sistema judicial, que busca cumplir con los **plazos establecidos**.
 
-La Empresa de Pasajeros de Quito detalló cómo funcionará la Ecovía durante el cierre.
--------------------------------------------------------------------------------------
+Los alcances del caso Purga
+---------------------------
 
-![El Municipio de Quito informó sobre el cierre de la estación.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ecovia-2.jpg)
+El operativo Purga inició el 4 de marzo con la **detención de varios sospechosos** en las **provincias de Guayas y Pichincha.**
 
-La **Estación Marín Central** de la **Ecovía** cerrará temporalmente su servicio en el sentido sur-norte a partir de este jueves, 12 de diciembre, desde las 08:00[.](https://es.wikipedia.org/wiki/Categor%C3%ADa:Estaciones_del_Corredor_Ecov%C3%ADa_de_Quito "https://es.wikipedia.org/wiki/Categor%C3%ADa:Estaciones_del_Corredor_Ecov%C3%ADa_de_Quito")
+Entre ellos se encuentran el **exlegislador Pablo M.,** la **expresidenta de la Corte de Justicia del Guayas Fabiola G.,** y exjueces como Johann M. y Guillermo V. Según la Fiscalía, estas personas habrían formado parte de una organización delictiva que influía en decisiones judiciales para favorecer intereses ilegales.
 
-Más noticias
-------------
+De acuerdo con las investigaciones, la estructura también **involucraría a familiares y colaboradores cercanos de Pablo M.**, así como a otros exfuncionarios judiciales.
 
-* [Diciembre, un mes propicio para la prevención los siniestros de tránsito](https://www.elcomercio.com/opinion/editorial/diciembre-mes-propicio-prevencion-siniestros-transito.html "Diciembre, un mes propicio para la prevención los siniestros de tránsito")
-* [Diciembre, el mes con más siniestros de tránsito en Quito](https://www.elcomercio.com/actualidad/quito/diciembre-mes-mas-siniestros-transito-quito.html "Diciembre, el mes con más siniestros de tránsito en Quito")
-* [Levantan pavimento nuevo del carril exclusivo de la Ecovía](https://www.elcomercio.com/actualidad/quito/levantan-pavimento-nuevo-del-carril-exclusivo-de-la-ecovia.html "Levantan pavimento nuevo del carril exclusivo de la Ecovía")
+La Fiscalía señala que el grupo buscaba beneficios económicos mediante la manipulación de procesos judiciales y administrativos en la provincia del Guayas. Este caso ha puesto en **evidencia presuntas redes de corrupción** que operaban en diferentes niveles del sistema judicial.
 
-Este cierre, que tendrá una duración aproximada de 15 días, se debe a los trabajos de repavimentación realizados por la Empresa Pública Metropolitana de Movilidad y Obras Públicas (**Epmmop**).
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoPurga](https://twitter.com/hashtag/CasoPurga?src=hash&ref_src=twsrc%5Etfw): con la presencia del fiscal general del Estado (s), Wilson Toainga, se reinstala la audiencia de revisión de medidas cautelares solicitada por 3 de los procesados por presunta [#DelincuenciaOrganizada](https://twitter.com/hashtag/DelincuenciaOrganizada?src=hash&ref_src=twsrc%5Etfw). Hoy, el Juez informará su resolución. [pic.twitter.com/qipGSVez12](https://t.co/qipGSVez12)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [December 12, 2024](https://twitter.com/FiscaliaEcuador/status/1867196766703211007?ref_src=twsrc%5Etfw)
 
-¿Cómo funcionará el servicio de la Ecovía durante el cierre en la estación?
----------------------------------------------------------------------------
-
-Durante este periodo, las unidades de la **Ecovía** usarán el carril de livianos desde la parada **Simón** **Bolívar** hasta la Estación **Playón de La Marín.**
-
-Además, circularán desde la Estación **Playón de La Marín** hasta la parada **Simón Bolívar**, mientras la Epmmop lleva a cabo el cambio de la capa asfáltica por pavimento rígido de hormigón en el carril exclusivo.
-
-Por otra parte, la operación en sentido norte-sur continuará sin interrupciones, lo que permitirá mantener el flujo habitual de los **servicios** en esta dirección.
-
-Debido a esta situación, se recomienda a quienes utilizan esta ruta prever tiempos adicionales de **traslado** y consultar las actualizaciones sobre el progreso de los trabajos.
-
-Renovación integral de la estructura vial de la Ecovía
-------------------------------------------------------
-
-El Municipio de Quito inició, el 12 de agosto de 2024, la renovación de la estructura vial del carril exclusivo de la **Ecovía**.
-
-El proyecto contempla transformar la vía en una estructura de **pavimento rígido** de **hormigón** en un tramo de 9 km. Los trabajos se desarrollan entre la Estación **Río Coca** y el **Playón de La Marín.**
-
-Para gestionar el impacto en la movilidad, las obras se realizan entre las 07:00 y las 18:00. Asimismo, se establecieron horarios extendidos durante fines de semana, feriados y jornadas nocturnas.
+Con la negativa de modificar las medidas cautelares, lo**s exjueces Henry T. T. y Alberto L. T. permanecerán en los centros de privación de libertad de Cotopaxi y Pichincha**, mientras que Andrés Ch. P. sigue siendo buscado por las autoridades.
 
 * * *
 
