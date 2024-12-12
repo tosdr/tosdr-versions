@@ -350,8 +350,8 @@
     * [More ways to pay](https://www.pse.com/en/account-and-billing/pay-my-bill?srce=quicklink)
 *  [![My account](/-/media/Project/PSE/Portal/Icons/account_blue.png?rev=1152840bef4e46eb855738802adf61e1&modified=20210429155430&w=0&h=0&hash=D88D82FE9BD240A0BDD78766C21C77D3)![My account](/-/media/Project/PSE/Portal/Icons/account_blue_active.png?rev=97af98f4c7b54d389982cb07e854c5cf&modified=20210429155439&w=0&h=0&hash=FE72669AD80F425FB57D7C78C627AE82)SIGN IN](https://www.pse.com/login)
 *  [![Outage](/-/media/Project/PSE/Portal/Icons/outage_blue.png?rev=1f663ae7c895439b96399171e903303a&modified=20210429155604&w=0&h=0&hash=975738EFAE151DD0EBA6A039E6BD8D12)![Outage](/-/media/Project/PSE/Portal/Icons/outage_blue_active.png?rev=346468105435450ca57242b0c76b253d&modified=20210429155615&w=0&h=0&hash=77F308B7EF4D1CFB8AF88829DA969E94)Outages](#)
-    * [Outage map](https://www.pse.com/outage/outage-map)
-    * [Report an outage](https://www.pse.com/outage)
+    * [Outage map](https://www.pse.com/en/outage/outage-map)
+    * [Report an outage](https://www.pse.com/en/outage)
     * [Street light outage](https://www.pse.com/en/outage/report-street-light-outage)
 
     
