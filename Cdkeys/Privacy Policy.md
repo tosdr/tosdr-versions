@@ -114,6 +114,7 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
+* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
@@ -577,11 +578,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-3.    [![Farming Simulator 25 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25.jpg)   No 3. \-38%](https://www.cdkeys.com/farming-simulator-25-pc-steam)
+3.    [![Farming Simulator 25 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25.jpg)   No 3. \-39%](https://www.cdkeys.com/farming-simulator-25-pc-steam)
     
     **[Farming Simulator 25 PC](https://www.cdkeys.com/farming-simulator-25-pc-steam "Farming Simulator 25 PC")**
     
-    Special Price $33.09 RRP $53.49
+    Special Price $32.49 RRP $53.49
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -597,13 +598,13 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-5.    [![Destiny 2: The Final Shape + Annual Pass PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-23t133417.724.jpg)   No 5. \-62%
+5.    [![Destiny 2: The Final Shape + Annual Pass PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-23t133417.724.jpg)   No 5. \-59%
     
     DLC](https://www.cdkeys.com/destiny-2-the-final-shape-annual-pass-pc-dlc-steam)
     
     **[Destiny 2: The Final Shape + Annual Pass PC - DLC](https://www.cdkeys.com/destiny-2-the-final-shape-annual-pass-pc-dlc-steam "Destiny 2: The Final Shape + Annual Pass PC - DLC")**
     
-    Special Price $38.19 RRP $99.99
+    Special Price $40.79 RRP $99.99
     
     [Add to Wish List](# "Add to Wish List")
     
