@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 11, 2024**
+**December 12, 2024**
 
 * * *
 
@@ -229,6 +229,8 @@ this hour
 
 * * *
 
+* [Important Step With Space-Time Crystals](https://www.sciencedaily.com/releases/2024/12/241209122743.htm)
+* [Minuscule Robots for Targeted Drug Delivery](https://www.sciencedaily.com/releases/2024/12/241211143603.htm)
 * [Early-Onset Colorectal Cancer Surges Globally](https://www.sciencedaily.com/releases/2024/12/241211190108.htm)
 * [Jaw-Dropping Evolution of Lizards and Snakes](https://www.sciencedaily.com/releases/2024/12/241211125055.htm)
 * [Recycling Human, Animal Excreta as Fertilizer](https://www.sciencedaily.com/releases/2024/12/241211124514.htm)
@@ -237,8 +239,6 @@ this hour
 * [Soda Taxes Don't Just Affect Sales](https://www.sciencedaily.com/releases/2024/12/241210183516.htm)
 * [A New Galaxy, Much Like Our Own](https://www.sciencedaily.com/releases/2024/12/241211143905.htm)
 * [AI Thought Knee X-Rays Show If You Drink Beer](https://www.sciencedaily.com/releases/2024/12/241211143855.htm)
-* [You Are What You Eat, and So Are Your Grandkids?](https://www.sciencedaily.com/releases/2024/12/241211125103.htm)
-* [Biological Diversity Not Just Due to Genes](https://www.sciencedaily.com/releases/2024/12/241211124342.htm)
 
 Trending Topics
 ---------------
@@ -251,17 +251,17 @@ this week
 
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
-[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
+[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
 
-[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
+[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
-[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
+[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
-[Construction](https://www.sciencedaily.com/news/matter_energy/construction/)
+[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
@@ -269,7 +269,7 @@ this week
 
 [Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
 
-[Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
+[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
 
   
 
