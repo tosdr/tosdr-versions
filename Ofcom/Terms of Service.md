@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Ultrafast broadband HERO (1336 × 560px)](/siteassets/resources/images/-news-centre/body-images/2024/ultrafast-broadband-and-landline-bundles-see-biggest-price-drop-in-2024/ultrafast-broadband-hero-1336--560px.png?width=1920&height=1085&quality=80)
+
+### Ultrafast broadband and landline bundles see biggest price drop in 2024
+
+12 December 2024](https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/ultrafast-broadband-and-landline-bundles-see-biggest-price-drop-in-2024/)
+
 [![Channel 4 logo](/siteassets/resources/images/-news-centre/body-images/2024/new-ten-year-public-service-broadcast-licence-for-channel-4/c4-indent-web.jpg?width=1920&height=1085&quality=80)
 
 ### Channel 4 Statement
@@ -151,13 +157,7 @@
 
 5 December 2024](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/ofcom-appoints-oliver-griffiths-as-group-director-online-safety/)
 
-[![CN 24 NC_Eng web](/siteassets/resources/images/-news-centre/thumbnail-images/phones/cn-24-nc_eng-web.jpg?width=1920&height=1085&quality=80)
-
-### Full-fibre broadband reaches nearly 7 in 10 homes
-
-5 December 2024](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/full-fibre-broadband-reaches-nearly-7-in-10-homes/)
-
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/)
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy)
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
