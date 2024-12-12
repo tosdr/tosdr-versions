@@ -690,11 +690,7 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn Up to 5% Cash Back from Rakuten.ca with Dell Technologies Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/306750/en-stickyfooter-1170x60_dell.png "Dell Technologies Coupons, Promo Codes")
-
-up to 5% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dell-consumer?sourceName=stickyfooter1)
+[![](//static.rakuten.ca/img/campaign_entity/303981/en_stickyfooter-1170x60_gift_card_shop_.png)](https://www.rakuten.ca/giftcardshop)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
