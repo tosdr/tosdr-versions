@@ -214,8 +214,7 @@ Privacy
 
 As a company focused on inspiring the creators of tomorrow, we are passionate about protecting your privacy. We have divided this policy into two parts; we start with a general overview of the key points and then provide more details on those concepts later in the policy. Our policy works in tandem with our [Terms of Use](https://sphero.com/pages/terms-of-use), which we recommend you read as well. 
 
-**Overview**
-------------
+### **Overview**
 
 We limit the information we collect from those using our products and give parents control over their children’s information. If you have questions, please email [support@sphero.com](mailto:support@sphero.com) or Sphero’s Data Protection Officer at [dpo@sphero.com.](mailto:dpo@sphero.com)
 
@@ -239,15 +238,13 @@ We make sure you have control over your data and how we use it. If you don’t w
 
 [Learn more about your rights >](https://www.sphero.com/pages/privacy#datawecollect)
 
-**The Fine Print (aka the Full Policy)**
-----------------------------------------
+### **The Fine Print (aka the Full Policy)**
 
 Sphero, Inc. (“Sphero”, “we”, or “our”) is committed to protecting your privacy. This Privacy Policy describes how we collect, use, and disclose information from users of our products, websites (the “Site”), applications linking to this policy (the “Applications”), and services provided through the Site (together with the Site, products, and Applications, the “Services”).
 
 This policy does not apply to websites, products, applications, or services that display or link to different privacy policies; in the event of a conflict or inconsistency between this policy and a product or application’s privacy policy, the latter will govern.
 
-**1\. Collection**
-------------------
+### **1\. Collection**
 
 We collect and process information that relates to identified or identifiable individuals (“**Personal Data**”). We collect and process Personal Data you provide us, including from your device or use of the Services. The elements listed in each category are not an exhaustive list; they are examples we provide to help you better understand our practices.
 
@@ -269,8 +266,7 @@ We also collect the following categories of information (some of which is Person
 
 California requires we present this information to you in a slightly different format—using categories the state specifies. For our California residents, we collect the following categories of Personal Data: Identifiers, Customer Records, Commercial Information, Internet or Other Electronic Network Activity Information, Geolocation, and Sensory Information . 
 
-**2\. Uses**
-------------
+### **2\. Uses**
 
 We generally use your information to:
 
@@ -284,8 +280,7 @@ With your consent, we may also use your Personal Data for other reasons. We do n
 
 For our European customers, the law in Europe—the GDPR and similar United Kingdom legislation—requires we also tell you our legal bases for processing your information. We generally process your Personal Data based on our legitimate interests. These interests include: direct marketing, personalizing and providing the Services, evaluating marketing campaigns, securing and protecting our Services, looking into suspicious activity, investigating violations of our policies or Terms of Use, and preventing harm to you or others. But we rely on (1) legal necessity when we use your information to comply with legal obligations or (2) your consent when using non-essential cookies, transferring Personal Data to the United States, and engaging in other activities not addressed elsewhere in this policy.
 
-**3\. Cookies and Similar Technologies**
-----------------------------------------
+### **3\. Cookies and Similar Technologies**
 
 To make our Services more useful to you, we and our trusted partners may use cookies, web beacons, or similar technologies (collectively “Cookies”) to process Personal Data when you interact with our Site. Generally, we use Cookies to ensure our Site functions properly, gather analytics that helps us improve the Site, and provide you with relevant advertising. You can find more details on our use of Cookies by visiting our Cookie Policy [here](https://sphero.com/pages/cookie-policy).
 
@@ -293,8 +288,7 @@ If we determine you are visiting our Site from Europe, we will seek your consent
 
 Please note, at this time, our Site does not respond to your browser’s do-not-track request or similar signals. 
 
-**4\. Disclosures & Transfers**
--------------------------------
+### **4\. Disclosures & Transfers**
 
 In the last 12 months, we have not disclosed your Personal Data to third parties, as that term is defined in applicable privacy laws. We may, however, disclose your information to the following recipients:
 
@@ -308,8 +302,7 @@ We do not give your information to third parties in exchange for money. As discu
 
 We are based in the United States. So, if you create or use an account in another country, you consent to your data being processed in and transferred to the United States.
 
-**5\. Your Rights and Choices**
--------------------------------
+### **5\. Your Rights and Choices**
 
 You have the following rights concerning your Personal Data:  
 
@@ -325,18 +318,15 @@ We will not discriminate against you for exercising these rights. Unless another
 
 Additionally, our California customers can exercise their California Consumer Privacy Act rights by using the form located [here](https://sphero.com/pages/do-not-sell-my-personal-information) or calling us at 1-888-977-4376. For some requests, we may need you to provide additional information, such as your email address. If you are asking to access, correct, or delete your data, we will send an email to your address and await your reply to confirm your identity before fulfilling the request. We do allow you to rely on an authorized agent to submit a request on your behalf, but they must first provide us your written authorization allowing them to make such a request on your behalf. 
 
-**6\. Retention**
------------------
+### **6\. Retention**
 
 **We keep your data for as long as necessary to fulfil the purpose for why we collected it, complete any additional activities to which you consented, or comply with our legal obligations**
 
-**7\. Security**
-----------------
+### **7\. Security**
 
 We use technical and organizational measures designed to protect your Personal Data. For example, we use SSL to encrypt data in transit and encrypt passwords at rest.
 
-**8\. Other Privacy Policies**
-------------------------------
+### **8\. Other Privacy Policies**
 
 Some of our products and applications have their own privacy policy. The individual privacy policies are:
 
@@ -351,19 +341,18 @@ Some of our products and applications have their own privacy policy. The individ
 
 When you use those products or application, their policy will apply instead of this policy. 
 
-**9\. Changes to This Privacy Policy**
---------------------------------------
+### **9\. Changes to This Privacy Policy**
 
 This Privacy Policy is subject to occasional revision. If we make any changes to this Privacy Policy, we will change the “Last Updated” date at the top. If there are material changes to our Privacy Policy, we will obtain your consent and provide additional notice as required by law.
 
-**10\. Contact & Controller Information**
------------------------------------------
+### **10\. Contact & Controller Information**
 
 Sphero welcomes your comments or questions regarding this Privacy Policy. You can email us at [legal@sphero.com](mailto:legal@sphero.com) or send us a letter at:
 
 Sphero, Inc.  
 Attn: Legal, Privacy Policy  
-7121 B Shelby Ave - Door 19  
+7121 Shelby Ave  
+Dock 85  
 Greenville, TX 75402
 
 For our customers in Europe, the data controller for your Personal Data is Sphero, Inc.  You can reach Sphero’s Data Protection Officer at [dpo@sphero.com](mailto:dpo@sphero.com). Please include “Attention: Data Protection Officer” in your email.
