@@ -42,7 +42,7 @@ Search
     
     [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F1abd78e7a79a48ddb14cce805c8646b8?width=343)
     
-    B1G1 Mini Generator Deal](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![72 Hour Food Kit in front of the Christmas tree](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F9627210a4b13464cb9af3ca7ff9d1cea)
+    B1G1 Mini Generator Deal](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![72 Hour Food Kit in front of the Christmas tree](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F9627210a4b13464cb9af3ca7ff9d1cea?width=343)
     
     FREE 72-Hour Food Kit](https://4patriots.com/product/72-hour-emergency-survival-food-kit)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F18eb4df89fce447fb8df45519e514965?width=343)
     
@@ -110,11 +110,11 @@ Search
     
     [Shop All](https://4patriots.com/category/solar-power)
     
-    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fa73a26e6b86a4041b75e11d9fdc18660)
+    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fa73a26e6b86a4041b75e11d9fdc18660?width=343)
     
     Solar Generators](https://4patriots.com/page/emergency-solar-power/portable-solar-generators-power-stations)
     
-    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fdc51854a890d466b8c68d7130b2e5343)
+    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fdc51854a890d466b8c68d7130b2e5343?width=343)
     
     Solar Panels](https://4patriots.com/category/solar-power/solar-panels)
     
@@ -122,7 +122,7 @@ Search
     
     Upgrade & Expansion Packs](https://4patriots.com/category/solar-power/generator-upgrade-kits)
     
-    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F48b6561e88044a87b1e905c49bcb6088)
+    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F48b6561e88044a87b1e905c49bcb6088?width=343)
     
     Best Sellers](https://4patriots.com/category/solar-power/solar-power-best-sellers)
     
@@ -150,7 +150,7 @@ Search
     
     Emergency Food Kits](https://4patriots.com/page/emergency-survival-food-kits)[![](https://assets.catsy.com/catsy.1040/MENU-2407-4WK-LIFESTYLE-TOTE-UNDER-BED-680x680.jpg)
     
-    Time-Based Food Kits](https://4patriots.com/category/emergency-food-kits/time-based-food-kits)[![A mother fills her daughter's plate with creamed corn for Christmas dinner.](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F122a72ee42e643489522d66a63059ad0)
+    Time-Based Food Kits](https://4patriots.com/category/emergency-food-kits/time-based-food-kits)[![A mother fills her daughter's plate with creamed corn for Christmas dinner.](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F122a72ee42e643489522d66a63059ad0?width=343)
     
     Specialty Food Kits](https://4patriots.com/category/emergency-food-kits/speciality-food-kits)[![](https://assets.catsy.com/catsy.1040/72HR-2411-HOLIDAY-LIFESTYLE-CATEGORY-680x680.jpg)
     
@@ -288,7 +288,7 @@ Search
     
     "Mini" Cooler & Warmer](https://4patriots.com/product/freedom-fridge-electric-cooler-warmer)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F1abd78e7a79a48ddb14cce805c8646b8?width=343)
     
-    B1G1 FREE Mini Generator](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F88e3fc5de6e44f3c8b82b67ca014d0ed)
+    B1G1 FREE Mini Generator](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F88e3fc5de6e44f3c8b82b67ca014d0ed?width=343)
     
     Boil Water With Only the Sun](https://4patriots.com/product/sun-kettle-solar-water-heater)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F48b6561e88044a87b1e905c49bcb6088?width=343)
     
