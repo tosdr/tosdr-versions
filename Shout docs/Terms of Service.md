@@ -256,7 +256,7 @@ These Terms of Service shall be interpreted and construed according to, and gove
 
 If any part of these Terms of Service is held invalid or unenforceable, that part will be construed to reflect the parties’ original intent, and the remaining terms will remain in full force and in effect. A waiver by either party of any term or condition of these Terms of Service or any breach will not waive such term or condition or any subsequent breach. Problem Free may assign their rights under these Terms of Service without limitation. You may assign your rights to any party as long as they agree to be bound by these Terms of Service also. These Terms of Service shall be binding upon and shall inure to the benefit of the parties, their successors and permitted assigns. Any headings used in the Terms of Service are for convenience only.
 
-Last updated on July 27, 2024
+Last updated on December 12, 2024
 
 ### Related Articles
 
