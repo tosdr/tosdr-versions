@@ -30,10 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/7a6af6cc-3624-4c84-a9fc-79a4e385c83c/20241212T071419/7a6af6cc-3624-4c84-a9fc-79a4e385c83c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7a6af6cc-3624-4c84-a9fc-79a4e385c83c/20241212T071419/7a6af6cc-3624-4c84-a9fc-79a4e385c83c_360x203.jpg)](https://www.king5.com/article/news/local/body-worn-video-arrest-edmonds-cop-after-allegedly-pointed-gun-at-driver-while-off-duty/281-0dcb4f20-b394-475c-af11-281965800d0f)
+    *  [![](https://media.king5.com/assets/KING/images/c31f7255-d66b-4315-84fa-70400969cbf9/20241212T192856/c31f7255-d66b-4315-84fa-70400969cbf9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c31f7255-d66b-4315-84fa-70400969cbf9/20241212T192856/c31f7255-d66b-4315-84fa-70400969cbf9_360x203.jpg)](https://www.king5.com/article/news/crime/driver-smashes-building-eluding-police-pursuit/281-e8c30452-59fe-4f08-a403-b113989e92eb)
         
-        #### [Body-worn video shows arrest of Edmonds cop after she allegedly pointed gun at driver while off-duty](https://www.king5.com/article/news/local/body-worn-video-arrest-edmonds-cop-after-allegedly-pointed-gun-at-driver-while-off-duty/281-0dcb4f20-b394-475c-af11-281965800d0f)
+        #### [Driver smashes into Centralia building after eluding police pursuit](https://www.king5.com/article/news/crime/driver-smashes-building-eluding-police-pursuit/281-e8c30452-59fe-4f08-a403-b113989e92eb) [![](https://media.king5.com/assets/KING/images/c31f7255-d66b-4315-84fa-70400969cbf9/20241212T192856/c31f7255-d66b-4315-84fa-70400969cbf9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c31f7255-d66b-4315-84fa-70400969cbf9/20241212T192856/c31f7255-d66b-4315-84fa-70400969cbf9_360x203.jpg)](https://www.king5.com/article/news/crime/driver-smashes-building-eluding-police-pursuit/281-e8c30452-59fe-4f08-a403-b113989e92eb)
         
+        #### [Man escapes after crashing into Centralia building following police pursuit](https://www.king5.com/article/news/crime/driver-smashes-building-eluding-police-pursuit/281-e8c30452-59fe-4f08-a403-b113989e92eb) [![](https://media.king5.com/assets/KING/images/c31f7255-d66b-4315-84fa-70400969cbf9/20241212T192856/c31f7255-d66b-4315-84fa-70400969cbf9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c31f7255-d66b-4315-84fa-70400969cbf9/20241212T192856/c31f7255-d66b-4315-84fa-70400969cbf9_360x203.jpg)](https://www.king5.com/article/news/crime/driver-smashes-building-eluding-police-pursuit/281-e8c30452-59fe-4f08-a403-b113989e92eb)
+        
+        #### [Man who eludes police pursuit, crashes into Centralia building not found](https://www.king5.com/article/news/crime/driver-smashes-building-eluding-police-pursuit/281-e8c30452-59fe-4f08-a403-b113989e92eb)
     *  [![](https://media.king5.com/assets/KING/images/9f7a4116-3665-4f55-9970-9069a2e98c99/20241021T131731/9f7a4116-3665-4f55-9970-9069a2e98c99_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9f7a4116-3665-4f55-9970-9069a2e98c99/20241021T131731/9f7a4116-3665-4f55-9970-9069a2e98c99_360x203.jpg)](https://www.king5.com/article/news/local/officials-plan-file-lawsuit-challenging-constitutionality-i-2066/281-9e2fa3fd-d8c4-45a4-ad87-fafce8495308)
         
         #### [Officials plan to file lawsuit challenging constitutionality of I-2066](https://www.king5.com/article/news/local/officials-plan-file-lawsuit-challenging-constitutionality-i-2066/281-9e2fa3fd-d8c4-45a4-ad87-fafce8495308)
@@ -82,13 +85,13 @@ Navigation
     
     Latest Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a70bf62f-cb08-4a4c-af52-fd066b4669dd/20241210T161415/a70bf62f-cb08-4a4c-af52-fd066b4669dd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a70bf62f-cb08-4a4c-af52-fd066b4669dd/20241210T161415/a70bf62f-cb08-4a4c-af52-fd066b4669dd_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/1-on-1-interview-seahawks-receiver-jaxon-smith-njigba/281-e7707627-45d8-47a3-8ae1-631385961e9f)
+    *  [![](https://media.king5.com/assets/KING/images/860248dc-75a8-47b2-8f0d-80bf3bcf8ecc/20241210T173748/860248dc-75a8-47b2-8f0d-80bf3bcf8ecc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/860248dc-75a8-47b2-8f0d-80bf3bcf8ecc/20241210T173748/860248dc-75a8-47b2-8f0d-80bf3bcf8ecc_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/seattle-kraken-philipp-grubauer-volunteering/281-e2219da9-8564-446a-a194-f39bc2bd2cfd)
         
-        #### [Seahawks' Smith-Njigba talks family, faith and football in 1-on-1 interview](https://www.king5.com/article/sports/nfl/seahawks/1-on-1-interview-seahawks-receiver-jaxon-smith-njigba/281-e7707627-45d8-47a3-8ae1-631385961e9f)
+        #### [Seattle Kraken goalie volunteers with Salvation Army, horse rescue](https://www.king5.com/article/sports/nhl/kraken/seattle-kraken-philipp-grubauer-volunteering/281-e2219da9-8564-446a-a194-f39bc2bd2cfd)
         
-    *  [![](https://media.king5.com/assets/KING/images/a3806ea2-fc84-40b8-8fd4-e93daf529dad/20241211T190951/a3806ea2-fc84-40b8-8fd4-e93daf529dad_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a3806ea2-fc84-40b8-8fd4-e93daf529dad/20241211T190951/a3806ea2-fc84-40b8-8fd4-e93daf529dad_360x203.jpg)](https://www.king5.com/article/news/local/seattle/david-bonderman-seattle-kraken-dies/281-f341c94c-0a92-4b92-a763-578e42262e90)
+    *  [![](https://media.king5.com/assets/KING/images/d3e9ed1c-6e08-4fcb-9b58-31dcd11ce045/20241212T163526/d3e9ed1c-6e08-4fcb-9b58-31dcd11ce045_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d3e9ed1c-6e08-4fcb-9b58-31dcd11ce045/20241212T163526/d3e9ed1c-6e08-4fcb-9b58-31dcd11ce045_360x203.jpg)](https://www.king5.com/article/sports/high-school/washington-school-districts-pushing-rules-trans-athletes-sports/281-c8905955-d36c-4900-bf55-b37785d941c1)
         
-        #### [Seattle Kraken co-owner David Bonderman dies at 82](https://www.king5.com/article/news/local/seattle/david-bonderman-seattle-kraken-dies/281-f341c94c-0a92-4b92-a763-578e42262e90)
+        #### [Some WA school districts push for changes to how trans athletes can participate in sports](https://www.king5.com/article/sports/high-school/washington-school-districts-pushing-rules-trans-athletes-sports/281-c8905955-d36c-4900-bf55-b37785d941c1)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -105,9 +108,9 @@ Navigation
 
 Seattle, WA »
 
-41°
+47°
 
-![Showers in the Vicinity](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
