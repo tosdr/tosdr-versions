@@ -1,6 +1,6 @@
- [![](/images/promobar/lightning-yellow.svg) Breaking News: 2U’s Exit from Bootcamps
+ [![](/images/promobar/lightning-yellow.svg) CodeSignal – The Duolingo of Coding Practice
 
-View](https://www.classcentral.com/report/2u-axes-trilogy-bootcamps-layoffs/)
+View](https://www.classcentral.com/report/review-codesignal/)
 
 Close
 
@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. project management
+1. computer science
     
-2. web development
+2. graphic design
     
-3. machine learning
+3. cyber security
     
 
 Popular subjects
 
-1. [Artificial Intelligence
+1. [Management & Leadership
     
-    14,474 courses](https://www.classcentral.com/subject/ai)
-2. [Machine Learning
+    2,761 courses](https://www.classcentral.com/subject/management-and-leadership)
+2. [Cybersecurity
     
-    17,511 courses](https://www.classcentral.com/subject/machine-learning)
-3. [Project Management
+    17,021 courses](https://www.classcentral.com/subject/cybersecurity)
+3. [Python
     
-    4,294 courses](https://www.classcentral.com/subject/project-management)
+    10,069 courses](https://www.classcentral.com/subject/python)
 
 Popular courses
 
-1. [Psychology of Personal Growth
+1. [The Science of Success: What Researchers Know that You Should Know
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/personal-development-the-hong-kong-university-of--8857)
-2. [Paleontology: Theropod Dinosaurs and the Origin of Birds
+    University of Michigan](https://www.classcentral.com/course/success-8087)
+2. [Exploring Play: The Importance of Play in Everyday Life
     
-    University of Alberta](https://www.classcentral.com/course/theropods-birds-5236)
-3. [Introduction to Graphic Illustration
+    The University of Sheffield](https://www.classcentral.com/course/play-2134)
+3. [Let's Get Started: Building Self-Awareness
     
-    Cornish College of the Arts](https://www.classcentral.com/course/kadenze-introduction-to-graphic-illustration-3773)
+    University System of Maryland](https://www.classcentral.com/course/leadership-the-university-of-maryland-college-par-19743)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
