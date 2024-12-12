@@ -14,6 +14,7 @@ Request an Appointment
     * [Depression and Trauma Treatment Center](https://www.zeamhealth.com/mental-health/depression-and-trauma-treatment-center/)
     * [Spravato (Esketamine)](https://www.zeamhealth.com/mental-health/spravato-esketamine/)
     * [Ketamine](https://www.zeamhealth.com/mental-health/ketamine-services/)
+        * [Ketamine-Assisted Psychotherapy Program](https://www.zeamhealth.com/mental-health/ketamine-assisted-psychotherapy-program/)
     * [Therapy](https://www.zeamhealth.com/mental-health/therapy-services/)
     * [Transcranial Magnetic Stimulation](https://www.zeamhealth.com/mental-health/transcranial-magnetic-stimulation/)
     * [Psychiatry](https://www.zeamhealth.com/mental-health/psychiatry/)
