@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
-* [Wunder­sames aus dem Prüf­labor: Tauchtunnel](https://www.test.de/Wundersames-aus-dem-Prueflabor-Tauchtunnel-6145086-0/ "Wundersames aus dem Prüflabor - Tauchtunnel")
-* [Warn­liste: Nicht in Westen Invest investieren](https://www.test.de/Warnliste-Nicht-in-Westen-Invest-investieren-5997655-0/ "Warnliste - Nicht in Westen Invest investieren")
-* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Frag Finanztest: Jetzt noch in offene Immobilienfonds investieren?](https://www.test.de/Wie-investiere-ich-in-offene-Immobilienfonds-6133384-0/ "Frag Finanztest - Jetzt noch in offene Immobilienfonds investieren?")
+* [Fernseher richtig einstellen: Mehr Spaß beim Fußball­gucken](https://www.test.de/Fernseher-richtig-einstellen-Mehr-Spass-beim-Fussballgucken-6119038-0/ "Fernseher richtig einstellen - Mehr Spaß beim Fußballgucken")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
-* [Wunder­sames aus dem Prüf­labor: Tauchtunnel](https://www.test.de/Wundersames-aus-dem-Prueflabor-Tauchtunnel-6145086-0/ "Wundersames aus dem Prüflabor - Tauchtunnel")
-* [Warn­liste: Nicht in Westen Invest investieren](https://www.test.de/Warnliste-Nicht-in-Westen-Invest-investieren-5997655-0/ "Warnliste - Nicht in Westen Invest investieren")
-* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Frag Finanztest: Jetzt noch in offene Immobilienfonds investieren?](https://www.test.de/Wie-investiere-ich-in-offene-Immobilienfonds-6133384-0/ "Frag Finanztest - Jetzt noch in offene Immobilienfonds investieren?")
+* [Fernseher richtig einstellen: Mehr Spaß beim Fußball­gucken](https://www.test.de/Fernseher-richtig-einstellen-Mehr-Spass-beim-Fussballgucken-6119038-0/ "Fernseher richtig einstellen - Mehr Spaß beim Fußballgucken")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
-* [Wunder­sames aus dem Prüf­labor: Tauchtunnel](https://www.test.de/Wundersames-aus-dem-Prueflabor-Tauchtunnel-6145086-0/ "Wundersames aus dem Prüflabor - Tauchtunnel")
-* [Warn­liste: Nicht in Westen Invest investieren](https://www.test.de/Warnliste-Nicht-in-Westen-Invest-investieren-5997655-0/ "Warnliste - Nicht in Westen Invest investieren")
-* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Frag Finanztest: Jetzt noch in offene Immobilienfonds investieren?](https://www.test.de/Wie-investiere-ich-in-offene-Immobilienfonds-6133384-0/ "Frag Finanztest - Jetzt noch in offene Immobilienfonds investieren?")
+* [Fernseher richtig einstellen: Mehr Spaß beim Fußball­gucken](https://www.test.de/Fernseher-richtig-einstellen-Mehr-Spass-beim-Fussballgucken-6119038-0/ "Fernseher richtig einstellen - Mehr Spaß beim Fußballgucken")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ernährung in den Wechsel­jahren: Weniger, dafür besser essen](https://www.test.de/Ernaehrung-in-den-Wechseljahren-Weniger-dafuer-besser-essen-6094439-0/ "Ernährung in den Wechseljahren - Weniger, dafür besser essen")
-* [Wunder­sames aus dem Prüf­labor: Tauchtunnel](https://www.test.de/Wundersames-aus-dem-Prueflabor-Tauchtunnel-6145086-0/ "Wundersames aus dem Prüflabor - Tauchtunnel")
-* [Warn­liste: Nicht in Westen Invest investieren](https://www.test.de/Warnliste-Nicht-in-Westen-Invest-investieren-5997655-0/ "Warnliste - Nicht in Westen Invest investieren")
-* [Energetische Sanierung: Modernisieren Sie richtig – mit unseren Experten-Tipps](https://www.test.de/Energetische-Sanierung-Modernisierung-richtig-anpacken-fuenf-Tipps-6092611-0/ "Energetische Sanierung - Modernisieren Sie richtig – mit unseren Experten-Tipps")
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Frag Finanztest: Jetzt noch in offene Immobilienfonds investieren?](https://www.test.de/Wie-investiere-ich-in-offene-Immobilienfonds-6133384-0/ "Frag Finanztest - Jetzt noch in offene Immobilienfonds investieren?")
+* [Fernseher richtig einstellen: Mehr Spaß beim Fußball­gucken](https://www.test.de/Fernseher-richtig-einstellen-Mehr-Spass-beim-Fussballgucken-6119038-0/ "Fernseher richtig einstellen - Mehr Spaß beim Fußballgucken")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
+* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
+* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
 
 Stiftung Warentest
 
