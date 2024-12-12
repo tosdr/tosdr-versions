@@ -226,9 +226,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [Statement on FTC’s Win in Lawsuit Against the Makers of Dietary Supplement Prevagen](https://www.ftc.gov/news-events/news/press-releases/2024/12/statement-ftcs-win-lawsuit-against-makers-dietary-supplement-prevagen)
+    ### [FTC and DOJ Withdraw Guidelines for Collaboration Among Competitors](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-doj-withdraw-guidelines-collaboration-among-competitors)
     
-    December 10, 2024
+    December 11, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
