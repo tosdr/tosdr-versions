@@ -205,28 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Every Review Of Ghostbusters You Will Read This Week](https://www.somethingawful.com/news/every-ghostbusters-review/)
-* [Teen Help, Hoobastank, Che Lives, and Uber Form of Forum](https://www.somethingawful.com/weekend-web/teen-help-hoobastank/1/)
-* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [Old Meets New](https://www.somethingawful.com/comedy-goldmine/old-meets-new/1/)
 * [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [Children's Letters to Frankenstein](https://www.somethingawful.com/news/letters-to-frankenstein/1/)
+* [Shopping Cart Safety Warnings](https://www.somethingawful.com/photoshop-phriday/shopping-cart-warnings/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [Why are the forums going down tonight?](http://forums.somethingawful.com/showthread.php?threadid=4077300 "Why are the forums going down tonight?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/school.png) [Is homeschooling artisanal child abuse?](http://forums.somethingawful.com/showthread.php?threadid=4077305 "Is homeschooling artisanal child abuse?")
-* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Ideas to make the Something Awful Forums really "pop" in 2025](http://forums.somethingawful.com/showthread.php?threadid=4077252 "Ideas to make the Something Awful Forums really "pop" in 2025")
 * ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [What do you consider the MVP of tools?](http://forums.somethingawful.com/showthread.php?threadid=4077325 "What do you consider the MVP of tools?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/school.png) [Is homeschooling artisanal child abuse?](http://forums.somethingawful.com/showthread.php?threadid=4077305 "Is homeschooling artisanal child abuse?")
 * ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Yellow banner](http://forums.somethingawful.com/showthread.php?threadid=4077290 "Yellow banner")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [Why are the forums going down tonight?](http://forums.somethingawful.com/showthread.php?threadid=4077300 "Why are the forums going down tonight?")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [looking for cobblers plz](http://forums.somethingawful.com/showthread.php?threadid=4077326 "looking for cobblers plz")
 
 ### Random Articles
 
-* [Final Fantasy 9 (PSX)](https://www.somethingawful.com/game-reviews/final-fantasy-psx/1/)
-* [Dinosaurs in ancient Cambodian temple](https://www.somethingawful.com/awful-links/awful-link-4404/)
-* [A Brief History of Skull Island](https://www.somethingawful.com/news/skull-island-history/1/)
-* [The Chinese are on the right track](https://www.somethingawful.com/news/chinese-on-right/)
-* [Zelda CD-i Remix](https://www.somethingawful.com/flash-tub/zelda-cdi-remix/)
+* [Extreme Enunciation Expo](https://www.somethingawful.com/webcam-ward/konami-e3-rant/)
+* [Review: Fear the Walking Dead](https://www.somethingawful.com/news/fear-walking-dead/)
+* [Penis Gym (Thanks, change my name!)](https://www.somethingawful.com/awful-links/penis-enlargement-gym/)
+* [Draw-A-Dog Tuesday!](https://www.somethingawful.com/comedy-goldmine/draw-dog-tuesday/1/)
+* [Hoarding Judge Sheet](https://www.somethingawful.com/news/hoarders/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
