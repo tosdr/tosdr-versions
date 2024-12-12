@@ -322,15 +322,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The curse of the Defense Against the Dark Arts position was inspired by the Spinal Tap drummers dying in bizarre circumstances.
+Culpeper’s Herbal, a book written in London in 1652 that categorizes herbs and their medical uses, served as inspiration for herbology.
 
 ### Potter History
 
-November 16, 2010 – The Harry Potter and the Deathly Hallows – Part 1 video game is released in North America.
+January 11, 2006 – It is announced that the Harry Potter and the Goblet of Fire DVD will be available on March 7, 2006.
 
 ### Potter Quote
 
-“It was necessary. He’s extremely powerful. We’ve had to change his guard three times – he’s very… persuasive. So we removed his tongue.”
+“I suggest you both go up to Madam Pomfrey. She is already tending to Miss Fawcett, of Ravenclaw, and Mr. Summers, of Hufflepuff, both of whom decided to age themselves up a little too. Though I must say, neither of their beards is anything like as fine as yours.”
 
 [](#)
 
