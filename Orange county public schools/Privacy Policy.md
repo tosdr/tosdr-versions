@@ -563,7 +563,7 @@ Terms of Use
 
 [History](http://anniversary.ocps.net/cms/One.aspx?portalId=1206398&pageId=1206420)
 
-[Pocket Guide](http://issuu.com/orangecountypublicschools/docs/pocket_guide_web_23-24?fr=xKAE9_zU1NQ)
+[Pocket Guide](http://issuu.com/orangecountypublicschools/docs/pocket_guide_layout_24-25?fr=sMTgxZDc3NjI1NDA)
 
 [Sitemap](https://www.ocps.net/cms/One.aspx?portalId=54703&pageId=115120)
 
