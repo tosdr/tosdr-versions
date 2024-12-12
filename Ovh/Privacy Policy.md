@@ -48,6 +48,8 @@ Open menu
     
     *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/de.svg) Deutschland \[€\]](#)
         
+    *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/es.svg) España \[€\]](#)
+        
     *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/fr.svg) France \[€\]](#)
         
     *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/en-ie.svg) Ireland \[€\]](#)
@@ -57,6 +59,8 @@ Open menu
     *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/nl.svg) Nederland \[€\]](#)
         
     *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/pl.svg) Polska \[PLN\]](#)
+        
+    *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/pt-pt.svg) Portugal \[€\]](#)
         
     *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/en-gb.svg) United Kingdom \[£\]](#)
         
@@ -69,7 +73,7 @@ Open menu
         
     *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/en-us.svg) United States \[$\]](#)
         
-    *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/es-419.svg) España \[€\]](#)
+    *  [![](/7af16cdb/contrib/ovh_theme_patternlab/images/language-switcher/flags/es-419.svg) América Latina \[$\]](#)
         
     
     Africa
