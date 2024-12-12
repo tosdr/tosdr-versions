@@ -448,13 +448,13 @@ Glenn Buchheit
 
 [\[email protected\]](https://www.voipsupply.com/cdn-cgi/l/email-protection)
 
-[![Plus 1 Refresh Warranty](https://www.voipsupply.com/media/version1733280500/wysiwyg/Plus1SIDE.png)](https://www.voipsupply.com/plus-six-warranty)
-
-[![VoIP cloud service and cloud phone systems](https://www.voipsupply.com/media/version1733280500/wysiwyg/voip-cloud-service-quote.png)](https://www.voipsupply.com/cloudspan)
-
 [![Let us program your phone!](https://www.voipsupply.com/media/version1733280500/wysiwyg/ProvisioningSidebar2.png)](https://www.voipsupply.com/request-info-for-voip-phone-pbx-provisioning)
 
 [![Browse our VoIP Buyer's Guides](https://www.voipsupply.com/media/version1733280500/wysiwyg/banners/buyer_s_guide_side_banner_creative.png)](https://www.voipsupply.com/voip-buyers-guides)
+
+[![Plus 1 Refresh Warranty](https://www.voipsupply.com/media/version1733280500/wysiwyg/Plus1SIDE.png)](https://www.voipsupply.com/plus-six-warranty)
+
+[![VoIP cloud service and cloud phone systems](https://www.voipsupply.com/media/version1733280500/wysiwyg/voip-cloud-service-quote.png)](https://www.voipsupply.com/cloudspan)
 
 **VoIP Supply Programs and Tools**
 
