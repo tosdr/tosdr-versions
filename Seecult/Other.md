@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-2007/2008/34-g.jpg?itok=2rXUySqv)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20072008)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20062007/jelena-stojanovic/jelena-stojanovic-1.jpg?itok=w-7tMi0w)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20062007/jelena)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/massimo-savic/img-9704.jpg?itok=dThb2wRa)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/massimo-savi%C4%87)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/glastonberi-2007/gogol-bordello.jpg?itok=38bnVKGj)](http://seecult.org/galerija/foto-galerija/foto-arhiva/glastonberi-2007)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
