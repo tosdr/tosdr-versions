@@ -23,7 +23,7 @@
 * [FAQ](https://telegram.org/faq)
 * [Apps](https://telegram.org/apps)
 * [API](https://core.telegram.org/api)
-* [Protocol](https://core.telegram.org/mtproto)
+* [Moderation](https://telegram.org/moderation)
 
 Telegram Privacy Policy
 =======================
@@ -405,8 +405,6 @@ Telegram is a cloud-based mobile and desktop messaging app with a focus on secur
 
 ##### [Blog](https://telegram.org/blog)
 
-##### [Apps](https://telegram.org/apps)
-
-##### [Platform](https://core.telegram.org/)
-
 ##### [Press](https://telegram.org/press)
+
+##### [Moderation](https://telegram.org/moderation)
