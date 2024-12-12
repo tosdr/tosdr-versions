@@ -140,7 +140,7 @@ Complete Checkout
     * [FAQ](https://magicalbutter.com/pages/faq)
     
 * [Log in](https://magicalbutter.com/customer_authentication/redirect?locale=en&region_country=US)
-* [Create account](https://account.magicalbutter.com/?locale=en)
+* [Create account](https://account.magicalbutter.com/?locale=en&region_country=US&consent=s0s0)
 * Currency
     
     Currency
