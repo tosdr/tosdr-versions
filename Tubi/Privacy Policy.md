@@ -1,6 +1,6 @@
 Menu Icon
 
-[Tubi logo](https://tubitv.com/home)
+[Tubi logo](https://tubitv.com/)
 
 [BrowseArrowhead Down Icon](https://tubitv.com/categories)[Movies](https://tubitv.com/movies)[TV Shows](https://tubitv.com/tv-shows)[Live TV](https://tubitv.com/live)EspañolTubi Kids
 
@@ -13,7 +13,7 @@ Privacy
 
 Spinner
 
-[Tubi logo](https://tubitv.com/home)
+[Tubi logo](https://tubitv.com/)
 
 Slash
 
@@ -60,6 +60,6 @@ Copyright © 2024 Tubi, Inc.
 Tubi is a registered trademark of Tubi, Inc.  
 All rights reserved.
 
-Device ID: d6f60fde-f6dd-4290-ba05-73fc4490d4cd
+Device ID: ed2d7087-6f16-4fca-9e1c-3e44751ee722
 
 Made with Heart in San Francisco
