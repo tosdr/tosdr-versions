@@ -401,35 +401,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![President-elect Donald Trump says Kari Lake will be Voice of America Director](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/12/32/18/gettyimages-2182969258-scaled.jpg?ve=1&tl=1)
+ [![Plano girl hurt in hit-and-run crash while walking to school](https://images.foxtv.com/c107833-mcdn.mp.lura.live/expiretime=2082787200/91e573017238c919d85ea3877588ef9ff3c16035f5e77b7a6c1fda24f233130f/iupl/637/DF5/32/18/637DF5D125B4CDB63A22CFF31646B02F.jpg?ve=1&tl=1)
 
- ![President-elect Donald Trump says Kari Lake will be Voice of America Director](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/12/32/18/592/333/gettyimages-2182969258-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/president-elect-donald-trump-says-kari-lake-will-be-voice-america-director)
+ ![Plano girl hurt in hit-and-run crash while walking to school](https://images.foxtv.com/images.foxtv.com/c107833-mcdn.mp.lura.live/expiretime=2082787200/91e573017238c919d85ea3877588ef9ff3c16035f5e77b7a6c1fda24f233130f/iupl/637/DF5/32/18/592/333/637DF5D125B4CDB63A22CFF31646B02F.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plano-girl-hurt-hit-and-run-crash-while-walking-school)
 
-### [Trump announces Kari Lake's next role](https://www.fox4news.com/news/president-elect-donald-trump-says-kari-lake-will-be-voice-america-director)
+### [Plano girl hurt in hit-and-run crash while walking to school](https://www.fox4news.com/news/plano-girl-hurt-hit-and-run-crash-while-walking-school)
 
- [![Trump named Time's 'Person of the Year'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/donald-trump-person-of-the-year.jpg?ve=1&tl=1)
+ [![State Fair of Texas specialty license plates approved by TxDMV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/state-fair-license-plate.jpg?ve=1&tl=1)
 
- ![Trump named Time's 'Person of the Year'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/donald-trump-person-of-the-year.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/time-names-trump-person-of-year)
+ ![State Fair of Texas specialty license plates approved by TxDMV](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/state-fair-license-plate.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/state-fair-texas-specialty-license-plates-approved-txdmv)
 
-### [Trump named Time's 'Person of the Year'](https://www.fox4news.com/news/time-names-trump-person-of-year)
+### [State Fair of Texas specialty license plates approved by TxDMV](https://www.fox4news.com/news/state-fair-texas-specialty-license-plates-approved-txdmv)
 
- [![Biden commutes 1,500 sentences and pardons 39 people, a single-day record](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/joe-biden-pardons.jpg?ve=1&tl=1)
+ [![President Joe Biden's pardons: List](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/gettyimages-2186820758.jpg?ve=1&tl=1)
 
- ![Biden commutes 1,500 sentences and pardons 39 people, a single-day record](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/joe-biden-pardons.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biden-commutes-sentences-issues-pardons)
+ ![President Joe Biden's pardons: List](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/gettyimages-2186820758.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/president-joe-bidens-pardons-list)
 
-### [Biden commutes 1,500 sentences and pardons 39 people, a single-day record](https://www.fox4news.com/news/biden-commutes-sentences-issues-pardons)
+### [President Joe Biden's pardons: List](https://www.fox4news.com/news/president-joe-bidens-pardons-list)
 
- [![22-year-old Euless man shot and killed at apartment complex, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/07/32/18/ea9a80bd-police-tape-night.jpg?ve=1&tl=1)
+ [![LIVE: Man accused of murdering football player Du'Vonta Lampkin takes the stand](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/snapshot-4.jpg?ve=1&tl=1)
 
- ![22-year-old Euless man shot and killed at apartment complex, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/07/32/18/592/333/ea9a80bd-police-tape-night.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/alexander-borras-shot)
+ ![LIVE: Man accused of murdering football player Du'Vonta Lampkin takes the stand](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/snapshot-4.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/duvonta-lampkin-murder-trial-antwan-franklin-day-2)
 
-### [22-year-old Euless man shot and killed at apartment complex, police say](https://www.fox4news.com/news/alexander-borras-shot)
+Live Now
 
- [![Pedestrian hit and killed on I-30 in Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/121124-i30-tx-dot-fatal-crash-kdfweme003_21_27_14__00.05.28.42.jpg?ve=1&tl=1)
+### [LIVE: Man accused of murdering football player Du'Vonta Lampkin takes the stand](https://www.fox4news.com/news/duvonta-lampkin-murder-trial-antwan-franklin-day-2)
 
- ![Pedestrian hit and killed on I-30 in Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/121124-i30-tx-dot-fatal-crash-kdfweme003_21_27_14__00.05.28.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pedestrian-hit-killed-i-30-dallas)
+ [![2024 Nikon Comedy Wildlife Awards winner is a squirrel in a precarious position](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/1.-overall-winner-and-mammal-category-winner_milko-marchetti_stuck-squirrel-scaled.jpg?ve=1&tl=1)
 
-### [Pedestrian hit and killed on I-30 in Dallas](https://www.fox4news.com/news/pedestrian-hit-killed-i-30-dallas)
+ ![2024 Nikon Comedy Wildlife Awards winner is a squirrel in a precarious position](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/1.-overall-winner-and-mammal-category-winner_milko-marchetti_stuck-squirrel-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-nikon-comedy-wildlife-awards-winners)
+
+### [Squirrel in precarious position is this year's Nikon Comedy Wildlife Awards winner](https://www.fox4news.com/news/2024-nikon-comedy-wildlife-awards-winners)
 
 ###### [News](https://www.fox4news.com/news)
 
