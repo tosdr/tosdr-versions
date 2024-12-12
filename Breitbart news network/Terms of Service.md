@@ -1,6 +1,8 @@
 * [Enable Accessibility](#)
 * [Skip to Content](#ContainerW)
 
+[Chris Wray Confirms He's Resigning Before Trump Takes Office](https://www.breitbart.com/politics/2024/12/11/fbi-director-christopher-wray-makes-it-official-announces-resignation-ahead-trumps-term/?utm_source=breaking_news&utm_medium=banner)
+
 * [Politics](https://www.breitbart.com/politics/)
 * [Entertainment](https://www.breitbart.com/entertainment/)
 * [Media](https://www.breitbart.com/the-media/)
