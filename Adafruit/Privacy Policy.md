@@ -81,21 +81,21 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
-    ![Angled Shot of the Adafruit A4988 Stepper Motor Driver Breakout Board.](https://cdn-shop.adafruit.com/310x233/6109-00.jpg)[Adafruit A4988 Stepper Motor Driver Breakout Board
+    ![Demo Shot of the Skull shaped filament lights 2.8~3.2V Powered On.](https://cdn-shop.adafruit.com/310x233/6095-00.jpg)[Skull LED Filament
     
-    $6.95](https://www.adafruit.com/product/6109)
+    $4.95](https://www.adafruit.com/product/6095)
     
-    ![Angled Shot of the Raspberry Pi 512GB SSD.](https://cdn-shop.adafruit.com/310x233/6089-00.jpg)[Raspberry Pi NVMe SSD - 512GB
+    ![Demo Shot of the Unicorn LED Filament Powered On.](https://cdn-shop.adafruit.com/310x233/6094-00.jpg)[Unicorn LED Filament
     
-    $45.00](https://www.adafruit.com/product/6089)
+    $2.95](https://www.adafruit.com/product/6094)
     
-    ![Angled Shot of the Adafruit AHT20 Temp+Hum Sensor - Assembled PCB](https://cdn-shop.adafruit.com/310x233/4566-04.jpg)[Adafruit AHT20 - Temperature & Humidity Sensor Breakout Board
+    ![Demo Shot of the Snowflake LED Filament powered on.](https://cdn-shop.adafruit.com/310x233/6093-00.jpg)[Snowflake LED Filament
     
-    $4.50](https://www.adafruit.com/product/4566)
+    $2.95](https://www.adafruit.com/product/6093)
     
-    ![Demo Shot of the USB Micro B Small Round Panel Mount Extension USB Cable.](https://cdn-shop.adafruit.com/310x233/6068-04.jpg)[USB Micro B Small Round Panel Mount Extension USB Cable
+    ![Demo Shot of the Raspberry Pi Monitor (Red/White) with the Raspberry Pi 400 Desktop - Full Computer Kit.](https://cdn-shop.adafruit.com/310x233/6088-06.jpg)[Raspberry Pi Monitor - Red and White Colorway
     
-    $1.95](https://www.adafruit.com/product/6068)
+    $100.00](https://www.adafruit.com/product/6088)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -410,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ To be persuasive we must be believable; to be believable we must be credible; to be credible we must be truthful.”
+“ Do not train a child to learn by force or harshness; but direct them to it by what amuses their minds, so that you may be better able to discover with accuracy the peculiar bent of the genius of each”
 
-[Edward R. Murrow](https://en.wikipedia.org/wiki/Edward_R._Murrow)
+[Plato](http://en.wikipedia.org/wiki/Plato)
 
 [](https://www.adafruit.com/about)
 
