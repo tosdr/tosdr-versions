@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/eu-juncker-dwarsboomde-anti-belastingontduiking/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/illegaal-nederlands-bestuur/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
