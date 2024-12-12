@@ -480,9 +480,9 @@ Revised June 1, 2022
 
   [![Manabu Sasaki, who runs a painting company, is one of four suspects arrested on suspicion of murdering 56-year-old Osamu Takano.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439104.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Manabu Sasaki, who runs a painting company, is one of four suspects arrested on suspicion of murdering 56-year-old Osamu Takano.")](https://www.japantimes.co.jp/news/2024/12/10/japan/crime-legal/murder-railroad-crossing/ "Victim of alleged staged suicide was subjected to years of abuse")
 
-[Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP](https://www.japantimes.co.jp/business/2024/12/10/economy/keidanren-proposal-1-quadrillion-gdp/ "Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP")
+[South Korean police blocked from raid on president's office](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
 
-  [![Keidanren chief Masakazu Tokura speaks to reporters in the city of Nanao, Ishikawa Prefecture on Nov. 20.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439191.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Keidanren chief Masakazu Tokura speaks to reporters in the city of Nanao, Ishikawa Prefecture on Nov. 20.")](https://www.japantimes.co.jp/business/2024/12/10/economy/keidanren-proposal-1-quadrillion-gdp/ "Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP")
+  [![Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439573.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.")](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
 
 [‘Hayao Miyazaki and the Heron’ documentary meditates on auteur's creativity and legacy](https://www.japantimes.co.jp/culture/2024/12/11/film/hayao-miyazaki-and-the-heron/ "‘Hayao Miyazaki and the Heron’ documentary meditates on auteur's creativity and legacy")
 
@@ -492,10 +492,6 @@ Revised June 1, 2022
 
   [![Yurie Collins is a bilingual comedian based in Tokyo. In addition to being a prize-winning roast comic, her dating-themed "Tokyo Hoe Tales" shows have proven to be a hit with women of all nationalities. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438914.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yurie Collins is a bilingual comedian based in Tokyo. In addition to being a prize-winning roast comic, her dating-themed "Tokyo Hoe Tales" shows have proven to be a hit with women of all nationalities. ")](https://www.japantimes.co.jp/community/2024/12/10/our-lives/comedian-yurie-collins-roast/ "Yurie Collins: ‘Everyone seems sedated, fed-up … that’s why they turn to comedy’")
 
-[Russia tie-up sparks fears of modernized North Korean defense industry](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/russia-north-korea-defense-industry/ "Russia tie-up sparks fears of modernized North Korean defense industry")
-
-  [![North Korean leader Kim Jong Un and then-Russian Defense Minister Sergei Shoigu visit a defense exhibition in July last year.    ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439506.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "North Korean leader Kim Jong Un and then-Russian Defense Minister Sergei Shoigu visit a defense exhibition in July last year.    ")](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/russia-north-korea-defense-industry/ "Russia tie-up sparks fears of modernized North Korean defense industry")
-
 [As Japan nears new climate goal, criticism of policy process ramps up](https://www.japantimes.co.jp/environment/2024/12/10/climate-change/climate-policymaking-criticism/ "As Japan nears new climate goal, criticism of policy process ramps up")
 
   [![The government is preparing to set Japan’s new Nationally Determined Contribution, an emissions reduction commitment made by members of the United Nations climate framework's Paris Agreement.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/438907.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The government is preparing to set Japan’s new Nationally Determined Contribution, an emissions reduction commitment made by members of the United Nations climate framework's Paris Agreement.")](https://www.japantimes.co.jp/environment/2024/12/10/climate-change/climate-policymaking-criticism/ "As Japan nears new climate goal, criticism of policy process ramps up")
@@ -503,6 +499,10 @@ Revised June 1, 2022
 [Winter chill, hot baths and the risk of heat shock: How to stay safe](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
 
   [![A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439147.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.")](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
+
+[It’s Japan versus China for 2024’s game of the year](https://www.japantimes.co.jp/life/2024/12/06/digital/elden-ring-black-myth-wukong/ "It’s Japan versus China for 2024’s game of the year")
+
+  [![While FromSoftware's Elden Ring: Shadow of the Erdtree is a strong contender for game of the year, Black Myth: Wukong, the first AAA game made by a Chinese developer, offers some stiff competition.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438188.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "While FromSoftware's Elden Ring: Shadow of the Erdtree is a strong contender for game of the year, Black Myth: Wukong, the first AAA game made by a Chinese developer, offers some stiff competition.")](https://www.japantimes.co.jp/life/2024/12/06/digital/elden-ring-black-myth-wukong/ "It’s Japan versus China for 2024’s game of the year")
 
 Podcast
 -------
@@ -523,9 +523,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,17 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[BOJ said to see little cost to waiting for next rate hike](https://www.japantimes.co.jp/business/2024/12/12/boj-rate-hike-waiting/ "BOJ said to see little cost to waiting for next rate hike")
+[Japan aims to raise awareness of administrative consultation services](https://www.japantimes.co.jp/news/2024/12/12/japan/administrative-consultation-awareness/ "Japan aims to raise awareness of administrative consultation services")
 
-26 mins ago
+12 mins ago
 
-[Bain raises offer for Fuji Soft in $4.3 billion contest with KKR](https://www.japantimes.co.jp/business/2024/12/11/bain-fuji-43-billion-kkr/ "Bain raises offer for Fuji Soft in $4.3 billion contest with KKR")
+[Rise in pro-government 'fact checking' sparks concern in Europe](https://www.japantimes.co.jp/news/2024/12/12/world/politics/pro-government-fact-checking-concerns-europe/ "Rise in pro-government 'fact checking' sparks concern in Europe")
 
-[Organizers say 2026 Asian Games on track](https://www.japantimes.co.jp/sports/2024/12/11/asian-games-on-track/ "Organizers say 2026 Asian Games on track")
+36 mins ago
 
-[Japan retains strong results in OECD’s adult skills survey](https://www.japantimes.co.jp/news/2024/12/11/japan/society/oecd-adult-competencies/ "Japan retains strong results in OECD’s adult skills survey")
+[Argentina inflation hits four-year low as locals hope worst is over](https://www.japantimes.co.jp/business/2024/12/12/economy/argentina-inflation-four-year-low/ "Argentina inflation hits four-year low as locals hope worst is over")
 
-[Nippon Life to buy Resolution in $8.2 billion deal as it pursues U.S. growth](https://www.japantimes.co.jp/business/2024/12/11/companies/nippon-life-buys-resolution/ "Nippon Life to buy Resolution in $8.2 billion deal as it pursues U.S. growth")
+56 mins ago
+
+[Mazda’s Mexico investment to hinge on Trump’s tariff decisions](https://www.japantimes.co.jp/business/2024/12/12/companies/mazda-mexico-trump/ "Mazda’s Mexico investment to hinge on Trump’s tariff decisions")
+
+1 hour ago
+
+[Experts warn of more strong Noto Peninsula earthquakes](https://www.japantimes.co.jp/news/2024/12/12/japan/noto-earthquakes-warning/ "Experts warn of more strong Noto Peninsula earthquakes")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
