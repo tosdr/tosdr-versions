@@ -70,17 +70,16 @@ Menu
 3. Categories
     
     1. [Shop All](https://www.kiwico.com/us/store/cp/all)
-    2. [Advent Calendars](https://www.kiwico.com/advent)
-    3. [Holiday](https://www.kiwico.com/us/store/cp/kiwico-holiday-projects)
-    4. [Best Sellers](https://www.kiwico.com/us/store/cp/best-sellers)
-    5. [Stocking Stuffers](https://www.kiwico.com/us/store/cp/stocking-stuffers)
-    6. [Bundle & Save](https://www.kiwico.com/us/store/cp/kiwico-store-packs)
-    7. [Sale](https://www.kiwico.com/us/store/cp/sale)
-    8. [Science & Engineering](https://www.kiwico.com/us/store/cp/science-engineering)
-    9. [Art & Design](https://www.kiwico.com/us/store/cp/art-kits)
-    10. [Pretend Play](https://www.kiwico.com/us/store/cp/pretend-play-toys)
-    11. [Baby & Toddler](https://www.kiwico.com/us/store/cp/baby-and-toddler)
-    12. [Books](https://www.kiwico.com/us/store/cp/book-gift-sets)
+    2. [Best Sellers](https://www.kiwico.com/us/store/cp/best-sellers)
+    3. [Stocking Stuffers](https://www.kiwico.com/us/store/cp/stocking-stuffers)
+    4. [Bundle & Save](https://www.kiwico.com/us/store/cp/kiwico-store-packs)
+    5. [Holiday](https://www.kiwico.com/us/store/cp/kiwico-holiday-projects)
+    6. [Sale](https://www.kiwico.com/us/store/cp/sale)
+    7. [Science & Engineering](https://www.kiwico.com/us/store/cp/science-engineering)
+    8. [Art & Design](https://www.kiwico.com/us/store/cp/art-kits)
+    9. [Pretend Play](https://www.kiwico.com/us/store/cp/pretend-play-toys)
+    10. [Baby & Toddler](https://www.kiwico.com/us/store/cp/baby-and-toddler)
+    11. [Books](https://www.kiwico.com/us/store/cp/book-gift-sets)
     
 4. Gifting
     
