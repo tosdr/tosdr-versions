@@ -14,7 +14,9 @@ Search for:  Search
 
 Search
 
-[![Aeris](https://www.aeris.com/wp-content/uploads/2022/01/aeris-logo.svg)](https://www.aeris.com/)
+[![Aeris](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20200%2050'%3E%3C/svg%3E)
+
+![Aeris](https://www.aeris.com/wp-content/uploads/2022/01/aeris-logo.svg)](https://www.aeris.com/)
 
 * [Secure IoT Platforms](https://www.aeris.com/iot/)
     * * * [Secure IoT Platforms](https://www.aeris.com/iot/)
