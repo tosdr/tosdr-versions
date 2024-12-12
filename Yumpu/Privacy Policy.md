@@ -1,4 +1,4 @@
-[![logo](https://assets.yumpu.com/release/YPZdEOAZDAIU1ID/v5/img/logo/Yumpu_Logo_RGB.svg)](https://www.yumpu.com/en "Yumpu")
+[![logo](https://assets.yumpu.com/release/SApus3qj8HwmbKi/v5/img/logo/Yumpu_Logo_RGB.svg)](https://www.yumpu.com/en "Yumpu")
 
 [EN](#)
 
@@ -193,12 +193,7 @@ This privacy policy tells you how we collect information about you when you use 
     
     We use Mailgun for sending transactional emails. Mailgun may process personal data such as your name, email address, and other information contained in the emails we send. This data is used to deliver emails, track deliverability, and ensure compliance with legal requirements. For more information on how Mailgun processes data, please refer to Mailgun’s Privacy Policy ([www.mailgun.com/privacy-policy](https://www.mailgun.com/privacy-policy))
     
-9. Hotjar
-    ------
-    
-    Our website uses Hotjar to analyze user behavior through heatmaps and user recordings. This data helps us improve the user experience. For more information on how Hotjar processes data, please refer to [Hotjar's privacy policy](https://www.hotjar.com/legal/policies/privacy/).
-    
-10. Processing operations under shared responsibility; single point of contact.
+9. Processing operations under shared responsibility; single point of contact.
     ---------------------------------------------------------------------------
     
     The processing operations for which we are jointly responsible with the other controllers include the following:
@@ -215,7 +210,7 @@ This privacy policy tells you how we collect information about you when you use 
     
     The Joint Controllers have also agreed that i-mag, as Publisher of the Website, will act as a single point of contact for the exercise of data subjects' rights against all Joint Controllers.
     
-11. Your rights
+10. Your rights
     -----------
     
     In principle, you have the right to information, correction, deletion, being forgotten, restriction, data transferability, revocation and opposition. If you believe that the processing of your data violates the data protection law or your data protection claims have otherwise been violated in any way, you can complain to the supervisory authority. Of course, you also have the right to complain directly to a supervisory authority at your place of residence or at our company headquarters in Diepoldsau. However, we would ask you to contact us first. Misunderstandings or problems can certainly be solved most quickly in this way.
@@ -225,9 +220,9 @@ This privacy policy tells you how we collect information about you when you use 
         E-Mail: [privacy@yumpu.com](mailto:privacy@yumpu.com)  
         In the event of contradictions between the English and German versions of the Privacy Policy, only the German version shall be authoritative.
 
-Last update: 2024-08-29.
+Last update: 2024-12-05.
 
-![logo](https://assets.yumpu.com/release/YPZdEOAZDAIU1ID/v5/img/logo/yumpu-footer.svg)
+![logo](https://assets.yumpu.com/release/SApus3qj8HwmbKi/v5/img/logo/yumpu-footer.svg)
 
 [](https://www.facebook.com/yumpunews "Facebook")[](https://twitter.com/yumpu_com "Twitter")[](https://www.pinterest.com/yumpucom "Pinterest")[](https://www.youtube.com/user/yumpucom "Youtube")[](https://vimeo.com/yumpucom "Vimeo")
 
