@@ -326,14 +326,25 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 
 [](https://linear.app/)
 
+### Features
+
+* [Plan](https://linear.app/plan)
+* [Build](https://linear.app/build)
+* [Insights](https://linear.app/features/insights)
+* [Customer Requests](https://linear.app/customer-requests)
+* [Linear Asks](https://linear.app/features/asks)
+* [Security](https://linear.app/security)
+* [Mobile](https://linear.app/mobile)
+
 ### Product
 
-* [Features](https://linear.app/features)
-* [Integrations](https://linear.app/integrations)
 * [Pricing](https://linear.app/pricing)
+* [Method](https://linear.app/method)
+* [Integrations](https://linear.app/integrations)
 * [Changelog](https://linear.app/changelog)
-* [Docs](https://linear.app/docs)
+* [Documentation](https://linear.app/docs)
 * [Download](https://linear.app/download)
+* [Switch](https://linear.app/switch)
 
 ### Company
 
@@ -341,33 +352,26 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [Customers](https://linear.app/customers)
 * [Careers](https://linear.app/careers)
 * [Blog](https://linear.app/blog)
-* [Method](https://linear.app/method)
 * [README](https://linear.app/readme)
 * [Brand](https://linear.app/brand)
 
 ### Resources
 
-* [Switch](https://linear.app/switch)
+* [API](https://developers.linear.app/)
+* [Status](https://linearstatus.com/)
 * [Startups](https://linear.app/startups)
-* [Community](https://linear.app/join-slack)
+* [Report issue](https://linear.app/security/vulnerability)
 * [DPA](https://linear.app/dpa)
 * [Privacy](https://linear.app/privacy)
 * [Terms](https://linear.app/terms)
-* [Report issue](https://linear.app/security/vulnerability)
-
-### Developers
-
-* [API](https://developers.linear.app/)
-* [Status](https://linearstatus.com/)
-* [GitHub](https://github.com/linear)
 
 ### Connect
 
-* [Contact](https://linear.app/contact)
+* [Contact us](https://linear.app/contact)
+* [Community](https://linear.app/join-slack)
 * [X (Twitter)](https://x.com/linear)
-* [Slack](https://linear.app/join-slack)
-* [YouTube](https://www.youtube.com/@LinearApp)
 * [GitHub](https://github.com/linear)
+* [YouTube](https://www.youtube.com/@LinearApp)
 
 * [](https://linear.app/homepage)
 * Features[Features](https://linear.app/features)
@@ -1045,14 +1049,25 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 
 [](https://linear.app/)
 
+### Features
+
+* [Plan](https://linear.app/plan)
+* [Build](https://linear.app/build)
+* [Insights](https://linear.app/features/insights)
+* [Customer Requests](https://linear.app/customer-requests)
+* [Linear Asks](https://linear.app/features/asks)
+* [Security](https://linear.app/security)
+* [Mobile](https://linear.app/mobile)
+
 ### Product
 
-* [Features](https://linear.app/features)
-* [Integrations](https://linear.app/integrations)
 * [Pricing](https://linear.app/pricing)
+* [Method](https://linear.app/method)
+* [Integrations](https://linear.app/integrations)
 * [Changelog](https://linear.app/changelog)
-* [Docs](https://linear.app/docs)
+* [Documentation](https://linear.app/docs)
 * [Download](https://linear.app/download)
+* [Switch](https://linear.app/switch)
 
 ### Company
 
@@ -1060,42 +1075,46 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [Customers](https://linear.app/customers)
 * [Careers](https://linear.app/careers)
 * [Blog](https://linear.app/blog)
-* [Method](https://linear.app/method)
 * [README](https://linear.app/readme)
 * [Brand](https://linear.app/brand)
 
 ### Resources
 
-* [Switch](https://linear.app/switch)
+* [API](https://developers.linear.app/)
+* [Status](https://linearstatus.com/)
 * [Startups](https://linear.app/startups)
-* [Community](https://linear.app/join-slack)
+* [Report issue](https://linear.app/security/vulnerability)
 * [DPA](https://linear.app/dpa)
 * [Privacy](https://linear.app/privacy)
 * [Terms](https://linear.app/terms)
-* [Report issue](https://linear.app/security/vulnerability)
-
-### Developers
-
-* [API](https://developers.linear.app/)
-* [Status](https://linearstatus.com/)
-* [GitHub](https://github.com/linear)
 
 ### Connect
 
-* [Contact](https://linear.app/contact)
+* [Contact us](https://linear.app/contact)
+* [Community](https://linear.app/join-slack)
 * [X (Twitter)](https://x.com/linear)
-* [Slack](https://linear.app/join-slack)
-* [YouTube](https://www.youtube.com/@LinearApp)
 * [GitHub](https://github.com/linear)
+* [YouTube](https://www.youtube.com/@LinearApp)
+
+### Features
+
+* [Plan](https://linear.app/plan)
+* [Build](https://linear.app/build)
+* [Insights](https://linear.app/features/insights)
+* [Customer Requests](https://linear.app/customer-requests)
+* [Linear Asks](https://linear.app/features/asks)
+* [Security](https://linear.app/security)
+* [Mobile](https://linear.app/mobile)
 
 ### Product
 
-* [Features](https://linear.app/features)
-* [Integrations](https://linear.app/integrations)
 * [Pricing](https://linear.app/pricing)
+* [Method](https://linear.app/method)
+* [Integrations](https://linear.app/integrations)
 * [Changelog](https://linear.app/changelog)
-* [Docs](https://linear.app/docs)
+* [Documentation](https://linear.app/docs)
 * [Download](https://linear.app/download)
+* [Switch](https://linear.app/switch)
 
 ### Company
 
@@ -1103,30 +1122,23 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [Customers](https://linear.app/customers)
 * [Careers](https://linear.app/careers)
 * [Blog](https://linear.app/blog)
-* [Method](https://linear.app/method)
 * [README](https://linear.app/readme)
 * [Brand](https://linear.app/brand)
 
 ### Resources
 
-* [Switch](https://linear.app/switch)
+* [API](https://developers.linear.app/)
+* [Status](https://linearstatus.com/)
 * [Startups](https://linear.app/startups)
-* [Community](https://linear.app/join-slack)
+* [Report issue](https://linear.app/security/vulnerability)
 * [DPA](https://linear.app/dpa)
 * [Privacy](https://linear.app/privacy)
 * [Terms](https://linear.app/terms)
-* [Report issue](https://linear.app/security/vulnerability)
-
-### Developers
-
-* [API](https://developers.linear.app/)
-* [Status](https://linearstatus.com/)
-* [GitHub](https://github.com/linear)
 
 ### Connect
 
-* [Contact](https://linear.app/contact)
+* [Contact us](https://linear.app/contact)
+* [Community](https://linear.app/join-slack)
 * [X (Twitter)](https://x.com/linear)
-* [Slack](https://linear.app/join-slack)
-* [YouTube](https://www.youtube.com/@LinearApp)
 * [GitHub](https://github.com/linear)
+* [YouTube](https://www.youtube.com/@LinearApp)
