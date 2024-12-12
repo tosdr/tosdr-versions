@@ -259,6 +259,22 @@ Advertise with Us
 
 Most Popular
 
+[![Throwback Thursday: Partytime out and about with the Derry News (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about with the Derry News (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1678368/throwback-thursday-partytime-out-and-about-with-the-derry-news-2009.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Thursday: Partytime out and about with the Derry News (2009)](https://www.derrynow.com/story-telling/pictures---videos/1678368/throwback-thursday-partytime-out-and-about-with-the-derry-news-2009.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Search stood down for teenage girl who was missing nearly three weeks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Search stood down for teenage girl who was missing nearly three weeks")](https://www.derrynow.com/news/national-news/1678800/search-stood-down-for-teenage-girl-who-was-missing-nearly-three-weeks.html)
+
+An Garda Síochána would like to thank the media and the public for their assistance.
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Search stood down for teenage girl who was missing nearly three weeks](https://www.derrynow.com/news/national-news/1678800/search-stood-down-for-teenage-girl-who-was-missing-nearly-three-weeks.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Three people hospitalised following serious crash between bus and car in Donegal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Three people hospitalised following serious crash between bus and car in Donegal")](https://www.derrynow.com/news/local-news/1678225/three-people-hospitalised-following-serious-crash-between-bus-and-car-in-donegal.html)
 
 The scene at Manorcunningham. Photo: NW Newspix
@@ -277,15 +293,6 @@ The annual burning of the effigy was postponed due to high winds because of Sto
 [Apprentice Boys to burn Lundy in Derry city centre tonight](https://www.derrynow.com/news/local-news/1678352/apprentice-boys-to-burn-lundy-in-derry-city-centre-tonight.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man branded 'a danger to the community' remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man branded 'a danger to the community' remanded")](https://www.derrynow.com/news/local-news/1678051/derry-man-branded-a-danger-to-the-community-remanded.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man branded 'a danger to the community' remanded](https://www.derrynow.com/news/local-news/1678051/derry-man-branded-a-danger-to-the-community-remanded.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Arrest warrant issued for Derry man who failed to appear in court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Arrest warrant issued for Derry man who failed to appear in court")](https://www.derrynow.com/news/local-news/1678113/arrest-warrant-issued-for-derry-man-who-failed-to-appear-in-court.html)
 
 Derry Magistrates' Court
@@ -295,44 +302,21 @@ Derry Magistrates' Court
 [Arrest warrant issued for Derry man who failed to appear in court](https://www.derrynow.com/news/local-news/1678113/arrest-warrant-issued-for-derry-man-who-failed-to-appear-in-court.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Fisherman and father-of-three remembered as 'true gentleman' following tragic fall from boat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fisherman and father-of-three remembered as 'true gentleman' following tragic fall from boat")](https://www.derrynow.com/news/national-news/1678017/fisherman-and-father-of-three-remembered-as-true-gentleman-following-tragic-fall-from-boat.html)
+[![Christmas comes early for EuroMillions Plus player who claimed top prize](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Christmas comes early for EuroMillions Plus player who claimed top prize")](https://www.derrynow.com/news/national-news/1678781/christmas-comes-early-for-euromillions-plus-player-who-claimed-top-prize.html)
+
+Play National Lottery games responsibly, play for fun.     
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Fisherman and father-of-three remembered as 'true gentleman' following tragic fall from boat](https://www.derrynow.com/news/national-news/1678017/fisherman-and-father-of-three-remembered-as-true-gentleman-following-tragic-fall-from-boat.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Christmas comes early for EuroMillions Plus player who claimed top prize](https://www.derrynow.com/news/national-news/1678781/christmas-comes-early-for-euromillions-plus-player-who-claimed-top-prize.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Christmas comes early for Derry City as Shane Ferguson signs for the Candystripes](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Christmas comes early for Derry City as Shane Ferguson signs for the Candystripes")](https://www.derrynow.com/news/sport/1677861/christmas-comes-early-for-derry-city-as-shane-ferguson-signs-for-the-candystripes.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1678369/derry-death-notices-thursday-december-12-2024.html)
 
-Derry City’s Shane Ferguson has signed up for the 2025 season. PHOTO: Kevin Morrison.
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Sport](https://www.derrynow.com/section/976/sport)
-
-[Christmas comes early for Derry City as Shane Ferguson signs for the Candystripes](https://www.derrynow.com/news/sport/1677861/christmas-comes-early-for-derry-city-as-shane-ferguson-signs-for-the-candystripes.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry woman charged with breaching bail conditions remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with breaching bail conditions remanded")](https://www.derrynow.com/news/local-news/1678082/derry-woman-charged-with-breaching-bail-conditions-remanded.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman charged with breaching bail conditions remanded](https://www.derrynow.com/news/local-news/1678082/derry-woman-charged-with-breaching-bail-conditions-remanded.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Charity decides to reopen Limavady shop days after closing](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Charity decides to reopen Limavady shop days after closing")](https://www.derrynow.com/news/county-derry-post/1678083/charity-decides-to-reopen-limavady-shop-days-after-closing.html)
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Charity decides to reopen Limavady shop days after closing](https://www.derrynow.com/news/county-derry-post/1678083/charity-decides-to-reopen-limavady-shop-days-after-closing.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police investigating possible arson attack in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigating possible arson attack in Derry")](https://www.derrynow.com/news/local-news/1677954/police-investigating-possible-arson-attack-in-derry.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police investigating possible arson attack in Derry](https://www.derrynow.com/news/local-news/1677954/police-investigating-possible-arson-attack-in-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Thursday, December 12, 2024](https://www.derrynow.com/news/deaths/1678369/derry-death-notices-thursday-december-12-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Anyone speeding in excess of 100mph will face an immediate disqualification - Derry judge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Anyone speeding in excess of 100mph will face an immediate disqualification - Derry judge")](https://www.derrynow.com/news/local-news/1678191/anyone-speeding-in-excess-of-100mph-will-face-an-immediate-disqualification-derry-judge.html)
 
@@ -343,11 +327,43 @@ Derry Magistrates' Court
 [Anyone speeding in excess of 100mph will face an immediate disqualification - Derry judge](https://www.derrynow.com/news/local-news/1678191/anyone-speeding-in-excess-of-100mph-will-face-an-immediate-disqualification-derry-judge.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![BREAKING: Man arrested on suspicion of murdering Kyran Durnin](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "BREAKING: Man arrested on suspicion of murdering Kyran Durnin")](https://www.derrynow.com/news/national-news/1678899/breaking-man-arrested-on-suspicion-of-murdering-kyran-durnin.html)
+
+There has been no confirmed sighting of Kyran Durnin since May of 2022.
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[BREAKING: Man arrested on suspicion of murdering Kyran Durnin](https://www.derrynow.com/news/national-news/1678899/breaking-man-arrested-on-suspicion-of-murdering-kyran-durnin.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ireland's most generous counties revealed in new Christmas spending list](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ireland's most generous counties revealed in new Christmas spending list")](https://www.derrynow.com/news/national-news/1678187/ireland-s-most-generous-counties-revealed-in-new-christmas-spending-list.html)
+
+A survey by Paypal reveals Kildare, Meath and Carlow expected to spend the most on Christmas gifts this festive season PIC: Pixabay
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Ireland's most generous counties revealed in new Christmas spending list](https://www.derrynow.com/news/national-news/1678187/ireland-s-most-generous-counties-revealed-in-new-christmas-spending-list.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![Throwback Thursday: Partytime out and about with the Derry News (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about with the Derry News (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1678368/throwback-thursday-partytime-out-and-about-with-the-derry-news-2009.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Thursday: Partytime out and about with the Derry News (2009)](https://www.derrynow.com/story-telling/pictures---videos/1678368/throwback-thursday-partytime-out-and-about-with-the-derry-news-2009.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Trojans Youth and Community Group annual youth presentations](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Trojans Youth and Community Group annual youth presentations")](https://www.derrynow.com/story-telling/pictures---videos/1676473/in-pictures-trojans-youth-and-community-group-annual-youth-presentations.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Trojans Youth and Community Group annual youth presentations](https://www.derrynow.com/story-telling/pictures---videos/1676473/in-pictures-trojans-youth-and-community-group-annual-youth-presentations.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Festive cheer at annual St. Paul's PS Christmas Pensioners Dinner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Festive cheer at annual St. Paul's PS Christmas Pensioners Dinner")](https://www.derrynow.com/story-telling/pictures---videos/1676467/in-pictures-festive-cheer-at-annual-st-paul-s-ps-christmas-pensioners-dinner.html)
 
@@ -404,20 +420,6 @@ Multimedia
 
 [IN PICTURES: Christmas Craft Fair and Winter Wonderland held in Galliagh Hub](https://www.derrynow.com/story-telling/pictures---videos/1676469/in-pictures-christmas-craft-fair-and-winter-wonderland-held-in-galliagh-hub.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Inner City Trust Annual Christmas Giving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Inner City Trust Annual Christmas Giving")](https://www.derrynow.com/story-telling/pictures---videos/1674945/in-pictures-inner-city-trust-annual-christmas-giving.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Inner City Trust Annual Christmas Giving](https://www.derrynow.com/story-telling/pictures---videos/1674945/in-pictures-inner-city-trust-annual-christmas-giving.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1676620/throwback-tuesday-out-and-about-the-white-river-hotel-toome-2014.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)](https://www.derrynow.com/story-telling/pictures---videos/1676620/throwback-tuesday-out-and-about-the-white-river-hotel-toome-2014.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,53 +521,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1678369/derry-death-notices-thursday-december-12-2024.html)
+[![Self confessed drug dealer jailed for 26 months at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Self confessed drug dealer jailed for 26 months at Derry Crown Court")](https://www.derrynow.com/news/local-news/1679038/self-confessed-drug-dealer-jailed-for-26-months-at-derry-crown-court.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, December 12, 2024](https://www.derrynow.com/news/deaths/1678369/derry-death-notices-thursday-december-12-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry woman who crashed into car was almost five times the legal alcohol limit](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman who crashed into car was almost five times the legal alcohol limit")](https://www.derrynow.com/news/home/1678078/county-derry-woman-who-crashed-into-car-was-almost-five-times-the-legal-alcohol-limit.html)
-
-The case was heard in Coleraine Court today (Wednesday).
-
-[Home](https://www.derrynow.com/)
-
-[County Derry woman who crashed into car was almost five times the legal alcohol limit](https://www.derrynow.com/news/home/1678078/county-derry-woman-who-crashed-into-car-was-almost-five-times-the-legal-alcohol-limit.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man (50s) arrested following County Derry security alert](https://www.derrynow.com/resizer/165/93/true/2024_12_11/1632648154255.jpg--police_deploy_stinger_during_county_derry_car_chase-1733944187718.jpg--.jpg?1733944187748 "Man (50s) arrested following County Derry security alert")](https://www.derrynow.com/news/local-news/1678599/man-50s-arrested-following-county-derry-security-alert.html)
+Derry Crown Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man (50s) arrested following County Derry security alert](https://www.derrynow.com/news/local-news/1678599/man-50s-arrested-following-county-derry-security-alert.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Self confessed drug dealer jailed for 26 months at Derry Crown Court](https://www.derrynow.com/news/local-news/1679038/self-confessed-drug-dealer-jailed-for-26-months-at-derry-crown-court.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry celebrates success at Translink’s SPIRIT Awards](https://www.derrynow.com/resizer/165/93/true/2024_12_11/image005-1733930869294.jpg--.jpg?1733930869315 "Derry celebrates success at Translink’s SPIRIT Awards")](https://www.derrynow.com/news/local-news/1678358/derry-celebrates-success-attranslinks-spirit-awards.html)
-
-Linda Thompson, receives Platinum Spirit Award from Translink’s Safety, Health, Environment and Responsible Business Co-ordinator, Rachel McCann and KNIB Field Officer, Gareth Lamrock
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry celebrates success at Translink’s SPIRIT Awards](https://www.derrynow.com/news/local-news/1678358/derry-celebrates-success-attranslinks-spirit-awards.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![NI Pharmacy Regulator commences centenary celebrations with visit to Derry](https://www.derrynow.com/resizer/165/93/true/2024_12_11/09-12-24_Pharma_soc_Altna_18-1733929397163.jpg--.jpg?1733929399871 "NI Pharmacy Regulator commences centenary celebrations with visit to Derry")](https://www.derrynow.com/news/local-news/1678305/ni-pharmacy-regulator-commences-centenary-celebrations-with-visit-to-derry.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[NI Pharmacy Regulator commences centenary celebrations with visit to Derry](https://www.derrynow.com/news/local-news/1678305/ni-pharmacy-regulator-commences-centenary-celebrations-with-visit-to-derry.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Anyone speeding in excess of 100mph will face an immediate disqualification - Derry judge](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Anyone speeding in excess of 100mph will face an immediate disqualification - Derry judge")](https://www.derrynow.com/news/local-news/1678191/anyone-speeding-in-excess-of-100mph-will-face-an-immediate-disqualification-derry-judge.html)
+[![Man returned for trial to Derry Crown Court on drug charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned for trial to Derry Crown Court on drug charges")](https://www.derrynow.com/news/local-news/1679032/man-returned-for-trial-to-derry-crown-court-on-drug-charges.html)
 
 Derry Magistrates' Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Anyone speeding in excess of 100mph will face an immediate disqualification - Derry judge](https://www.derrynow.com/news/local-news/1678191/anyone-speeding-in-excess-of-100mph-will-face-an-immediate-disqualification-derry-judge.html)
+[Man returned for trial to Derry Crown Court on drug charges](https://www.derrynow.com/news/local-news/1679032/man-returned-for-trial-to-derry-crown-court-on-drug-charges.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man breached Sexual Offences Prevention Order by being in the presence of children](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Derry man breached Sexual Offences Prevention Order by being in the presence of children")](https://www.derrynow.com/news/local-news/1679028/derry-man-breached-sexual-offences-prevention-order-by-being-in-the-presence-of-children.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man breached Sexual Offences Prevention Order by being in the presence of children](https://www.derrynow.com/news/local-news/1679028/derry-man-breached-sexual-offences-prevention-order-by-being-in-the-presence-of-children.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry families learn to 'live more sustainably' through 'I Can Grow' Programme](https://www.derrynow.com/resizer/165/93/true/2024_12_12/Acorn_Farm_2024_Cohort_at_TCV_Brooke_Park_DerryLondonderry-1733997048407.jpeg--.jpeg?1733997048464 "Derry families learn to 'live more sustainably' through 'I Can Grow' Programme")](https://www.derrynow.com/news/local-news/1678946/derry-families-learn-to-live-more-sustainably-through-i-can-grow-programme.html)
+
+Acorn Farm 2024 participant showing their vegetables and Acorn Farm 2024 Cohort at TCV, Brooke Park.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry families learn to 'live more sustainably' through 'I Can Grow' Programme](https://www.derrynow.com/news/local-news/1678946/derry-families-learn-to-live-more-sustainably-through-i-can-grow-programme.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PBP East Derry condemns inaction on borough housing crisis](https://www.derrynow.com/resizer/165/93/true/upload/1478514630247_1712237270.jpg--.jpg "PBP East Derry condemns inaction on borough housing crisis")](https://www.derrynow.com/news/county-derry-post/1678874/pbp-east-derry-condemns-inaction-on-borough-housing-crisis.html)
+
+PBP East Derry condemns inaction on borough housing crisis
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[PBP East Derry condemns inaction on borough housing crisis](https://www.derrynow.com/news/county-derry-post/1678874/pbp-east-derry-condemns-inaction-on-borough-housing-crisis.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Fifty-eight officers injured in vehicle rammings in last year](https://www.derrynow.com/resizer/165/93/true/pa/2024_12_11/1733936714424_0.jpg--.jpg?1733936714605 "Fifty-eight officers injured in vehicle rammings in last year")](https://www.derrynow.com/news/local-news/1678829/fifty-eight-officers-injured-in-vehicle-rammings-in-last-year.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Fifty-eight officers injured in vehicle rammings in last year](https://www.derrynow.com/news/local-news/1678829/fifty-eight-officers-injured-in-vehicle-rammings-in-last-year.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
