@@ -410,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ I don’t care that they stole my idea — I care that they don’t have any of their own”
+“ I always wanted to be someone better the next day than I was the day before”
 
-[Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)
+[Sidney Poitier](https://blog.adafruit.com/2022/01/07/sidney-poitier-who-paved-the-way-for-black-actors-in-film-dies-at-94/)
 
 [](https://www.adafruit.com/about)
 
