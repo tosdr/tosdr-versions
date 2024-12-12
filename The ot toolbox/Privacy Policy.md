@@ -74,9 +74,9 @@ MENUMENU
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
         * * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![](https://www.theottoolbox.com/wp-content/uploads/2023/12/attention-toy-giveaway.jpg)](https://www.theottoolbox.com/toys-and-tools-to-help-with-attention/)
+                ![](https://www.theottoolbox.com/wp-content/uploads/2023/12/spatial-awareness-toy-giveaway.png)](https://www.theottoolbox.com/handwriting-spacing-tool-toys-to-work/)
                 
-                #### [Toys and Tools to Help With Attention and Focus](https://www.theottoolbox.com/toys-and-tools-to-help-with-attention/)
+                #### [Spatial Awareness Toys and Activities](https://www.theottoolbox.com/handwriting-spacing-tool-toys-to-work/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
