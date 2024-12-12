@@ -9,6 +9,7 @@ Yes, please No, thanks
   [![Ledger](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/ledger-logo-long.svg)](https://www.ledger.com/ "Ledger")
 
 * [Products](# "Products")
+    * [Limited offer](https://shop.ledger.com/pages/gift-of-bitcoin "Limited offer")
     * [Ledger Flex
         
         New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
