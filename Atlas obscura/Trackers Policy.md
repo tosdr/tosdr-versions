@@ -14,98 +14,17 @@ Force Open Search
 
 Open main menu
 
-![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
-
-Take your next trip with Atlas Obscura!
----------------------------------------
-
-Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
-
-[Visit Adventures](https://www.atlasobscura.com/adventures/)
-
-Trips Highlight
-
-   [![Borneo orangutan](https://img.atlasobscura.com/N-jdSE978JBUhwq3plHsGnuhS8dtSChRRo3l5fL-VrI/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9mMWNi/NWY1Zi05NDkxLTQz/YzgtOWY0My1lYTU2/N2JhNmY2MjFiNmFk/YmZhNWIzODkzMjg0/ZWZfQm9ybmVvIDEg/LSBzaW1vbmUtbWls/bHdhcmQtbktHaW9f/NkVfNGstdW5zcGxh/c2guanBn.jpg)](https://www.atlasobscura.com/adventures/trips/borneo)
-
-Malaysia • 12 days, 11 nights
-
-[NEW - Wild Borneo: Secrets of an Ancient Rainforest](https://www.atlasobscura.com/adventures/trips/borneo)
-
-from
-
-   [![Taktsang Lhakhang, also known as the “Tiger’s Nest”.](https://img.atlasobscura.com/RSZIiueNnnDOP27x8SP3wpC8WS6H6-f16yFb7PVmaR0/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8zNjI0/NGRlMS05YzhjLTQ4/ZGUtOTExNy1kNzhk/NzRjMjBkYjllYTQ4/ZDAyYWM2N2RlODE3/MjVfc2h1dHRlcnN0/b2NrXzUxMjk4MzYy/MSAoMSkuanBn.jpg)](https://www.atlasobscura.com/adventures/trips/bhutan)
-
-Bhutan • 11 days, 10 nights
-
-[Festivals & Temples of Bhutan](https://www.atlasobscura.com/adventures/trips/bhutan)
-
-from
-
-[View all trips](https://www.atlasobscura.com/adventures/trips)
-
-Upcoming Experiences
-
-[View All Experiences »](https://www.atlasobscura.com/events)
-
-   [![](https://img.atlasobscura.com/AxNQpouM-DrINwgCwgsEyDu9s42tyihgwbMnl1wmoPc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kYTEz/M2VhZi1iM2FlLTRh/NTQtODEyNC03OGJm/ZWRlMjYyOTMwYjEx/OTcwZTNlOWZkZWVl/ZTVfYmY4N2JkNWEt/MmQ3NS00Y2Q1LTlk/YmEtOTU4MjU3YWRh/MWUyNDNlY2FiOTAw/MjJiMmM5N2M0X29k/ZHZlcnQuanBn.jpg)
-
-Members Only
-
-Antiques and Their Afterlives: Holiday Gift Guide](https://www.atlasobscura.com/experiences/antiques-and-their-afterlives-an-unusual-holiday-gift-guide)
-
-Upcoming Courses
-
-[View All Courses »](https://www.atlasobscura.com/online-courses)
+Loading...
 
 Loading...
 
-Latest Places to Eat & Drink
+Loading...
 
-[View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
+Loading...
 
-   [![Introducing the real breakfast of champions: grilled lamb chops and beans.](https://img.atlasobscura.com/Y3xLsHvZjYxZf9g51cJnbcFJFRvLOmHaMIchSMzoXqk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85Y2Jj/MzllY2YzZTZkN2Y5/NGNfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi00OTg2LmpwZw.jpg)
+Loading...
 
-Cal Boter](https://www.atlasobscura.com/places/cal-boter)
-
-   [![Escudella, a ham bone broth with snail-shaped pasta, is traditionally reserved for Christmas.](https://img.atlasobscura.com/WWQgwRbjaPTLjHKQBa8dTQjWFECQwqUmFXVGkX6efC0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kOWVi/NjhjNDg5NzcwYjA0/NWFfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi00NzY4LmpwZw.jpg)
-
-Can Culleretes](https://www.atlasobscura.com/places/can-culleretes)
-
-   [![Meet Catalonia's answer to crème brûlée.](https://img.atlasobscura.com/97WAgawyCF-1svMNiRiCpfbXvYc3PsfhCXIgGpYGICw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mMzJj/YjBkYTMwZTg3OWNi/M2FfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi01MDU4LmpwZw.jpg)
-
-Granja M. Viader](https://www.atlasobscura.com/places/granja-m-viader)
-
-   [![Unlike pizza, this flatbread is seldom topped with cheese or tomato.](https://img.atlasobscura.com/QMEA6Kb3CxqPkBp7FPd6oQLW0ZcFqvBk-PvLX0UGdIE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81MzM1/OTQwMWUyNzZmZTBi/NGZfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi00OTEwLmpwZw.jpg)
-
-L'Antic Bocoi del Gòtic](https://www.atlasobscura.com/places/lantic-bocoi-del-gotic)
-
-   [![This “bomb” is really a deep-fried, golf ball-sized globe of mashed potatoes with a minced meat center.](https://img.atlasobscura.com/0kgohLgx5VV3VRfQ2l1y1wvWX-Kbr5uJ8mNbW4TFc5E/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wNzcz/Zjc2ZDBiZDEzYjhi/NzdfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi00ODUyLmpwZw.jpg)
-
-La Cova Fumada](https://www.atlasobscura.com/places/la-cova-fumada)
-
-Recent Stories
-
-[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
-
-Most Recent Stories
-
-[View All Stories »](https://www.atlasobscura.com/articles)
-
-   [![It might look like roadkill, but pies like this one are boosting Pizza Hut's sales in Taiwan.](https://img.atlasobscura.com/Hwhyh_TJzIo4tPnhBOK1_qdlWIaAFLBPoF8O8Frde-w/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9kMzU5MTkwOGMw/N2ZmZTNmNzJf54OP/6b6cXzE5MjB4MTA4/MC5qcGc.jpg)
-
-Pizza Hut Taiwan Knows It’s Making Italians Angry](https://www.atlasobscura.com/articles/pizza-hut-taiwan-weird-toppings)
-
-   [![Teriyaki chicken as we know it was invented in Seattle, not Japan.](https://img.atlasobscura.com/x6ha5mDEBcMlR3iku0rA5wZDursFwTFMxeZohqJw66E/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81OWFjYjY2Mi1h/YTQ2LTQ5ZDgtYmZh/My0wNGNiYjMyM2M3/YjgyM2Y0OGFhZGVk/NzM4NjlmNDFfR2V0/dHlJbWFnZXMtMjE1/MTU2ODU0My5qcGc.jpg)
-
-Cooking Creatively With J. Kenji López-Alt](https://www.atlasobscura.com/articles/j-kenji-lopez-alt-the-food-lab)
-
-   [![Tidal flats in Denmark's Wadden Sea National Park show what the land on the edge of the North Sea looks like today.](https://img.atlasobscura.com/7m38QWNS65qsZddrRZdjeCWcFsECHgFUl1cp_DwVy4Q/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9mNzNiOWM0My1k/N2EwLTQ4ZDItYmVl/ZC05MDlmYWE4NTQ5/NTJhYzVjMDRmODJj/MTk1NTY4MTFfR2V0/dHlJbWFnZXMtMTMw/MTMwODkxMy5qcGc.jpg)
-
-Exploring the Lost Land Beneath the North Sea](https://www.atlasobscura.com/articles/north-sea-lost-land-doggerland)
-
-   [![Gifting animals, games, and cakes.](https://img.atlasobscura.com/Y8af7rem5eTINJw-NG44Xt_tj5wE4oCepkb7uOUMT9E/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy83OGU1OTdmZC00/NTBmLTQ1ZGQtYTZj/OC1lNGVmZWMxYTQ4/Y2RlODkzMjBkM2Uy/ZGU5NDIwYjRfMTI4/MHB4LVB5Z215X2hp/cHBvX2FuZF9oZXJf/bmV3X2JhYnlfYmVm/b3JlX2FfYmF0dGVy/eV9vZl9wcmVzc19j/YW1lcmFzLF9OZXdf/WW9ya19ab29sb2dp/Y2FsX1BhcmtfLV9Q/aG90b19ieV9BLkcu/KF8pX0JhdW1hbi5f/TENDTjIwMTU2NTIz/MjEuanBn.jpg)
-
-5 Tales of Bizarre Holiday Gift-Giving](https://www.atlasobscura.com/articles/bizarre-holiday-gifts)
+Loading...
 
 No search results found for  
 “”
