@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/12/design-andrew-hudson-feature.jpg)
+
+[](https://theinspirationgrid.com/flair-flourish-the-amazing-work-of-andrew-hudson/)
+
+### Flair & Flourish: The Amazing Work of Andrew Hudson
+
+![](https://inspgr.id/app/uploads/2024/12/3d-ruslan-tihomirow-feature.jpg)
+
+[](https://theinspirationgrid.com/lego-x-japanese-aesthetics-3d-creations-by-ruslan-tihomirow/)
+
+### Lego x Japanese Aesthetics: 3D Creations by Ruslan Tihomirow
+
 ![](https://inspgr.id/app/uploads/2024/12/photography-badlands-tobias-hagg-feature.jpg)
 
 [](https://theinspirationgrid.com/the-badlands-series-breathtaking-photos-by-tobias-hagg/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/striking-illustrations-by-gilles-warmoes/)
 
 ### Striking Illustrations by Gilles Warmoes
-
-![](https://inspgr.id/app/uploads/2024/12/illustration-ray-oranges-24-feature.jpg)
-
-[](https://theinspirationgrid.com/bright-colorful-geometric-illustrations-by-ray-oranges/)
-
-### Bright & Colorful Geometric Illustrations by Ray Oranges
-
-![](https://inspgr.id/app/uploads/2024/12/art-julie-t-chapman-feature.jpg)
-
-[](https://theinspirationgrid.com/expressive-equine-paintings-by-julie-t-chapman/)
-
-### Expressive Equine Paintings by Julie T. Chapman
 
 Awesome products for creatives
 ------------------------------
