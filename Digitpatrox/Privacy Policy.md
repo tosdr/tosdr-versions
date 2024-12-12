@@ -20,16 +20,16 @@ Thursday, December 12 2024
 
 Latest
 
-* [The Best Way to Bypass a Paywall to Read an Article for Free Online](https://digitpatrox.com/the-best-way-to-bypass-a-paywall-to-read-an-article-for-free-online/)
-* [Best Small Kitchen Appliances of 2024](https://digitpatrox.com/best-small-kitchen-appliances-of-2024/)
-* [The Best Optical Disk Technology You (Probably) Never Heard Of](https://digitpatrox.com/the-best-optical-disk-technology-you-probably-never-heard-of/)
-* [Apple CEO Tim Cook hails company’s “deep connection” with UK as figures show it’s invested £18 billion since 2019](https://digitpatrox.com/apple-ceo-tim-cook-hails-companys-deep-connection-with-uk-as-figures-show-its-invested-18-billion-since-2019/)
-* [6 Types of Network Address Translation: Which One to Use?](https://digitpatrox.com/6-types-of-network-address-translation-which-one-to-use/)
-* [I just tested the new iOS 18.2 Apple Intelligence features — and I’m surprisingly underwhelmed](https://digitpatrox.com/i-just-tested-the-new-ios-18-2-apple-intelligence-features-and-im-surprisingly-underwhelmed/)
-* [Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024 MITRE ATT&CK Evaluation](https://digitpatrox.com/cynet-delivers-100-protection-and-100-detection-visibility-in-the-2024-mitre-attck-evaluation/)
-* [Steam is adding a new default option for game updates](https://digitpatrox.com/steam-is-adding-a-new-default-option-for-game-updates/)
-* [NYT Strands Today: Hints and Answers for December 12, 2024](https://digitpatrox.com/nyt-strands-today-hints-and-answers-for-december-12-2024/)
-* [Russia is targeting unpatched vulnerabilities – what can tech leaders do to shore up defenses?](https://digitpatrox.com/russia-is-targeting-unpatched-vulnerabilities-what-can-tech-leaders-do-to-shore-up-defenses/)
+* [Ireland has become a “data dumping ground” for big tech](https://digitpatrox.com/ireland-has-become-a-data-dumping-ground-for-big-tech/)
+* [Pioneering the future of AI-powered public safety – Computerworld](https://digitpatrox.com/pioneering-the-future-of-ai-powered-public-safety-computerworld/)
+* [How to Create Custom Lists on Your Hearth Display](https://digitpatrox.com/how-to-create-custom-lists-on-your-hearth-display/)
+* [9 Best Large-Capacity Washers of 2024, Lab-Tested and Reviewed](https://digitpatrox.com/9-best-large-capacity-washers-of-2024-lab-tested-and-reviewed/)
+* [YouTube Changed How Playback Speed Works, but It’s a Step Back](https://digitpatrox.com/youtube-changed-how-playback-speed-works-but-its-a-step-back/)
+* [How much performance boost should you expect?](https://digitpatrox.com/how-much-performance-boost-should-you-expect/)
+* [Everything you need to know about the Cleo file transfer vulnerability, including affected products, patches, and temporary mitigations](https://digitpatrox.com/everything-you-need-to-know-about-the-cleo-file-transfer-vulnerability-including-affected-products-patches-and-temporary-mitigations/)
+* [Take This $75 Chromebook Anywhere](https://digitpatrox.com/take-this-75-chromebook-anywhere/)
+* [Google Pixel 9a leak spills specs early — 5 biggest changes that may be coming to the phone](https://digitpatrox.com/google-pixel-9a-leak-spills-specs-early-5-biggest-changes-that-may-be-coming-to-the-phone/)
+* [New EagleMsgSpy Android spyware used by Chinese police, researchers say](https://digitpatrox.com/new-eaglemsgspy-android-spyware-used-by-chinese-police-researchers-say/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01HF2GTD2GVD2SP033WMTR85N6/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-best-way-to-bypass-a-paywall-to-read-an-article-for-free-online/)
+* [![](https://cdn.mos.cms.futurecdn.net/hL6om5KzC3eURQqHcBM5Ra-1200-80.jpg)](https://digitpatrox.com/ireland-has-become-a-data-dumping-ground-for-big-tech/)
     
-    [The Best Way to Bypass a Paywall to Read an Article for Free Online](https://digitpatrox.com/the-best-way-to-bypass-a-paywall-to-read-an-article-for-free-online/)
+    [Ireland has become a “data dumping ground” for big tech](https://digitpatrox.com/ireland-has-become-a-data-dumping-ground-for-big-tech/)
     
-    2 minutes ago
+    7 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733783908/prod/content/dam/CRO-Images-2024/Home/CR-Home-InlineHero-Best-Small-Kitchen-Appliances-1224)](https://digitpatrox.com/best-small-kitchen-appliances-of-2024/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3623120-0-74920100-1734005803-Picture1_carpet-CCTV-resized-1.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/pioneering-the-future-of-ai-powered-public-safety-computerworld/)
     
-    [Best Small Kitchen Appliances of 2024](https://digitpatrox.com/best-small-kitchen-appliances-of-2024/)
+    [Pioneering the future of AI-powered public safety – Computerworld](https://digitpatrox.com/pioneering-the-future-of-ai-powered-public-safety-computerworld/)
     
-    12 minutes ago
+    29 minutes ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/an-optical-data-archive-with-several-cds-in-the-background.jpg)](https://digitpatrox.com/the-best-optical-disk-technology-you-probably-never-heard-of/)
+* [![](https://lifehacker.com/imagery/articles/01JD5M0WN686Z7STG8S93GENC7/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-create-custom-lists-on-your-hearth-display/)
     
-    [The Best Optical Disk Technology You (Probably) Never Heard Of](https://digitpatrox.com/the-best-optical-disk-technology-you-probably-never-heard-of/)
+    [How to Create Custom Lists on Your Hearth Display](https://digitpatrox.com/how-to-create-custom-lists-on-your-hearth-display/)
     
-    13 minutes ago
+    57 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/pW6djk3rLN4uTQ7xeB2adf-1200-80.jpg)](https://digitpatrox.com/apple-ceo-tim-cook-hails-companys-deep-connection-with-uk-as-figures-show-its-invested-18-billion-since-2019/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1719951392/prod/content/dam/CRO-Images-2024/Appliances/CR-Appliances-InlineHero-Large-Capacity-Washers-hero-update-0724)](https://digitpatrox.com/9-best-large-capacity-washers-of-2024-lab-tested-and-reviewed/)
     
-    [Apple CEO Tim Cook hails company’s “deep connection” with UK as figures show it’s invested £18 billion since 2019](https://digitpatrox.com/apple-ceo-tim-cook-hails-companys-deep-connection-with-uk-as-figures-show-its-invested-18-billion-since-2019/)
+    [9 Best Large-Capacity Washers of 2024, Lab-Tested and Reviewed](https://digitpatrox.com/9-best-large-capacity-washers-of-2024-lab-tested-and-reviewed/)
     
-    52 minutes ago
+    1 hour ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/12/network-address-translation-featured-image-12102024-min.png)](https://digitpatrox.com/6-types-of-network-address-translation-which-one-to-use/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-hand-holding-a-phone-with-youtube-logo-coming-out-of-the-screen-and-several-youtube-logos-in-the-background.jpg)](https://digitpatrox.com/youtube-changed-how-playback-speed-works-but-its-a-step-back/)
     
-    [6 Types of Network Address Translation: Which One to Use?](https://digitpatrox.com/6-types-of-network-address-translation-which-one-to-use/)
+    [YouTube Changed How Playback Speed Works, but It’s a Step Back](https://digitpatrox.com/youtube-changed-how-playback-speed-works-but-its-a-step-back/)
     
-    56 minutes ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [2 minutes ago
+* [7 minutes ago
     
-    ### The Best Way to Bypass a Paywall to Read an Article for Free Online](https://digitpatrox.com/the-best-way-to-bypass-a-paywall-to-read-an-article-for-free-online/)
-* [12 minutes ago
+    ### Ireland has become a “data dumping ground” for big tech](https://digitpatrox.com/ireland-has-become-a-data-dumping-ground-for-big-tech/)
+* [29 minutes ago
     
-    ### Best Small Kitchen Appliances of 2024](https://digitpatrox.com/best-small-kitchen-appliances-of-2024/)
-* [13 minutes ago
+    ### Pioneering the future of AI-powered public safety – Computerworld](https://digitpatrox.com/pioneering-the-future-of-ai-powered-public-safety-computerworld/)
+* [57 minutes ago
     
-    ### The Best Optical Disk Technology You (Probably) Never Heard Of](https://digitpatrox.com/the-best-optical-disk-technology-you-probably-never-heard-of/)
+    ### How to Create Custom Lists on Your Hearth Display](https://digitpatrox.com/how-to-create-custom-lists-on-your-hearth-display/)
 
 Most Popular Topics
 
-* [September 18, 2024
+* [November 7, 2024
     
-    ### River Delta Unified School District data breach: ransomware gang claims responsibility](https://digitpatrox.com/river-delta-unified-school-district-data-breach-ransomware-gang-claims-responsibility/)
-* [November 5, 2024
+    ### Vendor Spotlight: Icinga](https://digitpatrox.com/vendor-spotlight-icinga/)
+* [September 10, 2024
     
-    ### Why ‘space as a service’ is helping businesses meet worker demands – even as tech execs push ‘return to office’](https://digitpatrox.com/why-space-as-a-service-is-helping-businesses-meet-worker-demands-even-as-tech-execs-push-return-to-office/)
-* [1 day ago
+    ### Today’s Wordle Answer and Hints (September 11, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-11-2024/)
+* [October 24, 2024
     
-    ### Windows 11 24H2 and 23H2 receive December 2024 updates with KB5048667 and KB5048685](https://digitpatrox.com/windows-11-24h2-and-23h2-receive-december-2024-updates-with-kb5048667-and-kb5048685/)
+    ### Energy firms need to up their game to protect against supply chain risks](https://digitpatrox.com/energy-firms-need-to-up-their-game-to-protect-against-supply-chain-risks/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024 MITRE ATT&CK Evaluation](https://digitpatrox.com/cynet-delivers-100-protection-and-100-detection-visibility-in-the-2024-mitre-attck-evaluation/)
+    ### Everything you need to know about the Cleo file transfer vulnerability, including affected products, patches, and temporary mitigations](https://digitpatrox.com/everything-you-need-to-know-about-the-cleo-file-transfer-vulnerability-including-affected-products-patches-and-temporary-mitigations/)
 * [2 hours ago
     
-    ### Steam is adding a new default option for game updates](https://digitpatrox.com/steam-is-adding-a-new-default-option-for-game-updates/)
-* [3 hours ago
+    ### Take This $75 Chromebook Anywhere](https://digitpatrox.com/take-this-75-chromebook-anywhere/)
+* [2 hours ago
     
-    ### NYT Strands Today: Hints and Answers for December 12, 2024](https://digitpatrox.com/nyt-strands-today-hints-and-answers-for-december-12-2024/)
+    ### Google Pixel 9a leak spills specs early — 5 biggest changes that may be coming to the phone](https://digitpatrox.com/google-pixel-9a-leak-spills-specs-early-5-biggest-changes-that-may-be-coming-to-the-phone/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 12, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 13, 2024
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 12, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
