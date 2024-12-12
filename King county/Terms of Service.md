@@ -103,7 +103,6 @@ Global Navigation
 
 ### Human And Social Services expand\_more
 
-* [Eviction Prevention and Rent Assistance Program](https://kingcounty.gov/legacy/depts/community-human-services/COVID/eviction-prevention-rent-assistance.aspx)
 * [Crisis services](https://kingcounty.gov/legacy/depts/community-human-services/mental-health-substance-abuse/services/crisis-services.aspx)
 * [Best Starts for Kids](https://kingcounty.gov/legacy/depts/community-human-services/initiatives/best-starts-for-kids.aspx)
 * [Mental health services](https://kingcounty.gov/legacy/depts/community-human-services/mental-health-substance-abuse/services/mental-health.aspx)
