@@ -570,7 +570,7 @@ No
 * [Product Support](https://www.insta360.com/support/product-support)
 * [Repair Service](https://www.insta360.com/support/workorder)
 * [After-Sales Policy](https://www.insta360.com/support/aftersales?name=repair)
-* [Care & Extended Warranty](https://www.insta360.com/support/care_warranty)
+* [Insta360 Care Service](https://www.insta360.com/support/care_warranty)
 * [Downloads](https://www.insta360.com/download)
 
 ### About us
@@ -621,11 +621,11 @@ English![insta360](https://res.insta360.com/static/ccaff183a64761d3eee581198d342
 
 [English](https://www.insta360.com/)[Deutsch](https://www.insta360.com/de)[简体中文](https://www.insta360.com/cn)[繁體中文](https://www.insta360.com/hk)[日本語](https://www.insta360.com/jp)[Español](https://www.insta360.com/es)[한국어](https://www.insta360.com/kr)[Français](https://www.insta360.com/fr)[Italiano](https://www.insta360.com/it)[Русский](https://www.insta360.com/ru)
 
-Copyright © ARASHI VISION INC. All Rights Reserved.
+Copyright © Insta360 All rights reserved.
 
 Guang Dong ICP No. 16095556.
 
-Questions about products? Chat with us now.![guide](https://res.insta360.com/static/09e3b94fe41c54a1683b5d7bee6a5313/icon.png)
+Questions about products? Chat with us now![guide](https://res.insta360.com/static/09e3b94fe41c54a1683b5d7bee6a5313/icon.png)
 
 ![close](https://res.insta360.com/static/ef477b74db3890992dea417c76b4f785/ic-close.svg)
 
