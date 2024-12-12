@@ -573,7 +573,7 @@ We would be glad to hear from you. If you have any questions regarding this Poli
 
 En De Es Fr It Pt Nl
 
-[](https://www.facebook.com/taimiapp)[](https://twitter.com/taimiapp)[](https://www.instagram.com/taimiapp)[](https://www.tiktok.com/@taimiapp)
+[](https://www.facebook.com/taimiapp)[](https://x.com/taimiapp)[](https://www.instagram.com/taimiapp)[](https://www.tiktok.com/@taimiapp)
 
 Company
 
