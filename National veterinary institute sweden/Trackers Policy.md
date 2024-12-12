@@ -1283,7 +1283,6 @@ Gå direkt till :
     * [Arbeta hos oss](https://www.sva.se/om-oss/arbeta-hos-oss/)[](#)
         * [Lediga jobb](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/)[](#)
             * [Biomedicinsk analytiker - intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/biomedicinsk-analytiker-intermittent-anstallning/)
-            * [Laboratorietekniker - intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorietekniker-intermittent-anstallning/)
             * [Biomedicinsk analytiker](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/biomedicinsk-analytiker/)
             * [Jurist](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/jurist/)
             * [Laboratorieveterinär - intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorieveterinar-intermittent-anstallning/)
