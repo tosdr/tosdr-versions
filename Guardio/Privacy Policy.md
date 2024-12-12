@@ -54,7 +54,7 @@ Short version
 
 Long version for humans who are lawyers:
 
-###### You can grab the full and updated Privacy Policy PDF here: [Privacy Policy](https://cdn.guard.io/uploads/img_a8f03be46a2d749d.pdf)
+###### You can grab the full and updated Privacy Policy PDF here: [Privacy Policy](https://cdn.guard.io/uploads/img_e992d99bd8bec8da.pdf)
 
 ###### For any questions, we're available at my.privacy@guard.io
 
