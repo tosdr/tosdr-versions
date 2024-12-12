@@ -7,6 +7,8 @@
             MetLife Stadium](https://www.songkick.com/concerts/42310081-kendrick-lamar-at-metlife-stadium)
         *  [![Billy Joel Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Billy Joel  
             MetLife Stadium](https://www.songkick.com/concerts/42314317-billy-joel-at-metlife-stadium)
+        *  [![Styx Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Styx  
+            PNC Bank Arts Center](https://www.songkick.com/concerts/42316763-styx-at-pnc-bank-arts-center)
         *  [![Vundabar Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Vundabar  
             White Eagle Hall](https://www.songkick.com/concerts/42309197-vundabar-at-white-eagle-hall)
         *  [![Murphy's Law Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Murphy's Law  
