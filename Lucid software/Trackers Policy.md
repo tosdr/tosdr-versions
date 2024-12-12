@@ -50,32 +50,6 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     
     [View all solutions](https://lucid.co/solutions)
     
-* Resources
-    
-    Helpful insights to get the most out of Lucid.
-    
-    ### Connect
-    
-    * * *
-    
-    * [Customers](https://lucid.co/customers)
-    * [Developers](https://lucid.co/developers)
-    * [Integrations marketplace](https://lucid.co/marketplace/overview)
-    * [Professional Services](https://lucid.co/professional-services)
-    * [Community](https://community.lucid.co/)
-    * [Support](https://help.lucid.co/hc/)
-    
-    ### Learn
-    
-    * * *
-    
-    * [Case studies](https://lucid.co/resources/case-studies)
-    * [E-books](https://lucid.co/resources/ebooks)
-    * [Webinars](https://lucid.co/resources/webinars)
-    * [Learning campus](https://lucid.co/learning-campus)
-    * [Blog](https://lucid.co/blog)
-    * [All-access Agile](https://lucid.co/all-access-agile)
-    
 * Company
     
     We help teams see and build the future.
@@ -99,6 +73,32 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     * [Contact us](https://lucid.co/contact-us)
     
 * [Enterprise](https://lucid.co/enterprise)
+* Resources
+    
+    Helpful insights to get the most out of Lucid.
+    
+    ### Connect
+    
+    * * *
+    
+    * [Customers](https://lucid.co/customers)
+    * [Developers](https://lucid.co/developers)
+    * [Integrations marketplace](https://lucid.co/marketplace/overview)
+    * [Professional Services](https://lucid.co/professional-services)
+    * [User community](https://community.lucid.co/)
+    * [Help center](https://help.lucid.co/hc/)
+    
+    ### Learn
+    
+    * * *
+    
+    * [Blog](https://lucid.co/blog)
+    * [Case studies](https://lucid.co/resources/case-studies)
+    * [Webinars](https://lucid.co/resources/webinars)
+    * [Training labs](https://training.lucid.co/)
+    * [All-access Agile](https://lucid.co/all-access-agile)
+    * [E-books](https://lucid.co/resources/ebooks)
+    
 
 * English
     
@@ -208,6 +208,7 @@ Cookies
 | dashboardUiState | Skilljar | PERSONALIZATION | Stores some state information about the dashboard. Primarily, to show or collapse the left nav on subsequent page views. | n/a |
 | ^\_dc\_gtm\_.\* | Google Analytics | ANALYTICS | Used by Google Analytics to store number of service requests. | 1 minute |
 | direct\_to\_buy | Lucid Software Inc | ESSENTIAL | Used to determine where a user should be directed in the payment flow. | Session |
+| documentSupportPins | Lucid Software Inc | ESSENTIAL | Used to enable Lucid support teams access to customers' documents. This requires each customer to expressly give permission to Lucid support teams by generating a pin which is then stored as part of this cookie. | 180 days |
 | domainPolicyEmail | Lucid Software Inc | ESSENTIAL | Stores the email that domain lockdown should be checked against. | 1 hour |
 | doNotShowSVGImportWarningDialogAgain | Lucid Software Inc | ESSENTIAL | Supresses SVG import warning dialog. This prevents users from seeing the same message twice. | 365 days and 6 hours |
 | eduSignup | Lucid Software Inc | ESSENTIAL | Indicates if the user is an EDU signup. | 1 day |
@@ -474,8 +475,8 @@ Resources
 * [Developers](https://lucid.co/developers)
 * [Security](https://lucid.co/security)
 * [Support](https://help.lucid.co/hc/)
-* [Learning campus](https://lucid.co/learning-campus)
-* [Community](https://community.lucid.co/)
+* [Training labs](https://training.lucid.co/)
+* [User community](https://community.lucid.co/)
 * [Partners](https://lucid.co/partners)
 * [Newsletter](https://www.lucidchart.com/pages/contact/newsletter)
 
