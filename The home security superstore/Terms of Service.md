@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[Best Stocking Stuffers Under $10 I Click Here!](https://www.thehomesecuritysuperstore.com/collections/stocking-stuffers?utm_source=Top&utm_medium=Banner&utm_campaign=Stocking+Stuffers)
+[FREE Shipping All Orders & FREE 3-Day Orders $49+](https://www.thehomesecuritysuperstore.com/?utm_source=website&utm_medium=banner&utm_campaign=FREE+Shipping)
 
-TODAY'S OFFER: :: | Best Stocking Stuffers Under $10 I Click Here!
+TODAY'S OFFER: :: | FREE Shipping All Orders & FREE 3-Day Orders $49+
 
 TODAY'S OFFER: : :
 
- Best Stocking Stuffers Under $10 I Click Here!
+ FREE Shipping All Orders & FREE 3-Day Orders $49+
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
