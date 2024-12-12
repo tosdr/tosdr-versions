@@ -50,32 +50,6 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     
     [View all solutions](https://lucid.co/solutions)
     
-* Resources
-    
-    Helpful insights to get the most out of Lucid.
-    
-    ### Connect
-    
-    * * *
-    
-    * [Customers](https://lucid.co/customers)
-    * [Developers](https://lucid.co/developers)
-    * [Integrations marketplace](https://lucid.co/marketplace/overview)
-    * [Professional Services](https://lucid.co/professional-services)
-    * [Community](https://community.lucid.co/)
-    * [Support](https://help.lucid.co/hc/)
-    
-    ### Learn
-    
-    * * *
-    
-    * [Case studies](https://lucid.co/resources/case-studies)
-    * [E-books](https://lucid.co/resources/ebooks)
-    * [Webinars](https://lucid.co/resources/webinars)
-    * [Learning campus](https://lucid.co/learning-campus)
-    * [Blog](https://lucid.co/blog)
-    * [All-access Agile](https://lucid.co/all-access-agile)
-    
 * Company
     
     We help teams see and build the future.
@@ -99,6 +73,32 @@ PINGDOM\_CANARY\_STRINGSkip to Content
     * [Contact us](https://lucid.co/contact-us)
     
 * [Enterprise](https://lucid.co/enterprise)
+* Resources
+    
+    Helpful insights to get the most out of Lucid.
+    
+    ### Connect
+    
+    * * *
+    
+    * [Customers](https://lucid.co/customers)
+    * [Developers](https://lucid.co/developers)
+    * [Integrations marketplace](https://lucid.co/marketplace/overview)
+    * [Professional Services](https://lucid.co/professional-services)
+    * [User community](https://community.lucid.co/)
+    * [Help center](https://help.lucid.co/hc/)
+    
+    ### Learn
+    
+    * * *
+    
+    * [Blog](https://lucid.co/blog)
+    * [Case studies](https://lucid.co/resources/case-studies)
+    * [Webinars](https://lucid.co/resources/webinars)
+    * [Training labs](https://training.lucid.co/)
+    * [All-access Agile](https://lucid.co/all-access-agile)
+    * [E-books](https://lucid.co/resources/ebooks)
+    
 
 * English
     
@@ -150,8 +150,8 @@ Resources
 * [Developers](https://lucid.co/developers)
 * [Security](https://lucid.co/security)
 * [Support](https://help.lucid.co/hc/)
-* [Learning campus](https://lucid.co/learning-campus)
-* [Community](https://community.lucid.co/)
+* [Training labs](https://training.lucid.co/)
+* [User community](https://community.lucid.co/)
 * [Partners](https://lucid.co/partners)
 * [Newsletter](https://www.lucidchart.com/pages/contact/newsletter)
 
