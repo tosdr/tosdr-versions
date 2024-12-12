@@ -248,7 +248,84 @@ The provisions of these Terms of Use and any Additional Terms which expressly or
 Popular Searches
 ----------------
 
-* [Dentists Near Me](https://www.opencare.com/)
+* [Dentists Near Me](https://www.opencare.com/dentists)
+* [Dentists in Austin {{isCityVisible('Austin-TX') ? '-' : '+'}}](https://www.opencare.com/dentists/austin-tx/)
+    
+    [Delta Dental dentists in Austin](https://www.opencare.com/dentists/austin-tx/delta-dental) [Guardian dentists in Austin](https://www.opencare.com/dentists/austin-tx/guardian) [Cigna dentists in Austin](https://www.opencare.com/dentists/austin-tx/cigna) [UnitedHealthcare dentists in Austin](https://www.opencare.com/dentists/austin-tx/unitedhealthcare) [Aetna dentists in Austin](https://www.opencare.com/dentists/austin-tx/aetna)
+    
+* [Dentists in Boston {{isCityVisible('Boston-MA') ? '-' : '+'}}](https://www.opencare.com/dentists/boston-ma/)
+    
+* [Dentists in Brooklyn {{isCityVisible('Brooklyn-NY') ? '-' : '+'}}](https://www.opencare.com/dentists/brooklyn-ny/)
+    
+    [Delta Dental dentists in Brooklyn](https://www.opencare.com/dentists/brooklyn-ny/delta-dental) [Aetna dentists in Brooklyn](https://www.opencare.com/dentists/brooklyn-ny/aetna) [UnitedHealthcare dentists in Brooklyn](https://www.opencare.com/dentists/brooklyn-ny/unitedhealthcare) [Cigna dentists in Brooklyn](https://www.opencare.com/dentists/brooklyn-ny/cigna) [Guardian dentists in Brooklyn](https://www.opencare.com/dentists/brooklyn-ny/guardian)
+    
+* [Dentists in Calgary {{isCityVisible('Calgary-AB') ? '-' : '+'}}](https://www.opencare.com/dentists/calgary-ab/)
+    
+    [Sun Life Financial dentists in Calgary](https://www.opencare.com/dentists/calgary-ab/sun-life-financial) [Blue Cross dentists in Calgary](https://www.opencare.com/dentists/calgary-ab/blue-cross) [Manulife Financial dentists in Calgary](https://www.opencare.com/dentists/calgary-ab/manulife-financial) [Canada Life dentists in Calgary](https://www.opencare.com/dentists/calgary-ab/canada-life) [Green Shield Canada dentists in Calgary](https://www.opencare.com/dentists/calgary-ab/green-shield-canada)
+    
+* [Dentists in Chicago {{isCityVisible('Chicago-IL') ? '-' : '+'}}](https://www.opencare.com/dentists/chicago-il/)
+    
+    [Delta Dental dentists in Chicago](https://www.opencare.com/dentists/chicago-il/delta-dental) [Aetna dentists in Chicago](https://www.opencare.com/dentists/chicago-il/aetna) [Guardian dentists in Chicago](https://www.opencare.com/dentists/chicago-il/guardian) [Blue Cross Blue Shield dentists in Chicago](https://www.opencare.com/dentists/chicago-il/blue-cross-blue-shield) [Cigna dentists in Chicago](https://www.opencare.com/dentists/chicago-il/cigna)
+    
+
+* [Dentists in Dallas {{isCityVisible('Dallas-TX') ? '-' : '+'}}](https://www.opencare.com/dentists/dallas-tx/)
+    
+    [Delta Dental dentists in Dallas](https://www.opencare.com/dentists/dallas-tx/delta-dental) [Cigna dentists in Dallas](https://www.opencare.com/dentists/dallas-tx/cigna) [Guardian dentists in Dallas](https://www.opencare.com/dentists/dallas-tx/guardian) [UnitedHealthcare dentists in Dallas](https://www.opencare.com/dentists/dallas-tx/unitedhealthcare) [MetLife dentists in Dallas](https://www.opencare.com/dentists/dallas-tx/metlife)
+    
+* [Dentists in Denver {{isCityVisible('Denver-CO') ? '-' : '+'}}](https://www.opencare.com/dentists/denver-co/)
+    
+    [Delta Dental dentists in Denver](https://www.opencare.com/dentists/denver-co/delta-dental) [Cigna dentists in Denver](https://www.opencare.com/dentists/denver-co/cigna) [UnitedHealthcare dentists in Denver](https://www.opencare.com/dentists/denver-co/unitedhealthcare) [Guardian dentists in Denver](https://www.opencare.com/dentists/denver-co/guardian) [Aetna dentists in Denver](https://www.opencare.com/dentists/denver-co/aetna)
+    
+* [Dentists in Houston {{isCityVisible('Houston-TX') ? '-' : '+'}}](https://www.opencare.com/dentists/houston-tx/)
+    
+* [Dentists in Las Vegas {{isCityVisible('Las Vegas-NV') ? '-' : '+'}}](https://www.opencare.com/dentists/las-vegas-nv/)
+    
+* [Dentists in Los Angeles {{isCityVisible('Los Angeles-CA') ? '-' : '+'}}](https://www.opencare.com/dentists/los-angeles-ca/)
+    
+    [Delta Dental dentists in Los Angeles](https://www.opencare.com/dentists/los-angeles-ca/delta-dental) [Guardian dentists in Los Angeles](https://www.opencare.com/dentists/los-angeles-ca/guardian) [Cigna dentists in Los Angeles](https://www.opencare.com/dentists/los-angeles-ca/cigna) [Aetna dentists in Los Angeles](https://www.opencare.com/dentists/los-angeles-ca/aetna) [MetLife dentists in Los Angeles](https://www.opencare.com/dentists/los-angeles-ca/metlife)
+    
+* [Dentists in Miami {{isCityVisible('Miami-FL') ? '-' : '+'}}](https://www.opencare.com/dentists/miami-fl/)
+    
+    [Delta Dental dentists in Miami](https://www.opencare.com/dentists/miami-fl/delta-dental) [Aetna dentists in Miami](https://www.opencare.com/dentists/miami-fl/aetna) [Guardian dentists in Miami](https://www.opencare.com/dentists/miami-fl/guardian) [Cigna dentists in Miami](https://www.opencare.com/dentists/miami-fl/cigna) [UnitedHealthcare dentists in Miami](https://www.opencare.com/dentists/miami-fl/unitedhealthcare)
+    
+
+* [Dentists in New York {{isCityVisible('New York-NY') ? '-' : '+'}}](https://www.opencare.com/dentists/new-york-ny/)
+    
+    [Delta Dental dentists in New York](https://www.opencare.com/dentists/new-york-ny/delta-dental) [Aetna dentists in New York](https://www.opencare.com/dentists/new-york-ny/aetna) [UnitedHealthcare dentists in New York](https://www.opencare.com/dentists/new-york-ny/unitedhealthcare) [Cigna dentists in New York](https://www.opencare.com/dentists/new-york-ny/cigna) [EmblemHealth dentists in New York](https://www.opencare.com/dentists/new-york-ny/emblemhealth)
+    
+* [Dentists in Ottawa {{isCityVisible('Ottawa-ON') ? '-' : '+'}}](https://www.opencare.com/dentists/ottawa-on/)
+    
+* [Dentists in Phoenix {{isCityVisible('Phoenix-AZ') ? '-' : '+'}}](https://www.opencare.com/dentists/phoenix-az/)
+    
+    [Delta Dental dentists in Phoenix](https://www.opencare.com/dentists/phoenix-az/delta-dental) [Cigna dentists in Phoenix](https://www.opencare.com/dentists/phoenix-az/cigna) [Aetna dentists in Phoenix](https://www.opencare.com/dentists/phoenix-az/aetna) [UnitedHealthcare dentists in Phoenix](https://www.opencare.com/dentists/phoenix-az/unitedhealthcare) [MetLife dentists in Phoenix](https://www.opencare.com/dentists/phoenix-az/metlife)
+    
+* [Dentists in Sacramento {{isCityVisible('Sacramento-CA') ? '-' : '+'}}](https://www.opencare.com/dentists/sacramento-ca/)
+    
+* [Dentists in San Diego {{isCityVisible('San Diego-CA') ? '-' : '+'}}](https://www.opencare.com/dentists/san-diego-ca/)
+    
+    [Delta Dental dentists in San Diego](https://www.opencare.com/dentists/san-diego-ca/delta-dental) [Tricare Dental Program dentists in San Diego](https://www.opencare.com/dentists/san-diego-ca/tricare-dental-program) [Cigna dentists in San Diego](https://www.opencare.com/dentists/san-diego-ca/cigna) [MetLife dentists in San Diego](https://www.opencare.com/dentists/san-diego-ca/metlife) [Aetna dentists in San Diego](https://www.opencare.com/dentists/san-diego-ca/aetna)
+    
+* [Dentists in San Francisco {{isCityVisible('San Francisco-CA') ? '-' : '+'}}](https://www.opencare.com/dentists/san-francisco-ca/)
+    
+    [Delta Dental dentists in San Francisco](https://www.opencare.com/dentists/san-francisco-ca/delta-dental) [Guardian dentists in San Francisco](https://www.opencare.com/dentists/san-francisco-ca/guardian) [Cigna dentists in San Francisco](https://www.opencare.com/dentists/san-francisco-ca/cigna) [MetLife dentists in San Francisco](https://www.opencare.com/dentists/san-francisco-ca/metlife) [Aetna dentists in San Francisco](https://www.opencare.com/dentists/san-francisco-ca/aetna)
+    
+
+* [Dentists in San Jose {{isCityVisible('San Jose-CA') ? '-' : '+'}}](https://www.opencare.com/dentists/san-jose-ca/)
+    
+    [Delta Dental dentists in San Jose](https://www.opencare.com/dentists/san-jose-ca/delta-dental) [Aetna dentists in San Jose](https://www.opencare.com/dentists/san-jose-ca/aetna) [MetLife dentists in San Jose](https://www.opencare.com/dentists/san-jose-ca/metlife) [Guardian dentists in San Jose](https://www.opencare.com/dentists/san-jose-ca/guardian) [Cigna dentists in San Jose](https://www.opencare.com/dentists/san-jose-ca/cigna)
+    
+* [Dentists in Seattle {{isCityVisible('Seattle-WA') ? '-' : '+'}}](https://www.opencare.com/dentists/seattle-wa/)
+    
+    [Delta Dental dentists in Seattle](https://www.opencare.com/dentists/seattle-wa/delta-dental) [Aetna dentists in Seattle](https://www.opencare.com/dentists/seattle-wa/aetna) [Cigna dentists in Seattle](https://www.opencare.com/dentists/seattle-wa/cigna) [Premera Blue Cross dentists in Seattle](https://www.opencare.com/dentists/seattle-wa/premera-blue-cross) [Blue Cross Blue Shield dentists in Seattle](https://www.opencare.com/dentists/seattle-wa/blue-cross-blue-shield)
+    
+* [Dentists in Toronto {{isCityVisible('Toronto-ON') ? '-' : '+'}}](https://www.opencare.com/dentists/toronto-on/)
+    
+    [Sun Life Financial dentists in Toronto](https://www.opencare.com/dentists/toronto-on/sun-life-financial) [Manulife Financial dentists in Toronto](https://www.opencare.com/dentists/toronto-on/manulife-financial) [Canada Life dentists in Toronto](https://www.opencare.com/dentists/toronto-on/canada-life) [Green Shield Canada dentists in Toronto](https://www.opencare.com/dentists/toronto-on/green-shield-canada) [Desjardins Group dentists in Toronto](https://www.opencare.com/dentists/toronto-on/desjardins-group)
+    
+* [Dentists in Vancouver {{isCityVisible('Vancouver-BC') ? '-' : '+'}}](https://www.opencare.com/dentists/vancouver-bc/)
+    
+    [Sun Life Financial dentists in Vancouver](https://www.opencare.com/dentists/vancouver-bc/sun-life-financial) [Blue Cross dentists in Vancouver](https://www.opencare.com/dentists/vancouver-bc/blue-cross) [Canada Life dentists in Vancouver](https://www.opencare.com/dentists/vancouver-bc/canada-life) [Manulife Financial dentists in Vancouver](https://www.opencare.com/dentists/vancouver-bc/manulife-financial) [Green Shield Canada dentists in Vancouver](https://www.opencare.com/dentists/vancouver-bc/green-shield-canada)
+    
 
 * * *
 
