@@ -1,20 +1,24 @@
-[![](https://cdn.prod.website-files.com/6171b265e5c8aa59b42c3472/6536cd1ec3e5cefba840fb29_logo.svg)](https://gumroad.com/)
+[![](https://assets.gumroad.com/assets/logo-0bc69a5fbe2011001b3dba6598e5b597137926af32d7d955ee1ab7ac05fd63d4.svg)](https://gumroad.com/)
 
-[Login](https://app.gumroad.com/login)[Start Selling](https://app.gumroad.com/signup)[About](https://gumroad.com/about)[Features](https://gumroad.com/about/features)[Pricing](https://gumroad.com/about/pricing)
+[Home](https://gumroad.com/)[About](https://gumroad.com/about)[Features](https://gumroad.com/features)[Pricing](https://gumroad.com/pricing)
 
-[Login](https://app.gumroad.com/login)[Start Selling](https://app.gumroad.com/signup)
+[Log in](https://gumroad.com/users/sign_in)[Start selling](https://gumroad.com/users/sign_up)
+
+[Home](https://gumroad.com/)[About](https://gumroad.com/about)[Features](https://gumroad.com/features)[Pricing](https://gumroad.com/pricing)
+
+[Log in](https://gumroad.com/users/sign_in)[Start selling](https://gumroad.com/users/sign_up)
 
 Privacy Policy
 ==============
 
-Last Revised: September 13, 2024
+Last revised: September 13, 2024
 
 1\. Scope
 ---------
 
-This Privacy Policy describes how we handle your personal information for our Service on the Gumroad websites, tools, and mobile applications. It applies generally to information collected on the Gumroad.com website, mobile application and content (collectively, the "Site" or “Sites”) or though the use of our Service. Capitalized terms used in this Privacy Policy shall have the meaning set forth herein or in the User Agreement posted on the Site.
+This Privacy Policy describes how we handle your personal information for our Service on the Gumroad websites, tools, and mobile applications. It applies generally to information collected on the Gumroad.com website, mobile application and content (collectively, the "Site" or "Sites") or though the use of our Service. Capitalized terms used in this Privacy Policy shall have the meaning set forth herein or in the User Agreement posted on the Site.
 
-If you established a Gumroad account before the “last revised” date above, this Privacy Policy is effective as of August 15th, 2018. For all other individuals, the Privacy Notice is effective immediately.
+If you established a Gumroad account before the "last revised" date above, this Privacy Policy is effective as of August 15th, 2018. For all other individuals, the Privacy Notice is effective immediately.
 
 2\. Types of Data We Collect
 ----------------------------
@@ -24,26 +28,26 @@ We may collect and store the following Personal Data:
 ### Information You Provide to Us.
 
 * Contact information, such as name, user ID, e-mail address, and phone number
-* Information necessary for us to remit payments to sellers, such as financial account transactional information based on your activities on the Site as a seller (such as item and content you generate or that relates to your account); community discussions, chats, dispute resolution, correspondence through our Site, and correspondence sent to us; information we ask you to submit to authenticate yourself or if we believe you are violating site policies (for example, we may ask you to send us an ID or bill to verify your address, or to answer additional questions online to help verify your identity or ownership of an item you list);
-* Marketing information, such your preferences for receiving marketing communications and details about how you engage with marketing communications; and
+* Information necessary for us to remit payments to sellers, such as financial account transactional information based on your activities on the Site as a seller (such as item and content you generate or that relates to your account); community discussions, chats, dispute resolution, correspondence through our Site, and correspondence sent to us
+* Marketing information, such your preferences for receiving marketing communications and details about how you engage with marketing communications
 * Other personal information you choose to submit to us
 
-### Information We Collect About Buyers From or on Behalf of Our Sellers
+### Information We Collect About Buyers From or on Behalf of Our Sellers.
 
-* We may collect information about buyers from or on behalf of our sellers. The sellers determine the scope of the information we collect on their behalf, that they transfer to us, or that we otherwise collect, and the information we receive may vary by seller. Typically, the information we collect about individuals from or on behalf of our sellers includes:
-* transactional information based on your activities on the Site as a buyer (such as item and content you purchase)
-* payment information, such as credit card number
-* your contact information (such as your name, user ID, email-address, and shipping, billing and other information you provide to purchase an item or receive delivery of an item
-* other personal information that our sellers may provide about you
+* We may collect information about buyers from or on behalf of our sellers. The sellers determine the scope of the information we collect on their behalf, that they transfer to us, or that we otherwise collect, and the information we receive may vary by seller.
+* Transactional information based on your activities on the Site as a buyer (such as item and content you purchase)
+* Payment information, such as credit card number
+* Your contact information (such as your name, user ID, email-address, and shipping, billing and other information you provide to purchase an item or receive delivery of an item)
+* Other personal information that our sellers may provide about you
 
 ### Information Automatically Collected.
 
-* When you access the Site, we, our service providers, and our business partners may automatically log information about you, your computer or mobile device, and activity on our Site. The information that may be collected automatically includes your computer or mobile device operating system type and version number, manufacturer and model, device identifier (such as the Google Advertising ID or Apple ID for Advertising), browser type, screen resolution, IP address, the website you visited before browsing to our Site, general location information such as city, state or geographic area; and information about your use of and actions on our Sites, such as pages you viewed, how long you spent on a page, navigation paths between pages, information about your activity on a page, access times, and length of access. Our service providers and business partners may collect this type of information over time and across third-party websites. This information is collected using cookies and similar technologies. Please refer to the Cookies and Similar Technologies section for more details.
+* Your computer or mobile device operating system type and version number, manufacturer and model, device identifier (such as the Google Advertising ID or Apple ID for Advertising), browser type, screen resolution, IP address, the website you visited before browsing to our Site, general location information such as city, state or geographic area; and information about your use of and actions on our Sites, such as pages you viewed, how long you spent on a page, navigation paths between pages, information about your activity on a page, access times, and length of access. Our service providers and business partners may collect this type of information over time and across third-party websites. This information is collected using cookies and similar technologies. Please refer to the Cookies and Similar Technologies section for more details.
 
 ### Social Media Networks and other Third Party Platforms.
 
 * We may offer single sign-on services that allow you to use third party login credentials to sign into Service. With your permission, Gumroad may also collect profile information contained in your third-party profile. Gumroad may also, for your use, enable you to import information about who you are connected to, as well as enable you to share information with those third-party sites. If you wish to discontinue such sharing, please refer to the settings on the third-party service or your preference page on Gumroad.
-* We may also maintain pages for our company and our products on a variety of third-party platforms, such as Facebook, Twitter, Google+, YouTube, Instagram, and other social networking services. When you interact with our pages on those third-party platforms, the third-party’s privacy policy will govern your interactions on the relevant platform. If the third party platform provides us with information about our pages on those platforms or your interactions with them, we will treat that information in accordance with this Privacy Policy.
+* We may also maintain pages for our company and our products on a variety of third-party platforms, such as Facebook, Twitter, Google+, YouTube, Instagram, and other social networking services. When you interact with our pages on those third-party platforms, the third-party's privacy policy will govern your interactions on the relevant platform. If the third party platform provides us with information about our pages on those platforms or your interactions with them, we will treat that information in accordance with this Privacy Policy.
 
 ### Sensitive Personal Information.
 
@@ -64,15 +68,15 @@ Our Site uses the following types of cookies for the purposes set out below:
 
 * **Essential Cookies** - These cookies are essential to provide you with services available through our Site and to enable you to use some of its features. Without these cookies, the services that you have asked for cannot be provided, and we only use these cookies to provide you with those services.
 * **Functionality Cookies** - These cookies allow our Sites to remember choices you make when you use our Sites. The purpose of these cookies is to provide you with a more personal experience and to avoid you having to re-select your preferences every time you visit our Site.
-* **Analytics and Performance Cookies** - These cookies collect information about traffic to our Sites and about how individuals use our Sites. The information gathered may include the types of information described above in the section titled “Information automatically collected.” We use this information to help operate our Site more efficiently, to gather broad demographic information, monitor the level of activity on our Site, and improve the Site. We use Google Analytics, Optimizely, and New Relic for this purpose. These parties use their own cookies. You can find out more information about Google Analytics cookies here: [https://developers.google.com/analytics/resources/concepts/gaConceptsCookies](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies), and about how Google protects your data here: [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html). You can prevent the use of Google Analytics relating to your use of our Site by downloading and installing the browser plugin available here: [tools.google.com/dlpage/gaoptout?hl=en-GB](http://tools.google.com/dlpage/gaoptout?hl=en-GB). You can find out more about New Relic’s services here: https://newrelic.com/, and its privacy practices here: [https://newrelic.com/termsandconditions/privacy](https://newrelic.com/termsandconditions/privacy).
-* **Social Media Cookies** - These cookies are used when you share information using a social media sharing button or “like” (or similar) button on our Site or you link your account or engage with our content on or through a social networking website such as Facebook or Twitter. The social network will record that you have done this. Social networks use their own cookies.
-* **Targeted and advertising cookies** - These cookies track your browsing habits to enable us and third-party advertising networks to deliver ads that may be of interest to you. These cookies use information about your browsing history to group you with other users who have similar interests or browsing behavior. Based on the cookies that the third-party advertising network sets on our Site and other sites, advertisers can display advertisements that may be relevant to your interests on our Site and while you are on third party websites. You can choose to disable cookies, as described below, or to opt out of the use of your browsing behaviour for purposes of targeted advertising. For opt out instructions, please review the “Targeted online advertising” portion of the “Your Choices” section of this Privacy Policy."
+* **Analytics and Performance Cookies** - These cookies collect information about traffic to our Sites and about how individuals use our Sites. The information gathered may include the types of information described above in the section titled "Information automatically collected." We use this information to help operate our Site more efficiently, to gather broad demographic information, monitor the level of activity on our Site, and improve the Site. We use Google Analytics, Optimizely, and New Relic for this purpose. These parties use their own cookies. You can find out more information about Google Analytics cookies here: [https://developers.google.com/analytics/resources/concepts/gaConceptsCookies](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies), and about how Google protects your data here: [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html). You can prevent the use of Google Analytics relating to your use of our Site by downloading and installing the browser plugin available here: [tools.google.com/dlpage/gaoptout?hl=en-GB](http://tools.google.com/dlpage/gaoptout?hl=en-GB). You can find out more about New Relic's services here: [https://newrelic.com/](https://newrelic.com/), and its privacy practices here: [https://newrelic.com/termsandconditions/privacy](https://newrelic.com/termsandconditions/privacy).
+* **Social Media Cookies** - These cookies are used when you share information using a social media sharing button or "like" (or similar) button on our Site or you link your account or engage with our content on or through a social networking website such as Facebook or Twitter. The social network will record that you have done this. Social networks use their own cookies.
+* **Targeted and advertising cookies** - These cookies track your browsing habits to enable us and third-party advertising networks to deliver ads that may be of interest to you. These cookies use information about your browsing history to group you with other users who have similar interests or browsing behavior. Based on the cookies that the third-party advertising network sets on our Site and other sites, advertisers can display advertisements that may be relevant to your interests on our Site and while you are on third party websites. You can choose to disable cookies, as described below, or to opt out of the use of your browsing behaviour for purposes of targeted advertising. For opt out instructions, please review the "Targeted online advertising" portion of the "Your Choices" section of this Privacy Policy.
 
 ### Disabling cookies
 
-You can typically remove or reject cookies via your browser settings. In order to do this, follow the instructions provided by your browser (usually located within the “settings,” “help” “tools” or “edit” menus). Many browsers are set to accept cookies until you change your settings.
+You can typically remove or reject cookies via your browser settings. In order to do this, follow the instructions provided by your browser (usually located within the "settings," "help" "tools" or "edit" menus). Many browsers are set to accept cookies until you change your settings.
 
-For further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+For further information about cookies, including how to see what cookies have been set on your computer or mobile device and how to manage and delete them, visit [www.allaboutcookies.org](https://www.allaboutcookies.org/).
 
 If you do not accept our cookies, you may experience some inconvenience in your use of our Site. For example, we may not be able to recognize your computer or mobile device and you may need to log in every time you visit our Site.
 
@@ -80,23 +84,23 @@ If you do not accept our cookies, you may experience some inconvenience in your 
 
 In addition to cookies, our Sites may use other technologies, such as Flash technology, pixel tags, and software development kits (or SDKs) to collect information automatically.
 
-#### Flash Technology
+#### Flash technology
 
-We may use Flash cookies (which are also known as Flash Local Shared Object (“LSOs”)) on our Site to collect and store information about your use of our Site. Unlike other cookies, Flash cookies cannot be removed or rejected via your browser settings. If you do not want Flash cookies stored on your computer or mobile device, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Website Storage Settings Panel at this website. You can also control Flash LSOs by going to the Global Storage Settings Panel at this website and following the instructions. Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in connection with our Site.
+We may use Flash cookies (which are also known as Flash Local Shared Object ("LSOs")) on our Site to collect and store information about your use of our Site. Unlike other cookies, Flash cookies cannot be removed or rejected via your browser settings. If you do not want Flash cookies stored on your computer or mobile device, you can adjust the settings of your Flash player to block Flash LSO storage using the tools contained in the Website Storage Settings Panel at this website. You can also control Flash LSOs by going to the Global Storage Settings Panel at this website and following the instructions. Please note that setting the Flash Player to restrict or limit acceptance of Flash LSOs may reduce or impede the functionality of some Flash applications, including, potentially, Flash applications used in connection with our Site.
 
 #### Pixel tags
 
-We may also use pixel tags (which are also known as web beacons and clear GIFs) on our Site and in our HTML formatted emails to track the actions of users on our Site and interactions with our emails. Unlike cookies, which are stored on the hard drive of your computer or mobile device by a website, pixel tags are embedded invisibly on webpages or within HTML formatted emails. Pixel tags are used to demonstrate that a webpage was accessed or that certain content was viewed, typically to measure the success of our marketing campaigns or engagement with our emails and to compile statistics about usage of the Site, so that we can manage our content more effectively. 
+We may also use pixel tags (which are also known as web beacons and clear GIFs) on our Site and in our HTML formatted emails to track the actions of users on our Site and interactions with our emails. Unlike cookies, which are stored on the hard drive of your computer or mobile device by a website, pixel tags are embedded invisibly on webpages or within HTML formatted emails. Pixel tags are used to demonstrate that a webpage was accessed or that certain content was viewed, typically to measure the success of our marketing campaigns or engagement with our emails and to compile statistics about usage of the Site, so that we can manage our content more effectively.
 
 #### Software Development Kits
 
-Our mobile applications may use software development kits (“SDKs”) provided by third parties. SDKs enable us to provide features and functionality developed by third-party developers, including to provide us with analytics, social media integration, and advertising. The SDKs we use may enable third parties to collect information about the users of our mobile applications. The types of SDKs we use include:
+Our mobile applications may use software development kits ("SDKs") provided by third parties. SDKs enable us to provide features and functionality developed by third-party developers, including to provide us with analytics, social media integration, and advertising. The SDKs we use may enable third parties to collect information about the users of our mobile applications. The types of SDKs we use include:
 
-* **Analytics SDKs.** These SDKs are used to collect information about use of our mobile applications. The information gathered may include the types of information described above in the section titled “Information automatically collected.” We use this information to help operate our mobile applications more efficiently, to gather broad demographic information, monitor the level of activity on and within the application, diagnose errors, and improve the mobile application.
-* **Social Media SDKs.** These SDKs help you to interact with social networks you are signed into while using our mobile application, such as by sharing content with the social network and other features you use with the social network. Social networks may also work with our apps for analytics or advertising purposes, as discussed above.
-* **Advertising SDKs.** These SDKs allow our advertising partners to collect information about your devices, and how you use our mobile application and other sites and applications over time; and to use this information to show you ads of potential interest and measure how the ads perform. These third parties’ collection, use, and sharing of your personal information is subject to their own privacy policies. You may be able to control or limit use of certain information collected through advertising SDKs for purposes of targeted advertising. For additional information, please review the “Targeted online advertising” portion of the “Your Choices” section of this Privacy Policy.
+* **Analytics SDKs** - These SDKs are used to collect information about use of our mobile applications. The information gathered may include the types of information described above in the section titled "Information automatically collected." We use this information to help operate our mobile applications more efficiently, to gather broad demographic information, monitor the level of activity on and within the application, diagnose errors, and improve the mobile application.
+* **Social Media SDKs** - These SDKs help you to interact with social networks you are signed into while using our mobile application, such as by sharing content with the social network and other features you use with the social network. Social networks may also work with our apps for analytics or advertising purposes, as discussed above.
+* **Advertising SDKs** - These SDKs allow our advertising partners to collect information about your devices, and how you use our mobile application and other sites and applications over time; and to use this information to show you ads of potential interest and measure how the ads perform. These third parties' collection, use, and sharing of your personal information is subject to their own privacy policies. You may be able to control or limit use of certain information collected through advertising SDKs for purposes of targeted advertising. For additional information, please review the "Targeted online advertising" portion of the "Your Choices" section of this Privacy Policy.
 
-We maintain a list of SDKs used in our App here: [http://help.gumroad.com/326594-what-sdks-are-used-in-your-mobile-applications](https://help.gumroad.com/article/280-create-application-api).
+We maintain a list of SDKs used in our App here: [http://help.gumroad.com/326594-what-sdks-are-used-in-your-mobile-applications](http://help.gumroad.com/326594-what-sdks-are-used-in-your-mobile-applications).
 
 4\. Use of Your Personal Data
 -----------------------------
@@ -112,7 +116,7 @@ We maintain a list of SDKs used in our App here: [http://help.gumroad.com/326594
 * prevent, detect, and investigate potentially prohibited or illegal activities, and enforce our User Agreement;
 * customize, measure and improve our Service and content;
 * tell you about our Service, service updates, and promotional offers based on your communication preferences;
-* compare information for accuracy, and verify it with third parties; and
+* compare information for accuracy, and verify it with third parties;
 * and other uses as described when we collect the information.
 
 ### To communicate with you
@@ -121,7 +125,7 @@ If you request information from us (such as signing up for our newsletter), regi
 
 ### Use of Personal Data About Buyers on Behalf of Our Sellers.
 
-We use personal information we collect about buyers from or on behalf of our sellers to provide services only as directed or authorized by the seller. We do not use this information for our own purposes. Typically, our clients direct or authorize us to use personal information collected on their behalf to enable ecommerce and payments functionality on our clients’ websites, to manage the delivery of electronic goods, and to deliver communications from the sellers to their buyers.
+We use personal information we collect about buyers from or on behalf of our sellers to provide services only as directed or authorized by the seller. We do not use this information for our own purposes. Typically, our clients direct or authorize us to use personal information collected on their behalf to enable ecommerce and payments functionality on our clients' websites, to manage the delivery of electronic goods, and to deliver communications from the sellers to their buyers.
 
 ### To comply with law.
 
@@ -148,7 +152,7 @@ We may also share your Personal Data with:
 * Our subsidiaries and corporate affiliates for purposes consistent with this Privacy Policy.
 * Our sellers, when you make a purchase with them using our Services.
 * Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service).
-* A third party payments processor to process payments made to us. Currently, we use Stripe to process our payments. Stripe may use personal information it collects when processing our payments as directed by us and for certain additional purposes. The information that Stripe obtains in connection with processing our payments is subject to Stripe’s Privacy Policy.
+* A third party payments processor to process payments made to us. Currently, we use Stripe to process our payments. Stripe may use personal information it collects when processing our payments as directed by us and for certain additional purposes. The information that Stripe obtains in connection with processing our payments is subject to Stripe's Privacy Policy.
 * Professional advisors, such as lawyers, bankers, auditors and insurers, where necessary in the course of the professional services that they render to us.
 * Law enforcement, governmental agencies, or authorized third-parties, in response to a verified request relating to a criminal investigation or alleged illegal activity or any other activity that may expose us, you, or any other Gumroad User to legal liability. In such events, we will disclose information relevant to the investigation, such as name, city, state, ZIP code, telephone number, e-mail address, User ID history, IP address, fraud complaints, bidding and listing history, and anything else we may deem relevant to the investigation.
 * Other business entities with which we perform a business transaction (or potential business transaction), such as a merger, consolidation, or acquisition, in which case we will make reasonable efforts to require that the recipient follow this Privacy Policy with respect to your Personal Data. In the event of an insolvency, bankruptcy or receivership, your Personal Data may also be transferred as a business asset.
@@ -171,13 +175,13 @@ You may opt out of marketing-related emails by clicking on a link at the bottom 
 
 ### Targeted online advertising
 
-Some of the business partners that collect information about users’ activities on our Sites may be members of organizations or programs that provide choices to individuals regarding the use of their browsing behavior or mobile application usage for purposes of targeted advertising.
+Some of the business partners that collect information about users' activities on our Sites may be members of organizations or programs that provide choices to individuals regarding the use of their browsing behavior or mobile application usage for purposes of targeted advertising.
 
-Users may opt out of receiving targeted advertising on websites through members of the Network Advertising Initiative by clicking here: [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices), or the Digital Advertising Alliance by clicking here: [www.aboutads.info/choices](http://www.aboutads.info/choices). European users may opt out of receiving targeted advertising on websites through members of the European Interactive Digital Advertising Alliance by clicking here: [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/), selecting the user’s country, and then clicking “Choices” (or similarly-titled link). Mobile app users may opt out of receiving targeted advertising in mobile apps through participating members of the Digital Advertising Alliance by installing the AppChoices mobile app, available here: [https://www.youradchoices.com/appchoices](https://www.youradchoices.com/appchoices), and selecting the user’s choices. Please note that we also may work with companies that offer their own opt-out mechanisms and may not participate in the opt-out mechanisms that we linked above.
+Users may opt out of receiving targeted advertising on websites through members of the [Network Advertising Initiative](http://www.networkadvertising.org/choices), or the [Digital Advertising Alliance](http://www.aboutads.info/choices). European users may opt out of receiving targeted advertising on websites through members of the [European Interactive Digital Advertising Alliance](https://www.youronlinechoices.eu/), selecting the user's country, and then clicking "Choices" (or similarly-titled link). Mobile app users may opt out of receiving targeted advertising in mobile apps through participating members of the Digital Advertising Alliance by installing the [AppChoices mobile app](https://www.youradchoices.com/appchoices), and selecting the user's choices. Please note that we also may work with companies that offer their own opt-out mechanisms and may not participate in the opt-out mechanisms that we linked above.
 
 If you choose to opt-out of targeted advertisements, you will still see advertisements online but they may not be relevant to you. Even if you do choose to opt out, not all companies that serve online behavioural advertising are included in this list, and so you may still receive some cookies and tailored advertisements from companies that are not listed.
 
-In addition, your mobile device settings may provide to limit our, or our partners’, ability to engage in ad tracking or targeted advertising using the Google Advertising ID or Apple ID for Advertising associated with your mobile device.
+In addition, your mobile device settings may provide to limit our, or our partners', ability to engage in ad tracking or targeted advertising using the Google Advertising ID or Apple ID for Advertising associated with your mobile device.
 
 ### Do Not Track Signals
 
@@ -217,25 +221,24 @@ Any modifications to this Privacy Policy will be effective upon our posting of t
 We take the privacy and security of Google user data seriously and adhere to Google's API Services User Data Policy. This section outlines how we handle data obtained through Google APIs:
 
 * **Limited Use** - We only use Google user data to provide and improve the core functionality of our application. We do not use this data for any other purposes.
-* ‍**Data Access** - Google user data is accessed solely to deliver the features prominently displayed in our app's user interface. We do not access or use this data for any hidden or undisclosed purposes.
-* ‍**Data Sharing** - We do not transfer or sell Google user data to third parties, including advertising platforms, data brokers, or information resellers. The only exceptions to this are:  
-        a) When necessary to provide or improve our app's core features, and only with explicit user consent  
-        b) For security purposes (e.g., investigating potential abuse)  
-        c) To comply with applicable laws  
-        d) In the event of a merger, acquisition, or sale of assets, after obtaining explicit prior consent from users
-* ‍**Data Processing** - Our employees, agents, and contractors are prohibited from reading Google user data, except in the following limited circumstances:  
-        a) When we have obtained the user's affirmative agreement to view specific data  
-        b) When necessary for security purposes  
-        c) When required to comply with applicable laws
-* ‍**Prohibited Uses** - We do not use Google user data for:  
-        a) Serving advertisements, including retargeting, personalized, or interest-based advertising  
-        b) Determining creditworthiness or for lending purposes  
-        c) Any purposes not explicitly disclosed in this privacy policy**‍**
-* **Data Retention** - We retain Google user data only for as long as necessary to provide our services. Users can request deletion of their Google data from our systems at any time.**‍**
-* **Security** - We employ industry-standard security measures to protect Google user data from unauthorized access, alteration, or destruction.**‍**
-* **User Control** - Users can revoke our access to their Google data at any time through their Google Account settings or by contacting us directly.**‍**
-* **Updates** - We will keep this section of our privacy policy up-to-date and notify users of any changes in how we handle Google user data.  
-    
+* **Data Access** - Google user data is accessed solely to deliver the features prominently displayed in our app's user interface. We do not access or use this data for any hidden or undisclosed purposes.
+* **Data Sharing** - We do not transfer or sell Google user data to third parties, including advertising platforms, data brokers, or information resellers. The only exceptions to this are:
+    * a) When necessary to provide or improve our app's core features, and only with explicit user consent
+    * b) For security purposes (e.g., investigating potential abuse)
+    * c) To comply with applicable laws
+    * d) In the event of a merger, acquisition, or sale of assets, after obtaining explicit prior consent from users
+* **Data Processing** - Our employees, agents, and contractors are prohibited from reading Google user data, except in the following limited circumstances:
+    * a) When we have obtained the user's affirmative agreement to view specific data
+    * b) When necessary for security purposes
+    * c) When required to comply with applicable laws
+* **Prohibited Uses** - We do not use Google user data for:
+    * a) Serving advertisements, including retargeting, personalized, or interest-based advertising
+    * b) Determining creditworthiness or for lending purposes
+    * c) Any purposes not explicitly disclosed in this privacy policy
+* **Data Retention** - We retain Google user data only for as long as necessary to provide our services. Users can request deletion of their Google data from our systems at any time.
+* **Security** - We employ industry-standard security measures to protect Google user data from unauthorized access, alteration, or destruction.
+* **User Control** - Users can revoke our access to their Google data at any time through their Google Account settings or by contacting us directly.
+* **Updates** - We will keep this section of our privacy policy up-to-date and notify users of any changes in how we handle Google user data.
 
 By using our application and granting access to your Google data, you consent to these practices.
 
@@ -249,7 +252,7 @@ If you have any questions or concerns at all about our Privacy Policy, please fe
 
 ### Personal information
 
-References to “personal information” in this Privacy Policy are equivalent to “personal data” governed by European data protection legislation.
+References to "personal information" in this Privacy Policy are equivalent to "personal data" governed by European data protection legislation.
 
 ### Controller
 
@@ -262,7 +265,7 @@ Gumroad acts as a processor to sellers through the Services, as described throug
 We use your personal information only as permitted by law. We are required to inform you of the legal bases of our processing of your personal information, which are described in the table below. If you have questions about the legal basis of how we process your personal information, contact us at support@gumroad.com.
 
 * **To provide our Sites and Services** - Processing is necessary to perform the contract governing our provision of the Services or to take steps that you request prior to signing up for the Services.
-* **To communicate with you,  To create anonymous data , For compliance, fraud prevention and safety** - These processing activities constitute our legitimate interests. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal information for our legitimate interests. We do not use your personal information for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
+* **To communicate with you, To create anonymous data, For compliance, fraud prevention and safety** - These processing activities constitute our legitimate interests. We make sure we consider and balance any potential impact on you (both positive and negative) and your rights before we process your personal information for our legitimate interests. We do not use your personal information for activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law).
 * **To comply with law** - Processing is necessary to comply with our legal obligations
 * **With your consent** - Processing is based on your consent. Where we rely on your consent you have the right to withdraw it anytime in the manner indicated in the Service or by contacting us at [support@gumroad.com](mailto:support@gumroad.com).
 * **Use of Personal Data on Behalf of Our Sellers** - We use personal data to comply with the instructions of the data controller, our sellers and, to the extent necessary, to perform the contract governing our provision of the Services or to take steps that you request prior to signing up for the Services.
@@ -283,13 +286,13 @@ When we no longer require the personal information we have otherwise collected a
 
 European data protection laws give European Union users certain rights regarding their personal information. If you are located within the European Union, you may ask us to take the following actions in relation to your personal information that we hold in the capacity of a data controller:
 
-* **Opt-out.** Stop sending you direct marketing communications. You may continue to receive service-related and other non-marketing emails.
-* **Access.** Provide you with information about our processing of your personal information and give you access to your personal information.
-* **Correct.** Update or correct inaccuracies in your personal information.
-* **Delete.** Delete your personal information.
-* **Transfer.** Transfer a machine-readable copy of your personal information to you or a third party of your choice.
-* **Restrict.** Restrict the processing of your personal information.
-* **Object.** Object to our reliance on our legitimate interests as the basis of our processing of your personal information.
+* **Opt-out** - Stop sending you direct marketing communications. You may continue to receive service-related and other non-marketing emails
+* **Access** - Provide you with information about our processing of your personal information and give you access to your personal information
+* **Correct** - Update or correct inaccuracies in your personal information
+* **Delete** - Delete your personal information
+* **Transfer** - Transfer a machine-readable copy of your personal information to you or a third party of your choice
+* **Restrict** - Restrict the processing of your personal information
+* **Object** - Object to our reliance on our legitimate interests as the basis of our processing of your personal information
 
 You can submit these requests by email to [support@gumroad.com](mailto:support@gumroad.com) or our postal address provided above. We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us as described above or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator here.
 
@@ -299,24 +302,22 @@ To the extent we act as a processor on behalf of a seller, individuals should co
 
 Whenever we transfer your personal information out of the EEA to countries not deemed by the European Commission to provide an adequate level of personal information protection, the transfer will be based:
 
-* Pursuant to the recipient’s compliance with standard contractual clauses, EU-US Privacy Shield, or Binding Corporate Rules
+* Pursuant to the recipient's compliance with standard contractual clauses, EU-US Privacy Shield, or Binding Corporate Rules
 * Pursuant to the consent of the individual to whom the personal information pertains
 * As otherwise permitted by applicable EEA requirements.
 
 Please contact us if you want further information on the specific mechanism used by us when transferring your personal information out of the EEA.
 
-‍
+Subscribe to get tips and tactics to grow the way you want.
 
-#### Subscribe to get tips and tactics to grow the way you want.
+→
 
-  →
-
-[Help](https://help.gumroad.com/)[Terms of Service](https://gumroad.com/about/terms)[Privacy Policy](https://gumroad.com/about/privacy)
-
-[Features](https://gumroad.com/about/features)[Pricing](https://gumroad.com/about/pricing)[About](https://gumroad.com/about)[Jobs](https://jobs.gumroad.com/)[Board meetings](https://www.youtube.com/watch?v=st8ns96z7d4)
-
-![](https://cdn.prod.website-files.com/6171b265e5c8aa59b42c3472/618f28a89e94524552a002cb_g-icon.svg)
+![Gumroad icon](https://assets.gumroad.com/assets/logo-g-9ae0790a0136b136f1979c9759d2a04c051cde5f7caf59231750793e387245ca.svg)
 
 Ⓒ Gumroad, Inc.
+
+[Taxes](https://gumroad.com/taxes) [Terms of Service](https://gumroad.com/terms) [Privacy Policy](https://gumroad.com/privacy)
+
+[Features](https://gumroad.com/features) [Pricing](https://gumroad.com/pricing) [About](https://gumroad.com/about) [Jobs](https://jobs.gumroad.com/) [Board meetings](https://www.youtube.com/watch?v=st8ns96z7d4)
 
 [](https://twitter.com/gumroad)[](https://www.youtube.com/channel/UC6o7H5wr2Cf4ibntYEs4Mcg)[](https://www.instagram.com/gumroad/)[](https://www.facebook.com/gumroad)[](http://pinterest.com/gumroad)
