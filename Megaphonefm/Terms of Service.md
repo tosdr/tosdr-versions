@@ -73,10 +73,7 @@ Choose a category to learn more
 Real stories from real customers
 --------------------------------
 
-[Level-up your revenue with Megaphone
-------------------------------------](https://megaphone.fm/results/level-up-your-revenue-with-megaphone)[Reach new audiences with embeddable player
-------------------------------------------](https://megaphone.fm/results/reach-new-audiences-with-embeddable-player)[Building a successful network on Megaphone
-------------------------------------------](https://megaphone.fm/results/linkedin)
+[Level-up your revenue with Megaphone](https://megaphone.fm/results/level-up-your-revenue-with-megaphone)[Reach new audiences with embeddable player](https://megaphone.fm/results/reach-new-audiences-with-embeddable-player)[Building a successful network on Megaphone](https://megaphone.fm/results/linkedin)
 
 Terms and Policies
 ==================
