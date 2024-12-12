@@ -36,13 +36,31 @@ RippleXRP](https://www.bitpanda.com/en/prices/ripple-xrp)[![BEST](https://a.stor
 
 Bitpanda Ecosystem Token BEST](https://www.bitpanda.com/en/prices/bitpanda-ecosystem-token-best)[See all Cryptocurrencies](https://www.bitpanda.com/en/prices/cryptocurrencies#)
 
+Trade
+
+The new standard for crypto trading
+
+[![](https://sbcdn.bitpanda.com/36x36/b942f83244/navigation-icon_fusion-navigation-icon_round.png)
+
+Bitpanda FusionTrade with aggregated liquidity at the best prices](https://www.bitpanda.com/en/fusion)
+
+New to trading
+
+[![](https://sbcdn.bitpanda.com/175x150/3cbe835cb3/icon-academy-1.svg)
+
+Start Trading cryptoStart your trading journey with confidence](https://www.bitpanda.com/academy/en/lessons/how-to-start-trading-cryptocurrencies)
+
+[![](https://sbcdn.bitpanda.com/175x150/3cbe835cb3/icon-academy-1.svg)
+
+Broker vs exchange vs advanced tradingThe differences in crypto investment platforms](https://www.bitpanda.com/academy/en/lessons/the-difference-between-a-cryptocurrency-broker-and-an-exchange)
+
+[![](https://sbcdn.bitpanda.com/175x150/3cbe835cb3/icon-academy-1.svg)
+
+Trading indicatorsImportant indicators in crypto trading](https://www.bitpanda.com/academy/en/lessons/important-indicators-in-crypto-trading)
+
 [Features](https://www.bitpanda.com/en/features)
 
 Popular features
-
-[![Crypto Index new](https://a.storyblok.com/f/167140/x/6ba29c68e3/crypto-index-new.svg)
-
-Bitpanda Crypto Index Never miss out on the next asset](https://www.bitpanda.com/en/prices/bci-bitpanda-crypto-index)
 
 [![Savings plan](https://a.storyblok.com/f/167140/x/0f8d8a2c0b/savings-plan.svg)
 
@@ -51,14 +69,6 @@ Savings Plan A savings plan for Bitcoin and more](https://www.bitpanda.com/en/sa
 [![](https://sbcdn.bitpanda.com/56x56/afa6a0f259/spotlight_icon_menu.svg)
 
 Bitpanda Spotlight New assets are waiting for you](https://www.bitpanda.com/en/bitpanda-spotlight)
-
-[![](https://sbcdn.bitpanda.com/36x36/e88c8076f5/group-1310.svg)
-
-Bitpanda Cash Plus Earn high-yield returns from 24/7 availability](https://www.bitpanda.com/en/bitpanda-cash-plus)
-
-[![](https://sbcdn.bitpanda.com/150x150/046d392dae/bitpandaclub_36x36.svg)
-
-Bitpanda ClubAdditional benefits for our most valued customers](https://www.bitpanda.com/en/bitpanda-club)
 
 [![](https://sbcdn.bitpanda.com/500x500/6790996935/limit-order-menu-icon.png)
 
@@ -87,6 +97,14 @@ BEST RewardsEarn rewards for every transaction](https://www.bitpanda.com/en/bitp
 [![Stacking](https://a.storyblok.com/f/167140/x/98a0566501/stacking.svg)
 
 StakingStart staking popular coins and tokens](https://www.bitpanda.com/en/staking)
+
+[![](https://sbcdn.bitpanda.com/36x36/e88c8076f5/group-1310.svg)
+
+Bitpanda Cash Plus Earn high-yield returns from 24/7 availability](https://www.bitpanda.com/en/bitpanda-cash-plus)
+
+[![](https://sbcdn.bitpanda.com/150x150/046d392dae/bitpandaclub_36x36.svg)
+
+Bitpanda ClubAdditional benefits for our most valued customers](https://www.bitpanda.com/en/bitpanda-club)
 
 Learn
 
@@ -189,6 +207,8 @@ en
 * Invest
     
 * Prices
+    
+* Trade
     
 * Features
     
