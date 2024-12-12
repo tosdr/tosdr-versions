@@ -312,9 +312,6 @@ All Charges are facilitated through a third-party payment processing service. B
     * [Terms of Service](https://mybrightwheel.com/terms/)
     * [Privacy Policy](https://mybrightwheel.com/privacy/)
 * [Get a demo](https://mybrightwheel.com/demo/ "Request your free, personalized demo and we’ll show you how easy it is to get started on brightwheel.")
-    
-    Contact Sales: (855) 758-6642
-    
 
 [![Shark Tank logo that is hyperlinked to YouTube video where brightwheel pitched its childcare software to the sharks.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20210%2055'%3E%3C/svg%3E)
 
