@@ -61,7 +61,6 @@ _Hemp CBD Access In California_  I  **[Learn More](https://www.cdph.ca.gov/Pro
     * [Our Initiative](https://ilovegreengorilla.com/about/#our-initiative)
 * [Contact Us](https://ilovegreengorilla.com/contact/)
     * [Contact Us](https://ilovegreengorilla.com/contact/)
-    * [Store Locator](https://ilovegreengorilla.com/store-locator/)
     * [Wholesale Inquiries](https://ilovegreengorilla.com/wholesale-inquiries/)
 * [Shop Sale](https://ilovegreengorilla.com/products/sale/?orderby=price)
 
@@ -252,7 +251,6 @@ These statements have not been evaluated by the Food and Drug Administration. Th
 ###### Contact
 
 * [Contact Us](https://ilovegreengorilla.com/contact/)
-* [Store Locator](https://ilovegreengorilla.com/store-locator/)
 * [Wholesale Inquiries](https://ilovegreengorilla.com/wholesale-inquiries/)
 * [(323) 452-5919](tel:3234525919)
 * [\[email protected\]](https://ilovegreengorilla.com/cdn-cgi/l/email-protection)
