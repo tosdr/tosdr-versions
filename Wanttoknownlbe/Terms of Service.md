@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/tijd-om-de-bloemen-te-gaan-eten/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/bewezen-lockdowns-werken-niet/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
