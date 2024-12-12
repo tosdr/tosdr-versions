@@ -14,17 +14,156 @@ Force Open Search
 
 Open main menu
 
-Loading...
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
+
+Take your next trip with Atlas Obscura!
+---------------------------------------
+
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
+
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
+
+Trips Highlight
+
+   [![Borneo orangutan](https://img.atlasobscura.com/N-jdSE978JBUhwq3plHsGnuhS8dtSChRRo3l5fL-VrI/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9mMWNi/NWY1Zi05NDkxLTQz/YzgtOWY0My1lYTU2/N2JhNmY2MjFiNmFk/YmZhNWIzODkzMjg0/ZWZfQm9ybmVvIDEg/LSBzaW1vbmUtbWls/bHdhcmQtbktHaW9f/NkVfNGstdW5zcGxh/c2guanBn.jpg)](https://www.atlasobscura.com/adventures/trips/borneo)
+
+Malaysia • 12 days, 11 nights
+
+[NEW - Wild Borneo: Secrets of an Ancient Rainforest](https://www.atlasobscura.com/adventures/trips/borneo)
+
+from
+
+   [![Taktsang Lhakhang, also known as the “Tiger’s Nest”.](https://img.atlasobscura.com/RSZIiueNnnDOP27x8SP3wpC8WS6H6-f16yFb7PVmaR0/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8zNjI0/NGRlMS05YzhjLTQ4/ZGUtOTExNy1kNzhk/NzRjMjBkYjllYTQ4/ZDAyYWM2N2RlODE3/MjVfc2h1dHRlcnN0/b2NrXzUxMjk4MzYy/MSAoMSkuanBn.jpg)](https://www.atlasobscura.com/adventures/trips/bhutan)
+
+Bhutan • 11 days, 10 nights
+
+[Festivals & Temples of Bhutan](https://www.atlasobscura.com/adventures/trips/bhutan)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
 
 Loading...
 
-Loading...
+Upcoming Courses
 
-Loading...
+[View All Courses »](https://www.atlasobscura.com/online-courses)
 
-Loading...
+Top Destinations
 
-Loading...
+Latest Places
+
+[Most Popular Places](https://www.atlasobscura.com/places?sort=likes_count) [Random Place](https://www.atlasobscura.com/random) [Lists](https://www.atlasobscura.com/lists) [Itineraries](https://www.atlasobscura.com/itineraries)[Add a Place](https://www.atlasobscura.com/places/new)[Download the App](https://app.atlasobscura.com/)
+
+Top Destinations
+
+[View All Destinations »](https://www.atlasobscura.com/destinations)
+
+### Countries
+
+* [Australia](https://www.atlasobscura.com/things-to-do/australia "Australia")
+* [Canada](https://www.atlasobscura.com/things-to-do/canada "Canada")
+* [China](https://www.atlasobscura.com/things-to-do/china "China")
+* [France](https://www.atlasobscura.com/things-to-do/france "France")
+* [Germany](https://www.atlasobscura.com/things-to-do/germany "Germany")
+* [India](https://www.atlasobscura.com/things-to-do/india "India")
+* [Italy](https://www.atlasobscura.com/things-to-do/italy "Italy")
+* [Japan](https://www.atlasobscura.com/things-to-do/japan "Japan")
+
+### Cities
+
+* [Amsterdam](https://www.atlasobscura.com/things-to-do/amsterdam-netherlands "Amsterdam")
+* [Barcelona](https://www.atlasobscura.com/things-to-do/barcelona-spain "Barcelona")
+* [Beijing](https://www.atlasobscura.com/things-to-do/beijing-china "Beijing")
+* [Berlin](https://www.atlasobscura.com/things-to-do/berlin-germany "Berlin")
+* [Boston](https://www.atlasobscura.com/things-to-do/boston-massachusetts "Boston")
+* [Budapest](https://www.atlasobscura.com/things-to-do/budapest-hungary "Budapest")
+* [Chicago](https://www.atlasobscura.com/things-to-do/chicago-illinois "Chicago")
+* [London](https://www.atlasobscura.com/things-to-do/london-england "London")
+* [Los Angeles](https://www.atlasobscura.com/things-to-do/los-angeles-california "Los Angeles")
+* [Mexico City](https://www.atlasobscura.com/things-to-do/mexico-city-mexico "Mexico City")
+* [Montreal](https://www.atlasobscura.com/things-to-do/montreal-quebec "Montreal")
+* [Moscow](https://www.atlasobscura.com/things-to-do/moscow-russia "Moscow")
+* [New Orleans](https://www.atlasobscura.com/things-to-do/new-orleans-louisiana "New Orleans")
+* [New York City](https://www.atlasobscura.com/things-to-do/new-york "New York City")
+* [Paris](https://www.atlasobscura.com/things-to-do/paris-france "Paris")
+* [Philadelphia](https://www.atlasobscura.com/things-to-do/philadelphia-pennsylvania "Philadelphia")
+* [Rome](https://www.atlasobscura.com/things-to-do/rome-italy "Rome")
+* [San Francisco](https://www.atlasobscura.com/things-to-do/san-francisco-california "San Francisco")
+* [Seattle](https://www.atlasobscura.com/things-to-do/seattle-washington "Seattle")
+* [Stockholm](https://www.atlasobscura.com/things-to-do/stockholm-sweden "Stockholm")
+* [Tokyo](https://www.atlasobscura.com/things-to-do/tokyo-japan "Tokyo")
+* [Toronto](https://www.atlasobscura.com/things-to-do/toronto-ontario "Toronto")
+* [Vienna](https://www.atlasobscura.com/things-to-do/vienna-austria "Vienna")
+* [Washington, D.C.](https://www.atlasobscura.com/things-to-do/washington-dc "Washington, D.C.")
+
+Latest Places
+
+[View All Places »](https://www.atlasobscura.com/places?sort=published_at)
+
+   [![](https://img.atlasobscura.com/SG2ygIXm5IIfKxPNx5thChntBq2iMWVBnJ6Yk2UPq50/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jNTA3/NjU1My00OTVkLTRh/YzItODZhOC1iOGRi/NTM5OWM0ZjVmZjIz/ZTEzNDQzMDk3MjVi/MzJfSU1HXzMwMDEu/anBlZw.jpg)
+
+Saint Nikolaos of Vouliagmeni](https://www.atlasobscura.com/places/saint-nikolaos-of-vouliagmeni)
+
+   [![Order a cappuccino where the concept of utilitarianism was invented.](https://img.atlasobscura.com/vOths4N7UbXZ1t-qbCjZX0PaIGq5MX1Kd6P4iSwjnTA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iMGYw/M2U4Yy1kM2IzLTRj/MDItYjA2MC0wYjU2/MTViNjU4NjM2Yzlh/YTk4MTg4ZWU1ODM4/Y2RfRFNDXzAyNjUu/anBlZw.jpg)
+
+Queen’s Lane Coffee House](https://www.atlasobscura.com/places/queen-s-lane-coffee-house-2)
+
+   [!["WALDORF ASTORIA · DONALD T. · THE VILLAGE"](https://img.atlasobscura.com/eTN4Eyxx-9hIzBbDtoCW5nI8_P-_UdydW04yqXsYcBg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xZjA5/ZjBiZS1jYmVmLTRh/MjctOTg4Ny03MDQ5/NWNmZmNiYzNkMmFl/YjUwYjk3MGRjN2E2/ZWFfMjAyNDEwMjFf/MDkzMDUxLmpwZw.jpg)
+
+Donald Trump Bench](https://www.atlasobscura.com/places/donald-trump-bench-oslo)
+
+   [![For dessert, try the flan mel i mató, made with a type of Catalan cheese.](https://img.atlasobscura.com/6XGe8ee2rapehwl7DJZJZ9H3Nd8rwAGYEpVE9hZ-A3U/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kMDlj/OTFkNzZiMGJlNDQz/NzJfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi02Mzk0LmpwZw.jpg)
+
+La Pubilla](https://www.atlasobscura.com/places/la-pubilla)
+
+Latest Places to Eat & Drink
+
+[View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
+
+   [![Order a cappuccino where the concept of utilitarianism was invented.](https://img.atlasobscura.com/vOths4N7UbXZ1t-qbCjZX0PaIGq5MX1Kd6P4iSwjnTA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9iMGYw/M2U4Yy1kM2IzLTRj/MDItYjA2MC0wYjU2/MTViNjU4NjM2Yzlh/YTk4MTg4ZWU1ODM4/Y2RfRFNDXzAyNjUu/anBlZw.jpg)
+
+Queen’s Lane Coffee House](https://www.atlasobscura.com/places/queen-s-lane-coffee-house-2)
+
+   [![For dessert, try the flan mel i mató, made with a type of Catalan cheese.](https://img.atlasobscura.com/6XGe8ee2rapehwl7DJZJZ9H3Nd8rwAGYEpVE9hZ-A3U/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kMDlj/OTFkNzZiMGJlNDQz/NzJfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi02Mzk0LmpwZw.jpg)
+
+La Pubilla](https://www.atlasobscura.com/places/la-pubilla)
+
+   [![Introducing the real breakfast of champions: grilled lamb chops and beans.](https://img.atlasobscura.com/Y3xLsHvZjYxZf9g51cJnbcFJFRvLOmHaMIchSMzoXqk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy85Y2Jj/MzllY2YzZTZkN2Y5/NGNfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi00OTg2LmpwZw.jpg)
+
+Cal Boter](https://www.atlasobscura.com/places/cal-boter)
+
+   [![Escudella, a ham bone broth with snail-shaped pasta, is traditionally reserved for Christmas.](https://img.atlasobscura.com/WWQgwRbjaPTLjHKQBa8dTQjWFECQwqUmFXVGkX6efC0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kOWVi/NjhjNDg5NzcwYjA0/NWFfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi00NzY4LmpwZw.jpg)
+
+Can Culleretes](https://www.atlasobscura.com/places/can-culleretes)
+
+   [![Meet Catalonia's answer to crème brûlée.](https://img.atlasobscura.com/97WAgawyCF-1svMNiRiCpfbXvYc3PsfhCXIgGpYGICw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mMzJj/YjBkYTMwZTg3OWNi/M2FfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi01MDU4LmpwZw.jpg)
+
+Granja M. Viader](https://www.atlasobscura.com/places/granja-m-viader)
+
+Recent Stories
+
+[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
+
+Most Recent Stories
+
+[View All Stories »](https://www.atlasobscura.com/articles)
+
+   [![A mural celebrating Russian space exploration remains on the wall at Prypiat's abandoned post office, which once served nearly 50,000 residents.](https://img.atlasobscura.com/NGfw-15712DvEJKO5bFVCTDpbIZcGVT-7qeQ0qJFsvM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9lYTdmOWQxZDk1/ZjQ4YjAzM2FfRFND/MDAyMjBfMS5qcGc.jpg)
+
+Tragedy Lingers Inside Chornobyl's Abandoned City](https://www.atlasobscura.com/articles/abandoned-chernobyl-disaster-ukraine)
+
+   [![Richard, the team's chaser, has gone to start his own charity.](https://img.atlasobscura.com/_MiJU468U7Gf-DidEs8u3GHIt2o_bx8ba5-by8Fhnr0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy82MDZiMzU0YS1i/ZGQyLTQ4OTktYjNl/MS1mOGE4MjhjNjkz/MWU4YzFjZTc4ZTZj/ZmEyN2UwMTZfVFVR/UF9nMDJfUExVU2Nv/bl8yMDIzMTAyMy4w/MF8xM18xNV8wNy5T/dGlsbDAwNi5qcGc.jpg)
+
+Harry Potter's Favorite Sport Is Changing Lives in Rural Uganda](https://www.atlasobscura.com/articles/harry-potter-quidditch-uganda)
+
+   [![It might look like roadkill, but pies like this one are boosting Pizza Hut's sales in Taiwan.](https://img.atlasobscura.com/Hwhyh_TJzIo4tPnhBOK1_qdlWIaAFLBPoF8O8Frde-w/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9kMzU5MTkwOGMw/N2ZmZTNmNzJf54OP/6b6cXzE5MjB4MTA4/MC5qcGc.jpg)
+
+Pizza Hut Taiwan Knows It’s Making Italians Angry](https://www.atlasobscura.com/articles/pizza-hut-taiwan-weird-toppings)
+
+   [![Teriyaki chicken as we know it was invented in Seattle, not Japan.](https://img.atlasobscura.com/x6ha5mDEBcMlR3iku0rA5wZDursFwTFMxeZohqJw66E/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81OWFjYjY2Mi1h/YTQ2LTQ5ZDgtYmZh/My0wNGNiYjMyM2M3/YjgyM2Y0OGFhZGVk/NzM4NjlmNDFfR2V0/dHlJbWFnZXMtMjE1/MTU2ODU0My5qcGc.jpg)
+
+Cooking Creatively With J. Kenji López-Alt](https://www.atlasobscura.com/articles/j-kenji-lopez-alt-the-food-lab)
 
 No search results found for  
 “”
