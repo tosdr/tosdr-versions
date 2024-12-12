@@ -164,6 +164,15 @@
 
 Subscribe
 
+[#### Alzheimer's Disease](https://www.healthline.com/alzheimers-disease)
+
+* [Basics](https://www.healthline.com/alzheimers-disease/basics)
+* [Mental Well-Being](https://www.healthline.com/alzheimers-disease/mental-health)
+* [Diet & Lifestyle](https://www.healthline.com/alzheimers-disease/diet-wellness)
+* [Medications & Treatment](https://www.healthline.com/alzheimers-disease/treatment)
+* [Behavioral Changes](https://www.healthline.com/alzheimers-disease/behavioral-changes)
+* [Early Onset Alzheimer's Disease](https://www.healthline.com/alzheimers-disease/early-onset)
+
 Privacy Policy
 ==============
 
