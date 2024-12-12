@@ -360,14 +360,14 @@ Back
 
 [Try now](https://www.loom.com/try)
 
- [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2465)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
+ [![Atlassian logo](/assets/img/icons/imkt/imkt-navbar__charlie-logo.svg?cdnVersion=2466)](https://www.atlassian.com/ "Visit the Atlassian homepage")[Legal](https://www.loom.com/legal)
 
 * [Legal information](https://www.loom.com/legal)
 * [Atlassian Customer Agreement](https://www.loom.com/legal/atlassian-customer-agreement)
 
 [Atlassian Customer Agreement](https://www.loom.com/legal/atlassian-customer-agreement)
 
-[![Termscout certified icon](https://wac-cdn.atlassian.com/dam/jcr:00de0243-b3b5-456f-be35-cc79860ba433/Horizontal_Narrow_White.jpg?cdnVersion=2465)](https://app.termscout.com/certify/atlassian-certified-contract-aca)
+[![Termscout certified icon](https://wac-cdn.atlassian.com/dam/jcr:00de0243-b3b5-456f-be35-cc79860ba433/Horizontal_Narrow_White.jpg?cdnVersion=2466)](https://app.termscout.com/certify/atlassian-certified-contract-aca)
 
 Atlassian provides a wide range of products, services, and deployment options. As part of our dedication to building with heart and balance, we have developed the Atlassian Customer Agreement to encompass all these offerings in a comprehensive and customized manner. Our products adhere to an enterprise-level set of controls and policies that align with various international standards and market expectations. The agreement is crafted to be customer-friendly, undergoing regular updates informed by market practices and customer input. For further insight into our approach, [please visit this page](https://www.loom.com/legal/our-approach).
 
@@ -709,7 +709,7 @@ Subscribe to receive notifications from us about updates to our legal terms (inc
 
 [Sign up for updates](https://privacy.atlassian.net/servicedesk/customer/portal/1/group/1/create/39)
 
-![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2465)
+![](https://wac-cdn.atlassian.com/dam/jcr:9c4bf443-5045-4ff9-a48d-36ae466f3ced/logos-atlassian-mini-icon-onecolor-blue.svg?cdnVersion=2466)
 
 [Company](https://www.loom.com/company)
 
