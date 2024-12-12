@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/ook-nancy-pelosis-zoon-corrupt-in-oekraine/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/doe-mee-bio-petitie-voor-bio-diversiteit/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
