@@ -679,7 +679,7 @@ Browse
         
         * [Learn More](https://www.maplin.co.uk/blogs/expert-advice)
         * [Which chair is best for my home or office space?](https://www.maplin.co.uk/blogs/expert-advice/which-chair-is-best-for-home-office)
-        * [Finding the ideal TV bracket for you](https://www.maplin.co.uk/blogs/expert-advice/finding-the-ideal-tv-bracket)
+        * [Finding the ideal TV bracket for you](https://www.maplin.co.uk/blogs/expert-advice/choosing-the-ideal-tv-bracket)
         * [Protect your posture](https://www.maplin.co.uk/blogs/expert-advice/improve-posture-while-working)
         * [What are the benefits of flight cases?](https://www.maplin.co.uk/blogs/expert-advice/benefits-of-flight-cases)
         
@@ -1482,7 +1482,7 @@ Browse
     
     * 
     * [Which chair is best for my home or office space?](https://www.maplin.co.uk/blogs/expert-advice/which-chair-is-best-for-home-office)
-    * [Finding the ideal TV bracket for you](https://www.maplin.co.uk/blogs/expert-advice/finding-the-ideal-tv-bracket)
+    * [Finding the ideal TV bracket for you](https://www.maplin.co.uk/blogs/expert-advice/choosing-the-ideal-tv-bracket)
     * [Protect your posture](https://www.maplin.co.uk/blogs/expert-advice/improve-posture-while-working)
     * [What are the benefits of flight cases?](https://www.maplin.co.uk/blogs/expert-advice/benefits-of-flight-cases)
     
@@ -1756,7 +1756,7 @@ Our friendly support team is here to help
 
 * [Confused about chargers?](https://www.maplin.co.uk/blogs/expert-advice/confused-about-usb-wall-chargers)
 * [USB connections explained](https://www.maplin.co.uk/blogs/expert-advice/understand-different-usb-cable-types)
-* [Find the ideal TV bracket](https://www.maplin.co.uk/blogs/expert-advice/finding-the-ideal-tv-bracket)
+* [Find the ideal TV bracket](https://www.maplin.co.uk/blogs/expert-advice/choosing-the-ideal-tv-bracket)
 * [HDMI splitters vs hubs](https://www.maplin.co.uk/blogs/expert-advice/difference-between-hdmi-splitters-switches)
 * [What is LiFePO4?](https://www.maplin.co.uk/blogs/expert-advice/what-is-a-lithium-lifepo4-battery)
 * [How to protect your posture](https://www.maplin.co.uk/blogs/expert-advice/improve-posture-while-working)
@@ -1803,7 +1803,7 @@ _By submitting you agree to our_ [_Privacy Policy_](https://www.maplin.co.uk/pol
 [![Feefo logo](https://api.feefo.com/api/logo?merchantidentifier=digital-first-retail "See what our customers say about us")](https://www.feefo.com/reviews/maplin)
 
 © 2024 Digital-First Retail Ltd, All rights reserved.  
-Maplin & MPS are registered trademarks of OYOD Holdings Ltd.
+Maplin & Maplin Electronics are registered trademarks of OYOD Holdings Ltd.
 
 Payment methods
 
