@@ -3341,7 +3341,7 @@ Nuestros Portales
 * [Transparencia y Buen Gobierno](https://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
 * [Protección de Datos](https://red.es/es/proteccion-de-datos)
 * [Reutilización de la Información del Sector Público](https://sede.red.gob.es/datos-abiertos)
-* [Canal de denuncias](https://red.es/es/canal-de-denuncias)
+* [Canal de denuncias](https://red.es/canal-de-denuncias)
 
 Páginas de Interés
 
