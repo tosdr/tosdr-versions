@@ -10,7 +10,7 @@ Here’s how you know
 
 Here’s how you know
 
-[AskUSDA](https://ask.usda.gov/s/) [News](https://www.usda.gov/about-usda/news/press-releases) [Employee Resources](https://www.usda.gov/our-agency/employee-services)
+[AskUSDA](https://ask.usda.gov/s/) [News](https://www.usda.gov/about-usda/news/press-releases) [Blog](https://www.usda.gov/about-usda/news/blog) [Employee Resources](https://www.usda.gov/our-agency/employee-services)
 
 ![Dot gov](/themes/custom/usda_uswds/img/icon-dot-gov.svg)
 
