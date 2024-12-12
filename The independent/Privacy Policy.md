@@ -144,6 +144,25 @@ Please refresh the page or navigate to another page on the site to be automatica
 Privacy Policy
 ==============
 
+Contents
+
+1. [Contents](#contents)
+2. [Introduction](#introduction)
+3. [What personal information do we collect about you?](#what-personal-information-do-we-collect-about-you)
+4. [What do we use your personal information for?](#what-do-we-use-your-personal-information-for)
+5. [How can you access and update your personal information?](#how-can-you-access-and-update-your-personal-information)
+6. [How long do we keep your personal information for?](#how-long-do-we-keep-your-personal-information-for)
+7. [Who do we share your personal information with?](#who-do-we-share-your-personal-information-with)
+8. [Will my data be sent overseas?](#will-my-data-be-sent-overseas)
+9. [How we may contact you](#how-we-may-contact-you)
+10. [Your data rights:](#your-data-rights)
+11. [Information for California residents](#information-for-california-residents)
+12. [Exercising your rights, asking questions and raising concerns](#exercising-your-rights-asking-questions-and-raising-concerns)
+13. [Contact details](#contact-details)
+14. [Data Protection Officer (DPO)](#data-protection-officer-dpo)
+15. [EU Representative](#eu-representative)
+16. [Changes to this privacy policy](#changes-to-this-privacy-policy)
+
 **Contents**
 ------------
 
