@@ -1,4 +1,4 @@
- [Aller au contenu principal](#main-content)
+[Aller au contenu principal](#main-content)
 
 ![](https://cdn-fr.ouigo.com/edito-p-v3-assets/file/T%C3%A9l%C3%A9chargement%20app.png)
 
