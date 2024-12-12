@@ -119,7 +119,7 @@ Security
 
 [Quality Policy](https://www.mural.co/terms/quality-policy)
 
-[Vulnerability Disclosure Program](https://www.mural.co/terms/vdp)
+[Bug Bounty Program](https://www.mural.co/terms/bug-bounty-program)
 
 More
 
