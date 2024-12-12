@@ -15,7 +15,7 @@
 
 Our Terms of Service and Privacy Policy are available in English only. We ask for your understanding.
 
-Last updated August 14, 2024
+Last updated December 12, 2024
 
 By using the Premiumize.me website and Premiumize.me service you are agreeing to be bound by the following terms and conditions ("Terms of Service").
 
@@ -87,7 +87,7 @@ You agree to pay all charges at the prices then in effect for your purchases, an
 
 We reserve the right to refuse any order placed through the Site or to prevent any order from being placed in advance (e.g. by blocking payment options or products). We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order. These limits may also apply to orders placed from the same customer account or under the same payment method, and/or to orders using the same billing or shipping address. We reserve the right to limit or prohibit orders that, in our sole discretion, appear to have been placed by dealers, unlicensed resellers or distributors. There are no claims to purchase a product, even if it may be available for purchase by other users.
 
-Should Premiumize.me receive a chargeback or dispute relating to a payment you have made, or should your payment be identified as fraudulent or otherwise unlawful, irregular or contrary to this Terms of Service, the Service and the related license will be suspended and you will be liable to repay the relevant amount plus any fees incurred. We also reserves the right to revoke any and all Services until such time as any disputed amounts plus any fees and charges incurred (including for the avoidance of doubt, any relevant payment processing fees) have been repaid. This claim can also be handed over to a collection agency by Premiumize.me or our payment processing partners.
+In the event of an unauthorized chargeback (including chargeback reversals) relating to a payment you have made, or should your payment be identified as fraudulent or otherwise unlawful, irregular or contrary to this Terms of Service, the Service and the related license will be suspended and you will be liable to pay the costs incurred in full. A chargeback is any form of reversal that is not initiated by Premiumize.me or our payment processing partners. Premiumize.me reserves the right to revoke any and all Services until all outstanding amounts plus all accrued fees and costs have been repaid. This includes, but is not limited to, all fees incurred as a result of the chargeback, all fees incurred as a result of the original payment, accruing taxes and, if applicable, reminder fees or costs that are set by a debt collection agency. This claim can also be handed over to a debt collection agency by Premiumize.me or our payment processing partners.
 
 If a contract cannot be extended due to payment problems (e.g., but not limited to, outdated payment data or rejected payments by payment service providers), the user will be informed of this by the payment service provider. Premiumize.me grants a grace period of 72 hours, during which the problem can be solved. A legal claim to this grace period does not exist. After this period, the contract may be terminated by Premiumize.me without notice in accordance with this Agreement and access to the Services may be blocked.
 
@@ -95,7 +95,7 @@ Unless explicitly stated otherwise, a month is defined as 30 days. This also app
 
 Voucher codes from licensed resellers are valid for 12 months after creation by the reseller, unless otherwise stated by Premiumize.me. Coupons which are provided free of charge (e.g. for promotions or trials) are valid for at least one day after creation, unless otherwise stated by Premiumize.me.
 
-Booster packages are valid for 12 months (360 days) after purchase. Any unused booster points expire after this time without replacement.
+Booster packages are valid for 12 months (360 days) after purchase. Any unused booster points expire after this time without replacement. Booster points can only be used with a premium membership.
 
 ### Refunds and Contract Termination
 
@@ -103,7 +103,9 @@ All sales are final and no refund will be issued regardless of usage. This means
 
 Premiumize.me reserves the right to make exceptions to this rule at its sole discretion, especially in cases of fraud, typing errors, etc.
 
-All overcharges or billing disputes must be reported within 60 days of the time the dispute occurred.
+As a gesture of goodwill, Premiumize.me is willing to issue a refund for new customers for their first payment within 14 days of payment. Follow-up payments and payments for booster packages are explicitly excluded. A requirement for the refund is that a maximum of 100 points have been used during this period. As soon as any further payment (including booster packages and subscription upgrades) is made, there is no longer any entitlement to a refund. For technical reasons, a refund is not possible if a refund cannot be initiated via the payment gateway (e.g. for payments in cryptocurrencies or CashToCode). This goodwill policy expressly does not imply any legal right to a refund; the decision is at the sole discretion of Premiumize.me.
+
+All overcharges or billing disputes must be reported to Premiumize.me within 60 days of the time the dispute occurred.
 
 For user accounts that have been blocked due to a violation of these Terms of Service, no refund is possible.
 
