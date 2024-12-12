@@ -14,6 +14,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-countdown-to-christmas/XTFAU7SWQJCGBDIMA6QMPKHIXQ/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Best Diners in Georgia](https://www.ajc.com/food-and-dining/best-diners-in-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
@@ -176,12 +177,12 @@ Follow Us
 
 [](https://twitter.com/ajc)[](https://facebook.com/ajc)[](https://www.instagram.com/ajcnews)
 
-© 2024 . All Rights Reserved.
+© 2024 The Atlanta Journal-Constitution. All Rights Reserved.
 
 By using this website, you accept the terms of our
 
-[](#), [](#), [](#), and understand your options regarding [](#).
+[Terms of Use](https://www.ajc.com/visitor-agreement/), [Privacy Policy](https://www.ajc.com/privacy-policy/), [CCPA](https://www.ajc.com/california-privacy-notice/), and understand your options regarding [Ad Choices](https://www.ajc.com/privacy-policy/#ad-choices).
 
-[Learn about .](#)
+[Learn about Careers at Cox Enterprises.](https://jobs.coxenterprises.com/?prefilters=none&CloudSearchLocation=none&CloudSearchValue=none/)
 
 Cookie Settings
