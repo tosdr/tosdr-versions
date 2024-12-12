@@ -66,7 +66,7 @@ The activities of social media companies and their collection and use of your Pe
 
 You may have rights related to your Personal Information, including the right to access, delete, correct, transfer, and opt out of the use of it for certain purposes. Those rights vary, depending on your relationship with us, where you are located, and the laws that apply in your location. 
 
-For example, residents of California, Colorado, Connecticut, Virginia, Utah, Oregon, Texas, Montana, and certain other states have a variety of privacy rights, including, but not limited to, the right to opt-out of “sales” and/or “sharing” of Personal Information, which includes Targeted Advertising; and limit, opt-out, or opt-in, as applicable, to the use and disclosure of your [Sensitive Personal Information](https://www.condenast.com/privacy-policy#categories-of-personal-information).  For a more detailed description of these and other rights that may be available to you, please see these sections below:
+For example, residents of California, Colorado, Connecticut, Virginia, Utah, Oregon, Texas, Montana, Iowa, Delaware, Nebraska, New Hampshire, New Jersey and certain other states have a variety of privacy rights, including, but not limited to, the right to opt-out of “sales” and/or “sharing” of Personal Information, which includes Targeted Advertising; and limit, opt-out, or opt-in, as applicable, to the use and disclosure of your [Sensitive Personal Information](https://www.condenast.com/privacy-policy#categories-of-personal-information).  For a more detailed description of these and other rights that may be available to you, please see these sections below:
 
 * [Tracking Techniques and Technologies and Targeted Advertising](https://www.condenast.com/privacy-policy#tracking-techniques-and-technologies)
 * [Opting-out of Third-Party Tracking Technologies](https://www.condenast.com/privacy-policy#opting-out)
@@ -80,11 +80,11 @@ There is more detail, including on the topics above, in the Privacy Policy, and 
 Condé Nast Privacy Policy
 =========================
 
-Last Updated: July 1, 2024
+Last Updated: Dec 12, 2024
 
 * * *
 
-_**Note for Residents of California, Colorado, Connecticut, Virginia, Utah, Oregon, Texas and Montana:**_ _This Privacy Policy describes how we collect, use, disclose, sell, share, and retain your Personal Information in connection with our Products and Services and your rights and choices over our processing of your Personal Information. The_ [_Exercising Your Privacy Rights, Including the Right to Opt Out of Targeted Advertising_](https://stage.condenast.com/privacy-policy#exercising-your-privacy-rights) _section below contains specific details related to your rights under California and other applicable laws, including your right to opt-out of “sales” and/or “sharing” of Personal Information, which includes Targeted Advertising; limit, opt-out, or opt-in, as applicable, to the use and disclosure of your Sensitive Personal Information and know, access, correct, delete, restrict, object, and/or have portability of, your Personal Information._
+_**Note for Residents of California, Colorado, Connecticut, Virginia, Utah, Oregon, Texas, Montana, Iowa, Delaware, Nebraska, New Hampshire and New Jersey:**_ _This Privacy Policy describes how we collect, use, disclose, sell, share, and retain your Personal Information in connection with our Products and Services and your rights and choices over our processing of your Personal Information. The_ [_Exercising Your Privacy Rights, Including the Right to Opt Out of Targeted Advertising_](https://stage.condenast.com/privacy-policy#exercising-your-privacy-rights) _section below contains specific details related to your rights under California and other applicable laws, including your right to opt-out of “sales” and/or “sharing” of Personal Information, which includes Targeted Advertising; limit, opt-out, or opt-in, as applicable, to the use and disclosure of your Sensitive Personal Information and know, access, correct, delete, restrict, object, and/or have portability of, your Personal Information._
 
 * * *
 
@@ -234,7 +234,7 @@ We and our advertising partners may make inferences about your interests and the
 
 As noted above, when you use our Products and Services, our third-party advertising partners, social media companies, and analytics providers may collect Personal Information about your online activity on our Products and Services and on third-party websites. These providers may use Tracking Technologies to deliver advertisements to you when you visit third-party websites within their networks. 
 
- There are a variety of methods available to you to opt out of certain third-party Tracking Technologies, including using tools provided within your device, browser, or the settings menu within a mobile application which may include an option that allows you to refuse the placement of certain Tracking Technologies.
+There are a variety of methods available to you to opt out of certain third-party Tracking Technologies, including using tools provided within your device, browser, or the settings menu within a mobile application which may include an option that allows you to refuse the placement of certain Tracking Technologies.
 
 If you would like more information about this practice and your choices with respect to it, please visit [YourAdChoices.com](https://youradchoices.com/), [NAI Opt Out of Interest-Based Advertising](https://optout.networkadvertising.org/?c=1), or [Your Online Choices](https://youronlinechoices.eu/), and/or click the “Ad Choices” icon that appears in Targeted Advertising on our websites. Please note that if you exercise these choices, you may continue to receive ads that are not based on your preferences. 
 
@@ -243,7 +243,7 @@ If you would like more information about this practice and your choices with res
 6\. Understanding Your Privacy Rights and Choices
 =================================================
 
-The states of California, Colorado, Connecticut, Virginia, Utah, Oregon, Texas, and Montana provide its residents certain rights regarding our processing of your Personal Information, including the right to opt-out of Targeted Adverting and/or what is sometimes called “sales” or “sharing” of your Personal Information, and other rights detailed immediately below. If you are a data subject in the European Economic Area (EEA), United Kingdom (UK), and Switzerland, you may also have some of these rights, including the right to: 
+The states of California, Colorado, Connecticut, Virginia, Utah, Oregon, Texas, Montana, Iowa, Delaware, Nebraska, New Hampshire and New Jersey provide its residents certain rights regarding our processing of your Personal Information, including the right to opt-out of Targeted Adverting and/or what is sometimes called “sales” or “sharing” of your Personal Information, and other rights detailed immediately below. If you are a data subject in the European Economic Area (EEA), United Kingdom (UK), and Switzerland, you may also have some of these rights, including the right to: 
 
 * request information about our processing of your Personal Information (right to know), including, depending on your state of residence, a list of specific third parties to whom we have disclosed your Personal Information;
 * request a copy of your Personal Information (right to access);
@@ -266,7 +266,7 @@ Note that these rights are not always absolute and may be limited or denied wher
 7\. Exercising Your Privacy Rights, Including the Right to Opt Out of Targeted Advertising
 ==========================================================================================
 
-To exercise your rights under applicable local law, or if, in accordance with applicable local law in California, Colorado, Connecticut, Virginia, Utah, Oregon, Texas, and Montana, you are an authorized agent, or a parent or guardian seeking to exercise rights on behalf of a minor, please follow the instructions provided below.
+To exercise your rights under applicable local law, or if, in accordance with applicable local law in California, Colorado, Connecticut, Virginia, Utah, Oregon, Texas, Montana, Iowa, Delaware, Nebraska, New Hampshire and New Jersey you are an authorized agent, or a parent or guardian seeking to exercise rights on behalf of a minor, please follow the instructions provided below.
 
 Opting Out of a “Sale” or “Sharing” of Your Personal Information or of its Use for Targeted Advertising
 
