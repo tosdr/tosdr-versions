@@ -112,6 +112,7 @@ Please enter a search term
     * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
     * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
         * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
+        * [Aerospace & Defence](https://www.pinsentmasons.com/sectors/technology-science-industry/aerospace-defence)
         * [Diversified Industrial](https://www.pinsentmasons.com/sectors/technology-science-industry/diversified-industrial)
         * [Life Sciences & Health](https://www.pinsentmasons.com/sectors/technology-science-industry/life-sciences-health)
         * [Technology & Digital Markets](https://www.pinsentmasons.com/sectors/technology-science-industry/technology)
@@ -796,20 +797,20 @@ Other notices and information
     
     ### Sectors we work in
     
-    * [Energy](https://www.pinsentmasons.com/en-gb/sectors/energy)
-    * [Financial Services](https://www.pinsentmasons.com/en-gb/sectors/financial-services)
-    * [Infrastructure](https://www.pinsentmasons.com/en-gb/sectors/infrastructure)
-    * [Technology, Science & Industry](https://www.pinsentmasons.com/en-gb/sectors/technology-science-industry)
-    * [Real Estate](https://www.pinsentmasons.com/en-gb/sectors/real-estate)
+    * [Energy](https://www.pinsentmasons.com/sectors/energy)
+    * [Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
+    * [Infrastructure](https://www.pinsentmasons.com/sectors/infrastructure)
+    * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
+    * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
     
     ### What we do
     
-    * [Your assets](https://www.pinsentmasons.com/en-gb/what-we-do/your-assets)
-    * [Your company](https://www.pinsentmasons.com/en-gb/what-we-do/your-company)
-    * [Your finance](https://www.pinsentmasons.com/en-gb/what-we-do/your-finance)
-    * [Your legal team and resource](https://www.pinsentmasons.com/en-gb/what-we-do/your-legal-team-and-resource)
-    * [Your people](https://www.pinsentmasons.com/en-gb/what-we-do/your-people)
-    * [Your risks and regulatory environment](https://www.pinsentmasons.com/en-gb/what-we-do/your-risks-and-regulatory-environment)
+    * [Your assets](https://www.pinsentmasons.com/what-we-do/your-assets)
+    * [Your company](https://www.pinsentmasons.com/what-we-do/your-company)
+    * [Your finance](https://www.pinsentmasons.com/what-we-do/your-finance)
+    * [Your legal team and resource](https://www.pinsentmasons.com/what-we-do/your-legal-team-and-resource)
+    * [Your people](https://www.pinsentmasons.com/what-we-do/your-people)
+    * [Your risks and regulatory environment](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment)
     
 
 [](https://www.pinsentmasons.com/ "Pinsent Masons")
