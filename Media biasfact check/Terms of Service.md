@@ -147,6 +147,22 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Liz Wheeler Bias Rating](https://mediabiasfactcheck.com/liz-wheeler-bias-rating/)
+    
+    December 12, 2024
+    
+* [Progress Playbook – Bias and Credibility](https://mediabiasfactcheck.com/progress-playbook-bias-and-credibility/)
+    
+    December 12, 2024
+    
+* [Mississippi Public Broadcasting – Bias and Credibility](https://mediabiasfactcheck.com/mississippi-public-broadcasting-bias/)
+    
+    December 12, 2024
+    
+* [RTL – Bias and Credibility](https://mediabiasfactcheck.com/rtl-bias-and-credibility/)
+    
+    December 12, 2024
+    
 * [Wrexham Leader – Bias and Credibility](https://mediabiasfactcheck.com/wrexham-leader-bias/)
     
     December 12, 2024
@@ -163,44 +179,28 @@ No related posts.
     
     December 11, 2024
     
-* [JouWatch – Bias and Credibility](https://mediabiasfactcheck.com/jouwatch-bias-and-credibility/)
-    
-    December 11, 2024
-    
-* [Pennsylvania Record – Bias and Credibility](https://mediabiasfactcheck.com/pennsylvania-record-bias-and-credibility/)
-    
-    December 11, 2024
-    
-* [IndieWire – Bias and Credibility](https://mediabiasfactcheck.com/indiewire-bias-and-credibility/)
-    
-    December 10, 2024
-    
-* [Emol (El Mercurio Online) – Bias and Credibility](https://mediabiasfactcheck.com/emol-el-mercurio-online-bias-and-credibility/)
-    
-    December 10, 2024
-    
 
 #### Recently Updated Pages
 
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 12, 2024
+* [Moldova Government and Media Profile](https://mediabiasfactcheck.com/moldova-government-and-media-profile/ "View Moldova Government and Media Profile") - December 12, 2024
     
-* [Wrexham Leader – Bias and Credibility](https://mediabiasfactcheck.com/wrexham-leader-bias/ "View Wrexham Leader – Bias and Credibility") - December 12, 2024
+* [Mexico Government and Media Profile](https://mediabiasfactcheck.com/mexico-media-profile/ "View Mexico Government and Media Profile") - December 12, 2024
     
-* [Ainsley Earhardt Bias Rating](https://mediabiasfactcheck.com/ainsley-earhardt-bias-rating/ "View Ainsley Earhardt Bias Rating") - December 11, 2024
+* [Malta Government and Media Profile](https://mediabiasfactcheck.com/malta-media-profile/ "View Malta Government and Media Profile") - December 12, 2024
     
-* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - December 11, 2024
+* [Mali Government and Media Profile](https://mediabiasfactcheck.com/mali-government-and-media-profile/ "View Mali Government and Media Profile") - December 12, 2024
     
-* [Michigan News Source – Bias and Credibility](https://mediabiasfactcheck.com/michigan-news-source-bias-and-credibility/ "View Michigan News Source – Bias and Credibility") - December 11, 2024
+* [Maldives Government and Media Profile](https://mediabiasfactcheck.com/maldives-government-and-media-profile/ "View Maldives Government and Media Profile") - December 12, 2024
     
-* [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/ "View Membership Levels") - December 11, 2024
+* [Malaysia Government and Media Profile](https://mediabiasfactcheck.com/malaysia-media-profile/ "View Malaysia Government and Media Profile") - December 12, 2024
     
-* [Group Memberships for MBFC](https://mediabiasfactcheck.com/group-memberships-for-mbfc/ "View Group Memberships for MBFC") - December 11, 2024
+* [Lithuania Government and Media Profile](https://mediabiasfactcheck.com/lithuania-media-profile/ "View Lithuania Government and Media Profile") - December 12, 2024
     
-* [Manage Group](https://mediabiasfactcheck.com/manage-group/ "View Manage Group") - December 11, 2024
+* [Libya Government and Media Profile](https://mediabiasfactcheck.com/libya-government-and-media-profile/ "View Libya Government and Media Profile") - December 12, 2024
     
-* [Kommersant – Bias and Credibility](https://mediabiasfactcheck.com/kommersant-bias-and-credibility/ "View Kommersant – Bias and Credibility") - December 11, 2024
+* [Lesotho Government and Media Profile](https://mediabiasfactcheck.com/lesotho-government-and-media-profile/ "View Lesotho Government and Media Profile") - December 12, 2024
     
-* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - December 11, 2024
+* [Lebanon Government and Media Profile](https://mediabiasfactcheck.com/lebanon-media-profile/ "View Lebanon Government and Media Profile") - December 12, 2024
     
 
 #### Today’s Top Page Views
@@ -209,12 +209,12 @@ No related posts.
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [Methodology](https://mediabiasfactcheck.com/methodology/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
+* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [Time Magazine - Bias and Credibility](https://mediabiasfactcheck.com/time/)
+* [Methodology](https://mediabiasfactcheck.com/methodology/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
-* [MBFC's Daily Vetted Fact Checks for 12/11/2024](https://mediabiasfactcheck.com/2024/12/11/mbfcs-daily-vetted-fact-checks-for-12-11-2024/)
 
 #### Subscribe via Email
 
