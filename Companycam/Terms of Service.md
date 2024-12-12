@@ -250,13 +250,13 @@ Submit
     
     [Explore All Classes](https://companycam.com/classes)
     
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_December-Craft.png?auto=format&w=280)
+        
+        [2024 Feature Release Recap](https://companycam.com/classes/2024-feature-release-recap)
+        
     * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_Desktop-CraftTile.png?auto=format&w=280)
         
         [CompanyCam on Desktop](https://companycam.com/classes/companycam-desktop)
-        
-    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_October-Craft.png?auto=format&w=280)
-        
-        [How to Become a CompanyCam Power User](https://companycam.com/classes/how-to-become-a-companycam-power-user)
         
     
     ### Contact Support
@@ -570,13 +570,13 @@ Menu
     
     [Explore All Classes](https://companycam.com/classes)
     
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_December-Craft.png?auto=format&w=280)
+        
+        [2024 Feature Release Recap](https://companycam.com/classes/2024-feature-release-recap)
+        
     * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_Desktop-CraftTile.png?auto=format&w=280)
         
         [CompanyCam on Desktop](https://companycam.com/classes/companycam-desktop)
-        
-    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_October-Craft.png?auto=format&w=280)
-        
-        [How to Become a CompanyCam Power User](https://companycam.com/classes/how-to-become-a-companycam-power-user)
         
     
     ### Contact Support
