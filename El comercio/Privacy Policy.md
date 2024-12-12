@@ -31,472 +31,498 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Quedan pocos días para revisión técnica vehicular en Quito
+Liga de Quito va por el tercer bicampeonato de su historia
 ==========================================================
 
-El 31 de diciembre finaliza el plazo para matricular los vehículos. Esta es una guía para cumplir con esta obligación de tránsito.
-----------------------------------------------------------------------------------------------------------------------------------
+Liga de Quito se enfrentará a Independiente del Valle en la final de la Liga Pro y podría coronarse bicampeón por segunda vez.
+------------------------------------------------------------------------------------------------------------------------------
 
-![La Revisión Técnica Vehicular es el paso más importante en el proceso de matriculación.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-83-1.jpg)
+![Eduardo 'Tanque' Hurtado celebra uno de los goles de Liga de Quito en su último bicampeonato.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-11T185103.169.jpg)
 
-El proceso de **revisión técnica vehicular** terminará en **Quito** el **31 de diciembre del 2024**, con el **cierre del año fiscal.** Quedan pocos días para que las personas cumplan con esta **obligación** de tránsito. Sin embargo, el proceso no será tan fácil para cumplir este trámite que permite la circulación sin riesgos con las autoridades por incumplir las leyes de tránsito en la ciudad y en el país.
+**Liga de Quito** está a puertas de consagrarse campeón de la Liga Pro ante Independiente del Valle y sumar su segundo bicampeonato en la historia. Las únicas veces en las cuales el club se había hecho con el título por dos años consecutivos fueron en las campañas de **1974 y 1975 y 1998 y 1999**.
 
-### Más noticias
-
-* [Fiestas de Quito generaron menos ingresos de lo esperado](https://www.elcomercio.com/actualidad/quito/fiestas-quito-economia-sectores-conciertos-artistas.html "Fiestas de Quito generaron menos ingresos de lo esperado")
-* [Luego de dos días de sol, las lluvias pueden volver a Quito](https://www.elcomercio.com/actualidad/quito/lluvias-quito-diciembre.html "Luego de dos días de sol, las lluvias pueden volver a Quito")
-* [Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025](https://www.elcomercio.com/actualidad/quito/concejo-aprueba-presupuesto-quito-2025.html "Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025")
-
-Una guía para los rezagados en la matriculación
------------------------------------------------
-
-La **revisión técnica vehicular** de **2024** comenzó el 1 de febrero y terminó en noviembre. A cada mes correspondía el último dígito de la placa con preferencia. Sin embargo, se podía sacar el turno**,** así no fuera en el mes correspondiente.
-
-Ya en **diciembre** se cumple el **último plazo** para cumplir con este trámite que legaliza la circulación de un vehículo por todo el país. Sin embargo, todos deberán pagar una **multa de calendarización**, por **25 dólares.**
-
-Solo quedan 20 días, sin descontar el **feriado de Navidad,** el miércoles 25 de diciembre, para que finalice este mes. Y estos son los pasos si se ha rezagado para matricular el vehículo.
-
-**Primero**, consulte las **deudas** y **multas** que mantiene con la **Agencia Metropolitana de Tránsito** (**AMT**) y la Agencia Nacional de Tránsito (**ANT**). También deberá cancelar los valores al **Servicio de Rentas Internas (SRI).**
-
-Otro valor que deberá tomar en cuenta es la **tarifa de mantenimiento vial**, que cobra la **Prefectura** de **Pichincha**. El **valor** depende del vehículo que use: motocicletas, 9,30 dólares; automóviles particulares, 18 dólares; públicos o comerciales, 20,50 dólares.
-
-Cancelado todo esto, que se puede hacer a través de la **página web de la AMT,** podrá ya agendar una cita para la **Revisión Técnica Vehicular**.
-
-Una guía para la Revisión Técnica Vehicular
--------------------------------------------
-
-La **revisión técnica** es el **paso imprescindible** para la matriculación del automotor. En este paso, el vehículo debe demostrar que ofrece ciertas garantías de **seguridad y cuidado ambiental.**
-
-Por ello, es importante que haga un **examen previo** a su vehículo. Los centros de **RTV** se concentran en el estado de los **frenos** y de las **llantas**, la **emisión de gases** contaminantes, el sistema de **luces** (altas, bajas, intermitentes y direccionales) y **condiciones mecánicas generales.**
-
-Los centros de **RTV atienden de lunes a viernes de 07:00 a 18:00**. Los días sábados están abiertos de 08:00 a 12:00. Los siguientes son los RTV autorizados por la AMT.
-
-| Nombre del CRTV | Dirección | Sector |
-| --- | --- | --- |
-| Guamaní | [Leonidas Mata y calle S52](https://goo.gl/maps/sfzLK4rbukLYXVbL7) | La Perla |
-| Guajaló | [Av. Pedro Vicente Maldonado y pasaje revisión vehicular S/N](https://goo.gl/maps/B7Dhi75QA2J43gb37) | Asistencia Social |
-| Los Chillos | [Isla Fernandina S/N y av. General Rumiñahui](https://goo.gl/maps/dA9f6nuSQXR4obag6) | Conocoto |
-| Florida | [Florencia Malo y Carlos Arteta](https://goo.gl/maps/ACGAfqQJw35EmfaLA) | El Pedregal |
-| San Isidro del Inca | [José Felix Barrerio y calle De los Álamos](https://goo.gl/maps/ZbMqoGumdhx8SA3TA) | Unión y Progreso |
-| Carapungo | [Duchicela y Pedro Ramos](https://goo.gl/maps/LyqWgTFrWHJRV8Ki9) | El Clavel |
-
-Para acceder a la página web de la **AMT**, [haga clic aquí](https://www.amt.gob.ec/index.php/rtv-y-matriculacion/ "https://www.amt.gob.ec/index.php/rtv-y-matriculacion/").
-
-* * *
-
-El divertido video del título de Liga de Quito de la Libertadores
-=================================================================
-
-Liga de Quito es el único equipo ecuatoriano que ganó la Copa Libertadores.
----------------------------------------------------------------------------
-
-![Patricio Urrutia (c) levanta el trofeo de campeón de la Copa Libertadores 2008.](https://www.elcomercio.com/wp-content/uploads/2024/12/video_liga_1.jpg)
-
-Ser campeón de la Conmebol **Copa Libertadores es un privilegio que solo lo tienen 26 equipos** en Sudamérica. Uno de esos campeones es Liga de Quito, el único equipo ecuatoriano que supo ganarlo.
-
-El título de Liga de Quito se registró en 2008. En la final derrotaron a Fluminense en el **mítico estadio Maracaná de Río de Janeiro**. El arquero José Francisco Cevallos fue el gran héroe de una noche inolvidable.
+Este sábado 14 de diciembre del 2024 a las 15:30, los albos se enfrentarán a los rayados en la final de vuelta del torneo nacional en el **Estadio de Independiente del Valle**. Para el compromiso, la escuadra azucena parte con una ventaja de 3-0 tras imponerse en la ida en el Rodrigo Paz Delgado.
 
 ### Más noticias:
 
-* [Joel Ordóñez sostiene al Brujas en la Champions League](https://www.elcomercio.com/deportes/futbol/joel-ordonez-brujas-sporting-champions.html "Joel Ordóñez sostiene al Brujas en la Champions League")
-* [Liga de Quito ganó un título cada 20 meses en 24 años](https://www.elcomercio.com/deportes/futbol/liga-quito-titulos-nacional-internacional.html "Liga de Quito ganó un título cada 20 meses en 24 años")
-* [Piero Hincapié y Leverkusen vencen al Inter en Champions](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-champions.html "Piero Hincapié y Leverkusen vencen al Inter de Milán en Champions")
+* [Liga de Quito perdió un partido por más de tres goles en el 2024](https://www.elcomercio.com/deportes/futbol/liga-quito-resultados-visitante-ligapro.html "Liga de Quito perdió un partido por más de tres goles en el 2024")
+* [El divertido video del título de Liga de Quito de la Libertadores](https://www.elcomercio.com/deportes/futbol/liga-quito-video-animado-libertadores.html "El divertido video del título de Liga de Quito de la Libertadores")
+* [Independiente del Valle no le gana a Liga de Quito en 30 meses](https://www.elcomercio.com/deportes/liga-independiente-invicto-final-30-meses.html "Independiente del Valle no le gana a Liga de Quito en 30 meses")
 
-Liga de Quito rumbo a la consagración
--------------------------------------
+La ventaja sacada en el partido de ida por **Liga de Quito** obliga a que los rayados le saquen una diferencia de tres goles para forzar la definición desde la tanda de penales. Para coronarse campeones directos, los de **Sangolquí** deben quedar por cuatro goles arriba en el marcador.
 
-Liga participó en la **Copa Libertadores 2008 como el campeón de Ecuador** del año anterior. El sorteo determinó que integre el grupo 8 junto a Fluminense, el ganador de la zona, Arsenal de Argentina y Libertad de Paraguay, los dos eliminados.
+De hacerse con título, este sería el número 13 de los albos dentro de campeonatos nacionales, de manera que igualarían a **El Nacional** como el tercero con más cantidad de tales preseas en Ecuador. Asimismo, repetirían un bicampeonato por primera vez en 26 años.
 
-Los universitarios ganaron tres partidos, empataron uno y perdieron dos. **Anotaron 10 goles y recibieron cinco** para cerrar la primera parte de la competencia con un gol diferencia positivo de +5.
+El primer bicampeonato de Liga de Quito se remonta a la década de 1970
+----------------------------------------------------------------------
 
-En cuanto a puntaje, los ecuatorianos alcanzaron la casilla 11 en la tabla general, por delante de los argentinos Boca Juniors, Lanús y San Lorenzo; el mexicano América; y el colombiano Atlético Nacional.
+![Plantilla de Liga de Quito que ganó el bicampeonato en 1975.](https://www.elcomercio.com/wp-content/uploads/2024/12/ldu-75-1024x513.jpg)
 
-En los octavos de final eliminó a Estudiantes de La Plata por un marcador global de 3-2; **en los cuartos de final el turno fue para dejar en el camino a San Lorenzo**. El marcador global fue de 2-2 y en la definición de penales los capitalinos mostraron efectividad y ganaron 5-3.
+QUITO, ECUADOR. Plantilla de Liga de Quito que ganó el bicampeonato en 1975. Foto: Archivo / EL COMERCIO
 
-Las semifinales fueron cerradas ante el América y también se definió en los tiros penales. El global fue de 1-1. El gol marcado en Ciudad de México le abrió la puerta a los albos a la final de la Copa Libertadores.
+El nuevo bicampeonato que puede ganar **Liga de Quito**, sin embargo, no es el primero. En el siglo XX, los albos consiguieron el primero en la década de 1970. Tras coronarse campeones nacionales en 1974, al año siguiente repitieron la hazaña.
 
-La gran final **terminó empatada con el global de 5-5.** En la taba de penales los ecuatorianos derrotaron a los brasileños con un marcador final de 3-1.
+Durante la temporada de 1974, el sistema de juego del torneo nacional contó con uno similar al de la **Liga Pro** en este 2024, pero contó con ocho clubes. Tras dos rondas en modalidad de todos contra todos a ida y vuelta, el equipo con mayor puntaje en la **tabla acumulada** iba directo a la final, mientras que los ganadores de la primera y la segunda etapa se enfrentaban entre sí en una semifinal.
 
-![Luis Bolaños (der.), en un cotejo entre LDU y Deportivo Quito en el 2008. ](https://www.elcomercio.com/wp-content/uploads/2022/02/LUisBolanos-700x391.jpg)
+**Deportivo Cuenca** fue el ganador de la primera etapa y **El Nacional** de la segunda. Dado que los puros criollos fueron los mejores en el año y llegaron directo a la final, el cupo restante a la ronda previa se le dio a **Liga de Quito**, escolta de los rojos en la fase dos.
 
-Luis Bolaños (der.), en un cotejo entre LDU y Deportivo Quito en el 2008.
+En semifinales, los albos se impusieron al **Deportivo Cuenca** y en la final lo hicieron ante **El Nacional**. Así, Liga obtuvo el título y lo hizo tras haber ascendido desde la Serie B a mediados de año.
 
-La Conmebol recordó el título
+Para **1975**, el torneo aumentó su cantidad de equipos a 12 para la primera etapa, aunque dos descendieron a mitad de temporada y la segunda se jugó con 10. Los tres mejores de la primera y los dos mejores de la segunda clasificaron a una liguilla de cinco equipos donde los albos se alzaron con la Copa.
+
+El bicampeonato de 1998 y 1999, el último de Liga de Quito
+----------------------------------------------------------
+
+Liga de Quito volvió a un bicampeonato después de 23 años del primero. Los títulos consecutivos se le volvieron a dar en **1998 y 1999.**
+
+En 1998, el campeonato nacional contó con 12 clubes. Estos jugaron cuatro etapas, tres de ellas con liguillas de donde salieron los finalistas. El partido de definición por el título fue entre **Liga de Quito y Emelec**. En la ida en Guayaquil, los azules se impusieron por 1-0, pero en Casa Blanca, los albos golearon 7-0.
+
+Durante 1999, el torneo volvió a contar con **doce clubes**. Este tuvo una ronda en la que se enfrentaron todos contra todos a ida y vuelta. Los cuatro mejores clasificaban directamente a una liguilla final y los dos restantes se definían en una segunda etapa conformada por dos grupos de seis equipos cada uno.
+
+En la liguilla final, conformada por los seis clasificados, los que finalizasen en las dos mejores posiciones se disputarían el título. Allí, **Liga de Quito y El Nacional** volvieron a enfrentarse y los albos ganaron el torneo.
+
+Militar va a juicio por su presunta extralimitación durante un control de seguridad en Quevedo
+==============================================================================================
+
+Un militar fue llamado a juicio por su presunta responsabilidad en el delito de extralimitación en la ejecución de un acto de servicio.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![El hecho ocurrió durante un control militar en Quevedo](https://www.elcomercio.com/wp-content/uploads/2024/12/juicio-militar-quevedo.jpg)
+
+Un Juez de **Quevedo** decidió llamar a **juicio** a un subteniente del Ejército ecuatoriano por su presunta responsabilidad en el delito de **extralimitación en la ejecución de un acto de servicio**.
+
+### Más noticias
+
+* [Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro](https://www.elcomercio.com/actualidad/seguridad/ministerio-defensa-despliegue-militares-el-oro.html "Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro")
+* [Policía captura a miembros de Las Águilas, entre ellos el cabecilla](https://www.elcomercio.com/actualidad/seguridad/policia-captura-a-miembros-las-aguilas-entre-ellos-cabecilla.html "Policía captura a miembros de Las Águilas, entre ellos el cabecilla")
+* [Gobierno entregó 1 735 fusiles a la Policía Nacional](https://www.elcomercio.com/actualidad/seguridad/gobierno-entrega-fusiles-policia-nacional.html "Gobierno entregó 1 735 fusiles a la Policía Nacional")
+
+Cuando ocurrió el hecho, un **grupo de militares** realizaba un control de seguridad en el sector La Perla, la madrugada del 7 de julio de 2024.
+
+Un **agente de tránsito**, de 22 años, conducía su vehículo particular por el lugar. El ciudadano iba acompañado de tres amigos.
+
+Al percatarse del retén móvil, el agente **intentó evadirlo**. Tras esta acción, uno de los militares **disparó contra el vehículo** con su arma de dotación[.](https://www.fiscalia.gob.ec/militar-es-llamado-a-juicio-por-la-presunta-extralimitacion-en-un-acto-de-servicio-que-resulto-en-la-muerte-de-una-persona/ "https://www.fiscalia.gob.ec/militar-es-llamado-a-juicio-por-la-presunta-extralimitacion-en-un-acto-de-servicio-que-resulto-en-la-muerte-de-una-persona/")
+
+El proyectil atravesó la puerta del automotor e impactó en el abdomen del conductor.
+
+El disparo causó su **muerte inmediata**. El vehículo avanzó unos **500 metros** antes de detenerse.
+
+Militar que disparó fue procesado en flagrancia
+-----------------------------------------------
+
+El militar responsable fue identificado como Luis J., detenido en el lugar y procesado en **flagrancia**.
+
+El oficial recibió **medidas cautelares alternativas** a la prisión mientras se desarrollaba la instrucción fiscal.
+
+Este miércoles 11 de diciembre, durante la audiencia de evaluación y preparatoria de juicio, el Fiscal del caso presentó **varios elementos de convicción**, entre ellos:
+
+* Protocolo de autopsia
+* Informe de reconocimiento de evidencias
+* Acta del levantamiento del cadáver
+* Informe de reconstrucción de los hechos
+* Pericia de trayectoria balística
+* Informe de microscopía de las manos del procesado
+* Informe de audio y video
+* Secuencia de los hechos
+
+Con base en estas pruebas, el Juez resolvió **llamar a juicio al militar** y ratificó las medidas cautelares en su contra.
+
+Por este delito, el oficial de las Fuerzas Armadas podría enfrentar una pena de **siete a 10 años** de prisión.
+
+El estadio de Independiente del Valle recibió dos finales
+=========================================================
+
+Independiente del Valle construyó su estadio dentro del Complejo donde entrenan todas sus categorías.
+-----------------------------------------------------------------------------------------------------
+
+![Vista del estadio de Independiente del Valle desde el terreno de juego.](https://www.elcomercio.com/wp-content/uploads/2024/12/finales_estadio_1.jpg)
+
+El sábado 20 de marzo de 2021 se jugó el primer **partido oficial en el estadio de Independiente del Valle**, ubicado en la zona de Chillo-Jijón, al suroriente de Quito, la capital de Ecuador.
+
+Esa tarde, **Independiente del Valle derrotó a Delfín por 2-0** en la quinta fecha de la primera etapa de la Liga Pro. El argentino Lorenzo Faravelli (7′) y el paraguayo Brian Montenegro (88′) inauguraron el marcador en el nuevo estadio.
+
+### Más noticias:
+
+* [Cristiano Ronaldo celebró el Mundial 2030 en Portugal](https://www.elcomercio.com/deportes/futbol/mundial-cristiano-ronaldo-2030-portugal.html "Cristiano Ronaldo celebró el Mundial 2030 en Portugal")
+* [Dos ecuatorianos eliminaron a Botafogo de la Intercontinental](https://www.elcomercio.com/deportes/futbol/dos-ecuatorianos-eliminaron-botafogo-de-la-intercontinental.html "Dos ecuatorianos eliminaron a Botafogo de la Intercontinental")
+* [Seis datos claves para entender el Mundial FIFA 2030](https://www.elcomercio.com/deportes/futbol/datos-claves-mundial-fifa-2030-2034.html "Seis datos claves para entender el Mundial FIFA 2030")
+
+Independiente estrena su estadio
+--------------------------------
+
+El encuentro ante Delfín marcó el inicio del recorrido en torneos nacionales y también compromisos internacionales con la Selección de Ecuador como protagonista de esta historia.
+
+El lunes 29 de marzo se llevó a cabo un encuentro amistoso contra Bolivia. Los tricolores ganaron 2-1 **gracias a las anotaciones de Fidel Martínez (37′) y Michael Estrada (59′)**. La visita descontó por intermedio de Rodrigo Ramallo (90+4′).
+
+El 14 de julio de ese mismo año, IDV se estrenó en los torneos Conmebol jugando en casa. Los ecuatorianos perdieron por 0-2 la ida de los octavos de final de la Copa Sudamericana.
+
+Fabrício Bruno y Ramires anotaron los tantos de los brasileños.
+
+Todos esos antecedentes pusieron en el **mapa al estadio**. Por tal motivo, no demoró en llegar la primera final de un torneo nacional. Los dos equipos más ganadores del fútbol ecuatoriano disputaron un título.
+
+Final de la Supercopa Ecuador
 -----------------------------
 
-Notifulbo es el espacio animado que la Conmebol lanzó para recordar a los campeones de la Copa Libertadores.
+El 26 de junio de 2021 se jugó la **final de la Supercopa Ecuador. Barcelona SC y Liga de Quito** se citaron en el partido decisivo del torneo que está a cargo de la Federación Ecuatoriana de Fútbol (FEF).
 
-En este espacio animado participan personajes como Esférico Bolet, Botina Zapata, Miguayo Zapata, **Guan Thiago Goleiro, los Hermanos Pitazzo** y Gloria Eterna, que se encargaron de relatar como LDU ganó su corona de la Libertadores.
+Antes de llegar a la final, la Supercopa arrancó con una fase preliminar. 9 de Octubre derrotó por 2 0 a Emelec, y Delfín sorprendió, derrotó y eliminó a Independiente del Valle con un contundente 5-3.
 
-El invitado en este episodio fue Cocodrigo, la mascota oficial de los albos, que fue parte de la explicación en que consiste el lanzamiento con comba o efecto y como se estructura una barrera para el cobro de los tiros libres.
+En las semifinales, BSC le ganó 1-0 a **9 de Octubre con un tanto de Carlos Garcés (70′)**, desde el punto penal.
 
-El estadio Rodrigo Paz Delgado, más **Joffre Guerrón, el mejor jugador de la Libertadores de ese año**, Enrique Vera y el entrenador Edgardo ‘Patón’ Bauza, son parte de este episodio que fue colgado en la [cuenta de YouTube de la Conmebol](https://www.youtube.com/watch?v=5Jz1rt0eaC4).
+En la otra semifinal, **LDU le ganó 4-2 a Delfín con dobletes del ecuatoriano Billy Arce** y del paraguayo Luis Amarilla. Los mantenses descontaron por intermedio de Robert Burbano y el argentino Oscar Piris.
+
+La final se definió en favor de los **albos por 1-0 con un autogol de Bryan Caicedo** a los cuatro minutos del primer tiempo.
+
+Ese tanto fue suficiente para sumar el segundo título de la Supercopa Ecuador para Liga de Quito y ser el primer equipo en dar una vuelta olímpica en la cancha de los del Valle.
+
+> SUPER BICAMPEONES ⚪️🔴🏆[#OrgulloYPasion](https://twitter.com/hashtag/OrgulloYPasion?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/wNN03roEAr](https://t.co/wNN03roEAr)
+> 
+> — LDU Oficial (@LDU\_Oficial) [June 26, 2021](https://twitter.com/LDU_Oficial/status/1408908557823664137?ref_src=twsrc%5Etfw)
+
+Final de la Liga Pro
+--------------------
+
+El 2021 se cerró para Independiente del Valle y su estadio con su primera final de la Liga Pro.
+
+El domingo **5 de diciembre recibieron a Emelec en la final de ida.** El partido tenía que arrancar a las 19:00, pero las intensas lluvias que cayeron en la zona abnegaron el terreno de juego y retrasaron el inicio para las 20:00.
+
+En lo estrictamente deportivo, IDV fue superior a Emelec y le ganó por 3-1 con goles de Junior Sornoza (2) y Jonatan Bauman. El **‘Bombillo’ descontó a los 90+9′ con un lanzamiento penal** del uruguayo Sebastián Rodríguez.
+
+Una semana más tarde el escenario se volvió a repetir. La lluvia hizo estragos en el césped del George Capwell y se tuvo que retrasar el inicio del partido hasta que se desalojó la gran cantidad de agua acumulada.
+
+El **primer título de los capitalinos** se concretó tras el 1-1 en el marcador.
+
+La tercera final se jugará el sábado 14 de diciembre, desde las 15:30. Liga tiene la ventaja de 3-0 en el marcador.
+
+![X Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_estadio_2-1024x683.jpg)
+
+X Liga Pro.
+
+Finales en Chillo-Jijón
+-----------------------
+
+**2021 – Supercopa Ecuador  
+**Liga de Quito 1-0 Barcelona SC
+
+**2021 – Ida Liga Pro  
+**Independiente del Valle 3-1 Emelec
+
+**2023 – Vuelta Liga Pro  
+**Independiente del Valle – Liga de Quito
 
 San viernes
 -----------
 
-Así es ‘Emilia Pérez’, la responsable de la polémica entre Selena Gomez y Eugenio Derbez
-========================================================================================
+Inamhi pronostica cinco días de lluvias en Ecuador ¿Cuáles serán las zonas más afectadas?
+=========================================================================================
 
-Ocho preguntas para que conozcas mejor el tema que está en boca de todos
-------------------------------------------------------------------------
+Las lluvias pronosticadas por el Inamhi serán de niveles medio y alto en varias zonas de Ecuador.
+-------------------------------------------------------------------------------------------------
 
-![Actriz Karla Sofía Gascón protagoniza 'Emilia Pérez'.](https://www.elcomercio.com/wp-content/uploads/2024/12/emilia-perez-El-Comercio-1.jpg)
+![Las lluvias en Ecuador se incrementarán en los próximos días, según el Inamhi.](https://www.elcomercio.com/wp-content/uploads/2024/12/lluvias-ecuador.jpg)
 
-**‘Emilia Pérez**‘ es tema de conversación por distintas razones. Primero, por la [controversia de **Selena Gomez** con **Eugenio Derbez**](https://www.elcomercio.com/afull/selena-gomez-y-eugenio-derbez.html "https://www.elcomercio.com/afull/selena-gomez-y-eugenio-derbez.html") y segundo, por hacer **historia en el cine**. Te dejamos a continuación ocho preguntas para conocerla mejor.
+El **Instituto Nacional de Metereología e Hidrología (Inamhi)** pronosticó **cinco días de lluvias** de variada intensidad en **Ecuador**, este miércoles 11 de diciembre de 2024.
 
-¿Qué es Emilia Pérez?
----------------------
+Las precipitaciones serán continuas **entre las 13:00 del 12 diciembre y las 10:00 del 16 de diciembre**, en diferentes zonas del país.
 
-Es una película musical francesa de 2024 que mezcla comedia y crimen.
+### Más noticias:
 
-¿Quién es Emilia Pérez?
------------------------
+* [Lluvias en Cuenca, ¿bastan para salir de la sequía más prolongada en 51 años?](https://www.elcomercio.com/actualidad/ecuador/cuenca-salir-sequia-prolongada-51-anos.html "Lluvias en Cuenca, ¿bastan para salir de la sequía más prolongada en 51 años?")
+* [Luego de dos días de sol, las lluvias pueden volver a Quito](https://www.elcomercio.com/actualidad/quito/lluvias-quito-diciembre.html "Luego de dos días de sol, las lluvias pueden volver a Quito")
 
-Emilia Pérez es una mujer trans que se somete a una **cirugía de reasignación de género** para dejar atrás su pasado criminal y reparar los daños que causó cuando era un poderoso jefe del narcotráfico mexicano llamado Juan “Manitas” del Monte.
+Zonas con mayor impacto de las lluvias en Ecuador entre el 12 y el 16 de diciembre
+----------------------------------------------------------------------------------
 
-¿Quién es la estrella de ‘Emilia Pérez’?
-----------------------------------------
+Este miércoles 11 de diciembre, el Inamhi emitió una advertencia metereológica, con **lluvias de niveles medio y alto**, en Ecuador.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/emilia-perez-El-Comercio-2-1024x683.jpg)
+Entre el 12 y 16 de diciembre se presentarán lluvias de variable intensidad con **tormentas y ráfagas de viento** en gran parte del país.
 
-Es la actriz trans española Karla Sofía Gascón, de 52 años, que interpreta a Juan “Manitas” del Monte y a Emilia Pérez, la protagonista. Es la primera mujer trans en asumir un papel central en un proyecto de este calibre.
+El mayor énfasis de estas lluvias estará en **zonas de cordillera**.
 
-¿Qué hace Selena Gomez en ‘Emilia Pérez’?
------------------------------------------
+Los días con **mayor intensidad** y distribución de lluvias serán el **viernes 13 y sábado 14.**
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/emilia-perez-El-Comercio-3-1024x683.jpg)
+El Inamhi no descarta “**eventos puntuales muy fuertes**“.
 
-Es la **mujer de Juan “Manitas” del Monte** y **habla en español** porque la historia es íntegramente hablada y cantada en español. Es decir, Selena Gomez tiene un papel secundario en la cinta, aunque sea la que más aparece en el material que difunden de la cinta desde su disputa con Derbez.
+Tampoco la probabilidad de que estas condiciones se repitan la **próxima semana.**
 
-¿De quién es fue la idea de hacer esta película?
-------------------------------------------------
+Estas serán las **zonas más afectadas**:
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/emilia-perez-El-Comercio-4-1024x683.jpg)
+* **Región Litoral**: Mayor relevancia **12 y 13 de diciembre** en la zona norte e interior la región (**Esmeraldas, Santo Domingo y Los Ríos**).
+* **Región Interandina**: Mayor intensidad en **Carchi, Imbabura, Pichincha, Cotopaxi y Bolívar** (zonas de cordillera).
+* **Región Amazónica**: Mayor intensidad en las estribaciones de la cordillera oriental (**Zamora, Morona Santiago, Napo y Sucumbíos**).
 
-Del cineasta francés Jacques Audiard, conocido por su capacidad de narrar historias humanas complejas.
+> [#AdvertenciaMeteorológicaEc](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gicaEc?src=hash&ref_src=twsrc%5Etfw) N.67 / ⚠️Entre el 12 y 16 de diciembre se presentarán lluvias de variable intensidad con tormentas y ráfagas de viento en gran parte del país. Los días con mayor intensidad serán el 13 y 14 (no se descartan eventos puntuales Muy Fuertes) 🌦️🌧️ [pic.twitter.com/8Jvr27ajCR](https://t.co/8Jvr27ajCR)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [December 11, 2024](https://twitter.com/inamhi_ec/status/1866945953808450003?ref_src=twsrc%5Etfw)
 
-¿Cómo se le ocurrió la idea de ‘Emilia Pérez’?
-----------------------------------------------
+Este escenario responde, entre otros factores, al **aumento de humedad** y contenido de agua precipitable en el ambiente.
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/emilia-perez-El-Comercio-6-1024x683.jpg)
+Esto, producto del ingreso de masas de aire húmedas desde la **Zona de Convergencia Intertropical (ZCIT)** y de la cuenca Amazónica.
 
-Jacques Audiard se inspiró en el libro ‘Écoute’, de Boris Razon. “Yo leí una novela en donde en un capítulo había un personaje que era narco y quería volverse mujer (…) Yo decidí retomar este personaje y desarrollarlo y si es un asunto de narcotráfico, tenía que ser en México”, [dijo](https://www.swissinfo.ch/spa/cineasta-franc%C3%A9s-jacques-audiard-afirma-que-emilia-p%C3%A9rez-nace-de-lo-que-m%C3%A9xico-inspira/87758737 "https://www.swissinfo.ch/spa/cineasta-franc%C3%A9s-jacques-audiard-afirma-que-emilia-p%C3%A9rez-nace-de-lo-que-m%C3%A9xico-inspira/87758737").
+Sumado a procesos de convergencia y divergencia de **vientos**.
 
-¿Cuándo se estrena ‘Emilia Pérez’ en Ecuador?
----------------------------------------------
+Advertencias y recomendaciones por las lluvias en Ecuador
+---------------------------------------------------------
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/emilia-perez-El-Comercio-5-1024x683.jpg)
+La **Secretaría Nacional de Gestión de Riesgos (SNGR)** indicó que es probable que se produzca acumulación de agua en hogares, negocios y caminos susceptibles.
 
-El estreno de Emilia Pérez en Ecuador está previsto para el 23 de enero de 2025 en el cine. Su lanzamiento fue en el Festival de Cannes el 18 de mayo de 2024.
+Las condiciones de las vías podrían verse afectadas por **agua estancada, deslizamientos de tierra y bancos de niebla**.
 
-¿Qué opinan sobre la película?
-------------------------------
+Podrían existir **desbordamientos** de cuerpos de agua en aquellas localidades con mayor saturación e intensidad de lluvias, como zonas de estribación de cordillera.
 
-En plataformas como Rotten Tomatoes, la cinta mantiene una aprobación del 83%.
+Además, **descargas eléctricas** y ráfagas de viento fuerte al presentarse tormentas.
 
-En el Festival de Cannes 2024, ganó el Premio del Jurado y las cuatro mujeres del elenco central se llevaron el galardón a la Mejor Actriz. Es la primera vez en la historia que una mujer trans obtiene este reconocimiento.
+La SNGR señaló que, si las autoridades lo indican, se debe **evacuar** lo antes posible.
 
-También ganó los Premios de Cine Europeo a Mejor Película, Dirección y Actriz.
+Además, recomendó a la ciudadanía prestar atención a las indicaciones de las autoridades a través de las **fuentes oficiales**.
 
-Tiene 10 nominaciones a los [Globos de Oro 2025](https://www.elcomercio.com/afull/emilia-perez-eugenio-derbez-selena-gomez.html "https://www.elcomercio.com/afull/emilia-perez-eugenio-derbez-selena-gomez.html").
+La alerta es para varias zonas de **Ecuador**.
 
-Tráiler ‘Emilia Pérez’
-----------------------
+Independiente ganó la Sudamericana 2019 antes de jugarla
+========================================================
 
-6 datos claves para entender el Mundial FIFA 2030
-=================================================
+Independiente del Valle ganó la Copa Sudamericana en 2019 y lo repitió en 2022.
+-------------------------------------------------------------------------------
 
-El Mundial FIFA 2030 será histórico. La FIFA también anunció que Arabia Saudí será el anfitrión del Mundial 2034..
-------------------------------------------------------------------------------------------------------------------
+![Jugadores de Independiente del Valle con el trofeo de la Copa Sudamericana 2019.](https://www.elcomercio.com/wp-content/uploads/2024/12/lavallen_idv_1.jpg)
 
-![El presidente de la Confederación Sudamericana de Fútbol (Conmebol) Alejandro Domínguez celebró como "un hito" que Paraguay, Argentina y Uruguay acojan los primeros tres partidos del Mundial 2030](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-49.jpg)
+**Independiente del Valle** ganó su primera Copa Sudamericana en 2019. Lo hizo sin haber ganado un solo título nacional y con el antecedente que en el 2016 estuvo a punto de consagrarse ganador de la Copa Libertadores.
 
-El **Mundial FIFA 2030** será una edición histórica que marcará el centenario del primer torneo de **fútbol** celebrado en Uruguay en 1930.
-
-Este evento será diferente a los anteriores, ya que se llevará a cabo en tres continentes: Europa, África y América del Sur. Con una organización conjunta entre España, Marruecos, Portugal, Argentina, Paraguay y Uruguay, la **FIFA** busca rendir homenaje al legado del fútbol y celebrar la expansión global del deporte más popular del mundo.
+Luego de ganar la Copa Sudamericana, **Independiente del Valle sumó su segundo trofeo** de la competencia en el 2022, y la Recopa Sudamericana en 2023, demostrando que su estreno internacional no fue fruto de la causalidad, sino de un proyecto bien sustentando.
 
 ### Más noticias:
 
 * [Argentina, Uruguay y Paraguay son sedes del Mundial 2030](https://www.elcomercio.com/deportes/futbol/argentina-uruguay-y-paraguay-son-sedes-del-mundial-2030.html "Argentina, Uruguay y Paraguay son sedes del Mundial 2030")
-* [FIFA confirma a Arabia Saudí como sede del Mundial 2034](https://www.elcomercio.com/deportes/futbol/sede-mundial-2034-fifa-arabia-saudi.html "FIFA confirma a Arabia Saudí como sede del Mundial 2034")
-* [La millonaria cifra que el Mundial FIFA aportará a un país anfitrión](https://www.elcomercio.com/deportes/futbol/millonaria-cifra-mundial-2026-pais-anfitrion-fifa.html "La millonaria cifra que el Mundial FIFA aportará a un país anfitrión")
+* [Independiente apela a la mística para remontar a Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-apela-a-la-mistica-para-remontar-a-liga-de-quito.html "Independiente apela a la mística para remontar a Liga de Quito")
+* [Independiente del Valle no le gana a Liga de Quito en 30 meses](https://www.elcomercio.com/deportes/liga-independiente-invicto-final-30-meses.html "Independiente del Valle no le gana a Liga de Quito en 30 meses")
 
-El Congreso Extraordinario de la **FIFA,** reunido este miércoles 11 de diciembre del 2024, ratificó oficialmente esta candidatura conjunta, que no solo promete ser un evento deportivo monumental, sino también un símbolo de unidad y cooperación entre naciones.
+Independiente y su primera estrella
+-----------------------------------
 
-La competición se llevará a cabo del 13 de junio al 21 de julio de 2030, y las ciudades anfitrionas ya comienzan a prepararse para albergar a miles de visitantes y millones de televidentes en todo el mundo. A continuación, te presentamos seis datos clave para entender este Mundial único.
+El primer buen recuerdo de Independiente del Valle en un torneo continental se **registró en la final de la Sudamericana** jugada en Asunción, Paraguay, el 9 de noviembre, ante más de 46 mil espectadores, en su gran mayoría de Colón de Santa Fe.
 
-**1\. Tres continentes, seis países**
--------------------------------------
+El compromiso tuvo que ser suspendido por alrededor de una hora por la intensa lluvia que cayó sobre el terreno de juego, que quedó totalmente inundado y no permitió el normal desarrollo del juego.
 
-El Mundial 2030 será el primero en la historia en celebrarse en tres continentes: Europa (España, Portugal), África (Marruecos) y América del Sur (Argentina, Paraguay, Uruguay). Esta distribución refleja el crecimiento global del fútbol y la intención de unir a naciones de diferentes culturas a través del deporte.
+Superados estos inconvenientes, Independiente se impuso por 3-1 con tantos de **Luis Fernando León (27′), Jhon Sánchez (42′) y Cristian Dájome (96′)**.
 
-**2\. El homenaje al Centenario**
+El descuento para los argentinos lo marcó Emmanuel Olivera (88′). Solo sirvió para adornar el marcador final.
+
+En el recuerdo queda el show en la previa con la inolvidable participación de la agrupación ‘Los Palmeras’ que emocionaron a los hinchas argentinos, **pero que fue el preámbulo de la fiesta que sería total** para el puñado de ecuatorianos presentes en la capital paraguaya.
+
+> 💪🇪🇨 ¡Hace un año, [@IDV\_EC](https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw) hacía historia!  
+>   
+> 🔙 Un día como hoy, se consagró campeón de la [#Sudamericana](https://twitter.com/hashtag/Sudamericana?src=hash&ref_src=twsrc%5Etfw) 2019 al vencer 3-1 a [#Colón](https://twitter.com/hashtag/Col%C3%B3n?src=hash&ref_src=twsrc%5Etfw) y conquistó su primer título internacional.  
+>   
+> 🏆 [#LaGranConquista](https://twitter.com/hashtag/LaGranConquista?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/jbj2iS9v90](https://t.co/jbj2iS9v90)
+> 
+> — CONMEBOL Sudamericana (@Sudamericana) [November 9, 2020](https://twitter.com/Sudamericana/status/1325664412301078528?ref_src=twsrc%5Etfw)
+
+Pablo Lavallén explicó la derrota
 ---------------------------------
 
-La edición de 2030 será especial ya que marcará 100 años desde el primer Mundial, jugado en Uruguay en 1930. Para conmemorar este evento, los partidos iniciales se jugarán en tres estadios históricos en Buenos Aires, Montevideo y Asunción, celebrando así el origen de la Copa del Mundo.
+Pablo Lavallén tomó las riendas de Colón de Santa Fe el 7 de marzo de 2019. Fue el responsable de una histórica campaña para el modesto equipo del interior de Argentina.
 
-**3\. 17 ciudades y 20 estadios**
----------------------------------
+En el camino a la final eliminó a River Plate de Uruguay, Deportivo Zulia de Venezuela, **Deportivo Municipal de Perú, Argentinos Juniors** de Argentina y Atlético Mineiro de Brasil.
 
-España, Marruecos y Portugal albergarán 17 ciudades y 20 estadios en total, con opciones para las sedes de la inauguración y la final. Entre los candidatos se encuentran el Santiago Bernabéu en Madrid, el Camp Nou de Barcelona y el Gran Estadio Hassan II de Casablanca, que se construirá especialmente para este evento.
+Este miércoles 11 de diciembre de 2024, el sitio ‘Ataque Futbolero’ se hizo eco de una entrevista de Lavallén con el programa que se denomina ‘Te Dejo En Orsai’.
 
-**4\. Los primeros partidos en Sudamérica**
--------------------------------------------
+En un momento de la charla recordó lo vivido en la final con IDV y enumeró tres sucesos que inclinaron la balanza en favor de los del Valle.
 
-Aunque la mayoría de la fase de grupos se disputará en Europa y África, los partidos del Centenario comenzarán en Sudamérica, con sede en Uruguay, Argentina y Paraguay. Estos partidos abrirán oficialmente la Copa del Mundo, el 8 y 9 de junio de 2030.
+“Me acuerdo de todo. Una lástima porque estaba dado todo para la épica, **pero habían señales que todo venía cruzado**“, dijo el entrenador que también dirigió en Honduras, Perú y Bolivia.
 
-**5\. Infraestructura moderna y sostenible**
---------------------------------------------
+El primer hecho tiene que ver con la **lesión de Rodrigo Aliendo**. La molestia física se registró en la práctica previa en la que el delantero se quedó fuera del partido por un desgarro.
 
-Los países anfitriones han prometido una infraestructura moderna y sostenible, con estadios de última generación y un enfoque en la inclusión, la diversidad y la sostenibilidad ambiental. Este Mundial será una oportunidad para mostrar cómo el fútbol puede impulsar el desarrollo económico y social.
+“Ya ese fue el primer paso en falso”, recordó.
 
-**6\. Arabia Saudí será el siguiente anfitrión**
-------------------------------------------------
+El segundo **suceso involucra a Luis Miguel Rodríguez**, la figura del plantel en esa temporada. El ‘Pulga’ tuvo que ser infiltrado a minutos de saltar a la cancha por un esguince en uno de sus tobillos.
 
-La FIFA también anunció que Arabia Saudí será el anfitrión del Mundial 2034. Este evento en el país árabe será el primero en su historia y marcará una nueva etapa en la expansión del fútbol en Oriente Medio.
+“Entro al vestuario y miro al ‘Pulga’ tirado en la camilla con una aguja en el tobillo. Le pregunto, ¿Qué pasó? Me dijo que se dobló el tobillo en una alfombra que había en la entrada”.
 
-Dos ecuatorianos eliminaron a Botafogo de la Intercontinental
-=============================================================
+Pese a la advertencia del cuerpo médico de la indisposición del delantero para jugar, lo mando a la cancha, lo mantuvo los 90 minutos y falló un penal ante Jorge Pinos.
 
-Pachuca, con dos ecuatorianos, le da un baile al campeón de la Libertadores y avanza en la Intercontinental
------------------------------------------------------------------------------------------------------------
+“Cuando nosotros s**alimos a la cancha se larga una tormenta**. En cancha yo nunca vi nada igual”, indicó sobre el tercer acontecimiento que confabuló para que se queden con las manos vacías y no puedan dar la vuelta olímpica ante los miles de hinchas que viajaron a observar el juego.
 
-![Pachuca de México eliminó a Botafogo de la Copa Intercontinental 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-11T133529.650.jpg)
-
-El **Pachuca** de México, con los ecuatorianos **Ángel Mena y Andrés Micolta,** goleó 3-0 a Botafogo este miércoles 11 de diciembre en el ‘Derbi de las Américas’, disputado en el Estadio 974 de Doha, Catar.
-
-Contra todo pronóstico, los ‘Tuzos’ eliminaron al vigente campeón de la **Copa Libertadores** y uno de los favoritos, junto al Real Madrid, para ganar el torneo.
-
-### Más noticias:
-
-* [Botafogo es favorito ante Pachuca en Copa Intercontinental](https://www.elcomercio.com/deportes/futbol/botafogo-favorito-pachuca-copa-intercontinental.html "Botafogo es favorito ante Pachuca en Copa Intercontinental")
-* [El Mundial de Clubes 2025 promete ser histórico para Ecuador](https://www.elcomercio.com/deportes/futbol/elmundial-de-clubes-2025-promete-ser-historico-para-ecuador.html "El Mundial de Clubes 2025 promete ser histórico para Ecuador")
-* [Calendario de los ecuatorianos en el Mundial de Clubes 2025](https://www.elcomercio.com/deportes/futbol/calendario-de-los-ecuatorianos-en-el-mundial-de-clubes-2025.html "Calendario de los ecuatorianos en el Mundial de Clubes 2025")
-
-Gracias a esta victoria, Pachuca avanzó a la **Copa Challenger de la FIFA**, donde enfrentará al Al-Ahly de Egipto por un boleto a la gran final de la Copa Intercontinental frente al Real Madrid.
-
-El Pachuca de los ecuatorianos goleó a Botafogo
------------------------------------------------
-
-Para este duelo, **Guillermo Almada**, exentrenador de Barcelona SC y actual DT del Pachuca, apostó por Andrés Micolta como titular. El defensor ecuatoriano tuvo una actuación sólida y fue clave para mantener el arco en cero. Por su parte, Ángel Mena ingresó en el segundo tiempo, aportando frescura en los contragolpes que sellaron la victoria.
-
-El primer tiempo fue parejo, sin muchas emociones en suelo catarí. Sin embargo, la dinámica cambió en la segunda mitad.
-
-La emoción llegó al minuto 54 con un **golazo de Oussama Idriss**i, el marroquí del Pachuca. El extremo realizó una gran jugada en el área, regateando a dos jugadores, para definir con clase y poner el 0-1 parcial.
-
-> ¡QUÉ GOLAZO HICISTE, IDRISSI! 😱  
->   
-> ⚽ Un festival de amagues del marroquí ponen arriba a Pachuca por 1-0 sobre Botafogo en el Derby de las Américas. [#FIFAIntercontinantalCupEnDSPORTS](https://twitter.com/hashtag/FIFAIntercontinantalCupEnDSPORTS?src=hash&ref_src=twsrc%5Etfw) | [#FIFAIntercontinentalCup](https://twitter.com/hashtag/FIFAIntercontinentalCup?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/1urDc7zvMi](https://t.co/1urDc7zvMi)
+> 🎬 [@tedejoenorsai](https://twitter.com/tedejoenorsai?ref_src=twsrc%5Etfw). [pic.twitter.com/VQ1TNjXAgu](https://t.co/VQ1TNjXAgu)
 > 
-> — DSPORTS (@DSports) [December 11, 2024](https://twitter.com/DSports/status/1866910833776758804?ref_src=twsrc%5Etfw)
+> — Ataque Futbolero (@AtaqueFutbolero) [December 11, 2024](https://twitter.com/AtaqueFutbolero/status/1866856186546438382?ref_src=twsrc%5Etfw)
 
-El golpe fue duro para el conjunto brasileño, que intentó reaccionar rápidamente realizando tres cambios en busca del empate, pero sus esfuerzos no fueron suficientes.
+San viernes
+-----------
 
-A los 66 minutos, Pachuca encaminó la victoria. Un gran remate cruzado de **Nelson** **Deossa** amplió la ventaja y dejó a los mexicanos con un pie y medio en la siguiente ronda.
+‘Cien años de soledad’ en Netflix: un árbol genealógico para no perderse entre los Buendía
+==========================================================================================
 
-> ¡GOOOL DE PACHUCA! 🇲🇽  
->   
-> ⚽ Tras un error en la salida de Botafogo, Deossa puso el 2-0 en el Derby de las Américas.[#FIFAIntercontinantalCupEnDSPORTS](https://twitter.com/hashtag/FIFAIntercontinantalCupEnDSPORTS?src=hash&ref_src=twsrc%5Etfw) | [#FIFAIntercontinentalCup](https://twitter.com/hashtag/FIFAIntercontinentalCup?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/u55ZzfnQJK](https://t.co/u55ZzfnQJK)
-> 
-> — DSPORTS (@DSports) [December 11, 2024](https://twitter.com/DSports/status/1866919432884539881?ref_src=twsrc%5Etfw)
+Conoce a los principales miembros de esta fascinante dinastía.
+--------------------------------------------------------------
 
-Finalmente, a los 80 minutos, el capitán de los ‘Tuzos’, **Salomón Rondón,** se unió a la fiesta. Tras un gran contragolpe, el venezolano sacó un potente remate para poner el 3-0 definitivo.
+![Aureliano Buendía en la serie 'Cien años de soledad' de Netflix.](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-8.jpg)
 
-Botafogo intentó reaccionar con cambios ofensivos, pero la defensa del Pachuca, liderada por Micolta, frustró cualquier intento.
+“Muchos años después, frente al pelotón de fusilamiento, el **coronel Aureliano Buendía** había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo”.
 
-> ¡RONDÓN MARCÓ EL TERCERO PARA PACHUCA! ⚽  
->   
-> 🇻🇪 El venezolano sentenció un contraataque letal para anotar el 3-0 ante Botafogo en el Derby de las Américas. [#FIFAIntercontinantalCupEnDSPORTS](https://twitter.com/hashtag/FIFAIntercontinantalCupEnDSPORTS?src=hash&ref_src=twsrc%5Etfw) | [#FIFAIntercontinentalCup](https://twitter.com/hashtag/FIFAIntercontinentalCup?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/gt42MnMBoM](https://t.co/gt42MnMBoM)
-> 
-> — DSPORTS (@DSports) [December 11, 2024](https://twitter.com/DSports/status/1866916879115125205?ref_src=twsrc%5Etfw)
+Así comienza ‘Cien años de soledad’, la obra maestra de **Gabriel García Márquez** que da un salto monumental como serie en **Netflix** el 11 de diciembre de 2024.
 
-Próximo reto del Pachuca
-------------------------
+Dividida en dos partes, la primera temporada de ocho episodios nos sumerge en el mundo de **Macondo** y su familia fundadora, los **Buendía**.
 
-En la **Copa Challenger**, el Pachuca enfrentará al Al-Ahly de Egipto, que eliminó al Al-Ain de Emiratos Árabes Unidos en la fase Copa África-Asia-Pacífico. El duelo se disputará nuevamente en el Estadio 974 en Doha, Catar.
+Si algo caracteriza a esta obra es la complejidad del árbol genealógico de los Buendía. Comprenderlo será esencial para disfrutar al máximo de la serie, pero podría haber espóiler.
 
-Cristiano Ronaldo celebró el Mundial 2030 en Portugal
-=====================================================
+Primera generación
+------------------
 
-La FIFA ratificó a Portugal como una de las sedes para el Mundial 2030 y Cristiano Ronaldo celebró el hecho.
-------------------------------------------------------------------------------------------------------------
+### **José Arcadio Buendía**
 
-![Cristiano Ronaldo celebra un gol de la Selección de Portugal.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-11T134017.047.jpg)
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-9-1024x683.jpg)
 
-Para **Cristiano Ronaldo** el Mundial 2030 es “un sueño hecho realidad”, según publicó este miércoles 11 de diciembre del 2024 en sus redes sociales, tras el anuncio del Congreso de la FIFA en el que ratificó que **España, Marruecos y Portugal** serán los organizadores del evento deportivo.
+Actor Diego Vásquez. Screenshot
 
-Con una foto de Cristiano en la que luce el 7 con la selección portuguesa y una leyenda que reza “**el mundial más especial de todos los tiempos**“, el astro portugués hizo un guiño al hito histórico, ya que su país acogerá por primera vez un mundial de fútbol.
+Es el patriarca y fundador de Macondo. Su fascinación por la alquimia y los inventos lo lleva a descubrir, crear y perder la razón. En la serie, Marco Antonio González interpreta su versión joven, mientras que Diego Vásquez encarna su caso marcado por la locura.
 
-### Más noticias:
+### **Úrsula Iguarán**
 
-* [Cristiano Ronaldo marcó doblete y lanzará video con MrBeast](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-mr-beast-video.html "Cristiano Ronaldo marcó doblete y lanzará video con MrBeast")
-* [Cristiano Ronaldo quedó a 87 goles del millar](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-doblete-champions-asia.html "Cristiano Ronaldo quedó a 87 goles del millar")
-* [Messi y Cristiano, nominados al mejor del mundo en 2024](https://www.elcomercio.com/deportes/futbol/the-best-messi-cristiano-nominados.html "Messi y Cristiano, nominados al mejor del mundo en 2024")
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-10-1024x683.jpg)
 
-“**Nos llena de orgullo, Juntos**!”, concluyó Ronaldo en sus perfiles sociales. De mantener su nivel y extender su carrera de forma extraordinaria, ‘CR7’ podrá disputar el certamen a los **45 años**. Frente al próximo Mundial en 2026, el portugués es fijo en su selección y el goleador.
+Es la prima y **esposa de José Arcadio**, y el verdadero pilar de la familia. Úrsula vive 120 años, según la novela, y su sabiduría guía a los Buendía a través de generaciones. En pantalla, Susana Morales interpreta su juventud, y Marleyda Soto, su madurez.
 
-En 2030, **Portugal y Marruecos** serán sede por primera vez de un Mundial, mientras que España ya acogió en solitario la edición de 1982[.](https://en.wikipedia.org/wiki/Cristiano_Ronaldo "https://en.wikipedia.org/wiki/Cristiano_Ronaldo") 
+* [**Este es el pueblo que inspiró a García Márquez para crear Macondo en ‘Cien años de soledad’**](https://www.elcomercio.com/tendencias/macondo-cien-anos-de-soledad.html)
 
-Portugal también celebró junto a Cristiano Ronaldo
---------------------------------------------------
+Segunda generación
+------------------
 
-El primer ministro de Portugal, **Luís Montenegro**, se mostró orgulloso tras el anuncio oficial de la FIFA sobre que España, Marruecos y Portugal organizarán el Mundial 2030 y auguró que “juntos”, los tres países, harán “una **gran fiesta del deporte**“.
+### **Aureliano Buendía**
 
-“**Es con mucho orgullo que veo nuestro país ser sede del Mundial 2030**“, aseguró en sus redes sociales.
+![Aureliano Buendía en la serie 'Cien años de soledad' de Netflix.](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-8-1024x683.jpg)
 
-Para el primer ministro, “**Portugal, España y Marruecos**, unidos por la geografía, historia y pasión por el fútbol van a hacer una gran fiesta del deporte”.
+Aureliano Buendía en la serie ‘Cien años de soledad’ de Netflix.
 
-El Congreso de la FIFA anunció de forma oficial que los tres países acogerán el Mundial 2030. A su vez, también designó a **Arabia Saudita** como sede para 2034.
+Es el legendario coronel que lidera 32 guerras civiles y sobrevive al pelotón de fusilamiento. Aureliano es un símbolo del carácter épico y trágico de los Buendía. Claudio Cataño interpreta su versión adulta, acompañado por Santiago Vázquez y los niños Jerónimo Echeverría y Jerónimo Barón.
 
-WhatsApp, Facebook e Instagram se caen a escala mundial
-=======================================================
+* **[¿Quién es el actor colombiano que protagonizará ‘Cien años de soledad’ en Netflix?](https://www.elcomercio.com/tendencias/entretenimiento/cien-anos-soledad-serie-netflix.html "https://www.elcomercio.com/tendencias/entretenimiento/cien-anos-soledad-serie-netflix.html")**
 
-El Grupo Meta se pronunció sobre la caída e informó que presentan problemas técnicos y que trabajan para solucionarlos lo más pronto.
--------------------------------------------------------------------------------------------------------------------------------------
+### **José Arcadio (hijo)**
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-22.jpg)
+![Actor Édgar Vittorino encarna a José Arcadio Buendía, hijo de Úrsula y José Arcadio. ](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-16-1024x683.jpg)
 
-Usuarios en redes sociales reportaron la caída de las **redes sociales de Meta** este miércoles 11 de diciembre de 2024 en todo el mundo.
+El actor Édgar Vittorino encarna a José Arcadio Buendía, hijo de Úrsula y el patriarca José Arcadio.
 
-### Más noticias
+Es el primogénito de Úrsula y José Arcadio. Rebelde e impulsivo, desaparece de Macondo para regresar como un hombre irreconocible. Édgar Vittorino, Leonardo Soto y Thiago Padilla representan sus distintas etapas en la serie.
 
-* [Conoce el nombre con el que te tienen guardado en WhatsApp](https://www.elcomercio.com/tecnologia/whatsapp-nombre-tutorial-telefonia.html "Conoce el nombre con el que te tienen guardado en WhatsApp ")
-* [Aplicaciones de mensajería instantánea y comunicación](https://www.elcomercio.com/opinion/aplicaciones-mensajeria-instantanea-lorena-naranjo-columnista.html "Aplicaciones de mensajería instantánea y comunicación")
-* [Añade ‘El Chulla Quiteño’ a tu perfil de Instagram con esta guía](https://www.elcomercio.com/tecnologia/instagram-musica-chulla-quiteno.html "Añade ‘El Chulla Quiteño’ a tu perfil de Instagram con esta guía ")
+### **Amaranta**
 
-Caída de Meta
--------------
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-11-1024x683.jpg)
 
-**Una falla afecta todas las redes sociales de Meta** desde aproximadamente las 13:00 de este miércoles 10 de diciembre.
+Actriz Loren Sofía Paz. Screenshot
 
-Usuarios comentaron en redes sociales haberse preocupado **tras la falla en los servicios** y haber pensado que era la señal de internet.
+Es la hija menor de los fundadores, rival de su hermanastra Rebeca. Vive consumida por los celos y el rencor, elementos clave en su historia. Loren Sofía Paz y Luna Ruíz dan vida al personaje de la serie.
 
-Sin embargo, a**l acudir a X** se dieron cuenta que no eran los únicos.
+### **Rebeca**
 
-La falla en el servicio afecta tanto en las aplicaciones descargadas en los celulares como en las [computadoras.](https://es.wikipedia.org/wiki/Meta_Platforms "https://es.wikipedia.org/wiki/Meta_Platforms")
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-12-1024x683.jpg)
 
-Hasta las 14:30, la falla no se solucionó y los **usuarios de Meta se volcaron a X** a expresar su malestar y buscar noticias sobre la caída.
+Laura Sofía Grueso “Akima” interpreta a Rebeca de joven.
 
-A esa hora, las aplicaciones mostraban un anuncio de que **el servicio no se encuentra disponible.**
+La misteriosa niña huérfana que llega a Macondo con una bolsa de huesos y un hábito peculiar de comer tierra. Laura Sofía Grueso “Akima” y Nicole Montenegro interpretan sus distintas etapas.
 
-La creatividad de los afectados no se hizo esperar y compartieron **memes de burla** al respecto en X.
+Tercera generación
+------------------
 
-El servicio de mensajería en **WhatsApp tiene intermitencias.**
+### **Arcadio**
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-23-1024x683.jpg)
+Nieto de los fundadores, hijo de José Arcadio y Pilar Ternera. Su vida refleja las tensiones entre tradición y caos en Macondo.
 
-El pronunciamiento de Meta
---------------------------
+### **Aureliano José**
 
-El Grupo Meta se pronunció e informó que presentan **problemas técnicos** que afectan a algunos usuarios.
+Hijo de Pilar Ternera y el coronel Aureliano Buendía. Acompaña a su padre en algunas guerras, pero regresa al pueblo debido a que está enamorado de su tía Amaranta, quien lo crio desde que era bebé.
 
-En un posteo en X señalaron qu**e se encuentran trabajando** para resolver la situación lo más pronto posible.
+### **17 Aurelianos**
 
-Esto seguido de un**a disculpa por los inconvenientes.**
+El coronel Aureliano Buendía tuvo 17 hijos con 17 mujeres distintas durante sus 32 guerras civiles, cada relación durando solo una noche. Esta práctica responde a una tradición en la que las mujeres jóvenes se unían a los soldados para tener hijos fuertes. Las 17 madres visitaron la casa de los Buendía para solicitar que Úrsula bautizara a sus hijos, quienes recibieron el nombre de Aurelia.
 
-> We’re aware that a technical issue is impacting some users’ ability to access our apps. We’re working to get things back to normal as quickly as possible and apologize for any inconvenience.
-> 
-> — Meta (@Meta) [December 11, 2024](https://twitter.com/Meta/status/1866918000374280593?ref_src=twsrc%5Etfw)
-
-Reportes de caída
+Cuarta generación
 -----------------
 
-La página Downdetector recibió 982 reportes de caída de Whatsapp a las 13:05 de este miércoles 11 de diciembre. A la misma hora, se recibieron 187 reportes por la caída de Instagram y 154 a las 14:00.
+### **Remedios la Bella**
 
-Por la falla de Facebook, a las 13:05 hubo 431 reportes.
+Conocida por su extraordinaria belleza, vive alejada de las ambiciones terrenales. Su destino es uno de los pasajes más poéticos de la novela. Aunque su papel es breve, será fundamental.
 
-Precio de Disney+ en 2024 tras recientes subidas 
-=================================================
+### **Los gemelos José Arcadio Segundo y Aureliano**
 
-Disney+ ajusta precios en un mercado competitivo.
--------------------------------------------------
+Son hijos de Arcadio y Santa Sofía de la Piedad.
 
-![Disney+ justifica el ajuste para financiar producción original y mejorar la experiencia. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/Disney.jpg)
+Las últimas generaciones en Macondo
+-----------------------------------
 
-**Disney+** ha seguido el ejemplo de **Netflix** al **aumentar paulatinamente** de precio para su servicio. Entre los **últimos ajustes**, a decir de [Xataka](https://www.xatakandroid.com/mercado/disney-acaba-subir-su-precio-servicio-streaming-ahora-caro-para-todos-usuarios#:~:text=A%20continuaci%C3%B3n%2C%20los%20nuevos%20precios,139%2C90%20euros%20al%20a%C3%B1o "https://www.xatakandroid.com/mercado/disney-acaba-subir-su-precio-servicio-streaming-ahora-caro-para-todos-usuarios#:~:text=A%20continuaci%C3%B3n%2C%20los%20nuevos%20precios,139%2C90%20euros%20al%20a%C3%B1o"), el incremento varía entre el 11% y el 17% según el plan. Las **tarifas actualizadas** están disponibles en la [**web oficial**](https://help.disneyplus.com/es-EC/article/disneyplus-price "https://help.disneyplus.com/es-EC/article/disneyplus-price") de **Disney+**. 
+La **quinta generación** incluye a José Arcadio, Meme y Amaranta Úrsula, hijos de Aureliano Segundo y Fernanda del Carpio. José Arcadio, criado para ser Papa, abandona el seminario y regresa a Macondo con los vicios de sus antecesores. Meme tiene a Aureliano Babilonia, quien está escondido por su abuela Fernanda. Amaranta Úrsula, la hija menor, vive ajena al origen de Aureliano, a quien más tarde amará sin saber que es su sobrino.
 
-### Más noticias
+En la **sexta generación**, Aureliano Babilonia heredó el carácter de su bisabuelo, el coronel Aureliano, pero su destino lo encierra en el aislamiento. Finalmente, la **séptima generación**, con Aureliano hijo, marca el fin de los Buendía, cumpliendo la profecía de Úrsula con su nacimiento.
 
-* [Conoce el nombre con el que te tienen guardado en WhatsApp](https://www.elcomercio.com/tecnologia/whatsapp-nombre-tutorial-telefonia.html "https://www.elcomercio.com/tecnologia/whatsapp-nombre-tutorial-telefonia.html") 
-* [Sus ‘atajos’ en informática convirtieron a Grace Hopper en la primera mujer ‘hacker’](https://www.elcomercio.com/tecnologia/grace-hopper-dia-informatica-efemeride.html "https://www.elcomercio.com/tecnologia/grace-hopper-dia-informatica-efemeride.html") 
+Personas fuera de la familia Buendía
+------------------------------------
 
-Estos incrementos **impactan a millones de usuarios**. La plataforma, que ha crecido exponencialmente desde su lanzamiento, ahora se enfrenta a la necesidad de **ajustar sus precios** para seguir siendo competitiva en un **mercado saturado**. 
+### **Melquíades**
 
-**Estos son los precios actuales de Disney+** 
-----------------------------------------------
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-17-1024x683.jpg)
 
-Los precios de la suscripción a **Disney+** varían según el plan elegido. **El plan Disney+ Estándar** ofrece acceso completo al **catálogo de Disney+** sin anuncios, e incluye películas y series de **Star**. También incluye acceso a los canales lineales de deportes **ESPN e ESPN3** con anuncios, calidad de audio hasta 5.1 y video hasta 1080 px Full HD. Es posible utilizar dos dispositivos a la vez y realizar descargas en hasta diez dispositivos. 
+El gitano que introduce la alquimia a José Arcadio y deja los pergaminos que guardan los secretos de los Buendía. El actor Moreno Borja interpreta a este personaje, clave para desentrañar el destino de Macondo.
 
-**El plan Disney+ Premium** añade **contenidos deportivos** completos de **ESPN** y canales de TV en vivo, así como una calidad de video de hasta 4K UHD y HDR, Dolby Atmos en audio, y la posibilidad de usar hasta cuatro dispositivos simultáneamente.  
+### **Pilar Ternera**
 
-Además, ambos planes **permiten descargas en hasta diez dispositivos** con un máximo de 25 títulos. También existe la opción de **Miembro Extra**, diseñada para compartir **Disney+** con familiares o amigos que no estén en el mismo hogar, lo que permite un perfil y un dispositivo a la vez. Los precios mensuales son de USD 5,99 para **Disney+ Estándar** y USD 7,99 para **Disney+ Premium**, aunque podrían aplicarse cargos de terceros. 
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-13-1024x683.jpg)
 
-**Impacto del aumento** 
-------------------------
+Amante de los hermanos José Arcadio y Aureliano, y madre de sus hijos. **Pilar Ternera** es interpretada por **Viña Machado**, un papel que promete conmover al público.
 
-Este **aumento constante de precios** se produce en un contexto donde la competencia entre plataformas de ‘streaming’ es feroz. Netflix y otras plataformas también han incrementado sus tarifas recientemente, lo que ha llevado a una mayor preocupación entre los consumidores sobre el **costo del entretenimiento digital**, según [ADSL Zone](https://www.adslzone.net/noticias/streaming-tv/disney-plus-subida-precios-1024/ "https://www.adslzone.net/noticias/streaming-tv/disney-plus-subida-precios-1024/").  
+### **Apolinar Moscote**
 
-**¿Por qué el aumento?** 
--------------------------
+![Jairo Camargo interpreta al corregidor Moscote.](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-15-1024x683.jpg)
 
-Disney+ ha justificado este ajuste como una **medida necesaria** para continuar con **contenido de calidad** y mejorar la experiencia del usuario. La plataforma ha invertido fuertemente en producción original y adquisición de contenido, lo que requiere financiamiento adicional. Sin embargo, algunos críticos argumentan que la **calidad del contenido** no siempre justifica el aumento de precio. 
+Jairo Camargo interpreta al corregidor Moscote.
 
-### Te recomendamos:
+Es el corregidor enviado a Macondo, representando la llegada del orden institucional al pueblo. Se convierte en parte de la familia Buendía al casar a su hija Remedios Moscote con Aureliano Buendía.
 
-Fiestas de Quito generaron menos ingresos de lo esperado
-========================================================
+### El general Moncada
 
-Durante las festividades se desarrollaron ferias de emprendimientos, conciertos y desfiles que congregaron a miles de personas.
--------------------------------------------------------------------------------------------------------------------------------
+![El general Moncada es interpretado por el actor Salvador del Solar.](https://www.elcomercio.com/wp-content/uploads/2024/12/netflix-El-Comercio-14-1024x683.jpg)
 
-![La agenda de fiestas de Quito tuvo conciertos.](https://www.elcomercio.com/wp-content/uploads/2024/12/Fiestas-Quito.jpg)
+El general Moncada es interpretado por el actor Salvador del Solar.
 
-Las Fiestas de **Quito** 2024, organizadas por el Municipio en coordinación con gestores culturales, generaron ingresos de 3 millones de dólares[.](https://en.wikipedia.org/wiki/Fiestas_de_Quito "https://en.wikipedia.org/wiki/Fiestas_de_Quito")
+Es un líder liberal y amigo cercano del coronel Aureliano Buendía, con quien comparte ideales políticos.
+
+La Estación Marín Central de la Ecovía en Quito se cierra, así será el servicio
+===============================================================================
+
+La Empresa de Pasajeros de Quito detalló cómo funcionará la Ecovía durante el cierre.
+-------------------------------------------------------------------------------------
+
+![El Municipio de Quito informó sobre el cierre de la estación.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ecovia-2.jpg)
+
+La **Estación Marín Central** de la **Ecovía** cerrará temporalmente su servicio en el sentido sur-norte a partir de este jueves, 12 de diciembre, desde las 08:00[.](https://es.wikipedia.org/wiki/Categor%C3%ADa:Estaciones_del_Corredor_Ecov%C3%ADa_de_Quito "https://es.wikipedia.org/wiki/Categor%C3%ADa:Estaciones_del_Corredor_Ecov%C3%ADa_de_Quito")
 
 Más noticias
 ------------
 
-* [AMC desechó casi 5 000 litros de alcohol en fiestas de Quito](https://www.elcomercio.com/actualidad/quito/amc-desecho-casi-5-000-litros-de-alcohol-en-fiestas-de-quito.html "AMC desechó casi 5 000 litros de alcohol en fiestas de Quito")
-* [Más de 9 000 emergencias fueron atendidas durante las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/mas-9-000-emergencias-fiestas-quito.html "Más de 9 000 emergencias fueron atendidas durante las fiestas de Quito")
-* [Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito](https://www.elcomercio.com/actualidad/quito/personas-fallecieron-siniestros-transito-durante-feriado-fiestas-quito.html "Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito")
+* [Diciembre, un mes propicio para la prevención los siniestros de tránsito](https://www.elcomercio.com/opinion/editorial/diciembre-mes-propicio-prevencion-siniestros-transito.html "Diciembre, un mes propicio para la prevención los siniestros de tránsito")
+* [Diciembre, el mes con más siniestros de tránsito en Quito](https://www.elcomercio.com/actualidad/quito/diciembre-mes-mas-siniestros-transito-quito.html "Diciembre, el mes con más siniestros de tránsito en Quito")
+* [Levantan pavimento nuevo del carril exclusivo de la Ecovía](https://www.elcomercio.com/actualidad/quito/levantan-pavimento-nuevo-del-carril-exclusivo-de-la-ecovia.html "Levantan pavimento nuevo del carril exclusivo de la Ecovía")
 
-La agenda **cultural** y **comercial** impulsó sectores clave, atrajo a más de 400 000 asistentes y promovió la inclusión y la solidaridad. Estas festividades incluyeron conciertos, ferias y desfiles, que reunieron a más de 400 000 personas.
+Este cierre, que tendrá una duración aproximada de 15 días, se debe a los trabajos de repavimentación realizados por la Empresa Pública Metropolitana de Movilidad y Obras Públicas (**Epmmop**).
 
-Impacto económico y social
---------------------------
+¿Cómo funcionará el servicio de la Ecovía durante el cierre en la estación?
+---------------------------------------------------------------------------
 
-Con una inversión de 2,77 millones de dólares, las **festividades** beneficiaron a sectores como el artístico, cultural, comercial y de seguridad.
+Durante este periodo, las unidades de la **Ecovía** usarán el carril de livianos desde la parada **Simón** **Bolívar** hasta la Estación **Playón de La Marín.**
 
-Alex Zapata, productor y fotógrafo, afirmó: “La cultura genera empleo y promueve el desarrollo económico. Productores, diseñadores, sonidistas y quienes montan las estructuras se benefician de estos eventos”.
+Además, circularán desde la Estación **Playón de La Marín** hasta la parada **Simón Bolívar**, mientras la Epmmop lleva a cabo el cambio de la capa asfáltica por pavimento rígido de hormigón en el carril exclusivo.
 
-Trabajadores de seguridad provenientes de **Ambato** indicaron que los eventos les ofrecieron ingresos adicionales, esenciales para el sustento de sus familias.
+Por otra parte, la operación en sentido norte-sur continuará sin interrupciones, lo que permitirá mantener el flujo habitual de los **servicios** en esta dirección.
 
-Participación cultural
-----------------------
+Debido a esta situación, se recomienda a quienes utilizan esta ruta prever tiempos adicionales de **traslado** y consultar las actualizaciones sobre el progreso de los trabajos.
 
-Las festividades incluyeron la participación de 362 artistas, 344 de ellos nacionales, en una agenda con 200 actividades culturales.
+Renovación integral de la estructura vial de la Ecovía
+------------------------------------------------------
 
-Entre las actividades destacaron los desfiles de la **Confraternidad** y la **Mascarada** **Nocturna**, además de los festivales **Quitofest**, **Quinde** **ElectroFest** y el festival gastronómico Sal quiteña, que reunió a 294 mil personas.
+El Municipio de Quito inició, el 12 de agosto de 2024, la renovación de la estructura vial del carril exclusivo de la **Ecovía**.
 
-Inclusión y oportunidades para emprendedores
---------------------------------------------
+El proyecto contempla transformar la vía en una estructura de **pavimento rígido** de **hormigón** en un tramo de 9 km. Los trabajos se desarrollan entre la Estación **Río Coca** y el **Playón de La Marín.**
 
-Las megaferias, como la realizada en la **Pampa** de **Calderón**, ofrecieron un espacio a emprendedores, **artistas** y **proveedores**.
-
-Steve Andrade, fundador de Ice Party, expresó: “Contratamos a cinco personas más gracias a estos eventos. Son una cadena enorme que beneficia a emprendedores y proveedores”.
-
-Eduardo Salazar, quien vendió artículos decorativos de madera, comentó que “estas ferias representan una oportunidad para mostrar nuestro trabajo y crecer”.
-
-Solidaridad en fiestas de Quito
--------------------------------
-
-La campaña **Dona** **con** **corazón** permitió recolectar alimentos y artículos de aseo para elaborar 50 mil canastas solidarias destinadas a familias vulnerables.
-
-Presupuesto y proyección
-------------------------
-
-El presupuesto inicial de las festividades fue de 2,6 millones de dólares, y la inversión final alcanzó los 2,77 millones. El **impacto** **económico** esperado era de 10 millones de dólares. En 2023, los ingresos superaron los 9 millones de dólares, según **Quito** **Turismo**.
+Para gestionar el impacto en la movilidad, las obras se realizan entre las 07:00 y las 18:00. Asimismo, se establecieron horarios extendidos durante fines de semana, feriados y jornadas nocturnas.
 
 * * *
 
@@ -508,559 +534,692 @@ Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Ap
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
 
-Biden advierte que las políticas de Trump supondrían un ‘desastre económico’
-============================================================================
+Nuevos precios de las gasolinas extra y ecopaís desde este 12 de diciembre
+==========================================================================
 
-Biden advirtió que los recortes fiscales propuestos por Trump, combinados con reducciones en programas sociales podrían poner peligro los avances.
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Joe Biden en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/12/joe-biden-efe-otan.jpg)
-
-El presidente estadounidense, [Joe Biden](https://es.wikipedia.org/wiki/Joe_Biden "https://es.wikipedia.org/wiki/Joe_Biden"), alertó que las políticas de su sucesor, **Donald Trump**, especialmente sus propuestas para **recortar impuestos a los ricos** y las grandes corporaciones, podrían suponer un **“desastre económico”** para Estados Unidos.
-
-### Más noticias
-
-* [Joe Biden indultó a su hijo Hunter alegando ataques políticos](https://www.elcomercio.com/actualidad/mundo/biden-indulta-hijo-hunter-posesion-armas.html "Joe Biden indultó a su hijo Hunter alegando ataques políticos")
-* [Justin Trudeau advierte que Donald Trump regresa al poder con ‘ideas más claras’](https://www.elcomercio.com/actualidad/mundo/justin-trudeau-advierte-donald-trump-regresa-poder-ideas-mas-claras.html "Justin Trudeau advierte que Donald Trump regresa al poder con ‘ideas más claras’")
-* [Donald Trump y Volodímir Zelenski se encontraron en París](https://www.elcomercio.com/actualidad/mundo/donald-trump-volodimir-zelenski-se-encontraron-paris.html "Donald Trump y Volodímir Zelenski se encontraron en París")
-
-“Rezo a Dios para que Trump descarte el ‘Proyecto 2025’. Creo que sería un **desastre económico**”, declaró Biden, saliéndose de**l guion durante un discurso** en el centro de estudios Brookings, en Washington, donde defendió su legado económico.
-
-Biden alertó de los **riesgos que algunas políticas de Trump** podrían suponer para la economía estadounidense, en particular si se aplican las **directrices del ‘Proyecto 2025’**. Fue diseñado por la **conservadora Heritage Foundation** para un **segundo mandato de Trump** y que contó con la colaboración de asesores del expresidente, aunque posteriormente este intentó desvincularse.
-
-¿Clase trabajadora o grandes empresas?
---------------------------------------
-
-El mandatario consideró que Trump, quien asumirá el cargo el 20 de enero de 2025, deberá decidir entre seguir fortaleciendo a la **clase trabajadora** o favorecer a los ricos y a las grandes empresas.
-
-“El resultado de esta elección nos sitúa en un momento crucial. ¿Continuaremos impulsando la **economía desde abajo hacia arriba y desde el centro hacia fuera**, invirtiendo en todos los estadounidenses, apoyando a los sindicatos y a las familias trabajadoras?”, planteó Biden.
-
-Al respecto, argumentó que las **inversiones en infraestructuras, manufactura y comunidades marginadas** realizadas durante su mandato evitaron una crisis económica grave tras la pandemia del **covid-19** y, además, aseguró que estas medidas sentaron las bases para un crecimiento económico sostenible.
-
-No obstante, advirtió que los **recortes fiscales propuestos por Trump**, combinados con reducciones en programas sociales y un aumento de los costes sanitarios, podrían poner en peligro estos avances.
-
-Trump prometió ampliar los recortes de impuestos para las grandes empresas que introdujo en su primer mandato y propone reducir la tasa impositiva del 21 % al 15 % para las compañías que produzcan todos sus productos en Estados Unidos.
-
-Críticas a los aranceles de Trump
----------------------------------
-
-Biden también criticó la **intención de Trump de imponer aranceles** y otras políticas como el gravamen del 25 % que ha amenazado con aplicar a **Canadá y México** si no frenan el tráfico de drogas y la inmigración irregular, o las tasas de hasta el 60 % para productos chinos.
-
-“Trump parece decidido a imponer **aranceles universales** elevados sobre todas las importaciones, creyendo equivocadamente que serán los países extranjeros quienes asuman el coste, en lugar de los consumidores estadounidenses. ¿Quiénes creen que acabarán pagando? **Es un grave error**”, aseguró Biden.
-
-Adulto mayor falleció tras ser liberado de un secuestro en Guayaquil
-====================================================================
-
-Adulto mayor secuestrado en Guayaquil es rescatado por la Policía, pero falleció después debido a complicaciones en su salud.
+Ecuador regula cada mes los precios de las gasolinas extra y ecopaís de acuerdo al comportamiento del petróleo internacional.
 -----------------------------------------------------------------------------------------------------------------------------
 
-![Adulto mayor al momento de ser rescatado por miembros de la Policía Nacional.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-11T131404.866.jpg)
+![Ecuador regula el precio de las gasolinas extra y ecopaís cada mes](https://www.elcomercio.com/wp-content/uploads/2024/12/nuevo-precio-gasolina-ecuador.jpg)
 
-Un **adulto mayor de 90 años**, quien había sido secuestrado en el sur de **Guayaquil**, falleció este miércoles tras ser liberado por la **Policía Nacional**. La víctima, que padecía **varias afecciones médicas**, fue encontrada debilitada en una casa donde **permanecía retenida contra su voluntad**.
+Las gasolinas **extra y ecopaís** (de 85 octanos) tienen un **nuevo precio** desde este jueves 12 de diciembre de 2024.
 
 ### Más noticias
 
-* [Demuelen 10 viviendas ‘diseñadas para secuestrar’, en un operativo en Durán](https://www.elcomercio.com/actualidad/seguridad/demuelen-10-viviendas-disenadas-para-secuestrar-en-un-operativo-en-duran.html "Demuelen 10 viviendas ‘diseñadas para secuestrar’, en un operativo en Durán")
-* [Pedro Pablo Perlaza contó la experiencia de su secuestro](https://www.elcomercio.com/deportes/pedro-pablo-perlaza-secuestro-experiencia.html "Pedro Pablo Perlaza contó la experiencia de su secuestro")
-* [Tres sentenciados por secuestro extorsivo en Guayaquil ¿Cuál fue la pena?](https://www.elcomercio.com/actualidad/seguridad/tres-sentenciados-secuestro-extorsivo-guayaquil-pena.html "Tres sentenciados por secuestro extorsivo en Guayaquil ¿Cuál fue la pena?")
+* [Diciembre, un mes propicio para la prevención los siniestros de tránsito](https://www.elcomercio.com/opinion/editorial/diciembre-mes-propicio-prevencion-siniestros-transito.html "Diciembre, un mes propicio para la prevención los siniestros de tránsito")
+* [Daniel Noboa y su roce con el Legislativo por la ‘Ley Antipillos’, ¿quién tiene la razón?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-pugna-con-legislativo-ley-antipillos-quien-tiene-razon.html "Daniel Noboa y su roce con el Legislativo por la ‘Ley Antipillos’, ¿quién tiene la razón?")
+* [‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-tomara-accion-si-publica-ley-antipillos.html "‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales")
 
-El secuestro ocurrió el pasado 6 de diciembre, cuando el hombre estaba frente a su **vivienda en la calle García Goyena**.
+Así lo confirmó **Oswaldo Erazo**, secretario ejecutivo de la Cámara Nacional de Distribuidores de Derivados del Petróleo del Ecuador (**Camddepe**).
 
-Sujetos encapuchados descendieron de un vehículo negro y lo llevaron con rumbo desconocido. La familia, angustiada, **rogó por su liberación explicando que el adulto mayor sufría de múltiples dolencias**, pero los secuestradores exigieron una alta suma de dinero para devolverlo.
+Los nuevos valores estarán vigentes hasta el **11 de enero** de 2025.
 
-Operativo de rescate y hallazgo
--------------------------------
+Gasolinas extra y ecopaís bajaron 3,7 centavos
+----------------------------------------------
 
-La **Dirección Nacional de Investigación de delitos contra la vida**, muertes violentas, desapariciones, secuestros y extorsión **(Dinased)** lideró el operativo denominado **‘Libertad 792’**.
+Desde las 00:00 de este jueves 12 de diciembre, el valor de las gasolinas extra y ecopaís bajarán **0,037 dólares**, un poco más de tres centavos.
 
-Personal de la **Unidad Antisecuestros y Extorsivos (UNASE)** desplegó técnicas investigativas para localizar a la víctima, identificando una vivienda de dos plantas como el l**ugar de cautiverio**.
+El precio en noviembre alcanzó los **2,679 dólares** por galón. Para estos días de diciembre y enero, el nuevo valor es de **2,642 dólares por galón**.
 
-> [#Guayaquil](https://twitter.com/hashtag/Guayaquil?src=hash&ref_src=twsrc%5Etfw), la [#UNASE](https://twitter.com/hashtag/UNASE?src=hash&ref_src=twsrc%5Etfw), en un impresionante operativo logró la liberación de una persona de la tercera edad, por la que los secuestradores exigían 100 mil dólares. Lamentablemente el anciano habría fallecido. [pic.twitter.com/vD2K1gG9Ee](https://t.co/vD2K1gG9Ee)
+> El precio de la gasolina extra y ecopaís baja desde este 12 de diciembre a $2,642 por galón.
 > 
-> — SomosEstrategia (@SomosEstrategia) [December 11, 2024](https://twitter.com/SomosEstrategia/status/1866899329606177138?ref_src=twsrc%5Etfw)
+> — Oswaldo Erazo (@oswaldo\_erazoa) [December 11, 2024](https://twitter.com/oswaldo_erazoa/status/1866960404712464790?ref_src=twsrc%5Etfw)
 
-En el inmueble, los agentes encontraron al **hombre amarrado a su silla de ruedas** en una habitación, con un trapo en la boca, sin los cuidados que una persona adulta mayor debe tener. Durante la incursión, las autoridades aprehendieron a seis personas, entre ellas Josué M. C. **(22), Magdalena C. Q. (30), Carmen C. Q. (28), Mariela H. B. (32), Eddy F. A. (30) y Ricardo Z. C. (19). Además, se incautaron siete teléfonos móviles y un vehículo.**
+Regulación de los precios de las gasolinas
+------------------------------------------
 
-Independiente del Valle no le gana a Liga de Quito en 30 meses
-==============================================================
+El cambio de precios se lo hace **mensualmente**, bajo un **esquema de bandas**, que se aplica desde julio de 2024.
 
-Liga de Quito guarda un invicto de más de dos años ante Independiente del Valle de cara a la final de vuelta de la Liga Pro 2024.
----------------------------------------------------------------------------------------------------------------------------------
+Este sistema regula el precio de las gasolinas extra y ecopaís permitiendo un aumento máximo del 5% mensual y una posible reducción de hasta el **10% del valor anterior**.
 
-![Jugadores de Liga de Quito celebran uno de los goles en la final de ida de la Liga Pro ante Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-11T114339.298.jpg)
+La variación depende del comportamiento del precio del petróleo a nivel internacional.
 
-**Liga de Quito** tendrá su último partido del 2024 ante Independiente del Valle en la final de vuelta de la Liga Pro. Tras sacar ventaja en el cotejo de ida al imponerse por un marcador de 3-0, otro factor favorable se le suma y es el que no ha perdido con **Independiente del Valle** en sus dos últimas temporadas.
+Este ajuste responde a la decisión del Gobierno de **Daniel Noboa** de eliminar parcialmente el subsidio a estas gasolinas.
 
-El sábado 14 de diciembre del 2024 a las 15:30, albos y rayados jugarán el duelo que definirá al campeón de la vigente temporada. El cotejo se llevará a cabo en el estadio de **Independiente del Valle**, aunque el **Rodrigo Paz Delgado** abrirá sus puertas a los hinchas albos para que también presencien el evento a la distancia.
+La regulación mensual se la realiza con base en el **Reglamento Codificado** de Regulación de Precios de Derivados de Hidrocarburos,
+
+**_Noticia en desarrollo.._.**
+
+Daniel Noboa y su roce con el Legislativo por la ‘Ley Antipillos’, ¿quién tiene la razón?
+=========================================================================================
+
+El debate por la ‘Ley Antipillos’ enfrenta al Ejecutivo y la Asamblea, con posturas opuestas sobre su validez constitucional.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Daniel Noboa en la firma de convenio de financiamiento para la ampliación de la vía La Primavera.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-11T175543.665.jpg)
+
+La promulgación de la **Ley Orgánica para la Mejora Recaudatoria** a través del **Combate al Lavado de Activos**, conocida como **‘Ley Antipillos’**, por parte del presidente Daniel Noboa, desató un enfrentamiento institucional.
+
+### Más noticias
+
+* [‘Ley Antipillos’ regula el deporte profesional y el mercado de vehículos usados](https://www.elcomercio.com/actualidad/negocios/ley-antipillos-regula-el-deporte-profesional-y-el-mercado-de-vehiculos-usados.html "‘Ley Antipillos’ regula el deporte profesional y el mercado de vehículos usados")
+* [Asamblea Nacional presentará acción de inconstitucionalidad por ‘Ley Antipillos’](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-presentara-accion-incostitucionalidad-por-ley-antipillos.html "Asamblea Nacional presentará acción de inconstitucionalidad por ‘Ley Antipillos’")
+* [El bloqueo, el papel principal de la Asamblea Nacional](https://www.elcomercio.com/opinion/editorial/bloqueo-papel-principal-asamblea-nacional.html "El bloqueo, el papel principal de la Asamblea Nacional ")
+
+Publicada en el Registro Oficial el **10 de diciembre**, esta norma fue adoptada luego de que el Ejecutivo argumentara que el **Legislativo no resolvió su trámite en el plazo constitucional**.
+
+Sin embargo, el secretario general de la Asamblea Nacional, **Alejandro Muñoz**, calificó la medida como un **‘apagón jurídico’**. Asimismo, indicó que el proyecto había sido **negado y archivado** en un primer debate legislativo, lo que, según él, invalida su promulgación.
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) [#ComunicadoAsamblea](https://twitter.com/hashtag/ComunicadoAsamblea?src=hash&ref_src=twsrc%5Etfw) | En defensa de los ecuatorianos y de la institucionalidad del país presentamos una acción de inconstitucionalidad. [#JuntosLegislamos](https://twitter.com/hashtag/JuntosLegislamos?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/tmRXAYmX0D](https://t.co/tmRXAYmX0D)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [December 10, 2024](https://twitter.com/AsambleaEcuador/status/1866553524508577995?ref_src=twsrc%5Etfw)
+
+Asamblea cuestionó legalidad de la publicación de ‘Ley Antipillos’
+------------------------------------------------------------------
+
+Desde la Asamblea, se cuestionó la **legalidad del decreto**, argumentando que viola el principio de separación de poderes establecidos en el artículo 140 de la Constitución. Muñoz subrayó que el archivo del proyecto tiene plena validez jurídica.
+
+Además, señaló irregularidades en la actuación del Ejecutivo, que solicitó una certificación sobre el estado del proyecto y, horas después, **promulgó la norma sin esperar respuesta**. Este acto, dijo, refleja una falta de respeto al marco jurídico.
+
+Ante esta situación, la Asamblea anunció acciones legales para enfrentar lo que consideran una inconstitucionalidad. Se analiza la presentación de una demanda ante la Corte Constitucional y una posible acción penal contra el Ejecutivo por arrogación de funciones.
+
+Pugna entre Daniel Noboa y Legislativo por la ‘Ley Antipillos’
+--------------------------------------------------------------
+
+El debate sobre la publicación de la **‘Ley Antipillos’** ha generado una controversia jurídica entre el Ejecutivo y la Asamblea Nacional. Esteban Ron, especialista en derecho constitucional, señaló que el Gobierno fundamenta su postura en el principio de s**upremacía constitucional**.
+
+Según el **artículo 137 de la Carta Magna**, las leyes deben tratarse en dos debates, siendo este un requisito ineludible. Además, Ron destacó otros **principios como la jerarquía normativa** y la aplicación directa de la Constitución, que fortalecen la posición del Ejecutivo de considerar publicada la ley tras el vencimiento del plazo.
+
+> Si le congelamos el dinero, le quitamos el poder al narcoterrorismo.  
+>   
+> La [#LeyAntipillos](https://twitter.com/hashtag/LeyAntipillos?src=hash&ref_src=twsrc%5Etfw) no tiene banderas políticas solo busca poner bajo la lupa a quienes pretenden ir en contra de los intereses de los ecuatorianos. Con acciones firmes, aseguramos que los recursos ilegales no… [pic.twitter.com/532ceGnPRt](https://t.co/532ceGnPRt)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [December 11, 2024](https://twitter.com/Presidencia_Ec/status/1866960062184558678?ref_src=twsrc%5Etfw)
+
+Un conflicto para la Corte Constitucional
+-----------------------------------------
+
+Ron indicó que, a pesar de la invocación de los **artículos 60 y 61 de la LOFL** por parte de la Asamblea, estos podrían ser **considerados inconstitucionales**.
+
+El especialista explicó que la **contradicción entre la Constitución y la LOFL** podría resolverse con herramientas como una acción de interpretación constitucional.
+
+Añadió que, si bien en ocasiones anteriores leyes han sido archivadas en el primer debate, este caso marca la primera vez que se enfrenta un **conflicto de este tipo bajo el esquema** de control abstracto constitucional en Ecuador.
+
+Para Ron, los **artículos 424 y siguientes de la Constitución** ofrecen fundamentos para sostener la posición del Ejecutivo. Estos artículos refuerzan principios como la supremacía constitucional, la obligatoriedad de dos **debates legislativos y la jerarquía normativa**.
+
+Además, Ron destacó que la resolución de este conflicto debe recaer en la **Corte Constitucional**, que podría decidir mediante una acción interpretativa. Este sería un paso clave para determinar la validez de la publicación de la ley y **resolver esta inédita antinomia jurídica**.
+
+Dos posturas de interpretación
+------------------------------
+
+Por su parte, **Edison Guarango, abogado constitucionalista**, explicó que existen dos posturas principales. El Ejecutivo sostuvo que si una ley económica urgente no es aprobada ni rechazada en el plazo estipulado, se entiende publicada.
+
+La segunda, defendida por la Asamblea, se basa en el **artículo 60 de la LOFL**, que permite archivar proyectos en el primer debate. Según Guarango, esta normativa tiene presunción de constitucionalidad y no se puede ignorar mientras no la declaren inconstitucional.
+
+> 🟣RUEDA DE PRENSA  
+>   
+> Buenas noticias: El Ecuador ya cuenta con la [#LeyAntipillos](https://twitter.com/hashtag/LeyAntipillos?src=hash&ref_src=twsrc%5Etfw) para combatir el lavado de dinero y al crimen organizado.  
+>   
+> “El que nada debe nada teme. Por qué les preocupa a algunos asambleístas el fortalecimiento de la UAFE", señaló el asambleísta Adrián Castro… [pic.twitter.com/6cIR2UGqCV](https://t.co/6cIR2UGqCV)
+> 
+> — Bancada ADN (@BancadaADN) [December 11, 2024](https://twitter.com/BancadaADN/status/1866890857367953664?ref_src=twsrc%5Etfw)
+
+Guarango subrayó que este **conflicto no puede analizarse únicamente desde la Constitución**, ya que las leyes orgánicas son parte del ordenamiento jurídico. Afirmó que un análisis sistemático que considere tanto la Carta Magna como la LOFL permite concluir que la Asamblea podía archivar la ley en el primer debate.
+
+Este enfoque, según Guarango, respalda la decisión de la Asamblea y pone en duda la validez de la publicación de la ‘Ley Antipillos’.
+
+Cárcel en Archidona: Gobierno, Asamblea y población tomaron decisiones
+======================================================================
+
+La protestas por la cárcel de Archidona generan el cierre de 15 vías que conectan a Napo con Quito y otras localidades.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Noveno día de protestas contra la construcción de la cárcel de máxima seguridad en Archidona.](https://www.elcomercio.com/wp-content/uploads/2024/12/carcel-archidona.jpg)
+
+El **Gobierno** de **Daniel Noboa**, una mayoría en el Pleno de la **Asamblea** y la **población de Napo** tomaron decisiones sobre la **cárcel en Archidona**, en las últimas horas.
+
+El Gobierno busca construir una **segunda cárcel de máxima seguridad**, de características similares a la que ya se edifica en **Santa Elena**.
 
 ### Más noticias:
 
-* [Independiente tendrá casa llena para su revancha con Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-tendra-casa-llena-para-su-revancha-con-liga-de-quito.html "Independiente tendrá casa llena para su revancha con Liga de Quito")
-* [Liga de Quito ganó un título cada 20 meses en 24 años](https://www.elcomercio.com/deportes/futbol/liga-quito-titulos-nacional-internacional.html "Liga de Quito ganó un título cada 20 meses en 24 años")
-* [Carlos Gruezo entrena con Liga de Quito previo a la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/carlos-gruezo-entrena-con-liga-de-quito-previo-a-la-final-de-liga-pro.html "Carlos Gruezo entrena con Liga de Quito previo a la final de Liga Pro")
+* [Las protestas se mantienen en Napo por la construcción de la cárcel en Archidona](https://www.elcomercio.com/actualidad/seguridad/protestas-napo-carcel-archidona.html "Las protestas se mantienen en Napo por la construcción de la cárcel en Archidona")
+* [Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-cambio-gobernado-napo-carcel.html "Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel")
 
-El duelo se llevará después de ocho cotejos desde la última vez que **Liga de Quito** cayó ante la escuadra rayados. Desde el 2 de mayo del 2022, en la primera etapa de la Liga Pro, el cuadro de Sangolquí no ha podido volver a vencer a sus rivales.
+Gobierno, Asamblea y población tomaron decisiones sobre la construcción de la cárcel en Archidona
+-------------------------------------------------------------------------------------------------
 
-En medio de tal etapa, la ‘U’ y el ‘Matagigantes’ también disputaron una **final en 2023**. En aquella oportunidad, ambos clubes igualaron y definieron en penales, donde Liga de Quito salió campeón. La nueva final la disputarán a un año seguido de ello.
+Una de las **ofertas de campaña** de **Daniel Noboa** para llegar a la Presidencia en 2023 fue la construcción de dos cárceles de máxima seguridad en Ecuador.
 
-El invicto de Liga de Quito en las dos últimas temporadas y media
------------------------------------------------------------------
+La primera ya se construye en **Santa Elena** y tiene un avance de más del 30%, con una inversión de **52 millones de dólares.**
 
-Dentro de sus ocho partidos previos ante **Independiente del Valle**, antes de la final de vuelta que jugará, Liga de Quito cuatro victorias y la misma cantidad de empates. A su vez, el conjunto albo tuvo hasta tres entrenadores en los enfrentamientos y el rayado a dos.
+El Gobierno tiene prevista la construcción de la segunda en Archidona, cantón de la provincia del Napo.
 
-Por la ‘U’ pasaron **Luis Zubeldía, Josep Alcácer** y el actual **DT Pablo ‘Vitamina’ Sánchez**. El primero fue el que más cotejos tuvo contra los rayados.
+La adjudicación del Gobierno para la construcción de la cárcel en Archidona
+---------------------------------------------------------------------------
 
-**Zubeldía** igualó 2-2 en la segunda etapa del 2022. Tras ello venció 2-3 y 2-0 en las dos rondas del 2023 y luego consiguió los dos empates en las finales que dirimieron a Liga de Quito como campeón por penales[.](https://en.wikipedia.org/wiki/L.D.U._Quito "https://en.wikipedia.org/wiki/L.D.U._Quito")
+El **Servicio Nacional de Atención a Personas Privadas de la Libertad y Adolescentes Infractores (SNAI) adjudicó** el martes 10 de diciembre el proceso de “**Construcción y equipamiento del centro de privación de libertad en Archidona**“.
 
-**Alcácer** solo disputó un compromiso y logró empatar por 1-1 en la ronda inicial de 2024. ‘**Vitamina**‘ venció como visitante 0-1 y luego volvió a repetir el triunfo en la primera final de la vigente temporada de Liga Pro.
+El proceso tiene previsto un presupuesto de **51 970 087 millones de dólares** y fue declarado **reservado**, al igual que el de la cárcel de Santa Elena.
 
-**Javier Gandolfi**, actual DT de Independiente del Valle no ha podido imponerse. En los duelos previos de los albos ante los rayados, el entrenador que estuvo los cinco partidos anteriores sin ganar fue Martín Anselmi, aunque antes sí había vencido.
+Bajo el tipo de “**contrataciones con empresas públicas internacionales**“, lo que se conoce del proceso es una invitación a participar.
 
-El último triunfo de Independiente del Valle
---------------------------------------------
+La Comisión Técnica recomendó la adjudicación del proceso a **la compañía Puentes Y Calzadas Infraestructuras S.L.**, subsidiaria de la empresa estatal **China Road And Bridge Corporation**, única empresa a la que se invitó.
 
-La última vez que Independiente del Valle venció a Liga de Quito fue el 2 de mayo del 2022. Aquel partido fue en el que **Anselmi** consiguió triunfar ante el cuadro de Ponceano y el cotejo correspondió a la primera etapa de la Liga Pro.
+Esta empresa es la misma que fue **invitada** para construir la cárcel de máxima seguridad de Santa Elena.
 
-Los rayados vencieron de locales con un marcador de 1-0. El tanto llegó debido a un autogol del arquero **Gonzalo Falcón**.
+La resolución de exhorto de la Asamblea sobre la cárcel de Archidona
+--------------------------------------------------------------------
 
-¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?
-=====================================================================
+La tarde de este miércoles, en el **Pleno de la Asamblea**, un grupo de asambleístas amazónicos impulsaron la aprobación de una resolución sobre la cárcel de Archidona.
 
-El Gobierno Nacional agilizó el acceso al seguro de desempleo para afiliados del IESS afectados por la crisis económica y energética en Ecuador.
-------------------------------------------------------------------------------------------------------------------------------------------------
+La asambleísta de Napo, **Sandra Rueda**, presentó una moción de resolución con varios puntos, tras señalar que existe preocupación por las implicaciones sociales, culturales y ambientales de la obra.
 
-![El seguro de desempleo se solicita en la página web del IESS.](https://www.elcomercio.com/wp-content/uploads/2024/12/iess-1112.jpg)
+Esto, debido a que el centro está ubicado en una **zona urbana** del cantón, cercano a establecimientos educativos, provocando inseguridad entre estudiantes y padres de familia.
 
-El **Gobierno Nacional** implementó nuevas medidas para garantizar que los **trabajadores desempleados** puedan acceder al **seguro de desempleo** de una forma más rápida en medio de la **crisis energética** y económicas por la que atraviesa el Ecuador.
+* **Solidarizarse** con el **pueblo de Archidona y la provincia del Napo**, en particular con **niños, niñas y adolescentes**; así como, con las **comunidades indígenas**, por la **vulneración de sus derechos** por la construcción del centro.
+* **Exhortar** al **Presidente de la República y al titular del SNAI** a **suspender de manera inmediata** la ejecución del proyecto de construcción en cumplimiento de los derechos constitucionales y el Derecho Internacional.
+* Exhortar al Presidente de la República a que **desista de imponer la construcción de una cárcel en Napo y todo el territorio amazónico.**
+
+La resolución fue aprobada con **95 votos afirmativos**, 24 negativos, 0 blancos y 2 abstenciones. No existieron votos para la reconsideración.
+
+Las medidas de la población de Napo sobre la cárcel en Archidona
+----------------------------------------------------------------
+
+Mientras esto ocurrió en el Ejecutivo y el Legislativo, la población de Napo se autoconvocó para el **noveno día de protestas** en contra de la construcción de la cárcel en Archidona.
+
+Esto, pese a que el **SNAI** ya adjudicó el contrato este martes 10 de diciembre.
+
+La **Confederación de Nacionalidades Indígenas de la Amazonía Ecuatoriana (Confeniae)**, filial de la **Conaie** en esa región, emitió un pronunciamiento esta tarde para rechazar la construcción de la cárcel.
+
+Lo hizo con el apoyo de la población de **Napo** y siete nacionalidades indígenas de **Pastaza** y líderes de **Orellana**, en el marco de “**Asamblea Popular en Defensa de la Amazonía**“, en la ciudad de Puyo, provincia de Pastaza.
+
+Los líderes indígenas señalaron que se suman “**a la** **lucha y a la resistencia**” de Napo, respaldarán las acciones de protesta y las marchas para lograr la suspensión del proyecto gubernamental.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/image-2-1024x771.png)
+
+Vías bloqueadas por las protestas contra la construcción de la cárcel en Archidona
+----------------------------------------------------------------------------------
+
+El **ECU 911** reportó el **cierre de 15 vías en Napo** por manifestaciones, con corte a las 19:59, de este miércoles 11 de diciembre:
+
+* Y DE BAEZA – PAPALLACTA
+* CHONTAPUNTA – COCA
+* AHUANO – CHONTAPUNTA
+* Y DE BAEZA – LAGO AGRIO
+* Y DE NARUPA – ARCHIDONA – TENA
+* Y DE NARUPA – TENA
+* PUERTO NAPO – AHUANO
+* Y DE NARUPA – Y DE BAEZA
+* EL REVENTADOR – Y DE BAEZA
+* Y DE NARUPA – LORETO
+* TENA -BAEZA
+* AHUANO-CHONTAPUNTA
+* TENA – LORETO
+* TENA – PUYO
+* VIA COCA – TENA – Y DE NARUPA  
+      
+    
+
+Los videojuegos más esperados por la comunidad ‘gamer’ en 2025 
+===============================================================
+
+En 2025, los ‘gamers’ ecuatorianos esperan emocionados títulos como ‘GTA VI’.
+-----------------------------------------------------------------------------
+
+![En 2025, Ecuador se une a la ola global de interés por los videojuegos. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/Videojuegos-Ecuador.jpg)
+
+El 2025 se perfila como un año emocionante para la **industria de los videojuegos**. Con un crecimiento sostenido en Ecuador y América Latina, la comunidad ‘gamer’ está ansiosa por los **lanzamientos que marcarán tendencia**. 
 
 ### Más noticias
 
-* [Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios](https://www.elcomercio.com/actualidad/negocios/ley-de-alivio-financiero-en-ecuador-puntos-clave-y-fecha-de-acceso-a-los-mas-de-20-beneficios.html "Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios")
-* [Presidente Daniel Noboa envía Ley de alivio financiero al Registro Oficial ¿Qué propone?](https://www.elcomercio.com/actualidad/negocios/ley-alivio-financiero-trata-segundo-debate-estas-son-las-principales-propuestas.html "Presidente Daniel Noboa envía Ley de alivio financiero al Registro Oficial ¿Qué propone?")
-* [‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-tomara-accion-si-publica-ley-antipillos.html "‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales")
+* [Farmear, campear, NPC y AFK: Guía de lenguaje para entender a los gamers](https://www.elcomercio.com/games/farmear-campear-npc-y-afk-guia-de-lenguaje-para-entender-a-los-gamers.html "https://www.elcomercio.com/games/farmear-campear-npc-y-afk-guia-de-lenguaje-para-entender-a-los-gamers.html")
+* [Riesgos de usar ‘cracks’ y ‘cheats’ en los videojuegos](https://www.elcomercio.com/games/cracks-cheats-videojuegos-malware-software.html "https://www.elcomercio.com/games/cracks-cheats-videojuegos-malware-software.html")
 
-La modificación consta en la nueva ley de **alivio financiero**, que entró en vigor con la publicación del Registro Oficial, el 9 de diciembre de 2024. La normativa está dirigida a los afiliados del Instituto Ecuatoriano de Seguridad Social (IESS), que cumplan ciertos requisitos específicos.
+**Videojuegos destacados para 2025** 
+-------------------------------------
 
-Requisitos para acceder al seguro de desempleo
-----------------------------------------------
+### **‘Grand Theft Auto VI’** 
 
-* Para ser elegible, los trabajadores deben haber perdido su trabajo entre noviembre y diciembre de 2024, y enero y febrero de 2025.
-* Deben acumular, al menos, 24 aportaciones al IESS, de las cuales seis deben ser continuas e inmediatas antes del inicio de su situación de desempleo.
-* Deben encontrarse desempleados por un periodo no menor a diez días.
-* Presentar la solicitud dentro de los 90 días posteriores al registro del aviso de salida por parte del empleador.
-* Verificar que el empleador registró el aviso de salida en el IESS.
-* No ser jubilados.
+Uno de los lanzamientos más anticipados es **‘Grand Theft Auto VI’**. Este título de **Rockstar Games** promete revolucionar la experiencia de juego. Se espera que llegue a las consolas **PlayStation 5 y Xbox Series a finales de 2025**. La expectativa es alta, ya que la franquicia ha sido un pilar en el mundo de los videojuegos. Según analistas, este juego podría ser el catalizador para **aumentar las ventas de consolas** y suscripciones, según [La República](https://www.larepublica.co/internet-economy/grand-theft-auto-6-encabeza-la-lista-de-los-videojuegos-mas-esperados-para-2025-4000182 "https://www.larepublica.co/internet-economy/grand-theft-auto-6-encabeza-la-lista-de-los-videojuegos-mas-esperados-para-2025-4000182").  
 
-Proceso para solicitar el seguro de desempleo
----------------------------------------------
+### **‘Assassin’s Creed: Shadows’** 
 
-El proceso para solicitar el seguro de desempleo es sencillo y se realiza de manera virtual. Los solicitantes deben ingresar a la [plataforma en línea del IESS](https://www.iess.gob.ec/afiliados/ "https://www.iess.gob.ec/afiliados/"), con su usuario y clave. Luego deben seleccionar la opción **Seguro de desempleo**.
+Otro título esperado es **‘Assassin’s Creed: Shadows’**. Este juego, que se retrasó desde octubre de 2024, ofrece una nueva perspectiva sobre la famosa franquicia. El aspecto gráfico promete sumergir a los jugadores en un mundo realista. Su lanzamiento está programado para **febrero de 2025** y se espera que atraiga tanto a nuevos jugadores como a fanáticos de la serie, siguiendo con la misma fuente.  
 
-Allí, debe completar el formulario y enviar la solicitud. Una vez aprobada, los pagos se realizarán de forma automática y mensual a la cuenta bancaria registrada, dentro de un plazo máximo de 30 días hábiles.
+### **‘Borderlands 4’** 
 
-El seguro de desempleo no solo ofrece un **alivio financiero inmediato**, sino que también asegura la continuidad económica de las familias afectadas, señaló el Gobierno.
+La saga Borderlands también regresa con **‘Borderlands 4’**. Este juego mantendrá su estilo característico de **acción y humor**, y ofrecerá nuevas aventuras en un **mundo post-apocalíptico**. La fecha de lanzamiento está prevista para **mediados de 2025** y se espera que esté disponible en múltiples plataformas, a decir de [VidaExtra](https://www.vidaextra.com/listas/estos-juegos-esperados-2025-gta-6-borderlands-4-metroid-prime-4-beyond-mucho "https://www.vidaextra.com/listas/estos-juegos-esperados-2025-gta-6-borderlands-4-metroid-prime-4-beyond-mucho"). 
 
-Monto y duración del seguro del desempleo
------------------------------------------
+### **‘Metroid Prime 4’** 
 
-El monto y la duración del seguro del desempleo no se han modificado. Es decir, los afilados cesantes (sin trabajo) recibirán el seguro de desempleo por cinco meses. El monto corresponde del 70% al 50% del promedio del salario de los últimos 12 meses de trabajo.
+**Nintendo** no se queda atrás con el esperado **‘Metroid Prime 4’**. Este título, según [Hobbyconsolas](https://www.hobbyconsolas.com/reportajes/20-juegos-multiplataforma-van-definir-2025-1416787 "https://www.hobbyconsolas.com/reportajes/20-juegos-multiplataforma-van-definir-2025-1416787"), ha generado **gran expectativa entre los fans** desde su anuncio hace varios años. Se prevé que llegue junto con la **nueva consola portátil de Nintendo**, lo que podría revitalizar el interés por la marca en Ecuador. 
 
-En caso de no cumplir con los requisitos temporales, se aplicarán las normas generales de la Ley de Seguridad Social. Es decir, haber cumplido 60 días (dos meses) sin empleo y registrar la solicitud del seguro de desempleo a partir del día 61 días de estar cesante, hasta un plazo máximo de 45 días posteriores, es decir, 106 días de desempleo.
+### **‘Doom: The Dark Ages’** 
 
-Ecuador y Chile firmaron un convenio de cooperación consular
-============================================================
+La icónica **saga Doom** también tendrá una nueva entrega llamada **‘Doom: The Dark Ages’**. Este juego promete una **experiencia intensa y gráfica**, ideal para los amantes del **género ‘shooter’**. Su lanzamiento está programado para fines de 2025, según [News](https://news.instant-gaming.com/es/articulos/8276-nuestros-10-juegos-mas-esperados-de-2025 "https://news.instant-gaming.com/es/articulos/8276-nuestros-10-juegos-mas-esperados-de-2025"). 
 
-Las Cancillerías de Ecuador y Chile suscribieron un nuevo acuerdo de cooperación para brindar asistencia y protección a sus ciudadanos.
----------------------------------------------------------------------------------------------------------------------------------------
+### **‘Death Stranding 2: On the Beach’** 
 
-![Representantes de Chile y Ecuador durante la firma del convenio en Quito](https://www.elcomercio.com/wp-content/uploads/2024/12/ecuador-chile-convenio.jpg)
+Los seguidores de **Hideo Kojima** esperan con ansias **‘Death Stranding 2: On the Beach’**. Este título explorará **nuevas narrativas** y mecánicas innovadoras que han caracterizado al creador japonés. Aunque no hay una fecha exacta, se espera que sea uno de los grandes lanzamientos del año, siguiendo con la misma fuente.  
 
-Las Cancillerías de **Ecuador** y **Chile** suscribieron un nuevo **acuerdo de cooperación** este miércoles 11 de diciembre de 2024.
+**Intereses en Ecuador**  
+--------------------------
+
+Los **gamers ecuatorianos** muestran preferencias por géneros como **RPGs, ‘shooters’ y juegos de aventura**. La comunidad local ha estado activa en **redes sociales**, y ha compartido sus expectativas sobre estos lanzamientos.  
+
+Para **Andrés ‘Widow’ López**, ‘gamer’ profesional que representó al país en la **International Esports Federation** en Bali, Indonesia, los juegos que espera para este 2025 en consolas son: 
+
+* ‘Spider-Man 2’ para PS5. 
+
+* ‘Wolverine’ para PS5. 
+
+* ‘GTA 6’ para PC. 
+
+Además, espera con ansias las actualizaciones que traerán el 2025 para juegos como ‘CS 2’, ‘DOTA 2’ y los nuevos héroes que añadirá ‘Overwatch’.  
+
+Por su parte, **Marcelo Moya**, director de la Escuela de Ingeniería en Mecatrónica de la UIDE, destaca que en el **panorama gamer para 2025** varios títulos se perfilan como imprescindibles, con alta proyección de popularidad y seguimiento en plataformas especializadas como **Metacritic, Game Informer, Reddit, Twitch y YouTube**.  
+
+**‘Final Fantasy VII Rebirth’** de Square Enix, **‘Star Wars Outlaws’** y **‘Avowed’** de Obsidian Entertainment son algunos de los más esperados, con mecánicas innovadoras, historias profundas y gráficos de última generación. **‘Grand Theft Auto VI’** también genera gran expectación, reflejada en **discusiones y encuestas**, convirtiéndose en el gran acontecimiento del año. Estos juegos responden a las tendencias actuales y las expectativas de los desarrolladores, lo que asegura una temporada de experiencias inolvidables para los ‘gamers’ más apasionados. 
+
+**Tendencias globales** 
+------------------------
+
+A nivel global, el **interés por los videojuegos** ha crecido exponencialmente. Plataformas como **Twitch y YouTube Gaming** han permitido a los jugadores compartir experiencias y **generar comunidades** alrededor de estos títulos esperados. En Ecuador, este fenómeno también se refleja en la **participación activa en foros y redes sociales.** 
+
+El año 2025 promete ser muy bueno para la **comunidad ‘gamer’ en Ecuador**. Con lanzamientos esperados como ‘GTA VI’, los ‘gamers’ tienen motivos para estar emocionados.  
+
+### Te recomendamos:
+
+Donald Trump será nombrado ‘Persona del año’ por la revista Time, según varios medios
+=====================================================================================
+
+Time desveló hace varios días su lista de finalistas para el galardón que comunicará mañana 12 de diciembre de 2024.
+--------------------------------------------------------------------------------------------------------------------
+
+![Donald Trump en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/12/Donald-Trump-efe-26.jpg)
+
+El presidente electo [Donald Trump](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump") será nombrado el 12 de diciembre de 2024, ‘Persona del año’ por la revista Time. Esta distinción la concede por segunda vez después de que ya lo hiciera en 2016, según adelantan este miércoles **varios medios como CNN o Político.**
+
+### Más noticias
+
+* [Justin Trudeau contraataca a Donald Trump](https://www.elcomercio.com/actualidad/mundo/justin-trudeau-contraataca-donald-trump.html "Justin Trudeau contraataca a Donald Trump")
+* [Donald Trump plantea reformas a visas y ‘Green Cards’ para migrantes](https://www.elcomercio.com/actualidad/mundo/donald-trump-plantea-reformas-clave-politicas-migratorias-ee-uu.html "Donald Trump plantea reformas a visas y ‘Green Cards’ para migrantes")
+* [Nuera de Donald Trump deja el Partido Republicano y podría ir al Senado](https://www.elcomercio.com/actualidad/mundo/nuera-donald-trump-deja-direccion-del-partido-republicano-podria-senado.html "Nuera de Donald Trump deja el Partido Republicano y podría ir al Senado")
+
+Esa es la razón de que Trump reservó mañana el **toque de campana en Wall Street,** que representa la apertura de la bolsa a las 9:30 ya que será un modo de **celebrar ese galardón,** según resaltaron fuentes no identificadas a esos medios.
+
+No es habitual que una misma persona sea reconocida dos veces por la revista Time, pero sí que la publicación **reconozca a presidentes de Estados Unidos**: hasta 13 veces fueron considerados los presidentes ‘Persona del año’, incluido Joe Biden.
+
+Time desveló hace varios días su **lista de finalistas para el galardón** que comunicará mañana, y en ella estaban, además de Trump, el **primer ministro israelí Benjamin Netanyahu**, el magnate Elon Musk, la vicepresidenta Kamala Harris y la princesa Catalina de Gales.
+
+Antes de ser reconocido en 2016, Trump tuvo palabras poco amables con Time y su famosa lista. Las calificó como “una broma y un **truco publicitario de una revista** que pronto estará muerta”, pero tras su aparición en 2016 cambió radicalmente de tono. “Esto significa mucho para alguien que, como yo, creció leyendo Time: es una revista muy importante”, dijo entonces, como recuerda Politico.
+
+Además de la Persona del año, Time eligió ya en días pasados al Atleta del año (la baloncestista Caitlin Clark), Ícono del año (el cantante Elton John) y CEO del año (Lisa Su, directora ejecutiva de Advanced Micro Devices). 
+
+El Sparta Praga de Angelo Preciado, al borde de la eliminación en Champions
+===========================================================================
+
+El Sparta Praga de Angelo Preciado volvió a sumar una derrota en la UEFA Champions League y está al borde de la eliminación.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Tomas Wieser, compañero de Angelo Preciado en el Sparta Praga, pelea un balón contra un rival del Feyenoord.](https://www.elcomercio.com/wp-content/uploads/2024/12/34ad90111a78625e646df78637a64e22fb3c80a3.jpg)
+
+El **Feyenoord**, impulsado por un arranque fulgurante, favorecido por un ritmo alocado y por la fragilidad de su adversario, se reencontró ante el frágil **Sparta Praga**, que no contó con Angelo Preciado, con el triunfo en la Liga de Campeones (4-1), en modo goleada que culminó el mexicano Santi Giménez, que le devuelve a los puestos de clasificación de los que provisionalmente había salido.
+
+El conjunto de **Brian Priske** está otra vez entre los veinticuatro equipos que apuntan a la continuidad en el torneo. No está para ambiciones mayores. Los ocho primeros lugares quedan lejos. Pero ha conseguido enderezar su recorrido europeo que se afeó con la derrota contra el Salzburgo porque el empate contra el **Manchester City** resultó gratificante. Evitó la derrota en Inglaterra después de tener el marcador en contra por 3-0.
+
+### Más noticias:
+
+* [El FC Barcelona acaricia los octavos de la Champions](https://www.elcomercio.com/deportes/futbol/barcelona-dortmund-resultado-champions-league.html "El FC Barcelona acaricia los octavos de la Champions")
+* [El Liverpool queda a un paso de octavos de Champions](https://www.elcomercio.com/deportes/liverpool-octavos-champions-girona.html "El Liverpool queda a un paso de octavos de Champions")
+* [Piero Hincapié y Leverkusen vencen al Inter de Milán en Champions](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-champions.html "Piero Hincapié y Leverkusen vencen al Inter de Milán en Champions")
+
+El r**epresentante neerlandés** alargó la dinámica y la inspiración que le reactivó en el Etihad y sumó otro triunfo, el tercero en los seis encuentros europeos que ha jugado.
+
+Ante el Sparta, que no pudo evitar su cuarta derrota seguida y quinto encuentro sin perder, puso de cara el choque con dos goles en dos minutos antes del cuarto de hora inicial. Porque abrió el marcador en un saque de esquina que despejó mal **Elias Cobbaut**. Gernot Trauner se vio con el balón en los pies y solo tuvo que empujar a la red. Era en 9. Uno después, casi tras el saque de centro visitante, Antoni Milambo robó el balón al Sparta y se lo envió a **Santi Giménez**. El mexicano, en la rápida transición, encontró a Igor Paixao que con espacio, a campo abierto, batió desde fuera del área otra vez a Peter Vindahl.
+
+Era una avalancha, en plena inspiración del cuadro de Rotterdam que pudo hacer el tercero en el 19, por medio de **Milambo** y que salvó, con el pie, como pudo, el portero checo.
+
+No pudo evitarlo, sin embargo, a la media hora. Un golazo. Desde el vértice del área. Obra de Anis Haj Moussa tras recibir el balón de **Bart Nieuwkoop** que, a media altura, con gran efecto, alcanzó la red.
+
+El Sparta Praga de Angelo Preciado encontró el gol, pero no bastó
+-----------------------------------------------------------------
+
+En plena locura todo podía pasar y aprovechó el Sparta su momento para recortar las distancias y regresar al partido en pleno correcalles. En un saque de banda largo, al área, que alargó de cabeza **Asger Sorensen** y que despejó mal un defensa. Le llegó, en el segundo palo, al kosovar **Albion Rrahmani** que alargó la pierna y alcanzó para marcar.
+
+Dio la sensación de reaccionar el equipo de Lars Frijs a la vuelta de vestuarios. Lukas Sadilek pudo hacer el segundo pero salió al paso Timon Wellenreuther y después **Santi Giménez** hacer el cuarto. Y luego Veljko Birmancevir otra vez para el Sparta. Hasta que el Feyenoord acertó y estableció la goleada.
+
+Fue el reencuentro de Giménez con el acierto. En su sitio, de ariete. De primeras aprovechó un error de la zaga visitante para enviar a la red un balón al área de **Anis Hadj Moussa**[.](https://en.wikipedia.org/wiki/UEFA_Champions_League "https://en.wikipedia.org/wiki/UEFA_Champions_League")
+
+El partido se rompió del todo con mucho por jugar y los goles se acercaron a uno y otro lado. Pero fue para el Sparta el segundo, en propia puerta de **Thomas Beelen** tres minutos después de que el VAR anulara por fuera de juego el anotado por Veljko Birmancevic.
+
+Alineaciones del Feyenoord y el Sparta Praga
+--------------------------------------------
+
+4 – **Feyenoord**: Timon Wellenreuther; Bart Nieuwkoop (Hugo Bueno, m.75), Gernot Trauner, Dávid Hancko, Gijs Smal (Thomas Beelen, m.58); Hwang In-beom (Ramiz Zerrouki, m.75), Antoni Milambo, Quinten Timber; Anis Hadj Moussa (Calvin Stengs, m.75), Santiago Giménez (Ibrahim Osman, m.68) e Igor Paixão.
+
+2 – **Sparta Praga**: Peter Vindahl; Martin Vitik, Asger Sorensen, Elias Cobbaut (Filip Panak, m.68); Tomas Wiesner, Lukas Sadilek, Markus Solbakken (Qazim Laci, m.68), Kaan Kairinen, Matej Rynes (Jarsolav Zeleny, m.83); Albino Rrahmani (Victor Olatunji, m.77) y Veljko Birmancevic (Ermal Krasniqi, m.77).
+
+**Goles**: 1-0, m.9: Gernot Trauner; 2-0, m.10: Igor Paixao; 3-0, m.31: Anis Hadji Moussa. 3-1, m.43: Albion Rrahmani; 4-1, m.63: Santi Giménez; 4-2, m.79: Thomas Beelen, en propia puerta.
+
+Kylian Mbappé pierde demanda ante el PSG
+========================================
+
+Kylian Mbappé, actual jugador del Real Madrid, pedía una suma superior a los 55 millones de dólares.
+----------------------------------------------------------------------------------------------------
+
+![El delantero francés del Real Madrid Kylian Mbappé durante el partido de la jornada 19 de LaLiga que Girona FC y Real Madrid.](https://www.elcomercio.com/wp-content/uploads/2024/12/mbappe_demanda_1.jpg)
+
+La Comisión de Disciplina de la Liga de Fútbol Profesional de Francia (LFP) **no impondrá ninguna sanción al PSG** por el litigio entre el club y su exjugador Kylian Mbappé, pues no admitió a trámite la demanda del delantero sobre los impagos de sus últimos salarios y primas.
+
+En un comunicado, la LFP justificó este miércoles 11 de diciembre de 2024, su **decisión por el recurso que el club parisino ha interpuesto** ante la Justicia ordinaria contra la propia Liga francesa en vistas de anular las dos decisiones en las que el organismo instaba al PSG a pagar 57,7 millones de dólares a Mbappé.
+
+### Más noticias:
+
+* [Dragonas IDV despidió a Nayely Bolaños con emotivo video](https://www.elcomercio.com/deportes/futbol/nayely-bolanos-pumas-debut-brasil.html "Dragonas IDV despidió a Nayely Bolaños con emotivo video")
+* [La millonaria cifra que el Mundial FIFA aportará a un país anfitrión](https://www.elcomercio.com/deportes/futbol/millonaria-cifra-mundial-2026-pais-anfitrion-fifa.html "La millonaria cifra que el Mundial FIFA aportará a un país anfitrión")
+* [FIFA confirma a Arabia Saudí como sede del Mundial 2034](https://www.elcomercio.com/deportes/futbol/sede-mundial-2034-fifa-arabia-saudi.html "FIFA confirma a Arabia Saudí como sede del Mundial 2034")
+
+¿Cómo fue el reclamo de Mbappé?
+-------------------------------
+
+Ante esa situación, “la Comisión de Disciplina concluye que **no es posible tramitar la demanda formulada** por el señor Kylian Mbappé”, señaló la instancia rectora del campeonato francés.
+
+Tanto el 11 de septiembre como el 25 de octubre, dos instancias de la LFP (la Comisión Jurídica y la de Apelación) habían instado al PSG a pagar los 57,7 millones a Mbappé.
+
+El jugador del Real Madrid apeló entonces a la Comisión de Disciplina de la LFP en vistas de que sancionasen rápidamente a su antiguo club, algo que no ha sucedido y que **supone un revés para los intereses del campeón del mundo en 2018**.
+
+“Estamos muy contentos de que la Comisión de Disciplina haya decidido no sancionar al PSG como pedía el futbolista”, señaló un portavoz del club, en un comunicado enviado a EFE.
+
+La misma fuente destacó que se abre la puerta a “**una solución amistosa**” que el club siempre quiso y acusó a su antigua estrella de “mala fe” en todo este proceso.
+
+![EFE.](https://www.elcomercio.com/wp-content/uploads/2024/12/mbappe_demanda_2-1024x683.jpg)
+
+EFE.
+
+El PSG advierte a Mbappé
+------------------------
+
+La entidad parisina alertó, en todo caso, de que estará “**lista para exponer completamente la situación**” en caso de que Mbappé “persista a no respetar a lo que se comprometió de manera pública y privada” y siga con su demanda en un tribunal del ámbito laboral.
+
+El PSG sostiene que **había llegado con Mbappé a un acuerdo verbal en el verano de 2023** para desbloquear la decisión de los propietarios cataríes del club francés de apartarle de la primera plantilla a principios de la pasada temporada por negarse a renovar.
+
+Ese trato, al que **Mbappé aludió en alguna ocasión ante la prensa**, es al que se aferra el PSG para no pagar esa suma, pero los abogados del jugador lo consideran inválido y caduco.
+
+San viernes
+-----------
+
+Manchester City en riesgo de quedar fuera de la Champions League
+================================================================
+
+El Manchester City sumó su tercer partido consecutivo sin ganar en la Champions League, complicando seriamente su clasificación a la siguiente ronda.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Jack Grealish, jugador del Manchester City, en un partido de Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-11T171350.459.jpg)
+
+La temporada 2024/25 del equipo dirigido por **Pep Guardiola** está siendo irregular tanto en la **Premier League** como en el torneo europeo. Este miércoles 11 de diciembre, los ‘Citizens’ sufrieron una nueva derrota en la **Champions League**, esta vez ante la **Juventus** en Italia.
+
+El equipo italiano se impuso 2-0 con goles de **Dušan V****lahović** y **Weston McKennie** en la sexta jornada del torneo, la última que se disputará en este año.
+
+### Más noticias:
+
+* [El FC Barcelona acaricia los octavos de la Champions](https://www.elcomercio.com/deportes/futbol/barcelona-dortmund-resultado-champions-league.html "El FC Barcelona acaricia los octavos de la Champions")
+* [El Liverpool queda a un paso de octavos de Champions](https://www.elcomercio.com/deportes/liverpool-octavos-champions-girona.html "El Liverpool queda a un paso de octavos de Champions")
+* [Piero Hincapié y Leverkusen vencen al Inter de Milán en Champions](https://www.elcomercio.com/deportes/piero-hincapie-bayer-leverkusen-champions.html "Piero Hincapié y Leverkusen vencen al Inter de Milán en Champions")
+
+El City sumó el enésimo capítulo negativo de una temporada para el olvido. Envuelto en el juicio más mediático del fútbol y atravesando el peor momento desde que **Guardiola** está en el banquillo -con 6 derrotas y 1 victoria en los últimos 9 encuentros-, el City llegó a Turín con la obligación de ganar a una ‘Juve’ que no estaba en mucha mejor forma.
+
+Sobre todo porque en enero, los ‘cityzens’ viajarán a **Francia para medirse a un PSG** también en apuros, en lo que será otro enfrentamiento directo y puede que decisivo.
+
+Juventus complicó al City
+-------------------------
+
+Fue otro partido que dejó entrever las numerosas costuras de los ingleses. La ‘**Juve**‘, sin mucho que proponer, con solo 1 victoria en los últimos 6 partidos, también algo condicionada por las lesiones, consiguió frenar la maquinaria rival y, cuando tuvo su oportunidad, aprovechó para matar a un equipo muy mermado.
+
+Se le notó espeso al combinado mancuniano. Lento en circulación, esperando que una chispa individual de **De** **Bruyne**, Doku o Haaland marcara la diferencia para desarbolar el buen entramado defensivo juventino.
+
+Estuvo sólida en el carril central la ‘Juve’. También ágil en la salida rápida con espacios. Conceicao se picó con Doku por ver quién iba a ser el extremo más decisivo del partido con los regates, pero apareció por el otro costado la joven perla turca para poner orden. **Yildiz** sacó un disparo que marcó el inicio de las ocasiones.
+
+Respondió el City con una jugada clásica. Orquestada por el siempre clínico De Bruyne. Pase filtrado a Haaland, solo ante Di Gregorio. El noruego picó sutilmente el balón pero el meta italiano adivinó las intenciones y sacó una mano salvadora, la primera del partido.
+
+La gran ocasión, lejos de espolear al City, le hizo más tímido. Se creció la ‘Juve’, evitando la presión con cierta facilidad en salida de balón. Y obtuvo su recompensa nada más empezar el segundo tiempo, con un gol de Vlahovic que puso patas arriba el Juventus Stadium.
+
+Todo en una jugada curiosa que dejó una tijera de Gatti, el central. No anduvo fino **Gvardiol** en el despeje y Yildiz encontró en el segundo palo a **Vlahovic** que, con un cabezazo validado por la tecnología de gol en el reloj del colegiado, señaló el camino de la victoria
+
+> ¡El reloj sonó y Dusan Vlahovic gritó el 1-0 de Juventus ante Manchester City!  
+>   
+> 📺 Mirá la [#UCL](https://twitter.com/hashtag/UCL?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/xdh9N2ZhUB](https://t.co/xdh9N2ZhUB)
+> 
+> — SportsCenter (@SC\_ESPN) [December 11, 2024](https://twitter.com/SC_ESPN/status/1866954297843364226?ref_src=twsrc%5Etfw)
+
+Despertó en ese momento el **City**. Se vino arriba, empezó a hundir a la ‘Juve’ y a generar peligro real. Los extremos llegaron con más facilidad, pero siempre toparon con la gigante defensa italiana. Y Di Gregorio sacó otra mano fundamental a un disparo de **Gundogan**.
+
+Pareció que el gol del City era cuestión de tiempo, pero otra vez la ‘Juve’ estuvo mejor en la interpretación del duelo. Y el City muy blando. Porque permitió la contra cuando estaba muy abierto. **McKennie** condujo desde el centro del campo. Inició y terminó. Definió con una media volea el centro de Weah.
+
+> ¡GOLAZO Y MÁS ALARMAS PARA MANCHESTER CITY! Espectacular lo de Weston McKennie para el 2-0 de Juventus en la Champions.  
+>   
+> 📺 Mirá la [#UCL](https://twitter.com/hashtag/UCL?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/nCRFVxSEZu](https://t.co/nCRFVxSEZu)
+> 
+> — SportsCenter (@SC\_ESPN) [December 11, 2024](https://twitter.com/SC_ESPN/status/1866959620251541795?ref_src=twsrc%5Etfw)
+
+Sentenció un partido que dio mucho aire al club turinés, ahora con 11 puntos, más cerca de los 8 primeros. Y que **dejó muy tocado al City, con 8 unidades y al borde del abismo**, número 22 de los 24 que entran en la ronda previa a octavos.
+
+Justin Trudeau contraataca a Donald Trump
+=========================================
+
+Trudeau viajó a Florida para reunirse con Trump e intentó convencerle de que no castigue a Canadá con aranceles del 25%.
+------------------------------------------------------------------------------------------------------------------------
+
+![Justin Trudeau en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/12/justin-trudeau-efe.jpg)
+
+El primer ministro de Canadá, [Justin Trudeau](https://es.wikipedia.org/wiki/Justin_Trudeau "https://es.wikipedia.org/wiki/Justin_Trudeau"), relacionó este miércoles, 11 de diciembre de 2024, la **victoria electoral de Donald Trump** con el **retroceso de los derechos de las mujeres**. Esto después de que el republicano se burlara del líder canadiense al llamarlo “gobernador” de un estado de Estados Unidos.
+
+### Más noticias
+
+* [Justin Trudeau advierte que Donald Trump regresa al poder con ‘ideas más claras’](https://www.elcomercio.com/actualidad/mundo/justin-trudeau-advierte-donald-trump-regresa-poder-ideas-mas-claras.html "Justin Trudeau advierte que Donald Trump regresa al poder con ‘ideas más claras’")
+* [Donald Trump plantea reformas a visas y ‘Green Cards’ para migrantes](https://www.elcomercio.com/actualidad/mundo/donald-trump-plantea-reformas-clave-politicas-migratorias-ee-uu.html "Donald Trump plantea reformas a visas y ‘Green Cards’ para migrantes")
+* [Nuera de Donald Trump deja el Partido Republicano y podría ir al Senado](https://www.elcomercio.com/actualidad/mundo/nuera-donald-trump-deja-direccion-del-partido-republicano-podria-senado.html "Nuera de Donald Trump deja el Partido Republicano y podría ir al Senado")
+
+Trudeau a finales de octubre viajó a Florida para **reunirse con el presidente electo** donde intentó convencerle de que no castigue a Canadá con aranceles del 25 %. El mandatario canadiense afirmó en un evento en Ottawa que hay políticos y “**fuerzas reaccionarias”** que quieren dar marcha atrás a los derechos de las mujeres.
+
+“Se suponía que estaríamos en una **marcha constante**, aunque difícil, hacia el progreso. Y aún así, hace pocas semanas, Estados Unidos votó por segunda vez **no elegir a su primera mujer presidenta**“, continuó el primer ministro.
+
+Justin Trudeau es un orgulloso feminista
+----------------------------------------
+
+“En todos los lados, los **derechos de las mujeres y el progreso de las mujeres** están bajo ataque, de forma abierta o sutilmente. Quiero que sepan que soy y siempre seré un **orgulloso feminista**. Siempre tendrán en mí y en mi **Gobierno un aliad**o”, añadió ante una audiencia mayoritariamente feminista.
+
+Trudeau tiene previsto reunirse este miércoles con los jefes de Gobierno de las **11 provincias del país** para informarles del plan para invertir **1 000 millones de dólares canadienses** (710 millones de dólares estadounidenses o 670 millones de euros) para reforzar la **seguridad fronteriza.**
+
+Aranceles del 25% a Canadá y México
+-----------------------------------
+
+Trump afirmó que aplicará **aranceles del 25 % a Canadá y México** hasta que cese el flujo de drogas e inmigrantes indocumentados procedentes de esos dos países.
+
+Tras la amenaza, Trudeau cenó con el **presidente electo en su residencia de Mar-a-Lago.** Durante esa cena, Trump bromeó que la solución a los devastadores aranceles que quiere imponer es que Canadá se integre en Estados Unidos como un estado más.
+
+Esta semana, en una continuación de su broma, Trump llamó a Trudeau el “gobernador” del “gran estado de Canadá”.
+
+Bomberos rescataron a perrita que cayó a una quebrada en Quito
+==============================================================
+
+Los Bomberos rescataron a 'Helen', una perrita que se quedó atrapada en una quebrada, tras caer varios metros.
+--------------------------------------------------------------------------------------------------------------
+
+![La perrita cayó varios metros hacia una quebrada tras resbalar](https://www.elcomercio.com/wp-content/uploads/2024/12/bomberos-rescate-quito-perrita.jpg)
+
+Una perrita fue **rescatada de una quebrada** tras resbalar y caer varios metros. El hecho se registró en el sector de **Carcelén**, en el norte de Quito, este martes 10 de diciembre de 2024.
 
 ### Más noticias
 
 * [Daniel Noboa asegura que hubo un coche bomba cerca de un acto en Machala](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-coche-bomba-cerca-acto-machala.html "Daniel Noboa asegura que hubo un coche bomba cerca de un acto en Machala")
-* [Asamblea Nacional tiene juicios políticos pendientes por tramitar](https://www.elcomercio.com/actualidad/politica/juicios-politicos-pendientes-asamblea-nacional.html "Asamblea Nacional tiene juicios políticos pendientes por tramitar")
-* [Daniel Noboa anunció el fin de los apagones en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-anuncio-fin-apagones-ecuador.html "Daniel Noboa anunció el fin de los apagones en Ecuador")
+* [Un rayo alcanzó a dos personas en El Teleférico; Bomberos detallaron su estado](https://www.elcomercio.com/actualidad/quito/rayo-descarga-teleferico-quito-bomberos.html "Un rayo alcanzó a dos personas en El Teleférico; Bomberos detallaron su estado")
+* [Quedan pocos días para revisión técnica vehicular en Quito](https://www.elcomercio.com/actualidad/quito/guia-rezagados-matricular-vehiculo-quito.html "Quedan pocos días para revisión técnica vehicular en Quito")
 
-La firma del convenio se dio en el marco de la **I Reunión de Consultas Políticas** realizada en Quito. El evento contó con la participación del vicecanciller ecuatoriano **Jaime Barberis** y la subsecretaria de Relaciones Exteriores de Chile, **Gloria de la Fuente**.
+El Cuerpo de **Bomberos** de la ciudad recibió la alerta por parte del ECU 911 y de inmediato desplegó una **unidad de rescate** al lugar.
 
-Asistencia y protección consular
---------------------------------
+Al llegar, los uniformados encontraron a **Helen**, una perrita blanquinegra, en el fondo de la pendiente, rodeada de **maleza y vegetación**.
 
-Según detalló la Cancillería de Ecuador, el acuerdo establecerá un **mecanismo de colaboración** para la **asistencia y protección consular** a nacionales ecuatorianos y chilenos en aquellos países que uno de los estados no cuente con representación.
+Perrita trotaba junto a su dueño cuando cayó a la quebrada
+----------------------------------------------------------
 
-Esto quiere decir, que los ecuatorianos ahora podrán acceder a **servicios diplomáticos** en más países, donde Chile tenga sus sedes internacionales; y viceversa[.](https://www.cancilleria.gob.ec/ "https://www.cancilleria.gob.ec/")
+Su dueño contó que ambos salieron a trotar cuando la perrita perdió el equilibrio y **se cayó**.
 
-> En el marco de la I Reunión de Consultas Políticas entre Ecuador y Chile, se suscribieron tres importantes instrumentos que consolidan la cooperación bilateral:  
+El personal comenzó con los trabajos de rescate, para lo que se utilizó un sistema de descenso con cuerdas.
+
+Los bomberos **calmaron al asustado can**, para luego colocarle un chaleco y un bozal[.](https://www.bomberosquito.gob.ec/ "https://www.bomberosquito.gob.ec/")
+
+Finalmente, Helen fue extraída con éxito de la quebrada y entregada a sus preocupados **dueños**.
+
+> 🐾 [#RescateAnimal](https://twitter.com/hashtag/RescateAnimal?src=hash&ref_src=twsrc%5Etfw) | En medio de una situación particular, Helen, una perrita que había resbalado y caído en el interior de una quebrada, en el sector de Carcelén, fue rescatada con éxito por nuestro equipo.  
 >   
-> 1️⃣ \*Acuerdo Interinstitucional de Cooperación Consular:\* Un compromiso clave para fortalecer la asistencia consular… [pic.twitter.com/y72hGtCHzt](https://t.co/y72hGtCHzt)
+> 👉 Juan\*, quien había salido a trotar, vivió momentos de gran… [pic.twitter.com/cx8qNEkRDA](https://t.co/cx8qNEkRDA)
 > 
-> — Cancillería del Ecuador 🇪🇨 (@CancilleriaEc) [December 10, 2024](https://twitter.com/CancilleriaEc/status/1866615448793764109?ref_src=twsrc%5Etfw)
+> — Bomberos Quito (@BomberosQuito) [December 11, 2024](https://twitter.com/BomberosQuito/status/1866644249820770313?ref_src=twsrc%5Etfw)
 
-Otros temas abordados en la reunión
------------------------------------
+Cerca de 5 000 animales fueron esterilizados en Quito
+-----------------------------------------------------
 
-En el encuentro también se abordaron **otros temas**, entre ellos: políticos-diplomáticos, económicos y comerciales, cooperación, culturales y educativos, regionales y multilaterales.
+La Unidad de Bienestar Animal de Quito (UBA) presentó los resultados de su trabajo en noviembre.
 
-Asimismo, Ecuador presentó un listado de pedidos con **iniciativas de colaboración** y cooperación en distintas áreas.
+En total, 4 792 animales, entre perros y gatos, fueron esterilizados este mes.
 
-“Ambos países reafirmaron su compromiso con valores compartidos como el respeto al **Estado de Derecho**, el multilateralismo y la solución pacífica de controversias”, indicó la Cancillería ecuatoriana en un comunicado.
+Además, se ejecutaron 239 esterilizaciones especiales del programa ‘Atrapar, esterilizar y retornar’.
 
-“Este importante mecanismo de Consultas Políticas, beneficiará a las relaciones de amistad y cooperación que mantenemos, que se cimentan en la voluntad política por fomentar un diálogo productivo sobre los temas que ocupan nuestro portafolio de interés compartido”, añadió **Jaime Barberis**.
+La entidad del Municipio también realizó 461 desparasitaciones, 42 adopciones, 4 755 sensibilizaciones con dueños y 311 inspecciones.
 
-Invitación a Gabriel Boric y entrega de libros ecuatorianos
------------------------------------------------------------
+El FC Barcelona acaricia los octavos de la Champions
+====================================================
 
-El funcionario reiteró la invitación para que el presidente chileno, **Gabriel Boric**, visite Ecuador en una nueva agenda.
+El FC Barcelona y el Borussia Dortmund jugaron un partidazo en el Signal Iduna Park.
+------------------------------------------------------------------------------------
 
-Al finalizar, tras suscribir el acta de la I Reunión de Consultas Políticas; Ecuador entregó una donación de **183 libros de autores nacionales** para la biblioteca de la Cancillería chilena. _**Con información de EFE**_.
+![Rapinha celebra el gol marcado con el Barcelona al Dortmund en la Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/12/barca_dortmund_1.jpg)
 
-Independiente apela a la mística para remontar a Liga de Quito
-==============================================================
+El **FC Barcelona derrotó por 2-3 al Borussia Dortmund** en el Signa Iduna Park y dio un paso gigante para clasificarse a los octavos de final de la Champions League, mientras que los alemanes retrocedieron en esa intención.
 
-Independiente del Valle enfrenta un reto monumental para coronarse campeón de la Liga Pro 2024.
------------------------------------------------------------------------------------------------
-
-![Richard Schunke es uno de los líderes de Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-11T124104.535.jpg)
-
-La derrota por 3-0 de I**ndependiente del Valle frente a Liga de Quito** en la final de ida de la Liga Pro 2024 dejó al equipo con mínimas posibilidades de consagrarse campeón. Sin embargo, los rayador han decidido creer en la hazaña y apuestan por darlo todo en la vuelta para revertir el marcador.
-
-A través de un emotivo video titulado **“Elijo creer”**, el club transmitió optimismo y confianza, dirigiendo un mensaje de esperanza tanto al equipo como a los aficionados.
+El encuentro entre el Borussia Dortmund y el FC Barcelona se jugó este miércoles 11 de diciembre de 2024, **con lo que se cerró los partidos de la Champions de este año**. En enero de 2025 se completarán dos partidos más.
 
 ### Más noticias:
 
-* [Independiente tendrá casa llena para su revancha con Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-tendra-casa-llena-para-su-revancha-con-liga-de-quito.html "Independiente tendrá casa llena para su revancha con Liga de Quito")
 * [Independiente marca menos de tres goles por partido de local](https://www.elcomercio.com/deportes/futbol/independiente-valle-local-ligapro-goles.html "Independiente marca menos de tres goles por partido de local")
-* [Las tres piezas clave de Independiente del Valle para la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/tres-piezas-clave-independiente-del-valle-para-final-liga-pro.html "Las tres piezas clave de Independiente del Valle para la final de Liga Pro")
+* [Independiente](https://www.elcomercio.com/deportes/futbol/independiente-tendra-casa-llena-para-su-revancha-con-liga-de-quito.html "Independiente tendrá casa llena para su revancha con Liga de Quito") [t](https://www.elcomercio.com/deportes/futbol/independiente-tendra-casa-llena-para-su-revancha-con-liga-de-quito.html "Independiente tendrá casa llena para su revancha con Liga de Quito")[endrá casa llena para su revancha con Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-tendra-casa-llena-para-su-revancha-con-liga-de-quito.html "Independiente tendrá casa llena para su revancha con Liga de Quito")
+* [El cuatro, un número mágico para cinco campeones nacionales](https://www.elcomercio.com/deportes/futbol/campeones-ecuador-equipos-anios-cuatro.html "El cuatro, un número mágico para cinco campeones nacionales")
 
-El video muestra a diversos miembros del club, desde jugadores como Junior Sornoza hasta empleados, administrativos, cocineras y comunicadores, quienes comparten la misma fe en lograr lo que sería una de las remontadas más grandes en el fútbol ecuatoriano.
+FC Barcelona resistió en Alemania
+---------------------------------
 
-**“Porque la remontada viene con sudor, esfuerzo y garra. Porque la Copa es posible cuando estamos Todos Juntos”**, señala el mensaje de texto que acompaña el video, en un claro llamado a la unión y la perseverancia.
+El partido entre alemanes y españoles fue un encuentro de dos estilos directos de generación del fútbol y del buen toque del balón. Esas características hicieron que se viva un entretenido encuentro de ida y vuelta.
 
-> Elijo Creer porque día a día hacemos que las cosas pasen.  
-> Elijo creer porque confío en mi equipo  
-> Elijo creer porque son mi familia  
-> Porque la remontada viene con sudor, esfuerzo y garra.  
-> Porque la 🏆 es posible cuando estamos TODOS JUNTOS.  
-> Somos [#UnClubDiferente](https://twitter.com/hashtag/UnClubDiferente?src=hash&ref_src=twsrc%5Etfw) [#ElijoCreer](https://twitter.com/hashtag/ElijoCreer?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Zk79w7YJ85](https://t.co/Zk79w7YJ85)
-> 
-> — Independiente del Valle (@IDV\_EC) [December 11, 2024](https://twitter.com/IDV_EC/status/1866649098339729764?ref_src=twsrc%5Etfw)
+En la primera mitas ambas escuadra tuvieron opciones claras de gol. La poca puntería de los delanteros y las excelentes actuaciones del **portero suizo Gregor Kobel y del español Iñaki Peña**, hicieron que el marcador no se abra.
 
-Un reto sin precedentes
------------------------
+Los goles llegaron en el segundo tiempo. A los **52 minutos un tanto de Rapinha puso el 0-1** en favor del Barca.
 
-Para levantar el título, **Independiente del Valle** no solo debe superar a un rival sólido como Liga de Quito, sino también romper con la historia. Según datos de Aurelio Dávila, en tres finales del fútbol ecuatoriano hubo un marcador de 3-0 en alguno de los partidos, y en todas, el equipo que logró esa ventaja terminó coronándose campeón.
+Sin embargo, **a los 60′ el Dortmund llegó al 1-1 con un gol de penal** transformado por el guineano Serhou Guirassy.
 
-De estas finales, solo una registró el 3-0 en el partido de ida:
+La falta penal le fue cometida al goleador africano. El joven **Pau Cubarsí lo empujó en el área de forma inexplicable** y dio paso a la sanción del juez central. El defensa central fue amonestado con tarjeta amarilla, pese a que mencionaba que no había cometido infracción alguna.
 
-* **1988:** Emelec goleó 3-0 a Deportivo Quito en la ida y empató 1-1 en la vuelta para ser campeón.
-* **2005:** Liga de Quito perdió 1-0 la ida contra Barcelona SC, pero ganó 3-0 en la vuelta y se llevó el Apertura.
-* **2014:** Emelec empató 1-1 en la ida contra Barcelona SC y ganó 3-0 en la vuelta para llevarse el título.
+Guirassy minutos antes ya **había anunciado su peligrosidad y olfato goleador**. Un balón impactado con su pierna derecha fue a parar al fondo del arco de Peña, pero una posición adelantada condenó al Borussia y salvó al Barcelona.
 
-Romper esta tendencia será clave para que **Independiente** pueda escribir una nueva página en la historia del fútbol nacional.
+Con el 1-1 clavado llegó el turno de brillar de Ferran Torres. El atacante ingresó por Robert Lewandowski.
 
-¿Cuándo se juega la revancha?
------------------------------
+A los **75′ colocó el 1-2, pero a los 78′, nuevamente Guirassy**, empató el marcador con un 2-2 que parecía ser el resultado con el que cerraría el vibrante juego, pero eso no estaba en los planes de Torres.
 
-La vuelta de la final está programada para el sábado 14 de diciembre de 2024, a las 15:30, en el **Estadio Banco Guayaquil, ubicado en Chillo Jijón**. Este partido definirá al campeón de la Liga Pro Serie A 2024 y promete ser un duelo emocionante lleno de intensidad.
+A los 85′ anotó el 2-3 tras aprovechar un pase precio de Lamine Yamal, que antes había combinado con Pedri.
 
-Mariah Carey gana y gasta una fortuna cada Navidad
-==================================================
+![EFE.](https://www.elcomercio.com/wp-content/uploads/2024/12/barca_dortmund_2-1024x683.jpg)
 
-El villancico de Mariah Carey se convirtió en una fuente de ingresos inagotable.
---------------------------------------------------------------------------------
+EFE.
 
-Cada noviembre, con el regreso de **All I Want for Christmas Is You**, **Mariah Carey** marca el inicio de la temporada navideña, consolidándose como la indiscutible ‘**Reina de la Navidad’.**
+El Barca en zona de clasificación
+---------------------------------
 
-### **Más noticias:**
+Con este resultado, el FC Barcelona permanece en la segunda posición de la tabla de posiciones con 15 puntos y un gol diferencia de +14, mientras que el Dortmund descendió a la novena con 12 puntos y un gol diferencia de +9.
 
-* [Mariah Carey, el secreto de su poderosa voz](https://www.elcomercio.com/tendencias/entretenimiento/mariah-carey-secreto-voz-poderosa.html "https://www.elcomercio.com/tendencias/entretenimiento/mariah-carey-secreto-voz-poderosa.html")
-* [Mariah Carey vivió un infierno con su madre y hermana](https://www.elcomercio.com/tendencias/entretenimiento/mariah-carey-violencia-familia-madre-hermana.html "https://www.elcomercio.com/tendencias/entretenimiento/mariah-carey-violencia-familia-madre-hermana.html") 
-* [Liam Payne y la controversia de la ‘cocaína rosa’](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html")
+El líder es Liverpool con puntaje perfecto. **Jugó seis partidos, ganó los seis y acumula 18 unidades**.
 
-**¿Cuándo se estrenó All I Want for Christmas Is You?**
--------------------------------------------------------
+A falta de dos fechas para terminar la fase de liga, **el Arsenal, Leverkusen, Aston Villa, Inter, Stade Brestois** y Lile completan, todos con 13 puntos, el cuadro de ocho equipos que clasificarán directamente a los octavos de final.
 
-Esta icónica canción, lanzada en 1994, se convirtió en un fenómeno global que domina las listas de éxitos y las plataformas de ‘streaming’ durante las fiestas.
+En el lote de los 16 equipos que jugarán una eliminatoria previa están el Dortmund, Bayern Múnich, Atlético Madrid, J**uventus, Milan, Real Madrid y el Manchester City**. Sorpresivamente uno de los eliminados es el PSG del ecuatoriano Willian Pacho.
 
-Su pegajosa melodía y la poderosa voz de Carey, acompañadas de una letra que expresa el deseo de pasar las navidades junto a un ser querido, aseguran su lugar en la historia musical.
+El 21 de enero el Barcelona visitará Portugal para enfrentarse al Benfica. El Dortmund irá a Italia para enfrentarse al Bolonia.
 
-**¿Cuántos años tiene All I Want for Christmas Is You?**
---------------------------------------------------------
+San viernes
+-----------
 
-Este año, **All I Want for Christmas Is You** celebra su aniversario número 30, un hito que refuerza su legado. Desde su lanzamiento, la canción no solo ha enamorado a millones de oyentes, sino que ha generado una fortuna considerable para su creadora.
+Luigi Mangione al matar a Brian Thompson, no quería ‘poner en riesgo a inocentes’
+=================================================================================
 
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDafWy2RLSU/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Mariah Carey (@mariahcarey)](https://www.instagram.com/reel/DDafWy2RLSU/?utm_source=ig_embed&utm_campaign=loading)
+Medios de EE.UU. describen a Mangione como una persona resentida con el sistema de salud de ese país.
+-----------------------------------------------------------------------------------------------------
 
-**Mariah Carey gana una fortuna cada Navidad**
-----------------------------------------------
+![Fotografía Luigi Mangione facilitada por el Departamento de Correccionales de Pennsylvania.](https://www.elcomercio.com/wp-content/uploads/2024/12/luigi-brian-thompson.jpg)
 
-Según cálculos de **The Economist**, entre 1994 y 2016, la canción reportó unos 60 millones de dólares a Carey, con un promedio anual de 2,6 millones.
-
-Sin embargo, las cifras actuales son aún más asombrosas. Cada temporada navideña, la canción genera aproximadamente 3 millones de dólares, sin contar los ingresos adicionales derivados de sus conciertos y especiales televisivos.
-
-Este año, Mariah Carey ampliará su impacto navideño con el tour ‘**Christmas Time’. Con su gira r**ecorrerá varias ciudades de Estados Unidos, incluyendo Los Ángeles, Houston y Brooklyn.
-
-La gira promete ser otro éxito rotundo para la artista, que sigue dominando la época navideña con su inconfundible estilo.
-
-**La ‘Reina de la Navidad’ también gasta una fortuna en diciembre**
--------------------------------------------------------------------
-
-**Mariah Carey** coloca cuatro árboles muy lujosos en **Navidad** que combinan decoraciones llenas de luces y color. El principal alcanza los cinco metros de alto; ese está adornado con luces blancas.
-
-Además, realiza un sinnúmero de reuniones con **amigos** y seres queridos. “La **Navidad** es la época más divertida. Empiezo a esperarla incluso antes de que llegue el verano”, dijo Mariah Carey en una entrevista.
-
-Daniel Noboa asegura que hubo un coche bomba cerca de un acto en Machala
-========================================================================
-
-El presidente Daniel Noboa asistió al evento de firma para la construcción de la vía Primavera, en Machala.
------------------------------------------------------------------------------------------------------------
-
-![El presidente Daniel Noboa estuvo en un acto en Machala.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-21.jpg)
-
-El presidente **Daniel Noboa** se refirió este miércoles 11 de diciembre a un **coche bomba** que se habría detectado cerca de un evento al que acudió, en Machala.
+Luigi Mangione, presunto **asesino del director ejecutivo o CEO de UnitedHealthcare** -Brian Thompson-, aseguró que quería cometer un **asesinato “preciso, que no ponga en riesgo a inocentes**”. Esta información la dejó escrita en un cuaderno ahora en manos de la Policía al que [The New York Times](https://es.wikipedia.org/wiki/The_New_York_Times "https://es.wikipedia.org/wiki/The_New_York_Times") tuvo acceso.
 
 ### Más noticias
 
-* [17 años de cárcel por terrorismo para seis miembros de Los Lobos](https://www.elcomercio.com/actualidad/seguridad/17-anos-de-carcel-terrorismo-para-seis-miembros-los-lobos.html "17 años de cárcel por terrorismo para seis miembros de Los Lobos")
-* [La migración irregular de ecuatorianos disminuyó, según Cancillería](https://www.elcomercio.com/actualidad/ecuador/migracion-irregular-ecuatorianos-disminuyo-segun-cancilleria.html "La migración irregular de ecuatorianos disminuyó, según Cancillería")
-* [Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro](https://www.elcomercio.com/actualidad/seguridad/ministerio-defensa-despliegue-militares-el-oro.html "Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro")
+* [Los motivos del presunto crimen que habría cometido Luigi Mangione](https://www.elcomercio.com/actualidad/mundo/detencion-luigi-mangione-presunto-asesino-brian-thompson.html "Los motivos del presunto crimen que habría cometido Luigi Mangione")
+* [Armas fantasma: el nuevo desafío para la seguridad en EE. UU.](https://www.elcomercio.com/actualidad/mundo/armas-fantasma-nuevo-desafio-seguridad-ee-uu.html "Armas fantasma: el nuevo desafío para la seguridad en EE. UU.")
 
-El hallazgo del coche bomba
----------------------------
+También la CNN recoge que [Mangione](https://en.wikipedia.org/wiki/Killing_of_Brian_Thompson "https://en.wikipedia.org/wiki/Killing_of_Brian_Thompson") consideró usar una **bomba contra Thompson,** pero lo descartó porque “podría matar inocentes”. En otra anotación de ese mismo texto donde el hombre, de 26 años, declaraba su “animadversión por la América empresarial”.
 
-Elementos de la Policía Nacional detectaron un **coche bomba** abandonado cerca de las inmediaciones adonde el presidente Daniel Noboa debía asistir.
+En ese mismo cuaderno también calificaba la **reunión con inversores de su empresa** -a la que se dirigía Thompson en el momento del asesinato- como “una **convención anual de tacaños parásitos**”.
 
-Al sitio acudieron elementos del **Grupo de Intervención y Rescate** (GIR) para desactivar el artefacto explosivo.
+Resentimiento con el sistema de salud estadounidense
+----------------------------------------------------
 
-Daniel Noboa tenía previsto asistir al evento de firma para la construcción de l**a vía Primavera,** en Machala.
+El caso de Mangione sigue ocupando las **portadas de los grandes medios estadounidenses**, que recogen párrafos de ese cuaderno que aparentemente describen a una **persona resentida** con el sistema de salud del país. También se mostraba en contar del **mundo empresarial** que se enriquece con la **gestión de las enfermedades.**
 
-El hallazgo se dio durante l**a noche del martes 10 de diciembre**. Los moradores alertaron a la Policía tras detectar movimientos inusuales en la vía.
+Según el tabloide New York Post, Mangione mencionó que era **injusto que Estados Unidos** tuviera el sistema de salud más caro del mundo y que ello sirviera para el **lucro de unas cuantas compañías,** pero no para aumentar “nuestra esperanza de vida”.
 
-Según los testigos, sujetos no identificados abandonaron un **auto Chevrolet Sail rojo** con fundas de lo que parecían ser explosivos dentro.
+En cuanto a los avances en la investigación policial, CNN cita dos fuentes que aseguran que las huellas dactilares encontradas en el lugar de los hechos coinciden con las del propio Mangione.
 
-Las autoridades activaron el protocolo tras la alerta. Elementos capacitados se acercaron con ayuda de un **can para detectar el explosivo.**
+A pesar de eso sus abogados aseguran que se va a declarar no culpable, al menos de los delitos por los que se le persigue en Pensilvania, relativos a documentación falsa y a posesión ilegal de arma.
 
-Investigaciones comprobaron que el **auto había sido reportado como robado** y que habría sido abandonado en la vía durante la noche del martes.
+Su defensa legal también adelantó que van a **negarse a la “extradición” del estado de Pensilvania**, donde fue detenido, al de Nueva York, donde se le podría juzgar por el **asesinato en un proceso que duraría varias semanas**, según The New York Times.
 
-La unidad antiexplosivos a cargo confirmó que en el interior del vehículo había **alrededor de 10 tacos de dinamita.**
+‘Ley Antipillos’ regula el deporte profesional y el mercado de vehículos usados
+===============================================================================
 
-> DETONACIÓN CONTROLADA DE EXPLOSIVOS EN EL ORO  
->   
-> Tras alerta del [#ECU911](https://twitter.com/hashtag/ECU911?src=hash&ref_src=twsrc%5Etfw) en Machala, [#ElOro](https://twitter.com/hashtag/ElOro?src=hash&ref_src=twsrc%5Etfw) de un vehículo abandonado con artefactos explosivos en su interior, [#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) mediante unidades especializadas realizó la extracción de 10 emulsiones explosivas, que fueron trasladadas… [pic.twitter.com/kWfHYZHYEH](https://t.co/kWfHYZHYEH)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [December 11, 2024](https://twitter.com/PoliciaEcuador/status/1866875118900875327?ref_src=twsrc%5Etfw)
+La nueva Ley Antipillos busca combatir el lavado de activos regulando sectores vulnerables como el mercado vehicular y el deporte profesional, además de fortalecer la supervisión financiera.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Noboa asistió al evento pese a ‘amenazas’
------------------------------------------
+![Clubes deportivos deberán transformarse en Sociedades Anónimas para mayor transparencia.](https://www.elcomercio.com/wp-content/uploads/2024/12/ley.jpg)
 
-El presidente **Daniel Noboa** asistió al evento programado para este miércoles a pesar de lo ocurrido con el [coche bomba.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-En él, fue testigo de honor de la firma del **convenio de financiamiento** para la ampliación de 10,25 kilómetros de la vía La Primavera.
-
-Este convenio lo firmaron el ministro de Transporte, **Roberto Luque**, y el prefecto de El Oro, Clemente Bravo.
-
-Este proyecto contempla la ampliación de l**a vía a cuatro carriles** en el tramo desde el monumento al Aguador hasta la intersección con la vía El Cambio-La Iberia, en El Oro.
-
-Esta obra cuenta con una inversión de **20 millones de dólares** y beneficiará directamente a 300 000 habitantes.
-
-En el acto, Daniel Noboa se refirió al **coche bomba** como un **intento de amedrentarlo**, esto tras el despliegue militar que se realizó en El Oro.
-
-Agregó que no iba a dejar de asistir al evento por ese acto y que no dará ni un paso atrás. Además, advirtió a los grupos delincuenciales que **“si aparecen, se van a ganar un tiro”.**
-
-Daniel Noboa reforzó la seguridad en El Oro
--------------------------------------------
-
-El presidente **Daniel Noboa** participó de un evento militar en **El Oro**, el martes 10 de diciembre de 2024. El mandatario aprovechó su presencia para referirse a la **seguridad** de la provincia.
-
-En el encuentro en el Fuerte Militar Chacras, ubicado en **Machala**, Noboa dispuso al Ministerio de Defensa que despliegue **2 406 efectivos** y **50 vehículos blindados** para el dispositivo de seguridad en El Oro.
-
-“Enciendan estos vehículos blindados, cumplan sus misiones y **recuperen la paz** de las y los ecuatorianos”, dijo Noboa.
-
-Quiteños donaron productos en las fiestas y se abren más centros de acopio
-==========================================================================
-
-La ciudadanía respondió al programa Dona con Corazón, que busca entregar 50 000 canastas para personas en situación de pobreza.
--------------------------------------------------------------------------------------------------------------------------------
-
-![En los eventos por las Fiestas de Quito, varios ciudadanos entregaron donaciones para personas en situación de pobreza en la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-80-1.jpg)
-
-Durante los diferentes eventos de las **Fiestas de Quito** del 2024, el Municipio capitalino pidió a los ciudadanos que se animaran a **donar productos para personas vulnerables.** Según el informe del cabildo quiteño, el plan **Dona con corazón** tuvo una buena acogida de parte de la ciudadanía. Los quiteños donaron miles de productos no perecederos y se abrieron más centros de acopio.
+La **Ley Orgánica para la Mejora Recaudatoria a través del Combate al Lavado de Activos**, conocida popularmente como ‘Ley Antipillos’ entró en vigor el 10 de diciembre del 2024. Según el Gobierno de Daniel Noboa, la nueva normativa tiene como objetivo debilitar las finanzas del crimen organizado y aumentar los ingresos tributarios, mediante la formalización de sectores clave de la economía[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
 
 ### Más noticias
 
-* [Diciembre, el mes con más siniestros de tránsito en Quito](https://www.elcomercio.com/actualidad/quito/diciembre-mes-mas-siniestros-transito-quito.html "Diciembre, el mes con más siniestros de tránsito en Quito")
-* [Dos generadores eléctricos de 600 kW llegaron a Quito, ¿en qué se los utilizará?](https://www.elcomercio.com/actualidad/quito/generadores-electricos-quito-agua.html "Dos generadores eléctricos de 600 kW llegaron a Quito, ¿en qué se los utilizará?")
-* [Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025](https://www.elcomercio.com/actualidad/quito/concejo-aprueba-presupuesto-quito-2025.html "Con las justas, el Concejo aprobó el presupuesto de Quito para el 2025")
+* [Asamblea Nacional presentará acción de inconstitucionalidad por ‘Ley Antipillos’](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-presentara-accion-incostitucionalidad-por-ley-antipillos.html "Asamblea Nacional presentará acción de inconstitucionalidad por ‘Ley Antipillos’")
+* [¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?](https://www.elcomercio.com/actualidad/negocios/como-acceder-seguro-desempleo-con-ley-alivio-financiero.html "¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?")
+* [Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios](https://www.elcomercio.com/actualidad/negocios/ley-de-alivio-financiero-en-ecuador-puntos-clave-y-fecha-de-acceso-a-los-mas-de-20-beneficios.html "Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios")
 
-Donación de productos, en las Fiestas de Quito
-----------------------------------------------
+La ley establece medidas específicas para prevenir, localizar y eliminar el lavado de activos en el país, destacando la regulación en sectores vulnerables com**o la compra y venta de vehículos usados** y el **deporte profesional**.
 
-Una de las **consignas** del Municipio de Quito fue que los asistentes **donaran alimentos y productos de higiene,** como si fueran la entrada para ingresar. Estas **donaciones de productos** se entregarán a personas en situación de vulnerabilidad.
+Regulaciones en el ámbito vehicular
+-----------------------------------
 
-Según el último informe del Municipio, tanto en el **Quitofest**, como en **Chicha con Corbatín** y el **Festival del Pasacalle**, recibieron miles de productos no perecederos para entregar a los que los necesiten. Un total de **48 000 artículos** se entregaron de parte de quienes asistieron a dichos eventos en Quito.
+Uno de los cambios más relevantes es la implementación de un impuesto en la compra y venta de vehículos usados.
 
-El programa se llama **Dona con corazón;** el objetivo es entregar **canastas solidarias a 50 000** personas y familias que viven bajo la línea de pobreza para esta Navidad.
+Este impuesto será sobre el **precio de venta** del vehículo usado. Este valor no podrá ser inferior al avalúo que se encuentra registrado en la base de datos del SRI. La tarifa no superará el 5% de ese avalúo y estará establecida en el reglamento de esta Ley.
 
-Dona con corazón pretende atender a **tres grupos prioritarios.** En uno de ellos, se encuentran personas en la pobreza extrema y que acuden a la **Unidad Patronato Municipal San José;**
+El pago será **requisito previo** para la obtención de la **matrícula vehicular** por parte de la entidad competente de tránsito.
 
-El segundo grupo corresponde a colectivos vinculados a las instituciones municipales, como **recicladores y trabajadoras sexuales.** Finalmente, el tercer grupo tiene a **comunidades rurales y barrios** que tiene **altos índices de pobreza.**
+Según el Gobierno, este impuesto busca combatir prácticas ilícitas en el mercado vehicular, uno de los sectores identificados como susceptibles al lavado de dinero.
 
-Centros para acopio, se abren
------------------------------
+Regulaciones para las organizaciones deportivas
+-----------------------------------------------
 
-Desde el **martes 10 de diciembre del 2024,** se abrieron nuevos centros de acopio para que las personas que aún quieran donar productos para personas en **situación de pobreza**, lo puedan hacer. Los sitios elegidos son fundamentalmente los **centros comerciales de Quito** y algunos **espacios municipales**[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
+En el ámbito deportivo, la normativa obliga a los clubes y equipos profesionales a adoptar la figura de **Sociedades Anónimas Deportivas**, con el fin de garantizar mayor transparencia y evitar el uso de estas estructuras para actividades ilícitas. Las mismas estarán sujetas a todos los procesos de control y vigilancia de la Superintendencia de Compañías, Valores y Seguros.
 
-Centros comerciales para acopio de productos
---------------------------------------------
+La nueva ley establece un plazo máximo de noventa días desde su entrada en vigor para que la **Superintendencia de Compañías** emita la normativa secundaria para que los clubes deportivos, equipos u otras sociedades civiles sin fines de lucro que participen en el deporte profesional adopten la forma jurídica de Sociedades Anónimas Deportivas.
 
-* Centro Comercial Iñaquito
-* El Bosque
-* El Recreo
-* El Jardín
-* Puruhá Shopping
-* Riocentro
-* Ventura Mall
-* Quicentro Sur
-* Granados Plaza
-* Portal Shopping
-* Plaza Doral
+Así, la normativa regula la participación de deportistas profesionales y establece controles más estrictos sobre la financiación en este sector.
 
-Otros centros de acopio
------------------------
+Otros cambios
+-------------
 
-* Comedor Comunitario de San Bartolo **(**Av. Ajaví y Huigra).
-* Oficinas de la UPMSJ (Chile y Benalcázar).
-* Parque Bicentenario**,** centro de acopio del Patronato.
-* Parque Cumandá, Mercado Mayorista y Administración Zonal Tumbaco.
-* Aeropuerto Mariscal Sucre.
+La **Unidad de Análisis Financiero y Económico** (UAFE) también verá fortalecidas sus competencias, permitiéndole congelar fondos sospechosos, sancionar incumplimientos y colaborar directamente con la Fiscalía en casos relacionados con la extinción de dominio. Además, la ley amplía la supervisión a empresas de tecnología financiera y aseguradoras de vida.
 
-¿Qué entregar?
---------------
-
-Lo fundamental es entregar productos no perecibles. Entre estos pueden ser atún, sardinas, arroz, quinua, fideos y aceite.
-
-Los productos para la higiene personal también serán bien recibidos. Papel higiénico, dentífricos, jabón, cepillos de dientes, champú, entre otros.
-
-* * *
-
-Ejército ecuatoriano abrirá inscripciones en enero de 2025
-==========================================================
-
-Los bachilleres tienen la opción de ser parte de las inscripciones en el Ejército ecuatoriano.
-----------------------------------------------------------------------------------------------
-
-![Militares en labores de seguridad en El Oro (Machala).](https://www.elcomercio.com/wp-content/uploads/2024/12/ejercito.jpg)
-
-El **Ejército** ecuatoriano abre una nueva convocatoria de **inscripciones** para sumar jóvenes a sus filas desde 2025. El proceso comenzará en 2025.
-
-El llamado está dirigido para bachilleres que quieran ser parte de tres escuelas de la **institución militar**.
-
-### Más noticias
-
-* [Ejército y SNAI trasladan a 1 193 personas privadas de la libertad a otras prisiones](https://www.elcomercio.com/actualidad/seguridad/snai-traslada-a-1-193-personas-privadas-de-la-libertad-a-otras-prisiones.html "Ejército y SNAI trasladan a 1 193 personas privadas de la libertad a otras prisiones")
-* [Daniel Noboa entregó al Ejército armas incautadas en operativo](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-entrego-ejercito-armas-incautadas-operativo.html "Daniel Noboa entregó al Ejército armas incautadas en operativo")
-* [Daniel Noboa entregó al Ejército armas incautadas en operativo](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-entrego-ejercito-armas-incautadas-operativo.html "Daniel Noboa entregó al Ejército armas incautadas en operativo")
-
-Inscripciones para el Ejército ecuatoriano
-------------------------------------------
-
-Entre el **6 de enero y el 15 de febrero** de 2025, tres escuelas militares recibirán las inscripciones a las personas interesadas en ser parte de estas. Se trata de **Esmil, Esforse y Eiwias**.
-
-La **Escuela Superior Militar Eloy Alfaro** está en Quito, con una formación tanto para hombres cuanto para mujeres. Los estudiantes consiguen el título en Licenciatura en Ciencias Militares. Dura cuatro años.
-
-En cambio, la **Escuela de Formación de Soldados del Ejército Vencedores del Cenepa (Esforse)** está en Ambato. El período de formación toma dos años y va dirigido para hombres.
-
-En lo que se refiere a la escuela [Iwias](https://eiwia.mil.ec/), el proceso está orientado a formar soldados nativos de la Amazonía. La institución está en la parroquia Shell, en **Pastaza**.
-
-El proceso para los aspirantes
-------------------------------
-
-Los aspirantes deben entregar los papeles en una carpeta. Este paso se lo debe hacer en las **unidades a escala nacional**.
-
-Entre los requisitos básicos están: **cédula de identidad** del aspirante y de los padres. Deben contar con el título de bachiller refrendado por el Ministerio de Educación.
-
-Del mismo modo, se deben incluir fotos de **perfil y de frente**, así como documentos que se publicarán en los próximos días en los canales oficiales del Ejército ecuatoriano.
-
-De no contar con este documento aún, se puede adjuntar un certificado que valide que cursa el último año de **bachillerato**.
-
-Elementos básicos para ser parte
---------------------------------
-
-Los postulantes deben tener hasta **21 años** hasta la fecha del ingreso a la escuela militar. 
-
-No obstante, las personas deben estar **solteras y no tener hijos**. No podrán cambiar esa situación durante la formación militar.
-
-En el caso de la Esmil, la estatura mínima que se requiere es de 1,65 metros para hombres y 1,60 metros, en mujeres. Para quienes aspiran a ingresar a la **Esforse**, ese rango es de 1,63. Por otro lado, la escuela de Iwias, la talla mínima es de 1,60 metros.
-
-No obstante, uno de los pasos infaltables es llenar el [Registro Nacional](https://www.registrounicoedusup.gob.ec/) de la **Secretaría de Educación Superior, Ciencia, Tecnología e Innovación (Senescyt)**. Este se habilitó el 30 de noviembre y será hasta el 8 de diciembre de 2024.
-
-El proceso indispensable
-------------------------
-
-Para la admisión, los postulantes deberán rendir pruebas **físicas, de confianza y psicológicas**. En ese camino, además, deberán sustentar los méritos que deberán adjuntar.
-
-Entre los logros se contemplarán los **académicos, deportivos, culturales y militares**.
+La Ley para la Mejora Recaudatoria a través del Combate al Lavado de Activos fue publicada como Decreto Ley el 10 de diciembre de 2024. Esto, después de que la Asamblea Nacional no se pronunciara sobre la propuesta enviada por el presidente **Daniel Noboa** y calificada como urgente en materia económica.  
 
 * * *
 
 ### Esperanza
 
-Descubre las historias de mujeres ecuatorianas que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
 
 Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Elena Nájera hizo una solicitud a la presidenta del CNE, Diana Atamaint
-=======================================================================
-
-Consejera del CNE solicita la renuncia de su presidenta por presunto conflicto de intereses y falta de transparencia.
----------------------------------------------------------------------------------------------------------------------
-
-![Elena Nájera y Diana Atamaint vocales del Consejo Nacional Electoral (CNE).](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-11T110709.847.jpg)
-
-La consejera del **Consejo Nacional Electoral (CNE), Elena Nájera**, envió un memorando oficial a la presidenta del organismo, **Diana Atamaint,** solicitando por tercera ocasión su renuncia a la dirección del Consejo.
-
-### Más noticias
-
-* [CNE indicó el avance en la impresión de papeletas para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-indico-avance-impresion-papeletas-elecciones-2025.html "CNE indicó el avance en la impresión de papeletas para las elecciones 2025")
-* [CNE inicia la impresión de papeletas para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-inicia-impresion-papeletas-elecciones-2025.html "CNE inicia la impresión de papeletas para las elecciones 2025")
-* [Vocales suplentes del CNE no pudieron ingresar a las instalaciones del órgano electoral](https://www.elcomercio.com/actualidad/politica/vocales-suplentes-cne-no-pudieron-ingresar-instalaciones-organo-electoral.html "Vocales suplentes del CNE no pudieron ingresar a las instalaciones del órgano electoral")
-
-Esta petición se fundamenta en presuntos **conflictos de intereses** que, según Nájera, podrían comprometer la transparencia e imparcialidad de las **Elecciones Generales de 2025**.
-
-Argumentos de Elena Nájera para pedir la renuncia de Diana Atamaint
--------------------------------------------------------------------
-
-En el documento, Nájera hace referencia al “**Plan Nacional de Integridad Pública y Lucha contra la Corrupción**”, cuestionando la independencia de la presidenta del CNE debido al cargo que ocupa su hermano, Kar Atamaint Wampustar, como ministro **cónsul de Ecuador en Queens**, Estados Unidos.
-
-Este consulado se considera uno de los más relevantes para los migrantes ecuatorianos debido al gran número de electores en el exterior.
-
-La consejera indicó que este **no es el primer intento** por parte de ella para abordar la situación. Previamente, remitió memorandos los días **11 de octubre y 5 de noviembre de 2024**, en los cuales también solicitó la renuncia de la presidenta.
-
-Sin embargo, denuncia que sus pedidos han sido archivados sin recibir una **respuesta formal**.
-
-Llamado a la ética y la transparencia
--------------------------------------
-
-En su pronunciamiento, Nájera enfatizó que la dimisión de Atamaint sería una señal de compromiso con la **transparencia y una garantía**.
-
-Asimismo, hizo un llamado a los **restantes consejeros y consejeras del CNE** para que se unan a su petición, instándolos a priorizar la ética y la independencia institucional.
-
-> [#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw)  
->   
-> Para no comprometer la transparencia de las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw), conmino a la Pdta del [#CNE](https://twitter.com/hashtag/CNE?src=hash&ref_src=twsrc%5Etfw) a presentar su renuncia o, en su defecto, que su hermano deje el cargo que ostenta en el Consulado de Ecuador en Queens, Estados Unidos.  
->   
-> Aquí mis argumentos ⤵️ [pic.twitter.com/oiDnPbSXkx](https://t.co/oiDnPbSXkx)
-> 
-> — Elena Nájera Moreira (@ElenaNajeraM) [December 11, 2024](https://twitter.com/ElenaNajeraM/status/1866855830609400312?ref_src=twsrc%5Etfw)
-
-“Siempre he sostenido que hay una línea muy fina entre lo **jurídico y lo ético**; aún más, cuando se ostenta un **alto cargo público**”, recalcó Nájera en el documento.
-
-La consejera insistió en que es momento de demostrar un **compromiso firme con la democracia**.
-
-El memorando también fue remitido a otros miembros clave del organismo. El vicepresidente del CNE, **Fernando Enrique Pita García,** y los consejeros **Ricardo Cabrera Zurita y Esthela Liliana Acebo Lanchimba**, también recibieron el mensaje.
