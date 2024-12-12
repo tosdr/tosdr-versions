@@ -1,4 +1,4 @@
-[\[Limited-Time\] 2X Power + Save 50% OFF Extra Panel![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)](https://4patriots.com/product/100w-portable-folding-solar-panel)
+[\[Limited-Time\] 2X Power + Save 50% OFF Extra Solar Panel![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)](https://4patriots.com/product/100w-portable-folding-solar-panel)
 
 [](https://4patriots.com/product/100w-portable-folding-solar-panel)
 
