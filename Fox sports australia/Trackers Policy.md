@@ -36,16 +36,6 @@ FOX SCORES
     | IND | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250503)
-* [Women's T20I
-    
-    NAM won by 6 wkts
-    
-    |     |     |
-    | --- | --- |
-    | MAS | 7 /71 |
-    | NAM | 4 /76 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250503)
 * [Big Bash League
     
     15/12 19:15 AEST
@@ -56,18 +46,20 @@ FOX SCORES
     | MELS | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/BBL2024-250101)
-* Basketball
+* NFL
     
-* [NBA
+* [NFL
     
-    Full Time
+    13/12 12:15 AEST
     
     |     |     |
     | --- | --- |
-    | NY  | 100 |
-    | ATL | 108 |
+    | SF  | –   |
+    | LAR | –   |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010125/box-score)
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251501)
+* Basketball
+    
 * [NBA
     
     Full Time
@@ -78,6 +70,36 @@ FOX SCORES
     | GS  | 90  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010123/box-score)
+* [NBA
+    
+    13/12 11:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MIA | –   |
+    | TOR | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010295)
+* [NBA
+    
+    13/12 11:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BOS | –   |
+    | DET | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010024)
+* [NBA
+    
+    13/12 12:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NO  | –   |
+    | SAC | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011209)
 * [NBL
     
     Full Time
@@ -98,6 +120,16 @@ FOX SCORES
     | SEM | 108 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25120002/play-by-play)
+* [NBL
+    
+    13/12 19:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MEL | –   |
+    | ILL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25120003)
 * [WNBL
     
     Full Time
@@ -108,6 +140,28 @@ FOX SCORES
     | CAN | 63  |
     
     Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25070002/play-by-play)
+* Football
+    
+* [A-League W
+    
+    13/12 19:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MVC | –   |
+    | WEL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/w-league/match-centre/ALW2024-250601)
+* [A-League M
+    
+    13/12 19:35 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CCM | –   |
+    | ADL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/a-league/match-centre/ALM2024-250801)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
