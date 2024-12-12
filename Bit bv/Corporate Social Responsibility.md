@@ -131,7 +131,7 @@ Je vindt de transparantierapporten van de afgelopen jaren op deze pagina.
 
 #### [Onderhoud](https://www.bit.nl/onderhoud)
 
-[11-12-24 Spoedonderhoud loadbalancers](https://www.bit.nl/news/3633/92/Spoedonderhoud-loadbalancers) [19-12-24 Onderhoud shared MySQL-databases](https://www.bit.nl/news/3630/92/Onderhoud-shared-MySQL-databases) [20-12-24 Onderhoud blusgasinstallatie BIT-2ABCD](https://www.bit.nl/news/3623/92/Onderhoud-blusgasinstallatie-BIT-2ABCD) [20-12-24 Onderhoud blusgasinstallatie BIT-1](https://www.bit.nl/news/3622/92/Onderhoud-blusgasinstallatie-BIT-1) [20-12-24 Periodiek onderhoud aan alle koelpompen van BIT-2](https://www.bit.nl/news/3620/92/Periodiek-onderhoud-aan-alle-koelpompen-van-BIT-2)
+[19-12-24 Onderhoud shared MySQL-databases](https://www.bit.nl/news/3630/92/Onderhoud-shared-MySQL-databases) [20-12-24 Onderhoud blusgasinstallatie BIT-2ABCD](https://www.bit.nl/news/3623/92/Onderhoud-blusgasinstallatie-BIT-2ABCD) [20-12-24 Onderhoud blusgasinstallatie BIT-1](https://www.bit.nl/news/3622/92/Onderhoud-blusgasinstallatie-BIT-1) [20-12-24 Periodiek onderhoud aan alle koelpompen van BIT-2](https://www.bit.nl/news/3620/92/Periodiek-onderhoud-aan-alle-koelpompen-van-BIT-2)
 
 [](https://www.bit.nl/onderhoud)
 
