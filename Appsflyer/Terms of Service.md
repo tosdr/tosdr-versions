@@ -147,6 +147,7 @@ Legal hub
 * [Processing Customer Data](https://www.appsflyer.com/legal/processing-customer-data/)
 * [Supplier Portal](https://www.appsflyer.com/legal/supplier-portal/)
 * [Subprocessors](https://www.appsflyer.com/legal/subprocessors/)
+* [Modern Slavery Statement](https://www.appsflyer.com/legal/modern-slavery-statement/)
 
 Documentation
 
@@ -159,6 +160,7 @@ Documentation
 * [Processing Customer Data](https://www.appsflyer.com/legal/processing-customer-data/)
 * [Supplier Portal](https://www.appsflyer.com/legal/supplier-portal/)
 * [Subprocessors](https://www.appsflyer.com/legal/subprocessors/)
+* [Modern Slavery Statement](https://www.appsflyer.com/legal/modern-slavery-statement/)
 
 Terms of Use
 ============
