@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Culpeper’s Herbal, a book written in London in 1652 that categorizes herbs and their medical uses, served as inspiration for herbology.
+There are ten different species of dragons in the magical world of Harry Potter.
 
 ### Potter History
 
-June 16, 2010 – EA Games confirms that the Harry Potter and the Deathly Hallows video game will be released on November 19.
+February 19, 2009 – Filming begins on Harry Potter and the Deathly Hallows.
 
 ### Potter Quote
 
-“I suggest you both go up to Madam Pomfrey. She is already tending to Miss Fawcett, of Ravenclaw, and Mr. Summers, of Hufflepuff, both of whom decided to age themselves up a little too. Though I must say, neither of their beards is anything like as fine as yours.”
+“I knew I could do it this time, because I’d already done it. . . . Does that make sense?”
 
 [](#)
 
