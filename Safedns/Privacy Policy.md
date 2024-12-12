@@ -1,4 +1,4 @@
-[![safedns logo](/_next/static/media/safedns-main-logo.3354086f.svg)](https://www.safedns.com/)
+[![safedns logo](/_next/static/media/christmas-safedns-logo.21284d07.svg)](https://www.safedns.com/)
 
 Pricing
 
