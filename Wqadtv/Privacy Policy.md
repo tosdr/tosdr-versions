@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/8ab49ff1-9b25-49ad-a028-7bd4a91d4de3/20241212T042919/8ab49ff1-9b25-49ad-a028-7bd4a91d4de3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8ab49ff1-9b25-49ad-a028-7bd4a91d4de3/20241212T042919/8ab49ff1-9b25-49ad-a028-7bd4a91d4de3_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/freezing-rain-quad-cities-region-storm-track-8-weather-impact-alert/526-573a9a65-82c7-4d7e-beb4-394b0ae8a473)
         
-        #### [Weather Impact Alert: Coldest air of the season so far arrives overnight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Freezing rain could lead to slick roads Saturday morning: Storm Track 8 Weather Impact Alert](https://www.wqad.com/article/weather/weather-impact/freezing-rain-quad-cities-region-storm-track-8-weather-impact-alert/526-573a9a65-82c7-4d7e-beb4-394b0ae8a473)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f57d6ded-2feb-455d-9024-8e7df023baf6/20240926T155346/f57d6ded-2feb-455d-9024-8e7df023baf6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f57d6ded-2feb-455d-9024-8e7df023baf6/20240926T155346/f57d6ded-2feb-455d-9024-8e7df023baf6_360x203.jpg)](https://www.wqad.com/article/weather/national-weather-service-is-making-changes-to-cold-weather-headlines-this-season/526-6ef8f399-e510-4c7c-8c4c-4c14976a57a5)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/62591488-6a1e-4a90-91ae-67f9406b2a76/20241212T131639/62591488-6a1e-4a90-91ae-67f9406b2a76_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/62591488-6a1e-4a90-91ae-67f9406b2a76/20241212T131639/62591488-6a1e-4a90-91ae-67f9406b2a76_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [National Weather Service is making changes to cold weather headlines this season](https://www.wqad.com/article/weather/national-weather-service-is-making-changes-to-cold-weather-headlines-this-season/526-6ef8f399-e510-4c7c-8c4c-4c14976a57a5)
+        #### [Weather Impact Alert: Frigid start Thursday with some freezing rain to start the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -97,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-5°
+8°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
