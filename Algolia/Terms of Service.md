@@ -216,7 +216,7 @@ Service degradation or suspension as a result of a Subscriber exceeding limits u
 
 Algolia will provide at least thirty (30) days' advance notice for changes to the SLA that affect a Subscriber's Algolia subscription by either: (i) sending an email to Subscriber's point of contact for notices; (ii) posting a notice in the Algolia Dashboard; or (iii) posting a notice to the applicable SLA webpage. If a change to the SLA has a material adverse impact on Subscriber and Subscriber does not agree to the change, Subscriber has the right to terminate the corresponding service order within thirty (30) days of notice of such change from Algolia.
 
-This SLA applies to Subscribers who subscribe to the listed Algolia subscription plans on or after the date of last update. The changes are not retroactive. If you are an existing Subscriber prior to the date of last update, a description of your service level agreement may be found below.
+This SLA applies to Subscribers who subscribe to the listed Algolia subscription plans on or after the date of the last update. The changes are not retroactive. If you are an existing Subscriber prior to the date of the last update, a description of your service level agreement may be found below.
 
 ### Previous Versions:
 
