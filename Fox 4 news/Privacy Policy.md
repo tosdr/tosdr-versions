@@ -401,6 +401,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![2 North Texas men arrested for $400,000 Lego crime ring spanning multiple states](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/lego-crime-ring.png?ve=1&tl=1)
+
+ ![2 North Texas men arrested for $400,000 Lego crime ring spanning multiple states](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/lego-crime-ring.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-north-texas-men-arrested-400000-lego-crime-ring-spanning-multiple-states)
+
+### [2 North Texas men arrested for $400,000 Lego crime ring spanning multiple states](https://www.fox4news.com/news/2-north-texas-men-arrested-400000-lego-crime-ring-spanning-multiple-states)
+
  [![Time to name Trump 'Person of the Year' for second time](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2180589131.jpg?ve=1&tl=1)
 
  ![Time to name Trump 'Person of the Year' for second time](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2180589131.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-time-person-year-2024)
@@ -424,12 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Bag of bullets found in Central Park not tied to CEO killing: sources](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/bullets-luigi.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dogwalker-finds-bag-bullets-tied-ceo-killing)
 
 ### [Bag of bullets found in Central Park not tied to CEO killing: sources](https://www.fox4news.com/news/dogwalker-finds-bag-bullets-tied-ceo-killing)
-
- [![FBI Director Christopher Wray plans to resign next month](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-1527767204.jpg?ve=1&tl=1)
-
- ![FBI Director Christopher Wray plans to resign next month](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-1527767204.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fbi-christopher-wray-resigns)
-
-### [FBI Director Christopher Wray plans to resign next month](https://www.fox4news.com/news/fbi-christopher-wray-resigns)
 
 ###### [News](https://www.fox4news.com/news)
 
