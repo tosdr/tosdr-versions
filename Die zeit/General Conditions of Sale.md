@@ -112,8 +112,6 @@ Anzeigen
     * Hell
     * Dunkel
 
-[**Eilmeldung** 14:20 Uhr EZB senkt Leitzins zum vierten Mal in diesem Jahr](https://www.zeit.de/wirtschaft/2024-12/ezb-senkt-leitzins-zum-vierten-mal-in-diesem-jahr)
-
 : Nutzungs- und Geschäftsbedingungen
 ====================================
 
