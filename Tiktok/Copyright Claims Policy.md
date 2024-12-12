@@ -1,4 +1,4 @@
-[![TikTok](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/legal/static/build/_assets/tiktok-header-logo-06fe0df37ccabdcf75f1-4c02f4d664da53728d26e6cc4f6d9853bd3edd61.svg)](https://www.tiktok.com/ "TikTok")
+[![TikTok](https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/legal/static/build/_assets/tiktok-header-logo-06fe0df37ccabdcf75f1.svg)](https://www.tiktok.com/ "TikTok")
 
 Intellectual Property Policy
 
