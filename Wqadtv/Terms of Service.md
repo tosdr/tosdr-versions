@@ -30,14 +30,15 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/fec91053-dc66-4685-a57c-2d7cfa415be1/20241212T040626/fec91053-dc66-4685-a57c-2d7cfa415be1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fec91053-dc66-4685-a57c-2d7cfa415be1/20241212T040626/fec91053-dc66-4685-a57c-2d7cfa415be1_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-city-council-postpones-vote-updated-hotel-incentive/526-a8130354-fe9e-446c-9b60-aefb08e374b4)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b3b445c1-7728-4824-8e88-b9e3f2b47fff/20241212T043012/b3b445c1-7728-4824-8e88-b9e3f2b47fff_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b3b445c1-7728-4824-8e88-b9e3f2b47fff/20241212T043012/b3b445c1-7728-4824-8e88-b9e3f2b47fff_360x203.jpg)](https://www.wqad.com/article/news/local/eclectic-market-aims-to-highlight-quad-cities-artists/526-9fc957c0-a907-4ab7-b747-4a53a05fb310)
         
-        #### [Davenport City Council postpones vote on updated hotel incentive proposal](https://www.wqad.com/article/news/local/davenport-city-council-postpones-vote-updated-hotel-incentive/526-a8130354-fe9e-446c-9b60-aefb08e374b4)
+        #### [How you can support QCA artists this weekend](https://www.wqad.com/article/news/local/eclectic-market-aims-to-highlight-quad-cities-artists/526-9fc957c0-a907-4ab7-b747-4a53a05fb310)
         
-    *  [![](https://media.tegna-media.com/assets/WCNC/images/ee1d658c-0db2-4115-8856-92c61647684f/ee1d658c-0db2-4115-8856-92c61647684f_16x9.jpg) ![](https://media.tegna-media.com/assets/WCNC/images/ee1d658c-0db2-4115-8856-92c61647684f/ee1d658c-0db2-4115-8856-92c61647684f_360x203.jpg)](https://www.wqad.com/article/news/local/winter-quad-cites-community-resources-staying-warm/526-81290a64-72cb-4bbe-9913-1af0a0645366)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/026c8beb-b7f7-4762-874b-afe311abd0d2/026c8beb-b7f7-4762-874b-afe311abd0d2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/026c8beb-b7f7-4762-874b-afe311abd0d2/026c8beb-b7f7-4762-874b-afe311abd0d2_360x203.jpg)](https://www.wqad.com/article/news/national/dixon-rita-crundwell-commuted-pardon-president-biden-embezzlement/526-cce0c5c1-c427-44cd-ad46-7cb08b888833)
         
-        #### [Quad Cities area community resources for staying warm this winter](https://www.wqad.com/article/news/local/winter-quad-cites-community-resources-staying-warm/526-81290a64-72cb-4bbe-9913-1af0a0645366)
+        #### [Former Dixon comptroller convicted of embezzling $54M has sentence commuted by Biden](https://www.wqad.com/article/news/national/dixon-rita-crundwell-commuted-pardon-president-biden-embezzlement/526-cce0c5c1-c427-44cd-ad46-7cb08b888833) [![](https://media.tegna-media.com/assets/WQAD/images/026c8beb-b7f7-4762-874b-afe311abd0d2/026c8beb-b7f7-4762-874b-afe311abd0d2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/026c8beb-b7f7-4762-874b-afe311abd0d2/026c8beb-b7f7-4762-874b-afe311abd0d2_360x203.jpg)](https://www.wqad.com/article/news/national/dixon-rita-crundwell-commuted-pardon-president-biden-embezzlement/526-cce0c5c1-c427-44cd-ad46-7cb08b888833)
         
+        #### [Biden commutes sentence of former Dixon comptroller convicted of embezzling $54M](https://www.wqad.com/article/news/national/dixon-rita-crundwell-commuted-pardon-president-biden-embezzlement/526-cce0c5c1-c427-44cd-ad46-7cb08b888833)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/freezing-rain-quad-cities-region-storm-track-8-weather-impact-alert/526-573a9a65-82c7-4d7e-beb4-394b0ae8a473)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ececff04-b645-4170-b7ec-0718ee8f2d5c/20241212T222535/ececff04-b645-4170-b7ec-0718ee8f2d5c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ececff04-b645-4170-b7ec-0718ee8f2d5c/20241212T222535/ececff04-b645-4170-b7ec-0718ee8f2d5c_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Freezing rain could lead to slick roads Saturday morning: Storm Track 8 Weather Impact Alert](https://www.wqad.com/article/weather/weather-impact/freezing-rain-quad-cities-region-storm-track-8-weather-impact-alert/526-573a9a65-82c7-4d7e-beb4-394b0ae8a473)
+        #### [Next weather system still on track to impact the area by Saturday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/62591488-6a1e-4a90-91ae-67f9406b2a76/20241212T131639/62591488-6a1e-4a90-91ae-67f9406b2a76_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/62591488-6a1e-4a90-91ae-67f9406b2a76/20241212T131639/62591488-6a1e-4a90-91ae-67f9406b2a76_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/quad-cities-davenport-moline-weather-wind-chill-impact-alert-cold-temperatures/526-19b4b966-eb08-4210-8ec0-32e337ffddd2)
         
-        #### [Weather Impact Alert: Frigid start Thursday with some freezing rain to start the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Weather Impact Alert issued for Thursday, Dec. 12 due to dangerously low wind chills](https://www.wqad.com/article/weather/weather-impact/quad-cities-davenport-moline-weather-wind-chill-impact-alert-cold-temperatures/526-19b4b966-eb08-4210-8ec0-32e337ffddd2)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -74,13 +75,13 @@ Navigation
     
     Latest Stories
     
+    *  [![](https://media.tegna-media.com/assets/WOI/images/fd4905da-00fb-403c-86b5-9dd1bb8deccb/20241212T044105/fd4905da-00fb-403c-86b5-9dd1bb8deccb_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/fd4905da-00fb-403c-86b5-9dd1bb8deccb/20241212T044105/fd4905da-00fb-403c-86b5-9dd1bb8deccb_360x203.jpg)](https://www.wqad.com/article/sports/college/iowa-women-rally-beat-iowa-state/524-5f64ac08-63bc-4058-9132-83bbb6ec72fa)
+        
+        #### [No. 21 Iowa women rally in fourth quarter to beat No. 18 Iowa State 75-69](https://www.wqad.com/article/sports/college/iowa-women-rally-beat-iowa-state/524-5f64ac08-63bc-4058-9132-83bbb6ec72fa)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/cb42fb9e-923e-4223-88fa-fd80b618a7a2/20241211T162504/cb42fb9e-923e-4223-88fa-fd80b618a7a2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cb42fb9e-923e-4223-88fa-fd80b618a7a2/20241211T162504/cb42fb9e-923e-4223-88fa-fd80b618a7a2_360x203.jpg)](https://www.wqad.com/article/sports/local-sports/lsu-kim-mulkey-davenport-divine-bourrage-quad-cities-basketball/526-34443888-079b-47cd-b27f-42c4e29b2e6e)
         
         #### [LSU's Kim Mulkey visits the Quad Cities to watch 5-star Davenport North recruit Divine Bourrage](https://www.wqad.com/article/sports/local-sports/lsu-kim-mulkey-davenport-divine-bourrage-quad-cities-basketball/526-34443888-079b-47cd-b27f-42c4e29b2e6e)
-        
-    *  [![](https://media.tegna-media.com/assets/CCT/images/bf642ecc-25de-47e0-a9af-db3186b4580f/20241211T233712/bf642ecc-25de-47e0-a9af-db3186b4580f_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/bf642ecc-25de-47e0-a9af-db3186b4580f/20241211T233712/bf642ecc-25de-47e0-a9af-db3186b4580f_360x203.jpg)](https://www.wqad.com/article/news/nation-world/bill-belichick-north-carolina/507-ee6c7b51-7da2-4403-8fef-2fc28f4959a5)
-        
-        #### [North Carolina announces 5-year deal with Bill Belichick to take over as coach of the Tar Heels](https://www.wqad.com/article/news/nation-world/bill-belichick-north-carolina/507-ee6c7b51-7da2-4403-8fef-2fc28f4959a5)
         
     
 * [VERIFY](https://www.wqad.com/verify)
@@ -97,9 +98,9 @@ Navigation
 
 Davenport, IA »
 
-8°
+11°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
