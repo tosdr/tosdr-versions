@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![2 North Texas men arrested for $400,000 Lego crime ring spanning multiple states](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/lego-crime-ring.png?ve=1&tl=1)
+ [![President-elect Donald Trump says Kari Lake will be Voice of America Director](https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/12/32/18/gettyimages-2182969258-scaled.jpg?ve=1&tl=1)
 
- ![2 North Texas men arrested for $400,000 Lego crime ring spanning multiple states](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/lego-crime-ring.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-north-texas-men-arrested-400000-lego-crime-ring-spanning-multiple-states)
+ ![President-elect Donald Trump says Kari Lake will be Voice of America Director](https://images.foxtv.com/images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2024/12/32/18/592/333/gettyimages-2182969258-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/president-elect-donald-trump-says-kari-lake-will-be-voice-america-director)
 
-### [2 North Texas men arrested for $400,000 Lego crime ring spanning multiple states](https://www.fox4news.com/news/2-north-texas-men-arrested-400000-lego-crime-ring-spanning-multiple-states)
+### [Trump announces Kari Lake's next role](https://www.fox4news.com/news/president-elect-donald-trump-says-kari-lake-will-be-voice-america-director)
 
- [![Time to name Trump 'Person of the Year' for second time](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2180589131.jpg?ve=1&tl=1)
+ [![Trump named Time's 'Person of the Year'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/donald-trump-person-of-the-year.jpg?ve=1&tl=1)
 
- ![Time to name Trump 'Person of the Year' for second time](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2180589131.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-time-person-year-2024)
+ ![Trump named Time's 'Person of the Year'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/donald-trump-person-of-the-year.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/time-names-trump-person-of-year)
 
-### [Time to name Trump 'Person of the Year' for second time](https://www.fox4news.com/news/trump-time-person-year-2024)
+### [Trump named Time's 'Person of the Year'](https://www.fox4news.com/news/time-names-trump-person-of-year)
 
- [![Dallas City Council approves funds for hosting 2026 FIFA World Cup International Broadcast Center](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/05/32/18/052223-MG-LB-VOSOT_KBH-CONVENTION-CENTER-_REDESIGN_00.00.06.44.jpg?ve=1&tl=1)
+ [![Biden commutes 1,500 sentences and pardons 39 people, a single-day record](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/joe-biden-pardons.jpg?ve=1&tl=1)
 
- ![Dallas City Council approves funds for hosting 2026 FIFA World Cup International Broadcast Center](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/05/32/18/592/333/052223-MG-LB-VOSOT_KBH-CONVENTION-CENTER-_REDESIGN_00.00.06.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2026-fifa-world-cup-international-broadcast-center-will-be-dallas)
+ ![Biden commutes 1,500 sentences and pardons 39 people, a single-day record](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/joe-biden-pardons.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biden-commutes-sentences-issues-pardons)
 
-### [Dallas City Council approves funds for hosting 2026 FIFA World Cup International Broadcast Center](https://www.fox4news.com/news/2026-fifa-world-cup-international-broadcast-center-will-be-dallas)
+### [Biden commutes 1,500 sentences and pardons 39 people, a single-day record](https://www.fox4news.com/news/biden-commutes-sentences-issues-pardons)
 
- [![Annual Texas Rangers Toy Drive brings in hundreds of donations from fans](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-dionne-rangers-toy-drive-530p_00.00.14.34.jpg?ve=1&tl=1)
+ [![22-year-old Euless man shot and killed at apartment complex, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/07/32/18/ea9a80bd-police-tape-night.jpg?ve=1&tl=1)
 
- ![Annual Texas Rangers Toy Drive brings in hundreds of donations from fans](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-dionne-rangers-toy-drive-530p_00.00.14.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-rangers-toy-drive-2024)
+ ![22-year-old Euless man shot and killed at apartment complex, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/07/32/18/592/333/ea9a80bd-police-tape-night.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/alexander-borras-shot)
 
-### [Annual Texas Rangers Toy Drive brings in hundreds of donations from fans](https://www.fox4news.com/news/texas-rangers-toy-drive-2024)
+### [22-year-old Euless man shot and killed at apartment complex, police say](https://www.fox4news.com/news/alexander-borras-shot)
 
- [![Bag of bullets found in Central Park not tied to CEO killing: sources](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/bullets-luigi.jpg?ve=1&tl=1)
+ [![Pedestrian hit and killed on I-30 in Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/121124-i30-tx-dot-fatal-crash-kdfweme003_21_27_14__00.05.28.42.jpg?ve=1&tl=1)
 
- ![Bag of bullets found in Central Park not tied to CEO killing: sources](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/bullets-luigi.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dogwalker-finds-bag-bullets-tied-ceo-killing)
+ ![Pedestrian hit and killed on I-30 in Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/121124-i30-tx-dot-fatal-crash-kdfweme003_21_27_14__00.05.28.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pedestrian-hit-killed-i-30-dallas)
 
-### [Bag of bullets found in Central Park not tied to CEO killing: sources](https://www.fox4news.com/news/dogwalker-finds-bag-bullets-tied-ceo-killing)
+### [Pedestrian hit and killed on I-30 in Dallas](https://www.fox4news.com/news/pedestrian-hit-killed-i-30-dallas)
 
 ###### [News](https://www.fox4news.com/news)
 
