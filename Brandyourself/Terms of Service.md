@@ -1,4 +1,4 @@
-[](#) **[![BrandYourself](//s2.brandyourself.com/themes/default/images/logo.png)](https://brandyourself.com/)[![BrandYourself](//s2.brandyourself.com/themes/default/images/logo-white.png)](https://brandyourself.com/)**
+[](#) **[![BrandYourself](//s2.brandyourself.com/themes/default/images/logo.png)](https://brandyourself.com/)[![BrandYourself](//s1.brandyourself.com/themes/default/images/logo-white.png)](https://brandyourself.com/)**
 
 * [INDIVIDUALS](https://brandyourself.com/reputation-management-software)
     
@@ -58,7 +58,7 @@
     * [Contact Us](https://brandyourself.com/contact)
     
 
-* [![image description](//s3.brandyourself.com/themes/default/images/icon-60.svg)(646) 863-8226](tel:+16468638226)
+* [![image description](//s2.brandyourself.com/themes/default/images/icon-60.svg)(646) 863-8226](tel:+16468638226)
 * [Log in](https://brandyourself.com/login)
 * [free reputation report](https://brandyourself.com/sign-up)
 
@@ -307,7 +307,7 @@ You agree that by clicking “Join Now”, “Sign Up” or similar, registering
 * [Online Reputation](https://brandyourself.com/blog/fixing-negative-results/)
 * [Personal Branding](https://brandyourself.com/blog/product-tutorials/personal-branding/)
 
-**[![BrandYourself](//s3.brandyourself.com/themes/default/images/by-logo.svg)](https://brandyourself.com/)**
+**[![BrandYourself](//s1.brandyourself.com/themes/default/images/by-logo.svg)](https://brandyourself.com/)**
 
 **AS FEATURED ON:**
 
