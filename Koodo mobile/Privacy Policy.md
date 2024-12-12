@@ -87,7 +87,7 @@ At Koodo, we value diversity and inclusiveness. We support a work environment wh
 
 Webstore Security
 
-We’re committed to providing you with a safe environment to buy products from our Webstore. Learn about our[security](https://www.koodomobile.com/security)and[Webstore](https://www.koodomobile.com/webstore-policies)policies.
+We’re committed to providing you with a safe environment to buy products from our Webstore. Learn about our[security](https://www.koodomobile.com/en/terms/security)and[Webstore](https://www.koodomobile.com/webstore-policies)policies.
 
 ### 
 
