@@ -78,17 +78,17 @@ Idioma
 
 Un punto y seguido en la transformación digital
 
-   ![Medianas Empresas Kit Digital](/sites/redes/files/styles/mosaico_grande_dcha_sm/public/media/images/Home_KD.png?h=980ddcd4&itok=xzCXFOq7)
+   ![Kit Digital_Nueva convocatoria](/sites/redes/files/styles/mosaico_grande_dcha_sm/public/media/images/Banner%20home_v2.jpg?h=91efac91&itok=BytsYtaT)
 
 Noticia
 
 Transformación Digital PYMES
 
-Red.es presenta la nueva convocatoria de Kit Digital dirigida a medianas empresas
+Abierta la convocatoria de Kit Digital dirigida a medianas empresas
 
-Hoy a partir de las 11 horas, las empresas podrán solicitar su bono digital. El plazo estará abierto hasta el 30 de junio de 2025 
+Los bonos digitales de 25.000 y 29.000 euros se podrán solicitar hasta el 30 de junio de 2025 
 
-[Red.es presenta la nueva convocatoria de Kit Digital dirigida a medianas empresas](http://red.es/es/actualidad/noticias/convocatoria-kitdigital-medianas-empresas "Ir al contenido de: Red.es presenta la nueva convocatoria de Kit Digital dirigida a medianas empresas  ")
+[Abierta la convocatoria de Kit Digital dirigida a medianas empresas](http://red.es/es/actualidad/noticias/convocatoria-kitdigital-medianas-empresas "Ir al contenido de: Abierta la convocatoria de Kit Digital dirigida a medianas empresas  ")
 
 ![Banner Kit Consulting. ](/sites/redes/files/styles/ratio_1_1/public/media/images/Banner%20home_KC_robot_v2%281%29.jpg?h=98feb221&itok=fNri1jHG)
 
@@ -189,7 +189,7 @@ Nuestros Portales
 * [Transparencia y Buen Gobierno](http://red.es/es/sobre-nosotros/transparencia-y-buen-gobierno)
 * [Protección de Datos](http://red.es/es/proteccion-de-datos)
 * [Reutilización de la Información del Sector Público](https://sede.red.gob.es/datos-abiertos)
-* [Canal de denuncias](http://red.es/es/canal-de-denuncias)
+* [Canal de denuncias](http://red.es/canal-de-denuncias)
 
 Páginas de Interés
 
