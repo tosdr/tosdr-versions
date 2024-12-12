@@ -526,7 +526,7 @@ Search Ramsey Solutions Search Ramsey Solutions
 Ramsey Solutions Terms of Use
 =============================
 
-JULY 15, 2024
+DECEMBER 12, 2024
 
 Welcome to Ramsey Solutions! These Terms of Use (“Terms”) govern your access to and use of our websites, web services, and mobile applications, including but not limited to EveryDollar, Ramsey Network, and Ramsey Audiobooks, and any other products or services (collectively, the “Site”) owned and operated by The Lampo Group, LLC d/b/a Ramsey Solutions.
 
@@ -563,6 +563,13 @@ The feedback you provide to us through or about  the Site or any of our other p
 In consideration of your use of the Site, you agree that to the extent you provide personal information to Ramsey Solutions, it will be true, accurate, current, and complete and that you will update all personal information as necessary. You also agree that you will use an image that you are authorized to use for your profile picture, if any. The use of company logos, advertisements, web addresses, contact information, pictures of celebrities, or the unauthorized use of images owned by others is prohibited.
 
 To the extent you create an account through the Site, you understand and agree that any account you create, including your username and password, are personal to you and may not be used by anyone else. You are responsible for maintaining the confidentiality of your username and password and are fully responsible for all activities that occur under your username and password, whether by you or by anyone else using your username and password and whether or not authorized by you. You agree to change your password immediately if you believe your password may have been compromised or used without authorization.
+
+To the extent that you set up an account for your Household, you understand that that you and all persons  you invite to join your Household shall create their own usernames and passwords, and as stated in the paragraph immediately above, are responsible for maintaining the confidentiality of their own usernames and passwords and are fully responsible for all activities that occur under their respective usernames and passwords. Accounts for Households allow you and the Household member to share and edit budget data within EveryDollar. Those who are members of a Household will be unable to see the profile information of the other members of the Household, but all Household members shall be able to view the following information in the Household: 
+
+* Household Member First Name
+* Household Member Last Name
+* Household Member Relationship
+* Household Member E-mail Address
 
 You agree to use the Site in accordance with any and all applicable rules and regulations. You agree not to upload or transmit through the Site any computer viruses, trojan horses, worms, or anything else designed to interfere with, interrupt, or disrupt the normal operating procedures of a computer. Any unauthorized modification, tampering, or change of any information, any interference with the availability of or access to the Site, or any unauthorized scraping of the Content on the Site is strictly prohibited. We reserve all rights and remedies available to us, including but not limited to the right to terminate your use of or access to the Site.
 
@@ -708,7 +715,7 @@ If you downloaded an App from the ©Google Play Store, the following term also a
 
 **Maintenance and Support**: Ramsey Solutions, and not Google Play, is solely responsible for providing any maintenance and support services, for which additional fees may apply, with respect to the Apps. You acknowledge that Google Play has no obligation whatsoever to furnish any maintenance and support services with respect to the Apps and you will contact Ramsey Solutions concerning any defects or performance issues with respect to the Apps.
 
-_**Terms\_of\_Use\_Gen\_07.15.2024v03**_
+_**Terms\_of\_Use\_Gen\_12.12.2024v04**_
 
 To give you the best online experience, Ramsey Solutions uses cookies and other tracking technologies to collect information about you and your website experience, and shares it with our analytics and advertising partners as described in our Privacy Policy. By continuing to browse or by closing out of this message, you indicate your agreement.
 
