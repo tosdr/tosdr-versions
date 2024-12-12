@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent)
 
-[![Securly logo](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/securly-logo.svg "Securly")](https://www.securly.com/)[](#)
+[![Securly logo](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/securly-logo.svg "Securly")](https://www.securly.com/) [Menu](#)
 
 * [Solutions](#)
     
@@ -431,8 +431,8 @@ This Agreement and the Privacy Policy constitute the entire agreement between th
 
 * School:
 * US: [1 (855) 732-8759](tel:1-855-7328759)
-* UK Support: [+44 808 164 9773](tel:+44 808 164 9773)
-* UK Sales: [+44 141 343 8322](tel:+44 141 343 8322)
+* UK Support: [+44 808 164 9773](tel:+448081649773)
+* UK Sales: [+44 141 343 8322](tel:+441413438322)
 * [sales@securly.com](mailto:sales@securly.com)
 * [support@securly.com](mailto:support@securly.com)
 * Parents:
@@ -444,4 +444,4 @@ This Agreement and the Privacy Policy constitute the entire agreement between th
 * [Privacy Policies](https://www.securly.com/privacy)
 * [GDPR](https://www.securly.com/gdpr)
 * [Terms of service](https://www.securly.com/terms-and-conditions)
-* [![Securly](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/logo.svg "Securly")](https://www.securly.com/)
+* [![Securly](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/logo.svg "Securly")Securly Logo](https://www.securly.com/)
