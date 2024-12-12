@@ -327,9 +327,9 @@ Submit
 
 Search toggle
 
-[Log in Log in](https://one.newrelic.com/)[Log in Log in](https://one.newrelic.com/)[Get Started Free Get Started Free](https://newrelic.com/signup)[Get Demo Get Demo](https://newrelic.com/request-demo)
+[Log in Log in](https://one.newrelic.com/)[Log in Log in](https://one.newrelic.com/)[Get Started Free Get Started Free](https://newrelic.com/signup)[Request Pricing Request Pricing](https://newrelic.com/request-pricing)
 
-[Log in Log in](https://one.newrelic.com/)[Log in Log in](https://one.newrelic.com/)[Get Started Free Get Started Free](https://newrelic.com/signup)[Get Demo Get Demo](https://newrelic.com/request-demo)
+[Log in Log in](https://one.newrelic.com/)[Log in Log in](https://one.newrelic.com/)[Get Started Free Get Started Free](https://newrelic.com/signup)[Request Pricing Request Pricing](https://newrelic.com/request-pricing)
 
 New Relic Inc.
 
