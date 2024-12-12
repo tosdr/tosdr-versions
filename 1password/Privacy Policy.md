@@ -499,7 +499,7 @@ Show options
 
 * [Support Community](https://support.1password.com/)
     
-* [Customer support](https://support.1password.com/contact-support/)
+* [Customer support](https://1password.com/contact-support)
     
 * [Privacy support](mailto:privacy@1password.com)
     
