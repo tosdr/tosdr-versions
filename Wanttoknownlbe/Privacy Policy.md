@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/archonten/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/hoe-bp-zelf-ook-steeds-smeriger-wordt/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -151,6 +151,8 @@ Advertentie
 E-mailadres
 
 Inschrijven
+
+[![Ring of Harmony aanbieding banner](https://www.wanttoknow.nl/wp-content/uploads/Ring-of-Harmony-banner-NB-aug-2023.jpg)](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/)
 
 #### Quote van de week
 
