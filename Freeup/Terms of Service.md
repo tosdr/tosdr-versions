@@ -430,7 +430,7 @@ Build. Track. Sign Contracts.
 | December 4, 2022 2:25 pm EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 47.201.172.54 |
 | July 27, 2023 12:08 pm EST | Nathan Hirsch - nathan@freeeup.com added by Matt Harrison - matt@freeeup.com as a CC'd Recipient Ip: 145.224.104.42 |
 
-![ Audit trial Qr code ](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0AQMAAABuVIRkAAAABlBMVEX///8AAABVwtN+AAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAOxJREFUOI2dlNsNgFAIQ7sB+2/JBrUF9b/cROVcEwLlAZJdTaBhEym3rHnWzJnd8mNPNk8sq1h3LofEIyuJgvTYtGK2iO/59U3Yh46q8J+EHYSAhdI7Zz3lhHQzbZGyLuRLuUiWySZktULJpz50ODELp56u7PZjxrAS8GVxIgp5kpGStri/I5az2sTckR2zO0oVwVYUObugcrmadswjgkaqrAhytmU9d6XgwG4IJ/VulZBnnhSWxeA3XwHvUMvr7KOctySzDNE4sJeYxFRdOKpc2EHRJekjWw87RM5T0ulI1LePA55QfDyPr74BP4tKygbZdPhJAAAAAElFTkSuQmCC)
+![ Audit trial Qr code ](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0AQMAAABuVIRkAAAABlBMVEX///8AAABVwtN+AAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAOlJREFUOI2dlcERhUAMQukg/XeZDvhA/N5xdcZ9HjAhyQqSqwtYeIuWF7n3efbMlRpnJttPDAyH33koxf3ISoKYN6WWbeKzXn8b9pJaSvJfDSsKmYlZXYaW6SfXhiqtnlMHUornZ82rcNyS47BQ8/IScTmvH2tWKGPZ5NMz46dWuqlnZ6J4HFby6dh9vHZSwunHkl2QuXnMULSscKzodDzSNccJzJUkzd2x3LQlepWuqjkaWL8En080nHm26vVUzXeIpJ7e95whmhxqzucTq5ddkfd8LdmCPFd6VgieZ9xfqeb8z+BZiGLLPzd/wdIWg/LQAAAAAElFTkSuQmCC)
 
 This audit trail report provides a detailed record of the online activity and events recorded for this document.
 
