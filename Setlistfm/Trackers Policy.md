@@ -130,14 +130,14 @@ The Digital Advertising Alliance also offers a tool for opting out of the collec
 
 **Recent Events**
 
-* [Today](https://www.setlist.fm/search?query=date:2024-12-11 "Search setlists by day: "Today"")
-* [Yesterday](https://www.setlist.fm/search?query=date:2024-12-10 "Search setlists by day: "Yesterday"")
+* [Today](https://www.setlist.fm/search?query=date:2024-12-12 "Search setlists by day: "Today"")
+* [Yesterday](https://www.setlist.fm/search?query=date:2024-12-11 "Search setlists by day: "Yesterday"")
+* [Dec 10, 2024](https://www.setlist.fm/search?query=date:2024-12-10 "Search setlists by day: "Dec 10, 2024"")
 * [Dec 9, 2024](https://www.setlist.fm/search?query=date:2024-12-09 "Search setlists by day: "Dec 9, 2024"")
 * [Dec 8, 2024](https://www.setlist.fm/search?query=date:2024-12-08 "Search setlists by day: "Dec 8, 2024"")
 * [Dec 7, 2024](https://www.setlist.fm/search?query=date:2024-12-07 "Search setlists by day: "Dec 7, 2024"")
 * [Dec 6, 2024](https://www.setlist.fm/search?query=date:2024-12-06 "Search setlists by day: "Dec 6, 2024"")
 * [Dec 5, 2024](https://www.setlist.fm/search?query=date:2024-12-05 "Search setlists by day: "Dec 5, 2024"")
-* [Dec 4, 2024](https://www.setlist.fm/search?query=date:2024-12-04 "Search setlists by day: "Dec 4, 2024"")
 
 **© setlist.fm**
 
