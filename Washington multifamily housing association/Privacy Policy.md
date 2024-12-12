@@ -1,5 +1,9 @@
 [Skip to content](#content)
 
+[![](https://assets.noviams.com/novi-file-uploads/wmfha/Graphics/POP_UP_GRAPHIC.png)](https://www.wmfha.org/products/)
+
+ACKNOWLEDGE
+
 [Cart](https://www.wmfha.org/products/checkout) [Join](#join-modal) [Login](https://www.wmfha.org/login)
 
 [![ Washington Multi-Family Housing Association Logo](https://assets.noviams.com/novi-file-uploads/wmfha/structure/untitled-design-3.png)](https://www.wmfha.org/)
@@ -32,9 +36,9 @@
 * [Education](https://www.wmfha.org/events/education)
     * [Upcoming Classes](https://www.wmfha.org/events/education)
     * [National Credential Courses](https://www.wmfha.org/national-credential-courses)
-    * [Emerging Leaders - 2025 Cohort](https://www.wmfha.org/2025-emerging-leaders)
     * [Emerging Leaders](https://www.wmfha.org/emerging-leaders)
-    * [Emerging Leaders - Mentors](https://www.wmfha.org/emerging-leaders---mentors)
+        * [Emerging Leaders - 2025 Cohort](https://www.wmfha.org/2025-emerging-leaders)
+        * [Emerging Leaders - Mentors](https://www.wmfha.org/emerging-leaders---mentors)
     * [Scholarships](https://www.wmfha.org/education-scholarships)
     * [Online Learning](https://www.wmfha.org/online-learning)
     * [Credential Holder Resources](https://www.wmfha.org/credential-holder-resources)
@@ -52,6 +56,7 @@
         * [Source of Income](https://www.wmfha.org/source-of-income-discrimination)
         * [Partnership for Affordable Housing](https://partnershipforaffordablehousing.com/)
 * [Resources](https://www.wmfha.org/statewide-supplier-directory)
+    * [Engage and Sponsor](https://www.wmfha.org/engage-in-2025)
     * [Budget Planning](https://www.wmfha.org/budget-planning-)
     * [Supplier Directory](https://www.wmfha.org/statewide-supplier-directory)
     * [Member Directory](https://www.wmfha.org/active-member-directory)
@@ -90,9 +95,9 @@
 * [Education](https://www.wmfha.org/events/education)
     * [Upcoming Classes](https://www.wmfha.org/events/education)
     * [National Credential Courses](https://www.wmfha.org/national-credential-courses)
-    * [Emerging Leaders - 2025 Cohort](https://www.wmfha.org/2025-emerging-leaders)
     * [Emerging Leaders](https://www.wmfha.org/emerging-leaders)
-    * [Emerging Leaders - Mentors](https://www.wmfha.org/emerging-leaders---mentors)
+        * [Emerging Leaders - 2025 Cohort](https://www.wmfha.org/2025-emerging-leaders)
+        * [Emerging Leaders - Mentors](https://www.wmfha.org/emerging-leaders---mentors)
     * [Scholarships](https://www.wmfha.org/education-scholarships)
     * [Online Learning](https://www.wmfha.org/online-learning)
     * [Credential Holder Resources](https://www.wmfha.org/credential-holder-resources)
@@ -110,6 +115,7 @@
         * [Source of Income](https://www.wmfha.org/source-of-income-discrimination)
         * [Partnership for Affordable Housing](https://partnershipforaffordablehousing.com/)
 * [Resources](https://www.wmfha.org/statewide-supplier-directory)
+    * [Engage and Sponsor](https://www.wmfha.org/engage-in-2025)
     * [Budget Planning](https://www.wmfha.org/budget-planning-)
     * [Supplier Directory](https://www.wmfha.org/statewide-supplier-directory)
     * [Member Directory](https://www.wmfha.org/active-member-directory)
