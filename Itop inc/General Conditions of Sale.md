@@ -183,7 +183,7 @@ Oops! Please enter a valid email address.
     
     [Become iTop Affiliate](https://www.itopvpn.com/affiliate-solutions) [YouTube Creators](https://www.itopvpn.com/affiliate-solutions) [Free AI Video Generator](https://www.vidnoz.com/?ref=fromenitopfooter)
 
-© 2024 Orange View Limited. All rights reserved.
+© 2024 iTop Inc. All rights reserved.
 
 [Vidqu](https://www.vidqu.ai/) [Vidwud](https://www.vidwud.com/) [iMofone](https://www.imofone.com/) [EaseHow](https://www.easehow.com/) [MioCreate](https://www.miocreate.com/) [iSmartta](https://www.ismartta.com/) [Vidmud](https://www.vidmud.com/) [Terms of Service](https://www.itopvpn.com/terms) [Privacy Policy](https://www.itopvpn.com/privacy) [EULA](https://www.itopvpn.com/eula)
 
