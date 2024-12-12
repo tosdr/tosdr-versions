@@ -72,9 +72,9 @@ Issued: 11 December 2024
 * * *
 
 * [About](https://www.paypal.com/sg/webapps/mpp/about)
-* [Newsroom](https://newsroom.apac.paypal-corp.com/home)
+* [Newsroom](https://newsroom.paypal-corp.com/)
 * [Jobs](https://careers.pypl.com/home/)
-* [Developers](https://developer.paypal.com/)
+* [Developers](https://developer.paypal.com/?_ga=2.57176938.1975377505.1730124929-663675887.1729790543)
 * [Partners](https://www.paypal.com/sg/webapps/mpp/partner-program)
 
 * * *
