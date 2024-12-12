@@ -77,11 +77,11 @@
 * [Organize](https://organizer.toornament.com/?_locale=en_GB)
 
 * [Language](#nowhere)
-    * [English (US)](https://www.toornament.com/change-locale?destination=/en_US/cookies&lang=en_US)
-    * [English (UK)](https://www.toornament.com/change-locale?destination=/en_GB/cookies&lang=en_GB)
-    * [Français](https://www.toornament.com/change-locale?destination=/fr/cookies&lang=fr)
-    * [Español](https://www.toornament.com/change-locale?destination=/es/cookies&lang=es)
-    * [عربي](https://www.toornament.com/change-locale?destination=/ar/cookies&lang=ar)
+    * [English (US)](https://www.toornament.com/change-locale?destination=/en_US/cookies&lang=en_US&list_id=commercial)
+    * [English (UK)](https://www.toornament.com/change-locale?destination=/en_GB/cookies&lang=en_GB&list_id=commercial)
+    * [Français](https://www.toornament.com/change-locale?destination=/fr/cookies&lang=fr&list_id=commercial)
+    * [Español](https://www.toornament.com/change-locale?destination=/es/cookies&lang=es&list_id=commercial)
+    * [عربي](https://www.toornament.com/change-locale?destination=/ar/cookies&lang=ar&list_id=commercial)
 
 [Log in](https://account.toornament.com/en_GB/login/)
 
@@ -91,11 +91,11 @@
     
 
 * [Language](#nowhere)
-    * [English (US)](https://www.toornament.com/change-locale?destination=/en_US/cookies&lang=en_US)
-    * [English (UK)](https://www.toornament.com/change-locale?destination=/en_GB/cookies&lang=en_GB)
-    * [Français](https://www.toornament.com/change-locale?destination=/fr/cookies&lang=fr)
-    * [Español](https://www.toornament.com/change-locale?destination=/es/cookies&lang=es)
-    * [عربي](https://www.toornament.com/change-locale?destination=/ar/cookies&lang=ar)
+    * [English (US)](https://www.toornament.com/change-locale?destination=/en_US/cookies&lang=en_US&list_id=commercial)
+    * [English (UK)](https://www.toornament.com/change-locale?destination=/en_GB/cookies&lang=en_GB&list_id=commercial)
+    * [Français](https://www.toornament.com/change-locale?destination=/fr/cookies&lang=fr&list_id=commercial)
+    * [Español](https://www.toornament.com/change-locale?destination=/es/cookies&lang=es&list_id=commercial)
+    * [عربي](https://www.toornament.com/change-locale?destination=/ar/cookies&lang=ar&list_id=commercial)
 
 [Log in](https://account.toornament.com/en_GB/login/)
 
@@ -224,7 +224,7 @@ Contact
 
 For any question related to our Cookie Policy, you can contact us at [\[email protected\]](https://www.toornament.com/cdn-cgi/l/email-protection) or by mail at Toornament - Privacy - 10 rue de penthièvre, 75008 Paris, France. For any questions related to the protection of personal data performed by Toornament, you can contact our Data Protection Officer at [\[email protected\]](https://www.toornament.com/cdn-cgi/l/email-protection). In the event that you are not satisfied by a response, you can make a claim to the French CNIL.
 
-![](https://www.toornament.com/bundles/frontapp/img/logo-toornament-blanc.svg?1733836549)
+![](https://www.toornament.com/bundles/frontapp/img/logo-toornament-blanc.svg?1734011776)
 
 Manage your gaming competition  
 the way you want
@@ -281,15 +281,15 @@ the way you want
 
 ##### Choose your language
 
-[English (US)](https://www.toornament.com/change-locale?destination=/en_US/cookies&lang=en_US)
+[English (US)](https://www.toornament.com/change-locale?destination=/en_US/cookies&lang=en_US&list_id=commercial)
 
-[English (UK)](https://www.toornament.com/change-locale?destination=/en_GB/cookies&lang=en_GB)
+[English (UK)](https://www.toornament.com/change-locale?destination=/en_GB/cookies&lang=en_GB&list_id=commercial)
 
-[Français](https://www.toornament.com/change-locale?destination=/fr/cookies&lang=fr)
+[Français](https://www.toornament.com/change-locale?destination=/fr/cookies&lang=fr&list_id=commercial)
 
-[Español](https://www.toornament.com/change-locale?destination=/es/cookies&lang=es)
+[Español](https://www.toornament.com/change-locale?destination=/es/cookies&lang=es&list_id=commercial)
 
-[عربي](https://www.toornament.com/change-locale?destination=/ar/cookies&lang=ar)
+[عربي](https://www.toornament.com/change-locale?destination=/ar/cookies&lang=ar&list_id=commercial)
 
 © 2024 Toornament - All Rights Reserved
 
