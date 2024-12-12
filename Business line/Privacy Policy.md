@@ -1,48 +1,48 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=11398210&cs_ucfr=1&cv=4.4.0&cj=1) />
 
-##### SENSEX   81,508.46
+##### SENSEX   81,289.96
 
- -200.66
+ -236.18
 
-##### NIFTY   24,619.00
+##### NIFTY   24,548.70
 
- -58.80
+ -93.10
 
-##### CRUDEOIL   5,828.00
+##### CRUDEOIL   5,884.00
 
-+ 102.00
+ -50.00
 
-##### GOLD   77,554.00
+##### GOLD   77,864.00
 
-+ 935.00
+ -1,138.00
 
-##### SILVER   95,280.00
+##### SILVER   92,726.00
 
-+ 2,832.00
+ -3,076.00
 
-##### SENSEX   81,508.46
+##### SENSEX   81,289.96
 
- -200.66
+ -236.18
 
-##### NIFTY   24,619.00
+##### NIFTY   24,548.70
 
- -58.80
+ -93.10
 
-##### NIFTY   24,619.00
+##### NIFTY   24,548.70
 
- -58.80
+ -93.10
 
-##### CRUDEOIL   5,828.00
+##### CRUDEOIL   5,884.00
 
-+ 102.00
+ -50.00
 
-##### CRUDEOIL   5,828.00
+##### CRUDEOIL   5,884.00
 
-+ 102.00
+ -50.00
 
-##### GOLD   77,554.00
+##### GOLD   77,864.00
 
-+ 935.00
+ -1,138.00
 
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
@@ -707,12 +707,12 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 ##### Trending on businessline
 
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Meeting 2024](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-december-2024-live-news-shaktikanta-das-repo-rate-latest-updates/article68946864.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-3-december-2024/article68938705.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) C2C Advanced System IPO Live](https://www.thehindubusinessline.com/markets/stock-markets/c2c-advanced-systems-ipo-gmp-listing-today-share-price-live-updates-3-dec-2024/article68941027.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Top Business News Live](https://www.thehindubusinessline.com/companies/latest-business-news-today-live-updates-3-december-2024/article68918965.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Mobikwik IPO Live](https://www.thehindubusinessline.com/markets/stock-markets/one-mobikwik-systems-ipo-gmp-live-updates/article68969291.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Vishal Mega Mart IPO](https://www.thehindubusinessline.com/markets/stock-markets/vishal-mega-mart-ipo-gmp-live-updates/article68969239.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) IPO News Live](https://www.thehindubusinessline.com/markets/stock-markets/suraksha-diagnostic-ganesh-infraworld-ipo-subscription-news-today-live-updates-3-dec-2024/article68941111.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Tamil Nadu Rain Live](https://www.thehindubusinessline.com/news/tamil-nadu-chennai-pondicherry-rains-fengal-cyclone-live-news-updates/article68914195.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Top Business News Live](https://www.thehindubusinessline.com/companies/latest-business-news-today-live-updates-3-december-2024/article68918965.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Meeting 2024](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-december-2024-live-news-shaktikanta-das-repo-rate-latest-updates/article68946864.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Maharashtra Election Results 2024 Live](https://www.thehindubusinessline.com/news/maharashtra-assembly-election-results-2024-live-news-updates/article68899648.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Delhi Air Pollution Live](https://www.thehindubusinessline.com/news/national/delhi-weather-temperature-delhi-ncr-aqi-air-quality-pollution-live-updates-today-20-nov-2024/article68880880.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) IPL Auction 2025 Day 1 Live](https://www.thehindubusinessline.com/news/sports/ipl-2025-mega-auction-live-news-updates/article68902386.ece)
