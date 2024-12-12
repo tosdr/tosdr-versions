@@ -246,36 +246,30 @@ APPS
 
 Making educational experiences better for everyone.
 
-[![](https://neodarwin-prod.sdcdns.com/img/svgs/rosetta-stone.svg)
+[![](https://neodarwin-prod.sdcdns.com/img/svgs/ingles-logo.svg)
 
-Immersive learning for 25 languages](https://www.rosettastone.com/)
+English dictionary and learning for Spanish speakers](https://www.xn--ingls-esa.com/)[![](https://neodarwin-prod.sdcdns.com/img/svgs/french-dictionary-logo.svg)
 
-[![](https://neodarwin-prod.sdcdns.com/img/svgs/tpt-logo.svg)
+French-English dictionary, translator, and learning](https://www.frenchdictionary.com/)[![](https://neodarwin-prod.sdcdns.com/img/svgs/rosetta-stone.svg)
 
-Marketplace for millions of educator-created resources](https://www.teacherspayteachers.com/)
+Immersive learning for 25 languages](https://www.rosettastone.com/)[![](https://neodarwin-prod.sdcdns.com/img/svgs/dictionary-com-logo.svg)
 
-[![](https://neodarwin-prod.sdcdns.com/img/svgs/emmersion.svg)
+Comprehensive resource for word definitions and usage](https://www.dictionary.com/)[![](https://neodarwin-prod.sdcdns.com/img/svgs/thesaurus-com-logo.svg)
 
-Fast, easy, reliable language certification](https://www.emmersion.ai/)
+Essential reference for synonyms and antonyms](https://www.thesaurus.com/)[![](https://neodarwin-prod.sdcdns.com/img/svgs/vocabulary-com.svg)
 
-[![](https://neodarwin-prod.sdcdns.com/img/svgs/abcya.svg)
+Adaptive learning for English vocabulary](https://www.vocabulary.com/)[![](https://neodarwin-prod.sdcdns.com/img/svgs/emmersion.svg)
 
-Fun educational games for kids](https://www.abcya.com/)
+Fast, easy, reliable language certification](https://www.emmersion.ai/)[![](https://neodarwin-prod.sdcdns.com/img/svgs/abcya.svg)
 
-[![](https://neodarwin-prod.sdcdns.com/img/svgs/ixl-logo-2.svg)
+Fun educational games for kids](https://www.abcya.com/)[![](https://neodarwin-prod.sdcdns.com/img/svgs/wyzant.svg)
 
-Comprehensive K-12 personalized learning](https://www.ixl.com/)
+Trusted tutors for 300+ subjects](https://www.wyzant.com/)[![](https://neodarwin-prod.sdcdns.com/img/svgs/ixl-logo-2.svg)
 
-[![](https://neodarwin-prod.sdcdns.com/img/svgs/wyzant.svg)
+Comprehensive K-12 personalized learning](https://www.ixl.com/)[![](https://neodarwin-prod.sdcdns.com/img/svgs/tpt-logo.svg)
 
-Trusted tutors for 300+ subjects](https://www.wyzant.com/)
-
-[![](https://neodarwin-prod.sdcdns.com/img/svgs/education-com.svg)
+Marketplace for millions of educator-created resources](https://www.teacherspayteachers.com/)[![](https://neodarwin-prod.sdcdns.com/img/svgs/education-com.svg)
 
 35,000+ worksheets, games, and lesson plans](https://www.education.com/)
-
-[![](https://neodarwin-prod.sdcdns.com/img/svgs/vocabulary-com.svg)
-
-Adaptive learning for English vocabulary](https://www.vocabulary.com/)
 
 Copyright © 2024 Curiosity Media, Inc., a division of IXL Learning • All Rights Reserved.
