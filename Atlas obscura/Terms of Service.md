@@ -14,7 +14,34 @@ Force Open Search
 
 Open main menu
 
-Loading...
+![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
+
+Take your next trip with Atlas Obscura!
+---------------------------------------
+
+Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
+
+[Visit Adventures](https://www.atlasobscura.com/adventures/)
+
+Trips Highlight
+
+   [![Borneo orangutan](https://img.atlasobscura.com/N-jdSE978JBUhwq3plHsGnuhS8dtSChRRo3l5fL-VrI/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9mMWNi/NWY1Zi05NDkxLTQz/YzgtOWY0My1lYTU2/N2JhNmY2MjFiNmFk/YmZhNWIzODkzMjg0/ZWZfQm9ybmVvIDEg/LSBzaW1vbmUtbWls/bHdhcmQtbktHaW9f/NkVfNGstdW5zcGxh/c2guanBn.jpg)](https://www.atlasobscura.com/adventures/trips/borneo)
+
+Malaysia • 12 days, 11 nights
+
+[NEW - Wild Borneo: Secrets of an Ancient Rainforest](https://www.atlasobscura.com/adventures/trips/borneo)
+
+from
+
+   [![Taktsang Lhakhang, also known as the “Tiger’s Nest”.](https://img.atlasobscura.com/RSZIiueNnnDOP27x8SP3wpC8WS6H6-f16yFb7PVmaR0/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8zNjI0/NGRlMS05YzhjLTQ4/ZGUtOTExNy1kNzhk/NzRjMjBkYjllYTQ4/ZDAyYWM2N2RlODE3/MjVfc2h1dHRlcnN0/b2NrXzUxMjk4MzYy/MSAoMSkuanBn.jpg)](https://www.atlasobscura.com/adventures/trips/bhutan)
+
+Bhutan • 11 days, 10 nights
+
+[Festivals & Temples of Bhutan](https://www.atlasobscura.com/adventures/trips/bhutan)
+
+from
+
+[View all trips](https://www.atlasobscura.com/adventures/trips)
 
 Loading...
 
