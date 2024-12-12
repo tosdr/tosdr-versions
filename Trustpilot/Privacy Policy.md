@@ -34,6 +34,7 @@ For Everyone
 * [Copyright Dispute Policy](https://legal.trustpilot.com/for-everyone/copyright)
 * [Cookie Policy](https://legal.trustpilot.com/for-everyone/cookie-policy)
 * [Accessibility Statement](https://legal.trustpilot.com/for-everyone/accessibility-statement)
+* [Supplier Code of Conduct](https://legal.trustpilot.com/for-everyone/supplier-code-of-conduct)
 
 Privacy Policy
 ==============
