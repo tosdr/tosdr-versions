@@ -156,6 +156,8 @@
 
 * [DE](https://easy-feedback.de/agb/)
 
+easyfeedback is currently unavailable. We are working hard to make the tool available again as soon as possible. We expect easyfeedback to be available again within the next few hours. We apologise for the inconvenience and thank you for your understanding.
+
 General Terms and Conditions for the Service of easyfeedback
 ============================================================
 
