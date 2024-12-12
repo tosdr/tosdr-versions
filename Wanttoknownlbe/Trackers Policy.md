@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/fluor-over-het-gif-in-bijvoorbeeld-je-tandpasta/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/911-gewoon-even-n-paar-zaken-op-n-rijtje/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
