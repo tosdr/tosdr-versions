@@ -1,11 +1,5 @@
 [![](/assets/logo-text-gray-26b195a25ce6db1e678f9b15b0a34ed038d8dd81c0e6c9d70c3a17145d1a797f.png)](https://chartable.com/)
 
-  
-
-[Charts](https://chartable.com/charts)
-
-[Log in](https://chartable.com/sign_in)
-
 Terms of Service
 
 Last Updated: January 1, 2023
@@ -217,12 +211,6 @@ YOU EXPRESSLY ACKNOWLEDGE THAT CHARTABLE DISCLAIMS ANY LIABILITY FOR DAMAGES INC
 Indemnification for Chartable Dashboard
 
 You agree to indemnify and hold us, our directors, officers, employees and suppliers harmless to the fullest extent of applicable law from any claim, action, demand, loss, liability, damage, cost or expense (including, without limitation, legal fees) arising from or in connection with (i) your breach of these Dashboard Terms, (ii) your violation of any laws or regulations or third-party rights (such as intellectual property or privacy rights), (iii) any content you have submitted to or through Chartable Dashboard or (iv) any dispute you have or may have with other users or any third party.
-
-Podcasts
-
-[Podcast Reviews](https://chartable.com/publishers/podcast-reviews)
-
-[Podcast Charts](https://chartable.com/charts)
 
 Accounts
 
