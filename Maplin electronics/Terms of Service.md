@@ -276,6 +276,7 @@ Browse
         * [Networking](https://www.maplin.co.uk/collections/networking)
         * [Switches](https://www.maplin.co.uk/collections/network-switches)
         * [Routers](https://www.maplin.co.uk/collections/network-routers)
+        * [Powerlines](https://www.maplin.co.uk/collections/powerlines)
         * [Mobile Hotspots](https://www.maplin.co.uk/collections/mobile-hotspots)
         * [Wireless Adapters](https://www.maplin.co.uk/collections/wireless-adapters)
         
@@ -1086,6 +1087,7 @@ Browse
     
     * [Switches](https://www.maplin.co.uk/collections/network-switches)
     * [Routers](https://www.maplin.co.uk/collections/network-routers)
+    * [Powerlines](https://www.maplin.co.uk/collections/powerlines)
     * [Mobile Hotspots](https://www.maplin.co.uk/collections/mobile-hotspots)
     * [Wireless Adapters](https://www.maplin.co.uk/collections/wireless-adapters)
     
