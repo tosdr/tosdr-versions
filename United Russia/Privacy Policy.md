@@ -299,6 +299,38 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» провела в штабах общественной поддержки партии мероприятия ко Дню Конституции](https://cdn.er.ru/media/news/December2024/dvWBoCYcbitlZ5s4cenV-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provela-v-shtabah-obshestvennoj-podderzhki-partii-meropriyatiya-ko-dnyu-konstitucii)
+
+[«Единая Россия» провела в штабах общественной поддержки партии мероприятия ко Дню Конституции](https://er.ru/activity/news/edinaya-rossiya-provela-v-shtabah-obshestvennoj-podderzhki-partii-meropriyatiya-ko-dnyu-konstitucii)
+
+[#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#ДеньКонституции](https://er.ru/activity/news?tags%5B0%5D=1093468) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Вологодская область](https://er.ru/activity/news?tags%5B0%5D=4193) [#Ивановская область](https://er.ru/activity/news?tags%5B0%5D=611) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#Оренбургская область](https://er.ru/activity/news?tags%5B0%5D=269) [#Мурманская область](https://er.ru/activity/news?tags%5B0%5D=1927) [#Волгоградская область](https://er.ru/activity/news?tags%5B0%5D=444) [#Республика Башкортостан](https://er.ru/activity/news?tags%5B0%5D=490)
+
+Сегодня 18:15
+
+[![Анна Кузнецова: В декаду приёмов, приуроченную ко Дню рождения партии, в «Единую Россию» обратились почти 79 тысяч человек](https://cdn.er.ru/media/news/December2024/d1aEM9S6ewNm21g6reLw-small.jpg)](https://er.ru/activity/news/anna-kuznecova-v-dekadu-priyomov-priurochennuyu-ko-dnyu-rozhdeniya-partii-v-edinuyu-rossiyu-obratilis-pochti-79-tysyach-chelovek)
+
+[Анна Кузнецова: В декаду приёмов, приуроченную ко Дню рождения партии, в «Единую Россию» обратились почти 79 тысяч человек](https://er.ru/activity/news/anna-kuznecova-v-dekadu-priyomov-priurochennuyu-ko-dnyu-rozhdeniya-partii-v-edinuyu-rossiyu-obratilis-pochti-79-tysyach-chelovek)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#декадаприемов](https://er.ru/activity/news?tags%5B0%5D=113286) [#деньрожденияпартии](https://er.ru/activity/news?tags%5B0%5D=141860) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640)
+
+Сегодня 15:00
+
+[![«Единая Россия» обеспечила защиту прав детей и родителей при покупке жилья с использованием маткапитала](https://cdn.er.ru/media/news/December2024/8NJKywIsfetVkTWjCeth-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechila-zashitu-prav-detej-i-roditelej-pri-pokupke-zhilya-s-ispolzovaniem-matkapitala)
+
+[«Единая Россия» обеспечила защиту прав детей и родителей при покупке жилья с использованием маткапитала](https://er.ru/activity/news/edinaya-rossiya-obespechila-zashitu-prav-detej-i-roditelej-pri-pokupke-zhilya-s-ispolzovaniem-matkapitala)
+
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#материнскийкапитал](https://er.ru/activity/news?tags%5B0%5D=113800) [#жилье](https://er.ru/activity/news?tags%5B0%5D=113) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 13:34
+
+[![«Молодая Гвардия Единой России» провела акции ко Дню Конституции по всей стране](https://cdn.er.ru/media/news/December2024/Tk7dFe2yxlAaPJ6Wcq4f-small.jpeg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-provela-akcii-ko-dnyu-konstitucii-po-vsej-strane)
+
+[«Молодая Гвардия Единой России» провела акции ко Дню Конституции по всей стране](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-provela-akcii-ko-dnyu-konstitucii-po-vsej-strane)
+
+[#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Воробьев](https://er.ru/activity/news?tags%5B0%5D=114) [#Тульская область](https://er.ru/activity/news?tags%5B0%5D=2194) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ДеньКонституции](https://er.ru/activity/news?tags%5B0%5D=1093468) [#квизы](https://er.ru/activity/news?tags%5B0%5D=134874) [#триколор](https://er.ru/activity/news?tags%5B0%5D=3575)
+
+Сегодня 12:45
+
 [![«Единая Россия» внесла в Госдуму законопроект, который позволит подтвердить подлинность страниц НКО «знаком качества» через Госуслуги - они получат визуальное обозначение](https://cdn.er.ru/media/news/December2024/R9rFVxAmlnpwPUgCZ3Wz-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-v-gosdumu-zakonoproekt-kotoryj-pozvolit-podtverdit-podlinnost-stranic-nko-znakom-kachestva-cherez-gosuslugi-oni-poluchat-vizualnoe-oboznachenie)
 
 [«Единая Россия» внесла в Госдуму законопроект, который позволит подтвердить подлинность страниц НКО «знаком качества» через Госуслуги - они получат визуальное обозначение](https://er.ru/activity/news/edinaya-rossiya-vnesla-v-gosdumu-zakonoproekt-kotoryj-pozvolit-podtverdit-podlinnost-stranic-nko-znakom-kachestva-cherez-gosuslugi-oni-poluchat-vizualnoe-oboznachenie)
@@ -314,38 +346,6 @@
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#ДеньКонституции](https://er.ru/activity/news?tags%5B0%5D=1093468) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172)
 
 Сегодня 10:38
-
-[![«Единая Россия» отправила в ДНР тёплые вещи для жителей освобождённых населённых пунктов](https://cdn.er.ru/media/news/December2024/hS2l204kUiqjc7tg0Alg-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-otpravila-v-dnr-tyoplye-veshi-dlya-zhitelej-osvobozhdyonnyh-naselyonnyh-punktov)
-
-[«Единая Россия» отправила в ДНР тёплые вещи для жителей освобождённых населённых пунктов](https://er.ru/activity/news/edinaya-rossiya-otpravila-v-dnr-tyoplye-veshi-dlya-zhitelej-osvobozhdyonnyh-naselyonnyh-punktov)
-
-[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#ПВР](https://er.ru/activity/news?tags%5B0%5D=45895) [#одежда](https://er.ru/activity/news?tags%5B0%5D=28792)
-
-Сегодня 09:38
-
-[![Госдума приняла в первом чтении законопроект «Единой России» о праве добровольцев удостоверять доверенности и завещания у командира воинской части](https://cdn.er.ru/media/news/December2024/mPTooNUigqWOx8xwvL4D-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-prave-dobrovolcev-udostoveryat-doverennosti-i-zaveshaniya-u-komandira-voinskoj-chasti)
-
-[Госдума приняла в первом чтении законопроект «Единой России» о праве добровольцев удостоверять доверенности и завещания у командира воинской части](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-prave-dobrovolcev-udostoveryat-doverennosti-i-zaveshaniya-u-komandira-voinskoj-chasti)
-
-[#Цунаева](https://er.ru/activity/news?tags%5B0%5D=115584) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#доверенность](https://er.ru/activity/news?tags%5B0%5D=26199) [#завещание](https://er.ru/activity/news?tags%5B0%5D=7049) [#документы](https://er.ru/activity/news?tags%5B0%5D=5957)
-
-11.12.24
-
-[![Госдума единогласно в первом чтении одобрила инициативу «Единой России» об увековечивании памяти жертв геноцида советского народа в период Великой Отечественной войны](https://cdn.er.ru/media/news/December2024/GOFeKRMdZSH3ZJa0VTAi-small.jpg)](https://er.ru/activity/news/gosduma-edinoglasno-v-pervom-chtenii-odobrila-iniciativu-edinoj-rossii-ob-uvekovechivanii-pamyati-zhertv-genocida-sovetskogo-naroda-v-period-velikoj-otechestvennoj-vojny)
-
-[Госдума единогласно в первом чтении одобрила инициативу «Единой России» об увековечивании памяти жертв геноцида советского народа в период Великой Отечественной войны](https://er.ru/activity/news/gosduma-edinoglasno-v-pervom-chtenii-odobrila-iniciativu-edinoj-rossii-ob-uvekovechivanii-pamyati-zhertv-genocida-sovetskogo-naroda-v-period-velikoj-otechestvennoj-vojny)
-
-[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#геноцид](https://er.ru/activity/news?tags%5B0%5D=58283) [#ВеликаяОтечественнаявойна](https://er.ru/activity/news?tags%5B0%5D=1093130)
-
-11.12.24
-
-[![«Единая Россия» примет активное участие в решении вопросов повышения качества преподавания математики и естественно-научных предметов](https://cdn.er.ru/media/news/December2024/KG0uUXu2DiTsuLQRYa3D-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-primet-aktivnoe-uchastie-v-reshenii-voprosov-povysheniya-kachestva-prepodavaniya-matematiki-i-estestvenno-nauchnyh-predmetov)
-
-[«Единая Россия» примет активное участие в решении вопросов повышения качества преподавания математики и естественно-научных предметов](https://er.ru/activity/news/edinaya-rossiya-primet-aktivnoe-uchastie-v-reshenii-voprosov-povysheniya-kachestva-prepodavaniya-matematiki-i-estestvenno-nauchnyh-predmetov)
-
-[#Шмелева](https://er.ru/activity/news?tags%5B0%5D=35207) [#Генсовет](https://er.ru/activity/news?tags%5B0%5D=121) [#комиссия](https://er.ru/activity/news?tags%5B0%5D=168) [#преподавание](https://er.ru/activity/news?tags%5B0%5D=3944) [#математика](https://er.ru/activity/news?tags%5B0%5D=42132) [#естественныенауки](https://er.ru/activity/news?tags%5B0%5D=143161)
-
-11.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
