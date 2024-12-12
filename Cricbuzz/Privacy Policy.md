@@ -38,7 +38,7 @@ More
 
 My Account Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AFG vs ZIM - ZIM Won](https://www.cricbuzz.com/live-cricket-scores/109320/afg-vs-zim-1st-t20i-afghanistan-tour-of-zimbabwe-2024-25 "Afghanistan v Zimbabwe, 1st T20I - ZIM Won")[RSAW vs ENGW - Live](https://www.cricbuzz.com/live-cricket-scores/94469/rsaw-vs-engw-3rd-odi-icc-championship-match-england-women-tour-of-south-africa-2024 "South Africa Women v England Women, 3rd ODI (ICC Championship Match) - Live")[KDB vs GAM - GAM Won](https://www.cricbuzz.com/live-cricket-scores/110169/kdb-vs-gam-3rd-match-lanka-t10-super-league-2024 "Kandy Bolts v Galle Marvels, 3rd Match - GAM Won")[WI vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/95227/wi-vs-ban-3rd-odi-bangladesh-tour-of-west-indies-2024 "West Indies v Bangladesh, 3rd ODI - Preview")[DEL vs UP - DEL Won](https://www.cricbuzz.com/live-cricket-scores/99079/del-vs-up-quarter-final-2-syed-mushtaq-ali-trophy-2024 "Delhi v Uttar Pradesh, Quarter Final 2 - DEL Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AFG vs ZIM - ZIM Won](https://www.cricbuzz.com/live-cricket-scores/109320/afg-vs-zim-1st-t20i-afghanistan-tour-of-zimbabwe-2024-25 "Afghanistan v Zimbabwe, 1st T20I - ZIM Won")[RSAW vs ENGW - ENGW Won](https://www.cricbuzz.com/live-cricket-scores/94469/rsaw-vs-engw-3rd-odi-icc-championship-match-england-women-tour-of-south-africa-2024 "South Africa Women v England Women, 3rd ODI (ICC Championship Match) - ENGW Won")[KDB vs GAM - GAM Won](https://www.cricbuzz.com/live-cricket-scores/110169/kdb-vs-gam-3rd-match-lanka-t10-super-league-2024 "Kandy Bolts v Galle Marvels, 3rd Match - GAM Won")[WI vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/95227/wi-vs-ban-3rd-odi-bangladesh-tour-of-west-indies-2024 "West Indies v Bangladesh, 3rd ODI - Preview")[DEL vs UP - DEL Won](https://www.cricbuzz.com/live-cricket-scores/99079/del-vs-up-quarter-final-2-syed-mushtaq-ali-trophy-2024 "Delhi v Uttar Pradesh, Quarter Final 2 - DEL Won")
 
 AllLive NowToday
 
@@ -50,11 +50,19 @@ AllLive NowToday
     
     2nd Test
     
+* [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Upcoming")
+    
+    3rd Test
+    
 * New Zealand v England, 2024
     
     [England vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/92399/eng-vs-nz-2nd-test-new-zealand-v-england-2024 "England v New Zealand, 2nd Test - ENG Won")
     
     2nd Test
+    
+* [New Zealand vs England](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-new-zealand-v-england-2024 "New Zealand v England, 3rd Test - Upcoming")
+    
+    3rd Test
     
 * Afghanistan tour of Zimbabwe, 2024-25
     
@@ -78,13 +86,13 @@ AllLive NowToday
     
 * ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024
     
-    [Cayman Islands vs Suriname](https://www.cricbuzz.com/live-cricket-scores/111381/caym-vs-sn-match-13-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Cayman Islands v Suriname, Match 13 - SN Won")
-    
-    Match 13
-    
-* [Bahamas vs Belize](https://www.cricbuzz.com/live-cricket-scores/111389/bhm-vs-blz-match-14-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Belize, Match 14 - BHM Won")
+    [Bahamas vs Belize](https://www.cricbuzz.com/live-cricket-scores/111389/bhm-vs-blz-match-14-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Belize, Match 14 - BHM Won")
     
     Match 14
+    
+* [Cayman Islands vs Suriname](https://www.cricbuzz.com/live-cricket-scores/111381/caym-vs-sn-match-13-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Cayman Islands v Suriname, Match 13 - SN Won")
+    
+    Match 13
     
 * [Panama vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111405/pan-vs-arg-match-16-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Argentina, Match 16 - ARG Won")
     
@@ -110,13 +118,13 @@ AllLive NowToday
     
     Match 19
     
-* [Brazil vs Panama](https://www.cricbuzz.com/live-cricket-scores/111433/brazil-vs-pan-match-21-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Brazil v Panama, Match 21 - Upcoming")
-    
-    Match 21
-    
 * [Mexico vs Suriname](https://www.cricbuzz.com/live-cricket-scores/111441/mex-vs-sn-match-22-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Mexico v Suriname, Match 22 - Upcoming")
     
     Match 22
+    
+* [Brazil vs Panama](https://www.cricbuzz.com/live-cricket-scores/111433/brazil-vs-pan-match-21-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Brazil v Panama, Match 21 - Upcoming")
+    
+    Match 21
     
 * [Bermuda vs Belize](https://www.cricbuzz.com/live-cricket-scores/111449/ber-vs-blz-match-24-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Belize, Match 24 - Upcoming")
     
@@ -252,17 +260,17 @@ AllLive NowToday
     
 * Plunket Shield
     
-    [Auckland vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107483/akl-vs-wel-10th-match-plunket-shield "Auckland v Wellington, 10th Match - WEL Won")
-    
-    10th Match
-    
-* [Otago vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107497/otg-vs-cntbry-12th-match-plunket-shield "Otago v Canterbury, 12th Match - CNTBRY Won")
+    [Otago vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107497/otg-vs-cntbry-12th-match-plunket-shield "Otago v Canterbury, 12th Match - CNTBRY Won")
     
     12th Match
     
 * [Northern Knights vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107489/nk-vs-cd-11th-match-plunket-shield "Northern Knights v Central Districts, 11th Match - Match drawn")
     
     11th Match
+    
+* [Auckland vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107483/akl-vs-wel-10th-match-plunket-shield "Auckland v Wellington, 10th Match - WEL Won")
+    
+    10th Match
     
 * WOMEN
     
@@ -288,7 +296,7 @@ AllLive NowToday
     
 * South Africa Women v England Women, 2024
     
-    [South Africa Women vs England Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/94469/rsaw-vs-engw-3rd-odi-icc-championship-match-south-africa-women-v-england-women-2024 "South Africa Women v England Women, 3rd ODI (ICC Championship Match) - Live")
+    [South Africa Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/94469/rsaw-vs-engw-3rd-odi-icc-championship-match-south-africa-women-v-england-women-2024 "South Africa Women v England Women, 3rd ODI (ICC Championship Match) - ENGW Won")
     
     3rd ODI (ICC Championship Match)
     
@@ -599,41 +607,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132728/qualifying-for-ct-2025-a-notable-achievement-in-afghanistans-recent-history "'Qualifying for CT 2025 a notable achievement in Afghanistan's recent history'")
+
+['Qualifying for CT 2025 a notable achievement in Afghanistan's recent history'](https://www.cricbuzz.com/cricket-news/132728/qualifying-for-ct-2025-a-notable-achievement-in-afghanistans-recent-history "'Qualifying for CT 2025 a notable achievement in Afghanistan's recent history'")
+
+5m ago
+
   [](https://www.cricbuzz.com/cricket-news/132727/definitely-got-outplayed-by-australia-mandhana "Definitely got outplayed by Australia - Mandhana")
 
 [Definitely got outplayed by Australia - Mandhana](https://www.cricbuzz.com/cricket-news/132727/definitely-got-outplayed-by-australia-mandhana "Definitely got outplayed by Australia - Mandhana")
 
-2h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132726/zimbabwe-seal-last-ball-finish-to-go-1-0-up "Zimbabwe seal last-ball finish to go 1-0 up")
 
 [Zimbabwe seal last-ball finish to go 1-0 up](https://www.cricbuzz.com/cricket-news/132726/zimbabwe-seal-last-ball-finish-to-go-1-0-up "Zimbabwe seal last-ball finish to go 1-0 up")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132725/amid-ct-impasse-jay-shah-reaches-brisbane-for-potential-olympics-meeting "Amid CT impasse, Jay Shah reaches Brisbane for potential Olympics meeting")
 
 [Amid CT impasse, Jay Shah reaches Brisbane for potential Olympics meeting](https://www.cricbuzz.com/cricket-news/132725/amid-ct-impasse-jay-shah-reaches-brisbane-for-potential-olympics-meeting "Amid CT impasse, Jay Shah reaches Brisbane for potential Olympics meeting")
 
-5h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132724/im-really-proud-how-far-the-girls-have-come "'I'm really proud how far the girls have come'")
 
 ['I'm really proud how far the girls have come'](https://www.cricbuzz.com/cricket-news/132724/im-really-proud-how-far-the-girls-have-come "'I'm really proud how far the girls have come'")
 
-5h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132723/sutherland-gardner-star-as-australia-complete-whitewash "Sutherland, Gardner star as Australia complete whitewash")
 
 [Sutherland, Gardner star as Australia complete whitewash](https://www.cricbuzz.com/cricket-news/132723/sutherland-gardner-star-as-australia-complete-whitewash "Sutherland, Gardner star as Australia complete whitewash")
 
-6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132722/no-sign-of-a-thaw-in-champions-trophy-stalemate "No sign of a thaw in Champions Trophy stalemate")
-
-[No sign of a thaw in Champions Trophy stalemate](https://www.cricbuzz.com/cricket-news/132722/no-sign-of-a-thaw-in-champions-trophy-stalemate "No sign of a thaw in Champions Trophy stalemate")
-
-6h ago
+11h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
