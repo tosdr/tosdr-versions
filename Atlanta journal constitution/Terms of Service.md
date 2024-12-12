@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Atlanta area remains off-limits to Young Thug this holiday season, judge says](https://www.ajc.com/news/crime/atlanta-area-remains-off-limits-to-young-thug-this-holiday-season-judge-says/LRIOJ64DPBATHFGN7BAWH5V4XU/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1891)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1891)](https://www.ajc.com/)
 
 Log In
