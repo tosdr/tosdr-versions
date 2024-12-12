@@ -10,7 +10,7 @@
     * [Skip to main content](#main-content)
     * [Terms of use - Golden Rule](https://www.uhone.com/about-us/legal/terms-of-use)
 
-* View more about Terms of Use
+* Browse Terms of Use [Terms of Use](https://www.uhc.com/privacy/terms-of-use)
     
     * [Skip to main content](#main-content)
     * [Terms of use - Golden Rule](https://www.uhone.com/about-us/legal/terms-of-use)
