@@ -17,12 +17,12 @@ Login with username, password and session length
 News:
 -----
 
-Join our chat room on [Discord](https://www.thefurryforum.com/forums/index.php?topic=38553.0)! We'd love to chat with you!
+[Donations](https://www.thefurryforum.com/forums/index.php?action=treasury) keep our forum going! You get some nifty [perks](https://www.thefurryforum.com/forums/index.php?topic=15189.0) with it too!
 
   
   
 
-[![Juliet](adverts/juliet.png "Juliet")](https://www.furaffinity.net/user/julietthewhitewitch)
+[![WingedZephyr](adverts/zeph.gif "WingedZephyr")](http://www.furaffinity.net/user/wingedzephyr)
 
   
 
@@ -146,4 +146,4 @@ Powered by [EzPortal](http://www.ezportal.com/)
 
 * [SMF 2.0.19](https://www.thefurryforum.com/forums/index.php?action=credits "Simple Machines Forum") | [SMF © 2011](http://www.simplemachines.org/about/smf/license.php "License"), [Simple Machines](http://www.simplemachines.org/ "Simple Machines") | [Terms and Policies](https://www.thefurryforum.com/forums/index.php?action=agreement)
 
-[](https://www.thefurryforum.com/cookinghightest.php)
+[anything](https://www.thefurryforum.com/cookinghightest.php)
