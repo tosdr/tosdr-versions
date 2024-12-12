@@ -21,6 +21,7 @@
     * [Glossary](https://www.endurancewarranty.com/auto-warranty-glossary/)
     * [Contact Us](https://www.endurancewarranty.com/contact/)
     * [Find a Repair Shop](https://www.endurancewarranty.com/repair/)
+    * [Filing a Claim](https://www.endurancewarranty.com/file-a-claim/)
     
 
 EN
@@ -95,6 +96,7 @@ Resources
 * [Auto Warranty Glossary](https://www.endurancewarranty.com/auto-warranty-glossary/)
 * [Sample Contracts](https://www.endurancewarranty.com/sample-contracts/)
 * [Find a Repair Shop](https://www.endurancewarranty.com/repair/)
+* [Filing a Claim](https://www.endurancewarranty.com/file-a-claim/)
 
 Endurance
 ---------
