@@ -118,9 +118,9 @@ Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/mya
 
 Screenshots needed
 
-* [Knights of Valour 2: New Legend](https://www.myabandonware.com/game/knights-of-valour-2-new-legend-rwl)
-* [M: Kimi wo Tsutaete](https://www.myabandonware.com/game/m-kimi-wo-tsutaete-p8e)
-* [Darwin 4078](https://www.myabandonware.com/game/darwin-4078-qrk)
+* [Rollergames](https://www.myabandonware.com/game/rollergames-rnx)
+* [Alias Underground Episode 7: Phase One](https://www.myabandonware.com/game/alias-underground-episode-7-phase-one-o1r)
+* [Sega Ages Memorial Selection Vol. 2](https://www.myabandonware.com/game/sega-ages-memorial-selection-vol-2-nff)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
