@@ -9,7 +9,7 @@
     * [Skip to main content](#main-content)
     * [Privacy - Golden Rule](https://www.uhone.com/about-us/legal/privacy)
 
-* View more about Privacy
+* Browse Privacy [Privacy](https://www.uhc.com/privacy)
     
     * [Skip to main content](#main-content)
     * [Privacy - Golden Rule](https://www.uhone.com/about-us/legal/privacy)
