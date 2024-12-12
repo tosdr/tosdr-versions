@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)2°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)2°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
-* [People](https://www.watson.ch/fr/people/)
+* [Votation](https://www.watson.ch/fr/votation/)
+* [France](https://www.watson.ch/fr/france/)
+* [Police](https://www.watson.ch/fr/police/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [Emmanuel Macron](https://www.watson.ch/fr/emmanuel-macron/)
+* [Coupe du monde](https://www.watson.ch/fr/coupe-du-monde/)
 * [Travail](https://www.watson.ch/fr/travail/)
 * [Facebook](https://www.watson.ch/fr/facebook/)
 * [Politique](https://www.watson.ch/fr/politique/)
-* [Karin Keller-Sutter](https://www.watson.ch/fr/karin-keller-sutter/)
+* [Football](https://www.watson.ch/fr/football/)
 * [Médias](https://www.watson.ch/fr/medias/)
-* [Syrie](https://www.watson.ch/fr/syrie/)
-* [Russie](https://www.watson.ch/fr/russie/)
-* [Dubaï](https://www.watson.ch/fr/dubai/)
+* [Netflix](https://www.watson.ch/fr/netflix/)
+* [Union Européenne](https://www.watson.ch/fr/union-europeenne/)
 * [Argent](https://www.watson.ch/fr/argent/)
-* [Arnaque](https://www.watson.ch/fr/arnaque/)
+* [AVS](https://www.watson.ch/fr/avs/)
+* [Vaud](https://www.watson.ch/fr/vaud/)
+* [Cinéma](https://www.watson.ch/fr/cinema/)
 * [avion](https://www.watson.ch/fr/avion/)
-* [Confédération](https://www.watson.ch/fr/confederation/)
-* [Interview](https://www.watson.ch/fr/interview/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Justice](https://www.watson.ch/fr/justice/)
-* [Poutine](https://www.watson.ch/fr/poutine/)
 * [Bachar al-Assad](https://www.watson.ch/fr/bachar-al-assad/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
