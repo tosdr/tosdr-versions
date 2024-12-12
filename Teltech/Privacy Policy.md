@@ -1,12 +1,12 @@
 [](https://bendingspoons.com/)
 
-[About us](https://bendingspoons.com/)[Values](https://bendingspoons.com/values)[Products](https://bendingspoons.com/products)[Technologies](https://bendingspoons.com/technologies)[People](https://bendingspoons.com/people)[Events](https://bendingspoons.com/events)[Careers](https://bendingspoons.com/careers)[Jobs](https://jobs.bendingspoons.com/?utm_source=website&utm_medium=nav_link)
+[About us](https://bendingspoons.com/)[Values](https://bendingspoons.com/values)[Products](https://bendingspoons.com/products)[Technologies](https://bendingspoons.com/technologies)[People](https://bendingspoons.com/people)[Events](https://bendingspoons.com/events)[Careers](https://bendingspoons.com/careers)[Jobs](https://jobs.bendingspoons.com/?utm_source=bendingspoons&utm_medium=website&utm_content=nav_link)
 
 [](https://bendingspoons.com/)
 
 [](https://teltech.co/)
 
-[About us](https://bendingspoons.com/)[Values](https://bendingspoons.com/values)[Products](https://bendingspoons.com/products)[Technologies](https://bendingspoons.com/technologies)[People](https://bendingspoons.com/people)[Events](https://bendingspoons.com/events)[Careers](https://bendingspoons.com/careers)[Jobs](https://jobs.bendingspoons.com/?utm_source=website&utm_medium=nav_link)
+[About us](https://bendingspoons.com/)[Values](https://bendingspoons.com/values)[Products](https://bendingspoons.com/products)[Technologies](https://bendingspoons.com/technologies)[People](https://bendingspoons.com/people)[Events](https://bendingspoons.com/events)[Careers](https://bendingspoons.com/careers)[Jobs](https://jobs.bendingspoons.com/?utm_source=bendingspoons&utm_medium=website&utm_content=nav_link)
 
 **Last Updated: 15 October 2024**
 
@@ -510,7 +510,7 @@ Company
 
 [Careers](https://bendingspoons.com/careers)
 
-[Jobs](https://jobs.bendingspoons.com/?utm_source=website&utm_medium=footer_link)
+[Jobs](https://jobs.bendingspoons.com/?utm_source=bendingspoons&utm_medium=website&utm_content=footer_link)
 
 [Compliance](https://support.bendingspoons.com/compliance.html)
 
