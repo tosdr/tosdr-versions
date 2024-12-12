@@ -213,18 +213,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
-    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
-    
-    **19.09.2024 | 10:00**
-    
-    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
-    
-    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
-    
-    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
-    
-    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
     [10:00 Antonio Pichillá Quiacaín, LJ](javascript:void(0);)
     
     **19.09.2024 | 10:00**
@@ -238,6 +226,18 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     Kustosinja razstave: Yasmín Martín Vodopivec
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
+    
+    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
+    
+    **19.09.2024 | 10:00**
+    
+    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
+    
+    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
+    
+    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
+    
+    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
     
     [10:00 Slikarska zbirka Muzeja za umetnost in obrt Zagreb, LJ](javascript:void(0);)
     
@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20062007/jelena-stojanovic/jelena-stojanovic-1.jpg?itok=w-7tMi0w)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20062007/jelena)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nina-i-miodrag-stankovic/nina-stankovic/connected-disconnected/3.jpg?itok=vzD9fjeu)](http://seecult.org/galerija/galerija-umetnika/nina-i-miodrag-stankovic/nina-stankovic/connected-disconnected)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/glastonberi-2007/gogol-bordello.jpg?itok=38bnVKGj)](http://seecult.org/galerija/foto-galerija/foto-arhiva/glastonberi-2007)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/history-memory-identity/khoroshilova.jpg?itok=7oDMr-Ii)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/history-memory-identity)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
