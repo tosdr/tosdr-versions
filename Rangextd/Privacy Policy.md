@@ -118,13 +118,13 @@ Discover the hottest items flying off the shelves.
     
     $169.99 $69.99
     
-* Sale -50% [![Blaux Heater - Portable Warmth, Efficient Heating 450W](//savvysmartdeals.com/cdn/shop/files/Stack_6f8e22a8-db39-4f14-8b30-0dbc56e0276a.png?v=1727162144&width=465)![Blaux Heater - Portable Warmth, Efficient Heating 450W](//savvysmartdeals.com/cdn/shop/files/stack1_075b026c-1ddb-4c74-a8aa-04c8d892a4ab.png?v=1727162143&width=465)](https://www.rangextd.com/products/blaux-heater-450w)
+* Sale -69% [![Blaux Heater - Portable Warmth, Efficient Heating 450W](//savvysmartdeals.com/cdn/shop/files/Stack_6f8e22a8-db39-4f14-8b30-0dbc56e0276a.png?v=1727162144&width=465)![Blaux Heater - Portable Warmth, Efficient Heating 450W](//savvysmartdeals.com/cdn/shop/files/stack1_075b026c-1ddb-4c74-a8aa-04c8d892a4ab.png?v=1727162143&width=465)](https://www.rangextd.com/products/blaux-heater-450w)
     
     ### [Blaux Heater - Portable Warmth, Efficient Heating 450W](https://www.rangextd.com/products/blaux-heater-450w)
     
     Next day delivery
     
-    $159.99 $79.99
+    $159.99 $49.99
     
 * Sale -50% [![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/45b73ad83fddd9a705b1795e04ee6fb4.png?v=1721296571&width=465)![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/d4377ec58d44e370d98f033038246f58_89c6a325-b2bc-4e7e-a0cf-76c5d97ce655.png?v=1721296571&width=465)](https://www.rangextd.com/products/kore-2-0)
     
