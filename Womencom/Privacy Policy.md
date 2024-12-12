@@ -43,20 +43,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Close-up of Emma Watson smiling at 2022 Paris Fashion Week](https://www.women.com/img/gallery/the-best-books-from-emma-watsons-book-club-our-shared-shelf/intro-1733425939.jpg)](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
+*  [![](https://www.women.com/img/gallery/taylor-swifts-most-iconic-eras-tour-outfits-ranked/intro-1734033449.jpg)](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
     
-    [Living](https://www.women.com/category/living/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+    [Fashion](https://www.women.com/category/fashion/) By Rose McMackin
     
-    [The Best Books From Emma Watson's Book Club, Our Shared Shelf](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
-    =================================================================================================================================================
+    [Taylor Swift's Most Iconic Eras Tour Outfits, Ranked](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
+    ===================================================================================================================================
     
-    Feminist essays and deeply personal nonfiction are just a few of the great books selected by Emma Watson for her book club, Our Shared Shelf.
+    After nearly two years, the Eras Tour is officially over. But the memorable looks Taylor Swift brought to the stage left their mark on fashion history.
     
-    By Madison Emily Whisenand [Read More](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
+    By Rose McMackin [Read More](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
     
-* *  [![Sydney Sweeney and Jonathan Davino at an event](https://www.women.com/img/gallery/red-flags-in-sydney-sweeney-and-jonathan-davinos-relationship/intro-1733863099.jpg)](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
+* *  [![Close-up of Emma Watson smiling at 2022 Paris Fashion Week](https://www.women.com/img/gallery/the-best-books-from-emma-watsons-book-club-our-shared-shelf/intro-1733425939.jpg)](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+        
+        ### [The Best Books From Emma Watson's Book Club, Our Shared Shelf](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
+        
+        Feminist essays and deeply personal nonfiction are just a few of the great books selected by Emma Watson for her book club, Our Shared Shelf.
+        
+        By Madison Emily Whisenand [Read More](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
+        
+    *  [![Sydney Sweeney and Jonathan Davino at an event](https://www.women.com/img/gallery/red-flags-in-sydney-sweeney-and-jonathan-davinos-relationship/intro-1733863099.jpg)](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
         
         [Relationships](https://www.women.com/category/relationships/)
         
@@ -68,22 +80,22 @@
         
         By Bernadette Roe [Read More](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
         
-    *  [![Pamela Anderson posing](https://www.women.com/img/gallery/pamela-anderson-is-still-gorgeous-going-makeup-free/intro-1733343581.jpg)](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-        
-        ### [Pamela Anderson Is Still Gorgeous Going Makeup Free](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
-        
-        Stripping back the glam has not only made Pamela Anderson feel more confident, but has also inspired others to feel comfortable in their skin.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
-        
 
 More Stories
 ------------
 
+*  [![Pamela Anderson posing](https://www.women.com/img/gallery/pamela-anderson-is-still-gorgeous-going-makeup-free/intro-1733343581.jpg)](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [Pamela Anderson Is Still Gorgeous Going Makeup Free](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
+    
+    Stripping back the glam has not only made Pamela Anderson feel more confident, but has also inspired others to feel comfortable in their skin.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
+    
 *  [![Angled close-up of Jenna Ortega with a shaggy hairstyle](https://www.women.com/img/gallery/5-celebs-who-have-rocked-the-trendy-wolf-cut/intro-1732558119.jpg)](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -395,18 +407,6 @@ More Stories
     As beneficial as Botox can be for many people, it's not free of downsides, migration being one of them. But don't let social media scare you.
     
     By Amanda Chatel [Read More](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
-    
-*  [![Angled close-up of Billie Eilish at the 2024 People's Choice Awards](https://www.women.com/img/gallery/the-stunning-transformation-of-billie-eilishs-ever-evolving-personal-style/intro-1732034136.jpg)](https://www.women.com/1717137/stunning-transformation-billie-eilish-personal-style/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Madison Emily Whisenand
-    
-    ### [The Stunning Transformation Of Billie Eilish's Ever-Evolving Personal Style](https://www.women.com/1717137/stunning-transformation-billie-eilish-personal-style/)
-    
-    In a world of revolving trends, fashion experts emphasize the timelessness of personal style, a concept that artist Billie Eilish is very familiar with.
-    
-    By Madison Emily Whisenand [Read More](https://www.women.com/1717137/stunning-transformation-billie-eilish-personal-style/)
     
 
 Back
