@@ -247,23 +247,23 @@ Past Week
 
 _By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplakoglu)
 
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/12/Superconductor-Zoo_crMark-Belan-Thumbnail.webp)](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
-
-[#### Exotic New Superconductors Delight and Confound](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
-
-_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
-
 [![](https://www.quantamagazine.org/wp-content/uploads/2024/12/Quantum-Error-Correction_crDave-Whyte-Thumbnail.webp)](https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/)
 
 [#### Quantum Computers Cross Critical Error Threshold](https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/)
 
 _By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
 
-[![A man in a blue suit sits in front of a red mechanical apparatus](https://www.quantamagazine.org/wp-content/uploads/2024/11/RajReddy-cr.ElliottCramer-Thumbnail.jpg)](https://www.quantamagazine.org/the-ai-pioneer-with-provocative-plans-for-humanity-20241204/)
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/12/Superconductor-Zoo_crMark-Belan-Thumbnail.webp)](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
 
-[#### The AI Pioneer With Provocative Plans for Humanity](https://www.quantamagazine.org/the-ai-pioneer-with-provocative-plans-for-humanity-20241204/)
+[#### Exotic New Superconductors Delight and Confound](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
 
-_By_ [Susan D'Agostino](https://www.quantamagazine.org/authors/dagostino_susan)
+_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
+
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/12/PrimeCounts-cr.SamuelVelasco-Thumbnail.webp)](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
+
+[#### Mathematicians Uncover a New Way to Count Prime Numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
+
+_By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
 
 The Quanta Newsletter
 
