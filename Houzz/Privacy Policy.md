@@ -589,51 +589,51 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 
 [![Shop Promo Banner](https://st.hzcdn.com/fimgs/8b412a1507562f7a_1503-w1132-h1444-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--cyber-monday-sale)
 
-[![Cyber Bestsellers Under $299](https://st.hzcdn.com/fimgs/8a119f8807562018_7560-w300-h300-b4-p0--home-design.jpg)
+[![Ultimate Savings on Best Sellers](https://st.hzcdn.com/fimgs/aef1f8dc075a5190_2369-w300-h300-b4-p0--home-design.jpg)
 
-Cyber Bestsellers Under $299Up to 80% off](https://www.houzz.com/ideabooks/178967095)[![The Ultimate Bathroom Sale](https://st.hzcdn.com/fimgs/5c113af507562014_7557-w300-h300-b4-p0--home-design.jpg)
+Ultimate Savings on Best SellersUp to 75% off](https://www.houzz.com/ideabooks/179076310)[![The Ultimate Vanity Sale](https://st.hzcdn.com/fimgs/6a110e40075a518f_2367-w300-h300-b4-p0--home-design.jpg)
 
-The Ultimate Bathroom SaleUp to 60% off](https://www.houzz.com/ideabooks/178947278)[![The Ultimate Decor Sale](https://st.hzcdn.com/fimgs/f52133d407562013_7555-w300-h300-b4-p0--home-design.jpg)
+The Ultimate Vanity SaleUp to 55% off](https://www.houzz.com/ideabooks/179076392)[![The Ultimate Living Room Sale](https://st.hzcdn.com/fimgs/4fc1c2ae075a518a_2363-w300-h300-b4-p0--home-design.jpg)
 
-The Ultimate Decor SaleUp to 80% off](https://www.houzz.com/ideabooks/179046305)[![The Ultimate Dining Sale](https://st.hzcdn.com/fimgs/a5014c5b07562015_7559-w300-h300-b4-p0--home-design.jpg)
+The Ultimate Living Room SaleUp to 65% off](https://www.houzz.com/ideabooks/179178792)[![The Ultimate Rug Sale](https://st.hzcdn.com/fimgs/fc51d71f075a518d_2366-w300-h300-b4-p0--home-design.jpg)
 
-The Ultimate Dining SaleUp to 75% off](https://www.houzz.com/ideabooks/179046336)
+The Ultimate Rug SaleUp to 75% off](https://www.houzz.com/ideabooks/179179245)
 
 Looking for the perfect gift? Send a [Houzz Gift Card!](https://www.houzz.com/gift-card)
 
 Cancel
 
-[Cyber Week Extended Sale](https://www.houzz.com/products/sale-event--cyber-monday-sale)
+['Tis the Savings Sale](https://www.houzz.com/sales)
 
 [ON SALE - UP TO 75% OFF](https://www.houzz.com/sales)
 
 [Bathroom Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/on-sale)[Chandeliers](https://www.houzz.com/products/chandeliers/on-sale)[Bar Stools](https://www.houzz.com/products/bar-stools-and-counter-stools/on-sale)[Pendant Lights](https://www.houzz.com/products/pendant-lighting/on-sale)[Rugs](https://www.houzz.com/products/rugs/on-sale)[Living Room Chairs](https://www.houzz.com/products/chairs/on-sale)[Dining Room Furniture](https://www.houzz.com/products/kitchen-and-dining-furniture/on-sale)[Wall Lighting](https://www.houzz.com/products/wall-lighting/on-sale)[Coffee Tables](https://www.houzz.com/products/coffee-tables/on-sale)[Side & End Tables](https://www.houzz.com/products/side-tables-and-accent-tables/on-sale)[Home Office Furniture](https://www.houzz.com/products/home-office-furniture/on-sale)[Sofas](https://www.houzz.com/products/sofas/on-sale)[Bedroom Furniture](https://www.houzz.com/products/bedroom-furniture/on-sale)[Lamps](https://www.houzz.com/products/lamps/on-sale)[Mirrors](https://www.houzz.com/products/mirrors/on-sale)
 
-[Cyber Week Extended](https://www.houzz.com/products/sale-event--cyber-monday-sale)
+['Tis the Savings](https://www.houzz.com/sales)
 
-[![Cyber Bestsellers Under $299](https://st.hzcdn.com/fimgs/8a119f8807562018_7560-w300-h300-b0-p0--home-design.jpg)
-
-UP TO 80% OFF
-
-Cyber Bestsellers Under $299](https://www.houzz.com/ideabooks/178967095) 
-
-[![The Ultimate Bathroom Sale](https://st.hzcdn.com/fimgs/5c113af507562014_7557-w300-h300-b0-p0--home-design.jpg)
-
-UP TO 60% OFF
-
-The Ultimate Bathroom Sale](https://www.houzz.com/ideabooks/178947278) 
-
-[![The Ultimate Decor Sale](https://st.hzcdn.com/fimgs/f52133d407562013_7555-w300-h300-b0-p0--home-design.jpg)
-
-UP TO 80% OFF
-
-The Ultimate Decor Sale](https://www.houzz.com/ideabooks/179046305) 
-
-[![The Ultimate Dining Sale](https://st.hzcdn.com/fimgs/a5014c5b07562015_7559-w300-h300-b0-p0--home-design.jpg)
+[![Ultimate Savings on Best Sellers](https://st.hzcdn.com/fimgs/aef1f8dc075a5190_2369-w300-h300-b0-p0--home-design.jpg)
 
 UP TO 75% OFF
 
-The Ultimate Dining Sale](https://www.houzz.com/ideabooks/179046336) 
+Ultimate Savings on Best Sellers](https://www.houzz.com/ideabooks/179076310) 
+
+[![The Ultimate Vanity Sale](https://st.hzcdn.com/fimgs/6a110e40075a518f_2367-w300-h300-b0-p0--home-design.jpg)
+
+UP TO 55% OFF
+
+The Ultimate Vanity Sale](https://www.houzz.com/ideabooks/179076392) 
+
+[![The Ultimate Living Room Sale](https://st.hzcdn.com/fimgs/4fc1c2ae075a518a_2363-w300-h300-b0-p0--home-design.jpg)
+
+UP TO 65% OFF
+
+The Ultimate Living Room Sale](https://www.houzz.com/ideabooks/179178792) 
+
+[![The Ultimate Rug Sale](https://st.hzcdn.com/fimgs/fc51d71f075a518d_2366-w300-h300-b0-p0--home-design.jpg)
+
+UP TO 75% OFF
+
+The Ultimate Rug Sale](https://www.houzz.com/ideabooks/179179245) 
 
 [![Shop Promo Banner](https://st.hzcdn.com/fimgs/8b412a1507562f7a_1503-w1132-h1444-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--cyber-monday-sale) 
 
