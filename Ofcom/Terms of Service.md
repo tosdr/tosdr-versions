@@ -157,7 +157,7 @@
 
 5 December 2024](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/full-fibre-broadband-reaches-nearly-7-in-10-homes/)
 
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/)
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
@@ -167,6 +167,8 @@
 **HELP US MAKE OFCOM’S WEBSITE BETTER!** 
 
 Share your experience in our [2\-minute survey](https://online1.snapsurveys.com/op0tfg "User Survey 2024") (opens in a new window) 
+
+ 
 
 **Terms of use**
 ================
