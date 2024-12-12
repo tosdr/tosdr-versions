@@ -113,11 +113,6 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
-    
-    Pedigree Dogs Exposed
-    
-    Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
 * [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
     The Beginning and the End of the Universe
@@ -133,34 +128,39 @@ Advertisement
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
+* [![September Clues](/wp-content/thumbnails/1588-100x70.jpg?x53432)
+    
+    September Clues
+    
+    This comprehensive analysis of the 9/11 broadcasts shows how the mainstream media actively participated in the 9/11 false-flag operation aimed at generating public support for illegal wars. This media...](https://documentaryheaven.com/september-clues/ "September Clues")
 
 ###### Throwback Documentaries
 
-* [![The Nature of Ayahuasca](/wp-content/thumbnails/16205-100x70.jpg?x53432)
+* [![Can Eating Insects Save the World](/wp-content/thumbnails/7082-100x70.jpg?x53432)
     
-    The Nature of Ayahuasca
+    Can Eating Insects Save the World
     
-    Ayahuasca is a plant-based psychedelic brew that originated from the South American rainforests. It is made from boiling the Banisteriopsis caapi vine, the Psychotria viridis shrub together, although](https://documentaryheaven.com/nature-of-ayahuasca/ "The Nature of Ayahuasca")
-* [![The Voynich Code: The World’s Most Mysterious Manuscript](/wp-content/thumbnails/14251-100x70.jpg?x53432)
+    How would you feel about eating deep fried locusts, ant egg salad or barbequed tarantulas? This documentary sees presenter and food writer Stefan Gates immerse himself in the extraordinary world of ha](https://documentaryheaven.com/can-eating-insects-save-the-world/ "Can Eating Insects Save the World")
+* [![Secrets of the Scammers](/wp-content/thumbnails/8502-100x70.jpg?x53432)
     
-    The Voynich Code: The World’s Most Mysterious Manuscript
+    Secrets of the Scammers
     
-    Since the beginning of time people have searched for means to keep certain communication private, over the years this developed into encoding information with cyphers, this is especially true with reg](https://documentaryheaven.com/voynich-code-worlds-most-mysterious-manuscript/ "The Voynich Code: The World’s Most Mysterious Manuscript")
-* [![The Anthropocene: The Age of Mankind](/wp-content/thumbnails/13378-100x70.jpg?x53432)
+    They are responsible for the fastest growing area of crime, they targeted half of the British population last year but despite this they prove very hard to catch, meet the foreign scam artists who are](https://documentaryheaven.com/secrets-scammers/ "Secrets of the Scammers")
+* [![Coronavirus: A Horizon Special](/wp-content/thumbnails/16230-100x70.png?x53432)
     
-    The Anthropocene: The Age of Mankind
+    Coronavirus: A Horizon Special
     
-    Humans have been trying to control nature for quite some time, and out influence has become more and more dramatic, in fact it is now so strong that following years of research and monitoring an inter](https://documentaryheaven.com/anthropocene-age-of-mankind/ "The Anthropocene: The Age of Mankind")
-* [![The Battle of Chosin](/wp-content/thumbnails/12762-100x70.jpg?x53432)
+    Coronavirus (COVID-19) struck just a few months ago, it was a deadly virus that took an unprepared world by storm. But as the world scrambled to react to this growing emergency an astonishing global](https://documentaryheaven.com/coronavirus-horizon-special/ "Coronavirus: A Horizon Special")
+* [![LEGO](/wp-content/thumbnails/6417-100x70.jpg?x53432)
     
-    The Battle of Chosin
+    LEGO
     
-    In the last days of November 1950, twelve thousand men of the 1st Marine Division along with a few thousand army soldiers found themselves trapped high in the mountains of North Korea near a reservoir](https://documentaryheaven.com/battle-of-chosin/ "The Battle of Chosin")
-* [![Igor: Child of Chernobyl](/wp-content/thumbnails/16025-100x70.jpeg?x53432)
+    National Geographic goes on a fun and fascinating adventure that would be the envy of any kid in the world inside the Lego factory in Billund, Denmark.The Documentary covers many aspects of the prod](https://documentaryheaven.com/lego/ "LEGO")
+* [![Britain’s Street Kids](/wp-content/thumbnails/12950-100x70.jpg?x53432)
     
-    Igor: Child of Chernobyl
+    Britain’s Street Kids
     
-    Igor Pavlovets was one of the first children to be born during the aftermath of the Chernobyl disaster in 1986. He was eight years old at the time this documentary was filmed. He is missing his right](https://documentaryheaven.com/igor-child-of-chernobyl/ "Igor: Child of Chernobyl")
+    Every day in the United Kingdom it seems that hundreds of children are being forced to leave home and charities such as Shelter say the number of homeless children is simply bound to rise as a di](https://documentaryheaven.com/britains-street-kids/ "Britain’s Street Kids")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
