@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 1010 active visitors** | **Wednesday, December 11, 2024** |
+| **You are 1 of 981 active visitors** | **Wednesday, December 11, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**Today the taxing power, rather than chattel slavery, is the instrument by which the parasitical element of the population subsists. And that element, which includes politicians, panics at the slightest reduction in the state's power to plunder. Once you start liberating taxpayers, even a little tiny bit, nobody knows where it may end. �Joseph Sobran
+ **QUOTES TO REMEMBER**Are we at last brought to such humiliating and debasing degradation, that we cannot be trusted with arms for our defense? Where is the difference between having our arms in possession and under our direction, and having them under the management of Congress? If our defense be the real object of having those arms, in whose hands can they be trusted with more propriety, or equal safety to us, as in our own hands? � Patrick Henry, 3 J. Elliot, Debates in the Several State Conventions 45, 2d ed. Philadelphia, 1836
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
