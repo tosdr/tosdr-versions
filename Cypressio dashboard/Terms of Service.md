@@ -1,8 +1,8 @@
 Introducing [UI Coverage](https://cypress.io/ui-coverage?utm_medium=website&utm_source=cypress.io&utm_content=banner) & [Cypress Accessibility](https://cypress.io/accessibility?utm_medium=website&utm_source=cypress.io&utm_content=banner) — Accelerate innovation with automated quality checks before each release
 
-[![Logo](/_astro/navbar-brand.D87396b0.svg)](https://cypress.io/)
+[![Cypress Logo](/_astro/cypress-logo.D87396b0.svg)](https://cypress.io/)
 
-[![Logo](/_astro/navbar-brand.D87396b0.svg)](https://cypress.io/)
+[![Cypress Logo](/_astro/cypress-logo.D87396b0.svg)](https://cypress.io/)
 
 * [Product](https://cypress.io/app)
     
@@ -305,7 +305,7 @@ Entire agreement. These Terms constitute the entire agreement between you and Cy
 
 All questions, concerns or communications regarding these Terms should be directed to [\[email protected\]](https://cypress.io/cdn-cgi/l/email-protection).
 
-![Cypress logo](/_astro/navbar-brand.D87396b0.svg)
+![Cypress logo](/_astro/cypress-logo.D87396b0.svg)
 
 * [GitHub](https://github.com/cypress-io/cypress)
 * [YouTube](https://www.youtube.com/c/Cypressio)
