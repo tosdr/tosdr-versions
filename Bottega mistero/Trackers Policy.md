@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/se-potessi-scegliere-uno-solo-di-questi-superpoteri-quale-sceglieresti/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/lights-out-who-s-there-film-challenge/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
