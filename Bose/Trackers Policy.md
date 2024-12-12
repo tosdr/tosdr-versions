@@ -2,11 +2,11 @@
 
 HOLIDAY DEALS: Save up to 40% on bestsellers. [Shop](https://www.bose.com/c/holiday-sale)
 
-New color drops! Exclusive and limited-edition colors. [Shop](https://www.bose.com/c/exclusives)
+Save an extra 10% on select Certified Refurbished products with coupon code SAVE10. [Shop](https://www.bose.com/c/refurbished)
 
 My Bose Members, get a Holiday Bonus Card for future orders with every product purchase of $100 or more. [Learn more](https://www.bose.com/holiday-bonus-card)
 
-Save an extra 10% on select Certified Refurbished products with coupon code SAVE10. [Shop](https://www.bose.com/c/refurbished)
+New color drops! Exclusive and limited-edition colors. [Shop](https://www.bose.com/c/exclusives)
 
 [Cancel](#)
 
