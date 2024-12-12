@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you for the fast response and great customer service
+THANK YOU for your wonderfully prompt help.
 
-Ivana Danav
+Len Schultz
