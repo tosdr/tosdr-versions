@@ -27,6 +27,7 @@
 * [Precio luz hoy](https://www.marca.com/tiramillas/actualidad/economia/2024/12/11/67597f42ca474108518b4589.html)
 * [LaLiga EA Sports](https://www.marca.com/futbol/primera-division.html)
 * [Clasificación Liga](https://www.marca.com/futbol/primera-division/clasificacion.html)
+* [ChatGPT down](https://www.marca.com/en/technology/2024/12/12/675a45e8268e3e594f8b45b3.html)
 
 [Portada de Marca](https://www.marca.com/)
 
