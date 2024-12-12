@@ -2,7 +2,7 @@
 
 Previous
 
-[40% off select glow products. Use code: **DAY4** at checkout.](https://www.bobbibrowncosmetics.com/advent-calendar)
+[BB Access members receive double points on any order. Use code: **DAY5** at checkout.](https://www.bobbibrowncosmetics.com/join-bbaccess)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
