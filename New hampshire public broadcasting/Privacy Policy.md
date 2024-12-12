@@ -187,12 +187,12 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [| Christa](https://video.nhpbs.org/video/christa-ygbur1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Maria** | Flicks](https://video.nhpbs.org/video/maria-adnlpg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Yule Log** | All Creatures Great and Small](https://video.nhpbs.org/video/yule-log-jngrys?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Ready For Your Headliner? United States of Comedy, Ep 5** | Independent Lens](https://video.nhpbs.org/video/chicago-sohrab-forouzesh-united-states-of-comedy-ep-5-sfpcd8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Breakdown in Maine** | FRONTLINE](https://video.nhpbs.org/video/breakdown-in-maine-fh9rq7?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**December 10, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-10-2024-pbs-news-hour-full-episode-1733806801?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**December 11, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-11-2024-pbs-news-hour-full-episode-1733893201?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Beware of Flesh-Eating Sand Piranhas at the Beach** | Deep Look](https://video.nhpbs.org/video/beware-of-flesh-eating-sand-piranhas-at-the-beach-8rwlvv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**How Do Religious Texts Work?** | Crash Course Religions](https://video.nhpbs.org/video/how-do-religious-texts-work-6p9hn0?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Why Are FBI Checks on Trump Nominees Necessary? Fmr. Senate Counsels Explain** | Amanpour and Company](https://video.nhpbs.org/video/why-are-fbi-checks-on-trump-nominees-necessary-fmr-senate-counsels-explain-86rwk7?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Preview** | Funny Woman](https://video.nhpbs.org/video/preview-igdfag?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Ready For Your Headliner? United States of Comedy, Ep 5** | Independent Lens](https://video.nhpbs.org/video/chicago-sohrab-forouzesh-united-states-of-comedy-ep-5-sfpcd8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Breakdown in Maine** | FRONTLINE](https://video.nhpbs.org/video/breakdown-in-maine-fh9rq7?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
