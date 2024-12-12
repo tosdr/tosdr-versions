@@ -67,11 +67,11 @@
 
 MBFC News
 
+* [December 12, 2024 | Media News Daily: Top Stories for 12/12/2024](https://mediabiasfactcheck.com/2024/12/12/media-news-daily-top-stories-for-12-12-2024/ "Media News Daily: Top Stories for 12/12/2024")
+* [December 12, 2024 | MBFC’s Daily Vetted Fact Checks for 12/12/2024](https://mediabiasfactcheck.com/2024/12/12/mbfcs-daily-vetted-fact-checks-for-12-12-2024/ "MBFC’s Daily Vetted Fact Checks for 12/12/2024")
 * [December 11, 2024 | Media News Daily: Top Stories for 12/11/2024](https://mediabiasfactcheck.com/2024/12/11/media-news-daily-top-stories-for-12-11-2024/ "Media News Daily: Top Stories for 12/11/2024")
 * [December 11, 2024 | MBFC’s Daily Vetted Fact Checks for 12/11/2024](https://mediabiasfactcheck.com/2024/12/11/mbfcs-daily-vetted-fact-checks-for-12-11-2024/ "MBFC’s Daily Vetted Fact Checks for 12/11/2024")
 * [December 10, 2024 | Media News Daily: Top Stories for 12/10/2024](https://mediabiasfactcheck.com/2024/12/10/media-news-daily-top-stories-for-12-10-2024/ "Media News Daily: Top Stories for 12/10/2024")
-* [December 10, 2024 | MBFC’s Daily Vetted Fact Checks for 12/10/2024](https://mediabiasfactcheck.com/2024/12/10/mbfcs-daily-vetted-fact-checks-for-12-10-2024/ "MBFC’s Daily Vetted Fact Checks for 12/10/2024")
-* [December 9, 2024 | Media News Daily: Top Stories for 12/09/2024](https://mediabiasfactcheck.com/2024/12/09/media-news-daily-top-stories-for-12-09-2024/ "Media News Daily: Top Stories for 12/09/2024")
 
 Search for:  
 
@@ -147,6 +147,10 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Wrexham Leader – Bias and Credibility](https://mediabiasfactcheck.com/wrexham-leader-bias/)
+    
+    December 12, 2024
+    
 * [Michigan News Source – Bias and Credibility](https://mediabiasfactcheck.com/michigan-news-source-bias-and-credibility/)
     
     December 11, 2024
@@ -175,13 +179,13 @@ No related posts.
     
     December 10, 2024
     
-* [Mendota Reporter – Bias and Credibility](https://mediabiasfactcheck.com/mendota-reporter-bias/)
-    
-    December 10, 2024
-    
 
 #### Recently Updated Pages
 
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 12, 2024
+    
+* [Wrexham Leader – Bias and Credibility](https://mediabiasfactcheck.com/wrexham-leader-bias/ "View Wrexham Leader – Bias and Credibility") - December 12, 2024
+    
 * [Ainsley Earhardt Bias Rating](https://mediabiasfactcheck.com/ainsley-earhardt-bias-rating/ "View Ainsley Earhardt Bias Rating") - December 11, 2024
     
 * [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - December 11, 2024
@@ -198,23 +202,19 @@ No related posts.
     
 * [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - December 11, 2024
     
-* [JustRedPillMe – Bias and Credibility](https://mediabiasfactcheck.com/justredpillme-bias-and-credibility/ "View JustRedPillMe – Bias and Credibility") - December 11, 2024
-    
-* [Conspiracy-Pseudoscience](https://mediabiasfactcheck.com/conspiracy/ "View Conspiracy-Pseudoscience") - December 11, 2024
-    
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Methodology](https://mediabiasfactcheck.com/methodology/)
+* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
-* [MBFC's Daily Vetted Fact Checks for 12/11/2024](https://mediabiasfactcheck.com/2024/12/11/mbfcs-daily-vetted-fact-checks-for-12-11-2024/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
-* [Search](https://mediabiasfactcheck.com/search/)
+* [MBFC's Daily Vetted Fact Checks for 12/11/2024](https://mediabiasfactcheck.com/2024/12/11/mbfcs-daily-vetted-fact-checks-for-12-11-2024/)
 
 #### Subscribe via Email
 
