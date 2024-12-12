@@ -1277,18 +1277,18 @@ Copyright © 2024, Internxt Universal Technologies SL
 
 ![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
-![Surveillance left](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fblack-friday%2Fblack_friday_horizontal_sale.png&w=640&q=75)
+![Surveillance left](/_next/image?url=https%3A%2F%2Fpub-a9deffb393604831b8b467f4ec97bf3a.r2.dev%2Fwebsite%2Fimages%2Fchristmas%2Finternxt_christmas_horizontal.webp&w=640&q=75)
 
-Save 85%
+Save 80%
 
-Back to  
-Black Friday!
+Christmas savings  
+are here!
 
 Claim deal
 
-Save 85%!
+Save 80%!
 
-The best Black Friday deals
+Secret Santa surprise!
 
 Choose plan
 
@@ -1306,7 +1306,11 @@ End-to-end encrypted transfers
 
 No unauthorized access
 
-Offer ends December 3rd
+Offer ends
+
+January 7
+
+🎄Christmas Web App Theme + Chance to win up to 10TB of storage!
 
 Get an exclusive discount!
 --------------------------
