@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KCEN/images/f26274ba-f9aa-40ac-bcc9-7aee1c838e59/20241212T030802/f26274ba-f9aa-40ac-bcc9-7aee1c838e59_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/f26274ba-f9aa-40ac-bcc9-7aee1c838e59/20241212T030802/f26274ba-f9aa-40ac-bcc9-7aee1c838e59_360x203.jpg)](https://www.kagstv.com/article/news/crime/man-that-escaped-prison-grimes-county-2023-sentenced-20-total-years/500-ce1d8e4b-b1c3-4eec-9c33-9a553dd9ac1b)
+        
+        #### [Man that escaped jail in Grimes County in 2023 sentenced to 20 total years](https://www.kagstv.com/article/news/crime/man-that-escaped-prison-grimes-county-2023-sentenced-20-total-years/500-ce1d8e4b-b1c3-4eec-9c33-9a553dd9ac1b)
+        
     *  [![](https://media.kagstv.com/assets/KCEN/images/e57fb77f-175a-40bd-ada6-994b6cfe86a0/20241210T215938/e57fb77f-175a-40bd-ada6-994b6cfe86a0_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/e57fb77f-175a-40bd-ada6-994b6cfe86a0/20241210T215938/e57fb77f-175a-40bd-ada6-994b6cfe86a0_360x203.jpg)](https://www.kagstv.com/article/news/crime/man-sentenced-45-years-indecency-with-child-brazos-county/500-5775b52c-9492-4805-9e49-763e1c2c39b6)
         
         #### [Man sentenced to 45 years in prison for Indecency with a Child in Brazos County](https://www.kagstv.com/article/news/crime/man-sentenced-45-years-indecency-with-child-brazos-county/500-5775b52c-9492-4805-9e49-763e1c2c39b6)
-        
-    *  [![](https://media.kagstv.com/assets/KAGS/images/cdaa4d60-bcc2-4b2b-ae21-9a7a9779085e/20240603T222213/cdaa4d60-bcc2-4b2b-ae21-9a7a9779085e_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/cdaa4d60-bcc2-4b2b-ae21-9a7a9779085e/20240603T222213/cdaa4d60-bcc2-4b2b-ae21-9a7a9779085e_360x203.jpg)](https://www.kagstv.com/article/sports/tamu-moving-ticket-pulls-for-football-games-online/500-141583f8-1c33-4408-b66f-2265aa16c83a)
-        
-        #### [After many years, Texas A&M is moving sports ticket pulls online](https://www.kagstv.com/article/sports/tamu-moving-ticket-pulls-for-football-games-online/500-141583f8-1c33-4408-b66f-2265aa16c83a)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -97,7 +97,7 @@ Navigation
 
 Bryan, TX »
 
-42°
+45°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
