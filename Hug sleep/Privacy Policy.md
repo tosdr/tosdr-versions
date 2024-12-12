@@ -62,6 +62,9 @@ BACK
 * [![](//hugsleep.com/cdn/shop/files/Untitled5.007_533x533.jpg?v=1695958490)
     
     Hooded Sleep Pod Move](https://hugsleep.com/products/sleep-pod-move-hood)
+* [![](//hugsleep.com/cdn/shop/files/Untitled4.026_533x533.jpg?v=1731622115)
+    
+    Hug Hoodie™ New](https://hugsleep.com/products/hug-hoodie%E2%84%A2)
 * [![](//hugsleep.com/cdn/shop/products/download_533x533.jpg?v=1659988966)
     
     Sleep Pod Move Most Popular](https://hugsleep.com/products/sleep-pod-move-adult)
@@ -88,10 +91,13 @@ BACK
 
 * [![](//hugsleep.com/cdn/shop/files/SquarePDPs.001_533x533.jpg?v=1709244147)
     
-    Kids - Hooded Sleep Pod New](https://hugsleep.com/products/kids-hooded-sleep-pod-move)
+    Kids - Hooded Sleep Pod Most Popular](https://hugsleep.com/products/kids-hooded-sleep-pod-move)
+* [![](//hugsleep.com/cdn/shop/files/Untitled4.031_533x533.jpg?v=1731620167)
+    
+    Kids Hug Hoodie™ New](https://hugsleep.com/products/kids-hug-hoodie)
 * [![](//hugsleep.com/cdn/shop/files/PDP_Square.001_533x533.jpg?v=1729716951)
     
-    Kids Sleep Pod Mini New](https://hugsleep.com/products/kids-sleep-pod-mini)
+    Kids Sleep Pod Mini Most Popular](https://hugsleep.com/products/kids-sleep-pod-mini)
 * [![](//hugsleep.com/cdn/shop/files/PDPImages.001_533x533.jpg?v=1718821314)
     
     Kids Hug Wrap™ New](https://hugsleep.com/products/kids-hug-wrap%E2%84%A2)
@@ -101,6 +107,7 @@ BACK
   
   
 
+* [Hug Hoodie™](https://hugsleep.com/collections/hug-hoodie%E2%84%A2) Wearable Hug wherever you go
 * [Pillows
     
     Comfortable body pillows for sleep support](#)
@@ -187,30 +194,6 @@ BACK
   
   
 
-* [Loungewear Collection
-    
-    Premium hoodies and joggers](#)
-
-BACK
-
-* [![](//hugsleep.com/cdn/shop/products/2_962eb2a9-9af3-4e7c-9aef-a89d4616a071_533x533.jpg?v=1665416918)
-    
-    Women’s Hoodies](https://hugsleep.com/products/women-s-hoodie-black)
-* [![](//hugsleep.com/cdn/shop/products/2_5d084efa-5b09-4f72-a528-a87972209003_533x533.jpg?v=1665416867)
-    
-    Women’s Joggers](https://hugsleep.com/products/women-s-jogger-black)
-* [![](//hugsleep.com/cdn/shop/products/5_533x533.jpg?v=1665416758)
-    
-    Men’s Hoodies](https://hugsleep.com/products/men-s-hoodie-black)
-* [![](//hugsleep.com/cdn/shop/products/2_0ffa8541-92d1-4541-893c-d61ccb7bf4e8_533x533.jpg?v=1665416695)
-    
-    Men’s Joggers](https://hugsleep.com/products/men-s-jogger-black)
-  
-  
-  
-  
-  
-
 * [Find Your Sleep Pod](https://hugsleep.com/pages/quiz)
 
 [Contact Us](https://hugsleep.com/pages/our-contact) [FAQ's](https://hugsleep.com/pages/our-contact) [About Us](https://hugsleep.com/pages/meet-our-founders)
@@ -237,6 +220,7 @@ BACK
 * [Adults Collection](https://hugsleep.com/collections/adults-collection)
     
     * [Hooded Sleep Pod Move](https://hugsleep.com/products/sleep-pod-move-hood)
+    * [Hug Hoodie™](https://hugsleep.com/products/hug-hoodie%E2%84%A2)
     * [Sleep Pod Move](https://hugsleep.com/products/sleep-pod-move-adult)
     * [Sleep Pod Mini](https://hugsleep.com/products/sleep-pod-mini)
     * [Hug Wrap™](https://hugsleep.com/products/hug-sleep-wrap)
@@ -245,9 +229,11 @@ BACK
 * [Kids Collection](https://hugsleep.com/collections/kids-collection)
     
     * [Kids - Hooded Sleep Pod Move](https://hugsleep.com/products/kids-hooded-sleep-pod-move)
+    * [Kids Hug Hoodie™](https://hugsleep.com/products/kids-hug-hoodie)
     * [Kids Sleep Pod Mini](https://hugsleep.com/products/kids-sleep-pod-mini)
     * [Kids Hug Wrap™](https://hugsleep.com/products/kids-hug-wrap%E2%84%A2)
     
+* [Hug Hoodie™](https://hugsleep.com/collections/hug-hoodie%E2%84%A2)
 * [Pillows](https://hugsleep.com/collections/pillows)
     
     * [Hug Body Pillow™](https://hugsleep.com/products/hug-body-pillow)
@@ -259,13 +245,6 @@ BACK
     
     * [Hug Sleep Mask™](https://hugsleep.com/products/hug-sleep-mask)
     * [HugStretch™ Cozy Carry Bag](https://hugsleep.com/products/hugstretch%E2%84%A2-cozy-carry-bag)
-    
-* [Loungewear Collection](https://hugsleep.com/collections/loungewear-collection)
-    
-    * [Women’s Hoodies](https://hugsleep.com/products/women-s-hoodie-black)
-    * [Women’s Joggers](https://hugsleep.com/products/women-s-jogger-black)
-    * [Men’s Hoodies](https://hugsleep.com/products/men-s-hoodie-black)
-    * [Men’s Joggers](https://hugsleep.com/products/men-s-jogger-black)
     
 * [Bundle Sale
     
