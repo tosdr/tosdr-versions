@@ -164,26 +164,24 @@
 
 Subscribe
 
-[#### Nutrition](https://www.healthline.com/nutrition)
+[#### Mental Well-Being](https://www.healthline.com/mental-health)
 
-* Meal Kits
-    
-    * [Overview](https://www.healthline.com/nutrition/meal-kits)
-    * [Diets](https://www.healthline.com/nutrition/meal-kits/diets)
-    * [Meal Kits](https://www.healthline.com/nutrition/meal-kits/meal-kit-reviews)
-    * [Prepared Meals](https://www.healthline.com/nutrition/meal-kits/prepared-meal-reviews)
-    * [Comparisons](https://www.healthline.com/nutrition/meal-kits/comparisons)
-    * [Grocery Delivery](https://www.healthline.com/nutrition/meal-kits/grocery-delivery)
-    
-* [Special Diets](https://www.healthline.com/nutrition/diets)
-* [Healthy Eating](https://www.healthline.com/nutrition/food-and-nutrients)
-* [Food Freedom](https://www.healthline.com/nutrition/food-freedom)
-* [Conditions](https://www.healthline.com/nutrition/nutrition-for-conditions)
-* [Feel Good Food](https://www.healthline.com/nutrition/feel-good-food)
-* [Products](https://www.healthline.com/reviews/nutrition-products)
-* [Vitamins & Supplements](https://www.healthline.com/nutrition/vitamins-and-supplements)
-* [Sustainability](https://www.healthline.com/program/the-sustainable-table)
-* [Weight Management](https://www.healthline.com/nutrition/weight-management)
+* [Anxiety](https://www.healthline.com/mental-health/anxiety)
+* [Depression](https://www.healthline.com/mental-health/depression)
+* [Better Sleep](https://www.healthline.com/mental-health/sleep)
+* [Nutrition & Supplements](https://www.healthline.com/mental-health/nutrition-supplements)
+* [Building Relationships](https://www.healthline.com/mental-health/building-relationships)
+* [Emotional Well-Being](https://www.healthline.com/mental-health/mind-and-body)
+* [Navigating Therapy](https://www.healthline.com/mental-health/treatment)
+* [Crisis Support](https://www.healthline.com/mental-health/crisis-support)
+* [ADHD](https://www.healthline.com/mental-health/adhd)
+* [Bipolar Disorder](https://www.healthline.com/mental-health/bipolar)
+* [Eating Disorders](https://www.healthline.com/mental-health/eating-disorders)
+* [OCD](https://www.healthline.com/mental-health/ocd)
+* [Schizophrenia](https://www.healthline.com/mental-health/schizophrenia)
+* [Addiction](https://www.healthline.com/mental-health/addiction)
+* [Services & Reviews](https://www.healthline.com/reviews/mental-health-services-and-products)
+* [Apps](https://www.healthline.com/mental-health/apps)
 
 Ad & Sponsorship Policy
 =======================
