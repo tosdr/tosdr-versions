@@ -271,6 +271,7 @@ Menu
     * [Candles & Diffusers](https://www.moonpig.com/uk/gifts/homeware/candles/)
     * [Toys & Games](https://www.moonpig.com/uk/gifts/toys-games/all/)
     * [Beauty & Fragrance](https://www.moonpig.com/uk/gifts/beauty/all/)
+    * [Soft Toys](https://www.moonpig.com/uk/gifts/soft-toys/all/)
     
     ### Shop by Recipient
     
