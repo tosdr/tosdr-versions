@@ -232,10 +232,10 @@ _Looking for our **Data Security and Store Sales Policies**, including informati
 
 Past 24 Hours: 8
 
-Past 7 Days: 92
+Past 7 Days: 95
 
-Past 30 Days: 500
+Past 30 Days: 503
 
-All Time: 61,356
+All Time: 61,359
 
 ![](https://ping.ifixit.com/pp/tick.gif?key=ifixit%2Finfo%2F254%2Fen)
