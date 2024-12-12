@@ -274,28 +274,6 @@ San Diego CA 92121
 
 Attn: Legal Department
 
-**Version History**
-
-|     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- |
-| **Date** | **Status** | **Revision** | **Description** | **Reviewer/Approver** | **Title** |
-| 6/1/2021 | Draft | 1.0 | Initial Draft | DJ Landreneau | Director Data Privacy |
-| 1/22/2021 | Approved | 1.1 | Updated for Privacy Shield | DJ Landreneau | Director Data Privacy |
-| 8/30/2023 | Annual Review | 1.2 | Annual Review and updates for DPF | Maltie Maraj | Sr. Counsel |
-| 8/31/2023 | Approval | 1.2 | Approval | DJ Landreneau | VP Compliance |
-
-**Policy Review**
-
-|     |     |
-| --- | --- |
-| **Policy Review requirements:** |     |
-| Review Period | Annual or as Required |
-| Retention Period | Life of the company (archived when superseded) |
-| Next Review Date | August 2024 |
-| Location of policy | [Privacy Notices](https://drive.google.com/drive/u/0/folders/19EktKka5jsOgkD7SXtwv4JDSblYqMI5r) |
-| Policy Keyword Search | #policy, #privacy |
-| Related Policies/Procedures | Cookie Notice |
-
 [![Tealium](https://tealium.com/wp-content/themes/Jupiter-child/jasper/assets/svg/logo-dark.svg "Tealium")](https://tealium.com/)
 
 [![Tealium](https://tealium.com/wp-content/themes/Jupiter-child/jasper/assets/svg/logo-dark.svg "Tealium")](https://tealium.com/)
