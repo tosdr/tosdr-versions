@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-[![logo white no whitespace](https://wire.com/hubfs/logo%20white%20no%20whitespace.svg)](https://wire.com/en/)
+[![wire.com](https://wire.com/hubfs/logo%20white%20no%20whitespace.svg)](https://wire.com/en/)
 
 en
 
