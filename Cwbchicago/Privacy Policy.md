@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/dec-9-map-326x245.jpg)](https://cwbchicago.com/2024/12/off-duty-fbi-agent-among-7-victims-targeted-in-3-hour-robbery-spree.html "Off-duty FBI agent among 7 victims targeted in 3-hour robbery spree")
+
+Bucktown
+
+### [Off-duty FBI agent among 7 victims targeted in 3-hour robbery spree](https://cwbchicago.com/2024/12/off-duty-fbi-agent-among-7-victims-targeted-in-3-hour-robbery-spree.html "Off-duty FBI agent among 7 victims targeted in 3-hour robbery spree")
+
+[December 10, 2024 8:11 AM](https://cwbchicago.com/2024/12)
+
+An off-duty FBI agent was among seven victims robbed during a string of holdups stretching from Noble Square to Humboldt Park on Monday evening. The area withered under nearly two years of relentless robber sprees until earlier this year. There are recent indications that the crews may be reconstituting.[](https://cwbchicago.com/2024/12/off-duty-fbi-agent-among-7-victims-targeted-in-3-hour-robbery-spree.html "Off-duty FBI agent among 7 victims targeted in 3-hour robbery spree")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/6000-bk-n-mozart-326x245.jpg)](https://cwbchicago.com/2024/12/man-shot-critically-wounded-inside-west-rogers-park-apartment.html "Man shot, critically wounded inside West Rogers Park apartment")
+
+West Rogers Park
+
+### [Man shot, critically wounded inside West Rogers Park apartment](https://cwbchicago.com/2024/12/man-shot-critically-wounded-inside-west-rogers-park-apartment.html "Man shot, critically wounded inside West Rogers Park apartment")
+
+[December 10, 2024 6:48 AM](https://cwbchicago.com/2024/12)
+
+A 23-year-old man was shot inside a West Rogers Park apartment on Monday evening, Chicago police said. Detectives are working to determine if the shooting involves someone known to the victim.[](https://cwbchicago.com/2024/12/man-shot-critically-wounded-inside-west-rogers-park-apartment.html "Man shot, critically wounded inside West Rogers Park apartment")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/12/Julio-Rodriguez-326x245.jpg)](https://cwbchicago.com/2024/12/parole-agent-found-sex-offender-engaged-in-x-rated-video-call-with-14-year-old-girl-prosecutors-allege.html "Parole agent found sex offender engaged in X-rated video call with 14-year-old girl, prosecutors allege")
 
 Chatham
@@ -252,26 +272,6 @@ Chatham
 [December 9, 2024 7:36 PM](https://cwbchicago.com/2024/12)
 
 In a stunning set of allegations, prosecutors are claiming that a parole agent visiting the residence of a man on parole for child pornography found the parolee pleasuring himself with his pants lowered while on a video call with a 14-year-old girl.[](https://cwbchicago.com/2024/12/parole-agent-found-sex-offender-engaged-in-x-rated-video-call-with-14-year-old-girl-prosecutors-allege.html "Parole agent found sex offender engaged in X-rated video call with 14-year-old girl, prosecutors allege")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Left-to-right-Curtis-Benson-Glen-Ruiz-and-Kavon-Waddell-326x245.jpg)](https://cwbchicago.com/2024/12/3-men-charged-with-3-armed-robberies-after-police-helicopter-tracked-them-down-officials-say.html "3 men charged with 3 armed robberies after police helicopter tracked them down, officials say")
-
-Brighton Park
-
-### [3 men charged with 3 armed robberies after police helicopter tracked them down, officials say](https://cwbchicago.com/2024/12/3-men-charged-with-3-armed-robberies-after-police-helicopter-tracked-them-down-officials-say.html "3 men charged with 3 armed robberies after police helicopter tracked them down, officials say")
-
-[December 9, 2024 11:03 AM](https://cwbchicago.com/2024/12)
-
-Three men have been detained as public safety risks after prosecutors accused them of robbing four victims at gunpoint and beating one victim with a handgun.[](https://cwbchicago.com/2024/12/3-men-charged-with-3-armed-robberies-after-police-helicopter-tracked-them-down-officials-say.html "3 men charged with 3 armed robberies after police helicopter tracked them down, officials say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/2023.12-burglar-seen-in-JH426447-326x245.jpg)](https://cwbchicago.com/2024/12/north-side-garage-burglar-seen-in-countless-surveillance-videos-has-become-a-regular-tv-star.html "North Side garage burglar, seen in countless surveillance videos, has become ‘a regular TV star’")
-
-Lincoln Square
-
-### [North Side garage burglar, seen in countless surveillance videos, has become ‘a regular TV star’](https://cwbchicago.com/2024/12/north-side-garage-burglar-seen-in-countless-surveillance-videos-has-become-a-regular-tv-star.html "North Side garage burglar, seen in countless surveillance videos, has become ‘a regular TV star’")
-
-[December 9, 2024 5:24 AM](https://cwbchicago.com/2024/12)
-
-For the past few weeks, residents of a North Side neighborhood have grown tired of a prowler who has been breaking into garages and snooping around yards. Now Chicago police are trying to identify him.[](https://cwbchicago.com/2024/12/north-side-garage-burglar-seen-in-countless-surveillance-videos-has-become-a-regular-tv-star.html "North Side garage burglar, seen in countless surveillance videos, has become ‘a regular TV star’")
 
 Search
 
@@ -314,6 +314,7 @@ Thank you.
 * [Avondale](https://cwbchicago.com/category/avondale)
 * [Back of the Yards](https://cwbchicago.com/category/back-of-the-yards)
 * [Belmont Cragin](https://cwbchicago.com/category/belmont-cragin)
+* [Beverly](https://cwbchicago.com/category/beverly)
 * [Boystown](https://cwbchicago.com/category/lakeview/boystown)
 * [Bridgeport](https://cwbchicago.com/category/armour-square/bridgeport)
 * [Brighton Park](https://cwbchicago.com/category/brighton-park)
