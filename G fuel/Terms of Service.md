@@ -1,5 +1,5 @@
   
-G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                                       
+G FUEL REWARDS PROGRAM TERMS AND CONDITIONS                                                                                              
 
 [Skip to content](#MainContent)  
 
