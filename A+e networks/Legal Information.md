@@ -70,6 +70,12 @@ Latest news
 
 [All articles](https://www.aenetworks.tv/news)
 
+    [![Flying Through History - Dalquharran Castle](/s3/files/styles/card_tablet/public/2024-12/Flying%20Through%20History%20-%20Dalquharran%20Castle.jpg?itok=y5Zkhc1B)
+
+12 December 2024
+
+### DOC HEARTS FLIES THROUGH HISTORY WITH HEARST NETWORKS](https://www.aenetworks.tv/news/uk/doc-hearts-flies-through-history-hearst-networks)
+
     [![Gary Sokolov in Auschwitz Birkenau](/s3/files/styles/card_tablet/public/2024-11/The_Tattooists%20Son_Gary_Sokolov%20in%20Auschwitz%20Birkenau_FIN_1.jpg?itok=kwa7yFQW)
 
 28 November 2024
@@ -87,12 +93,6 @@ Latest news
 25 November 2024
 
 ### HEARST NETWORKS UK LAUNCHES ‘UNBREAKABLE’ A POWERFUL NEW SHORT-FORM SERIES ON CRIME+INVESTIGATION](https://www.aenetworks.tv/news/uk/hearst-networks-uk-launches-unbreakable-powerful-new-short-form-series-crimeinvestigation)
-
-    [![Marcel Theroux Investigations The Eunuch Maker](https://hearstnetworkscorp.s3.eu-west-2.amazonaws.com/s3fs-public/styles/card_tablet/public/2024-11/Marcel%20Theroux%20CD.jpg?VersionId=d7MVZEMjr8952ExBDv9CR2f6jos0JyzK&itok=4ugG9PsH)
-
-11 November 2024
-
-### CRIME+INVESTIGATION® EXPLORES THE DARK WORLD OF THE EUNUCH MAKER IN NEW DOCUMENTARY](https://www.aenetworks.tv/news/uk/crimeinvestigationr-explores-dark-world-eunuch-maker-new-documentary)
 
 Corporate
 ---------
