@@ -67,11 +67,11 @@
 
 MBFC News
 
-* [December 5, 2024 | Media News Daily: Top Stories for 12/05/2024](https://mediabiasfactcheck.com/2024/12/05/media-news-daily-top-stories-for-12-05-2024/ "Media News Daily: Top Stories for 12/05/2024")
-* [December 5, 2024 | MBFC’s Daily Vetted Fact Checks for 12/05/2024](https://mediabiasfactcheck.com/2024/12/05/mbfcs-daily-vetted-fact-checks-for-12-05-2024/ "MBFC’s Daily Vetted Fact Checks for 12/05/2024")
-* [December 4, 2024 | Media News Daily: Top Stories for 12/04/2024](https://mediabiasfactcheck.com/2024/12/04/media-news-daily-top-stories-for-12-04-2024/ "Media News Daily: Top Stories for 12/04/2024")
-* [December 4, 2024 | MBFC’s Daily Vetted Fact Checks for 12/04/2024](https://mediabiasfactcheck.com/2024/12/04/mbfcs-daily-vetted-fact-checks-for-12-04-2024/ "MBFC’s Daily Vetted Fact Checks for 12/04/2024")
-* [December 3, 2024 | Media News Daily: Top Stories for 12/03/2024](https://mediabiasfactcheck.com/2024/12/03/media-news-daily-top-stories-for-12-03-2024/ "Media News Daily: Top Stories for 12/03/2024")
+* [December 11, 2024 | Media News Daily: Top Stories for 12/11/2024](https://mediabiasfactcheck.com/2024/12/11/media-news-daily-top-stories-for-12-11-2024/ "Media News Daily: Top Stories for 12/11/2024")
+* [December 11, 2024 | MBFC’s Daily Vetted Fact Checks for 12/11/2024](https://mediabiasfactcheck.com/2024/12/11/mbfcs-daily-vetted-fact-checks-for-12-11-2024/ "MBFC’s Daily Vetted Fact Checks for 12/11/2024")
+* [December 10, 2024 | Media News Daily: Top Stories for 12/10/2024](https://mediabiasfactcheck.com/2024/12/10/media-news-daily-top-stories-for-12-10-2024/ "Media News Daily: Top Stories for 12/10/2024")
+* [December 10, 2024 | MBFC’s Daily Vetted Fact Checks for 12/10/2024](https://mediabiasfactcheck.com/2024/12/10/mbfcs-daily-vetted-fact-checks-for-12-10-2024/ "MBFC’s Daily Vetted Fact Checks for 12/10/2024")
+* [December 9, 2024 | Media News Daily: Top Stories for 12/09/2024](https://mediabiasfactcheck.com/2024/12/09/media-news-daily-top-stories-for-12-09-2024/ "Media News Daily: Top Stories for 12/09/2024")
 
 Search for:  
 
@@ -131,74 +131,74 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Added Sources or Pages
 
-* [The Paper. (ABQ) – Bias and Credibility](https://mediabiasfactcheck.com/the-paper-abq-bias-and-credibility/)
+* [Michigan News Source – Bias and Credibility](https://mediabiasfactcheck.com/michigan-news-source-bias-and-credibility/)
     
-    December 5, 2024
+    December 11, 2024
     
-* [KAXE – NPR – Grand Rapids – Bias and Credibility](https://mediabiasfactcheck.com/kaxe-npr-grand-rapids-bias/)
+* [Kommersant – Bias and Credibility](https://mediabiasfactcheck.com/kommersant-bias-and-credibility/)
     
-    December 5, 2024
+    December 11, 2024
     
-* [Braidwood Times – Bias and Credibility](https://mediabiasfactcheck.com/braidwood-times-bias/)
+* [JustRedPillMe – Bias and Credibility](https://mediabiasfactcheck.com/justredpillme-bias-and-credibility/)
     
-    December 5, 2024
+    December 11, 2024
     
-* [1stHeadlines – Bias and Credibility](https://mediabiasfactcheck.com/1stheadlines-bias-and-credibility/)
+* [JouWatch – Bias and Credibility](https://mediabiasfactcheck.com/jouwatch-bias-and-credibility/)
     
-    December 5, 2024
+    December 11, 2024
     
-* [Sustainable Earth Reviews – Bias and Credibility](https://mediabiasfactcheck.com/sustainable-earth-reviews-bias/)
+* [Pennsylvania Record – Bias and Credibility](https://mediabiasfactcheck.com/pennsylvania-record-bias-and-credibility/)
     
-    December 5, 2024
+    December 11, 2024
     
-* [Amboy News – Bias and Credibility](https://mediabiasfactcheck.com/amboy-news-bias/)
+* [IndieWire – Bias and Credibility](https://mediabiasfactcheck.com/indiewire-bias-and-credibility/)
     
-    December 4, 2024
+    December 10, 2024
     
-* [City Desk ABQ – Bias and Credibility](https://mediabiasfactcheck.com/city-desk-abq-bias-and-credibility/)
+* [Emol (El Mercurio Online) – Bias and Credibility](https://mediabiasfactcheck.com/emol-el-mercurio-online-bias-and-credibility/)
     
-    December 4, 2024
+    December 10, 2024
     
-* [Guymon Daily Herald – Bias and Credibility](https://mediabiasfactcheck.com/guymon-daily-herald-bias/)
+* [Mendota Reporter – Bias and Credibility](https://mediabiasfactcheck.com/mendota-reporter-bias/)
     
-    December 4, 2024
+    December 10, 2024
     
 
 #### Recently Updated Pages
 
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 5, 2024
+* [Ainsley Earhardt Bias Rating](https://mediabiasfactcheck.com/ainsley-earhardt-bias-rating/ "View Ainsley Earhardt Bias Rating") - December 11, 2024
     
-* [The Paper. (ABQ) – Bias and Credibility](https://mediabiasfactcheck.com/the-paper-abq-bias-and-credibility/ "View The Paper. (ABQ) – Bias and Credibility") - December 5, 2024
+* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - December 11, 2024
     
-* [KAXE – NPR – Grand Rapids – Bias and Credibility](https://mediabiasfactcheck.com/kaxe-npr-grand-rapids-bias/ "View KAXE – NPR – Grand Rapids – Bias and Credibility") - December 5, 2024
+* [Michigan News Source – Bias and Credibility](https://mediabiasfactcheck.com/michigan-news-source-bias-and-credibility/ "View Michigan News Source – Bias and Credibility") - December 11, 2024
     
-* [WTIP – NPR – Grand Marais – Bias and Credibility](https://mediabiasfactcheck.com/wtip-npr-grand-marais-bias/ "View WTIP – NPR – Grand Marais – Bias and Credibility") - December 5, 2024
+* [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/ "View Membership Levels") - December 11, 2024
     
-* [Braidwood Times – Bias and Credibility](https://mediabiasfactcheck.com/braidwood-times-bias/ "View Braidwood Times – Bias and Credibility") - December 5, 2024
+* [Group Memberships for MBFC](https://mediabiasfactcheck.com/group-memberships-for-mbfc/ "View Group Memberships for MBFC") - December 11, 2024
     
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 5, 2024
+* [Manage Group](https://mediabiasfactcheck.com/manage-group/ "View Manage Group") - December 11, 2024
     
-* [1stHeadlines – Bias and Credibility](https://mediabiasfactcheck.com/1stheadlines-bias-and-credibility/ "View 1stHeadlines – Bias and Credibility") - December 5, 2024
+* [Kommersant – Bias and Credibility](https://mediabiasfactcheck.com/kommersant-bias-and-credibility/ "View Kommersant – Bias and Credibility") - December 11, 2024
     
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - December 5, 2024
+* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - December 11, 2024
     
-* [Sustainable Earth Reviews – Bias and Credibility](https://mediabiasfactcheck.com/sustainable-earth-reviews-bias/ "View Sustainable Earth Reviews – Bias and Credibility") - December 5, 2024
+* [JustRedPillMe – Bias and Credibility](https://mediabiasfactcheck.com/justredpillme-bias-and-credibility/ "View JustRedPillMe – Bias and Credibility") - December 11, 2024
     
-* [Breaking Wide – Bias and Credibility](https://mediabiasfactcheck.com/breaking-wide/ "View Breaking Wide – Bias and Credibility") - December 5, 2024
+* [Conspiracy-Pseudoscience](https://mediabiasfactcheck.com/conspiracy/ "View Conspiracy-Pseudoscience") - December 11, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [Methodology](https://mediabiasfactcheck.com/methodology/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
-* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
-* [Reuters - Bias and Credibility](https://mediabiasfactcheck.com/reuters/)
 * [Search](https://mediabiasfactcheck.com/search/)
+* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 
 #### Subscribe via Email
 
