@@ -237,7 +237,7 @@ October 11, 2024
 
 Features SMS blocking rules that, for whatever reason, don't seem to exist on competing apps. It's also nice that numbers in your contacts are separated into their own list, distinct from all unknown numbers. Finally, there's a handy feature where 2FA text message codes are automatically copied to the clipboard. However beyond that, there isn't much going for it. I have weird rendering errors on my device where occasionally older messages will float over or behind current messages. Strange.
 
-2 people found this review helpful
+3 people found this review helpful
 
 Did you find this helpful?
 
@@ -274,7 +274,7 @@ Hi. Thanks for the feedback. We are glad to know that Key Messages is working aw
 
 See all reviews
 
-What's new
+What’s new
 ----------
 
 \- Improved performance and spam blocking
@@ -309,7 +309,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGG9oTTk0MzVGSDJScmQyVlhieUVISVE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljJE0VU)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGGd0RUlHcUpRZXlOQnZWelhyMktVZEE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljK7QCg)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
 
