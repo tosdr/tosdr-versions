@@ -7,7 +7,8 @@
 TERMS & CONDITIONS 
 ===================
 
-### **GENERAL CASINO TERMS**
+**GENERAL CASINO TERMS**
+------------------------
 
 Please read these Terms and conditions carefully before using the Fair Go Casino website.  
   
@@ -118,7 +119,8 @@ Source of fund and source of wealth might be required at later stage. Also, play
 
 35. To comply with Anti-money laundering Regulations, Player is not allowed to request for pay out without play through.
 
-### **PROMOTIONAL TERMS**
+**PROMOTIONAL TERMS**
+---------------------
 
 In the interests of fair gaming, there are limits on the maximum bet sizes you can place during the playthrough of any bonus including cashback offers. $10 is the maximum bet unless specifically stated otherwise. Betting above $10 during a bonus playthrough will result in any promotion winnings voided.
 
@@ -192,7 +194,8 @@ In the interests of fair gaming, there are limits on the maximum bet sizes you c
 
 35\. In order to qualify for the "Fair Draw" promotion, players must deposit a total of $500 between Friday and the following Thursday weekly.
 
-### **TOURNAMENT TERMS**
+**TOURNAMENT TERMS**
+--------------------
 
 By participating in slot tournaments, you hereby agree to the Terms and Conditions outlined here:
 
@@ -210,7 +213,8 @@ By participating in slot tournaments, you hereby agree to the Terms and Conditio
 
 7\. Tournament prizes are awarded as a real money balance with no wagering restrictions and can be immediately withdrawn by the player.
 
-### **LOBBY JACKPOTS**
+**LOBBY JACKPOTS**
+------------------
 
 1\. To participate in the casino Lobby Jackpot customers must login and manually opt-in. Players can also opt-out at any point from contributing the Lobby Jackpot.
 
@@ -222,7 +226,8 @@ By participating in slot tournaments, you hereby agree to the Terms and Conditio
 
 5\. Lobby jackpot prizes are awarded as a real money balance with no wagering restrictions, except when won while playing with a deposit bonus or cashback. In such cases, wagering requirements of the respective bonus apply.
 
-### **REFER AND EARN TERMS**
+**REFER AND EARN TERMS**
+------------------------
 
 1\. In this promotion the "Referrer" is defined as the person who is inviting friends to play, while the "Referred Friend" is the person who has been invited to play.
 
