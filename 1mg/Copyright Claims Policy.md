@@ -954,14 +954,23 @@ QUICK BUY! Get 15% off on medicines\*
     
 * [Winter Care Essentials](https://www.1mg.com/categories/winter-care-essentials-3362)
     
-    * [Cough, Cold & Fever](https://www.1mg.com/categories/winter-care-essentials/cough-cold-fever-672)
+    * [Winter Care - Best Deals](https://www.1mg.com/categories/winter-care-essentials/winter-care-best-deals-3368)
     * [Skin & Hair Care](https://www.1mg.com/categories/winter-care-essentials/skin-hair-care-3367)
     * [Shampoo](https://www.1mg.com/categories/winter-care-essentials/skin-hair-care/shampoo-205)
     * [Hair Oils](https://www.1mg.com/categories/winter-care-essentials/skin-hair-care/hair-oils-566)
     * [Face Moisturisers](https://www.1mg.com/categories/winter-care-essentials/skin-hair-care/face-moisturisers-646)
     * [Lip Balm](https://www.1mg.com/categories/winter-care-essentials/skin-hair-care/lip-balm-740)
+    * [Cough, Cold & Fever](https://www.1mg.com/categories/winter-care-essentials/cough-cold-fever-672)
+    * [Sexual Wellness](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness-22)
+    * [Top Picks - Sexual Wellness](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/top-picks-sexual-wellness-3363)
+    * [Condoms](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/condoms-153)
+    * [Lubricants & Massage Gels](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/lubricants-massage-gels-242)
+    * [Sexual Wellness Devices](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/sexual-wellness-devices-289)
+    * [Performance Enhancers](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/performance-enhancers-243)
+    * [Pregnancy & Ovulation Kit](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/pregnancy-ovulation-kit-1552)
+    * [Oral Contraceptives](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/oral-contraceptives-3087)
+    
     * [Chyawanprash](https://www.1mg.com/categories/winter-care-essentials/chyawanprash-248)
-    * [Herbal Tea & Honey](https://www.1mg.com/categories/winter-care-essentials/herbal-tea-honey-3366)
     * [Pain Relief](https://www.1mg.com/categories/winter-care-essentials/pain-relief-32)
     * [Gel & Sprays](https://www.1mg.com/categories/winter-care-essentials/pain-relief/gel-sprays-635)
     * [Hot Water Bottles](https://www.1mg.com/categories/winter-care-essentials/pain-relief/hot-water-bottles-597)
@@ -970,14 +979,7 @@ QUICK BUY! Get 15% off on medicines\*
     * [Heating Aids & Belts](https://www.1mg.com/categories/winter-care-essentials/pain-relief/heating-aids-belts-637)
     * [Pain Balm & Ointment](https://www.1mg.com/categories/winter-care-essentials/pain-relief/pain-balm-ointment-638)
     * [Pain Relief Tablets](https://www.1mg.com/categories/winter-care-essentials/pain-relief/pain-relief-tablets-3131)
-    
-    * [Sexual Wellness](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness-22)
-    * [Condoms](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/condoms-153)
-    * [Lubricants & Massage Gels](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/lubricants-massage-gels-242)
-    * [Sexual Wellness Devices](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/sexual-wellness-devices-289)
-    * [Performance Enhancers](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/performance-enhancers-243)
-    * [Pregnancy & Ovulation Kit](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/pregnancy-ovulation-kit-1552)
-    * [Oral Contraceptives](https://www.1mg.com/categories/winter-care-essentials/sexual-wellness/oral-contraceptives-3087)
+    * [Herbal Tea & Honey](https://www.1mg.com/categories/winter-care-essentials/herbal-tea-honey-3366)
     
 * [Vitamins & Nutrition](https://www.1mg.com/categories/vitamins-nutrition-5)
     
