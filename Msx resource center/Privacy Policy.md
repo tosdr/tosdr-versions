@@ -150,19 +150,19 @@ Latest reactions
 
 Latest forum posts
 
+* [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=3 "ZX Spectrum Convertions")
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=15 "Christmas Quiz 2024")
 * [How do i load BAS.files into Bluemsx?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-load-basfiles-into-bluemsx?page=1 "How do i load BAS.files into Bluemsx?")
 * [OCM / Zemmix maximum ROM size?](https://www.msx.org/forum/msx-talk/hardware/ocm-zemmix-maximum-rom-size "OCM / Zemmix maximum ROM size?")
-* [Question about the 2-button joysticks](https://www.msx.org/forum/msx-talk/development/question-about-the-2-button-joysticks "Question about the 2-button joysticks")
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=15 "Christmas Quiz 2024")
 * [Dynamite Go Go](https://www.msx.org/forum/msx-talk/general-discussion/dynamite-go-go?page=13 "Dynamite Go Go")
-* [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=3 "ZX Spectrum Convertions")
+* [Trying to fix a dead Toshiba HX-10](https://www.msx.org/forum/msx-talk/hardware/trying-to-fix-a-dead-toshiba-hx-10 "Trying to fix a dead Toshiba HX-10")
+* [Question about the 2-button joysticks](https://www.msx.org/forum/msx-talk/development/question-about-the-2-button-joysticks "Question about the 2-button joysticks")
 * [RP2350B will change cartridges for MSX forever!](https://www.msx.org/forum/msx-talk/hardware/this-will-change-cartridges-for-msx-moving-forward?page=2 "RP2350B will change cartridges for MSX forever!")
 * [Nice video from the BBC](https://www.msx.org/forum/msx-talk/general-discussion/nice-video-from-the-bbc "Nice video from the BBC")
 * [MSX-USB BIOS version and compatibility test](https://www.msx.org/forum/msx-talk/hardware/msx-usb-bios-version-and-compatibility-test "MSX-USB BIOS version and compatibility test")
 * [MSX+Laserdisc arcade set](https://www.msx.org/forum/msx-talk/general-discussion/msxlaserdisc-arcade-set "MSX+Laserdisc arcade set")
 * [Astron Belt - Laserdisc - Not loading properly](https://www.msx.org/forum/msx-talk/software/astron-belt-laserdisc-not-loading-properly "Astron Belt - Laserdisc - Not loading properly")
 * [SCC cartridge with 16 MegaBytes on MSX !](https://www.msx.org/forum/msx-talk/hardware/scc-cartridge-with-16-megabytes-on-msx?page=1 "SCC cartridge with 16 MegaBytes on MSX !")
-* [PC serial port to MSX joystick port file transfer: introducing JoySerTrans](https://www.msx.org/forum/msx-talk/development/pc-serial-port-to-msx-joystick-port-file-transfer-introducing-joysertrans?page=1 "PC serial port to MSX joystick port file transfer: introducing JoySerTrans")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
