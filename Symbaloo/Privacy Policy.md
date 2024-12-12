@@ -335,7 +335,7 @@ _This policy was most recently updated on October 15th 2024._
 * [Blog](https://blog.symbaloo.com/blogs/)
 * [Webinars](https://blog.symbaloo.com/webinars)
 * [Webmixes](https://blog.symbaloo.com/webmixes/)
-* [Contact](https://blog.symbaloo.com/contact-us)
+* [Subscribe to Newsletter](https://www.symbaloo.com/settings/preferences?newsletter=1)
 * [Helpdesk](https://en.help.symbaloo.com/portal/en/home)
 
 **Symbaloo**
