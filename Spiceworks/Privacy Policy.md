@@ -345,7 +345,7 @@ These services are not intended for use by children, especially those under 16. 
 * [SpiceWorld](https://www.spiceworks.com/spiceworld/)
 * [About Editorial](https://www.spiceworks.com/about-editorial/)
 * * [Follow on Facebook](https://www.facebook.com/Spiceworks/ "Follow on facebook")
-    * [](https://twitter.com/Spiceworks/ "Follow on twitter")
+    * [](https://x.com/Spiceworks/ "Follow on twitter")
     * [Follow on Linkedin](https://www.linkedin.com/company/spiceworks/ "Follow on linkedin")
     * [](https://www.youtube.com/@spiceworks/ "Follow on youtube")
     * [](https://www.spiceworks.com/rss-feeds/ "RSS feed")
