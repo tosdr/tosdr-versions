@@ -368,3 +368,15 @@ Copyright © 2024 Craftbot. All rights reserved.
 ×
 
 Understood
+
+##### Holiday Break
+
+×
+
+With the end of the year and the holidays coming, we need a little time to get our warehouses in order and to rest, so there will be no production or fulfillment between 18 December and 8 January.  
+  
+Our team will also monitor emails in a limited fashion with the end of the year holidays.  
+  
+See you soon in 2025!
+
+![](/assets/images/page/holidays.jpg)
