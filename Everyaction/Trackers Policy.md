@@ -36,6 +36,8 @@
                 
                 [Case Management](https://www.everyaction.com/product/case-management)
                 
+                * [Impact Management](https://www.everyaction.com/product/impact-management)
+                
         * * [Fundraising & Engagement](https://www.everyaction.com/product/fundraising-and-engagement)
                 
                 * [Fundraising Essentials](https://www.everyaction.com/product/fundraising-solutions)
