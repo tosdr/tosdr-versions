@@ -43,20 +43,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Sydney Sweeney and Jonathan Davino at an event](https://www.women.com/img/gallery/red-flags-in-sydney-sweeney-and-jonathan-davinos-relationship/intro-1733863099.jpg)](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
+*  [![Close-up of Emma Watson smiling at 2022 Paris Fashion Week](https://www.women.com/img/gallery/the-best-books-from-emma-watsons-book-club-our-shared-shelf/intro-1733425939.jpg)](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
     
-    [Relationships](https://www.women.com/category/relationships/)
+    [Living](https://www.women.com/category/living/)
     
-    [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
+    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
     
-    [Red Flags In Sydney Sweeney And Jonathan Davino's Relationship](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
-    ======================================================================================================================================================
+    [The Best Books From Emma Watson's Book Club, Our Shared Shelf](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
+    =================================================================================================================================================
     
-    Sydney Sweeney kept quiet for much of her relationship with Jonathan Davino. But once they got engaged, the relationship took on a public persona of its own.
+    Feminist essays and deeply personal nonfiction are just a few of the great books selected by Emma Watson for her book club, Our Shared Shelf.
     
-    By Bernadette Roe [Read More](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
+    By Madison Emily Whisenand [Read More](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
     
-* *  [![Pamela Anderson posing](https://www.women.com/img/gallery/pamela-anderson-is-still-gorgeous-going-makeup-free/intro-1733343581.jpg)](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
+* *  [![Sydney Sweeney and Jonathan Davino at an event](https://www.women.com/img/gallery/red-flags-in-sydney-sweeney-and-jonathan-davinos-relationship/intro-1733863099.jpg)](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
+        
+        [Relationships](https://www.women.com/category/relationships/)
+        
+        [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
+        
+        ### [Red Flags In Sydney Sweeney And Jonathan Davino's Relationship](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
+        
+        Sydney Sweeney kept quiet for much of her relationship with Jonathan Davino. But once they got engaged, the relationship took on a public persona of its own.
+        
+        By Bernadette Roe [Read More](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
+        
+    *  [![Pamela Anderson posing](https://www.women.com/img/gallery/pamela-anderson-is-still-gorgeous-going-makeup-free/intro-1733343581.jpg)](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -68,22 +80,22 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
         
-    *  [![Angled close-up of Jenna Ortega with a shaggy hairstyle](https://www.women.com/img/gallery/5-celebs-who-have-rocked-the-trendy-wolf-cut/intro-1732558119.jpg)](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
-        
-        ### [5 Celebs Who Have Rocked The Trendy Wolf Cut](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
-        
-        The shaggy, retro wolf cut was popularized by celebrities like Miley Cyrus and Jenna Ortega -- and now, it's trendier than ever.
-        
-        By Madison Emily Whisenand [Read More](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
-        
 
 More Stories
 ------------
 
+*  [![Angled close-up of Jenna Ortega with a shaggy hairstyle](https://www.women.com/img/gallery/5-celebs-who-have-rocked-the-trendy-wolf-cut/intro-1732558119.jpg)](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
+    
+    ### [5 Celebs Who Have Rocked The Trendy Wolf Cut](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
+    
+    The shaggy, retro wolf cut was popularized by celebrities like Miley Cyrus and Jenna Ortega -- and now, it's trendier than ever.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
+    
 *  [![A woman in a Mocha Mousse jacket and gold earrings](https://www.women.com/img/gallery/pantones-2025-color-of-the-year-is-a-neutral-lovers-dream-how-to-bring-it-into-your-wardrobe/intro-1733759893.jpg)](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -395,18 +407,6 @@ More Stories
     In a world of revolving trends, fashion experts emphasize the timelessness of personal style, a concept that artist Billie Eilish is very familiar with.
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1717137/stunning-transformation-billie-eilish-personal-style/)
-    
-*  [![Zooey Deschanel at an event](https://www.women.com/img/gallery/6-zooey-deschanel-outfits-that-could-have-come-straight-from-jess-days-closet/intro-1731960916.jpg)](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [6 Zooey Deschanel Outfits That Could Have Come Straight From Jess Day's Closet](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
-    
-    Since leaving "New Girl," Zooey Deschanel has taken fashion inspo from Jess Day's signature style, wearing cute tights, headbands, and hair pieces.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
     
 
 Back
