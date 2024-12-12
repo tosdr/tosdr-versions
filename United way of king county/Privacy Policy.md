@@ -13,7 +13,7 @@
 
 [Donate](https://www.uwkc.org/donate)
 
-[![accessibility](https://www.uwkc.org/wp-content/uploads/2024/11/iconmonstr-accessibility.png "Accessibility")](#reciteme)
+[![accessibility](https://www.uwkc.org/wp-content/uploads/2024/06/iconmonstr-accessibility-circle-lined-240-e1718232311295.png "Accessibility")](#reciteme)
 
 * [**What We Do**](https://www.uwkc.org/what-we-do/)
     * [**Investments**](https://www.uwkc.org/what-we-do/investments/)
