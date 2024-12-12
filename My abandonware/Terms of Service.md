@@ -73,11 +73,11 @@ MyAbandonware.com is hosted by OVH SAS - 2 rue Kellermann - 59100 Roubaix - Fran
 
 Follow Us!
 
-[9,000](https://www.facebook.com/myabandonware "Like our page on Facebook") [Like](https://www.facebook.com/myabandonware "Like our page on Facebook")
+[9,100](https://www.facebook.com/myabandonware "Like our page on Facebook") [Like](https://www.facebook.com/myabandonware "Like our page on Facebook")
 
-[9,900](https://x.com/myabandonware "Follow us on X") [Follow](https://x.com/myabandonware "Follow us on X")
+[9,950](https://x.com/myabandonware "Follow us on X") [Follow](https://x.com/myabandonware "Follow us on X")
 
-[200](https://bsky.app/profile/myabandonware.bsky.social "Follow us on BlueSky") [Follow](https://bsky.app/profile/myabandonware.bsky.social "Follow us on BlueSky")
+[300](https://bsky.app/profile/myabandonware.bsky.social "Follow us on BlueSky") [Follow](https://bsky.app/profile/myabandonware.bsky.social "Follow us on BlueSky")
 
 Monthly Newsletter
 
@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Cylindrix](https://www.myabandonware.com/game/cylindrix-cic)
 * [Super Ken Senshi](https://www.myabandonware.com/game/super-ken-senshi-tup)
 * [NFL Math](https://www.myabandonware.com/game/nfl-math-tuo)
 * [NFL Reading](https://www.myabandonware.com/game/nfl-reading-tun)
 * [Prodigy Racing](https://www.myabandonware.com/game/prodigy-racing-tum)
-* [Siege!!](https://www.myabandonware.com/game/siege-tul)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
