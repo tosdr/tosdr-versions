@@ -265,7 +265,7 @@ Although most browsers accept cookies, you can set your browser to reject cookie
 
 We maintain procedures and recordkeeping regarding breach reporting consistent with our [ISO 27001 certification](https://www.edsby.com/edsby-iso-27001/) obligations.
 
-We adhere to our obligations in the event of a breach of confidential information as required in the jurisdictions in which we host Edsby Services. For instance, in Canada, laws require we report any breach involving personal information under our control if it is reasonable in the circumstances to believe that the breach of security safeguards creates a real risk of significant harm (RROSH) to an individual, as defined by Canada’s [_PIPEDA_](https://www.priv.gc.ca/en). In the U.S., each state has its own breach reporting requirements as summarized [here](https://info.digitalguardian.com/rs/768-OQW-145/images/the-definitive-guide-to-us-state-data-breach-laws.pdf).
+We adhere to our obligations in the event of a breach of confidential information as required in the jurisdictions in which we host Edsby Services. For instance, in Canada, laws require we report any breach involving personal information under our control if it is reasonable in the circumstances to believe that the breach of security safeguards creates a real risk of significant harm (RROSH) to an individual, as defined by Canada’s [_PIPEDA_](https://www.priv.gc.ca/en). In the U.S., each state has its own breach reporting requirements as summarized [here](https://www.foley.com/insights/publications/2024/11/state-data-breach-notification-laws/).
 
 **15.0 Changes to This Privacy Policy**
 ---------------------------------------
