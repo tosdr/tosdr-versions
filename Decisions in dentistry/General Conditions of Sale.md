@@ -55,6 +55,12 @@ A peer-reviewed journal that offers evidence-based clinical information and cont
     
     [Featured Product](https://decisionsindentistry.com/category/homepage/company-spotlight/)
     
+    [](https://decisionsindentistry.com/2024/12/introducing-the-new-willo-autoflo-the-worlds-first-ever-fully-automated-toothbrush-for-children/ "Introducing the New Willo AutoFlo+: The World’s First-Ever Fully Automated Toothbrush for Children")
+    
+    [Introducing the New Willo AutoFlo+: The World’s First-Ever Fully Automated Toothbrush…](https://decisionsindentistry.com/2024/12/introducing-the-new-willo-autoflo-the-worlds-first-ever-fully-automated-toothbrush-for-children/)
+    
+    [Featured Product](https://decisionsindentistry.com/category/homepage/company-spotlight/)
+    
     [](https://decisionsindentistry.com/2023/12/bisco-adds-new-flavors-to-its-line-of-fluorocal-5-sodium-fluoride-varnish-with-tri-calcium-phosphate/ "BISCO Adds New Flavors to its Line of FluoroCal 5% Sodium Fluoride Varnish with Tri-Calcium Phosphate")
     
     [BISCO Adds New Flavors to its Line of FluoroCal 5% Sodium Fluoride Varnish with…](https://decisionsindentistry.com/2023/12/bisco-adds-new-flavors-to-its-line-of-fluorocal-5-sodium-fluoride-varnish-with-tri-calcium-phosphate/)
@@ -70,12 +76,6 @@ A peer-reviewed journal that offers evidence-based clinical information and cont
     [](https://decisionsindentistry.com/2023/10/introducing-a-new-high-volume-evacuation-mirror/ "Introducing a New High-Volume Evacuation Mirror")
     
     [Introducing a New High-Volume Evacuation Mirror](https://decisionsindentistry.com/2023/10/introducing-a-new-high-volume-evacuation-mirror/)
-    
-    [Featured Product](https://decisionsindentistry.com/category/homepage/company-spotlight/)
-    
-    [](https://decisionsindentistry.com/2023/10/burst-oral-care-launches-new-products/ "BURST® Oral Care Launches New Products")
-    
-    [BURST® Oral Care Launches New Products](https://decisionsindentistry.com/2023/10/burst-oral-care-launches-new-products/)
     
     Prev Next
     
