@@ -20,9 +20,9 @@ Update
 
 Check out
 
-[Free 7-Day Magnesium Trial Pack with orders over £75](https://puresportcbd.com/en-us/collections)
+[Free Salty Pace Tote with orders over £100](https://puresportcbd.com/en-us/collections)
 
-[NOTE: There is a 5-day dispatch delay on all Electrolytes](https://puresportcbd.com/en-us/collections/all)
+[Rated 4.9 stars (6000+ reviews)](https://puresportcbd.com/en-us/pages/reviews)
 
  Search 
 
@@ -60,11 +60,13 @@ Check out
     * [COLLECTIONS](https://puresportcbd.com/en-us#)
         * [PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/performance-wear)
     
-    [![](//puresport.co/cdn/shop/files/Invest_in_your_wellness_41.jpg?v=1732986676&width=1920)
+    [![](//puresport.co/cdn/shop/files/Puresport_For_The_Long_Run_Apparel5_bcd8632b-4cb6-4b40-aff2-97e8deccbb54.jpg?v=1733745331&width=1440)
     
-    FREE MAGNESIUM TRIAL PACK
+    FOR THE LONG RUN
     
-    On all orders over £75](https://puresportcbd.com/en-us/collections/all)
+    Collection now live.
+    
+    SHOP. NOW](https://puresportcbd.com/en-us/collections/for-the-long-run)
     
 * Our story
     
@@ -167,11 +169,13 @@ Check out
         * [COLLECTIONS](https://puresportcbd.com/en-us#)
             * [PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/performance-wear)
     
-    [![](//puresport.co/cdn/shop/files/Invest_in_your_wellness_41.jpg?v=1732986676&width=1920)
+    [![](//puresport.co/cdn/shop/files/Puresport_For_The_Long_Run_Apparel5_bcd8632b-4cb6-4b40-aff2-97e8deccbb54.jpg?v=1733745331&width=1440)
     
-    FREE MAGNESIUM TRIAL PACK
+    FOR THE LONG RUN
     
-    On all orders over £75](https://puresportcbd.com/en-us/collections/all)
+    Collection now live.
+    
+    SHOP. NOW](https://puresportcbd.com/en-us/collections/for-the-long-run)
     
 * [Our story](#)
     
@@ -230,11 +234,13 @@ Check out
     An unfiltered insight into the brand, people and community.](https://puresportcbd.com/en-us/blogs/puresport-project)
     
 
-[![](//puresport.co/cdn/shop/files/Invest_in_your_wellness_41.jpg?v=1732986676&width=1920)
+[![](//puresport.co/cdn/shop/files/Puresport_For_The_Long_Run_Apparel5_bcd8632b-4cb6-4b40-aff2-97e8deccbb54.jpg?v=1733745331&width=1440)
 
-FREE MAGNESIUM TRIAL PACK
+FOR THE LONG RUN
 
-On all orders over £75](https://puresportcbd.com/en-us/collections/all)
+Collection now live.
+
+SHOP. NOW](https://puresportcbd.com/en-us/collections/for-the-long-run)
 
 PRIVACY POLICY
 ==============
