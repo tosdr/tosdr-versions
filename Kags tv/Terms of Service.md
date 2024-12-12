@@ -54,9 +54,9 @@ Navigation
         
         #### [7.0 earthquake off Northern California prompts brief tsunami warning](https://www.kagstv.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
         
-    *  [![](https://media.kagstv.com/assets/KCEN/images/a63e19f4-eb61-4267-acbd-076e4ba2f3ec/20241211T110545/a63e19f4-eb61-4267-acbd-076e4ba2f3ec_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/a63e19f4-eb61-4267-acbd-076e4ba2f3ec/20241211T110545/a63e19f4-eb61-4267-acbd-076e4ba2f3ec_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/decbb1ba-246d-4df9-ac44-d8567565369c/20241211T230327/decbb1ba-246d-4df9-ac44-d8567565369c_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/decbb1ba-246d-4df9-ac44-d8567565369c/20241211T230327/decbb1ba-246d-4df9-ac44-d8567565369c_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
-        #### [WEATHER IMPACT ALERT | Freeze for many this morning, then comes a warming trend | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+        #### [Another Chilly Night Followed by Another Mild Afternoon Tomorrow | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -97,9 +97,9 @@ Navigation
 
 Bryan, TX »
 
-63°
+42°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
