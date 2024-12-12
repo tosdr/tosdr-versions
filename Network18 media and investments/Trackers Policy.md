@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Tue, Dec 03, 2024
+Thu, Dec 12, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
-    * [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
-    * [Park Min Jae](https://www.news18.com/movies/south-korean-actor-park-min-jae-dies-at-32-cause-of-death-revealed-9143231.html)
-    * [IPS Officer Death](https://www.news18.com/india/karnataka-ips-officer-harsh-bardhan-dies-road-accident-on-his-way-to-first-posting-hassan-latest-updates-9142069.html)
-    * [Ravi Kishan](https://www.news18.com/movies/ravi-kishan-on-karan-veer-chum-darangs-romance-on-bigg-boss-18-hes-a-flirt-but-exclusive-9142988.html)
-    * [Donald Trump](https://www.news18.com/world/donald-trump-justin-trudeau-dinner-florida-canada-should-become-51st-state-of-usa-tariff-9143131.html)
+    * [Atul Subhash](https://www.news18.com/viral/atul-subhash-suicide-bengaluru-engineers-brother-in-law-threatens-reporters-over-coverage-9152680.html)
+    * [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
+    * [Alimony Factors](https://www.news18.com/india/supreme-court-lays-down-8-factors-to-decide-alimony-amount-amid-bengaluru-techies-suicide-9153288.html)
+    * [Bengaluru Techie Suicide](https://www.news18.com/india/this-atm-is-closed-now-harrowing-details-of-bengaluru-techie-atul-subhashs-life-and-death-9153273.html)
+    * [Mohanlal](https://www.news18.com/movies/mohanlal-reacts-to-pushpa-2-success-calls-it-a-gatecrash-the-film-industrys-wheel-has-to-turn-exclusive-9152565.html)
+    * [Andrew Garfield](https://www.news18.com/movies/spider-man-star-andrew-garfield-breaks-silence-on-meeting-shraddha-kapoor-says-he-loves-zoya-akhtar-9151908.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
-* [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
-* [Park Min Jae](https://www.news18.com/movies/south-korean-actor-park-min-jae-dies-at-32-cause-of-death-revealed-9143231.html)
-* [IPS Officer Death](https://www.news18.com/india/karnataka-ips-officer-harsh-bardhan-dies-road-accident-on-his-way-to-first-posting-hassan-latest-updates-9142069.html)
-* [Ravi Kishan](https://www.news18.com/movies/ravi-kishan-on-karan-veer-chum-darangs-romance-on-bigg-boss-18-hes-a-flirt-but-exclusive-9142988.html)
-* [Donald Trump](https://www.news18.com/world/donald-trump-justin-trudeau-dinner-florida-canada-should-become-51st-state-of-usa-tariff-9143131.html)
+* [Atul Subhash](https://www.news18.com/viral/atul-subhash-suicide-bengaluru-engineers-brother-in-law-threatens-reporters-over-coverage-9152680.html)
+* [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
+* [Alimony Factors](https://www.news18.com/india/supreme-court-lays-down-8-factors-to-decide-alimony-amount-amid-bengaluru-techies-suicide-9153288.html)
+* [Bengaluru Techie Suicide](https://www.news18.com/india/this-atm-is-closed-now-harrowing-details-of-bengaluru-techie-atul-subhashs-life-and-death-9153273.html)
+* [Mohanlal](https://www.news18.com/movies/mohanlal-reacts-to-pushpa-2-success-calls-it-a-gatecrash-the-film-industrys-wheel-has-to-turn-exclusive-9152565.html)
+* [Andrew Garfield](https://www.news18.com/movies/spider-man-star-andrew-garfield-breaks-silence-on-meeting-shraddha-kapoor-says-he-loves-zoya-akhtar-9151908.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
@@ -289,7 +289,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Dec 03, 2024
+Dec 12, 2024
 
 [View All](https://www.news18.com/short-news/)
 
