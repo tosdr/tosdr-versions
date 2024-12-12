@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Felicitas Kanu at Westminster Abbey.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Felicitas-Kanu-at-Westminster-Abbey-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
+    
+    ### [Evelina London staff receive royal invite to carol service hosted by Princess of Wales](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
+    
     [![The alleged attack reportedly took place opposite a pub on Rye Lane. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-attack-reportedly-took-place-opposite-a-pub-on-Rye-Lane.-Image-Google--360x180.png)](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
     
     ### [Man, 62, nearly died after alleged Rye Lane stab attack as police appeal for witnesses](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
@@ -53,10 +57,6 @@
     Photo from www.instagram.com/charliemarriage/](https://southwarknews.co.uk/wp-content/uploads/2024/12/Charlie-Marriage-1-1-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
     
     ### [Inquest hears that Camberwell man ‘wasted last morning begging for medication pharmacy didn’t have’](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
-    
-    [![The tree caused some disruption (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-10-12-2024-at-10.36-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/huge-tree-falls-down-across-lordship-lane-during-storm-darragh/)
-    
-    ### [Huge tree falls down across Lordship Lane during Storm Darragh](https://southwarknews.co.uk/area/dulwich/huge-tree-falls-down-across-lordship-lane-during-storm-darragh/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -107,6 +107,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Felicitas Kanu at Westminster Abbey.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Felicitas-Kanu-at-Westminster-Abbey-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
+    
+    ### [Evelina London staff receive royal invite to carol service hosted by Princess of Wales](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
+    
     [![The alleged attack reportedly took place opposite a pub on Rye Lane. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-attack-reportedly-took-place-opposite-a-pub-on-Rye-Lane.-Image-Google--360x180.png)](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
     
     ### [Man, 62, nearly died after alleged Rye Lane stab attack as police appeal for witnesses](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
@@ -140,10 +144,6 @@ View All Result
     Photo from www.instagram.com/charliemarriage/](https://southwarknews.co.uk/wp-content/uploads/2024/12/Charlie-Marriage-1-1-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
     
     ### [Inquest hears that Camberwell man ‘wasted last morning begging for medication pharmacy didn’t have’](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
-    
-    [![The tree caused some disruption (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-10-12-2024-at-10.36-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/huge-tree-falls-down-across-lordship-lane-during-storm-darragh/)
-    
-    ### [Huge tree falls down across Lordship Lane during Storm Darragh](https://southwarknews.co.uk/area/dulwich/huge-tree-falls-down-across-lordship-lane-during-storm-darragh/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -229,19 +229,25 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [10th December 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
 
-[![Steven Weems in the doorway of his Borough council flat](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00006-9-120x86.jpeg)](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
-
-### [Disabled man ‘denied Right to Buy’ council flat because of home’s disabled adaptations](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
-
-[3rd December 2024](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
-
 [![Bodycam footage from one of Kent Police's raids. Image: Kent Police](https://southwarknews.co.uk/wp-content/uploads/2024/12/cliwram-latest-1-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
 
 ### [Man charged with drug supply after £5,000 cash and diamond chain found in Southwark property](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
 
 [7th December 2024](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
 
+[![Millwall head coach Neil Harris salutes the fans. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/06/N-Harris-399393-2-scaled-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
+
+### [After the stunning rescue mission, the head coach v manager tension, the control struggle – is it a final goodbye for Neil Harris and Millwall?](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
+
+[10th December 2024](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
+
 ### Featured Articles
+
+[![Felicitas Kanu at Westminster Abbey.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Felicitas-Kanu-at-Westminster-Abbey-120x86.jpg)](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
+
+### [Evelina London staff receive royal invite to carol service hosted by Princess of Wales](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
+
+[12th December 2024](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
 
 [![The alleged attack reportedly took place opposite a pub on Rye Lane. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-attack-reportedly-took-place-opposite-a-pub-on-Rye-Lane.-Image-Google--120x86.png)](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
 
@@ -273,13 +279,6 @@ Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-
 ### [Grade II-listed Peckham church roof saved from collapse with crucial £40k grant](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
 
 [10th December 2024](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
-
-[![Charlie Marriage 
-Photo from www.instagram.com/charliemarriage/](https://southwarknews.co.uk/wp-content/uploads/2024/12/Charlie-Marriage-1-1-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
-
-### [Inquest hears that Camberwell man ‘wasted last morning begging for medication pharmacy didn’t have’](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
-
-[10th December 2024](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
 
 ### USEFUL PAGES
 
