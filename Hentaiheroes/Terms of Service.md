@@ -1,6 +1,6 @@
 Loading...
 
-![background](https://hh2.hh-content.com/pictures/backgrounds/2200x/homepage_path_event.jpg)
+![background](https://hh2.hh-content.com/pictures/backgrounds/2200x/town-v5.jpg)
 
 [![](https://hh2.hh-content.com/design/ic_arrow-back.svg)](https://www.hentaiheroes.com/home.html)[![](https://hh2.hh-content.com/design/ic_legal.svg)
 
@@ -37,67 +37,85 @@ This site is operated by the company Phoenix Media, registration number 20033303
 
 Terms of Use
 
-The present contract details the use of the internet website Product as a User. Please read the following terms. In case of non-compliance with part or all of the present document, you will not be permitted to use the internet website Product. The service described in the present contract is proposed by the company Phoenix Media, registered in Bulgaria and domiciled at no1 street 6 September, office 1 floor 1, 1000, Sofia, Bulgaria.
+Effective Date: 01/12/2024
 
-Thereafter, “Provider” will refer to Phoenix Media and vice versa.
+The following Terms of Use govern the access and use of the website Product (“Service”) operated by Gamadu LTD, registered in Cyprus. By accessing the Service, you agree to these terms. If you do not accept these terms, you are not permitted to use the Service.
 
-Table content
+Table of Contents
 
-1\. Service
-
-2\. Registration and use of the Product website
-
-3\. General rules and restrictions for all Users
-
-4\. Types of Users
-
-5\. Intellectual property rights
-
-6\. Content published by Users
-
-7\. Prohibited Content
-
-8\. Section 2257 Compliance Notice
-
-9\. Limitation of Liability
-
-10\. Duration, Modification, and Termination
-
-11\. Payment and refund policy
-
-12\. Privacy Policy
-
-13\. Governing Law & juridiction
+1. Service
+2. Registration and Use of the Product Website
+3. Age Verification
+4. General Rules and Restrictions for All Users
+5. Types of Users
+6. Intellectual Property Rights
+7. Content Published by Users
+8. Prohibited Content
+9. Section 2257 Compliance Notice
+10. Limitation of Liability
+11. Duration, Modification, and Termination
+12. Payment and Refund Policy
+13. Privacy Policy
+14. Governing Law and Jurisdiction
 
 1\. Service
 
-1.1 Service means our games, products, services, content, Hentaiheroes.com, Gayharem.com, Hentaiclicker.com, Hentaidate.com, comixharem.com, Pornstarharem.com and/or other domains or websites operated by Phoenix Media. Our services are video games that can be played on computers, mobile applications or web browsers. Services are available on the internet independently of the device or the network used (mobile, Internet, tablet, personal computer, desktop). The Service is strictly forbidden to underage visitors or any person under the age of majority in the jurisdiction they are accessing the Service from.
+1.1 The Service includes browser-based and mobile video games, as well as related multimedia products, provided by Gamadu LTD. These games may contain explicit adult content and are accessible on web browsers, computers, and mobile devices. Access is strictly restricted to users of legal age in their jurisdiction.
 
-1.2 These general terms of use (the “ToS”) govern your use of the online website, applications and services, including the online functions of multimedia products, the websites, servers, software and the framework through which these items are provided (collectively the “Services”) currently provided or which will be provided by Phoenix Media, or any one of its subsidiaries or affiliated companies (hereinafter collectively referred to as “Provider” or “We”).
+1.2 The Service is operated by Gamadu LTD, registered at Platonos & K. Mourouzi, Georgia Court, 2nd Floor, Flat/Office 202, 4001 Limassol, Cyprus.
 
-1.3 Hentaiheroes.com, Hentaiclicker.com, Gayharem.com, Hentaidate.com, Comixharem.com, Pornstarharem.com and any other existing or future domain name extension (designed as “TLD”) are collectively referring to the Service and hereinafter collectively referred to as the “Product”.
+1.3 Gamadu LTD reserves the right to modify the Service, including features and access, without prior notice.
 
-2\. Registration and use of the Product website
+1.4 These general terms of use (the “ToS”) govern your use of the online website, applications and services, including the online functions of multimedia products, the websites, servers, software and the framework through which these items are provided (collectively the “Services”) currently provided or which will be provided by Gamadu LTD, or any one of its subsidiaries or affiliated companies (hereinafter collectively referred to as “Provider”, “Us” or “We”).
 
-2.1 Our products are available via a website or application (computer software or mobile application). The usage of the Product website or application is subject to a contract between you and the Product. The usage of the Product internet website implies the acceptance of the Terms of Use specified in this contract. You hereby recognize and accept that Product interprets your usage as the acceptance of these terms of use.
+1.5 Current domain name in use and any other existing or future domain name extension (designed as “TLD”) are collectively referring to the Service and hereinafter collectively referred to as the “Product”
 
-As a user (“User”), your use of any or all of the Services and Content (as defined in Article 2.3 below), indicate that you accept these Terms and other applicable terms depending on the Service
+2\. Registration and Use of the Product Website
 
-2.2 Grant of a Limited License to use the Service.
+Our products are available via a website or application (computer software or mobile application). The usage of the Product website or application is subject to a contract between you and the Product. The usage of the Product internet website implies the acceptance of the Terms of Use specified in this contract. You hereby recognize and accept that Product interprets your usage as the acceptance of these terms of use.
 
-Subject to your agreement to and continuing compliance with the present Terms of Use, the Provider hereby grants, and you hereby accept, a limited, revocable, non-transferable, non-sublicensable, non-exclusive license to use any Services provided by Phoenix Media solely for your own non-commercial entertainment purposes by accessing it with an authorized, unmodified a web browser or any other authorized means. You may not use the Service for any other purpose, or in connection with any other software or Services.
+As a user (“User”), your use of any or all of the Services and Content, indicate that you accept these Terms and other applicable terms depending on the Service.
+
+2.1 Account Creation: Users must create an account with a valid email address and secure password. Passwords are encrypted, and Users are solely responsible for maintaining the confidentiality of their login credentials.
+
+2.2 License to Use: Users are granted a limited, non-exclusive, revocable license to access the Service for personal, non-commercial purposes. Unauthorized use or sharing of accounts is strictly prohibited.
 
 2.3 Content includes all text, graphics, music or sounds, all messages or items of information, fictional characters, names, themes, objects, scenery, costumes, effects, dialogues, slogans, places, characters, diagrams, concepts, choreographies, videos, audio-visual effects, domain names and any other elements which are part of the Services, individually or in combination, together with all related Intellectual Property Rights in the above, (collectively, the “Content”).
 
-For the avoidance of doubt, Content includes content created by other Users, additional Content and any test Contents.
+For the avoidance of doubt, Content includes content created by other Users if any, additional Content and any test Contents.
 
-3\. General rules and restrictions for all Users
+2.3 Responsibilities:
 
-When you create an account with us, it's mandatory to use a personal and valid email address. We require you to select a username and password (collectively, your “Login Credentials”), which you’ll use each time you access the Service. You can’t share your account or Login Credentials with anyone. You can’t sell, transfer or allow any other person to access your account or Login Credentials, or offer to do so. You’re entirely responsible for maintaining the confidentiality of your Login Credentials. Please notify us immediately if you become aware of any breach of security, including any loss, theft or unauthorized disclosure of your Login Credentials.
+* Users must ensure their account details are accurate and up to date.
+* Users must report any security breaches immediately to Gamadu LTD.
+* The Provider reserves the right to terminate accounts in cases of misuse or violation of these terms.
 
-You agree to supply and keep the personal information relating to your Account accurate, complete and up-to-date. You shall not claim to be any other person or entity and shall not represent your identity or an affiliation with any other person or entity in an inaccurate way, including by using the username, password or any other information relating to someone else’s account or the name, likeness, voice, image or photograph of another person
+3\. Age Verification
 
-When you log into the internet website Product, you accept:
+3.1 Access to the Service requires users to confirm they are above the age of majority in their jurisdiction. Users must verify their age through an age-verification popup before accessing any content. Until verification is completed, explicit content is restricted.
+
+3.2 By completing the age verification process, you certify that:
+
+* You meet the legal age requirements for accessing adult content in your jurisdiction.
+* You will not share access with individuals who do not meet these requirements.
+
+3.3 Gamadu LTD reserves the right to implement additional age-verification methods, such as third-party tools, to ensure compliance with applicable laws.
+
+3.4 Any attempt to bypass age-verification measures is strictly prohibited and may result in immediate account termination.
+
+4\. General Rules and Restrictions for All Users
+
+When you create an account with us, it's mandatory to use a personal and valid email address. We require you to select a username and password (collectively, your “Login Credentials”), which you’ll use each time you access the Service. You can’t share your account or Login Credentials with anyone. You can’t sell, transfer or allow any other person to access your account or Login Credentials, or offer to do so.
+
+4.1 Users must comply with all applicable laws and refrain from:
+
+* Using cheats, bots, or unauthorized tools.
+* Sharing accounts or login credentials.
+* Exploiting vulnerabilities or engaging in harmful activities.
+
+You agree to supply and keep the personal information relating to your Account accurate, complete and up-to-date. You shall not claim to be any other person or entity and shall not represent your identity or an affiliation with any other person or entity in an inaccurate way, including by using the username, password or any other information relating to someone else’s account or the name, likeness, voice, image or photograph of another person.
+
+4.2 When you log in into the Product, you accept:
 
 * Not to use the internet website in violation of the rights of a third party, including copyrights.
 * Not to publish content to which you do not possess the rights or that does not respect the terms of use of the website.
@@ -107,100 +125,103 @@ When you log into the internet website Product, you accept:
 * Not to alter the security and availability of the site by intrusions, inverse engineering, denial of service (DdOS), malware, etc…
 * Not to undertake any action that would violate the rights and the financial, commercial, economical and moral interests of the Provider or one of its users.
 * Not to reveal information under the cover of the Secrecy of Letters.
-* Not to create or use and/or circulate “auto” or “macro” computer programs including without limitation “cheats”, “mods”, “hacks”, “bots” and “trainers” programs or software applications, and/or use the Services via a mirror site. Provider might allow this use at its sole discretion.
+* Not to create or use and/or circulate “auto” or “macro” computer programs including without limitation “cheats”, “mods”, “hacks”, “bots” and “trainers” programs or software applications, and/or use the Services via a mirror site. The provider might allow this use at its sole discretion.
 
-When you log into the internet website Product, you :
+When you log in into the Product, you recognize:
 
-* Recognize being above the age of majority in the jurisdiction you are accessing the websites and Services from.
-* Recognize and accept that Product reserves the right to terminate your access to the website and its services, at any moment, according to its own judgement and without prior notice.
-* Recognize being the only responsible party of any breach of terms and their consequences in the terms and conditions of the Contract. Also, you absolve Product of any liability concerning your actions and any violation of the law or of third party rights.
-* Failure to comply with this provision constitutes a material breach of these terms of use and may result in the termination of your Account without prejudice to any other claims for damages or losses, at any time and without prior notice.
+* Being above the age of majority in the jurisdiction you are accessing the websites and Services from.
+* Accept that Product reserves the right to terminate your access to the website and its services, at any moment, according to its own judgment and without prior notice.
+* Being the only responsible party of any breach of terms and their consequences in the terms and conditions of the Contract. Also, you absolve Product of any liability concerning your actions and any violation of the law or of third party rights.
 
-4\. Types of Users
+4.3 Users recognize that non-compliance may result in immediate account suspension or termination without notice.
 
-The users of the Internet Website are defined according to the following manner.
+4.4 The Service is provided “as is.” Gamadu LTD is not responsible for interruptions, bugs, or unauthorized access due to user negligence.
 
-An uninscribed user is considered as a “Guest”. He can access all the free parts of the website.
+5\. Types of Users
 
-An inscribed user is considered as a “Member”. He can access the functionalities of the site that are reserved for him, free of charge.
+5.1 Users are categorized as:
 
-An inscribed user who buys credits that can be used on the website is a “Paying Member”. He can access the options and parts of the website reserved for Paying Members.
+* Guests: Unregistered users with limited access to free content.
+* Members: Registered users with access to free features.
+* Paying Members: Members who purchase credits or subscriptions for additional features.
 
-Guest, Member, Paying Member can be referred as Users (hereinafter collectively referred to as “User” or “You”), in the present contract.
+5.2 Gamadu LTD reserves the right to modify the services and features available to each category of users without prior notice.
 
-We reserve the right to modify the services and content available to Guests, Members and Paying Members, without notification or prior notice.
+6\. Intellectual Property Rights
 
-5 Intellectual property rights
+6.1 All content within the Service, including graphics, domain name, computer code,logos, text, videos, and audio, is owned by Gamadu LTD or its licensors and is protected by national and international intellectual property laws.
 
-5.1 Intellectual Property Rights are defined as “patents, rights to inventions, copyright and related rights, trademarks, trade names, domain names, rights in get-up, rights in goodwill or to sue for passing off, unfair competition rights, rights in designs, rights in computer software, database rights, topography rights, moral rights, rights in confidential information (including know-how and trade secrets) and any other intellectual property rights, in each case whether registered or unregistered, and including all applications for, and renewals or extensions of, such rights, and all similar or equivalent rights or forms of protection in any part of the world”.
+6.2 Users may not copy, modify, or distribute any content without written permission from Gamadu LTD.
 
-5.2 Services and Content are protected by national and international laws and treaties. Except as expressly set out in these Terms, we, and our licensees and licensors, reserve our respective Intellectual Property Rights in the Services and the Content. Any reproduction or representation of these elements in any way and for any reason is prohibited without our prior permission and, if applicable, our licensors’ and representatives’.
+6.3 Gamadu LTD retains all rights to the Service and related content unless explicitly stated otherwise.
 
-5.3 Save as expressly set out in these Terms, no Intellectual Property Rights of any kind are assigned or licensed to you.
+7\. Content Published by Users
 
-5.4 The Services, Content, and all Intellectual Property Rights in them belong to Phoenix Media or its licensors and representatives
+7.1 The Service currently does not allow User-Generated Content (UGC). All content is created and uploaded by employees following strict internal guidelines.
 
-6\. Content published by Users
+7.2 Any future allowance of UGC will require users to comply with intellectual property laws and refrain from uploading prohibited content.
 
-The content published by the members of the Product can be of several sorts. Typical content: user profile picture, photos, texts and videos published on Product either publicly or privately (internal messages) or in interaction with other users.
-
-After initial validation of the account, the Product cannot be held responsible for the Content brought by third parties. The website reserves the right to decide what Content conforms to the specified conditions in this Contract or what can be removed, or deleted, without informing and on its own accord, any Content that violates these conditions and to close the account from which the Content originated from.
+After initial validation of the account, the Product cannot be held responsible for the Content uploaded by third parties. The website reserves the right to decide what Content conforms to the specified conditions in this Contract or what can be removed, or deleted, without informing and on its own accord, any Content that violates these conditions and to close the account from which the Content originated from.
 
 As a member, you transfer all the copyrights as well as your intellectual property of your Content.
 
-To authorize the promotion of your Content on the Product platform, you are granted a non-exclusive right to use, reproduce, distribute and administer the Content you have submitted.
+To authorize the promotion of your Content on the Product platform, you grant Us a non-exclusive free of charge right to use, reproduce, distribute and administer the Content you have submitted.
 
-You also accept that each user on the Product can see your Content, and that its users can share and use your Content as authorized through the functionalities of the website and only on the website.
+You also accept that each User on the Product can see your Content, and that its users can share and use your Content as authorized through the functionalities of the website and only on the website.
 
 These rights cease when you remove or delete your Content from the website.
 
-7\. Prohibited Content
+8\. Prohibited Content
 
-Members accept to:
+8.1 Users are prohibited from uploading, writing or sharing content that:
 
-Not submit Content that does not belong to them and not violate any copyright unless formal permission of the person or entity holding the copyright of the Content.
+* Violates intellectual property rights.
+* Contains illegal, exploitative, or harmful material or any Content that can be deemed implying or promoting such as, but not limited to, sex trafficking, child pornography or child exploitation, slavery, menaces, harassment, racism, xenophobia, or any Content liable to incite hatred, heinous, insulting or illegal behavior.  This includes nicknames and players names, on any platform, software or products managed or owned by the Provider
+* Contravenes payment provider or jurisdictional laws.
 
-Not to submit pedophile Content or Content that acclaims pedophilia.
+8.2 Gamadu LTD reserves the right to remove prohibited content and terminate accounts without notice nor any compensation.
 
-Not to submit illegal, menacing or harassing, racist, xenophobic, liable to incite hatred, heinous, insulting Content whatsoever or in any other way unacceptable, this includes nicknames and players names, on any platform, software or products managed or owned by the Provider
+9\. Section 2257 Compliance Notice
 
-In the event where prohibited Content was to be published, the Product reserves the right to remove it and to delete the member’s account without prior notice nor compensation.
-
-8\. Section 2257 Compliance Notice
+9.1 All explicit visual content complies with 18 U.S.C. Section 2257.
 
 All models, actors, actresses and other persons that appear in any visual depiction of actual sexually explicit conduct appearing or otherwise contained in this Website were over the age of eighteen years at the time of the creation of such depictions.
 
 With respect to all visual depictions displayed on this website, whether of actual sexually explicit conduct, simulated sexual content or otherwise, all persons in said visual depictions were at least 18 years of age when said visual depictions were created.
 
-The owners and operators of this Website are not always the ‘Primary Producers’ (as that term is defined in 18 U.S.C. Section 2257 and/ or 28 C.F.R. 75.1 et seq.) of any of the visual content contained on this Website.
+In the case of games using actual photos or videos and not drawings, some of the persons depicted on the website have passed away since the original content was produced. Gamadu LTD respects their legacy and will continue using their work to bring satisfaction to users. Content will not be removed because a performer is deceased.
 
-9\. Limitation of Liability
+9.2 Gamadu LTD is not the “Primary Producer” for third-party licensed content.
 
-You expressly acknowledge that the use of the Services and Product is at your own risk. The Services are supplied “as is”, without any guarantees, conditions, warranties or other terms as to:
+10\. Limitation of Liability
 
-* the absence of interruptions or errors, bugs, viruses or harmful elements, or that errors, bugs, viruses or harmful elements will be corrected;
-* their conformity, accuracy, currentness, completeness, reliability or security;
-* their market value;
+10.1 The Service is provided on an “as is” basis. Users assume all risks associated with accessing and using the Service.
 
-To the extent required by applicable law or regulation, the Administrators and the company shall not be liable for any damages, including without limitation, special, incidental, consequential or incidental damages, or damages for lost profits, loss of income, or loss of use, from or referring to this website or the information contained therein.
+10.2 Gamadu LTD disclaims all liability for:
 
-10\. Duration, Modification and Termination
+* Service interruptions, bugs, virus or errors.
+* Loss of data or virtual credits.
+* Damages caused by unauthorized access or user misconduct.
 
-10.1 This contract is for an indefinite period. The Provider reserves the right to modify the contract at any time. Any modification or annex to this contract will not require explicit agreement, use of the website will validate the acceptance of the new terms of use.
+To the extent required by applicable law or regulation, the Administrators and the Provider shall not be liable for any damages, including without limitation, special, incidental, consequential or incidental damages, or damages for lost profits, loss of income, or loss of use, from or referring to this website or the information contained therein.
 
-10.2 In the event of deletion of an account following an infringement of the rules defined in this Contract, unused credits purchased by the Paying Member will not be refunded and cannot be claimed.
+11\. Duration, Modification, and Termination
 
-10.3 The Provider does not recognize the transfer of Accounts, and any unauthorized transfer of the Service will result in the permanent deletion of the account attached to that software. You may not offer any Account for sale or trade, and any such will be considered as a violation of this ToS; may result in suspension or termination of the account at Provider’s sole and absolute discretion; and will not be opposable to the Provider.
+11.1 This agreement remains in effect until terminated by either party. Users may terminate their account by contacting customer support.
 
-10.4 You may terminate your Account to a particular Service or Services at any time by contacting Provider’s support. In the event of termination or suspension of your Account, you will lose, and Phoenix Media may delete, your profile and the related information you have passed on to the Provider, together with any Content (including without limitation any Content published by Users) you may have published, uploaded or made available on the Services, notably, without limitation, your username and avatar(s). The Provider reserves the right to store personal data relating to your profile for a reasonable period of time. In some cases, we may not be able to delete your personal information and will retain and use our information as long as necessary to comply with our legal obligations, resolve disputes, and/or enforce our agreements.
+11.2 Gamadu LTD reserves the right to modify these Terms without prior notice. Continued use of the Service constitutes acceptance of any changes.
 
-11\. Payment and refund policy
+11.3 Violations of these Terms may result in account termination without refund for unused credits.
 
-Payments made on the website are made in a secure manner by credit card. In order to make a payment, you are asked to communicate your credit card number and its validity date. The information is sent via encrypted and secure servers.
+11.4 The Provider does not recognize the transfer of Accounts, and any unauthorized transfer of the Service will result in the permanent deletion of the account attached to that software. You may not offer any Account for sale or trade, and any such will be considered as a violation of this ToS; may result in suspension or termination of the account at Provider’s sole and absolute discretion; and will not be opposable to the Provider.
 
-11.1 One-shot Payment
+11.5 You can request to terminate your Account to a particular Service or Services at any time by contacting Provider’s support. In the event of termination or suspension of your Account, you will lose, and Gamadu LTD may delete, your profile and the related information you have passed on to the Provider, together with any Content (including without limitation any Content published by Users) you may have published, uploaded or made available on the Services, notably, without limitation, your username and avatar(s). The Provider reserves the right to store personal data relating to your profile for a reasonable period of time. In some cases, we may not be able to delete your personal information and will retain and use our information as long as necessary to comply with our legal obligations, resolve disputes, and/or enforce our agreements.
 
-The Member can buy Credits, grouped into a pack, to acquire virtual credits that can be used in the game. The packs give access to a virtual currency called “Koban” or “Ryo”, which can only be used on Product and gives access to features reserved for Paying Members.
+12\. Payment and Refund Policy
+
+12.1 Payment Methods: Payments are processed via PCI DSS-compliant providers. Accepted methods include such as but not limited to, debit cards, credit cards, cryptocurrency, PayPal, Sofort, and Paysafe Card vouchers.
+
+12.2 One time payment: The Member can buy Credits, grouped into a pack, to acquire virtual credits that can be used in the game. The packs give access to a virtual currency and can only be used on Product and gives access to features reserved to Paying Members.
 
 The purchase is made by the unit.
 
@@ -208,17 +229,13 @@ The price and content of these packs may vary without notice.
 
 Once payment is made to the Product, a confirmation email will be sent to you and your Member account will be credited with the corresponding amount of credit. These credits can be used freely on the website without any time limit.
 
-11.2 Subscription and recurring Payment
+12.3 Subscriptions: Subscriptions are available for 30,90, and 180 days, with optional automatic renewal. Users can cancel renewals at any time via the payment settings page. The subscription is named as a Monthly Card (name may vary and be modified without prior notice) that gives access to a predefined amount of Credits during a predefined amount of day. The User needs to log in every day on the game to get the daily Credits allowed in the Subscription. If the User misses one or several days, Credits can not be asked or requested nor any refund will be possible. Price, Credits amount or days amount may vary and can be modified any time without prior notice.
 
-Users can subscribe to a Monthly Card (name may vary and be modified without prior notice) that gives access to a predefined amount of Credits during a predefined amount of day. The User needs to log in every day on the game to get the daily Credits allowed in the Subscription. If User misses one or several days, Credits can not be asked or requested nor any refund will be possible. Price, Credits amount or days amount may vary and can be modified any time without prior notice.
-
-11.3 Refund
-
-If you reside in the European Union, a refund request can be made by contacting the support and giving us your player email as well as the transaction to be refunded. This reimbursement can only be made within a maximum period of 14 (fourteen) calendar days following the date of payment.
+12.4 Refunds: The refund policy applies exclusively to EU residents. A refund request can be made by contacting the support and giving us your player email as well as the transaction to be refunded. This reimbursement can only be made within a maximum period of 14 (fourteen) calendar days following the date of payment. Refund requests made by non-EU residents will not be processed.
 
 A refund request will not be valid if all or part of the credits purchased, which are the subject of the aforementioned request for a refund, were used by the Member during his use of the Product.
 
-If your refund request is eligible, you will be asked for your bank details (IBAN) and your national ID card to prove your residence. The sums to be refunded will be sent by bank transfer at the end of the month following the validation of the request by the support. Transfer fees are the responsibility of the Product.
+If your refund request is eligible, you will be asked for your bank details (IBAN) and your national ID card to prove your identity and residence. The sums to be refunded will be sent by bank transfer at the end of the month following the validation of the request by the support. Transfer fees are the responsibility of the Product.
 
 If the bank details are not sent, a reminder will be sent at the end of the current month of the request. If within 30 (thirty) days of the reminder, no bank details are sent, the refund request will be considered void.
 
@@ -226,53 +243,58 @@ Note that there will be no total or partial refund for sums already paid for the
 
 This article is null and void if you are not resident in the European Union.
 
-11.4 Account termination and remaining credits :
+12.5 Virtual Currency: Credits and subscriptions have no real-world monetary value and cannot be redeemed outside the Service.
 
-In the event of a request for account closure at the initiative of the Member or closure of account for violation of rights of use (cheating, theft and other prohibited behavior, as defined in Article 3, unused credits purchased cannot be refunded or claimed).
+12.6 Payments solutions
 
-11.5 Payments solutions
+Gamadu LTD offers various payment options, on a Service per Service basis, some of which are managed by third-party payment and billing providers for which additional terms and costs may apply. Please review such additional terms and costs carefully. You may also be required to create an account with such a third-party provider. You agree that Gamadu LTD may, at its sole discretion and without further notice, determine and change the availability of certain payment solutions, from time to time, on a Service per Service basis, without any liability to You.
 
-Phoenix Media offers various payment options, on a Service per Service basis, some of which are managed by third-party payment and billing providers for which additional terms and costs may apply. Please review such additional terms and costs carefully. You may also be required to create an account with such a third-party provider. You agree that Phoenix Media may, at its sole discretion and without further notice, determine and change the availability of certain payment solutions, from time to time, on a Service per Service basis, without any liability to You.
+12.7 You understand and accept that any and all fees associated with your Subscription and/or your Credits are payable in advance, at the time of your order of a Subscription and/or Credit and not refundable when paid, in whole or in part.
 
-11.6 Credits, Kobans, Koban, Ryo, Ryos and Subscription have no real value.
-
-Notwithstanding any provision to the contrary contained in this the Terms of Use, Additional Content, Subscription, and Credits, or any other terminology used to describe such, have no monetary or “real world” value and may in no event be exchanged or redeemed for “real” currency or in-kind
-
-11.7 You understand that any and all fees associated with your Subscription and/or your Credits are payable in advance, at the time of your order of a Subscription and/or Credit and not refundable when paid, in whole or in part, except during the period and conditions defined in article 10.3.
-
-11.8 Payment system providers are currently Hipay, Securion and Segpay. This list may vary according to your localization and may be modified anytime without prior notice.
-
-12\. Privacy Policy
+13\. Privacy Policy - GDPR and CCPA
 
 Your personal data is confidential and stocked on secure servers. We take all the measures to guarantee this confidentiality. Nevertheless, no security can guarantee a total protection against intrusions or human error.
 
-Information we collect may be stored or processed on computers located in any country where we do business.
+13.1 Data Collected:
 
-Special situations or legal actions may require disclosure of your data.
+* The Service only collects email addresses and encrypted passwords.
+* No payment data is stored by the Provider.
+* We collect personal and activity data, such as browser type, operating system, and IP address, to ensure optimal access to our Services.
+* Technologies like cookies, web beacons, or unique device identifiers are used to enhance user experience.
 
-In order to guarantee the correct access to our Services in the best conditions possible, we collect personal and activity data, which may be linked.
+13.2 Data Use:
 
-We use technologies like cookies (small files stored on your browser), web beacons, or unique device identifiers to identify your computer or device so we can deliver a better experience.
+* Personal data is stored securely and accessible only to technical staff and customer support.
+* Data may be anonymized and shared with trusted third parties for statistical purposes, ensuring no linkage to individual user activity logs.
 
-Our systems also log information like your browser, operating system, and IP address.
+13.3 User Rights:
 
-We also may collect personally identifiable information that you provide to us, such as your name, address, phone number or email address.
+* GDPR Rights (for EU residents):
 
-With your permission, we may also access other personal information on your device, such as your phone book, calendar or messages, in order to provide services to you.
+* Users may request access to, correction, or deletion of their personal data by contacting customer support.
 
-Our systems may associate this personal information with your activities in the course of providing services in the usage of our Products.
+* CCPA Rights (for California residents):
 
-We may collect your location and location history but this localization will happen after your objective acceptance and will not be communicated to a third party.
+* You have the right to know what personal data we collect, how it is used, and with whom it is shared.
+* You may request deletion of your personal data, subject to certain legal exceptions.
+* You have the right to opt-out of the sale of your personal information (note: the Provider does not sell personal data).
 
-You can request to see your personal data by contacting the support.
+13.4 Legal Compliance:
 
-Data collected in this manner will be conserved without a time limit and can be shared with trusted third parties or commercial publicity services so as to propose other products in relation to the Service.
+* Data may be disclosed as required by law or legal processes.
 
-Third parties specialized in statistical studies can access your data in an anonymous manner (IP address, navigator) without being linked to your activity logs.
+13.5 Exercising Your Rights:
 
-13\. Governing Law & jurisdiction
+* To exercise your rights under GDPR or CCPA, contact us at support@gamadu.net with the subject line “Privacy Request – GDPR” or “Privacy Request – CCPA.”
+* California residents can appeal if their request is denied.
+* Personal data is retained for up to ten (10) years unless a deletion request is submitted.
+* California residents may also designate an authorized agent to submit requests on their behalf.
 
-This Agreement shall be governed by and construed in accordance with the substantive laws of the Republic of Bulgaria without giving effect to its principle or rules of conflicts of laws. Any dispute arising under or in relation to this Agreement shall be resolved in the competent court in Sofia only, and each of the parties hereby submits irrevocably to the exclusive jurisdiction of such court.
+14\. Governing Law and Jurisdiction
+
+14.1 This agreement is governed by the laws of Cyprus.
+
+14.2 All disputes shall be resolved exclusively in the courts of Cyprus. To the extent possible, the parties may be using alternative dispute resolution (ADR) to resolve disputes before escalating to court
 
 ![](https://hh2.hh-content.com/ic_loading_carrot.svg)
 
