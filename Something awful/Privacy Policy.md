@@ -205,25 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Children's Books](https://www.somethingawful.com/photoshop-phriday/childrens-books/1/)
-* [Let's improve landmarks](https://www.somethingawful.com/photoshop-phriday/lets-improve-landmarks/)
 * [Every Review Of Ghostbusters You Will Read This Week](https://www.somethingawful.com/news/every-ghostbusters-review/)
-* [Dangerfood](https://www.somethingawful.com/awful-movie-database/movie-food-industry/)
+* [Teen Help, Hoobastank, Che Lives, and Uber Form of Forum](https://www.somethingawful.com/weekend-web/teen-help-hoobastank/1/)
+* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
+* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
+* [Children's Letters to Frankenstein](https://www.somethingawful.com/news/letters-to-frankenstein/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-mystery.gif) [Something I never got about the movie Knives Out. spoilers](http://forums.somethingawful.com/showthread.php?threadid=4077246 "Something I never got about the movie Knives Out. spoilers")
-* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Yellow banner](http://forums.somethingawful.com/showthread.php?threadid=4077290 "Yellow banner")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [Why are the forums going down tonight?](http://forums.somethingawful.com/showthread.php?threadid=4077300 "Why are the forums going down tonight?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/school.png) [Is homeschooling artisanal child abuse?](http://forums.somethingawful.com/showthread.php?threadid=4077305 "Is homeschooling artisanal child abuse?")
 * ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Ideas to make the Something Awful Forums really "pop" in 2025](http://forums.somethingawful.com/showthread.php?threadid=4077252 "Ideas to make the Something Awful Forums really "pop" in 2025")
+* ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [What do you consider the MVP of tools?](http://forums.somethingawful.com/showthread.php?threadid=4077325 "What do you consider the MVP of tools?")
+* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Yellow banner](http://forums.somethingawful.com/showthread.php?threadid=4077290 "Yellow banner")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [looking for cobblers plz](http://forums.somethingawful.com/showthread.php?threadid=4077326 "looking for cobblers plz")
 
 ### Random Articles
 
-* [<I>Anarchy Online</I>: First Impressions](https://www.somethingawful.com/feature-articles/ianarchy-onlinei-first/1/)
-* [Hollywood Films vs. Internet Subtitles](https://www.somethingawful.com/comedy-goldmine/hollywood-films-vs/1/)
-* [Fighting Game Quips Make All Movies Better](https://www.somethingawful.com/news/fighting-game-subtitles/)
-* [Why the Last Thing the USA Needs is More Goddang Teachers](https://www.somethingawful.com/news/don-larry-teachers/1/)
-* [The Great Glittering Balloon Caper](https://www.somethingawful.com/news/glittering-balloon-caper/1/)
+* [Final Fantasy 9 (PSX)](https://www.somethingawful.com/game-reviews/final-fantasy-psx/1/)
+* [Dinosaurs in ancient Cambodian temple](https://www.somethingawful.com/awful-links/awful-link-4404/)
+* [A Brief History of Skull Island](https://www.somethingawful.com/news/skull-island-history/1/)
+* [The Chinese are on the right track](https://www.somethingawful.com/news/chinese-on-right/)
+* [Zelda CD-i Remix](https://www.somethingawful.com/flash-tub/zelda-cdi-remix/)
 
 [Random!](https://www.somethingawful.com/random/)
 
