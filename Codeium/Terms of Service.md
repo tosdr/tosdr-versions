@@ -25,7 +25,7 @@ _Interested in Teams? Check out the [Teams Terms of Service](https://codeium.com
 
 **Terms of Service: Individual & Pro**
 
-**Last updated November 11, 2024**
+**Last updated December 9, 2024**
 
 Thank you for choosing to be part of our community at Exafunction, Inc. ("**Company**," "**we**," "**us**," or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at [hello@codeium.com](mailto:hello@codeium.com).
 
@@ -67,7 +67,7 @@ Thank you for choosing to be part of our community at Exafunction, Inc. ("**Comp
 
 8.1. **Third-Party Services and Linked Websites.** Exafunction may provide tools through the Service that enable you to export information, including User Content, to third-party services. By using one of these tools, you hereby authorize Exafunction to transfer that information to the applicable third-party service. Third-party services are not under Exafunction’s control, and, to the fullest extent permitted by law, Exafunction is not responsible for any third-party service’s use of your exported information. The Service may also contain links to third-party websites. Linked websites are not under Exafunction’s control, and Exafunction is not responsible for their content. Please be sure to review the terms of use and privacy policy of any third-party services before you share any User Content or information with such third-party services. Once sharing occurs, Exafunction will have no control over the information that has been shared.
 
-8.2. **Third-Party Software.** The Service may include or incorporate third-party software components that are generally available free of charge under licenses granting recipients broad rights to copy, modify, and distribute those components (**“Third-Party Components”**). Although the Service is provided to you subject to these Terms, nothing in these Terms prevents, restricts, or is intended to prevent or restrict you from obtaining Third-Party Components under the applicable third-party licenses or to limit your use of Third-Party Components under those third-party licenses.
+8.2. **Third-Party Software.** The Service may include or incorporate third-party software components that are generally available free of charge under licenses granting recipients broad rights to copy, modify, and distribute those components (**“Third-Party Components”**). Although the Service is provided to you subject to these Terms, nothing in these Terms prevents, restricts, or is intended to prevent or restrict you from obtaining Third-Party Components under the applicable third-party licenses or to limit your use of Third-Party Components under those third-party licenses. Any extension that Exafunction publishes on the Visual Studio Marketplace may only be used with Microsoft Visual Studio, Visual Studio for Mac, Visual Studio Code, GitHub Codespaces, and platforms based on Visual Studio Code that are made available under an open source license. Exafunction Windsurf extensions, as published on OpenVSX or otherwise, may only be used with the Windsurf IDE.
 
 **9\. User Content**
 
