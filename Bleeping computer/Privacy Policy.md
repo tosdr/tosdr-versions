@@ -36,18 +36,18 @@
         
         Chinese hackers use Visual Studio Code tunnels for remote access](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-visual-studio-code-tunnels-for-remote-access/)
     
+    * [![Cleo patches critical zero-day exploited in data theft attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Cleo patches critical zero-day exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/cleo-patches-critical-zero-day-exploited-in-data-theft-attacks/)
+    * [![Spain busts voice phishing ring for defrauding 10,000 bank customers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Spain busts voice phishing ring for defrauding 10,000 bank customers](https://www.bleepingcomputer.com/news/security/spain-busts-voice-phishing-ring-for-defrauding-10-000-bank-customers/)
+    * [![Bitcoin ATM firm Byte Federal hacked via GitLab flaw, 58K users exposed](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Bitcoin ATM firm Byte Federal hacked via GitLab flaw, 58K users exposed](https://www.bleepingcomputer.com/news/security/bitcoin-atm-firm-byte-federal-hacked-via-gitlab-flaw-58k-users-exposed/)
     * [![Ditch the monthly payments: a lifetime of Microsoft Office is now $70](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Ditch the monthly payments: a lifetime of Microsoft Office is now $70](https://www.bleepingcomputer.com/offer/deals/ditch-the-monthly-payments-a-lifetime-of-microsoft-office-is-now-70/)
-    * [![Hunk Companion WordPress plugin exploited to install vulnerable plugins](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Hunk Companion WordPress plugin exploited to install vulnerable plugins](https://www.bleepingcomputer.com/news/security/hunk-companion-wordpress-plugin-exploited-to-install-vulnerable-plugins/)
-    * [![Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024 MITRE ATT&CK Evaluation](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Cynet Delivers 100% Protection and 100% Detection Visibility in the 2024 MITRE ATT&CK Evaluation](https://www.bleepingcomputer.com/news/security/cynet-delivers-100-percent-protection-and-100-percent-detection-visibility-in-the-2024-mitre-attandck-evaluation/)
-    * [![New EagleMsgSpy Android spyware used by Chinese police, researchers say](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New EagleMsgSpy Android spyware used by Chinese police, researchers say](https://www.bleepingcomputer.com/news/security/new-eaglemsgspy-android-spyware-used-by-chinese-police-researchers-say/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
