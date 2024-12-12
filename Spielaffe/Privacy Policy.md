@@ -1,5 +1,7 @@
 ![](/dist/images/svg/bg-top-right.svg)
 
+[](https://easy-feedback.de/nps/1921125/xi8gCK)[](https://easy-feedback.de/nps/1921125/xi8gCK)
+
 [](https://www.spielaffe.de/ "Spielaffe")
 
 * * 
