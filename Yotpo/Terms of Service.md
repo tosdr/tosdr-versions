@@ -309,7 +309,7 @@ Resources
 * [Blog](https://www.yotpo.com/blog/)
 * [Integrations](https://www.yotpo.com/integrations/)
 * [Product Releases](https://www.yotpo.com/product-releases/)
-* [Use Cases](https://www.yotpo.com/use-cases)
+* [Use Cases](https://www.yotpo.com/use-cases/)
 * [Community](https://community.yotpo.com/?utm_source=yotpo.com&utm_medium=footer)
 * [Amazing Women in eCommerce](https://www.womeninecomm.com/?utm_source=yotpo.com&utm_medium=footer)
 
