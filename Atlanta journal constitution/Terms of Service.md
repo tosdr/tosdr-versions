@@ -1,6 +1,8 @@
 error: no ad slot id exists: undefined
 
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1889)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1889)](https://www.ajc.com/)
+[Breaking: Atlanta area remains off-limits to Young Thug this holiday season, judge says](https://www.ajc.com/news/crime/atlanta-area-remains-off-limits-to-young-thug-this-holiday-season-judge-says/LRIOJ64DPBATHFGN7BAWH5V4XU/)
+
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1891)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1891)](https://www.ajc.com/)
 
 Log In
 
@@ -16,14 +18,13 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-a-40-year-quest-for-the-truth/RTAEVYJK7ZA57FTY2FY3M57H74/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Best Diners in Georgia](https://www.ajc.com/food-and-dining/best-diners-in-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [UGA](https://www.ajc.com/sports/georgia-bulldogs/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1889)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1891)
 
 * Quick Links
     
@@ -147,7 +148,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1889)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1891)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
