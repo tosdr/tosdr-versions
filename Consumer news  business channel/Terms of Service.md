@@ -92,6 +92,7 @@
 [PRO](https://www.cnbc.com/application/pro?__source=pro|globalnav|join&tpcc=pro|globalnav|join)
 
 * [Pro News](https://www.cnbc.com/pro/news/)
+* [My Portfolio](https://www.cnbc.com/my-portfolio/)NEW!
 * [Livestream](https://www.cnbc.com/live-tv/)
 * [Full Episodes](https://www.cnbc.com/live-tv/full-episodes/)
 * [Stock Screener](https://www.cnbc.com/pro-stock-screener/)
