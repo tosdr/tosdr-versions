@@ -167,18 +167,18 @@ Atos homepage](https://atos.net/en/)
         
         ### Latest articles
         
+        * [It’s time to expect more from managed infrastructure services](https://atos.net/en/blog/expect-more-from-managed-infrastructure-services)
         * [Regenerative IT: Sustainable technology and environmental stewardship](https://atos.net/en/blog/regenerative-it-sustainable-technology-environmental-stewardship)
         * [Building an inclusive future with digital accessibility maturity assessments](https://atos.net/en/blog/building-an-inclusive-future-with-digital-accessibility-maturity-assessments)
         * [GraphRAG: Transforming business intelligence](https://atos.net/en/blog/graphrag-transforming-business-intelligence-retrieval-augmented-generation)
-        * [Bringing disability inclusion from the margins to mainstream](https://atos.net/en/blog/positively-purple-2024-disability-inclusion)
         
         [All articles](https://atos.net/en/blog)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Dec 10, 2024
+        Dec 12, 2024
         
-        ### Regenerative IT: Sustainable technology and environmental stewardship
+        ### It’s time to expect more from managed infrastructure services
         
     * [Client Stories](https://atos.net/en/client-stories)˅
         
