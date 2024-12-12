@@ -206,7 +206,7 @@ Resources
 
 [![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/639b38f65c1ff15ef2c038d3_icons8-video-demos.webp)
 
-Video demos](https://www.beaconcrm.org/video-demos)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/639b38a10c75516546e9ba94_icons8-info-popup-96%201%20(1).webp)
+Video demos](https://www.beaconcrm.org/on-demand-demo)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/639b38a10c75516546e9ba94_icons8-info-popup-96%201%20(1).webp)
 
 Guide to Beacon](https://guide.beaconcrm.org/)[![](https://cdn.prod.website-files.com/6369f7fe243b240624080be7/639b38ba651c0a0dd53c6efb_icons8-museum-96%201%20(1).webp)
 
