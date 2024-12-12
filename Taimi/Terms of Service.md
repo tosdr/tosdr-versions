@@ -187,7 +187,7 @@ If you have any questions regarding subscription, please, contact our customer s
 
 En De Es Fr It Pt Nl
 
-[](https://www.facebook.com/taimiapp)[](https://twitter.com/taimiapp)[](https://www.instagram.com/taimiapp)[](https://www.tiktok.com/@taimiapp)
+[](https://www.facebook.com/taimiapp)[](https://x.com/taimiapp)[](https://www.instagram.com/taimiapp)[](https://www.tiktok.com/@taimiapp)
 
 Company
 
