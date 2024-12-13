@@ -152,13 +152,13 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Packstation suchen
 
-[](https://www.emp.de/bekleidung/?pmid=SAM-3374_20per_Afterwork_EUR)
+[](https://www.emp.de/sale/)
 
-20% EXTRA auf (fast) ALLES\*
+Geschenke pünktlich zum Fest!
 
-Ab auf den Weihnachtsmarkt!
+Sichere dir dein Schnäppchen!
 
-[Jetzt bestellen!](https://www.emp.de/bekleidung/?pmid=SAM-3374_20per_Afterwork_EUR "Jetzt bestellen!") Code **SAVE** kopieren
+[Jetzt shoppen!](https://www.emp.de/sale/ "Jetzt shoppen!")
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
