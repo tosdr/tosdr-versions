@@ -26,25 +26,25 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-brian-bergen-1200x630.jpg)](https://americanwirenews.com/fuming-new-jersey-rep-walks-out-on-dhs-drones-briefing-amateur-hourthey-dont-know-anything/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-aoc-nancy-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/pelosi-reportedly-trying-to-knife-aoc-as-she-eyes-house-leadership-spot/)
 
-[New Jersey Rep WALKS OUT on DHS drones briefing: ‘Amateur hour…They don’t know anything!’](https://americanwirenews.com/fuming-new-jersey-rep-walks-out-on-dhs-drones-briefing-amateur-hourthey-dont-know-anything/)
+[Pelosi reportedly trying to knife AOC as she eyes House leadership spot](https://americanwirenews.com/pelosi-reportedly-trying-to-knife-aoc-as-she-eyes-house-leadership-spot/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rrouth-1200-x-628-1200x630.jpg)](https://americanwirenews.com/new-report-on-attempted-trump-assassination-indicates-agent-missed-six-very-close-shots/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kamala-harris-1200x630.png)](https://americanwirenews.com/kamala-looks-like-shes-crocked-at-christmas-party/)
 
-[New report on attempted Trump assassination indicates agent missed SIX very close shots](https://americanwirenews.com/new-report-on-attempted-trump-assassination-indicates-agent-missed-six-very-close-shots/)
+[Kamala looks like she’s crocked at Christmas party](https://americanwirenews.com/kamala-looks-like-shes-crocked-at-christmas-party/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-nyse-1200x630.jpg)](https://americanwirenews.com/america-is-so-back-usa-chants-erupt-as-trump-makes-history-greeted-like-a-rock-star-at-nyse/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cop-ashlii-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/cop-who-gunned-down-ashli-babbitt-was-not-supposed-to-be-employed-at-the-time-of-j6-report/)
 
-[‘America is so back!’ USA chants erupt as Trump makes history, greeted like a rock star at NYSE](https://americanwirenews.com/america-is-so-back-usa-chants-erupt-as-trump-makes-history-greeted-like-a-rock-star-at-nyse/)
+[Cop who gunned down Ashli Babbitt was not supposed to be employed at the time of J6, report says](https://americanwirenews.com/cop-who-gunned-down-ashli-babbitt-was-not-supposed-to-be-employed-at-the-time-of-j6-report/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-covington-1200x630.jpg)](https://americanwirenews.com/mma-fighter-puts-fing-scumbag-lebron-james-on-blast-people-think-hes-a-role-model/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-patrick-ingraham-1200x630.jpg)](https://americanwirenews.com/texas-lt-governor-dan-patrick-vows-to-bid-on-border-wall-material-biden-is-selling-for-pennies-on-the-dollar/)
 
-[MMA fighter puts ‘f\*\*ing scumbag’ LeBron James on blast: ‘People think he’s a role model?!’](https://americanwirenews.com/mma-fighter-puts-fing-scumbag-lebron-james-on-blast-people-think-hes-a-role-model/)
+[Texas Lt. Governor Dan Patrick vows to bid on border wall material Biden is selling for pennies on the dollar](https://americanwirenews.com/texas-lt-governor-dan-patrick-vows-to-bid-on-border-wall-material-biden-is-selling-for-pennies-on-the-dollar/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jeffries-1200x630.jpg)](https://americanwirenews.com/stunner-jeffries-says-no-dems-will-support-johnson-as-speaker/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-getty-dining-1200x630.jpg)](https://americanwirenews.com/food-workers-in-dc-vow-to-make-incoming-trump-officials-feel-unwelcome/)
 
-[Stunner: Jeffries says no Dems will support Johnson as Speaker](https://americanwirenews.com/stunner-jeffries-says-no-dems-will-support-johnson-as-speaker/)
+[Food workers in DC vow to make incoming Trump officials feel unwelcome](https://americanwirenews.com/food-workers-in-dc-vow-to-make-incoming-trump-officials-feel-unwelcome/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-burrow-1200x630.jpg)](https://americanwirenews.com/emotional-bangles-qb-addresses-lack-of-privacy-burglary-of-his-home-in-latest-nfl-targeted-crime/)
 
@@ -58,9 +58,9 @@ Search for:
 
 [Satanic holiday statue erected in front of New Hampshire State House didn’t last long: ‘Found in three pieces’](https://americanwirenews.com/satanic-holiday-statue-erected-in-front-of-new-hampshire-state-house-didnt-last-long-found-in-three-pieces/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/02/SG-Justin-Trudeau-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-aoc-uhckiller-1200-x-628-1200x630.jpg)
 
-### Trudeau takes a shot at US for failing to elect a woman president after Trump’s ‘governor’ jab](https://americanwirenews.com/trudeau-takes-a-shot-at-us-for-failing-to-elect-a-woman-president-after-trumps-governor-jab/)
+### AOC seems to justify CEO’s murder because denied insurance claims are an ‘act of violence’](https://americanwirenews.com/aoc-seems-to-justify-ceos-murder-because-denied-insurance-claims-are-an-act-of-violence/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +77,18 @@ Search for:
 ### [Republicans slams Gov Hochul for ‘bribing’ New Yorkers with cash ahead of possible primary](https://americanwirenews.com/republicans-slams-gov-hochul-for-bribing-new-yorkers-with-cash-ahead-of-possible-primary/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-2183217627-1-220x180.jpg)](https://americanwirenews.com/trump-answers-whether-wife-melania-plans-to-join-him-at-the-white-house/)
+
+[Trump answers whether wife Melania plans to join him at the White House](https://americanwirenews.com/trump-answers-whether-wife-melania-plans-to-join-him-at-the-white-house/)
+
+(Photo by Chip Somodevilla/Getty Images)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-trump-220x180.jpg)](https://americanwirenews.com/bezos-gives-1-million-to-inauguration-fund-amazon-will-stream-live/)
+
+[Bezos gives $1 million to inauguration fund, Amazon will stream live](https://americanwirenews.com/bezos-gives-1-million-to-inauguration-fund-amazon-will-stream-live/)
+
+(Official White House Photo by Joyce N. Boghosian)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-2189240078-1-220x180.jpg)](https://americanwirenews.com/kc-chiefs-superstar-rips-nfl-for-making-team-play-on-christmas-day/)
 
@@ -173,14 +185,6 @@ Image: Pixabay
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-upenn-220x180.png)](https://americanwirenews.com/socialist-upenn-professor-goes-dark-after-unwanted-attention-over-post-celebrating-ceos-murder/)
 
 [Socialist UPenn professor goes dark after unwanted attention over post celebrating CEO’s murder](https://americanwirenews.com/socialist-upenn-professor-goes-dark-after-unwanted-attention-over-post-celebrating-ceos-murder/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-klobuchar-220x180.jpg)](https://americanwirenews.com/dem-senator-demands-wray-serve-his-full-10-year-term-desantis-sets-her-straight/)
-
-[Dem senator demands Wray serve his full 10-year term, DeSantis sets her straight](https://americanwirenews.com/dem-senator-demands-wray-serve-his-full-10-year-term-desantis-sets-her-straight/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rogan-220x180.jpg)](https://americanwirenews.com/joe-rogan-slams-f-ing-gross-health-insurance-as-a-dirty-dirty-business/)
-
-[Joe Rogan slams ‘f-ing gross’ health insurance as a ‘dirty, dirty business’](https://americanwirenews.com/joe-rogan-slams-f-ing-gross-health-insurance-as-a-dirty-dirty-business/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
