@@ -20,16 +20,16 @@ Friday, December 13 2024
 
 Latest
 
-* [New stealthy Pumakit Linux rootkit malware spotted in the wild](https://digitpatrox.com/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
-* [Elon Musk is mad at the SEC again](https://digitpatrox.com/elon-musk-is-mad-at-the-sec-again/)
-* [ChatGPT Can Finally See Through Your Camera for Real-Time Interaction](https://digitpatrox.com/chatgpt-can-finally-see-through-your-camera-for-real-time-interaction/)
-* [How to watch Usyk vs Fury 2 online from anywhere](https://digitpatrox.com/how-to-watch-usyk-vs-fury-2-online-from-anywhere/)
-* [Europol just took down 27 DDoS-for-hire sites](https://digitpatrox.com/europol-just-took-down-27-ddos-for-hire-sites/)
-* [No support or updates for Windows 11 PCs without minimum hardware requirements – Computerworld](https://digitpatrox.com/no-support-or-updates-for-windows-11-pcs-without-minimum-hardware-requirements-computerworld/)
-* [How to Do Strength Workouts on a Garmin Watch](https://digitpatrox.com/how-to-do-strength-workouts-on-a-garmin-watch/)
-* [How to watch Love Actually on Netflix](https://digitpatrox.com/how-to-watch-love-actually-on-netflix/)
-* [How to restore AM/PM and year for time and date in Taskbar on Windows 11](https://digitpatrox.com/how-to-restore-am-pm-and-year-for-time-and-date-in-taskbar-on-windows-11/)
-* [How to Decode a Toothpaste Label](https://digitpatrox.com/how-to-decode-a-toothpaste-label/)
+* [Police shuts down Rydox cybercrime market, arrests 3 admins](https://digitpatrox.com/police-shuts-down-rydox-cybercrime-market-arrests-3-admins/)
+* [Naughty Dog reveals sci-fi game Intergalactic: The Heretic Prophet](https://digitpatrox.com/naughty-dog-reveals-sci-fi-game-intergalactic-the-heretic-prophet/)
+* [Ryan Reynolds Returns as Deadpool in a New Christmas Special Video](https://digitpatrox.com/ryan-reynolds-returns-as-deadpool-in-a-new-christmas-special-video/)
+* [Is Crypto.com safe to use? What you need to know](https://digitpatrox.com/is-crypto-com-safe-to-use-what-you-need-to-know/)
+* [Google wants regulators to break up Microsoft’s OpenAI deal](https://digitpatrox.com/google-wants-regulators-to-break-up-microsofts-openai-deal/)
+* [Scale AI under fire in suit filed by former worker alleging unlawful business practices – Computerworld](https://digitpatrox.com/scale-ai-under-fire-in-suit-filed-by-former-worker-alleging-unlawful-business-practices-computerworld/)
+* [Ciri Takes the Lead Role in ‘The Witcher 4’](https://digitpatrox.com/ciri-takes-the-lead-role-in-the-witcher-4/)
+* [Are Mobile Hotspots Secure? (Are They Safer Than Public Wi-Fi?)](https://digitpatrox.com/are-mobile-hotspots-secure-are-they-safer-than-public-wi-fi/)
+* [How to sync settings across devices on Windows 10](https://digitpatrox.com/how-to-sync-settings-across-devices-on-windows-10/)
+* [How to Avoid Buying a Lemon Appliance](https://digitpatrox.com/how-to-avoid-buying-a-lemon-appliance/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/05/31/Linux.jpg)](https://digitpatrox.com/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/12/12/police-raid.jpg)](https://digitpatrox.com/police-shuts-down-rydox-cybercrime-market-arrests-3-admins/)
     
-    [New stealthy Pumakit Linux rootkit malware spotted in the wild](https://digitpatrox.com/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
+    [Police shuts down Rydox cybercrime market, arrests 3 admins](https://digitpatrox.com/police-shuts-down-rydox-cybercrime-market-arrests-3-admins/)
     
-    6 minutes ago
+    4 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/r3TlhwliK8Gt8pomhvVEgzTm1-I=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25355893/STK022_ELON_MUSK_CVIRGINIA_B.jpg)](https://digitpatrox.com/elon-musk-is-mad-at-the-sec-again/)
+* [![](https://cdn.vox-cdn.com/thumbor/WxhGNQCGj_kJBeoP8Pw3SaZNhFI=/0x0:1669x900/1200x628/filters:focal(835x450:836x451)/cdn.vox-cdn.com/uploads/chorus_asset/file/25788066/Screenshot_2024_12_12_at_7.54.35_PM.png)](https://digitpatrox.com/naughty-dog-reveals-sci-fi-game-intergalactic-the-heretic-prophet/)
     
-    [Elon Musk is mad at the SEC again](https://digitpatrox.com/elon-musk-is-mad-at-the-sec-again/)
+    [Naughty Dog reveals sci-fi game Intergalactic: The Heretic Prophet](https://digitpatrox.com/naughty-dog-reveals-sci-fi-game-intergalactic-the-heretic-prophet/)
     
-    23 minutes ago
+    21 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/12/chatgpt-live-video-demo.jpg)](https://digitpatrox.com/chatgpt-can-finally-see-through-your-camera-for-real-time-interaction/)
+* [![](https://beebom.com/wp-content/uploads/2024/12/Deadpool-and-Kidpool.jpg)](https://digitpatrox.com/ryan-reynolds-returns-as-deadpool-in-a-new-christmas-special-video/)
     
-    [ChatGPT Can Finally See Through Your Camera for Real-Time Interaction](https://digitpatrox.com/chatgpt-can-finally-see-through-your-camera-for-real-time-interaction/)
+    [Ryan Reynolds Returns as Deadpool in a New Christmas Special Video](https://digitpatrox.com/ryan-reynolds-returns-as-deadpool-in-a-new-christmas-special-video/)
     
-    39 minutes ago
+    37 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/05/How-to-watch-Oleksandr-Usyk-vs-Tyson-Fury-online-from-anywhere.jpg)](https://digitpatrox.com/how-to-watch-usyk-vs-fury-2-online-from-anywhere/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Is-Crypto.com-safe-to-use_.jpg)](https://digitpatrox.com/is-crypto-com-safe-to-use-what-you-need-to-know/)
     
-    [How to watch Usyk vs Fury 2 online from anywhere](https://digitpatrox.com/how-to-watch-usyk-vs-fury-2-online-from-anywhere/)
+    [Is Crypto.com safe to use? What you need to know](https://digitpatrox.com/is-crypto-com-safe-to-use-what-you-need-to-know/)
     
     2 hours ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/X8SLtm2YmMKNBeG8ZeCDXf-1200-80.jpg)](https://digitpatrox.com/europol-just-took-down-27-ddos-for-hire-sites/)
+* [![](https://cdn.mos.cms.futurecdn.net/dXKgPbmY5yjVGXj9GKHCg8-1200-80.jpg)](https://digitpatrox.com/google-wants-regulators-to-break-up-microsofts-openai-deal/)
     
-    [Europol just took down 27 DDoS-for-hire sites](https://digitpatrox.com/europol-just-took-down-27-ddos-for-hire-sites/)
+    [Google wants regulators to break up Microsoft’s OpenAI deal](https://digitpatrox.com/google-wants-regulators-to-break-up-microsofts-openai-deal/)
     
     2 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [6 minutes ago
+* [4 minutes ago
     
-    ### New stealthy Pumakit Linux rootkit malware spotted in the wild](https://digitpatrox.com/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
-* [23 minutes ago
+    ### Police shuts down Rydox cybercrime market, arrests 3 admins](https://digitpatrox.com/police-shuts-down-rydox-cybercrime-market-arrests-3-admins/)
+* [21 minutes ago
     
-    ### Elon Musk is mad at the SEC again](https://digitpatrox.com/elon-musk-is-mad-at-the-sec-again/)
-* [39 minutes ago
+    ### Naughty Dog reveals sci-fi game Intergalactic: The Heretic Prophet](https://digitpatrox.com/naughty-dog-reveals-sci-fi-game-intergalactic-the-heretic-prophet/)
+* [37 minutes ago
     
-    ### ChatGPT Can Finally See Through Your Camera for Real-Time Interaction](https://digitpatrox.com/chatgpt-can-finally-see-through-your-camera-for-real-time-interaction/)
+    ### Ryan Reynolds Returns as Deadpool in a New Christmas Special Video](https://digitpatrox.com/ryan-reynolds-returns-as-deadpool-in-a-new-christmas-special-video/)
 
 Most Popular Topics
 
-* [September 21, 2024
+* [August 28, 2024
     
-    ### Offline Home Assistants Might Be the Most Important Smart Home Technology Yet](https://digitpatrox.com/offline-home-assistants-might-be-the-most-important-smart-home-technology-yet/)
-* [September 26, 2024
+    ### APAC Telcos Poised to Lead Global 6G Rollout](https://digitpatrox.com/apac-telcos-poised-to-lead-global-6g-rollout/)
+* [September 20, 2024
     
-    ### Apple Watch Series 10 Has Larger Screen and Faster Charging](https://digitpatrox.com/apple-watch-series-10-has-larger-screen-and-faster-charging/)
-* [3 weeks ago
+    ### China-Linked Attack Hits 260,000 Devices, FBI Confirms](https://digitpatrox.com/china-linked-attack-hits-260000-devices-fbi-confirms/)
+* [7 days ago
     
-    ### Lenovo ThinkPad P1 Gen 7 review](https://digitpatrox.com/lenovo-thinkpad-p1-gen-7-review/)
+    ### Attack on Titan The Last Attack Receives a Worldwide Theatrical Release Window](https://digitpatrox.com/attack-on-titan-the-last-attack-receives-a-worldwide-theatrical-release-window/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### How to Do Strength Workouts on a Garmin Watch](https://digitpatrox.com/how-to-do-strength-workouts-on-a-garmin-watch/)
+    ### Ciri Takes the Lead Role in ‘The Witcher 4’](https://digitpatrox.com/ciri-takes-the-lead-role-in-the-witcher-4/)
 * [3 hours ago
     
-    ### How to watch Love Actually on Netflix](https://digitpatrox.com/how-to-watch-love-actually-on-netflix/)
+    ### Are Mobile Hotspots Secure? (Are They Safer Than Public Wi-Fi?)](https://digitpatrox.com/are-mobile-hotspots-secure-are-they-safer-than-public-wi-fi/)
 * [3 hours ago
     
-    ### How to restore AM/PM and year for time and date in Taskbar on Windows 11](https://digitpatrox.com/how-to-restore-am-pm-and-year-for-time-and-date-in-taskbar-on-windows-11/)
+    ### How to sync settings across devices on Windows 10](https://digitpatrox.com/how-to-sync-settings-across-devices-on-windows-10/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
+* [August 11, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
