@@ -5,7 +5,7 @@ Privacy Information
 
 Trust is our #1 value. Salesforce’s top priority is the security and privacy of the data that we are entrusted to protect.
 
-[See Privacy Statement](https://www.salesforce.com/company/legal/privacy/#1715371091743_14ay)
+[See Privacy Statement](#privacy-statement)
 
 ![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/marquee-legal-background-desktop.jpg?w=1024)
 
@@ -50,7 +50,7 @@ We continuously monitor the global privacy landscape and adapt our privacy progr
 
 ### Contact Information
 
-To exercise your rights relating to your personal data, or if you have questions regarding our privacy practices, please fill out [this form](https://www.salesforce.com/form/other/privacy-request/), or email us at [privacy@salesforce.com.](mailto:privacy@salesforce.com) For more information about contacting us, see the “Contacting Us” section below.
+To exercise your rights relating to your personal data, or if you have questions regarding our privacy practices, please fill out [this form](https://www.salesforce.com/form/other/privacy-request/?d=pb), or email us at [privacy@salesforce.com.](mailto:privacy@salesforce.com) For more information about contacting us, see the “Contacting Us” section below.
 
 ![](https://wp.sfdcdigital.com/en-us/wp-content/uploads/sites/4/2024/05/1-up-legal-privacy-data.jpg?w=1024)
 
@@ -161,7 +161,7 @@ For more details on your rights and choices and how to exercise them, please rev
 
 ### Contacting us
 
-To exercise your rights relating to your Personal Data, or if you have questions regarding our privacy practices, please fill out [this form](https://www.salesforce.com/form/other/privacy-request/)[,](https://www.salesforce.com/form/other/privacy-request/) email us at [privacy@salesforce.com](mailto:privacy@salesforce.com) or [datasubjectrequest@salesforce.com](mailto:datasubjectrequest@salesforce.com), call us at tel:1-855-938-3410 or write to us at:
+To exercise your rights relating to your Personal Data, or if you have questions regarding our privacy practices, please fill out [this form](https://www.salesforce.com/form/other/privacy-request/?d=pb), email us at [privacy@salesforce.com](mailto:privacy@salesforce.com) or [datasubjectrequest@salesforce.com](mailto:datasubjectrequest@salesforce.com), call us at tel:1-855-938-3410 or write to us at:
 
 Salesforce Data Protection Officer (Salesforce Privacy Team) (and in India, a Grievance Officer)
 
@@ -170,7 +170,7 @@ San Francisco, CA 94105, USA
 
 When you contact us, please indicate in which country and/or state you reside.
 
-If you believe that we have not been able to assist with your complaint or concern, and you are located in the EEA or the UK, you have the right to lodge a complaint with the competent supervisory authority. If you work or reside in a country that is a member of the European Union or that is in the EEA, you may find the contact details for your appropriate data protection authority on the [following website.](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en)
+If you believe that we have not been able to assist with your complaint or concern, and you are located in the EEA or the UK, you have the right to lodge a complaint with the competent supervisory authority. If you work or reside in a country that is a member of the European Union or that is in the EEA, you may find the contact details for your appropriate data protection authority on the [following website](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en)[.](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en)
 
 Full Salesforce Privacy Statement
 ---------------------------------
@@ -501,7 +501,7 @@ We encourage you to periodically review this Privacy Statement to stay informed 
 13\. Contacting us
 ------------------
 
-Salesforce has appointed a Data Protection Officer and, in India, a Grievance Officer. To exercise your rights regarding your Personal Data, or if you have questions regarding this Privacy Statement or our privacy practices please fill out [this form](https://www.salesforce.com/form/contact/contact-privacy.jsp), email us at [privacy@salesforce.com](mailto:privacy@salesforce.com/) or [datasubjectrequest@salesforce.com](mailto:datasubjectrequest@salesforce.com/), call us at +1-855-938-3410, or write to us at:
+Salesforce has appointed a Data Protection Officer and, in India, a Grievance Officer. To exercise your rights regarding your Personal Data, or if you have questions regarding this Privacy Statement or our privacy practices please fill out [this form](https://www.salesforce.com/form/other/privacy-request/?d=pb), email us at [privacy@salesforce.com](mailto:privacy@salesforce.com/) or [datasubjectrequest@salesforce.com](mailto:datasubjectrequest@salesforce.com/), call us at +1-855-938-3410, or write to us at:
 
 Salesforce Data Protection Officer (Salesforce Privacy Team)
 
