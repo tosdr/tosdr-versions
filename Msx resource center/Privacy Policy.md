@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -137,6 +137,7 @@ MSX Music player
 
 Latest reactions
 
+* [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
 * [The Goonies enhanced](https://www.msx.org/news/en/the-goonies-enhanced "The Goonies enhanced")
 * [Wammes Witkop passed away](https://www.msx.org/news/en/wammes-witkop-passed-away "Wammes Witkop passed away")
 * [MSXdev24 #15 Titan Ufo](https://www.msx.org/news/challenges/en/msxdev24-15-titan-ufo "MSXdev24 #15 Titan Ufo")
@@ -146,23 +147,22 @@ Latest reactions
 * [MSX GOTO40](https://www.msx.org/news/en/goto-40 "MSX GOTO40")
 * [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 * [Ankje Kalkwiek passed away at the age of 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at the age of 77")
-* [Sander Niessen playing Duck Hunt like a pro...](https://www.msx.org/photoshoots/nijmegen-2012/sander-niessen-playing-duck-hunt-pro "Sander Niessen playing Duck Hunt like a pro...")
 
 Latest forum posts
 
 * [which MSX1 games could be played with a Trackball?](https://www.msx.org/forum/msx-talk/software/which-msx1-games-could-be-played-with-a-trackball "which MSX1 games could be played with a Trackball?")
-* [Question about the 2-button joysticks](https://www.msx.org/forum/msx-talk/development/question-about-the-2-button-joysticks "Question about the 2-button joysticks")
-* [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=3 "ZX Spectrum Convertions")
+* [Nice video from the BBC](https://www.msx.org/forum/msx-talk/general-discussion/nice-video-from-the-bbc "Nice video from the BBC")
+* [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=17 "Full English translation of Illusion City for MSX Turbo-R")
+* [Omega MSX 2 Build Quiestions](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-build-quiestions "Omega MSX 2 Build Quiestions")
+* [Omega MSX 2 Power Supply suggestion](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-power-supply-suggestion "Omega MSX 2 Power Supply suggestion")
 * [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=16 "Christmas Quiz 2024")
+* [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=3 "ZX Spectrum Convertions")
+* [Question about the 2-button joysticks](https://www.msx.org/forum/msx-talk/development/question-about-the-2-button-joysticks "Question about the 2-button joysticks")
 * [How do i load BAS.files into Bluemsx?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-load-basfiles-into-bluemsx?page=1 "How do i load BAS.files into Bluemsx?")
 * [OCM / Zemmix maximum ROM size?](https://www.msx.org/forum/msx-talk/hardware/ocm-zemmix-maximum-rom-size "OCM / Zemmix maximum ROM size?")
 * [Dynamite Go Go](https://www.msx.org/forum/msx-talk/general-discussion/dynamite-go-go?page=13 "Dynamite Go Go")
 * [Trying to fix a dead Toshiba HX-10](https://www.msx.org/forum/msx-talk/hardware/trying-to-fix-a-dead-toshiba-hx-10 "Trying to fix a dead Toshiba HX-10")
 * [RP2350B will change cartridges for MSX forever!](https://www.msx.org/forum/msx-talk/hardware/this-will-change-cartridges-for-msx-moving-forward?page=2 "RP2350B will change cartridges for MSX forever!")
-* [Nice video from the BBC](https://www.msx.org/forum/msx-talk/general-discussion/nice-video-from-the-bbc "Nice video from the BBC")
-* [MSX-USB BIOS version and compatibility test](https://www.msx.org/forum/msx-talk/hardware/msx-usb-bios-version-and-compatibility-test "MSX-USB BIOS version and compatibility test")
-* [MSX+Laserdisc arcade set](https://www.msx.org/forum/msx-talk/general-discussion/msxlaserdisc-arcade-set "MSX+Laserdisc arcade set")
-* [Astron Belt - Laserdisc - Not loading properly](https://www.msx.org/forum/msx-talk/software/astron-belt-laserdisc-not-loading-properly "Astron Belt - Laserdisc - Not loading properly")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
