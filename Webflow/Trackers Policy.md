@@ -95,6 +95,7 @@
         
         * [Contentful](https://webflow.com/vs/contentful)
         * [Sitecore](https://webflow.com/vs/sitecore)
+        * [Wix](https://webflow.com/vs/wix)
         * [WordPress](https://webflow.com/vs/wordpress)
     * [Customer story
         
