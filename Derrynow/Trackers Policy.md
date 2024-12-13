@@ -259,22 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Thursday: Partytime out and about with the Derry News (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about with the Derry News (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1678368/throwback-thursday-partytime-out-and-about-with-the-derry-news-2009.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about with the Derry News (2009)](https://www.derrynow.com/story-telling/pictures---videos/1678368/throwback-thursday-partytime-out-and-about-with-the-derry-news-2009.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Search stood down for teenage girl who was missing nearly three weeks](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Search stood down for teenage girl who was missing nearly three weeks")](https://www.derrynow.com/news/national-news/1678800/search-stood-down-for-teenage-girl-who-was-missing-nearly-three-weeks.html)
-
-An Garda Síochána would like to thank the media and the public for their assistance.
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Search stood down for teenage girl who was missing nearly three weeks](https://www.derrynow.com/news/national-news/1678800/search-stood-down-for-teenage-girl-who-was-missing-nearly-three-weeks.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death")](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
 
 The late Rebecca Browne
@@ -283,33 +267,6 @@ The late Rebecca Browne
 
 [Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![REVEALED: Organisers confirm familiar venue for the 2025 National Ploughing Championships](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "REVEALED: Organisers confirm familiar venue for the 2025 National Ploughing Championships")](https://www.derrynow.com/news/national-news/1679090/revealed-organisers-confirm-familiar-venue-for-the-2025-national-ploughing-championships.html)
-
-File photo. Credit: Alf Harvey
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[REVEALED: Organisers confirm familiar venue for the 2025 National Ploughing Championships](https://www.derrynow.com/news/national-news/1679090/revealed-organisers-confirm-familiar-venue-for-the-2025-national-ploughing-championships.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Christmas comes early for EuroMillions Plus player who claimed top prize](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Christmas comes early for EuroMillions Plus player who claimed top prize")](https://www.derrynow.com/news/national-news/1678781/christmas-comes-early-for-euromillions-plus-player-who-claimed-top-prize.html)
-
-Play National Lottery games responsibly, play for fun.     
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Christmas comes early for EuroMillions Plus player who claimed top prize](https://www.derrynow.com/news/national-news/1678781/christmas-comes-early-for-euromillions-plus-player-who-claimed-top-prize.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![BREAKING: Man arrested on suspicion of murdering Kyran Durnin](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "BREAKING: Man arrested on suspicion of murdering Kyran Durnin")](https://www.derrynow.com/news/national-news/1678899/breaking-man-arrested-on-suspicion-of-murdering-kyran-durnin.html)
-
-There has been no confirmed sighting of Kyran Durnin since May of 2022.
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[BREAKING: Man arrested on suspicion of murdering Kyran Durnin](https://www.derrynow.com/news/national-news/1678899/breaking-man-arrested-on-suspicion-of-murdering-kyran-durnin.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![BBC Home of the Year Finalist ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "BBC Home of the Year Finalist ")](https://www.derrynow.com/news/county-derry-post/1679114/county-derry-home-featured-in-homesnis-hotlist-of-2024.html)
 
@@ -320,23 +277,12 @@ BBC Home of the Year Finalist
 [County Derry Home Featured in HomesNI’s Hotlist of 2024](https://www.derrynow.com/news/county-derry-post/1679114/county-derry-home-featured-in-homesnis-hotlist-of-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Self confessed drug dealer jailed for 26 months at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Self confessed drug dealer jailed for 26 months at Derry Crown Court")](https://www.derrynow.com/news/local-news/1679038/self-confessed-drug-dealer-jailed-for-26-months-at-derry-crown-court.html)
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1679367/derry-death-notices-friday-november-13-2024.html)
 
-Derry Crown Court
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Self confessed drug dealer jailed for 26 months at Derry Crown Court](https://www.derrynow.com/news/local-news/1679038/self-confessed-drug-dealer-jailed-for-26-months-at-derry-crown-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man breached Sexual Offences Prevention Order by being in the presence of children](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man breached Sexual Offences Prevention Order by being in the presence of children")](https://www.derrynow.com/news/local-news/1679028/derry-man-breached-sexual-offences-prevention-order-by-being-in-the-presence-of-children.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man breached Sexual Offences Prevention Order by being in the presence of children](https://www.derrynow.com/news/local-news/1679028/derry-man-breached-sexual-offences-prevention-order-by-being-in-the-presence-of-children.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Friday, November 13, 2024](https://www.derrynow.com/news/deaths/1679367/derry-death-notices-friday-november-13-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man jailed at Derry Magistrate's Court for assaulting an ambulance worker](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man jailed at Derry Magistrate's Court for assaulting an ambulance worker")](https://www.derrynow.com/news/local-news/1679087/man-jailed-at-derry-magistrate-s-court-for-assaulting-an-ambulance-worker.html)
 
@@ -346,6 +292,50 @@ Altnagelvin Hospital
 
 [Man jailed at Derry Magistrate's Court for assaulting an ambulance worker](https://www.derrynow.com/news/local-news/1679087/man-jailed-at-derry-magistrate-s-court-for-assaulting-an-ambulance-worker.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Birds top suspects amid anger and confusion over missing grave stones in Greysteel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Birds top suspects amid anger and confusion over missing grave stones in Greysteel")](https://www.derrynow.com/news/home/1679103/birds-top-suspects-amid-anger-and-confusion-over-missing-grave-stones-in-greysteel.html)
+
+[Home](https://www.derrynow.com/)
+
+[Birds top suspects amid anger and confusion over missing grave stones in Greysteel](https://www.derrynow.com/news/home/1679103/birds-top-suspects-amid-anger-and-confusion-over-missing-grave-stones-in-greysteel.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PICTURES: Doireann Garrihy's husband Mark shares intimate snaps of wedding and honeymoon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Doireann Garrihy's husband Mark shares intimate snaps of wedding and honeymoon")](https://www.derrynow.com/news/national-news/1679801/pictures-doireann-garrihy-s-husband-mark-shares-intimate-snaps-of-wedding-and-honeymoon.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: Doireann Garrihy's husband Mark shares intimate snaps of wedding and honeymoon](https://www.derrynow.com/news/national-news/1679801/pictures-doireann-garrihy-s-husband-mark-shares-intimate-snaps-of-wedding-and-honeymoon.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Son of Kinahan crime boss to walk free from jail after admitting arms cache plot](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Son of Kinahan crime boss to walk free from jail after admitting arms cache plot")](https://www.derrynow.com/news/northern-ireland/1679215/son-of-kinahan-crime-boss-to-walk-free-from-jail-after-admitting-arms-cache-plot.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Son of Kinahan crime boss to walk free from jail after admitting arms cache plot](https://www.derrynow.com/news/northern-ireland/1679215/son-of-kinahan-crime-boss-to-walk-free-from-jail-after-admitting-arms-cache-plot.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Drugs seized at airport in operation targeting crime gangs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Drugs seized at airport in operation targeting crime gangs")](https://www.derrynow.com/news/northern-ireland/1679664/drugs-seized-at-airport-in-operation-targeting-crime-gangs.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Drugs seized at airport in operation targeting crime gangs](https://www.derrynow.com/news/northern-ireland/1679664/drugs-seized-at-airport-in-operation-targeting-crime-gangs.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Who are the guests on tonight's Graham Norton Show on BBC One as Irish stars lead line-up](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on tonight's Graham Norton Show on BBC One as Irish stars lead line-up")](https://www.derrynow.com/news/national-news/1679706/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-one-as-irish-stars-lead-line-up.html)
+
+Photo credit: Isabel Infantes/PA Wire
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Who are the guests on tonight's Graham Norton Show on BBC One as Irish stars lead line-up](https://www.derrynow.com/news/national-news/1679706/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-one-as-irish-stars-lead-line-up.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![GAA Guide: 11 live games this weekend with All-Ireland semis and finals down for decision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "GAA Guide: 11 live games this weekend with All-Ireland semis and finals down for decision")](https://www.derrynow.com/news/gaa/1679219/gaa-guide-11-live-games-this-weekend-with-all-ireland-semis-and-finals-down-for-decision.html)
+
+[GAA](https://www.derrynow.com/section/997/cookie-policy)
+
+[GAA Guide: 11 live games this weekend with All-Ireland semis and finals down for decision](https://www.derrynow.com/news/gaa/1679219/gaa-guide-11-live-games-this-weekend-with-all-ireland-semis-and-finals-down-for-decision.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,55 +513,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1679367/derry-death-notices-friday-november-13-2024.html)
+[![Reappointment and extension to the terms of appointment to Derry Diocesan Education Committee](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Reappointment and extension to the terms of appointment to Derry Diocesan Education Committee")](https://www.derrynow.com/news/local-news/1679813/reappointment-and-extension-to-the-terms-of-appointment-to-derry-diocesan-education-committee.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Education Paul Givan
 
-[Derry Death Notices - Friday, November 13, 2024](https://www.derrynow.com/news/deaths/1679367/derry-death-notices-friday-november-13-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Birds top suspects amid anger and confusion over missing grave stones in Greysteel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Birds top suspects amid anger and confusion over missing grave stones in Greysteel")](https://www.derrynow.com/news/home/1679103/birds-top-suspects-amid-anger-and-confusion-over-missing-grave-stones-in-greysteel.html)
+[Reappointment and extension to the terms of appointment to Derry Diocesan Education Committee](https://www.derrynow.com/news/local-news/1679813/reappointment-and-extension-to-the-terms-of-appointment-to-derry-diocesan-education-committee.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man charged with stealing electronic tag belonging to G4S](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with stealing electronic tag belonging to G4S")](https://www.derrynow.com/news/local-news/1679782/derry-man-charged-with-stealing-electronic-tag-belonging-to-g4s.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with stealing electronic tag belonging to G4S](https://www.derrynow.com/news/local-news/1679782/derry-man-charged-with-stealing-electronic-tag-belonging-to-g4s.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Magherafelt](https://www.derrynow.com/resizer/165/93/true/2024_12_13/Magherafelt_%281%29-1734089949769.jpg--.jpg?1734089950180 "Magherafelt")](https://www.derrynow.com/news/gaa/1679843/2024-paul-mcgirr-ulster-u16-club-championship-final-preview.html)
+
+Magherafelt
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[2024 Paul McGirr Ulster U16 Club Championship Final Preview](https://www.derrynow.com/news/gaa/1679843/2024-paul-mcgirr-ulster-u16-club-championship-final-preview.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Community groups and charities in Co Derry receive an early Christmas present from The National Lottery](https://www.derrynow.com/resizer/165/93/true/2024_12_13/Woodland_Trust_2-1734084151197.jpg--.jpg?1734084151281 "Community groups and charities in Co Derry receive an early Christmas present from The National Lottery")](https://www.derrynow.com/news/home/1679722/community-groups-and-charities-in-co-derry-receive-an-early-christmas-present-from-the-national-lottery.html)
+
+Members of the Playtrail taking part in nature and conservation activities run by the Woodland Trust. (Photo: Robert Watson/ WTNI) 
 
 [Home](https://www.derrynow.com/)
 
-[Birds top suspects amid anger and confusion over missing grave stones in Greysteel](https://www.derrynow.com/news/home/1679103/birds-top-suspects-amid-anger-and-confusion-over-missing-grave-stones-in-greysteel.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Community groups and charities in Co Derry receive an early Christmas present from The National Lottery](https://www.derrynow.com/news/home/1679722/community-groups-and-charities-in-co-derry-receive-an-early-christmas-present-from-the-national-lottery.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](https://www.derrynow.com/resizer/165/93/true/2024_12_12/Donegal_Live_image_%2824%29-1684862504084.png--rebecca_browne_gsoc_investigation_re_designated_-1734019642177.png--.png?1734019642259 "Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death")](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
+[![Mid Ulster Grant Aid Programme opens in New Year](https://www.derrynow.com/resizer/165/93/true/2024_12_13/jsonld-1734083612000.jpg--.jpg?1734083612026 "Mid Ulster Grant Aid Programme opens in New Year")](https://www.derrynow.com/news/home/1679717/mid-ulster-grant-aid-programme-opens-in-new-year.html)
 
-The late Rebecca Browne
+Under the small development grants, funding of up to £1,500 is available, while grants of up to £3,500 will also be available for community venues and facilities.
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Home](https://www.derrynow.com/)
 
-[Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Mid Ulster Grant Aid Programme opens in New Year](https://www.derrynow.com/news/home/1679717/mid-ulster-grant-aid-programme-opens-in-new-year.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![BBC Home of the Year Finalist ](https://www.derrynow.com/resizer/165/93/true/2024_12_12/BBC_Home_of_the_Year_Finalist-1734008043436.jpg--.jpg?1734008045229 "BBC Home of the Year Finalist ")](https://www.derrynow.com/news/county-derry-post/1679114/county-derry-home-featured-in-homesnis-hotlist-of-2024.html)
+[![Paul O'Connor, director, Pat Finucane Centre.](https://www.derrynow.com/resizer/165/93/true/2024_12_12/resizer-1734038303304.jpeg--.jpeg?1734038303334 "Paul O'Connor, director, Pat Finucane Centre.")](https://www.derrynow.com/news/local-news/1679537/icrir-accused-of-handpicking-specific-groups-to-respond-to-its-trauma-and-resilience-consultation.html)
 
-BBC Home of the Year Finalist
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[County Derry Home Featured in HomesNI’s Hotlist of 2024](https://www.derrynow.com/news/county-derry-post/1679114/county-derry-home-featured-in-homesnis-hotlist-of-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man jailed at Derry Magistrate's Court for assaulting an ambulance worker](https://www.derrynow.com/resizer/165/93/true/1635524105854.jpg--.jpg?1635524105000 "Man jailed at Derry Magistrate's Court for assaulting an ambulance worker")](https://www.derrynow.com/news/local-news/1679087/man-jailed-at-derry-magistrate-s-court-for-assaulting-an-ambulance-worker.html)
-
-Altnagelvin Hospital
+Paul O'Connor, director, Pat Finucane Centre.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man jailed at Derry Magistrate's Court for assaulting an ambulance worker](https://www.derrynow.com/news/local-news/1679087/man-jailed-at-derry-magistrate-s-court-for-assaulting-an-ambulance-worker.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Self confessed drug dealer jailed for 26 months at Derry Crown Court](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Self confessed drug dealer jailed for 26 months at Derry Crown Court")](https://www.derrynow.com/news/local-news/1679038/self-confessed-drug-dealer-jailed-for-26-months-at-derry-crown-court.html)
-
-Derry Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Self confessed drug dealer jailed for 26 months at Derry Crown Court](https://www.derrynow.com/news/local-news/1679038/self-confessed-drug-dealer-jailed-for-26-months-at-derry-crown-court.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ICRIR accused of handpicking specific groups to respond to its trauma and resilience consultation](https://www.derrynow.com/news/local-news/1679537/icrir-accused-of-handpicking-specific-groups-to-respond-to-its-trauma-and-resilience-consultation.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
