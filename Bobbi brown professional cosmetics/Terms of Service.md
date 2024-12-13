@@ -2,7 +2,7 @@
 
 Previous
 
-[BB Access members receive double points on any order. Use code: **DAY5** at checkout.](https://www.bobbibrowncosmetics.com/join-bbaccess)
+[Get $25 off when you spend $100+. Use code: **DAY6** at checkout.](https://www.bobbibrowncosmetics.com/advent-calendar)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
