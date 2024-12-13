@@ -112,6 +112,14 @@
     * [Transhumanism](https://thefreedomarticles.com/category/conspiracy/transhumanism/)
     * [9/11 Inside Job](https://thefreedomarticles.com/category/conspiracy/911-inside-job/)
     
+    [![Musk Supports War](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Musk Supports War](https://thefreedomarticles.com/wp-content/uploads/2024/12/Musk-Supports-War-183x96.jpg)](https://thefreedomarticles.com/musk-continues-supporting-wars-pushing-the-nwo/)
+    
+    [Musk Continues Supporting Wars & Pushing the NWO – Video #163](https://thefreedomarticles.com/musk-continues-supporting-wars-pushing-the-nwo/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
     [![Trump Savior Rescuer](https://thefreedomarticles.com/wp-content/uploads/2024/11/Trump-Savior-Rescuer-183x96.jpg)](https://thefreedomarticles.com/trump-hopium-savior-rescuer-in-drama-triangle-part-2/)
     
     [Trump, Hopium & the Savior-Rescuer in the Drama Triangle – Part 2 – Video #161](https://thefreedomarticles.com/trump-hopium-savior-rescuer-in-drama-triangle-part-2/)
@@ -129,12 +137,6 @@
     [Trump and Epstein Raped Girls Together, Remember? – Video #156](https://thefreedomarticles.com/trump-and-epstein-raped-girls-together/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 7, 2024
-    
-    [![2024 American Selection Circus](https://thefreedomarticles.com/wp-content/uploads/2024/11/2024-American-Selection-Circus-183x96.jpg)](https://thefreedomarticles.com/trump-wins-the-2024-american-selection-circus/)
-    
-    [Trump Wins the 2024 American Selection Circus – Video #154](https://thefreedomarticles.com/trump-wins-the-2024-american-selection-circus/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 6, 2024
     
     [![plants absorb 31% more CO2](https://thefreedomarticles.com/wp-content/uploads/2024/11/31-More-CO2-183x96.jpg)](https://thefreedomarticles.com/plants-absorb-31-more-co2-than-thought/)
     
@@ -412,6 +414,14 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) March 7, 2024
     
+    [![Musk Supports War](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Musk Supports War](https://thefreedomarticles.com/wp-content/uploads/2024/12/Musk-Supports-War-183x96.jpg)](https://thefreedomarticles.com/musk-continues-supporting-wars-pushing-the-nwo/)
+    
+    [Musk Continues Supporting Wars & Pushing the NWO – Video #163](https://thefreedomarticles.com/musk-continues-supporting-wars-pushing-the-nwo/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
     [![Trump Savior Rescuer](https://thefreedomarticles.com/wp-content/uploads/2024/11/Trump-Savior-Rescuer-183x96.jpg)](https://thefreedomarticles.com/trump-hopium-savior-rescuer-in-drama-triangle-part-2/)
     
     [Trump, Hopium & the Savior-Rescuer in the Drama Triangle – Part 2 – Video #161](https://thefreedomarticles.com/trump-hopium-savior-rescuer-in-drama-triangle-part-2/)
@@ -429,14 +439,6 @@
     [Trump Wins the 2024 American Selection Circus – Video #154](https://thefreedomarticles.com/trump-wins-the-2024-american-selection-circus/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 6, 2024
-    
-    [![asheville 15 minute city](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![asheville 15 minute city](https://thefreedomarticles.com/wp-content/uploads/2024/10/asheville-15-minute-city-183x96.jpg)](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
-    
-    [Asheville: A Planned 15-Minute City – Video #149](https://thefreedomarticles.com/asheville-a-planned-15-minute-city/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 9, 2024
     
     [![Trump Savior Rescuer](https://thefreedomarticles.com/wp-content/uploads/2024/11/Trump-Savior-Rescuer-183x96.jpg)](https://thefreedomarticles.com/trump-hopium-savior-rescuer-in-drama-triangle-part-2/)
     
@@ -781,29 +783,43 @@
     * [Surveillance](https://thefreedomarticles.com/category/big-government/surveillance/)
     * [UN](https://thefreedomarticles.com/category/conspiracy/un-united-nations/)
     
+    [![did-not-vote](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![did-not-vote](https://thefreedomarticles.com/wp-content/uploads/2024/12/did-not-vote-1-183x96.jpg)](https://thefreedomarticles.com/did-not-vote-beat-trump-in-a-landslide/)
+    
+    [“Did Not Vote” Beat Trump in a Landslide – Video #165](https://thefreedomarticles.com/did-not-vote-beat-trump-in-a-landslide/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
+    [![Musk Supports War](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Musk Supports War](https://thefreedomarticles.com/wp-content/uploads/2024/12/Musk-Supports-War-183x96.jpg)](https://thefreedomarticles.com/musk-continues-supporting-wars-pushing-the-nwo/)
+    
+    [Musk Continues Supporting Wars & Pushing the NWO – Video #163](https://thefreedomarticles.com/musk-continues-supporting-wars-pushing-the-nwo/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
+    [![shmuley](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![shmuley](https://thefreedomarticles.com/wp-content/uploads/2024/12/shmuley-183x96.png)](https://thefreedomarticles.com/rabbi-shmuley-i-forced-ben-shapiro-fire-candace-owens/)
+    
+    [Rabbi Shmuley: I Forced Ben Shapiro to Fire Candace Owens – Video #162](https://thefreedomarticles.com/rabbi-shmuley-i-forced-ben-shapiro-fire-candace-owens/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
     [![Trump Epstein relationship](https://thefreedomarticles.com/wp-content/uploads/2024/11/Trump-Epstein-Raped-Girls-183x96.png)](https://thefreedomarticles.com/trump-and-epstein-raped-girls-together/)
     
     [Trump and Epstein Raped Girls Together, Remember? – Video #156](https://thefreedomarticles.com/trump-and-epstein-raped-girls-together/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 7, 2024
     
-    [![2024 American Selection Circus](https://thefreedomarticles.com/wp-content/uploads/2024/11/2024-American-Selection-Circus-183x96.jpg)](https://thefreedomarticles.com/trump-wins-the-2024-american-selection-circus/)
+    [![shmuley](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    [Trump Wins the 2024 American Selection Circus – Video #154](https://thefreedomarticles.com/trump-wins-the-2024-american-selection-circus/)
+    ![shmuley](https://thefreedomarticles.com/wp-content/uploads/2024/12/shmuley-183x96.png)](https://thefreedomarticles.com/rabbi-shmuley-i-forced-ben-shapiro-fire-candace-owens/)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 6, 2024
+    [Rabbi Shmuley: I Forced Ben Shapiro to Fire Candace Owens – Video #162](https://thefreedomarticles.com/rabbi-shmuley-i-forced-ben-shapiro-fire-candace-owens/)
     
-    [![Kuwait Freeze Accounts Biometrics](https://thefreedomarticles.com/wp-content/uploads/2024/10/Kuwait-Freeze-Bank-Accounts-Biometrics-183x96.jpg)](https://thefreedomarticles.com/kuwait-to-freeze-bank-accounts-of-those-without-biometrics-video-148/)
-    
-    [Kuwait to Freeze Bank Accounts of Those Without Biometrics – Video #148](https://thefreedomarticles.com/kuwait-to-freeze-bank-accounts-of-those-without-biometrics-video-148/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 8, 2024
-    
-    [![musk starlink yemen](https://thefreedomarticles.com/wp-content/uploads/2024/10/musk-starlink-yemen-183x96.jpg)](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
-    
-    [Musk’s Starlink in Yemen: Spying for US & Israel? – Video #147](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 5, 2024
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
     
     [![durov telegram encryption](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -826,14 +842,6 @@
     [UNESCO Doublethink: Blatant Censorship Plan – Video #43](https://thefreedomarticles.com/unesco-doublethink-blatant-censorship-plan/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 14, 2023
-    
-    [![debanking](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![debanking](https://thefreedomarticles.com/wp-content/uploads/2023/07/debanking-183x96.jpg)](https://thefreedomarticles.com/first-deplatforming-now-debanking-video-15/)
-    
-    [First Deplatforming, Now Debanking – Video #15](https://thefreedomarticles.com/first-deplatforming-now-debanking-video-15/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 27, 2023
     
     [![nord stream sabotage](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -867,6 +875,14 @@
     
     [Kurt Nimmo](https://thefreedomarticles.com/author/kurt/) June 25, 2020
     
+    [![Musk Supports War](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Musk Supports War](https://thefreedomarticles.com/wp-content/uploads/2024/12/Musk-Supports-War-183x96.jpg)](https://thefreedomarticles.com/musk-continues-supporting-wars-pushing-the-nwo/)
+    
+    [Musk Continues Supporting Wars & Pushing the NWO – Video #163](https://thefreedomarticles.com/musk-continues-supporting-wars-pushing-the-nwo/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
     [![COVID military operation op](https://thefreedomarticles.com/wp-content/uploads/2022/11/COVID-military-operation-183x96.jpg)](https://thefreedomarticles.com/covid-military-op-dod-darpa-video-5/)
     
     [COVID was a Military (DOD/DARPA) Op – Video #5](https://thefreedomarticles.com/covid-military-op-dod-darpa-video-5/)
@@ -887,13 +903,13 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) September 2, 2020
     
-    [![exposing war crimes assange](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    [![Musk Supports War](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    ![exposing war crimes assange](https://thefreedomarticles.com/wp-content/uploads/2020/02/exposing-war-crimes-assange-183x96.jpg)](https://thefreedomarticles.com/one-question-assange-journalists-punished-exposing-war-crimes/)
+    ![Musk Supports War](https://thefreedomarticles.com/wp-content/uploads/2024/12/Musk-Supports-War-183x96.jpg)](https://thefreedomarticles.com/musk-continues-supporting-wars-pushing-the-nwo/)
     
-    [We’re Asking One Question In Assange’s Case: Should Journalists Be Punished For Exposing War Crimes?](https://thefreedomarticles.com/one-question-assange-journalists-punished-exposing-war-crimes/)
+    [Musk Continues Supporting Wars & Pushing the NWO – Video #163](https://thefreedomarticles.com/musk-continues-supporting-wars-pushing-the-nwo/)
     
-    [Caitlin Johnstone](https://thefreedomarticles.com/author/caitlin/) February 25, 2020
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
     
     [![nord stream sabotage](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -916,14 +932,6 @@
     [Hydrogel Biosensor: Implantable Nanotech to be Used in COVID Vaccines?](https://thefreedomarticles.com/hydrogel-biosensor-darpa-gates-implantable-nanotech-covid-vaccine/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) September 2, 2020
-    
-    [![prepared for the coronavirus](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![prepared for the coronavirus](https://thefreedomarticles.com/wp-content/uploads/2020/04/prepared-for-the-coronavirus-183x96.jpg)](https://thefreedomarticles.com/9-simulations-drills-laws-prepared-for-the-coronavirus/)
-    
-    [9 Simulations, Drills and Laws that Planned and Prepared for the Coronavirus](https://thefreedomarticles.com/9-simulations-drills-laws-prepared-for-the-coronavirus/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 28, 2020
     
     [![Trump Epstein relationship](https://thefreedomarticles.com/wp-content/uploads/2024/11/Trump-Epstein-Raped-Girls-183x96.png)](https://thefreedomarticles.com/trump-and-epstein-raped-girls-together/)
     
@@ -1197,29 +1205,37 @@
     * [Venezuela](https://thefreedomarticles.com/category/geopolitics/venezuela/)
     * [WW3](https://thefreedomarticles.com/category/geopolitics/world-war-3/)
     
-    [![Bilzerian Jewish Supremacy](https://thefreedomarticles.com/wp-content/uploads/2024/11/Bilzerian-Jewish-Supremacy-183x96.png)](https://thefreedomarticles.com/bilzerian-calls-out-jewish-supremacy-on-msm/)
+    [![syria collapse allowed to happen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    [Bilzerian Calls Out Jewish Supremacy on MSM – Video #159](https://thefreedomarticles.com/bilzerian-calls-out-jewish-supremacy-on-msm/)
+    ![syria collapse allowed to happen](https://thefreedomarticles.com/wp-content/uploads/2024/12/syria-collapse-allowed-to-happen-1-183x96.png)](https://thefreedomarticles.com/collapse-of-syria-was-allowed-to-happen/)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 13, 2024
+    [The Collapse of Syria was ALLOWED to Happen – Video #167](https://thefreedomarticles.com/collapse-of-syria-was-allowed-to-happen/)
     
-    [![Israel atrocity propaganda](https://thefreedomarticles.com/wp-content/uploads/2024/10/Atrocity-Israel-Oct-7-Lies-183x96.png)](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
     
-    [New Doc “Atrocity Inc.” Exposes Israel’s Oct. 7th Lies – Video #150](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
+    [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 10, 2024
+    ![Syria Falls](https://thefreedomarticles.com/wp-content/uploads/2024/12/Syria-Falls-1-183x96.jpg)](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia/)
     
-    [![musk starlink yemen](https://thefreedomarticles.com/wp-content/uploads/2024/10/musk-starlink-yemen-183x96.jpg)](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
+    [Syria Falls! Assad Flees to Russia – Video #166](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia/)
     
-    [Musk’s Starlink in Yemen: Spying for US & Israel? – Video #147](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 5, 2024
+    [![ukraine israel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    [![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
+    ![ukraine israel](https://thefreedomarticles.com/wp-content/uploads/2024/12/ukraine-israel-1-183x96.jpg)](https://thefreedomarticles.com/new-islamic-terrorists-love-israel-as-ukraine-fights-russia-in-syria/)
     
-    [Operation True Promise II: Iran Strikes Israel a 2nd Time – Video #146](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
+    [New Islamic Terrorists “Love Israel” As Ukraine Fights Russia in Syria – Video #164](https://thefreedomarticles.com/new-islamic-terrorists-love-israel-as-ukraine-fights-russia-in-syria/)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 2, 2024
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
+    [![shmuley](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![shmuley](https://thefreedomarticles.com/wp-content/uploads/2024/12/shmuley-183x96.png)](https://thefreedomarticles.com/rabbi-shmuley-i-forced-ben-shapiro-fire-candace-owens/)
+    
+    [Rabbi Shmuley: I Forced Ben Shapiro to Fire Candace Owens – Video #162](https://thefreedomarticles.com/rabbi-shmuley-i-forced-ben-shapiro-fire-candace-owens/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
     
     [![net zero kill switch](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1253,6 +1269,14 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) March 13, 2024
     
+    [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Syria Falls](https://thefreedomarticles.com/wp-content/uploads/2024/12/Syria-Falls-1-183x96.jpg)](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia/)
+    
+    [Syria Falls! Assad Flees to Russia – Video #166](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
     [![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
     [Operation True Promise II: Iran Strikes Israel a 2nd Time – Video #146](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
@@ -1275,37 +1299,37 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 13, 2024
     
-    [![no more war](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    [![syria collapse allowed to happen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    ![no more war](https://thefreedomarticles.com/wp-content/uploads/2024/01/no-more-war-183x96.jpg)](https://thefreedomarticles.com/there-is-no-alternative-no-more-war/)
+    ![syria collapse allowed to happen](https://thefreedomarticles.com/wp-content/uploads/2024/12/syria-collapse-allowed-to-happen-1-183x96.png)](https://thefreedomarticles.com/collapse-of-syria-was-allowed-to-happen/)
     
-    [There is No Alternative (No More War) – Video #61](https://thefreedomarticles.com/there-is-no-alternative-no-more-war/)
+    [The Collapse of Syria was ALLOWED to Happen – Video #167](https://thefreedomarticles.com/collapse-of-syria-was-allowed-to-happen/)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) January 23, 2024
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
     
-    [![Bilzerian Jewish Supremacy](https://thefreedomarticles.com/wp-content/uploads/2024/11/Bilzerian-Jewish-Supremacy-183x96.png)](https://thefreedomarticles.com/bilzerian-calls-out-jewish-supremacy-on-msm/)
+    [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    [Bilzerian Calls Out Jewish Supremacy on MSM – Video #159](https://thefreedomarticles.com/bilzerian-calls-out-jewish-supremacy-on-msm/)
+    ![Syria Falls](https://thefreedomarticles.com/wp-content/uploads/2024/12/Syria-Falls-1-183x96.jpg)](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia/)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 13, 2024
+    [Syria Falls! Assad Flees to Russia – Video #166](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia/)
     
-    [![Israel atrocity propaganda](https://thefreedomarticles.com/wp-content/uploads/2024/10/Atrocity-Israel-Oct-7-Lies-183x96.png)](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
     
-    [New Doc “Atrocity Inc.” Exposes Israel’s Oct. 7th Lies – Video #150](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
+    [![ukraine israel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 10, 2024
+    ![ukraine israel](https://thefreedomarticles.com/wp-content/uploads/2024/12/ukraine-israel-1-183x96.jpg)](https://thefreedomarticles.com/new-islamic-terrorists-love-israel-as-ukraine-fights-russia-in-syria/)
     
-    [![musk starlink yemen](https://thefreedomarticles.com/wp-content/uploads/2024/10/musk-starlink-yemen-183x96.jpg)](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
+    [New Islamic Terrorists “Love Israel” As Ukraine Fights Russia in Syria – Video #164](https://thefreedomarticles.com/new-islamic-terrorists-love-israel-as-ukraine-fights-russia-in-syria/)
     
-    [Musk’s Starlink in Yemen: Spying for US & Israel? – Video #147](https://thefreedomarticles.com/musks-starlink-in-yemen-spying-for-us-israel/)
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 5, 2024
+    [![shmuley](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    [![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
+    ![shmuley](https://thefreedomarticles.com/wp-content/uploads/2024/12/shmuley-183x96.png)](https://thefreedomarticles.com/rabbi-shmuley-i-forced-ben-shapiro-fire-candace-owens/)
     
-    [Operation True Promise II: Iran Strikes Israel a 2nd Time – Video #146](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
+    [Rabbi Shmuley: I Forced Ben Shapiro to Fire Candace Owens – Video #162](https://thefreedomarticles.com/rabbi-shmuley-i-forced-ben-shapiro-fire-candace-owens/)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 2, 2024
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
     
     [![nuclear postures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1331,6 +1355,30 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 16, 2013
     
+    [![syria collapse allowed to happen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![syria collapse allowed to happen](https://thefreedomarticles.com/wp-content/uploads/2024/12/syria-collapse-allowed-to-happen-1-183x96.png)](https://thefreedomarticles.com/collapse-of-syria-was-allowed-to-happen/)
+    
+    [The Collapse of Syria was ALLOWED to Happen – Video #167](https://thefreedomarticles.com/collapse-of-syria-was-allowed-to-happen/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
+    [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Syria Falls](https://thefreedomarticles.com/wp-content/uploads/2024/12/Syria-Falls-1-183x96.jpg)](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia/)
+    
+    [Syria Falls! Assad Flees to Russia – Video #166](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
+    [![ukraine israel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![ukraine israel](https://thefreedomarticles.com/wp-content/uploads/2024/12/ukraine-israel-1-183x96.jpg)](https://thefreedomarticles.com/new-islamic-terrorists-love-israel-as-ukraine-fights-russia-in-syria/)
+    
+    [New Islamic Terrorists “Love Israel” As Ukraine Fights Russia in Syria – Video #164](https://thefreedomarticles.com/new-islamic-terrorists-love-israel-as-ukraine-fights-russia-in-syria/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
     [![CIA document Syria](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![CIA document Syria](https://thefreedomarticles.com/wp-content/uploads/2020/03/CIA-document-Syria-183x96.jpg)](https://thefreedomarticles.com/1983-cia-document-on-syria-reveals-plan/)
@@ -1339,29 +1387,13 @@
     
     [Brandon Turbeville](https://thefreedomarticles.com/author/brandon/) March 4, 2020
     
-    [![iraq-raping neocon PNAC max boot](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    ![iraq-raping neocon PNAC max boot](https://thefreedomarticles.com/wp-content/uploads/2020/01/iraq-raping-neocon-PNAC-max-boot-183x96.jpg)](https://thefreedomarticles.com/iraq-raping-neocon-upset-people-bringing-up-iraq/)
+    ![Syria Falls](https://thefreedomarticles.com/wp-content/uploads/2024/12/Syria-Falls-1-183x96.jpg)](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia/)
     
-    [Iraq-Raping Neocon Upset That People Keep Bringing Up The Iraq Thing](https://thefreedomarticles.com/iraq-raping-neocon-upset-people-bringing-up-iraq/)
+    [Syria Falls! Assad Flees to Russia – Video #166](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia/)
     
-    [Caitlin Johnstone](https://thefreedomarticles.com/author/caitlin/) January 30, 2020
-    
-    [![iraq to neocons](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![iraq to neocons](https://thefreedomarticles.com/wp-content/uploads/2020/01/iraq-to-neocons-183x96.jpg)](https://thefreedomarticles.com/iraq-to-neocons-get-the-hell-out-of-our-country/)
-    
-    [Iraq to Neocons: Get the Hell Out of Our Country](https://thefreedomarticles.com/iraq-to-neocons-get-the-hell-out-of-our-country/)
-    
-    [Kurt Nimmo](https://thefreedomarticles.com/author/kurt/) January 28, 2020
-    
-    [![normal nation](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![normal nation](https://thefreedomarticles.com/wp-content/uploads/2020/01/normal-nation-183x96.jpeg)](https://thefreedomarticles.com/iran-must-be-a-normal-nation-says-totally-normal-nation/)
-    
-    [“Iran Must Begin Acting Like A Normal Nation,” Says Totally Normal Nation](https://thefreedomarticles.com/iran-must-be-a-normal-nation-says-totally-normal-nation/)
-    
-    [Caitlin Johnstone](https://thefreedomarticles.com/author/caitlin/) January 13, 2020
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
     
     [![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
@@ -1385,43 +1417,35 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 25, 2024
     
-    [![east west false dichotomy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    [![syria collapse allowed to happen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    ![east west false dichotomy](https://thefreedomarticles.com/wp-content/uploads/2024/04/east-west-false-dichotomy-183x96.jpg)](https://thefreedomarticles.com/east-vs-west-same-false-dichotomy-as-left-vs-right/)
+    ![syria collapse allowed to happen](https://thefreedomarticles.com/wp-content/uploads/2024/12/syria-collapse-allowed-to-happen-1-183x96.png)](https://thefreedomarticles.com/collapse-of-syria-was-allowed-to-happen/)
     
-    [What if East vs West Was the Same False Dichotomy as Left vs Right? – Video #99](https://thefreedomarticles.com/east-vs-west-same-false-dichotomy-as-left-vs-right/)
+    [The Collapse of Syria was ALLOWED to Happen – Video #167](https://thefreedomarticles.com/collapse-of-syria-was-allowed-to-happen/)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 16, 2024
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
+    [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Syria Falls](https://thefreedomarticles.com/wp-content/uploads/2024/12/Syria-Falls-1-183x96.jpg)](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia/)
+    
+    [Syria Falls! Assad Flees to Russia – Video #166](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
+    [![ukraine israel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![ukraine israel](https://thefreedomarticles.com/wp-content/uploads/2024/12/ukraine-israel-1-183x96.jpg)](https://thefreedomarticles.com/new-islamic-terrorists-love-israel-as-ukraine-fights-russia-in-syria/)
+    
+    [New Islamic Terrorists “Love Israel” As Ukraine Fights Russia in Syria – Video #164](https://thefreedomarticles.com/new-islamic-terrorists-love-israel-as-ukraine-fights-russia-in-syria/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
     
     [![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
     [Operation True Promise II: Iran Strikes Israel a 2nd Time – Video #146](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 2, 2024
-    
-    [![no more war](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![no more war](https://thefreedomarticles.com/wp-content/uploads/2024/01/no-more-war-183x96.jpg)](https://thefreedomarticles.com/there-is-no-alternative-no-more-war/)
-    
-    [There is No Alternative (No More War) – Video #61](https://thefreedomarticles.com/there-is-no-alternative-no-more-war/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) January 23, 2024
-    
-    [![Greater Israel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![Greater Israel](https://thefreedomarticles.com/wp-content/uploads/2023/11/greater-israel-183x96.jpg)](https://thefreedomarticles.com/greater-israel-hamas-op-picks-up-where-9-11-war-on-terror-left-off/)
-    
-    [Greater Israel: Hamas Op Picks up Where 9/11 and the War on Terror Left Off – Video #44](https://thefreedomarticles.com/greater-israel-hamas-op-picks-up-where-9-11-war-on-terror-left-off/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 14, 2023
-    
-    [![regional war](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![regional war](https://thefreedomarticles.com/wp-content/uploads/2023/10/Zionist-Neocons-Wider-War-183x96.jpg)](https://thefreedomarticles.com/zionist-neocons-at-helm-usg-salivate-idea-wider-war/)
-    
-    [Zionist Neocons at Helm of USG Salivate at Idea of Wider War – Video #35](https://thefreedomarticles.com/zionist-neocons-at-helm-usg-salivate-idea-wider-war/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 30, 2023
     
     [![assange blumenthal](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1455,35 +1479,35 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 10, 2017
     
+    [![syria collapse allowed to happen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![syria collapse allowed to happen](https://thefreedomarticles.com/wp-content/uploads/2024/12/syria-collapse-allowed-to-happen-1-183x96.png)](https://thefreedomarticles.com/collapse-of-syria-was-allowed-to-happen/)
+    
+    [The Collapse of Syria was ALLOWED to Happen – Video #167](https://thefreedomarticles.com/collapse-of-syria-was-allowed-to-happen/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
+    [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Syria Falls](https://thefreedomarticles.com/wp-content/uploads/2024/12/Syria-Falls-1-183x96.jpg)](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia/)
+    
+    [Syria Falls! Assad Flees to Russia – Video #166](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
+    [![ukraine israel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![ukraine israel](https://thefreedomarticles.com/wp-content/uploads/2024/12/ukraine-israel-1-183x96.jpg)](https://thefreedomarticles.com/new-islamic-terrorists-love-israel-as-ukraine-fights-russia-in-syria/)
+    
+    [New Islamic Terrorists “Love Israel” As Ukraine Fights Russia in Syria – Video #164](https://thefreedomarticles.com/new-islamic-terrorists-love-israel-as-ukraine-fights-russia-in-syria/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
     [![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
     [Operation True Promise II: Iran Strikes Israel a 2nd Time – Video #146](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 2, 2024
-    
-    [![hezbollah israel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![hezbollah israel](https://thefreedomarticles.com/wp-content/uploads/2024/08/hezbollah-attacks-israel-183x96.jpg)](https://thefreedomarticles.com/hezbollah-attacks-deep-inside-israel/)
-    
-    [Hezbollah Attacks Deep Inside Israel – Video #134](https://thefreedomarticles.com/hezbollah-attacks-deep-inside-israel/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) August 27, 2024
-    
-    [![chisinau forum 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![chisinau forum 2024](https://thefreedomarticles.com/wp-content/uploads/2024/07/chisinau-forum-183x96.png)](https://thefreedomarticles.com/makia-freemans-presentation-chisinau-forum-2024-video-125/)
-    
-    [Makia Freeman’s Presentation, Chisinau Forum 2024 – Video #125](https://thefreedomarticles.com/makia-freemans-presentation-chisinau-forum-2024-video-125/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
-    
-    [![same side](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![same side](https://thefreedomarticles.com/wp-content/uploads/2024/04/All-on-Same-Side-183x96.jpg)](https://thefreedomarticles.com/at-the-top-theyre-all-on-the-same-side-part-1/)
-    
-    [At the Top, They’re ALL on the SAME SIDE – Part 1 – Video #103](https://thefreedomarticles.com/at-the-top-theyre-all-on-the-same-side-part-1/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 25, 2024
     
 * [Health](https://thefreedomarticles.com/category/natural-health/)
     
@@ -1645,6 +1669,14 @@
     * [Whistleblowers & Activists](https://thefreedomarticles.com/category/solutions/whistleblowers-truth-activists/)
     * [Sovereignty](https://thefreedomarticles.com/category/solutions/sovereignty/)
     
+    [![did-not-vote](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![did-not-vote](https://thefreedomarticles.com/wp-content/uploads/2024/12/did-not-vote-1-183x96.jpg)](https://thefreedomarticles.com/did-not-vote-beat-trump-in-a-landslide/)
+    
+    [“Did Not Vote” Beat Trump in a Landslide – Video #165](https://thefreedomarticles.com/did-not-vote-beat-trump-in-a-landslide/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 13, 2024
+    
     [![Alex Jones Sandy Hook](https://thefreedomarticles.com/wp-content/uploads/2024/11/Alex-Jones-Sandy-Hook-183x96.jpg)](https://thefreedomarticles.com/lawyer-alex-jones-threw-sandy-hook-case/)
     
     [Lawyer: Alex Jones Threw the Sandy Hook Case – Video #158](https://thefreedomarticles.com/lawyer-alex-jones-threw-sandy-hook-case/)
@@ -1662,14 +1694,6 @@
     [They’re Going After Former Moldovan Deputy PM Iurie Rosca – Video #124](https://thefreedomarticles.com/theyre-going-after-former-moldovan-pm-iurie-rosca-video-124/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
-    
-    [![usury](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![usury](https://thefreedomarticles.com/wp-content/uploads/2024/07/usury-183x96.jpg)](https://thefreedomarticles.com/usury-private-banking-base-problem-some-solutions/)
-    
-    [Usury & Private Banking: The Base Problem & Some Solutions – Video #116](https://thefreedomarticles.com/usury-private-banking-base-problem-some-solutions/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 9, 2024
     
     [![Voting is Not Freedom](https://thefreedomarticles.com/wp-content/uploads/2024/11/Voting-is-Not-Freedom-183x96.jpg)](https://thefreedomarticles.com/choosing-a-new-master-is-not-freedom/)
     
@@ -1966,13 +1990,13 @@
 
 Breaking News
 
-[Trump, Hopium & the Savior-Rescuer in the Drama Triangle – Part 2 – Video #161](https://thefreedomarticles.com/trump-hopium-savior-rescuer-in-drama-triangle-part-2/)
+[The Collapse of Syria was ALLOWED to Happen – Video #167](https://thefreedomarticles.com/collapse-of-syria-was-allowed-to-happen/)
 
-[Trump, Hopium & the Savior-Rescuer in the Drama Triangle – Part 1 – Video #160](https://thefreedomarticles.com/trump-hopium-savior-rescuer-in-drama-triangle-part-1/)
+[Syria Falls! Assad Flees to Russia – Video #166](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia/)
 
-[Bilzerian Calls Out Jewish Supremacy on MSM – Video #159](https://thefreedomarticles.com/bilzerian-calls-out-jewish-supremacy-on-msm/)
+[“Did Not Vote” Beat Trump in a Landslide – Video #165](https://thefreedomarticles.com/did-not-vote-beat-trump-in-a-landslide/)
 
-[Lawyer: Alex Jones Threw the Sandy Hook Case – Video #158](https://thefreedomarticles.com/lawyer-alex-jones-threw-sandy-hook-case/)
+[New Islamic Terrorists “Love Israel” As Ukraine Fights Russia in Syria – Video #164](https://thefreedomarticles.com/new-islamic-terrorists-love-israel-as-ukraine-fights-russia-in-syria/)
 
 ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
 
@@ -2183,7 +2207,7 @@ Last updated on July 10, 2019
 
 ##### Tag Cloud
 
-[alien agenda](https://thefreedomarticles.com/tag/alien-agenda/) [pivot to Asia](https://thefreedomarticles.com/tag/pivot-to-asia/) [North Korea](https://thefreedomarticles.com/tag/north-korea/) [SSP](https://thefreedomarticles.com/tag/ssp/) [carcinogenic](https://thefreedomarticles.com/tag/carcinogenic/) [Archon](https://thefreedomarticles.com/tag/archon/) [cancer cure](https://thefreedomarticles.com/tag/cancer-cure/) [false dichotomy](https://thefreedomarticles.com/tag/false-dichotomy/) [vaccine-autism link](https://thefreedomarticles.com/tag/vaccine-autism-link/) [PNAC](https://thefreedomarticles.com/tag/pnac/) [Unit 8200](https://thefreedomarticles.com/tag/unit-8200/) [MJ-12](https://thefreedomarticles.com/tag/mj-12/) [God of Freemasonry](https://thefreedomarticles.com/tag/god-of-freemasonry/) [IRS](https://thefreedomarticles.com/tag/irs/) [jihad](https://thefreedomarticles.com/tag/jihad/) [common law jurisdiction](https://thefreedomarticles.com/tag/common-law-jurisdiction/) [conspiracy fact](https://thefreedomarticles.com/tag/conspiracy-fact/) [western medicine](https://thefreedomarticles.com/tag/western-medicine/) [Green New Deal](https://thefreedomarticles.com/tag/green-new-deal/) [Nazi Antarctica](https://thefreedomarticles.com/tag/nazi-antarctica/) [pedophilia](https://thefreedomarticles.com/tag/pedophilia/) [manmade global warming hoax](https://thefreedomarticles.com/tag/manmade-global-warming-hoax-2/) [omega 6:3 ratio](https://thefreedomarticles.com/tag/omega-63-ratio/) [human habitat](https://thefreedomarticles.com/tag/human-habitat/) [cultural Marxism](https://thefreedomarticles.com/tag/cultural-marxism/) [One World Religion](https://thefreedomarticles.com/tag/one-world-religion/) [US-UK-Israeli axis](https://thefreedomarticles.com/tag/us-uk-israeli-axis/) [Social Engineering](https://thefreedomarticles.com/tag/social-engineering/) [oxidative stress](https://thefreedomarticles.com/tag/oxidative-stress/) [zionism](https://thefreedomarticles.com/tag/zionism-2/) [Bill Clinton](https://thefreedomarticles.com/tag/bill-clinton/) [tax exempt foundation](https://thefreedomarticles.com/tag/tax-exempt-foundation/) [islamophobia](https://thefreedomarticles.com/tag/islamophobia/) [NSA](https://thefreedomarticles.com/tag/nsa/) [unalienable rights](https://thefreedomarticles.com/tag/unalienable-rights/) [Iran](https://thefreedomarticles.com/tag/iran/) [chemtrails](https://thefreedomarticles.com/tag/chemtrails-2/) [9/11](https://thefreedomarticles.com/tag/911/) [heavy metal detox](https://thefreedomarticles.com/tag/heavy-metal-detox/) [global carbon tax](https://thefreedomarticles.com/tag/global-carbon-tax/) [UFOs](https://thefreedomarticles.com/tag/ufos/) [weather control](https://thefreedomarticles.com/tag/weather-control/) [psyops](https://thefreedomarticles.com/tag/psyops/) [fake news](https://thefreedomarticles.com/tag/fake-news/) [CIA](https://thefreedomarticles.com/tag/cia/) [Facebook](https://thefreedomarticles.com/tag/facebook/) [micronutrients](https://thefreedomarticles.com/tag/micronutrients/) [predictive programming](https://thefreedomarticles.com/tag/predictive-programming/) [EMF](https://thefreedomarticles.com/tag/emf/) [sunni vs shia](https://thefreedomarticles.com/tag/sunni-vs-shia/) [anti-aging](https://thefreedomarticles.com/tag/anti-aging/) [radical Islamic terrorism](https://thefreedomarticles.com/tag/radical-islamic-terrorism/) [IoT](https://thefreedomarticles.com/tag/iot/) [US interference](https://thefreedomarticles.com/tag/us-interference/) [Bush crime family](https://thefreedomarticles.com/tag/bush-crime-family/) [fake war on terror](https://thefreedomarticles.com/tag/fake-war-on-terror/) [Deep State](https://thefreedomarticles.com/tag/deep-state/) [Mossad](https://thefreedomarticles.com/tag/mossad/) [Russia](https://thefreedomarticles.com/tag/russia/) [Shadow Government](https://thefreedomarticles.com/tag/shadow-government/) [Rockefeller](https://thefreedomarticles.com/tag/rockefeller/) [question everything](https://thefreedomarticles.com/tag/question-everything/) [whistleblowers](https://thefreedomarticles.com/tag/whistleblowers/) [Illuminati](https://thefreedomarticles.com/tag/illuminati/) [political authority](https://thefreedomarticles.com/tag/political-authority/) [smart grid](https://thefreedomarticles.com/tag/smart-grid/) [black magic](https://thefreedomarticles.com/tag/black-magic/) [California wildfires](https://thefreedomarticles.com/tag/california-wildfires/) [microbiome](https://thefreedomarticles.com/tag/microbiome/) [crisis actors](https://thefreedomarticles.com/tag/crisis-actors/) [Sesame Credit](https://thefreedomarticles.com/tag/sesame-credit/) [cannabis oil](https://thefreedomarticles.com/tag/cannabis-oil/) [NWO](https://thefreedomarticles.com/tag/nwo/) [Council on Foreign Relations](https://thefreedomarticles.com/tag/council-on-foreign-relations/) [synthetic agenda](https://thefreedomarticles.com/tag/synthetic-agenda/) [glyphosate](https://thefreedomarticles.com/tag/glyphosate/) [divide and rule](https://thefreedomarticles.com/tag/divide-and-rule/) [MKUltra](https://thefreedomarticles.com/tag/mkultra/) [right to travel](https://thefreedomarticles.com/tag/right-to-travel/) [bioweapons](https://thefreedomarticles.com/tag/bioweapons/) [islam](https://thefreedomarticles.com/tag/islam/) [DNA repair](https://thefreedomarticles.com/tag/dna-repair/) [iodine](https://thefreedomarticles.com/tag/iodine/) [petrodollar](https://thefreedomarticles.com/tag/petrodollar/) [hijacked environmental movement](https://thefreedomarticles.com/tag/hijacked-environmental-movement/) [Satanism](https://thefreedomarticles.com/tag/satanism/) [black military operations](https://thefreedomarticles.com/tag/black-military-operations/) [false flag formula](https://thefreedomarticles.com/tag/false-flag-formula/) [ISIS](https://thefreedomarticles.com/tag/isis/) [transhumanism](https://thefreedomarticles.com/tag/transhumanism/) [ET whistleblower](https://thefreedomarticles.com/tag/et-whistleblower/) [QAnon hoax](https://thefreedomarticles.com/tag/qanon-hoax/) [natural cancer cures](https://thefreedomarticles.com/tag/natural-cancer-cures/) [centralization of power](https://thefreedomarticles.com/tag/centralization-of-power/) [israel](https://thefreedomarticles.com/tag/israel/) [chronic disease](https://thefreedomarticles.com/tag/chronic-disease/) [israeli nuclear program](https://thefreedomarticles.com/tag/israeli-nuclear-program/) [doublespeak](https://thefreedomarticles.com/tag/doublespeak/) [ex-Intelligence agents](https://thefreedomarticles.com/tag/ex-intelligence-agents/) [sex slave](https://thefreedomarticles.com/tag/sex-slave/) [5G](https://thefreedomarticles.com/tag/5g/) [fluoride](https://thefreedomarticles.com/tag/fluoride/) [Sandy Hook](https://thefreedomarticles.com/tag/sandy-hook/) [WW3](https://thefreedomarticles.com/tag/ww3/) [R2P](https://thefreedomarticles.com/tag/r2p/) [child trafficking](https://thefreedomarticles.com/tag/child-trafficking/) [Mind Control](https://thefreedomarticles.com/tag/mind-control/) [depopulation](https://thefreedomarticles.com/tag/depopulation/) [NGOs](https://thefreedomarticles.com/tag/ngos/) [fake authority](https://thefreedomarticles.com/tag/fake-authority/) [political correctness](https://thefreedomarticles.com/tag/political-correctness/) [censorship purge](https://thefreedomarticles.com/tag/censorship-purge/) [false left-right paradigm](https://thefreedomarticles.com/tag/false-left-right-paradigm/) [Selfish Ledger](https://thefreedomarticles.com/tag/selfish-ledger/) [Russophobia](https://thefreedomarticles.com/tag/russophobia/) [DUMB](https://thefreedomarticles.com/tag/dumb/) [consent of the governed](https://thefreedomarticles.com/tag/consent-of-the-governed/) [propaganda](https://thefreedomarticles.com/tag/propaganda/) [gun control agenda](https://thefreedomarticles.com/tag/gun-control-agenda/) [Rothschild](https://thefreedomarticles.com/tag/rothschild/) [Putin](https://thefreedomarticles.com/tag/putin/) [vaccine fraud](https://thefreedomarticles.com/tag/vaccine-fraud/) [cognitive dissonance](https://thefreedomarticles.com/tag/cognitive-dissonance/) [everything is fake](https://thefreedomarticles.com/tag/everything-is-fake/) [HAARP](https://thefreedomarticles.com/tag/haarp/) [mass shootings](https://thefreedomarticles.com/tag/mass-shootings/) [Bilderberg Group](https://thefreedomarticles.com/tag/bilderberg-group/) [Google](https://thefreedomarticles.com/tag/google/) [Wolfowitz Doctrine](https://thefreedomarticles.com/tag/wolfowitz-doctrine/) [catholic church](https://thefreedomarticles.com/tag/catholic-church/) [post-truth world](https://thefreedomarticles.com/tag/post-truth-world/) [self-aware AI](https://thefreedomarticles.com/tag/self-aware-ai/) [Syria](https://thefreedomarticles.com/tag/syria/) [V2K](https://thefreedomarticles.com/tag/v2k/) [JFK](https://thefreedomarticles.com/tag/jfk/)
+[ex-Intelligence agents](https://thefreedomarticles.com/tag/ex-intelligence-agents/) [depopulation](https://thefreedomarticles.com/tag/depopulation/) [CIA](https://thefreedomarticles.com/tag/cia/) [Mossad](https://thefreedomarticles.com/tag/mossad/) [western medicine](https://thefreedomarticles.com/tag/western-medicine/) [pedophilia](https://thefreedomarticles.com/tag/pedophilia/) [UFOs](https://thefreedomarticles.com/tag/ufos/) [iodine](https://thefreedomarticles.com/tag/iodine/) [smart grid](https://thefreedomarticles.com/tag/smart-grid/) [microbiome](https://thefreedomarticles.com/tag/microbiome/) [cancer cure](https://thefreedomarticles.com/tag/cancer-cure/) [Deep State](https://thefreedomarticles.com/tag/deep-state/) [Russophobia](https://thefreedomarticles.com/tag/russophobia/) [Nazi Antarctica](https://thefreedomarticles.com/tag/nazi-antarctica/) [Selfish Ledger](https://thefreedomarticles.com/tag/selfish-ledger/) [sunni vs shia](https://thefreedomarticles.com/tag/sunni-vs-shia/) [divide and rule](https://thefreedomarticles.com/tag/divide-and-rule/) [cannabis oil](https://thefreedomarticles.com/tag/cannabis-oil/) [PNAC](https://thefreedomarticles.com/tag/pnac/) [US interference](https://thefreedomarticles.com/tag/us-interference/) [natural cancer cures](https://thefreedomarticles.com/tag/natural-cancer-cures/) [micronutrients](https://thefreedomarticles.com/tag/micronutrients/) [ISIS](https://thefreedomarticles.com/tag/isis/) [SSP](https://thefreedomarticles.com/tag/ssp/) [JFK](https://thefreedomarticles.com/tag/jfk/) [zionism](https://thefreedomarticles.com/tag/zionism-2/) [petrodollar](https://thefreedomarticles.com/tag/petrodollar/) [global carbon tax](https://thefreedomarticles.com/tag/global-carbon-tax/) [NSA](https://thefreedomarticles.com/tag/nsa/) [censorship purge](https://thefreedomarticles.com/tag/censorship-purge/) [Bilderberg Group](https://thefreedomarticles.com/tag/bilderberg-group/) [chemtrails](https://thefreedomarticles.com/tag/chemtrails-2/) [false dichotomy](https://thefreedomarticles.com/tag/false-dichotomy/) [mass shootings](https://thefreedomarticles.com/tag/mass-shootings/) [Social Engineering](https://thefreedomarticles.com/tag/social-engineering/) [One World Religion](https://thefreedomarticles.com/tag/one-world-religion/) [psyops](https://thefreedomarticles.com/tag/psyops/) [islam](https://thefreedomarticles.com/tag/islam/) [IRS](https://thefreedomarticles.com/tag/irs/) [weather control](https://thefreedomarticles.com/tag/weather-control/) [Council on Foreign Relations](https://thefreedomarticles.com/tag/council-on-foreign-relations/) [IoT](https://thefreedomarticles.com/tag/iot/) [Illuminati](https://thefreedomarticles.com/tag/illuminati/) [radical Islamic terrorism](https://thefreedomarticles.com/tag/radical-islamic-terrorism/) [9/11](https://thefreedomarticles.com/tag/911/) [MJ-12](https://thefreedomarticles.com/tag/mj-12/) [MKUltra](https://thefreedomarticles.com/tag/mkultra/) [5G](https://thefreedomarticles.com/tag/5g/) [consent of the governed](https://thefreedomarticles.com/tag/consent-of-the-governed/) [false left-right paradigm](https://thefreedomarticles.com/tag/false-left-right-paradigm/) [Rothschild](https://thefreedomarticles.com/tag/rothschild/) [political authority](https://thefreedomarticles.com/tag/political-authority/) [US-UK-Israeli axis](https://thefreedomarticles.com/tag/us-uk-israeli-axis/) [North Korea](https://thefreedomarticles.com/tag/north-korea/) [transhumanism](https://thefreedomarticles.com/tag/transhumanism/) [Bill Clinton](https://thefreedomarticles.com/tag/bill-clinton/) [ET whistleblower](https://thefreedomarticles.com/tag/et-whistleblower/) [Unit 8200](https://thefreedomarticles.com/tag/unit-8200/) [carcinogenic](https://thefreedomarticles.com/tag/carcinogenic/) [conspiracy fact](https://thefreedomarticles.com/tag/conspiracy-fact/) [V2K](https://thefreedomarticles.com/tag/v2k/) [right to travel](https://thefreedomarticles.com/tag/right-to-travel/) [whistleblowers](https://thefreedomarticles.com/tag/whistleblowers/) [post-truth world](https://thefreedomarticles.com/tag/post-truth-world/) [bioweapons](https://thefreedomarticles.com/tag/bioweapons/) [propaganda](https://thefreedomarticles.com/tag/propaganda/) [DUMB](https://thefreedomarticles.com/tag/dumb/) [California wildfires](https://thefreedomarticles.com/tag/california-wildfires/) [R2P](https://thefreedomarticles.com/tag/r2p/) [Wolfowitz Doctrine](https://thefreedomarticles.com/tag/wolfowitz-doctrine/) [jihad](https://thefreedomarticles.com/tag/jihad/) [unalienable rights](https://thefreedomarticles.com/tag/unalienable-rights/) [HAARP](https://thefreedomarticles.com/tag/haarp/) [God of Freemasonry](https://thefreedomarticles.com/tag/god-of-freemasonry/) [NWO](https://thefreedomarticles.com/tag/nwo/) [Syria](https://thefreedomarticles.com/tag/syria/) [vaccine fraud](https://thefreedomarticles.com/tag/vaccine-fraud/) [heavy metal detox](https://thefreedomarticles.com/tag/heavy-metal-detox/) [chronic disease](https://thefreedomarticles.com/tag/chronic-disease/) [black magic](https://thefreedomarticles.com/tag/black-magic/) [Putin](https://thefreedomarticles.com/tag/putin/) [DNA repair](https://thefreedomarticles.com/tag/dna-repair/) [Sesame Credit](https://thefreedomarticles.com/tag/sesame-credit/) [centralization of power](https://thefreedomarticles.com/tag/centralization-of-power/) [islamophobia](https://thefreedomarticles.com/tag/islamophobia/) [Bush crime family](https://thefreedomarticles.com/tag/bush-crime-family/) [cognitive dissonance](https://thefreedomarticles.com/tag/cognitive-dissonance/) [Mind Control](https://thefreedomarticles.com/tag/mind-control/) [political correctness](https://thefreedomarticles.com/tag/political-correctness/) [Green New Deal](https://thefreedomarticles.com/tag/green-new-deal/) [EMF](https://thefreedomarticles.com/tag/emf/) [fake war on terror](https://thefreedomarticles.com/tag/fake-war-on-terror/) [self-aware AI](https://thefreedomarticles.com/tag/self-aware-ai/) [glyphosate](https://thefreedomarticles.com/tag/glyphosate/) [tax exempt foundation](https://thefreedomarticles.com/tag/tax-exempt-foundation/) [alien agenda](https://thefreedomarticles.com/tag/alien-agenda/) [cultural Marxism](https://thefreedomarticles.com/tag/cultural-marxism/) [fluoride](https://thefreedomarticles.com/tag/fluoride/) [catholic church](https://thefreedomarticles.com/tag/catholic-church/) [child trafficking](https://thefreedomarticles.com/tag/child-trafficking/) [Facebook](https://thefreedomarticles.com/tag/facebook/) [israel](https://thefreedomarticles.com/tag/israel/) [israeli nuclear program](https://thefreedomarticles.com/tag/israeli-nuclear-program/) [hijacked environmental movement](https://thefreedomarticles.com/tag/hijacked-environmental-movement/) [anti-aging](https://thefreedomarticles.com/tag/anti-aging/) [common law jurisdiction](https://thefreedomarticles.com/tag/common-law-jurisdiction/) [question everything](https://thefreedomarticles.com/tag/question-everything/) [predictive programming](https://thefreedomarticles.com/tag/predictive-programming/) [QAnon hoax](https://thefreedomarticles.com/tag/qanon-hoax/) [Shadow Government](https://thefreedomarticles.com/tag/shadow-government/) [human habitat](https://thefreedomarticles.com/tag/human-habitat/) [Iran](https://thefreedomarticles.com/tag/iran/) [WW3](https://thefreedomarticles.com/tag/ww3/) [sex slave](https://thefreedomarticles.com/tag/sex-slave/) [omega 6:3 ratio](https://thefreedomarticles.com/tag/omega-63-ratio/) [pivot to Asia](https://thefreedomarticles.com/tag/pivot-to-asia/) [fake news](https://thefreedomarticles.com/tag/fake-news/) [Rockefeller](https://thefreedomarticles.com/tag/rockefeller/) [Russia](https://thefreedomarticles.com/tag/russia/) [Archon](https://thefreedomarticles.com/tag/archon/) [gun control agenda](https://thefreedomarticles.com/tag/gun-control-agenda/) [manmade global warming hoax](https://thefreedomarticles.com/tag/manmade-global-warming-hoax-2/) [false flag formula](https://thefreedomarticles.com/tag/false-flag-formula/) [NGOs](https://thefreedomarticles.com/tag/ngos/) [oxidative stress](https://thefreedomarticles.com/tag/oxidative-stress/) [synthetic agenda](https://thefreedomarticles.com/tag/synthetic-agenda/) [doublespeak](https://thefreedomarticles.com/tag/doublespeak/) [fake authority](https://thefreedomarticles.com/tag/fake-authority/) [Sandy Hook](https://thefreedomarticles.com/tag/sandy-hook/) [Google](https://thefreedomarticles.com/tag/google/) [vaccine-autism link](https://thefreedomarticles.com/tag/vaccine-autism-link/) [black military operations](https://thefreedomarticles.com/tag/black-military-operations/) [crisis actors](https://thefreedomarticles.com/tag/crisis-actors/) [everything is fake](https://thefreedomarticles.com/tag/everything-is-fake/) [Satanism](https://thefreedomarticles.com/tag/satanism/)
 
 ##### Follow Us
 
