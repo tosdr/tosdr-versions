@@ -142,8 +142,8 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Surviving Barstool](https://www.barstoolsports.com/video/3533747/surviving-barstool-s4-ep.-5-or-the-game-is-officially-on)
-* [Rundown](https://www.barstoolsports.com/video/3533756/bill-belichick-finalizing-deal-to-be-head-coach-of-unc-barstool-rundown-december-11th-2024)
+* [Surviving Barstool](https://www.barstoolsports.com/video/3533820/surviving-barstool-s4-ep.-6-or-tribes-go-to-war)
+* [Rundown](https://www.barstoolsports.com/video/3533857/the-mlb-is-auctioning-off-aaron-judges-game-5-dropped-ball-barstool-rundown-december-12th-2024)
 * [Bill Belichick](https://store.barstoolsports.com/collections/chapel-hill)
 * [Stella Blue Coffee](https://stellabluecoffee.com/)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
