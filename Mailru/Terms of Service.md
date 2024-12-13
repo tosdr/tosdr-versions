@@ -1,172 +1,150 @@
-_s_
+![Top.Mail.Ru](https://top-fwz1.mail.ru/counter?id=1300870;js=na)
 
-_s_
+![](https://mc.yandex.ru/watch/92805550)
 
-[](#)
+Сбросить поиск
 
 Найти
 
-![](//www.tns-counter.ru/V13a****mail_ru/ru/UTF-8/tmsec=mail_win/)
+[Главная](https://help.mail.ru/) ![](https://hmr.mrgcdn.ru/cdn/img/og-sharing.png) 
 
-![](https://www.tns-counter.ru/V13a****mail_ru/ru/UTF-8/tmsec=mail_help/)
+Свернуть
 
-* [Главная Помощи](https://help.mail.ru/legal)
-* [Условия использования сервисов Mail](https://help.mail.ru/legal/terms)
-    * [Общие условия](https://help.mail.ru/legal/terms/common)
-        * [Пользовательское соглашение сервисов Mail](https://help.mail.ru/legal/terms/common/ua)
-        * [Политика конфиденциальности сервисов Mail](https://help.mail.ru/legal/terms/common/privacy)
-        * [Правила применения рекомендательных технологий ресурса Mail](https://help.mail.ru/legal/terms/common/mainrecommendation)
-        * [Правила применения рекомендательных технологий медиапроектов Mail](https://help.mail.ru/legal/terms/common/mediarecommendation)
-    * [Почта](https://help.mail.ru/legal/terms/mail)
-        * [Пользовательское соглашение сервисов Mail](https://help.mail.ru/legal/terms/common/ua)
-        * [Политика конфиденциальности сервисов Mail](https://help.mail.ru/legal/terms/common/privacy)
-        * [Пользовательское соглашение сервиса Почта Mail](https://help.mail.ru/legal/terms/mail/ua)
-        * [Политика конфиденциальности сервиса Почта Mail](https://help.mail.ru/legal/terms/mail/privacy)
-        * [Условия использования функции «Детский режим»](https://help.mail.ru/legal/terms/mail/rules)
-        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/mail/recommendation)
-        * [Соглашение о порядке предоставления дополнительного функционала сервисов Почта Mail и Облако Mail](https://help.mail.ru/legal/terms/cloud/additional)
-    * [Новости](https://help.mail.ru/legal/terms/news)
-        * [Условия использования материалов, размещенных на сайте Новости Mail](https://help.mail.ru/legal/terms/news/policy)
-        * [Политика конфиденциальности приложения Новости Mail](https://help.mail.ru/legal/terms/news/privacy_app)
-    * [Видеозвонки](https://help.mail.ru/legal/terms/calls)
-        * [Пользовательское соглашение сервиса Видеозвонки Mail](https://help.mail.ru/legal/terms/calls/ua)
-    * [Мой Мир](https://help.mail.ru/legal/terms/mm)
-        * [Лицензионное соглашение](https://help.mail.ru/legal/terms/mm/LA)
-        * [Политика конфиденциальности социальной сети «Мой Мир»](https://help.mail.ru/legal/terms/mm/privacy)
-    * [Авто](https://help.mail.ru/legal/terms/auto)
-        * [Условия использования материалов, размещенных на сайте «Авто Mail»](https://help.mail.ru/legal/terms/auto/policy)
-    * [Платформа All Cups](https://help.mail.ru/legal/terms/allcups)
-        * [Пользовательское соглашение Платформы All Cups](https://help.mail.ru/legal/terms/allcups/ua)
-        * [Политика конфиденциальности Платформы All Cups](https://help.mail.ru/legal/terms/allcups/pp)
-        * [All Cups User Agreement](https://help.mail.ru/legal/terms/allcups/ua-eng)
-        * [All Cups Privacy Policy](https://help.mail.ru/legal/terms/allcups/pp-eng)
-    * [Гороскопы](https://help.mail.ru/legal/terms/horo)
-        * [Политика конфиденциальности приложения «Гороскопы» для мобильных устройств на платформе Android/iOS](https://help.mail.ru/legal/terms/horo/privacy)
-    * [Дети](https://help.mail.ru/legal/terms/kids)
-        * [Пользовательское соглашение сервиса Дети Mail](https://help.mail.ru/legal/terms/kids/ua)
-        * [Политика конфиденциальности сервиса Дети Mail](https://help.mail.ru/legal/terms/kids/privacypolicy)
-        * [Условия использования материалов, размещенных на сервисе Дети Mail](https://help.mail.ru/legal/terms/kids/policy)
-    * [Добро](https://help.mail.ru/legal/terms/dobro)
-        * [Условия использования сервиса «VK Добро»](https://help.mail.ru/legal/terms/dobro/policy)
-        * [Соглашение об информационном сотрудничестве сервиса «VK Добро»](https://help.mail.ru/legal/terms/dobro/ua)
-    * [Добрый день](https://help.mail.ru/legal/terms/dobroday)
-        * [Пользовательское соглашение сервиса «Добрый день»](https://help.mail.ru/legal/terms/dobroday/ua)
-        * [Политика конфиденциальности сервиса Добрый день](https://help.mail.ru/legal/terms/dobroday/privacy)
-    * [Здоровье](https://help.mail.ru/legal/terms/health)
-        * [Пользовательское соглашение сервиса Здоровье Mail](https://help.mail.ru/legal/terms/health/ua)
-        * [Пользовательское соглашение для Консультантов на Здоровье Mail](https://help.mail.ru/legal/terms/health/uaconsultants)
-        * [Политика конфиденциальности сервиса Здоровье Mail.ru](https://help.mail.ru/legal/terms/health/privacypolicy)
-        * [Условия использования материалов, размещенных на сайте «Здоровье Mail»](https://help.mail.ru/legal/terms/health/policy)
-    * [Кино](https://help.mail.ru/legal/terms/movie)
-        * [Условия использования материалов, размещённых на «Кино Mail»](https://help.mail.ru/legal/terms/movie/policy)
-    * [Леди](https://help.mail.ru/legal/terms/lady)
-        * [Условия использования материалов, размещенных на сервисе "Леди Mail"](https://help.mail.ru/legal/terms/lady/policy)
-    * [Маруся](https://help.mail.ru/legal/terms/marusia)
-        * [Лицензионное соглашение для использования программного обеспечения «Голосовой помощник «Маруся»](https://help.mail.ru/legal/terms/marusia/LA)
-        * [Политика конфиденциальности сервиса «Голосовой помощник «Маруся»](https://help.mail.ru/legal/terms/marusia/policy)
-        * [Соглашение с правообладателями скиллов для Голосового помощника](https://help.mail.ru/legal/terms/marusia/agreement)
-        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/marusia/recommend)
-    * [Облако](https://help.mail.ru/legal/terms/cloud)
-        * [Лицензионное соглашение сервиса Облако Mail](https://help.mail.ru/legal/terms/cloud/LA)
-        * [Политика конфиденциальности сервиса Облако Mail](https://help.mail.ru/legal/terms/cloud/privacy)
-        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/cloud/recommendation)
-        * [Соглашение о порядке предоставления дополнительного функционала сервисов Почта Mail и Облако Mail](https://help.mail.ru/legal/terms/cloud/additional)
-        * [Диск-О:](https://help.mail.ru/legal/terms/cloud/disko)
-            * [Лицензионное соглашение для приложения «Диск-О:»](https://help.mail.ru/legal/terms/cloud/disko/LA)
-            * [Политика конфиденциальности приложения «Диск-О:»](https://help.mail.ru/legal/terms/cloud/disko/privacy)
-            * [EU PRIVACY POLICY](https://help.mail.ru/legal/terms/cloud/disko/privacy/EU)
-            * [License Agreement for Disk-O: Applications](https://help.mail.ru/legal/terms/cloud/disko/LA/EU)
-        * [Cloud App for EU-based users](https://help.mail.ru/legal/terms/cloud/eu-cloud)
-            * [END USER LICENSE AGREEMENT FOR MOBILE SOFTWARE TITLED "CLOUD MAIL"](https://help.mail.ru/legal/terms/cloud/eu-cloud/eula)
-            * [EU PRIVACY POLICY for Cloud Mail](https://help.mail.ru/legal/terms/cloud/eu-cloud/euprivacypolicy)
-    * [Ответы](https://help.mail.ru/legal/terms/answers)
-        * [Пользовательское соглашение](https://help.mail.ru/legal/terms/answers/ua)
-    * [Питомцы](https://help.mail.ru/legal/terms/pets)
-        * [Условия использования материалов, размещенных на сайте Питомцы Mail](https://help.mail.ru/legal/terms/pets/policy)
-        * [Пользовательское соглашение сервиса Питомцы Mail](https://help.mail.ru/legal/terms/pets/ua)
-        * [Политика конфиденциальности для сервиса Питомцы Mail](https://help.mail.ru/legal/terms/pets/privacypolicy)
-        * [Условия допуска консультантов для информационной поддержки пользователей сервиса Питомцы Mail](https://help.mail.ru/legal/terms/pets/termsconsultants)
-    * [Hi-Tech](https://help.mail.ru/legal/terms/hitech)
-        * [Условия использования материалов, размещенных на сайте «Hi-Tech Mail»](https://help.mail.ru/legal/terms/hitech/policy)
-    * [Postmaster](https://help.mail.ru/legal/terms/postmaster)
-        * [Условия использования](https://help.mail.ru/legal/terms/postmaster/policy)
-        * [Terms of Postmaster Use](https://help.mail.ru/legal/terms/postmaster/policy/eng)
-    * [ТамТам](https://help.mail.ru/legal/terms/tamtam)
-        * [Русский](https://help.mail.ru/legal/terms/tamtam/ru)
-            * [Лицензионное соглашение для конечного пользователя мессенджера «ТамТам»](https://help.mail.ru/legal/terms/tamtam/ru/LA)
-            * [Политика конфиденциальности для мессенджера «ТамТам»](https://help.mail.ru/legal/terms/tamtam/ru/privacy)
-            * [Политика конфиденциальности для мессенджера «ТамТам» для стран ЕС](https://help.mail.ru/legal/terms/tamtam/ru/privacy/EU)
-            * [Регламент ведения чатов и каналов в ТамТам](https://help.mail.ru/legal/terms/tamtam/ru/regulations)
-            * [Политика использования cookie в мессенджере «ТамТам»](https://help.mail.ru/legal/terms/tamtam/ru/cookiepolicy)
-        * [English](https://help.mail.ru/legal/terms/tamtam/eng)
-            * [TamTam Messenger Privacy Policy](https://help.mail.ru/legal/terms/tamtam/eng/privacy)
-            * [Privacy policy for the TamTam messenger for EU](https://help.mail.ru/legal/terms/tamtam/eng/privacy/EU)
-            * [TamTam Messenger End User License Agreement](https://help.mail.ru/legal/terms/tamtam/eng/LA)
-            * [TamTam Chats and Channels Regulations](https://help.mail.ru/legal/terms/tamtam/eng/regulations)
-            * [TamTam Cookie Policy](https://help.mail.ru/legal/terms/tamtam/eng/cookiepolicy)
-    * [Рейтинг](https://help.mail.ru/legal/terms/top)
-        * [Лицензионное соглашение](https://help.mail.ru/legal/terms/top/LA)
-        * [License agreement](https://help.mail.ru/legal/terms/top/LA/eng)
-        * [Политика конфиденциальности сервиса Рейтинг Mail](https://help.mail.ru/legal/terms/top/pp)
-    * [myTracker](https://help.mail.ru/legal/terms/mytracker)
-        * [Русский](https://help.mail.ru/legal/terms/mytracker/ru)
-            * [Лицензионное соглашение](https://help.mail.ru/legal/terms/mytracker/ru/LA)
-            * [Standard Contractual Clauses](https://help.mail.ru/legal/terms/mytracker/ru/SCC)
-            * [Политика конфиденциальности сервиса MyTracker](https://help.mail.ru/legal/terms/mytracker/ru/PP)
-            * [Соглашение об оказании информационных услуг](https://help.mail.ru/legal/terms/mytracker/ru/agreement)
-        * [English](https://help.mail.ru/legal/terms/mytracker/eng)
-            * [Standard Contractual Clauses](https://help.mail.ru/legal/terms/mytracker/eng/SCC)
-            * [MyTracker Privacy Policy](https://help.mail.ru/legal/terms/mytracker/eng/privacy)
-            * [License Agreement](https://help.mail.ru/legal/terms/mytracker/eng/LA)
-            * [Information Services Agreement](https://help.mail.ru/legal/terms/mytracker/eng/agreement)
-            * [COOKIE POLICY](https://help.mail.ru/legal/terms/mytracker/eng/cookiepolicy)
-    * [Юла](https://help.mail.ru/legal/terms/youla)
-        * [Лицензионное соглашение](https://help.mail.ru/legal/terms/youla/LA)
-        * [Политика конфиденциальности](https://help.mail.ru/legal/terms/youla/privacy)
-        * [Оферта сервиса «Безопасная сделка»](https://help.mail.ru/legal/terms/youla/oferta/safedeal)
-        * [Оферта об оказании Услуги «Поднятие в ленте»](https://help.mail.ru/legal/terms/youla/raising)
-        * [Оферта сервиса «Разовое размещение»](https://help.mail.ru/legal/terms/youla/adpacks)
-        * [Оферта сервиса «Тариф»](https://help.mail.ru/legal/terms/youla/tariffs)
-        * [Оферта для Рекламодателей – юридических лиц](https://help.mail.ru/legal/terms/youla/adv)
-        * [Условия распоряжений покупателя](https://help.mail.ru/legal/terms/youla/safedeal_conditions)
-        * [Правила начисления и использования Бонусов](https://help.mail.ru/legal/terms/youla/rules_bonus)
-        * [Нарушение интеллектуальных прав](https://help.mail.ru/legal/terms/youla/dmca)
-            * [Нарушение интеллектуальных прав юридического лица](https://help.mail.ru/legal/terms/youla/dmca/form_legal)
-            * [Нарушение интеллектуальных прав физического лица](https://help.mail.ru/legal/terms/youla/dmca/form_individual)
-        * [Правила акции "Услуги продвижения за 1 рубль"](https://help.mail.ru/legal/terms/youla/rules_promotion)
-        * [Правила проведения акции «Розыгрыш 1 000 000 рублей»](https://help.mail.ru/legal/terms/youla/rozygrysh_million)
-        * [Правила акции "Бесплатные продвижения от ЮЛЫ"](https://help.mail.ru/legal/terms/youla/rules_free_promotion)
-        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/youla/recommendation)
-    * [VK Карты](https://help.mail.ru/legal/terms/maps)
-        * [Условия использования Сервиса «VK Карты»](https://help.mail.ru/legal/terms/maps/terms)
-    * [myTarget](https://help.mail.ru/legal/terms/myTarget)
-        * [Политика конфиденциальности сервиса myTarget](https://help.mail.ru/legal/terms/myTarget/privacy)
-    * [VK Реклама](https://help.mail.ru/legal/terms/adsvk)
-        * [Terms of Service VK ADS](https://help.mail.ru/legal/terms/adsvk/termsofservice)
-        * [Cookie Policy VK ADS](https://help.mail.ru/legal/terms/adsvk/cookies)
-        * [EU Privacy Policy VK ADS](https://help.mail.ru/legal/terms/adsvk/euprivacy)
-        * [Оферта для партнеров - резидентов РФ](https://help.mail.ru/legal/terms/adsvk/partners-doc-offer-for-residents)
-        * [Условия оказания услуг для партнеров, владеющих рекламными площадками](https://help.mail.ru/legal/terms/adsvk/partners-doc-terms-for-residents)
-        * [Условия оказания услуг информационного взаимодействия с ОРД для партнеров, владеющих рекламными площадками](https://help.mail.ru/legal/terms/adsvk/partners-ord-terms-ru)
-        * [Offer for publishers](https://help.mail.ru/legal/terms/adsvk/partners-doc-offer-for-nonresidents)
-        * [Terms and conditions for publishers](https://help.mail.ru/legal/terms/adsvk/partners-doc-terms-for-nonresidents)
-        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/adsvk/recommendation)
-        * [Пользовательское соглашение VK Реклама](https://help.mail.ru/legal/terms/adsvk/terms)
-        * [Политика конфиденциальности VK Реклама](https://help.mail.ru/legal/terms/adsvk/privacy)
-    * [](https://help.mail.ru/legal/terms/partnersandaffiliates)
-* [Политики компании](https://help.mail.ru/legal/documents)
-    * [Политика в области обработки и обеспечения безопасности перс.данных](https://help.mail.ru/legal/documents/personaldata)
+[Юридические документы](https://help.mail.ru/legal/)
+
+* [Условия использования сервисов Mail](https://help.mail.ru/legal/terms/)
+    * [Общие условия](https://help.mail.ru/legal/terms/common/)
+        * [Пользовательское соглашение сервисов Mail](https://help.mail.ru/legal/terms/common/ua/)
+        * [Политика конфиденциальности сервисов Mail](https://help.mail.ru/legal/terms/common/privacy/)
+        * [Правила применения рекомендательных технологий ресурса Mail](https://help.mail.ru/legal/terms/common/mainrecommendation/)
+        * [Правила применения рекомендательных технологий медиапроектов Mail](https://help.mail.ru/legal/terms/common/mediarecommendation/)
+    * [Почта](https://help.mail.ru/legal/terms/mail/)
+        * [Пользовательское соглашение сервисов Mail](https://help.mail.ru/legal/terms/common/ua/)
+        * [Политика конфиденциальности сервисов Mail](https://help.mail.ru/legal/terms/common/privacy/)
+        * [Пользовательское соглашение сервиса Почта Mail](https://help.mail.ru/legal/terms/mail/ua/)
+        * [Политика конфиденциальности сервиса Почта Mail](https://help.mail.ru/legal/terms/mail/privacy/)
+        * [Условия использования функции «Детский режим»](https://help.mail.ru/legal/terms/mail/rules/)
+        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/mail/recommendation/)
+    * [Новости](https://help.mail.ru/legal/terms/news/)
+        * [Условия использования материалов, размещенных на сайте Новости Mail](https://help.mail.ru/legal/terms/news/policy/)
+        * [Политика конфиденциальности приложения Новости Mail](https://help.mail.ru/legal/terms/news/privacy_app/)
+    * [Мой Мир](https://help.mail.ru/legal/terms/mm/)
+        * [Лицензионное соглашение](https://help.mail.ru/legal/terms/mm/la/)
+        * [Политика конфиденциальности социальной сети «Мой Мир»](https://help.mail.ru/legal/terms/mm/privacy/)
+    * [Авто](https://help.mail.ru/legal/terms/auto/)
+        * [Условия использования материалов, размещенных на сайте «Авто Mail»](https://help.mail.ru/legal/terms/auto/policy/)
+    * [Платформа All Cups](https://help.mail.ru/legal/terms/allcups/)
+        * [Пользовательское соглашение Платформы All Cups](https://help.mail.ru/legal/terms/allcups/ua/)
+        * [Политика конфиденциальности Платформы All Cups](https://help.mail.ru/legal/terms/allcups/pp/)
+        * [All Cups User Agreement](https://help.mail.ru/legal/terms/allcups/ua-eng/)
+        * [All Cups Privacy Policy](https://help.mail.ru/legal/terms/allcups/pp-eng/)
+    * [Гороскопы](https://help.mail.ru/legal/terms/horo/)
+        * [Политика конфиденциальности приложения «Гороскопы» для мобильных устройств на платформе Android/iOS](https://help.mail.ru/legal/terms/horo/privacy/)
+    * [Дети](https://help.mail.ru/legal/terms/kids/)
+        * [Пользовательское соглашение сервиса Дети Mail](https://help.mail.ru/legal/terms/kids/ua/)
+        * [Политика конфиденциальности сервиса Дети Mail](https://help.mail.ru/legal/terms/kids/privacypolicy/)
+        * [Условия использования материалов, размещенных на сервисе Дети Mail](https://help.mail.ru/legal/terms/kids/policy/)
+    * [Добро](https://help.mail.ru/legal/terms/dobro/)
+        * [Условия использования сервиса «VK Добро»](https://help.mail.ru/legal/terms/dobro/policy/)
+        * [Соглашение об информационном сотрудничестве сервиса «VK Добро»](https://help.mail.ru/legal/terms/dobro/ua/)
+    * [Добрый день](https://help.mail.ru/legal/terms/dobroday/)
+        * [Пользовательское соглашение сервиса «Добрый день»](https://help.mail.ru/legal/terms/dobroday/ua/)
+        * [Политика конфиденциальности сервиса Добрый день](https://help.mail.ru/legal/terms/dobroday/privacy/)
+    * [Здоровье](https://help.mail.ru/legal/terms/health/)
+        * [Пользовательское соглашение сервиса Здоровье Mail](https://help.mail.ru/legal/terms/health/ua/)
+        * [Пользовательское соглашение для Консультантов на Здоровье Mail](https://help.mail.ru/legal/terms/health/uaconsultants/)
+        * [Политика конфиденциальности сервиса Здоровье Mail](https://help.mail.ru/legal/terms/health/privacypolicy/)
+        * [Условия использования материалов, размещенных на сайте «Здоровье Mail»](https://help.mail.ru/legal/terms/health/policy/)
+    * [Кино](https://help.mail.ru/legal/terms/movie/)
+        * [Условия использования материалов, размещённых на «Кино Mail»](https://help.mail.ru/legal/terms/movie/policy/)
+    * [Леди](https://help.mail.ru/legal/terms/lady/)
+        * [Условия использования материалов, размещенных на сервисе "Леди Mail"](https://help.mail.ru/legal/terms/lady/policy/)
+    * [Маруся](https://help.mail.ru/legal/terms/marusia/)
+        * [Лицензионное соглашение для использования программного обеспечения «Голосовой помощник «Маруся»](https://help.mail.ru/legal/terms/marusia/la/)
+        * [Политика конфиденциальности сервиса «Голосовой помощник «Маруся»](https://help.mail.ru/legal/terms/marusia/policy/)
+        * [Соглашение с правообладателями скиллов для Голосового помощника](https://help.mail.ru/legal/terms/marusia/agreement/)
+        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/marusia/recommend/)
+    * [Облако](https://help.mail.ru/legal/terms/cloud/)
+        * [Лицензионное соглашение сервиса Облако@mail.ru](https://help.mail.ru/legal/terms/cloud/la/)
+        * [Политика конфиденциальности сервиса Облако Mail](https://help.mail.ru/legal/terms/cloud/privacy/)
+        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/cloud/recommendation/)
+        * [Диск-О:](https://help.mail.ru/legal/terms/cloud/disko/)
+            * [Лицензионное соглашение для приложения «Диск-О:»](https://help.mail.ru/legal/terms/cloud/disko/la/)
+                * [License Agreement for Disk-O: Applications](https://help.mail.ru/legal/terms/cloud/disko/la/eu/)
+            * [Политика конфиденциальности приложения «Диск-О:»](https://help.mail.ru/legal/terms/cloud/disko/privacy/)
+                * [EU PRIVACY POLICY](https://help.mail.ru/legal/terms/cloud/disko/privacy/eu/)
+        * [Cloud App for EU-based users](https://help.mail.ru/legal/terms/cloud/eu-cloud/)
+            * [END USER LICENSE AGREEMENT FOR MOBILE SOFTWARE TITLED \\"CLOUD MAIL.RU\\"](https://help.mail.ru/legal/terms/cloud/eu-cloud/eula/)
+            * [EU PRIVACY POLICY for Cloud Mail](https://help.mail.ru/legal/terms/cloud/eu-cloud/euprivacypolicy/)
+    * [Ответы](https://help.mail.ru/legal/terms/answers/)
+        * [Пользовательское соглашение](https://help.mail.ru/legal/terms/answers/ua/)
+    * [Питомцы](https://help.mail.ru/legal/terms/pets/)
+        * [Условия использования материалов, размещенных на сайте Питомцы Mail](https://help.mail.ru/legal/terms/pets/policy/)
+        * [Пользовательское соглашение сервиса Питомцы Mail](https://help.mail.ru/legal/terms/pets/ua/)
+        * [Политика конфиденциальности для сервиса Питомцы Mail](https://help.mail.ru/legal/terms/pets/privacypolicy/)
+        * [Условия допуска консультантов для информационной поддержки пользователей сервиса Питомцы Mail](https://help.mail.ru/legal/terms/pets/termsconsultants/)
+    * [Рейтинг](https://help.mail.ru/legal/terms/top/)
+        * [Лицензионное соглашение](https://help.mail.ru/legal/terms/top/la/)
+        * [License agreement](https://help.mail.ru/legal/terms/top/la-eng/)
+        * [Политика конфиденциальности сервиса Рейтинг Mail](https://help.mail.ru/legal/terms/top/pp/)
+    * [Юла](https://help.mail.ru/legal/terms/youla/)
+        * [Лицензионное соглашение](https://help.mail.ru/legal/terms/youla/la/)
+        * [Нарушение интеллектуальных прав юридического лица](https://help.mail.ru/legal/terms/youla/dmca/form_legal/)
+        * [Политика конфиденциальности](https://help.mail.ru/legal/terms/youla/privacy/)
+        * [Нарушение интеллектуальных прав физического лица](https://help.mail.ru/legal/terms/youla/dmca/form_individual/)
+        * [Оферта сервиса «Безопасная сделка»](https://help.mail.ru/legal/terms/youla/oferta/safedeal/)
+        * [Оферта об оказании Услуги «Поднятие в ленте»](https://help.mail.ru/legal/terms/youla/raising/)
+        * [Оферта сервиса «Разовое размещение»](https://help.mail.ru/legal/terms/youla/adpacks/)
+        * [Оферта сервиса «Тариф»](https://help.mail.ru/legal/terms/youla/tariffs/)
+        * [Оферта для Рекламодателей – юридических лиц](https://help.mail.ru/legal/terms/youla/adv/)
+        * [Условия распоряжений покупателя](https://help.mail.ru/legal/terms/youla/safedeal_conditions/)
+        * [Правила начисления и использования Бонусов](https://help.mail.ru/legal/terms/youla/rules_bonus/)
+        * [Нарушение интеллектуальных прав](https://help.mail.ru/legal/terms/youla/dmca/)
+        * [Правила акции \\"Услуги продвижения за 1 рубль\\"](https://help.mail.ru/legal/terms/youla/rules_promotion/)
+        * [Правила проведения акции «Розыгрыш 1 000 000 рублей»](https://help.mail.ru/legal/terms/youla/rozygrysh_million/)
+        * [Правила акции \\"Бесплатные продвижения от ЮЛЫ\\"](https://help.mail.ru/legal/terms/youla/rules_free_promotion/)
+        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/youla/recommendation/)
+    * [Hi-Tech](https://help.mail.ru/legal/terms/hitech/)
+        * [Условия использования материалов, размещенных на сайте «Hi-Tech Mail»](https://help.mail.ru/legal/terms/hitech/policy/)
+    * [Postmaster](https://help.mail.ru/legal/terms/postmaster/)
+        * [Условия использования](https://help.mail.ru/legal/terms/postmaster/policy/)
+        * [Terms of Postmaster Use](https://help.mail.ru/legal/terms/postmaster/policy-eng/)
+    * [VK Карты](https://help.mail.ru/legal/terms/maps/)
+        * [Условия использования Сервиса «VK Карты»](https://help.mail.ru/legal/terms/maps/terms/)
+        * [Политика конфиденциальности Сервиса «VK Карты»](https://help.mail.ru/legal/terms/maps/privacy/)
+    * [VK Реклама](https://help.mail.ru/legal/terms/adsvk/)
+        * [Terms of Service VK ADS](https://help.mail.ru/legal/terms/adsvk/termsofservice/)
+        * [Cookie Policy VK ADS](https://help.mail.ru/legal/terms/adsvk/cookies/)
+        * [EU Privacy Policy VK ADS](https://help.mail.ru/legal/terms/adsvk/euprivacy/)
+        * [Оферта для партнеров - резидентов РФ](https://help.mail.ru/legal/terms/adsvk/partners-doc-offer-for-residents/)
+        * [Условия оказания услуг для партнеров, владеющих рекламными площадками](https://help.mail.ru/legal/terms/adsvk/partners-doc-terms-for-residents/)
+        * [Условия оказания услуг информационного взаимодействия с ОРД для партнеров, владеющих рекламными площадками](https://help.mail.ru/legal/terms/adsvk/partners-ord-terms-ru/)
+        * [Offer for publishers](https://help.mail.ru/legal/terms/adsvk/partners-doc-offer-for-nonresidents/)
+        * [Terms and conditions for publishers](https://help.mail.ru/legal/terms/adsvk/partners-doc-terms-for-nonresidents/)
+        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/adsvk/recommendation/)
+        * [Пользовательское соглашение VK Реклама](https://help.mail.ru/legal/terms/adsvk/terms/)
+        * [Политика конфиденциальности VK Реклама](https://help.mail.ru/legal/terms/adsvk/privacy/)
+    * [VK Доска](https://help.mail.ru/legal/terms/board/)
+        * [Условия использования Сервиса «VK Доска»](https://help.mail.ru/legal/terms/board/ua/)
+        * [Политика конфиденциальности Сервиса «VK Доска»](https://help.mail.ru/legal/terms/board/privacy/)
+    * [VK Tutoria](https://help.mail.ru/legal/terms/tutoria/)
+        * [Условия использования сервиса «VK Tutoria»](https://help.mail.ru/legal/terms/tutoria/ua/)
+        * [Политика конфиденциальности сервиса «VK Tutoria»](https://help.mail.ru/legal/terms/tutoria/privacy/)
+* [Политики компании](https://help.mail.ru/legal/documents/)
+    * [Политика в области обработки и обеспечения безопасности перс.данных](https://help.mail.ru/legal/documents/personaldata/)
+* [Uxlab](https://help.mail.ru/legal/uxlab/)
+    * [Политика конфиденциальности для респондентов](https://help.mail.ru/legal/uxlab/pc/)
 
 Пользовательское соглашение сервисов Mail
 =========================================
 
 **1\. Общие положения**
 
-1.1. Предметом регулирования настоящего Пользовательского соглашения (далее «ПС» или «Соглашение») являются отношения между ООО «ВК» (ОГРН 1027739850962, Россия, 125167, г. Москва, Ленинградский проспект д. 39, стр. 79), далее «Mail» или «Компания», являющегося правообладателем сайтов, сервисов, программ и/или иных продуктов (приложений), в том числе информационного, коммуникационного, рекламного, образовательного, развлекательного и иного характера (далее – «Сервисы», а в отдельности – «Сервис»), доступных в том числе в сети Интернет по адресу [https://mail.ru/](https://mail.ru/) (далее – «Сайт»), и Вами (физическим лицом пользователем сети Интернет), далее  «Пользователь», по поводу использования Сервисов Компании. Настоящее Соглашение размещено по адресу: [https://help.mail.ru/legal/terms/common/ua](https://help.mail.ru/legal/terms/common/ua).
+1.1. Предметом регулирования настоящего Пользовательского соглашения (далее «ПС» или «Соглашение») являются отношения между ООО «ВК» (ОГРН 1027739850962, Россия, 125167, г. Москва, Ленинградский проспект д. 39, стр. 79), далее «Mail» или «Компания», являющегося правообладателем сайтов, сервисов, программ и/или иных продуктов (приложений), в том числе информационного, коммуникационного, рекламного, образовательного, развлекательного и иного характера (далее – «Сервисы», а в отдельности – «Сервис»), доступных в том числе в сети Интернет по адресу [https://mail.ru/](https://mail.ru/) (далее – «Сайт»), и Вами (физическим лицом пользователем сети Интернет), далее «Пользователь», по поводу использования Сервисов Компании. Настоящее Соглашение размещено по адресу: [https://help.mail.ru/legal/terms/common/ua](https://help.mail.ru/legal/terms/common/ua/).
 
-1.2. Использование Сервисов Mail помимо настоящего Соглашения, может регулироваться отдельными правилами, применимыми к конкретному Сервису («Соглашение отдельного Сервиса»), которые также являются частью настоящего Соглашения. Помимо этого, отношения между Сторонами регулируются Общей политикой конфиденциальности Сервисов Mail, которая размещена по адресу [https://help.mail.ru/legal/terms/common/privacy](https://help.mail.ru/legal/terms/common/privacy), а также Политиками конфиденциальности соответствующего Сервиса.
+1.2. Использование Сервисов Mail помимо настоящего Соглашения, может регулироваться отдельными правилами, применимыми к конкретному Сервису («Соглашение отдельного Сервиса»), которые также являются частью настоящего Соглашения. Помимо этого, отношения между Сторонами регулируются Общей политикой конфиденциальности Сервисов Mail, которая размещена по адресу [https://help.mail.ru/legal/terms/common/privacy](https://help.mail.ru/legal/terms/common/privacy/), а также Политиками конфиденциальности соответствующего Сервиса.
 
-1.3. При регистрации, каждом доступе и/или фактическом использовании любого из Сервисов, Пользователь соглашается с условиями настоящего Соглашения, Общей политикой конфиденциальности Сервисов Mail, а также с условиями соглашений, положений и правил используемых им Сервисов, которые размещены на страницах (в разделах) соответствующих Сервисов, в редакциях, которые действовали на момент фактического использования таких Сервисов. 
+1.3. При регистрации, каждом доступе и/или фактическом использовании любого из Сервисов, Пользователь соглашается с условиями настоящего Соглашения, Общей политикой конфиденциальности Сервисов Mail, а также с условиями соглашений, положений и правил используемых им Сервисов, которые размещены на страницах (в разделах) соответствующих Сервисов, в редакциях, которые действовали на момент фактического использования таких Сервисов.
 
 **2\. Предмет Соглашения**
 
@@ -174,9 +152,9 @@ _s_
 
 2.2. Mail вправе устанавливать ограничения по использованию Сервисов, которые могут содержаться в настоящем Соглашении и в Соглашениях отдельных Сервисов.
 
-2.3. Сервисы Mail предоставляются на безвозмездной основе, если иное не предусмотрено настоящим Соглашением и/или Соглашениями отдельных Сервисов. 
+2.3. Сервисы Mail предоставляются на безвозмездной основе, если иное не предусмотрено настоящим Соглашением и/или Соглашениями отдельных Сервисов.
 
-**3. Порядок регистрации Пользователя в Сервисах**
+**3\. Порядок регистрации Пользователя в Сервисах**
 
 3.1. Для того чтобы воспользоваться отдельными Сервисами Mail или получить права на использование дополнительных функциональных (программных) возможностей Сервисов, Пользователю необходимо создать Учетную запись (Mail ID), пройдя процедуру регистрации. Данные для входа в Учетную запись могут быть использованы Пользователем для авторизации на ресурсах третьих лиц (ресурсах партнеров), допускающих указанную возможность, с последующим созданием технологической связи с Mail ID. Использование такого способа авторизации может потребовать от Пользователя соблюдения отдельных условий, в том числе условий использования персональных и иных данных ресурсами третьих лиц. Выбирая авторизацию с использованием данных Mail ID, Пользователь соглашается с условиями ее осуществления.
 
@@ -184,51 +162,51 @@ _s_
 
 Использование ряда Сервисов Mail возможно при условии создания отдельного аккаунта для соответствующего Сервиса, порядок использования которого определяется настоящим Соглашением и/или Соглашением отдельного Сервиса.
 
-3.2. Mail не может нести ответственности и  гарантировать безопасность Учетной записи Пользователя в случаях: передачи Пользователем третьим лицам (умышленно или по неосторожности) пароля и Учетных данных; доступа третьих лиц к Учетной записи Пользователя вследствие использования Пользователем форм, расположенных на внешних интернет-сайтах, для доступа к Сервисам, с использованием программных средств, позволяющих осуществить подбор и/или раскодирование пароля; доступа третьих лиц к Учетной записи Пользователя путем простого подбора пароля и Учетных данных; невыполнение Пользователем рекомендаций, указанных в настоящем Соглашении, Пользовательских соглашений для отдельных Сервисов или интерфейсе соответствующего Сервиса.
+3.2. Mail не может нести ответственности и гарантировать безопасность Учетной записи Пользователя в случаях: передачи Пользователем третьим лицам (умышленно или по неосторожности) пароля и Учетных данных; доступа третьих лиц к Учетной записи Пользователя вследствие использования Пользователем форм, расположенных на внешних интернет-сайтах, для доступа к Сервисам, с использованием программных средств, позволяющих осуществить подбор и/или раскодирование пароля; доступа третьих лиц к Учетной записи Пользователя путем простого подбора пароля и Учетных данных; невыполнение Пользователем рекомендаций, указанных в настоящем Соглашении, Пользовательских соглашений для отдельных Сервисов или интерфейсе соответствующего Сервиса.
 
 3.3. В ряде случаев в целях обеспечения более надежной защиты Учетной записи Пользователя, Компания реализует систему привязки Учетной записи к мобильному телефону. Для использования данной системы Пользователь предоставляет Компании один или несколько номеров своего мобильного телефона.
 
-Для целей подтверждения актуальности (верификации) привязанного к Учетной записи Пользователя номера телефона, осуществления авторизации в Учетной записи, восстановления доступа к Учетной записи (в случае утраты логина или пароля) и в иных предусмотренных Сервисом случаях, Компания использует различные способы верификации, например, на номер телефона, указанный Пользователем, посредством SMS-сообщения или проверочного звонка-сброса может направляться код. При поступлении SMS-сообщения с кодом или звонка-сброса Пользователю необходимо в соответствующем окне ввести код из SMS-сообщения или последние несколько цифр номера, с которого осуществлен звонок-сброс.
+Для целей подтверждения актуальности (верификации) привязанного к Учетной записи Пользователя номера телефона, осуществления авторизации в Учетной записи, восстановления доступа к Учетной записи (в случае утраты логина или пароля) и в иных предусмотренных Сервисом случаях, Компания использует различные способы верификации, например, на номер телефона, указанный Пользователем, посредством SMS-сообщения или проверочного звонка-сброса может направляться код. При поступлении SMS-сообщения с кодом или звонка-сброса Пользователю необходимо в соответствующем окне ввести код из SMS-сообщения или последние несколько цифр номера, с которого осуществлен звонок-сброс.
 
 Компания также вправе использовать иные способы верификации, позволяющие Компании обеспечивать Пользователю безопасное использование Сервиса, в том числе путем взаимодействия с операторами связи для целей подтверждения фактического доступа Пользователя к Сервису. Пользователь не возражает против обработки операторами связи информации для указанной цели.
 
-В случае утраты логина и пароля Пользователю могут быть предоставлены иные способы восстановления доступа к Учетной записи, действующие на момент входа в Учетную запись.     
+В случае утраты логина и пароля Пользователю могут быть предоставлены иные способы восстановления доступа к Учетной записи, действующие на момент входа в Учетную запись.
 
 Пользователь также может использовать систему привязки к его Учетной записи адреса электронного почтового ящика, который будет использоваться как дополнительный инструмент для обеспечения безопасности Учетной записи Пользователя в сервисах Mail.
 
 **4\. Материалы, размещаемые Пользователями в Сервисах**
 
-4.1. Пользователь несет полную ответственность, как за содержание отправляемых или публикуемых сообщений, так и за всю информацию, данные, текст, программы, музыку, звуки, фотографии, графику, видео, сообщения и другие материалы (далее «Материалы»), публично опубликованные и/или переданные с помощью Сервисов Mail. Это означает, что Пользователь, полностью отвечает за все Материалы, которые Пользователь загружает, отправляет, получает, передает или каким-либо другим способом делает доступным с помощью Сервисов Mail. Mail не контролирует Материалы, передаваемые Сервисами Mail, следовательно, не гарантирует точность, полноту или качество этих Материалов.
+4.1. Пользователь несет полную ответственность, как за содержание отправляемых или публикуемых сообщений, так и за всю информацию, данные, текст, программы, музыку, звуки, фотографии, графику, видео, сообщения и другие материалы (далее «Материалы»), публично опубликованные и/или переданные с помощью Сервисов Mail. Это означает, что Пользователь, полностью отвечает за все Материалы, которые Пользователь загружает, отправляет, получает, передает или каким-либо другим способом делает доступным с помощью Сервисов Mail. Mail не контролирует Материалы, передаваемые Сервисами Mail, следовательно, не гарантирует точность, полноту или качество этих Материалов.
 
-4.2. Пользователь понимает, что, используя некоторые Сервисы Mail, он может увидеть Материалы, которые могут быть расценены им как оскорбительные, недостоверные или спорные и при этом Пользователь понимает, что ответственность за размещение таких Материалов несут разместивший их Пользователи Сервисов Mail.
+4.2. Пользователь понимает, что, используя некоторые Сервисы Mail, он может увидеть Материалы, которые могут быть расценены им как оскорбительные, недостоверные или спорные и при этом Пользователь понимает, что ответственность за размещение таких Материалов несут разместивший их Пользователи Сервисов Mail.
 
-4.3. Пользователь не может загружать, передавать или публиковать Материалы на Сервисах Mail, если на их размещение у Пользователя нет прав или разрешения соответствующего правообладателя. В случае поступления претензий от третьих лиц, связанных с размещением Пользователем Материалов, Пользователь самостоятельно и за свой счет урегулирует указанные претензии.
+4.3. Пользователь не может загружать, передавать или публиковать Материалы на Сервисах Mail, если на их размещение у Пользователя нет прав или разрешения соответствующего правообладателя. В случае поступления претензий от третьих лиц, связанных с размещением Пользователем Материалов, Пользователь самостоятельно и за свой счет урегулирует указанные претензии.
 
 4.4. Пользователь соглашается на использование Компанией и/или другими Пользователями Сервиса Материалов, размещенных Пользователем в таком Сервисе, если они используется в пределах выбранного Пользователем функционала.
 
 4.5. Отдельные Сервисы Компании предоставляют Пользователям возможность размещать Материалы, которые будут находиться в открытом доступе для всех пользователей сети Интернет либо для всех пользователей определенного Сервиса Компании. Используя такие Сервисы, Пользователь понимает и соглашается с тем, что, загружая Материалы на Сервис, Пользователь предоставляет к ним доступ вышеуказанным лицам по умолчанию.
 
-4.6. Кроме случаев, установленных настоящим Пользовательским Соглашением или Соглашениями отдельных Сервисов, а также действующим законодательством Российской Федерации, никакие Материалы не могут быть скопированы (воспроизведены), переработаны, распространены, отображены, опубликованы, скачаны, переданы, проданы или иным способом использованы целиком или по частям без предварительного разрешения на то Mail, либо соответствующего правообладателя, за исключением случаев, когда правообладатель явным образом выразил свое согласие на свободное использование Материала.
+4.6. Кроме случаев, установленных настоящим Пользовательским Соглашением или Соглашениями отдельных Сервисов, а также действующим законодательством Российской Федерации, никакие Материалы не могут быть скопированы (воспроизведены), переработаны, распространены, отображены, опубликованы, скачаны, переданы, проданы или иным способом использованы целиком или по частям без предварительного разрешения на то Mail, либо соответствующего правообладателя, за исключением случаев, когда правообладатель явным образом выразил свое согласие на свободное использование Материала.
 
-4.7. Пользователь, используя функционал Сервисов Mail, соглашается с тем, что некоторая информация  может быть передана партнерам Mail исключительно в целях обеспечения предоставления Компанией Mail соответствующего Сервиса Пользователю, а равно предоставления Пользователю прав использования дополнительных функциональных (программных) возможностей соответствующего Сервиса, предоставляемых совместно с этими партнерами, и исключительно в объеме, необходимом для надлежащего предоставления таких Сервисов и/или функциональных возможностей, а также в иных случаях в целях исполнения условий настоящего Соглашения.
+4.7. Пользователь, используя функционал Сервисов Mail, соглашается с тем, что некоторая информация может быть передана партнерам Mail исключительно в целях обеспечения предоставления Компанией Mail соответствующего Сервиса Пользователю, а равно предоставления Пользователю прав использования дополнительных функциональных (программных) возможностей соответствующего Сервиса, предоставляемых совместно с этими партнерами, и исключительно в объеме, необходимом для надлежащего предоставления таких Сервисов и/или функциональных возможностей, а также в иных случаях в целях исполнения условий настоящего Соглашения.
 
 **5\. Права и обязанности Пользователя при использовании Сервисов**
 
 5.1. Пользователь вправе использовать предоставленные Mail Сервисы бесплатно, если иное не предусмотрено настоящим Соглашением или Соглашениями отдельных Сервисов, для реализации их функциональных возможностей, с соблюдением предусмотренных Кампанией правил и условий использования Сервисов. В целях использования Сервисов как совокупности программ для ЭВМ Компания предоставляет Пользователю (лицензиату) на условиях простой (неисключительной) безвозмездной лицензии право использования бесплатных функциональных (программных) возможностей соответствующего Сервиса. Использование дополнительных платных функциональных (программных) возможностей такого Сервиса предоставляется Mail Пользователю (лицензиату) на условиях простой (неисключительной) лицензии на срок, предусмотренный соответствующими дополнительными платными функциональными (программными) возможностями Сервиса, посредством получения доступа к дополнительным платным функциональным (программным) возможностям Сервиса и его фактического использования в пределах территории, на которой он доступен.
 
-5.2. Пользователь обязуется не использовать Сервисы Mail и иные продукты Компании для:
+5.2. Пользователь обязуется не использовать Сервисы Mail и иные продукты Компании для:
 
 5.2.1. достижения противоправных целей, а в случае установления Mail специальных целей использования Сервисов – для достижения иных целей, которые явно не указаны в настоящем Соглашении или Пользовательских соглашениях отдельных Сервисов;
 
-5.2.2. загрузки, отправки, передачи или любого другого способа опубликования Материалов (в том числе, указывая на место его нахождения путем размещения ссылки), которые являются незаконными, вредоносными, угрожающими, оскорбляющими нравственность, содержащими материалы порнографического характера, клеветническими, нарушающими права несовершеннолетних лиц и/или причиняющими им вред в любой форме, в том числе моральный, ущемляющие права различных меньшинств, которые Пользователь не имеет права делать доступными по закону или согласно каким-либо соглашениям с третьими лицами, в том числе по причине нарушения авторских и иных интеллектуальных права третьих лиц, пропагандирующими ненависть и/или дискриминацию людей по расовому, этническому, половому, социальному признакам, а также нарушающими принятые нормы и этику общения в сети Интернет, либо затрудняющие работу других пользователей с Сервисами Mail; 
+5.2.2. загрузки, отправки, передачи или любого другого способа опубликования Материалов (в том числе, указывая на место его нахождения путем размещения ссылки), которые являются незаконными, вредоносными, угрожающими, оскорбляющими нравственность, содержащими материалы порнографического характера, клеветническими, нарушающими права несовершеннолетних лиц и/или причиняющими им вред в любой форме, в том числе моральный, ущемляющие права различных меньшинств, которые Пользователь не имеет права делать доступными по закону или согласно каким-либо соглашениям с третьими лицами, в том числе по причине нарушения авторских и иных интеллектуальных права третьих лиц, пропагандирующими ненависть и/или дискриминацию людей по расовому, этническому, половому, социальному признакам, а также нарушающими принятые нормы и этику общения в сети Интернет, либо затрудняющие работу других пользователей с Сервисами Mail;
 
-5.2.3. загрузки, отправки, передачи или любого другого способа опубликования не разрешенной специальным образом рекламной информации, в том числе массовых, несанкционированных и/или не ожидаемых получателями, не запрошенных рассылок рекламного характера, включая отправления, с большим количеством повторений по одному почтовому адресу («Спам»), а также неоднократную посылку писем/сообщений одному адресату, не согласованную с ним;
+5.2.3. загрузки, отправки, передачи или любого другого способа опубликования не разрешенной специальным образом рекламной информации, в том числе массовых, несанкционированных и/или не ожидаемых получателями, не запрошенных рассылок рекламного характера, включая отправления, с большим количеством повторений по одному почтовому адресу («Спам»), а также неоднократную посылку писем/сообщений одному адресату, не согласованную с ним;
 
-5.2.4. выдачи себя за другого человека или представителя какой-либо организации и/или сообщества, в том числе за службу поддержки Mail, работников Mail или совершения иных действий, направленных на введение в заблуждение пользователей сети Интернет или других лиц;
+5.2.4. выдачи себя за другого человека или представителя какой-либо организации и/или сообщества, в том числе за службу поддержки Mail, работников Mail или совершения иных действий, направленных на введение в заблуждение пользователей сети Интернет или других лиц;
 
-5.2.5. загрузки, отправки, передачи или любого другого способа опубликования каких-либо Материалов, содержащих вирусы или другие компьютерные коды, файлы или программы, предназначенные для нарушения, уничтожения либо ограничения функциональности любого компьютерного или телекоммуникационного оборудования или программ, для осуществления несанкционированного доступа к компьютерным системам, оборудованию либо данным третьих лиц, а также серийные номера к коммерческим программным продуктам и программы для их генерации, логины, пароли и прочие средства для получения несанкционированного доступа к платным ресурсам в Интернете, а также размещения ссылок на вышеуказанную информацию; Для воспроизведения, копирования, сбора, систематизации, хранения, передачи информации, размещенной на Сервисах Mail, ее использования полностью или в любой части любым способом, в том числе в коммерческих целях, в целях извлечения базы данных из Сервисов Mail, в отсутствие согласия Mail. Запрещено использование автоматизированных скриптов (программ, ботов, краулеров) для сбора информации и (или) взаимодействия с Сервисами Mail без согласия Mail;
+5.2.5. загрузки, отправки, передачи или любого другого способа опубликования каких-либо Материалов, содержащих вирусы или другие компьютерные коды, файлы или программы, предназначенные для нарушения, уничтожения либо ограничения функциональности любого компьютерного или телекоммуникационного оборудования или программ, для осуществления несанкционированного доступа к компьютерным системам, оборудованию либо данным третьих лиц, а также серийные номера к коммерческим программным продуктам и программы для их генерации, логины, пароли и прочие средства для получения несанкционированного доступа к платным ресурсам в Интернете, а также размещения ссылок на вышеуказанную информацию; Для воспроизведения, копирования, сбора, систематизации, хранения, передачи информации, размещенной на Сервисах Mail, ее использования полностью или в любой части любым способом, в том числе в коммерческих целях, в целях извлечения базы данных из Сервисов Mail, в отсутствие согласия Mail. Запрещено использование автоматизированных скриптов (программ, ботов, краулеров) для сбора информации и (или) взаимодействия с Сервисами Mail без согласия Mail;
 
-5.2.6. сбора и хранения персональных данных третьих лиц с нарушением требований применимого законодательства;
+5.2.6. сбора и хранения персональных данных третьих лиц с нарушением требований применимого законодательства;
 
 5.2.7. нарушения нормальной работы Сервисов путем использования pop-up окон («всплывающих» окон);
 
@@ -240,11 +218,11 @@ _s_
 
 6.1. Компания осуществляет текущее управление Сервисами, самостоятельно определяет их структуру, внешний вид, разрешает или ограничивает доступ Пользователей к Сервисам при нарушении такими лицами положений настоящего Соглашения, осуществляет иные принадлежащие ей права.
 
-6.2. Компания вправе без возмещения каких-либо затрат или убытков Пользователю заблокировать/удалить Учетную запись Пользователя и (или) приостановить, ограничить или прекратить доступ Пользователя к любому из Сервисов, и(или) удалить размещенные Пользователем в Сервисах все или некоторые Материалы, в порядке и на условиях, предусмотренных разделом 7 настоящего Соглашения.
+6.2. Компания вправе без возмещения каких-либо затрат или убытков Пользователю заблокировать/удалить Учетную запись Пользователя и (или) приостановить, ограничить или прекратить доступ Пользователя к любому из Сервисов, и(или) удалить размещенные Пользователем в Сервисах все или некоторые Материалы, в порядке и на условиях, предусмотренных разделом 7 настоящего Соглашения.
 
 6.3. Компания вправе:
 
-6.3.1. на условиях, изложенных в настоящем Соглашении или Пользовательских соглашений отдельных Сервисов, предоставить Пользователю доступ к выбранным  Сервисам;
+6.3.1. на условиях, изложенных в настоящем Соглашении или Пользовательских соглашений отдельных Сервисов, предоставить Пользователю доступ к выбранным Сервисам;
 
 6.3.2. делать замечания Пользователям, предупреждать, уведомлять, информировать их о несоблюдении настоящего Соглашения или Пользовательских соглашений отдельных Сервисов. Адресованные Пользователю указания Компании по вопросам использования Сервиса обязательны для исполнения таким Пользователем;
 
@@ -256,114 +234,156 @@ _s_
 
 6.3.6. осуществлять посредством Сервисов Mail и/или сервисов третьих лиц рассылку Пользователям сообщений (e-mail, sms, push-уведомлений и иных видов рассылок) рекламно-информационного содержания, в том числе от партнеров Mail, которым Пользователь выразил согласие на отправку ему сообщений, а также сообщений о введении в действие новых либо отмене старых функций Сервисов. Пользователь вправе отказаться от получения рекламных сообщений в любое время.
 
-Порядок и способ отказа Пользователя от рекламных сообщений: 
+Порядок и способ отказа Пользователя от рекламных сообщений:
 
 * отказ от рекламных сообщений от компании Mail (за исключением рекламных сообщений отдельных Сервисов Mail, которым Пользователь выразил согласие на ее получение) – путем изменения настроек в настоящем пункте.
 
-  Пользователь соглашается получать рекламные сообщения от компании Mail 
+Пользователь соглашается получать рекламные сообщения от компании Mail 
 
 * отказ от рекламных сообщений Сервисов Mail (которым Пользователь предоставил согласие) – порядок и способ такого отказа предусматривается условиями использования соответствующих Сервисов Mail.
 
 6.3.7. Осуществлять прямые контакты с Пользователем с помощью средств связи (по телефону, по электронной почте или иными способами) в целях получения от Пользователя информации/комментариев о возникших проблемах/вопросах при использовании Сервисов Mail или обратной связи о функционировании Сервисов, необходимой для устранения ошибок в работе Сервисов Mail и их дальнейшего развития/совершенствования;
 
-6.3.8. приостанавливать предоставление Сервисов Mail без предварительного уведомления Пользователей в случае необходимости проведения профилактических работ в Сервисах Mail, в случае наступления форс-мажорных обстоятельств, а также аварий или сбоев в программно-аппаратных комплексах третьих лиц, сотрудничающих с Mail, или действий третьих лиц, направленных на приостановку или прекращение функционирования всех или части Сервисов Mail;
+6.3.8. приостанавливать предоставление Сервисов Mail без предварительного уведомления Пользователей в случае необходимости проведения профилактических работ в Сервисах Mail, в случае наступления форс-мажорных обстоятельств, а также аварий или сбоев в программно-аппаратных комплексах третьих лиц, сотрудничающих с Mail, или действий третьих лиц, направленных на приостановку или прекращение функционирования всех или части Сервисов Mail;
 
-6.3.9. запретить Пользователю автоматическое обращение к Cервисам Mail, а также прекратить прием любой информации, сгенерированной автоматически (например, «Спама»);
+6.3.9. запретить Пользователю автоматическое обращение к Cервисам Mail, а также прекратить прием любой информации, сгенерированной автоматически (например, «Спама»);
 
 6.3.10. предпринимать не запрещенные законом меры для защиты собственных прав в отношении Сервисов Mail.
 
-**7. Прекращение действия Учетной записи Пользователя, восстановление доступа к Учетной записи, удаление размещенных Пользователем Материалов**
+**7\. Прекращение действия Учетной записи Пользователя, восстановление доступа к Учетной записи, удаление размещенных Пользователем Материалов**
 
-7.1. Пользователь согласен с тем, что Mail оставляет за собой право заблокировать/удалить Учетную запись Пользователя и (или) приостановить, ограничить или прекратить доступ Пользователя к любому из Сервисов и(или) удалить размещенные Пользователем в Сервисах все или некоторые Материалы, без объяснения причин таких действий и без предварительного уведомления Пользователя, однако Mail приложит все возможные усилия для исключения подобных ситуаций. Приостановление, ограничение или прекращение доступа Пользователя к  Сервису, регистрация в котором необходима для использования других Сервисов, может повлечь за собой невозможность использования последних.
+7.1. Пользователь согласен с тем, что Mail оставляет за собой право заблокировать/удалить Учетную запись Пользователя и (или) приостановить, ограничить или прекратить доступ Пользователя к любому из Сервисов и(или) удалить размещенные Пользователем в Сервисах все или некоторые Материалы, без объяснения причин таких действий и без предварительного уведомления Пользователя, однако Mail приложит все возможные усилия для исключения подобных ситуаций. Приостановление, ограничение или прекращение доступа Пользователя к Сервису, регистрация в котором необходима для использования других Сервисов, может повлечь за собой невозможность использования последних.
 
 7.2. В частности, Mail может реализовать перечисленные в п. 7.1. права по следующим причинам:
 
-7.2.1. если Mail обнаружит в действиях Пользователя признаки нарушения условий настоящего Пользовательского соглашения или Соглашения об использовании отдельного Сервиса;
+7.2.1. если Mail обнаружит в действиях Пользователя признаки нарушения условий настоящего Пользовательского соглашения или Соглашения об использовании отдельного Сервиса;
 
-7.2.2. по соответствующему требованию органов власти и суда, если соблюдены все требования законодательства Российской Федерации;
+7.2.2. по соответствующему требованию органов власти и суда, если соблюдены все требования законодательства Российской Федерации;
 
-7.2.3. не использование Пользователем  Учетной записи для доступа к Сервису продолжительный период времени (который может быть определён в настоящем Пользовательском соглашении или в соглашении об использовании отдельного Сервиса);
+7.2.3. не использование Пользователем Учетной записи для доступа к Сервису продолжительный период времени (который может быть определён в настоящем Пользовательском соглашении или в соглашении об использовании отдельного Сервиса);
 
-7.2.4. в связи с непредвиденными проблемами технического характера или обстоятельствами, связанными с безопасностью;
+7.2.4. в связи с непредвиденными проблемами технического характера или обстоятельствами, связанными с безопасностью;
 
-7.2.5. из-за создания помех и любых нарушений в отношении Сервисов Mail, включая использование любых устройств, программного обеспечения и т.п.
+7.2.5. из-за создания помех и любых нарушений в отношении Сервисов Mail, включая использование любых устройств, программного обеспечения и т.п.
 
 7.3. Прекращение действия Учетной записи Пользователя может привести к:
 
-а) удалению доступа Пользователя к персональной части соответствующего Сервиса Mail; 
+а) удалению доступа Пользователя к персональной части соответствующего Сервиса Mail;
 
 б) удалению Материалов Пользователя, содержащихся в соответствующем Сервисе Mail.
 
-7.4. В ряде Сервисов Пользователю предоставляется право отказаться от использования своей Учетной записи путем ее удаления. В случае удаления Учетной записи по инициативе Пользователя и при наличии такой функциональной возможности, Пользователь вправе в течение установленного соответствующим Сервисов срока самостоятельно восстановить Учетную запись, следуя инструкциям Сервиса, полученным после ввода в форму авторизации необходимых логина и пароля.
+7.4. В ряде Сервисов Пользователю предоставляется право отказаться от использования своей Учетной записи путем ее удаления. В случае удаления Учетной записи по инициативе Пользователя и при наличии такой функциональной возможности, Пользователь вправе в течение установленного соответствующим Сервисов срока самостоятельно восстановить Учетную запись, следуя инструкциям Сервиса, полученным после ввода в форму авторизации необходимых логина и пароля.
 
-7.5. В случае утери Пользователем пароля от Учетной записи, доступ к ней может быть восстановлен только в случае точного, верного и полного предоставления Пользователем информации, указанной при создании Учетной записи, а также при условии предоставления Пользователем корректной информации на дополнительные вопросы службы поддержки Компании, если она необходима для целей восстановления доступа к Учетной записи Пользователя. Если Пользователь пренебрег точным, верным и полным указанием Учетных данных или не смог ответить на дополнительные вопросы службы поддержки, служба поддержки Mail не сможет при обращении восстановить доступ к Учетной записи.
+7.5. В случае утери Пользователем пароля от Учетной записи, доступ к ней может быть восстановлен только в случае точного, верного и полного предоставления Пользователем информации, указанной при создании Учетной записи, а также при условии предоставления Пользователем корректной информации на дополнительные вопросы службы поддержки Компании, если она необходима для целей восстановления доступа к Учетной записи Пользователя. Если Пользователь пренебрег точным, верным и полным указанием Учетных данных или не смог ответить на дополнительные вопросы службы поддержки, служба поддержки Mail не сможет при обращении восстановить доступ к Учетной записи.
 
 7.6. В случае утраты пароля от учётной записи, созданной Пользователем на ресурсе третьего лица, который используется для доступа к Сервисам Компании, такой пароль может быть восстановлен Пользователем исключительно способами, которые предусмотрены ресурсом третьего лица.
 
-**8. Право Mail на объекты интеллектуальной собственности**
+**8\. Право Mail на объекты интеллектуальной собственности**
 
 8.1. Использование Пользователем средств индивидуализации Mail допускается при наличии согласия Mail и при соблюдении Пользователем Руководства по использованию средств индивидуализации и его производных.
 
-8.2. Пользователь признает и соглашается с тем, что Сервисы Mail содержат в себе аудиовизуальные произведения, программы для ЭВМ, товарные знаки и иные объекты интеллектуальной собственности, права на которые принадлежат Mail (и/или контрагентам Mail), которые не могут быть использованы без получения предварительного согласия от Mail
+8.2. Пользователь признает и соглашается с тем, что Сервисы Mail содержат в себе аудиовизуальные произведения, программы для ЭВМ, товарные знаки и иные объекты интеллектуальной собственности, права на которые принадлежат Mail (и/или контрагентам Mail), которые не могут быть использованы без получения предварительного согласия от Mail
 
-8.3. Mail предоставляет Пользователю при условии соблюдения ограничений, установленных в настоящем Соглашении или в Соглашениях отдельных Сервисов, неисключительное и непередаваемое третьим лицам право использовать программное обеспечение по его назначению, предоставляемое в рамках Сервисов Mail,  а также при условии, что ни сам Пользователь, ни любые иные лица при содействии со стороны Пользователя не будут копировать или изменять данное программное обеспечение; создавать программы, производные от программного обеспечения; проникать в программное обеспечение с целью получения кодов программ; осуществлять продажу, уступку, передачу третьим лицам в любой иной форме прав в отношении такого программного обеспечения, а также модифицировать такое программное обеспечение, в том числе с целью получения несанкционированного доступа к нему.
+8.3. Mail предоставляет Пользователю при условии соблюдения ограничений, установленных в настоящем Соглашении или в Соглашениях отдельных Сервисов, неисключительное и непередаваемое третьим лицам право использовать программное обеспечение по его назначению, предоставляемое в рамках Сервисов Mail, а также при условии, что ни сам Пользователь, ни любые иные лица при содействии со стороны Пользователя не будут копировать или изменять данное программное обеспечение; создавать программы, производные от программного обеспечения; проникать в программное обеспечение с целью получения кодов программ; осуществлять продажу, уступку, передачу третьим лицам в любой иной форме прав в отношении такого программного обеспечения, а также модифицировать такое программное обеспечение, в том числе с целью получения несанкционированного доступа к нему.
 
-**9. Ответственность Mail**
+**9\. Ответственность Mail**
 
-Пользователь понимает и соглашается с тем, что:
+Пользователь понимает и соглашается с тем, что:
 
-9.1. Все Сервисы Mail предоставляются «как есть», если иное прямо не предусмотрено настоящим Соглашением и/или Соглашениями отдельных Сервисов. Mail не гарантирует, что Сервисы , а также результаты использования Сервисов будут соответствовать целям, ожиданиям и требованиям Пользователя; Mail не гарантирует, что Сервисы будут предоставляться непрерывно, быстро, надежно и без ошибок; результаты, которые могут быть получены Пользователем, будут точными и надежными; качество Сервисов, а также результаты использования Сервисов, в том числе информация, будут соответствовать ожиданиям Пользователя, и что все ошибки в программах будут исправлены;
+9.1. Все Сервисы Mail предоставляются «как есть», если иное прямо не предусмотрено настоящим Соглашением и/или Соглашениями отдельных Сервисов. Mail не гарантирует, что Сервисы , а также результаты использования Сервисов будут соответствовать целям, ожиданиям и требованиям Пользователя; Mail не гарантирует, что Сервисы будут предоставляться непрерывно, быстро, надежно и без ошибок; результаты, которые могут быть получены Пользователем, будут точными и надежными; качество Сервисов, а также результаты использования Сервисов, в том числе информация, будут соответствовать ожиданиям Пользователя, и что все ошибки в программах будут исправлены;
 
-9.2. Mail не принимает на себя никакой ответственности за задержку, удаление, недоставку или невозможность загрузить любые данные Пользователя, в том числе настройки Пользователя;
+9.2. Mail не принимает на себя никакой ответственности за задержку, удаление, недоставку или невозможность загрузить любые данные Пользователя, в том числе настройки Пользователя;
 
-9.3. Любые материалы (объекты интеллектуальной собственности), полученные Пользователем с использованием Сервисов Mail Пользователь может использовать на свой собственный страх и риск, при этом на Пользователя возлагается ответственность за любой ущерб, который может быть нанесен компьютеру Пользователя и данным Пользователя в результате загрузки этих материалов;
+9.3. Любые материалы (объекты интеллектуальной собственности), полученные Пользователем с использованием Сервисов Mail Пользователь может использовать на свой собственный страх и риск, при этом на Пользователя возлагается ответственность за любой ущерб, который может быть нанесен компьютеру Пользователя и данным Пользователя в результате загрузки этих материалов;
 
-9.4. Mail не несет ответственности за любые прямые либо косвенные убытки, произошедшие из-за использования либо невозможности использования Сервисов Mail, из-за несанкционированного доступа к Учетной записи Пользователя; из-за мошеннической деятельности третьих лиц.
+9.4. Mail не несет ответственности за любые прямые либо косвенные убытки, произошедшие из-за использования либо невозможности использования Сервисов Mail, из-за несанкционированного доступа к Учетной записи Пользователя; из-за мошеннической деятельности третьих лиц.
 
-**10. Конфиденциальность Mail**
+**10\. Конфиденциальность Mail**
 
-10.1. Mail может использовать технологии аутентификация Пользователей, в том числе с использованием файлов cookies, а также использовать указанные технологии в маркетинговых целях для изучения предпочтений Пользователей. При этом такая идентификация носит неперсонифицированный и обобщенный характер, Mail не отслеживает действий отдельных Пользователей и не осуществляет передачу сведений о них.
+10.1. Mail может использовать технологии аутентификация Пользователей, в том числе с использованием файлов cookies, а также использовать указанные технологии в маркетинговых целях для изучения предпочтений Пользователей. При этом такая идентификация носит неперсонифицированный и обобщенный характер, Mail не отслеживает действий отдельных Пользователей и не осуществляет передачу сведений о них.
 
-10.2. В пределах функционирования Сервисов Mail и с соблюдением применимого законодательства обеспечивается тайна сообщений и соблюдается конфиденциальность информации о Пользователях Mail, за исключением случаев, предусмотренных законодательством Российской Федерации.
+10.2. В пределах функционирования Сервисов Mail и с соблюдением применимого законодательства обеспечивается тайна сообщений и соблюдается конфиденциальность информации о Пользователях Mail, за исключением случаев, предусмотренных законодательством Российской Федерации.
 
-10.3. Пользователь согласен, что если Сервис позволяет отправлять сообщения, то исходящие и входящие сообщения Пользователя, или загружаемые Материалы  проходят определенную автоматическую обработку программами Mail для полноценной передачи, приема и хранения сообщений/Материалов. В обязательную автоматическую обработку Почты входит необходимый комплекс мер по выявлению вредоносных кодов в передаваемой информации, а также по возможности их блокировка или удаление (в зависимости от сложности данного кода и программного обеспечения Сервисов Mail). Эти меры принимаются исключительно для защиты персональных компьютеров Пользователей, а также для того, чтобы снизить нагрузку на оборудование Mail.
+10.3. Пользователь согласен, что если Сервис позволяет отправлять сообщения, то исходящие и входящие сообщения Пользователя, или загружаемые Материалы проходят определенную автоматическую обработку программами Mail для полноценной передачи, приема и хранения сообщений/Материалов. В обязательную автоматическую обработку Почты входит необходимый комплекс мер по выявлению вредоносных кодов в передаваемой информации, а также по возможности их блокировка или удаление (в зависимости от сложности данного кода и программного обеспечения Сервисов Mail). Эти меры принимаются исключительно для защиты персональных компьютеров Пользователей, а также для того, чтобы снизить нагрузку на оборудование Mail.
 
-**11. Обратная связь и порядок рассмотрения претензий**
+**11\. Обратная связь и порядок рассмотрения претензий**
 
-11.1. Пользователь, считающий, что его права и интересы нарушены из-за действий Mail, может направить соответствующее обращение. Рассмотрением обращений занимается Служба поддержки Пользователей Mail в соответствии с общим порядком рассмотрения поступающих запросов.
+11.1. Пользователь, считающий, что его права и интересы нарушены из-за действий Mail, может направить соответствующее обращение. Рассмотрением обращений занимается Служба поддержки Пользователей Mail в соответствии с общим порядком рассмотрения поступающих запросов.
 
-11.2. Все обращения, в том числе относительно работы Сервисов Mail, Пользователь может направить в Службу поддержки пользователей [https://help.mail.ru](https://help.mail.ru/).
+11.2. Все обращения, в том числе относительно работы Сервисов Mail, Пользователь может направить в Службу поддержки пользователей [https://help.mail.ru](https://help.mail.ru/).
 
-11.3. Пользователь и Mail соглашаются с тем, что все возможные споры по поводу Пользовательского соглашения будут разрешаться в соответствии с правилами настоящего Пользовательского соглашения и с нормами действующего законодательства Российской Федерации.
+11.3. Пользователь и Mail соглашаются с тем, что все возможные споры по поводу Пользовательского соглашения будут разрешаться в соответствии с правилами настоящего Пользовательского соглашения и с нормами действующего законодательства Российской Федерации.
 
-**12\. Изменения и дополнения настоящего Соглашения**
+**12\. Изменения и дополнения настоящего Соглашения**
 
 12.1. Настоящее Соглашение и Соглашения отдельных Сервисов могут быть изменены Mail с уведомлением Пользователя посредством размещения новой редакции изменяемого соглашения на Сайте. Внесенные Mail изменения в Соглашение , вступают в силу в день, следующий за днем опубликования таких изменений на Сайте. Пользователь обязуется самостоятельно проверять настоящее Соглашение и Соглашения отдельных Сервисов на предмет внесенных изменений. Неосуществление Пользователем действий по ознакомлению не может служить основанием для неисполнения Пользователем своих обязательств и несоблюдения Пользователем ограничений, установленных настоящим Соглашением и Соглашениями отдельных Сервисов.
 
-12.2. Пользователь вправе отказаться от принятия изменений и дополнений в настоящее  Соглашение и/или Соглашения отдельных Сервисов, что означает отказ Пользователя от использования всех и/или отдельных Сервисов Mail и всех предоставленных ему ранее прав.
+12.2. Пользователь вправе отказаться от принятия изменений и дополнений в настоящее Соглашение и/или Соглашения отдельных Сервисов, что означает отказ Пользователя от использования всех и/или отдельных Сервисов Mail и всех предоставленных ему ранее прав.
 
-**13. Заключительные положения**
+**13\. Заключительные положения**
 
-13.1. Ничто в  настоящем Соглашении не может пониматься как установление между Пользователем и Mail агентских отношений, отношений товарищества, отношений по совместной деятельности, отношений личного найма, либо каких-то иных отношений, прямо не предусмотренных ПС.
+13.1. Ничто в настоящем Соглашении не может пониматься как установление между Пользователем и Mail агентских отношений, отношений товарищества, отношений по совместной деятельности, отношений личного найма, либо каких-то иных отношений, прямо не предусмотренных ПС.
 
-13.2. Признание судом какого-либо положения ПС недействительным, или не подлежащим принудительному исполнению, не влечет недействительности или неисполнимости иных положений ПС.
+13.2. Признание судом какого-либо положения ПС недействительным, или не подлежащим принудительному исполнению, не влечет недействительности или неисполнимости иных положений ПС.
 
-13.3. Бездействие со стороны Mail, в случае нарушения Пользователем, либо иными третьими лицами, положений ПС не лишает Mail права предпринять соответствующие действия в защиту своих интересов позднее.
+13.3. Бездействие со стороны Mail, в случае нарушения Пользователем, либо иными третьими лицами, положений ПС не лишает Mail права предпринять соответствующие действия в защиту своих интересов позднее.
 
 Настоящее Соглашение регулируется и толкуется в соответствии с законодательством Российской Федерации. Вопросы, не урегулированные настоящим Соглашением, подлежат разрешению в соответствии с законодательством Российской Федерации.
 
-13.4. Все споры сторон по настоящему Соглашению подлежат разрешению путем переписки и переговоров с использованием обязательного досудебного (претензионного) порядка. В случае невозможности достичь согласия между сторонами путем переговоров в течение 60 (шестидесяти) календарных дней с момента получения другой Стороной письменной претензии, рассмотрение спора должно быть передано любой заинтересованной стороной в суд по месту нахождения Mail (с исключением подсудности дела любым иным судам). 
+13.4. Все споры сторон по настоящему Соглашению подлежат разрешению путем переписки и переговоров с использованием обязательного досудебного (претензионного) порядка. В случае невозможности достичь согласия между сторонами путем переговоров в течение 60 (шестидесяти) календарных дней с момента получения другой Стороной письменной претензии, рассмотрение спора должно быть передано любой заинтересованной стороной в суд по месту нахождения Mail (с исключением подсудности дела любым иным судам).
 
-Редакция от 2.12.2024
+Редакция от 27.08.2024
 
-Обновлено 2 декабря 2024 г.
+Служба поддержки Mail
 
-|     |     |
-| --- | --- |
-| [Mail](https://r.mail.ru/n154506914?sz=36&rnd=2272533714)[О компании](https://r.mail.ru/n382470674?sz=36&rnd=2272533714)[Реклама](https://r.mail.ru/n309433544?sz=36&rnd=2272533714)[Вакансии](https://r.mail.ru/n382470675?sz=36&rnd=2272533714) |     |
+![Помощь Mail](https://hmr.mrgcdn.ru/cdn/img/og-sharing.png)
 
-            
+[Предыдущая статья
 
-![Top.Mail.Ru](https://top-fwz1.mail.ru/counter?id=1300870;js=na)
+Общие условия](https://help.mail.ru/legal/terms/common/)
 
-![](https://mc.yandex.ru/watch/92805550)
+[Следующая статья
+
+Политика конфиденциальности сервисов Mail](https://help.mail.ru/legal/terms/common/privacy/)
+
+Помощь по другим проектам
+-------------------------
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/mail.svg) Почта](https://help.mail.ru/mail/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/app.svg) Почта на Android](https://help.mail.ru/app_android/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/app.svg) Почта на iOS](https://help.mail.ru/app_ios/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/cloud-web.svg) Облако](https://help.mail.ru/cloud_web/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/disko.svg) Диск-О:](https://help.mail.ru/disko/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/mail.svg) Главная Mail](https://help.mail.ru/main/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/calendar.svg) Календарь](https://help.mail.ru/calendar-help/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/doc.svg) Документы](https://help.mail.ru/doc/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/todo.svg) Задачи](https://help.mail.ru/todo/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/notes.svg) Заметки](https://help.mail.ru/notes/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/vkmail.svg) VK Почта](https://help.mail.ru/vkmail/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/developers.svg) Для разработчиков](https://help.mail.ru/developers/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/otvety.svg) Ответы](https://help.mail.ru/otvety-help/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/my-help.svg) Мой Мир](https://help.mail.ru/my-help/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/vk-work-space.png) VK WorkSpace](https://biz.mail.ru/?utm_source=click_help&utm_medium=vk_wokspace&utm_campaign=footer&mt_link_id=th55u8)
+
+![icon](https://hmr.mrgcdn.ru/cdn/img/logo-mail-bottom.svg)
+
+* [Mail](https://r.mail.ru/n154506914?sz=36&rnd=230917203)
+* [О компании](https://r.mail.ru/n382470674?sz=36&rnd=206484244)
+* [Реклама](https://r.mail.ru/n309433544?sz=36&rnd=230917203)
+* [Вакансии](https://r.mail.ru/n382470675?sz=36&rnd=206484244)
+* [Юридические документы](https://help.mail.ru/legal/terms/mail)
+* [Сообщить об уязвимости](https://bb.standoff365.com/vendors/vk)
