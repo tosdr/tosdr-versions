@@ -92,9 +92,9 @@ Most Read
     
 3. 3. [Back where it started: “Do Not Track” removed from Firefox after 13 years](https://arstechnica.com/gadgets/2024/12/firefox-one-of-the-first-do-not-track-supporters-no-longer-offers-it/)
     
-4. 4. [YouTube TV raisies prices $10 per month in 2025, citing content costs, quality](https://arstechnica.com/gadgets/2024/12/youtube-tv-raisies-prices-10-per-month-in-2025-citing-content-costs-quality/)
+4. 4. [YouTube TV is hiking prices again after denying “erroneous” report days ago](https://arstechnica.com/gadgets/2024/12/youtube-tv-raisies-prices-10-per-month-in-2025-citing-content-costs-quality/)
     
-5. 5. [Photobucket opted inactive users into privacy nightmare, lawsuit says](https://arstechnica.com/tech-policy/2024/12/photobucket-sold-users-biometric-data-without-consent-lawsuit-says/)
+5. 5. [The optical disc onslaught continues, with LG quitting Blu-ray players](https://arstechnica.com/gadgets/2024/12/the-optical-disc-onslaught-continues-with-lg-quitting-blu-ray-players/)
     
 
 Customize
