@@ -56,7 +56,19 @@
     
     By Rose McMackin [Read More](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
     
-* *  [![Close-up of Emma Watson smiling at 2022 Paris Fashion Week](https://www.women.com/img/gallery/the-best-books-from-emma-watsons-book-club-our-shared-shelf/intro-1733425939.jpg)](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
+* *  [![A woman with winged eyeliner and pink lipstick](https://www.women.com/img/gallery/outdated-beauty-trends-to-leave-in-2024/intro-1733768782.jpg)](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
+        
+        ### [Outdated Beauty Trends To Leave In 2024](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+        
+        As new trends take hold in the new year, some of the most popular 2024 beauty looks are being left behind, including matte makeup and hydro hair.
+        
+        By Bernadette Roe [Read More](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+        
+    *  [![Close-up of Emma Watson smiling at 2022 Paris Fashion Week](https://www.women.com/img/gallery/the-best-books-from-emma-watsons-book-club-our-shared-shelf/intro-1733425939.jpg)](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
         
         [Living](https://www.women.com/category/living/)
         
@@ -68,22 +80,22 @@
         
         By Madison Emily Whisenand [Read More](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
         
-    *  [![Sydney Sweeney and Jonathan Davino at an event](https://www.women.com/img/gallery/red-flags-in-sydney-sweeney-and-jonathan-davinos-relationship/intro-1733863099.jpg)](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
-        
-        [Relationships](https://www.women.com/category/relationships/)
-        
-        [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
-        
-        ### [Red Flags In Sydney Sweeney And Jonathan Davino's Relationship](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
-        
-        Sydney Sweeney kept quiet for much of her relationship with Jonathan Davino. But once they got engaged, the relationship took on a public persona of its own.
-        
-        By Bernadette Roe [Read More](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
-        
 
 More Stories
 ------------
 
+*  [![Sydney Sweeney and Jonathan Davino at an event](https://www.women.com/img/gallery/red-flags-in-sydney-sweeney-and-jonathan-davinos-relationship/intro-1733863099.jpg)](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
+    
+    ### [Red Flags In Sydney Sweeney And Jonathan Davino's Relationship](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
+    
+    Sydney Sweeney kept quiet for much of her relationship with Jonathan Davino. But once they got engaged, the relationship took on a public persona of its own.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
+    
 *  [![Pamela Anderson posing](https://www.women.com/img/gallery/pamela-anderson-is-still-gorgeous-going-makeup-free/intro-1733343581.jpg)](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -395,18 +407,6 @@ More Stories
     J.Lo has done a lot of internal work since her split. And that newfound happiness and bold independence has been reflected in the star's wardrobe.
     
     By Emily Hutchinson [Read More](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
-    
-*  [![Woman laying down getting lip injections](https://www.women.com/img/gallery/can-you-lay-down-after-getting-botox/intro-1732041593.jpg)](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
-    
-    ### [Can You Lay Down After Getting Botox?](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
-    
-    As beneficial as Botox can be for many people, it's not free of downsides, migration being one of them. But don't let social media scare you.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1717335/can-lay-down-after-botox-explained/)
     
 
 Back
