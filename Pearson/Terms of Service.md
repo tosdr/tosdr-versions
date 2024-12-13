@@ -64,6 +64,7 @@ United States
         
         * [AP®, Honors & Electives](https://www.pearson.com/en-us/schools/college-readiness-career-education/ap-honors-electives.html)
         * [Career & Technical Education](https://www.pearson.com/en-us/schools/college-readiness-career-education/career-technical-education.html)
+        * [CertPREP IT](https://www.pearson.com/en-us/schools/college-readiness-career-education/career-technical-education/certprep-it.html)
         * [Dual Enrollment](https://www.pearson.com/en-us/schools/college-readiness-career-education/dual-enrollment.html)
         * [Digital Platforms](https://www.pearson.com/en-us/schools/college-readiness-career-education/platforms-overview.html)
         
