@@ -36,6 +36,26 @@ FOX SCORES
     | IND | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250503)
+* [Men's ODI
+    
+    WI won by 4 wkts
+    
+    |     |     |
+    | --- | --- |
+    | WI  | 6 /325 |
+    | BAN | 5 /321 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI2024-250903)
+* [Men's T20I
+    
+    14/12 3:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | RSA | –   |
+    | PAK | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-251102)
 * [Big Bash League
     
     15/12 19:15 AEST
@@ -50,66 +70,46 @@ FOX SCORES
     
 * [NFL
     
-    13/12 12:15 AEST
+    1st Qtr
     
     |     |     |
     | --- | --- |
-    | SF  | –   |
-    | LAR | –   |
+    | SF  | 3   |
+    | LAR | 0   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251501)
 * Basketball
     
 * [NBA
     
-    Full Time
+    Half Time
     
     |     |     |
     | --- | --- |
-    | HOU | 91  |
-    | GS  | 90  |
+    | MIA | 58  |
+    | TOR | 51  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010123/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010295/box-score)
 * [NBA
     
-    13/12 11:30 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | MIA | –   |
-    | TOR | –   |
+    | BOS | 59  |
+    | DET | 44  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010295)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010024/box-score)
 * [NBA
     
-    13/12 11:30 AEST
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | BOS | –   |
-    | DET | –   |
+    | NO  | 38  |
+    | SAC | 34  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010024)
-* [NBA
-    
-    13/12 12:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | NO  | –   |
-    | SAC | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011209)
-* [NBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NZB | 76  |
-    | TAS | 100 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25120001/play-by-play)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011209/box-score)
 * [NBL
     
     Full Time
@@ -896,7 +896,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
