@@ -1,15 +1,15 @@
-Thursday, December 12 2024
+Friday, December 13 2024
 
 Breaking News
 
-* [Translunacy](https://www.conservativedailynews.com/2024/12/translunacy/)
-* [White House Press Briefing with Karine Jean-Pierre – 12/12/24](https://www.conservativedailynews.com/2024/12/white-house-press-briefing-with-karine-jean-pierre-12-12-24/)
-* [Joe, Please Do No (more) Harm To America On Your Way Out](https://www.conservativedailynews.com/2024/12/joe-please-do-no-more-harm-to-america-on-your-way-out/)
-* [Manchin, Sinema Help Tank Pro-Union Biden Labor Board Nominee On Their Way Out The Door](https://www.conservativedailynews.com/2024/12/manchin-sinema-help-tank-pro-union-biden-labor-board-nominee-on-their-way-out-the-door/)
-* [Job One For Doug Burgum](https://www.conservativedailynews.com/2024/12/job-one-for-doug-burgum/)
-* [DOJ Misled Courts In Applications To Abet Snooping On Lawmakers, Staffers As Russiagate Played Out](https://www.conservativedailynews.com/2024/12/doj-misled-courts-in-applications-to-abet-snooping-on-lawmakers-staffers-as-russiagate-played-out/)
-* [Ukraine Sent Drone Operators And Drones To U.S. Designated Terrorist Group](https://www.conservativedailynews.com/2024/12/ukraine-sent-drone-operators-and-drones-to-u-s-designated-terrorist-group/)
-* [President Joe Biden’s Schedule for Thursday, December 12, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-thursday-december-12-2024/)
+* [Court Deals Blow To Major Stock Exchange’s Efforts At Pushing Diversity Rules On Companies](https://www.conservativedailynews.com/2024/12/court-deals-blow-to-major-stock-exchanges-efforts-at-pushing-diversity-rules-on-companies/)
+* [Whoopi Goldberg Says RFK Jr Is Fat Shaming People By Encouraging Healthy Diets And Exercise](https://www.conservativedailynews.com/2024/12/whoopi-goldberg-says-rfk-jr-is-fat-shaming-people-by-encouraging-healthy-diets-and-exercise/)
+* [Mexico Already Feeling The Pinch Of Trump’s Tariff Threats](https://www.conservativedailynews.com/2024/12/mexico-already-feeling-the-pinch-of-trumps-tariff-threats/)
+* [Pam Bondi Will Stop The Lawfare](https://www.conservativedailynews.com/2024/12/pam-bondi-will-stop-the-lawfare/)
+* [After All, They Are Only Drones, As They Were Only Balloons](https://www.conservativedailynews.com/2024/12/after-all-they-are-only-drones-as-they-were-only-balloons/)
+* [Joni Ernst Introduces Bill To Ship A Chunk Of One Agency’s Employees Out Of DC](https://www.conservativedailynews.com/2024/12/joni-ernst-introduces-bill-to-ship-a-chunk-of-one-agencys-employees-out-of-dc/)
+* [President Joe Biden’s Schedule for Friday, December 13, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-friday-december-13-2024/)
+* [BYE! Dem Rep Says ‘Thousands’ Of Federal Employees Are So Shaken By Trump Election They Might Quit](https://www.conservativedailynews.com/2024/12/bye-dem-rep-says-thousands-of-federal-employees-are-so-shaken-by-trump-election-they-might-quit/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,65 +130,67 @@ Orange = One-Time Donations
 
 Recent Posts
 
-* [![gender surgery pediaquack](https://www.conservativedailynews.com/wp-content/uploads/2023/06/mrz061323dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/translunacy/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/12/court-deals-blow-to-major-stock-exchanges-efforts-at-pushing-diversity-rules-on-companies/)
     
-    [Translunacy](https://www.conservativedailynews.com/2024/12/translunacy/)
+    [Court Deals Blow To Major Stock Exchange’s Efforts At Pushing Diversity Rules On Companies](https://www.conservativedailynews.com/2024/12/court-deals-blow-to-major-stock-exchanges-efforts-at-pushing-diversity-rules-on-companies/)
     
-    December 12, 2024
+    December 13, 2024
     
-* [White House Press Briefing with Karine Jean-Pierre – 12/12/24](https://www.conservativedailynews.com/2024/12/white-house-press-briefing-with-karine-jean-pierre-12-12-24/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental-1-220x150.jpg)](https://www.conservativedailynews.com/2024/12/whoopi-goldberg-says-rfk-jr-is-fat-shaming-people-by-encouraging-healthy-diets-and-exercise/)
     
-    December 12, 2024
+    [Whoopi Goldberg Says RFK Jr Is Fat Shaming People By Encouraging Healthy Diets And Exercise](https://www.conservativedailynews.com/2024/12/whoopi-goldberg-says-rfk-jr-is-fat-shaming-people-by-encouraging-healthy-diets-and-exercise/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5908-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/joe-please-do-no-more-harm-to-america-on-your-way-out/)
+    December 13, 2024
     
-    [Joe, Please Do No (more) Harm To America On Your Way Out](https://www.conservativedailynews.com/2024/12/joe-please-do-no-more-harm-to-america-on-your-way-out/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/Donald-Trump-success-pic-220x150.png)](https://www.conservativedailynews.com/2024/12/mexico-already-feeling-the-pinch-of-trumps-tariff-threats/)
     
-    December 12, 2024
+    [Mexico Already Feeling The Pinch Of Trump’s Tariff Threats](https://www.conservativedailynews.com/2024/12/mexico-already-feeling-the-pinch-of-trumps-tariff-threats/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/02-stopww3-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/a-f-branco-cartoon-trouble-shooter/)
+    December 13, 2024
     
-    [Trouble Shooter](https://www.conservativedailynews.com/2024/12/a-f-branco-cartoon-trouble-shooter/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/Pam-Bondi-220x150.jpg)](https://www.conservativedailynews.com/2024/12/pam-bondi-will-stop-the-lawfare/)
     
-    December 12, 2024
+    [Pam Bondi Will Stop The Lawfare](https://www.conservativedailynews.com/2024/12/pam-bondi-will-stop-the-lawfare/)
     
-* [![Daniel Penny](https://www.conservativedailynews.com/wp-content/uploads/2024/12/mrz121224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/a-penny-saved/)
+    December 13, 2024
     
-    [A Penny Saved…](https://www.conservativedailynews.com/2024/12/a-penny-saved/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg121324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/crowded-skies/)
     
-    December 12, 2024
+    [Crowded Skies](https://www.conservativedailynews.com/2024/12/crowded-skies/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/12/universal-health-care-delusions/)
+    December 13, 2024
     
-    [Universal Health Care Delusions](https://www.conservativedailynews.com/2024/12/universal-health-care-delusions/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/12/its-time-for-a-national-conversation-about-left-wing-violence/)
     
-    December 12, 2024
+    [It’s Time For a National Conversation About Left-Wing Violence](https://www.conservativedailynews.com/2024/12/its-time-for-a-national-conversation-about-left-wing-violence/)
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/08/Couch-Furniture-Chair-Living-Room-220x150.png)](https://www.conservativedailynews.com/2024/12/the-high-cost-of-sitting-down-2/)
+    December 13, 2024
     
-    [The High Cost of Sitting Down](https://www.conservativedailynews.com/2024/12/the-high-cost-of-sitting-down-2/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5910-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/after-all-they-are-only-drones-as-they-were-only-balloons/)
     
-    December 12, 2024
+    [After All, They Are Only Drones, As They Were Only Balloons](https://www.conservativedailynews.com/2024/12/after-all-they-are-only-drones-as-they-were-only-balloons/)
     
-* [![Joe Biden not sure signing considering confused sad upset](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-not-sure-signing-considering-confused-220x150.png)](https://www.conservativedailynews.com/2024/12/manchin-sinema-help-tank-pro-union-biden-labor-board-nominee-on-their-way-out-the-door/)
+    December 13, 2024
     
-    [Manchin, Sinema Help Tank Pro-Union Biden Labor Board Nominee On Their Way Out The Door](https://www.conservativedailynews.com/2024/12/manchin-sinema-help-tank-pro-union-biden-labor-board-nominee-on-their-way-out-the-door/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/U.S.-Senate-220x150.jfif)](https://www.conservativedailynews.com/2024/12/joni-ernst-introduces-bill-to-ship-a-chunk-of-one-agencys-employees-out-of-dc/)
     
-    December 12, 2024
+    [Joni Ernst Introduces Bill To Ship A Chunk Of One Agency’s Employees Out Of DC](https://www.conservativedailynews.com/2024/12/joni-ernst-introduces-bill-to-ship-a-chunk-of-one-agencys-employees-out-of-dc/)
+    
+    December 13, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
-* [Recent Ballistic Analysis Places Officer On No Gun Status After Bystander Shooting](https://www.thegunpage.com/recent-ballistic-analysis-places-officer-on-no-gun-status-after-bystander-shooting/10612455)
-* [Academy Sports Recalls Redfield 12-Gun and 18-Gun Fireproof Safes](https://www.thegunpage.com/academy-sports-recalls-redfield-12-gun-and-18-gun-fireproof-safes/10612453)
-* [A Survival Guide For USPSA Range Officers](https://www.thegunpage.com/a-survival-guide-for-uspsa-range-officers/10612452)
-* [TFB Review: Vectronix Vector X – Premium Laser Rangefinder Binocular](https://www.thegunpage.com/tfb-review-vectronix-vector-x-premium-laser-rangefinder-binocular/10612449)
-* [POTD: Tanfoglio Gold Custom Eric – Shooting Open .38 Super Comp](https://www.thegunpage.com/potd-tanfoglio-gold-custom-eric-shooting-open-38-super-comp/10612450)
-* [Wheelgun Wednesday: A WWI Bayonet For British Revolvers](https://www.thegunpage.com/wheelgun-wednesday-a-wwi-bayonet-for-british-revolvers/10612451)
-* [PA: Year in Review](https://www.thegunpage.com/pa-year-in-review/10612447)
-* [FAB Defense Grips, Stocks and Mags](https://www.thegunpage.com/fab-defense-grips-stocks-and-mags/10612443)
-* [Ruger & Magpul are Making a Glock Clone? The Ruger RXM](https://www.thegunpage.com/ruger-magpul-are-making-a-glock-clone-the-ruger-rxm/10612445)
-* [Illegal Chinese National Arrested In California Shipping Weapons And Devices To North Korea](https://www.thegunpage.com/illegal-chinese-national-arrested-in-california-shipping-weapons-and-devices-to-north-korea/10612441)
+* [We Can’t Stop Crime, So We’ll Go After Glock: New Jersey, Minnesota AGs Sue Manufacturer](https://www.thegunpage.com/we-cant-stop-crime-so-well-go-after-glock-new-jersey-minnesota-ags-sue-manufacturer/10612485)
+* [SIG SAUER Special Weapons Group P320978](https://www.thegunpage.com/sig-sauer-special-weapons-group-p320978/10612486)
+* [Everytown’s New NRA ‘Exposé’ Only Exposes Its Own Poor Journalism Skills](https://www.thegunpage.com/everytowns-new-nra-expose-only-exposes-its-own-poor-journalism-skills/10612478)
+* [Swedish Army Buys 15,000 M4A1 Carbines](https://www.thegunpage.com/swedish-army-buys-15000-m4a1-carbines/10612487)
+* [Florida Lawmakers Push to Roll Back Post-Parkland Gun Restrictions](https://www.thegunpage.com/florida-lawmakers-push-to-roll-back-post-parkland-gun-restrictions/10612474)
+* [What’s In Your Range Bag, Madison Champion?](https://www.thegunpage.com/whats-in-your-range-bag-madison-champion/10612473)
+* [TFB Review: Smith & Wesson Model 350 – A Different Kind of X-Frame](https://www.thegunpage.com/tfb-review-smith-wesson-model-350-a-different-kind-of-x-frame/10612471)
+* [POTD: French FAMAS – U.S. Forces In CQB](https://www.thegunpage.com/potd-french-famas-u-s-forces-in-cqb/10612472)
+* [Concealed Carry Corner: Uncomfortable Truth About Carrying](https://www.thegunpage.com/concealed-carry-corner-uncomfortable-truth-about-carrying/10612470)
+* [Is Gallup Conducting Surveys or Publishing Gun Fiction?](https://www.thegunpage.com/is-gallup-conducting-surveys-or-publishing-gun-fiction/10612467)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -230,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Singleshot on [Joni Ernst Introduces Bill To Ship A Chunk Of One Agency’s Employees Out Of DC](https://www.conservativedailynews.com/2024/12/joni-ernst-introduces-bill-to-ship-a-chunk-of-one-agencys-employees-out-of-dc/#comment-783722)
 * charles wilkins on [Hunter Biden’s Pardon Really Rubbed America The Wrong Way, Poll Shows](https://www.conservativedailynews.com/2024/12/hunter-bidens-pardon-really-rubbed-america-the-wrong-way-poll-shows/#comment-783704)
 * KayCee on [Bad Gifts](https://www.conservativedailynews.com/2024/12/bad-gifts-2/#comment-783697)
 * KayCee on [Hunter Biden’s Pardon Really Rubbed America The Wrong Way, Poll Shows](https://www.conservativedailynews.com/2024/12/hunter-bidens-pardon-really-rubbed-america-the-wrong-way-poll-shows/#comment-783696)
@@ -238,7 +241,6 @@ Recent Comments
 * KayCee on [People In North Carolina Are living In Tents While Biden Pledges Billions To Africa](https://www.conservativedailynews.com/2024/12/people-in-north-carolina-are-living-in-tents-while-biden-pledges-billions-to-africa/#comment-783653)
 * KayCee on [BLM Leader Calls For ‘Black Vigilantes’ To Descend On Cities Following Daniel Penny Acquittal](https://www.conservativedailynews.com/2024/12/blm-leader-calls-for-black-vigilantes-to-descend-on-cities-following-daniel-penny-acquittal/#comment-783652)
 * JSSWS on [He’s A Different Man, At Peace With His Mission](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/#comment-783601)
-* Stanley Warner on [The Biden Crime Family Is Above the Law](https://www.conservativedailynews.com/2024/12/the-biden-crime-family-is-above-the-law/#comment-783585)
 
 [Close](#)
 
