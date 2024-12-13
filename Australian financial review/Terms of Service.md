@@ -297,7 +297,6 @@ Advertise
 
 ### [The royal who loves coming to Australia each summer](https://www.afr.com/life-and-luxury/travel/the-royal-who-loves-coming-to-australia-each-summer-20241003-p5kfrc)
 
-* 50 mins ago
 * Jane Knight
 
 * ### [The retail boss who is obsessed with Christmas](https://www.afr.com/life-and-luxury/fashion-and-style/the-retail-boss-who-is-obsessed-with-christmas-20241023-p5kkll)
@@ -312,7 +311,6 @@ Advertise
 
 ### [Drumstick Awards: The five biggest corporate stuff-ups of 2024](https://www.afr.com/work-and-careers/leaders/drumstick-awards-the-five-biggest-corporate-stuff-ups-of-2024-20241209-p5kx0s)
 
-* 55 mins ago
 * James Thomson
 
 * ### [How accountants will help save the planet](https://www.afr.com/work-and-careers/careers/how-accountants-will-help-save-the-planet-20241209-p5kww2)
@@ -327,7 +325,6 @@ Advertise
 
 ### [Should men wear shorts out at night?](https://www.afr.com/life-and-luxury/fashion-and-style/should-men-wear-shorts-out-at-night-20241209-p5kwtu)
 
-* 55 mins ago
 * Lauren Sams
 
 * ### [These award-winning restaurants and bars are designed to take you away](https://www.afr.com/life-and-luxury/design/these-award-winning-restaurants-and-bars-are-designed-to-take-you-away-20241205-p5kw2v)
