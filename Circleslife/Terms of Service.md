@@ -249,6 +249,10 @@ Circles Care Terms of Use](https://pages.circles.life/sg/terms-conditions/circle
 
 Refurbished Devices T&C](https://pages.circles.life/sg/terms-conditions/refurbished-devices/)
 
+[![icon](/sg/assets/terms-conditions/data-policy.svg)
+
+SecureMe T&C](https://pages.circles.life/sg/terms-conditions/secureme/)
+
 Terms and Conditions for Promotional Items
 ------------------------------------------
 
