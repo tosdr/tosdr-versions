@@ -135,7 +135,7 @@ Do you care about free minds and free markets? Sign up to get the biggest storie
 
 Email(Required)
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
