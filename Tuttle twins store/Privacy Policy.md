@@ -812,15 +812,17 @@ Accessibility
 
 [Contact Us](https://support.angel.com/hc/en-us/requests/new?ticket_form_id=1900000638345)
 
+[Returns & Exchanges](https://shop.angel.com/policies/refund-policy?ose=false)
+
 [File a Claim](https://tuttletwins.store/pages/insurance-claims)
 
 [Terms of Service](https://tuttletwins.store/policies/terms-of-service)
 
 [Privacy Policy](https://tuttletwins.store/policies/privacy-policy)
 
-[Returns & Exchanges](https://shop.angel.com/policies/refund-policy?ose=false)
-
 [Gift Card Terms](https://tuttletwins.store/pages/gift-card-terms-and-conditions)
+
+["Gift The Guild" Terms](https://tuttletwins.store/pages/gifted-guild-membership-terms)
 
 Follow us on
 
