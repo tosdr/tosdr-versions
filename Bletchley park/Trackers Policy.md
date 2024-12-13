@@ -355,7 +355,7 @@ The Bletchley Park privacy policy explains what information Bletchley Park colle
 
 [Tickets](https://bletchleypark.org.uk/book-now/) [Plan a Visit](https://bletchleypark.org.uk/plan-a-visit/) [Support](https://bletchleypark.org.uk/support-us/)
 
-[Contact / Find Us](https://bletchleypark.org.uk/contact-us/)
+[Contact / Find Us](http://bletchleypark.org.uk/contact-us/)
 
 The Mansion, Bletchley Park, Sherwood Drive, Bletchley, Milton Keynes, MK3 6EB
 
