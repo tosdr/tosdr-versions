@@ -886,6 +886,12 @@ Quick Links
 * Cookie Preferences
 * [Sitemap](https://www.cranepi.com/sitemap)
 
+Also of Interest
+
+* [Self-Service Solutions | CPI](https://www.cranepi.com/en/products/self-service-solutions)
+* [81% of Customers Avoid Stores With Long Lines....](https://www.cranepi.com/en/markets/self-checkout-solutions)
+* [Simplifi](https://www.cranepi.com/en/simplifi)
+
 [](https://www.linkedin.com/company/crane-payment-innovations)[](https://twitter.com/CPI_Official)[](http://www.youtube.com/cranepayments)
 
 © 2024 Crane Payment Innovations (CPI)
