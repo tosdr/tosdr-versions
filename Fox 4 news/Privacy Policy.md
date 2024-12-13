@@ -401,6 +401,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Dallas weather: Gloomy skies and showers set the mood for Friday the 13th](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/friday-13-weather-final.png?ve=1&tl=1)
+
+ ![Dallas weather: Gloomy skies and showers set the mood for Friday the 13th](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/friday-13-weather-final.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-friday-13)
+
+### [Dallas weather: Gloomy skies and showers set the mood for Friday the 13th](https://www.fox4news.com/weather/dallas-weather-friday-13)
+
  [![Selena Gomez announces engagement to record producer Benny Blanco](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/selena-benny.jpg?ve=1&tl=1)
 
  ![Selena Gomez announces engagement to record producer Benny Blanco](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/selena-benny.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/selena-gomez-announces-engagement-record-producer-benny-blanco)
@@ -424,12 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Dallas City Council questions new city manager search that only named 4 possible candidates](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/121224-dallas-city-manager-search-qt-530-pkg_00.00.20.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/search-next-dallas-city-manager-hones-4-possible-candidates-city-council-wanted-more)
 
 ### [Dallas City Council questions new city manager search that only named 4 possible candidates](https://www.fox4news.com/news/search-next-dallas-city-manager-hones-4-possible-candidates-city-council-wanted-more)
-
- [!['Mastermind' behind Du'Vonta Lampkin's murder found guilty, gets life in prison](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/franklin-and-lampkin.jpg?ve=1&tl=1)
-
- !['Mastermind' behind Du'Vonta Lampkin's murder found guilty, gets life in prison](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/franklin-and-lampkin.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/duvonta-lampkin-antwan-franklin-guilty-verdict)
-
-### ['Mastermind' behind Du'Vonta Lampkin's murder found guilty, gets life in prison](https://www.fox4news.com/news/duvonta-lampkin-antwan-franklin-guilty-verdict)
 
 ###### [News](https://www.fox4news.com/news)
 
