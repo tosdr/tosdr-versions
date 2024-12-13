@@ -356,7 +356,7 @@ TRANSCEND EARTH
 
 [Axiom Station](https://www.axiomspace.com/axiom-station)[The Suit](https://www.axiomspace.com/axiom-suit)[Missions](https://www.axiomspace.com/missions)
 
-[Careers](https://www.axiomspace.com/drafts/careers-draftd)[Newsroom](https://www.axiomspace.com/newsroom)
+[Careers](https://www.axiomspace.com/careers)[Newsroom](https://www.axiomspace.com/newsroom)
 
 [Human Spaceflight](https://www.axiomspace.com/human-spaceflight)[Microgravity Research](https://www.axiomspace.com/microgravity-research)[In-Space Manufacturing](https://www.axiomspace.com/in-space-manufacturing)[In-Space Data & Security](https://www.axiomspace.com/in-space-data-security)[Partnership Opportunities](https://www.axiomspace.com/partners)
 
