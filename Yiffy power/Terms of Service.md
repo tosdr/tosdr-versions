@@ -97,7 +97,7 @@ Latest commented posts
 
 [queen bee-lzebub and vortex (helluva boss and etc) created by pinkaxolotl](https://yiff-party.com/yiff/queen-bee-lzebub-and-vortex-helluva-boss-and-etc-created-by-pinkaxolotl/)
 
-0 248 2
+0 261 2
 
 December 3, 2024
 
@@ -113,7 +113,7 @@ November 18, 2024
 
 [affax created by eihman and fumiko](https://yiff-party.com/yiff/affax-created-by-eihman-and-fumiko/)
 
-0 461 1
+0 471 1
 
 November 27, 2024
 
@@ -121,7 +121,7 @@ November 27, 2024
 
 [created by k0 bemy](https://yiff-party.com/yiff-gif/created-by-k0-bemy/)
 
-0 250 1
+0 260 1
 
 December 5, 2024
 
