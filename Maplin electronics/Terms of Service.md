@@ -130,7 +130,6 @@ Browse
         * [USB-C Extension Cables](https://www.maplin.co.uk/collections/usb-c-extension-cables)
         * [USB-C Adapters](https://www.maplin.co.uk/collections/usb-c-adapters)
         * [USB-C Hubs](https://www.maplin.co.uk/collections/usb-c-hubs)
-        * [Docking Stations](https://www.maplin.co.uk/collections/docking-stations)
         
     * USB-A
         
@@ -259,6 +258,7 @@ Browse
         * [Monitor Mounts](https://www.maplin.co.uk/collections/monitor-mounts)
         * [Keyboards](https://www.maplin.co.uk/collections/keyboards)
         * [Mice](https://www.maplin.co.uk/collections/mice)
+        * [Docking Stations](https://www.maplin.co.uk/collections/docking-stations)
         * [PC Speakers](https://www.maplin.co.uk/collections/pc-speakers)
         * [Card Readers](https://www.maplin.co.uk/collections/card-readers)
         * [Flash Drives](https://www.maplin.co.uk/collections/flash-drives)
@@ -951,7 +951,6 @@ Browse
     * [USB-C Extension Cables](https://www.maplin.co.uk/collections/usb-c-extension-cables)
     * [USB-C Adapters](https://www.maplin.co.uk/collections/usb-c-adapters)
     * [USB-C Hubs](https://www.maplin.co.uk/collections/usb-c-hubs)
-    * [Docking Stations](https://www.maplin.co.uk/collections/docking-stations)
     
     [USB-A](https://www.maplin.co.uk/collections/usb-a-cables-adapters)
     
@@ -1072,6 +1071,7 @@ Browse
     * [Monitor Mounts](https://www.maplin.co.uk/collections/monitor-mounts)
     * [Keyboards](https://www.maplin.co.uk/collections/keyboards)
     * [Mice](https://www.maplin.co.uk/collections/mice)
+    * [Docking Stations](https://www.maplin.co.uk/collections/docking-stations)
     * [PC Speakers](https://www.maplin.co.uk/collections/pc-speakers)
     * [Card Readers](https://www.maplin.co.uk/collections/card-readers)
     * [Flash Drives](https://www.maplin.co.uk/collections/flash-drives)
@@ -1779,7 +1779,7 @@ Our friendly support team is here to help
 
 ##### Shopping With Us
 
-* [Professional Supplies (MPS)](https://pro.maplin.co.uk/)
+* [Professional Supplies](https://pro.maplin.co.uk/)
 * [Business & Education](https://www.maplin.co.uk/pages/business)
 * [Brand Directory](https://www.maplin.co.uk/pages/shop-by-brand)
 * [Gift Cards](https://www.maplin.co.uk/products/maplin-e-gift-card)
