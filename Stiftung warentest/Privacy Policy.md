@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Thermo­behälter im Test: Einer hält heiß, einer nicht dicht](https://www.test.de/Thermobehaelter-im-Test-Einer-haelt-heiss-einer-nicht-dicht-6115553-0/ "Thermobehälter im Test - Einer hält heiß, einer nicht dicht")
-* [Zinsen aus dem Ausland: Geld im Ausland angelegt? Was Sie der Bundes­bank melden müssen](https://www.test.de/Zinsen-aus-dem-Ausland-12-500-Euro-im-Ausland-angelegt-Was-Sie-der-Bundesbank-melden-muessen-6159329-0/ "Zinsen aus dem Ausland - Geld im Ausland angelegt? Was Sie der Bundesbank melden müssen")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
+* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
+* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
+* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
+* [Seit 2020 auf Warn­liste: Deutsche Edel­fisch stellt Insolvenz­antrag](https://www.test.de/Seit-2020-auf-Warnliste-Deutsche-Edelfisch-stellt-Insolvenzantrag-6167404-0/ "Seit 2020 auf Warnliste - Deutsche Edelfisch stellt Insolvenzantrag")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Thermo­behälter im Test: Einer hält heiß, einer nicht dicht](https://www.test.de/Thermobehaelter-im-Test-Einer-haelt-heiss-einer-nicht-dicht-6115553-0/ "Thermobehälter im Test - Einer hält heiß, einer nicht dicht")
-* [Zinsen aus dem Ausland: Geld im Ausland angelegt? Was Sie der Bundes­bank melden müssen](https://www.test.de/Zinsen-aus-dem-Ausland-12-500-Euro-im-Ausland-angelegt-Was-Sie-der-Bundesbank-melden-muessen-6159329-0/ "Zinsen aus dem Ausland - Geld im Ausland angelegt? Was Sie der Bundesbank melden müssen")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
+* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
+* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
+* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
+* [Seit 2020 auf Warn­liste: Deutsche Edel­fisch stellt Insolvenz­antrag](https://www.test.de/Seit-2020-auf-Warnliste-Deutsche-Edelfisch-stellt-Insolvenzantrag-6167404-0/ "Seit 2020 auf Warnliste - Deutsche Edelfisch stellt Insolvenzantrag")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Thermo­behälter im Test: Einer hält heiß, einer nicht dicht](https://www.test.de/Thermobehaelter-im-Test-Einer-haelt-heiss-einer-nicht-dicht-6115553-0/ "Thermobehälter im Test - Einer hält heiß, einer nicht dicht")
-* [Zinsen aus dem Ausland: Geld im Ausland angelegt? Was Sie der Bundes­bank melden müssen](https://www.test.de/Zinsen-aus-dem-Ausland-12-500-Euro-im-Ausland-angelegt-Was-Sie-der-Bundesbank-melden-muessen-6159329-0/ "Zinsen aus dem Ausland - Geld im Ausland angelegt? Was Sie der Bundesbank melden müssen")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
+* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
+* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
+* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
+* [Seit 2020 auf Warn­liste: Deutsche Edel­fisch stellt Insolvenz­antrag](https://www.test.de/Seit-2020-auf-Warnliste-Deutsche-Edelfisch-stellt-Insolvenzantrag-6167404-0/ "Seit 2020 auf Warnliste - Deutsche Edelfisch stellt Insolvenzantrag")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Thermo­behälter im Test: Einer hält heiß, einer nicht dicht](https://www.test.de/Thermobehaelter-im-Test-Einer-haelt-heiss-einer-nicht-dicht-6115553-0/ "Thermobehälter im Test - Einer hält heiß, einer nicht dicht")
-* [Zinsen aus dem Ausland: Geld im Ausland angelegt? Was Sie der Bundes­bank melden müssen](https://www.test.de/Zinsen-aus-dem-Ausland-12-500-Euro-im-Ausland-angelegt-Was-Sie-der-Bundesbank-melden-muessen-6159329-0/ "Zinsen aus dem Ausland - Geld im Ausland angelegt? Was Sie der Bundesbank melden müssen")
-* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
-* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
+* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
+* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
+* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
+* [Seit 2020 auf Warn­liste: Deutsche Edel­fisch stellt Insolvenz­antrag](https://www.test.de/Seit-2020-auf-Warnliste-Deutsche-Edelfisch-stellt-Insolvenzantrag-6167404-0/ "Seit 2020 auf Warnliste - Deutsche Edelfisch stellt Insolvenzantrag")
+* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
 
 Stiftung Warentest
 
