@@ -105,6 +105,6 @@ By using the EXEfiles.com services, accessing the EXEfiles.com web site, or purc
 * [Terms of Use](https://www.exefiles.com/en/terms/)
 * [Privacy Policy](https://www.exefiles.com/en/privacy/)
 
-Copyright © 1999-2023 ExeFiles.com
+Copyright © 1999-2024 ExeFiles.com
 
 ![X](/images/X.png)
