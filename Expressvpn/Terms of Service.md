@@ -364,6 +364,8 @@ If any provision in the Agreement is held invalid or unenforceable, that provisi
 * [Blog](https://www.expressvpn.com/blog/)
 * [English](#)
 
+![](https://prod-assets-cms.mtech.xvservice.net/img/frontend/xv/public/thfc-expressvpn-badge.svg?v=13800)
+
 © 2024 ExpressVPN. All rights reserved
 
 [Privacy Policy](https://www.expressvpn.com/privacy-policy) [Terms of Service](https://www.expressvpn.com/tos) Cookie Preferences
