@@ -2,7 +2,7 @@
 
 PC Health Solution](https://www.iobit.com/en/index.php)
 
-* [Christmas GIFT is here](https://purchase.iobit.com/en/sale/christmassale.php?ref=navi_iconxg)
+* [Christmas GIFT is here](https://purchase.iobit.com/en/sale/christmassale.php?ref=navi_iconxg) [Christmas 90% OFF is Here](https://purchase.iobit.com/en/sale/christmassale2024.php?ref=navi_iconxb)
     
 * [Partner](https://www.iobit.com/en/partnersolutions.php)
 * Support
