@@ -38,6 +38,12 @@ Est.
 
 1930](https://pmc.com/our-brands/the-hollywood-reporter)
 
+[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/675b8fcb677daad367b87fa0_bb%20charts%20logo%20W.png)
+
+Est.
+
+1940](https://pmc.com/our-brands/billboard-charts)
+
 [![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6750c074694dce6814aa7ee3_GG%20%E2%80%93%205%20344x60.svg)
 
 Est.
@@ -261,6 +267,12 @@ Est.
 Est.
 
 1930](https://pmc.com/our-brands/the-hollywood-reporter)
+
+[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/675b8fcb677daad367b87fa0_bb%20charts%20logo%20W.png)
+
+Est.
+
+1940](https://pmc.com/our-brands/billboard-charts)
 
 [![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6750c074694dce6814aa7ee3_GG%20%E2%80%93%205%20344x60.svg)
 
