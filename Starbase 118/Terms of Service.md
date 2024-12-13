@@ -316,6 +316,16 @@ Read More
 Community News
 --------------
 
+[![](https://www.starbase118.net/wp-content/uploads/2015/02/starbase12-768x540.jpg)](https://www.starbase118.net/2024/devious-orion-syndicate-program-wreaks-havoc-on-starbase-118/)
+
+### [Devious Orion Syndicate Program Wreaks Havoc on StarBase 118](https://www.starbase118.net/2024/devious-orion-syndicate-program-wreaks-havoc-on-starbase-118/)
+
+Federation News Service December 13, 2024
+
+STARBASE 118 – While the StarBase 118 Crew explores an immersive holodeck adventure centering around the Bell Riots an invasive AI named Lemoncable returns to
+
+[Read More »](https://www.starbase118.net/2024/devious-orion-syndicate-program-wreaks-havoc-on-starbase-118/)
+
 [![](https://www.starbase118.net/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg)](https://www.starbase118.net/2024/award-winner-lt-madison-marsh-ops-luminary/)
 
 ### [Award winner – Lt. Madison Marsh, OPS (Luminary)](https://www.starbase118.net/2024/award-winner-lt-madison-marsh-ops-luminary/)
@@ -335,16 +345,6 @@ amackenzie December 8, 2024
 The month of November was defined by a journey of discovery and remarkable narrative skill within our Fleet. We saw a slight dip in our
 
 [Read More »](https://www.starbase118.net/2024/november-2024-post-counts/)
-
-[![](https://www.starbase118.net/wp-content/uploads/2015/02/Lower-Decks-01-768x432.jpg)](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-sevantha-saa-uss-astraeus/)
-
-### [Lower Decks interview:  Lieutenant JG Sevantha Saa,  USS Astraeus.](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-sevantha-saa-uss-astraeus/)
-
-Lhandon Nilsen December 6, 2024
-
-We’re here with another interview with a newer member of our community. The title of this column is “Lower Decks,” hearkening back to the Star
-
-[Read More »](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-sevantha-saa-uss-astraeus/)
 
 Ready to get started?
 ---------------------
