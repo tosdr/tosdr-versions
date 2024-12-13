@@ -30,15 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b3b445c1-7728-4824-8e88-b9e3f2b47fff/20241212T043012/b3b445c1-7728-4824-8e88-b9e3f2b47fff_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b3b445c1-7728-4824-8e88-b9e3f2b47fff/20241212T043012/b3b445c1-7728-4824-8e88-b9e3f2b47fff_360x203.jpg)](https://www.wqad.com/article/news/local/eclectic-market-aims-to-highlight-quad-cities-artists/526-9fc957c0-a907-4ab7-b747-4a53a05fb310)
+    *  [![](https://media.tegna-media.com/assets/WCNC/images/ee1d658c-0db2-4115-8856-92c61647684f/ee1d658c-0db2-4115-8856-92c61647684f_16x9.jpg) ![](https://media.tegna-media.com/assets/WCNC/images/ee1d658c-0db2-4115-8856-92c61647684f/ee1d658c-0db2-4115-8856-92c61647684f_360x203.jpg)](https://www.wqad.com/article/news/local/winter-quad-cites-community-resources-staying-warm/526-81290a64-72cb-4bbe-9913-1af0a0645366)
         
-        #### [How you can support QCA artists this weekend](https://www.wqad.com/article/news/local/eclectic-market-aims-to-highlight-quad-cities-artists/526-9fc957c0-a907-4ab7-b747-4a53a05fb310)
+        #### [Quad Cities area community resources for staying warm this winter](https://www.wqad.com/article/news/local/winter-quad-cites-community-resources-staying-warm/526-81290a64-72cb-4bbe-9913-1af0a0645366)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/026c8beb-b7f7-4762-874b-afe311abd0d2/026c8beb-b7f7-4762-874b-afe311abd0d2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/026c8beb-b7f7-4762-874b-afe311abd0d2/026c8beb-b7f7-4762-874b-afe311abd0d2_360x203.jpg)](https://www.wqad.com/article/news/national/dixon-rita-crundwell-commuted-pardon-president-biden-embezzlement/526-cce0c5c1-c427-44cd-ad46-7cb08b888833)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/0485603e-e060-4e8f-a397-c94c410a0e0e/20241213T001318/0485603e-e060-4e8f-a397-c94c410a0e0e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0485603e-e060-4e8f-a397-c94c410a0e0e/20241213T001318/0485603e-e060-4e8f-a397-c94c410a0e0e_360x203.jpg)](https://www.wqad.com/article/news/local/google-online-safety-presentation-dewitt-iowa/526-cd253895-01a4-4533-b38a-0ed7c7204d65)
         
-        #### [Former Dixon comptroller convicted of embezzling $54M has sentence commuted by Biden](https://www.wqad.com/article/news/national/dixon-rita-crundwell-commuted-pardon-president-biden-embezzlement/526-cce0c5c1-c427-44cd-ad46-7cb08b888833) [![](https://media.tegna-media.com/assets/WQAD/images/026c8beb-b7f7-4762-874b-afe311abd0d2/026c8beb-b7f7-4762-874b-afe311abd0d2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/026c8beb-b7f7-4762-874b-afe311abd0d2/026c8beb-b7f7-4762-874b-afe311abd0d2_360x203.jpg)](https://www.wqad.com/article/news/national/dixon-rita-crundwell-commuted-pardon-president-biden-embezzlement/526-cce0c5c1-c427-44cd-ad46-7cb08b888833)
+        #### [Central DeWitt students learn about internet safety from Google representatives](https://www.wqad.com/article/news/local/google-online-safety-presentation-dewitt-iowa/526-cd253895-01a4-4533-b38a-0ed7c7204d65)
         
-        #### [Biden commutes sentence of former Dixon comptroller convicted of embezzling $54M](https://www.wqad.com/article/news/national/dixon-rita-crundwell-commuted-pardon-president-biden-embezzlement/526-cce0c5c1-c427-44cd-ad46-7cb08b888833)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -98,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-11°
+10°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
