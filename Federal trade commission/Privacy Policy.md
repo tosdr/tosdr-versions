@@ -23,9 +23,6 @@ Translation Menu
 
 * [Español](https://www.ftc.gov/es)
 
-Secondary Menu
---------------
-
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
 * [Search the Legal Library](https://www.ftc.gov/legal-library)
@@ -332,9 +329,6 @@ Translation Menu
 ----------------
 
 * [Español](https://www.ftc.gov/es)
-
-Secondary Menu
---------------
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
