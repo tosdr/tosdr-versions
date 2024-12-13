@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/9f7a4116-3665-4f55-9970-9069a2e98c99/20241021T131731/9f7a4116-3665-4f55-9970-9069a2e98c99_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9f7a4116-3665-4f55-9970-9069a2e98c99/20241021T131731/9f7a4116-3665-4f55-9970-9069a2e98c99_360x203.jpg)](https://www.king5.com/article/news/local/officials-plan-file-lawsuit-challenging-constitutionality-i-2066/281-9e2fa3fd-d8c4-45a4-ad87-fafce8495308)
+    *  [![](https://media.king5.com/assets/KING/images/cf4abd9c-d529-4c9b-81db-25c94542b660/20241213T073302/cf4abd9c-d529-4c9b-81db-25c94542b660_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf4abd9c-d529-4c9b-81db-25c94542b660/20241213T073302/cf4abd9c-d529-4c9b-81db-25c94542b660_360x203.jpg)](https://www.king5.com/article/news/local/stolen-drum-sets-poisons-drummer-recovered-tip-from-guitar-center-employee/281-b188ae62-ffd5-4e15-8599-4643963a1d11)
         
-        #### [Officials plan to file lawsuit challenging constitutionality of I-2066](https://www.king5.com/article/news/local/officials-plan-file-lawsuit-challenging-constitutionality-i-2066/281-9e2fa3fd-d8c4-45a4-ad87-fafce8495308)
+        #### [Stolen drum sets from Poison's drummer recovered after tip from Guitar Center employee](https://www.king5.com/article/news/local/stolen-drum-sets-poisons-drummer-recovered-tip-from-guitar-center-employee/281-b188ae62-ffd5-4e15-8599-4643963a1d11)
         
-    *  [![](https://media.king5.com/assets/KING/images/c1577fe3-051b-4fde-8694-85960d775738/20241213T020500/c1577fe3-051b-4fde-8694-85960d775738_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c1577fe3-051b-4fde-8694-85960d775738/20241213T020500/c1577fe3-051b-4fde-8694-85960d775738_360x203.jpg)](https://www.king5.com/article/news/local/homeless-man-tries-save-crash-victim/281-24d59a53-99dc-4f48-ba53-f82a390a940c)
+    *  [![](https://media.king5.com/assets/KING/images/2ed14f06-9fe6-4d93-bb18-da0faef4b818/20241213T072923/2ed14f06-9fe6-4d93-bb18-da0faef4b818_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2ed14f06-9fe6-4d93-bb18-da0faef4b818/20241213T072923/2ed14f06-9fe6-4d93-bb18-da0faef4b818_360x203.jpg)](https://www.king5.com/article/news/local/snohomish-restaurant-closed-indefinitely-after-fire-owners-turn-to-community-support/281-ba0c4112-82cf-4042-a42b-7dd63513d72b)
         
-        #### [Homeless man tries to save 15-year-old crash victim from burning vehicle](https://www.king5.com/article/news/local/homeless-man-tries-save-crash-victim/281-24d59a53-99dc-4f48-ba53-f82a390a940c)
+        #### [Snohomish restaurant closed indefinitely after fire; owners turn to community for support](https://www.king5.com/article/news/local/snohomish-restaurant-closed-indefinitely-after-fire-owners-turn-to-community-support/281-ba0c4112-82cf-4042-a42b-7dd63513d72b)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ec033dca-fdab-4599-ad5e-0312db383487/20241212T212627/ec033dca-fdab-4599-ad5e-0312db383487_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ec033dca-fdab-4599-ad5e-0312db383487/20241212T212627/ec033dca-fdab-4599-ad5e-0312db383487_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/2a31e0aa-4719-438c-8f9e-4798eb4c4f13/20241213T073746/2a31e0aa-4719-438c-8f9e-4798eb4c4f13_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2a31e0aa-4719-438c-8f9e-4798eb4c4f13/20241213T073746/2a31e0aa-4719-438c-8f9e-4798eb4c4f13_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -82,13 +82,13 @@ Navigation
     
     Latest Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/fabac61e-4398-418b-b467-8449d0c1ae4c/20241213T054612/fabac61e-4398-418b-b467-8449d0c1ae4c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fabac61e-4398-418b-b467-8449d0c1ae4c/20241213T054612/fabac61e-4398-418b-b467-8449d0c1ae4c_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/bjorkstrand-scores-twice-for-kraken-in-5-1-win-over-bruins/281-216061e1-d887-42c3-9c92-14f24c5a97c8)
+        
+        #### [Bjorkstrand scores twice for Kraken in 5-1 win over Bruins](https://www.king5.com/article/sports/nhl/kraken/bjorkstrand-scores-twice-for-kraken-in-5-1-win-over-bruins/281-216061e1-d887-42c3-9c92-14f24c5a97c8)
+        
     *  [![](https://media.king5.com/assets/KING/images/b5d60c2e-cc6e-4783-8d27-2f8794f5b69e/20241213T000528/b5d60c2e-cc6e-4783-8d27-2f8794f5b69e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b5d60c2e-cc6e-4783-8d27-2f8794f5b69e/20241213T000528/b5d60c2e-cc6e-4783-8d27-2f8794f5b69e_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/dk-metcalf-is-happy-to-block-as-seahawks-ride-streak-into-sunday-night-matchup-with-packers/281-615d0995-501f-4369-bdbd-f8ff8f0f9240)
         
         #### [DK Metcalf is happy to block as Seahawks ride streak into Sunday night matchup with Packers](https://www.king5.com/article/sports/nfl/seahawks/dk-metcalf-is-happy-to-block-as-seahawks-ride-streak-into-sunday-night-matchup-with-packers/281-615d0995-501f-4369-bdbd-f8ff8f0f9240)
-        
-    *  [![](https://media.king5.com/assets/KING/images/d2033334-e7d4-4e07-86f5-5e78f8a24f94/20241211T071823/d2033334-e7d4-4e07-86f5-5e78f8a24f94_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d2033334-e7d4-4e07-86f5-5e78f8a24f94/20241211T071823/d2033334-e7d4-4e07-86f5-5e78f8a24f94_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/how-to-watch-seattle-kraken-against-boston-bruins/281-cc12858e-0830-4fc4-9588-167e993f05bc)
-        
-        #### [How to watch the Seattle Kraken's game against the Boston Bruins](https://www.king5.com/article/sports/nhl/kraken/how-to-watch-seattle-kraken-against-boston-bruins/281-cc12858e-0830-4fc4-9588-167e993f05bc)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -107,7 +107,7 @@ Seattle, WA »
 
 44°
 
-![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
