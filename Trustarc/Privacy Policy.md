@@ -407,7 +407,7 @@ At TrustArc, we only disclose personal information in ways that we tell you abou
 Your Choices Around the Use and Disclosure of Your Personal Information
 -----------------------------------------------------------------------
 
-TrustArc provides you the ability to opt-out of uses and disclosures of your personal information that are not directly related to providing the services you requested. As described throughout this privacy notice, we enable you to opt-out of additional uses or disclosures when you first visit our website or receive an email communication from us. You can also opt-out at any time by submitting a request through our Individual Rights [form.](#)
+If personal information covered by this privacy policy is to be used for a new purpose that is materially different from that for which the personal information was originally collected or subsequently authorized, or is to be disclosed to a third party not acting as a service provider or vendor in a manner not specified in this policy, TrustArc will provide you with an opportunity to choose whether to have your personal information so used or disclosed. Requests to opt-out of such uses or disclosures should be sent to us as specified in the [Contact Us](#contact) section below or through our [Individual Rights form.](#)
 
 [](#)
 
