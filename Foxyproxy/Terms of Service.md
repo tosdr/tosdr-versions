@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you guys you all rock!
+Seems like you guys really care about your clients, which is refreshing.
 
-Eli Hernandez
+Jenny Schenker
