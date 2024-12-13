@@ -1,6 +1,6 @@
 [**HOLIDAY SALE |** Get Premium protection with 10% OFF TODAY – **UPGRADE NOW**](https://www.qustodio.com/en/premium/)
 
-[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.19.0)](https://www.qustodio.com/en/)
+[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.20.0)](https://www.qustodio.com/en/)
 
 * [Home](https://www.qustodio.com/en/)
 * [Why Qustodio](https://www.qustodio.com/en/why-qustodio/)
@@ -17,7 +17,7 @@
 
 [**HOLIDAY SALE |** Get Premium protection with 10% OFF TODAY – **UPGRADE NOW**](https://www.qustodio.com/en/premium/)
 
-[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.19.0)](https://www.qustodio.com/en/)
+[![Qustodio](https://www.qustodio.com/wp-content/themes/Divi-child/assets/dist/svg/template-parts/header/qustodio-logo.svg?v=4.20.0)](https://www.qustodio.com/en/)
 
 * [Product](#)
     * [Why Qustodio
