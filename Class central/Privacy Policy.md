@@ -414,9 +414,9 @@ Most common
 
 1. digital marketing
     
-2. psychology
+2. java
     
-3. finance
+3. sql
     
 
 Popular subjects
