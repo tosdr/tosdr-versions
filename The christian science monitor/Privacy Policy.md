@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Transformation
+
+### The genial core of Jane Austen’s art](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1213/The-genial-core-of-Jane-Austen-s-art "The genial core of Jane Austen’s art")
+
+[Hope
+
+### Waves of joy flood Damascus. But an undercurrent of distrust lingers.](https://www.csmonitor.com/World/Middle-East/2024/1213/syria-islamist-rebels-governing-damascus-mood "Waves of joy flood Damascus. But an undercurrent of distrust lingers.")
+
 [Freedom
 
 ### Why Florida and almost half of US states are enshrining a right to hunt and fish](https://www.csmonitor.com/Environment/2024/1213/fishing-hunting-state-constitution-florida "Why Florida and almost half of US states are enshrining a right to hunt and fish")
-
-[Safety
-
-### Assad’s fall has rewards for Israel. It’s focused on the risks.](https://www.csmonitor.com/World/Middle-East/2024/1212/syria-assad-rebels-iran-israel-security "Assad’s fall has rewards for Israel. It’s focused on the risks.")
-
-[Equality
-
-### Equality is on Syria’s agenda](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1212/Equality-is-on-Syria-s-agenda "Equality is on Syria’s agenda")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Assad’s fall has rewards for Israel. It’s focused on the risks.](https://www.csmonitor.com/World/Middle-East/2024/1212/syria-assad-rebels-iran-israel-security "Assad’s fall has rewards for Israel. It’s focused on the risks.")
+[### Waves of joy flood Damascus. But an undercurrent of distrust lingers.](https://www.csmonitor.com/World/Middle-East/2024/1213/syria-islamist-rebels-governing-damascus-mood "Waves of joy flood Damascus. But an undercurrent of distrust lingers.")
 
-[### Malibu’s wildfire threatens my community. It’s also bringing us together.](https://www.csmonitor.com/USA/2024/1212/franklin-fire-malibu-update "Malibu’s wildfire threatens my community. It’s also bringing us together.")
+[### Why are there mysterious drones flooding New Jersey’s airspace?](https://www.csmonitor.com/USA/2024/1213/drones-new-jersey-mysterious-aircraft-military-bases "Why are there mysterious drones flooding New Jersey’s airspace?")
 
-[### How young Nigerian women in arranged ‘money marriages’ are getting a new start](https://www.csmonitor.com/World/Making-a-difference/2024/1212/nigeria-money-marriage-girls-becheve "How young Nigerian women in arranged ‘money marriages’ are getting a new start")
+[### Emmanuel Macron taps François Bayrou as the next French prime minister. Who is he?](https://www.csmonitor.com/World/Europe/2024/1213/macron-francois-bayrou-prime-minister "Emmanuel Macron taps François Bayrou as the next French prime minister. Who is he?")
 
 * * *
 
