@@ -54,7 +54,7 @@ REGISTER NOW](https://nrfbigshow.nrf.com/)
 
 ##### Research & Insights
 
-[Retail Sales](https://nrf.com/research-insights/center-retail-consumer-insights/cnbc-nrf-retail-monitor)[Holiday Trends](https://nrf.com/research-insights/holiday-data-and-trends/winter-holidays)[Economic Forecasts & Trends](https://nrf.com/research-insights/nrf-forecasts)[Top Retailers Lists](https://nrf.com/research-insights/top-retailers/top-retailers)
+[Retail Sales](https://nrf.com/research-insights/center-retail-consumer-insights/cnbc-nrf-retail-monitor)[Holiday Trends](https://nrf.com/research-insights/holiday-data-and-trends/winter-holidays)[Economic Forecasts & Trends](https://nrf.com/research-insights/forecasts)[Top Retailers Lists](https://nrf.com/research-insights/top-retailers/top-retailers)
 
 ##### Topics
 
