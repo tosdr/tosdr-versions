@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WCNC/images/ee1d658c-0db2-4115-8856-92c61647684f/ee1d658c-0db2-4115-8856-92c61647684f_16x9.jpg) ![](https://media.tegna-media.com/assets/WCNC/images/ee1d658c-0db2-4115-8856-92c61647684f/ee1d658c-0db2-4115-8856-92c61647684f_360x203.jpg)](https://www.wqad.com/article/news/local/winter-quad-cites-community-resources-staying-warm/526-81290a64-72cb-4bbe-9913-1af0a0645366)
+    *  [![](https://media.tegna-media.com/assets/WOI/images/a1a27c41-b709-4582-a0bb-69191f908234/20240816T223743/a1a27c41-b709-4582-a0bb-69191f908234_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/a1a27c41-b709-4582-a0bb-69191f908234/20240816T223743/a1a27c41-b709-4582-a0bb-69191f908234_360x203.jpg)](https://www.wqad.com/article/news/regional/central-iowa-food-banks-call-for-a-decision-on-farm-bill-growing-need-hunger-legislators-meals-usda-programs-finacial-demand-lawmakers-opperations/524-f2c71961-370e-4498-ae2c-2372e6619d40)
         
-        #### [Quad Cities area community resources for staying warm this winter](https://www.wqad.com/article/news/local/winter-quad-cites-community-resources-staying-warm/526-81290a64-72cb-4bbe-9913-1af0a0645366)
+        #### [Central Iowa food banks call for a decision on farm bill](https://www.wqad.com/article/news/regional/central-iowa-food-banks-call-for-a-decision-on-farm-bill-growing-need-hunger-legislators-meals-usda-programs-finacial-demand-lawmakers-opperations/524-f2c71961-370e-4498-ae2c-2372e6619d40)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/0485603e-e060-4e8f-a397-c94c410a0e0e/20241213T001318/0485603e-e060-4e8f-a397-c94c410a0e0e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0485603e-e060-4e8f-a397-c94c410a0e0e/20241213T001318/0485603e-e060-4e8f-a397-c94c410a0e0e_360x203.jpg)](https://www.wqad.com/article/news/local/google-online-safety-presentation-dewitt-iowa/526-cd253895-01a4-4533-b38a-0ed7c7204d65)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b34c1f83-f8bf-499d-84d2-fd2b8a82fc10/20241213T042318/b34c1f83-f8bf-499d-84d2-fd2b8a82fc10_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b34c1f83-f8bf-499d-84d2-fd2b8a82fc10/20241213T042318/b34c1f83-f8bf-499d-84d2-fd2b8a82fc10_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-18-year-old-illinois-state-flag-finalist/526-fd56a13a-2779-4d48-b930-76de972158bd)
         
-        #### [Central DeWitt students learn about internet safety from Google representatives](https://www.wqad.com/article/news/local/google-online-safety-presentation-dewitt-iowa/526-cd253895-01a4-4533-b38a-0ed7c7204d65)
+        #### [Design from 19-year-old Rock Island resident named a finalist to become the new Illinois state flag](https://www.wqad.com/article/news/local/rock-island-18-year-old-illinois-state-flag-finalist/526-fd56a13a-2779-4d48-b930-76de972158bd)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ececff04-b645-4170-b7ec-0718ee8f2d5c/20241212T222535/ececff04-b645-4170-b7ec-0718ee8f2d5c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ececff04-b645-4170-b7ec-0718ee8f2d5c/20241212T222535/ececff04-b645-4170-b7ec-0718ee8f2d5c_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/0da08c43-ca8b-40ca-82cc-2f4d5098aaa1/20241213T043031/0da08c43-ca8b-40ca-82cc-2f4d5098aaa1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0da08c43-ca8b-40ca-82cc-2f4d5098aaa1/20241213T043031/0da08c43-ca8b-40ca-82cc-2f4d5098aaa1_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Next weather system still on track to impact the area by Saturday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -97,7 +97,7 @@ Navigation
 
 Davenport, IA »
 
-10°
+8°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
