@@ -127,11 +127,8 @@ Log In
 * [Podcasts](https://www.ajc.com/podcasts/)
     
     * [Breakdown](https://www.ajc.com/news/breakdown/podcast/)
-    * [Bow Tie Chronicles](https://www.ajc.com/sports/atlanta-falcons/podcast/)
     * [Politically Georgia](https://www.ajc.com/politics/podcasts/)
     * [Braves Report](https://www.ajc.com/sports/atlanta-braves/podcast/)
-    * [Southern Fried Soccer](https://www.ajc.com/sports/atlanta-united/podcast/)
-    * [Hawks Report](https://www.ajc.com/sports/atlanta-hawks/ajc-podcast/)
     
 * [More](https://www.ajc.com/our-products//)
     
