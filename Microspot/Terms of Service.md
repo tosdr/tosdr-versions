@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/8356.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/1083.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -102,12 +102,6 @@ Autres actions ici
 
 Nos univers thématiques
 -----------------------
-
-[![80x80_I24_Icons_009_CM1_Icons_New5.png](/medias/80x80-I24-Icons-009-CM1-Icons-New5.png?context=bWFzdGVyfGNtc3w0ODV8aW1hZ2UvcG5nfGFHUXlMMmd3Wmk4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURBNVgwTk5NVjlKWTI5dWMxOU9aWGMxTG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURBNVgwTk5NVjlKWTI5dWMxOU9aWGMxTG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkF8NWUwYzg2ZWE1ZmFmY2RlODM0ZGIxZjIwNjE1NmZlYWZlNzZiMDAwZmY3NGQxOTY3YTQ5ZTk2NmVjYTg5YzJiNA)
-
-Trade-In Service
-
-Echangez vos anciens appareils et économisez](https://www.microspot.ch/fr/cms/trade-in)
 
 [![80x80_I24_Icons_018_Season_Restposten3.png](/medias/80x80-I24-Icons-018-Season-Restposten3.png?context=bWFzdGVyfGNtc3w0MTR8aW1hZ2UvcG5nfGFHSXhMMmhqTnk4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURFNFgxTmxZWE52Ymw5U1pYTjBjRzl6ZEdWdU15NXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhPRjlUWldGemIyNWZVbVZ6ZEhCdmMzUmxiak11Y0c1blUzUmhaMlZrYjNCMGFXMXBlbVZrfGZhODQ2ZTliNjM4ZjQ1ZTMxNDc0NjZmMjc2ZTE5NDYxNTBkYzQ0NzFlMzMwMjA2MTQxYjRiZmI5YWQ1NGYyNDY)
 
@@ -227,9 +221,9 @@ prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr
 
 dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
-[Commandé aujourd'hui avant 20h
+[Frais de port gratuits pour livraison
 
-livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
