@@ -269,7 +269,7 @@ article 4 days ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-sw
 
 ### NASA Kennedy Top 24 Stories of 2024
 
-article 19 hours ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/)[![The Group 15 NASA and international astronaut candidates pose for a group photo – front row, Jeffrey S. Ashby, left, Dafydd “Dave” R. Williams, James F. Reilly, Scott D. Altman, Rick D. Husband, and Michael J. Bloomfield; middle row, Pamela A. Melroy, left, Michael P. Anderson, Michel Tognini, Kathryn “Kay” P. Hire, Kalpana Chawla, Carlos I. Noriega, Susan L. Still, Takao Doi, and Frederick “Rick” W. Sturckow; back row, Janet L. Kavandi, left, Edward T. Lu, Steven K. Robinson, Robert L. Curbeam, Dominic L.P. Gorie, Joe F. Edwards, Steven W. Lindsey, and Jean-Loup Chrétien.](https://www.nasa.gov/wp-content/uploads/2024/12/group-15-1-group-portrait.jpg?w=1020)
+article 21 hours ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/)[![The Group 15 NASA and international astronaut candidates pose for a group photo – front row, Jeffrey S. Ashby, left, Dafydd “Dave” R. Williams, James F. Reilly, Scott D. Altman, Rick D. Husband, and Michael J. Bloomfield; middle row, Pamela A. Melroy, left, Michael P. Anderson, Michel Tognini, Kathryn “Kay” P. Hire, Kalpana Chawla, Carlos I. Noriega, Susan L. Still, Takao Doi, and Frederick “Rick” W. Sturckow; back row, Janet L. Kavandi, left, Edward T. Lu, Steven K. Robinson, Robert L. Curbeam, Dominic L.P. Gorie, Joe F. Edwards, Steven W. Lindsey, and Jean-Loup Chrétien.](https://www.nasa.gov/wp-content/uploads/2024/12/group-15-1-group-portrait.jpg?w=1020)
 
 17 min read
 
@@ -313,13 +313,13 @@ article 4 days ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-sw
 
 ### NASA Kennedy Top 24 Stories of 2024
 
-article 19 hours ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/)[![Perseverance view from the top](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26511-perseverances-view-from-the-top-16.jpg?w=1024)
+article 21 hours ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/)[![Perseverance view from the top](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26511-perseverances-view-from-the-top-16.jpg?w=1024)
 
 5 min read
 
 ### NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
 
-article 22 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/)[![NASA’s Ingenuity Mars Helicopter](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26238-ingentuity-ripples-cropped.jpg?w=1024)
+article 24 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/)[![NASA’s Ingenuity Mars Helicopter](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26238-ingentuity-ripples-cropped.jpg?w=1024)
 
 5 min read
 
@@ -335,13 +335,13 @@ article 2 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/ingenui
 
 ### Hubble Images a Grand Spiral
 
-article 2 hours ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Roman Integrated Payload Assembly](https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy-2.jpg?w=819)
+article 4 hours ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Roman Integrated Payload Assembly](https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy-2.jpg?w=819)
 
 4 min read
 
 ### NASA Successfully Integrates Roman Mission’s Telescope, Instruments
 
-article 23 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-roman-missions-telescope-instruments/)[![Found: First Actively Forming Galaxy as Lightweight as Young Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JD0MVRQ4ANVGZJV5PM1Z7AJM-1K.png)
+article 1 day ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-roman-missions-telescope-instruments/)[![Found: First Actively Forming Galaxy as Lightweight as Young Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JD0MVRQ4ANVGZJV5PM1Z7AJM-1K.png)
 
 6 min read
 
@@ -357,19 +357,19 @@ article 2 days ago](https://science.nasa.gov/missions/webb/found-first-actively-
 
 ### Hubble Images a Grand Spiral
 
-article 2 hours ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Amendment 82: A.48 Commercial Satellite Data Earth Science and Applications Final Text and Due Dates Released](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/svs/a000000/a004700/a004745/landsat_w_sentinel_v2_ls8ls9sAsB_fade_08_60fps_4k_3240_print.jpg)
+article 4 hours ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Amendment 82: A.48 Commercial Satellite Data Earth Science and Applications Final Text and Due Dates Released](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/svs/a000000/a004700/a004745/landsat_w_sentinel_v2_ls8ls9sAsB_fade_08_60fps_4k_3240_print.jpg)
 
 2 min read
 
 ### Amendment 82: A.48 Commercial Satellite Data Earth Science and Applications Final Text and Due Dates Released
 
-article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-82-a-48-commercial-satellite-data-earth-science-and-applications-final-text-and-due-dates-released/)[![Perseverance view from the top](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26511-perseverances-view-from-the-top-16.jpg?w=1024)
+article 22 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-82-a-48-commercial-satellite-data-earth-science-and-applications-final-text-and-due-dates-released/)[![Perseverance view from the top](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26511-perseverances-view-from-the-top-16.jpg?w=1024)
 
 5 min read
 
 ### NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
 
-article 22 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/)
+article 24 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 22 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perse
 
 ### Dynamic Spin Rig
 
-article 19 hours ago](https://www.nasa.gov/dynamic-spin-rig/)[![An atmospheric probe model carried by a quad rotor aircraft rises and the Moon is visible.](https://images-assets.nasa.gov/image/AFRC2024-0166-032/AFRC2024-0166-032~large.jpg?w=1919&h=1281&fit=clip&crop=faces%2Cfocalpoint)
+article 21 hours ago](https://www.nasa.gov/dynamic-spin-rig/)[![An atmospheric probe model carried by a quad rotor aircraft rises and the Moon is visible.](https://images-assets.nasa.gov/image/AFRC2024-0166-032/AFRC2024-0166-032~large.jpg?w=1919&h=1281&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
@@ -401,7 +401,7 @@ article 3 days ago](https://www.nasa.gov/aeronautics/drones/delivering-closer-to
 
 ### NASA Gives The World a Brake
 
-article 22 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/)[![Researchers Al Capps (seated) and Paul Borchers demonstrate Airspace Technology Demonstration 2 (ATD-2) tools that air traffic managers began testing in 2017.](https://www.nasa.gov/wp-content/uploads/2021/09/dsc_0007.jpg?w=1024)
+article 24 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/)[![Researchers Al Capps (seated) and Paul Borchers demonstrate Airspace Technology Demonstration 2 (ATD-2) tools that air traffic managers began testing in 2017.](https://www.nasa.gov/wp-content/uploads/2021/09/dsc_0007.jpg?w=1024)
 
 3 min read
 
