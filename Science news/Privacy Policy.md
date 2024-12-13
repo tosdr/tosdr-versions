@@ -90,23 +90,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Humans
         ----------------------
         
-        * [Genetics](https://www.sciencenews.org/topic/genetics)
+        * [Space](https://www.sciencenews.org/topic/space)
             
-            ### [Neandertal genes in people today came from hook-ups around 47,000 years ago](https://www.sciencenews.org/article/neandertal-mate-people-47000-years-ago)
+            ### [These discoveries in 2024 could be groundbreaking — if they’re true](https://www.sciencenews.org/article/2024-science-discoveries-could-be-true)
             
-            By [McKenzie Prillaman](https://www.sciencenews.org/author/mckenzie-prillaman "Posts by McKenzie Prillaman")20 hours ago
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [These are the viruses that defined 2024](https://www.sciencenews.org/article/the-viruses-that-defined-2024)
-            
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")23 hours ago
+            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")43 minutes ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [The benefits of Ozempic and its kin may extend far beyond weight loss](https://www.sciencenews.org/article/benefits-ozempic-weight-loss-glp1)
+            ### [Cancer screening and quitting smoking have saved nearly 6 million lives](https://www.sciencenews.org/article/cancer-screening-save-6-million-lives)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")December 11, 2024
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")3 hours ago
+            
+        * [Anthropology](https://www.sciencenews.org/topic/anthropology)
+            
+            ### [Humans have linked emotions to the same body parts for 3,000 years](https://www.sciencenews.org/article/link-emotions-body-parts-3000-years)
+            
+            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")5 hours ago
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -120,23 +120,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Life
         --------------------
         
+        * [Anthropology](https://www.sciencenews.org/topic/anthropology)
+            
+            ### [Humans have linked emotions to the same body parts for 3,000 years](https://www.sciencenews.org/article/link-emotions-body-parts-3000-years)
+            
+            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")5 hours ago
+            
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [The ‘Blob,’ an unprecedented marine heat wave, killed 4 million seabirds](https://www.sciencenews.org/article/blob-marine-heat-wave-killed-seabirds)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")20 hours ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")December 12, 2024
             
         * [Genetics](https://www.sciencenews.org/topic/genetics)
             
             ### [Neandertal genes in people today came from hook-ups around 47,000 years ago](https://www.sciencenews.org/article/neandertal-mate-people-47000-years-ago)
             
-            By [McKenzie Prillaman](https://www.sciencenews.org/author/mckenzie-prillaman "Posts by McKenzie Prillaman")20 hours ago
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [The screams of thirsty plants may prompt some moths to lay eggs elsewhere](https://www.sciencenews.org/article/thirsty-plant-screams-moths-lay-eggs)
-            
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")December 11, 2024
+            By [McKenzie Prillaman](https://www.sciencenews.org/author/mckenzie-prillaman "Posts by McKenzie Prillaman")December 12, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -201,21 +201,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         
         * [Space](https://www.sciencenews.org/topic/space)
             
+            ### [These discoveries in 2024 could be groundbreaking — if they’re true](https://www.sciencenews.org/article/2024-science-discoveries-could-be-true)
+            
+            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")43 minutes ago
+            
+        * [Space](https://www.sciencenews.org/topic/space)
+            
             ### [The 2024 eclipse gave a rare view of the sun. Here’s a peek at early data](https://www.sciencenews.org/article/2024-eclipse-sun-early-data-corona)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")46 minutes ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")7 hours ago
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
             ### [NASA’s Perseverance rover found a new potential setting for Martian life](https://www.sciencenews.org/article/nasa-perseverance-rover-potential-life-setting)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")16 hours ago
-            
-        * [Space](https://www.sciencenews.org/topic/space)
-            
-            ### [Space missions spanned the solar system in 2024](https://www.sciencenews.org/article/space-missions-in-2024-recap)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")December 6, 2024
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")22 hours ago
             
 
 Privacy Policy
