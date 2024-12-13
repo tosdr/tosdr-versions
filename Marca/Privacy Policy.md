@@ -3,8 +3,8 @@
 * Es noticia:
 * [Madrid baloncesto](https://www.marca.com/baloncesto/euroliga/real-madrid-zalgiris-kaunas/2024/12/12/02_0203_20241212_6210_6397-directo.html)
 * [Real Sociedad](https://www.marca.com/futbol/europa-league/real-sociedad-dinamo-kiev/2024/12/12/01_0104_20241212_188_194-directo.html)
-* [Barcelona femenino](https://www.marca.com/futbol/champions-league-femenina/hammarby-barcelona/2024/12/12/01_0183_20241212_13159_9121-directo.html)
-* [Petrocub - Betis](https://www.marca.com/futbol/conference-league/petrocub-hincesti-betis/2024/12/12/01_01105_20241212_10593_185-directo.html)
+* [Dinero Copa](https://www.marca.com/futbol/copa-rey/2024/12/13/cara-oculta-copa-dinero-dejo-real-madrid-arcas.html)
+* [James Rodriguez](https://www.marca.com/futbol/rayo/2024/12/12/james-marca-madrid-feliz-me-falto-quedarme-dos-anos.html)
 * [Sedes Mundial 2026](https://www.marca.com/futbol/mundial/2024/12/12/mundial-2026-repartido-tres-paises-diferentes.html)
 * [Sorteo Mundial 2026](https://www.marca.com/futbol/mundial/2024/12/12/sorteo-mundial-2026-funciona-bombos-quienes-son-cabezas-serie.html)
 * [F1 2026](https://www.marca.com/motor/formula1/2024/12/12/f1-2026-aqui.html)
