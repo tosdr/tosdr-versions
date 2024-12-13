@@ -296,7 +296,7 @@ Visit & Event Tickets
 
 Please read these terms and conditions of sale before placing an order.
 
-[Learn More](https://bletchleypark.org.uk/terms-and-conditions/visit-and-event-tickets/)
+[Learn More](http://bletchleypark.org.uk/terms-and-conditions/visit-and-event-tickets/)
 
 ![](https://bletchleypark.org.uk/wp-content/uploads/2021/07/09_Module_BLP-026-2_web_1542x925-945x700.jpg)
 
@@ -307,7 +307,7 @@ Groups
 
 Terms and conditions for groups visiting Bletchley Park.
 
-[Learn More](https://bletchleypark.org.uk/terms-and-conditions/groups/)
+[Learn More](http://bletchleypark.org.uk/terms-and-conditions/groups/)
 
 ![](https://bletchleypark.org.uk/wp-content/uploads/2021/07/01_Module_778A7842-2_2000x1120_Tiny-945x700.png)
 
@@ -318,7 +318,7 @@ Friends
 
 Read the terms and conditions for the Friends of Bletchley Park here.
 
-[Learn More](https://bletchleypark.org.uk/terms-and-conditions/friends-of-bletchley-park/)
+[Learn More](http://bletchleypark.org.uk/terms-and-conditions/friends-of-bletchley-park/)
 
 ![](https://bletchleypark.org.uk/wp-content/uploads/2021/07/bletchley_friends_terms_1-1-945x700.jpg)
 
@@ -329,7 +329,7 @@ Learning
 
 Please read these terms and conditions before you book.
 
-[Learn More](https://bletchleypark.org.uk/terms-and-conditions/learning-department/)
+[Learn More](http://bletchleypark.org.uk/terms-and-conditions/learning-department/)
 
 ![](https://bletchleypark.org.uk/wp-content/uploads/2021/07/01_Module_Higher-Education_Learning-group_2000x1120-945x700.jpg)
 
@@ -340,7 +340,7 @@ Website
 
 These relate to the use of the bletchleypark.org.uk website by you.
 
-[Learn More](https://bletchleypark.org.uk/terms-and-conditions/website/)
+[Learn More](http://bletchleypark.org.uk/terms-and-conditions/website/)
 
 ![](https://bletchleypark.org.uk/wp-content/uploads/2021/06/01_Module_Block-B-Museum_header_2000x1120-1-945x700.jpg)
 
@@ -351,13 +351,13 @@ Gift Acceptance and
 
 Our policy on Gift Acceptance and Ethical Fundraising
 
-[Learn More](https://bletchleypark.org.uk/terms-and-conditions/ethical-fundraising-policy/)
+[Learn More](http://bletchleypark.org.uk/terms-and-conditions/ethical-fundraising-policy/)
 
 ![](https://bletchleypark.org.uk/wp-content/uploads/2022/02/2000-x-1200-images5-945x700.jpg)
 
 [Tickets](https://bletchleypark.org.uk/book-now/) [Plan a Visit](https://bletchleypark.org.uk/plan-a-visit/) [Support](https://bletchleypark.org.uk/support-us/)
 
-[Contact / Find Us](https://bletchleypark.org.uk/contact-us/)
+[Contact / Find Us](http://bletchleypark.org.uk/contact-us/)
 
 The Mansion, Bletchley Park, Sherwood Drive, Bletchley, Milton Keynes, MK3 6EB
 
