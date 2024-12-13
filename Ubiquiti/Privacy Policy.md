@@ -82,6 +82,7 @@ Privacy Policy
 * [Privacy Policy](https://www.ui.com/legal/privacypolicy/)
 * [Limited Warranty](https://www.ui.com/support/warranty/)
 * [Ubiquiti Services General Terms and Conditions](https://www.ui.com/legal/services-terms/)
+* [UniFi Professional Integrators Terms and Conditions](https://www.ui.com/legal/unifi/termsandconditions/)
 * Store Terms and Conditions
     
 
