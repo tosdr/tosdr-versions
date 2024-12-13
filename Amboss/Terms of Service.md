@@ -525,15 +525,15 @@ LEGAL
 
 [](https://www.amboss.com/us/legal/terms-v1)
 
-[Legal Notice](https://www.amboss.com/us/legal/legal-notice)
-
-[General Terms of Use](https://www.amboss.com/us/legal/terms)
-
-[](https://www.amboss.com/us/legal/applicants)
+[General Privacy Policy](https://www.amboss.com/us/legal/privacy)
 
 [](https://www.amboss.com/us/legal/social-media)
 
-[General Privacy Policy](https://www.amboss.com/us/legal/privacy)
+[](https://www.amboss.com/us/legal/applicants)
+
+[General Terms of Use](https://www.amboss.com/us/legal/terms)
+
+[Legal Notice](https://www.amboss.com/us/legal/legal-notice)
 
 [Privacy Settings](#)
 
