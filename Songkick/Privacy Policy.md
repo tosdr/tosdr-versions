@@ -3,20 +3,24 @@
         
         [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city) [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city "Jersey City concerts")
         
+        *  [![System of a Down Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) System of a Down  
+            MetLife Stadium](https://www.songkick.com/concerts/42319490-system-of-a-down-at-metlife-stadium)
         *  [![Kendrick Lamar Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Kendrick Lamar  
             MetLife Stadium](https://www.songkick.com/concerts/42310081-kendrick-lamar-at-metlife-stadium)
         *  [![Billy Joel Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Billy Joel  
             MetLife Stadium](https://www.songkick.com/concerts/42314317-billy-joel-at-metlife-stadium)
-        *  [![Styx Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Styx  
-            PNC Bank Arts Center](https://www.songkick.com/concerts/42316763-styx-at-pnc-bank-arts-center)
+        *  [![Toto Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Toto  
+            PNC Bank Arts Center](https://www.songkick.com/concerts/42322830-toto-at-pnc-bank-arts-center)
+        *  [![Nelly Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Nelly  
+            PNC Bank Arts Center](https://www.songkick.com/concerts/42320665-nelly-at-pnc-bank-arts-center)
         *  [![Vundabar Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Vundabar  
             White Eagle Hall](https://www.songkick.com/concerts/42309197-vundabar-at-white-eagle-hall)
+        *  [![Styx Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Styx  
+            PNC Bank Arts Center](https://www.songkick.com/concerts/42316763-styx-at-pnc-bank-arts-center)
+        *  [![Keith Urban Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Keith Urban  
+            PNC Bank Arts Center](https://www.songkick.com/concerts/42321120-keith-urban-at-pnc-bank-arts-center)
         *  [![Murphy's Law Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Murphy's Law  
             White Eagle Hall](https://www.songkick.com/concerts/42309204-murphys-law-at-white-eagle-hall)
-        *  [![Richard Thompson Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Richard Thompson  
-            White Eagle Hall](https://www.songkick.com/concerts/42288262-richard-thompson-at-white-eagle-hall)
-        *  [![Mekons Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mekons  
-            White Eagle Hall](https://www.songkick.com/concerts/42285217-mekons-at-white-eagle-hall)
         
         [](https://www.songkick.com/metro-areas/4690-us-jersey-city)See all Jersey City concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
