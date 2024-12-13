@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: Turnabout Trump (9,221)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (9,221 posts)")
-* [Guess what BN's real name is - Ehrman… (203)](https://forum.nationstates.net/viewtopic.php?t=557940&f=25&view=unread#unread ""Guess what BN's real name is - Ehrmantraut series" (203 posts)")
-* [911, what is your \[not\] emergency? (1,254)](https://forum.nationstates.net/viewtopic.php?t=554757&f=25&view=unread#unread ""911, what is your [not] emergency?" (1,254 posts)")
-* [What is the most surprising thing abo… (60)](https://forum.nationstates.net/viewtopic.php?t=559389&f=25&view=unread#unread ""What is the most surprising thing about AN?" (60 posts)")
-* [Guess AU irl political views (REVIVAL) (24)](https://forum.nationstates.net/viewtopic.php?t=559015&f=25&view=unread#unread ""Guess AU irl political views (REVIVAL)" (24 posts)")
+* [\[Q\] What happened to Jim Folsom? (1)](https://forum.nationstates.net/viewtopic.php?t=559614&f=16&view=unread#unread ""[Q] What happened to Jim Folsom?" (1 post)")
+* [Tiami's Endless Tacos (2,718)](https://forum.nationstates.net/viewtopic.php?t=558437&f=20&view=unread#unread ""Tiami's Endless Tacos" (2,718 posts)")
+* [Out of the 2 AN’s: Which one has the… (5,219)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (5,219 posts)")
+* [New Civilizations \[OOC | Always Open\] (824)](https://forum.nationstates.net/viewtopic.php?t=544468&f=31&view=unread#unread ""New Civilizations [OOC | Always Open]" (824 posts)")
+* [Agree or Disagree III (12,451)](https://forum.nationstates.net/viewtopic.php?t=516044&f=25&view=unread#unread ""Agree or Disagree III" (12,451 posts)")
 
 Advertisement
 
