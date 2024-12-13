@@ -140,90 +140,73 @@ Global Navigation
 * [Garbage, recycling, and compost services](https://www.kingcounty.gov/en/dept/dnrp/waste-services/garbage-recycling-compost/services)
 * [Compost and yard waste](https://www.kingcounty.gov/en/dept/dnrp/waste-services/garbage-recycling-compost/services/food-yard-waste)
 
-[.](https://www.kingcounty.gov/en/legacy)
-
-* [What are legacy pages?](https://www.kingcounty.gov/en/legacy)
-* [How do I...](https://www.kingcounty.gov/en/legacy/how-do-i)
-* [Services](https://www.kingcounty.gov/en/legacy/services)
-* [About King County](https://www.kingcounty.gov/en/legacy/about)
-* [Departments](https://www.kingcounty.gov/en/legacy/depts)
+1. [Home](https://www.kingcounty.gov/en/)
+2. Terms of use
 
 Terms of use
 ============
 
-[Skip to main content](#main-content-sr)
+Please read these terms of use carefully before using this King County website or mobile application (“App”). 
 
-[About King County](https://kingcounty.gov/en/legacy/about.aspx "About King County") [Website](https://kingcounty.gov/en/legacy/about/website.aspx "Website")
-
-[Accessibility](https://kingcounty.gov/en/legacy/about/website/accessibility.aspx "Accessibility") [Comments policy](https://kingcounty.gov/en/legacy/about/website/comments.aspx "Comments policy") [Privacy](https://kingcounty.gov/en/legacy/about/website/privacy.aspx "Privacy") [Software help](https://kingcounty.gov/en/legacy/about/website/software-help.aspx "Software help") [Terms of use](https://kingcounty.gov/en/legacy/about/website/termsOfUse.aspx "Terms of use")
-
-[Transparency](https://kingcounty.gov/en/legacy/about/website/Transparency.aspx "Transparency of data")
-
- Menu
-
-1. [Home](https://kingcounty.gov/en/legacy/ "Home")
-2. [About King County](https://kingcounty.gov/en/legacy/about.aspx "About King County")
-3. [Website](https://kingcounty.gov/en/legacy/about/website.aspx "Website")
-4. Terms of use
-
-Terms of use
-============
-
-Please read these terms of use (Terms) carefully before using this King County website or mobile application (“App”).  By accessing or using the website or App, you agree that you have read and understood, and, as a condition to your use of the website or App, you agree to be bound by the following Terms of Use (“Terms”), including King County’s Privacy Policy.  Your use of the site or App, constitutes an agreement between you and King County and you agree to be bound by these terms.
+By accessing or using the website or App, you agree that you have read and understood, and, as a condition to your use of the website or App, you agree to be bound by the following Terms of Use (“Terms”), including King County’s Privacy Policy.  Your use of the site or App, constitutes an agreement between you and King County and you agree to be bound by these terms.
 
 General
 -------
 
-King County has several different websites and mobile applications, (or “Apps”), and various other technologies such as chatbots and voice assistants.
-
+King County has several different websites and mobile applications, (or “Apps”), and various other technologies such as chatbots and voice assistants.  
+  
 King County websites and Apps are owned and operated by King County and are used to provide many types of information. By using King County’s websites and Apps you acknowledge and agree to comply with these Terms, the King County Privacy Policy, and all applicable laws in connection with King County’s copyright, trademark and other intellectual property rights. If you do not agree, you should not access or use this website or any App.
 
 Use of information
 ------------------
 
-King County reserves the right, and you authorize King County, to the use and assignment of all information regarding Website and Apps uses by you and all information provided by you in any manner consistent with our Privacy Policy. All remarks, suggestions, ideas, graphics, photographs, or other information communicated by You to King County through the Website and Apps (collectively, the "Submission") will forever be the property of King County.  King County will not be required to treat any Submission as confidential.  With regard to any information you provide to King County, you agree and consent to King County using, transferring to any King County department or third party, and retaining such information as needed in conducting King County’s official business.   Any information you provide to King County may be subject to public disclosure in accordance with the Washington Public Records Act or other local state or federal laws, rules and/or regulations. 
+King County reserves the right, and you authorize King County, to the use and assignment of all information regarding Website and Apps uses by you and all information provided by you in any manner consistent with our Privacy Policy. All remarks, suggestions, ideas, graphics, photographs, or other information communicated by You to King County through the Website and Apps (collectively, the "Submission") will forever be the property of King County.  King County will not be required to treat any Submission as confidential.  With regard to any information you provide to King County, you agree and consent to King County using, transferring to any King County department or third party, and retaining such information as needed in conducting King County’s official business.   Any information you provide to King County may be subject to public disclosure in accordance with the Washington Public Records Act or other local state or federal laws, rules and/or regulations.   
+  
 
 Changes
 -------
 
-King County, in its sole discretion, may modify these Terms, or add or remove terms at any time and such modifications, additions or deletions will be effective immediately upon posting. King County may change or discontinue any aspect, feature or service of the websites or Apps at any time, temporarily or permanently, with or without notice.
+King County, in its sole discretion, may modify these Terms, or add or remove terms at any time and such modifications, additions or deletions will be effective immediately upon posting. King County may change or discontinue any aspect, feature or service of the websites or Apps at any time, temporarily or permanently, with or without notice.  
+  
 
 Restrictions on use
 -------------------
 
-The content of King County’s websites, and Apps including all text, graphics, compilations, data, and other documentation, is the property of King County and is protected by copyright law. You may not publish, display, distribute or commercially exploit any of the web or App content or the website without the prior written permission of King County.
+The content of King County’s websites, and Apps including all text, graphics, compilations, data, and other documentation, is the property of King County and is protected by copyright law. You may not publish, display, distribute or commercially exploit any of the web or App content or the website without the prior written permission of King County.  
+  
 
 Indemnification by user
 -----------------------
 
-You will defend King County against any claim, demand, suit, or proceeding made or brought against King County by a third party alleging that any data you use in conjunction with  any websites or any App(s), or your use of any service or content in breach of this Agreement, infringes or misappropriates such third party’s intellectual property rights or violates any law (a “Claim Against King County”), and you will indemnify King County from any damages, attorney fees and costs incurred by King County as a result of, or for any amounts paid by King County under a court-approved settlement of, a Claim Against King County, provided King County (a) promptly gives you written notice of the Claim Against King County, (b) gives you sole control of the defense and settlement of the Claim Against King County (except that you may not settle any Claim Against King County unless it unconditionally releases King County of all liability), and (c) gives you all reasonable assistance, at your expense.
+You will defend King County against any claim, demand, suit, or proceeding made or brought against King County by a third party alleging that any data you use in conjunction with  any websites or any App(s), or your use of any service or content in breach of this Agreement, infringes or misappropriates such third party’s intellectual property rights or violates any law (a “Claim Against King County”), and you will indemnify King County from any damages, attorney fees and costs incurred by King County as a result of, or for any amounts paid by King County under a court-approved settlement of, a Claim Against King County, provided King County (a) promptly gives you written notice of the Claim Against King County, (b) gives you sole control of the defense and settlement of the Claim Against King County (except that you may not settle any Claim Against King County unless it unconditionally releases King County of all liability), and (c) gives you all reasonable assistance, at your expense.  
+  
 
 Disclaimer of warranty; limitation of liability
 -----------------------------------------------
 
-King County attempts to provide the best service available, but situations will occur that disrupt service or cause inaccurate information to be posted. The material presented on this website is not guaranteed as to accuracy, completeness, reliability, usefulness, or timeliness. The provision of the website depends on a number of items, including Internet availability, communications networks, and computer equipment which are beyond the control of King County and difficult to predict. The information on this website or in any App is not intended to constitute advice nor is it to be used as a substitute for specific advice from a professional. You should not act (or refrain from acting) based upon the information on this website without independently verifying the information and, as necessary, obtaining professional advice regarding your particular facts and circumstances. Those relying on information presented on this website or in any App(s) do so at their own risk. You assume the risk that the information provided may be incorrect, as well as the risk that any information or material downloaded by you may cause loss of data or damage to your computer systems and neither King County, nor any of its officials, employees or agents shall be liable for either the accuracy of this information or any actions taken based on the information. King County does not represent that the use of any information will not infringe privately owned rights.
-
-All information on this website is provided "as is", “with all faults” and “as available” without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, accuracy, or non-infringement nor shall the distribution of this information constitute any warranty. King County assumes no responsibility for errors or omissions in the information or software or other documents which are referenced by or linked to this website. To the fullest extent permissible under applicable law, under no circumstances, including, but not limited to, negligence, shall King County, its officials and employees, or any contributor to this website be liable for any direct or indirect damages, even if both parties are aware of the possibility of such damages, including without limitation loss of profits or for any other incidental, special, consequential or exemplary damages, however caused, whether based upon contract, negligence, strict liability in tort, warranty, or any other legal theory, arising out of or related to your use of, or the inability to use, this website or its content. King County is not responsible for or liable for any damage, including damage caused by viruses, to your computer, computer system, or other property, during or on account of access or use of this website or any sites to which this website provides links. We welcome feedback on the website at [kingcounty.gov](https://kingcounty.gov/en/), but provide no guarantee that feedback will result in site changes. If you are dissatisfied in any way with any of these terms of use, your sole and exclusive remedy is to discontinue use of this website.
+King County attempts to provide the best service available, but situations will occur that disrupt service or cause inaccurate information to be posted. The material presented on this website is not guaranteed as to accuracy, completeness, reliability, usefulness, or timeliness. The provision of the website depends on a number of items, including Internet availability, communications networks, and computer equipment which are beyond the control of King County and difficult to predict. The information on this website or in any App is not intended to constitute advice nor is it to be used as a substitute for specific advice from a professional. You should not act (or refrain from acting) based upon the information on this website without independently verifying the information and, as necessary, obtaining professional advice regarding your particular facts and circumstances. Those relying on information presented on this website or in any App(s) do so at their own risk. You assume the risk that the information provided may be incorrect, as well as the risk that any information or material downloaded by you may cause loss of data or damage to your computer systems and neither King County, nor any of its officials, employees or agents shall be liable for either the accuracy of this information or any actions taken based on the information. King County does not represent that the use of any information will not infringe privately owned rights.  
+  
+All information on this website is provided "as is", “with all faults” and “as available” without warranty of any kind, either express or implied, including, but not limited to, the implied warranties of merchantability, fitness for a particular purpose, accuracy, or non-infringement nor shall the distribution of this information constitute any warranty. King County assumes no responsibility for errors or omissions in the information or software or other documents which are referenced by or linked to this website. To the fullest extent permissible under applicable law, under no circumstances, including, but not limited to, negligence, shall King County, its officials and employees, or any contributor to this website be liable for any direct or indirect damages, even if both parties are aware of the possibility of such damages, including without limitation loss of profits or for any other incidental, special, consequential or exemplary damages, however caused, whether based upon contract, negligence, strict liability in tort, warranty, or any other legal theory, arising out of or related to your use of, or the inability to use, this website or its content. King County is not responsible for or liable for any damage, including damage caused by viruses, to your computer, computer system, or other property, during or on account of access or use of this website or any sites to which this website provides links. We welcome feedback on the website at kingcounty.gov, but provide no guarantee that feedback will result in site changes. If you are dissatisfied in any way with any of these terms of use, your sole and exclusive remedy is to discontinue use of this website.  
+  
 
 Links to other sites and/or materials
 -------------------------------------
 
-King County provides links to Internet sites and data maintained by third parties. These links are provided as a courtesy and convenience to you. King County does not operate or control any of these sites, and cannot be responsible for their content, availability or accuracy. Moreover, in no way should an external link be considered any form of endorsement by King County. If you leave King County’s website or App for a third-party website or App, you do so at your own risk.
+King County provides links to Internet sites and data maintained by third parties. These links are provided as a courtesy and convenience to you. King County does not operate or control any of these sites, and cannot be responsible for their content, availability or accuracy. Moreover, in no way should an external link be considered any form of endorsement by King County. If you leave King County’s website or App for a third-party website or App, you do so at your own risk.  
+  
 
 Right to privacy
 ----------------
 
-King County, as a government entity, conducts public business and records related to the business of King County are generally available for public review. King County is committed, to the extent allowable by law, to protect and secure personal information contained in King County records. This privacy commitment must be balanced with the rights of public access under chapter 42.56 RCW, Washington Public Records Act, consistent with chapter 2.14 of the King County Code and any other applicable federal, state, and local statute or regulation.
-
-You may [access the King County Privacy Policy here](https://kingcounty.gov/en/legacy/about/website/privacy).
-
-Personal Information, as defined in the Privacy Policy, collected from you on this website or in King County Apps will be used for the purpose for which it is provided. For example, if you submit an email address or phone number, we may use that information to contact you. However, by accessing and using this website, you agree to the conditions set forth below. If you do not agree, you should not use this website:
+King County, as a government entity, conducts public business and records related to the business of King County are generally available for public review. King County is committed, to the extent allowable by law, to protect and secure personal information contained in King County records. This privacy commitment must be balanced with the rights of public access under chapter 42.56 RCW, Washington Public Records Act, consistent with chapter 2.14 of the King County Code and any other applicable federal, state, and local statute or regulation.  
+  
+Personal Information, as defined in the [Privacy Policy](https://www.kingcounty.gov/sitecore/service/notfound.aspx?item=web%3a%7bE27D623F-9D74-4426-B6A6-501326E1886C%7d%40en), collected from you on this website or in King County Apps will be used for the purpose for which it is provided. For example, if you submit an email address or phone number, we may use that information to contact you. However, by accessing and using this website, you agree to the conditions set forth below. If you do not agree, you should not use this website:
 
 * **Conducting customer satisfaction surveys:** To gauge your satisfaction with the level of customer service that you received and improve our ability to provide such customer service, King County may from time to time use the information provided by you through this website to conduct brief customer satisfaction surveys.
-* **Service analytics**: King County will use de-identified information (information provided by you with all personally identifying information removed) to analyze various aspects related to this website, including but not limited to, website performance statistics and customer service statistics.
+* **Service analytics:** King County will use de-identified information (information provided by you with all personally identifying information removed) to analyze various aspects related to this website, including but not limited to, website performance statistics and customer service statistics.
 * **Contact Us:** King County uses Contact Us Forms located throughout our websites to allow you to contact us directly with any questions, comments, or requests you may have. This information is used to respond to your questions, comments, and requests.
 * **Email Registration:** You have the opportunity to subscribe to receive regular emails from King County while visiting our websites. When signing up for email you may be asked to provide certain details, such as email address, name, country, and preferences. The information you provide will be used to deliver email to you. If at any time you no longer wish to be a part of that email list, you may unsubscribe by clicking Unsubscribe within the email.
-* **Mobile Apps.** King County offers various Apps for mobile devices, including Apps for phones and tablets. Full access to all the features within these applications may require the creation of an account. County Mobile Apps may track information about what features of the App you use and your usage patterns.
+* **Mobile Apps:** King County offers various Apps for mobile devices, including Apps for phones and tablets. Full access to all the features within these applications may require the creation of an account. County Mobile Apps may track information about what features of the App you use and your usage patterns.
 
 Website and App interactive use restrictions
 --------------------------------------------
@@ -233,29 +216,64 @@ The websites and Apps may contain comments sections, discussion forums or other 
 * Post any information that is illegal, harmful, abusive, defamatory, harassing, threatening, obscene, libelous, or racially, sexually, religiously otherwise objectionable and offensive or violates the legal rights of others;
 * Misrepresent one's person, background, or character;
 * Sell, advertise, or exchange any goods or services unless expressly allowed;
-* Post any material  that violates the intellectual property or proprietary rights of a third party;
+* Post any material  that violates the intellectual property or proprietary rights of a third party;
 * Interfere with any other person’s right to privacy, including posting private, personal information about a third party without consent;
 * Post any content that is off topic;
 * Post content that violates any law, whether or not the violation is intentional.
 
-Also, you agree to use any of King County forums at your own risk. While championing proper use of such forums, King County cannot guarantee that violations of the above will not occur.
-
-Communications and/ or postings on this website may be moderated. Comments, posts, and communications that violate the above will be removed, and offending individuals may be denied future access to the website.
+Also, you agree to use any of King County forums at your own risk. While championing proper use of such forums, King County cannot guarantee that violations of the above will not occur.  
+  
+Communications and/ or postings on this website may be moderated. Comments, posts, and communications that violate the above will be removed, and offending individuals may be denied future access to the website.  
+  
 
 Cookies
 -------
 
-King County websites use cookies to track information. This includes information about pages viewed, frequency of visit, country of visit, and the user navigation around King County websites. Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version.
+King County websites use cookies to track information. This includes information about pages viewed, frequency of visit, country of visit, and the user navigation around King County websites. Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version.  
+  
+King County may use cookies when you sign into an account. As long as you stay signed into your account, this cookie will remain on your device. When you sign out of your account, this cookie is removed.
 
-* King County may use cookies when you sign into an account. As long as you stay signed into your account, this cookie will remain on your device. When you sign out of your account, this cookie is removed.
-* King County uses cookies to track anonymous statistical information about how you use our site(s). This helps King County know which areas of the site are most effective, the areas that may need improvement, and use this information to help inform how King County can better serve you. King County uses third parties to set these cookies. King County does not use these cookies for any purpose other than stated.
+King County uses cookies to track anonymous statistical information about how you use our site(s). This helps King County know which areas of the site are most effective, the areas that may need improvement, and use this information to help inform how King County can better serve you. King County uses third parties to set these cookies. King County does not use these cookies for any purpose other than stated.
 
 Miscellaneous
 -------------
 
-These terms of use constitute the entire agreement between you and King County with respect to the subject matter hereof and supersedes all previous written or oral agreements, if any, between you and King County with respect to such subject matter. These terms of use shall be construed in accordance with the laws of the State of Washington as well as with all federal law and regulations, without regard to its conflict of laws provisions. You consent to the exclusive jurisdiction of the state and federal courts in King County, Washington in all disputes arising out of or related to these terms of use and the use of this website. The invalidity of any term or provision of these terms will not affect the validity of any other term or provision. Waiver by King County of strict performances of any provision of these terms will not be a waiver of or prejudice King County's right to require strict performance of the same provision in the future or of any other provision of these terms. No waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default. The section headings used herein are for convenience only and shall not be given any legal import. Comments or questions about this website or the terms of use should be directed to [webteam@kingcounty.gov](mailto:webteam@kingcounty.gov).
+These terms of use constitute the entire agreement between you and King County with respect to the subject matter hereof and supersedes all previous written or oral agreements, if any, between you and King County with respect to such subject matter. These terms of use shall be construed in accordance with the laws of the State of Washington as well as with all federal law and regulations, without regard to its conflict of laws provisions. You consent to the exclusive jurisdiction of the state and federal courts in King County, Washington in all disputes arising out of or related to these terms of use and the use of this website. The invalidity of any term or provision of these terms will not affect the validity of any other term or provision. Waiver by King County of strict performances of any provision of these terms will not be a waiver of or prejudice King County's right to require strict performance of the same provision in the future or of any other provision of these terms. No waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default.
 
- 
+The section headings used herein are for convenience only and shall not be given any legal import.
+
+Comments or questions about this website or the terms of use should be [sent through the Contact Us form, with the "website" category selected](https://blue.kingcounty.gov/about/contact/).
+
+Related Topics
+--------------
+
+* [Index](https://www.kingcounty.gov/en/index)
+* [A](https://www.kingcounty.gov/en/index/#A)
+* [B](https://www.kingcounty.gov/en/index/#B)
+* [C](https://www.kingcounty.gov/en/index/#C)
+* [D](https://www.kingcounty.gov/en/index/#D)
+* [E](https://www.kingcounty.gov/en/index/#E)
+* [F](https://www.kingcounty.gov/en/index/#F)
+* [G](https://www.kingcounty.gov/en/index/#G)
+* [H](https://www.kingcounty.gov/en/index/#H)
+* [I](https://www.kingcounty.gov/en/index/#I)
+* [J](https://www.kingcounty.gov/en/index/#J)
+* [K](https://www.kingcounty.gov/en/index/#K)
+* [L](https://www.kingcounty.gov/en/index/#L)
+* [M](https://www.kingcounty.gov/en/index/#M)
+* [N](https://www.kingcounty.gov/en/index/#N)
+* [O](https://www.kingcounty.gov/en/index/#O)
+* [P](https://www.kingcounty.gov/en/index/#P)
+* [Q](https://www.kingcounty.gov/en/index/#Q)
+* [R](https://www.kingcounty.gov/en/index/#R)
+* [S](https://www.kingcounty.gov/en/index/#S)
+* [T](https://www.kingcounty.gov/en/index/#T)
+* [U](https://www.kingcounty.gov/en/index/#U)
+* [V](https://www.kingcounty.gov/en/index/#V)
+* [W](https://www.kingcounty.gov/en/index/#W)
+* [X](https://www.kingcounty.gov/en/index/#X)
+* [Y](https://www.kingcounty.gov/en/index/#Y)
+* [Z](https://www.kingcounty.gov/en/index/#Z)
 
 Footer Links
 ------------
