@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/srd-veljovic/srdjan-veljovic-granice-roda/l-01.jpg?itok=pFSVdf-b)](http://seecult.org/galerija/galerija-umetnika/srdan-veljovic/srdan-veljovic-granice-roda)
+[![ALL YOU NEED IS SOMEONE LIKE ME....](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nina-i-miodrag-stankovic/all-you-need-someone-me/5a.jpg?itok=SMmti8VM "ALL YOU NEED IS SOMEONE LIKE ME....")](http://seecult.org/galerija/galerija-umetnika/nina-i-miodrag-stankovic/all-you-need-someone-me)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/zoran-velimanovic-o3one-14-22907/zoran-velimanovic.jpg?itok=5_0FZQrq)](http://seecult.org/galerija/foto-galerija/foto-arhiva/zoran-velimanovic-o3one-14-22907)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/zasto-su-knjizevne-promocije-dosadne-kosmogina/promocija-staklenca-u-booksi-3.jpg?itok=eZPSRGqx)](http://seecult.org/galerija/foto-galerija/foto-arhiva/zasto-su-knjizevne-promocije-dosadne-kosmogina)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
