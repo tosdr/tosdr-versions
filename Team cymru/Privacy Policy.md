@@ -22,36 +22,36 @@ top of page
     
 * [Community Services](https://www.team-cymru.com/community-services)
     
-    * Request A Service
+    * Request Service
         
         * [Bogon Signup](https://www.team-cymru.com/ty/bogons-networks)
         * [DDOS Mitigation UTRS Signup](https://www.team-cymru.com/ddos-mitigation-utrs-services)
         * [Nimbus Signup](https://www.team-cymru.com/nimbus-signup)
-        * [DNB Signup](https://www.team-cymru.com/dnbsignup)
         * [MHR - API Signup](https://hash.cymru.com/signup)
         * [CSIRT Assistance Program Signup](https://www.team-cymru.com/csirt-ap)
         
-    * Learn About A Service
+    * Service Overview
         
         * [Bogon Networks](https://www.team-cymru.com/bogon-networks)
         * [DDOS Mitigation UTRS](https://www.team-cymru.com/ddos-mitigation-utrs-services)
         * [Nimbus Threat Monitor](https://www.team-cymru.com/nimbus-threat-monitor)
-        * [Dragon News Bytes - DNB](https://www.team-cymru.com/dnb)
         * [MHR - API](https://www.team-cymru.com/mhr)
         * [CSIRT Assistance Program](https://www.team-cymru.com/csirt-ap)
         
-    * [News Blogs & Events](https://www.team-cymru.com/community-news-and-events)
+    * [News Bytes Subscription](https://www.team-cymru.com/dnb)
+    * [RISE & UE](https://www.team-cymru.com/events)
     
 * [Customers](https://www.team-cymru.com/our-case-studies)
 * [Resources](https://www.team-cymru.com/resources)
     
-    * [Dragon News Blog](https://www.team-cymru.com/blog)
-    * [Glossary of Terms](https://www.team-cymru.com/glossary-of-terms)
-    * [About Pure Signal](https://www.team-cymru.com/aboutpuresignal)
-    * [Resource Library](https://www.team-cymru.com/resource-library)
-    * [CTEM](https://www.team-cymru.com/ctem)
-    * [Events](https://www.team-cymru.com/see-us-here)
+    * [Blog](https://www.team-cymru.com/blog)
     * [Podcast](https://www.team-cymru.com/podcast)
+    * [Events & Webinars](https://www.team-cymru.com/see-us-here)
+    * [Resource Library](https://www.team-cymru.com/resource-library)
+    * [Intelligence Terms](https://www.team-cymru.com/glossary-of-terms)
+        
+        * [CTEM](https://www.team-cymru.com/ctem)
+        
     
 * [Partners](https://www.team-cymru.com/partner-program)
     
@@ -71,10 +71,14 @@ top of page
     
 * Company
     
-    * [Company](https://www.team-cymru.com/company)
-    * [RISE & UE](https://www.team-cymru.com/events)
-    * [Press Releases](https://www.team-cymru.com/press-releases)
+    * [About Us](https://www.team-cymru.com/company)
+        
+        * [About Pure Signal](https://www.team-cymru.com/aboutpuresignal)
+        
     * [News](https://www.team-cymru.com/news)
+        
+        * [Press Releases](https://www.team-cymru.com/press-releases)
+        
     * [Careers](https://www.team-cymru.com/careers)
     * [Contact Us](https://www.team-cymru.com/contact-us)
     
@@ -427,7 +431,7 @@ By mail: 901 International Parkway, Suite 350, Lake Mary, FL 32746, USA
 
 ​
 
-![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_114,h_24,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
+![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_63,h_13,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
 ![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_79,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
