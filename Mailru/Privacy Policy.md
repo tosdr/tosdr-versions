@@ -1,176 +1,154 @@
-_s_
+![Top.Mail.Ru](https://top-fwz1.mail.ru/counter?id=1300870;js=na)
 
-_s_
+![](https://mc.yandex.ru/watch/92805550)
 
-[](#)
+Сбросить поиск
 
 Найти
 
-![](//www.tns-counter.ru/V13a****mail_ru/ru/UTF-8/tmsec=mail_win/)
+[Главная](https://help.mail.ru/) ![](https://hmr.mrgcdn.ru/cdn/img/og-sharing.png) 
 
-![](https://www.tns-counter.ru/V13a****mail_ru/ru/UTF-8/tmsec=mail_help/)
+Свернуть
 
-* [Главная Помощи](https://help.mail.ru/legal)
-* [Условия использования сервисов Mail](https://help.mail.ru/legal/terms)
-    * [Общие условия](https://help.mail.ru/legal/terms/common)
-        * [Пользовательское соглашение сервисов Mail](https://help.mail.ru/legal/terms/common/ua)
-        * [Политика конфиденциальности сервисов Mail](https://help.mail.ru/legal/terms/common/privacy)
-        * [Правила применения рекомендательных технологий ресурса Mail](https://help.mail.ru/legal/terms/common/mainrecommendation)
-        * [Правила применения рекомендательных технологий медиапроектов Mail](https://help.mail.ru/legal/terms/common/mediarecommendation)
-    * [Почта](https://help.mail.ru/legal/terms/mail)
-        * [Пользовательское соглашение сервисов Mail](https://help.mail.ru/legal/terms/common/ua)
-        * [Политика конфиденциальности сервисов Mail](https://help.mail.ru/legal/terms/common/privacy)
-        * [Пользовательское соглашение сервиса Почта Mail](https://help.mail.ru/legal/terms/mail/ua)
-        * [Политика конфиденциальности сервиса Почта Mail](https://help.mail.ru/legal/terms/mail/privacy)
-        * [Условия использования функции «Детский режим»](https://help.mail.ru/legal/terms/mail/rules)
-        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/mail/recommendation)
-        * [Соглашение о порядке предоставления дополнительного функционала сервисов Почта Mail и Облако Mail](https://help.mail.ru/legal/terms/cloud/additional)
-    * [Новости](https://help.mail.ru/legal/terms/news)
-        * [Условия использования материалов, размещенных на сайте Новости Mail](https://help.mail.ru/legal/terms/news/policy)
-        * [Политика конфиденциальности приложения Новости Mail](https://help.mail.ru/legal/terms/news/privacy_app)
-    * [Видеозвонки](https://help.mail.ru/legal/terms/calls)
-        * [Пользовательское соглашение сервиса Видеозвонки Mail](https://help.mail.ru/legal/terms/calls/ua)
-    * [Мой Мир](https://help.mail.ru/legal/terms/mm)
-        * [Лицензионное соглашение](https://help.mail.ru/legal/terms/mm/LA)
-        * [Политика конфиденциальности социальной сети «Мой Мир»](https://help.mail.ru/legal/terms/mm/privacy)
-    * [Авто](https://help.mail.ru/legal/terms/auto)
-        * [Условия использования материалов, размещенных на сайте «Авто Mail»](https://help.mail.ru/legal/terms/auto/policy)
-    * [Платформа All Cups](https://help.mail.ru/legal/terms/allcups)
-        * [Пользовательское соглашение Платформы All Cups](https://help.mail.ru/legal/terms/allcups/ua)
-        * [Политика конфиденциальности Платформы All Cups](https://help.mail.ru/legal/terms/allcups/pp)
-        * [All Cups User Agreement](https://help.mail.ru/legal/terms/allcups/ua-eng)
-        * [All Cups Privacy Policy](https://help.mail.ru/legal/terms/allcups/pp-eng)
-    * [Гороскопы](https://help.mail.ru/legal/terms/horo)
-        * [Политика конфиденциальности приложения «Гороскопы» для мобильных устройств на платформе Android/iOS](https://help.mail.ru/legal/terms/horo/privacy)
-    * [Дети](https://help.mail.ru/legal/terms/kids)
-        * [Пользовательское соглашение сервиса Дети Mail](https://help.mail.ru/legal/terms/kids/ua)
-        * [Политика конфиденциальности сервиса Дети Mail](https://help.mail.ru/legal/terms/kids/privacypolicy)
-        * [Условия использования материалов, размещенных на сервисе Дети Mail](https://help.mail.ru/legal/terms/kids/policy)
-    * [Добро](https://help.mail.ru/legal/terms/dobro)
-        * [Условия использования сервиса «VK Добро»](https://help.mail.ru/legal/terms/dobro/policy)
-        * [Соглашение об информационном сотрудничестве сервиса «VK Добро»](https://help.mail.ru/legal/terms/dobro/ua)
-    * [Добрый день](https://help.mail.ru/legal/terms/dobroday)
-        * [Пользовательское соглашение сервиса «Добрый день»](https://help.mail.ru/legal/terms/dobroday/ua)
-        * [Политика конфиденциальности сервиса Добрый день](https://help.mail.ru/legal/terms/dobroday/privacy)
-    * [Здоровье](https://help.mail.ru/legal/terms/health)
-        * [Пользовательское соглашение сервиса Здоровье Mail](https://help.mail.ru/legal/terms/health/ua)
-        * [Пользовательское соглашение для Консультантов на Здоровье Mail](https://help.mail.ru/legal/terms/health/uaconsultants)
-        * [Политика конфиденциальности сервиса Здоровье Mail.ru](https://help.mail.ru/legal/terms/health/privacypolicy)
-        * [Условия использования материалов, размещенных на сайте «Здоровье Mail»](https://help.mail.ru/legal/terms/health/policy)
-    * [Кино](https://help.mail.ru/legal/terms/movie)
-        * [Условия использования материалов, размещённых на «Кино Mail»](https://help.mail.ru/legal/terms/movie/policy)
-    * [Леди](https://help.mail.ru/legal/terms/lady)
-        * [Условия использования материалов, размещенных на сервисе "Леди Mail"](https://help.mail.ru/legal/terms/lady/policy)
-    * [Маруся](https://help.mail.ru/legal/terms/marusia)
-        * [Лицензионное соглашение для использования программного обеспечения «Голосовой помощник «Маруся»](https://help.mail.ru/legal/terms/marusia/LA)
-        * [Политика конфиденциальности сервиса «Голосовой помощник «Маруся»](https://help.mail.ru/legal/terms/marusia/policy)
-        * [Соглашение с правообладателями скиллов для Голосового помощника](https://help.mail.ru/legal/terms/marusia/agreement)
-        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/marusia/recommend)
-    * [Облако](https://help.mail.ru/legal/terms/cloud)
-        * [Лицензионное соглашение сервиса Облако Mail](https://help.mail.ru/legal/terms/cloud/LA)
-        * [Политика конфиденциальности сервиса Облако Mail](https://help.mail.ru/legal/terms/cloud/privacy)
-        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/cloud/recommendation)
-        * [Соглашение о порядке предоставления дополнительного функционала сервисов Почта Mail и Облако Mail](https://help.mail.ru/legal/terms/cloud/additional)
-        * [Диск-О:](https://help.mail.ru/legal/terms/cloud/disko)
-            * [Лицензионное соглашение для приложения «Диск-О:»](https://help.mail.ru/legal/terms/cloud/disko/LA)
-            * [Политика конфиденциальности приложения «Диск-О:»](https://help.mail.ru/legal/terms/cloud/disko/privacy)
-            * [EU PRIVACY POLICY](https://help.mail.ru/legal/terms/cloud/disko/privacy/EU)
-            * [License Agreement for Disk-O: Applications](https://help.mail.ru/legal/terms/cloud/disko/LA/EU)
-        * [Cloud App for EU-based users](https://help.mail.ru/legal/terms/cloud/eu-cloud)
-            * [END USER LICENSE AGREEMENT FOR MOBILE SOFTWARE TITLED "CLOUD MAIL"](https://help.mail.ru/legal/terms/cloud/eu-cloud/eula)
-            * [EU PRIVACY POLICY for Cloud Mail](https://help.mail.ru/legal/terms/cloud/eu-cloud/euprivacypolicy)
-    * [Ответы](https://help.mail.ru/legal/terms/answers)
-        * [Пользовательское соглашение](https://help.mail.ru/legal/terms/answers/ua)
-    * [Питомцы](https://help.mail.ru/legal/terms/pets)
-        * [Условия использования материалов, размещенных на сайте Питомцы Mail](https://help.mail.ru/legal/terms/pets/policy)
-        * [Пользовательское соглашение сервиса Питомцы Mail](https://help.mail.ru/legal/terms/pets/ua)
-        * [Политика конфиденциальности для сервиса Питомцы Mail](https://help.mail.ru/legal/terms/pets/privacypolicy)
-        * [Условия допуска консультантов для информационной поддержки пользователей сервиса Питомцы Mail](https://help.mail.ru/legal/terms/pets/termsconsultants)
-    * [Hi-Tech](https://help.mail.ru/legal/terms/hitech)
-        * [Условия использования материалов, размещенных на сайте «Hi-Tech Mail»](https://help.mail.ru/legal/terms/hitech/policy)
-    * [Postmaster](https://help.mail.ru/legal/terms/postmaster)
-        * [Условия использования](https://help.mail.ru/legal/terms/postmaster/policy)
-        * [Terms of Postmaster Use](https://help.mail.ru/legal/terms/postmaster/policy/eng)
-    * [ТамТам](https://help.mail.ru/legal/terms/tamtam)
-        * [Русский](https://help.mail.ru/legal/terms/tamtam/ru)
-            * [Лицензионное соглашение для конечного пользователя мессенджера «ТамТам»](https://help.mail.ru/legal/terms/tamtam/ru/LA)
-            * [Политика конфиденциальности для мессенджера «ТамТам»](https://help.mail.ru/legal/terms/tamtam/ru/privacy)
-            * [Политика конфиденциальности для мессенджера «ТамТам» для стран ЕС](https://help.mail.ru/legal/terms/tamtam/ru/privacy/EU)
-            * [Регламент ведения чатов и каналов в ТамТам](https://help.mail.ru/legal/terms/tamtam/ru/regulations)
-            * [Политика использования cookie в мессенджере «ТамТам»](https://help.mail.ru/legal/terms/tamtam/ru/cookiepolicy)
-        * [English](https://help.mail.ru/legal/terms/tamtam/eng)
-            * [TamTam Messenger Privacy Policy](https://help.mail.ru/legal/terms/tamtam/eng/privacy)
-            * [Privacy policy for the TamTam messenger for EU](https://help.mail.ru/legal/terms/tamtam/eng/privacy/EU)
-            * [TamTam Messenger End User License Agreement](https://help.mail.ru/legal/terms/tamtam/eng/LA)
-            * [TamTam Chats and Channels Regulations](https://help.mail.ru/legal/terms/tamtam/eng/regulations)
-            * [TamTam Cookie Policy](https://help.mail.ru/legal/terms/tamtam/eng/cookiepolicy)
-    * [Рейтинг](https://help.mail.ru/legal/terms/top)
-        * [Лицензионное соглашение](https://help.mail.ru/legal/terms/top/LA)
-        * [License agreement](https://help.mail.ru/legal/terms/top/LA/eng)
-        * [Политика конфиденциальности сервиса Рейтинг Mail](https://help.mail.ru/legal/terms/top/pp)
-    * [myTracker](https://help.mail.ru/legal/terms/mytracker)
-        * [Русский](https://help.mail.ru/legal/terms/mytracker/ru)
-            * [Лицензионное соглашение](https://help.mail.ru/legal/terms/mytracker/ru/LA)
-            * [Standard Contractual Clauses](https://help.mail.ru/legal/terms/mytracker/ru/SCC)
-            * [Политика конфиденциальности сервиса MyTracker](https://help.mail.ru/legal/terms/mytracker/ru/PP)
-            * [Соглашение об оказании информационных услуг](https://help.mail.ru/legal/terms/mytracker/ru/agreement)
-        * [English](https://help.mail.ru/legal/terms/mytracker/eng)
-            * [Standard Contractual Clauses](https://help.mail.ru/legal/terms/mytracker/eng/SCC)
-            * [MyTracker Privacy Policy](https://help.mail.ru/legal/terms/mytracker/eng/privacy)
-            * [License Agreement](https://help.mail.ru/legal/terms/mytracker/eng/LA)
-            * [Information Services Agreement](https://help.mail.ru/legal/terms/mytracker/eng/agreement)
-            * [COOKIE POLICY](https://help.mail.ru/legal/terms/mytracker/eng/cookiepolicy)
-    * [Юла](https://help.mail.ru/legal/terms/youla)
-        * [Лицензионное соглашение](https://help.mail.ru/legal/terms/youla/LA)
-        * [Политика конфиденциальности](https://help.mail.ru/legal/terms/youla/privacy)
-        * [Оферта сервиса «Безопасная сделка»](https://help.mail.ru/legal/terms/youla/oferta/safedeal)
-        * [Оферта об оказании Услуги «Поднятие в ленте»](https://help.mail.ru/legal/terms/youla/raising)
-        * [Оферта сервиса «Разовое размещение»](https://help.mail.ru/legal/terms/youla/adpacks)
-        * [Оферта сервиса «Тариф»](https://help.mail.ru/legal/terms/youla/tariffs)
-        * [Оферта для Рекламодателей – юридических лиц](https://help.mail.ru/legal/terms/youla/adv)
-        * [Условия распоряжений покупателя](https://help.mail.ru/legal/terms/youla/safedeal_conditions)
-        * [Правила начисления и использования Бонусов](https://help.mail.ru/legal/terms/youla/rules_bonus)
-        * [Нарушение интеллектуальных прав](https://help.mail.ru/legal/terms/youla/dmca)
-            * [Нарушение интеллектуальных прав юридического лица](https://help.mail.ru/legal/terms/youla/dmca/form_legal)
-            * [Нарушение интеллектуальных прав физического лица](https://help.mail.ru/legal/terms/youla/dmca/form_individual)
-        * [Правила акции "Услуги продвижения за 1 рубль"](https://help.mail.ru/legal/terms/youla/rules_promotion)
-        * [Правила проведения акции «Розыгрыш 1 000 000 рублей»](https://help.mail.ru/legal/terms/youla/rozygrysh_million)
-        * [Правила акции "Бесплатные продвижения от ЮЛЫ"](https://help.mail.ru/legal/terms/youla/rules_free_promotion)
-        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/youla/recommendation)
-    * [VK Карты](https://help.mail.ru/legal/terms/maps)
-        * [Условия использования Сервиса «VK Карты»](https://help.mail.ru/legal/terms/maps/terms)
-    * [myTarget](https://help.mail.ru/legal/terms/myTarget)
-        * [Политика конфиденциальности сервиса myTarget](https://help.mail.ru/legal/terms/myTarget/privacy)
-    * [VK Реклама](https://help.mail.ru/legal/terms/adsvk)
-        * [Terms of Service VK ADS](https://help.mail.ru/legal/terms/adsvk/termsofservice)
-        * [Cookie Policy VK ADS](https://help.mail.ru/legal/terms/adsvk/cookies)
-        * [EU Privacy Policy VK ADS](https://help.mail.ru/legal/terms/adsvk/euprivacy)
-        * [Оферта для партнеров - резидентов РФ](https://help.mail.ru/legal/terms/adsvk/partners-doc-offer-for-residents)
-        * [Условия оказания услуг для партнеров, владеющих рекламными площадками](https://help.mail.ru/legal/terms/adsvk/partners-doc-terms-for-residents)
-        * [Условия оказания услуг информационного взаимодействия с ОРД для партнеров, владеющих рекламными площадками](https://help.mail.ru/legal/terms/adsvk/partners-ord-terms-ru)
-        * [Offer for publishers](https://help.mail.ru/legal/terms/adsvk/partners-doc-offer-for-nonresidents)
-        * [Terms and conditions for publishers](https://help.mail.ru/legal/terms/adsvk/partners-doc-terms-for-nonresidents)
-        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/adsvk/recommendation)
-        * [Пользовательское соглашение VK Реклама](https://help.mail.ru/legal/terms/adsvk/terms)
-        * [Политика конфиденциальности VK Реклама](https://help.mail.ru/legal/terms/adsvk/privacy)
-    * [](https://help.mail.ru/legal/terms/partnersandaffiliates)
-* [Политики компании](https://help.mail.ru/legal/documents)
-    * [Политика в области обработки и обеспечения безопасности перс.данных](https://help.mail.ru/legal/documents/personaldata)
+[Юридические документы](https://help.mail.ru/legal/)
+
+* [Условия использования сервисов Mail](https://help.mail.ru/legal/terms/)
+    * [Общие условия](https://help.mail.ru/legal/terms/common/)
+        * [Пользовательское соглашение сервисов Mail](https://help.mail.ru/legal/terms/common/ua/)
+        * [Политика конфиденциальности сервисов Mail](https://help.mail.ru/legal/terms/common/privacy/)
+        * [Правила применения рекомендательных технологий ресурса Mail](https://help.mail.ru/legal/terms/common/mainrecommendation/)
+        * [Правила применения рекомендательных технологий медиапроектов Mail](https://help.mail.ru/legal/terms/common/mediarecommendation/)
+    * [Почта](https://help.mail.ru/legal/terms/mail/)
+        * [Пользовательское соглашение сервисов Mail](https://help.mail.ru/legal/terms/common/ua/)
+        * [Политика конфиденциальности сервисов Mail](https://help.mail.ru/legal/terms/common/privacy/)
+        * [Пользовательское соглашение сервиса Почта Mail](https://help.mail.ru/legal/terms/mail/ua/)
+        * [Политика конфиденциальности сервиса Почта Mail](https://help.mail.ru/legal/terms/mail/privacy/)
+        * [Условия использования функции «Детский режим»](https://help.mail.ru/legal/terms/mail/rules/)
+        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/mail/recommendation/)
+    * [Новости](https://help.mail.ru/legal/terms/news/)
+        * [Условия использования материалов, размещенных на сайте Новости Mail](https://help.mail.ru/legal/terms/news/policy/)
+        * [Политика конфиденциальности приложения Новости Mail](https://help.mail.ru/legal/terms/news/privacy_app/)
+    * [Мой Мир](https://help.mail.ru/legal/terms/mm/)
+        * [Лицензионное соглашение](https://help.mail.ru/legal/terms/mm/la/)
+        * [Политика конфиденциальности социальной сети «Мой Мир»](https://help.mail.ru/legal/terms/mm/privacy/)
+    * [Авто](https://help.mail.ru/legal/terms/auto/)
+        * [Условия использования материалов, размещенных на сайте «Авто Mail»](https://help.mail.ru/legal/terms/auto/policy/)
+    * [Платформа All Cups](https://help.mail.ru/legal/terms/allcups/)
+        * [Пользовательское соглашение Платформы All Cups](https://help.mail.ru/legal/terms/allcups/ua/)
+        * [Политика конфиденциальности Платформы All Cups](https://help.mail.ru/legal/terms/allcups/pp/)
+        * [All Cups User Agreement](https://help.mail.ru/legal/terms/allcups/ua-eng/)
+        * [All Cups Privacy Policy](https://help.mail.ru/legal/terms/allcups/pp-eng/)
+    * [Гороскопы](https://help.mail.ru/legal/terms/horo/)
+        * [Политика конфиденциальности приложения «Гороскопы» для мобильных устройств на платформе Android/iOS](https://help.mail.ru/legal/terms/horo/privacy/)
+    * [Дети](https://help.mail.ru/legal/terms/kids/)
+        * [Пользовательское соглашение сервиса Дети Mail](https://help.mail.ru/legal/terms/kids/ua/)
+        * [Политика конфиденциальности сервиса Дети Mail](https://help.mail.ru/legal/terms/kids/privacypolicy/)
+        * [Условия использования материалов, размещенных на сервисе Дети Mail](https://help.mail.ru/legal/terms/kids/policy/)
+    * [Добро](https://help.mail.ru/legal/terms/dobro/)
+        * [Условия использования сервиса «VK Добро»](https://help.mail.ru/legal/terms/dobro/policy/)
+        * [Соглашение об информационном сотрудничестве сервиса «VK Добро»](https://help.mail.ru/legal/terms/dobro/ua/)
+    * [Добрый день](https://help.mail.ru/legal/terms/dobroday/)
+        * [Пользовательское соглашение сервиса «Добрый день»](https://help.mail.ru/legal/terms/dobroday/ua/)
+        * [Политика конфиденциальности сервиса Добрый день](https://help.mail.ru/legal/terms/dobroday/privacy/)
+    * [Здоровье](https://help.mail.ru/legal/terms/health/)
+        * [Пользовательское соглашение сервиса Здоровье Mail](https://help.mail.ru/legal/terms/health/ua/)
+        * [Пользовательское соглашение для Консультантов на Здоровье Mail](https://help.mail.ru/legal/terms/health/uaconsultants/)
+        * [Политика конфиденциальности сервиса Здоровье Mail](https://help.mail.ru/legal/terms/health/privacypolicy/)
+        * [Условия использования материалов, размещенных на сайте «Здоровье Mail»](https://help.mail.ru/legal/terms/health/policy/)
+    * [Кино](https://help.mail.ru/legal/terms/movie/)
+        * [Условия использования материалов, размещённых на «Кино Mail»](https://help.mail.ru/legal/terms/movie/policy/)
+    * [Леди](https://help.mail.ru/legal/terms/lady/)
+        * [Условия использования материалов, размещенных на сервисе "Леди Mail"](https://help.mail.ru/legal/terms/lady/policy/)
+    * [Маруся](https://help.mail.ru/legal/terms/marusia/)
+        * [Лицензионное соглашение для использования программного обеспечения «Голосовой помощник «Маруся»](https://help.mail.ru/legal/terms/marusia/la/)
+        * [Политика конфиденциальности сервиса «Голосовой помощник «Маруся»](https://help.mail.ru/legal/terms/marusia/policy/)
+        * [Соглашение с правообладателями скиллов для Голосового помощника](https://help.mail.ru/legal/terms/marusia/agreement/)
+        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/marusia/recommend/)
+    * [Облако](https://help.mail.ru/legal/terms/cloud/)
+        * [Лицензионное соглашение сервиса Облако@mail.ru](https://help.mail.ru/legal/terms/cloud/la/)
+        * [Политика конфиденциальности сервиса Облако Mail](https://help.mail.ru/legal/terms/cloud/privacy/)
+        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/cloud/recommendation/)
+        * [Диск-О:](https://help.mail.ru/legal/terms/cloud/disko/)
+            * [Лицензионное соглашение для приложения «Диск-О:»](https://help.mail.ru/legal/terms/cloud/disko/la/)
+                * [License Agreement for Disk-O: Applications](https://help.mail.ru/legal/terms/cloud/disko/la/eu/)
+            * [Политика конфиденциальности приложения «Диск-О:»](https://help.mail.ru/legal/terms/cloud/disko/privacy/)
+                * [EU PRIVACY POLICY](https://help.mail.ru/legal/terms/cloud/disko/privacy/eu/)
+        * [Cloud App for EU-based users](https://help.mail.ru/legal/terms/cloud/eu-cloud/)
+            * [END USER LICENSE AGREEMENT FOR MOBILE SOFTWARE TITLED \\"CLOUD MAIL.RU\\"](https://help.mail.ru/legal/terms/cloud/eu-cloud/eula/)
+            * [EU PRIVACY POLICY for Cloud Mail](https://help.mail.ru/legal/terms/cloud/eu-cloud/euprivacypolicy/)
+    * [Ответы](https://help.mail.ru/legal/terms/answers/)
+        * [Пользовательское соглашение](https://help.mail.ru/legal/terms/answers/ua/)
+    * [Питомцы](https://help.mail.ru/legal/terms/pets/)
+        * [Условия использования материалов, размещенных на сайте Питомцы Mail](https://help.mail.ru/legal/terms/pets/policy/)
+        * [Пользовательское соглашение сервиса Питомцы Mail](https://help.mail.ru/legal/terms/pets/ua/)
+        * [Политика конфиденциальности для сервиса Питомцы Mail](https://help.mail.ru/legal/terms/pets/privacypolicy/)
+        * [Условия допуска консультантов для информационной поддержки пользователей сервиса Питомцы Mail](https://help.mail.ru/legal/terms/pets/termsconsultants/)
+    * [Рейтинг](https://help.mail.ru/legal/terms/top/)
+        * [Лицензионное соглашение](https://help.mail.ru/legal/terms/top/la/)
+        * [License agreement](https://help.mail.ru/legal/terms/top/la-eng/)
+        * [Политика конфиденциальности сервиса Рейтинг Mail](https://help.mail.ru/legal/terms/top/pp/)
+    * [Юла](https://help.mail.ru/legal/terms/youla/)
+        * [Лицензионное соглашение](https://help.mail.ru/legal/terms/youla/la/)
+        * [Нарушение интеллектуальных прав юридического лица](https://help.mail.ru/legal/terms/youla/dmca/form_legal/)
+        * [Политика конфиденциальности](https://help.mail.ru/legal/terms/youla/privacy/)
+        * [Нарушение интеллектуальных прав физического лица](https://help.mail.ru/legal/terms/youla/dmca/form_individual/)
+        * [Оферта сервиса «Безопасная сделка»](https://help.mail.ru/legal/terms/youla/oferta/safedeal/)
+        * [Оферта об оказании Услуги «Поднятие в ленте»](https://help.mail.ru/legal/terms/youla/raising/)
+        * [Оферта сервиса «Разовое размещение»](https://help.mail.ru/legal/terms/youla/adpacks/)
+        * [Оферта сервиса «Тариф»](https://help.mail.ru/legal/terms/youla/tariffs/)
+        * [Оферта для Рекламодателей – юридических лиц](https://help.mail.ru/legal/terms/youla/adv/)
+        * [Условия распоряжений покупателя](https://help.mail.ru/legal/terms/youla/safedeal_conditions/)
+        * [Правила начисления и использования Бонусов](https://help.mail.ru/legal/terms/youla/rules_bonus/)
+        * [Нарушение интеллектуальных прав](https://help.mail.ru/legal/terms/youla/dmca/)
+        * [Правила акции \\"Услуги продвижения за 1 рубль\\"](https://help.mail.ru/legal/terms/youla/rules_promotion/)
+        * [Правила проведения акции «Розыгрыш 1 000 000 рублей»](https://help.mail.ru/legal/terms/youla/rozygrysh_million/)
+        * [Правила акции \\"Бесплатные продвижения от ЮЛЫ\\"](https://help.mail.ru/legal/terms/youla/rules_free_promotion/)
+        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/youla/recommendation/)
+    * [Hi-Tech](https://help.mail.ru/legal/terms/hitech/)
+        * [Условия использования материалов, размещенных на сайте «Hi-Tech Mail»](https://help.mail.ru/legal/terms/hitech/policy/)
+    * [Postmaster](https://help.mail.ru/legal/terms/postmaster/)
+        * [Условия использования](https://help.mail.ru/legal/terms/postmaster/policy/)
+        * [Terms of Postmaster Use](https://help.mail.ru/legal/terms/postmaster/policy-eng/)
+    * [VK Карты](https://help.mail.ru/legal/terms/maps/)
+        * [Условия использования Сервиса «VK Карты»](https://help.mail.ru/legal/terms/maps/terms/)
+        * [Политика конфиденциальности Сервиса «VK Карты»](https://help.mail.ru/legal/terms/maps/privacy/)
+    * [VK Реклама](https://help.mail.ru/legal/terms/adsvk/)
+        * [Terms of Service VK ADS](https://help.mail.ru/legal/terms/adsvk/termsofservice/)
+        * [Cookie Policy VK ADS](https://help.mail.ru/legal/terms/adsvk/cookies/)
+        * [EU Privacy Policy VK ADS](https://help.mail.ru/legal/terms/adsvk/euprivacy/)
+        * [Оферта для партнеров - резидентов РФ](https://help.mail.ru/legal/terms/adsvk/partners-doc-offer-for-residents/)
+        * [Условия оказания услуг для партнеров, владеющих рекламными площадками](https://help.mail.ru/legal/terms/adsvk/partners-doc-terms-for-residents/)
+        * [Условия оказания услуг информационного взаимодействия с ОРД для партнеров, владеющих рекламными площадками](https://help.mail.ru/legal/terms/adsvk/partners-ord-terms-ru/)
+        * [Offer for publishers](https://help.mail.ru/legal/terms/adsvk/partners-doc-offer-for-nonresidents/)
+        * [Terms and conditions for publishers](https://help.mail.ru/legal/terms/adsvk/partners-doc-terms-for-nonresidents/)
+        * [Правила применения рекомендательных технологий](https://help.mail.ru/legal/terms/adsvk/recommendation/)
+        * [Пользовательское соглашение VK Реклама](https://help.mail.ru/legal/terms/adsvk/terms/)
+        * [Политика конфиденциальности VK Реклама](https://help.mail.ru/legal/terms/adsvk/privacy/)
+    * [VK Доска](https://help.mail.ru/legal/terms/board/)
+        * [Условия использования Сервиса «VK Доска»](https://help.mail.ru/legal/terms/board/ua/)
+        * [Политика конфиденциальности Сервиса «VK Доска»](https://help.mail.ru/legal/terms/board/privacy/)
+    * [VK Tutoria](https://help.mail.ru/legal/terms/tutoria/)
+        * [Условия использования сервиса «VK Tutoria»](https://help.mail.ru/legal/terms/tutoria/ua/)
+        * [Политика конфиденциальности сервиса «VK Tutoria»](https://help.mail.ru/legal/terms/tutoria/privacy/)
+* [Политики компании](https://help.mail.ru/legal/documents/)
+    * [Политика в области обработки и обеспечения безопасности перс.данных](https://help.mail.ru/legal/documents/personaldata/)
+* [Uxlab](https://help.mail.ru/legal/uxlab/)
+    * [Политика конфиденциальности для респондентов](https://help.mail.ru/legal/uxlab/pc/)
 
 Политика конфиденциальности сервисов Mail
 =========================================
 
 **1\. Общие положения**
 
-1.1. Предметом регулирования настоящей Политики конфиденциальности (далее – «Политика») являются отношения между Обществом с ограниченной ответственностью «ВК» (ОГРН 1027739850962, Россия, 125167, г. Москва, Ленинградский проспект д.39, стр.79), далее «Mail» или «Компания», которое является правообладателем сайтов, сервисов, программ и/или иных продуктов, в том числе информационного, коммуникационного, рекламного, образовательного, развлекательного и иного характера (далее – «Сервисы», а в отдельности – «Сервис»), расположенных в сети Интернет по адресу [https://mail.ru/](https://mail.ru/) (далее – «Сайт»), а также на иных администрируемых Mail доменах, и Вами (физическим лицом пользователем сети Интернет), далее  «Пользователь», по поводу обработки информации о Пользователе, включая персональные данные, в процессе использования таким лицом Сервисов Mail (далее – «Информация»). Настоящая Политика размещена по адресу: [https://help.mail.ru/legal/terms/common/privacy](https://help.mail.ru/legal/terms/common/privacy).
+1.1. Предметом регулирования настоящей Политики конфиденциальности (далее – «Политика») являются отношения между Обществом с ограниченной ответственностью «ВК» (ОГРН 1027739850962, Россия, 125167, г. Москва, Ленинградский проспект д.39, стр.79), далее «Mail» или «Компания», которое является правообладателем сайтов, сервисов, программ и/или иных продуктов, в том числе информационного, коммуникационного, рекламного, образовательного, развлекательного и иного характера (далее – «Сервисы», а в отдельности – «Сервис»), расположенных в сети Интернет по адресу [https://mail.ru/](https://mail.ru/) (далее – «Сайт»), а также на иных администрируемых Mail доменах, и Вами (физическим лицом пользователем сети Интернет), далее «Пользователь», по поводу обработки информации о Пользователе, включая персональные данные, в процессе использования таким лицом Сервисов Mail (далее – «Информация»). Настоящая Политика размещена по адресу: [https://help.mail.ru/legal/terms/common/privacy](https://help.mail.ru/legal/terms/common/privacy/).
 
-1.2. Отношения, связанные с обработкой информации, включая, но не ограничивая сбор, использование, хранение, распространение и защиту информации о Пользователях Сервисов Mail, регулируются настоящей Политикой, политиками конфиденциальности отдельных Сервисов (которые конкретизируют применительно к конкретному Сервису перечень обрабатываемых данных, том числе персональных данных, цели, правовые основания обработки и иные условия) и иными правилами, размещёнными в рамках Сервисов Mail (далее совместно именуемые — «Политики», а по отдельности «Политика»), а также действующим законодательством Российской Федерации. Перед тем как начать использование Сервисов Компании Пользователь обязан ознакомиться с настоящей Политикой, а также со всеми применимыми Правилами.
+1.2. Отношения, связанные с обработкой информации, включая, но не ограничивая сбор, использование, хранение, распространение и защиту информации о Пользователях Сервисов Mail, регулируются настоящей Политикой, политиками конфиденциальности отдельных Сервисов (которые конкретизируют применительно к конкретному Сервису перечень обрабатываемых данных, том числе персональных данных, цели, правовые основания обработки и иные условия) и иными правилами, размещёнными в рамках Сервисов Mail (далее совместно именуемые — «Политики», а по отдельности «Политика»), а также действующим законодательством Российской Федерации. Перед тем как начать использование Сервисов Компании Пользователь обязан ознакомиться с настоящей Политикой, а также со всеми применимыми Правилами.
 
 1.3. При регистрации, каждом доступе и/или фактическом использовании любого из Сервисов, Пользователь соглашается с условиями настоящей Политики, политик конфиденциальности отдельных Сервисов, а также с условиями соглашений, положений и правил используемых им Сервисов, которые размещены на страницах (в разделах) соответствующих Сервисов, в редакциях, которые действовали на момент фактического использования таких Сервисов.
 
 **2\. Состав Информации**
 
-2.1. Обрабатываемая Компанией Информация, включает в себя:
+2.1. Обрабатываемая Компанией Информация, включает в себя:
 
 2.1.1. Учетные данные, под которым понимаются:
 
@@ -194,11 +172,11 @@ _s_
 
 Обрабатываемые Компанией Учетные и Иные данные в объеме, необходимом и достаточном для их отнесения в соответствии с действующим законодательством Российской Федерации к персональным данным, обрабатываются в Компании как персональные данные на условиях настоящей Политики и политик конфиденциальности отдельных Сервисов.
 
-Детальный перечень обрабатываемых Учетных данных и Иных данных применительно к конкретному Сервису приведен в политике конфиденциальности соответствующего Сервиса. В случае если какой-либо Сервис Mail не содержит специальной политики конфиденциальности соответствующего Сервиса, то применяются условия настоящей Политики. 
+Детальный перечень обрабатываемых Учетных данных и Иных данных применительно к конкретному Сервису приведен в политике конфиденциальности соответствующего Сервиса. В случае если какой-либо Сервис Mail не содержит специальной политики конфиденциальности соответствующего Сервиса, то применяются условия настоящей Политики.
 
-Для полноценного использования некоторых Сервисов Mail Пользователю необходимо быть авторизованным (ввести логин и пароль) через учетную запись Mail ID. В этом случае Сервис может получать из учетной записи Mail ID следующие данные о Пользователе: имя, фамилия, дата рождения, пол, электронная почта. При этом, объем получаемых данных о Пользователе в каждом конкретном Сервисе Mail зависит от функциональной необходимости такого Сервиса для целей исполнения соглашения с Пользователем (цель обработки).   
+Для полноценного использования некоторых Сервисов Mail Пользователю необходимо быть авторизованным (ввести логин и пароль) через учетную запись Mail ID. В этом случае Сервис может получать из учетной записи Mail ID следующие данные о Пользователе: имя, фамилия, дата рождения, пол, электронная почта. При этом, объем получаемых данных о Пользователе в каждом конкретном Сервисе Mail зависит от функциональной необходимости такого Сервиса для целей исполнения соглашения с Пользователем (цель обработки).
 
-2.2. Функционалом и правилами использования отдельных Сервисов Пользователю может быть предоставлена возможность размещать в Сервисах любую иную информацию (если применимо), помимо указанной в пункте 2.1. настоящей Политики, если она не противоречит требованиям действующего законодательства. Компания не имеет цели обрабатывать такую информацию, а также биометрические и специальные категории персональных данных. Размещая информацию, Пользователь понимает, что она может быть доступна неопределенному кругу пользователей сети Интернет с учетом настроек желаемого уровня конфиденциальности.
+2.2. Функционалом и правилами использования отдельных Сервисов Пользователю может быть предоставлена возможность размещать в Сервисах любую иную информацию (если применимо), помимо указанной в пункте 2.1. настоящей Политики, если она не противоречит требованиям действующего законодательства. Компания не имеет цели обрабатывать такую информацию, а также биометрические и специальные категории персональных данных. Размещая информацию, Пользователь понимает, что она может быть доступна неопределенному кругу пользователей сети Интернет с учетом настроек желаемого уровня конфиденциальности.
 
 2.3. Если функциональные возможности используемого Сервиса позволяют отражать информацию о Пользователе в его Учетной записи, которая доступна для просмотра другим Пользователям такого Сервиса или пользователям сети Интернет, то Пользователь соглашается на отражение информации о нем в его Учетной записи. Пользователь соглашается, что Информация, включая Учетные и Иные данные, а также иная информация может быть доступна другим Пользователям соответствующего Сервиса и/или другим пользователям сети Интернет с учетом существующего функционала Сервиса (который может изменяться время от времени Компанией).
 
@@ -206,7 +184,7 @@ _s_
 
 2.5. Обработка cookies
 
-Сookies представляют собой небольшие фрагменты данных, которые веб-сайты запрашивают у браузера, используемого на компьютере или мобильном устройстве Пользователя. Сookies хранятся локально на компьютере или мобильном устройстве пользователя сети Интернет. Компания собирает и обрабатывает cookies в отношении Пользователей, посещающих Сервисы Компании. 
+Сookies представляют собой небольшие фрагменты данных, которые веб-сайты запрашивают у браузера, используемого на компьютере или мобильном устройстве Пользователя. Сookies хранятся локально на компьютере или мобильном устройстве пользователя сети Интернет. Компания собирает и обрабатывает cookies в отношении Пользователей, посещающих Сервисы Компании.
 
 В Сервисах Компании используются следующие типы файлов cookies:
 
@@ -222,31 +200,31 @@ _s_
 
 Пользователь может отказаться от обработки cookies в настройках своего браузера. В указанном случае сервисы Компании будут использовать только те cookies, которые строго необходимы для функционирования такого сервиса и предоставления его функциональных возможностей.
 
-2.6. Обработка Иных данных при использовании мобильных приложений 
+2.6. Обработка Иных данных при использовании мобильных приложений
 
-Компания может получать и обрабатывать Иные данные о Пользователях, которые используют мобильные приложения Компании, путем встраивания SDK в мобильные приложения, что указывается в политике конфиденциальности соответствующего сервиса Компании. Такие Иные данные обрабатываются исключительно с целью, которая указана в пункте 3.2 настоящей Политики, на условиях и в порядке, определенных настоящей Политикой. 
+Компания может получать и обрабатывать Иные данные о Пользователях, которые используют мобильные приложения Компании, путем встраивания SDK в мобильные приложения, что указывается в политике конфиденциальности соответствующего сервиса Компании. Такие Иные данные обрабатываются исключительно с целью, которая указана в пункте 3.2 настоящей Политики, на условиях и в порядке, определенных настоящей Политикой.
 
 2.7. Обработка информации о местоположении Пользователя (геопозиции).
 
-Компания может получать и обрабатывать информацию о местоположении Пользователя (геопозицию) в составе Иных данных с соблюдением Цели, указанной в п.3.2 настоящей Политики, а именно, чтобы постоянно улучшать содержание Сервисов, предотвращать и пресекать любые ошибки, которые могут возникнуть при использовании Сервисов, для персонализации информации (включая рекламную), доступной Пользователю в Сервисах,  для предоставления Пользователю релевантных рекомендаций, а также для проведения статистических исследований.
+Компания может получать и обрабатывать информацию о местоположении Пользователя (геопозицию) в составе Иных данных с соблюдением Цели, указанной в п.3.2 настоящей Политики, а именно, чтобы постоянно улучшать содержание Сервисов, предотвращать и пресекать любые ошибки, которые могут возникнуть при использовании Сервисов, для персонализации информации (включая рекламную), доступной Пользователю в Сервисах, для предоставления Пользователю релевантных рекомендаций, а также для проведения статистических исследований.
 
 Компания может получать и обрабатывать информацию о местоположении Пользователя (геопозицию) различной точности, которая зависит от функционала используемого Сервиса, выбранных Пользователем настроек, источника получения данных о местоположении Пользователя, а также необходимости обработки данных о местоположении для предоставления функционала конкретного Сервиса Пользователю и улучшения пользовательского опыта.
 
 При этом Компания основывает свои предположения о местонахождении Пользователя в зависимости от настроек, выбранных Пользователем в браузере или на мобильном устройстве исходя из IP-адреса Пользователя; информации о местоположении устройства; и/или иной информации об использовании Пользователем конкретного Сервиса Компании.
 
-Пользователь может ограничить передачу информации о его местоположении  путем изменения настроек своего браузера и/или мобильного устройства.
+Пользователь может ограничить передачу информации о его местоположении путем изменения настроек своего браузера и/или мобильного устройства.
 
 **3\. Условия обработки Информации**
 
-3.1. Обработка Информации о Пользователях осуществляется Компанией в соответствии со следующими принципами:
+3.1. Обработка Информации о Пользователях осуществляется Компанией в соответствии со следующими принципами:
 
-3.1.1. законности целей и способов обработки Информации;
+3.1.1. законности целей и способов обработки Информации;
 
 3.1.2. добросовестности Компании;
 
-3.1.3. соответствия целей обработки Информации целям, заранее определенным и заявленным при ее сборе, а также полномочиям Компании;
+3.1.3. соответствия целей обработки Информации целям, заранее определенным и заявленным при ее сборе, а также полномочиям Компании;
 
-3.1.4. соответствия объема и характера обрабатываемой Информации, способов ее обработки целям обработки Информации;
+3.1.4. соответствия объема и характера обрабатываемой Информации, способов ее обработки целям обработки Информации;
 
 3.1.5. недопустимости объединения созданных для несовместимых между собой целей баз данных, содержащих Информацию Пользователей.
 
@@ -256,19 +234,19 @@ _s_
 
 3.3. Сбор Информации
 
-Сбор Учетных данных Пользователя осуществляется при его регистрации в соответствующем Сервисе путем заполнения Пользователем регистрационной формы, а также в дальнейшем при редактировании Пользователем ранее предоставленной информации либо при дополнении по своей инициативе Учетных данных (если применимо) с помощью инструментария соответствующего Сервиса.
+Сбор Учетных данных Пользователя осуществляется при его регистрации в соответствующем Сервисе путем заполнения Пользователем регистрационной формы, а также в дальнейшем при редактировании Пользователем ранее предоставленной информации либо при дополнении по своей инициативе Учетных данных (если применимо) с помощью инструментария соответствующего Сервиса.
 
 Сбор Иных данных осуществляется Компанией самостоятельно в процессе использования Пользователем Сервиса. В ряде случаев сбор Иных данных Пользователя начинается с момента получения Пользователем доступа к Сервису (например, при загрузке интернет-страницы или запуске приложения) до момента его регистрации в соответствующем Сервисе.
 
-3.4. Обработка и Передача Информации
+3.4. Обработка и Передача Информации
 
-Учетные и Иные данные Пользователей не передаются каким-либо третьим лицам, за исключением случаев, прямо предусмотренных настоящей Политикой, политиками отдельных Сервисов, иными применимыми правилами, а также применимым законодательством. 
+Учетные и Иные данные Пользователей не передаются каким-либо третьим лицам, за исключением случаев, прямо предусмотренных настоящей Политикой, политиками отдельных Сервисов, иными применимыми правилами, а также применимым законодательством.
 
-Компания может передавать Учетные и Иные данные Пользователей третьим лицам, с соблюдением целей и при наличии оснований, указанных в настоящей Политике. К таким третьим лицам могут относиться:
+Компания может передавать Учетные и Иные данные Пользователей третьим лицам, с соблюдением целей и при наличии оснований, указанных в настоящей Политике. К таким третьим лицам могут относиться:
 
-\- лица, которые участвуют в оказании услуг, связанных с размещением и отображением информации пользователям (в т.ч. предложений, релевантных интересам пользователей) о сервисах и услугах Компании  в программах, продуктах или сервисах, которые принадлежат таким лицам или контролируются ими (например, владельцы сайтов и приложений, рекламные сети и другие лица и т.п.);
+\- лица, которые участвуют в оказании услуг, связанных с размещением и отображением информации пользователям (в т.ч. предложений, релевантных интересам пользователей) о сервисах и услугах Компании в программах, продуктах или сервисах, которые принадлежат таким лицам или контролируются ими (например, владельцы сайтов и приложений, рекламные сети и другие лица и т.п.);
 
-\- лица, которые имеют законные основания обрабатывать Учетные и Иные данные, например, если передача Учетных и Иных данных таким лицам осуществляется с согласия Пользователя, в том числе если Учетные и Иные данные необходимы для предоставления Пользователю соответствующего сервиса или выполнения определенного соглашения или договора, заключенного с Пользователем, в частности, операторы сотовой связи и/или технологические партнеры, действующие между Компанией и операторами сотовой связи, во исполнение пунктов 3.3 и 6.3.6 Пользовательского соглашения сервисов Mail. К этим лицам также относятся [партнеры и аффилированные лица Компании](https://help.mail.ru/legal/terms/partnersandaffiliates/ru), обработка данных которыми предусмотрена условиями настоящей Политики;
+\- лица, которые имеют законные основания обрабатывать Учетные и Иные данные, например, если передача Учетных и Иных данных таким лицам осуществляется с согласия Пользователя, в том числе если Учетные и Иные данные необходимы для предоставления Пользователю соответствующего сервиса или выполнения определенного соглашения или договора, заключенного с Пользователем, в частности, операторы сотовой связи и/или технологические партнеры, действующие между Компанией и операторами сотовой связи, во исполнение пунктов 3.3 и 6.3.6 Пользовательского соглашения сервисов Mail. К этим лицам также относятся [партнеры и аффилированные лица Компании](https://help.mail.ru/legal/terms/partnersandaffiliates/ru/), обработка данных которыми предусмотрена условиями настоящей Политики;
 
 \- третьи лица, в отношении которых произведена уступка прав или обязанностей, или новация по соответствующему соглашению;
 
@@ -278,7 +256,7 @@ _s_
 
 Принимая во внимание изложенное, а также учитывая соблюдение Компанией целей обработки, указанных в п. 3.2 настоящей Политики, Пользователь соглашается и поручает Компании осуществлять следующие действия:
 
-\- обработку, включая сбор, запись, систематизацию, накопление, хранение, уточнение (обновление, изменение), сопоставление, извлечение, использование, блокирование, удаление/уничтожение Учетных и Иных данных Пользователя; 
+\- обработку, включая сбор, запись, систематизацию, накопление, хранение, уточнение (обновление, изменение), сопоставление, извлечение, использование, блокирование, удаление/уничтожение Учетных и Иных данных Пользователя;
 
 \- передачу партнерам и аффилированным лицам Учетных и Иных данных, и их обработку партнерами и аффилированными лицами, на основании поручения от Компании (указанными в настоящем пункте способами), а также совместную обработку партнерами и аффилированными лицами Учетных и Иных данных с данными, имеющихся в распоряжении партнеров и аффилированных лиц;
 
@@ -286,29 +264,29 @@ _s_
 
 Учитывая характер и функциональные особенности большинства Сервисов, Компания может способствовать деятельности по исследованию рынка товаров и услуг, в том числе оценке спроса и предложений, продвижению товаров, анализу эффективности проведенных информационных, рекламных и маркетинговых кампаний путем формирования обезличенной аналитической информации на основе данных об использовании Сервисов.
 
-Пользователь соглашается на обработку собираемых Сервисом(ами) данных, в объеме, перечисленном в политике конфиденциальности Сервиса(ов), который(ые) использует Пользователь, совместно с данными о нем, полученными от [партнеров Компании](https://help.mail.ru/legal/partners) и обеспеченных партнерами Компании законными основаниями для такой обработки, в объеме, указанном в Политике конфиденциальности сервиса(ов) партнера Компании, который(ые) использует Пользователь, в целях улучшения качества предоставляемых Сервиса(ов), а именно: для удовлетворение интересов Пользователя путем показа релевантной интересам Пользователя информации, таргетирования точной рекламы (показа релевантной его интересам информации), формирования обобщенной статистической/ аналитической информации на основе использования Сервиса(ов) и сервиса(ов) Партнеров.
+Пользователь соглашается на обработку собираемых Сервисом(ами) данных, в объеме, перечисленном в политике конфиденциальности Сервиса(ов), который(ые) использует Пользователь, совместно с данными о нем, полученными от [партнеров Компании](https://help.mail.ru/legal/partners/) и обеспеченных партнерами Компании законными основаниями для такой обработки, в объеме, указанном в Политике конфиденциальности сервиса(ов) партнера Компании, который(ые) использует Пользователь, в целях улучшения качества предоставляемых Сервиса(ов), а именно: для удовлетворение интересов Пользователя путем показа релевантной интересам Пользователя информации, таргетирования точной рекламы (показа релевантной его интересам информации), формирования обобщенной статистической/ аналитической информации на основе использования Сервиса(ов) и сервиса(ов) Партнеров.
 
-В ряде случаев отдельные функциональные возможности Сервисов могут предоставляться не Компанией, а третьими лицами, которые действуют независимо Компании и не выступают от имени или по поручению Компании. В этом случае Пользователи обязаны самостоятельно ознакомиться с правилами оказания услуг и политикой защиты информации/персональных данных таких третьих лиц до начала использования соответствующих функциональных возможностей Сервисов.
+В ряде случаев отдельные функциональные возможности Сервисов могут предоставляться не Компанией, а третьими лицами, которые действуют независимо Компании и не выступают от имени или по поручению Компании. В этом случае Пользователи обязаны самостоятельно ознакомиться с правилами оказания услуг и политикой защиты информации/персональных данных таких третьих лиц до начала использования соответствующих функциональных возможностей Сервисов.
 
 Компания вправе предоставить Пользователю возможность передавать Учетные данные третьим лицам посредством специальных технологий (Open ID и др.), при условии согласия Пользователя на такую передачу. При этом Компания не гарантирует Пользователю полноту и корректность передачи Учетных данных и не несет ответственности за сохранность данных в процессе передачи.
 
 Пользователь соглашается на обработку его персональных данных и передачу результата обработки третьему лицу, если такой результат необходим Пользователю для заключения договора с третьим лицом, по которому Пользователь будет являться стороной.
 
-В случаях, предусмотренных политиками конфиденциальности соответствующих Сервисов, Компания может осуществлять трансграничную передачу Информации в минимальном объеме, необходимом для целей, указанных в настоящей Политике или политиках соответствующих Сервисов, третьим лицам. 
+В случаях, предусмотренных политиками конфиденциальности соответствующих Сервисов, Компания может осуществлять трансграничную передачу Информации в минимальном объеме, необходимом для целей, указанных в настоящей Политике или политиках соответствующих Сервисов, третьим лицам.
 
-Использование в Сервисах информации, полученной от API Google, осуществляется в соответствие с положениями Google API Services User Data Policy, доступной в сети Интернет по адресу: [https://developers.google.com/terms/api-services-user-data-policy#additional\_requirements\_for\_specific\_api\_scopes](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes) с учетом указанных в ней ограничений, а именно для целей предоставления Пользователю и улучшения функционала соответствующего Сервиса. При этом полученная указанным образом информация не может быть использована для показа (таргетирования) Пользователю рекламных материалов и в иных целях, связанных с неправомерным доступом к содержанию переписки Пользователя.
+Использование в Сервисах информации, полученной от API Google, осуществляется в соответствие с положениями Google API Services User Data Policy, доступной в сети Интернет по адресу: [https://developers.google.com/terms/api-services-user-data-policy#additional\_requirements\_for\_specific\_api\_scopes](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes) с учетом указанных в ней ограничений, а именно для целей предоставления Пользователю и улучшения функционала соответствующего Сервиса. При этом полученная указанным образом информация не может быть использована для показа (таргетирования) Пользователю рекламных материалов и в иных целях, связанных с неправомерным доступом к содержанию переписки Пользователя.
 
 Не допускается извлечение и использование Учетных и Иных данных Пользователей, в том числе в коммерческих целях, без разрешения Компании.
 
 3.5. Хранение Информации
 
-Учетные и Иные данные пользователей хранятся на территории Российской Федерации, при этом хранение осуществляется исключительно на электронных носителях, а обработка - с использованием автоматизированных систем, за исключением случаев, когда неавтоматизированная обработка Учетных и Иных данных необходима в связи с исполнением требований применимого законодательства.
+Учетные и Иные данные пользователей хранятся на территории Российской Федерации, при этом хранение осуществляется исключительно на электронных носителях, а обработка - с использованием автоматизированных систем, за исключением случаев, когда неавтоматизированная обработка Учетных и Иных данных необходима в связи с исполнением требований применимого законодательства.
 
 Учетные и Иные данные хранятся до достижения целей их обработки, если иное не указано в политике конфиденциальности соответствующего сервиса.
 
 3.6. Сроки хранения Информации
 
-Учетные и Иные данные хранятся Компанией в течение срока действия соглашения между Пользователем и Компанией об использовании соответствующего Сервиса, а после прекращения действия такого соглашения – в течение срока, необходимого и установленного действующим законодательством Российской Федерации.
+Учетные и Иные данные хранятся Компанией в течение срока действия соглашения между Пользователем и Компанией об использовании соответствующего Сервиса, а после прекращения действия такого соглашения – в течение срока, необходимого и установленного действующим законодательством Российской Федерации.
 
 3.7. Прекращение обработки Информации
 
@@ -318,25 +296,25 @@ _s_
 
 Пользователи вправе:
 
-4.1. получать бесплатный доступ к информации о себе посредством просмотра Учетной записи Пользователя в соответствующем Сервисе;
+4.1. получать бесплатный доступ к информации о себе посредством просмотра Учетной записи Пользователя в соответствующем Сервисе;
 
-4.2. с помощью инструментария Сервиса установить в отношении информации о себе желаемый уровень конфиденциальности (условия доступа к информации) с учетом функционала соответствующего Сервиса (если применимо);
+4.2. с помощью инструментария Сервиса установить в отношении информации о себе желаемый уровень конфиденциальности (условия доступа к информации) с учетом функционала соответствующего Сервиса (если применимо);
 
-4.3. самостоятельно вносить изменения и исправления в информацию о себе путем редактирования информации в Учетной записи Пользователя, при условии, что такие изменения и исправления содержат актуальную и достоверную информацию;
+4.3. самостоятельно вносить изменения и исправления в информацию о себе путем редактирования информации в Учетной записи Пользователя, при условии, что такие изменения и исправления содержат актуальную и достоверную информацию;
 
-4.4. удалять информацию о себе путем редактирования информации в Учетной записи соответствующего Сервиса (если применимо); при этом удаление Пользователем определенной информации о себе из Учетной записи Пользователя в некоторых Сервисах может привести к невозможности предоставления Пользователю доступа к этим Сервисам. 
+4.4. удалять информацию о себе путем редактирования информации в Учетной записи соответствующего Сервиса (если применимо); при этом удаление Пользователем определенной информации о себе из Учетной записи Пользователя в некоторых Сервисах может привести к невозможности предоставления Пользователю доступа к этим Сервисам.
 
-4.5. требовать от Компании уточнения информации о Пользователе, ее блокирования или уничтожения в случае, если такая информация являются неполной, устаревшей, недостоверной, необоснованно полученной или не является необходимой для заявленной цели обработки и если функционал Сервиса не позволяет Пользователю самостоятельно удалить такую информацию;
+4.5. требовать от Компании уточнения информации о Пользователе, ее блокирования или уничтожения в случае, если такая информация являются неполной, устаревшей, недостоверной, необоснованно полученной или не является необходимой для заявленной цели обработки и если функционал Сервиса не позволяет Пользователю самостоятельно удалить такую информацию;
 
-4.6. на основании запроса получать от Компании информацию, касающуюся обработки информации о Пользователе.
+4.6. на основании запроса получать от Компании информацию, касающуюся обработки информации о Пользователе.
 
-4.7. при получении Сервисов, направленных на удовлетворение интересов Пользователя путем таргетирования рекламы (показа релевантной его интересам информации), Пользователь вправе применять доступные настройки и знакомиться с условиями такой обработки по ссылке [https://target.my.com/optout/](https://target.my.com/optout/).
+4.7. при получении Сервисов, направленных на удовлетворение интересов Пользователя путем таргетирования рекламы (показа релевантной его интересам информации), Пользователь вправе применять доступные настройки и знакомиться с условиями такой обработки по ссылке [https://target.my.com/optout/](https://target.my.com/optout/).
 
-4.8. оказаться от обработки персональных данных путем направления Компании в порядке, предусмотренном в разделе 7 настоящей Политики, соответствующего запроса.
+4.8. оказаться от обработки персональных данных путем направления Компании в порядке, предусмотренном в разделе 7 настоящей Политики, соответствующего запроса.
 
 **5\. Меры по защите информации**
 
-5.1. Компания принимает технические и организационно-правовые меры в целях обеспечения защиты информации о Пользователях от неправомерного или случайного доступа к ним, уничтожения, изменения, блокирования, копирования, распространения, а также от иных неправомерных действий.
+5.1. Компания принимает технические и организационно-правовые меры в целях обеспечения защиты информации о Пользователях от неправомерного или случайного доступа к ним, уничтожения, изменения, блокирования, копирования, распространения, а также от иных неправомерных действий.
 
 5.2. Технические меры безопасности реализованы Компанией с учетом требований применимого законодательства, современного уровня техники, характера обрабатываемой информации и рисков, связанных с ее обработкой.
 
@@ -344,34 +322,76 @@ _s_
 
 **6\. Ограничение ответственности Компании**
 
-6.1. Компания не несет ответственности за разглашение и распространение информации о Пользователе другими Пользователями Сервисов или другими пользователями сети Интернет в случае, если такие лица получили доступ к указанной информации в соответствии с выбранным Пользователем настройками уровня конфиденциальности соответствующего Сервиса, либо в случае нарушения Пользователем сохранности его логина и/или пароля или иных необходимых для авторизации данных.
+6.1. Компания не несет ответственности за разглашение и распространение информации о Пользователе другими Пользователями Сервисов или другими пользователями сети Интернет в случае, если такие лица получили доступ к указанной информации в соответствии с выбранным Пользователем настройками уровня конфиденциальности соответствующего Сервиса, либо в случае нарушения Пользователем сохранности его логина и/или пароля или иных необходимых для авторизации данных.
 
 **7\. Обращения Пользователей**
 
-7.1. Сведения об обрабатываемых Компанией данных, в том числе персональных данных Пользователя, в связи с использованием им соответствующего Сервиса предоставляются Пользователю или его представителю при обращении (запросе).  
+7.1. Сведения об обрабатываемых Компанией данных, в том числе персональных данных Пользователя, в связи с использованием им соответствующего Сервиса предоставляются Пользователю или его представителю при обращении (запросе).
 
-7.2. Запросы направляются в письменной форме по адресу места нахождения Компании или в иной форме, предусмотренной действующим законодательством Российской Федерации.
+7.2. Запросы направляются в письменной форме по адресу места нахождения Компании или в иной форме, предусмотренной действующим законодательством Российской Федерации.
 
 7.3. Пользователь вправе отозвать согласие на обработку своих персональных данных путем направления Компании письменного заявления по месту нахождения Компании в соответствии с требованиями действующего законодательства.
 
-**8\. Изменения и дополнения настоящей Политики**
+**8\. Изменения и дополнения настоящей Политики**
 
-8.1. Настоящая Политика и политики отдельных Сервисов могут быть изменены Компанией с уведомлением Пользователя, в том числе путем размещения новой редакции изменяемой политики на Сайте. Изменения в Политике, внесенные Компанией, вступают в силу в день, следующий за днем её размещения на Сайте новой редакции Политики. Пользователь обязуется самостоятельно проверять настоящую Политику и Политики отдельных Сервисов на предмет внесенных изменений. Неосуществление Пользователем действий по ознакомлению не может служить основанием для неисполнения Пользователем своих обязательств и несоблюдения Пользователем ограничений, установленных настоящим Соглашением и Соглашениями отдельных Сервисов.
+8.1. Настоящая Политика и политики отдельных Сервисов могут быть изменены Компанией с уведомлением Пользователя, в том числе путем размещения новой редакции изменяемой политики на Сайте. Изменения в Политике, внесенные Компанией, вступают в силу в день, следующий за днем её размещения на Сайте новой редакции Политики. Пользователь обязуется самостоятельно проверять настоящую Политику и Политики отдельных Сервисов на предмет внесенных изменений. Неосуществление Пользователем действий по ознакомлению не может служить основанием для неисполнения Пользователем своих обязательств и несоблюдения Пользователем ограничений, установленных настоящим Соглашением и Соглашениями отдельных Сервисов.
 
 8.2. Пользователь вправе отказаться от принятия изменений и дополнений в настоящую Политику и/или политики отдельных Сервисов, что означает отказ Пользователя от использования всех и/или отдельных Сервисов Mail и всех предоставленных ему ранее прав.
 
 8.3. Настоящая Политика регулируется и толкуется в соответствии с законодательством Российской Федерации. Вопросы, не урегулированные настоящей Политикой, подлежат разрешению в соответствии с законодательством Российской Федерации.
 
-_Редакция от 27.08.2024_
+_Редакция от 10.10.2023 г._
 
-Обновлено 21 ноября 2024 г.
+Служба поддержки Mail
 
-|     |     |
-| --- | --- |
-| [Mail](https://r.mail.ru/n154506914?sz=36&rnd=1446852267)[О компании](https://r.mail.ru/n382470674?sz=36&rnd=1446852267)[Реклама](https://r.mail.ru/n309433544?sz=36&rnd=1446852267)[Вакансии](https://r.mail.ru/n382470675?sz=36&rnd=1446852267) |     |
+![Помощь Mail](https://hmr.mrgcdn.ru/cdn/img/og-sharing.png)
 
-            
+[Предыдущая статья
 
-![Top.Mail.Ru](https://top-fwz1.mail.ru/counter?id=1300870;js=na)
+Пользовательское соглашение сервисов Mail](https://help.mail.ru/legal/terms/common/ua/)
 
-![](https://mc.yandex.ru/watch/92805550)
+[Следующая статья
+
+Правила применения рекомендательных технологий ресурса Mail](https://help.mail.ru/legal/terms/common/mainrecommendation/)
+
+Помощь по другим проектам
+-------------------------
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/mail.svg) Почта](https://help.mail.ru/mail/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/app.svg) Почта на Android](https://help.mail.ru/app_android/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/app.svg) Почта на iOS](https://help.mail.ru/app_ios/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/cloud-web.svg) Облако](https://help.mail.ru/cloud_web/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/disko.svg) Диск-О:](https://help.mail.ru/disko/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/mail.svg) Главная Mail](https://help.mail.ru/main/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/calendar.svg) Календарь](https://help.mail.ru/calendar-help/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/doc.svg) Документы](https://help.mail.ru/doc/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/todo.svg) Задачи](https://help.mail.ru/todo/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/notes.svg) Заметки](https://help.mail.ru/notes/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/vkmail.svg) VK Почта](https://help.mail.ru/vkmail/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/developers.svg) Для разработчиков](https://help.mail.ru/developers/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/otvety.svg) Ответы](https://help.mail.ru/otvety-help/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/my-help.svg) Мой Мир](https://help.mail.ru/my-help/)
+
+ [![](https://hmr.mrgcdn.ru/cdn/img/project-icon/vk-work-space.png) VK WorkSpace](https://biz.mail.ru/?utm_source=click_help&utm_medium=vk_wokspace&utm_campaign=footer&mt_link_id=th55u8)
+
+![icon](https://hmr.mrgcdn.ru/cdn/img/logo-mail-bottom.svg)
+
+* [Mail](https://r.mail.ru/n154506914?sz=36&rnd=230917203)
+* [О компании](https://r.mail.ru/n382470674?sz=36&rnd=206484244)
+* [Реклама](https://r.mail.ru/n309433544?sz=36&rnd=230917203)
+* [Вакансии](https://r.mail.ru/n382470675?sz=36&rnd=206484244)
+* [Юридические документы](https://help.mail.ru/legal/terms/mail)
+* [Сообщить об уязвимости](https://bb.standoff365.com/vendors/vk)
