@@ -261,7 +261,21 @@ b. Rectification of inaccurate or incomplete information: You can ask us to corr
 
   
 
-c. Data Retention and Erasure: We retain your personal information for as long as necessary. This is required for the performance of the contract between you and us and to comply with our legal obligations. If you no longer want us to use your information, then you can request that we erase your personal information and close your Zee5 account. You/Users can request for account deletion by writing an email to dpo@zee.com. Please note that upon your request for the erasure of your personal information, we may still need to:
+c. Data Retention and Erasure: We retain your personal information for as long as necessary. This is required for the performance of the contract between you and us and to comply with our legal obligations. If you no longer want us to use your information, then you can request that we erase your personal information and close your Zee5 account. You/Users can request for account deletion by writing an email to dpo@zee.com.
+
+  
+
+Users with an active subscription plan:  
+Erasure of your information from the Platform will result in Your active subscription being terminated without any refunds. Please refer to the Zee5 Terms and Conditions \[https://www.zee5.com/termsofuse\] for more information on requesting for account deletion while You have an active subscription plan.
+
+  
+
+Users with auto-recurring payments enabled:  
+In case you have purchased Your subscription plan using an auto-recurring payment method (Apple In-App Purchase (IAP), Google In-App-Purchase (IAP), Amazon In-App-Purchase (IAP), Roku Pay, etc.), please ensure that such auto-recurring payment methods are disabled/turned off prior to initiating account deletion. Please refer to the Zee5 Terms and Conditions \[https://www.zee5.com/termsofuse\] for more information on requesting for account deletion for Users with auto-recurring payments enabled.  
+
+  
+
+Please note that upon your request for the erasure of your personal information, we may still need to:
 
 i. retain some of your personal information as necessary for our legitimate business interests, such as fraud detection and prevention and enhancing safety. For example, if we suspend a an account for fraud or safety reasons, we may retain certain information from that account to prevent that user from opening a new account in the future.
 
@@ -474,9 +488,19 @@ ZEE5 may provide links to various third-party websites that may collect Your Per
 
   
 
-**VI. Data Retention**
+**VI. Data Deletion and Retention**
 
-We retain Personal Data only for as long as We believe is necessary for purposes set out herein. We may be required to retain it for a longer period of time for any legal, regulatory or statutory requirements.
+We retain your personal information for as long as necessary. This is required for the performance of the contract between you and us and to comply with our legal obligations. If you no longer want us to use your information, then you can request that we erase your personal information and close your Zee5 account. You/Users can request for account deletion by writing an email to dpo@zee.com.
+
+  
+
+Users with an active subscription plan:  
+Erasure of your information from the Platform will result in Your active subscription being terminated without any refunds. Please refer to the Zee5 Terms and Conditions \[https://www.zee5.com/termsofuse\] for more information on requesting for account deletion while You have an active subscription plan.
+
+  
+
+Users with auto-recurring payments enabled:  
+In case you have purchased Your subscription plan using an auto-recurring payment method (Apple In-App Purchase (IAP), Google In-App-Purchase (IAP), Amazon In-App-Purchase (IAP), Roku Pay, etc.), please ensure that such auto-recurring payment methods are disabled/turned off prior to initiating account deletion. Please refer to the Zee5 Terms and Conditions \[https://www.zee5.com/termsofuse\] for more information on requesting for account deletion for Users with auto-recurring payments enabled.  
 
   
 
@@ -514,7 +538,7 @@ ZEEL is a company based in India. By browsing/using ZEE5, You hereby acknowledge
 
   
 
-Updated: Jul 29, 2024;
+Updated: Dec 13, 2024;
 
   
 
