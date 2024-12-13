@@ -108,16 +108,16 @@ Advertisement
 
 ###### Highest Rated This Month
 
-* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
-    
-    Why The Industrial Revolution Happened Here
-    
-    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
+* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
+    
+    Why The Industrial Revolution Happened Here
+    
+    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![Suicide](/wp-content/thumbnails/13877-100x70.jpg?x53432)
     
     Suicide
@@ -128,39 +128,39 @@ Advertisement
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
-* [![Why We Bang](/wp-content/thumbnails/1121-100x70.jpg?x53432)
+* [![Dispatches: The Killing Zone](/wp-content/thumbnails/481-100x70.png?x53432)
     
-    Why We Bang
+    Dispatches: The Killing Zone
     
-    The film, Why We Bang, produced and directed by Orlando Myrics and Clifford Jordan for Ghetto Logik Entertainment is an independent film that documents the historical background of LA's Bloods and Cri...](https://documentaryheaven.com/why-we-bang/ "Why We Bang")
+    While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
 
 ###### Throwback Documentaries
 
-* [![Embedded With Al-Qaeda in Syria: ISIS & Al-Nusra](/wp-content/thumbnails/9056-100x70.jpg?x53432)
+* [![Busted: The Citizens Guide to Surviving Police Encounters](/wp-content/thumbnails/181-100x70.png?x53432)
     
-    Embedded With Al-Qaeda in Syria: ISIS & Al-Nusra
+    Busted: The Citizens Guide to Surviving Police Encounters
     
-    Over two and a half years ago, unarmed protesters demonstrated in the streets of Syria demanding the downfall of the Assad regime. They hope that like the revolutions seen in Egypt, Tunisia and Libya](https://documentaryheaven.com/embedded-al-qaeda-syria-isis-al-nusra/ "Embedded With Al-Qaeda in Syria: ISIS & Al-Nusra")
-* [![Seven Ages Of Starlight](/wp-content/thumbnails/8006-100x70.jpg?x53432)
+    Most people don't know their basic constitutional rights, and those who do usually waive them in the face of police intimidation. Worse, police rely on people's fear and ignorance of the law to trick](https://documentaryheaven.com/busted-the-citizens-guide-to-surviving-police-encounters/ "Busted: The Citizens Guide to Surviving Police Encounters")
+* [![Architects of Control: Mass Control & The Future of Mankind](/wp-content/thumbnails/1654-100x70.jpg?x53432)
     
-    Seven Ages Of Starlight
+    Architects of Control: Mass Control & The Future of Mankind
     
-    This is the epic story of the stars, and how discovering their tale has transformed our own understanding of the universe.Once we thought the sun and stars were gods and giants. Now we know, in a](https://documentaryheaven.com/seven-ages-of-starlight/ "Seven Ages Of Starlight")
-* [![Steve O Demise and Rise](/wp-content/thumbnails/6393-100x70.jpg?x53432)
+    "The real war is the war on consciousness. It's very important to always remember that ...Mind control is ubiquitous. It's almost a question of who is not mind controlled, as opposed to who is mind co](https://documentaryheaven.com/architects-of-control-mass-control-the-future-of-mankind/ "Architects of Control: Mass Control & The Future of Mankind")
+* [![Gunsmoke: USA](/wp-content/thumbnails/6844-100x70.jpg?x53432)
     
-    Steve O Demise and Rise
+    Gunsmoke: USA
     
-    Over one year sober now and fresh off a comeback stint on ABC's 'Dancing With the Stars', Steve-O is set to bare his soul and everything else in 'Steve-O: Demise and Rise', a brutally honest one-hour](https://documentaryheaven.com/steve-o-demise-and-rise/ "Steve O Demise and Rise")
-* [![Meet The Mormons](/wp-content/thumbnails/12069-100x70.jpg?x53432)
+    An ongoing source of controversy in America, gun laws are increasingly polarizing the Southern states and Washington. In Arizona, Tea Party supporting, heavily armed, vigilante groups are taking over.](https://documentaryheaven.com/gunsmoke-usa/ "Gunsmoke: USA")
+* [![D Day to Berlin](/wp-content/thumbnails/6493-100x70.png?x53432)
     
-    Meet The Mormons
+    D Day to Berlin
     
-    In this film we meet several British Mormons, young missionaries who's job it is to convert us to their particular brand of Christianity. Run from Salt Lake City in Utah the Mormon religion is an](https://documentaryheaven.com/meet-mormons/ "Meet The Mormons")
-* [![The Cola Wars](/wp-content/thumbnails/14516-100x70.jpg?x53432)
+    From the moment that Allied forces established the first beachhead in Normandy on D-Day, the end of the war in Europe was in sight. But although many soldiers joked about being in ‘Berlin by Chri](https://documentaryheaven.com/d-day-to-berlin/ "D Day to Berlin")
+* [![Getting High On HIV Medication](/wp-content/thumbnails/8654-100x70.jpeg?x53432)
     
-    The Cola Wars
+    Getting High On HIV Medication
     
-    The soft drink industry is a 100 million dollar juggernaut, the Coca Cola Company and Pepsi Co. control vast empires which reach into practically every corner of the globe. Through huge networks of bo](https://documentaryheaven.com/cola-wars/ "The Cola Wars")
+    With most drugs there is a long pre established history of what the activity and effects of that drug is going to be like, this is not the case however with Efavirenz. Efavirenz are an antiretroviral](https://documentaryheaven.com/getting-high-on-hiv-medication/ "Getting High On HIV Medication")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
