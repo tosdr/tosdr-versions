@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Freedom
+
+### Why Florida and almost half of US states are enshrining a right to hunt and fish](https://www.csmonitor.com/Environment/2024/1213/fishing-hunting-state-constitution-florida "Why Florida and almost half of US states are enshrining a right to hunt and fish")
+
 [Safety
 
 ### Assad’s fall has rewards for Israel. It’s focused on the risks.](https://www.csmonitor.com/World/Middle-East/2024/1212/syria-assad-rebels-iran-israel-security "Assad’s fall has rewards for Israel. It’s focused on the risks.")
@@ -99,10 +103,6 @@ Recent Stories
 [Equality
 
 ### Equality is on Syria’s agenda](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1212/Equality-is-on-Syria-s-agenda "Equality is on Syria’s agenda")
-
-[Community
-
-### Malibu’s wildfire threatens my community. It’s also bringing us together.](https://www.csmonitor.com/USA/2024/1212/franklin-fire-malibu-update "Malibu’s wildfire threatens my community. It’s also bringing us together.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
