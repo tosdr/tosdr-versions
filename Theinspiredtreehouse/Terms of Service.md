@@ -401,5 +401,3 @@ SAVE & ACCEPT
 Powered by [![CookieYes Logo](https://theinspiredtreehouse.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg)](https://www.cookieyes.com/)
 
 ### Pin It on Pinterest
-
-![](https://www.facebook.com/tr?id=495157317682961&ev=PageView&noscript=1&cd%5Bpage_title%5D=Terms+of+Use&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=19724&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=theinspiredtreehouse.com%2Fterms-of-use%2F)
