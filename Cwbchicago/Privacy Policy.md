@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/09/Red-Line-North-Side-Suspects-Septemer-2024-326x245.jpg)](https://cwbchicago.com/2024/12/16-year-old-charged-committing-4-robberies-along-the-red-line.html "16-year-old charged with committing 4 robberies along the Red Line")
+
+CTA
+
+### [16-year-old charged with committing 4 robberies along the Red Line](https://cwbchicago.com/2024/12/16-year-old-charged-committing-4-robberies-along-the-red-line.html "16-year-old charged with committing 4 robberies along the Red Line")
+
+[December 10, 2024 11:40 AM](https://cwbchicago.com/2024/12)
+
+A 16-year-old boy is charged with committing four robberies on CTA trains and platforms earlier this year, police say. Chicago police arrested the boy yesterday in the 1100 block of South Hamilton, which is where the county’s juvenile justice center is located, suggesting he may have other matters pending.[](https://cwbchicago.com/2024/12/16-year-old-charged-committing-4-robberies-along-the-red-line.html "16-year-old charged with committing 4 robberies along the Red Line")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/marcus-montgomery-map-326x245.jpg)](https://cwbchicago.com/2024/12/4x-felon-committed-2-carjackings-and-robbed-2-migrants-within-30-minutes-cpd-report-says.html "4x felon committed 2 carjackings and robbed 2 migrants within 30 minutes, CPD report says")
+
+Goose Island
+
+### [4x felon committed 2 carjackings and robbed 2 migrants within 30 minutes, CPD report says](https://cwbchicago.com/2024/12/4x-felon-committed-2-carjackings-and-robbed-2-migrants-within-30-minutes-cpd-report-says.html "4x felon committed 2 carjackings and robbed 2 migrants within 30 minutes, CPD report says")
+
+[December 10, 2024 11:14 AM](https://cwbchicago.com/2024/12)
+
+A four-time convicted felon is charged with committing two carjackings within 30 minutes on Saturday afternoon, first in Old Town and then outside the migrant shelter located across from the Salt Shed. Two migrants who were working on a car outside the shelter reported that Marcus Montgomery, 39, robbed them, too, but they later decided against filing charges, a Chicago police report said.[](https://cwbchicago.com/2024/12/4x-felon-committed-2-carjackings-and-robbed-2-migrants-within-30-minutes-cpd-report-says.html "4x felon committed 2 carjackings and robbed 2 migrants within 30 minutes, CPD report says")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/12/dec-9-map-326x245.jpg)](https://cwbchicago.com/2024/12/off-duty-fbi-agent-among-7-victims-targeted-in-3-hour-robbery-spree.html "Off-duty FBI agent among 7 victims targeted in 3-hour robbery spree")
 
 Bucktown
@@ -252,26 +272,6 @@ Bucktown
 [December 10, 2024 8:11 AM](https://cwbchicago.com/2024/12)
 
 An off-duty FBI agent was among seven victims robbed during a string of holdups stretching from Noble Square to Humboldt Park on Monday evening. The area withered under nearly two years of relentless robber sprees until earlier this year. There are recent indications that the crews may be reconstituting.[](https://cwbchicago.com/2024/12/off-duty-fbi-agent-among-7-victims-targeted-in-3-hour-robbery-spree.html "Off-duty FBI agent among 7 victims targeted in 3-hour robbery spree")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/6000-bk-n-mozart-326x245.jpg)](https://cwbchicago.com/2024/12/man-shot-critically-wounded-inside-west-rogers-park-apartment.html "Man shot, critically wounded inside West Rogers Park apartment")
-
-West Rogers Park
-
-### [Man shot, critically wounded inside West Rogers Park apartment](https://cwbchicago.com/2024/12/man-shot-critically-wounded-inside-west-rogers-park-apartment.html "Man shot, critically wounded inside West Rogers Park apartment")
-
-[December 10, 2024 6:48 AM](https://cwbchicago.com/2024/12)
-
-A 23-year-old man was shot inside a West Rogers Park apartment on Monday evening, Chicago police said. Detectives are working to determine if the shooting involves someone known to the victim.[](https://cwbchicago.com/2024/12/man-shot-critically-wounded-inside-west-rogers-park-apartment.html "Man shot, critically wounded inside West Rogers Park apartment")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Julio-Rodriguez-326x245.jpg)](https://cwbchicago.com/2024/12/parole-agent-found-sex-offender-engaged-in-x-rated-video-call-with-14-year-old-girl-prosecutors-allege.html "Parole agent found sex offender engaged in X-rated video call with 14-year-old girl, prosecutors allege")
-
-Chatham
-
-### [Parole agent found sex offender engaged in X-rated video call with 14-year-old girl, prosecutors allege](https://cwbchicago.com/2024/12/parole-agent-found-sex-offender-engaged-in-x-rated-video-call-with-14-year-old-girl-prosecutors-allege.html "Parole agent found sex offender engaged in X-rated video call with 14-year-old girl, prosecutors allege")
-
-[December 9, 2024 7:36 PM](https://cwbchicago.com/2024/12)
-
-In a stunning set of allegations, prosecutors are claiming that a parole agent visiting the residence of a man on parole for child pornography found the parolee pleasuring himself with his pants lowered while on a video call with a 14-year-old girl.[](https://cwbchicago.com/2024/12/parole-agent-found-sex-offender-engaged-in-x-rated-video-call-with-14-year-old-girl-prosecutors-allege.html "Parole agent found sex offender engaged in X-rated video call with 14-year-old girl, prosecutors allege")
 
 Search
 
