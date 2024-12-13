@@ -1,4 +1,4 @@
-[\[Flash Sale\] 50% OFF 2nd Solar Panel![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)](https://4patriots.com/product/100w-portable-folding-solar-panel)
+[\[Extended\] 50% OFF 2nd Solar Panel![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)](https://4patriots.com/product/100w-portable-folding-solar-panel)
 
 [](https://4patriots.com/product/100w-portable-folding-solar-panel)
 
@@ -40,17 +40,17 @@ Search
     
     [Shop All](https://4patriots.com/category/deals)
     
-    [![72 Hour Food Kit in front of the Christmas tree](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fdc51854a890d466b8c68d7130b2e5343?width=343)
+    [![72 Hour Food Kit in front of the Christmas tree](https://assets.catsy.com/catsy.1040/DEPT-2403-CATEGORY-TILE-SOLAR-GENERATORS-100W-PANEL-680x680.jpg)
     
-    50% OFF 100-Watt Solar Panel](https://4patriots.com/product/100w-portable-folding-solar-panel)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F1abd78e7a79a48ddb14cce805c8646b8?width=343)
+    50% OFF 100W Solar Panel](https://4patriots.com/product/100w-portable-folding-solar-panel)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F1abd78e7a79a48ddb14cce805c8646b8?width=343)
     
-    B1G1 Mini Generator Deal](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F53b2f8faa63c483aab46b333e5c6123b?width=343)
+    B1G1 Mini Generator Deal](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![](https://assets.catsy.com/catsy.1040/CAR-2411-HOLIDAY-LIFESTYLE-CATEGORY-680x680.jpg)
     
     #1 Emergency Kit for Cars](https://4patriots.com/product/patriot-power-all-in-one-emergency-car-kit-95-pieces)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F18eb4df89fce447fb8df45519e514965?width=343)
     
     "Mini" Cooler & Warmer](https://4patriots.com/product/freedom-fridge-electric-cooler-warmer)
     
-    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fafe30086aaf54c3191129ed6c3913c9b?width=500)](https://4patriots.com/category/deals)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F4a521c4c3a8f4b5f8006029711027a7c?width=638)](https://4patriots.com/product/emergency-food-ration-bars)
+    [![](https://assets.catsy.com/catsy.1040/SITE-AD-2411-BFCM-DESKTOP-PROMO-EVERGREEN-704x1000.jpg)](https://4patriots.com/category/deals)[![](https://assets.catsy.com/catsy.1040/SITE-AD-2411-BFCM-MOBILE-PROMO-EVERGREEN-854x674.jpg)](https://4patriots.com/product/emergency-food-ration-bars)
     
     ###### Check Out More Santa-Approved Savings
     
@@ -70,7 +70,7 @@ Search
     
     [Shop All](https://4patriots.com/category/new-arrivals)
     
-    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/SITE-AD-2409-FRT-TABLESCAPE-704x1000.jpg)](https://4patriots.com/product/endless-orchard-all-fruit-survival-food-kit)[![](https://s3-us-west-2.amazonaws.com/catsy.1040/SITE-AD-2410-FRT-TABLESCAPE-854x674.jpg)](https://4patriots.com/product/endless-orchard-all-fruit-survival-food-kit)
+    [![](https://assets.catsy.com/catsy.1040/SITE-AD-2409-FRT-TABLESCAPE-704x1000.jpg)](https://4patriots.com/product/endless-orchard-all-fruit-survival-food-kit)[![](https://assets.catsy.com/catsy.1040/SITE-AD-2410-FRT-TABLESCAPE-854x674.jpg)](https://4patriots.com/product/endless-orchard-all-fruit-survival-food-kit)
     
     ###### Summer-Sweet Fruit Lasts 25 Years
     
@@ -90,13 +90,13 @@ Search
     
     [Shop All](https://4patriots.com/category/best-sellers)
     
-    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fe42d3cf8cb7f44d4b81226d8baad74e9?width=500)](https://4patriots.com/product/patriot-power-solar-generator-2000x-solar-panel)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F526ff3cc23ba4f3699aafd65062ba2f9?width=638)](https://4patriots.com/product/patriot-power-solar-generator-2000x-solar-panel)
+    [![](https://assets.catsy.com/catsy.1040/SITE-AD-2403-FBR-MAN-OUTDOORS-630x1052.jpg)](https://4patriots.com/product/patriot-power-solar-generator-2000x-solar-panel)[![](https://assets.catsy.com/catsy.1040/SITE-AD-2403-FBR-MAN-OUTDOORS-854x674.jpg)](https://4patriots.com/product/patriot-power-solar-generator-2000x-solar-panel)
     
-    ###### Our Most-Powerful Solar Generator Ever
+    ###### Ultimate “No Prep” Survival Food
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
-    [Shop the 2000X Generator](https://4patriots.com/product/patriot-power-solar-generator-2000x-solar-panel)
+    [Shop Emergency Food Bars](https://4patriots.com/product/emergency-food-ration-bars)
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
@@ -110,11 +110,11 @@ Search
     
     [Shop All](https://4patriots.com/category/solar-power)
     
-    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fa73a26e6b86a4041b75e11d9fdc18660?width=343)
+    [![](https://assets.catsy.com/catsy.1040/PPS-2412-LIFESTYLE-HOLIDAY-CHILD-TABLET-680x680.jpg)
     
     Solar Generators](https://4patriots.com/page/emergency-solar-power/portable-solar-generators-power-stations)
     
-    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fdc51854a890d466b8c68d7130b2e5343?width=343)
+    [![](https://assets.catsy.com/catsy.1040/MENU-2403-100W-LIFESTYLE-SUN-CHARGING-680x680.jpg)
     
     Solar Panels](https://4patriots.com/category/solar-power/solar-panels)
     
@@ -146,17 +146,17 @@ Search
     
     [Shop All](https://4patriots.com/category/emergency-food-kits)
     
-    [![](https://assets.catsy.com/catsy.1040/F4P-2411-NONNAS-BEST-LASAGNA-HOLIDAY-LIFESTYLE-CATEGORY-680x680.jpg)
+    [![](https://assets.catsy.com/catsy.1040/DEPT-MENU-2403-CATEGORY-TILE-SURVIVAL-FOOD-SHORT-TERM-KITS-MAC-680x680.jpg)
     
     Emergency Food Kits](https://4patriots.com/page/emergency-survival-food-kits)[![](https://assets.catsy.com/catsy.1040/MENU-2407-4WK-LIFESTYLE-TOTE-UNDER-BED-680x680.jpg)
     
-    Time-Based Food Kits](https://4patriots.com/category/emergency-food-kits/time-based-food-kits)[![A mother fills her daughter's plate with creamed corn for Christmas dinner.](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F122a72ee42e643489522d66a63059ad0?width=343)
+    Time-Based Food Kits](https://4patriots.com/category/emergency-food-kits/time-based-food-kits)[![A mother fills her daughter's plate with creamed corn for Christmas dinner.](https://assets.catsy.com/catsy.1040/3MO-2412-HOLIDAY-LIFESTYLE-CATEGORY-680x680.jpg)
     
     Specialty Food Kits](https://4patriots.com/category/emergency-food-kits/speciality-food-kits)[![](https://assets.catsy.com/catsy.1040/72HR-2411-HOLIDAY-LIFESTYLE-CATEGORY-680x680.jpg)
     
     Best Sellers](https://4patriots.com/category/emergency-food-kits/emergency-food-best-sellers)
     
-    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/SITE-AD-2403-3MO-TABLESCAPE-704x1000.jpg)](https://4patriots.com/category/emergency-food-kits)[![](https://s3-us-west-2.amazonaws.com/catsy.1040/SITE-AD-2403-3MO-TABLESCAPE-854x674.jpg)](https://4patriots.com/category/emergency-food-kits)
+    [![](https://assets.catsy.com/catsy.1040/F4P-2411-NONNAS-BEST-LASAGNA-HOLIDAY-WIDE-LIFESTYLE-PROMO-704x1000.jpg)](https://4patriots.com/category/emergency-food-kits)[![](https://assets.catsy.com/catsy.1040/F4P-2411-NONNAS-BEST-LASAGNA-HOLIDAY-LIFESTYLE-PROMO-854x674.jpg)](https://4patriots.com/category/emergency-food-kits)
     
     ###### Includes 2 FREE 72-Hour Food Kits
     
@@ -224,11 +224,11 @@ Search
     
     [![](https://s3-us-west-2.amazonaws.com/catsy.1040/RES-2412-LIFESTYLE-PROMO-DESKTOP-PORCH-704x1000.jpg)](https://4patriots.com/product/chillzone-portable-ac)[![](https://s3-us-west-2.amazonaws.com/catsy.1040/RES-2412-LIFESTYLE-PROMO-MOBILE-PORCH-854x674.jpg)](https://4patriots.com/product/chillzone-portable-ac)
     
-    ###### "Blackout Heater" Safe To Use Indoors
+    ###### "Blackout Heater" Safe To Use Indoors & Outside
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
-    [Shop RescueHeat Space Heater & Stove](https://4patriots.com/product/rescueheat-emergency-space-heater-stove)
+    [RescueHeat Heater & Stove](https://4patriots.com/product/rescueheat-emergency-space-heater-stove)
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
@@ -246,7 +246,7 @@ Search
     
     [Lanterns & Lighting](https://4patriots.com/category/solar-power/solar-lanterns-lighting)[RV & Camping](https://4patriots.com/category/rv-camping)[Home & Health](https://4patriots.com/category/home-health)[Subscriptions](https://4patriots.com/category/subscriptions)[Kits & Bundles](https://4patriots.com/category/solar-food-combo-kits)[Emergency Essentials](https://4patriots.com/category/emergency-essentials)[As Seen on TV](https://4patriots.com/category/as-seen-on-tv)[**Gift Guide**](https://4patriots.com/category/gift-guide)[**Deals**](https://4patriots.com/category/deals)
     
-    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fafe30086aaf54c3191129ed6c3913c9b?width=667)](https://4patriots.com/product/haloxt-tactical-9-in-1-solar-flashlight)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F4a521c4c3a8f4b5f8006029711027a7c?width=638)](https://4patriots.com/product/patriot-power-cell-cx-portable-solar-power-bank)
+    [![](https://assets.catsy.com/catsy.1040/SITE-AD-2411-BFCM-DESKTOP-PROMO-EVERGREEN-704x1000.jpg)](https://4patriots.com/product/haloxt-tactical-9-in-1-solar-flashlight)[![](https://assets.catsy.com/catsy.1040/SITE-AD-2411-BFCM-MOBILE-PROMO-EVERGREEN-854x674.jpg)](https://4patriots.com/product/patriot-power-cell-cx-portable-solar-power-bank)
     
     ###### Best Seller
     
@@ -288,7 +288,7 @@ Search
     
     "Mini" Cooler & Warmer](https://4patriots.com/product/freedom-fridge-electric-cooler-warmer)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F1abd78e7a79a48ddb14cce805c8646b8?width=343)
     
-    B1G1 FREE Mini Generator](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F88e3fc5de6e44f3c8b82b67ca014d0ed?width=343)
+    B1G1 FREE Mini Generator](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![](https://assets.catsy.com/catsy.1040/MENU-2411-SKT-LIFESTYLE-SNOW-COFFEE-680x680.jpg)
     
     Boil Water With Only the Sun](https://4patriots.com/product/sun-kettle-solar-water-heater)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F48b6561e88044a87b1e905c49bcb6088?width=343)
     
