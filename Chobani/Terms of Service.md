@@ -131,7 +131,7 @@ Choose region
 
 * * *
 
-[Do Not Sell or Share My Personal Information](https://privacyportal-cdn.onetrust.com/dsarwebform/b7f992ed-a2f9-447a-90af-da78d91e7bac/bd4cb3ad-02ac-4e62-b9af-22fdbf01ec52.html)
+[Do Not Sell or Share My Personal Information](https://privacyportal.onetrust.com/webform/b7f992ed-a2f9-447a-90af-da78d91e7bac/bf45b78f-02e9-491b-a0f2-c76f2eb320dc)
 
 * * *
 
@@ -207,7 +207,7 @@ Choose region
 
 * * *
 
-[Do Not Sell or Share My Personal Information](https://privacyportal-cdn.onetrust.com/dsarwebform/b7f992ed-a2f9-447a-90af-da78d91e7bac/bd4cb3ad-02ac-4e62-b9af-22fdbf01ec52.html)
+[Do Not Sell or Share My Personal Information](https://privacyportal.onetrust.com/webform/b7f992ed-a2f9-447a-90af-da78d91e7bac/bf45b78f-02e9-491b-a0f2-c76f2eb320dc)
 
 * * *
 
