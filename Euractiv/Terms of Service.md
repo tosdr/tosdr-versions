@@ -613,6 +613,8 @@ Most recent
 
 [12-12-2024
 
+Europe’s defence sector needs deeper private equity pockets for frontline capability](https://www.euractiv.com/section/economy-jobs/news/europes-defence-sector-needs-deeper-private-equity-pockets-for-frontline-capability/)[12-12-2024
+
 NATO’s Rutte says alliance should double spending target to 4% GDP](https://www.euractiv.com/section/global-europe/news/natos-rutte-says-alliance-should-double-spending-target-to-4-gdp/)[12-12-2024
 
 Slovak health system on life support after parliament threatens doctors with prison](https://www.euractiv.com/section/health-consumers/news/slovak-health-system-on-life-support-after-parliament-threatens-doctors-with-prison/)[12-12-2024
@@ -629,9 +631,7 @@ New European Council President Costa meets British PM Starmer in London](https:/
 
 Poland and France downplay Ukraine peacekeeping mission – but are thinking about it](https://www.euractiv.com/section/europe-s-east/news/poland-and-france-downplay-ukraine-peacekeeping-mission-but-are-thinking-about-it/)[12-12-2024
 
-New Europe takes charge while Berlin and Paris distracted](https://www.euractiv.com/section/politics/news/new-europe-takes-charge-while-berlin-and-paris-distracted/)[12-12-2024
-
-ECB cuts rates again as eurozone hit by economic, political woes](http://afp.euractiv.com/htmlen.php?id=241212135102.macj1ln5)
+New Europe takes charge while Berlin and Paris distracted](https://www.euractiv.com/section/politics/news/new-europe-takes-charge-while-berlin-and-paris-distracted/)
 
 ###### Advertisement
 
