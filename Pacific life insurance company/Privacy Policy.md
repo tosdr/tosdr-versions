@@ -41,7 +41,6 @@
         * [Insurance Ratings & Financials](https://www.pacificlife.com/home/about/insurance-ratings-and-financials.html "Insurance Ratings & Financials")
         * [Corporate Social Responsibility](https://www.pacificlife.com/home/about/corporate-social-responsibility.html "Corporate Social Responsibility")
         * [Careers](https://www.pacificlife.com/home/about/careers.html "Careers")
-        * [Leadership](https://www.pacificlife.com/home/about/leadership.html "Leadership")
         * [Newsroom](https://www.pacificlife.com/home/about/news.html "Newsroom")
         * [Subsidiaries](https://www.pacificlife.com/home/about/subsidiaries.html "Subsidiaries")
     
