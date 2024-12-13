@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-THANK YOU for your wonderfully prompt help.
+I used FoxyProxy on my recent trip to Australia (from the UK). Excellent product; I fully expect to use it on all future visits.
 
-Len Schultz
+Jim Cooling
