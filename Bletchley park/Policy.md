@@ -300,7 +300,7 @@ Please select a department/..Booking/ticket enquiryLearning enquiryPress/media e
 
 This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
 
-I agree to the handling of my data in accordance with Bletchley Park's [privacy policy](https://bletchleypark.org.uk/privacy-policies/privacy-policy-bletchley-park/)\*
+I agree to the handling of my data in accordance with Bletchley Park's [privacy policy](http://bletchleypark.org.uk/privacy-policies/privacy-policy-bletchley-park/)\*
 
 Send Enquiry
 
@@ -318,7 +318,7 @@ Any queries submitted through the contact form will be responded to as soon as p
 
 [Tickets](https://bletchleypark.org.uk/book-now/) [Plan a Visit](https://bletchleypark.org.uk/plan-a-visit/) [Support](https://bletchleypark.org.uk/support-us/)
 
-[Contact / Find Us](https://bletchleypark.org.uk/contact-us/)
+[Contact / Find Us](http://bletchleypark.org.uk/contact-us/)
 
 The Mansion, Bletchley Park, Sherwood Drive, Bletchley, Milton Keynes, MK3 6EB
 
