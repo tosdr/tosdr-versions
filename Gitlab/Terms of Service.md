@@ -687,6 +687,7 @@
                     * [ ]  [Custom Models Group](https://handbook.gitlab.com/handbook/engineering/development/data-science/ai-powered/custom-models/)
                     * [ ]  [Duo Chat Group](https://handbook.gitlab.com/handbook/engineering/development/data-science/ai-powered/duo-chat/)
                     * [ ]  [Duo Workflow Group](https://handbook.gitlab.com/handbook/engineering/development/data-science/ai-powered/duo-workflow/)
+                        * [ ]  [Troubleshooting](https://handbook.gitlab.com/handbook/engineering/development/data-science/ai-powered/duo-workflow/troubleshooting/)
                 * [ ]  [ModelOps](https://handbook.gitlab.com/handbook/engineering/development/data-science/modelops/)
                     * [ ]  [MLOps](https://handbook.gitlab.com/handbook/engineering/development/data-science/modelops/mlops/)
             * [ ]  [Database Engineering](https://handbook.gitlab.com/handbook/engineering/development/database/)
