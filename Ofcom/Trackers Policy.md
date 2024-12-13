@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Elderly lady with a concerned look listening to a call on her home telephone](/siteassets/resources/images/-news-centre/thumbnail-images/phones/elderly-lady-concerned-on-home-telephone.jpg?width=1920&height=1085&quality=80)
+
+### What is ‘line rental’? Why do I have to pay it?
+
+13 December 2024](https://www.ofcom.org.uk/phones-and-broadband/telecoms-infrastructure/what-is-line-rental-why-do-i-have-to-pay-it/)
+
 [![RM-van-Web](/siteassets/resources/images/-news-centre/thumbnail-images/post/rm-van-web.jpg?width=1920&height=1085&quality=80)
 
 ### Ofcom fines Royal Mail £10.5m for poor delivery performance
@@ -151,13 +157,7 @@
 
 10 December 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/channel-4-statement/)
 
-[![HERO Global Online Safety Regulators Network sets out priorities for next three years (1336 × 560px)](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/hero-global-online-safety-regulators-network-sets-out-priorities-for-next-three-years-1336--560px.png?width=1920&height=1085&quality=80)
-
-### Global Online Safety Regulators Network sets out priorities for next three years
-
-9 December 2024](https://www.ofcom.org.uk/about-ofcom/international-work/global-online-safety-regulators-network-sets-out-priorities-for-next-three-years/)
-
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy)
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/)
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
