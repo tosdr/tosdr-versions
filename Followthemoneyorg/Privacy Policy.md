@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![high court 09-10](/assets/logos/HighCourtRaces.png)](http://www.followthemoney.org/research/institute-research/money-in-judicial-elections-2009-2010)
+[![Microsoft](/assets/logos/MicrosoftGivingGraph.png)](http://www.followthemoney.org/research/institute-research/forbes-magazines-richest-americans-influence-state-politics)
 
-Is the judiciary “above politics”? See high court races.
+Microsoft spread its state political giving pretty evenly, 2005-2008.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
