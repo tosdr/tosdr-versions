@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is considered neglect in a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-considered-neglect-in-a-nursing-home-scaled.jpg "What Is Considered Neglect in a Nursing Home?")](https://www.pintas.com/faq/what-is-considered-neglect-in-a-nursing-home/ "What Is Considered Neglect in a Nursing Home?")
+[![What damages can i collect in a mormon (lds) church sex abuse settlement?](https://www.pintas.com/wp-content/uploads/2019/12/blog-img.jpg "What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-damages-can-i-collect-in-a-mormon-church-sexual-abuse-settlement/ "What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?")
 
-[#### What Is Considered Neglect in a Nursing Home?](https://www.pintas.com/faq/what-is-considered-neglect-in-a-nursing-home/)
+[#### What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-damages-can-i-collect-in-a-mormon-church-sexual-abuse-settlement/)
 
-[![Can asbestos lung cancer be cured?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-can-asbestos-lung-cancer-be-cured.jpg "Can Asbestos Lung Cancer Be Cured?")](https://www.pintas.com/lung-cancer/can-asbestos-lung-cancer-be-cured/ "Can Asbestos Lung Cancer Be Cured?")
+[![Can i file a claim against roundup for a loved one’s death?](https://www.pintas.com/wp-content/uploads/2020/11/can-i-file-a-claim-against-roundup-for-a-loved-ones-death.jpg "Can I File a Claim Against Roundup for a Loved One’s Death?")](https://www.pintas.com/lawsuit/roundup-weed-killer/can-i-file-a-claim-against-roundup-for-a-loved-ones-death/ "Can I File a Claim Against Roundup for a Loved One’s Death?")
 
-[#### Can Asbestos Lung Cancer Be Cured?](https://www.pintas.com/lung-cancer/can-asbestos-lung-cancer-be-cured/)
+[#### Can I File a Claim Against Roundup for a Loved One’s Death?](https://www.pintas.com/lawsuit/roundup-weed-killer/can-i-file-a-claim-against-roundup-for-a-loved-ones-death/)
 
-[![Do i need a lawyer for my memory care facility abuse claim?](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-do-i-need-a-lawyer-for-my-memory-care-facility-abuse-claim-300x200.jpg "Do I Need a Lawyer for My Memory Care Facility Abuse Claim?")](https://www.pintas.com/faq/do-i-need-a-lawyer-for-my-memory-care-facility-abuse-claim/ "Do I Need a Lawyer for My Memory Care Facility Abuse Claim?")
+[![Can roundup cause cancer in dogs?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-can-roundup-cause-cancer-in-dogs.jpg "Can Roundup Cause Cancer in Dogs?")](https://www.pintas.com/lawsuit/roundup-weed-killer/can-roundup-cause-cancer-in-dogs/ "Can Roundup Cause Cancer in Dogs?")
 
-[#### Do I Need a Lawyer for My Memory Care Facility Abuse Claim?](https://www.pintas.com/faq/do-i-need-a-lawyer-for-my-memory-care-facility-abuse-claim/)
+[#### Can Roundup Cause Cancer in Dogs?](https://www.pintas.com/lawsuit/roundup-weed-killer/can-roundup-cause-cancer-in-dogs/)
 
 ### Injured?  
 Tell Us What Happened.
