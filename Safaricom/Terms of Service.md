@@ -229,6 +229,48 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Dec 13, 2024
+
+> Leigh-Ann Croeser from Safari.com was fantastic
+
+> Leigh-Ann from Safari.com was great to work with to plan our group safari trip. She was able to get me on the priority waitlist for a lodge that I liked, which ended up working out for our group during my preferred dates. Leigh-Ann was responsive and provided various tour recommendations for us to decide on the best option for us. There were a few email and name typos from Leigh-Ann that I had to correct, but other than that, I had a great experience.
+
+Stanley Choi
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Dec 12, 2024
+
+> Dolan was terrific
+
+> Dolan was terrific. He got back to us immediately to answer all of our questions. And was so nice to hold a room for a couple of days because of my moms passing. It gave us time to finalize her arrangements and time to book our trip. I would highly recommend using him to book your trip!!
+
+Scott Roberts
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Dec 12, 2024
+
+> Great support and communication
+
+> I had great support from Lana, she has been helping to book the dream trip to Bostwana in a very efficient way. Great communication, very responsive and precise, could not wish for more. Highly recommend her.
+
+Michael
+
+,
+
+CZ
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Dec 12, 2024
 
 > Anja Is A Fabulous Travel Consultant
@@ -310,48 +352,6 @@ Gillian Dodsworth
 ,
 
 GB
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Dec 7, 2024
-
-> Anja at Safari.com was a great partner to work with!
-
-> Working with Anja at Safari.com was great. She was able to work some magic and got us a few nights at the safari lodge we really wanted, Ngoma. Unfortunately, our flight from the USA to South Africa was canceled and we were rebooked a day later but Anja was great about making sure our lodge and the transports knew about the change in plans and made sure we got to our trip as soon as we could. She was a great partner to have and communicated quickly whenever we reached out. I would highly recommend using her when planning a trip to Africa!
-
-Joanna
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Dec 4, 2024
-
-> Prompt & knowledgeable
-
-> Prompt & knowledgeable
-
-Scott Millar
-
-,
-
-ZA
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Dec 4, 2024
-
-> Great service from Denise at Safari.com
-
-> Denise from Safari.com was extremely helpful. She responded promptly, provided good advice on safari lodgings options and worked up a couple of itinerary options to suit our budget. Denise also organised flights and transfers very quickly so that we could finalize our booking in a short time. Much appreciated.
-
-Noelene Hosking
-
-,
-
-AU
 
 VIP service
 
