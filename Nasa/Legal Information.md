@@ -70,19 +70,19 @@ Suggested Searches
 
 ### NASA Invites Social Creators for Launch of Two NASA Missions 
 
-article2 days ago](https://www.nasa.gov/general/nasa-invites-social-creators-for-launch-of-two-nasa-astrophysical-missions/)[![Scientists Share Early Results from NASA’s Solar Eclipse Experiments ](https://images-assets.nasa.gov/image/NHQ202404080101/NHQ202404080101~large.jpg)
+article3 days ago](https://www.nasa.gov/general/nasa-invites-social-creators-for-launch-of-two-nasa-astrophysical-missions/)[![Scientists Share Early Results from NASA’s Solar Eclipse Experiments ](https://images-assets.nasa.gov/image/NHQ202404080101/NHQ202404080101~large.jpg)
 
 5 min read
 
 ### Scientists Share Early Results from NASA’s Solar Eclipse Experiments 
 
-article2 days ago](https://science.nasa.gov/science-research/heliophysics/scientists-share-early-results-from-nasas-solar-eclipse-experiments/)[![NASA’s Hubble Celebrates Decade of Tracking Outer Planets](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/solar-system/collage/Hubble_OPAL10_Cover_STScI-01JE3XMES9TH3WPDCG1BTTRRPN.jpg)
+article3 days ago](https://science.nasa.gov/science-research/heliophysics/scientists-share-early-results-from-nasas-solar-eclipse-experiments/)[![NASA’s Hubble Celebrates Decade of Tracking Outer Planets](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/solar-system/collage/Hubble_OPAL10_Cover_STScI-01JE3XMES9TH3WPDCG1BTTRRPN.jpg)
 
 8 min read
 
 ### NASA’s Hubble Celebrates Decade of Tracking Outer Planets
 
-article3 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-celebrates-decade-of-tracking-outer-planets/)
+article4 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-celebrates-decade-of-tracking-outer-planets/)
 
 Back
 
@@ -247,19 +247,19 @@ Back
 
 ### NASA Invites Social Creators for Launch of Two NASA Missions 
 
-article 2 days ago](https://www.nasa.gov/general/nasa-invites-social-creators-for-launch-of-two-nasa-astrophysical-missions/)[![NASA’s Hubble Celebrates Decade of Tracking Outer Planets](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/solar-system/collage/Hubble_OPAL10_Cover_STScI-01JE3XMES9TH3WPDCG1BTTRRPN.jpg)
+article 3 days ago](https://www.nasa.gov/general/nasa-invites-social-creators-for-launch-of-two-nasa-astrophysical-missions/)[![NASA’s Hubble Celebrates Decade of Tracking Outer Planets](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/solar-system/collage/Hubble_OPAL10_Cover_STScI-01JE3XMES9TH3WPDCG1BTTRRPN.jpg)
 
 8 min read
 
 ### NASA’s Hubble Celebrates Decade of Tracking Outer Planets
 
-article 3 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-celebrates-decade-of-tracking-outer-planets/)[![Data taken by NASA’s PACE and the international SWOT](https://www.nasa.gov/wp-content/uploads/2024/12/swot-pace-still-thumbnail.png?w=1024)
+article 4 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-celebrates-decade-of-tracking-outer-planets/)[![Data taken by NASA’s PACE and the international SWOT](https://www.nasa.gov/wp-content/uploads/2024/12/swot-pace-still-thumbnail.png?w=1024)
 
 6 min read
 
 ### NASA’s PACE, US-European SWOT Satellites Offer Combined Look at Ocean
 
-article 3 days ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean/)
+article 4 days ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean/)
 
 ### Highlights
 
@@ -269,19 +269,19 @@ article 3 days ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-sw
 
 ### NASA Kennedy Top 24 Stories of 2024
 
-article 8 hours ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/)[![The Group 15 NASA and international astronaut candidates pose for a group photo – front row, Jeffrey S. Ashby, left, Dafydd “Dave” R. Williams, James F. Reilly, Scott D. Altman, Rick D. Husband, and Michael J. Bloomfield; middle row, Pamela A. Melroy, left, Michael P. Anderson, Michel Tognini, Kathryn “Kay” P. Hire, Kalpana Chawla, Carlos I. Noriega, Susan L. Still, Takao Doi, and Frederick “Rick” W. Sturckow; back row, Janet L. Kavandi, left, Edward T. Lu, Steven K. Robinson, Robert L. Curbeam, Dominic L.P. Gorie, Joe F. Edwards, Steven W. Lindsey, and Jean-Loup Chrétien.](https://www.nasa.gov/wp-content/uploads/2024/12/group-15-1-group-portrait.jpg?w=1020)
+article 19 hours ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/)[![The Group 15 NASA and international astronaut candidates pose for a group photo – front row, Jeffrey S. Ashby, left, Dafydd “Dave” R. Williams, James F. Reilly, Scott D. Altman, Rick D. Husband, and Michael J. Bloomfield; middle row, Pamela A. Melroy, left, Michael P. Anderson, Michel Tognini, Kathryn “Kay” P. Hire, Kalpana Chawla, Carlos I. Noriega, Susan L. Still, Takao Doi, and Frederick “Rick” W. Sturckow; back row, Janet L. Kavandi, left, Edward T. Lu, Steven K. Robinson, Robert L. Curbeam, Dominic L.P. Gorie, Joe F. Edwards, Steven W. Lindsey, and Jean-Loup Chrétien.](https://www.nasa.gov/wp-content/uploads/2024/12/group-15-1-group-portrait.jpg?w=1020)
 
 17 min read
 
 ### 30 Years Ago: NASA Selects its 15th Group of Astronauts 
 
-article 3 days ago](https://www.nasa.gov/history/30-years-ago-nasa-selects-its-15th-group-of-astronauts/)[![](https://images-assets.nasa.gov/image/iss038e020234/iss038e020234~large.jpg?w=1920&h=1275&fit=clip&crop=faces%2Cfocalpoint)
+article 4 days ago](https://www.nasa.gov/history/30-years-ago-nasa-selects-its-15th-group-of-astronauts/)[![](https://images-assets.nasa.gov/image/iss038e020234/iss038e020234~large.jpg?w=1920&h=1275&fit=clip&crop=faces%2Cfocalpoint)
 
 7 min read
 
 ### 2024 Be An Astronaut Campaign
 
-article 3 days ago](https://www.nasa.gov/humans-in-space/becoming-an-astronaut/2024-be-an-astronaut-campaign/)
+article 4 days ago](https://www.nasa.gov/humans-in-space/becoming-an-astronaut/2024-be-an-astronaut-campaign/)
 
 ### Highlights
 
@@ -291,19 +291,19 @@ article 3 days ago](https://www.nasa.gov/humans-in-space/becoming-an-astronaut/2
 
 ### NASA-DOD Study: Saltwater to Widely Taint Coastal Groundwater by 2100
 
-article 1 day ago](https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/)[![NASA Study: Crops, Forests Responding to Changing Rainfall Patterns](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/1-precip%20map.jpg)
+article 2 days ago](https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/)[![NASA Study: Crops, Forests Responding to Changing Rainfall Patterns](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/1-precip%20map.jpg)
 
 4 min read
 
 ### NASA Study: Crops, Forests Responding to Changing Rainfall Patterns
 
-article 1 day ago](https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/)[![Data taken by NASA’s PACE and the international SWOT](https://www.nasa.gov/wp-content/uploads/2024/12/swot-pace-still-thumbnail.png?w=1024)
+article 2 days ago](https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/)[![Data taken by NASA’s PACE and the international SWOT](https://www.nasa.gov/wp-content/uploads/2024/12/swot-pace-still-thumbnail.png?w=1024)
 
 6 min read
 
 ### NASA’s PACE, US-European SWOT Satellites Offer Combined Look at Ocean
 
-article 3 days ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean/)
+article 4 days ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean/)
 
 ### Highlights
 
@@ -313,63 +313,63 @@ article 3 days ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-sw
 
 ### NASA Kennedy Top 24 Stories of 2024
 
-article 8 hours ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/)[![Perseverance view from the top](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26511-perseverances-view-from-the-top-16.jpg?w=1024)
+article 19 hours ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/)[![Perseverance view from the top](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26511-perseverances-view-from-the-top-16.jpg?w=1024)
 
 5 min read
 
 ### NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
 
-article 10 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/)[![NASA’s Ingenuity Mars Helicopter](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26238-ingentuity-ripples-cropped.jpg?w=1024)
+article 22 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/)[![NASA’s Ingenuity Mars Helicopter](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26238-ingentuity-ripples-cropped.jpg?w=1024)
 
 5 min read
 
 ### NASA Performs First Aircraft Accident Investigation on Another World
 
-article 1 day ago](https://www.nasa.gov/missions/mars-2020-perseverance/ingenuity-helicopter/nasa-performs-first-aircraft-accident-investigation-on-another-world/)
+article 2 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/ingenuity-helicopter/nasa-performs-first-aircraft-accident-investigation-on-another-world/)
 
 ### Featured
 
-[![Roman Integrated Payload Assembly](https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy-2.jpg?w=819)
+[![Hubble Images a Grand Spiral](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC5643_potw2450a.jpg)
+
+2 min read
+
+### Hubble Images a Grand Spiral
+
+article 2 hours ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Roman Integrated Payload Assembly](https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy-2.jpg?w=819)
 
 4 min read
 
 ### NASA Successfully Integrates Roman Mission’s Telescope, Instruments
 
-article 12 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-roman-missions-telescope-instruments/)[![Found: First Actively Forming Galaxy as Lightweight as Young Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JD0MVRQ4ANVGZJV5PM1Z7AJM-1K.png)
+article 23 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-roman-missions-telescope-instruments/)[![Found: First Actively Forming Galaxy as Lightweight as Young Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JD0MVRQ4ANVGZJV5PM1Z7AJM-1K.png)
 
 6 min read
 
 ### Found: First Actively Forming Galaxy as Lightweight as Young Milky Way
 
-article 1 day ago](https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/)[![Discovery Alert: A Planet with a ‘Tail’](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/2024/03/WASP-69%20b%20Tail.jpg)
-
-4 min read
-
-### Discovery Alert: A Planet with a ‘Tail’
-
-article 2 days ago](https://science.nasa.gov/universe/exoplanets/discovery-alert-a-planet-with-a-tail/)
+article 2 days ago](https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/)
 
 ### Highlights
 
-[![Amendment 82: A.48 Commercial Satellite Data Earth Science and Applications Final Text and Due Dates Released](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/svs/a000000/a004700/a004745/landsat_w_sentinel_v2_ls8ls9sAsB_fade_08_60fps_4k_3240_print.jpg)
+[![Hubble Images a Grand Spiral](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC5643_potw2450a.jpg)
+
+2 min read
+
+### Hubble Images a Grand Spiral
+
+article 2 hours ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Amendment 82: A.48 Commercial Satellite Data Earth Science and Applications Final Text and Due Dates Released](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/svs/a000000/a004700/a004745/landsat_w_sentinel_v2_ls8ls9sAsB_fade_08_60fps_4k_3240_print.jpg)
 
 2 min read
 
 ### Amendment 82: A.48 Commercial Satellite Data Earth Science and Applications Final Text and Due Dates Released
 
-article 9 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-82-a-48-commercial-satellite-data-earth-science-and-applications-final-text-and-due-dates-released/)[![Perseverance view from the top](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26511-perseverances-view-from-the-top-16.jpg?w=1024)
+article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-82-a-48-commercial-satellite-data-earth-science-and-applications-final-text-and-due-dates-released/)[![Perseverance view from the top](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26511-perseverances-view-from-the-top-16.jpg?w=1024)
 
 5 min read
 
 ### NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
 
-article 10 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/)[![Title slide for OSDR Chats interview with Dr Jakub Mieczkowski](https://www.nasa.gov/wp-content/uploads/2024/12/osdr-chats-title-slide-mieczkowski.jpg?w=1024)
-
-2 min read
-
-### OSDR Chats with Dr Jakub Mieczkowski
-
-article 11 hours ago](https://www.nasa.gov/osdr-chats-with-dr-jakub-mieczkowski/)
+article 22 hours ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/)
 
 ### Highlights
 
@@ -379,19 +379,19 @@ article 11 hours ago](https://www.nasa.gov/osdr-chats-with-dr-jakub-mieczkowski/
 
 ### Dynamic Spin Rig
 
-article 8 hours ago](https://www.nasa.gov/dynamic-spin-rig/)[![An atmospheric probe model carried by a quad rotor aircraft rises and the Moon is visible.](https://images-assets.nasa.gov/image/AFRC2024-0166-032/AFRC2024-0166-032~large.jpg?w=1919&h=1281&fit=clip&crop=faces%2Cfocalpoint)
+article 19 hours ago](https://www.nasa.gov/dynamic-spin-rig/)[![An atmospheric probe model carried by a quad rotor aircraft rises and the Moon is visible.](https://images-assets.nasa.gov/image/AFRC2024-0166-032/AFRC2024-0166-032~large.jpg?w=1919&h=1281&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
 ### Atmospheric Probe Shows Promise in Test Flight
 
-article 1 day ago](https://www.nasa.gov/centers-and-facilities/armstrong/atmospheric-probe-shows-promise-in-test-flight/)[![A black drone with an orange top in flight in Nevada.](https://www.nasa.gov/wp-content/uploads/2024/12/drone-test.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/atmospheric-probe-shows-promise-in-test-flight/)[![A black drone with an orange top in flight in Nevada.](https://www.nasa.gov/wp-content/uploads/2024/12/drone-test.jpg?w=1024)
 
 3 min read
 
 ### NASA Moves Drone Package Delivery Industry Closer to Reality
 
-article 2 days ago](https://www.nasa.gov/aeronautics/drones/delivering-closer-to-reality/)
+article 3 days ago](https://www.nasa.gov/aeronautics/drones/delivering-closer-to-reality/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 2 days ago](https://www.nasa.gov/aeronautics/drones/delivering-closer-to
 
 ### NASA Gives The World a Brake
 
-article 11 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/)[![Researchers Al Capps (seated) and Paul Borchers demonstrate Airspace Technology Demonstration 2 (ATD-2) tools that air traffic managers began testing in 2017.](https://www.nasa.gov/wp-content/uploads/2021/09/dsc_0007.jpg?w=1024)
+article 22 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/)[![Researchers Al Capps (seated) and Paul Borchers demonstrate Airspace Technology Demonstration 2 (ATD-2) tools that air traffic managers began testing in 2017.](https://www.nasa.gov/wp-content/uploads/2021/09/dsc_0007.jpg?w=1024)
 
 3 min read
 
@@ -423,7 +423,7 @@ article 2 weeks ago](https://science.nasa.gov/researchers/solicitations/roses-20
 
 ### They Grow So Fast: Moon Tree Progress Since NASA’s Artemis I Mission
 
-article 1 day ago](https://www.nasa.gov/learning-resources/moon-tree-progress-since-nasas-artemis-i-mission/)
+article 2 days ago](https://www.nasa.gov/learning-resources/moon-tree-progress-since-nasas-artemis-i-mission/)
 
 ### Featured
 
@@ -433,19 +433,19 @@ article 1 day ago](https://www.nasa.gov/learning-resources/moon-tree-progress-si
 
 ### NASA Moves Drone Package Delivery Industry Closer to Reality
 
-article 2 days ago](https://www.nasa.gov/aeronautics/drones/delivering-closer-to-reality/)[![NASA’s SPHEREx observatory](https://www.nasa.gov/wp-content/uploads/2024/10/1-spherex-telescope.jpg?w=1024)
+article 3 days ago](https://www.nasa.gov/aeronautics/drones/delivering-closer-to-reality/)[![NASA’s SPHEREx observatory](https://www.nasa.gov/wp-content/uploads/2024/10/1-spherex-telescope.jpg?w=1024)
 
 6 min read
 
 ### NASA Invites Social Creators for Launch of Two NASA Missions 
 
-article 2 days ago](https://www.nasa.gov/general/nasa-invites-social-creators-for-launch-of-two-nasa-astrophysical-missions/)[![The Group 15 NASA and international astronaut candidates pose for a group photo – front row, Jeffrey S. Ashby, left, Dafydd “Dave” R. Williams, James F. Reilly, Scott D. Altman, Rick D. Husband, and Michael J. Bloomfield; middle row, Pamela A. Melroy, left, Michael P. Anderson, Michel Tognini, Kathryn “Kay” P. Hire, Kalpana Chawla, Carlos I. Noriega, Susan L. Still, Takao Doi, and Frederick “Rick” W. Sturckow; back row, Janet L. Kavandi, left, Edward T. Lu, Steven K. Robinson, Robert L. Curbeam, Dominic L.P. Gorie, Joe F. Edwards, Steven W. Lindsey, and Jean-Loup Chrétien.](https://www.nasa.gov/wp-content/uploads/2024/12/group-15-1-group-portrait.jpg?w=1020)
+article 3 days ago](https://www.nasa.gov/general/nasa-invites-social-creators-for-launch-of-two-nasa-astrophysical-missions/)[![The Group 15 NASA and international astronaut candidates pose for a group photo – front row, Jeffrey S. Ashby, left, Dafydd “Dave” R. Williams, James F. Reilly, Scott D. Altman, Rick D. Husband, and Michael J. Bloomfield; middle row, Pamela A. Melroy, left, Michael P. Anderson, Michel Tognini, Kathryn “Kay” P. Hire, Kalpana Chawla, Carlos I. Noriega, Susan L. Still, Takao Doi, and Frederick “Rick” W. Sturckow; back row, Janet L. Kavandi, left, Edward T. Lu, Steven K. Robinson, Robert L. Curbeam, Dominic L.P. Gorie, Joe F. Edwards, Steven W. Lindsey, and Jean-Loup Chrétien.](https://www.nasa.gov/wp-content/uploads/2024/12/group-15-1-group-portrait.jpg?w=1020)
 
 17 min read
 
 ### 30 Years Ago: NASA Selects its 15th Group of Astronauts 
 
-article 3 days ago](https://www.nasa.gov/history/30-years-ago-nasa-selects-its-15th-group-of-astronauts/)
+article 4 days ago](https://www.nasa.gov/history/30-years-ago-nasa-selects-its-15th-group-of-astronauts/)
 
 ### Highlights
 
@@ -455,7 +455,7 @@ article 3 days ago](https://www.nasa.gov/history/30-years-ago-nasa-selects-its-1
 
 ### La NASA identifica causa de pérdida de material del escudo térmico de Orion de Artemis I
 
-article 6 days ago](https://www.nasa.gov/es/la-nasa-identifica-causa-de-perdida-de-material-del-escudo-termico-de-orion-de-artemis-i/)[![NASA astronaut and Expedition 72 Flight Engineer Nick Hague pedals on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), an exercise cycle located aboard the International Space Station's Destiny laboratory module. CEVIS provides aerobic and cardiovascular conditioning through recumbent (leaning back position) or upright cycling activities.](https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+article 7 days ago](https://www.nasa.gov/es/la-nasa-identifica-causa-de-perdida-de-material-del-escudo-termico-de-orion-de-artemis-i/)[![NASA astronaut and Expedition 72 Flight Engineer Nick Hague pedals on the Cycle Ergometer with Vibration Isolation and Stabilization (CEVIS), an exercise cycle located aboard the International Space Station's Destiny laboratory module. CEVIS provides aerobic and cardiovascular conditioning through recumbent (leaning back position) or upright cycling activities.](https://images-assets.nasa.gov/image/iss072e034702/iss072e034702~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
 8 min read
 
