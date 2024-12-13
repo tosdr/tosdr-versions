@@ -205,27 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [An Important Message from the Monstergeddon Board of Directors!](https://www.somethingawful.com/news/monstergeddon-abuse-accusations/)
-* [GI Army Funnies: Indiana Petraeus and the Crappers of Cairo](https://www.somethingawful.com/news/egypt-patraeus-afghanistan/1/)
-* [Manga Fighter](https://www.somethingawful.com/mmo-roulette/mangafight/1/)
-* [2013 in Review: It Was a Year Like Any Other](https://www.somethingawful.com/current-movie-reviews/retrospective-2013-review/1/)
-* [Comic SWAT](https://www.somethingawful.com/fashion-swat/comic-swat/1/)
+* [Swingers Board](https://www.somethingawful.com/weekend-web/swingers-board/1/)
+* [CBBC Newsground](https://www.somethingawful.com/weekend-web/cbbc-newsground/1/)
+* [Lawsuits and Government Ties](https://www.somethingawful.com/news/lawsuits-government-ties/)
+* [Ten Thousand ROM Pit Reviews](https://www.somethingawful.com/news/ten-thousand-rom/)
+* [AwfulVision: Reader Mailbag #1!](https://www.somethingawful.com/awfulvision/awfulvision-reader-mailbag/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [A war with non human intelligence is brewing. Choose your faction.](http://forums.somethingawful.com/showthread.php?threadid=4077351 "A war with non human intelligence is brewing. Choose your faction.")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Did you name your bongs or fancy glass pipes in college](http://forums.somethingawful.com/showthread.php?threadid=4077360 "Did you name your bongs or fancy glass pipes in college")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [A war with non human intelligence is brewing. Choose your faction.](http://forums.somethingawful.com/showthread.php?threadid=4077351 "A war with non human intelligence is brewing. Choose your faction.")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/guns.png) [Forums Apocalypse survival plan](http://forums.somethingawful.com/showthread.php?threadid=4077418 "Forums Apocalypse survival plan")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [Why are pharmacies so awful?](http://forums.somethingawful.com/showthread.php?threadid=4077387 "Why are pharmacies so awful?")
 * ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [Does anybody actually drink caffeine free soda](http://forums.somethingawful.com/showthread.php?threadid=4077421 "Does anybody actually drink caffeine free soda")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [Why are pharmacies so awful?](http://forums.somethingawful.com/showthread.php?threadid=4077387 "Why are pharmacies so awful?")
 
 ### Random Articles
 
-* [Xenomorphs Aren't That Big of a Threat](https://www.somethingawful.com/comedy-goldmine/easy-movie-victories/)
-* [T-U-R-T-L-E POW-ER](https://www.somethingawful.com/daily-dirt/turtle-power/)
-* [WELCOME TO THE CRICKER's CUZINS](https://www.somethingawful.com/awful-links/awful-link-1130/)
-* [Official Frank R. Paul Gallery](https://www.somethingawful.com/awful-links/frank-paul-cover/)
-* [Christian BDSM](https://www.somethingawful.com/awful-links/christian-bdsm/)
+* [24 Cartoons!](https://www.somethingawful.com/flash-tub/twentyfour-cartoons/)
+* [I love to kill rats in sewers more than anything in life](https://www.somethingawful.com/daily-dirt/love-kill-rats/)
+* [The Flag Factory (Thanks, Hollisbrown!)](https://www.somethingawful.com/awful-links/theflagfactory-theflagpole/)
+* [Burt's Power Points](https://www.somethingawful.com/news/burts-power-points/1/)
+* [Cover up](https://www.somethingawful.com/news/cover-up/)
 
 [Random!](https://www.somethingawful.com/random/)
 
