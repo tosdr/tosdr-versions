@@ -57,6 +57,7 @@ English Français Deutsch 日本語 한국어 Italiano Español
     * By Industry
         * [Aviation and Transportation](https://www.panopto.com/industries/aviation/)
         * [Energy and Utilities](https://www.panopto.com/industries/energy/)
+        * [Financial Services](https://www.panopto.com/industries/financial-services/)
         * [Healthcare and Pharmaceuticals](https://www.panopto.com/industries/healthcare-and-pharmaceuticals/)
         * [Higher Education](https://www.panopto.com/industries/higher-education/)
         * [Manufacturing](https://www.panopto.com/industries/manufacturing/)
