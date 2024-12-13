@@ -158,7 +158,7 @@ Empfehlungen für dich
         * [Beamer](https://talk-point.de/collections/beamer)
         * [Blu-ray Player](https://talk-point.de/collections/blu-ray-player-recorder-und-brenner)
         * [Lautsprecher](https://talk-point.de/collections/lautsprecher)
-        * [Radios](https://talk-point.de/collections/radios)
+        * [Radios](https://talk-point.de/collections)
         * [Kopfhörer](https://talk-point.de/collections/kopfhorer)
         * [Fernbedienungen](https://talk-point.de/collections/fernbedienungen)
     * [Home-Office](https://talk-point.de/collections/homeoffice)
@@ -430,7 +430,7 @@ Empfehlungen für dich
         * [bis 800€](https://talk-point.de/collections/smartwatches-bis-800-euro)
         * [bis 1000€](https://talk-point.de/collections/smartwatches-bis-1000-euro)
     
-* [Elektronik](https://talk-point.de/collections/elektronik)
+* [Elektronik](https://talk-point.de/collections/elektronik-technik)
     
     Elektronik
     
@@ -442,7 +442,7 @@ Empfehlungen für dich
         * [Beamer](https://talk-point.de/collections/beamer)
         * [Blu-ray Player](https://talk-point.de/collections/blu-ray-player-recorder-und-brenner)
         * [Lautsprecher](https://talk-point.de/collections/lautsprecher)
-        * [Radios](https://talk-point.de/collections/radios)
+        * [Radios](https://talk-point.de/collections)
         * [Kopfhörer](https://talk-point.de/collections/kopfhorer)
         * [Fernbedienungen](https://talk-point.de/collections/fernbedienungen)
     * [Home-Office](https://talk-point.de/collections/homeoffice)
