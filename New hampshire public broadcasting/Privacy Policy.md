@@ -185,14 +185,14 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [| Christa](https://video.nhpbs.org/video/christa-ygbur1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**"Maui's Deadly Firestorm" - Preview** | FRONTLINE](https://video.nhpbs.org/video/mauis-deadly-firestorm-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**With Peter Bradley Preview** | Local, USA](https://video.nhpbs.org/video/local-usa-with-peter-bradley-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**How South Asian Muslims and Mexican Americans United in the 1920s** | American Muslims: A History Revealed](https://video.nhpbs.org/video/how-south-asian-muslims-and-mexican-americans-united-in-the-1920s-3jtzkl?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**SCOTUS and the Trans Rights Healthcare Case: Why It Matters** | Amanpour and Company](https://video.nhpbs.org/video/scotus-and-the-trans-rights-healthcare-case-why-it-matters-ok7znb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Whitney Wrap I Manshi Shah** | The Whitney Reynolds Show](https://video.nhpbs.org/video/whitney-wrap-i-manshi-shah-ypcol9?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**December 12, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-12-2024-pbs-news-hour-full-episode-1733979601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Maria** | Flicks](https://video.nhpbs.org/video/maria-adnlpg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Yule Log** | All Creatures Great and Small](https://video.nhpbs.org/video/yule-log-jngrys?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**December 11, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-11-2024-pbs-news-hour-full-episode-1733893201?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Beware of Flesh-Eating Sand Piranhas at the Beach** | Deep Look](https://video.nhpbs.org/video/beware-of-flesh-eating-sand-piranhas-at-the-beach-8rwlvv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**How Do Religious Texts Work?** | Crash Course Religions](https://video.nhpbs.org/video/how-do-religious-texts-work-6p9hn0?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
