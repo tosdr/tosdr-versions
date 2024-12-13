@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Epoxidharz: Bastelharz oft mit Bisphenol A belastet](https://www.test.de/Epoxidharz-Bastelharz-oft-mit-Bisphenol-A-belastet-6093777-0/ "Epoxidharz - Bastelharz oft mit Bisphenol A belastet")
-* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
-* [Toaster im Test: Klein bräunt besser](https://www.test.de/Toaster-im-Test-Klein-braeunt-besser-6132973-0/ "Toaster im Test - Klein bräunt besser")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
+* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
+* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
+* [Thermo­behälter im Test: Einer hält heiß, einer nicht dicht](https://www.test.de/Thermobehaelter-im-Test-Einer-haelt-heiss-einer-nicht-dicht-6115553-0/ "Thermobehälter im Test - Einer hält heiß, einer nicht dicht")
+* [Zinsen aus dem Ausland: Geld im Ausland angelegt? Was Sie der Bundes­bank melden müssen](https://www.test.de/Zinsen-aus-dem-Ausland-12-500-Euro-im-Ausland-angelegt-Was-Sie-der-Bundesbank-melden-muessen-6159329-0/ "Zinsen aus dem Ausland - Geld im Ausland angelegt? Was Sie der Bundesbank melden müssen")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Epoxidharz: Bastelharz oft mit Bisphenol A belastet](https://www.test.de/Epoxidharz-Bastelharz-oft-mit-Bisphenol-A-belastet-6093777-0/ "Epoxidharz - Bastelharz oft mit Bisphenol A belastet")
-* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
-* [Toaster im Test: Klein bräunt besser](https://www.test.de/Toaster-im-Test-Klein-braeunt-besser-6132973-0/ "Toaster im Test - Klein bräunt besser")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
+* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
+* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
+* [Thermo­behälter im Test: Einer hält heiß, einer nicht dicht](https://www.test.de/Thermobehaelter-im-Test-Einer-haelt-heiss-einer-nicht-dicht-6115553-0/ "Thermobehälter im Test - Einer hält heiß, einer nicht dicht")
+* [Zinsen aus dem Ausland: Geld im Ausland angelegt? Was Sie der Bundes­bank melden müssen](https://www.test.de/Zinsen-aus-dem-Ausland-12-500-Euro-im-Ausland-angelegt-Was-Sie-der-Bundesbank-melden-muessen-6159329-0/ "Zinsen aus dem Ausland - Geld im Ausland angelegt? Was Sie der Bundesbank melden müssen")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Epoxidharz: Bastelharz oft mit Bisphenol A belastet](https://www.test.de/Epoxidharz-Bastelharz-oft-mit-Bisphenol-A-belastet-6093777-0/ "Epoxidharz - Bastelharz oft mit Bisphenol A belastet")
-* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
-* [Toaster im Test: Klein bräunt besser](https://www.test.de/Toaster-im-Test-Klein-braeunt-besser-6132973-0/ "Toaster im Test - Klein bräunt besser")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
+* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
+* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
+* [Thermo­behälter im Test: Einer hält heiß, einer nicht dicht](https://www.test.de/Thermobehaelter-im-Test-Einer-haelt-heiss-einer-nicht-dicht-6115553-0/ "Thermobehälter im Test - Einer hält heiß, einer nicht dicht")
+* [Zinsen aus dem Ausland: Geld im Ausland angelegt? Was Sie der Bundes­bank melden müssen](https://www.test.de/Zinsen-aus-dem-Ausland-12-500-Euro-im-Ausland-angelegt-Was-Sie-der-Bundesbank-melden-muessen-6159329-0/ "Zinsen aus dem Ausland - Geld im Ausland angelegt? Was Sie der Bundesbank melden müssen")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Epoxidharz: Bastelharz oft mit Bisphenol A belastet](https://www.test.de/Epoxidharz-Bastelharz-oft-mit-Bisphenol-A-belastet-6093777-0/ "Epoxidharz - Bastelharz oft mit Bisphenol A belastet")
-* [Brillen­versicherung: Policen von Fielmann und Co – braucht man die?](https://www.test.de/Brillenversicherung-6030065-0/ "Brillenversicherung - Policen von Fielmann und Co – braucht man die?")
-* [Toaster im Test: Klein bräunt besser](https://www.test.de/Toaster-im-Test-Klein-braeunt-besser-6132973-0/ "Toaster im Test - Klein bräunt besser")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Dubiose Handels­platt­form: Capitalix ohne Genehmigung](https://www.test.de/Dubiose-Handelsplattform-Capitalix-ohne-Genehmigung-6031084-0/ "Dubiose Handelsplattform - Capitalix ohne Genehmigung")
+* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
+* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
+* [Thermo­behälter im Test: Einer hält heiß, einer nicht dicht](https://www.test.de/Thermobehaelter-im-Test-Einer-haelt-heiss-einer-nicht-dicht-6115553-0/ "Thermobehälter im Test - Einer hält heiß, einer nicht dicht")
+* [Zinsen aus dem Ausland: Geld im Ausland angelegt? Was Sie der Bundes­bank melden müssen](https://www.test.de/Zinsen-aus-dem-Ausland-12-500-Euro-im-Ausland-angelegt-Was-Sie-der-Bundesbank-melden-muessen-6159329-0/ "Zinsen aus dem Ausland - Geld im Ausland angelegt? Was Sie der Bundesbank melden müssen")
+* [Leave-in-Conditioner im Test: Fürs Haar gut – für die Umwelt kritisch](https://www.test.de/Leave-in-Conditioner-im-Test-6152138-0/ "Leave-in-Conditioner im Test - Fürs Haar gut – für die Umwelt kritisch")
+* [Tages­geld: Manche Zinstreppe täuscht](https://www.test.de/Tagesgeld-Manche-Zinstreppe-taeuscht-6063562-0/ "Tagesgeld - Manche Zinstreppe täuscht")
 
 Stiftung Warentest
 
