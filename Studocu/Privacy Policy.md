@@ -28,7 +28,7 @@ Guest userAdd your university or school
 
 New
 
-[Home](https://www.studocu.com/en-us/home)[My Library](https://www.studocu.com/en-us/my-library)[Ask AI](https://www.studocu.com/en-us/experts)
+[Home](https://www.studocu.com/en-us/home)[My Library](https://www.studocu.com/en-us/my-library)[AI NotesNew](https://www.studocu.com/notes)[Ask AI](https://www.studocu.com/en-us/experts)
 
 Recent
 
