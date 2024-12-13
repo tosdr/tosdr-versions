@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-12 Dec 2024
+13 Dec 2024
 
 * [Home
     
@@ -309,6 +309,15 @@ There has been no confirmed sighting of Kyran Durnin since May of 2022.
 [BREAKING: Man arrested on suspicion of murdering Kyran Durnin](https://www.derrynow.com/news/national-news/1678899/breaking-man-arrested-on-suspicion-of-murdering-kyran-durnin.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![BBC Home of the Year Finalist ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "BBC Home of the Year Finalist ")](https://www.derrynow.com/news/county-derry-post/1679114/county-derry-home-featured-in-homesnis-hotlist-of-2024.html)
+
+BBC Home of the Year Finalist
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[County Derry Home Featured in HomesNI’s Hotlist of 2024](https://www.derrynow.com/news/county-derry-post/1679114/county-derry-home-featured-in-homesnis-hotlist-of-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death")](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
 
 The late Rebecca Browne
@@ -317,15 +326,6 @@ The late Rebecca Browne
 
 [Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man breached Sexual Offences Prevention Order by being in the presence of children](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man breached Sexual Offences Prevention Order by being in the presence of children")](https://www.derrynow.com/news/local-news/1679028/derry-man-breached-sexual-offences-prevention-order-by-being-in-the-presence-of-children.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man breached Sexual Offences Prevention Order by being in the presence of children](https://www.derrynow.com/news/local-news/1679028/derry-man-breached-sexual-offences-prevention-order-by-being-in-the-presence-of-children.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Self confessed drug dealer jailed for 26 months at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Self confessed drug dealer jailed for 26 months at Derry Crown Court")](https://www.derrynow.com/news/local-news/1679038/self-confessed-drug-dealer-jailed-for-26-months-at-derry-crown-court.html)
 
@@ -336,14 +336,14 @@ Derry Crown Court
 [Self confessed drug dealer jailed for 26 months at Derry Crown Court](https://www.derrynow.com/news/local-news/1679038/self-confessed-drug-dealer-jailed-for-26-months-at-derry-crown-court.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Missing 15-year-old girl found 'safe and well'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Missing 15-year-old girl found 'safe and well'")](https://www.derrynow.com/news/national-news/1678792/missing-15-year-old-girl-found-safe-and-well-after-six-days-of-searching.html)
+[![Derry man breached Sexual Offences Prevention Order by being in the presence of children](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man breached Sexual Offences Prevention Order by being in the presence of children")](https://www.derrynow.com/news/local-news/1679028/derry-man-breached-sexual-offences-prevention-order-by-being-in-the-presence-of-children.html)
 
-Jamie Moorehouse went missing on Thursday, December 5.
+Derry Magistrates' Court
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Missing 15-year-old girl found 'safe and well' after six days of searching](https://www.derrynow.com/news/national-news/1678792/missing-15-year-old-girl-found-safe-and-well-after-six-days-of-searching.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man breached Sexual Offences Prevention Order by being in the presence of children](https://www.derrynow.com/news/local-news/1679028/derry-man-breached-sexual-offences-prevention-order-by-being-in-the-presence-of-children.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
