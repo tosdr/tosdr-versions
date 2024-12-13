@@ -222,7 +222,7 @@ Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 306,493 Reviews
+Average 4.7 Stars Based on 306,579 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -442,17 +442,17 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 306,493 Carpet Cleaning Services Reviews
+Based on 306,579 Carpet Cleaning Services Reviews
 
-Customer service was amazing and the products made brought my carpet back to life **KJ.** - Florissant, MO - 12/11/2024
-
-(5.0 Out of 5 stars)
-
-I use OxiFresh regularly for my routine carpet cleaning...I love how bright my carpet looks and I know it's deep down clean too. If I have a concern about a certain area that needs special treatment to remove stains the service technician makes sure the job is done to my satisfaction! He does a great job Everytime! **LM.** - Piney Flats, TN - 12/11/2024
+I am selling my home and had hired a different carpet cleaning company. I thought they did a good job, but wondered when they did nothing extra with those pesty spots on our carpet. A couple days later, they all showed back up. I called Oxi Clean, we informed them of our problem and it wasn't 20 minutes later the actual individual that will be cleaning the carpets called to discuss the concerns we had. They came out within a couple days and cleaned our carpets. All of the stains and gone and the carpet looks like NEW!! Thank You OXI-Clean for your professional work and your courtesy! I will only use Oxi-Clean for all my future carpet cleaning needs!! **TC.** - Sioux Falls, SD - 12/11/2024
 
 (5.0 Out of 5 stars)
 
-We were able to get our carpets cleaned within 48 hours. Customer service was great, technician was great and our carpets look AMAZING! **SS.** - Everett, WA - 12/11/2024
+Great Results! **TC.** - New York, NY - 12/10/2024
+
+(5.0 Out of 5 stars)
+
+Great Service & Very Professional **BE.** - New York, NY - 12/10/2024
 
 (5.0 Out of 5 stars)
 
