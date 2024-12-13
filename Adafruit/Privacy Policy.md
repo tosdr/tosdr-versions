@@ -410,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Every person is born with a creative mind. Everyone has the ability”
+“ Elegance is not a dispensable luxury but a quality that decides between success and failure”
 
-[Mary Beatrice Davidson Kenner](https://en.wikipedia.org/wiki/Mary_Kenner)
+[Edsger W. Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
 
 [](https://www.adafruit.com/about)
 
