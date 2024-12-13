@@ -1,7 +1,7 @@
 [![tga-logo](https://cdn.thegameawards.com//frontend/svgs/tga_icon_2024.svg)](https://thegameawards.com/)
 
 * [News](https://thegameawards.com/news)
-* [Nominees](https://thegameawards.com/nominees)
+* [Winners](https://thegameawards.com/nominees)
 * [Players' Voice](https://thegameawards.com/brackets/players-voice)
 * [About](https://thegameawards.com/about)
 * [Rewind](https://thegameawards.com/rewind)
@@ -13,7 +13,7 @@ Sign In
 ![sign in](https://cdn.thegameawards.com//frontend/svgs/login_icon_2024.svg)
 
 * [News](https://thegameawards.com/news)
-* [Nominees](https://thegameawards.com/nominees)
+* [Winners](https://thegameawards.com/nominees)
 * [Players' Voice](https://thegameawards.com/brackets/players-voice)
 * [About](https://thegameawards.com/about)
 * [Rewind](https://thegameawards.com/rewind)
