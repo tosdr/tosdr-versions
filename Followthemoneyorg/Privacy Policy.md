@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Microsoft](/assets/logos/MicrosoftGivingGraph.png)](http://www.followthemoney.org/research/institute-research/forbes-magazines-richest-americans-influence-state-politics)
+[![pro-guncontrol](/assets/logos/NRAGunGIvingProCon201112.png)](http://www.followthemoney.org/research/institute-research/nra-direct-contributions-decline)
 
-Microsoft spread its state political giving pretty evenly, 2005-2008.
+Pro-gun-control was dramatically outspent, 2011-12.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
