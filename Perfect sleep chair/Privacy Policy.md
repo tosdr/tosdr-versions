@@ -417,7 +417,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 25 people voted yesNo, this review was not helpful 2 people voted no
+    Yes, this review was helpful 26 people voted yesNo, this review was not helpful 2 people voted no
     
 * **Thom H.**
     
