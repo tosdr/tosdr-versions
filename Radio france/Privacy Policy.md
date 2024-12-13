@@ -113,7 +113,7 @@ Menu principal
 
 [](https://twitter.com/radiofrance/ "Radio France sur Twitter - Nouvelle fenêtre")[](https://www.facebook.com/pages/Groupe-Radio-France/225248330547 "Radio France sur Facebook - Nouvelle fenêtre")[](https://www.instagram.com/radiofrance/ "Radio France sur Instagram - Nouvelle fenêtre")[](https://www.linkedin.com/company/radio-france/ "Radio France sur Linkedin - Nouvelle fenêtre")
 
-[![Radio France](/themes/custom/radiofrance/logo.svg?1734080350)](https://www.radiofrance.com/ "Radio France : retour à l'accueil")
+[![Radio France](/themes/custom/radiofrance/logo.svg?1734102549)](https://www.radiofrance.com/ "Radio France : retour à l'accueil")
 
 [](#collapse-menu-ecouter "Écouter")
 
@@ -153,7 +153,7 @@ Menu principal
 Protection des données
 ======================
 
-![Radio France mène une politique de respect du principe de protection de la vie privée, et plus particulièrement des données personnelles de ses utilisateurs](/sites/default/files/styles/format_32_9/public/2021-08/partition.jpg.jpeg?itok=t2oc3jMc)
+![Radio France mène une politique de respect du principe de protection de la vie privée, et plus particulièrement des données personnelles de ses utilisateurs](/sites/default/files/styles/format_32_9/public/2021-08/partition.jpg.webp?itok=UL4yMuVU)
 
 Radio France mène une politique de respect du principe de protection de la vie privée, et plus particulièrement des données personnelles de ses utilisateurs © Christophe Abramowitz/Radio France
 
