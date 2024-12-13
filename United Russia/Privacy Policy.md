@@ -305,23 +305,23 @@
 
 [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#Святенко](https://er.ru/activity/news?tags%5B0%5D=44335) [#Шапошников](https://er.ru/activity/news?tags%5B0%5D=3789) [#демография](https://er.ru/activity/news?tags%5B0%5D=135657) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975)
 
-Сегодня 18:11
+13.12.24
 
 [![Элита страны: «Единая Россия» включит участников СВО в состав руководящих органов партии](https://cdn.er.ru/media/news/December2024/L9XyhmvdU5pNchA1YQHq-small.JPG)](https://er.ru/activity/news/elita-strany-edinaya-rossiya-vklyuchit-uchastnikov-svo-v-sostav-rukovodyashih-organov-partii)
 
 [Элита страны: «Единая Россия» включит участников СВО в состав руководящих органов партии](https://er.ru/activity/news/elita-strany-edinaya-rossiya-vklyuchit-uchastnikov-svo-v-sostav-rukovodyashih-organov-partii)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Кириенко](https://er.ru/activity/news?tags%5B0%5D=2618) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Жога](https://er.ru/activity/news?tags%5B0%5D=1094717) [#Карелин](https://er.ru/activity/news?tags%5B0%5D=2232) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Кириенко](https://er.ru/activity/news?tags%5B0%5D=2618) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Жога](https://er.ru/activity/news?tags%5B0%5D=1094717) [#Карелин](https://er.ru/activity/news?tags%5B0%5D=2232) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999)
 
-Сегодня 17:48
+13.12.24
 
 [![Участники Съезда «Единой России» сформировали гуманитарный груз в Курскую область](https://cdn.er.ru/media/news/December2024/diKoZxO3T35nQUhmD88X-small.JPG)](https://er.ru/activity/news/uchastniki-sezda-edinoj-rossii-sformirovali-gumanitarnyj-gruz-v-kurskuyu-oblast)
 
 [Участники Съезда «Единой России» сформировали гуманитарный груз в Курскую область](https://er.ru/activity/news/uchastniki-sezda-edinoj-rossii-sformirovali-gumanitarnyj-gruz-v-kurskuyu-oblast)
 
-[#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#Лебедева](https://er.ru/activity/news?tags%5B0%5D=9611) [#Смирнова](https://er.ru/activity/news?tags%5B0%5D=10225) [#Солонкин](https://er.ru/activity/news?tags%5B0%5D=143558) [#Мосволонтер](https://er.ru/activity/news?tags%5B0%5D=149461) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#сборгумпомощи](https://er.ru/activity/news?tags%5B0%5D=1093180) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#мастер-классы](https://er.ru/activity/news?tags%5B0%5D=34619)
+[#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#Лебедева](https://er.ru/activity/news?tags%5B0%5D=9611) [#Смирнова](https://er.ru/activity/news?tags%5B0%5D=10225) [#Солонкин](https://er.ru/activity/news?tags%5B0%5D=143558) [#Мосволонтер](https://er.ru/activity/news?tags%5B0%5D=149461) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#сборгумпомощи](https://er.ru/activity/news?tags%5B0%5D=1093180) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#мастер-классы](https://er.ru/activity/news?tags%5B0%5D=34619) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999)
 
-Сегодня 16:57
+13.12.24
 
 [![О национальной идентичности и политическом выборе: опыт России и Китая. Статья Дмитрия Медведева](https://cdn.er.ru/media/news/December2024/yrM8Fnn8uhsA0A9aZtOm-small.jpg)](https://er.ru/activity/news/o-nacionalnoj-identichnosti-i-politicheskom-vybore-opyt-rossii-i-kitaya-statya-dmitriya-medvedeva)
 
@@ -329,7 +329,7 @@
 
 [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#Китай](https://er.ru/activity/news?tags%5B0%5D=263) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742)
 
-Сегодня 15:00
+13.12.24
 
 [![Участники Съезда «Единой России» – ветераны СВО встретились с бойцами, проходящими лечение в московских госпиталях](https://cdn.er.ru/media/news/December2024/X0rfZEWKX7He33IBIOho-small.jpg)](https://er.ru/activity/news/uchastniki-sezda-edinoj-rossii-veterany-svo-vstretilis-s-bojcami-prohodyashimi-lechenie-v-moskovskih-gospitalyah)
 
@@ -337,7 +337,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#госпитали](https://er.ru/activity/news?tags%5B0%5D=118007) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555)
 
-Сегодня 14:00
+13.12.24
 
 [![«Единая Россия» провела урок мужества с бойцами СВО для 500 школьников и студентов Москвы](https://cdn.er.ru/media/news/December2024/s4WETivVm9c1RwAvCUdg-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provela-urok-muzhestva-s-bojcami-svo-dlya-500-shkolnikov-i-studentov-moskvy)
 
@@ -345,7 +345,7 @@
 
 [#Туров](https://er.ru/activity/news?tags%5B0%5D=24396) [#МузейПобеды](https://er.ru/activity/news?tags%5B0%5D=1091109) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#СъездЕР](https://er.ru/activity/news?tags%5B0%5D=48209) [#Чинцов](https://er.ru/activity/news?tags%5B0%5D=1095688) [#Фунтиков](https://er.ru/activity/news?tags%5B0%5D=1095713) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#урокмужества](https://er.ru/activity/news?tags%5B0%5D=1091683)
 
-Сегодня 13:38
+13.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
