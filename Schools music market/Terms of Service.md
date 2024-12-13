@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/musical-genres-worksheet/)
+ [](https://schoolsmusicmarket.com/product/black-history-month-music-quiz/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/christmas-worksheet-a-musical-maths-puzzle/)
+ [](https://schoolsmusicmarket.com/product/lets-learn-about-folk-music/)
 
 ###### Browse By Year/Grade
 
