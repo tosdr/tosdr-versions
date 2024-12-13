@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/8356.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/2520.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -76,9 +76,9 @@ Visitez l'une de nos quelques environ
 
 Découvrir toutes les idées de cadeaux et les offres ici](https://www.microspot.ch/fr/cms/noel)
 
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0760-CM2-Gaming-Special.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzNzgyOHxpbWFnZS9qcGVnfGFEaGpMMmczWlM4NE5qQjRORGcwWDBreU5GOHdOell3WDBOTk1sOUhZVzFwYm1kZlUzQmxZMmxoYkM1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EWXdlRFE0TkY5Sk1qUmZNRGMyTUY5RFRUSmZSMkZ0YVc1blgxTndaV05wWVd3dWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa3wxZjhkZDcyYjZhMGFhM2RlZmU5M2VkZGYwMWQ5MjUzNDdiYTAwOWMxOTM5MjhhM2M3NTNmYzA3MWY1MTdlZjA3&w=2360&q=75)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-ID-Weekend-Deals-KW50-.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMDUwNzF8aW1hZ2UvanBlZ3xhRE5tTDJnMVlpODROakI0TkRnMFgwa3lORjlKUkY5WFpXVnJaVzVrWDBSbFlXeHpYMHRYTlRCZkxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpDODROakI0TkRnMFgwa3lORjlKUkY5WFpXVnJaVzVrWDBSbFlXeHpYMHRYTlRCZkxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfDk0MTliYzlhN2VhZDY1YWM5MTkyY2Y1MmU3ZWQzNWI4ZTdmZWE4OGNiZGUwYjFhNzI0ZWFkMDE0NmFjYjkwZGE&w=2360&q=75)
 
-ACTIONGaming Week](https://www.microspot.ch/fr/cms/actions-jeux)
+15%de rabais sur café & cuisine (grils exclus)](https://www.microspot.ch/fr/cms/id-weekend-deal)
 
 [![Samsung TV](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-Xmas-05-CM1-Promos-KW50-52-13.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyNTQ5NTZ8aW1hZ2UvanBlZ3xhREkwTDJnM01pODROakI0TkRnMFgwa3lORjlUY0ZCZldHMWhjMTh3TlY5RFRURmZVSEp2Ylc5elgwdFhOVEF0TlRKZk1UTXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemcyTUhnME9EUmZTVEkwWDFOd1VGOVliV0Z6WHpBMVgwTk5NVjlRY205dGIzTmZTMWMxTUMwMU1sOHhNeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8MjIxNDI2YzEzMjE2ZDI4NDM1ZmRmYzQ5OTY4MWMzMjcwODAxY2E1ODU2MzI2YzBkOTI1OWY2YjMzMjc4NTdjYg&w=2360&q=75)
 
@@ -91,10 +91,6 @@ ACTUALITÉSdes articles SONY sélectionnés au meilleurs prix](https://www.micro
 [![ID DEAL](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-Xmas-06-CM2-iPad-Pro-2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyNTQ4MjN8aW1hZ2UvanBlZ3xhR0UwTDJnek1TODROakI0TkRnMFgwa3lORjlUY0ZCZldHMWhjMTh3Tmw5RFRUSmZhVkJoWkY5UWNtOWZNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T0RZd2VEUTRORjlKTWpSZlUzQlFYMWh0WVhOZk1EWmZRMDB5WDJsUVlXUmZVSEp2WHpJdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa3wyMDNiNzQ5MzQ4ODE0MzVjZjAwZmE3NDM0NGJmNzlhYzUxZGRmMzNkNTcyZTQ5OGU0ZjM1MTE3OTYxZjM3ZWU1&w=2360&q=75)
 
 100.-de rabais sur une sélection d'iPad Pro](https://www.microspot.ch/fr/cms/apple-ipad)
-
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0760-CM2-Gaming-Special.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzNzgyOHxpbWFnZS9qcGVnfGFEaGpMMmczWlM4NE5qQjRORGcwWDBreU5GOHdOell3WDBOTk1sOUhZVzFwYm1kZlUzQmxZMmxoYkM1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EWXdlRFE0TkY5Sk1qUmZNRGMyTUY5RFRUSmZSMkZ0YVc1blgxTndaV05wWVd3dWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa3wxZjhkZDcyYjZhMGFhM2RlZmU5M2VkZGYwMWQ5MjUzNDdiYTAwOWMxOTM5MjhhM2M3NTNmYzA3MWY1MTdlZjA3&w=2360&q=75)
-
-ACTIONGaming Week](https://www.microspot.ch/fr/cms/actions-jeux)
 
 Autres actions ici
 
@@ -217,17 +213,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Garantie Plus
+[Frais de port gratuits pour livraison
 
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
-
-[Retrait gratuit
-
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Retrait gratuit
+
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
