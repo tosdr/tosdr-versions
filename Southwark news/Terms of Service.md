@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Visitors at The Brunel Museum. Image provided by The Brunel Museum](https://southwarknews.co.uk/wp-content/uploads/2024/12/Visitors-at-The-Brunel-Museum.-Image-provided-by-The-Brunel-Museum-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/rotherhithe-museum-offering-2-tickets-for-locals-only/)
+    
+    ### [Rotherhithe museum offering £2 tickets for locals only](https://southwarknews.co.uk/area/bermondsey/rotherhithe-museum-offering-2-tickets-for-locals-only/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/SNOW-WHITE-LAUNCH_112-copy-360x180.jpeg)](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
     
     ### [Events for the whole family in south London this season](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
@@ -52,10 +56,6 @@
     [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
     
     ### [TfL to axe popular South London bus route despite admitting public is ‘not supportive’](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
-    
-    [![A site overview with the H1 plot marked out in red](https://southwarknews.co.uk/wp-content/uploads/2024/12/0qYm4xug-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/long-held-plans-for-18-storey-elephant-and-castle-office-block-cast-aside-after-site-sold-for-42-million/)
-    
-    ### [Long-held plans for 18-storey Elephant and Castle office block cast aside after site sold for £42 million](https://southwarknews.co.uk/news/news-plus/long-held-plans-for-18-storey-elephant-and-castle-office-block-cast-aside-after-site-sold-for-42-million/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Visitors at The Brunel Museum. Image provided by The Brunel Museum](https://southwarknews.co.uk/wp-content/uploads/2024/12/Visitors-at-The-Brunel-Museum.-Image-provided-by-The-Brunel-Museum-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/rotherhithe-museum-offering-2-tickets-for-locals-only/)
+    
+    ### [Rotherhithe museum offering £2 tickets for locals only](https://southwarknews.co.uk/area/bermondsey/rotherhithe-museum-offering-2-tickets-for-locals-only/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/SNOW-WHITE-LAUNCH_112-copy-360x180.jpeg)](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
     
     ### [Events for the whole family in south London this season](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
@@ -138,10 +142,6 @@ View All Result
     [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
     
     ### [TfL to axe popular South London bus route despite admitting public is ‘not supportive’](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
-    
-    [![A site overview with the H1 plot marked out in red](https://southwarknews.co.uk/wp-content/uploads/2024/12/0qYm4xug-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/long-held-plans-for-18-storey-elephant-and-castle-office-block-cast-aside-after-site-sold-for-42-million/)
-    
-    ### [Long-held plans for 18-storey Elephant and Castle office block cast aside after site sold for £42 million](https://southwarknews.co.uk/news/news-plus/long-held-plans-for-18-storey-elephant-and-castle-office-block-cast-aside-after-site-sold-for-42-million/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
