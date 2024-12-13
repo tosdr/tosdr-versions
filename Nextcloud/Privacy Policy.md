@@ -1,17 +1,12 @@
 [Skip to main content](#main)
 
-[![Nextcloud Talk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Nextcloud Talk](https://nextcloud.com/c/uploads/2022/10/nc-talk-icon-blue.svg)](https://nextcloud.com/blog/nextcloud-talk-our-open-source-answer-to-microsoft-teams/ "The open source answer to Microsoft Teams")
+[![Nextcloud Talk](https://nextcloud.com/c/uploads/2022/10/nc-talk-icon-blue.svg)](https://nextcloud.com/blog/nextcloud-talk-our-open-source-answer-to-microsoft-teams/ "The open source answer to Microsoft Teams")
 
 [The **open source answer** to Microsoft Teams](https://nextcloud.com/blog/nextcloud-talk-our-open-source-answer-to-microsoft-teams/ "The open source answer to Microsoft Teams")
 
 [Learn more](https://nextcloud.com/blog/nextcloud-talk-our-open-source-answer-to-microsoft-teams/ "The open source answer to Microsoft Teams")
 
 [![Nextcloud Hub 9 is here!
-](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Nextcloud Hub 9 is here!
 ](https://nextcloud.com/c/uploads/2024/09/nc-hub9-icon-blue-gradient-custom.svg)](https://nextcloud.com/blog/nextcloud-hub9/ "Nextcloud Hub 9 is here!
 ")
 
@@ -21,9 +16,7 @@
 [Learn more](https://nextcloud.com/blog/nextcloud-hub9/ "Nextcloud Hub 9 is here!
 ")
 
-[![Nextcloud logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
-
-![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
+[![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
 
 * [Products](#)
     * [![Nextcloud Hub](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -36,11 +29,7 @@
             ![Nextcloud Files](https://nextcloud.com/c/uploads/2022/09/nc-files-icon.svg)
             
             Nextcloud FilesFile Sync and Share](https://nextcloud.com/files/)
-        * [![Nextcloud Talk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-            
-            ![Nextcloud Talk](https://nextcloud.com/c/uploads/2022/10/nc-talk-icon-blue.svg)
-            
-            Nextcloud TalkCalls, chat and video conferencing](https://nextcloud.com/talk/)
+        * [![Nextcloud Talk](https://nextcloud.com/c/uploads/2022/10/nc-talk-icon-blue.svg)Nextcloud TalkCalls, chat and video conferencing](https://nextcloud.com/talk/)
         * [![Nextcloud Groupware](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
             
             ![Nextcloud Groupware](https://nextcloud.com/c/uploads/2022/10/nc-groupware-icon-blue.svg)
@@ -1249,8 +1238,6 @@ Search:
     ![RSS Feed](https://nextcloud.com/c/uploads/2023/01/RSS-feed-icon-white.svg)](https://nextcloud.com/feed/ "RSS Feed")
 
 © 2021 - 2024 Nextcloud GmbH
-
-![Nextcloud](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2071%2050'%3E%3C/svg%3E "Nextcloud")
 
 ![Nextcloud](https://nextcloud.com/wp-content/uploads/2022/10/nextcloud-logo-blue-transparent.svg "Nextcloud")
 
