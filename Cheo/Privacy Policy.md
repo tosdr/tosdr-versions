@@ -108,7 +108,7 @@ Search
 Privacy and confidentiality
 ===========================
 
-![Mother and child smiling at camera](/en/rotatingimages/defaultInterior/Banner-12.jpg)
+![Boy looking at camera](/en/rotatingimages/defaultInterior/Banner-13.jpg)
 
 [Regular](# "Default text size") [Large](# "Increase to Large text size") [X-Large](# "Increase to X-Large text size")
 
