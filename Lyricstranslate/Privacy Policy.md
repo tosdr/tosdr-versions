@@ -107,69 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Thomas222](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1310118-1706205100.jpg)](https://lyricstranslate.com/en/translator/thomas222 "Thomas222")
-
-Transcription request fulfilled
-
-[Pretty Bird (Nigel's Song) \[Hebrew\]](https://lyricstranslate.com/en/rio-ost-pretty-bird-nigels-song-lyrics-0)
-
-Hebrew
-
-[![Thomas222](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1310118-1706205100.jpg)](https://lyricstranslate.com/en/translator/thomas222 "Thomas222")
-
-New song
-
-[Rio (OST) - Pretty Bird (Nigel's Song) \[Hebrew\]](https://lyricstranslate.com/en/rio-ost-pretty-bird-nigels-song-lyrics-0)
-
-Hebrew
-
-[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
+[![lesbianfactory](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1592976-1730458047.jpg)](https://lyricstranslate.com/en/translator/lesbianfactory "lesbianfactory")
 
 New translation
 
-[Johnny Cash - A Boy Named Sue](https://lyricstranslate.com/en/johnny-cash-boy-named-sue-french)
+[Russian Folk - Проводы (Provody)](https://lyricstranslate.com/en/russian-folk-provody-yiddish)
 
-English → French
+Russian → Yiddish
 
-[![RandomUserPotato](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1371772-1709301919.jpg)](https://lyricstranslate.com/en/translator/randomuserpotato "RandomUserPotato")
+[![road to progress](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1342528-1569415592.jpg)](https://lyricstranslate.com/en/translator/road-progress "road to progress")
 
 New song
 
-[Go Vacation (OST) - Cruisin'](https://lyricstranslate.com/en/go-vacation-ost-cruisin-lyrics)
+[Philippe B - Cheveux courts, cheveux longs](https://lyricstranslate.com/en/philippe-b-cheveux-courts-cheveux-l-lyrics)
+
+French
+
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1733199886.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+
+New translation
+
+[Franco Ricciardi - Fai l'amore](https://lyricstranslate.com/en/franco-ricciardi-fai-lamore-english)
+
+Italian → English
+
+[![saspitite](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633967-1729776092.png)](https://lyricstranslate.com/en/translator/saspitite "saspitite")
+
+New translation
+
+[Hevisaurus - Harri Hylje](https://lyricstranslate.com/en/hevisaurus-harri-hylje-english)
+
+Finnish → English
+
+[![Boyzillion2018](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/boyzillion2018 "Boyzillion2018")
+
+New translation
+
+[flowerovlove - breaking news](https://lyricstranslate.com/en/flowerovlove-breaking-news-korean)
+
+English → Korean
+
+[![Pietro Lignola](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1361061-1568016170.jpg)](https://lyricstranslate.com/en/translator/pietro-lignola "Pietro Lignola")
+
+New translation
+
+[Lenier - Déjame Robarte Un Beso](https://lyricstranslate.com/en/lenier-dejame-robarte-un-beso-neapolitan)
+
+Spanish → Neapolitan
+
+[![Luka](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1342875-1584833098.jpg)](https://lyricstranslate.com/en/translator/luka "Luka")
+
+New translation
+
+[Sofia the First (OST) - Sofia the First Theme Song (Hungarian) \[Főcímdal\]](https://lyricstranslate.com/en/sofia-first-ost-sofia-first-theme-son-croatian)
+
+Hungarian → Croatian
+
+[![Burghold](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1338222-1514825045.jpg)](https://lyricstranslate.com/en/translator/burghold "Burghold")
+
+New song
+
+[Danny McEvoy - Christmas Kinda Feeling](https://lyricstranslate.com/en/danny-mcevoy-christmas-kinda-feeling-lyrics)
 
 English
-
-[![Gavagai](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1452942-1673766713.png)](https://lyricstranslate.com/en/translator/gavagai "Gavagai")
-
-New song
-
-[Shaboozey - Highway](https://lyricstranslate.com/en/shaboozey-highway-lyrics-0)
-
-English
-
-[![Aryan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1376812-1713021439.jpg)](https://lyricstranslate.com/en/translator/aryan "Aryan")
-
-New translation
-
-[Müslüm Gürses - Seni Yazdım](https://lyricstranslate.com/en/muslum-gurses-seni-yazdim-kurdish-kurmanji)
-
-Turkish → Kurdish (Kurmanji)
-
-[![Kapix 320](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1491093-1651679873.jpg)](https://lyricstranslate.com/en/translator/kapix-320 "Kapix 320")
-
-New transcription request
-
-[Rio (ost) - Pretty Bird (Nigel's Song) \[Japanese\]](https://lyricstranslate.com/en/rio-ost-pretty-bird-nigels-song-japanese)
-
-Japanese
-
-[![Albert Braam](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1315727.jpg)](https://lyricstranslate.com/en/translator/albert-braam "Albert Braam")
-
-New translation
-
-[Dermot Kennedy - Better Days](https://lyricstranslate.com/en/dermot-kennedy-better-days-dutch)
-
-English → Dutch
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
