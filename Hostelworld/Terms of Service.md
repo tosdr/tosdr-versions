@@ -29,7 +29,7 @@ Check In
 
 Check Out
 
-4 nights selected
+3 nights selected
 
 December 2024
 
