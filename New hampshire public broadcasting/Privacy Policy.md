@@ -185,12 +185,12 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [| Christa](https://video.nhpbs.org/video/christa-ygbur1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Rising Star Wrestler overcomes tragedy in Wrangell INDIE ALASKA** | Indie Alaska](https://video.nhpbs.org/video/rising-star-wrestler-overcomes-tragedy-in-wrangell-indie-alaska-gsijwe?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"Maui's Deadly Firestorm" - Preview** | FRONTLINE](https://video.nhpbs.org/video/mauis-deadly-firestorm-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**With Peter Bradley Preview** | Local, USA](https://video.nhpbs.org/video/local-usa-with-peter-bradley-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**How South Asian Muslims and Mexican Americans United in the 1920s** | American Muslims: A History Revealed](https://video.nhpbs.org/video/how-south-asian-muslims-and-mexican-americans-united-in-the-1920s-3jtzkl?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Longtime court sketch artist Bill Hennessy Jr. dies** | PBS News Hour](https://video.nhpbs.org/video/longtime-court-sketch-artist-bill-hennessy-jr-dies-1734018632?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Whitney Wrap I Manshi Shah** | The Whitney Reynolds Show](https://video.nhpbs.org/video/whitney-wrap-i-manshi-shah-ypcol9?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Beware of Flesh-Eating Sand Piranhas at the Beach** | Deep Look](https://video.nhpbs.org/video/beware-of-flesh-eating-sand-piranhas-at-the-beach-8rwlvv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Longtime court sketch artist Bill Hennessy Jr. dies** | PBS News Hour](https://video.nhpbs.org/video/longtime-court-sketch-artist-bill-hennessy-jr-dies-1734018175?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Maria** | Flicks](https://video.nhpbs.org/video/maria-adnlpg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Yule Log** | All Creatures Great and Small](https://video.nhpbs.org/video/yule-log-jngrys?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
