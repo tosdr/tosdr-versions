@@ -161,6 +161,7 @@ Braslas iela 22, Riga, LV1084
 Product
 
 * [Shared Hosting](https://tab.digital/shared-hosting)
+* [Email for Nextcloud](https://tab.digital/emailaccounts)
 * [Nextcloud One](https://cloud.tab.digital/#rec398471805)
 * [Nextcloud Private Cloud](https://cloud.tab.digital/admin/#rec186192555)
 * [Nextcloud for Business](https://cloud.tab.digital/business)
