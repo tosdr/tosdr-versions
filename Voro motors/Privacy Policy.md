@@ -1,8 +1,8 @@
 Γ
 
-                                                                    
+                                                                    Privacy Policy - VORO MOTORS                   
 
-Privacy Policy - VORO MOTORS                        
+       
 
 [**Shop Now for the NEW EMOVE RoadRunner V3! 🎉**](https://www.voromotors.com/products/emove-roadrunner-v3-seated-electric-scooter "EMOVE Roadrunner V3 - World's First Electric Scooter Bike Hybrid")
 
