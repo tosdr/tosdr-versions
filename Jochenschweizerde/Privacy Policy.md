@@ -505,7 +505,17 @@ Diese Website benutzt den Google Tag Manager. Google Tag Manager ist eine Lösun
 
 Diese Webseite verwendet Google Maps von Google Inc.  zur Darstellung von interaktiven Karten zugreift. Google Maps ist ein Kartendienst von Google Inc., 1600 Amphitheatre Parkway, Mountain View, California 94043, USA. Durch Nutzung dieser Webseite erklären Sie sich mit der Erfassung, Bearbeitung sowie Nutzung der automatisiert erhobenen Daten durch Google Inc, deren Vertreter sowie Dritter einverstanden. Dabei werden aber keinerlei Cookies oder ähnliche Technologien eingesetzt.
 
-Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch Google sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte den Nutzungshinweisen von Google unter [https://www.google.com/intl/de\_de/help/terms\_maps.html](https://www.google.com/intl/de_de/help/terms_maps.html) .
+Zweck und Umfang der Datenerhebung und die weitere Verarbeitung und Nutzung der Daten durch Google sowie Ihre diesbezüglichen Rechte und Einstellungsmöglichkeiten zum Schutz Ihrer Privatsphäre entnehmen Sie bitte den Nutzungshinweisen von Google unter [https://www.google.com/intl/de\_de/help/terms\_maps.html](https://www.google.com/intl/de_de/help/terms_maps.html).  
+ 
+
+**Intuition Machines, Inc.**
+
+Wir verwenden auf unserer Website den Anti-Bot-Dienst hCaptcha (nachfolgend „hCaptcha“). Dieser Dienst wird von Intuition Machines, Inc. mit Sitz in Miami, Florida, USA („IMI“) bereitgestellt. Wenn Sie auf unserer Webseite einen Gutschein einlösen möchten, wird hCaptcha verwendet, um zu prüfen, ob die auf unserer Website (z.B. auf einer Login-Seite oder in einem Kontaktformular) eingegebenen Daten von einem Menschen oder von einem automatisierten Programm eingegeben wurden. Zu diesem Zweck analysiert hCaptcha das Verhalten des Besuchers der Website anhand verschiedener Merkmale. Diese Analyse beginnt automatisch, sobald der Besucher der Website einen Teil der Website oder mit aktiviertem hCaptcha betritt. Für die Analyse wertet hCaptcha verschiedene Informationen aus (z.B. IP-Adresse, Verweildauer des Besuchers auf der Website oder App oder Mausbewegungen des Nutzers). Die bei der Analyse erhobenen Daten werden an IMI weitergeleitet. Die hCaptcha-Analyse im „unsichtbaren Modus“ kann vollständig im Hintergrund stattfinden. Die Besucher der Website werden nicht darauf hingewiesen, dass eine solche Analyse stattfindet, wenn dem Nutzer keine „Aufgabe“ bzw. „Herausforderung“ (Challenge) angezeigt wird.
+
+Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. (1) lit. (f) DSGVO. Wir haben ein berechtigtes Interesse daran, unsere Website vor missbräuchlichem automatisiertem Crawling und Spam zu schützen. IMI handelt als Auftragsverarbeiter, der im Namen seiner Kunden im Sinne der DSGVO handelt. IMI ist Teil der EU-US-, UK-US- und Swiss-US Data Privacy Framework-Vereinbarungen.
+
+Weitere Informationen über hCaptcha und die Datenschutzrichtlinien und Nutzungsbedingungen der IMI finden Sie unter den folgenden Links: [https://www.hcaptcha.com/privacy](https://www.hcaptcha.com/privacy) und [https://www.hcaptcha.com/terms](https://www.hcaptcha.com/terms).  
+ 
 
 **Sentry**
 
