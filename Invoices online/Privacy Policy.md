@@ -124,50 +124,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Anri van der Linde
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=67509011)  
-United Paintball Federation
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=107504592)  
+Fox Alarms & Security
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=16531077)  
-Redlum Group (Pty) Ltd
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=171453967)  
+Safe Train Mokgethwa (PTY) Ltd
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=159294124)  
-Cooper Logistics (Pty) Ltd
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=151858673)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=109260231)  
-Peter Salvage Pty Ltd
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=122168316)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=72227303)  
-Depot Diesel (Pty) Ltd
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=137781627)  
+Salvage Genie
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=211072058)  
-CHARLIEX CONSTRUCTIONS
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=57293137)  
+Karino Merinos ( PTY ) LTD
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=12800937)  
-McKaynine Mobility
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=99283925)  
+Wiselink Broadband Vryheid
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=104952023)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=98427396)  
+ELLIE'S CLEANING CHICKS
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=27955021)  
-van Schaik rentals
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=173709463)  
+Dombieterfontein (PTY) LTD
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=146941346)  
-Electro-Heat
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=12179587)  
+Lemba Truck Stop
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=108389989)  
-Goju-Ryu Pretoria East
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=50613774)  
+SLOANE STAR MEAT MARKET
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=89502948)  
-Mtunzini Group
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=2634904)  
+OXYAIDER (PTY) LTD
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=98903944)  
-Well Hung Art
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=33001083)  
+PROGRAPHIX PTY LTD
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=51552013)  
-Digifax Pty) Ltd t/a Findfish
+![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=58805729)  
+Protech Marketing
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=95158610)  
-CLEVER STUDENTS
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=30046667)  
+Lily Fern & Co
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
