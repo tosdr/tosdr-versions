@@ -192,12 +192,11 @@ Browse
     * Power
         
         * [Power](https://www.maplin.co.uk/collections/power-cables)
-        * [Power Supply Cables](https://www.maplin.co.uk/collections/power-supply-cables)
+        * [Power Supplies](https://www.maplin.co.uk/collections/power-supply-cables)
         * [IEC C5 Cables](https://www.maplin.co.uk/collections/iec-cables)
         * [IEC C7 Cables](https://www.maplin.co.uk/collections/iec-c7-cables)
         * [IEC C13 Cables](https://www.maplin.co.uk/collections/iec-c13-cables)
         * [CCTV Cables & Adapters](https://www.maplin.co.uk/collections/cctv-cables)
-        * [PC Building Power Cables](https://www.maplin.co.uk/collections/pc-building-power-cables)
         
     * Networking
         
@@ -422,11 +421,13 @@ Browse
         * [Subwoofer Drivers](https://www.maplin.co.uk/collections/subwoofers)
         * [Radios](https://www.maplin.co.uk/collections/radios)
         
-    * TV Brackets & Trolleys
+    * TV Accessories
         
-        * [TV Brackets & Trolleys](https://www.maplin.co.uk/collections/tv-brackets-trolleys-1)
+        * [TV Accessories](https://www.maplin.co.uk/collections/tv-brackets-trolleys-1)
         * [TV Brackets](https://www.maplin.co.uk/collections/tv-brackets)
         * [TV & Projector Trolleys](https://www.maplin.co.uk/collections/tv-projector-trolleys)
+        * [HDMI Splitters](https://www.maplin.co.uk/collections/hdmi-splitters)
+        * [HDMI Switches](https://www.maplin.co.uk/collections/hdmi-switches)
         
     * Tech Kits
         
@@ -1006,12 +1007,11 @@ Browse
     
     [Power](https://www.maplin.co.uk/collections/power-cables)
     
-    * [Power Supply Cables](https://www.maplin.co.uk/collections/power-supply-cables)
+    * [Power Supplies](https://www.maplin.co.uk/collections/power-supply-cables)
     * [IEC C5 Cables](https://www.maplin.co.uk/collections/iec-cables)
     * [IEC C7 Cables](https://www.maplin.co.uk/collections/iec-c7-cables)
     * [IEC C13 Cables](https://www.maplin.co.uk/collections/iec-c13-cables)
     * [CCTV Cables & Adapters](https://www.maplin.co.uk/collections/cctv-cables)
-    * [PC Building Power Cables](https://www.maplin.co.uk/collections/pc-building-power-cables)
     
     [Networking](https://www.maplin.co.uk/collections/networking-cables-adapters)
     
@@ -1229,10 +1229,12 @@ Browse
     * [Subwoofer Drivers](https://www.maplin.co.uk/collections/subwoofers)
     * [Radios](https://www.maplin.co.uk/collections/radios)
     
-    [TV Brackets & Trolleys](https://www.maplin.co.uk/collections/tv-brackets-trolleys-1)
+    [TV Accessories](https://www.maplin.co.uk/collections/tv-brackets-trolleys-1)
     
     * [TV Brackets](https://www.maplin.co.uk/collections/tv-brackets)
     * [TV & Projector Trolleys](https://www.maplin.co.uk/collections/tv-projector-trolleys)
+    * [HDMI Splitters](https://www.maplin.co.uk/collections/hdmi-splitters)
+    * [HDMI Switches](https://www.maplin.co.uk/collections/hdmi-switches)
     
     [Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
     
