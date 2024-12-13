@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Dallas weather: Gloomy skies and showers set the mood for Friday the 13th](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/friday-13-weather-final.png?ve=1&tl=1)
+ [![Nancy Pelosi hospitalized in Luxembourg](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2022/12/32/18/PELOSI.jpg?ve=1&tl=1)
 
- ![Dallas weather: Gloomy skies and showers set the mood for Friday the 13th](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/friday-13-weather-final.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-friday-13)
+ ![Nancy Pelosi hospitalized in Luxembourg](https://images.foxtv.com/images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2022/12/32/18/592/333/PELOSI.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nancy-pelosi-hospitalized-luxembourg)
 
-### [Dallas weather: Gloomy skies and showers set the mood for Friday the 13th](https://www.fox4news.com/weather/dallas-weather-friday-13)
+### [Nancy Pelosi hospitalized in Luxembourg](https://www.fox4news.com/news/nancy-pelosi-hospitalized-luxembourg)
 
- [![Selena Gomez announces engagement to record producer Benny Blanco](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/selena-benny.jpg?ve=1&tl=1)
+ [![Amber Alert issued for missing brothers in East Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/amber-alert.jpg?ve=1&tl=1)
 
- ![Selena Gomez announces engagement to record producer Benny Blanco](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/selena-benny.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/selena-gomez-announces-engagement-record-producer-benny-blanco)
+ ![Amber Alert issued for missing brothers in East Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/amber-alert.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-tyler-legend-sanford-kannon-oneal)
 
-### [Selena Gomez announces engagement to record producer Benny Blanco](https://www.fox4news.com/news/selena-gomez-announces-engagement-record-producer-benny-blanco)
+### [Amber Alert issued for missing brothers in East Texas](https://www.fox4news.com/news/amber-alert-tyler-legend-sanford-kannon-oneal)
 
- [![Airbnb rolls out ‘anti-party restrictions’ for New Year’s Eve](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-1650390026.jpg?ve=1&tl=1)
+ [![Surf and Adventure Park coming to McKinney; 35-acre, $200M attraction](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/beach-2.jpeg?ve=1&tl=1)
 
- ![Airbnb rolls out ‘anti-party restrictions’ for New Year’s Eve](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-1650390026.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/airbnb-new-years-eve-party-restrictions)
+ ![Surf and Adventure Park coming to McKinney; 35-acre, $200M attraction](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/beach-2.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/surf-park-mckinney-cannon-beach)
 
-### [Airbnb rolls out ‘anti-party restrictions’ for New Year’s Eve](https://www.fox4news.com/news/airbnb-new-years-eve-party-restrictions)
+### [Surf and Adventure Park coming to McKinney; 35-acre, $200M attraction](https://www.fox4news.com/news/surf-park-mckinney-cannon-beach)
 
- [!['Wanted' posters spotted in NYC reportedly target healthcare CEOs](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/wanted-posters.png?ve=1&tl=1)
+ [![2 Mansfield officers hurt; suspect arrested following chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/mansfield-assault-chase-tvs-raw_mxf_00.14.20.14.jpg?ve=1&tl=1)
 
- !['Wanted' posters spotted in NYC reportedly target healthcare CEOs](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/wanted-posters.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wanted-posters-ceo-killing-new-york-city)
+ ![2 Mansfield officers hurt; suspect arrested following chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/mansfield-assault-chase-tvs-raw_mxf_00.14.20.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mansfield-police-assault-chase-diego-battle)
 
-### ['Wanted' posters spotted in NYC reportedly target healthcare CEOs](https://www.fox4news.com/news/wanted-posters-ceo-killing-new-york-city)
+### [2 Mansfield officers hurt; suspect arrested following chase](https://www.fox4news.com/news/mansfield-police-assault-chase-diego-battle)
 
- [![Dallas City Council questions new city manager search that only named 4 possible candidates](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/121224-dallas-city-manager-search-qt-530-pkg_00.00.20.30.jpg?ve=1&tl=1)
+ [![YouTube TV raising monthly prices again. Here's what we know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/youtube-tv.jpg?ve=1&tl=1)
 
- ![Dallas City Council questions new city manager search that only named 4 possible candidates](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/121224-dallas-city-manager-search-qt-530-pkg_00.00.20.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/search-next-dallas-city-manager-hones-4-possible-candidates-city-council-wanted-more)
+ ![YouTube TV raising monthly prices again. Here's what we know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/youtube-tv.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/youtube-tv-raising-monthly-prices-again)
 
-### [Dallas City Council questions new city manager search that only named 4 possible candidates](https://www.fox4news.com/news/search-next-dallas-city-manager-hones-4-possible-candidates-city-council-wanted-more)
+### [YouTube TV raising monthly prices again. Here's what we know](https://www.fox4news.com/news/youtube-tv-raising-monthly-prices-again)
 
 ###### [News](https://www.fox4news.com/news)
 
