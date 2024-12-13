@@ -59,7 +59,7 @@ General Terms of Use of the AMBOSS Knowledge and Learning Program
 
 The following Terms of Use apply between
 
-AMBOSS GmbH
+AMBOSS SE
 
 Torstrasse 19
 
@@ -525,15 +525,15 @@ LEGAL
 
 [](https://www.amboss.com/us/legal/terms-v1)
 
-[General Privacy Policy](https://www.amboss.com/us/legal/privacy)
-
-[](https://www.amboss.com/us/legal/social-media)
-
-[](https://www.amboss.com/us/legal/applicants)
+[Legal Notice](https://www.amboss.com/us/legal/legal-notice)
 
 [General Terms of Use](https://www.amboss.com/us/legal/terms)
 
-[Legal Notice](https://www.amboss.com/us/legal/legal-notice)
+[](https://www.amboss.com/us/legal/applicants)
+
+[](https://www.amboss.com/us/legal/social-media)
+
+[General Privacy Policy](https://www.amboss.com/us/legal/privacy)
 
 [Privacy Settings](#)
 
