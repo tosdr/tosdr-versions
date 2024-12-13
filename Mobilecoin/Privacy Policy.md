@@ -16,10 +16,10 @@ Welcome to Sentz!
 
 ![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/654c08609433d19d6fb2f0fd_icon-black-hamburger.svg)![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/654c0860f1a104d75a308861_icon-black-closeMenu.svg)
 
+[Download Sentz](https://mobyap.onelink.me/LvM2/j8khsw0i)
+
 Send and receive payments globally from anyone you can text for (basically) free
 ================================================================================
-
-[Download Now](https://mobyap.onelink.me/LvM2/j8khsw0i)
 
 Download  
 Sentz
