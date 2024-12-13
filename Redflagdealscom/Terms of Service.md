@@ -31,6 +31,7 @@ Don't have an account? [Sign up now.](https://www.redflagdeals.com/user/signup/?
 
 [![RedFlagDeals.com](https://assets.rfdcontent.com/graphics/rfd/v33.36.357-hotfix/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")](https://www.redflagdeals.com/)
 
+* [Boxing Day](https://boxingday.redflagdeals.com/)
 * [Deals](https://www.redflagdeals.com/deals/)
     
     * Deals
@@ -313,6 +314,8 @@ Quick links
 * [Flyers](https://www.redflagdeals.com/in/toronto/flyers/ "Flyers")
 * [Forums](https://forums.redflagdeals.com/ "Forums")
 * [Reviews](https://www.redflagdeals.com/reviews/ "Reviews")
+* [Black Friday 2024](https://blackfriday.redflagdeals.com/ "Black Friday Canada")
+* [Boxing Day 2024](https://boxingday.redflagdeals.com/ "Boxing Day Canada")
 
 Mobile, tools and more
 
