@@ -250,6 +250,7 @@ Company
 * [Blog](https://render.com/blog)
 * [Community](https://community.render.com/)
 * [Careers](https://render.com/careers)
+* [Press](https://render.com/press)
 * [Privacy Policy](https://render.com/privacy)
 * [Security](https://render.com/trust)
 * [Shared Responsibility Model](https://render.com/shared-responsibility-model)
