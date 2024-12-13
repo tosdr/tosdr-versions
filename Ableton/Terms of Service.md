@@ -129,7 +129,7 @@ If you are an entrepreneur, the following applies: counterclaims that you base o
 7\. Warranty / Ableton hardware – Customer Service
 --------------------------------------------------
 
-7.1. If you are a consumer, the statutory warranty rights apply. In addition, Ableton grants a 3-year warranty for Ableton hardware from the transfer of risk, insofar as you have purchased the product directly from Ableton. Details on the warranty provisions can be found in the brochure "Safety and Warranty" enclosed with the product box or here .
+7.1. If you are a consumer, the statutory warranty rights apply. In addition, Ableton grants a 3-year warranty for Ableton hardware from the transfer of risk, insofar as you have purchased the product directly from Ableton. Details on the warranty provisions can be found in the brochure "Safety and Warranty" enclosed with the product box or [here](https://www.ableton.com/safety-and-warranty/).
 
 7.2. If you are an entrepreneur, the following applies: a) If Ableton has to provide a warranty for a defect through subsequent performance, Ableton has the choice of whether the subsequent performance is carried out by repair or replacement of an item free of defects. b) Your warranty claims become statute-barred within one year from the beginning of the handover, unless Ableton is responsible for the defect. c) Obvious defects must be reported to Ableton immediately, at the latest within 14 calendar days after delivery of the goods in text form (e.g. e-mail), hidden defects must also be reported immediately, at the latest within 14 calendar days after their discovery in text form (e.g. e‑mail). If the notification of defects is not made in a timely manner, your warranty rights are excluded with respect to the defect that was not notified in a timely manner. This does not apply, however, if Ableton has fraudulently concealed the defect and/or has assumed a corresponding guarantee.
 
@@ -138,8 +138,6 @@ If you are an entrepreneur, the following applies: counterclaims that you base o
 [Contact support form](https://help.ableton.com/hc/en-us/requests/new)
 
 7.4. Ableton does not provide customers any guarantees in a legal sense.
-
-  
 
 8\. Right of Withdrawal Policy for Consumers
 --------------------------------------------
@@ -186,8 +184,6 @@ You will have to bear the direct cost of returning the goods.
 
 You are only liable for any diminished value of the goods resulting from the handling other than what is necessary to establish the nature, characteristics and functioning of the goods.b) Contracts concerning the delivery of Ableton Live, Max for Live and Packs downloads (digital contents not stored on a physical data carrier)
 
-  
-
 b) **Contracts concerning the delivery of Ableton Live, Max for Live and Packs downloads (digital contents not stored on a physical data carrier)**
 
 **Right of withdrawal**
@@ -216,8 +212,6 @@ If you withdraw from this contract, we shall reimburse to you all payments recei
 In the following cases, you cannot or no longer withdraw your contractual declaration:
 
 The right of withdrawal expires in the case of a contract for the delivery of digital content not on a physical data carrier if Ableton has started the execution of the contract after (i) you have expressly agreed that Ableton will start the execution of the contract before the expiry of the withdrawal period and (ii) you have confirmed your knowledge that you lose your right of withdrawal by your agreement with the start of the execution of the contract and (iii) Ableton has provided you with a confirmation in accordance with § 312 f BGB.
-
-  
 
 c) **Contracts for the delivery of Ableton Hardware + Live Standard or Ableton Hardware + Live Suite (Goods and digital content ordered as a whole and delivered separately)**
 
@@ -259,8 +253,6 @@ You will have to bear the direct cost of returning the goods.
 
 You are only liable for any diminished value of the goods resulting from the handling other than what is necessary to establish the nature, characteristics and functioning of the goods.b) Contracts concerning the delivery of Ableton Live, Max for Live and Packs downloads (digital contents not stored on a physical data carrier)
 
-  
-
 d) **Model withdrawal form**
 
 (complete and return this form only if you wish to withdraw from the contract)
@@ -282,8 +274,6 @@ Date
 (\*) Delete as appropriate.
 
 8.2. To ensure an efficient and customer-friendly processing we kindly ask you to send the returns to the address mentioned in the delivery slip not to the address mentioned above.
-
-  
 
 9\. Use Rights
 --------------
