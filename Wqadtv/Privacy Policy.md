@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WOI/images/a1a27c41-b709-4582-a0bb-69191f908234/20240816T223743/a1a27c41-b709-4582-a0bb-69191f908234_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/a1a27c41-b709-4582-a0bb-69191f908234/20240816T223743/a1a27c41-b709-4582-a0bb-69191f908234_360x203.jpg)](https://www.wqad.com/article/news/regional/central-iowa-food-banks-call-for-a-decision-on-farm-bill-growing-need-hunger-legislators-meals-usda-programs-finacial-demand-lawmakers-opperations/524-f2c71961-370e-4498-ae2c-2372e6619d40)
+    *  [![](https://media.tegna-media.com/assets/WGRZ/images/ef76eeaf-008c-493b-9605-386260bc87d6/20240922T135945/ef76eeaf-008c-493b-9605-386260bc87d6_16x9.jpg) ![](https://media.tegna-media.com/assets/WGRZ/images/ef76eeaf-008c-493b-9605-386260bc87d6/20240922T135945/ef76eeaf-008c-493b-9605-386260bc87d6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/galesburg-fire-mulberry-street/526-5aa2a776-2aec-4102-a707-240313d32569)
         
-        #### [Central Iowa food banks call for a decision on farm bill](https://www.wqad.com/article/news/regional/central-iowa-food-banks-call-for-a-decision-on-farm-bill-growing-need-hunger-legislators-meals-usda-programs-finacial-demand-lawmakers-opperations/524-f2c71961-370e-4498-ae2c-2372e6619d40)
+        #### [3 residents hospitalized following Galesburg house fire](https://www.wqad.com/article/news/local/public-safety/galesburg-fire-mulberry-street/526-5aa2a776-2aec-4102-a707-240313d32569) [![](https://media.tegna-media.com/assets/WGRZ/images/ef76eeaf-008c-493b-9605-386260bc87d6/20240922T135945/ef76eeaf-008c-493b-9605-386260bc87d6_16x9.jpg) ![](https://media.tegna-media.com/assets/WGRZ/images/ef76eeaf-008c-493b-9605-386260bc87d6/20240922T135945/ef76eeaf-008c-493b-9605-386260bc87d6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/galesburg-fire-mulberry-street/526-5aa2a776-2aec-4102-a707-240313d32569)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b34c1f83-f8bf-499d-84d2-fd2b8a82fc10/20241213T042318/b34c1f83-f8bf-499d-84d2-fd2b8a82fc10_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b34c1f83-f8bf-499d-84d2-fd2b8a82fc10/20241213T042318/b34c1f83-f8bf-499d-84d2-fd2b8a82fc10_360x203.jpg)](https://www.wqad.com/article/news/local/rock-island-18-year-old-illinois-state-flag-finalist/526-fd56a13a-2779-4d48-b930-76de972158bd)
+        #### [Galesburg house fire hospitalizes 3 residents, dog rescued](https://www.wqad.com/article/news/local/public-safety/galesburg-fire-mulberry-street/526-5aa2a776-2aec-4102-a707-240313d32569)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/edba53cc-c7a8-479d-8b24-b47c5e5b5e77/edba53cc-c7a8-479d-8b24-b47c5e5b5e77_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/edba53cc-c7a8-479d-8b24-b47c5e5b5e77/edba53cc-c7a8-479d-8b24-b47c5e5b5e77_360x203.jpg)](https://www.wqad.com/article/entertainment/quad-cities-live-music-scene-upcoming-concerts/526-3311f24e-e4f8-4ed1-9c6f-cd11ed74fc5f)
         
-        #### [Design from 19-year-old Rock Island resident named a finalist to become the new Illinois state flag](https://www.wqad.com/article/news/local/rock-island-18-year-old-illinois-state-flag-finalist/526-fd56a13a-2779-4d48-b930-76de972158bd)
+        #### [Upcoming live music concerts in the Quad Cities](https://www.wqad.com/article/entertainment/quad-cities-live-music-scene-upcoming-concerts/526-3311f24e-e4f8-4ed1-9c6f-cd11ed74fc5f)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -58,7 +59,7 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/2f24a79c-393d-4989-9f14-e6a7b0ec591f/20241213T134205/2f24a79c-393d-4989-9f14-e6a7b0ec591f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2f24a79c-393d-4989-9f14-e6a7b0ec591f/20241213T134205/2f24a79c-393d-4989-9f14-e6a7b0ec591f_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Weather Impact Alert: Slightly warmer today before our next system moves in overnight into Saturday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Weather Impact Alert: Ice Potential for Saturday morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/quad-cities-davenport-moline-weather-wind-chill-impact-alert-cold-temperatures/526-19b4b966-eb08-4210-8ec0-32e337ffddd2)
         
@@ -97,7 +98,7 @@ Navigation
 
 Davenport, IA »
 
-13°
+24°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
