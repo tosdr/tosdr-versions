@@ -230,3 +230,9 @@ English, Spanish, Chinese/Mandarin, French, Korean, Vietnamese, Persian/Farsi, T
 © 2024 Jewish Social Services Agency
 
 Back to Top
+
+[![Donate now](https://www.jssa.org/wp-content/uploads/2024/12/JSSA-YE24-Lightbox-1.png)](https://www.jssa.org/18daysa/?sourceid=CLW122500100 "Donate now to 18 Days of Giving")
+
+Give the gift of compassion, hope, and support to neighbors in need! We need to meet a $100,000 funding goal to ensure JSSA is there for our neighbors whenever they need us.
+
+CLOSE
