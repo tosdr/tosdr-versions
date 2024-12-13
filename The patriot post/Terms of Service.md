@@ -1,6 +1,6 @@
-**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
+**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,26 +195,30 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112708-left-cant-meme-2024-12-11)
+     [](https://patriotpost.us/memes/112790-the-greatest-threat-is-tyranny-2024-12-13)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34658)
+     [](https://patriotpost.us/cartoons/34661)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Allen West The Constitutional Question in the Case of Daniel Penny](https://patriotpost.us/opinion/112766-the-constitutional-question-in-the-case-of-daniel-penny-2024-12-12)
-*      [Cal Thomas No Peace on Earth, or Goodwill](https://patriotpost.us/opinion/112765-no-peace-on-earth-or-goodwill-2024-12-12)
-*      [Larry Elder Daniel Penny’s ‘Crime’? Wrong Race, Wrong Place](https://patriotpost.us/opinion/112764-daniel-pennys-crime-wrong-race-wrong-place-2024-12-12)
-*      [Ann Coulter Kill Obamacare, Not CEOs](https://patriotpost.us/opinion/112763-kill-obamacare-not-ceos-2024-12-12)
-*      [Gary Bauer Our Rogue Regime](https://patriotpost.us/opinion/112762-our-rogue-regime-2024-12-12)
-*      [Ben Shapiro The Devils Are Here](https://patriotpost.us/opinion/112761-the-devils-are-here-2024-12-12)
-*      [Laura Hollis Universal Health Care Delusions](https://patriotpost.us/opinion/112759-universal-health-care-delusions-2024-12-12)
-*      [Armstrong Williams The Price of Profits Paid in Blood](https://patriotpost.us/opinion/112760-the-price-of-profits-paid-in-blood-2024-12-12)
+*      [Michael Reagan The Upside-Down Mentality of the Left](https://patriotpost.us/opinion/112807-the-upside-down-mentality-of-the-left-2024-12-13)
+*      [Ken Blackwell Iran’s Surge of Political Death Sentences Demands Firm International Response](https://patriotpost.us/opinion/112806-irans-surge-of-political-death-sentences-demands-firm-international-response-2024-12-13)
+*      [Tim Graham Journalists Deserve All the Angst That Trump’s Win Brings](https://patriotpost.us/opinion/112805-journalists-deserve-all-the-angst-that-trumps-win-brings-2024-12-13)
+*      [Michael Barone Free Speech: Why a Tech Titan Backed Trump](https://patriotpost.us/opinion/112804-free-speech-why-a-tech-titan-backed-trump-2024-12-13)
+*      [Victor Davis Hanson The Evaporation of the Obama Mystique](https://patriotpost.us/opinion/112803-the-evaporation-of-the-obama-mystique-2024-12-13)
+*      [Josh Hammer How Not to Think About Syria](https://patriotpost.us/opinion/112802-how-not-to-think-about-syria-2024-12-13)
+*      [David Harsanyi It’s Time for a National Conversation About Left-Wing Violence](https://patriotpost.us/opinion/112801-its-time-for-a-national-conversation-about-left-wing-violence-2024-12-13)
+*      [Erick Erickson The Democrats’ Buts](https://patriotpost.us/opinion/112800-the-democrats-buts-2024-12-13)
+*      [Gary Bauer More FBI Lies](https://patriotpost.us/opinion/112799-more-fbi-lies-2024-12-13)
+*      [Mark Alexander Profiles of Valor: LCDR Jonny Kim (USN)](https://patriotpost.us/alexander/112746-profiles-of-valor-lcdr-jonny-kim-usn-2024-12-13)
+*      [The Washington Stand Caitlin Clark Is Appeasing No One by Giving Into the Woke Mob](https://patriotpost.us/opinion/112798-caitlin-clark-is-appeasing-no-one-by-giving-into-the-woke-mob-2024-12-13)
+*      [The Babylon Bee Caitlin Clark Explains That White Privilege Feels Weirdly Like Getting Beat Up by Giant Black Lesbians](https://patriotpost.us/opinion/112797-caitlin-clark-explains-that-white-privilege-feels-weirdly-like-getting-beat-up-by-giant-black-lesbians-2024-12-13)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,11 +232,13 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“The ordaining of laws in favor of one part of the nation, to the prejudice and oppression of another, is certainly the most erroneous and mistaken policy. An equal dispensation of protection, rights, privileges, and advantages, is what every part is entitled to, and ought to enjoy.” —Benjamin Franklin (1774)
+“The instrument by which it \[government\] must act are either the AUTHORITY of the laws or FORCE. If the first be destroyed, the last must be substituted; and where this becomes the ordinary instrument of government there is an end to liberty!” —Alexander Hamilton (1794)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
