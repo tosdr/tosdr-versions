@@ -369,7 +369,7 @@ Virginia Beach, VA 23453
 
 Email\*
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
