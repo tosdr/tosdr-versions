@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> Our stated mission is “Enabling Leading-Edge Technologies” and continuously improving ourselves so that we can offer products and services that satisfy our customers worldwide and contribute to the development of our society through the development of the most advanced technologies. In order to further promote this effort, we believe that the utilization of open source software will be essential. Open source platforms enable the rapid deployment of advanced computing and testing solutions. W… [Read more](https://www.openinventionnetwork.com/testimonial/advantest/ "Complete testimonial by Koichi Tsukui")
+> We see incredible value in the Free and Open Source Software (FOSS) communities. Our work in collecting, preserving and making source code available to developers, academics and government entities, will enable developers to continue to innovate. We are very pleased for OIN’s sponsorship and its support in maintaining the technical and scientific knowledge that may be lost without preservation and may be further useful to developers from an intellectual property perspective.  
 
-Koichi TsukuiChief Technology Officer, Advantest
+Robert DiCosmoFounder & CEOSoftware Heritage
 
-> For more than two decades, we have been a steadfast supporter of open source and the numerous benefits it provides. We have and continue to support the OIN and the Linux Foundation. IBM and Red Hat believe this is a key initiative to significantly deter non-practicing entities from asserting patents against the open source community.  
+> Huawei is committed to offering the highest-quality ICT and smart devices. Linux and OSS are critical elements of technologies we are developing and integrating with carriers and enterprises around the globe. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux and other core open source projects.  
 
-Todd MooreCTO, Developer EcosystemsIBM
+Jianxin DingHead of Global Intellectual PropertyHuawei
 
-> _We are incredibly focused on pleasing our customers. One of the most effective ways to do that is to develop the systems and technologies that enable our customers to innovate. Building and leveraging open technologies enables businesses to more easily integrate their solutions — while empowering them to focus more of their resources in the powerful, distinguishing technologies that customers pursue. We are pleased to be part of the OIN community protecting open projects that encourage innovat… [Read more](https://www.openinventionnetwork.com/testimonial/tokyo-electron-device/ "Complete testimonial by Kazuki Shinoda")_
+> We applaud OIN’s efforts to promote patent non-aggression in the cloud by adding the OpenStack packages to its Linux System definition. The OpenStack Foundation Board of Directors appreciates that the rapidly-growing OIN community has been, and is now explicitly, supporting freedom of action in the cloud of the future that OpenStack has been formed to enable.  
 
-Kazuki ShinodaSVP, Tokyo Electron Device, Ltd.
+Alan ClarkChairman of the BoardOpenStack Foundation
 
-> As a global leader in open source, SUSE enables innovation from the largest data centers in the world to cloud environments, and our technology is embedded in every day devices like cars, points of sale and MRIs. Open source infrastructure is the power behind the cloud and digital transformation, and our customers rely on us for mission critical business outcomes and for innovation. As a leader in bringing open source solutions to enterprises, including enterprise Linux, we see firsthand why … [Read more](https://www.openinventionnetwork.com/testimonial/thomas-di-giacomo-suse/ "Complete testimonial by Thomas Di Giacomo")
+> _As we build a better experience for our clients, open source can be a significant innovation enabler for the platforms and applications we build and integrate. We’re proud to join the Open Invention Network and support its role in protecting open source software from patent risk._
 
-Thomas Di GiacomoPresident of Engineering & InnovationSUSE
+Michael SpringsChief Intellectual Property Counsel, Truist
 
-> Linux and open source are critical elements in today’s mobile, cloud and enterprise computing environments. By joining the Open Invention Network, we are helping ensure the ongoing development of open solutions that promote market growth in key lines of business.  
+> As a global solutions provider that grows with customers and society through the highest level of trust, SMFG is committed to creating businesses that transcend the boundaries of finance and resolving issues. In order to further promote this effort and quickly deliver high added-value services to our customers and society, SMFG believes that the utilization of open source software will be essential. Also, in promoting OSS utilization, SMFG believes that measures to protect intellectual property … [Read more](https://www.openinventionnetwork.com/testimonial/smfg/ "Complete testimonial by Sumitomo Mitsui Financial Group")
 
-Guru PaiSenior Vice President & Chief Product OfficerVerizon
+Sumitomo Mitsui Financial Group
 
-> Alibaba and Ant congratulate Open Invention Network on this impressive milestone. OIN has taken a leadership role and worked tirelessly to improve intellectual property protection for Linux system and open source software. Alibaba and Ant look forward to continued partnership with OIN and the international open source community to foster innovation and reduce IP risks.  
+> This move (regarding Huawei’s OIN membership demonstrates that joining OIN has become a no-brainer for any product company. Setting aside the patent trolls, who would never have an incentive to join, no one is asserting patents against Linux anymore. Waging a patent war against a popular open-source project like Linux is bad for business. Of course, the OIN definition of Linux is far broader than the kernel. Even so, the OIN pool protects the basic infrastructure of the web, and no serious pro… [Read more](https://www.openinventionnetwork.com/testimonial/omelveny-myers/ "Complete testimonial by Heather Meeker")
 
-Roger Shang - Alibaba Group Senior Legal Director // Benjamin Bai - Ant Group VP of Intellectual Property
+Heather MeekerPartnerO'Melveny & Myers
 
-> OIN is an organization which helps protect the Linux ecosystem by building a variety of defenses against patent attacks. By joining, Mozilla receives cross-licenses from other OIN licensees, but more importantly, for the long term, it affords us a chance to work with OIN in reducing IP threats to open source development and innovation.  
+> At JD.com, we have employed open source technologies such as Kubernetes and Open Stack, along with Linux, to improve the speed, functionality and stability of our infrastructure while lowering operating costs.  
 
-Harvey AndersonVP & General CounselMozilla
+Rain LongChief Human Resource Officer & General CounselJD.com
 
-> _At Amazon, we are constantly looking for ways to innovate on behalf of our customers by investing in systems and technologies that allow us to better serve and understand them. Linux and Open Source are essential to many of our customers and a key driver of innovation across Amazon. We are proud to support a broad range of Open Source projects, foundations, and partners, and we are committed to the long-term success and sustainability of open source as a whole. By joining OIN, we are continuing … [Read more](https://www.openinventionnetwork.com/testimonial/amazon/ "Complete testimonial by Nithya Ruff")_
+> Linux plays an important role at TomTom as the core of all our Portable Navigation Devices. We believe that by becoming an Open Invention Network licensee, we encourage Linux development and foster innovation in a technical community that benefits everyone.  
 
-Nithya RuffDirector, Amazon Open Source Program Office
+Peter SpoursDirector of IPTomTom
 
-> Yandex likes Linux. We use it, commit to it. We advocate the creation of a secure zone around the Linux kernel, free from patent wars. The same goals are pursued by the Open Invention Network, which unites thousands of companies around the world.  
+> Flex is proud to join OIN and help further the goals of the open source community. In our position spanning many industries, we are sensitive to the negative impact that the aggressive assertion of patents can have on innovation, and how excessive lawsuits can significantly dampen opportunities for collaboration, especially within the open source community. We are pleased to be an active participant in the effort to protect Linux and related open source technologies from the risk of patent litig… [Read more](https://www.openinventionnetwork.com/testimonial/flex/ "Complete testimonial by John Ritsick")
 
-Yandex
+John RitsickVP of Legal and Chief Intellectual Property OfficerFlex
 
-> At Bareos GmbH & Co. KG, we believe in the power of open source to drive innovation and progress. Joining the Open Invention Network aligns with our commitment to create a collaborative and secure environment for the open-source community. We look forward to contributing to and benefiting from this global network of like-minded organizations.
+> We remain focused on leveraging the best technologies for our platforms and are excited to join the Open Invention Network (OIN), that supports protection from patent infringement claims for the greater good of the wider innovation community.  
 
-Stephan DührManaging Director, Bareos GmbH & Co. KG
+Josh DeathIP & Patentable Innovations LeadTD Bank
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
@@ -262,7 +262,7 @@ Your Name\*
 
 Email\*
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
