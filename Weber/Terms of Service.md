@@ -219,7 +219,7 @@ Replacement Parts](https://www.weber.com/US/en/parts.html)
 
 BBQ Gifts](https://www.weber.com/US/en/accessories/gear-and-gifts/)
 
-[![](https://dw-images.weber.com/navigation/default/accessories/00_Fuel_Accessories_207x165.png?auto=compress,format "Fuel and Pellets")
+[![](https://dw-images.weber.com/navigation/default/wood-pellet-grills/hickorynav.png?auto=compress,format "Fuel and Pellets")
 
 Fuel and Pellets](https://www.weber.com/US/en/accessories/fuel-and-smoking/)
 
