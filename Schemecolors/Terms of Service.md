@@ -22,7 +22,7 @@ All Gradient Hex
     [View All](https://www.schemecolor.com/tags)
     
 
-[Login](https://www.schemecolor.com/wp-login.php?redirect=terms)
+[Login](https://www.schemecolor.com/login?redirect=terms)
 
 Terms of Service
 ================
