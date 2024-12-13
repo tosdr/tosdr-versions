@@ -182,7 +182,7 @@
         
         Feature Products
         
-        [Indoor Cam S350](https://us.eufy.com/products/t8416121?ref=navimenu_2_2_3_1_copy) [Indoor Cam E220](https://us.eufy.com/products/t8410121?ref=navimenu_2_2_3_2_copy)
+        [Indoor Cam S350](https://us.eufy.com/products/t8416121?ref=navimenu_2_2_3_1_copy) [Indoor Cam E30](https://us.eufy.com/products/t8417121?ref=navimenu_2_2_3_2_copy)
         
         [Shop Indoor Cameras](https://us.eufy.com/collections/indoor-security-camera?ref=navimenu_2_2_3_all_copy) [More About Indoor Cameras](https://www.eufy.com/wired-indoor-cam?ref=navimenu_2_2_3_more_copy)
         
