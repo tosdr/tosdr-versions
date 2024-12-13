@@ -1,3 +1,5 @@
+**❄️ Don’t miss our Holiday Sale! ❄️** Save 30% on a full year of Premium+ [Claim your discount here >](https://account.yousician.com/sale)
+
 [Yousician Logo Yousician logo](https://yousician.com/)
 
 Instruments arrow
@@ -218,9 +220,9 @@ If you are a California resident, please note that under the California Consumer
 
 [![Download on the AppStore](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAAAmAQAAAAAg9X6oAAAAAnRSTlMAAHaTzTgAAAAPSURBVCjPY2AYBaNgaAAAAqwAATx8Hw8AAAAASUVORK5CYII=)
 
-![Download on the AppStore](/app/themes/yousician/assets/images/download-appstore.svg?x68357)](https://itunes.apple.com/us/app/yousician/id959883039)[![Download Android app on Google Play](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAAAmAQAAAAAg9X6oAAAAAnRSTlMAAHaTzTgAAAAPSURBVCjPY2AYBaNgaAAAAqwAATx8Hw8AAAAASUVORK5CYII=)
+![Download on the AppStore](/app/themes/yousician/assets/images/download-appstore.svg?x53035)](https://itunes.apple.com/us/app/yousician/id959883039)[![Download Android app on Google Play](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAAAmAQAAAAAg9X6oAAAAAnRSTlMAAHaTzTgAAAAPSURBVCjPY2AYBaNgaAAAAqwAATx8Hw8AAAAASUVORK5CYII=)
 
-![Download Android app on Google Play](/app/themes/yousician/assets/images/download-playstore.svg?x68357)](https://play.google.com/store/apps/details?id=com.yousician.yousician)
+![Download Android app on Google Play](/app/themes/yousician/assets/images/download-playstore.svg?x53035)](https://play.google.com/store/apps/details?id=com.yousician.yousician)
 
 [Download for desktop](https://account.yousician.com/download)
 
@@ -228,7 +230,7 @@ If you are a California resident, please note that under the California Consumer
 
 [![Yousician logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALoAAAAgAQAAAACNiF95AAAAAnRSTlMAAHaTzTgAAAAQSURBVCjPY2AYBaNgFOACAAMgAAHOjxDEAAAAAElFTkSuQmCC)
 
-![Yousician logo](/app/themes/yousician/assets/images/yousician-horizontal-green.svg?x68357)](https://yousician.com/)
+![Yousician logo](/app/themes/yousician/assets/images/yousician-horizontal-green.svg?x53035)](https://yousician.com/)
 
 * [Yousician on Instagram Instagram](https://www.instagram.com/yousician/?hl=en)
 * [Yousician on Facebook Facebook](https://www.facebook.com/yousician/)
