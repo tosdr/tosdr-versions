@@ -364,7 +364,7 @@ Contacto UAH
 * [Directorio](https://uah.es/es/directorio/)
 * [Contacto](https://uah.es/es/contacto/)
 * [Dónde estamos](https://uah.es/es/conoce-la-uah/campus-centros-y-departamentos/campus/)
-* [Buzón de quejas y sugerencias](https://gestioncalidad.uah.es/es/buzon-de-quejas-y-sugerencias/ "Buzón de quejas y sugerencias")
+* [Buzón de quejas y sugerencias](http://gestioncalidad.uah.es/es/buzon-de-quejas-y-sugerencias/ "Buzón de quejas y sugerencias")
 
 Ayuda e Información
 -------------------
