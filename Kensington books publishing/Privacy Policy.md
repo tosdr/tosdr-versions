@@ -30,11 +30,11 @@ Audio
 
 * * *
 
-* [![The Best Picture Books of 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/25110717/best-books-2024-600x314-picture.jpg)
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/12/08132549/PRH_Site_1200x628_DEC2024.jpg)
     
-    The Best Picture Books of 2024
+    New Releases
     
-    Learn More >](https://www.readbrightly.com/picture-books-2024/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-december/)
 
 * <
     
