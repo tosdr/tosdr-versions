@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/marica-radojcic-presic/beskraj-bog-1985-90/spiralaskulptura8.jpg?itok=ugsRQRLj)](http://seecult.org/galerija/galerija-umetnika/marica-radojcic-presic/beskraj-bog-1985-90)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/idealan-raspored/bez-naziva-2002-akril.jpg?itok=KhUVOCHb)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/idealan-raspored)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/klacik.jpg?itok=dUxCfT4m)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![digitalizacija, narodni muzej kraljevo](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/predavanja-i-diskusije-o-digitalizaciji/kraljevo-muzej-digi-predavanje-vesna-milosavljevic.jpg?itok=XnBZ_9M4 "digitalizacija, narodni muzej, kraljevo")](http://seecult.org/galerija/foto-galerija/digitalizacija/predavanja-i-diskusije-o-digitalizaciji)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
