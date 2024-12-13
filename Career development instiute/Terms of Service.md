@@ -108,7 +108,7 @@ Search for anything
     * [Recruitment and retention campaign](https://www.thecdi.net/policy-campaigns-and-media/campaigns)
     * [Policy briefings, responses and letters](https://www.thecdi.net/policy-campaigns-and-media/position-statements-and-responses)
     * [Reports and research](https://www.thecdi.net/policy-campaigns-and-media/research-and-reports)
-    * [Press office](https://www.thecdi.net/policy-campaigns-and-media/media-enquiries)
+    * [Press Office](https://www.thecdi.net/policy-campaigns-and-media/press-releases)
     * [Valuing Careers](https://www.thecdi.net/policy-campaigns-and-media/valuing-careers)
 * [Careers Jobs](https://www.thecdi.net/careers-jobs)
     * [Advertise in Careers in Careers](https://www.thecdi.net/careers-jobs/avertise-careers-in-careers)
