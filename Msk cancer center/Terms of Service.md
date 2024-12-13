@@ -467,7 +467,7 @@ Previous
 
 Next
 
-[MyMSK Portal Privacy Policy](https://www.mskcc.org/privacy/mymsk-portal-privacy-policy)
+[MyMSK Portal Privacy Policy](https://www.mskcc.org/privacy/portal-privacy-policy)
 
 * Connect
     
