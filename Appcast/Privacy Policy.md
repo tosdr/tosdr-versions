@@ -332,6 +332,8 @@ partners
 * [Agencies](https://www.appcast.io/partners/solutions-for-agencies/)
 * [Login](https://xcelerate.appcast.io/user_sessions/new)
 
+&nbsp
+
 * [Legal](https://www.appcast.io/legal/)
 * [Privacy Policy](https://www.appcast.io/privacy-policy/)
 * [Our Commitment to Accessibility & Disability Inclusion](https://www.appcast.io/appcasts-commitment-to-accessibility-and-disability-inclusion/)
