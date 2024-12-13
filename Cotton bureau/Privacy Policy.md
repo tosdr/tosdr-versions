@@ -28,7 +28,7 @@
 
 [All Products](https://cottonbureau.com/shop) [Our Faves](https://cottonbureau.com/shop?menu%5Bproduct__collections__names%5D=Our%20Favorites) [How It Works](https://cottonbureau.com/how-it-works) [Submit a Design](https://cottonbureau.com/submit-designs)
 
-[🎁  **Spend $99, get free shipping! Use code FREE99 at checkout.**](https://cottonbureau.com/discounts?discount=FREE99)
+[👀  **Use code LASTCHANCE24 for free shipping! Min. $49.**](https://cottonbureau.com/?discount=lastchance24)
 
 Need help? Email [support@cottonbureau.com](mailto:support@cottonbureau.com)Need help? [Email](mailto:support@cottonbureau.com)
 
