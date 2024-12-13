@@ -135,11 +135,11 @@ Consent\*
 
 CAPTCHA
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
-        
+          
 
 ![Footer Logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20303%2069'%3E%3C/svg%3E "Footer Logo")
 
