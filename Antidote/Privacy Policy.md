@@ -4,7 +4,7 @@
     
 * [Antidote**+**](https://www.antidote.info/en/antidote-plus)
 * [Organizations](https://www.antidote.info/en/organizations)
-* [Integrations](https://www.antidote.info/en/integrations)
+* [Integrations](https://www.antidote.info/en/integrations/compatibility)
 
 * [Store](https://www.antidote.info/en/store)
 * [Blog](https://www.antidote.info/en/blog)
