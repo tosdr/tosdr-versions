@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/stemfraude-en-deze-verklaring-uit-italie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/william-coopers-erfenis-behold-a-pale-horse/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
