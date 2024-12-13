@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up and restore the Backup4all con ...](https://www.backup4all.com/how-to-back-up-and-restore-the-backup4all-configurations-kb.html)  
+* [Configure Backup4all for remote monitoring](https://www.backup4all.com/configure-backup4all-for-remote-monitoring-kb.html)  
     
-* [How to backup your data to Seeweb](https://www.backup4all.com/how-to-backup-your-data-to-seeweb-kb.html)  
+* [How to backup your data to Tiscali](https://www.backup4all.com/how-to-backup-your-data-to-tiscali-kb.html)  
     
-* [Automatically run a backup when the USB drive ...](https://www.backup4all.com/configuring-a-backup-to-run-automatically-when-the-usb-drive-is-plugged-in-kb.html)  
+* [Script error when opening Backup4all](https://www.backup4all.com/script-error-when-opening-backup4all-kb.html)  
     
-* [How to back up files from Google Cloud Storag ...](https://www.backup4all.com/how-to-back-up-files-from-google-cloud-storage-with-backup4all-kb.html)  
+* [Explanation of the backup job icons](https://www.backup4all.com/the-backup-job-icons-meaning-kb.html)  
     
-* [How to use the Getting started window](https://www.backup4all.com/how-to-use-the-getting-started-window-kb.html)  
+* [How to use the compression](https://www.backup4all.com/how-to-use-the-compression-kb.html)  
     
 
 Choose language:
