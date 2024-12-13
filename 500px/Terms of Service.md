@@ -4,4 +4,4 @@
 
 500px
 
-You need to enable JavaScript to run this app.
+Explore the most popular photos on 500px.
