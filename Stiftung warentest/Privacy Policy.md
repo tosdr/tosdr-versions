@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Inhaliergeräte im Test: Einatmen – aufatmen](https://www.test.de/Inhaliergeraete-im-Test-1532341-0/ "Inhaliergeräte im Test - Einatmen – aufatmen")
+* [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
 * [Kühl-Gefrier-Kombinationen im Test: Kühl­schränke − spar­sam und stark](https://www.test.de/Kuehlschraenke-im-Test-4735177-0/ "Kühl-Gefrier-Kombinationen im Test - Kühlschränke − sparsam und stark")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
-* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
-* [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 
 test.de entdecken
 
-* [Wunder­sames aus dem Prüf­labor: Miefschützer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Miefschuetzer-6110438-0/ "Wundersames aus dem Prüflabor - Miefschützer")
-* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
-* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
-* [Wunder­sames aus dem Prüf­labor: Hitziger Streuner](https://www.test.de/Wundersames-aus-dem-Prueflabor-Hitziger-Streuner-6125232-0/ "Wundersames aus dem Prüflabor - Hitziger Streuner")
-* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
+* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
+* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
+* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
+* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
+* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
 
 Weitere Informationen
 
@@ -3862,59 +3862,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Inhaliergeräte im Test: Einatmen – aufatmen](https://www.test.de/Inhaliergeraete-im-Test-1532341-0/ "Inhaliergeräte im Test - Einatmen – aufatmen")
+* [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
 * [Kühl-Gefrier-Kombinationen im Test: Kühl­schränke − spar­sam und stark](https://www.test.de/Kuehlschraenke-im-Test-4735177-0/ "Kühl-Gefrier-Kombinationen im Test - Kühlschränke − sparsam und stark")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
-* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
-* [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 
 test.de entdecken
 
-* [Wunder­sames aus dem Prüf­labor: Miefschützer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Miefschuetzer-6110438-0/ "Wundersames aus dem Prüflabor - Miefschützer")
-* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
-* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
-* [Wunder­sames aus dem Prüf­labor: Hitziger Streuner](https://www.test.de/Wundersames-aus-dem-Prueflabor-Hitziger-Streuner-6125232-0/ "Wundersames aus dem Prüflabor - Hitziger Streuner")
-* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
+* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
+* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
+* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
+* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
+* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Inhaliergeräte im Test: Einatmen – aufatmen](https://www.test.de/Inhaliergeraete-im-Test-1532341-0/ "Inhaliergeräte im Test - Einatmen – aufatmen")
+* [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
 * [Kühl-Gefrier-Kombinationen im Test: Kühl­schränke − spar­sam und stark](https://www.test.de/Kuehlschraenke-im-Test-4735177-0/ "Kühl-Gefrier-Kombinationen im Test - Kühlschränke − sparsam und stark")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
-* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
-* [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 
 test.de entdecken
 
-* [Wunder­sames aus dem Prüf­labor: Miefschützer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Miefschuetzer-6110438-0/ "Wundersames aus dem Prüflabor - Miefschützer")
-* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
-* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
-* [Wunder­sames aus dem Prüf­labor: Hitziger Streuner](https://www.test.de/Wundersames-aus-dem-Prueflabor-Hitziger-Streuner-6125232-0/ "Wundersames aus dem Prüflabor - Hitziger Streuner")
-* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
+* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
+* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
+* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
+* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
+* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
 
 Neueste Tests
 
+* [Inhaliergeräte im Test: Einatmen – aufatmen](https://www.test.de/Inhaliergeraete-im-Test-1532341-0/ "Inhaliergeräte im Test - Einatmen – aufatmen")
+* [Laptops im Test: Kräftig und kompakt – Notebooks, Ultra­books und Co](https://www.test.de/Tablets-mit-Tastatur-Notebooks-Ultrabooks-Convertibles-im-Test-4734961-0/ "Laptops im Test - Kräftig und kompakt – Notebooks, Ultrabooks und Co")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Gefrier­schränke und Gefriertruhen im Test: Der Preis ist Eis – die besten Tiefkühler](https://www.test.de/Gefriertruhe-Gefrierschrank-Test-4981546-0/ "Gefrierschränke und Gefriertruhen im Test - Der Preis ist Eis – die besten Tiefkühler")
 * [Kühl-Gefrier-Kombinationen im Test: Kühl­schränke − spar­sam und stark](https://www.test.de/Kuehlschraenke-im-Test-4735177-0/ "Kühl-Gefrier-Kombinationen im Test - Kühlschränke − sparsam und stark")
 * [Wohn­gebäude­versicherung im Vergleich: Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig](https://www.test.de/Wohngebaeudeversicherung-Vergleich-4255878-0/ "Wohngebäudeversicherung im Vergleich - Tarife teuer und oft mangelhaft – so schützen Sie Ihr Haus gut und günstig")
-* [Immobilien­preise im großen Vergleich: Das kosten Häuser und Wohnungen in Ihrer Stadt](https://www.test.de/Immobilien-Kaufen-oder-mieten-4865683-0/ "Immobilienpreise im großen Vergleich - Das kosten Häuser und Wohnungen in Ihrer Stadt")
-* [Reise­rücktritts­versicherungs-Vergleich: Gut versichert, wenn die Reise platzt](https://www.test.de/Reiseruecktrittversicherungen-im-Vergleich-5015691-0/ "Reiserücktrittsversicherungs-Vergleich - Gut versichert, wenn die Reise platzt")
 
 test.de entdecken
 
-* [Wunder­sames aus dem Prüf­labor: Miefschützer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Miefschuetzer-6110438-0/ "Wundersames aus dem Prüflabor - Miefschützer")
-* [Green-Vest: TV-Beitrag mit Finanz­minister gefälscht](https://www.test.de/Green-Vest-TV-Beitrag-mit-Finanzminister-gefaelscht-6119456-0/ "Green-Vest - TV-Beitrag mit Finanzminister gefälscht")
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
-* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
-* [Wunder­sames aus dem Prüf­labor: Hitziger Streuner](https://www.test.de/Wundersames-aus-dem-Prueflabor-Hitziger-Streuner-6125232-0/ "Wundersames aus dem Prüflabor - Hitziger Streuner")
-* [Recht auf Reparatur: EU verpflichtet Hersteller zu Reparatur defekter Geräte](https://www.test.de/Recht-auf-Reparatur-EU-verpflichtet-Hersteller-zu-Reparatur-defekter-Geraete-6116340-0/ "Recht auf Reparatur - EU verpflichtet Hersteller zu Reparatur defekter Geräte")
+* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
+* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
+* [Interview Mund­geruch: Was gegen schlechten Atem hilft](https://www.test.de/Interview-Mundgeruch-Was-gegen-schlechten-Atem-hilft-5957260-0/ "Interview Mundgeruch - Was gegen schlechten Atem hilft")
+* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
+* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
 
 Stiftung Warentest
 
