@@ -42,9 +42,9 @@ Make Learning Accessible and Boost Classroom Productivity](https://www.rev.com/s
 
 Turn Investor Calls into Actionable Intelligence](https://www.rev.com/solutions/industries?fin)[Video Distribution & Accessibility
 
-Unlock New Revenue with Accessible, Platform-Tailored Content](https://www.rev.com/solutions/video-distribution)[Technology
+Unlock New Revenue with Accessible, Platform-Tailored Content](https://www.rev.com/solutions/video-distribution)[Law Firms
 
-Fuel Faster Innovation with Accurate ASR Integration](https://www.rev.com/solutions/technology)[Government
+Build Stronger Cases With AI-powered Legal Transcripts](https://www.rev.com/solutions/law-firms)[Government
 
 Empower Smarter Civic Decisions with AI Insights](https://www.rev.com/solutions/industries?gov)
 
@@ -96,9 +96,9 @@ Unlock New Revenue with Accessible, Platform-Tailored Content](https://www.rev.c
 
 Accelerate Research Insights and Publish with Precision](https://www.rev.com/solutions/market-research)[Education
 
-Make Learning Accessible and Boost Classroom Productivity](https://www.rev.com/solutions/education)[Technology
+Make Learning Accessible and Boost Classroom Productivity](https://www.rev.com/solutions/education)[Law Firms
 
-Fuel Faster Innovation with Accurate ASR Integration](https://www.rev.com/solutions/technology) [Government
+Build Stronger Cases With AI-powered Legal Transcripts](https://www.rev.com/solutions/law-firms)[Government
 
 Empower Smarter Civic Decisions with AI Insights](https://www.rev.com/solutions/industries?gov)[Financial Services
 
