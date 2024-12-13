@@ -1,4 +1,4 @@
-Happy Holidays! 30% off all Navicat new perpetual licenses!
+Happy Holidays! 25% off all Navicat new perpetual licenses!
 
 [Buy Now](https://www.navicat.com/store)
 
