@@ -95,13 +95,21 @@ SearchCtrl + K
 
 [Powered by GitBook](https://www.gitbook.com/?utm_source=content&utm_medium=trademark&utm_campaign=SgLvK6k3LdBXRGNUVQN6)
 
+![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)
+
+This website and its contents are copyright © 1999 - 2024 Jagex Ltd.
+
 On this page
 
 Terms
 =====
 
-[Terms & Conditions](https://www.jagex.com/docs/terms/terms-and-conditions)[Subscription Terms & Conditions](https://www.jagex.com/docs/terms/subscription-terms-and-conditions)[End User Licence Agreement](https://www.jagex.com/docs/terms/eula)[Prize Draws, Competition and Promotions](https://www.jagex.com/docs/terms/promotion-and-competition-terms)[Credit/Debit Card Terms and Conditions](https://www.jagex.com/docs/terms/credit-debit-card-terms-and-conditions)
+[Terms & Conditions](https://www.jagex.com/docs/terms/terms-and-conditions)
 
-![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)![Logo](https://4216836603-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/organizations%2FMhQqNo4JtUqK6Wq0HUQu%2Fsites%2Fsite_vEwis%2Flogo%2FXR0VPJQ3guj8UjPeSGNa%2Fjag-white.svg?alt=media&token=468f650f-1489-4dba-a541-2c282d9bd096)
+[Subscription Terms & Conditions](https://www.jagex.com/docs/terms/subscription-terms-and-conditions)
 
-This website and its contents are copyright © 1999 - 2024 Jagex Ltd.
+[End User Licence Agreement](https://www.jagex.com/docs/terms/eula)
+
+[Prize Draws, Competition and Promotions](https://www.jagex.com/docs/terms/promotion-and-competition-terms)
+
+[Credit/Debit Card Terms and Conditions](https://www.jagex.com/docs/terms/credit-debit-card-terms-and-conditions)
