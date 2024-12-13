@@ -232,7 +232,6 @@ Available payment methods:
 * Klarna logo
 
 * [Sitemap](https://www.notonthehighstreet.com/sitemap)
-* [Anti-slavery statement](https://www.notonthehighstreet.com/about/modern-slavery-act)
 * [Privacy and cookies](https://www.notonthehighstreet.com/about/privacy-and-cookies)
 * [Terms and conditions](https://www.notonthehighstreet.com/about/shopper-terms)
 
