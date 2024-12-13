@@ -1,6 +1,6 @@
-Navicat Black Friday Get 30% off
+Happy Holidays! 30% off all Navicat new perpetual licenses!
 
-[Save now](https://www.navicat.com/store)
+[Buy Now](https://www.navicat.com/store)
 
 More info
 
@@ -186,9 +186,9 @@ We use cookies to ensure its efficient functioning. Read about how we use cookie
 
 Accept
 
-![](/images/promotion/20241126/Website_Desktop_20241127_EN.png) ![](/images/promotion/20241126/Website_mobile_20241127_EN.png) ![](/images/Btn_close.svg)
+![](/images/promotion/20241213/Website_Desktop_20241216.png) ![](/images/promotion/20241213/Website_mobile_20241216.png) ![](/images/Btn_close.svg)
 
-[Save now](https://www.navicat.com/store)
+[Buy Now](https://www.navicat.com/store)
 
-\*Promotion ends 2 Dec, 2024 (23:59 ET)  
-\*Valid for new Navicat perpetual licenses
+\*Promotion ends 18 December, 2024 (23:59 ET)  
+\*Promotion valid for new Navicat perpetual licenses; cannot be combined with other discounts.
