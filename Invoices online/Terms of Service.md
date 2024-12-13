@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=56046228)  
-SA Security Brokerz (Pty) Ltd
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=173833767)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=43211424)  
-Fox Alarms & Security CC
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=212162222)  
+Goju-Ryu Pretoria East
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=120568523)  
-LEO DEVELOPMENT GROUP
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=84402744)  
+Echo Recording Studio cc
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=85349052)  
-Chiron Medical Solutions
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=188869224)  
+Electro-Heat
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=71149432)  
-OrgChart Hosting Pty Ltd
+![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=83726107)  
+CHARLIEX CONSTRUCTIONS
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=93177861)  
-Lizzy Pop PTY(Ltd)
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=129981204)  
+Redlum Group (Pty) Ltd
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=134226300)  
-CGHK Enterprises (PTY) LTD
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=89187429)  
+Brilliant Roof Products
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=116382126)  
-VerdanTech Pty Ltd
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=65817933)  
+WIP Digital Solutions
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=119773863)  
-SLOANE STAR MEAT MARKET
+![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=193032837)  
+Protech Marketing
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=157009115)  
-ARCHITEK PTY LTD
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=113483709)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client Hydroworld PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=199813457)  
-Hydroworld PTY LTD
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=32756121)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=85734371)  
-Prosper Park
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=50717917)  
+IYD
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=188125958)  
-West Coast Horse Trails
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=118542188)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=92635149)  
-Cooper Logistics (Pty) Ltd
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=151738306)  
+Nogana Events and Decor
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=130746932)  
-SAUL ATHOL ACRES RENTAL
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=46034080)  
+UMVIKELI PRIVATE SECURITY
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
