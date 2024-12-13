@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| The Kind Of Love We MakeLuke Combs<br><br>10:38am |
-| A Lot More FreeMax Mcnown<br><br>10:34am |
-| Broken HalosChris Stapleton<br><br>10:31am |
-| Wasted On YouMorgan Wallen<br><br>10:28am |
-| All I Want For ChristmasVince Vance And The Valients<br><br>10:24am |
+| Pretty Little PoisonWarren Zeiders<br><br>4:39pm |
+| Famous FriendsChris Young And Kane Brown<br><br>4:35pm |
+| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>4:32pm |
+| Love SomebodyMorgan Wallen<br><br>4:28pm |
+| Rockin Around The ChristmasBrenda Lee<br><br>4:26pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -501,17 +501,17 @@ Featured Brands
 
 News Talk • Eastern
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Top 40 • Pacific NW
+Country • Western
 
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Spanish • Western
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
