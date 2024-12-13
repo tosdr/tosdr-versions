@@ -155,6 +155,7 @@ You can learn more about cookies on the [AllAboutCookies](http://www.allaboutco
     * [Compete](https://www.crayon.co/product/compete)
     * [Measure](https://www.crayon.co/product/measure)
     * [Take a Tour](https://crayon.navattic.com/product-tour)
+    * [Crayon vs Klue](https://www.crayon.co/crayon-vs-klue)
     * [Get a Demo](https://www.crayon.co/get-a-demo)
 * [Log In](https://app.crayon.co/login/)
 
