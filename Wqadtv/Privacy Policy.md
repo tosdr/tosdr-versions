@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/0da08c43-ca8b-40ca-82cc-2f4d5098aaa1/20241213T043031/0da08c43-ca8b-40ca-82cc-2f4d5098aaa1_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0da08c43-ca8b-40ca-82cc-2f4d5098aaa1/20241213T043031/0da08c43-ca8b-40ca-82cc-2f4d5098aaa1_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/2f24a79c-393d-4989-9f14-e6a7b0ec591f/20241213T134205/2f24a79c-393d-4989-9f14-e6a7b0ec591f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2f24a79c-393d-4989-9f14-e6a7b0ec591f/20241213T134205/2f24a79c-393d-4989-9f14-e6a7b0ec591f_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Next weather system still on track to impact the area by Saturday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Weather Impact Alert: Slightly warmer today before our next system moves in overnight into Saturday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/quad-cities-davenport-moline-weather-wind-chill-impact-alert-cold-temperatures/526-19b4b966-eb08-4210-8ec0-32e337ffddd2)
         
@@ -97,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-8°
+13°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
