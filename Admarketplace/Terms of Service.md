@@ -86,13 +86,6 @@ Learn more
 
 [Contact Us](https://www.admarketplace.com/contact-us)
 
-Oops!
-=====
-
-Please enter a business email
-
-[Ok](#)
-
 Terms of Use
 ------------
 
