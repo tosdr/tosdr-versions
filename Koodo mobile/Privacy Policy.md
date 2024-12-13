@@ -158,6 +158,7 @@ Back to top
 
 * [Privacy & Legal](https://www.koodomobile.com/en/terms/legal)
 * [CRTC Wireless Code](https://www.koodomobile.com/en/services/crtc-wireless-code)
+* [CRTC Internet Code](https://www.koodomobile.com/en/services/internet-code-of-conduct)
 * [Accessibility](https://www.koodomobile.com/en/terms/accessibility?INTCMP=KMNew_FooterLINK_Accessibility)
 
 ©2024 Koodo Mobile.
