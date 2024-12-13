@@ -1,6 +1,6 @@
 [Past, Present(s), and Future: DNSFilter's 2024 Recap + 2025 Roadmap
 
-REGISTER NOW](https://explore.dnsfilter.com/product-roadmap-2025)
+WATCH NOW](https://explore.dnsfilter.com/product-roadmap-2025)
 
 [![DNSFilter](https://www.dnsfilter.com/hs-fs/hubfs/Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png?width=500&height=117&name=Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png "DNSFilter")](https://www.dnsfilter.com/)
 
