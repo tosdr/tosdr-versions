@@ -49,7 +49,7 @@
         
         ![Roundcube](https://nextcloud.com/c/uploads/2024/08/Roundcube_logo_icon.svg)
         
-        RoundcubeThe most popular on-prem webmail](https://nextcloud.com/roundcube/)
+        RoundcubeThe most popular on premise webmail](https://nextcloud.com/roundcube/)
     * [![Microsoft integrations](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![Microsoft integrations](https://nextcloud.com/c/uploads/2024/12/Microsoft_logo-blue.svg)
