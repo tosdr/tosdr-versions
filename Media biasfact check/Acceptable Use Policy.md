@@ -67,11 +67,11 @@
 
 MBFC News
 
+* [December 13, 2024 | Media News Daily: Top Stories for 12/13/2024](https://mediabiasfactcheck.com/2024/12/13/media-news-daily-top-stories-for-12-13-2024/ "Media News Daily: Top Stories for 12/13/2024")
+* [December 13, 2024 | MBFC’s Daily Vetted Fact Checks for 12/13/2024](https://mediabiasfactcheck.com/2024/12/13/mbfcs-daily-vetted-fact-checks-for-12-13-2024/ "MBFC’s Daily Vetted Fact Checks for 12/13/2024")
+* [December 12, 2024 | Media News Daily: Top Stories for 12/12/2024](https://mediabiasfactcheck.com/2024/12/12/media-news-daily-top-stories-for-12-12-2024/ "Media News Daily: Top Stories for 12/12/2024")
+* [December 12, 2024 | MBFC’s Daily Vetted Fact Checks for 12/12/2024](https://mediabiasfactcheck.com/2024/12/12/mbfcs-daily-vetted-fact-checks-for-12-12-2024/ "MBFC’s Daily Vetted Fact Checks for 12/12/2024")
 * [December 11, 2024 | Media News Daily: Top Stories for 12/11/2024](https://mediabiasfactcheck.com/2024/12/11/media-news-daily-top-stories-for-12-11-2024/ "Media News Daily: Top Stories for 12/11/2024")
-* [December 11, 2024 | MBFC’s Daily Vetted Fact Checks for 12/11/2024](https://mediabiasfactcheck.com/2024/12/11/mbfcs-daily-vetted-fact-checks-for-12-11-2024/ "MBFC’s Daily Vetted Fact Checks for 12/11/2024")
-* [December 10, 2024 | Media News Daily: Top Stories for 12/10/2024](https://mediabiasfactcheck.com/2024/12/10/media-news-daily-top-stories-for-12-10-2024/ "Media News Daily: Top Stories for 12/10/2024")
-* [December 10, 2024 | MBFC’s Daily Vetted Fact Checks for 12/10/2024](https://mediabiasfactcheck.com/2024/12/10/mbfcs-daily-vetted-fact-checks-for-12-10-2024/ "MBFC’s Daily Vetted Fact Checks for 12/10/2024")
-* [December 9, 2024 | Media News Daily: Top Stories for 12/09/2024](https://mediabiasfactcheck.com/2024/12/09/media-news-daily-top-stories-for-12-09-2024/ "Media News Daily: Top Stories for 12/09/2024")
 
 Search for:  
 
@@ -131,74 +131,74 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Added Sources or Pages
 
-* [Michigan News Source – Bias and Credibility](https://mediabiasfactcheck.com/michigan-news-source-bias-and-credibility/)
+* [Poteau Daily News – Bias and Credibility](https://mediabiasfactcheck.com/poteau-daily-news-bias/)
     
-    December 11, 2024
+    December 13, 2024
     
-* [Kommersant – Bias and Credibility](https://mediabiasfactcheck.com/kommersant-bias-and-credibility/)
+* [Clarissa Ward Bias Rating](https://mediabiasfactcheck.com/clarissa-ward-bias-rating/)
     
-    December 11, 2024
+    December 13, 2024
     
-* [JustRedPillMe – Bias and Credibility](https://mediabiasfactcheck.com/justredpillme-bias-and-credibility/)
+* [Philly Leader – Bias and Credibility](https://mediabiasfactcheck.com/philly-leader-bias/)
     
-    December 11, 2024
+    December 13, 2024
     
-* [JouWatch – Bias and Credibility](https://mediabiasfactcheck.com/jouwatch-bias-and-credibility/)
+* [Athens County Independent – Bias and Credibility](https://mediabiasfactcheck.com/athens-county-independent-bias-and-credibility/)
     
-    December 11, 2024
+    December 13, 2024
     
-* [Pennsylvania Record – Bias and Credibility](https://mediabiasfactcheck.com/pennsylvania-record-bias-and-credibility/)
+* [Liz Wheeler Bias Rating](https://mediabiasfactcheck.com/liz-wheeler-bias-rating/)
     
-    December 11, 2024
+    December 12, 2024
     
-* [IndieWire – Bias and Credibility](https://mediabiasfactcheck.com/indiewire-bias-and-credibility/)
+* [Progress Playbook – Bias and Credibility](https://mediabiasfactcheck.com/progress-playbook-bias-and-credibility/)
     
-    December 10, 2024
+    December 12, 2024
     
-* [Emol (El Mercurio Online) – Bias and Credibility](https://mediabiasfactcheck.com/emol-el-mercurio-online-bias-and-credibility/)
+* [Mississippi Public Broadcasting – Bias and Credibility](https://mediabiasfactcheck.com/mississippi-public-broadcasting-bias/)
     
-    December 10, 2024
+    December 12, 2024
     
-* [Mendota Reporter – Bias and Credibility](https://mediabiasfactcheck.com/mendota-reporter-bias/)
+* [RTL – Bias and Credibility](https://mediabiasfactcheck.com/rtl-bias-and-credibility/)
     
-    December 10, 2024
+    December 12, 2024
     
 
 #### Recently Updated Pages
 
-* [Ainsley Earhardt Bias Rating](https://mediabiasfactcheck.com/ainsley-earhardt-bias-rating/ "View Ainsley Earhardt Bias Rating") - December 11, 2024
+* [Cenk Uygur Bias Rating](https://mediabiasfactcheck.com/cenk-uygur-bias-rating/ "View Cenk Uygur Bias Rating") - December 13, 2024
     
-* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - December 11, 2024
+* [Buck Sexton Bias Rating](https://mediabiasfactcheck.com/buck-sexton-bias-rating/ "View Buck Sexton Bias Rating") - December 13, 2024
     
-* [Michigan News Source – Bias and Credibility](https://mediabiasfactcheck.com/michigan-news-source-bias-and-credibility/ "View Michigan News Source – Bias and Credibility") - December 11, 2024
+* [Bret Baier Bias Rating](https://mediabiasfactcheck.com/bret-baier-bias-rating/ "View Bret Baier Bias Rating") - December 13, 2024
     
-* [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/ "View Membership Levels") - December 11, 2024
+* [Bill O’Reilly Bias Rating](https://mediabiasfactcheck.com/bill-oreilly-bias-rating/ "View Bill O’Reilly Bias Rating") - December 13, 2024
     
-* [Group Memberships for MBFC](https://mediabiasfactcheck.com/group-memberships-for-mbfc/ "View Group Memberships for MBFC") - December 11, 2024
+* [Bill Hemmer Bias Rating](https://mediabiasfactcheck.com/bill-hemmer-bias-rating/ "View Bill Hemmer Bias Rating") - December 13, 2024
     
-* [Manage Group](https://mediabiasfactcheck.com/manage-group/ "View Manage Group") - December 11, 2024
+* [Benny Johnson Bias Rating](https://mediabiasfactcheck.com/benny-johnson-bias-rating/ "View Benny Johnson Bias Rating") - December 13, 2024
     
-* [Kommersant – Bias and Credibility](https://mediabiasfactcheck.com/kommersant-bias-and-credibility/ "View Kommersant – Bias and Credibility") - December 11, 2024
+* [Ben Shapiro Bias Rating](https://mediabiasfactcheck.com/ben-shapiro-bias-rating/ "View Ben Shapiro Bias Rating") - December 13, 2024
     
-* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - December 11, 2024
+* [Andrea Mitchell Bias Rating](https://mediabiasfactcheck.com/andrea-mitchell-bias-rating/ "View Andrea Mitchell Bias Rating") - December 13, 2024
     
-* [JustRedPillMe – Bias and Credibility](https://mediabiasfactcheck.com/justredpillme-bias-and-credibility/ "View JustRedPillMe – Bias and Credibility") - December 11, 2024
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 13, 2024
     
-* [Conspiracy-Pseudoscience](https://mediabiasfactcheck.com/conspiracy/ "View Conspiracy-Pseudoscience") - December 11, 2024
+* [Poteau Daily News – Bias and Credibility](https://mediabiasfactcheck.com/poteau-daily-news-bias/ "View Poteau Daily News – Bias and Credibility") - December 13, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [Time Magazine - Bias and Credibility](https://mediabiasfactcheck.com/time/)
+* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
+* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 * [Methodology](https://mediabiasfactcheck.com/methodology/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
-* [Search](https://mediabiasfactcheck.com/search/)
-* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 
 #### Subscribe via Email
 
