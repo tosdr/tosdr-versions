@@ -97,7 +97,6 @@
     
     * [Data Residency](https://tresorit.com/features/data-residency-options)
     * [Data Security](https://tresorit.com/security)
-    * [Digital Trust Label](https://tresorit.com/blog/why-tresorit-is-committing-to-the-swiss-digital-trust-label/)
     * [Whistleblower Act](https://tresorit.com/blog/whistleblower-directive-clean-implementation-of-data-and-whistleblower-protection/)
     
 * [Pricing](https://tresorit.com/pricing)
@@ -199,7 +198,6 @@
     
     * [Data Residency](https://tresorit.com/features/data-residency-options)
     * [Data Security](https://tresorit.com/security)
-    * [Digital Trust Label](https://tresorit.com/blog/why-tresorit-is-committing-to-the-swiss-digital-trust-label/)
     * [Whistleblower Act](https://tresorit.com/blog/whistleblower-directive-clean-implementation-of-data-and-whistleblower-protection/)
     
 * [Pricing](https://tresorit.com/pricing)
