@@ -308,6 +308,14 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-Fremantle signs partnership with the Jamie Oliver Group](/.galleries/images/Fremantle-Jamie-Oliver_16-9.png?__scale=undefined&description=)
+    
+    Fremantle signs partnership with the Jamie Oliver Group
+    
+    13.12.2024
+    
+    Fremantle and the Jamie Oliver Group have signed a new multi-year partnership agreement, continuing their successful collaboration to bring culinary shows to audiences worldwide.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Fremantle-signs-partnership-with-Jamie-Oliver/)
+    
 * [![slide-Ad Alliance goes programmatic linear TV](/.galleries/images/Frank-Vogel-Tom-Peruzzi_16-9.jpg?__scale=undefined&description=)
     
     Ad Alliance goes programmatic linear TV
@@ -331,14 +339,6 @@ Europe's leading entertainment brand
     05.12.2024
     
     RTL Deutschland has secured two Bundesliga packages in the DFL (German Football League) auction for media rights from the 2025/26 season onwards.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschland-secures-Bundesliga-rights/)
-    
-* [![slide-<i>RTL Spendenmarathon</i> 2024](/.galleries/images/Spendenmarathon-2024_Wolfram-Kons_16-9.jpg?__scale=undefined&description=)
-    
-    _RTL Spendenmarathon_ 2024
-    
-    25.11.2024
-    
-    RTL Deutschland’s _RTL Spendenmarathon_ took place from 21-22 November 2024, raising over €16 million for _Stiftung RTL_ and setting a world record with a 24-hour inclusion challenge.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Spendenmarathon-2024/)
     
 * [![slide-Quarterly statement: January to September 2024](/.galleries/images/Q3-2024_Title-EN_16-9.png?__scale=undefined&description=)
     
