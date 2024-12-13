@@ -184,11 +184,11 @@ Yandex Terms of Service
 
 English
 
-Lietuvių
+Eesti keel
 
 Latviešu valoda
 
-Eesti keel
+Lietuvių
 
 English
 
@@ -329,11 +329,11 @@ Yandex.Maps](https://yandex.com/legal/maps_termsofuse/index.html)
 
 English
 
-Lietuvių
+Eesti keel
 
 Latviešu valoda
 
-Eesti keel
+Lietuvių
 
 English
 
@@ -345,11 +345,11 @@ Yandex.Maps](https://yandex.com/legal/maps_termsofuse/index.html)
 
 English
 
-Lietuvių
+Eesti keel
 
 Latviešu valoda
 
-Eesti keel
+Lietuvių
 
 English
 
