@@ -4,37 +4,7 @@
 
 [](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijc1NDIiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
 
-* Features
-    
-    Close Features Open Features
-    
-    [**Automated scheduling**
-    
-    Automate your publishing with human-centered AI.](https://www.socialnewsdesk.com/ai-powered-automated-social-publishing/)[**Publishing calendar**
-    
-    Keep everyone on the same page with helpful tools.](https://www.socialnewsdesk.com/scheduling-tools-social-media-scheduling-for-teams/)[**Consolidated reporting**
-    
-    Turn data into insights to help you continuously improve.](https://www.socialnewsdesk.com/social-media-reports/)[**Listen and engage**
-    
-    Stay on top of what’s most important to your audience.](https://www.socialnewsdesk.com/listen-engage-stay-connected/)[**Link in bio**
-    
-    Schedule and share with no extra steps needed.](https://www.socialnewsdesk.com/newsin-bio-link-sharing-for-instagram-tiktok/)[**On air display**
-    
-    Real-time monitoring for keeping your audience engaged and informed while on air.](https://www.socialnewsdesk.com/snd-on-air-social-media-live-display/)
-    
-    [![](https://www.socialnewsdesk.com/wp-content/uploads/2024/03/ligon.png)](https://www.socialnewsdesk.com/blog/snds-search-and-listen-transforms-mont-belvieus-community-connection/)
-    
-    **Tools for critical social media** engagement
-    
-    _“Social News Desk has been able to elevate our game on all levels. Having an all-in-one dashboard has been a game changer for us. The native listening is fantastic.”_
-    
-      **Brian Ligon**
-    
-      Communications Director
-    
-      Mont Belvieu, TX
-    
-    [Request a demo](https://www.socialnewsdesk.com/request-a-social-news-desk-demo/)
+* [Features](https://www.socialnewsdesk.com/snd-social-media-management-features/)
     
 * Customers
     
