@@ -18,7 +18,7 @@ Send Login Link
 
 Interested in our Partner Program for businesses or our Local Guide Program for experienced expats and digital nomads? [Click here to learn more](https://www.expatexchange.com/partnering).
 
-       Privacy Policy | Expat Exchange                                   
+       Privacy Policy | Expat Exchange                                    
 
 [Expat Exchange](https://www.expatexchange.com/ "Expat Exchange Home")
 
