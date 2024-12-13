@@ -90,19 +90,29 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/protecting-the-liberal-arts-and-humanities-in-american-higher-education.jpg)[](https://admin.mi52siterestore.com/article/protecting-the-liberal-arts-and-humanities-in-american-higher-education/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/march-on-billionaires-event.jpg)[](https://admin.mi52siterestore.com/article/correcting-the-top-10-tax-myths/ "Read More")
 
-Report Education Higher Ed
+Issue Brief Economics Tax & Budget
 
-Dec 05 2024
+Dec 12 2024
 
-Report Education Higher Ed
+Issue Brief Economics Tax & Budget
 
-Dec 05 2024
+Dec 12 2024
 
-### [Protecting the Liberal Arts and Humanities in American Higher Education](https://admin.mi52siterestore.com/article/protecting-the-liberal-arts-and-humanities-in-american-higher-education/)
+### [Correcting the Top 10 Tax Myths](https://admin.mi52siterestore.com/article/correcting-the-top-10-tax-myths/)
 
-By **[Shannon Watkins](https://admin.mi52siterestore.com/person/shannon-watkins/)** Read time **30 mins** [Read More](https://admin.mi52siterestore.com/article/protecting-the-liberal-arts-and-humanities-in-american-higher-education/)
+By **[Brian Riedl](https://admin.mi52siterestore.com/person/brian-riedl/)** Read time **33 mins** [Read More](https://admin.mi52siterestore.com/article/correcting-the-top-10-tax-myths/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/6-ways-president-trump-can-fight-antisemitism-from-day-1.jpg)[](https://admin.mi52siterestore.com/article/6-ways-president-trump-can-fight-antisemitism-from-day-1/ "Read More")
+
+Commentary Governance, Education Higher Ed
+
+Dec 12 2024
+
+[6 Ways President Trump Can Fight Antisemitism from Day 1](https://admin.mi52siterestore.com/article/6-ways-president-trump-can-fight-antisemitism-from-day-1/)
+
+By **[Ilya Shapiro](https://admin.mi52siterestore.com/person/ilya-shapiro/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/6-ways-president-trump-can-fight-antisemitism-from-day-1/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/the-federal-reserve-banks-are-turning-left.jpg)[](https://admin.mi52siterestore.com/article/the-federal-reserve-banks-are-turning-left/ "Read More")
 
@@ -133,16 +143,6 @@ Dec 09 2024
 [Dear NY Voters: Don’t Fail the Next Daniel Penny and Jordan Neely — Oust DA Bragg and the Soft-on-Crime Radicals](https://admin.mi52siterestore.com/article/dear-ny-voters-dont-fail-the-next-daniel-penny-and-jordan-neely-oust-da-bragg-and-the-soft-on-crime-radicals/)
 
 By **[Hannah E. Meyers](https://admin.mi52siterestore.com/person/hannah-e-meyers/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/dear-ny-voters-dont-fail-the-next-daniel-penny-and-jordan-neely-oust-da-bragg-and-the-soft-on-crime-radicals/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-murder-of-unitedhealthcare-ceo-brian-thompson-is-a-bad-sign-for-new-york-city.jpg)[](https://admin.mi52siterestore.com/article/the-murder-of-unitedhealthcare-ceo-brian-thompson-is-a-bad-sign-for-new-york-city/ "Read More")
-
-Commentary Cities, Public Safety New York, New York City, Crime Control, Policing
-
-Dec 08 2024
-
-[The Murder of UnitedHealthcare CEO Brian Thompson Is a Bad Sign for New York City](https://admin.mi52siterestore.com/article/the-murder-of-unitedhealthcare-ceo-brian-thompson-is-a-bad-sign-for-new-york-city/)
-
-By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-murder-of-unitedhealthcare-ceo-brian-thompson-is-a-bad-sign-for-new-york-city/)
 
 Our Policy Areas
 ----------------
