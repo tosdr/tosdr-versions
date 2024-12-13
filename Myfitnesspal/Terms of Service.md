@@ -501,8 +501,8 @@ If you have any feedback, questions or comments about the Services, please conta
 * [Community Guidelines](https://www.myfitnesspal.com/community-guidelines)
 * Cookie Preferences
     
-* [Ad Choices](https://www.myfitnesspal.com/privacy-policy#interest-based-advertising)
 * [Do Not Sell My Personal Information](https://www.myfitnesspal.com/data-usage)
+* [Washington Health Data Privacy Policy](https://www.myfitnesspal.com/washington-health-data-privacy-policy)
 
 EnglishDeutschEspañolFrançaisPortuguês (Brasil)ItalianoNorskNederlandsPусскийSvenskDansk한국어日本語中文(简体)中文(台灣)
 
