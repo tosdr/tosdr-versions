@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=173833767)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=21317737)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=212162222)  
-Goju-Ryu Pretoria East
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=44933782)  
+Tantra Sound and Lightz
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=84402744)  
-Echo Recording Studio cc
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=44695964)  
+Kara Medical (Pty) Ltd
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=188869224)  
-Electro-Heat
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=178085373)  
+Website Café (PTY) LTD
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=83726107)  
-CHARLIEX CONSTRUCTIONS
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=40447018)  
+OptaServ
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=129981204)  
-Redlum Group (Pty) Ltd
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=82173114)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=89187429)  
-Brilliant Roof Products
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=143599608)  
+Bchange Online CC
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=65817933)  
-WIP Digital Solutions
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=204789407)  
+FJW Security Cc
 
-![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=193032837)  
-Protech Marketing
+![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=30305460)  
+Roekeloos Group
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=113483709)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=195002757)  
+Qothiphango Mining
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=32756121)  
-Digifax Pty) Ltd t/a Findfish
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=140770464)  
+NJR ICT Services (Pty) Ltd
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=50717917)  
-IYD
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=77799983)  
+One2b
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=118542188)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=71387228)  
+AFS Electrical
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=151738306)  
-Nogana Events and Decor
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=193822819)  
+Oukraal Merino's
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=3e50c48cb6eaf9208ccb7447432b8561ef61e0107fc1fad741daf28a47662413&c=46034080)  
-UMVIKELI PRIVATE SECURITY
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=156857556)  
+BD Maintenance
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
