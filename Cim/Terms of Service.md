@@ -1,4 +1,4 @@
-Cookie Consent by [Free Privacy Policy Generator website](https://www.freeprivacypolicy.com/)    
+Cookie Consent by [Free Privacy Policy Generator website](https://www.freeprivacypolicy.com/)   
 
 [About Us](#)[Investment Platforms](#)[Public Investment Programs](#)[Portfolio](#)[Transact](#)[Careers](https://www.cimgroup.com/careers)[Logins](#)[Search](https://www.cimgroup.com/search)
 
