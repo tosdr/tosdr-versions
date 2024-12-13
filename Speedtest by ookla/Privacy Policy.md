@@ -216,7 +216,35 @@ This Privacy Policy (or “policy”) describes how Ookla uses the personal info
 9. International Transfers of Information
     --------------------------------------
     
-    We may transfer your personal information to recipients in countries other than the one you reside. Where we transfer your personal information internationally, we do so on the basis of legally compliant mechanisms including, but not limited to, the standard contractual clauses and the APEC Cross-Border Privacy Rules. You may request a copy of the relevant standard contractual clauses by emailing [privacy@ookla.com](mailto:privacy@ookla.com).
+    We may transfer your information to recipients in other countries. Ziff Davis, Inc., participates in the E.U.-U.S. Data Privacy Framework, the UK extension to the EU-U.S. DPF, the Swiss-U.S. Privacy Framework and the APEC Cross Border Privacy Rules System. Where we transfer information from the European Economic Area (“EEA”) to a recipient outside the EEA that is not in an adequate jurisdiction, we do so on the basis of standard contractual clauses.
+    
+    Because of the international nature of our business, we may need to transfer your information within the Ziff Davis group of companies, and to third parties as noted above, in connection with the purposes set out in this Policy. For this reason, we may transfer your information to other countries that may have different laws and data protection compliance requirements to those that apply in the country in which you are located. We remain liable under the DPF Principles if any third parties that we transfer your personal information to process it in a manner inconsistent with the DPF Principles, unless we prove that we are not responsible for the event giving rise to the damage.
+    
+    Ziff Davis, Inc. and its associated affiliates and subsidiaries complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Ziff Davis, Inc. has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF.Ziff Davis, Inc. has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov/).
+    
+    We are committed to staying current with developments related to the Data Privacy Framework and may update our transfer mechanisms and safeguards as necessary to remain compliant. Any updates will be reflected in this Privacy Policy.
+    
+    If you are a European individual with a privacy related complaint, concern or question about Ziff Davis, Inc.’s privacy practices, please contact us through our [privacy portal](https://dsar.speedtest.net/). Under certain conditions, more fully described on the Data Privacy Framework website, European individuals may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+    
+    Where we transfer your personal information from the EEA to recipients located outside the EEA who are not in a jurisdiction that has been formally designated by the European Commission as providing an adequate level of protection for information, we do so on the basis of standard contractual clauses. You may request a copy of the relevant standard contractual clauses using our [privacy portal](https://dsar.speedtest.net/). Please note that when you transfer any personal information directly to an entity established outside the EEA, we are not responsible for that transfer of your information. We will nevertheless process your information, from the point at which we receive the data, in accordance with the provisions of this policy.
+    
+    **Enforcement Authority**
+    
+    The Federal Trade Commission has jurisdiction over our compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
+    
+    **Complaints Mechanism**
+    
+    In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Ziff Davis, Inc. commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU and UK individuals and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF should first contact Ziff Davis, Inc. at [privacy@ookla.com](mailto:privacy@ookla.com).
+    
+    In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Ziff Davis, Inc. commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to TrustArc, an alternative dispute resolution provider. The services of Trustarc are provided at no cost to you. For further information please visit [https://trustarc.com/dispute-resolution/](https://trustarc.com/dispute-resolution/%3E).
+    
+    Under certain conditions, a binding arbitration option may be available to you in order to address complaints not resolved by any other means. For further information, please see Annex I of the EU-U.S. Data Privacy Framework Principles at: [https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction](https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction).
+    
+    In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Ziff Davis, Inc. commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of human resources data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF in the context of the employment relationship.
+    
+    For a list of our subsidiaries and affiliates who also adhere to the DPF Principles, please click [here](https://www.ziffdavis.com/ziff-davis-inc-entities-self-certified-under-the-data-privacy-framework-dpf).
+    
+    Our privacy practices described in this Policy comply with the Asia-Pacific Economic Cooperation (“**APEC**”) Cross Border Privacy Rules System. To learn more about this program, please click [here](https://cbprs.org/).
     
     * * *
     
