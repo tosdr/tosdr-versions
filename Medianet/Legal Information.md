@@ -28,7 +28,7 @@ By using the Media.net platform and services, each Publisher (ie. owner or autho
 * Media.net prides itself on being one of the most direct paths to inventory. Resale of inventory from other intermediaries not approved by Media.net is strictly prohibited and will be subject to termination.
 * All account information and details provided by each Publisher must be correct and complete, including any descriptions of the characteristics of the inventory and related data, and may not be misrepresented in any way.
 * Sites shall not install nor distribute malware, viruses, or other similar malicious code.
-* All Sites must comply with the [Better Ads Standards](https://www.betterads.org/standards/), and sites or apps may not engage in any of the “least preferred ad experiences” as identified by the Coalition for Better Ads
+* All Sites must comply with the [Better Ads Standards](https://www.betterads.org/standards/), and sites or apps may not engage in any of the “least preferred ad experiences” as identified by the Coalition for Better Ads.
 
 ### II. Site Policies
 
@@ -92,16 +92,16 @@ Although legal in most regions, restricted content may be considered prohibited 
 
 **Incentive Programs:**
 
-* Publishers shall not provide any text in or around the ad units, or include phrases that may mislead a user or encourage them to click the ads. Any ads that are disguised within the content and/or placed in a manner which cannot be distinguished from content are prohibited
+* Publishers shall not provide any text in or around the ad units, or include phrases that may mislead a user or encourage them to click the ads. Any ads that are disguised within the content and/or placed in a manner which cannot be distinguished from content are prohibited.
 * Publishers may not offer any compensation or incentivize any person in any manner to view/click ads.
 * Participating in or using any automated click and impression generating tools, use of bots, open proxies or software that can lead to false impressions and clicks is not permitted.
 * Clicks made by the Publisher on his own ads will be considered invalid.
 
 **Misleading Users:**
 
-* Publishers shall not provide any text in or around the ad units, or include phrases that may mislead a user or encourage them to click the ads. Any ads that are disguised within the content and/or placed in a manner which cannot be distinguished from content are prohibited
+* Publishers shall not provide any text in or around the ad units, or include phrases that may mislead a user or encourage them to click the ads. Any ads that are disguised within the content and/or placed in a manner which cannot be distinguished from content are prohibited.
 * Ads may not be obscured or altered in any way. You may not make inventory available in double iframes.
-* Deceiving Images: Placing images or thumbnails around the ad unit which may deceive a user is prohibited
+* Deceiving Images: Placing images or thumbnails around the ad unit which may deceive a user is prohibited.
 
 ### V. Implementation Policies
 
@@ -121,15 +121,15 @@ Although legal in most regions, restricted content may be considered prohibited 
 * Place ads in emails or newsletters
 * Make modifications or in any way block visitor IP, referrer or page URL from being provided to Media.net
 * Transfer or provide any of the following personal data of their visitors/users to Media.net:
-    * full name, direct contact information including address, telephone number, or email address (but excluding device identifiers); social security number, driver’s license number, other state or government identification number, biometric data, or account or payment card number; and sensitive or special categories of personal data (as defined in applicable privacy and data protection laws and regulations)
+    * full name, direct contact information including address, telephone number, or email address (but excluding device identifiers); social security number, driver’s license number, other state or government identification number, biometric data, or account or payment card number; and sensitive or special categories of personal data (as defined in applicable privacy and data protection laws and regulations).
 
 **Ad Code manipulation**
 
 The Publisher may not:
 
-* Alter the Ad Code in any way that changes the appearance of an ad, or manipulates the standard behavior, targeting or delivery of ads
-* Attempt in any way to alter, modify, eliminate, conceal, or otherwise render inoperable or ineffective the ad tags, source codes, links, pixels, modules or other data
-* Load any software that can trigger pop-ups, redirect users to unwanted websites, modify browser settings or otherwise interfere with site navigation
+* Alter the Ad Code in any way that changes the appearance of an ad, or manipulates the standard behavior, targeting or delivery of ads.
+* Attempt in any way to alter, modify, eliminate, conceal, or otherwise render inoperable or ineffective the ad tags, source codes, links, pixels, modules or other data.
+* Load any software that can trigger pop-ups, redirect users to unwanted websites, modify browser settings or otherwise interfere with site navigation.
 * Obscure or otherwise interfere with any such attempts to remove any third party tags or services (ex: tags that check for brand safety, determine viewability, malware detection etc.).
 
 ### VI. Supply Chain Transparency
