@@ -22,7 +22,7 @@
     * [Bespoke Programmes](mailto:cpd@veema.co.uk?subject=CPD%20Enquiry)
     * [7 – 9 Week Courses](https://veema.co.uk/7-9-week-courses/)
 * [CPD MEMBERSHIP](https://veema.co.uk/cpd-membership/)
-    * [Leadership Hub](https://veema.co.uk/dashboard/)
+    * [Leadership Hub](https://veema.co.uk/leadership-hub/)
     * [My Account](https://veema.co.uk/cpd-membership/my-account/)
 * [KEYNOTE SPEAKERS](https://veema.co.uk/keynote-speakers/)
 * [NEWS & MEDIA](https://veema.co.uk/news-media/)
@@ -46,7 +46,7 @@
     * [Bespoke Programmes](mailto:cpd@veema.co.uk?subject=CPD%20Enquiry)
     * [7 – 9 Week Courses](https://veema.co.uk/7-9-week-courses/)
 * [CPD MEMBERSHIP](https://veema.co.uk/cpd-membership/)
-    * [Leadership Hub](https://veema.co.uk/dashboard/)
+    * [Leadership Hub](https://veema.co.uk/leadership-hub/)
     * [My Account](https://veema.co.uk/cpd-membership/my-account/)
 * [KEYNOTE SPEAKERS](https://veema.co.uk/keynote-speakers/)
 * [NEWS & MEDIA](https://veema.co.uk/news-media/)
@@ -183,13 +183,69 @@ If you have any concerns about material which appears on our site, please contac
 
 Thank you for visiting our site!
 
-[![Footer Banner 1](https://veema.co.uk/wp-content/uploads/2024/11/ft-subscribe_active.jpg)](https://veema.co.uk/newsletter-subscription/)
+[![Footer Banner 1](https://veema.co.uk/wp-content/uploads/2024/11/ft-subscribe_active.jpg)](javascript:void(0);)
 
-[![Footer Banner 2](https://veema.co.uk/wp-content/uploads/2024/11/footer-button-request_active.png)](https://veema.co.uk/request-our-service-factsheets/)
+[![Footer Banner 2](https://veema.co.uk/wp-content/uploads/2024/11/footer-button-request_active.png)](javascript:void(0);)
 
-[![Footer Banner 3](https://veema.co.uk/wp-content/uploads/2024/11/footer-button-follow_active.png)](https://veema.co.uk/follow-our-newsfeed/)
+[![Footer Banner 3](https://veema.co.uk/wp-content/uploads/2024/11/footer-button-follow_active.png)](javascript:void(0);)
 
 [![Footer Banner 4](https://veema.co.uk/wp-content/uploads/2024/11/footer-button-contact_active.png)](https://veema.co.uk/contact-us/)
+
+×
+
+#### Newsletter Subscription
+
+     
+
+First Name: \*  
+
+Last Name: \*  
+
+Direct School Email: \*  
+
+Organisation/School:
+
+Position:
+
+By subscribing to our newsletter, you submit the information you have provided to us. We will use it to communicate with you regarding news, events or other services we feel you would like to hear about. We will never give away your data.
+
+×
+
+#### Request our Service Factsheets
+
+     
+
+First Name: \*  
+
+Last Name: \*  
+
+Direct School Email: \*  
+
+Organisation/School:
+
+Position:
+
+Teacher CPDs:
+
+Asking… Not Telling!On Best BehaviourAssessment in PracticeTeaching for Mastery through Practical DifferentiationWinning at DifferentiationBe Inspection ReadyYour Next Great PlaySafeguarding School PackageWhole-school Safeguarding and Child ProtectionSafer RecruitmentLeading SafelyGovernance LeadershipNational Professional Qualification for Headship (NPQH)National Professional Qualification for Senior Leadership (NPQSL)National Professional Qualification for Middle Leaders (NPQML)Leading the ChargeLeading On Pastoral Care
+
+×
+
+#### Follow our newsfeed
+
+     
+
+First Name: \*  
+
+Last Name: \*  
+
+Direct School Email: \*  
+
+Organisation/School:
+
+Position:
+
+By following our newsfeed, you submit the information you have provided to us. We will use it to communicate with you regarding news, events or other services we feel you would like to hear about. We will never give away your data.
 
 #### Photo Gallery
 
@@ -236,7 +292,7 @@ N8 7RF
 
 #### X Feeds
 
-© 2024 Smooth Digital Ltd. All Rights Reserved.
+© 2024 Veema. All Rights Reserved.
 
 * [Join Veema](https://veema.co.uk/join-veema/)
 * [Terms of Use](https://veema.co.uk/terms-of-use/)
