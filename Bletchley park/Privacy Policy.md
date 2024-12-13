@@ -474,7 +474,7 @@ We ask our supporters for permission or preference for appropriate accreditation
 
 We gratefully receive income from legacies. We may keep data you provide to us for as long as needed both to carry out legacy administration and communicate effectively with the families of people leaving us legacies. This also enables us to identify and analyse the source of legacy income we receive.
 
-You can opt out of your data being used in this way by emailing [\[email protected\]](https://www.bletchleypark.org.uk/cdn-cgi/l/email-protection). We respect anyone’s right to withdraw their consent from this form of electronic communication and once informed of a preference change, we will cease this form of contact. We are also registered with the Fundraising Regulator and use the Fundraising Preference Service, a service which allows people to opt out of fundraising communications from charities. We receive regular updates from the Fundraising Preference Service so if you opt out that way, we will remove you from our email, phone, text, and postal communications.
+You can opt out of your data being used in this way by emailing [\[email protected\]](https://www.bletchleypark.org.uk/cdn-cgi/l/email-protection). We respect anyone’s right to withdraw their consent from this form of electronic communication and once informed of a preference change, we will cease this form of contact. We are also registered with the Fundraising Regulator and use the Fundraising Preference Service, a service which allows people to opt out of fundraising communications from charities. We receive regular updates from the Fundraising Preference Service so if you opt out that way, we will remove you from our email, phone, text, and postal communications.
 
 We are committed to fundraising best practice and abide by the Fundraising Regulator’s key principles and behaviours of a fundraising organisation: to be legal, open, honest and respectful. We have a fundraising ethical policy which can be accessed [here](http://bletchleypark.org.uk/support-us/we-need-you). We undertake to comply with relevant law and regulations, including the Proceeds of Crime Act, Data Protection, Tax and Gift Aid legislation and Charity Commission guidance.
 
@@ -634,11 +634,11 @@ You can ask us to send your personal information directly to another service pro
 
 **13\. CHANGES TO THIS POLICY**
 
-We may review this policy from time to time and any changes will be notified to you by posting an updated version on our website and/or by contacting you by email. Any changes will take effect 7 days after the date of our email or the date on which we post the modified terms on our website, whichever is the earlier. We recommend you regularly check for changes and review this policy whenever you visit our website. If you do not agree with any aspect of the updated policy you must immediately notify us and cease using our services.
+We may review this policy from time to time and any changes will be notified to you by posting an updated version on our website and/or by contacting you by email. Any changes will take effect 7 days after the date of our email or the date on which we post the Modified terms on our website, whichever is the earlier. We recommend you regularly check for changes and review this policy whenever you visit our website. If you do not agree with any aspect of the updated policy you must immediately notify us and cease using our services.
 
 **14\. CONTACT US**
 
-Our Data Protection lead is our Director of Support Services, Jennifer Milton. Please direct any queries about this policy or about the way we process your personal information to our Data Protection team at [\[email protected\]](https://www.bletchleypark.org.uk/cdn-cgi/l/email-protection).
+Our Data Protection lead is our Director of Support Services, Jennifer Milton. Please direct any queries about this policy or about the way we process your personal information to our Data Protection team at [\[email protected\]](https://www.bletchleypark.org.uk/cdn-cgi/l/email-protection)
 
 If you wish to write to us, please write to the address given at the start of this policy.
 
