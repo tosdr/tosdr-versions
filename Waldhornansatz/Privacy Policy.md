@@ -8,7 +8,7 @@
 * [Tipps](https://waldhorn-ansatz.de/index.php/de/waldhorn-tipps)
 * [Login/Download](https://waldhorn-ansatz.de/index.php/de/erneuteslogin)
 * [Ihr Warenkorb](https://waldhorn-ansatz.de/index.php/de/ihr-warenkorb)
-* [Kontakt](https://waldhorn-ansatz.de/index.php/de/kontakt)
+* [Kontaktanfrage](https://waldhorn-ansatz.de/index.php/de/kontaktformular)
 
 [](#)
 
@@ -19,7 +19,7 @@ Suchen
 1. Aktuelle Seite:  
 2. [Horn. Können.](https://waldhorn-ansatz.de/index.php/de/) 
 3. [Tipps](https://waldhorn-ansatz.de/index.php/de/waldhorn-tipps) 
-4. Impressum & Datenschutzhinweise 
+4. Geschäftsbedingungen (AGB) 
 
 Eine Sammlung von Tipps für das Üben und Spielen ...
 ====================================================
@@ -27,7 +27,7 @@ Eine Sammlung von Tipps für das Üben und Spielen ...
 Impressum & Datenschutzhinweise
 -------------------------------
 
-Tobias Heinz [Horn lernen mit Spaß - Erfolg für Jugendliche und Erwachsene](https://waldhorn-ansatz.de/index.php/de/waldhorn-tipps) 19\. April 2017  Zugriffe: 25499
+Tobias Heinz [Horn lernen mit Spaß - Erfolg für Jugendliche und Erwachsene](https://waldhorn-ansatz.de/index.php/de/waldhorn-tipps) 19\. April 2017  Zugriffe: 25501
 
 * [](https://www.facebook.com/sharer.php?u=https://waldhorn-ansatz.de/index.php/de/impressum-datenschutz "Facebook")
 * [](https://twitter.com/share?url=https://waldhorn-ansatz.de/index.php/de/impressum-datenschutz&text=Impressum%20&%20Datenschutzhinweise "X (formerly Twitter)")
@@ -375,6 +375,6 @@ Suchen
 * [Tipps](https://waldhorn-ansatz.de/index.php/de/waldhorn-tipps)
 * [Login/Download](https://waldhorn-ansatz.de/index.php/de/erneuteslogin)
 * [Ihr Warenkorb](https://waldhorn-ansatz.de/index.php/de/ihr-warenkorb)
-* [Kontakt](https://waldhorn-ansatz.de/index.php/de/kontakt)
+* [Kontaktanfrage](https://waldhorn-ansatz.de/index.php/de/kontaktformular)
 
 [](#)
