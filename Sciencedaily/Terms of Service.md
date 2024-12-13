@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
-
 [Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
 
-[Learning Disorders](https://www.sciencedaily.com/news/mind_brain/learning_disorders/)
+[Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
+
+[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
-
 [Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
-[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
 
-[Origin of Life](https://www.sciencedaily.com/news/fossils_ruins/origin_of_life/)
-
 [Biodiversity](https://www.sciencedaily.com/news/earth_climate/biodiversity/)
+
+[Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
 
   
 
