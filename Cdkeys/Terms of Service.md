@@ -522,11 +522,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-8.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/_/s.t.a.l.k.e.r._2__heart_of_chernobyl_-_ultimate_edition_pc.jpg)   No 8. \-42%](https://www.cdkeys.com/s-t-a-l-k-e-r-2-heart-of-chernobyl-ultimate-edition-pc-steam)
+8.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/s/_/s.t.a.l.k.e.r._2__heart_of_chernobyl_-_ultimate_edition_pc.jpg)   No 8. \-43%](https://www.cdkeys.com/s-t-a-l-k-e-r-2-heart-of-chernobyl-ultimate-edition-pc-steam)
     
     **[S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)](https://www.cdkeys.com/s-t-a-l-k-e-r-2-heart-of-chernobyl-ultimate-edition-pc-steam "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Ultimate Edition PC (EU & North America)")**
     
-    Special Price $70.49 RRP $121.09
+    Special Price $68.79 RRP $121.09
     
     [Add to Wish List](# "Add to Wish List")
     
