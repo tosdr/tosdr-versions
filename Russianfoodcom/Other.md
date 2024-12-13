@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -149,15 +149,15 @@
 Сейчас читают
 
 * [Открытый слоёный пирог с фетой и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173732)
-* [Картофельная "пицца" с копчёностями, яйцами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=162794)
 * [Злаковый завтрак](https://www.russianfood.com/recipes/recipe.php?rid=123899)
 * [Горячие бутерброды с ливерной колбасой и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=1979)
 * [Мещерская окрошка](https://www.russianfood.com/recipes/recipe.php?rid=3683)
 * [Бутерброды с сосиской и яйцом](https://www.russianfood.com/recipes/recipe.php?rid=5485)
 * [Бутерброды с килькой и ливерной колбасой](https://www.russianfood.com/recipes/recipe.php?rid=5489)
 * [Бутерброды со свеклой](https://www.russianfood.com/recipes/recipe.php?rid=5523)
-* [Майский салат с колбасой](https://www.russianfood.com/recipes/recipe.php?rid=8296)
-* [Итальянский мясной салат](https://www.russianfood.com/recipes/recipe.php?rid=8321)
+* [Яйца в кружочках колбасы](https://www.russianfood.com/recipes/recipe.php?rid=10025)
+* [Супермикс в лаваше](https://www.russianfood.com/recipes/recipe.php?rid=10234)
+* [Рулеты с сосисками и оливками](https://www.russianfood.com/recipes/recipe.php?rid=10296)
 
 |     |
 | --- |
@@ -304,7 +304,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174953#comments) | 12.12.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174953#comments) | 12.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -312,7 +312,7 @@
 
 [![Фото к рецепту: Суп с говяжьим фаршем и бататом](//img1.russianfood.com/dycontent/images_upl/759/sm_758737.jpg "Фото к рецепту: Суп с говяжьим фаршем и бататом")](https://www.russianfood.com/recipes/recipe.php?rid=174955)
 
-Суп фаршем варится быстрее, чем на мясном бульоне. А замена обычного картофеля на батат, делает вкус интереснее.
+Суп с фаршем варится быстрее, чем на мясном бульоне. А замена обычного картофеля на батат, делает вкус интереснее.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174955)  
 
@@ -360,7 +360,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175022#comments) | 12.12.24 |     |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175022#comments) | 12.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -374,7 +374,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175076#comments) | 12.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_6 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175076#comments) | 12.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -388,7 +388,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174942#comments) | 12.12.24 |     |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174942#comments) | 12.12.24 |     |
 
 |     |
 | --- |
@@ -461,8 +461,8 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758757.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174953) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759431.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174889) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758712.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174952) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759617.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175124) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754914.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758737.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174955) |
-| [Рыбный суп с тыквой и сливками](https://www.russianfood.com/recipes/recipe.php?rid=174953) | [Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=174889) | [Сырный суп с шампиньонами и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174952) | [Калья](https://www.russianfood.com/recipes/recipe.php?rid=175124) | [Закусочный пирог из лаваша, с сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [Круглая гата с начинкой "хориз" (с сухофруктами и орехами)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [Суп с говяжьим фаршем и бататом](https://www.russianfood.com/recipes/recipe.php?rid=174955) |
+| [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758757.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174953) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759431.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174889) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759617.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175124) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758737.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174955) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754914.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758712.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174952) |
+| [Закусочный пирог из лаваша, с сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [Рыбный суп с тыквой и сливками](https://www.russianfood.com/recipes/recipe.php?rid=174953) | [Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=174889) | [Калья](https://www.russianfood.com/recipes/recipe.php?rid=175124) | [Суп с говяжьим фаршем и бататом](https://www.russianfood.com/recipes/recipe.php?rid=174955) | [Круглая гата с начинкой "хориз" (с сухофруктами и орехами)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [Сырный суп с шампиньонами и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174952) |
 | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760115.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175128) |
 | [Миндальное печенье](https://www.russianfood.com/recipes/recipe.php?rid=175128) |
 
@@ -481,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(118)
+(114)
