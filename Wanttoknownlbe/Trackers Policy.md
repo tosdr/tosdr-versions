@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/buy-beer-and-hookers-to-save-your-country/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/geschiedenis/zionisme-rusland-china-en-de-nwo/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
