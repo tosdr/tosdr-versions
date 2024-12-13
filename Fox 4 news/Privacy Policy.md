@@ -401,6 +401,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Selena Gomez announces engagement to record producer Benny Blanco](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/selena-benny.jpg?ve=1&tl=1)
+
+ ![Selena Gomez announces engagement to record producer Benny Blanco](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/selena-benny.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/selena-gomez-announces-engagement-record-producer-benny-blanco)
+
+### [Selena Gomez announces engagement to record producer Benny Blanco](https://www.fox4news.com/news/selena-gomez-announces-engagement-record-producer-benny-blanco)
+
+ [![Airbnb rolls out ‘anti-party restrictions’ for New Year’s Eve](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-1650390026.jpg?ve=1&tl=1)
+
+ ![Airbnb rolls out ‘anti-party restrictions’ for New Year’s Eve](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-1650390026.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/airbnb-new-years-eve-party-restrictions)
+
+### [Airbnb rolls out ‘anti-party restrictions’ for New Year’s Eve](https://www.fox4news.com/news/airbnb-new-years-eve-party-restrictions)
+
  [!['Wanted' posters spotted in NYC reportedly target healthcare CEOs](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/wanted-posters.png?ve=1&tl=1)
 
  !['Wanted' posters spotted in NYC reportedly target healthcare CEOs](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/wanted-posters.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wanted-posters-ceo-killing-new-york-city)
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  !['Mastermind' behind Du'Vonta Lampkin's murder found guilty, gets life in prison](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/franklin-and-lampkin.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/duvonta-lampkin-antwan-franklin-guilty-verdict)
 
 ### ['Mastermind' behind Du'Vonta Lampkin's murder found guilty, gets life in prison](https://www.fox4news.com/news/duvonta-lampkin-antwan-franklin-guilty-verdict)
-
- [![Green Lake kayaker faked death; warrants detail investigation](https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2024/12/32/18/bmrb1.jpg?ve=1&tl=1)
-
- ![Green Lake kayaker faked death; warrants detail investigation](https://images.foxtv.com/images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2024/12/32/18/592/333/bmrb1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/green-lake-kayaker-faked-death-warrants)
-
-### [How investigators found Green Lake kayaker who faked death, fled country](https://www.fox4news.com/news/green-lake-kayaker-faked-death-warrants)
-
- [![Bonton Farms expanding nutrition, wellness services across South Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-dial-bonton-farms-expansion-4p_00.00.27.44.jpg?ve=1&tl=1)
-
- ![Bonton Farms expanding nutrition, wellness services across South Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-dial-bonton-farms-expansion-4p_00.00.27.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/bonton-farms-expanding-nutrition-wellness-services-across-south-dallas)
-
-### [Bonton Farms expanding nutrition, wellness services across South Dallas](https://www.fox4news.com/news/bonton-farms-expanding-nutrition-wellness-services-across-south-dallas)
 
 ###### [News](https://www.fox4news.com/news)
 
