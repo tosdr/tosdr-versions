@@ -170,9 +170,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [AI playbook: An actionable guide](https://www.onetrust.com/resources/ai-playbook-an-actionable-guide-white-paper/)
 * [Balancing personalization and privacy: Strategies to win with first-party data in the dynamic data landscape](https://www.onetrust.com/resources/balancing-personalization-and-privacy-strategies-to-win-with-first-party-data-in-the-dynamic-data-landscape-webinar/)
 * [Overcoming the privacy pitfalls of GenAI](https://www.onetrust.com/resources/overcoming-the-privacy-pitfalls-of-genai-webinar/)
-* [How OneTrust helps SMEs stay ahead of third-party risk](https://www.onetrust.com/resources/how-onetrust-helps-smes-stay-ahead-of-third-party-risk/)
 
 ### Platform
 
