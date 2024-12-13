@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/eerst-het-donker-dan-het-licht/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/onze-medicijnen-slechts-4-is-totaal-effectief/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
