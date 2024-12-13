@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/12/packaging-mui-coffee-feature.jpg)
+
+[](https://theinspirationgrid.com/mui-coffee-roastery-branding-packaging-by-happycentro/)
+
+### MUI Coffee Roastery Branding & Packaging by Happycentro
+
+![](https://inspgr.id/app/uploads/2024/12/illustration-kirsten-rothbart-feature.gif)
+
+[](https://theinspirationgrid.com/edgy-illustrated-portraits-by-kirsten-rothbart/)
+
+### Edgy Illustrated Portraits by Kirsten Rothbart
+
 ![](https://inspgr.id/app/uploads/2024/12/design-andrew-hudson-feature.jpg)
 
 [](https://theinspirationgrid.com/flair-flourish-the-amazing-work-of-andrew-hudson/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/the-goetheanum-photos-by-thibaud-poirier/)
 
 ### The Goetheanum: Photos by Thibaud Poirier
-
-![](https://inspgr.id/app/uploads/2024/12/art-michael-blessing-feature.jpg)
-
-[](https://theinspirationgrid.com/neon-west-electric-paintings-by-michael-blessing/)
-
-### Neon West: Electric Paintings by Michael Blessing
-
-![](https://inspgr.id/app/uploads/2024/12/illustration-gilles-warmoes-24-feature.jpg)
-
-[](https://theinspirationgrid.com/striking-illustrations-by-gilles-warmoes/)
-
-### Striking Illustrations by Gilles Warmoes
 
 Awesome products for creatives
 ------------------------------
