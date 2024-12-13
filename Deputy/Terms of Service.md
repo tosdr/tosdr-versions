@@ -277,6 +277,8 @@ Resources
 
 [Blog](https://www.deputy.com/blog)
 
+[Compliance Hub](https://www.deputy.com/compliance-hub)
+
 [Customer stories](https://www.deputy.com/blog?type=customer-story)
 
 [Customer reviews](https://www.deputy.com/insights/deputy-customer-reviews)
