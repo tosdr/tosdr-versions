@@ -1,569 +1,702 @@
+[SKIP TO MAIN](#MainWrapper)[SKIP TO FOOTER](#FooterWrapper)
+
 Free standard shipping on any $35 purchase
 
-[Go to Ulta Beauty homepageGo to Ulta Beauty homepage](https://www.ulta.com/)
-
-* Search
-    
-
-* [](https://www.ulta.com/bag)
-    
-
 * Join / Sign in
-* [CommunityCommunity](https://www.ulta.com/community/groups)
+* [Community](https://www.ulta.com/community/groups)
     
-* [Track an OrderShippingBoxClosed](https://www.ulta.com/account/order-status)
+* [Track an Order](https://www.ulta.com/account/order-status)
     
 * Ulta Beauty Rewards™
-* [Find a StoreLocation](https://www.ulta.com/stores)
+* [Find a Store](https://www.ulta.com/stores)
     
-* [Gift CardsHeartEmpty](https://www.ulta.com/guestservices/gift-cards)
+* [Gift Cards](https://www.ulta.com/guestservices/gift-cards)
     
 * Need Help?
+
+[Go to Ulta Beauty homepageGo to Ulta Beauty homepage](https://www.ulta.com/)
 
 * Shop
     
     * Makeup & Nails
         
-        * [All Makeup & Nails](https://www.ulta.com/shop/makeup)
+        [All Makeup & Nails](https://www.ulta.com/shop/makeup)
+        
+        * [### Face](https://www.ulta.com/shop/makeup/face)
             
-            Face
-            
-            * [All Face](https://www.ulta.com/shop/makeup/face)
             * [Foundation](https://www.ulta.com/shop/makeup/face/foundation)
+                
             * [BB & CC Creams](https://www.ulta.com/shop/makeup/face/bb-cc-creams)
+                
             * [Tinted Moisturizer](https://www.ulta.com/shop/skin-care/moisturizers/tinted-moisturizer)
+                
             * [Concealer](https://www.ulta.com/shop/makeup/face/concealer)
+                
             * [Face Primer](https://www.ulta.com/shop/makeup/face/face-primer)
+                
             * [Blush](https://www.ulta.com/shop/makeup/face/blush)
+                
             * [Bronzer](https://www.ulta.com/shop/makeup/face/bronzer)
+                
             * [Highlighter](https://www.ulta.com/shop/makeup/face/highlighter)
+                
             * [Contouring](https://www.ulta.com/shop/makeup/face/contouring)
+                
             * [Color Correcting](https://www.ulta.com/shop/makeup/face/color-correcting)
+                
             * [Setting Spray & Powder](https://www.ulta.com/shop/makeup/face/setting-spray-powder)
+                
             * [Makeup Remover](https://www.ulta.com/shop/skin-care/cleansers/makeup-remover)
+                
             
-            Lips
+        * [### Lips](https://www.ulta.com/shop/makeup/lips)
             
-            * [All Lips](https://www.ulta.com/shop/makeup/lips)
             * [Lipstick](https://www.ulta.com/shop/makeup/lips/lipstick)
+                
             * [Lip Gloss](https://www.ulta.com/shop/makeup/lips/lip-gloss)
+                
             * [Lip Oil](https://www.ulta.com/shop/makeup/lips/lip-oil)
+                
             * [Lip Liner](https://www.ulta.com/shop/makeup/lips/lip-liner)
+                
             * [Lip Stain](https://www.ulta.com/shop/makeup/lips/lip-stain)
+                
             * [Lip Plumpers](https://www.ulta.com/shop/makeup/lips/lip-plumpers)
+                
             * [Lip Balms & Treatments](https://www.ulta.com/shop/makeup/lips/lip-balms-treatments)
+                
             
-            Eyes
+        * [### Eyes](https://www.ulta.com/shop/makeup/eyes)
             
-            * [All Eyes](https://www.ulta.com/shop/makeup/eyes)
             * [Eyeshadow Palettes](https://www.ulta.com/shop/makeup/eyes/eyeshadow-palettes)
+                
             * [Mascara](https://www.ulta.com/shop/makeup/eyes/mascara)
+                
             * [Eyeliner](https://www.ulta.com/shop/makeup/eyes/eyeliner)
+                
             * [Eyebrows](https://www.ulta.com/shop/makeup/eyes/eyebrows)
+                
             * [Eyeshadow](https://www.ulta.com/shop/makeup/eyes/eyeshadow)
+                
             * [Eye Primer & Base](https://www.ulta.com/shop/makeup/eyes/eye-primer-base)
+                
             * [Eyelashes](https://www.ulta.com/shop/makeup/eyes/eyelashes)
+                
             * [Lash Primer & Serums](https://www.ulta.com/shop/makeup/eyes/lash-primer-serums)
+                
             
-            Nails
+        * [### Nails](https://www.ulta.com/shop/makeup/nails)
             
-            * [All Nails](https://www.ulta.com/shop/makeup/nails)
             * [Nail Polish](https://www.ulta.com/shop/makeup/nails/nail-polish)
+                
             * [Gel Nail Polish](https://www.ulta.com/shop/makeup/nails/gel-nail-polish)
+                
             * [Top & Base Coats](https://www.ulta.com/shop/makeup/nails/top-base-coats)
+                
             * [Nail Polish Stickers](https://www.ulta.com/shop/makeup/nails/nail-polish-stickers)
+                
             * [Press On Nails](https://www.ulta.com/shop/makeup/nails/press-on-nails)
+                
             * [Nail Art & Design](https://www.ulta.com/shop/makeup/nails/nail-art-design)
+                
             * [Nail Care](https://www.ulta.com/shop/makeup/nails/nail-care)
+                
             * [Manicure & Pedicure Tools](https://www.ulta.com/shop/makeup/nails/manicure-pedicure-tools)
+                
             
-            Makeup Brushes & Tools
+        * [### Makeup Brushes & Tools](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools)
             
-            * [All Makeup Brushes & Tools](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools)
             * [Brush Sets](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools/brush-sets)
+                
             * [Makeup Brushes](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools/makeup-brushes)
+                
             * [Sponges & Applicators](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools/sponges-applicators)
+                
             * [Brush Cleaner](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools/brush-cleaner)
+                
             * [Brow & Lash Tools](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools/brow-lash-tools)
+                
             * [Blotting Papers](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools/blotting-papers)
+                
             * [Mirrors](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools/mirrors)
-            
-            [### Body Makeup](https://www.ulta.com/shop/makeup/body-makeup)
-            
-            [### Makeup Palettes](https://www.ulta.com/shop/makeup/makeup-palettes)
-            
-            [### Makeup Bags & Organizers](https://www.ulta.com/shop/makeup/makeup-bags-organizers)
-            
-            Featured in Makeup & Nails
-            --------------------------
-            
-            * [Makeup & Nails on Sale](https://www.ulta.com/promotion/sale?category=makeup)
-                
-            * [New in Makeup & Nails](https://www.ulta.com/shop/new-beauty-products?category=makeup)
-                
-            * [Luxury Makeup](https://www.ulta.com/shop/luxury-at-ulta-beauty/makeup)
-                
-            * [Ulta Beauty Collection](https://www.ulta.com/brand/ulta-beauty-collection?category=makeup)
-                
-            * [Makeup & Nail Gifts](https://www.ulta.com/shop/gifts/by-category/makeup-nail-gifts)
-                
-            * [Travel Size & Mini](https://www.ulta.com/shop/makeup/travel-size-makeup)
-                
-            * [Foundation Quiz](https://www.ulta.com/vba/foundation/)
-                
-            * [Mascara & Lash Quiz](https://www.ulta.com/vba/mascara/)
-                
-            * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=makeup)
-                
-            * [Makeup Guides](https://www.ulta.com/discover/makeup)
                 
             
-            [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/award-winners-best-sellers-set-pimprod2047894?sku=2629605)
+        * [### Body Makeup](https://www.ulta.com/shop/makeup/body-makeup)
             
-            Tarte
+        * [### Makeup Palettes](https://www.ulta.com/shop/makeup/makeup-palettes)
             
-            New & exclusive! The Award Winners Best-Sellers Set
+        * [### Makeup Bags & Organizers](https://www.ulta.com/shop/makeup/makeup-bags-organizers)
             
-            [Shop now](https://www.ulta.com/p/award-winners-best-sellers-set-pimprod2047894?sku=2629605)
+        
+        Featured in Makeup & Nails
+        --------------------------
+        
+        * [Makeup & Nails on Sale](https://www.ulta.com/promotion/sale?category=makeup)
             
+        * [New in Makeup & Nails](https://www.ulta.com/shop/new-beauty-products?category=makeup)
+            
+        * [Luxury Makeup](https://www.ulta.com/shop/luxury-at-ulta-beauty/makeup)
+            
+        * [Ulta Beauty Collection](https://www.ulta.com/brand/ulta-beauty-collection?category=makeup)
+            
+        * [Makeup & Nail Gifts](https://www.ulta.com/shop/gifts/by-category/makeup-nail-gifts)
+            
+        * [Travel Size & Mini](https://www.ulta.com/shop/makeup/travel-size-makeup)
+            
+        * [Foundation Quiz](https://www.ulta.com/vba/foundation/)
+            
+        * [Mascara & Lash Quiz](https://www.ulta.com/vba/mascara/)
+            
+        * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=makeup)
+            
+        * [Makeup Guides](https://www.ulta.com/discover/makeup)
+            
+        
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/award-winners-best-sellers-set-pimprod2047894?sku=2629605)
+        
+        Tarte
+        
+        New & exclusive! The Award Winners Best-Sellers Set
+        
+        [Shop now](https://www.ulta.com/p/award-winners-best-sellers-set-pimprod2047894?sku=2629605)
         
     * Skin Care
         
-        * [All Skin Care](https://www.ulta.com/shop/skin-care)
+        [All Skin Care](https://www.ulta.com/shop/skin-care)
+        
+        * [### Cleansers](https://www.ulta.com/shop/skin-care/cleansers)
             
-            Cleansers
-            
-            * [All Cleansers](https://www.ulta.com/shop/skin-care/cleansers)
             * [Face Wash](https://www.ulta.com/shop/skin-care/cleansers/face-wash)
+                
             * [Cleansing Balms & Oils](https://www.ulta.com/shop/skin-care/cleansers/cleansing-balms-oils)
+                
             * [Face Wipes](https://www.ulta.com/shop/skin-care/cleansers/face-wipes)
+                
             * [Cleansing Exfoliators](https://www.ulta.com/shop/skin-care/cleansers/cleansing-exfoliators)
+                
             * [Toner](https://www.ulta.com/shop/skin-care/cleansers/toner)
+                
             * [Makeup Remover](https://www.ulta.com/shop/skin-care/cleansers/makeup-remover)
+                
             * [Cleansing Brushes](https://www.ulta.com/shop/tools-brushes/skincare-tools/cleansing-brushes)
-            * 
+                
             
-            Moisturizers
+        * [### Moisturizers](https://www.ulta.com/shop/skin-care/moisturizers)
             
-            * [All Moisturizers](https://www.ulta.com/shop/skin-care/moisturizers)
             * [Face Moisturizer](https://www.ulta.com/shop/skin-care/moisturizers/face-moisturizer)
+                
             * [Night Cream](https://www.ulta.com/shop/skin-care/moisturizers/night-cream)
+                
             * [Face Oils](https://www.ulta.com/shop/skin-care/moisturizers/face-oils)
+                
             * [Face Mists & Essences](https://www.ulta.com/shop/skin-care/moisturizers/face-mists-essences)
+                
             * [Neck Cream](https://www.ulta.com/shop/skin-care/moisturizers/neck-cream)
+                
             * [Tinted Moisturizer](https://www.ulta.com/shop/skin-care/moisturizers/tinted-moisturizer)
+                
             * [Lip Balms & Treatments](https://www.ulta.com/shop/makeup/lips/lip-balms-treatments)
+                
             
-            Eye Treatments
+        * [### Eye Treatments](https://www.ulta.com/shop/skin-care/eye-treatments)
             
-            * [All Eye Treatments](https://www.ulta.com/shop/skin-care/eye-treatments)
             * [Eye Cream](https://www.ulta.com/shop/skin-care/eye-treatments/eye-cream)
+                
             * [Eye Serums](https://www.ulta.com/shop/skin-care/eye-treatments/eye-serums)
+                
             * [Eye Masks](https://www.ulta.com/shop/skin-care/eye-treatments/eye-masks)
+                
             
-            Treatment & Serums
+        * [### Treatment & Serums](https://www.ulta.com/shop/skin-care/treatment-serums)
             
-            * [All Treatment & Serums](https://www.ulta.com/shop/skin-care/treatment-serums)
             * [Face Serums](https://www.ulta.com/shop/skin-care/treatment-serums/face-serums)
+                
             * [Face Peels & Exfoliators](https://www.ulta.com/shop/skin-care/treatment-serums/face-peels-exfoliators)
+                
             * [Face Masks](https://www.ulta.com/shop/skin-care/treatment-serums/face-masks)
+                
             * [Sheet Masks](https://www.ulta.com/shop/skin-care/treatment-serums/sheet-masks)
+                
             * [Acne & Blemish Treatments](https://www.ulta.com/shop/skin-care/treatment-serums/acne-blemish-treatments)
+                
             * [Body Treatments](https://www.ulta.com/shop/skin-care/treatment-serums/body-treatments)
+                
             
-            Suncare
+        * [### Suncare](https://www.ulta.com/shop/body-care/suncare)
             
-            * [All Suncare](https://www.ulta.com/shop/body-care/suncare)
             * [Sunscreen](https://www.ulta.com/shop/body-care/suncare/sunscreen)
+                
             * [Self-Tanning & Bronzing](https://www.ulta.com/shop/body-care/suncare/self-tanning-bronzing)
+                
             * [After Sun Care](https://www.ulta.com/shop/body-care/suncare/after-sun-care)
+                
             
-            Skincare Tools
+        * [### Skincare Tools](https://www.ulta.com/shop/tools-brushes/skincare-tools)
             
-            * [All Skincare Tools](https://www.ulta.com/shop/tools-brushes/skincare-tools)
             * [Cleansing Brushes](https://www.ulta.com/shop/tools-brushes/skincare-tools/cleansing-brushes)
+                
             * [Anti-Aging](https://www.ulta.com/shop/tools-brushes/skincare-tools/anti-aging)
+                
             * [Facial Rollers](https://www.ulta.com/shop/tools-brushes/skincare-tools/facial-rollers)
-            
-            [### Supplements](https://www.ulta.com/shop/body-care/self-care-wellness/supplements)
-            
-            Featured in Skin Care
-            ---------------------
-            
-            * [Skin Care on Sale](https://www.ulta.com/promotion/sale?category=skin-care)
-                
-            * [New in Skin Care](https://www.ulta.com/shop/new-beauty-products?category=skin-care)
-                
-            * [Luxury Skin Care](https://www.ulta.com/shop/luxury-at-ulta-beauty/skin-care)
-                
-            * [HSA/FSA Eligible](https://www.ulta.com/discover/skin/fsa-eligible-skincare-beauty)
-                
-            * [Dermatologist Recommended](https://www.ulta.com/shop/skin-care/dermatologist-recommended)
-                
-            * [Ulta Beauty Collection](https://www.ulta.com/brand/ulta-beauty-collection?category=skin-care)
-                
-            * [Skin Care Gifts](https://www.ulta.com/shop/gifts/by-category/skin-gifts)
-                
-            * [Travel Size & Mini](https://www.ulta.com/shop/skin-care/travel-size-skin-care)
-                
-            * [Skin Care Quiz](https://www.ulta.com/vba/skincare/)
-                
-            * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=skin-care)
-                
-            * [Skin Care Guides](https://www.ulta.com/discover/skin)
                 
             
-            [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/limited-edition-glass-skin-brilliance-kit-pimprod2046949?sku=2630181)
+        * [### Supplements](https://www.ulta.com/shop/body-care/self-care-wellness/supplements)
             
-            PEACH & LILY
+        
+        Featured in Skin Care
+        ---------------------
+        
+        * [Skin Care on Sale](https://www.ulta.com/promotion/sale?category=skin-care)
             
-            New & exclusive! Limited Edition Glass Skin Brilliance Kit
+        * [New in Skin Care](https://www.ulta.com/shop/new-beauty-products?category=skin-care)
             
-            [Shop now](https://www.ulta.com/p/limited-edition-glass-skin-brilliance-kit-pimprod2046949?sku=2630181)
+        * [Luxury Skin Care](https://www.ulta.com/shop/luxury-at-ulta-beauty/skin-care)
             
+        * [HSA/FSA Eligible](https://www.ulta.com/discover/skin/fsa-eligible-skincare-beauty)
+            
+        * [Dermatologist Recommended](https://www.ulta.com/shop/skin-care/dermatologist-recommended)
+            
+        * [Ulta Beauty Collection](https://www.ulta.com/brand/ulta-beauty-collection?category=skin-care)
+            
+        * [Skin Care Gifts](https://www.ulta.com/shop/gifts/by-category/skin-gifts)
+            
+        * [Travel Size & Mini](https://www.ulta.com/shop/skin-care/travel-size-skin-care)
+            
+        * [Skin Care Quiz](https://www.ulta.com/vba/skincare/)
+            
+        * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=skin-care)
+            
+        * [Skin Care Guides](https://www.ulta.com/discover/skin)
+            
+        
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/limited-edition-glass-skin-brilliance-kit-pimprod2046949?sku=2630181)
+        
+        PEACH & LILY
+        
+        New & exclusive! Limited Edition Glass Skin Brilliance Kit
+        
+        [Shop now](https://www.ulta.com/p/limited-edition-glass-skin-brilliance-kit-pimprod2046949?sku=2630181)
         
     * Hair Care
         
-        * [All Hair Care](https://www.ulta.com/shop/hair)
+        [All Hair Care](https://www.ulta.com/shop/hair)
+        
+        * [### Shampoo & Conditioner](https://www.ulta.com/shop/hair/shampoo-conditioner)
             
-            Shampoo & Conditioner
-            
-            * [All Shampoo & Conditioner](https://www.ulta.com/shop/hair/shampoo-conditioner)
             * [Shampoo](https://www.ulta.com/shop/hair/shampoo-conditioner/shampoo)
+                
             * [Dry Shampoo](https://www.ulta.com/shop/hair/shampoo-conditioner/dry-shampoo)
+                
             * [Conditioner](https://www.ulta.com/shop/hair/shampoo-conditioner/conditioner)
+                
             * [Co-Wash](https://www.ulta.com/shop/hair/shampoo-conditioner/co-wash)
+                
             * [Leave-In Conditioner](https://www.ulta.com/shop/hair/shampoo-conditioner/leave-in-conditioner)
+                
             
-            Treatment
+        * [### Treatment](https://www.ulta.com/shop/hair/treatment)
             
-            * [All Treatments](https://www.ulta.com/shop/hair/treatment)
             * [Oils & Serums](https://www.ulta.com/shop/hair/treatment/oils-serums)
+                
             * [Masks](https://www.ulta.com/shop/hair/treatment/masks)
+                
             * [Hair Thinning & Hair Loss](https://www.ulta.com/shop/hair/treatment/hair-thinning-hair-loss)
+                
             * [Leave-In Treatment](https://www.ulta.com/shop/hair/treatment/leave-in-treatment)
+                
             * [Scalp Care](https://www.ulta.com/shop/hair/treatment/scalp-care)
+                
             
-            Styling Products
+        * [### Styling Products](https://www.ulta.com/shop/hair/styling-products)
             
-            * [All Styling Products](https://www.ulta.com/shop/hair/styling-products)
             * [Hairspray](https://www.ulta.com/shop/hair/styling-products/hairspray)
+                
             * [Volume & Texture](https://www.ulta.com/shop/hair/styling-products/volume-texture)
+                
             * [Heat Protectant](https://www.ulta.com/shop/hair/styling-products/heat-protectant)
+                
             * [Gloss & Shine](https://www.ulta.com/shop/hair/styling-products/gloss-shine)
+                
             * [Smoothing](https://www.ulta.com/shop/hair/styling-products/smoothing)
+                
             * [Curl Enhancing](https://www.ulta.com/shop/hair/styling-products/curl-enhancing)
+                
             * [Wax & Pomade](https://www.ulta.com/shop/hair/styling-products/wax-pomade)
+                
             
-            Hair Color
+        * [### Hair Color](https://www.ulta.com/shop/hair/hair-color)
             
-            * [All Hair Color](https://www.ulta.com/shop/hair/hair-color)
             * [Root Touch Up](https://www.ulta.com/shop/hair/hair-color/root-touch-up)
+                
             * [Hair Color & Bleach](https://www.ulta.com/shop/hair/hair-color/hair-color-bleach)
+                
             * [Trend Color](https://www.ulta.com/shop/hair/hair-color/trend-color)
+                
             
-            Hair Styling Tools
+        * [### Hair Styling Tools](https://www.ulta.com/shop/tools-brushes/hair-styling-tools)
             
-            * [All Hair Styling Tools](https://www.ulta.com/shop/tools-brushes/hair-styling-tools)
             * [Flat Irons](https://www.ulta.com/shop/tools-brushes/hair-styling-tools/flat-irons)
+                
             * [Hair Dryers](https://www.ulta.com/shop/tools-brushes/hair-styling-tools/hair-dryers)
+                
             * [Curling Iron & Stylers](https://www.ulta.com/shop/tools-brushes/hair-styling-tools/curling-irons-stylers)
+                
             * [Hot Brushes](https://www.ulta.com/shop/tools-brushes/hair-styling-tools/hot-brushes)
+                
             * [Hair Rollers](https://www.ulta.com/shop/tools-brushes/hair-styling-tools/hair-rollers)
+                
             
-            Accessories
+        * [### Accessories](https://www.ulta.com/shop/tools-brushes/accessories)
             
-            * [All Accessories](https://www.ulta.com/shop/tools-brushes/accessories)
             * [Hair Extensions](https://www.ulta.com/shop/tools-brushes/accessories/hair-extensions)
+                
             * [Elastics](https://www.ulta.com/shop/tools-brushes/accessories/elastics)
+                
             * [Headbands](https://www.ulta.com/shop/tools-brushes/accessories/headbands)
+                
             * [Clips & Bobby Pins](https://www.ulta.com/shop/tools-brushes/accessories/clips-bobby-pins)
+                
             * [Hair Cutting Tools](https://www.ulta.com/shop/tools-brushes/accessories/hair-cutting-tools)
+                
             * [Styling Accessories](https://www.ulta.com/shop/tools-brushes/accessories/styling-accessories)
-            
-            [### Brushes & Combs](https://www.ulta.com/shop/hair/hair-brushes-combs)
-            
-            [### Kid's Haircare](https://www.ulta.com/shop/hair/kids-haircare)
-            
-            Featured in Hair Care
-            ---------------------
-            
-            * [Hair Care on Sale](https://www.ulta.com/promotion/sale?category=hair)
-                
-            * [New in Hair Care](https://www.ulta.com/shop/new-beauty-products?category=hair)
-                
-            * [Hair Care Gifts](https://www.ulta.com/shop/gifts/by-category/hair-gifts)
-                
-            * [Travel Size & Mini](https://www.ulta.com/shop/hair/travel-size-hair-care)
-                
-            * [Hair Quiz](https://www.ulta.com/vba/haircare/)
-                
-            * [Hair Goals](https://www.ulta.com/discover/hair/best-hair-products-to-hold-style-curls)
-                
-            * [Hair Style Try-On](https://www.ulta.com/innovation/experiences/hair/)
-                
-            * [Curly Textured Hair](https://www.ulta.com/discover/curly-textured-hair-products)
-                
-            * [Hair Tools Guide](https://www.ulta.com/discover/hair-tools)
-                
-            * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=hair)
-                
-            * [Hair Care Guides](https://www.ulta.com/discover/hair)
                 
             
-            [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/you-had-me-at-blowout-kit-pimprod2047686?sku=2630072)
+        * [### Brushes & Combs](https://www.ulta.com/shop/hair/hair-brushes-combs)
             
-            Drybar
+        * [### Kid's Haircare](https://www.ulta.com/shop/hair/kids-haircare)
             
-            You Had Me at Blowout Kit
+        
+        Featured in Hair Care
+        ---------------------
+        
+        * [Hair Care on Sale](https://www.ulta.com/promotion/sale?category=hair)
             
-            [Shop now](https://www.ulta.com/p/you-had-me-at-blowout-kit-pimprod2047686?sku=2630072)
+        * [New in Hair Care](https://www.ulta.com/shop/new-beauty-products?category=hair)
             
+        * [Hair Care Gifts](https://www.ulta.com/shop/gifts/by-category/hair-gifts)
+            
+        * [Travel Size & Mini](https://www.ulta.com/shop/hair/travel-size-hair-care)
+            
+        * [Hair Quiz](https://www.ulta.com/vba/haircare/)
+            
+        * [Hair Goals](https://www.ulta.com/discover/hair/best-hair-products-to-hold-style-curls)
+            
+        * [Hair Style Try-On](https://www.ulta.com/innovation/experiences/hair/)
+            
+        * [Curly Textured Hair](https://www.ulta.com/discover/curly-textured-hair-products)
+            
+        * [Hair Tools Guide](https://www.ulta.com/discover/hair-tools)
+            
+        * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=hair)
+            
+        * [Hair Care Guides](https://www.ulta.com/discover/hair)
+            
+        
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/you-had-me-at-blowout-kit-pimprod2047686?sku=2630072)
+        
+        Drybar
+        
+        You Had Me at Blowout Kit
+        
+        [Shop now](https://www.ulta.com/p/you-had-me-at-blowout-kit-pimprod2047686?sku=2630072)
         
     * Fragrance
         
-        * [All Fragrance](https://www.ulta.com/shop/fragrance)
+        [All Fragrance](https://www.ulta.com/shop/fragrance)
+        
+        * [### Women's Fragrance](https://www.ulta.com/shop/fragrance/womens-fragrance)
             
-            Women's Fragrance
-            
-            * [All Women's Fragrance](https://www.ulta.com/shop/fragrance/womens-fragrance)
             * [Perfume](https://www.ulta.com/shop/fragrance/womens-fragrance/perfume)
+                
             * [Rollerballs & Purse Spray](https://www.ulta.com/shop/fragrance/womens-fragrance/rollerballs-purse-sprays)
+                
             * [Body Lotions](https://www.ulta.com/shop/fragrance/womens-fragrance/body-lotions)
+                
             * [Body Mist & Hair Mist](https://www.ulta.com/shop/fragrance/womens-fragrance/body-mist-hair-mist)
+                
             * [Bath & Shower](https://www.ulta.com/shop/fragrance/womens-fragrance/bath-shower)
+                
             
-            Men's Fragrance
+        * [### Men's Fragrance](https://www.ulta.com/shop/fragrance/mens-fragrance)
             
-            * [All Men's Fragrance](https://www.ulta.com/shop/fragrance/mens-fragrance)
             * [Cologne](https://www.ulta.com/shop/men/cologne)
+                
             * [Aftershave](https://www.ulta.com/shop/men/shaving/aftershave)
+                
             * [Bath & Shower](https://www.ulta.com/shop/fragrance/mens-fragrance/bath-shower)
+                
             
-            Fragrance Gift Sets
+        * [### Fragrance Gift Sets](https://www.ulta.com/shop/fragrance/fragrance-gift-sets)
             
-            * [All Gift Sets](https://www.ulta.com/shop/fragrance/fragrance-gift-sets)
             * [Perfume Gift Sets](https://www.ulta.com/shop/fragrance/fragrance-gift-sets/perfume-gift-sets)
+                
             * [Cologne Gift Sets](https://www.ulta.com/shop/fragrance/fragrance-gift-sets/cologne-gift-sets)
-            
-            [### Candles & Home Fragrance](https://www.ulta.com/shop/fragrance/candles-home-fragrance)
-            
-            Featured in Fragrance
-            ---------------------
-            
-            * [Fragrance on Sale](https://www.ulta.com/promotion/sale?category=fragrance)
-                
-            * [New in Fragrance](https://www.ulta.com/shop/new-beauty-products?category=fragrance)
-                
-            * [Luxury Fragrance](https://www.ulta.com/shop/luxury-at-ulta-beauty/fragrance)
-                
-            * [Travel Size & Mini](https://www.ulta.com/shop/fragrance/travel-size-fragrance)
-                
-            * [Fragrance Finder](https://www.ulta.com/discover/fragrance-finder)
-                
-            * [Fragrance Crush](https://www.ulta.com/discover/fragrance-perfume-crush)
                 
             
-            [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/vault-collection-pimprod2048025?sku=2631803)
+        * [### Candles & Home Fragrance](https://www.ulta.com/shop/fragrance/candles-home-fragrance)
             
-            Ariana Grande
+        
+        Featured in Fragrance
+        ---------------------
+        
+        * [Fragrance on Sale](https://www.ulta.com/promotion/sale?category=fragrance)
             
-            Online only & exclusive! Vault Collection
+        * [New in Fragrance](https://www.ulta.com/shop/new-beauty-products?category=fragrance)
             
-            [Shop now](https://www.ulta.com/p/vault-collection-pimprod2048025?sku=2631803)
+        * [Luxury Fragrance](https://www.ulta.com/shop/luxury-at-ulta-beauty/fragrance)
             
+        * [Travel Size & Mini](https://www.ulta.com/shop/fragrance/travel-size-fragrance)
+            
+        * [Fragrance Finder](https://www.ulta.com/discover/fragrance-finder)
+            
+        * [Fragrance Crush](https://www.ulta.com/discover/fragrance-perfume-crush)
+            
+        
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/vault-collection-pimprod2048025?sku=2631803)
+        
+        Ariana Grande
+        
+        Online only & exclusive! Vault Collection
+        
+        [Shop now](https://www.ulta.com/p/vault-collection-pimprod2048025?sku=2631803)
         
     * Body Care
         
-        * [All Body Care](https://www.ulta.com/shop/body-care)
+        [All Body Care](https://www.ulta.com/shop/body-care)
+        
+        * [### Bath & Shower](https://www.ulta.com/shop/body-care/bath-shower)
             
-            Bath & Shower
-            
-            * [All Bath & Shower](https://www.ulta.com/shop/body-care/bath-shower)
             * [Shower Gel & Body Wash](https://www.ulta.com/shop/body-care/bath-shower/shower-gel-body-wash)
+                
             * [Body Scrubs & Exfoliants](https://www.ulta.com/shop/body-care/bath-shower/body-scrubs-exfoliants)
+                
             * [Bubble Bath & Soaks](https://www.ulta.com/shop/body-care/bath-shower/bubble-bath-soaks)
+                
             * [Bath Bombs & Shower Steamers](https://www.ulta.com/shop/body-care/bath-shower/bath-bombs-shower-steamers)
+                
             
-            Body Moisturizers
+        * [### Body Moisturizers](https://www.ulta.com/shop/body-care/body-moisturizers)
             
-            * [All Body Moisturizers](https://www.ulta.com/shop/body-care/body-moisturizers)
             * [Body Lotion & Creams](https://www.ulta.com/shop/body-care/body-moisturizers/body-lotion-creams)
+                
             * [Body Butters](https://www.ulta.com/shop/body-care/body-moisturizers/body-butters)
+                
             * [Body Serums & Oils](https://www.ulta.com/shop/body-care/body-moisturizers/body-serums-oils)
+                
             
-            Hand & Foot Care
+        * [### Hand & Foot Care](https://www.ulta.com/shop/body-care/hand-foot-care)
             
-            * [All Hand & Foot Care](https://www.ulta.com/shop/body-care/hand-foot-care)
             * [Hand Cream & Foot Cream](https://www.ulta.com/shop/body-care/hand-foot-care/hand-cream-foot-cream)
+                
             * [Hand & Foot Treatment](https://www.ulta.com/shop/body-care/hand-foot-care/hand-foot-treatment)
+                
             * [Manicure & Pedicure Tools](https://www.ulta.com/shop/makeup/nails/manicure-pedicure-tools)
+                
             * [Hand Soap & Sanitizers](https://www.ulta.com/shop/body-care/hand-foot-care/hand-soap-sanitizers)
+                
             
-            Suncare
+        * [### Suncare](https://www.ulta.com/shop/body-care/suncare)
             
-            * [All Sunscreen](https://www.ulta.com/shop/body-care/suncare)
             * [Sunscreen](https://www.ulta.com/shop/body-care/suncare/sunscreen)
+                
             * [Self Tanning & Bronzing](https://www.ulta.com/shop/body-care/suncare/self-tanning-bronzing)
+                
             * [After Sun Care](https://www.ulta.com/shop/body-care/suncare/after-sun-care)
+                
             
-            Self Care & Wellness
+        * [### Self Care & Wellness](https://www.ulta.com/shop/wellness-shop)
             
-            * [All Self Care & Wellness](https://www.ulta.com/shop/wellness-shop)
             * [Body Treatments](https://www.ulta.com/shop/skin-care/treatment-serums/body-treatments)
+                
             * [Supplements](https://www.ulta.com/shop/wellness-shop/supplements)
+                
             * [Aromatherapy](https://www.ulta.com/shop/wellness-shop/relax-renew/aromatherapy)
+                
             * [Deodorant](https://www.ulta.com/shop/wellness-shop/everyday-care/deodorant)
+                
             * [Hair Removal](https://www.ulta.com/shop/wellness-shop/everyday-care/hair-removal)
+                
             * [Oral Care](https://www.ulta.com/shop/wellness-shop/everyday-care/oral-care)
+                
             * [Sleep Essentials](https://www.ulta.com/shop/wellness-shop/relax-renew/sleep-essentials)
+                
             * [Spa Essentials](https://www.ulta.com/shop/wellness-shop/relax-renew/spa-essentials)
+                
             * [Down There Care](https://www.ulta.com/shop/wellness-shop/down-there-care)
+                
             * [Intimate Wellness](https://www.ulta.com/shop/wellness-shop/intimate-wellness)
+                
             
-            Bath & Body Accessories
+        * [### Bath & Body Accessories](https://www.ulta.com/shop/body-care/bath-body-accessories)
             
-            * [All Bath & Body Accessories](https://www.ulta.com/shop/body-care/bath-body-accessories)
             * [Bath Sponges, Gloves & Brushes](https://www.ulta.com/shop/body-care/bath-body-accessories/bath-sponges-gloves-brushes)
+                
             * [Hair Towels & Shower Caps](https://www.ulta.com/shop/body-care/bath-body-accessories/hair-towels-shower-caps)
+                
             * [Trend & Fashion Accessories](https://www.ulta.com/shop/body-care/bath-body-accessories/trend-fashion-accessories)
-            
-            [### Body Mist & Hair Mist](https://www.ulta.com/shop/body-care/body-mist-hair-mist)
-            
-            [### Mother & Baby](https://www.ulta.com/shop/body-care/mother-baby)
-            
-            Featured in Body Care
-            ---------------------
-            
-            * [Body Care on Sale](https://www.ulta.com/promotion/sale?category=body-care)
-                
-            * [New in Body Care](https://www.ulta.com/shop/new-beauty-products?category=body-care)
-                
-            * [HSA/FSA Eligible](https://www.ulta.com/discover/skin/fsa-eligible-skincare-beauty)
-                
-            * [Ulta Beauty Collection](https://www.ulta.com/brand/ulta-beauty-collection?category=body-care)
-                
-            * [Body Care Gifts](https://www.ulta.com/shop/gifts/by-category/body-care-gifts)
-                
-            * [Travel Size & Mini](https://www.ulta.com/shop/body-care/travel-size-body-care)
-                
-            * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=body-care)
                 
             
-            [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/12-days-of-beauty-advent-calendar-pimprod2048347?sku=2625109)
+        * [### Body Mist & Hair Mist](https://www.ulta.com/shop/body-care/body-mist-hair-mist)
             
-            JoyBright by Ulta Beauty
+        * [### Mother & Baby](https://www.ulta.com/shop/body-care/mother-baby)
             
-            New & exclusive! 12 Days of Beauty Advent Calendar
+        
+        Featured in Body Care
+        ---------------------
+        
+        * [Body Care on Sale](https://www.ulta.com/promotion/sale?category=body-care)
             
-            [Shop now](https://www.ulta.com/p/12-days-of-beauty-advent-calendar-pimprod2048347?sku=2625109)
+        * [New in Body Care](https://www.ulta.com/shop/new-beauty-products?category=body-care)
             
+        * [HSA/FSA Eligible](https://www.ulta.com/discover/skin/fsa-eligible-skincare-beauty)
+            
+        * [Ulta Beauty Collection](https://www.ulta.com/brand/ulta-beauty-collection?category=body-care)
+            
+        * [Body Care Gifts](https://www.ulta.com/shop/gifts/by-category/body-care-gifts)
+            
+        * [Travel Size & Mini](https://www.ulta.com/shop/body-care/travel-size-body-care)
+            
+        * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=body-care)
+            
+        
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/12-days-of-beauty-advent-calendar-pimprod2048347?sku=2625109)
+        
+        JoyBright by Ulta Beauty
+        
+        New & exclusive! 12 Days of Beauty Advent Calendar
+        
+        [Shop now](https://www.ulta.com/p/12-days-of-beauty-advent-calendar-pimprod2048347?sku=2625109)
         
     * Wellness
         
-        * [All Wellness Shop](https://www.ulta.com/shop/wellness-shop)
-            
-            Everyday Care
+        [All Wellness Shop](https://www.ulta.com/shop/wellness-shop)
+        
+        * [### Everyday Care](https://www.ulta.com/shop/wellness-shop/everyday-care)
             
             * [Body Treatments](https://www.ulta.com/shop/skin-care/treatment-serums/body-treatments)
+                
             * [Deodorant](https://www.ulta.com/shop/wellness-shop/everyday-care/deodorant)
+                
             * [Scalp Care](https://www.ulta.com/shop/hair/treatment/scalp-care)
+                
             * [Oral Care](https://www.ulta.com/shop/wellness-shop/everyday-care/oral-care)
+                
             * [Hair Removal](https://www.ulta.com/shop/wellness-shop/everyday-care/hair-removal)
+                
             
-            [### Supplements](https://www.ulta.com/shop/wellness-shop/supplements)
+        * [### Supplements](https://www.ulta.com/shop/wellness-shop/supplements)
             
-            Relax & Renew
+        * [### Relax & Renew](https://www.ulta.com/shop/wellness-shop/relax-renew)
             
             * [Aromatherapy](https://www.ulta.com/shop/wellness-shop/relax-renew/aromatherapy)
+                
             * [Sleep Essentials](https://www.ulta.com/shop/wellness-shop/relax-renew/sleep-essentials)
+                
             * [Spa Essentials](https://www.ulta.com/shop/wellness-shop/relax-renew/spa-essentials)
-            
-            [### Down There Care](https://www.ulta.com/shop/wellness-shop/down-there-care)
-            
-            [### Intimate Wellness](https://www.ulta.com/shop/wellness-shop/intimate-wellness)
-            
-            Featured in Wellness
-            --------------------
-            
-            * [Wellness on Sale](https://www.ulta.com/promotion/sale?category=wellness-shop)
                 
-            * [New in Wellness](https://www.ulta.com/shop/new-beauty-products?category=wellness-shop)
-                
-            * [HSA/FSA Eligible](https://www.ulta.com/discover/skin/fsa-eligible-skincare-beauty)
-                
+            
+        * [### Down There Care](https://www.ulta.com/shop/wellness-shop/down-there-care)
+            
+        * [### Intimate Wellness](https://www.ulta.com/shop/wellness-shop/intimate-wellness)
+            
+        
+        Featured in Wellness
+        --------------------
+        
+        * [Wellness on Sale](https://www.ulta.com/promotion/sale?category=wellness-shop)
+            
+        * [New in Wellness](https://www.ulta.com/shop/new-beauty-products?category=wellness-shop)
+            
+        * [HSA/FSA Eligible](https://www.ulta.com/discover/skin/fsa-eligible-skincare-beauty)
             
         
     * Tools & Brushes
         
-        * [All Tools & Brushes](https://www.ulta.com/shop/tools-brushes)
+        [All Tools & Brushes](https://www.ulta.com/shop/tools-brushes)
+        
+        * [### Hair Styling Tools](https://www.ulta.com/shop/tools-brushes/hair-styling-tools)
             
-            Hair Styling Tools
-            
-            * [All Hair Styling Tools](https://www.ulta.com/shop/tools-brushes/hair-styling-tools)
             * [Flat Irons](https://www.ulta.com/shop/tools-brushes/hair-styling-tools/flat-irons)
+                
             * [Hair Dryers](https://www.ulta.com/shop/tools-brushes/hair-styling-tools/hair-dryers)
+                
             * [Curling Irons & Stylers](https://www.ulta.com/shop/tools-brushes/hair-styling-tools/curling-irons-stylers)
+                
             * [Hot Brushes](https://www.ulta.com/shop/tools-brushes/hair-styling-tools/hot-brushes)
+                
             * [Hair Rollers](https://www.ulta.com/shop/tools-brushes/hair-styling-tools/hair-rollers)
+                
             
-            Skincare Tools
+        * [### Skincare Tools](https://www.ulta.com/shop/tools-brushes/skincare-tools)
             
-            * [All Skincare Tools](https://www.ulta.com/shop/tools-brushes/skincare-tools)
             * [Cleansing Brushes](https://www.ulta.com/shop/tools-brushes/skincare-tools/cleansing-brushes)
+                
             * [Anti-Aging](https://www.ulta.com/shop/tools-brushes/skincare-tools/anti-aging)
+                
             * [Facial Rollers](https://www.ulta.com/shop/tools-brushes/skincare-tools/facial-rollers)
+                
             
-            Makeup Brushes & Tools
+        * [### Makeup Brushes & Tools](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools)
             
-            * [All Makeup Brushes & Tools](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools)
             * [Brush Sets](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools/brush-sets)
+                
             * [Makeup Brushes](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools/makeup-brushes)
+                
             * [Sponges & Applicators](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools/sponges-applicators)
+                
             * [Brush Cleaner](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools/brush-cleaner)
+                
             * [Brow & Lash Tools](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools/brow-lash-tools)
+                
             * [Mirrors](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools/mirrors)
+                
             * [Blotting Papers](https://www.ulta.com/shop/tools-brushes/makeup-brushes-tools/blotting-papers)
+                
             
-            Accessories
+        * [### Accessories](https://www.ulta.com/shop/tools-brushes/accessories)
             
-            * [All Accessories](https://www.ulta.com/shop/tools-brushes/accessories)
             * [Hair Extensions](https://www.ulta.com/shop/tools-brushes/accessories/hair-extensions)
+                
             * [Elastics](https://www.ulta.com/shop/tools-brushes/accessories/elastics)
+                
             * [Headbands](https://www.ulta.com/shop/tools-brushes/accessories/headbands)
+                
             * [Clips & Bobby Pins](https://www.ulta.com/shop/tools-brushes/accessories/clips-bobby-pins)
+                
             * [Hair Cutting Tools](https://www.ulta.com/shop/tools-brushes/accessories/hair-cutting-tools)
+                
             * [Styling Accessories](https://www.ulta.com/shop/tools-brushes/accessories/styling-accessories)
-            
-            [### Hair Removal Tools](https://www.ulta.com/shop/tools-brushes/hair-removal-tools)
-            
-            [### Hair Brushes & Combs](https://www.ulta.com/shop/hair/hair-brushes-combs)
-            
-            Featured in Tools & Brushes
-            ---------------------------
-            
-            * [Tools & Brushes on Sale](https://www.ulta.com/promotion/sale?category=tools-brushes)
-                
-            * [New in Tools & Brushes](https://www.ulta.com/shop/new-beauty-products?category=tools-brushes)
-                
-            * [Tool & Brush Gifts](https://www.ulta.com/shop/gifts/by-category/tool-brush-gifts)
-                
-            * [Hair Tools Guide](https://www.ulta.com/discover/hair-tools)
-                
-            * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=tools-brushes)
                 
             
-            [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/airlight-pro-hair-dryer-augmented-with-infrared-light-technology-pimprod2048810?sku=2631456)
+        * [### Hair Removal Tools](https://www.ulta.com/shop/tools-brushes/hair-removal-tools)
             
-            L'Oréal
-            
-            New & exclusive! Airlight Pro Dryer
-            
-            [Shop now](https://www.ulta.com/p/airlight-pro-hair-dryer-augmented-with-infrared-light-technology-pimprod2048810?sku=2631456)
+        * [### Hair Brushes & Combs](https://www.ulta.com/shop/hair/hair-brushes-combs)
             
         
+        Featured in Tools & Brushes
+        ---------------------------
+        
+        * [Tools & Brushes on Sale](https://www.ulta.com/promotion/sale?category=tools-brushes)
+            
+        * [New in Tools & Brushes](https://www.ulta.com/shop/new-beauty-products?category=tools-brushes)
+            
+        * [Tool & Brush Gifts](https://www.ulta.com/shop/gifts/by-category/tool-brush-gifts)
+            
+        * [Hair Tools Guide](https://www.ulta.com/discover/hair-tools)
+            
+        * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=tools-brushes)
+            
+        
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/airlight-pro-hair-dryer-augmented-with-infrared-light-technology-pimprod2048810?sku=2631456)
+        
+        L'Oréal
+        
+        New & exclusive! Airlight Pro Dryer
+        
+        [Shop now](https://www.ulta.com/p/airlight-pro-hair-dryer-augmented-with-infrared-light-technology-pimprod2048810?sku=2631456)
+        
     
-    Browse By
+    Browse By
     ---------
     
     * [Holiday Gift Guide](https://www.ulta.com/discover/lifestyle/best-holiday-gifts)
@@ -572,132 +705,154 @@ Free standard shipping on any $35 purchase
         
     * New Arrivals
         
-        * [All New Arrivals](https://www.ulta.com/shop/new-beauty-products)
+        [All New Arrivals](https://www.ulta.com/shop/new-beauty-products)
+        
+        * [### Makeup & Nails](https://www.ulta.com/shop/new-beauty-products?category=makeup)
             
-            [### Makeup & Nails](https://www.ulta.com/shop/new-beauty-products?category=makeup)
+        * [### Skin Care](https://www.ulta.com/shop/new-beauty-products?category=skin-care)
             
-            [### Skin Care](https://www.ulta.com/shop/new-beauty-products?category=skin-care)
+        * [### Hair](https://www.ulta.com/shop/new-beauty-products?category=hair)
             
-            [### Hair](https://www.ulta.com/shop/new-beauty-products?category=hair)
+        * [### Tools & Brushes](https://www.ulta.com/shop/new-beauty-products?category=tools-brushes)
             
-            [### Tools & Brushes](https://www.ulta.com/shop/new-beauty-products?category=tools-brushes)
+        * [### Fragrance](https://www.ulta.com/shop/new-beauty-products?category=fragrance)
             
-            [### Fragrance](https://www.ulta.com/shop/new-beauty-products?category=fragrance)
+        * [### Body Care](https://www.ulta.com/shop/new-beauty-products?category=body-care)
             
-            [### Body Care](https://www.ulta.com/shop/new-beauty-products?category=body-care)
+        * [### Men](https://www.ulta.com/shop/new-beauty-products?category=men)
             
-            [### Men](https://www.ulta.com/shop/new-beauty-products?category=men)
+        * [### Ulta Beauty Collection](https://www.ulta.com/shop/new-beauty-products?brand=ULTA+Beauty+Collection)
             
-            [### Ulta Beauty Collection](https://www.ulta.com/shop/new-beauty-products?brand=ULTA+Beauty+Collection)
-            
-            [### Gifts](https://www.ulta.com/shop/new-beauty-products?category=gifts)
+        * [### Gifts](https://www.ulta.com/shop/new-beauty-products?category=gifts)
             
         
     * Travel Size & Mini
         
-        * [All Travel Size & Mini](https://www.ulta.com/shop/travel-size-mini)
+        [All Travel Size & Mini](https://www.ulta.com/shop/travel-size-mini)
+        
+        * [### Makeup](https://www.ulta.com/shop/makeup/travel-size-makeup)
             
-            [### Makeup](https://www.ulta.com/shop/makeup/travel-size-makeup)
+        * [### Skin Care](https://www.ulta.com/shop/skin-care/travel-size-skin-care)
             
-            [### Skin Care](https://www.ulta.com/shop/skin-care/travel-size-skin-care)
+        * [### Hair](https://www.ulta.com/shop/hair/travel-size-hair-care)
             
-            [### Hair](https://www.ulta.com/shop/hair/travel-size-hair-care)
+        * [### Body Care](https://www.ulta.com/shop/body-care/travel-size-body-care)
             
-            [### Body Care](https://www.ulta.com/shop/body-care/travel-size-body-care)
+        * [### Fragrance](https://www.ulta.com/shop/fragrance/travel-size-fragrance)
             
-            [### Fragrance](https://www.ulta.com/shop/fragrance/travel-size-fragrance)
-            
-            [### Men's Care](https://www.ulta.com/shop/men/travel-size-mens-care)
+        * [### Men's Care](https://www.ulta.com/shop/men/travel-size-mens-care)
             
         
     * Gifts & Value Sets
         
-        * [All Gifts & Value Sets](https://www.ulta.com/shop/gifts)
+        [All Gifts & Value Sets](https://www.ulta.com/shop/gifts)
+        
+        * [### Holiday Gift Guide](https://www.ulta.com/discover/lifestyle/best-holiday-gifts)
             
-            [### Holiday Gift Guide](https://www.ulta.com/discover/lifestyle/best-holiday-gifts)
-            
-            By Category
+        * [### By Category](https://www.ulta.com/shop/gifts/by-category)
             
             * [Makeup & Nail Gifts](https://www.ulta.com/shop/gifts/by-category/makeup-nail-gifts)
+                
             * [Skin Care Gifts](https://www.ulta.com/shop/gifts/by-category/skin-gifts)
+                
             * [Hair Gifts](https://www.ulta.com/shop/gifts/by-category/hair-gifts)
+                
             * [Tools & Brush Gifts](https://www.ulta.com/shop/gifts/by-category/tool-brush-gifts)
+                
             * [Body Care Gifts](https://www.ulta.com/shop/gifts/by-category/body-care-gifts)
+                
             * [Fragrance Gifts](https://www.ulta.com/shop/gifts/by-category/fragrance-gifts)
+                
             * [Men's Gifts](https://www.ulta.com/shop/gifts/by-category/mens-gifts)
+                
             
-            By Price
+        * [### By Price](https://www.ulta.com/shop/gifts/by-price)
             
             * [$30 and Under](https://www.ulta.com/shop/gifts/by-price/30-under)
+                
             * [$50 and Under](https://www.ulta.com/shop/gifts/by-price/50-under)
+                
             * [$100 and Under](https://www.ulta.com/shop/gifts/by-price/100-under)
+                
             
-            [### Gift with Purchase](https://www.ulta.com/shop/gifts/gifts-with-purchase)
+        * [### Gift with Purchase](https://www.ulta.com/shop/gifts/gifts-with-purchase)
             
-            [### Gift Cards](https://www.ulta.com/guestservices/gift-cards)
+        * [### Gift Cards](https://www.ulta.com/guestservices/gift-cards)
             
         
     * Ulta Beauty Collection
         
-        * [All Ulta Beauty Collection](https://www.ulta.com/brand/ulta-beauty-collection)
+        [All Ulta Beauty Collection](https://www.ulta.com/brand/ulta-beauty-collection)
+        
+        * [### Makeup & Nails](https://www.ulta.com/brand/ulta-beauty-collection?category=makeup)
             
-            [### Makeup & Nails](https://www.ulta.com/brand/ulta-beauty-collection?category=makeup)
+        * [### Skin Care](https://www.ulta.com/brand/ulta-beauty-collection?category=skin-care)
             
-            [### Skin Care](https://www.ulta.com/brand/ulta-beauty-collection?category=skin-care)
+        * [### Suncare](https://www.ulta.com/brand/ulta-beauty-collection?category=skin-care-suncare)
             
-            [### Suncare](https://www.ulta.com/brand/ulta-beauty-collection?category=skin-care-suncare)
+        * [### Body Care](https://www.ulta.com/brand/ulta-beauty-collection?category=body-care)
             
-            [### Body Care](https://www.ulta.com/brand/ulta-beauty-collection?category=body-care)
+        * [### Candles](https://www.ulta.com/brand/ulta-beauty-collection?category=fragrance-candles-home-fragrance)
             
-            [### Candles](https://www.ulta.com/brand/ulta-beauty-collection?category=fragrance-candles-home-fragrance)
-            
-            [### Gifts & Value Sets](https://www.ulta.com/brand/ulta-beauty-collection?category=gifts)
+        * [### Gifts & Value Sets](https://www.ulta.com/brand/ulta-beauty-collection?category=gifts)
             
         
     * Luxury Beauty
         
-        * [Luxury at Ulta Beauty](https://www.ulta.com/shop/luxury-beauty)
+        [Luxury at Ulta Beauty](https://www.ulta.com/shop/luxury-beauty)
+        
+        * [### Luxury Makeup](https://www.ulta.com/shop/luxury-at-ulta-beauty/makeup)
             
-            [### Luxury Makeup](https://www.ulta.com/shop/luxury-at-ulta-beauty/makeup)
+        * [### Luxury Skin Care](https://www.ulta.com/shop/luxury-at-ulta-beauty/skin-care)
             
-            [### Luxury Skin Care](https://www.ulta.com/shop/luxury-at-ulta-beauty/skin-care)
-            
-            [### Luxury Fragrance](https://www.ulta.com/shop/luxury-at-ulta-beauty/fragrance)
+        * [### Luxury Fragrance](https://www.ulta.com/shop/luxury-at-ulta-beauty/fragrance)
             
         
     * Men's Care
         
-        * [All Men's Care](https://www.ulta.com/shop/men)
-            
-            Skin Care
+        [All Men's Care](https://www.ulta.com/shop/men)
+        
+        * [### Skin Care](https://www.ulta.com/shop/men/skin-care)
             
             * [Face Wash](https://www.ulta.com/shop/men/skin-care/face-wash)
+                
             * [Moisturizers & Treatments](https://www.ulta.com/shop/men/skin-care/moisturizers-treatments)
+                
             
-            Shaving
+        * [### Shaving](https://www.ulta.com/shop/men/shaving)
             
             * [Shaving Cream & Razors](https://www.ulta.com/shop/men/shaving/shaving-cream-razors)
+                
             * [Aftershave](https://www.ulta.com/shop/men/shaving/aftershave)
+                
             * [Beard Care](https://www.ulta.com/shop/men/shaving/beard-care)
+                
             
-            Body Care
+        * [### Body Care](https://www.ulta.com/shop/men/body-care)
             
             * [Shower Gel & Body Wash](https://www.ulta.com/shop/men/body-care/shower-gel-body-wash)
+                
             * [Body Lotion](https://www.ulta.com/shop/men/body-care/body-lotion)
+                
             * [Deodorant](https://www.ulta.com/shop/men/body-care/deodorant)
+                
             
-            Hair
+        * [### Hair](https://www.ulta.com/shop/men/hair)
             
             * [Shampoo](https://www.ulta.com/shop/men/hair/shampoo)
+                
             * [Conditioner](https://www.ulta.com/shop/men/hair/conditioner)
+                
             * [Hair Thinning & Hair Loss](https://www.ulta.com/shop/men/hair/hair-thinning-hair-loss)
+                
             * [Styling](https://www.ulta.com/shop/men/hair/styling)
+                
             
-            [### Cologne](https://www.ulta.com/shop/men/cologne)
+        * [### Cologne](https://www.ulta.com/shop/men/cologne)
             
-            [### Men's Gifts](https://www.ulta.com/shop/gifts/by-category/mens-gifts)
+        * [### Men's Gifts](https://www.ulta.com/shop/gifts/by-category/mens-gifts)
             
-            [### Travel Size & Mini](https://www.ulta.com/shop/men/travel-size-mens-care)
+        * [### Travel Size & Mini](https://www.ulta.com/shop/men/travel-size-mens-care)
             
         
     * [Gift Cards](https://www.ulta.com/guestservices/gift-cards)
@@ -717,7 +872,7 @@ Free standard shipping on any $35 purchase
     
 * New
     
-    [All New Arrivals
+    [All New Arrivals
     ----------------](https://www.ulta.com/shop/new-beauty-products)
     
     * [Makeup & Nails](https://www.ulta.com/shop/new-beauty-products?category=makeup)
@@ -743,7 +898,7 @@ Free standard shipping on any $35 purchase
     
 * Brands
     
-    [All Brands
+    [All Brands
     ----------](https://www.ulta.com/brand/all)
     
     * Featured Brands
@@ -865,7 +1020,7 @@ Free standard shipping on any $35 purchase
     
 * Sale
     
-    [Featured Deals
+    [Featured Deals
     --------------](https://www.ulta.com/promotion/all)
     
     * [Sale](https://www.ulta.com/promotion/sale)
@@ -879,59 +1034,59 @@ Free standard shipping on any $35 purchase
     
 * Discover
     
-    [Discover All
+    [Discover All
     ------------](https://www.ulta.com/discover/all)
     
     * Trends & Guides
         
         * [### Foundation Shade Finder](https://www.ulta.com/discover/shade-finder)
             
-            [### Makeup Obsession](https://www.ulta.com/discover/makeup/best-lip-products-guide)
+        * [### Makeup Obsession](https://www.ulta.com/discover/makeup/best-lip-products-guide)
             
-            [### Skinfatuation](https://www.ulta.com/discover/skin/best-face-serums)
+        * [### Skinfatuation](https://www.ulta.com/discover/skin/best-face-serums)
             
-            [### Fragrance Finder](https://www.ulta.com/discover/fragrance-finder)
+        * [### Fragrance Finder](https://www.ulta.com/discover/fragrance-finder)
             
-            [### Fragrance Crush](https://www.ulta.com/discover/fragrance-perfume-crush)
+        * [### Fragrance Crush](https://www.ulta.com/discover/fragrance-perfume-crush)
             
-            [### Hair Goals](https://www.ulta.com/discover/hair/best-hair-products-to-hold-style-curls)
+        * [### Hair Goals](https://www.ulta.com/discover/hair/best-hair-products-to-hold-style-curls)
             
-            [### Hair Tools Guide](https://www.ulta.com/discover/hair-tools)
+        * [### Hair Tools Guide](https://www.ulta.com/discover/hair-tools)
             
-            [### Curly Textured Hair](https://www.ulta.com/discover/hair/curly-textured-hair-products)
+        * [### Curly Textured Hair](https://www.ulta.com/discover/hair/curly-textured-hair-products)
             
         
     * Quizzes
         
         * [### Foundation Quiz](https://www.ulta.com/vba/foundation/)
             
-            [### Mascara & Lash Quiz](https://www.ulta.com/vba/mascara/)
+        * [### Mascara & Lash Quiz](https://www.ulta.com/vba/mascara/)
             
-            [### Skin Care Quiz](https://www.ulta.com/vba/skincare/)
+        * [### Skin Care Quiz](https://www.ulta.com/vba/skincare/)
             
-            [### Hair Care Quiz](https://www.ulta.com/vba/haircare/)
+        * [### Hair Care Quiz](https://www.ulta.com/vba/haircare/)
             
         
     * Virtual Tools
         
         * [### Makeup Try-On](https://www.ulta.com/discover/glamlab)
             
-            [### Hair Color & Style Try-On](https://www.ulta.com/innovation/experiences/hair/)
+        * [### Hair Color & Style Try-On](https://www.ulta.com/innovation/experiences/hair/)
             
         
     * Conscious Beauty
         
-        * [All Conscious Beauty](https://www.ulta.com/discover/conscious-beauty)
+        [All Conscious Beauty](https://www.ulta.com/discover/conscious-beauty)
+        
+        * [### Clean Ingredients](https://www.ulta.com/discover/conscious-beauty/clean-ingredients)
             
-            [### Clean Ingredients](https://www.ulta.com/discover/conscious-beauty/clean-ingredients)
+        * [### Cruelty Free](https://www.ulta.com/discover/conscious-beauty/cruelty-free)
             
-            [### Cruelty Free](https://www.ulta.com/discover/conscious-beauty/cruelty-free)
+        * [### Vegan](https://www.ulta.com/discover/conscious-beauty/vegan)
             
-            [### Vegan](https://www.ulta.com/discover/conscious-beauty/vegan)
+        * [### Sustainable Packaging](https://www.ulta.com/discover/conscious-beauty/sustainable-packaging)
             
-            [### Sustainable Packaging](https://www.ulta.com/discover/conscious-beauty/sustainable-packaging)
-            
-            [### Positive Impact](https://www.ulta.com/discover/conscious-beauty/give-back)
+        * [### Positive Impact](https://www.ulta.com/discover/conscious-beauty/give-back)
             
         
     * [Black-Owned & Founded](https://www.ulta.com/discover/black-owned-founded-beauty-brands)
@@ -940,15 +1095,15 @@ Free standard shipping on any $35 purchase
         
         Celebrating our diverse communities
         
-        * [All Beauty Without Limits](https://www.ulta.com/discover/beauty-without-limits)
+        [All Beauty Without Limits](https://www.ulta.com/discover/beauty-without-limits)
+        
+        * [### Pride](https://www.ulta.com/discover/beauty-without-limits/pride)
             
-            [### Pride](https://www.ulta.com/discover/beauty-without-limits/pride)
+        * [### Black Beauty](https://www.ulta.com/discover/beauty-without-limits/black-beauty)
             
-            [### Black Beauty](https://www.ulta.com/discover/beauty-without-limits/black-beauty)
+        * [### Latin Heritage](https://www.ulta.com/discover/beauty-without-limits/latino-hispanic-beauty)
             
-            [### Latin Heritage](https://www.ulta.com/discover/beauty-without-limits/latino-hispanic-beauty)
-            
-            [### AAPI-Owned & Founded](https://www.ulta.com/discover/beauty-without-limits/asian-pacific-american)
+        * [### AAPI-Owned & Founded](https://www.ulta.com/discover/beauty-without-limits/asian-pacific-american)
             
         
     * [SPARKED at Ulta Beauty
@@ -962,7 +1117,7 @@ Free standard shipping on any $35 purchase
     
 * Beauty Services
     
-    [All Beauty Services
+    [All Beauty Services
     -------------------](https://www.ulta.com/beautyservices/all)
     
     * [Hair Services](https://www.ulta.com/beautyservices/hair-salon)
@@ -977,6 +1132,9 @@ Free standard shipping on any $35 purchase
         
     
 * [Big Holiday Beauty Sale](https://www.ulta.com/promotion/big-holiday-beauty-sale)
+    
+
+* [](https://www.ulta.com/bag)
     
 
 * [Home](https://www.ulta.com/)
@@ -1232,13 +1390,6 @@ These Ulta Beauty Messenger Terms and Conditions are subject to change at any ti
 
 ![the possibilities are beautiful](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)
 
-Sign up for news and special offers.
-------------------------------------
-
-Receive emails or texts about our latest sales, new arrivals and special offers.
-
-[Sign up](https://www.ulta.com/email/sign-up)
-
 **Ulta Beauty Rewards™**
 ------------------------
 
@@ -1255,49 +1406,53 @@ Receive emails or texts about our latest sales, new arrivals and special offers.
 * [Manage my cardUltamateRewardsCreditCard](https://d.comenity.net/ultamaterewardscredit/)
     
 
-### Get Help
+**Get Help**
+------------
 
-[Track an Order](https://www.ulta.com/account/order-status)
+* [Track an Order](https://www.ulta.com/account/order-status)
+    
+* [Shipping and Delivery](https://www.ulta.com/guestservices/all#OrderTrackingShipping)
+    
+* [Returns](https://www.ulta.com/guestservices/all#Returns)
+    
+* [Gift Cards](https://www.ulta.com/guestservices/gift-cards)
+    
+* [Ways to Shop](https://www.ulta.com/guestservices/ways-to-shop/all)
+    
+* [Guest Services Center](https://www.ulta.com/guestservices/all)
+    
+* [Contact Us](https://www.ulta.com/guestservices/all#Contact_Us)
+    
+* [Product Submissions](https://www.ulta.com/guestservices/all#ProductSubmissions)
+    
+* [Product FAQ](https://www.ulta.com/product-faq/questions)
+    
+* Feedback
+    
 
-[Ways to Shop](https://www.ulta.com/guestservices/ways-to-shop/all)
+**Our Company**
+---------------
 
-[Shipping and Delivery](https://www.ulta.com/guestservices/all#OrderTrackingShipping)
-
-[Guest Services Center](https://www.ulta.com/guestservices/all)
-
-[Returns](https://www.ulta.com/guestservices/all#Returns)
-
-[Contact Us](https://www.ulta.com/guestservices/all#Contact_Us)
-
-[Product Submissions](https://www.ulta.com/guestservices/all#ProductSubmissions)
-
-[Gift Cards](https://www.ulta.com/guestservices/gift-cards)
-
-[Product FAQ](https://www.ulta.com/product-faq/questions)
-
-Feedback
-
-### Our Company
-
-[About Us](https://www.ulta.com/company/about-us)
-
-[Diversity, Equity & Inclusion](https://www.ulta.com/company/dei)
-
-[Affiliate Program](https://www.ulta.com/company/affiliate)
-
-[Careers](https://careers.ulta.com/careers/)
-
-[Supply Chain Transparency](https://www.ulta.com/company/supply-chain-transparency)
-
-[Investors](https://www.ulta.com/investor)
-
-[Prisma Ventures](https://www.ulta.com/company/prisma-ventures)
-
-[Corporate Responsibility](https://www.ulta.com/company/corporate-responsibility)
-
-[UB Media](https://www.ulta.com/company/ubmedia)
-
-[WA Health Privacy](https://www.ulta.com/company/privacy#16--washington-health-privacy-notice)
+* [About Us](https://www.ulta.com/company/about-us)
+    
+* [Diversity, Equity & Inclusion](https://www.ulta.com/company/dei)
+    
+* [Careers](https://careers.ulta.com/careers/)
+    
+* [Investors](https://www.ulta.com/investor)
+    
+* [Corporate Responsibility](https://www.ulta.com/company/corporate-responsibility)
+    
+* [Affiliate Program](https://www.ulta.com/company/affiliate)
+    
+* [Supply Chain Transparency](https://www.ulta.com/company/supply-chain-transparency)
+    
+* [Prisma Ventures](https://www.ulta.com/company/prisma-ventures)
+    
+* [UB Media](https://www.ulta.com/company/ubmedia)
+    
+* [WA Health Privacy](https://www.ulta.com/company/privacy#16--washington-health-privacy-notice)
+    
 
 **Social Media**
 ----------------
@@ -1319,10 +1474,21 @@ Feedback
 **Download the App**
 --------------------
 
-* [PlayStoreDownload the ULTA Beauty App from Google Play](https://play.google.com/store/apps/details?id=com.ulta&hl=en_IN&gl=US)
+* Scan the QR code with your mobile device.
+    
+    Q R Code
+    
+    [PlayStoreDownload the ULTA Beauty App from Google Play](https://play.google.com/store/apps/details?id=com.ulta&hl=en_IN&gl=US)
     
     [AppStoreDownload the ULTA Beauty App from the Apple Store](https://apps.apple.com/us/app/ulta-beauty-makeup-skincare/id561930308)
     
+
+Sign up for news and special offers.
+------------------------------------
+
+Receive emails or texts about our latest sales, new arrivals and special offers.
+
+[Sign up](https://www.ulta.com/email/sign-up)
 
 © Ulta Beauty, Inc. 2024
 
@@ -1331,3 +1497,5 @@ Feedback
 * [Privacy Policy](https://www.ulta.com/company/privacy)
 * [Terms & Conditions](https://www.ulta.com/company/terms-and-conditions)
 * [Accessibility](https://www.ulta.com/company/accessibility)
+
+Top
