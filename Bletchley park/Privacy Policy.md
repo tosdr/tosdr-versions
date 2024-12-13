@@ -334,7 +334,7 @@ The information you give us includes your name, address, email address and phone
 **3.2 Personal information we collect about you:  
 **We only collect information that’s necessary to carry out our business or to deliver our charitable objectives. The more ways you engage with us as an organisation, the more data we will require in order to provide the necessary services required. There are occasions where you can choose to not provide us with the information we require, but this will then impact the service we are able to provide.
 
-We may automatically collect information through our website or apps. In this privacy policy when we talk about our website we are referring to [https://www.bletchleypark.org.uk](https://www.bletchleypark.org.uk/) and when we talk about apps we are referring to those as owned by Bletchley Park Trust which you would have downloaded to your mobile device.
+We may automatically collect information through our website or apps. In this privacy policy when we talk about our website we are referring to [http://bletchleypark.org.uk](http://bletchleypark.org.uk/) and when we talk about apps we are referring to those as owned by Bletchley Park Trust which you would have downloaded to your mobile device.
 
 **3.3 Personal information we may receive from other sources:  
 **We obtain certain personal information about you from sources outside of our business. The personal information we receive from third party sources is as described in the two paragraphs above. The third parties that may send us personal information about you are as follows:
@@ -345,7 +345,7 @@ If you apply to work or volunteer at Bletchley Park Trust, we may receive inform
 Recruitment consultants who may provide information about you to us in relation to a potential job at Bletchley Park  
 Employers who may provide a reference on you to us
 
-We will use this information, and that which you supply to us directly, to process your application and to monitor recruitment statistics. If you are unsuccessful in your application we will keep your personal information for 6 months. For more information around what personal data (information) we will hold about you, how we collect it, and how we will use and may share information about you during the application process please see our [Data Protection Privacy Notice for Recruitment](https://bletchleypark.org.uk/privacy-policies/privacy-policy-recruitment/).
+We will use this information, and that which you supply to us directly, to process your application and to monitor recruitment statistics. If you are unsuccessful in your application we will keep your personal information for 6 months. For more information around what personal data (information) we will hold about you, how we collect it, and how we will use and may share information about you during the application process please see our [Data Protection Privacy Notice for Recruitment](http://bletchleypark.org.uk/privacy-policies/privacy-policy-recruitment/).
 
 If you are successful with your application, we will provide you with our privacy policy around your data whilst you are an employee or volunteer.
 
@@ -448,7 +448,7 @@ We will always try to seek consent from the parent or guardian of the child befo
 
 Bletchley Park Trust has compiled and maintains a Roll of Honour which aims to list all those worked in signals intelligence for the United Kingdom and Commonwealth countries during the Second World War.
 
-It is compiled from information including official sources, publications and information provided by veterans, friends and families. More information about who the Roll of Honour represents and the sources about that information can be found [here](https://bletchleypark.org.uk/our-story/bletchley-park-people/about-the-roll-of-honour).
+It is compiled from information including official sources, publications and information provided by veterans, friends and families. More information about who the Roll of Honour represents and the sources about that information can be found [here](http://bletchleypark.org.uk/our-story/bletchley-park-people/about-the-roll-of-honour).
 
 The majority of information contained within the Roll of Honour is not sufficiently detailed or structured for specific information about specific individuals to be readily accessible. Those records which include more detail about an individual’s wartime service and other relevant details will have been provided by the veterans themselves or their families. Many veterans produced written accounts of their experiences, which they or their families have sent to us, along with photos, copies of service records or other relevant documents. Where possible, Bletchley Park has interviewed the veteran and recorded their story.
 
@@ -476,7 +476,7 @@ We gratefully receive income from legacies. We may keep data you provide to us f
 
 You can opt out of your data being used in this way by emailing [\[email protected\]](https://www.bletchleypark.org.uk/cdn-cgi/l/email-protection). We respect anyone’s right to withdraw their consent from this form of electronic communication and once informed of a preference change, we will cease this form of contact. We are also registered with the Fundraising Regulator and use the Fundraising Preference Service, a service which allows people to opt out of fundraising communications from charities. We receive regular updates from the Fundraising Preference Service so if you opt out that way, we will remove you from our email, phone, text, and postal communications.
 
-We are committed to fundraising best practice and abide by the Fundraising Regulator’s key principles and behaviours of a fundraising organisation: to be legal, open, honest and respectful. We have a fundraising ethical policy which can be accessed [here](https://bletchleypark.org.uk/support-us/we-need-you). We undertake to comply with relevant law and regulations, including the Proceeds of Crime Act, Data Protection, Tax and Gift Aid legislation and Charity Commission guidance.
+We are committed to fundraising best practice and abide by the Fundraising Regulator’s key principles and behaviours of a fundraising organisation: to be legal, open, honest and respectful. We have a fundraising ethical policy which can be accessed [here](http://bletchleypark.org.uk/support-us/we-need-you). We undertake to comply with relevant law and regulations, including the Proceeds of Crime Act, Data Protection, Tax and Gift Aid legislation and Charity Commission guidance.
 
 **5.3 Where it is in your vital interest**   
 Where we have supplied you with any products, we may use your personal information to contact you if there are any urgent safety or product recall notices to communicate to you or where we otherwise reasonably believe that the processing of your personal information will prevent or reduce any potential harm to you. It is in your vital interests for us to use your personal information in this way.
@@ -646,7 +646,7 @@ If you would prefer to speak to us by phone, please call 01908 640404.
 
 [Tickets](https://bletchleypark.org.uk/book-now/) [Plan a Visit](https://bletchleypark.org.uk/plan-a-visit/) [Support](https://bletchleypark.org.uk/support-us/)
 
-[Contact / Find Us](https://bletchleypark.org.uk/contact-us/)
+[Contact / Find Us](http://bletchleypark.org.uk/contact-us/)
 
 The Mansion, Bletchley Park, Sherwood Drive, Bletchley, Milton Keynes, MK3 6EB
 
