@@ -4,8 +4,6 @@
 
 Learn More](https://reputation.com/resources/reports-research/the-definitive-report-on-modern-online-consumer-behavior/)
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAABIAQAAAAA/xdU8AAAAAnRSTlMAAHaTzTgAAAAoSURBVHja7cExAQAAAMKg9U9tCF+gAAAAAAAAAAAAAAAAAAAAAIDXAEPIAAHYY2qcAAAAAElFTkSuQmCC)
-
 ![](https://reputation.com/wp-content/uploads/2024/09/leaderboard-teal-wave-bg.png)
 
 * [LOGIN](https://app.reputation.com/auth)
@@ -15,9 +13,7 @@ Search for:
 
 * [Skip to main content](#main)
 
-[![Reputation Logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALAAAAAgAQAAAACaqs+wAAAAAnRSTlMAAHaTzTgAAAAPSURBVCjPY2AYBaNg+AIAAuAAAef8vJwAAAAASUVORK5CYII=)
-
-![Reputation Logo](https://reputation.com/wp-content/themes/reputation/dist/images/Reputation_Logo_Horizontal_Dark.svg)](https://reputation.com/ "Reputation")
+[![Reputation Logo](https://reputation.com/wp-content/themes/reputation/dist/images/Reputation_Logo_Horizontal_Dark.svg)](https://reputation.com/ "Reputation")
 
 * [Get a Demo](javascript:;)
 * Products
@@ -340,24 +336,12 @@ Liverpool, L3 9QJ
 CAYA Postbox 799114  
 96035 Bamberg
 
-* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
-    
-    ![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-x.svg)](https://twitter.com/Reputation_Com)
-* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
-    
-    ![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-facebook.svg)](https://www.facebook.com/profile.php?id=100064396375731)
-* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
-    
-    ![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-instagram.svg)](https://www.instagram.com/reputation_com/)
-* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
-    
-    ![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-youtube.svg)](https://www.youtube.com/channel/UCzgjQHzKoKoCHAXhRB45pfg/featured)
-* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
-    
-    ![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-linkedin.svg)](https://www.linkedin.com/company/reputation-com/)
-* [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQAAAAA3iMLMAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AgDQAAADAAAceqhY4AAAAASUVORK5CYII=)
-    
-    ![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-glassdoor.svg)](https://www.glassdoor.com/Overview/Working-at-Reputation-com-EI_IE224737.11,25.htm)
+* [![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-x.svg)](https://twitter.com/Reputation_Com)
+* [![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-facebook.svg)](https://www.facebook.com/profile.php?id=100064396375731)
+* [![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-instagram.svg)](https://www.instagram.com/reputation_com/)
+* [![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-youtube.svg)](https://www.youtube.com/channel/UCzgjQHzKoKoCHAXhRB45pfg/featured)
+* [![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-linkedin.svg)](https://www.linkedin.com/company/reputation-com/)
+* [![](https://reputation.com/wp-content/uploads/2024/09/website-social-icon-glassdoor.svg)](https://www.glassdoor.com/Overview/Working-at-Reputation-com-EI_IE224737.11,25.htm)
 
 Company
 -------
@@ -384,38 +368,14 @@ San Ramon, CA 94583 USA
 Newsletter
 ----------
 
-* ![DMA Member logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAkAQAAAAC2qrfEAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AYegAAALQAAV5xkL8AAAAASUVORK5CYII=)
-    
-    ![DMA Member logo](https://reputation.com/wp-content/uploads/2021/01/reputation.com120img-logo-footer-dma-member.jpg)
-    
-* ![HIPAA logo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFgAAAAkAQAAAAAlDsAjAAAAAnRSTlMAAHaTzTgAAAAOSURBVBjTY2AYBUMJAAABsAABh3DangAAAABJRU5ErkJggg==)
-    
-    ![HIPAA logo](https://reputation.com/wp-content/uploads/2018/05/img-logo-footer-hippa.jpg)
-    
-* ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAiAQAAAADjN23iAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2AYSQAAAO4AAabRhBYAAAAASUVORK5CYII=)
-    
-    ![](https://reputation.com/wp-content/uploads/2019/08/logo-footer-2019-Globee-Gold.png)
-    
-* ![Great Place to Work Certified](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADUAAABaAQAAAAAwPyNSAAAAAnRSTlMAAHaTzTgAAAAPSURBVCjPY2AYBaNg+AAAAtAAAY5f+AcAAAAASUVORK5CYII=)
-    
-    ![Great Place to Work Certified](https://reputation.com/wp-content/uploads/2024/10/reputation-great-place-to-work-cert-2024-25.png)
-    
-* ![Logo of the eHealthcare Leadership Awards, Winner 2019](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaAQAAAAAQ03yvAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIyCwQIABJIAASD4mxUAAAAASUVORK5CYII=)
-    
-    ![Logo of the eHealthcare Leadership Awards, Winner 2019](https://reputation.com/wp-content/uploads/2022/10/eHealthcare-leadership-awards.png)
-    
-* ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAArAQAAAADEODwqAAAAAnRSTlMAAHaTzTgAAAANSURBVBjTY2AYBUQDAAEtAAEJBmeRAAAAAElFTkSuQmCC)
-    
-    ![](https://reputation.com/wp-content/uploads/2019/08/logo-footer-SAAS-awards-finalist-2019.png)
-    
-* ![Logo for the Innovator Awards, 2019](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAnAQAAAABlXyY0AAAAAnRSTlMAAHaTzTgAAAANSURBVBjTY2AYBeQAAAE4AAHS1KfKAAAAAElFTkSuQmCC)
-    
-    ![Logo for the Innovator Awards, 2019](https://reputation.com/wp-content/uploads/2021/01/reputation.com565footer-logo-SF_Awards_badge.png)
-    
-* ![Google Build Premier Partner badge](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaAQAAAAAQ03yvAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIyCwQIABJIAASD4mxUAAAAASUVORK5CYII=)
-    
-    ![Google Build Premier Partner badge](https://reputation.com/wp-content/uploads/2023/08/GC-PP-Build-Outline-90.png)
-    
+* ![DMA Member logo](https://reputation.com/wp-content/uploads/2021/01/reputation.com120img-logo-footer-dma-member.jpg)
+* ![HIPAA logo](https://reputation.com/wp-content/uploads/2018/05/img-logo-footer-hippa.jpg)
+* ![](https://reputation.com/wp-content/uploads/2019/08/logo-footer-2019-Globee-Gold.png)
+* ![Great Place to Work Certified](https://reputation.com/wp-content/uploads/2024/10/reputation-great-place-to-work-cert-2024-25.png)
+* ![Logo of the eHealthcare Leadership Awards, Winner 2019](https://reputation.com/wp-content/uploads/2022/10/eHealthcare-leadership-awards.png)
+* ![](https://reputation.com/wp-content/uploads/2019/08/logo-footer-SAAS-awards-finalist-2019.png)
+* ![Logo for the Innovator Awards, 2019](https://reputation.com/wp-content/uploads/2021/01/reputation.com565footer-logo-SF_Awards_badge.png)
+* ![Google Build Premier Partner badge](https://reputation.com/wp-content/uploads/2023/08/GC-PP-Build-Outline-90.png)
 
 * [Legal](https://reputation.com/legal-information/)
 * [Privacy Notice](https://reputation.com/privacy-notice/)
