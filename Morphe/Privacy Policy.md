@@ -25,9 +25,9 @@ Privacy Policy
 
 [Skip to Content](#maincontent)
 
-#### Order by 12.22 for 12.24 delivery
+#### FREE shipping for U.S. orders over $35
 
-#### Order by 12.22 for 12.24 delivery
+#### FREE shipping for U.S. orders $35+
 
 * ![toggle mobile menu](//www.morphe.com/cdn/shop/t/936/assets/hamburger-icon-black.svg?v=37398962526372985731733212721)
 * ![Search](//www.morphe.com/cdn/shop/t/936/assets/search-icon-black.svg?v=109393770938569529511733212787)
