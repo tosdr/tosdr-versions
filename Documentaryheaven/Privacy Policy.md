@@ -128,39 +128,39 @@ Advertisement
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
-* [![Dispatches: The Killing Zone](/wp-content/thumbnails/481-100x70.png?x53432)
+* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
     
-    Dispatches: The Killing Zone
+    Objectified
     
-    While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
+    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 
 ###### Throwback Documentaries
 
-* [![Busted: The Citizens Guide to Surviving Police Encounters](/wp-content/thumbnails/181-100x70.png?x53432)
+* [![SWEET KISSES FROM MOMMY, The Gary Heffern story](/wp-content/thumbnails/6540-100x70.jpg?x53432)
     
-    Busted: The Citizens Guide to Surviving Police Encounters
+    SWEET KISSES FROM MOMMY, The Gary Heffern story
     
-    Most people don't know their basic constitutional rights, and those who do usually waive them in the face of police intimidation. Worse, police rely on people's fear and ignorance of the law to trick](https://documentaryheaven.com/busted-the-citizens-guide-to-surviving-police-encounters/ "Busted: The Citizens Guide to Surviving Police Encounters")
-* [![Architects of Control: Mass Control & The Future of Mankind](/wp-content/thumbnails/1654-100x70.jpg?x53432)
+    Veli-Matti Tervaniemi from Ivalo, Finland, was adopted to San Diego, california in the 50\`s. He was given a new name, Gary. Gary could not anticipate that his childhood turned into a nightmare. Docume](https://documentaryheaven.com/sweet-kisses-from-mommy-the-gary-heffern-story/ "SWEET KISSES FROM MOMMY, The Gary Heffern story")
+* [![The Rolling Stones: Gimme Shelter](/wp-content/thumbnails/5972-100x70.jpg?x53432)
     
-    Architects of Control: Mass Control & The Future of Mankind
+    The Rolling Stones: Gimme Shelter
     
-    "The real war is the war on consciousness. It's very important to always remember that ...Mind control is ubiquitous. It's almost a question of who is not mind controlled, as opposed to who is mind co](https://documentaryheaven.com/architects-of-control-mass-control-the-future-of-mankind/ "Architects of Control: Mass Control & The Future of Mankind")
-* [![Gunsmoke: USA](/wp-content/thumbnails/6844-100x70.jpg?x53432)
+    In December of 1969, four months after Woodstock, the Rolling Stones and Jefferson Airplane gave a free concert in Northern California, east of Oakland at Altamont Speedway. About 300,000 people came,](https://documentaryheaven.com/the-rolling-stones-gimme-shelter/ "The Rolling Stones: Gimme Shelter")
+* [![Arduino The Documentary](/wp-content/thumbnails/4780-100x70.jpg?x53432)
     
-    Gunsmoke: USA
+    Arduino The Documentary
     
-    An ongoing source of controversy in America, gun laws are increasingly polarizing the Southern states and Washington. In Arizona, Tea Party supporting, heavily armed, vigilante groups are taking over.](https://documentaryheaven.com/gunsmoke-usa/ "Gunsmoke: USA")
-* [![D Day to Berlin](/wp-content/thumbnails/6493-100x70.png?x53432)
+    Arduino, a small, open-source hardware microcontroller platform has been turning heads in it's flexibility as a prototyping platform for a dizzying array of applications, from oscillators to robots](https://documentaryheaven.com/arduino-the-documentary/ "Arduino The Documentary")
+* [![Groomed By The Islamic State](/wp-content/thumbnails/10006-100x70.jpg?x53432)
     
-    D Day to Berlin
+    Groomed By The Islamic State
     
-    From the moment that Allied forces established the first beachhead in Normandy on D-Day, the end of the war in Europe was in sight. But although many soldiers joked about being in ‘Berlin by Chri](https://documentaryheaven.com/d-day-to-berlin/ "D Day to Berlin")
-* [![Getting High On HIV Medication](/wp-content/thumbnails/8654-100x70.jpeg?x53432)
+    In February of this year (2015), three young schoolgirls from East London, aged between just 15 and 16 left their typical way of life and all comforts that go along with that in order to travel to Syr](https://documentaryheaven.com/groomed-by-islamic-state/ "Groomed By The Islamic State")
+* [![Natural Family Values](/wp-content/thumbnails/5834-100x70.jpg?x53432)
     
-    Getting High On HIV Medication
+    Natural Family Values
     
-    With most drugs there is a long pre established history of what the activity and effects of that drug is going to be like, this is not the case however with Efavirenz. Efavirenz are an antiretroviral](https://documentaryheaven.com/getting-high-on-hiv-medication/ "Getting High On HIV Medication")
+    Founded by Mormon polygamists, Kanab, Utah is a small, scenic western town facing new development and an influx of people from around the country who are moving into its quiet neighborhoods. In respon](https://documentaryheaven.com/natural-family-values/ "Natural Family Values")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
