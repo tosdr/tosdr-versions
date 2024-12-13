@@ -603,180 +603,212 @@ The University will only collect, use and disclose your Personal Information for
 
 What is personal information?
 
-1. Under the IP Act, Personal Information is information or an opinion, including information or an opinion forming part of a database, whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from that information or opinion.
+1. Personal Information is information or an opinion, whether true or not, and whether recorded in a material form or not, about an identified individual or an individual who is reasonably identifiable from the information or opinion.
 
 2. Typical examples of Personal Information that we collect include:
-    
-    1. name and contact information, such as addresses, email addresses, dates of birth, passport and licence details;
-    
-    2. financial information of staff members, such as payment and bank details, Tax File Number (TFN) and superannuation information;
-    
-    3. academic records, such assessment results and lecturer feedback;
-    
-    4. medical information including medical records and records of accidents, incidents and injuries, Medicare information, consultation and treatment notes, and records relating to compensation and rehabilitation, work and functional capacity; and
-    
-    5. employee information such as employment records, leave applications, personal development and training information, misconduct and disciplinary information.
-    
+
+1. name and contact information, such as addresses, email addresses, dates of birth;
+
+2. identification information, such as passport and licence details;
+
+3. financial information, such as payment and bank details, Tax File Number (TFN) and superannuation information;
+
+4. academic records, such as assessment results, lecturer feedback, and transcript information;
+
+5. medical information including medical records, records of accidents, incidents and injuries, Medicare information, consultation and treatment notes, and records relating to compensation and rehabilitation, work and functional capacity;
+
+6. employee information such as employment records, leave applications, personal development and training information, misconduct and disciplinary information;
+
+7. audio, photo, and audiovisual recordings of events and activities, such as lectures, campus security footage, and event photography; and
+
+8. usage, audit, logging and security monitoring information from Griffith wired or Wi-Fi networks, apps, and other online or digital services.
 
 3. This Statement sets out the particular Personal Information that is generally collected for the different categories of individuals who interact with the University.
 
-4. We may sometimes also collect and deal with specific types of Personal Information including Sensitive Information and Health Information under the privacy regulatory framework.
+4. We may sometimes also collect and deal with specific types of Personal Information, including Sensitive Information and Health Information, under the privacy regulatory framework.
 
 5. Sensitive Information may relate to your:
-    
-    1. racial or ethnic origin;
-    
-    2. political opinions or associations;
-    
-    3. religious or philosophical beliefs or affiliations;
-    4. professional or trade union membership;
-    
-    5. sexual orientation or practices;
-    
-    6. criminal record;
-    
-    7. health information; and
-    
-    8. genetic or biometric information.
-    
+
+1. racial or ethnic origin;
+
+2. political opinions or associations;
+
+3. religious or philosophical beliefs or affiliations;
+
+4. professional or trade association or union membership;
+
+5. sexual orientation or practices;
+
+6. criminal record;
+
+7. health information; and
+
+8. genetic information that is not health information;
+
+9. or biometric information that is to be used for the purpose of automated biometric verification or identification (or biometric templates).
 
 6. Health Information may include information or an opinion about your:
-    
-    1. health, including an illness, disability or injury;
-    
-    2. health services provided, to be provided, or your wishes about the future provision of health services;
-    
-    3. donation of body parts, organs or body substances; and
-    
-    4. genetic or biometric information.
-    
+
+1. health, including an illness, disability or injury;
+
+2. health services provided, to be provided, or your wishes about the future provision of health services;
+
+3. donation of body parts, organs or body substances; and
+
+4. genetic or biometric information.
 
 7. We will only collect, use and disclose Sensitive and Health information as authorised under the privacy regulatory framework.
 
-8. In relation to Health Information collected through the University Health and Medical Services, please also refer to the Health and Medical Services Privacy Policy.
+8. In relation to Health Information collected through the University Health and Medical Services, please also refer to the “I am accessing Health Services” notice below and the consent forms provided to you by the health service.
 
 How will my personal information be collected?
 
 We will only collect your Personal Information, as authorised under the privacy regulatory framework, where it is reasonably necessary for or directly related to one or more of the University’s functions or activities, such as teaching, research, community services and engagement activities.
 
 1. We collect your Personal Information in a variety of ways, including:
-    
-    1. if you provide it to us in writing, via the telephone, or in person;
-    
-    2. through our website, digital systems or assets, or related social media;
-    
-    3. through your in-person attendance on campus;
-    
-    4. through your interactions with University programs, systems or surveys
-    
-    5. through third parties, such as other educational institutions that you have been involved with,  various government agencies or event collaborators; and
-    6. from public sources of information, where available.
-    
+
+1. if you provide it to us in writing, via the telephone, or in person;
+2. through our website, digital systems or assets, or related social media (some of which is collected automatically via usage, audit, and security logging and cookies);
+
+3. through your in-person attendance on campus;
+
+4. through your interactions with University programs, systems or surveys;
+
+5. through third parties, such as other educational institutions that you have been involved with, various government agencies or event collaborators; and
+
+6. from public sources of information, where available.
+
 2. When we collect Personal Information directly from you, a Collection Notice may be provided which will set out:
-    
-    1. the purposes for collecting the information;
-    
-    2. any authorising law or court order that requires the collection; and
-    
-    3. if applicable, the details of any third party to whom your Personal Information is intended to be provided.
-    
+
+1. the purposes for collecting the information;
+
+2. any authorising law or court order that requires the collection; and
+
+3. if applicable, the details of any third party to whom your Personal Information is intended to be provided.
 
 How will my personal information be used and disclosed?
 
 1. The University will only use and disclose your Personal Information as authorised under the privacy regulatory framework.
 
 2. The University “uses” your Personal Information if it:
-    
-    1. manipulates, searches or otherwise deals with the information;
-    
-    2. takes your information into account in the making of a decision; or
-    
-    3. transfers your information from one department of the University that has particular functions to another department of the University that has different functions. (s.23(3) IPAct)
-    
 
-3. The University will only use your Personal Information for the purpose that it was collected (or a directly related purpose) unless you expressly or impliedly agree to the use of the information for another purpose, or the use is otherwise permitted under the IP Act.
+1. manipulates, searches or otherwise deals with the information;
 
-4. “Disclosure” of your Personal Information by the University to a third party occurs where:
-    
-    1. the third party does not already know the Personal Information, and is not in a position to be able to find it out;
-    
-    2. the University gives the third party your Personal Information, or places it in a position to be able to find it out; and
-    
-    3. the University ceases to have control over the third party in relation to who will know the Personal Information in the future. (s23(2) IP Act)
-    
+2. takes your information into account in the making of a decision; or
 
-5. We will not disclose your Personal Information unless it is authorised under the statutory framework, such as where:
-    
-    1. you have consented to disclosure (whether express or implied);
-    
-    2. you are reasonably likely to have been aware that it is the University’s usual practice to disclose that type of Personal Information to a relevant entity;
-    
-    3. disclosure is compelled or authorised by law (for example, a court order or subpoena, or a statutory obligation to disclose);
-    4. disclosure is necessary to lessen or prevent a serious threat to a person’s life, health, safety, or welfare, or to public health, safety or welfare; or
-    
-    5. where disclosure is necessary for investigation or enforcement of criminal matters or other law enforcement matters.
-    
+3. transfers your information from one department of the University that has particular functions to another department of the University that has different functions.
 
-We do not sell, trade, or rent your personal information to third parties for marketing purposes.
+3. The University will only use your Personal Information for the purpose that it was collected (or a related purpose) unless you expressly or impliedly agree to the use of the information for another purpose, or the use is otherwise permitted under the IP Act.
 
-How is my Personal Information stored and secured?
+4. Your personal information may be used for direct marketing in which Griffith reaches out to you with newsletters, invitations, and related materials;
+
+5. Your Personal Information may be used to optimise the security, reliability, and functionality of Griffith apps or services, such as through its use for testing of the apps or services;
+
+6. The University may use advanced processing methods, such as artificial intelligence, in the collection and use of personal information as part of office activities (such as the summation of meetings) and in accordance with [Australia’s Ethical AI Framework](https://www.industry.gov.au/publications/australias-artificial-intelligence-ethics-principles/australias-ai-ethics-principles).
+
+7. “Disclosure” of your Personal Information by the University to a third party occurs where:
+
+1. the third party does not already know the Personal Information, and is not in a position to be able to find it out;
+
+2. the University gives the third party your Personal Information, or places it in a position to be able to find it out; and
+
+3. the University ceases to have control over the third party in relation to who will know the Personal Information in the future.
+
+8. We will not disclose your Personal Information unless it is authorised under the statutory framework, such as where:
+
+1. you have consented to disclosure (whether express or implied);
+
+2. you are reasonably likely to have been aware that it is the University’s usual practice to disclose that type of Personal Information to a relevant entity;
+
+3. disclosure is compelled or authorised by law (for example, a court order or subpoena, or a statutory obligation to disclose);
+
+4. disclosure is necessary to lessen or prevent a serious threat to a person’s life, health, safety, or welfare, or to public health, safety or welfare; or
+
+5. where disclosure is necessary for investigation or enforcement of criminal matters or other law enforcement matters.
+
+We do not sell, trade, or rent your personal information to third parties for marketing purposes. If we contact you for direct marketing purposes, we will also offer the option for you to unsubscribe from the marketing materials.
+
+How is my Personal Information stored and secured? For how long?
 
 The University takes steps to protect your Personal Information from misuse, interference and loss, as well as unauthorised access, modification or disclosure. We use physical, administrative, and technical measures in accordance with our Information Security Policy to safeguard your Personal Information as follows:
 
 1. Personal Information held by us is often stored in our digital systems (hosted on and off-site), including student management information systems, HR management systems, Customer and Relationship Management (CRM) systems, finance systems, library systems and records management systems;
 
-2. The University implements a range of measures and controls to ensure that your Personal Information is kept secure including swipe card access, system access controls, file level security and multifactor digital authentication;
+2. The University implements a range of measures and controls to ensure that your Personal Information is kept secure including swipe card access, system access controls, file level security, multifactor digital authentication, and endpoint detection;
 
 3. Personal Information will be retained as long as necessary to fulfil the purposes we collected it for, including to satisfy any legal, contractual, accounting, or reporting requirements;
 
-4. Personal Information is retained and disposed of according to the provisions of the relevant records disposal authority approved by the Queensland State Archives and the University Sector Retention and Disposal Schedule under the Public Records Act 2002 (Qld )
+4. Personal Information is retained and disposed of according to the provisions of the relevant records disposal authority approved by the Queensland State Archives and the University Sector Retention and Disposal Schedule under the Public Records Act 2023.
 
-Will my Personal Information be disclosed overseas?
+Will my Personal Information be transferred overseas?
 
 In certain circumstances, the University may transfer your Personal Information outside of Australia (for example when the information is stored in the cloud by an overseas provider or if the University needs to send enrolment information to a partner University regarding an international exchange student).
 
 1. Before your information is disclosed to an overseas recipient, the University will take all reasonable steps to ensure that any overseas recipient will deal with Personal Information in a way that complies with the privacy regulatory framework.
-
 2. Given the wide-ranging activities of the University, it is not practical to list every circumstance or country where Personal Information may be transferred overseas. However, we note that:
-    
-    1. The University uses a number of cloud-based service systems which require backup/emergency services to be undertaken overseas;
-    
-    2. As part of our international programs, Personal Information may be sent to partner Universities or other organisations where students undertake international Work Integrated Learning. We may also send information to international recipients as part of our alumni and advancement services engaged with individuals who are overseas.
-    
 
-We refer specifically to disclosures of Personal Information of persons in the EEA under the GDPR above.
+1. The University uses a number of cloud-based service systems which require backup/emergency services to be undertaken overseas;
+
+2. As part of our international programs, Personal Information may be sent to partner Universities or other organisations where students undertake international Work Integrated Learning. We may also send information to international recipients as part of our recruitment, alumni and advancement services engaged with individuals who are overseas.
+
+3. We may send information overseas in order to obtain or maintain accreditations and meet other regulatory and compliance requirements.
+
+We refer specifically to disclosures of Personal Information of persons in the EEA under the GDPR in the section titled “I am in the European Economic Area”.
 
 Cookies and Analytics
 
 ### Use of cookies
 
-1. We use cookies (digital tracking and analytics tools) on the University website and digital systems, call centres and email.
+1. We use cookies (digital tracking and analytics tools) on the University website, digital systems, call centres and email.
 
 2. Cookies and local storage:
-    
-    1. re small strings of text that a website may place on your computer or device to store information;
-    
-    2. allow a website to access and use this stored information at a later time; and
-    
-    3. can only store information that is provided by the visitor, such as their IP address.
-    
+
+1. are small strings of text that a website may place on your computer or device to store information;
+
+2. allow a website to access and use this stored information at a later time; and
+
+3. store information visitor information, such as their IP address.
+
+4. examples of information collected by cookies includes:
+
+1. the number of visitors to the website;
+
+2. how visitors arrive at the website (for example, did they type in the address directly, follow a link from another webpage or ad, or arrive via a search engine?);
+
+3. the number of times each page is viewed and for how long;
+
+4. time and date of visit;
+
+5. geographical location of the visitor;
+
+6. information about what browser and operating system were used to view the website;
+7. information about whether the browser supports certain applications, such as Java and Flash; and
+
+8. the speed of the user’s internet connection.
 
 3. The University website and digital systems use cookies for:
-    
-    1. identifying unique visitors to the site - users are allocated a visitor number associated with their IP address which is held in a cookie on that computer or device;
-    
-    2. validating staff and/or students’ identity when they attempt to access a restricted part of the University website - a cookie is created in that computer or device's memory to improve the user-experience for subsequent times the user goes to access a restricted part of the website, such as student mail. The cookie contains the following information:
-        1. internal unique ID generated by the University; and
-        2. full name and email alias; and
-    
-    3. personalisation of your experience in our digital systems; and
-    
-    4. marketing communication purposes with Google, LinkedIn, Facebook and other third-party vendors - cookies allow the University to reach people who have previously visited our website so that we can provide tailored messages based on their University website interaction.
-    
 
-4. visitors can choose to accept or opt out of cookies in general by adjusting their browser settings. It’s important to note that occasionally, opting out of cookies can result in the loss of some website functionality.
-    1. for example, you may not be able to access a secure site such as the Griffith Portal;
-    2. it may also mean that you are prompted to verify your identity several times during a session on the University website or digital systems.
+1. identifying unique visitors to the site - users are allocated a visitor number associated with their IP address which is held in a cookie on that computer or device;
+
+2. validating staff and/or students’ identity when they attempt to access a restricted part of the University website - a cookie is created in that computer or device's memory to improve the user-experience for subsequent times the user goes to access a restricted part of the website, such as student mail. The cookie contains the following information:
+
+1. internal unique ID generated by the University; and
+
+2. full name and email alias;
+
+3. personalisation of your experience in our digital systems;
+
+4. security, control, and optimisation of the website; and
+
+5. marketing communication purposes with Google, LinkedIn, Facebook and other third-party vendors - cookies allow the University to reach people who have previously visited our website so that we can provide tailored messages based on their University website interaction.
+
+4. The information generated by cookies about your use of the website may be transmitted to and stored by servers located outside of Australia.
+
+5. Visitors can choose to accept or opt out of cookies in general by adjusting their browser settings. It’s important to note that occasionally, opting out of cookies can result in the loss of some website functionality.
+
+1. for example, you may not be able to access a secure site such as the Griffith Portal;
+
+2. it may also mean that you are prompted to verify your identity several times during a session on the University website or digital systems.
 
 ### Third-party analytics
 
@@ -793,43 +825,43 @@ Exercising your Rights
 
 How do I access and amend my personal information?
 
-The University is committed to providing you with straightforward procedures to access and amend to your Personal Information.
+1. You have the right to request access to the Personal Information that we hold about you and to request an amendment to your Personal Information if you believe the information is inaccurate, incomplete, out-of-date, or misleading. To obtain access to or amendment of your information, you can submit an administrative or formal request:
 
-1. You can:
-    
-    1. request access to the Personal Information that we hold about you; or
-    
-    2. request an amendment to your Personal Information if you believe the information is inaccurate, incomplete, out-of-date, or misleading.
-    
+1. Administrative requests are the simplest means to access or update your information. See the Administrative Access Request section of Griffith’s [Right to Information and Information Privacy](https://www.griffith.edu.au/about-griffith/corporate-governance/right-to-information) webpage for more information about the various ways administrative requests can be made.
 
-2. All requests should be directed to the University’s Privacy Officer—refer to the “Privacy Contacts” section of this Statement.
+2. A formal request for access to or amendment of your personal information should be directed to the University’s Privacy Officer (contact details below). The Personal Information Requests section of Griffith’s [Right to Information and Information Privacy](https://www.griffith.edu.au/about-griffith/corporate-governance/right-to-information) pages provides detailed guidance on how to submit a formal privacy request.
 
-3. We may refuse access to your Personal Information if:
-    
-    1. the University is authorised or required under an access law to refuse to give the access; or
-    
-    2. the document is expressly excluded from the operation of an access law.
-    
+3. Staff members can submit formal access or amendment requests via Service Now.
 
-4. If a request for your Personal Information is denied by the University, you can request an internal review, or seek external review by the Office of the Information Commissioner (OIC). See “Privacy Contacts” below for information on how to contact them.
+4. The Privacy Officer may respond with additional instructions to ensure your request is compliant with the applicable law or to assist in our ability to respond.
+
+2. We may refuse your request if:
+
+1. the University is authorised or required under an access law to refuse to give the access; or
+
+2. the document is expressly excluded from the operation of an access law.
+
+3. If a formal request for your Personal Information is denied by the University, you can request an internal review, or seek external review by the Office of the Information Commissioner (OIC). See “Privacy Contacts” below for information on how to contact them. The [Right to Information and Information Privacy](https://www.griffith.edu.au/about-griffith/corporate-governance/right-to-information) site provides additional information how disputing or appealing a decision.
+
+4. You may have additional rights regarding your Personal Information if your information is subject to other privacy laws. Individuals in the European Economic Area should refer to the “I am from the European Economic Area” section below. If you believe another jurisdiction’s laws may apply, you can submit your query to the Privacy Officer using the contact details below.
 
 How do I make a privacy complaint?
 
 We take privacy complaints seriously.
 
-1. If you believe your Personal Information has not been dealt with in accordance with the University Privacy Statement or relevant laws, you may make a complaint in writing to the University’s Privacy Officer.
+1. If you believe your Personal Information has not been dealt with in accordance with the University Privacy Statement or relevant laws, you may make a complaint in writing to the University’s Privacy Officer. Staff can submit written complaints via [Service Now](https://griffith.service-now.com/esc?id=sc_cat_item&table=sc_cat_item&sys_id=accc6ebe87d1521095fafcc97bbb35d0).
 
-2. If you do not agree with the decision of the Privacy Officer, you can request an internal review.
+2. The Privacy Officer may respond requesting additional information needed to respond to your complaint.
 
-3. You can also refer your complaint for independent mediation by the Office of the Information Commissioner without requesting an internal review if at least 45 business days have passed since the complaint was made to the Privacy Officer.
+3. If you do not agree with the decision of the Privacy Officer, you can request an internal review.
 
-4. See “Privacy Contacts” below for information on how to contact the Privacy Officer.
+4. You can also refer your complaint for independent mediation by the Office of the Information Commissioner without requesting an internal review if at least 45 business days have passed since the complaint was made to the Privacy Officer.
 
-#### **[Privacy Contacts](https://www.griffith.edu.au/about-griffith/corporate-governance/plans-publications/?external-uuid=81118fb2-bf31-4409-9f3b-0f7513e899af)**
+5. See “Privacy Contacts” below for information on how to contact the Privacy Officer and Office of the Information Commissioner.
 
 Can I stay anonymous or use a pseudonym?
 
-Only in limited circumstances. If you are a student or staff member, it is generally not possible for us to give you the option of anonymity or of using a pseudonym when dealing with us. The nature of our dealings with you and the Personal Information that we collect in order to properly carry out our functions will ordinarily require that it not be anonymous.
+Individuals are allowed to deal with public agencies anonymously (or with a pseudonym) unless it is impracticable to do so or where we are required by a law or court order to only deal with identified individuals. If you are a student or staff member, it is generally not possible for us to give you the option of anonymity or of using a pseudonym when dealing with us. The nature of our dealings with you and the Personal Information that Griffith collects in order to properly carry out its functions will ordinarily require that it not be anonymous.
 
 However, in limited circumstances it may be possible for a person to remain anonymous when making an enquiry or complaint with the University, for example, if you are a whistleblower under the Public Interest Disclosure Policy.
 
