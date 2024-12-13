@@ -2,9 +2,10 @@
 
 [![](/uploads/2024/11/TMCI-Logo_A-Step-Ahead_Color_RGB.png)](https://www.treace.com/)
 
-* [For Surgeons](javascript:void(0);)
+* [For Surgeons](https://www.lapiplasty.com/surgeons/)
 * [For Patients](https://www.lapiplasty.com/)
 * [Investors](https://investors.treace.com/)
+* [Labeling](https://www.lapiplasty.com/surgeons/labeling/)
 * [](#)
 
 [Education & Resources](https://www.treace.com/uploads/2024/11/M3349A_Education_&_Resources.pdf)
