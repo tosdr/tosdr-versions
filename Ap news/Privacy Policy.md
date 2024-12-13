@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Trump invites China's Xi to his inauguration even as he threatens massive tariffs on Beijing](https://apnews.com/article/china-xi-trump-inauguration-d654da01f90bf3bec071bb9890ffbd29)
-    * [Middle East latest: Israeli strikes in Gaza kill more than 50 people, including kids](https://apnews.com/article/israel-hamas-war-syria-news-12-december-2024-b17c7ab064079d80fd006ab9d058966b)
-    * [In Nigeria's lithium boom, many mines are illegal and children do much of the work](https://apnews.com/article/lithium-mining-energy-transition-child-labor-nigeria-africa-22155590dddf7ecc0b9fd55b221c6d9f)
+    * [Israeli strike in Gaza kills 25 people as US makes new push for a ceasefire](https://apnews.com/article/israel-palestinians-hamas-war-news-12-12-2024-a39e98286d8d270b6e81608a3d17fa4a)
+    * [American pilgrim imprisoned in Assad's Syria calls his release from prison a 'blessing'](https://apnews.com/article/syria-war-assad-news-12-12-2024-832bd669d118305bd773a26c29893207)
+    * [Ukraine's reformed military procurement agency drives the country's NATO ambitions](https://apnews.com/article/russia-ukraine-war-nato-reforms-military-procurement-f0483561c9d402697d7a67dd43ae844d)
     
     Newsletters
     
@@ -30,8 +30,8 @@ Menu
     
     TOP STORIES
     
-    * [Senate begins final push to expand Social Security benefits for millions of people](https://apnews.com/article/senate-social-security-bill-cc9ba7856c1517bc4c9f8cde050954af)
-    * [US Senate chaplain Barry Black hospitalized after brain bleed](https://apnews.com/article/senate-chaplain-hospitalized-barry-black-6405ed9ef7e4587f0a2656b82fa75163)
+    * [Back trouble and brain fog bothered suspect in UnitedHealthcare CEO killing, his posts show](https://apnews.com/article/luigi-mangione-back-surgery-mental-health-35086d2e01089f53db7b95e7b6c683e4)
+    * [Police say suspect in UnitedHealthcare CEO killing wasn't a client of the insurer](https://apnews.com/article/luigi-mangione-united-healthcare-ceo-d148fbdde498c3ea4cf768945889d7e7)
     * [McDonald's employee who called 911 in CEO's shooting is eligible for a reward, but it will take time](https://apnews.com/article/luigi-mangione-unitedhealthcare-ceo-reward-money-tips-c17b08531049edb381b954e6b876cfda)
     
     Newsletters
@@ -54,7 +54,7 @@ Menu
     
     * [Watchdog finds FBI intelligence missteps before Jan. 6 riot, but no undercover agents were present](https://apnews.com/article/justice-department-inspector-general-capitol-riot-jan-6-79c7ea02cf66c874f9201ae8e9294239)
     * [Highlights from Trump's interview with Time magazine](https://apnews.com/article/trump-time-riot-deportations-abortion-pardons-musk-b77c73a52401c3ebd463e2cbda8f1765)
-    * [McConnell absent from Senate on Thursday as he recovers from fall in Capitol](https://apnews.com/article/mitch-mcconnell-senate-fall-absent-gop-republican-43eb4c142f089fe5ce0c00f3b4e3c8aa)
+    * [Trump offers support for dockworkers union by saying ports shouldn't install more automated systems](https://apnews.com/article/trump-dockworkers-union-contract-trade-25b0f9922c8fb8c9b3c3c6ca56dadf47)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Juan Soto introduced by Mets at Citi Field after striking record $765 million, 15-year deal](https://apnews.com/article/juan-soto-mets-contract-c47a95f961a1348a0432d43ef30ccaf0)
-    * [Bill Belichick 'always wanted' to give college coaching a try. Now he will at North Carolina](https://apnews.com/article/north-carolina-bill-belichick-ac27d942da2cb40a0c282eb2786db593)
-    * [Wander Franco's sex abuse trial has been postponed 5 months](https://apnews.com/article/wander-franco-trial-mlb-rays-2cba7436c3dee91ecebea60773942abf)
+    * [The Rams get 4 field goals to beat the 49ers 12-6 in a sloppy game](https://apnews.com/article/rams-49ers-score-bb42079ea0a1e616882b898ff0f9bafd)
+    * [49ers LB De'Vondre Campbell refuses to enter game after losing his starting spot](https://apnews.com/article/49ers-devondre-campbell-491c04fdd5ab0fae7d3da2cb53012568)
+    * [To lure Juan Soto, Mets created a video of his statue outside Citi Field next to Tom Seaver's](https://apnews.com/article/juan-soto-mets-contract-c47a95f961a1348a0432d43ef30ccaf0)
     
     Newsletters
     
@@ -94,9 +94,9 @@ Menu
     
     TOP STORIES
     
+    * [‘The Bibi Files,’ with leaked Netanyahu footage, can't be seen in Israel. Israelis are finding ways](https://apnews.com/article/benjamin-netanyahu-israel-corruption-documentary-afd64fd31e9e3f0d2da11e1ef1acd6d8)
     * [In 'Nickel Boys,' striving for a new way to see](https://apnews.com/article/nickel-boys-ramell-ross-interview-74693d9bff8a9fed535003b8b52bb47e)
     * [Snoop Dogg and Dr. Dre's brotherhood is still strong after 30 years with new album 'Missionary'](https://apnews.com/article/snoop-dogg-dr-dre-sting-missionary-02886a64f978a27841a3a8f615d79bea)
-    * [3 men say in lawsuits that Sean ‘Diddy’ Combs drugged and sexually assaulted them](https://apnews.com/article/diddy-sean-combs-rape-lawsuit-dfc1afdb47d31effc297a2120a9f0d81)
     
 * [Business](https://apnews.com/business)
     
@@ -106,8 +106,8 @@ Menu
     
     TOP STORIES
     
-    * [US wholesale inflation accelerated in November in sign that some price pressures remain elevated](https://apnews.com/article/inflation-prices-economy-federal-reserve-interest-rates-1a2a3e332537b34b4d03c24d5281287f)
     * [Senate begins final push to expand Social Security benefits for millions of people](https://apnews.com/article/senate-social-security-bill-cc9ba7856c1517bc4c9f8cde050954af)
+    * [Trump offers support for dockworkers union by saying ports shouldn't install more automated systems](https://apnews.com/article/trump-dockworkers-union-contract-trade-25b0f9922c8fb8c9b3c3c6ca56dadf47)
     * [IRS recovers $4.7 billion in back taxes and braces for cuts with Trump and GOP in power](https://apnews.com/article/irs-tax-audits-treasury-werfel-transition-23aaacc9648a5d319eb23b5213ebe7bd)
     
 * [Science](https://apnews.com/science)
@@ -118,9 +118,9 @@ Menu
     
     TOP STORIES
     
-    * [Ancient genes pinpoint when humans and Neanderthals mixed and mingled](https://apnews.com/article/neanderthal-dna-gene-human-origins-africa-1c584991f8028979993315c6793048eb)
-    * [How to catch the Geminids, one of the strongest meteor showers of the year](https://apnews.com/article/how-to-watch-geminid-meteor-shower-0404b8c198028749bc6c95313e3f8ecf)
-    * [What are the benefits of weighted blankets? Here's what the science says](https://apnews.com/article/weighted-blankets-better-sleep-c84dae91049c7b9906e9de9408274c46)
+    * [Neandertales y humanos interactuaron hace unos 45.000 años, dicen científicos](https://apnews.com/article/neandertal-humano-ciencia-8da6a39617c144fa6efce2b019d5a99a)
+    * [Cómo observar las Gemínidas, una de las lluvias de meteoros más intensas del año](https://apnews.com/article/geminidas-lluvia-de-meteoros-observacion-17a0410e9781bc5c7c86398e95fc8cfe)
+    * [La NASA vuelve a retrasar los vuelos de astronautas a la Luna](https://apnews.com/article/nasa-luna-mision-tripulada-orbita-lunar-0f3c9149b352a8ecdeab4c424f088b42)
     
 * [Fact Check](https://apnews.com/ap-fact-check)
     
@@ -190,17 +190,17 @@ Menu
     
     TOP STORIES
     
+    * [Environmental groups condemn new laws threatening soybean restrictions in Brazil's Amazon](https://apnews.com/article/brazil-amazon-soy-moratorium-mato-grosso-deforestation-greenpeace-dfeb8b1e5cf48c7ea7bf881499c8f508)
     * [In Nigeria's lithium boom, many mines are illegal and children do much of the work](https://apnews.com/article/lithium-mining-energy-transition-child-labor-nigeria-africa-22155590dddf7ecc0b9fd55b221c6d9f)
     * [Brazilian beef and leather companies fall short in tackling deforestation, a study finds](https://apnews.com/article/brazil-amazon-deforestation-beef-climate-e3e805d2b25d4b7c561eae49ffee1863)
-    * [Chinese gold mining threatens a protected UN heritage site in Congo](https://apnews.com/article/congo-world-heritage-site-gold-mining-china-5e9499fd939c3c2d798a6165f3fc487b)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [Algunas pacientes de cáncer de mama podrían evitar ciertas cirugías, sugieren estudios](https://apnews.com/article/pacientes-cancer-mama-carcinoma-intraductal-743fbde12792891e3a7af800c86d84f7)
     * [Some breast cancer patients can avoid certain surgeries, studies suggest](https://apnews.com/article/breast-cancer-treatment-surgery-dcis-lymph-nodes-983e2835a4ecd1f90f53105a5bab4bb9)
     * [More beans and less red meat: Nutrition experts weigh in on US dietary guidelines](https://apnews.com/article/usda-hhs-dietary-guidelines-d6a9c6f0554f279497acb5714b3032b9)
-    * [US health panel adds self-testing option for cervical cancer screening](https://apnews.com/article/cervical-cancer-pap-test-hpv-4fca6f6072531a976a27cf369878fb59)
     * [America is trying to fix its maternal mortality crisis with federal, state and local programs](https://apnews.com/article/maternal-mortality-healthy-start-oklahoma-california-new-york-city-0aa1fa2a141ef82607026b384cc14af7)
     * [Europe offers clues for solving America's maternal mortality crisis](https://apnews.com/article/maternal-mortality-rate-us-global-deaths-norway-211218f769e9a5a6e856a485fb31aef3)
     * [Rural communities of color across the US find new ways to get the health care they need](https://apnews.com/article/rural-health-disparities-hospitals-closing-medicaid-961564a03a264812ce60006e416bd3ca)
@@ -225,9 +225,9 @@ Menu
     
     TOP STORIES
     
+    * [Greece's only miniature therapy horses bring joy to many, but their charity is struggling](https://apnews.com/article/greece-miniature-horses-pet-therapy-hospitals-06cf8c8fe9f515c6a15ea636c2f22fad)
+    * [This hospital in Venezuela restores discarded toys for another round of love](https://apnews.com/article/venezuela-soft-toys-holidays-christmas-26bc047d3c0eb352dd7c251a5013efc9)
     * [Chanel appoints designer Matthieu Blazy as new artistic director](https://apnews.com/article/chanel-designer-blazy-lagerfeld-382cdb8761153f7c74981535e36c0f50)
-    * [Louise Trotter is named creative director of Bottega Veneta, as Matthieu Blazy moves on](https://apnews.com/article/bottega-veneta-creative-director-trotter-3213b8c5070ecb8ed0c836caf140e505)
-    * [Nearly half of US teens are online 'constantly,' Pew report finds](https://apnews.com/article/teenagers-social-media-internet-pew-survey-02defc5b53dc4216da1efa63c82a30af)
     
 * [Religion](https://apnews.com/religion)
     
@@ -235,7 +235,7 @@ Menu
     
     * [Millions mark Mexico's Virgin of Guadalupe Day but calls for a truce in drug violence go unheeded](https://apnews.com/article/mexico-virgin-guadalupe-pilgrims-a834651291a20650426bff6486d7fcec)
     * [Black denomination upholds stance against same-sex marriage. A gay pastor in its ranks seeks change](https://apnews.com/article/black-church-ame-same-sex-marriage-lgbtq-1a9a4452fd860a8be10149db80d12853)
-    * [Pope calls for debt reduction for poorer countries to mark the Vatican's 2025 Jubilee Year](https://apnews.com/article/vatican-pope-debt-relief-jubilee-year-69a0baf34231291c9ac12833cd8c9119)
+    * [El papa pide una reducción de la deuda de los países pobres en el Jubileo Vaticano 2025](https://apnews.com/article/papa-deuda-jubileo-paises-vaticano-f0b569a266c2362278a53c26d9771876)
     
     Newsletters
     
@@ -249,11 +249,11 @@ Menu
     
     TOP STORIES
     
-    * [Ataque israelí en Gaza central mata al menos a 25 personas](https://apnews.com/article/israel-palestinos-gaza-hamas-6adb1b28c1cb9e33aaf06f3044e4756e)
-    * [El FBI debió obtener más inteligencia antes del disturbio en el Capitolio, dice órgano de control](https://apnews.com/article/asalto-capitolio-trump-fbi-9839ea1f6dc5bf0abc98cd68b07be0b9)
+    * [Destacado abogado de derechos humanos abandona Corte Penal Internacional por no procesar a Venezuela](https://apnews.com/article/venezuela-cpi-claudio-grossman-maduro-e9f88b398937eb39be06d986cc3b99f3)
+    * [Ataque israelí en Gaza central mata a por lo menos 25 personas](https://apnews.com/article/israel-palestinos-gaza-hamas-6adb1b28c1cb9e33aaf06f3044e4756e)
     * [Trump toca la campana de apertura en Wall Street; Time lo nombra Persona del Año](https://apnews.com/article/trump-time-persona-nyse-wallstreet-efc80efc0dbeb04c1f216f281028b207)
+    * [Hospital de Peluches lleva alegría a niños y adultos en Venezuela](https://apnews.com/article/hospital-peluches-juguetes-donacion-ninos-ancianos-venezuela-1fec95232746d2b94cf1b80539c981ca)
     * [La administración Biden realiza último esfuerzo diplomático por la estabilidad en Oriente Medio](https://apnews.com/article/eeuu-siria-israel-gaza-blinken-sullivan-e99bdcc33ec1e33e02faee18e391cf0f)
-    * [Estadounidense que cruzó a pie a Siria es liberado tras 7 meses detenido](https://apnews.com/article/siria-guerra-estadounidense-israel-iran-kurdos-462dd80e3cafa95d9ab88c206fa30460)
     
 * [Quizzes](https://apnews.com/quizzes)
     
@@ -414,9 +414,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Trump invites China's Xi to his inauguration even as he threatens massive tariffs on Beijing](https://apnews.com/article/china-xi-trump-inauguration-d654da01f90bf3bec071bb9890ffbd29)
-    * [Middle East latest: Israeli strikes in Gaza kill more than 50 people, including kids](https://apnews.com/article/israel-hamas-war-syria-news-12-december-2024-b17c7ab064079d80fd006ab9d058966b)
-    * [In Nigeria's lithium boom, many mines are illegal and children do much of the work](https://apnews.com/article/lithium-mining-energy-transition-child-labor-nigeria-africa-22155590dddf7ecc0b9fd55b221c6d9f)
+    * [Israeli strike in Gaza kills 25 people as US makes new push for a ceasefire](https://apnews.com/article/israel-palestinians-hamas-war-news-12-12-2024-a39e98286d8d270b6e81608a3d17fa4a)
+    * [American pilgrim imprisoned in Assad's Syria calls his release from prison a 'blessing'](https://apnews.com/article/syria-war-assad-news-12-12-2024-832bd669d118305bd773a26c29893207)
+    * [Ukraine's reformed military procurement agency drives the country's NATO ambitions](https://apnews.com/article/russia-ukraine-war-nato-reforms-military-procurement-f0483561c9d402697d7a67dd43ae844d)
     
     Newsletters
     
@@ -432,8 +432,8 @@ Submit Search
     
     TOP STORIES
     
-    * [Senate begins final push to expand Social Security benefits for millions of people](https://apnews.com/article/senate-social-security-bill-cc9ba7856c1517bc4c9f8cde050954af)
-    * [US Senate chaplain Barry Black hospitalized after brain bleed](https://apnews.com/article/senate-chaplain-hospitalized-barry-black-6405ed9ef7e4587f0a2656b82fa75163)
+    * [Back trouble and brain fog bothered suspect in UnitedHealthcare CEO killing, his posts show](https://apnews.com/article/luigi-mangione-back-surgery-mental-health-35086d2e01089f53db7b95e7b6c683e4)
+    * [Police say suspect in UnitedHealthcare CEO killing wasn't a client of the insurer](https://apnews.com/article/luigi-mangione-united-healthcare-ceo-d148fbdde498c3ea4cf768945889d7e7)
     * [McDonald's employee who called 911 in CEO's shooting is eligible for a reward, but it will take time](https://apnews.com/article/luigi-mangione-unitedhealthcare-ceo-reward-money-tips-c17b08531049edb381b954e6b876cfda)
     
     Newsletters
@@ -464,7 +464,7 @@ Submit Search
     
     * [Watchdog finds FBI intelligence missteps before Jan. 6 riot, but no undercover agents were present](https://apnews.com/article/justice-department-inspector-general-capitol-riot-jan-6-79c7ea02cf66c874f9201ae8e9294239)
     * [Highlights from Trump's interview with Time magazine](https://apnews.com/article/trump-time-riot-deportations-abortion-pardons-musk-b77c73a52401c3ebd463e2cbda8f1765)
-    * [McConnell absent from Senate on Thursday as he recovers from fall in Capitol](https://apnews.com/article/mitch-mcconnell-senate-fall-absent-gop-republican-43eb4c142f089fe5ce0c00f3b4e3c8aa)
+    * [Trump offers support for dockworkers union by saying ports shouldn't install more automated systems](https://apnews.com/article/trump-dockworkers-union-contract-trade-25b0f9922c8fb8c9b3c3c6ca56dadf47)
     
     Newsletters
     
@@ -492,9 +492,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Juan Soto introduced by Mets at Citi Field after striking record $765 million, 15-year deal](https://apnews.com/article/juan-soto-mets-contract-c47a95f961a1348a0432d43ef30ccaf0)
-    * [Bill Belichick 'always wanted' to give college coaching a try. Now he will at North Carolina](https://apnews.com/article/north-carolina-bill-belichick-ac27d942da2cb40a0c282eb2786db593)
-    * [Wander Franco's sex abuse trial has been postponed 5 months](https://apnews.com/article/wander-franco-trial-mlb-rays-2cba7436c3dee91ecebea60773942abf)
+    * [The Rams get 4 field goals to beat the 49ers 12-6 in a sloppy game](https://apnews.com/article/rams-49ers-score-bb42079ea0a1e616882b898ff0f9bafd)
+    * [49ers LB De'Vondre Campbell refuses to enter game after losing his starting spot](https://apnews.com/article/49ers-devondre-campbell-491c04fdd5ab0fae7d3da2cb53012568)
+    * [To lure Juan Soto, Mets created a video of his statue outside Citi Field next to Tom Seaver's](https://apnews.com/article/juan-soto-mets-contract-c47a95f961a1348a0432d43ef30ccaf0)
     
     Newsletters
     
@@ -521,9 +521,9 @@ Submit Search
     
     TOP STORIES
     
+    * [‘The Bibi Files,’ with leaked Netanyahu footage, can't be seen in Israel. Israelis are finding ways](https://apnews.com/article/benjamin-netanyahu-israel-corruption-documentary-afd64fd31e9e3f0d2da11e1ef1acd6d8)
     * [In 'Nickel Boys,' striving for a new way to see](https://apnews.com/article/nickel-boys-ramell-ross-interview-74693d9bff8a9fed535003b8b52bb47e)
     * [Snoop Dogg and Dr. Dre's brotherhood is still strong after 30 years with new album 'Missionary'](https://apnews.com/article/snoop-dogg-dr-dre-sting-missionary-02886a64f978a27841a3a8f615d79bea)
-    * [3 men say in lawsuits that Sean ‘Diddy’ Combs drugged and sexually assaulted them](https://apnews.com/article/diddy-sean-combs-rape-lawsuit-dfc1afdb47d31effc297a2120a9f0d81)
     
 * [Business](https://apnews.com/business)
     
@@ -538,8 +538,8 @@ Submit Search
     
     TOP STORIES
     
-    * [US wholesale inflation accelerated in November in sign that some price pressures remain elevated](https://apnews.com/article/inflation-prices-economy-federal-reserve-interest-rates-1a2a3e332537b34b4d03c24d5281287f)
     * [Senate begins final push to expand Social Security benefits for millions of people](https://apnews.com/article/senate-social-security-bill-cc9ba7856c1517bc4c9f8cde050954af)
+    * [Trump offers support for dockworkers union by saying ports shouldn't install more automated systems](https://apnews.com/article/trump-dockworkers-union-contract-trade-25b0f9922c8fb8c9b3c3c6ca56dadf47)
     * [IRS recovers $4.7 billion in back taxes and braces for cuts with Trump and GOP in power](https://apnews.com/article/irs-tax-audits-treasury-werfel-transition-23aaacc9648a5d319eb23b5213ebe7bd)
     
 * [Science](https://apnews.com/science)
@@ -556,9 +556,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Ancient genes pinpoint when humans and Neanderthals mixed and mingled](https://apnews.com/article/neanderthal-dna-gene-human-origins-africa-1c584991f8028979993315c6793048eb)
-    * [How to catch the Geminids, one of the strongest meteor showers of the year](https://apnews.com/article/how-to-watch-geminid-meteor-shower-0404b8c198028749bc6c95313e3f8ecf)
-    * [What are the benefits of weighted blankets? Here's what the science says](https://apnews.com/article/weighted-blankets-better-sleep-c84dae91049c7b9906e9de9408274c46)
+    * [Neandertales y humanos interactuaron hace unos 45.000 años, dicen científicos](https://apnews.com/article/neandertal-humano-ciencia-8da6a39617c144fa6efce2b019d5a99a)
+    * [Cómo observar las Gemínidas, una de las lluvias de meteoros más intensas del año](https://apnews.com/article/geminidas-lluvia-de-meteoros-observacion-17a0410e9781bc5c7c86398e95fc8cfe)
+    * [La NASA vuelve a retrasar los vuelos de astronautas a la Luna](https://apnews.com/article/nasa-luna-mision-tripulada-orbita-lunar-0f3c9149b352a8ecdeab4c424f088b42)
     
 * [Fact Check](https://apnews.com/ap-fact-check)
     
@@ -638,17 +638,17 @@ Submit Search
     
     TOP STORIES
     
+    * [Environmental groups condemn new laws threatening soybean restrictions in Brazil's Amazon](https://apnews.com/article/brazil-amazon-soy-moratorium-mato-grosso-deforestation-greenpeace-dfeb8b1e5cf48c7ea7bf881499c8f508)
     * [In Nigeria's lithium boom, many mines are illegal and children do much of the work](https://apnews.com/article/lithium-mining-energy-transition-child-labor-nigeria-africa-22155590dddf7ecc0b9fd55b221c6d9f)
     * [Brazilian beef and leather companies fall short in tackling deforestation, a study finds](https://apnews.com/article/brazil-amazon-deforestation-beef-climate-e3e805d2b25d4b7c561eae49ffee1863)
-    * [Chinese gold mining threatens a protected UN heritage site in Congo](https://apnews.com/article/congo-world-heritage-site-gold-mining-china-5e9499fd939c3c2d798a6165f3fc487b)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [Algunas pacientes de cáncer de mama podrían evitar ciertas cirugías, sugieren estudios](https://apnews.com/article/pacientes-cancer-mama-carcinoma-intraductal-743fbde12792891e3a7af800c86d84f7)
     * [Some breast cancer patients can avoid certain surgeries, studies suggest](https://apnews.com/article/breast-cancer-treatment-surgery-dcis-lymph-nodes-983e2835a4ecd1f90f53105a5bab4bb9)
     * [More beans and less red meat: Nutrition experts weigh in on US dietary guidelines](https://apnews.com/article/usda-hhs-dietary-guidelines-d6a9c6f0554f279497acb5714b3032b9)
-    * [US health panel adds self-testing option for cervical cancer screening](https://apnews.com/article/cervical-cancer-pap-test-hpv-4fca6f6072531a976a27cf369878fb59)
     * [America is trying to fix its maternal mortality crisis with federal, state and local programs](https://apnews.com/article/maternal-mortality-healthy-start-oklahoma-california-new-york-city-0aa1fa2a141ef82607026b384cc14af7)
     * [Europe offers clues for solving America's maternal mortality crisis](https://apnews.com/article/maternal-mortality-rate-us-global-deaths-norway-211218f769e9a5a6e856a485fb31aef3)
     * [Rural communities of color across the US find new ways to get the health care they need](https://apnews.com/article/rural-health-disparities-hospitals-closing-medicaid-961564a03a264812ce60006e416bd3ca)
@@ -684,9 +684,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Greece's only miniature therapy horses bring joy to many, but their charity is struggling](https://apnews.com/article/greece-miniature-horses-pet-therapy-hospitals-06cf8c8fe9f515c6a15ea636c2f22fad)
+    * [This hospital in Venezuela restores discarded toys for another round of love](https://apnews.com/article/venezuela-soft-toys-holidays-christmas-26bc047d3c0eb352dd7c251a5013efc9)
     * [Chanel appoints designer Matthieu Blazy as new artistic director](https://apnews.com/article/chanel-designer-blazy-lagerfeld-382cdb8761153f7c74981535e36c0f50)
-    * [Louise Trotter is named creative director of Bottega Veneta, as Matthieu Blazy moves on](https://apnews.com/article/bottega-veneta-creative-director-trotter-3213b8c5070ecb8ed0c836caf140e505)
-    * [Nearly half of US teens are online 'constantly,' Pew report finds](https://apnews.com/article/teenagers-social-media-internet-pew-survey-02defc5b53dc4216da1efa63c82a30af)
     
 * [Religion](https://apnews.com/religion)
     
@@ -694,7 +694,7 @@ Submit Search
     
     * [Millions mark Mexico's Virgin of Guadalupe Day but calls for a truce in drug violence go unheeded](https://apnews.com/article/mexico-virgin-guadalupe-pilgrims-a834651291a20650426bff6486d7fcec)
     * [Black denomination upholds stance against same-sex marriage. A gay pastor in its ranks seeks change](https://apnews.com/article/black-church-ame-same-sex-marriage-lgbtq-1a9a4452fd860a8be10149db80d12853)
-    * [Pope calls for debt reduction for poorer countries to mark the Vatican's 2025 Jubilee Year](https://apnews.com/article/vatican-pope-debt-relief-jubilee-year-69a0baf34231291c9ac12833cd8c9119)
+    * [El papa pide una reducción de la deuda de los países pobres en el Jubileo Vaticano 2025](https://apnews.com/article/papa-deuda-jubileo-paises-vaticano-f0b569a266c2362278a53c26d9771876)
     
     Newsletters
     
@@ -708,11 +708,11 @@ Submit Search
     
     TOP STORIES
     
-    * [Ataque israelí en Gaza central mata al menos a 25 personas](https://apnews.com/article/israel-palestinos-gaza-hamas-6adb1b28c1cb9e33aaf06f3044e4756e)
-    * [El FBI debió obtener más inteligencia antes del disturbio en el Capitolio, dice órgano de control](https://apnews.com/article/asalto-capitolio-trump-fbi-9839ea1f6dc5bf0abc98cd68b07be0b9)
+    * [Destacado abogado de derechos humanos abandona Corte Penal Internacional por no procesar a Venezuela](https://apnews.com/article/venezuela-cpi-claudio-grossman-maduro-e9f88b398937eb39be06d986cc3b99f3)
+    * [Ataque israelí en Gaza central mata a por lo menos 25 personas](https://apnews.com/article/israel-palestinos-gaza-hamas-6adb1b28c1cb9e33aaf06f3044e4756e)
     * [Trump toca la campana de apertura en Wall Street; Time lo nombra Persona del Año](https://apnews.com/article/trump-time-persona-nyse-wallstreet-efc80efc0dbeb04c1f216f281028b207)
+    * [Hospital de Peluches lleva alegría a niños y adultos en Venezuela](https://apnews.com/article/hospital-peluches-juguetes-donacion-ninos-ancianos-venezuela-1fec95232746d2b94cf1b80539c981ca)
     * [La administración Biden realiza último esfuerzo diplomático por la estabilidad en Oriente Medio](https://apnews.com/article/eeuu-siria-israel-gaza-blinken-sullivan-e99bdcc33ec1e33e02faee18e391cf0f)
-    * [Estadounidense que cruzó a pie a Siria es liberado tras 7 meses detenido](https://apnews.com/article/siria-guerra-estadounidense-israel-iran-kurdos-462dd80e3cafa95d9ab88c206fa30460)
     
 * [Quizzes](https://apnews.com/quizzes)
     
