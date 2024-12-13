@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Israeli strike in Gaza kills 25 people as US makes new push for a ceasefire](https://apnews.com/article/israel-palestinians-hamas-war-news-12-12-2024-a39e98286d8d270b6e81608a3d17fa4a)
-    * [American pilgrim imprisoned in Assad's Syria calls his release from prison a 'blessing'](https://apnews.com/article/syria-war-assad-news-12-12-2024-832bd669d118305bd773a26c29893207)
+    * [Russia targets Ukrainian infrastructure with a massive attack by cruise missiles and drones](https://apnews.com/article/russia-ukraine-war-aerial-attack-december-13-2024-801d7ba2438ea021d8568502f803bb3e)
     * [Ukraine's reformed military procurement agency drives the country's NATO ambitions](https://apnews.com/article/russia-ukraine-war-nato-reforms-military-procurement-f0483561c9d402697d7a67dd43ae844d)
+    * [Israeli strike in Gaza kills 25 people as US makes new push for a ceasefire](https://apnews.com/article/israel-palestinians-hamas-war-news-12-12-2024-a39e98286d8d270b6e81608a3d17fa4a)
     
     Newsletters
     
@@ -30,8 +30,8 @@ Menu
     
     TOP STORIES
     
+    * [A nonprofit leader, a social worker: Here are the stories of the people on Biden's clemency list](https://apnews.com/article/biden-pardons-clemency-544db0fcde540b5f56b202e0a4256a57)
     * [Back trouble and brain fog bothered suspect in UnitedHealthcare CEO killing, his posts show](https://apnews.com/article/luigi-mangione-back-surgery-mental-health-35086d2e01089f53db7b95e7b6c683e4)
-    * [Police say suspect in UnitedHealthcare CEO killing wasn't a client of the insurer](https://apnews.com/article/luigi-mangione-united-healthcare-ceo-d148fbdde498c3ea4cf768945889d7e7)
     * [McDonald's employee who called 911 in CEO's shooting is eligible for a reward, but it will take time](https://apnews.com/article/luigi-mangione-unitedhealthcare-ceo-reward-money-tips-c17b08531049edb381b954e6b876cfda)
     
     Newsletters
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
+    * [About 3 in 10 are highly confident in Trump on Cabinet, spending or military oversight: AP-NORC poll](https://apnews.com/article/trump-cabinet-administration-biden-poll-be16ac992769e9c4636854eee7999dfb)
     * [Watchdog finds FBI intelligence missteps before Jan. 6 riot, but no undercover agents were present](https://apnews.com/article/justice-department-inspector-general-capitol-riot-jan-6-79c7ea02cf66c874f9201ae8e9294239)
     * [Highlights from Trump's interview with Time magazine](https://apnews.com/article/trump-time-riot-deportations-abortion-pardons-musk-b77c73a52401c3ebd463e2cbda8f1765)
-    * [Trump offers support for dockworkers union by saying ports shouldn't install more automated systems](https://apnews.com/article/trump-dockworkers-union-contract-trade-25b0f9922c8fb8c9b3c3c6ca56dadf47)
     
     Newsletters
     
@@ -73,8 +73,8 @@ Menu
     TOP STORIES
     
     * [The Rams get 4 field goals to beat the 49ers 12-6 in a sloppy game](https://apnews.com/article/rams-49ers-score-bb42079ea0a1e616882b898ff0f9bafd)
-    * [49ers LB De'Vondre Campbell refuses to enter game after losing his starting spot](https://apnews.com/article/49ers-devondre-campbell-491c04fdd5ab0fae7d3da2cb53012568)
-    * [To lure Juan Soto, Mets created a video of his statue outside Citi Field next to Tom Seaver's](https://apnews.com/article/juan-soto-mets-contract-c47a95f961a1348a0432d43ef30ccaf0)
+    * [Win or lose at North Carolina, Bill Belichick's NFL legacy is already cemented: Analysis](https://apnews.com/article/belichick-brady-gronkowski-edelman-shula-b143bb77ccabea2647c6ba124230ff06)
+    * [More playing time? A fresh start? Extra cash? The transfer portal produces winners and losers](https://apnews.com/article/transfer-portal-gabriel-etienne-16beb9f80d4b613e53003148a8317c49)
     
     Newsletters
     
@@ -95,8 +95,8 @@ Menu
     TOP STORIES
     
     * [‘The Bibi Files,’ with leaked Netanyahu footage, can't be seen in Israel. Israelis are finding ways](https://apnews.com/article/benjamin-netanyahu-israel-corruption-documentary-afd64fd31e9e3f0d2da11e1ef1acd6d8)
+    * [AP Photos capture British royal family's year of illness and recovery](https://apnews.com/article/british-royals-king-charles-kate-2024-photos-43e51383f158c3c4907096cc5de79771)
     * [In 'Nickel Boys,' striving for a new way to see](https://apnews.com/article/nickel-boys-ramell-ross-interview-74693d9bff8a9fed535003b8b52bb47e)
-    * [Snoop Dogg and Dr. Dre's brotherhood is still strong after 30 years with new album 'Missionary'](https://apnews.com/article/snoop-dogg-dr-dre-sting-missionary-02886a64f978a27841a3a8f615d79bea)
     
 * [Business](https://apnews.com/business)
     
@@ -225,17 +225,17 @@ Menu
     
     TOP STORIES
     
+    * [Stanley recalls 2.6M switchback and trigger travel mugs due to possible burn hazard](https://apnews.com/article/stanley-mug-recall-walmart-amazon-target-08fed4ae4f3f9269285f0ae3cb77a3ab)
+    * [AP Photos capture British royal family's year of illness and recovery](https://apnews.com/article/british-royals-king-charles-kate-2024-photos-43e51383f158c3c4907096cc5de79771)
     * [Greece's only miniature therapy horses bring joy to many, but their charity is struggling](https://apnews.com/article/greece-miniature-horses-pet-therapy-hospitals-06cf8c8fe9f515c6a15ea636c2f22fad)
-    * [This hospital in Venezuela restores discarded toys for another round of love](https://apnews.com/article/venezuela-soft-toys-holidays-christmas-26bc047d3c0eb352dd7c251a5013efc9)
-    * [Chanel appoints designer Matthieu Blazy as new artistic director](https://apnews.com/article/chanel-designer-blazy-lagerfeld-382cdb8761153f7c74981535e36c0f50)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * ['Crown of Thorns' returns to Notre Dame cathedral for public veneration](https://apnews.com/article/notre-dame-france-relc-crown-of-thorns-f06a9d707663ebd407d78282530b3dd5)
     * [Millions mark Mexico's Virgin of Guadalupe Day but calls for a truce in drug violence go unheeded](https://apnews.com/article/mexico-virgin-guadalupe-pilgrims-a834651291a20650426bff6486d7fcec)
     * [Black denomination upholds stance against same-sex marriage. A gay pastor in its ranks seeks change](https://apnews.com/article/black-church-ame-same-sex-marriage-lgbtq-1a9a4452fd860a8be10149db80d12853)
-    * [Pope calls for debt reduction for poorer countries to mark the Vatican's 2025 Jubilee Year](https://apnews.com/article/vatican-pope-debt-relief-jubilee-year-69a0baf34231291c9ac12833cd8c9119)
     
     Newsletters
     
@@ -249,11 +249,11 @@ Menu
     
     TOP STORIES
     
+    * [Rusia ataca infraestructura ucraniana con ofensiva aérea masiva de misiles de crucero y drones](https://apnews.com/article/rusia-ucrania-guerra-ataque-aereo-e76ee46c05d8b5163db4250f98f69f12)
     * [Destacado abogado de derechos humanos abandona Corte Penal Internacional por no procesar a Venezuela](https://apnews.com/article/venezuela-cpi-claudio-grossman-maduro-e9f88b398937eb39be06d986cc3b99f3)
-    * [Ataque israelí en Gaza central mata a por lo menos 25 personas](https://apnews.com/article/israel-palestinos-gaza-hamas-6adb1b28c1cb9e33aaf06f3044e4756e)
-    * [Trump toca la campana de apertura en Wall Street; Time lo nombra Persona del Año](https://apnews.com/article/trump-time-persona-nyse-wallstreet-efc80efc0dbeb04c1f216f281028b207)
+    * [Macron nombra a su aliado centrista Bayrou nuevo primer ministro de Francia](https://apnews.com/article/francia-macron-primer-ministro-centrista-91f7595554fa288f3da17fa636e4c9f6)
     * [Hospital de Peluches lleva alegría a niños y adultos en Venezuela](https://apnews.com/article/hospital-peluches-juguetes-donacion-ninos-ancianos-venezuela-1fec95232746d2b94cf1b80539c981ca)
-    * [La administración Biden realiza último esfuerzo diplomático por la estabilidad en Oriente Medio](https://apnews.com/article/eeuu-siria-israel-gaza-blinken-sullivan-e99bdcc33ec1e33e02faee18e391cf0f)
+    * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-b6591d2677cbb7480197b763bfeea3b0)
     
 * [Quizzes](https://apnews.com/quizzes)
     
@@ -414,9 +414,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Israeli strike in Gaza kills 25 people as US makes new push for a ceasefire](https://apnews.com/article/israel-palestinians-hamas-war-news-12-12-2024-a39e98286d8d270b6e81608a3d17fa4a)
-    * [American pilgrim imprisoned in Assad's Syria calls his release from prison a 'blessing'](https://apnews.com/article/syria-war-assad-news-12-12-2024-832bd669d118305bd773a26c29893207)
+    * [Russia targets Ukrainian infrastructure with a massive attack by cruise missiles and drones](https://apnews.com/article/russia-ukraine-war-aerial-attack-december-13-2024-801d7ba2438ea021d8568502f803bb3e)
     * [Ukraine's reformed military procurement agency drives the country's NATO ambitions](https://apnews.com/article/russia-ukraine-war-nato-reforms-military-procurement-f0483561c9d402697d7a67dd43ae844d)
+    * [Israeli strike in Gaza kills 25 people as US makes new push for a ceasefire](https://apnews.com/article/israel-palestinians-hamas-war-news-12-12-2024-a39e98286d8d270b6e81608a3d17fa4a)
     
     Newsletters
     
@@ -432,8 +432,8 @@ Submit Search
     
     TOP STORIES
     
+    * [A nonprofit leader, a social worker: Here are the stories of the people on Biden's clemency list](https://apnews.com/article/biden-pardons-clemency-544db0fcde540b5f56b202e0a4256a57)
     * [Back trouble and brain fog bothered suspect in UnitedHealthcare CEO killing, his posts show](https://apnews.com/article/luigi-mangione-back-surgery-mental-health-35086d2e01089f53db7b95e7b6c683e4)
-    * [Police say suspect in UnitedHealthcare CEO killing wasn't a client of the insurer](https://apnews.com/article/luigi-mangione-united-healthcare-ceo-d148fbdde498c3ea4cf768945889d7e7)
     * [McDonald's employee who called 911 in CEO's shooting is eligible for a reward, but it will take time](https://apnews.com/article/luigi-mangione-unitedhealthcare-ceo-reward-money-tips-c17b08531049edb381b954e6b876cfda)
     
     Newsletters
@@ -462,9 +462,9 @@ Submit Search
     
     TOP STORIES
     
+    * [About 3 in 10 are highly confident in Trump on Cabinet, spending or military oversight: AP-NORC poll](https://apnews.com/article/trump-cabinet-administration-biden-poll-be16ac992769e9c4636854eee7999dfb)
     * [Watchdog finds FBI intelligence missteps before Jan. 6 riot, but no undercover agents were present](https://apnews.com/article/justice-department-inspector-general-capitol-riot-jan-6-79c7ea02cf66c874f9201ae8e9294239)
     * [Highlights from Trump's interview with Time magazine](https://apnews.com/article/trump-time-riot-deportations-abortion-pardons-musk-b77c73a52401c3ebd463e2cbda8f1765)
-    * [Trump offers support for dockworkers union by saying ports shouldn't install more automated systems](https://apnews.com/article/trump-dockworkers-union-contract-trade-25b0f9922c8fb8c9b3c3c6ca56dadf47)
     
     Newsletters
     
@@ -493,8 +493,8 @@ Submit Search
     TOP STORIES
     
     * [The Rams get 4 field goals to beat the 49ers 12-6 in a sloppy game](https://apnews.com/article/rams-49ers-score-bb42079ea0a1e616882b898ff0f9bafd)
-    * [49ers LB De'Vondre Campbell refuses to enter game after losing his starting spot](https://apnews.com/article/49ers-devondre-campbell-491c04fdd5ab0fae7d3da2cb53012568)
-    * [To lure Juan Soto, Mets created a video of his statue outside Citi Field next to Tom Seaver's](https://apnews.com/article/juan-soto-mets-contract-c47a95f961a1348a0432d43ef30ccaf0)
+    * [Win or lose at North Carolina, Bill Belichick's NFL legacy is already cemented: Analysis](https://apnews.com/article/belichick-brady-gronkowski-edelman-shula-b143bb77ccabea2647c6ba124230ff06)
+    * [More playing time? A fresh start? Extra cash? The transfer portal produces winners and losers](https://apnews.com/article/transfer-portal-gabriel-etienne-16beb9f80d4b613e53003148a8317c49)
     
     Newsletters
     
@@ -522,8 +522,8 @@ Submit Search
     TOP STORIES
     
     * [‘The Bibi Files,’ with leaked Netanyahu footage, can't be seen in Israel. Israelis are finding ways](https://apnews.com/article/benjamin-netanyahu-israel-corruption-documentary-afd64fd31e9e3f0d2da11e1ef1acd6d8)
+    * [AP Photos capture British royal family's year of illness and recovery](https://apnews.com/article/british-royals-king-charles-kate-2024-photos-43e51383f158c3c4907096cc5de79771)
     * [In 'Nickel Boys,' striving for a new way to see](https://apnews.com/article/nickel-boys-ramell-ross-interview-74693d9bff8a9fed535003b8b52bb47e)
-    * [Snoop Dogg and Dr. Dre's brotherhood is still strong after 30 years with new album 'Missionary'](https://apnews.com/article/snoop-dogg-dr-dre-sting-missionary-02886a64f978a27841a3a8f615d79bea)
     
 * [Business](https://apnews.com/business)
     
@@ -684,17 +684,17 @@ Submit Search
     
     TOP STORIES
     
+    * [Stanley recalls 2.6M switchback and trigger travel mugs due to possible burn hazard](https://apnews.com/article/stanley-mug-recall-walmart-amazon-target-08fed4ae4f3f9269285f0ae3cb77a3ab)
+    * [AP Photos capture British royal family's year of illness and recovery](https://apnews.com/article/british-royals-king-charles-kate-2024-photos-43e51383f158c3c4907096cc5de79771)
     * [Greece's only miniature therapy horses bring joy to many, but their charity is struggling](https://apnews.com/article/greece-miniature-horses-pet-therapy-hospitals-06cf8c8fe9f515c6a15ea636c2f22fad)
-    * [This hospital in Venezuela restores discarded toys for another round of love](https://apnews.com/article/venezuela-soft-toys-holidays-christmas-26bc047d3c0eb352dd7c251a5013efc9)
-    * [Chanel appoints designer Matthieu Blazy as new artistic director](https://apnews.com/article/chanel-designer-blazy-lagerfeld-382cdb8761153f7c74981535e36c0f50)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * ['Crown of Thorns' returns to Notre Dame cathedral for public veneration](https://apnews.com/article/notre-dame-france-relc-crown-of-thorns-f06a9d707663ebd407d78282530b3dd5)
     * [Millions mark Mexico's Virgin of Guadalupe Day but calls for a truce in drug violence go unheeded](https://apnews.com/article/mexico-virgin-guadalupe-pilgrims-a834651291a20650426bff6486d7fcec)
     * [Black denomination upholds stance against same-sex marriage. A gay pastor in its ranks seeks change](https://apnews.com/article/black-church-ame-same-sex-marriage-lgbtq-1a9a4452fd860a8be10149db80d12853)
-    * [Pope calls for debt reduction for poorer countries to mark the Vatican's 2025 Jubilee Year](https://apnews.com/article/vatican-pope-debt-relief-jubilee-year-69a0baf34231291c9ac12833cd8c9119)
     
     Newsletters
     
@@ -708,11 +708,11 @@ Submit Search
     
     TOP STORIES
     
+    * [Rusia ataca infraestructura ucraniana con ofensiva aérea masiva de misiles de crucero y drones](https://apnews.com/article/rusia-ucrania-guerra-ataque-aereo-e76ee46c05d8b5163db4250f98f69f12)
     * [Destacado abogado de derechos humanos abandona Corte Penal Internacional por no procesar a Venezuela](https://apnews.com/article/venezuela-cpi-claudio-grossman-maduro-e9f88b398937eb39be06d986cc3b99f3)
-    * [Ataque israelí en Gaza central mata a por lo menos 25 personas](https://apnews.com/article/israel-palestinos-gaza-hamas-6adb1b28c1cb9e33aaf06f3044e4756e)
-    * [Trump toca la campana de apertura en Wall Street; Time lo nombra Persona del Año](https://apnews.com/article/trump-time-persona-nyse-wallstreet-efc80efc0dbeb04c1f216f281028b207)
+    * [Macron nombra a su aliado centrista Bayrou nuevo primer ministro de Francia](https://apnews.com/article/francia-macron-primer-ministro-centrista-91f7595554fa288f3da17fa636e4c9f6)
     * [Hospital de Peluches lleva alegría a niños y adultos en Venezuela](https://apnews.com/article/hospital-peluches-juguetes-donacion-ninos-ancianos-venezuela-1fec95232746d2b94cf1b80539c981ca)
-    * [La administración Biden realiza último esfuerzo diplomático por la estabilidad en Oriente Medio](https://apnews.com/article/eeuu-siria-israel-gaza-blinken-sullivan-e99bdcc33ec1e33e02faee18e391cf0f)
+    * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-b6591d2677cbb7480197b763bfeea3b0)
     
 * [Quizzes](https://apnews.com/quizzes)
     
