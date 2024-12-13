@@ -20,7 +20,6 @@
     [Übersicht](https://www.congstar.de/handytarife/angebote/)
     
     * [Für Neukund\*innen](#)
-        * [Black Friday](https://www.congstar.de/black-friday/)
         * [Tarif-Angebote](https://www.congstar.de/handytarife/angebote/)
         * [Handy-Angebote](https://www.congstar.de/handys/handy-angebote/)
     
