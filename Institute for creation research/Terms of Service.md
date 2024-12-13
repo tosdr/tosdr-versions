@@ -165,6 +165,66 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Impact
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/DistantStarlight.jpg)](https://www.icr.org/article/distant-starlight-in-young-universe)
+
+[Seeing Distant Starlight in a Young Universe](https://www.icr.org/article/distant-starlight-in-young-universe/)
+
+Many see distant starlight as an unanswerable objection to recent creation. Both creationist and evolutionist astronomers agree that distant galaxies...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/revisiting_isochron_model_pt2.jpg)](https://www.icr.org/article/revisiting-isochron-age-model-part-2)
+
+[Revisiting the Isochron Age Model, Part 2](https://www.icr.org/article/revisiting-isochron-age-model-part-2/)
+
+Last month’s article explored initial problems with the isochron age model, which has been the standard radioisotope dating method.1...
+
+BY: [VERNON R. CUPPS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=222)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/no_fins_to_feet.jpg)](https://www.icr.org/article/the-fossils-still-say-no-fins-to-feet-transition)
+
+[The Fossils Still Say No: The Fins-to-Feet Transition](https://www.icr.org/article/the-fossils-still-say-no-fins-to-feet-transition/)
+
+One of the alleged greatest transformations in vertebrate evolution is said to be the emergence of creatures that traded fins for feet and transitioned...
+
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+
+Shop Related Products
+
+[](https://store.icr.org/.html)
+
+$
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/951057/file.jpg)
+
+The Henry Morris Study Bible - Calfskin Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-calfs.html)
+
+$119.99
+
+$139.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475649/file.jpg)
+
+The Remarkable Record of Job](https://store.icr.org/dr-henry-morris-the-remarkable-record-of-job.html)
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10473887/file.jpg)
+
+Christian Education for the Real World](https://store.icr.org/dr-henry-morris-christian-education-for-the-real-w.html)
+
+$10.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32640/file.jpg)
+
+The Genesis Flood, 50th Anniversary Edition](https://store.icr.org/dr-henry-morris-the-genesis-flood-50th-anniversary.html)
+
+$12.99
+
+$16.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
