@@ -314,7 +314,13 @@ You have the following rights concerning your Personal Data:  
 * **Complain.** You have the right to contact or file a complaint with regulators or supervisory authorities about our processing of Personal Data. To do so, please contact your local data protection or other applicable regulator.
 * **Withdraw Consent.** If we are processing your Personal Data based on consent, you can withdraw your consent.
 
-We will not discriminate against you for exercising these rights. Unless another method is explained above, you (or your parent/guardian if you are a child), can exercise your rights by emailing us at [dpo@sphero.com](mailto:dpo@sphero.com) or sending us a letter at Sphero, Inc., Attn: DPO, 7121 B Shelby Ave – Door 19, Greenville, TX 75402. 
+We will not discriminate against you for exercising these rights. Unless another method is explained above, you (or your parent/guardian if you are a child), can exercise your rights by emailing us at [dpo@sphero.com](mailto:dpo@sphero.com) or sending us a letter at:
+
+Sphero, Inc.  
+Attn: DPO  
+7121 B Shelby Ave  
+Dock 85  
+Greenville, TX 75402
 
 Additionally, our California customers can exercise their California Consumer Privacy Act rights by using the form located [here](https://sphero.com/pages/do-not-sell-my-personal-information) or calling us at 1-888-977-4376. For some requests, we may need you to provide additional information, such as your email address. If you are asking to access, correct, or delete your data, we will send an email to your address and await your reply to confirm your identity before fulfilling the request. We do allow you to rely on an authorized agent to submit a request on your behalf, but they must first provide us your written authorization allowing them to make such a request on your behalf. 
 
@@ -351,7 +357,7 @@ Sphero welcomes your comments or questions regarding this Privacy Policy. You ca
 
 Sphero, Inc.  
 Attn: Legal, Privacy Policy  
-7121 Shelby Ave  
+7121 B Shelby Ave  
 Dock 85  
 Greenville, TX 75402
 
