@@ -190,6 +190,7 @@
             * [Trust Me, I'm Certified](https://www.giac.org/podcasts/)
             * [Cloud Ace](https://www.sans.org/podcasts/cloud-ace/)
             * [Wait Just an Infosec](https://www.sans.org/podcasts/wait-just-an-infosec/)
+            * [Cyber Leaders](https://www.sans.org/podcasts/cyber-leaders/)
         * [Summit Presentations](https://www.sans.org/presentations/)
         * [Posters & Cheat Sheets](https://www.sans.org/posters/)
     * [Internet Storm Center](https://isc.sans.edu/)
