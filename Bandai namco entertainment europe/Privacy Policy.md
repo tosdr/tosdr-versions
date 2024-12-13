@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [Bandai Namco reveals a thrilling sci-fi take on pac-man and its larger arcade universe in Shadow Labyrinth](https://en.bandainamcoent.eu/pac-man/news/bandai-namco-reveals-thrilling-sci-fi-take-pac-man-and-its-larger-arcade-universe)
 * [FromSoftware and Bandai Namco reveal ELDEN RING NIGHTREIGN](https://en.bandainamcoent.eu/elden-ring/news/fromsoftware-and-bandai-namco-reveal-elden-ring-nightreign)
-* [SYNDUALITY: Echo of Ada – Get ready for the Open Network Test with this new Game Guide!](https://en.bandainamcoent.eu/synduality/news/synduality-echo-of-ada-get-ready-the-open-network-test-new-game-guide)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
