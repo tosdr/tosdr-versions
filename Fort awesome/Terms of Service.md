@@ -9,7 +9,6 @@ Your browser is too old and missing some key goodies. To manage your assets with
    [Fort Awesome](https://fortawesome.com/)
 
 * [Browse Icon Sets](https://fortawesome.com/sets)
-* [Pricing & Sign Up](https://fortawesome.com/start)
 
 * [Sign In](https://fortawesome.com/launchpad)  
 
@@ -96,7 +95,6 @@ Fort Awesome
 ------------
 
 * [Browse Icon Sets](https://fortawesome.com/sets)
-* [Plans & Pricing](https://fortawesome.com/start)
 * [Sign In](https://fortawesome.com/launchpad)
 * [Terms of Service](https://fortawesome.com/tos)
 * [Privacy Policy](https://fortawesome.com/privacy)
