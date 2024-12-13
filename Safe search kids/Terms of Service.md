@@ -358,6 +358,7 @@ Share This Article
 * [Vulnerabilities in 2FA and MFA Authentication](https://www.safesearchkids.com/exploring-overlooked-vulnerabilities-in-2fa-and-mfa-authentication/)
 * [How Browsing Fingerprinting Tracks You](https://www.safesearchkids.com/how-browsing-fingerprinting-is-used-to-track-you/)
 * [Cyber Security and Online Risk Management](https://www.safesearchkids.com/7-simple-ways-to-teach-your-kids-about-cyber-security-and-online-risk-management/)
+* [Student Data Privacy in the Modern Classroom](https://www.safesearchkids.com/student-data-privacy-in-the-modern-classroom/)
 * [Internet Security 101 | How To Be Safer Online](https://www.safesearchkids.com/internet-security-101/)
 * [Phishing, SMishing, Vishing, and Quishing](https://www.safesearchkids.com/protecting-against-online-scams-phishing-smishing-vishing/)
 * [Should I Save My Credit Card Information on a Website?](https://www.safesearchkids.com/should-i-save-my-credit-card-information-on-a-website/)
