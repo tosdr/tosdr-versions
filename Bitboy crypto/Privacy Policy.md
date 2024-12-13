@@ -38,11 +38,11 @@ Receive weekly email updates, promotions, and exclusive crypto content!
 
 Email(Required)
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
-        
+          
 
 Discover Crypto is the place to find freedom and make money through crypto. Every day we bring expert analysis for everything that is happening in the world of crypto and web3. Our deep research team delivers the best alpha for you to make informed decisions for your crypto journey. Join us on YouTube, Instagram and X to stay in the know and Discover Crypto.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -144,11 +144,11 @@ Email(Required)
 
 SUBSCRIBE
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
-        
+          
 
 © 2023 [Discover Crypto](http://discovercrypto.live/) | All Rights Reserved
 
