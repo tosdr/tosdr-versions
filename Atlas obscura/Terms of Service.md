@@ -20,73 +20,7 @@ Loading...
 
 Loading...
 
-Top Destinations
-
-Latest Places
-
-[Most Popular Places](https://www.atlasobscura.com/places?sort=likes_count) [Random Place](https://www.atlasobscura.com/random) [Lists](https://www.atlasobscura.com/lists) [Itineraries](https://www.atlasobscura.com/itineraries)[Add a Place](https://www.atlasobscura.com/places/new)[Download the App](https://app.atlasobscura.com/)
-
-Top Destinations
-
-[View All Destinations »](https://www.atlasobscura.com/destinations)
-
-### Countries
-
-* [Australia](https://www.atlasobscura.com/things-to-do/australia "Australia")
-* [Canada](https://www.atlasobscura.com/things-to-do/canada "Canada")
-* [China](https://www.atlasobscura.com/things-to-do/china "China")
-* [France](https://www.atlasobscura.com/things-to-do/france "France")
-* [Germany](https://www.atlasobscura.com/things-to-do/germany "Germany")
-* [India](https://www.atlasobscura.com/things-to-do/india "India")
-* [Italy](https://www.atlasobscura.com/things-to-do/italy "Italy")
-* [Japan](https://www.atlasobscura.com/things-to-do/japan "Japan")
-
-### Cities
-
-* [Amsterdam](https://www.atlasobscura.com/things-to-do/amsterdam-netherlands "Amsterdam")
-* [Barcelona](https://www.atlasobscura.com/things-to-do/barcelona-spain "Barcelona")
-* [Beijing](https://www.atlasobscura.com/things-to-do/beijing-china "Beijing")
-* [Berlin](https://www.atlasobscura.com/things-to-do/berlin-germany "Berlin")
-* [Boston](https://www.atlasobscura.com/things-to-do/boston-massachusetts "Boston")
-* [Budapest](https://www.atlasobscura.com/things-to-do/budapest-hungary "Budapest")
-* [Chicago](https://www.atlasobscura.com/things-to-do/chicago-illinois "Chicago")
-* [London](https://www.atlasobscura.com/things-to-do/london-england "London")
-* [Los Angeles](https://www.atlasobscura.com/things-to-do/los-angeles-california "Los Angeles")
-* [Mexico City](https://www.atlasobscura.com/things-to-do/mexico-city-mexico "Mexico City")
-* [Montreal](https://www.atlasobscura.com/things-to-do/montreal-quebec "Montreal")
-* [Moscow](https://www.atlasobscura.com/things-to-do/moscow-russia "Moscow")
-* [New Orleans](https://www.atlasobscura.com/things-to-do/new-orleans-louisiana "New Orleans")
-* [New York City](https://www.atlasobscura.com/things-to-do/new-york "New York City")
-* [Paris](https://www.atlasobscura.com/things-to-do/paris-france "Paris")
-* [Philadelphia](https://www.atlasobscura.com/things-to-do/philadelphia-pennsylvania "Philadelphia")
-* [Rome](https://www.atlasobscura.com/things-to-do/rome-italy "Rome")
-* [San Francisco](https://www.atlasobscura.com/things-to-do/san-francisco-california "San Francisco")
-* [Seattle](https://www.atlasobscura.com/things-to-do/seattle-washington "Seattle")
-* [Stockholm](https://www.atlasobscura.com/things-to-do/stockholm-sweden "Stockholm")
-* [Tokyo](https://www.atlasobscura.com/things-to-do/tokyo-japan "Tokyo")
-* [Toronto](https://www.atlasobscura.com/things-to-do/toronto-ontario "Toronto")
-* [Vienna](https://www.atlasobscura.com/things-to-do/vienna-austria "Vienna")
-* [Washington, D.C.](https://www.atlasobscura.com/things-to-do/washington-dc "Washington, D.C.")
-
-Latest Places
-
-[View All Places »](https://www.atlasobscura.com/places?sort=published_at)
-
-   [![](https://img.atlasobscura.com/c-HPV_kfZ5IjgyCnrhdlE7uP5eV8OEjr-ek5qRzefmg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xZGJk/N2FhOC0yYTg3LTRj/OTItYTVmMC02ZmQz/ZjBiYzBkODkxNzU0/MDFmZTEwZWMzNGJj/NWRfSU1HXzg0MDku/anBlZw.jpg)
-
-SS Blinky Jr.](https://www.atlasobscura.com/places/ss-blinky-jr)
-
-   [![This giant fiberglass catfish welcomes visitors to Trempealeau, Wisconsin.](https://img.atlasobscura.com/fz6GXUBipT0QWlCu9vMGAc4DlwgON6Ki_pa07vD8sxA/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lYjVi/MGE2YS03NzcwLTQ3/ZDYtODVhMS0wYzc5/OWY4YTQyNjNjN2Ux/Mzc3ZDU1NWViZDU2/YTlfMjAyNDA3MjFf/MTgzMjM4LUVESVQu/anBn.jpg)
-
-Trempealeau Catfish Statue](https://www.atlasobscura.com/places/trempealeau-catfish-statue)
-
-   [![The hot chocolate here is particularly thick and rich.](https://img.atlasobscura.com/8g1jgePxJm1OpUkMyYGim_PTP7y84kupEQGn-Irp6v8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lMTdh/MmI2OGE4Mjg5ZDRj/MDRfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi00NjUyLmpwZw.jpg)
-
-Granja Dulcinea](https://www.atlasobscura.com/places/granja-dulcinea)
-
-   [![Fideuà, a close cousin of paella made with noodles, is a specialty here.](https://img.atlasobscura.com/pYLlwtXSzb7mA0QYjRP4F8YR-H8c6HCm2D6_eSPa6O4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84ZTAx/ZWJjZGUzZTA3Mjhi/YmNfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi02MDQ5LmpwZw.jpg)
-
-Xiringuito Escribà](https://www.atlasobscura.com/places/xiringuito-escriba)
+Loading...
 
 Loading...
 
