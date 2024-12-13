@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Z1w4NAoAAccAAABanPA)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Z1yMjgoAAcgAAABbKWI)
 
 Es noticia
 
@@ -15,7 +15,7 @@ Es noticia
 * [El Candela](https://www.elmundo.es/madrid/2024/12/13/675b2354fdddff2a2a8b457a.html)
 * [Limpieza muerte sueca](https://www.elmundo.es/yodona/lifestyle/2024/12/13/675c13cce85eceec598b4597.html)
 * [Lotería Navidad bancos](https://www.elmundo.es/loterias/loteria-de-navidad/2024/12/13/675c0267fc6c833b258b45b7.html)
-* [Lily Phillips](https://www.elmundo.es/loc/2024/12/13/675bffddfdddff95b98b45a0.html)
+* [La Revuelta](https://www.elmundo.es/television/2024/12/13/675c305afc6c8339218b456e.html)
 * [Jesús Navas](https://www.elmundo.es/deportes/futbol/primera-division/2024/12/12/675af730e9cf4ae3548b45cc.html)
 * [Luis Enrique](https://www.elmundo.es/vida-sana/bienestar/2024/12/13/675be833fdddffdd568b45a2.html)
 * [Euríbor hoy](https://www.elmundo.es/economia/vivienda/2024/12/13/675bf24d21efa043038b457d.html)
