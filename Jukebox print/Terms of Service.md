@@ -37,7 +37,7 @@ EUR
             * [Oval Stickers](https://www.jukeboxprint.com/oval-stickers)
             * [Transparent Stickers](https://www.jukeboxprint.com/transparent-stickers)
             * [Sticker Rolls](https://www.jukeboxprint.com/Custom-Sticker-Rolls-and-Roll-Label-Printing)
-        * * [Custom Stickers](https://www.jukeboxprint.com/custom-printed-stickers)
+            * [Custom Stickers](https://www.jukeboxprint.com/custom-printed-stickers)
             * [Wine Labels](https://www.jukeboxprint.com/custom-printed-wine-labels)
             * [Vinyl Decals](https://www.jukeboxprint.com/custom-vinyl-decals)
             * [Heart Stickers](https://www.jukeboxprint.com/custom-heart-stickers)
@@ -209,7 +209,6 @@ EUR
     * [Magnets](https://www.jukeboxprint.com/custom-magnets)
     * [Posters](https://www.jukeboxprint.com/poster-printing)
     * [Mini Brochures](https://www.jukeboxprint.com/mini-brochures)
-    * [Postcards](https://www.jukeboxprint.com/postcards)
     * [Large Posters](https://www.jukeboxprint.com/large-posters)
     * [Gift Card Holders](https://www.jukeboxprint.com/gift-card-holders)
     * [Hang Tags](https://www.jukeboxprint.com/hang-tags)
@@ -238,8 +237,6 @@ EUR
     Information[#### Poster Printing](https://www.jukeboxprint.com/poster-printing)[Spread the word, whether it's in your neighborhood or workspace, with eye-catching custom posters. Explore various quantities and paper options!](https://www.jukeboxprint.com/poster-printing)
     
     Information[#### Mini Brochures](https://www.jukeboxprint.com/mini-brochures)[Do you need a promotional product that is designed to stand out? With five different options to choose from our mini brochures are a perfect option if you are looking for something compact while maintaining a cute, contemporary look that will stand out to your client. As one of our more versatile options we think these are perfect for businesses like photography studios, bakeries, florists, and believe they are excellent options for rate cards and special announcements.](https://www.jukeboxprint.com/mini-brochures)
-    
-    Information[#### Postcards](https://www.jukeboxprint.com/postcards)[From event invitations to promotional mailers, custom postcards present endless opportunities to get creative. Take your branding to the next level with this simple yet effective marketing tool.](https://www.jukeboxprint.com/postcards)
     
     Information[#### Large Posters](https://www.jukeboxprint.com/large-posters)[Our posters are durable and long-lasting, and produced on a premium photo paper to truly give the posters a rich look.](https://www.jukeboxprint.com/large-posters)
     
