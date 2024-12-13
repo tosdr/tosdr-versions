@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Ukrainian War VII: Advent's Offspring (12,420)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Advent's Offspring" (12,420 posts)")
-* [AN Out of Context III (4,817)](https://forum.nationstates.net/viewtopic.php?t=552139&f=25&view=unread#unread ""AN Out of Context III" (4,817 posts)")
-* [How cute is AN's national animal? (376)](https://forum.nationstates.net/viewtopic.php?t=556564&f=25&view=unread#unread ""How cute is AN's national animal?" (376 posts)")
-* [American Politics: Turnabout Trump (9,077)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (9,077 posts)")
-* [What is unique abt AN? (1,554)](https://forum.nationstates.net/viewtopic.php?t=551158&f=25&view=unread#unread ""What is unique abt AN?" (1,554 posts)")
+* [American Politics: Turnabout Trump (9,221)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (9,221 posts)")
+* [Guess what BN's real name is - Ehrman… (203)](https://forum.nationstates.net/viewtopic.php?t=557940&f=25&view=unread#unread ""Guess what BN's real name is - Ehrmantraut series" (203 posts)")
+* [911, what is your \[not\] emergency? (1,254)](https://forum.nationstates.net/viewtopic.php?t=554757&f=25&view=unread#unread ""911, what is your [not] emergency?" (1,254 posts)")
+* [What is the most surprising thing abo… (60)](https://forum.nationstates.net/viewtopic.php?t=559389&f=25&view=unread#unread ""What is the most surprising thing about AN?" (60 posts)")
+* [Guess AU irl political views (REVIVAL) (24)](https://forum.nationstates.net/viewtopic.php?t=559015&f=25&view=unread#unread ""Guess AU irl political views (REVIVAL)" (24 posts)")
 
 Advertisement
 
