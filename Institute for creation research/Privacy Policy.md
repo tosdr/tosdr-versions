@@ -95,6 +95,70 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More Days of Praise
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/what-we-celebrate-at-christmas)
+
+[What We Celebrate at Christmas](https://www.icr.org/article/what-we-celebrate-at-christmas/)
+
+“And \[Joseph\] knew her \[Mary\] not till she had brought forth her firstborn son: and he called his name JESUS.” (Matthew 1:25) The...
+
+BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/supreme-joy)
+
+[Supreme Joy in Sacrificial Service](https://www.icr.org/article/supreme-joy/)
+
+“Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all. For the same cause also do ye joy,...
+
+BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/remember-day-rest)
+
+[Remember the Day of Rest](https://www.icr.org/article/remember-day-rest/)
+
+“Remember the sabbath day, to keep it holy. Six days shalt thou labour, and do all thy work: But the seventh day is the sabbath of the LORD...
+
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475517/file.jpg)
+
+The Modern Creation Trilogy](https://store.icr.org/dr-henry-morris-the-modern-creation-trilogy.html)
+
+$29.99
+
+$34.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10472129/file.jpg)
+
+Scientific Creationism](https://store.icr.org/dr-henry-morris-scientific-creationism.html)
+
+$14.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474571/file.jpg)
+
+The Bible Has the Answer](https://store.icr.org/dr-henry-morris-the-bible-has-the-answer.html)
+
+$16.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32640/file.jpg)
+
+The Genesis Flood, 50th Anniversary Edition](https://store.icr.org/dr-henry-morris-the-genesis-flood-50th-anniversary.html)
+
+$12.99
+
+$16.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32690/file.jpg)
+
+The Henry Morris Study Bible - Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-leath.html)
+
+$79.99
+
+$94.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
