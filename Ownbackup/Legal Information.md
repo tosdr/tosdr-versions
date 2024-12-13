@@ -130,15 +130,15 @@ On The Blog
 
 [Backup and Recovery
 
+Beyond ITSM and CMBD: Why Every ServiceNow Application Needs a Backup Plan](https://www.ownbackup.com/blog/beyond-itsm-and-cmbd-why-every-servicenow-application-needs-a-backup-plan)
+
+[Backup and Recovery
+
 How Quickly Could You Recover Lost Salesforce Data?](https://www.ownbackup.com/blog/how-quickly-recover-lost-salesforce-data)
 
 [Backup and Recovery
 
 The Most Common Salesforce Data Backup Fears and How to Overcome Them](https://www.ownbackup.com/blog/the-most-common-salesforce-data-backup-fears-and-how-to-overcome-them)
-
-[Backup and Recovery
-
-Why and How to Back Up Your Salesforce Metadata](https://www.ownbackup.com/blog/why-back-up-salesforce-metadata)
 
 Company
 
@@ -354,15 +354,15 @@ On The Blog
 
 [Backup and Recovery
 
+Beyond ITSM and CMBD: Why Every ServiceNow Application Needs a Backup Plan](https://www.ownbackup.com/blog/beyond-itsm-and-cmbd-why-every-servicenow-application-needs-a-backup-plan)
+
+[Backup and Recovery
+
 How Quickly Could You Recover Lost Salesforce Data?](https://www.ownbackup.com/blog/how-quickly-recover-lost-salesforce-data)
 
 [Backup and Recovery
 
 The Most Common Salesforce Data Backup Fears and How to Overcome Them](https://www.ownbackup.com/blog/the-most-common-salesforce-data-backup-fears-and-how-to-overcome-them)
-
-[Backup and Recovery
-
-Why and How to Back Up Your Salesforce Metadata](https://www.ownbackup.com/blog/why-back-up-salesforce-metadata)
 
 Company
 
