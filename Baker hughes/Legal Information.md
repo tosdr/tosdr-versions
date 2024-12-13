@@ -10,11 +10,10 @@ External
 * [Investors](https://investors.bakerhughes.com/ "baker hughes investor relations")
 * [BKR](https://investors.bakerhughes.com/stock-information/stock-quote-chart "Baker Hughes Stock Price")
 
-Select your language English日本語
+English
 
- 
-
- 
+* [English](https://www.bakerhughes.com/privacy)
+* [日本語](https://www.bakerhughes.com/jp/privacy)
 
 [![Home](/themes/custom/bh/dist/images/logo.png)](https://www.bakerhughes.com/ "Home")
 
@@ -1979,11 +1978,10 @@ Search
 * [Investors](https://investors.bakerhughes.com/ "baker hughes investor relations")
 * [BKR](https://investors.bakerhughes.com/stock-information/stock-quote-chart "Baker Hughes Stock Price")
 
-Select your language English日本語
+English
 
- 
-
- 
+* [English](https://www.bakerhughes.com/privacy)
+* [日本語](https://www.bakerhughes.com/jp/privacy)
 
 Breadcrumb
 
