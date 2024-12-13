@@ -1,6 +1,6 @@
 [**NRF.**com](https://www.nrf.com/)[**NRF** Foundation](https://nrffoundation.org/)[**NRF** Jobs](https://jobs.nrf.com/)[**NRF 2025: Retail's Big Show** Jan 12-14 >](https://nrfbigshow.nrf.com/)
 
-[About NRF](https://nrf.com/about-us/about-us)[Membership](https://nrf.com/membership)[Login](https://account.nrf.com/?callbackUrl=https%3A%2F%2Fnrf.com%2Fterms-and-conditions-nrfcom%3F)
+[About NRF](https://nrf.com/about-us)[Membership](https://nrf.com/membership)[Login](https://account.nrf.com/?callbackUrl=https%3A%2F%2Fnrf.com%2Fterms-and-conditions-nrfcom%3F)
 
 [![NRF Logo](https://a-us.storyblok.com/f/1020215/300x61/dfd396fe44/nrf-logo.svg)](https://nrf.com/)
 
@@ -8,7 +8,7 @@ AboutAdvocacyEventsResearch & InsightsResourcesNews & Media
 
 ##### About Us
 
-[Who We Are](https://nrf.com/about-us/about-us)[Management Team](https://nrf.com/about-us/nrf-staff/nrf-management-team)[Board of Directors](https://nrf.com/about-us/board-directors)[Careers at NRF](https://nrf.com/about-us/careers-nrf)[Sponsor & Advertise](https://sponsorship.nrf.com/)
+[Who We Are](https://nrf.com/about-us)[Management Team](https://nrf.com/about-us/nrf-staff/nrf-management-team)[Board of Directors](https://nrf.com/about-us/board-directors)[Careers at NRF](https://nrf.com/about-us/careers-nrf)[Sponsor & Advertise](https://sponsorship.nrf.com/)
 
 ##### Membership
 
@@ -108,7 +108,7 @@ VIEW CONSUMER SPENDING DATA](https://nrf.com/research-insights/retail-holiday-an
 
 * * *
 
-[About NRF](https://nrf.com/about-us/about-us)[Membership](https://nrf.com/membership)[Login](https://account.nrf.com/?callbackUrl=https%3A%2F%2Fnrf.com%2Fterms-and-conditions-nrfcom%3F)
+[About NRF](https://nrf.com/about-us)[Membership](https://nrf.com/membership)[Login](https://account.nrf.com/?callbackUrl=https%3A%2F%2Fnrf.com%2Fterms-and-conditions-nrfcom%3F)
 
   
   
@@ -123,7 +123,7 @@ Please try searching our site or using the menu to find what you’re looking fo
 
 ##### About Us
 
-[Who we are](https://nrf.com/about-us/about-us)[Membership](https://nrf.com/membership)[Careers at NRF](https://nrf.com/about-us/careers-nrf)[NRF Foundation](https://nrffoundation.org/)
+[Who we are](https://nrf.com/about-us)[Membership](https://nrf.com/membership)[Careers at NRF](https://nrf.com/about-us/careers-nrf)[NRF Foundation](https://nrffoundation.org/)
 
 ##### Advocacy
 
@@ -143,7 +143,7 @@ Please try searching our site or using the menu to find what you’re looking fo
 
 ##### About Us
 
-[Who we are](https://nrf.com/about-us/about-us)[Membership](https://nrf.com/membership)[Careers at NRF](https://nrf.com/about-us/careers-nrf)[NRF Foundation](https://nrffoundation.org/)
+[Who we are](https://nrf.com/about-us)[Membership](https://nrf.com/membership)[Careers at NRF](https://nrf.com/about-us/careers-nrf)[NRF Foundation](https://nrffoundation.org/)
 
 ##### Advocacy
 
