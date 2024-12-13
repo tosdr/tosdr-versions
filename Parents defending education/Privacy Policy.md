@@ -177,12 +177,12 @@ Sign Up for Updates
     
 * CAPTCHA
     
-* Email
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
 
-         
+           
 
 ![Parents Defending Education](https://defendinged.org/wp-content/themes/pde/assets/images/logo-full-alt.svg)
 
@@ -199,6 +199,7 @@ Our federal tax identification number is 86-1596460.
 * [News](https://defendinged.org/newsroom/)
 * [Resources](https://defendinged.org/resources/)
 * [Join the Movement](https://defendinged.org/join-the-movement/)
+* [Working at PDE](https://defendinged.org/about/working-at-pde/)
 
 * ### Email Us
     
