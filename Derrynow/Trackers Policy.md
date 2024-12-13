@@ -30,15 +30,13 @@ Search
 [](#)* [](#)[Home](https://www.derrynow.com/)
 * [Local News](https://www.derrynow.com/section/975/news)
 * [Sport](https://www.derrynow.com/section/976/sport)
-* [Election](https://www.derrynow.com/section/2507/election)
 * [Crime & Courts](https://www.derrynow.com/section/2719/crime-courts)
 * [National News](https://www.derrynow.com/section/1338/national)
 * [Business](https://www.derrynow.com/section/1339/business)
 * [Jobs](https://www.derrynow.com/section/1347/jobs)
 * [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 * [What's On](https://www.derrynow.com/section/1058/what-s-on)
-* [Horoscope](https://www.derrynow.com/section/2212/horoscope)
-* [Puzzles](https://www.derrynow.com/section/2170/puzzles)
+* [Derry Christmas](https://www.derrynow.com/section/2122/christmas)
 * [Property](https://www.derrynow.com/section/1232/property)
 * [Motoring](https://www.derrynow.com/section/1230/motoring)
 * [Weather](https://www.derrynow.com/section/1253/weather)
@@ -67,9 +65,6 @@ Search
 * [Sport
     
     Keep up to date with the latest sports news](https://www.derrynow.com/section/976/sport)
-* [Election
-    
-    Up to the minute national and local election coverage](https://www.derrynow.com/section/2507/election)
 * [Crime & Courts
     
     Read all the latest crime & court news in Derry and County Derry](https://www.derrynow.com/section/2719/crime-courts)
@@ -82,6 +77,9 @@ Search
 * [What's On
     
     Find whats happening in and around Derry and County Derry](https://www.derrynow.com/section/1058/what-s-on)
+* [Derry Christmas
+    
+    Everything you need to know about Christmas in Derry and County Derry](https://www.derrynow.com/section/2122/christmas)
 * [Pictures & Videos
     
     Enjoy our award winning photos and picture galleries taken in Derry and County Derry](https://www.derrynow.com/section/981/multimedia)
@@ -259,46 +257,12 @@ Advertise with Us
 
 Most Popular
 
-[![Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death")](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
-
-The late Rebecca Browne
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![BBC Home of the Year Finalist ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "BBC Home of the Year Finalist ")](https://www.derrynow.com/news/county-derry-post/1679114/county-derry-home-featured-in-homesnis-hotlist-of-2024.html)
-
-BBC Home of the Year Finalist
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[County Derry Home Featured in HomesNI’s Hotlist of 2024](https://www.derrynow.com/news/county-derry-post/1679114/county-derry-home-featured-in-homesnis-hotlist-of-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1679367/derry-death-notices-friday-november-13-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Friday, November 13, 2024](https://www.derrynow.com/news/deaths/1679367/derry-death-notices-friday-november-13-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man jailed at Derry Magistrate's Court for assaulting an ambulance worker](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man jailed at Derry Magistrate's Court for assaulting an ambulance worker")](https://www.derrynow.com/news/local-news/1679087/man-jailed-at-derry-magistrate-s-court-for-assaulting-an-ambulance-worker.html)
-
-Altnagelvin Hospital
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man jailed at Derry Magistrate's Court for assaulting an ambulance worker](https://www.derrynow.com/news/local-news/1679087/man-jailed-at-derry-magistrate-s-court-for-assaulting-an-ambulance-worker.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Birds top suspects amid anger and confusion over missing grave stones in Greysteel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Birds top suspects amid anger and confusion over missing grave stones in Greysteel")](https://www.derrynow.com/news/home/1679103/birds-top-suspects-amid-anger-and-confusion-over-missing-grave-stones-in-greysteel.html)
-
-[Home](https://www.derrynow.com/)
-
-[Birds top suspects amid anger and confusion over missing grave stones in Greysteel](https://www.derrynow.com/news/home/1679103/birds-top-suspects-amid-anger-and-confusion-over-missing-grave-stones-in-greysteel.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PICTURES: Doireann Garrihy's husband Mark shares intimate snaps of wedding and honeymoon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Doireann Garrihy's husband Mark shares intimate snaps of wedding and honeymoon")](https://www.derrynow.com/news/national-news/1679801/pictures-doireann-garrihy-s-husband-mark-shares-intimate-snaps-of-wedding-and-honeymoon.html)
 
@@ -307,19 +271,57 @@ Altnagelvin Hospital
 [PICTURES: Doireann Garrihy's husband Mark shares intimate snaps of wedding and honeymoon](https://www.derrynow.com/news/national-news/1679801/pictures-doireann-garrihy-s-husband-mark-shares-intimate-snaps-of-wedding-and-honeymoon.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Son of Kinahan crime boss to walk free from jail after admitting arms cache plot](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Son of Kinahan crime boss to walk free from jail after admitting arms cache plot")](https://www.derrynow.com/news/northern-ireland/1679215/son-of-kinahan-crime-boss-to-walk-free-from-jail-after-admitting-arms-cache-plot.html)
+[![Woman fined and man jailed after 'bizarre' incident where couple entered Derry City Cemetery at 3am](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman fined and man jailed after 'bizarre' incident where couple entered Derry City Cemetery at 3am")](https://www.derrynow.com/news/local-news/1679856/woman-fined-and-man-jailed-after-bizarre-incident-where-couple-entered-derry-city-cemetery-at-3am.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+Derry City Cemetery
 
-[Son of Kinahan crime boss to walk free from jail after admitting arms cache plot](https://www.derrynow.com/news/northern-ireland/1679215/son-of-kinahan-crime-boss-to-walk-free-from-jail-after-admitting-arms-cache-plot.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Drugs seized at airport in operation targeting crime gangs](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Drugs seized at airport in operation targeting crime gangs")](https://www.derrynow.com/news/northern-ireland/1679664/drugs-seized-at-airport-in-operation-targeting-crime-gangs.html)
+[Woman fined and man jailed after 'bizarre' incident where couple entered Derry City Cemetery at 3am](https://www.derrynow.com/news/local-news/1679856/woman-fined-and-man-jailed-after-bizarre-incident-where-couple-entered-derry-city-cemetery-at-3am.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[![Man with 192 previous convictions jailed for sexually assaulting a 17-year-old Good Samaritan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man with 192 previous convictions jailed for sexually assaulting a 17-year-old Good Samaritan")](https://www.derrynow.com/news/local-news/1679878/man-with-192-previous-convictions-jailed-for-sexually-assaulting-a-17-year-old-good-samaritan.html)
 
-[Drugs seized at airport in operation targeting crime gangs](https://www.derrynow.com/news/northern-ireland/1679664/drugs-seized-at-airport-in-operation-targeting-crime-gangs.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man with 192 previous convictions jailed for sexually assaulting a 17-year-old Good Samaritan](https://www.derrynow.com/news/local-news/1679878/man-with-192-previous-convictions-jailed-for-sexually-assaulting-a-17-year-old-good-samaritan.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Donegal motorists caught driving on wrong side of dual carriageway while drunk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal motorists caught driving on wrong side of dual carriageway while drunk")](https://www.derrynow.com/news/local-news/1679847/donegal-motorists-caught-driving-on-wrong-side-of-dual-carriageway-while-drunk.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Donegal motorists caught driving on wrong side of dual carriageway while drunk](https://www.derrynow.com/news/local-news/1679847/donegal-motorists-caught-driving-on-wrong-side-of-dual-carriageway-while-drunk.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man charged with stealing electronic tag belonging to G4S](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with stealing electronic tag belonging to G4S")](https://www.derrynow.com/news/local-news/1679782/derry-man-charged-with-stealing-electronic-tag-belonging-to-g4s.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with stealing electronic tag belonging to G4S](https://www.derrynow.com/news/local-news/1679782/derry-man-charged-with-stealing-electronic-tag-belonging-to-g4s.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man left victim with serious head injury after one-punch attack in Buncrana](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man left victim with serious head injury after one-punch attack in Buncrana")](https://www.derrynow.com/news/local-news/1680030/man-left-victim-with-serious-head-injury-after-one-punch-attack-in-buncrana.html)
+
+The man appeared at Donegal Circuit Court, which is being heard at Letterkenny courthouse
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man left victim with serious head injury after one-punch attack in Buncrana](https://www.derrynow.com/news/local-news/1680030/man-left-victim-with-serious-head-injury-after-one-punch-attack-in-buncrana.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man due to appear before court charged with possession of explosives](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man due to appear before court charged with possession of explosives")](https://www.derrynow.com/news/home/1680331/man-due-to-appear-before-court-charged-with-possession-of-explosives.html)
+
+The man is charged with five offences.
+
+[Home](https://www.derrynow.com/)
+
+[Man due to appear before court charged with possession of explosives](https://www.derrynow.com/news/home/1680331/man-due-to-appear-before-court-charged-with-possession-of-explosives.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Who are the guests on tonight's Graham Norton Show on BBC One as Irish stars lead line-up](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on tonight's Graham Norton Show on BBC One as Irish stars lead line-up")](https://www.derrynow.com/news/national-news/1679706/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-one-as-irish-stars-lead-line-up.html)
 
@@ -330,18 +332,25 @@ Photo credit: Isabel Infantes/PA Wire
 [Who are the guests on tonight's Graham Norton Show on BBC One as Irish stars lead line-up](https://www.derrynow.com/news/national-news/1679706/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-one-as-irish-stars-lead-line-up.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![GAA Guide: 11 live games this weekend with All-Ireland semis and finals down for decision](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "GAA Guide: 11 live games this weekend with All-Ireland semis and finals down for decision")](https://www.derrynow.com/news/gaa/1679219/gaa-guide-11-live-games-this-weekend-with-all-ireland-semis-and-finals-down-for-decision.html)
+[![IN PICTURES: Ulster University Winter Graduations from Coleraine campus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Ulster University Winter Graduations from Coleraine campus")](https://www.derrynow.com/story-telling/pictures---videos/1680219/in-pictures-ulster-university-winter-graduations-from-coleraine-campus.html)
 
-[GAA](https://www.derrynow.com/section/997/cookie-policy)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[GAA Guide: 11 live games this weekend with All-Ireland semis and finals down for decision](https://www.derrynow.com/news/gaa/1679219/gaa-guide-11-live-games-this-weekend-with-all-ireland-semis-and-finals-down-for-decision.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Ulster University Winter Graduations from Coleraine campus](https://www.derrynow.com/story-telling/pictures---videos/1680219/in-pictures-ulster-university-winter-graduations-from-coleraine-campus.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Ulster University Winter Graduations from Coleraine campus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Ulster University Winter Graduations from Coleraine campus")](https://www.derrynow.com/story-telling/pictures---videos/1680219/in-pictures-ulster-university-winter-graduations-from-coleraine-campus.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Ulster University Winter Graduations from Coleraine campus](https://www.derrynow.com/story-telling/pictures---videos/1680219/in-pictures-ulster-university-winter-graduations-from-coleraine-campus.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Throwback Thursday: Partytime out and about with the Derry News (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about with the Derry News (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1678368/throwback-thursday-partytime-out-and-about-with-the-derry-news-2009.html)
 
@@ -405,13 +414,6 @@ Multimedia
 
 [IN PICTURES: Paddy Tyre Tribute Concert in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1676471/in-pictures-paddy-tyre-tribute-concert-in-derry-s-guildhall.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Christmas Craft Fair and Winter Wonderland held in Galliagh Hub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Christmas Craft Fair and Winter Wonderland held in Galliagh Hub")](https://www.derrynow.com/story-telling/pictures---videos/1676469/in-pictures-christmas-craft-fair-and-winter-wonderland-held-in-galliagh-hub.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Christmas Craft Fair and Winter Wonderland held in Galliagh Hub](https://www.derrynow.com/story-telling/pictures---videos/1676469/in-pictures-christmas-craft-fair-and-winter-wonderland-held-in-galliagh-hub.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,57 +515,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Reappointment and extension to the terms of appointment to Derry Diocesan Education Committee](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Reappointment and extension to the terms of appointment to Derry Diocesan Education Committee")](https://www.derrynow.com/news/local-news/1679813/reappointment-and-extension-to-the-terms-of-appointment-to-derry-diocesan-education-committee.html)
+[![James Meehan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "James Meehan")](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
 
-Education Paul Givan
+James Meehan
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Reappointment and extension to the terms of appointment to Derry Diocesan Education Committee](https://www.derrynow.com/news/local-news/1679813/reappointment-and-extension-to-the-terms-of-appointment-to-derry-diocesan-education-committee.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[James Meehan: Convicted murder unlawfully at large as PSNI warns public not to approach](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man charged with stealing electronic tag belonging to G4S](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with stealing electronic tag belonging to G4S")](https://www.derrynow.com/news/local-news/1679782/derry-man-charged-with-stealing-electronic-tag-belonging-to-g4s.html)
+[![Would you like to own a piece of regional history?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Would you like to own a piece of regional history?")](https://www.derrynow.com/news/home/1679733/would-you-like-to-own-a-piece-of-regional-history.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with stealing electronic tag belonging to G4S](https://www.derrynow.com/news/local-news/1679782/derry-man-charged-with-stealing-electronic-tag-belonging-to-g4s.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Magherafelt](https://www.derrynow.com/resizer/165/93/true/2024_12_13/Magherafelt_%281%29-1734089949769.jpg--.jpg?1734089950180 "Magherafelt")](https://www.derrynow.com/news/gaa/1679843/2024-paul-mcgirr-ulster-u16-club-championship-final-preview.html)
-
-Magherafelt
-
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-[2024 Paul McGirr Ulster U16 Club Championship Final Preview](https://www.derrynow.com/news/gaa/1679843/2024-paul-mcgirr-ulster-u16-club-championship-final-preview.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Community groups and charities in Co Derry receive an early Christmas present from The National Lottery](https://www.derrynow.com/resizer/165/93/true/2024_12_13/Woodland_Trust_2-1734084151197.jpg--.jpg?1734084151281 "Community groups and charities in Co Derry receive an early Christmas present from The National Lottery")](https://www.derrynow.com/news/home/1679722/community-groups-and-charities-in-co-derry-receive-an-early-christmas-present-from-the-national-lottery.html)
-
-Members of the Playtrail taking part in nature and conservation activities run by the Woodland Trust. (Photo: Robert Watson/ WTNI) 
+Co-founders Brian Ash and Jim Nash.
 
 [Home](https://www.derrynow.com/)
 
-[Community groups and charities in Co Derry receive an early Christmas present from The National Lottery](https://www.derrynow.com/news/home/1679722/community-groups-and-charities-in-co-derry-receive-an-early-christmas-present-from-the-national-lottery.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Would you like to own a piece of regional history?](https://www.derrynow.com/news/home/1679733/would-you-like-to-own-a-piece-of-regional-history.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Mid Ulster Grant Aid Programme opens in New Year](https://www.derrynow.com/resizer/165/93/true/2024_12_13/jsonld-1734083612000.jpg--.jpg?1734083612026 "Mid Ulster Grant Aid Programme opens in New Year")](https://www.derrynow.com/news/home/1679717/mid-ulster-grant-aid-programme-opens-in-new-year.html)
-
-Under the small development grants, funding of up to £1,500 is available, while grants of up to £3,500 will also be available for community venues and facilities.
-
-[Home](https://www.derrynow.com/)
-
-[Mid Ulster Grant Aid Programme opens in New Year](https://www.derrynow.com/news/home/1679717/mid-ulster-grant-aid-programme-opens-in-new-year.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Paul O'Connor, director, Pat Finucane Centre.](https://www.derrynow.com/resizer/165/93/true/2024_12_12/resizer-1734038303304.jpeg--.jpeg?1734038303334 "Paul O'Connor, director, Pat Finucane Centre.")](https://www.derrynow.com/news/local-news/1679537/icrir-accused-of-handpicking-specific-groups-to-respond-to-its-trauma-and-resilience-consultation.html)
-
-Paul O'Connor, director, Pat Finucane Centre.
+[![Derry woman jailed for series of offences](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Derry woman jailed for series of offences")](https://www.derrynow.com/news/local-news/1680138/derry-woman-jailed-for-series-of-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[ICRIR accused of handpicking specific groups to respond to its trauma and resilience consultation](https://www.derrynow.com/news/local-news/1679537/icrir-accused-of-handpicking-specific-groups-to-respond-to-its-trauma-and-resilience-consultation.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry woman jailed for series of offences](https://www.derrynow.com/news/local-news/1680138/derry-woman-jailed-for-series-of-offences.html)
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspected imitation firearm and quantity of suspected drugs seized in Derry INLA probe](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Suspected imitation firearm and quantity of suspected drugs seized in Derry INLA probe")](https://www.derrynow.com/news/local-news/1680358/suspected-imitation-firearm-and-quantity-of-suspected-drugs-seized-in-derry-inla-probe.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspected imitation firearm and quantity of suspected drugs seized in Derry INLA probe](https://www.derrynow.com/news/local-news/1680358/suspected-imitation-firearm-and-quantity-of-suspected-drugs-seized-in-derry-inla-probe.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![NW Transport Hub to host Christmas Food and Craft Market this weekend](https://www.derrynow.com/resizer/165/93/true/2024_12_13/NWHubMarket2611243-1734100713375.jpg--.jpg?1734100716543 "NW Transport Hub to host Christmas Food and Craft Market this weekend")](https://www.derrynow.com/news/local-news/1680106/nw-transport-hub-to-host-christmas-food-and-craft-market-this-weekend.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[NW Transport Hub to host Christmas Food and Craft Market this weekend](https://www.derrynow.com/news/local-news/1680106/nw-transport-hub-to-host-christmas-food-and-craft-market-this-weekend.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man due to appear before court charged with possession of explosives](https://www.derrynow.com/resizer/165/93/true/2019/01/02084934/PSNI-logo.jpg--.jpg "Man due to appear before court charged with possession of explosives")](https://www.derrynow.com/news/home/1680331/man-due-to-appear-before-court-charged-with-possession-of-explosives.html)
+
+The man is charged with five offences.
+
+[Home](https://www.derrynow.com/)
+
+[Man due to appear before court charged with possession of explosives](https://www.derrynow.com/news/home/1680331/man-due-to-appear-before-court-charged-with-possession-of-explosives.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
@@ -589,7 +589,6 @@ Keep up with the latest news from Donegal with our daily newsletter featuring th
 * [Local News](https://www.derrynow.com/section/975/news)
 * [National News](https://www.derrynow.com/section/1338/national)
 * [Sport](https://www.derrynow.com/section/976/sport)
-* [Election](https://www.derrynow.com/section/2507/election)
 * [Business](https://www.derrynow.com/section/1339/business)
 * [What's On](https://www.derrynow.com/section/1058/what-s-on)
 * [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
