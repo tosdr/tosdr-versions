@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Henry Venter
+Anri van der Linde
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=e0871bf8c9a15e5dd6c2e98613e144120141e5318e224c3e5fd127d4a4883033&c=88682503)  
-AFS Electrical
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=67509011)  
+United Paintball Federation
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=e0871bf8c9a15e5dd6c2e98613e144120141e5318e224c3e5fd127d4a4883033&c=41449043)  
-NGB HOLDINGS PTY LTD
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=16531077)  
+Redlum Group (Pty) Ltd
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=e0871bf8c9a15e5dd6c2e98613e144120141e5318e224c3e5fd127d4a4883033&c=204826844)  
-TechnoDezi PTY(LTD)
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=159294124)  
+Cooper Logistics (Pty) Ltd
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=e0871bf8c9a15e5dd6c2e98613e144120141e5318e224c3e5fd127d4a4883033&c=86106326)  
-Skinz Printing & Branding
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=109260231)  
+Peter Salvage Pty Ltd
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=e0871bf8c9a15e5dd6c2e98613e144120141e5318e224c3e5fd127d4a4883033&c=29105972)  
-AMS Ambu Medical Supplies
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=72227303)  
+Depot Diesel (Pty) Ltd
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=e0871bf8c9a15e5dd6c2e98613e144120141e5318e224c3e5fd127d4a4883033&c=8981217)  
-Nogana Events and Decor
+![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=211072058)  
+CHARLIEX CONSTRUCTIONS
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=e0871bf8c9a15e5dd6c2e98613e144120141e5318e224c3e5fd127d4a4883033&c=80139933)  
-One2b
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=12800937)  
+McKaynine Mobility
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=e0871bf8c9a15e5dd6c2e98613e144120141e5318e224c3e5fd127d4a4883033&c=18701102)  
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=104952023)  
+OPTIMUS ELECTRICAL PTY (LTD)
+
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=27955021)  
+van Schaik rentals
+
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=146941346)  
+Electro-Heat
+
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=108389989)  
 Goju-Ryu Pretoria East
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=e0871bf8c9a15e5dd6c2e98613e144120141e5318e224c3e5fd127d4a4883033&c=136932952)  
-Itroniq (Pty) Ltd
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=89502948)  
+Mtunzini Group
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=e0871bf8c9a15e5dd6c2e98613e144120141e5318e224c3e5fd127d4a4883033&c=14124267)  
-LEO DEVELOPMENT GROUP
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=98903944)  
+Well Hung Art
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=e0871bf8c9a15e5dd6c2e98613e144120141e5318e224c3e5fd127d4a4883033&c=126316800)  
-OXYAIDER (PTY) LTD
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=51552013)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=e0871bf8c9a15e5dd6c2e98613e144120141e5318e224c3e5fd127d4a4883033&c=214523113)  
-VerdanTech Pty Ltd
-
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=e0871bf8c9a15e5dd6c2e98613e144120141e5318e224c3e5fd127d4a4883033&c=46795938)  
-Brand's Fountains Deco and Events Coordinatoin
-
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=e0871bf8c9a15e5dd6c2e98613e144120141e5318e224c3e5fd127d4a4883033&c=25079215)  
-VIR Electrical (PTY) LTD
-
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=e0871bf8c9a15e5dd6c2e98613e144120141e5318e224c3e5fd127d4a4883033&c=11105456)  
-Brilliant Roof Products
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=394c831ab258abd1cf0be4b18e7e2d3f0c4943c72d00ddc1fb17e680e34b836f&c=95158610)  
+CLEVER STUDENTS
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
