@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
+    * [Thousands of Syrians celebrate during first Friday prayers since Assad's fall](https://apnews.com/article/syria-friday-prayers-demonstrations-4667db0171da539e79662d1de23bd921)
     * [Russia targets Ukrainian infrastructure with a massive attack by cruise missiles and drones](https://apnews.com/article/russia-ukraine-war-aerial-attack-december-13-2024-801d7ba2438ea021d8568502f803bb3e)
-    * [Ukraine's reformed military procurement agency drives the country's NATO ambitions](https://apnews.com/article/russia-ukraine-war-nato-reforms-military-procurement-f0483561c9d402697d7a67dd43ae844d)
-    * [Israeli strike in Gaza kills 25 people as US makes new push for a ceasefire](https://apnews.com/article/israel-palestinians-hamas-war-news-12-12-2024-a39e98286d8d270b6e81608a3d17fa4a)
+    * [Who was in ousted Syrian President Assad's inner circle and where are they now?](https://apnews.com/article/bashar-assad-maher-inner-circle-syria-3d6a78b643e6515a1b89ef5f1b9057f7)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [A nonprofit leader, a social worker: Here are the stories of the people on Biden's clemency list](https://apnews.com/article/biden-pardons-clemency-544db0fcde540b5f56b202e0a4256a57)
-    * [Back trouble and brain fog bothered suspect in UnitedHealthcare CEO killing, his posts show](https://apnews.com/article/luigi-mangione-back-surgery-mental-health-35086d2e01089f53db7b95e7b6c683e4)
-    * [McDonald's employee who called 911 in CEO's shooting is eligible for a reward, but it will take time](https://apnews.com/article/luigi-mangione-unitedhealthcare-ceo-reward-money-tips-c17b08531049edb381b954e6b876cfda)
+    * [McKinsey & Company agrees to pay $650M for helping Purdue Pharma boost opioid sales](https://apnews.com/article/mckinsey-justice-department-criminal-penalty-opioids-crisis-d47d1bc1c4e14288927c2aea2369b789)
+    * [Woman who falsely accused Duke lacrosse players of rape in 2006 publicly admits she lied](https://apnews.com/article/duke-lacrosse-false-rape-crystal-mangum-2a7bf854f4a640158e51c89e2a209ef8)
+    * [Parts of Midwest brace for ice; Michigan first responders dash to safety during major crash](https://apnews.com/article/freezing-rain-ice-midwest-47a29adfac6c8ad93f92b705686785c6)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [About 3 in 10 are highly confident in Trump on Cabinet, spending or military oversight: AP-NORC poll](https://apnews.com/article/trump-cabinet-administration-biden-poll-be16ac992769e9c4636854eee7999dfb)
+    * [Only 3 in 10 are highly confident about Trump's Cabinet picks: AP-NORC poll](https://apnews.com/article/trump-cabinet-administration-biden-poll-be16ac992769e9c4636854eee7999dfb)
+    * [Veteran Daniel Penny, acquitted in NYC subway chokehold, will join Trump's suite at football game](https://apnews.com/article/daniel-perry-chokehold-vance-army-navy-227774aa980f18ee1c9647492e1dcfbe)
     * [Watchdog finds FBI intelligence missteps before Jan. 6 riot, but no undercover agents were present](https://apnews.com/article/justice-department-inspector-general-capitol-riot-jan-6-79c7ea02cf66c874f9201ae8e9294239)
-    * [Highlights from Trump's interview with Time magazine](https://apnews.com/article/trump-time-riot-deportations-abortion-pardons-musk-b77c73a52401c3ebd463e2cbda8f1765)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
+    * [Lindsey Vonn to enter World Cup ski races next weekend in Switzerland in her comeback at age 40](https://apnews.com/article/lindsey-vonn-ski-racing-acdc37bed64444ee601b56f8cf5f965c)
+    * [Veteran Daniel Penny, acquitted in NYC subway chokehold, will join Trump's suite at football game](https://apnews.com/article/daniel-perry-chokehold-vance-army-navy-227774aa980f18ee1c9647492e1dcfbe)
     * [The Rams get 4 field goals to beat the 49ers 12-6 in a sloppy game](https://apnews.com/article/rams-49ers-score-bb42079ea0a1e616882b898ff0f9bafd)
-    * [Win or lose at North Carolina, Bill Belichick's NFL legacy is already cemented: Analysis](https://apnews.com/article/belichick-brady-gronkowski-edelman-shula-b143bb77ccabea2647c6ba124230ff06)
-    * [More playing time? A fresh start? Extra cash? The transfer portal produces winners and losers](https://apnews.com/article/transfer-portal-gabriel-etienne-16beb9f80d4b613e53003148a8317c49)
     
     Newsletters
     
@@ -94,9 +94,9 @@ Menu
     
     TOP STORIES
     
-    * [‘The Bibi Files,’ with leaked Netanyahu footage, can't be seen in Israel. Israelis are finding ways](https://apnews.com/article/benjamin-netanyahu-israel-corruption-documentary-afd64fd31e9e3f0d2da11e1ef1acd6d8)
-    * [AP Photos capture British royal family's year of illness and recovery](https://apnews.com/article/british-royals-king-charles-kate-2024-photos-43e51383f158c3c4907096cc5de79771)
-    * [In 'Nickel Boys,' striving for a new way to see](https://apnews.com/article/nickel-boys-ramell-ross-interview-74693d9bff8a9fed535003b8b52bb47e)
+    * [How to write a holiday rom-com for TV, according to the experts](https://apnews.com/article/hallmark-christmas-movie-holiday-romcom-writing-d4451b1563a274f490d9505fa23afd27)
+    * [How Timothée Chalamet transformed into Bob Dylan](https://apnews.com/article/timothee-chalamet-bob-dylan-complete-unknown-interview-982582d6c65895b7d461a1b97ed9e63e)
+    * [Ice Cube's mind stays on music with other endeavors from BIG3 to NFL partnership keeping him busy](https://apnews.com/article/ice-cube-man-down-db3b74c4d3d127302a871bc5a85304a3)
     
 * [Business](https://apnews.com/business)
     
@@ -106,9 +106,9 @@ Menu
     
     TOP STORIES
     
+    * [Musk says US is demanding he pay penalty over disclosures of his Twitter stock purchases](https://apnews.com/article/musk-sec-twitter-stock-purchases-penalty-letter-0eddad3db779c5b07988d7b9886b10b2)
     * [Senate begins final push to expand Social Security benefits for millions of people](https://apnews.com/article/senate-social-security-bill-cc9ba7856c1517bc4c9f8cde050954af)
     * [Trump offers support for dockworkers union by saying ports shouldn't install more automated systems](https://apnews.com/article/trump-dockworkers-union-contract-trade-25b0f9922c8fb8c9b3c3c6ca56dadf47)
-    * [IRS recovers $4.7 billion in back taxes and braces for cuts with Trump and GOP in power](https://apnews.com/article/irs-tax-audits-treasury-werfel-transition-23aaacc9648a5d319eb23b5213ebe7bd)
     
 * [Science](https://apnews.com/science)
     
@@ -190,9 +190,9 @@ Menu
     
     TOP STORIES
     
+    * [Saudi Arabia's plans to host the men's World Cup will harm the climate, experts warn](https://apnews.com/article/climate-world-cup-saudi-arabia-greenhouse-gas-emissions-8750010f26aa1767b69e726c990f7388)
     * [Environmental groups condemn new laws threatening soybean restrictions in Brazil's Amazon](https://apnews.com/article/brazil-amazon-soy-moratorium-mato-grosso-deforestation-greenpeace-dfeb8b1e5cf48c7ea7bf881499c8f508)
     * [In Nigeria's lithium boom, many mines are illegal and children do much of the work](https://apnews.com/article/lithium-mining-energy-transition-child-labor-nigeria-africa-22155590dddf7ecc0b9fd55b221c6d9f)
-    * [Brazilian beef and leather companies fall short in tackling deforestation, a study finds](https://apnews.com/article/brazil-amazon-deforestation-beef-climate-e3e805d2b25d4b7c561eae49ffee1863)
     
 * [Health](https://apnews.com/health)
     
@@ -213,9 +213,9 @@ Menu
     
     TOP STORIES
     
+    * [OpenAI's Altman will donate $1 million to Trump's inaugural fund](https://apnews.com/article/sam-altman-donald-trump-openai-3b7a87037f3718eb3edc73e94be8a61a)
     * [Nearly half of US teens are online 'constantly,' Pew report finds](https://apnews.com/article/teenagers-social-media-internet-pew-survey-02defc5b53dc4216da1efa63c82a30af)
-    * [One Tech Tip: How to protect your communications through encryption](https://apnews.com/article/privacy-encryption-signal-whatsapp-9faf31ed3411bc5b7cab0647b4ab224d)
-    * [Google forges ahead with its next generation of AI technology while fending off a breakup threat](https://apnews.com/article/google-artificial-intelligence-gemini-agents-openai-e45758d1198a13e322db0fc208dea621)
+    * [US updates a science and technology pact with China to reflect growing rivalry and security threats](https://apnews.com/article/china-science-tech-agreement-f15ec895ce37b793f0418000ff8a11de)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -225,7 +225,7 @@ Menu
     
     TOP STORIES
     
-    * [Stanley recalls 2.6M switchback and trigger travel mugs due to possible burn hazard](https://apnews.com/article/stanley-mug-recall-walmart-amazon-target-08fed4ae4f3f9269285f0ae3cb77a3ab)
+    * [Stanley recalls millions of travel mugs over concerns the lids might fall off, causing burns](https://apnews.com/article/stanley-mug-recall-walmart-amazon-target-08fed4ae4f3f9269285f0ae3cb77a3ab)
     * [AP Photos capture British royal family's year of illness and recovery](https://apnews.com/article/british-royals-king-charles-kate-2024-photos-43e51383f158c3c4907096cc5de79771)
     * [Greece's only miniature therapy horses bring joy to many, but their charity is struggling](https://apnews.com/article/greece-miniature-horses-pet-therapy-hospitals-06cf8c8fe9f515c6a15ea636c2f22fad)
     
@@ -233,9 +233,9 @@ Menu
     
     TOP STORIES
     
-    * ['Crown of Thorns' returns to Notre Dame cathedral for public veneration](https://apnews.com/article/notre-dame-france-relc-crown-of-thorns-f06a9d707663ebd407d78282530b3dd5)
+    * [How to write a holiday rom-com for TV, according to the experts](https://apnews.com/article/hallmark-christmas-movie-holiday-romcom-writing-d4451b1563a274f490d9505fa23afd27)
+    * ['Crown of Thorns' returns to Notre Dame Cathedral for public veneration](https://apnews.com/article/notre-dame-france-relc-crown-of-thorns-f06a9d707663ebd407d78282530b3dd5)
     * [Millions mark Mexico's Virgin of Guadalupe Day but calls for a truce in drug violence go unheeded](https://apnews.com/article/mexico-virgin-guadalupe-pilgrims-a834651291a20650426bff6486d7fcec)
-    * [Black denomination upholds stance against same-sex marriage. A gay pastor in its ranks seeks change](https://apnews.com/article/black-church-ame-same-sex-marriage-lgbtq-1a9a4452fd860a8be10149db80d12853)
     
     Newsletters
     
@@ -249,11 +249,11 @@ Menu
     
     TOP STORIES
     
-    * [Rusia ataca infraestructura ucraniana con ofensiva aérea masiva de misiles de crucero y drones](https://apnews.com/article/rusia-ucrania-guerra-ataque-aereo-e76ee46c05d8b5163db4250f98f69f12)
+    * [Encuesta: Pocos estadounidenses tienen confianza en los seleccionados por Trump para su gabinete](https://apnews.com/article/eeuu-elecciones-trump-nuevo-gobierno-encuesta-fa5b30ade166aed70ff1f96abc2acc73)
     * [Destacado abogado de derechos humanos abandona Corte Penal Internacional por no procesar a Venezuela](https://apnews.com/article/venezuela-cpi-claudio-grossman-maduro-e9f88b398937eb39be06d986cc3b99f3)
+    * [Miles de sirios celebran en Damasco en primer viernes de oraciones desde caída de Assad](https://apnews.com/article/siria-damasco-guerra-assad-festejos-4a07496ad7d360f196cf318cc5d51973)
     * [Macron nombra a su aliado centrista Bayrou nuevo primer ministro de Francia](https://apnews.com/article/francia-macron-primer-ministro-centrista-91f7595554fa288f3da17fa636e4c9f6)
-    * [Hospital de Peluches lleva alegría a niños y adultos en Venezuela](https://apnews.com/article/hospital-peluches-juguetes-donacion-ninos-ancianos-venezuela-1fec95232746d2b94cf1b80539c981ca)
-    * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-b6591d2677cbb7480197b763bfeea3b0)
+    * [Oficina de DDHH de la ONU en Venezuela reanuda parcialmente sus actividades tras cierre](https://apnews.com/article/venezuela-onu-derechos-humanos-maduro-3781381d290164ace2357b06dceacb3a)
     
 * [Quizzes](https://apnews.com/quizzes)
     
@@ -414,9 +414,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Thousands of Syrians celebrate during first Friday prayers since Assad's fall](https://apnews.com/article/syria-friday-prayers-demonstrations-4667db0171da539e79662d1de23bd921)
     * [Russia targets Ukrainian infrastructure with a massive attack by cruise missiles and drones](https://apnews.com/article/russia-ukraine-war-aerial-attack-december-13-2024-801d7ba2438ea021d8568502f803bb3e)
-    * [Ukraine's reformed military procurement agency drives the country's NATO ambitions](https://apnews.com/article/russia-ukraine-war-nato-reforms-military-procurement-f0483561c9d402697d7a67dd43ae844d)
-    * [Israeli strike in Gaza kills 25 people as US makes new push for a ceasefire](https://apnews.com/article/israel-palestinians-hamas-war-news-12-12-2024-a39e98286d8d270b6e81608a3d17fa4a)
+    * [Who was in ousted Syrian President Assad's inner circle and where are they now?](https://apnews.com/article/bashar-assad-maher-inner-circle-syria-3d6a78b643e6515a1b89ef5f1b9057f7)
     
     Newsletters
     
@@ -432,9 +432,9 @@ Submit Search
     
     TOP STORIES
     
-    * [A nonprofit leader, a social worker: Here are the stories of the people on Biden's clemency list](https://apnews.com/article/biden-pardons-clemency-544db0fcde540b5f56b202e0a4256a57)
-    * [Back trouble and brain fog bothered suspect in UnitedHealthcare CEO killing, his posts show](https://apnews.com/article/luigi-mangione-back-surgery-mental-health-35086d2e01089f53db7b95e7b6c683e4)
-    * [McDonald's employee who called 911 in CEO's shooting is eligible for a reward, but it will take time](https://apnews.com/article/luigi-mangione-unitedhealthcare-ceo-reward-money-tips-c17b08531049edb381b954e6b876cfda)
+    * [McKinsey & Company agrees to pay $650M for helping Purdue Pharma boost opioid sales](https://apnews.com/article/mckinsey-justice-department-criminal-penalty-opioids-crisis-d47d1bc1c4e14288927c2aea2369b789)
+    * [Woman who falsely accused Duke lacrosse players of rape in 2006 publicly admits she lied](https://apnews.com/article/duke-lacrosse-false-rape-crystal-mangum-2a7bf854f4a640158e51c89e2a209ef8)
+    * [Parts of Midwest brace for ice; Michigan first responders dash to safety during major crash](https://apnews.com/article/freezing-rain-ice-midwest-47a29adfac6c8ad93f92b705686785c6)
     
     Newsletters
     
@@ -462,9 +462,9 @@ Submit Search
     
     TOP STORIES
     
-    * [About 3 in 10 are highly confident in Trump on Cabinet, spending or military oversight: AP-NORC poll](https://apnews.com/article/trump-cabinet-administration-biden-poll-be16ac992769e9c4636854eee7999dfb)
+    * [Only 3 in 10 are highly confident about Trump's Cabinet picks: AP-NORC poll](https://apnews.com/article/trump-cabinet-administration-biden-poll-be16ac992769e9c4636854eee7999dfb)
+    * [Veteran Daniel Penny, acquitted in NYC subway chokehold, will join Trump's suite at football game](https://apnews.com/article/daniel-perry-chokehold-vance-army-navy-227774aa980f18ee1c9647492e1dcfbe)
     * [Watchdog finds FBI intelligence missteps before Jan. 6 riot, but no undercover agents were present](https://apnews.com/article/justice-department-inspector-general-capitol-riot-jan-6-79c7ea02cf66c874f9201ae8e9294239)
-    * [Highlights from Trump's interview with Time magazine](https://apnews.com/article/trump-time-riot-deportations-abortion-pardons-musk-b77c73a52401c3ebd463e2cbda8f1765)
     
     Newsletters
     
@@ -492,9 +492,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Lindsey Vonn to enter World Cup ski races next weekend in Switzerland in her comeback at age 40](https://apnews.com/article/lindsey-vonn-ski-racing-acdc37bed64444ee601b56f8cf5f965c)
+    * [Veteran Daniel Penny, acquitted in NYC subway chokehold, will join Trump's suite at football game](https://apnews.com/article/daniel-perry-chokehold-vance-army-navy-227774aa980f18ee1c9647492e1dcfbe)
     * [The Rams get 4 field goals to beat the 49ers 12-6 in a sloppy game](https://apnews.com/article/rams-49ers-score-bb42079ea0a1e616882b898ff0f9bafd)
-    * [Win or lose at North Carolina, Bill Belichick's NFL legacy is already cemented: Analysis](https://apnews.com/article/belichick-brady-gronkowski-edelman-shula-b143bb77ccabea2647c6ba124230ff06)
-    * [More playing time? A fresh start? Extra cash? The transfer portal produces winners and losers](https://apnews.com/article/transfer-portal-gabriel-etienne-16beb9f80d4b613e53003148a8317c49)
     
     Newsletters
     
@@ -521,9 +521,9 @@ Submit Search
     
     TOP STORIES
     
-    * [‘The Bibi Files,’ with leaked Netanyahu footage, can't be seen in Israel. Israelis are finding ways](https://apnews.com/article/benjamin-netanyahu-israel-corruption-documentary-afd64fd31e9e3f0d2da11e1ef1acd6d8)
-    * [AP Photos capture British royal family's year of illness and recovery](https://apnews.com/article/british-royals-king-charles-kate-2024-photos-43e51383f158c3c4907096cc5de79771)
-    * [In 'Nickel Boys,' striving for a new way to see](https://apnews.com/article/nickel-boys-ramell-ross-interview-74693d9bff8a9fed535003b8b52bb47e)
+    * [How to write a holiday rom-com for TV, according to the experts](https://apnews.com/article/hallmark-christmas-movie-holiday-romcom-writing-d4451b1563a274f490d9505fa23afd27)
+    * [How Timothée Chalamet transformed into Bob Dylan](https://apnews.com/article/timothee-chalamet-bob-dylan-complete-unknown-interview-982582d6c65895b7d461a1b97ed9e63e)
+    * [Ice Cube's mind stays on music with other endeavors from BIG3 to NFL partnership keeping him busy](https://apnews.com/article/ice-cube-man-down-db3b74c4d3d127302a871bc5a85304a3)
     
 * [Business](https://apnews.com/business)
     
@@ -538,9 +538,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Musk says US is demanding he pay penalty over disclosures of his Twitter stock purchases](https://apnews.com/article/musk-sec-twitter-stock-purchases-penalty-letter-0eddad3db779c5b07988d7b9886b10b2)
     * [Senate begins final push to expand Social Security benefits for millions of people](https://apnews.com/article/senate-social-security-bill-cc9ba7856c1517bc4c9f8cde050954af)
     * [Trump offers support for dockworkers union by saying ports shouldn't install more automated systems](https://apnews.com/article/trump-dockworkers-union-contract-trade-25b0f9922c8fb8c9b3c3c6ca56dadf47)
-    * [IRS recovers $4.7 billion in back taxes and braces for cuts with Trump and GOP in power](https://apnews.com/article/irs-tax-audits-treasury-werfel-transition-23aaacc9648a5d319eb23b5213ebe7bd)
     
 * [Science](https://apnews.com/science)
     
@@ -638,9 +638,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Saudi Arabia's plans to host the men's World Cup will harm the climate, experts warn](https://apnews.com/article/climate-world-cup-saudi-arabia-greenhouse-gas-emissions-8750010f26aa1767b69e726c990f7388)
     * [Environmental groups condemn new laws threatening soybean restrictions in Brazil's Amazon](https://apnews.com/article/brazil-amazon-soy-moratorium-mato-grosso-deforestation-greenpeace-dfeb8b1e5cf48c7ea7bf881499c8f508)
     * [In Nigeria's lithium boom, many mines are illegal and children do much of the work](https://apnews.com/article/lithium-mining-energy-transition-child-labor-nigeria-africa-22155590dddf7ecc0b9fd55b221c6d9f)
-    * [Brazilian beef and leather companies fall short in tackling deforestation, a study finds](https://apnews.com/article/brazil-amazon-deforestation-beef-climate-e3e805d2b25d4b7c561eae49ffee1863)
     
 * [Health](https://apnews.com/health)
     
@@ -664,9 +664,9 @@ Submit Search
     
     TOP STORIES
     
+    * [OpenAI's Altman will donate $1 million to Trump's inaugural fund](https://apnews.com/article/sam-altman-donald-trump-openai-3b7a87037f3718eb3edc73e94be8a61a)
     * [Nearly half of US teens are online 'constantly,' Pew report finds](https://apnews.com/article/teenagers-social-media-internet-pew-survey-02defc5b53dc4216da1efa63c82a30af)
-    * [One Tech Tip: How to protect your communications through encryption](https://apnews.com/article/privacy-encryption-signal-whatsapp-9faf31ed3411bc5b7cab0647b4ab224d)
-    * [Google forges ahead with its next generation of AI technology while fending off a breakup threat](https://apnews.com/article/google-artificial-intelligence-gemini-agents-openai-e45758d1198a13e322db0fc208dea621)
+    * [US updates a science and technology pact with China to reflect growing rivalry and security threats](https://apnews.com/article/china-science-tech-agreement-f15ec895ce37b793f0418000ff8a11de)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -684,7 +684,7 @@ Submit Search
     
     TOP STORIES
     
-    * [Stanley recalls 2.6M switchback and trigger travel mugs due to possible burn hazard](https://apnews.com/article/stanley-mug-recall-walmart-amazon-target-08fed4ae4f3f9269285f0ae3cb77a3ab)
+    * [Stanley recalls millions of travel mugs over concerns the lids might fall off, causing burns](https://apnews.com/article/stanley-mug-recall-walmart-amazon-target-08fed4ae4f3f9269285f0ae3cb77a3ab)
     * [AP Photos capture British royal family's year of illness and recovery](https://apnews.com/article/british-royals-king-charles-kate-2024-photos-43e51383f158c3c4907096cc5de79771)
     * [Greece's only miniature therapy horses bring joy to many, but their charity is struggling](https://apnews.com/article/greece-miniature-horses-pet-therapy-hospitals-06cf8c8fe9f515c6a15ea636c2f22fad)
     
@@ -692,9 +692,9 @@ Submit Search
     
     TOP STORIES
     
-    * ['Crown of Thorns' returns to Notre Dame cathedral for public veneration](https://apnews.com/article/notre-dame-france-relc-crown-of-thorns-f06a9d707663ebd407d78282530b3dd5)
+    * [How to write a holiday rom-com for TV, according to the experts](https://apnews.com/article/hallmark-christmas-movie-holiday-romcom-writing-d4451b1563a274f490d9505fa23afd27)
+    * ['Crown of Thorns' returns to Notre Dame Cathedral for public veneration](https://apnews.com/article/notre-dame-france-relc-crown-of-thorns-f06a9d707663ebd407d78282530b3dd5)
     * [Millions mark Mexico's Virgin of Guadalupe Day but calls for a truce in drug violence go unheeded](https://apnews.com/article/mexico-virgin-guadalupe-pilgrims-a834651291a20650426bff6486d7fcec)
-    * [Black denomination upholds stance against same-sex marriage. A gay pastor in its ranks seeks change](https://apnews.com/article/black-church-ame-same-sex-marriage-lgbtq-1a9a4452fd860a8be10149db80d12853)
     
     Newsletters
     
@@ -708,11 +708,11 @@ Submit Search
     
     TOP STORIES
     
-    * [Rusia ataca infraestructura ucraniana con ofensiva aérea masiva de misiles de crucero y drones](https://apnews.com/article/rusia-ucrania-guerra-ataque-aereo-e76ee46c05d8b5163db4250f98f69f12)
+    * [Encuesta: Pocos estadounidenses tienen confianza en los seleccionados por Trump para su gabinete](https://apnews.com/article/eeuu-elecciones-trump-nuevo-gobierno-encuesta-fa5b30ade166aed70ff1f96abc2acc73)
     * [Destacado abogado de derechos humanos abandona Corte Penal Internacional por no procesar a Venezuela](https://apnews.com/article/venezuela-cpi-claudio-grossman-maduro-e9f88b398937eb39be06d986cc3b99f3)
+    * [Miles de sirios celebran en Damasco en primer viernes de oraciones desde caída de Assad](https://apnews.com/article/siria-damasco-guerra-assad-festejos-4a07496ad7d360f196cf318cc5d51973)
     * [Macron nombra a su aliado centrista Bayrou nuevo primer ministro de Francia](https://apnews.com/article/francia-macron-primer-ministro-centrista-91f7595554fa288f3da17fa636e4c9f6)
-    * [Hospital de Peluches lleva alegría a niños y adultos en Venezuela](https://apnews.com/article/hospital-peluches-juguetes-donacion-ninos-ancianos-venezuela-1fec95232746d2b94cf1b80539c981ca)
-    * [AP Fotos: Las mejores fotos de la semana en América Latina](https://apnews.com/world-news/general-news-b6591d2677cbb7480197b763bfeea3b0)
+    * [Oficina de DDHH de la ONU en Venezuela reanuda parcialmente sus actividades tras cierre](https://apnews.com/article/venezuela-onu-derechos-humanos-maduro-3781381d290164ace2357b06dceacb3a)
     
 * [Quizzes](https://apnews.com/quizzes)
     
