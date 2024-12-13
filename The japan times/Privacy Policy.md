@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 13, 2024](https://www.japantimes.co.jp/archive/2024/12/13/ "archive page")
+[December 14, 2024](https://www.japantimes.co.jp/archive/2024/12/14/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -464,25 +464,25 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[JR East announces 10-year plan to drastically overhaul Suica](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
-
-  [![The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439434.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ")](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
-
 [New Japanese condos now cost 10 times average salary, study shows](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
 
   [![Tokyo has the highest price-to-income ratio for high-rise condominiums in the country, at 17.78 times.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439829.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo has the highest price-to-income ratio for high-rise condominiums in the country, at 17.78 times.")](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
 
+[28-year-old widow of ‘Don Juan of Kishu’ acquitted of his murder](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/don-juan-kishu-ruling/ "28-year-old widow of ‘Don Juan of Kishu’ acquitted of his murder")
+
+  [![A handout photo shows Kosuke Nozaki (right), who was found dead of a drug overdose, and Saki Sudo, who was his wife.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439738.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A handout photo shows Kosuke Nozaki (right), who was found dead of a drug overdose, and Saki Sudo, who was his wife.")](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/don-juan-kishu-ruling/ "28-year-old widow of ‘Don Juan of Kishu’ acquitted of his murder")
+
+[JR East announces 10-year plan to drastically overhaul Suica](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
+
+  [![The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439434.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ")](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
+
+[Danger for yen emerges with speculation BOJ may stand pat longer](https://www.japantimes.co.jp/business/2024/12/12/markets/yen-risk-boj/ "Danger for yen emerges with speculation BOJ may stand pat longer")
+
+  [![The yen slumped to its weakest in level in more than two weeks on Wednesday as traders reacted to a report that BOJ officials saw little cost to waiting before raising rates.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439874.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The yen slumped to its weakest in level in more than two weeks on Wednesday as traders reacted to a report that BOJ officials saw little cost to waiting before raising rates.")](https://www.japantimes.co.jp/business/2024/12/12/markets/yen-risk-boj/ "Danger for yen emerges with speculation BOJ may stand pat longer")
+
 [Japan tightens cannabis laws amid rising youth usage](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
 
   [![Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439725.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.")](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
-
-[Prince Hisahito to enroll at University of Tsukuba](https://www.japantimes.co.jp/news/2024/12/11/japan/prince-hisahito-tsukuba-university/ "Prince Hisahito to enroll at University of Tsukuba")
-
-  [![Prince Hisahito, who is second in line to the Chrysanthemum Throne, is currently a third-year student at the University of Tsukuba’s affiliated high school.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439508.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prince Hisahito, who is second in line to the Chrysanthemum Throne, is currently a third-year student at the University of Tsukuba’s affiliated high school.")](https://www.japantimes.co.jp/news/2024/12/11/japan/prince-hisahito-tsukuba-university/ "Prince Hisahito to enroll at University of Tsukuba")
-
-[Tokyo remains third in global city index for ninth consecutive year](https://www.japantimes.co.jp/news/2024/12/11/japan/society/tokyo-city-survey/ "Tokyo remains third in global city index for ninth consecutive year")
-
-  [![The silhouettes of Mount Fuji, the Tokyo Metropolitan Government building and Shinjuku skyscrapers are seen during sunset in Tokyo in November. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439220.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The silhouettes of Mount Fuji, the Tokyo Metropolitan Government building and Shinjuku skyscrapers are seen during sunset in Tokyo in November. ")](https://www.japantimes.co.jp/news/2024/12/11/japan/society/tokyo-city-survey/ "Tokyo remains third in global city index for ninth consecutive year")
 
 [London calling: Sumo's U.K. trip brings back memories of 1991](https://www.japantimes.co.jp/sports/2024/12/11/sumo/london-sumo-tournament/ "London calling: Sumo's U.K. trip brings back memories of 1991")
 
@@ -523,9 +523,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Trilateral fighter project takes big step with joint venture deal](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
+
+2 hours ago
+
+[Ruling bloc proposes ¥1.23 million minimum threshold for taxable income](https://www.japantimes.co.jp/news/2024/12/13/japan/politics/ruling-bloc-taxable-income-proposal/ "Ruling bloc proposes ¥1.23 million minimum threshold for taxable income")
+
+3 hours ago
+
+[Japan updates disaster shelter guidelines](https://www.japantimes.co.jp/news/2024/12/13/japan/shelter-guidelines-update/ "Japan updates disaster shelter guidelines")
+
+3 hours ago
+
+[Macron names veteran centrist ally Francois Bayrou as France's prime minister](https://www.japantimes.co.jp/news/2024/12/13/world/politics/francois-bayrou-new-french-pm/ "Macron names veteran centrist ally Francois Bayrou as France's prime minister")
+
+3 hours ago
+
 [China eyes negotiations as Trump threatens new tariffs](https://www.japantimes.co.jp/business/2024/12/13/economy/china-negotiations-trump-tariff-threat/ "China eyes negotiations as Trump threatens new tariffs")
 
-3 mins ago
-
-[Second-generation hibakusha's appeal for state compensation rejected](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/second-generation-hibakusha/ "Second-generation hibakusha's appeal for state compensation rejected")
-
-55 mins ago
-
-[China's 'drills that dare not speak their name' put Taiwan on alert](https://www.japantimes.co.jp/news/2024/12/13/asia-pacific/china-taiwan-drills-new-tactic/ "China's 'drills that dare not speak their name' put Taiwan on alert")
-
-1 hour ago
-
-[Why Is Bill Belichick heading to North Carolina? It's all about control.](https://www.japantimes.co.jp/sports/2024/12/13/belichick-chose-college-for-control/ "Why Is Bill Belichick heading to North Carolina? It's all about control.")
-
-1 hour ago
-
-[LDP-Komeito bloc defers decision on income tax hike to boost defense budget](https://www.japantimes.co.jp/news/2024/12/13/japan/politics/income-tax-defense-postponement/ "LDP-Komeito bloc defers decision on income tax hike to boost defense budget")
-
-1 hour ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
