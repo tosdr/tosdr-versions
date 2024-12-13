@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/onze-medicijnen-slechts-4-is-totaal-effectief/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/het-cda-en-rentmeesterschap-een-lachertje/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
