@@ -318,15 +318,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The first word spoken by Harry Potter is in the second chapter and is “Nearly”.
+Hermione Granger’s last name was almost Puckle.
 
 ### Potter History
 
-July 7, 2009 – Harry Potter and the Deathly Hallows is released in paperback in the United States.
+June 15, 2003 – 7,000 copies of Harry Potter and the Order of the Phoenix are stolen prior to its release, sparking controversy over the security of the books and the likelihood of a spoiler leak.
 
 ### Potter Quote
 
-“Dumbledore would have been happier than anybody to think that there was a little more love in the world.”
+“I won’t let you do it. I’ll — I’ll fight you!”
 
 [](#)
 
