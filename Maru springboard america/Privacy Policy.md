@@ -93,7 +93,7 @@ MARU encourages you to periodically review this Policy to stay informed of how w
 
 Last Updated: July 18, 2022
 
-We are using cookies to give you the best experience on our community website. You can find out more about which cookies we are using on our [cookies page](https://www.springboardamerica.com/static/cookies).
+We are using cookies to give you the best experience on our panel site. You can find out more about which cookies we are using on our [cookies page](https://www.springboardamerica.com/static/cookies).
 
 Accept
 
