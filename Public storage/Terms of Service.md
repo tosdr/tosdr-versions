@@ -114,6 +114,7 @@ Pay Bill
 * About Us
     * [Our Story](https://www.publicstorage.com/our-story.html)
     * [Real Estate](https://www.publicstorage.com/real-estate/real-estate.html)
+    * [Solar Power](https://www.publicstorage.com/solar-power/solar-power.html)
     * [Investor Relations](https://investors.publicstorage.com/investor-relations/default.aspx)
     * [U.S. Locations](https://www.publicstorage.com/storage-facilities?country=United-States)
     * [Global Locations](https://www.publicstorage.com/global-storage-facilities.html)
