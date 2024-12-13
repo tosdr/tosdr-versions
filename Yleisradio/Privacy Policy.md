@@ -2,7 +2,7 @@
 
 [Etusivu](https://yle.fi/)
 
-[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Pentulive](https://yle.fi/t/18-332106/fi)
+[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Pentulive](https://yle.fi/t/18-332106/fi)[Urheilustudio](https://yle.fi/a/74-20131205)
 
 [Hae](https://haku.yle.fi/)
 
@@ -15,6 +15,7 @@ Pinnalla nyt
 
 * [Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)
 * [Pentulive](https://yle.fi/t/18-332106/fi)
+* [Urheilustudio](https://yle.fi/a/74-20131205)
 
 * [Etusivu](https://yle.fi/)
 * [Uutisia lyhyesti](https://yle.fi/uutiset)
