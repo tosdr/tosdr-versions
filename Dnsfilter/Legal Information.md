@@ -1,6 +1,6 @@
 [Past, Present(s), and Future: DNSFilter's 2024 Recap + 2025 Roadmap
 
-REGISTER NOW](https://explore.dnsfilter.com/product-roadmap-2025)
+WATCH NOW](https://explore.dnsfilter.com/product-roadmap-2025)
 
 [![DNSFilter](https://www.dnsfilter.com/hs-fs/hubfs/Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png?width=500&height=117&name=Horizontal%20Logo%20-%20Dark%20-%20Blue%20Swoosh%202.png "DNSFilter")](https://www.dnsfilter.com/)
 
@@ -121,7 +121,7 @@ PRIVACY POLICY
 
 ### Privacy Policy
 
-Last Updated: September 8, 2023
+Last Updated: December 12, 2024
 
 This Privacy Policy (“Privacy Policy”) describes how DNSFilter, Inc. (“DNSFilter,” “us,” “we,” or “our”) may collect, use, and share your personal information in connection with our websites, [www.dnsfilter.com](https://www.dnsfilter.com/) and [www.webshrinker.com](http://www.webshrinker.com/), and any other websites we own and operate that link to this Privacy Policy (collectively, the “Site”) together with the marketing, sale, and provision of our products and services, our social media pages, our events, and our emails and other electronic communications (collectively, the “Service”), and the choices you have with respect to your personal information.
 
@@ -138,6 +138,8 @@ This Privacy Policy covers the following topics:
 [SHARING OF PERSONAL INFORMATION](#SHARING-OF-PERSONAL-INFORMATION)
 
 [INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION YOUR CHOICES](#INTERNATIONAL-TRANSFERS-OF-PERSONAL-INFORMATION)
+
+[YOUR CHOICES](#your-choices)
 
 [CHILDREN’S PRIVACY](#Childrens-privacy)
 
@@ -165,7 +167,7 @@ Personal Information You Provide. We collect personal information when you provi
     
 * Order history, such as records of services you have purchased from us.
     
-* Preferences, such as any preferences you set in your account and any marketing or communications preferences
+* Preferences, such as any preferences you set in your account and any marketing or communications preferences.
     
 * Survey responses, such as the information you provide in response to our surveys, questionnaires, or contests.
     
@@ -177,8 +179,6 @@ Unless we specifically request it, we ask that you not provide us with any sensi
 Personal Information from Third Parties. We may obtain personal information about you from third parties, such as social media platforms and other public sources, third parties that help us advertise our services and find new customers, joint marketing partners, event co-sponsors, and other third parties.
 
 Personal Information Collected Automatically. We, our service providers, and our business partners may automatically log information about you, your computer or mobile device, and your activity over time on our Service and other sites and online services, such as:
-
-  
 
 * Device data, such as your computer or mobile device operating system type and version number, manufacturer and model, browser type, screen resolution, IP address, unique identifiers, the website you visited before browsing to our website, and general location information such as city, state, or geographic area.
     
@@ -202,8 +202,6 @@ Referrals. Customers and other users of the Service may have the opportunity to 
 DNSFilter uses personal information for the purposes set forth below and as otherwise described in this Privacy Policy or at the time of collection.
 
 To Provide the Service. We may use personal information to provide our Service and related products and services, and to operate our business. For example, we use personal information to:
-
-  
 
 * process your transactions, including granting access to our Service and providing our services and technology;
 * establish, manage, monitor, and maintain your account;
@@ -259,7 +257,7 @@ information, where applicable law permits, you specifically and expressly consen
 
 Review and Request Changes to Your Account Personal Information. If you have a DNSFilter account, you can log into their account to review, delete, and make changes to certain personal information stored in your account. If you need to make a change and are unable to do this through your account settings, please email us using the contact information at the end of this Privacy Policy. We rely on you to update and correct the personal information contained in your account. Note that we may keep historical information in our backup files as permitted by law.
 
-Marketing Emails. You may opt-out of marketing-related emails by clicking the “unsubscribe” link at the bottom of the email or by contacting us as described below. You may still receive service-related communications, such as those relating to your account.
+Marketing Emails. You can manage your communication preferences by clicking the “Manage Preferences” link at the bottom of any marketing email you receive from DNSFilter, using our Manage Preferences page to customize the types of communications you wish to receive, or clicking here to receive a unique link via email for secure access to manage your preferences. Please note that even if you opt out of marketing communications, you may still receive essential service-related communications, such as those regarding your account or critical updates.  
 
 Text Messages. We may offer communications via text messages sent by DNSFilter or any of our service providers. To stop receiving text messages from us, reply STOP to any text message you receive from us, or send your request and mobile telephone number to the email address listed at the end of this Privacy Policy. Note that we may send you a message to confirm receipt of your STOP request.
 
@@ -275,7 +273,7 @@ Do Not Track. Some browsers may be configured to send “Do Not Track” signals
 
 ### CHILDREN’S PRIVACY
 
-The Service is not intended for use by anyone under the age of 18, and we do not knowingly collect personal information from minors under 18.
+The Service is not intended for use by anyone under the age of 18, and we do not knowingly collect personal information from minors under 18. 
 
 ### SECURITY OF PERSONAL INFORMATION
 
@@ -301,7 +299,7 @@ If you have questions about the legal basis of how we process your personal info
 
 |     |     |
 | --- | --- |
-| Processing Purpose<br><br>(as described above in the “Use of Personal Information” section) | Legal Basis |
+| Processing Purpose   <br>(as described above in the “Use of Personal Information” section) | Legal Basis |
 | To Provide the Service | Processing is necessary to perform the contract governing our operation of the Services, or to take steps that you request prior to engaging us or our products. Where we cannot process your personal information as required to operate the Services on the grounds of contractual necessity, we process your personal information for this purpose based on our legitimate interests as further described in this Privacy Policy. |
 | Research and Development | Processing is based on our legitimate interests in performing research and development as described in this Privacy Policy. |
 | Direct Marketing | Processing is based on your consent where that consent is required by applicable law. Where we rely on your consent you have the right to withdraw it any time in the manner indicated when you consented or via the relevant Services.<br><br>Where such consent is not required by applicable law, we process your personal information for this purpose based on our legitimate interests in promoting our business and providing you with tailored, relevant content. |
