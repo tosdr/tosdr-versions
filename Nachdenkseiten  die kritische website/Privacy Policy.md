@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Wolfgang Kubicki im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2020/11/Wolfgang-Kubicki-im-Gespraech-mit-Albrecht-Mueller-e1605795693982.png "Wolfgang Kubicki im Gespräch mit Albrecht Müller")](https://www.youtube.com/watch?v=8pDOd0KZv7A&list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA&index=6)
+[![Daniele Ganser im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2023/04/230418-Gespraech-Ganser-Mueller-TitelbildKasten.jpg "Daniele Ganser im Gespräch mit Albrecht Müller")](https://www.nachdenkseiten.de/?p=96507)
 
-* [Wolfgang Kubicki im Gespräch mit Albrecht Müller](https://www.youtube.com/watch?v=8pDOd0KZv7A&list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA&index=6)
+* [Daniele Ganser im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/?p=96507)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
@@ -542,12 +542,12 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### Wichtige Artikel
 
-* [APPELL DER 38. Eine Minute vor Zwölf – Einen großen europäischen Krieg verhindern!](https://www.nachdenkseiten.de/?p=125690)
-* [30 Jahre Budapester Memorandum: Die nukleare Abrüstung der Ukraine im Rückblick](https://www.nachdenkseiten.de/?p=125695)
-* [„Maidan“ in Georgien – Man fühlt sich (fast) wie 2014](https://www.nachdenkseiten.de/?p=125603)
-* [Wir dulden keinen Rassismus … und sind dabei selbst rassistisch](https://www.nachdenkseiten.de/?p=125680)
-* [„Die Wahrheit und nichts als die Wahrheit“ – US-Präsident Joe Biden, sein Sohn Hunter und Donald Trump](https://www.nachdenkseiten.de/?p=125739)
-* [NDR zensiert eigene Recherche zu Einflussnahme der US-Regierung auf „unabhängige“ Investigativplattform OCCRP](https://www.nachdenkseiten.de/?p=125647)
+* [Syrien – Die geopolitischen Folgen des Regime Change](https://www.nachdenkseiten.de/?p=126109)
+* [Staatsräson schlägt Völkerrecht](https://www.nachdenkseiten.de/?p=126096)
+* [Sieht die Bundesregierung Israels Massenbombardements in Syrien vom Völkerrecht gedeckt?](https://www.nachdenkseiten.de/?p=126152)
+* [Deutsche Medien ignorieren weiterhin den Skandal von Rumänien](https://www.nachdenkseiten.de/?p=126102)
+* [Die anhaltende Hölle für Gazas Bevölkerung darf nicht vergessen werden!](https://www.nachdenkseiten.de/?p=126055)
+* [Gespräch mit dem Konfliktforscher Leo Ensel: „Diese Friedensbewegung hat keine Zukunft“](https://www.nachdenkseiten.de/?p=126000)
 
 ### Audioangebot
 
