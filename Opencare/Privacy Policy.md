@@ -439,6 +439,41 @@ If you have questions regarding our Privacy Policy or the manner in which we or 
 
 If you have any questions regarding the privacy practices of a particular Practice, please contact the Practice directly.
 
+Opencare
+--------
+
+* [About Us](https://www.opencare.com/about/)
+* [Careers](https://www.opencare.com/careers/)
+* [Learning center](https://www.opencare.com/blog/)
+* [Log in](https://www.opencare.com/%7B%7B%20patientUrl%20%7D%7D/#/login/)
+* [Referrals](https://www.opencare.com/%7B%7B%20getReferralHref()%20%7D%7D)
+* [Sitemap](https://www.opencare.com/site-map/)
+
+For Dentists
+------------
+
+* [Patient Acquisition](https://www.opencare.com/for-dentists/patient-acquisition/)
+* [Guide to Dental Marketing](https://www.opencare.com/for-dentists/dental-marketing-guide/)
+* [The Opencare Difference](https://www.opencare.com/for-dentists/the-opencare-difference/)
+* [Our Results](https://www.opencare.com/for-dentists/us-based-case-study/)
+* [Practice Login](https://www.opencare.com/%7B%7B%20clinicUrl%20%7D%7D/#/login/)
+
+Blog
+----
+
+* [Dental Marketing](https://www.opencare.com/blog/dental-marketing/)
+* [Dentistry Practice Management](https://www.opencare.com/blog/dental-practice-management/)
+* [Dentist Appointment](https://www.opencare.com/blog/how-to-make-a-dentist-appointment/)
+* [Tonsil Stones](https://www.opencare.com/blog/tonsil-stones/)
+* [Dentist Referrals](https://www.opencare.com/blog/dentist-referral-programs/)
+
+Need Help?
+----------
+
+* [Support](https://www.opencare.com/support/)
+* [Accessibility](https://opencare.zendesk.com/hc/en-us/articles/360052687852)
+* [Privacy Opt-Out](https://www.opencare.com/privacy/?optOut=true)
+
 Popular Searches
 ----------------
 
@@ -526,3 +561,5 @@ Popular Searches
 Level up your oral wellness.
 
 © Opencare 2024 [Terms of Use](https://www.opencare.com/terms/) [Privacy Policy](https://www.opencare.com/privacy/)
+
+[](https://www.facebook.com/OpenCare1 "Facebook")[](https://www.linkedin.com/company/opencare-com "LinkedIn")[](https://twitter.com/opencare "Twitter")[](https://angel.co/opencare "AngelList")[](https://www.glassdoor.ca/Reviews/Opencare-Reviews-E700045.htm "Glassdoor")
