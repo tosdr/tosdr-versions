@@ -410,17 +410,17 @@ Top
     
     [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
-* [![My Favourite Restaurants in Jaffna (& Tourist Map)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/12/20211211_125744-1-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/my-favourite-restaurants-in-jaffna/ "My Favourite Restaurants in Jaffna (& Tourist Map)")
+* [![The Real Locations of Shantaram](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2022/10/Shantaram-TV-show-is-filmed-in-thailand-not-india.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
-    [My Favourite Restaurants in Jaffna (& Tourist Map)](https://blog.karlrock.com/my-favourite-restaurants-in-jaffna/ "My Favourite Restaurants in Jaffna (& Tourist Map)")
+    [The Real Locations of Shantaram](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
-* [![Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9105-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/ "Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?")
+* [![How to Rent a Motorcycle in Pakistan (with Prices)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9157-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
-    [Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?](https://blog.karlrock.com/can-you-take-an-indian-registered-or-foreign-vehicle-to-pakistan/ "Can You Take an Indian-Registered or Foreign Vehicle to Pakistan?")
+    [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
-* [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
+* [![My Karakoram Highway Travel  Super Guide (Safety, Must-Visit Stops, Itinerary, & More)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2024/09/IMG_0336-scaled.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/my-karakoram-highway-travel-super-guide/ "My Karakoram Highway Travel  Super Guide (Safety, Must-Visit Stops, Itinerary, & More)")
     
-    [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
+    [My Karakoram Highway Travel Super Guide (Safety, Must-Visit Stops, Itinerary, & More)](https://blog.karlrock.com/my-karakoram-highway-travel-super-guide/ "My Karakoram Highway Travel  Super Guide (Safety, Must-Visit Stops, Itinerary, & More)")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
