@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for your great support.
+Thank you for the intelligent response! Wow...I'm kind of blown away here. What a breath of fresh air. THANK YOU. That makes perfect sense and I appreciate the explanation. Cheers and you certainly scored a new customer here.
 
-Fahad Saadah
+Paul Caskey
