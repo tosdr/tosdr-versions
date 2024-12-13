@@ -25,7 +25,7 @@
     
     [Contact Us 24/7](https://www.arkoselabs.com/contact/)
     
-* Industries
+* [Industries](https://www.arkoselabs.com/industries/)
     * [![Finance & Fintech](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![Finance & Fintech](https://www.arkoselabs.com/wp-content/uploads/Dollar-Coin.svg)
@@ -140,7 +140,7 @@
         * [Fake Listings / Reviews](https://www.arkoselabs.com/solutions/fake-listings-reviews/)
     * MFA Compromise
         * [Reverse Proxy Phishing (Man-in-the-Middle)](https://www.arkoselabs.com/man-in-the-middle/man-in-the-middle-solution/)
-* Industries
+* [Industries](https://www.arkoselabs.com/industries/)
     * [![Finance & Fintech](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
         
         ![Finance & Fintech](https://www.arkoselabs.com/wp-content/uploads/Dollar-Coin.svg)
