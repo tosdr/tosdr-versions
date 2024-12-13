@@ -1,6 +1,6 @@
 [](https://girls.xyz/)
 
-2880 Online
+3397 Online
 
 [Login](https://girls.xyz/login) [Join now for free](https://girls.xyz/members/join)
 
@@ -10,47 +10,47 @@
 
 Categories
 
-* [Anal (968 Live)](https://girls.xyz/anal)
-* [Arab (16 Live)](https://girls.xyz/arab)
-* [Asian (64 Live)](https://girls.xyz/asian)
-* [Babes (831 Live)](https://girls.xyz/babes)
-* [BBW (201 Live)](https://girls.xyz/bbw)
-* [Best for Privates (84 Live)](https://girls.xyz/best-for-privates)
-* [Big Ass (847 Live)](https://girls.xyz/big-ass)
-* [Big Tits (697 Live)](https://girls.xyz/big-tits)
-* [Blonde (351 Live)](https://girls.xyz/blonde)
-* [Bondage (432 Live)](https://girls.xyz/bondage)
-* [Brunette (1371 Live)](https://girls.xyz/brunette)
-* [College Girls (608 Live)](https://girls.xyz/college-girls)
-* [Curvy (315 Live)](https://girls.xyz/curvy)
-* [Ebony (228 Live)](https://girls.xyz/ebony)
-* [Fetish (1435 Live)](https://girls.xyz/fetish)
-* [Granny (29 Live)](https://girls.xyz/granny)
-* [Group Sex (0 Live)](https://girls.xyz/group-sex)
-* [Hairy Pussy (210 Live)](https://girls.xyz/hairy-pussy)
-* [Housewives (749 Live)](https://girls.xyz/housewives)
-* [Huge Tits (140 Live)](https://girls.xyz/huge-tits)
+* [Anal (1143 Live)](https://girls.xyz/anal)
+* [Arab (17 Live)](https://girls.xyz/arab)
+* [Asian (65 Live)](https://girls.xyz/asian)
+* [Babes (912 Live)](https://girls.xyz/babes)
+* [BBW (223 Live)](https://girls.xyz/bbw)
+* [Best for Privates (115 Live)](https://girls.xyz/best-for-privates)
+* [Big Ass (910 Live)](https://girls.xyz/big-ass)
+* [Big Tits (728 Live)](https://girls.xyz/big-tits)
+* [Blonde (398 Live)](https://girls.xyz/blonde)
+* [Bondage (489 Live)](https://girls.xyz/bondage)
+* [Brunette (1545 Live)](https://girls.xyz/brunette)
+* [College Girls (750 Live)](https://girls.xyz/college-girls)
+* [Curvy (355 Live)](https://girls.xyz/curvy)
+* [Ebony (257 Live)](https://girls.xyz/ebony)
+* [Fetish (1564 Live)](https://girls.xyz/fetish)
+* [Granny (23 Live)](https://girls.xyz/granny)
+* [Group Sex (1 Live)](https://girls.xyz/group-sex)
+* [Hairy Pussy (221 Live)](https://girls.xyz/hairy-pussy)
+* [Housewives (908 Live)](https://girls.xyz/housewives)
+* [Huge Tits (159 Live)](https://girls.xyz/huge-tits)
 * [Indian (11 Live)](https://girls.xyz/indian)
-* [Latina (778 Live)](https://girls.xyz/latina)
-* [Lesbian (13 Live)](https://girls.xyz/lesbian)
-* [Mature (485 Live)](https://girls.xyz/mature)
-* [Medium Tits (750 Live)](https://girls.xyz/medium-tits)
-* [Muscle (33 Live)](https://girls.xyz/muscle)
-* [Petite (211 Live)](https://girls.xyz/petite)
-* [Pornstar (6 Live)](https://girls.xyz/pornstar)
-* [Pregnant (1 Live)](https://girls.xyz/pregnant)
-* [Redhead (202 Live)](https://girls.xyz/redhead)
-* [Shaved Pussy (1292 Live)](https://girls.xyz/shaved-pussy)
-* [Small Tits (337 Live)](https://girls.xyz/small-tits)
-* [Smoking (19 Live)](https://girls.xyz/smoking)
-* [Squirt (1116 Live)](https://girls.xyz/squirt)
-* [Teens 18+ (608 Live)](https://girls.xyz/teens-18)
-* [Toys (1429 Live)](https://girls.xyz/toys)
-* [White Girls (825 Live)](https://girls.xyz/white-girls)
+* [Latina (849 Live)](https://girls.xyz/latina)
+* [Lesbian (12 Live)](https://girls.xyz/lesbian)
+* [Mature (541 Live)](https://girls.xyz/mature)
+* [Medium Tits (871 Live)](https://girls.xyz/medium-tits)
+* [Muscle (63 Live)](https://girls.xyz/muscle)
+* [Petite (302 Live)](https://girls.xyz/petite)
+* [Pornstar (10 Live)](https://girls.xyz/pornstar)
+* [Pregnant (4 Live)](https://girls.xyz/pregnant)
+* [Redhead (259 Live)](https://girls.xyz/redhead)
+* [Shaved Pussy (1516 Live)](https://girls.xyz/shaved-pussy)
+* [Small Tits (442 Live)](https://girls.xyz/small-tits)
+* [Smoking (26 Live)](https://girls.xyz/smoking)
+* [Squirt (1228 Live)](https://girls.xyz/squirt)
+* [Teens 18+ (750 Live)](https://girls.xyz/teens-18)
+* [Toys (1648 Live)](https://girls.xyz/toys)
+* [White Girls (1001 Live)](https://girls.xyz/white-girls)
 
 History
 
-[All Promotions](https://girls.xyz/free-tokens) [Contests](https://girls.xyz/contest/queen-of-queens) [Girls App](https://girls.xyz/mobile-app)
+[All Promotions](https://girls.xyz/free-tokens) [Contests](https://girls.xyz/contest/queen-of-queens-international) [Girls App](https://girls.xyz/mobile-app)
 
 TERMS AND CONDITIONS OF USE – Girls.xyz
 =======================================
@@ -300,15 +300,16 @@ When enabled, the automatic top-up of the tokens will apply every time when the
 
 | Subscriber’s last purchase | Tokens amount on the account when Auto Top-up applies | Auto Top-up /new purchase |
 | --- | --- | --- |
-| 51 Tokens for $3.99 | 10 Tokens | 51 Tokens for $3.99 |
-| 118 Tokens for $7.99 | 90 Tokens | 118 Tokens for $7.99 |
-| 303 Tokens for $19.99 | 90 Tokens | 303 Tokens for $19.99 |
-| 538 Tokens for $29.99 | 90 Tokens | 538 Tokens for $29.99 |
-| 956 Tokens for $49.99 | 90 Tokens | 956 Tokens for $49.99 |
-| 1439 Tokens for $74.99 | 90 Tokens | 1439 Tokens for $74.99 |
-| 9000 Tokens for $499.00 | 90 Tokens | 9000 Tokens for $499.00 |
-| 17980 Tokens for $990.00 | 90 Tokens | 17980 Tokens for $990.00 |
-| 49407 Tokens for $2,500.00 | 90 Tokens | 49407 Tokens for $2,500.00 |
+| 39 Tokens for 2.99 € | 10 Tokens | 39 Tokens for 2.99 € |
+| 76 Tokens for 4.99 € | 30 Tokens | 76 Tokens for 4.99 € |
+| 156 Tokens for 9.99 € | 90 Tokens | 156 Tokens for 9.99 € |
+| 462 Tokens for 24.99 € | 90 Tokens | 462 Tokens for 24.99 € |
+| 984 Tokens for 49.99 € | 90 Tokens | 984 Tokens for 49.99 € |
+| 1260 Tokens for 65.00 € | 90 Tokens | 1260 Tokens for 65.00 € |
+| 1480 Tokens for 74.99 € | 90 Tokens | 1480 Tokens for 74.99 € |
+| 10160 Tokens for 500.00 € | 90 Tokens | 10160 Tokens for 500.00 € |
+| 20000 Tokens for 990.00 € | 90 Tokens | 20000 Tokens for 990.00 € |
+| 50800 Tokens for 2,500.00 € | 90 Tokens | 50800 Tokens for 2,500.00 € |
 
 The option will be active from the moment of its activation till the deactivation at any moment by the Subscriber in the account settings section (please, see hyperlink [https://girls.xyz/account/account-info](https://girls.xyz/account/account-info)). There are no limits for the number of automatic withdrawals of funds and top-up of the tokens, namely, after the option activation it will apply every time when the token balance reaches the above-specified amount of tokens, until the option is disabled by the Subscriber. In case the automatic withdrawal transaction will be declined for any reason while payment processing procedure three times in a row, the transaction will be automatically suspended and the manual payment by the Subscriber will be required.
 
@@ -707,9 +708,9 @@ Support
 
 Contest / Money
 
-* [Top 100 of the Week](https://girls.xyz/contest/queen-of-queens)
+* [Top 100 of the Week](https://girls.xyz/contest/queen-of-queens-international)
 * [All Promotions](https://girls.xyz/free-tokens)
-* [Affiliate Sign up](https://bongacash.com/ref?c=696088)
+* [Affiliate Sign up](https://en.bongacash.com/ref?c=696088)
 
 [Take a tour](https://girls.xyz/user-faq)
 
