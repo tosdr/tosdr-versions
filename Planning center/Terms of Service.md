@@ -61,7 +61,13 @@ Donations
     
     Tithes, offerings, & reporting](https://www.planningcenter.com/giving)
 
-more
+system tools
+
+[home
+
+Dashboard & task management](https://www.planningcenter.com/product/home)
+
+More
 
 * [Integrations
     
