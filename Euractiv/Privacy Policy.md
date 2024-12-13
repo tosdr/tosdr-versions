@@ -443,6 +443,12 @@ Most recent
 
 [13-12-2024
 
+Russia and Turkey need each other as Putin’s influence wanes, experts say](https://www.euractiv.com/section/global-europe/news/russia-and-turkey-need-each-other-as-putins-influence-wanes-experts-say/)[13-12-2024
+
+Amid Stellantis jitters and a secular crisis, the French automotive industry is fearing for its survival](https://www.euractiv.com/section/economy-jobs/news/amid-stellantis-jitters-and-a-secular-crisis-the-french-automotive-industry-is-fearing-for-its-survival/)[13-12-2024
+
+A ‘moratorium’ on job cuts: A workable solution to Europe’s industrial decline?](https://www.euractiv.com/section/economy-jobs/news/a-moratorium-on-job-cuts-a-workable-solution-to-europes-industrial-decline/)[13-12-2024
+
 Centrist François Bayrou appointed French prime minister](https://www.euractiv.com/section/politics/news/centrist-francois-bayrou-appointed-french-prime-minister/)[13-12-2024
 
 Kazakhstan’s critical materials potential ripe for EU supply chain resilience](https://www.euractiv.com/section/economy-jobs/news/kazakhstans-critical-materials-potential-ripe-for-eu-supply-chain-resilience/)[13-12-2024
@@ -455,13 +461,7 @@ Full Schengen accession to boost Romania’s GDP by 2%](https://www.euractiv.com
 
 Slovakia’s striking doctors, opposition urge president to block ‘forced labour’ law](https://www.euractiv.com/section/politics/news/slovakias-striking-doctors-opposition-urge-president-to-block-forced-labour-law/)[13-12-2024
 
-Poland’s Morawiecki to replace Meloni as ECR head](https://www.euractiv.com/section/politics/news/polands-morawiecki-to-replace-meloni-as-ecr-head/)[13-12-2024
-
-Portuguese defence minister says 2% defence target enough for now](https://www.euractiv.com/section/politics/news/portuguese-minister-snubs-pms-pitch-to-review-2-defence-spending-goal/)[13-12-2024
-
-Sánchez’s PSOE tries to ‘seduce’ Puigdemont, again](https://www.euractiv.com/section/politics/news/sanchezs-psoe-tries-to-seduce-puigdemont-again/)[13-12-2024
-
-Italian court ok’s referendum on controversial autonomy law](https://www.euractiv.com/section/politics/news/italian-court-oks-referendum-on-controversial-autonomy-law/)
+Poland’s Morawiecki to replace Meloni as ECR head](https://www.euractiv.com/section/politics/news/polands-morawiecki-to-replace-meloni-as-ecr-head/)
 
 ###### Advertisement
 
@@ -491,14 +491,15 @@ Italian court ok’s referendum on controversial autonomy law](https://www.eurac
 
 * [The Capitals](https://www.euractiv.com/newsletters)
 * [The Brief](https://www.euractiv.com/the-brief/)
-* [Europa Kompakt](https://www.euractiv.com/newsletters)
-* [L'Expresso](https://www.euractiv.com/newsletters)
-* [Le Capitali](https://www.euractiv.com/newsletters)
+* [Economy Brief](https://www.euractiv.com/subscribe-to-the-economy-brief/)
+* [EU Politics Decoded](https://www.euractiv.com/get-eu-elections-decoded-in-your-inbox/)
+* [Global Europe Brief](https://www.euractiv.com/global-brief/)
 * [Agrifood Pro Brief](https://www.euractiv.com/euractiv-pro)
 * [Energy, Environment & Transport Pro Brief](https://www.euractiv.com/euractiv-pro)
 * [Health Pro Brief](https://www.euractiv.com/euractiv-pro)
 * [Technology Pro Brief](https://www.euractiv.com/euractiv-pro)
 * [Jobletter](https://www.euractiv.com/newsletters)
+* [Browse all newsletters](https://www.euractiv.com/newsletters)
 
 ##### Services
 
