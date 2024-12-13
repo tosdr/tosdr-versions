@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/fire-damages-crystal-palace-house/)
+    
+    ### [Fire damages Crystal Palace house](https://southwarknews.co.uk/area/crystal-palace/fire-damages-crystal-palace-house/)
+    
+    [![Tai Yasharahyalah and his wife, Naiyahmi Yasharahyalah, were jailed for 24-and-a-half years and 19-and-a-half years respectively](https://southwarknews.co.uk/wp-content/uploads/2024/12/loopflex3-e1734087485675-360x180.jpg)](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
+    
+    ### [Man who embalmed and buried son in back garden jailed alongside wife for 24-and-a-half years](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
+    
     [![Craig Dorney, from Lewisham, took advantage of a young woman after they happened to meet getting out of separate taxis](https://southwarknews.co.uk/wp-content/uploads/2024/12/Craig-Dorney-from-Lewisham-took-advantage-of-a-young-woman-after-they-happened-to-meet-getting-out-of-separate-taxis-360x180.png)](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
     
     ### [Opportunistic rapist foiled after victim recorded horrific attack](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
@@ -47,15 +55,6 @@
     [![L: Blenheim Grove building has been left like this for years and still has no tenants. R: The arcade is next to be demolished but delays have pushed it back.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-11-12-2024-at-11.08-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/peckham-rye-businesses-blighted-by-delayed-station-square-regeneration-say-the-area-has-been-left-to-rot/)
     
     ### [Peckham Rye: Businesses blighted by delayed Station Square regeneration say the area has been ‘left to rot’](https://southwarknews.co.uk/news/news-plus/peckham-rye-businesses-blighted-by-delayed-station-square-regeneration-say-the-area-has-been-left-to-rot/)
-    
-    [![The Aylesbury Estate in Walworth, Southwark. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Aylesbury-Estate-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
-    
-    ### [Lib Dems claim Southwark Council failing to use empty homes powers](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
-    
-    [![CGI of James Allen's Girls' School's new planned pre-prep building on East Dulwich Grove. 
-    CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/12/CGI-of-James-Allens-Girls-Schools-360x180.jpg)](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
-    
-    ### [London’s oldest private girls’ school wins approval for new home](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +105,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/fire-damages-crystal-palace-house/)
+    
+    ### [Fire damages Crystal Palace house](https://southwarknews.co.uk/area/crystal-palace/fire-damages-crystal-palace-house/)
+    
+    [![Tai Yasharahyalah and his wife, Naiyahmi Yasharahyalah, were jailed for 24-and-a-half years and 19-and-a-half years respectively](https://southwarknews.co.uk/wp-content/uploads/2024/12/loopflex3-e1734087485675-360x180.jpg)](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
+    
+    ### [Man who embalmed and buried son in back garden jailed alongside wife for 24-and-a-half years](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
+    
     [![Craig Dorney, from Lewisham, took advantage of a young woman after they happened to meet getting out of separate taxis](https://southwarknews.co.uk/wp-content/uploads/2024/12/Craig-Dorney-from-Lewisham-took-advantage-of-a-young-woman-after-they-happened-to-meet-getting-out-of-separate-taxis-360x180.png)](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
     
     ### [Opportunistic rapist foiled after victim recorded horrific attack](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
@@ -133,15 +140,6 @@ View All Result
     [![L: Blenheim Grove building has been left like this for years and still has no tenants. R: The arcade is next to be demolished but delays have pushed it back.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-11-12-2024-at-11.08-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/peckham-rye-businesses-blighted-by-delayed-station-square-regeneration-say-the-area-has-been-left-to-rot/)
     
     ### [Peckham Rye: Businesses blighted by delayed Station Square regeneration say the area has been ‘left to rot’](https://southwarknews.co.uk/news/news-plus/peckham-rye-businesses-blighted-by-delayed-station-square-regeneration-say-the-area-has-been-left-to-rot/)
-    
-    [![The Aylesbury Estate in Walworth, Southwark. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Aylesbury-Estate-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
-    
-    ### [Lib Dems claim Southwark Council failing to use empty homes powers](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
-    
-    [![CGI of James Allen's Girls' School's new planned pre-prep building on East Dulwich Grove. 
-    CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/12/CGI-of-James-Allens-Girls-Schools-360x180.jpg)](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
-    
-    ### [London’s oldest private girls’ school wins approval for new home](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -227,19 +225,25 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [9th December 2024](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
 
-[![Bodycam footage from one of Kent Police's raids. Image: Kent Police](https://southwarknews.co.uk/wp-content/uploads/2024/12/cliwram-latest-1-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
-
-### [Man charged with drug supply after £5,000 cash and diamond chain found in Southwark property](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
-
-[7th December 2024](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
-
 [![Millwall head coach Neil Harris salutes the fans. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/06/N-Harris-399393-2-scaled-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
 
 ### [After the stunning rescue mission, the head coach v manager tension, the control struggle – is it a final goodbye for Neil Harris and Millwall?](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
 
 [10th December 2024](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
 
+[![Bodycam footage from one of Kent Police's raids. Image: Kent Police](https://southwarknews.co.uk/wp-content/uploads/2024/12/cliwram-latest-1-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
+
+### [Man charged with drug supply after £5,000 cash and diamond chain found in Southwark property](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
+
+[7th December 2024](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
+
 ### Featured Articles
+
+[![Tai Yasharahyalah and his wife, Naiyahmi Yasharahyalah, were jailed for 24-and-a-half years and 19-and-a-half years respectively](https://southwarknews.co.uk/wp-content/uploads/2024/12/loopflex3-e1734087485675-120x86.jpg)](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
+
+### [Man who embalmed and buried son in back garden jailed alongside wife for 24-and-a-half years](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
+
+[13th December 2024](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
 
 [![Craig Dorney, from Lewisham, took advantage of a young woman after they happened to meet getting out of separate taxis](https://southwarknews.co.uk/wp-content/uploads/2024/12/Craig-Dorney-from-Lewisham-took-advantage-of-a-young-woman-after-they-happened-to-meet-getting-out-of-separate-taxis-120x86.png)](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
 
@@ -271,12 +275,6 @@ CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-con
 ### [London’s oldest private girls’ school wins approval for new home](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
 
 [12th December 2024](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
-
-[![Felicitas Kanu at Westminster Abbey.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Felicitas-Kanu-at-Westminster-Abbey-120x86.jpg)](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
-
-### [Evelina London staff receive royal invite to carol service hosted by Princess of Wales](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
-
-[12th December 2024](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
 
 ### USEFUL PAGES
 
