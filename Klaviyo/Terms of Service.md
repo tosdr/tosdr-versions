@@ -15,18 +15,11 @@
 * [Academy](https://academy.klaviyo.com/)
 * [Groups](https://community.klaviyo.com/groups)
 * [Champions](https://community.klaviyo.com/community)
-* [My Account](https://www.klaviyo.com/login)
 
 [![Klaviyo Community Logo](https://uploads-us-west-2.insided.com/klaviyo-en/attachment/d9f4dbeb-9887-4eb8-b4a4-77e87d01ff4b.png)](https://community.klaviyo.com/)
 
 * [](https://community.klaviyo.com/topic/new)
 * [](#)
-
-[](https://community.klaviyo.com/events/more-than-skin-deep-connections-strengthening-customer-relationships-and-brand-loyalty-with-skin-rocks-252)
-
-More than Skin-Deep Connections: Strengthening customer relationships and brand loyalty with Skin Ro...
-
-(Wed, 18 Dec, 5:00 pm)
 
 * [Home](https://community.klaviyo.com/)
 * Terms
