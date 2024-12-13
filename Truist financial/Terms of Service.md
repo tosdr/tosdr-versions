@@ -54,7 +54,7 @@ Sign in
 * [Español](# "Global Switch")
 * [More](#)
     
-    [About Truist](https://www.truist.com/who-we-are/about-truist) [Care](https://www.truist.com/care) [Fraud and security](https://www.truist.com/fraud-and-security) [Payment relief](https://www.truist.com/payment-relief/personal-loans) [Careers](https://careers.truist.com/) [Privacy](https://www.truist.com/privacy) [Legal](https://www.truist.com/terms-and-conditions)
+    [About Truist](https://www.truist.com/who-we-are/about-truist) [Care](https://www.truist.com/care) [Disaster relief](https://www.truist.com/disaster) [Fraud and security](https://www.truist.com/fraud-and-security) [Payment relief](https://www.truist.com/payment-relief/personal-loans) [Careers](https://careers.truist.com/) [Privacy](https://www.truist.com/privacy) [Legal](https://www.truist.com/terms-and-conditions)
     
 
  [![](//static.truist.com/content/dam/global-images/truist-logo-purple.svg) Truist Homepage](https://www.truist.com/)
