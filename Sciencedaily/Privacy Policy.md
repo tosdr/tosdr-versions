@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 12, 2024**
+**December 13, 2024**
 
 * * *
 
@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Vastly Improved Carbon Capture Ability](https://www.sciencedaily.com/releases/2024/12/241212150325.htm)
+* [Real-Time Insight On How New Species Form](https://www.sciencedaily.com/releases/2024/12/241212145810.htm)
+* [Air Pollution in India: Millions of Deaths](https://www.sciencedaily.com/releases/2024/12/241211190055.htm)
+* [Overfishing Has Halved Shark and Ray Populations](https://www.sciencedaily.com/releases/2024/12/241212190115.htm)
+* [Gene Transfer from Soil Bacteria to Humans](https://www.sciencedaily.com/releases/2024/12/241212150232.htm)
+* [Body-Heat Powered Wearable Devices](https://www.sciencedaily.com/releases/2024/12/241212145818.htm)
+* [Ocean's Warm Blob: Massive Die-Off of Seabirds](https://www.sciencedaily.com/releases/2024/12/241212145713.htm)
+* [Hydrologists Map Changing River Landscapes](https://www.sciencedaily.com/releases/2024/12/241212145711.htm)
 * [A Dial for Tuning the Immune System](https://www.sciencedaily.com/releases/2024/12/241212150320.htm)
 * [Sculpting the Brain (Without Chisel or Scalpel)](https://www.sciencedaily.com/releases/2024/12/241210115421.htm)
-* [Superflares Once Per Century](https://www.sciencedaily.com/releases/2024/12/241212145729.htm)
-* [Neanderthal Interbreeding With Modern Humans](https://www.sciencedaily.com/releases/2024/12/241212145726.htm)
-* [Oldest Modern Human Genomes Sequenced](https://www.sciencedaily.com/releases/2024/12/241212145718.htm)
-* [Forecasting Where the Next Big Quake Will Start](https://www.sciencedaily.com/releases/2024/12/241212120030.htm)
-* [How Bacterium Withstands Extreme Radiation](https://www.sciencedaily.com/releases/2024/12/241209162526.htm)
-* [Important Step With Space-Time Crystals](https://www.sciencedaily.com/releases/2024/12/241209122743.htm)
-* [Minuscule Robots for Targeted Drug Delivery](https://www.sciencedaily.com/releases/2024/12/241211143603.htm)
-* [Early-Onset Colorectal Cancer Surges Globally](https://www.sciencedaily.com/releases/2024/12/241211190108.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
+[Language Acquisition](https://www.sciencedaily.com/news/mind_brain/language_acquisition/)
 
 [Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
 
-[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
+[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
-
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
-
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
+
+[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
-
-[Biodiversity](https://www.sciencedaily.com/news/earth_climate/biodiversity/)
+[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
 
 [Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
+
+[Biodiversity](https://www.sciencedaily.com/news/earth_climate/biodiversity/)
 
   
 
