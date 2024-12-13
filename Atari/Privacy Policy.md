@@ -258,6 +258,8 @@ Apparel & Collectibles
     
     [Jaguar](https://www.atari.com/collections/jaguar)
     
+    [2600 Classics](https://www.atari.com/collections/2600-classics)
+    
     [Roasty Buds x Atari VCS](https://www.atari.com/collections/roasty-buds-x-atari-vcs)
     
     [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
@@ -266,9 +268,9 @@ Apparel & Collectibles
     
     [RollerCoaster Tycoon](https://www.atari.com/collections/rollercoaster-tycoon)
 
-[![](files/atari_merch_nov2024-206.jpg)
+[![](files/atari_merch_nov2024-307.jpg)
 
-Shop All Tees](https://www.atari.com/collections/atari-tshirts)[![](files/atari_merch_nov2024-105_1.jpg)
+Shop All Hoodies](https://www.atari.com/collections/sweatshirts)[![](files/atari_merch_nov2024-105_1.jpg)
 
 Shop All Hats](https://www.atari.com/collections/hats)
 
@@ -304,6 +306,8 @@ COLLECTIONS
     
     [Jaguar](https://www.atari.com/collections/jaguar)
     
+    [2600 Classics](https://www.atari.com/collections/2600-classics)
+    
     [Roasty Buds x Atari VCS](https://www.atari.com/collections/roasty-buds-x-atari-vcs)
     
     [RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
@@ -312,9 +316,9 @@ COLLECTIONS
     
     [RollerCoaster Tycoon](https://www.atari.com/collections/rollercoaster-tycoon)
 
-[![](files/atari_merch_nov2024-206.jpg)
+[![](files/atari_merch_nov2024-307.jpg)
 
-Shop All Tees](https://www.atari.com/collections/atari-tshirts)
+Shop All Hoodies](https://www.atari.com/collections/sweatshirts)
 
 [![](files/atari_merch_nov2024-105_1.jpg)
 
