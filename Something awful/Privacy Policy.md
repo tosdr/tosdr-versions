@@ -205,27 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Swingers Board](https://www.somethingawful.com/weekend-web/swingers-board/1/)
-* [CBBC Newsground](https://www.somethingawful.com/weekend-web/cbbc-newsground/1/)
-* [Lawsuits and Government Ties](https://www.somethingawful.com/news/lawsuits-government-ties/)
-* [Ten Thousand ROM Pit Reviews](https://www.somethingawful.com/news/ten-thousand-rom/)
-* [AwfulVision: Reader Mailbag #1!](https://www.somethingawful.com/awfulvision/awfulvision-reader-mailbag/1/)
+* [Phake Games 4](https://www.somethingawful.com/photoshop-phriday/phake-games-4/1/)
+* [No one spergs like Gaston!](https://www.somethingawful.com/awfulvision/icp-gaston-paint/1/)
+* [Historical Inaccuracies (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/historical-inaccuracies-part/1/)
+* [It Came From Outer Space](https://www.somethingawful.com/photoshop-phriday/came-from-outer/1/)
+* [Create Your Own Adventure: Summer Vacation](https://www.somethingawful.com/news/create-adventure/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Did you name your bongs or fancy glass pipes in college](http://forums.somethingawful.com/showthread.php?threadid=4077360 "Did you name your bongs or fancy glass pipes in college")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [A war with non human intelligence is brewing. Choose your faction.](http://forums.somethingawful.com/showthread.php?threadid=4077351 "A war with non human intelligence is brewing. Choose your faction.")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/guns.png) [Forums Apocalypse survival plan](http://forums.somethingawful.com/showthread.php?threadid=4077418 "Forums Apocalypse survival plan")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [ITT We are shipwrecked on a deserted island](http://forums.somethingawful.com/showthread.php?threadid=4077439 "ITT We are shipwrecked on a deserted island")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/games.png) [Goons Vs. Gartic Phone (Friday, December 13, 7PM CST)](http://forums.somethingawful.com/showthread.php?threadid=4077452 "Goons Vs. Gartic Phone (Friday, December 13, 7PM CST)")
 * ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [Does anybody actually drink caffeine free soda](http://forums.somethingawful.com/showthread.php?threadid=4077421 "Does anybody actually drink caffeine free soda")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [Why are pharmacies so awful?](http://forums.somethingawful.com/showthread.php?threadid=4077387 "Why are pharmacies so awful?")
 
 ### Random Articles
 
-* [24 Cartoons!](https://www.somethingawful.com/flash-tub/twentyfour-cartoons/)
-* [I love to kill rats in sewers more than anything in life](https://www.somethingawful.com/daily-dirt/love-kill-rats/)
-* [The Flag Factory (Thanks, Hollisbrown!)](https://www.somethingawful.com/awful-links/theflagfactory-theflagpole/)
-* [Burt's Power Points](https://www.somethingawful.com/news/burts-power-points/1/)
-* [Cover up](https://www.somethingawful.com/news/cover-up/)
+* [Recalled Foods](https://www.somethingawful.com/photoshop-phriday/recalled-foods/1/)
+* [More Things That Happen When You Assume](https://www.somethingawful.com/news/what-happens-assume/)
+* [It Feels Like Autumn!](https://www.somethingawful.com/awfulvision/furry-gemini-goth/1/)
+* [Dream Home](https://www.somethingawful.com/movie-reviews/dream-home/1/)
+* [The Best Puns are Accidental](https://www.somethingawful.com/news/goose-punishment/)
 
 [Random!](https://www.somethingawful.com/random/)
 
