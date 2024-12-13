@@ -330,19 +330,37 @@ Im Rahmen der Verbesserung der Sicherheit sowohl für die hier gespeicherten Dat
 
 ### Termine
 
-**11.12.2024**
-
-16.00 Uhr 1. Adventskonzert in der Reglerkirche
-
-18.00 Uhr 2. Adventskonzert in der Reglerkirche
-
 **16.12.2024 – 04.02.2025**
 
-Terminvereinbarung zur Schüleranmeldung online möglich (Link wird ab 16.12.2024 hier bekanntgegeben)
+Terminvereinbarung zur Schüleranmeldung hier online möglich
 
 **22.12.2024**
 
 17.00 Uhr Ehemaligengottesdienst in der Schottenkirche
+
+**07.01.2025**
+
+19.30 Uhr Aula Informationselternabend zur Schüleraufnahme
+
+**09.01.2025**
+
+19.00 Uhr Aula Elternabend für 10abc zum Kurssystem und zur BLF
+
+**10.01.2025**
+
+18.00 Uhr Sankt Ursula Lichter Ausblick
+
+**14.01.2025**
+
+16.30 Uhr Schulkonferenz
+
+**21.01.2025**
+
+19.30 Uhr Elternsprechersitzung
+
+**25.01.2025**
+
+10.00 – 14.00 Uhr Tag der offenen Tür
 
 ![](https://www.ess-erfurt.de/wp-content/uploads/Service/Logo_Praxissemesterschule_2023-24-002.png)
 
