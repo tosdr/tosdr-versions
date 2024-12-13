@@ -148,6 +148,7 @@
 
 Сейчас читают
 
+* [Открытый слоёный пирог с фетой и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173732)
 * [Картофельная "пицца" с копчёностями, яйцами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=162794)
 * [Злаковый завтрак](https://www.russianfood.com/recipes/recipe.php?rid=123899)
 * [Бабка с яблоками и творогом](https://www.russianfood.com/recipes/recipe.php?rid=52531)
@@ -157,7 +158,6 @@
 * [Бутерброды с килькой и ливерной колбасой](https://www.russianfood.com/recipes/recipe.php?rid=5489)
 * [Бутерброды со свеклой](https://www.russianfood.com/recipes/recipe.php?rid=5523)
 * [Суп из квашеной капусты](https://www.russianfood.com/recipes/recipe.php?rid=7498)
-* [Салат с колбасой](https://www.russianfood.com/recipes/recipe.php?rid=8269)
 
 |     |
 | --- |
@@ -179,6 +179,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Пусть фуршет пройдет на славу! Лучшие рецепты на КОРПОРАТИВ (27)](https://www.russianfood.com/reading/?post_id=22987) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/712/sm_711288.jpg)](https://www.russianfood.com/reading/?post_id=22987)
+
+Рулетики из ветчины с сыром и яйцом. Печёночные рулетики с сыром. Шоколадный трайфл с бананами. Жареные крабовые палочки с грибами. Салат с курицей, киви и яблоком.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22987)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на праздники](https://www.russianfood.com/blogs/?id=394640) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22987#comments) | 13.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Калья](https://www.russianfood.com/recipes/recipe.php?rid=175124) |     |
+
+[![Фото к рецепту: Калья](//img1.russianfood.com/dycontent/images_upl/760/sm_759617.jpg "Фото к рецепту: Калья")](https://www.russianfood.com/recipes/recipe.php?rid=175124)
+
+Калья – старинное русское блюдо, рыбный суп с добавлением солёных огурцов и рассола.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175124)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ИВАНЫЧ](https://www.russianfood.com/blogs/?id=18150) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175124#comments) | 13.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -318,7 +346,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175076#comments) | 12.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175076#comments) | 12.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -361,34 +389,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174807#comments) | 11.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Круглая гата с начинкой "хориз" (с сухофруктами и орехами)](https://www.russianfood.com/recipes/recipe.php?rid=174633) |     |
-
-[![Фото к рецепту: Круглая гата с начинкой "хориз" (с сухофруктами и орехами)](//img1.russianfood.com/dycontent/images_upl/755/sm_754914.jpg "Фото к рецепту: Круглая гата с начинкой "хориз" (с сухофруктами и орехами)")](https://www.russianfood.com/recipes/recipe.php?rid=174633)
-
-Начинка "хориз" готовится из муки, сливочного масла и сахара, а в этом варианте дополняется орехами и сухофруктами и ароматизируется ромом. Завёрнута начинка в сметанное песочное тесто. Перед отправкой в духовку гата смазывается желтком, благодаря чему приобретает аппетитную румяную корочку.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174633)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174633#comments) | 11.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Рулет из печёночных блинчиков](https://www.russianfood.com/recipes/recipe.php?rid=175069) |     |
-
-[![Фото к рецепту: Рулет из печёночных блинчиков](//img1.russianfood.com/dycontent/images_upl/759/sm_758570.jpg "Фото к рецепту: Рулет из печёночных блинчиков")](https://www.russianfood.com/recipes/recipe.php?rid=175069)
-
-Печёночные блинчики замечательно сочетаются с начинкой из сметаны и майонеза с чесноком. Желатин в начинке помогает сохранить форму рулета и аккуратно его нарезать. Отличное решение для праздничной закуски!
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175069)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175069#comments) | 11.12.24 |     |
 
 |     |
 | --- |
@@ -461,10 +461,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754914.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753284.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174632) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756936.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174807) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756173.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174419) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760115.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175128) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758712.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174952) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758670.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175022) |
-| [Круглая гата с начинкой "хориз" (с сухофруктами и орехами)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [Слоёная галета с цукини, рикоттой и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174632) | [Салат "Змея" с картошкой, рыбными консервами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174807) | [Полента с говядиной (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174419) | [Миндальное печенье](https://www.russianfood.com/recipes/recipe.php?rid=175128) | [Сырный суп с шампиньонами и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174952) | [Пряный тыквенный кекс](https://www.russianfood.com/recipes/recipe.php?rid=175022) |
-| [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759431.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174889) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758737.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174955) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758757.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174953) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759568.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175076) |
-| [Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=174889) | [Суп с говяжьим фаршем и бататом](https://www.russianfood.com/recipes/recipe.php?rid=174955) | [Закусочный пирог из лаваша, с сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [Рыбный суп с тыквой и сливками](https://www.russianfood.com/recipes/recipe.php?rid=174953) | [Яичные роллы с крабовыми палочками и сыром](https://www.russianfood.com/recipes/recipe.php?rid=175076) |
+| [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760115.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175128) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758757.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174953) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754914.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759617.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175124) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758737.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174955) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759431.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174889) |
+| [Миндальное печенье](https://www.russianfood.com/recipes/recipe.php?rid=175128) | [Рыбный суп с тыквой и сливками](https://www.russianfood.com/recipes/recipe.php?rid=174953) | [Круглая гата с начинкой "хориз" (с сухофруктами и орехами)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [Закусочный пирог из лаваша, с сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [Калья](https://www.russianfood.com/recipes/recipe.php?rid=175124) | [Суп с говяжьим фаршем и бататом](https://www.russianfood.com/recipes/recipe.php?rid=174955) | [Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=174889) |
+| [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758712.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174952) |
+| [Сырный суп с шампиньонами и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174952) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -481,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(103)
+(114)
