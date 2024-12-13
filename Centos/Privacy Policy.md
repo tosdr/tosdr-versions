@@ -1,28 +1,32 @@
- [![The CentOS Project](/assets/img/logo.png)](https://www.centos.org/)Toggle navigation
+[![The CentOS Project](https://www.centos.org/assets/img/centos-whitelogo.svg)](https://www.centos.org/)
 
 * [Download](https://www.centos.org/download)
 * [About](#)
-    
-    [About CentOS](https://www.centos.org/about) [Frequently Asked Questions (FAQs)](https://wiki.centos.org/FAQ.html) [Special Interest Groups (SIGs)](https://wiki.centos.org/SpecialInterestGroup.html) [CentOS Variants](https://www.centos.org/variants) [Governance](https://www.centos.org/about/governance) [Code of Conduct](https://www.centos.org/code-of-conduct)
-    
+    * [About CentOS](https://www.centos.org/about)
+    * [Special Interest Groups (SIGs)](https://www.centos.org/sigs)
+    * [Governance](https://www.centos.org/about/governance)
+    * [Code of Conduct](https://www.centos.org/code-of-conduct)
+    * [Sponsors](https://www.centos.org/sponsors)
 * [Community](#)
-    
-    [Contribute](https://wiki.centos.org/Contribute.html) [Forums](https://www.centos.org/forums/) [Mailing Lists](https://lists.centos.org/hyperkitty/) [IRC](https://wiki.centos.org/irc) [Calendar & IRC Meeting List](https://www.centos.org/community/calendar/) [Blog](https://blog.centos.org/) [Submit Bug](https://wiki.centos.org/ReportBugs)
-    
+    * [Contribute](https://www.centos.org/contribute)
+    * [Forums](https://discussion.fedoraproject.org/c/neighbors/centos/71)
+    * [Mailing Lists](https://lists.centos.org/hyperkitty/)
+    * [Chat](https://matrix.to/#/#centos-space:fedora.im)
+    * [Calendar](https://www.centos.org/community/calendar/)
+    * [Blog](https://blog.centos.org/)
+    * [Submit Bug](https://www.centos.org/bugs/)
 * [Documentation](#)
-    
-    [Wiki](https://wiki.centos.org/) [Manuals](https://docs.centos.org/) [GPG Key Info](https://www.centos.org/keys)
-    
-* [Help](https://wiki.centos.org/GettingHelp.html)
-
-CentOS Privacy Policy
-=====================
+    * [Manuals](https://docs.centos.org/)
+    * [GPG Key Info](https://www.centos.org/keys)
+    * [Release Notes](https://www.centos.org/centos10/)
 
 1. [Home](https://www.centos.org/)
 2. [Legal](https://www.centos.org/legal/)
 3. CentOS Privacy Policy
 
-On this page:
+CentOS Privacy Policy
+
+Table of Contents
 
 * [Scope of this Notice](#scope-of-this-notice)
 * [Our Commitment to Privacy](#our-commitment-to-privacy)
@@ -203,139 +207,8 @@ If you have any questions about any of these practices or CentOS’s use of your
     fax: +1 919-754-3704
     
 
-1. [Home](https://www.centos.org/)
-2. [Legal](https://www.centos.org/legal/)
-3. CentOS Privacy Policy
-
-On this page:
-
-* [Scope of this Notice](#scope-of-this-notice)
-* [Our Commitment to Privacy](#our-commitment-to-privacy)
-* [The Information We Collect](#the-information-we-collect)
-* [Publicly Available Personal Data](#publicly-available-personal-data)
-* [Using your Personal Data](#using-your-personal-data)
-* [Sharing your Personal Information](#sharing-your-personal-information)
-* [Receiving E-mail](#receiving-e-mail)
-* [Cookies and other Browser Information](#cookies-and-other-browser-information)
-* [Our Commitment to Data Security](#our-commitment-to-data-security)
-* [Public Forums Reminder](#public-forums-reminder)
-* [Our commitment to Children’s Online Privacy](#our-commitment-to-childrens-online-privacy)
-* [About Links to other sites](#about-links-to-other-sites)
-* [Your Rights and Choices in the EEA](#your-rights-and-choices-in-the-eea)
-* [How to Access, Modify, or Update your Information](#how-to-access-modify-or-update-your-information)
-* [How to Contact Us](#how-to-contact-us)
-
-###### Sponsors
-
-CentOS would not be possible without the support of our sponsors. We would like to thank the following product/service for being a CentOS sponsor. If you value our work, please consider [becoming a sponsor](https://www.centos.org/sponsors)!
-
-[![](/assets/img/sponsors/altushost.png)](https://www.altushost.com/)
-
-[![](/assets/img/sponsors/am-logo.png)](http://www.artmotion.eu/)
-
-[![](/assets/img/sponsors/aws.png)](https://aws.amazon.com/)
-
-[![](/assets/img/sponsors/baseip_240x60.jpg)](http://www.baseip.com/)
-
-[![](/assets/img/sponsors/binaryracks.png)](http://www.binaryracks.com/)
-
-[![](/assets/img/sponsors/cdn77.png)](http://www.cdn77.com/)
-
-[![](/assets/img/sponsors/clientvps.png)](https://www.clientvps.com/)
-
-[![](/assets/img/sponsors/codero.png)](http://www.codero.com/)
-
-[![](/assets/img/sponsors/colocation-america.png)](http://www.colocationamerica.com/dedicated_servers)
-
-[![](/assets/img/sponsors/dedicatedsolutions.png)](https://www.dedicatedsolutions.com/)
-
-[![](/assets/img/sponsors/equinix.png)](https://metal.equinix.com/)
-
-[![](/assets/img/sponsors/eukhost.png)](http://www.eukhost.com/)
-
-[![](/assets/img/sponsors/fasthosts.png)](https://www.fasthosts.co.uk/)
-
-[![](/assets/img/sponsors/GameHost.png)](https://gamehost.io/)
-
-[![](/assets/img/sponsors/host-stage.png)](http://www.host-stage.net/)
-
-[![](/assets/img/sponsors/hostiserver.png)](https://www.hostiserver.com/)
-
-[![](/assets/img/sponsors/hostkey.png)](https://www.hostkey.com/)
-
-[![](/assets/img/sponsors/internetx.gif)](http://www.internetx.com/)
-
-[![](/assets/img/sponsors/introserv.png)](https://www.introserv.com/)
-
-[![](/assets/img/sponsors/itsyndicate.png)](https://itsyndicate.org/)
-
-[![](/assets/img/sponsors/leaseweb.png)](http://www.leaseweb.com/)
-
-[![](/assets/img/sponsors/lyrahosting.png)](https://www.lyrahosting.com/)
-
-[![](/assets/img/sponsors/multacom-240x60.gif)](http://www.multacom.com/)
-
-[![](/assets/img/sponsors/NDCHost.png)](https://www.ndchost.com/)
-
-[![](/assets/img/sponsors/PNAP_Banner.gif)](http://www.securedservers.com/landing/linux-hosting/)
-
-[![](/assets/img/sponsors/server-net.png)](https://server.net/)
-
-[![](/assets/img/sponsors/serverel.png)](http://www.serverel.com/)
-
-[![](/assets/img/sponsors/centos-serverhub.png)](http://www.serverhub.com/)
-
-[![](/assets/img/sponsors/servermania.gif)](http://servermania.com/)
-
-[![](/assets/img/sponsors/serverpoint.png)](http://www.serverpoint.com/)
-
-[![](/assets/img/sponsors/serverpronto_small.gif)](http://www.serverpronto.com/)
-
-[![](/assets/img/sponsors/shinjirubanner260x60.gif)](http://shinjiru.com/)
-
-[![](/assets/img/sponsors/stablepoint.png)](https://www.stablepoint.com/)
-
-[![](/assets/img/sponsors/trabia.png)](https://www.trabia.com/)
-
-[![](/assets/img/sponsors/vhostvn.gif)](http://vhost.vn/)
-
-[![](/assets/img/sponsors/vsys.png)](https://vsys.host/)
-
-[![](/assets/img/sponsors/vultr.png)](https://www.vultr.com/)
-
-[![](/assets/img/sponsors/webnx1.png)](http://www.webnx.com/)
-
-[![](/assets/img/sponsors/wehaveservers.png)](https://www.wehaveservers.com/)
-
-[![](/assets/img/sponsors/whitelabelitsolutions.gif)](http://whitelabelitsolutions.com/)
-
-[![](/assets/img/sponsors/wowrack.png)](http://www.wowrack.com/)
-
-###### About
-
-* [About CentOS](https://www.centos.org/about)
-* [Frequently Asked Questions (FAQs)](https://wiki.centos.org/FAQ.html)
-* [Special Interest Groups (SIGs)](https://wiki.centos.org/SpecialInterestGroup.html)
-* [CentOS Variants](https://www.centos.org/variants)
-* [Governance](https://www.centos.org/about/governance)
-* [Code of Conduct](https://www.centos.org/code-of-conduct)
-
-###### Community
-
-* [Contribute](https://wiki.centos.org/Contribute.html)
-* [Forums](https://www.centos.org/forums/)
-* [Mailing Lists](https://lists.centos.org/hyperkitty/)
-* [IRC](https://wiki.centos.org/irc)
-* [Calendar & IRC Meeting List](https://www.centos.org/community/calendar/)
-* [Blog](https://blog.centos.org/)
-* [Submit Bug](https://wiki.centos.org/ReportBugs)
-
-#### The CentOS Project
-
 Community-driven free software effort focused around the goal of providing a rich base platform for open source communities to build upon.
 
 [](https://youtube.com/TheCentOSProject)[](https://fosstodon.org/@centos)[](https://www.facebook.com/CentOSProject)[](https://www.linkedin.com/company/centos-project/)[](https://x.com/centos)[](https://discussion.fedoraproject.org/c/neighbors/centos/)[](https://www.reddit.com/r/CentOS/)
 
-Copyright © 2024 The CentOS Project | [Legal](https://www.centos.org/legal) | [Privacy](https://www.centos.org/legal/privacy) | [Site source](https://git.centos.org/centos/centos.org)
-
-[](#top)
+Copyright © 2024 The CentOS Project [Legal](https://www.centos.org/legal)[Privacy](https://www.centos.org/legal/privacy)[Site source](https://git.centos.org/centos/centos.org)
