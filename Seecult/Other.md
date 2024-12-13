@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![ALL YOU NEED IS SOMEONE LIKE ME....](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nina-i-miodrag-stankovic/all-you-need-someone-me/5a.jpg?itok=SMmti8VM "ALL YOU NEED IS SOMEONE LIKE ME....")](http://seecult.org/galerija/galerija-umetnika/nina-i-miodrag-stankovic/all-you-need-someone-me)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/sas-stojanovic-i-ana-vilenica/slike/saopstenje-za-javnost.jpg?itok=KRP7k9A_)](http://seecult.org/galerija/galerija-umetnika/sasa-stojanovic-i-ana-vilenica/slike)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/zasto-su-knjizevne-promocije-dosadne-kosmogina/promocija-staklenca-u-booksi-3.jpg?itok=eZPSRGqx)](http://seecult.org/galerija/foto-galerija/foto-arhiva/zasto-su-knjizevne-promocije-dosadne-kosmogina)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/zalet.jpg?itok=bJHxculj)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
