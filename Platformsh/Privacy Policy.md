@@ -98,8 +98,8 @@
 * [Docs](https://docs.platform.sh/)
 * [Login](https://auth.api.platform.sh/)
 
-* [Request a demo](https://platform.sh/demo/)
-* [Free Trial](https://auth.api.platform.sh/register?trial_type=general)
+* [Watch a demo](https://platform.sh/demo/)
+* [Free trial](https://auth.api.platform.sh/register?trial_type=general)
 
 Trust Center
 
