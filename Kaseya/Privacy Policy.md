@@ -414,11 +414,11 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/12/Security-Suite-Webinar-2025-Cybersecurity-Predictions-2-300x200.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/12/Kaseya-365-USER-Test-Drive-K365-User-1200x800-px-300x200.jpg)
     
-    2025 Cybersecurity Predictions: Insights to Stay Ahead of Emerging Threats
+    Take a Spin and Get Under the Hood of Kaseya 365 User
     
-    December 12
+    December 13
     
     [View All Events](https://www.kaseya.com/events/)
     
