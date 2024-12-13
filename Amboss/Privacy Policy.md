@@ -56,7 +56,7 @@ General Privacy Policy
 ##### Data Controller:  
 ‍
 
-AMBOSS GmbH  
+AMBOSS SE  
 Torstrasse 19  
 10119 Berlin, Germany  
 E-mail: [hello@amboss.com](mailto:hallo@amboss.com)  
@@ -64,12 +64,12 @@ Phone: +49 (0) 30 – 5770221- 0
 ‍
 
 Managing Directors: Dr. med. Madjid Salimi, Dr. med. Nawid Salimi, Benedikt Hochkirchen  
-Local Court Berlin (Charlottenburg), HRB 209607  
+Local Court Berlin (Charlottenburg), HRB 270315  
 ‍
 
 Contact details data protection officer:
 
-AMBOSS GmbH  
+AMBOSS SE  
 Data Protection Officer  
 Torstrasse 19  
 10119 Berlin, Germany  
@@ -88,7 +88,7 @@ If you use AMBOSS as part of an institutional license, we may process certain pe
 ### **1\. Basic information on data processing and legal basis  
 ‍**
 
-1.1. This privacy policy informs users about the nature, scope and purposes of the processing of personal data by the responsible provider, AMBOSS GmbH (“AMBOSS” or “we”). It applies to data processing in the following areas:  
+1.1. This privacy policy informs users about the nature, scope and purposes of the processing of personal data by the responsible provider, AMBOSS SE (“AMBOSS” or “we”). It applies to data processing in the following areas:  
 ‍
 
 * The website [www.amboss.com](https://www.amboss.com/) operated by AMBOSS including the registered area of the online knowledge and learning program “AMBOSS” accessible via this website and
@@ -846,15 +846,15 @@ LEGAL
 
 [](https://www.amboss.com/us/legal/terms-v1)
 
-[General Privacy Policy](https://www.amboss.com/us/legal/privacy)
-
-[](https://www.amboss.com/us/legal/social-media)
-
-[](https://www.amboss.com/us/legal/applicants)
+[Legal Notice](https://www.amboss.com/us/legal/legal-notice)
 
 [General Terms of Use](https://www.amboss.com/us/legal/terms)
 
-[Legal Notice](https://www.amboss.com/us/legal/legal-notice)
+[](https://www.amboss.com/us/legal/applicants)
+
+[](https://www.amboss.com/us/legal/social-media)
+
+[General Privacy Policy](https://www.amboss.com/us/legal/privacy)
 
 [Privacy Settings](#)
 
