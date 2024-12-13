@@ -28,9 +28,7 @@ triangle borderless
     
     New Arrivals arrow bottom
     
-    [![](//www.lorex.com/cdn/shop/files/682704073010e4486a23079b906d343454a1dc3b1d8a664c7a9f15e644db1aef_80x.png?v=1718650384)
-    
-    4K Battery Video Doorbell (64GB)](https://www.lorex.com/products/b861-4k-battery-doorbell)[![](//www.lorex.com/cdn/shop/files/5b2b2236024034a518824ed79505bccc99a3057486fe0d2aeb61f0ef8ac94bf4_80x.png?v=1728306704)
+    [![](//www.lorex.com/cdn/shop/files/5b2b2236024034a518824ed79505bccc99a3057486fe0d2aeb61f0ef8ac94bf4_80x.png?v=1728306704)
     
     4K Spotlight Battery Wi-Fi Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)[![](//www.lorex.com/cdn/shop/collections/N910-4KDW-L1_80x.png?v=1708619171)
     
@@ -102,9 +100,7 @@ triangle borderless
     
     2K Wi-Fi Video Doorbell (Battery-Operated, 32GB)](https://www.lorex.com/products/b463ajd-2k-battery-video-doorbell)[![](//www.lorex.com/cdn/shop/files/305b780dd882e1b0e7824a8bb3a3605817e847f0b5fb926cc84dfdf430f8fef4_80x.png?v=1708104429)
     
-    4K Wired Video Doorbell (Wired, 32GB)](https://www.lorex.com/products/b862-lorex-4k-wired-video-doorbell)[![](//www.lorex.com/cdn/shop/files/682704073010e4486a23079b906d343454a1dc3b1d8a664c7a9f15e644db1aef_80x.png?v=1718650384)
-    
-    4K Battery Video Doorbell (64GB)](https://www.lorex.com/products/b861-4k-battery-doorbell)[![](//www.lorex.com/cdn/shop/files/b560f576100df6e145b2c85fd68d2fc43ade0937710d29d208a1e08e15e55382_80x.png?v=1699309499)
+    4K Wired Video Doorbell (Wired, 32GB)](https://www.lorex.com/products/b862-lorex-4k-wired-video-doorbell)[![](//www.lorex.com/cdn/shop/files/b560f576100df6e145b2c85fd68d2fc43ade0937710d29d208a1e08e15e55382_80x.png?v=1699309499)
     
     Wi-Fi Chimebox](https://www.lorex.com/products/acchm2-add-on-wi-fi-chime-for-lorex-video-doorbells)
     
@@ -112,11 +108,9 @@ triangle borderless
     
     [![](//www.lorex.com/cdn/shop/collections/cloudpromo-subbanner_80x.jpg?v=1732805610)
     
-    Shop All Cloud Storage Cameras](https://www.lorex.com/collections/cloud-storage-cameras)[![](//www.lorex.com/cdn/shop/files/baa90d4e425dcde5d7d836312e8ff760916244e18e45390efffcae46097ad8a2_80x.png?v=1699884876)
+    Shop All Cloud Storage Cameras](https://www.lorex.com/collections/cloud-storage-cameras)[![](//www.lorex.com/cdn/shop/files/5b2b2236024034a518824ed79505bccc99a3057486fe0d2aeb61f0ef8ac94bf4_80x.png?v=1728306704)
     
-    Lorex 2K Wi-Fi Video Doorbell](https://www.lorex.com/products/2k-wi-fi-video-doorbell-with-person-detection-wired)[![](//www.lorex.com/cdn/shop/files/5b2b2236024034a518824ed79505bccc99a3057486fe0d2aeb61f0ef8ac94bf4_80x.png?v=1728306704)
-    
-    Lorex 4K Spotlight Battery Wi-Fi Security Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)[![](//www.lorex.com/cdn/shop/files/305b780dd882e1b0e7824a8bb3a3605817e847f0b5fb926cc84dfdf430f8fef4_80x.png?v=1708104429)
+    4K Spotlight Battery Wi-Fi Security Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)[![](//www.lorex.com/cdn/shop/files/305b780dd882e1b0e7824a8bb3a3605817e847f0b5fb926cc84dfdf430f8fef4_80x.png?v=1708104429)
     
     4K Wi-Fi Video Doorbell (Wired)](https://www.lorex.com/products/b862-lorex-4k-wired-video-doorbell)[![](//www.lorex.com/cdn/shop/files/baa90d4e425dcde5d7d836312e8ff760916244e18e45390efffcae46097ad8a2_80x.png?v=1699884876)
     
@@ -206,7 +200,6 @@ Follow Us
 arrow left Back
 
 * [New Arrivals](https://www.lorex.com/pages/new-arrivals)
-* [4K Battery Video Doorbell (64GB)](https://www.lorex.com/products/b861-4k-battery-doorbell)
 * [4K Spotlight Battery Wi-Fi Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)
 * [Fusion Wireless](https://www.lorex.com/collections/fusion-wireless)
 * [Dual Lens Security Cameras](https://www.lorex.com/collections/dual-lens-security-cameras)
@@ -247,14 +240,12 @@ arrow left Back
 * [2K Wi-Fi Video Doorbell (Wired, 32GB)](https://www.lorex.com/products/2k-wi-fi-video-doorbell-with-person-detection-wired)
 * [2K Wi-Fi Video Doorbell (Battery-Operated, 32GB)](https://www.lorex.com/products/b463ajd-2k-battery-video-doorbell)
 * [4K Wired Video Doorbell (Wired, 32GB)](https://www.lorex.com/products/b862-lorex-4k-wired-video-doorbell)
-* [4K Battery Video Doorbell (64GB)](https://www.lorex.com/products/b861-4k-battery-doorbell)
 * [Wi-Fi Chimebox](https://www.lorex.com/products/acchm2-add-on-wi-fi-chime-for-lorex-video-doorbells)
 
 arrow left Back
 
 * [Cloud Storage Cameras](https://www.lorex.com/collections/cloud-storage-cameras)
-* [Lorex 2K Wi-Fi Video Doorbell](https://www.lorex.com/products/2k-wi-fi-video-doorbell-with-person-detection-wired)
-* [Lorex 4K Spotlight Battery Wi-Fi Security Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)
+* [4K Spotlight Battery Wi-Fi Security Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)
 * [4K Wi-Fi Video Doorbell (Wired)](https://www.lorex.com/products/b862-lorex-4k-wired-video-doorbell)
 * [2K Wi-Fi Video Doorbell (Wired)](https://www.lorex.com/products/2k-wi-fi-video-doorbell-with-person-detection-wired)
 * [4K Spotlight Outdoor Wi-Fi 6 Security Camera with Smart Security Lighting](https://www.lorex.com/products/w881aad-4k-spotlight-indoor-outdoor-wi-fi-security-camera)
@@ -376,10 +367,6 @@ Your cart is empty
     * [Lorex Solutions Finder](https://www.lorex.com/pages/solutions-finder)
     * [Custom Bundle Builder](https://www.lorex.com/pages/bundle-builder)
     * [](https://www.lorex.com/pages/lorex-cloud-subscriptions?utm_source=navigation_banner&utm_campaign=cloud_storage)
-    
-    [![](//www.lorex.com/cdn/shop/files/682704073010e4486a23079b906d343454a1dc3b1d8a664c7a9f15e644db1aef_x150.png?v=1718650384)
-    
-    4K Battery Video Doorbell (64GB)](https://www.lorex.com/products/b861-4k-battery-doorbell)
     
     [![](//www.lorex.com/cdn/shop/files/5b2b2236024034a518824ed79505bccc99a3057486fe0d2aeb61f0ef8ac94bf4_x150.png?v=1728306704)
     
@@ -574,21 +561,13 @@ Your cart is empty
     
     4K Wired Video Doorbell (Wired, 32GB)](https://www.lorex.com/products/b862-lorex-4k-wired-video-doorbell)
     
-    [![](//www.lorex.com/cdn/shop/files/682704073010e4486a23079b906d343454a1dc3b1d8a664c7a9f15e644db1aef_x150.png?v=1718650384)
-    
-    4K Battery Video Doorbell (64GB)](https://www.lorex.com/products/b861-4k-battery-doorbell)
-    
     [![](//www.lorex.com/cdn/shop/files/b560f576100df6e145b2c85fd68d2fc43ade0937710d29d208a1e08e15e55382_x150.png?v=1699309499)
     
     Wi-Fi Chimebox](https://www.lorex.com/products/acchm2-add-on-wi-fi-chime-for-lorex-video-doorbells)
     
-    [![](//www.lorex.com/cdn/shop/files/baa90d4e425dcde5d7d836312e8ff760916244e18e45390efffcae46097ad8a2_x150.png?v=1699884876)
-    
-    Lorex 2K Wi-Fi Video Doorbell](https://www.lorex.com/products/2k-wi-fi-video-doorbell-with-person-detection-wired)
-    
     [![](//www.lorex.com/cdn/shop/files/5b2b2236024034a518824ed79505bccc99a3057486fe0d2aeb61f0ef8ac94bf4_x150.png?v=1728306704)
     
-    Lorex 4K Spotlight Battery Wi-Fi Security Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)
+    4K Spotlight Battery Wi-Fi Security Camera](https://www.lorex.com/products/f861asd-4k-spotlight-battery-camera)
     
     [![](//www.lorex.com/cdn/shop/files/305b780dd882e1b0e7824a8bb3a3605817e847f0b5fb926cc84dfdf430f8fef4_x150.png?v=1708104429)
     
