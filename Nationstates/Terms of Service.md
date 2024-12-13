@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Your nation's punishment for the abov… (3,614)](https://forum.nationstates.net/viewtopic.php?t=545645&f=25&view=unread#unread ""Your nation's punishment for the above crime V" (3,614 posts)")
-* [Gun Control 2023 - ATF Shenanigans, S… (7,164)](https://forum.nationstates.net/viewtopic.php?t=530702&f=20&view=unread#unread ""Gun Control 2023 - ATF Shenanigans, States Fight Back!" (7,164 posts)")
-* [AN executes your leader, what's your… (5)](https://forum.nationstates.net/viewtopic.php?t=559625&f=25&view=unread#unread ""AN executes your leader, what's your leader's last words?" (5 posts)")
-* [Rate AN's leader attractiveness (379)](https://forum.nationstates.net/viewtopic.php?t=555212&f=25&view=unread#unread ""Rate AN's leader attractiveness" (379 posts)")
-* [AN Out of Context III (4,847)](https://forum.nationstates.net/viewtopic.php?t=552139&f=25&view=unread#unread ""AN Out of Context III" (4,847 posts)")
+* [Out of the 2 AN’s: Which one has the… (5,231)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (5,231 posts)")
+* [Georgia Protests: Georgian Nightmare? (13)](https://forum.nationstates.net/viewtopic.php?t=559265&f=20&view=unread#unread ""Georgia Protests: Georgian Nightmare?" (13 posts)")
+* [Today In YN's History (717)](https://forum.nationstates.net/viewtopic.php?t=531179&f=23&view=unread#unread ""Today In YN's History" (717 posts)")
+* [What's your favorite part of AN lore (214)](https://forum.nationstates.net/viewtopic.php?t=557672&f=25&view=unread#unread ""What's your favorite part of AN lore" (214 posts)")
+* [American Politics: Turnabout Trump (9,326)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (9,326 posts)")
 
 Advertisement
 
