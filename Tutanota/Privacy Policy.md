@@ -1,18 +1,18 @@
 [](https://tutanota.com/ "Tuta")
 
-[Login](https://app.tuta.com/ "Mail. Done. Right. Login to Tuta") [Sign up](https://app.tuta.com/?r=/signup#subscription)
+[Login](https://app.tuta.com/ "Mail. Done. Right. Login to Tuta")[Sign up](https://app.tuta.com/?r=/signup#subscription)
 
 Products
 
 [](https://tutanota.com/secure-email)[](https://tutanota.com/calendar)
 
-[Pricing](https://tutanota.com/pricing) [Business](https://tutanota.com/business) Why Tuta
+[Pricing](https://tutanota.com/pricing)[Business](https://tutanota.com/business)Why Tuta
 
-[Security](https://tutanota.com/security) [Privacy Guide](https://tutanota.com/privacy) [Sustainability](https://tutanota.com/sustainability) [Encryption](https://tutanota.com/encryption) [Team](https://tutanota.com/team) [Open Source](https://tutanota.com/open-source) [Community](https://tutanota.com/community) [Email comparison](https://tutanota.com/email-comparison)
+[Security](https://tutanota.com/security)[Privacy Guide](https://tutanota.com/privacy)[Sustainability](https://tutanota.com/sustainability)[Encryption](https://tutanota.com/encryption)[Team](https://tutanota.com/team)[Open Source](https://tutanota.com/open-source)[Community](https://tutanota.com/community)[Email comparison](https://tutanota.com/email-comparison)
 
-[Blog](https://tutanota.com/blog) [Jobs](https://tutanota.com/jobs) [Support](https://tutanota.com/support)
+[Blog](https://tutanota.com/blog)[Jobs](https://tutanota.com/jobs)[Support](https://tutanota.com/support)
 
-[Login](https://app.tuta.com/ "Mail. Done. Right. Login to Tuta") [Sign up](https://app.tuta.com/?r=/signup#subscription)
+[Login](https://app.tuta.com/ "Mail. Done. Right. Login to Tuta")[Sign up](https://app.tuta.com/?r=/signup#subscription)
 
 Same experience, better privacy.
 ================================
@@ -97,24 +97,24 @@ Get your encrypted Tuta account now.
 
 [Sign up](https://app.tuta.com/?r=/signup#subscription)
 
-[](https://www.facebook.com/tutaprivacy "Facebook")   [](https://twitter.com/TutaPrivacy "Twitter")   [](https://www.reddit.com/r/tutanota/ "Reddit")  [](https://mastodon.social/@Tutanota "Mastodon")
+      [](https://www.facebook.com/tutaprivacy "Facebook")  [](https://twitter.com/TutaPrivacy "Twitter")  [](https://www.reddit.com/r/tutanota/ "Reddit")  [](https://mastodon.social/@Tutanota "Mastodon")
 
 Products
 
-[Tuta Mail](https://tutanota.com/secure-email) [Tuta Calendar](https://tutanota.com/calendar) [Tuta for Business](https://tutanota.com/business)
+[Tuta Mail](https://tutanota.com/secure-email)[Tuta Calendar](https://tutanota.com/calendar)[Tuta for Business](https://tutanota.com/business)
 
 Company
 
-[Community](https://tutanota.com/community) [Team](https://tutanota.com/team) [Jobs](https://tutanota.com/jobs) [Terms](https://tutanota.com/terms) [Privacy](https://tutanota.com/privacy-policy) [Legal notice](https://tutanota.com/imprint)
+[Community](https://tutanota.com/community)[Team](https://tutanota.com/team)[Jobs](https://tutanota.com/jobs)[Terms](https://tutanota.com/terms)[Privacy](https://tutanota.com/privacy-policy)[Legal notice](https://tutanota.com/imprint)
 
 Development
 
-[Roadmap](https://tutanota.com/roadmap) [Security](https://tutanota.com/security) [Encryption](https://tutanota.com/encryption) [Open Source](https://tutanota.com/open-source) [GitHub](https://github.com/tutao/tutanota)
+[Roadmap](https://tutanota.com/roadmap)[Security](https://tutanota.com/security)[Encryption](https://tutanota.com/encryption)[Open Source](https://tutanota.com/open-source)[GitHub](https://github.com/tutao/tutanota)
 
 Support
 
-[Forum](https://www.reddit.com/r/tutanota/) [Press](https://tutanota.com/press) [Support](https://tutanota.com/support) [Terminate subscription](https://app.tuta.com/?r=/termination)
+[Forum](https://www.reddit.com/r/tutanota/)[Press](https://tutanota.com/press)[Support](https://tutanota.com/support)[Terminate subscription](https://app.tuta.com/?r=/termination)
 
 Language
 
-EnglishČeskyDeutschEspañolSuomiFrançaisMagyar nyelvItaliano日本語NederlandsPolskiPortuguês, BRPусскийSvenskaYкраїнська中文 [Translate](https://tutanota.com/blog/tutanota-translation-project)
+EnglishČeskyDeutschEspañolSuomiFrançaisMagyar nyelvItaliano日本語NederlandsPolskiPortuguês, BRPусскийSvenskaYкраїнська中文[Translate](https://tutanota.com/blog/tutanota-translation-project)
