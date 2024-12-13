@@ -322,15 +322,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There is a rumor that when the House points counter was built for the “Harry Potter” film series, it caused a nationwide shortage of Indian glass beads.
+As of 2020, the Harry Potter books have been translated into 83 languages, including Latin and Ancient Greek.
 
 ### Potter History
 
-December 21, 2004 – In a joint press release, Scholastic and Bloomsbury announce that the sixth Harry Potter book will be released at midnight BST on July 16, 2005. The suggested retail price is $29.99 in the United States and £16.99 in the United Kingdom. Bloomsbury says it will be “a bit shorter” than Harry Potter and the Order of the Phoenix.
+August 8, 2012 – The Harry Potter series is voted the best ever teen fiction book series in a poll on NPR.
 
 ### Potter Quote
 
-“That is the enemy – their arrogance, their power lust, their barbarity. He’s the key to our victory.”
+“Ah, of course. There is no need to say any more, Miss Granger. Tell me, which of you will be dying this year?”
 
 [](#)
 
