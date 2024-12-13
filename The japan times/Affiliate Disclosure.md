@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 13, 2024](https://www.japantimes.co.jp/archive/2024/12/13/ "archive page")
+[December 14, 2024](https://www.japantimes.co.jp/archive/2024/12/14/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,68 +131,68 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[JR East announces 10-year plan to drastically overhaul Suica](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-  [![The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439434.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ")](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-[New Japanese condos now cost 10 times average salary, study shows](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![Tokyo has the highest price-to-income ratio for high-rise condominiums in the country, at 17.78 times.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439829.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo has the highest price-to-income ratio for high-rise condominiums in the country, at 17.78 times.")](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-[Japan tightens cannabis laws amid rising youth usage](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-  [![Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439725.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.")](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-[Prince Hisahito to enroll at University of Tsukuba](https://www.japantimes.co.jp/news/2024/12/11/japan/prince-hisahito-tsukuba-university/ "Prince Hisahito to enroll at University of Tsukuba")
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-  [![Prince Hisahito, who is second in line to the Chrysanthemum Throne, is currently a third-year student at the University of Tsukuba’s affiliated high school.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439508.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prince Hisahito, who is second in line to the Chrysanthemum Throne, is currently a third-year student at the University of Tsukuba’s affiliated high school.")](https://www.japantimes.co.jp/news/2024/12/11/japan/prince-hisahito-tsukuba-university/ "Prince Hisahito to enroll at University of Tsukuba")
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-[Tokyo remains third in global city index for ninth consecutive year](https://www.japantimes.co.jp/news/2024/12/11/japan/society/tokyo-city-survey/ "Tokyo remains third in global city index for ninth consecutive year")
+[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
-  [![The silhouettes of Mount Fuji, the Tokyo Metropolitan Government building and Shinjuku skyscrapers are seen during sunset in Tokyo in November. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439220.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The silhouettes of Mount Fuji, the Tokyo Metropolitan Government building and Shinjuku skyscrapers are seen during sunset in Tokyo in November. ")](https://www.japantimes.co.jp/news/2024/12/11/japan/society/tokyo-city-survey/ "Tokyo remains third in global city index for ninth consecutive year")
+  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
 Editors' Picks
 --------------
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[JR East announces 10-year plan to drastically overhaul Suica](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+
+By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
+
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
 By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
-  [![The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439434.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ")](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
 
-[New Japanese condos now cost 10 times average salary, study shows](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
 
-  [![Tokyo has the highest price-to-income ratio for high-rise condominiums in the country, at 17.78 times.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439829.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo has the highest price-to-income ratio for high-rise condominiums in the country, at 17.78 times.")](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
 
-[Japan tightens cannabis laws amid rising youth usage](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
+By F.D. Flam  
 
-  [![Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439725.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.")](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Prince Hisahito to enroll at University of Tsukuba](https://www.japantimes.co.jp/news/2024/12/11/japan/prince-hisahito-tsukuba-university/ "Prince Hisahito to enroll at University of Tsukuba")
-
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
-
-  [![Prince Hisahito, who is second in line to the Chrysanthemum Throne, is currently a third-year student at the University of Tsukuba’s affiliated high school.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439508.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prince Hisahito, who is second in line to the Chrysanthemum Throne, is currently a third-year student at the University of Tsukuba’s affiliated high school.")](https://www.japantimes.co.jp/news/2024/12/11/japan/prince-hisahito-tsukuba-university/ "Prince Hisahito to enroll at University of Tsukuba")
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Tokyo remains third in global city index for ninth consecutive year](https://www.japantimes.co.jp/news/2024/12/11/japan/society/tokyo-city-survey/ "Tokyo remains third in global city index for ninth consecutive year")
+[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
-  [![The silhouettes of Mount Fuji, the Tokyo Metropolitan Government building and Shinjuku skyscrapers are seen during sunset in Tokyo in November. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439220.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The silhouettes of Mount Fuji, the Tokyo Metropolitan Government building and Shinjuku skyscrapers are seen during sunset in Tokyo in November. ")](https://www.japantimes.co.jp/news/2024/12/11/japan/society/tokyo-city-survey/ "Tokyo remains third in global city index for ninth consecutive year")
+  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
 Podcast
 -------
@@ -255,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Trilateral fighter project takes big step with joint venture deal](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
+
+2 hours ago
+
+[Ruling bloc proposes ¥1.23 million minimum threshold for taxable income](https://www.japantimes.co.jp/news/2024/12/13/japan/politics/ruling-bloc-taxable-income-proposal/ "Ruling bloc proposes ¥1.23 million minimum threshold for taxable income")
+
+3 hours ago
+
+[Japan updates disaster shelter guidelines](https://www.japantimes.co.jp/news/2024/12/13/japan/shelter-guidelines-update/ "Japan updates disaster shelter guidelines")
+
+3 hours ago
+
+[Macron names veteran centrist ally Francois Bayrou as France's prime minister](https://www.japantimes.co.jp/news/2024/12/13/world/politics/francois-bayrou-new-french-pm/ "Macron names veteran centrist ally Francois Bayrou as France's prime minister")
+
+3 hours ago
+
 [China eyes negotiations as Trump threatens new tariffs](https://www.japantimes.co.jp/business/2024/12/13/economy/china-negotiations-trump-tariff-threat/ "China eyes negotiations as Trump threatens new tariffs")
 
-1 mins ago
-
-[Second-generation hibakusha's appeal for state compensation rejected](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/second-generation-hibakusha/ "Second-generation hibakusha's appeal for state compensation rejected")
-
-53 mins ago
-
-[China's 'drills that dare not speak their name' put Taiwan on alert](https://www.japantimes.co.jp/news/2024/12/13/asia-pacific/china-taiwan-drills-new-tactic/ "China's 'drills that dare not speak their name' put Taiwan on alert")
-
-1 hour ago
-
-[Why Is Bill Belichick heading to North Carolina? It's all about control.](https://www.japantimes.co.jp/sports/2024/12/13/belichick-chose-college-for-control/ "Why Is Bill Belichick heading to North Carolina? It's all about control.")
-
-1 hour ago
-
-[LDP-Komeito bloc defers decision on income tax hike to boost defense budget](https://www.japantimes.co.jp/news/2024/12/13/japan/politics/income-tax-defense-postponement/ "LDP-Komeito bloc defers decision on income tax hike to boost defense budget")
-
-1 hour ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
