@@ -62,11 +62,11 @@ Newsletter[](https://affengeilebilder24.de/customer_authentication/redirect?loca
     * [Tattoo](https://affengeilebilder24.de/collections/tattoo)
     * [Tiere](https://affengeilebilder24.de/collections/tiere)
     
-    [![](//affengeilebilder24.de/cdn/shop/files/Kategorie_Uebersicht_Black_White_240x.jpg?v=1691650050)
+    [![](files/Kategorie_Uebersicht_Black_White.jpg)
     
     Highlight
     
-    Black & White](https://affengeilebilder24.de/collections/black-white)[![](//affengeilebilder24.de/cdn/shop/files/Kategorie_Uebersicht_Cartoon_240x.jpg?v=1685950521)
+    Black & White](https://affengeilebilder24.de/collections/black-white)[![](files/Kategorie_Uebersicht_Cartoon.jpg)
     
     BELIEBT
     
@@ -123,7 +123,7 @@ Newsletter[](https://affengeilebilder24.de/customer_authentication/redirect?loca
     * [Zenzdesign](https://affengeilebilder24.de/blogs/kuenstler/zenzdesign)
     * [★ Künstler werden](https://affengeilebilder24.de/pages/kunstler-werden-bei-affengeilebilder)
     
-    [![](//affengeilebilder24.de/cdn/shop/files/Profilfoto_daveschloffiart_240x.jpg?v=1731564064)
+    [![](files/Profilfoto_daveschloffiart.jpg)
     
     NEW ARTIST
     
@@ -131,35 +131,35 @@ Newsletter[](https://affengeilebilder24.de/customer_authentication/redirect?loca
     
 * [Produkte](https://affengeilebilder24.de/collections/all)
     
-    [![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Ecke_kleiner_240x.png?v=1688463201)
+    [![](files/Detailansicht_Ecke_kleiner.png)
     
     Leinwände
     
-    von 30x40 bis 100x200](https://affengeilebilder24.de/collections/leinwande)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Ecke_97a7c55b-2dc0-4308-99f3-5b62aa785510_240x.png?v=1688462521)
+    von 30x40 bis 100x200](https://affengeilebilder24.de/collections/leinwande)[![](files/Detailansicht_Ecke_97a7c55b-2dc0-4308-99f3-5b62aa785510.png)
     
     Poster
     
-    von 20x30 bis 50x70](https://affengeilebilder24.de/collections/poster)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Ecke_f6ee8250-2789-4e67-8352-6cd9aac67919_240x.png?v=1706692324)
+    von 20x30 bis 50x70](https://affengeilebilder24.de/collections/poster)[![](files/Detailansicht_Ecke_f6ee8250-2789-4e67-8352-6cd9aac67919.png)
     
     GalleryPrint
     
-    elegant und edel](https://affengeilebilder24.de/collections/galleryprint)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Ecke_6c1f4b02-f578-40a3-9355-d01b140ac634_240x.png?v=1688459376)
+    elegant und edel](https://affengeilebilder24.de/collections/galleryprint)[![](files/Detailansicht_Ecke_6c1f4b02-f578-40a3-9355-d01b140ac634.png)
     
     Gold auf Acrylglas
     
-    mit echtem Blattgold](https://affengeilebilder24.de/collections/gold-auf-acrylglas)[![Detailansicht Ecke Silberserie](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Silberserie_Ecke_240x.png?v=1715857222)
+    mit echtem Blattgold](https://affengeilebilder24.de/collections/gold-auf-acrylglas)[![Detailansicht Ecke Silberserie](files/Detailansicht_Silberserie_Ecke.png)
     
     Silber auf Acrylglas
     
-    mit echtem Blattsilber](https://affengeilebilder24.de/collections/silber-auf-acrylglas)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Roseserie_Ecke_240x.png?v=1715850649)
+    mit echtem Blattsilber](https://affengeilebilder24.de/collections/silber-auf-acrylglas)[![](files/Detailansicht_Roseserie_Ecke.png)
     
     Rose auf Acrylglas
     
-    mit echtem Rosegold](https://affengeilebilder24.de/collections/rose-auf-acrylglas)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Brushedserie_Ecke_240x.png?v=1715851998)
+    mit echtem Rosegold](https://affengeilebilder24.de/collections/rose-auf-acrylglas)[![](files/Detailansicht_Brushedserie_Ecke.png)
     
     Brushed
     
-    gebürstetes AluDibond](https://affengeilebilder24.de/collections/brushedseries-auf-geburstetem-aludibond)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Neonserie_Ecke_240x.png?v=1715851313)
+    gebürstetes AluDibond](https://affengeilebilder24.de/collections/brushedseries-auf-geburstetem-aludibond)[![](files/Detailansicht_Neonserie_Ecke.png)
     
     Neon auf Acrylglas
     
@@ -204,11 +204,11 @@ Newsletter[](https://affengeilebilder24.de/customer_authentication/redirect?loca
     * [Tattoo](https://affengeilebilder24.de/collections/tattoo)
     * [Tiere](https://affengeilebilder24.de/collections/tiere)
     
-    [![](//affengeilebilder24.de/cdn/shop/files/Kategorie_Uebersicht_Black_White_240x.jpg?v=1691650050)
+    [![](files/Kategorie_Uebersicht_Black_White.jpg)
     
     Highlight
     
-    Black & White](https://affengeilebilder24.de/collections/black-white)[![](//affengeilebilder24.de/cdn/shop/files/Kategorie_Uebersicht_Cartoon_240x.jpg?v=1685950521)
+    Black & White](https://affengeilebilder24.de/collections/black-white)[![](files/Kategorie_Uebersicht_Cartoon.jpg)
     
     BELIEBT
     
@@ -255,7 +255,7 @@ Newsletter[](https://affengeilebilder24.de/customer_authentication/redirect?loca
     * [Zuppini](https://affengeilebilder24.de/blogs/kuenstler/zuppini)
     * [Künstler werden](https://affengeilebilder24.de/pages/kunstler-werden-bei-affengeilebilder)
     
-    [![](//affengeilebilder24.de/cdn/shop/files/Profilfoto_daveschloffiart_240x.jpg?v=1731564064)
+    [![](files/Profilfoto_daveschloffiart.jpg)
     
     NEW ARTIST
     
@@ -278,27 +278,27 @@ Newsletter[](https://affengeilebilder24.de/customer_authentication/redirect?loca
     * [Dein Unikat](https://affengeilebilder24.de/products/dein-unikat)
     * [Geschenkgutschein](https://affengeilebilder24.de/products/affengeile-bilder-geschenkgutschein)
     
-    [![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Ecke_kleiner_240x.png?v=1688463201)
+    [![](files/Detailansicht_Ecke_kleiner.png)
     
     Leinwände
     
-    von 30x40 bis 100x200](https://affengeilebilder24.de/collections/leinwande)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Ecke_97a7c55b-2dc0-4308-99f3-5b62aa785510_240x.png?v=1688462521)
+    von 30x40 bis 100x200](https://affengeilebilder24.de/collections/leinwande)[![](files/Detailansicht_Ecke_97a7c55b-2dc0-4308-99f3-5b62aa785510.png)
     
     Poster
     
-    von 20x30 bis 50x70](https://affengeilebilder24.de/collections/poster)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Ecke_f6ee8250-2789-4e67-8352-6cd9aac67919_240x.png?v=1706692324)
+    von 20x30 bis 50x70](https://affengeilebilder24.de/collections/poster)[![](files/Detailansicht_Ecke_f6ee8250-2789-4e67-8352-6cd9aac67919.png)
     
     GalleryPrint
     
-    elegant und edel](https://affengeilebilder24.de/collections/galleryprint)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Ecke_6c1f4b02-f578-40a3-9355-d01b140ac634_240x.png?v=1688459376)
+    elegant und edel](https://affengeilebilder24.de/collections/galleryprint)[![](files/Detailansicht_Ecke_6c1f4b02-f578-40a3-9355-d01b140ac634.png)
     
     Gold auf Acrylglas
     
-    mit echtem Blattgold](https://affengeilebilder24.de/collections/gold-auf-acrylglas)[![Detailansicht Ecke Silberserie](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Silberserie_Ecke_240x.png?v=1715857222)
+    mit echtem Blattgold](https://affengeilebilder24.de/collections/gold-auf-acrylglas)[![Detailansicht Ecke Silberserie](files/Detailansicht_Silberserie_Ecke.png)
     
     Silber auf Acrylglas
     
-    mit echtem Blattsilber](https://affengeilebilder24.de/collections/silber-auf-acrylglas)[![](//affengeilebilder24.de/cdn/shop/files/Detailansicht_Roseserie_Ecke_240x.png?v=1715850649)
+    mit echtem Blattsilber](https://affengeilebilder24.de/collections/silber-auf-acrylglas)[![](files/Detailansicht_Roseserie_Ecke.png)
     
     Rose auf Acrylglas
     
@@ -698,7 +698,7 @@ Folge uns
 
 Partner
 
- [![](//affengeilebilder24.de/cdn/shop/files/siegel-de-m.png?v=1733482551&width=100)](https://www.moebel.de/)[![](//affengeilebilder24.de/cdn/shop/files/seal.png?v=1733482586&width=100)](https://lionshome.de/)
+[![partner logo Moebelde](//affengeilebilder24.de/cdn/shop/files/siegel-de-m.png?v=1733482551&width=100)](https://www.moebel.de/)[![partner logo Lionshome](//affengeilebilder24.de/cdn/shop/files/seal.png?v=1733482586&width=100)](https://lionshome.de/)
 
  Sprache Deutsch
 
