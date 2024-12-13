@@ -4,6 +4,22 @@
 
 Spreading Peace, Hope, Harmony and Love.
 
+* [HOME](https://weshareabundance.com/)
+* [Why WSA?](https://weshareabundance.com/whywsa/)
+* [SUPPORT](https://weshareabundance.hesk.com/)
+* [Register Free](https://membersnew.weshareabundance.com/register)
+* [Log In](https://membersnew.weshareabundance.com/)
+* [Site Map](https://weshareabundance.com/site-map/)
+
+Menu
+
+* [HOME](https://weshareabundance.com/)
+* [Why WSA?](https://weshareabundance.com/whywsa/)
+* [SUPPORT](https://weshareabundance.hesk.com/)
+* [Register Free](https://membersnew.weshareabundance.com/register)
+* [Log In](https://membersnew.weshareabundance.com/)
+* [Site Map](https://weshareabundance.com/site-map/)
+
 Privacy Policy
 ==============
 
