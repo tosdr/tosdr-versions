@@ -61,6 +61,7 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Healthcare and Pharmaceuticals](https://www.panopto.com/industries/healthcare-and-pharmaceuticals/)
         * [Higher Education](https://www.panopto.com/industries/higher-education/)
         * [Manufacturing](https://www.panopto.com/industries/manufacturing/)
+        * [Technology & Software](https://www.panopto.com/industries/technology-and-software/)
         * [Telecommunications](https://www.panopto.com/industries/telecommunications/)
     * By Use Case
         * [Video Platform for Corporate Communications](https://www.panopto.com/use-cases/corporate-communications/)
