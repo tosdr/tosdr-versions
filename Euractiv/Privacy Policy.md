@@ -443,6 +443,12 @@ Most recent
 
 [13-12-2024
 
+Centrist François Bayrou appointed French prime minister](https://www.euractiv.com/section/politics/news/centrist-francois-bayrou-appointed-french-prime-minister/)[13-12-2024
+
+Kazakhstan’s critical materials potential ripe for EU supply chain resilience](https://www.euractiv.com/section/economy-jobs/news/kazakhstans-critical-materials-potential-ripe-for-eu-supply-chain-resilience/)[13-12-2024
+
+EU interior ministers remain deadlocked on CSAM detection bill](https://www.euractiv.com/section/tech/news/eu-interior-ministers-remain-deadlocked-on-csam-detection-bill/)[13-12-2024
+
 Italian court ok’s referendum on controversial autonomy law](https://www.euractiv.com/section/politics/news/the-capitals-italian-court-oks-referendum-on-controversial-autonomy-law/)[13-12-2024
 
 Full Schengen accession to boost Romania’s GDP by 2%](https://www.euractiv.com/section/politics/news/full-schengen-accession-to-boost-romanias-gdp-by-2/)[13-12-2024
@@ -451,17 +457,11 @@ Slovakia’s striking doctors, opposition urge president to block ‘forced labo
 
 Poland’s Morawiecki to replace Meloni as ECR head](https://www.euractiv.com/section/politics/news/polands-morawiecki-to-replace-meloni-as-ecr-head/)[13-12-2024
 
-Portuguese minister snubs PM’s pitch to review 2% defence spending goal](https://www.euractiv.com/section/politics/news/portuguese-minister-snubs-pms-pitch-to-review-2-defence-spending-goal/)[13-12-2024
+Portuguese defence minister says 2% defence target enough for now](https://www.euractiv.com/section/politics/news/portuguese-minister-snubs-pms-pitch-to-review-2-defence-spending-goal/)[13-12-2024
 
 Sánchez’s PSOE tries to ‘seduce’ Puigdemont, again](https://www.euractiv.com/section/politics/news/sanchezs-psoe-tries-to-seduce-puigdemont-again/)[13-12-2024
 
-Italian court ok’s referendum on controversial autonomy law](https://www.euractiv.com/section/politics/news/italian-court-oks-referendum-on-controversial-autonomy-law/)[13-12-2024
-
-Syrian refugees won’t be forced to return, for now](https://www.euractiv.com/section/politics/news/syrian-refugees-wont-be-forced-to-return-for-now/)[13-12-2024
-
-Moldova declares state of emergency as risk of Russian gas cutoff looms](https://www.euractiv.com/section/eet/news/moldova-declares-state-of-emergency-as-risk-of-russian-gas-cutoff-looms/)[13-12-2024
-
-Escalation feared as Georgia pro-EU protests enter third week](https://www.euractiv.com/section/global-europe/news/escalation-feared-as-georgia-pro-eu-protests-enter-third-week/)
+Italian court ok’s referendum on controversial autonomy law](https://www.euractiv.com/section/politics/news/italian-court-oks-referendum-on-controversial-autonomy-law/)
 
 ###### Advertisement
 
@@ -489,7 +489,7 @@ Escalation feared as Georgia pro-EU protests enter third week](https://www.eurac
 
 ##### Newsletters
 
-* [The Capitals](https://www.euractiv.com/the-capitals/)
+* [The Capitals](https://www.euractiv.com/newsletters)
 * [The Brief](https://www.euractiv.com/the-brief/)
 * [Europa Kompakt](https://www.euractiv.com/newsletters)
 * [L'Expresso](https://www.euractiv.com/newsletters)
