@@ -165,69 +165,91 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
+More Mutational Buildup Indicates Living Populations Are Young
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/what-we-celebrate-at-christmas)
+[![](/i/wide/more_mutations_wide.jpg)](https://www.icr.org/article/mutations-mean-more-diseases-less-evolution)
 
-[What We Celebrate at Christmas](https://www.icr.org/article/what-we-celebrate-at-christmas/)
+[More Mutations Mean More Diseases, Less Evolution](https://www.icr.org/article/mutations-mean-more-diseases-less-evolution/)
 
-“And \[Joseph\] knew her \[Mary\] not till she had brought forth her firstborn son: and he called his name JESUS.” (Matthew 1:25) The...
+The science of genetics continues to refute the notion that humans evolve by natural selection of beneficial mutations. One recent study used next-generation...
 
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/supreme-joy)
+[![](/i/wide/dolphin_wide.jpg)](https://www.icr.org/article/rising-animal-cancers-point-dying-world)
 
-[Supreme Joy in Sacrificial Service](https://www.icr.org/article/supreme-joy/)
+[Rising Animal Cancers Point to a Dying World](https://www.icr.org/article/rising-animal-cancers-point-dying-world/)
 
-“Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all. For the same cause also do ye joy,...
+Cancer affects many humans and their loved ones, and a new report has found that certain animals are also suffering from higher cancer rates. Sadly, this...
 
-BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/remember-day-rest)
+[![](/i/wide/poliovirus_wide.jpg)](https://www.icr.org/article/silent-mutations-cripple-viruses)
 
-[Remember the Day of Rest](https://www.icr.org/article/remember-day-rest/)
+[Silent Mutations Cripple Viruses](https://www.icr.org/article/silent-mutations-cripple-viruses/)
 
-“Remember the sabbath day, to keep it holy. Six days shalt thou labour, and do all thy work: But the seventh day is the sabbath of the LORD...
+New vaccines are being developed that promise to be safer than traditional vaccines, which work by exposing patients to less virulent versions of viruses.1...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/chloroplastconstruction_1400x1050.jpg)](https://www.icr.org/article/chloroplast-construction)
+
+[Chloroplast Construction Reflects Creation](https://www.icr.org/article/chloroplast-construction/)
+
+Much has been written regarding the critical importance of photosynthesis and how utterly complex this near-universal biochemical process is.1,2...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/findingorder_1400x1050.jpg)](https://www.icr.org/article/order-in-disorder)
+
+[Non-Repeatable Repeatability: Finding Order in Disorder](https://www.icr.org/article/order-in-disorder/)
+
+Covering a flat surface with some pattern of geometric shapes with no overlaps or gaps is called tiling. Tiling shows up in many places, from the tiles...
+
+BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
+
+[![](/i/Main%20Stage%20-%201400x1050/Inside_Jan_Feb_2022_AF.jpg)](https://www.icr.org/article/inside-january-february-2022-acts-facts/)
+
+[Inside January-February 2022 Acts & Facts](https://www.icr.org/article/inside-january-february-2022-acts-facts//)
+
+How can we use the Bible to guide scientific research? Why is counting ice core layers an insufficient way to determine Earth’s age? How does...
+
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475517/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
 
-The Modern Creation Trilogy](https://store.icr.org/dr-henry-morris-the-modern-creation-trilogy.html)
+Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
 
-$29.99
+$7.99
 
-$34.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/66534950/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10472129/file.jpg)
-
-Scientific Creationism](https://store.icr.org/dr-henry-morris-scientific-creationism.html)
-
-$14.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474571/file.jpg)
-
-The Bible Has the Answer](https://store.icr.org/dr-henry-morris-the-bible-has-the-answer.html)
+Living in Light of Genesis - Audiobook](https://store.icr.org/living-in-light-of-genesis-audiobook.html)
 
 $16.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32640/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60049696/file.jpg)
 
-The Genesis Flood, 50th Anniversary Edition](https://store.icr.org/dr-henry-morris-the-genesis-flood-50th-anniversary.html)
+Living in Light of Genesis](https://store.icr.org/living-in-the-light-of-genesis.html)
 
-$12.99
+$15.99
 
-$16.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/61538914/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32690/file.jpg)
+Living in Light of Genesis - eBook](https://store.icr.org/living-in-light-of-genesis-ebook.html)
 
-The Henry Morris Study Bible - Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-leath.html)
+$9.99
 
-$79.99
+$15.99
 
-$94.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474325/file.jpg)
+
+Dinosaurs and the Bible](https://store.icr.org/mr-brian-thomas-dinosaurs-and-the-bible.html)
+
+$4.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
