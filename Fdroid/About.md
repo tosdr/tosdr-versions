@@ -172,10 +172,10 @@ F-Droid is powered by your donations!
 
 ### News
 
+* [Security of the updates automation](https://f-droid.org/en/2024/12/13/security-of-the-updates-automation.html) Dec 13, 2024
+* [Forks to the rescue](https://f-droid.org/en/2024/12/12/twif.html) Dec 12, 2024
 * [Verified first-time installs](https://f-droid.org/en/2024/12/11/verified-first-time-installs.html) Dec 11, 2024
 * [Fused news read by an LLM](https://f-droid.org/en/2024/12/05/twif.html) Dec 05, 2024
 * [Giving Tuesday - December 3rd, 2024](https://f-droid.org/en/2024/12/03/giving-tuesday.html) Dec 03, 2024
-* [Call for Community Council Nominations](https://f-droid.org/en/2024/12/01/call-for-community-council-nominations.html) Dec 01, 2024
-* [Grab your raccoons](https://f-droid.org/en/2024/11/28/twif.html) Nov 28, 2024
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-12-10, fdroid-website [2.304](https://gitlab.com/fdroid/fdroid-website/tree/3b651c2a67)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-12-10, fdroid-website [2.305](https://gitlab.com/fdroid/fdroid-website/tree/76fbccbcd3)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
