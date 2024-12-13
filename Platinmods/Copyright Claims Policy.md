@@ -1,6 +1,6 @@
-[![Platinmods - Best Free Android MOD APK & iOS Community](/styles/io_dark/images/pm_logo.png)](https://platinmods.com/)
+[![Platinmods - Best Free Android MOD APK & iOS Game Community](/styles/io_dark/images/pm_logo.png)](https://platinmods.com/)
 
-[![Platinmods - Best Free Android MOD APK & iOS Community](/styles/io_dark/images/pm_logo.png)](https://platinmods.com/)
+[![Platinmods - Best Free Android MOD APK & iOS Game Community](/styles/io_dark/images/pm_logo.png)](https://platinmods.com/)
 
 * [HOME](https://platinmods.com/)
     
@@ -112,25 +112,25 @@ This information should not be construed as legal advice, for further details on
 
 ### Share this page
 
-[WhatsApp](#_xfUid-1-1734102117) [Email](#_xfUid-1-1734102117) [Share](#_xfUid-1-1734102117) [Link](#_xfUid-1-1734102117)
+[WhatsApp](#_xfUid-1-1734123478) [Email](#_xfUid-1-1734123478) [Share](#_xfUid-1-1734123478) [Link](#_xfUid-1-1734123478)
 
 ### Forum statistics
 
 Threads
 
-69,307
+69,327
 
 Messages
 
-3,066,821
+3,067,921
 
 Members
 
-4,816,254
+4,817,175
 
 Latest member
 
-[censeii](https://platinmods.com/members/censeii.5146412/)
+[barbarking](https://platinmods.com/members/barbarking.5147334/)
 
 * [Platinmods.com - Futuristic S-Dark](https://platinmods.com/misc/style "Style chooser")
 
