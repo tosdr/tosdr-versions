@@ -18,7 +18,7 @@ blankblankblankblankblank
     
     Meet your customers where they already are.](https://www.intercom.com/support-for-customers#omnichannel-and-multilingual)[Help Center
     
-    Help customers find accurate answers themselves.](https://www.intercom.com/support-for-customers#help-center)
+    Help customers find accurate answers themselves.](https://www.intercom.com/customer-service-platform/help-center)
     
     [For support agents
     
@@ -40,9 +40,9 @@ blankblankblankblankblank
     
     Performance-boosting AI optimization tools.](https://www.intercom.com/support-for-leaders#reporting)[Workflows
     
-    Automate at scale with our visual builder.](https://www.intercom.com/support-for-leaders#workflows)[Outbound messaging
+    Automate at scale with our visual builder.](https://www.intercom.com/support-for-leaders#workflows)[Outbound
     
-    Get ahead of known issues and reduce volume.](https://www.intercom.com/support-for-leaders#outbound-messaging)
+    Get ahead of known issues and reduce volume.](https://www.intercom.com/customer-service-platform/outbound)
     
 * Resources
     
