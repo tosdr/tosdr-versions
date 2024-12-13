@@ -245,6 +245,41 @@ The provisions of these Terms of Use and any Additional Terms which expressly or
 7. Geographic Restrictions. Opencare makes no representation that Services are appropriate or available for use in locations outside of Canada or the United States. We provide the Services for use only by persons located in certain cities in Canada and the United States. If you choose to access this site from locations outside Canada or the United States, you do so at your own risk and you are responsible for compliance with local laws, if and to the extent, local laws apply.
 8. English Language. It is the express wish of the parties that these Terms of Use and all related documents be drawn up in English. C’est la volonté expresse des parties que la présente convention ainsi que les documents qui s’y rattachent soient rédigés en anglais.
 
+Opencare
+--------
+
+* [About Us](https://www.opencare.com/about/)
+* [Careers](https://www.opencare.com/careers/)
+* [Learning center](https://www.opencare.com/blog/)
+* [Log in](https://www.opencare.com/%7B%7B%20patientUrl%20%7D%7D/#/login/)
+* [Referrals](https://www.opencare.com/%7B%7B%20getReferralHref()%20%7D%7D)
+* [Sitemap](https://www.opencare.com/site-map/)
+
+For Dentists
+------------
+
+* [Patient Acquisition](https://www.opencare.com/for-dentists/patient-acquisition/)
+* [Guide to Dental Marketing](https://www.opencare.com/for-dentists/dental-marketing-guide/)
+* [The Opencare Difference](https://www.opencare.com/for-dentists/the-opencare-difference/)
+* [Our Results](https://www.opencare.com/for-dentists/us-based-case-study/)
+* [Practice Login](https://www.opencare.com/%7B%7B%20clinicUrl%20%7D%7D/#/login/)
+
+Blog
+----
+
+* [Dental Marketing](https://www.opencare.com/blog/dental-marketing/)
+* [Dentistry Practice Management](https://www.opencare.com/blog/dental-practice-management/)
+* [Dentist Appointment](https://www.opencare.com/blog/how-to-make-a-dentist-appointment/)
+* [Tonsil Stones](https://www.opencare.com/blog/tonsil-stones/)
+* [Dentist Referrals](https://www.opencare.com/blog/dentist-referral-programs/)
+
+Need Help?
+----------
+
+* [Support](https://www.opencare.com/support/)
+* [Accessibility](https://opencare.zendesk.com/hc/en-us/articles/360052687852)
+* [Privacy Opt-Out](https://www.opencare.com/privacy/?optOut=true)
+
 Popular Searches
 ----------------
 
@@ -332,3 +367,5 @@ Popular Searches
 Level up your oral wellness.
 
 © Opencare 2024 [Terms of Use](https://www.opencare.com/terms/) [Privacy Policy](https://www.opencare.com/privacy/)
+
+[](https://www.facebook.com/OpenCare1 "Facebook")[](https://www.linkedin.com/company/opencare-com "LinkedIn")[](https://twitter.com/opencare "Twitter")[](https://angel.co/opencare "AngelList")[](https://www.glassdoor.ca/Reviews/Opencare-Reviews-E700045.htm "Glassdoor")
