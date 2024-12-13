@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. English
+1. python
     
-2. c
+2. data science
     
-3. finance
+3. html
     
 
 Popular subjects
 
-1. [Management & Leadership
-    
-    2,761 courses](https://www.classcentral.com/subject/management-and-leadership)
-2. [Web Development
+1. [Web Development
     
     13,913 courses](https://www.classcentral.com/subject/web-development)
-3. [Information Technology
+2. [Data Analysis
     
-    5,148 courses](https://www.classcentral.com/subject/information-technology)
+    8,989 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Cybersecurity
+    
+    17,027 courses](https://www.classcentral.com/subject/cybersecurity)
 
 Popular courses
 
-1. [Psychological First Aid
+1. [Critical Thinking at University: An Introduction
     
-    Johns Hopkins University](https://www.classcentral.com/course/psychfirstaid-2900)
-2. [Financial Markets
+    University of Leeds](https://www.classcentral.com/course/critical-thinking-at-university-12273)
+2. [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
     
-    Yale University](https://www.classcentral.com/course/financialmarkets-912)
-3. [Marketing Innovative Products and Services
+    Hebrew University of Jerusalem](https://www.classcentral.com/course/build-a-computer-3234)
+3. [Computational Social Science Methods
     
-    University System of Maryland](https://www.classcentral.com/course/marketing-the-university-of-maryland-college-park-19176)
+    University of California, Davis](https://www.classcentral.com/course/computational-social-science-methods-17299)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
