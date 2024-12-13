@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/creating-shotgun-on-garageband-step-by-step-powerpoint-lesson/)
+ [](https://schoolsmusicmarket.com/product/design-your-own-band-colouring-activity/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/design-your-own-guitar-colouring-activity/)
+ [](https://schoolsmusicmarket.com/product/live-music-performance-getting-radio-play-and-pr-presentation/)
 
 ###### Browse By Year/Grade
 
