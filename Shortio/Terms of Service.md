@@ -1,4 +1,4 @@
-       [![Short.io link shortener](/_astro/logo_short-on-dark.Bmx510Ta_Z1mpxlK.svg) ![Short.io link shortener](/_astro/logo_wide-on-light.XXLZ1x0f_Z1gDbNL.svg)  ![Short.io link shortener](/_astro/logo_wide-on-dark.9C1lO64Y_Z1L7sJf.svg)  ![Short.io link shortener](/_astro/logo_short-on-light.DJ5gXKvL_Z22U9JB.svg)](https://short.io/)
+       [![Short.io link shortener](/_astro/logo_short-on-dark.Bmx510Ta_Z2t05AN.svg) ![Short.io link shortener](/_astro/logo_wide-on-light.XXLZ1x0f_22DDUf.svg)  ![Short.io link shortener](/_astro/logo_wide-on-dark.9C1lO64Y_Z1vqcy9.svg)  ![Short.io link shortener](/_astro/logo_short-on-light.DJ5gXKvL_1m629Q.svg)](https://short.io/)
 
 * [pricing](https://short.io/pricing/)
 * [features](https://short.io/features/)
@@ -228,7 +228,7 @@ Should we fail to enforce any part of these Terms, such action will not constitu
 
 Should any provision of these Terms be found invalid or unenforceable, the remaining provisions of these Terms will remain in full force and effect. 
 
-  ![Short.io logo](/_astro/logo_wide-on-dark.9C1lO64Y_2gXgII.svg)[info@short.io](mailto:info@short.io)  ![Short.io help](/_astro/medium-footer.CjAPDrQZ_2jsOcW.png)
+  ![Short.io logo](/_astro/logo_wide-on-dark.9C1lO64Y_Z1vqcy9.svg)[info@short.io](mailto:info@short.io)  ![Short.io help](/_astro/medium-footer.CjAPDrQZ_7CxGn.png)
 
 Product
 
@@ -274,6 +274,6 @@ Choose a Language:
 * [Українська](https://short.io/uk)
 * [中文](https://short.io/zh)
 
- [![twitter icon](/_astro/twitter.B8D3n_Py_s7JCk.svg)](https://twitter.com/short_io)[![linkedin icon](/_astro/linkedin.CZNQ2UKL_1YwAWl.svg)](https://www.linkedin.com/company/short.cm)[![facebook icon](/_astro/fb.tUO53PyI_2mC1ib.svg)](https://www.facebook.com/shortio.links)
+ [![twitter icon](/_astro/twitter.B8D3n_Py_1LJRHb.svg)](https://twitter.com/short_io)[![linkedin icon](/_astro/linkedin.CZNQ2UKL_Z84osA.svg)](https://www.linkedin.com/company/short.cm)[![facebook icon](/_astro/fb.tUO53PyI_D4yQz.svg)](https://www.facebook.com/shortio.links)
 
 © Copyright 2015-2024 Short.cm Inc. All Rights Reserved. [Terms & Conditions](https://short.io/terms) [Privacy Policy and GDPR](https://short.io/privacy)
