@@ -1,6 +1,6 @@
-**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
+**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -134,9 +134,6 @@ Last Updated: November 15, 2011.
 *      [Ben Shapiro The Devils Are Here](https://patriotpost.us/opinion/112761-the-devils-are-here-2024-12-12)
 *      [Laura Hollis Universal Health Care Delusions](https://patriotpost.us/opinion/112759-universal-health-care-delusions-2024-12-12)
 *      [Armstrong Williams The Price of Profits Paid in Blood](https://patriotpost.us/opinion/112760-the-price-of-profits-paid-in-blood-2024-12-12)
-*      [Hans von Spakovsky The Uncivil Left Wrecks Domestic Civility at Home](https://patriotpost.us/opinion/112749-the-uncivil-left-wrecks-domestic-civility-at-home-2024-12-12)
-*      [The Babylon Bee McDonald’s Surpasses FBI in Number of Shooters Apprehended in 2024](https://patriotpost.us/opinion/112772-mcdonalds-surpasses-fbi-in-number-of-shooters-apprehended-in-2024-2024-12-12)
-*      [The Washington Stand Can Donald Trump Really End the War in Ukraine?](https://patriotpost.us/opinion/112747-can-donald-trump-really-end-the-war-in-ukraine-2024-12-12)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -150,7 +147,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
