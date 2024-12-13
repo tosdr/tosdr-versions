@@ -427,11 +427,11 @@ Missing Letter A daily crossword with a twist
 
 Play](https://www.merriam-webster.com/games/missing-letter)
 
-[![speech-bubble-untangle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![confused man standing between two doors](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-Simplify The Convoluted Expression Quiz A quiz that’s as “uncomplicated as a round de...
+One Word or Two? Take the Quiz! Some words just need a little space.
 
-Take the quiz](https://www.merriam-webster.com/games/convoluted-expression-quiz)
+Take the quiz](https://www.merriam-webster.com/games/one-or-two-quiz)
 
 [Merriam Webster](https://www.merriam-webster.com/)
 
