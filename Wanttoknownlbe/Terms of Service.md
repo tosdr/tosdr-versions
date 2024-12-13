@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/het-cda-en-rentmeesterschap-een-lachertje/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/de-destabiliserende-migrantenstroom/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
