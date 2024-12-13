@@ -109,7 +109,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_1157145334_menu)
+ [Compartilhar](#elShareItem_1403160524_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -145,8 +145,8 @@ Posts recomendados
     
 * Administrador
 * ![](https://www.clubedohardware.com.br/uploads/themes/team_admin.png)
-* * [11k](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/content/ "10.999 posts")
-* 13.156
+* * [11k](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/content/ "11.001 posts")
+* 13.157
 * 16/01/2002
 *  Offline
 
@@ -304,7 +304,7 @@ As regras do Clube do Hardware poderão ser atualizadas periodicamente, sem avis
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1091756596_menu)
+ [Compartilhar](#elShareItem_730693881_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -347,104 +347,104 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![victorioshi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257829.thumb.png.11422e782290e3676bcba9579d1d8b0a.png)](https://www.clubedohardware.com.br/profile/1257829-victorioshi/ "Ir ao perfil de victorioshi")
+    * [![Lucas Machado Barbosa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257846.thumb.png.4d92e1e38b412d85a2f8159bfb7a0925.png)](https://www.clubedohardware.com.br/profile/1257846-lucas-machado-barbosa/ "Ir ao perfil de Lucas Machado Barbosa")
         
         0
         
-        [Pouco uso de cpu e gpu](https://www.clubedohardware.com.br/forums/topic/1705345-pouco-uso-de-cpu-e-gpu/?do=getNewComment "Pouco uso de cpu e gpu")
+        [Ryzen 7 5700x3d com water cooler 120mm](https://www.clubedohardware.com.br/forums/topic/1705380-ryzen-7-5700x3d-com-water-cooler-120mm/?do=getNewComment "Ryzen 7 5700x3d com water cooler 120mm")
         
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [victorioshi](https://www.clubedohardware.com.br/profile/1257829-victorioshi/ "Ir ao perfil de victorioshi")  
-        19 minutos atrás
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Lucas Machado Barbosa](https://www.clubedohardware.com.br/profile/1257846-lucas-machado-barbosa/ "Ir ao perfil de Lucas Machado Barbosa")  
+        10 minutos atrás
         
-    * [![tigasz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257828.thumb.png.83968a652d73b574552be818de978c9e.png)](https://www.clubedohardware.com.br/profile/1257828-tigasz/ "Ir ao perfil de tigasz")
+    * [![Rafael Andrade Souza](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257847.thumb.png.bdf071754e37018e084acb7bbe197180.png)](https://www.clubedohardware.com.br/profile/1257847-rafael-andrade-souza/ "Ir ao perfil de Rafael Andrade Souza")
         
-        2
+        0
         
-        [Preciso de recomendação de placas de até 1000 reais!!!](https://www.clubedohardware.com.br/forums/topic/1705344-preciso-de-recomenda%C3%A7%C3%A3o-de-placas-de-at%C3%A9-1000-reais/?do=getNewComment "Preciso de recomendação de placas de até 1000 reais!!!")
+        [i5 8400, 32GB RAM e GTX 1060: Upgrade ou compra de nova máquina?](https://www.clubedohardware.com.br/forums/topic/1705379-i5-8400-32gb-ram-e-gtx-1060-upgrade-ou-compra-de-nova-m%C3%A1quina/?do=getNewComment "i5 8400, 32GB RAM e GTX 1060: Upgrade ou compra de nova máquina?")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [tigasz](https://www.clubedohardware.com.br/profile/1257828-tigasz/ "Ir ao perfil de tigasz")  
-        26 minutos atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Rafael Andrade Souza](https://www.clubedohardware.com.br/profile/1257847-rafael-andrade-souza/ "Ir ao perfil de Rafael Andrade Souza")  
+        23 minutos atrás
         
-    * [![ManoJooJ](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253433.thumb.jpeg.78a73492e5259fb4d1eabc9db1f48fe7.jpeg)](https://www.clubedohardware.com.br/profile/1253433-manojooj/ "Ir ao perfil de ManoJooJ")
-        
-        5
-        
-        [Vale a pena trocar o meu processador core I3 10105f por um Ryzen 7 5700X?](https://www.clubedohardware.com.br/forums/topic/1705343-vale-a-pena-trocar-o-meu-processador-core-i3-10105f-por-um-ryzen-7-5700x/?do=getNewComment "Vale a pena trocar o meu processador core I3 10105f por um Ryzen 7 5700X?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [ManoJooJ](https://www.clubedohardware.com.br/profile/1253433-manojooj/ "Ir ao perfil de ManoJooJ")  
-        37 minutos atrás
-        
-    * [![tDemon](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1238585.thumb.jpeg.d5c3673f3217452f65b07257dadfcfbc.jpeg)](https://www.clubedohardware.com.br/profile/1238585-tdemon/ "Ir ao perfil de tDemon")
-        
-        2
-        
-        [Nome do Monitor e Faixa de Preço](https://www.clubedohardware.com.br/forums/topic/1705342-nome-do-monitor-e-faixa-de-pre%C3%A7o/?do=getNewComment "Nome do Monitor e Faixa de Preço")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [tDemon](https://www.clubedohardware.com.br/profile/1238585-tdemon/ "Ir ao perfil de tDemon")  
-        41 minutos atrás
-        
-    * [![João Vitor Gois Bonierski](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c1c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257827-jo%C3%A3o-vitor-gois-bonierski/ "Ir ao perfil de João Vitor Gois Bonierski")
-        
-        2
-        
-        [Atualizei a BIOS da minha placa-mãe, troquei o processador e não da mais vídeo](https://www.clubedohardware.com.br/forums/topic/1705341-atualizei-a-bios-da-minha-placa-m%C3%A3e-troquei-o-processador-e-n%C3%A3o-da-mais-v%C3%ADdeo/?do=getNewComment "Atualizei a BIOS da minha placa-mãe,  troquei o processador e não da mais vídeo")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [João Vitor Gois Bonierski](https://www.clubedohardware.com.br/profile/1257827-jo%C3%A3o-vitor-gois-bonierski/ "Ir ao perfil de João Vitor Gois Bonierski")  
-        48 minutos atrás
-        
-    * [![Swalls](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/2(1)(1).thumb.gif.8bc9075f9ac397929081e02491b40cb5.gif)](https://www.clubedohardware.com.br/profile/1160883-swalls/ "Ir ao perfil de Swalls")
-        
-        2
-        
-        [NVMe e mSATA são a mesma coisa?](https://www.clubedohardware.com.br/forums/topic/1705340-nvme-e-msata-s%C3%A3o-a-mesma-coisa/?do=getNewComment "NVMe e mSATA são a mesma coisa?")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Swalls](https://www.clubedohardware.com.br/profile/1160883-swalls/ "Ir ao perfil de Swalls")  
-        51 minutos atrás
-        
-    * [![Adilson Taquaral](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4a8%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EAT%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1205893-adilson-taquaral/ "Ir ao perfil de Adilson Taquaral")
+    * [![Lucas Machado Barbosa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257846.thumb.png.4d92e1e38b412d85a2f8159bfb7a0925.png)](https://www.clubedohardware.com.br/profile/1257846-lucas-machado-barbosa/ "Ir ao perfil de Lucas Machado Barbosa")
         
         4
         
-        [Fonte Seasonic 620W S12II suporta Core i5-13400F e GeForce RTX 3060Ti?](https://www.clubedohardware.com.br/forums/topic/1705339-fonte-seasonic-620w-s12ii-suporta-core-i5-13400f-e-geforce-rtx-3060ti/?do=getNewComment "Fonte Seasonic 620W S12II suporta Core i5-13400F e GeForce RTX 3060Ti?")
+        [Qual PC da Pichau seria a melhor opção? com a RTX 4060 8gb ou 3060 12gb](https://www.clubedohardware.com.br/forums/topic/1705378-qual-pc-da-pichau-seria-a-melhor-op%C3%A7%C3%A3o-com-a-rtx-4060-8gb-ou-3060-12gb/?do=getNewComment "Qual PC da Pichau seria a melhor opção? com a RTX 4060 8gb ou 3060 12gb")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Adilson Taquaral](https://www.clubedohardware.com.br/profile/1205893-adilson-taquaral/ "Ir ao perfil de Adilson Taquaral")  
-        1 hora atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Lucas Machado Barbosa](https://www.clubedohardware.com.br/profile/1257846-lucas-machado-barbosa/ "Ir ao perfil de Lucas Machado Barbosa")  
+        25 minutos atrás
         
-    * [![Betelgeuse](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257826.thumb.jpeg.a21fa0c3c5424a1510ac03ec3ea8ae02.jpeg)](https://www.clubedohardware.com.br/profile/1257826-betelgeuse/ "Ir ao perfil de Betelgeuse")
+    * [![Hugo Schwenke](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46266%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EHS%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1243983-hugo-schwenke/ "Ir ao perfil de Hugo Schwenke")
         
         2
         
-        [Uso de CPU em 100%](https://www.clubedohardware.com.br/forums/topic/1705338-uso-de-cpu-em-100/?do=getNewComment "Uso de CPU em 100%")
+        [i5 7400 e H110MHC: Upgrade de processador e placa-mãe](https://www.clubedohardware.com.br/forums/topic/1705376-i5-7400-e-h110mhc-upgrade-de-processador-e-placa-m%C3%A3e/?do=getNewComment "i5 7400 e H110MHC: Upgrade de processador e placa-mãe")
         
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [Betelgeuse](https://www.clubedohardware.com.br/profile/1257826-betelgeuse/ "Ir ao perfil de Betelgeuse")  
-        1 hora atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Hugo Schwenke](https://www.clubedohardware.com.br/profile/1243983-hugo-schwenke/ "Ir ao perfil de Hugo Schwenke")  
+        55 minutos atrás
         
-    * [![JoaoVitor3](https://www.clubedohardware.com.br/uploads/members/monthly_2020_11/imported-photo-1096835.thumb.png.a4dd1fda16c8e544e53a1df8a7d15ebb.png)](https://www.clubedohardware.com.br/profile/1096835-joaovitor3/ "Ir ao perfil de JoaoVitor3")
+    * [![Marlon  Magalhães](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c49662%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1004752-marlon-magalh%C3%A3es/ "Ir ao perfil de Marlon  Magalhães")
         
         0
         
-        [Socket da placa-mãe com rebaixo](https://www.clubedohardware.com.br/forums/topic/1705337-socket-da-placa-m%C3%A3e-com-rebaixo/?do=getNewComment "Socket da placa-mãe com rebaixo")
+        Javascript [<Vue.js não cria projeto! LINUX>](https://www.clubedohardware.com.br/forums/topic/1705375--/?do=getNewComment "<Vue.js não cria projeto! LINUX>")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [JoaoVitor3](https://www.clubedohardware.com.br/profile/1096835-joaovitor3/ "Ir ao perfil de JoaoVitor3")  
+        [Web e banco de dados](https://www.clubedohardware.com.br/forums/forum/16-web-e-banco-de-dados/ "Web e banco de dados")  
+        Por [Marlon Magalhães](https://www.clubedohardware.com.br/profile/1004752-marlon-magalh%C3%A3es/ "Ir ao perfil de Marlon  Magalhães")  
         1 hora atrás
         
-    * [![Lawliet240hz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257226.thumb.jpeg.dc678eb313c9dc0b4e44a1a4b66acd5e.jpeg)](https://www.clubedohardware.com.br/profile/1257226-lawliet240hz/ "Ir ao perfil de Lawliet240hz")
+    * [![Richard G](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/ChitogeKirisaki.thumb.png.23010c87c746923d036fd0216f34bfb6.png)](https://www.clubedohardware.com.br/profile/1257843-richard-g/ "Ir ao perfil de Richard G")
         
-        3
+        6
         
-        [Vale trocar GeForce RTX 3060 por Radeon RX 6600, Ryzen 5 5600G e 300 reais?](https://www.clubedohardware.com.br/forums/topic/1705335-vale-trocar-geforce-rtx-3060-por-radeon-rx-6600-ryzen-5-5600g-e-300-reais/?do=getNewComment "Vale trocar GeForce RTX 3060 por Radeon RX 6600, Ryzen 5 5600G e 300 reais?")
+        [Pc reiniciando em jogos pesados/Desligando driver de vídeo com ventoinhas há 100%](https://www.clubedohardware.com.br/forums/topic/1705374-pc-reiniciando-em-jogos-pesadosdesligando-driver-de-v%C3%ADdeo-com-ventoinhas-h%C3%A1-100/?do=getNewComment "Pc reiniciando em jogos pesados/Desligando driver de vídeo com ventoinhas há 100%")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Lawliet240hz](https://www.clubedohardware.com.br/profile/1257226-lawliet240hz/ "Ir ao perfil de Lawliet240hz")  
+        [Computador reiniciando](https://www.clubedohardware.com.br/forums/forum/121-computador-reiniciando/ "Computador reiniciando")  
+        Por [Richard G](https://www.clubedohardware.com.br/profile/1257843-richard-g/ "Ir ao perfil de Richard G")  
+        1 hora atrás
+        
+    * [![Fafa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/cd0.thumb.jpg.a64505a85f525ec8c2570d8dd543932c.jpg)](https://www.clubedohardware.com.br/profile/1248148-fafa/ "Ir ao perfil de Fafa")
+        
+        1
+        
+        [Posso usar os Drivers do Ryzen 7 5800x3d? tendo um 7 5700x3d?](https://www.clubedohardware.com.br/forums/topic/1705373-posso-usar-os-drivers-do-ryzen-7-5800x3d-tendo-um-7-5700x3d/?do=getNewComment "Posso usar os Drivers do Ryzen 7 5800x3d? tendo um 7 5700x3d?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Fafa](https://www.clubedohardware.com.br/profile/1248148-fafa/ "Ir ao perfil de Fafa")  
+        1 hora atrás
+        
+    * [![Igor Felizardo7](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257842.thumb.png.977c956aa4bf1ef76c8e2e5402c71306.png)](https://www.clubedohardware.com.br/profile/1257842-igor-felizardo7/ "Ir ao perfil de Igor Felizardo7")
+        
+        0
+        
+        [Quanto vale meu PC usado? Ryzen 5600, 16GB RAM, GTX 1650, periféricos, ...](https://www.clubedohardware.com.br/forums/topic/1705372-quanto-vale-meu-pc-usado-ryzen-5600-16gb-ram-gtx-1650-perif%C3%A9ricos/?do=getNewComment "Quanto vale meu PC usado? Ryzen 5600, 16GB RAM, GTX 1650, periféricos, ...")
+        
+        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
+        Por [Igor Felizardo7](https://www.clubedohardware.com.br/profile/1257842-igor-felizardo7/ "Ir ao perfil de Igor Felizardo7")  
+        1 hora atrás
+        
+    * [![Wagncs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257835.thumb.png.4459f58255e9a86af644b025c23dcbe9.png)](https://www.clubedohardware.com.br/profile/1257835-wagncs/ "Ir ao perfil de Wagncs")
+        
+        2
+        
+        [Computador quando desligo liga novamente](https://www.clubedohardware.com.br/forums/topic/1705371-computador-quando-desligo-liga-novamente/?do=getNewComment "Computador quando desligo liga novamente")
+        
+        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
+        Por [Wagncs](https://www.clubedohardware.com.br/profile/1257835-wagncs/ "Ir ao perfil de Wagncs")  
+        1 hora atrás
+        
+    * [![UserX_](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4a562%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EU%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/875136-userx_/ "Ir ao perfil de UserX_")
+        
+        0
+        
+        [Os jogos lançados com Ray Tracing obrigatório tornará gpu sem RT irrelevantes?](https://www.clubedohardware.com.br/forums/topic/1705370-os-jogos-lan%C3%A7ados-com-ray-tracing-obrigat%C3%B3rio-tornar%C3%A1-gpu-sem-rt-irrelevantes/?do=getNewComment "Os jogos lançados com Ray Tracing obrigatório tornará gpu sem RT irrelevantes?")
+        
+        [Jogos](https://www.clubedohardware.com.br/forums/forum/104-jogos/ "Jogos")  
+        Por [UserX\_](https://www.clubedohardware.com.br/profile/875136-userx_/ "Ir ao perfil de UserX_")  
         1 hora atrás
         
     
