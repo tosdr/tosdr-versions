@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/2520.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/1868.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -91,6 +91,10 @@ ACTUALITÉSdes articles SONY sélectionnés au meilleurs prix](https://www.micro
 [![ID DEAL](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-Xmas-06-CM2-iPad-Pro-2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyNTQ4MjN8aW1hZ2UvanBlZ3xhR0UwTDJnek1TODROakI0TkRnMFgwa3lORjlUY0ZCZldHMWhjMTh3Tmw5RFRUSmZhVkJoWkY5UWNtOWZNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T0RZd2VEUTRORjlKTWpSZlUzQlFYMWh0WVhOZk1EWmZRMDB5WDJsUVlXUmZVSEp2WHpJdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa3wyMDNiNzQ5MzQ4ODE0MzVjZjAwZmE3NDM0NGJmNzlhYzUxZGRmMzNkNTcyZTQ5OGU0ZjM1MTE3OTYxZjM3ZWU1&w=2360&q=75)
 
 100.-de rabais sur une sélection d'iPad Pro](https://www.microspot.ch/fr/cms/apple-ipad)
+
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0760-CM2-Gaming-Special.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzNzgyOHxpbWFnZS9qcGVnfGFEaGpMMmczWlM4NE5qQjRORGcwWDBreU5GOHdOell3WDBOTk1sOUhZVzFwYm1kZlUzQmxZMmxoYkM1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EWXdlRFE0TkY5Sk1qUmZNRGMyTUY5RFRUSmZSMkZ0YVc1blgxTndaV05wWVd3dWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa3wxZjhkZDcyYjZhMGFhM2RlZmU5M2VkZGYwMWQ5MjUzNDdiYTAwOWMxOTM5MjhhM2M3NTNmYzA3MWY1MTdlZjA3&w=2360&q=75)
+
+ACTIONGaming Week](https://www.microspot.ch/fr/cms/actions-jeux)
 
 Autres actions ici
 
@@ -140,23 +144,23 @@ Pièces Isoleès à Prix Fous](https://www.microspot.ch/fr/cms/fins-de-series)
 Testé pour vous
 ---------------
 
-[![80x80_I24_SoMe_Blog_Kenwood.jpg](/medias/80x80-I24-SoMe-Blog-Kenwood.jpg?context=bWFzdGVyfGNtc3w1MTQ3fGltYWdlL2pwZWd8YUdRMEwyZ3pNeTg0TUhnNE1GOUpNalJmVTI5TlpWOUNiRzluWDB0bGJuZHZiMlF1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnd2VEZ3dYMGt5TkY5VGIwMWxYMEpzYjJkZlMyVnVkMjl2WkM1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfGRiOWMyOWExYjE5ZWRmZTFmOGVjZWVhYWJkNTU5MWFjMTBjMzY4N2RiYjE4Yzg5ZDExZjFmM2JmYjM0ODBiNzQ)
+[![80x80_I24_Icons_013_Blog24.png](/medias/80x80-I24-Icons-013-Blog24.png?context=bWFzdGVyfGNtc3w1NjM0fGltYWdlL3BuZ3xhREUzTDJoaU9DODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjeU5DNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhNMTlDYkc5bk1qUXVjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8NWU4MGJjNmE3MjU5NGY1MGExZjQ0Zjk0YjVhNGQ0MmRhNmUzYTZjYjU3MDE1NWMxMTBmNTlhYzZjODA3Y2I3NQ)
 
-KENWOOD
+BRAUN
 
-Cooking Chef XL](https://www.microspot.ch/fr/cms/blog/conseils/kenwood-cooking-chef-xl)
+Best Shave Series 9 - 9565cc Pro+](https://www.microspot.ch/fr/cms/blog/conseils/braun-best-shave-series-9)
 
-[![80x80_I24_SoMe_Blog_Dyson_Waschsauger.jpg](/medias/80x80-I24-SoMe-Blog-Dyson-Waschsauger.jpg?context=bWFzdGVyfGNtc3wzMTk3fGltYWdlL2pwZWd8YURObEwyZzVZaTg0TUhnNE1GOUpNalJmVTI5TlpWOUNiRzluWDBSNWMyOXVYMWRoYzJOb2MyRjFaMlZ5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1IZzRNRjlKTWpSZlUyOU5aVjlDYkc5blgwUjVjMjl1WDFkaGMyTm9jMkYxWjJWeUxtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfGYyYWNiYmU5MTEzN2Q1MmFkNWFkNWFlNThlNTVkMTBjYjNiMDlkZmEzMWMyNTU5ZDk4M2ViMDhmOTYzZDJiMDE)
+[![80x80_I24_SoMe_Blog_Garmin_Fenix_8.jpg](/medias/80x80-I24-SoMe-Blog-Garmin-Fenix-8.jpg?context=bWFzdGVyfGNtc3wzNTYyfGltYWdlL2pwZWd8YUdFMkwyZ3dNeTg0TUhnNE1GOUpNalJmVTI5TlpWOUNiRzluWDBkaGNtMXBibDlHWlc1cGVGODRMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzg0TUhnNE1GOUpNalJmVTI5TlpWOUNiRzluWDBkaGNtMXBibDlHWlc1cGVGODRMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXw4OGMyZDE1ZTNkMTIzMTg3Mzk2ZDNiNDEyMDhjODcwMDc5MGQ4MWU5OWY4NTU3YmVjODA3NWYxOWM0ZTg1YzRh)
 
-DYSON
+GARMIN
 
-Wash G1](https://www.microspot.ch/fr/cms/blog/conseils/dyson-washg1)
+Fenix 8](https://www.microspot.ch/fr/cms/blog/conseils/garmin-fenix-8)
 
-[![80x80_I24_SoMe_Blog_Sony_Makroobjektive.jpg](/medias/80x80-I24-SoMe-Blog-Sony-Makroobjektive.jpg?context=bWFzdGVyfGNtc3w0MTI4fGltYWdlL2pwZWd8YURsa0wyZzBNaTg0TUhnNE1GOUpNalJmVTI5TlpWOUNiRzluWDFOdmJubGZUV0ZyY205dlltcGxhM1JwZG1VdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBreU5GOVRiMDFsWDBKc2IyZGZVMjl1ZVY5TllXdHliMjlpYW1WcmRHbDJaUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8YjBlZTliYzgxYTRmMGNhMGI5NDdkODE0MjRiNmZlN2Y5NjYwMWMyMmIxZWQzM2Q1NDA1MDExMmUzZmJhZGM4MA)
+[![80x80_I24_SoMe_Blog_Sonicare.jpg](/medias/80x80-I24-SoMe-Blog-Sonicare.jpg?context=bWFzdGVyfGNtc3wyNjMyfGltYWdlL2pwZWd8YURFMkwyZzRPUzg0TUhnNE1GOUpNalJmVTI5TlpWOUNiRzluWDFOdmJtbGpZWEpsTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1IZzRNRjlKTWpSZlUyOU5aVjlDYkc5blgxTnZibWxqWVhKbExtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfDk3OGFhOTQ2NGRhNTdmOTVjOWMyYzIzNGQ5N2UxYTM0MDU5ZDkwN2ViMjQ5NmViMDE4NTlkMzExZjZmMDdmOTY)
 
-SONY
+PHILIPS
 
-Objectifs macro](https://www.microspot.ch/fr/cms/blog/conseils/sony-makro)
+Sonicare 7100](https://www.microspot.ch/fr/cms/blog/conseils/philips-sonicare-7100)
 
 Test: VALERA MatrixCare AI Metallic
 -----------------------------------
