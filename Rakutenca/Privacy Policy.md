@@ -1,3 +1,7 @@
+[Joe Fresh: 25% adult styles + 12% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/joe-fresh-canada?store=joe-fresh-canada&sourceName=sitewide-sticky-header)
+
 [](https://www.rakuten.ca/)
 
 EN
