@@ -68,7 +68,7 @@ Rechercher sur Le Parisien
 * [Politique](https://www.leparisien.fr/politique/)
     
     * [Emmanuel Macron](https://www.leparisien.fr/politique/emmanuel-macron/)
-    * [Michel Barnier](https://www.leparisien.fr/politique/michel-barnier/)
+    * [François Bayrou](https://www.leparisien.fr/politique/francois-bayrou/)
     * [Élections](https://www.leparisien.fr/elections/)
     
 * [International](https://www.leparisien.fr/international/)
@@ -368,9 +368,9 @@ Profitez des avantages de l’offre numérique
 
 [Je m'abonne](#)
 
-![](/pf/resources/images/footer_img_abo_desktop.png?d=765)
+![](/pf/resources/images/footer_img_abo_desktop.png?d=766)
 
-![](/pf/resources/images/footer_img_abo_tablet.png?d=765)
+![](/pf/resources/images/footer_img_abo_tablet.png?d=766)
 
 [Centre Français d’Exploitation du Droit de Copie](http://www.cfcopies.com/contrat-autorisation2/)
 
