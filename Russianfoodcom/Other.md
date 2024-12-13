@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -151,13 +151,13 @@
 * [Открытый слоёный пирог с фетой и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173732)
 * [Картофельная "пицца" с копчёностями, яйцами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=162794)
 * [Злаковый завтрак](https://www.russianfood.com/recipes/recipe.php?rid=123899)
-* [Бабка с яблоками и творогом](https://www.russianfood.com/recipes/recipe.php?rid=52531)
 * [Горячие бутерброды с ливерной колбасой и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=1979)
 * [Мещерская окрошка](https://www.russianfood.com/recipes/recipe.php?rid=3683)
 * [Бутерброды с сосиской и яйцом](https://www.russianfood.com/recipes/recipe.php?rid=5485)
 * [Бутерброды с килькой и ливерной колбасой](https://www.russianfood.com/recipes/recipe.php?rid=5489)
 * [Бутерброды со свеклой](https://www.russianfood.com/recipes/recipe.php?rid=5523)
-* [Суп из квашеной капусты](https://www.russianfood.com/recipes/recipe.php?rid=7498)
+* [Майский салат с колбасой](https://www.russianfood.com/recipes/recipe.php?rid=8296)
+* [Итальянский мясной салат](https://www.russianfood.com/recipes/recipe.php?rid=8321)
 
 |     |
 | --- |
@@ -179,6 +179,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Вкусное блюдо на тарелке любо. Лучшие рецепты НА ВЫХОДНЫЕ №24-50](https://www.russianfood.com/reading/?post_id=22989) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/704/sm_703598.jpg)](https://www.russianfood.com/reading/?post_id=22989)
+
+Котлеты из перловки с творогом. Рыба с цитрусами. Грудка в вине и молоке. Картофельный гратен с творогом и сыром. Голубцы из пекинской капусты с фаршем. Котлеты из брокколи, овсянки и сыра. Полента с говядиной.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22989)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на выходные](https://www.russianfood.com/blogs/?id=325002) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22989#comments) | 13.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Фейерверк новогодних вкусов. Лучшие рецепты на Новый год (103)](https://www.russianfood.com/reading/?post_id=22988) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/713/sm_712614.jpg)](https://www.russianfood.com/reading/?post_id=22988)
+
+Сметанное желе «Мозаика». Капустный салат с овощами и рыбными консервами. Жаркое с картошкой и копчёностями. Рыбные котлеты в томате. Овощное ассорти с булгуром.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22988)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22988#comments) | 13.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -206,7 +234,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ИВАНЫЧ](https://www.russianfood.com/blogs/?id=18150) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175124#comments) | 13.12.24 |     |
+|     | [ИВАНЫЧ](https://www.russianfood.com/blogs/?id=18150) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175124#comments) | 13.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -262,7 +290,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174952#comments) | 12.12.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174952#comments) | 12.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -362,34 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174942#comments) | 12.12.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=174889) |     |
-
-[![Фото к рецепту: Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом](//img1.russianfood.com/dycontent/images_upl/760/sm_759431.jpg "Фото к рецепту: Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом")](https://www.russianfood.com/recipes/recipe.php?rid=174889)
-
-Слоёный пирог со шпинатом и двумя видами сыра можно красиво оформить в виде ели и подать на рождественский или новогодний стол. Тесто используется магазинное, что делает приготовление быстрым и удобным.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174889)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174889#comments) | 12.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Салат "Змея" с картошкой, рыбными консервами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174807) |     |
-
-[![Фото к рецепту: Салат "Змея" с картошкой, рыбными консервами и сыром](//img1.russianfood.com/dycontent/images_upl/757/sm_756936.jpg "Фото к рецепту: Салат "Змея" с картошкой, рыбными консервами и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=174807)
-
-Сверкающие гирлянды, запах мандаринов и, конечно же, новогодний салат! Если оформить его в виде символа года - Змеи, такое блюдо станет главным на новогоднем столе 2025. Готовится такой салат из отварного картофеля, консервированной рыбы, кукурузы, яиц и твёрдого сыра. А для оформления нужно лишь проявить немного фантазии.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174807)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174807#comments) | 11.12.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -461,10 +461,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760115.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175128) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758757.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174953) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754914.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759617.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175124) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758737.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174955) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759431.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174889) |
-| [Миндальное печенье](https://www.russianfood.com/recipes/recipe.php?rid=175128) | [Рыбный суп с тыквой и сливками](https://www.russianfood.com/recipes/recipe.php?rid=174953) | [Круглая гата с начинкой "хориз" (с сухофруктами и орехами)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [Закусочный пирог из лаваша, с сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [Калья](https://www.russianfood.com/recipes/recipe.php?rid=175124) | [Суп с говяжьим фаршем и бататом](https://www.russianfood.com/recipes/recipe.php?rid=174955) | [Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=174889) |
-| [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758712.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174952) |
-| [Сырный суп с шампиньонами и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174952) |
+| [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758757.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174953) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759431.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174889) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758712.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174952) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759617.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175124) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754914.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758737.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174955) |
+| [Рыбный суп с тыквой и сливками](https://www.russianfood.com/recipes/recipe.php?rid=174953) | [Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=174889) | [Сырный суп с шампиньонами и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174952) | [Калья](https://www.russianfood.com/recipes/recipe.php?rid=175124) | [Закусочный пирог из лаваша, с сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [Круглая гата с начинкой "хориз" (с сухофруктами и орехами)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [Суп с говяжьим фаршем и бататом](https://www.russianfood.com/recipes/recipe.php?rid=174955) |
+| [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760115.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175128) |
+| [Миндальное печенье](https://www.russianfood.com/recipes/recipe.php?rid=175128) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -481,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(114)
+(118)
