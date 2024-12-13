@@ -158,7 +158,6 @@ More from The Telegraph
 
 * [Download our app](https://www.telegraph.co.uk/customer/subsdigitaleditionapp/)
 * [Newsletters](https://www.telegraph.co.uk/newsletters)
-* [Telegraph Extra](https://extra.telegraph.co.uk/)
 * [Recommended](https://www.telegraph.co.uk/recommended/)
 * [Financial Solutions](https://www.telegraph.co.uk/financial-services/)
 * [Events](https://www.telegraph.co.uk/events/)
