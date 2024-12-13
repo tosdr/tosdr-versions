@@ -11,6 +11,8 @@
 
 [EVENTS CALENDAR](https://www.unplug.com/special-events)
 
+[CONTACT US / FAQ](https://www.unplug.com/studio-info-faq)
+
 [TEACHER TRAINING](https://www.unplug.com/teacher-training-apply)
 
 [CORPORATE](https://www.unplug.com/corporate)
@@ -33,6 +35,8 @@
 [RATES & MEMBERSHIPS](https://www.unplug.com/rates)
 
 [EVENTS CALENDAR](https://www.unplug.com/special-events)
+
+[CONTACT US / FAQ](https://www.unplug.com/studio-info-faq)
 
 [TEACHER TRAINING](https://www.unplug.com/teacher-training-apply)
 
@@ -273,7 +277,7 @@ a. **California.**  If you are a California resident, under California Civil C
 
 [Studio & Livestream Classes](https://www.unplug.com/find-a-class-index)
 
-[Pricing](https://www.unplug.com/santa-monica)
+[Rates & Memberships](https://www.unplug.com/rates)
 
 [Special Events](https://www.unplug.com/special-events)
 
@@ -283,7 +287,7 @@ a. **California.**  If you are a California resident, under California Civil C
 
 [Teachers](https://www.unplug.com/teachers)
 
-[Become a Member](https://www.unplug.com/become-a-member-index)
+[Rates & Memberships](https://www.unplug.com/rates)
 
 [Corporate](https://www.unplug.com/corporate)
 
