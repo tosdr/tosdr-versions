@@ -1,10 +1,8 @@
-    [![mystudylife](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20240%2046'%3E%3C/svg%3E)
+  [![mystudylife](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%2046'%3E%3C/svg%3E)
 
- ![mystudylife](https://mystudylife.com/wp-content/uploads/2022/02/logowhiteMSL.png)
+![mystudylife](https://mystudylife.com/wp-content/uploads/2022/02/logowhiteMSL.png) ![mystudylife](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
- ![mystudylife](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20643%20123'%3E%3C/svg%3E)
-
- ![mystudylife](https://mystudylife.com/wp-content/uploads/2022/02/logowhiteMSL.png)](https://mystudylife.com/)
+![mystudylife](https://mystudylife.com/wp-content/uploads/2022/02/logowhiteMSL.png)](https://mystudylife.com/)
 
 * [Home](https://mystudylife.com/ "Home")
 * [Features](https://mystudylife.com/tour/ "Features")
@@ -28,9 +26,9 @@
 
 [Sign in](https://mystudylife.com/web-app/)
 
-  [![mystudylife](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20643%20123'%3E%3C/svg%3E)
+ [![mystudylife](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
- ![mystudylife](https://mystudylife.com/wp-content/uploads/2022/02/logowhiteMSL.png)](https://mystudylife.com/)
+![mystudylife](https://mystudylife.com/wp-content/uploads/2022/02/logowhiteMSL.png)](https://mystudylife.com/)
 
 * [Home](https://mystudylife.com/ "Home")
 * [Features](https://mystudylife.com/tour/ "Features")
@@ -52,7 +50,7 @@
 
  ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%20682'%3E%3C/svg%3E)
 
- ![](https://mystudylife.com/wp-content/uploads/2022/01/bannergen1.png)
+![](https://mystudylife.com/wp-content/uploads/2022/01/bannergen1.png)
 
 Terms of Service
 ================
