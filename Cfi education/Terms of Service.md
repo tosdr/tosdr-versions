@@ -646,7 +646,7 @@ Explore Our Certifications
 
 Resources
 
-[Excel Shortcuts PC Mac List of Excel Shortcuts Excel shortcuts - It may seem slower at first if you're used to the mouse, but it's worth the investment to take the time and...](https://corporatefinanceinstitute.com/resources/excel/excel-shortcuts-pc-mac/)
+[Mastering Excel Shortcuts for PC and Mac List of Excel Shortcuts Excel shortcuts - It may seem slower at first if you're used to the mouse, but it's worth the investment to take the time and...](https://corporatefinanceinstitute.com/resources/excel/excel-shortcuts-pc-mac/)
 
 [Financial Modeling Guidelines CFI’s free Financial Modeling Guidelines is a thorough and complete resource covering model design, model building blocks, and common tips, tricks, and...](https://corporatefinanceinstitute.com/resources/financial-modeling/free-financial-modeling-guide/)
 
