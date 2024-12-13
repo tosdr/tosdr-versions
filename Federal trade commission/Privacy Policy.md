@@ -18,10 +18,11 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-Translation Menu
-----------------
+* [English](https://www.ftc.gov/)
+* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
-* [Español](https://www.ftc.gov/es)
+Secondary Menu
+--------------
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
@@ -148,11 +149,11 @@ Main Menu Mega
     
     Technology Blog
     
-    ### [Solving the Traveling Salesman Problem? Not quite, but here are more research questions from the Office of Technology](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/12/solving-traveling-salesman-problem-not-quite-here-are-more-research-questions-office-technology)
+    ### [Lenses of security: Preventing and mitigating digital security risks through data management, software development, and product design for humans](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/12/lenses-security-preventing-mitigating-digital-security-risks-through-data-management-software)
     
-    Staff at the Office of Technology
+    Staff in the Office of Technology & the Division of Privacy and Identity Protection
     
-    December 4, 2024
+    December 13, 2024
     
     [View all Technology Blog posts](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc)
     
@@ -325,10 +326,11 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-Translation Menu
-----------------
+* [English](https://www.ftc.gov/)
+* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
-* [Español](https://www.ftc.gov/es)
+Secondary Menu
+--------------
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
