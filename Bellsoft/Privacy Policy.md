@@ -76,6 +76,9 @@ Search
     * [### Documentation
         
         All the information you need to use BellSoft’s platforms and projects](https://docs.bell-sw.com/)
+    * [### Content Library
+        
+        Explore a diverse collection of guides, product briefs, e-books, webinars, and videos, all crafted to enhance your understanding and skills in Java programming.](https://bell-sw.com/content-library/)
     
 * backSupport
     
