@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Craig Dorney, from Lewisham, took advantage of a young woman after they happened to meet getting out of separate taxis](https://southwarknews.co.uk/wp-content/uploads/2024/12/Craig-Dorney-from-Lewisham-took-advantage-of-a-young-woman-after-they-happened-to-meet-getting-out-of-separate-taxis-360x180.png)](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
+    
+    ### [Opportunistic rapist foiled after victim recorded horrific attack](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
+    
+    [![British Transport Police are investigating the incident (credit: Team London Bridge)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-13-12-2024-at-09.58-360x180.jpg)](https://southwarknews.co.uk/area/borough/four-women-assaulted-two-others-between-london-bridge-and-kent/)
+    
+    ### [‘Four women assaulted’ two others between London Bridge and Kent](https://southwarknews.co.uk/area/borough/four-women-assaulted-two-others-between-london-bridge-and-kent/)
+    
+    [![The Thames river near Butler's Wharf Pier. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-Thames-river-near-Butlers-Wharf-Pier.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/womans-body-found-in-thames-near-butlers-wharf-pier/)
+    
+    ### [Woman’s body found in Thames near Butler’s Wharf Pier](https://southwarknews.co.uk/area/bermondsey/womans-body-found-in-thames-near-butlers-wharf-pier/)
+    
     [![Visitors at The Brunel Museum. Image provided by The Brunel Museum](https://southwarknews.co.uk/wp-content/uploads/2024/12/Visitors-at-The-Brunel-Museum.-Image-provided-by-The-Brunel-Museum-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/rotherhithe-museum-offering-2-tickets-for-locals-only/)
     
     ### [Rotherhithe museum offering £2 tickets for locals only](https://southwarknews.co.uk/area/bermondsey/rotherhithe-museum-offering-2-tickets-for-locals-only/)
@@ -44,18 +56,6 @@
     CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/12/CGI-of-James-Allens-Girls-Schools-360x180.jpg)](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
     
     ### [London’s oldest private girls’ school wins approval for new home](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
-    
-    [![Felicitas Kanu at Westminster Abbey.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Felicitas-Kanu-at-Westminster-Abbey-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
-    
-    ### [Evelina London staff receive royal invite to carol service hosted by Princess of Wales](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
-    
-    [![The alleged attack reportedly took place opposite a pub on Rye Lane. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-attack-reportedly-took-place-opposite-a-pub-on-Rye-Lane.-Image-Google--360x180.png)](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
-    
-    ### [Man, 62, nearly died after alleged Rye Lane stab attack as police appeal for witnesses](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
-    
-    [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
-    
-    ### [TfL to axe popular South London bus route despite admitting public is ‘not supportive’](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Craig Dorney, from Lewisham, took advantage of a young woman after they happened to meet getting out of separate taxis](https://southwarknews.co.uk/wp-content/uploads/2024/12/Craig-Dorney-from-Lewisham-took-advantage-of-a-young-woman-after-they-happened-to-meet-getting-out-of-separate-taxis-360x180.png)](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
+    
+    ### [Opportunistic rapist foiled after victim recorded horrific attack](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
+    
+    [![British Transport Police are investigating the incident (credit: Team London Bridge)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-13-12-2024-at-09.58-360x180.jpg)](https://southwarknews.co.uk/area/borough/four-women-assaulted-two-others-between-london-bridge-and-kent/)
+    
+    ### [‘Four women assaulted’ two others between London Bridge and Kent](https://southwarknews.co.uk/area/borough/four-women-assaulted-two-others-between-london-bridge-and-kent/)
+    
+    [![The Thames river near Butler's Wharf Pier. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-Thames-river-near-Butlers-Wharf-Pier.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/womans-body-found-in-thames-near-butlers-wharf-pier/)
+    
+    ### [Woman’s body found in Thames near Butler’s Wharf Pier](https://southwarknews.co.uk/area/bermondsey/womans-body-found-in-thames-near-butlers-wharf-pier/)
+    
     [![Visitors at The Brunel Museum. Image provided by The Brunel Museum](https://southwarknews.co.uk/wp-content/uploads/2024/12/Visitors-at-The-Brunel-Museum.-Image-provided-by-The-Brunel-Museum-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/rotherhithe-museum-offering-2-tickets-for-locals-only/)
     
     ### [Rotherhithe museum offering £2 tickets for locals only](https://southwarknews.co.uk/area/bermondsey/rotherhithe-museum-offering-2-tickets-for-locals-only/)
@@ -130,18 +142,6 @@ View All Result
     CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/12/CGI-of-James-Allens-Girls-Schools-360x180.jpg)](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
     
     ### [London’s oldest private girls’ school wins approval for new home](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
-    
-    [![Felicitas Kanu at Westminster Abbey.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Felicitas-Kanu-at-Westminster-Abbey-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
-    
-    ### [Evelina London staff receive royal invite to carol service hosted by Princess of Wales](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
-    
-    [![The alleged attack reportedly took place opposite a pub on Rye Lane. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-attack-reportedly-took-place-opposite-a-pub-on-Rye-Lane.-Image-Google--360x180.png)](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
-    
-    ### [Man, 62, nearly died after alleged Rye Lane stab attack as police appeal for witnesses](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
-    
-    [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
-    
-    ### [TfL to axe popular South London bus route despite admitting public is ‘not supportive’](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -385,6 +385,12 @@ Website
 
 ### Featured Articles
 
+[![Craig Dorney, from Lewisham, took advantage of a young woman after they happened to meet getting out of separate taxis](https://southwarknews.co.uk/wp-content/uploads/2024/12/Craig-Dorney-from-Lewisham-took-advantage-of-a-young-woman-after-they-happened-to-meet-getting-out-of-separate-taxis-120x86.png)](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
+
+### [Opportunistic rapist foiled after victim recorded horrific attack](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
+
+[13th December 2024](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
+
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/SNOW-WHITE-LAUNCH_112-copy-120x86.jpeg)](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
 
 ### [Events for the whole family in south London this season](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
@@ -415,12 +421,6 @@ CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-con
 ### [Evelina London staff receive royal invite to carol service hosted by Princess of Wales](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
 
 [12th December 2024](https://southwarknews.co.uk/area/waterloo/evelina-london-staff-receive-royal-invite-to-carol-service-hosted-by-princess-of-wales/)
-
-[![The alleged attack reportedly took place opposite a pub on Rye Lane. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-attack-reportedly-took-place-opposite-a-pub-on-Rye-Lane.-Image-Google--120x86.png)](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
-
-### [Man, 62, nearly died after alleged Rye Lane stab attack as police appeal for witnesses](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
-
-[11th December 2024](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
 
 ### USEFUL PAGES
 
