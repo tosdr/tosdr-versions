@@ -2,15 +2,27 @@
 
 Previous
 
-Watch the Exploding Kittens Netflix Series! Watch Now.
+Need it delivered in time for Christmas? See Details.
 
 Close
 
-#### Netflix and No Chill?
+#### Terms and Condtions
 
-Watch the Exploding Kittens Netflix Series!
+To help ensure your gifts arrive in time for the holidays, please place your order by the following dates for expected delivery by December 25th:
 
-[WATCH SERIES NOW.](https://www.netflix.com/title/81459282)
+U.S.: Order by December 11
+
+Canada: Order by December 16
+
+UK (England, Scotland, Wales, Northern Ireland): Order by December 16
+
+European Union (Belgium, France, Germany, Ireland, Italy, Netherlands, Portugal, \*Spain): Order by December 11
+
+All US orders placed after December 11 may take up to 2-4 weeks for processing and delivery. \*Some remote locations are excluded and those we ship to may require additional transit time. While we strive to ship orders promptly and within the stated timelines, shipping during the holiday season may experience unforeseen delays beyond our control.
+
+You may also check out our Amazon store, which offers expedited shipping on many of our most popular titles.
+
+[SHOP AMAZON NOW](https://www.amazon.com/stores/ExplodingKittens/page/C42F75DC-4D75-49D1-B820-84F081D1DF28?ref_=ast_bln)
 
 Free shipping on orders of $40 or more in the contiguous US. See Details.
 
