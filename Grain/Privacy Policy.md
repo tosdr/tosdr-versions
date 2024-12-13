@@ -24,7 +24,7 @@ Compare
 
 [Get Grain for Free](#get-started-section)
 
-[Login](https://grain.com/login)[Try for free](https://grain.com/live-demo)
+[Login](https://grain.com/login)[Try for free](https://grain.com/live-demo)[Get Grain Free](https://grain.com/app/signup)
 
 Our Privacy Policy
 ==================
