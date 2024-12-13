@@ -117,6 +117,10 @@ Main Menu
     
     [Travel Guides](https://www.merakilane.com/category/family-travel-guides/)
     
+    [![How to Connect with Your Teen | 38 Tips for Moms and Dads | If talking and spending quality time with your teenage daughter and/or son feels impossible without emotions running wild and someone getting upset, this post is for you. While your teen's moods and interests can shift as quickly as the latest TikTok trend, connection is possible. From knowing the right questions to ask (and avoid) to finding activities you can enjoy together, we're sharing simple tips and ideas to help.](https://www.merakilane.com/wp-content/uploads/2024/12/How-to-Connect-with-Your-Teen-featured-image.png)](https://www.merakilane.com/how-to-connect-with-your-teen-38-tips-for-moms-and-dads/)
+    
+    ### [How to Connect with Your Teen: 38 Tips for Moms and Dads](https://www.merakilane.com/how-to-connect-with-your-teen-38-tips-for-moms-and-dads/)
+    
     [![26 Fun and Creative Ways to Give Gift Cards | While gift cards were once thought to be an impersonal gift, many people prefer the idea of being able to pick out something they actually want and need, making them the perfect gift idea for any occasion, especially if you don't know the person well (or they are impossible to buy for). Not sure how to give a gift card? We're sharing our favorite unique and clever ways to give the gift of choice this post. Click for our fav gift card giving ideas!](https://www.merakilane.com/wp-content/uploads/2024/12/Creative-Ways-to-Give-Gift-Cards-featured-image.png)](https://www.merakilane.com/26-fun-and-creative-ways-to-give-gift-cards/)
     
     ### [26 Fun and Creative Ways to Give Gift Cards](https://www.merakilane.com/26-fun-and-creative-ways-to-give-gift-cards/)
@@ -124,10 +128,6 @@ Main Menu
     [![How to Help Your Child Fall Asleep | 17 Tips for Parents | We expect our kids will need some sort of sleep training when they are babies and/or toddlers as they learn to self-soothe, go through sleep regressions, cut teeth, and stop using a pacifier or sucking their thumb, but no one talks about sleep challenges in older kids. Whether it's nightmares, difficulty calming down and regulating emotions, FOMO, or a combination of all 3, this post has simple sleep strategies for older kids that work!](https://www.merakilane.com/wp-content/uploads/2024/12/How-to-Help-Your-Child-Fall-Asleep-Featured-Image.png)](https://www.merakilane.com/how-to-help-your-child-fall-asleep-17-tips-for-parents/)
     
     ### [How to Help Your Child Fall Asleep: 17 Tips for Parents](https://www.merakilane.com/how-to-help-your-child-fall-asleep-17-tips-for-parents/)
-    
-    [![How to Make Friendship Bracelets | 20 Designs and Tutorials | There are so many different ways to make friendship bracelets. From easy braids and intricate macrame knots, to plastic lace and gimp bracelets, to aesthetic Taylor Swift clay bead bracelets and more, jewelry making is the perfect activity kids can enjoy together or as an independent activity. Click for bracelet making tips and tutorials to help you learn the different techniques, plus creative designs to inspire you!](https://www.merakilane.com/wp-content/uploads/2024/11/friendship-bracelets-featured-image.png)](https://www.merakilane.com/how-to-make-friendship-bracelets-20-designs-and-tutorials/)
-    
-    ### [How to Make Friendship Bracelets: 20 Designs and Tutorials](https://www.merakilane.com/how-to-make-friendship-bracelets-20-designs-and-tutorials/)
     
 * [Contact](https://www.merakilane.com/contact/)
 
