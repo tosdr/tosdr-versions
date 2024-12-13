@@ -219,6 +219,8 @@ December 8, 2024
 
 I really liked using this for messaging, amd my spsm filters were perfect. But when I updated to Android 15, it stopped working. I can read messages just fine, but anytime I try to send one, it tells me to set it as default when I've already got the app as default, and refuses to send. I contacted the support email about the issue over 2 weeks ago, and haven't gotten any response. I would love to use it again if the issue were corrected. But currently, I'm going to be pausing my subscription.
 
+1 person found this review helpful
+
 Did you find this helpful?
 
 Yes
@@ -309,7 +311,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGHU5aU04RWlwWWJCSHlZSlUwSHRSOXc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljLZTvA)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGFBxNFRtS0kxR1FzS0xRcGhwbEs3dHc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljIEb0k)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
 
