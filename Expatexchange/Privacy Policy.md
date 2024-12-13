@@ -68,9 +68,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![GeoBlue](https://www.expatexchange.com/banner/INDV2079-ExpatExchangeAd_728x90_FNL.jpg)](https://www.expatexchange.com/partnerdirect/76/62070-DESKTOP-leader-leaderad-vrs-A-Global-leader)
+[![AGS Worldwide Movers](https://www.expatexchange.com/banner/international_moving_company_ags_ldr.gif)](http://www.agsmovers.com/moving-quote?utm_source=expatexchange&utm_medium=native-ad-text-article7-en&utm_campaign=ags-expat-sites&campaign_id=2598)
 
-[![GeoBlue](https://www.expatexchange.com/banner/INDV2079-ExpatExchangeAd_300x250_FNL.jpg)](https://www.expatexchange.com/partnerdirect/76/62070-MOBILE-leader-leaderad-vrs-A-Global-leader)
+[![AGS Worldwide Movers](https://www.expatexchange.com/banner/AGS_300X250_EN1.gif)](http://www.agsmovers.com/moving-quote?utm_source=expatexchange&utm_medium=native-ad-text-article7-en&utm_campaign=ags-expat-sites&campaign_id=2598)
 
 Privacy Policy
 ==============
