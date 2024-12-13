@@ -146,7 +146,7 @@ If you have any questions or concerns about this Agreement, please contact us at
 
 _Last updated: November 14, 2024_
 
-_“Before, it felt like torture to be in my own skin. I beat myself up for everything and guilt ruled my whole life. When I started therapy, I couldn’t cope with life at all. After working with Dave, I’m not beating myself up compulsively and I feel hopeful about the future for the first time in a long time.”_
+_“I can’t say enough good things about working with Dave Lechnyr. The progress I’m finally making – after years of trying – is improving my life in ways that I was beginning to think was never going to happen. I finally got to the point that I was ready and willing to put the hard work in. Dave has a seamless way of guiding and directing you to help you discover the road to better mental health on your own. An efficient, effective road to self-discovery. But, I learned you have to put the work in. The work you do is the engine propelling you forward. Dave is the Captain guiding you to safety. Put the work in, and Dave will meet you there step for step. He is extremely knowledgeable, professional, encouraging, and compassionate. I have and would HIGHLY recommend Dave.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
