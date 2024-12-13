@@ -172,9 +172,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
-* [AI playbook: An actionable guide](https://www.onetrust.com/resources/ai-playbook-an-actionable-guide-white-paper/)
-* [Balancing personalization and privacy: Strategies to win with first-party data in the dynamic data landscape](https://www.onetrust.com/resources/balancing-personalization-and-privacy-strategies-to-win-with-first-party-data-in-the-dynamic-data-landscape-webinar/)
-* [Overcoming the privacy pitfalls of GenAI](https://www.onetrust.com/resources/overcoming-the-privacy-pitfalls-of-genai-webinar/)
+* [Revisiting IAPP DPC 2024: Top trends on the latest data protection developments](https://www.onetrust.com/resources/revisiting-iapp-dpc-2024-top-trends-on-the-latest-data-protection-developments-webinar/)
+* [The PDPL in Saudi Arabia is now in effect: is your business ready?](https://www.onetrust.com/resources/the-pdpl-in-saudi-arabia-is-now-in-effect-is-your-business-ready-webinar/)
+* [Unpacking global regulatory frameworks to enhance third-party operational resilience](https://www.onetrust.com/resources/unpacking-global-regulatory-frameworks-to-enhance-third-party-operational-resilience-webinar/)
 
 ### Platform
 
