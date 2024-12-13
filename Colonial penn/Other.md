@@ -275,6 +275,8 @@ Philadelphia, PA 19181
 
 [Facebook](https://www.facebook.com/ColonialPennLifeInsuranceCompany/ "Facebook")
 
+[YouTube](https://www.youtube.com/c/ColonialPennLifeInsuranceCompany "YouTube")
+
 Cookies Settings
 
 * [Terms of use](https://colonialpenn.com/termsofuse)
