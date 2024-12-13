@@ -196,61 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Johan Botha - Brand Xplosion
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=211914601)  
-Vplay Grafix
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=56046228)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=181880369)  
-Lion Software Develepment
-
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=18685422)  
-Environment Friendly Toilets (Pty) Ltd
-
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=107606673)  
-KTEN PARTS
-
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=108787290)  
-BEE SURE CONSULTING (PTY) LTD
-
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=98335548)  
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=43211424)  
 Fox Alarms & Security CC
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=155894215)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=120568523)  
+LEO DEVELOPMENT GROUP
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=2637217)  
-van Schaik rentals
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=85349052)  
+Chiron Medical Solutions
 
-![valued client Eruca](https://www.invoicesonline.co.za/scripts/image.php?bid=8439&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=97605530)  
-Eruca
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=71149432)  
+OrgChart Hosting Pty Ltd
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=87401878)  
-Oukraal Merino's
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=93177861)  
+Lizzy Pop PTY(Ltd)
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=127349284)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=134226300)  
+CGHK Enterprises (PTY) LTD
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=9058945)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=116382126)  
+VerdanTech Pty Ltd
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=91688040)  
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=119773863)  
+SLOANE STAR MEAT MARKET
+
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=157009115)  
+ARCHITEK PTY LTD
+
+![valued client Hydroworld PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=199813457)  
+Hydroworld PTY LTD
+
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=85734371)  
+Prosper Park
+
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=188125958)  
 West Coast Horse Trails
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=38512783)  
-Cape Adventure Zone
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=92635149)  
+Cooper Logistics (Pty) Ltd
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=f2ce2d5cc8986827431fed9d0a79f0c2593015c6f02e74390f72a660d270987b&c=206043668)  
-Repairs In Motion
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=037f52639f5e404616a48949726ceb8bcad2f4474e451a6d9d62c1e9ecdc2ac3&c=130746932)  
+SAUL ATHOL ACRES RENTAL
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
