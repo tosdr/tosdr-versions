@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-No problem with your services. An earlier e-mail from you said that I couldn't extend this (non-recurring) subscription, so I have already signed up for a recurring six-month subscription.
+Thanks for your great support.
 
-Paul Wise
+Fahad Saadah
