@@ -597,14 +597,6 @@ Sign up for our emails and get exclusive benefits
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-The movers were very friendly and efficient!
-
-Maddy Calgary 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Great friendly service that was on time :)
 
 Shonda Day Calgary 07/12/2024
@@ -624,6 +616,14 @@ Taylor Shoup Calgary 07/12/2024
 Best service ever.
 
 Jonathan D Calgary 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+The movers were very friendly and efficient!
+
+Maddy Calgary 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -709,22 +709,6 @@ Hailey Lynn Calgary 29/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Great service fromTyler and his colleague very quick and efficient. Very reasonable rates.
-
-ZENA MITCHELL Calgary 28/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Wonderful work done, quick and efficient and I would strongly recommend them!
-
-Mapple Calgary 28/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 This is my second time using GotJUNK - both positive experiences! Excellent communication and professional staff.
 
 Bev R Calgary 28/11/2024
@@ -736,6 +720,22 @@ Bev R Calgary 28/11/2024
 Later showing up than I had booked but good service.
 
 Lorna Myers Calgary 28/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+They did such an amazing work for us today, thanks!
+
+Wiley Wang Calgary 28/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great service fromTyler and his colleague very quick and efficient. Very reasonable rates.
+
+ZENA MITCHELL Calgary 28/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -885,14 +885,6 @@ Melanie Carey Monteregie Metro 19/04/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Excellent service!
-
-Brian Franck Baltimore 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Excellent job. Fast and professional
 
 Jua Mupasa Columbus 07/12/2024
@@ -901,73 +893,9 @@ Jua Mupasa Columbus 07/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Jordan and kegan was great
-
-Jordan Torres Naples 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Nathan and Zachary are amazing: high-energy, professional, and super helpful! Love them! Give them both a raise!
-
-Tracie Coy Cincinnati 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Ben and TC were amazing. Thank You 1 800 Got Junk
-
-Astin Thomas Austin 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Awesome service
-
-Mr MOAB Naples 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Yaseem and Sam picked up a few items and were absolutely wonderful guys. Thank you so much!
-
-Raven Night Wisconsin 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Jake and Joe were quick, careful, and communicative! Great work!
-
-Joe Plese Baltimore 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Bobby and Mike were incredibly kind and efficient!
-
-Avalon Myst Austin 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Keone and Jarred were so efficient, helpful, and kind. Would 💯 recommend
 
 Tanya Stabler Wisconsin 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Nice crew. Soph n Roosevelt were on time and move my items quick. Will get them for my spring removal of items.
-
-Joyce Gee Baltimore 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -989,6 +917,54 @@ Char\_ Mukana Wisconsin 07/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Jordan and kegan was great
+
+Jordan Torres Naples 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Ben and TC were amazing. Thank You 1 800 Got Junk
+
+Astin Thomas Austin 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Awesome service
+
+Mr MOAB Naples 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Jake and Joe were quick, careful, and communicative! Great work!
+
+Joe Plese Baltimore 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Bobby and Mike were incredibly kind and efficient!
+
+Avalon Myst Austin 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Nice crew. Soph n Roosevelt were on time and move my items quick. Will get them for my spring removal of items.
+
+Joyce Gee Baltimore 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Great service! Soph and Roosevelt were fantastic and couldn’t have asked for a better team!!
 
 Amanda Regert Baltimore 07/12/2024
@@ -997,33 +973,57 @@ Amanda Regert Baltimore 07/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Excellent service, Lane and Antonio. You were amazing! So fast and very kind!
+Excellent service!
 
-Tina Shereen Seattle 06/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Ayden and Trevion did a great job with the removal and were very efficient and friendly
-
-Alex Joyal Wisconsin 06/12/2024
+Brian Franck Baltimore 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Awesome service!!!
+Nathan and Zachary are amazing: high-energy, professional, and super helpful! Love them! Give them both a raise!
 
-Ann Stine Baltimore 06/12/2024
+Tracie Coy Cincinnati 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Antwone Kevin did a great job
+Yaseem and Sam picked up a few items and were absolutely wonderful guys. Thank you so much!
 
-Michael R Seattle 06/12/2024
+Raven Night Wisconsin 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Manny and Angelo killed it, great work, quick and efficient.
+
+Terry Jett Baltimore 06/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Friendly and helpful staff, very professional. Explained pricing structure well. A bit pricey, but happy to work with a reputable company
+
+Ian Thorpe Baltimore 06/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Ronnie and Marcelina were amazing. Quick, super friendly and personable. Highly recommended! Thank you for your service today.
+
+Sue Steele Seattle 06/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Ya seem and Drew were phenomenal as usual
+
+Gary Heun Wisconsin 06/12/2024
 
 ### 
 
