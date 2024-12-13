@@ -123,44 +123,44 @@ Advertisement
     Suicide
     
     Released in 2001, Suicide is a film directed by Eames Yates and explores the suicide of his own brother which occurred two years prior to this films release. Eames' brother Teddy was 40 when he shot h...](https://documentaryheaven.com/suicide/ "Suicide")
-* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
-    
-    The new world order – Illuminati, Freemasons and other secret societies
-    
-    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 * [![September Clues](/wp-content/thumbnails/1588-100x70.jpg?x53432)
     
     September Clues
     
     This comprehensive analysis of the 9/11 broadcasts shows how the mainstream media actively participated in the 9/11 false-flag operation aimed at generating public support for illegal wars. This media...](https://documentaryheaven.com/september-clues/ "September Clues")
+* [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
+    
+    Pedigree Dogs Exposed
+    
+    Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
 
 ###### Throwback Documentaries
 
-* [![Through The Wormhole: Are We Alone?](/wp-content/thumbnails/3734-100x70.jpg?x53432)
+* [![Bleach, Nip, Tuck: The White Beauty Myth](/wp-content/thumbnails/4576-100x70.jpg?x53432)
     
-    Through The Wormhole: Are We Alone?
+    Bleach, Nip, Tuck: The White Beauty Myth
     
-    Aliens almost certainly do exist. So why haven’t we yet met E.T.? It turns out we’re only just developing instruments powerful enough to scan for them, and science sophisticated enough to know where t](https://documentaryheaven.com/through-the-wormhole-are-we-alone/ "Through The Wormhole: Are We Alone?")
-* [![The Primacy of Consciousness](/wp-content/thumbnails/1329-100x70.jpg?x53432)
+    The Body follows the emotional journeys of ethnic minorities desperate to change their bodies, as well as showing incredible surgery including pioneering limb lengthening procedures.Michael Jackson’](https://documentaryheaven.com/bleach-nip-tuck-the-white-beauty-myth/ "Bleach, Nip, Tuck: The White Beauty Myth")
+* [![Gangland: Skinhead Assault](/wp-content/thumbnails/3936-100x70.jpg?x53432)
     
-    The Primacy of Consciousness
+    Gangland: Skinhead Assault
     
-    The fundamental nature of reality is actually consciousness. In his documentary Peter Russell explores the reasons why consciousness may be the fundamental essence of the Universe. Many have made such](https://documentaryheaven.com/the-primacy-of-consciousness/ "The Primacy of Consciousness")
-* [![Tunneling under the Alps](/wp-content/thumbnails/3206-100x70.jpg?x53432)
+    The Volksfront originates in Oregon prisons and becomes one of the fastest-growing, neo-Nazi gangs in the United States.](https://documentaryheaven.com/gangland-skinhead-assault/ "Gangland: Skinhead Assault")
+* [![The Space Shuttle: A Horizon Guide](/wp-content/thumbnails/5841-100x70.jpg?x53432)
     
-    Tunneling under the Alps
+    The Space Shuttle: A Horizon Guide
     
-    To most of the world, the majestic Alps present a scene of wonder. But to European merchants and truckers, they present a troublesome and costly roadblock. Enter the ambitious AlpTransit Tunnel.At](https://documentaryheaven.com/tunneling-under-the-alps/ "Tunneling under the Alps")
-* [![Lockup: Criminal Minds](/wp-content/thumbnails/1069-100x70.jpg?x53432)
+    In 2011, after more than 30 years of service, America’s space shuttle Discovery will take to the skies for the last time. Its story has been characterized by incredible triumphs, but blighted by devas](https://documentaryheaven.com/the-space-shuttle-a-horizon-guide/ "The Space Shuttle: A Horizon Guide")
+* [![Supernatural Science: Previous Lives](/wp-content/thumbnails/1308-100x70.jpg?x53432)
     
-    Lockup: Criminal Minds
+    Supernatural Science: Previous Lives
     
-    Criminal Minds on MSNBC. It’s part of MSNBC’s Lockup series. On this special they highlight nine of the most violent inmates the series has ever interviewed. Even if you don’t like watching shows abou](https://documentaryheaven.com/lockup-criminal-minds/ "Lockup: Criminal Minds")
-* [![VICK](/wp-content/thumbnails/12214-100x70.jpg?x53432)
+    Millions believe in reincarnation. Is there proof that is really happens? Do people pass through many lifetimes and can they bring back memories from having lived before? Therapies now encouraging peo](https://documentaryheaven.com/supernatural-science-previous-lives/ "Supernatural Science: Previous Lives")
+* [![The Power of Nightmares](/wp-content/thumbnails/2521-100x70.png?x53432)
     
-    VICK
+    The Power of Nightmares
     
-    For their introduction to the sports documentary space American digital media company Bleacher Report chose a compelling, timely subject, Michael Vick. Vick is an American football quarterback who is](https://documentaryheaven.com/vick/ "VICK")
+    This film explores the origins in the 1940s and 50s of Islamic Fundamentalism in the Middle East, and Neoconservatism in America, parallels between these movements, and their effect on the world today](https://documentaryheaven.com/the-power-of-nightmares/ "The Power of Nightmares")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
