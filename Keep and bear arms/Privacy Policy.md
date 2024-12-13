@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 1004 active visitors** | **Friday, December 13, 2024** |
+| **You are 1 of 1389 active visitors** | **Friday, December 13, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**The right of the citizens to keep and bear arms has justly been considered, as the palladium of the liberties of a republic; since it offers a strong moral check against the usurpation and arbitrary power of rulers; and will generally, even if these are successful in the first instance, enable the people to resist and triumph over them. � Joseph Story, Commentaries on the Constitution of the United States; With a Preliminary Review of the Constitutional History of the Colonies and States before the Adoption of the Constitution \[Boston, 1833\].
+ **QUOTES TO REMEMBER**As civil rulers, not having their duty to the people before them, may attempt to tyrannize, and as the military forces which must be occasionally raised to defend our country, might pervert their power to the injury of their fellow citizens, the people are confirmed by the article in their right to keep and bear their private arms. � Tench Coxe in \`Remarks on the First Part of the Amendments to the Federal Constitution' under the Pseudonym "A Pennsylvanian" in the Philadelphia Federal Gazette, June 18, 1789 at 2 col. 1.
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
