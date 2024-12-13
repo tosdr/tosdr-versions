@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [FromSoftware and Bandai Namco reveal ELDEN RING NIGHTREIGN](https://en.bandainamcoent.eu/elden-ring/news/fromsoftware-and-bandai-namco-reveal-elden-ring-nightreign)
 * [SYNDUALITY: Echo of Ada – Get ready for the Open Network Test with this new Game Guide!](https://en.bandainamcoent.eu/synduality/news/synduality-echo-of-ada-get-ready-the-open-network-test-new-game-guide)
-* [Free Update for DRAGON BALL Sparking! ZERO: New Features and Adjustments](https://en.bandainamcoent.eu/dragon-ball/news/free-update-dragon-ball-sparking-zero-new-features-and-adjustments)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
