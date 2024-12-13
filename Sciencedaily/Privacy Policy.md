@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [A Dial for Tuning the Immune System](https://www.sciencedaily.com/releases/2024/12/241212150320.htm)
+* [Sculpting the Brain (Without Chisel or Scalpel)](https://www.sciencedaily.com/releases/2024/12/241210115421.htm)
+* [Superflares Once Per Century](https://www.sciencedaily.com/releases/2024/12/241212145729.htm)
+* [Neanderthal Interbreeding With Modern Humans](https://www.sciencedaily.com/releases/2024/12/241212145726.htm)
+* [Oldest Modern Human Genomes Sequenced](https://www.sciencedaily.com/releases/2024/12/241212145718.htm)
+* [Forecasting Where the Next Big Quake Will Start](https://www.sciencedaily.com/releases/2024/12/241212120030.htm)
+* [How Bacterium Withstands Extreme Radiation](https://www.sciencedaily.com/releases/2024/12/241209162526.htm)
 * [Important Step With Space-Time Crystals](https://www.sciencedaily.com/releases/2024/12/241209122743.htm)
 * [Minuscule Robots for Targeted Drug Delivery](https://www.sciencedaily.com/releases/2024/12/241211143603.htm)
 * [Early-Onset Colorectal Cancer Surges Globally](https://www.sciencedaily.com/releases/2024/12/241211190108.htm)
-* [Jaw-Dropping Evolution of Lizards and Snakes](https://www.sciencedaily.com/releases/2024/12/241211125055.htm)
-* [Recycling Human, Animal Excreta as Fertilizer](https://www.sciencedaily.com/releases/2024/12/241211124514.htm)
-* [Devices With Operation Speeds 1000 Times Faster?](https://www.sciencedaily.com/releases/2024/12/241211124354.htm)
-* [Making Skin Bacterium Into a Topical Vaccine](https://www.sciencedaily.com/releases/2024/12/241211124345.htm)
-* [Soda Taxes Don't Just Affect Sales](https://www.sciencedaily.com/releases/2024/12/241210183516.htm)
-* [A New Galaxy, Much Like Our Own](https://www.sciencedaily.com/releases/2024/12/241211143905.htm)
-* [AI Thought Knee X-Rays Show If You Drink Beer](https://www.sciencedaily.com/releases/2024/12/241211143855.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
-
 [Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
 
-[Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
+[Personalized Medicine](https://www.sciencedaily.com/news/health_medicine/personalized_medicine/)
+
+[Learning Disorders](https://www.sciencedaily.com/news/mind_brain/learning_disorders/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
-[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
-
 [Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
+
+[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
 
-[Biodiversity](https://www.sciencedaily.com/news/earth_climate/biodiversity/)
+[Origin of Life](https://www.sciencedaily.com/news/fossils_ruins/origin_of_life/)
 
-[Snow and Avalanches](https://www.sciencedaily.com/news/earth_climate/snow_and_avalanches/)
+[Biodiversity](https://www.sciencedaily.com/news/earth_climate/biodiversity/)
 
   
 
