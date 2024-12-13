@@ -130,105 +130,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Pedroou](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/20240524_161658.thumb.jpg.0468877279d50da901b3c6541da65102.jpg)](https://www.clubedohardware.com.br/profile/1200385-pedroou/ "Ir ao perfil de Pedroou")
+    * [![Eduardo1536](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257887.thumb.jpeg.2ceb0256b7190fa173c3ba4efa4718d9.jpeg)](https://www.clubedohardware.com.br/profile/1257887-eduardo1536/ "Ir ao perfil de Eduardo1536")
         
         0
         
-        [Erro de segurança ao acessar vários sites](https://www.clubedohardware.com.br/forums/topic/1705426-erro-de-seguran%C3%A7a-ao-acessar-v%C3%A1rios-sites/?do=getNewComment "Erro de segurança ao acessar vários sites")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [Pedroou](https://www.clubedohardware.com.br/profile/1200385-pedroou/ "Ir ao perfil de Pedroou")  
-        4 minutos atrás
-        
-    * [![Nandiel](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257763.thumb.jpeg.b7310abf35af88fb3581fef578eae519.jpeg)](https://www.clubedohardware.com.br/profile/1257763-nandiel/ "Ir ao perfil de Nandiel")
-        
-        0
-        
-        [Esse processador pega impressora colorida?](https://www.clubedohardware.com.br/forums/topic/1705425-esse-processador-pega-impressora-colorida/?do=getNewComment "Esse processador pega impressora colorida?")
+        [Xeon E5 2650 v4 esquentadinho](https://www.clubedohardware.com.br/forums/topic/1705461-xeon-e5-2650-v4-esquentadinho/?do=getNewComment "Xeon E5 2650 v4 esquentadinho")
         
         [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Nandiel](https://www.clubedohardware.com.br/profile/1257763-nandiel/ "Ir ao perfil de Nandiel")  
-        6 minutos atrás
+        Por [Eduardo1536](https://www.clubedohardware.com.br/profile/1257887-eduardo1536/ "Ir ao perfil de Eduardo1536")  
+        5 minutos atrás
         
-    * [![abertossi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255735.thumb.jpeg.8c2cc15a92596ad35fb37bf96b080f3a.jpeg)](https://www.clubedohardware.com.br/profile/1255735-abertossi/ "Ir ao perfil de abertossi")
+    * [![Luckarino](https://www.clubedohardware.com.br/uploads/members/monthly_2023_12/20231125_123310.thumb.jpg.c2056e2e46ab6687fd82ec945080a4c8.jpg)](https://www.clubedohardware.com.br/profile/1184575-luckarino/ "Ir ao perfil de Luckarino")
         
         2
         
-        [queda de conexão em usos "pesados"](https://www.clubedohardware.com.br/forums/topic/1705424-queda-de-conex%C3%A3o-em-usos-pesados/?do=getNewComment "queda de conexão em usos "pesados"")
+        [Drivers de Rede e conexão de internet inexistentes](https://www.clubedohardware.com.br/forums/topic/1705460-drivers-de-rede-e-conex%C3%A3o-de-internet-inexistentes/?do=getNewComment "Drivers de Rede e conexão de internet inexistentes")
         
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [abertossi](https://www.clubedohardware.com.br/profile/1255735-abertossi/ "Ir ao perfil de abertossi")  
-        9 minutos atrás
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [Luckarino](https://www.clubedohardware.com.br/profile/1184575-luckarino/ "Ir ao perfil de Luckarino")  
+        26 minutos atrás
         
-    * [![Adilson Taquaral](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4a8%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EAT%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1205893-adilson-taquaral/ "Ir ao perfil de Adilson Taquaral")
-        
-        1
-        
-        [Troca de processador Core i7 8700 no k](https://www.clubedohardware.com.br/forums/topic/1705422-troca-de-processador-core-i7-8700-no-k/?do=getNewComment "Troca de processador Core i7 8700 no k")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Adilson Taquaral](https://www.clubedohardware.com.br/profile/1205893-adilson-taquaral/ "Ir ao perfil de Adilson Taquaral")  
-        17 minutos atrás
-        
-    * [![BossNoob](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/1960801640_perfilparaomixer-compressed.thumb.jpg.972f031debaded7b7685e1b9209a60ad.jpg)](https://www.clubedohardware.com.br/profile/1122905-bossnoob/ "Ir ao perfil de BossNoob")
+    * [![Guilherme Stoduto](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1190375.thumb.jpeg.74845ee7b9325d444ec3866716e32058.jpeg)](https://www.clubedohardware.com.br/profile/1190375-guilherme-stoduto/ "Ir ao perfil de Guilherme Stoduto")
         
         0
         
-        [computador gamer entre 8k-10k](https://www.clubedohardware.com.br/forums/topic/1705421-computador-gamer-entre-8k-10k/?do=getNewComment "computador gamer entre 8k-10k")
+        Excel [Filtro em uma Tabela Normal e Tabela Dinâmica Simultâneas](https://www.clubedohardware.com.br/forums/topic/1705459-filtro-em-uma-tabela-normal-e-tabela-din%C3%A2mica-simult%C3%A2neas/?do=getNewComment "Filtro em uma Tabela Normal e Tabela Dinâmica Simultâneas")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [BossNoob](https://www.clubedohardware.com.br/profile/1122905-bossnoob/ "Ir ao perfil de BossNoob")  
-        20 minutos atrás
+        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
+        Por [Guilherme Stoduto](https://www.clubedohardware.com.br/profile/1190375-guilherme-stoduto/ "Ir ao perfil de Guilherme Stoduto")  
+        36 minutos atrás
         
-    * [![chico moedas](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/1978838002_.thumb.jpeg.0a4110ef00058c793264137d162d95f9.jpeg)](https://www.clubedohardware.com.br/profile/1257815-chico-moedas/ "Ir ao perfil de chico moedas")
+    * [![Gustavomagrin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257881.thumb.jpeg.7b2197a2c220ecc2e5c7d6cba38e63fa.jpeg)](https://www.clubedohardware.com.br/profile/1257881-gustavomagrin/ "Ir ao perfil de Gustavomagrin")
         
-        1
+        8
         
-        [Indicações de SSD para o computador](https://www.clubedohardware.com.br/forums/topic/1705419-indica%C3%A7%C3%B5es-de-ssd-para-o-computador/?do=getNewComment "Indicações de SSD para o computador")
-        
-        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
-        Por [chico moedas](https://www.clubedohardware.com.br/profile/1257815-chico-moedas/ "Ir ao perfil de chico moedas")  
-        27 minutos atrás
-        
-    * [![Klotes](https://www.clubedohardware.com.br/uploads/members/monthly_2023_05/681179786_Stevenuniverse.thumb.png.85a49d32040e0f522316f6acbcd177f9.png)](https://www.clubedohardware.com.br/profile/1219735-klotes/ "Ir ao perfil de Klotes")
-        
-        3
-        
-        [Monitor de 165hz com uma rx 570, estou errado?](https://www.clubedohardware.com.br/forums/topic/1705415-monitor-de-165hz-com-uma-rx-570-estou-errado/?do=getNewComment "Monitor de 165hz com uma rx 570, estou errado?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Klotes](https://www.clubedohardware.com.br/profile/1219735-klotes/ "Ir ao perfil de Klotes")  
-        46 minutos atrás
-        
-    * [![Siqueroli](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236290c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ES%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256484-siqueroli/ "Ir ao perfil de Siqueroli")
-        
-        1
-        
-        [indicação de mouse attack shark ou king pro redragon](https://www.clubedohardware.com.br/forums/topic/1705413-indica%C3%A7%C3%A3o-de-mouse-attack-shark-ou-king-pro-redragon/?do=getNewComment "indicação de mouse attack shark ou king pro redragon")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Siqueroli](https://www.clubedohardware.com.br/profile/1256484-siqueroli/ "Ir ao perfil de Siqueroli")  
-        1 hora atrás
-        
-    * [![Marlon De Souza Nogueira](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1246653.thumb.jpeg.59112d4d899b659f8e890053ce8744c8.jpeg)](https://www.clubedohardware.com.br/profile/1246653-marlon-de-souza-nogueira/ "Ir ao perfil de Marlon De Souza Nogueira")
-        
-        3
-        
-        [Como posso configurar Timings melhores ?](https://www.clubedohardware.com.br/forums/topic/1705412-como-posso-configurar-timings-melhores/?do=getNewComment "Como posso configurar Timings melhores ?")
+        [Notebook trava após trocar RAM](https://www.clubedohardware.com.br/forums/topic/1705457-notebook-trava-ap%C3%B3s-trocar-ram/?do=getNewComment "Notebook trava após trocar RAM")
         
         [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Marlon De Souza Nogueira](https://www.clubedohardware.com.br/profile/1246653-marlon-de-souza-nogueira/ "Ir ao perfil de Marlon De Souza Nogueira")  
+        Por [Gustavomagrin](https://www.clubedohardware.com.br/profile/1257881-gustavomagrin/ "Ir ao perfil de Gustavomagrin")  
         1 hora atrás
         
-    * [![Matheus Quintaes](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362b3c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMQ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255928-matheus-quintaes/ "Ir ao perfil de Matheus Quintaes")
+    * [![Lucas Machado Barbosa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257846.thumb.png.4d92e1e38b412d85a2f8159bfb7a0925.png)](https://www.clubedohardware.com.br/profile/1257846-lucas-machado-barbosa/ "Ir ao perfil de Lucas Machado Barbosa")
         
-        2
+        6
         
-        [PC Ryzen 5 2600 e GeForce GTX 1050Ti desligando em jogos, o que pode ser?](https://www.clubedohardware.com.br/forums/topic/1705411-pc-ryzen-5-2600-e-geforce-gtx-1050ti-desligando-em-jogos-o-que-pode-ser/?do=getNewComment "PC Ryzen 5 2600 e GeForce GTX 1050Ti desligando em jogos, o que pode ser?")
+        [Qual cooler vocês indicam para Ryzen 9 5900xt?](https://www.clubedohardware.com.br/forums/topic/1705456-qual-cooler-voc%C3%AAs-indicam-para-ryzen-9-5900xt/?do=getNewComment "Qual cooler vocês indicam para Ryzen 9 5900xt?")
         
-        [Computador desligando sozinho](https://www.clubedohardware.com.br/forums/forum/258-computador-desligando-sozinho/ "Computador desligando sozinho")  
-        Por [Matheus Quintaes](https://www.clubedohardware.com.br/profile/1255928-matheus-quintaes/ "Ir ao perfil de Matheus Quintaes")  
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Lucas Machado Barbosa](https://www.clubedohardware.com.br/profile/1257846-lucas-machado-barbosa/ "Ir ao perfil de Lucas Machado Barbosa")  
         1 hora atrás
+        
+    * [![Anderson Campos Melo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257878.thumb.jpeg.84d0377ff610fc3898da7b823918a47a.jpeg)](https://www.clubedohardware.com.br/profile/1257878-anderson-campos-melo/ "Ir ao perfil de Anderson Campos Melo")
+        
+        5
+        
+        [Recomendação de PC gamer - até R$ 5 mil](https://www.clubedohardware.com.br/forums/topic/1705447-recomenda%C3%A7%C3%A3o-de-pc-gamer-at%C3%A9-r-5-mil/?do=getNewComment "Recomendação de PC gamer - até R$ 5 mil")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Anderson Campos Melo](https://www.clubedohardware.com.br/profile/1257878-anderson-campos-melo/ "Ir ao perfil de Anderson Campos Melo")  
+        2 horas atrás
+        
+    * [![vinicus braulino](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257877.thumb.jpeg.6c24aaa98c63d71e92b9b5c2e1e290a2.jpeg)](https://www.clubedohardware.com.br/profile/1257877-vinicus-braulino/ "Ir ao perfil de vinicus braulino")
+        
+        3
+        
+        [qual placa de vídeo ideal para placa-mãe Positivo Informatica SA POS-PIQ77CL ?](https://www.clubedohardware.com.br/forums/topic/1705442-qual-placa-de-v%C3%ADdeo-ideal-para-placa-m%C3%A3e-positivo-informatica-sa-pos-piq77cl/?do=getNewComment "qual placa de vídeo ideal para placa-mãe Positivo Informatica SA POS-PIQ77CL ?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [vinicus braulino](https://www.clubedohardware.com.br/profile/1257877-vinicus-braulino/ "Ir ao perfil de vinicus braulino")  
+        2 horas atrás
+        
+    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
+        
+        3
+        
+        [Google Chrome alertando sobre violação de dados, o que isso quer dizer?](https://www.clubedohardware.com.br/forums/topic/1705440-google-chrome-alertando-sobre-viola%C3%A7%C3%A3o-de-dados-o-que-isso-quer-dizer/?do=getNewComment "Google Chrome alertando sobre violação de dados, o que isso quer dizer?")
+        
+        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
+        Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
+        3 horas atrás
+        
+    * [![Guedes2323](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257872.thumb.jpeg.e29d1f9d1922668b5f02f6ad1366578a.jpeg)](https://www.clubedohardware.com.br/profile/1257872-guedes2323/ "Ir ao perfil de Guedes2323")
+        
+        1
+        
+        [Headset Fallen Morcego vaza bastante áudio](https://www.clubedohardware.com.br/forums/topic/1705439-headset-fallen-morcego-vaza-bastante-%C3%A1udio/?do=getNewComment "Headset Fallen Morcego vaza bastante áudio")
+        
+        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
+        Por [Guedes2323](https://www.clubedohardware.com.br/profile/1257872-guedes2323/ "Ir ao perfil de Guedes2323")  
+        3 horas atrás
+        
+    * [![d0kzin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257874.thumb.jpeg.f51c51ea3a66b8d4f9e86c575a033ca2.jpeg)](https://www.clubedohardware.com.br/profile/1257874-d0kzin/ "Ir ao perfil de d0kzin")
+        
+        4
+        
+        [Air Cooler Phantom Spirit 120 SE para usar com Ryzen 7 9700x compensa?](https://www.clubedohardware.com.br/forums/topic/1705438-air-cooler-phantom-spirit-120-se-para-usar-com-ryzen-7-9700x-compensa/?do=getNewComment "Air Cooler Phantom Spirit 120 SE para usar com Ryzen 7 9700x compensa?")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [d0kzin](https://www.clubedohardware.com.br/profile/1257874-d0kzin/ "Ir ao perfil de d0kzin")  
+        3 horas atrás
         
     
 
