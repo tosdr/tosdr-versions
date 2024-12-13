@@ -245,11 +245,11 @@ You understand and agree that Shaw may from time to time use location or other d
 
 ### Service Agreements
 
-The following documents show examples of Shaw’s service agreements:
+The following documents show examples of Rogers together with Shaw’s service agreements:
 
-[Sample of Internet only Month-to-month agreement](https://assets.ctfassets.net/tzb4ihmthaev/6pNZv99U4jLXF3odW7hJqV/a3fddfaef651dbebf8d6b334822b0ebc/Service_Agreement_Internet_MTM.pdf)  
-[Sample of Internet only 2-year ValuePlan agreement with Self Protection](https://assets.ctfassets.net/tzb4ihmthaev/31S2LlOeDg5Mi4sIYJimPj/c370cab05a96d864053dbda6ec0c072b/Service_Agreement_Internet_with_Self_Protect.pdf)  
-[Sample of Internet & Television ValuePlan with Self Protection](https://assets.ctfassets.net/tzb4ihmthaev/74WetgxAngchxe1QMScSak/ad10842c2fcf73375974c291219ed712/Service_Agreement_Internet_and_TV_with_Self_Protect.pdf)
+[Sample of Internet only Month-to-Month agreement](https://assets.ctfassets.net/tzb4ihmthaev/4CT7xeda8kBAJwiFt8VzVP/cfab8e56a2e4bdad29128b38c5bf0365/Sample_of_Internet_only_Month-to-Month_agreement.pdf)  
+[Sample of Internet only 2-year ValuePlan agreement with Self Protection](https://assets.ctfassets.net/tzb4ihmthaev/3SRatkSGTA2ULTKs9uTAJD/668cc6ec9cec837ade8228dad8a9be68/Sample_of_Internet_only_2-year_ValuePlan_agreement_with_Self_Protect.pdf)  
+[Sample of Internet & Television 2-year ValuePlan agreement with Self Protection](https://assets.ctfassets.net/tzb4ihmthaev/4y80mYxGsVJHCURjHInmMx/c03b321f4e6473134307938dd49410e5/Sample_of_Internet___Television_2-year_ValuePlan_agreement_with_Self_Protection.pdf)
 
 ### Shaw Price Guarantee Terms
 
