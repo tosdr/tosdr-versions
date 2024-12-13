@@ -19,11 +19,6 @@ Parcel collects anonymous data about your device that does not directly identify
 **Account Deletion**  
 You can delete your Parcel account in the app settings.
 
-**Parcel Email**  
-Parcel Email service is a separate service which allows you to forward emails from merchants/carriers to your unique email address in order for the tracking numbers in these emails to be automatically recognized and added to your Parcel Account.  
-  
-Emails received from you this way are kept for 12 months for the purpose of improving our services. Emails are not shared with any 3rd parties.
-
 **Advertisements**  
 If you are not a subscriber, you will see advertisements in the iOS version of the app. Those ads are managed by Google’s AdMob system. This system was configured not to show personalized ads in Parcel. Tracking and analytic capabilities were also disabled. You can read more about Google’s Privacy policies [here](https://policies.google.com/technologies/ads?hl=en-US).
 
@@ -34,7 +29,7 @@ From time to time this privacy policy might be updated with minor changes. Your 
 You hereby indemnify us and undertake to keep us indemnified against any losses, damages, costs, liabilities and expenses (including, without limitation, legal expenses and any amounts paid by us to a third party in settlement of a claim or dispute on the advice of our legal advisers) incurred or suffered by us arising out of use of this app or any breach by you of any provision of these terms of use, or arising out of any claim that you have breached any provision of these terms of use.
 
 **Last Update**  
-This privacy policy was last updated on the 22nd of October, 2021.
+This privacy policy was last updated on the 13th of December, 2024.
 
 **Contact Us**  
 Please feel free to [contact us](mailto:support@parcelapp.net) in case if you have any questions.
