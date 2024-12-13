@@ -84,17 +84,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Russia takes unusual route to hack Starlink-connected devices in Ukraine](https://cdn.arstechnica.net/wp-content/uploads/2021/12/GettyImages-1327354395-768x432.jpg)](https://arstechnica.com/security/2024/12/russia-takes-unusual-route-to-hack-starlink-connected-devices-in-ukraine/)
+1. [![Listing image for first story in Most Read: The optical disc onslaught continues, with LG quitting Blu-ray players](https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2162965259-768x432.jpg)](https://arstechnica.com/gadgets/2024/12/the-optical-disc-onslaught-continues-with-lg-quitting-blu-ray-players/)
     
-    1. [Russia takes unusual route to hack Starlink-connected devices in Ukraine](https://arstechnica.com/security/2024/12/russia-takes-unusual-route-to-hack-starlink-connected-devices-in-ukraine/)
+    1. [The optical disc onslaught continues, with LG quitting Blu-ray players](https://arstechnica.com/gadgets/2024/12/the-optical-disc-onslaught-continues-with-lg-quitting-blu-ray-players/)
     
-2. 2. [Back where it started: “Do Not Track” removed from Firefox after 13 years](https://arstechnica.com/gadgets/2024/12/firefox-one-of-the-first-do-not-track-supporters-no-longer-offers-it/)
+2. 2. [Russia takes unusual route to hack Starlink-connected devices in Ukraine](https://arstechnica.com/security/2024/12/russia-takes-unusual-route-to-hack-starlink-connected-devices-in-ukraine/)
     
-3. 3. [NASA believes it understands why Ingenuity crashed on Mars](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/)
+3. 3. [Intel Arc B580 review: A $249 RTX 4060 killer, one-and-a-half years later](https://arstechnica.com/gadgets/2024/12/review-intel-arc-b580-is-a-compelling-if-incredibly-tardy-250-midrange-gpu/)
     
-4. 4. [YouTube TV is hiking prices again after denying “erroneous” report days ago](https://arstechnica.com/gadgets/2024/12/youtube-tv-raisies-prices-10-per-month-in-2025-citing-content-costs-quality/)
+4. 4. [Back where it started: “Do Not Track” removed from Firefox after 13 years](https://arstechnica.com/gadgets/2024/12/firefox-one-of-the-first-do-not-track-supporters-no-longer-offers-it/)
     
-5. 5. [The optical disc onslaught continues, with LG quitting Blu-ray players](https://arstechnica.com/gadgets/2024/12/the-optical-disc-onslaught-continues-with-lg-quitting-blu-ray-players/)
+5. 5. [Twirling body horror in gymnastics video exposes AI’s flaws](https://arstechnica.com/information-technology/2024/12/twirling-body-horror-in-gymnastics-video-exposes-ais-flaws/)
     
 
 Customize
