@@ -128,10 +128,8 @@ Main Menu
 * [Contact](https://klcconsulting.net/contact/)
 * [617.314.9721  x158](tel:617.314.9721)
 
-![](https://klcconsulting.net/wp-content/uploads/2023/10/ContactUs_New.webp)
-
-Privacy and Security Statement
-==============================
+Privacy & Security Statement
+============================
 
 The KLC Consulting, Inc. (“KLC”) Website is owned and provided by KLC. We respect your privacy and make every effort to control any information provided to us through any form of communications.
 
