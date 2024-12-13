@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want to see behind the curtain? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+All the submissions, none of the calories.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Helpful security camera video shows how not to drive a school bus](https://www.fark.com/goto/13492426) ( [wyff4.com](https://www.fark.com/goto/13492426) ) » [(13 comments)](https://www.fark.com/comments/13492426/Helpful-security-camera-video-shows-how-not-to-drive-a-school-bus) |
-| [Discussion](https://www.fark.com/discussion/) | [Blood on your hands, blood on your feet, down in the pouring rain. What do we care out on the street, we're gonna drive you insane. Nobody questions the power elite, who's gonna take up the strain? Behold, the MSNBC Discussion Thread, live at 7PM ET](https://www.fark.com/goto/13492630) ( [msnbc.com](https://www.fark.com/goto/13492630) ) » [(11 comments)](https://www.fark.com/comments/13492630/Blood-on-your-hands-blood-on-your-feet-down-in-pouring-rain-What-do-we-care-out-on-street-were-gonna-drive-you-insane-Nobody-questions-power-elite-whos-gonna-take-up-strain-Behold-MSNBC-Discussion-Thread-live-at-7PM-ET) |
-| [Sports](https://www.fark.com/sports/) | [Sports management group pulls Modesto's Nuts](https://www.fark.com/goto/13492454) ( [sports.yahoo.com](https://www.fark.com/goto/13492454) ) » [(0 comments)](https://www.fark.com/comments/13492454/Sports-management-group-pulls-Modestos-Nuts) |
-| [Business](https://www.fark.com/business/) | [You need a cute small car to go with your cute small house](https://www.fark.com/goto/13492460) ( [wallpaper.com](https://www.fark.com/goto/13492460) ) » [(6 comments)](https://www.fark.com/comments/13492460/You-need-a-cute-small-car-to-go-with-your-cute-small-house) |
-| [STEM](https://www.fark.com/stem/) | [Daily Mail explains the female orgasm, so now it's clear it just doesn't exist](https://www.fark.com/goto/13492496) ( [dailymail.co.uk](https://www.fark.com/goto/13492496) ) » [(13 comments)](https://www.fark.com/comments/13492496/Daily-Mail-explains-female-orgasm-so-now-its-clear-it-just-doesnt-exist) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Warner Bros Discovery now getting around to ditching that whole Discovery part of the business](https://www.fark.com/goto/13492556) ( [avclub.com](https://www.fark.com/goto/13492556) ) » [(7 comments)](https://www.fark.com/comments/13492556/Warner-Bros-Discovery-now-getting-around-to-ditching-that-whole-Discovery-part-of-business) |
-| [Fandom](https://www.fark.com/fandom/) | [Ha ha I'm quicker than you sluggards: Igot the new Indiana Jones game for free ... and it's gone](https://www.fark.com/goto/13492576) ( [gizmodo.com](https://www.fark.com/goto/13492576) ) » [(1 comment)](https://www.fark.com/comments/13492576/Ha-ha-Im-quicker-than-you-sluggards-Igot-new-Indiana-Jones-game-for-free-its-gone) |
-| [D'awww](https://www.fark.com/dawww/) | [Hide and seek. Difficulty level: Golden Retriever](https://www.fark.com/goto/13492548) ( [youtube.com](https://www.fark.com/goto/13492548) ) » [(3 comments)](https://www.fark.com/comments/13492548/Hide-seek-Difficulty-level-Golden-Retriever) |
-| [Food](https://www.fark.com/food/) | [All you'll need is an egg, bacon and avocado sandwich](https://www.fark.com/goto/13492436) ( [indy100.com](https://www.fark.com/goto/13492436) ) » [(6 comments)](https://www.fark.com/comments/13492436/All-youll-need-is-an-egg-bacon-avocado-sandwich) |
-| [Politics](https://www.fark.com/politics/) | [Julio's not worrying much about the talk of deportations. Trump is a rational businessman who must know how much undocumented laborers add to the economy. Who wants to tell him?](https://www.fark.com/goto/13492412) ( [msn.com](https://www.fark.com/goto/13492412) ) » [(66 comments)](https://www.fark.com/comments/13492412/Julios-not-worrying-much-about-talk-of-deportations-Trump-is-a-rational-businessman-who-must-know-how-much-undocumented-laborers-add-to-economy-Who-wants-to-tell-him) |
+| [Main](https://www.fark.com/) | [Survey finds 69% of Harvard freshman class entered college as virgins. Nice?](https://www.fark.com/goto/13492772) ( [thecrimson.com](https://www.fark.com/goto/13492772) ) » [(3 comments)](https://www.fark.com/comments/13492772/Survey-finds-69-of-Harvard-freshman-class-entered-college-as-virgins-Nice) |
+| [Discussion](https://www.fark.com/discussion/) | [Scammers are getting more shameless in preying on the elderly, including computer repairmen. "Major appliance stores might charge them ¥50,000 to reconfigure their PC. We are more conscientious and only charge them ¥30,000"](https://www.fark.com/goto/13492072) ( [japantoday.com](https://www.fark.com/goto/13492072) ) » [(1 comment)](https://www.fark.com/comments/13492072/Scammers-are-getting-more-shameless-in-preying-on-elderly-including-computer-repairmen-Major-appliance-stores-might-charge-them-50000-to-reconfigure-their-PC-We-are-more-conscientious-only-charge-them-30000) |
+| [Sports](https://www.fark.com/sports/) | [Denver holds onto their Bolles](https://www.fark.com/goto/13492456) ( [si.com](https://www.fark.com/goto/13492456) ) » [(2 comments)](https://www.fark.com/comments/13492456/Denver-holds-onto-their-Bolles) |
+| [Business](https://www.fark.com/business/) | [NYSE allowed convicted felon to ring the opening bell. No wonder the stock market shiat the bed today](https://www.fark.com/goto/13492748) ( [cnbc.com](https://www.fark.com/goto/13492748) ) » [(1 comment)](https://www.fark.com/comments/13492748/NYSE-allowed-convicted-felon-to-ring-opening-bell-No-wonder-stock-market-shiat-bed-today) |
+| [STEM](https://www.fark.com/stem/) | [Anti-depressants that target the brain are hit-and-miss. Let's try ones that work on the stomach, because we'd far rather eat than think](https://www.fark.com/goto/13492450) ( [scitechdaily.com](https://www.fark.com/goto/13492450) ) » [(2 comments)](https://www.fark.com/comments/13492450/Anti-depressants-that-target-brain-are-hit-miss-Lets-try-ones-that-work-on-stomach-because-wed-far-rather-eat-than-think) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Another day. Another Spider-Man spinoff movie by Sony. And another pile of really negative reviews](https://www.fark.com/goto/13492664) ( [screenrant.com](https://www.fark.com/goto/13492664) ) » [(3 comments)](https://www.fark.com/comments/13492664/Another-day-Another-Spider-Man-spinoff-movie-by-Sony-And-another-pile-of-really-negative-reviews) |
+| [Fandom](https://www.fark.com/fandom/) | [Android XR unveiled for AR/VR goggles. Put your bets on Google Graveyard dates on the right](https://www.fark.com/goto/13492580) ( [arstechnica.com](https://www.fark.com/goto/13492580) ) » [(11 comments)](https://www.fark.com/comments/13492580/Android-XR-unveiled-for-ARVR-goggles-Put-your-bets-on-Google-Graveyard-dates-on-right) |
+| [D'awww](https://www.fark.com/dawww/) | [Cat enforces strict family bedtime routine at 11 PM. Milo won't go to sleep unless the whole family is in bed, and causes a stir if anyone is late or doesn't show up](https://www.fark.com/goto/13492514) ( [goodmorningamerica.com](https://www.fark.com/goto/13492514) ) » [(5 comments)](https://www.fark.com/comments/13492514/Cat-enforces-strict-family-bedtime-routine-at-11-PM-Milo-wont-go-to-sleep-unless-whole-family-is-in-bed-causes-a-stir-if-anyone-is-late-doesnt-show-up) |
+| [Food](https://www.fark.com/food/) | [All you'll need is an egg, bacon and avocado sandwich](https://www.fark.com/goto/13492436) ( [indy100.com](https://www.fark.com/goto/13492436) ) » [(37 comments)](https://www.fark.com/comments/13492436/All-youll-need-is-an-egg-bacon-avocado-sandwich) |
+| [Politics](https://www.fark.com/politics/) | [Biden readies travel bans on Georgia officials](https://www.fark.com/goto/13492442) ( [thehill.com](https://www.fark.com/goto/13492442) ) » [(4 comments)](https://www.fark.com/comments/13492442/Biden-readies-travel-bans-on-Georgia-officials) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 12 2024 19:42:38  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 13 2024 01:43:31  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
