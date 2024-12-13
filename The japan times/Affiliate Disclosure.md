@@ -135,6 +135,14 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439434.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ")](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
 
+[New Japanese condos now cost 10 times average salary, study shows](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
+
+  [![Tokyo has the highest price-to-income ratio for high-rise condominiums in the country, at 17.78 times.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439829.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo has the highest price-to-income ratio for high-rise condominiums in the country, at 17.78 times.")](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
+
+[Japan tightens cannabis laws amid rising youth usage](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
+
+  [![Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439725.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.")](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
+
 [Prince Hisahito to enroll at University of Tsukuba](https://www.japantimes.co.jp/news/2024/12/11/japan/prince-hisahito-tsukuba-university/ "Prince Hisahito to enroll at University of Tsukuba")
 
   [![Prince Hisahito, who is second in line to the Chrysanthemum Throne, is currently a third-year student at the University of Tsukuba’s affiliated high school.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439508.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prince Hisahito, who is second in line to the Chrysanthemum Throne, is currently a third-year student at the University of Tsukuba’s affiliated high school.")](https://www.japantimes.co.jp/news/2024/12/11/japan/prince-hisahito-tsukuba-university/ "Prince Hisahito to enroll at University of Tsukuba")
@@ -142,14 +150,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 [Tokyo remains third in global city index for ninth consecutive year](https://www.japantimes.co.jp/news/2024/12/11/japan/society/tokyo-city-survey/ "Tokyo remains third in global city index for ninth consecutive year")
 
   [![The silhouettes of Mount Fuji, the Tokyo Metropolitan Government building and Shinjuku skyscrapers are seen during sunset in Tokyo in November. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439220.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The silhouettes of Mount Fuji, the Tokyo Metropolitan Government building and Shinjuku skyscrapers are seen during sunset in Tokyo in November. ")](https://www.japantimes.co.jp/news/2024/12/11/japan/society/tokyo-city-survey/ "Tokyo remains third in global city index for ninth consecutive year")
-
-[South Korean police blocked from raid on president's office](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
-
-  [![Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439573.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.")](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
-
-[Union blasts Nippon Steel’s $5,000 per worker bonus in U.S. Steel deal](https://www.japantimes.co.jp/business/2024/12/11/companies/nippon-steel-union-bonus/ "Union blasts Nippon Steel’s $5,000 per worker bonus in U.S. Steel deal")
-
-  [![The United Steelworkers union claims that Nippon Steel's latest offer is tantamount to bribery.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439473.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The United Steelworkers union claims that Nippon Steel's latest offer is tantamount to bribery.")](https://www.japantimes.co.jp/business/2024/12/11/companies/nippon-steel-union-bonus/ "Union blasts Nippon Steel’s $5,000 per worker bonus in U.S. Steel deal")
 
 Editors' Picks
 --------------
@@ -162,6 +162,22 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
   [![The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439434.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ")](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
 
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[New Japanese condos now cost 10 times average salary, study shows](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
+
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+
+  [![Tokyo has the highest price-to-income ratio for high-rise condominiums in the country, at 17.78 times.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439829.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo has the highest price-to-income ratio for high-rise condominiums in the country, at 17.78 times.")](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan tightens cannabis laws amid rising youth usage](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
+
+By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
+
+  [![Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439725.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.")](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [Prince Hisahito to enroll at University of Tsukuba](https://www.japantimes.co.jp/news/2024/12/11/japan/prince-hisahito-tsukuba-university/ "Prince Hisahito to enroll at University of Tsukuba")
@@ -177,22 +193,6 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
   [![The silhouettes of Mount Fuji, the Tokyo Metropolitan Government building and Shinjuku skyscrapers are seen during sunset in Tokyo in November. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439220.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "The silhouettes of Mount Fuji, the Tokyo Metropolitan Government building and Shinjuku skyscrapers are seen during sunset in Tokyo in November. ")](https://www.japantimes.co.jp/news/2024/12/11/japan/society/tokyo-city-survey/ "Tokyo remains third in global city index for ninth consecutive year")
-
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[South Korean police blocked from raid on president's office](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
-
-By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
-
-  [![Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439573.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters attend a rally calling for the impeachment of South Korean President Yoon Suk Yeol in front of the headquarters of the ruling People Power Party in Seoul on Tuesday.")](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Union blasts Nippon Steel’s $5,000 per worker bonus in U.S. Steel deal](https://www.japantimes.co.jp/business/2024/12/11/companies/nippon-steel-union-bonus/ "Union blasts Nippon Steel’s $5,000 per worker bonus in U.S. Steel deal")
-
-By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
-
-  [![The United Steelworkers union claims that Nippon Steel's latest offer is tantamount to bribery.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439473.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The United Steelworkers union claims that Nippon Steel's latest offer is tantamount to bribery.")](https://www.japantimes.co.jp/business/2024/12/11/companies/nippon-steel-union-bonus/ "Union blasts Nippon Steel’s $5,000 per worker bonus in U.S. Steel deal")
 
 Podcast
 -------
@@ -213,9 +213,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,23 +255,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[G7 to meet on Syria as new government pledges 'rule of law'](https://www.japantimes.co.jp/news/2024/12/13/world/politics/syria-g7-meet/ "G7 to meet on Syria as new government pledges 'rule of law'")
+[China eyes negotiations as Trump threatens new tariffs](https://www.japantimes.co.jp/business/2024/12/13/economy/china-negotiations-trump-tariff-threat/ "China eyes negotiations as Trump threatens new tariffs")
 
-20 mins ago
+1 mins ago
 
-[Japan business mood improves slightly, but global risks cloud outlook](https://www.japantimes.co.jp/business/2024/12/13/economy/boj-tankan-survey/ "Japan business mood improves slightly, but global risks cloud outlook")
+[Second-generation hibakusha's appeal for state compensation rejected](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/second-generation-hibakusha/ "Second-generation hibakusha's appeal for state compensation rejected")
 
-24 mins ago
+53 mins ago
 
-[Japan's emperor and empress to visit disaster-hit Noto for third time](https://www.japantimes.co.jp/news/2024/12/13/japan/emperor-empress-noto-visit/ "Japan's emperor and empress to visit disaster-hit Noto for third time")
-
-52 mins ago
-
-[Trump inviting China's Xi to inauguration is 'diplomatic theater'](https://www.japantimes.co.jp/news/2024/12/13/world/politics/trump-xi-invite-political-theater/ "Trump inviting China's Xi to inauguration is 'diplomatic theater'")
+[China's 'drills that dare not speak their name' put Taiwan on alert](https://www.japantimes.co.jp/news/2024/12/13/asia-pacific/china-taiwan-drills-new-tactic/ "China's 'drills that dare not speak their name' put Taiwan on alert")
 
 1 hour ago
 
-[South Korean leader’s support hits record low after martial law bid](https://www.japantimes.co.jp/news/2024/12/13/asia-pacific/politics/yoon-support-rate-record-low/ "South Korean leader’s support hits record low after martial law bid")
+[Why Is Bill Belichick heading to North Carolina? It's all about control.](https://www.japantimes.co.jp/sports/2024/12/13/belichick-chose-college-for-control/ "Why Is Bill Belichick heading to North Carolina? It's all about control.")
+
+1 hour ago
+
+[LDP-Komeito bloc defers decision on income tax hike to boost defense budget](https://www.japantimes.co.jp/news/2024/12/13/japan/politics/income-tax-defense-postponement/ "LDP-Komeito bloc defers decision on income tax hike to boost defense budget")
 
 1 hour ago
 
