@@ -142,7 +142,7 @@ submenu
             * [Economic Data from the Department of Labor](https://www.dol.gov/newsroom/economicdata)
             * [Email Newsletter](https://www.dol.gov/newsroom/newsletter)
             
-* [FAQ](https://webapps.dol.gov/dolfaq/)
+* [FAQ](https://www.dol.gov/general/faq)
 * [CONTACT US](https://www.dol.gov/general/contact)
 
 Search  
@@ -221,7 +221,7 @@ This statement is about your privacy when using this website. For information ab
 * [Agencies](https://www.dol.gov/general/dol-agencies)
 * [Forms](https://www.dol.gov/general/forms)
 * [Guidance Search](https://www.dol.gov/guidance)
-* [FAQ](https://webapps.dol.gov/dolfaq/)
+* [FAQ](https://www.dol.gov/general/faq)
 * [About DOL](https://www.dol.gov/general/aboutdol)
 * [News](https://www.dol.gov/newsroom)
 * [Contact Us](https://www.dol.gov/general/contact)
