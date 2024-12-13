@@ -137,7 +137,6 @@ EnglishDeutsch
 ### Resources
 
 * [Developers](https://developer.issuu.com/)
-* [Elite Customer Program](https://issuu.com/customer-success/elite)
 * [Publisher Directory](https://issuu.com/publishers)
 * [Redeem Code](https://issuu.com/store/code)
 
