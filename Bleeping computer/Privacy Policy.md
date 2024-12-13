@@ -36,18 +36,18 @@
         
         Lynx ransomware behind Electrica energy supplier cyberattack](https://www.bleepingcomputer.com/news/security/lynx-ransomware-behind-electrica-energy-supplier-cyberattack/)
     
+    * [![Russia blocks Viber in latest attempt to censor communications](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Russia blocks Viber in latest attempt to censor communications](https://www.bleepingcomputer.com/news/security/russia-blocks-viber-in-latest-attempt-to-censor-communications/)
+    * [![Russian cyberspies target Android users with new spyware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Russian cyberspies target Android users with new spyware](https://www.bleepingcomputer.com/news/security/russian-gamaredon-cyberspies-target-android-users-with-new-spyware/)
+    * [![Germany blocks BadBox malware loaded on 30,000 Android devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Germany blocks BadBox malware loaded on 30,000 Android devices](https://www.bleepingcomputer.com/news/security/germany-blocks-badbox-malware-loaded-on-30-000-android-devices/)
     * [![Fill the cybersecurity skills gap with this $60 training bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Fill the cybersecurity skills gap with this $60 training bundle](https://www.bleepingcomputer.com/offer/deals/fill-the-cybersecurity-skills-gap-with-this-60-training-bundle/)
-    * [![New stealthy Pumakit Linux rootkit malware spotted in the wild](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New stealthy Pumakit Linux rootkit malware spotted in the wild](https://www.bleepingcomputer.com/news/security/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
-    * [![Police shuts down Rydox cybercrime market, arrests 3 admins](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Police shuts down Rydox cybercrime market, arrests 3 admins](https://www.bleepingcomputer.com/news/security/police-shuts-down-rydox-cybercrime-market-arrests-3-admins/)
-    * [![New IOCONTROL malware used in critical infrastructure attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New IOCONTROL malware used in critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/new-iocontrol-malware-used-in-critical-infrastructure-attacks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
