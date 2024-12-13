@@ -509,7 +509,7 @@ Help
 Social Presence
 
 * [Facebook](https://facebook.com/adsbycoinzilla)
-* [Twitter](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fadsbycoinzilla%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=adsbycoinzilla&tw_p=followbutton)
+* [X](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fadsbycoinzilla%2F&ref_src=twsrc%5Etfw&region=follow_link&screen_name=adsbycoinzilla&tw_p=followbutton)
 
 * [Youtube](https://www.youtube.com/c/Coinzilla?sub_confirmation=1)
 * [Linkedin](https://www.linkedin.com/company/coinzilla/)
