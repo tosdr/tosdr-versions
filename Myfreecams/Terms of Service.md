@@ -5,21 +5,6 @@ From Wiki.MyFreeCams.com
 
 [Jump to navigation](#mw-head) [Jump to search](#searchInput)
 
-| [Information for Members](https://wiki.myfreecams.com/wiki/Information_for_Members "Information for Members") |     |
-| --- |
-|     |
-| [Instructions and Features](https://wiki.myfreecams.com/wiki/Instructions_and_Features "Instructions and Features") |     |
-|     |
-| [Rules and Guidelines](https://wiki.myfreecams.com/wiki/Rules_and_Guidelines "Rules and Guidelines") |     |
-|     |
-| [Technical Help](https://wiki.myfreecams.com/wiki/Technical_Help "Technical Help") |     |
-|     |
-| [Billing Help](https://wiki.myfreecams.com/wiki/Billing_Help "Billing Help") |     |
-|     |
-| [Video Player](https://wiki.myfreecams.com/wiki/Video_Player "Video Player") |     |
-|     |
-| [Contact Support](https://wiki.myfreecams.com/wiki/Contact_Support "Contact Support") |     |
-
 [MyFreeCams.com](https://wiki.myfreecams.com/wiki/MyFreeCams.com "MyFreeCams.com") and its affiliated sites, (the “Website”), is an online, worldwide webcam network. The owners and operators of this Website ("we","us") would like to welcome you. It is important to us that you have the best possible experience while using the Website, and that, when you use this Website, you understand your legal rights and obligations. This terms-of-use agreement (“Agreement”) between you and us governs your use of the Website and the services we offer to you through the Website. The terms of this Agreement apply (1) to the entire contents of this Website (regardless whether you purchase services), (2) to any associated websites that we own or operate and that we grant you access to as part of your registration, and (3) to any email correspondence between you and us. Additional contractual provisions apply to any model broadcasting on this Website, which provisions are included in the Model Agreement.
 
 Please read this Agreement carefully before using our Website because it is a legally binding agreement between you and us. We ask that you pay special attention to the following provisions: (1) user conduct and chat room rules (sections 9 and 10); (2) disclaimer of warranties (section 13); (3) limitation of liability and exclusion of damages (sections 14 and 15); (4) exclusive forum for resolving disputes (section 21); and (5) mandatory arbitration (section 22). Using this Website demonstrates your expressed consent to all of these terms even if you do not read them. If you do not want to accept these terms, you must leave the Website immediately. Browsers of the site who have not signed up as Members are bound by these terms if they have viewed the site, and continue to access or navigate the site. If you violate any of these terms, we may cancel your registration to the Website, and may pursue additional legal remedies. We may revise these terms on one or more occasions by updating this webpage as discussed below in Section 25. We will deem your continued use of the Website after we post the changes as your acceptance of the changes. If you do not agree to any future changes, please leave this Website.
@@ -358,7 +343,7 @@ Notices
 
 We may serve you notice by sending an e-mail to your e-mail address on your account.
 
-You may serve us notice by sending an e-mail to [![](/images/d/dc/Legalatmyfreecamsmail.gif)](https://wiki.myfreecams.com/wiki/File:Legalatmyfreecamsmail.gif).
+You may serve us notice by sending an e-mail to [![](/images/d/dc/Legalatmyfreecamsmail.gif)](https://wiki.myfreecams.com/wiki/File:Legalatmyfreecamsmail.gif).
 
 Retrieved from "[https://wiki.myfreecams.com/wiki/index.php?title=Terms\_and\_Conditions&oldid=5578](https://wiki.myfreecams.com/wiki/index.php?title=Terms_and_Conditions&oldid=5578)"
 
@@ -408,6 +393,6 @@ Navigation menu
 * [Privacy policy](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:Privacy_policy)
 * [About Wiki.MyFreeCams.com](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:About)
 * [Disclaimers](https://wiki.myfreecams.com/wiki/Wiki.MyFreeCams.com:General_disclaimer)
-* [Mobile view](https://wiki.myfreecams.com/wiki/index.php?title=Terms_and_Conditions&mobileaction=toggle_view_mobile)
+* [Desktop](https://wiki.myfreecams.com/wiki/index.php?title=Terms_and_Conditions&mobileaction=toggle_view_desktop)
 
 * [![Powered by MediaWiki](/wiki/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
