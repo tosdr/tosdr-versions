@@ -307,7 +307,7 @@ Quick Links
 * [C.A.](https://www.royalballetschool.org.uk/wp-content/uploads/The%20Royal%20Ballet%20School%20HTTPS%20Inspection%20Certificate%20Authority%202024.crt)
 * [Shop Terms and Conditions](https://www.royalballetschool.org.uk/information/shop-terms-and-conditions/)
 
-[](https://www.facebook.com/royal.ballet.school/)[](https://www.twitter.com/RoyalBalletSch)[](https://www.instagram.com/royalballetschool/)[](https://www.youtube.com/channel/UCdZfbbnQPy43SQtkykBCBVg)[](https://www.flickr.com/photos/royalballetschool/)[](https://www.tiktok.com/@royalballetsch)
+[](https://www.facebook.com/royal.ballet.school/)[](https://www.twitter.com/RoyalBalletSch)[](https://www.instagram.com/royalballetschool/)[](https://www.youtube.com/channel/UCdZfbbnQPy43SQtkykBCBVg)[](https://www.flickr.com/photos/royalballetschool/)[](https://www.tiktok.com/@royalballetsch)[](https://www.linkedin.com/company/the-royal-ballet-school/)
 
 © 2024 The Royal Ballet School | Registered charity no: 214364
 
