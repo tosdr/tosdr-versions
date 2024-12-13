@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/geschiedenis/zionisme-rusland-china-en-de-nwo/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/een-kosmische-upgrade/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
