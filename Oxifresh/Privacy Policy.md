@@ -222,7 +222,7 @@ Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 306,493 Reviews
+Average 4.7 Stars Based on 306,579 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -384,17 +384,17 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 306,493 Carpet Cleaning Services Reviews
+Based on 306,579 Carpet Cleaning Services Reviews
 
-**NJ.** - Semmes, AL - 12/11/2024
+On time, explained process very well. Overall great experience. **MV.** - Palm Beach Gardens, FL - 12/11/2024
+
+(4.5 Out of 5 stars)
+
+Always on time, very friendly and do an amazing job on my 15 yr old carpet. **CC.** - Clive, IA - 12/11/2024
 
 (5.0 Out of 5 stars)
 
-I cannot say enough great things about Oxi Fresh Carpet Cleaning! From start to finish, the experience was absolutely seamless. The eco-friendly cleaning solution they use was a huge plus for me—it left my home smelling fresh without any harsh chemical odors. The results were outstanding. My carpets look brand new, and they dried so quickly compared to traditional cleaning methods. Stains that I thought were permanent vanished completely! Not only did they deliver exceptional quality, but the overall service was efficient and professional. If you’re looking for a reliable, eco-conscious, and highly effective carpet cleaning company, Oxi Fresh is the one to call. I’ll definitely be using their services again and recommending them to everyone I know! **RM.** - Mount Vernon, NY - 12/10/2024
-
-(5.0 Out of 5 stars)
-
-Carpet cleaning so fresh and clean that I almost forgot to take a shower that day! Trust me, this is a business dedicated to the giving the ultimate customer experience. **MD.** - New York, NY - 12/10/2024
+Oxi fresh carpet cleaning clean my carpet a few times and the company is great . Nice fresh smelling carpet **NT.** - Mount Vernon, NY - 12/10/2024
 
 (5.0 Out of 5 stars)
 
