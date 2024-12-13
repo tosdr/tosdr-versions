@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Safety
+
+### Assad’s fall has rewards for Israel. It’s focused on the risks.](https://www.csmonitor.com/World/Middle-East/2024/1212/syria-assad-rebels-iran-israel-security "Assad’s fall has rewards for Israel. It’s focused on the risks.")
+
 [Equality
 
 ### Equality is on Syria’s agenda](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1212/Equality-is-on-Syria-s-agenda "Equality is on Syria’s agenda")
@@ -100,21 +104,17 @@ Recent Stories
 
 ### Malibu’s wildfire threatens my community. It’s also bringing us together.](https://www.csmonitor.com/USA/2024/1212/franklin-fire-malibu-update "Malibu’s wildfire threatens my community. It’s also bringing us together.")
 
-[Prosperity
-
-### How young Nigerian women in arranged ‘money marriages’ are getting a new start](https://www.csmonitor.com/World/Making-a-difference/2024/1212/nigeria-money-marriage-girls-becheve "How young Nigerian women in arranged ‘money marriages’ are getting a new start")
-
 [See all News & Values stories](https://www.csmonitor.com/values)
 
 * * *
 
 Monitor Daily
 
-December 11, 2024
+December 12, 2024
 
-A hour’s wage for a cup of coffee
+What has changed in Syria, and what hasn’t
 
-“The minimum wage back home was $7.25, and here, that’s a coffee.” That’s Jillian McGeehin, a small-town student now attending the University of Chicago. Today’s story by Kelly Field looks at why relatively few rural students go to top colleges – and what can be done about it. Elite colleges have widened America’s cultural rifts. Kelly’s story considers the idea that, in reaching out to rural America, maybe they can be a part of the solution, too. 
+Scott Peterson and Dominique Soguel are on the ground in Syria. On her first day back in the country, two things struck Dominique. First, people are willing to express their political opinions loud and clear, including their concerns about what might come next. That’s a startling change, she says. What has not changed, she adds, is the hospitality and willingness among Syrians of every class and faith to help even perfect strangers. “In just a few hours,” she says, “I’ve been able to lean in on old friends and new ones to solve all kinds of problems to arrive safely.”
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Assad’s fall has rewards for Israel. It’s focused on the risks.](https://www.csmonitor.com/World/Middle-East/2024/1212/syria-assad-rebels-iran-israel-security "Assad’s fall has rewards for Israel. It’s focused on the risks.")
+
 [### Malibu’s wildfire threatens my community. It’s also bringing us together.](https://www.csmonitor.com/USA/2024/1212/franklin-fire-malibu-update "Malibu’s wildfire threatens my community. It’s also bringing us together.")
 
 [### How young Nigerian women in arranged ‘money marriages’ are getting a new start](https://www.csmonitor.com/World/Making-a-difference/2024/1212/nigeria-money-marriage-girls-becheve "How young Nigerian women in arranged ‘money marriages’ are getting a new start")
-
-[### FBI Director Christopher Wray reluctantly resigns saying, ‘I love our mission’](https://www.csmonitor.com/USA/2024/1212/christopher-wray-fbi-trump-biden-kash-patel "FBI Director Christopher Wray reluctantly resigns saying, ‘I love our mission’")
 
 * * *
 
