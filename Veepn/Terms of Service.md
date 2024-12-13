@@ -1,4 +1,4 @@
-[![veepn home](/assets/b4e14382/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/2d28668d/images/logo-main.svg)](https://veepn.com/)
 
 * VPN Apps
     
@@ -84,7 +84,7 @@
 
 [Get VeePN Now](https://veepn.com/vpn-pricing/)
 
-![en language](/assets/b4e14382/images/flags/en.svg) en
+![en language](/assets/2d28668d/images/flags/en.svg) en
 
 *  [Українська](https://veepn.com/uk/terms-of-service/)
 *  [Deutsch](https://veepn.com/de/terms-of-service/)
@@ -360,7 +360,7 @@ Please submit any notices to us with respect to the Service or these Terms via [
 
 Last updated: September 13, 2024
 
-[![veepn home](/assets/b4e14382/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/2d28668d/images/logo-main.svg)](https://veepn.com/)
 
 Products
 
