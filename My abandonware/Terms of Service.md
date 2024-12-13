@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Rings of the Magi: Grand Master Edition](https://www.myabandonware.com/game/rings-of-the-magi-grand-master-edition-2v9)
+* [Zoo Tycoon 2: Zookeeper Collection](https://www.myabandonware.com/game/zoo-tycoon-2-zookeeper-collection-tx3)
 * [Fatal Bout](https://www.myabandonware.com/game/fatal-bout-tuu)
 * [Itsumo](https://www.myabandonware.com/game/itsumo-tut)
 * [Taxi 3: Extreme Rush](https://www.myabandonware.com/game/taxi-3-extreme-rush-tur)
-* [Tango Strike](https://www.myabandonware.com/game/tango-strike-tuq)
-* [Cylindrix](https://www.myabandonware.com/game/cylindrix-cic)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
