@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![RM-van-Web](/siteassets/resources/images/-news-centre/thumbnail-images/post/rm-van-web.jpg?width=1920&height=1085&quality=80)
+
+### Ofcom fines Royal Mail £10.5m for poor delivery performance
+
+13 December 2024](https://www.ofcom.org.uk/post/royal-mail/ofcom-fines-royal-mail-10.5m-for-poor-delivery-performance)
+
 [![Ultrafast broadband HERO (1336 × 560px)](/siteassets/resources/images/-news-centre/body-images/2024/ultrafast-broadband-and-landline-bundles-see-biggest-price-drop-in-2024/ultrafast-broadband-hero-1336--560px.png?width=1920&height=1085&quality=80)
 
 ### Ultrafast broadband and landline bundles see biggest price drop in 2024
@@ -150,12 +156,6 @@
 ### Global Online Safety Regulators Network sets out priorities for next three years
 
 9 December 2024](https://www.ofcom.org.uk/about-ofcom/international-work/global-online-safety-regulators-network-sets-out-priorities-for-next-three-years/)
-
-[![draft-industry-guidance-(web)](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/draft-industry-guidance-web.jpg?width=1920&height=1085&quality=80)
-
-### Ofcom appoints Oliver Griffiths as Group Director, Online Safety
-
-5 December 2024](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/ofcom-appoints-oliver-griffiths-as-group-director-online-safety/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy)
 
