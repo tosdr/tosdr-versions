@@ -31,6 +31,493 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cartas a Quito / 13 de diciembre de 2024
+========================================
+
+Estas son las cartas a Quito de este viernes 13 de diciembre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+No a la licencia ambiental para minera en Loma Larga 
+-----------------------------------------------------
+
+Ecuador debe prohibir la explotación minera -sin dudarlo en páramos, que son nuestras esponjas de agua- como lo hiciera Colombia, a través de un dictamen de la Corte Constitucional. El ejemplo del proceso seguido por la minera interesada en obtener la licencia para poder emprender la explotación en Loma Larga, que ha sido observado con claridad y firmeza por ETAPA, debe llevar a concienciar a Ecuador, no solo en esta etapa crítica que precisamos del recurso vital, sino a futuro por la estabilidad hidrológica del país y de nuestros ecosistemas en general, por la afectación del agua para consumo humano por los ‘índices de nitrato’, etc., pero además por las toneladas de materiales de desechos, con metales pesados y arsénico que no tienen un fin seguro. Ecuador puede salvarse si el Ministerio de Ambiente y Agua, conducido por la ministra Manzano, que dirige provisionalmente también el Ministerio de Energía y Minas, acata la recomendación y detiene este proyecto. Bien por este valiente informe del municipio de Cuenca, que ha sido con excelente comunicación debidamente transparentada (R. Aguilar, 2024), que promoverá se eleve ante la Corte Constitucional la demanda para sentar un precedente y salvar a nuestro país de una explotación salvaje que podría, en efecto, conducirnos ‘al suicidio’ por falta de agua y más daños ambientales, sociales y afectaciones a la salud. La Asamblea debe evaluar el catastro minero que impulsa el actual gobierno, que debería ayudar a parar la explotación minera ilegal, y el país  evaluar si queremos entregar nuestras tierras a una despiadada explotación de nuestros suelos e inmediata afectación a nuestro líquido vital, o evaluar si el propio estado, como lo ha hecho Chile con Codelco, empresa 100% de propiedad del Estado chileno y primer productor mundial de cobre, puede presentar, después de algunos años, y con todas las consultas previas y consentimientos, proyectos veraces para bien de la comunidad afectada y de todo el país. Una oportunidad para mejorar nuestra economía -incluyendo la generación de empleo- sería revitalizar, incluso con inversión privada, la producción petrolera sin explotación con ‘estimulación hidráulica’ -conocida como ‘fracking’- que de igual manera contaminaría más nuestras aguas superficiales y subterráneas. Como igualmente ocurre con Ecopetrol -empresa pública colombiana y una de las más importantes del mundo- Petroecuador, con más personal técnico que administrativo, y procesos modernizados, podría seguir siendo el protagonista, considerando los 8.8 miles de millones de barriles de petróleo de reserva que aún tiene Ecuador -que para bien de nuestra megadiversidad no topará ITT. El caso minero merece un tratamiento de política pública diferente, como el país acaba de colegir. Además, para el caso de Loma Larga ya Cuenca se pronunció en Consulta Popular con un sí para la prohibición de actividades mineras.  
+
+Diego Fabián Valdivieso Anda 
+
+Diciembre muestra cómo será la campaña electoral y no pinta bien
+================================================================
+
+La campaña electoral de febrero de 2025 debe centrarse en propuestas serias, no en jingles y desinformación.
+------------------------------------------------------------------------------------------------------------
+
+![Imagen creada con IA. Prompt: políticos debaten en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/Debate-politicos.jpg)
+
+A medida que diciembre avanza, **Ecuador** se encuentra en un momento crucial que anticipa cómo será la campaña electoral de **febrero de 2025**. Los primeros indicios son preocupantes: ataques personales entre candidatos, una superficialidad alarmante en las propuestas y un **uso creciente de contenidos que buscan desinformar al electorado.** En un contexto donde la ciudadanía enfrenta problemas reales y urgentes, es esencial que los candidatos y sus equipos reflexionen sobre la necesidad de llevar a cabo una campaña que esté a la altura de las expectativas y necesidades de los ecuatorianos.
+
+> Las últimas campañas electorales se han visto marcadas por un enfoque que prioriza los jingles pegajosos y los bailes virales sobre el debate sustantivo.
+
+Este **fenómeno no es exclusivo de Ecuador**; se ha convertido en una tendencia global donde las redes sociales dictan el ritmo de la comunicación política. Sin embargo, en un país con problemas tan graves como la inseguridad, la crisis económica y el desempleo, esta superficialidad resulta inaceptable.
+
+Los ciudadanos merecen escuchar propuestas concretas y soluciones viables a los desafíos que enfrentan. En lugar de centrarse en ataques personales o estrategias de **marketing político**, los candidatos deberían enfocarse en presentar planes claros que aborden las preocupaciones más apremiantes de la población. La falta de profundidad en las campañas no solo desinforma, sino que también aliena a los votantes, quienes pueden sentirse desilusionados ante la falta de opciones significativas.
+
+**La desinformación se ha convertido en una herramienta peligrosa** en el arsenal político. En el contexto actual, donde las redes sociales amplifican rumores y bulos, es fundamental que los candidatos eviten caer en esta trampa. La utilización de información errónea para desacreditar a oponentes o manipular percepciones puede tener repercusiones devastadoras para la democracia.
+
+Un estudio del **Instituto Nacional de Estadística y Censos (INEC)** indica que más del 60 % de los ecuatorianos se sienten confundidos por la cantidad de información contradictoria que reciben durante las campañas electorales. Esta confusión puede llevar a decisiones mal informadas en las urnas, lo que pone en riesgo el futuro del país.
+
+Para elevar el nivel del debate político y asegurar que los votantes tomen decisiones informadas, es crucial que los candidatos adopten un enfoque más responsable. Algunas propuestas incluyen el fomento de foros y debates donde se discutan temas relevantes sin interrupciones ni distracciones superficiales. Los candidatos (y sus campañas) deben crear materiales informativos que expliquen las propuestas de manera clara y accesible. Esto puede incluir infografías, videos explicativos y publicaciones en redes sociales que desglosen cada plan.
+
+La sociedad civil puede invitar a especialistas en áreas clave como economía, salud pública y seguridad para que evalúen las propuestas presentadas por los candidatos. Esto no solo enriquecerá el debate, sino que también brindará a los votantes una perspectiva más amplia sobre cada tema.
+
+Diciembre debería ser un mes de reflexión para todos los actores **políticos en Ecuador**. En lugar de caer en la trampa del espectáculo superficial, es hora de priorizar el bienestar del país. Los ciudadanos merecen líderes comprometidos con sus necesidades reales, dispuestos a escuchar y responder con soluciones efectivas.
+
+La próxima campaña electoral puede ser una oportunidad para reconstruir la confianza entre políticos y ciudadanos. Al centrarse en el debate serio y constructivo, los candidatos tienen que demostrar su compromiso con el futuro del país y contribuir a una democracia más saludable.
+
+A medida que nos acercamos a las elecciones de febrero de 2025, es fundamental que tanto candidatos como votantes reflexionen sobre lo que realmente está en juego. La superficialidad y la desinformación no tienen cabida en un **proceso democrático saludable**. Es hora de exigir campañas responsables que prioricen el diálogo sincero sobre propuestas concretas. Solo así podremos garantizar un futuro mejor para Ecuador.
+
+Panorama energético (parte 1)
+=============================
+
+Es necesario que el próximo gobierno llegue a un acuerdo nacional para definir objetivos de largo plazo en los sectores estratégicos.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
+
+A mediados del mes de noviembre se llevó a cabo la XXV expo conferencia de Oil & Power organizada por HJ Becdach dónde igual que todos los años desde el año 2000, se trata de los temas más importantes para el **sector energético ecuatoriano y su desarrollo hacia el futuro.** En este evento participaron el **sector público** con sus **autoridades** principales, la academia, el **sector privado y organismos multilaterales,** así como expertos extranjeros en las diversas actividades de la **industria**.
+
+Este año ya entramos en el tercer mes de apagones y si no hay la bendición del cielo con lluvias, el **parque termoeléctrico disponible no es suficiente**. Y nos veremos beneficiados de la incorporación del proyecto más largo que ha tenido el Ecuador con la hidroeléctrica Toachi- Pilaton Con 205 Mw adicionales y las **turbinas contratadas** que puedan entrar en funcionamiento.
+
+Como ha sido mencionado antes no solo hay un déficit actual de más de 1100 MW de los cuales Colombia puede proveer unos 400 MW que son onerosos a la **economía nacional** porque con las tarifas actuales se convierte en un **subsidio sustancial** tanto quien lo necesita como quien no, en un panorama donde la próxima década se necesitan por lo menos 8000 MW adicionales por un **crecimiento** de la **demanda** que se ha incrementado a un 8% anual y donde también hay un **sector productivo camaronero** que apenas el 5% de las 250,000 ha. tienen conexión al SNI y un **sector minero en desarrollo** que también tiene que cubrir sus necesidades junto con las demandas de la **transición energética**, transición en la movilidad hacia energía no contaminante, la **automatización industrial** y las necesidades de conectividad crecientes. Además, según el CENACE que nos indica que en el plan nacional de electrificación 2014 – 2024 hay un déficit de 1950 MW.
+
+Ciertamente, no hay que pintar un panorama sombrío porque cada **crisis** según el pensamiento chino trae **oportunidades**. Pero hay que hacer las cosas bien y establecer una **Política de Estado** que tenga **credibilidad y transparencia** de largo plazo que fue expuesta por los conferencistas dónde vamos a resaltar los principales conceptos:
+
+1.- Llevar adelante una **transformación en la legislación y regulaciones del sector**, el energético, donde me voy a referir exclusivamente al **eléctrico** por el momento por espacio. Tal como lo hicieron otros países de Sudamérica que tenía **crisis energética** en los años 90 y han venido realizando los ajustes correspondientes para crear un **mercado abierto a la competencia** tanto pública como privada en una forma transparente con un **fortalecimiento de la regulación** que ofrezca también incentivos claros para fomentar **proyectos sostenibles**. Con diversificación de la **matriz energética** que incremente las inversiones en fuentes renovables como la **solar, eólica y geotermia.**
+
+2.- Es necesario apertura del **sector energético** como lo ha hecho Colombia en forma exitosa, fomentando las **alianzas y participación pública** – privada que facilita la financiación de los grandes proyectos a través de las colaboraciones estratégicas.
+
+3.- De igual manera, la promoción de **eficiencia energética**, incentivando el uso eficiente de energía en todos los sectores de la sociedad y monitoreando y disminuyendo las pérdidas negras que tiene el **sistema ecuatoriano** de distribución, principalmente en la costa.
+
+Para referencia, en el Perú el 80% del **sector eléctrico** está en manos privadas y en Colombia es el 70%. En ninguno de esos dos países hay subsidios porque ya aprendieron la lección de que la energía más cara es la que no se dispone, pero si se tiene una **política de subsidio cruzado** entre el quintil más alto de la población que paga más por un consumo mayor de energía y el quintil más vulnerable de la sociedad que tiene una tarifa diferenciada menor qué es calificado por los kilovatios consumidos.
+
+Es importante que, dentro del **panorama de una economía pública** altamente dependiente del petróleo, y afectada por la **caída de los precios** y actualmente una sequía extendida en varias zonas productivas, un gobierno sin acceso a capitales y con reducida confianza internacional tendría grandes dificultades para reactivar al **sector productivo** y cumplir con sus **obligaciones financieras**. Todo esto afectado por un sobre **endeudamiento** ya existente, por un sistema judicial convulsionado por las expresiones que hay para garantizar **impunidad** a **funcionarios** de **acusados** de **corrupción** son las razones que mantienen alejado al **capital de inversión extranjera directa** por más que se luche por traerla con catálogo de más de 30,000 millones de dólares de proyectos en los cuales hay que invertir y posiblemente cerca de 20,000 millones adicionales solamente en el sector eléctrico. Por ello es necesario que el próximo gobierno llegue a un gran **acuerdo nacional** que pueda definir objetivos de largo plazo en los **sectores estratégicos** como son la **seguridad, la salud, la alimentación, la educación y la energía,** dónde todos tenemos las mismas prioridades.
+
+La movilidad por Navidad y pregones de diciembre cambiará en Quito
+==================================================================
+
+Los agentes de la AMT estarán ubicados en sectores clave para gestionar el tránsito en Quito.
+---------------------------------------------------------------------------------------------
+
+![Los operativos se llevarán a cabo a lo largo de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/Operativos-movilidad-Quito.jpg)
+
+Según la Agencia Metropolitana de Tránsito (**AMT**), Quito cuenta con 41 centros comerciales donde se prevé alta presencia de autos. En los centros comerciales de **la capital** ya hay ofertas navideñas a 12 días de la **Navidad**.  
+
+Más noticias
+------------
+
+* [Vacaciones escolares por Navidad y Año Nuevo se extendieron, ¿cómo se recuperarán?](https://www.elcomercio.com/actualidad/ecuador/vacaciones-escolares-navidad-nuevo-extendieron-recuperaran.html "Vacaciones escolares por Navidad y Año Nuevo se extendieron, ¿cómo se recuperarán?")
+* [Pirotecnia en Navidad; consejos, normativa y los riesgos en Ecuador](https://www.elcomercio.com/actualidad/seguridad/pirotecnia-fiestas-consejos-normativa-riesgos.html "Pirotecnia en Navidad; consejos, normativa y los riesgos en Ecuador")
+* [Los animales no son juguetes, ¡recuérdalo también esta Navidad!](https://www.elcomercio.com/narices-frias/animales-navidad-regalo-juguete-bienestar-empati.html "Los animales no son juguetes, ¡recuérdalo también esta Navidad!")
+
+Para esta temporada, se implementará un plan operativo que facilite la **movilidad** en las zonas cercanas a estos **establecimientos** durante las festividades. Lo mismo se hará por los pregones programados en estas fechas.
+
+La **AMT** lleva a cabo operativos desde mediados de noviembre, que se prolongan durante **diciembre** y los primeros días de enero. Esto responde a las ofertas en los **centros** **comerciales** y a las **procesiones** **navideñas** programadas.  
+
+Operativo de movilidad por compras navideñas
+--------------------------------------------
+
+Con el objetivo de garantizar la fluidez vehicular en la época festiva, la **AMT** desplegará 500 uniformados y 269 recursos logísticos. Como parte del plan, se cerrarán 10 vías principales y 99 **secundarias**.
+
+Entre las vías intervenidas se encuentran la **Morán** **Valverde**, **Maldonado**, **Naciones** **Unidas** y **Amazonas**. En estos puntos de la ciudad habrá agentes gestionando el tránsito, especialmente en las entradas y salidas de los centros comerciales.
+
+Durante las festividades, las horas de mayor congestión previstas se concentran entre las **10:00 y las 22:00**, coincidiendo con los horarios extendidos de atención en los centros comerciales.
+
+El 24 y el 31 de diciembre, el cierre anticipado de las tiendas (entre las 18:00 y las 20:00) genera un incremento notable del tráfico en las horas previas.
+
+Además, las franjas horarias de **09:30 a 12:00** y de **18:00 a 20:00** se destacan como momentos de alta afluencia vehicular, ya que coinciden con el inicio de actividades comerciales y el término de la jornada laboral.
+
+Los cierres en los centros comerciales se aplicarán de la siguiente manera:
+
+Operativos por el Pase del Niño en Quito
+----------------------------------------
+
+La Agencia Metropolitana de Tránsito (**AMT**) diseñó planes de operativos para garantizar la seguridad vial y la movilidad en los eventos tradicionales de los **Pases del Niño** programados en diferentes sectores de Quito.
+
+Estos operativos contarán con la participación de más de 61 **agentes de tránsito**, distribuidos en los distintos eventos, apoyados por 269 elementos logísticos.
+
+Asimismo, se implementarán cierres en al menos 10 vías principales y 99 secundarias, asegurando una correcta gestión de la movilidad durante estas celebraciones.
+
+Campaña No le creas al alcohol
+------------------------------
+
+La tercera causa principal de siniestros de tránsito en **Quito** durante 2024 es conducir bajos los efectos del alcohol. Los **siniestros** por esta causa han dejado un saldo de 366 siniestros, 252 personas lesionadas y 15 fallecidos.
+
+Estas cifras son superadas únicamente por los siniestros por **exceso de velocidad**, los cuales ocasionaron 486 siniestros. Seguidos por la falta de respeto a las señales de tránsito, que ocasionaron 399 siniestros.
+
+Operativos de acompañamiento
+----------------------------
+
+La Agencia Metropolitana de Tránsito (**AMT**) intensificó los operativos de control en las vías para detectar y sancionar a los conductores que incumplan las normas de tránsito[.](https://es.wikipedia.org/wiki/Navidad "https://es.wikipedia.org/wiki/Navidad")
+
+Además, la **AMT** hace un llamado a la ciudadanía a respetar los **límites de velocidad**, las señales de tránsito y, sobre todo, a no mezclar alcohol y la conducción.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Cortes de luz en Cuenca del lunes 16 al jueves 19 de diciembre
+==============================================================
+
+Los cortes de luz en Cuenca del lunes 16 al jueves 19 de diciembre serán de dos horas de duración para el sector residencial.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Cuenca del lunes 16 al jueves 19 de diciembre son definidos por Centrosur.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-cuenca-lunes-16-jueves-19-diciembre.jpg)
+
+**Cuenca** tendrá **cortes de luz** de dos horas del **lunes 16 al jueves 19 de diciembre** de 2024, para el sector residencial.
+
+**Centrosur** publicó la programación de la suspensión del servicio de energía eléctrica para la próxima semana.
+
+### Más noticias:
+
+* [Daniel Noboa anunció el fin de los apagones en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-anuncio-fin-apagones-ecuador.html "Daniel Noboa anunció el fin de los apagones en Ecuador")
+* [El embalse de la central Mazar subió dos metros en una semana](https://www.elcomercio.com/actualidad/negocios/embalse-central-mazar-subio-metros-semana.html "El embalse de la central Mazar subió dos metros en una semana")
+
+Horarios de los cortes de luz en Cuenca del lunes 16 al jueves 19 de diciembre
+------------------------------------------------------------------------------
+
+El presidente **Daniel Noboa** anunció que el 20 de diciembre finalizarán los cortes de luz programados por la crisis energética.
+
+El Gobierno señaló que existe una **recuperación** de capacidad instalada y la incorporación de nueva generación de energía.
+
+Además, la **compra** de energía a **Colombia** y el aumento de los caudales y los embalses que abastecen a hidroeléctricas como **Mazar** y **Paute**, que permiten tomar esta nueva medida.
+
+Así, **Ecuador** no llegaría a los tres meses de los cortes de luz programados a causa de la crisis energética por la dependencia de las **lluvias**.
+
+La suspensión de **energía eléctrica** empezó el 23 de septiembre en todo el país.
+
+A partir de esa fecha, los ecuatorianos han tenido hasta **14 horas diarias** de cortes de luz.
+
+El período diario más reducido de cortes de luz es el de la semana actual, con la suspensión del servicio de energía eléctrica de hasta **tres horas.**
+
+Sin embargo, desde la **próxima semana**, los cortes de luz están programados con **una duración de dos horas en todo el país.**
+
+Son dos horas consecutivas para el **sector residencial**.
+
+En Cuenca, **Centrosur** estableció un mismo cronograma desde el lunes 16 de diciembre hasta el jueves 19 de diciembre.
+
+A continuación, los **horarios de cortes de luz en Cuenca el lunes 16 de diciembre**:
+
+Protestas en contra de cárcel en Archidona se intensificaron; Gobernación fue tomada
+====================================================================================
+
+Quienes protestan en contra de la construcción de la cárcel en Archidona se tomaron la Gobernación de Napo, este jueves.
+------------------------------------------------------------------------------------------------------------------------
+
+![Los manifestantes se tomaron la Gobernación de Napo, este jueves](https://www.elcomercio.com/wp-content/uploads/2024/12/napo-protestas-carcel.jpg)
+
+Las **protestas** en contra de la construcción de la **cárcel** en **Archidona,** en Napo, **se intensificaron** este jueves 12 de diciembre de 2024. Organizaciones sociales e indígenas se tomaron la **Gobernación de Napo** en el día 10 de movilizaciones, como medida de rechazo a la prisión que levanta el **Gobierno**.
+
+### Más noticias
+
+* [Cárcel en Archidona: Gobierno, Asamblea y población tomaron decisiones](https://www.elcomercio.com/actualidad/ecuador/carcel-archidona-gobierno-asamblea-poblacion-decisiones.html "Cárcel en Archidona: Gobierno, Asamblea y población tomaron decisiones")
+* [Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-cambio-gobernado-napo-carcel.html "Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel")
+* [Las protestas se mantienen en Napo por la construcción de la cárcel en Archidona](https://www.elcomercio.com/actualidad/seguridad/protestas-napo-carcel-archidona.html "Las protestas se mantienen en Napo por la construcción de la cárcel en Archidona")
+
+Este jueves, se realizó la denominada **Asamblea Popular Permanente**, a la que asistieron unas 3 000 personas, entre moradores, sindicalistas y dirigentes indígenas, según informó la Confederación de Nacionalidades Indígenas del Ecuador (**Conaie**)
+
+Manifestantes se tomaron la Gobernación de Napo
+-----------------------------------------------
+
+La asociación manifestó que tras no llegar a acuerdos, “en cumplimiento a la resolución de la Asamblea, **las movilizaciones se radicalizan** con carácter regional” desde hoy.
+
+Esta advertencia se transformó en hechos. En la noche, quienes protestan en contra de la obra se tomaron el edificio donde funciona la **Gobernación** de la provincia.
+
+En videos difundidos en redes sociales se observó a los manifestantes **enfrentarse con la Policía**. Los uniformados delimitaron el lugar con barricadas, sin embargo, estas fueron derrumbadas.
+
+Los voceros de las movilizaciones señalaron que otra medida que ejecutarán, será el retomar **el cierre de** vías importantes, como el acceso al puente del **río Misahuallí**[.](https://es.wikipedia.org/wiki/Archidona_(Ecuador) "https://es.wikipedia.org/wiki/Archidona_(Ecuador)")
+
+> ⭕ [#ATENCION](https://twitter.com/hashtag/ATENCION?src=hash&ref_src=twsrc%5Etfw) | Ante la negativa del Gobierno de [#Noboa](https://twitter.com/hashtag/Noboa?src=hash&ref_src=twsrc%5Etfw) de atender la demanda de [#Napo](https://twitter.com/hashtag/Napo?src=hash&ref_src=twsrc%5Etfw), en sus 10 días de paro, los pueblos y nacionalidades amazónicos se tomaron la Gobernación, como medida de hecho ante la construcción de la cárcel de máxima seguridad en territorio indígena. [pic.twitter.com/8jPBlEj5bD](https://t.co/8jPBlEj5bD)
+> 
+> — CONFENIAE (@confeniae1) [December 13, 2024](https://twitter.com/confeniae1/status/1867381290372104418?ref_src=twsrc%5Etfw)
+
+Gobierno adjudicó la construcción de la cárcel
+----------------------------------------------
+
+El Gobierno busca construir una **segunda cárcel de máxima seguridad**, de características similares a la que ya se edifica en **Santa Elena**.
+
+La primera prisión tiene un avance de más del **30 %**, con una inversión de **52 millones de dólares.**
+
+Por su parte, el 10 de diciembre, el Servicio de Atención Integral a Personas Adultas Privadas de la Libertad (**SNAI**) adjudicó el proyecto en Archidona, pese a los reclamos.
+
+El presupuesto de la obra es de **51,97 millones de dólares**. El proceso fue declarado reservado, al igual que el de la cárcel de Santa Elena, y se adjudicó a la empresa Puentes y Calzadas Infraestructuras S.L., subsidiaria de la estatal China Road And Bridge Corporation, única invitada al proceso.
+
+**Justina Zambrano**, subsecretaria de Gobernabilidad, confirmó la noche del miércoles que el Gobierno **mantendrá el proyecto** en su ubicación actual, tras dialogar con autoridades locales.
+
+Asamblea en contra de construcción de la cárcel en Archidona
+------------------------------------------------------------
+
+El **Pleno de la Asamblea** aprobó este miércoles una resolución impulsada por la asambleísta Sandra Rueda, representante de Napo.
+
+Su pedido lo argumentó en las **preocupaciones** sociales, culturales y ambientales relacionadas con este proyecto, debido a su cercanía con la **zona urbana**.
+
+La resolución expresó **solidaridad** con el pueblo de Archidona, especialmente con niños, adolescentes y comunidades indígenas afectadas.
+
+Asimismo, se exhortó al Presidente Daniel Noboa y al SNAI a **suspender inmediatamente la obra** y a respetar los derechos constitucionales e internacionales. También se pidió desistir futuras construcciones de cárceles en Napo y la Amazonía.
+
+La moción fue aprobada con **95 votos afirmativos**.
+
+Manabí, la gran mimada en el Día de la Gastronomía ecuatoriana
+==============================================================
+
+Los chefs ecuatorianos celebraron, en el Día de la Gastronomía ecuatoriana, que Manabí fuera nombrada Región Gastronómica Mundial para 2026.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Manuela Cobo (primera de la izquierda) fue nombrada la mejor chef del 2024. en la categoría Warmi.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-86-1.jpg)
+
+La reciente oficialización de **Manabí** como **Región Gastronómica Mundial para el 2026** fue la gran noticia en el **Día de la Gastronomía Ecuatoriana,** **Productos y Alimentos Saludables,** que se celebró este 12 de diciembre del 2024. En la A**samblea Nacional,** los **chefs ecuatorianos** celebraron su día con un evento en el que se eligieron a los mejores restaurantes y cocineros del país de este año.
+
+### Más noticias
+
+* [Martín Kohan, entre el asado, el fútbol, el café y el teléfono, en La Sobremesa](https://www.elcomercio.com/sabores/kohan-asado-futbol-cafe-telefono.html "Martín Kohan, entre el asado, el fútbol, el café y el teléfono, en La Sobremesa")
+* [CATS, la buena comida de un restaurante clásico de Quito](https://www.elcomercio.com/videos/sabores-video/cats-restaurante-buena-comida-buen-ambiente.html "CATS, la buena comida de un restaurante clásico de Quito")
+* [El sabor y la bohemia se juntan en un lugar llamado La Carnicería](https://www.elcomercio.com/sabores/restaurante-la-carniceria-sabor-bohemia.html "El sabor y la bohemia se juntan en un lugar llamado La Carnicería")
+
+Manabí, la gran mimada
+----------------------
+
+El **miércoles 11 de diciembre de 2024**, el **Instituto de Gastronomía, Cultura, Arte y Turismo (IGCAT)** nombró a **Manabí** como **Región Gastronómica Mundial 2026.** Cabe destacar que es la primera zona en todo el continente americano en recibir este reconocimiento.
+
+No resultaba difícil imaginar que **Manabí** obtuviera esta distinción. El jurado del **IGCAT**, que visitó el país en noviembre, ya había reconocido el **alto valor gastronómico** de la **cocina manabita**. En particular, resaltaron su **ancestralidad**, que, además, se complementa perfectamente con la **modernidad**.
+
+Por ejemplo, el uso del horno manabita, como explicó el cocinero **Sebastián Revelli,** de **Cocosolo** en Manabí y de **Montuvia** en Quito, casi se pierde tras la llegada masiva de cocinas a kerosene y gas pasados los años 40 del siglo pasado. Sin embargo, este elemento, que ocupaba un lugar central en las familias manabitas, principalmente bajo el cuidado de las mujeres, se está recuperando con el tiempo, según destacó el chef.
+
+El **prefecto** de **Manabí**, **Leonardo Orlando**, mostró una gran emoción durante el acto oficial. Antes de que comenzara la ceremonia, fue recibido con abrazos y aplausos en la sede legislativa, lo que evidenció el entusiasmo colectivo por este logro.
+
+Finalmente, Orlando enfatizó que en **Quito** existen más de **250 establecimientos dedicados exclusivamente a la cocina manabita.** Además, muchos otros incorporan platos, ingredientes o técnicas de esta región. También destacó que el **jurado** del **IGCAT** quedó impresionado por el apoyo de los quiteños en el festival **Manabí, gastronomía milenaria,** lo que confirmó la trascendencia de los sabores ancestrales que siguen vivos en la cocina manaba.
+
+Los premiados en el Día de la Gastronomía Ecuatoriana
+-----------------------------------------------------
+
+La cita del **12 de diciembre**, fue la ocasión para que se **premiara** a los **cocineros y restaurantes** más **destacados** del año **2024**, por el **Día de la Gastronomía, Productos y Alimentos Saludables.** En el salón del antiguo Senado, cientos de chefs con sus chaquetas -o filipinas- mayormente blancos y unos cuantos negros estuvieron pendientes de las nominaciones[.](https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Ecuador "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Ecuador")
+
+Organizado por la Universidad de Los Andes y el chef Carlos Gallardo, tuvo nueve categorías. Y los siguientes fueron los premiados:
+
+**Spondylus** ( al chef revelación del año):
+
+1. Julioo Chang
+2. Patricio Mata
+3. Fabricio Medina
+
+**Warmi** (la chef del año)
+
+1. Manuela Cobo
+2. Cecilia Cedeño
+3. Gabriela Lazo
+
+**Top Chef del Año**
+
+1. Cesar Estrella
+2. Miguel Ponce
+3. Orlando Bastidas
+
+**Pablo Zambrano** (trayectoria)
+
+1. Edgar León
+2. Martha Jurado
+3. Jorge Gallegos
+
+**Ñukanchi Wasi** (chefs en el exterior)
+
+1. Manuel Pucha
+2. Alejandro Castro
+3. Pablo Maldonado
+
+**Mishki Mikuna** (restaurantes de comida tradicional)
+
+1. Fritadas Amazonas
+2. Tradición Dieguito
+3. Palacio de la Fritada
+
+**Pacha Mama** (gastronomía sustentable y con responsabilidad social)
+
+1. Rodrigo Pacheco
+2. Samuel Ortega
+3. Wilman Mejía
+
+**Pambamesa** (mejor restaurante de Ecuador)
+
+1. Zero Lab Juan Sebastián Gallardo
+2. Casa Julián: Santiago Nieto
+3. Mansión Matilde: Andrés Yunga
+
+**Yachay** (investigación gastronómica)
+
+1. Alejandro Huertas
+2. Andres Robles
+3. Jaime Erazo
+
+Luego del evento, en el bulevar de la Asamblea, hubo una **pequeña feria gastronómica,** con stands de comida de **Guayaquil**, **Imbabura**, **Santo Domingo de los Tsáchilas**, de las **escuelas de gastronomía** en el país, de huecas que ofrecieron **conejo** a la brasa, **locro**, **empanadas, hornado**, **fritada**, **mote con chicharrón asados, caldo de manguera, destilados ecuatorianos, instrumentos de cocina**, entre otros.
+
+Cierran caso de violación en el que se vinculaba a Mbappé
+=========================================================
+
+Kylian Mbappé estuvo a principios de octubre dos días en la capital sueca.
+--------------------------------------------------------------------------
+
+![Kylian Mbappé en una imagen de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/mbappe_suecia_1.jpg)
+
+La Fiscalía sueca anunció este jueves 12 de diciembre de 2024 el cierre por **falta de pruebas de la investigación preliminar** por una supuesta violación cometida en octubre en un hotel de Estocolmo en la que medios suecos vinculaban al jugador francés del Real Madrid Kylian Mbappé.
+
+“Durante la investigación se señaló a una persona como ‘**sospechosa razonable**‘ de violación y de dos casos de ofensa sexual, pero mi valoración es que las pruebas no son suficientes para continuar y por eso se cierra el caso”, señaló en un comunicado la fiscal Marina Chirakova.
+
+### Más noticias:
+
+* [Joel Ordóñez, el ecuatoriano que domina el fútbol de Bélgica](https://www.elcomercio.com/deportes/futbol/joel-ordonez-el-ecuatoriano-que-domina-el-futbol-de-belgica.html "Joel Ordóñez, el ecuatoriano que domina el fútbol de Bélgica")
+* [Chelsea goleó al FC Astana en la Conference League](https://www.elcomercio.com/deportes/futbol/chelsea-astana-conference-league-moises-caicedo.html "Chelsea goleó al FC Astana en la Conference League")
+* [Lucía Yépez es la mejor luchadora del mundo en 53 kg](https://www.elcomercio.com/deportes/otros/lucia-yepez-mejor-mundo-ranking-lucha.html "Lucía Yépez es la mejor luchadora del mundo en 53 kg")
+
+¿Cómo se involucró a Mbappé?
+----------------------------
+
+Ni en un comunicado anterior de octubre ni en este la Fiscalía menciona al jugador francés, que había sido involucrado por informaciones en varios medios suecos, negadas por él.
+
+Según la televisión pública sueca SVT, entre otros, **era Mbappé la persona que tenía la condición de “sospechoso razonable”**, el grado más bajo de sospecha en el Código Penal sueco.
+
+Mbappé estuvo a principios de octubre dos días en la capital sueca, aprovechando que tenía libre y que no había sido convocado por la selección francesa por unas molestias en el bíceps femoral de la pierna izquierda.
+
+En Estocolmo **estuvo acompañado por varios amigos y visitó restaurantes** y clubes nocturnos, según tabloides suecos, que publicaron una foto suya saliendo de un local.
+
+La Policía sueca realizó un registro en el mismo hotel donde se alojó la estrella francesa, según imágenes difundidas por medios de este país nórdico.
+
+Mbappé reaccionó en X
+---------------------
+
+“FAKE NEWS!!! Ya se convierte en previsible, **como por casualidad en la víspera de la audiencia**“, escribió el propio jugador el mismo día en la red social X, en un mensaje que concluía con el emoticono del guiño de ojo y que aludía a su litigio con el París Saint-Germain.
+
+En una reciente entrevista con Canal Plus Francia, Mbappé dijo que **“nunca” se había sentido preocupado por el caso**. 
+
+Aunque reconoció que “hay mucho ruido”, aseguró que había intentado concentrarse en su trabajo. “Si la Justicia me convoca, simplemente iré”, añadió entonces. 
+
+Mbappé desmiente que esté deprimido
+-----------------------------------
+
+“Voy a triunfar aquí”, afirmó rotundamente en días reciente sobre el Real Madrid, a pesar de sus comienzos dubitativos esta temporada, sobre los que aseguró que no sufre una depresión y que no recibe ayuda para su salud mental.
+
+En una larga entrevista con Canal Plus Francia, la estrella **madridista mostró su lado más personal y dio su versión** sobre algunas de las polémicas que le han acompañado en los últimos meses.
+
+Mbappé aseguró que una buena parte de estas polémicas se deben a que cuando se es una estrella “la gente habla por ti”.
+
+“Es por eso que hablo hoy contigo. **En un momento dado, hay que hablar.** Hace falta que la gente entienda”, señala a su entrevistador, el periodista televisivo Mouloud Achour.
+
+El delantero madridista aseguró que no sufre una depresión por su inicio de temporada en el equipo blanco, alejado de sus mejores momentos: “Ha habido momentos en que estaba fatigado, pero no deprimido”.
+
+“No he tenido períodos de descanso, **he tenido decepciones deportivas**“, añadió, antes de insistir en que los comentarios sobre una hipotética depresión “es hablar por hablar”. También aseguró que no tiene apoyo para su salud mental: “No, pero la gente está contigo. Te apoyan, es la cultura española”.
+
+El delantero francés reconoció que el Real Madrid “**no ha estado a la altura de lo que se esperaba**” en este inicio de temporada, “pero en el Real se espera a la segunda parte de la temporada. Es ahí cuando serás juzgado”.
+
+En este sentido, admitió que su enorme afán competitivo “ha jugado a veces” en su “contra”, aunque lo atribuyó “a la pasión de competir”.
+
+![EFE.](https://www.elcomercio.com/wp-content/uploads/2024/12/mbappe_suecia_2-1024x683.jpg)
+
+EFE.
+
+San viernes
+-----------
+
+Cortes de luz en Guayaquil del lunes 16 al jueves 19 de diciembre
+=================================================================
+
+Los cortes de luz en Guayaquil del lunes 16 al jueves 19 de diciembre serán de dos horas de duración para el sector residencial.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil del lunes 16 al jueves 19 los establece la CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-guayaquil-lunes-16-jueves-19-diciembre.jpg)
+
+**Guayaquil** tendrá **cortes de luz** de dos horas del **lunes 16 al jueves 19 de diciembre** de 2024, para el sector residencial.
+
+**CNEL** publicó la programación de la suspensión del servicio de energía eléctrica para la próxima semana.
+
+### Más noticias:
+
+* [Daniel Noboa anunció el fin de los apagones en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-anuncio-fin-apagones-ecuador.html "Daniel Noboa anunció el fin de los apagones en Ecuador")
+* [El embalse de la central Mazar subió dos metros en una semana](https://www.elcomercio.com/actualidad/negocios/embalse-central-mazar-subio-metros-semana.html "El embalse de la central Mazar subió dos metros en una semana")
+
+Horarios de los cortes de luz en Guayaquil del lunes 16 al jueves 19 de diciembre
+---------------------------------------------------------------------------------
+
+El presidente **Daniel Noboa** anunció que el 20 de diciembre finalizarán los cortes de luz programados por la crisis energética.
+
+El Gobierno señaló que existe una **recuperación** de capacidad instalada y la incorporación de nueva generación de energía.
+
+Además, la **compra** de energía a **Colombia** y el aumento de los caudales y los embalses que abastecen a hidroeléctricas como **Mazar** y **Paute**, que permiten tomar esta nueva medida.
+
+Así, **Ecuador** no llegaría a los tres meses de los cortes de luz programados a causa de la crisis energética por la dependencia de las **lluvias**.
+
+La suspensión de **energía eléctrica** empezó el 23 de septiembre en todo el país.
+
+A partir de esa fecha, los ecuatorianos han tenido hasta **14 horas diarias** de cortes de luz.
+
+El período diario más reducido de cortes de luz es el de la semana actual, con la suspensión del servicio de energía eléctrica de hasta **tres horas.**
+
+Sin embargo, desde la **próxima semana**, los cortes de luz están programados con **una duración de dos horas.**
+
+Son dos horas consecutivas para el **sector residencial**.
+
+Para el **sector industrial**, los cortes de luz serán de hasta seis horas consecutivas.
+
+En Guayaquil, **CNEL** estableció un mismo cronograma desde el lunes 16 de diciembre hasta el jueves 19 de diciembre.
+
+A continuación, los **horarios de cortes de luz en Guayaquil desde el lunes 16 hasta el jueves 19 de diciembre:**
+
+Quito tendrá cortes de luz de dos horas del lunes 16 al jueves 19 de diciembre
+==============================================================================
+
+Los cortes de luz en Quito del lunes 16 al jueves 19 de diciembre serán de dos horas consecutivas para el sector residencial.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Quito del lunes 16 al jueves 19 son definidos por la EEQ.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-quito-lunes-16-jueves-19-diciembre.jpg)
+
+**Quito** tendrá **cortes de luz** de dos horas del **lunes 16 al jueves 19 de diciembre** de 2024, para el sector residencial.
+
+La **Empresa Eléctrica Quito (EEQ)** publicó la programación de la suspensión del servicio de energía eléctrica para la próxima semana.
+
+### Más noticias:
+
+* [Daniel Noboa anunció el fin de los apagones en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-anuncio-fin-apagones-ecuador.html "Daniel Noboa anunció el fin de los apagones en Ecuador")
+* [El embalse de la central Mazar subió dos metros en una semana](https://www.elcomercio.com/actualidad/negocios/embalse-central-mazar-subio-metros-semana.html "El embalse de la central Mazar subió dos metros en una semana")
+
+Horarios de los cortes de luz en Quito del lunes 16 al jueves 19 de diciembre
+-----------------------------------------------------------------------------
+
+El presidente **Daniel Noboa** anunció que el 20 de diciembre finalizarán los cortes de luz programados por la crisis energética.
+
+El Gobierno señaló que existe una **recuperación** de capacidad instalada y la incorporación de nueva generación de energía.
+
+Además, la **compra** de energía a **Colombia** y el aumento de los caudales y los embalses que abastecen a hidroeléctricas como **Mazar** y **Paute**, que permiten tomar esta nueva medida.
+
+Así, **Ecuador** no llegaría a los tres meses de los cortes de luz programados a causa de la crisis energética por la dependencia de las **lluvias**.
+
+La suspensión de **energía eléctrica** empezó el 23 de septiembre en todo el país.
+
+A partir de esa fecha, los ecuatorianos han tenido hasta **14 horas diarias** de cortes de luz.
+
+El período diario más reducido de cortes de luz es el de la semana actual, con la suspensión del servicio de energía eléctrica de hasta **tres horas.**
+
+Sin embargo, desde la **próxima semana**, los cortes de luz están programados con **una duración de dos horas en la capital.**
+
+Son dos horas consecutivas para el **sector residencial**.
+
+Para el **sector industrial**, los cortes de luz siguen siendo de siete horas consecutivas.
+
+En Quito, la **Empresa Eléctrica** estableció un mismo cronograma desde el lunes 16 de diciembre hasta el jueves 19 de diciembre.
+
+A continuación, los **horarios de cortes de luz en Quito desde el lunes 16 hasta el jueves 19 de diciembre:**
+
 Cierres viales en Quito desde este 13 de diciembre ¿Cuáles son los sectores?
 ============================================================================
 
@@ -574,530 +1061,3 @@ Estas serán las **zonas más afectadas**:
 * **Región Litoral**: Mayor relevancia 12 y 13 de diciembre en la zona norte e interior la región (Esmeraldas, Santo Domingo y Los Ríos).
 * **Región Interandina**: Mayor intensidad en Carchi, Imbabura, Pichincha, Cotopaxi y Bolívar (zonas de cordillera).
 * **Región Amazónica**: Mayor intensidad en las estribaciones de la cordillera oriental (Zamora, Morona Santiago, Napo y Sucumbíos).
-
-¿Qué es Canva? 
-===============
-
-Canva es una plataforma que permite a cualquier persona crear contenido visual.
--------------------------------------------------------------------------------
-
-![Canva no necesita conocimientos avanzados. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/Canva.jpg)
-
-**Canva** es una **plataforma de diseño gráfico** en línea que permite a los usuarios crear una amplia variedad de contenido visual.  
-
-### Más noticias
-
-* [WhatsApp presenta nuevos iconos para mejorar la comunicación](https://www.elcomercio.com/tecnologia/whatsapp-iconos-actualizacion-redes-sociales.html "https://www.elcomercio.com/tecnologia/whatsapp-iconos-actualizacion-redes-sociales.html") 
-* [Los videojuegos más esperados por la comunidad ‘gamer’ en 2025](https://www.elcomercio.com/tecnologia/videojuegos-ecuador-gamer-2025.html "https://www.elcomercio.com/tecnologia/videojuegos-ecuador-gamer-2025.html") 
-
-Desde su lanzamiento en 2013 por **Melanie Perkins**, esta herramienta ha revolucionado la forma en que las personas abordan el **diseño**. Ofrece una **interfaz intuitiva y accesible**, lo que la convierte en una opción ideal tanto para principiantes como para profesionales. **Canva** permite **diseñar** desde publicaciones para **redes sociales** hasta presentaciones, infografías y logotipos, todo sin necesidad de conocimientos avanzados en **diseño gráfico**, según [SoftExplora](https://softexplora.com/canva-opiniones-y-caracteristicas "https://softexplora.com/canva-opiniones-y-caracteristicas").  
-
-La plataforma cuenta con más de **8 000 plantillas prediseñadas** que facilitan la creación de contenido. Los usuarios pueden personalizar estas plantillas según sus necesidades específicas. Además, **Canva** ofrece acceso a una **vasta biblioteca** de imágenes, gráficos y elementos multimedia, muchos de los cuales son gratuitos, a decir de [Educational](https://educational.tools/es/canva-caracteristicas-ventajas-e-inconvenientes-y-tutorial/ "https://educational.tools/es/canva-caracteristicas-ventajas-e-inconvenientes-y-tutorial/").  
-
-**Características principales** 
---------------------------------
-
-* **Interfaz amigable:** La **interfaz de Canva** es extremadamente intuitiva. Los usuarios pueden arrastrar y soltar elementos fácilmente, lo que **simplifica el proceso de diseño**. Esta facilidad de uso **ha contribuido a su popularidad**, con aproximadamente 185 millones de usuarios activos mensuales en todo el mundo, siguiendo con Educational. 
-
-* **Variedad de formatos:** Canva permite **crear diferentes tipos de contenido**, desde gráficos para **redes sociales** hasta presentaciones y materiales educativos. Esto hace que sea una herramienta versátil para diversos propósitos 
-
-* **Opciones gratuitas y premium:** La plataforma ofrece un **modelo ‘freemium’**. Esto significa que los usuarios pueden **acceder a muchas funciones sin costo alguno**, aunque también existe la opción de suscribirse a **planes premium** para obtener características adicionales. 
-
-**Ventajas de usar Canva** 
----------------------------
-
-* **Accesibilidad:** La **versión gratuita** incluye muchas funciones útiles, lo que permite a pequeñas empresas y emprendedores acceder a herramientas profesionales sin gastar dinero. 
-
-* **Colaboración en tiempo real:** Canva permite que **varios usuarios trabajen juntos** en un mismo proyecto, lo que facilita la colaboración entre equipos. 
-
-* **Amplia biblioteca de recursos:** Los usuarios tienen acceso a una **extensa colección** de imágenes, videos y elementos gráficos que pueden utilizar en sus diseños. 
-
-* **Aplicaciones móviles:** Canva está disponible tanto en **versión web** como en a**plicaciones móviles** para iOS y Android, lo que permite diseñar sobre la marcha. 
-
-**Desventajas a considerar** 
------------------------------
-
-A pesar de sus muchas ventajas, Canva también presenta algunas limitaciones, a decir de Educational: 
-
-* **Calidad del contenido:** Aunque Canva es excelente para **diseños simples**, puede no ser la mejor opción para proyectos que requieren un **alto nivel de complejidad** o calidad profesional. 
-
-* **Funciones limitadas en la versión gratuita:** Aunque la **versión gratuita** es bastante completa, algunos recursos y **herramientas avanzadas** solo están disponibles mediante suscripción. 
-
-* **Limitaciones en integraciones:** Aunque Canva se integra con varias plataformas, la gama de aplicaciones y servicios compatibles puede ser **algo limitada** en comparación con otras herramientas más robustas. 
-
-### Te recomendamos:
-
-(Video) Nilson Angulo anota y gana en Europa League
-===================================================
-
-Nilson Angulo anotó su primer gol de la temporada con el RSC Anderlecht de Bélgica y le dio el triunfo en la UEFA Europa League.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Nilson Angulo (centro) celebra su gol en la UEFA Europa League con el RSC Anderlecht.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-12T165850.390.jpg)
-
-La **UEFA Europa League** contó con una novedad ecuatoriana dentro de su sexta fecha de la primera ronda. **Nilson Angulo**, futbolista tricolor del RSC Anderlecht, consiguió anotar en el certamen y le dio el triunfo a su equipo.
-
-Aún sin asegurar la clasificación directa hacia los octavos de final del certamen, pero sí en la zona alta de la tabla, el DT **David Hubert** decidió confiar en el ecuatoriano para el antepenúltimo duelo de la fase inicial. Angulo **partió como titular** en lo que fue su cuarto partido dentro del certamen y el número 15 de la temporada 2024-2025 con los belgas.
-
-### Más noticias:
-
-* [El Manchester United sufre, pero gana en Europa League](https://www.elcomercio.com/deportes/manchester-united-europa-league-rangers.html "El Manchester United sufre, pero gana en Europa League")
-* [Kevin Rodríguez logró victoria agónica en Europa League](https://www.elcomercio.com/deportes/kevin-rodriguez-logro-victoria-agonica-en-europa-league.html "Kevin Rodríguez logró victoria agónica en Europa League")
-* [Calendario de ecuatorianos en Conference y Europa League](https://www.elcomercio.com/deportes/futbol/calendario-de-ecuatorianos-en-conference-y-europa-league.html "Calendario de ecuatorianos en Conference y Europa League")
-
-Pese a que durante la vigente campaña sí había contado con regularidad, **Nilson Angulo** aún no se había encontrado con el gol. Dentro de sus números, solo contabilizaba una asistencia, pero estaba por cambiar en los primeros minutos del nuevo encuentro.
-
-El rival a vencer para el ecuatoriano y el **Anderlecht** era el **Slavia Praga** de República Checa, al cual se enfrentaban como visitantes. El ecuatoriano apareció para poner su primer tanto en la temporada y el gol que sería determinante en un resultado a favor de 1-2[.](https://en.wikipedia.org/wiki/R.S.C._Anderlecht "https://en.wikipedia.org/wiki/R.S.C._Anderlecht")
-
-El gol de Nilson Angulo en la UEFA Europa League
-------------------------------------------------
-
-**Nilson Angulo** apareció para bordar su nombre en el marcador y poner el tanto inicial a los ocho minutos de juego. Este se ubicó como extremo por la banda izquierda y desde aquel sector logró elucubrar la anotación.
-
-Después de una alta presión, **Angulo** forzó el error de la defensa y recuperó la pelota, que quedó libre en campo contrario e ingresó al área rival. Pese a que el centrodelantero esperaba, este se distanció y confundió a los rivales, de manera que el ecuatoriano aprovechó su velocidad para llegar al esférico.
-
-Pese a que el arquero del **Slavia Praga** se posicionó y salió a achicar al tricolor, sus esfuerzos fueron en vano. Nilson Angulo ya había visualizado el espacio y **tiró a colocar**. La pelota agarró curva en su trayectoria y se metió en el fondo de las redes.
-
-> ¡FESTEJO ECUATORIANO!  
->   
-> 🇪🇨 Nilson Angulo robó el balón en campo contrario y definió con tranquilidad, para poner a ganar a Anderlecht en su visita a Slavia Praga  
->   
-> ▶️ Más 🏆 [#EuropaLeague](https://twitter.com/hashtag/EuropaLeague?src=hash&ref_src=twsrc%5Etfw) en [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/KmxhQ24ssa](https://t.co/KmxhQ24ssa)
-> 
-> — ESPN Ecuador (@ESPNEcuador) [December 12, 2024](https://twitter.com/ESPNEcuador/status/1867302697356902879?ref_src=twsrc%5Etfw)
-
-El triunfo del RSC Anderlecht
------------------------------
-
-Después del tanto de Nilson Angulo, el Anderlecht amplió el marcador a los 31 minutos por intermedio **Yari Verschaeren**. Con el 2-0, el conjunto belga consiguió establecer diferencias ante el **Slavia Praga.**
-
-Aunque el conjunto local consiguió el descuento por medio de **Tomas Chory**, este no volvió a vulnerar la valla del cuadro del ecuatoriano. Con el triunfo, el Anderlecht sumó 30 puntos y se ubicó en el tercer puesto de la tabla de posiciones.
-
-‘Heretic’, una película de terror psicológico que desafía la fe
-===============================================================
-
-Es una película que promete mantener al público al borde del asiento desde el primer minuto.
---------------------------------------------------------------------------------------------
-
-![Hugh Grant protagoniza 'Heretic'.](https://www.elcomercio.com/wp-content/uploads/2024/12/heretic-El-Comercio.jpg)
-
-‘Heretic’ es una película de **terror psicológico** que llega a los cines de **Ecuador** el 12 de diciembre de 2024.
-
-La cinta se centra en dos misioneras de La Iglesia de Jesucristo de los Santos de los Últimos Días que intentan convertir a un solitario inglés.
-
-### Más noticias
-
-* **[‘Producciones de Ensueño’ llega a Disney+: ¿repetirá el éxito de ‘Intensamente’ o será una más entre las series basadas en películas?](https://www.elcomercio.com/afull/creaciones-de-ensueno-disney-intensamente.html "https://www.elcomercio.com/afull/creaciones-de-ensueno-disney-intensamente.html")**
-* **[Benny Blanco no es el verdadero nombre del futuro esposo de Selena Gomez](https://www.elcomercio.com/afull/benny-blanco-selena-gomez.html "https://www.elcomercio.com/afull/benny-blanco-selena-gomez.html")**
-
-Sin embargo, pronto descubren que él es mucho más peligroso de lo que parece.
-
-Un escenario de claustrofobia y tensión
----------------------------------------
-
-La historia se desarrolla en una casa aislada, lo cual crea un ambiente claustrofóbico y lleno de tensión.
-
-El personaje principal, el Sr. Reed, interpretado por Hugh Grant, es un hombre encantador, pero con un lado oscuro que atrapa a las misioneras en un juego mortal. Este escenario recuerda a una “caja de rompecabezas”, donde cada rincón puede ocultar una trampa. 
-
-La mezcla de terror y comedia en ‘Heretic’ ofrece una experiencia única y aborda temas complejos como la fe y la autodeterminación.
-
-Desde su estreno mundial en el Festival Internacional de Cine de Toronto el 8 de septiembre de 2024, ‘Heretic’ ha sido aclamada por su originalidad y profundidad temática.
-
-Reflexión, fe y una mezcla única de terror
-------------------------------------------
-
-La crítica ha destacado cómo la película utiliza la religión como un medio para explorar las sombras del ser humano. La productora Stacey Sher menciona que “es una película valiente”, ya que cuestiona creencias profundamente arraigadas mientras mantiene al público al borde del asiento.
-
-El guion está lleno de diálogos inteligentes y provocativos que invitan a la reflexión sobre el libre albedrío y la predestinación. A pesar de su tono oscuro, hay momentos de humor que equilibran la tensión. 
-
-Las actuaciones son otro punto fuerte; Hugh Grant se destaca como un villano carismático y crea una atmósfera inquietante que deja huella en la audiencia.
-
-¿Qué esperar de ‘Heretic’ en la pantalla grande?
-------------------------------------------------
-
-Con una duración de 1 hora y 50 minutos, la película combina un guion audaz con un diseño de producción detallado. Los expertos la comparan con obras de suspense psicológico como _El Orfanato_ y _La otra vuelta de tuerca_.
-
-Gracias a una dirección cuidadosa y la participación de un elenco sólido, _‘Heretic’_ promete convertirse en una experiencia única para el público ecuatoriano. Si eres fanático del terror psicológico y las historias que exploran dilemas humanos, no te puedes perder esta cinta.
-
-Comisión de Fiscalización se refirió al juicio político de Juan Esteban Guarderas
-=================================================================================
-
-Comisión de Fiscalización ratifica la legalidad de la notificación y rechaza las afirmaciones sobre falta de notificación en juicio político.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Comisión de Fiscalización para tratar el tema del juicio político a Esteban Guarderas.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-12T164805.883.jpg)
-
-La **Comisión de Fiscalización de la Asamblea Nacional** inició la práctica de prueba en el juicio político contra **Juan Esteban Guarderas,** vocal del Cpccs, este jueves 12 de diciembre. La sesión se llevó a cabo sin la presencia del acusado, quien habría presentado **dos acciones de protección para suspender el proceso**.
-
-### Más noticias
-
-* [Comisión de Fiscalización tomó una decisión sobre el juicio político a Esteban Guarderas](https://www.elcomercio.com/actualidad/politica/comision-fiscalizacion-califico-juicio-politico-esteban-guarderas-cpccs.html "Comisión de Fiscalización tomó una decisión sobre el juicio político a Esteban Guarderas")
-* [Andrea Arrobo tomó una decisión sobre el juicio político en el Pleno de la Asamblea](https://www.elcomercio.com/actualidad/politica/andrea-arrobo-decision-juicio-politico-pleno-asamblea.html "Andrea Arrobo tomó una decisión sobre el juicio político en el Pleno de la Asamblea")
-* [Correísmo pierde impulso y acumula tres derrotas en la Asamblea Nacional](https://www.elcomercio.com/actualidad/politica/correismo-pierde-impulso-acumula-tres-derrotas-asamblea-nacional.html "Correísmo pierde impulso y acumula tres derrotas en la Asamblea Nacional")
-
-Pamela Aguirre, presidenta de la comisión, denunció estas acciones como intentos de intimidación para evitar el cumplimiento de su deber fiscalizador. La interpelante **Ana Herrera presentó pruebas contra Guarderas**, acusándolo de **violar la reserva de información, falsificar una firma y beneficiarse de su cargo**.
-
-Guarderas afirmó que no fue notificado por **ningún canal oficial** y denunció la violación de su derecho a la defensa. Según el reglamento, la práctica de pruebas debe garantizar la presencia de todas las partes, lo que **no ocurrió en este caso**.
-
-> Ahora  
-> Sigue el desarrollo de la sesión de la Comisión de [@FiscalizacionAN](https://twitter.com/FiscalizacionAN?ref_src=twsrc%5Etfw) [#JuicioPolítico](https://twitter.com/hashtag/JuicioPol%C3%ADtico?src=hash&ref_src=twsrc%5Etfw) ➡️[https://t.co/F0z4MjkwZ0](https://t.co/F0z4MjkwZ0) [pic.twitter.com/JE1LYKlti4](https://t.co/JE1LYKlti4)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [December 12, 2024](https://twitter.com/AsambleaEcuador/status/1867319658275340510?ref_src=twsrc%5Etfw)
-
-Mientras tanto, Aguirre aseguró que la Comisión continuará con el juicio, **rechazando la injerencia judicial y medidas cautelares que obstaculicen el proceso**. Señaló que el acusado podrá ejercer su defensa en la etapa final del trámite, prevista para el 14 de diciembre.
-
-Ana Herrera lamentó la ausencia de Guarderas y criticó su uso de instituciones públicas para evadir el proceso. Rechazó las **represalias judiciales y políticas** contra quienes ejercen fiscalización, mencionando acciones similares en su contra.
-
-Tras la audiencia de alegatos, la Comisión elaborará un informe para el pleno de la Asamblea. Este caso ha generado tensiones entre funciones del Estado y reacciones sobre el rol de la justicia en procesos legislativos.
-
-Pronunciamiento de la Comisión de Fiscalización sobre juicio político
----------------------------------------------------------------------
-
-La **Comisión de Fiscalización y Control Político** notificó al consejero del Consejo de Participación Ciudadana y Control Social, **Juan Esteban Guarderas Cisneros**, sobre la resolución que calificó la solicitud de **juicio político en su contra**.
-
-Según el comunicado, esta notificación se realizó de **manera debida y legal**, en cumplimiento de los procedimientos establecidos.
-
-De acuerdo con el documento, el **consejero presentó su contestación el 10 de diciembre de 2024**, último día del plazo otorgado, adjuntando **pruebas documentales** y anunciando el uso de prueba testimonial.
-
-Además, la Comisión destacó que el enjuiciado **fue informado de todas las convocatorias relacionadas con el proceso**, a través del mismo correo electrónico al que fue enviada la resolución.
-
-> En el marco del juicio político al Consejero del Consejo de Participación Ciudadana y Control Social, esta Comisión informa ⤵️ [pic.twitter.com/p6M8Ay9o49](https://t.co/p6M8Ay9o49)
-> 
-> — Fiscalización AN (@FiscalizacionAN) [December 12, 2024](https://twitter.com/FiscalizacionAN/status/1867319816446488744?ref_src=twsrc%5Etfw)
-
-La Comisión rechazó las afirmaciones del procesado respecto a una **supuesta falta de notificación, argumentando que existen pruebas que contradicen esas declaraciones**. Asimismo, ratificó su compromiso con el cumplimiento de sus **atribuciones constitucionales y legales**, garantizando el derecho a la defensa y el debido proceso en el marco del juicio político.
-
-Respuesta de Juan Esteban Guarderas
------------------------------------
-
-El consejero del Consejo de Participación Ciudadana y Control Social, Juan Esteban Guarderas, emitió un comunicado el 12 de diciembre de 2024, en el que señaló que sus **derechos han sido vulnerados durante el proceso de juicio político en su contra**. Guarderas enumeró una serie de irregularidades que, según él, comprometen la **legalidad del procedimiento**.
-
-Entre las irregularidades mencionadas, afirmó que **no se permitió el acceso de su abogado a la Asamblea Nacional**, lo que impidió la entrega física de sus pruebas de defensa. Asimismo, indicó que las firmas presentadas para justificar el juicio **no fueron validadas en su totalidad**.
-
-> 🚨 ALERTA: Vulneración completa. [pic.twitter.com/AnL8x3Iryx](https://t.co/AnL8x3Iryx)
-> 
-> — Juan E. Guarderas (@JuanEGuarderas) [December 12, 2024](https://twitter.com/JuanEGuarderas/status/1867332489649574393?ref_src=twsrc%5Etfw)
-
-Guarderas también **aseguró que no fue convocado de manera adecuada**, en incumplimiento de los procedimientos establecidos. Además, señaló que se alteró el orden de **comparecencia de los testigos**, a pesar de que las convocatorias especificaban horarios presenciales para cada uno.
-
-En el comunicado, el consejero denunció que durante la intervención de un testigo vinculado a la contraparte, se evidenció cómo le **soplaban el testimonio**. Finalmente, afirmó que se le negó completamente el **derecho a hablar y defenderse**, lo que calificó como un impedimento para ejercer su legítima defensa.
-
-Guarderas concluyó que estas acciones **vulneran el debido proceso** y señaló que continuaría utilizando todas las vías legales disponibles para defender sus derechos.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Sin acuerdo sobre el salario básico de 2025, ¿quién decidirá?
-=============================================================
-
-El salario básico en Ecuador lo determina el Consejo Nacional de Trabajo y Salarios. Si no hay consenso, el Ministerio de Trabajo fija el monto.
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La segunda reunión del Consejo de Salarios se realiza esta 12 de diciembre de 2024, en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/salarios-121224.jpg)
-
-La tarde de este jueves 12 de diciembre de 2024 se realizó la segunda reunión del Consejo Nacional de Trabajo y Salarios para definir el salario básico unificado (SBU) del 2025. Las autoridades, los empresarios y trabajadores no llegaron a un acuerdo, el Ministerio del Trabajo determinará la remuneración para próximo año[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios](https://www.elcomercio.com/actualidad/negocios/ley-de-alivio-financiero-en-ecuador-puntos-clave-y-fecha-de-acceso-a-los-mas-de-20-beneficios.html "Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios")
-* [La morosidad sigue en aumento en Ecuador debido al desempleo y la crisis económica](https://www.elcomercio.com/actualidad/negocios/la-morosidad-sigue-en-aumento-en-ecuador-debido-al-desempleo-y-la-crisis-economica.html "La morosidad sigue en aumento en Ecuador debido al desempleo y la crisis económica")
-* [El FMI y Ecuador llegan a nuevo acuerdo, ¿cuánto dinero recibirá el país?](https://www.elcomercio.com/actualidad/negocios/fmi-ecuador-llegan-nuevo-acuerdo-cuantos-millones-dolares-recibira-el-pais.html "El FMI y Ecuador llegan a nuevo acuerdo, ¿cuánto dinero recibirá el país?")
-
-¿Cómo es proceso para determinar el salario básico en Ecuador?
---------------------------------------------------------------
-
-Según el Código del Trabajo, el **salario básico** es la retribución económica mínima que debe recibir una persona por su trabajo de parte de su empleador. Este no incluye aquellos ingresos en dinero, especie o en servicio, que perciba por razón de trabajos extraordinarios y suplementarios, comisiones, participación en beneficios, los fondos de reserva, el porcentaje legal de utilidades, los viáticos, etc.
-
-El salario básico lo define el Consejo Nacional de Trabajo y Salarios. Este es un **organismo tripartito** y está integrado por e**l Ministro del Trabajo o el Viceministro de Trabajo**, quien lo preside. Además, de dos representantes de las **organizaciones de empleadores** y dos representantes de las organizaciones más representativas de trabajadores a nivel nacional.
-
-Criterio de los trabajadores
-----------------------------
-
-El Frente Unitario de Trabajadores (FUT) se mantuvo desde la primera reunión del Consejo, realizada el 5 de diciembre pasado, en un incremento de 104 dólares respecto al salario actual de 460 dólares. Es decir, buscaban llegar a un SBU de 564 dólares para 2025. Según el gremio, el monto busca cubrir el costo de la canasta básica vital y mejorar la capacidad adquisitiva de los trabajadores.
-
-En este sentido, **Luis Cherres Arana**, presidente de los Sindicatos de las Prefecturas del Ecuador, destacó la necesidad de revisar el salario básico para 2025, asegurando que los trabajadores requieren mejores remuneraciones para dinamizar la economía del país.
-
-Criterio de los empleadores
----------------------------
-
-Por su parte, los representantes del sector empresarial rechazaron la propuesta argumentando que las actuales condiciones económicas del país no son favorables para un incremento de esa magnitud. Señalaron que el alza del salario generaría mayores costos operativos, lo que podría afectar la sostenibilidad de las empresas y comprometer la generación de empleo.
-
-El grupo empresarial propuso un incremento de cuatro dólares.
-
-Tras no llegar a un consenso en la negociación, el Ministerio de Trabajo será el encargado de definir el monto para 2025.
-
-¿Qué dicen los expertos?
-------------------------
-
-Para **Vanessa Velásquez,** experta en temas laborales, el incremento del salario básico para 2025 debería ser máximo 10 dólares, “si la resolución del incremento del salario básico es técnico y no político”. El monto corresponde más o menos al 2,2% de incremento, que es la **proyección de inflación** para el año que viene.
-
-Si el objetivo es alinearse con una campaña política para favorecer una posible reelección presidencial, podría darse un incremento considerable. Pero esto resultaría contraproducente, señaló la experta. “Esto generaría una crisis laboral más grave, dificultando la contratación formal debido a los altos costos asociados al salario y a la seguridad social. La medida impulsaría la informalidad”, anulando los esfuerzos del gobierno en su plan de generación de empleo, cuyos resultados aún no son visibles”, dijo.
-
-Cortes de luz en Guayaquil este viernes 13 de diciembre
-=======================================================
-
-Los cortes de luz en Guayaquil son de hasta tres horas este viernes 13 de diciembre.
-------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil para este viernes 13 de diciembre son definidos por CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-guayaquil-viernes-13-diciembre.jpg)
-
-Los **cortes de luz** en **Guayaquil** este **viernes 13 de diciembre** de 2024 son de tres horas para el sector residencial.
-
-La **CNEL** definió la programación para mañana.
-
-### Más noticias:
-
-* [Daniel Noboa anunció el fin de los apagones en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-anuncio-fin-apagones-ecuador.html "Daniel Noboa anunció el fin de los apagones en Ecuador")
-* [El embalse de la central Mazar subió dos metros en una semana](https://www.elcomercio.com/actualidad/negocios/embalse-central-mazar-subio-metros-semana.html "El embalse de la central Mazar subió dos metros en una semana")
-
-Horarios de cortes de luz en Guayaquil este jueves 12 de diciembre
-------------------------------------------------------------------
-
-Ecuador está a nueve días de que se cumpla la palabra del **presidente Daniel Noboa** de que ya no existirán cortes de luz luego del **20 de diciembre**.
-
-La suspensión del **servicio** de energía eléctrica en el país empezó, de forma programada, el 23 de septiembre.
-
-La dependencia de las lluvias para la generación de **energía eléctrica** se convirtió en la principal causa de la crisis energética.
-
-En este tiempo, el Gobierno de **Daniel Noboa** intentó reducir los cortes de luz. Sin embargo, la grave **sequía** se mantuvo.
-
-Ecuador tuvo cortes de hasta **14 horas diarias,** tras intentar reducir de 10 a ocho horas.
-
-La mayor reducción se ha dado justamente en esta semana, con cortes de **hasta tres horas**.
-
-El **Gobierno** anunció el fin de los apagones por varios factores.
-
-El incremento de las lluvias mejoró el nivel de los caudales y embalses que abastecen a las **hidroeléctricas** en los últimos días.
-
-Las inversiones emergentes en la reactivación o activación de **proyectos energéticos** emergentes.
-
-Esto, con el fin de repotenciar del **Sistema Nacional Interconectado** o la diversificación de la matriz energética.
-
-Además, el intercambio de energía a **Colombia**, luego de las negociaciones impulsadas por las autoridades.
-
-Mientras el 20 de diciembre llega, los cortes de energía para esta semana, en Guayaquil y todo el país, continúan con hasta tres horas de duración para el **sector residencial**.
-
-Mientras, en el **sector industrial**, los cortes también son de hasta tres horas de duración.
-
-A continuación, los **cortes de luz en Guayaquil este viernes 13 de diciembre de 2024**:
-
-¿Vas a viajar? Estas medidas protegerán tu casa de robos en Quito
-=================================================================
-
-Estas recomendaciones de un experto ayudarán a proteger tu casa durante un viaje.
----------------------------------------------------------------------------------
-
-![El robo de casas es un delito de oportunidad.](https://www.elcomercio.com/wp-content/uploads/2024/12/Robo-casas-Quito.jpg)
-
-Las vacaciones de **Navidad** y **Año** **Nuevo** están por comenzar, y muchas personas optan por viajar durante estas festividades y dejan sus hogares desocupados[.](https://es.wikipedia.org/wiki/Robo "https://es.wikipedia.org/wiki/Robo")
-
-Más noticias
-------------
-
-* [Vacaciones escolares por Navidad y Año Nuevo se extendieron, ¿cómo se recuperarán?](https://www.elcomercio.com/actualidad/ecuador/vacaciones-escolares-navidad-nuevo-extendieron-recuperaran.html "Vacaciones escolares por Navidad y Año Nuevo se extendieron, ¿cómo se recuperarán?")
-* [Vacaciones de Navidad y Año Nuevo: fechas y actividades para estudiantes en Ecuador](https://www.elcomercio.com/actualidad/ecuador/vacaciones-navidad-nuevo-fechas-actividades-estudiantes-ecuador.html "Vacaciones de Navidad y Año Nuevo: fechas y actividades para estudiantes en Ecuador")
-* [Pirotecnia en Navidad; consejos, normativa y los riesgos en Ecuador](https://www.elcomercio.com/actualidad/seguridad/pirotecnia-fiestas-consejos-normativa-riesgos.html "Pirotecnia en Navidad; consejos, normativa y los riesgos en Ecuador")
-
-En diciembre de 2023, se reportaron 78 **robos** a **domicilios** en Quito, de un total de 1 131 registrados a lo largo del año. En 2024, hasta septiembre, ya se contabilizan 665 casos, según el informe de seguridad de la ciudad.
-
-Robos a casas en Quito
-----------------------
-
-Medidas para cuidar la casa
----------------------------
-
-El experto en riesgos, **Cristian** **Rivera**, señala varias medidas para prevenir robos en **viviendas**. Entre sus recomendaciones, destaca que **no se debe anunciar** públicamente la intención de **salir de viaje**, ya que los robos suelen ser delitos de oportunidad y pueden ser facilitados por personas que realizan seguimientos.
-
-Rivera sugiere informar a una Unidad de Policía Comunitaria (**UPC**) cercana sobre la ausencia para que puedan patrullar la zona.
-
-Si se cuenta con un vecino de confianza, es útil alertarlo sobre el **viaje** y pedirle que supervise la **vivienda**. Otra opción es delegar el cuidado del inmueble a un **familiar** que no participe del **viaje**.
-
-Además, recomienda instalar **medidas de seguridad** como **cercas** **eléctricas** y **sirenas**, que actúan como **elementos** **disuasivos**.
-
-También es importante reportar a la **Policía** la presencia de **vehículos** **sospechosos** en el barrio, que podrían estar realizando vigilancia previa.
-
-El experto enfatiza la importancia de contar con un **botón** de **pánico** en el celular para que la persona encargada de **cuidar la casa** pueda alertar en caso de **emergencia**.
-
-Por último, Rivera destaca que la **solidaridad entre vecinos** y **familiares** es clave para prevenir estos delitos.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-La agenda de conciertos de diciembre en Quito
-=============================================
-
-Te compartimos las fechas y horarios de los últimos conciertos del año.
------------------------------------------------------------------------
-
-![En la agenda hay música para todos los gustos. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-12T170129.986.jpg)
-
-Música para todos los gustos sonará este diciembre en **Quito**. En la agenda hay shows de cantantes nacionales e internacionales. 
-
-### **Más noticias**:
-
-* [En la lista de las 100 mejores canciones de 2024 de la Rolling Stone hay talento latino](https://www.elcomercio.com/tendencias/entretenimiento/100-mejores-canciones-rolling-stone.html "https://www.elcomercio.com/tendencias/entretenimiento/100-mejores-canciones-rolling-stone.html")
-* [Karol G alista un sencillo con toque iraní](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-estreno-nueva-cancion-toque-irani.html?source=Internal&ref=Single+Content+Link")
-* [Karol G y los superpoderes que la posicionaron como la ‘reina’ de la música latina](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-superpoderes-reina-musica-latina.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-superpoderes-reina-musica-latina.html?source=Internal&ref=Single+Content+Link")
-
-**La agenda de conciertos de diciembre en Quito**
--------------------------------------------------
-
-Para el próximo 27 de diciembre, a las 20:00, está previsto el último concierto del año de **Papaya Dada**.
-
-La agrupación ecuatoriana se presentará en La Bikina. Las entradas se venden en línea, en la página de Buen Plan. 
-
-> [View this post on Instagram](https://www.instagram.com/reel/DCDJ04JvSlI/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Papaya Dada (@papayadada)](https://www.instagram.com/reel/DCDJ04JvSlI/?utm_source=ig_embed&utm_campaign=loading)
-
-**Música en Cumbayá**
----------------------
-
-Los españoles **Jay Nortown y Jacobo Saavedra** se presentarán el próximo 21 de diciembre en el Sabai de Cumbayá.
-
-El dúo musical innovador es conocido por fusionar géneros como el pop, la electrónica y el indie.
-
-Jay Nortown, con su estilo vocal único y una capacidad para conectar emocionalmente con su audiencia, se unió a Jacobo Saavedra, un talentoso productor y compositor que aporta una visión fresca y moderna a su sonido. 
-
-Juntos crearon una propuesta sonora distintiva que explora tanto la melancolía como la energía positiva. Su música destaca por la sofisticación de sus arreglos, las melodías envolventes y las letras introspectivas.
-
-**Tributo al rock latino**
---------------------------
-
-La música de Soda Stereo, Enanitos Verdes, Charlie, Fito, Molotov, Café Tacuba, Caifanes, Illya Kuriaki sonará este 21 de diciembre, desde las 21:00, en La Estación.
-
-Las entradas se venden en la página web de Buen Plan. 
-
-Alexander Domínguez jugó 16 finales con Liga de Quito
-=====================================================
-
-Alexander Domínguez será titular ante Independiente del Valle en la final de la Liga Pro.
------------------------------------------------------------------------------------------
-
-![Alexander Domínguez en la final de la Liga Pro 2023.](https://www.elcomercio.com/wp-content/uploads/2024/12/dida_finales_1.jpg)
-
-**Alexander Domínguez** se unió a Liga de Quito en el 2006. Luego de 18 años es uno de los jugadores históricos del plantel de los capitalinos y de los más ganadores que se han puesto la camiseta blanca.
-
-La participación de **Alexander Domínguez en Liga de Quito tuvo un receso desde el primer semestre de 2016** hasta el primer semestre de 2022. En ese tiempo jugó en equipo de México, Argentina, Uruguay y Colombia, antes de retornar.
-
-### Más noticias:
-
-* [Independiente ganó la Sudamericana 2019 antes de jugarla](https://www.elcomercio.com/deportes/pablo-lavallen-independiente-campeon-sudamericana.html "Independiente ganó la Sudamericana 2019 antes de jugarla")
-* [El estadio de Independiente del Valle recibió dos finales](https://www.elcomercio.com/deportes/futbol/estadio-independiente-valle-finales-nacionales.html "El estadio de Independiente del Valle recibió dos finales")
-* [Liga de Quito va por el tercer bicampeonato de su historia](https://www.elcomercio.com/deportes/liga-quito-bicampeonatos-historia-final-independiente.html "Liga de Quito va por el tercer bicampeonato de su historia")
-
-El camino de Domínguez a la titularidad
----------------------------------------
-
-Domínguez no tuvo fácil el trayecto que recorrió para ser considerado el número uno de Liga de Quito.
-
-En sus primeros **pasos se encontró con Christian Mora**, mundialista de Ecuador y titular en Alemania 2006, tanto en la fase de grupos y en los octavos de final.
-
-En 2007 se ganó la titularidad y **llegó a instaurar un récord de 719 minutos sin recibir goles**, quedando muy cerca del argentino Pablo Santillo (Barcelona SC) que en 2008 marcó 795 minutos invicto; y de Jacinto Espinoza que alcanzó los 833 minutos en su paso por Delfín y Emelec entre 1993 y 1994.
-
-Sin embargo, en diciembre de ese año recibió una sanción por parte de la Comisión Disciplinaria de la Federación Ecuatoriana de Fútbol (FEF) por una “suplantación de identidad”. En un principio fue por dos años, pero finalmente se redujo a seis meses.
-
-En 2008 **no tuvo minutos en la consecución del título de la Copa Libertadores de 2008**. José Francisco Cevallos, el primer arquero mundialista de Ecuador en Corea-Japón 2002, fue la gran figura y el principal competidor de ‘Dida’ por la titularidad.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/dida_finales_2-1024x683.jpg)
-
-API.
-
-La finales de Domínguez
------------------------
-
-2009: La primera y segunda final de ‘Dida’ fue en la **Recopa Sudamericana** ante Internacional de Porto Alegre.
-
-Jugó de titular en la victoria 0-1 en Beira-Rio y en el 3-0 en la vuelta en el Rodrigo Paz Delgado.
-
-La particularidad fue que en la **revancha estuvo en cancha 63 minutos** y fue sustituido por Cevallos cuando el título ya estaba asegurado.
-
-2009: Las finales tres y cuatro **fueron ante Fluminense en la Copa Sudamericana**. El global fue de 5-4 en favor de los ecuatorianos.
-
-2010: La **quinta final fue en la Suruga Bank**. En el tiempo regular el marcador fue de 2-2 y en los lanzamientos penales los japones del FC Tokyo ganaron la copa por 6-5.
-
-2010: Fue titular en la ida de la **Recopa Sudamericana** sumando su sexta definición ante Estudiantes de La Plata.
-
-En el Rodrigo Paz Delgado ganaron 2-1. En la vuelta el marcador fue 0-0, los albos ganaron su segundo trofeo de la competencia, pero el esmeraldeño fue suplente y dio su lugar a Cevallos.
-
-2011: **Fue protagonista de su séptima y octava final.** Universidad de Chile ganó con un global de 4-0.
-
-2015: Perdió un nuevo título, pero esta vez del campeonato nacional. Emelec se llevó la serie de finales por un global de 3-1. El arquero ya **sumaba a su palmarés su novena y décima definición**.
-
-2023: Sumó su final 11 ante **Fortaleza de Brasil por la Copa Sudamericana.** El encuentro terminó empatado 1-1 y en los penales atajó tres para sellar el 5-4 en favor de los quiteños.
-
-2023: **Acumuló las finales 12 y 13 de su cuenta personal**. En el tiempo regular el marcador fue 1-1 ante Independiente del Valle. En los lanzamiento penales atajó dos y Liga ganó la estrella 12 del campeonato nacional por 3-0.
-
-2024: Se jugaron las **finales de la Recopa Sudamericana ante Fluminense.** La número 14 se cerró con victoria alba por 1-0 y la 15 con triunfo brasileño de 2-0 y el consecuente título.
-
-2024: La final **16 de ‘Dida’ fue en la ida de la Liga Pro**. Fue clave para el 3-0 en el Rodrigo Paz Delgado ante el mismo IDV.
-
-La final 17 se disputará el sábado 14 de diciembre, desde las 15:30, en el estadio de los del Valle.
-
-En resumen, con la participación de Domínguez, Liga ganó los títulos de la Liga Pro 2023, la Copa Sudamericana 2009 y 2023, la Recopa Sudamericana 2009 y 2010.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/dida_finales_3-1024x683.jpg)
-
-API.
-
-San viernes
------------
-
-WhatsApp presenta nuevos iconos para mejorar la comunicación 
-=============================================================
-
-WhatsApp introduce tres nuevos iconos: ondas de sonido, chats de voz y un micrófono.
-------------------------------------------------------------------------------------
-
-![Meta introduce nuevos iconos en WhatsApp para mejorar la interacción de usuarios. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/WhatsApp-iconos-2.jpg)
-
-Entre las últimas actualizaciones de **[WhatsApp](https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a "https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a")** se incluyen **tres nuevos iconos** diseñados para **enriquecer la interacción** entre los usuarios. Estos cambios son parte de un esfuerzo continuo por parte de **Meta** para **mejorar la interfaz** y la funcionalidad de su popular aplicación de mensajería. 
-
-### Más noticias
-
-* [Conoce el nombre con el que te tienen guardado en WhatsApp](https://www.elcomercio.com/tecnologia/whatsapp-nombre-tutorial-telefonia.html "https://www.elcomercio.com/tecnologia/whatsapp-nombre-tutorial-telefonia.html") 
-* [Cómo activar el ‘modo Friends’ en WhatsApp en pocos pasos](https://www.elcomercio.com/tecnologia/modo-friends-whatsapp-guia.html "https://www.elcomercio.com/tecnologia/modo-friends-whatsapp-guia.html") 
-
-**Icono de ondas de sonido en WhatsApp** 
------------------------------------------
-
-![Foto: Captura de pantalla. ](https://www.elcomercio.com/wp-content/uploads/2024/12/WhatsApp-iconos-1-1024x683.jpg)
-
-Foto: Captura de pantalla.
-
-El primer icono es el de **ondas de sonido**, que permite a los usuarios **iniciar un chat de voz dentro de grupos** sin necesidad de realizar una **llamada tradicional**. Esta función es especialmente útil en **grupos grandes**, donde los miembros pueden unirse a**l chat vocal** a su conveniencia. Al **iniciar este chat**, no se envía una notificación inmediata a los miembros del grupo, lo que permite una **mayor privacidad y flexibilidad**, según informa [El Debate](https://www.eldebate.com/tecnologia/20241211/whatsapp-comienza-diciembre-cambios-significado-tres-nuevos-iconos-cns_252420.html "https://www.eldebate.com/tecnologia/20241211/whatsapp-comienza-diciembre-cambios-significado-tres-nuevos-iconos-cns_252420.html").  
-
-**Sustitución de mensajes tradicionales** 
-------------------------------------------
-
-![Foto: WhatsApp Beta Info.](https://www.elcomercio.com/wp-content/uploads/2024/12/WhatsApp-iconos-1024x683.jpg)
-
-Foto: WhatsApp Beta Info.
-
-Los otros **dos iconos** reemplazan las frases que antes se mostraban en pantalla. El **texto “Escribiendo…”** ha sido sustituido por **puntos suspensivos**, que indican que un usuario redacta un mensaje. Este cambio permite una **visualización más limpia** y moderna dentro del chat. Asimismo, el mensaje **“Grabando audio…”** ha sido reemplazado por un **icono de micrófono**, que aparece debajo del **último mensaje recibido**, lo que facilita así la comprensión del estado actual de la conversación, a decir de [20 Minutos](https://www.20minutos.es/tecnologia/aplicaciones/whatsapp-diciembre-cambio-descubre-significado-tres-nuevos-iconos-5662332/ "https://www.20minutos.es/tecnologia/aplicaciones/whatsapp-diciembre-cambio-descubre-significado-tres-nuevos-iconos-5662332/"). 
-
-**Impacto en la experiencia del usuario** 
-------------------------------------------
-
-Estos cambios no solo **modernizan la interfaz**, sino que también **mejoran la experiencia** general del usuario. La eliminación de **textos largos** y su sustitución por **iconos intuitivos** permite a los usuarios interactuar más rápidamente y con menos distracciones. Además, estas modificaciones son parte del compromiso continuo de WhatsApp por adaptarse a las necesidades cambiantes de sus usuarios, a decir de [Infobae](https://www.infobae.com/tecno/2024/12/05/novedades-en-whatsapp-para-diciembre-adios-a-funciones-para-escribir-y-grabar-audios/ "https://www.infobae.com/tecno/2024/12/05/novedades-en-whatsapp-para-diciembre-adios-a-funciones-para-escribir-y-grabar-audios/").  
-
-**Disponibilidad** 
--------------------
-
-Los nuevos iconos están disponibles para todos los usuarios que actualicen a la **última versión de WhatsApp** en dispositivos **Android e iOS**. Esta actualización es parte del enfoque proactivo de Meta para mantener a **WhatsApp** como una aplicación líder en el ámbito de la mensajería instantánea, según [Marca](https://www.marca.com/mx/tecnologia/2024/12/11/6758fdb4268e3e4c758b4598.html "https://www.marca.com/mx/tecnologia/2024/12/11/6758fdb4268e3e4c758b4598.html"). 
-
-### Te recomendamos:
