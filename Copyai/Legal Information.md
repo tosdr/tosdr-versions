@@ -74,7 +74,7 @@ FEATURED RESOURCES
 
 [How to Go from GTM Bloat to Velocity](https://copy.ai/blog/introducing-gtm-ai)[GTM AI: A New Approach for Getting Rid of GTM Bloat](https://copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)
 
-[Login](https://app.copy.ai/login)[Contact Sales
+[Login](https://app.copy.ai/login)[Get a Demo
 
 Contact Sales](https://copy.ai/request-a-demo)
 
