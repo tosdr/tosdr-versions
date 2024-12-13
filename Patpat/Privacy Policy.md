@@ -6,7 +6,6 @@ Easy returns within 30 days
 
 [](https://eur.patpat.com/)
 
-* [Black Friday](https://eur.patpat.com/black-friday-c.html)
 * [Holiday Pajamas](https://eur.patpat.com/family-matching-outfits-christmas-pajamas-c.html)
 * [Christmas](https://eur.patpat.com/christmas-c.html)
 * [Family Matching](https://eur.patpat.com/family-matching-outfits-c.html)
