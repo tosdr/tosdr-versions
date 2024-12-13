@@ -185,10 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Joel Beal](https://cdn.returningveterans.org/images/honor/beal_joel.jpg)  
+![B. Radke](https://cdn.returningveterans.org/images/honor/4_Brian_Radke_1.png)  
 
-**In Memory of Joel Beal**  
-Submitted by Rad Chad](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of B. Radke**  
+United States Army  
+Submitted by John Gibson](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -231,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 12/13/24 - 7:14:10  
+Printed 12/13/24 - 1:09:25  
 © 2024 Returning Veterans Project
