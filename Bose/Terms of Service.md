@@ -1,12 +1,12 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-HOLIDAY DEALS: Save up to 40% on bestsellers. [Shop](https://www.bose.com/c/holiday-sale)
+NEW HOLIDAY DEALS: Save up to 40% on gifts in time for the holidays. [Shop](https://www.bose.com/c/holiday-sale)
 
-Save an extra 10% on select Certified Refurbished products with coupon code SAVE10. [Shop](https://www.bose.com/c/refurbished)
+EXCLUSIVE COLOR DROP: Enjoy $70 off Ultra Open Earbuds, now in Chilled Lilac. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CHILLED+LILAC)
 
-My Bose Members, get a Holiday Bonus Card for future orders with every product purchase of $100 or more. [Learn more](https://www.bose.com/holiday-bonus-card)
+MY BOSE MEMBERS: Enjoy a Holiday Bonus Card, on us, after qualifying purchases. [Shop](https://www.bose.com/c/holiday-sale)
 
-New color drops! Exclusive and limited-edition colors. [Shop](https://www.bose.com/c/exclusives)
+Stress-free shopping | 90-day return policy | Holiday Price Match Promise [Learn how](https://www.bose.com/buy-direct-from-bose)
 
 [Cancel](#)
 
@@ -22,16 +22,16 @@ Back
     
     Back
     
-    [![](https://assets.bosecreative.com/m/3d8f325140620470/webimage-SF_NavFlyout_Holiday_Gifting-2_Cross-Cat_Mobile.png)
+    [![](https://assets.bosecreative.com/m/7d8a974a2c421580/webimage-SF_NavFlyout_Holiday_12-Day-Push_Cross-Cat_Mobile.png)
     
-    ### Shop Holiday Deals](https://www.bose.com/c/holiday-sale "SHOP")
+    ### New Holiday Deals](https://www.bose.com/c/holiday-sale "SHOP")
     
      
     
-    Ace the gift game
-    -----------------
+    Get gifting done
+    ----------------
     
-    Score up to 40% off holiday favorites. Hurry, deals won’t last long!
+    Save up to 40% on holiday favorites, before it’s too late.
     
     [SHOP](https://www.bose.com/c/holiday-sale "SHOP")
     
@@ -109,20 +109,22 @@ Back
     * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
-    [![](https://assets.bosecreative.com/m/75a878069bfe193b/webimage-SF_NavFlyout_Holiday_Gifting-2_QCE_Mobile.png)
+    [![](https://assets.bosecreative.com/m/4bd415f0c27b767/webimage-SF_NavFlyout_Holiday_12-Day-Push_UOE-Chilled-Lilac-Situ_Mobile.png)
     
-    Featured Deal
+    Ultra Open Earbuds
     
-    ### QuietComfort Earbuds](https://www.bose.com/QCEARB24-HEADPHONEIN.html?dwvar_QCEARB24-HEADPHONEIN_color=WHITE+SMOKE&quantity=1 "BUY NOW")
+    ### Now in Chilled Lilac](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CHILLED+LILAC "BUY NOW")
     
      
     
-    Stocking stuffer
-    ----------------
+    Exclusive color drop
     
-    Give personal sound with $50 off QuietComfort Earbuds.
+    Hot deal. Chill hue.
+    --------------------
     
-    [BUY NOW](https://www.bose.com/QCEARB24-HEADPHONEIN.html?dwvar_QCEARB24-HEADPHONEIN_color=WHITE+SMOKE&quantity=1 "BUY NOW")
+    Enjoy $70 off Ultra Open Earbuds, now in Chilled Lilac.
+    
+    [BUY NOW](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CHILLED+LILAC "BUY NOW")
     
 
 * [Explore](#)
@@ -190,9 +192,9 @@ Back
 * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![](https://assets.bosecreative.com/m/3d8f325140620470/webimage-SF_NavFlyout_Holiday_Gifting-2_Cross-Cat_Mobile.png)
+[![](https://assets.bosecreative.com/m/7d8a974a2c421580/webimage-SF_NavFlyout_Holiday_12-Day-Push_Cross-Cat_Mobile.png)
 
-### Shop Holiday Deals](https://www.bose.com/c/holiday-sale "SHOP")
+### New Holiday Deals](https://www.bose.com/c/holiday-sale "SHOP")
 
 [![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwaf0ae0f9/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
