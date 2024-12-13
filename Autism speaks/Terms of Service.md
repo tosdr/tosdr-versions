@@ -311,7 +311,7 @@ For the past twenty years, Autism Speaks has been more than just a voice—it ha
 
 Pamela Dixon, Director of Clinical Services and Inclusion, had the privilege of traveling to the country of Georgia as part of the Professional
 
-![Dome of US Capitol](/sites/default/files/styles/content_list/public/capitol.jpg.webp?itok=id64flWi)
+!["POLICY PULSE" on two lines with color gradient of navy to aqua](/sites/default/files/styles/content_list/public/header%20stacked%20graphic_0.png.webp?itok=b3KQ-4zr)
 
 11.25.24
 
