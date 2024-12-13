@@ -330,7 +330,7 @@ For product help and technical assistance.
 * [Facebook](https://www.facebook.com/lexialearning)
 * [Twitter](https://www.twitter.com/lexialearning)
 * [Linkedin](https://www.linkedin.com/company/lexia-learning-systems)
-* [YouTube](https://www.youtube.com/user/lexialearning)
+* [YouTube](https://www.youtube.com/user/LexiaLearning)
 * [Instagram](https://www.instagram.com/lexialearning/?hl=en)
 
 A Cambium Learning® Group Brand
