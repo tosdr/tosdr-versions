@@ -523,9 +523,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,23 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[LDP and opposition far from consensus over corporate donations](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/parties-far-apart-political-funds/ "LDP and opposition far from consensus over corporate donations")
+[G7 to meet on Syria as new government pledges 'rule of law'](https://www.japantimes.co.jp/news/2024/12/13/world/politics/syria-g7-meet/ "G7 to meet on Syria as new government pledges 'rule of law'")
 
-9 hours ago
+20 mins ago
 
-[Danger for yen emerges with speculation BOJ may stand pat longer](https://www.japantimes.co.jp/business/2024/12/12/markets/yen-risk-boj/ "Danger for yen emerges with speculation BOJ may stand pat longer")
+[Japan business mood improves slightly, but global risks cloud outlook](https://www.japantimes.co.jp/business/2024/12/13/economy/boj-tankan-survey/ "Japan business mood improves slightly, but global risks cloud outlook")
 
-9 hours ago
+24 mins ago
 
-[Nippon Life ramps up global push with $550 million TCW deal](https://www.japantimes.co.jp/business/2024/12/12/companies/nippon-life-tcw-deal/ "Nippon Life ramps up global push with $550 million TCW deal")
+[Japan's emperor and empress to visit disaster-hit Noto for third time](https://www.japantimes.co.jp/news/2024/12/13/japan/emperor-empress-noto-visit/ "Japan's emperor and empress to visit disaster-hit Noto for third time")
 
-10 hours ago
+52 mins ago
 
-[Approval rate of Ishiba's Cabinet dips to 26.8%, poll shows](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/ishiba-approval-rating-drops/ "Approval rate of Ishiba's Cabinet dips to 26.8%, poll shows")
+[Trump inviting China's Xi to inauguration is 'diplomatic theater'](https://www.japantimes.co.jp/news/2024/12/13/world/politics/trump-xi-invite-political-theater/ "Trump inviting China's Xi to inauguration is 'diplomatic theater'")
 
-10 hours ago
+1 hour ago
 
-[Lower House passes ¥13.9 trillion supplementary budget](https://www.japantimes.co.jp/news/2024/12/12/japan/politics/supplementary-budget-lower-house/ "Lower House passes ¥13.9 trillion supplementary budget")
+[South Korean leader’s support hits record low after martial law bid](https://www.japantimes.co.jp/news/2024/12/13/asia-pacific/politics/yoon-support-rate-record-low/ "South Korean leader’s support hits record low after martial law bid")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
