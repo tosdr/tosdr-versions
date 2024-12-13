@@ -1,14 +1,6 @@
-Shop Now
+[Easy Gifting - Send a Gift Card](https://www.art.com/gift-cards/GC0025?amount=50&pid=GC0025-2)
 
-20% Off Framing, Canvas & Mount on Orders $99+ Ends in..
-
-0DAYS1HRS12MINS
-
-20% Off Framing, Canvas & Mount on Orders $99+ Ends in..
-
-0DAYS1HRS12MINS
-
-Shop Now
+[Easy Gifting - Send a Gift Card](https://www.art.com/gift-cards/GC0025?amount=50&pid=GC0025-2)|[Expedite Shipping for Christmas Delivery](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
 
 [](https://www.art.com/ "Art.com")
 
