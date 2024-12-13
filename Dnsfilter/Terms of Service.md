@@ -9,6 +9,10 @@ WATCH NOW](https://explore.dnsfilter.com/product-roadmap-2025)
 * [Contact us](https://www.dnsfilter.com/contact)
 * [1 (877) 331-2412](tel:1(877)331-2412)
 
+Search
+
+    Search
+
 * [Product](javascript:;)
     * [Features](javascript:;)
         * [Intuitive Reporting](https://www.dnsfilter.com/features/insights-reporting)
