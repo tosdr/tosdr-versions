@@ -157,7 +157,7 @@
 
 5 December 2024](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/ofcom-appoints-oliver-griffiths-as-group-director-online-safety/)
 
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/?language=cy)
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/)
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
