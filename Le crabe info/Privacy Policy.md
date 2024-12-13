@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 476 utilisateurs actifs
+##### 744 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Windows 11 : les mises à jour de décembre 2024 (KB5048667 et KB5048685) sont disponibles, quoi de neuf ?](https://lecrabeinfo.net/windows-11-les-mises-a-jour-de-decembre-2024-kb5048667-et-kb5048685-sont-disponibles-quoi-de-neuf.html)
 * [Microsoft améliore Mobile connecté : enfin des fichiers partagés entre iPhone et Windows !](https://lecrabeinfo.net/microsoft-ameliore-mobile-connecte-enfin-des-fichiers-partages-entre-iphone-et-windows.html)
 * [Mozilla met fin à "Do Not Track" : un choix nécessaire pour mieux protéger la vie privée](https://lecrabeinfo.net/mozilla-met-fin-a-do-not-track-un-choix-necessaire-pour-mieux-proteger-la-vie-privee.html)
-* [Microsoft Edge : le navigateur devient plus rapide que jamais sur Windows 11 grâce à WebUI 2.0](https://lecrabeinfo.net/microsoft-edge-le-navigateur-devient-plus-rapide-que-jamais-sur-windows-11-grace-a-webui-2-0.html)
 
 ### Tendance
 
@@ -152,12 +152,12 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 040 membres
-* 972 articles
-* 27 083 commentaires
+* 68 047 membres
+* 973 articles
+* 27 092 commentaires
 * [2 684 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
 * [867 abonnés X](https://x.com/lecrabeinfo)
-* [67 521 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
+* [67 520 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
