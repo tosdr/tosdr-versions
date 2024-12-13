@@ -1,6 +1,6 @@
 Due to high demand USPS orders may not ship for up to 3-4 business days.
 
-🎁📦🚚 [Approaching Holiday Shipping Deadline](https://www.adafruit.com/Holiday): Place all UPS Ground orders by 11 am ET Friday, December 13🎄⛄❄️
+🎁📦🚚 [Approaching Holiday Shipping Deadline](https://www.adafruit.com/Holiday): Place all UPS UPS 3 Day orders by 11 am ET Tuesday, December 17🎄⛄❄️
 
 Glitch your gift list! Use code [gibson15](https://blog.adafruit.com/2024/12/09/gibson15/) for 15% off the [2024 Adafruit Holiday Gift Guide](https://www.adafruit.com/explore/holiday-gift-guide-2024)!
 
@@ -410,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Elegance is not a dispensable luxury but a quality that decides between success and failure”
+“ Improvement makes straight roads: but the crooked roads without Improvement are roads of Genius”
 
-[Edsger W. Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
+[William Blake](http://en.wikipedia.org/wiki/William_Blake)
 
 [](https://www.adafruit.com/about)
 
