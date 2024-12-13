@@ -154,7 +154,8 @@ Latest reactions
 Latest forum posts
 
 * [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=3 "ZX Spectrum Convertions")
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=15 "Christmas Quiz 2024")
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=16 "Christmas Quiz 2024")
+* [which MSX1 games could be played with a Trackball?](https://www.msx.org/forum/msx-talk/software/which-msx1-games-could-be-played-with-a-trackball "which MSX1 games could be played with a Trackball?")
 * [How do i load BAS.files into Bluemsx?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-load-basfiles-into-bluemsx?page=1 "How do i load BAS.files into Bluemsx?")
 * [OCM / Zemmix maximum ROM size?](https://www.msx.org/forum/msx-talk/hardware/ocm-zemmix-maximum-rom-size "OCM / Zemmix maximum ROM size?")
 * [Dynamite Go Go](https://www.msx.org/forum/msx-talk/general-discussion/dynamite-go-go?page=13 "Dynamite Go Go")
@@ -165,7 +166,6 @@ Latest forum posts
 * [MSX-USB BIOS version and compatibility test](https://www.msx.org/forum/msx-talk/hardware/msx-usb-bios-version-and-compatibility-test "MSX-USB BIOS version and compatibility test")
 * [MSX+Laserdisc arcade set](https://www.msx.org/forum/msx-talk/general-discussion/msxlaserdisc-arcade-set "MSX+Laserdisc arcade set")
 * [Astron Belt - Laserdisc - Not loading properly](https://www.msx.org/forum/msx-talk/software/astron-belt-laserdisc-not-loading-properly "Astron Belt - Laserdisc - Not loading properly")
-* [SCC cartridge with 16 MegaBytes on MSX !](https://www.msx.org/forum/msx-talk/hardware/scc-cartridge-with-16-megabytes-on-msx?page=1 "SCC cartridge with 16 MegaBytes on MSX !")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
