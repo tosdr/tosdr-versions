@@ -88,9 +88,9 @@ Most Read
     
     1. [Russia takes unusual route to hack Starlink-connected devices in Ukraine](https://arstechnica.com/security/2024/12/russia-takes-unusual-route-to-hack-starlink-connected-devices-in-ukraine/)
     
-2. 2. [NASA believes it understands why Ingenuity crashed on Mars](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/)
+2. 2. [Back where it started: “Do Not Track” removed from Firefox after 13 years](https://arstechnica.com/gadgets/2024/12/firefox-one-of-the-first-do-not-track-supporters-no-longer-offers-it/)
     
-3. 3. [Back where it started: “Do Not Track” removed from Firefox after 13 years](https://arstechnica.com/gadgets/2024/12/firefox-one-of-the-first-do-not-track-supporters-no-longer-offers-it/)
+3. 3. [NASA believes it understands why Ingenuity crashed on Mars](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/)
     
 4. 4. [YouTube TV is hiking prices again after denying “erroneous” report days ago](https://arstechnica.com/gadgets/2024/12/youtube-tv-raisies-prices-10-per-month-in-2025-citing-content-costs-quality/)
     
