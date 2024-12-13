@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![37 Facts About Turkey ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2294%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/countries/37-facts-about-turkey/)
+[![50 Facts About Sarah Snook ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22106%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-sarah-snook/)
 
-Countries
+Celebrity
 
-12 Dec 2024
+10 Dec 2024
 
-[37 Facts About Turkey](https://facts.net/world/countries/37-facts-about-turkey/)
+[50 Facts About Sarah Snook](https://facts.net/celebrity/50-facts-about-sarah-snook/)
 
-[![39 Facts About Captain Jack Bonavita ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/39-facts-about-captain-jack-bonavita/)
+[![30 Facts About Wakabayashilite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-wakabayashilite/)
 
-People
+Earth Sciences
 
-12 Dec 2024
+10 Dec 2024
 
-[39 Facts About Captain Jack Bonavita](https://facts.net/history/people/39-facts-about-captain-jack-bonavita/)
+[30 Facts About Wakabayashilite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-wakabayashilite/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
