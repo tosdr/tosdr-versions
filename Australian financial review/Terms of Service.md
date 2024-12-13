@@ -335,15 +335,16 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.9477%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_70%2C$y_36/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/858f84391308d2b3335e68f37d897dbb8bc712f7)](https://www.afr.com/companies/mining/fortescue-executive-chairman-andrew-forrest-in-his-own-words-20241210-p5kx5n)
+[![The Financial Review’s Primrose Riordan interviewing Andrew Forrest.](https://static.ffx.io/images/$zoom_0.7964%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_247%2C$y_94/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c773838cfaa0f068d2560e6983344762dc990597)](https://www.afr.com/companies/mining/i-sent-andrew-forrest-50-hard-questions-he-invited-me-to-have-a-talk-20241211-p5kxns)
 
-### [Fortescue executive chairman Andrew Forrest in his own words](https://www.afr.com/companies/mining/fortescue-executive-chairman-andrew-forrest-in-his-own-words-20241210-p5kx5n)
+### [I sent Andrew Forrest 50 hard questions. He invited me to have a talk](https://www.afr.com/companies/mining/i-sent-andrew-forrest-50-hard-questions-he-invited-me-to-have-a-talk-20241211-p5kxns)
 
+* 1 hr ago
 * Primrose Riordan
 
-* ### [Inside the ‘unending chaos’ at Andrew Forrest’s Fortescue](https://www.afr.com/companies/energy/inside-the-unending-chaos-at-andrew-forrest-s-fortescue-20241008-p5kgrn)
+* ### [Fortescue executive chairman Andrew Forrest in his own words](https://www.afr.com/companies/mining/fortescue-executive-chairman-andrew-forrest-in-his-own-words-20241210-p5kx5n)
     
-* ### [$3 hot dogs and a mini-shop behind $1.2b petrol bet](https://www.afr.com/companies/retail/3-hot-dogs-and-a-mini-shop-behind-1-2b-petrol-bet-20241127-p5kttk)
+* ### [Inside the ‘unending chaos’ at Andrew Forrest’s Fortescue](https://www.afr.com/companies/energy/inside-the-unending-chaos-at-andrew-forrest-s-fortescue-20241008-p5kgrn)
     
 
 [The Australian Financial Review](https://www.afr.com/)
