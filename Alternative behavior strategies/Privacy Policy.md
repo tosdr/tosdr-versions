@@ -131,7 +131,7 @@ Privacy Policy
 * [Get Started](https://www.abskids.com/contact/)
 * [Apply Now](https://www.abskids.com/careers/job-openings/)
 
-Last modified: October 3, 2021
+Last modified: December 13, 2024
 
 ### Introduction
 
@@ -267,7 +267,13 @@ We may also disclose your personal information:
 
 * To comply with any court order, law, or legal process, including to respond to any government or regulatory request. 
 * To comply with other agreements, including for billing and collection purposes. 
-* If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Company, our customers, or others.
+* If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Company, our customers, or others.
+
+SMS Opt-Out Information
+
+* You may opt-out by replying STOP or ask for more information by replying HELP. Message frequency varies. Message and data rates may apply. You may review our Privacy Policy to learn how your data is used. 
+* You may opt out of receiving SMS messages at any time by replying with “STOP” to any SMS message you receive from us. After opting out, you will receive a confirmation message, and we will cease sending SMS messages to your number.
+* If you need assistance or have questions about our SMS service, reply with “HELP” to any SMS message you receive, or contact our customer support team at 800-434-8923.
 
 ### Choices About How We Use and Disclose Your Information
 
