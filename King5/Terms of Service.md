@@ -30,16 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c31f7255-d66b-4315-84fa-70400969cbf9/20241212T192856/c31f7255-d66b-4315-84fa-70400969cbf9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c31f7255-d66b-4315-84fa-70400969cbf9/20241212T192856/c31f7255-d66b-4315-84fa-70400969cbf9_360x203.jpg)](https://www.king5.com/article/news/crime/driver-smashes-building-eluding-police-pursuit/281-e8c30452-59fe-4f08-a403-b113989e92eb)
-        
-        #### [Driver smashes into Centralia building after eluding police pursuit](https://www.king5.com/article/news/crime/driver-smashes-building-eluding-police-pursuit/281-e8c30452-59fe-4f08-a403-b113989e92eb) [![](https://media.king5.com/assets/KING/images/c31f7255-d66b-4315-84fa-70400969cbf9/20241212T192856/c31f7255-d66b-4315-84fa-70400969cbf9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c31f7255-d66b-4315-84fa-70400969cbf9/20241212T192856/c31f7255-d66b-4315-84fa-70400969cbf9_360x203.jpg)](https://www.king5.com/article/news/crime/driver-smashes-building-eluding-police-pursuit/281-e8c30452-59fe-4f08-a403-b113989e92eb)
-        
-        #### [Man escapes after crashing into Centralia building following police pursuit](https://www.king5.com/article/news/crime/driver-smashes-building-eluding-police-pursuit/281-e8c30452-59fe-4f08-a403-b113989e92eb) [![](https://media.king5.com/assets/KING/images/c31f7255-d66b-4315-84fa-70400969cbf9/20241212T192856/c31f7255-d66b-4315-84fa-70400969cbf9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c31f7255-d66b-4315-84fa-70400969cbf9/20241212T192856/c31f7255-d66b-4315-84fa-70400969cbf9_360x203.jpg)](https://www.king5.com/article/news/crime/driver-smashes-building-eluding-police-pursuit/281-e8c30452-59fe-4f08-a403-b113989e92eb)
-        
-        #### [Man who eludes police pursuit, crashes into Centralia building not found](https://www.king5.com/article/news/crime/driver-smashes-building-eluding-police-pursuit/281-e8c30452-59fe-4f08-a403-b113989e92eb)
     *  [![](https://media.king5.com/assets/KING/images/9f7a4116-3665-4f55-9970-9069a2e98c99/20241021T131731/9f7a4116-3665-4f55-9970-9069a2e98c99_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9f7a4116-3665-4f55-9970-9069a2e98c99/20241021T131731/9f7a4116-3665-4f55-9970-9069a2e98c99_360x203.jpg)](https://www.king5.com/article/news/local/officials-plan-file-lawsuit-challenging-constitutionality-i-2066/281-9e2fa3fd-d8c4-45a4-ad87-fafce8495308)
         
         #### [Officials plan to file lawsuit challenging constitutionality of I-2066](https://www.king5.com/article/news/local/officials-plan-file-lawsuit-challenging-constitutionality-i-2066/281-9e2fa3fd-d8c4-45a4-ad87-fafce8495308)
+        
+    *  [![](https://media.king5.com/assets/KING/images/c1577fe3-051b-4fde-8694-85960d775738/20241213T020500/c1577fe3-051b-4fde-8694-85960d775738_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c1577fe3-051b-4fde-8694-85960d775738/20241213T020500/c1577fe3-051b-4fde-8694-85960d775738_360x203.jpg)](https://www.king5.com/article/news/local/homeless-man-tries-save-crash-victim/281-24d59a53-99dc-4f48-ba53-f82a390a940c)
+        
+        #### [Homeless man tries to save 15-year-old crash victim from burning vehicle](https://www.king5.com/article/news/local/homeless-man-tries-save-crash-victim/281-24d59a53-99dc-4f48-ba53-f82a390a940c)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -59,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/1992e4f9-5d6f-4d35-b550-d7327d3b1ea3/20241212T125350/1992e4f9-5d6f-4d35-b550-d7327d3b1ea3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1992e4f9-5d6f-4d35-b550-d7327d3b1ea3/20241212T125350/1992e4f9-5d6f-4d35-b550-d7327d3b1ea3_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/ec033dca-fdab-4599-ad5e-0312db383487/20241212T212627/ec033dca-fdab-4599-ad5e-0312db383487_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ec033dca-fdab-4599-ad5e-0312db383487/20241212T212627/ec033dca-fdab-4599-ad5e-0312db383487_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -85,13 +82,13 @@ Navigation
     
     Latest Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/860248dc-75a8-47b2-8f0d-80bf3bcf8ecc/20241210T173748/860248dc-75a8-47b2-8f0d-80bf3bcf8ecc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/860248dc-75a8-47b2-8f0d-80bf3bcf8ecc/20241210T173748/860248dc-75a8-47b2-8f0d-80bf3bcf8ecc_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/seattle-kraken-philipp-grubauer-volunteering/281-e2219da9-8564-446a-a194-f39bc2bd2cfd)
+    *  [![](https://media.king5.com/assets/KING/images/b5d60c2e-cc6e-4783-8d27-2f8794f5b69e/20241213T000528/b5d60c2e-cc6e-4783-8d27-2f8794f5b69e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b5d60c2e-cc6e-4783-8d27-2f8794f5b69e/20241213T000528/b5d60c2e-cc6e-4783-8d27-2f8794f5b69e_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/dk-metcalf-is-happy-to-block-as-seahawks-ride-streak-into-sunday-night-matchup-with-packers/281-615d0995-501f-4369-bdbd-f8ff8f0f9240)
         
-        #### [Seattle Kraken goalie volunteers with Salvation Army, horse rescue](https://www.king5.com/article/sports/nhl/kraken/seattle-kraken-philipp-grubauer-volunteering/281-e2219da9-8564-446a-a194-f39bc2bd2cfd)
+        #### [DK Metcalf is happy to block as Seahawks ride streak into Sunday night matchup with Packers](https://www.king5.com/article/sports/nfl/seahawks/dk-metcalf-is-happy-to-block-as-seahawks-ride-streak-into-sunday-night-matchup-with-packers/281-615d0995-501f-4369-bdbd-f8ff8f0f9240)
         
-    *  [![](https://media.king5.com/assets/KING/images/d3e9ed1c-6e08-4fcb-9b58-31dcd11ce045/20241212T163526/d3e9ed1c-6e08-4fcb-9b58-31dcd11ce045_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d3e9ed1c-6e08-4fcb-9b58-31dcd11ce045/20241212T163526/d3e9ed1c-6e08-4fcb-9b58-31dcd11ce045_360x203.jpg)](https://www.king5.com/article/sports/high-school/washington-school-districts-pushing-rules-trans-athletes-sports/281-c8905955-d36c-4900-bf55-b37785d941c1)
+    *  [![](https://media.king5.com/assets/KING/images/d2033334-e7d4-4e07-86f5-5e78f8a24f94/20241211T071823/d2033334-e7d4-4e07-86f5-5e78f8a24f94_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d2033334-e7d4-4e07-86f5-5e78f8a24f94/20241211T071823/d2033334-e7d4-4e07-86f5-5e78f8a24f94_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/how-to-watch-seattle-kraken-against-boston-bruins/281-cc12858e-0830-4fc4-9588-167e993f05bc)
         
-        #### [Some WA school districts push for changes to how trans athletes can participate in sports](https://www.king5.com/article/sports/high-school/washington-school-districts-pushing-rules-trans-athletes-sports/281-c8905955-d36c-4900-bf55-b37785d941c1)
+        #### [How to watch the Seattle Kraken's game against the Boston Bruins](https://www.king5.com/article/sports/nhl/kraken/how-to-watch-seattle-kraken-against-boston-bruins/281-cc12858e-0830-4fc4-9588-167e993f05bc)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -108,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-47°
+44°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
