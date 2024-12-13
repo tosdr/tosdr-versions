@@ -1,4 +1,4 @@
-[![edX Online Homepage](/trademark-logos/edx-logo-elm.svg)](https://www.edx.org/)
+[![edX Online Homepage](/trademark-logos/edx-logo-elm.svg "edX")](https://www.edx.org/)
 
 Learn
 
@@ -6,16 +6,16 @@ Search
 
 Most popular programs
 
-* [![CS50's Introduction to Computer Science](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fcourse%2Fimage%2Fda1b2400-322b-459b-97b0-0c557f05d017-a3d1899c3344.small.png&w=96&q=75)
+* [![CS50's Introduction to Computer Science](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fcourse%2Fimage%2Fda1b2400-322b-459b-97b0-0c557f05d017-a3d1899c3344.small.png&w=96&q=75 "CS50's Introduction to Computer Science")
     
     CS50's Introduction to Computer ScienceHarvardX | Course](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
-* [![Artificial Intelligence: Implications for Business Strategy](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fcourse%2Fimage%2F32ab61e5-44b4-4316-ad59-9f04fc876e0a-aeb25306d62b.small.jpg&w=96&q=75)
+* [![Artificial Intelligence: Implications for Business Strategy](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fcourse%2Fimage%2F32ab61e5-44b4-4316-ad59-9f04fc876e0a-aeb25306d62b.small.jpg&w=96&q=75 "Artificial Intelligence: Implications for Business Strategy")
     
     Artificial Intelligence: Implications for Business StrategyMIT Sloan School of Management | Executive Education](https://www.edx.org/executive-education/massachusetts-institute-of-technology-artificial-intelligence-implications-for-business-strategy)
-* [![Supply Chain Management](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fprograms%2Fcard_images%2F2fc3236d-78a9-45a1-8c0c-fc290e74259e-f3b970b5cd3a.jpg&w=96&q=75)
+* [![Supply Chain Management](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fprograms%2Fcard_images%2F2fc3236d-78a9-45a1-8c0c-fc290e74259e-f3b970b5cd3a.jpg&w=96&q=75 "Supply Chain Management")
     
     Supply Chain ManagementMITx | MicroMasters](https://www.edx.org/masters/micromasters/mitx-supply-chain-management)
-* [![Computer Science for Game Development](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fprograms%2Fcard_images%2F64b3c632-8610-4b17-9a48-9efee7fa3266-6a1e055774b4.jpg&w=96&q=75)
+* [![Computer Science for Game Development](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fprograms%2Fcard_images%2F64b3c632-8610-4b17-9a48-9efee7fa3266-6a1e055774b4.jpg&w=96&q=75 "Computer Science for Game Development")
     
     Computer Science for Game DevelopmentHarvardX | Professional Certificate](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-game-development)
 
@@ -34,7 +34,7 @@ Trending now
 
 Close site banner.
 
-[![edX Online](/trademark-logos/edx-logo-elm.svg)](https://www.edx.org/)
+[![edX Online](/trademark-logos/edx-logo-elm.svg "edX Online")](https://www.edx.org/)
 
 **End-of-year savings — get up to 30% off** select programs until December 19. Use code **EDXEOY24**. [Learn more](https://www.edx.org/end-of-year-promo).
 
@@ -320,7 +320,7 @@ If you do not agree with the terms of this Privacy Policy, please do not access,
 
 [View the previous version of this Privacy Policy](https://www.edx.org/edx-privacy-policy-previous)
 
-[![edX homepage](/trademark-logos/edx-by-2u-white.svg)](https://www.edx.org/)
+[![edX homepage](/trademark-logos/edx-by-2u-white.svg "edX homepage")](https://www.edx.org/)
 
 [](https://www.facebook.com/edxespanol/)[](https://twitter.com/edXOnline)[](https://www.linkedin.com/school/edx/)[](https://www.reddit.com/r/edX/)
 
@@ -418,4 +418,4 @@ EnglishSpanishApply
 © 2024 edX LLC. All rights reserved.  
 | 深圳市恒宇博科技有限公司
 
-[![Download on the App Store](/_next/image?url=%2Fimages%2Fapple-store-badge-en.png&w=256&q=75)](https://itunes.apple.com/us/app/edx/id945480667?mt=8&external_link=true)[![Get it on Google Play](/_next/image?url=%2Fimages%2Fgoogle-play-badge-en.png&w=384&q=75)](https://play.google.com/store/apps/details?id=org.edx.mobile&external_link=true)
+[![Download on the App Store](/_next/image?url=%2Fimages%2Fapple-store-badge-en.png&w=256&q=75 "Download on the App Store")](https://itunes.apple.com/us/app/edx/id945480667?mt=8&external_link=true)[![Get it on Google Play](/_next/image?url=%2Fimages%2Fgoogle-play-badge-en.png&w=384&q=75 "Get it on Google Play")](https://play.google.com/store/apps/details?id=org.edx.mobile&external_link=true)
