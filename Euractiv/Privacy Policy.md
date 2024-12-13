@@ -441,27 +441,27 @@ If you have any questions about this Privacy Policy, please contact us:
 Most recent
 -----------
 
-[12-12-2024
+[13-12-2024
 
-Europe’s defence sector needs deeper private equity pockets for frontline capability](https://www.euractiv.com/section/economy-jobs/news/europes-defence-sector-needs-deeper-private-equity-pockets-for-frontline-capability/)[12-12-2024
+Italian court ok’s referendum on controversial autonomy law](https://www.euractiv.com/section/politics/news/the-capitals-italian-court-oks-referendum-on-controversial-autonomy-law/)[13-12-2024
 
-NATO’s Rutte says alliance should double spending target to 4% GDP](https://www.euractiv.com/section/global-europe/news/natos-rutte-says-alliance-should-double-spending-target-to-4-gdp/)[12-12-2024
+Full Schengen accession to boost Romania’s GDP by 2%](https://www.euractiv.com/section/politics/news/full-schengen-accession-to-boost-romanias-gdp-by-2/)[13-12-2024
 
-Slovak health system on life support after parliament threatens doctors with prison](https://www.euractiv.com/section/health-consumers/news/slovak-health-system-on-life-support-after-parliament-threatens-doctors-with-prison/)[12-12-2024
+Slovakia’s striking doctors, opposition urge president to block ‘forced labour’ law](https://www.euractiv.com/section/politics/news/slovakias-striking-doctors-opposition-urge-president-to-block-forced-labour-law/)[13-12-2024
 
-Ukraine admitted to Creative Europe programme but media concerns remain](https://www.euractiv.com/section/tech/news/ukraine-admitted-to-creative-europe-programme-but-media-concerns-remain/)[12-12-2024
+Poland’s Morawiecki to replace Meloni as ECR head](https://www.euractiv.com/section/politics/news/polands-morawiecki-to-replace-meloni-as-ecr-head/)[13-12-2024
 
-EU states to vote on smuggling rules amid fears of harming migrants and aid efforts](https://www.euractiv.com/section/politics/news/eu-states-to-vote-on-smuggling-rules-amid-fears-of-harming-migrants-and-aid-efforts/)[12-12-2024
+Portuguese minister snubs PM’s pitch to review 2% defence spending goal](https://www.euractiv.com/section/politics/news/portuguese-minister-snubs-pms-pitch-to-review-2-defence-spending-goal/)[13-12-2024
 
-Lahbib clarifies gender equality stance, brews confusion on health role](https://www.euractiv.com/section/health-consumers/news/lahbib-clarifies-gender-equality-stance-brews-confusion-on-health-role/)[12-12-2024
+Sánchez’s PSOE tries to ‘seduce’ Puigdemont, again](https://www.euractiv.com/section/politics/news/sanchezs-psoe-tries-to-seduce-puigdemont-again/)[13-12-2024
 
-Governments prioritise controlling migration in EU’s long-term plans](https://www.euractiv.com/section/politics/news/governments-prioritise-controlling-migration-in-eus-long-term-plans/)[12-12-2024
+Italian court ok’s referendum on controversial autonomy law](https://www.euractiv.com/section/politics/news/italian-court-oks-referendum-on-controversial-autonomy-law/)[13-12-2024
 
-New European Council President Costa meets British PM Starmer in London](https://www.euractiv.com/section/politics/news/new-european-council-president-costa-meets-british-pm-starmer-in-london/)[12-12-2024
+Syrian refugees won’t be forced to return, for now](https://www.euractiv.com/section/politics/news/syrian-refugees-wont-be-forced-to-return-for-now/)[13-12-2024
 
-Poland and France downplay Ukraine peacekeeping mission – but are thinking about it](https://www.euractiv.com/section/europe-s-east/news/poland-and-france-downplay-ukraine-peacekeeping-mission-but-are-thinking-about-it/)[12-12-2024
+Moldova declares state of emergency as risk of Russian gas cutoff looms](https://www.euractiv.com/section/eet/news/moldova-declares-state-of-emergency-as-risk-of-russian-gas-cutoff-looms/)[13-12-2024
 
-New Europe takes charge while Berlin and Paris distracted](https://www.euractiv.com/section/politics/news/new-europe-takes-charge-while-berlin-and-paris-distracted/)
+Escalation feared as Georgia pro-EU protests enter third week](https://www.euractiv.com/section/global-europe/news/escalation-feared-as-georgia-pro-eu-protests-enter-third-week/)
 
 ###### Advertisement
 
