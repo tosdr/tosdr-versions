@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» провела в штабах общественной поддержки партии мероприятия ко Дню Конституции](https://cdn.er.ru/media/news/December2024/dvWBoCYcbitlZ5s4cenV-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provela-v-shtabah-obshestvennoj-podderzhki-partii-meropriyatiya-ko-dnyu-konstitucii)
+[![При поддержке «Женского движения Единой России» в регионах соберут предложения по внедрению демографического корпоративного стандарта](https://cdn.er.ru/media/news/December2024/qLrEFksVNltaK7tlZZNl-small.JPG)](https://er.ru/activity/news/pri-podderzhke-zhenskogo-dvizheniya-edinoj-rossii-v-regionah-soberut-predlozheniya-po-vnedreniyu-demograficheskogo-korporativnogo-standarta)
 
-[«Единая Россия» провела в штабах общественной поддержки партии мероприятия ко Дню Конституции](https://er.ru/activity/news/edinaya-rossiya-provela-v-shtabah-obshestvennoj-podderzhki-partii-meropriyatiya-ko-dnyu-konstitucii)
+[При поддержке «Женского движения Единой России» в регионах соберут предложения по внедрению демографического корпоративного стандарта](https://er.ru/activity/news/pri-podderzhke-zhenskogo-dvizheniya-edinoj-rossii-v-regionah-soberut-predlozheniya-po-vnedreniyu-demograficheskogo-korporativnogo-standarta)
 
-[#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#ДеньКонституции](https://er.ru/activity/news?tags%5B0%5D=1093468) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Вологодская область](https://er.ru/activity/news?tags%5B0%5D=4193) [#Ивановская область](https://er.ru/activity/news?tags%5B0%5D=611) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#Оренбургская область](https://er.ru/activity/news?tags%5B0%5D=269) [#Мурманская область](https://er.ru/activity/news?tags%5B0%5D=1927) [#Волгоградская область](https://er.ru/activity/news?tags%5B0%5D=444) [#Республика Башкортостан](https://er.ru/activity/news?tags%5B0%5D=490)
+[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#Святенко](https://er.ru/activity/news?tags%5B0%5D=44335) [#Шапошников](https://er.ru/activity/news?tags%5B0%5D=3789) [#демография](https://er.ru/activity/news?tags%5B0%5D=135657) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975)
 
-12.12.24
+Сегодня 18:11
 
-[![Анна Кузнецова: В декаду приёмов, приуроченную ко Дню рождения партии, в «Единую Россию» обратились почти 79 тысяч человек](https://cdn.er.ru/media/news/December2024/d1aEM9S6ewNm21g6reLw-small.jpg)](https://er.ru/activity/news/anna-kuznecova-v-dekadu-priyomov-priurochennuyu-ko-dnyu-rozhdeniya-partii-v-edinuyu-rossiyu-obratilis-pochti-79-tysyach-chelovek)
+[![Элита страны: «Единая Россия» включит участников СВО в состав руководящих органов партии](https://cdn.er.ru/media/news/December2024/L9XyhmvdU5pNchA1YQHq-small.JPG)](https://er.ru/activity/news/elita-strany-edinaya-rossiya-vklyuchit-uchastnikov-svo-v-sostav-rukovodyashih-organov-partii)
 
-[Анна Кузнецова: В декаду приёмов, приуроченную ко Дню рождения партии, в «Единую Россию» обратились почти 79 тысяч человек](https://er.ru/activity/news/anna-kuznecova-v-dekadu-priyomov-priurochennuyu-ko-dnyu-rozhdeniya-partii-v-edinuyu-rossiyu-obratilis-pochti-79-tysyach-chelovek)
+[Элита страны: «Единая Россия» включит участников СВО в состав руководящих органов партии](https://er.ru/activity/news/elita-strany-edinaya-rossiya-vklyuchit-uchastnikov-svo-v-sostav-rukovodyashih-organov-partii)
 
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#декадаприемов](https://er.ru/activity/news?tags%5B0%5D=113286) [#деньрожденияпартии](https://er.ru/activity/news?tags%5B0%5D=141860) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Кириенко](https://er.ru/activity/news?tags%5B0%5D=2618) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Жога](https://er.ru/activity/news?tags%5B0%5D=1094717) [#Карелин](https://er.ru/activity/news?tags%5B0%5D=2232) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999)
 
-12.12.24
+Сегодня 17:48
 
-[![«Единая Россия» обеспечила защиту прав детей и родителей при покупке жилья с использованием маткапитала](https://cdn.er.ru/media/news/December2024/8NJKywIsfetVkTWjCeth-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechila-zashitu-prav-detej-i-roditelej-pri-pokupke-zhilya-s-ispolzovaniem-matkapitala)
+[![Участники Съезда «Единой России» сформировали гуманитарный груз в Курскую область](https://cdn.er.ru/media/news/December2024/diKoZxO3T35nQUhmD88X-small.JPG)](https://er.ru/activity/news/uchastniki-sezda-edinoj-rossii-sformirovali-gumanitarnyj-gruz-v-kurskuyu-oblast)
 
-[«Единая Россия» обеспечила защиту прав детей и родителей при покупке жилья с использованием маткапитала](https://er.ru/activity/news/edinaya-rossiya-obespechila-zashitu-prav-detej-i-roditelej-pri-pokupke-zhilya-s-ispolzovaniem-matkapitala)
+[Участники Съезда «Единой России» сформировали гуманитарный груз в Курскую область](https://er.ru/activity/news/uchastniki-sezda-edinoj-rossii-sformirovali-gumanitarnyj-gruz-v-kurskuyu-oblast)
 
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#материнскийкапитал](https://er.ru/activity/news?tags%5B0%5D=113800) [#жилье](https://er.ru/activity/news?tags%5B0%5D=113) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#Лебедева](https://er.ru/activity/news?tags%5B0%5D=9611) [#Смирнова](https://er.ru/activity/news?tags%5B0%5D=10225) [#Солонкин](https://er.ru/activity/news?tags%5B0%5D=143558) [#Мосволонтер](https://er.ru/activity/news?tags%5B0%5D=149461) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#сборгумпомощи](https://er.ru/activity/news?tags%5B0%5D=1093180) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#мастер-классы](https://er.ru/activity/news?tags%5B0%5D=34619)
 
-12.12.24
+Сегодня 16:57
 
-[![«Молодая Гвардия Единой России» провела акции ко Дню Конституции по всей стране](https://cdn.er.ru/media/news/December2024/Tk7dFe2yxlAaPJ6Wcq4f-small.jpeg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-provela-akcii-ko-dnyu-konstitucii-po-vsej-strane)
+[![О национальной идентичности и политическом выборе: опыт России и Китая. Статья Дмитрия Медведева](https://cdn.er.ru/media/news/December2024/yrM8Fnn8uhsA0A9aZtOm-small.jpg)](https://er.ru/activity/news/o-nacionalnoj-identichnosti-i-politicheskom-vybore-opyt-rossii-i-kitaya-statya-dmitriya-medvedeva)
 
-[«Молодая Гвардия Единой России» провела акции ко Дню Конституции по всей стране](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-provela-akcii-ko-dnyu-konstitucii-po-vsej-strane)
+[О национальной идентичности и политическом выборе: опыт России и Китая. Статья Дмитрия Медведева](https://er.ru/activity/news/o-nacionalnoj-identichnosti-i-politicheskom-vybore-opyt-rossii-i-kitaya-statya-dmitriya-medvedeva)
 
-[#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Воробьев](https://er.ru/activity/news?tags%5B0%5D=114) [#Тульская область](https://er.ru/activity/news?tags%5B0%5D=2194) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#ДеньКонституции](https://er.ru/activity/news?tags%5B0%5D=1093468) [#квизы](https://er.ru/activity/news?tags%5B0%5D=134874) [#триколор](https://er.ru/activity/news?tags%5B0%5D=3575)
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#Китай](https://er.ru/activity/news?tags%5B0%5D=263) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742)
 
-12.12.24
+Сегодня 15:00
 
-[![«Единая Россия» внесла в Госдуму законопроект, который позволит подтвердить подлинность страниц НКО «знаком качества» через Госуслуги - они получат визуальное обозначение](https://cdn.er.ru/media/news/December2024/R9rFVxAmlnpwPUgCZ3Wz-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-v-gosdumu-zakonoproekt-kotoryj-pozvolit-podtverdit-podlinnost-stranic-nko-znakom-kachestva-cherez-gosuslugi-oni-poluchat-vizualnoe-oboznachenie)
+[![Участники Съезда «Единой России» – ветераны СВО встретились с бойцами, проходящими лечение в московских госпиталях](https://cdn.er.ru/media/news/December2024/X0rfZEWKX7He33IBIOho-small.jpg)](https://er.ru/activity/news/uchastniki-sezda-edinoj-rossii-veterany-svo-vstretilis-s-bojcami-prohodyashimi-lechenie-v-moskovskih-gospitalyah)
 
-[«Единая Россия» внесла в Госдуму законопроект, который позволит подтвердить подлинность страниц НКО «знаком качества» через Госуслуги - они получат визуальное обозначение](https://er.ru/activity/news/edinaya-rossiya-vnesla-v-gosdumu-zakonoproekt-kotoryj-pozvolit-podtverdit-podlinnost-stranic-nko-znakom-kachestva-cherez-gosuslugi-oni-poluchat-vizualnoe-oboznachenie)
+[Участники Съезда «Единой России» – ветераны СВО встретились с бойцами, проходящими лечение в московских госпиталях](https://er.ru/activity/news/uchastniki-sezda-edinoj-rossii-veterany-svo-vstretilis-s-bojcami-prohodyashimi-lechenie-v-moskovskih-gospitalyah)
 
-[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#соцсети](https://er.ru/activity/news?tags%5B0%5D=1649) [#безопасность](https://er.ru/activity/news?tags%5B0%5D=180) [#Госуслуги](https://er.ru/activity/news?tags%5B0%5D=1090944)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#госпитали](https://er.ru/activity/news?tags%5B0%5D=118007) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555)
 
-12.12.24
+Сегодня 14:00
 
-[![Владимир Якушев: Конституция стала символом единства нашего народа и его исторического выбора, который определил путь России как независимого, сильного и демократического государства](https://cdn.er.ru/media/news/December2024/G47wfnSRDJOoAfzQH6Rv-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-konstituciya-stala-simvolom-edinstva-nashego-naroda-i-ego-istoricheskogo-vybora-kotoryj-opredelil-put-rossii-kak-nezavisimogo-silnogo-i-demokraticheskogo-gosudarstva)
+[![«Единая Россия» провела урок мужества с бойцами СВО для 500 школьников и студентов Москвы](https://cdn.er.ru/media/news/December2024/s4WETivVm9c1RwAvCUdg-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provela-urok-muzhestva-s-bojcami-svo-dlya-500-shkolnikov-i-studentov-moskvy)
 
-[Владимир Якушев: Конституция стала символом единства нашего народа и его исторического выбора, который определил путь России как независимого, сильного и демократического государства](https://er.ru/activity/news/vladimir-yakushev-konstituciya-stala-simvolom-edinstva-nashego-naroda-i-ego-istoricheskogo-vybora-kotoryj-opredelil-put-rossii-kak-nezavisimogo-silnogo-i-demokraticheskogo-gosudarstva)
+[«Единая Россия» провела урок мужества с бойцами СВО для 500 школьников и студентов Москвы](https://er.ru/activity/news/edinaya-rossiya-provela-urok-muzhestva-s-bojcami-svo-dlya-500-shkolnikov-i-studentov-moskvy)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#ДеньКонституции](https://er.ru/activity/news?tags%5B0%5D=1093468) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172)
+[#Туров](https://er.ru/activity/news?tags%5B0%5D=24396) [#МузейПобеды](https://er.ru/activity/news?tags%5B0%5D=1091109) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#СъездЕР](https://er.ru/activity/news?tags%5B0%5D=48209) [#Чинцов](https://er.ru/activity/news?tags%5B0%5D=1095688) [#Фунтиков](https://er.ru/activity/news?tags%5B0%5D=1095713) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#урокмужества](https://er.ru/activity/news?tags%5B0%5D=1091683)
 
-12.12.24
+Сегодня 13:38
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
