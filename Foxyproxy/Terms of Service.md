@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I have had consistently good experiences with your support. Thanks again.
+Thank you guys you all rock!
 
-Martin Costello
+Eli Hernandez
