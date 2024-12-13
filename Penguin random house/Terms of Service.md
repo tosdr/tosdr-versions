@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/25164626/Audio_December_1200x628.jpg)
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
-    New Stories to Listen to
+    Books Bans Are on the Rise in America
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * * *
 
-* [![Books for the Christmas Romance Fan](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/13132423/PRH_site_1200x628_Christmas_Romance_Fan.jpg)
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/12/08132549/PRH_Site_1200x628_DEC2024.jpg)
     
-    Books for the Christmas Romance Fan
+    New Releases
     
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/holiday-romantic-comedies/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-december/)
 
 * * *
 
-* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
     
-    How To Read More in 2024
+    Browse All Our Lists, Essays, and Interviews
     
-    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
 * <
     
