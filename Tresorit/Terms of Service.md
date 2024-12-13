@@ -1,14 +1,6 @@
-\-- D
+![](data:image/svg+xml;charset=utf-8,%3Csvg height='20' width='25' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)Get NIS2-ready with Tresorit. Meet the highest security standards. [Learn more](https://tresorit.com/nis2?utm_source=website&utm_medium=ribbon&utm_campaign=nis2&utm_content=)
 
-:
-
-\-- H
-
-:
-
-\-- M
-
-Cyber sale is here! Save big, store safely, share confidently. [Explore discounts](https://tresorit.com/cyber-sale?utm_source=website&utm_medium=ribbon&utm_campaign=cybersale)
+![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNNiAxOCAxOCA2TTYgNmwxMiAxMiIgc3Ryb2tlPSIjMjIyIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjwvc3ZnPg==)
 
 ![](data:image/svg+xml;charset=utf-8,%3Csvg height='24' width='24' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)[Request a demo](https://tresorit.com/request-a-demo)[Log In](https://web.tresorit.com/?from-website)
 
@@ -219,7 +211,7 @@ Cyber sale is here! Save big, store safely, share confidently. [Explore discount
 Tresorit – Terms of Service
 ===========================
 
-Thank you for using Tresorit. Tresorit is a cloud-based service that helps you share files and collaborate with your partners, colleagues and friends using cryptographic end-to-end security. Our Services are provided by Tresorit AG, having its registered seat at Franklinstrasse 27, 8050 Zurich, Switzerland ("Tresorit").
+Thank you for using Tresorit. Tresorit is a cloud-based service that helps you share files and collaborate with your partners, colleagues and friends using cryptographic end-to-end security. Our Services are provided by Tresorit AG, having its registered seat at Pfingstweidstrasse 60b, CH-8005 Zurich, Switzerland ("Tresorit").
 
 This document (the "Agreement") is a legally binding agreement between you ("Customer" or "User") and Tresorit; and governs access and use of our products and services, including applications, websites and relating Software (the "Services"). If you are agreeing to this Agreement not as an individual but on behalf of your organization, then "Customer" means your organization. In this case, this Agreement will bind your organization, unless your organization has a separate agreement in effect with us. You confirm that you have the necessary authority to enter into this Agreement on behalf of Customer before proceeding.
 
@@ -470,7 +462,7 @@ Version: 28/10/2022
         
     10. **Language:** Tresorit may provide translations of this Agreement or other terms or policies. Translations are provided for informational purposes only. If there is any inconsistency or conflict between a translation and the English version, the English version will apply.
         
-    11. **Notices:** Notices must be sent via email, first class post, airmail or overnight courier and are deemed given when received. Notices to Customer may also be sent to the applicable account email address and are deemed given when sent. Any questions about this Agreement, pricing, complaints, or other inquiries are to be addressed to Tresorit AG, Franklinstrasse 27, CH-8050 Zurich, Switzerland or to [support@tresorit.com](mailto:support@tresorit.com). Tresorit reserves the right to make reasonable steps to verify Customer's or Company Administered Users' identity before responding to or acting upon Customer's request.
+    11. **Notices:** Notices must be sent via email, first class post, airmail or overnight courier and are deemed given when received. Notices to Customer may also be sent to the applicable account email address and are deemed given when sent. Any questions about this Agreement, pricing, complaints, or other inquiries are to be addressed to Tresorit AG, Pfingstweidstrasse 60b, CH-8005 Zurich, Switzerland or to [support@tresorit.com](mailto:support@tresorit.com). Tresorit reserves the right to make reasonable steps to verify Customer's or Company Administered Users' identity before responding to or acting upon Customer's request.
         
 18. **Glossary**
     
