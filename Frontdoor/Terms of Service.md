@@ -114,7 +114,7 @@ Last Updated:  5/1/2020
 [Home ![](https://2qz9b4rx.media.zestyio.com/frontdoor-primary-logo-new.svg)](https://www.frontdoorhome.com/) 
 
 * [Terms of Use](https://www.frontdoorhome.com/terms-of-use/)
-* [Privacy Policy](https://www.frontdoorhome.com/privacy-policy/)
+* [Privacy Policy](https://www.frontdoor.com/legal/privacy-policy)
 * [Contact](https://www.frontdoorhome.com/contact/)
 
 ©2024 Frontdoor, Inc. All rights reserved.
