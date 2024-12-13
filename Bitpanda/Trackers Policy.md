@@ -36,7 +36,7 @@ RippleXRP](https://www.bitpanda.com/en/prices/ripple-xrp)[![BEST](https://a.stor
 
 Bitpanda Ecosystem Token BEST](https://www.bitpanda.com/en/prices/bitpanda-ecosystem-token-best)[See all Cryptocurrencies](https://www.bitpanda.com/en/prices/cryptocurrencies#)
 
-Trade
+Fusionnew
 
 The new standard for crypto trading
 
@@ -208,7 +208,7 @@ en
     
 * Prices
     
-* Trade
+* Fusionnew
     
 * Features
     
