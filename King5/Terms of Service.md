@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KREM/images/bece24be-ecbe-4723-811b-0164c5a5fd31/20241212T011017/bece24be-ecbe-4723-811b-0164c5a5fd31_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/bece24be-ecbe-4723-811b-0164c5a5fd31/20241212T011017/bece24be-ecbe-4723-811b-0164c5a5fd31_360x203.jpg)](https://www.king5.com/article/news/local/mother-saves-daughter-burning-car-north-spokane/293-db20b15e-52db-492a-a15e-bb6a0473a082)
+    *  [![](https://media.king5.com/assets/KING/images/b3eb5925-b384-4869-9c95-a9d6c6c224fb/20241213T170800/b3eb5925-b384-4869-9c95-a9d6c6c224fb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b3eb5925-b384-4869-9c95-a9d6c6c224fb/20241213T170800/b3eb5925-b384-4869-9c95-a9d6c6c224fb_360x203.jpg)](https://www.king5.com/article/news/politics/state-politics/bill-would-exempt-seniors-state-local-property-tax-washington/281-b5f377fc-8bf5-49a4-a630-8210db45d57d)
         
-        #### [Mother dives into burning car to save daughter in North Spokane](https://www.king5.com/article/news/local/mother-saves-daughter-burning-car-north-spokane/293-db20b15e-52db-492a-a15e-bb6a0473a082)
+        #### [Bill would exempt those 75 and older from state, local property tax in Washington](https://www.king5.com/article/news/politics/state-politics/bill-would-exempt-seniors-state-local-property-tax-washington/281-b5f377fc-8bf5-49a4-a630-8210db45d57d)
         
-    *  [![](https://media.king5.com/assets/KING/images/cf4abd9c-d529-4c9b-81db-25c94542b660/20241213T073302/cf4abd9c-d529-4c9b-81db-25c94542b660_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf4abd9c-d529-4c9b-81db-25c94542b660/20241213T073302/cf4abd9c-d529-4c9b-81db-25c94542b660_360x203.jpg)](https://www.king5.com/article/news/local/stolen-drum-sets-poisons-drummer-recovered-tip-from-guitar-center-employee/281-b188ae62-ffd5-4e15-8599-4643963a1d11)
+    *  [![](https://media.king5.com/assets/KING/images/b671b79d-35d1-43b9-adef-1225dc6bd971/20240914T014109/b671b79d-35d1-43b9-adef-1225dc6bd971_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b671b79d-35d1-43b9-adef-1225dc6bd971/20240914T014109/b671b79d-35d1-43b9-adef-1225dc6bd971_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/aerospace-union-south-carolina-boeing-employees/281-37723729-7a50-40b0-a895-73587da4f45f)
         
-        #### [Stolen drum sets from Poison's drummer recovered after tip from Guitar Center employee](https://www.king5.com/article/news/local/stolen-drum-sets-poisons-drummer-recovered-tip-from-guitar-center-employee/281-b188ae62-ffd5-4e15-8599-4643963a1d11)
+        #### [After West Coast contract win, machinists' union sets sights on Boeing's non-union South Carolina factories](https://www.king5.com/article/tech/science/aerospace/boeing/aerospace-union-south-carolina-boeing-employees/281-37723729-7a50-40b0-a895-73587da4f45f)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -60,9 +60,9 @@ Navigation
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/c2fc61e1-c443-4f97-b3c1-b6b89f63422e/20241210T133950/c2fc61e1-c443-4f97-b3c1-b6b89f63422e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c2fc61e1-c443-4f97-b3c1-b6b89f63422e/20241210T133950/c2fc61e1-c443-4f97-b3c1-b6b89f63422e_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/dense-fog-advisory-shelton-olympia-tumwater/281-9e2ca375-4ced-4617-8a43-53d900697dcf)
+    *  [![](https://media.king5.com/assets/KING/images/ed0bd12c-81db-4cd3-a9aa-0859bc6da845/20241120T011031/ed0bd12c-81db-4cd3-a9aa-0859bc6da845_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ed0bd12c-81db-4cd3-a9aa-0859bc6da845/20241120T011031/ed0bd12c-81db-4cd3-a9aa-0859bc6da845_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/gusty-winds-mountain-snow-coastal-flooding-western-washington/281-1316445b-691c-4796-93da-9054b5708fcc)
         
-        #### [Dense Fog Advisory in effect for Shelton, Olympia, Tumwater](https://www.king5.com/article/weather/weather-blog/dense-fog-advisory-shelton-olympia-tumwater/281-9e2ca375-4ced-4617-8a43-53d900697dcf)
+        #### [Winter Weather and Coastal Flooding Advisories in effect for western Washington this weekend](https://www.king5.com/article/weather/weather-blog/gusty-winds-mountain-snow-coastal-flooding-western-washington/281-1316445b-691c-4796-93da-9054b5708fcc)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -82,13 +82,13 @@ Navigation
     
     Latest Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/fabac61e-4398-418b-b467-8449d0c1ae4c/20241213T054612/fabac61e-4398-418b-b467-8449d0c1ae4c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fabac61e-4398-418b-b467-8449d0c1ae4c/20241213T054612/fabac61e-4398-418b-b467-8449d0c1ae4c_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/bjorkstrand-scores-twice-for-kraken-in-5-1-win-over-bruins/281-216061e1-d887-42c3-9c92-14f24c5a97c8)
+    *  [![](https://media.king5.com/assets/KING/images/cf1a05cd-500c-4ea1-930e-d38a3b901fd4/20241213T165106/cf1a05cd-500c-4ea1-930e-d38a3b901fd4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf1a05cd-500c-4ea1-930e-d38a3b901fd4/20241213T165106/cf1a05cd-500c-4ea1-930e-d38a3b901fd4_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/how-to-watch-packers-seahawks/281-1dfa5b44-5f34-4733-9030-99b79f023c40)
         
-        #### [Bjorkstrand scores twice for Kraken in 5-1 win over Bruins](https://www.king5.com/article/sports/nhl/kraken/bjorkstrand-scores-twice-for-kraken-in-5-1-win-over-bruins/281-216061e1-d887-42c3-9c92-14f24c5a97c8)
+        #### [Here's how to watch Seahawks vs. Packers on KING 5](https://www.king5.com/article/sports/nfl/seahawks/how-to-watch-packers-seahawks/281-1dfa5b44-5f34-4733-9030-99b79f023c40)
         
-    *  [![](https://media.king5.com/assets/KING/images/b5d60c2e-cc6e-4783-8d27-2f8794f5b69e/20241213T000528/b5d60c2e-cc6e-4783-8d27-2f8794f5b69e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b5d60c2e-cc6e-4783-8d27-2f8794f5b69e/20241213T000528/b5d60c2e-cc6e-4783-8d27-2f8794f5b69e_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/dk-metcalf-is-happy-to-block-as-seahawks-ride-streak-into-sunday-night-matchup-with-packers/281-615d0995-501f-4369-bdbd-f8ff8f0f9240)
+    *  [![](https://media.king5.com/assets/KING/images/d7682895-3031-4913-9253-ba94a1a893ab/20241210T175927/d7682895-3031-4913-9253-ba94a1a893ab_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d7682895-3031-4913-9253-ba94a1a893ab/20241210T175927/d7682895-3031-4913-9253-ba94a1a893ab_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/kraken-heroes-of-the-deep/281-4a020d9d-1427-4770-9968-42807986b47d)
         
-        #### [DK Metcalf is happy to block as Seahawks ride streak into Sunday night matchup with Packers](https://www.king5.com/article/sports/nfl/seahawks/dk-metcalf-is-happy-to-block-as-seahawks-ride-streak-into-sunday-night-matchup-with-packers/281-615d0995-501f-4369-bdbd-f8ff8f0f9240)
+        #### [How Kraken's Heroes of the Deep are chosen for each home game](https://www.king5.com/article/sports/nhl/kraken/kraken-heroes-of-the-deep/281-4a020d9d-1427-4770-9968-42807986b47d)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-42°
+47°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
