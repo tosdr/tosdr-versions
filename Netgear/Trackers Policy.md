@@ -154,7 +154,7 @@ Previous Next
     
     [![NETGEAR ENGAGE](/media/NETGEAR_Engage_Logo_Centered_tcm148-145109.png)](https://www.netgear.com/business/solutions/engage-controller/ "NETGEAR ENGAGE")
     
-* [AV SOLUTIONS](https://www.netgear.com/av/)
+* [AV SOLUTIONS](https://www.netgear.com/business/av/)
     
     [AV SOLUTIONS OVERVIEW](https://www.netgear.com/av/)
     
@@ -726,7 +726,7 @@ COMPANY
 * [Blog](https://www.netgear.com/hub/)
 * [Reseller Policy](https://downloads1.netgear.com/files/netgear/documents/netgear-reseller-policy.pdf)
 * [Certified Refurbished](https://store.netgear.com/refurbished-info/?lang=en_us&referrerpageurl=)
-* [Where To Buy](https://www.netgear.com/home/where-to-buy/)
+* [Where To Buy](https://www.netgear.com/where-to-buy/)
 
 [![facebook](/cid/fit/1024x633/https/www.netgear.com/media/facebook_tcm148-94986.png)](https://www.facebook.com/Netgear/)
 
