@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KREM/images/bece24be-ecbe-4723-811b-0164c5a5fd31/20241212T011017/bece24be-ecbe-4723-811b-0164c5a5fd31_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/bece24be-ecbe-4723-811b-0164c5a5fd31/20241212T011017/bece24be-ecbe-4723-811b-0164c5a5fd31_360x203.jpg)](https://www.king5.com/article/news/local/mother-saves-daughter-burning-car-north-spokane/293-db20b15e-52db-492a-a15e-bb6a0473a082)
+        
+        #### [Mother dives into burning car to save daughter in North Spokane](https://www.king5.com/article/news/local/mother-saves-daughter-burning-car-north-spokane/293-db20b15e-52db-492a-a15e-bb6a0473a082)
+        
     *  [![](https://media.king5.com/assets/KING/images/cf4abd9c-d529-4c9b-81db-25c94542b660/20241213T073302/cf4abd9c-d529-4c9b-81db-25c94542b660_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf4abd9c-d529-4c9b-81db-25c94542b660/20241213T073302/cf4abd9c-d529-4c9b-81db-25c94542b660_360x203.jpg)](https://www.king5.com/article/news/local/stolen-drum-sets-poisons-drummer-recovered-tip-from-guitar-center-employee/281-b188ae62-ffd5-4e15-8599-4643963a1d11)
         
         #### [Stolen drum sets from Poison's drummer recovered after tip from Guitar Center employee](https://www.king5.com/article/news/local/stolen-drum-sets-poisons-drummer-recovered-tip-from-guitar-center-employee/281-b188ae62-ffd5-4e15-8599-4643963a1d11)
-        
-    *  [![](https://media.king5.com/assets/KING/images/2ed14f06-9fe6-4d93-bb18-da0faef4b818/20241213T072923/2ed14f06-9fe6-4d93-bb18-da0faef4b818_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2ed14f06-9fe6-4d93-bb18-da0faef4b818/20241213T072923/2ed14f06-9fe6-4d93-bb18-da0faef4b818_360x203.jpg)](https://www.king5.com/article/news/local/snohomish-restaurant-closed-indefinitely-after-fire-owners-turn-to-community-support/281-ba0c4112-82cf-4042-a42b-7dd63513d72b)
-        
-        #### [Snohomish restaurant closed indefinitely after fire; owners turn to community for support](https://www.king5.com/article/news/local/snohomish-restaurant-closed-indefinitely-after-fire-owners-turn-to-community-support/281-ba0c4112-82cf-4042-a42b-7dd63513d72b)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/2a31e0aa-4719-438c-8f9e-4798eb4c4f13/20241213T073746/2a31e0aa-4719-438c-8f9e-4798eb4c4f13_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2a31e0aa-4719-438c-8f9e-4798eb4c4f13/20241213T073746/2a31e0aa-4719-438c-8f9e-4798eb4c4f13_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/a801d956-6a44-4dd0-9c17-7be96698a2ce/20241213T130426/a801d956-6a44-4dd0-9c17-7be96698a2ce_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a801d956-6a44-4dd0-9c17-7be96698a2ce/20241213T130426/a801d956-6a44-4dd0-9c17-7be96698a2ce_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -105,7 +105,7 @@ Navigation
 
 Seattle, WA »
 
-44°
+42°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
