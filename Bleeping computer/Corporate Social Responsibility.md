@@ -36,6 +36,9 @@
         
         Lynx ransomware behind Electrica energy supplier cyberattack](https://www.bleepingcomputer.com/news/security/lynx-ransomware-behind-electrica-energy-supplier-cyberattack/)
     
+    * [![Fill the cybersecurity skills gap with this $60 training bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Fill the cybersecurity skills gap with this $60 training bundle](https://www.bleepingcomputer.com/offer/deals/fill-the-cybersecurity-skills-gap-with-this-60-training-bundle/)
     * [![New stealthy Pumakit Linux rootkit malware spotted in the wild](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         New stealthy Pumakit Linux rootkit malware spotted in the wild](https://www.bleepingcomputer.com/news/security/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
@@ -45,9 +48,6 @@
     * [![New IOCONTROL malware used in critical infrastructure attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         New IOCONTROL malware used in critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/new-iocontrol-malware-used-in-critical-infrastructure-attacks/)
-    * [![US offers $5 million for info on North Korean IT worker farms](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        US offers $5 million for info on North Korean IT worker farms](https://www.bleepingcomputer.com/news/security/us-offers-5-million-for-info-on-north-korean-it-worker-farms/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
