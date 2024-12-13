@@ -275,6 +275,15 @@ An Garda Síochána would like to thank the media and the public for their assis
 [Search stood down for teenage girl who was missing nearly three weeks](https://www.derrynow.com/news/national-news/1678800/search-stood-down-for-teenage-girl-who-was-missing-nearly-three-weeks.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death")](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
+
+The late Rebecca Browne
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![REVEALED: Organisers confirm familiar venue for the 2025 National Ploughing Championships](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "REVEALED: Organisers confirm familiar venue for the 2025 National Ploughing Championships")](https://www.derrynow.com/news/national-news/1679090/revealed-organisers-confirm-familiar-venue-for-the-2025-national-ploughing-championships.html)
 
 File photo. Credit: Alf Harvey
@@ -292,13 +301,6 @@ Play National Lottery games responsibly, play for fun.     
 
 [Christmas comes early for EuroMillions Plus player who claimed top prize](https://www.derrynow.com/news/national-news/1678781/christmas-comes-early-for-euromillions-plus-player-who-claimed-top-prize.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1678369/derry-death-notices-thursday-december-12-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, December 12, 2024](https://www.derrynow.com/news/deaths/1678369/derry-death-notices-thursday-december-12-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![BREAKING: Man arrested on suspicion of murdering Kyran Durnin](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "BREAKING: Man arrested on suspicion of murdering Kyran Durnin")](https://www.derrynow.com/news/national-news/1678899/breaking-man-arrested-on-suspicion-of-murdering-kyran-durnin.html)
 
@@ -318,15 +320,6 @@ BBC Home of the Year Finalist
 [County Derry Home Featured in HomesNI’s Hotlist of 2024](https://www.derrynow.com/news/county-derry-post/1679114/county-derry-home-featured-in-homesnis-hotlist-of-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death")](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
-
-The late Rebecca Browne
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Self confessed drug dealer jailed for 26 months at Derry Crown Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Self confessed drug dealer jailed for 26 months at Derry Crown Court")](https://www.derrynow.com/news/local-news/1679038/self-confessed-drug-dealer-jailed-for-26-months-at-derry-crown-court.html)
 
 Derry Crown Court
@@ -344,6 +337,15 @@ Derry Magistrates' Court
 
 [Derry man breached Sexual Offences Prevention Order by being in the presence of children](https://www.derrynow.com/news/local-news/1679028/derry-man-breached-sexual-offences-prevention-order-by-being-in-the-presence-of-children.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man jailed at Derry Magistrate's Court for assaulting an ambulance worker](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man jailed at Derry Magistrate's Court for assaulting an ambulance worker")](https://www.derrynow.com/news/local-news/1679087/man-jailed-at-derry-magistrate-s-court-for-assaulting-an-ambulance-worker.html)
+
+Altnagelvin Hospital
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man jailed at Derry Magistrate's Court for assaulting an ambulance worker](https://www.derrynow.com/news/local-news/1679087/man-jailed-at-derry-magistrate-s-court-for-assaulting-an-ambulance-worker.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -521,6 +523,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1679367/derry-death-notices-friday-november-13-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Friday, November 13, 2024](https://www.derrynow.com/news/deaths/1679367/derry-death-notices-friday-november-13-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Birds top suspects amid anger and confusion over missing grave stones in Greysteel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Birds top suspects amid anger and confusion over missing grave stones in Greysteel")](https://www.derrynow.com/news/home/1679103/birds-top-suspects-amid-anger-and-confusion-over-missing-grave-stones-in-greysteel.html)
 
 [Home](https://www.derrynow.com/)
@@ -528,7 +537,7 @@ Advertise with Us
 [Birds top suspects amid anger and confusion over missing grave stones in Greysteel](https://www.derrynow.com/news/home/1679103/birds-top-suspects-amid-anger-and-confusion-over-missing-grave-stones-in-greysteel.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death")](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
+[![Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death](https://www.derrynow.com/resizer/165/93/true/2024_12_12/Donegal_Live_image_%2824%29-1684862504084.png--rebecca_browne_gsoc_investigation_re_designated_-1734019642177.png--.png?1734019642259 "Derry family left 'devastated' by decision not to prosecute gardai involved in woman's death")](https://www.derrynow.com/news/local-news/1679330/derry-family-left-devastated-by-decision-not-to-prosecute-gardai-involved-in-woman-s-death.html)
 
 The late Rebecca Browne
 
@@ -563,15 +572,6 @@ Derry Crown Court
 
 [Self confessed drug dealer jailed for 26 months at Derry Crown Court](https://www.derrynow.com/news/local-news/1679038/self-confessed-drug-dealer-jailed-for-26-months-at-derry-crown-court.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man returned for trial to Derry Crown Court on drug charges](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Man returned for trial to Derry Crown Court on drug charges")](https://www.derrynow.com/news/local-news/1679032/man-returned-for-trial-to-derry-crown-court-on-drug-charges.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man returned for trial to Derry Crown Court on drug charges](https://www.derrynow.com/news/local-news/1679032/man-returned-for-trial-to-derry-crown-court-on-drug-charges.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
