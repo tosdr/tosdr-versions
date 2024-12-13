@@ -324,7 +324,7 @@ Arrow
 
 [![Download on iOS](/downloadBadges/apple-app-store.svg)](https://itunes.apple.com/us/app/gemini-buy-sell-crypto/id1408914447)[![Download on Android](/downloadBadges/google-play.svg)](https://play.google.com/store/apps/details?id=com.gemini.android.app)
 
-NMLS #1518126
+Gemini Trust Company, LLC NMLS #1518126. Gemini Moonbase, LLC NMLS #2403509.
 
 © Copyright 2024 Gemini Space Station, LLC or its affiliates.
 
