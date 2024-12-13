@@ -826,7 +826,7 @@ Data is collected based on search terms. [Privacy Policy](https://www.twilio.co
 
 ### Code of Conduct & Ethics Hotline
 
-[Twilio Code of Conduct](https://www.twilio.com/content/dam/twilio-com/global/en/legal/Twilio%20Code%20of%20Conduct_2024.pdf)
+[Twilio Code of Conduct](https://www.twilio.com/content/dam/twilio-com/global/en/legal/twilio-full-code-dec-2024.pdf)
 
 [Ethics and Whistleblower Hotline](https://secure.ethicspoint.com/domain/media/en/gui/50422/index.html)
 
