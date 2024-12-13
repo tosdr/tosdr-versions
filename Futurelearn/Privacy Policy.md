@@ -716,6 +716,13 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [FutureLearn Hosts The China-UK Digital Higher Education Dialogue](https://www.futurelearn.com/info/press/futurelearn-hosts-the-china-uk-digital-higher-education-dialogue)
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    FutureLearn, the UK’s premier digital learning platform, hosted The China-UK Digital Higher Education Dialogue alongside …
+    
+    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
+    
 * [![Gen Aii Blog Header 1500x750](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Gen_AII_Blog_Header_1500x750-150x150.png "Gen Aii Blog Header 1500x750")](https://www.futurelearn.com/info/blog/generative-ai-a-game-changer-in-marketing-strategy-by-sven-van-stichel)
     
     [Generative AI: A game-changer in marketing and strategy by Sven Van Stichel](https://www.futurelearn.com/info/blog/generative-ai-a-game-changer-in-marketing-strategy-by-sven-van-stichel)
@@ -740,13 +747,6 @@ Powered By
     Discover the key differences between bachelor's and master's degrees, including career prospects, costs, and time …
     
     Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
-    
-* [FutureLearn Wins At The ESG & Sustainability Awards 2024](https://www.futurelearn.com/info/press/futurelearn-wins-at-the-esg-sustainability-awards-2024)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    FutureLearn, the UK’s leading online learning platform, is proud to announce it has won an …
-    
-    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
