@@ -1,5 +1,5 @@
   
-Shipping – G FUEL                                                                                                                             
+Shipping – G FUEL                                                                                                                                
 
 [Skip to content](#MainContent)  
 
@@ -105,6 +105,8 @@ Close menu
 * [Discord](https://discord.gg/DFKfA5PjDp "G FUEL on Discord")
 * [Twitch](https://www.twitch.tv/gfuelenergy "G FUEL on Twitch")
 
+[Cart](https://gfuel.com/cart) [Log in](https://gfuel.com/account)
+
   [![G FUEL](//gfuel.com/cdn/shop/files/GFL-HolidayLogo_150x.png?v=1731432585) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-HolidayLogo_130x.png?v=1731432585)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/GFL-HolidayLogo_150x.png?v=1731432585) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-HolidayLogo_130x.png?v=1731432585)](https://gfuel.com/)
 
   Search  "Close (esc)"
@@ -200,7 +202,7 @@ View more
 * [Store Locator](https://gfuel.com/pages/store-locator)
 * [Rewards](https://gfuel.com/pages/rewards)
 
-[Log in](https://gfuel.com/account) Site navigation [Cart](https://gfuel.com/cart)
+[Log in](https://gfuel.com/account) Search Site navigation [Cart](https://gfuel.com/cart)
 
   Search 
 
@@ -572,13 +574,13 @@ The statements contained in this website have not been evaluated by the Food and
 
 Rated 4.9 out of 5 stars
 
-7 Reviews
+8 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
-2,895 Reviews
+2,894 Reviews
 
 4.7
 
