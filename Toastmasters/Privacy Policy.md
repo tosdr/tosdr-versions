@@ -33,7 +33,7 @@ Search  Search
 
 [×](#)
 
-Have a year-end supply order? Place orders by 11:59 p.m. Mountain Time December 12 to be shipped by December 23.
+Any order placed before the end of the year (2024) will not begin shipping until January 3, 2025.
 
 Privacy Policy
 ==============
