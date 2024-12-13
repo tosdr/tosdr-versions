@@ -179,13 +179,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [ABC propels Dutton’s disinformation dealers](https://independentaustralia.net/article-display/abc-propels-duttons-disinformation-dealers,19256 "Permanent Link : ABC propels Dutton’s disinformation dealers")
+* [Helen Garner's ode to masculinity: 'The Season' captures her misogyny perfectly](https://independentaustralia.net/article-display/helen-garners-ode-to-masculinity-the-season-captures-her-misogyny-perfectly,19249 "Permanent Link : Helen Garner's ode to masculinity: 'The Season' captures her misogyny perfectly")
+* [CARTOONS: ABC high on the taste of Dutton's nuclear waste](https://independentaustralia.net/article-display/cartoons-abc-high-on-the-taste-of-duttons-nuclear-waste,19246 "Permanent Link : CARTOONS: ABC high on the taste of Dutton's nuclear waste")
 * [EDITORIAL: ABC propels Dutton’s disinformation dealers](https://independentaustralia.net/article-display/editorial-abc-propels-duttons-disinformation-dealers,19254 "Permanent Link : EDITORIAL: ABC propels Dutton’s disinformation dealers")
 * [Ding dong, Australia’s misinformation and disinformation Bill is dead](https://independentaustralia.net/article-display/ding-dong-australias-misinformation-and-disinformation-bill-is-dead,19250 "Permanent Link : Ding dong, Australia’s misinformation and disinformation Bill is dead")
 * [Social media ban: More harm than good](https://independentaustralia.net/article-display/social-media-ban-more-harm-than-good,19251 "Permanent Link : Social media ban: More harm than good")
 * [Pardoning Assange a test for free speech and Australia's backbone](https://independentaustralia.net/article-display/pardoning-assange-a-test-for-free-speech-and-australias-backbone,19248 "Permanent Link : Pardoning Assange a test for free speech and Australia's backbone")
-* [Gender inequality giving 'D-Minus Dads' a passing grade](https://independentaustralia.net/article-display/gender-inequality-giving-d-minus-dads-a-passing-grade,19247 "Permanent Link : Gender inequality giving 'D-Minus Dads' a passing grade")
-* [Direct-to-cell services a game-changer for rural and emergency networks](https://independentaustralia.net/article-display/direct-to-cell-services-a-game-changer-for-rural-and-emergency-networks,19244 "Permanent Link : Direct-to-cell services a game-changer for rural and emergency networks")
-* [Crisafulli under pressure on which way to steer Queensland](https://independentaustralia.net/article-display/crisafulli-under-pressure-on-which-way-to-steer-queensland,19242 "Permanent Link : Crisafulli under pressure on which way to steer Queensland")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
