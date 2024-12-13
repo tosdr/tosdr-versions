@@ -61,7 +61,7 @@ YOUR OFFERS
         
     * ![](//www.aventon.com/cdn/shop/files/Folding_A_437799d1-e385-47a4-a620-cef204dad76f.jpg?v=1733785581&width=288)
         
-        Folding
+        Folding NEW
         
         It fits where most can't.
         
@@ -85,7 +85,7 @@ YOUR OFFERS
         
     * ![](//www.aventon.com/cdn/shop/files/Lightweight.jpg?v=1733781561&width=288)
         
-        Lightweight
+        Lightweight NEW
         
         Grab and go.
         
@@ -94,7 +94,7 @@ YOUR OFFERS
         
         Abound NEW
         
-        Cargo Ebike
+        Cargo & Utility Ebike
         
     * ![](//www.aventon.com/cdn/shop/files/aventure-fat-tire-nav.jpg?v=1680657938&width=288)
         
@@ -122,13 +122,13 @@ YOUR OFFERS
         
     * ![](//www.aventon.com/cdn/shop/files/sinch2-quicksilver-nav.jpg?v=1682385368&width=288)
         
-        Sinch
+        Sinch NEW
         
         Folding Fat Tire Ebike
         
     * ![](//www.aventon.com/cdn/shop/files/soltera-2-storm-blue-nav-shot.jpg?v=1723759625&width=288)
         
-        Soltera
+        Soltera NEW
         
         Lightweight City Ebike
         
@@ -399,7 +399,7 @@ Open menu
         No roads necessary.](https://www.aventon.com/collections/fat-tire-electric-bike)
     * [![](//www.aventon.com/cdn/shop/files/Folding_A_437799d1-e385-47a4-a620-cef204dad76f.jpg?v=1733785581&width=288)
         
-        Folding
+        Folding NEW
         
         It fits where most can't.](https://www.aventon.com/collections/folding-electric-bike)
     * [![](//www.aventon.com/cdn/shop/files/Cruise_d80894c8-b654-4060-a480-675aedc3cb53.jpg?v=1733785672&width=288)
@@ -419,7 +419,7 @@ Open menu
         Hauls what most won’t.](https://www.aventon.com/collections/cargo-ebikes)
     * [![](//www.aventon.com/cdn/shop/files/Lightweight.jpg?v=1733781561&width=288)
         
-        Lightweight
+        Lightweight NEW
         
         Grab and go.](https://www.aventon.com/collections/lightweight-electric-bikes)
     
@@ -427,7 +427,7 @@ Open menu
         
         Abound NEW
         
-        Cargo Ebike](https://www.aventon.com/collections/ebikes?constraint=__abound)
+        Cargo & Utility Ebike](https://www.aventon.com/collections/ebikes?constraint=__abound)
     * [![](//www.aventon.com/cdn/shop/files/aventure-fat-tire-nav.jpg?v=1680657938&width=288)
         
         Aventure
@@ -450,12 +450,12 @@ Open menu
         Electric Mountain Bike](https://www.aventon.com/products/ramblas-electric-mountain-bike)
     * [![](//www.aventon.com/cdn/shop/files/sinch2-quicksilver-nav.jpg?v=1682385368&width=288)
         
-        Sinch
+        Sinch NEW
         
         Folding Fat Tire Ebike](https://www.aventon.com/collections/ebikes?constraint=__sinch)
     * [![](//www.aventon.com/cdn/shop/files/soltera-2-storm-blue-nav-shot.jpg?v=1723759625&width=288)
         
-        Soltera
+        Soltera NEW
         
         Lightweight City Ebike](https://www.aventon.com/collections/ebikes?constraint=__soltera)
     
