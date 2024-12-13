@@ -26,43 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-peteshawnryanshow-1200-x-628-1200x630.jpg)](https://americanwirenews.com/west-point-apologizes-for-giving-false-info-to-leftist-reporter-after-hegseth-blows-up-hit-piece/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-brian-bergen-1200x630.jpg)](https://americanwirenews.com/fuming-new-jersey-rep-walks-out-on-dhs-drones-briefing-amateur-hourthey-dont-know-anything/)
 
-[West Point apologizes for giving false info to leftist reporter after Hegseth blows up hit piece](https://americanwirenews.com/west-point-apologizes-for-giving-false-info-to-leftist-reporter-after-hegseth-blows-up-hit-piece/)
+[New Jersey Rep WALKS OUT on DHS drones briefing: ‘Amateur hour…They don’t know anything!’](https://americanwirenews.com/fuming-new-jersey-rep-walks-out-on-dhs-drones-briefing-amateur-hourthey-dont-know-anything/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-smile-rally-1200x630.jpg)](https://americanwirenews.com/get-the-popcorn-time-magazine-expected-to-make-liberal-heads-explode/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-rrouth-1200-x-628-1200x630.jpg)](https://americanwirenews.com/new-report-on-attempted-trump-assassination-indicates-agent-missed-six-very-close-shots/)
 
-[Get the popcorn, Time magazine expected to make liberal heads explode](https://americanwirenews.com/get-the-popcorn-time-magazine-expected-to-make-liberal-heads-explode/)
+[New report on attempted Trump assassination indicates agent missed SIX very close shots](https://americanwirenews.com/new-report-on-attempted-trump-assassination-indicates-agent-missed-six-very-close-shots/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-berniesanderscbs-1200-x-628-1200x630.jpg)](https://americanwirenews.com/leftist-geezer-senator-hints-hell-hang-around-until-hes-pushing-90-lucky-us/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-nyse-1200x630.jpg)](https://americanwirenews.com/america-is-so-back-usa-chants-erupt-as-trump-makes-history-greeted-like-a-rock-star-at-nyse/)
 
-[Leftist senator hints he’ll hang around until he’s pushing 90 – lucky us](https://americanwirenews.com/leftist-geezer-senator-hints-hell-hang-around-until-hes-pushing-90-lucky-us/)
+[‘America is so back!’ USA chants erupt as Trump makes history, greeted like a rock star at NYSE](https://americanwirenews.com/america-is-so-back-usa-chants-erupt-as-trump-makes-history-greeted-like-a-rock-star-at-nyse/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jill-biden-joy-harris-1200x630.jpg)](https://americanwirenews.com/jill-biden-insists-wish-for-holiday-joy-wasnt-a-wicked-trolling-of-kamala/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-covington-1200x630.jpg)](https://americanwirenews.com/mma-fighter-puts-fing-scumbag-lebron-james-on-blast-people-think-hes-a-role-model/)
 
-[Jill Biden insists wish for holiday ‘joy’ wasn’t a wicked trolling of Kamala](https://americanwirenews.com/jill-biden-insists-wish-for-holiday-joy-wasnt-a-wicked-trolling-of-kamala/)
+[MMA fighter puts ‘f\*\*ing scumbag’ LeBron James on blast: ‘People think he’s a role model?!’](https://americanwirenews.com/mma-fighter-puts-fing-scumbag-lebron-james-on-blast-people-think-hes-a-role-model/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/gw-trump-zuckerberg-1200x630.jpg)](https://americanwirenews.com/reports-of-mark-zuckerbergs-unexpected-new-move-to-kiss-the-trump-ring-gets-mixed-reviews/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jeffries-1200x630.jpg)](https://americanwirenews.com/stunner-jeffries-says-no-dems-will-support-johnson-as-speaker/)
 
-(Official White House Photo by Joiyce N. Boghosian)
+[Stunner: Jeffries says no Dems will support Johnson as Speaker](https://americanwirenews.com/stunner-jeffries-says-no-dems-will-support-johnson-as-speaker/)
 
-[Reports of Mark Zuckerberg’s unexpected new move to kiss the Trump ring gets mixed reviews](https://americanwirenews.com/reports-of-mark-zuckerbergs-unexpected-new-move-to-kiss-the-trump-ring-gets-mixed-reviews/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-burrow-1200x630.jpg)](https://americanwirenews.com/emotional-bangles-qb-addresses-lack-of-privacy-burglary-of-his-home-in-latest-nfl-targeted-crime/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/02/SG-Mitch-McConnell-1200-x-628-1200x630.jpg)](https://americanwirenews.com/mcconnell-conjures-wwii-in-warning-to-foreign-paper-about-trump/)
+[Emotional Bangles QB addresses lack of privacy, burglary of his home in latest NFL-targeted crime](https://americanwirenews.com/emotional-bangles-qb-addresses-lack-of-privacy-burglary-of-his-home-in-latest-nfl-targeted-crime/)
 
-[McConnell conjures WWII in warning to foreign paper about Trump](https://americanwirenews.com/mcconnell-conjures-wwii-in-warning-to-foreign-paper-about-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-live-prison-interview-1200x630.jpg)](https://americanwirenews.com/fellow-inmates-of-alleged-ceo-killer-yell-to-reporter-through-prison-fence-in-bizarre-live-shot/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-anita-dunn-1200x630.jpg)](https://americanwirenews.com/ex-biden-adviser-turns-on-him-slams-hunter-pardon-as-attack-on-the-judicial-system/)
+[Fellow inmates of alleged CEO killer yell to reporter through prison fence in bizarre live shot](https://americanwirenews.com/fellow-inmates-of-alleged-ceo-killer-yell-to-reporter-through-prison-fence-in-bizarre-live-shot/)
 
-[Ex-Biden adviser turns on him, slams Hunter pardon as ‘attack on the judicial system’](https://americanwirenews.com/ex-biden-adviser-turns-on-him-slams-hunter-pardon-as-attack-on-the-judicial-system/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-satanic-display-1200x630.jpg)](https://americanwirenews.com/satanic-holiday-statue-erected-in-front-of-new-hampshire-state-house-didnt-last-long-found-in-three-pieces/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-walzcringemas-1200-x-628-1200x630.jpg)](https://americanwirenews.com/tim-and-gwen-walz-put-the-cringe-into-christmas-in-weird-family-tree-video/)
+[Satanic holiday statue erected in front of New Hampshire State House didn’t last long: ‘Found in three pieces’](https://americanwirenews.com/satanic-holiday-statue-erected-in-front-of-new-hampshire-state-house-didnt-last-long-found-in-three-pieces/)
 
-[Tim and Gwen Walz put the CRINGE into Christmas in weird ‘family tree’ video](https://americanwirenews.com/tim-and-gwen-walz-put-the-cringe-into-christmas-in-weird-family-tree-video/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/02/SG-Justin-Trudeau-1200x630.jpg)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-penny-bragg-split-1200-x-628-1200x630.jpg)
-
-### Daniel Penny could sue prosecutor Alvin Bragg for malicious prosecution](https://americanwirenews.com/daniel-penny-could-sue-prosecutor-alvin-bragg-for-malicious-prosecution/)
+### Trudeau takes a shot at US for failing to elect a woman president after Trump’s ‘governor’ jab](https://americanwirenews.com/trudeau-takes-a-shot-at-us-for-failing-to-elect-a-woman-president-after-trumps-governor-jab/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -80,43 +78,49 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-live-prison-interview-220x180.jpg)](https://americanwirenews.com/fellow-inmates-of-alleged-ceo-killer-yell-to-reporter-through-prison-fence-in-bizarre-live-shot/)
-
-[Fellow inmates of alleged CEO killer yell to reporter through prison fence in bizarre live shot](https://americanwirenews.com/fellow-inmates-of-alleged-ceo-killer-yell-to-reporter-through-prison-fence-in-bizarre-live-shot/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jeffries-220x180.jpg)](https://americanwirenews.com/stunner-jeffries-says-no-dems-will-support-johnson-as-speaker/)
-
-[Stunner: Jeffries says no Dems will support Johnson as Speaker](https://americanwirenews.com/stunner-jeffries-says-no-dems-will-support-johnson-as-speaker/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-nyse-220x180.jpg)](https://americanwirenews.com/america-is-so-back-usa-chants-erupt-as-trump-makes-history-greeted-like-a-rock-star-at-nyse/)
-
-[‘America is so back!’ USA chants erupt as Trump makes history, greeted like a rock star at NYSE](https://americanwirenews.com/america-is-so-back-usa-chants-erupt-as-trump-makes-history-greeted-like-a-rock-star-at-nyse/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-brian-bergen-220x180.jpg)](https://americanwirenews.com/fuming-new-jersey-rep-walks-out-on-dhs-drones-briefing-amateur-hourthey-dont-know-anything/)
-
-[New Jersey Rep WALKS OUT on DHS drones briefing: ‘Amateur hour…They don’t know anything!’](https://americanwirenews.com/fuming-new-jersey-rep-walks-out-on-dhs-drones-briefing-amateur-hourthey-dont-know-anything/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-covington-220x180.jpg)](https://americanwirenews.com/mma-fighter-puts-fing-scumbag-lebron-james-on-blast-people-think-hes-a-role-model/)
-
-[MMA fighter puts ‘f\*\*ing scumbag’ LeBron James on blast: ‘People think he’s a role model?!’](https://americanwirenews.com/mma-fighter-puts-fing-scumbag-lebron-james-on-blast-people-think-hes-a-role-model/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-satanic-display-220x180.jpg)](https://americanwirenews.com/satanic-holiday-statue-erected-in-front-of-new-hampshire-state-house-didnt-last-long-found-in-three-pieces/)
-
-[Satanic holiday statue erected in front of New Hampshire State House didn’t last long: ‘Found in three pieces’](https://americanwirenews.com/satanic-holiday-statue-erected-in-front-of-new-hampshire-state-house-didnt-last-long-found-in-three-pieces/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-burrow-220x180.jpg)](https://americanwirenews.com/emotional-bangles-qb-addresses-lack-of-privacy-burglary-of-his-home-in-latest-nfl-targeted-crime/)
-
-[Emotional Bangles QB addresses lack of privacy, burglary of his home in latest NFL-targeted crime](https://americanwirenews.com/emotional-bangles-qb-addresses-lack-of-privacy-burglary-of-his-home-in-latest-nfl-targeted-crime/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/02/SG-Justin-Trudeau-220x180.jpg)](https://americanwirenews.com/trudeau-takes-a-shot-at-us-for-failing-to-elect-a-woman-president-after-trumps-governor-jab/)
-
-[Trudeau takes a shot at US for failing to elect a woman president after Trump’s ‘governor’ jab](https://americanwirenews.com/trudeau-takes-a-shot-at-us-for-failing-to-elect-a-woman-president-after-trumps-governor-jab/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-2189240078-1-220x180.jpg)](https://americanwirenews.com/kc-chiefs-superstar-rips-nfl-for-making-team-play-on-christmas-day/)
 
 [KC Chiefs superstar rips NFL for making team play on Christmas Day](https://americanwirenews.com/kc-chiefs-superstar-rips-nfl-for-making-team-play-on-christmas-day/)
 
 (Photo by Cooper Neill/Getty Images)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-walzcringemas-1200-x-628-220x180.jpg)](https://americanwirenews.com/tim-and-gwen-walz-put-the-cringe-into-christmas-in-weird-family-tree-video/)
+
+[Tim and Gwen Walz put the CRINGE into Christmas in weird ‘family tree’ video](https://americanwirenews.com/tim-and-gwen-walz-put-the-cringe-into-christmas-in-weird-family-tree-video/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-anita-dunn-220x180.jpg)](https://americanwirenews.com/ex-biden-adviser-turns-on-him-slams-hunter-pardon-as-attack-on-the-judicial-system/)
+
+[Ex-Biden adviser turns on him, slams Hunter pardon as ‘attack on the judicial system’](https://americanwirenews.com/ex-biden-adviser-turns-on-him-slams-hunter-pardon-as-attack-on-the-judicial-system/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/02/SG-Mitch-McConnell-1200-x-628-220x180.jpg)](https://americanwirenews.com/mcconnell-conjures-wwii-in-warning-to-foreign-paper-about-trump/)
+
+[McConnell conjures WWII in warning to foreign paper about Trump](https://americanwirenews.com/mcconnell-conjures-wwii-in-warning-to-foreign-paper-about-trump/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/gw-trump-zuckerberg-220x180.jpg)](https://americanwirenews.com/reports-of-mark-zuckerbergs-unexpected-new-move-to-kiss-the-trump-ring-gets-mixed-reviews/)
+
+[Reports of Mark Zuckerberg’s unexpected new move to kiss the Trump ring gets mixed reviews](https://americanwirenews.com/reports-of-mark-zuckerbergs-unexpected-new-move-to-kiss-the-trump-ring-gets-mixed-reviews/)
+
+(Official White House Photo by Joiyce N. Boghosian)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jill-biden-joy-harris-220x180.jpg)](https://americanwirenews.com/jill-biden-insists-wish-for-holiday-joy-wasnt-a-wicked-trolling-of-kamala/)
+
+[Jill Biden insists wish for holiday ‘joy’ wasn’t a wicked trolling of Kamala](https://americanwirenews.com/jill-biden-insists-wish-for-holiday-joy-wasnt-a-wicked-trolling-of-kamala/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-berniesanderscbs-1200-x-628-220x180.jpg)](https://americanwirenews.com/leftist-geezer-senator-hints-hell-hang-around-until-hes-pushing-90-lucky-us/)
+
+[Leftist senator hints he’ll hang around until he’s pushing 90 – lucky us](https://americanwirenews.com/leftist-geezer-senator-hints-hell-hang-around-until-hes-pushing-90-lucky-us/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-smile-rally-220x180.jpg)](https://americanwirenews.com/get-the-popcorn-time-magazine-expected-to-make-liberal-heads-explode/)
+
+[Get the popcorn, Time magazine expected to make liberal heads explode](https://americanwirenews.com/get-the-popcorn-time-magazine-expected-to-make-liberal-heads-explode/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-peteshawnryanshow-1200-x-628-220x180.jpg)](https://americanwirenews.com/west-point-apologizes-for-giving-false-info-to-leftist-reporter-after-hegseth-blows-up-hit-piece/)
+
+[West Point apologizes for giving false info to leftist reporter after Hegseth blows up hit piece](https://americanwirenews.com/west-point-apologizes-for-giving-false-info-to-leftist-reporter-after-hegseth-blows-up-hit-piece/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-penny-bragg-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/daniel-penny-could-sue-prosecutor-alvin-bragg-for-malicious-prosecution/)
+
+[Daniel Penny could sue prosecutor Alvin Bragg for malicious prosecution](https://americanwirenews.com/daniel-penny-could-sue-prosecutor-alvin-bragg-for-malicious-prosecution/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-2174352865-1-220x180.jpg)](https://americanwirenews.com/mel-gibson-visits-mar-a-lago-calls-out-wolves-in-sheeps-clothing-that-prey-upon-our-young/)
 
@@ -177,10 +181,6 @@ Image: Pixabay
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rogan-220x180.jpg)](https://americanwirenews.com/joe-rogan-slams-f-ing-gross-health-insurance-as-a-dirty-dirty-business/)
 
 [Joe Rogan slams ‘f-ing gross’ health insurance as a ‘dirty, dirty business’](https://americanwirenews.com/joe-rogan-slams-f-ing-gross-health-insurance-as-a-dirty-dirty-business/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-ana-navarro-220x180.jpg)](https://americanwirenews.com/ana-navarro-calls-for-people-to-open-up-their-wallets-for-liz-cheney/)
-
-[Ana Navarro calls for people to open up their wallets for Liz Cheney](https://americanwirenews.com/ana-navarro-calls-for-people-to-open-up-their-wallets-for-liz-cheney/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
