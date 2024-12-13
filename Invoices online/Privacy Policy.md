@@ -124,50 +124,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=e06a380d235406123e05cf04de43cd76d7c9c188bdb08c9528286f902003c985&c=102461881)  
-Roekeloos Group
-
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=e06a380d235406123e05cf04de43cd76d7c9c188bdb08c9528286f902003c985&c=66153150)  
-Brand's Fountains Deco and Events Coordinatoin
-
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=e06a380d235406123e05cf04de43cd76d7c9c188bdb08c9528286f902003c985&c=72497832)  
-IYD
-
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=e06a380d235406123e05cf04de43cd76d7c9c188bdb08c9528286f902003c985&c=62918275)  
-Tiny Cuddles Photography
-
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=e06a380d235406123e05cf04de43cd76d7c9c188bdb08c9528286f902003c985&c=151750181)  
-MONSTER SECURITY GUARDING
-
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=e06a380d235406123e05cf04de43cd76d7c9c188bdb08c9528286f902003c985&c=213259645)  
-Qothiphango Mining
-
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=e06a380d235406123e05cf04de43cd76d7c9c188bdb08c9528286f902003c985&c=75236645)  
-Echo Recording Studio cc
-
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=e06a380d235406123e05cf04de43cd76d7c9c188bdb08c9528286f902003c985&c=214174703)  
-McKaynine Mobility
-
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=e06a380d235406123e05cf04de43cd76d7c9c188bdb08c9528286f902003c985&c=129304826)  
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=990e02559eabebed2b640b437752a7c7a8d37e727f60a72a1cc229b040dbe8ba&c=15912583)  
 Iurus Inc
 
-![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=e06a380d235406123e05cf04de43cd76d7c9c188bdb08c9528286f902003c985&c=30552746)  
-The Gourmet Artisans Ltd.
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=990e02559eabebed2b640b437752a7c7a8d37e727f60a72a1cc229b040dbe8ba&c=139019351)  
+webb it services
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=e06a380d235406123e05cf04de43cd76d7c9c188bdb08c9528286f902003c985&c=160773163)  
-BD Maintenance
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=990e02559eabebed2b640b437752a7c7a8d37e727f60a72a1cc229b040dbe8ba&c=143323323)  
+WIP Digital Solutions
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=e06a380d235406123e05cf04de43cd76d7c9c188bdb08c9528286f902003c985&c=82837916)  
-Dombieterfontein (PTY) LTD
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=990e02559eabebed2b640b437752a7c7a8d37e727f60a72a1cc229b040dbe8ba&c=31307453)  
+Dr V Naik Consult
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=e06a380d235406123e05cf04de43cd76d7c9c188bdb08c9528286f902003c985&c=207768459)  
-Multi CNC Solutions CC
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=990e02559eabebed2b640b437752a7c7a8d37e727f60a72a1cc229b040dbe8ba&c=56260043)  
+Imhoff Equestrian Centre
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=e06a380d235406123e05cf04de43cd76d7c9c188bdb08c9528286f902003c985&c=58600038)  
-IEMS (PTY) ltd
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=990e02559eabebed2b640b437752a7c7a8d37e727f60a72a1cc229b040dbe8ba&c=150151913)  
+Cape Adventure Zone
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=e06a380d235406123e05cf04de43cd76d7c9c188bdb08c9528286f902003c985&c=188056127)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=990e02559eabebed2b640b437752a7c7a8d37e727f60a72a1cc229b040dbe8ba&c=145383789)  
+Roamfree Boerdery (PTY) LTD
+
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=990e02559eabebed2b640b437752a7c7a8d37e727f60a72a1cc229b040dbe8ba&c=107080286)  
+Website Café (PTY) LTD
+
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=990e02559eabebed2b640b437752a7c7a8d37e727f60a72a1cc229b040dbe8ba&c=52313932)  
+Oak Tree Immigration
+
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=990e02559eabebed2b640b437752a7c7a8d37e727f60a72a1cc229b040dbe8ba&c=91641924)  
+TechnoDezi PTY(LTD)
+
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=990e02559eabebed2b640b437752a7c7a8d37e727f60a72a1cc229b040dbe8ba&c=153414307)  
+Waterfinatics Swim School
+
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=990e02559eabebed2b640b437752a7c7a8d37e727f60a72a1cc229b040dbe8ba&c=132023633)  
+Leef in Afrikaans
+
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=990e02559eabebed2b640b437752a7c7a8d37e727f60a72a1cc229b040dbe8ba&c=130218729)  
+Lindani Protection Services & Projects
+
+![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=990e02559eabebed2b640b437752a7c7a8d37e727f60a72a1cc229b040dbe8ba&c=64740642)  
+Roekeloos Group
+
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=990e02559eabebed2b640b437752a7c7a8d37e727f60a72a1cc229b040dbe8ba&c=121083806)  
+Firstweb Hosting & Design
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
