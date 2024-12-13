@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
-[![Juhi and Abhinay](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Shubhangi and Mayank](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Juhi and Abhinay](https://image.wedmegood.com/resized/250X/uploads/images/81d76136e1ae4b11973ceb3b5fbb1e97realwedding/2_AM_AJ2.jpg?crop=230,412,1589,894)
+![Shubhangi and Mayank](https://image.wedmegood.com/resized/250X/uploads/images/e2211601e028467b981b883117fab9e2realwedding/SHUBHANGI_MAYANK_WEDDING-4770.jpg?crop=204,192,1525,857)
 
-Juhi and Abhinay (Jim Corbett)](https://www.wedmegood.com/real_wedding/detail/juhi-and-abhinay-jim-corbett-wedding-4452)
+Shubhangi and Mayank (Gurgaon)](https://www.wedmegood.com/real_wedding/detail/shubhangi-and-mayank-gurgaon-wedding-4456)
 
-[![Sobhita Dhulipala and Naga Chaitanya](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+[![Aaliyah Kashyap and Shane Gregoire](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
-![Sobhita Dhulipala and Naga Chaitanya](https://image.wedmegood.com/resized/250X/uploads/images/c2ab113b5615471ebf0d12d76fbfecc4realwedding/Snapinsta.app_469853022_984584490152365_3959553071423928342_n_1080.jpg?crop=119,26,858,482)
+![Aaliyah Kashyap and Shane Gregoire](https://image.wedmegood.com/resized/250X/uploads/images/eae25ccc5d084925807b25143c978fa4realwedding/Snapinsta.app_469911374_888083596866853_6990724753317082308_n_1080.jpg?crop=93,540,858,482)
 
-Sobhita Dhulipala and Naga Chaitanya (Hyderabad)](https://www.wedmegood.com/real_wedding/detail/sobhita-dhulipala-and-naga-chaitanya-hyderabad-telugu-wedding-4451)
+Aaliyah Kashyap and Shane Gregoire (Mumbai)](https://www.wedmegood.com/real_wedding/detail/aaliyah-kashyap-and-shane-gregoire-mumbai-wedding-4455)
 
 Browse by Category
 
