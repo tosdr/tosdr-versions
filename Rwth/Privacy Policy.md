@@ -97,7 +97,7 @@ _[To Portal Page](https://www.rwth-aachen.de/cms/root/~eeu/studium/lidx/1/ "To P
 
 * [Semester Dates](https://www.rwth-aachen.de/cms/root/studium/Im-Studium/~egv/Semestertermine/lidx/1/ "Academics > During Your Studies > Semester Dates")
 * [Transition to University](https://www.rwth-aachen.de/cms/root/studium/Im-Studium/~bjhbw/Studieneingangsphase/lidx/1/ "Academics > During Your Studies > Transition to University")
-* [The Re-Registration Process for the 2024/25 Winter Semester](https://www.rwth-aachen.de/cms/root/studium/Im-Studium/~egw/Rueckmeldung/lidx/1/ "Academics > During Your Studies > The Re-Registration Process for the 2024/25 Winter Semester")
+* [The Re-Registration Process for the 2025 Summer Semester](https://www.rwth-aachen.de/cms/root/studium/Im-Studium/~egw/Rueckmeldung/lidx/1/ "Academics > During Your Studies > The Re-Registration Process for the 2025 Summer Semester")
 * [Leave of Absence](https://www.rwth-aachen.de/cms/root/studium/Im-Studium/~egx/Beurlaubung/lidx/1/ "Academics > During Your Studies > Leave of Absence")
 * [University Placement Swap](https://www.rwth-aachen.de/cms/root/studium/Im-Studium/~ehb/Studienplatztausch/lidx/1/ "Academics > During Your Studies > University Placement Swap")
 * [More ...](https://www.rwth-aachen.de/cms/root/studium/~efa/Im-Studium/lidx/1/ "Academics > During Your Studies > More ...")
