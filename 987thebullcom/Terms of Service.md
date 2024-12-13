@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Life With YouKelsey Hart<br><br>4:39am |
-| Single Saturday NightCole Swindell<br><br>4:36am |
-| I Got A GuyPost Malone Ft Luke Combs<br><br>4:33am |
-| I Never LieZach Top<br><br>4:29am |
-| Just To Say We DidKenny Chesney<br><br>4:27am |
+| Lies, Lies, LiesMorgan Wallen<br><br>10:37am |
+| Let It SnowBlake Shelton<br><br>10:35am |
+| Where It EndsBailey Zimmerman<br><br>10:32am |
+| Sounds Like The RadioZach Top<br><br>10:28am |
+| People Are CrazyBilly Currington<br><br>10:24am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,10 +360,6 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
@@ -372,9 +368,13 @@ Top 40 • Pacific NW
 
 Country • Western
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-News Talk • Eastern
+Spanish • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
