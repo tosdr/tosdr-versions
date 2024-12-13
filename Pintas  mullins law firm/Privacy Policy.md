@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What damages can i collect in a mormon (lds) church sex abuse settlement?](https://www.pintas.com/wp-content/uploads/2019/12/blog-img.jpg "What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-damages-can-i-collect-in-a-mormon-church-sexual-abuse-settlement/ "What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?")
+[![Mormon church sex abuse case consequences](https://www.pintas.com/wp-content/uploads/2023/04/General-law2-300x177.jpg "Mormon Church Sex Abuse Case Consequences")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/if-i-file-a-sexual-abuse-case-against-the-mormon-church-will-i-be-kicked-out/ "Mormon Church Sex Abuse Case Consequences")
 
-[#### What Damages Can I Collect in a Mormon (LDS) Church Sex Abuse Settlement?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/what-damages-can-i-collect-in-a-mormon-church-sexual-abuse-settlement/)
+[#### Mormon Church Sex Abuse Case Consequences](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/if-i-file-a-sexual-abuse-case-against-the-mormon-church-will-i-be-kicked-out/)
 
-[![Can i file a claim against roundup for a loved one’s death?](https://www.pintas.com/wp-content/uploads/2020/11/can-i-file-a-claim-against-roundup-for-a-loved-ones-death.jpg "Can I File a Claim Against Roundup for a Loved One’s Death?")](https://www.pintas.com/lawsuit/roundup-weed-killer/can-i-file-a-claim-against-roundup-for-a-loved-ones-death/ "Can I File a Claim Against Roundup for a Loved One’s Death?")
+[![How can you help prevent nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-can-you-help-prevent-nursing-home-abuse-scaled.jpg "How Can You Help Prevent Nursing Home Abuse?")](https://www.pintas.com/faq/how-can-you-help-prevent-nursing-home-abuse/ "How Can You Help Prevent Nursing Home Abuse?")
 
-[#### Can I File a Claim Against Roundup for a Loved One’s Death?](https://www.pintas.com/lawsuit/roundup-weed-killer/can-i-file-a-claim-against-roundup-for-a-loved-ones-death/)
+[#### How Can You Help Prevent Nursing Home Abuse?](https://www.pintas.com/faq/how-can-you-help-prevent-nursing-home-abuse/)
 
-[![Can roundup cause cancer in dogs?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-can-roundup-cause-cancer-in-dogs.jpg "Can Roundup Cause Cancer in Dogs?")](https://www.pintas.com/lawsuit/roundup-weed-killer/can-roundup-cause-cancer-in-dogs/ "Can Roundup Cause Cancer in Dogs?")
+[![What are the odds of beating lung cancer?](https://www.pintas.com/wp-content/uploads/2020/11/what-are-the-odds-of-beating-lung-cancer.jpg "What Are the Odds of Beating Lung Cancer?")](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/ "What Are the Odds of Beating Lung Cancer?")
 
-[#### Can Roundup Cause Cancer in Dogs?](https://www.pintas.com/lawsuit/roundup-weed-killer/can-roundup-cause-cancer-in-dogs/)
+[#### What Are the Odds of Beating Lung Cancer?](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
