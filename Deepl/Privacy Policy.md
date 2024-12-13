@@ -4,6 +4,8 @@ Home
 
 [DeepL Translator](https://www.deepl.com/en/translator)[DeepL Write](https://www.deepl.com/en/write)
 
+Apps and integrations
+
 Resources
 
 Account
