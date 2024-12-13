@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/SNOW-WHITE-LAUNCH_112-copy-360x180.jpeg)](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
+    
+    ### [Events for the whole family in south London this season](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
+    
+    [![(credit: Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/12/4920B8AD-10DE-44F8-9884-367651222716-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-playground-reopens-after-420k-makeover/)
+    
+    ### [Bermondsey playground reopens after £420k makeover](https://southwarknews.co.uk/area/bermondsey/bermondsey-playground-reopens-after-420k-makeover/)
+    
+    [![L: Blenheim Grove building has been left like this for years and still has no tenants. R: The arcade is next to be demolished but delays have pushed it back.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-11-12-2024-at-11.08-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/peckham-rye-businesses-blighted-by-delayed-station-square-regeneration-say-the-area-has-been-left-to-rot/)
+    
+    ### [Peckham Rye: Businesses blighted by delayed Station Square regeneration say the area has been ‘left to rot’](https://southwarknews.co.uk/news/news-plus/peckham-rye-businesses-blighted-by-delayed-station-square-regeneration-say-the-area-has-been-left-to-rot/)
+    
     [![The Aylesbury Estate in Walworth, Southwark. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Aylesbury-Estate-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
     
     ### [Lib Dems claim Southwark Council failing to use empty homes powers](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
@@ -44,19 +56,6 @@
     [![A site overview with the H1 plot marked out in red](https://southwarknews.co.uk/wp-content/uploads/2024/12/0qYm4xug-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/long-held-plans-for-18-storey-elephant-and-castle-office-block-cast-aside-after-site-sold-for-42-million/)
     
     ### [Long-held plans for 18-storey Elephant and Castle office block cast aside after site sold for £42 million](https://southwarknews.co.uk/news/news-plus/long-held-plans-for-18-storey-elephant-and-castle-office-block-cast-aside-after-site-sold-for-42-million/)
-    
-    [![The new design at 110 The Queen's Walk. 
-    Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-design-at-City-Hall-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
-    
-    ### [APPROVED: Plans to revamp London’s former City Hall in Bermondsey](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
-    
-    [![Left to right: Cllr Esme Dobson, Cllr Jasmine Ali and Cllr David Parton overlayed against a computer generated image of Peckham town centre post-redevelopment](https://southwarknews.co.uk/wp-content/uploads/2024/12/Left-to-right-Cllr-Esme-Dobson-Cllr-Jasmine-Ali-and-Cllr-David-Parton-overlayed-against-a-computer-generated-image-of-Peckham-town-centre-post-redevelopment-360x180.png)](https://southwarknews.co.uk/news/news-plus/labour-councillors-back-calls-for-50-affordable-housing-in-peckham-town-centre-redevelopment/)
-    
-    ### [Labour councillors back calls for 50% affordable housing in Peckham town centre redevelopment](https://southwarknews.co.uk/news/news-plus/labour-councillors-back-calls-for-50-affordable-housing-in-peckham-town-centre-redevelopment/)
-    
-    [![London mayor Sadiq Khan. Credit Noah Vickers-Local Democracy Reporting](https://southwarknews.co.uk/wp-content/uploads/2024/05/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-Local-Democracy-Reporting-Service-360x180.jpg)](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
-    
-    ### [Over 200 stalkers to be fitted with GPS tags on their release from prison](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -107,6 +106,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/SNOW-WHITE-LAUNCH_112-copy-360x180.jpeg)](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
+    
+    ### [Events for the whole family in south London this season](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
+    
+    [![(credit: Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/12/4920B8AD-10DE-44F8-9884-367651222716-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-playground-reopens-after-420k-makeover/)
+    
+    ### [Bermondsey playground reopens after £420k makeover](https://southwarknews.co.uk/area/bermondsey/bermondsey-playground-reopens-after-420k-makeover/)
+    
+    [![L: Blenheim Grove building has been left like this for years and still has no tenants. R: The arcade is next to be demolished but delays have pushed it back.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-11-12-2024-at-11.08-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/peckham-rye-businesses-blighted-by-delayed-station-square-regeneration-say-the-area-has-been-left-to-rot/)
+    
+    ### [Peckham Rye: Businesses blighted by delayed Station Square regeneration say the area has been ‘left to rot’](https://southwarknews.co.uk/news/news-plus/peckham-rye-businesses-blighted-by-delayed-station-square-regeneration-say-the-area-has-been-left-to-rot/)
+    
     [![The Aylesbury Estate in Walworth, Southwark. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Aylesbury-Estate-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
     
     ### [Lib Dems claim Southwark Council failing to use empty homes powers](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
@@ -131,19 +142,6 @@ View All Result
     [![A site overview with the H1 plot marked out in red](https://southwarknews.co.uk/wp-content/uploads/2024/12/0qYm4xug-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/long-held-plans-for-18-storey-elephant-and-castle-office-block-cast-aside-after-site-sold-for-42-million/)
     
     ### [Long-held plans for 18-storey Elephant and Castle office block cast aside after site sold for £42 million](https://southwarknews.co.uk/news/news-plus/long-held-plans-for-18-storey-elephant-and-castle-office-block-cast-aside-after-site-sold-for-42-million/)
-    
-    [![The new design at 110 The Queen's Walk. 
-    Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-design-at-City-Hall-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
-    
-    ### [APPROVED: Plans to revamp London’s former City Hall in Bermondsey](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
-    
-    [![Left to right: Cllr Esme Dobson, Cllr Jasmine Ali and Cllr David Parton overlayed against a computer generated image of Peckham town centre post-redevelopment](https://southwarknews.co.uk/wp-content/uploads/2024/12/Left-to-right-Cllr-Esme-Dobson-Cllr-Jasmine-Ali-and-Cllr-David-Parton-overlayed-against-a-computer-generated-image-of-Peckham-town-centre-post-redevelopment-360x180.png)](https://southwarknews.co.uk/news/news-plus/labour-councillors-back-calls-for-50-affordable-housing-in-peckham-town-centre-redevelopment/)
-    
-    ### [Labour councillors back calls for 50% affordable housing in Peckham town centre redevelopment](https://southwarknews.co.uk/news/news-plus/labour-councillors-back-calls-for-50-affordable-housing-in-peckham-town-centre-redevelopment/)
-    
-    [![London mayor Sadiq Khan. Credit Noah Vickers-Local Democracy Reporting](https://southwarknews.co.uk/wp-content/uploads/2024/05/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-Local-Democracy-Reporting-Service-360x180.jpg)](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
-    
-    ### [Over 200 stalkers to be fitted with GPS tags on their release from prison](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -247,6 +245,18 @@ Terms of Use
 
 ### Featured Articles
 
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/12/SNOW-WHITE-LAUNCH_112-copy-120x86.jpeg)](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
+
+### [Events for the whole family in south London this season](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
+
+[12th December 2024](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
+
+[![(credit: Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/12/4920B8AD-10DE-44F8-9884-367651222716-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-playground-reopens-after-420k-makeover/)
+
+### [Bermondsey playground reopens after £420k makeover](https://southwarknews.co.uk/area/bermondsey/bermondsey-playground-reopens-after-420k-makeover/)
+
+[12th December 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-playground-reopens-after-420k-makeover/)
+
 [![The Aylesbury Estate in Walworth, Southwark. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Aylesbury-Estate-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
 
 ### [Lib Dems claim Southwark Council failing to use empty homes powers](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
@@ -271,19 +281,6 @@ CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-con
 ### [Man, 62, nearly died after alleged Rye Lane stab attack as police appeal for witnesses](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
 
 [11th December 2024](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
-
-[![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-120x86.webp)](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
-
-### [TfL to axe popular South London bus route despite admitting public is ‘not supportive’](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
-
-[11th December 2024](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
-
-[![The new design at 110 The Queen's Walk. 
-Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-design-at-City-Hall-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
-
-### [APPROVED: Plans to revamp London’s former City Hall in Bermondsey](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
-
-[11th December 2024](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
 
 ### USEFUL PAGES
 
