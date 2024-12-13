@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
-* [Nahrungs­ergän­zungs­mittel für Knochen, Knorpel oder Gelenke: Alle sind über­flüssig – einige auch riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Knochen-Knorpel-oder-Gelenke-Alle-sind-ueberfluessig-einige-auch-riskant-6095273-0/ "Nahrungsergänzungsmittel für Knochen, Knorpel oder Gelenke - Alle sind überflüssig – einige auch riskant")
-* [Wohnung mieten: Kaution, Ablöse, Über­gabe – das gilt für die neue Wohnung](https://www.test.de/Wohnung-mieten-Kaution-Abloese-Abstand-neue-Wohnung-6063656-0/ "Wohnung mieten - Kaution, Ablöse, Übergabe – das gilt für die neue Wohnung")
-* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Elektronische Patienten­akte: Jetzt lieber aktiv werden](https://www.test.de/elektronische-Patientenakte-6165565-0/ "Elektronische Patientenakte - Jetzt lieber aktiv werden")
+* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
+* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
+* [Preis­vergleichs-Apps im Test: Schnäpp­chen jagen per App](https://www.test.de/Preisvergleichs-Apps-im-Test-5990935-0/ "Preisvergleichs-Apps im Test - Schnäppchen jagen per App")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [PFAS in Skiwachs: Ich fahr ab – auf fluorfreiem Wachs!](https://www.test.de/PFAS-in-Skiwachs-Ich-fahr-ab-auf-fluorfreiem-Wachs-6166556-0/ "PFAS in Skiwachs - Ich fahr ab – auf fluorfreiem Wachs!")
+* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
-* [Nahrungs­ergän­zungs­mittel für Knochen, Knorpel oder Gelenke: Alle sind über­flüssig – einige auch riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Knochen-Knorpel-oder-Gelenke-Alle-sind-ueberfluessig-einige-auch-riskant-6095273-0/ "Nahrungsergänzungsmittel für Knochen, Knorpel oder Gelenke - Alle sind überflüssig – einige auch riskant")
-* [Wohnung mieten: Kaution, Ablöse, Über­gabe – das gilt für die neue Wohnung](https://www.test.de/Wohnung-mieten-Kaution-Abloese-Abstand-neue-Wohnung-6063656-0/ "Wohnung mieten - Kaution, Ablöse, Übergabe – das gilt für die neue Wohnung")
-* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Elektronische Patienten­akte: Jetzt lieber aktiv werden](https://www.test.de/elektronische-Patientenakte-6165565-0/ "Elektronische Patientenakte - Jetzt lieber aktiv werden")
+* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
+* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
+* [Preis­vergleichs-Apps im Test: Schnäpp­chen jagen per App](https://www.test.de/Preisvergleichs-Apps-im-Test-5990935-0/ "Preisvergleichs-Apps im Test - Schnäppchen jagen per App")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [PFAS in Skiwachs: Ich fahr ab – auf fluorfreiem Wachs!](https://www.test.de/PFAS-in-Skiwachs-Ich-fahr-ab-auf-fluorfreiem-Wachs-6166556-0/ "PFAS in Skiwachs - Ich fahr ab – auf fluorfreiem Wachs!")
+* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
-* [Nahrungs­ergän­zungs­mittel für Knochen, Knorpel oder Gelenke: Alle sind über­flüssig – einige auch riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Knochen-Knorpel-oder-Gelenke-Alle-sind-ueberfluessig-einige-auch-riskant-6095273-0/ "Nahrungsergänzungsmittel für Knochen, Knorpel oder Gelenke - Alle sind überflüssig – einige auch riskant")
-* [Wohnung mieten: Kaution, Ablöse, Über­gabe – das gilt für die neue Wohnung](https://www.test.de/Wohnung-mieten-Kaution-Abloese-Abstand-neue-Wohnung-6063656-0/ "Wohnung mieten - Kaution, Ablöse, Übergabe – das gilt für die neue Wohnung")
-* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Elektronische Patienten­akte: Jetzt lieber aktiv werden](https://www.test.de/elektronische-Patientenakte-6165565-0/ "Elektronische Patientenakte - Jetzt lieber aktiv werden")
+* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
+* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
+* [Preis­vergleichs-Apps im Test: Schnäpp­chen jagen per App](https://www.test.de/Preisvergleichs-Apps-im-Test-5990935-0/ "Preisvergleichs-Apps im Test - Schnäppchen jagen per App")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [PFAS in Skiwachs: Ich fahr ab – auf fluorfreiem Wachs!](https://www.test.de/PFAS-in-Skiwachs-Ich-fahr-ab-auf-fluorfreiem-Wachs-6166556-0/ "PFAS in Skiwachs - Ich fahr ab – auf fluorfreiem Wachs!")
+* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
-* [Nahrungs­ergän­zungs­mittel für Knochen, Knorpel oder Gelenke: Alle sind über­flüssig – einige auch riskant](https://www.test.de/Nahrungsergaenzungsmittel-fuer-Knochen-Knorpel-oder-Gelenke-Alle-sind-ueberfluessig-einige-auch-riskant-6095273-0/ "Nahrungsergänzungsmittel für Knochen, Knorpel oder Gelenke - Alle sind überflüssig – einige auch riskant")
-* [Wohnung mieten: Kaution, Ablöse, Über­gabe – das gilt für die neue Wohnung](https://www.test.de/Wohnung-mieten-Kaution-Abloese-Abstand-neue-Wohnung-6063656-0/ "Wohnung mieten - Kaution, Ablöse, Übergabe – das gilt für die neue Wohnung")
-* [Internetanbieter im Vergleich: Stadt, Land, Daten­fluss – bei welchem Provider stimmt das Tempo?](https://www.test.de/Internetanbieter-im-Vergleich-Stadt-Land-Datenfluss-10-Provider-im-Vergleich-6104862-0/ "Internetanbieter im Vergleich - Stadt, Land, Datenfluss – bei welchem Provider stimmt das Tempo?")
-* [Acadian Investment: Falsche Frank­furter kommen auf Warn­liste](https://www.test.de/Acadian-Investment-Falsche-Frankfurter-kommen-auf-Warnliste-5975768-0/ "Acadian Investment - Falsche Frankfurter kommen auf Warnliste")
-* [Elektronische Patienten­akte: Jetzt lieber aktiv werden](https://www.test.de/elektronische-Patientenakte-6165565-0/ "Elektronische Patientenakte - Jetzt lieber aktiv werden")
+* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
+* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
+* [Preis­vergleichs-Apps im Test: Schnäpp­chen jagen per App](https://www.test.de/Preisvergleichs-Apps-im-Test-5990935-0/ "Preisvergleichs-Apps im Test - Schnäppchen jagen per App")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [PFAS in Skiwachs: Ich fahr ab – auf fluorfreiem Wachs!](https://www.test.de/PFAS-in-Skiwachs-Ich-fahr-ab-auf-fluorfreiem-Wachs-6166556-0/ "PFAS in Skiwachs - Ich fahr ab – auf fluorfreiem Wachs!")
+* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
 
 Stiftung Warentest
 
