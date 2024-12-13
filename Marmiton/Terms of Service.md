@@ -69,6 +69,7 @@ Connexion
     ](https://assets.afcdn.com/recipe/20241115/155845_origin.png)
     
     Prix Marmiton 2024](https://www.marmiton.org/prix-marmiton-2024/prix-marmiton-2024-hub-tp199358.html)
+* [Électroménager en cuisine](https://www.marmiton.org/tout-sur-electromenagers-sc34.html)
 
 [Accueil](https://www.marmiton.org/) / [Aide](https://www.marmiton.org/aide-sc27.html) / Conditions générales d'utilisation
 
