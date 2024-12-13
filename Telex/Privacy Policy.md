@@ -4,7 +4,7 @@ Luca, Otília
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "borult")
 
-\-1°3°
+0°1°
 
 Menü
 
