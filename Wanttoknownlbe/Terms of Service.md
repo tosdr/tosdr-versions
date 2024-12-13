@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/bewezen-lockdowns-werken-niet/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/eerst-het-donker-dan-het-licht/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
