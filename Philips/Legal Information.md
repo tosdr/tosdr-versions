@@ -36,7 +36,7 @@ support search icon
 
 Search terms
 
-Global
+Privacy notice
 
 Philips Privacy Notice
 
