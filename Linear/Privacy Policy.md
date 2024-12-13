@@ -353,6 +353,7 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [Careers](https://linear.app/careers)
 * [Blog](https://linear.app/blog)
 * [README](https://linear.app/readme)
+* [Quality](https://linear.app/quality)
 * [Brand](https://linear.app/brand)
 
 ### Resources
@@ -1076,6 +1077,7 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [Careers](https://linear.app/careers)
 * [Blog](https://linear.app/blog)
 * [README](https://linear.app/readme)
+* [Quality](https://linear.app/quality)
 * [Brand](https://linear.app/brand)
 
 ### Resources
@@ -1123,6 +1125,7 @@ If you have any questions or comments about this Privacy Policy, the ways in whi
 * [Careers](https://linear.app/careers)
 * [Blog](https://linear.app/blog)
 * [README](https://linear.app/readme)
+* [Quality](https://linear.app/quality)
 * [Brand](https://linear.app/brand)
 
 ### Resources
