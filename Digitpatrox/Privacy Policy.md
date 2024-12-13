@@ -20,16 +20,16 @@ Friday, December 13 2024
 
 Latest
 
-* [Police shuts down Rydox cybercrime market, arrests 3 admins](https://digitpatrox.com/police-shuts-down-rydox-cybercrime-market-arrests-3-admins/)
-* [Naughty Dog reveals sci-fi game Intergalactic: The Heretic Prophet](https://digitpatrox.com/naughty-dog-reveals-sci-fi-game-intergalactic-the-heretic-prophet/)
-* [Ryan Reynolds Returns as Deadpool in a New Christmas Special Video](https://digitpatrox.com/ryan-reynolds-returns-as-deadpool-in-a-new-christmas-special-video/)
-* [Is Crypto.com safe to use? What you need to know](https://digitpatrox.com/is-crypto-com-safe-to-use-what-you-need-to-know/)
-* [Google wants regulators to break up Microsoft’s OpenAI deal](https://digitpatrox.com/google-wants-regulators-to-break-up-microsofts-openai-deal/)
-* [Scale AI under fire in suit filed by former worker alleging unlawful business practices – Computerworld](https://digitpatrox.com/scale-ai-under-fire-in-suit-filed-by-former-worker-alleging-unlawful-business-practices-computerworld/)
-* [Ciri Takes the Lead Role in ‘The Witcher 4’](https://digitpatrox.com/ciri-takes-the-lead-role-in-the-witcher-4/)
-* [Are Mobile Hotspots Secure? (Are They Safer Than Public Wi-Fi?)](https://digitpatrox.com/are-mobile-hotspots-secure-are-they-safer-than-public-wi-fi/)
-* [How to sync settings across devices on Windows 10](https://digitpatrox.com/how-to-sync-settings-across-devices-on-windows-10/)
-* [How to Avoid Buying a Lemon Appliance](https://digitpatrox.com/how-to-avoid-buying-a-lemon-appliance/)
+* [Vendor Spotlight: SanerNow](https://digitpatrox.com/vendor-spotlight-sanernow/)
+* [How to Set Up Your Ideal Home Gym](https://digitpatrox.com/how-to-set-up-your-ideal-home-gym/)
+* [Windows 10’s End Is Nigh. Now’s the Time to Get Used to Linux](https://digitpatrox.com/windows-10s-end-is-nigh-nows-the-time-to-get-used-to-linux/)
+* [How to turn on and turn off Dark Mode on an iPhone](https://digitpatrox.com/how-to-turn-on-and-turn-off-dark-mode-on-an-iphone/)
+* [Threat of personal liability has CISOs sweating](https://digitpatrox.com/threat-of-personal-liability-has-cisos-sweating/)
+* [Google Launches Gemini 2.0 with Autonomous Tool Linking](https://digitpatrox.com/google-launches-gemini-2-0-with-autonomous-tool-linking/)
+* [Amazon’s ‘The List’ sale just launched — here’s 21 holiday deals I’d buy now on Stanley, Beats, Lego and more from $10](https://digitpatrox.com/amazons-the-list-sale-just-launched-heres-21-holiday-deals-id-buy-now-on-stanley-beats-lego-and-more-from-10/)
+* [New IOCONTROL malware used in critical infrastructure attacks](https://digitpatrox.com/new-iocontrol-malware-used-in-critical-infrastructure-attacks/)
+* [Okami is getting a sequel](https://digitpatrox.com/okami-is-getting-a-sequel/)
+* [Google Announces Android XR OS, Teams Up With Samsung for “Project Moohan”](https://digitpatrox.com/google-announces-android-xr-os-teams-up-with-samsung-for-project-moohan/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/12/12/police-raid.jpg)](https://digitpatrox.com/police-shuts-down-rydox-cybercrime-market-arrests-3-admins/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/SanerNow-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-sanernow/)
     
-    [Police shuts down Rydox cybercrime market, arrests 3 admins](https://digitpatrox.com/police-shuts-down-rydox-cybercrime-market-arrests-3-admins/)
+    [Vendor Spotlight: SanerNow](https://digitpatrox.com/vendor-spotlight-sanernow/)
     
     4 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/WxhGNQCGj_kJBeoP8Pw3SaZNhFI=/0x0:1669x900/1200x628/filters:focal(835x450:836x451)/cdn.vox-cdn.com/uploads/chorus_asset/file/25788066/Screenshot_2024_12_12_at_7.54.35_PM.png)](https://digitpatrox.com/naughty-dog-reveals-sci-fi-game-intergalactic-the-heretic-prophet/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733330969/prod/content/dam/CRO-Images-2025/Magazine/CR-Magazine-InlineHero-The-Way-to-Stay-Fit-at-Home-Jan-Feb25-1224)](https://digitpatrox.com/how-to-set-up-your-ideal-home-gym/)
     
-    [Naughty Dog reveals sci-fi game Intergalactic: The Heretic Prophet](https://digitpatrox.com/naughty-dog-reveals-sci-fi-game-intergalactic-the-heretic-prophet/)
+    [How to Set Up Your Ideal Home Gym](https://digitpatrox.com/how-to-set-up-your-ideal-home-gym/)
     
-    21 minutes ago
+    8 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/12/Deadpool-and-Kidpool.jpg)](https://digitpatrox.com/ryan-reynolds-returns-as-deadpool-in-a-new-christmas-special-video/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/12/linux-mascot-next-to-a-tombstone-with-the-windows-10-logo.jpg)](https://digitpatrox.com/windows-10s-end-is-nigh-nows-the-time-to-get-used-to-linux/)
     
-    [Ryan Reynolds Returns as Deadpool in a New Christmas Special Video](https://digitpatrox.com/ryan-reynolds-returns-as-deadpool-in-a-new-christmas-special-video/)
+    [Windows 10’s End Is Nigh. Now’s the Time to Get Used to Linux](https://digitpatrox.com/windows-10s-end-is-nigh-nows-the-time-to-get-used-to-linux/)
     
-    37 minutes ago
+    9 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Is-Crypto.com-safe-to-use_.jpg)](https://digitpatrox.com/is-crypto-com-safe-to-use-what-you-need-to-know/)
+* [![](https://www.digitalcitizen.life/wp-content/uploads/2019/10/ios_dark_mode.png)](https://digitpatrox.com/how-to-turn-on-and-turn-off-dark-mode-on-an-iphone/)
     
-    [Is Crypto.com safe to use? What you need to know](https://digitpatrox.com/is-crypto-com-safe-to-use-what-you-need-to-know/)
+    [How to turn on and turn off Dark Mode on an iPhone](https://digitpatrox.com/how-to-turn-on-and-turn-off-dark-mode-on-an-iphone/)
     
-    2 hours ago
+    12 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/dXKgPbmY5yjVGXj9GKHCg8-1200-80.jpg)](https://digitpatrox.com/google-wants-regulators-to-break-up-microsofts-openai-deal/)
+* [![](https://cdn.mos.cms.futurecdn.net/qpJGqTkPZFmEASg2V62UvN-1200-80.jpg)](https://digitpatrox.com/threat-of-personal-liability-has-cisos-sweating/)
     
-    [Google wants regulators to break up Microsoft’s OpenAI deal](https://digitpatrox.com/google-wants-regulators-to-break-up-microsofts-openai-deal/)
+    [Threat of personal liability has CISOs sweating](https://digitpatrox.com/threat-of-personal-liability-has-cisos-sweating/)
     
-    2 hours ago
+    48 minutes ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -210,37 +210,37 @@ Recent Topics
 
 * [4 minutes ago
     
-    ### Police shuts down Rydox cybercrime market, arrests 3 admins](https://digitpatrox.com/police-shuts-down-rydox-cybercrime-market-arrests-3-admins/)
-* [21 minutes ago
+    ### Vendor Spotlight: SanerNow](https://digitpatrox.com/vendor-spotlight-sanernow/)
+* [8 minutes ago
     
-    ### Naughty Dog reveals sci-fi game Intergalactic: The Heretic Prophet](https://digitpatrox.com/naughty-dog-reveals-sci-fi-game-intergalactic-the-heretic-prophet/)
-* [37 minutes ago
+    ### How to Set Up Your Ideal Home Gym](https://digitpatrox.com/how-to-set-up-your-ideal-home-gym/)
+* [9 minutes ago
     
-    ### Ryan Reynolds Returns as Deadpool in a New Christmas Special Video](https://digitpatrox.com/ryan-reynolds-returns-as-deadpool-in-a-new-christmas-special-video/)
+    ### Windows 10’s End Is Nigh. Now’s the Time to Get Used to Linux](https://digitpatrox.com/windows-10s-end-is-nigh-nows-the-time-to-get-used-to-linux/)
 
 Most Popular Topics
 
-* [August 28, 2024
+* [August 16, 2024
     
-    ### APAC Telcos Poised to Lead Global 6G Rollout](https://digitpatrox.com/apac-telcos-poised-to-lead-global-6g-rollout/)
-* [September 20, 2024
+    ### Texas Electric Cooperatives notifies 1,352 people of data breach that compromised SSNs](https://digitpatrox.com/texas-electric-cooperatives-notifies-1352-people-of-data-breach-that-compromised-ssns/)
+* [3 weeks ago
     
-    ### China-Linked Attack Hits 260,000 Devices, FBI Confirms](https://digitpatrox.com/china-linked-attack-hits-260000-devices-fbi-confirms/)
-* [7 days ago
+    ### NYT Strands Today: Hints, Answers & Spangram for November 23](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-23/)
+* [October 14, 2024
     
-    ### Attack on Titan The Last Attack Receives a Worldwide Theatrical Release Window](https://digitpatrox.com/attack-on-titan-the-last-attack-receives-a-worldwide-theatrical-release-window/)
+    ### What Should You Do if You Own a JuiceBox EV Charger?](https://digitpatrox.com/what-should-you-do-if-you-own-a-juicebox-ev-charger/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [56 minutes ago
     
-    ### Ciri Takes the Lead Role in ‘The Witcher 4’](https://digitpatrox.com/ciri-takes-the-lead-role-in-the-witcher-4/)
-* [3 hours ago
+    ### Amazon’s ‘The List’ sale just launched — here’s 21 holiday deals I’d buy now on Stanley, Beats, Lego and more from $10](https://digitpatrox.com/amazons-the-list-sale-just-launched-heres-21-holiday-deals-id-buy-now-on-stanley-beats-lego-and-more-from-10/)
+* [2 hours ago
     
-    ### Are Mobile Hotspots Secure? (Are They Safer Than Public Wi-Fi?)](https://digitpatrox.com/are-mobile-hotspots-secure-are-they-safer-than-public-wi-fi/)
-* [3 hours ago
+    ### New IOCONTROL malware used in critical infrastructure attacks](https://digitpatrox.com/new-iocontrol-malware-used-in-critical-infrastructure-attacks/)
+* [2 hours ago
     
-    ### How to sync settings across devices on Windows 10](https://digitpatrox.com/how-to-sync-settings-across-devices-on-windows-10/)
+    ### Okami is getting a sequel](https://digitpatrox.com/okami-is-getting-a-sequel/)
 
 Most Viewed Topics
 
