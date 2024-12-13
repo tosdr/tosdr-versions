@@ -53,7 +53,7 @@ Loading
     * [Contact us](https://www.understood.org/en/contact-us)
     * [Annual report](https://annualreport.understood.org/)
     * [Media center](https://www.understood.org/en/newsroom)
-    * [Blog](https://www.understood.org/blog/)
+    * [Blog](https://www.understood.org/en/blog)
     * [Join our team](https://www.understood.org/en/join-our-team)
     
 * [Partner with us](https://www.understood.org/en/our-partners)
@@ -307,7 +307,7 @@ Subscribe
 * [Annual report](https://annualreport.understood.org/)
 * [Join our team](https://www.understood.org/en/join-our-team)
 * [Media center](https://www.understood.org/en/newsroom)
-* [Blog](https://www.understood.org/blog/)
+* [Blog](https://www.understood.org/en/blog)
 
 * [Donation and giving](https://www.understood.org/en/donate)
 * [Glossary](https://www.understood.org/en/glossary)
