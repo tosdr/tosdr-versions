@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Thursday, December 12, 2024**
+**Friday, December 13, 2024**
 
-**...High Pressure to Create Cool and Dry Conditions Statewide...A Few Isolated Showers Possible Along the Southeast Coast and Keys As Yesterday's Cold Front Moves Further Offshore...Breezy Northeasterly to Northerly Winds With Gusts Upwards of 15-25 MPH Expected Along the Peninsula And Keys Today...Sensitive to Elevated Wildfire Conditions Across North and West-Central Florida This Afternoon; Critical Conditions Not Expected But Localized Areas Could Approach Critical Thresholds...Moderate to High Risk for Rip Currents Statewide...Low Temperatures In the 30s to Low 40s Across North Florida; Temperatures Will Feel Like They Are In the Upper 20s to Middle 30s Across North Florida and Upper 30s to Low 40s Into the Nature Coast Early Friday Morning...Areas of Frost Possible Across North Florida...**
+**...High Pressure to Bring Mostly Dry Conditions to The Sunshine State Today...Isolated to Scattered Showers Developing Along the East Coast and Keys and Moving Inland Tonight Thanks to Breezy Onshore Winds...Winds Near 10-20 MPH With Gusts Near 15-30 MPH Along the Peninsula and Keys...Beach and Boating Conditions Continue to Deteriorate ad Become INcreasingly Hazardous Along Florida's Atlantic Coast Today As Breezy Onshore Winds and Long-Period Swells Impact the Coastline...High Surf Advisories Issued Along the East-Central Coast; Minor Beach Erosion Possible Around High Tide; Isolated Instances of Minor Coastal Flooding Cannot Be Ruled Out...Apalachicola River Near Blounstown Forecast to Reach Minor Flood Stage Later Today...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
