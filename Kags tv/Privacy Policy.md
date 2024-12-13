@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KCEN/images/aec5fccf-e576-4589-a4a5-e445b25625ec/20241213T145457/aec5fccf-e576-4589-a4a5-e445b25625ec_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/aec5fccf-e576-4589-a4a5-e445b25625ec/20241213T145457/aec5fccf-e576-4589-a4a5-e445b25625ec_360x203.jpg)](https://www.kagstv.com/article/news/crime/robertson-county-authorities-looking-to-identify-suspects-in-drive-in-hearne-grocery-theft/500-d1850ee4-d49c-404a-a9bd-861b69443251)
+        
+        #### [Robertson County authorities looking to identify suspects in drive-in grocery theft](https://www.kagstv.com/article/news/crime/robertson-county-authorities-looking-to-identify-suspects-in-drive-in-hearne-grocery-theft/500-d1850ee4-d49c-404a-a9bd-861b69443251)
+        
     *  [![](https://media.kagstv.com/assets/WFAA/images/2cc373a1-c51f-4d35-bb20-14aaf968d40a/20241213T041308/2cc373a1-c51f-4d35-bb20-14aaf968d40a_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/2cc373a1-c51f-4d35-bb20-14aaf968d40a/20241213T041308/2cc373a1-c51f-4d35-bb20-14aaf968d40a_360x203.jpg)](https://www.kagstv.com/article/news/local/lawsuit-alleges-2-year-old-girl-was-trapped-inside-drain-full-of-water-at-north-texas-daycare/287-5839c574-f823-4719-a148-258a7cf05e2d)
         
         #### ['Unforgivable' | Newly filed lawsuit alleges 2-year-old girl was trapped inside drain full of water at North Texas daycare](https://www.kagstv.com/article/news/local/lawsuit-alleges-2-year-old-girl-was-trapped-inside-drain-full-of-water-at-north-texas-daycare/287-5839c574-f823-4719-a148-258a7cf05e2d)
-        
-    *  [![](https://media.kagstv.com/assets/KCEN/images/f26274ba-f9aa-40ac-bcc9-7aee1c838e59/20241212T030802/f26274ba-f9aa-40ac-bcc9-7aee1c838e59_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/f26274ba-f9aa-40ac-bcc9-7aee1c838e59/20241212T030802/f26274ba-f9aa-40ac-bcc9-7aee1c838e59_360x203.jpg)](https://www.kagstv.com/article/news/crime/man-that-escaped-prison-grimes-county-2023-sentenced-20-total-years/500-ce1d8e4b-b1c3-4eec-9c33-9a553dd9ac1b)
-        
-        #### [Man who escaped jail in Grimes County in 2023 sentenced to 20 total years](https://www.kagstv.com/article/news/crime/man-that-escaped-prison-grimes-county-2023-sentenced-20-total-years/500-ce1d8e4b-b1c3-4eec-9c33-9a553dd9ac1b)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -97,7 +97,7 @@ Navigation
 
 Bryan, TX »
 
-57°
+64°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
