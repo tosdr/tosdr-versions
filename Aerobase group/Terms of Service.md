@@ -150,6 +150,16 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Trilateral joint venture to manage GCAP warplane work from London](https://www.defensenews.com/global/europe/2024/12/13/trilateral-joint-venture-to-manage-gcap-warplane-work-from-london/)  
+    12/13/24 11:32am  
+    
+    A person walks past the Global Combat Air Programme (GCAP) fighter jet concept design at the 2024 Farnborough International Airshow. (Justin Tallis/AFP via Getty Images)
+    
+* [Japan selects the T-6 Texan II as its new trainer aircraft](https://www.defensenews.com/global/asia-pacific/2024/12/13/japan-selects-the-t-6-texan-ii-as-its-new-trainer-aircraft/)  
+    12/13/24 08:27am  
+    
+    A T-6A Texan II rests under a hangar at Vance Air Force Base, Okla., Nov. 3, 2022. (Second Lt. Jonathan Soferr/Air Force)
+    
 * [Defense bill for 2025 would delay F-35 deliveries](https://www.defensenews.com/air/2024/12/10/defense-bill-would-cut-f-35-purchases-in-2025-delay-deliveries/)  
     12/10/24 03:45pm  
     
@@ -159,16 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     12/05/24 03:50pm  
     
     The Air Force will keep maturing the technology for a potential sixth-generation NGAD fighter, but will let the Trump administration decide how to proceed. (U.S. Air Force)
-    
-* [A-10s are being spotted in Syria. Here’s how they’re being used.](https://www.defensenews.com/air/2024/12/04/a-10s-are-being-spotted-in-syria-heres-how-theyre-being-used/)  
-    12/04/24 04:00pm  
-    
-    U.S. forces regularly fly A-10s in show-of-force missions in eastern Syria, an official said. (Air Force)
-    
-* [How an AI-powered dashboard gets Air Force reservists deployment-ready](https://www.defensenews.com/news/your-military/2024/12/03/how-an-ai-powered-dashboard-gets-air-force-reservists-deployment-ready/)  
-    12/03/24 11:21am  
-    
-    Members of the 130th Airlift Wing perform aeromedical evacuation drills at McLaughlin Air National Guard Base in Charleston, West Virginia. (Edwin L. Wriston/Army National Guard)
     
 
 Recent parts by keyword  
