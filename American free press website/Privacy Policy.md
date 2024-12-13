@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
+* [\[ December 13, 2024 \] Bloated American Administrative State May Finally Be Put on a Crash Diet National News](https://americanfreepress.net/bloated-american-administrative-state-may-finally-be-put-on-a-crash-diet/ "Bloated American Administrative State May Finally Be Put on a Crash Diet")
+* [\[ December 13, 2024 \] Deep State Must Be Stripped of Unelected Bureaucrats and the Power They Wield Subscriber Only](https://americanfreepress.net/deep-state-must-be-stripped-of-unelected-bureaucrats-and-the-power-they-wield/ "Deep State Must Be Stripped of Unelected Bureaucrats and the Power They Wield")
+* [\[ December 13, 2024 \] More Than Meets the Eye to Matt Gaetz Story National News](https://americanfreepress.net/more-than-meets-the-eye-to-matt-gaetz-story/ "More Than Meets the Eye to Matt Gaetz Story")
 * [\[ December 12, 2024 \] Issue 49/50 2024 News You May Have Missed National News](https://americanfreepress.net/issue-49-50-2024-news-you-may-have-missed/ "Issue 49/50 2024 News You May Have Missed")
 * [\[ December 12, 2024 \] Are We Merely an Afterthought to the Government? Subscriber Only](https://americanfreepress.net/are-we-merely-an-afterthought-to-the-government/ "Are We Merely an Afterthought to the Government?")
-* [\[ November 15, 2024 \] Russians Are Rank Amateurs at Interfering in U.S. Elections Subscriber Only](https://americanfreepress.net/russians-are-rank-amateurs-at-interfering-in-u-s-elections/ "Russians Are Rank Amateurs at Interfering in U.S. Elections")
-* [\[ November 14, 2024 \] ‘Hefty’ Wins the Day—and Many People Are ‘Glad’ to See It Subscriber Only](https://americanfreepress.net/hefty-wins-the-day-and-many-people-are-glad-to-see-it/ "‘Hefty’ Wins the Day—and Many People Are ‘Glad’ to See It")
-* [\[ November 3, 2024 \] Citizen Volunteers Do More Than FEMA National News](https://americanfreepress.net/citizen-volunteers-do-more-than-fema/ "Citizen Volunteers Do More Than FEMA")
 
 [Home](https://americanfreepress.net/)PRIVACY POLICY
 
@@ -268,11 +268,11 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
+* [Bloated American Administrative State May Finally Be Put on a Crash Diet](https://americanfreepress.net/bloated-american-administrative-state-may-finally-be-put-on-a-crash-diet/)
+* [Deep State Must Be Stripped of Unelected Bureaucrats and the Power They Wield](https://americanfreepress.net/deep-state-must-be-stripped-of-unelected-bureaucrats-and-the-power-they-wield/)
+* [More Than Meets the Eye to Matt Gaetz Story](https://americanfreepress.net/more-than-meets-the-eye-to-matt-gaetz-story/)
 * [Issue 49/50 2024 News You May Have Missed](https://americanfreepress.net/issue-49-50-2024-news-you-may-have-missed/)
 * [Are We Merely an Afterthought to the Government?](https://americanfreepress.net/are-we-merely-an-afterthought-to-the-government/)
-* [Sacred Cows Gored](https://americanfreepress.net/sacred-cows-gored/)
-* [Final Days of the ‘Big Lie Machine’ Are Coming](https://americanfreepress.net/final-days-of-the-big-lie-machine-are-coming/)
-* [Efforts Were Made to Ensure Election Integrity for All](https://americanfreepress.net/efforts-were-made-to-ensure-election-integrity-for-all/)
 
 ###### Recent Comments
 
@@ -318,4 +318,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1352459668)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1417646688)
