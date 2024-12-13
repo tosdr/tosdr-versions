@@ -414,34 +414,34 @@ Most common
 
 1. python
     
-2. data science
+2. cyber security
     
-3. html
+3. trading
     
 
 Popular subjects
 
-1. [Web Development
+1. [Information Technology
     
-    13,913 courses](https://www.classcentral.com/subject/web-development)
-2. [Data Analysis
-    
-    8,989 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Cybersecurity
+    5,148 courses](https://www.classcentral.com/subject/information-technology)
+2. [Cybersecurity
     
     17,027 courses](https://www.classcentral.com/subject/cybersecurity)
+3. [Project Management
+    
+    4,296 courses](https://www.classcentral.com/subject/project-management)
 
 Popular courses
 
-1. [Critical Thinking at University: An Introduction
+1. [Design Patterns
     
-    University of Leeds](https://www.classcentral.com/course/critical-thinking-at-university-12273)
-2. [Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
+    University of Alberta](https://www.classcentral.com/course/design-patterns-9215)
+2. [Managing Conflicts on Projects with Cultural and Emotional Intelligence
     
-    Hebrew University of Jerusalem](https://www.classcentral.com/course/build-a-computer-3234)
-3. [Computational Social Science Methods
+    University System of Maryland](https://www.classcentral.com/course/conflict-resolution-the-university-of-maryland-co-19747)
+3. [Learning How to Learn: Powerful mental tools to help you master tough subjects
     
-    University of California, Davis](https://www.classcentral.com/course/computational-social-science-methods-17299)
+    Deep Teaching Solutions](https://www.classcentral.com/course/learning-how-to-learn-2161)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
