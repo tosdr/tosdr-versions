@@ -8,10 +8,10 @@
 
 *  
     
-* [DOGE](https://www.motherjones.com/politics/2024/12/doge-elon-musk-vivek-ramaswamy-department-government-inefficiency-waste-federal-spending-deficit-reduction/)
-* [Trump](https://www.motherjones.com/politics/2024/12/trump-war-on-science-researchers-jobs-scientists/)
-* [Mass Deportation](https://www.motherjones.com/politics/2024/12/trump-60-minutes-birthright-citizenship-mass-deportatio-families-together-american-citizens/)
-* [Kash Patel](https://www.motherjones.com/politics/2024/12/kash-patel-fbi-donald-trump-russia-scandal-putin-useful-idiot/)
+* [COVID Conspiracy Theories](https://www.motherjones.com/politics/2024/12/bird-flu-pandemic-conspiracy-inauguration/)
+* [Biden](https://www.motherjones.com/criminal-justice/2024/12/biden-commutes-1500-sentences-largest-clemency/)
+* [Kash Patel](https://www.motherjones.com/politics/2024/12/kash-patel-benghazi-uganda-fbi-justice-department/)
+* [Trump](https://www.motherjones.com/politics/2024/12/trump-raskin-slapp-federal-law/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [DOGE](https://www.motherjones.com/politics/2024/12/doge-elon-musk-vivek-ramaswamy-department-government-inefficiency-waste-federal-spending-deficit-reduction/)
-* [Trump](https://www.motherjones.com/politics/2024/12/trump-war-on-science-researchers-jobs-scientists/)
-* [Mass Deportation](https://www.motherjones.com/politics/2024/12/trump-60-minutes-birthright-citizenship-mass-deportatio-families-together-american-citizens/)
-* [Kash Patel](https://www.motherjones.com/politics/2024/12/kash-patel-fbi-donald-trump-russia-scandal-putin-useful-idiot/)
+* [COVID Conspiracy Theories](https://www.motherjones.com/politics/2024/12/bird-flu-pandemic-conspiracy-inauguration/)
+* [Biden](https://www.motherjones.com/criminal-justice/2024/12/biden-commutes-1500-sentences-largest-clemency/)
+* [Kash Patel](https://www.motherjones.com/politics/2024/12/kash-patel-benghazi-uganda-fbi-justice-department/)
+* [Trump](https://www.motherjones.com/politics/2024/12/trump-raskin-slapp-federal-law/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
