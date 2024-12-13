@@ -135,7 +135,9 @@ Yes we do!
   
 We use cookies and other technologies to ensure everyone who uses Green Man Gaming has the best possible experience. Cookies also help us keep your account safe and allows the Green Man Gaming website to remember things like your preferences or what’s in your shopping basket. By continuing to visit or use our services and interacting with the content of our website, you are agreeing to the use of cookies and similar technologies for the purposes we describe in this policy.  
   
-At any point, you can change your preferences in our [cookie settings](#).
+At any point, you can change your preferences in our [cookie settings](#).  
+  
+Please see the Green Man Gaming [Privacy Notice](https://www.greenmangaming.com/privacy-notice/) for more details on our data handling when accessing our websites.
 
 ### WHAT IS A COOKIE?
 
