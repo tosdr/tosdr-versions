@@ -1,4 +1,4 @@
-[](https://www.fanatics.com/paze/x-39989646+z-9686474-447583080)
+[](https://www.fanatics.com/zip-faq/ch-15935565+z-9624997-2875498770)
 
 [Skip to Main Content](#main-content)[Skip to Footer](#global-footer)
 
@@ -407,9 +407,9 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: 0fe6dfd05bb1264f
+rc: 60e351008c0d0743
 
-vid: 5527a540-b8f3-11ef-9b38-21fd5e52bf79
+vid: 8b36d610-b925-11ef-a0ce-79d4f228501a
 
 version: 1.1.0-rc-20241009-19.102623
 
@@ -418,14 +418,14 @@ version: 1.1.0-rc-20241009-19.102623
 Qualified Experiments #:* 15273:B:1:1
 * 15465:B:1:1
 * 15472:A:0:1
-* 15473:A:0:1
-Namespaces:* 3:3894:0
-* 7:3373:0
-* 9:1515:0
-* 10:8960:0
-* 11:2228:0
-* 2:811:0
-* 4:103:0
-* 5:4809:0
-* 6:2311:0
-* 8:4009:0
+* 15473:C:2:1
+Namespaces:* 2:4888:0
+* 3:2666:0
+* 4:3948:0
+* 6:2392:0
+* 9:4543:0
+* 5:1446:0
+* 7:1287:0
+* 8:2586:0
+* 10:3859:0
+* 11:3810:0
