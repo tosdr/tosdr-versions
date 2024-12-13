@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez dégagé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)0°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)0°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [Votation](https://www.watson.ch/fr/votation/)
-* [retraite](https://www.watson.ch/fr/retraite/)
-* [France](https://www.watson.ch/fr/france/)
-* [Justice](https://www.watson.ch/fr/justice/)
-* [Emmanuel Macron](https://www.watson.ch/fr/emmanuel-macron/)
-* [Police](https://www.watson.ch/fr/police/)
-* [People](https://www.watson.ch/fr/people/)
-* [Coupe du monde](https://www.watson.ch/fr/coupe-du-monde/)
+* [Vaud](https://www.watson.ch/fr/vaud/)
 * [Politique](https://www.watson.ch/fr/politique/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Football](https://www.watson.ch/fr/football/)
 * [Médias](https://www.watson.ch/fr/medias/)
 * [Netflix](https://www.watson.ch/fr/netflix/)
+* [New York](https://www.watson.ch/fr/new-york/)
 * [Union Européenne](https://www.watson.ch/fr/union-europeenne/)
 * [Syrie](https://www.watson.ch/fr/syrie/)
 * [Argent](https://www.watson.ch/fr/argent/)
 * [Ski](https://www.watson.ch/fr/ski/)
 * [AVS](https://www.watson.ch/fr/avs/)
-* [Vaud](https://www.watson.ch/fr/vaud/)
-* [New York](https://www.watson.ch/fr/new-york/)
-* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Coupe du monde](https://www.watson.ch/fr/coupe-du-monde/)
+* [People](https://www.watson.ch/fr/people/)
+* [Police](https://www.watson.ch/fr/police/)
+* [Emmanuel Macron](https://www.watson.ch/fr/emmanuel-macron/)
+* [France](https://www.watson.ch/fr/france/)
+* [retraite](https://www.watson.ch/fr/retraite/)
+* [Votation](https://www.watson.ch/fr/votation/)
+* [Justice](https://www.watson.ch/fr/justice/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
