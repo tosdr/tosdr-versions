@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/design-your-own-band-colouring-activity/)
+ [](https://schoolsmusicmarket.com/product/musical-genres-worksheet/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/live-music-performance-getting-radio-play-and-pr-presentation/)
+ [](https://schoolsmusicmarket.com/product/christmas-worksheet-a-musical-maths-puzzle/)
 
 ###### Browse By Year/Grade
 
