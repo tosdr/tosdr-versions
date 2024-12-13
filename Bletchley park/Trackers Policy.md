@@ -345,7 +345,7 @@ We aim to conform to level Double-A of the World Wide Web Consortium (W3C) Web C
 
 Our website should display correctly in the current and previous two versions of Firefox, Chrome, Microsoft Edge, Safari and Opera. There may be some areas that require you to have JavaScript turned on to work.
 
-While we strive to adhere to standards for accessibility and usability, there are areas we are still working on to improve such as providing video and audio transcripts, audio captions and audio descriptions. If you have concerns or issues you wish to raise please us on [\[email protected\]](https://www.bletchleypark.org.uk/cdn-cgi/l/email-protection).
+While we strive to adhere to standards for accessibility and usability, there are areas we are still working on to improve such as providing video and audio transcripts, audio captions and audio descriptions. If you have concerns or issues you wish to raise please us on [\[email protected\]](https://www.bletchleypark.org.uk/cdn-cgi/l/email-protection)
 
 **8\. PRIVACY POLICY**
 
