@@ -136,35 +136,35 @@ For specific information about Mediavine Partners, the data each collects and th
 
 ##### Recent Posts
 
-[](https://ygorganization.com/master-duel-tryout-duel-time-travel-2014/ "[Master Duel] Tryout Duel – Time Travel 2014")
+[](https://ygorganization.com/babysfirstdelirium/ "Get Started With “Delirium Larva”! [RD/TB02]")
 
-#### [\[Master Duel\] Tryout Duel – Time Travel 2014](https://ygorganization.com/master-duel-tryout-duel-time-travel-2014/)
+#### [Get Started With “Delirium Larva”! \[RD/TB02\]](https://ygorganization.com/babysfirstdelirium/)
 
-November 28, 2024
+December 11, 2024
 
-[](https://ygorganization.com/irl_fsfk/ "CDP: Flame Swordsman Fire King, IRL Edition")
+[](https://ygorganization.com/thepoltergeistismorethannice/ "The Wightmare Before Christmas! [ALIN]")
 
-#### [CDP: Flame Swordsman Fire King, IRL Edition](https://ygorganization.com/irl_fsfk/)
+#### [The Wightmare Before Christmas! \[ALIN\]](https://ygorganization.com/thepoltergeistismorethannice/)
 
-November 28, 2024
+December 10, 2024
 
-[](https://ygorganization.com/theropodsturningintoasauropodmakesmoresensethanyoudthink/ "[RD/TB02] Bracchio-raidus")
+[](https://ygorganization.com/cdp_worldlegacymultiverseandnownordiccausefllist/ "CDP x2: World Legacy Orcust T.G. Generaider Therion & Nordic Snake-Eye Nemeses")
 
-#### [\[RD/TB02\] Bracchio-raidus](https://ygorganization.com/theropodsturningintoasauropodmakesmoresensethanyoudthink/)
+#### [CDP x2: World Legacy Orcust T.G. Generaider Therion & Nordic Snake-Eye Nemeses](https://ygorganization.com/cdp_worldlegacymultiverseandnownordiccausefllist/)
 
-November 28, 2024
+December 10, 2024
 
-[](https://ygorganization.com/bewdsddelays/ "Structure Deck: Blue-Eyes White Destiny Delay [TCG]")
+[](https://ygorganization.com/justiceforitchio/ "[MERCHANDISE] New Yu-Gi-Oh! DM and GX Funko POP!s")
 
-#### [Structure Deck: Blue-Eyes White Destiny Delay \[TCG\]](https://ygorganization.com/bewdsddelays/)
+#### [\[MERCHANDISE\] New Yu-Gi-Oh! DM and GX Funko POP!s](https://ygorganization.com/justiceforitchio/)
 
-November 27, 2024
+December 10, 2024
 
-[](https://ygorganization.com/waittillyouseethealtarts/ "[TCG] Quarter Century Stampede")
+[](https://ygorganization.com/andnowawaitfortheseventhdragon/ "Get Your House In Order With “Dragonmaid”! [QCTB]")
 
-#### [\[TCG\] Quarter Century Stampede](https://ygorganization.com/waittillyouseethealtarts/)
+#### [Get Your House In Order With “Dragonmaid”! \[QCTB\]](https://ygorganization.com/andnowawaitfortheseventhdragon/)
 
-November 27, 2024
+December 9, 2024
 
 [Facebook](https://www.facebook.com/ygorganization) [X (Twitter)](https://twitter.com/ygorganization) [YouTube](https://www.youtube.com/@TheOrganization) [Discord](https://discord.gg/theorganization) [RSS](https://ygorganization.com/feed/)
 
