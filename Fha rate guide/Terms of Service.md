@@ -1,4 +1,4 @@
-![Express](        //ddtm4le96tyk6.cloudfront.net/logo/125004__vrelease_v100.jpg)
+![Express](        //d1tkl1e3k37gw7.cloudfront.net/logo/125004__vrelease_v101.jpg)
 
 Terms and Conditions
 ====================
