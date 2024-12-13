@@ -1,3 +1,5 @@
+To ensure shipping before Xmas, orders must be placed by **December 16th** and contain only in-stock items.
+
 Shipping to
 
 ![United States flag](/cdn-cgi/image/width=45,format=auto,quality=85/content/images/country/1792.png)United States
