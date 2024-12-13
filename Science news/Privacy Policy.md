@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Enjoy unlimited access**
+**Subscribe today**
 
-Only $2.99 a month
+Every print subscription comes with full digital access
 
-[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
@@ -94,13 +94,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Neandertal genes in people today came from hook-ups around 47,000 years ago](https://www.sciencenews.org/article/neandertal-mate-people-47000-years-ago)
             
-            By [McKenzie Prillaman](https://www.sciencenews.org/author/mckenzie-prillaman "Posts by McKenzie Prillaman")2 hours ago
+            By [McKenzie Prillaman](https://www.sciencenews.org/author/mckenzie-prillaman "Posts by McKenzie Prillaman")8 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [These are the viruses that defined 2024](https://www.sciencenews.org/article/the-viruses-that-defined-2024)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")5 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")11 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -124,13 +124,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [The ‘Blob,’ an unprecedented marine heat wave, killed 4 million seabirds](https://www.sciencenews.org/article/blob-marine-heat-wave-killed-seabirds)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")2 hours ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")8 hours ago
             
         * [Genetics](https://www.sciencenews.org/topic/genetics)
             
             ### [Neandertal genes in people today came from hook-ups around 47,000 years ago](https://www.sciencenews.org/article/neandertal-mate-people-47000-years-ago)
             
-            By [McKenzie Prillaman](https://www.sciencenews.org/author/mckenzie-prillaman "Posts by McKenzie Prillaman")2 hours ago
+            By [McKenzie Prillaman](https://www.sciencenews.org/author/mckenzie-prillaman "Posts by McKenzie Prillaman")8 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -151,7 +151,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Earth’s inner core may be changing shape](https://www.sciencenews.org/article/inner-core-changing-shape-earth)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")7 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")13 hours ago
             
         * [Earth](https://www.sciencenews.org/topic/earth)
             
@@ -199,6 +199,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Space
         ---------------------
         
+        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
+            
+            ### [NASA’s Perseverance rover found a new potential setting for Martian life](https://www.sciencenews.org/article/nasa-perseverance-rover-potential-life-setting)
+            
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")4 hours ago
+            
         * [Space](https://www.sciencenews.org/topic/space)
             
             ### [Space missions spanned the solar system in 2024](https://www.sciencenews.org/article/space-missions-in-2024-recap)
@@ -210,12 +216,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Astronomers see the astrosphere of a sunlike star for the first time](https://www.sciencenews.org/article/first-astrosphere-sunlike-star-moth)
             
             By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")December 6, 2024
-            
-        * [Space](https://www.sciencenews.org/topic/space)
-            
-            ### [A spacecraft duo will fly in formation to create artificial solar eclipses](https://www.sciencenews.org/article/artificial-solar-eclipse-satellites)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")December 5, 2024
             
 
 Privacy Policy
