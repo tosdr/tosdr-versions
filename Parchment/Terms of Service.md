@@ -146,30 +146,28 @@
     *  [![icon](https://www.parchment.com/wp-content/uploads/2023/01/students2.svg) Check Order Status](https://www.parchment.com/students/order-status/#existing-order)
     
 *  [![ui-sign-in](https://www.parchment.com/wp-content/uploads/2023/06/ui-sign-in.svg) Login](https://www.parchment.com/u/auth/login)
-* ![US flag](https://www.parchment.com/wp-content/uploads/flags/US.png)
-    
-    * [![US flag](https://www.parchment.com/wp-content/uploads/flags/US.png)
+* * [US
         
         US](https://www.parchment.com/terms-of-use/)
-    * [![AU flag](https://www.parchment.com/wp-content/uploads/flags/AU.png)
+    * [AU
         
         AU](https://www.parchment.com/en-au/)
-    * [![CA flag](https://www.parchment.com/wp-content/uploads/flags/CA.png)
+    * [CA
         
         CA](https://www.parchment.com/en-ca/)
-    * [![IE flag](https://www.parchment.com/wp-content/uploads/flags/ie.png)
+    * [IE
         
         IE](https://www.parchment.com/en-ie/)
     * [![日本語 flag](https://www.parchment.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ja.svg)
         
         日本語](https://www.parchment.com/ja/)
-    * [![NZ flag](https://www.parchment.com/wp-content/uploads/flags/nz.png)
+    * [NZ
         
         NZ](https://www.parchment.com/en-nz/)
-    * [![SEA flag](https://www.parchment.com/wp-content/uploads/flags/Flag_of_ASEAN.svg.png)
+    * [SEA
         
         SEA](https://www.parchment.com/en-sea/)
-    * [![UK flag](https://www.parchment.com/wp-content/uploads/flags/GB.png)
+    * [UK
         
         UK](https://www.parchment.com/en-gb/)
     
@@ -523,37 +521,23 @@ Order & Status
 * [Check Order Status](https://www.parchment.com/students/order-status/#existing-order)
 [Book a Demo](https://www.parchment.com/book-a-demo/) [Order & Status](https://www.parchment.com/students/order-status/)
 
-* ![US flag](https://www.parchment.com/wp-content/uploads/flags/US.png)
+* [US](https://www.parchment.com/terms-of-use/)
     
-    [US](https://www.parchment.com/terms-of-use/)
+* [AU](https://www.parchment.com/en-au/)
     
-* ![AU flag](https://www.parchment.com/wp-content/uploads/flags/AU.png)
+* [CA](https://www.parchment.com/en-ca/)
     
-    [AU](https://www.parchment.com/en-au/)
-    
-* ![CA flag](https://www.parchment.com/wp-content/uploads/flags/CA.png)
-    
-    [CA](https://www.parchment.com/en-ca/)
-    
-* ![IE flag](https://www.parchment.com/wp-content/uploads/flags/ie.png)
-    
-    [IE](https://www.parchment.com/en-ie/)
+* [IE](https://www.parchment.com/en-ie/)
     
 * ![日本語 flag](https://www.parchment.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ja.svg)
     
     [日本語](https://www.parchment.com/ja/)
     
-* ![NZ flag](https://www.parchment.com/wp-content/uploads/flags/nz.png)
+* [NZ](https://www.parchment.com/en-nz/)
     
-    [NZ](https://www.parchment.com/en-nz/)
+* [SEA](https://www.parchment.com/en-sea/)
     
-* ![SEA flag](https://www.parchment.com/wp-content/uploads/flags/Flag_of_ASEAN.svg.png)
-    
-    [SEA](https://www.parchment.com/en-sea/)
-    
-* ![UK flag](https://www.parchment.com/wp-content/uploads/flags/GB.png)
-    
-    [UK](https://www.parchment.com/en-gb/)
+* [UK](https://www.parchment.com/en-gb/)
     
 
 We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.  
