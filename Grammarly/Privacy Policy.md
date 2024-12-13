@@ -4,7 +4,7 @@
     
     * Learn
         * [Features](https://www.grammarly.com/features)
-        * [Product Demo](https://demo.grammarly.com/)
+        * [Product Demo](https://app.grammarly.com/demo)
         * [AI at Grammarly](https://www.grammarly.com/ai)
         * [Trust & Security](https://www.grammarly.com/trust)
     * Download
@@ -58,7 +58,7 @@
     
     * Learn
         * [Features](https://www.grammarly.com/features)
-        * [Product Demo](https://demo.grammarly.com/)
+        * [Product Demo](https://app.grammarly.com/demo)
         * [AI at Grammarly](https://www.grammarly.com/ai)
         * [Trust & Security](https://www.grammarly.com/trust)
     * Download
