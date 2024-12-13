@@ -31,20 +31,63 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Cartas a Quito / 13 de diciembre de 2024
-========================================
+Así funciona el Pico y placa en Quito este viernes 13 de diciembre
+==================================================================
 
-Estas son las cartas a Quito de este viernes 13 de diciembre de 2024
---------------------------------------------------------------------
+Recuerda que el Pico y placa aplica de lunes a viernes. Fines de semana y feriados no rige esta medida de tránsito.
+-------------------------------------------------------------------------------------------------------------------
 
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+![La medida se implementó en Quito para controlar la congestión.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-12T150951.841.jpg)
 
-No a la licencia ambiental para minera en Loma Larga 
------------------------------------------------------
+El **Pico y placa** es una restricción vehicular que rige en todo el Distrito Metropolitano de **Quito** como medida para **gestionar el tránsito** de la ciudad en las horas pico.
 
-Ecuador debe prohibir la explotación minera -sin dudarlo en páramos, que son nuestras esponjas de agua- como lo hiciera Colombia, a través de un dictamen de la Corte Constitucional. El ejemplo del proceso seguido por la minera interesada en obtener la licencia para poder emprender la explotación en Loma Larga, que ha sido observado con claridad y firmeza por ETAPA, debe llevar a concienciar a Ecuador, no solo en esta etapa crítica que precisamos del recurso vital, sino a futuro por la estabilidad hidrológica del país y de nuestros ecosistemas en general, por la afectación del agua para consumo humano por los ‘índices de nitrato’, etc., pero además por las toneladas de materiales de desechos, con metales pesados y arsénico que no tienen un fin seguro. Ecuador puede salvarse si el Ministerio de Ambiente y Agua, conducido por la ministra Manzano, que dirige provisionalmente también el Ministerio de Energía y Minas, acata la recomendación y detiene este proyecto. Bien por este valiente informe del municipio de Cuenca, que ha sido con excelente comunicación debidamente transparentada (R. Aguilar, 2024), que promoverá se eleve ante la Corte Constitucional la demanda para sentar un precedente y salvar a nuestro país de una explotación salvaje que podría, en efecto, conducirnos ‘al suicidio’ por falta de agua y más daños ambientales, sociales y afectaciones a la salud. La Asamblea debe evaluar el catastro minero que impulsa el actual gobierno, que debería ayudar a parar la explotación minera ilegal, y el país  evaluar si queremos entregar nuestras tierras a una despiadada explotación de nuestros suelos e inmediata afectación a nuestro líquido vital, o evaluar si el propio estado, como lo ha hecho Chile con Codelco, empresa 100% de propiedad del Estado chileno y primer productor mundial de cobre, puede presentar, después de algunos años, y con todas las consultas previas y consentimientos, proyectos veraces para bien de la comunidad afectada y de todo el país. Una oportunidad para mejorar nuestra economía -incluyendo la generación de empleo- sería revitalizar, incluso con inversión privada, la producción petrolera sin explotación con ‘estimulación hidráulica’ -conocida como ‘fracking’- que de igual manera contaminaría más nuestras aguas superficiales y subterráneas. Como igualmente ocurre con Ecopetrol -empresa pública colombiana y una de las más importantes del mundo- Petroecuador, con más personal técnico que administrativo, y procesos modernizados, podría seguir siendo el protagonista, considerando los 8.8 miles de millones de barriles de petróleo de reserva que aún tiene Ecuador -que para bien de nuestra megadiversidad no topará ITT. El caso minero merece un tratamiento de política pública diferente, como el país acaba de colegir. Además, para el caso de Loma Larga ya Cuenca se pronunció en Consulta Popular con un sí para la prohibición de actividades mineras.  
+Esta **restricción excluye** a los autos conducidos por **personas de la tercera edad** o personas con discapacidad.
 
-Diego Fabián Valdivieso Anda 
+### Más noticias
+
+* [Av. Ladrón de Guevara estará cerrada desde el 13 de diciembre, en Quito](https://www.elcomercio.com/actualidad/quito/av-ladron-de-guevara-estara-cerrada-desde-el-13-de-diciembre-en-quito.html "Av. Ladrón de Guevara estará cerrada desde el 13 de diciembre, en Quito")
+* [¿Sintieron el temblor de 2.9 en Quito?](https://www.elcomercio.com/actualidad/quito/un-temblor-de-2-9-se-registro-en-quito-este-jueves-12-de-diciembre.html "¿Sintieron el temblor de 2.9 en Quito?")
+* [La Estación Marín Central de la Ecovía en Quito se cierra, así será el servicio](https://www.elcomercio.com/actualidad/quito/ecovia-marin-central-estacion-servicio.html "La Estación Marín Central de la Ecovía en Quito se cierra, así será el servicio")
+
+Horarios de Pico y placa
+------------------------
+
+El Pico y placa se aplica en dos horarios de **lunes a viernes**. Los feriados, sábados y domingo no aplica la restricción.
+
+Estos son los horarios de aplicación:
+
+* En la **mañana**: de 06:00 a 09:30
+* En la **tarde**: de 16:00 a 20:00
+
+El **Pico y placa** es una medida que se implementó en **diversas ciudades** alrededor del mundo como respuesta a los desafíos de la **urbanización** y el aumento del tránsito vehicular.
+
+Este viernes, **no circulan en Quito** los vehículos con **placas terminadas en 9 y 0.**
+
+Multas por infringir el Pico y placa
+------------------------------------
+
+La multa por incumplir el **Pico y placa** es del **15% del Salario Básico Unificado, es decir 69 dólares** la primera vez; la segunda vez será el 25%, es decir, **115 dólares**.
+
+Si incumples por tercera vez, la multa asciende al 50% de un salario básico, es decir, **230 dólares**.
+
+Recuerda retirar tu auto de las plazas de parqueo
+-------------------------------------------------
+
+Está vigente la resolución que dispone el proceso de **chatarrización** de los vehículos ingresados en los Centros de Retención Vehicular (CRV) por **más de tres años**, que no hayan sido retirados por sus propietarios.
+
+Con estos vehículos se emite una **declaratoria de abandono** y luego se procede a la chatarrización.
+
+Por esta razón, la Agencia de Tránsito llama a los **legítimos propietarios** a realizar el proceso de [liberación](https://es.wikipedia.org/wiki/Quito) vehicular.
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/UFguFjnMCB](https://t.co/UFguFjnMCB)
+> 
+> — AMTQuito (@AMT\_Quito) [October 18, 2024](https://twitter.com/AMT_Quito/status/1847210996382740688?ref_src=twsrc%5Etfw)
 
 Diciembre muestra cómo será la campaña electoral y no pinta bien
 ================================================================
@@ -75,6 +118,21 @@ Diciembre debería ser un mes de reflexión para todos los actores **políticos 
 La próxima campaña electoral puede ser una oportunidad para reconstruir la confianza entre políticos y ciudadanos. Al centrarse en el debate serio y constructivo, los candidatos tienen que demostrar su compromiso con el futuro del país y contribuir a una democracia más saludable.
 
 A medida que nos acercamos a las elecciones de febrero de 2025, es fundamental que tanto candidatos como votantes reflexionen sobre lo que realmente está en juego. La superficialidad y la desinformación no tienen cabida en un **proceso democrático saludable**. Es hora de exigir campañas responsables que prioricen el diálogo sincero sobre propuestas concretas. Solo así podremos garantizar un futuro mejor para Ecuador.
+
+Cartas a Quito / 13 de diciembre de 2024
+========================================
+
+Estas son las cartas a Quito de este viernes 13 de diciembre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+No a la licencia ambiental para minera en Loma Larga 
+-----------------------------------------------------
+
+Ecuador debe prohibir la explotación minera -sin dudarlo en páramos, que son nuestras esponjas de agua- como lo hiciera Colombia, a través de un dictamen de la Corte Constitucional. El ejemplo del proceso seguido por la minera interesada en obtener la licencia para poder emprender la explotación en Loma Larga, que ha sido observado con claridad y firmeza por ETAPA, debe llevar a concienciar a Ecuador, no solo en esta etapa crítica que precisamos del recurso vital, sino a futuro por la estabilidad hidrológica del país y de nuestros ecosistemas en general, por la afectación del agua para consumo humano por los ‘índices de nitrato’, etc., pero además por las toneladas de materiales de desechos, con metales pesados y arsénico que no tienen un fin seguro. Ecuador puede salvarse si el Ministerio de Ambiente y Agua, conducido por la ministra Manzano, que dirige provisionalmente también el Ministerio de Energía y Minas, acata la recomendación y detiene este proyecto. Bien por este valiente informe del municipio de Cuenca, que ha sido con excelente comunicación debidamente transparentada (R. Aguilar, 2024), que promoverá se eleve ante la Corte Constitucional la demanda para sentar un precedente y salvar a nuestro país de una explotación salvaje que podría, en efecto, conducirnos ‘al suicidio’ por falta de agua y más daños ambientales, sociales y afectaciones a la salud. La Asamblea debe evaluar el catastro minero que impulsa el actual gobierno, que debería ayudar a parar la explotación minera ilegal, y el país  evaluar si queremos entregar nuestras tierras a una despiadada explotación de nuestros suelos e inmediata afectación a nuestro líquido vital, o evaluar si el propio estado, como lo ha hecho Chile con Codelco, empresa 100% de propiedad del Estado chileno y primer productor mundial de cobre, puede presentar, después de algunos años, y con todas las consultas previas y consentimientos, proyectos veraces para bien de la comunidad afectada y de todo el país. Una oportunidad para mejorar nuestra economía -incluyendo la generación de empleo- sería revitalizar, incluso con inversión privada, la producción petrolera sin explotación con ‘estimulación hidráulica’ -conocida como ‘fracking’- que de igual manera contaminaría más nuestras aguas superficiales y subterráneas. Como igualmente ocurre con Ecopetrol -empresa pública colombiana y una de las más importantes del mundo- Petroecuador, con más personal técnico que administrativo, y procesos modernizados, podría seguir siendo el protagonista, considerando los 8.8 miles de millones de barriles de petróleo de reserva que aún tiene Ecuador -que para bien de nuestra megadiversidad no topará ITT. El caso minero merece un tratamiento de política pública diferente, como el país acaba de colegir. Además, para el caso de Loma Larga ya Cuenca se pronunció en Consulta Popular con un sí para la prohibición de actividades mineras.  
+
+Diego Fabián Valdivieso Anda 
 
 Panorama energético (parte 1)
 =============================
@@ -996,68 +1054,3 @@ API.
 
 San viernes
 -----------
-
-Fuertes lluvias en Cuenca continúan; los ríos recuperan sus caudales
-====================================================================
-
-Fuertes lluvias cayeron en Cuenca este jueves 12 de diciembre de 2024. Estas son las condiciones del clima en el resto de Ecuador.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Cuenca registró fuertes precipitaciones y vientos la tarde de este jueves](https://www.elcomercio.com/wp-content/uploads/2024/12/fuertes-lluvias-cuenca.jpg)
-
-**Fuertes lluvias** se registraron en **Cuenca**, en Azuay, la tarde de este jueves 12 de diciembre de 2024.
-
-Ciudadanos reportaron las **precipitaciones** en redes sociales, en **varios puntos de la ciudad**, como por ejemplo, el **Centro Histórico**, el sector del Aeropuerto y el suroriente.
-
-### Más noticias
-
-* [Inamhi pronostica cinco días de lluvias en Ecuador ¿Cuáles serán las zonas más afectadas?](https://www.elcomercio.com/actualidad/ecuador/inamhi-pronostica-cinco-dias-lluvias-ecuador-zonas-afectadas.html "Inamhi pronostica cinco días de lluvias en Ecuador ¿Cuáles serán las zonas más afectadas?")
-* [Lluvias en Cuenca, ¿bastan para salir de la sequía más prolongada en 51 años?](https://www.elcomercio.com/actualidad/ecuador/cuenca-salir-sequia-prolongada-51-anos.html "Lluvias en Cuenca, ¿bastan para salir de la sequía más prolongada en 51 años?")
-* [Así va la generación eléctrica en el Ecuador ¿se acabarán los cortes de luz en 10 días?](https://www.elcomercio.com/actualidad/negocios/asi-va-la-generacion-electrica-en-el-ecuador-se-acabaran-los-cortes-de-luz-en-10-dias.html "Así va la generación eléctrica en el Ecuador ¿se acabarán los cortes de luz en 10 días?")
-
-Estas **condiciones atmosféricas** han sido comunes en los últimos días, gracias a lo cual los ríos de Cuenca recuperaron sus **niveles normales**.
-
-Hasta la mañana de este jueves, este fue el estado de los **cuatro ríos**:
-
-* **Tomebamba**: 4,03 m³/s (normal)
-* **Yanuncay**: 2,83 m³/s (normal)
-* **Machángara**: 2,85 m³/s (normal)
-* **Tarqui**: bajo 1,79 m³/s (bajo)
-
-La ciudad suma **153 días de sequía hidrológica**. Según la Red de la Empresa de Agua Potable y Alcantarillado (**Etapa EP**), hasta el 9 de diciembre, se necesitaban cinco días adicionales de lluvias, para que esta situación finalice.
-
-Se espera que hasta este **fin de semana** la caída de **precipitaciones considerables** permitan superar la sequía en la ciudad.
-
-Para la noche de este jueves y madrugada del viernes, se pronostican **temperaturas mínimas** de 12 grados centígrados en la capital de Azuay.
-
-> [#Cuenca](https://twitter.com/hashtag/Cuenca?src=hash&ref_src=twsrc%5Etfw)| 🌧️ A esta hora se registran lluvias en diferentes sectores de la urbe azuaya.  
->   
-> 🚘 Si está conduciendo, encienda las luces del vehículo y reduzca la velocidad.🚶‍♀️Si es peatón, camine y no corra.  
->   
-> 📲Llame al 9-1-1 en caso de emergencia. [#ECU911BrindaSeguridadIntegral](https://twitter.com/hashtag/ECU911BrindaSeguridadIntegral?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/JEdHzObre0](https://t.co/JEdHzObre0)
-> 
-> — Coordinación Zonal 6 ECU 911 Austro (@ECU911Austro) [December 12, 2024](https://twitter.com/ECU911Austro/status/1867302889355448378?ref_src=twsrc%5Etfw)
-
-Pronóstico del clima en el resto de Ecuador
--------------------------------------------
-
-El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) pronosticó **lluvias y chubascos aislados** en la región Interandina, Litoral, cordillera oriental y cordillera occidental del Litoral, para este jueves 12 de diciembre.
-
-Según su último reporte, el clima en el Austro variará entre **cielos parcialmente nublados**, lloviznas y lluvias aisladas.
-
-Mientras que en el resto de la **Sierra**, las provincias con mayores probabilidades de lluvia son: **Carchi, Imbabura, Pichincha, Cotopaxi y Loja**.
-
-Amazonía y región Litoral
--------------------------
-
-En la **Amazonía** la situación será similar. Las lluvias aisladas y chubascos se presentarán en **Napo, Orellana y Zamora Chinchipe**.
-
-Finalmente, en la región Litoral, se prevén lluvias aisladas en ciertos sectores de **Esmeraldas, Manabí, Santo Domingo y Los Ríos**. La temperatura máxima es de 33º C en Guayaquil[.](https://www.inamhi.gob.ec/ "https://www.inamhi.gob.ec/")
-
-Para los próximos días, entre el 12 y 16 de diciembre, el Inamhi pronosticó lluvias de **niveles medio y alto** en Ecuador, que vendrán acompañadas con **tormentas y ráfagas de viento** en gran parte del país.
-
-Estas serán las **zonas más afectadas**:
-
-* **Región Litoral**: Mayor relevancia 12 y 13 de diciembre en la zona norte e interior la región (Esmeraldas, Santo Domingo y Los Ríos).
-* **Región Interandina**: Mayor intensidad en Carchi, Imbabura, Pichincha, Cotopaxi y Bolívar (zonas de cordillera).
-* **Región Amazónica**: Mayor intensidad en las estribaciones de la cordillera oriental (Zamora, Morona Santiago, Napo y Sucumbíos).
