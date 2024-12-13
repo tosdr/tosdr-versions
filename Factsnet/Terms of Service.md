@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![37 Facts About Turkey ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2294%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/countries/37-facts-about-turkey/)
+[![25 Facts About Ganoderenic Acid ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2286%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/25-facts-about-ganoderenic-acid/)
 
-Countries
+Chemistry
 
-12 Dec 2024
+13 Dec 2024
 
-[37 Facts About Turkey](https://facts.net/world/countries/37-facts-about-turkey/)
+[25 Facts About Ganoderenic Acid](https://facts.net/science/chemistry/25-facts-about-ganoderenic-acid/)
 
-[![39 Facts About Captain Jack Bonavita ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/39-facts-about-captain-jack-bonavita/)
+[![50 Facts About Ted Turner ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22103%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/50-facts-about-ted-turner/)
 
 People
 
-12 Dec 2024
+13 Dec 2024
 
-[39 Facts About Captain Jack Bonavita](https://facts.net/history/people/39-facts-about-captain-jack-bonavita/)
+[50 Facts About Ted Turner](https://facts.net/history/people/50-facts-about-ted-turner/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
