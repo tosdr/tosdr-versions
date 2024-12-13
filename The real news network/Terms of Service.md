@@ -1,39 +1,3 @@
-[![](https://therealnews.com/wp-content/uploads/2024/02/Media-at-risk-2024-1-1024x639.jpg)](https://support.therealnews.com/-/XTZGUMAB)
-
-******[The Fight for Media Freedom CONTINUES](https://support.therealnews.com/-/XDGVUPWM)******! ******[Help Us Reach our goal by the end of 2024!](https://support.therealnews.com/-/XDGVUPWM)******
-
-The Real News Network operates on a simple principle**: no corporate money, no paywalls, no ads**. Our work relies entirely on supporters like you who believe in the power of independent journalism to drive change.
-
-**[We are facing an urgent and critical financial crisis right now.](https://support.therealnews.com/-/XXVAKETU)**
-
-To sustain our reporting in 2025, we must raise **$200,000 by year’s end**. Every story and every voice we amplify depends on your support. Without it, fearless, movement-building journalism is at risk.
-
-In a media landscape dominated by corporate interests, **TRNN stands as a vital platform for exposing injustice, amplifying grassroots movements, and empowering people to act.**
-
-Your donation—**whether $5 or $500**—keeps us independent, bold, and uncompromising. Join us in this fight for truth.
-
-**Donate today and help us reach our $200K goal.** Together, we can ensure that independent journalism thrives when it’s needed most.
-
-[**I STAND WITH TRNN!**](https://support.therealnews.com/-/XHNHQCAR)
-
-You're missing out.
-===================
-
-#### Get our latest stories straight to your inbox three times a week.
-
-  
-
- Sign up
-
-Keep reading for free.
-======================
-
-### Subscribe to our newsletter:
-
-  
-
- Sign up
-
 Close
 
 * [Newsletter](https://therealnews.com/sign-up)
@@ -51,9 +15,10 @@ Search for:  Search
 * [Killer Water](https://therealnews.com/killer-water-the-toxic-legacy-of-canadas-oil-sands-industry-for-indigenous-communities)
 
 * [Youtube](https://www.youtube.com/c/therealnews)
-* [Facebook](https://www.facebook.com/therealnews)
+* [Bluesky](https://bsky.app/profile/therealnews.com)
 * [Instagram](https://www.instagram.com/therealnewsnetwork/)
 * [Twitter](https://twitter.com/therealnews)
+* [Facebook](https://www.facebook.com/therealnews)
 * [Mastodon](https://mastodon.social/@therealnews)
 * [Telegram](https://t.me/the_real_news_network)
 * [RSS Feed](https://therealnews.com/feed?partner-feed=the-real-news-network)
@@ -109,16 +74,16 @@ Follow Us
 Trending Posts
 --------------
 
+* [Robert Reich predicted the death of the US middle class 30 years ago. We asked him how to save it.](https://therealnews.com/robert-reich-predicted-the-death-of-the-us-middle-class)
+* [Alabama prisoners sued to stop forced labor—a court dismissed their case](https://therealnews.com/alabama-prisoners-sued-to-stop-forced-labor-a-court-dismissed-their-case)
+* ['We are destroying entire worlds': A West Bank rabbi's fight against Israeli Occupation](https://therealnews.com/we-are-destroying-entire-worlds-a-west-bank-rabbis-fight-against-israeli-occupation)
+* [Deny, Defend, Depose: Elites recoil at public support for UnitedHealthcare CEO assassin](https://therealnews.com/deny-defend-depose-unitedhealthcare-ceo-killed)
+* [Assad government falls after nearly 14 years of civil war as rebels seize capital](https://therealnews.com/assad-government-falls-after-nearly-14-years-of-civil-war-as-rebels-seize-capital)
+* [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
 * [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
-* [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
-* [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
-* [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
-* [How Big Tech made Trump 2.0](https://therealnews.com/how-big-tech-made-trump-2-0)
-* ['Ascension Hospital...is making a mockery of the Church doctrine': Baltimore Catholic nurses picket Bishops for fair contract](https://therealnews.com/ascension-hospital-is-making-a-mockery-of-the-church-doctrine-baltimore-catholic-nurses-picket-bishops-for-fair-contract)
-* [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
-* [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
-* [“Let’s unite!”: Poisoned residents of America’s sacrifice zones are banding together](https://therealnews.com/lets-unite-poisoned-residents-of-americas-sacrifice-zones-are-banding-together)
+* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
+* [Shattering the myth of Rosa Parks reveals the civil rights movement's true history](https://therealnews.com/rosa-parks-myth-civil-rights-movement-history)
 
 Close
 
@@ -173,16 +138,16 @@ Follow Us
 Trending Posts
 --------------
 
+* [Robert Reich predicted the death of the US middle class 30 years ago. We asked him how to save it.](https://therealnews.com/robert-reich-predicted-the-death-of-the-us-middle-class)
+* [Alabama prisoners sued to stop forced labor—a court dismissed their case](https://therealnews.com/alabama-prisoners-sued-to-stop-forced-labor-a-court-dismissed-their-case)
+* ['We are destroying entire worlds': A West Bank rabbi's fight against Israeli Occupation](https://therealnews.com/we-are-destroying-entire-worlds-a-west-bank-rabbis-fight-against-israeli-occupation)
+* [Deny, Defend, Depose: Elites recoil at public support for UnitedHealthcare CEO assassin](https://therealnews.com/deny-defend-depose-unitedhealthcare-ceo-killed)
+* [Assad government falls after nearly 14 years of civil war as rebels seize capital](https://therealnews.com/assad-government-falls-after-nearly-14-years-of-civil-war-as-rebels-seize-capital)
+* [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
 * [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
-* [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
-* [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
-* [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
-* [How Big Tech made Trump 2.0](https://therealnews.com/how-big-tech-made-trump-2-0)
-* ['Ascension Hospital...is making a mockery of the Church doctrine': Baltimore Catholic nurses picket Bishops for fair contract](https://therealnews.com/ascension-hospital-is-making-a-mockery-of-the-church-doctrine-baltimore-catholic-nurses-picket-bishops-for-fair-contract)
-* [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
-* [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
-* [“Let’s unite!”: Poisoned residents of America’s sacrifice zones are banding together](https://therealnews.com/lets-unite-poisoned-residents-of-americas-sacrifice-zones-are-banding-together)
+* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
+* [Shattering the myth of Rosa Parks reveals the civil rights movement's true history](https://therealnews.com/rosa-parks-myth-civil-rights-movement-history)
 
 [Skip to content](#main)
 
@@ -192,9 +157,10 @@ Trending Posts
 * [Killer Water](https://therealnews.com/killer-water-the-toxic-legacy-of-canadas-oil-sands-industry-for-indigenous-communities)
 
 * [Youtube](https://www.youtube.com/c/therealnews)
-* [Facebook](https://www.facebook.com/therealnews)
+* [Bluesky](https://bsky.app/profile/therealnews.com)
 * [Instagram](https://www.instagram.com/therealnewsnetwork/)
 * [Twitter](https://twitter.com/therealnews)
+* [Facebook](https://www.facebook.com/therealnews)
 * [Mastodon](https://mastodon.social/@therealnews)
 * [Telegram](https://t.me/the_real_news_network)
 * [RSS Feed](https://therealnews.com/feed?partner-feed=the-real-news-network)
@@ -236,9 +202,11 @@ Terms of use and privacy policy
 * [Click to share on Reddit (Opens in new window)](https://therealnews.com/termsandconditions?share=reddit "Click to share on Reddit")
 * [Click to email a link to a friend (Opens in new window)](mailto:?subject=%5BShared%20Post%5D%20Terms%20of%20use%20and%20privacy%20policy&body=https%3A%2F%2Ftherealnews.com%2Ftermsandconditions&share=email "Click to email a link to a friend")
 
-> [To sustain our reporting in 2025, we must raise **$200,000 by year’s end**. Every voice we amplify depends on your support. Without it, fearless, movement-building journalism is at risk. Your donation—**whether $5 or $500**—keeps us independent, bold, and uncompromising. **We are facing an urgent and critical financial crisis right now.** Join us in this fight for truth.](https://support.therealnews.com/-/XMRSECPP)
+[**DOUBLE YOUR SUPPORT!**](https://support.therealnews.com/-/XSUTMFCF)
+
+> To sustain our fearless, movement-building journalism in 2025, we must raise $200,000 by year’s end. Your support ensures we remain independent, bold, and uncompromising. Without it, the vital stories and voices we amplify are at risk. This is an urgent moment in the fight for transparency. Stand with us and make your tax-deductible donation today.
 > 
-> [**YES! SIGN ME UP**](https://support.therealnews.com/-/XMRSECPP)
+> [**YES! SIGN ME UP**](https://support.therealnews.com/-/XYFUFRGH)
 
 If you continue to browse and use this website you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our [privacy policy](https://therealnews.com/%22http://therealnews.com/web/index.php?thisdataswitch=0&thisid=417&thisview=item#privacy%22) govern _The Real News_ relationship with you in relation to this website.
 
@@ -324,8 +292,6 @@ _The Real News_ may periodically review all of its policies and procedures. We r
 [**The Fight for Truth Needs You: Invest in the Future of Independent News**](https://support.therealnews.com/-/XXCXTLVY)
 -------------------------------------------------------------------------------------------------------------------------
 
-The Real News Network operates on a simple principle**: no corporate money, no paywalls, no ads**. In a media landscape dominated by corporate interests, TRNN stands as a vital platform for exposing injustice, amplifying grassroots movements, and empowering people to act. **[Our work relies entirely on supporters like you](https://support.therealnews.com/-/XZGLPQHK)** who believe in the power of independent journalism to drive change.
-
 To sustain our reporting in 2025, we must raise **$200,000 by year’s end**. Every voice we amplify depends on your support. Without it, fearless, movement-building journalism is at risk. Your donation—whether $5 or $500—keeps us independent, bold, and uncompromising.
 
 **We are facing an urgent and critical financial crisis right now.** Join us in this fight for truth!
@@ -370,23 +336,24 @@ Tagged: [video](https://therealnews.com/tag/video)
 Trending Posts
 --------------
 
+* [Robert Reich predicted the death of the US middle class 30 years ago. We asked him how to save it.](https://therealnews.com/robert-reich-predicted-the-death-of-the-us-middle-class)
+* [Alabama prisoners sued to stop forced labor—a court dismissed their case](https://therealnews.com/alabama-prisoners-sued-to-stop-forced-labor-a-court-dismissed-their-case)
+* ['We are destroying entire worlds': A West Bank rabbi's fight against Israeli Occupation](https://therealnews.com/we-are-destroying-entire-worlds-a-west-bank-rabbis-fight-against-israeli-occupation)
+* [Deny, Defend, Depose: Elites recoil at public support for UnitedHealthcare CEO assassin](https://therealnews.com/deny-defend-depose-unitedhealthcare-ceo-killed)
+* [Assad government falls after nearly 14 years of civil war as rebels seize capital](https://therealnews.com/assad-government-falls-after-nearly-14-years-of-civil-war-as-rebels-seize-capital)
+* [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
 * [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
-* [Union president explains the existential threat Trump poses to organized labor—and how we fight back](https://therealnews.com/union-president-explains-the-existential-threat-trump-poses-to-organized-labor-and-how-we-fight-back)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
-* [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
-* [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
-* [How Big Tech made Trump 2.0](https://therealnews.com/how-big-tech-made-trump-2-0)
-* ['Ascension Hospital...is making a mockery of the Church doctrine': Baltimore Catholic nurses picket Bishops for fair contract](https://therealnews.com/ascension-hospital-is-making-a-mockery-of-the-church-doctrine-baltimore-catholic-nurses-picket-bishops-for-fair-contract)
-* [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
-* [Solidarity or Jewish supremacy? The moral choice facing Judaism](https://therealnews.com/solidarity-or-jewish-supremacy-the-moral-choice-facing-judaism)
-* [“Let’s unite!”: Poisoned residents of America’s sacrifice zones are banding together](https://therealnews.com/lets-unite-poisoned-residents-of-americas-sacrifice-zones-are-banding-together)
+* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
+* [Shattering the myth of Rosa Parks reveals the civil rights movement's true history](https://therealnews.com/rosa-parks-myth-civil-rights-movement-history)
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
 * [Youtube](https://www.youtube.com/c/therealnews)
-* [Facebook](https://www.facebook.com/therealnews)
+* [Bluesky](https://bsky.app/profile/therealnews.com)
 * [Instagram](https://www.instagram.com/therealnewsnetwork/)
 * [Twitter](https://twitter.com/therealnews)
+* [Facebook](https://www.facebook.com/therealnews)
 * [Mastodon](https://mastodon.social/@therealnews)
 * [Telegram](https://t.me/the_real_news_network)
 * [RSS Feed](https://therealnews.com/feed?partner-feed=the-real-news-network)
