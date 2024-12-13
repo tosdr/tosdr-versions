@@ -53,16 +53,16 @@ Fragen? Kontaktieren Sie uns per Mail!
 
 E-Mail: [support@bbbserver.de](mailto:support@bbbserver.de)
 
-* [Rechtliche Informationen](https://bbbserver.de/rechtliche-informationen "Rechtliche Informationen")
+* [Impressum](https://bbbserver.de/impressum "Impressum")
 * [Widerrufsrecht](https://bbbserver.de/widerrufsrecht "Widerrufsrecht")
-* [Datenschutz](https://bbbserver.de/daten-schutz "Datenschutz")
+* [Datenschutz](https://bbbserver.de/datenschutz "Datenschutz")
 * [Plattformoptimierungen](https://bbbserver.de/plattform-optimierungen "Plattformoptimierungen")
 * [Partner & Wiederverkäufer](https://bbbserver.de/partner-und-agenturen "Partner & Wiederverkäufer")
 * [Entwickler & APIs](https://bbbserver.de/entwickler-apis "Entwickler & APIs")
 * [Sicherheit](https://invokable.gmbh/security "Sicherheit")
 * [Blog](https://bbbserver.de/blog "Blog")
 
-![Mitglied des BVMW](/assets/invo-site-theme/img/ext_logo_bvmw.png)
+![Mitglied im BVMW](/assets/invo-site-theme/img/ext_logo_bvmw.png)
 
 ![Allianz für Cybersicherheit (Teilnehmer)](/assets/invo-site-theme/img/ext_logo_teilenhmer_cs.jpg)
 
