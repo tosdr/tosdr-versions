@@ -67,11 +67,11 @@
 
 MBFC News
 
+* [December 13, 2024 | Media News Daily: Top Stories for 12/13/2024](https://mediabiasfactcheck.com/2024/12/13/media-news-daily-top-stories-for-12-13-2024/ "Media News Daily: Top Stories for 12/13/2024")
+* [December 13, 2024 | MBFC’s Daily Vetted Fact Checks for 12/13/2024](https://mediabiasfactcheck.com/2024/12/13/mbfcs-daily-vetted-fact-checks-for-12-13-2024/ "MBFC’s Daily Vetted Fact Checks for 12/13/2024")
 * [December 12, 2024 | Media News Daily: Top Stories for 12/12/2024](https://mediabiasfactcheck.com/2024/12/12/media-news-daily-top-stories-for-12-12-2024/ "Media News Daily: Top Stories for 12/12/2024")
 * [December 12, 2024 | MBFC’s Daily Vetted Fact Checks for 12/12/2024](https://mediabiasfactcheck.com/2024/12/12/mbfcs-daily-vetted-fact-checks-for-12-12-2024/ "MBFC’s Daily Vetted Fact Checks for 12/12/2024")
 * [December 11, 2024 | Media News Daily: Top Stories for 12/11/2024](https://mediabiasfactcheck.com/2024/12/11/media-news-daily-top-stories-for-12-11-2024/ "Media News Daily: Top Stories for 12/11/2024")
-* [December 11, 2024 | MBFC’s Daily Vetted Fact Checks for 12/11/2024](https://mediabiasfactcheck.com/2024/12/11/mbfcs-daily-vetted-fact-checks-for-12-11-2024/ "MBFC’s Daily Vetted Fact Checks for 12/11/2024")
-* [December 10, 2024 | Media News Daily: Top Stories for 12/10/2024](https://mediabiasfactcheck.com/2024/12/10/media-news-daily-top-stories-for-12-10-2024/ "Media News Daily: Top Stories for 12/10/2024")
 
 Search for:  
 
@@ -182,25 +182,25 @@ No related posts.
 
 #### Recently Updated Pages
 
-* [Wyoming Governor Mark Gordon – Political Bias Profile](https://mediabiasfactcheck.com/wyoming-governor-mark-gordon-political-bias-profile/ "View Wyoming Governor Mark Gordon – Political Bias Profile") - December 12, 2024
+* [Joe Scarborbough Bias Rating](https://mediabiasfactcheck.com/joe-scarborbough-bias-rating/ "View Joe Scarborbough Bias Rating") - December 13, 2024
     
-* [West Virginia Governor Jim Justice – Political Bias Profile](https://mediabiasfactcheck.com/west-virginia-governor-jim-justice-political-bias-profile/ "View West Virginia Governor Jim Justice – Political Bias Profile") - December 12, 2024
+* [Bill O’Reilly Bias Rating](https://mediabiasfactcheck.com/bill-oreilly-bias-rating/ "View Bill O’Reilly Bias Rating") - December 13, 2024
     
-* [Washington Governor Jay Inslee – Political Bias Profile](https://mediabiasfactcheck.com/washington-governor-jay-inslee-political-bias-profile/ "View Washington Governor Jay Inslee – Political Bias Profile") - December 12, 2024
+* [Jeanine Pirro Bias Rating](https://mediabiasfactcheck.com/jeanine-pirro-bias-rating/ "View Jeanine Pirro Bias Rating") - December 13, 2024
     
-* [Virginia Governor Glenn Youngkin – Political Bias Profile](https://mediabiasfactcheck.com/virginia-governor-glenn-youngkin-political-bias-profile/ "View Virginia Governor Glenn Youngkin – Political Bias Profile") - December 12, 2024
+* [David Muir Bias Rating](https://mediabiasfactcheck.com/david-muir-bias-rating/ "View David Muir Bias Rating") - December 13, 2024
     
-* [Vermont Governor Phil Scott – Political Bias Profile](https://mediabiasfactcheck.com/vermont-governor-phil-scott-political-bias-profile/ "View Vermont Governor Phil Scott – Political Bias Profile") - December 12, 2024
+* [Piers Morgan Bias Rating](https://mediabiasfactcheck.com/piers-morgan-bias-rating/ "View Piers Morgan Bias Rating") - December 13, 2024
     
-* [Utah Governor Spencer Cox – Political Bias Profile](https://mediabiasfactcheck.com/utah-governor-spencer-cox-political-bias-profile/ "View Utah Governor Spencer Cox – Political Bias Profile") - December 12, 2024
+* [Martha MacCallum Bias Rating](https://mediabiasfactcheck.com/martha-maccallum-bias-rating/ "View Martha MacCallum Bias Rating") - December 13, 2024
     
-* [Tennessee Governor Bill Lee – Political Bias Profile](https://mediabiasfactcheck.com/tennessee-governor-bill-lee-political-bias-profile/ "View Tennessee Governor Bill Lee – Political Bias Profile") - December 12, 2024
+* [Mark Levin Bias Rating](https://mediabiasfactcheck.com/mark-levin-bias-rating/ "View Mark Levin Bias Rating") - December 13, 2024
     
-* [South Dakota Governor Kristi Noem – Political Bias Profile](https://mediabiasfactcheck.com/south-dakota-governor-kristi-noem-political-bias-profile/ "View South Dakota Governor Kristi Noem – Political Bias Profile") - December 12, 2024
+* [Don Lemon Bias Rating](https://mediabiasfactcheck.com/don-lemon-bias-rating/ "View Don Lemon Bias Rating") - December 13, 2024
     
-* [South Carolina Governor Henry McMaster– Political Bias Profile](https://mediabiasfactcheck.com/south-carolina-governor-henry-mcmaster-political-bias-profile/ "View South Carolina Governor Henry McMaster– Political Bias Profile") - December 12, 2024
+* [Tomi Lahren Bias Rating](https://mediabiasfactcheck.com/tomi-lahren-bias-rating/ "View Tomi Lahren Bias Rating") - December 13, 2024
     
-* [Rhode Island Governor Dan McKee – Political Bias Profile](https://mediabiasfactcheck.com/rhode-island-governor-dan-mckee-political-bias-profile/ "View Rhode Island Governor Dan McKee – Political Bias Profile") - December 12, 2024
+* [Larry Kudlow Bias Rating](https://mediabiasfactcheck.com/larry-kudlow-bias-rating/ "View Larry Kudlow Bias Rating") - December 13, 2024
     
 
 #### Today’s Top Page Views
@@ -210,8 +210,8 @@ No related posts.
 * [Time Magazine - Bias and Credibility](https://mediabiasfactcheck.com/time/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [Methodology](https://mediabiasfactcheck.com/methodology/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [Methodology](https://mediabiasfactcheck.com/methodology/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 * [MBFC's Daily Vetted Fact Checks for 12/12/2024](https://mediabiasfactcheck.com/2024/12/12/mbfcs-daily-vetted-fact-checks-for-12-12-2024/)
