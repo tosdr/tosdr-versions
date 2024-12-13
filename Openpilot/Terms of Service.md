@@ -20,7 +20,7 @@ Social
 
 [](https://github.com/commaai)[](https://twitter.com/comma_ai)[](https://www.instagram.com/comma_ai)[](https://www.youtube.com/commaai)[](https://discord.comma.ai/)
 
-[openpilot](https://comma.ai/openpilot) [comma 3X](https://comma.ai/shop/comma-3x) [connect](https://comma.ai/connect) [compatibility](https://comma.ai/vehicles)
+[openpilot](https://comma.ai/openpilot) [comma 3X](https://comma.ai/shop/comma-3x) [compatibility](https://comma.ai/vehicles) [jobs](https://comma.ai/jobs)
 
 [Shop](https://comma.ai/shop)
 
