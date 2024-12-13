@@ -184,7 +184,6 @@ Empfehlungen für dich
         
         Computer-Komponenten
         
-        * [Arbeitsspeicher](https://talk-point.de/collections/arbeitsspeicher)
         * [Grafikkarten](https://talk-point.de/collections/grafikkarten)
         * [Prozessoren](https://talk-point.de/collections/prozessoren)
         * [Zubehör](https://talk-point.de/collections/pc-zubehor)
@@ -468,7 +467,6 @@ Empfehlungen für dich
         
         Computer-Komponenten
         
-        * [Arbeitsspeicher](https://talk-point.de/collections/arbeitsspeicher)
         * [Grafikkarten](https://talk-point.de/collections/grafikkarten)
         * [Prozessoren](https://talk-point.de/collections/prozessoren)
         * [Zubehör](https://talk-point.de/collections/pc-zubehor)
