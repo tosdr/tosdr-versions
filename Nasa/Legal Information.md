@@ -263,7 +263,13 @@ article 3 days ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-sw
 
 ### Highlights
 
-[![The Group 15 NASA and international astronaut candidates pose for a group photo – front row, Jeffrey S. Ashby, left, Dafydd “Dave” R. Williams, James F. Reilly, Scott D. Altman, Rick D. Husband, and Michael J. Bloomfield; middle row, Pamela A. Melroy, left, Michael P. Anderson, Michel Tognini, Kathryn “Kay” P. Hire, Kalpana Chawla, Carlos I. Noriega, Susan L. Still, Takao Doi, and Frederick “Rick” W. Sturckow; back row, Janet L. Kavandi, left, Edward T. Lu, Steven K. Robinson, Robert L. Curbeam, Dominic L.P. Gorie, Joe F. Edwards, Steven W. Lindsey, and Jean-Loup Chrétien.](https://www.nasa.gov/wp-content/uploads/2024/12/group-15-1-group-portrait.jpg?w=1020)
+[![](https://www.nasa.gov/wp-content/uploads/2024/12/nasas-europa-clipper-mission.jpg?w=1024)
+
+7 min read
+
+### NASA Kennedy Top 24 Stories of 2024
+
+article 5 hours ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/)[![The Group 15 NASA and international astronaut candidates pose for a group photo – front row, Jeffrey S. Ashby, left, Dafydd “Dave” R. Williams, James F. Reilly, Scott D. Altman, Rick D. Husband, and Michael J. Bloomfield; middle row, Pamela A. Melroy, left, Michael P. Anderson, Michel Tognini, Kathryn “Kay” P. Hire, Kalpana Chawla, Carlos I. Noriega, Susan L. Still, Takao Doi, and Frederick “Rick” W. Sturckow; back row, Janet L. Kavandi, left, Edward T. Lu, Steven K. Robinson, Robert L. Curbeam, Dominic L.P. Gorie, Joe F. Edwards, Steven W. Lindsey, and Jean-Loup Chrétien.](https://www.nasa.gov/wp-content/uploads/2024/12/group-15-1-group-portrait.jpg?w=1020)
 
 17 min read
 
@@ -275,13 +281,7 @@ article 3 days ago](https://www.nasa.gov/history/30-years-ago-nasa-selects-its-1
 
 ### 2024 Be An Astronaut Campaign
 
-article 3 days ago](https://www.nasa.gov/humans-in-space/becoming-an-astronaut/2024-be-an-astronaut-campaign/)[![NASA astronaut and Expedition 72 Flight Engineer Matthew Dominick points his camera out a window on the cupola as the International Space Station orbited 262 miles above the Atlantic Ocean off the coast of Africa.](https://images-assets.nasa.gov/image/iss072e035863/iss072e035863~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
-
-3 min read
-
-### Matt Dominick’s X Account: A Visual Journey from Space
-
-article 1 week ago](https://www.nasa.gov/missions/station/matt-dominicks-x-account-a-visual-journey-from-space/)
+article 3 days ago](https://www.nasa.gov/humans-in-space/becoming-an-astronaut/2024-be-an-astronaut-campaign/)
 
 ### Highlights
 
@@ -291,13 +291,13 @@ article 1 week ago](https://www.nasa.gov/missions/station/matt-dominicks-x-accou
 
 ### NASA-DOD Study: Saltwater to Widely Taint Coastal Groundwater by 2100
 
-article 23 hours ago](https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/)[![NASA Study: Crops, Forests Responding to Changing Rainfall Patterns](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/1-precip%20map.jpg)
+article 1 day ago](https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/)[![NASA Study: Crops, Forests Responding to Changing Rainfall Patterns](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/1-precip%20map.jpg)
 
 4 min read
 
 ### NASA Study: Crops, Forests Responding to Changing Rainfall Patterns
 
-article 23 hours ago](https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/)[![Data taken by NASA’s PACE and the international SWOT](https://www.nasa.gov/wp-content/uploads/2024/12/swot-pace-still-thumbnail.png?w=1024)
+article 1 day ago](https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/)[![Data taken by NASA’s PACE and the international SWOT](https://www.nasa.gov/wp-content/uploads/2024/12/swot-pace-still-thumbnail.png?w=1024)
 
 6 min read
 
@@ -307,7 +307,13 @@ article 3 days ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-sw
 
 ### Highlights
 
-[![NASA’s Ingenuity Mars Helicopter](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26238-ingentuity-ripples-cropped.jpg?w=1024)
+[![](https://www.nasa.gov/wp-content/uploads/2024/12/nasas-europa-clipper-mission.jpg?w=1024)
+
+7 min read
+
+### NASA Kennedy Top 24 Stories of 2024
+
+article 5 hours ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-kennedy-top-24-stories-of-2024/)[![NASA’s Ingenuity Mars Helicopter](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26238-ingentuity-ripples-cropped.jpg?w=1024)
 
 5 min read
 
@@ -319,23 +325,17 @@ article 1 day ago](https://www.nasa.gov/missions/mars-2020-perseverance/ingenuit
 
 ### JunoCam
 
-article 2 days ago](https://science.nasa.gov/citizen-science/junocam-2/)[![Scientists Share Early Results from NASA’s Solar Eclipse Experiments ](https://images-assets.nasa.gov/image/NHQ202404080101/NHQ202404080101~large.jpg)
-
-5 min read
-
-### Scientists Share Early Results from NASA’s Solar Eclipse Experiments 
-
-article 2 days ago](https://science.nasa.gov/science-research/heliophysics/scientists-share-early-results-from-nasas-solar-eclipse-experiments/)
+article 2 days ago](https://science.nasa.gov/citizen-science/junocam-2/)
 
 ### Featured
 
-[![Roman Integrated Payload Assembly](https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy.jpg?w=819)
+[![Roman Integrated Payload Assembly](https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy-2.jpg?w=819)
 
 4 min read
 
 ### NASA Successfully Integrates Roman Mission’s Telescope, Instruments
 
-article 2 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-roman-missions-telescope-instruments/)[![Found: First Actively Forming Galaxy as Lightweight as Young Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JD0MVRQ4ANVGZJV5PM1Z7AJM-1K.png)
+article 9 hours ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-roman-missions-telescope-instruments/)[![Found: First Actively Forming Galaxy as Lightweight as Young Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JD0MVRQ4ANVGZJV5PM1Z7AJM-1K.png)
 
 6 min read
 
@@ -351,47 +351,47 @@ article 2 days ago](https://science.nasa.gov/universe/exoplanets/discovery-alert
 
 ### Highlights
 
-[![Title slide for OSDR Chats interview with Dr Jakub Mieczkowski](https://www.nasa.gov/wp-content/uploads/2024/12/osdr-chats-title-slide-mieczkowski.jpg?w=1024)
+[![Amendment 82: A.48 Commercial Satellite Data Earth Science and Applications Final Text and Due Dates Released](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/svs/a000000/a004700/a004745/landsat_w_sentinel_v2_ls8ls9sAsB_fade_08_60fps_4k_3240_print.jpg)
+
+2 min read
+
+### Amendment 82: A.48 Commercial Satellite Data Earth Science and Applications Final Text and Due Dates Released
+
+article 6 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-82-a-48-commercial-satellite-data-earth-science-and-applications-final-text-and-due-dates-released/)[![Title slide for OSDR Chats interview with Dr Jakub Mieczkowski](https://www.nasa.gov/wp-content/uploads/2024/12/osdr-chats-title-slide-mieczkowski.jpg?w=1024)
 
 2 min read
 
 ### OSDR Chats with Dr Jakub Mieczkowski
 
-article 32 mins ago](https://www.nasa.gov/osdr-chats-with-dr-jakub-mieczkowski/)[![Title slide for Open Science Success Stories with Dr Vla Fajardo](https://www.nasa.gov/wp-content/uploads/2024/10/success-stories-title-slide-valfajardo.jpg?w=1024)
+article 8 hours ago](https://www.nasa.gov/osdr-chats-with-dr-jakub-mieczkowski/)[![Title slide for Open Science Success Stories with Dr Vla Fajardo](https://www.nasa.gov/wp-content/uploads/2024/10/success-stories-title-slide-valfajardo.jpg?w=1024)
 
 1 min read
 
 ### Open Science Success Stories with Dr Val Fajardo
 
-article 21 hours ago](https://www.nasa.gov/open-science-success-stories-with-dr-val-fajardo/)[![Found: First Actively Forming Galaxy as Lightweight as Young Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JD0MVRQ4ANVGZJV5PM1Z7AJM-1K.png)
-
-6 min read
-
-### Found: First Actively Forming Galaxy as Lightweight as Young Milky Way
-
-article 1 day ago](https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/)
+article 1 day ago](https://www.nasa.gov/open-science-success-stories-with-dr-val-fajardo/)
 
 ### Highlights
 
-[![An atmospheric probe model carried by a quad rotor aircraft rises and the Moon is visible.](https://images-assets.nasa.gov/image/AFRC2024-0166-032/AFRC2024-0166-032~large.jpg?w=1919&h=1281&fit=clip&crop=faces%2Cfocalpoint)
+[![A man wearing a blue hard hat stands next to a large cylinder-shaped rig while operating it.](https://www.nasa.gov/wp-content/uploads/2024/12/dsr-1.jpg?w=819)
+
+2 min read
+
+### Dynamic Spin Rig
+
+article 5 hours ago](https://www.nasa.gov/dynamic-spin-rig/)[![An atmospheric probe model carried by a quad rotor aircraft rises and the Moon is visible.](https://images-assets.nasa.gov/image/AFRC2024-0166-032/AFRC2024-0166-032~large.jpg?w=1919&h=1281&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
 ### Atmospheric Probe Shows Promise in Test Flight
 
-article 22 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/atmospheric-probe-shows-promise-in-test-flight/)[![A black drone with an orange top in flight in Nevada.](https://www.nasa.gov/wp-content/uploads/2024/12/drone-test.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/armstrong/atmospheric-probe-shows-promise-in-test-flight/)[![A black drone with an orange top in flight in Nevada.](https://www.nasa.gov/wp-content/uploads/2024/12/drone-test.jpg?w=1024)
 
 3 min read
 
 ### NASA Moves Drone Package Delivery Industry Closer to Reality
 
-article 2 days ago](https://www.nasa.gov/aeronautics/drones/delivering-closer-to-reality/)[![Two men prepare a wing test article for obtaining vibration data.](https://images-assets.nasa.gov/image/AFRC2024-0142-096/AFRC2024-0142-096~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
-
-3 min read
-
-### NASA Flips Efficient Wing Concept for Testing
-
-article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-flips-efficient-wing-concept-for-testing/)
+article 2 days ago](https://www.nasa.gov/aeronautics/drones/delivering-closer-to-reality/)
 
 ### Highlights
 
@@ -401,7 +401,7 @@ article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-f
 
 ### NASA Gives The World a Brake
 
-article 30 mins ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/)[![Researchers Al Capps (seated) and Paul Borchers demonstrate Airspace Technology Demonstration 2 (ATD-2) tools that air traffic managers began testing in 2017.](https://www.nasa.gov/wp-content/uploads/2021/09/dsc_0007.jpg?w=1024)
+article 8 hours ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/nasa-gives-the-world-a-brake/)[![Researchers Al Capps (seated) and Paul Borchers demonstrate Airspace Technology Demonstration 2 (ATD-2) tools that air traffic managers began testing in 2017.](https://www.nasa.gov/wp-content/uploads/2021/09/dsc_0007.jpg?w=1024)
 
 3 min read
 
@@ -423,7 +423,7 @@ article 2 weeks ago](https://science.nasa.gov/researchers/solicitations/roses-20
 
 ### They Grow So Fast: Moon Tree Progress Since NASA’s Artemis I Mission
 
-article 24 hours ago](https://www.nasa.gov/learning-resources/moon-tree-progress-since-nasas-artemis-i-mission/)
+article 1 day ago](https://www.nasa.gov/learning-resources/moon-tree-progress-since-nasas-artemis-i-mission/)
 
 ### Featured
 
