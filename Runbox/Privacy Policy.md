@@ -24,7 +24,7 @@ Fast. Secure. Private. Forged in Norway.
     * [Privacy Protection](https://runbox.com/why-runbox/privacy-protection/)
         * [Email Privacy Regulations](https://runbox.com/why-runbox/privacy-protection/email-privacy-regulations/)
         * [Why Runbox being in Norway is important](https://runbox.com/why-runbox/privacy-protection/runbox-norway-important/)
-        * [Transparency Report](https://runbox.com/why-runbox/privacy-protection/transparency-report/)
+        * [Privacy Transparency Report](https://runbox.com/why-runbox/privacy-protection/transparency-report/)
     * [Security and Reliability](https://runbox.com/why-runbox/security-reliability/)
         * [Secure Transfer of Email](https://runbox.com/why-runbox/security-reliability/secure-transfer-email/)
         * [Secure Authentication](https://runbox.com/why-runbox/security-reliability/secure-authentication/)
