@@ -401,37 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Plano girl hurt in hit-and-run crash while walking to school](https://images.foxtv.com/c107833-mcdn.mp.lura.live/expiretime=2082787200/91e573017238c919d85ea3877588ef9ff3c16035f5e77b7a6c1fda24f233130f/iupl/637/DF5/32/18/637DF5D125B4CDB63A22CFF31646B02F.jpg?ve=1&tl=1)
+ [!['Wanted' posters spotted in NYC reportedly target healthcare CEOs](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/wanted-posters.png?ve=1&tl=1)
 
- ![Plano girl hurt in hit-and-run crash while walking to school](https://images.foxtv.com/images.foxtv.com/c107833-mcdn.mp.lura.live/expiretime=2082787200/91e573017238c919d85ea3877588ef9ff3c16035f5e77b7a6c1fda24f233130f/iupl/637/DF5/32/18/592/333/637DF5D125B4CDB63A22CFF31646B02F.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/plano-girl-hurt-hit-and-run-crash-while-walking-school)
+ !['Wanted' posters spotted in NYC reportedly target healthcare CEOs](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/wanted-posters.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wanted-posters-ceo-killing-new-york-city)
 
-### [Plano girl hurt in hit-and-run crash while walking to school](https://www.fox4news.com/news/plano-girl-hurt-hit-and-run-crash-while-walking-school)
+### ['Wanted' posters spotted in NYC reportedly target healthcare CEOs](https://www.fox4news.com/news/wanted-posters-ceo-killing-new-york-city)
 
- [![State Fair of Texas specialty license plates approved by TxDMV](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/state-fair-license-plate.jpg?ve=1&tl=1)
+ [![Dallas City Council questions new city manager search that only named 4 possible candidates](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/121224-dallas-city-manager-search-qt-530-pkg_00.00.20.30.jpg?ve=1&tl=1)
 
- ![State Fair of Texas specialty license plates approved by TxDMV](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/state-fair-license-plate.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/state-fair-texas-specialty-license-plates-approved-txdmv)
+ ![Dallas City Council questions new city manager search that only named 4 possible candidates](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/121224-dallas-city-manager-search-qt-530-pkg_00.00.20.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/search-next-dallas-city-manager-hones-4-possible-candidates-city-council-wanted-more)
 
-### [State Fair of Texas specialty license plates approved by TxDMV](https://www.fox4news.com/news/state-fair-texas-specialty-license-plates-approved-txdmv)
+### [Dallas City Council questions new city manager search that only named 4 possible candidates](https://www.fox4news.com/news/search-next-dallas-city-manager-hones-4-possible-candidates-city-council-wanted-more)
 
- [![President Joe Biden's pardons: List](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/gettyimages-2186820758.jpg?ve=1&tl=1)
+ [!['Mastermind' behind Du'Vonta Lampkin's murder found guilty, gets life in prison](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/franklin-and-lampkin.jpg?ve=1&tl=1)
 
- ![President Joe Biden's pardons: List](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/gettyimages-2186820758.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/president-joe-bidens-pardons-list)
+ !['Mastermind' behind Du'Vonta Lampkin's murder found guilty, gets life in prison](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/franklin-and-lampkin.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/duvonta-lampkin-antwan-franklin-guilty-verdict)
 
-### [President Joe Biden's pardons: List](https://www.fox4news.com/news/president-joe-bidens-pardons-list)
+### ['Mastermind' behind Du'Vonta Lampkin's murder found guilty, gets life in prison](https://www.fox4news.com/news/duvonta-lampkin-antwan-franklin-guilty-verdict)
 
- [![LIVE: Man accused of murdering football player Du'Vonta Lampkin takes the stand](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/snapshot-4.jpg?ve=1&tl=1)
+ [![Green Lake kayaker faked death; warrants detail investigation](https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2024/12/32/18/bmrb1.jpg?ve=1&tl=1)
 
- ![LIVE: Man accused of murdering football player Du'Vonta Lampkin takes the stand](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/snapshot-4.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/duvonta-lampkin-murder-trial-antwan-franklin-day-2)
+ ![Green Lake kayaker faked death; warrants detail investigation](https://images.foxtv.com/images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2024/12/32/18/592/333/bmrb1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/green-lake-kayaker-faked-death-warrants)
 
-Live Now
+### [How investigators found Green Lake kayaker who faked death, fled country](https://www.fox4news.com/news/green-lake-kayaker-faked-death-warrants)
 
-### [LIVE: Man accused of murdering football player Du'Vonta Lampkin takes the stand](https://www.fox4news.com/news/duvonta-lampkin-murder-trial-antwan-franklin-day-2)
+ [![Bonton Farms expanding nutrition, wellness services across South Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-dial-bonton-farms-expansion-4p_00.00.27.44.jpg?ve=1&tl=1)
 
- [![2024 Nikon Comedy Wildlife Awards winner is a squirrel in a precarious position](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/1.-overall-winner-and-mammal-category-winner_milko-marchetti_stuck-squirrel-scaled.jpg?ve=1&tl=1)
+ ![Bonton Farms expanding nutrition, wellness services across South Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-dial-bonton-farms-expansion-4p_00.00.27.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/bonton-farms-expanding-nutrition-wellness-services-across-south-dallas)
 
- ![2024 Nikon Comedy Wildlife Awards winner is a squirrel in a precarious position](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/1.-overall-winner-and-mammal-category-winner_milko-marchetti_stuck-squirrel-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-nikon-comedy-wildlife-awards-winners)
-
-### [Squirrel in precarious position is this year's Nikon Comedy Wildlife Awards winner](https://www.fox4news.com/news/2024-nikon-comedy-wildlife-awards-winners)
+### [Bonton Farms expanding nutrition, wellness services across South Dallas](https://www.fox4news.com/news/bonton-farms-expanding-nutrition-wellness-services-across-south-dallas)
 
 ###### [News](https://www.fox4news.com/news)
 
