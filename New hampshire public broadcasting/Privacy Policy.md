@@ -186,13 +186,13 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 * [| Christa](https://video.nhpbs.org/video/christa-ygbur1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Rising Star Wrestler overcomes tragedy in Wrangell INDIE ALASKA** | Indie Alaska](https://video.nhpbs.org/video/rising-star-wrestler-overcomes-tragedy-in-wrangell-indie-alaska-gsijwe?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Season 6 Preview** | History with David Rubenstein](https://video.nhpbs.org/video/season-6-preview-9s6x6r?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Holiday Special 2024 Preview** | Call the Midwife](https://video.nhpbs.org/video/holiday-special-2024-preview-4kjiyu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Winter Tourism and the Economics of Fun** | The State We're In](https://video.nhpbs.org/video/winter-tourism-and-the-economics-of-fun-ymcwum?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"Maui's Deadly Firestorm" - Preview** | FRONTLINE](https://video.nhpbs.org/video/mauis-deadly-firestorm-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**With Peter Bradley Preview** | Local, USA](https://video.nhpbs.org/video/local-usa-with-peter-bradley-preview?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**How South Asian Muslims and Mexican Americans United in the 1920s** | American Muslims: A History Revealed](https://video.nhpbs.org/video/how-south-asian-muslims-and-mexican-americans-united-in-the-1920s-3jtzkl?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Whitney Wrap I Manshi Shah** | The Whitney Reynolds Show](https://video.nhpbs.org/video/whitney-wrap-i-manshi-shah-ypcol9?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Longtime court sketch artist Bill Hennessy Jr. dies** | PBS News Hour](https://video.nhpbs.org/video/longtime-court-sketch-artist-bill-hennessy-jr-dies-1734018175?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Maria** | Flicks](https://video.nhpbs.org/video/maria-adnlpg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Yule Log** | All Creatures Great and Small](https://video.nhpbs.org/video/yule-log-jngrys?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
