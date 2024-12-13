@@ -88,6 +88,7 @@ Log into Online Banking
     * [Small Business Resources](https://www.communityfirstfl.org/business-banking/small-business-resources)
     * [Treasury Management Services](https://www.communityfirstfl.org/business-banking/treasury-management-services)
     * [Business Account Opening Requirements](https://www.communityfirstfl.org/business-banking/business-account-opening-requirements)
+    * [Beneficial Ownership Information](https://www.communityfirstfl.org/business-banking/beneficial-ownership-information)
     * [Business Online Banking](https://www.communityfirstfl.org/business-banking/business-online-banking)
 * [Connect](#)
     * Back
