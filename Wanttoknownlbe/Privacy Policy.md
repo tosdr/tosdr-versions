@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/worden-11-000-ongevaccineerde-vs-soldaten-ontslagen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/navos-financieen-verdwenen-miljarden/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
