@@ -278,10 +278,10 @@ If you disagree with any changes to this privacy policy, you will need to stop u
 
 #### Latest blog articles
 
+* 13.12.2024[Malware Removal for Small Business Websites: A Complete Guide](https://www.eurodns.com/blog/remove-malware-from-website)
 * 05.12.2024[How does a Web Application Firewall (WAF) protect your website?](https://www.eurodns.com/blog/how-web-application-firewall-works)
 * 28.11.2024[DNSSEC Basics: Secure Your Business Domain](https://www.eurodns.com/blog/dnssec-guide-secure-domain)
 * 20.11.2024[Istanbul Insights: Key Outcomes from ICANN 81](https://www.eurodns.com/blog/icann-81-istanbul-insights)
-* 15.11.2024[How to Resolve Common Domain Transfer Problems](https://www.eurodns.com/blog/resolve-common-domain-transfer-problems)
 
 #### Domain Name Discounts
 
