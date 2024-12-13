@@ -18,11 +18,11 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Gladiator II Prop Auction** Take a piece of history home!
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy a ticket to Mufasa: The Lion King** Chance to win a vacation!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Moana 2 Ticket to Adventure - Only $29.99!** Get the Disney pin set & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rise to victory with The Champion's Collection** Get an Exclusive Gladiator II Movie Pack
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
-*  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Gladiator II Prop Auction** Take a piece of history home!
 
 Go to next offer
 
@@ -64,29 +64,29 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventurebundle/?cmp=TARS~FANDANGO~Moana2ticket2adventurebundle_Footer)
     
-* [Save 15% off on the Moana 2 vinyl LP image link ![Save 15% off on the Moana 2 vinyl LP](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/5600fa30-acfe-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moana2-vinyl-gwp-292x118.png)](https://www.fandangomovietickets.com/Moana2VinylGWPOffer?cmp=TARS~FANDANGO~Moana2VinylTicketingOffer_Footer) 
+* [Save on select movies image link ![Save on select movies](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ca0ae630-acfd-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-sonicthehedgehog3-gwp-292x118.png)](https://www.watchfandangoathome.com/Sonic3?cmp=TARS~FANDANGO~RewardsSonic3Promo_Footer) 
     
-    ### Save 15% off on the Moana 2 vinyl LP
+    ### Save on select movies
     
-    Buy a Ticket, Save 15% off on the Moana 2 vinyl LP
+    And get up to $5.00 towards a movie ticket\* to see Sonic the Hedgehog 3 in theaters
     
-    [BUY TICKETS](https://www.fandangomovietickets.com/Moana2VinylGWPOffer?cmp=TARS~FANDANGO~Moana2VinylTicketingOffer_Footer)
+    [LEARN MORE](https://www.watchfandangoathome.com/Sonic3?cmp=TARS~FANDANGO~RewardsSonic3Promo_Footer)
     
-* [Discover the new Fandango FanStore image link ![Discover the new Fandango FanStore](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/aef25cc0-a933-11ef-8321-2b978811c524--fan-globalofferunit-homepage-fanstorelaunch-292x118-v2.png)](https://www.fandangofanstore.com/?cmp=TARS~FANDANGO~_Footer) 
+* [Jingle All The Way To The Theater image link ![Jingle All The Way To The Theater](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/5140f690-acfd-11ef-a07e-5b03d6159fe4--fan-globalofferunit-holidayexhibitoroffers-holidays-292x118.png)](https://www.fandangomovietickets.com/holiday_theater_deals/?cmp=TARS~FANDANGO~holiday_exhibitor_offers_Footer) 
     
-    ### Discover the new Fandango FanStore
+    ### Jingle All The Way To The Theater
     
-    Need a gift for the holidays? Shop Wicked, Gladiator II, Despicable Me, & More!
+    Enjoy holiday classics and limited-time specials at a theater near you! Grab your tickets today.
     
-    [SHOP NOW](https://www.fandangofanstore.com/?cmp=TARS~FANDANGO~_Footer)
+    [LEARN MORE](https://www.fandangomovietickets.com/holiday_theater_deals/?cmp=TARS~FANDANGO~holiday_exhibitor_offers_Footer)
     
-* [Gladiator II Prop Auction image link ![Gladiator II Prop Auction](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/9f6f3b60-9899-11ef-8321-2b978811c524--fan-globalofferunit-homepage-gladiator2auction-292x118-v5.png)](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer) 
+* [Chance to win a vacation! image link ![Chance to win a vacation!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dc250740-a39a-11ef-a588-3b078e6b3d8a--fan-homepageofferunit-292x118.png)](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer) 
     
-    ### Gladiator II Prop Auction
+    ### Chance to win a vacation!
     
-    Take a piece of history home with official props straight from the movie set!
+    Buy a ticket to Mufasa: The Lion King for a chance to win a vacation to the Walt Disney World® Resort!
     
-    [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer)
+    [BUY TICKETS](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer)
     
 
 New & Coming soon
@@ -190,6 +190,16 @@ New & Coming soon
 
 Close
 
+![Gladiator II Prop Auction](https://images.fandango.com/cms/assets/6d178c20-989a-11ef-a07e-5b03d6159fe4--fan-globalnavbar-gladiator2auction-343x362-v5.jpg)
+
+#### Take a piece of history home with our Gladiator II Prop Auction. Check out the Auction for official props straight from the movie set!
+
+See https://www.fandango.com/fanstoreauction-gladiator2 for full terms and details. [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_promomodule)
+
+### Special Offer
+
+Close
+
 ![Buy a ticket to Mufasa: The Lion King](http://images.fandango.com/cms/assets/6c40a650-b434-11ef-a07e-5b03d6159fe4--fan-globalnavbar-mufasa-343x362.png)
 
 #### Buy a ticket to Mufasa: The Lion King for a chance to win a vacation to the Walt Disney World® Resort!
@@ -225,13 +235,3 @@ Close
 #### Get 2 movie tickets to Wicked, a limited edition poster, and more!
 
 \*Wicked Popular Poster Pack bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a bundle. You must have, and be logged into, a Fandango at Home account to buy your bundle and receive Wicked (pre-order so that you can view it when the studio makes it available) on Fandango at Home. The limited edition Wicked poster will begin shipping in the month of November. Please use a physical address where the limited edition Wicked poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See https://fandan.co/PopularPosterPack for full terms and conditions. [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_promomodule)
-
-### Special Offer
-
-Close
-
-![Gladiator II Prop Auction](https://images.fandango.com/cms/assets/6d178c20-989a-11ef-a07e-5b03d6159fe4--fan-globalnavbar-gladiator2auction-343x362-v5.jpg)
-
-#### Take a piece of history home with our Gladiator II Prop Auction. Check out the Auction for official props straight from the movie set!
-
-See https://www.fandango.com/fanstoreauction-gladiator2 for full terms and details. [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_promomodule)
