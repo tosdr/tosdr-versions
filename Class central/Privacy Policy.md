@@ -412,11 +412,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. digital marketing
+1. English
     
-2. java
+2. c
     
-3. sql
+3. finance
     
 
 Popular subjects
@@ -424,24 +424,24 @@ Popular subjects
 1. [Management & Leadership
     
     2,761 courses](https://www.classcentral.com/subject/management-and-leadership)
-2. [Information Technology
+2. [Web Development
+    
+    13,913 courses](https://www.classcentral.com/subject/web-development)
+3. [Information Technology
     
     5,148 courses](https://www.classcentral.com/subject/information-technology)
-3. [Digital Marketing
-    
-    6,342 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 
-1. [Exploring English: Language and Culture
+1. [Psychological First Aid
     
-    British Council](https://www.classcentral.com/course/explore-english-language-culture-2135)
-2. [EU policy and implementation: making Europe work!
+    Johns Hopkins University](https://www.classcentral.com/course/psychfirstaid-2900)
+2. [Financial Markets
     
-    Leiden University](https://www.classcentral.com/course/eu-making-europe-work-7408)
-3. [Learning How to Learn: Powerful mental tools to help you master tough subjects
+    Yale University](https://www.classcentral.com/course/financialmarkets-912)
+3. [Marketing Innovative Products and Services
     
-    Deep Teaching Solutions](https://www.classcentral.com/course/learning-how-to-learn-2161)
+    University System of Maryland](https://www.classcentral.com/course/marketing-the-university-of-maryland-college-park-19176)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
