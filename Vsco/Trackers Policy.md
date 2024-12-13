@@ -1,3 +1,9 @@
+![](https://cdn.prod.website-files.com/64e27cdd42db7ecf119d5e61/6504e5fd9105c61f4ddb94d2_vscologo.svg)
+
+📸 Hi there! To improve your experience, we use cookies, scripts, and similar tools on our site. These tools help us collect and share information with our partners to better understand how you use our services and provide you more relevant content, including targeted ads. By using our site, you agree to our [Terms of Use](https://vsco.co/about/terms-of-use) and [Privacy Policy](https://vsco.co/about/privacy-policy).
+
+[Your Privacy Choices](#)[Close](#)
+
 ![VSCO - Visual Supply Company](https://cdn.prod.website-files.com/64e27cdd42db7ecf119d5e61/6504ea1d246b11c3f5a7581c_vscologo.svg)
 
 VSCO: Photo & Video Editor
