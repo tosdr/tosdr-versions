@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Pretty Little PoisonWarren Zeiders<br><br>4:39pm |
-| Famous FriendsChris Young And Kane Brown<br><br>4:35pm |
-| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>4:32pm |
-| Love SomebodyMorgan Wallen<br><br>4:28pm |
-| Rockin Around The ChristmasBrenda Lee<br><br>4:26pm |
+| LiarJelly Roll<br><br>10:40pm |
+| Heart Like A TruckLainey Wilson<br><br>10:36pm |
+| Ain'T No Love In OklahomaLuke Combs<br><br>10:33pm |
+| Truck BedHardy<br><br>10:21pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>10:18pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,6 +360,14 @@ State
 Featured Brands
 ---------------
 
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
+
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
@@ -367,14 +375,6 @@ News Talk • Eastern
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
