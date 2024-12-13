@@ -147,6 +147,22 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Poteau Daily News – Bias and Credibility](https://mediabiasfactcheck.com/poteau-daily-news-bias/)
+    
+    December 13, 2024
+    
+* [Clarissa Ward Bias Rating](https://mediabiasfactcheck.com/clarissa-ward-bias-rating/)
+    
+    December 13, 2024
+    
+* [Philly Leader – Bias and Credibility](https://mediabiasfactcheck.com/philly-leader-bias/)
+    
+    December 13, 2024
+    
+* [Athens County Independent – Bias and Credibility](https://mediabiasfactcheck.com/athens-county-independent-bias-and-credibility/)
+    
+    December 13, 2024
+    
 * [Liz Wheeler Bias Rating](https://mediabiasfactcheck.com/liz-wheeler-bias-rating/)
     
     December 12, 2024
@@ -163,44 +179,28 @@ No related posts.
     
     December 12, 2024
     
-* [Wrexham Leader – Bias and Credibility](https://mediabiasfactcheck.com/wrexham-leader-bias/)
-    
-    December 12, 2024
-    
-* [Michigan News Source – Bias and Credibility](https://mediabiasfactcheck.com/michigan-news-source-bias-and-credibility/)
-    
-    December 11, 2024
-    
-* [Kommersant – Bias and Credibility](https://mediabiasfactcheck.com/kommersant-bias-and-credibility/)
-    
-    December 11, 2024
-    
-* [JustRedPillMe – Bias and Credibility](https://mediabiasfactcheck.com/justredpillme-bias-and-credibility/)
-    
-    December 11, 2024
-    
 
 #### Recently Updated Pages
 
-* [Joe Scarborbough Bias Rating](https://mediabiasfactcheck.com/joe-scarborbough-bias-rating/ "View Joe Scarborbough Bias Rating") - December 13, 2024
+* [Cenk Uygur Bias Rating](https://mediabiasfactcheck.com/cenk-uygur-bias-rating/ "View Cenk Uygur Bias Rating") - December 13, 2024
+    
+* [Buck Sexton Bias Rating](https://mediabiasfactcheck.com/buck-sexton-bias-rating/ "View Buck Sexton Bias Rating") - December 13, 2024
+    
+* [Bret Baier Bias Rating](https://mediabiasfactcheck.com/bret-baier-bias-rating/ "View Bret Baier Bias Rating") - December 13, 2024
     
 * [Bill O’Reilly Bias Rating](https://mediabiasfactcheck.com/bill-oreilly-bias-rating/ "View Bill O’Reilly Bias Rating") - December 13, 2024
     
-* [Jeanine Pirro Bias Rating](https://mediabiasfactcheck.com/jeanine-pirro-bias-rating/ "View Jeanine Pirro Bias Rating") - December 13, 2024
+* [Bill Hemmer Bias Rating](https://mediabiasfactcheck.com/bill-hemmer-bias-rating/ "View Bill Hemmer Bias Rating") - December 13, 2024
     
-* [David Muir Bias Rating](https://mediabiasfactcheck.com/david-muir-bias-rating/ "View David Muir Bias Rating") - December 13, 2024
+* [Benny Johnson Bias Rating](https://mediabiasfactcheck.com/benny-johnson-bias-rating/ "View Benny Johnson Bias Rating") - December 13, 2024
     
-* [Piers Morgan Bias Rating](https://mediabiasfactcheck.com/piers-morgan-bias-rating/ "View Piers Morgan Bias Rating") - December 13, 2024
+* [Ben Shapiro Bias Rating](https://mediabiasfactcheck.com/ben-shapiro-bias-rating/ "View Ben Shapiro Bias Rating") - December 13, 2024
     
-* [Martha MacCallum Bias Rating](https://mediabiasfactcheck.com/martha-maccallum-bias-rating/ "View Martha MacCallum Bias Rating") - December 13, 2024
+* [Andrea Mitchell Bias Rating](https://mediabiasfactcheck.com/andrea-mitchell-bias-rating/ "View Andrea Mitchell Bias Rating") - December 13, 2024
     
-* [Mark Levin Bias Rating](https://mediabiasfactcheck.com/mark-levin-bias-rating/ "View Mark Levin Bias Rating") - December 13, 2024
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 13, 2024
     
-* [Don Lemon Bias Rating](https://mediabiasfactcheck.com/don-lemon-bias-rating/ "View Don Lemon Bias Rating") - December 13, 2024
-    
-* [Tomi Lahren Bias Rating](https://mediabiasfactcheck.com/tomi-lahren-bias-rating/ "View Tomi Lahren Bias Rating") - December 13, 2024
-    
-* [Larry Kudlow Bias Rating](https://mediabiasfactcheck.com/larry-kudlow-bias-rating/ "View Larry Kudlow Bias Rating") - December 13, 2024
+* [Poteau Daily News – Bias and Credibility](https://mediabiasfactcheck.com/poteau-daily-news-bias/ "View Poteau Daily News – Bias and Credibility") - December 13, 2024
     
 
 #### Today’s Top Page Views
@@ -211,10 +211,10 @@ No related posts.
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [Methodology](https://mediabiasfactcheck.com/methodology/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
-* [MBFC's Daily Vetted Fact Checks for 12/12/2024](https://mediabiasfactcheck.com/2024/12/12/mbfcs-daily-vetted-fact-checks-for-12-12-2024/)
+* [Methodology](https://mediabiasfactcheck.com/methodology/)
+* [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
 
 #### Subscribe via Email
 
