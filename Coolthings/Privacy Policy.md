@@ -120,6 +120,11 @@
     
     [See All](https://www.coolthings.com/vehicles/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/aston-martin-valhalla-supercar-plug-in-hybrid-1064-horsepower/)
+    
+    [Aston Martin Valhalla Packs Outrageous Power in a Sporty, Road-Ready Hybrid](https://www.coolthings.com/aston-martin-valhalla-supercar-plug-in-hybrid-1064-horsepower/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/droyd-fury-youth-atv-ride-on-rugged-quad-bike-for-kids/)
     
     [Droyd Fury Youth ATV Gives Kids a Rugged Quad Bike for Tackling Dirt, Grass, and Gravel](https://www.coolthings.com/droyd-fury-youth-atv-ride-on-rugged-quad-bike-for-kids/)
@@ -129,11 +134,6 @@
     
     [Segway Ninebot ZT3 Pro Takes the Outfit’s Electric Scooters to the Off-Road](https://www.coolthings.com/segway-ninebot-zt3-pro-electric-scooter-offroad/)
     ----------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/2025-can-am-canyon-adventure-touring-trike-off-road-vehicle/)
-    
-    [2025 Can-Am Canyon Brings the Outfit’s Three-Wheel Moto Design to the Rugged Off-Road](https://www.coolthings.com/2025-can-am-canyon-adventure-touring-trike-off-road-vehicle/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [CLAD](https://www.clad.com/ "Men’s Style and Gear Magazine")
 
