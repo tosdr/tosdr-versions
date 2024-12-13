@@ -1,4 +1,4 @@
-         
+                  
 
 [Skip to main content](#main-content)
 
@@ -53,9 +53,7 @@ Free Shipping Over $55 - Free Gift over $70
         * [WUSH Tips](https://blackwolfnation.com/products/wush-reusable-tips)
         * [Device Hook](https://blackwolfnation.com/products/sonic-scrubber-wall-holder-hook)
         * [Body Scrubber](https://blackwolfnation.com/products/body-scrubber)
-    * [![](//blackwolfnation.com/cdn/shop/files/1_413be24c-0f99-467a-84a0-1b0fea8da99d.png?v=1730137606&width=1350)](https://blackwolfnation.com/products/hydrating-body-wash)
-        
-        [![](//blackwolfnation.com/cdn/shop/files/3_effb3185-a123-4fdd-8814-863ffa9e5a4e.png?v=1730137606&width=1350)](https://blackwolfnation.com/collections/hair)
+    * [![](//blackwolfnation.com/cdn/shop/files/3_effb3185-a123-4fdd-8814-863ffa9e5a4e.png?v=1730137606&width=1350)](https://blackwolfnation.com/collections/hair)
         
         [![](//blackwolfnation.com/cdn/shop/files/2_e05ecfa4-877f-4ce1-9667-6c551a073dd5.png?v=1730137606&width=1350)](https://blackwolfnation.com/products/wush)
         
@@ -71,8 +69,6 @@ Free Shipping Over $55 - Free Gift over $70
 [![](//blackwolfnation.com/cdn/shop/files/BW_logo_w_2x_160x_2x_c6e857dd-2de1-4ae1-8cb7-49eea1094eb0.webp?v=1681132838&width=334)](https://blackwolfnation.com/ "Black Wolf")
 
 * [Shop By Product](https://blackwolfnation.com/collections/shop-all)
-    
-    [![](//blackwolfnation.com/cdn/shop/files/1_413be24c-0f99-467a-84a0-1b0fea8da99d.png?v=1730137606&width=1350)](https://blackwolfnation.com/products/hydrating-body-wash)
     
     [![](//blackwolfnation.com/cdn/shop/files/3_effb3185-a123-4fdd-8814-863ffa9e5a4e.png?v=1730137606&width=1350)](https://blackwolfnation.com/collections/hair)
     
