@@ -38,7 +38,7 @@ More
 
 My Account Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[BAN vs WI - WI Won](https://www.cricbuzz.com/live-cricket-scores/95227/ban-vs-wi-3rd-odi-bangladesh-tour-of-west-indies-2024 "Bangladesh v West Indies, 3rd ODI - WI Won")[BRD vs MUM - Preview](https://www.cricbuzz.com/live-cricket-scores/99102/brd-vs-mum-semi-final-1-syed-mushtaq-ali-trophy-2024 "Baroda v Mumbai, Semi Final 1 - Preview")[ZIM vs AFG - Preview](https://www.cricbuzz.com/live-cricket-scores/109327/zim-vs-afg-2nd-t20i-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 2nd T20I - Preview")[DEL vs MP - Preview](https://www.cricbuzz.com/live-cricket-scores/99104/del-vs-mp-semi-final-2-syed-mushtaq-ali-trophy-2024 "Delhi v Madhya Pradesh, Semi Final 2 - Preview")[JFT vs CLJR - JFT Won](https://www.cricbuzz.com/live-cricket-scores/110185/jft-vs-cljr-6th-match-lanka-t10-super-league-2024 "Jaffna Titans v Colombo Jaguars, 6th Match - JFT Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[BAN vs WI - WI Won](https://www.cricbuzz.com/live-cricket-scores/95227/ban-vs-wi-3rd-odi-bangladesh-tour-of-west-indies-2024 "Bangladesh v West Indies, 3rd ODI - WI Won")[BRD vs MUM - Live](https://www.cricbuzz.com/live-cricket-scores/99102/brd-vs-mum-semi-final-1-syed-mushtaq-ali-trophy-2024 "Baroda v Mumbai, Semi Final 1 - Live")[DEL vs MP - Preview](https://www.cricbuzz.com/live-cricket-scores/99104/del-vs-mp-semi-final-2-syed-mushtaq-ali-trophy-2024 "Delhi v Madhya Pradesh, Semi Final 2 - Preview")[ZIM vs AFG - Preview](https://www.cricbuzz.com/live-cricket-scores/109327/zim-vs-afg-2nd-t20i-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 2nd T20I - Preview")[RSA vs PAK - Preview](https://www.cricbuzz.com/live-cricket-scores/94334/rsa-vs-pak-2nd-t20i-pakistan-tour-of-south-africa-2024-25 "South Africa v Pakistan, 2nd T20I - Preview")
 
 AllLive NowToday
 
@@ -52,7 +52,7 @@ AllLive NowToday
     
 * New Zealand v England, 2024
     
-    [New Zealand vs England](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-new-zealand-v-england-2024 "New Zealand v England, 3rd Test - Upcoming")
+    [New Zealand vs England](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-new-zealand-v-england-2024 "New Zealand v England, 3rd Test - Preview")
     
     3rd Test
     
@@ -72,7 +72,7 @@ AllLive NowToday
     
 * Gulf Cricket T20I Championship
     
-    [Bahrain vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/112233/bhr-vs-uae-1st-match-gulf-cricket-t20i-championship "Bahrain v United Arab Emirates, 1st Match - Preview")
+    [Bahrain vs United Arab Emirates  LIVE](https://www.cricbuzz.com/live-cricket-scores/112233/bhr-vs-uae-1st-match-gulf-cricket-t20i-championship "Bahrain v United Arab Emirates, 1st Match - Live")
     
     1st Match
     
@@ -88,23 +88,27 @@ AllLive NowToday
     
     4th Match
     
+* [United Arab Emirates vs Oman](https://www.cricbuzz.com/live-cricket-scores/112257/uae-vs-oman-5th-match-gulf-cricket-t20i-championship "United Arab Emirates v Oman, 5th Match - Upcoming")
+    
+    5th Match
+    
 * ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024
     
-    [Bahamas vs Panama](https://www.cricbuzz.com/live-cricket-scores/111417/bhm-vs-pan-match-18-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Panama, Match 18 - BHM Won")
-    
-    Match 18
-    
-* [Mexico vs Cayman Islands](https://www.cricbuzz.com/live-cricket-scores/111413/mex-vs-caym-match-17-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Mexico v Cayman Islands, Match 17 - CAYM Won")
+    [Mexico vs Cayman Islands](https://www.cricbuzz.com/live-cricket-scores/111413/mex-vs-caym-match-17-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Mexico v Cayman Islands, Match 17 - CAYM Won")
     
     Match 17
     
-* [Bermuda vs Brazil](https://www.cricbuzz.com/live-cricket-scores/111425/ber-vs-brazil-match-19-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Brazil, Match 19 - BER Won")
+* [Bahamas vs Panama](https://www.cricbuzz.com/live-cricket-scores/111417/bhm-vs-pan-match-18-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Panama, Match 18 - BHM Won")
     
-    Match 19
+    Match 18
     
 * [Suriname vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111429/sn-vs-arg-match-20-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Suriname v Argentina, Match 20 - ARG Won")
     
     Match 20
+    
+* [Bermuda vs Brazil](https://www.cricbuzz.com/live-cricket-scores/111425/ber-vs-brazil-match-19-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Brazil, Match 19 - BER Won")
+    
+    Match 19
     
 * [Suriname vs Mexico](https://www.cricbuzz.com/live-cricket-scores/111441/sn-vs-mex-match-22-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Suriname v Mexico, Match 22 - MEX Won")
     
@@ -114,29 +118,29 @@ AllLive NowToday
     
     Match 21
     
-* [Bermuda vs Belize](https://www.cricbuzz.com/live-cricket-scores/111449/ber-vs-blz-match-24-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Belize, Match 24 - Toss")
+* [Bermuda vs Belize](https://www.cricbuzz.com/live-cricket-scores/111449/ber-vs-blz-match-24-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Belize, Match 24 - Complete")
     
     Match 24
     
-* [Cayman Islands vs Bahamas](https://www.cricbuzz.com/live-cricket-scores/111445/caym-vs-bhm-match-23-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Cayman Islands v Bahamas, Match 23 - Toss")
+* [Bahamas vs Cayman Islands](https://www.cricbuzz.com/live-cricket-scores/111445/bhm-vs-caym-match-23-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Cayman Islands, Match 23 - Complete")
     
     Match 23
-    
-* [Suriname vs Bahamas](https://www.cricbuzz.com/live-cricket-scores/111461/sn-vs-bhm-match-26-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Suriname v Bahamas, Match 26 - Upcoming")
-    
-    Match 26
     
 * [Brazil vs Cayman Islands](https://www.cricbuzz.com/live-cricket-scores/111453/brazil-vs-caym-match-25-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Brazil v Cayman Islands, Match 25 - Upcoming")
     
     Match 25
     
-* [Panama vs Belize](https://www.cricbuzz.com/live-cricket-scores/111469/pan-vs-blz-match-27-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Belize, Match 27 - Upcoming")
+* [Suriname vs Bahamas](https://www.cricbuzz.com/live-cricket-scores/111461/sn-vs-bhm-match-26-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Suriname v Bahamas, Match 26 - Upcoming")
     
-    Match 27
+    Match 26
     
 * [Mexico vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111477/mex-vs-arg-match-28-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Mexico v Argentina, Match 28 - Upcoming")
     
     Match 28
+    
+* [Panama vs Belize](https://www.cricbuzz.com/live-cricket-scores/111469/pan-vs-blz-match-27-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Belize, Match 27 - Upcoming")
+    
+    Match 27
     
 * Africa Continental Cup
     
@@ -240,11 +244,7 @@ AllLive NowToday
     
     SMA Trophy 2024
     
-    [Saurashtra vs Madhya Pradesh](https://www.cricbuzz.com/live-cricket-scores/99088/saur-vs-mp-quarter-final-3-sma-trophy-2024 "Saurashtra v Madhya Pradesh, Quarter Final 3 - MP Won")
-    
-    Quarter Final 3
-    
-* [Baroda vs Bengal](https://www.cricbuzz.com/live-cricket-scores/99070/brd-vs-ben-quarter-final-1-sma-trophy-2024 "Baroda v Bengal, Quarter Final 1 - BRD Won")
+    [Baroda vs Bengal](https://www.cricbuzz.com/live-cricket-scores/99070/brd-vs-ben-quarter-final-1-sma-trophy-2024 "Baroda v Bengal, Quarter Final 1 - BRD Won")
     
     Quarter Final 1
     
@@ -256,7 +256,7 @@ AllLive NowToday
     
     Quarter Final 2
     
-* [Baroda vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/99102/brd-vs-mum-semi-final-1-sma-trophy-2024 "Baroda v Mumbai, Semi Final 1 - Preview")
+* [Baroda vs Mumbai  LIVE](https://www.cricbuzz.com/live-cricket-scores/99102/brd-vs-mum-semi-final-1-sma-trophy-2024 "Baroda v Mumbai, Semi Final 1 - Live")
     
     Semi Final 1
     
@@ -284,11 +284,7 @@ AllLive NowToday
     
 * Namibia Women tour of Malaysia
     
-    [Namibia Women vs Malaysia Women](https://www.cricbuzz.com/live-cricket-scores/112221/namw-vs-mlyw-2nd-t20i-namibia-women-tour-of-malaysia "Namibia Women v Malaysia Women, 2nd T20I - NAMW Won")
-    
-    2nd T20I
-    
-* [Malaysia Women vs Namibia Women](https://www.cricbuzz.com/live-cricket-scores/112225/mlyw-vs-namw-3rd-t20i-namibia-women-tour-of-malaysia "Malaysia Women v Namibia Women, 3rd T20I - NAMW Won")
+    [Malaysia Women vs Namibia Women](https://www.cricbuzz.com/live-cricket-scores/112225/mlyw-vs-namw-3rd-t20i-namibia-women-tour-of-malaysia "Malaysia Women v Namibia Women, 3rd T20I - NAMW Won")
     
     3rd T20I
     
@@ -605,41 +601,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132736/debutant-jangoo-kaecy-carty-power-west-indies-clean-sweep "Debutant Jangoo, Kaecy Carty power West Indies' clean sweep")
+
+[Debutant Jangoo, Kaecy Carty power West Indies' clean sweep](https://www.cricbuzz.com/cricket-news/132736/debutant-jangoo-kaecy-carty-power-west-indies-clean-sweep "Debutant Jangoo, Kaecy Carty power West Indies' clean sweep")
+
+4h ago
+
   [](https://www.cricbuzz.com/cricket-news/132735/david-moore-unlikely-to-renew-contract-with-bcb "David Moore unlikely to renew contract with BCB ")
 
 [David Moore unlikely to renew contract with BCB](https://www.cricbuzz.com/cricket-news/132735/david-moore-unlikely-to-renew-contract-with-bcb "David Moore unlikely to renew contract with BCB ")
 
-9h ago
+15h ago
 
   [](https://www.cricbuzz.com/cricket-news/132734/gillespie-refuses-to-join-pakistan-squad-for-south-africa-tests "Gillespie resigns as head coach of Pakistan Test team")
 
 [Gillespie resigns as head coach of Pakistan Test team](https://www.cricbuzz.com/cricket-news/132734/gillespie-refuses-to-join-pakistan-squad-for-south-africa-tests "Gillespie resigns as head coach of Pakistan Test team")
 
-11h ago
+17h ago
 
   [](https://www.cricbuzz.com/cricket-news/132733/bcb-launch-womens-first-class-tournament-with-an-eye-on-test-cricket "BCB launch women's first-class tournament with an eye on Test cricket")
 
 [BCB launch women's first-class tournament with an eye on Test cricket](https://www.cricbuzz.com/cricket-news/132733/bcb-launch-womens-first-class-tournament-with-an-eye-on-test-cricket "BCB launch women's first-class tournament with an eye on Test cricket")
 
-13h ago
+19h ago
 
   [](https://www.cricbuzz.com/cricket-news/132732/kagiso-rabada-returns-for-pakistan-odis-anrich-nortje-ruled-out-south-africa-squad "Rabada returns for Pakistan ODIs; Nortje ruled out")
 
 [Rabada returns for Pakistan ODIs; Nortje ruled out](https://www.cricbuzz.com/cricket-news/132732/kagiso-rabada-returns-for-pakistan-odis-anrich-nortje-ruled-out-south-africa-squad "Rabada returns for Pakistan ODIs; Nortje ruled out")
 
-14h ago
+20h ago
 
   [](https://www.cricbuzz.com/cricket-news/132731/anrich-nortje-out-of-remaining-pakistan-t20is-odis "Anrich Nortje out of remaining Pakistan T20Is, ODIs")
 
 [Anrich Nortje out of remaining Pakistan T20Is, ODIs](https://www.cricbuzz.com/cricket-news/132731/anrich-nortje-out-of-remaining-pakistan-t20is-odis "Anrich Nortje out of remaining Pakistan T20Is, ODIs")
 
-15h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132730/the-mastery-of-length-ft-jasprit-bumrah "The mastery of length ft. Jasprit Bumrah")
-
-[The mastery of length ft. Jasprit Bumrah](https://www.cricbuzz.com/cricket-news/132730/the-mastery-of-length-ft-jasprit-bumrah "The mastery of length ft. Jasprit Bumrah")
-
-15h ago
+21h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
