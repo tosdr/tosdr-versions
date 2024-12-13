@@ -197,6 +197,15 @@ Diet Restrictions Dairy-free Egg-free Gluten-free Low Carb Low Sodium Nightshade
 
 RESET [Search](https://www.furtherfood.com/search?type=article)
 
+[![Image of protein powder bag with puppy chow](//www.furtherfood.com/cdn/shop/articles/20241213143016-photo-20nov-2022-202024-2c-202-2014-2031-20pm-20-1_1200x900.jpg?v=1734100807)
+
+![Image of protein powder bag with puppy chow](//www.furtherfood.com/cdn/shop/articles/20241213143016-photo-20nov-2022-202024-2c-202-2014-2031-20pm-20-1_1200x900.jpg?v=1734100807)](https://www.furtherfood.com/blogs/recipes/protein-holiday-puppy-chow)
+
+[Protein Holiday Puppy Chow](https://www.furtherfood.com/blogs/recipes/protein-holiday-puppy-chow)
+--------------------------------------------------------------------------------------------------
+
+Looking for a festive twist on a classic treat? ThisProtein Holiday Puppy Chow is a mus...
+
 [![Image of white chocolate bark](//www.furtherfood.com/cdn/shop/articles/20241203162700-img_2489_1200x900.jpg?v=1733243976)
 
 ![Image of white chocolate bark](//www.furtherfood.com/cdn/shop/articles/20241203162700-img_2489_1200x900.jpg?v=1733243976)](https://www.furtherfood.com/blogs/recipes/matcha-white-chocolate-bark)
@@ -242,22 +251,13 @@ Looking for a fun, festive treat that's both delicious and nutritious? These Pea
 
 This quick and easy Pumpkin Spice Latte is the perfect cozy drink to satisfy your fall cravings. Made with a shot of espresso and a scoop of Further Food Pumpkin Spice Collagen, it delivers a flavorful boost of protein and seasonal spices.
 
-[![Hazelnut Collagen jar plus ice cubes](//www.furtherfood.com/cdn/shop/articles/20240923133000-img_0492_1200x900.jpg?v=1727098208)
-
-![Hazelnut Collagen jar plus ice cubes](//www.furtherfood.com/cdn/shop/articles/20240923133000-img_0492_1200x900.jpg?v=1727098208)](https://www.furtherfood.com/blogs/recipes/hazelnut-cold-brew-ice-cubes)
-
-[Hazelnut Cold Brew Ice Cubes](https://www.furtherfood.com/blogs/recipes/hazelnut-cold-brew-ice-cubes)
-------------------------------------------------------------------------------------------------------
-
-These Hazelnut Cold Brew Ice Cubes are the perfect way to elevate your morning routine....
-
 * 1
 * [2](https://www.furtherfood.com/blogs/recipes?page=2)
 * [3](https://www.furtherfood.com/blogs/recipes?page=3)
 * …
-* [45](https://www.furtherfood.com/blogs/recipes?page=45)
+* [46](https://www.furtherfood.com/blogs/recipes?page=46)
 
-1 / 45
+1 / 46
 
 [Next](https://www.furtherfood.com/blogs/recipes?page=2)
 
