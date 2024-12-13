@@ -205,28 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [A Boring Day at the Airport](https://www.somethingawful.com/photoshop-phriday/boring-day-at/1/)
-* [Let's Play CARTOONS #2](https://www.somethingawful.com/flash-tub/letsplay-cartoons-2/)
-* [Galgameth](https://www.somethingawful.com/movie-reviews/galgameth/1/)
-* [Four Helpful Protesting Tips from a White Person](https://www.somethingawful.com/news/protesting-while-white/)
-* [The Art of Werewolf: The Apocalypse (1990s)](https://www.somethingawful.com/dungeons-and-dragons/werewolf-bad-art/1/)
+* [An Important Message from the Monstergeddon Board of Directors!](https://www.somethingawful.com/news/monstergeddon-abuse-accusations/)
+* [GI Army Funnies: Indiana Petraeus and the Crappers of Cairo](https://www.somethingawful.com/news/egypt-patraeus-afghanistan/1/)
+* [Manga Fighter](https://www.somethingawful.com/mmo-roulette/mangafight/1/)
+* [2013 in Review: It Was a Year Like Any Other](https://www.somethingawful.com/current-movie-reviews/retrospective-2013-review/1/)
+* [Comic SWAT](https://www.somethingawful.com/fashion-swat/comic-swat/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [looking for cobblers plz](http://forums.somethingawful.com/showthread.php?threadid=4077326 "looking for cobblers plz")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Did you name your bongs or fancy glass pipes in college](http://forums.somethingawful.com/showthread.php?threadid=4077360 "Did you name your bongs or fancy glass pipes in college")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [Why are pharmacies so awful?](http://forums.somethingawful.com/showthread.php?threadid=4077387 "Why are pharmacies so awful?")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-xfile.gif) [A war with non human intelligence is brewing. Choose your faction.](http://forums.somethingawful.com/showthread.php?threadid=4077351 "A war with non human intelligence is brewing. Choose your faction.")
-* ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [What do you consider the MVP of tools?](http://forums.somethingawful.com/showthread.php?threadid=4077325 "What do you consider the MVP of tools?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/school.png) [Is homeschooling artisanal child abuse?](http://forums.somethingawful.com/showthread.php?threadid=4077305 "Is homeschooling artisanal child abuse?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Did you name your bongs or fancy glass pipes in college](http://forums.somethingawful.com/showthread.php?threadid=4077360 "Did you name your bongs or fancy glass pipes in college")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/guns.png) [Forums Apocalypse survival plan](http://forums.somethingawful.com/showthread.php?threadid=4077418 "Forums Apocalypse survival plan")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [Why are pharmacies so awful?](http://forums.somethingawful.com/showthread.php?threadid=4077387 "Why are pharmacies so awful?")
+* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [Does anybody actually drink caffeine free soda](http://forums.somethingawful.com/showthread.php?threadid=4077421 "Does anybody actually drink caffeine free soda")
 
 ### Random Articles
 
-* [Complaint: You’re a fucking jackshit stupid asshole](https://www.somethingawful.com/email-pranks/email-complaint-youre/1/)
-* [Jeff K.'s Homepage](https://www.somethingawful.com/awful-links/awful-link-607/)
-* [Jupiter Station](https://www.somethingawful.com/awful-links/awful-link-4303/)
-* [The Arkham Knight PC Port Is Worse Than You Think](https://www.somethingawful.com/video-game-article/batman-knight-port/)
-* [What's Trump Holding?](https://www.somethingawful.com/photoshop-phriday/trump-thumbs-fingers/)
+* [Xenomorphs Aren't That Big of a Threat](https://www.somethingawful.com/comedy-goldmine/easy-movie-victories/)
+* [T-U-R-T-L-E POW-ER](https://www.somethingawful.com/daily-dirt/turtle-power/)
+* [WELCOME TO THE CRICKER's CUZINS](https://www.somethingawful.com/awful-links/awful-link-1130/)
+* [Official Frank R. Paul Gallery](https://www.somethingawful.com/awful-links/frank-paul-cover/)
+* [Christian BDSM](https://www.somethingawful.com/awful-links/christian-bdsm/)
 
 [Random!](https://www.somethingawful.com/random/)
 
