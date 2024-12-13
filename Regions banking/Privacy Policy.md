@@ -339,11 +339,11 @@ Related Insights
     
     Video
     
-* [4 tips for choosing a checking account](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/opening-a-checking-account)
+* [4 Factors to Opening a Checking Account for Teens](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/should-your-teen-have-a-student-checking-account)
     
     Article
     
-* [4 Factors to Opening a Checking Account for Teens](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/should-your-teen-have-a-student-checking-account)
+* [5 checking account mistakes to avoid](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/checking-account-mistakes)
     
     Article
     
