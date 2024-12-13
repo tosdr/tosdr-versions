@@ -29,37 +29,35 @@ SIGN UP & SAVE!
 
 * [Teams](#top-nav0)
     
-    [NFL](https://www.fanatics.com/nfl/o-3572+z-953036859-1253393850)[College](https://www.fanatics.com/college/o-27+z-9314487535-1329600116)[MLB](https://www.fanatics.com/mlb/o-8987+z-80725673-162114610)
+    [nfl](https://www.fanatics.com/nfl/o-3572+z-953036859-1253393850)[college](https://www.fanatics.com/college/o-27+z-9314487535-1329600116)[mlb](https://www.fanatics.com/mlb/o-8987+z-80725673-162114610)
     
-    [NBA](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)[NHL](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)[Soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
+    [nba](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)[nhl](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)[soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
     
-    [WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)[WNBA](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)
+    [wwe](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)[wnba](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)
     
-    [NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)[Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
+    [nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
     
-* [NFL](https://www.fanatics.com/nfl/o-3572+z-953036859-1253393850)
-* [College](https://www.fanatics.com/college/o-27+z-9314487535-1329600116)
-* [MLB](https://www.fanatics.com/mlb/o-8987+z-80725673-162114610)
+* [nfl](https://www.fanatics.com/nfl/o-3572+z-953036859-1253393850)
+* [college](https://www.fanatics.com/college/o-27+z-9314487535-1329600116)
+* [mlb](https://www.fanatics.com/mlb/o-8987+z-80725673-162114610)
 * [Teams](#top-nav4)
     
-    [NBA](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)[NHL](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
+    [nba](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)[nhl](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
     
-    [Soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)[WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
+    [soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)[wwe](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
     
-    [WNBA](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)[NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
+    [wnba](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)[nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
     
-    [Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
-    
-* [NBA](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)
-* [NHL](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
-* [Soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
-* [WWE](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
-* [WNBA](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)
-* [NASCAR](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
-* [Collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
-* [More](#top-nav12)
-* [Sale](#top-nav13)
-* [Players](#top-nav14)
+* [nba](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)
+* [nhl](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
+* [soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
+* [wwe](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
+* [wnba](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)
+* [nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
+* [collectibles](#top-nav11)
+* [more](#top-nav12)
+* [sale](#top-nav13)
+* [players](#top-nav14)
 * [](#top-nav15)
     
 
@@ -409,23 +407,25 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: 0b86616873c21222
+rc: 0fe6dfd05bb1264f
 
-vid: c63b03d0-b8c1-11ef-87bc-b36b9e8ce4fb
+vid: 5527a540-b8f3-11ef-9b38-21fd5e52bf79
 
-version: 1.1.0-rc-20241009-16.102261
+version: 1.1.0-rc-20241009-19.102623
 
 +
 
-Qualified Experiments #:* 15273:A:0:1
+Qualified Experiments #:* 15273:B:1:1
+* 15465:B:1:1
 * 15472:A:0:1
-Namespaces:* 5:4602:0
-* 6:1011:0
-* 7:1807:0
-* 8:2773:0
-* 10:1902:0
-* 11:2894:0
-* 4:1562:0
-* 3:3870:0
-* 9:4709:0
-* 2:2767:0
+* 15473:A:0:1
+Namespaces:* 3:3894:0
+* 7:3373:0
+* 9:1515:0
+* 10:8960:0
+* 11:2228:0
+* 2:811:0
+* 4:103:0
+* 5:4809:0
+* 6:2311:0
+* 8:4009:0
