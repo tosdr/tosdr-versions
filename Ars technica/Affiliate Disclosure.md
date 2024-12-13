@@ -84,15 +84,15 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: NASA believes it understands why Ingenuity crashed on Mars](https://cdn.arstechnica.net/wp-content/uploads/2024/12/1_PIA26238_ingentuity-ripples_cropped.width-1320-768x432-1733936851.jpg)](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/)
+1. [![Listing image for first story in Most Read: Russia takes unusual route to hack Starlink-connected devices in Ukraine](https://cdn.arstechnica.net/wp-content/uploads/2021/12/GettyImages-1327354395-768x432.jpg)](https://arstechnica.com/security/2024/12/russia-takes-unusual-route-to-hack-starlink-connected-devices-in-ukraine/)
     
-    1. [NASA believes it understands why Ingenuity crashed on Mars](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/)
+    1. [Russia takes unusual route to hack Starlink-connected devices in Ukraine](https://arstechnica.com/security/2024/12/russia-takes-unusual-route-to-hack-starlink-connected-devices-in-ukraine/)
     
-2. 2. [Russia takes unusual route to hack Starlink-connected devices in Ukraine](https://arstechnica.com/security/2024/12/russia-takes-unusual-route-to-hack-starlink-connected-devices-in-ukraine/)
+2. 2. [NASA believes it understands why Ingenuity crashed on Mars](https://arstechnica.com/space/2024/12/nasa-believes-it-understands-why-ingenuity-crashed-on-mars/)
     
-3. 3. [Congressional Republicans conclude SARS-CoV-2 originated in a lab leak](https://arstechnica.com/science/2024/12/congressional-republicans-conclude-sars-cov-2-originated-in-a-lab-leak/)
+3. 3. [Back where it started: “Do Not Track” removed from Firefox after 13 years](https://arstechnica.com/gadgets/2024/12/firefox-one-of-the-first-do-not-track-supporters-no-longer-offers-it/)
     
-4. 4. [Startup will brick $800 emotional support robot for kids without refunds](https://arstechnica.com/gadgets/2024/12/startup-will-brick-800-emotional-support-robot-for-kids-without-refunds/)
+4. 4. [YouTube TV raisies prices $10 per month in 2025, citing content costs, quality](https://arstechnica.com/gadgets/2024/12/youtube-tv-raisies-prices-10-per-month-in-2025-citing-content-costs-quality/)
     
 5. 5. [Photobucket opted inactive users into privacy nightmare, lawsuit says](https://arstechnica.com/tech-policy/2024/12/photobucket-sold-users-biometric-data-without-consent-lawsuit-says/)
     
