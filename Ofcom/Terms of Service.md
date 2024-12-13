@@ -157,7 +157,7 @@
 
 10 December 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/channel-4-statement/)
 
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy)
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/)
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
