@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Gavin Webster](https://cdn.comedy.co.uk/images/library/people/300x200/g/gavin_webster_megaphone.jpg "Gavin Webster")](https://www.comedy.co.uk/live/fgwg/gavin-webster/) Live
+
+[First Gig, Worst Gig: Gavin Webster](https://www.comedy.co.uk/live/fgwg/gavin-webster/)
+
 [![Gavin & Stacey. Image shows left to right: Nessa (Ruth Jones), Smithy (James Corden)](https://cdn.comedy.co.uk/images/library/comedies/300x200/g/gavin_and_stacey_smithy_nessa.jpg "Gavin & Stacey. Image shows left to right: Nessa (Ruth Jones), Smithy (James Corden)")](https://www.comedy.co.uk/tv/gavin_stacey/features/the-quiz/) Shop
 
 [Gavin & Stacey: The quiz](https://www.comedy.co.uk/tv/gavin_stacey/features/the-quiz/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Michael McIntyre's 25th Year Stand-Up Special. Michael McIntyre. Credit: BBC, Hungry McBear](https://cdn.comedy.co.uk/images/library/comedies/300x200/m/michael_mcintyres_25th_year_stand_up_special.jpg "Michael McIntyre's 25th Year Stand-Up Special. Michael McIntyre. Credit: BBC, Hungry McBear")](https://www.comedy.co.uk/tv/michael-mcintyre-25th-year-stand-up/interview/michael-mcintyre-on-25-years-in-comedy/) TV
 
 [Michael McIntyre on 25 years in comedy](https://www.comedy.co.uk/tv/michael-mcintyre-25th-year-stand-up/interview/michael-mcintyre-on-25-years-in-comedy/)
-
-[![The Rest Is Entertainment. Image shows left to right: Marina Hyde, Richard Osman](https://cdn.comedy.co.uk/images/library/misc/300x200/r/rest_is_entertainment.jpg "The Rest Is Entertainment. Image shows left to right: Marina Hyde, Richard Osman")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-62/) Live
-
-[The Rest Is Entertainment Live, One Man Musical, Mike Rice - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-62/)
 
 #### Subscribe to our newsletters
 
