@@ -1,4 +1,4 @@
-![Close](//drinkcirkul.com/cdn/shop/t/4/assets/icon-close-blue.svg?v=10197444204773661521565156097)
+![Close](//drinkcirkul.com/cdn/shop/t/209/assets/icon-close-blue.svg?v=10197444204773661521733781754)
 
 * [Log In](https://drinkcirkul.com/account/login)
 * [Create Account](https://drinkcirkul.com/account/register)
@@ -435,9 +435,9 @@ By signing up, you agree to receive Cirkul news and offers via email.
 
 © 2021-2024 Cirkul, Inc.
 
-![Close](//drinkcirkul.com/cdn/shop/t/4/assets/icon-close-blue.svg?v=10197444204773661521565156097)
+![Close](//drinkcirkul.com/cdn/shop/t/209/assets/icon-close-blue.svg?v=10197444204773661521733781754)
 
-[![FLVR LAB](//drinkcirkul.com/cdn/shop/t/4/assets/flavor-lab-logo.png?v=84523127850051387001688671022)](https://drinkcirkul.com/pages/flvr-lab)
+[![FLVR LAB](//drinkcirkul.com/cdn/shop/t/209/assets/flavor-lab-logo.png?v=84523127850051387001733781751)](https://drinkcirkul.com/pages/flvr-lab)
 
 Exclusive flavors, limited supply. Get ‘em before they're gone.
 
