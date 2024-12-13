@@ -407,7 +407,7 @@ Les plus lus
 2. [### Comme Facebook, Amazon va offrir un million de dollars pour l’investiture de Donald Trump](https://www.bfmtv.com/tech/amazon/comme-facebook-amazon-va-offrir-un-million-de-dollars-pour-l-investiture-de-donald-trump_AV-202412130456.html "Comme Facebook, Amazon va offrir un million de dollars pour l’investiture de Donald Trump")
 3. [### Secret Santa: la délicate gestion des cadeaux de Noël en entreprise](https://www.bfmtv.com/economie/emploi/vie-de-bureau/secret-santa-la-delicate-gestion-des-cadeaux-de-noel-en-entreprise_AV-202412130111.html "Secret Santa: la délicate gestion des cadeaux de Noël en entreprise")
 4. [### "On a vécu un cauchemar": un chat volé en pleine rue à Paris retrouvé à Orléans deux mois plus tard](https://www.bfmtv.com/societe/on-a-vecu-un-cauchemar-un-chat-vole-a-paris-retrouve-a-orleans-deux-mois-plus-tard_AN-202412130370.html ""On a vécu un cauchemar": un chat volé en pleine rue à Paris retrouvé à Orléans deux mois plus tard")
-5. [### Miss France 2025: comment le concours poursuit sa mue](https://www.bfmtv.com/people/miss-france-2025-comment-le-concours-poursuit-sa-mue_AN-202412130428.html "Miss France 2025: comment le concours poursuit sa mue")
+5. [### Miss France 2025: le concours de beauté s'est-il vraiment modernisé?](https://www.bfmtv.com/people/miss-france-2025-comment-le-concours-poursuit-sa-mue_AN-202412130428.html "Miss France 2025: le concours de beauté s'est-il vraiment modernisé?")
 
 ![BFMTV](/assets/v9/images/BFMTV.848c19e09c92f3ced2163a1a0399be11.svg "BFMTV")
 
