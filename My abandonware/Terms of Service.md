@@ -118,9 +118,9 @@ Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/mya
 
 Screenshots needed
 
-* [Rollergames](https://www.myabandonware.com/game/rollergames-rnx)
-* [Alias Underground Episode 7: Phase One](https://www.myabandonware.com/game/alias-underground-episode-7-phase-one-o1r)
-* [Sega Ages Memorial Selection Vol. 2](https://www.myabandonware.com/game/sega-ages-memorial-selection-vol-2-nff)
+* [The Sims 2: Family Fun Stuff](https://www.myabandonware.com/game/the-sims-2-family-fun-stuff-e44)
+* [Ultimate Writing & Creativity Center](https://www.myabandonware.com/game/ultimate-writing-creativity-center-m7j)
+* [NeoGeo Battle Coliseum](https://www.myabandonware.com/game/neogeo-battle-coliseum-sou)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
