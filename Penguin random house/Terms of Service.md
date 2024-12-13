@@ -22,19 +22,19 @@ Audio
 
 * * *
 
-* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
-    
-    Browse All Our Lists, Essays, and Interviews
-    
-    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
-
-* * *
-
 * [![Join Our Authors for Upcoming Events](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171722/Author-Events-Module_600x314-nav.jpg)
     
     Join Our Authors for Upcoming Events
     
     Learn More >](https://www.penguinrandomhouse.com/authors/events/)
+
+* * *
+
+* [![The Best Picture Books of 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/25110717/best-books-2024-600x314-picture.jpg)
+    
+    The Best Picture Books of 2024
+    
+    Learn More >](https://www.readbrightly.com/picture-books-2024/)
 
 * <
     
