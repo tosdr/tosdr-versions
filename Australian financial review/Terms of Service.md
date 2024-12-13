@@ -339,7 +339,6 @@ Advertise
 
 ### [I sent Andrew Forrest 50 hard questions. He invited me to have a talk](https://www.afr.com/companies/mining/i-sent-andrew-forrest-50-hard-questions-he-invited-me-to-have-a-talk-20241211-p5kxns)
 
-* 1 hr ago
 * Primrose Riordan
 
 * ### [Fortescue executive chairman Andrew Forrest in his own words](https://www.afr.com/companies/mining/fortescue-executive-chairman-andrew-forrest-in-his-own-words-20241210-p5kx5n)
