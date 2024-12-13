@@ -1288,6 +1288,8 @@ Gå direkt till :
             * [Laboratorieveterinär - intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorieveterinar-intermittent-anstallning/)
             * [Säkerhetsspecialist och signalskyddschef](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/sakerhetsspecialist-och-signalskyddschef/)
             * [Vetenskaplig granskare intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/vetenskaplig-granskare-intermittent-anstallning/)
+            * [Säkerhetschef](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/sakerhetschef/)
+            * [Sektionschef för IT drift och support](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/sektionschef-for-it-drift-och-support/)
         * [SVA som arbetsplats](https://www.sva.se/om-oss/arbeta-hos-oss/sva-som-arbetsplats/)
         * [Möt våra medarbetare](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/)[](#)
             * [Ylva, mikrobiolog](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/ylva-mikrobiolog/)
