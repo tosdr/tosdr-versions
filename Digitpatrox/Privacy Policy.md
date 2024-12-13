@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Thursday, December 12 2024
+Friday, December 13 2024
 
 Latest
 
-* [How to decide which VPN to use](https://digitpatrox.com/how-to-decide-which-vpn-to-use/)
-* [AWS wants to drastically cut down AI hallucinations – here’s how it plans to do it](https://digitpatrox.com/aws-wants-to-drastically-cut-down-ai-hallucinations-heres-how-it-plans-to-do-it/)
-* [How to choose videoconferencing software – Computerworld](https://digitpatrox.com/how-to-choose-videoconferencing-software-computerworld/)
-* [The ‘Magic Basket’ Method Breaks Decluttering Into Two Manageable Steps](https://digitpatrox.com/the-magic-basket-method-breaks-decluttering-into-two-manageable-steps/)
-* [Ransomware gang claims attack on California hospital that forced staff to use pen and paper](https://digitpatrox.com/ransomware-gang-claims-attack-on-california-hospital-that-forced-staff-to-use-pen-and-paper/)
-* [What is Presence Sensing, and how to use it on Windows 11? Everything you need to know](https://digitpatrox.com/what-is-presence-sensing-and-how-to-use-it-on-windows-11-everything-you-need-to-know/)
-* [When Assisted Living Is Needed](https://digitpatrox.com/when-assisted-living-is-needed/)
-* [I Always Use These 6 Security Features In Microsoft Edge](https://digitpatrox.com/i-always-use-these-6-security-features-in-microsoft-edge/)
-* [Google jumps on the agentic AI bandwagon](https://digitpatrox.com/google-jumps-on-the-agentic-ai-bandwagon/)
-* [How to Fix Network Jitter (for Good) in Under 10 Minutes](https://digitpatrox.com/how-to-fix-network-jitter-for-good-in-under-10-minutes/)
+* [New stealthy Pumakit Linux rootkit malware spotted in the wild](https://digitpatrox.com/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
+* [Elon Musk is mad at the SEC again](https://digitpatrox.com/elon-musk-is-mad-at-the-sec-again/)
+* [ChatGPT Can Finally See Through Your Camera for Real-Time Interaction](https://digitpatrox.com/chatgpt-can-finally-see-through-your-camera-for-real-time-interaction/)
+* [How to watch Usyk vs Fury 2 online from anywhere](https://digitpatrox.com/how-to-watch-usyk-vs-fury-2-online-from-anywhere/)
+* [Europol just took down 27 DDoS-for-hire sites](https://digitpatrox.com/europol-just-took-down-27-ddos-for-hire-sites/)
+* [No support or updates for Windows 11 PCs without minimum hardware requirements – Computerworld](https://digitpatrox.com/no-support-or-updates-for-windows-11-pcs-without-minimum-hardware-requirements-computerworld/)
+* [How to Do Strength Workouts on a Garmin Watch](https://digitpatrox.com/how-to-do-strength-workouts-on-a-garmin-watch/)
+* [How to watch Love Actually on Netflix](https://digitpatrox.com/how-to-watch-love-actually-on-netflix/)
+* [How to restore AM/PM and year for time and date in Taskbar on Windows 11](https://digitpatrox.com/how-to-restore-am-pm-and-year-for-time-and-date-in-taskbar-on-windows-11/)
+* [How to Decode a Toothpaste Label](https://digitpatrox.com/how-to-decode-a-toothpaste-label/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/How-to-decide-which-VPN-to-use.jpg)](https://digitpatrox.com/how-to-decide-which-vpn-to-use/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/05/31/Linux.jpg)](https://digitpatrox.com/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
     
-    [How to decide which VPN to use](https://digitpatrox.com/how-to-decide-which-vpn-to-use/)
+    [New stealthy Pumakit Linux rootkit malware spotted in the wild](https://digitpatrox.com/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
     
-    44 minutes ago
+    6 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/up7KoVRatQ55Re8Gti5rFT-1200-80.jpg)](https://digitpatrox.com/aws-wants-to-drastically-cut-down-ai-hallucinations-heres-how-it-plans-to-do-it/)
+* [![](https://cdn.vox-cdn.com/thumbor/r3TlhwliK8Gt8pomhvVEgzTm1-I=/0x0:2040x1334/1200x628/filters:focal(1020x667:1021x668)/cdn.vox-cdn.com/uploads/chorus_asset/file/25355893/STK022_ELON_MUSK_CVIRGINIA_B.jpg)](https://digitpatrox.com/elon-musk-is-mad-at-the-sec-again/)
     
-    [AWS wants to drastically cut down AI hallucinations – here’s how it plans to do it](https://digitpatrox.com/aws-wants-to-drastically-cut-down-ai-hallucinations-heres-how-it-plans-to-do-it/)
+    [Elon Musk is mad at the SEC again](https://digitpatrox.com/elon-musk-is-mad-at-the-sec-again/)
     
-    1 hour ago
+    23 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3606596-0-62677500-1734001365-woman-on-video-call-by-karolina-kaboompics-via-pexels.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/how-to-choose-videoconferencing-software-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/12/chatgpt-live-video-demo.jpg)](https://digitpatrox.com/chatgpt-can-finally-see-through-your-camera-for-real-time-interaction/)
     
-    [How to choose videoconferencing software – Computerworld](https://digitpatrox.com/how-to-choose-videoconferencing-software-computerworld/)
+    [ChatGPT Can Finally See Through Your Camera for Real-Time Interaction](https://digitpatrox.com/chatgpt-can-finally-see-through-your-camera-for-real-time-interaction/)
+    
+    39 minutes ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/05/How-to-watch-Oleksandr-Usyk-vs-Tyson-Fury-online-from-anywhere.jpg)](https://digitpatrox.com/how-to-watch-usyk-vs-fury-2-online-from-anywhere/)
+    
+    [How to watch Usyk vs Fury 2 online from anywhere](https://digitpatrox.com/how-to-watch-usyk-vs-fury-2-online-from-anywhere/)
     
     2 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01JEXSBMD75ZNYC3KM32GHJ497/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-magic-basket-method-breaks-decluttering-into-two-manageable-steps/)
+* [![](https://cdn.mos.cms.futurecdn.net/X8SLtm2YmMKNBeG8ZeCDXf-1200-80.jpg)](https://digitpatrox.com/europol-just-took-down-27-ddos-for-hire-sites/)
     
-    [The ‘Magic Basket’ Method Breaks Decluttering Into Two Manageable Steps](https://digitpatrox.com/the-magic-basket-method-breaks-decluttering-into-two-manageable-steps/)
-    
-    2 hours ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/California-hospital-resorts-to-pen-and-paper-after-ransomware-gang-claims-hack.jpg)](https://digitpatrox.com/ransomware-gang-claims-attack-on-california-hospital-that-forced-staff-to-use-pen-and-paper/)
-    
-    [Ransomware gang claims attack on California hospital that forced staff to use pen and paper](https://digitpatrox.com/ransomware-gang-claims-attack-on-california-hospital-that-forced-staff-to-use-pen-and-paper/)
+    [Europol just took down 27 DDoS-for-hire sites](https://digitpatrox.com/europol-just-took-down-27-ddos-for-hire-sites/)
     
     2 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [44 minutes ago
+* [6 minutes ago
     
-    ### How to decide which VPN to use](https://digitpatrox.com/how-to-decide-which-vpn-to-use/)
-* [1 hour ago
+    ### New stealthy Pumakit Linux rootkit malware spotted in the wild](https://digitpatrox.com/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
+* [23 minutes ago
     
-    ### AWS wants to drastically cut down AI hallucinations – here’s how it plans to do it](https://digitpatrox.com/aws-wants-to-drastically-cut-down-ai-hallucinations-heres-how-it-plans-to-do-it/)
-* [2 hours ago
+    ### Elon Musk is mad at the SEC again](https://digitpatrox.com/elon-musk-is-mad-at-the-sec-again/)
+* [39 minutes ago
     
-    ### How to choose videoconferencing software – Computerworld](https://digitpatrox.com/how-to-choose-videoconferencing-software-computerworld/)
+    ### ChatGPT Can Finally See Through Your Camera for Real-Time Interaction](https://digitpatrox.com/chatgpt-can-finally-see-through-your-camera-for-real-time-interaction/)
 
 Most Popular Topics
 
-* [August 16, 2024
+* [September 21, 2024
     
-    ### How to Tunnel Web Traffic Through SSH for Secure Browsing](https://digitpatrox.com/how-to-tunnel-web-traffic-through-ssh-for-secure-browsing/)
-* [September 1, 2024
+    ### Offline Home Assistants Might Be the Most Important Smart Home Technology Yet](https://digitpatrox.com/offline-home-assistants-might-be-the-most-important-smart-home-technology-yet/)
+* [September 26, 2024
     
-    ### Apple’s rumored Mac Mini redesign may ditch the USB-A port](https://digitpatrox.com/apples-rumored-mac-mini-redesign-may-ditch-the-usb-a-port/)
-* [August 13, 2024
+    ### Apple Watch Series 10 Has Larger Screen and Faster Charging](https://digitpatrox.com/apple-watch-series-10-has-larger-screen-and-faster-charging/)
+* [3 weeks ago
     
-    ### Kootenai Health notifies 464K people of data breach that exposed SSNs, medical info](https://digitpatrox.com/kootenai-health-notifies-464k-people-of-data-breach-that-exposed-ssns-medical-info/)
+    ### Lenovo ThinkPad P1 Gen 7 review](https://digitpatrox.com/lenovo-thinkpad-p1-gen-7-review/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### When Assisted Living Is Needed](https://digitpatrox.com/when-assisted-living-is-needed/)
-* [2 hours ago
-    
-    ### I Always Use These 6 Security Features In Microsoft Edge](https://digitpatrox.com/i-always-use-these-6-security-features-in-microsoft-edge/)
 * [3 hours ago
     
-    ### Google jumps on the agentic AI bandwagon](https://digitpatrox.com/google-jumps-on-the-agentic-ai-bandwagon/)
+    ### How to Do Strength Workouts on a Garmin Watch](https://digitpatrox.com/how-to-do-strength-workouts-on-a-garmin-watch/)
+* [3 hours ago
+    
+    ### How to watch Love Actually on Netflix](https://digitpatrox.com/how-to-watch-love-actually-on-netflix/)
+* [3 hours ago
+    
+    ### How to restore AM/PM and year for time and date in Taskbar on Windows 11](https://digitpatrox.com/how-to-restore-am-pm-and-year-for-time-and-date-in-taskbar-on-windows-11/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
