@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Chennai Weather](https://www.news18.com/india/chennai-weather-update-how-many-more-days-of-heavy-rain-in-tamil-nadu-ws-a-9153534.html)
-    * [Bengaluru Techie Suicide](https://www.news18.com/viral/bengaluru-techie-suicide-family-of-atul-subhashs-wife-on-the-run-vacates-jaunpur-home-9153633.html)
+    * [Sharmila Tagore](https://www.news18.com/movies/sharmila-tagore-says-she-was-pregnant-with-saif-during-aradhana-reveals-problem-she-had-with-rajesh-khanna-9153830.html)
     * [Idli Recipes](https://www.news18.com/web-stories/lifestyle/5-wholesome-south-indian-idli-recipes-2679427/)
     * [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
-    * [Atul Subhash Salary](https://www.news18.com/india/atul-subhashs-monthly-salary-was-rs-84000-heres-how-much-went-to-his-estranged-wife-ws-ab-9153502.html)
-    * [D Gukesh](https://www.news18.com/sports/d-gukesh-defeat-ding-liren-to-win-the-world-chess-championship-in-historic-nail-biting-game-14-becomes-youngest-ever-champion-in-history-9153866.html)
+    * [Chennai Rain](https://www.news18.com/india/chennai-bengaluru-rains-imd-forecast-yellow-alert-karnataka-tamil-nadu-latest-updates-9154506.html)
+    * [Ding Liren](https://www.news18.com/sports/ding-liren-accused-of-losing-on-purpose-by-russian-chess-federation-president-calls-for-fide-investigation-9154398.html)
+    * [Vinod Kambli](https://www.news18.com/cricket/vinod-kambli-expresses-willingness-to-enter-rehab-amid-health-concerns-9154470.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Chennai Weather](https://www.news18.com/india/chennai-weather-update-how-many-more-days-of-heavy-rain-in-tamil-nadu-ws-a-9153534.html)
-* [Bengaluru Techie Suicide](https://www.news18.com/viral/bengaluru-techie-suicide-family-of-atul-subhashs-wife-on-the-run-vacates-jaunpur-home-9153633.html)
+* [Sharmila Tagore](https://www.news18.com/movies/sharmila-tagore-says-she-was-pregnant-with-saif-during-aradhana-reveals-problem-she-had-with-rajesh-khanna-9153830.html)
 * [Idli Recipes](https://www.news18.com/web-stories/lifestyle/5-wholesome-south-indian-idli-recipes-2679427/)
 * [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
-* [Atul Subhash Salary](https://www.news18.com/india/atul-subhashs-monthly-salary-was-rs-84000-heres-how-much-went-to-his-estranged-wife-ws-ab-9153502.html)
-* [D Gukesh](https://www.news18.com/sports/d-gukesh-defeat-ding-liren-to-win-the-world-chess-championship-in-historic-nail-biting-game-14-becomes-youngest-ever-champion-in-history-9153866.html)
+* [Chennai Rain](https://www.news18.com/india/chennai-bengaluru-rains-imd-forecast-yellow-alert-karnataka-tamil-nadu-latest-updates-9154506.html)
+* [Ding Liren](https://www.news18.com/sports/ding-liren-accused-of-losing-on-purpose-by-russian-chess-federation-president-calls-for-fide-investigation-9154398.html)
+* [Vinod Kambli](https://www.news18.com/cricket/vinod-kambli-expresses-willingness-to-enter-rehab-amid-health-concerns-9154470.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
@@ -455,9 +455,10 @@ Latest Blogs
 
 Trending Topics
 
-* [US Election Results Live](https://www.news18.com/world/us-presidential-elections-2024-voting-kamala-harris-donald-trump-ballots-swing-states-november-5-and-6-latest-news-liveblog-9109219.html)
-* [Maharashtra Elections](https://www.news18.com/elections/)
-* [Diwali 2024](https://www.news18.com/topics/diwali/)
+* [World Chess Championship](https://www.news18.com/topics/world-chess-championship/)
+* [D Gukesh](https://www.news18.com/topics/d-gukesh/)
+* [Delhi Elections](https://www.news18.com/topics/delhi-elections/)
+* [Chennai Weather](https://www.news18.com/topics/chennai-weather/)
 * [Lawrence Bishnoi](https://www.news18.com/topics/lawrence-bishnoi/)
 * [Salman Khan](https://www.news18.com/topics/salman-khan/)
 * [Shraddha Kapoor](https://www.news18.com/topics/shraddha-kapoor/)
@@ -474,7 +475,6 @@ Trending Topics
 * [Shraddha Kapoor](https://www.news18.com/topics/Shraddha-Kapoor/)
 * [Kerala Lottery Results](https://www.news18.com/topics/kerala-lottery-result/)
 * [Shillong Teer Results](https://www.news18.com/topics/shillong-lottery-result/)
-* [Web Stories](https://www.news18.com/web-stories/)
 
 Hot On Social
 
