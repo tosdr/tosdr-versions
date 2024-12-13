@@ -35,6 +35,7 @@ Menu Menu
             * [ACME](https://www.globalsign.com/en/acme-automated-certificate-management)
             * [Atlas Discovery - Certificate Inventory Tool](https://www.globalsign.com/en/atlas-discovery-certificate-management)
             * [Certificate Automation Manager](https://www.globalsign.com/en/enterprise/management-automation/certificate-automation-manager)
+            * [PKI for IoT](https://www.globalsign.com/en/internet-of-things)
             * [PKI for DevSecOps](https://www.globalsign.com/en/pki-devops)
             * [Post Quantum Computing](https://www.globalsign.com/en/post-quantum-computing)
             
@@ -130,24 +131,13 @@ Menu Menu
                 
             * #### [AppViewX](https://www.globalsign.com/en/enterprise/technology-alliance/appviewx)
                 
+            * #### [IoT Chip-to-Cloud Migration](https://www.globalsign.com/en/internet-of-things/iot-chip-cloud-integration-blueprint)
+                
             
         *  [![](/application/files/2617/1696/1924/CAM_image.webp) Learn more](https://www.globalsign.com/en/enterprise/management-automation/certificate-automation-manager)
         *  [![Email Security Using Digital Signatures & Encryption](/application/files/3316/8078/9027/Top_Nav_CTA_90_Days_Cert_6.webp) Learn More](https://www.globalsign.com/en/blog/ae/google-90-day-certificate-validity-requires-automation)
         *  [![Email Security Using Digital Signatures & Encryption](/application/files/3316/8078/9027/Top_Nav_CTA_90_Days_Cert_6.webp) Learn More](https://www.globalsign.com/en/blog/in/google-90-day-certificate-validity-requires-automation)
         
-* [IoT](https://www.globalsign.com/en/internet-of-things/)
-    * [IoT Identity Platform](https://www.globalsign.com/en/internet-of-things/iot-identity-platform/)
-        * [IoT Edge Enroll](https://www.globalsign.com/en/iot-edge-enroll)
-        * [IoT CA Direct](https://www.globalsign.com/en/internet-of-things/iot-identity-platform/iot-ca-direct)
-    * [IoT Device Identity Lifecycle Management](https://www.globalsign.com/en/internet-of-things/iot-device-identity-lifecycle-management)
-    * [IoT Device Certificates](https://www.globalsign.com/en/internet-of-things/iot-device-certificates)
-    * [Hosted OCSP](https://www.globalsign.com/en/internet-of-things/iot-hosted-ocsp/)
-    * [IoT Developer Program](https://www.globalsign.com/en/internet-of-things/iot-developer-program)
-    * [IoT Partner Program](https://www.globalsign.com/en/internet-of-things/iot-partner-program)
-        * [IoT Chip to Cloud Integration Blueprint](https://www.globalsign.com/en/internet-of-things/iot-chip-cloud-integration-blueprint)
-        * [AWS IoT Core Integration](https://www.globalsign.com/en/internet-of-things/aws-iot-core-integration-guide)
-    * [MS Azure IoT Hub Integration](https://www.globalsign.com/en/internet-of-things/azure-iot-hub-integration-guide/)
-    * [5G for IoT](https://www.globalsign.com/en/internet-of-things/5g-for-iot)
 * [Partners](javascript:void(0))
     * * ##### Become a GlobalSign Partner
             
