@@ -102,30 +102,49 @@ Current Version
 * [21\. General](#21. General)
 * [22\. Contact Us](#22. Contact Us)
 
-1\. About This EULA ![wargaming-document](/assets/images/documents/arrow-down.png) 
+[1\. About This EULA](#1. About This EULA)
 
-* 1\. About This EULA
-* 2\. Accepting This EULA
-* 3\. Amendments to This EULA
-* 4\. Your Wargaming Account
-* 5\. License to use the Products
-* 6\. User Generated Content
-* 7\. Feedback and User Submissions
-* 8\. Copyright Infringement
-* 9\. Paid Items
-* 10\. Right of Withdrawal
-* 11\. No Restriction of Consumer Rights
-* 12\. Code of Conduct
-* 13\. Patches, Updates and Changes
-* 14\. Technical Requirements
-* 15\. Closed Tests
-* 16\. Epilepsy Warning
-* 17\. Warranties and Liabilities
-* 18\. Links to Third Party Sites
-* 19\. Termination
-* 20\. Governing Law and Jurisdiction
-* 21\. General
-* 22\. Contact Us
+[2\. Accepting This EULA](#2. Accepting This EULA)
+
+[3\. Amendments to This EULA](#3. Amendments to This EULA)
+
+[4\. Your Wargaming Account](#4. Your Wargaming Account)
+
+[5\. License to use the Products](#5. License to use the Products)
+
+[6\. User Generated Content](#6. User Generated Content)
+
+[7\. Feedback and User Submissions](#7. Feedback and User Submissions)
+
+[8\. Copyright Infringement](#8. Copyright Infringement)
+
+[9\. Paid Items](#9. Paid Items)
+
+[10\. Right of Withdrawal](#10. Right of Withdrawal)
+
+[11\. No Restriction of Consumer Rights](#11. No Restriction of Consumer Rights)
+
+[12\. Code of Conduct](#12. Code of Conduct)
+
+[13\. Patches, Updates and Changes](#13. Patches, Updates and Changes)
+
+[14\. Technical Requirements](#14. Technical Requirements)
+
+[15\. Closed Tests](#15. Closed Tests)
+
+[16\. Epilepsy Warning](#16. Epilepsy Warning)
+
+[17\. Warranties and Liabilities](#17. Warranties and Liabilities)
+
+[18\. Links to Third Party Sites](#18. Links to Third Party Sites)
+
+[19\. Termination](#19. Termination)
+
+[20\. Governing Law and Jurisdiction](#20. Governing Law and Jurisdiction)
+
+[21\. General](#21. General)
+
+[22\. Contact Us](#22. Contact Us)
 
 Effective date: 10 April 2024.
 
