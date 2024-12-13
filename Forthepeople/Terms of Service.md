@@ -317,6 +317,10 @@ Results may vary depending on your particular facts and legal circumstances. ©2
     
     [Exploding Airbags](https://www.forthepeople.com/practice-areas/defective-product-lawyers/exploding-airbags/) [Hair Color](https://www.forthepeople.com/blog/have-you-been-affected-hair-dye-related-cancer/) [Depo-Provera](https://www.forthepeople.com/blog/depo-provera-lawsuits-your-rights-after-serious-health-complications/) [Georgia Fire](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/conyers-biolab-lawsuit/) [Maui Wildfire](https://www.forthepeople.com/blog/representation-victims-lahaina-wildfires/) [Weight Loss Drugs](https://www.forthepeople.com/practice-areas/mass-tort-lawyers/weight-loss-lawsuit/) [Ticketmaster Data Breach](https://www.forthepeople.com/blog/live-nation-and-ticketmaster-data-breach-lawsuit-what-know/) [H&R Block Data Breach](https://www.forthepeople.com/blog/hr-block-lawsuit-what-you-need-know-about-data-sharing-without-consent/)
 
+©2024 Morgan and Morgan, P.A. All rights reserved
+
+[Privacy Policy](https://www.forthepeople.com/privacy-policy/) [Disclaimers and Terms of Use](https://www.forthepeople.com/disclaimer-and-terms-of-use/)
+
 ### Social
 
 * [](https://x.com/forthepeople)
@@ -327,9 +331,11 @@ Results may vary depending on your particular facts and legal circumstances. ©2
 
  [![themorganconnection.com](/themes/custom/morgan/images/logos/morganconnection.svg)](https://www.themorganconnection.com/)[![business trial group](/themes/custom/morgan/images/logos/businesstrialgroup.svg)](https://www.businesstrialgroup.com/)[![the whistleblower](/themes/custom/morgan/images/logos/whistleblower.svg)](https://www.whistleblowerattorneys.com/)[![abogados.com](/themes/custom/morgan/images/logos/abogados.svg)](https://www.abogados.com/)[![class action com](/themes/custom/morgan/images/logos/classaction.svg)](https://www.classaction.com/)
 
-[![Download on the App Store](/sites/default/files/theme-assets/ftp/images/logos/app-store.jpg)](https://apps.apple.com/us/app/morgan-morgan-mobile/id1605206916?platform=iphone)
+[![Download on the App Store](/themes/custom/morgan/images/logos/verified-reviews.svg)](https://www.forthepeople.com/)
 
-[![Get it on Google Play](/sites/default/files/theme-assets/ftp/images/logos/google-play.jpg)](https://play.google.com/store/apps/details?id=com.mm.clientPortal&pli=1)
+ [![Download on the App Store](/sites/default/files/theme-assets/ftp/images/logos/app-store.jpg)](https://apps.apple.com/us/app/morgan-morgan-mobile/id1605206916?platform=iphone)
+
+ [![Get it on Google Play](/sites/default/files/theme-assets/ftp/images/logos/google-play.jpg)](https://play.google.com/store/apps/details?id=com.mm.clientPortal&pli=1)
 
 20 North Orange Ave, Suite 1600, Orlando, FL 32801  
 For a full list of locations in your area please visit our [Office Locations](https://www.forthepeople.com/office-locations/) page.
