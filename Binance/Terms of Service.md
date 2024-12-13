@@ -977,7 +977,7 @@ c. any other security incident (including a cyber-security attack) affecting you
 
 **Product Terms**
 
-Please note, some products may not be available in your location.
+Please note, some products may not be available in your location..
 
 |     |     |     |
 | --- | --- | --- |
@@ -988,7 +988,7 @@ Please note, some products may not be available in your location.
 | [Mining Pool](https://www.binance.com/en/terms-binance-pool) | [NFT Staking](https://www.binance.com/en/legal/terms-nft-staking) | [Options](https://www.binance.com/en/legal/terms-options) |
 | [OTC Terms](https://www.binance.com/en/terms-otc) | [Pay](https://www.binance.com/en/legal/terms-pay) | [P2P](https://www.binance.com/en/terms-p2p) |
 | [Simple Earn](https://www.binance.com/en/terms-simple-earn) | [Swap](https://www.binance.com/en/terms-swap-farming) | [Spot](https://www.binance.com/en/terms-spot) |
-| [Web3 Wallet](https://www.binance.com/en/defiwallet/term-of-use) |     |     |
+| [Web3 Wallet](https://www.binance.com/en/defiwallet/term-of-use) | [Megadrop](https://www.binance.com/en/about-legal/terms-megadrop) |     |
 
 ### Community
 
