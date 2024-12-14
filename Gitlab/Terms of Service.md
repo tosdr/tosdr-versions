@@ -1610,7 +1610,7 @@
         * [ ]  [Skip Level Meetings - Overview](https://handbook.gitlab.com/handbook/leadership/skip-levels/)
         * [ ]  [Underperformance](https://handbook.gitlab.com/handbook/leadership/underperformance/)
         * [ ]  [Workforce Planning](https://handbook.gitlab.com/handbook/leadership/workforce-planning/)
-    * [ ]  [Legal & Corporate Affairs](https://handbook.gitlab.com/handbook/legal/)
+    * [ ]  [Legal & Corporate Affairs ("LACA")](https://handbook.gitlab.com/handbook/legal/)
         * [ ]  [Agile Planning Terms](https://handbook.gitlab.com/handbook/legal/agile-planning-terms/)
         * [ ]  [Agile Planning Terms V1](https://handbook.gitlab.com/handbook/legal/agile-planning-terms-v1/)
         * [ ]  [AI Functionality Terms](https://handbook.gitlab.com/handbook/legal/ai-functionality-terms/)
@@ -3539,7 +3539,7 @@
     * [10\. Miscellaneous](#10-miscellaneous)
 
 1. [The Handbook](https://handbook.gitlab.com/handbook/)
-2. [Legal & Corporate Affairs](https://handbook.gitlab.com/handbook/legal/)
+2. [Legal & Corporate Affairs ("LACA")](https://handbook.gitlab.com/handbook/legal/)
 3. [Policies](https://handbook.gitlab.com/handbook/legal/policies/)
 4. GitLab Website Terms of Use
 
