@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can a ct scan be wrong about cancer?](https://www.pintas.com/wp-content/uploads/2020/11/failure-to-diagnose-lung-cancer-can-a-ct-scan-be-wrong-about-cancer.jpg "Can a CT Scan Be Wrong About Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/failure-to-diagnose/can-a-ct-scan-be-wrong-about-cancer/ "Can a CT Scan Be Wrong About Cancer?")
+[![Can you have lung cancer with no symptoms?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancercan-you-have-lung-cancer-with-no-symptoms-scaled.jpg "Can You Have Lung Cancer With No Symptoms?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-have-lung-cancer-with-no-symptoms/ "Can You Have Lung Cancer With No Symptoms?")
 
-[#### Can a CT Scan Be Wrong About Cancer?](https://www.pintas.com/practice-areas/lung-cancer/failure-to-diagnose/can-a-ct-scan-be-wrong-about-cancer/)
+[#### Can You Have Lung Cancer With No Symptoms?](https://www.pintas.com/practice-areas/lung-cancer/can-you-have-lung-cancer-with-no-symptoms/)
 
-[![Financial abuse types in assisted living](https://www.pintas.com/wp-content/uploads/2021/03/fraud-spelled-out-in-scrabble-letters-300x108.jpg "Financial Abuse Types in Assisted Living")](https://www.pintas.com/faq/what-are-the-different-kinds-of-financial-abuse-at-assisted-livings/ "Financial Abuse Types in Assisted Living")
+[![How are medical bills paid after a car accident?](https://www.pintas.com/wp-content/uploads/2020/07/car-accidents-how-are-medical-bills-paid-after-a-car-accident.jpg "How Are Medical Bills Paid After a Car Accident?")](https://www.pintas.com/practice-areas/car-accident-lawyer/how-are-medical-bills-paid/ "How Are Medical Bills Paid After a Car Accident?")
 
-[#### Financial Abuse Types in Assisted Living](https://www.pintas.com/faq/what-are-the-different-kinds-of-financial-abuse-at-assisted-livings/)
+[#### How Are Medical Bills Paid After a Car Accident?](https://www.pintas.com/practice-areas/car-accident-lawyer/how-are-medical-bills-paid/)
 
-[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/faq/what-are-the-3-stages-of-sepsis/ "What Are the 3 Stages of Sepsis?")
+[![What types of cancer are caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-types-of-cancer-are-caused-by-asbestos.jpg "What Types of Cancer Are Caused by Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/types-of-cancer-caused-by-asbestos "What Types of Cancer Are Caused by Asbestos?")
 
-[#### What Are the 3 Stages of Sepsis?](https://www.pintas.com/faq/what-are-the-3-stages-of-sepsis/)
+[#### What Types of Cancer Are Caused by Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/types-of-cancer-caused-by-asbestos)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
