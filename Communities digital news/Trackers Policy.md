@@ -80,6 +80,26 @@ Getty Image
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-michael-moore-2-220x180.jpg)](https://americanwirenews.com/michael-moore-wants-to-pour-gasoline-on-health-insurance-company-anger/)
+
+[Michael Moore wants to ‘pour gasoline’ on health insurance company anger](https://americanwirenews.com/michael-moore-wants-to-pour-gasoline-on-health-insurance-company-anger/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sgmcconnell-kennedy-220x180.jpg)](https://americanwirenews.com/mitch-plays-the-polio-card-in-a-pre-confirmation-attack-on-rfk-jr/)
+
+[Mitch plays the polio card in a pre-confirmation attack on RFK Jr.](https://americanwirenews.com/mitch-plays-the-polio-card-in-a-pre-confirmation-attack-on-rfk-jr/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-patel-1-220x180.jpg)](https://americanwirenews.com/watchdog-report-reveals-fbi-spied-on-kash-patel/)
+
+[Watchdog report reveals FBI spied on Kash Patel](https://americanwirenews.com/watchdog-report-reveals-fbi-spied-on-kash-patel/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-flotuschristmas-1200-x-628-220x180.jpg)](https://americanwirenews.com/jill-bidens-happy-holidays-wish-corrected-with-epic-response-by-kids/)
+
+[Jill Biden’s ‘Happy Holidays’ wish corrected with ‘epic response’ by kids](https://americanwirenews.com/jill-bidens-happy-holidays-wish-corrected-with-epic-response-by-kids/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-navarroa-1200-x-628-220x180.jpg)](https://americanwirenews.com/the-view-co-host-notes-that-hitler-was-also-times-person-of-the-year-but-she-left-something-out/)
+
+[‘The View’ co-host notes that Hitler was also Time’s ‘Person of the Year’ but she left something out](https://americanwirenews.com/the-view-co-host-notes-that-hitler-was-also-times-person-of-the-year-but-she-left-something-out/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-faulkner-drone-220x180.jpg)](https://americanwirenews.com/new-jersey-drone-story-gets-weirder-when-mayor-explains-how-fallen-tech-should-be-approached/)
 
 [New Jersey ‘drone’ story gets weirder when mayor explains how fallen tech should be approached](https://americanwirenews.com/new-jersey-drone-story-gets-weirder-when-mayor-explains-how-fallen-tech-should-be-approached/)
@@ -159,26 +179,6 @@ Getty Image
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jeffries-220x180.jpg)](https://americanwirenews.com/stunner-jeffries-says-no-dems-will-support-johnson-as-speaker/)
 
 [Stunner: Jeffries says no Dems will support Johnson as Speaker](https://americanwirenews.com/stunner-jeffries-says-no-dems-will-support-johnson-as-speaker/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-nyse-220x180.jpg)](https://americanwirenews.com/america-is-so-back-usa-chants-erupt-as-trump-makes-history-greeted-like-a-rock-star-at-nyse/)
-
-[‘America is so back!’ USA chants erupt as Trump makes history, greeted like a rock star at NYSE](https://americanwirenews.com/america-is-so-back-usa-chants-erupt-as-trump-makes-history-greeted-like-a-rock-star-at-nyse/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-brian-bergen-220x180.jpg)](https://americanwirenews.com/fuming-new-jersey-rep-walks-out-on-dhs-drones-briefing-amateur-hourthey-dont-know-anything/)
-
-[New Jersey Rep WALKS OUT on DHS drones briefing: ‘Amateur hour…They don’t know anything!’](https://americanwirenews.com/fuming-new-jersey-rep-walks-out-on-dhs-drones-briefing-amateur-hourthey-dont-know-anything/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-covington-220x180.jpg)](https://americanwirenews.com/mma-fighter-puts-fing-scumbag-lebron-james-on-blast-people-think-hes-a-role-model/)
-
-[MMA fighter puts ‘f\*\*ing scumbag’ LeBron James on blast: ‘People think he’s a role model?!’](https://americanwirenews.com/mma-fighter-puts-fing-scumbag-lebron-james-on-blast-people-think-hes-a-role-model/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-satanic-display-220x180.jpg)](https://americanwirenews.com/satanic-holiday-statue-erected-in-front-of-new-hampshire-state-house-didnt-last-long-found-in-three-pieces/)
-
-[Satanic holiday statue erected in front of New Hampshire State House didn’t last long: ‘Found in three pieces’](https://americanwirenews.com/satanic-holiday-statue-erected-in-front-of-new-hampshire-state-house-didnt-last-long-found-in-three-pieces/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-burrow-220x180.jpg)](https://americanwirenews.com/emotional-bangles-qb-addresses-lack-of-privacy-burglary-of-his-home-in-latest-nfl-targeted-crime/)
-
-[Emotional Bangles QB addresses lack of privacy, burglary of his home in latest NFL-targeted crime](https://americanwirenews.com/emotional-bangles-qb-addresses-lack-of-privacy-burglary-of-his-home-in-latest-nfl-targeted-crime/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
