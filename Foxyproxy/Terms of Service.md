@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Seems like you guys really care about your clients, which is refreshing.
+I am delighted to tell you that I am more than satisfied with the service you provide and that I have, in fact re subscribed .
 
-Jenny Schenker
+Mike Dally
