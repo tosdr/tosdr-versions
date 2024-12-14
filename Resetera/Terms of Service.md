@@ -106,6 +106,9 @@ Light/Dark
 * Light/Dark
     
 
+* [](https://www.resetera.com/account/dismiss-notice?notice_id=414 "Dismiss notice")The [ResetEra Games of the Year 2024 Vote](https://www.resetera.com/threads/resetera-games-of-the-year-2024-voting-thread-ends-jan-15-12-00am-est.1061772/) is here! Voting will remain open for 1 month, 7 hours, 44 minutes, until Jan 15, 2025 at 12:00 AM. Let everyone know about your favorite games this year! We also have voting for [Games for Impact](https://www.resetera.com/threads/resetera-goty-2024-sub-vote-thread-games-for-impact.1061775/) this year!
+    
+
 Terms and rules
 ===============
 
