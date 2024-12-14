@@ -130,104 +130,104 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![horr0r](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46290%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EH%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/907772-horr0r/ "Ir ao perfil de horr0r")
+    * [![ViFe](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47a62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")
         
-        1
+        0
         
-        [amd fx8120 só reconhece 4 cores](https://www.clubedohardware.com.br/forums/topic/1705478-amd-fx8120-s%C3%B3-reconhece-4-cores/?do=getNewComment "amd fx8120 só reconhece 4 cores")
+        [Montagem am5 (mais barato possível).](https://www.clubedohardware.com.br/forums/topic/1705506-montagem-am5-mais-barato-poss%C3%ADvel/?do=getNewComment "Montagem am5 (mais barato possível).")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [ViFe](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")  
+        16 minutos atrás
+        
+    * [![DanielRodrigo](https://www.clubedohardware.com.br/uploads/members/monthly_2020_01/x-small.thumb.png.129edd2db94365428c542d6b9c53477e.png)](https://www.clubedohardware.com.br/profile/381711-danielrodrigo/ "Ir ao perfil de DanielRodrigo")
+        
+        0
+        
+        [Preciso de mais uma porta USB na placa-mãe - qual a melhor opcao?](https://www.clubedohardware.com.br/forums/topic/1705505-preciso-de-mais-uma-porta-usb-na-placa-m%C3%A3e-qual-a-melhor-opcao/?do=getNewComment "Preciso de mais uma porta USB na placa-mãe - qual a melhor opcao?")
+        
+        [Periféricos - outros](https://www.clubedohardware.com.br/forums/forum/280-perif%C3%A9ricos-outros/ "Periféricos - outros")  
+        Por [DanielRodrigo](https://www.clubedohardware.com.br/profile/381711-danielrodrigo/ "Ir ao perfil de DanielRodrigo")  
+        27 minutos atrás
+        
+    * [![GonmaBr](https://www.clubedohardware.com.br/uploads/members/monthly_2021_01/imported-photo-1138540.thumb.png.6fe9ba66a5710e241cb1fb21fd9c7aff.png)](https://www.clubedohardware.com.br/profile/1138540-gonmabr/ "Ir ao perfil de GonmaBr")
+        
+        0
+        
+        [Depois de atualizar como wintos upadate, minha internet não sobem mais que 100mb](https://www.clubedohardware.com.br/forums/topic/1705504-depois-de-atualizar-como-wintos-upadate-minha-internet-n%C3%A3o-sobem-mais-que-100mb/?do=getNewComment "Depois de atualizar como wintos upadate, minha internet não sobem mais que 100mb")
         
         [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [horr0r](https://www.clubedohardware.com.br/profile/907772-horr0r/ "Ir ao perfil de horr0r")  
+        Por [GonmaBr](https://www.clubedohardware.com.br/profile/1138540-gonmabr/ "Ir ao perfil de GonmaBr")  
         1 hora atrás
         
-    * [![ALSGG](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/E5OaFk1XwAMzbbn.thumb.jpg.c4d65a5dc93bff2c23075007bc84cbf4.jpg)](https://www.clubedohardware.com.br/profile/1257900-alsgg/ "Ir ao perfil de ALSGG")
-        
-        2
-        
-        [Processador Ryzen 7 1700 batendo 95ºC com cooler box, qual upgrade fazer?](https://www.clubedohardware.com.br/forums/topic/1705477-processador-ryzen-7-1700-batendo-95%C2%BAc-com-cooler-box-qual-upgrade-fazer/?do=getNewComment "Processador Ryzen 7 1700 batendo 95ºC com cooler box, qual upgrade fazer?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [ALSGG](https://www.clubedohardware.com.br/profile/1257900-alsgg/ "Ir ao perfil de ALSGG")  
-        1 hora atrás
-        
-    * [![ovatsuG_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253590.thumb.png.84dd80d9621858403116ff7b910eb79e.png)](https://www.clubedohardware.com.br/profile/1253590-ovatsug_/ "Ir ao perfil de ovatsuG_")
-        
-        6
-        
-        [PC liga, mas não dá vídeo com GPU dedicada depois de troca de mesa](https://www.clubedohardware.com.br/forums/topic/1705475-pc-liga-mas-n%C3%A3o-d%C3%A1-v%C3%ADdeo-com-gpu-dedicada-depois-de-troca-de-mesa/?do=getNewComment "PC liga, mas não dá vídeo com GPU dedicada depois de troca de mesa")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [ovatsuG\_](https://www.clubedohardware.com.br/profile/1253590-ovatsug_/ "Ir ao perfil de ovatsuG_")  
-        1 hora atrás
-        
-    * [![Wesleylaun](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1058655.thumb.png.91b5babbe580735567397f731de8f111.png)](https://www.clubedohardware.com.br/profile/1058655-wesleylaun/ "Ir ao perfil de Wesleylaun")
-        
-        2
-        
-        [Tenho uma RTX 4060 8GB só que RE4 reconhece 7GB, é normal?](https://www.clubedohardware.com.br/forums/topic/1705474-tenho-uma-rtx-4060-8gb-s%C3%B3-que-re4-reconhece-7gb-%C3%A9-normal/?do=getNewComment "Tenho uma RTX 4060 8GB só que RE4 reconhece 7GB, é normal?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Wesleylaun](https://www.clubedohardware.com.br/profile/1058655-wesleylaun/ "Ir ao perfil de Wesleylaun")  
-        2 horas atrás
-        
-    * [![AntonioGabriel98876](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4bc%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1248177-antoniogabriel98876/ "Ir ao perfil de AntonioGabriel98876")
-        
-        0
-        
-        [Onde conectar a pulseira antiestática?](https://www.clubedohardware.com.br/forums/topic/1705473-onde-conectar-a-pulseira-antiest%C3%A1tica/?do=getNewComment "Onde conectar a pulseira antiestática?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [AntonioGabriel98876](https://www.clubedohardware.com.br/profile/1248177-antoniogabriel98876/ "Ir ao perfil de AntonioGabriel98876")  
-        2 horas atrás
-        
-    * [![Dersonkkj](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244232.thumb.png.ccdbe4c8bd68734cfffc27191fd379c3.png)](https://www.clubedohardware.com.br/profile/1244232-dersonkkj/ "Ir ao perfil de Dersonkkj")
-        
-        0
-        
-        [Recomendação de Cadeira Ergonômica até R$ 500,00](https://www.clubedohardware.com.br/forums/topic/1705472-recomenda%C3%A7%C3%A3o-de-cadeira-ergon%C3%B4mica-at%C3%A9-r-50000/?do=getNewComment "Recomendação de Cadeira Ergonômica até R$ 500,00")
-        
-        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
-        Por [Dersonkkj](https://www.clubedohardware.com.br/profile/1244232-dersonkkj/ "Ir ao perfil de Dersonkkj")  
-        2 horas atrás
-        
-    * [![ArturRJ](https://www.clubedohardware.com.br/uploads/members/monthly_2022_02/okazaki.thumb.jpeg.787ffc31ea5b2b7261ef1cd67bee9507.jpeg)](https://www.clubedohardware.com.br/profile/1188113-arturrj/ "Ir ao perfil de ArturRJ")
+    * [![Kevinfrc](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254716.thumb.jpeg.1855a18f2f7baff26827f63833ed1502.jpeg)](https://www.clubedohardware.com.br/profile/1254716-kevinfrc/ "Ir ao perfil de Kevinfrc")
         
         1
         
-        [Utilizar o AMDGPU com uma APU GCN 1.1 "Sea Islands"](https://www.clubedohardware.com.br/forums/topic/1705471-utilizar-o-amdgpu-com-uma-apu-gcn-11-sea-islands/?do=getNewComment "Utilizar o AMDGPU com uma APU GCN 1.1 "Sea Islands"")
+        [Mancer Thunder 600W suporta setup com Core i5-13400F e GeForce RTX 4060?](https://www.clubedohardware.com.br/forums/topic/1705502-mancer-thunder-600w-suporta-setup-com-core-i5-13400f-e-geforce-rtx-4060/?do=getNewComment "Mancer Thunder 600W suporta setup com Core i5-13400F e GeForce RTX 4060?")
         
-        [Linux](https://www.clubedohardware.com.br/forums/forum/102-linux/ "Linux")  
-        Por [ArturRJ](https://www.clubedohardware.com.br/profile/1188113-arturrj/ "Ir ao perfil de ArturRJ")  
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Kevinfrc](https://www.clubedohardware.com.br/profile/1254716-kevinfrc/ "Ir ao perfil de Kevinfrc")  
         2 horas atrás
         
-    * [![XVIII](https://www.clubedohardware.com.br/uploads/members/monthly_2017_12/DDWbNQ5UAAAQtZZ.thumb.jpg.2c31b598c9343391dbeac2f5226d219d.jpg)](https://www.clubedohardware.com.br/profile/937315-xviii/ "Ir ao perfil de XVIII")
+    * [![Jhon. Carcalho](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/images(5).thumb.jpeg.2e82232649900570860b7c73c4456f03.jpeg)](https://www.clubedohardware.com.br/profile/1036700-jhon-carcalho/ "Ir ao perfil de Jhon. Carcalho")
         
-        5
+        2
         
-        [Configuração para um pc até 5500 reais, com bom desempenho](https://www.clubedohardware.com.br/forums/topic/1705470-configura%C3%A7%C3%A3o-para-um-pc-at%C3%A9-5500-reais-com-bom-desempenho/?do=getNewComment "Configuração para um pc até 5500 reais, com bom desempenho")
+        [Qual placa de vídeo indicam para PC com Core i5-9400F?](https://www.clubedohardware.com.br/forums/topic/1705500-qual-placa-de-v%C3%ADdeo-indicam-para-pc-com-core-i5-9400f/?do=getNewComment "Qual placa de vídeo indicam para PC com Core i5-9400F?")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [XVIII](https://www.clubedohardware.com.br/profile/937315-xviii/ "Ir ao perfil de XVIII")  
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Jhon. Carcalho](https://www.clubedohardware.com.br/profile/1036700-jhon-carcalho/ "Ir ao perfil de Jhon. Carcalho")  
         2 horas atrás
         
-    * [![Nambow](https://www.clubedohardware.com.br/uploads/members/monthly_2020_11/imported-photo-1100972.thumb.jpeg.97fb07d8639d0d0e8d48f0801c91bfb4.jpeg)](https://www.clubedohardware.com.br/profile/1100972-nambow/ "Ir ao perfil de Nambow")
+    * [![Talvez nao](https://www.clubedohardware.com.br/uploads/members/monthly_2022_11/imported-photo-1207292.thumb.png.38319ef150854280366156501109bb43.png)](https://www.clubedohardware.com.br/profile/1207292-talvez-nao/ "Ir ao perfil de Talvez nao")
         
         3
         
-        [PC não dá vídeo e LED do processador acende, o que é?](https://www.clubedohardware.com.br/forums/topic/1705469-pc-n%C3%A3o-d%C3%A1-v%C3%ADdeo-e-led-do-processador-acende-o-que-%C3%A9/?do=getNewComment "PC não dá vídeo e LED do processador acende, o que é?")
+        [Pc reinicia sozinho, não instala o Windows, reparo automático direto](https://www.clubedohardware.com.br/forums/topic/1705499-pc-reinicia-sozinho-n%C3%A3o-instala-o-windows-reparo-autom%C3%A1tico-direto/?do=getNewComment "Pc reinicia sozinho, não instala o Windows, reparo automático direto")
         
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Nambow](https://www.clubedohardware.com.br/profile/1100972-nambow/ "Ir ao perfil de Nambow")  
+        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
+        Por [Talvez nao](https://www.clubedohardware.com.br/profile/1207292-talvez-nao/ "Ir ao perfil de Talvez nao")  
         2 horas atrás
         
-    * [![Vanderlucio Martins](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257896.thumb.png.019766e3b8a2a41d36869b6e9ab19d2c.png)](https://www.clubedohardware.com.br/profile/1257896-vanderlucio-martins/ "Ir ao perfil de Vanderlucio Martins")
+    * [![bikas](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4627e%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255677-bikas/ "Ir ao perfil de bikas")
         
-        3
+        7
         
-        [Placa-mãe h81m-e33 ,qual a quantidade mínima de memória pra fazer a placa-mãe](https://www.clubedohardware.com.br/forums/topic/1705468-placa-m%C3%A3e-h81m-e33-qual-a-quantidade-m%C3%ADnima-de-mem%C3%B3ria-pra-fazer-a-placa-m%C3%A3e/?do=getNewComment "Placa-mãe h81m-e33 ,qual  a quantidade mínima de  memória pra fazer  a placa-mãe")
+        [Fonte Cooler Master MWE V2 550W desarmando depois de um tempo, é defeito?](https://www.clubedohardware.com.br/forums/topic/1705498-fonte-cooler-master-mwe-v2-550w-desarmando-depois-de-um-tempo-%C3%A9-defeito/?do=getNewComment "Fonte Cooler Master MWE V2 550W desarmando depois de um tempo, é defeito?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [bikas](https://www.clubedohardware.com.br/profile/1255677-bikas/ "Ir ao perfil de bikas")  
+        3 horas atrás
+        
+    * [![Geru](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/8c744003634c653cc63ba6303b6ac944.thumb.jpg.87f6bbbf25aaefb1f6bef934a3f8d7bc.jpg)](https://www.clubedohardware.com.br/profile/1257912-geru/ "Ir ao perfil de Geru")
+        
+        4
+        
+        [Ryzen 7 5800x 60 graus com deepcool LE500?](https://www.clubedohardware.com.br/forums/topic/1705497-ryzen-7-5800x-60-graus-com-deepcool-le500/?do=getNewComment "Ryzen 7 5800x 60 graus com deepcool LE500?")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Geru](https://www.clubedohardware.com.br/profile/1257912-geru/ "Ir ao perfil de Geru")  
+        3 horas atrás
+        
+    * [![Lucas Machado Barbosa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257846.thumb.png.4d92e1e38b412d85a2f8159bfb7a0925.png)](https://www.clubedohardware.com.br/profile/1257846-lucas-machado-barbosa/ "Ir ao perfil de Lucas Machado Barbosa")
+        
+        0
+        
+        [PC full custom da terabyte com serviço de montagem](https://www.clubedohardware.com.br/forums/topic/1705496-pc-full-custom-da-terabyte-com-servi%C3%A7o-de-montagem/?do=getNewComment "PC full custom da terabyte com serviço de montagem")
+        
+        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
+        Por [Lucas Machado Barbosa](https://www.clubedohardware.com.br/profile/1257846-lucas-machado-barbosa/ "Ir ao perfil de Lucas Machado Barbosa")  
+        3 horas atrás
+        
+    * [![Charles Formagio](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256354.thumb.png.e4eaefe60dec88c3889197c2760b94dc.png)](https://www.clubedohardware.com.br/profile/1256354-charles-formagio/ "Ir ao perfil de Charles Formagio")
+        
+        2
+        
+        [BIOS placa-mãe GA-970A-DS3P REV 2.1](https://www.clubedohardware.com.br/forums/topic/1705495-bios-placa-m%C3%A3e-ga-970a-ds3p-rev-21/?do=getNewComment "BIOS placa-mãe GA-970A-DS3P REV 2.1")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Vanderlucio Martins](https://www.clubedohardware.com.br/profile/1257896-vanderlucio-martins/ "Ir ao perfil de Vanderlucio Martins")  
+        Por [Charles Formagio](https://www.clubedohardware.com.br/profile/1256354-charles-formagio/ "Ir ao perfil de Charles Formagio")  
         3 horas atrás
         
     
