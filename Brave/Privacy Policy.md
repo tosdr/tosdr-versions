@@ -1,4 +1,4 @@
-LAST UPDATED May 14, 2024
+LAST UPDATED December 13, 2024
 
 Brave Browser Privacy Policy
 ============================
@@ -75,7 +75,7 @@ Brave does not track any of the actions you make in your wallet. We strive to pu
 
 * Brave proxies and strips the IP address associated with access to the Brave Wallet.
 * When you make a transaction using a third party that redirects you to their services, such as an on-ramp partner, they will capture your IP address and may conduct identity verification checks in order to meet obligations they have under sanctions and anti-money laundering laws. You should review the privacy notices and terms of service of those third parties.
-* We use Decentralised Exchange Aggregators (DEX) such as [0x](https://www.0x.org/about/mission) for swaps made on EVM compatible blockchains and [Jupiter](https://jup.ag/) for swaps completed on the Solana blockchain. They will also process your wallet address, related transaction data and your IP address but will ONLY use this data to fulfil the transaction (including getting a quote).
+* We use Decentralised Exchange Aggregators (DEX) such as [0x](https://www.0x.org/about/mission) for swaps made on EVM compatible blockchains and [Jupiter](https://jup.ag/) for swaps completed on the Solana blockchain. They will also process your wallet address, related transaction data and your IP address but will ONLY use this data to fulfill the transaction (including getting a quote).
 * We will use anonymized and aggregated statistics from on-ramp partners that include regional volumes of transactions, including daily number of transactions by token/chain; daily $ volume of transactions by token/chain; monthly unique transactions by token/chain. We use this statistical data to understand at a high level which cryptocurrency assets are being used and on which platforms.
 
 Brave News[](#brave-news "Permalink to this headline")
@@ -145,7 +145,7 @@ You can subscribe to Brave Firewall + VPN in two ways: via [account.brave.com](h
 Brave Leo[](#brave-leo "Permalink to this headline")
 ----------------------------------------------------
 
-The Brave Leo AI private chat feature provides summaries of the webpage you’re browsing via a chat interface that allows you to submit questions and receive responses about the content of that page. You can also ask Brave Leo questions in general and enable automatic suggested questions. Brave browser shares with the server your latest prompt, the context of your current conversation and, when the use case calls for it, the necessary context from the page you’re viewing. Note that once a chat is closed all record of it is erased. 
+The Brave Leo AI private chat feature provides summaries of the webpage you’re browsing via a chat interface that allows you to submit questions and receive responses about the content of that page. You can also ask Brave Leo questions in general and enable automatic suggested questions. Brave browser shares with the server your latest prompt, the context of your current conversation and, when the use case calls for it, the necessary context from the page you’re viewing.
 
 Brave Leo privacy protections include:
 
@@ -158,6 +158,8 @@ Brave Leo privacy protections include:
 The accuracy of summaries and responses to questions is not guaranteed and may include inaccurate, misleading, and/or false information. You should not submit sensitive or private information in Leo, and should exercise caution with any text related to health, finance, personal safety, or similar cases.
 
 Brave Leo is powered by different AI models which you can select, including self-hosted implementations of open-source models, such as Meta’s Llama 2 and Mistral AI models, and models provided by 3rd parties, such as Anthropic’s Claude models. More information on each model, rate limits, and defaults can be found in the Brave Leo wiki [https://github.com/brave/brave-browser/wiki/Brave-Leo](https://github.com/brave/brave-browser/wiki/Brave-Leo)
+
+If you have the [chat history feature](https://support.brave.com/hc/en-us/articles/32663367857549-How-do-I-use-Chat-History-in-Brave-Leo), conversations are encrypted and stored locally on your device. These saved conversations are not persisted on Brave’s servers and are not used for model training. You can disable conversation storage or clear saved chats through Settings. When you clear your browsing history, any associated webpage content in your chats will also be removed. Chat history is not available in Incognito or Tor modes.
 
 Submitting a prompt may include context from the current web page you are viewing, and if you enable automatic suggested questions, the page contents of your navigations will be sent to Leo to generate these suggestions while Leo is open. You can change these options any time in Settings.
 
@@ -267,7 +269,7 @@ These incomplete versions of Brave represent unfinished and untested work on fut
 Help with privacy settings in Brave[](#help-with-privacy-settings-in-brave "Permalink to this headline")
 --------------------------------------------------------------------------------------------------------
 
-You can find guides on how to change privacy settings in Brave [in the Help Center.](https://support.brave.com/hc/en-us/articles/360017989132-How-do-I-change-my-Privacy-Settings-).
+You can find guides on how to change privacy settings in Brave [in the Help Center](https://support.brave.com/hc/en-us/articles/360017989132-How-do-I-change-my-Privacy-Settings-).
 
 Contacting Brave about your personal data and privacy rights[](#contacting-brave-about-your-personal-data-and-privacy-rights "Permalink to this headline")
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
