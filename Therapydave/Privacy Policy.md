@@ -112,7 +112,7 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 
 _Last updated: November 14, 2024_
 
-_“To be honest, I was scared that couples therapy would just give us another place to fight and make things worse between us. But I was completely wrong. Instead, my wife and I learned how to really talk and listen to each other. We started working together as a team instead of always butting heads. Therapy didn't just help us fix our problems - it actually made our relationship stronger and showed us how to be better partners for each other. I'm really glad we gave it a chance because it's made a big difference in our marriage and our happiness together.”_
+_“Working with Dave has been just what we needed. He doesn’t sugarcoat things, and that honesty helped us really see our issues and understand each other better. With his guidance, we’ve finally been able to work through some of our long-standing struggles and actually make progress. We couldn’t have done it without his support.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
