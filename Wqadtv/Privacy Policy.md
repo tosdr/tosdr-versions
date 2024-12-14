@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/259446dc-b7a0-4050-938c-164552e1ed53/259446dc-b7a0-4050-938c-164552e1ed53_16x9.png) ![](https://media.tegna-media.com/assets/WQAD/images/259446dc-b7a0-4050-938c-164552e1ed53/259446dc-b7a0-4050-938c-164552e1ed53_360x203.png)](https://www.wqad.com/article/weather/closings/inclement-weather-closes-business-postponements/526-ec7045dd-18b4-40bb-88b7-32c5ff37c88d)
+        
+        #### [Icy roads lead to local business closures and event postponements](https://www.wqad.com/article/weather/closings/inclement-weather-closes-business-postponements/526-ec7045dd-18b4-40bb-88b7-32c5ff37c88d)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/a75dd119-9dec-4e36-aca0-5d043ea12b11/20241214T013801/a75dd119-9dec-4e36-aca0-5d043ea12b11_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a75dd119-9dec-4e36-aca0-5d043ea12b11/20241214T013801/a75dd119-9dec-4e36-aca0-5d043ea12b11_360x203.jpg)](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade)
         
         #### [Renovations underway at Modern Woodmen Park](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/13c2d01f-fa3e-453e-bd3d-d66a65143f64/20241214T000608/13c2d01f-fa3e-453e-bd3d-d66a65143f64_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/13c2d01f-fa3e-453e-bd3d-d66a65143f64/20241214T000608/13c2d01f-fa3e-453e-bd3d-d66a65143f64_360x203.jpg)](https://www.wqad.com/article/news/local/dixon-rita-crumwell-biden-comptroller-pardon-commute/526-800e8733-dd1b-4bf9-b9f5-00f3b90fc0b4)
-        
-        #### [Dixon residents stunned by Biden's commutation of former comptroller Rita Crundwell](https://www.wqad.com/article/news/local/dixon-rita-crumwell-biden-comptroller-pardon-commute/526-800e8733-dd1b-4bf9-b9f5-00f3b90fc0b4)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/29b962c7-8b08-4312-a843-c24d8310949b/20241214T140954/29b962c7-8b08-4312-a843-c24d8310949b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/29b962c7-8b08-4312-a843-c24d8310949b/20241214T140954/29b962c7-8b08-4312-a843-c24d8310949b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/259446dc-b7a0-4050-938c-164552e1ed53/259446dc-b7a0-4050-938c-164552e1ed53_16x9.png) ![](https://media.tegna-media.com/assets/WQAD/images/259446dc-b7a0-4050-938c-164552e1ed53/259446dc-b7a0-4050-938c-164552e1ed53_360x203.png)](https://www.wqad.com/article/weather/closings/inclement-weather-closes-business-postponements/526-ec7045dd-18b4-40bb-88b7-32c5ff37c88d)
         
-        #### [Weather Impact Alert: Ice Storm WARNING](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Icy roads lead to local business closures and event postponements](https://www.wqad.com/article/weather/closings/inclement-weather-closes-business-postponements/526-ec7045dd-18b4-40bb-88b7-32c5ff37c88d)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/quad-cities-davenport-moline-weather-wind-chill-impact-alert-cold-temperatures/526-19b4b966-eb08-4210-8ec0-32e337ffddd2)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/f6bbe81b-b677-4f12-b9a5-9f865484e82e/20241214T210622/f6bbe81b-b677-4f12-b9a5-9f865484e82e_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/f6bbe81b-b677-4f12-b9a5-9f865484e82e/20241214T210622/f6bbe81b-b677-4f12-b9a5-9f865484e82e_360x203.jpg)](https://www.wqad.com/article/news/nation-world/tornado-warning-san-francisco-ice-storms-iowa-nebraska/507-5687ff4c-ab1f-4835-981d-22a104c228ca)
         
-        #### [Weather Impact Alert issued for Thursday, Dec. 12 due to dangerously low wind chills](https://www.wqad.com/article/weather/weather-impact/quad-cities-davenport-moline-weather-wind-chill-impact-alert-cold-temperatures/526-19b4b966-eb08-4210-8ec0-32e337ffddd2)
+        #### [Storms encase Great Plains in ice and generate rare tornado warning in San Francisco](https://www.wqad.com/article/news/nation-world/tornado-warning-san-francisco-ice-storms-iowa-nebraska/507-5687ff4c-ab1f-4835-981d-22a104c228ca)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -97,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-29°
+33°
 
-![Freezing Rain](/assets/shared-images/weather-icons/wintry-mix-day_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
