@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr ethics](/freeblr/ethics/card.svg)](https://jarick.works/freeblr/ethics)[![freeblr limited government minarchism versus anarchism](/freeblr/limited-government/minarchism-versus-anarchism/card.svg)](https://jarick.works/freeblr/limited-government/minarchism-versus-anarchism)[![freeblr health government makes healthcare worse and more expensive](/freeblr/health/government-makes-healthcare-worse-and-more-expensive/card.svg)](https://jarick.works/freeblr/health/government-makes-healthcare-worse-and-more-expensive)[![freeblr government what is authority](/freeblr/government/what-is-authority/card.svg)](https://jarick.works/freeblr/government/what-is-authority)
+[![freeblr government government is force](/freeblr/government/government-is-force/card.svg)](https://jarick.works/freeblr/government/government-is-force)[![spekr what is communism](/spekr/what-is-communism/card.svg)](https://jarick.works/spekr/what-is-communism)[![freeblr war day of infamy july 26 1941](/freeblr/war/day-of-infamy-july-26-1941/card.svg)](https://jarick.works/freeblr/war/day-of-infamy-july-26-1941)[![freeblr government democracy is slavery](/freeblr/government/democracy-is-slavery/card.svg)](https://jarick.works/freeblr/government/democracy-is-slavery)
 
 [Follow](#follow)
 
