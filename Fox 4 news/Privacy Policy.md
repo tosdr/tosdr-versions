@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Amber Alert issued for abducted 7-year-old out of San Jacinto County](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/32/18/hazel-hodge.jpg?ve=1&tl=1)
+ [![Widow of slain Lewisville pawn shop owner finds closure after murder conviction](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-peyton-lewisville-pawn-shop-owner-murdered-9p_00.00.06.58.png?ve=1&tl=1)
 
- ![Amber Alert issued for abducted 7-year-old out of San Jacinto County](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/32/18/592/333/hazel-hodge.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-issued-7-year-old-out-san-jacinto-county)
+ ![Widow of slain Lewisville pawn shop owner finds closure after murder conviction](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-peyton-lewisville-pawn-shop-owner-murdered-9p_00.00.06.58.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/widow-slain-lewisville-pawn-shop-owner)
 
-### [Amber Alert issued for abducted 7-year-old out of San Jacinto County](https://www.fox4news.com/news/amber-alert-issued-7-year-old-out-san-jacinto-county)
+### [Widow of slain Lewisville pawn shop owner finds closure after murder conviction](https://www.fox4news.com/news/widow-slain-lewisville-pawn-shop-owner)
 
- [![Randy Moss reveals cancer diagnosis; recovering from surgery](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/randy-moss1.jpg?ve=1&tl=1)
+ [![White Settlement kidnapping suspect arrested after wild police chase ends in crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/white-settlement-police-chase.jpg?ve=1&tl=1)
 
- ![Randy Moss reveals cancer diagnosis; recovering from surgery](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/randy-moss1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/randy-moss-reveals-cancer-diagnosis-recovering-from-surgery)
+ ![White Settlement kidnapping suspect arrested after wild police chase ends in crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/white-settlement-police-chase.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/white-settlement-kidnapping-chase-crash-reginald-jameson)
 
-### [Randy Moss reveals cancer diagnosis; recovering from surgery](https://www.fox4news.com/news/randy-moss-reveals-cancer-diagnosis-recovering-from-surgery)
+### [White Settlement kidnapping suspect arrested after wild police chase ends in crash](https://www.fox4news.com/news/white-settlement-kidnapping-chase-crash-reginald-jameson)
 
- [![Safety changes coming to Loop 12, 'the deadliest roadway in Dallas'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/vo-newsbrief-1-loop-12_00.00.00.52.jpg?ve=1&tl=1)
+ [![Taylor Swift makes surprise visit to KC children’s hospital: 'She was amazing'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2166943469.jpg?ve=1&tl=1)
 
- ![Safety changes coming to Loop 12, 'the deadliest roadway in Dallas'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/vo-newsbrief-1-loop-12_00.00.00.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/loop-12-safety-changes)
+ ![Taylor Swift makes surprise visit to KC children’s hospital: 'She was amazing'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2166943469.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/taylor-swift-kc-childrens-hospital)
 
-### [Safety changes coming to Loop 12, 'the deadliest roadway in Dallas'](https://www.fox4news.com/news/loop-12-safety-changes)
+### [Taylor Swift makes surprise visit to KC children’s hospital: 'She was amazing'](https://www.fox4news.com/news/taylor-swift-kc-childrens-hospital)
 
- [![Father-son duo graduates from UT Arlington with master's degrees](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-dionne-uta-fall-commencement-father-son-530p_00.00.22.30.jpg?ve=1&tl=1)
+ [![Knife-wielding man who 'wanted to harm police' shot and killed by DeSoto police officer](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-desoto-hunters-creek-ois-9p_00.00.00.00.jpg?ve=1&tl=1)
 
- ![Father-son duo graduates from UT Arlington with master's degrees](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-dionne-uta-fall-commencement-father-son-530p_00.00.22.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/father-son-duo-graduates-from-ut-arlington-masters-degrees)
+ ![Knife-wielding man who 'wanted to harm police' shot and killed by DeSoto police officer](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-desoto-hunters-creek-ois-9p_00.00.00.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/knife-wielding-man-who-wanted-harm-police-shot-killed-desoto-police-officer)
 
-### [Father-son duo graduates from UT Arlington with master's degrees](https://www.fox4news.com/news/father-son-duo-graduates-from-ut-arlington-masters-degrees)
+### [Knife-wielding man who 'wanted to harm police' shot and killed by DeSoto police officer](https://www.fox4news.com/news/knife-wielding-man-who-wanted-harm-police-shot-killed-desoto-police-officer)
 
- [![FBI says tip from San Francisco police helped identify UnitedHealth CEO shooting suspect](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/12/32/18/luigi-mangione.jpg?ve=1&tl=1)
+ [![TikTok denied request to halt potential US ban](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/tiktok1.jpg?ve=1&tl=1)
 
- ![FBI says tip from San Francisco police helped identify UnitedHealth CEO shooting suspect](https://images.foxtv.com/images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/12/32/18/592/333/luigi-mangione.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fbi-says-tip-from-san-francisco-police-helped-identify-unitedhealth-ceo-shooting-suspect)
+ ![TikTok denied request to halt potential US ban](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/tiktok1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tiktok-denied-request-halt-potential-us-ban)
 
-### [FBI says tip from San Francisco police helped identify UnitedHealth CEO shooting suspect](https://www.fox4news.com/news/fbi-says-tip-from-san-francisco-police-helped-identify-unitedhealth-ceo-shooting-suspect)
+### [TikTok denied request to halt potential US ban](https://www.fox4news.com/news/tiktok-denied-request-halt-potential-us-ban)
 
 ###### [News](https://www.fox4news.com/news)
 
