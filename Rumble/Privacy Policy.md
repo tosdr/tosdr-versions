@@ -202,123 +202,117 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Dr Disrespect
+[Badlands Media
 
-7.26K](https://rumble.com/v5yyg4h-live-dr-disrespect-what-happened-to-warzone.html "Dr Disrespect")
+7.19K](https://rumble.com/v5ytlj2-eye-of-the-storm-ep-199-900-pm-et-.html "Badlands Media")
 
-[The Jimmy Dore Show
+[Akademiks
 
-3.9K](https://rumble.com/v5z0zm8-fbi-confirms-capitol-on-jan.-6-was-crawling-w-feds-cnns-syria-prison-lies-d.html "The Jimmy Dore Show")
+3.39K](https://rumble.com/v5z3yb2-jay-z-scores-major-win-as-his-accuser-admits-she-lied-tory-backs-drake-in-w.html "Akademiks")
 
 [NEWSMAX
 
-2.02K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
-
-[Barry Cunningham
-
-674](https://rumble.com/v5z07jt-trump-daily-briefing-39-days-to-go-and-the-democrats-are-freaking-out.html "Barry Cunningham")
-
-[Badlands Media
-
-344](https://rumble.com/v5ytheq-the-conscious-strength-show-ep.-25-400-pm-et-.html "Badlands Media")
+1.51K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
 [Lofi Girl
 
-188](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+163](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
-[VIVA TV
+[World Poker Tour
 
-100](https://rumble.com/v5yzl1e-barstool-iracing-on-a-friday-with-spider-and-josh-bilicki-presented-by-van-.html "VIVA TV")
-
-[barstoolsports
-
-98](https://rumble.com/v5yzl1e-barstool-iracing-on-a-friday-with-spider-and-josh-bilicki-presented-by-van-.html "barstoolsports")
+40](https://rumble.com/v5xyzx5-wpt-live-wpt-prime-championship-2024-wpt-world-championship.html "World Poker Tour")
 
 [Major League Fishing
 
 1](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
 
-[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
+[Bitcoin.com](https://rumble.com/c/Bitcoincom "Bitcoin.com")
 
-[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
+[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
 
-[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
+[Eddie Bravo](https://rumble.com/c/eddiebravo "Eddie Bravo")
 
-[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
+[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
 
-[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
+[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
 
-[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
+[My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
 
-[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
-
-[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
-
-[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
-
-[Akademiks](https://rumble.com/c/Akademiks "Akademiks")
-
-[Lights, Camera, Barstool](https://rumble.com/c/LightsCameraBarstool "Lights, Camera, Barstool")
-
-[Dana Beers](https://rumble.com/c/danabeers "Dana Beers")
-
-[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
-
-[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
-
-[World Poker Tour](https://rumble.com/c/WorldPokerTour "World Poker Tour")
-
-[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
-
-[Scumbag Golf](https://rumble.com/c/scumbagolf "Scumbag Golf")
-
-[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
-
-[Please End This](https://rumble.com/c/pleaseendthis "Please End This")
-
-[The Osbournes](https://rumble.com/c/TheOsbournesPodcast "The Osbournes")
-
-[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
-
-[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
-
-[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
-
-[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
-
-[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
-
-[Breaking Points](https://rumble.com/c/BreakingPoints "Breaking Points")
-
-[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
-
-[Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
-
-[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
-
-[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
-
-[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
+[The War Effort Podcast](https://rumble.com/c/THEWAREFFORTPODCAST "The War Effort Podcast")
 
 [Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
 
-[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
+[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
 
 [Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
 
-[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
+[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
 
-[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
+[vivafrei](https://rumble.com/user/vivafrei "vivafrei")
 
-[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
+[Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
 
-[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
+[After Skool](https://rumble.com/c/AfterSkool "After Skool")
+
+[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
+
+[Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
+
+[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
+
+[Please End This](https://rumble.com/c/pleaseendthis "Please End This")
+
+[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
+
+[Caleb Hammer](https://rumble.com/c/calebhammerFA "Caleb Hammer")
+
+[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
+
+[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
+
+[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
+
+[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
+
+[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
 
 [Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
 
-[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
+[Mostly Sports With Mark Titus and Brandon Walker](https://rumble.com/c/MostlySportsTitusandWalker "Mostly Sports With Mark Titus and Brandon Walker")
 
-[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
+[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
+
+[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
+
+[Twisted History](https://rumble.com/c/TwistedHistory "Twisted History")
+
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
+
+[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
+
+[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
+
+[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
+
+[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
+
+[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
+
+[BarstoolX](https://rumble.com/c/BarstoolX "BarstoolX")
+
+[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
+
+[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
+
+[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
+
+[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
+
+[Graham Allen](https://rumble.com/c/GrahamAllenOfficial "Graham Allen")
+
+[THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
+
+[The Kai 'N Speed Show](https://rumble.com/c/KaiNSpeed "The Kai 'N Speed Show")
 
 ### Theme
 
