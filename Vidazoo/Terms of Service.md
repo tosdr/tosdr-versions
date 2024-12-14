@@ -2,9 +2,9 @@
 
 Vidazoo Legal](https://vidazoo.gitbook.io/vidazoo-legal)
 
-More
+Search...
 
-SearchCtrl + K
+Ctrl + K
 
 * [Legal Resources](https://vidazoo.gitbook.io/vidazoo-legal)
     
