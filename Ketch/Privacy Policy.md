@@ -294,7 +294,7 @@ New
 Privacy Policy
 ==============
 
-#### Last updated and effective as of: September 26, 2023
+#### Last updated and effective as of: February 26, 2024
 
 ### 1\. Welcome to Ketch!
 
@@ -688,7 +688,7 @@ Ketch users may exercise their rights regarding their personal information as fo
     
 
   
-Alan Chapell is Ketch’s worldwide data protection officer; and he may be contacted at [dpo@ketch.com](mailto:dpo@ketch.com).  
+Matt George is Ketch’s worldwide data protection officer; and he may be contacted at [dpo@ketch.com](mailto:dpo@ketch.com).  
 
   
 VeraSafe has been appointed as Ketch's representative in the European Union and in the United Kingdom for data protection matters, pursuant to Article 27 of the General Data Protection Regulation of the European Union. If you are unable to reach Ketch as otherwise described in this section, VeraSafe can be contacted on matters related to the processing of personal data under GDPR. To make such an inquiry, please contact VeraSafe using this contact [form](https://www.verasafe.com/privacy-services/contact-article-27-representative/) or via telephone at [+420 228 881 031](tel:+420228881031) (Netherlands) or [+44 (20) 4532 2003](mailto:+44%20(20)%204532%202003) (UK).  
