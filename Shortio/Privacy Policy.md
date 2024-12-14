@@ -1,4 +1,4 @@
-       [![Short.io link shortener](/_astro/logo_short-on-dark.Bmx510Ta_Z1mpxlK.svg) ![Short.io link shortener](/_astro/logo_wide-on-light.XXLZ1x0f_Z1gDbNL.svg)  ![Short.io link shortener](/_astro/logo_wide-on-dark.9C1lO64Y_Z1L7sJf.svg)  ![Short.io link shortener](/_astro/logo_short-on-light.DJ5gXKvL_Z22U9JB.svg)](https://short.io/)
+       [![Short.io link shortener](/_astro/logo_short-on-dark.Bmx510Ta_Z2t05AN.svg) ![Short.io link shortener](/_astro/logo_wide-on-light.XXLZ1x0f_22DDUf.svg)  ![Short.io link shortener](/_astro/logo_wide-on-dark.9C1lO64Y_Z1vqcy9.svg)  ![Short.io link shortener](/_astro/logo_short-on-light.DJ5gXKvL_1m629Q.svg)](https://short.io/)
 
 * [pricing](https://short.io/pricing/)
 * [features](https://short.io/features/)
@@ -40,7 +40,7 @@ Short.cm
 Types of Data collected
 -----------------------
 
-Among the types of Personal Data that short.io collects, by itself or through third parties, there are: email address; Usage Data; Cookies; number of Users; session statistics; password; IP address; device information; browser information; operating systems; city; ZIP/Postal code; state; county; country; latitude (of city); longitude (of city); metro area; geography/region; answers to questions; Data communicated in order to use the Service; session duration; Application opens; launches.
+Among the types of Personal Data that short.io collects, by itself or through third parties, there are: email address; Usage Data; Cookies; number of Users; session statistics; password; IP address; device information; browser information; operating systems; city; ZIP/Postal code; state; county; country; latitude (of city); longitude (of city); metro area; geography/region; answers to questions; Data communicated in order to use the Service; session duration; Application opens; launches; Data communicated while using the service.
 
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using short.io.  
@@ -163,6 +163,14 @@ Personal Data is collected for the following purposes and using the following se
     Personal Data processed: various types of Data as specified in the privacy policy of the service.
     
     Place of processing: See the Amazon privacy policy – [Privacy Policy](https://aws.amazon.com/privacy/).
+    
+    #### OpenAI API (OpenAI, L.L.C.)
+    
+    The OpenAI API provided by OpenAI, L.L.C. is a service that helps the Owner to automate tasks through its AI engine.
+    
+    Personal Data processed: Data communicated while using the service.
+    
+    Place of processing: United States – [Privacy Policy](https://openai.com/policies/privacy-policy).
     
 * ### Infrastructure monitoring
     
@@ -451,7 +459,7 @@ Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons,
 
 This privacy policy relates solely to short.io, if not stated otherwise within this document.
 
-Latest update: August 07, 2024
+Latest update: December 03, 2024
 
 Cookie Policy of short.io
 -------------------------
@@ -732,13 +740,13 @@ Tracker indicates any technology - e.g Cookies, unique identifiers, web beacons,
 
 This privacy policy relates solely to short.io, if not stated otherwise within this document.
 
-Latest update: August 07, 2024
+Latest update: December 03, 2024
 
-Version: 2
+Version: 3
 
 Withdraw consent
 
-  ![Short.io logo](/_astro/logo_wide-on-dark.9C1lO64Y_2gXgII.svg)[info@short.io](mailto:info@short.io)  ![Short.io help](/_astro/medium-footer.CjAPDrQZ_2jsOcW.png)
+  ![Short.io logo](/_astro/logo_wide-on-dark.9C1lO64Y_Z1vqcy9.svg)[info@short.io](mailto:info@short.io)  ![Short.io help](/_astro/medium-footer.CjAPDrQZ_7CxGn.png)
 
 Product
 
@@ -784,6 +792,6 @@ Choose a Language:
 * [Українська](https://short.io/uk)
 * [中文](https://short.io/zh)
 
- [![twitter icon](/_astro/twitter.B8D3n_Py_s7JCk.svg)](https://twitter.com/short_io)[![linkedin icon](/_astro/linkedin.CZNQ2UKL_1YwAWl.svg)](https://www.linkedin.com/company/short.cm)[![facebook icon](/_astro/fb.tUO53PyI_2mC1ib.svg)](https://www.facebook.com/shortio.links)
+ [![twitter icon](/_astro/twitter.B8D3n_Py_1LJRHb.svg)](https://twitter.com/short_io)[![linkedin icon](/_astro/linkedin.CZNQ2UKL_Z84osA.svg)](https://www.linkedin.com/company/short.cm)[![facebook icon](/_astro/fb.tUO53PyI_D4yQz.svg)](https://www.facebook.com/shortio.links)
 
 © Copyright 2015-2024 Short.cm Inc. All Rights Reserved. [Terms & Conditions](https://short.io/terms) [Privacy Policy and GDPR](https://short.io/privacy)
