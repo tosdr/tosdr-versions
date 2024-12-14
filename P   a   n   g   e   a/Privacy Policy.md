@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,772 members - 452,861,101 ads shown  
+131,773 members - 452,863,292 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -44,7 +44,7 @@ CREATE ACCOUNT
 WHAT IS LAYERED ADVERTISING?  
 This uses just ONE step to explode multiple ads out all at once, including: your email ad and post a banner ad all with just one click. No credits to assign, no hassles, so this is a serious time saver!  
   
-You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,772 MEMBERS!  
+You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,773 MEMBERS!  
   
   
 
@@ -57,11 +57,11 @@ paid member banners
 
 [![](https://theclickgenerator.com/images/125x125.gif)](https://theclickgenerator.com/index.php?r=nick57du)
 
-[![](https://submitads4free.com/getimg.php?id=11)](https://submitads4free.com/?rid=2636)
+[![](https://submitads4free.com/getimg.php?id=13)](https://submitads4free.com/?rid=3834)
 
-[![](https://profitslion.com/banimg1252.gif)](https://profitslion.com/sabdev)
+[![](https://imgallery.llsvr.com/jeffaman.665f8c470cd25.gif)](https://track.toprated.vip/maryanne450)
 
-[![](https://cherrytraffic.com/ban2.gif)](https://cherrytraffic.com/pickinpea)
+[![](https://ezbanex.com/images/fb-125x125.png)](https://ezbanex.com/r/1645)
 
 ![](26yrs0.gif)
 
