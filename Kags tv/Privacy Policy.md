@@ -56,7 +56,7 @@ Navigation
         
     *  [![](https://media.kagstv.com/assets/KCEN/images/decbb1ba-246d-4df9-ac44-d8567565369c/20241211T230327/decbb1ba-246d-4df9-ac44-d8567565369c_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/decbb1ba-246d-4df9-ac44-d8567565369c/20241211T230327/decbb1ba-246d-4df9-ac44-d8567565369c_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
-        #### [Another Chilly Night Followed by Another Mild Afternoon Tomorrow | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+        #### [Rain Chances Increase Tonight and Last into Saturday | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -97,9 +97,9 @@ Navigation
 
 Bryan, TX »
 
-64°
+63°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
