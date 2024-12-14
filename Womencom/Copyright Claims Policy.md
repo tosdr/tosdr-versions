@@ -56,7 +56,19 @@
     
     By Rose McMackin [Read More](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
     
-* *  [![A woman with winged eyeliner and pink lipstick](https://www.women.com/img/gallery/outdated-beauty-trends-to-leave-in-2024/intro-1733768782.jpg)](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+* *  [![Sabrina Carpenter smiling and looking to the side](https://www.women.com/img/gallery/the-best-dating-advice-we-learned-from-sabrina-carpenter-songs/intro-1733761713.jpg)](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+        
+        [Relationships](https://www.women.com/category/relationships/)
+        
+        [Relationships](https://www.women.com/category/relationships/) By Madison Emily Whisenand
+        
+        ### [The Best Dating Advice We Learned From Sabrina Carpenter Songs](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+        
+        Aside from cheeky lyrics and catchy melodies, one of the things that makes Sabrina Carpenter's music so compelling is its diaristic element.
+        
+        By Madison Emily Whisenand [Read More](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+        
+    *  [![A woman with winged eyeliner and pink lipstick](https://www.women.com/img/gallery/outdated-beauty-trends-to-leave-in-2024/intro-1733768782.jpg)](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -68,22 +80,22 @@
         
         By Bernadette Roe [Read More](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
         
-    *  [![Close-up of Emma Watson smiling at 2022 Paris Fashion Week](https://www.women.com/img/gallery/the-best-books-from-emma-watsons-book-club-our-shared-shelf/intro-1733425939.jpg)](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
-        
-        [Living](https://www.women.com/category/living/)
-        
-        [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
-        
-        ### [The Best Books From Emma Watson's Book Club, Our Shared Shelf](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
-        
-        Feminist essays and deeply personal nonfiction are just a few of the great books selected by Emma Watson for her book club, Our Shared Shelf.
-        
-        By Madison Emily Whisenand [Read More](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
-        
 
 More Stories
 ------------
 
+*  [![Close-up of Emma Watson smiling at 2022 Paris Fashion Week](https://www.women.com/img/gallery/the-best-books-from-emma-watsons-book-club-our-shared-shelf/intro-1733425939.jpg)](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+    
+    ### [The Best Books From Emma Watson's Book Club, Our Shared Shelf](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
+    
+    Feminist essays and deeply personal nonfiction are just a few of the great books selected by Emma Watson for her book club, Our Shared Shelf.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
+    
 *  [![Sydney Sweeney and Jonathan Davino at an event](https://www.women.com/img/gallery/red-flags-in-sydney-sweeney-and-jonathan-davinos-relationship/intro-1733863099.jpg)](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
     
     [Relationships](https://www.women.com/category/relationships/)
@@ -395,18 +407,6 @@ More Stories
     The 2024 "Wicked" movie is ultra-personal for Ariana Grande, who got several Oz-inspired tattoos, including some matching ink with her co-star Cynthia Erivo.
     
     By Emily Hutchinson [Read More](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
-    
-*  [![Jennifer Lopez in a brown cardigan and brown toned lipstick](https://www.women.com/img/gallery/jennifer-lopezs-style-transformation-since-her-ben-affleck-divorce/intro-1732038036.jpg)](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Jennifer Lopez's Style Transformation Since Her Divorce From Ben Affleck](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
-    
-    J.Lo has done a lot of internal work since her split. And that newfound happiness and bold independence has been reflected in the star's wardrobe.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1717258/jennifer-lopez-style-transformation-since-ben-affleck-divorce/)
     
 
 Back
