@@ -649,6 +649,18 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/behavior/podcast-1046-the-winter-mindset-how-norwegians-love-the-winter-and-you-can-too/)
+
+[Podcast #1,046
+
+###### The Winter Mindset](https://www.artofmanliness.com/character/behavior/podcast-1046-the-winter-mindset-how-norwegians-love-the-winter-and-you-can-too/)
+
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/advice/podcast-1045-undoing-urgency-how-to-stop-drowning-in-tasks-and-start-living-with-purpose/)
+
+[Podcast #1,045
+
+###### Undoing Urgency — How to Stop Drowning in Tasks and Start Living With Purpose](https://www.artofmanliness.com/character/advice/podcast-1045-undoing-urgency-how-to-stop-drowning-in-tasks-and-start-living-with-purpose/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/behavior/podcast-1044-what-sports-betting-is-really-doing-to-players-games-and-fans/)
 
 [Podcast #1,044
@@ -660,18 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,043
 
 ###### Achieve Peak Performance by Learning to Shift the Gears of Your Mind](https://www.artofmanliness.com/character/behavior/podcast-1043-achieve-peak-performance-by-learning-to-shift-the-gears-of-your-mind/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/etiquette/podcast-1042-flying-hosting-regifting-and-more-all-your-holiday-etiquette-questions-answered/)
-
-[Podcast #1,042
-
-###### Flying, Hosting, Regifting, and More — All Your Holiday Etiquette Questions Answered](https://www.artofmanliness.com/character/etiquette/podcast-1042-flying-hosting-regifting-and-more-all-your-holiday-etiquette-questions-answered/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/career-wealth/wealth/podcast-1041-rich-mind-vs-poor-mind-a-psychologists-guide-to-building-wealth/)
-
-[Podcast #1,041
-
-###### Rich Mind vs. Poor Mind — A Psychologist’s Guide to Building Wealth](https://www.artofmanliness.com/career-wealth/wealth/podcast-1041-rich-mind-vs-poor-mind-a-psychologists-guide-to-building-wealth/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
