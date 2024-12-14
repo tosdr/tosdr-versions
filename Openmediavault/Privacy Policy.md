@@ -80,7 +80,7 @@ Social
 * [YouTube](https://www.youtube.com/user/openmediavault)
 * [Mastodon](https://fosstodon.org/@openmediavault)
 * [X](https://x.com/OpenMediaVault)
-* [Bluesky](https://bsky.app/)
+* [Bluesky](https://bsky.app/profile/openmediavault.bsky.social)
 * [RSS](https://www.openmediavault.org/?feed=atom)
 
 Resources
