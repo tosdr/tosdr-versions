@@ -9,6 +9,7 @@
     
     * [Annuities](https://www.pacificlife.com/home/products/annuities.html "Annuities") Pacific Life offers a variety of annuities designed to help grow, protect, and manage retirement savings turning it into steady, reliable lifetime income based on your personal preferences and goals.
         * [Variable Annuities](https://www.pacificlife.com/home/products/annuities/variable-annuities.html "Variable Annuities")
+        * [Registered Index-Linked Annuities](https://www.pacificlife.com/home/products/annuities/registered-index-linked-annuities.html "Registered Index-Linked Annuities")
         * [Fixed Indexed Annuities](https://www.pacificlife.com/home/products/annuities/fixed-indexed-annuities.html "Fixed Indexed Annuities")
         * [Fixed Annuities](https://www.pacificlife.com/home/products/annuities/fixed-annuities.html "Fixed Annuities")
         * [Immediate Annuities](https://www.pacificlife.com/home/products/annuities/immediate-annuities.html "Immediate Annuities")
