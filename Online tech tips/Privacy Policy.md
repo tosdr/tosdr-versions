@@ -93,6 +93,18 @@ We use a third party to provide monetization technologies for our site. You can 
 [News](https://www.online-tech-tips.com/category/news/)
 -------------------------------------------------------
 
+[![Google Calendar app icon on an iPhone screen - google-calendar-android-app-full-screen-task-lists-view](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "google-calendar-android-app-full-screen-task-lists-view - Online Tech Tips")
+
+![Google Calendar app icon on an iPhone screen - google-calendar-android-app-full-screen-task-lists-view](https://www.online-tech-tips.com/wp-content/uploads/2024/11/google-calendar-android-app-full-screen-task-lists-view-300x200.png "google-calendar-android-app-full-screen-task-lists-view - Online Tech Tips")](https://www.online-tech-tips.com/google-calendar-android-app-gets-full-screen-task-lists-view/)
+
+[News](https://www.online-tech-tips.com/category/news/) · 2 min read
+
+### [Google Calendar Android App Gets Full Screen Task Lists View](https://www.online-tech-tips.com/google-calendar-android-app-gets-full-screen-task-lists-view/)
+
+Google integrated full-screen task lists into the Calendar web app about a year ago. The feature is now available in…
+
+Sodiq Olanrewaju · Dec 13, 2024
+
 [![YouTube Shorts dream screen background illustration - youtube-shorts-dream-screen-background-illustration](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "youtube-shorts-dream-screen-background-illustration - Online Tech Tips")
 
 ![YouTube Shorts dream screen background illustration - youtube-shorts-dream-screen-background-illustration](https://www.online-tech-tips.com/wp-content/uploads/2024/11/youtube-shorts-dream-screen-background-illustration-300x200.png "youtube-shorts-dream-screen-background-illustration - Online Tech Tips")](https://www.online-tech-tips.com/youtube-shorts-dream-screen-will-help-creators-generate-ai-video-backgrounds/)
@@ -117,9 +129,7 @@ Samsung Wallet now supports Digital Keys for select Audi vehicles. The luxury ca
 
 Sodiq Olanrewaju · Nov 20, 2024
 
-[![3D rendering of the Grok logo - 3D-rendering-of-Grok-logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "3D-rendering-of-Grok-logo - Online Tech Tips")
-
-![3D rendering of the Grok logo - 3D-rendering-of-Grok-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/11/3D-rendering-of-Grok-logo-300x200.jpg "3D-rendering-of-Grok-logo - Online Tech Tips")](https://www.online-tech-tips.com/x-is-rolling-out-a-free-tier-of-its-grok-ai-chatbot/)
+[![3D rendering of the Grok logo - 3D-rendering-of-Grok-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/11/3D-rendering-of-Grok-logo-300x200.jpg "3D-rendering-of-Grok-logo - Online Tech Tips")](https://www.online-tech-tips.com/x-is-rolling-out-a-free-tier-of-its-grok-ai-chatbot/)
 
 [News](https://www.online-tech-tips.com/category/news/) · 2 min read
 
@@ -128,16 +138,6 @@ Sodiq Olanrewaju · Nov 20, 2024
 X (formerly Twitter) is testing a free tier of Grok, its humorous AI search assistant, for non-paying users. Grok is…
 
 Sodiq Olanrewaju · Nov 13, 2024
-
-[![Google Vids dashboard sample - google-vids-dashboard-sample](https://www.online-tech-tips.com/wp-content/uploads/2024/11/google-vids-dashboard-sample-300x200.png "google-vids-dashboard-sample - Online Tech Tips")](https://www.online-tech-tips.com/google-launches-vids-an-ai-video-tool-for-workspace-users/)
-
-[News](https://www.online-tech-tips.com/category/news/) · 2 min read
-
-### [Google Launches Vids, an AI Video Tool for Workspace Users](https://www.online-tech-tips.com/google-launches-vids-an-ai-video-tool-for-workspace-users/)
-
-Announced back in April, Google is finally rolling out Vids—its video creation tool—to the Workspace ecosystem. With Google Vids, Workspace…
-
-Sodiq Olanrewaju · Nov 11, 2024
 
 [VIEW MORE POSTS](https://www.online-tech-tips.com/category/news/)
 
@@ -183,6 +183,10 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 
 #### Recent Articles
 
+* [![Google Calendar app icon on an iPhone screen - google-calendar-android-app-full-screen-task-lists-view](https://www.online-tech-tips.com/wp-content/uploads/2024/11/google-calendar-android-app-full-screen-task-lists-view-130x85.png "google-calendar-android-app-full-screen-task-lists-view - Online Tech Tips")](https://www.online-tech-tips.com/google-calendar-android-app-gets-full-screen-task-lists-view/ "Google Calendar Android App Gets Full Screen Task Lists View")
+    
+    [Google Calendar Android App Gets Full Screen Task Lists View](https://www.online-tech-tips.com/google-calendar-android-app-gets-full-screen-task-lists-view/ "Google Calendar Android App Gets Full Screen Task Lists View")Dec 13, 2024
+    
 * [![ - How to Clear Facebook Cache on iPhone - OTT - 1](https://www.online-tech-tips.com/wp-content/uploads/2024/12/preview-media-featured-clear-facebook-cache-iphone-130x85.jpg "How to Clear Facebook Cache on iPhone - OTT - 1 - Online Tech Tips")](https://www.online-tech-tips.com/how-to-clear-facebook-cache-on-iphone/ "How to Clear Facebook Cache on iPhone")
     
     [How to Clear Facebook Cache on iPhone](https://www.online-tech-tips.com/how-to-clear-facebook-cache-on-iphone/ "How to Clear Facebook Cache on iPhone")Dec 12, 2024
@@ -194,10 +198,6 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 * [![Person holding and staring a phone at the wheel of an Audi vehicle - person-holding-and-staring-a-phone-at-the-wheel-of-an-audi-vehicle](https://www.online-tech-tips.com/wp-content/uploads/2024/11/person-holding-and-staring-a-phone-at-the-wheel-of-an-audi-vehicle-130x85.jpg "person-holding-and-staring-a-phone-at-the-wheel-of-an-audi-vehicle - Online Tech Tips")](https://www.online-tech-tips.com/samsung-announces-digital-key-for-audi-vehicles/ "Samsung Announces Digital Key for Audi Vehicles")
     
     [Samsung Announces Digital Key for Audi Vehicles](https://www.online-tech-tips.com/samsung-announces-digital-key-for-audi-vehicles/ "Samsung Announces Digital Key for Audi Vehicles")Nov 20, 2024
-    
-* [![3D rendering of the Grok logo - 3D-rendering-of-Grok-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/11/3D-rendering-of-Grok-logo-130x85.jpg "3D-rendering-of-Grok-logo - Online Tech Tips")](https://www.online-tech-tips.com/x-is-rolling-out-a-free-tier-of-its-grok-ai-chatbot/ "X is Rolling Out a Free Tier of Its Grok AI Chatbot")
-    
-    [X is Rolling Out a Free Tier of Its Grok AI Chatbot](https://www.online-tech-tips.com/x-is-rolling-out-a-free-tier-of-its-grok-ai-chatbot/ "X is Rolling Out a Free Tier of Its Grok AI Chatbot")Nov 13, 2024
     
 
 [![Online Tech Tips](/wp-content/themes/ott/images/ott-banner.png)](https://www.online-tech-tips.com/)
