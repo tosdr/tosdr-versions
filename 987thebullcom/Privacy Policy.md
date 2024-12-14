@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Tennessee OrangeMegan Moroney<br><br>10:38pm |
-| I Got A GuyPost Malone Ft Luke Combs<br><br>10:35pm |
-| Tough PeopleDrew Baldridge<br><br>10:23pm |
-| Wind Up Missing YouTucker Wetmore<br><br>10:21pm |
-| Dancin' In The CountryTyler Hubbard<br><br>10:18pm |
+| HighwayShaboozey<br><br>4:39am |
+| World On FireNate Smith<br><br>4:36am |
+| Country HouseSam Hunt<br><br>4:32am |
+| Miles On ItKane Brown Ft Marshmello<br><br>4:29am |
+| Love The LeavinDrew Parker<br><br>4:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Spanish • Western
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
+Top 40 • Pacific NW
 
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Country • Western
+Sports • Midwest
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
