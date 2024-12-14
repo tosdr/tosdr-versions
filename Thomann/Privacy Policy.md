@@ -22,8 +22,8 @@ Shop now](https://www.thomann.de/intl/social_gifts-for-musicians.html)
 
 search  
 
-* [3-Year Thomann Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
-* [30-Days Money-Back](https://www.thomannmusic.com/helpdesk_moneyback.html)
+* [Repair Service](https://www.thomannmusic.com/helpdesk_repair.html)
+* [Payment Security](https://www.thomannmusic.com/helpdesk_paymentsecurity.html)
 
 en · $
 
