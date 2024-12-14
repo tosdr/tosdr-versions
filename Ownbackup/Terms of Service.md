@@ -132,13 +132,13 @@ On The Blog
 
 Beyond ITSM and CMBD: Why Every ServiceNow Application Needs a Backup Plan](https://www.ownbackup.com/blog/beyond-itsm-and-cmbd-why-every-servicenow-application-needs-a-backup-plan)
 
-[Backup and Recovery
+[Company News
 
-How Quickly Could You Recover Lost Salesforce Data?](https://www.ownbackup.com/blog/how-quickly-recover-lost-salesforce-data)
+It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-salesforce)
 
-[Backup and Recovery
+[Own Secure
 
-The Most Common Salesforce Data Backup Fears and How to Overcome Them](https://www.ownbackup.com/blog/the-most-common-salesforce-data-backup-fears-and-how-to-overcome-them)
+Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
 
 Company
 
@@ -356,13 +356,13 @@ On The Blog
 
 Beyond ITSM and CMBD: Why Every ServiceNow Application Needs a Backup Plan](https://www.ownbackup.com/blog/beyond-itsm-and-cmbd-why-every-servicenow-application-needs-a-backup-plan)
 
-[Backup and Recovery
+[Company News
 
-How Quickly Could You Recover Lost Salesforce Data?](https://www.ownbackup.com/blog/how-quickly-recover-lost-salesforce-data)
+It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-salesforce)
 
-[Backup and Recovery
+[Own Secure
 
-The Most Common Salesforce Data Backup Fears and How to Overcome Them](https://www.ownbackup.com/blog/the-most-common-salesforce-data-backup-fears-and-how-to-overcome-them)
+Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
 
 Company
 
