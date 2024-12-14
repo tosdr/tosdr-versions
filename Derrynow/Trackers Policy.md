@@ -54,7 +54,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-13 Dec 2024
+14 Dec 2024
 
 * [Home
     
@@ -257,13 +257,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1679367/derry-death-notices-friday-november-13-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, November 13, 2024](https://www.derrynow.com/news/deaths/1679367/derry-death-notices-friday-november-13-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: Doireann Garrihy's husband Mark shares intimate snaps of wedding and honeymoon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Doireann Garrihy's husband Mark shares intimate snaps of wedding and honeymoon")](https://www.derrynow.com/news/national-news/1679801/pictures-doireann-garrihy-s-husband-mark-shares-intimate-snaps-of-wedding-and-honeymoon.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
@@ -271,14 +264,19 @@ Most Popular
 [PICTURES: Doireann Garrihy's husband Mark shares intimate snaps of wedding and honeymoon](https://www.derrynow.com/news/national-news/1679801/pictures-doireann-garrihy-s-husband-mark-shares-intimate-snaps-of-wedding-and-honeymoon.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Woman fined and man jailed after 'bizarre' incident where couple entered Derry City Cemetery at 3am](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman fined and man jailed after 'bizarre' incident where couple entered Derry City Cemetery at 3am")](https://www.derrynow.com/news/local-news/1679856/woman-fined-and-man-jailed-after-bizarre-incident-where-couple-entered-derry-city-cemetery-at-3am.html)
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1679367/derry-death-notices-friday-november-13-2024.html)
 
-Derry City Cemetery
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Death Notices - Friday, November 13, 2024](https://www.derrynow.com/news/deaths/1679367/derry-death-notices-friday-november-13-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Woman fined and man jailed after 'bizarre' incident where couple entered Derry City Cemetery at 3am](https://www.derrynow.com/news/local-news/1679856/woman-fined-and-man-jailed-after-bizarre-incident-where-couple-entered-derry-city-cemetery-at-3am.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![IN PICTURES: Ulster University Winter Graduations from Coleraine campus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Ulster University Winter Graduations from Coleraine campus")](https://www.derrynow.com/story-telling/pictures---videos/1680219/in-pictures-ulster-university-winter-graduations-from-coleraine-campus.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Ulster University Winter Graduations from Coleraine campus](https://www.derrynow.com/story-telling/pictures---videos/1680219/in-pictures-ulster-university-winter-graduations-from-coleraine-campus.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man with 192 previous convictions jailed for sexually assaulting a 17-year-old Good Samaritan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man with 192 previous convictions jailed for sexually assaulting a 17-year-old Good Samaritan")](https://www.derrynow.com/news/local-news/1679878/man-with-192-previous-convictions-jailed-for-sexually-assaulting-a-17-year-old-good-samaritan.html)
 
@@ -289,6 +287,22 @@ Derry Magistrates' Court
 [Man with 192 previous convictions jailed for sexually assaulting a 17-year-old Good Samaritan](https://www.derrynow.com/news/local-news/1679878/man-with-192-previous-convictions-jailed-for-sexually-assaulting-a-17-year-old-good-samaritan.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Woman fined and man jailed after 'bizarre' incident where couple entered Derry City Cemetery at 3am](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman fined and man jailed after 'bizarre' incident where couple entered Derry City Cemetery at 3am")](https://www.derrynow.com/news/local-news/1679856/woman-fined-and-man-jailed-after-bizarre-incident-where-couple-entered-derry-city-cemetery-at-3am.html)
+
+Derry City Cemetery
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman fined and man jailed after 'bizarre' incident where couple entered Derry City Cemetery at 3am](https://www.derrynow.com/news/local-news/1679856/woman-fined-and-man-jailed-after-bizarre-incident-where-couple-entered-derry-city-cemetery-at-3am.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Dancing with the Stars: Line-up almost complete with five celebs revealed on Late Late Show](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dancing with the Stars: Line-up almost complete with five celebs revealed on Late Late Show")](https://www.derrynow.com/news/arts---entertainment/1680172/dancing-with-the-stars-line-up-almost-complete-with-five-celebs-revealed-on-late-late-show.html)
+
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+
+[Dancing with the Stars: Line-up almost complete with five celebs revealed on Late Late Show](https://www.derrynow.com/news/arts---entertainment/1680172/dancing-with-the-stars-line-up-almost-complete-with-five-celebs-revealed-on-late-late-show.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Donegal motorists caught driving on wrong side of dual carriageway while drunk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal motorists caught driving on wrong side of dual carriageway while drunk")](https://www.derrynow.com/news/local-news/1679847/donegal-motorists-caught-driving-on-wrong-side-of-dual-carriageway-while-drunk.html)
 
 Derry Magistrates' Court
@@ -298,21 +312,21 @@ Derry Magistrates' Court
 [Donegal motorists caught driving on wrong side of dual carriageway while drunk](https://www.derrynow.com/news/local-news/1679847/donegal-motorists-caught-driving-on-wrong-side-of-dual-carriageway-while-drunk.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man charged with stealing electronic tag belonging to G4S](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with stealing electronic tag belonging to G4S")](https://www.derrynow.com/news/local-news/1679782/derry-man-charged-with-stealing-electronic-tag-belonging-to-g4s.html)
+[![James Meehan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "James Meehan")](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
+
+James Meehan
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[James Meehan: Convicted murder unlawfully at large as PSNI warns public not to approach](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry woman jailed for series of offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman jailed for series of offences")](https://www.derrynow.com/news/local-news/1680138/derry-woman-jailed-for-series-of-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man charged with stealing electronic tag belonging to G4S](https://www.derrynow.com/news/local-news/1679782/derry-man-charged-with-stealing-electronic-tag-belonging-to-g4s.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man left victim with serious head injury after one-punch attack in Buncrana](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man left victim with serious head injury after one-punch attack in Buncrana")](https://www.derrynow.com/news/local-news/1680030/man-left-victim-with-serious-head-injury-after-one-punch-attack-in-buncrana.html)
-
-The man appeared at Donegal Circuit Court, which is being heard at Letterkenny courthouse
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man left victim with serious head injury after one-punch attack in Buncrana](https://www.derrynow.com/news/local-news/1680030/man-left-victim-with-serious-head-injury-after-one-punch-attack-in-buncrana.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry woman jailed for series of offences](https://www.derrynow.com/news/local-news/1680138/derry-woman-jailed-for-series-of-offences.html)
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man due to appear before court charged with possession of explosives](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man due to appear before court charged with possession of explosives")](https://www.derrynow.com/news/home/1680331/man-due-to-appear-before-court-charged-with-possession-of-explosives.html)
 
@@ -322,22 +336,6 @@ The man is charged with five offences.
 
 [Man due to appear before court charged with possession of explosives](https://www.derrynow.com/news/home/1680331/man-due-to-appear-before-court-charged-with-possession-of-explosives.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Who are the guests on tonight's Graham Norton Show on BBC One as Irish stars lead line-up](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on tonight's Graham Norton Show on BBC One as Irish stars lead line-up")](https://www.derrynow.com/news/national-news/1679706/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-one-as-irish-stars-lead-line-up.html)
-
-Photo credit: Isabel Infantes/PA Wire
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Who are the guests on tonight's Graham Norton Show on BBC One as Irish stars lead line-up](https://www.derrynow.com/news/national-news/1679706/who-are-the-guests-on-tonight-s-graham-norton-show-on-bbc-one-as-irish-stars-lead-line-up.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Ulster University Winter Graduations from Coleraine campus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Ulster University Winter Graduations from Coleraine campus")](https://www.derrynow.com/story-telling/pictures---videos/1680219/in-pictures-ulster-university-winter-graduations-from-coleraine-campus.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Ulster University Winter Graduations from Coleraine campus](https://www.derrynow.com/story-telling/pictures---videos/1680219/in-pictures-ulster-university-winter-graduations-from-coleraine-campus.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
