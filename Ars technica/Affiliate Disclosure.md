@@ -94,7 +94,7 @@ Most Read
     
 4. 4. [The optical disc onslaught continues, with LG quitting Blu-ray players](https://arstechnica.com/gadgets/2024/12/the-optical-disc-onslaught-continues-with-lg-quitting-blu-ray-players/)
     
-5. 5. [Back where it started: “Do Not Track” removed from Firefox after 13 years](https://arstechnica.com/gadgets/2024/12/firefox-one-of-the-first-do-not-track-supporters-no-longer-offers-it/)
+5. 5. [Don’t use crypto to cheat on taxes: Bitcoin bro gets 2 years](https://arstechnica.com/tech-policy/2024/12/dont-use-crypto-to-cheat-on-taxes-bitcoin-bro-gets-2-years/)
     
 
 Customize
