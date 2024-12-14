@@ -40,6 +40,8 @@ It's Not News, It's Fark
 * [Food](https://www.fark.com/food/)
 * [Politics](https://www.fark.com/politics/)
 
+[Headline of the Year 2024 Voting](https://www.fark.com/comments/13492128)
+
 > Contents
 > --------
 > 
@@ -228,11 +230,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want to see behind the curtain? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come for the Total, stay for the Farking.
+It's how we feed the squirrel
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [If you're a police officer, please don't leave a woman, who has been in a car wreck, on the side of the interstate for 6 hours due to jurisdiction disagreements](https://www.fark.com/goto/13493410) ( [wsbtv.com](https://www.fark.com/goto/13493410) ) » [(5 comments)](https://www.fark.com/comments/13493410/If-youre-a-police-officer-please-dont-leave-a-woman-who-has-been-in-a-car-wreck-on-side-of-interstate-for-6-hours-due-to-jurisdiction-disagreements) |
-| [Discussion](https://www.fark.com/discussion/) | ["My brother proposed to his girlfriend without a ring and she blames me. What do?"](https://www.fark.com/goto/13493350) ( [slate.com](https://www.fark.com/goto/13493350) ) » [(6 comments)](https://www.fark.com/comments/13493350/My-brother-proposed-to-his-girlfriend-without-a-ring-she-blames-me-What-do) |
-| [Sports](https://www.fark.com/sports/) | [Mets to do the Wright thing next summer](https://www.fark.com/goto/13493336) ( [mlb.com](https://www.fark.com/goto/13493336) ) » [(1 comment)](https://www.fark.com/comments/13493336/Mets-to-do-Wright-thing-next-summer) |
-| [Business](https://www.fark.com/business/) | [The problem with modern GPS controlled tractors is that they start trying to plough the road when the satellites go wonky](https://www.fark.com/goto/13493412) ( [yahoo.com](https://www.fark.com/goto/13493412) ) » [(2 comments)](https://www.fark.com/comments/13493412/The-problem-with-modern-GPS-controlled-tractors-is-that-they-start-trying-to-plough-road-when-satellites-go-wonky) |
-| [STEM](https://www.fark.com/stem/) | [Science can predict your friends based on your poop. So, literally, your friends are the people who can put up with your shiat](https://www.fark.com/goto/13493270) ( [sciencefriday.com](https://www.fark.com/goto/13493270) ) » [(2 comments)](https://www.fark.com/comments/13493270/Science-can-predict-your-friends-based-on-your-poop-So-literally-your-friends-are-people-who-can-put-up-with-your-shiat) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Xenu and MAGA will be represented in a new sitcom courtesy of Jenna Elfman and Tim Allen](https://www.fark.com/goto/13493214) ( [deadline.com](https://www.fark.com/goto/13493214) ) » [(2 comments)](https://www.fark.com/comments/13493214/Xenu-MAGA-will-be-represented-in-a-new-sitcom-courtesy-of-Jenna-Elfman-Tim-Allen) |
-| [Fandom](https://www.fark.com/fandom/) | [The Witcher 4, with Ciri as the protagonist. Subby is going to break his rule of no pre-orders](https://www.fark.com/goto/13493198) ( [youtube.com](https://www.fark.com/goto/13493198) ) » [(22 comments)](https://www.fark.com/comments/13493198/The-Witcher-4-with-Ciri-as-protagonist-Subby-is-going-to-break-his-rule-of-no-pre-orders) |
-| [D'awww](https://www.fark.com/dawww/) | [A man in Wisconsin has been reunited with his missing cat - who was found in Georgia 11 years after going missing. Welcome to Caturday](https://www.fark.com/goto/13492506) ( [wmtv15news.com](https://www.fark.com/goto/13492506) ) » [(0 comments)](https://www.fark.com/comments/13492506/A-man-in-Wisconsin-has-been-reunited-with-his-missing-cat-who-was-found-in-Georgia-11-years-after-going-missing-Welcome-to-Caturday) |
-| [Food](https://www.fark.com/food/) | [Dickeys keep shrinking, blame cold water in the pool](https://www.fark.com/goto/13492962) ( [eatthis.com](https://www.fark.com/goto/13492962) ) » [(20 comments)](https://www.fark.com/comments/13492962/Dickeys-keep-shrinking-blame-cold-water-in-pool) |
-| [Politics](https://www.fark.com/politics/) | [Trump hopes to make cars even more unsafe because his manstress Musk wants it that way](https://www.fark.com/goto/13493222) ( [rawstory.com](https://www.fark.com/goto/13493222) ) » [(18 comments)](https://www.fark.com/comments/13493222/Trump-hopes-to-make-cars-even-more-unsafe-because-his-manstress-Musk-wants-it-that-way) |
+| [Main](https://www.fark.com/) | [Six giant Mekong catfish found, could mean either species is not as close to extinction as feared, or giant fish fry this weekend](https://www.fark.com/goto/13493604) ( [theguardian.com](https://www.fark.com/goto/13493604) ) » [(18 comments)](https://www.fark.com/comments/13493604/Six-giant-Mekong-catfish-found-could-mean-either-species-is-not-as-close-to-extinction-as-feared-giant-fish-fry-this-weekend) |
+| [Discussion](https://www.fark.com/discussion/) | [Tonight on Smackdown: Cody & K.O. have words before tomorrow's SNME match. Bayley faces Chelsea & Michin faces Tiffany in Women's U.S. title semi-final matches & 'Melo takes on a mystery opponent. The fun starts at 8 PM ET on USA](https://www.fark.com/goto/13493492) ( [wwe.com](https://www.fark.com/goto/13493492) ) » [(1 comment)](https://www.fark.com/comments/13493492/Tonight-on-Smackdown-Cody-KO-have-words-before-tomorrows-SNME-match-Bayley-faces-Chelsea-Michin-faces-Tiffany-in-Womens-US-title-semi-final-matches-Melo-takes-on-a-mystery-opponent-The-fun-starts-at-8-PM-ET-on-USA) |
+| [Sports](https://www.fark.com/sports/) | [Tonight on Smackdown: Cody & K.O. have words before tomorrow's SNME match. Bayley faces Chelsea & Michin faces Tiffany in Women's U.S. title semi-final matches & 'Melo takes on a mystery opponent. The fun starts at 8 PM ET on USA](https://www.fark.com/goto/13493492) ( [wwe.com](https://www.fark.com/goto/13493492) ) » [(1 comment)](https://www.fark.com/comments/13493492/Tonight-on-Smackdown-Cody-KO-have-words-before-tomorrows-SNME-match-Bayley-faces-Chelsea-Michin-faces-Tiffany-in-Womens-US-title-semi-final-matches-Melo-takes-on-a-mystery-opponent-The-fun-starts-at-8-PM-ET-on-USA) |
+| [Business](https://www.fark.com/business/) | [New United Healthcare CEO says the US healthcare system is "flawed". No word on whether he was wearing a hotdog costume when he said that](https://www.fark.com/goto/13493828) ( [cnbc.com](https://www.fark.com/goto/13493828) ) » [(5 comments)](https://www.fark.com/comments/13493828/New-United-Healthcare-CEO-says-US-healthcare-system-is-flawed-No-word-on-whether-he-was-wearing-a-hotdog-costume-when-he-said-that) |
+| [STEM](https://www.fark.com/stem/) | [Invasive species / plagues the Everglades / wreaking havoc / for decades / Burma snakes](https://www.fark.com/goto/13493572) ( [theguardian.com](https://www.fark.com/goto/13493572) ) » [(3 comments)](https://www.fark.com/comments/13493572/Invasive-species-plagues-Everglades-wreaking-havoc-for-decades-Burma-snakes) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Snoop Dogg goes sci-fi](https://www.fark.com/goto/13493506) ( [nme.com](https://www.fark.com/goto/13493506) ) » [(9 comments)](https://www.fark.com/comments/13493506/Snoop-Dogg-goes-sci-fi) |
+| [Fandom](https://www.fark.com/fandom/) | [Maybe it's the energy drinks talking, Turok Origins, but you've a butt that wont quit. You got those big shooty guns there merCerebahdinojrr THIRD PERSON? Get outta here](https://www.fark.com/goto/13493670) ( [kotaku.com](https://www.fark.com/goto/13493670) ) » [(2 comments)](https://www.fark.com/comments/13493670/Maybe-its-energy-drinks-talking-Turok-Origins-but-youve-a-butt-that-wont-quit-You-got-those-big-shooty-guns-there-merCerebahdinojrr-THIRD-PERSON-Get-outta-here) |
+| [D'awww](https://www.fark.com/dawww/) | [It's not easy making friends these days](https://www.fark.com/goto/13493700) ( [newsweek.com](https://www.fark.com/goto/13493700) ) » [(0 comments)](https://www.fark.com/comments/13493700/Its-not-easy-making-friends-these-days) |
+| [Food](https://www.fark.com/food/) | [The French rule for eating salad, which if violated stains you in their eyes as (sigh) an American](https://www.fark.com/goto/13493816) ( [thetakeout.com](https://www.fark.com/goto/13493816) ) » [(2 comments)](https://www.fark.com/comments/13493816/The-French-rule-for-eating-salad-which-if-violated-stains-you-in-their-eyes-as-sigh-an-American) |
+| [Politics](https://www.fark.com/politics/) | [Biden: Feeding children to Private Prisons for cheap child slave labor is Super Sweet and I don't see what's the big deal, Jack](https://www.fark.com/goto/13493764) ( [thehill.com](https://www.fark.com/goto/13493764) ) » [(15 comments)](https://www.fark.com/comments/13493764/Biden-Feeding-children-to-Private-Prisons-for-cheap-child-slave-labor-is-Super-Sweet-I-dont-see-whats-big-deal-Jack) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 13 2024 13:42:30  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 13 2024 19:42:56  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
