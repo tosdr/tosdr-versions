@@ -229,17 +229,17 @@ Terms of Use
 
 [9th December 2024](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
 
-[![Bodycam footage from one of Kent Police's raids. Image: Kent Police](https://southwarknews.co.uk/wp-content/uploads/2024/12/cliwram-latest-1-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
-
-### [Man charged with drug supply after £5,000 cash and diamond chain found in Southwark property](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
-
-[7th December 2024](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
-
 [![Millwall head coach Neil Harris salutes the fans. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/06/N-Harris-399393-2-scaled-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
 
 ### [After the stunning rescue mission, the head coach v manager tension, the control struggle – is it a final goodbye for Neil Harris and Millwall?](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
 
 [10th December 2024](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
+
+[![L: Wyndham and Comber Estate (Google Maps). R: Leaseholders Peter and Michael.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-17.33-e1733506531831-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
+
+### [Exclusive: Over a thousand Camberwell households left ‘freezing’ as boiler serving whole estate breaks](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
+
+[9th December 2024](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
 
 ### Featured Articles
 
