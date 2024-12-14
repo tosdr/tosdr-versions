@@ -196,61 +196,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Terri Winfield
+Kobus Venter
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=159933166)  
-Baby Toddles Infant Care
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=77276977)  
+Eruca (PTY)Ltd
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=63568798)  
-Leef in Afrikaans
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=85976925)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=81205183)  
-Lion Software Develepment
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=110529901)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=73388573)  
-Abandoned Vehicle and Truck Solutions
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=40749362)  
+West Coast Horse Trails
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=191792967)  
-OrgChart Hosting Pty Ltd
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=154688266)  
+Vplay Grafix
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=29810105)  
-Vplay Letsheng Mall
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=149728325)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=122182613)  
-Lizzy Pop PTY(Ltd)
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=194493557)  
+Tiny Cuddles Photography
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=196471852)  
-CGHK Enterprises (PTY) LTD
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=172122092)  
+Well Hung Art
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=84737230)  
-Dombieterfontein (PTY) LTD
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=205102130)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=34438184)  
-Cpower Projects t/a Pro Pure Water
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=44438859)  
+Skinz Printing & Branding
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=87796154)  
-Lily Fern & Co
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=168512281)  
+Norton Medical & Consult - Namibia
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=156305534)  
-LEO DEVELOPMENT GROUP
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=36488608)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=162316982)  
-Blue Sky Solar Services
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=155076557)  
+KTEN PARTS
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=190288066)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=100687786)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=192029269)  
-Tantra Sound and Lightz
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=70065696)  
+Lindani Protection Services & Projects
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
