@@ -1,7 +1,6 @@
 [![](https://cdn.prod.website-files.com/627bf795f0d42b1508d544b1/627c49ddb91f5949627d2e5a_IDGLogo.svg)](https://www.identityguard.com/)
 
-* [Log In](https://my.identityguard.com/)
-* [Start Membership](https://www.identityguard.com/plans)
+![](https://cdn.prod.website-files.com/627bf795f0d42b1508d544b1/627c4ffb4fa35a551fe490d6_hamburger.svg)
 
 [Home](https://www.identityguard.com/)
 
@@ -16,7 +15,8 @@ Questions? Call Us
 
 ![](https://cdn.prod.website-files.com/627bf795f0d42b1508d544b1/62adfd8352fa1b063dcf81cc_Close%20(1).svg)
 
-![](https://cdn.prod.website-files.com/627bf795f0d42b1508d544b1/627c4ffb4fa35a551fe490d6_hamburger.svg)
+* [Log In](https://my.identityguard.com/)
+* [Start Membership](https://www.identityguard.com/plans)
 
 License and Terms of Use
 ========================
