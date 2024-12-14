@@ -165,16 +165,16 @@ Thank you to [NetRaising](https://netraising.com/) for the original draft langua
 
 #### [About](https://returningveterans.org/about/ "About")
 
-* [The Challenge](https://returningveterans.org//about/the-challenge)
-* [Why RVP is Different](https://returningveterans.org//about/why-rvp-is-different)
-* [Meet Our Staff](https://returningveterans.org//about/meet-our-staff)
-* [Board of Directors](https://returningveterans.org//about/board-of-directors)
-* [Equity Statement](https://returningveterans.org//about/equity-statement)
-* [Finances](https://returningveterans.org//about/finances)
-* [FAQs](https://returningveterans.org//about/general-faqs)
-* [Contact](https://returningveterans.org//about/contact)
-* [Tribute to Our Founder](https://returningveterans.org//about/tribute-to-our-founder)
-* [Impact Report](https://returningveterans.org//about/impact-report)
+* [The Challenge](https://returningveterans.org/about/the-challenge)
+* [Why RVP is Different](https://returningveterans.org/about/why-rvp-is-different)
+* [Meet Our Staff](https://returningveterans.org/about/meet-our-staff)
+* [Board of Directors](https://returningveterans.org/about/board-of-directors)
+* [Equity Statement](https://returningveterans.org/about/equity-statement)
+* [Finances](https://returningveterans.org/about/finances)
+* [FAQs](https://returningveterans.org/about/general-faqs)
+* [Contact](https://returningveterans.org/about/contact)
+* [Tribute to Our Founder](https://returningveterans.org/about/tribute-to-our-founder)
+* [Impact Report](https://returningveterans.org/about/impact-report)
 * [Wall of Honor New](https://returningveterans.org/wall-of-honor)
 
 Newsletter Signup
@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![B. Radke](https://cdn.returningveterans.org/images/honor/4_Brian_Radke_1.png)  
+![HMCM (SS/SW) Craig R. Soleim Jr](https://cdn.returningveterans.org/images/honor/Soleim.JPG)  
 
-**In Honor of B. Radke**  
-United States Army  
-Submitted by John Gibson](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of HMCM (SS/SW) Craig R. Soleim Jr**  
+United States Navy  
+Submitted by Craig and Robin Soleim](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 12/13/24 - 1:09:25  
+Printed 12/13/24 - 7:04:02  
 © 2024 Returning Veterans Project
