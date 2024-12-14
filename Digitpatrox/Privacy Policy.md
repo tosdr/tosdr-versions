@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Friday, December 13 2024
+Saturday, December 14 2024
 
 Latest
 
-* [Enterprises are flocking to private AI systems](https://digitpatrox.com/enterprises-are-flocking-to-private-ai-systems/)
-* [Why would Apple make a Bluetooth chip? – Computerworld](https://digitpatrox.com/why-would-apple-make-a-bluetooth-chip-computerworld/)
-* [Timeline Is Google Maps’ Best Feature, but It’s About to Get Worse](https://digitpatrox.com/timeline-is-google-maps-best-feature-but-its-about-to-get-worse/)
-* [Vendor Spotlight: Kualitee](https://digitpatrox.com/vendor-spotlight-kualitee/)
-* [Best Places to Buy Small Appliances](https://digitpatrox.com/best-places-to-buy-small-appliances/)
-* [Pros and Cons of Each Setup](https://digitpatrox.com/pros-and-cons-of-each-setup/)
-* [Has Google made a quantum breakthrough?](https://digitpatrox.com/has-google-made-a-quantum-breakthrough/)
-* [7 Freelancer Management Templates for Outsourcing Anything](https://digitpatrox.com/7-freelancer-management-templates-for-outsourcing-anything/)
-* [Anthropologie knocks 50% off furniture and decor — 9 deals I’m shopping ahead of the holidays](https://digitpatrox.com/anthropologie-knocks-50-off-furniture-and-decor-9-deals-im-shopping-ahead-of-the-holidays/)
-* [Germany sinkholes BadBox malware pre-loaded on Android devices](https://digitpatrox.com/germany-sinkholes-badbox-malware-pre-loaded-on-android-devices/)
+* [Vendor Spotlight: UnderDefense](https://digitpatrox.com/vendor-spotlight-underdefense/)
+* [US charges 14 members of North Korean IT worker scam that bagged $88 million in six years](https://digitpatrox.com/us-charges-14-members-of-north-korean-it-worker-scam-that-bagged-88-million-in-six-years/)
+* [For December’s Patch Tuesday, 74 updates and a zero-day fix for Windows – Computerworld](https://digitpatrox.com/for-decembers-patch-tuesday-74-updates-and-a-zero-day-fix-for-windows-computerworld/)
+* [The Best Ways to Find a Running Track Near You (and a Beginner’s Workout to Try)](https://digitpatrox.com/the-best-ways-to-find-a-running-track-near-you-and-a-beginners-workout-to-try/)
+* [Vendor Spotlight: ISL Online](https://digitpatrox.com/vendor-spotlight-isl-online/)
+* [Best Places to Buy Large Appliances](https://digitpatrox.com/best-places-to-buy-large-appliances/)
+* [Console Developers Should Offer Keyboard and Mouse Support for Every Game](https://digitpatrox.com/console-developers-should-offer-keyboard-and-mouse-support-for-every-game/)
+* [NetApp wants to talk about cold data and its impact on sustainability](https://digitpatrox.com/netapp-wants-to-talk-about-cold-data-and-its-impact-on-sustainability/)
+* [How To Run a VoIP Quality Test and Improve Your MOS](https://digitpatrox.com/how-to-run-a-voip-quality-test-and-improve-your-mos/)
+* [Best smart home gifts in 2024](https://digitpatrox.com/best-smart-home-gifts-in-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/9sr8Qiw8PX8mnLsMbpLEmh-1200-80.jpg)](https://digitpatrox.com/enterprises-are-flocking-to-private-ai-systems/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/UnderDefense-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-underdefense/)
     
-    [Enterprises are flocking to private AI systems](https://digitpatrox.com/enterprises-are-flocking-to-private-ai-systems/)
+    [Vendor Spotlight: UnderDefense](https://digitpatrox.com/vendor-spotlight-underdefense/)
     
-    5 minutes ago
+    34 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3624421-0-45650200-1734116306-Bildschirmfoto-2024-11-14-um-16.58.04.png?w=1024)](https://digitpatrox.com/why-would-apple-make-a-bluetooth-chip-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/LqZrCcEsRy3hMCxs95VoEn-1200-80.jpg)](https://digitpatrox.com/us-charges-14-members-of-north-korean-it-worker-scam-that-bagged-88-million-in-six-years/)
     
-    [Why would Apple make a Bluetooth chip? – Computerworld](https://digitpatrox.com/why-would-apple-make-a-bluetooth-chip-computerworld/)
-    
-    27 minutes ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JF04DSPJ1J6YW04E012C8SH3/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/timeline-is-google-maps-best-feature-but-its-about-to-get-worse/)
-    
-    [Timeline Is Google Maps’ Best Feature, but It’s About to Get Worse](https://digitpatrox.com/timeline-is-google-maps-best-feature-but-its-about-to-get-worse/)
-    
-    55 minutes ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Kualitee-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-kualitee/)
-    
-    [Vendor Spotlight: Kualitee](https://digitpatrox.com/vendor-spotlight-kualitee/)
+    [US charges 14 members of North Korean IT worker scam that bagged $88 million in six years](https://digitpatrox.com/us-charges-14-members-of-north-korean-it-worker-scam-that-bagged-88-million-in-six-years/)
     
     1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1674752057/prod/content/dam/CRO-Images-2023/01January/Appliances/CR-Appliances-Inlinehero-best-places-to-buy-small-appliances-0123)](https://digitpatrox.com/best-places-to-buy-small-appliances/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3624511-0-69714800-1734123400-clint-patterson-jCY4oEMA3o-unsplash.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/for-decembers-patch-tuesday-74-updates-and-a-zero-day-fix-for-windows-computerworld/)
     
-    [Best Places to Buy Small Appliances](https://digitpatrox.com/best-places-to-buy-small-appliances/)
+    [For December’s Patch Tuesday, 74 updates and a zero-day fix for Windows – Computerworld](https://digitpatrox.com/for-decembers-patch-tuesday-74-updates-and-a-zero-day-fix-for-windows-computerworld/)
     
     1 hour ago
+    
+* [![](https://lifehacker.com/imagery/articles/01HF2H9DT3PFD13B30V1KBPDNJ/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-best-ways-to-find-a-running-track-near-you-and-a-beginners-workout-to-try/)
+    
+    [The Best Ways to Find a Running Track Near You (and a Beginner’s Workout to Try)](https://digitpatrox.com/the-best-ways-to-find-a-running-track-near-you-and-a-beginners-workout-to-try/)
+    
+    2 hours ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/ISLOnline-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-isl-online/)
+    
+    [Vendor Spotlight: ISL Online](https://digitpatrox.com/vendor-spotlight-isl-online/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [5 minutes ago
+* [34 minutes ago
     
-    ### Enterprises are flocking to private AI systems](https://digitpatrox.com/enterprises-are-flocking-to-private-ai-systems/)
-* [27 minutes ago
+    ### Vendor Spotlight: UnderDefense](https://digitpatrox.com/vendor-spotlight-underdefense/)
+* [1 hour ago
     
-    ### Why would Apple make a Bluetooth chip? – Computerworld](https://digitpatrox.com/why-would-apple-make-a-bluetooth-chip-computerworld/)
-* [55 minutes ago
+    ### US charges 14 members of North Korean IT worker scam that bagged $88 million in six years](https://digitpatrox.com/us-charges-14-members-of-north-korean-it-worker-scam-that-bagged-88-million-in-six-years/)
+* [1 hour ago
     
-    ### Timeline Is Google Maps’ Best Feature, but It’s About to Get Worse](https://digitpatrox.com/timeline-is-google-maps-best-feature-but-its-about-to-get-worse/)
+    ### For December’s Patch Tuesday, 74 updates and a zero-day fix for Windows – Computerworld](https://digitpatrox.com/for-decembers-patch-tuesday-74-updates-and-a-zero-day-fix-for-windows-computerworld/)
 
 Most Popular Topics
 
-* [4 weeks ago
+* [August 19, 2024
     
-    ### Hacker gets 10 years in prison for extorting US healthcare provider](https://digitpatrox.com/hacker-gets-10-years-in-prison-for-extorting-us-healthcare-provider/)
-* [October 28, 2024
+    ### CyberGhost vs ExpressVPN (2024): Which VPN Is Better?](https://digitpatrox.com/cyberghost-vs-expressvpn-2024-which-vpn-is-better/)
+* [August 16, 2024
     
-    ### How Secure Is Firefox’s Password Manager?](https://digitpatrox.com/how-secure-is-firefoxs-password-manager/)
-* [4 weeks ago
+    ### Zendesk Sell Review (2024): Features, Pricing, and Benefits](https://digitpatrox.com/zendesk-sell-review-2024-features-pricing-and-benefits/)
+* [1 week ago
     
-    ### Can you bypass local Facebook newsfeed restrictions with a VPN?](https://digitpatrox.com/can-you-bypass-local-facebook-newsfeed-restrictions-with-a-vpn/)
+    ### US shares tips to block hackers behind recent telecom breaches](https://digitpatrox.com/us-shares-tips-to-block-hackers-behind-recent-telecom-breaches/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Has Google made a quantum breakthrough?](https://digitpatrox.com/has-google-made-a-quantum-breakthrough/)
-* [2 hours ago
+    ### Console Developers Should Offer Keyboard and Mouse Support for Every Game](https://digitpatrox.com/console-developers-should-offer-keyboard-and-mouse-support-for-every-game/)
+* [3 hours ago
     
-    ### 7 Freelancer Management Templates for Outsourcing Anything](https://digitpatrox.com/7-freelancer-management-templates-for-outsourcing-anything/)
-* [2 hours ago
+    ### NetApp wants to talk about cold data and its impact on sustainability](https://digitpatrox.com/netapp-wants-to-talk-about-cold-data-and-its-impact-on-sustainability/)
+* [3 hours ago
     
-    ### Anthropologie knocks 50% off furniture and decor — 9 deals I’m shopping ahead of the holidays](https://digitpatrox.com/anthropologie-knocks-50-off-furniture-and-decor-9-deals-im-shopping-ahead-of-the-holidays/)
+    ### How To Run a VoIP Quality Test and Improve Your MOS](https://digitpatrox.com/how-to-run-a-voip-quality-test-and-improve-your-mos/)
 
 Most Viewed Topics
 
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
