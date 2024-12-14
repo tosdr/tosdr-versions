@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/news/weather/video/some-cities-have-been-buried-in-snow-while-others-are-behind)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/news/weather/video/some-cities-have-been-buried-in-snow-while-others-are-behind)[Bios](https://weather.com/bios)
+[Top Weather Stories](https://weather.com/health/skin-health/video/elevate-your-wintertime-baths-to-keep-skin-hydrated-and-cozy)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/health/skin-health/video/elevate-your-wintertime-baths-to-keep-skin-hydrated-and-cozy)[Bios](https://weather.com/bios)
 
 Products
 --------
