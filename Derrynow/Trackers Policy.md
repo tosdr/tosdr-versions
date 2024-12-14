@@ -257,53 +257,12 @@ Advertise with Us
 
 Most Popular
 
-[![IN PICTURES: Ulster University Winter Graduations from Coleraine campus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Ulster University Winter Graduations from Coleraine campus")](https://www.derrynow.com/story-telling/pictures---videos/1680219/in-pictures-ulster-university-winter-graduations-from-coleraine-campus.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Ulster University Winter Graduations from Coleraine campus](https://www.derrynow.com/story-telling/pictures---videos/1680219/in-pictures-ulster-university-winter-graduations-from-coleraine-campus.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Dancing with the Stars: Line-up almost complete with five celebs revealed on Late Late Show](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dancing with the Stars: Line-up almost complete with five celebs revealed on Late Late Show")](https://www.derrynow.com/news/arts---entertainment/1680172/dancing-with-the-stars-line-up-almost-complete-with-five-celebs-revealed-on-late-late-show.html)
 
 [Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
 
 [Dancing with the Stars: Line-up almost complete with five celebs revealed on Late Late Show](https://www.derrynow.com/news/arts---entertainment/1680172/dancing-with-the-stars-line-up-almost-complete-with-five-celebs-revealed-on-late-late-show.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man with 192 previous convictions jailed for sexually assaulting a 17-year-old Good Samaritan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man with 192 previous convictions jailed for sexually assaulting a 17-year-old Good Samaritan")](https://www.derrynow.com/news/local-news/1679878/man-with-192-previous-convictions-jailed-for-sexually-assaulting-a-17-year-old-good-samaritan.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man with 192 previous convictions jailed for sexually assaulting a 17-year-old Good Samaritan](https://www.derrynow.com/news/local-news/1679878/man-with-192-previous-convictions-jailed-for-sexually-assaulting-a-17-year-old-good-samaritan.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman fined and man jailed after 'bizarre' incident where couple entered Derry City Cemetery at 3am](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman fined and man jailed after 'bizarre' incident where couple entered Derry City Cemetery at 3am")](https://www.derrynow.com/news/local-news/1679856/woman-fined-and-man-jailed-after-bizarre-incident-where-couple-entered-derry-city-cemetery-at-3am.html)
-
-Derry City Cemetery
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman fined and man jailed after 'bizarre' incident where couple entered Derry City Cemetery at 3am](https://www.derrynow.com/news/local-news/1679856/woman-fined-and-man-jailed-after-bizarre-incident-where-couple-entered-derry-city-cemetery-at-3am.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![James Meehan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "James Meehan")](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
-
-James Meehan
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[James Meehan: Convicted murder unlawfully at large as PSNI warns public not to approach](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry woman jailed for series of offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman jailed for series of offences")](https://www.derrynow.com/news/local-news/1680138/derry-woman-jailed-for-series-of-offences.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman jailed for series of offences](https://www.derrynow.com/news/local-news/1680138/derry-woman-jailed-for-series-of-offences.html)
---------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1680146/derry-death-notices-saturday-december-14-2024.html)
 
@@ -312,32 +271,65 @@ James Meehan
 [Derry Death Notices - Saturday, December 14, 2024](https://www.derrynow.com/news/deaths/1680146/derry-death-notices-saturday-december-14-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Suspected imitation firearm and quantity of suspected drugs seized in Derry INLA probe](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspected imitation firearm and quantity of suspected drugs seized in Derry INLA probe")](https://www.derrynow.com/news/local-news/1680358/suspected-imitation-firearm-and-quantity-of-suspected-drugs-seized-in-derry-inla-probe.html)
+[![Convicted murderer on the run from Londonderry prison](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Convicted murderer on the run from Londonderry prison")](https://www.derrynow.com/news/northern-ireland/1680400/convicted-murderer-on-the-run-from-londonderry-prison.html)
 
-PSNI
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Convicted murderer on the run from Londonderry prison](https://www.derrynow.com/news/northern-ireland/1680400/convicted-murderer-on-the-run-from-londonderry-prison.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Suspected imitation firearm and quantity of suspected drugs seized in Derry INLA probe](https://www.derrynow.com/news/local-news/1680358/suspected-imitation-firearm-and-quantity-of-suspected-drugs-seized-in-derry-inla-probe.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Roe Valley Musicians bring busking back to Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roe Valley Musicians bring busking back to Limavady")](https://www.derrynow.com/news/local-news/1676978/roe-valley-musicians-bring-busking-back-to-limavady.html)
 
-[![Donegal motorists caught driving on wrong side of dual carriageway while drunk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal motorists caught driving on wrong side of dual carriageway while drunk")](https://www.derrynow.com/news/local-news/1679847/donegal-motorists-caught-driving-on-wrong-side-of-dual-carriageway-while-drunk.html)
-
-Derry Magistrates' Court
+New music collective Roe Valley Musicians.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Donegal motorists caught driving on wrong side of dual carriageway while drunk](https://www.derrynow.com/news/local-news/1679847/donegal-motorists-caught-driving-on-wrong-side-of-dual-carriageway-while-drunk.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Roe Valley Musicians bring busking back to Limavady](https://www.derrynow.com/news/local-news/1676978/roe-valley-musicians-bring-busking-back-to-limavady.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man due to appear before court charged with possession of explosives](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man due to appear before court charged with possession of explosives")](https://www.derrynow.com/news/home/1680331/man-due-to-appear-before-court-charged-with-possession-of-explosives.html)
+[![NI Science Festival reveals blooming great programme for 2025](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NI Science Festival reveals blooming great programme for 2025")](https://www.derrynow.com/news/local-news/1680111/ni-science-festival-reveals-blooming-great-programme-for-2025.html)
 
-The man is charged with five offences.
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Home](https://www.derrynow.com/)
+[NI Science Festival reveals blooming great programme for 2025](https://www.derrynow.com/news/local-news/1680111/ni-science-festival-reveals-blooming-great-programme-for-2025.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Man due to appear before court charged with possession of explosives](https://www.derrynow.com/news/home/1680331/man-due-to-appear-before-court-charged-with-possession-of-explosives.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Twenty police officers injured in NI in less than 24 hours](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Twenty police officers injured in NI in less than 24 hours")](https://www.derrynow.com/news/national-news/1680768/twenty-police-officers-injured-in-ni-in-less-than-24-hours.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Twenty police officers injured in NI in less than 24 hours](https://www.derrynow.com/news/national-news/1680768/twenty-police-officers-injured-in-ni-in-less-than-24-hours.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City's Cate Toland interviewed by Brendan McGilligan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City's Cate Toland interviewed by Brendan McGilligan")](https://www.derrynow.com/video/derry-sport/1680673/the-trajectory-of-the-derry-city-womens-team-is-brilliant-according-to-defender-cate-toland.html)
+
+Derry City's Cate Toland interviewed by Brendan McGilligan
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[The trajectory of the Derry City women’s team is ‘brilliant’ according to defender Cate Toland](https://www.derrynow.com/video/derry-sport/1680673/the-trajectory-of-the-derry-city-womens-team-is-brilliant-according-to-defender-cate-toland.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PSNI remain at scene of fire at old police station in Portadown](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI remain at scene of fire at old police station in Portadown")](https://www.derrynow.com/news/northern-ireland/1680616/psni-remain-at-scene-of-fire-at-old-police-station-in-portadown.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[PSNI remain at scene of fire at old police station in Portadown](https://www.derrynow.com/news/northern-ireland/1680616/psni-remain-at-scene-of-fire-at-old-police-station-in-portadown.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![MacD on Music: Vandees Live In Sandy’s](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: Vandees Live In Sandy’s")](https://www.derrynow.com/news/arts---entertainment/1679880/macd-on-music-vandees-live-in-sandys.html)
+
+[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
+
+[MacD on Music: Vandees Live In Sandy’s](https://www.derrynow.com/news/arts---entertainment/1679880/macd-on-music-vandees-live-in-sandys.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man suffers serious head injuries in Lisburn assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man suffers serious head injuries in Lisburn assault")](https://www.derrynow.com/news/northern-ireland/1680785/man-suffers-serious-head-injuries-in-lisburn-assault.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Man suffers serious head injuries in Lisburn assault](https://www.derrynow.com/news/northern-ireland/1680785/man-suffers-serious-head-injuries-in-lisburn-assault.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,7 +507,23 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry City's Cate Toland interviewed by Brendan McGilligan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City's Cate Toland interviewed by Brendan McGilligan")](https://www.derrynow.com/video/derry-sport/1680673/the-trajectory-of-the-derry-city-womens-team-is-brilliant-according-to-defender-cate-toland.html)
+[![MacD on Music: Vandees Live In Sandy’s](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: Vandees Live In Sandy’s")](https://www.derrynow.com/news/arts---entertainment/1679880/macd-on-music-vandees-live-in-sandys.html)
+
+[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
+
+[MacD on Music: Vandees Live In Sandy’s](https://www.derrynow.com/news/arts---entertainment/1679880/macd-on-music-vandees-live-in-sandys.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Roe Valley Musicians bring busking back to Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roe Valley Musicians bring busking back to Limavady")](https://www.derrynow.com/news/local-news/1676978/roe-valley-musicians-bring-busking-back-to-limavady.html)
+
+New music collective Roe Valley Musicians.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Roe Valley Musicians bring busking back to Limavady](https://www.derrynow.com/news/local-news/1676978/roe-valley-musicians-bring-busking-back-to-limavady.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City's Cate Toland interviewed by Brendan McGilligan](https://www.derrynow.com/resizer/165/93/true/2024_12_14/64128a4daa5eeefda950c11d0b823c97.jpg--.jpg "Derry City's Cate Toland interviewed by Brendan McGilligan")](https://www.derrynow.com/video/derry-sport/1680673/the-trajectory-of-the-derry-city-womens-team-is-brilliant-according-to-defender-cate-toland.html)
 
 Derry City's Cate Toland interviewed by Brendan McGilligan
 
@@ -524,7 +532,7 @@ Derry City's Cate Toland interviewed by Brendan McGilligan
 [The trajectory of the Derry City women’s team is ‘brilliant’ according to defender Cate Toland](https://www.derrynow.com/video/derry-sport/1680673/the-trajectory-of-the-derry-city-womens-team-is-brilliant-according-to-defender-cate-toland.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![NI Science Festival reveals blooming great programme for 2025](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NI Science Festival reveals blooming great programme for 2025")](https://www.derrynow.com/news/local-news/1680111/ni-science-festival-reveals-blooming-great-programme-for-2025.html)
+[![NI Science Festival reveals blooming great programme for 2025](https://www.derrynow.com/resizer/165/93/true/2024_12_13/NISF-02-1734101572090.JPG--.JPG?1734101573630 "NI Science Festival reveals blooming great programme for 2025")](https://www.derrynow.com/news/local-news/1680111/ni-science-festival-reveals-blooming-great-programme-for-2025.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -546,22 +554,6 @@ James Meehan
 
 [James Meehan: Convicted murder unlawfully at large as PSNI warns public not to approach](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Would you like to own a piece of regional history?](https://www.derrynow.com/resizer/165/93/true/2024_12_13/Co-founders_Brian_Ash_and_Jim_Nash-1734085121753.jpeg--.jpeg?1734085123713 "Would you like to own a piece of regional history?")](https://www.derrynow.com/news/home/1679733/would-you-like-to-own-a-piece-of-regional-history.html)
-
-Co-founders Brian Ash and Jim Nash.
-
-[Home](https://www.derrynow.com/)
-
-[Would you like to own a piece of regional history?](https://www.derrynow.com/news/home/1679733/would-you-like-to-own-a-piece-of-regional-history.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry woman jailed for series of offences](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Derry woman jailed for series of offences")](https://www.derrynow.com/news/local-news/1680138/derry-woman-jailed-for-series-of-offences.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman jailed for series of offences](https://www.derrynow.com/news/local-news/1680138/derry-woman-jailed-for-series-of-offences.html)
---------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
