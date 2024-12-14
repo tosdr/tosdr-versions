@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I am very satisfied with the proxy you have given me and fully intend to renew my subscription.
+I downloaded FoxyProxy because I had read about it somewhere in the web and I was curious to see if/how it would work. I saw it was easy to download, follow the instructions to do the correct settings. I purchase a documentary from a French TV website (just to try something I knew that wouldn't work from Italy \[my home country\]) and completed a download of a big file without having disconnections or errors. I can say that in general it worked fine and fast. The process of subscribing and unsubscribing worked also very well. I cancelled subscription just because I don't need to use a French proxy right now except for testing; but now I know that if I (or someone I know) ever need a reliable software/service like this, I can use FoxyProxy for a reasonable price.
 
-Arabella Rodriguez
+Gisella Albertini
