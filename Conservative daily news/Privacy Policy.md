@@ -181,6 +181,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [SIG Sauer P320 X-Five SXG For USPSA Carry Optics, Limited Optics](https://www.thegunpage.com/sig-sauer-p320-x-five-sxg-for-uspsa-carry-optics-limited-optics/10612498)
 * [The Russian RPL-20 Light Machine Gun](https://www.thegunpage.com/the-russian-rpl-20-light-machine-gun/10612497)
 * [POTD: The PZD Mk24 Light Machine Gun](https://www.thegunpage.com/potd-the-pzd-mk24-light-machine-gun/10612495)
 * [TFB Podcast Roundup 159: The December 13th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-159-the-december-13th-roundup/10612496)
@@ -190,7 +191,6 @@ Recent Posts
 * [We Can’t Stop Crime, So We’ll Go After Glock: New Jersey, Minnesota AGs Sue Manufacturer](https://www.thegunpage.com/we-cant-stop-crime-so-well-go-after-glock-new-jersey-minnesota-ags-sue-manufacturer/10612485)
 * [SIG SAUER Special Weapons Group P320978](https://www.thegunpage.com/sig-sauer-special-weapons-group-p320978/10612486)
 * [Everytown’s New NRA ‘Exposé’ Only Exposes Its Own Poor Journalism Skills](https://www.thegunpage.com/everytowns-new-nra-expose-only-exposes-its-own-poor-journalism-skills/10612478)
-* [Swedish Army Buys 15,000 M4A1 Carbines](https://www.thegunpage.com/swedish-army-buys-15000-m4a1-carbines/10612487)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
