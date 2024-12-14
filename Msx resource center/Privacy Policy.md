@@ -150,9 +150,12 @@ Latest reactions
 
 Latest forum posts
 
-* [Question about the 2-button joysticks](https://www.msx.org/forum/msx-talk/development/question-about-the-2-button-joysticks "Question about the 2-button joysticks")
-* [RP2350B will change cartridges for MSX forever!](https://www.msx.org/forum/msx-talk/hardware/this-will-change-cartridges-for-msx-moving-forward?page=2 "RP2350B will change cartridges for MSX forever!")
+* [RP2350B will change cartridges for MSX forever!](https://www.msx.org/forum/msx-talk/hardware/this-will-change-cartridges-for-msx-moving-forward?page=3 "RP2350B will change cartridges for MSX forever!")
+* [Question about the 2-button joysticks](https://www.msx.org/forum/msx-talk/development/question-about-the-2-button-joysticks?page=1 "Question about the 2-button joysticks")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=79 "WonderTANG! Who wants to juice up your MSX?")
+* [I made a full STDIO lib for SDCC](https://www.msx.org/forum/msx-talk/development/i-made-a-full-stdio-lib-for-sdcc "I made a full STDIO lib for SDCC")
 * [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx?page=2 "DalSoRi R2 on OpenMSX")
+* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=8 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=4 "ZX Spectrum Convertions")
 * [Nice video from the BBC](https://www.msx.org/forum/msx-talk/general-discussion/nice-video-from-the-bbc "Nice video from the BBC")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=125 "Please help testing upcoming openMSX release!")
@@ -160,9 +163,6 @@ Latest forum posts
 * [MX-10 Black Screen](https://www.msx.org/forum/msx-talk/hardware/mx-10-black-screen "MX-10 Black Screen")
 * [which MSX1 games could be played with a Trackball?](https://www.msx.org/forum/msx-talk/software/which-msx1-games-could-be-played-with-a-trackball "which MSX1 games could be played with a Trackball?")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=17 "Full English translation of Illusion City for MSX Turbo-R")
-* [Omega MSX 2 Build Quiestions](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-build-quiestions "Omega MSX 2 Build Quiestions")
-* [Omega MSX 2 Power Supply suggestion](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-power-supply-suggestion "Omega MSX 2 Power Supply suggestion")
-* [How do i load BAS.files into Bluemsx?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-load-basfiles-into-bluemsx?page=1 "How do i load BAS.files into Bluemsx?")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
