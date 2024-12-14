@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Out of the 2 AN’s: Which one has the… (5,231)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (5,231 posts)")
-* [Georgia Protests: Georgian Nightmare? (13)](https://forum.nationstates.net/viewtopic.php?t=559265&f=20&view=unread#unread ""Georgia Protests: Georgian Nightmare?" (13 posts)")
-* [Today In YN's History (717)](https://forum.nationstates.net/viewtopic.php?t=531179&f=23&view=unread#unread ""Today In YN's History" (717 posts)")
-* [What's your favorite part of AN lore (214)](https://forum.nationstates.net/viewtopic.php?t=557672&f=25&view=unread#unread ""What's your favorite part of AN lore" (214 posts)")
-* [American Politics: Turnabout Trump (9,326)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (9,326 posts)")
+* [Commend or Condemn AN II (2,977)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (2,977 posts)")
+* [Which "Dere" is AN/AU? (557)](https://forum.nationstates.net/viewtopic.php?t=557828&f=25&view=unread#unread ""Which "Dere" is AN/AU?" (557 posts)")
+* [What gender do you think X items are? (94)](https://forum.nationstates.net/viewtopic.php?t=558845&f=20&view=unread#unread ""What gender do you think X items are?" (94 posts)")
+* [UnitedHealthcare CEO Assassinated (1,542)](https://forum.nationstates.net/viewtopic.php?t=559227&f=20&view=unread#unread ""UnitedHealthcare CEO Assassinated" (1,542 posts)")
+* [Come up with a funny rip off name for… (683)](https://forum.nationstates.net/viewtopic.php?t=555981&f=25&view=unread#unread ""Come up with a funny rip off name for the company AN chooses" (683 posts)")
 
 Advertisement
 
