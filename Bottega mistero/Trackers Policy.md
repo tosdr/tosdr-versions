@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/dr-e-vero-che-gli-uomini-preferiscono-le-bionde/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/dr-qual-e-il-dinosauro-piu-grande-mai-esistito/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
