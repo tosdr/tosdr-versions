@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Friday, December 13, 2024**
+**Saturday, December 14, 2024**
 
-**...High Pressure to Bring Mostly Dry Conditions to The Sunshine State Today...Isolated to Scattered Showers Developing Along the East Coast and Keys and Moving Inland Tonight Thanks to Breezy Onshore Winds...Winds Near 10-20 MPH With Gusts Near 15-30 MPH Along the Peninsula and Keys...Beach and Boating Conditions Continue to Deteriorate ad Become INcreasingly Hazardous Along Florida's Atlantic Coast Today As Breezy Onshore Winds and Long-Period Swells Impact the Coastline...High Surf Advisories Issued Along the East-Central Coast; Minor Beach Erosion Possible Around High Tide; Isolated Instances of Minor Coastal Flooding Cannot Be Ruled Out...Apalachicola River Near Blounstown Forecast to Reach Minor Flood Stage Later Today...**
+**...Coastal Showers Developing Along the East Coast and Moving Inland Towards the I-75 Corridor to Increase In Coverage Late This Afternoon and This Evening and Continue Through the Overnight Hours...Mostly Dry Conditions Elsewhere...Breezy Winds With Gusts Upwards of 15-25 MPH Statewide Today; Locally Stronger Gusts Up to 35 MPH Possible Along the Immedate East Coastline...Moderate to High Risk for Rip Currents Along Florida Panhandle and East Coast...Beach and Boating Conditions to Become Increasingly Hazardous Along Florida's Atlantic Coast Throughout the Day Due to Breezy Onshore Winds and Long-Period Swells; High Surf Advisories In Effect For Large Breaking Waves Upwards of 5-10'; Minor to Moderate Beach Erosion Expected; Coastal Flood Advisories In Effect for Minor Coastal Flooding...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
