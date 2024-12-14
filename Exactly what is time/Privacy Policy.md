@@ -83,7 +83,7 @@ Random Pages
 
 * * *
 
-[Clocks](https://www.exactlywhatistime.com/measurement-of-time/clocks/) [Other Aspects of Time](https://www.exactlywhatistime.com/other-aspects-of-time/) [Time In Literature](https://www.exactlywhatistime.com/other-aspects-of-time/time-in-literature/) [Biopsychology](https://www.exactlywhatistime.com/psychology-of-time/biopsychology/) [Measurement of Time](https://www.exactlywhatistime.com/measurement-of-time/) [Early Modern Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/early-modern-philosophy/) [Glossary of Terms](https://www.exactlywhatistime.com/glossary-of-terms/) [Psychology of Time](https://www.exactlywhatistime.com/psychology-of-time/) [Time Standards](https://www.exactlywhatistime.com/measurement-of-time/time-standards/) [Temporal Illusions](https://www.exactlywhatistime.com/psychology-of-time/temporal-illusions/)
+[Time Travel](https://www.exactlywhatistime.com/physics-of-time/time-travel/) [Ancient Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/ancient-philosophy/) [Philosophy of Time](https://www.exactlywhatistime.com/philosophy-of-time/) [Modern Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/modern-philosophy/) [Absolute Time](https://www.exactlywhatistime.com/physics-of-time/absolute-time/) [Physics of Time](https://www.exactlywhatistime.com/physics-of-time/) [Glossary of Terms](https://www.exactlywhatistime.com/glossary-of-terms/) [Time In Literature](https://www.exactlywhatistime.com/other-aspects-of-time/time-in-literature/) [Quantum Time](https://www.exactlywhatistime.com/physics-of-time/quantum-time/) [Time Percenption](https://www.exactlywhatistime.com/psychology-of-time/time-percenption/)
 
 © 2024 ExactlyWhatIsTime.com - Exactly What Is Time?
 
