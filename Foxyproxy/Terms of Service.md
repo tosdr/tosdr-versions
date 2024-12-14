@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I am delighted to tell you that I am more than satisfied with the service you provide and that I have, in fact re subscribed .
+Great service, and very easy to set-up and use on Firefox. I just wanted to test it out for 1 month and was satisfied. If I need it in the future, I will definitely be back.
 
-Mike Dally
+Krishna Srinivasan
