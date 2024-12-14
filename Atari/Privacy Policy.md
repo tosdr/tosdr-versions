@@ -726,20 +726,6 @@ Regular price $24.99
 
 Unit price /  per](https://www.atari.com/products/pong-speakerhat) 
 
-[![Atari Neon LED Sign (12" x 13")](files/ATARI_73fded4d-4a6c-4240-a6f2-57cb5d4ecb9b.jpg)
-
-![Atari Neon LED Sign (12" x 13")](files/2_7a0610c5-3e6c-45b9-8002-ee83821f5588.jpg)
-
-Sold out
-
-##### Atari Neon LED Sign (12" x 13")
-
-Regular price Sale price $39.99
-
-Regular price $39.99
-
-Unit price /  per](https://www.atari.com/products/atari-neon-led-sign) 
-
 [![Atari 3D Cartridge Wall Art](files/3D_WallArt_Front_PDP.jpg)
 
 Add to cart
@@ -963,6 +949,20 @@ Regular price Sale price $19.99
 Regular price $19.99
 
 Unit price /  per](https://www.atari.com/products/atari-vcs%E2%84%A2-gaming-blend) 
+
+[![Atari Neon LED Sign (12" x 13")](files/ATARI_73fded4d-4a6c-4240-a6f2-57cb5d4ecb9b.jpg)
+
+![Atari Neon LED Sign (12" x 13")](files/2_7a0610c5-3e6c-45b9-8002-ee83821f5588.jpg)
+
+Sold out
+
+##### Atari Neon LED Sign (12" x 13")
+
+Regular price Sale price $39.99
+
+Regular price $39.99
+
+Unit price /  per](https://www.atari.com/products/atari-neon-led-sign) 
 
 [![Atari Distressed Logo Coasters (4-Pack)](files/cork-back-coaster-front-674f180f5a164copy.jpg)
 
