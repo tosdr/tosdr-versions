@@ -408,9 +408,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Scientists investigate that which already is; engineers create that which has never been”
+“ You're never too old, and if you want to, as my mother said, you can do anything you want to, but you have to work at it”
 
-[Albert Einstein](http://en.wikipedia.org/wiki/Albert_Einstein)
+[Annie Easley](http://en.wikipedia.org/wiki/Annie_Easley)
 
 [](https://www.adafruit.com/about)
 
