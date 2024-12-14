@@ -94,19 +94,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [These discoveries in 2024 could be groundbreaking — if they’re true](https://www.sciencenews.org/article/2024-science-discoveries-could-be-true)
             
-            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")52 minutes ago
+            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")7 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Cancer screening and quitting smoking have saved nearly 6 million lives](https://www.sciencenews.org/article/cancer-screening-save-6-million-lives)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")3 hours ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")9 hours ago
             
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
             ### [Humans have linked emotions to the same body parts for 3,000 years](https://www.sciencenews.org/article/link-emotions-body-parts-3000-years)
             
-            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")5 hours ago
+            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")11 hours ago
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -124,7 +124,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Humans have linked emotions to the same body parts for 3,000 years](https://www.sciencenews.org/article/link-emotions-body-parts-3000-years)
             
-            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")5 hours ago
+            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")11 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
@@ -203,19 +203,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [These discoveries in 2024 could be groundbreaking — if they’re true](https://www.sciencenews.org/article/2024-science-discoveries-could-be-true)
             
-            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")52 minutes ago
+            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")7 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
             ### [The 2024 eclipse gave a rare view of the sun. Here’s a peek at early data](https://www.sciencenews.org/article/2024-eclipse-sun-early-data-corona)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")7 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")13 hours ago
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
             ### [NASA’s Perseverance rover found a new potential setting for Martian life](https://www.sciencenews.org/article/nasa-perseverance-rover-potential-life-setting)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")22 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")December 12, 2024
             
 
 Terms of Service
