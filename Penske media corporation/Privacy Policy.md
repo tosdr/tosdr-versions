@@ -38,13 +38,13 @@ Est.
 
 1930](https://pmc.com/our-brands/the-hollywood-reporter)
 
-[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/675b8fcb677daad367b87fa0_bb%20charts%20logo%20W.png)
+[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/675c9f9d2f81148a6f341d08_993BEA98-A674-476F-81DB-177892469505.png)
 
 Est.
 
 1940](https://pmc.com/our-brands/billboard-charts)
 
-[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6750c074694dce6814aa7ee3_GG%20%E2%80%93%205%20344x60.svg)
+[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/675cb69a155f5458512ddce3_gg-logo.svg)
 
 Est.
 
@@ -206,6 +206,12 @@ Est.
 
 2011](https://pmc.com/our-brands/tvline)
 
+[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/675cb8a4efc46f0e8e5a7f1b_vox-brand-logo.svg)
+
+Est.
+
+2011](https://pmc.com/our-brands/vox-media)
+
 [![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6477f4b774c85d877d1f3e2d_LIB.svg)
 
 Est.
@@ -223,6 +229,18 @@ Est.
 Est.
 
 2020](https://pmc.com/our-brands/sportico)
+
+[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/675cb869ad494b1cb6a5b4dd_sxsw-sydney-brand-logo.svg)
+
+Est.
+
+2023](https://pmc.com/our-brands/sxsw-sydney)
+
+[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/675cb8801e99f72964b9791a_sxsw-london-brand-logo.svg)
+
+Est.
+
+2025](https://pmc.com/our-brands/sxsw-london)
 
 [EXPERIENCES](https://pmc.com/experiences)
 
@@ -268,13 +286,13 @@ Est.
 
 1930](https://pmc.com/our-brands/the-hollywood-reporter)
 
-[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/675b8fcb677daad367b87fa0_bb%20charts%20logo%20W.png)
+[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/675c9f9d2f81148a6f341d08_993BEA98-A674-476F-81DB-177892469505.png)
 
 Est.
 
 1940](https://pmc.com/our-brands/billboard-charts)
 
-[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6750c074694dce6814aa7ee3_GG%20%E2%80%93%205%20344x60.svg)
+[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/675cb69a155f5458512ddce3_gg-logo.svg)
 
 Est.
 
@@ -436,6 +454,12 @@ Est.
 
 2011](https://pmc.com/our-brands/tvline)
 
+[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/675cb8a4efc46f0e8e5a7f1b_vox-brand-logo.svg)
+
+Est.
+
+2011](https://pmc.com/our-brands/vox-media)
+
 [![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/6477f4b774c85d877d1f3e2d_LIB.svg)
 
 Est.
@@ -453,6 +477,18 @@ Est.
 Est.
 
 2020](https://pmc.com/our-brands/sportico)
+
+[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/675cb869ad494b1cb6a5b4dd_sxsw-sydney-brand-logo.svg)
+
+Est.
+
+2023](https://pmc.com/our-brands/sxsw-sydney)
+
+[![](https://cdn.prod.website-files.com/63fd0f14411a3a61db92a6d8/675cb8801e99f72964b9791a_sxsw-london-brand-logo.svg)
+
+Est.
+
+2025](https://pmc.com/our-brands/sxsw-london)
 
 [![](https://cdn.prod.website-files.com/63fd0f14411a3a19bd92a6c4/63fd0f14411a3a24f692a6fe_pmc%20white.svg)](https://pmc.com/)
 
