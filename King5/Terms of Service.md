@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b3eb5925-b384-4869-9c95-a9d6c6c224fb/20241213T170800/b3eb5925-b384-4869-9c95-a9d6c6c224fb_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b3eb5925-b384-4869-9c95-a9d6c6c224fb/20241213T170800/b3eb5925-b384-4869-9c95-a9d6c6c224fb_360x203.jpg)](https://www.king5.com/article/news/politics/state-politics/bill-would-exempt-seniors-state-local-property-tax-washington/281-b5f377fc-8bf5-49a4-a630-8210db45d57d)
+    *  [![](https://media.king5.com/assets/KING/images/e644cf07-e675-44ce-80da-5d67fbfe0924/20241214T015740/e644cf07-e675-44ce-80da-5d67fbfe0924_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e644cf07-e675-44ce-80da-5d67fbfe0924/20241214T015740/e644cf07-e675-44ce-80da-5d67fbfe0924_360x203.jpg)](https://www.king5.com/article/news/local/man-sentenced-just-over-5-years-in-prison-2015-long-beach-killing/281-f5861f81-c66a-4e08-bcd5-aa5c4efb5b79)
         
-        #### [Bill would exempt those 75 and older from state, local property tax in Washington](https://www.king5.com/article/news/politics/state-politics/bill-would-exempt-seniors-state-local-property-tax-washington/281-b5f377fc-8bf5-49a4-a630-8210db45d57d)
+        #### [Man sentenced to just over 5 years in prison for 2015 Long Beach killing](https://www.king5.com/article/news/local/man-sentenced-just-over-5-years-in-prison-2015-long-beach-killing/281-f5861f81-c66a-4e08-bcd5-aa5c4efb5b79) [![](https://media.king5.com/assets/KING/images/e644cf07-e675-44ce-80da-5d67fbfe0924/20241214T015740/e644cf07-e675-44ce-80da-5d67fbfe0924_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e644cf07-e675-44ce-80da-5d67fbfe0924/20241214T015740/e644cf07-e675-44ce-80da-5d67fbfe0924_360x203.jpg)](https://www.king5.com/article/news/local/man-sentenced-just-over-5-years-in-prison-2015-long-beach-killing/281-f5861f81-c66a-4e08-bcd5-aa5c4efb5b79)
         
-    *  [![](https://media.king5.com/assets/KING/images/b671b79d-35d1-43b9-adef-1225dc6bd971/20240914T014109/b671b79d-35d1-43b9-adef-1225dc6bd971_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b671b79d-35d1-43b9-adef-1225dc6bd971/20240914T014109/b671b79d-35d1-43b9-adef-1225dc6bd971_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/aerospace-union-south-carolina-boeing-employees/281-37723729-7a50-40b0-a895-73587da4f45f)
+        #### [Manslaughter plea leads to maximum sentence of just over 5 years for man in 2015 Long Beach killing](https://www.king5.com/article/news/local/man-sentenced-just-over-5-years-in-prison-2015-long-beach-killing/281-f5861f81-c66a-4e08-bcd5-aa5c4efb5b79)
+    *  [![](https://media.king5.com/assets/KING/images/ed0bd12c-81db-4cd3-a9aa-0859bc6da845/20241120T011031/ed0bd12c-81db-4cd3-a9aa-0859bc6da845_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ed0bd12c-81db-4cd3-a9aa-0859bc6da845/20241120T011031/ed0bd12c-81db-4cd3-a9aa-0859bc6da845_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/gusty-winds-mountain-snow-coastal-flooding-western-washington/281-1316445b-691c-4796-93da-9054b5708fcc)
         
-        #### [After West Coast contract win, machinists' union sets sights on Boeing's non-union South Carolina factories](https://www.king5.com/article/tech/science/aerospace/boeing/aerospace-union-south-carolina-boeing-employees/281-37723729-7a50-40b0-a895-73587da4f45f)
+        #### [Winter Weather and Coastal Flooding Advisories in effect for western Washington](https://www.king5.com/article/weather/weather-blog/gusty-winds-mountain-snow-coastal-flooding-western-washington/281-1316445b-691c-4796-93da-9054b5708fcc)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a801d956-6a44-4dd0-9c17-7be96698a2ce/20241213T130426/a801d956-6a44-4dd0-9c17-7be96698a2ce_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a801d956-6a44-4dd0-9c17-7be96698a2ce/20241213T130426/a801d956-6a44-4dd0-9c17-7be96698a2ce_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/d8929301-9d57-48f3-a106-097c43f94330/20241214T014922/d8929301-9d57-48f3-a106-097c43f94330_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d8929301-9d57-48f3-a106-097c43f94330/20241214T014922/d8929301-9d57-48f3-a106-097c43f94330_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     *  [![](https://media.king5.com/assets/KING/images/ed0bd12c-81db-4cd3-a9aa-0859bc6da845/20241120T011031/ed0bd12c-81db-4cd3-a9aa-0859bc6da845_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ed0bd12c-81db-4cd3-a9aa-0859bc6da845/20241120T011031/ed0bd12c-81db-4cd3-a9aa-0859bc6da845_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/gusty-winds-mountain-snow-coastal-flooding-western-washington/281-1316445b-691c-4796-93da-9054b5708fcc)
         
-        #### [Winter Weather and Coastal Flooding Advisories in effect for western Washington this weekend](https://www.king5.com/article/weather/weather-blog/gusty-winds-mountain-snow-coastal-flooding-western-washington/281-1316445b-691c-4796-93da-9054b5708fcc)
+        #### [Winter Weather and Coastal Flooding Advisories in effect for western Washington](https://www.king5.com/article/weather/weather-blog/gusty-winds-mountain-snow-coastal-flooding-western-washington/281-1316445b-691c-4796-93da-9054b5708fcc)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -105,7 +106,7 @@ Navigation
 
 Seattle, WA »
 
-47°
+44°
 
 ![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
