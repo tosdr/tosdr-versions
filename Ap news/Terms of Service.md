@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
+    * [A diminished Hezbollah is made even weaker by the toppling of Assad in Syria](https://apnews.com/article/lebanon-syria-iran-hezbollah-assad-hts-israel-fadc4fa97f2036a24f821f51e4eb6634)
     * [Thousands of Syrians celebrate during first Friday prayers since Assad's fall](https://apnews.com/article/syria-friday-prayers-demonstrations-4667db0171da539e79662d1de23bd921)
     * [Russia targets Ukrainian infrastructure with a massive attack by cruise missiles and drones](https://apnews.com/article/russia-ukraine-war-aerial-attack-december-13-2024-801d7ba2438ea021d8568502f803bb3e)
-    * [US military flies American released from Syrian prison to Jordan, officials say](https://apnews.com/article/syria-timmerman-assad-timmerman-443d1c3b2b9cf551cdcfdff22bdcedc9)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Pro Football Hall of Famer Randy Moss reveals cancer diagnosis, 6-hour surgery](https://apnews.com/article/randy-moss-85741a3a9bd6e80cf4d8a64fba8e5f16)
+    * [Joel Embiid sustains sinus fracture fighting for rebound, misses 2nd half of 76ers' loss to Pacers](https://apnews.com/article/joel-embiid-76ers-0ffbc24ddbd4f69102417a13343b9042)
+    * [Travis Hunter and Ashton Jeanty give this year's Heisman Trophy ceremony a different vibe](https://apnews.com/article/heisman-trophy-hunter-jeanty-gabriel-ward-d427ea7d8187b7fa44e75c3dfab1f430)
     * [De'Vondre Campbell won't be part of the 49ers after his refusal to enter a game, Kyle Shanahan says](https://apnews.com/article/49ers-devondre-campbell-b3517612e22b520bb7c25ceeb65c6a48)
-    * [Yankees get closer Devin Williams from Brewers for Nestor Cortes, Caleb Durbin](https://apnews.com/article/devin-williams-yankees-trade-ab499889ceb5a47b23374d169f35c32f)
     
     Newsletters
     
@@ -94,9 +94,9 @@ Menu
     
     TOP STORIES
     
+    * [Woman accusing Jay-Z and Sean 'Diddy' Combs of sexual assault acknowledges inconsistencies](https://apnews.com/article/jayz-rape-allegation-sean-combs-diddy-inconsistencies-667e3c5f2abca341975741e536969d71)
     * [How to write a holiday rom-com for TV, according to the experts](https://apnews.com/article/hallmark-christmas-movie-holiday-romcom-writing-d4451b1563a274f490d9505fa23afd27)
     * [Saudi Arabia banned film for 35 years. The Red Sea festival is just one sign of the industry's rise](https://apnews.com/article/red-sea-film-festival-saudi-cinema-13c9762d8b72066987437179fa87bb2a)
-    * [Unique among 'Person of the Year' designees, Donald Trump gets a fact-check from Time magazine](https://apnews.com/article/time-trump-fact-check-3e1c54007f0486ac64f146948f7c4376)
     
 * [Business](https://apnews.com/business)
     
@@ -225,17 +225,17 @@ Menu
     
     TOP STORIES
     
+    * [Stay sober and have a jolly holiday season with these expert tips](https://apnews.com/article/staying-sober-holiday-tips-c1a18cbf0090b5049224c3f5d578590b)
     * [Once taboo, more Japanese women are brewing sake](https://apnews.com/article/japan-sake-women-brewers-84906e38b2be31eac5365ac343c05a0b)
     * [Stanley recalls millions of travel mugs over concerns the lids might fall off, causing burns](https://apnews.com/article/stanley-mug-recall-walmart-amazon-target-08fed4ae4f3f9269285f0ae3cb77a3ab)
-    * [AP Photos capture British royal family's year of illness and recovery](https://apnews.com/article/british-royals-king-charles-kate-2024-photos-43e51383f158c3c4907096cc5de79771)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Notre Dame Cathedral's reopening spectacle capped a stellar year for luxury house LVMH](https://apnews.com/article/lvmh-notre-dame-branding-arnault-0d8076d36ed655136666b74d2ee681ed)
     * [On Gita Jayanti, Hare Krishnas celebrate the birth of the sacred text Bhagavad Gita](https://apnews.com/article/hindu-scripture-hare-krishna-bhagavad-gita-07b3aca4ef17bece83929aa91c523c68)
     * [How to write a holiday rom-com for TV, according to the experts](https://apnews.com/article/hallmark-christmas-movie-holiday-romcom-writing-d4451b1563a274f490d9505fa23afd27)
-    * ['Crown of Thorns' returns to Notre Dame Cathedral for public veneration](https://apnews.com/article/notre-dame-france-relc-crown-of-thorns-f06a9d707663ebd407d78282530b3dd5)
     
     Newsletters
     
@@ -249,11 +249,11 @@ Menu
     
     TOP STORIES
     
+    * [Parlamento surcoreano vota a favor de abrir juicio político al presidente por decreto de ley marcial](https://apnews.com/article/asia-surcorea-ley-marcial-yoon-destitucion-141a7298d386158456ac29c6c11bc32d)
+    * [Bolivia elige a jueces de altas cortes en las urnas en medio de polémica política y desconfianza](https://apnews.com/article/bolivia-elecciones-judiciales-11b359216ec6ca49408cc55b8bbcc20c)
+    * [Conversaciones de la ONU no logran acuerdo para hacer frente al creciente riesgo de sequía global](https://apnews.com/article/onu-sequia-desertificacion-clima-arabia-saudi-b49662dc029a23b88f7e2c2d6f6876f8)
     * [Encuesta: Pocos estadounidenses tienen confianza en los seleccionados por Trump para su gabinete](https://apnews.com/article/eeuu-elecciones-trump-nuevo-gobierno-encuesta-fa5b30ade166aed70ff1f96abc2acc73)
-    * [Destacado abogado de derechos humanos abandona Corte Penal Internacional por no procesar a Venezuela](https://apnews.com/article/venezuela-cpi-claudio-grossman-maduro-e9f88b398937eb39be06d986cc3b99f3)
-    * [Miles de sirios celebran en Damasco en primer viernes de oraciones desde caída de Assad](https://apnews.com/article/siria-damasco-guerra-assad-festejos-4a07496ad7d360f196cf318cc5d51973)
-    * [Parlamento surcoreano votará sobre moción de destitución contra el presidente Yoon por ley marcial](https://apnews.com/article/asia-surcorea-ley-marcial-yoon-destitucion-141a7298d386158456ac29c6c11bc32d)
-    * [¿Drones, aviones u ovnis? Misteriosos avistamientos en Nueva Jersey causan revuelo](https://apnews.com/article/drones-jersey-luces-cielo-ovnis-599eea4b200ffa048b24bda90745b489)
+    * [Jóvenes activistas se enfrentan a una agencia gubernamental en una demanda climática en Florida](https://apnews.com/article/florida-clima-demanda-jovenes-activistas-fd8c127f0ef881a69b0ef06305d5ab0a)
     
 * [Quizzes](https://apnews.com/quizzes)
     
@@ -414,9 +414,9 @@ Submit Search
     
     TOP STORIES
     
+    * [A diminished Hezbollah is made even weaker by the toppling of Assad in Syria](https://apnews.com/article/lebanon-syria-iran-hezbollah-assad-hts-israel-fadc4fa97f2036a24f821f51e4eb6634)
     * [Thousands of Syrians celebrate during first Friday prayers since Assad's fall](https://apnews.com/article/syria-friday-prayers-demonstrations-4667db0171da539e79662d1de23bd921)
     * [Russia targets Ukrainian infrastructure with a massive attack by cruise missiles and drones](https://apnews.com/article/russia-ukraine-war-aerial-attack-december-13-2024-801d7ba2438ea021d8568502f803bb3e)
-    * [US military flies American released from Syrian prison to Jordan, officials say](https://apnews.com/article/syria-timmerman-assad-timmerman-443d1c3b2b9cf551cdcfdff22bdcedc9)
     
     Newsletters
     
@@ -492,9 +492,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Pro Football Hall of Famer Randy Moss reveals cancer diagnosis, 6-hour surgery](https://apnews.com/article/randy-moss-85741a3a9bd6e80cf4d8a64fba8e5f16)
+    * [Joel Embiid sustains sinus fracture fighting for rebound, misses 2nd half of 76ers' loss to Pacers](https://apnews.com/article/joel-embiid-76ers-0ffbc24ddbd4f69102417a13343b9042)
+    * [Travis Hunter and Ashton Jeanty give this year's Heisman Trophy ceremony a different vibe](https://apnews.com/article/heisman-trophy-hunter-jeanty-gabriel-ward-d427ea7d8187b7fa44e75c3dfab1f430)
     * [De'Vondre Campbell won't be part of the 49ers after his refusal to enter a game, Kyle Shanahan says](https://apnews.com/article/49ers-devondre-campbell-b3517612e22b520bb7c25ceeb65c6a48)
-    * [Yankees get closer Devin Williams from Brewers for Nestor Cortes, Caleb Durbin](https://apnews.com/article/devin-williams-yankees-trade-ab499889ceb5a47b23374d169f35c32f)
     
     Newsletters
     
@@ -521,9 +521,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Woman accusing Jay-Z and Sean 'Diddy' Combs of sexual assault acknowledges inconsistencies](https://apnews.com/article/jayz-rape-allegation-sean-combs-diddy-inconsistencies-667e3c5f2abca341975741e536969d71)
     * [How to write a holiday rom-com for TV, according to the experts](https://apnews.com/article/hallmark-christmas-movie-holiday-romcom-writing-d4451b1563a274f490d9505fa23afd27)
     * [Saudi Arabia banned film for 35 years. The Red Sea festival is just one sign of the industry's rise](https://apnews.com/article/red-sea-film-festival-saudi-cinema-13c9762d8b72066987437179fa87bb2a)
-    * [Unique among 'Person of the Year' designees, Donald Trump gets a fact-check from Time magazine](https://apnews.com/article/time-trump-fact-check-3e1c54007f0486ac64f146948f7c4376)
     
 * [Business](https://apnews.com/business)
     
@@ -684,17 +684,17 @@ Submit Search
     
     TOP STORIES
     
+    * [Stay sober and have a jolly holiday season with these expert tips](https://apnews.com/article/staying-sober-holiday-tips-c1a18cbf0090b5049224c3f5d578590b)
     * [Once taboo, more Japanese women are brewing sake](https://apnews.com/article/japan-sake-women-brewers-84906e38b2be31eac5365ac343c05a0b)
     * [Stanley recalls millions of travel mugs over concerns the lids might fall off, causing burns](https://apnews.com/article/stanley-mug-recall-walmart-amazon-target-08fed4ae4f3f9269285f0ae3cb77a3ab)
-    * [AP Photos capture British royal family's year of illness and recovery](https://apnews.com/article/british-royals-king-charles-kate-2024-photos-43e51383f158c3c4907096cc5de79771)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Notre Dame Cathedral's reopening spectacle capped a stellar year for luxury house LVMH](https://apnews.com/article/lvmh-notre-dame-branding-arnault-0d8076d36ed655136666b74d2ee681ed)
     * [On Gita Jayanti, Hare Krishnas celebrate the birth of the sacred text Bhagavad Gita](https://apnews.com/article/hindu-scripture-hare-krishna-bhagavad-gita-07b3aca4ef17bece83929aa91c523c68)
     * [How to write a holiday rom-com for TV, according to the experts](https://apnews.com/article/hallmark-christmas-movie-holiday-romcom-writing-d4451b1563a274f490d9505fa23afd27)
-    * ['Crown of Thorns' returns to Notre Dame Cathedral for public veneration](https://apnews.com/article/notre-dame-france-relc-crown-of-thorns-f06a9d707663ebd407d78282530b3dd5)
     
     Newsletters
     
@@ -708,11 +708,11 @@ Submit Search
     
     TOP STORIES
     
+    * [Parlamento surcoreano vota a favor de abrir juicio político al presidente por decreto de ley marcial](https://apnews.com/article/asia-surcorea-ley-marcial-yoon-destitucion-141a7298d386158456ac29c6c11bc32d)
+    * [Bolivia elige a jueces de altas cortes en las urnas en medio de polémica política y desconfianza](https://apnews.com/article/bolivia-elecciones-judiciales-11b359216ec6ca49408cc55b8bbcc20c)
+    * [Conversaciones de la ONU no logran acuerdo para hacer frente al creciente riesgo de sequía global](https://apnews.com/article/onu-sequia-desertificacion-clima-arabia-saudi-b49662dc029a23b88f7e2c2d6f6876f8)
     * [Encuesta: Pocos estadounidenses tienen confianza en los seleccionados por Trump para su gabinete](https://apnews.com/article/eeuu-elecciones-trump-nuevo-gobierno-encuesta-fa5b30ade166aed70ff1f96abc2acc73)
-    * [Destacado abogado de derechos humanos abandona Corte Penal Internacional por no procesar a Venezuela](https://apnews.com/article/venezuela-cpi-claudio-grossman-maduro-e9f88b398937eb39be06d986cc3b99f3)
-    * [Miles de sirios celebran en Damasco en primer viernes de oraciones desde caída de Assad](https://apnews.com/article/siria-damasco-guerra-assad-festejos-4a07496ad7d360f196cf318cc5d51973)
-    * [Parlamento surcoreano votará sobre moción de destitución contra el presidente Yoon por ley marcial](https://apnews.com/article/asia-surcorea-ley-marcial-yoon-destitucion-141a7298d386158456ac29c6c11bc32d)
-    * [¿Drones, aviones u ovnis? Misteriosos avistamientos en Nueva Jersey causan revuelo](https://apnews.com/article/drones-jersey-luces-cielo-ovnis-599eea4b200ffa048b24bda90745b489)
+    * [Jóvenes activistas se enfrentan a una agencia gubernamental en una demanda climática en Florida](https://apnews.com/article/florida-clima-demanda-jovenes-activistas-fd8c127f0ef881a69b0ef06305d5ab0a)
     
 * [Quizzes](https://apnews.com/quizzes)
     
