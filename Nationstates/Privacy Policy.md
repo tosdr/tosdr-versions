@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [what would AN's reaction be to the fa… (7)](https://forum.nationstates.net/viewtopic.php?t=559656&f=25&view=unread#unread ""what would AN's reaction be to the fall of Asaad's regime?" (7 posts)")
-* [Is AU a normie? (30)](https://forum.nationstates.net/viewtopic.php?t=559651&f=25&view=unread#unread ""Is AU a normie?" (30 posts)")
-* ["Cease & Desist" - 2024 Governmental… (20)](https://forum.nationstates.net/viewtopic.php?t=559566&f=5&view=unread#unread """Cease & Desist" - 2024 Governmental Crisis [IC/MT/CLOSED]" (20 posts)")
-* [Opinions on AN's Flag (15)](https://forum.nationstates.net/viewtopic.php?t=559608&f=25&view=unread#unread ""Opinions on AN's Flag" (15 posts)")
-* [WorldVision Song Contest 118 | OOC |… (64)](https://forum.nationstates.net/viewtopic.php?t=558486&f=4&view=unread#unread ""WorldVision Song Contest 118 | OOC | Signups CLOSED" (64 posts)")
+* [The Collective Security League Assemb… (2,135)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (2,135 posts)")
+* [NFL Football Thread 24-25: The Road t… (9,019)](https://forum.nationstates.net/viewtopic.php?t=527922&f=20&view=unread#unread ""NFL Football Thread 24-25: The Road to New Orleans!" (9,019 posts)")
+* [Christian Discussion: No more Fun wit… (4,858)](https://forum.nationstates.net/viewtopic.php?t=523262&f=20&view=unread#unread ""Christian Discussion: No more Fun with Pope Puns" (4,858 posts)")
+* [Heirs of Icarus | OoC | Closed (197)](https://forum.nationstates.net/viewtopic.php?t=558264&f=31&view=unread#unread ""Heirs of Icarus | OoC | Closed" (197 posts)")
+* [2023-24 Israel-Iran proxy conflict (2,830)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (2,830 posts)")
 
 Advertisement
 
