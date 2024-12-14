@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/de-bizarre-handel-en-wandel-van-big-pharma/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/oorlog/oud-generaals-navo-heeft-oorlogszucht-met-rusland/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
