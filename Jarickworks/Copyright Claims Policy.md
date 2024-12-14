@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr government but that would be anarchy](/freeblr/government/but-that-would-be-anarchy/card.svg)](https://jarick.works/freeblr/government/but-that-would-be-anarchy)[![freeblr ethics objective morality](/freeblr/ethics/objective-morality/card.svg)](https://jarick.works/freeblr/ethics/objective-morality)[![freeblr faq is anarcho capitalism utopian](/freeblr/faq/is-anarcho-capitalism-utopian/card.svg)](https://jarick.works/freeblr/faq/is-anarcho-capitalism-utopian)[![freeblr government how to establish a government](/freeblr/government/how-to-establish-a-government/card.svg)](https://jarick.works/freeblr/government/how-to-establish-a-government)
+[![freeblr health how government solved the health care crisis](/freeblr/health/how-government-solved-the-health-care-crisis/card.svg)](https://jarick.works/freeblr/health/how-government-solved-the-health-care-crisis)[![freeblr taxation taxation call it what it is](/freeblr/taxation/taxation-call-it-what-it-is/card.svg)](https://jarick.works/freeblr/taxation/taxation-call-it-what-it-is)[![freeblr borders](/freeblr/borders/card.svg)](https://jarick.works/freeblr/borders)[![freeblr faq is anarchism the same thing as libertarianism](/freeblr/faq/is-anarchism-the-same-thing-as-libertarianism/card.svg)](https://jarick.works/freeblr/faq/is-anarchism-the-same-thing-as-libertarianism)
 
 [Follow](#follow)
 
