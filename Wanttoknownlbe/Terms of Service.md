@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/florida-gouverneurs-banden-producent-zika-mug-middel/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/verborgen-mind-control-van-alledag/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
