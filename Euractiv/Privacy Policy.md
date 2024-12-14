@@ -443,6 +443,8 @@ Most recent
 
 [14-12-2024
 
+Georgia ruling party installs loyalist president amid constitutional crisis, protests](https://www.euractiv.com/section/global-europe/news/georgia-ruling-party-installs-loyalist-president-amid-constitutional-crisis-protests/)[14-12-2024
+
 Kremlin praises Trump for criticising Ukrainian strikes deep into Russia](https://www.euractiv.com/section/global-europe/news/kremlin-praises-trump-for-criticising-ukrainian-strikes-deep-into-russia/)[14-12-2024
 
 Serbia seeks to reduce Russian ownership in oil giant to avoid sanctions](https://www.euractiv.com/section/eet/news/serbia-seeks-to-reduce-russian-ownership-in-oil-giant-to-avoid-sanctions/)[14-12-2024
@@ -459,9 +461,7 @@ Centrist François Bayrou appointed French prime minister](https://www.euractiv.
 
 Tech Pro Brief – CRA, GPSR in force, SMEs demand Eurostack, and TikTok Shop opens in Europe](https://www.euractiv.com/section/tech/news/tech-pro-brief-cra-gpsr-in-force-smes-demand-eurostack-and-tiktok-shop-opens-in-europe/)[13-12-2024
 
-Kazakhstan’s critical materials potential ripe for EU supply chain resilience](https://www.euractiv.com/section/economy-jobs/news/kazakhstans-critical-materials-potential-ripe-for-eu-supply-chain-resilience/)[13-12-2024
-
-EU interior ministers remain deadlocked on CSAM detection bill](https://www.euractiv.com/section/tech/news/eu-interior-ministers-remain-deadlocked-on-csam-detection-bill/)
+Kazakhstan’s critical materials potential ripe for EU supply chain resilience](https://www.euractiv.com/section/economy-jobs/news/kazakhstans-critical-materials-potential-ripe-for-eu-supply-chain-resilience/)
 
 ###### Advertisement
 
