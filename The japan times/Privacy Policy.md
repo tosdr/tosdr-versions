@@ -464,6 +464,10 @@ Revised June 1, 2022
 
 * Editors' Picks
 
+[U.S. serviceman sentenced over sexual assault of underage girl in Okinawa](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
+
+  [![The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439917.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.")](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
+
 [New Japanese condos now cost 10 times average salary, study shows](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
 
   [![Tokyo has the highest price-to-income ratio for high-rise condominiums in the country, at 17.78 times.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439829.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo has the highest price-to-income ratio for high-rise condominiums in the country, at 17.78 times.")](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
@@ -480,10 +484,6 @@ Revised June 1, 2022
 
   [![The yen slumped to its weakest in level in more than two weeks on Wednesday as traders reacted to a report that BOJ officials saw little cost to waiting before raising rates.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439874.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The yen slumped to its weakest in level in more than two weeks on Wednesday as traders reacted to a report that BOJ officials saw little cost to waiting before raising rates.")](https://www.japantimes.co.jp/business/2024/12/12/markets/yen-risk-boj/ "Danger for yen emerges with speculation BOJ may stand pat longer")
 
-[Japan tightens cannabis laws amid rising youth usage](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
-
-  [![Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439725.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.")](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
-
 [_'Kin'_ selected as the kanji of 2024 after strong year for Japanese athletes](https://www.japantimes.co.jp/news/2024/12/12/japan/japan-2024-kanji-of-the-year/ "'Kin' selected as the kanji of 2024 after strong year for Japanese athletes")
 
   [![The head priest of Kiyomizu Temple writes the kanji "kin," which was chosen by the public as the character that best represents 2024, on Thursday in Kyoto.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439791.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The head priest of Kiyomizu Temple writes the kanji "kin," which was chosen by the public as the character that best represents 2024, on Thursday in Kyoto.")](https://www.japantimes.co.jp/news/2024/12/12/japan/japan-2024-kanji-of-the-year/ "'Kin' selected as the kanji of 2024 after strong year for Japanese athletes")
@@ -491,6 +491,10 @@ Revised June 1, 2022
 [London calling: Sumo's U.K. trip brings back memories of 1991](https://www.japantimes.co.jp/sports/2024/12/11/sumo/london-sumo-tournament/ "London calling: Sumo's U.K. trip brings back memories of 1991")
 
   [![Japan’s national sport made its second foray into Western Europe, and first to the U.K., with a five-day tournament at London’s historic Royal Albert Hall in October 1991.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439479.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan’s national sport made its second foray into Western Europe, and first to the U.K., with a five-day tournament at London’s historic Royal Albert Hall in October 1991.")](https://www.japantimes.co.jp/sports/2024/12/11/sumo/london-sumo-tournament/ "London calling: Sumo's U.K. trip brings back memories of 1991")
+
+[Trilateral fighter project takes big step with joint venture deal](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
+
+  [![Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439993.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.")](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
 
 [‘Hayao Miyazaki and the Heron’ documentary meditates on auteur's creativity and legacy](https://www.japantimes.co.jp/culture/2024/12/11/film/hayao-miyazaki-and-the-heron/ "‘Hayao Miyazaki and the Heron’ documentary meditates on auteur's creativity and legacy")
 
@@ -519,9 +523,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -561,23 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Yoon Suk Yeol: from rising star to second impeachment vote](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/yoon-rise-and-fall/ "Yoon Suk Yeol: from rising star to second impeachment vote")
+[South Korean president impeached after martial law declaration](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached after martial law declaration")
+
+25 mins ago
+
+[Who is Han Duck-soo, South Korea's acting president after Yoon impeachment?](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/han-duck-soo-profile/ "Who is Han Duck-soo, South Korea's acting president after Yoon impeachment?")
 
 1 hour ago
 
-[Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
+[Observing a minute of silence for Ukraine's fallen soldiers](https://www.japantimes.co.jp/news/2024/12/14/world/society/ukraine-preserve-war-memory/ "Observing a minute of silence for Ukraine's fallen soldiers")
 
-1 hour ago
+2 hours ago
 
-[Japanese firm delays bid to be first to put a satellite into orbit](https://www.japantimes.co.jp/news/2024/12/14/japan/science-health/space-one-kairos-rocket-delay/ "Japanese firm delays bid to be first to put a satellite into orbit")
+[Ishiba urges deeper G7 security cooperation as North Korea gets closer to Russia](https://www.japantimes.co.jp/news/2024/12/14/japan/politics/japan-ukraine-g7-ishiba/ "Ishiba urges deeper G7 security cooperation as North Korea gets closer to Russia")
+
+2 hours ago
+
+[Macron hands new French PM the tough job of managing Le Pen](https://www.japantimes.co.jp/news/2024/12/14/world/politics/france-new-prime-minister-tough-job/ "Macron hands new French PM the tough job of managing Le Pen")
 
 3 hours ago
-
-[South Korean president to face second impeachment vote](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president to face second impeachment vote")
-
-5 hours ago
-
-[Trilateral fighter project takes big step with joint venture deal](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
