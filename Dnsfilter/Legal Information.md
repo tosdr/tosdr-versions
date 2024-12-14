@@ -131,7 +131,7 @@ This Privacy Policy (“Privacy Policy”) describes how DNSFilter, Inc. (“DNS
 
 This Privacy Policy does not apply to (i) the website [www.guardianapp.com](http://www.guardianapp.com/), nor the products and services offered through such site, nor (ii) personal information of end users that our customers, as the data controllers, may collect or maintain when they use the products and services we offer. With respect to (i), please visit [www.guardianapp.com](http://www.guardianapp.com/) to review the privacy practices specific to the guardian product. With respect to (ii), we process end user data only on their behalf as a data processor in order to provide them with our services. For more information about the privacy practices of one of our customers, please refer to their privacy policy or notice.
 
-DNSFilter reserves the right, at any time, to modify this Privacy Policy. If we modify how we collect, use, or share personal information, we will post the updated Privacy Policy on this page. In some cases, we may notify you about an update by sending you an email, posting a notice about the update on the Service, or other means as may be required by applicable law. In all cases, your continued use of the Service following posting or other notification of changes constitutes your acknowledgement of such changes. Please review this Privacy Policy periodically to keep up to date on our most current policies and practices.
+DNSFilter reserves the right, at any time, to modify this Privacy Policy. If we modify how we collect, use, or share personal information, we will post the updated Privacy Policy on this page. In some cases, we may notify you about an update by sending you an email, posting a notice about the update on the Service, or other means as may be required by applicable law. In all cases, your continued use of the Service following posting or other notification of changes constitutes your acknowledgement of such changes. Please review this Privacy Policy periodically to keep up to date on our most current policies and practices. 
 
 This Privacy Policy covers the following topics:
 
@@ -161,13 +161,13 @@ This Privacy Policy covers the following topics:
 
 Personal Information You Provide. We collect personal information when you provide it to us, which may include the following:
 
-* Contact information, such as first and last name, email address, phone number, and mailing address.
+* Contact information, such as first and last name, email address, phone number, and mailing address. 
     
 * Professional information, such as company name, job title, company location, and other details we may collect about your business or profession.
     
-* Account information, such as your log-in details, information that you store in your account, information you provide during registration or agreement submission, and other details about your use of the Service.
+* Account information, such as your log-in details, information that you store in your account, information you provide during registration or agreement submission, and other details about your use of the Service. 
     
-* Payment information, such as bank account number, credit or debit card number, or financial account details used for payments. All payment processing services connected with your use of the Service is provided to you by third-party payment processors.
+* Payment information, such as bank account number, credit or debit card number, or financial account details used for payments. All payment processing services connected with your use of the Service is provided to you by third-party payment processors. 
     
 * Order history, such as records of services you have purchased from us.
     
@@ -180,92 +180,92 @@ Personal Information You Provide. We collect personal information when you provi
 
 Unless we specifically request it, we ask that you not provide us with any sensitive personal information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, biometrics or genetic characteristics, criminal background, or trade union membership) on or through the Service, or otherwise to us.
 
-Personal Information from Third Parties. We may obtain personal information about you from third parties, such as social media platforms and other public sources, third parties that help us advertise our services and find new customers, joint marketing partners, event co-sponsors, and other third parties.
+Personal Information from Third Parties. We may obtain personal information about you from third parties, such as social media platforms and other public sources, third parties that help us advertise our services and find new customers, joint marketing partners, event co-sponsors, and other third parties. 
 
-Personal Information Collected Automatically. We, our service providers, and our business partners may automatically log information about you, your computer or mobile device, and your activity over time on our Service and other sites and online services, such as:
+Personal Information Collected Automatically. We, our service providers, and our business partners may automatically log information about you, your computer or mobile device, and your activity over time on our Service and other sites and online services, such as: 
 
 * Device data, such as your computer or mobile device operating system type and version number, manufacturer and model, browser type, screen resolution, IP address, unique identifiers, the website you visited before browsing to our website, and general location information such as city, state, or geographic area.
     
-* Online activity data, such as pages or screens you viewed, how long you spent on a page or screen, navigation paths between pages or screens, information about your activity on a page or screen, access times, and duration of access.
+* Online activity data, such as pages or screens you viewed, how long you spent on a page or screen, navigation paths between pages or screens, information about your activity on a page or screen, access times, and duration of access. 
     
 
 Like many online services, we use the following technologies to facilitate some of our automatic data collection:
 
-* Cookies, which are text files that websites store on a visitor‘s device to uniquely identify the visitor’s browser or to store information or settings in the browser for the purpose of helping you navigate between pages efficiently, remembering your preferences, enabling functionality, helping us understand user activity and patterns, and facilitating online advertising.
+* Cookies, which are text files that websites store on a visitor‘s device to uniquely identify the visitor’s browser or to store information or settings in the browser for the purpose of helping you navigate between pages efficiently, remembering your preferences, enabling functionality, helping us understand user activity and patterns, and facilitating online advertising. 
     
 * Web beacons, also known as pixel tags or clear GIFs, which are typically used to demonstrate that a webpage or email was accessed or opened, or that certain content was viewed or clicked, typically to compile statistics about usage of websites and the success of marketing campaigns.
     
-* Local storage, which is used to save data on a visitor’s device. We may use data from local storage to, for example, turn on web navigation, store multimedia preferences, customize what we show you based on your past interactions with our Service, and remember your preferences.
+* Local storage, which is used to save data on a visitor’s device. We may use data from local storage to, for example, turn on web navigation, store multimedia preferences, customize what we show you based on your past interactions with our Service, and remember your preferences. 
     
-* Session-replay technologies, which are third-party software programs that we may use on the Site or in some locations of the Service to record a video replay of user’s interactions with the Service. The video replay may include users’ clicks, mouse movements, scrolls, mobile app touches, typing, and other activity taken during the session. We use these replays for research and development purposes, such as to help us troubleshoot problems with the Service, understand how users interact with and use the Service, and identify areas for improvement.
+* Session-replay technologies, which are third-party software programs that we may use on the Site or in some locations of the Service to record a video replay of user’s interactions with the Service. The video replay may include users’ clicks, mouse movements, scrolls, mobile app touches, typing, and other activity taken during the session. We use these replays for research and development purposes, such as to help us troubleshoot problems with the Service, understand how users interact with and use the Service, and identify areas for improvement. 
 
 Referrals. Customers and other users of the Service may have the opportunity to refer friends, colleagues, or other contacts to us and share their contact information with us. Please do not refer someone to us or share their contact information with us unless you have their permission to do so.
 
 ### USE OF PERSONAL INFORMATION
 
-DNSFilter uses personal information for the purposes set forth below and as otherwise described in this Privacy Policy or at the time of collection.
+DNSFilter uses personal information for the purposes set forth below and as otherwise described in this Privacy Policy or at the time of collection. 
 
-To Provide the Service. We may use personal information to provide our Service and related products and services, and to operate our business. For example, we use personal information to:
+To Provide the Service. We may use personal information to provide our Service and related products and services, and to operate our business. For example, we use personal information to: 
 
-* process your transactions, including granting access to our Service and providing our services and technology;
+* process your transactions, including granting access to our Service and providing our services and technology; 
 * establish, manage, monitor, and maintain your account;
 * improve and personalize your experience on or with the Service;
 * verify your identity or determine your eligibility for offers or promotions;
-* communicate with you, including providing notices about your account or transaction (e.g., confirmations, invoices, technical notices, updates, and security alerts) and responding to any of your requests, feedback, or questions;
+* communicate with you, including providing notices about your account or transaction (e.g., confirmations, invoices, technical notices, updates, and security alerts) and responding to any of your requests, feedback, or questions; 
 * contact you by phone, email, SMS, or other form of communication;
 * provide any contests, surveys, sweepstakes, or other promotions you participate in;
 * provide maintenance and support; and
 * fulfill any other purpose for which you provide personal information.
 
-Research and Development. We may use your personal information for research and development purposes, including to study and improve the Service and our business, understand and analyze the usage trends and preferences of our users, and develop new features, functionality, products, and services. As part of these activities, we may create aggregated, de-identified, or other anonymous data from personal information we collect. We make personal information into anonymous data by removing information that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties for our lawful business purposes.
+Research and Development. We may use your personal information for research and development purposes, including to study and improve the Service and our business, understand and analyze the usage trends and preferences of our users, and develop new features, functionality, products, and services. As part of these activities, we may create aggregated, de-identified, or other anonymous data from personal information we collect. We make personal information into anonymous data by removing information that makes the data personally identifiable to you. We may use this anonymous data and share it with third parties for our lawful business purposes. 
 
-Direct Marketing. We may send you DNSFilter-related or other direct marketing communications as permitted by law, including materials, updates, information, special offers, and promotional material from us and our business partners. You may opt-out of our marketing communications as described in the “YOUR CHOICES” section below.
+Direct Marketing. We may send you DNSFilter-related or other direct marketing communications as permitted by law, including materials, updates, information, special offers, and promotional material from us and our business partners. You may opt-out of our marketing communications as described in the “YOUR CHOICES” section below. 
 
-Interest-Based Advertising. We work with third-party advertising companies and social media companies to help us advertise our business and to display ads for our Service. These companies may use cookies and similar technologies to collect information about you (including the online activity information and device information described above in the section called “Personal Information Automatically Collected”) over time across our Service and other websites and services or your interaction with our emails, and use that information to serve ads that they think will interest you. In addition, some of these companies may use hashed customer lists that we share with them to deliver ads to you and to similar users on their platforms. You can learn more about your choices for limiting interest-based advertising in the “YOUR CHOICES” section below.
+Interest-Based Advertising. We work with third-party advertising companies and social media companies to help us advertise our business and to display ads for our Service. These companies may use cookies and similar technologies to collect information about you (including the online activity information and device information described above in the section called “Personal Information Automatically Collected”) over time across our Service and other websites and services or your interaction with our emails, and use that information to serve ads that they think will interest you. In addition, some of these companies may use hashed customer lists that we share with them to deliver ads to you and to similar users on their platforms. You can learn more about your choices for limiting interest-based advertising in the “YOUR CHOICES” section below. 
+
+ReCAPTCHA. We have implemented Google reCAPTCHA Enterprise on certain marketing forms utilized on our Site to prevent malicious software from engaging in abusive activities on such Site. You can learn more about data collected by Google and what this data is used for in Google's [Privacy Policy](https://policies.google.com/privacy). Additional information on Google services and products is available in Google's [Terms of Service](https://policies.google.com/terms). 
 
 To Comply with Laws and Regulations. We will use personal information as we believe necessary or appropriate to comply with applicable laws, lawful requests, and legal process, such as to respond to subpoenas or requests from government authorities.
 
-For Compliance, Fraud Prevention, and Safety. We may use personal information and disclose it to law enforcement, government authorities, and private parties as we believe necessary or appropriate to: (a) maintain the safety, security, and integrity of the Service, business, databases, and other technology assets; (b) protect our, your, or others’ rights, privacy, safety or property (including by making and defending legal claims); (c) audit our internal processes for compliance with legal and contractual requirements and internal policies; (d) enforce the terms and conditions that govern the Service; and (e) prevent, identify, investigate, and deter fraudulent, harmful, unauthorized, unethical or illegal activity, including cyberattacks and identity theft.
+For Compliance, Fraud Prevention, and Safety. We may use personal information and disclose it to law enforcement, government authorities, and private parties as we believe necessary or appropriate to: (a) maintain the safety, security, and integrity of the Service, business, databases, and other technology assets; (b) protect our, your, or others’ rights, privacy, safety or property (including by making and defending legal claims); (c) audit our internal processes for compliance with legal and contractual requirements and internal policies; (d) enforce the terms and conditions that govern the Service; and (e) prevent, identify, investigate, and deter fraudulent, harmful, unauthorized, unethical or illegal activity, including cyberattacks and identity theft. 
 
-With Your Consent. We will disclose your personal information in accordance with your prior direction or, in some cases, we may specifically ask you for your consent to collect, use, or share your personal information, such as when required by law.
+With Your Consent. We will disclose your personal information in accordance with your prior direction or, in some cases, we may specifically ask you for your consent to collect, use, or share your personal information, such as when required by law. 
 
 ### SHARING OF PERSONAL INFORMATION
 
-In addition to the sharing described elsewhere in this Privacy Policy or at the point of collection, DNSFilter may share your personal information as follows:
+In addition to the sharing described elsewhere in this Privacy Policy or at the point of collection, DNSFilter may share your personal information as follows: 
 
-Related Companies. We may share your personal information with our affiliates, subsidiaries, and other related companies.
+**Related Companies**. We may share your personal information with our affiliates, subsidiaries, and other related companies. 
 
-Service Providers. We may share your personal information with third parties who perform services on our behalf that are necessary for the orderly operation of our business. For example, we work with service providers that help us perform website and application hosting, maintenance services, database management, analytics, fraud protection, marketing, customer relationship management, finances, and other purposes.
+**Service Providers**. We may share your personal information with third parties who perform services on our behalf that are necessary for the orderly operation of our business. For example, we work with service providers that help us perform website and application hosting, maintenance services, database management, analytics, fraud protection, marketing, customer relationship management, finances, and other purposes. 
 
-Our Customers. If you joined or were added to the Service as an authorized user of your employer, we may share personal information about you with your employer to facilitate the services that we provide to them.
+**Our Customers.** If you joined or were added to the Service as an authorized user of your employer, we may share personal information about you with your employer to facilitate the services that we provide to them. 
 
-Advertising Partners. We may also share personal information with third parties who we partner with for advertising campaigns or that collect information about your activity on the Service for the purposes described in the “Interest-Based Advertising” section above.
+**Advertising Partners**. We may also share personal information with third parties who we partner with for advertising campaigns or that collect information about your activity on the Service for the purposes described in the “Interest-Based Advertising” section above. 
 
-Contest and Joint Marketing Partners. We may also share your personal information with other partners in order to provide you with content and other features through the Service, and such partners may send you promotional materials or otherwise contact you regarding products and services that they offer. When you choose to enter a contest or sign up for a promotion, if applicable, we may share the personal information you provide as part of the offer with the named co-sponsors or other third parties affiliated with such offer.
+**Contest and Joint Marketing Partners**. We may also share your personal information with other partners in order to provide you with content and other features through the Service, and such partners may send you promotional materials or otherwise contact you regarding products and services that they offer. When you choose to enter a contest or sign up for a promotion, if applicable, we may share the personal information you provide as part of the offer with the named co-sponsors or other third parties affiliated with such offer. 
 
-Professional Advisors. We may share personal information with persons, companies, or professional firms providing DNSFilter with advice and consulting in accounting, administrative, legal, tax, financial, debt collection, and other matters.
+**Professional Advisors**. We may share personal information with persons, companies, or professional firms providing DNSFilter with advice and consulting in accounting, administrative, legal, tax, financial, debt collection, and other matters.
 
-Law Enforcement, Government Authorities, and Private Parties. Under certain circumstances, we may be required to disclose personal information to law enforcement, government authorities, and other parties if required to do so by law or in response to valid requests by public authorities (e.g., a court or a government agency).
+**Law Enforcement, Government Authorities, and Private Parties**. Under certain circumstances, we may be required to disclose personal information to law enforcement, government authorities, and other parties if required to do so by law or in response to valid requests by public authorities (e.g., a court or a government agency). 
 
 We may also disclose personal information in the good faith belief that such action is necessary to comply with a legal obligation or for the purposes described above in the section titled “For Compliance, Fraud Prevention, and Safety.”
 
-Business Transaction Participants. We may disclose personal information to third parties in connection with any business transaction (or potential transaction) involving a merger, acquisition, sale of shares or assets, financing, consolidation, reorganization, divestiture, or dissolution of all or a portion of our business (including in connection with a bankruptcy or similar proceedings).
+**Business Transaction Participants**. We may disclose personal information to third parties in connection with any business transaction (or potential transaction) involving a merger, acquisition, sale of shares or assets, financing, consolidation, reorganization, divestiture, or dissolution of all or a portion of our business (including in connection with a bankruptcy or similar proceedings). 
 
 ### INTERNATIONAL TRANSFERS OF PERSONAL INFORMATION
 
-DNSFilter is based in the United States, and we have service providers in the United States and potentially other countries. Your personal information may be collected, used, and stored in these countries or other locations outside of your home country. Privacy laws in the locations where we handle your personal information may not be as protective as the privacy laws in your home country. By providing your personal
-
-information, where applicable law permits, you specifically and expressly consent to such transfer and processing and the collection, use, and disclosure set forth herein.
+DNSFilter is based in the United States, and we have service providers in the United States and potentially other countries. Your personal information may be collected, used, and stored in these countries or other locations outside of your home country. Privacy laws in the locations where we handle your personal information may not be as protective as the privacy laws in your home country. By providing your personal information, where applicable law permits, you specifically and expressly consent to such transfer and processing and the collection, use, and disclosure set forth herein.
 
 ### YOUR CHOICES
 
-Review and Request Changes to Your Account Personal Information. If you have a DNSFilter account, you can log into their account to review, delete, and make changes to certain personal information stored in your account. If you need to make a change and are unable to do this through your account settings, please email us using the contact information at the end of this Privacy Policy. We rely on you to update and correct the personal information contained in your account. Note that we may keep historical information in our backup files as permitted by law.
+**Review and Request Changes to Your Account Personal Information**. If you have a DNSFilter account, you can log into their account to review, delete, and make changes to certain personal information stored in your account. If you need to make a change and are unable to do this through your account settings, please email us using the contact information at the end of this Privacy Policy. We rely on you to update and correct the personal information contained in your account. Note that we may keep historical information in our backup files as permitted by law. 
 
 Marketing Emails. You can manage your communication preferences by clicking the “Manage Preferences” link at the bottom of any marketing email you receive from DNSFilter, using our Manage Preferences page to customize the types of communications you wish to receive, or clicking here to receive a unique link via email for secure access to manage your preferences. Please note that even if you opt out of marketing communications, you may still receive essential service-related communications, such as those regarding your account or critical updates.
 
-Text Messages. We may offer communications via text messages sent by DNSFilter or any of our service providers. To stop receiving text messages from us, reply STOP to any text message you receive from us, or send your request and mobile telephone number to the email address listed at the end of this Privacy Policy. Note that we may send you a message to confirm receipt of your STOP request.
+**Text Messages.** We may offer communications via text messages sent by DNSFilter or any of our service providers. To stop receiving text messages from us, reply STOP to any text message you receive from us, or send your request and mobile telephone number to the email address listed at the end of this Privacy Policy. Note that we may send you a message to confirm receipt of your STOP request. 
 
-Cookies. Most browsers let you remove and/or stop accepting cookies from the websites you visit. To do this, follow the instructions in your browser’s settings. Many browsers accept cookies by default until you change your settings. If you do not accept cookies, however, you may not be able to use all functionality of the Service and they may not work properly. For more information about cookies, including how to see what cookies have been set on your browser and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+**Cookies**. Most browsers let you remove and/or stop accepting cookies from the websites you visit. To do this, follow the instructions in your browser’s settings. Many browsers accept cookies by default until you change your settings. If you do not accept cookies, however, you may not be able to use all functionality of the Service and they may not work properly. For more information about cookies, including how to see what cookies have been set on your browser and how to manage and delete them, visit [www.allaboutcookies.org.](http://www.allaboutcookies.org/) 
 
 Analytics. We use Google Analytics to help us analyze how our website properties are being accessed and used. You can learn more about Google Analytics cookies by clicking [here](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies) and about how Google protects your data by clicking [here](https://support.google.com/analytics/answer/6004245). To opt-out of Google Analytics, you can download and install the Google Analytics Opt-out Browser Add-on, available [here](https://tools.google.com/dlpage/gaoptout?hl=en).
 
@@ -281,7 +281,7 @@ The Service is not intended for use by anyone under the age of 18, and we do not
 
 ### SECURITY OF PERSONAL INFORMATION
 
-No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal information from the risks presented by unauthorized access or acquisition, we cannot guarantee the security of your personal information.
+No method of transmission over the Internet, or method of electronic storage, is fully secure. While we use reasonable efforts to protect your personal information from the risks presented by unauthorized access or acquisition, we cannot guarantee the security of your personal information. 
 
 ### THIRD PARTY WEBSITES AND SERVICES
 
@@ -293,13 +293,11 @@ Under California Civil Code sections 1798.83-1798.84, California residents who h
 
 ### NOTICE TO EUROPEAN USERS
 
-The information provided in this section applies only to individuals in the European Economic Area and the United Kingdom (collectively, “Europe”). Except as otherwise specified, references to “personal information” in this Privacy Policy are equivalent to “personal data” governed by European data protection legislation.
+The information provided in this section applies only to individuals in the European Economic Area and the United Kingdom (collectively, “Europe”). Except as otherwise specified, references to “personal information” in this Privacy Policy are equivalent to “personal data” governed by European data protection legislation. 
 
 Controller. The controller of your personal information covered by this Privacy Policy for purposes of European data protection legislation is DNSFilter, Inc., 80 M St SE, Suite 100 Washington, DC 20003, USA.
 
-Legal Basis for Processing. The applicable legal bases of our processing of your personal information as described in this Privacy Policy will depend on the type of personal information and the specific context in which we process it. However, the legal bases we typically rely on are set out in the table below. We rely on our legitimate interests as our legal basis only where those interests are not overridden by the impact on you (unless we have your consent or our processing is otherwise required or permitted by law).
-
-If you have questions about the legal basis of how we process your personal information, contact us using the contact information at the bottom of this Privacy Policy.
+Legal Basis for Processing. The applicable legal bases of our processing of your personal information as described in this Privacy Policy will depend on the type of personal information and the specific context in which we process it. However, the legal bases we typically rely on are set out in the table below. We rely on our legitimate interests as our legal basis only where those interests are not overridden by the impact on you (unless we have your consent or our processing is otherwise required or permitted by law). If you have questions about the legal basis of how we process your personal information, contact us using the contact information at the bottom of this Privacy Policy.
 
 |     |     |
 | --- | --- |
@@ -312,7 +310,7 @@ If you have questions about the legal basis of how we process your personal info
 | For Compliance, Fraud Prevention, and Safety | Processing is necessary to comply with our legal obligations or based on our legitimate interests in protecting our or others’ rights, privacy, safety, or property. |
 | With Your Consent | Processing is based on your consent. Where we rely on your consent you have the right to withdraw it any time in the manner indicated when you consent or via the relevant Services. |
 
-Use for New Purposes. We may use your personal information for reasons not described in this Privacy Policy where permitted by law and the reason is compatible with the purpose for which we collected it. If we need to use your personal information for an unrelated purpose, we will notify you and explain the applicable legal basis.
+Use for New Purposes. We may use your personal information for reasons not described in this Privacy Policy where permitted by law and the reason is compatible with the purpose for which we collected it. If we need to use your personal information for an unrelated purpose, we will notify you and explain the applicable legal basis.  
 
 Retention. We will retain your personal information for as long as necessary to fulfill the purpose of collection, including for the purposes of satisfying any legal, accounting, or reporting requirements, to establish and defend legal claims, for fraud prevention purposes, or as long as required to meet our legal obligations. To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure of your personal information, the purposes for which we process your personal information and whether we can achieve those purposes through other means, and the applicable legal requirements.
 
