@@ -2,8 +2,8 @@
 
   ![](/images/search.svg)
 
-07:46 pm  
-Fri 12/13/2024
+01:45 am  
+Sat 12/14/2024
 
 ![ Abflug](/images/header-background-right.png)
 
@@ -345,7 +345,7 @@ How do you rate Airportinfo.live?
 ☆☆☆☆☆
 
 Thank you!  
-Would you support us by rating us at Trustpilot? Of course No thanks
+Would you support us by rating us at Google? Of course No thanks
 
 **Thank you!**  
 What can we do to improve your rating? Send Close
