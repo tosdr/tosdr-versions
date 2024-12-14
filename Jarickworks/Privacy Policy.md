@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![spekr what is authoritarian socialism](/spekr/what-is-authoritarian-socialism/card.svg)](https://jarick.works/spekr/what-is-authoritarian-socialism)[![spekr what is socialism](/spekr/what-is-socialism/card.svg)](https://jarick.works/spekr/what-is-socialism)[![freeblr ethics the decline of morality in the west](/freeblr/ethics/the-decline-of-morality-in-the-west/card.svg)](https://jarick.works/freeblr/ethics/the-decline-of-morality-in-the-west)[![freeblr justice the myth of the rule of law](/freeblr/justice/the-myth-of-the-rule-of-law/card.svg)](https://jarick.works/freeblr/justice/the-myth-of-the-rule-of-law)
+[![freeblr ethics](/freeblr/ethics/card.svg)](https://jarick.works/freeblr/ethics)[![freeblr limited government minarchism versus anarchism](/freeblr/limited-government/minarchism-versus-anarchism/card.svg)](https://jarick.works/freeblr/limited-government/minarchism-versus-anarchism)[![freeblr health government makes healthcare worse and more expensive](/freeblr/health/government-makes-healthcare-worse-and-more-expensive/card.svg)](https://jarick.works/freeblr/health/government-makes-healthcare-worse-and-more-expensive)[![freeblr government what is authority](/freeblr/government/what-is-authority/card.svg)](https://jarick.works/freeblr/government/what-is-authority)
 
 [Follow](#follow)
 
