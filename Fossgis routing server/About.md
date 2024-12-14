@@ -1,7 +1,9 @@
 OSRM routing server using OpenStreetMap data
 ============================================
 
-This server provides route instructions for a few select modes of transportation. It uses free and open data from the collaborative [OpenStreetMap](https://openstreetmap.org/) project with the routing engine [OSRM](http://project-osrm.org/). The servers are sponsored by [FOSSGIS](https://www.fossgis.de/).
+This server provides route instructions for a few select modes of transportation. It uses free and open data from the collaborative [OpenStreetMap](https://openstreetmap.org/) project with the routing engine [OSRM](http://project-osrm.org/). The server is owned and operated by [FOSSGIS](https://www.fossgis.de/).
+
+Big thanks to [nine](https://nine.ch/) for sponsoring this servers colocation.
 
 Contact
 -------
