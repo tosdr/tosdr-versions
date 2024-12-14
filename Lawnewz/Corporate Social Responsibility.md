@@ -99,23 +99,23 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Eric Moulds in a video from the Buffalo Bills](https://am21.mediaite.com/lc/cnt/uploads/2024/12/eric-moulds-youtube-432x243.jpg)](https://lawandcrime.com/lawsuit/former-nfl-star-intentionally-gave-incurable-std-to-multiple-women-specifically-targeting-buffalo-bills-fans-lawsuit/)
+1. [![Eric Moulds in a video from the Buffalo Bills](https://lawandcrime.com/wp-content/uploads/2024/12/eric-moulds-youtube-432x243.jpg)](https://lawandcrime.com/lawsuit/former-nfl-star-intentionally-gave-incurable-std-to-multiple-women-specifically-targeting-buffalo-bills-fans-lawsuit/)
     
     ### [Former NFL star 'intentionally' gave incurable STD to multiple women, specifically targeting 'Buffalo Bills fans': Lawsuit](https://lawandcrime.com/lawsuit/former-nfl-star-intentionally-gave-incurable-std-to-multiple-women-specifically-targeting-buffalo-bills-fans-lawsuit/)
     
-2. [![Tekquan Alexander mugshot](https://am23.mediaite.com/lc/cnt/uploads/2024/11/tekquan-alexander-mugshot-432x243.jpg)](https://lawandcrime.com/crime/dad-who-tortured-his-4-year-old-daughter-into-a-vegetative-state-told-girls-mother-that-she-fainted-during-a-time-out-learns-his-fate/)
+2. [![Tekquan Alexander mugshot](https://lawandcrime.com/wp-content/uploads/2024/11/tekquan-alexander-mugshot-432x243.jpg)](https://lawandcrime.com/crime/dad-who-tortured-his-4-year-old-daughter-into-a-vegetative-state-told-girls-mother-that-she-fainted-during-a-time-out-learns-his-fate/)
     
     ### [Dad who tortured his 4-year-old daughter into a ‘vegetative state,’ told girl’s mother that she fainted during a ‘time-out’ learns his fate](https://lawandcrime.com/crime/dad-who-tortured-his-4-year-old-daughter-into-a-vegetative-state-told-girls-mother-that-she-fainted-during-a-time-out-learns-his-fate/)
     
-3. [![Left to right: Jim Jordan, Jack Smith, and Fani Willis.](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Jordan-Smith-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/violates-constitutional-principles-fani-willis-spurns-jim-jordan-demand-for-jack-smith-related-trump-documents-with-a-nod-to-their-thoughtful-correspondence/)
+3. [![Left to right: Jim Jordan, Jack Smith, and Fani Willis.](https://lawandcrime.com/wp-content/uploads/2024/12/Jordan-Smith-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/violates-constitutional-principles-fani-willis-spurns-jim-jordan-demand-for-jack-smith-related-trump-documents-with-a-nod-to-their-thoughtful-correspondence/)
     
     ### ['Violates constitutional principles': Fani Willis spurns Jim Jordan demand for Jack Smith-related Trump documents with a nod to their 'thoughtful correspondence'](https://lawandcrime.com/high-profile/violates-constitutional-principles-fani-willis-spurns-jim-jordan-demand-for-jack-smith-related-trump-documents-with-a-nod-to-their-thoughtful-correspondence/)
     
-4. [![Inset: Saiy-Yah Allen (Royal Funeral Service, Inc.).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/walmart-432x243.jpg)](https://lawandcrime.com/lawsuit/failed-to-use-his-senses-walmart-blames-inattentive-9-year-old-for-walking-into-metal-cart-leading-to-his-death-years-later-lawsuit-says/)
+4. [![Inset: Saiy-Yah Allen (Royal Funeral Service, Inc.).](https://lawandcrime.com/wp-content/uploads/2024/12/walmart-432x243.jpg)](https://lawandcrime.com/lawsuit/failed-to-use-his-senses-walmart-blames-inattentive-9-year-old-for-walking-into-metal-cart-leading-to-his-death-years-later-lawsuit-says/)
     
     ### ['Failed to use his senses': Walmart blames 'inattentive' 9-year-old for walking into metal cart, leading to his death years later, lawsuit says](https://lawandcrime.com/lawsuit/failed-to-use-his-senses-walmart-blames-inattentive-9-year-old-for-walking-into-metal-cart-leading-to-his-death-years-later-lawsuit-says/)
     
-5. [![Inset: Jacob Sterr (Springfield Police Department). Background: President Joe Biden speaks from the Roosevelt Room of the White House in Washington, Sunday, July 14, 2024, about the apparent assassination attempt of former President Donald Trump at a campaign rally in Pennsylvania (AP Photo/Susan Walsh).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/Biden-and-Sterr-1-432x243.jpg)](https://lawandcrime.com/crime/im-going-to-have-you-killed-man-makes-threats-to-assassinate-president-biden-barack-obama-in-x-posts-and-videos-feds-say/)
+5. [![Inset: Jacob Sterr (Springfield Police Department). Background: President Joe Biden speaks from the Roosevelt Room of the White House in Washington, Sunday, July 14, 2024, about the apparent assassination attempt of former President Donald Trump at a campaign rally in Pennsylvania (AP Photo/Susan Walsh).](https://lawandcrime.com/wp-content/uploads/2024/12/Biden-and-Sterr-1-432x243.jpg)](https://lawandcrime.com/crime/im-going-to-have-you-killed-man-makes-threats-to-assassinate-president-biden-barack-obama-in-x-posts-and-videos-feds-say/)
     
     ### ['I'm going to have you killed': Man makes threats to assassinate President Biden, Barack Obama in X posts and videos, feds say](https://lawandcrime.com/crime/im-going-to-have-you-killed-man-makes-threats-to-assassinate-president-biden-barack-obama-in-x-posts-and-videos-feds-say/)
     
