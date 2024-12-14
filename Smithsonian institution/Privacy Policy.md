@@ -94,7 +94,7 @@ Site Navigation
             * [Records Requests](https://www.si.edu/ogc/records-requests)
                 * [Reading Room](https://www.si.edu/ogc/records-reading-room)
             * [Tort Claim](https://www.si.edu/ogc/tort-claim)
-            * [Subpoenas & Testimonies](https://www.si.edu/ogc-page/responding-subpoenas)
+            * [Subpoenas & Testimonies](https://www.si.edu/ogc/responding-subpoenas)
             * [Events](https://www.si.edu/ogc/office-general-counsel-events)
         * [Office of Human Resources](https://www.si.edu/ohr)
             * [Employee Benefits](https://www.si.edu/ohr/benefits)
