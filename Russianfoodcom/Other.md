@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -150,11 +150,11 @@
 
 * [Мещерская окрошка](https://www.russianfood.com/recipes/recipe.php?rid=3683)
 * [«Конфетти»](https://www.russianfood.com/recipes/recipe.php?rid=11167)
-* [Клецки со шпиком](https://www.russianfood.com/recipes/recipe.php?rid=14662)
-* [Сосиски со стручковым перцем](https://www.russianfood.com/recipes/recipe.php?rid=16351)
 * [Сандвичи для гурманов](https://www.russianfood.com/recipes/recipe.php?rid=16381)
-* [Большая котлета с сосисками](https://www.russianfood.com/recipes/recipe.php?rid=16513)
-* [Котлета «тетя рина»](https://www.russianfood.com/recipes/recipe.php?rid=16526)
+* [Окрошка](https://www.russianfood.com/recipes/recipe.php?rid=17299)
+* [Салат из колбасы](https://www.russianfood.com/recipes/recipe.php?rid=17425)
+* [Колбаса жареная](https://www.russianfood.com/recipes/recipe.php?rid=17443)
+* [Консоме по-германски](https://www.russianfood.com/recipes/recipe.php?rid=17471)
 
 |     |
 | --- |
@@ -176,6 +176,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Всегда насытит – теплом, уютом и буквально. Лучшая ВЫПЕЧКА №24](https://www.russianfood.com/reading/?post_id=22992) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/755/sm_754976.jpg)](https://www.russianfood.com/reading/?post_id=22992)
+
+Апельсиновые кексы. Постный апельсиновый манник. Лимонные блонди с глазурью. Пирожки с капустой. Гата с сухофруктами и орехами. Слоёная галета с цукини, рикоттой и тыквой. Слоёная ёлочка с сыром и шпинатом.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22992)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22992#comments) | 14.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Солнечные блинчики и другие яркие вкусности. ТЫКВА по-необычному (21)](https://www.russianfood.com/reading/?post_id=22991) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/692/sm_691335.jpg)](https://www.russianfood.com/reading/?post_id=22991)
+
+Тыквенные блины на кефире. Тыквенное печенье. Муссовый тыквенный торт. Запеканка из тыквы с фаршем и сыром.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22991)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22991#comments) | 14.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -245,7 +273,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ИВАНЫЧ](https://www.russianfood.com/blogs/?id=18150) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175124#comments) | 13.12.24 |     |
+|     | [ИВАНЫЧ](https://www.russianfood.com/blogs/?id=18150) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175124#comments) | 13.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -315,7 +343,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174953#comments) | 12.12.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174953#comments) | 12.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -329,7 +357,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174955#comments) | 12.12.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174955#comments) | 12.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -358,34 +386,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22981#comments) | 12.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Пряный тыквенный кекс](https://www.russianfood.com/recipes/recipe.php?rid=175022) |     |
-
-[![Фото к рецепту: Пряный тыквенный кекс](//img1.russianfood.com/dycontent/images_upl/759/sm_758670.jpg "Фото к рецепту: Пряный тыквенный кекс")](https://www.russianfood.com/recipes/recipe.php?rid=175022)
-
-Секрет успеха этой выпечки - тыква. Она придаёт кексу яркий оранжевый цвет и делает его влажным, но её вкус почти не ощущается. Всё внимание захватывают пряности - корица и имбирь, которые делают аромат кекса тёплым. Угадать, из чего приготовлен этот кекс, будет непросто.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175022)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175022#comments) | 12.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Яичные роллы с крабовыми палочками и сыром](https://www.russianfood.com/recipes/recipe.php?rid=175076) |     |
-
-[![Фото к рецепту: Яичные роллы с крабовыми палочками и сыром](//img1.russianfood.com/dycontent/images_upl/760/sm_759568.jpg "Фото к рецепту: Яичные роллы с крабовыми палочками и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=175076)
-
-Яичные роллы с крабовыми палочками — простая закуска для праздника. На яичные блинчики выкладываются развёрнутые крабовые палочки, сыр и майонез, затем формируются рулетики, которые разрезаются на порции. Подаются горячими или холодными.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175076)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_6 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175076#comments) | 12.12.24 |     |
 
 |     |
 | --- |
@@ -476,4 +476,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(118)
+(188)
