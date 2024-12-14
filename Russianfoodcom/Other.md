@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -149,12 +149,14 @@
 Сейчас читают
 
 * [Мещерская окрошка](https://www.russianfood.com/recipes/recipe.php?rid=3683)
-* [«Конфетти»](https://www.russianfood.com/recipes/recipe.php?rid=11167)
 * [Сандвичи для гурманов](https://www.russianfood.com/recipes/recipe.php?rid=16381)
-* [Окрошка](https://www.russianfood.com/recipes/recipe.php?rid=17299)
 * [Салат из колбасы](https://www.russianfood.com/recipes/recipe.php?rid=17425)
-* [Колбаса жареная](https://www.russianfood.com/recipes/recipe.php?rid=17443)
-* [Консоме по-германски](https://www.russianfood.com/recipes/recipe.php?rid=17471)
+* [Рулет пикантный](https://www.russianfood.com/recipes/recipe.php?rid=17593)
+* [Сосиски, приготовленные на сковородке](https://www.russianfood.com/recipes/recipe.php?rid=17854)
+* [Кольраби фаршированная](https://www.russianfood.com/recipes/recipe.php?rid=17986)
+* [Начинка пикантная](https://www.russianfood.com/recipes/recipe.php?rid=18410)
+* [Бутерброды с колбасой и крутым яйцом](https://www.russianfood.com/recipes/recipe.php?rid=18893)
+* [Салат из фасоли с колбасой](https://www.russianfood.com/recipes/recipe.php?rid=19825)
 
 |     |
 | --- |
@@ -273,7 +275,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ИВАНЫЧ](https://www.russianfood.com/blogs/?id=18150) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175124#comments) | 13.12.24 |     |
+|     | [ИВАНЫЧ](https://www.russianfood.com/blogs/?id=18150) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175124#comments) | 13.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -476,4 +478,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(188)
+(111)
