@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. c
+1. marketing
     
-2. French
+2. computer science
     
-3. html
+3. graphic design
     
 
 Popular subjects
 
-1. [Artificial Intelligence
+1. [Web Development
     
-    14,536 courses](https://www.classcentral.com/subject/ai)
-2. [Communication Skills
+    14,049 courses](https://www.classcentral.com/subject/web-development)
+2. [Data Analysis
     
-    4,369 courses](https://www.classcentral.com/subject/communication-skills)
+    9,090 courses](https://www.classcentral.com/subject/data-analysis)
 3. [Machine Learning
     
     17,584 courses](https://www.classcentral.com/subject/machine-learning)
 
 Popular courses
 
-1. [Gamification
+1. [Computing in Python I: Fundamentals and Procedural Programming
     
-    University of Pennsylvania](https://www.classcentral.com/course/gamification-343)
-2. [The Science of Gastronomy
+    Georgia Institute of Technology](https://www.classcentral.com/course/python-the-georgia-institute-of-technology-comput-11469)
+2. [Perdón y reconciliación: cómo sanar heridas
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/scigast-519)
-3. [The Science of Everyday Thinking
+    The Pontificia Universidad Javeriana](https://www.classcentral.com/course/social-science-pontificia-universidad-javeriana-p-11475)
+3. [Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron
     
-    University of Queensland](https://www.classcentral.com/course/thinking-the-university-of-queensland-the-science-1332)
+    Harvard University](https://www.classcentral.com/course/neuroscience-harvard-university-fundamentals-of-n-942)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
