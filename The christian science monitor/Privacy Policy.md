@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-December 12, 2024
+December 13, 2024
 
-What has changed in Syria, and what hasn’t
+Star power
 
-Scott Peterson and Dominique Soguel are on the ground in Syria. On her first day back in the country, two things struck Dominique. First, people are willing to express their political opinions loud and clear, including their concerns about what might come next. That’s a startling change, she says. What has not changed, she adds, is the hospitality and willingness among Syrians of every class and faith to help even perfect strangers. “In just a few hours,” she says, “I’ve been able to lean in on old friends and new ones to solve all kinds of problems to arrive safely.”
+Space is one of those frontiers, like the seabed beneath retreating polar ice, where you might expect international flexing over resources. You wouldn’t be wrong. But where innovation is at play, there’s also an opportunity for collaborative work that could ultimately benefit humankind. Jason Thomson reports today on efforts to harvest solar energy from Earth’s orbit and beam it down for use.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
