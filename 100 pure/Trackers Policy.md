@@ -419,7 +419,9 @@ Default Title - $58
 
 ADD TO TOTE
 
-[![fruit-pigmented®-ultra-lengthening-mascara](https://www.100percentpure.com/cdn/shop/files/1CMBL7G_FP_Ultra_Lengthing_Mascara_Blueberry_Primary2_670x_92efddd5-e39c-442e-844c-9000421e1ecf_239x254.png?v=1698279922)](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
+[Sold out
+
+![fruit-pigmented®-ultra-lengthening-mascara](https://www.100percentpure.com/cdn/shop/files/1CMBL7G_FP_Ultra_Lengthing_Mascara_Blueberry_Primary2_670x_92efddd5-e39c-442e-844c-9000421e1ecf_239x254.png?v=1698279922)](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
 ![ Fruit Pigmented® Ultra Lengthening Mascara](//www.100percentpure.com/cdn/shop/files/1CMBL7G_FP_Ultra_Lengthing_Mascara_Blueberry_Primary2_670x_92efddd5-e39c-442e-844c-9000421e1ecf_220x.png?v=1698279922)
 
