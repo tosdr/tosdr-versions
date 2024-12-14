@@ -223,9 +223,9 @@ Games you might like
 
 [Elastic Man](https://lagged.com/en/g/elastic-man) ![Elastic Man Game](https://imgs2.dab3games.com/elastic-man-game-2.png)
 
-[Blob Opera](https://lagged.com/en/g/blob-opera) ![Blob Opera Game](https://imgs2.dab3games.com/blob-opera-game-ft2.png) top rated
-
 [Sprunki](https://lagged.com/en/g/sprunki) ![Sprunki Game](https://imgs2.dab3games.com/sprunki-3864526.png)
+
+[Blob Opera](https://lagged.com/en/g/blob-opera) ![Blob Opera Game](https://imgs2.dab3games.com/blob-opera-game-ft2.png) top rated
 
 [Dino Dash](https://lagged.com/en/g/dino-dash) ![Dino Dash Game](https://imgs2.dab3games.com/dino-dash-game-ft37.png)
 
@@ -243,9 +243,9 @@ Games you might like
 
 [Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
 
-[Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
-
 [Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
+
+[Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
 
 [Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
 
