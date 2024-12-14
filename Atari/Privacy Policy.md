@@ -472,9 +472,7 @@ Unit price /  per](https://www.atari.com/products/black-friday-exclusive-2600-c
 
 ![Atari 2600/7800: A Visual Compendium](files/043_Atari_1408x928_7a84c211-fa9b-42af-9342-1e3bd369fb6d.webp)
 
-Add to cart
-
-NEW
+Sold out
 
 ##### Atari 2600/7800: A Visual Compendium
 
@@ -698,9 +696,7 @@ Unit price /  per](https://www.atari.com/products/atari-joystick-decanter-set)�
 
 ![Atari 2600/7800: A Visual Compendium](files/043_Atari_1408x928_7a84c211-fa9b-42af-9342-1e3bd369fb6d.webp)
 
-Add to cart
-
-NEW
+Sold out
 
 ##### Atari 2600/7800: A Visual Compendium
 
