@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Best Gifts For Concealed Carry](https://www.thegunpage.com/best-gifts-for-concealed-carry/10612493)
+* [Michigan’s Misguided Attempt to Bankrupt Gunmakers](https://www.thegunpage.com/michigans-misguided-attempt-to-bankrupt-gunmakers/10612489)
+* [NEXTORCH ND30B Civilian Electronic Distraction Device](https://www.thegunpage.com/nextorch-nd30b-civilian-electronic-distraction-device/10612491)
 * [We Can’t Stop Crime, So We’ll Go After Glock: New Jersey, Minnesota AGs Sue Manufacturer](https://www.thegunpage.com/we-cant-stop-crime-so-well-go-after-glock-new-jersey-minnesota-ags-sue-manufacturer/10612485)
 * [SIG SAUER Special Weapons Group P320978](https://www.thegunpage.com/sig-sauer-special-weapons-group-p320978/10612486)
 * [Everytown’s New NRA ‘Exposé’ Only Exposes Its Own Poor Journalism Skills](https://www.thegunpage.com/everytowns-new-nra-expose-only-exposes-its-own-poor-journalism-skills/10612478)
 * [Swedish Army Buys 15,000 M4A1 Carbines](https://www.thegunpage.com/swedish-army-buys-15000-m4a1-carbines/10612487)
+* [RCBS Expanding MatchMaster Lineup With 12 New Cartridge Offerings](https://www.thegunpage.com/rcbs-expanding-matchmaster-lineup-with-12-new-cartridge-offerings/10612488)
 * [Florida Lawmakers Push to Roll Back Post-Parkland Gun Restrictions](https://www.thegunpage.com/florida-lawmakers-push-to-roll-back-post-parkland-gun-restrictions/10612474)
 * [What’s In Your Range Bag, Madison Champion?](https://www.thegunpage.com/whats-in-your-range-bag-madison-champion/10612473)
-* [TFB Review: Smith & Wesson Model 350 – A Different Kind of X-Frame](https://www.thegunpage.com/tfb-review-smith-wesson-model-350-a-different-kind-of-x-frame/10612471)
-* [POTD: French FAMAS – U.S. Forces In CQB](https://www.thegunpage.com/potd-french-famas-u-s-forces-in-cqb/10612472)
-* [Concealed Carry Corner: Uncomfortable Truth About Carrying](https://www.thegunpage.com/concealed-carry-corner-uncomfortable-truth-about-carrying/10612470)
-* [Is Gallup Conducting Surveys or Publishing Gun Fiction?](https://www.thegunpage.com/is-gallup-conducting-surveys-or-publishing-gun-fiction/10612467)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Catboss on [BYE! Dem Rep Says ‘Thousands’ Of Federal Employees Are So Shaken By Trump Election They Might Quit](https://www.conservativedailynews.com/2024/12/bye-dem-rep-says-thousands-of-federal-employees-are-so-shaken-by-trump-election-they-might-quit/#comment-783724)
 * Singleshot on [Joni Ernst Introduces Bill To Ship A Chunk Of One Agency’s Employees Out Of DC](https://www.conservativedailynews.com/2024/12/joni-ernst-introduces-bill-to-ship-a-chunk-of-one-agencys-employees-out-of-dc/#comment-783722)
 * charles wilkins on [Hunter Biden’s Pardon Really Rubbed America The Wrong Way, Poll Shows](https://www.conservativedailynews.com/2024/12/hunter-bidens-pardon-really-rubbed-america-the-wrong-way-poll-shows/#comment-783704)
 * KayCee on [Bad Gifts](https://www.conservativedailynews.com/2024/12/bad-gifts-2/#comment-783697)
@@ -240,7 +241,6 @@ Recent Comments
 * Stanley Warner on [Biden the Tyrant](https://www.conservativedailynews.com/2024/12/biden-the-tyrant/#comment-783683)
 * KayCee on [People In North Carolina Are living In Tents While Biden Pledges Billions To Africa](https://www.conservativedailynews.com/2024/12/people-in-north-carolina-are-living-in-tents-while-biden-pledges-billions-to-africa/#comment-783653)
 * KayCee on [BLM Leader Calls For ‘Black Vigilantes’ To Descend On Cities Following Daniel Penny Acquittal](https://www.conservativedailynews.com/2024/12/blm-leader-calls-for-black-vigilantes-to-descend-on-cities-following-daniel-penny-acquittal/#comment-783652)
-* JSSWS on [He’s A Different Man, At Peace With His Mission](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/#comment-783601)
 
 [Close](#)
 
