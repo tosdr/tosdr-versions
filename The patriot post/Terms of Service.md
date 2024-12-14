@@ -1,6 +1,6 @@
-**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
+**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,7 +195,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112790-the-greatest-threat-is-tyranny-2024-12-13)
+     [](https://patriotpost.us/memes/112823-not-going-well-2024-12-14)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -215,10 +215,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Josh Hammer How Not to Think About Syria](https://patriotpost.us/opinion/112802-how-not-to-think-about-syria-2024-12-13)
 *      [David Harsanyi It’s Time for a National Conversation About Left-Wing Violence](https://patriotpost.us/opinion/112801-its-time-for-a-national-conversation-about-left-wing-violence-2024-12-13)
 *      [Erick Erickson The Democrats’ Buts](https://patriotpost.us/opinion/112800-the-democrats-buts-2024-12-13)
-*      [Gary Bauer More FBI Lies](https://patriotpost.us/opinion/112799-more-fbi-lies-2024-12-13)
-*      [Mark Alexander Profiles of Valor: LCDR Jonny Kim (USN)](https://patriotpost.us/alexander/112746-profiles-of-valor-lcdr-jonny-kim-usn-2024-12-13)
-*      [The Washington Stand Caitlin Clark Is Appeasing No One by Giving Into the Woke Mob](https://patriotpost.us/opinion/112798-caitlin-clark-is-appeasing-no-one-by-giving-into-the-woke-mob-2024-12-13)
-*      [The Babylon Bee Caitlin Clark Explains That White Privilege Feels Weirdly Like Getting Beat Up by Giant Black Lesbians](https://patriotpost.us/opinion/112797-caitlin-clark-explains-that-white-privilege-feels-weirdly-like-getting-beat-up-by-giant-black-lesbians-2024-12-13)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -232,7 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
