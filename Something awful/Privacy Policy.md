@@ -205,30 +205,29 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [Rubmaps (Thanks, Crow\_Rodeo!)](https://www.somethingawful.com/awful-links/rubmaps-massage-reviews/)
-* [MANDAMUS: VOID Orders/Judgments (Thanks, blarzgh!)](https://www.somethingawful.com/awful-links/paul-chen-mandamus/)
-* [Spells and Magic (Thanks, Ethel Alcohol!)](https://www.somethingawful.com/awful-links/spells-magic-puzuzu/)
-* [Game Grumps Triggers (Thanks, Steampunk iPhone!)](https://www.somethingawful.com/awful-links/game-grumps-triggers/)
+* [Cereal Boxes](https://www.somethingawful.com/photoshop-phriday/cereal-boxes/1/)
+* [@dril's Greatest Hits](https://www.somethingawful.com/twitter-tuesday/tt08-14-12/1/)
+* [Genius Forum and Girls Inc.](https://www.somethingawful.com/weekend-web/genius-girl-forums/1/)
+* [The War for Lake Michigan](https://www.somethingawful.com/news/lake-michigan-war/1/)
+* [Thor the Conqueror](https://www.somethingawful.com/movie-reviews/thor-the-conqueror/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/games.png) [Goons Vs. Gartic Phone (Friday, December 13, 7PM CST)](http://forums.somethingawful.com/showthread.php?threadid=4077452 "Goons Vs. Gartic Phone (Friday, December 13, 7PM CST)")
-* ![](https://fi.somethingawful.com/forums/posticons/pi-herps.gif) [Would you rather fight 1 man-sized Godzilla or 20 terrapin-sized Gameras?](http://forums.somethingawful.com/showthread.php?threadid=4077471 "Would you rather fight 1 man-sized Godzilla or 20 terrapin-sized Gameras?")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [ITT We are shipwrecked on a deserted island](http://forums.somethingawful.com/showthread.php?threadid=4077439 "ITT We are shipwrecked on a deserted island")
-* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Punirunes - the touchable tamagotchi??](http://forums.somethingawful.com/showthread.php?threadid=4077483 "Punirunes - the touchable tamagotchi??")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-explosion.gif) [Power Rangers Jungle Fury theme](http://forums.somethingawful.com/showthread.php?threadid=4077494 "Power Rangers Jungle Fury theme")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Nancy Pelosi has stairs in her house...... and she fell down them](http://forums.somethingawful.com/showthread.php?threadid=4077476 "Nancy Pelosi has stairs in her house...... and she fell down them")
 * ![](https://fi.somethingawful.com/forums/posticons/tinypastry.gif) [Baby's got a 12 pack. How bout we go back to the Bay Area and get some Crab](http://forums.somethingawful.com/showthread.php?threadid=4077498 "Baby's got a 12 pack. How bout we go back to the Bay Area and get some Crab")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/whine.png) [We have a Malcolm in the Middle reboot](http://forums.somethingawful.com/showthread.php?threadid=4077505 "We have a Malcolm in the Middle reboot")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [ITT: We are in a Saturday morning kids cartoon that uncool parents hate](http://forums.somethingawful.com/showthread.php?threadid=4077504 "ITT: We are in a Saturday morning kids cartoon that uncool parents hate")
+* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Punirunes - the touchable tamagotchi??](http://forums.somethingawful.com/showthread.php?threadid=4077483 "Punirunes - the touchable tamagotchi??")
+* ![](https://fi.somethingawful.com/forums/posticons/pi-herps.gif) [Would you rather fight 1 man-sized Godzilla or 20 terrapin-sized Gameras?](http://forums.somethingawful.com/showthread.php?threadid=4077471 "Would you rather fight 1 man-sized Godzilla or 20 terrapin-sized Gameras?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-explosion.gif) [Power Rangers Jungle Fury theme](http://forums.somethingawful.com/showthread.php?threadid=4077494 "Power Rangers Jungle Fury theme")
 
 ### Random Articles
 
-* [The Copious Bulletin of J.F. Swanton](https://www.somethingawful.com/news/copious-bulletin-swanton/)
-* [Anti-Drug Ads](https://www.somethingawful.com/photoshop-phriday/antidrug-ads/1/)
-* [Golgo 13](https://www.somethingawful.com/rom-pit/golgo-13/1/)
-* [2005 NFL Preview - Part 1](https://www.somethingawful.com/news/2005-nfl-preview/)
-* [Competitive Low-Note Singing 2010 Finals](https://www.somethingawful.com/news/low-note/1/)
+* [Spooky Tips for Subway Eating!](https://www.somethingawful.com/comedy-goldmine/spooky-subway-tips/)
+* [Help Us, Save Us, Take Us Away!](https://www.somethingawful.com/news/help-us-save/)
+* [Sasquatch Your Back!](https://www.somethingawful.com/news/sasquatch-your-back/)
+* [Daily Gaming Guyz - Xmas Special 2](https://www.somethingawful.com/daily-dirt/gaming-christmas-2/)
+* [This Pizza Took Me Eight Years To Make](https://www.somethingawful.com/news/pizza-recipe-how/)
 
 [Random!](https://www.somethingawful.com/random/)
 
