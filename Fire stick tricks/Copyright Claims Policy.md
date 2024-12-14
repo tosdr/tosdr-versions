@@ -85,11 +85,11 @@ Top VPNs
 
 #### Recent Posts
 
-* [How to Watch Dillian Whyte vs. Ebenezer Tetteh on FireStick](https://www.firesticktricks.com/watch-dillian-whyte-vs-ebenezer-tetteh-on-firestick.html)
-* [Best HesGoal Alternatives to Stream Live Football for Free](https://www.firesticktricks.com/best-hesgoal-alternatives.html)
-* [How to Install & Use fuboTV on FireStick (2024)](https://www.firesticktricks.com/fubotv-firestick.html)
-* [20+ Best Free Sports Streaming Sites (Updated: Dec 2024)](https://www.firesticktricks.com/free-sports-streaming-sites.html)
-* [How to Watch UFC 310 on Kodi (Best UFC Addons in 2024)](https://www.firesticktricks.com/watch-ufc-kodi-addons.html)
+* [How to Install Seren Kodi Addon (Real Debrid & Package Provider)](https://www.firesticktricks.com/seren-kodi-addon.html)
+* [How to Install Rapid Streamz on FireStick (Unlimited Live TV)](https://www.firesticktricks.com/rapid-streamz-on-firestick.html)
+* [How to Install Diggz Xenon Kodi Build on FireStick (2024)](https://www.firesticktricks.com/diggz-xenon-kodi-build.html)
+* [How to Install FilmPlus on FireStick & Android TV Box](https://www.firesticktricks.com/filmplus.html)
+* [How to Update Kodi 21.1 (Latest) on FireStick \[Dec 2024\]](https://www.firesticktricks.com/kodi-update.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
