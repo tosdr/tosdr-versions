@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/hoe-energetisch-healing-werkt-hier-en-op-afstand/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/bosbranden-in-canada-aangestoken/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
