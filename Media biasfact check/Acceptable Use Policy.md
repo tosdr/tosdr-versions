@@ -67,11 +67,11 @@
 
 MBFC News
 
+* [December 14, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of DEC 8th – DEC 14th](https://mediabiasfactcheck.com/2024/12/14/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-dec-8th-dec-14th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of DEC 8th – DEC 14th")
+* [December 14, 2024 | MBFC’s Daily Vetted Fact Checks for 12/14/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/14/mbfcs-daily-vetted-fact-checks-for-12-14-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 12/14/2024 (Weekend Edition)")
 * [December 13, 2024 | Media News Daily: Top Stories for 12/13/2024](https://mediabiasfactcheck.com/2024/12/13/media-news-daily-top-stories-for-12-13-2024/ "Media News Daily: Top Stories for 12/13/2024")
 * [December 13, 2024 | MBFC’s Daily Vetted Fact Checks for 12/13/2024](https://mediabiasfactcheck.com/2024/12/13/mbfcs-daily-vetted-fact-checks-for-12-13-2024/ "MBFC’s Daily Vetted Fact Checks for 12/13/2024")
 * [December 12, 2024 | Media News Daily: Top Stories for 12/12/2024](https://mediabiasfactcheck.com/2024/12/12/media-news-daily-top-stories-for-12-12-2024/ "Media News Daily: Top Stories for 12/12/2024")
-* [December 12, 2024 | MBFC’s Daily Vetted Fact Checks for 12/12/2024](https://mediabiasfactcheck.com/2024/12/12/mbfcs-daily-vetted-fact-checks-for-12-12-2024/ "MBFC’s Daily Vetted Fact Checks for 12/12/2024")
-* [December 11, 2024 | Media News Daily: Top Stories for 12/11/2024](https://mediabiasfactcheck.com/2024/12/11/media-news-daily-top-stories-for-12-11-2024/ "Media News Daily: Top Stories for 12/11/2024")
 
 Search for:  
 
@@ -131,6 +131,14 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Added Sources or Pages
 
+* [Quincy Herald-Whig – Bias and Credibility](https://mediabiasfactcheck.com/quincy-herald-whig-bias/)
+    
+    December 14, 2024
+    
+* [Urban Transformations Journal – Bias and Credibility](https://mediabiasfactcheck.com/urban-transformations-journal-bias/)
+    
+    December 14, 2024
+    
 * [Poteau Daily News – Bias and Credibility](https://mediabiasfactcheck.com/poteau-daily-news-bias/)
     
     December 13, 2024
@@ -155,17 +163,17 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
     
     December 12, 2024
     
-* [Mississippi Public Broadcasting – Bias and Credibility](https://mediabiasfactcheck.com/mississippi-public-broadcasting-bias/)
-    
-    December 12, 2024
-    
-* [RTL – Bias and Credibility](https://mediabiasfactcheck.com/rtl-bias-and-credibility/)
-    
-    December 12, 2024
-    
 
 #### Recently Updated Pages
 
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 14, 2024
+    
+* [Quincy Herald-Whig – Bias and Credibility](https://mediabiasfactcheck.com/quincy-herald-whig-bias/ "View Quincy Herald-Whig – Bias and Credibility") - December 14, 2024
+    
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - December 14, 2024
+    
+* [Urban Transformations Journal – Bias and Credibility](https://mediabiasfactcheck.com/urban-transformations-journal-bias/ "View Urban Transformations Journal – Bias and Credibility") - December 14, 2024
+    
 * [Western Journal – Bias and Credibility](https://mediabiasfactcheck.com/western-journalism/ "View Western Journal – Bias and Credibility") - December 13, 2024
     
 * [TND – The National Desk – Bias and Credibility](https://mediabiasfactcheck.com/tnd-the-national-news-desk-bias/ "View TND – The National Desk – Bias and Credibility") - December 13, 2024
@@ -178,14 +186,6 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
     
 * [Encyclopedia Britannica – Bias and Credibility](https://mediabiasfactcheck.com/encyclopedia-britannica/ "View Encyclopedia Britannica – Bias and Credibility") - December 13, 2024
     
-* [Time Magazine – Bias and Credibility](https://mediabiasfactcheck.com/time/ "View Time Magazine – Bias and Credibility") - December 13, 2024
-    
-* [The Dispatch – Bias and Credibility](https://mediabiasfactcheck.com/the-dispatch/ "View The Dispatch – Bias and Credibility") - December 13, 2024
-    
-* [National Post – Bias and Credibility](https://mediabiasfactcheck.com/national-post/ "View National Post – Bias and Credibility") - December 13, 2024
-    
-* [The Nation – Bias and Credibility](https://mediabiasfactcheck.com/the-nation/ "View The Nation – Bias and Credibility") - December 13, 2024
-    
 
 #### Today’s Top Page Views
 
@@ -195,10 +195,10 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [MBFC's Daily Vetted Fact Checks for 12/13/2024](https://mediabiasfactcheck.com/2024/12/13/mbfcs-daily-vetted-fact-checks-for-12-13-2024/)
-* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Time Magazine - Bias and Credibility](https://mediabiasfactcheck.com/time/)
-* [The Hill - Bias and Credibility](https://mediabiasfactcheck.com/the-hill/)
+* [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
 
 #### Subscribe via Email
 
