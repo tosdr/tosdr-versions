@@ -196,57 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Shaun Gartshore
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=21317737)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=2d5190dd13d5b200286b493628691d04b276c56a564303aabcb9d18bd4e6a65f&c=104673678)  
+BD Maintenance
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=44933782)  
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=2d5190dd13d5b200286b493628691d04b276c56a564303aabcb9d18bd4e6a65f&c=99717552)  
+Westside Car Audio CC
+
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=2d5190dd13d5b200286b493628691d04b276c56a564303aabcb9d18bd4e6a65f&c=9136304)  
+van Schaik rentals
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=2d5190dd13d5b200286b493628691d04b276c56a564303aabcb9d18bd4e6a65f&c=104158101)  
+Gemini-IT Group
+
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=2d5190dd13d5b200286b493628691d04b276c56a564303aabcb9d18bd4e6a65f&c=11605823)  
+Brand's Fountains Deco and Events Coordinatoin
+
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=2d5190dd13d5b200286b493628691d04b276c56a564303aabcb9d18bd4e6a65f&c=63153076)  
+SMART GUY PCS (PTY) LTD
+
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=2d5190dd13d5b200286b493628691d04b276c56a564303aabcb9d18bd4e6a65f&c=117320872)  
 Tantra Sound and Lightz
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=44695964)  
-Kara Medical (Pty) Ltd
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=2d5190dd13d5b200286b493628691d04b276c56a564303aabcb9d18bd4e6a65f&c=79019704)  
+webb it services
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=178085373)  
-Website Café (PTY) LTD
-
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=40447018)  
-OptaServ
-
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=82173114)  
-Beyond Laser CNC Cutting Technology South Africa CC
-
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=143599608)  
-Bchange Online CC
-
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=204789407)  
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=2d5190dd13d5b200286b493628691d04b276c56a564303aabcb9d18bd4e6a65f&c=57582710)  
 FJW Security Cc
 
-![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=30305460)  
-Roekeloos Group
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=2d5190dd13d5b200286b493628691d04b276c56a564303aabcb9d18bd4e6a65f&c=87812552)  
+Vplay Letsheng Mall
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=195002757)  
-Qothiphango Mining
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=2d5190dd13d5b200286b493628691d04b276c56a564303aabcb9d18bd4e6a65f&c=168521528)  
+NGB HOLDINGS PTY LTD
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=140770464)  
-NJR ICT Services (Pty) Ltd
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=2d5190dd13d5b200286b493628691d04b276c56a564303aabcb9d18bd4e6a65f&c=15822358)  
+Myfinance-Online
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=77799983)  
-One2b
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=2d5190dd13d5b200286b493628691d04b276c56a564303aabcb9d18bd4e6a65f&c=119819902)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=71387228)  
-AFS Electrical
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=2d5190dd13d5b200286b493628691d04b276c56a564303aabcb9d18bd4e6a65f&c=34513396)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=193822819)  
-Oukraal Merino's
-
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=3c2fef4960aa84a24d249c89f626d618a65c692007e8a8cdaf32b9747b14089f&c=156857556)  
-BD Maintenance
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=2d5190dd13d5b200286b493628691d04b276c56a564303aabcb9d18bd4e6a65f&c=38443524)  
+Kaylas Creations
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
