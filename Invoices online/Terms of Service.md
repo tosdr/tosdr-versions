@@ -196,57 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Hugo van Sittert
+Terri Winfield
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=bcdc3a7468596a79124bfbfc3a99114bff178eae6c52250c192e5d14e395fd20&c=67056109)  
-IYD
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=159933166)  
+Baby Toddles Infant Care
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=bcdc3a7468596a79124bfbfc3a99114bff178eae6c52250c192e5d14e395fd20&c=54897561)  
-Myfinance-Online
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=63568798)  
+Leef in Afrikaans
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=bcdc3a7468596a79124bfbfc3a99114bff178eae6c52250c192e5d14e395fd20&c=75172515)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=81205183)  
+Lion Software Develepment
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=bcdc3a7468596a79124bfbfc3a99114bff178eae6c52250c192e5d14e395fd20&c=35031204)  
-Lemba Truck Stop
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=73388573)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=bcdc3a7468596a79124bfbfc3a99114bff178eae6c52250c192e5d14e395fd20&c=41079762)  
-Moving Made Easy (PTY) Ltd
-
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=bcdc3a7468596a79124bfbfc3a99114bff178eae6c52250c192e5d14e395fd20&c=172869339)  
-National Elite Security Services (PTY) LTD
-
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=bcdc3a7468596a79124bfbfc3a99114bff178eae6c52250c192e5d14e395fd20&c=146431177)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
-
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=bcdc3a7468596a79124bfbfc3a99114bff178eae6c52250c192e5d14e395fd20&c=110502702)  
-VIR Electrical (PTY) LTD
-
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=bcdc3a7468596a79124bfbfc3a99114bff178eae6c52250c192e5d14e395fd20&c=190988291)  
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=191792967)  
 OrgChart Hosting Pty Ltd
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=bcdc3a7468596a79124bfbfc3a99114bff178eae6c52250c192e5d14e395fd20&c=128368182)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=29810105)  
+Vplay Letsheng Mall
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=bcdc3a7468596a79124bfbfc3a99114bff178eae6c52250c192e5d14e395fd20&c=78213576)  
-Bchange Online CC
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=122182613)  
+Lizzy Pop PTY(Ltd)
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=bcdc3a7468596a79124bfbfc3a99114bff178eae6c52250c192e5d14e395fd20&c=212593001)  
-CLEVER STUDENTS
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=196471852)  
+CGHK Enterprises (PTY) LTD
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=bcdc3a7468596a79124bfbfc3a99114bff178eae6c52250c192e5d14e395fd20&c=55894042)  
-TIGERDSL
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=84737230)  
+Dombieterfontein (PTY) LTD
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=bcdc3a7468596a79124bfbfc3a99114bff178eae6c52250c192e5d14e395fd20&c=63725598)  
-African Roots
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=34438184)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=bcdc3a7468596a79124bfbfc3a99114bff178eae6c52250c192e5d14e395fd20&c=28950457)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=87796154)  
+Lily Fern & Co
+
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=156305534)  
+LEO DEVELOPMENT GROUP
+
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=162316982)  
+Blue Sky Solar Services
+
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=190288066)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=d8962e636abb36ac2a38c1318f568aa3f103c160d36285f2b17e1cb269f2cb31&c=192029269)  
+Tantra Sound and Lightz
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
