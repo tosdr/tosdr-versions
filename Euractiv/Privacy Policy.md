@@ -441,7 +441,13 @@ If you have any questions about this Privacy Policy, please contact us:
 Most recent
 -----------
 
-[13-12-2024
+[14-12-2024
+
+Kremlin praises Trump for criticising Ukrainian strikes deep into Russia](https://www.euractiv.com/section/global-europe/news/kremlin-praises-trump-for-criticising-ukrainian-strikes-deep-into-russia/)[14-12-2024
+
+Serbia seeks to reduce Russian ownership in oil giant to avoid sanctions](https://www.euractiv.com/section/eet/news/serbia-seeks-to-reduce-russian-ownership-in-oil-giant-to-avoid-sanctions/)[14-12-2024
+
+Jordan to host Syria talks, EU to establish contact with HTS ‘soon’](https://www.euractiv.com/section/global-europe/news/jordan-to-host-syria-talks-eu-to-establish-contact-with-hts-soon/)[13-12-2024
 
 Russia and Turkey need each other as Putin’s influence wanes, experts say](https://www.euractiv.com/section/global-europe/news/russia-and-turkey-need-each-other-as-putins-influence-wanes-experts-say/)[13-12-2024
 
@@ -455,13 +461,7 @@ Tech Pro Brief – CRA, GPSR in force, SMEs demand Eurostack, and TikTok Shop op
 
 Kazakhstan’s critical materials potential ripe for EU supply chain resilience](https://www.euractiv.com/section/economy-jobs/news/kazakhstans-critical-materials-potential-ripe-for-eu-supply-chain-resilience/)[13-12-2024
 
-EU interior ministers remain deadlocked on CSAM detection bill](https://www.euractiv.com/section/tech/news/eu-interior-ministers-remain-deadlocked-on-csam-detection-bill/)[13-12-2024
-
-Italian court ok’s referendum on controversial autonomy law](https://www.euractiv.com/section/politics/news/the-capitals-italian-court-oks-referendum-on-controversial-autonomy-law/)[13-12-2024
-
-Full Schengen accession to boost Romania’s GDP by 2%](https://www.euractiv.com/section/politics/news/full-schengen-accession-to-boost-romanias-gdp-by-2/)[13-12-2024
-
-Slovakia’s striking doctors, opposition urge president to block ‘forced labour’ law](https://www.euractiv.com/section/politics/news/slovakias-striking-doctors-opposition-urge-president-to-block-forced-labour-law/)
+EU interior ministers remain deadlocked on CSAM detection bill](https://www.euractiv.com/section/tech/news/eu-interior-ministers-remain-deadlocked-on-csam-detection-bill/)
 
 ###### Advertisement
 
