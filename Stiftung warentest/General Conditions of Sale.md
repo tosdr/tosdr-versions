@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
-* [Stereo-Funk­laut­sprecher im Test: Mit dem zweiten hört man besser](https://www.test.de/Stereo-Funklautsprecher-im-Test-6094686-0/ "Stereo-Funklautsprecher im Test - Mit dem zweiten hört man besser")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
+* [Auslands­fonds und -ETF: Steuern zurück in Milliardenhöhe](https://www.test.de/erstattung-deutscher-quellensteuer-6164848-0/ "Auslandsfonds und -ETF - Steuern zurück in Milliardenhöhe")
+* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
+* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
+* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
-* [Stereo-Funk­laut­sprecher im Test: Mit dem zweiten hört man besser](https://www.test.de/Stereo-Funklautsprecher-im-Test-6094686-0/ "Stereo-Funklautsprecher im Test - Mit dem zweiten hört man besser")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
+* [Auslands­fonds und -ETF: Steuern zurück in Milliardenhöhe](https://www.test.de/erstattung-deutscher-quellensteuer-6164848-0/ "Auslandsfonds und -ETF - Steuern zurück in Milliardenhöhe")
+* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
+* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
+* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
-* [Stereo-Funk­laut­sprecher im Test: Mit dem zweiten hört man besser](https://www.test.de/Stereo-Funklautsprecher-im-Test-6094686-0/ "Stereo-Funklautsprecher im Test - Mit dem zweiten hört man besser")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
+* [Auslands­fonds und -ETF: Steuern zurück in Milliardenhöhe](https://www.test.de/erstattung-deutscher-quellensteuer-6164848-0/ "Auslandsfonds und -ETF - Steuern zurück in Milliardenhöhe")
+* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
+* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
+* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
-* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
-* [Tomaten im Test: Diese Sorten sind robust](https://www.test.de/Tomaten-im-Test-Diese-Sorten-sind-robust-6105389-0/ "Tomaten im Test - Diese Sorten sind robust")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Sport-BHs im Test: Gute sitzen auch nach dem Waschen noch](https://www.test.de/Sport-BHs-im-Test-Gute-sitzen-auch-nach-dem-Waschen-noch-6154128-0/ "Sport-BHs im Test - Gute sitzen auch nach dem Waschen noch")
-* [Stereo-Funk­laut­sprecher im Test: Mit dem zweiten hört man besser](https://www.test.de/Stereo-Funklautsprecher-im-Test-6094686-0/ "Stereo-Funklautsprecher im Test - Mit dem zweiten hört man besser")
+* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
+* [Auslands­fonds und -ETF: Steuern zurück in Milliardenhöhe](https://www.test.de/erstattung-deutscher-quellensteuer-6164848-0/ "Auslandsfonds und -ETF - Steuern zurück in Milliardenhöhe")
+* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
+* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
+* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
 
 Stiftung Warentest
 
