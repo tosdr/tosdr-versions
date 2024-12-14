@@ -206,27 +206,29 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 ### What's Hot
 
 * [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [The Strangest Fan Art, Part 3!](https://www.somethingawful.com/comedy-goldmine/strangest-fan-art3/1/)
-* [Every Review Of Ghostbusters You Will Read This Week](https://www.somethingawful.com/news/every-ghostbusters-review/)
-* [The Palin Smoker! (Part One of Two)](https://www.somethingawful.com/photoshop-phriday/palin-smoker/1/)
+* [Rubmaps (Thanks, Crow\_Rodeo!)](https://www.somethingawful.com/awful-links/rubmaps-massage-reviews/)
+* [MANDAMUS: VOID Orders/Judgments (Thanks, blarzgh!)](https://www.somethingawful.com/awful-links/paul-chen-mandamus/)
+* [Spells and Magic (Thanks, Ethel Alcohol!)](https://www.somethingawful.com/awful-links/spells-magic-puzuzu/)
+* [Game Grumps Triggers (Thanks, Steampunk iPhone!)](https://www.somethingawful.com/awful-links/game-grumps-triggers/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/tinypastry.gif) [Baby's got a 12 pack. How bout we go back to the Bay Area and get some Crab](http://forums.somethingawful.com/showthread.php?threadid=4077498 "Baby's got a 12 pack. How bout we go back to the Bay Area and get some Crab")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/games.png) [Goons Vs. Gartic Phone (Friday, December 13, 7PM CST)](http://forums.somethingawful.com/showthread.php?threadid=4077452 "Goons Vs. Gartic Phone (Friday, December 13, 7PM CST)")
 * ![](https://fi.somethingawful.com/forums/posticons/pi-herps.gif) [Would you rather fight 1 man-sized Godzilla or 20 terrapin-sized Gameras?](http://forums.somethingawful.com/showthread.php?threadid=4077471 "Would you rather fight 1 man-sized Godzilla or 20 terrapin-sized Gameras?")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Nancy Pelosi has stairs in her house...... and she fell down them](http://forums.somethingawful.com/showthread.php?threadid=4077476 "Nancy Pelosi has stairs in her house...... and she fell down them")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [ITT We are shipwrecked on a deserted island](http://forums.somethingawful.com/showthread.php?threadid=4077439 "ITT We are shipwrecked on a deserted island")
 * ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Punirunes - the touchable tamagotchi??](http://forums.somethingawful.com/showthread.php?threadid=4077483 "Punirunes - the touchable tamagotchi??")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-explosion.gif) [Power Rangers Jungle Fury theme](http://forums.somethingawful.com/showthread.php?threadid=4077494 "Power Rangers Jungle Fury theme")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Nancy Pelosi has stairs in her house...... and she fell down them](http://forums.somethingawful.com/showthread.php?threadid=4077476 "Nancy Pelosi has stairs in her house...... and she fell down them")
+* ![](https://fi.somethingawful.com/forums/posticons/tinypastry.gif) [Baby's got a 12 pack. How bout we go back to the Bay Area and get some Crab](http://forums.somethingawful.com/showthread.php?threadid=4077498 "Baby's got a 12 pack. How bout we go back to the Bay Area and get some Crab")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/whine.png) [We have a Malcolm in the Middle reboot](http://forums.somethingawful.com/showthread.php?threadid=4077505 "We have a Malcolm in the Middle reboot")
 
 ### Random Articles
 
-* [Kelly's Used Wet Panties Down Under](https://www.somethingawful.com/awful-links/awful-link-925/)
-* [Hilarious Mixed Signals To Send Your Girlfriend](https://www.somethingawful.com/news/mixed-signals-best/)
-* [Goons on Drugs](https://www.somethingawful.com/great-goon-database/great-goon-drugs/1/)
-* [Nickelodeon GUTS](https://www.somethingawful.com/rom-pit/nickelodeon-guts/)
-* [HELLO AGAIN FRIENDS](https://www.somethingawful.com/mooflogs/daily-lou-bega/)
+* [The Copious Bulletin of J.F. Swanton](https://www.somethingawful.com/news/copious-bulletin-swanton/)
+* [Anti-Drug Ads](https://www.somethingawful.com/photoshop-phriday/antidrug-ads/1/)
+* [Golgo 13](https://www.somethingawful.com/rom-pit/golgo-13/1/)
+* [2005 NFL Preview - Part 1](https://www.somethingawful.com/news/2005-nfl-preview/)
+* [Competitive Low-Note Singing 2010 Finals](https://www.somethingawful.com/news/low-note/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
