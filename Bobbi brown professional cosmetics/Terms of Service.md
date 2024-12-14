@@ -2,7 +2,7 @@
 
 Previous
 
-[Get $25 off when you spend $100+. Use code: **DAY6** at checkout.](https://www.bobbibrowncosmetics.com/advent-calendar)
+[Enjoy 30% off palettes & sets. Use code: **DAY7** at checkout.](https://www.bobbibrowncosmetics.com/products/13996/palettes-and-sets)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
