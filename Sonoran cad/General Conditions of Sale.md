@@ -6,7 +6,9 @@ More
 
 [Support](https://support.sonoransoftware.com/)[Download](https://info.sonorancad.com/downloads)[Server Hosting](https://sonoranservers.com/)[About](https://info.sonorancad.com/why-choose-sonoran-cad/about)
 
-SearchCtrl + K
+Search...
+
+Ctrl + K
 
 * [Sonoran CAD](https://info.sonorancad.com/)
     
@@ -666,6 +668,9 @@ On this page
 Was this helpful?
 
 [Edit on GitHub](https://github.com/Sonoran-Software/SonoranCAD-Documentation/blob/master/other/policy/refund-and-purchase-policy.md)
+
+1. [Other](https://info.sonorancad.com/other)
+3. [Policy](https://info.sonorancad.com/other/policy)
 
 Refund and Purchase Policy
 ==========================
