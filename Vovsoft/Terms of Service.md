@@ -1,4 +1,4 @@
-[![Vovsoft Logo](/images/vovsoft-logo.png)](https://vovsoft.com/)
+[![Vovsoft Logo](/images/vovsoft-logo-christmas-snow.png)](https://vovsoft.com/)
 
 [![Vovsoft Facebook Page](/images/social2-facebook.png "Vovsoft Facebook Page")](https://www.facebook.com/vovsoft/) [![Vovsoft Telegram Channel](/images/social2-telegram.png "Vovsoft Telegram Channel")](https://t.me/vovsoft_channel) [![Vovsoft Youtube Channel](/images/social2-youtube.png "Vovsoft Youtube Channel")](https://www.youtube.com/@vovsoft) [![Vovsoft Twitter Account](/images/social2-x.png "Vovsoft Twitter Account")](https://x.com/vovsoft)
 
