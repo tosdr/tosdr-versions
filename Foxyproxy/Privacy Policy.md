@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-well what i have to say about it is: just amzing helpfull thanks a lot, but i wish i pay it for a year!
+Keep up the great work!
 
-Lo Freitas
+Jonathan Powell
