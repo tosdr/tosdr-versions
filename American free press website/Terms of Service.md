@@ -29,11 +29,11 @@ Search for:
 
 News Ticker
 
+* [\[ December 14, 2024 \] Biden Administration Slow Walking Judges Orders to Deport 1.4 Million Subscriber Only](https://americanfreepress.net/biden-administration-slow-walking-judges-orders-to-deport-1-4-million/ "Biden Administration Slow Walking Judges Orders to Deport 1.4 Million")
 * [\[ December 13, 2024 \] Bloated American Administrative State May Finally Be Put on a Crash Diet National News](https://americanfreepress.net/bloated-american-administrative-state-may-finally-be-put-on-a-crash-diet/ "Bloated American Administrative State May Finally Be Put on a Crash Diet")
 * [\[ December 13, 2024 \] Deep State Must Be Stripped of Unelected Bureaucrats and the Power They Wield Subscriber Only](https://americanfreepress.net/deep-state-must-be-stripped-of-unelected-bureaucrats-and-the-power-they-wield/ "Deep State Must Be Stripped of Unelected Bureaucrats and the Power They Wield")
 * [\[ December 13, 2024 \] More Than Meets the Eye to Matt Gaetz Story National News](https://americanfreepress.net/more-than-meets-the-eye-to-matt-gaetz-story/ "More Than Meets the Eye to Matt Gaetz Story")
 * [\[ December 12, 2024 \] Issue 49/50 2024 News You May Have Missed National News](https://americanfreepress.net/issue-49-50-2024-news-you-may-have-missed/ "Issue 49/50 2024 News You May Have Missed")
-* [\[ December 12, 2024 \] Are We Merely an Afterthought to the Government? Subscriber Only](https://americanfreepress.net/are-we-merely-an-afterthought-to-the-government/ "Are We Merely an Afterthought to the Government?")
 
 [Home](https://americanfreepress.net/)TERMS and CONDITIONS
 
@@ -128,11 +128,11 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Articles
 
+* [Biden Administration Slow Walking Judges Orders to Deport 1.4 Million](https://americanfreepress.net/biden-administration-slow-walking-judges-orders-to-deport-1-4-million/)
+* [Making Sense Out of Donald Trump’s Tariffs](https://americanfreepress.net/making-sense-out-of-donald-trumps-tariffs/)
+* [Transformative Tariffs Can Help Grow Economy, Protect Industrial Base](https://americanfreepress.net/transformative-tariffs-can-help-grow-economy-protect-industrial-base/)
 * [Bloated American Administrative State May Finally Be Put on a Crash Diet](https://americanfreepress.net/bloated-american-administrative-state-may-finally-be-put-on-a-crash-diet/)
 * [Deep State Must Be Stripped of Unelected Bureaucrats and the Power They Wield](https://americanfreepress.net/deep-state-must-be-stripped-of-unelected-bureaucrats-and-the-power-they-wield/)
-* [More Than Meets the Eye to Matt Gaetz Story](https://americanfreepress.net/more-than-meets-the-eye-to-matt-gaetz-story/)
-* [Issue 49/50 2024 News You May Have Missed](https://americanfreepress.net/issue-49-50-2024-news-you-may-have-missed/)
-* [Are We Merely an Afterthought to the Government?](https://americanfreepress.net/are-we-merely-an-afterthought-to-the-government/)
 
 ###### Recent Comments
 
@@ -178,4 +178,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1176092929)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=2107595103)
