@@ -20,16 +20,16 @@ Saturday, December 14 2024
 
 Latest
 
-* [Vendor Spotlight: UnderDefense](https://digitpatrox.com/vendor-spotlight-underdefense/)
-* [US charges 14 members of North Korean IT worker scam that bagged $88 million in six years](https://digitpatrox.com/us-charges-14-members-of-north-korean-it-worker-scam-that-bagged-88-million-in-six-years/)
-* [For December’s Patch Tuesday, 74 updates and a zero-day fix for Windows – Computerworld](https://digitpatrox.com/for-decembers-patch-tuesday-74-updates-and-a-zero-day-fix-for-windows-computerworld/)
-* [The Best Ways to Find a Running Track Near You (and a Beginner’s Workout to Try)](https://digitpatrox.com/the-best-ways-to-find-a-running-track-near-you-and-a-beginners-workout-to-try/)
-* [Vendor Spotlight: ISL Online](https://digitpatrox.com/vendor-spotlight-isl-online/)
-* [Best Places to Buy Large Appliances](https://digitpatrox.com/best-places-to-buy-large-appliances/)
-* [Console Developers Should Offer Keyboard and Mouse Support for Every Game](https://digitpatrox.com/console-developers-should-offer-keyboard-and-mouse-support-for-every-game/)
-* [NetApp wants to talk about cold data and its impact on sustainability](https://digitpatrox.com/netapp-wants-to-talk-about-cold-data-and-its-impact-on-sustainability/)
-* [How To Run a VoIP Quality Test and Improve Your MOS](https://digitpatrox.com/how-to-run-a-voip-quality-test-and-improve-your-mos/)
-* [Best smart home gifts in 2024](https://digitpatrox.com/best-smart-home-gifts-in-2024/)
+* [OpenAI cofounder Ilya Sutskever predicts the end of AI pre-training](https://digitpatrox.com/openai-cofounder-ilya-sutskever-predicts-the-end-of-ai-pre-training/)
+* [Today’s NYT Connections Hints, Answers for December 14, 2024](https://digitpatrox.com/todays-nyt-connections-hints-answers-for-december-14-2024/)
+* [CirrusHQ names AWS’ Craig Ridsdill as new head of sales](https://digitpatrox.com/cirrushq-names-aws-craig-ridsdill-as-new-head-of-sales/)
+* [The Macy’s accounting disaster: CIOs, this could happen to you.](https://digitpatrox.com/the-macys-accounting-disaster-cios-this-could-happen-to-you/)
+* [This Portable Bose Bluetooth Speaker Is Down to Its Lowest Price](https://digitpatrox.com/this-portable-bose-bluetooth-speaker-is-down-to-its-lowest-price/)
+* [Govee Permanent Outdoor Lights Review](https://digitpatrox.com/govee-permanent-outdoor-lights-review/)
+* [This Is the Best Value MacBook Pro You Can Buy](https://digitpatrox.com/this-is-the-best-value-macbook-pro-you-can-buy/)
+* [6G: Pioneering a new era of innovation and business value](https://digitpatrox.com/6g-pioneering-a-new-era-of-innovation-and-business-value/)
+* [Which One is Right for Your Business?](https://digitpatrox.com/which-one-is-right-for-your-business/)
+* [Salute to Veterans Bowl livestream: How to watch South Alabama vs WMU college football game online from anywhere](https://digitpatrox.com/salute-to-veterans-bowl-livestream-how-to-watch-south-alabama-vs-wmu-college-football-game-online-from-anywhere/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/UnderDefense-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-underdefense/)
+* [![](https://cdn.vox-cdn.com/thumbor/SELuU01-YTH0RxoXeHlCS1Uupt4=/0x0:6000x4000/1200x628/filters:focal(3799x1547:3800x1548)/cdn.vox-cdn.com/uploads/chorus_asset/file/25789444/1258459915.jpg)](https://digitpatrox.com/openai-cofounder-ilya-sutskever-predicts-the-end-of-ai-pre-training/)
     
-    [Vendor Spotlight: UnderDefense](https://digitpatrox.com/vendor-spotlight-underdefense/)
+    [OpenAI cofounder Ilya Sutskever predicts the end of AI pre-training](https://digitpatrox.com/openai-cofounder-ilya-sutskever-predicts-the-end-of-ai-pre-training/)
     
-    34 minutes ago
+    15 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/LqZrCcEsRy3hMCxs95VoEn-1200-80.jpg)](https://digitpatrox.com/us-charges-14-members-of-north-korean-it-worker-scam-that-bagged-88-million-in-six-years/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/NYT-Connections-Featured.webp?w=1250&quality=75)](https://digitpatrox.com/todays-nyt-connections-hints-answers-for-december-14-2024/)
     
-    [US charges 14 members of North Korean IT worker scam that bagged $88 million in six years](https://digitpatrox.com/us-charges-14-members-of-north-korean-it-worker-scam-that-bagged-88-million-in-six-years/)
+    [Today’s NYT Connections Hints, Answers for December 14, 2024](https://digitpatrox.com/todays-nyt-connections-hints-answers-for-december-14-2024/)
     
-    1 hour ago
+    31 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3624511-0-69714800-1734123400-clint-patterson-jCY4oEMA3o-unsplash.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/for-decembers-patch-tuesday-74-updates-and-a-zero-day-fix-for-windows-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/PxVMHuF4FDTmhLcJJvGXDW-1200-80.jpg)](https://digitpatrox.com/cirrushq-names-aws-craig-ridsdill-as-new-head-of-sales/)
     
-    [For December’s Patch Tuesday, 74 updates and a zero-day fix for Windows – Computerworld](https://digitpatrox.com/for-decembers-patch-tuesday-74-updates-and-a-zero-day-fix-for-windows-computerworld/)
-    
-    1 hour ago
-    
-* [![](https://lifehacker.com/imagery/articles/01HF2H9DT3PFD13B30V1KBPDNJ/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-best-ways-to-find-a-running-track-near-you-and-a-beginners-workout-to-try/)
-    
-    [The Best Ways to Find a Running Track Near You (and a Beginner’s Workout to Try)](https://digitpatrox.com/the-best-ways-to-find-a-running-track-near-you-and-a-beginners-workout-to-try/)
+    [CirrusHQ names AWS’ Craig Ridsdill as new head of sales](https://digitpatrox.com/cirrushq-names-aws-craig-ridsdill-as-new-head-of-sales/)
     
     2 hours ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/ISLOnline-Vendor-Spotlight.jpeg)](https://digitpatrox.com/vendor-spotlight-isl-online/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3624481-0-08087900-1734125764-Macys_dep_store.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-macys-accounting-disaster-cios-this-could-happen-to-you/)
     
-    [Vendor Spotlight: ISL Online](https://digitpatrox.com/vendor-spotlight-isl-online/)
+    [The Macy’s accounting disaster: CIOs, this could happen to you.](https://digitpatrox.com/the-macys-accounting-disaster-cios-this-could-happen-to-you/)
     
     2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JF0W3NX3RYJGEG19ASP1BYE2/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/this-portable-bose-bluetooth-speaker-is-down-to-its-lowest-price/)
+    
+    [This Portable Bose Bluetooth Speaker Is Down to Its Lowest Price](https://digitpatrox.com/this-portable-bose-bluetooth-speaker-is-down-to-its-lowest-price/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [34 minutes ago
+* [15 minutes ago
     
-    ### Vendor Spotlight: UnderDefense](https://digitpatrox.com/vendor-spotlight-underdefense/)
-* [1 hour ago
+    ### OpenAI cofounder Ilya Sutskever predicts the end of AI pre-training](https://digitpatrox.com/openai-cofounder-ilya-sutskever-predicts-the-end-of-ai-pre-training/)
+* [31 minutes ago
     
-    ### US charges 14 members of North Korean IT worker scam that bagged $88 million in six years](https://digitpatrox.com/us-charges-14-members-of-north-korean-it-worker-scam-that-bagged-88-million-in-six-years/)
-* [1 hour ago
+    ### Today’s NYT Connections Hints, Answers for December 14, 2024](https://digitpatrox.com/todays-nyt-connections-hints-answers-for-december-14-2024/)
+* [2 hours ago
     
-    ### For December’s Patch Tuesday, 74 updates and a zero-day fix for Windows – Computerworld](https://digitpatrox.com/for-decembers-patch-tuesday-74-updates-and-a-zero-day-fix-for-windows-computerworld/)
+    ### CirrusHQ names AWS’ Craig Ridsdill as new head of sales](https://digitpatrox.com/cirrushq-names-aws-craig-ridsdill-as-new-head-of-sales/)
 
 Most Popular Topics
 
-* [August 19, 2024
+* [3 weeks ago
     
-    ### CyberGhost vs ExpressVPN (2024): Which VPN Is Better?](https://digitpatrox.com/cyberghost-vs-expressvpn-2024-which-vpn-is-better/)
-* [August 16, 2024
+    ### The Best Tech Deals During Target’s Black Friday Sale (So Far)](https://digitpatrox.com/the-best-tech-deals-during-targets-black-friday-sale-so-far/)
+* [September 18, 2024
     
-    ### Zendesk Sell Review (2024): Features, Pricing, and Benefits](https://digitpatrox.com/zendesk-sell-review-2024-features-pricing-and-benefits/)
-* [1 week ago
+    ### How Deep Should You Squat?](https://digitpatrox.com/how-deep-should-you-squat/)
+* [September 21, 2024
     
-    ### US shares tips to block hackers behind recent telecom breaches](https://digitpatrox.com/us-shares-tips-to-block-hackers-behind-recent-telecom-breaches/)
+    ### Closing the SMB security gap](https://digitpatrox.com/closing-the-smb-security-gap/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### Console Developers Should Offer Keyboard and Mouse Support for Every Game](https://digitpatrox.com/console-developers-should-offer-keyboard-and-mouse-support-for-every-game/)
 * [3 hours ago
     
-    ### NetApp wants to talk about cold data and its impact on sustainability](https://digitpatrox.com/netapp-wants-to-talk-about-cold-data-and-its-impact-on-sustainability/)
-* [3 hours ago
+    ### This Is the Best Value MacBook Pro You Can Buy](https://digitpatrox.com/this-is-the-best-value-macbook-pro-you-can-buy/)
+* [4 hours ago
     
-    ### How To Run a VoIP Quality Test and Improve Your MOS](https://digitpatrox.com/how-to-run-a-voip-quality-test-and-improve-your-mos/)
+    ### 6G: Pioneering a new era of innovation and business value](https://digitpatrox.com/6g-pioneering-a-new-era-of-innovation-and-business-value/)
+* [4 hours ago
+    
+    ### Which One is Right for Your Business?](https://digitpatrox.com/which-one-is-right-for-your-business/)
 
 Most Viewed Topics
 
 * [August 12, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 13, 2024
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 11, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
