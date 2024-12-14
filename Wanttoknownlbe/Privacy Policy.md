@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/bosbranden-in-canada-aangestoken/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/9-11/het-meest-verzwegen-feit-van-911/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
