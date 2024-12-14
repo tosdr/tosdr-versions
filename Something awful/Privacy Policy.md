@@ -205,29 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Breakfast Cereals 2](https://www.somethingawful.com/photoshop-phriday/breakfast-cereals-2/1/)
-* [Counter-Strike, Yahoo, Library of Castle Kenyon, and Something Awful](https://www.somethingawful.com/weekend-web/counterstrike-yahoo-library/1/)
-* [Gotdamn baby dem cakes sho is clappin!](https://www.somethingawful.com/awfulvision/michael-jackson-hackers/1/)
-* [Spudbook!](https://www.somethingawful.com/awfulvision/sasso-obama-nerf/1/)
-* [Historical Inaccuracies (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/historical-inaccuracies-part/1/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [The Strangest Fan Art, Part 3!](https://www.somethingawful.com/comedy-goldmine/strangest-fan-art3/1/)
+* [Every Review Of Ghostbusters You Will Read This Week](https://www.somethingawful.com/news/every-ghostbusters-review/)
+* [The Palin Smoker! (Part One of Two)](https://www.somethingawful.com/photoshop-phriday/palin-smoker/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [ITT We are shipwrecked on a deserted island](http://forums.somethingawful.com/showthread.php?threadid=4077439 "ITT We are shipwrecked on a deserted island")
-* ![](https://fi.somethingawful.com/forums/posticons/pi-herps.gif) [Would you rather fight 1 man-sized Godzilla or 20 terrapin-sized Gameras?](http://forums.somethingawful.com/showthread.php?threadid=4077471 "Would you rather fight 1 man-sized Godzilla or 20 terrapin-sized Gameras?")
-* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Punirunes - the touchable tamagotchi??](http://forums.somethingawful.com/showthread.php?threadid=4077483 "Punirunes - the touchable tamagotchi??")
+* ![](https://fi.somethingawful.com/forums/posticons/tinypastry.gif) [Baby's got a 12 pack. How bout we go back to the Bay Area and get some Crab](http://forums.somethingawful.com/showthread.php?threadid=4077498 "Baby's got a 12 pack. How bout we go back to the Bay Area and get some Crab")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/games.png) [Goons Vs. Gartic Phone (Friday, December 13, 7PM CST)](http://forums.somethingawful.com/showthread.php?threadid=4077452 "Goons Vs. Gartic Phone (Friday, December 13, 7PM CST)")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/guns.png) [Forums Apocalypse survival plan](http://forums.somethingawful.com/showthread.php?threadid=4077418 "Forums Apocalypse survival plan")
-* ![](https://fi.somethingawful.com/forums/posticons/gws-snacks.gif) [Does anybody actually drink caffeine free soda](http://forums.somethingawful.com/showthread.php?threadid=4077421 "Does anybody actually drink caffeine free soda")
+* ![](https://fi.somethingawful.com/forums/posticons/pi-herps.gif) [Would you rather fight 1 man-sized Godzilla or 20 terrapin-sized Gameras?](http://forums.somethingawful.com/showthread.php?threadid=4077471 "Would you rather fight 1 man-sized Godzilla or 20 terrapin-sized Gameras?")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Nancy Pelosi has stairs in her house...... and she fell down them](http://forums.somethingawful.com/showthread.php?threadid=4077476 "Nancy Pelosi has stairs in her house...... and she fell down them")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [ITT We are shipwrecked on a deserted island](http://forums.somethingawful.com/showthread.php?threadid=4077439 "ITT We are shipwrecked on a deserted island")
+* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Punirunes - the touchable tamagotchi??](http://forums.somethingawful.com/showthread.php?threadid=4077483 "Punirunes - the touchable tamagotchi??")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-explosion.gif) [Power Rangers Jungle Fury theme](http://forums.somethingawful.com/showthread.php?threadid=4077494 "Power Rangers Jungle Fury theme")
 
 ### Random Articles
 
-* [Arcade Action: IN COLOR!](https://www.somethingawful.com/news/arcade-action-color/)
-* [Happy 4th of July animated card!](https://www.somethingawful.com/flash-tub/july-4th-cartoon/)
-* [Another Awful Energy Drink Review Roundup (Part II)](https://www.somethingawful.com/news/energy-drink-review3/1/)
-* [The Voice Of The Internet: Xbox Live Jerk](https://www.somethingawful.com/flash-tub/voice-internet-xbox/)
-* [Pokemon: The Movie: 2014](https://www.somethingawful.com/flash-tub/pokemon-movie-2014/)
+* [Kelly's Used Wet Panties Down Under](https://www.somethingawful.com/awful-links/awful-link-925/)
+* [Hilarious Mixed Signals To Send Your Girlfriend](https://www.somethingawful.com/news/mixed-signals-best/)
+* [Goons on Drugs](https://www.somethingawful.com/great-goon-database/great-goon-drugs/1/)
+* [Nickelodeon GUTS](https://www.somethingawful.com/rom-pit/nickelodeon-guts/)
+* [HELLO AGAIN FRIENDS](https://www.somethingawful.com/mooflogs/daily-lou-bega/)
 
 [Random!](https://www.somethingawful.com/random/)
 
