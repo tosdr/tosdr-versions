@@ -26,9 +26,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Winning ad strategies from the 2024 holiday season](https://illumin.com/wp-content/uploads/2024/12/best-holiday-ads-263x300.jpg)
+    * ![How generative AI is influencing and evolving AdTech](https://illumin.com/wp-content/uploads/2024/12/genai-1-263x300.png)
         
-        Winning ad strategies from the 2024 holiday season[Read More](https://illumin.com/insights/blog/winning-ad-strategies-2024-holidays/)
+        How generative AI is influencing and evolving AdTech[Read More](https://illumin.com/insights/how-generative-ai-is-influencing-adtech/)
         
 * [Company](#)
     * [Company](#)
