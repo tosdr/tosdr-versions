@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/74778919-de2c-4a3b-9c85-140f9c193272/20241214T043046/74778919-de2c-4a3b-9c85-140f9c193272_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/74778919-de2c-4a3b-9c85-140f9c193272/20241214T043046/74778919-de2c-4a3b-9c85-140f9c193272_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/29b962c7-8b08-4312-a843-c24d8310949b/20241214T140954/29b962c7-8b08-4312-a843-c24d8310949b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/29b962c7-8b08-4312-a843-c24d8310949b/20241214T140954/29b962c7-8b08-4312-a843-c24d8310949b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Weather Impact Alert: Ice Potential for Saturday morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Weather Impact Alert: Ice Storm WARNING](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/quad-cities-davenport-moline-weather-wind-chill-impact-alert-cold-temperatures/526-19b4b966-eb08-4210-8ec0-32e337ffddd2)
         
@@ -97,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-27°
+29°
 
-![Snow](/assets/shared-images/weather-icons/snow-day_210x210.png)
+![Freezing Rain](/assets/shared-images/weather-icons/wintry-mix-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
