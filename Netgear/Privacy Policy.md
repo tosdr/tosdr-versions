@@ -154,7 +154,7 @@ Previous Next
     
     [![NETGEAR ENGAGE](/media/NETGEAR_Engage_Logo_Centered_tcm148-145109.png)](https://www.netgear.com/business/solutions/engage-controller/ "NETGEAR ENGAGE")
     
-* [AV SOLUTIONS](https://www.netgear.com/av/)
+* [AV SOLUTIONS](https://www.netgear.com/business/av/)
     
     [AV SOLUTIONS OVERVIEW](https://www.netgear.com/av/)
     
