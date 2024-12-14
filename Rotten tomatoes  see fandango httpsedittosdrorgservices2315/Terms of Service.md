@@ -18,9 +18,9 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Moana 2 Ticket to Adventure - Only $29.99!** Get the Disney pin set & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Gladiator II Prop Auction** Take a piece of history home!
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy a ticket to Mufasa: The Lion King** Chance to win a vacation!
-*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Moana 2 Ticket to Adventure - Only $29.99!** Get the Disney pin set & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rise to victory with The Champion's Collection** Get an Exclusive Gladiator II Movie Pack
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
 
@@ -64,29 +64,29 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventurebundle/?cmp=TARS~FANDANGO~Moana2ticket2adventurebundle_Footer)
     
-* [Save on select movies image link ![Save on select movies](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/ca0ae630-acfd-11ef-a07e-5b03d6159fe4--fan-globalofferunit-homepage-sonicthehedgehog3-gwp-292x118.png)](https://www.watchfandangoathome.com/Sonic3?cmp=TARS~FANDANGO~RewardsSonic3Promo_Footer) 
+* [Save 15% off on the Moana 2 vinyl LP image link ![Save 15% off on the Moana 2 vinyl LP](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/5600fa30-acfe-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moana2-vinyl-gwp-292x118.png)](https://www.fandangomovietickets.com/Moana2VinylGWPOffer?cmp=TARS~FANDANGO~Moana2VinylTicketingOffer_Footer) 
     
-    ### Save on select movies
+    ### Save 15% off on the Moana 2 vinyl LP
     
-    And get up to $5.00 towards a movie ticket\* to see Sonic the Hedgehog 3 in theaters
+    Buy a Ticket, Save 15% off on the Moana 2 vinyl LP
     
-    [LEARN MORE](https://www.watchfandangoathome.com/Sonic3?cmp=TARS~FANDANGO~RewardsSonic3Promo_Footer)
+    [BUY TICKETS](https://www.fandangomovietickets.com/Moana2VinylGWPOffer?cmp=TARS~FANDANGO~Moana2VinylTicketingOffer_Footer)
     
-* [Jingle All The Way To The Theater image link ![Jingle All The Way To The Theater](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/5140f690-acfd-11ef-a07e-5b03d6159fe4--fan-globalofferunit-holidayexhibitoroffers-holidays-292x118.png)](https://www.fandangomovietickets.com/holiday_theater_deals/?cmp=TARS~FANDANGO~holiday_exhibitor_offers_Footer) 
+* [Gladiator II Prop Auction image link ![Gladiator II Prop Auction](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/9f6f3b60-9899-11ef-8321-2b978811c524--fan-globalofferunit-homepage-gladiator2auction-292x118-v5.png)](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer) 
     
-    ### Jingle All The Way To The Theater
+    ### Gladiator II Prop Auction
     
-    Enjoy holiday classics and limited-time specials at a theater near you! Grab your tickets today.
+    Take a piece of history home with official props straight from the movie set!
     
-    [LEARN MORE](https://www.fandangomovietickets.com/holiday_theater_deals/?cmp=TARS~FANDANGO~holiday_exhibitor_offers_Footer)
+    [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer)
     
-* [Chance to win a vacation! image link ![Chance to win a vacation!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dc250740-a39a-11ef-a588-3b078e6b3d8a--fan-homepageofferunit-292x118.png)](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer) 
+* [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
     
-    ### Chance to win a vacation!
+    ### Popular Poster Pack
     
-    Buy a ticket to Mufasa: The Lion King for a chance to win a vacation to the Walt Disney World® Resort!
+    Get 2 movie tickets to Wicked, a limited edition poster, and more!
     
-    [BUY TICKETS](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer)
+    [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
     
 
 New & Coming soon
@@ -186,6 +186,16 @@ New & Coming soon
 
 © 2024 Fandango | [A Division of NBCUniversal](https://www.nbcuniversal.com/)
 
+### SPECIAL OFFER
+
+Close
+
+![Moana 2 Ticket to Adventure - Only $29.99!](https://images.fandango.com/cms/assets/2240ad60-b359-11ef-a588-3b078e6b3d8a--fan-globalnavbar-moanaticket2adventurebundle-343x362.png)
+
+#### $29.99 is calling your name! Get 1 ticket to Moana 2, an exclusive limited release Disney pin set, and more.
+
+The Moana 2 Ticket 2 Adventure bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must have, and be logged into, a Fandango at Home account to buy your bundle. You must have a Fandango account to redeem your movie ticket and receive your 400 FanRewards Points, and you must buy your Moana 2 Ticket 2 Adventure bundle using the same email address used for your Fandango account to receive all components of the bundle. You must be 18 years of age or older to purchase a bundle. The exclusive limited release Disney Pin USA set will begin shipping at the end of November. Please use a physical address where the exclusive limited release Disney Pin USA set can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. The 400 Bonus FanRewards Points will be added to your Fandango account after the release of Moana 2. See https://www.fandangomovietickets.com/moana2ticket2adventurebundle/ for full terms and conditions. [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventurebundle/?cmp=TARS~FANDANGO~Moanasticket2adventure_MOPBanner)
+
 ### Special Offer
 
 Close
@@ -205,16 +215,6 @@ Close
 #### Buy a ticket to Mufasa: The Lion King for a chance to win a vacation to the Walt Disney World® Resort!
 
 NO PURCHASE OR APP NECESSARY. Open to legal residents of the 50 United States and D.C., 18 years of age and older. Void where prohibited. Ends December 29, 2024. For Official Rules/Odds/Free Entry visit  https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes.com.  Sponsor: Fandango Media, LLC, 12180 Millennium Dr., Ste. 200, Playa Vista, CA, 90094 [LEARN MORE](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_promomodule)
-
-### SPECIAL OFFER
-
-Close
-
-![Moana 2 Ticket to Adventure - Only $29.99!](https://images.fandango.com/cms/assets/2240ad60-b359-11ef-a588-3b078e6b3d8a--fan-globalnavbar-moanaticket2adventurebundle-343x362.png)
-
-#### $29.99 is calling your name! Get 1 ticket to Moana 2, an exclusive limited release Disney pin set, and more.
-
-The Moana 2 Ticket 2 Adventure bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must have, and be logged into, a Fandango at Home account to buy your bundle. You must have a Fandango account to redeem your movie ticket and receive your 400 FanRewards Points, and you must buy your Moana 2 Ticket 2 Adventure bundle using the same email address used for your Fandango account to receive all components of the bundle. You must be 18 years of age or older to purchase a bundle. The exclusive limited release Disney Pin USA set will begin shipping at the end of November. Please use a physical address where the exclusive limited release Disney Pin USA set can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. The 400 Bonus FanRewards Points will be added to your Fandango account after the release of Moana 2. See https://www.fandangomovietickets.com/moana2ticket2adventurebundle/ for full terms and conditions. [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventurebundle/?cmp=TARS~FANDANGO~Moanasticket2adventure_MOPBanner)
 
 ### Special Offer
 
