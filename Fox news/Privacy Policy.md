@@ -314,16 +314,16 @@
 
 This material may not be published, broadcast, rewritten, or redistributed. ©2024 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by [Factset](https://go.factset.com/legal). Powered and implemented by [FactSet Digital Solutions](https://www.factset.com/solutions/digital-solutions). [Legal Statement](https://www.factset.com/privacy). Mutual Fund and ETF data provided by [Refinitiv Lipper](https://lipperalpha.refinitiv.com/).
 
-     [![Biden admin dismisses action proposed by Trump as mystery drones stoke fears - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/720/405/e1616b3a2833b98fdda579cada0fc738.jpg?tl=1&ve=1)
+     [![Biden admin says it doesn’t have authority to shoot down mysterious drones as Trump offers action plan - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/720/405/403d64ad399a86b704685fb9a53748e1.jpg?tl=1&ve=1)
 
 DON’T LOOK UP](https://www.foxnews.com/live-news/new-jersey-mysterious-drone-sightings-live-updates)LIVE UPDATES
 
-### [Biden admin dismisses action proposed by Trump as mystery drones stoke fears](https://www.foxnews.com/live-news/new-jersey-mysterious-drone-sightings-live-updates)
+### [Biden admin says it doesn’t have authority to shoot down mysterious drones as Trump offers action plan](https://www.foxnews.com/live-news/new-jersey-mysterious-drone-sightings-live-updates)
 
+* [WATCH: Martha MacCallum grills Biden official on mysterious sightings](https://www.foxnews.com/video/6365963399112)
 * [Homeowners threaten to take matters into their own hands](https://www.foxnews.com/us/drones-mystery-new-jersey-homeowners-threaten-take-matters-own-hands-govt-doesnt-act)
 * [OPINION: We’re going to have a catastrophic incident if we don’t fix this problem](https://www.foxnews.com/opinion/vulnerable-drone-attack-its-going-get-worse)
 * [Drone experts rule out popular theory as questions mount over mystery sightings](https://www.foxnews.com/politics/drones-new-jersey-military-experiment)
-* ['Drone' sightings in the Northeast spark 'unfounded' panic, says expert](https://www.foxnews.com/politics/drone-sightings-northeast-spark-unfounded-panic-says-expert)
 
      [![Children correct Jill Biden after she says ‘Happy Holidays’ — and social media goes wild - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/3267b75f96f0035c9d5e92551506ebe7.jpg?tl=1&ve=1)
 
@@ -333,22 +333,6 @@ NAUGHTY LIST](https://www.foxnews.com/media/social-media-erupts-kids-correct-jil
 
 2 min read
 
-     [![Left-wing nonprofit ripped to shreds for ‘journalism’ claim after email to Hegseth exposed - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/470cd6f33e071b82130e0dabd7ae0f90.jpg?tl=1&ve=1)
-
-‘FAUX’-PUBLICA](https://www.foxnews.com/politics/unethical-garbage-propublica-faces-backlash-journalism-claim-after-email-hegseth-gets-exposed)
-
-### [Left-wing nonprofit ripped to shreds for ‘journalism’ claim after email to Hegseth exposed](https://www.foxnews.com/politics/unethical-garbage-propublica-faces-backlash-journalism-claim-after-email-hegseth-gets-exposed)
-
-6 min read
-
-     [![Accused Ivy League killer may not inherit fortune because of clause in grandma’s will - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/ddacab5847e446de031dd3a973f46201.jpg?tl=1&ve=1)
-
-CUT OUT](https://www.foxnews.com/us/unitedhealthcare-ceo-murder-suspect-luigi-mangione-grandma-left-millions-family-excluding-felons)
-
-### [Accused Ivy League killer may not inherit fortune because of clause in grandma’s will](https://www.foxnews.com/us/unitedhealthcare-ceo-murder-suspect-luigi-mangione-grandma-left-millions-family-excluding-felons)
-
-6 min read
-
      [![Harvard president privately sends clear message to faculty after GOP’s election sweep - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/7dcb01d07186c65622e384e573730043.jpg?tl=1&ve=1)
 
 BEHIND CLOSED DOORS](https://www.foxnews.com/media/harvard-president-privately-tells-faculty-university-needs-rethink-messaging-after-gop-victory)
@@ -357,45 +341,61 @@ BEHIND CLOSED DOORS](https://www.foxnews.com/media/harvard-president-privately-t
 
 3 min read
 
-     [![Costco sells luxury, 150-day around-the-world cruise with eye-popping price tag - Fox News](//a57.foxnews.com/hp.foxbusiness.com/images/2024/12/343/193/b6dbea1f6614a8d0e7f3126f27768157.png?tl=1&ve=1)
+     [![Senior Trump official pinpoints the visit that put campaign on ‘trajectory to victory’ - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/e87380446d305c10b2aad33fb59fe83a.jpg?tl=1&ve=1)
 
-BULK BUY](https://www.foxbusiness.com/lifestyle/costco-sold-around-the-world-cruise-293000)lifestyle
+THE RIGHT TRACK](https://www.foxnews.com/politics/senior-trump-official-reveals-visit-set-trajectory-election-victory)
 
-### [Costco sells luxury, 150-day around-the-world cruise with eye-popping price tag](https://www.foxbusiness.com/lifestyle/costco-sold-around-the-world-cruise-293000)
+### [Senior Trump official pinpoints the visit that put campaign on ‘trajectory to victory’](https://www.foxnews.com/politics/senior-trump-official-reveals-visit-set-trajectory-election-victory)
+
+4 min read
+
+     [![Left-wing nonprofit ripped to shreds for ‘journalism’ claim after email to Hegseth exposed - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/470cd6f33e071b82130e0dabd7ae0f90.jpg?tl=1&ve=1)
+
+‘FAUX’-PUBLICA](https://www.foxnews.com/politics/unethical-garbage-propublica-faces-backlash-journalism-claim-after-email-hegseth-gets-exposed)
+
+### [Left-wing nonprofit ripped to shreds for ‘journalism’ claim after email to Hegseth exposed](https://www.foxnews.com/politics/unethical-garbage-propublica-faces-backlash-journalism-claim-after-email-hegseth-gets-exposed)
+
+6 min read
+
+     [![Accused Ivy League killer reportedly did not flee NYC by bus as originally believed - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/c478a5b7dea84e66343eaadefc48af89.jpg?tl=1&ve=1)
+
+ESCAPE ROUTE](https://www.foxnews.com/us/unitedhealthcare-ceo-shooting-suspect-fled-new-york-via-train-not-bus-originally-thought-reports)
+
+### [Accused Ivy League killer reportedly did not flee NYC by bus as originally believed](https://www.foxnews.com/us/unitedhealthcare-ceo-shooting-suspect-fled-new-york-via-train-not-bus-originally-thought-reports)
 
 3 min read
 
-     [![Travis Kelce’s dad puts ‘emotion’ over price when it comes to gift for Taylor Swift - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/343/193/Super-Bowl-Las-Vegas-49ers-Chiefs-Taylor-Swift-Travis-Kelce_04.jpg?tl=1&ve=1)
+* [Mangione may not inherit family’s fortune because of clause in grandma’s will](https://www.foxnews.com/us/unitedhealthcare-ceo-murder-suspect-luigi-mangione-grandma-left-millions-family-excluding-felons)
 
-$10 MESSAGE](https://www.foxnews.com/sports/taylor-swift-only-get-10-birthday-present-travis-kelces-dad)sports
+     [![A-list actor denies participating in Sean 'Diddy' Combs' 'freak offs' despite speculation - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/c1fa6d82e5f08118d8f0d23b06ab7d06.jpg?tl=1&ve=1)
 
-### [Travis Kelce’s dad puts ‘emotion’ over price when it comes to gift for Taylor Swift](https://www.foxnews.com/sports/taylor-swift-only-get-10-birthday-present-travis-kelces-dad)
+'DAMN LIE'](https://www.foxnews.com/entertainment/smith-denies-participating-sean-diddy-combs-alleged-freak-offs-says-any-speculation-lie)
 
-4 min read
-
-     [![NFL Hall of Famer announces scary diagnosis after dayslong hospitalization - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/343/193/15d19e6c-randy-moss.jpg?tl=1&ve=1)
-
-‘TRYING TIMES’](https://www.foxnews.com/sports/nfl-legend-randy-moss-says-he-has-cancer)sports
-
-### [NFL Hall of Famer announces scary diagnosis after dayslong hospitalization](https://www.foxnews.com/sports/nfl-legend-randy-moss-says-he-has-cancer)
+### [A-list actor denies participating in Sean 'Diddy' Combs' 'freak offs' despite speculation](https://www.foxnews.com/entertainment/smith-denies-participating-sean-diddy-combs-alleged-freak-offs-says-any-speculation-lie)
 
 4 min read
 
-     [![‘Yellowstone’ star says Kevin Costner’s exit made it the ‘easiest season we’ve filmed’ - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/a1bded3f603d84502c2a7bb0b3c5c3d5.jpg?tl=1&ve=1)
+     [![Iconic NYC bakery's signature dessert will be available on major airline's flights - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/7801ea30caac914b125a06b024562e93.jpg?tl=1&ve=1)
 
-HAPPY TRAILS](https://www.foxnews.com/entertainment/yellowstone-star-luke-grimes-says-kevin-costners-exit-made-easiest-season-weve-filmed)entertainment
+SUGAR HIGH](https://www.foxnews.com/travel/major-airline-brings-magnolia-bakerys-viral-banana-pudding-passengers-select-flights)travel
 
-### [‘Yellowstone’ star says Kevin Costner’s exit made it the ‘easiest season we’ve filmed’](https://www.foxnews.com/entertainment/yellowstone-star-luke-grimes-says-kevin-costners-exit-made-easiest-season-weve-filmed)
+### [Iconic NYC bakery's signature dessert will be available on major airline's flights](https://www.foxnews.com/travel/major-airline-brings-magnolia-bakerys-viral-banana-pudding-passengers-select-flights)
 
-4 min read
+3 min read
+
+     [![NFL Hall of Fame quarterback gives away cars to veterans ahead of Army-Navy showdown - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/ca0eef342551dec52301853ca7cef05f.jpg?tl=1&ve=1)
+
+SALUTING SERVICE](https://www.foxnews.com/sports/nfl-legend-joe-theismann-gives-free-cars-service-members-army-navy-game)sports
+
+### [NFL Hall of Fame quarterback gives away cars to veterans ahead of Army-Navy showdown](https://www.foxnews.com/sports/nfl-legend-joe-theismann-gives-free-cars-service-members-army-navy-game)
+
+3 min read
 
 [Video
 
-‘WHY DON’T WE KNOW?’](https://www.foxnews.com/video/6365963399112)WATCH
+WAR OF WORDS](https://www.foxnews.com/video/6365974200112)WATCH
 
-### [Martha MacCallum grills Biden official on mysterious drone sightings across the country](https://www.foxnews.com/video/6365963399112)
-
-* [John Kirby says he’s ‘not going to lie’ to the American people](https://www.foxnews.com/media/john-kirby-grilled-mysterious-new-jersey-drone-sightings-why-dont-we-know)
+### [Riley Gaines calls out National Spelling Bee for endorsing new spelling of the word 'women'](https://www.foxnews.com/video/6365974200112)
 
 * [Fox News Channel  
     Pay TV Login Required](https://www.foxnews.com/video/5614615980001)
@@ -432,71 +432,19 @@ Deals
 
 [](https://www.foxnews.com/video/5614615980001)
 
-### [WATCH LIVE: Today’s top stories on ‘Jesse Watters Primetime’](https://www.foxnews.com/video/5614615980001)
+### [WATCH LIVE: Today’s top stories on ‘Hannity’](https://www.foxnews.com/video/5614615980001)
 
-     [![President-elect Trump sums up his political comeback in single social media post - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trump-posts-how-its-going-message-contrasting-time-person-year-cover-mug-shot)
+     [![American couple killed while visiting Mexican city plagued by violence - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/american-couple-killed-mexico-found-shot-pickup-truck-officials)
 
-### [President-elect Trump sums up his political comeback in single social media post](https://www.foxnews.com/politics/trump-posts-how-its-going-message-contrasting-time-person-year-cover-mug-shot)
+### [American couple killed while visiting Mexican city plagued by violence](https://www.foxnews.com/us/american-couple-killed-mexico-found-shot-pickup-truck-officials)
 
-[POLITICS](https://www.foxnews.com/category/politics) 2 min read
+[MEXICO](https://www.foxnews.com/category/world/world-regions/location-mexico) 3 min read
 
-     [![Biden ignites outrage for commuting sentence of official convicted in historic scheme - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/politics/biden-commutes-sentence-official-who-stole-54m-from-small-illinois-town-sparking-outrage)
+     [![Father who 'loved with all his heart' shot, killed driving home from work - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/texas-father-who-loved-all-his-heart-shot-killed-driving-home-from-work)
 
-### [Biden ignites outrage for commuting sentence of official convicted in historic scheme](https://www.foxbusiness.com/politics/biden-commutes-sentence-official-who-stole-54m-from-small-illinois-town-sparking-outrage)
+### [Father who 'loved with all his heart' shot, killed driving home from work](https://www.foxnews.com/us/texas-father-who-loved-all-his-heart-shot-killed-driving-home-from-work)
 
-[POLITICS](https://www.foxbusiness.com/tag/politics) 3 min read
-
-     [![Canada threatens to strike back against US if Trump admin follows through on promise - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/canadian-premier-threatens-cut-off-energy-imports-u-s-trump-imposes-tariff-country)
-
-### [Canada threatens to strike back against US if Trump admin follows through on promise](https://www.foxnews.com/politics/canadian-premier-threatens-cut-off-energy-imports-u-s-trump-imposes-tariff-country)
-
-[ENERGY](https://www.foxnews.com/category/us/energy) 3 min read
-
-      [![President-elect Trump has united the GOP and the country - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://video.foxnews.com/v/6365969903112/)
-
-### [JASON CHAFFETZ: President-elect Trump has united the GOP and the country](https://video.foxnews.com/v/6365969903112/)
-
-[the ingraham angle](https://www.foxnews.com/video)
-
-     [![84-year-old Nancy Pelosi hospitalized after sustaining injury during overseas trip - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/former-house-speaker-nancy-pelosi-injured-hospitalized-while-traveling-luxembourg)
-
-### [84-year-old Nancy Pelosi hospitalized after sustaining injury during overseas trip](https://www.foxnews.com/politics/former-house-speaker-nancy-pelosi-injured-hospitalized-while-traveling-luxembourg)
-
-[NANCY PELOSI](https://www.foxnews.com/category/person/nancy-pelosi) 1 min read
-
-     [![Former Obama adviser examines Trump's victory and how 'something is off' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/van-jones-says-political-class-outsmarted-trumps-digital-online-influencer-campaign)
-
-### [Former Obama adviser examines Trump's victory and how 'something is off'](https://www.foxnews.com/media/van-jones-says-political-class-outsmarted-trumps-digital-online-influencer-campaign)
-
-[MEDIA](https://www.foxnews.com/category/media) 5 min read
-
-      [![Gift baskets to consider giving your loved ones for Christmas — even if you're on a budget - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/christmas-gift-baskets)lifestyle
-
-### [Gift baskets to consider giving your loved ones for Christmas — even if you're on a budget](https://www.foxnews.com/lifestyle/christmas-gift-baskets)
-
-[DEALS](https://www.foxnews.com/category/deals) 5 min read
-
-[](https://www.foxnews.com/games)
-
-### [PLAY NOW! Crosswords, Word Search, Crazy Crystals, Stack & Match & 5 Across!](https://www.foxnews.com/games)
-
-      [!['FOX & Friends' spotlights made-in-America gift ideas perfect for the holidays - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365949099112) WATCH
-
-### ['FOX & Friends' spotlights made-in-America gift ideas perfect for the holidays](https://www.foxnews.com/video/6365949099112)
-
-[Fox & Friends Weekend](https://www.foxnews.com/video)
-
-      [![The most splurge-worthy gifts that will be sure to bring joy this Christmas - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/amazon-splurge-gift-ideas-christmas)lifestyle
-
-### [The most splurge-worthy gifts that will be sure to bring joy this Christmas](https://www.foxnews.com/lifestyle/amazon-splurge-gift-ideas-christmas)
-
-[DEALS](https://www.foxnews.com/category/deals) 6 min read
-
-     [![Hollywood star forced to flee luxury home with barely more than clothes she was wearing - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/malibu-fires-drove-jane-seymour-out-her-home-barely-more-than-clothes-her-back)
-
-### [Hollywood star forced to flee luxury home with barely more than clothes she was wearing](https://www.foxnews.com/entertainment/malibu-fires-drove-jane-seymour-out-her-home-barely-more-than-clothes-her-back)
-
-[ENTERTAINMENT](https://www.foxnews.com/category/entertainment) 4 min read
+[HOMICIDE](https://www.foxnews.com/category/us/crime/homicide) 3 min read
 
      [![Legendary rock drummer reveals rare diagnosis after fans noticed he looked 'pained' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/u2-drummers-rare-diagnosis-pained-during-performances)
 
@@ -510,17 +458,69 @@ Deals
 
 [VIDEO](https://www.foxnews.com/video)
 
-     [![A-list actor denies participating in Sean 'Diddy' Combs' 'freak offs' despite speculation - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/smith-denies-participating-sean-diddy-combs-alleged-freak-offs-says-any-speculation-lie)
+     [![Bitter 'The View' co-host takes shots at Trump being on Time magazine cover - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/the-view-co-host-bashes-trump-time-cover-mentioning-hitler-got-same-recognition)
 
-### [A-list actor denies participating in Sean 'Diddy' Combs' 'freak offs' despite speculation](https://www.foxnews.com/entertainment/smith-denies-participating-sean-diddy-combs-alleged-freak-offs-says-any-speculation-lie)
+### [Bitter 'The View' co-host takes shots at Trump being on Time magazine cover](https://www.foxnews.com/media/the-view-co-host-bashes-trump-time-cover-mentioning-hitler-got-same-recognition)
 
-[ENTERTAINMENT](https://www.foxnews.com/category/entertainment) 4 min read
+[MEDIA](https://www.foxnews.com/category/media) 4 min read
+
+     [![Public tip to police reportedly helped FBI identify accused Ivy League killer - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/tip-san-fran-police-helped-fbi-identify-unitedhealth-ceo-suspect-luigi-mangione-source)
+
+### [Public tip to police reportedly helped FBI identify accused Ivy League killer](https://www.foxnews.com/us/tip-san-fran-police-helped-fbi-identify-unitedhealth-ceo-suspect-luigi-mangione-source)
+
+[HOMICIDE](https://www.foxnews.com/category/us/crime/homicide) 4 min read
+
+     [![Gift baskets to consider giving your loved ones for Christmas — even if you're on a budget - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/christmas-gift-baskets)
+
+### [Gift baskets to consider giving your loved ones for Christmas — even if you're on a budget](https://www.foxnews.com/lifestyle/christmas-gift-baskets)
+
+[DEALS](https://www.foxnews.com/category/deals) 5 min read
+
+[](https://www.foxnews.com/games)
+
+### [PLAY NOW! Crosswords, Word Search, Crazy Crystals, Stack & Match & 5 Across!](https://www.foxnews.com/games)
 
       [![Incurable, 'highly contagious' STD affects nearly 900 million people under age 50 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/health/incurable-highly-contagious-std-affects-nearly-900-million-people-under-age-50)health
 
 ### [Incurable, 'highly contagious' STD affects nearly 900 million people under age 50](https://www.foxnews.com/health/incurable-highly-contagious-std-affects-nearly-900-million-people-under-age-50)
 
 [HEALTH](https://www.foxnews.com/category/health) 6 min read
+
+     [![The most splurge-worthy gifts that will be sure to bring joy this Christmas - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/amazon-splurge-gift-ideas-christmas)
+
+### [The most splurge-worthy gifts that will be sure to bring joy this Christmas](https://www.foxnews.com/lifestyle/amazon-splurge-gift-ideas-christmas)
+
+[DEALS](https://www.foxnews.com/category/deals) 6 min read
+
+      [![Costco sells luxury, 150-day around-the-world cruise with eye-popping price tag - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/lifestyle/costco-sold-around-the-world-cruise-293000)lifestyle
+
+### [Costco sells luxury, 150-day around-the-world cruise with eye-popping price tag](https://www.foxbusiness.com/lifestyle/costco-sold-around-the-world-cruise-293000)
+
+[COSTCO](https://www.foxbusiness.com/tag/costco) 3 min read
+
+     [![Canada threatens to cut off critical exports to US if Trump follows through with tariff plan - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/canadian-premier-threatens-cut-off-energy-imports-u-s-trump-imposes-tariff-country)
+
+### [Canada threatens to cut off critical exports to US if Trump follows through with tariff plan](https://www.foxnews.com/politics/canadian-premier-threatens-cut-off-energy-imports-u-s-trump-imposes-tariff-country)
+
+[ENERGY](https://www.foxnews.com/category/us/energy) 3 min read
+
+     [![84-year-old Nancy Pelosi hospitalized after sustaining injury during overseas trip - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/former-house-speaker-nancy-pelosi-injured-hospitalized-while-traveling-luxembourg)
+
+### [84-year-old Nancy Pelosi hospitalized after sustaining injury during overseas trip](https://www.foxnews.com/politics/former-house-speaker-nancy-pelosi-injured-hospitalized-while-traveling-luxembourg)
+
+[NANCY PELOSI](https://www.foxnews.com/category/person/nancy-pelosi) 1 min read
+
+     [![Teachers fight back after being forced to ask for students' preferred pronouns — and win - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/local-virginia-teachers-no-longer-forced-use-students-preferred-pronouns-after-settlement)
+
+### [Teachers fight back after being forced to ask for students' preferred pronouns — and win](https://www.foxnews.com/media/local-virginia-teachers-no-longer-forced-use-students-preferred-pronouns-after-settlement)
+
+[MEDIA](https://www.foxnews.com/category/media) 4 min read
+
+     [![US releases three convicted spies in prisoner swap with China - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/us-swaps-prisoners-china-releasing-3-convicted-spies)
+
+### [US releases three convicted spies in prisoner swap with China](https://www.foxnews.com/politics/us-swaps-prisoners-china-releasing-3-convicted-spies)
+
+[JOE BIDEN](https://www.foxnews.com/category/person/joe-biden) 4 min read
 
 [](https://foxnews.com/trumptransition)
 
@@ -532,9 +532,9 @@ Deals
 
 [Politics](https://www.foxnews.com/category/politics)
 
-      [![Paul Wahlberg talks 'Blue Bloods' Sunday dinners, 'traditional' holiday meals - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/family-dinners-blue-bloods-tradition-paul-wahlberg-embraces)food
+      [![Paul Wahlberg shares his favorite recipe as dinners on 'Blue Bloods' come to an end - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/family-dinners-blue-bloods-tradition-paul-wahlberg-embraces)food
 
-### [Paul Wahlberg talks 'Blue Bloods' Sunday dinners, 'traditional' holiday meals](https://www.foxnews.com/food-drink/family-dinners-blue-bloods-tradition-paul-wahlberg-embraces)
+### [Paul Wahlberg shares his favorite recipe as dinners on 'Blue Bloods' come to an end](https://www.foxnews.com/food-drink/family-dinners-blue-bloods-tradition-paul-wahlberg-embraces)
 
 [FOOD-DRINK](https://www.foxnews.com/category/food-drink) 5 min read
 
@@ -556,65 +556,65 @@ Deals
 
 [HEALTH](https://www.foxnews.com/category/health) 6 min read
 
-     [![Father who 'loved with all his heart' shot, killed driving home from work - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/texas-father-who-loved-all-his-heart-shot-killed-driving-home-from-work)
+      [![Valerie Bertinelli shrugs off online reactions to her viral risqué selfie - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/valerie-bertinelli-proud-her-body-after-64-years-gravity)entertainment
 
-### [Father who 'loved with all his heart' shot, killed driving home from work](https://www.foxnews.com/us/texas-father-who-loved-all-his-heart-shot-killed-driving-home-from-work)
-
-[HOMICIDE](https://www.foxnews.com/category/us/crime/homicide) 3 min read
-
-      [![Dolphins release veteran receiver Odell Beckham Jr. after just nine games - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/dolphins-release-veteran-receiver-odell-beckham-jr-after-just-nine-games)sports
-
-### [Dolphins release veteran receiver Odell Beckham Jr. after just nine games](https://www.foxnews.com/sports/dolphins-release-veteran-receiver-odell-beckham-jr-after-just-nine-games)
-
-[ODELL BECKHAM JR.](https://www.foxnews.com/category/person/odell-beckham-jr) 2 min read
-
-     [![Star NFL rookie goes viral for generous gift at Nashville restaurant - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/titans-rookie-jarvis-brownlee-jr-shares-powerful-message-after-helping-out-single-mom-god-bless-you)
-
-### [Star NFL rookie goes viral for generous gift at Nashville restaurant](https://www.foxnews.com/sports/titans-rookie-jarvis-brownlee-jr-shares-powerful-message-after-helping-out-single-mom-god-bless-you)
-
-[TENNESSEE TITANS](https://www.foxnews.com/category/sports/nfl/tennessee-titans) 3 min read
-
-     [![Biden stirs outrage in Scranton by commuting 'kids for cash' judge's sentence - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/biden-stirs-outrage-scranton-commuting-kids-cash-judges-sentence)
-
-### [Biden stirs outrage in Scranton by commuting 'kids for cash' judge's sentence](https://www.foxnews.com/politics/biden-stirs-outrage-scranton-commuting-kids-cash-judges-sentence)
-
-[CRIME](https://www.foxnews.com/category/us/crime) 5 min read
-
-     [![Woman arrested for attempting to smuggle 22 pounds of meth wrapped as Christmas gifts - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/woman-arrested-attempting-smuggle-22-pounds-meth-wrapped-christmas-gifts-carry-on-bag)
-
-### [Woman arrested for attempting to smuggle 22 pounds of meth wrapped as Christmas gifts](https://www.foxnews.com/world/woman-arrested-attempting-smuggle-22-pounds-meth-wrapped-christmas-gifts-carry-on-bag)
-
-[NEW ZEALAND](https://www.foxnews.com/category/world/world-regions/new-zealand) 3 min read
-
-     [![Senior Trump official reveals visit that set ‘trajectory’ for election victory - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/senior-trump-official-reveals-visit-set-trajectory-election-victory)
-
-### [Senior Trump official reveals visit that set ‘trajectory’ for election victory](https://www.foxnews.com/politics/senior-trump-official-reveals-visit-set-trajectory-election-victory)
-
-[POLITICS](https://www.foxnews.com/category/politics) 4 min read
-
-      [![Elton John calls the left’s position on hot-button issue ‘one of the greatest mistakes’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/elton-john-calls-marijuana-legalization-one-greatest-mistakes-all-time-after-addiction-struggles)entertainment
-
-### [Elton John calls the left’s position on hot-button issue ‘one of the greatest mistakes’](https://www.foxnews.com/entertainment/elton-john-calls-marijuana-legalization-one-greatest-mistakes-all-time-after-addiction-struggles)
+### [Valerie Bertinelli shrugs off online reactions to her viral risqué selfie](https://www.foxnews.com/entertainment/valerie-bertinelli-proud-her-body-after-64-years-gravity)
 
 [ENTERTAINMENT](https://www.foxnews.com/category/entertainment) 5 min read
 
-     [![UnitedHealth Group chief argues for reform after CEO murder, says staff facing 'vitriol' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/economy/unitedhealth-group-ceo-argues-health-care-reform-op-ed)
+     [![Texas father set house on fire with 3 children inside, police say - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/texas-father-set-house-fire-3-children-inside-police)
 
-### [UnitedHealth Group chief argues for reform after CEO murder, says staff facing 'vitriol'](https://www.foxbusiness.com/economy/unitedhealth-group-ceo-argues-health-care-reform-op-ed)
+### [Texas father set house on fire with 3 children inside, police say](https://www.foxnews.com/us/texas-father-set-house-fire-3-children-inside-police)
 
-[HEALTHCARE](https://www.foxbusiness.com/tag/healthcare) 4 min read
+[TEXAS](https://www.foxnews.com/category/us/us-regions/southwest/texas) 2 min read
 
-[](https://www.foxbusiness.com/economy/us-national-debt-tracker)
+      [![NFL Hall of Famer announces scary diagnosis after dayslong hospitalization - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/nfl-legend-randy-moss-says-he-has-cancer)sports
 
-### [Track the US national debt's rapid rise in real time](https://www.foxbusiness.com/economy/us-national-debt-tracker)
+### [NFL Hall of Famer announces scary diagnosis after dayslong hospitalization](https://www.foxnews.com/sports/nfl-legend-randy-moss-says-he-has-cancer)
 
-[GOVERNMENT SPENDING](https://www.foxbusiness.com/tag/government-spending) 5 min read
+[NFL](https://www.foxnews.com/category/sports/nfl) 4 min read
 
-     [![Jimmy Failla, comedic trio take stage at first-ever FOX Nation event - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/jimmy-failla-comedic-geniuses-fox-nation-night-comedy-event)
+      [![‘Yellowstone’ star says Kevin Costner’s exit made it the ‘easiest season we’ve filmed’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/yellowstone-star-luke-grimes-says-kevin-costners-exit-made-easiest-season-weve-filmed)entertainment
 
-### [Jimmy Failla, comedic trio take stage at first-ever FOX Nation event](https://www.foxnews.com/media/jimmy-failla-comedic-geniuses-fox-nation-night-comedy-event)
+### [‘Yellowstone’ star says Kevin Costner’s exit made it the ‘easiest season we’ve filmed’](https://www.foxnews.com/entertainment/yellowstone-star-luke-grimes-says-kevin-costners-exit-made-easiest-season-weve-filmed)
 
-[FOX NATION](https://www.foxnews.com/category/fox-nation) 3 min read
+[ENTERTAINMENT](https://www.foxnews.com/category/entertainment) 4 min read
+
+      [![WNBA team owner suggests Caitlin Clark's latest honor will incite ‘racism’ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/wnba-owner-questions-caitlin-clark-time-athlete-year-suggests-it-will-cause-racism)sports
+
+### [WNBA team owner suggests Caitlin Clark's latest honor will incite ‘racism’](https://www.foxnews.com/sports/wnba-owner-questions-caitlin-clark-time-athlete-year-suggests-it-will-cause-racism)
+
+[WNBA](https://www.foxnews.com/category/sports/wnba) 6 min read
+
+     [![Jay-Z sexual assault accuser admits to making 'some mistakes' in lawsuit - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/jay-zs-sexual-assault-accuser-speaks-out-admits-making-some-mistakes-lawsuit-alleged-rape)
+
+### [Jay-Z sexual assault accuser admits to making 'some mistakes' in lawsuit](https://www.foxnews.com/entertainment/jay-zs-sexual-assault-accuser-speaks-out-admits-making-some-mistakes-lawsuit-alleged-rape)
+
+[ENTERTAINMENT](https://www.foxnews.com/category/entertainment) 8 min read
+
+     [![Biden ignites outrage for commuting sentence of official convicted in historic scheme - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/politics/biden-commutes-sentence-official-who-stole-54m-from-small-illinois-town-sparking-outrage)
+
+### [Biden ignites outrage for commuting sentence of official convicted in historic scheme](https://www.foxbusiness.com/politics/biden-commutes-sentence-official-who-stole-54m-from-small-illinois-town-sparking-outrage)
+
+[POLITICS](https://www.foxbusiness.com/tag/politics) 3 min read
+
+     [![President-elect Trump sums up his political comeback in single social media post - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trump-posts-how-its-going-message-contrasting-time-person-year-cover-mug-shot)
+
+### [President-elect Trump sums up his political comeback in single social media post](https://www.foxnews.com/politics/trump-posts-how-its-going-message-contrasting-time-person-year-cover-mug-shot)
+
+[POLITICS](https://www.foxnews.com/category/politics) 2 min read
+
+     [![Trump backs dockworkers union in dispute amid threat of another port strike - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/politics/trump-backs-dockworkers-union-port-automation-dispute-transition-team-set-meet-usmx)
+
+### [Trump backs dockworkers union in dispute amid threat of another port strike](https://www.foxbusiness.com/politics/trump-backs-dockworkers-union-port-automation-dispute-transition-team-set-meet-usmx)
+
+[DONALD TRUMP](https://www.foxbusiness.com/tag/donald-trump) 5 min read
+
+[Video](https://www.foxnews.com/video/6365949099112) WATCH
+
+### [‘FOX & Friends’ spotlights made-in-America gift ideas perfect for the holiday season](https://www.foxnews.com/video/6365949099112)
+
+[Fox & Friends Weekend](https://www.foxnews.com/video)
 
       [![The 'All-American Christmas Tree' brings holiday cheer to FOX Square - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6364910912112)
 
@@ -642,11 +642,11 @@ Deals
 
 [MEDIA](https://www.foxnews.com/category/media) 5 min read
 
-     [![FOX News Channel dominates cable as CNN, MSNBC collapse to embarrassing weekly lows - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/fox-news-channel-dominates-cable-news-cnn-msnbc-collapse-embarrassing-weekly-lows)
+     [![Jimmy Failla, comedic trio take stage at first-ever FOX Nation event - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/jimmy-failla-comedic-geniuses-fox-nation-night-comedy-event)
 
-### [FOX News Channel dominates cable as CNN, MSNBC collapse to embarrassing weekly lows](https://www.foxnews.com/media/fox-news-channel-dominates-cable-news-cnn-msnbc-collapse-embarrassing-weekly-lows)
+### [Jimmy Failla, comedic trio take stage at first-ever FOX Nation event](https://www.foxnews.com/media/jimmy-failla-comedic-geniuses-fox-nation-night-comedy-event)
 
-[MEDIA](https://www.foxnews.com/category/media)
+[FOX NATION](https://www.foxnews.com/category/fox-nation) 3 min read
 
      [![Body camera footage of belligerent teens at Kroger's goes viral - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/culture/police-arrest-video-teenagers-store)
 
@@ -724,21 +724,21 @@ Are EGGS bad for your heart? Surgeon answers](https://www.foxnews.com/video/6365
 [OutKick](https://www.outkick.com/)
 -----------------------------------
 
-     [![AI Program Thinks It Can Tell If You Drink Beer Or Eat Refried Beans From Your Knee X-Ray (It Can't) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/culture/ai-program-thinks-can-tell-you-drink-beer-eat-refried-beans-from-your-knee-x-ray-it-cant)
+     [![Insane Body Camera Footage Goes Viral, Will Enrage Viewers: WATCH - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/culture/police-arrest-video-teenagers-store)
 
-### [AI Program Thinks It Can Tell If You Drink Beer Or Eat Refried Beans From Your Knee X-Ray (It Can't)](https://www.outkick.com/culture/ai-program-thinks-can-tell-you-drink-beer-eat-refried-beans-from-your-knee-x-ray-it-cant)
+### [Insane Body Camera Footage Goes Viral, Will Enrage Viewers: WATCH](https://www.outkick.com/culture/police-arrest-video-teenagers-store)
 
-### [Quinn Ewers Seems Set To Open Door For Arch Manning To Start Next Year](https://www.outkick.com/sports/quinn-ewers-seems-set-open-door-arch-manning-start-next-year)
+### [CNN Commentator: Caitlin Clark Should Acknowledge WNBA History Because Of Racism](https://www.outkick.com/sports/cnn-commentator-caitlin-clark-should-acknowledge-wnba-history-because-racism)
 
-   [![AUSTIN, TX - OCTOBER 19: Texas Longhorns quarterback Quinn Ewers (3) on the field before the SEC college football game between Texas Longhorns and Georgia Bulldogs on October 19, 2024, at Darrell K Royal - Texas Memorial Stadium in Austin, TX. (Photo by David Buono/Icon Sportswire via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/quinn-ewers-seems-set-open-door-arch-manning-start-next-year)
+   [![The Indiana Fever hire Stephanie White as Caitlin Clark&apos;s new coach. (Credit: Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/cnn-commentator-caitlin-clark-should-acknowledge-wnba-history-because-racism)
 
-### [Mystics Owner Wants To Know Why Entire WNBA Couldn't Be On Time Cover Instead Of Caitlin Clark](https://www.outkick.com/sports/mystics-owner-wants-know-why-entire-wnba-couldnt-time-cover-instead-caitlin-clark)
+### [Rich Rodriguez's Re-Introduction At West Virginia Almost Went Off The Rails Thanks To A Heckler](https://www.outkick.com/sports/rich-rodriguezs-re-introduction-west-virginia-almost-went-off-rails-thanks-heckler)
 
-   [![Mystics Owner Wants To Know Why Entire WNBA Couldn&apos;t Be On Time Cover Instead Of Caitlin Clark - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/mystics-owner-wants-know-why-entire-wnba-couldnt-time-cover-instead-caitlin-clark)
+   [![&copy; Dave Hyatt / Special to the Gadsden Times / USA TODAY NETWORK and Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/rich-rodriguezs-re-introduction-west-virginia-almost-went-off-rails-thanks-heckler)
 
-### [Flyers Head Coach John Tortorella Concedes Defeat In War On Michigan Move](https://www.outkick.com/sports/john-tortorella-concedes-defeat-war-michigan-move-after-flyers-rookie-matvei-michkov-nearly-scores)
+### [Top Recruits Reveal Whether They'd Want To Play For Bill Belichick](https://www.outkick.com/sports/top-recruits-reveal-whether-theyd-want-play-bill-belichick)
 
-   [![John Tortorella says he has lost the battle over the Michigan move after Matvei Michkov tried to score with it on Thursday night. (Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/john-tortorella-concedes-defeat-war-michigan-move-after-flyers-rookie-matvei-michkov-nearly-scores)
+   [![CHAPEL HILL, NORTH CAROLINA - DECEMBER 12: Head Coach Bill Belichick of the North Carolina Tar Heels speaks to the media during a press conference on December 12, 2024 in Chapel Hill, North Carolina. (Photo by Jared C. Tilton/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/top-recruits-reveal-whether-theyd-want-play-bill-belichick)
 
 [Digital Originals](https://www.foxnews.com/category/us/digital-originals)
 --------------------------------------------------------------------------
@@ -781,9 +781,13 @@ Are EGGS bad for your heart? Surgeon answers](https://www.foxnews.com/video/6365
 [Fox News Flash](https://www.foxnews.com/category/media/fox-news-flash)
 -----------------------------------------------------------------------
 
-     [![Whoopi accuses RFK, Jr. of fat shaming, gets shredded on 'Outnumbered': 'How stupid do you have to be?' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/whoopi-accuses-rfk-jr-fat-shaming-gets-shredded-outnumbered-how-stupid-do-you-have-be)
+     [![SEAN HANNITY: Biden is 'solely focused on sabotaging' incoming Trump admin in final weeks in office - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/sean-hannity-biden-solely-focused-sabotaging-incoming-trump-admin-final-weeks-office)
+
+### [SEAN HANNITY: Biden is 'solely focused on sabotaging' incoming Trump admin in final weeks in office](https://www.foxnews.com/media/sean-hannity-biden-solely-focused-sabotaging-incoming-trump-admin-final-weeks-office)
 
 ### [Whoopi accuses RFK, Jr. of fat shaming, gets shredded on 'Outnumbered': 'How stupid do you have to be?'](https://www.foxnews.com/media/whoopi-accuses-rfk-jr-fat-shaming-gets-shredded-outnumbered-how-stupid-do-you-have-be)
+
+   [![&quot;The View&quot; co-host Whoopi Goldberg rejected RFK Jr.&apos;s rhetoric about healthy policy and addressing obesity. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/whoopi-accuses-rfk-jr-fat-shaming-gets-shredded-outnumbered-how-stupid-do-you-have-be)
 
 ### [Trey Yingst enters abandoned Syrian detention site in search for missing American journalist Austin Tice](https://www.foxnews.com/media/trey-yingst-enters-abandoned-syrian-detention-site-search-missing-american-journalist-austin-tice)
 
@@ -793,28 +797,24 @@ Are EGGS bad for your heart? Surgeon answers](https://www.foxnews.com/video/6365
 
    [![Parents Defending Education founder Nicole Neily responds to PDE&apos;s report that the Biden administration spent over $1 billion on DEI initiatives in America&apos;s schools from 2021 to present. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/parents-defending-education-founder-calls-biden-admins-spending-spree-dei-schools-slap-face)
 
-### [Teen deepfake pornography victim warns future generation is 'at risk' if AI crime bill fails](https://www.foxnews.com/media/teen-deepfake-porn-victim-warns-future-generation-risk-ai-crime-bill-passed-protect-people)
-
-   [![Texas teen Ellison Berry speaks on the Take It Down Act, which would require social media companies to restrict deepfake porn on their platforms. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/teen-deepfake-porn-victim-warns-future-generation-risk-ai-crime-bill-passed-protect-people)
-
 [Elections](https://www.foxnews.com/elections)
 ----------------------------------------------
 
-     [![Trump posts 'how it's going' message contrasting Time Person of the Year cover with mugshot - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trump-posts-how-its-going-message-contrasting-time-person-year-cover-mug-shot)
+     [![JESSE WATTERS: This is the most real American Cabinet the country has ever seen - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/jesse-watters-most-real-american-cabinet-country-has-ever-seen)
+
+### [JESSE WATTERS: This is the most real American Cabinet the country has ever seen](https://www.foxnews.com/media/jesse-watters-most-real-american-cabinet-country-has-ever-seen)
+
+### [SEAN HANNITY: Biden is 'solely focused on sabotaging' incoming Trump admin in final weeks in office](https://www.foxnews.com/media/sean-hannity-biden-solely-focused-sabotaging-incoming-trump-admin-final-weeks-office)
+
+   [![Fox News host Sean Hannity tears into President Biden&rsquo;s agenda during his final weeks in office on Hannity. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/sean-hannity-biden-solely-focused-sabotaging-incoming-trump-admin-final-weeks-office)
 
 ### [Trump posts 'how it's going' message contrasting Time Person of the Year cover with mugshot](https://www.foxnews.com/politics/trump-posts-how-its-going-message-contrasting-time-person-year-cover-mug-shot)
+
+   [![Trump posts &apos;how it&apos;s going&apos; message contrasting Time Person of the Year cover with mugshot - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/trump-posts-how-its-going-message-contrasting-time-person-year-cover-mug-shot)
 
 ### [Senior Trump official reveals visit that set ‘trajectory’ for election victory](https://www.foxnews.com/politics/senior-trump-official-reveals-visit-set-trajectory-election-victory)
 
    [![Steven Cheung (inset) and Donald Trump. (Getty) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/senior-trump-official-reveals-visit-set-trajectory-election-victory)
-
-### [DC food workers pledge to make Trump officials unwelcome, echoing confrontations in first term](https://www.foxnews.com/politics/dc-food-workers-pledge-make-trump-officials-unwelcome-echoing-confrontations-first-term)
-
-   [![DC food workers pledge to make Trump officials unwelcome, echoing confrontations in first term - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/dc-food-workers-pledge-make-trump-officials-unwelcome-echoing-confrontations-first-term)
-
-### [Russia batters Ukraine power grid amid rising concern Putin could order ballistic missile attack this weekend](https://www.foxnews.com/world/russia-batters-ukraine-power-grid-rising-concern-putin-order-ballistic-missile-attack-weekend)
-
-   [![CHERNIHIV OBLAST, UKRAINE - DECEMBER 12: Ukrainian soldiers with assault rifles during training to counter Russian saboteur groups on December 12, 2024 in Chernihiv Oblast, Ukraine. On Ukraine&apos;s northern borders, the military is improving a set of measures to counter Russian sabotage and reconnaissance groups. They are expanding the network of observation posts, conducting 24-hour reconnaissance, and working out additional tactical scenarios. (Photo by Maksym Kishka/Suspilne Ukraine/JSC &quot;UA:PBC&quot;/Global Images Ukraine via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/russia-batters-ukraine-power-grid-rising-concern-putin-order-ballistic-missile-attack-weekend)
 
 [Personal Freedoms](https://www.foxnews.com/category/us/personal-freedoms)
 --------------------------------------------------------------------------
@@ -895,21 +895,21 @@ Are EGGS bad for your heart? Surgeon answers](https://www.foxnews.com/video/6365
 [Crime](https://www.foxnews.com/category/us/crime)
 --------------------------------------------------
 
-     [![Texas father who 'loved with all his heart' shot, killed driving home from work - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/texas-father-who-loved-all-his-heart-shot-killed-driving-home-from-work)
+     [![American couple killed in Mexico, found shot in pickup truck: officials - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/american-couple-killed-mexico-found-shot-pickup-truck-officials)
 
-### [Texas father who 'loved with all his heart' shot, killed driving home from work](https://www.foxnews.com/us/texas-father-who-loved-all-his-heart-shot-killed-driving-home-from-work)
+### [American couple killed in Mexico, found shot in pickup truck: officials](https://www.foxnews.com/us/american-couple-killed-mexico-found-shot-pickup-truck-officials)
 
-### [Woman arrested for attempting to smuggle 22 pounds of meth wrapped as Christmas gifts in carry-on bag](https://www.foxnews.com/world/woman-arrested-attempting-smuggle-22-pounds-meth-wrapped-christmas-gifts-carry-on-bag)
+### [Texas police arrest 9 suspects allegedly involved in 4 cases near suburban mall in shoplifting blitz operation](https://www.foxnews.com/us/texas-police-arrest-9-suspects-involved-4-cases-near-suburban-mall-shoplifting-blitz-operation)
 
-   [![A Canadian woman was arrested and is facing drug importation and possession charges after she allegedly attempted to smuggle pounds of methamphetamine wrapped as Christmas presents in her carry-on bag. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/woman-arrested-attempting-smuggle-22-pounds-meth-wrapped-christmas-gifts-carry-on-bag)
+   [![Texas police arrest 9 suspects allegedly involved in 4 cases near suburban mall in shoplifting blitz operation - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/texas-police-arrest-9-suspects-involved-4-cases-near-suburban-mall-shoplifting-blitz-operation)
 
-### [Will Smith denies participating in Sean 'Diddy' Combs' alleged 'freak offs,' says any speculation is a 'lie'](https://www.foxnews.com/entertainment/smith-denies-participating-sean-diddy-combs-alleged-freak-offs-says-any-speculation-lie)
+### [Jay-Z's sexual assault accuser speaks out, admits to making 'some mistakes' in lawsuit of alleged rape](https://www.foxnews.com/entertainment/jay-zs-sexual-assault-accuser-speaks-out-admits-making-some-mistakes-lawsuit-alleged-rape)
 
-   [![Will Smith, Sean &apos;Diddy&apos; Combs - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/smith-denies-participating-sean-diddy-combs-alleged-freak-offs-says-any-speculation-lie)
+   [![Jay-Z attends the Los Angeles premiere of Sony Pictures &quot;The Book Of Clarence&quot; at Academy Museum of Motion Pictures on January 05, 2024 in Los Angeles, California. (Photo by Monica Schipper/WireImage) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/jay-zs-sexual-assault-accuser-speaks-out-admits-making-some-mistakes-lawsuit-alleged-rape)
 
-### [Tip to San Fran police helped FBI identify UnitedHealth CEO suspect, Luigi Mangione: source](https://www.foxnews.com/us/tip-san-fran-police-helped-fbi-identify-unitedhealth-ceo-suspect-luigi-mangione-source)
+### [UnitedHealthcare CEO shooting suspect fled New York via train, not by bus as originally thought: reports](https://www.foxnews.com/us/unitedhealthcare-ceo-shooting-suspect-fled-new-york-via-train-not-bus-originally-thought-reports)
 
-   [![Luigi Mangione and Brian Thompson - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/tip-san-fran-police-helped-fbi-identify-unitedhealth-ceo-suspect-luigi-mangione-source)
+   [![Luigi Mangione shouts while officers restrain him as he arrives for his extradition hearing at Blair County Courthouse in  Hollidaysburg, Pennsylvania on Tuesday, December 10, 2024. Mangione is the prime suspect in the shooting death of United Healthcare CEO Brian Thompson last week. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/unitedhealthcare-ceo-shooting-suspect-fled-new-york-via-train-not-bus-originally-thought-reports)
 
 [America Together](https://www.foxnews.com/category/us/personal-freedoms/america-together)
 ------------------------------------------------------------------------------------------
@@ -952,28 +952,32 @@ Are EGGS bad for your heart? Surgeon answers](https://www.foxnews.com/video/6365
 [Entertainment](https://www.foxnews.com/entertainment)
 ------------------------------------------------------
 
-     [![Will Smith denies participating in Sean 'Diddy' Combs' alleged 'freak offs,' says any speculation is a 'lie' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/smith-denies-participating-sean-diddy-combs-alleged-freak-offs-says-any-speculation-lie)
+     [![Jay-Z's sexual assault accuser speaks out, admits to making 'some mistakes' in lawsuit of alleged rape - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/jay-zs-sexual-assault-accuser-speaks-out-admits-making-some-mistakes-lawsuit-alleged-rape)
+
+### [Jay-Z's sexual assault accuser speaks out, admits to making 'some mistakes' in lawsuit of alleged rape](https://www.foxnews.com/entertainment/jay-zs-sexual-assault-accuser-speaks-out-admits-making-some-mistakes-lawsuit-alleged-rape)
+
+### [Valerie Bertinelli is 'proud' of her body after '64 years of gravity'](https://www.foxnews.com/entertainment/valerie-bertinelli-proud-her-body-after-64-years-gravity)
+
+   [![UNIVERSAL CITY, CA - FEBRUARY 06:  Actress/cook Valerie Bertinelli visits Hallmarks &quot;Home &amp;amp; Family&quot; at Universal Studios Hollywood on February 6, 2018 in Universal City, California.  (Photo by David Livingston/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/valerie-bertinelli-proud-her-body-after-64-years-gravity)
 
 ### [Will Smith denies participating in Sean 'Diddy' Combs' alleged 'freak offs,' says any speculation is a 'lie'](https://www.foxnews.com/entertainment/smith-denies-participating-sean-diddy-combs-alleged-freak-offs-says-any-speculation-lie)
+
+   [![Will Smith, Sean &apos;Diddy&apos; Combs - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/smith-denies-participating-sean-diddy-combs-alleged-freak-offs-says-any-speculation-lie)
 
 ### [Malibu fires drove Jane Seymour from her home with barely more than the clothes on her back](https://www.foxnews.com/entertainment/malibu-fires-drove-jane-seymour-out-her-home-barely-more-than-clothes-her-back)
 
    [![British actress Jane Seymour poses in the press room of the 52nd International Emmy Awards at the New York Hilton on November 25, 2024, in New York City. (Photo by CHARLY TRIBALLEAU / AFP) (Photo by CHARLY TRIBALLEAU/AFP via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/malibu-fires-drove-jane-seymour-out-her-home-barely-more-than-clothes-her-back)
 
-### [U2 drummer's rare diagnosis leaves him 'pained' during performances](https://www.foxnews.com/entertainment/u2-drummers-rare-diagnosis-pained-during-performances)
-
-   [![SEOUL, SOUTH KOREA - DECEMBER 08: (L-R) The Edge, Larry Mullen Jr. and Bono of U2 perform on stage during &apos;U2 The Joshua Tree Tour 2019&apos; at the Gocheok Sky Dome on December 08, 2019 in Seoul, South Korea. (Photo by Han Myung-Gu/WireImage) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/u2-drummers-rare-diagnosis-pained-during-performances)
-
-### [Elton John calls marijuana legalization 'one of the greatest mistakes of all time' after addiction struggles](https://www.foxnews.com/entertainment/elton-john-calls-marijuana-legalization-one-greatest-mistakes-all-time-after-addiction-struggles)
-
-   [![LOS ANGELES, CALIFORNIA - OCTOBER 22: Elton John performs onstage during MFEI Spirit Of Life honoring Jay Marciano at Shrine Auditorium and Expo Hall on October 22, 2024 in Los Angeles, California.  (Photo by Lester Cohen/Getty Images for City of Hope) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/elton-john-calls-marijuana-legalization-one-greatest-mistakes-all-time-after-addiction-struggles)
-
 [Sports](https://www.foxnews.com/sports)
 ----------------------------------------
 
-     [![2025 MLB free-agent signing tracker, trades: Cubs acquire Kyle Tucker - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/2025-mlb-free-agent-signing-tracker-trades)
+     [![NFL legend Joe Theismann gives free cars to service members for Army-Navy game - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/nfl-legend-joe-theismann-gives-free-cars-service-members-army-navy-game)
+
+### [NFL legend Joe Theismann gives free cars to service members for Army-Navy game](https://www.foxnews.com/sports/nfl-legend-joe-theismann-gives-free-cars-service-members-army-navy-game)
 
 ### [2025 MLB free-agent signing tracker, trades: Cubs acquire Kyle Tucker](https://www.foxnews.com/sports/2025-mlb-free-agent-signing-tracker-trades)
+
+   [![2025 MLB free-agent signing tracker, trades: Cubs acquire Kyle Tucker - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/2025-mlb-free-agent-signing-tracker-trades)
 
 ### [Taylor Swift will only get $10 birthday present from Travis Kelce's dad](https://www.foxnews.com/sports/taylor-swift-only-get-10-birthday-present-travis-kelces-dad)
 
@@ -983,28 +987,24 @@ Are EGGS bad for your heart? Surgeon answers](https://www.foxnews.com/video/6365
 
    [![ESPN commentator and NFL Hall of Fame member Randy Moss on the sidelines before a game between the Buffalo Bills and  New England Patriots at Highmark Stadium. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/nfl-legend-randy-moss-says-he-has-cancer)
 
-### [Boise State RB Ashton Jeanty's historic 2024 season by the numbers](https://www.foxnews.com/sports/boise-state-rb-ashton-jeantys-historic-2024-season-numbers)
-
-   [![Boise State RB Ashton Jeanty&apos;s historic 2024 season by the numbers - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/boise-state-rb-ashton-jeantys-historic-2024-season-numbers)
-
 [U.S.](https://www.foxnews.com/us)
 ----------------------------------
 
-     [![Texas father who 'loved with all his heart' shot, killed driving home from work - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/texas-father-who-loved-all-his-heart-shot-killed-driving-home-from-work)
+     [![American couple killed in Mexico, found shot in pickup truck: officials - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/american-couple-killed-mexico-found-shot-pickup-truck-officials)
+
+### [American couple killed in Mexico, found shot in pickup truck: officials](https://www.foxnews.com/us/american-couple-killed-mexico-found-shot-pickup-truck-officials)
+
+### [Texas police arrest 9 suspects allegedly involved in 4 cases near suburban mall in shoplifting blitz operation](https://www.foxnews.com/us/texas-police-arrest-9-suspects-involved-4-cases-near-suburban-mall-shoplifting-blitz-operation)
+
+   [![Texas police arrest 9 suspects allegedly involved in 4 cases near suburban mall in shoplifting blitz operation - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/texas-police-arrest-9-suspects-involved-4-cases-near-suburban-mall-shoplifting-blitz-operation)
+
+### [UnitedHealthcare CEO shooting suspect fled New York via train, not by bus as originally thought: reports](https://www.foxnews.com/us/unitedhealthcare-ceo-shooting-suspect-fled-new-york-via-train-not-bus-originally-thought-reports)
+
+   [![Luigi Mangione shouts while officers restrain him as he arrives for his extradition hearing at Blair County Courthouse in  Hollidaysburg, Pennsylvania on Tuesday, December 10, 2024. Mangione is the prime suspect in the shooting death of United Healthcare CEO Brian Thompson last week. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/unitedhealthcare-ceo-shooting-suspect-fled-new-york-via-train-not-bus-originally-thought-reports)
 
 ### [Texas father who 'loved with all his heart' shot, killed driving home from work](https://www.foxnews.com/us/texas-father-who-loved-all-his-heart-shot-killed-driving-home-from-work)
 
-### [Tip to San Fran police helped FBI identify UnitedHealth CEO suspect, Luigi Mangione: source](https://www.foxnews.com/us/tip-san-fran-police-helped-fbi-identify-unitedhealth-ceo-suspect-luigi-mangione-source)
-
-   [![Luigi Mangione and Brian Thompson - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/tip-san-fran-police-helped-fbi-identify-unitedhealth-ceo-suspect-luigi-mangione-source)
-
-### [UnitedHealthcare CEO murder suspect Luigi Mangione's grandma left millions to family — excluding felons](https://www.foxnews.com/us/unitedhealthcare-ceo-murder-suspect-luigi-mangione-grandma-left-millions-family-excluding-felons)
-
-   [![Luigi Mangione&apos;s grandmother left a fortune to her children and grandchildren so as long as they were not charged or convicted of felonies. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/unitedhealthcare-ceo-murder-suspect-luigi-mangione-grandma-left-millions-family-excluding-felons)
-
-### [Fox News True Crime Newsletter: UnitedHealth CEO arrest, Murdaugh appeal, serial killer secrets](https://www.foxnews.com/us/fox-news-true-crime-newsletter-unitedhealth-ceo-arrest-murdaugh-appeal-serial-killer-secrets)
-
-   [![Luigi Mangione shouts while officers restrain him as he arrives for his extradition hearing at Blair County Courthouse in  Hollidaysburg, Pennsylvania on Tuesday, December 10, 2024. Mangione is the prime suspect in the shooting death of United Healthcare CEO Brian Thompson last week. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/fox-news-true-crime-newsletter-unitedhealth-ceo-arrest-murdaugh-appeal-serial-killer-secrets)
+   [![Texas father who &apos;loved with all his heart&apos; shot, killed driving home from work - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/texas-father-who-loved-all-his-heart-shot-killed-driving-home-from-work)
 
 [Family](https://www.foxnews.com/family)
 ----------------------------------------
@@ -1085,9 +1085,13 @@ Are EGGS bad for your heart? Surgeon answers](https://www.foxnews.com/video/6365
 [Business](https://www.foxbusiness.com/)
 ----------------------------------------
 
-     [![Apple's Tim Cook latest tech leader expected to meet with Trump ahead of his second term: report - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/politics/apples-tim-cook-latest-tech-leader-expected-meet-trump-second-term)
+     [![Trump backs dockworkers' union in port automation dispute, transition team set to meet with USMX - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/politics/trump-backs-dockworkers-union-port-automation-dispute-transition-team-set-meet-usmx)
+
+### [Trump backs dockworkers' union in port automation dispute, transition team set to meet with USMX](https://www.foxbusiness.com/politics/trump-backs-dockworkers-union-port-automation-dispute-transition-team-set-meet-usmx)
 
 ### [Apple's Tim Cook latest tech leader expected to meet with Trump ahead of his second term: report](https://www.foxbusiness.com/politics/apples-tim-cook-latest-tech-leader-expected-meet-trump-second-term)
+
+   [![US President Donald Trump (L) and Apple CEO Tim Cook tour the Flextronics computer manufacturing facility where Apple&apos;s Mac Pros are assembled in Austin, Texas, on November 20, 2019. (Photo by MANDEL NGAN / AFP) (Photo by MANDEL NGAN/AFP via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/politics/apples-tim-cook-latest-tech-leader-expected-meet-trump-second-term)
 
 ### [Alleged UnitedHealthcare CEO killer nabbed, Trump at NYSE and inflation still here](https://www.foxbusiness.com/markets/unitedhealthcare-ceo-killer-nabbed-trump-nyse-inflation-still-here)
 
@@ -1096,10 +1100,6 @@ Are EGGS bad for your heart? Surgeon answers](https://www.foxnews.com/video/6365
 ### [LARRY KUDLOW: President Trump can't afford to lose the stock market zeitgeist](https://www.foxbusiness.com/media/larry-kudlow-president-trump-cant-afford-lose-stock-market-zeitgeist)
 
    [![ - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/media/larry-kudlow-president-trump-cant-afford-lose-stock-market-zeitgeist)
-
-### [OpenAI hits back at Elon Musk lawsuit, says he suggested for-profit entity](https://www.foxbusiness.com/technology/openai-hits-back-elon-musk-lawsuit-says-he-suggested-for-profit-entity)
-
-   [![Tesla CEO Elon Musk gestures as he speaks with Michael Milken at the 27th annual Milken Institute Global Conference at the Beverly Hilton in Los Angeles on May 6, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/technology/openai-hits-back-elon-musk-lawsuit-says-he-suggested-for-profit-entity)
 
 [Faith & Values](https://www.foxnews.com/faith-values)
 ------------------------------------------------------
@@ -1142,9 +1142,13 @@ Are EGGS bad for your heart? Surgeon answers](https://www.foxnews.com/video/6365
 [Travel + Outdoors](https://www.foxnews.com/travel)
 ---------------------------------------------------
 
-     [![Woman arrested for attempting to smuggle 22 pounds of meth wrapped as Christmas gifts in carry-on bag - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/woman-arrested-attempting-smuggle-22-pounds-meth-wrapped-christmas-gifts-carry-on-bag)
+     [![American couple killed in Mexico, found shot in pickup truck: officials - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/american-couple-killed-mexico-found-shot-pickup-truck-officials)
+
+### [American couple killed in Mexico, found shot in pickup truck: officials](https://www.foxnews.com/us/american-couple-killed-mexico-found-shot-pickup-truck-officials)
 
 ### [Woman arrested for attempting to smuggle 22 pounds of meth wrapped as Christmas gifts in carry-on bag](https://www.foxnews.com/world/woman-arrested-attempting-smuggle-22-pounds-meth-wrapped-christmas-gifts-carry-on-bag)
+
+   [![A Canadian woman was arrested and is facing drug importation and possession charges after she allegedly attempted to smuggle pounds of methamphetamine wrapped as Christmas presents in her carry-on bag. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/woman-arrested-attempting-smuggle-22-pounds-meth-wrapped-christmas-gifts-carry-on-bag)
 
 ### [Major airline brings Magnolia Bakery's viral banana pudding to passengers on select flights](https://www.foxnews.com/travel/major-airline-brings-magnolia-bakerys-viral-banana-pudding-passengers-select-flights)
 
@@ -1153,10 +1157,6 @@ Are EGGS bad for your heart? Surgeon answers](https://www.foxnews.com/video/6365
 ### [Flight passenger warns travelers to 'always screenshot your boarding pass': Here's why](https://www.foxnews.com/travel/flight-passenger-warns-travelers-always-screenshot-your-boarding-pass-heres-why)
 
    [![flight boarding pass - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/travel/flight-passenger-warns-travelers-always-screenshot-your-boarding-pass-heres-why)
-
-### [8 unique gift ideas for the frequent traveler](https://www.foxnews.com/lifestyle/gift-ideas-frequent-traveler)
-
-   [![You won&apos;t disappoint with these gifts for travel lovers. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/gift-ideas-frequent-traveler)
 
 [Music](https://www.foxnews.com/category/entertainment/music)
 -------------------------------------------------------------
@@ -1199,9 +1199,9 @@ Are EGGS bad for your heart? Surgeon answers](https://www.foxnews.com/video/6365
 [FOX Weather](https://www.foxweather.com/)
 ------------------------------------------
 
-     [![Ice Storm Warning issued in Iowa as Midwest braces for 'treacherous' travel conditions - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/weather-news/ice-midwest-treacherous-travel-conditions)
+     [![Ice causes travel nightmare in parts of Plains, Midwest - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxweather.com/weather-news/ice-midwest-treacherous-travel-conditions)
 
-### [Ice Storm Warning issued in Iowa as Midwest braces for 'treacherous' travel conditions](https://www.foxweather.com/weather-news/ice-midwest-treacherous-travel-conditions)
+### [Ice causes travel nightmare in parts of Plains, Midwest](https://www.foxweather.com/weather-news/ice-midwest-treacherous-travel-conditions)
 
 ### [Feet of lake-effect snow pile up across Great Lakes as dangerous whiteout snarl travel](https://www.foxweather.com/weather-news/lake-effect-snowstorm-great-lakes-new-york-pennsylvania-michigan)
 
@@ -1218,9 +1218,13 @@ Are EGGS bad for your heart? Surgeon answers](https://www.foxnews.com/video/6365
 [Full Episodes](https://www.foxnews.com/video/topics/latest-news-video)
 -----------------------------------------------------------------------
 
-      [![The Story w/ Martha MacCallum - Friday, December 13 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365972946112)
+      [![Special Report w/ Bret Baier - Friday, December 13 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365974174112)
+
+### [Special Report w/ Bret Baier - Friday, December 13](https://www.foxnews.com/video/6365974174112)
 
 ### [The Story w/ Martha MacCallum - Friday, December 13](https://www.foxnews.com/video/6365972946112)
+
+    [![The Story w/ Martha MacCallum - Friday, December 13 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365972946112)
 
 ### [Outnumbered - Friday, December 13](https://www.foxnews.com/video/6365963270112)
 
@@ -1229,10 +1233,6 @@ Are EGGS bad for your heart? Surgeon answers](https://www.foxnews.com/video/6365
 ### [Hannity - Thursday, December 12](https://www.foxnews.com/video/6365948197112)
 
     [![Hannity - Thursday, December 12 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365948197112)
-
-### [Jesse Watters Primetime - Thursday, December 12](https://www.foxnews.com/video/6365947232112)
-
-    [![Jesse Watters Primetime - Thursday, December 12 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6365947232112)
 
 [Latest Wires](https://www.foxnews.com/category/topic/associated-press)
 -----------------------------------------------------------------------
@@ -1256,21 +1256,21 @@ Are EGGS bad for your heart? Surgeon answers](https://www.foxnews.com/video/6365
 [Media](https://www.foxnews.com/media)
 --------------------------------------
 
-     [![Social media erupts as kids correct Jill Biden's 'Happy Holidays' with 'Happy Christmas:' 'Epic response' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/social-media-erupts-kids-correct-jill-bidens-happy-holidays-happy-christmas-epic-response)
+     [![JESSE WATTERS: This is the most real American Cabinet the country has ever seen - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/jesse-watters-most-real-american-cabinet-country-has-ever-seen)
+
+### [JESSE WATTERS: This is the most real American Cabinet the country has ever seen](https://www.foxnews.com/media/jesse-watters-most-real-american-cabinet-country-has-ever-seen)
+
+### [SEAN HANNITY: Biden is 'solely focused on sabotaging' incoming Trump admin in final weeks in office](https://www.foxnews.com/media/sean-hannity-biden-solely-focused-sabotaging-incoming-trump-admin-final-weeks-office)
+
+   [![Fox News host Sean Hannity tears into President Biden&rsquo;s agenda during his final weeks in office on Hannity. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/sean-hannity-biden-solely-focused-sabotaging-incoming-trump-admin-final-weeks-office)
+
+### [Local Virginia teachers no longer forced to use students' preferred pronouns after settlement](https://www.foxnews.com/media/local-virginia-teachers-no-longer-forced-use-students-preferred-pronouns-after-settlement)
+
+   [![A notebook and pencil on a desk in a school classroom - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/local-virginia-teachers-no-longer-forced-use-students-preferred-pronouns-after-settlement)
 
 ### [Social media erupts as kids correct Jill Biden's 'Happy Holidays' with 'Happy Christmas:' 'Epic response'](https://www.foxnews.com/media/social-media-erupts-kids-correct-jill-bidens-happy-holidays-happy-christmas-epic-response)
 
-### [John Kirby grilled on mysterious New Jersey drone sightings: 'Why don't we know?'](https://www.foxnews.com/media/john-kirby-grilled-mysterious-new-jersey-drone-sightings-why-dont-we-know)
-
-   [![John Kirby grilled on mysterious New Jersey drone sightings: &apos;Why don&apos;t we know?&apos; - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/john-kirby-grilled-mysterious-new-jersey-drone-sightings-why-dont-we-know)
-
-### [Whoopi accuses RFK, Jr. of fat shaming, gets shredded on 'Outnumbered': 'How stupid do you have to be?'](https://www.foxnews.com/media/whoopi-accuses-rfk-jr-fat-shaming-gets-shredded-outnumbered-how-stupid-do-you-have-be)
-
-   [![&quot;The View&quot; co-host Whoopi Goldberg rejected RFK Jr.&apos;s rhetoric about healthy policy and addressing obesity. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/whoopi-accuses-rfk-jr-fat-shaming-gets-shredded-outnumbered-how-stupid-do-you-have-be)
-
-### [Politico writer has Bluesky account briefly suspended, receives graphic insults for post about Musk](https://www.foxnews.com/media/politico-writer-has-bluesky-account-briefly-suspended-receives-graphic-insults-post-about-musk)
-
-   [![This illustration photograph taken on November 12, 2024, shows the logo of social media platform Bluesky displayed on a mobile telephone and tablet, in Paris. The bluesky social network has soared to one of the top positions in social network downloads in app stores in the past week since the US election. The company reported a recent gain of 700,000 new users joining the social media platform, an alternative to X (formerly known as Twitter). (Photo by Ian LANGSDON / AFP) (Photo by IAN LANGSDON/AFP via Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/politico-writer-has-bluesky-account-briefly-suspended-receives-graphic-insults-post-about-musk)
+   [![First lady Jill Biden spoke to the children of military families at the Toys for Tots event. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/social-media-erupts-kids-correct-jill-bidens-happy-holidays-happy-christmas-epic-response)
 
 [Antisemitism Exposed](https://www.foxnews.com/category/topic/anti-semitism)
 ----------------------------------------------------------------------------
