@@ -490,7 +490,7 @@ For information about child-related data processed by Mattel, please read our [
 **Additional Details about our Data Practices Disclosed in the Table Above**
 ----------------------------------------------------------------------------
 
-**How We Use Your Data & Categories of Use.** In the table above, we have provided a list of different types of data (the first column) and associate them with a description of ways we might use that data (the bulleted items in the second column). Some Privacy laws require that we more fully disclose these uses by sorting them into categories. In the chart above, the Category of Use is always associated with a number. This section provides further explanation and information about each Category of Use.
+**How We Use Your Data & Categories of Use.** In the table above, we have provided a list of different types of data (the first column) and associate them with a description of ways we might use that data (the bulleted items in the second column). Some Privacy laws require that we more fully disclose these uses by sorting them into categories. This section provides further explanation and information about each Category of Use.
 
 1. **To Provide You the Services**: including to send content you ask for or respond to your support and provide customer service or request feedback from you, to send products you buy from us and otherwise process and fulfill your transactions, to enable you to use the Services and other products and services we offer, including to sign you up for accounts, maintain your account information, and to facilitate your participation in contests or sweepstakes or promotions. 
 2. **Advertising Activities and Marketing Messages**: including to customize and optimize content for you, such as recommendations, promotions, and advertisements we display through the Services and elsewhere online; to send you marketing communications if you have provided us your email address, as permitted by applicable law.
@@ -578,11 +578,11 @@ These third-parties may set and access their own tracking technologies on your d
 3. We Know You Across All of Your Devices. Linking together your computers, tablets, and phones allows you to log into your account from all your devices or pick up where you left off in a video or movie that you were viewing on a different device. For example, you might search for our entertainment content on your laptop, click on a Google search result link which we have sponsored, and then later be able to purchase that same product after seeing an ad on your mobile phone.
 4. We Match You Across all Accounts. We may share your email address with social media companies or use their technology on our websites so that we can communicate with you when you are on social media. We also do this matching to learn if you saw our ad on social media, and if you clicked on it, and then came to our website to buy something. This helps us know if we should continue to buy ads on social media.
 
-**Our Tools.** You can control how your personal information is used for interest-based advertising by visiting [_the Mattel Privacy Choice Portal_](https://submit-irm.trustarc.com/services/validation/3773efbf-1df1-4e6a-8d00-010aec40f536). You can also opt out of certain cookies by modifying your cookie settings. You can also go to [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/) to download the GPC web browser plugin that tells our website your privacy preferences for cookies. We will honor your privacy rights according to the GPC signal you set.
+**Our Tools.** You can control how your personal information is used for interest-based advertising by visiting the [_Mattel Privacy Choice Portal_](https://submit-irm.trustarc.com/services/validation/3773efbf-1df1-4e6a-8d00-010aec40f536). You can also opt out of certain cookies by modifying your cookie settings. You can also go to [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/) to download the GPC web browser plugin that tells our website your privacy preferences for cookies. We will honor your privacy rights according to the GPC signal you set.
 
 **NAI/DAA Opt-Out.** Some of the companies we use may be members of the Network Advertising Initiative (“NAI”) or Digital Advertising Alliance (“DAA”). The NAI provides information regarding targeted advertising and the [opt-out procedures of NAI members](https://optout.networkadvertising.org/), including opt-out mechanisms for web browsers, mobile and other connected devices, and a tool to opt out from participating NAI members using your hashed email address for interest-based advertising. You may also want to visit the [DAA's website](https://optout.aboutads.info/), which provides information regarding targeted advertising and offers an opt-out for DAA-participating companies. To learn more about interest-based advertisements from participating third parties in Canada, please visit the Canadian DAA online choice page at [https://youradchoices.ca/en/tools](https://youradchoices.ca/en/tools).
 
-**Google Analytics.** We use Google Analytics, which use cookies and similar technologies to collect and analyze information about the use of the Services and report on activities and trends. The Services may also collect information about the use of other websites, apps, and online services. You can [learn about Google's practices](https://policies.google.com/technologies/partner-sites), and opt out of them by downloading the [Google Analytics opt-out browser add-on.](https://tools.google.com/dlpage/gaoptout)
+**Google Analytics.** We use Google Analytics, which use cookies and similar technologies to collect and analyze information about the use of the Services and report on activities and trends. The Services may also collect information about the use of other websites, apps, and online services. You can [learn about Google's practices](https://policies.google.com/technologies/partner-sites), and opt out of them by downloading the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout).
 
 **Effect of Opt-Outs.** Please note that opting out through these mechanisms does not opt you out of being served advertising from Mattel. You will continue to see non-targeted advertisements from many companies, possibly even Mattel, while online. In other words, in the case you have expressed your opt-out by the above methods, some online ads will still appear, but these will not benefit from the information Mattel could have otherwise used that is specific to you or your browsing history. The same way a printed newspaper advertisement addresses a large number of readers generally and no one reader in particular, your advertisements after opt-out will be general in nature and are placed by Mattel to advertise to the general public. Your opt-out choices are also browser and device specific; if you disable your cookies or upgrade your browser after opting out, or if you use different computers or browsers, you will need to indicate your opt-out choices across those other computers and browsers.
 
@@ -744,6 +744,8 @@ Children should get a parent’s or legal guardian’s permission before giving 
 
 Mattel may update this Children’s Privacy Statement at any time and any changes will be effective upon posting. Where required by COPPA, we will obtain additional parental consent prior to using or disclosing Personal Information in a manner materially different from the purpose for which it was collected.
 
+  
+
 ![](https://cdn.builder.io/api/v1/pixel?apiKey=8be5a791274f462fa36ba4e5344b7513)
 
 **How We Protect Your Personal Information**
@@ -777,8 +779,6 @@ Mattel is a US-based company. Your personal information may be stored in other 
 --------------
 
 If you have any questions or complaints regarding this Privacy Statement, or our treatment of your personal data, you may contact [Mattel Global Consumer Support](https://consumersupport.mattel.com/mattelsupport/s/create-case). Please indicate which of our brands you have interacted with in the subject line.
-
-  
 
 ![](https://cdn.builder.io/api/v1/pixel?apiKey=8be5a791274f462fa36ba4e5344b7513)
 
@@ -1200,8 +1200,6 @@ Sale/Sharing for cross-contextual behavioral advertising:
   
 
 If you are a California consumer and you have questions about our practices with respect to sharing information with third parties for their direct marketing purposes and your ability to exercise choice, please go to the [_Mattel Privacy Choice Portal_](https://submit-irm.trustarc.com/services/validation/3773efbf-1df1-4e6a-8d00-010aec40f536). You must put the statement “Your California Privacy Rights” or contact us via this [form](https://consumersupport.mattel.com/mattelsupport/s/create-case). You must include your name, street address, city, state, and ZIP code. We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
-
-  
 
 ![](https://cdn.builder.io/api/v1/pixel?apiKey=8be5a791274f462fa36ba4e5344b7513)
 
@@ -1770,7 +1768,7 @@ We are committed to protecting the personal data of minors. That's why we alway
 
 Please be aware that not all the above rights may apply in all cases. If this happens, we will let you know why your request cannot be granted.
 
-You may exercise your privacy rights by sending an email to the Data Protection Officer of Mattel do Brasil, IW Advogados, represented by Tiago Camargo, at the following email address: dpo.mattelbrasil@iw.adv.br. We will return with a response to your request within a maximum period of 15. You may also contact the [ANPD](https://www.gov.br/anpd/pt-br)  regarding concerns related to  regarding concerns related to Mattel’s privacy and data protection practices.
+You may exercise your privacy rights by sending an email to the Data Protection Officer of Mattel do Brasil, IW Advogados, represented by Tiago Camargo, at the following email address: dpo.mattelbrasil@iw.adv.br. We will return with a response to your request within a maximum period of 15. You may also contact the [ANPD](https://www.gov.br/anpd/pt-br) regarding concerns related to regarding concerns related to Mattel’s privacy and data protection practices.
 
 **International Transfer**. When we transfer personal data subjected to the LGPD to outside Brazil, we make sure it is done properly. This may include using standard contractual clauses or following other ANPD guidelines on the subject.
 
