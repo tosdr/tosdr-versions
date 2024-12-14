@@ -208,7 +208,7 @@ Any action taken by DSP or its staff while enforcing these Community Guidelines 
 
 #### Was this article helpful?
 
-[12505](#) [5927](#)
+[12506](#) [5927](#)
 
 #### Related Questions:
 
