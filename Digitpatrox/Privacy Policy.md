@@ -20,16 +20,16 @@ Saturday, December 14 2024
 
 Latest
 
-* [OpenAI cofounder Ilya Sutskever predicts the end of AI pre-training](https://digitpatrox.com/openai-cofounder-ilya-sutskever-predicts-the-end-of-ai-pre-training/)
-* [Today’s NYT Connections Hints, Answers for December 14, 2024](https://digitpatrox.com/todays-nyt-connections-hints-answers-for-december-14-2024/)
-* [CirrusHQ names AWS’ Craig Ridsdill as new head of sales](https://digitpatrox.com/cirrushq-names-aws-craig-ridsdill-as-new-head-of-sales/)
-* [The Macy’s accounting disaster: CIOs, this could happen to you.](https://digitpatrox.com/the-macys-accounting-disaster-cios-this-could-happen-to-you/)
-* [This Portable Bose Bluetooth Speaker Is Down to Its Lowest Price](https://digitpatrox.com/this-portable-bose-bluetooth-speaker-is-down-to-its-lowest-price/)
-* [Govee Permanent Outdoor Lights Review](https://digitpatrox.com/govee-permanent-outdoor-lights-review/)
-* [This Is the Best Value MacBook Pro You Can Buy](https://digitpatrox.com/this-is-the-best-value-macbook-pro-you-can-buy/)
-* [6G: Pioneering a new era of innovation and business value](https://digitpatrox.com/6g-pioneering-a-new-era-of-innovation-and-business-value/)
-* [Which One is Right for Your Business?](https://digitpatrox.com/which-one-is-right-for-your-business/)
-* [Salute to Veterans Bowl livestream: How to watch South Alabama vs WMU college football game online from anywhere](https://digitpatrox.com/salute-to-veterans-bowl-livestream-how-to-watch-south-alabama-vs-wmu-college-football-game-online-from-anywhere/)
+* [FTC warns of online task job scams hooking victims like gambling](https://digitpatrox.com/ftc-warns-of-online-task-job-scams-hooking-victims-like-gambling/)
+* [Tim Cook is the latest tech CEO to meet with Trump at Mar-a-Lago](https://digitpatrox.com/tim-cook-is-the-latest-tech-ceo-to-meet-with-trump-at-mar-a-lago/)
+* [Today’s Wordle Hints, Answer for #1274 on December 14, 2024](https://digitpatrox.com/todays-wordle-hints-answer-for-1274-on-december-14-2024/)
+* [NotebookLM Plus is now available to Google Workspace customers – Computerworld](https://digitpatrox.com/notebooklm-plus-is-now-available-to-google-workspace-customers-computerworld/)
+* [All The Biggest Reveals From the 2024 Game Awards](https://digitpatrox.com/all-the-biggest-reveals-from-the-2024-game-awards/)
+* [Stanley Recalls 2.6 Million Travel Mugs Due to a Burn Hazard](https://digitpatrox.com/stanley-recalls-2-6-million-travel-mugs-due-to-a-burn-hazard/)
+* [6 Common Audio Myths, Debunked](https://digitpatrox.com/6-common-audio-myths-debunked/)
+* [Australian IT Pros Urged to Guard Against Chinese Cybersecurity Threats](https://digitpatrox.com/australian-it-pros-urged-to-guard-against-chinese-cybersecurity-threats/)
+* [3 new to Hulu movies with 89% or higher on Rotten Tomatoes](https://digitpatrox.com/3-new-to-hulu-movies-with-89-or-higher-on-rotten-tomatoes/)
+* [Citrix shares mitigations for ongoing Netscaler password spray attacks](https://digitpatrox.com/citrix-shares-mitigations-for-ongoing-netscaler-password-spray-attacks/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/SELuU01-YTH0RxoXeHlCS1Uupt4=/0x0:6000x4000/1200x628/filters:focal(3799x1547:3800x1548)/cdn.vox-cdn.com/uploads/chorus_asset/file/25789444/1258459915.jpg)](https://digitpatrox.com/openai-cofounder-ilya-sutskever-predicts-the-end-of-ai-pre-training/)
+* [![](https://www.bleepstatic.com/content/hl-images/2023/09/05/2.jpg)](https://digitpatrox.com/ftc-warns-of-online-task-job-scams-hooking-victims-like-gambling/)
     
-    [OpenAI cofounder Ilya Sutskever predicts the end of AI pre-training](https://digitpatrox.com/openai-cofounder-ilya-sutskever-predicts-the-end-of-ai-pre-training/)
+    [FTC warns of online task job scams hooking victims like gambling](https://digitpatrox.com/ftc-warns-of-online-task-job-scams-hooking-victims-like-gambling/)
     
-    15 minutes ago
+    57 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/NYT-Connections-Featured.webp?w=1250&quality=75)](https://digitpatrox.com/todays-nyt-connections-hints-answers-for-december-14-2024/)
+* [![](https://cdn.vox-cdn.com/thumbor/DM0L8ys_gIpl7dlhGmH-TGzHkI8=/0x0:3358x2239/1200x628/filters:focal(1679x1120:1680x1121)/cdn.vox-cdn.com/uploads/chorus_asset/file/25789406/1128958257.jpg)](https://digitpatrox.com/tim-cook-is-the-latest-tech-ceo-to-meet-with-trump-at-mar-a-lago/)
     
-    [Today’s NYT Connections Hints, Answers for December 14, 2024](https://digitpatrox.com/todays-nyt-connections-hints-answers-for-december-14-2024/)
+    [Tim Cook is the latest tech CEO to meet with Trump at Mar-a-Lago](https://digitpatrox.com/tim-cook-is-the-latest-tech-ceo-to-meet-with-trump-at-mar-a-lago/)
     
-    31 minutes ago
+    1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/PxVMHuF4FDTmhLcJJvGXDW-1200-80.jpg)](https://digitpatrox.com/cirrushq-names-aws-craig-ridsdill-as-new-head-of-sales/)
+* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-hints-answer-for-1274-on-december-14-2024/)
     
-    [CirrusHQ names AWS’ Craig Ridsdill as new head of sales](https://digitpatrox.com/cirrushq-names-aws-craig-ridsdill-as-new-head-of-sales/)
+    [Today’s Wordle Hints, Answer for #1274 on December 14, 2024](https://digitpatrox.com/todays-wordle-hints-answer-for-1274-on-december-14-2024/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3624481-0-08087900-1734125764-Macys_dep_store.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-macys-accounting-disaster-cios-this-could-happen-to-you/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3624473-0-62790200-1734113802-NotebookLM.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/notebooklm-plus-is-now-available-to-google-workspace-customers-computerworld/)
     
-    [The Macy’s accounting disaster: CIOs, this could happen to you.](https://digitpatrox.com/the-macys-accounting-disaster-cios-this-could-happen-to-you/)
-    
-    2 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JF0W3NX3RYJGEG19ASP1BYE2/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/this-portable-bose-bluetooth-speaker-is-down-to-its-lowest-price/)
-    
-    [This Portable Bose Bluetooth Speaker Is Down to Its Lowest Price](https://digitpatrox.com/this-portable-bose-bluetooth-speaker-is-down-to-its-lowest-price/)
+    [NotebookLM Plus is now available to Google Workspace customers – Computerworld](https://digitpatrox.com/notebooklm-plus-is-now-available-to-google-workspace-customers-computerworld/)
     
     3 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JF10GHRM2BQ4CKZP2S7GTDJQ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/all-the-biggest-reveals-from-the-2024-game-awards/)
+    
+    [All The Biggest Reveals From the 2024 Game Awards](https://digitpatrox.com/all-the-biggest-reveals-from-the-2024-game-awards/)
+    
+    4 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [15 minutes ago
+* [57 minutes ago
     
-    ### OpenAI cofounder Ilya Sutskever predicts the end of AI pre-training](https://digitpatrox.com/openai-cofounder-ilya-sutskever-predicts-the-end-of-ai-pre-training/)
-* [31 minutes ago
+    ### FTC warns of online task job scams hooking victims like gambling](https://digitpatrox.com/ftc-warns-of-online-task-job-scams-hooking-victims-like-gambling/)
+* [1 hour ago
     
-    ### Today’s NYT Connections Hints, Answers for December 14, 2024](https://digitpatrox.com/todays-nyt-connections-hints-answers-for-december-14-2024/)
-* [2 hours ago
+    ### Tim Cook is the latest tech CEO to meet with Trump at Mar-a-Lago](https://digitpatrox.com/tim-cook-is-the-latest-tech-ceo-to-meet-with-trump-at-mar-a-lago/)
+* [1 hour ago
     
-    ### CirrusHQ names AWS’ Craig Ridsdill as new head of sales](https://digitpatrox.com/cirrushq-names-aws-craig-ridsdill-as-new-head-of-sales/)
+    ### Today’s Wordle Hints, Answer for #1274 on December 14, 2024](https://digitpatrox.com/todays-wordle-hints-answer-for-1274-on-december-14-2024/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [September 7, 2024
     
-    ### The Best Tech Deals During Target’s Black Friday Sale (So Far)](https://digitpatrox.com/the-best-tech-deals-during-targets-black-friday-sale-so-far/)
-* [September 18, 2024
+    ### Here’s How I Work Online Efficiently Without a PC](https://digitpatrox.com/heres-how-i-work-online-efficiently-without-a-pc/)
+* [September 2, 2024
     
-    ### How Deep Should You Squat?](https://digitpatrox.com/how-deep-should-you-squat/)
-* [September 21, 2024
+    ### How to Change Minecart Speed in Minecraft](https://digitpatrox.com/how-to-change-minecart-speed-in-minecraft/)
+* [August 22, 2024
     
-    ### Closing the SMB security gap](https://digitpatrox.com/closing-the-smb-security-gap/)
+    ### British Library issues £400,000 tender as rebuild continues after 2023 cyber attack](https://digitpatrox.com/british-library-issues-400000-tender-as-rebuild-continues-after-2023-cyber-attack/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### This Is the Best Value MacBook Pro You Can Buy](https://digitpatrox.com/this-is-the-best-value-macbook-pro-you-can-buy/)
 * [4 hours ago
     
-    ### 6G: Pioneering a new era of innovation and business value](https://digitpatrox.com/6g-pioneering-a-new-era-of-innovation-and-business-value/)
-* [4 hours ago
+    ### 6 Common Audio Myths, Debunked](https://digitpatrox.com/6-common-audio-myths-debunked/)
+* [5 hours ago
     
-    ### Which One is Right for Your Business?](https://digitpatrox.com/which-one-is-right-for-your-business/)
+    ### Australian IT Pros Urged to Guard Against Chinese Cybersecurity Threats](https://digitpatrox.com/australian-it-pros-urged-to-guard-against-chinese-cybersecurity-threats/)
+* [5 hours ago
+    
+    ### 3 new to Hulu movies with 89% or higher on Rotten Tomatoes](https://digitpatrox.com/3-new-to-hulu-movies-with-89-or-higher-on-rotten-tomatoes/)
 
 Most Viewed Topics
 
 * [August 12, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 11, 2024
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
