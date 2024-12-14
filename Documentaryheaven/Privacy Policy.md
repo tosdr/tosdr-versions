@@ -123,44 +123,44 @@ Advertisement
     Suicide
     
     Released in 2001, Suicide is a film directed by Eames Yates and explores the suicide of his own brother which occurred two years prior to this films release. Eames' brother Teddy was 40 when he shot h...](https://documentaryheaven.com/suicide/ "Suicide")
-* [![Dispatches: The Killing Zone](/wp-content/thumbnails/481-100x70.png?x53432)
+* [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
     
-    Dispatches: The Killing Zone
+    The Fog of War
     
-    While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
-* [![The Hour Of Our Time: The Legacy of William Cooper](/wp-content/thumbnails/1157-100x70.jpg?x53432)
+    Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
+* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
     
-    The Hour Of Our Time: The Legacy of William Cooper
+    Objectified
     
-    Surrounding us in our day-to-day lives are mysteries, that to spend our days pondering would paralyze us from leading productive lives. So we turn away from these thoughts in order to seek out as trou...](https://documentaryheaven.com/the-hour-of-our-time-the-legacy-of-william-cooper/ "The Hour Of Our Time: The Legacy of William Cooper")
+    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 
 ###### Throwback Documentaries
 
-* [![Africa’s Cowboy Capitalists](/wp-content/thumbnails/7663-100x70.jpg?x53432)
+* [![Wasted: Armed With A Voice](/wp-content/thumbnails/6687-100x70.jpg?x53432)
     
-    Africa’s Cowboy Capitalists
+    Wasted: Armed With A Voice
     
-    For maverick entrepreneur Ian Cox, Africa is the last frontier of free enterprise. The former small-time hustler has been busting his ass on the continent for years, selling and moving merchandise. In](https://documentaryheaven.com/africas-cowboy-capitalists/ "Africa’s Cowboy Capitalists")
-* [![The Rise and Fall of Nokia](/wp-content/thumbnails/14084-100x70.jpg?x53432)
+    15 years of do-it-yourself punk rock and still on the map! Wasted have had their share of ups and downs during the course of countless tours and releases on labels such as Combat Rock Industry, Twiste](https://documentaryheaven.com/wasted-armed-with-a-voice/ "Wasted: Armed With A Voice")
+* [![Greatest World Cup Goals](/wp-content/thumbnails/8842-100x70.jpg?x53432)
     
-    The Rise and Fall of Nokia
+    Greatest World Cup Goals
     
-    Nokia is a Finnish multinational company, originally founded in 1865 as a pulp mill the company became famous for its rubber products. In the 1970's Nokia expanded its operations into mobile phones an](https://documentaryheaven.com/rise-fall-of-nokia/ "The Rise and Fall of Nokia")
-* [![The Memory Loss Tapes](/wp-content/thumbnails/6170-100x70.jpg?x53432)
+    Matt Smith counts down the 50 greatest World Cup goals ever scored. Will Diego Maradona's brilliant solo goal against England in 1986 get the vote as the best ever goal? Various journalists and pundit](https://documentaryheaven.com/greatest-world-cup-goals/ "Greatest World Cup Goals")
+* [![The Man Who Used HIV As a Weapon](/wp-content/thumbnails/14501-100x70.jpg?x53432)
     
-    The Memory Loss Tapes
+    The Man Who Used HIV As a Weapon
     
-    While there is hope for the future as science gains momentum, millions of people are currently affected by the painful and deadly consequences of Alzheimer’s. This verité documentary profiles seven pe](https://documentaryheaven.com/the-memory-loss-tapes/ "The Memory Loss Tapes")
-* [![100 Years of Silence](/wp-content/thumbnails/6415-100x70.jpg?x53432)
+    In 2018 Daryll Rowe hit the news headlines as the first person in the United Kingdom to be jailed for deliberately infecting men with HIV. It is an extraordinary case but at the time the media at](https://documentaryheaven.com/man-who-used-hiv-as-weapon/ "The Man Who Used HIV As a Weapon")
+* [![Disenfranchised in America](/wp-content/thumbnails/6599-100x70.jpg?x53432)
     
-    100 Years of Silence
+    Disenfranchised in America
     
-    One hundred years ago, the Herero people of Namibia were nearly exterminated by German colonial soldiers in what has become known as the first genocide of the 20th century.In the colonial pe](https://documentaryheaven.com/100-years-of-silence/ "100 Years of Silence")
-* [![Michael Collins](/wp-content/thumbnails/11435-100x70.png?x53432)
+    New legislation across the US could have a huge impact on the country’s 2012 presidential elections. Largely Republican politicians have passed a range of new voting laws that groups fear could disen](https://documentaryheaven.com/disenfranchised-in-america/ "Disenfranchised in America")
+* [![Hidden Killers of the Tudor Home](/wp-content/thumbnails/14604-100x70.jpg?x53432)
     
-    Michael Collins
+    Hidden Killers of the Tudor Home
     
-    This Easter marked the 100th anniversary of Ireland's 1916 Easter Rising. Michael Collins who was born in Clonakilty, Co. Cork on the 16th of October 1890 was a foot-soldier in this Rising and during](https://documentaryheaven.com/michael-collins/ "Michael Collins")
+    Nowadays we think of the Tudor home as an icon of Britishness, timber-framed and possibly thatched, a cottage even, it sounds wonderful but these quaint pretty relics of the past belie the revolution](https://documentaryheaven.com/hidden-killers-tudor-home/ "Hidden Killers of the Tudor Home")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
