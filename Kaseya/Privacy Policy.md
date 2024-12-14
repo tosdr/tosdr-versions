@@ -414,11 +414,11 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/12/Kaseya-365-USER-Test-Drive-K365-User-1200x800-px-300x200.jpg)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/12/VSA_Webinar-Take-Control-300x200.jpg)
     
-    Take a Spin and Get Under the Hood of Kaseya 365 User
+    Take Control: VSA’s Advanced Policy Management for IT Pros
     
-    December 13
+    December 17
     
     [View All Events](https://www.kaseya.com/events/)
     
