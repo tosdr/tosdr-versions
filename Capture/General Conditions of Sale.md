@@ -1,7 +1,5 @@
 [Skip to content](#MainContent)
 
-[❄️❄️ Give the gift of memories this holiday with a Time Capsule or eGift Card ❄️❄️](https://www.capture.com/pages/gift-ideas)
-
      
 
 * [Shop All](https://www.capture.com/collections/all)
