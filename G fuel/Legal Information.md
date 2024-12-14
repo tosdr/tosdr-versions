@@ -1,5 +1,5 @@
   
-Terms of service – G FUEL                                                                                                       
+Terms of service – G FUEL                                                                                                        
 
 [Skip to content](#MainContent)  
 
@@ -212,9 +212,9 @@ View more
 
 Pause slideshow Play slideshow
 
-[30% off Day Ones collectionShop Core Flavors](https://gfuel.com/collections/core-flavors)
+[order by 12/17 to receive before the holidays!Shop New Arrivals](https://gfuel.com/collections/new-arrivals)
 
-[Get Early Access 💥Download the Official G FUEL APP](https://gfuel.com/pages/mobile-app)
+[30% off Day Ones collectionShop Core Flavors](https://gfuel.com/collections/core-flavors)
 
 ![](https://cdn.shopify.com/s/files/1/0223/3113/files/check-cart.svg?v=1689600224) ITEM ADDED TO YOUR CART! [View Cart](https://gfuel.com/cart)
 
@@ -611,11 +611,17 @@ The statements contained in this website have not been evaluated by the Food and
 
 "Close (esc)"
 
+5.0
+
+Rated 5.0 out of 5 stars
+
+2 Reviews
+
 4.9
 
 Rated 4.9 out of 5 stars
 
-8 Reviews
+9 Reviews
 
 4.7
 
@@ -647,8 +653,8 @@ Rated 4.7 out of 5 stars
 
 12 Reviews
 
-4.6
+4.7
 
-Rated 4.6 out of 5 stars
+Rated 4.7 out of 5 stars
 
-5 Reviews
+6 Reviews
