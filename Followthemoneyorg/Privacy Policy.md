@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![PA Supreme Court Donors](/assets/logos/RaisedByPASCCan.png)](https://www.followthemoney.org/research/institute-research/high-court-contests-competition-controversy-and-cash-in-pennsylvania-and-wisconsin)
+[![Microsoft](/assets/logos/MicrosoftGivingGraph.png)](http://www.followthemoney.org/research/institute-research/forbes-magazines-richest-americans-influence-state-politics)
 
-Who gives to Pennsylvania’s supreme court candidates?
+Microsoft spread its state political giving pretty evenly, 2005-2008.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
