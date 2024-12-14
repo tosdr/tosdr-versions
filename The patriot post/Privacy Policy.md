@@ -1,6 +1,6 @@
-**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
+**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -126,14 +126,14 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Matthew Continetti Luigi Mangione: Touch of Evil](https://patriotpost.us/opinion/112819-luigi-mangione-touch-of-evil-2024-12-14)
+*      [Tony Perkins Embracing the Courage to Act](https://patriotpost.us/opinion/112818-embracing-the-courage-to-act-2024-12-14)
 *      [Michael Reagan The Upside-Down Mentality of the Left](https://patriotpost.us/opinion/112807-the-upside-down-mentality-of-the-left-2024-12-13)
 *      [Ken Blackwell Iran’s Surge of Political Death Sentences Demands Firm International Response](https://patriotpost.us/opinion/112806-irans-surge-of-political-death-sentences-demands-firm-international-response-2024-12-13)
 *      [Tim Graham Journalists Deserve All the Angst That Trump’s Win Brings](https://patriotpost.us/opinion/112805-journalists-deserve-all-the-angst-that-trumps-win-brings-2024-12-13)
 *      [Michael Barone Free Speech: Why a Tech Titan Backed Trump](https://patriotpost.us/opinion/112804-free-speech-why-a-tech-titan-backed-trump-2024-12-13)
 *      [Victor Davis Hanson The Evaporation of the Obama Mystique](https://patriotpost.us/opinion/112803-the-evaporation-of-the-obama-mystique-2024-12-13)
 *      [Josh Hammer How Not to Think About Syria](https://patriotpost.us/opinion/112802-how-not-to-think-about-syria-2024-12-13)
-*      [David Harsanyi It’s Time for a National Conversation About Left-Wing Violence](https://patriotpost.us/opinion/112801-its-time-for-a-national-conversation-about-left-wing-violence-2024-12-13)
-*      [Erick Erickson The Democrats’ Buts](https://patriotpost.us/opinion/112800-the-democrats-buts-2024-12-13)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,7 +147,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
