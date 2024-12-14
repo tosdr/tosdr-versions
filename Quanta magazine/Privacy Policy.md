@@ -297,17 +297,17 @@ _By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
 
 _By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
 
-[![Fish swimming with outlined brains and microbes within them](https://www.quantamagazine.org/wp-content/uploads/2024/12/FishBrainMicrobiome-cr.SamuelVelasco-Thumbnail.webp)](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
-
-[#### Fish Have a Brain Microbiome. Could Humans Have One Too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
-
-_By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplakoglu)
-
 [![](https://www.quantamagazine.org/wp-content/uploads/2024/12/Superconductor-Zoo_crMark-Belan-Thumbnail.webp)](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
 
 [#### Exotic New Superconductors Delight and Confound](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
 
 _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
+
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/12/EntropyDeepDive-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
+
+[#### What Is Entropy? A Measure of Just How Little We Really Know.](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
+
+_By_ [Zack Savitsky](https://www.quantamagazine.org/authors/zack-savitsky)
 
 The Quanta Newsletter
 
