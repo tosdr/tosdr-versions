@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| HighwayShaboozey<br><br>4:39am |
-| World On FireNate Smith<br><br>4:36am |
-| Country HouseSam Hunt<br><br>4:32am |
-| Miles On ItKane Brown Ft Marshmello<br><br>4:29am |
-| Love The LeavinDrew Parker<br><br>4:26am |
+| 4x4xuLainey Wilson<br><br>10:40am |
+| Heartache On The DancefloorJon Pardi<br><br>10:37am |
+| Thought You Should KnowMorgan Wallen<br><br>10:34am |
+| I Got A GuyPost Malone Ft Luke Combs<br><br>10:31am |
+| Pink SkiesZach Bryan<br><br>10:28am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -501,17 +501,17 @@ Featured Brands
 
 Top 40 • Pacific NW
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
-
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-Top 40 • Eastern
+Spanish • Western
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
