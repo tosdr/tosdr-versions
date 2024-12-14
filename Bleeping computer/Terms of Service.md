@@ -36,18 +36,18 @@
         
         Lynx ransomware behind Electrica energy supplier cyberattack](https://www.bleepingcomputer.com/news/security/lynx-ransomware-behind-electrica-energy-supplier-cyberattack/)
     
+    * [![Hackers steal 390,000 WordPress credentials from other hackers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Hackers steal 390,000 WordPress credentials from other hackers](https://www.bleepingcomputer.com/news/security/hackers-steal-390-000-wordpress-credentials-from-other-hackers/)
+    * [![Boost your career with this $39.99 Azure course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Boost your career with this $39.99 Azure course bundle deal](https://www.bleepingcomputer.com/offer/deals/boost-your-career-with-this-3999-azure-course-bundle-deal/)
     * [![Auto parts giant LKQ says cyberattack disrupted Canadian business unit](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Auto parts giant LKQ says cyberattack disrupted Canadian business unit](https://www.bleepingcomputer.com/news/security/auto-parts-giant-lkq-says-cyberattack-disrupted-canadian-business-unit/)
     * [![Citrix shares mitigations for ongoing Netscaler password spray attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Citrix shares mitigations for ongoing Netscaler password spray attacks](https://www.bleepingcomputer.com/news/security/citrix-shares-mitigations-for-ongoing-netscaler-password-spray-attacks/)
-    * [![CISA confirms critical Cleo bug exploitation in ransomware attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        CISA confirms critical Cleo bug exploitation in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-confirms-critical-cleo-bug-exploitation-in-ransomware-attacks/)
-    * [![FTC warns of online task job scams hooking victims like gambling](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        FTC warns of online task job scams hooking victims like gambling](https://www.bleepingcomputer.com/news/security/ftc-warns-of-online-task-job-scams-hooking-victims-like-gambling/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -358,9 +358,9 @@ Popular Stories
 * [![hacker shh](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Russian cyber spies hide behind other hackers to target Ukraine](https://www.bleepingcomputer.com/news/security/russian-cyber-spies-hide-behind-other-hackers-to-target-ukraine/)
-* [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Microsoft lifts Windows 11 24H2 block on PCs with USB scanners](https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-24h2-block-on-pcs-with-usb-scanners/)
+    New stealthy Pumakit Linux rootkit malware spotted in the wild](https://www.bleepingcomputer.com/news/security/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
 
 ##### Follow us:
 
