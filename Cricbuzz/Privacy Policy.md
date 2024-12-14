@@ -38,7 +38,7 @@ More
 
 My Account Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Live](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Live")[NZ vs ENG - Live](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-england-tour-of-new-zealand-2024 "New Zealand v England, 3rd Test - Live")[PAK vs RSA - RSA Won](https://www.cricbuzz.com/live-cricket-scores/94334/pak-vs-rsa-2nd-t20i-pakistan-tour-of-south-africa-2024-25 "Pakistan v South Africa, 2nd T20I - RSA Won")[AFG vs ZIM - AFG Won](https://www.cricbuzz.com/live-cricket-scores/109327/afg-vs-zim-2nd-t20i-afghanistan-tour-of-zimbabwe-2024-25 "Afghanistan v Zimbabwe, 2nd T20I - AFG Won")[ZIM vs AFG - Preview](https://www.cricbuzz.com/live-cricket-scores/109334/zim-vs-afg-3rd-t20i-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 3rd T20I - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Stumps")[NZ vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-england-tour-of-new-zealand-2024 "New Zealand v England, 3rd Test - Stumps")[PAK vs RSA - RSA Won](https://www.cricbuzz.com/live-cricket-scores/94334/pak-vs-rsa-2nd-t20i-pakistan-tour-of-south-africa-2024-25 "Pakistan v South Africa, 2nd T20I - RSA Won")[AFG vs ZIM - AFG Won](https://www.cricbuzz.com/live-cricket-scores/109327/afg-vs-zim-2nd-t20i-afghanistan-tour-of-zimbabwe-2024-25 "Afghanistan v Zimbabwe, 2nd T20I - AFG Won")[ZIM vs AFG - Preview](https://www.cricbuzz.com/live-cricket-scores/109334/zim-vs-afg-3rd-t20i-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 3rd T20I - Preview")
 
 AllLive NowToday
 
@@ -46,13 +46,13 @@ AllLive NowToday
     
     Australia v India
     
-    [Australia vs India  LIVE](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Live")
+    [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Stumps")
     
     3rd Test
     
 * New Zealand v England, 2024
     
-    [New Zealand vs England  LIVE](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-new-zealand-v-england-2024 "New Zealand v England, 3rd Test - Live")
+    [New Zealand vs England](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-new-zealand-v-england-2024 "New Zealand v England, 3rd Test - Stumps")
     
     3rd Test
     
@@ -76,7 +76,7 @@ AllLive NowToday
     
     2nd Match
     
-* [Kuwait vs Bahrain](https://www.cricbuzz.com/live-cricket-scores/112241/kuw-vs-bhr-3rd-match-gulf-cricket-t20i-championship "Kuwait v Bahrain, 3rd Match - Preview")
+* [Bahrain vs Kuwait  LIVE](https://www.cricbuzz.com/live-cricket-scores/112241/bhr-vs-kuw-3rd-match-gulf-cricket-t20i-championship "Bahrain v Kuwait, 3rd Match - Live")
     
     3rd Match
     
@@ -91,6 +91,10 @@ AllLive NowToday
 * [Saudi Arabia vs Qatar](https://www.cricbuzz.com/live-cricket-scores/112261/sau-vs-qat-6th-match-gulf-cricket-t20i-championship "Saudi Arabia v Qatar, 6th Match - Upcoming")
     
     6th Match
+    
+* [Saudi Arabia vs Bahrain](https://www.cricbuzz.com/live-cricket-scores/112269/sau-vs-bhr-7th-match-gulf-cricket-t20i-championship "Saudi Arabia v Bahrain, 7th Match - Upcoming")
+    
+    7th Match
     
 * ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024
     
@@ -270,13 +274,7 @@ AllLive NowToday
     
 * WOMEN
     
-    Namibia Women tour of Malaysia
-    
-    [Malaysia Women vs Namibia Women](https://www.cricbuzz.com/live-cricket-scores/112225/mlyw-vs-namw-3rd-t20i-namibia-women-tour-of-malaysia "Malaysia Women v Namibia Women, 3rd T20I - NAMW Won")
-    
-    3rd T20I
-    
-* South Africa Women v England Women, 2024
+    South Africa Women v England Women, 2024
     
     [South Africa Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/94478/rsaw-vs-engw-only-test-south-africa-women-v-england-women-2024 "South Africa Women v England Women, Only Test - Upcoming")
     
@@ -595,41 +593,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132754/rain-plays-spoilsport-on-the-opening-day-in-brisbane "Rain plays spoilsport on the opening day in Brisbane")
+
+[Rain plays spoilsport on the opening day in Brisbane](https://www.cricbuzz.com/cricket-news/132754/rain-plays-spoilsport-on-the-opening-day-in-brisbane "Rain plays spoilsport on the opening day in Brisbane")
+
+28m ago
+
+  [](https://www.cricbuzz.com/cricket-news/132753/honours-even-in-hamilton-as-england-new-zealand-trade-blows "Honours even in Hamilton as England, New Zealand trade blows")
+
+[Honours even in Hamilton as England, New Zealand trade blows](https://www.cricbuzz.com/cricket-news/132753/honours-even-in-hamilton-as-england-new-zealand-trade-blows "Honours even in Hamilton as England, New Zealand trade blows")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132752/rain-interrupts-proceedings-after-india-opt-to-bowl "Rain interrupts proceedings after India opt to bowl")
+
+[Rain interrupts proceedings after India opt to bowl](https://www.cricbuzz.com/cricket-news/132752/rain-interrupts-proceedings-after-india-opt-to-bowl "Rain interrupts proceedings after India opt to bowl")
+
+4h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132751/sa-report-v-pak "Hendricks' 117 powers SA to series win ")
+
+[Hendricks' 117 powers SA to series win](https://www.cricbuzz.com/cricket-news/132751/sa-report-v-pak "Hendricks' 117 powers SA to series win ")
+
+4h ago
+
   [](https://www.cricbuzz.com/cricket-news/132750/shakib-al-hasan-suspended-from-bowling-in-ecb-competitions "Shakib suspended from bowling in ECB competitions")
 
 [Shakib suspended from bowling in ECB competitions](https://www.cricbuzz.com/cricket-news/132750/shakib-al-hasan-suspended-from-bowling-in-ecb-competitions "Shakib suspended from bowling in ECB competitions")
 
-8h ago
+14h ago
 
   [](https://www.cricbuzz.com/cricket-news/132749/testing-time-for-womens-cricket-in-longest-format "Testing time for women's cricket in longest format")
 
 [Testing time for women's cricket in longest format](https://www.cricbuzz.com/cricket-news/132749/testing-time-for-womens-cricket-in-longest-format "Testing time for women's cricket in longest format")
 
-8h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132748/smat-bowlers-patidar-fire-madhya-pradesh-into-the-final "SMAT: Bowlers, Patidar fire Madhya Pradesh into the final")
-
-[SMAT: Bowlers, Patidar fire Madhya Pradesh into the final](https://www.cricbuzz.com/cricket-news/132748/smat-bowlers-patidar-fire-madhya-pradesh-into-the-final "SMAT: Bowlers, Patidar fire Madhya Pradesh into the final")
-
-9h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132747/darwish-rasooli-bowlers-help-afghanistan-level-series "Darwish Rasooli, bowlers help Afghanistan level series")
-
-[Darwish Rasooli, bowlers help Afghanistan level series](https://www.cricbuzz.com/cricket-news/132747/darwish-rasooli-bowlers-help-afghanistan-level-series "Darwish Rasooli, bowlers help Afghanistan level series")
-
-9h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132746/pratika-rawal-gets-maiden-call-up-for-wi-odis "Pratika Rawal gets maiden call-up for WI ODIs")
-
-[Pratika Rawal gets maiden call-up for WI ODIs](https://www.cricbuzz.com/cricket-news/132746/pratika-rawal-gets-maiden-call-up-for-wi-odis "Pratika Rawal gets maiden call-up for WI ODIs")
-
-9h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132745/australia-india-look-to-give-their-own-touch-to-the-gabba-narrative "Australia, India look to give their own touch to the Gabba narrative ")
-
-[Australia, India look to give their own touch to the Gabba narrative](https://www.cricbuzz.com/cricket-news/132745/australia-india-look-to-give-their-own-touch-to-the-gabba-narrative "Australia, India look to give their own touch to the Gabba narrative ")
-
-9h ago
+14h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
