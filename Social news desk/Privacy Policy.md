@@ -1,14 +1,18 @@
-![](https://www.facebook.com/tr?id=256687912825121&ev=PageView&noscript=1)           [Skip to content](#content)
+![fbpx](https://www.facebook.com/tr?id=7247778888641309&ev=PageView&noscript=1)   
+
+![](https://www.facebook.com/tr?id=256687912825121&ev=PageView&noscript=1)
+
+     [Skip to content](#content)
 
 [Social News Desk](https://www.socialnewsdesk.com/)
 
 [](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6Ijc1NDIiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
 
-* [Features](https://www.socialnewsdesk.com/snd-social-media-management-features/)
+* [Solutions](https://www.socialnewsdesk.com/snd-social-media-management-features/)
     
-* Customers
+* Industries
     
-    Close Customers Open Customers
+    Close Industries Open Industries
     
     [**Government**
     
@@ -345,14 +349,8 @@ Copyright © Social News Desk, Inc. All Rights Reserved. | [Privacy Policy](http
 
 ![Social News Desk](https://www.socialnewsdesk.com/wp-content/uploads/2023/05/logo-white.png)
 
-* [Features](#)
-    * [Automated scheduling](https://www.socialnewsdesk.com/ai-powered-automated-social-publishing/)
-    * [Publishing calendar](https://www.socialnewsdesk.com/scheduling-tools-social-media-scheduling-for-teams/)
-    * [Consolidated reporting](https://www.socialnewsdesk.com/social-media-reports/)
-    * [Listen and engage](https://www.socialnewsdesk.com/listen-engage-stay-connected/)
-    * [Link in bio](https://www.socialnewsdesk.com/newsin-bio-link-sharing-for-instagram-tiktok/)
-    * [On air display](https://www.socialnewsdesk.com/snd-on-air-social-media-live-display/)
-* [Customers](#)
+* [Solutions](https://www.socialnewsdesk.com/snd-social-media-management-features/)
+* [Industries](#)
     * [Government](https://www.socialnewsdesk.com/government/)
     * [Universities](https://www.socialnewsdesk.com/universities/)
     * [K-12 Education](https://www.socialnewsdesk.com/social-media-management-for-k-12-education/)
