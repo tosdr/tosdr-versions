@@ -30,14 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WGRZ/images/ef76eeaf-008c-493b-9605-386260bc87d6/20240922T135945/ef76eeaf-008c-493b-9605-386260bc87d6_16x9.jpg) ![](https://media.tegna-media.com/assets/WGRZ/images/ef76eeaf-008c-493b-9605-386260bc87d6/20240922T135945/ef76eeaf-008c-493b-9605-386260bc87d6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/galesburg-fire-mulberry-street/526-5aa2a776-2aec-4102-a707-240313d32569)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a75dd119-9dec-4e36-aca0-5d043ea12b11/20241214T013801/a75dd119-9dec-4e36-aca0-5d043ea12b11_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a75dd119-9dec-4e36-aca0-5d043ea12b11/20241214T013801/a75dd119-9dec-4e36-aca0-5d043ea12b11_360x203.jpg)](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade)
         
-        #### [3 residents hospitalized following Galesburg house fire](https://www.wqad.com/article/news/local/public-safety/galesburg-fire-mulberry-street/526-5aa2a776-2aec-4102-a707-240313d32569) [![](https://media.tegna-media.com/assets/WGRZ/images/ef76eeaf-008c-493b-9605-386260bc87d6/20240922T135945/ef76eeaf-008c-493b-9605-386260bc87d6_16x9.jpg) ![](https://media.tegna-media.com/assets/WGRZ/images/ef76eeaf-008c-493b-9605-386260bc87d6/20240922T135945/ef76eeaf-008c-493b-9605-386260bc87d6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/galesburg-fire-mulberry-street/526-5aa2a776-2aec-4102-a707-240313d32569)
+        #### [Renovations underway at Modern Woodmen Park](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade) [![](https://media.tegna-media.com/assets/WQAD/images/a75dd119-9dec-4e36-aca0-5d043ea12b11/20241214T013801/a75dd119-9dec-4e36-aca0-5d043ea12b11_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a75dd119-9dec-4e36-aca0-5d043ea12b11/20241214T013801/a75dd119-9dec-4e36-aca0-5d043ea12b11_360x203.jpg)](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade)
         
-        #### [Galesburg house fire hospitalizes 3 residents, dog rescued](https://www.wqad.com/article/news/local/public-safety/galesburg-fire-mulberry-street/526-5aa2a776-2aec-4102-a707-240313d32569)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/edba53cc-c7a8-479d-8b24-b47c5e5b5e77/edba53cc-c7a8-479d-8b24-b47c5e5b5e77_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/edba53cc-c7a8-479d-8b24-b47c5e5b5e77/edba53cc-c7a8-479d-8b24-b47c5e5b5e77_360x203.jpg)](https://www.wqad.com/article/entertainment/quad-cities-live-music-scene-upcoming-concerts/526-3311f24e-e4f8-4ed1-9c6f-cd11ed74fc5f)
+        #### [New turf, safety netting and more renovations coming to Modern Woodmen Park](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade) [![](https://media.tegna-media.com/assets/WQAD/images/a75dd119-9dec-4e36-aca0-5d043ea12b11/20241214T013801/a75dd119-9dec-4e36-aca0-5d043ea12b11_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a75dd119-9dec-4e36-aca0-5d043ea12b11/20241214T013801/a75dd119-9dec-4e36-aca0-5d043ea12b11_360x203.jpg)](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade)
         
-        #### [Upcoming live music concerts in the Quad Cities](https://www.wqad.com/article/entertainment/quad-cities-live-music-scene-upcoming-concerts/526-3311f24e-e4f8-4ed1-9c6f-cd11ed74fc5f)
+        #### [Modern Woodmen Park getting new turf, netting and more](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/13c2d01f-fa3e-453e-bd3d-d66a65143f64/20241214T000608/13c2d01f-fa3e-453e-bd3d-d66a65143f64_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/13c2d01f-fa3e-453e-bd3d-d66a65143f64/20241214T000608/13c2d01f-fa3e-453e-bd3d-d66a65143f64_360x203.jpg)](https://www.wqad.com/article/news/local/dixon-rita-crumwell-biden-comptroller-pardon-commute/526-800e8733-dd1b-4bf9-b9f5-00f3b90fc0b4)
+        
+        #### [Dixon residents stunned by Biden's commutation of former comptroller Rita Crundwell](https://www.wqad.com/article/news/local/dixon-rita-crumwell-biden-comptroller-pardon-commute/526-800e8733-dd1b-4bf9-b9f5-00f3b90fc0b4)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -57,7 +59,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/2f24a79c-393d-4989-9f14-e6a7b0ec591f/20241213T134205/2f24a79c-393d-4989-9f14-e6a7b0ec591f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/2f24a79c-393d-4989-9f14-e6a7b0ec591f/20241213T134205/2f24a79c-393d-4989-9f14-e6a7b0ec591f_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a9fea544-3446-40b3-9c92-ac0e5ae64eff/20241213T233121/a9fea544-3446-40b3-9c92-ac0e5ae64eff_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a9fea544-3446-40b3-9c92-ac0e5ae64eff/20241213T233121/a9fea544-3446-40b3-9c92-ac0e5ae64eff_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Weather Impact Alert: Ice Potential for Saturday morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -98,9 +100,9 @@ Navigation
 
 Davenport, IA »
 
-24°
+25°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
