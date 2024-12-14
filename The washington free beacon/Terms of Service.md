@@ -31,15 +31,15 @@ ADVERTISEMENT
     * [Editorials](https://freebeacon.com/author/washington-free-beacon-editors/)
     * [Men of the Year](https://freebeacon.com/men-of-the-year/)
 
+* [![](https://s1.freebeacon.com/up/2024/12/reactions-in-turkey-to-apparent-fall-of-assad-regime-in-syria-scaled-e1734107049969.jpg)
+    
+    Turkey's Syrian Gambit Pays Off](https://freebeacon.com/columns/turkeys-syrian-gambit-pays-off/)
 * [![](https://s4.freebeacon.com/up/2024/12/suspect-arrested-in-pennsylvania-for-united-healthcare-ceo-brian-thomp-scaled-e1734028265781.jpg)
     
     Luigi Mangione: Touch of Evil](https://freebeacon.com/columns/luigi-mangione-touch-of-evil/)
 * [![](https://s3.freebeacon.com/up/2024/12/vice-president-elect-jd-vance-on-capitol-hill-for-lawmaker-meetings-wi-scaled-e1733418882260.jpg)
     
     Trump's Tricky Transition Math](https://freebeacon.com/columns/trumps-tricky-transition-math/)
-* [![](https://s2.freebeacon.com/up/2024/11/NAVCENT_U.S._Fifth_Fleet_CMF_Change_of_Command_210505-N-KZ419-1095-scaled-e1732729887800.jpg)
-    
-    The Pentagon’s New Mission: Buy More Weapons To Buy More Time](https://freebeacon.com/columns/the-pentagons-new-mission-buy-more-weapons-to-buy-more-time/)
 
 * [Morning Beacon](https://freebeacon.com/newsletters/morning-beacon/)
 * [Weekend Beacon](https://freebeacon.com/newsletters/weekend-beacon/)
