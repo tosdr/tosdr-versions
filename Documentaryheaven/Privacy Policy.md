@@ -123,44 +123,44 @@ Advertisement
     Suicide
     
     Released in 2001, Suicide is a film directed by Eames Yates and explores the suicide of his own brother which occurred two years prior to this films release. Eames' brother Teddy was 40 when he shot h...](https://documentaryheaven.com/suicide/ "Suicide")
-* [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
+* [![September Clues](/wp-content/thumbnails/1588-100x70.jpg?x53432)
     
-    The Fog of War
+    September Clues
     
-    Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
-* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
+    This comprehensive analysis of the 9/11 broadcasts shows how the mainstream media actively participated in the 9/11 false-flag operation aimed at generating public support for illegal wars. This media...](https://documentaryheaven.com/september-clues/ "September Clues")
+* [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
     
-    Objectified
+    Pedigree Dogs Exposed
     
-    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+    Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
 
 ###### Throwback Documentaries
 
-* [![Wasted: Armed With A Voice](/wp-content/thumbnails/6687-100x70.jpg?x53432)
+* [![When Albums Ruled the World](/wp-content/thumbnails/6976-100x70.jpg?x53432)
     
-    Wasted: Armed With A Voice
+    When Albums Ruled the World
     
-    15 years of do-it-yourself punk rock and still on the map! Wasted have had their share of ups and downs during the course of countless tours and releases on labels such as Combat Rock Industry, Twiste](https://documentaryheaven.com/wasted-armed-with-a-voice/ "Wasted: Armed With A Voice")
-* [![Greatest World Cup Goals](/wp-content/thumbnails/8842-100x70.jpg?x53432)
+    Between the mid 1960s and the late 1970s, the long-playing record and the albums that graced its grooves changed popular music for ever. For the first time, musicians could escape the confines of the](https://documentaryheaven.com/when-albums-ruled-the-world/ "When Albums Ruled the World")
+* [![China from the Inside: Women of the Country](/wp-content/thumbnails/1737-100x70.jpg?x53432)
     
-    Greatest World Cup Goals
+    China from the Inside: Women of the Country
     
-    Matt Smith counts down the 50 greatest World Cup goals ever scored. Will Diego Maradona's brilliant solo goal against England in 1986 get the vote as the best ever goal? Various journalists and pundit](https://documentaryheaven.com/greatest-world-cup-goals/ "Greatest World Cup Goals")
-* [![The Man Who Used HIV As a Weapon](/wp-content/thumbnails/14501-100x70.jpg?x53432)
+    China's women have always been under pressure: from men, from family, from work. Now more and more are under new pressure -- from themselves -- to take control of their lives; to get an education; to](https://documentaryheaven.com/china-inside-women-country/ "China from the Inside: Women of the Country")
+* [![Murder on the Streets](/wp-content/thumbnails/16417-100x70.jpg?x53432)
     
-    The Man Who Used HIV As a Weapon
+    Murder on the Streets
     
-    In 2018 Daryll Rowe hit the news headlines as the first person in the United Kingdom to be jailed for deliberately infecting men with HIV. It is an extraordinary case but at the time the media at](https://documentaryheaven.com/man-who-used-hiv-as-weapon/ "The Man Who Used HIV As a Weapon")
-* [![Disenfranchised in America](/wp-content/thumbnails/6599-100x70.jpg?x53432)
+    Serious violence is on the rise across Britain, with 100 violent deaths in London in 2018 alone, including at least 16 teenagers. During the summer of that year, Panorama went to the heart of one com](https://documentaryheaven.com/murder-on-streets/ "Murder on the Streets")
+* [![Panda Makers](/wp-content/thumbnails/6854-100x70.jpg?x53432)
     
-    Disenfranchised in America
+    Panda Makers
     
-    New legislation across the US could have a huge impact on the country’s 2012 presidential elections. Largely Republican politicians have passed a range of new voting laws that groups fear could disen](https://documentaryheaven.com/disenfranchised-in-america/ "Disenfranchised in America")
-* [![Hidden Killers of the Tudor Home](/wp-content/thumbnails/14604-100x70.jpg?x53432)
+    Giant Pandas were on the brink of extinction but now they are coming back, thanks to an extraordinary conservation project. The Chengdu Research Base in central China is at the heart of a project to b](https://documentaryheaven.com/pandas/ "Panda Makers")
+* [![7/7 London Bombings: 10 Years On](/wp-content/thumbnails/14673-100x70.jpg?x53432)
     
-    Hidden Killers of the Tudor Home
+    7/7 London Bombings: 10 Years On
     
-    Nowadays we think of the Tudor home as an icon of Britishness, timber-framed and possibly thatched, a cottage even, it sounds wonderful but these quaint pretty relics of the past belie the revolution](https://documentaryheaven.com/hidden-killers-tudor-home/ "Hidden Killers of the Tudor Home")
+    On July 7, 2005, a series of coordinated Islamist terrorists carried out several suicide attacks in London, England. They detonated four bombs on London's transport network, directly targeting innocen](https://documentaryheaven.com/7-7-london-bombings-10-years/ "7/7 London Bombings: 10 Years On")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
