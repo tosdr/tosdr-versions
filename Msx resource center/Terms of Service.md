@@ -140,8 +140,9 @@ MSX Music player
 
 Latest reactions
 
-* [The Goonies enhanced](https://www.msx.org/news/en/the-goonies-enhanced "The Goonies enhanced")
 * [MOAI-TECH #13 online magazine](https://www.msx.org/news/websites/en/moai-tech-13-online-magazine "MOAI-TECH #13 online magazine")
+* [The Goonies enhanced](https://www.msx.org/news/en/the-goonies-enhanced "The Goonies enhanced")
+* [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
 * [Wammes Witkop passed away](https://www.msx.org/news/en/wammes-witkop-passed-away "Wammes Witkop passed away")
 * [MSXdev24 #15 Titan Ufo](https://www.msx.org/news/challenges/en/msxdev24-15-titan-ufo "MSXdev24 #15 Titan Ufo")
@@ -149,23 +150,22 @@ Latest reactions
 * [Nogalious available on Steam](https://www.msx.org/news/software/en/nogalious-available-on-steam "Nogalious available on Steam")
 * [MSX Legends playable promo](https://www.msx.org/news/software/en/msx-legends-playable-promo "MSX Legends playable promo")
 * [MSX GOTO40](https://www.msx.org/news/en/goto-40 "MSX GOTO40")
-* [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 
 Latest forum posts
 
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=16 "Christmas Quiz 2024")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=80 "WonderTANG! Who wants to juice up your MSX?")
+* [MX-10 Black Screen](https://www.msx.org/forum/msx-talk/hardware/mx-10-black-screen "MX-10 Black Screen")
+* [Check for specific keypress during booting in autoexec.bat](https://www.msx.org/forum/msx-talk/general-discussion/check-for-specific-keypress-during-booting-in-autoexecbat "Check for specific keypress during booting in autoexec.bat")
 * [RP2350B will change cartridges for MSX forever!](https://www.msx.org/forum/msx-talk/hardware/this-will-change-cartridges-for-msx-moving-forward?page=3 "RP2350B will change cartridges for MSX forever!")
 * [Question about the 2-button joysticks](https://www.msx.org/forum/msx-talk/development/question-about-the-2-button-joysticks?page=1 "Question about the 2-button joysticks")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=79 "WonderTANG! Who wants to juice up your MSX?")
 * [I made a full STDIO lib for SDCC](https://www.msx.org/forum/msx-talk/development/i-made-a-full-stdio-lib-for-sdcc "I made a full STDIO lib for SDCC")
 * [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx?page=2 "DalSoRi R2 on OpenMSX")
 * [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=8 "vFM (virtual Full Music) MSX universal audio Cartridge")
 * [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=4 "ZX Spectrum Convertions")
 * [Nice video from the BBC](https://www.msx.org/forum/msx-talk/general-discussion/nice-video-from-the-bbc "Nice video from the BBC")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=125 "Please help testing upcoming openMSX release!")
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=16 "Christmas Quiz 2024")
-* [MX-10 Black Screen](https://www.msx.org/forum/msx-talk/hardware/mx-10-black-screen "MX-10 Black Screen")
 * [which MSX1 games could be played with a Trackball?](https://www.msx.org/forum/msx-talk/software/which-msx1-games-could-be-played-with-a-trackball "which MSX1 games could be played with a Trackball?")
-* [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=17 "Full English translation of Illusion City for MSX Turbo-R")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
