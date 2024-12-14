@@ -20,16 +20,16 @@ Saturday, December 14 2024
 
 Latest
 
-* [FTC warns of online task job scams hooking victims like gambling](https://digitpatrox.com/ftc-warns-of-online-task-job-scams-hooking-victims-like-gambling/)
-* [Tim Cook is the latest tech CEO to meet with Trump at Mar-a-Lago](https://digitpatrox.com/tim-cook-is-the-latest-tech-ceo-to-meet-with-trump-at-mar-a-lago/)
-* [Today’s Wordle Hints, Answer for #1274 on December 14, 2024](https://digitpatrox.com/todays-wordle-hints-answer-for-1274-on-december-14-2024/)
-* [NotebookLM Plus is now available to Google Workspace customers – Computerworld](https://digitpatrox.com/notebooklm-plus-is-now-available-to-google-workspace-customers-computerworld/)
-* [All The Biggest Reveals From the 2024 Game Awards](https://digitpatrox.com/all-the-biggest-reveals-from-the-2024-game-awards/)
-* [Stanley Recalls 2.6 Million Travel Mugs Due to a Burn Hazard](https://digitpatrox.com/stanley-recalls-2-6-million-travel-mugs-due-to-a-burn-hazard/)
-* [6 Common Audio Myths, Debunked](https://digitpatrox.com/6-common-audio-myths-debunked/)
-* [Australian IT Pros Urged to Guard Against Chinese Cybersecurity Threats](https://digitpatrox.com/australian-it-pros-urged-to-guard-against-chinese-cybersecurity-threats/)
-* [3 new to Hulu movies with 89% or higher on Rotten Tomatoes](https://digitpatrox.com/3-new-to-hulu-movies-with-89-or-higher-on-rotten-tomatoes/)
-* [Citrix shares mitigations for ongoing Netscaler password spray attacks](https://digitpatrox.com/citrix-shares-mitigations-for-ongoing-netscaler-password-spray-attacks/)
+* [How to Create a Healthy Nursery for Your Baby](https://digitpatrox.com/how-to-create-a-healthy-nursery-for-your-baby/)
+* [The Best Google Pixel 9 Pro XL Cases of 2024](https://digitpatrox.com/the-best-google-pixel-9-pro-xl-cases-of-2024/)
+* [5 Best Self-Hosted Photo-Video Gallery Options](https://digitpatrox.com/5-best-self-hosted-photo-video-gallery-options/)
+* [How to watch Whyte vs Tetteh live stream anywhere](https://digitpatrox.com/how-to-watch-whyte-vs-tetteh-live-stream-anywhere/)
+* [CISA warns water facilities to secure HMI systems exposed online](https://digitpatrox.com/cisa-warns-water-facilities-to-secure-hmi-systems-exposed-online/)
+* [Amazon’s latest Kindle Paperwhite is nearly matching its Black Friday low](https://digitpatrox.com/amazons-latest-kindle-paperwhite-is-nearly-matching-its-black-friday-low/)
+* [Dress to Impress Winter Update Patch Notes & New Features](https://digitpatrox.com/dress-to-impress-winter-update-patch-notes-new-features/)
+* [Google’s Agentspace will put AI agents in the hands of workers – Computerworld](https://digitpatrox.com/googles-agentspace-will-put-ai-agents-in-the-hands-of-workers-computerworld/)
+* [When to Buy Supplemental Health Insurance](https://digitpatrox.com/when-to-buy-supplemental-health-insurance/)
+* [MadeGood Granola Bars Recalled for Metal Fragments](https://digitpatrox.com/madegood-granola-bars-recalled-for-metal-fragments/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2023/09/05/2.jpg)](https://digitpatrox.com/ftc-warns-of-online-task-job-scams-hooking-victims-like-gambling/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1701984241/prod/content/dam/CRO-Images-2023/12December/Special-Projects/CR-SP-InlineHero-How-to-Set-Up-a-Healthy-Nursery-for-a-New-Baby-12-23)](https://digitpatrox.com/how-to-create-a-healthy-nursery-for-your-baby/)
     
-    [FTC warns of online task job scams hooking victims like gambling](https://digitpatrox.com/ftc-warns-of-online-task-job-scams-hooking-victims-like-gambling/)
+    [How to Create a Healthy Nursery for Your Baby](https://digitpatrox.com/how-to-create-a-healthy-nursery-for-your-baby/)
     
-    57 minutes ago
+    1 minute ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/DM0L8ys_gIpl7dlhGmH-TGzHkI8=/0x0:3358x2239/1200x628/filters:focal(1679x1120:1680x1121)/cdn.vox-cdn.com/uploads/chorus_asset/file/25789406/1128958257.jpg)](https://digitpatrox.com/tim-cook-is-the-latest-tech-ceo-to-meet-with-trump-at-mar-a-lago/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/53920035584_5492d854a8_o.jpg)](https://digitpatrox.com/the-best-google-pixel-9-pro-xl-cases-of-2024/)
     
-    [Tim Cook is the latest tech CEO to meet with Trump at Mar-a-Lago](https://digitpatrox.com/tim-cook-is-the-latest-tech-ceo-to-meet-with-trump-at-mar-a-lago/)
+    [The Best Google Pixel 9 Pro XL Cases of 2024](https://digitpatrox.com/the-best-google-pixel-9-pro-xl-cases-of-2024/)
     
-    1 hour ago
+    2 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-hints-answer-for-1274-on-december-14-2024/)
+* [![](https://assets.techrepublic.com/uploads/2021/08/AdobeStock_71064235.jpg)](https://digitpatrox.com/5-best-self-hosted-photo-video-gallery-options/)
     
-    [Today’s Wordle Hints, Answer for #1274 on December 14, 2024](https://digitpatrox.com/todays-wordle-hints-answer-for-1274-on-december-14-2024/)
+    [5 Best Self-Hosted Photo-Video Gallery Options](https://digitpatrox.com/5-best-self-hosted-photo-video-gallery-options/)
     
-    1 hour ago
+    45 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3624473-0-62790200-1734113802-NotebookLM.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/notebooklm-plus-is-now-available-to-google-workspace-customers-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/dhDJwKqRyQmXcThqPUzDcR-1200-80.jpg)](https://digitpatrox.com/how-to-watch-whyte-vs-tetteh-live-stream-anywhere/)
     
-    [NotebookLM Plus is now available to Google Workspace customers – Computerworld](https://digitpatrox.com/notebooklm-plus-is-now-available-to-google-workspace-customers-computerworld/)
+    [How to watch Whyte vs Tetteh live stream anywhere](https://digitpatrox.com/how-to-watch-whyte-vs-tetteh-live-stream-anywhere/)
     
-    3 hours ago
+    49 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JF10GHRM2BQ4CKZP2S7GTDJQ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/all-the-biggest-reveals-from-the-2024-game-awards/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/09/24/water-plant.jpg)](https://digitpatrox.com/cisa-warns-water-facilities-to-secure-hmi-systems-exposed-online/)
     
-    [All The Biggest Reveals From the 2024 Game Awards](https://digitpatrox.com/all-the-biggest-reveals-from-the-2024-game-awards/)
+    [CISA warns water facilities to secure HMI systems exposed online](https://digitpatrox.com/cisa-warns-water-facilities-to-secure-hmi-systems-exposed-online/)
     
-    4 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [57 minutes ago
+* [1 minute ago
     
-    ### FTC warns of online task job scams hooking victims like gambling](https://digitpatrox.com/ftc-warns-of-online-task-job-scams-hooking-victims-like-gambling/)
-* [1 hour ago
+    ### How to Create a Healthy Nursery for Your Baby](https://digitpatrox.com/how-to-create-a-healthy-nursery-for-your-baby/)
+* [2 minutes ago
     
-    ### Tim Cook is the latest tech CEO to meet with Trump at Mar-a-Lago](https://digitpatrox.com/tim-cook-is-the-latest-tech-ceo-to-meet-with-trump-at-mar-a-lago/)
-* [1 hour ago
+    ### The Best Google Pixel 9 Pro XL Cases of 2024](https://digitpatrox.com/the-best-google-pixel-9-pro-xl-cases-of-2024/)
+* [45 minutes ago
     
-    ### Today’s Wordle Hints, Answer for #1274 on December 14, 2024](https://digitpatrox.com/todays-wordle-hints-answer-for-1274-on-december-14-2024/)
+    ### 5 Best Self-Hosted Photo-Video Gallery Options](https://digitpatrox.com/5-best-self-hosted-photo-video-gallery-options/)
 
 Most Popular Topics
 
-* [September 7, 2024
+* [November 3, 2024
     
-    ### Here’s How I Work Online Efficiently Without a PC](https://digitpatrox.com/heres-how-i-work-online-efficiently-without-a-pc/)
-* [September 2, 2024
+    ### Should You Use Synthetic Oil in Your Car?](https://digitpatrox.com/should-you-use-synthetic-oil-in-your-car/)
+* [August 12, 2024
     
-    ### How to Change Minecart Speed in Minecraft](https://digitpatrox.com/how-to-change-minecart-speed-in-minecraft/)
-* [August 22, 2024
+    ### How to install the iOS 18 public betas](https://digitpatrox.com/how-to-install-the-ios-18-public-betas/)
+* [October 1, 2024
     
-    ### British Library issues £400,000 tender as rebuild continues after 2023 cyber attack](https://digitpatrox.com/british-library-issues-400000-tender-as-rebuild-continues-after-2023-cyber-attack/)
+    ### This DIY Whole Home Ring Alarm Kit Is Under $200 Right Now](https://digitpatrox.com/this-diy-whole-home-ring-alarm-kit-is-under-200-right-now/)
 
 Last Modified Topics
 
+* [3 hours ago
+    
+    ### Dress to Impress Winter Update Patch Notes & New Features](https://digitpatrox.com/dress-to-impress-winter-update-patch-notes-new-features/)
 * [4 hours ago
     
-    ### 6 Common Audio Myths, Debunked](https://digitpatrox.com/6-common-audio-myths-debunked/)
+    ### Google’s Agentspace will put AI agents in the hands of workers – Computerworld](https://digitpatrox.com/googles-agentspace-will-put-ai-agents-in-the-hands-of-workers-computerworld/)
 * [5 hours ago
     
-    ### Australian IT Pros Urged to Guard Against Chinese Cybersecurity Threats](https://digitpatrox.com/australian-it-pros-urged-to-guard-against-chinese-cybersecurity-threats/)
-* [5 hours ago
-    
-    ### 3 new to Hulu movies with 89% or higher on Rotten Tomatoes](https://digitpatrox.com/3-new-to-hulu-movies-with-89-or-higher-on-rotten-tomatoes/)
+    ### When to Buy Supplemental Health Insurance](https://digitpatrox.com/when-to-buy-supplemental-health-insurance/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
