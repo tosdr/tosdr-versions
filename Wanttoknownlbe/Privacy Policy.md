@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/william-coopers-erfenis-behold-a-pale-horse/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/hoe-energetisch-healing-werkt-hier-en-op-afstand/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
