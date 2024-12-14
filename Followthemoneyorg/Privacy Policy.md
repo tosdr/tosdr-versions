@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Incumbents2010](/assets/logos/IncumbentsGraph04-10.png)](http://www.followthemoney.org/research/institute-research/tea-party-in-the-2010-state-elections-hot-or-tepid)
+[![Corrections Officers Benevolent Association](/assets/Images/teasers/small/COBAbyPartybyOffice.png)](http://www.followthemoney.org/research/institute-reports/names-in-the-news-police-officers-benevolent-association/)
 
-Look at the power of incumbency.
+Corrections Officers' Benevolent Association giving, by party.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
