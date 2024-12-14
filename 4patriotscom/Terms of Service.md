@@ -2,7 +2,7 @@
 
 [](https://4patriots.com/product/100w-portable-folding-solar-panel)
 
-[](https://4patriots.com/product/100w-portable-folding-solar-panel)[Shop Now](https://4patriots.com/category/deals)
+[](https://4patriots.com/product/100w-portable-folding-solar-panel)[Shop Now](https://4patriots.com/search?q=generator)
 
 ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
 
