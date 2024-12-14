@@ -7,6 +7,7 @@
     * [Leadership Team](https://www.tegna.com/about/leadership-team/)
     * [Board of Directors](https://www.tegna.com/about/board-of-directors/)
     * [Social Responsibility](https://www.tegna.com/social-responsibility/)
+    * [TEGNA Foundation](https://www.tegnafoundation.org/)
 * [Brands](https://www.tegna.com/brands/)
 * [Careers](https://www.tegna.com/careers/our-people-and-culture)
     * [Our Inclusive Culture](https://www.tegna.com/careers/diversity-and-inclusion/)
