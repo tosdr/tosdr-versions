@@ -38,7 +38,7 @@ More
 
 My Account Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[PAK vs RSA - Live](https://www.cricbuzz.com/live-cricket-scores/94334/pak-vs-rsa-2nd-t20i-pakistan-tour-of-south-africa-2024-25 "Pakistan v South Africa, 2nd T20I - Live")[AUS vs IND - Preview](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Preview")[NZ vs ENG - Preview](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-england-tour-of-new-zealand-2024 "New Zealand v England, 3rd Test - Preview")[AFG vs ZIM - AFG Won](https://www.cricbuzz.com/live-cricket-scores/109327/afg-vs-zim-2nd-t20i-afghanistan-tour-of-zimbabwe-2024-25 "Afghanistan v Zimbabwe, 2nd T20I - AFG Won")[DEL vs MP - MP Won](https://www.cricbuzz.com/live-cricket-scores/99104/del-vs-mp-semi-final-2-syed-mushtaq-ali-trophy-2024 "Delhi v Madhya Pradesh, Semi Final 2 - MP Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Live](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Live")[NZ vs ENG - Live](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-england-tour-of-new-zealand-2024 "New Zealand v England, 3rd Test - Live")[PAK vs RSA - RSA Won](https://www.cricbuzz.com/live-cricket-scores/94334/pak-vs-rsa-2nd-t20i-pakistan-tour-of-south-africa-2024-25 "Pakistan v South Africa, 2nd T20I - RSA Won")[AFG vs ZIM - AFG Won](https://www.cricbuzz.com/live-cricket-scores/109327/afg-vs-zim-2nd-t20i-afghanistan-tour-of-zimbabwe-2024-25 "Afghanistan v Zimbabwe, 2nd T20I - AFG Won")[ZIM vs AFG - Preview](https://www.cricbuzz.com/live-cricket-scores/109334/zim-vs-afg-3rd-t20i-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 3rd T20I - Preview")
 
 AllLive NowToday
 
@@ -46,13 +46,13 @@ AllLive NowToday
     
     Australia v India
     
-    [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Preview")
+    [Australia vs India  LIVE](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Live")
     
     3rd Test
     
 * New Zealand v England, 2024
     
-    [New Zealand vs England](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-new-zealand-v-england-2024 "New Zealand v England, 3rd Test - Preview")
+    [New Zealand vs England  LIVE](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-new-zealand-v-england-2024 "New Zealand v England, 3rd Test - Live")
     
     3rd Test
     
@@ -94,15 +94,7 @@ AllLive NowToday
     
 * ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024
     
-    [Suriname vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111429/sn-vs-arg-match-20-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Suriname v Argentina, Match 20 - ARG Won")
-    
-    Match 20
-    
-* [Bermuda vs Brazil](https://www.cricbuzz.com/live-cricket-scores/111425/ber-vs-brazil-match-19-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Brazil, Match 19 - BER Won")
-    
-    Match 19
-    
-* [Suriname vs Mexico](https://www.cricbuzz.com/live-cricket-scores/111441/sn-vs-mex-match-22-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Suriname v Mexico, Match 22 - MEX Won")
+    [Suriname vs Mexico](https://www.cricbuzz.com/live-cricket-scores/111441/sn-vs-mex-match-22-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Suriname v Mexico, Match 22 - MEX Won")
     
     Match 22
     
@@ -178,9 +170,13 @@ AllLive NowToday
     
     3rd ODI
     
+* [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95232/wi-vs-ban-1st-t20i-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 1st T20I - Upcoming")
+    
+    1st T20I
+    
 * South Africa vs Pakistan,2024-25
     
-    [Pakistan vs South Africa  LIVE](https://www.cricbuzz.com/live-cricket-scores/94334/pak-vs-rsa-2nd-t20i-south-africa-vs-pakistan2024-25 "Pakistan v South Africa, 2nd T20I - Live")
+    [Pakistan vs South Africa](https://www.cricbuzz.com/live-cricket-scores/94334/pak-vs-rsa-2nd-t20i-south-africa-vs-pakistan2024-25 "Pakistan v South Africa, 2nd T20I - RSA Won")
     
     2nd T20I
     
@@ -282,11 +278,7 @@ AllLive NowToday
     
 * South Africa Women v England Women, 2024
     
-    [South Africa Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/94469/rsaw-vs-engw-3rd-odi-icc-championship-match-south-africa-women-v-england-women-2024 "South Africa Women v England Women, 3rd ODI (ICC Championship Match) - ENGW Won")
-    
-    3rd ODI (ICC Championship Match)
-    
-* [South Africa Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/94478/rsaw-vs-engw-only-test-south-africa-women-v-england-women-2024 "South Africa Women v England Women, Only Test - Upcoming")
+    [South Africa Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/94478/rsaw-vs-engw-only-test-south-africa-women-v-england-women-2024 "South Africa Women v England Women, Only Test - Upcoming")
     
     Only Test
     
@@ -607,37 +599,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Shakib suspended from bowling in ECB competitions](https://www.cricbuzz.com/cricket-news/132750/shakib-al-hasan-suspended-from-bowling-in-ecb-competitions "Shakib suspended from bowling in ECB competitions")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132749/testing-time-for-womens-cricket-in-longest-format "Testing time for women's cricket in longest format")
 
 [Testing time for women's cricket in longest format](https://www.cricbuzz.com/cricket-news/132749/testing-time-for-womens-cricket-in-longest-format "Testing time for women's cricket in longest format")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132748/smat-bowlers-patidar-fire-madhya-pradesh-into-the-final "SMAT: Bowlers, Patidar fire Madhya Pradesh into the final")
 
 [SMAT: Bowlers, Patidar fire Madhya Pradesh into the final](https://www.cricbuzz.com/cricket-news/132748/smat-bowlers-patidar-fire-madhya-pradesh-into-the-final "SMAT: Bowlers, Patidar fire Madhya Pradesh into the final")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132747/darwish-rasooli-bowlers-help-afghanistan-level-series "Darwish Rasooli, bowlers help Afghanistan level series")
 
 [Darwish Rasooli, bowlers help Afghanistan level series](https://www.cricbuzz.com/cricket-news/132747/darwish-rasooli-bowlers-help-afghanistan-level-series "Darwish Rasooli, bowlers help Afghanistan level series")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132746/pratika-rawal-gets-maiden-call-up-for-wi-odis "Pratika Rawal gets maiden call-up for WI ODIs")
 
 [Pratika Rawal gets maiden call-up for WI ODIs](https://www.cricbuzz.com/cricket-news/132746/pratika-rawal-gets-maiden-call-up-for-wi-odis "Pratika Rawal gets maiden call-up for WI ODIs")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132745/australia-india-look-to-give-their-own-touch-to-the-gabba-narrative "Australia, India look to give their own touch to the Gabba narrative ")
 
 [Australia, India look to give their own touch to the Gabba narrative](https://www.cricbuzz.com/cricket-news/132745/australia-india-look-to-give-their-own-touch-to-the-gabba-narrative "Australia, India look to give their own touch to the Gabba narrative ")
 
-3h ago
+9h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
