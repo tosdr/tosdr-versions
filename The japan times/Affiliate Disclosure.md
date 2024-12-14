@@ -131,6 +131,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[U.S. serviceman sentenced over sexual assault of underage girl in Okinawa](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
+
+  [![The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439917.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.")](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
+
 [New Japanese condos now cost 10 times average salary, study shows](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
 
   [![Tokyo has the highest price-to-income ratio for high-rise condominiums in the country, at 17.78 times.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439829.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo has the highest price-to-income ratio for high-rise condominiums in the country, at 17.78 times.")](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
@@ -147,12 +151,16 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![The yen slumped to its weakest in level in more than two weeks on Wednesday as traders reacted to a report that BOJ officials saw little cost to waiting before raising rates.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439874.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The yen slumped to its weakest in level in more than two weeks on Wednesday as traders reacted to a report that BOJ officials saw little cost to waiting before raising rates.")](https://www.japantimes.co.jp/business/2024/12/12/markets/yen-risk-boj/ "Danger for yen emerges with speculation BOJ may stand pat longer")
 
-[Japan tightens cannabis laws amid rising youth usage](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
-
-  [![Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439725.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.")](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
-
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[U.S. serviceman sentenced over sexual assault of underage girl in Okinawa](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
+
+By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
+
+  [![The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439917.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.")](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
@@ -186,14 +194,6 @@ By [Saburo Funabiki](https://www.japantimes.co.jp/author/3934/saburo-funabiki/ "
 
   [![The yen slumped to its weakest in level in more than two weeks on Wednesday as traders reacted to a report that BOJ officials saw little cost to waiting before raising rates.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439874.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The yen slumped to its weakest in level in more than two weeks on Wednesday as traders reacted to a report that BOJ officials saw little cost to waiting before raising rates.")](https://www.japantimes.co.jp/business/2024/12/12/markets/yen-risk-boj/ "Danger for yen emerges with speculation BOJ may stand pat longer")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Japan tightens cannabis laws amid rising youth usage](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
-
-By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
-
-  [![Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439725.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.")](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
-
 Podcast
 -------
 
@@ -213,9 +213,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,23 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Yoon Suk Yeol: from rising star to second impeachment vote](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/yoon-rise-and-fall/ "Yoon Suk Yeol: from rising star to second impeachment vote")
+[South Korean president impeached after martial law declaration](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached after martial law declaration")
+
+25 mins ago
+
+[Who is Han Duck-soo, South Korea's acting president after Yoon impeachment?](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/han-duck-soo-profile/ "Who is Han Duck-soo, South Korea's acting president after Yoon impeachment?")
 
 1 hour ago
 
-[Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
+[Observing a minute of silence for Ukraine's fallen soldiers](https://www.japantimes.co.jp/news/2024/12/14/world/society/ukraine-preserve-war-memory/ "Observing a minute of silence for Ukraine's fallen soldiers")
 
-1 hour ago
+2 hours ago
 
-[Japanese firm delays bid to be first to put a satellite into orbit](https://www.japantimes.co.jp/news/2024/12/14/japan/science-health/space-one-kairos-rocket-delay/ "Japanese firm delays bid to be first to put a satellite into orbit")
+[Ishiba urges deeper G7 security cooperation as North Korea gets closer to Russia](https://www.japantimes.co.jp/news/2024/12/14/japan/politics/japan-ukraine-g7-ishiba/ "Ishiba urges deeper G7 security cooperation as North Korea gets closer to Russia")
+
+2 hours ago
+
+[Macron hands new French PM the tough job of managing Le Pen](https://www.japantimes.co.jp/news/2024/12/14/world/politics/france-new-prime-minister-tough-job/ "Macron hands new French PM the tough job of managing Le Pen")
 
 3 hours ago
-
-[South Korean president to face second impeachment vote](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president to face second impeachment vote")
-
-5 hours ago
-
-[Trilateral fighter project takes big step with joint venture deal](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
