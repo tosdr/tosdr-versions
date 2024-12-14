@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Dallas weather: Warm weekend for December](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gewzxvgxmaawgcd.jpg?ve=1&tl=1)
+ [![Mega Millions drawing: Texas ticket wins $30,000 prize](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/03/32/18/Mega-Millions-ticket.jpg?ve=1&tl=1)
 
- ![Dallas weather: Warm weekend for December](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gewzxvgxmaawgcd.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-weekend-forecast-december-14)
+ ![Mega Millions drawing: Texas ticket wins $30,000 prize](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/03/32/18/592/333/Mega-Millions-ticket.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mega-millions-drawing-12-13-2024-texas)
 
-### [Warm weekend for December in DFW](https://www.fox4news.com/weather/dallas-weather-weekend-forecast-december-14)
+### [Mega Millions drawing: Texas ticket wins $30,000 prize](https://www.fox4news.com/news/mega-millions-drawing-12-13-2024-texas)
 
- [![No drone found after NJ residents report crash: Live updates](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/wipevo-drone-crash__569987db_a6fd_4ff0_a234_15debe_00.00.00.58.jpg?ve=1&tl=1)
+ [![Pelosi hospitalized, has hip surgery overseas after fall](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2185648532-scaled.jpg?ve=1&tl=1)
 
- ![No drone found after NJ residents report crash: Live updates](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/wipevo-drone-crash__569987db_a6fd_4ff0_a234_15debe_00.00.00.58.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nj-drones-over-new-jersey)
+ ![Pelosi hospitalized, has hip surgery overseas after fall](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2185648532-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pelosi-hospitalized-injured-surgery)
 
-### [No drone found after NJ residents report crash: Live updates](https://www.fox4news.com/news/nj-drones-over-new-jersey)
+### [Pelosi hospitalized, has hip surgery overseas after fall](https://www.fox4news.com/news/pelosi-hospitalized-injured-surgery)
 
- [![Widow of slain Lewisville pawn shop owner finds closure after murder conviction](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-peyton-lewisville-pawn-shop-owner-murdered-9p_00.00.06.58.png?ve=1&tl=1)
+ [![Teacher accused of taping elementary student's head to desk](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/teacher-mugs.jpg?ve=1&tl=1)
 
- ![Widow of slain Lewisville pawn shop owner finds closure after murder conviction](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-peyton-lewisville-pawn-shop-owner-murdered-9p_00.00.06.58.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/widow-slain-lewisville-pawn-shop-owner)
+ ![Teacher accused of taping elementary student's head to desk](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/teacher-mugs.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/teacher-tapes-students-head-desk)
 
-### [Widow of slain Lewisville pawn shop owner finds closure after murder conviction](https://www.fox4news.com/news/widow-slain-lewisville-pawn-shop-owner)
+### [Teacher accused of taping elementary student's head to desk](https://www.fox4news.com/news/teacher-tapes-students-head-desk)
 
- [![Mangione Manhunt: From Midtown to Altoona | Documentary now streaming](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/thumbnail_mangione-manhunt_00160.jpg?ve=1&tl=1)
+ [![Dallas shooting: Car crashes into Pleasant Grove home, 2 shooting victims found inside](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/academy-dr-blurred.jpg?ve=1&tl=1)
 
- ![Mangione Manhunt: From Midtown to Altoona | Documentary now streaming](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/thumbnail_mangione-manhunt_00160.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trailer-mangione-manhunt-ceo-killer-documentary)
+ ![Dallas shooting: Car crashes into Pleasant Grove home, 2 shooting victims found inside](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/academy-dr-blurred.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-academy-drive)
 
-### [Mangione Manhunt: From Midtown to Altoona | Documentary now streaming](https://www.fox4news.com/news/trailer-mangione-manhunt-ceo-killer-documentary)
+### [Car crashes into Pleasant Grove home, 2 shooting victims found inside](https://www.fox4news.com/news/dallas-shooting-academy-drive)
 
- [![White Settlement kidnapping suspect arrested after wild police chase ends in crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/white-settlement-police-chase.jpg?ve=1&tl=1)
+ [![Amber Alert canceled after abducted 7-year-old found](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/32/18/hazel-hodge.jpg?ve=1&tl=1)
 
- ![White Settlement kidnapping suspect arrested after wild police chase ends in crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/white-settlement-police-chase.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/white-settlement-kidnapping-chase-crash-reginald-jameson)
+ ![Amber Alert canceled after abducted 7-year-old found](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/32/18/592/333/hazel-hodge.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-issued-7-year-old-out-san-jacinto-county)
 
-### [White Settlement kidnapping suspect arrested after wild police chase ends in crash](https://www.fox4news.com/news/white-settlement-kidnapping-chase-crash-reginald-jameson)
+### [Amber Alert canceled after abducted 7-year-old found](https://www.fox4news.com/news/amber-alert-issued-7-year-old-out-san-jacinto-county)
 
 ###### [News](https://www.fox4news.com/news)
 
