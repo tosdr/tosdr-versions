@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> We see incredible value in the Free and Open Source Software (FOSS) communities. Our work in collecting, preserving and making source code available to developers, academics and government entities, will enable developers to continue to innovate. We are very pleased for OIN’s sponsorship and its support in maintaining the technical and scientific knowledge that may be lost without preservation and may be further useful to developers from an intellectual property perspective.  
+> Improving little by little every day is not just a slogan for Great Wall Motor. We believe in daily advances in our in-vehicle systems to improve our customers’ overall driving experience. Harnessing the benefits inherent in open source software to help do so completely aligns with our goals. By joining OIN, we are demonstrating our commitment to open source software, and supporting it with a pledge of patent non-aggression.  
 
-Robert DiCosmoFounder & CEOSoftware Heritage
+Xiaozu WangHead of Intellectual PropertyGreat Wall Motor Company Limited
 
-> Huawei is committed to offering the highest-quality ICT and smart devices. Linux and OSS are critical elements of technologies we are developing and integrating with carriers and enterprises around the globe. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux and other core open source projects.  
+> For us, joining OIN is a statement. Linux has given MTU added value that can’t be expressed in euros. We have powerful software available for designing, configuring, and producing engines and for fleet management. One especially valuable aspect is the freedom to continuously further develop and refine perfectly tailored tools and methods to design and configure our high-tech products ourselves.  
 
-Jianxin DingHead of Global Intellectual PropertyHuawei
+Nadia ZerelliHead of Engineering Systems, MTU Aero Engines
 
-> We applaud OIN’s efforts to promote patent non-aggression in the cloud by adding the OpenStack packages to its Linux System definition. The OpenStack Foundation Board of Directors appreciates that the rapidly-growing OIN community has been, and is now explicitly, supporting freedom of action in the cloud of the future that OpenStack has been formed to enable.  
+> Tencent is committed to offering high-quality, Internet-based services from social, games and digital content to mobile payment, cloud services, Internet financial services and smart retail solutions, among many others. Linux and open source are critical elements in the technologies that we are developing to provide these services. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
 
-Alan ClarkChairman of the BoardOpenStack Foundation
+Xu YanSenior Account ManagerTencent Holdings Limited
 
-> _As we build a better experience for our clients, open source can be a significant innovation enabler for the platforms and applications we build and integrate. We’re proud to join the Open Invention Network and support its role in protecting open source software from patent risk._
+> _We remain focused on integrating the best technologies in our payment networks, which help to deliver services that our banks’ customers value and trust. We enable all financial institutions to offer safer, faster, and smarter digital transaction services and open source is a significant innovation driver in these offerings. We are pleased to join the Open Invention Network and support its role in protecting open source software._
 
-Michael SpringsChief Intellectual Property Counsel, Truist
+Sean ReillySVP & Associate General Counsel, The Clearing House
 
-> As a global solutions provider that grows with customers and society through the highest level of trust, SMFG is committed to creating businesses that transcend the boundaries of finance and resolving issues. In order to further promote this effort and quickly deliver high added-value services to our customers and society, SMFG believes that the utilization of open source software will be essential. Also, in promoting OSS utilization, SMFG believes that measures to protect intellectual property … [Read more](https://www.openinventionnetwork.com/testimonial/smfg/ "Complete testimonial by Sumitomo Mitsui Financial Group")
+> _At Amazon, we are constantly looking for ways to innovate on behalf of our customers by investing in systems and technologies that allow us to better serve and understand them. Linux and Open Source are essential to many of our customers and a key driver of innovation across Amazon. We are proud to support a broad range of Open Source projects, foundations, and partners, and we are committed to the long-term success and sustainability of open source as a whole. By joining OIN, we are continuing … [Read more](https://openinventionnetwork.com/testimonial/amazon/ "Complete testimonial by Nithya Ruff")_
 
-Sumitomo Mitsui Financial Group
+Nithya RuffDirector, Amazon Open Source Program Office
 
-> This move (regarding Huawei’s OIN membership demonstrates that joining OIN has become a no-brainer for any product company. Setting aside the patent trolls, who would never have an incentive to join, no one is asserting patents against Linux anymore. Waging a patent war against a popular open-source project like Linux is bad for business. Of course, the OIN definition of Linux is far broader than the kernel. Even so, the OIN pool protects the basic infrastructure of the web, and no serious pro… [Read more](https://www.openinventionnetwork.com/testimonial/omelveny-myers/ "Complete testimonial by Heather Meeker")
+> This move (regarding Huawei’s OIN membership demonstrates that joining OIN has become a no-brainer for any product company. Setting aside the patent trolls, who would never have an incentive to join, no one is asserting patents against Linux anymore. Waging a patent war against a popular open-source project like Linux is bad for business. Of course, the OIN definition of Linux is far broader than the kernel. Even so, the OIN pool protects the basic infrastructure of the web, and no serious pro… [Read more](https://openinventionnetwork.com/testimonial/omelveny-myers/ "Complete testimonial by Heather Meeker")
 
 Heather MeekerPartnerO'Melveny & Myers
 
-> At JD.com, we have employed open source technologies such as Kubernetes and Open Stack, along with Linux, to improve the speed, functionality and stability of our infrastructure while lowering operating costs.  
+> Spurious claims from Patent Assertion Entities divert resources and investment away from true innovation and collaboration. We also recognize that a modern approach to technology development and innovation requires a level playing field around use of open source software. With membership of LOT and OIN, we are pleased to contribute to and extend the growing global community working together to reduce the PAE threat and lower barriers to use of open source technologies.  
 
-Rain LongChief Human Resource Officer & General CounselJD.com
+Lee BraineManaging Director, Chief Technology OfficeBarclays
 
-> Linux plays an important role at TomTom as the core of all our Portable Navigation Devices. We believe that by becoming an Open Invention Network licensee, we encourage Linux development and foster innovation in a technical community that benefits everyone.  
+> The OpenWrt developers believe that openness and collaboration across domains is the groundwork which nurtures Linux development. The new partnership with Open Invention Network will be one of the building blocks pushing OpenWrt forward and advance Linux innovation in general.  
 
-Peter SpoursDirector of IPTomTom
+Gregers PetersenRelationship Manager and DeveloperOpenWrt
 
-> Flex is proud to join OIN and help further the goals of the open source community. In our position spanning many industries, we are sensitive to the negative impact that the aggressive assertion of patents can have on innovation, and how excessive lawsuits can significantly dampen opportunities for collaboration, especially within the open source community. We are pleased to be an active participant in the effort to protect Linux and related open source technologies from the risk of patent litig… [Read more](https://www.openinventionnetwork.com/testimonial/flex/ "Complete testimonial by John Ritsick")
+> Over its history, the automotive industry has undergone periods of significant innovation. We are now undergoing a fundamental shift in the way automotive platforms are used by consumers and businesses. Automotive Grade Linux and other OSS projects are helping the industry rapidly transform. By protecting them from patent risk, OIN has enabled automotive manufacturers to effectively integrate new kinds of software-based technologies into cars.  
 
-John RitsickVP of Legal and Chief Intellectual Property OfficerFlex
+Yosuke IidaGeneral Manager - Intellectual Property DivisionToyota
 
-> We remain focused on leveraging the best technologies for our platforms and are excited to join the Open Invention Network (OIN), that supports protection from patent infringement claims for the greater good of the wider innovation community.  
+> UNISOC is committed to the independent development and design of core chips in the field of mobile communications and AIoT, and Linux and open source software are the key elements of our technology development. By joining the OIN community, Zhanrui demonstrates its strong commitment to innovation and will continue to support patent protection for projects such as Linux.  
 
-Josh DeathIP & Patentable Innovations LeadTD Bank
+Yang JiejingHead of Legal DepartmentUNISOC
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
