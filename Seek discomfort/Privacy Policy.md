@@ -4,7 +4,7 @@
 
 * [SHOP](https://www.seekdiscomfort.com/collections/all)
 * [COLLECTIONS](https://www.seekdiscomfort.com/pages/collection-list)
-* [SALE](https://www.seekdiscomfort.com/collections/holiday-sale-up-to-75-off)
+* [SALE](https://www.seekdiscomfort.com/collections/sale2)
 * [MAP](https://www.seekdiscomfort.com/pages/secret-map)
 
 [![Seek Discomfort](//www.seekdiscomfort.com/cdn/shop/files/new_logo_2.png?v=1718293649&width=420)](https://www.seekdiscomfort.com/ "Seek Discomfort")
@@ -30,13 +30,11 @@ GO TO EUROPEAN SITE
     * [Accessories](https://www.seekdiscomfort.com/collections/all?filter.p.m.custom.filter_product_category_2=Homeware&filter.p.m.custom.filter_product_category_2=Accessories&sort_by=manual)
     
 * [COLLECTIONS](https://www.seekdiscomfort.com/pages/collection-list)
-* [SALE](https://www.seekdiscomfort.com/collections/holiday-sale-up-to-75-off)
+* [SALE](https://www.seekdiscomfort.com/collections/sale2)
 * [MAP](https://www.seekdiscomfort.com/pages/secret-map)
 * [GO TO EUROPEAN SITE](https://eu.seekdiscomfort.com/ "GO TO EUROPEAN SITE")
 
 [](#)
-
-[**THE HOLIDAY SALE** – UP TO 75% OFF – _SELECT STYLES_ – WHILE STOCKS LAST! – **SHOP NOW**](https://www.seekdiscomfort.com/collections/holiday-sale-up-to-75-off "Holiday Sale - Up to 75% Off")
 
 Privacy Page
 ============
