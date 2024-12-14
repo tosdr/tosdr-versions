@@ -1,8 +1,8 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)    
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)             
 
-     
+Privacy Policy – Omax Health - Omax Health                      
 
-Privacy Policy – Omax Health - Omax Health                                    
+              
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -305,13 +305,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3423 reviews](https://omaxhealth.com/pages/reviews)
+[3424 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3100)
+(3101)
 
 5%
 
@@ -329,7 +329,19 @@ Go to product page
 
 (54)
 
-2218
+2219
+
+R
+
+[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
+
+Renee M.
+
+**CryoFreeze! THE best!**
+
+I started using this for tight muscles and migraines. Now I’m using for sudden onset arthritis in my lower sacrum and hip. It is the only thing that helps! Love this product!
+
+[](https://judgeme.imgix.net/omax-health/1734142336__img_2548__original.png?auto=format)
 
 l
 
@@ -350,15 +362,5 @@ Jennifer E.
 **Better than the rest!**
 
 We first heard about Omax when listening to one of our favorite podcasts and decided to try it...and we are glad we did! This product is much more effective than other roll-on pain relievers out there! We will be repeat customers!
-
-S
-
-[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-Sharon C.
-
-**Helps a lot**
-
-Use this roll-on whenever and wherever I have pain. Works well. I always order another when I run out.
 
 Load More
