@@ -3,7 +3,7 @@
 * [Features](#)
     * [FEATURE HIGHLIGHTS](#)
         * [View all key features →](https://www.teamup.com/one-product-mio-solutions/)
-        * [11 Calendar views](https://calendar.teamup.com/kb/how-to-use-calendar-views/)
+        * [11 Calendar views](https://www.teamup.com/features/calendar-views/)
         * [9 levels of access control](https://calendar.teamup.com/kb/what-are-access-permissions/)
         * [Sync / combine calendars](https://blog.teamup.com/consolidate-multiple-calendar-feeds-single-view/)
     * [CUSTOMIZABLE](#)
