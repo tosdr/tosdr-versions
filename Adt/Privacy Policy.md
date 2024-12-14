@@ -128,7 +128,7 @@ Please contact ADT.
 ADT Privacy Policy
 ==================
 
-**Last updated: November 29, 2024**
+**Last updated: December 13, 2024**
 
 Para conocer la Política de Privacidad en español, **[haga clic aquí](https://www.adt.com/about-adt/legal/politica-de-privacidad).**
 
