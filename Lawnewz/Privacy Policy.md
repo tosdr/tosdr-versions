@@ -244,25 +244,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Dova Alina Winegeart (U.S. Attorney's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/12/j6-2-432x243.jpg)](https://lawandcrime.com/high-profile/f-with-me-jan-6-rioter-who-broke-capitol-window-with-pole-remains-defiant-as-judge-sentences-her-to-prison/)
+1. [![Eric Moulds in a video from the Buffalo Bills](https://am21.mediaite.com/lc/cnt/uploads/2024/12/eric-moulds-youtube-432x243.jpg)](https://lawandcrime.com/lawsuit/former-nfl-star-intentionally-gave-incurable-std-to-multiple-women-specifically-targeting-buffalo-bills-fans-lawsuit/)
     
-    ### ['F--- with me': Jan. 6 rioter who broke Capitol window with pole remains defiant as judge sentences her to prison](https://lawandcrime.com/high-profile/f-with-me-jan-6-rioter-who-broke-capitol-window-with-pole-remains-defiant-as-judge-sentences-her-to-prison/)
+    ### [Former NFL star 'intentionally' gave incurable STD to multiple women, specifically targeting 'Buffalo Bills fans': Lawsuit](https://lawandcrime.com/lawsuit/former-nfl-star-intentionally-gave-incurable-std-to-multiple-women-specifically-targeting-buffalo-bills-fans-lawsuit/)
     
-2. [![Inset, left to right: Yusef Salaam, Antron McCray, Korey Wise, Kevin Richardson, Raymond Santana (CBS Sunday Morning). Background: Donald Trump speaks at the annual Road to Majority conference in Washington, DC, June 22, 2024. (Allison Bailey/NurPhoto via AP)](https://am23.mediaite.com/lc/cnt/uploads/2024/11/sdfadsf-432x243.jpg)](https://lawandcrime.com/high-profile/trump-says-comments-that-central-park-five-killed-a-person-were-substantially-true-despite-exoneration-in-push-to-dismiss-defamation-suit/)
+2. [![Tekquan Alexander mugshot](https://am23.mediaite.com/lc/cnt/uploads/2024/11/tekquan-alexander-mugshot-432x243.jpg)](https://lawandcrime.com/crime/dad-who-tortured-his-4-year-old-daughter-into-a-vegetative-state-told-girls-mother-that-she-fainted-during-a-time-out-learns-his-fate/)
     
-    ### [Trump says comments that Central Park Five 'killed a person' were 'substantially true,' despite exoneration, in push to dismiss defamation suit](https://lawandcrime.com/high-profile/trump-says-comments-that-central-park-five-killed-a-person-were-substantially-true-despite-exoneration-in-push-to-dismiss-defamation-suit/)
+    ### [Dad who tortured his 4-year-old daughter into a ‘vegetative state,’ told girl’s mother that she fainted during a ‘time-out’ learns his fate](https://lawandcrime.com/crime/dad-who-tortured-his-4-year-old-daughter-into-a-vegetative-state-told-girls-mother-that-she-fainted-during-a-time-out-learns-his-fate/)
     
-3. [![Popular post image](https://am24.mediaite.com/lc/cnt/uploads/2024/12/sleep-number-lawsuit-1-432x243.jpg)](https://lawandcrime.com/lawsuit/suffered-the-entire-time-woman-dies-after-sleep-number-bed-traps-her-between-mattress-and-wall-for-2-days-lawsuit-says/)
+3. [![Left to right: Jim Jordan, Jack Smith, and Fani Willis.](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Jordan-Smith-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/violates-constitutional-principles-fani-willis-spurns-jim-jordan-demand-for-jack-smith-related-trump-documents-with-a-nod-to-their-thoughtful-correspondence/)
     
-    ### ['Suffered the entire time': Woman dies after Sleep Number bed traps her between mattress and wall for 2 days, lawsuit says](https://lawandcrime.com/lawsuit/suffered-the-entire-time-woman-dies-after-sleep-number-bed-traps-her-between-mattress-and-wall-for-2-days-lawsuit-says/)
+    ### ['Violates constitutional principles': Fani Willis spurns Jim Jordan demand for Jack Smith-related Trump documents with a nod to their 'thoughtful correspondence'](https://lawandcrime.com/high-profile/violates-constitutional-principles-fani-willis-spurns-jim-jordan-demand-for-jack-smith-related-trump-documents-with-a-nod-to-their-thoughtful-correspondence/)
     
 4. [![Inset: Saiy-Yah Allen (Royal Funeral Service, Inc.).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/walmart-432x243.jpg)](https://lawandcrime.com/lawsuit/failed-to-use-his-senses-walmart-blames-inattentive-9-year-old-for-walking-into-metal-cart-leading-to-his-death-years-later-lawsuit-says/)
     
     ### ['Failed to use his senses': Walmart blames 'inattentive' 9-year-old for walking into metal cart, leading to his death years later, lawsuit says](https://lawandcrime.com/lawsuit/failed-to-use-his-senses-walmart-blames-inattentive-9-year-old-for-walking-into-metal-cart-leading-to-his-death-years-later-lawsuit-says/)
     
-5. [![Left to right: Aileen Cannon, Ryan Routh](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Cannon-Routh-1-432x243.jpg)](https://lawandcrime.com/high-profile/not-entirely-sure-the-road-blocks-youre-describing-exist-judge-aileen-cannon-skeptical-of-efforts-to-obtain-lengthy-trial-delay-in-alleged-trump-assassin-case/)
+5. [![Inset: Jacob Sterr (Springfield Police Department). Background: President Joe Biden speaks from the Roosevelt Room of the White House in Washington, Sunday, July 14, 2024, about the apparent assassination attempt of former President Donald Trump at a campaign rally in Pennsylvania (AP Photo/Susan Walsh).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/Biden-and-Sterr-1-432x243.jpg)](https://lawandcrime.com/crime/im-going-to-have-you-killed-man-makes-threats-to-assassinate-president-biden-barack-obama-in-x-posts-and-videos-feds-say/)
     
-    ### ['Not entirely sure the road blocks you're describing exist': Judge Aileen Cannon skeptical of efforts to obtain lengthy trial delay in alleged Trump assassin case](https://lawandcrime.com/high-profile/not-entirely-sure-the-road-blocks-youre-describing-exist-judge-aileen-cannon-skeptical-of-efforts-to-obtain-lengthy-trial-delay-in-alleged-trump-assassin-case/)
+    ### ['I'm going to have you killed': Man makes threats to assassinate President Biden, Barack Obama in X posts and videos, feds say](https://lawandcrime.com/crime/im-going-to-have-you-killed-man-makes-threats-to-assassinate-president-biden-barack-obama-in-x-posts-and-videos-feds-say/)
     
 
 [](http://eepurl.com/c89Jdb)
