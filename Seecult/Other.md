@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/perspektive-10-art-klinike/perspektive-10/ziri-perspektive10-flu.jpg?itok=sdmWGyFW)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/perspektive-10-art-klinike/perspektive-10-0)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/mrd-bajic/fabrika/factory/fabrika-reset-bijenale-venecija-001.jpg?itok=2OtWCHuj)](http://seecult.org/galerija/galerija-umetnika/mrdan-bajic/fabrika-factory)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/digitalizacija/audiovizuelni-arhiv-i-centar-za-digitalizaciju-sanu/sanu-digi3.jpg?itok=83VNLI1E)](http://seecult.org/galerija/foto-galerija/digitalizacija/audiovizuelni-arhiv-i-centar-za-digitalizaciju-sanu)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kazinorojal.jpg?itok=2z_A-KgX)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
