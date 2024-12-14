@@ -1,5 +1,7 @@
 error: no ad slot id exists: undefined
 
+[Breaking: Woman gets life for murdering girlfriend’s 8-year-old found in trash bag](https://www.ajc.com/news/crime/woman-guilty-of-murdering-girlfriends-8-year-old-found-in-trash-bag/IZP3UR7CMNEMDDDRTQOS3U2SXI/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1891)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1891)](https://www.ajc.com/)
 
 Log In
