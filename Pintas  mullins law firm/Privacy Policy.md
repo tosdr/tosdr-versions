@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Mormon church sex abuse case consequences](https://www.pintas.com/wp-content/uploads/2023/04/General-law2-300x177.jpg "Mormon Church Sex Abuse Case Consequences")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/if-i-file-a-sexual-abuse-case-against-the-mormon-church-will-i-be-kicked-out/ "Mormon Church Sex Abuse Case Consequences")
+[![Can a ct scan be wrong about cancer?](https://www.pintas.com/wp-content/uploads/2020/11/failure-to-diagnose-lung-cancer-can-a-ct-scan-be-wrong-about-cancer.jpg "Can a CT Scan Be Wrong About Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/failure-to-diagnose/can-a-ct-scan-be-wrong-about-cancer/ "Can a CT Scan Be Wrong About Cancer?")
 
-[#### Mormon Church Sex Abuse Case Consequences](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/if-i-file-a-sexual-abuse-case-against-the-mormon-church-will-i-be-kicked-out/)
+[#### Can a CT Scan Be Wrong About Cancer?](https://www.pintas.com/practice-areas/lung-cancer/failure-to-diagnose/can-a-ct-scan-be-wrong-about-cancer/)
 
-[![How can you help prevent nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-can-you-help-prevent-nursing-home-abuse-scaled.jpg "How Can You Help Prevent Nursing Home Abuse?")](https://www.pintas.com/faq/how-can-you-help-prevent-nursing-home-abuse/ "How Can You Help Prevent Nursing Home Abuse?")
+[![Financial abuse types in assisted living](https://www.pintas.com/wp-content/uploads/2021/03/fraud-spelled-out-in-scrabble-letters-300x108.jpg "Financial Abuse Types in Assisted Living")](https://www.pintas.com/faq/what-are-the-different-kinds-of-financial-abuse-at-assisted-livings/ "Financial Abuse Types in Assisted Living")
 
-[#### How Can You Help Prevent Nursing Home Abuse?](https://www.pintas.com/faq/how-can-you-help-prevent-nursing-home-abuse/)
+[#### Financial Abuse Types in Assisted Living](https://www.pintas.com/faq/what-are-the-different-kinds-of-financial-abuse-at-assisted-livings/)
 
-[![What are the odds of beating lung cancer?](https://www.pintas.com/wp-content/uploads/2020/11/what-are-the-odds-of-beating-lung-cancer.jpg "What Are the Odds of Beating Lung Cancer?")](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/ "What Are the Odds of Beating Lung Cancer?")
+[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/faq/what-are-the-3-stages-of-sepsis/ "What Are the 3 Stages of Sepsis?")
 
-[#### What Are the Odds of Beating Lung Cancer?](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/)
+[#### What Are the 3 Stages of Sepsis?](https://www.pintas.com/faq/what-are-the-3-stages-of-sepsis/)
 
 ### Injured?  
 Tell Us What Happened.
