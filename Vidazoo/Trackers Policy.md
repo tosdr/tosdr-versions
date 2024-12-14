@@ -2,9 +2,9 @@
 
 Vidazoo Legal](https://vidazoo.gitbook.io/vidazoo-legal)
 
-More
+Search...
 
-SearchCtrl + K
+Ctrl + K
 
 * [Legal Resources](https://vidazoo.gitbook.io/vidazoo-legal)
     
@@ -246,4 +246,4 @@ If you have any questions about our use of cookies, please contact us at [dpo@vi
 
 [PreviousVidazoo Privacy Policy](https://vidazoo.gitbook.io/vidazoo-legal/privacy-policy)[NextPrivacy Notice For California Residents](https://vidazoo.gitbook.io/vidazoo-legal/privacy-notice-for-california-residents)
 
-Last updated 3 days ago
+Last updated 4 days ago
