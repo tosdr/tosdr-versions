@@ -153,6 +153,9 @@ Latest reactions
 
 Latest forum posts
 
+* [Question about the 2-button joysticks](https://www.msx.org/forum/msx-talk/development/question-about-the-2-button-joysticks "Question about the 2-button joysticks")
+* [RP2350B will change cartridges for MSX forever!](https://www.msx.org/forum/msx-talk/hardware/this-will-change-cartridges-for-msx-moving-forward?page=2 "RP2350B will change cartridges for MSX forever!")
+* [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx?page=2 "DalSoRi R2 on OpenMSX")
 * [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=4 "ZX Spectrum Convertions")
 * [Nice video from the BBC](https://www.msx.org/forum/msx-talk/general-discussion/nice-video-from-the-bbc "Nice video from the BBC")
 * [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=125 "Please help testing upcoming openMSX release!")
@@ -162,10 +165,7 @@ Latest forum posts
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=17 "Full English translation of Illusion City for MSX Turbo-R")
 * [Omega MSX 2 Build Quiestions](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-build-quiestions "Omega MSX 2 Build Quiestions")
 * [Omega MSX 2 Power Supply suggestion](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-power-supply-suggestion "Omega MSX 2 Power Supply suggestion")
-* [Question about the 2-button joysticks](https://www.msx.org/forum/msx-talk/development/question-about-the-2-button-joysticks "Question about the 2-button joysticks")
 * [How do i load BAS.files into Bluemsx?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-load-basfiles-into-bluemsx?page=1 "How do i load BAS.files into Bluemsx?")
-* [OCM / Zemmix maximum ROM size?](https://www.msx.org/forum/msx-talk/hardware/ocm-zemmix-maximum-rom-size "OCM / Zemmix maximum ROM size?")
-* [Dynamite Go Go](https://www.msx.org/forum/msx-talk/general-discussion/dynamite-go-go?page=13 "Dynamite Go Go")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
