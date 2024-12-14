@@ -1,4 +1,4 @@
-[![](https://ly.lygo.net/static/lycos/img/logo-lycos-topBar.png)](https://search12.lycos.com/)
+[![](https://ly.lygo.net/static/lycos/img/logo-lycos-topBar.png)](https://search.lycos.com/)
 
 * [Lycos.com](https://www.lycos.com/)
 * [Mail](http://www.mail.lycos.com/)
