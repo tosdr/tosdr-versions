@@ -1132,7 +1132,6 @@ it
         * [Calendario Osservatori statistici](https://www.inps.it/it/it/dati-e-bilanci/osservatori-statistici-e-altre-statistiche/calendario-osservatori-statistici.html)
         * [Analisi e approfondimenti tematici](https://www.inps.it/it/it/dati-e-bilanci/osservatori-statistici-e-altre-statistiche/analisi-e-approfondimenti-tematici.html)
         * [Osservatori statistici](https://www.inps.it/it/it/dati-e-bilanci/osservatori-statistici-e-altre-statistiche/osservatori-statistici.html)
-        * [Statistiche della previdenza e dell‘assistenza sociale](https://www.inps.it/it/it/dati-e-bilanci/osservatori-statistici-e-altre-statistiche/statistiche-della-previdenza-e-dell-assistenza-sociale.html)
         * [Dati Cartacei - ADI e SFL](https://www.inps.it/it/it/dati-e-bilanci/osservatori-statistici-e-altre-statistiche/dati-cartacei---adi-e-sfl.html)
         
     * [File per la ricerca (MFR)](https://www.inps.it/it/it/dati-e-bilanci/File-per-la-ricerca-MFR.html)
