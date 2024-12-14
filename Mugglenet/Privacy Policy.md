@@ -246,14 +246,6 @@ MuggleNet Archive Select Month December 2024  (9) November 2024  (23) October 
 
 ### December 2024
 
-#### Fri, Dec 13
-
-The Tales of Beedle the Bard sells at auction for $4 million
-
-Recurs yearly
-
-2007
-
 #### Tue, Dec 17
 
 First meeting of the Dueling Club
@@ -308,6 +300,26 @@ Recurs yearly
 
 1995
 
+#### Fri, Dec 20
+
+Luna is captured by Death Eaters
+
+Recurs yearly
+
+1997
+
+Slughorn's Christmas party
+
+Recurs yearly
+
+1996
+
+SpeakBeasty's anniversary
+
+Recurs yearly
+
+2015
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -318,15 +330,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Hermione Granger’s last name was almost Puckle.
+Despite Natalia Tena’s first audition being described as “a disaster,” she still landed the role of Nymphadora Tonks.
 
 ### Potter History
 
-June 15, 2003 – 7,000 copies of Harry Potter and the Order of the Phoenix are stolen prior to its release, sparking controversy over the security of the books and the likelihood of a spoiler leak.
+July 16, 2007 – Harry Potter and the Order of the Phoenix film grosses $330 million worldwide.
 
 ### Potter Quote
 
-“I won’t let you do it. I’ll — I’ll fight you!”
+“What is it about my presence in your home that displeases you, Lucius?”
 
 [](#)
 
