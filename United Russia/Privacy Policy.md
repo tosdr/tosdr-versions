@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![При поддержке «Женского движения Единой России» в регионах соберут предложения по внедрению демографического корпоративного стандарта](https://cdn.er.ru/media/news/December2024/qLrEFksVNltaK7tlZZNl-small.JPG)](https://er.ru/activity/news/pri-podderzhke-zhenskogo-dvizheniya-edinoj-rossii-v-regionah-soberut-predlozheniya-po-vnedreniyu-demograficheskogo-korporativnogo-standarta)
+[![Александр Дрозденко, секретарь реготделения «Единой России», губернатор Ленобласти: Достаточно посмотреть на дела, которые говорят сами за себя, и здесь «Единая Россия» — вне конкуренции](https://cdn.er.ru/img/stubs/small/3.jpg)](https://er.ru/activity/news/aleksandr-drozdenko-sekretar-regotdeleniya-edinoj-rossii-gubernator-lenoblasti-dostatochno-posmotret-na-dela-kotorye-govoryat-sami-za-sebya-i-zdes-edinaya-rossiya-vne-konkurencii)
 
-[При поддержке «Женского движения Единой России» в регионах соберут предложения по внедрению демографического корпоративного стандарта](https://er.ru/activity/news/pri-podderzhke-zhenskogo-dvizheniya-edinoj-rossii-v-regionah-soberut-predlozheniya-po-vnedreniyu-demograficheskogo-korporativnogo-standarta)
+[Александр Дрозденко, секретарь реготделения «Единой России», губернатор Ленобласти: Достаточно посмотреть на дела, которые говорят сами за себя, и здесь «Единая Россия» — вне конкуренции](https://er.ru/activity/news/aleksandr-drozdenko-sekretar-regotdeleniya-edinoj-rossii-gubernator-lenoblasti-dostatochno-posmotret-na-dela-kotorye-govoryat-sami-za-sebya-i-zdes-edinaya-rossiya-vne-konkurencii)
 
-[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#Святенко](https://er.ru/activity/news?tags%5B0%5D=44335) [#Шапошников](https://er.ru/activity/news?tags%5B0%5D=3789) [#демография](https://er.ru/activity/news?tags%5B0%5D=135657) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975)
+[#Дрозденко](https://er.ru/activity/news?tags%5B0%5D=19558) [#Ленинградская область](https://er.ru/activity/news?tags%5B0%5D=1669) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
-13.12.24
+Сегодня 12:55
 
-[![Элита страны: «Единая Россия» включит участников СВО в состав руководящих органов партии](https://cdn.er.ru/media/news/December2024/L9XyhmvdU5pNchA1YQHq-small.JPG)](https://er.ru/activity/news/elita-strany-edinaya-rossiya-vklyuchit-uchastnikov-svo-v-sostav-rukovodyashih-organov-partii)
+[![Александр Тихонов, участник СВО: Ветераны специальной военной операции активно вступают в «Единую Россию»](https://cdn.er.ru/img/stubs/small/6.jpg)](https://er.ru/activity/news/aleksandr-tihonov-uchastnik-svo-veterany-specialnoj-voennoj-operacii-aktivno-vstupayut-v-edinuyu-rossiyu)
 
-[Элита страны: «Единая Россия» включит участников СВО в состав руководящих органов партии](https://er.ru/activity/news/elita-strany-edinaya-rossiya-vklyuchit-uchastnikov-svo-v-sostav-rukovodyashih-organov-partii)
+[Александр Тихонов, участник СВО: Ветераны специальной военной операции активно вступают в «Единую Россию»](https://er.ru/activity/news/aleksandr-tihonov-uchastnik-svo-veterany-specialnoj-voennoj-operacii-aktivno-vstupayut-v-edinuyu-rossiyu)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Кириенко](https://er.ru/activity/news?tags%5B0%5D=2618) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Жога](https://er.ru/activity/news?tags%5B0%5D=1094717) [#Карелин](https://er.ru/activity/news?tags%5B0%5D=2232) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999)
+[#Тихонов](https://er.ru/activity/news?tags%5B0%5D=4833) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629)
 
-13.12.24
+Сегодня 12:48
 
-[![Участники Съезда «Единой России» сформировали гуманитарный груз в Курскую область](https://cdn.er.ru/media/news/December2024/diKoZxO3T35nQUhmD88X-small.JPG)](https://er.ru/activity/news/uchastniki-sezda-edinoj-rossii-sformirovali-gumanitarnyj-gruz-v-kurskuyu-oblast)
+[![Игорь Ляхов, секретарь Смоленского реготделения «Единой России»: Задачи «Единой России» в Смоленской области – продолжать реализацию народной программы](https://cdn.er.ru/img/stubs/small/4.jpg)](https://er.ru/activity/news/igor-lyahov-sekretar-smolenskogo-regotdeleniya-edinoj-rossii-zadachi-edinoj-rossii-v-smolenskoj-oblasti-prodolzhat-realizaciyu-narodnoj-programmy)
 
-[Участники Съезда «Единой России» сформировали гуманитарный груз в Курскую область](https://er.ru/activity/news/uchastniki-sezda-edinoj-rossii-sformirovali-gumanitarnyj-gruz-v-kurskuyu-oblast)
+[Игорь Ляхов, секретарь Смоленского реготделения «Единой России»: Задачи «Единой России» в Смоленской области – продолжать реализацию народной программы](https://er.ru/activity/news/igor-lyahov-sekretar-smolenskogo-regotdeleniya-edinoj-rossii-zadachi-edinoj-rossii-v-smolenskoj-oblasti-prodolzhat-realizaciyu-narodnoj-programmy)
 
-[#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#Лебедева](https://er.ru/activity/news?tags%5B0%5D=9611) [#Смирнова](https://er.ru/activity/news?tags%5B0%5D=10225) [#Солонкин](https://er.ru/activity/news?tags%5B0%5D=143558) [#Мосволонтер](https://er.ru/activity/news?tags%5B0%5D=149461) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#сборгумпомощи](https://er.ru/activity/news?tags%5B0%5D=1093180) [#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#мастер-классы](https://er.ru/activity/news?tags%5B0%5D=34619) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999)
+[#Ляхов](https://er.ru/activity/news?tags%5B0%5D=2151) [#Смоленская область](https://er.ru/activity/news?tags%5B0%5D=285) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584)
 
-13.12.24
+Сегодня 12:43
 
-[![О национальной идентичности и политическом выборе: опыт России и Китая. Статья Дмитрия Медведева](https://cdn.er.ru/media/news/December2024/yrM8Fnn8uhsA0A9aZtOm-small.jpg)](https://er.ru/activity/news/o-nacionalnoj-identichnosti-i-politicheskom-vybore-opyt-rossii-i-kitaya-statya-dmitriya-medvedeva)
+[![Михаил Развожаев, секретарь реготделения «Единой России», губернатор Севастополя: Диалог с первичными отделениями позволяет контролировать исполнение народной программы партии](https://cdn.er.ru/img/stubs/small/6.jpg)](https://er.ru/activity/news/mihail-razvozhaev-sekretar-regotdeleniya-edinoj-rossii-gubernator-sevastopolya-dialog-s-pervichnymi-otdeleniyami-pozvolyaet-kontrolirovat-ispolnenie-narodnoj-programmy-partii)
 
-[О национальной идентичности и политическом выборе: опыт России и Китая. Статья Дмитрия Медведева](https://er.ru/activity/news/o-nacionalnoj-identichnosti-i-politicheskom-vybore-opyt-rossii-i-kitaya-statya-dmitriya-medvedeva)
+[Михаил Развожаев, секретарь реготделения «Единой России», губернатор Севастополя: Диалог с первичными отделениями позволяет контролировать исполнение народной программы партии](https://er.ru/activity/news/mihail-razvozhaev-sekretar-regotdeleniya-edinoj-rossii-gubernator-sevastopolya-dialog-s-pervichnymi-otdeleniyami-pozvolyaet-kontrolirovat-ispolnenie-narodnoj-programmy-partii)
 
-[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#Китай](https://er.ru/activity/news?tags%5B0%5D=263) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742)
+[#Развожаев](https://er.ru/activity/news?tags%5B0%5D=135388) [#Севастополь](https://er.ru/activity/news?tags%5B0%5D=5870) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#догазификация](https://er.ru/activity/news?tags%5B0%5D=1094666)
 
-13.12.24
+Сегодня 12:35
 
-[![Участники Съезда «Единой России» – ветераны СВО встретились с бойцами, проходящими лечение в московских госпиталях](https://cdn.er.ru/media/news/December2024/X0rfZEWKX7He33IBIOho-small.jpg)](https://er.ru/activity/news/uchastniki-sezda-edinoj-rossii-veterany-svo-vstretilis-s-bojcami-prohodyashimi-lechenie-v-moskovskih-gospitalyah)
+[![Владимир Мазур, секретарь реготделения партии, губернатор Томской области: Народная программа «Единой России» идёт в ногу со временем](https://cdn.er.ru/img/stubs/small/5.jpg)](https://er.ru/activity/news/vladimir-mazur-sekretar-regotdeleniya-partii-gubernator-tomskoj-oblasti-narodnaya-programma-edinoj-rossii-idyot-v-nogu-so-vremenem)
 
-[Участники Съезда «Единой России» – ветераны СВО встретились с бойцами, проходящими лечение в московских госпиталях](https://er.ru/activity/news/uchastniki-sezda-edinoj-rossii-veterany-svo-vstretilis-s-bojcami-prohodyashimi-lechenie-v-moskovskih-gospitalyah)
+[Владимир Мазур, секретарь реготделения партии, губернатор Томской области: Народная программа «Единой России» идёт в ногу со временем](https://er.ru/activity/news/vladimir-mazur-sekretar-regotdeleniya-partii-gubernator-tomskoj-oblasti-narodnaya-programma-edinoj-rossii-idyot-v-nogu-so-vremenem)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#госпитали](https://er.ru/activity/news?tags%5B0%5D=118007) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765) [#мерыподдержки](https://er.ru/activity/news?tags%5B0%5D=147555)
+[#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#Мазур](https://er.ru/activity/news?tags%5B0%5D=20392) [#Томская область](https://er.ru/activity/news?tags%5B0%5D=1708)
 
-13.12.24
+Сегодня 12:33
 
-[![«Единая Россия» провела урок мужества с бойцами СВО для 500 школьников и студентов Москвы](https://cdn.er.ru/media/news/December2024/s4WETivVm9c1RwAvCUdg-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provela-urok-muzhestva-s-bojcami-svo-dlya-500-shkolnikov-i-studentov-moskvy)
+[![Владимир Константинов, председатель Госсовета Республики Крым: «Единая Россия» стала для крымчан символом преобразования](https://cdn.er.ru/img/stubs/small/2.jpg)](https://er.ru/activity/news/vladimir-konstantinov-predsedatel-gossoveta-respubliki-krym-edinaya-rossiya-stala-dlya-krymchan-simvolom-preobrazovaniya)
 
-[«Единая Россия» провела урок мужества с бойцами СВО для 500 школьников и студентов Москвы](https://er.ru/activity/news/edinaya-rossiya-provela-urok-muzhestva-s-bojcami-svo-dlya-500-shkolnikov-i-studentov-moskvy)
+[Владимир Константинов, председатель Госсовета Республики Крым: «Единая Россия» стала для крымчан символом преобразования](https://er.ru/activity/news/vladimir-konstantinov-predsedatel-gossoveta-respubliki-krym-edinaya-rossiya-stala-dlya-krymchan-simvolom-preobrazovaniya)
 
-[#Туров](https://er.ru/activity/news?tags%5B0%5D=24396) [#МузейПобеды](https://er.ru/activity/news?tags%5B0%5D=1091109) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#СъездЕР](https://er.ru/activity/news?tags%5B0%5D=48209) [#Чинцов](https://er.ru/activity/news?tags%5B0%5D=1095688) [#Фунтиков](https://er.ru/activity/news?tags%5B0%5D=1095713) [#студенты](https://er.ru/activity/news?tags%5B0%5D=186) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#урокмужества](https://er.ru/activity/news?tags%5B0%5D=1091683)
+[#Константинов](https://er.ru/activity/news?tags%5B0%5D=12384) [#Республика Крым](https://er.ru/activity/news?tags%5B0%5D=57338) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
 
-13.12.24
+Сегодня 12:25
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
