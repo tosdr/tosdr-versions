@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Kurdish forces in Syria accidentally shot down US Reaper drone](https://www.defensenews.com/global/mideast-africa/2024/12/13/kurdish-forces-in-syria-accidentally-shot-down-us-reaper-drone/)  
+    12/13/24 04:54pm  
+    
+    Kurdish forces allied with the United States mistakenly thought an MQ-9 drone was an incoming threat and shot it down Monday. (Senior Airman Raya Feltner/U.S. Air Force)
+    
 * [Trilateral joint venture to manage GCAP warplane work from London](https://www.defensenews.com/global/europe/2024/12/13/trilateral-joint-venture-to-manage-gcap-warplane-work-from-london/)  
     12/13/24 11:32am  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     12/10/24 03:45pm  
     
     Congress is set to cut the number of Lockheed Martin-made F-35s the military wants to buy in 2025 from 68 to 58 under this year’s defense authorization bill. (Airman Belinda Guachun-Chichay/U.S. Air Force)
-    
-* [Air Force defers NGAD decision to Trump administration](https://www.defensenews.com/breaking-news/2024/12/05/air-force-defers-ngad-decision-to-trump-administration/)  
-    12/05/24 03:50pm  
-    
-    The Air Force will keep maturing the technology for a potential sixth-generation NGAD fighter, but will let the Trump administration decide how to proceed. (U.S. Air Force)
     
 
 Recent parts by keyword  
