@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[15% Off Self-Defense for Women | Code: MYSAFETY](https://www.thehomesecuritysuperstore.com/collections/self-defense-weapons-for-women?utm_campaign=15%25%20Off%20Self-Defense%20for%20Women&utm_medium=banner&utm_source=website)
+[Last Minute Holiday Shopping | 15% Off Sitewide!](https://www.thehomesecuritysuperstore.com/collections/homepage-high-recommended-products?utm_source=website&utm_medium=banner&utm_campaign=Last+Minute+Holiday+Shopping+15%25+Off+Sitewide)
 
-TODAY'S OFFER: :: | 15% Off Self-Defense for Women | Code: MYSAFETY
+TODAY'S OFFER: :: | Last Minute Holiday Shopping | 15% Off Sitewide!
 
 TODAY'S OFFER: : :
 
- 15% Off Self-Defense for Women Code: MYSAFETY
+ Last Minute Holiday Shopping 15% Off Sitewide!
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
