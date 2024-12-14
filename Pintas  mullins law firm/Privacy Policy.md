@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can you have lung cancer with no symptoms?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancercan-you-have-lung-cancer-with-no-symptoms-scaled.jpg "Can You Have Lung Cancer With No Symptoms?")](https://www.pintas.com/practice-areas/lung-cancer/can-you-have-lung-cancer-with-no-symptoms/ "Can You Have Lung Cancer With No Symptoms?")
+[![How will mesothelioma change my life?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-how-will-mesothelioma-change-my-life.jpg "How Will Mesothelioma Change My Life?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-will-mesothelioma-change-my-life/ "How Will Mesothelioma Change My Life?")
 
-[#### Can You Have Lung Cancer With No Symptoms?](https://www.pintas.com/practice-areas/lung-cancer/can-you-have-lung-cancer-with-no-symptoms/)
+[#### How Will Mesothelioma Change My Life?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-will-mesothelioma-change-my-life/)
 
-[![How are medical bills paid after a car accident?](https://www.pintas.com/wp-content/uploads/2020/07/car-accidents-how-are-medical-bills-paid-after-a-car-accident.jpg "How Are Medical Bills Paid After a Car Accident?")](https://www.pintas.com/practice-areas/car-accident-lawyer/how-are-medical-bills-paid/ "How Are Medical Bills Paid After a Car Accident?")
+[![What does mesothelioma do to the lungs?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-what-does-mesothelioma-do-to-the-lungs.jpg "What Does Mesothelioma Do to the Lungs?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-does-mesothelioma-do-to-the-lungs/ "What Does Mesothelioma Do to the Lungs?")
 
-[#### How Are Medical Bills Paid After a Car Accident?](https://www.pintas.com/practice-areas/car-accident-lawyer/how-are-medical-bills-paid/)
+[#### What Does Mesothelioma Do to the Lungs?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-does-mesothelioma-do-to-the-lungs/)
 
-[![What types of cancer are caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-types-of-cancer-are-caused-by-asbestos.jpg "What Types of Cancer Are Caused by Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/types-of-cancer-caused-by-asbestos "What Types of Cancer Are Caused by Asbestos?")
+[![What cancers are caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-cancers-are-caused-by-asbestos.jpg "What Cancers Are Caused By Asbestos?")](https://www.pintas.com/lung-cancer/how-do-you-test-for-asbestos-in-the-lungs/ "What Cancers Are Caused By Asbestos?")
 
-[#### What Types of Cancer Are Caused by Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/types-of-cancer-caused-by-asbestos)
+[#### What Cancers Are Caused By Asbestos?](https://www.pintas.com/lung-cancer/how-do-you-test-for-asbestos-in-the-lungs/)
 
 ### Injured?  
 Tell Us What Happened.
