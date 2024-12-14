@@ -183,7 +183,7 @@ This agreement shall be governed by and interpreted and enforced in accordance w
 * [Legal (9)](https://www.iplocation.net/blog/category/legal)
 * [Lifestyle (22)](https://www.iplocation.net/blog/category/lifestyle)
 * [Parenting (2)](https://www.iplocation.net/blog/category/parenting)
-* [Network (93)](https://www.iplocation.net/blog/category/network)
+* [Network (94)](https://www.iplocation.net/blog/category/network)
 * [Online Resources (13)](https://www.iplocation.net/blog/category/online-resources)
 * [Online Tools (79)](https://www.iplocation.net/blog/category/online-tools)
 * [Privacy (137)](https://www.iplocation.net/blog/category/privacy)
