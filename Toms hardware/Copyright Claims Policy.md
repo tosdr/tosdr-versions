@@ -100,7 +100,7 @@
 
 * TRENDING:
 * [GeForce RTX 50 Series](https://hothardware.com/tags/geforce-rtx-50-series)
-* [Arc Battlemage](https://hothardware.com/reviews/intel-arc-b580-debut-battlemage-discrete-gpus-arrive)
+* [Arc B580 Battlemage](https://hothardware.com/reviews/intel-arc-b580-battlemage-gpu-review)
 * [ASUS ROG Phone 9](https://hothardware.com/reviews/asus-rog-phone-9-pro-review)
 * [AMD Ryzen 7 9800X3D](https://hothardware.com/reviews/amd-ryzen-7-9800x3d-processor-review)
 * [Snapdragon 8 Elite](https://hothardware.com/news/qualcomm-snapdragon-8-elite-oryon-for-phones)
