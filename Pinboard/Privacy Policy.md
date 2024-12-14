@@ -1,4 +1,4 @@
-Notice (Dec 4): big code cleanup underway; please report any buggy behavior to [support@pinboard.in](mailto:support@pinboard.in)
+Notice (Dec 13): code cleanup continues; please keep reporting bugs to [support@pinboard.in](mailto:support@pinboard.in)
 
  [![](/blue-pin.png)](https://pinboard.in/recent)[Pinboard](https://pinboard.in/) [🎁](https://pinboard.in/privacy/gift)
 
