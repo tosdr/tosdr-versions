@@ -27,8 +27,6 @@ Update
 
 Check Out
 
-[FREE SHIPPING ON ORDERS OVER $100!](https://estesrockets.com/collections/rockets)
-
           
 
 * [New Arrivals](https://estesrockets.com/collections/new)
