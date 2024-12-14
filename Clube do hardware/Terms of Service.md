@@ -109,7 +109,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_855820107_menu)
+ [Compartilhar](#elShareItem_45247635_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -304,7 +304,7 @@ As regras do Clube do Hardware poderão ser atualizadas periodicamente, sem avis
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_880831773_menu)
+ [Compartilhar](#elShareItem_1444391645_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -347,25 +347,95 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![ViFe](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47a62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")
+    * [![leleo9](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257922.thumb.png.c6ddf64c6c7da5576c7ff2310364326f.png)](https://www.clubedohardware.com.br/profile/1257922-leleo9/ "Ir ao perfil de leleo9")
         
         0
+        
+        [ARGB b450m Steel legend não fica somente de 1 cor](https://www.clubedohardware.com.br/forums/topic/1705513-argb-b450m-steel-legend-n%C3%A3o-fica-somente-de-1-cor/?do=getNewComment "ARGB b450m Steel legend não fica somente de 1 cor")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [leleo9](https://www.clubedohardware.com.br/profile/1257922-leleo9/ "Ir ao perfil de leleo9")  
+        12 minutos atrás
+        
+    * [![RM30](https://www.clubedohardware.com.br/uploads/members/monthly_2021_09/317328653_Snoopy5kb.thumb.png.1c6696b8fd313f7633fd81cb656be988.png)](https://www.clubedohardware.com.br/profile/1172064-rm30/ "Ir ao perfil de RM30")
+        
+        1
+        
+        [O Windows 11 24H2 ficou mais rápido em pc antigo?](https://www.clubedohardware.com.br/forums/topic/1705512-o-windows-11-24h2-ficou-mais-r%C3%A1pido-em-pc-antigo/?do=getNewComment "O Windows 11 24H2 ficou mais rápido em pc antigo?")
+        
+        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
+        Por [RM30](https://www.clubedohardware.com.br/profile/1172064-rm30/ "Ir ao perfil de RM30")  
+        19 minutos atrás
+        
+    * [![Destiny](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257920.thumb.png.18ef01544d5698542d9e3b06db920a78.png)](https://www.clubedohardware.com.br/profile/1257920-destiny/ "Ir ao perfil de Destiny")
+        
+        0
+        
+        [Autoclave Cristofoli Vitale Class](https://www.clubedohardware.com.br/forums/topic/1705511-autoclave-cristofoli-vitale-class/?do=getNewComment "Autoclave Cristofoli Vitale Class")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [Destiny](https://www.clubedohardware.com.br/profile/1257920-destiny/ "Ir ao perfil de Destiny")  
+        38 minutos atrás
+        
+    * [![De Los Santos](https://www.clubedohardware.com.br/uploads/members/monthly_2018_12/gstq.thumb.jpg.427b08c5efadafb6e15359e5d9195450.jpg)](https://www.clubedohardware.com.br/profile/286180-de-los-santos/ "Ir ao perfil de De Los Santos")
+        
+        0
+        
+        [Detectar e corrigir arquivos corrompidos no Ubuntu](https://www.clubedohardware.com.br/forums/topic/1705510-detectar-e-corrigir-arquivos-corrompidos-no-ubuntu/?do=getNewComment "Detectar e corrigir arquivos corrompidos no Ubuntu")
+        
+        [Linux](https://www.clubedohardware.com.br/forums/forum/102-linux/ "Linux")  
+        Por [De Los Santos](https://www.clubedohardware.com.br/profile/286180-de-los-santos/ "Ir ao perfil de De Los Santos")  
+        1 hora atrás
+        
+    * [![D4RKZXS](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1228671.thumb.jpeg.a7382adac35b886664cc60825ac1abfb.jpeg)](https://www.clubedohardware.com.br/profile/1228671-d4rkzxs/ "Ir ao perfil de D4RKZXS")
+        
+        2
+        
+        [Queria uma opinião sobre peças pra um upgrade](https://www.clubedohardware.com.br/forums/topic/1705509-queria-uma-opini%C3%A3o-sobre-pe%C3%A7as-pra-um-upgrade/?do=getNewComment "Queria uma opinião sobre peças pra um upgrade")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [D4RKZXS](https://www.clubedohardware.com.br/profile/1228671-d4rkzxs/ "Ir ao perfil de D4RKZXS")  
+        1 hora atrás
+        
+    * [![Mesaque Diogo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/7c69a990f18fff98cc4ff325b8e4ca19.jpg.88f09898d917cf673aa3ed928137cea7.jpg)](https://www.clubedohardware.com.br/profile/1257916-mesaque-diogo/ "Ir ao perfil de Mesaque Diogo")
+        
+        2
+        
+        [Fonte embaixo, ou em cima no gabinete?](https://www.clubedohardware.com.br/forums/topic/1705508-fonte-embaixo-ou-em-cima-no-gabinete/?do=getNewComment "Fonte embaixo, ou em cima no gabinete?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Mesaque Diogo](https://www.clubedohardware.com.br/profile/1257916-mesaque-diogo/ "Ir ao perfil de Mesaque Diogo")  
+        1 hora atrás
+        
+    * [![Hebertsant](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257914.thumb.jpeg.1684c4fcc70177836182a3ef1fb040e9.jpeg)](https://www.clubedohardware.com.br/profile/1257914-hebertsant/ "Ir ao perfil de Hebertsant")
+        
+        0
+        
+        [Sinal do Wi-Fi sumiu](https://www.clubedohardware.com.br/forums/topic/1705507-sinal-do-wi-fi-sumiu/?do=getNewComment "Sinal do Wi-Fi sumiu")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [Hebertsant](https://www.clubedohardware.com.br/profile/1257914-hebertsant/ "Ir ao perfil de Hebertsant")  
+        4 horas atrás
+        
+    * [![ViFe](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47a62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")
+        
+        1
         
         [Montagem am5 (mais barato possível).](https://www.clubedohardware.com.br/forums/topic/1705506-montagem-am5-mais-barato-poss%C3%ADvel/?do=getNewComment "Montagem am5 (mais barato possível).")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
         Por [ViFe](https://www.clubedohardware.com.br/profile/1247837-vife/ "Ir ao perfil de ViFe")  
-        7 minutos atrás
+        6 horas atrás
         
     * [![DanielRodrigo](https://www.clubedohardware.com.br/uploads/members/monthly_2020_01/x-small.thumb.png.129edd2db94365428c542d6b9c53477e.png)](https://www.clubedohardware.com.br/profile/381711-danielrodrigo/ "Ir ao perfil de DanielRodrigo")
         
-        0
+        1
         
         [Preciso de mais uma porta USB na placa-mãe - qual a melhor opcao?](https://www.clubedohardware.com.br/forums/topic/1705505-preciso-de-mais-uma-porta-usb-na-placa-m%C3%A3e-qual-a-melhor-opcao/?do=getNewComment "Preciso de mais uma porta USB na placa-mãe - qual a melhor opcao?")
         
         [Periféricos - outros](https://www.clubedohardware.com.br/forums/forum/280-perif%C3%A9ricos-outros/ "Periféricos - outros")  
         Por [DanielRodrigo](https://www.clubedohardware.com.br/profile/381711-danielrodrigo/ "Ir ao perfil de DanielRodrigo")  
-        19 minutos atrás
+        6 horas atrás
         
     * [![GonmaBr](https://www.clubedohardware.com.br/uploads/members/monthly_2021_01/imported-photo-1138540.thumb.png.6fe9ba66a5710e241cb1fb21fd9c7aff.png)](https://www.clubedohardware.com.br/profile/1138540-gonmabr/ "Ir ao perfil de GonmaBr")
         
@@ -375,77 +445,7 @@ Mais opções...
         
         [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
         Por [GonmaBr](https://www.clubedohardware.com.br/profile/1138540-gonmabr/ "Ir ao perfil de GonmaBr")  
-        58 minutos atrás
-        
-    * [![Kevinfrc](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254716.thumb.jpeg.1855a18f2f7baff26827f63833ed1502.jpeg)](https://www.clubedohardware.com.br/profile/1254716-kevinfrc/ "Ir ao perfil de Kevinfrc")
-        
-        1
-        
-        [Mancer Thunder 600W suporta setup com Core i5-13400F e GeForce RTX 4060?](https://www.clubedohardware.com.br/forums/topic/1705502-mancer-thunder-600w-suporta-setup-com-core-i5-13400f-e-geforce-rtx-4060/?do=getNewComment "Mancer Thunder 600W suporta setup com Core i5-13400F e GeForce RTX 4060?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Kevinfrc](https://www.clubedohardware.com.br/profile/1254716-kevinfrc/ "Ir ao perfil de Kevinfrc")  
-        2 horas atrás
-        
-    * [![Jhon. Carcalho](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/images(5).thumb.jpeg.2e82232649900570860b7c73c4456f03.jpeg)](https://www.clubedohardware.com.br/profile/1036700-jhon-carcalho/ "Ir ao perfil de Jhon. Carcalho")
-        
-        2
-        
-        [Qual placa de vídeo indicam para PC com Core i5-9400F?](https://www.clubedohardware.com.br/forums/topic/1705500-qual-placa-de-v%C3%ADdeo-indicam-para-pc-com-core-i5-9400f/?do=getNewComment "Qual placa de vídeo indicam para PC com Core i5-9400F?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Jhon. Carcalho](https://www.clubedohardware.com.br/profile/1036700-jhon-carcalho/ "Ir ao perfil de Jhon. Carcalho")  
-        2 horas atrás
-        
-    * [![Talvez nao](https://www.clubedohardware.com.br/uploads/members/monthly_2022_11/imported-photo-1207292.thumb.png.38319ef150854280366156501109bb43.png)](https://www.clubedohardware.com.br/profile/1207292-talvez-nao/ "Ir ao perfil de Talvez nao")
-        
-        3
-        
-        [Pc reinicia sozinho, não instala o Windows, reparo automático direto](https://www.clubedohardware.com.br/forums/topic/1705499-pc-reinicia-sozinho-n%C3%A3o-instala-o-windows-reparo-autom%C3%A1tico-direto/?do=getNewComment "Pc reinicia sozinho, não instala o Windows, reparo automático direto")
-        
-        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
-        Por [Talvez nao](https://www.clubedohardware.com.br/profile/1207292-talvez-nao/ "Ir ao perfil de Talvez nao")  
-        2 horas atrás
-        
-    * [![bikas](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4627e%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255677-bikas/ "Ir ao perfil de bikas")
-        
-        7
-        
-        [Fonte Cooler Master MWE V2 550W desarmando depois de um tempo, é defeito?](https://www.clubedohardware.com.br/forums/topic/1705498-fonte-cooler-master-mwe-v2-550w-desarmando-depois-de-um-tempo-%C3%A9-defeito/?do=getNewComment "Fonte Cooler Master MWE V2 550W desarmando depois de um tempo, é defeito?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [bikas](https://www.clubedohardware.com.br/profile/1255677-bikas/ "Ir ao perfil de bikas")  
-        2 horas atrás
-        
-    * [![Geru](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/8c744003634c653cc63ba6303b6ac944.thumb.jpg.87f6bbbf25aaefb1f6bef934a3f8d7bc.jpg)](https://www.clubedohardware.com.br/profile/1257912-geru/ "Ir ao perfil de Geru")
-        
-        4
-        
-        [Ryzen 7 5800x 60 graus com deepcool LE500?](https://www.clubedohardware.com.br/forums/topic/1705497-ryzen-7-5800x-60-graus-com-deepcool-le500/?do=getNewComment "Ryzen 7 5800x 60 graus com deepcool LE500?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Geru](https://www.clubedohardware.com.br/profile/1257912-geru/ "Ir ao perfil de Geru")  
-        2 horas atrás
-        
-    * [![Lucas Machado Barbosa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257846.thumb.png.4d92e1e38b412d85a2f8159bfb7a0925.png)](https://www.clubedohardware.com.br/profile/1257846-lucas-machado-barbosa/ "Ir ao perfil de Lucas Machado Barbosa")
-        
-        0
-        
-        [PC full custom da terabyte com serviço de montagem](https://www.clubedohardware.com.br/forums/topic/1705496-pc-full-custom-da-terabyte-com-servi%C3%A7o-de-montagem/?do=getNewComment "PC full custom da terabyte com serviço de montagem")
-        
-        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
-        Por [Lucas Machado Barbosa](https://www.clubedohardware.com.br/profile/1257846-lucas-machado-barbosa/ "Ir ao perfil de Lucas Machado Barbosa")  
-        3 horas atrás
-        
-    * [![Charles Formagio](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256354.thumb.png.e4eaefe60dec88c3889197c2760b94dc.png)](https://www.clubedohardware.com.br/profile/1256354-charles-formagio/ "Ir ao perfil de Charles Formagio")
-        
-        2
-        
-        [BIOS placa-mãe GA-970A-DS3P REV 2.1](https://www.clubedohardware.com.br/forums/topic/1705495-bios-placa-m%C3%A3e-ga-970a-ds3p-rev-21/?do=getNewComment "BIOS placa-mãe GA-970A-DS3P REV 2.1")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Charles Formagio](https://www.clubedohardware.com.br/profile/1256354-charles-formagio/ "Ir ao perfil de Charles Formagio")  
-        3 horas atrás
+        6 horas atrás
         
     
 
@@ -605,5 +605,11 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 [×](#)
 
 * Criar novo...
+
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+
+**EBOOK GRÁTIS!**
+
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&cd%5Bitem_id%5D=690576&cd%5Bitem_name%5D=Regras+do+Clube+do+Hardware&cd%5Bitem_type%5D=topic&cd%5Bcategory_name%5D=Avisos da administração)
