@@ -257,19 +257,19 @@ Advertise with Us
 
 Most Popular
 
-[![PICTURES: Doireann Garrihy's husband Mark shares intimate snaps of wedding and honeymoon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Doireann Garrihy's husband Mark shares intimate snaps of wedding and honeymoon")](https://www.derrynow.com/news/national-news/1679801/pictures-doireann-garrihy-s-husband-mark-shares-intimate-snaps-of-wedding-and-honeymoon.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[PICTURES: Doireann Garrihy's husband Mark shares intimate snaps of wedding and honeymoon](https://www.derrynow.com/news/national-news/1679801/pictures-doireann-garrihy-s-husband-mark-shares-intimate-snaps-of-wedding-and-honeymoon.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: Ulster University Winter Graduations from Coleraine campus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Ulster University Winter Graduations from Coleraine campus")](https://www.derrynow.com/story-telling/pictures---videos/1680219/in-pictures-ulster-university-winter-graduations-from-coleraine-campus.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
 [IN PICTURES: Ulster University Winter Graduations from Coleraine campus](https://www.derrynow.com/story-telling/pictures---videos/1680219/in-pictures-ulster-university-winter-graduations-from-coleraine-campus.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Dancing with the Stars: Line-up almost complete with five celebs revealed on Late Late Show](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dancing with the Stars: Line-up almost complete with five celebs revealed on Late Late Show")](https://www.derrynow.com/news/arts---entertainment/1680172/dancing-with-the-stars-line-up-almost-complete-with-five-celebs-revealed-on-late-late-show.html)
+
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+
+[Dancing with the Stars: Line-up almost complete with five celebs revealed on Late Late Show](https://www.derrynow.com/news/arts---entertainment/1680172/dancing-with-the-stars-line-up-almost-complete-with-five-celebs-revealed-on-late-late-show.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man with 192 previous convictions jailed for sexually assaulting a 17-year-old Good Samaritan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man with 192 previous convictions jailed for sexually assaulting a 17-year-old Good Samaritan")](https://www.derrynow.com/news/local-news/1679878/man-with-192-previous-convictions-jailed-for-sexually-assaulting-a-17-year-old-good-samaritan.html)
 
@@ -289,13 +289,6 @@ Derry City Cemetery
 [Woman fined and man jailed after 'bizarre' incident where couple entered Derry City Cemetery at 3am](https://www.derrynow.com/news/local-news/1679856/woman-fined-and-man-jailed-after-bizarre-incident-where-couple-entered-derry-city-cemetery-at-3am.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Dancing with the Stars: Line-up almost complete with five celebs revealed on Late Late Show](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dancing with the Stars: Line-up almost complete with five celebs revealed on Late Late Show")](https://www.derrynow.com/news/arts---entertainment/1680172/dancing-with-the-stars-line-up-almost-complete-with-five-celebs-revealed-on-late-late-show.html)
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[Dancing with the Stars: Line-up almost complete with five celebs revealed on Late Late Show](https://www.derrynow.com/news/arts---entertainment/1680172/dancing-with-the-stars-line-up-almost-complete-with-five-celebs-revealed-on-late-late-show.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![James Meehan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "James Meehan")](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
 
 James Meehan
@@ -305,21 +298,19 @@ James Meehan
 [James Meehan: Convicted murder unlawfully at large as PSNI warns public not to approach](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Donegal motorists caught driving on wrong side of dual carriageway while drunk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal motorists caught driving on wrong side of dual carriageway while drunk")](https://www.derrynow.com/news/local-news/1679847/donegal-motorists-caught-driving-on-wrong-side-of-dual-carriageway-while-drunk.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Donegal motorists caught driving on wrong side of dual carriageway while drunk](https://www.derrynow.com/news/local-news/1679847/donegal-motorists-caught-driving-on-wrong-side-of-dual-carriageway-while-drunk.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry woman jailed for series of offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman jailed for series of offences")](https://www.derrynow.com/news/local-news/1680138/derry-woman-jailed-for-series-of-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Derry woman jailed for series of offences](https://www.derrynow.com/news/local-news/1680138/derry-woman-jailed-for-series-of-offences.html)
 --------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1680146/derry-death-notices-saturday-december-14-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, December 14, 2024](https://www.derrynow.com/news/deaths/1680146/derry-death-notices-saturday-december-14-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Suspected imitation firearm and quantity of suspected drugs seized in Derry INLA probe](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspected imitation firearm and quantity of suspected drugs seized in Derry INLA probe")](https://www.derrynow.com/news/local-news/1680358/suspected-imitation-firearm-and-quantity-of-suspected-drugs-seized-in-derry-inla-probe.html)
 
@@ -329,6 +320,15 @@ PSNI
 
 [Suspected imitation firearm and quantity of suspected drugs seized in Derry INLA probe](https://www.derrynow.com/news/local-news/1680358/suspected-imitation-firearm-and-quantity-of-suspected-drugs-seized-in-derry-inla-probe.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Donegal motorists caught driving on wrong side of dual carriageway while drunk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal motorists caught driving on wrong side of dual carriageway while drunk")](https://www.derrynow.com/news/local-news/1679847/donegal-motorists-caught-driving-on-wrong-side-of-dual-carriageway-while-drunk.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Donegal motorists caught driving on wrong side of dual carriageway while drunk](https://www.derrynow.com/news/local-news/1679847/donegal-motorists-caught-driving-on-wrong-side-of-dual-carriageway-while-drunk.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man due to appear before court charged with possession of explosives](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man due to appear before court charged with possession of explosives")](https://www.derrynow.com/news/home/1680331/man-due-to-appear-before-court-charged-with-possession-of-explosives.html)
 
@@ -515,14 +515,30 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1680146/derry-death-notices-saturday-december-14-2024.html)
+[![Derry City's Cate Toland interviewed by Brendan McGilligan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City's Cate Toland interviewed by Brendan McGilligan")](https://www.derrynow.com/video/derry-sport/1680673/the-trajectory-of-the-derry-city-womens-team-is-brilliant-according-to-defender-cate-toland.html)
+
+Derry City's Cate Toland interviewed by Brendan McGilligan
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[The trajectory of the Derry City women’s team is ‘brilliant’ according to defender Cate Toland](https://www.derrynow.com/video/derry-sport/1680673/the-trajectory-of-the-derry-city-womens-team-is-brilliant-according-to-defender-cate-toland.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![NI Science Festival reveals blooming great programme for 2025](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NI Science Festival reveals blooming great programme for 2025")](https://www.derrynow.com/news/local-news/1680111/ni-science-festival-reveals-blooming-great-programme-for-2025.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[NI Science Festival reveals blooming great programme for 2025](https://www.derrynow.com/news/local-news/1680111/ni-science-festival-reveals-blooming-great-programme-for-2025.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1680146/derry-death-notices-saturday-december-14-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Saturday, December 14, 2024](https://www.derrynow.com/news/deaths/1680146/derry-death-notices-saturday-december-14-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![James Meehan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "James Meehan")](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
+[![James Meehan](https://www.derrynow.com/resizer/165/93/true/2024_12_13/James_Meehan-1734115845967.jpg--.jpg?1734115846035 "James Meehan")](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
 
 James Meehan
 
@@ -546,22 +562,6 @@ Co-founders Brian Ash and Jim Nash.
 
 [Derry woman jailed for series of offences](https://www.derrynow.com/news/local-news/1680138/derry-woman-jailed-for-series-of-offences.html)
 --------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspected imitation firearm and quantity of suspected drugs seized in Derry INLA probe](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Suspected imitation firearm and quantity of suspected drugs seized in Derry INLA probe")](https://www.derrynow.com/news/local-news/1680358/suspected-imitation-firearm-and-quantity-of-suspected-drugs-seized-in-derry-inla-probe.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Suspected imitation firearm and quantity of suspected drugs seized in Derry INLA probe](https://www.derrynow.com/news/local-news/1680358/suspected-imitation-firearm-and-quantity-of-suspected-drugs-seized-in-derry-inla-probe.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![NW Transport Hub to host Christmas Food and Craft Market this weekend](https://www.derrynow.com/resizer/165/93/true/2024_12_13/NWHubMarket2611243-1734100713375.jpg--.jpg?1734100716543 "NW Transport Hub to host Christmas Food and Craft Market this weekend")](https://www.derrynow.com/news/local-news/1680106/nw-transport-hub-to-host-christmas-food-and-craft-market-this-weekend.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[NW Transport Hub to host Christmas Food and Craft Market this weekend](https://www.derrynow.com/news/local-news/1680106/nw-transport-hub-to-host-christmas-food-and-craft-market-this-weekend.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
