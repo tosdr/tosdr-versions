@@ -74,16 +74,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [Robert Reich predicted the death of the US middle class 30 years ago. We asked him how to save it.](https://therealnews.com/robert-reich-predicted-the-death-of-the-us-middle-class)
 * [Alabama prisoners sued to stop forced labor—a court dismissed their case](https://therealnews.com/alabama-prisoners-sued-to-stop-forced-labor-a-court-dismissed-their-case)
 * ['We are destroying entire worlds': A West Bank rabbi's fight against Israeli Occupation](https://therealnews.com/we-are-destroying-entire-worlds-a-west-bank-rabbis-fight-against-israeli-occupation)
+* [Robert Reich predicted the death of the US middle class 30 years ago. We asked him how to save it.](https://therealnews.com/robert-reich-predicted-the-death-of-the-us-middle-class)
 * [Deny, Defend, Depose: Elites recoil at public support for UnitedHealthcare CEO assassin](https://therealnews.com/deny-defend-depose-unitedhealthcare-ceo-killed)
 * [Assad government falls after nearly 14 years of civil war as rebels seize capital](https://therealnews.com/assad-government-falls-after-nearly-14-years-of-civil-war-as-rebels-seize-capital)
+* [‘Everytime we come back, we all get sick’: GA residents affected by September BioLab fire are still going through hell](https://therealnews.com/ga-residents-affected-by-september-biolab-fire-are-still-going-through-hell)
 * [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
-* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
+* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
 * [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
-* [Shattering the myth of Rosa Parks reveals the civil rights movement's true history](https://therealnews.com/rosa-parks-myth-civil-rights-movement-history)
 
 Close
 
@@ -138,16 +138,16 @@ Follow Us
 Trending Posts
 --------------
 
-* [Robert Reich predicted the death of the US middle class 30 years ago. We asked him how to save it.](https://therealnews.com/robert-reich-predicted-the-death-of-the-us-middle-class)
 * [Alabama prisoners sued to stop forced labor—a court dismissed their case](https://therealnews.com/alabama-prisoners-sued-to-stop-forced-labor-a-court-dismissed-their-case)
 * ['We are destroying entire worlds': A West Bank rabbi's fight against Israeli Occupation](https://therealnews.com/we-are-destroying-entire-worlds-a-west-bank-rabbis-fight-against-israeli-occupation)
+* [Robert Reich predicted the death of the US middle class 30 years ago. We asked him how to save it.](https://therealnews.com/robert-reich-predicted-the-death-of-the-us-middle-class)
 * [Deny, Defend, Depose: Elites recoil at public support for UnitedHealthcare CEO assassin](https://therealnews.com/deny-defend-depose-unitedhealthcare-ceo-killed)
 * [Assad government falls after nearly 14 years of civil war as rebels seize capital](https://therealnews.com/assad-government-falls-after-nearly-14-years-of-civil-war-as-rebels-seize-capital)
+* [‘Everytime we come back, we all get sick’: GA residents affected by September BioLab fire are still going through hell](https://therealnews.com/ga-residents-affected-by-september-biolab-fire-are-still-going-through-hell)
 * [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
-* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
+* [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
 * [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
-* [Shattering the myth of Rosa Parks reveals the civil rights movement's true history](https://therealnews.com/rosa-parks-myth-civil-rights-movement-history)
 
 [Skip to content](#main)
 
