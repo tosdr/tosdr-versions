@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![25 Facts About Ganoderenic Acid ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2286%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/25-facts-about-ganoderenic-acid/)
+[![40 Facts About Peter Kay ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/40-facts-about-peter-kay/)
 
-Chemistry
+Celebrity
 
-13 Dec 2024
+14 Dec 2024
 
-[25 Facts About Ganoderenic Acid](https://facts.net/science/chemistry/25-facts-about-ganoderenic-acid/)
+[40 Facts About Peter Kay](https://facts.net/celebrity/40-facts-about-peter-kay/)
 
-[![50 Facts About Ted Turner ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22103%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/50-facts-about-ted-turner/)
+[![50 Facts About Quentin Johnston ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-quentin-johnston/)
 
-People
+Celebrity
 
-13 Dec 2024
+14 Dec 2024
 
-[50 Facts About Ted Turner](https://facts.net/history/people/50-facts-about-ted-turner/)
+[50 Facts About Quentin Johnston](https://facts.net/celebrity/50-facts-about-quentin-johnston/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
