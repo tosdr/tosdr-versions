@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
-* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
-* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
-* [Seit 2020 auf Warn­liste: Deutsche Edel­fisch stellt Insolvenz­antrag](https://www.test.de/Seit-2020-auf-Warnliste-Deutsche-Edelfisch-stellt-Insolvenzantrag-6167404-0/ "Seit 2020 auf Warnliste - Deutsche Edelfisch stellt Insolvenzantrag")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
+* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
+* [Äxte im Test: Von Profi-Hackern empfohlen](https://www.test.de/Aexte-im-Test-Von-Profi-Hackern-empfohlen-6124387-0/ "Äxte im Test - Von Profi-Hackern empfohlen")
+* [Zertifikate: Diese Zins­papiere sollten Sie meiden](https://www.test.de/Zertifikate-Hier-gewinnt-immer-die-Bank-Diese-Zinspapiere-sollten-Sie-meiden-6167192-0/ "Zertifikate - Diese Zinspapiere sollten Sie meiden")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
-* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
-* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
-* [Seit 2020 auf Warn­liste: Deutsche Edel­fisch stellt Insolvenz­antrag](https://www.test.de/Seit-2020-auf-Warnliste-Deutsche-Edelfisch-stellt-Insolvenzantrag-6167404-0/ "Seit 2020 auf Warnliste - Deutsche Edelfisch stellt Insolvenzantrag")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
+* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
+* [Äxte im Test: Von Profi-Hackern empfohlen](https://www.test.de/Aexte-im-Test-Von-Profi-Hackern-empfohlen-6124387-0/ "Äxte im Test - Von Profi-Hackern empfohlen")
+* [Zertifikate: Diese Zins­papiere sollten Sie meiden](https://www.test.de/Zertifikate-Hier-gewinnt-immer-die-Bank-Diese-Zinspapiere-sollten-Sie-meiden-6167192-0/ "Zertifikate - Diese Zinspapiere sollten Sie meiden")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
-* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
-* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
-* [Seit 2020 auf Warn­liste: Deutsche Edel­fisch stellt Insolvenz­antrag](https://www.test.de/Seit-2020-auf-Warnliste-Deutsche-Edelfisch-stellt-Insolvenzantrag-6167404-0/ "Seit 2020 auf Warnliste - Deutsche Edelfisch stellt Insolvenzantrag")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
+* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
+* [Äxte im Test: Von Profi-Hackern empfohlen](https://www.test.de/Aexte-im-Test-Von-Profi-Hackern-empfohlen-6124387-0/ "Äxte im Test - Von Profi-Hackern empfohlen")
+* [Zertifikate: Diese Zins­papiere sollten Sie meiden](https://www.test.de/Zertifikate-Hier-gewinnt-immer-die-Bank-Diese-Zinspapiere-sollten-Sie-meiden-6167192-0/ "Zertifikate - Diese Zinspapiere sollten Sie meiden")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Rück­ruf Babboe-Lastenfahr­räder: Nun auch Slim Mountain betroffen](https://www.test.de/Lastenfahrraeder-von-Babboe-Verkaufsstopp-und-Rueckruf-wegen-Rahmenbruechen-6098753-0/ "Rückruf Babboe-Lastenfahrräder - Nun auch Slim Mountain betroffen")
-* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
-* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
-* [Drucker: Aus für HP-Laser mit Online-Zwang](https://www.test.de/Drucker-Aus-fuer-HP-Laser-mit-Online-Zwang-6136003-0/ "Drucker - Aus für HP-Laser mit Online-Zwang")
-* [Seit 2020 auf Warn­liste: Deutsche Edel­fisch stellt Insolvenz­antrag](https://www.test.de/Seit-2020-auf-Warnliste-Deutsche-Edelfisch-stellt-Insolvenzantrag-6167404-0/ "Seit 2020 auf Warnliste - Deutsche Edelfisch stellt Insolvenzantrag")
-* [Ganz­jahres­reifen im Test: Die besten Reifen für jedes Wetter](https://www.test.de/Die-besten-Ganzjahresreifen-5391687-0/ "Ganzjahresreifen im Test - Die besten Reifen für jedes Wetter")
+* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
+* [Organe spenden: Ja oder Nein zur Organspende online registrieren – so gehts](https://www.test.de/Organspende-Leben-auf-der-Warteliste-5964986-0/ "Organe spenden - Ja oder Nein zur Organspende online registrieren – so gehts")
+* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
+* [Chinas Aktienmärkte: Welche Chancen es für Anleger in China gibt – und welche Risiken](https://www.test.de/Chinas-Aktienmaerkte-Chancen-und-Risiken-fuer-Anleger-im-Reich-der-Mitte-6147094-0/ "Chinas Aktienmärkte - Welche Chancen es für Anleger in China gibt – und welche Risiken")
+* [Äxte im Test: Von Profi-Hackern empfohlen](https://www.test.de/Aexte-im-Test-Von-Profi-Hackern-empfohlen-6124387-0/ "Äxte im Test - Von Profi-Hackern empfohlen")
+* [Zertifikate: Diese Zins­papiere sollten Sie meiden](https://www.test.de/Zertifikate-Hier-gewinnt-immer-die-Bank-Diese-Zinspapiere-sollten-Sie-meiden-6167192-0/ "Zertifikate - Diese Zinspapiere sollten Sie meiden")
 
 Stiftung Warentest
 
