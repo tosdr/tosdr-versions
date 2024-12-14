@@ -136,14 +136,6 @@
 
 [Председатель партии](https://er.ru/persons/predsedatel-partii)
 
-[Бюро Высшего совета](https://er.ru/persons/byuro-vyssego-soveta)
-
-[Высший совет](https://er.ru/persons/vyssii-sovet)
-
-[Президиум Генерального совета](https://er.ru/persons/prezidium-generalnogo-soveta)
-
-[Генеральный совет](https://er.ru/persons/generalnyi-sovet)
-
 [Центральная контрольная комиссия партии](https://er.ru/persons/centralnaya-kontrolnaya-komissiya-partii)
 
 [Центральный исполнительный комитет партии](https://er.ru/persons/centralnyi-ispolnitelnyi-komitet-partii)
@@ -299,53 +291,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Александр Дрозденко, секретарь реготделения «Единой России», губернатор Ленобласти: Достаточно посмотреть на дела, которые говорят сами за себя, и здесь «Единая Россия» — вне конкуренции](https://cdn.er.ru/img/stubs/small/3.jpg)](https://er.ru/activity/news/aleksandr-drozdenko-sekretar-regotdeleniya-edinoj-rossii-gubernator-lenoblasti-dostatochno-posmotret-na-dela-kotorye-govoryat-sami-za-sebya-i-zdes-edinaya-rossiya-vne-konkurencii)
+[![Владимир Якушев избран секретарём Генсовета «Единой России»](https://cdn.er.ru/media/news/December2024/pDIC1VNZGnuEg85JtWJo-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-izbran-sekretaryom-gensoveta-edinoj-rossii)
 
-[Александр Дрозденко, секретарь реготделения «Единой России», губернатор Ленобласти: Достаточно посмотреть на дела, которые говорят сами за себя, и здесь «Единая Россия» — вне конкуренции](https://er.ru/activity/news/aleksandr-drozdenko-sekretar-regotdeleniya-edinoj-rossii-gubernator-lenoblasti-dostatochno-posmotret-na-dela-kotorye-govoryat-sami-za-sebya-i-zdes-edinaya-rossiya-vne-konkurencii)
+[Владимир Якушев избран секретарём Генсовета «Единой России»](https://er.ru/activity/news/vladimir-yakushev-izbran-sekretaryom-gensoveta-edinoj-rossii)
 
-[#Дрозденко](https://er.ru/activity/news?tags%5B0%5D=19558) [#Ленинградская область](https://er.ru/activity/news?tags%5B0%5D=1669) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#секретарьгенсовета](https://er.ru/activity/news?tags%5B0%5D=111802) [#ГенсоветЕР](https://er.ru/activity/news?tags%5B0%5D=144794)
 
-Сегодня 12:55
+Сегодня 18:34
 
-[![Александр Тихонов, участник СВО: Ветераны специальной военной операции активно вступают в «Единую Россию»](https://cdn.er.ru/img/stubs/small/6.jpg)](https://er.ru/activity/news/aleksandr-tihonov-uchastnik-svo-veterany-specialnoj-voennoj-operacii-aktivno-vstupayut-v-edinuyu-rossiyu)
+[![«Единая Россия» внесла изменения в народную программу партии](https://cdn.er.ru/media/news/December2024/mjF4ghSQD3d7MXVskDQH-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-izmeneniya-v-narodnuyu-programmu-partii)
 
-[Александр Тихонов, участник СВО: Ветераны специальной военной операции активно вступают в «Единую Россию»](https://er.ru/activity/news/aleksandr-tihonov-uchastnik-svo-veterany-specialnoj-voennoj-operacii-aktivno-vstupayut-v-edinuyu-rossiyu)
+[«Единая Россия» внесла изменения в народную программу партии](https://er.ru/activity/news/edinaya-rossiya-vnesla-izmeneniya-v-narodnuyu-programmu-partii)
 
-[#Тихонов](https://er.ru/activity/news?tags%5B0%5D=4833) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629)
+[#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
-Сегодня 12:48
+Сегодня 17:59
 
-[![Игорь Ляхов, секретарь Смоленского реготделения «Единой России»: Задачи «Единой России» в Смоленской области – продолжать реализацию народной программы](https://cdn.er.ru/img/stubs/small/4.jpg)](https://er.ru/activity/news/igor-lyahov-sekretar-smolenskogo-regotdeleniya-edinoj-rossii-zadachi-edinoj-rossii-v-smolenskoj-oblasti-prodolzhat-realizaciyu-narodnoj-programmy)
+[![«Единая Россия» на Съезде обновила состав Генерального совета](https://cdn.er.ru/media/news/December2024/5JKZKbOd9JMCN41Juim7-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-na-sezde-obnovila-sostav-generalnogo-soveta)
 
-[Игорь Ляхов, секретарь Смоленского реготделения «Единой России»: Задачи «Единой России» в Смоленской области – продолжать реализацию народной программы](https://er.ru/activity/news/igor-lyahov-sekretar-smolenskogo-regotdeleniya-edinoj-rossii-zadachi-edinoj-rossii-v-smolenskoj-oblasti-prodolzhat-realizaciyu-narodnoj-programmy)
+[«Единая Россия» на Съезде обновила состав Генерального совета](https://er.ru/activity/news/edinaya-rossiya-na-sezde-obnovila-sostav-generalnogo-soveta)
 
-[#Ляхов](https://er.ru/activity/news?tags%5B0%5D=2151) [#Смоленская область](https://er.ru/activity/news?tags%5B0%5D=285) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584)
+[#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#ротация](https://er.ru/activity/news?tags%5B0%5D=1628) [#ПГС](https://er.ru/activity/news?tags%5B0%5D=2749)
 
-Сегодня 12:43
+Сегодня 17:54
 
-[![Михаил Развожаев, секретарь реготделения «Единой России», губернатор Севастополя: Диалог с первичными отделениями позволяет контролировать исполнение народной программы партии](https://cdn.er.ru/img/stubs/small/6.jpg)](https://er.ru/activity/news/mihail-razvozhaev-sekretar-regotdeleniya-edinoj-rossii-gubernator-sevastopolya-dialog-s-pervichnymi-otdeleniyami-pozvolyaet-kontrolirovat-ispolnenie-narodnoj-programmy-partii)
+[![XXII Съезд «Единой России» произвёл ротацию Высшего совета партии](https://cdn.er.ru/media/news/December2024/SdOVoqwffuoedoL1WdcD-small.jpg)](https://er.ru/activity/news/xxii-sezd-edinoj-rossii-proizvyol-rotaciyu-vysshego-soveta-partii)
 
-[Михаил Развожаев, секретарь реготделения «Единой России», губернатор Севастополя: Диалог с первичными отделениями позволяет контролировать исполнение народной программы партии](https://er.ru/activity/news/mihail-razvozhaev-sekretar-regotdeleniya-edinoj-rossii-gubernator-sevastopolya-dialog-s-pervichnymi-otdeleniyami-pozvolyaet-kontrolirovat-ispolnenie-narodnoj-programmy-partii)
+[XXII Съезд «Единой России» произвёл ротацию Высшего совета партии](https://er.ru/activity/news/xxii-sezd-edinoj-rossii-proizvyol-rotaciyu-vysshego-soveta-partii)
 
-[#Развожаев](https://er.ru/activity/news?tags%5B0%5D=135388) [#Севастополь](https://er.ru/activity/news?tags%5B0%5D=5870) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#догазификация](https://er.ru/activity/news?tags%5B0%5D=1094666)
+[#ВысшийСоветПартииЕР](https://er.ru/activity/news?tags%5B0%5D=1092448) [#ротация](https://er.ru/activity/news?tags%5B0%5D=1628) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999)
 
-Сегодня 12:35
+Сегодня 17:11
 
-[![Владимир Мазур, секретарь реготделения партии, губернатор Томской области: Народная программа «Единой России» идёт в ногу со временем](https://cdn.er.ru/img/stubs/small/5.jpg)](https://er.ru/activity/news/vladimir-mazur-sekretar-regotdeleniya-partii-gubernator-tomskoj-oblasti-narodnaya-programma-edinoj-rossii-idyot-v-nogu-so-vremenem)
+[![Олег Фунтиков, участник СВО: «Единая Россия» всегда двигается вперёд, даже в самые тяжёлые времена](https://cdn.er.ru/media/news/December2024/iwibnxh5Nfw14jhxwlSP-small.JPG)](https://er.ru/activity/news/oleg-funtikov-uchastnik-svo-edinaya-rossiya-vsegda-dvigaetsya-vperyod-dazhe-v-samye-tyazhyolye-vremena)
 
-[Владимир Мазур, секретарь реготделения партии, губернатор Томской области: Народная программа «Единой России» идёт в ногу со временем](https://er.ru/activity/news/vladimir-mazur-sekretar-regotdeleniya-partii-gubernator-tomskoj-oblasti-narodnaya-programma-edinoj-rossii-idyot-v-nogu-so-vremenem)
+[Олег Фунтиков, участник СВО: «Единая Россия» всегда двигается вперёд, даже в самые тяжёлые времена](https://er.ru/activity/news/oleg-funtikov-uchastnik-svo-edinaya-rossiya-vsegda-dvigaetsya-vperyod-dazhe-v-samye-tyazhyolye-vremena)
 
-[#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#Мазур](https://er.ru/activity/news?tags%5B0%5D=20392) [#Томская область](https://er.ru/activity/news?tags%5B0%5D=1708)
+[#Фунтиков](https://er.ru/activity/news?tags%5B0%5D=1095713) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633)
 
-Сегодня 12:33
+Сегодня 17:10
 
-[![Владимир Константинов, председатель Госсовета Республики Крым: «Единая Россия» стала для крымчан символом преобразования](https://cdn.er.ru/img/stubs/small/2.jpg)](https://er.ru/activity/news/vladimir-konstantinov-predsedatel-gossoveta-respubliki-krym-edinaya-rossiya-stala-dlya-krymchan-simvolom-preobrazovaniya)
+[![«Единая Россия» внесла изменения в партийный Устав](https://cdn.er.ru/media/news/December2024/53nanGJK2Yt2dIISNQjk-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-izmeneniya-v-partijnyj-ustav)
 
-[Владимир Константинов, председатель Госсовета Республики Крым: «Единая Россия» стала для крымчан символом преобразования](https://er.ru/activity/news/vladimir-konstantinov-predsedatel-gossoveta-respubliki-krym-edinaya-rossiya-stala-dlya-krymchan-simvolom-preobrazovaniya)
+[«Единая Россия» внесла изменения в партийный Устав](https://er.ru/activity/news/edinaya-rossiya-vnesla-izmeneniya-v-partijnyj-ustav)
 
-[#Константинов](https://er.ru/activity/news?tags%5B0%5D=12384) [#Республика Крым](https://er.ru/activity/news?tags%5B0%5D=57338) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#устав](https://er.ru/activity/news?tags%5B0%5D=978) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#изменения](https://er.ru/activity/news?tags%5B0%5D=121574)
 
-Сегодня 12:25
+Сегодня 17:06
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
