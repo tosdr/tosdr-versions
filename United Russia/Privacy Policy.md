@@ -146,8 +146,6 @@
 
 [Фракция «Единой России» в ГД ФС РФ](https://er.ru/persons/frakciya-er-v-gd-fs-rf)
 
-[Руководящий состав Межрегиональных координационных советов](https://er.ru/persons/rukovodyashhii-sostav-mezregionalnyx-koordinacionnyx-sovetov)
-
 [Комиссия Президиума Генсовета партии по работе с обращениями граждан к Председателю партии](https://er.ru/persons/komissiya-prezidiuma-generalnogo-soveta-partii-edinaya-rossiya-po-rabote-s-obrashheniyami-grazdan-k-predsedatelyu-partii)
 
 [Комиссия по этике](https://et.er.ru/)
@@ -297,7 +295,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#секретарьгенсовета](https://er.ru/activity/news?tags%5B0%5D=111802) [#ГенсоветЕР](https://er.ru/activity/news?tags%5B0%5D=144794)
 
-Сегодня 18:34
+14.12.24
 
 [![«Единая Россия» внесла изменения в народную программу партии](https://cdn.er.ru/media/news/December2024/mjF4ghSQD3d7MXVskDQH-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-izmeneniya-v-narodnuyu-programmu-partii)
 
@@ -305,7 +303,7 @@
 
 [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
-Сегодня 17:59
+14.12.24
 
 [![«Единая Россия» на Съезде обновила состав Генерального совета](https://cdn.er.ru/media/news/December2024/5JKZKbOd9JMCN41Juim7-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-na-sezde-obnovila-sostav-generalnogo-soveta)
 
@@ -313,7 +311,7 @@
 
 [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#ротация](https://er.ru/activity/news?tags%5B0%5D=1628) [#ПГС](https://er.ru/activity/news?tags%5B0%5D=2749)
 
-Сегодня 17:54
+14.12.24
 
 [![XXII Съезд «Единой России» произвёл ротацию Высшего совета партии](https://cdn.er.ru/media/news/December2024/SdOVoqwffuoedoL1WdcD-small.jpg)](https://er.ru/activity/news/xxii-sezd-edinoj-rossii-proizvyol-rotaciyu-vysshego-soveta-partii)
 
@@ -321,7 +319,7 @@
 
 [#ВысшийСоветПартииЕР](https://er.ru/activity/news?tags%5B0%5D=1092448) [#ротация](https://er.ru/activity/news?tags%5B0%5D=1628) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999)
 
-Сегодня 17:11
+14.12.24
 
 [![Олег Фунтиков, участник СВО: «Единая Россия» всегда двигается вперёд, даже в самые тяжёлые времена](https://cdn.er.ru/media/news/December2024/iwibnxh5Nfw14jhxwlSP-small.JPG)](https://er.ru/activity/news/oleg-funtikov-uchastnik-svo-edinaya-rossiya-vsegda-dvigaetsya-vperyod-dazhe-v-samye-tyazhyolye-vremena)
 
@@ -329,7 +327,7 @@
 
 [#Фунтиков](https://er.ru/activity/news?tags%5B0%5D=1095713) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633)
 
-Сегодня 17:10
+14.12.24
 
 [![«Единая Россия» внесла изменения в партийный Устав](https://cdn.er.ru/media/news/December2024/53nanGJK2Yt2dIISNQjk-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-izmeneniya-v-partijnyj-ustav)
 
@@ -337,7 +335,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#устав](https://er.ru/activity/news?tags%5B0%5D=978) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#изменения](https://er.ru/activity/news?tags%5B0%5D=121574)
 
-Сегодня 17:06
+14.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
