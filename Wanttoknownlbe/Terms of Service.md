@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/griepkoorts-mensheid-in-de-klauwen-van-het-beest/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/boston-en-sandy-hook-fb-pagina-2-dagen-vooraf-gemaakt/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -172,7 +172,7 @@ Posted in [Boeken](https://www.wanttoknow.nl/dossiers/boeken/) Tagged [Corona](h
 
 ### [Eerst toch de oorzaak oversterfte boven water??!!](https://www.wanttoknow.nl/inspiratie/meelezen/eerst-toch-de-oorzaak-oversterfte-boven-water/)
 
-by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [8 december 2024](https://www.wanttoknow.nl/inspiratie/meelezen/eerst-toch-de-oorzaak-oversterfte-boven-water/)
+by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [9 december 2024](https://www.wanttoknow.nl/inspiratie/meelezen/eerst-toch-de-oorzaak-oversterfte-boven-water/)
 
 [Dat de ’herhaalprik’-campagne tegen corona in volle gang is, is feitelijk bizar. Ruim 1 miljoen mensen die in de rij gaan staan voor een mRNA-injectie, die feitelijk nog NOOIT is geëvalueerd. Medische wetenschappers en gerenommeerde artsen wereldwijd, delen hun diepe, diepe ongerustheid. Zo ook in Nederland, waar het de artsen Jorine Hammink en Felix van der Wissel grote zorgen baart. Voor hen beginnen we bij het begin: “Een belangrijke vraag hangt immers nog altijd boven de markt, namelijk of er een mogelijke link is tussen de aanhoudende oversterfte en de mRNA-corona-injecties?” Hier hun verhaal/column. …](https://www.wanttoknow.nl/inspiratie/meelezen/eerst-toch-de-oorzaak-oversterfte-boven-water/)
 
