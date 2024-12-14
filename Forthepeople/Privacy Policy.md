@@ -396,8 +396,6 @@ Results may vary depending on your particular facts and legal circumstances. ©2
 
  [![themorganconnection.com](/themes/custom/morgan/images/logos/morganconnection.svg)](https://www.themorganconnection.com/)[![business trial group](/themes/custom/morgan/images/logos/businesstrialgroup.svg)](https://www.businesstrialgroup.com/)[![the whistleblower](/themes/custom/morgan/images/logos/whistleblower.svg)](https://www.whistleblowerattorneys.com/)[![abogados.com](/themes/custom/morgan/images/logos/abogados.svg)](https://www.abogados.com/)[![class action com](/themes/custom/morgan/images/logos/classaction.svg)](https://www.classaction.com/)
 
-[![Download on the App Store](/themes/custom/morgan/images/logos/verified-reviews.svg)](https://www.forthepeople.com/)
-
  [![Download on the App Store](/sites/default/files/theme-assets/ftp/images/logos/app-store.jpg)](https://apps.apple.com/us/app/morgan-morgan-mobile/id1605206916?platform=iphone)
 
  [![Get it on Google Play](/sites/default/files/theme-assets/ftp/images/logos/google-play.jpg)](https://play.google.com/store/apps/details?id=com.mm.clientPortal&pli=1)
