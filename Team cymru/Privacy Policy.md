@@ -58,11 +58,13 @@ top of page
     * [Resellers, MSPs & SIs](https://www.team-cymru.com/resellers-msps-systems-integrators)
     * [Technology Alliance Partners](https://www.team-cymru.com/technology-partners)
         
+        * [Google](https://www.team-cymru.com/google-secops)
+        * [Microsoft](https://www.team-cymru.com/microsoft-copilot)
+        * [Palo Alto](https://www.team-cymru.com/palo-alto)
         * [Splunk](https://www.team-cymru.com/splunk)
         * [Maltego](https://www.team-cymru.com/maltego)
         * [Tines](https://www.team-cymru.com/tines)
         * [ServiceNow](https://www.team-cymru.com/service-now)
-        * [Palo Alto](https://www.team-cymru.com/palo-alto)
         * [ThreatQuotient](https://www.team-cymru.com/threatquotient)
         * [Cyware](https://www.team-cymru.com/cyware)
         
@@ -431,7 +433,7 @@ By mail: 901 International Parkway, Suite 350, Lake Mary, FL 32746, USA
 
 ​
 
-![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_63,h_13,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
+![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_64,h_13,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
 ![Dots 12.png](https://static.wixstatic.com/media/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png/v1/fill/w_79,h_16,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/ad75df_2ab95ecf808c49f89475e1e70c5fadf1~mv2.png)
 
