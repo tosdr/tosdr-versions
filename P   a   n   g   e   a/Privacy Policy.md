@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,774 members - 452,866,769 ads shown  
+131,775 members - 452,868,674 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -44,7 +44,7 @@ CREATE ACCOUNT
 WHAT IS LAYERED ADVERTISING?  
 This uses just ONE step to explode multiple ads out all at once, including: your email ad and post a banner ad all with just one click. No credits to assign, no hassles, so this is a serious time saver!  
   
-You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,774 MEMBERS!  
+You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,775 MEMBERS!  
   
   
 
@@ -55,13 +55,13 @@ Sometimes spelled Pangaea, was a single land mass 300 million years ago. All of 
 
 paid member banners
 
+[![](https://boomerangblaster.com/banner2.gif)](https://boomerangblaster.com/nightmagic)
+
+[![](https://homebiz2020.com/banners/sapphire/sapphire1_125x125.png)](https://sapphiresolos.com/?id=85722)
+
 [![](https://imgallery.llsvr.com/jeffaman.665f8c470cd25.gif)](https://track.toprated.vip/maryanne450)
 
-[![](https://thedownliner.com/images/TDL4_125.jpg)](https://tdl4.link/?r=29116)
-
-[![](https://profitslion.com/banimg1252.gif)](https://profitslion.com/sabdev)
-
-[![](https://profitslion.com/banimg1252.gif)](https://profitslion.com/profitlions)
+[![](https://theclickgenerator.com/images/125x125.gif)](https://theclickgenerator.com/index.php?r=nick57du)
 
 ![](26yrs0.gif)
 
