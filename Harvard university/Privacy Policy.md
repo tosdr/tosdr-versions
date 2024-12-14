@@ -209,9 +209,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**Probe the gut, protect the brain?** In fight against Parkinson’s and other disorders, two-way connection may someday lead to a breakthrough](https://news.harvard.edu/gazette/story/2024/12/does-parkinsons-start-in-the-gut-brain-microbiome/)
-        2. [**Score another point for the plants** Study finds 1:2 ratio of plant to animal protein lowers risk of heart disease](https://news.harvard.edu/gazette/story/2024/12/higher-plant-to-animal-protein-ratio-improves-heart-health/)
-        3. [**How China tariffs could backfire on U.S.** Economists say there could be unintended consequences, including higher prices, supply chain disruptions, and possibly opening door to improving Beijing’s ties to American allies](https://news.harvard.edu/gazette/story/2024/12/how-china-tariffs-could-backfire-on-u-s/)
+        1. [**Why do gliomas tend to recur in the brain?** First look at the interplay between neurons and tumors sheds light on formation, spread](https://news.harvard.edu/gazette/story/2024/12/why-do-gliomas-tend-to-recur-in-the-brain/)
+        2. [**Probe the gut, protect the brain?** In fight against Parkinson’s and other disorders, two-way connection may someday lead to a breakthrough](https://news.harvard.edu/gazette/story/2024/12/does-parkinsons-start-in-the-gut-brain-microbiome/)
+        3. [**Why be kind? You might live longer.** Take our research-based quiz on biological benefits of being good](https://news.harvard.edu/gazette/story/2024/12/the-biology-of-kindness-quiz/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
