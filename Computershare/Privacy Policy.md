@@ -165,7 +165,7 @@ Privacy Statement
 
 Computershare wants to make your online and mobile experiences satisfying and safe. Our aim is to safeguard the privacy and security of your personal information while providing a personalized service that meets your individual preference and needs. At all times we comply with applicable laws and regulations governing the confidentiality and security of information we receive and maintain. We operate websites on behalf of several affiliated companies as listed at the end of this statement.
 
-We process personal information pursuant to service agreements we have in place with our clients who have retained us to provide a variety of services on their behalf, including but not limited to transfer agency, plans administration, class action administration, corporate trust, corporate actions, and governance services. The personal information that you or our clients provide to us is used to perform the various services that are described in each service agreement.
+We process personal information pursuant to service agreements we have in place with our clients who have retained us to provide a variety of services on their behalf, including but not limited to transfer agency, plans administration, corporate trust, corporate actions, and entity solutions. The personal information that you or our clients provide to us is used to perform the various services that are described in each service agreement.
 
 ##### What information do we obtain about you, how do we obtain it and what do we use it for?
 
