@@ -276,3 +276,13 @@ Select a page...
 * [](https://www.instagram.com/ipromoteadvertising/)
 
 © 2024 2KDirect, Inc. All Rights Reserved.
+
+We use cookies
+
+We may place cookies on your device to enhance website functionality such as logging in and showing personalized settings. We may also use cookies to provide a relevant advertising experience.
+
+Please see our [Privacy Policy](https://www.ipromote.com/privacy-policy/) for a complete overview.
+
+Accept
+
+Reject All Non-Essential
