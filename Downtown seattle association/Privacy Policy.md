@@ -64,6 +64,7 @@ Mobile Navigation
     1. [Locations](https://downtownseattle.org/programs-services/parks-and-public-spaces/locations/)
     2. [Elliott Bay Connections](https://downtownseattle.org/programs-services/parks-and-public-spaces/elliott-bay-connections/)
     3. [Public Art](https://downtownseattle.org/programs-services/parks-and-public-spaces/public-art/)
+    4. [Parks Survey](https://downtownseattle.org/programs-services/parks-and-public-spaces/park-survey/)
     
     ###### [Metropolitan Improvement District](https://downtownseattle.org/programs-services/metropolitan-improvement-district/)
     
@@ -268,7 +269,8 @@ Fax 206-625-9940
 4. [Locations](https://downtownseattle.org/programs-services/parks-and-public-spaces/locations/)
 5. [Elliott Bay Connections](https://downtownseattle.org/programs-services/parks-and-public-spaces/elliott-bay-connections/)
 6. [Public Art](https://downtownseattle.org/programs-services/parks-and-public-spaces/public-art/)
-7. Search for:  Search Search
+7. [Parks Survey](https://downtownseattle.org/programs-services/parks-and-public-spaces/park-survey/)
+8. Search for:  Search Search
     
 
 1. [Programs & Services Home](https://downtownseattle.org/)
