@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
-* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
-* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
-* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
-* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
-* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
+* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
+* [Erdnuss­butter im Test: Wenig Zucker − reichlich Peanuts](https://www.test.de/Erdnussbutter-im-Test-Wenig-Zucker-reichlich-Peanuts-6029831-0/ "Erdnussbutter im Test - Wenig Zucker − reichlich Peanuts")
+* [Lock­angebote bei Zinsen: Warum Sie Kombipro­dukte hinterfragen sollten](https://www.test.de/Lockangebote-bei-Zinsen-Warum-Sie-Kombiprodukte-hinterfragen-sollten-6166878-0/ "Lockangebote bei Zinsen - Warum Sie Kombiprodukte hinterfragen sollten")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
-* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
-* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
-* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
-* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
-* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
+* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
+* [Erdnuss­butter im Test: Wenig Zucker − reichlich Peanuts](https://www.test.de/Erdnussbutter-im-Test-Wenig-Zucker-reichlich-Peanuts-6029831-0/ "Erdnussbutter im Test - Wenig Zucker − reichlich Peanuts")
+* [Lock­angebote bei Zinsen: Warum Sie Kombipro­dukte hinterfragen sollten](https://www.test.de/Lockangebote-bei-Zinsen-Warum-Sie-Kombiprodukte-hinterfragen-sollten-6166878-0/ "Lockangebote bei Zinsen - Warum Sie Kombiprodukte hinterfragen sollten")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
-* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
-* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
-* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
-* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
-* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
+* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
+* [Erdnuss­butter im Test: Wenig Zucker − reichlich Peanuts](https://www.test.de/Erdnussbutter-im-Test-Wenig-Zucker-reichlich-Peanuts-6029831-0/ "Erdnussbutter im Test - Wenig Zucker − reichlich Peanuts")
+* [Lock­angebote bei Zinsen: Warum Sie Kombipro­dukte hinterfragen sollten](https://www.test.de/Lockangebote-bei-Zinsen-Warum-Sie-Kombiprodukte-hinterfragen-sollten-6166878-0/ "Lockangebote bei Zinsen - Warum Sie Kombiprodukte hinterfragen sollten")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
-* [Swiss Gold Treu­hand: Gefälschte Belege für Rohgold­bestände](https://www.test.de/Swiss-Gold-Treuhand-Gefaelschte-Belege-fuer-Rohgoldbestaende-6119238-0/ "Swiss Gold Treuhand - Gefälschte Belege für Rohgoldbestände")
-* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
-* [Einkommens­steuer: Steuererklärung 2023 – so holen Sie Geld zurück](https://www.test.de/Steuererklaerung-fuer-2023-6092485-0/ "Einkommenssteuer - Steuererklärung 2023 – so holen Sie Geld zurück")
-* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
-* [Krypto­handel: Angebote ablehnen](https://www.test.de/Kryptohandel-Angebote-ablehnen-6020308-0/ "Kryptohandel - Angebote ablehnen")
+* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
+* [Erdnuss­butter im Test: Wenig Zucker − reichlich Peanuts](https://www.test.de/Erdnussbutter-im-Test-Wenig-Zucker-reichlich-Peanuts-6029831-0/ "Erdnussbutter im Test - Wenig Zucker − reichlich Peanuts")
+* [Lock­angebote bei Zinsen: Warum Sie Kombipro­dukte hinterfragen sollten](https://www.test.de/Lockangebote-bei-Zinsen-Warum-Sie-Kombiprodukte-hinterfragen-sollten-6166878-0/ "Lockangebote bei Zinsen - Warum Sie Kombiprodukte hinterfragen sollten")
+* [Wert­papierdepots: Kunden des Smart­broker müssen umziehen](https://www.test.de/Wertpapierdepots-Kunden-des-Smartbroker-muessen-umziehen-6048760-0/ "Wertpapierdepots - Kunden des Smartbroker müssen umziehen")
+* [Geld­anlage richtig planen: Anlegen auf Sicht kostet Rendite](https://www.test.de/Geldanlage-richtig-planen-Anlegen-auf-Sicht-kostet-Rendite-6048767-0/ "Geldanlage richtig planen - Anlegen auf Sicht kostet Rendite")
+* [PC und Handy fern­steuern: IT-Hilfe für Oma, Opa, Mama, Papa...](https://www.test.de/PC-und-Handy-fernsteuern-IT-Hilfe-fuer-Oma-Opa-Mama-Papa-5949126-0/ "PC und Handy fernsteuern - IT-Hilfe für Oma, Opa, Mama, Papa...")
 
 Stiftung Warentest
 
