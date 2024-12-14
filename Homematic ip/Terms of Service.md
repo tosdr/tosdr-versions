@@ -332,6 +332,14 @@ Elektrische Türschlösser sicher steuern – Homematic IP Universal Motorschlos
 
 [Dez.
 
+19-21
+
+Event
+
+BAUHAUS Düsseldorf-Gerresheim: Faszination Smart-Home live erleben: im Roadshow-Truck in Ihrer Nähe.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-12-19-bauhaus-duesseldorf-gerresheim)
+
+[Dez.
+
 12-14
 
 Event
