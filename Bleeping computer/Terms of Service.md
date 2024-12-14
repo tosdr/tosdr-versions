@@ -36,18 +36,18 @@
         
         Lynx ransomware behind Electrica energy supplier cyberattack](https://www.bleepingcomputer.com/news/security/lynx-ransomware-behind-electrica-energy-supplier-cyberattack/)
     
-    * [![Russia blocks Viber in latest attempt to censor communications](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Auto parts giant LKQ says cyberattack disrupted Canadian business unit](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Russia blocks Viber in latest attempt to censor communications](https://www.bleepingcomputer.com/news/security/russia-blocks-viber-in-latest-attempt-to-censor-communications/)
-    * [![Russian cyberspies target Android users with new spyware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Auto parts giant LKQ says cyberattack disrupted Canadian business unit](https://www.bleepingcomputer.com/news/security/auto-parts-giant-lkq-says-cyberattack-disrupted-canadian-business-unit/)
+    * [![Citrix shares mitigations for ongoing Netscaler password spray attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Russian cyberspies target Android users with new spyware](https://www.bleepingcomputer.com/news/security/russian-gamaredon-cyberspies-target-android-users-with-new-spyware/)
-    * [![Germany blocks BadBox malware loaded on 30,000 Android devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Citrix shares mitigations for ongoing Netscaler password spray attacks](https://www.bleepingcomputer.com/news/security/citrix-shares-mitigations-for-ongoing-netscaler-password-spray-attacks/)
+    * [![CISA confirms critical Cleo bug exploitation in ransomware attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Germany blocks BadBox malware loaded on 30,000 Android devices](https://www.bleepingcomputer.com/news/security/germany-blocks-badbox-malware-loaded-on-30-000-android-devices/)
-    * [![Fill the cybersecurity skills gap with this $60 training bundle](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        CISA confirms critical Cleo bug exploitation in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-confirms-critical-cleo-bug-exploitation-in-ransomware-attacks/)
+    * [![FTC warns of online task job scams hooking victims like gambling](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Fill the cybersecurity skills gap with this $60 training bundle](https://www.bleepingcomputer.com/offer/deals/fill-the-cybersecurity-skills-gap-with-this-60-training-bundle/)
+        FTC warns of online task job scams hooking victims like gambling](https://www.bleepingcomputer.com/news/security/ftc-warns-of-online-task-job-scams-hooking-victims-like-gambling/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
