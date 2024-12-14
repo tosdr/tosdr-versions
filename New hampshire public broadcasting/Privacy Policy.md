@@ -186,13 +186,13 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 * [| Christa](https://video.nhpbs.org/video/christa-ygbur1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Rising Star Wrestler overcomes tragedy in Wrangell INDIE ALASKA** | Indie Alaska](https://video.nhpbs.org/video/rising-star-wrestler-overcomes-tragedy-in-wrangell-indie-alaska-gsijwe?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**2024 Hyundai Palisade Night Edition & 2024 GMC Hummer EV SUV** | MotorWeek](https://video.nhpbs.org/video/2024-hyundai-palisade-night-edition-2024-gmc-hummer-ev-suv-s0cni5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Violent Femmes 40th Anniversary with the Milwaukee Symphony Orchestra** | Milwaukee PBS Specials](https://video.nhpbs.org/video/violent-femmes-40th-anniversary-with-the-milwaukee-symphony-orchestra-gvuwzn?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Season 6 Preview** | History with David Rubenstein](https://video.nhpbs.org/video/season-6-preview-9s6x6r?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Holiday Special 2024 Preview** | Call the Midwife](https://video.nhpbs.org/video/holiday-special-2024-preview-4kjiyu?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Violent Femmes 40th Anniversary Passport Exclusive - Promise** | Milwaukee PBS Specials](https://video.nhpbs.org/video/violent-femmes-40th-anniversary-passport-exclusive-promise-alwnna?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Alsu Kurmasheva, Maria Ressa and Jonathan Munro** | Firing Line](https://video.nhpbs.org/video/alsu-kurmasheva-maria-ressa-and-jonathan-munro-elonzb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**December 13, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-13-2024-pbs-news-hour-full-episode-1734066001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**The History of Second-wave Feminism** | To The Contrary](https://video.nhpbs.org/video/the-history-of-second-wave-feminism-iqce81?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**The Very Best of , 2024** | Mossback's Northwest](https://video.nhpbs.org/video/the-very-best-of-mossbacks-northwest-2024-fi2xjx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**full episode, 12/13/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-121324-zfxswe?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Syrians jubilant in first Friday prayers after Assad** | PBS News Hour](https://video.nhpbs.org/video/fall-of-assad-leila-dis-1734127475?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
