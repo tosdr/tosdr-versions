@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d970e0aa-7519-4fed-8df8-da09e782a18c/20241213T221148/d970e0aa-7519-4fed-8df8-da09e782a18c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d970e0aa-7519-4fed-8df8-da09e782a18c/20241213T221148/d970e0aa-7519-4fed-8df8-da09e782a18c_360x203.jpg)](https://www.king5.com/article/news/local/seattle/source-wisconsin-police-chief-top-candidate-seattle-police/281-031d5bc7-6fe5-45b1-a9fb-34430cd90046)
+    *  [![](https://media.king5.com/assets/KING/images/0266437b-4a95-4fdd-86fe-425c5a79e7f5/20241214T192052/0266437b-4a95-4fdd-86fe-425c5a79e7f5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0266437b-4a95-4fdd-86fe-425c5a79e7f5/20241214T192052/0266437b-4a95-4fdd-86fe-425c5a79e7f5_360x203.jpg)](https://www.king5.com/article/news/local/event-celebrates-dozens-formerly-unhoused-women-western-washington/281-bc8dd79a-61f7-4ad1-a8fb-4a4aeee82e79)
         
-        #### [Source: Wisconsin police chief top candidate to head Seattle police](https://www.king5.com/article/news/local/seattle/source-wisconsin-police-chief-top-candidate-seattle-police/281-031d5bc7-6fe5-45b1-a9fb-34430cd90046)
+        #### ['Home for the Holidays' event celebrates dozens of formerly unhoused women across Western Washington](https://www.king5.com/article/news/local/event-celebrates-dozens-formerly-unhoused-women-western-washington/281-bc8dd79a-61f7-4ad1-a8fb-4a4aeee82e79)
         
-    *  [![](https://media.king5.com/assets/KING/images/fe8eb00f-3f39-4715-b389-9e78f3c8edf0/20241214T021921/fe8eb00f-3f39-4715-b389-9e78f3c8edf0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fe8eb00f-3f39-4715-b389-9e78f3c8edf0/20241214T021921/fe8eb00f-3f39-4715-b389-9e78f3c8edf0_360x203.jpg)](https://www.king5.com/article/news/local/crash-blocks-all-lanes-sr-520-montlake-boulevard-seattle/281-34d7063e-0f91-450a-b735-9b32f5ef5430)
+    *  [![](https://media.king5.com/assets/KING/images/ab022f17-a717-46b4-af85-67446b6eb08d/20241214T165907/ab022f17-a717-46b4-af85-67446b6eb08d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ab022f17-a717-46b4-af85-67446b6eb08d/20241214T165907/ab022f17-a717-46b4-af85-67446b6eb08d_360x203.jpg)](https://www.king5.com/article/news/local/power-outages-western-washington-amid-wind-advisory/281-67cd4f6b-95b4-43d3-bc34-d397637ab9dc)
         
-        #### [2 people injured in multi-vehicle crash on SR 520 in Seattle](https://www.king5.com/article/news/local/crash-blocks-all-lanes-sr-520-montlake-boulevard-seattle/281-34d7063e-0f91-450a-b735-9b32f5ef5430)
+        #### [70,000 without power in western Washington amid wind advisory](https://www.king5.com/article/news/local/power-outages-western-washington-amid-wind-advisory/281-67cd4f6b-95b4-43d3-bc34-d397637ab9dc)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/da6d2d6a-f22c-4567-abae-54cb0c319588/20241214T062759/da6d2d6a-f22c-4567-abae-54cb0c319588_16x9.jpg) ![](https://media.king5.com/assets/KING/images/da6d2d6a-f22c-4567-abae-54cb0c319588/20241214T062759/da6d2d6a-f22c-4567-abae-54cb0c319588_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/7cad9286-892b-4702-9474-992ed0acfe70/20241214T161835/7cad9286-892b-4702-9474-992ed0acfe70_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7cad9286-892b-4702-9474-992ed0acfe70/20241214T161835/7cad9286-892b-4702-9474-992ed0acfe70_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -107,7 +107,7 @@ Seattle, WA »
 
 49°
 
-![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
+![Mostly Cloudy/Wind](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
