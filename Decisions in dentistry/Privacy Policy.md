@@ -285,20 +285,6 @@ This website uses cookies to improve your experience. We'll assume you're ok wit
 
 #### SAVE BIG ON CE BEFORE 2025!
 
-Days
-
-:
-
-Hours
-
-:
-
-Minutes
-
-:
-
-Seconds
-
 Coupon has expired
 
 [Get the Details](#)
