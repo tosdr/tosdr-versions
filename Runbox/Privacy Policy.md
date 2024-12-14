@@ -29,7 +29,7 @@ Fast. Secure. Private. Forged in Norway.
         * [Secure Transfer of Email](https://runbox.com/why-runbox/security-reliability/secure-transfer-email/)
         * [Secure Authentication](https://runbox.com/why-runbox/security-reliability/secure-authentication/)
     * [Sustainable Services and Practices](https://runbox.com/why-runbox/sustainable-services/)
-        * [Why We Aim to Act Sustainably](https://runbox.com/why-runbox/sustainable-services/aim-act-sustainably/)
+        * [Our Commitment to Sustainability](https://runbox.com/why-runbox/sustainable-services/aim-act-sustainably/)
         * [Runbox Is Double Carbon Negative](https://runbox.com/why-runbox/sustainable-services/runbox-is-double-carbon-negative/)
         * [Empowering Environmental Organizations with Free Email Services](https://runbox.com/why-runbox-sustainable-services-empowering-environmental-organizations-with-free-email-services/)
     * [Ethical Consumer Best Buy](https://runbox.com/why-runbox/runbox-email-ethical-best-buy/)
