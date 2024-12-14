@@ -410,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Improvement makes straight roads: but the crooked roads without Improvement are roads of Genius”
+“ Mistakes are always forgivable, if one has the courage to admit them”
 
-[William Blake](http://en.wikipedia.org/wiki/William_Blake)
+[Bruce Lee](https://en.wikipedia.org/wiki/Bruce_Lee)
 
 [](https://www.adafruit.com/about)
 
