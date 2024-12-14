@@ -70,37 +70,75 @@ Ok](https://www.emp-online.com/?forceThisShop=1)
 
 [0 € 0,00](https://www.emp-online.com/cart "View basket")
 
-Women
+* [New Arrivals](https://www.emp-online.com/new/)
+    
+* [Sale](https://www.emp-online.com/sale/)
+    
+* [Band Merch](https://www.emp-online.com/band-merch/)
+    
+* [Brands](https://www.emp-online.com/clothing-brands/)
+    
+* [Entertainment](https://www.emp-online.com/fan-merch/)
+    
+* [Lifestyle](https://www.emp-online.com/fun-lifestyle/homeware/)
+    
 
-Men
+* [Clothing](https://www.emp-online.com/women/clothing/)
+    
+* [Accessories](https://www.emp-online.com/women-clothing/accessories/)
+    
+* [Jewellery](https://www.emp-online.com/women-clothing/jewellery/)
+    
+* [Shoes](https://www.emp-online.com/women-clothing/shoes/)
+    
+* [Fun products](https://www.emp-online.com/fun-lifestyle/fun-merch/?prefn1=gender&prefv1=2)
+    
+* [Plus Size](https://www.emp-online.com/plus-size/women/)
+    
+* [Top Brands](https://www.emp-online.com/clothing-brands/women/)
+    
+* [Brands by EMP](https://www.emp-online.com/clothing-brands/brands-by-emp/women/?prefn1=gender&prefv1=2%7C1)
+    
+* [Topics](https://www.emp-online.com/topics/)
+    
+* [Young Rebels](https://www.emp-online.com/next-gen/women/)
+    
 
-Kids & Teens
+* [Clothing](https://www.emp-online.com/men/clothing/)
+    
+* [Accessories](https://www.emp-online.com/men-clothing/accessories/)
+    
+* [Jewellery](https://www.emp-online.com/men-clothing/jewellery/)
+    
+* [Shoes](https://www.emp-online.com/men-clothing/shoes/)
+    
+* [Fun Products](https://www.emp-online.com/fun-lifestyle/fun-merch/?prefn1=gender&prefv1=3)
+    
+* [Plus Size](https://www.emp-online.com/plus-size/men/)
+    
+* [Top Brands](https://www.emp-online.com/clothing-brands/men/)
+    
+* [Brands by EMP](https://www.emp-online.com/clothing-brands/brands-by-emp/men/?prefn1=gender&prefv1=3%7C1)
+    
+* [Topics](https://www.emp-online.com/topics/)
+    
+* [Young Rebels](https://www.emp-online.com/next-gen/men/)
+    
 
- ![ New Arrivals](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)New Arrivals
-
- ![ Sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)Sale
-
- ![ Band Merch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)Band Merch
-
- ![ Brands](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)Brands
-
- ![ Entertainment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)Entertainment
-
- ![ Lifestyle](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)Lifestyle
-
-Your account
-
-[Orders](https://www.emp-online.com/orders) [Return an item](https://www.emp-online.com/retoure) [Wishlist](https://www.emp-online.com/wishlist "Wishlist")
-
- [![Get The Look](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=) ![Get The Look](data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=)
-
-Get The Look](https://www.emp-online.com/get-the-look/)
-
-* [](https://www.facebook.com/empukofficial "Facebook")
-* [](https://www.instagram.com/empukofficial "Instagram")
-* [](https://www.youtube.com/emponline "Youtube")
-* [](https://twitter.com/empukofficial "Twitter")
-* [](https://wmg.click/hitstorockEN "Spotify")
+* [Babies (up to size: 92)](https://www.emp-online.com/kids/babies/)
+    
+* [Kids (Size: 98-134)](https://www.emp-online.com/kids/kids/)
+    
+* [Teens (Size: 140-176)](https://www.emp-online.com/kids/teens/)
+    
+* [Top Brands](https://www.emp-online.com/kids/brands/)
+    
+* [Girls](https://www.emp-online.com/kids/girls/)
+    
+* [Boys](https://www.emp-online.com/kids/boys/)
+    
+* [Highlights](https://www.emp-online.com/kids/?prefn1=exclusive&prefv1=10601)
+    
 
 Search catalogue  Clear Search
 
