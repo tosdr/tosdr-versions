@@ -1,4 +1,4 @@
-Remove\_BFCM-Dusk-2024\_12\_02
+Commuter\_Backpack-Dusk-2024\_12\_14
 
 [Skip to content](#MainContent)
 
@@ -60,7 +60,7 @@ New orders are expected to ship by
 
 Sign in
 
- [* ![](//www.lttstore.com/cdn/shop/t/131/assets/shopify-logo.svg?v=182554083611724108241733162456) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/131/assets/floatplane-logo-notext.svg?v=135174765184720699891733162456) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
+ [* ![](//www.lttstore.com/cdn/shop/t/136/assets/shopify-logo.svg?v=182554083611724108241734126739) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/136/assets/floatplane-logo-notext.svg?v=135174765184720699891734126739) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
 
 [![LTTStore](//www.lttstore.com/cdn/shop/files/LTT_Logo.png?v=1667427218&width=50)](https://www.lttstore.com/)
 
@@ -94,11 +94,11 @@ Sign in
 
 Sign in through
 
- [* ![](//www.lttstore.com/cdn/shop/t/131/assets/shopify-logo.svg?v=182554083611724108241733162456) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/131/assets/floatplane-logo-notext.svg?v=135174765184720699891733162456) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
+ [* ![](//www.lttstore.com/cdn/shop/t/136/assets/shopify-logo.svg?v=182554083611724108241734126739) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/136/assets/floatplane-logo-notext.svg?v=135174765184720699891734126739) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
 
 [Cart](https://www.lttstore.com/cart)
 
-![](//www.lttstore.com/cdn/shop/t/131/assets/gradient-ellipse3.svg?v=137914502626707376751733162456) ![](//www.lttstore.com/cdn/shop/t/131/assets/gradient-ellipse1.svg?v=132588333988297876451733162456) ![](//www.lttstore.com/cdn/shop/t/131/assets/gradient-ellipse2.svg?v=80077939204478836651733162456) ![](//www.lttstore.com/cdn/shop/t/131/assets/gradient-rectangle1.svg?v=165680246736933959031733162456)
+![](//www.lttstore.com/cdn/shop/t/136/assets/gradient-ellipse3.svg?v=137914502626707376751734126739) ![](//www.lttstore.com/cdn/shop/t/136/assets/gradient-ellipse1.svg?v=132588333988297876451734126739) ![](//www.lttstore.com/cdn/shop/t/136/assets/gradient-ellipse2.svg?v=80077939204478836651734126739) ![](//www.lttstore.com/cdn/shop/t/136/assets/gradient-rectangle1.svg?v=165680246736933959031734126739)
 
 Konrad B
 
@@ -280,7 +280,7 @@ Support
 -------
 
 * [Help Center / Contact Us](https://www.lttstore.com/pages/contact-us)
-![linus tech tips logo](//www.lttstore.com/cdn/shop/t/131/assets/ltt-logo.svg?v=133296236752336137041733162456)
+![linus tech tips logo](//www.lttstore.com/cdn/shop/t/136/assets/ltt-logo.svg?v=133296236752336137041734126739)
 
 © LINUS TECH TIPS STORE Powered by Shopify
 
