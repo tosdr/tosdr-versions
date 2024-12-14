@@ -408,9 +408,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ You're never too old, and if you want to, as my mother said, you can do anything you want to, but you have to work at it”
+“ The economy of human time is the next advantage of machinery in manufactures”
 
-[Annie Easley](http://en.wikipedia.org/wiki/Annie_Easley)
+[Charles Babbage](http://en.wikipedia.org/wiki/Charles_Babbage)
 
 [](https://www.adafruit.com/about)
 
