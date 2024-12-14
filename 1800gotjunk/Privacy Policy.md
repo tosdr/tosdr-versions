@@ -685,6 +685,14 @@ D FM Calgary 30/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Charles and trey were amazing always taking garbage i need great service thank you definitely will use again.
+
+Hailey Lynn Calgary 29/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Great service
 
 Ivana Creates Calgary 29/11/2024
@@ -696,22 +704,6 @@ Ivana Creates Calgary 29/11/2024
 Great service, thanks
 
 alanna dehaan Calgary 29/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Charles and trey were amazing always taking garbage i need great service thank you definitely will use again.
-
-Hailey Lynn Calgary 29/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great service fromTyler and his colleague very quick and efficient. Very reasonable rates.
-
-ZENA MITCHELL Calgary 28/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -736,6 +728,14 @@ Bev R Calgary 28/11/2024
 Later showing up than I had booked but good service.
 
 Lorna Myers Calgary 28/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+They did such an amazing work for us today, thanks!
+
+Wiley Wang Calgary 28/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -885,6 +885,14 @@ Melanie Carey Monteregie Metro 19/04/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Excellent job. Fast and professional
+
+Jua Mupasa Columbus 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Jordan and kegan was great
 
 Jordan Torres Naples 07/12/2024
@@ -893,17 +901,17 @@ Jordan Torres Naples 07/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Nathan and Zachary are amazing: high-energy, professional, and super helpful! Love them! Give them both a raise!
+Ben and TC were amazing. Thank You 1 800 Got Junk
 
-Tracie Coy Cincinnati 07/12/2024
+Astin Thomas Austin 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Ben and TC were amazing. Thank You 1 800 Got Junk
+Nathan and Zachary are amazing: high-energy, professional, and super helpful! Love them! Give them both a raise!
 
-Astin Thomas Austin 07/12/2024
+Tracie Coy Cincinnati 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -925,17 +933,17 @@ Raven Night Wisconsin 07/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Jake and Joe were quick, careful, and communicative! Great work!
+Bobby and Mike were incredibly kind and efficient!
 
-Joe Plese Baltimore 07/12/2024
+Avalon Myst Austin 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Bobby and Mike were incredibly kind and efficient!
+Jake and Joe were quick, careful, and communicative! Great work!
 
-Avalon Myst Austin 07/12/2024
+Joe Plese Baltimore 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -989,41 +997,33 @@ Brian Franck Baltimore 07/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Excellent job. Fast and professional
+Fast and courteous. Friendly as well Samuel and Jared good workers
 
-Jua Mupasa Columbus 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Aryin and Ed did a great job!
-
-Jae Dajewel Baltimore 06/12/2024
+Tom Augustine Wisconsin 06/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Ronnie and Marcelina were amazing. Quick, super friendly and personable. Highly recommended! Thank you for your service today.
+Manny and Angelo killed it, great work, quick and efficient.
 
-Sue Steele Seattle 06/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Ya seem and Drew were phenomenal as usual
-
-Gary Heun Wisconsin 06/12/2024
+Terry Jett Baltimore 06/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Excellent service, Lane and Antonio. You were amazing! So fast and very kind!
+Caden and James are awesome. Took care of everything quickly and efficiently!
 
-Tina Shereen Seattle 06/12/2024
+Cynthia K Madison 06/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Sam and Jared were awesome and I recommend.
+
+C J Wisconsin 06/12/2024
 
 ### 
 
