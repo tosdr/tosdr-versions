@@ -484,6 +484,10 @@ Revised June 1, 2022
 
   [![Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439725.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Illegally cultivated cannabis plants uncovered by police at a home in Chiba Prefecture. Revised cannabis-related laws now criminalize the use of marijuana in addition to its possession and sale.")](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/japan-cannabis-laws/ "Japan tightens cannabis laws amid rising youth usage")
 
+[_'Kin'_ selected as the kanji of 2024 after strong year for Japanese athletes](https://www.japantimes.co.jp/news/2024/12/12/japan/japan-2024-kanji-of-the-year/ "'Kin' selected as the kanji of 2024 after strong year for Japanese athletes")
+
+  [![The head priest of Kiyomizu Temple writes the kanji "kin," which was chosen by the public as the character that best represents 2024, on Thursday in Kyoto.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439791.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The head priest of Kiyomizu Temple writes the kanji "kin," which was chosen by the public as the character that best represents 2024, on Thursday in Kyoto.")](https://www.japantimes.co.jp/news/2024/12/12/japan/japan-2024-kanji-of-the-year/ "'Kin' selected as the kanji of 2024 after strong year for Japanese athletes")
+
 [London calling: Sumo's U.K. trip brings back memories of 1991](https://www.japantimes.co.jp/sports/2024/12/11/sumo/london-sumo-tournament/ "London calling: Sumo's U.K. trip brings back memories of 1991")
 
   [![Japan’s national sport made its second foray into Western Europe, and first to the U.K., with a five-day tournament at London’s historic Royal Albert Hall in October 1991.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439479.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan’s national sport made its second foray into Western Europe, and first to the U.K., with a five-day tournament at London’s historic Royal Albert Hall in October 1991.")](https://www.japantimes.co.jp/sports/2024/12/11/sumo/london-sumo-tournament/ "London calling: Sumo's U.K. trip brings back memories of 1991")
@@ -495,14 +499,6 @@ Revised June 1, 2022
 [Yurie Collins: ‘Everyone seems sedated, fed-up … that’s why they turn to comedy’](https://www.japantimes.co.jp/community/2024/12/10/our-lives/comedian-yurie-collins-roast/ "Yurie Collins: ‘Everyone seems sedated, fed-up … that’s why they turn to comedy’")
 
   [![Yurie Collins is a bilingual comedian based in Tokyo. In addition to being a prize-winning roast comic, her dating-themed "Tokyo Hoe Tales" shows have proven to be a hit with women of all nationalities. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438914.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yurie Collins is a bilingual comedian based in Tokyo. In addition to being a prize-winning roast comic, her dating-themed "Tokyo Hoe Tales" shows have proven to be a hit with women of all nationalities. ")](https://www.japantimes.co.jp/community/2024/12/10/our-lives/comedian-yurie-collins-roast/ "Yurie Collins: ‘Everyone seems sedated, fed-up … that’s why they turn to comedy’")
-
-[Winter chill, hot baths and the risk of heat shock: How to stay safe](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
-
-  [![A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439147.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.")](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
-
-[It’s Japan versus China for 2024’s game of the year](https://www.japantimes.co.jp/life/2024/12/06/digital/elden-ring-black-myth-wukong/ "It’s Japan versus China for 2024’s game of the year")
-
-  [![While FromSoftware's Elden Ring: Shadow of the Erdtree is a strong contender for game of the year, Black Myth: Wukong, the first AAA game made by a Chinese developer, offers some stiff competition.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438188.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "While FromSoftware's Elden Ring: Shadow of the Erdtree is a strong contender for game of the year, Black Myth: Wukong, the first AAA game made by a Chinese developer, offers some stiff competition.")](https://www.japantimes.co.jp/life/2024/12/06/digital/elden-ring-black-myth-wukong/ "It’s Japan versus China for 2024’s game of the year")
 
 Podcast
 -------
@@ -565,23 +561,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Yoon Suk Yeol: from rising star to second impeachment vote](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/yoon-rise-and-fall/ "Yoon Suk Yeol: from rising star to second impeachment vote")
+
+1 hour ago
+
+[Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
+
+1 hour ago
+
+[Japanese firm delays bid to be first to put a satellite into orbit](https://www.japantimes.co.jp/news/2024/12/14/japan/science-health/space-one-kairos-rocket-delay/ "Japanese firm delays bid to be first to put a satellite into orbit")
+
+3 hours ago
+
+[South Korean president to face second impeachment vote](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president to face second impeachment vote")
+
+5 hours ago
+
 [Trilateral fighter project takes big step with joint venture deal](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
-
-8 hours ago
-
-[Ruling bloc proposes ¥1.23 million minimum threshold for taxable income](https://www.japantimes.co.jp/news/2024/12/13/japan/politics/ruling-bloc-taxable-income-proposal/ "Ruling bloc proposes ¥1.23 million minimum threshold for taxable income")
-
-9 hours ago
-
-[Japan updates disaster shelter guidelines](https://www.japantimes.co.jp/news/2024/12/13/japan/shelter-guidelines-update/ "Japan updates disaster shelter guidelines")
-
-9 hours ago
-
-[Macron names veteran centrist ally Francois Bayrou as France's prime minister](https://www.japantimes.co.jp/news/2024/12/13/world/politics/francois-bayrou-new-french-pm/ "Macron names veteran centrist ally Francois Bayrou as France's prime minister")
-
-9 hours ago
-
-[China eyes negotiations as Trump threatens new tariffs](https://www.japantimes.co.jp/business/2024/12/13/economy/china-negotiations-trump-tariff-threat/ "China eyes negotiations as Trump threatens new tariffs")
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
