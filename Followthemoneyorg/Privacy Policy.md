@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Microsoft](/assets/logos/MicrosoftGivingGraph.png)](http://www.followthemoney.org/research/institute-research/forbes-magazines-richest-americans-influence-state-politics)
+[![Incumbents2010](/assets/logos/IncumbentsGraph04-10.png)](http://www.followthemoney.org/research/institute-research/tea-party-in-the-2010-state-elections-hot-or-tepid)
 
-Microsoft spread its state political giving pretty evenly, 2005-2008.
+Look at the power of incumbency.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
