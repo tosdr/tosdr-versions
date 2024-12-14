@@ -203,7 +203,7 @@ Initializing search
     * [Identity, affiliation, and registration](https://info.arxiv.org/help/policies/identity_and_affiliation.html)
     * [Submission terms and agreement](https://info.arxiv.org/help/policies/submission_agreement.html)
     * [Paper ownership](https://info.arxiv.org/help/authority.html)
-    * [General submission policies](https://info.arxiv.org/help/submit/index.html)
+    * [Submission Guidelines](https://info.arxiv.org/help/submit/index.html)
     * [Submission schedule and cutoff time](https://info.arxiv.org/help/availability.html)
     * [Content Moderation](https://info.arxiv.org/help/moderation/index.html)
     * [License and copyright](https://info.arxiv.org/help/license/index.html)
