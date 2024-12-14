@@ -597,14 +597,6 @@ Sign up for our emails and get exclusive benefits
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-The movers were very friendly and efficient!
-
-Maddy Calgary 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Great friendly service that was on time :)
 
 Shonda Day Calgary 07/12/2024
@@ -624,6 +616,14 @@ Taylor Shoup Calgary 07/12/2024
 Best service ever.
 
 Jonathan D Calgary 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+The movers were very friendly and efficient!
+
+Maddy Calgary 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -685,14 +685,6 @@ D FM Calgary 30/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Charles and trey were amazing always taking garbage i need great service thank you definitely will use again.
-
-Hailey Lynn Calgary 29/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Great service
 
 Ivana Creates Calgary 29/11/2024
@@ -709,9 +701,9 @@ alanna dehaan Calgary 29/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Wonderful work done, quick and efficient and I would strongly recommend them!
+Charles and trey were amazing always taking garbage i need great service thank you definitely will use again.
 
-Mapple Calgary 28/11/2024
+Hailey Lynn Calgary 29/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -736,6 +728,14 @@ Lorna Myers Calgary 28/11/2024
 They did such an amazing work for us today, thanks!
 
 Wiley Wang Calgary 28/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great service fromTyler and his colleague very quick and efficient. Very reasonable rates.
+
+ZENA MITCHELL Calgary 28/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -893,9 +893,41 @@ Jua Mupasa Columbus 07/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Nathan and Zachary are amazing: high-energy, professional, and super helpful! Love them! Give them both a raise!
+
+Tracie Coy Cincinnati 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Yaseem and Sam picked up a few items and were absolutely wonderful guys. Thank you so much!
+
+Raven Night Wisconsin 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Keone and Jarred were so efficient, helpful, and kind. Would 💯 recommend
+
+Tanya Stabler Wisconsin 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Jordan and kegan was great
 
 Jordan Torres Naples 07/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Bo Ronnie and John did a quick and fast service
+
+M P Seattle 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -909,9 +941,9 @@ Astin Thomas Austin 07/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Nathan and Zachary are amazing: high-energy, professional, and super helpful! Love them! Give them both a raise!
+Samuel and Chase did an excellent job with the removal of my junk. Within 2 hours I had estimate, load and haul complete. Thank you!!!
 
-Tracie Coy Cincinnati 07/12/2024
+Char\_ Mukana Wisconsin 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -920,14 +952,6 @@ Tracie Coy Cincinnati 07/12/2024
 Awesome service
 
 Mr MOAB Naples 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Yaseem and Sam picked up a few items and were absolutely wonderful guys. Thank you so much!
-
-Raven Night Wisconsin 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -949,33 +973,9 @@ Joe Plese Baltimore 07/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Keone and Jarred were so efficient, helpful, and kind. Would 💯 recommend
-
-Tanya Stabler Wisconsin 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Nice crew. Soph n Roosevelt were on time and move my items quick. Will get them for my spring removal of items.
 
 Joyce Gee Baltimore 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Bo Ronnie and John did a quick and fast service
-
-M P Seattle 07/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Samuel and Chase did an excellent job with the removal of my junk. Within 2 hours I had estimate, load and haul complete. Thank you!!!
-
-Char\_ Mukana Wisconsin 07/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -997,14 +997,6 @@ Brian Franck Baltimore 07/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Fast and courteous. Friendly as well Samuel and Jared good workers
-
-Tom Augustine Wisconsin 06/12/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Manny and Angelo killed it, great work, quick and efficient.
 
 Terry Jett Baltimore 06/12/2024
@@ -1013,17 +1005,25 @@ Terry Jett Baltimore 06/12/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Caden and James are awesome. Took care of everything quickly and efficiently!
+Friendly and helpful staff, very professional. Explained pricing structure well. A bit pricey, but happy to work with a reputable company
 
-Cynthia K Madison 06/12/2024
+Ian Thorpe Baltimore 06/12/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Sam and Jared were awesome and I recommend.
+Ed and Erin did a great job getting rod of a giant old pool table. Thanks guys!
 
-C J Wisconsin 06/12/2024
+Connie Seim Baltimore 06/12/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Aryin and Ed did a great job!
+
+Jae Dajewel Baltimore 06/12/2024
 
 ### 
 
