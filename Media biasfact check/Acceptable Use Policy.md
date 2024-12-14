@@ -166,33 +166,33 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Updated Pages
 
-* [Cenk Uygur Bias Rating](https://mediabiasfactcheck.com/cenk-uygur-bias-rating/ "View Cenk Uygur Bias Rating") - December 13, 2024
+* [Western Journal – Bias and Credibility](https://mediabiasfactcheck.com/western-journalism/ "View Western Journal – Bias and Credibility") - December 13, 2024
     
-* [Buck Sexton Bias Rating](https://mediabiasfactcheck.com/buck-sexton-bias-rating/ "View Buck Sexton Bias Rating") - December 13, 2024
+* [TND – The National Desk – Bias and Credibility](https://mediabiasfactcheck.com/tnd-the-national-news-desk-bias/ "View TND – The National Desk – Bias and Credibility") - December 13, 2024
     
-* [Bret Baier Bias Rating](https://mediabiasfactcheck.com/bret-baier-bias-rating/ "View Bret Baier Bias Rating") - December 13, 2024
+* [Ipsos Polling – Bias and Credibility](https://mediabiasfactcheck.com/ipsos-polling/ "View Ipsos Polling – Bias and Credibility") - December 13, 2024
     
-* [Bill O’Reilly Bias Rating](https://mediabiasfactcheck.com/bill-oreilly-bias-rating/ "View Bill O’Reilly Bias Rating") - December 13, 2024
+* [Snopes – Bias and Credibility](https://mediabiasfactcheck.com/snopes-bias-credibility/ "View Snopes – Bias and Credibility") - December 13, 2024
     
-* [Bill Hemmer Bias Rating](https://mediabiasfactcheck.com/bill-hemmer-bias-rating/ "View Bill Hemmer Bias Rating") - December 13, 2024
+* [MSN.com (MSN News) – Bias and Credibility](https://mediabiasfactcheck.com/msn-com/ "View MSN.com (MSN News) – Bias and Credibility") - December 13, 2024
     
-* [Benny Johnson Bias Rating](https://mediabiasfactcheck.com/benny-johnson-bias-rating/ "View Benny Johnson Bias Rating") - December 13, 2024
+* [Encyclopedia Britannica – Bias and Credibility](https://mediabiasfactcheck.com/encyclopedia-britannica/ "View Encyclopedia Britannica – Bias and Credibility") - December 13, 2024
     
-* [Ben Shapiro Bias Rating](https://mediabiasfactcheck.com/ben-shapiro-bias-rating/ "View Ben Shapiro Bias Rating") - December 13, 2024
+* [Time Magazine – Bias and Credibility](https://mediabiasfactcheck.com/time/ "View Time Magazine – Bias and Credibility") - December 13, 2024
     
-* [Andrea Mitchell Bias Rating](https://mediabiasfactcheck.com/andrea-mitchell-bias-rating/ "View Andrea Mitchell Bias Rating") - December 13, 2024
+* [The Dispatch – Bias and Credibility](https://mediabiasfactcheck.com/the-dispatch/ "View The Dispatch – Bias and Credibility") - December 13, 2024
     
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 13, 2024
+* [National Post – Bias and Credibility](https://mediabiasfactcheck.com/national-post/ "View National Post – Bias and Credibility") - December 13, 2024
     
-* [Poteau Daily News – Bias and Credibility](https://mediabiasfactcheck.com/poteau-daily-news-bias/ "View Poteau Daily News – Bias and Credibility") - December 13, 2024
+* [The Nation – Bias and Credibility](https://mediabiasfactcheck.com/the-nation/ "View The Nation – Bias and Credibility") - December 13, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [Time Magazine - Bias and Credibility](https://mediabiasfactcheck.com/time/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
+* [Time Magazine - Bias and Credibility](https://mediabiasfactcheck.com/time/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
