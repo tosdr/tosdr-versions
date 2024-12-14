@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oorlog/oud-generaals-navo-heeft-oorlogszucht-met-rusland/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/het-verhaal-van-niek-zervaas/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
