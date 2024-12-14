@@ -54,7 +54,7 @@ Search Global Menu
 * [Topics](https://www.nationalacademies.org/topics)
     
     * [Climate](https://www.nationalacademies.org/topics/climate)
-    * [Diversity, Equity, and Inclusion](https://www.nationalacademies.org/topics/resources-on-diversity-equity-and-inclusion)
+    * [Advancing Inclusion in STEMM](https://www.nationalacademies.org/topics/advancing-inclusion-in-stemm)
     * [Misinformation](https://www.nationalacademies.org/topics/misinformation)
     * [Artificial Intelligence](https://www.nationalacademies.org/topics/artificial-intelligence)
     * [Advancing a Robust U.S. Economy](https://www.nationalacademies.org/topics/advancing-a-robust-u-s-economy)
