@@ -243,6 +243,26 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[If you’re a foodie like me and heading to the #N ![If you’re a foodie like me and heading to the #NorthernCalifornia city of Redding, you might be surprised by the food scene! I’ve done the research 😋 and these are my favorite spots to grab a bite:
+▪️ Paradisio: Cozy vibes, bold flavors—try the tofu curry or the elk burger 
+▪️ @pipeline_craft_taps: Absolutely, positively don’t skip the duck fat fries, but the seared ahi bowl is yummy too (I actually went back a second time to get it!).
+▪️ @mosaic_redding: Trendy Space + Crispy Brussels + King Salmon = perfection. 
+▪️ @vintageredding: Another place with delish Brussels sprouts & salmon with pesto. I think there’s a trend in Redding 🤔 
+▪️ @odellcraftbbq: drool worthy BBQ, but you can only get it on Thursdays & Fridays (but get there early, they sell out!).
+▪️ @jacksgrillredding1938: Since 1938 this has been a no frills staple in Redding with hand-cut steaks & timeless vibes.
+▪️ @evergreen.rdd: Not technically a restaurant, but their breakfast menu is worth a visit! Local Persian avo toast + $5 “waffle church” on Sundays = brunch goals.
+(💫 SAVE for planning your trip to #California💫)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![If you’re a foodie like me and heading to the #NorthernCalifornia city of Redding, you might be surprised by the food scene! I’ve done the research 😋 and these are my favorite spots to grab a bite:
+▪️ Paradisio: Cozy vibes, bold flavors—try the tofu curry or the elk burger 
+▪️ @pipeline_craft_taps: Absolutely, positively don’t skip the duck fat fries, but the seared ahi bowl is yummy too (I actually went back a second time to get it!).
+▪️ @mosaic_redding: Trendy Space + Crispy Brussels + King Salmon = perfection. 
+▪️ @vintageredding: Another place with delish Brussels sprouts & salmon with pesto. I think there’s a trend in Redding 🤔 
+▪️ @odellcraftbbq: drool worthy BBQ, but you can only get it on Thursdays & Fridays (but get there early, they sell out!).
+▪️ @jacksgrillredding1938: Since 1938 this has been a no frills staple in Redding with hand-cut steaks & timeless vibes.
+▪️ @evergreen.rdd: Not technically a restaurant, but their breakfast menu is worth a visit! Local Persian avo toast + $5 “waffle church” on Sundays = brunch goals.
+(💫 SAVE for planning your trip to #California💫)](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DDhlEl-P_8v/) 
+
 [I just got back from a cool trip to Redding, Calif ![I just got back from a cool trip to Redding, California and was totally surprised by all the bucket list adventures you can have there 🤯 
 These were my faves (👉 you’re gonna want to add them to your #northerncalifornia bucket list!):
 🚁 Flying high on a Shasta Bally Helicopter Tour with @Av8_aviation. Birds-eye views of snowcapped mountains, Shasta dam and the famous Sundial Bridge!  
@@ -302,16 +322,6 @@ I just had the perfect little getaway @innatthepresidio and it had everything I 
 It was filled with twinkling holiday décor, a cozy room that was hard to leave, evening wine and cheese by the fire pit (my favorite time of the day!), and a breakfast that sets you up to explore the Presidio the way it deserves to be explored—enjoying the outdoors with friends and family 🥰
 PS: The Lodge at the Presidio (@presidiolodging) is just as festive 🎄
 👉 Stay tuned for my One-Day Bucket List Itinerary for the Presidio, San Francisco.](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DDKiw-OyPg_/) 
-
-[![Come with me on the Napa Valley @winetrain 🚂 🍷 and this isn’t just any train ride—it was a 3-hour culinary journey through the heart of the Napa Valley vineyards.
-We started our experience with welcome bubbles and then dived into a four-course meal with yummy dishes like roasted delicata squash with burrata and a citrusy salmon with capers, Oh, and let’s not forget about chocolate lava cake 😋 
-But this train wasn’t just about food and wine, it’s also about the wine country vibe—slow, scenic, and oh-so-relaxing. The route winds from Downtown Napa to St. Helena and back, with plenty of pretty vineyard views along the way 🍇 
-All aboard!!](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![Come with me on the Napa Valley @winetrain 🚂 🍷 and this isn’t just any train ride—it was a 3-hour culinary journey through the heart of the Napa Valley vineyards.
-We started our experience with welcome bubbles and then dived into a four-course meal with yummy dishes like roasted delicata squash with burrata and a citrusy salmon with capers, Oh, and let’s not forget about chocolate lava cake 😋 
-But this train wasn’t just about food and wine, it’s also about the wine country vibe—slow, scenic, and oh-so-relaxing. The route winds from Downtown Napa to St. Helena and back, with plenty of pretty vineyard views along the way 🍇 
-All aboard!!](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DDCoSkvv2n9/)
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
