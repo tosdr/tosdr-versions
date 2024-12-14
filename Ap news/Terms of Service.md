@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Pro Football Hall of Famer Randy Moss says he's being treated for cancer outside his bowel duct](https://apnews.com/article/randy-moss-85741a3a9bd6e80cf4d8a64fba8e5f16)
-    * [Lindsey Vonn to enter World Cup ski races next weekend in Switzerland in her comeback at age 40](https://apnews.com/article/lindsey-vonn-ski-racing-acdc37bed64444ee601b56f8cf5f965c)
+    * [Pro Football Hall of Famer Randy Moss reveals cancer diagnosis, 6-hour surgery](https://apnews.com/article/randy-moss-85741a3a9bd6e80cf4d8a64fba8e5f16)
     * [De'Vondre Campbell won't be part of the 49ers after his refusal to enter a game, Kyle Shanahan says](https://apnews.com/article/49ers-devondre-campbell-b3517612e22b520bb7c25ceeb65c6a48)
+    * [Yankees get closer Devin Williams from Brewers for Nestor Cortes, Caleb Durbin](https://apnews.com/article/devin-williams-yankees-trade-ab499889ceb5a47b23374d169f35c32f)
     
     Newsletters
     
@@ -108,7 +108,7 @@ Menu
     
     * [Supreme Court will take up a challenge related to California's tough vehicle emissions standards](https://apnews.com/article/supreme-court-california-auto-emissions-climate-change-7aff58362d99dd0892b7a8540f3382c1)
     * [Musk says US is demanding he pay penalty over disclosures of his Twitter stock purchases](https://apnews.com/article/musk-sec-twitter-stock-purchases-penalty-letter-0eddad3db779c5b07988d7b9886b10b2)
-    * [Senate begins final push to expand Social Security benefits for millions of people](https://apnews.com/article/senate-social-security-bill-cc9ba7856c1517bc4c9f8cde050954af)
+    * [Trump hosts Apple CEO at Mar-a-Lago as big tech leaders continue outreach to president-elect](https://apnews.com/article/trump-apple-tim-cook-tech-0a9fb8e6df321f6553c23b5138ff1f06)
     
 * [Science](https://apnews.com/science)
     
@@ -213,9 +213,9 @@ Menu
     
     TOP STORIES
     
+    * [Trump hosts Apple CEO at Mar-a-Lago as big tech leaders continue outreach to president-elect](https://apnews.com/article/trump-apple-tim-cook-tech-0a9fb8e6df321f6553c23b5138ff1f06)
     * [OpenAI's legal battle with Elon Musk reveals internal turmoil over avoiding AI 'dictatorship'](https://apnews.com/article/elon-musk-openai-lawsuit-sam-altman-chatgpt-36bc55dbb8b4f9e1e5675ff7564e5fa0)
     * [OpenAI's Altman will donate $1 million to Trump's inaugural fund](https://apnews.com/article/sam-altman-donald-trump-openai-3b7a87037f3718eb3edc73e94be8a61a)
-    * [Nearly half of US teens are online 'constantly,' Pew report finds](https://apnews.com/article/teenagers-social-media-internet-pew-survey-02defc5b53dc4216da1efa63c82a30af)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -225,9 +225,9 @@ Menu
     
     TOP STORIES
     
+    * [Once taboo, more Japanese women are brewing sake](https://apnews.com/article/japan-sake-women-brewers-84906e38b2be31eac5365ac343c05a0b)
     * [Stanley recalls millions of travel mugs over concerns the lids might fall off, causing burns](https://apnews.com/article/stanley-mug-recall-walmart-amazon-target-08fed4ae4f3f9269285f0ae3cb77a3ab)
     * [AP Photos capture British royal family's year of illness and recovery](https://apnews.com/article/british-royals-king-charles-kate-2024-photos-43e51383f158c3c4907096cc5de79771)
-    * [Greece's only miniature therapy horses bring joy to many, but their charity is struggling](https://apnews.com/article/greece-miniature-horses-pet-therapy-hospitals-06cf8c8fe9f515c6a15ea636c2f22fad)
     
 * [Religion](https://apnews.com/religion)
     
@@ -252,7 +252,7 @@ Menu
     * [Encuesta: Pocos estadounidenses tienen confianza en los seleccionados por Trump para su gabinete](https://apnews.com/article/eeuu-elecciones-trump-nuevo-gobierno-encuesta-fa5b30ade166aed70ff1f96abc2acc73)
     * [Destacado abogado de derechos humanos abandona Corte Penal Internacional por no procesar a Venezuela](https://apnews.com/article/venezuela-cpi-claudio-grossman-maduro-e9f88b398937eb39be06d986cc3b99f3)
     * [Miles de sirios celebran en Damasco en primer viernes de oraciones desde caída de Assad](https://apnews.com/article/siria-damasco-guerra-assad-festejos-4a07496ad7d360f196cf318cc5d51973)
-    * [Jueza de Miami aprueba fianza para gemelos empresarios de bienes raíces acusados de tráfico sexual](https://apnews.com/article/eeuu-ny-trafico-sexual-alexander-florida-official-8601fd3a1c83dc74eb8e2f69c9e33751)
+    * [Parlamento surcoreano votará sobre moción de destitución contra el presidente Yoon por ley marcial](https://apnews.com/article/asia-surcorea-ley-marcial-yoon-destitucion-141a7298d386158456ac29c6c11bc32d)
     * [¿Drones, aviones u ovnis? Misteriosos avistamientos en Nueva Jersey causan revuelo](https://apnews.com/article/drones-jersey-luces-cielo-ovnis-599eea4b200ffa048b24bda90745b489)
     
 * [Quizzes](https://apnews.com/quizzes)
@@ -492,9 +492,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Pro Football Hall of Famer Randy Moss says he's being treated for cancer outside his bowel duct](https://apnews.com/article/randy-moss-85741a3a9bd6e80cf4d8a64fba8e5f16)
-    * [Lindsey Vonn to enter World Cup ski races next weekend in Switzerland in her comeback at age 40](https://apnews.com/article/lindsey-vonn-ski-racing-acdc37bed64444ee601b56f8cf5f965c)
+    * [Pro Football Hall of Famer Randy Moss reveals cancer diagnosis, 6-hour surgery](https://apnews.com/article/randy-moss-85741a3a9bd6e80cf4d8a64fba8e5f16)
     * [De'Vondre Campbell won't be part of the 49ers after his refusal to enter a game, Kyle Shanahan says](https://apnews.com/article/49ers-devondre-campbell-b3517612e22b520bb7c25ceeb65c6a48)
+    * [Yankees get closer Devin Williams from Brewers for Nestor Cortes, Caleb Durbin](https://apnews.com/article/devin-williams-yankees-trade-ab499889ceb5a47b23374d169f35c32f)
     
     Newsletters
     
@@ -540,7 +540,7 @@ Submit Search
     
     * [Supreme Court will take up a challenge related to California's tough vehicle emissions standards](https://apnews.com/article/supreme-court-california-auto-emissions-climate-change-7aff58362d99dd0892b7a8540f3382c1)
     * [Musk says US is demanding he pay penalty over disclosures of his Twitter stock purchases](https://apnews.com/article/musk-sec-twitter-stock-purchases-penalty-letter-0eddad3db779c5b07988d7b9886b10b2)
-    * [Senate begins final push to expand Social Security benefits for millions of people](https://apnews.com/article/senate-social-security-bill-cc9ba7856c1517bc4c9f8cde050954af)
+    * [Trump hosts Apple CEO at Mar-a-Lago as big tech leaders continue outreach to president-elect](https://apnews.com/article/trump-apple-tim-cook-tech-0a9fb8e6df321f6553c23b5138ff1f06)
     
 * [Science](https://apnews.com/science)
     
@@ -664,9 +664,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Trump hosts Apple CEO at Mar-a-Lago as big tech leaders continue outreach to president-elect](https://apnews.com/article/trump-apple-tim-cook-tech-0a9fb8e6df321f6553c23b5138ff1f06)
     * [OpenAI's legal battle with Elon Musk reveals internal turmoil over avoiding AI 'dictatorship'](https://apnews.com/article/elon-musk-openai-lawsuit-sam-altman-chatgpt-36bc55dbb8b4f9e1e5675ff7564e5fa0)
     * [OpenAI's Altman will donate $1 million to Trump's inaugural fund](https://apnews.com/article/sam-altman-donald-trump-openai-3b7a87037f3718eb3edc73e94be8a61a)
-    * [Nearly half of US teens are online 'constantly,' Pew report finds](https://apnews.com/article/teenagers-social-media-internet-pew-survey-02defc5b53dc4216da1efa63c82a30af)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -684,9 +684,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Once taboo, more Japanese women are brewing sake](https://apnews.com/article/japan-sake-women-brewers-84906e38b2be31eac5365ac343c05a0b)
     * [Stanley recalls millions of travel mugs over concerns the lids might fall off, causing burns](https://apnews.com/article/stanley-mug-recall-walmart-amazon-target-08fed4ae4f3f9269285f0ae3cb77a3ab)
     * [AP Photos capture British royal family's year of illness and recovery](https://apnews.com/article/british-royals-king-charles-kate-2024-photos-43e51383f158c3c4907096cc5de79771)
-    * [Greece's only miniature therapy horses bring joy to many, but their charity is struggling](https://apnews.com/article/greece-miniature-horses-pet-therapy-hospitals-06cf8c8fe9f515c6a15ea636c2f22fad)
     
 * [Religion](https://apnews.com/religion)
     
@@ -711,7 +711,7 @@ Submit Search
     * [Encuesta: Pocos estadounidenses tienen confianza en los seleccionados por Trump para su gabinete](https://apnews.com/article/eeuu-elecciones-trump-nuevo-gobierno-encuesta-fa5b30ade166aed70ff1f96abc2acc73)
     * [Destacado abogado de derechos humanos abandona Corte Penal Internacional por no procesar a Venezuela](https://apnews.com/article/venezuela-cpi-claudio-grossman-maduro-e9f88b398937eb39be06d986cc3b99f3)
     * [Miles de sirios celebran en Damasco en primer viernes de oraciones desde caída de Assad](https://apnews.com/article/siria-damasco-guerra-assad-festejos-4a07496ad7d360f196cf318cc5d51973)
-    * [Jueza de Miami aprueba fianza para gemelos empresarios de bienes raíces acusados de tráfico sexual](https://apnews.com/article/eeuu-ny-trafico-sexual-alexander-florida-official-8601fd3a1c83dc74eb8e2f69c9e33751)
+    * [Parlamento surcoreano votará sobre moción de destitución contra el presidente Yoon por ley marcial](https://apnews.com/article/asia-surcorea-ley-marcial-yoon-destitucion-141a7298d386158456ac29c6c11bc32d)
     * [¿Drones, aviones u ovnis? Misteriosos avistamientos en Nueva Jersey causan revuelo](https://apnews.com/article/drones-jersey-luces-cielo-ovnis-599eea4b200ffa048b24bda90745b489)
     
 * [Quizzes](https://apnews.com/quizzes)
