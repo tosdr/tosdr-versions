@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. excel
+1. c
     
-2. marketing
+2. French
     
-3. law
+3. html
     
 
 Popular subjects
 
-1. [Information Technology
+1. [Artificial Intelligence
     
-    5,148 courses](https://www.classcentral.com/subject/information-technology)
-2. [Cybersecurity
+    14,536 courses](https://www.classcentral.com/subject/ai)
+2. [Communication Skills
     
-    17,027 courses](https://www.classcentral.com/subject/cybersecurity)
-3. [Project Management
+    4,369 courses](https://www.classcentral.com/subject/communication-skills)
+3. [Machine Learning
     
-    4,296 courses](https://www.classcentral.com/subject/project-management)
+    17,584 courses](https://www.classcentral.com/subject/machine-learning)
 
 Popular courses
 
-1. [Design Patterns
+1. [Gamification
     
-    University of Alberta](https://www.classcentral.com/course/design-patterns-9215)
-2. [Managing Conflicts on Projects with Cultural and Emotional Intelligence
+    University of Pennsylvania](https://www.classcentral.com/course/gamification-343)
+2. [The Science of Gastronomy
     
-    University System of Maryland](https://www.classcentral.com/course/conflict-resolution-the-university-of-maryland-co-19747)
-3. [Learning How to Learn: Powerful mental tools to help you master tough subjects
+    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/scigast-519)
+3. [The Science of Everyday Thinking
     
-    Deep Teaching Solutions](https://www.classcentral.com/course/learning-how-to-learn-2161)
+    University of Queensland](https://www.classcentral.com/course/thinking-the-university-of-queensland-the-science-1332)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
