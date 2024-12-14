@@ -1,4 +1,4 @@
-[Log In](https://www.cookiebot.com/en/cmp-login/) [About Us](https://www.cookiebot.com/en/about/) [Help](https://support.cookiebot.com/hc/en-us/) [Newsletter](javascript:void(0))
+[Log In](https://www.cookiebot.com/en/cmp-login/) [About Us](https://www.cookiebot.com/en/about/) [Help](https://support.cookiebot.com/hc/en-us/) [Newsletter](https://www.cookiebot.com/?modal=newsletter)
 
 English
 
@@ -24,7 +24,7 @@ Resources
 
 [Pricing](https://www.cookiebot.com/en/pricing/)
 
-[Contact Sales](https://www.cookiebot.com/en/trial-guide-consultation/)[Start Free](https://admin.cookiebot.com/signup)
+[Contact Sales](https://www.cookiebot.com/en/trial-guide-consultation/) [Start Free](https://admin.cookiebot.com/signup)
 
 Cookiebot™ Terms of Service
 ===========================
@@ -33,13 +33,7 @@ Cookiebot™ Terms of Service
 
 Share
 
-[![LinkedIn Logo - Cookiebot](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2025%2025'%3E%3C/svg%3E)
-
-![LinkedIn Logo - Cookiebot](/img/icons/white-linked-in.svg?2)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.cookiebot.com%2Fen%2Fterms-of-service%2F&title=Terms%20of%20Service%20-%20Cookie%20Consent%20Management%20-%20Cookiebot%20CMP)[![Twitter Logo - Cookiebot](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2025%2025'%3E%3C/svg%3E)
-
-![Twitter Logo - Cookiebot](/img/icons/white-twitter.svg?2)](https://twitter.com/share?url=https%3A%2F%2Fwww.cookiebot.com%2Fen%2Fterms-of-service%2F)[![Facebook Logo - Cookiebot](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2025%2025'%3E%3C/svg%3E)
-
-![Facebook Logo - Cookiebot](/img/icons/white-facebook.svg?2)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.cookiebot.com%2Fen%2Fterms-of-service%2F)
+ [![LinkedIn Logo - Cookiebot](/img/icons/white-linked-in.svg?2)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.cookiebot.com%2Fen%2Fterms-of-service%2F&title=Terms%20of%20Service%20-%20Cookie%20Consent%20Management%20-%20Cookiebot%20CMP)[![Twitter Logo - Cookiebot](/img/icons/white-twitter.svg?2)](https://twitter.com/share?url=https%3A%2F%2Fwww.cookiebot.com%2Fen%2Fterms-of-service%2F)[![Facebook Logo - Cookiebot](/img/icons/white-facebook.svg?2)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.cookiebot.com%2Fen%2Fterms-of-service%2F)
 
 Last update: July 1, 2024
 
@@ -340,8 +334,6 @@ Subscribe By clicking on “Subscribe” I confirm that I want to subscribe to t
 
 [![wix_20x20.svg](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/05/wix_20x20.svg)Cookiebot™ for Wix by Usercentrics](https://www.wix.com/app-market/cookiebot-for-wix?utm_source=cb_footer_cta&utm_medium=referral)
 
-![logo-cb-footer](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20110%2032'%3E%3C/svg%3E)
-
 ![logo-cb-footer](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/10/logo-cb-footer.svg)
 
 Euro - €
@@ -376,20 +368,4 @@ Follow us
 
 [](https://www.linkedin.com/showcase/cookiebot/)[](https://twitter.com/CookiebotCMP)[](https://www.facebook.com/CookiebotCMP/)
 
-[![CMP_Badge](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2060%2064'%3E%3C/svg%3E)
-
-![CMP_Badge](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/09/CMP_Badge.svg)](https://www.cookiebot.com/en/google-certified-cmp-requirement-cookiebot/)[![Badge iab Europe TCF (Transparency and Consent Framework) - Cookiebot Registered CMP](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20365%20204'%3E%3C/svg%3E)
-
-![Badge iab Europe TCF (Transparency and Consent Framework) - Cookiebot Registered CMP](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2023/08/iab_tcf_certification.png)](https://www.cookiebot.com/en/iab-cookies/)![Patented Scanner](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20240'%3E%3C/svg%3E)
-
-![Patented Scanner](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2023/11/cb_patented.svg)
-
-[![G2 Badges - Users love us | Cookiebot](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2089%20105'%3E%3C/svg%3E)
-
-![G2 Badges - Users love us | Cookiebot](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/01/Cookiebot-G2-badges.svg)](https://www.g2.com/products/cookiebot-by-usercentrics/reviews)![Compliance-Software-Q3](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
-
-![Compliance-Software-Q3](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/11/Compliance-Software-Q3.svg)
-
-[![Capterra](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
-
-![Capterra](/wp-content/uploads/img/AnVkVKtyGYKAcI3E.svg?t=ad9c7475)](https://www.capterra.com/p/240030/Cookiebot/reviews/)
+ [![CMP_Badge](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/09/CMP_Badge.svg)](https://www.cookiebot.com/en/google-certified-cmp-requirement-cookiebot/)[![Badge iab Europe TCF (Transparency and Consent Framework) - Cookiebot Registered CMP](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2023/08/iab_tcf_certification.png)](https://www.cookiebot.com/en/iab-cookies/)![Patented Scanner](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2023/11/cb_patented.svg) [![G2 Badges - Users love us | Cookiebot](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/01/Cookiebot-G2-badges.svg)](https://www.g2.com/products/cookiebot-by-usercentrics/reviews)![Compliance-Software-Q3](https://www.cookiebot.com/en/wp-content/uploads/sites/7/2024/11/Compliance-Software-Q3.svg) [![Capterra](https://brand-assets.capterra.com/badge/7dffac7b-78c9-4d7a-b056-35bc76aae2f1.svg)](https://www.capterra.com/p/240030/Cookiebot/reviews/)
