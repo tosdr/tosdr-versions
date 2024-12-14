@@ -119,5 +119,3 @@ If you have any questions about this policy, please direct inquiries to [custome
 |
 
 #### Copyright 2024
-
-![](https://www.facebook.com/tr?id=842297769727515&ev=PageView&noscript=1)
