@@ -31,6 +31,936 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Raúl Ilaquiche, esposo de Lourdes Tibán, falleció en siniestro de tránsito este viernes
+=======================================================================================
+
+El siniestro en el que falleció Raúl Ilaquiche, esposo de Lourdes Tibán, prefecta de Cotopaxi, ocurrió en Tambillo, al norte de Quito.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Raúl Illaquiche, esposo de Lourdes Tibán, falleció en un siniestro de tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/12/raul-ilaquiche-lourdes-tiban.jpg)
+
+**Raúl Ilaquiche**, esposo de la **prefecta de Cotopaxi**, **Lourdes Tibán**, falleció la tarde de este viernes 13 de diciembre de 2024 en un siniestro de tránsito.
+
+El suceso ocurrió en el sector de **Tambillo**, cantón Mejía, Pichincha.
+
+### Más noticias:
+
+* [Volcán Cotopaxi presenta cambios en su actividad sísmica](https://www.elcomercio.com/actualidad/ecuador/volcan-cotopaxi-cambios-actividad-sismica.html "Volcán Cotopaxi presenta cambios en su actividad sísmica")
+* [Ciclistas extraviados en el Parque Cotopaxi fueron encontrados](https://www.elcomercio.com/actualidad/ecuador/ciclistas-desaparecidos-parque-cotopax.html "Ciclistas extraviados en el Parque Cotopaxi fueron encontrados")
+
+El fallecimiento del esposo de Lourdes Tibán, Raúl Ilaquiche, en un siniestro de tránsito
+-----------------------------------------------------------------------------------------
+
+El **vehículo** en el que se transportaba **Raúl Ilaquiche** se volcó en la vía que estaba mojada por la lluvia.
+
+Informes preliminares señalaron que existen **dos heridos más**, producto de este siniestro de tránsito.
+
+En redes sociales, **prefectos** y otras autoridades seccionales se solidarizaron con Tibán.
+
+Ilaquiche es un indígena del pueblo **Kichwa de Tigua**.
+
+Fue **Premio Bartolomé de las Casas** 2008, autoridad indígena y exdiputado.
+
+**Abogado**, PHD, docente Universitario y en libre ejercicio profesional.
+
+Actuaba como abogado defensor del líder de la **Confederación de Nacionalidades Indígenas del Ecuador (Conaie)**, Leonidas Iza.
+
+Un árbol grande cayó en Cuenca ¿Hubo heridos?
+=============================================
+
+Los Bomberos de Cuenca intervinieron en la emergencia del árbol caído en coordinación con otros organismos de socorro.
+----------------------------------------------------------------------------------------------------------------------
+
+![El árbol que cayó en Cuenca atravesó el río Tomebamba y alcanzó a una casa.](https://www.elcomercio.com/wp-content/uploads/2024/12/arbol-cuenca.jpg)
+
+Un **árbol** de gran tamaño cayó en **Cuenca** la tarde de este viernes 13 de diciembre de 2024.
+
+La emergencia fue atendida por el **Cuerpo de Bomberos** de esa ciudad en coordinación con otras instituciones.
+
+### Más noticias:
+
+* [Cortes de luz en Cuenca del lunes 16 al jueves 19 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-en-cuenca-del-lunes-16-al-jueves-19-de-diciembre.html "Cortes de luz en Cuenca del lunes 16 al jueves 19 de diciembre")
+* [Fuertes lluvias en Cuenca continúan; los ríos recuperan sus caudales](https://www.elcomercio.com/actualidad/cuenca/fuertes-lluvias-cuenca-rios-caudales.html "Fuertes lluvias en Cuenca continúan; los ríos recuperan sus caudales")
+
+Los daños ocasionados por el árbol caído en Cuenca
+--------------------------------------------------
+
+La tarde de este viernes un árbol cayó en el sector del **Paseo Tres de Noviembre y los Cedros, sector Puertas del Sol**, Cuenca.
+
+El tronco del árbol cruzó el río, una calle y terminó afectando el cerramiento y **fachada de una vivienda** de la zona.
+
+Además, **dos mujeres y un menor** resultaron heridos.
+
+Fueron **trasladados** a una casa de salud para recibir atención por sus heridas.
+
+Personas que trabajan y residen en este sector ayudaron a los cuerpos de socorro a cortar el árbol para **rescatar** a las mujeres y el niño.
+
+Los **Bomberos de Cuenca** estabilizaron a las víctimas.
+
+El sargento **Pablo Sánchez** manifestó que dos pacientes fueron atendidos por la ambulancia del Cuerpo de Bomberos.
+
+El tercero por la ambulancia del **Ministerio de Salud**.
+
+Sánchez explicó que se debe tener precaución por la **época lluviosa**, pues las orillas de los ríos se mojan y la tierra se mueve, los árboles se desestabilizan y pueden caer.
+
+Policía reclutaba menores de edad y los preparaba para sicarios en Manabí
+=========================================================================
+
+Un policía en servicio activo fue detenido en Manabí por presuntamente reclutar niños y adolescentes para entrenarlos como sicarios.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![El policía recibió prisión preventiva mientras avanzan las investigaciones](https://www.elcomercio.com/wp-content/uploads/2024/12/sicariato-policia-ninos-manabi.jpg)
+
+Un **policía en servicio activo** fue detenido por su presunta participación en el delito de **trata de personas**. Se presume que el uniformado **reclutaba menores de edad** para que cometan asesinatos. al estilo **sicariato**.
+
+### Más noticias
+
+* [Policía encontró casi 12 millones de dólares en billetes falsos en Quito ¿Hay detenidos?](https://www.elcomercio.com/actualidad/seguridad/policia-encontro-casi-12-millones-dolares-billetes-falsos-quito-detenidos.html "Policía encontró casi 12 millones de dólares en billetes falsos en Quito ¿Hay detenidos?")
+* [Fiscalía procesa a tres personas, incluido un policía en operativo en Daule y Samborondón](https://www.elcomercio.com/actualidad/seguridad/fiscalia-procesa-tres-personas-policia-operativo-daule-samborondon.html "Fiscalía procesa a tres personas, incluido un policía en operativo en Daule y Samborondón")
+* [Policía desarticula un centro de videovigilancia clandestino en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/policia-desarticula-centro-de-videovigilancia-clandestino-guayaquil.html "Policía desarticula un centro de videovigilancia clandestino en Guayaquil")
+
+El cabo primero fue sorprendido mientras descansaba en su casa ubicada en el cantón **Jipijapa**, en la provincia de **Manabí**, la madrugada de este jueves 12 de diciembre.
+
+Las investigaciones previas al **operativo ‘Embestida’** señalan que el policía presuntamente **reclutaba niños y adolescentes**, y los entrenaba en el **manejo de armas**.
+
+Los menores de edad entrenados eran enviados a **cometer delitos**, que incluían **homicidios**.
+
+Fiscalía dictó prisión preventiva a policía
+-------------------------------------------
+
+La Fiscalía dictó **prisión preventiva** de 90 días para el hombre, mientras se recogen más evidencias.
+
+El miembro de la Policía Nacional es investigado por el delito de **trata de personas** con fin de **reclutamiento forzoso** para conflictos armados o para el cometimiento de actos penados por la ley[.](https://www.policia.gob.ec/ "https://www.policia.gob.ec/")
+
+De verificarse su participación, el oficial podría recibir entre **16 a 19 años de prisión**. El artículo 92 del Código Orgánico Integral Penal (COIP) sanciona con este tiempo:
+
+“Si la infracción recae en personas de uno de los grupos de atención prioritaria (…) o existe **vínculo de autoridad civil, militar**, educativa, religiosa o laboral”.
+
+Excoronel y capitán, involucrados en tráfico de droga
+-----------------------------------------------------
+
+La **Policía Nacional** ejecutó en la madrugada del jueves el **operativo Gran Fénix 52 Gibraltar**, en conjunto con la Unidad de Drogas y Crimen Organizado y la Fiscalía.
+
+En total se realizaron10 allanamientos en las provincias de **Pichincha, Guayas y El Oro**, lo que culminó con la detención de ocho **ciudadanos ecuatorianos**. Entre ellos, **alias ‘Carlitos’**, identificado como un **objetivo de alto valor** por ser quien lideraba esta red de tráfico de sustancias.
+
+Entre los detenidos también se encontró un **coronel en servicio pasivo de la Policía**, quien era jefe de Antinarcóticos, y **un capitán de la Armada,** quienes serían parte de una red de narcotráfico.
+
+Los uniformados allanaron una casa en el sector de **El Condado,** norte de Quito, donde detuvieron al exservidor policial **Julio César Miño.**
+
+Según las autoridades, la organización utilizaba la **contaminación de contenedores** para enviar cocaína al continente europeo.
+
+Esta investigación se dio un año después de la incautación en España de un cargamento de 7,3 toneladas de droga.
+
+Max Verstappen cumple servicio comunitario impuesto como sanción por FIA
+========================================================================
+
+El piloto Max Verstappen, de 27 años, cumplió en Ruanda el servicio comunitario impuesto como sanción por la FIA
+----------------------------------------------------------------------------------------------------------------
+
+![El cuatro veces campeón mundial de pilotos de Fórmula 1, Max Verstappen, habla mientras realiza el servicio comunitario ordenado por la FIA en Kigali, Ruanda.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-62.jpg)
+
+El neerlandés **Max Verstappen** (Red Bull), que logró este año su cuarto **Mundial de Fórmula 1** (seguido), cumplió este viernes 13 de diciembre del 2024 en Ruanda el servicio comunitario impuesto como sanción por la **Federación Internacional del Automóvil** (FIA) por un exabrupto en una rueda de prensa el pasado septiembre en Singapur.
+
+En la capital ruandesa, Kigali, **Verstappen** -que este año logró su cuarta corona tras ganar nueve de las 24 carreras del Mundial más largo de la historia- se reunió, como parte de su servicio comunitario, con estudiantes del Colegio Politécnico Regional Integrado (IPRC, en sus siglas en inglés) que diseñaron un vehículo todoterreno.
+
+### Más noticias:
+
+* [Los cambios en la Fórmula 1 para el 2025](https://www.elcomercio.com/deportes/cambios-formula-1-2025-equipos-pilotos.html "Los cambios en la Fórmula 1 para el 2025")
+* [Richard Schunke, capitán y multicampeón con IDV](https://www.elcomercio.com/deportes/futbol/richard-schunke-titulos-independiente-valle.html "Richard Schunke, capitán y multicampeón con IDV")
+* [Pichincha ampliará su dominio sobre Guayas en campeonato nacional](https://www.elcomercio.com/deportes/futbol/pichincha-guayas-titulos-campeonato-naciona.html "Pichincha ampliará su dominio sobre Guayas en campeonato nacional")
+
+Max Verstappen
+--------------
+
+“Muchas gracias por estar aquí. Es mi primera vez en este país”, afirmó el piloto, vestido con unos pantalones vaqueros y una camiseta gris y acompañado por el presidente de la FIA, Mohammed Ben Sulayem, y el ministro ruandés de Deportes, Richard Nyirishema, entre otros.
+
+**Max Verstappen**, de 27 años, les habló a los estudiantes del “sueño de llegar a la **Fórmula 1**“, que empieza a veces con logros como el automóvil diseñado por los alumnos.
+
+Tras su encuentro con los jóvenes, el corredor se puso un esmoquin para asistir en Kigali a la ceremonia de entrega de premios de la **FIA,** en la que recogerá oficialmente su trofeo de campeón del mundo en presencia del presidente de Ruanda, **Paul Kagame.**
+
+‘Max Max’ fue castigado por el organismo rector de la F1 por utilizar malas palabras el pasado septiembre durante una conferencia de prensa del **Gran Premio de Singapur 2024** al describir el comportamiento de su bólido.
+
+“Es política de la **FIA** garantizar que el lenguaje utilizado en sus foros públicos, como las conferencias de prensa, cumpla con los estándares generalmente aceptados para todos los públicos y transmisiones”, afirmó entonces el órgano rector, que obligó al piloto de Red Bull a “realizar algún trabajo de interés público”.
+
+Kigali acogió esta semana la **Asamblea General** anual de la **FIA**, que por primera vez tiene lugar en una ciudad africana, donde el presidente Kagame anunció la candidatura de Ruanda a albergar una carrera de Fórmula 1.
+
+“Me complace anunciar formalmente que Ruanda presenta su candidatura para devolver la emoción de las carreras a África albergando el Gran Premio de F1”, afirmó este viernes el mandatario ruandés.
+
+Cinco personas, a juicio por presunto lavado de activos en el caso PipMaster
+============================================================================
+
+Fiscalía investiga a la empresa PipMaster por presuntamente captar dinero de forma ilegal y utilizarlo en lavado de activos.
+----------------------------------------------------------------------------------------------------------------------------
+
+![PipMaster operaba como una estructura societaria con una variedad de locales comerciales](https://www.elcomercio.com/wp-content/uploads/2024/12/pipmaster-lavado-activos-juicio.jpg)
+
+Un Juez de la Unidad Penal de **Santo Domingo** llamó a **juicio** a **cinco personas naturales** y a 26 jurídicas por el **caso PipMaster**. La empresa es investigada por presuntamente **captar dinero de forma ilegal** y lavar activos con estos recursos.
+
+### Más noticias
+
+* [Fiscalía solicitó 9 años y 4 meses de prisión para expresidente del Consejo de la Judicatura](https://www.elcomercio.com/actualidad/seguridad/fiscalia-solicito-9-anos-4-meses-prision-expresidente-consejo-judicatura.html "Fiscalía solicitó 9 años y 4 meses de prisión para expresidente del Consejo de la Judicatura")
+* [Comisión de Fiscalización se refirió al juicio político de Juan Esteban Guarderas](https://www.elcomercio.com/actualidad/politica/comision-fiscalizacion-refirio-juicio-politico-juan-esteban-guarderas.html "Comisión de Fiscalización se refirió al juicio político de Juan Esteban Guarderas")
+* [Familia irá a juicio por actos de odio contra pariente transgénero, en Manabí](https://www.elcomercio.com/actualidad/ecuador/familia-juicio-secuestro-pariente-transgenero-manabi.html "Familia irá a juicio por actos de odio contra pariente transgénero, en Manabí")
+
+En la audiencia de este viernes 13 de diciembre de 2024 se dictó auto de llamamiento a juicio contra **Christian J.**, representante legal de la entidad, y otros cuatro ciudadanos.
+
+Fiscalía investiga el presunto lavado de 18 millones de dólares
+---------------------------------------------------------------
+
+Según Fiscalía, las investigaciones apuntan a que la empresa captaba dinero a cambio de ofrecer **exorbitantes porcentajes de interés**. Asimismo, se presume que PipMaster lavó activos en **mercados nacionales e internacionales** por cerca de **18 millones de dólares**.
+
+La compañía operaba a nivel nacional, pero Quito y Santo Domingo eran las ciudades donde más dinero se movía. PipMaster ofrecían **altos retornos**, que iban desde el 8 % al **30 % mensual**, cuando el promedio entregado por bancos y cooperativas es menor al 1 %.
+
+PipMaster utilizaba la fachada de una **estructura societaria**, compuesta por varias empresas que se dedicaban a **actividades comerciales específicas**, como: restaurantes, cafetería, heladerías, actividad deportiva, salón de bolos, publicidad, capacitación, construcción, entre otros[.](https://www.fiscalia.gob.ec/sala-de-prensa/ "https://www.fiscalia.gob.ec/sala-de-prensa/")
+
+La mayoría de establecimientos utilizaban el prefijo Pip para identificarse comercialmente, por ejemplo: **Pip Coffee** o **Pip Home**.
+
+¿Cómo captaba dinero PipMaster?
+-------------------------------
+
+**EL COMERCIO** conversó con uno de los afectados por PipMaster. ‘Mauricio’, nombre protegido, contó que conoció de la empresa por un cercano. Su amigo le recomendó a una ‘asesora comercial’ en Quito para que le explicara como funcionaba la ‘**inversión**‘.
+
+Según relató, la compañía contaba con colaboradores, cuyo trabajo era captar personas y acompañarlos hasta la **firma de los contratos**, que, según la entidad, servirían en un futuro para respaldar la transacción de forma legal.
+
+En la capital, las oficinas se ubicaban en un edificio de la av. Naciones Unidas, en el centro norte. En este lugar se ‘capacitaba’ a los asesores.
+
+“Cuando les preguntábamos el porqué de los altos retornos nos decían que ellos invierten el dinero en **bolsa de valores** internacionales y que, al estar el dinero en Estados Unidos, era seguro que no se perdería”, comentó Mauricio.
+
+El afectado colocó en PipMaster un determinado valor, que prefirió no contar cuanto. Durante un año y medio recibió cerca de **80 dólares mensuales**; esto, hasta junio de 2021. Al mes siguiente, Fiscalía **allanó las oficinas** de la empresa y los pagos se suspendieron.
+
+“Les escribí tanto a mi asesora, como al jefe de ella, al principio respondían afirmando que pronto se solucionaría todo, luego dejaron de responder, el último mensaje que recibí de ellos fue grosero, **ya no insistí más**“.
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | Caso [#PipMaster](https://twitter.com/hashtag/PipMaster?src=hash&ref_src=twsrc%5Etfw): Juez de la Unidad Penal de [#SantoDomingo](https://twitter.com/hashtag/SantoDomingo?src=hash&ref_src=twsrc%5Etfw) dictó auto de llamamiento a juicio contra Christian J., Natalia G., 3 personas naturales más y 26 personas jurídicas por presunto [#LavadoDeActivos](https://twitter.com/hashtag/LavadoDeActivos?src=hash&ref_src=twsrc%5Etfw). También dispuso el sobreseimiento a favor de una empresa. [pic.twitter.com/3M7tHFs9fa](https://t.co/3M7tHFs9fa)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [December 13, 2024](https://twitter.com/FiscaliaEcuador/status/1867408796491849917?ref_src=twsrc%5Etfw)
+
+Cronología del caso PipMaster
+-----------------------------
+
+**El 22 de julio de 2021**
+
+Fiscalía inició una investigación previa por el presunto delito de **lavado de activos**, teniendo como datos precedentes, la captación ilegal de dinero.
+
+La empresa fue reportada por la **Superintendencia de Compañías**, por no contar con la autorización para realizar operaciones de casa de valores. La investigación se originó en un reporte de operaciones inusuales e injustificadas.
+
+**12 de julio de 2022**
+
+Fiscalía, junto a la Policía Nacional realiza **30 allanamientos simultáneos** en seis provincias: Pichincha, Santo Domingo de los Tsáchilas, El Oro, Azuay, Orellana y Manabí.
+
+Las autoridades incautaron varias evidencias, como parte de la investigación previa[.](https://www.fiscalia.gob.ec/sala-de-prensa/ "https://www.fiscalia.gob.ec/sala-de-prensa/")
+
+**13 de julio de 2022**
+
+Al día siguiente, las seis personas aprehendidas en los operativos **recibieron cargos**.
+
+Fiscalía presentó más de 45 indicios contra los procesados, entre los que constaron información financiera, informes de la Superintendencia de Compañías, del Servicio de Rentas Internas (SRI) y de la Unidad de Análisis Financiero y Económico (UAFE).
+
+El Juez del caso dictó prisión preventiva para **Cristhian J., Vicente S. y Christian Andrés R.**; mientras que a **Gabriela A., Natalia G. e Iván G.** les dispuso la prohibición de salida del país y presentación periódica.
+
+**22 de julio de 2022**
+
+Dentro de la investigación se determinó la presunta participación de una estructura societaria, razón por la cual, la Fiscalía General del Estado vinculó a **26 personas jurídicas** a la causa por presunto lavado de activos, que involucra a la empresa PipMaster Cía. Ltda.
+
+**3 de agosto de 2022**
+
+La Sala Multicompetente de la Corte Provincial de Santo Domingo aceptó el recurso de apelación a la prisión preventiva de Cristhian J. A., Christian R. Z. y Vicente S. P. y les dictó **presentación diaria** ante Fiscalía.
+
+‘Como agua para chocolate’: Tita de la Garza a través de dos generaciones
+=========================================================================
+
+Azul Guaita y Lumi Cavazos han dado vida a Tita.
+------------------------------------------------
+
+![Azul Guaita y Lumi Cavazos han dado vida a Tita de la Garza, la protagonista de 'Como agua para chocolate'.](https://www.elcomercio.com/wp-content/uploads/2024/12/como-agua-para-chocolate-El-Comercio.jpg)
+
+Desde su creación en ‘**Como agua para chocolate**‘, de **Laura Esquivel**, **Tita de la Garza** simboliza la resistencia, la pasión y el poder transformador de las emociones.
+
+En un México marcado por las tradiciones, su vida está definida por una regla familiar: debe permanecer soltera para cuidar a su madre, Mamá Elena.
+
+### Más noticias:
+
+* **[¡Regresa ‘Malcolm in the middle’ con nuevos episodios!](https://www.elcomercio.com/afull/malcolm-in-the-middle-regreso-disney.html "https://www.elcomercio.com/afull/malcolm-in-the-middle-regreso-disney.html")**
+* **[‘Heretic’, una película de terror psicológico que desafía la fe](https://www.elcomercio.com/tendencias/heretic-pelicula-terror.html "https://www.elcomercio.com/tendencias/heretic-pelicula-terror.html")**
+
+Sin embargo, Tita encuentra en la cocina un refugio y un lenguaje para expresar sus deseos y desafíos. Este personaje icónico ha sido llevado a la pantalla en dos adaptaciones que destacan por su profundidad y sensibilidad.
+
+Lumi Cavazos: La Tita del cine
+------------------------------
+
+La película de 1992, dirigida por **Alfonso Arau**, introdujo a Tita al público internacional con una actuación inolvidable de **Lumi Cavazos**. Según _Variety_, Cavazos logró transmitir la intensidad emocional del personaje, fusionando fragilidad y fuerza con una autenticidad que cautivó audiencias en todo el mundo.
+
+Su interpretación le valió premios en festivales como Tokio y Gramado, lo que impulsó su carrera a nivel global y la llevó a trabajar en Hollywood. La película, considerada un éxito del cine mexicano, también popularizó la historia más allá de los lectores del libro.
+
+Azul Guaita: La Tita moderna
+----------------------------
+
+Tres décadas después, **HBO Max** lanzó en noviembre de 2024 una serie basada en la novela, con **Azul Guaita** como protagonista. La actriz mexicana ofreció una visión contemporánea de Tita, manteniendo la esencia del personaje original mientras conectaba con nuevas generaciones.
+
+En una entrevista para El País, Guaita expresó que interpretar a Tita fue un reto emocional y profesional: “Es un personaje que te transforma; te conecta con la fortaleza interior y la lucha por la libertad”.
+
+Un legado atemporal
+-------------------
+
+Ambas interpretaciones han logrado mantener vivo el legado de Tita. Mientras Cavazos llevó al personaje a la gran pantalla en una época donde el cine mexicano buscaba consolidarse internacionalmente, Guaita lo reintroduce en un formato serial que explora su complejidad con mayor profundidad.
+
+La historia de Tita, cargada de simbolismo y emociones, sigue siendo un referente cultural que inspira a nuevas audiencias.
+
+La primera temporada de la **serie de Max** llegó a su fin, pero ‘Como agua para chocolate’ continúa. Mariano César, ejecutivo de contenidos locales de la compañía, anunció que habrá la segunda temporada.
+
+Vuelo de American Airlines aterriza de emergencia tras chocar con un ave
+========================================================================
+
+Las imágenes, publicadas en redes sociales, muestran el avión inclinándose mientras el motor se ve afectado.
+------------------------------------------------------------------------------------------------------------
+
+![Imagen de un avión American Airlines.](https://www.elcomercio.com/wp-content/uploads/2024/12/avion-american-oki.jpg)
+
+El vuelo 1722 de **[American Airlines](https://es.wikipedia.org/wiki/American_Airlines "https://es.wikipedia.org/wiki/American_Airlines")**, que partió la noche del 12 de diciembre de 2024, desde el **Aeropuerto LaGuardia** (LGA) de Nueva York, tuvo que realizar un **aterrizaje de emergencia** poco después de su despegue.
+
+### Más noticias
+
+* [Google Flights: Herramienta para buscar boletos de avión baratos](https://www.elcomercio.com/tecnologia/google-flights-herramienta-buscar-boletos-de-avion-baratos.html "https://www.elcomercio.com/tecnologia/google-flights-herramienta-buscar-boletos-de-avion-baratos.html")
+* [Ecuador registró más de 1,2 millones de pasajeros aéreos en primer trimestre](https://www.elcomercio.com/actualidad/negocios/ecuador-registro-pasajeros-aereos-trimestre.html "https://www.elcomercio.com/actualidad/negocios/ecuador-registro-pasajeros-aereos-trimestre.html")
+* [EE.UU. prohíbe a sus aerolíneas comerciales volar sobre Afganistán](https://www.elcomercio.com/actualidad/eeuu-prohibe-aerolineas-comerciales-afganistan.html "https://www.elcomercio.com/actualidad/eeuu-prohibe-aerolineas-comerciales-afganistan.html")
+
+La aeronave, que se dirigía a Charlotte, **Carolina del Norte**, sufrió una grave falla en uno de sus motores al ser impactado por un pájaro. Este incidente obligó a los pilotos a redirigir el vuelo al **Aeropuerto Internacional John F. Kennedy (JFK)**, ubicado a solo unos kilómetros de distancia, de acuerdo con El Diario NY.
+
+Momento crítico captado por un pasajero
+---------------------------------------
+
+El suceso, que ocurrió poco después de las 19:20, fue registrado en **video por un pasajero**, quien captó el preciso instante en que el **motor derecho del avión** succiona al ave, causando una explosión y llamas.
+
+Las imágenes, publicadas en redes sociales, muestran el **avión inclinándose mientras el motor** se ve afectado. La Autoridad Portuaria de Nueva York y Nueva Jersey (PANYNJ) informó que el motor izquierdo quedó inutilizado, y el **avión pudo aterrizar con seguridad** utilizando solo el motor derecho.
+
+Afortunadamente, no se reportaron heridos. Sin embargo, algunos pasajeros, aterrados por la situación, compartieron su experiencia tras aterrizar. **“Pensé que iba a morir”,** expresó Amy Stamper, una de las afectadas. Los pasajeros fueron reprogramados para completar su vuelo la mañana siguiente.
+
+Historial de incidentes similares
+---------------------------------
+
+Este incidente no es el primero de su tipo. En 2009, el **choque con aves fue la causa del famoso** ‘Milagro en el Hudson’, cuando un **avión de US Airways aterrizó a salvo en el río Hudson** tras perder ambos motores. Otros vuelos también sufrieron **desviaciones** similares por impactos con aves, como ocurrió en 2019 y 2020.
+
+Cortes de luz en Guayaquil este sábado 14 de diciembre
+======================================================
+
+Los cortes de luz en Guayaquil este sábado 14 de diciembre son de hasta tres horas, en el sector residencial.
+-------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil este sábado 14 de diciembre son definidos por CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-guayaquil-sabado-14-diciembre.jpg)
+
+Los **cortes de luz** en **Guayaquil** este **sábado 14 de diciembre de 2024** son de hasta tres horas.
+
+La **CNEL** definió la programación de la suspensión de energía eléctrica en la capital.
+
+### Más noticias:
+
+* [Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos](https://www.elcomercio.com/actualidad/ecuador/gobierno-ratifica-fin-cortes-luz-ecuador.html "Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos")
+* [Quito tendrá cortes de luz de dos horas del lunes 16 al jueves 19 de diciembre](https://www.elcomercio.com/actualidad/quito/quito-cortes-luz-dos-horas-lunes-16-jueves-19-diciembre.html "Quito tendrá cortes de luz de dos horas del lunes 16 al jueves 19 de diciembre")
+
+Horarios de cortes de luz en Guayaquil este sábado 14 de diciembre
+------------------------------------------------------------------
+
+A diez días de que se cumplan tres meses de la implementación de cortes de luz programados, el Gobierno de **Daniel Noboa** ratificó el fin de los mismos para este 20 de diciembre.
+
+La dependencia de las lluvias para la **generación energética** hizo que el 23 de septiembre el Gobierno decidieron programar racionamientos eléctricos en todo el país.
+
+Ecuador atravesó por cortes de luz de hasta **14 horas diarias**, siendo los cortes de esta semana los más reducidos, con tres horas de duración.
+
+Los apagones comenzaron en **abril**, pero se suspendieron luego de unos días.
+
+Para la última semana de racionamientos eléctricos, del **lunes 16 al jueves 19 de diciembre**, la programación se redujo a dos horas.
+
+El Gobierno tomó en cuenta tres factores para terminar con los apagones: la **situación hidrológica** en Ecuador, los p**royectos de inversión emergentes** y la **compra de energía a Colombia**.
+
+El funcionamiento de las **hidroeléctricas** mejoró con el incremento de lluvias que favorecieron a los caudales de los ríos y los embalses.
+
+El Gobierno también confía en la activación y reactivación de proyectos hidroeléctricos, termoeléctricos y otros que mejorarán la **capacidad instalada**.
+
+La compra de energía a Colombia y la generación eléctrica privada también fueron factores importantes en medio de esta **sequía**.
+
+A continuación, los **cortes de luz** en **Guayaquil** este **sábado 14 de diciembre** de 2024 por sectores y horarios:
+
+Cortes de luz en Quito este sábado 14 de diciembre
+==================================================
+
+Los cortes de luz en Quito este sábado 14 de diciembre durarán tres horas.
+--------------------------------------------------------------------------
+
+![Los cortes de luz en Quito este sábado 14 de diciembre son definidos por EEQ.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-quito-sabado-14-diciembre.jpg)
+
+Los **cortes de luz** en **Quito** este **sábado 14 de diciembre de 2024** son de hasta tres horas.
+
+La **Empresa Eléctrica Quito (EEQ)** definió la programación de la suspensión de energía eléctrica en la capital.
+
+### Más noticias:
+
+* [Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos](https://www.elcomercio.com/actualidad/ecuador/gobierno-ratifica-fin-cortes-luz-ecuador.html "Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos")
+* [Quito tendrá cortes de luz de dos horas del lunes 16 al jueves 19 de diciembre](https://www.elcomercio.com/actualidad/quito/quito-cortes-luz-dos-horas-lunes-16-jueves-19-diciembre.html "Quito tendrá cortes de luz de dos horas del lunes 16 al jueves 19 de diciembre")
+
+Horarios de cortes de luz en Quito este sábado 14 de diciembre
+--------------------------------------------------------------
+
+A diez días de que se cumplan tres meses de la implementación de cortes de luz programados, el Gobierno de **Daniel Noboa** ratificó el fin de los mismos para este 20 de diciembre.
+
+La dependencia de las lluvias para la **generación energética** hizo que el 23 de septiembre el Gobierno decidieron programar racionamientos eléctricos en todo el país.
+
+Ecuador atravesó por cortes de luz de hasta **14 horas diarias**, siendo los cortes de esta semana los más reducidos, con tres horas de duración.
+
+Los apagones comenzaron en **abril**, pero se suspendieron luego de unos días.
+
+Para la última semana de racionamientos eléctricos, del **lunes 16 al jueves 19 de diciembre**, la programación se redujo a dos horas.
+
+El Gobierno tomó en cuenta tres factores para terminar con los apagones: la **situación hidrológica** en Ecuador, los p**royectos de inversión emergentes** y la **compra de energía a Colombia**.
+
+El funcionamiento de las **hidroeléctricas** mejoró con el incremento de lluvias que favorecieron a los caudales de los ríos y los embalses.
+
+El Gobierno también confía en la activación y reactivación de proyectos hidroeléctricos, termoeléctricos y otros que mejorarán la **capacidad instalada**.
+
+La compra de energía a Colombia y la generación eléctrica privada también fueron factores importantes en medio de esta **sequía**.
+
+A continuación, los **cortes de luz** en **Quito** este **sábado 14 de diciembre** de 2024 por sectores y horarios:
+
+Nuevas oleadas de bombardeos israelíes contra Siria, incluso a las afueras de Damasco
+=====================================================================================
+
+Una primera oleada alcanzó seis objetivos distintos en los alrededores de la capital siria y la provincia meridional de Al Sueida.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Soldados israelíes en un puesto de avanzada en los Altos del Golán anexados por Israel.](https://www.elcomercio.com/wp-content/uploads/2024/12/soldados-israel-guerra-efe.jpg)
+
+Israel lanzó este viernes, 13 de diciembre de 2024, dos **nuevas oleadas de bombardeos** contra objetivos militares pertenecientes al derrocado régimen de **Bashar al Asad** en diferentes puntos de Siria, que incluso alcanzaron las **afueras de Damasco,** informaron diversas fuentes.
+
+### Más noticias
+
+* [Kurdosirios repelen los ataques en el norte de Siria](https://www.elcomercio.com/actualidad/mundo/kurdosirios-repelen-ataques-norte-de-siria-y-anuncian-muerte-210-proturcos.html "Kurdosirios repelen los ataques en el norte de Siria")
+* [Protestas en Manbech, norte de Siria, tras ser tomada por facciones proturcas](https://www.elcomercio.com/actualidad/mundo/protestas-masivas-manbech-norte-siria-tras-ser-tomada-facciones-proturcas.html "Protestas en Manbech, norte de Siria, tras ser tomada por facciones proturcas")
+* [¿Qué sigue para Siria y el mundo tras la caída de Bashar al Asad?](https://www.elcomercio.com/actualidad/mundo/sigue-para-siria-mundo-caida-bashar-asad.html "¿Qué sigue para Siria y el mundo tras la caída de Bashar al Asad?")
+
+Una **primera oleada** alcanzó seis objetivos **distintos en los alrededores de la capital sir**ia y la provincia meridional de Al Sueida, según un comunicado del Observatorio Sirio de Derechos Humanos, con sede en el Reino Unido y una amplia red de colaboradores sobre el terreno.
+
+“La aviación israelí reanudó sus **ataques aéreos** con nuevas acciones dirigidas contra la cima del **Monte Qasioun en Damasco,** el aeropuerto de Jalajla a las afueras de Al Sueida (sur) y los laboratorios de Defensa e Investigación en Masyaf (noroeste)”, agregó poco después la organización en una segunda nota.
+
+Por su parte, la Televisión Siria, controlada por las autoridades interinas del país, confirmó que se produjeron **“intensos” bombardeos israelíes** contra los alrededores de Damasco, donde se pudieron escuchar varias explosiones.
+
+Bombardeos contra ejército sirio
+--------------------------------
+
+Aunque Israel ya llevaba a cabo desde hace años **bombardeos contra objetivos del Ejército sirio** y de sus aliados proiraníes en Siria, la Fuerza Aérea israelí ha destruido cientos de objetivos militares en el país árabe desde la caída del Gobierno de Al Asad, el pasado día 8.
+
+Su intención sería **evitar que esta infraestructura y armamento caiga** en manos de los insurgentes que lo derrocaron.
+
+Tras el **derrocamiento del presidente sirio,** Israel también desplegó a su Ejército en la zona desmilitarizada con Siria.
+
+Este mismo viernes, el **ministro de Defensa israelí, Israel Katz,** ordenó a sus tropas mantener durante los meses de invierno sus **posiciones en el lado sirio del monte Hermón**, en la zona desmilitarizada de los Altos del Golán, y lo justificó como “un asunto de seguridad de gran importancia”.
+
+Israel ya ocupaba la mayor parte de los **Altos del Golán** desde que los arrebató a Siria durante la Guerra de los Seis Días, de 1967.
+
+Liga de Quito podría celebrar en emblemático lugar
+==================================================
+
+Los hinchas de Liga de Quito tienen en la pileta de la Central un lugar emblemático de celebración.
+---------------------------------------------------------------------------------------------------
+
+![Hinchas de Liga de Quito en la pileta de la Universidad Central en 2018.](https://www.elcomercio.com/wp-content/uploads/2024/12/pileta_central_2.jpg)
+
+**Liga de Quito** está a pocas horas de conseguir un nuevo título nacional. El sábado 14 de diciembre de 2024, desde las 15:30, jugará la final de vuelta de la Liga Pro ante Independiente del Valle.
+
+La final de ida la ganó Liga de Quito por 3-0. Para extender la definición a los tiros penales, **Independiente del Valle tiene que ganar** por la misma cantidad de goles y por más para alcanzar su segunda corona de la Liga Pro.
+
+### Más noticias
+
+* [(Video) Nilson Angulo anota y gana en Europa League](https://www.elcomercio.com/deportes/nilson-angulo-gol-anderlecht-europa-league.html "(Video) Nilson Angulo anota y gana en Europa League")
+* [Google vaticina victoria de Independiente en la final](https://www.elcomercio.com/deportes/futbol/google-algoritmo-final-independiente-valle.html "Google vaticina victoria de Independiente en la final")
+* [Glenda Morejón y David Hurtado tienen nuevo entrenador](https://www.elcomercio.com/deportes/atletismo/glenda-morejon-david-hurtado-nuevo-entrenador.html "Glenda Morejón y David Hurtado tienen nuevo entrenador")
+
+Los títulos de Liga de Quito
+----------------------------
+
+Liga de Quito, por donde se lo mire, es el **equipo más ganador del fútbol ecuatoriano** en toda su historia. En sus vitrinas reposan 20 títulos, 15 son nacionales y cinco son internacionales.
+
+En el campeonato nacional ganó los trofeos de 1969, 1974, 1975, 1990, 1998, 1999, 2003, **Apertura 2005, 2007, 2010, 2018** y 2023. Con 12 es el tercer equipo más ganador, por detrás de Emelec (14) y Barcelona Sporting Club.
+
+Las coronas internacionales llegaron con el sello de la **Copa Libertadores 2008**, la Copa Sudamericana 2009 y 2023 y la Recopa Sudamericana 2009 y 2010.
+
+![Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/12/pileta_central_3-1024x683.jpg)
+
+Archivo histórico EL COMERCIO.
+
+La pileta abrirá sus puertas
+----------------------------
+
+Liga de Quito tiene sus orígenes en la **Universidad Central del Ecuador**. La pileta de este centro educativo ha sido testigo de un sinnúmero de celebraciones de los títulos alcanzados por el equipo albo.
+
+Tras la última remodelación que data de hace más de una década, la pileta abandonó la parte exterior  
+de la **Plaza Indoamérica y fue movida unos metros** y ahora está en la parte interna del ingreso hacia el Teatro Universitario y las distintas facultades.
+
+Este viernes 13 de diciembre de 2024, la **Central lanzó un comunicado en el que anunciar** que la pileta estará lista para recibir a los miles de hinchad de LDU, una vez que se concrete la obtención del título de la Liga Pro.
+
+La UCE “permitirá el acceso a la Pileta para los hinchas del equipo (…) procederá a llenarla”, reza el texto del referido comunicado.
+
+Agregaron que contarán con el apoyo de la **Administración Zonal ‘La Mariscal’** para coordinar y garantizar la seguridad y en control de bebidas alcohólicas durante la celebración.
+
+![Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/12/pileta_central_1-1024x683.jpg)
+
+Archivo histórico EL COMERCIO.
+
+San viernes
+-----------
+
+¡Regresa ‘Malcolm in the middle’ con nuevos episodios!
+======================================================
+
+Los actores Bryan Cranston y Frankie Muniz confirman el esperado regreso
+------------------------------------------------------------------------
+
+![Los protagonistas de 'Malcolm in the middle', Frankie Muniz y Jane Kaczmarek.](https://www.elcomercio.com/wp-content/uploads/2024/12/Macolm.jpg)
+
+La icónica serie **‘Malcolm in the middle**‘ vuelve.
+
+Según el portal **Variety**, la **plataforma de streaming Disney Plus** producirá cuatro nuevos episodios de esta comedia, que marcaron a toda una generación.
+
+### Más noticias:
+
+* **[Selena Gomez reafirma su conexión con el español y su cultura](https://www.elcomercio.com/afull/selena-gomez-cine-peliculas-espanol.html)** 
+* **[‘Heretic’, una película de terror psicológico que desafía la fe](https://www.elcomercio.com/tendencias/heretic-pelicula-terror.html "https://www.elcomercio.com/tendencias/heretic-pelicula-terror.html")**
+
+Bryan Cranston (Hal), Frankie Muniz (Malcolm) y Jane Kaczmarek (Lois) ya están confirmados para retomar sus papeles.
+
+Vuelve con la esencia original
+------------------------------
+
+**Linwood Boomer**, creador de la serie, liderará este proyecto para garantizar que la esencia y el humor característico se mantengan intactos.
+
+Esta apuesta de Disney Plus combina nostalgia con historias frescas que prometen conectarse con una nueva generación de espectadores.
+
+¿De qué tratarán los nuevos capítulos?
+--------------------------------------
+
+La trama tomará un salto temporal respecto a la serie original. Según **Variety**, Malcolm ahora es padre y, junto a su hija, enfrentará nuevos desafíos familiares.
+
+Los episodios incluirán el aniversario número 40 de bodas de Hal y Lois, evento que desatará el caos habitual.
+
+Los actores anticipan un proyecto inolvidable
+---------------------------------------------
+
+El actor Frankie Muniz confesó a **Variety** su emoción por revivir el papel que lo catapultó a la fama. Por su parte, Justin Berfield (Reese) dejó entrever en redes sociales su posible participación en esta nueva entrega.
+
+Aunque aún no se ha anunciado la fecha de estreno, los fanáticos ya esperan con ansias este regreso. El proyecto, actualmente en desarrollo, promete devolver el humor irreverente y las dinámicas familiares que hicieron de ‘Malcolm in the middle’ un fenómeno global.
+
+¿De qué trata la serie ‘Malcolm in the middle’?
+-----------------------------------------------
+
+‘Malcolm in the Middle’ es una comedia de situación estadounidense que se emitió entre el año 2000 y 2006. La serie sigue la vida de Malcolm, un niño superdotado con un coeficiente intelectual extraordinario, y su disfuncional pero entrañable familia. Malcolm enfrenta los desafíos típicos de la adolescencia mientras lidia con los problemas caóticos y surrealistas que surgen en su hogar.
+
+La familia de Malcolm está compuesta por su madre Lois, una figura autoritaria y decidida que mantiene todo bajo control; Hal, su padre despreocupado y algo infantil; y sus hermanos: Reese, el rebelde; Dewey, el peculiar y creativo; y Francis, el alcalde, que siempre está metido en problemas. Más tarde, en la serie, presentamos a Jamie, el hermano menor.
+
+El tono de la serie mezcla humor absurdo con comentarios sociales sobre temas familiares, educativos y económicos. A lo largo de las siete temporadas, ‘Malcolm in the Middle’ explora las dinámicas familiares, los conflictos cotidianos y las aventuras de un grupo de personajes únicos, todo desde la perspectiva de Malcolm, quien ocasionalmente rompe la cuarta pared para hablar directamente al espectador.
+
+Elon Musk pide una consulta popular para convertir su base en Texas en un municipio
+===================================================================================
+
+Su propósito es que una vez que Starbase tenga categoría de ciudad, la zona cuente con todas las instalaciones "de categoría mundial".
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Elon Musk en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/12/elon-musk-efe.jpg)
+
+El empresario [Elon Musk](https://es.wikipedia.org/wiki/Elon_Musk "https://es.wikipedia.org/wiki/Elon_Musk"), la **persona más rica del mundo** y a quien el presidente electo de Estados Unidos**, Donald Trump**, encargó **reformar la administración pública** durante su segunda presidencia, quiere tener su propia ciudad y ya dio el primer paso para lograrlo.
+
+### Más noticias
+
+* [Elon Musk discute con el Congreso su plan para desmantelar la burocracia de EE.UU.](https://www.elcomercio.com/actualidad/mundo/elon-musk-discute-congreso-plan-desmantelar-burocracia-ee-uu.html "Elon Musk discute con el Congreso su plan para desmantelar la burocracia de EE.UU.")
+* [Elon Musk busca superdotados que trabajen más de 80 horas para su oficina gubernamental](https://www.elcomercio.com/actualidad/mundo/elon-musk-busca-superdotados-trabajen-80-horas-oficina-gubernamental.html "Elon Musk busca superdotados que trabajen más de 80 horas para su oficina gubernamental")
+* [Elon Musk será el responsable de la eficiencia gubernamental en el Gobierno de Trump](https://www.elcomercio.com/actualidad/mundo/elon-musk-sera-responsable-eficiencia-gubernamental-gobierno-trump.html "Elon Musk será el responsable de la eficiencia gubernamental en el Gobierno de Trump")
+
+Musk pidió en una **carta dirigida a un juez del condado texano de Cameron** y reproducida en su cuenta de X que se convoque una **consulta pública** para decidir si Starbase, **sede del proyecto Starship**. Se trata de su compañía aeroespacial **Space X**, localizada en **Boca Chica**, una zona ribereña del **Golfo de México** muy cercana de la frontera, se convierte en un **municipio a todos los efectos.**
+
+“La ciudad más joven del valle del Río Grande”, dice.
+
+El sur de Texas como entrada a Marte
+------------------------------------
+
+En su carta, Musk recuerda que está invirtiendo miles de millones de dólares en infraestructura y creando cientos de **millones en ingresos** para las **empresas locales** y en **impuestos para las arcas públicas**, “todo con el objetivo de hacer del **sur de Texas** la vía de entrada a Marte”.
+
+También hace hincapié en los **miles de empleos** que creó en el **sur de Texas** y en el condado de Cameron en particular y en que muchos de esos empleados viven ya en Starbase.
+
+Proyecto Starship
+-----------------
+
+“Para seguir ampliando la mano de **obra necesaria** para desarrollar y manufacturar rápidamente el proyecto Starship necesitamos tener la capacidad de hacer crecer **Starbase como una comunidad**“, subraya el dueño de la red X y del fabricante de automóviles eléctricos Tesla.
+
+Su propósito es que una vez que Starbase tenga categoría de ciudad, la zona cuente con todas las **instalaciones necesaria para ser un lugar** “de categoría mundial” para vivir.
+
+Actualmente, según dice Musk en la carta, Space X se encarga de **funciones públicas** como gestionar las carreteras y proveer escuelas y **centros de atención médica** para los que ya consideran ‘Starbase’ su hogar.
+
+El empresario de origen sudafricano subraya que su compromiso con el medioambiente de la zona de Starbase no se verá afectado si es declarada ciudad.
+
+Igual que hizo con Tesla en 2021, Musk trasladó la **sede central de SpaceX** a Texas y también su domicilio, en detrimento de California, un bastión demócrata sobre cuya gestión hace frecuentes críticas.
+
+En Texas, gobernado por el republicano de **línea dura Greg Abbott,** no existe un impuesto estatal sobre la renta para individuos.
+
+Asamblea Nacional aprobó reformas para sancionar los ‘camisetazos’
+==================================================================
+
+La Asamblea Nacional de Ecuador aprueba reformas para sancionar el 'camisetazos' y regular el juicio político.
+--------------------------------------------------------------------------------------------------------------
+
+![Sesión del Pleno de la Asamblea este viernes 13 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T151922.253.jpg)
+
+La **Asamblea Nacional** aprobó el 13 de diciembre de 2024 reformas a la **Ley Orgánica de la Función Legislativa**, que incluyen sanciones para el transfuguismo político, conocido **como ‘camisetazos’**.
+
+### Más noticias
+
+* [Asamblea Nacional censuró a exministra de Energía Andrea Arrobo](https://www.elcomercio.com/actualidad/politica/andrea-arrobo-volvio-presentar-juicio-politico.html "Asamblea Nacional censuró a exministra de Energía Andrea Arrobo")
+* [Asamblea Nacional tiene juicios políticos pendientes por tramitar](https://www.elcomercio.com/actualidad/politica/juicios-politicos-pendientes-asamblea-nacional.html "Asamblea Nacional tiene juicios políticos pendientes por tramitar")
+* [‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-tomara-accion-si-publica-ley-antipillos.html "‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales")
+
+La votación, que contó con 77 votos a favor, fue respaldada por las **bancadas de la Revolución Ciudadana (RC), Partido Social Cristiano (PSC) y el movimiento Construye**. En contraste, 25 asambleístas de **Acción Democrática Nacional (ADN)** se opusieron a la propuesta, acusando a algunos partidos de beneficiarse del transfuguismo.
+
+El Ejecutivo enviará las reformas al presidente **[Daniel Noboa](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")** para que las revise; él podrá vetar total o parcialmente la iniciativa. Entre los cambios propuestos se encuentran ajustes en el procedimiento del juicio político y mecanismos de **participación ciudadana**.
+
+> El Pleno de la Asamblea aprobó, con 77 votos afirmativos, la [#ReformaLOFL](https://twitter.com/hashtag/ReformaLOFL?src=hash&ref_src=twsrc%5Etfw), que establece reglas más claras sobre el proceso legislativo, la responsabilidad de los legisladores, así como los mecanismos de fiscalización y transparencia  
+> Boletín [https://t.co/sFXkdbydiL](https://t.co/sFXkdbydiL) [pic.twitter.com/UVUryEqXOe](https://t.co/UVUryEqXOe)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [December 13, 2024](https://twitter.com/AsambleaEcuador/status/1867646301057560613?ref_src=twsrc%5Etfw)
+
+Sanciones para los ‘camisetazos’ en la Asamblea Nacional
+--------------------------------------------------------
+
+Las reformas introducen un endurecimiento de las sanciones para los legisladores que cometan infracciones administrativas graves. Aunque, inicialmente se recomendó **que los asambleístas** que cambien de partido **perdieran su curul,** esta medida fue modificada.
+
+Ahora, se establece una suspensión sin remuneración de **hasta 90 días** para quienes se aparten sin justificación de las decisiones de su bancada. Los **presidentes y vicepresidentes** de la Asamblea los cesará si dejan la bancada que representaban al momento de su designación.
+
+La propuesta también incluye un nuevo tipo de falta administrativa: el **apartarse sin justificación plausible** de las decisiones tomadas por la bancada en asuntos sometidos a votación.
+
+Modificaciones al juicio político
+---------------------------------
+
+Otro aspecto relevante de las reformas es la **regulación del proceso del juicio político**. Se permite que un legislador desista de una solicitud de enjuiciamiento político siempre que cuente con el respaldo necesario y antes de que la **Comisión de Fiscalización** haya calificado el trámite.
+
+Esta disposición busca establecer un proceso más claro y evitar abusos en el uso del juicio político, permitiendo una mayor transparencia en las decisiones legislativas.
+
+Mecanismos de participación ciudadana
+-------------------------------------
+
+Las reformas también **abordan los mecanismos** de participación ciudadana, introduciendo varias modalidades como **consultas prelegislativas, foros y mesas itinerantes**.
+
+> Pablo Játiva: “[#LeyLavadoActivos](https://twitter.com/hashtag/LeyLavadoActivos?src=hash&ref_src=twsrc%5Etfw) ha sido motivo de controversia pues el Ejecutivo ha malinterpretado el archivo y el problema de fondo es que está dirimiendo y no es competente, sino que el órgano competente es la [@CorteConstEcu](https://twitter.com/CorteConstEcu?ref_src=twsrc%5Etfw). Estamos frente a un régimen autoritario” [pic.twitter.com/wI5t93ZEZ7](https://t.co/wI5t93ZEZ7)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [December 13, 2024](https://twitter.com/AsambleaEcuador/status/1867640908239581249?ref_src=twsrc%5Etfw)
+
+Estas medidas buscan fomentar una mayor interacción entre los ciudadanos y sus representantes en la Asamblea Nacional.
+
+Además, se incluye una disposición que garantiza la custodia del **presidente de la Asamblea**, quien tendrá un edecán designado por las **autoridades competentes**. Una vez que las autoridades publiquen estas reformas en el **Registro Oficial,** entrarán en vigencia durante el actual periodo legislativo.
+
+Volcán Cotopaxi presenta cambios en su actividad sísmica
+========================================================
+
+Emisiones de gas y vapor de agua llegan hasta los 500-600 metros sobre el nivel del cráter. No se registra emisión de ceniza en el Cotopaxi
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen de archivo del volcán Cotopaxi.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-13T151458.238.jpg)
+
+El **Instituto Geofísico** (IG) de la Politécnica Nacional informó este viernes 13 de diciembre de 2024 sobre un cambio en los informes de la actividad del **volcán Cotopaxi.**
+
+### Más noticias
+
+* [Una provincia registró el segundo temblor de la semana este viernes 13 de diciembre](https://www.elcomercio.com/actualidad/ecuador/una-provincia-registro-segundo-temblor-semana-viernes-13-de-diciembre.html "Una provincia registró el segundo temblor de la semana este viernes 13 de diciembre")
+* [Lluvias torrenciales se presentan en Ecuador este viernes 13 de diciembre](https://www.elcomercio.com/actualidad/ecuador/lluvias-clima-ecuador-viernes-13-de-diciembre.html "Lluvias torrenciales se presentan en Ecuador este viernes 13 de diciembre")
+* [Un excoronel y un capitán de la Armada, involucrados en tráfico de droga](https://www.elcomercio.com/actualidad/seguridad/un-excoronel-y-un-capitan-armada-involucrados-en-trafico-de-droga.html "Un excoronel y un capitán de la Armada, involucrados en tráfico de droga")
+
+Informes de monitoreos serán semanales
+--------------------------------------
+
+El **Instituto Geofísico** dio a conocer que a partir de este viernes 13 de diciembre los informes de la actividad del **volcán Cotopaxi s**e emitirán de manera semanal y ya no mensual.
+
+Señaló que esta decisión corresponde a **variaciones leves en los parámetros de monitoreo** del volcán del informe de noviembre de 2024.
+
+Este informe señala que a lo largo del mes de **noviembre** se identificaron eventos volcano-tectónicos (11), eventos de largo período(849), tremor de emisión (3) y de Muy largo período (67).
+
+La mayoría de los sismos **son eventos superficiales** y se ubican entre 2 y 5 km bajo el cráter), solo destaca un evento profundo a 13 km bajo el cráter.
+
+Las magnitudes varían en un **rango de 0,4 a 1,5 en la escala** de Magnitud Local de la Vertical.
+
+Actividad sísmica
+-----------------
+
+En el volcán Cotopaxi se han registrado **señales sísmicas** de alrededor de un minuto de duración. Estas no tienen un inicio claro y en las cuales no se reconocen fases sísmicas, por ello se las llama **tremores.**
+
+Al observar las amplitudes de las señales que se atenúan conforme se alejan del cráter, se considera que las mismas **se originan en perturbaciones** del sistema hidrotermal del volcán.
+
+El informe indica que los eventos de tipo Largo período del mes de noviembre **no tienen señal acústica** asociada, por lo que **se descarta que se originen en explosiones.**
+
+Emisión de gases y ceniza
+-------------------------
+
+A través de las cámaras ubicadas alrededor del volcán se observaron emisiones de gas y vapor de agua, con alturas promedio de 100 metros sobre el nivel de la cumbre. Estas emisiones eventualmente llegaron hasta los 500-600 metros sobre el cráter.
+
+En el mes de noviembre, no se registran emisiones de ceniza.
+
+El informe señala que si bien el flujo de gas no ha cambiado, el incremento en el número de medidas válidas indica mayor presencia de gas.
+
+> Informe Mensual [#Cotopaxi](https://twitter.com/hashtag/Cotopaxi?src=hash&ref_src=twsrc%5Etfw) N° 2024-011  
+> miércoles 11 de diciembre de 2024  
+> Nivel de Actividad:  
+> Superficial: Baja  
+> Tendencia Superficial: Ascendente  
+> Interna: Baja  
+> Tendencia Interna: Ascendente  
+> Revisarlo en: [https://t.co/85DRrIyGVv](https://t.co/85DRrIyGVv) [pic.twitter.com/M2i3w5RBhL](https://t.co/M2i3w5RBhL)
+> 
+> — Instituto Geofísico (@IGecuador) [December 11, 2024](https://twitter.com/IGecuador/status/1866902622957080657?ref_src=twsrc%5Etfw)
+
+Actividad esta semana
+---------------------
+
+Durante esta semana, se han observado emisiones principalmente de vapor de agua y gases con alturas entre 100 y 900 metros sobre el nivel del cráter.
+
+La zona del volcán ha permanecido parcialmente nublada y se han registrado lluvias ligeras a [moderadas.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+> Informe Semanal [#Cotopaxi](https://twitter.com/hashtag/Cotopaxi?src=hash&ref_src=twsrc%5Etfw) N° 2024-005  
+> viernes 13 de diciembre de 2024  
+> Nivel de Actividad:  
+> Superficial: Baja  
+> Tendencia Superficial: Ascendente  
+> Interna: Baja  
+> Tendencia Interna: Ascendente  
+> Revisarlo en: [https://t.co/U4sT6pdZj1](https://t.co/U4sT6pdZj1) [pic.twitter.com/VAKyFaws7Q](https://t.co/VAKyFaws7Q)
+> 
+> — Instituto Geofísico (@IGecuador) [December 13, 2024](https://twitter.com/IGecuador/status/1867616727389139069?ref_src=twsrc%5Etfw)
+
+Richard Schunke, capitán y multicampeón con IDV
+===============================================
+
+Richard Schunke fue parte de los seis títulos de Independiente del Valle en su historia.
+----------------------------------------------------------------------------------------
+
+![Richard Schunke en la final de la Liga Pro 2021.](https://www.elcomercio.com/wp-content/uploads/2024/12/schunke_1.jpg)
+
+Hablar de **Richard Schunke** es hablar de la historia de Independiente del Valle en los últimos ocho años. El argentino es toda institución dentro de uno de los equipos más ganadores del siglo XXI de Ecuador.
+
+Richard Schunke con el pasar de los años se ganó un espacio en la **historia dorada de Independiente del Valle**. No en vano es el jugador que ganó todos los títulos que los rayados tienen en su corte, pero rica vida institucional.
+
+### Más noticias:
+
+* [Kevin Rodríguez logró victoria agónica en Europa League](https://www.elcomercio.com/deportes/kevin-rodriguez-logro-victoria-agonica-en-europa-league.html "Kevin Rodríguez logró victoria agónica en Europa League")
+* [El Manchester United sufre, pero gana en Europa League](https://www.elcomercio.com/deportes/manchester-united-europa-league-rangers.html "El Manchester United sufre, pero gana en Europa League")
+* [Alexander Domínguez jugó 16 finales con Liga de Quito](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-finales-liga-quito.html "Alexander Domínguez jugó 16 finales con Liga de Quito")
+
+La historia de Richard Schunke
+------------------------------
+
+Richard Hernán Schunke nació el **26 de noviembre de 1991 en la localidad de 25 de Mayo**, que pertenece a la provincia de Misiones, ubicada al noreste del país. Tiene una población de 1,2 millones de personas.
+
+Su debut en el fútbol profesional fue en 2011 en Almagro, club que pertenece al barrio del mismo nombre y forma parte de la **Ciudad Autónoma de Buenos Aires**. Hace local en el estadio Tres de Febrero con una capacidad para 19 000 personas.
+
+Toda su estancia la vivió en el fútbol de ascenso y no tuvo la oportunidad de debutar en la Primera.
+
+En el 2017 fue contratado por **Deportivo Cuenca**. Ese fue el inicio de una carrera en Ecuador llena de grandes satisfacciones para su vida personal y profesional.
+
+El Cuenca peleó en la mitad de la tabla y se quedó en el séptimo puesto con 61 puntos, por delante de equipos como **Liga de Quito (54), Universidad Católica 54), Guayaquil City (45)**, Clan Juvenil (29), y Fuerza Amarilla (28), estos dos últimos descendidos.
+
+![Facebook Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/12/schunke_2-1024x683.jpg)
+
+Facebook Independiente del Valle.
+
+Los títulos de Schunke
+----------------------
+
+Para el 2018 el defensa central fue contratado por **Independiente del Valle**. Hasta ese momento los capitalinos lo más cerca a ganar un título fue en el campeonato nacional de 2013 y la Copa Libertadores 2016.
+
+Con Schunke en el equipo sumaron las coronas de la **Copa Sudamericana 2019 y 2022** y la Recopa Sudamericana. Se añaden la Liga Pro 2021, la Copa Ecuador 2022 y la Supercopa Ecuador 2023.
+
+Según Transfermarkt, tiene nueve **goles marcados con los del Valle** y 16 asistencias.
+
+Uno de esos tantos fue en la final de vuelta de la **Liga Pro de 2021 ante Emelec**. Lo hizo en el George Capwell bajo una torrencial lluvia.
+
+San viernes
+-----------
+
+Cambios en la movilidad por trabajos en la av. Ladrón de Guevara en Quito
+=========================================================================
+
+Los tranajos en la avenida Ladrón de Guevara se realizarán hasta el 5 de enero de 2025.
+---------------------------------------------------------------------------------------
+
+![Los trabajos en la avenida Ladrón de Guevara se iniciaron este viernes 13 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ladron-de-Guecara.jpg)
+
+El inicio de las obras de rehabilitación vial en la **avenida Ladrón de Guevara**, programado para el **viernes 13 de diciembre**, generará ajustes en la movilidad vehicular en el centro norte de Quito[.](https://es.wikipedia.org/wiki/Movilidad "https://es.wikipedia.org/wiki/Movilidad")
+
+Más noticias
+------------
+
+* [Av. Ladrón de Guevara estará cerrada desde el 13 de diciembre, en Quito](https://www.elcomercio.com/actualidad/quito/av-ladron-de-guevara-estara-cerrada-desde-el-13-de-diciembre-en-quito.html "Av. Ladrón de Guevara estará cerrada desde el 13 de diciembre, en Quito")
+* [La Estación Marín Central de la Ecovía en Quito se cierra, así será el servicio](https://www.elcomercio.com/actualidad/quito/ecovia-marin-central-estacion-servicio.html "La Estación Marín Central de la Ecovía en Quito se cierra, así será el servicio")
+* [Levantamiento de hormigón de la Ecovía, ¿derroche de recursos de Quito?](https://www.elcomercio.com/actualidad/quito/levantamiento-hormigon-ecovia-derroche-recursos-quito.html "Levantamiento de hormigón de la Ecovía, ¿derroche de recursos de Quito?")
+
+Las autoridades activarán un plan integral para garantizar la circulación durante las obras, que se extenderán hasta los primeros días de enero de 2025.
+
+Plan de movilidad
+-----------------
+
+La **Agencia Metropolitana de Tránsito (AMT)** y la **Secretaría de Movilidad** implementarán estrategias para reducir el impacto en el tráfico. Estas incluyen:
+
+* **Rutas alternas** señalizadas para desviar el tráfico.
+* **Carriles habilitados parcialmente** en los tramos de intervención.
+* **Contraflujos** en horarios pico para optimizar los tiempos de desplazamiento.
+
+La AMT detalló que el tramo desde la calle Toledo hasta la calle Andalucía permanecerá cerrado hasta el 18 de diciembre.
+
+Detalles de la intervención en la Ladrón de Guevara
+---------------------------------------------------
+
+El cronograma establece jornadas de trabajo de lunes a viernes entre las **07:00 y las 18:00**, y horarios nocturnos de **21:00 a 04:00**.
+
+Durante fines de semana y feriados, las labores se ajustarán al progreso de la obra, con actividades diurnas y nocturnas.
+
+La obra abarcará 623 metros, desde la **Plaza Brasilia (redondel del Coliseo Rumiñahui)** hasta la **avenida 12 de Octubre**, en tres fases:
+
+> 🚧 [#CierreVial](https://twitter.com/hashtag/CierreVial?src=hash&ref_src=twsrc%5Etfw) |  
+>   
+> 💡 Por la intervención de la av. Ladrón de Guevara a cargo de 👷🏽‍♂️ [@ObrasQuito](https://twitter.com/ObrasQuito?ref_src=twsrc%5Etfw).  
+>   
+> 🛣️ El tramo desde la Toledo hasta la calle Andalucía permanecerá cerrado hasta el 18 de diciembre.  
+>   
+> ✅ Planifica tu ruta y sal con tiempo a tu destino.  
+>   
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/XzrvMiOs4H](https://t.co/XzrvMiOs4H)
+> 
+> — AMTQuito (@AMT\_Quito) [December 12, 2024](https://twitter.com/AMT_Quito/status/1867322935192535143?ref_src=twsrc%5Etfw)
+
+Primera fase: 13 al 18 de diciembre
+-----------------------------------
+
+Cierre de los dos carriles sur desde la **Plaza Brasilia** hasta la **calle Andalucía**, con habilitación de los carriles norte junto a la **Universidad Politécnica Nacional**.
+
+Segunda fase: 19 al 23 de diciembre
+-----------------------------------
+
+Cierre de los carriles norte entre la **calle Toledo** y la **calle Andalucía**, con circulación habilitada en los carriles sur.
+
+Tercera fase: 27 de diciembre al 5 de enero
+-------------------------------------------
+
+Cierre total entre la **calle Andalucía** y la **avenida 12 de Octubre**. De forma simultánea, iniciará la rehabilitación de la **calle Queseras del Medio**, desde la **avenida 12 de Octubre** hasta la **calle Gran Colombia**, con proyección hacia la **avenida Velasco Ibarra**.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Selena Gomez reafirma su conexión con el español y su cultura 
+==============================================================
+
+Selena Gomez comparte cómo perdió su fluidez en español.
+--------------------------------------------------------
+
+![Selena Gomez busca equilibrar sus raíces con la industria angloparlante de Hollywood. Foto: Instagram @selenagomez.](https://www.elcomercio.com/wp-content/uploads/2024/12/Selena-Gomez.jpg)
+
+**[Selena Gomez](https://www.instagram.com/selenagomez/ "https://www.instagram.com/selenagomez/")**, la reconocida **actriz y cantante mexicoamericana**, ha estado en el centro de la atención mediática tras su reciente participación en la película **‘Emilia Pérez’**. En una entrevista para el programa **‘Fresh Air’** de NPR, Gomez habló abiertamente sobre su **pérdida de fluidez en español**, un tema que ha generado tanto **apoyo como críticas**. Desde que comenzó su carrera a los 7 años, la mayoría de sus proyectos han sido en inglés. Esto, según ella, ha llevado a una **desconexión con el idioma** que habla parte de su familia. 
+
+### Más noticias
+
+* [La cifra que pagó Benny Blanco por el anillo de diamante de Selena Gomez](http://La cifra que pagó Benny Blanco por el anillo de diamante de Selena Gomez Este contenido ha sido publicado originalmente por EL COMERCIO. Si vas a hacer uso del mismo, por favor, cita la fuente y haz un enlace hacia la nota original en la dirección: https://www.elcomercio.com/afull/anillo-selena-gomez-compromiso.html)
+* [Se debate si el conflicto entre Derbez y Selena Gomez impactará la carrera del actor](https://www.elcomercio.com/tendencias/trending/eugenio-derbez-selena-gomez-emilia-perez.html "https://www.elcomercio.com/tendencias/trending/eugenio-derbez-selena-gomez-emilia-perez.html")
+
+**La pérdida del español de Selena Gomez** 
+-------------------------------------------
+
+**Selena Gomez** explicó que, al mudarse de Texas a California para seguir su sueño con **Disney**, se vio inmersa en un entorno donde **el inglés predominaba**. “Conseguí mi primer trabajo a los 7 años, y la mayoría de mis trabajos desde ese momento fueron en inglés”, comentó, según cita [Univisión](https://www.univision.com/famosos/selena-gomez-eugenio-derbez-olvido-espanol-por-que "https://www.univision.com/famosos/selena-gomez-eugenio-derbez-olvido-espanol-por-que"). Esta experiencia es común entre muchos **mexicano-estadounidenses**, quienes enfrentan un dilema similar al intentar equilibrar sus raíces culturales con las demandas de una industria predominantemente **angloparlante.** 
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDh467ZJgWG/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de CNN en Español (@cnnee)](https://www.instagram.com/reel/DDh467ZJgWG/?utm_source=ig_embed&utm_campaign=loading)
+
+A pesar de las **críticas sobre su pronunciación** en ‘Emilia Pérez’, donde interpreta a **Jessi del Monte**, Gomez se ha comprometido a seguir en proyectos en español. “No creo que sea lo último que haga en español y trato de honrar mi cultura tanto como sea posible”, afirmó, a decir de [El Universal](https://es-us.vida-estilo.yahoo.com/selena-gomez-revela-perdi%C3%B3-fluidez-154532701.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucGVycGxleGl0eS5haS8&guce_referrer_sig=AQAAABt2rmgC0dMwaFIO9Rfn6H2t8MBls1YadT1bHy-6eeG6QwnqF4xe3I7WIuS9xDUz0LSclHL5Se2K4PNNwEkzWKBz-GGD6_-dDrcMp45Xd1Z1_DJ58xP2J61-vznq1SY0MeRXCXF78Uu9XB9BHspHxD_dSsFsaDyGWl69put4Ht45 "https://es-us.vida-estilo.yahoo.com/selena-gomez-revela-perdi%C3%B3-fluidez-154532701.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucGVycGxleGl0eS5haS8&guce_referrer_sig=AQAAABt2rmgC0dMwaFIO9Rfn6H2t8MBls1YadT1bHy-6eeG6QwnqF4xe3I7WIuS9xDUz0LSclHL5Se2K4PNNwEkzWKBz-GGD6_-dDrcMp45Xd1Z1_DJ58xP2J61-vznq1SY0MeRXCXF78Uu9XB9BHspHxD_dSsFsaDyGWl69put4Ht45"). 
+
+Este compromiso refleja un deseo profundo de **reconectar con sus raíces** y contribuir a la **representación latina** en Hollywood. 
+
+**Críticas y controversias** 
+-----------------------------
+
+La **actuación de Selena** ha sido objeto de controversia. **Eugenio Derbez**, destacado actor mexicano, calificó su interpretación como **“indefendible”**, lo que provocó reacciones mixtas entre los fans y críticos, siguiendo con Univisión.  
+
+Sin embargo, **Derbez posteriormente se disculpó** por sus comentarios, al reconocer que la crítica no reflejaba el **esfuerzo que Gomez puso en su papel**, señala El Universal.  
+
+En respuesta a las críticas, **Selena defendió su actuación**: “Lamento haber hecho lo mejor que pude con el tiempo que me dieron”, cita [Reporte Índigo](https://reporteindigo.com/piensa/selena-gomez-revela-por-que-no-habla-bien-espanol-a-pesar-de-tener-raices-mexicanas/ "https://reporteindigo.com/piensa/selena-gomez-revela-por-que-no-habla-bien-espanol-a-pesar-de-tener-raices-mexicanas/").
+
+**Preparación para el papel** 
+------------------------------
+
+Para prepararse para su papel en **‘Emilia Pérez’**, Selena dedicó seis meses a **clases intensivas de español**. Este esfuerzo no solo fue un desafío profesional, sino también una forma de **rendir homenaje a su herencia cultural**. “Me hubiera gustado saber más. Me hubiera gustado saber mucho más de lo que sé”, reflexionó sobre su conexión con el idioma, según cita Univisión.  
+
+La película narra la historia de un **líder del narcotráfico** que finge su muerte y se somete a una **cirugía de reasignación de género**; un papel complejo que requirió no solo habilidades actorales sino también una comprensión profunda del idioma. 
+
+### Te recomendamos:
+
+Gobernador detalla situación en Napo tras protestas contra cárcel de Archidona
+==============================================================================
+
+Las protestas en contra de la construcción de una nueva cárcel en Archidona, en Napo, se mantienen por 11 días.
+---------------------------------------------------------------------------------------------------------------
+
+![Organizaciones sociales e indígenas protestan en los exteriores de la Gobernación de Napo](https://www.elcomercio.com/wp-content/uploads/2024/12/carcel-archidona-napo.jpg)
+
+Gary Rivadeneyra, **Gobernador de Napo**, habló de la situación que vive la provincia en medio de las **protestas** que realizan organizaciones sociales e indígenas en contra de la construcción de la **cárcel** en **Archidona**.
+
+### Más noticias
+
+* [Protestas en contra de cárcel en Archidona se intensificaron; Gobernación fue tomada](https://www.elcomercio.com/actualidad/ecuador/protestas-contra-carcel-archidona-gobernacion.html "Protestas en contra de cárcel en Archidona se intensificaron; Gobernación fue tomada")
+* [Cárcel en Archidona: Gobierno, Asamblea y población tomaron decisiones](https://www.elcomercio.com/actualidad/ecuador/carcel-archidona-gobierno-asamblea-poblacion-decisiones.html "Cárcel en Archidona: Gobierno, Asamblea y población tomaron decisiones")
+* [Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-cambio-gobernado-napo-carcel.html "Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel")
+
+Protestas se intensificaron en Archidona
+----------------------------------------
+
+La noche de este jueves 12 de diciembre de 2024**, los reclamos se intensificaron** con la toma de la **Gobernación de Napo**. Los representantes de la denominada **Asamblea Popular Permanente**, opositora a la obra, afirmaron que las acciones de protesta **se radicalizarán** si no hay acuerdos.
+
+Rivadeneyra se refirió a este tema en una entrevista dada este viernes 13 a Radio Pública FM. El Gobernador manifestó que durante los hechos de ayer **no se registraron personas heridas**.
+
+“No hubo ninguna represión por parte de la **Policía Nacional** o las **Fuerzas Armadas**, evitamos las agresiones para que la gente realice la **toma simbólica** de la Gobernación”, comentó.
+
+Para el funcionario, las movilizaciones “tienen un claro **tinte político** que lo impulsan determinados actores”.
+
+“Ayer comprobamos que las protestas tienen un fondo político, las fomentan actores en búsqueda de **protagonismo** para las próximas elecciones. Detectamos varios alcaldes, asambleístas, políticos que están detrás de todo esto”, mencionó el Gobernador[.](https://es.wikipedia.org/wiki/Archidona_(Ecuador) "https://es.wikipedia.org/wiki/Archidona_(Ecuador)")
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDgSPQXKpoj/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DDgSPQXKpoj/?utm_source=ig_embed&utm_campaign=loading)
+
+Napo mantiene una ‘relativa calma’, aseguró el Gobernador
+---------------------------------------------------------
+
+Sobre la situación de la provincia luego de las **intensas protestas** de este jueves, Rivadeneyra indicó que Napo amaneció con “**relativa calma**“.
+
+“El día de hoy están unos 20 manifestantes en los exteriores de la Gobernación, ayer habían unas 1 000 personas”, señaló.
+
+Sin embargo, el Gobernador confirmó que las vías de **entrada y salida** a Archidona, como a Napo, se mantienen cerradas. Mientras que la **Y de Baeza** está abierta al paso vehicular.
+
+“Buscaremos que se respeten los canales humanitarios, que los **carros de emergencia**, camiones con víveres y gasolina puedan ingresar, **tenemos un leve desabastecimiento**“, mencionó en su entrevista Rivadeneyra.
+
+Asimismo, explicó que se están tomando todas las precauciones para **evitar daños** a sectores estratégicos: “La Policía y el Ejército están prevenidos de daños en ciertos lugares, tenemos alertas de que quieren perjudicar, por ejemplo, el **bloque 21 de Yuralpa**“, dijo.
+
+Nueva cárcel en Archidona acogerá a 800 reos
+--------------------------------------------
+
+Según el representante del Gobierno en Napo, “hubo mucha **desinformación** en el tema de la cárcel de Archidona”.
+
+El funcionario explicó que la nueva construcción no está destinada para más de 1 000 personas privadas de la libertad (PPL), “como algunos sectores afirman”, sino para **800**.
+
+“Lo que haremos es una repotenciación del centro penitenciario, actualmente ya hay una cárcel acá, están 300 reos viviendo en una infraestructura que está cerca de caerse”, dijo Rivadeneyra.
+
+“La nueva cárcel está pensada para ser un **centro regional**, es decir, para las personas que comentan los delitos en la Amazonía”, añadió.
+
+El principal objetivo, a decir por el Gobernador, es **reducir los amotinamientos y fugas**; y cuidar a los detenidos por delitos leves.
+
+“Tenemos al menos 150 ppl con delitos graves como asesinatos, que están mezclados con ciudadanos que cometieron **acciones leves**, queremos proteger a estas personas”, enfatizó.
+
+El proceso para la construcción de la nueva cárcel en Archidona **ya está adjudicado**, mas no está firmado el contrato debido a **acciones de protección** que se presentaron por organizaciones sociales. El 17 de diciembre las solicitudes serán tratadas.
+
 ¿Qué contenían los bultos encontrados en un complejo judicial de Guayaquil?
 ===========================================================================
 
@@ -86,1012 +1016,3 @@ Descubre las historias de mujeres que rompieron el silencio frente a la violenci
 Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Daniel Noboa reduce el IVA para feriados de Navidad y Año Nuevo
-===============================================================
-
-El Gobierno reducirá al 8% el IVA para servicios turísticos el 25 de diciembre de 2024, y del 1 al 5 de enero de 2025.
-----------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/noboa1312.jpg)
-
-El presidente **Daniel Noboa** estableció la **reducción temporal** del Impuesto al Valor Agregado (IVA) al 8% para **servicios turísticos** a nivel nacional durante los feriados de **Navidad y Año Nuevo**. Lo hizo a través del Decreto Ejecutivo 482, suscrito este 13 de diciembre de 2024[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [¿Cuáles y cuántos feriados tendrá Ecuador en 2025?](https://www.elcomercio.com/actualidad/ecuador/cuales-cuantos-feriados-2025-ecuador.html "¿Cuáles y cuántos feriados tendrá Ecuador en 2025?")
-* [Dos semanas faltan para el próximo feriado en Ecuador](https://www.elcomercio.com/tendencias/entretenimiento/ultimo-feriado-ecuador-navidad-fin-ano.html "Dos semanas faltan para el próximo feriado en Ecuador")
-* [Feriado de Año Nuevo será extendido en Ecuador](https://www.elcomercio.com/actualidad/feriado-nacional-de-ano-nuevo-sera-extendido.html "Feriado de Año Nuevo será extendido en Ecuador")
-
-La medida busca impulsar la reactivación económica del sector turístico durante los feriados de **fin de año**. Así, la reducción aplicará el miércoles 25 de diciembre de 2024 (**Navidad**), y desde el miércoles 1 hasta el domingo 5 de enero de 2025 (**Año Nuevo**).
-
-Según el Decreto Ejecutivo, los establecimientos dedicados a **actividades turística**s, en conformidad con el artículo 5 de la **Ley de Turismo**, deberán emitir comprobantes de venta con la tarifa reducida durante las fechas señaladas.
-
-El Ministerio de Economía y Finanzas respaldó la decisión mediante un dictamen favorable que considera la relevancia de esta acción para **fortalecer el turismo y actividades económicas secundarias**. Además, el Servicio de Rentas Internas (SRI) garantizará la correcta aplicación de esta medida.
-
-Además, se ratificó el Decreto Ejecutivo No. 474, que incorpora los días jueves 2 y viernes 3 de enero de 2025 como descanso obligatorio, extendiendo el feriado nacional desde el 1 hasta el 5 de enero. Este período no será recuperable y aplica tanto para el sector público como privado.
-
-¿Qué establecimientos pueden reducir el IVA al 8%?
---------------------------------------------------
-
-Durante los días de asueto se reduce el IVA en la prestación de **todos los servicios definido**s como **actividades turísticas**. Los establecimientos que pueden aplicar la reducción son:
-
-* Alojamiento
-* Alimentos, bebidas y entretenimiento
-* Agenciamiento turístico
-* Transporte turístico, incluido los pasajes de avión
-* Organizadores de eventos, congresos y convenciones, reuniones, conferencias, ferias y exhibiciones
-* Centros de convenciones, salas de recepciones y salas de banquetes
-* Guianza turística
-* Centros de turismo comunitario
-* Parques temáticos y atracciones estables
-* Balnearios, termas y centros de recreación turística
-
-Los prestadores de servicios turísticos están obligados a obtener el debido Registro de Turismo y Licencia Única Anual de Funcionamiento para cada una de las actividades turísticas que realicen.
-
-‘Heretic’: Hugh Grant sorprende en el cine de terror, ¿logra dar miedo en su nuevo papel?
-=========================================================================================
-
-Hugh Grant, conocido por sus comedias románticas, se adentra en el cine de terror con ‘Heretic’, una película que acaba de estrenarse en Ecuador. Analizamos si logra brillar en este nuevo género.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Hugh Grant es un reconocido actor británico.](https://www.elcomercio.com/wp-content/uploads/2024/12/hugh-grant-El-Comercio.jpg)
-
-Conocido por su carisma en clásicos como ‘Cuatro bodas y un funeral’, **Hugh Grant** sorprende con su interpretación en ‘**Heretic**‘, el nuevo **_thriller_ psicológico** de A24.
-
-En esta cinta, Grant da vida al Sr. Reed, un hombre aparentemente afable que esconde oscuros secretos.
-
-### Más noticias
-
-* **[¿Podrá ‘Creaciones de ensueño’ igualar el éxito de ‘Intensamente’?](https://www.elcomercio.com/afull/creaciones-de-ensueno-disney-intensamente.html "https://www.elcomercio.com/afull/creaciones-de-ensueno-disney-intensamente.html")**
-* **[‘Heretic’, una película de terror psicológico que desafía la fe](https://www.elcomercio.com/tendencias/heretic-pelicula-terror.html "https://www.elcomercio.com/tendencias/heretic-pelicula-terror.html")**
-
-La película, dirigida por Scott Beck y Bryan Woods, se estrenó en el Festival de Cine de Toronto 2024, y logró ovaciones y comentarios sobre la reinvención del actor en el género.
-
-¿De qué trata ‘Heretic’?
-------------------------
-
-La trama se desarrolla en una casa aislada donde dos misioneras de la Iglesia de Jesucristo de los Santos de los Últimos Días, interpretadas por Sophie Thatcher (‘Yellowjackets’) y Chloe East (‘The Fabelmans’), buscan convertir al Sr. Reed.
-
-Lo que empieza como una conversación sobre fe pronto se transforma en un juego mortal lleno de tensión y filosofía.
-
-Según Box Office Mojo, la cinta contó con un presupuesto de 10 millones de dólares y ha recaudado hasta la fecha 42 488 873 dólares (consultado el 10 de noviembre de 2024).
-
-Ecuador y el cine de terror
----------------------------
-
-En Ecuador, el género de terror tiene una base de fans. Con ‘Heretic’, el público ecuatoriano tendrá la oportunidad de experimentar un terror psicológico que, según The Guardian, combina “diálogos electrizantes” con una atmósfera opresiva. La cinta está en salas nacionales este 12 de diciembre.
-
-De acuerdo con Ritesh Dudani, portavoz de VenusFilms, distribuidora de la cinta en Ecuador, se espera que la película pase los 30 000 o 35 000 espectadores. “La película le ha ido muy bien en el boca a boca en todo Latinoamérica, por lo que sí creemos que será muy comentada por la audiencia ecuatoriana”, dice.
-
-La actuación más siniestra de Hugh Grant
-----------------------------------------
-
-![Hugh Grant protagoniza 'Heretic'.](https://www.elcomercio.com/wp-content/uploads/2024/12/heretic-El-Comercio-1024x683.jpg)
-
-Hugh Grant protagoniza ‘Heretic’.
-
-Grant describe esta etapa como “su período de fenómenos extraños” durante un conversatorio en Toronto. Tras cumplir 64 años, el actor ha adoptado papeles oscuros, como en la película de drama y fantasía ‘Dungeons & Dragons: Honor Among Thieves’. Demostró así su versatilidad.
-
-El galán de los años 90
------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/hugh-grant-El-Comercio-1-1024x683.jpg)
-
-Escena de ‘Cuatro bodas y un funeral’. IMDB
-
-Durante los años 90, Grant fue el galán por excelencia en cintas icónicas que lo consolidaron como uno de los actores más queridos de su generación, pero ahora rompe con ese estereotipo para dar vida a un villano aterrador.
-
-En ‘Cuatro bodas y un funeral’ (1994), fue el encantador Charles, un personaje con esa mezcla de torpeza, inseguridad y simpatía que lo hizo inolvidable. Sus gestos característicos, como el parpadeo rápido y las sonrisas nerviosas, se convirtieron en su sello personal y en una fórmula de éxito.
-
-En ‘Nueve meses’ (1995), continuó con esa fórmula cómica. Encarnó a Samuel Faulkner, un futuro padre que intenta lidiar con el caos de la paternidad.
-
-En esta película, su humor natural y su carisma volvieron a destacar. Mantuvo ese perfil de galán moderno con nerviosismos que se sentían tanto genuinos como entrañables.
-
-De romántico a complejo: el giro en su carrera
-----------------------------------------------
-
-Más adelante, en ‘[Notting Hill](https://youtu.be/mLX6319U7qA?si=7OBthIXboNPpJUMy "https://youtu.be/mLX6319U7qA?si=7OBthIXboNPpJUMy")‘ (1999), su papel como William Thacker, el dueño de una librería que inicia una relación con una estrella de Hollywood (Julia Roberts), reforzó su reputación de galán romántico y con dudas existenciales.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/hugh-grant-El-Comercio-3-1024x683.jpg)
-
-‘Póster de Nothing Hill’. IMDB
-
-Esta película es un ejemplo claro de su capacidad para mezclar romanticismo, humor y una dosis de autocrítica con una actuación memorable. Finalmente, en ‘El diario de Bridget Jones’ (2001), Hugh Grant interpretó a Daniel Cleaver, el villano encantador, un hombre carismático, pero egoísta que representa una faceta más oscura de su imagen de galán clásico.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/hugh-grant-El-Comercio-2-1024x683.jpg)
-
-Escena de ‘Bridget Jones 2’. IMDB
-
-Aunque esta versión tenía rasgos egoístas y manipuladores, mantenía la versatilidad de su personalidad actoral.
-
-Un cambio radical en ‘Hereje’
------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/hugh-grant-El-Comercio-5-1024x683.jpg)
-
-Ahora, con ‘Heretic’, Hugh Grant da un giro radical en su carrera y deja atrás los papeles románticos para convertirse en un villano psicológico, inquietante y perturbador. Con un papel tan oscuro como el de Mr. Reed, un hombre obsesionado con temas religiosos y capaz de manipular. ¿Da miedo?
-
-Sí, en ‘Heretic’, logra desarmar al espectador con su carisma para luego revelarse como un hombre siniestro. Según Rotten Tomatoes, la película ha recibido una puntuación del 77% por parte de la audiencia, y una crítica destacó: “Hugh Grant se divierte de forma contagiosa interpretando un papel contraproducente en ‘Heretic’, un horror religioso que predica el evangelio de los escalofríos cerebrales en lugar de las conmociones baratas”.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/hugh-grant-El-Comercio-4-1024x683.jpg)
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/hugh-grant-El-Comercio-6-1024x683.jpg)
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/hugh-grant-El-Comercio-4-1024x683.jpg)
-
-Te recomendamos:
-----------------
-
-Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito
-=============================================================
-
-Independiente del Valle ganó 12 de sus 15 partidos de la Liga Pro jugado en su casa.
-------------------------------------------------------------------------------------
-
-![Jeison Medina (c) es el goleador de Independiente del Valle en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/independiente_terror_1.jpg)
-
-**Independiente del Valle** sabe que para derrotar a Liga de Quito en la final de vuelta de la Liga Pro, no solo necesita buen fútbol y tres o más goles, sino que también requiere un poco de suerte o, de mala suerte de su rival.
-
-El encuentro entre **Independiente del Valle y Liga de Quito** está programado para el sábado 14 de diciembre de 2024, desde las 15:30, en el estadio de los del Valle. El escenario lucirá lleno con más de 10 000 personas en su interior.
-
-### Más noticias:
-
-* [Segundo Alejandro Castillo reapareció en sus redes sociales](https://www.elcomercio.com/deportes/futbol/segundo-alejandro-castillo-video-barcelona.html "Segundo Alejandro Castillo reapareció en sus redes sociales")
-* [Kevin Rodríguez logró victoria agónica en Europa League](https://www.elcomercio.com/deportes/kevin-rodriguez-logro-victoria-agonica-en-europa-league.html "Kevin Rodríguez logró victoria agónica en Europa League")
-* [El Manchester United sufre, pero gana en Europa League](https://www.elcomercio.com/deportes/manchester-united-europa-league-rangers.html "El Manchester United sufre, pero gana en Europa League")
-
-Independiente mete miedo en casa
---------------------------------
-
-Independiente del Valle jugando en casa solo perdió un partido de la Liga Pro. Fue en el arranque de la segunda etapa por 1-2. Uno de los goles fue **anotados por José ‘Tin’ Angulo**, una de los primeras promesas salidas de sus canteras.
-
-Otro dato es que en sus 15 encuentro en casa anotó 36 goles y solo recibió 15. Se destaca la escalofriante **goleada de 7-0 a Macará en la jornada** 14 de la segunda etapa y un 5-2 ante Universidad Católica. Los universitarios clasificaron a la Copa Libertadores del siguiente año.
-
-De local anotan un gol cada 37 minutos y reciben uno cada 135 minutos, es decir, cada partido y medio ve su arco caer.
-
-También en sus filas destaca el **nombre del colombiano Jeison Medina**. El delantero es el segundo goleador del campeonato con 20 tantos, solo superado por el paraguayo Álex Arce, atacante de Liga de Quito, que suma 28.
-
-Keny Arroyo está en el lote de los mejores asistidores con ocho pases gol. Este rubro está liderado por Jonnathan Mina de Aucas con 11. Liga aporta con **Bryan Ramírez (9) y Leonel Quiñónez (8)**. Los dos deportistas se desempeñan por la zona izquierda.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/12/independiente_terror_2-1024x683.jpg)
-
-Foto: API.
-
-Un viernes 13 para ‘creer’
---------------------------
-
-IDV se aferra a sus opciones para ganar el **segundo título de la Liga Pro en su historia**. El primero lo alcanzó en el 2021 ante Emelec por un marcador global de 4-2.
-
-Este viernes 13 de diciembre de 2024, Independiente utilizó sus redes sociales para dejar un mensaje de ‘terror’ para sus fieles seguidores en este fecha que, para muchos, está llena de supersticiones.
-
-“Ni te cases, ni te embarques… Cree” fue el mensaje de los rayados junto con una imagen de la conocida y temida máscara de Jason, **personaje de la serie de películas ‘Viernes 13’** estrenada por primera vez en 1980.
-
-> Ni te cases 👰🤵‍♀️, ni te embarques🚢⚓️  
-> CREE 🙏 [#ElijoCreer](https://twitter.com/hashtag/ElijoCreer?src=hash&ref_src=twsrc%5Etfw) [#Viernes13](https://twitter.com/hashtag/Viernes13?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/GtD4Gb83Nf](https://t.co/GtD4Gb83Nf)
-> 
-> — Independiente del Valle (@IDV\_EC) [December 13, 2024](https://twitter.com/IDV_EC/status/1867609223053688941?ref_src=twsrc%5Etfw)
-
-San viernes
------------
-
-Minipony sorprende al mundo con sus sonidos extremos desde Ecuador
-==================================================================
-
-Minipony compartió escenario con una legendaria banda sueca.
-------------------------------------------------------------
-
-![Minipony está integrado por Amadeus, Emilia y Carlos Sánchez. Foto: Cortesía Minipony](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T130319.104.jpg)
-
-16 años pasaron para que los integrantes de la banda ecuatoriana **Minipony** cumplieran uno de sus ‘sueños’: compartir escenario con **Meshuggah**.
-
-¿La conocen? Se trata de la **legendaria banda sueca** que se formó en 1987 y que ha sido fundamental en la evolución y redefinición del metal moderno.
-
-### **Más noticias**:
-
-* [11 bandas internacionales tocarán en el Quitofest 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html "https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html")
-* [Quitofest, las bandas y cantantes nacionales que debutarán en 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-bandas-nacionales-debutantes.html "https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-bandas-nacionales-debutantes.html")
-* [El Quitofest no es solo rock, también es…](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-musica-rock-metal-cumbia-quito.html "https://www.elcomercio.com/tendencias/entretenimiento/quitofest-musica-rock-metal-cumbia-quito.html")
-
-En 2008, Emilia y Amadeus, los fundadores de **Minipony**, asistieron a un concierto de **Meshuggah**, su banda favorita. En una conversación con **EL COMERCIO**, la pareja de esposos recordó ese día con alegría y nostalgia. Ellos esperaron la clausura del show para entregarles un demo con algunas de sus canciones.
-
-Los músicos de la icónica banda lo recibieron y, días más tarde, uno de ellos envió un mensaje a Emilia. ¿Qué decía? “Les gustó”.
-
-Ese fue un gran impulso para continuar con la carrera que los condujo a un reencuentro. Minipony y **Meshuggah** se volvieron a ver; esta vez fue en **Colombia**, en octubre pasado.
-
-La banda sueca los eligió como sus teloneros. El sueño se hizo realidad.
-
-**El nombre de Minipony retumba en el extranjero**
---------------------------------------------------
-
-Tras la participación de Minipony en **Colombia**, amantes del rock iniciaron búsquedas en Internet; querían saber más de la banda ecuatoriana.
-
-Averiguaron algunos datos, pero además se encontraron con una reseña de la revista _**Rolling Stone**_: “Suelen definirlos como exponentes del **mathcore** experimental, pero parecen estar más que dispuestos a saltarse cualquier frontera entre géneros”.
-
-La crítica continúa: “Desde sus comienzos, han generado conversación por la potencia de su sonido y su actitud arrasadora”.
-
-2024 fue un buen año para **Minipony** y 2025 luce aún más prometedor; para marzo tienen prevista una gira por cinco ciudades de México.
-
-También se concentrarán en la producción de su tercer disco y en la realización de los videos de los temas de su anterior álbum.
-
-**Minipony es una ‘familia’ de tres músicos**
----------------------------------------------
-
-La banda de metal está integrada por Emilia, la ‘Princesa Dragona’; Amadeus y Carlos Sánchez. Los dos primeros son pareja y tienen una hija. También tienen un restaurante de comida italiana, ubicado en Lumbisí. ¡Son todos bienvenidos!
-
-Damián ‘Kitu’ Díaz sorprende a sus fanáticos en redes sociales
-==============================================================
-
-El exfutbolista de Barcelona SC, Damián 'Kitu' Díaz, alegró a sus seguidores con un sorprendente video en redes sociales.
--------------------------------------------------------------------------------------------------------------------------
-
-![Damián Díaz juega en Banfield de su natal Argentina.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-13T124003.922.jpg)
-
-**Damián Díaz sufrió** una fuerte lesión el 23 de septiembre durante un partido entre **Banfield**, su equipo, e Independiente Rivadavia, por la Superliga Argentina. Hoy, 13 de diciembre, casi dos meses después, sorprendió a sus seguidores.
-
-El ‘**Kitu’ se fracturó el tobillo** en un momento en el que se encontraba en un gran nivel y era una de las figuras destacadas de su equipo. Aunque las primeras evaluaciones indicaban que su tiempo de recuperación sería largo, el argentino nacionalizado ecuatoriano ya ha comenzado a realizar sus primeros ejercicios intensos.
-
-### Más noticias:
-
-* [Barcelona Sporting Club pagó a Damián Díaz y evitó sanción](https://www.elcomercio.com/deportes/futbol/barcelona-deuda-damian-diaz-pago.html "Barcelona Sporting Club pagó a Damián Díaz y evitó sanción")
-* [Fabián Bustos se sorprendió por el irrespeto a Damián Díaz en Barcelona SC](https://www.elcomercio.com/deportes/futbol/fabian-bustos-se-sorprendio-por-el-irrespeto-a-damian-diaz-en-barcelona-sc.html "Fabián Bustos se sorprendió por el irrespeto a Damián Díaz en Barcelona SC")
-* [Damián Díaz demandó a Barcelona Sporting Club por deudas pendientes](https://www.elcomercio.com/deportes/futbol/damian-diaz-demando-barcelona-sporting-club-deudas-pendientes.html "Damián Díaz demandó a Barcelona Sporting Club por deudas pendientes")
-
-A través de un video que compartió en sus historias de Instagram, **Díaz mostró cómo ha comenzado a realizar varios ejercicios en los que pone a prueba su tobillo**, haciendo saltos y movimientos, lo que ha sido una gran alegría para los seguidores del ‘Taladro’, quienes esperan contar con él en óptimas condiciones para la próxima temporada.
-
-> Tras su lamentable lesión. Así avanza la recuperación de Damián Díaz.  
->   
-> Un gran profesional 👏 [pic.twitter.com/BIDqxUQ1Hw](https://t.co/BIDqxUQ1Hw)
-> 
-> — FútbolPasionWeb (@IdoloPasionWeb) [December 13, 2024](https://twitter.com/IdoloPasionWeb/status/1867605399056118064?ref_src=twsrc%5Etfw)
-
-¿Cómo fue la lesión de Damián Díaz?
------------------------------------
-
-Según el parte médico del club, el **‘Kitu’ sufrió una fractura del maléolo externo de la pierna izquierda** durante el encuentro contra Independiente Rivadavia.
-
-La fractura fue el resultado de una desafortunada jugada en la que el exjugador de Barcelona SC se lesionó solo. Díaz intentó bloquear la salida de su rival presionándolo rápidamente, pero al intentar cortar el balón, su pierna izquierda se quedó clavada en el campo. Debido a la velocidad en la que iba, su tobillo se dobló hacia un costado, **provocando la fractura** del maléolo externo.
-
-Tras la lesión, **Damián Díaz no pudo levantarse y permaneció en el césped** del Florencio Sola, sosteniéndose la pierna mientras sus compañeros lo acompañaban. El cuerpo médico ingresó rápidamente para atender al ‘Kitu’.
-
-> Muchas fuerzas 10 💔😢  
-> Durísima la lesión de Damián Díaz cuando pasaba un buen momento con Banfield. Fuerzas KITU [pic.twitter.com/eXGz68k05n](https://t.co/eXGz68k05n)
-> 
-> — Gaby Jurado Calvo (@GabyJuradoCalvo) [September 24, 2024](https://twitter.com/GabyJuradoCalvo/status/1838412691121004928?ref_src=twsrc%5Etfw)
-
-¿Cuándo volverá a las canchas?
-------------------------------
-
-Aunque Banfield no ha especificado el tiempo exacto para el regreso de Damián Díaz a las canchas, lo que es seguro es que el argentino-ecuatoriano **se perderá lo que resta de la temporad**a.
-
-Una fractura de tobillo suele requerir al menos **cuatro meses de recuperación** antes de que el jugador pueda reincorporarse a la actividad física. Sin embargo, el tiempo exacto dependerá de la evolución de su recuperación.
-
-Fiscalía solicitó 9 años y 4 meses de prisión para expresidente del Consejo de la Judicatura
-============================================================================================
-
-Fiscalía hizo una solicitud sobre la sentencia al expresidente del Consejo de la Judicatura en el caso Independencia Judicial.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Audiencia del caso Independencia Judicial en la Corte Nacional de Justicia.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T125443.882.jpg)
-
-La mañana de este viernes 13 de diciembre de 2024, se r**einstaló la audiencia del juicio en el caso Independencia Judicial**, donde Wilman T. y otros 10 procesados enfrentan cargos por **presunta obstrucción a la justicia**.
-
-### Más noticias
-
-* [Cronología del caso Independencia Judicial investigado por Fiscalía](https://www.elcomercio.com/actualidad/seguridad/cronologia-caso-independencia-judicial-investigado-fiscalia.html "Cronología del caso Independencia Judicial investigado por Fiscalía")
-* [Caso Independencia Judicial inició con la audiencia de juicio](https://www.elcomercio.com/actualidad/seguridad/caso-independencia-judicial-inicio-con-audiencia-de-juicio.html "Caso Independencia Judicial inició con la audiencia de juicio")
-* [Caso Metástasis, Tribunal sentencia a Wilman Terán y 19 procesados a entre 3 y 10 años](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-jueza-confirma-delincuencia-organizada-se-espera-sentencia.html "Caso Metástasis, Tribunal sentencia a Wilman Terán y 19 procesados a entre 3 y 10 años")
-
-Durante esta sesión, las partes procesales presentaron sus **alegatos finales ante el tribunal.** El fiscal subrogante, **Wilson Toaínga**, argumentó que las pruebas recopiladas durante el juicio demuestran la culpabilidad de los 11 acusados en el delito de obstrucción a la justicia.
-
-En su alegato, Toaínga solicitó al tribunal que imponga penas de prisión a **todos los implicados**. Destacó que tanto Wilman T. como Maribel B. son considerados autores directos del delito.
-
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | Caso [#IndependenciaJudicial](https://twitter.com/hashtag/IndependenciaJudicial?src=hash&ref_src=twsrc%5Etfw): con la presencia del fiscal general del Estado (s), Wilson Toainga, se reinstala la audiencia de juicio contra 11 procesados por presunta [#ObstrucciónDeLaJusticia](https://twitter.com/hashtag/Obstrucci%C3%B3nDeLaJusticia?src=hash&ref_src=twsrc%5Etfw). Hoy, las partes procesales presentarán sus alegatos finales. [pic.twitter.com/TxWfhzWF5b](https://t.co/TxWfhzWF5b)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [December 13, 2024](https://twitter.com/FiscaliaEcuador/status/1867581586289701254?ref_src=twsrc%5Etfw)
-
-Para Wilman T., quien se encuentra acusado en calidad de autor, la Fiscalía ha solicitado una pena de siete años de prisión, además de agravantes. Estos **elevarían su condena total a 9 años y 4 meses**. De igual manera, se ha pedido una pena similar para Maribel B.
-
-¿Qué se investiga en el caso Independencia Judicial?
-----------------------------------------------------
-
-La investigación del **caso Independencia Judicial comenzó en 2022**, tras denuncias de presunto tráfico de influencias que involucraban a los exvocales del Consejo de la Judicatura, Juan José M. y Maribel B.
-
-Posteriormente, la Fiscalía solicitó una audiencia para la **formulación de cargos ante la Corte Nacional de Justicia.**
-
-El caso asignado al juez **Walter Macías Fernández** sufrió retrasos debido a una recusación presentada por Maribel B. el día previo a la audiencia programada para el 4 de mayo de 2023.
-
-> Caso [#IndependenciaJudicial](https://twitter.com/hashtag/IndependenciaJudicial?src=hash&ref_src=twsrc%5Etfw) | Al concluir con el alegato de cierre de [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw), el fiscal general del Estado (s), Wilson Toainga, destacó: [pic.twitter.com/GpYQyym3sL](https://t.co/GpYQyym3sL)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [December 13, 2024](https://twitter.com/FiscaliaEcuador/status/1867625721696297064?ref_src=twsrc%5Etfw)
-
-El 11 de mayo de 2023, el pleno del **Consejo de la Judicatura** suspendió al juez Macías basándose en informes internos, a pesar de que la recusación fue rechazada horas antes.
-
-Este hecho generó controversia, ya que Macías enfrentaba una denuncia administrativa en el marco del caso ‘Las Torres’. Donde se le acusó de **no informar adecuadamente sobre una demanda de recusación** contra otro juez.
-
-Finalmente, el Consejo de la Judicatura consideró esta conducta como una **infracción gravísima y lo destituyó** con solo dos votos favorables de los cinco posibles.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Gobierno toma acciones contra Progen por retrasos en generadores eléctricos
-===========================================================================
-
-El Gobierno denunció incumplimientos de Progen en contratos de generación eléctrica. Señaló falta de equipos, trabas en inspecciones y posible declaración como contratista incumplida.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El 1 de diciembre de 2024 llegaron los primeros 23 generadores termoeléctricos de Progen al país.](https://www.elcomercio.com/wp-content/uploads/2024/12/progen.jpg)
-
-El **Ministerio de Energí**a señaló múltiples incumplimientos por parte de **Progen**, empresa contratada para suministrar **generadores eléctricos** en dos proyectos térmicos necesarios para solventar la crisis energética del **Ecuador**.
-
-Las irregularidades incluyen la falta de **entrega de equipos esenciales,** obstáculos en las **inspecciones técnicas** y contradicciones en la información proporcionada por los representantes de la empresa[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Progen mostró los avances del proyecto de energía térmica El Salitral](https://www.elcomercio.com/actualidad/negocios/progen-mostro-los-avances-del-proyecto-de-energia-termica-el-salitral.html "Progen mostró los avances del proyecto de energía térmica El Salitral")
-* [¿Se podrán mantener los cortes de luz de tres horas en el Ecuador?](https://www.elcomercio.com/actualidad/negocios/promesa-cortes-luz-tres-horas-ecuador-daniel-noboa-crisis-electrica.html "¿Se podrán mantener los cortes de luz de tres horas en el Ecuador?")
-* [Así va la generación eléctrica en el Ecuador ¿se acabarán los cortes de luz en 10 días?](https://www.elcomercio.com/actualidad/negocios/asi-va-la-generacion-electrica-en-el-ecuador-se-acabaran-los-cortes-de-luz-en-10-dias.html "Así va la generación eléctrica en el Ecuador ¿se acabarán los cortes de luz en 10 días?")
-
-Así lo reconoció la ministra de Energía encargada, **Inés Manzano**, en una entrevista en Radio Centro, la noche del jueves del 2024. El incumplimiento afecta a las **centrales térmicas de Salitral**, en Guayas, de 100 megavatios (MW) y **Quevedo**, en Los Ríos, de 50 MW.
-
-Falta de equipos y problemas técnicos en Quevedo y Salitral
------------------------------------------------------------
-
-En el caso de **Salitral**, **Progen** entregó 23 turbinas, pero faltan seis más. Además, de componentes críticos como tableros de control, transformadores de elevación y sistemas electrógenos. Estos elementos son indispensables para transformar la energía generada a voltajes adecuados para su distribución.
-
-Según el Ministerio, los transformadores requeridos están supuestamente en fabricación en **China** y **Estados Unidos**, aunque no hay confirmación del origen o estado de estos equipos.
-
-En el **proyecto de Quevedo**, la situación es aún más crítica: no se han entregado equipos ni se ha cumplido con los pagos iniciales, lo que ha llevado a la emisión de notificaciones formales de incumplimiento.
-
-Inspecciones negadas y falta de transparencia
----------------------------------------------
-
-La ministra **Manzano** también señaló que **Progen** impidió en varias ocasiones la realización de verificaciones técnicas in situ. Aunque se notificaron estas inspecciones con anticipación, el acceso fue negado. Según las autoridades, esto retrasa aún más los proyectos y genera dudas sobre el manejo del contrato.
-
-Medidas del Gobierno
---------------------
-
-La ministra de **Manzano** subrayó que el Estado no puede permitir irregularidades en el uso de recursos públicos de **Ecuador**. “Estos son recursos del país, y debemos garantizar que se utilicen de manera transparente”, afirmó.
-
-Según **Manzano**, el Ministerio inició procesos legales y administrativos para exigir el cumplimiento de los contratos. En caso de persistir los incumplimientos, **Progen** podría ser declarada contratista incumplida. Esto incluye la imposición de multas y sanciones legales.
-
-Mientras tanto, el **Gobierno** de **Ecuador** sigue abierto a diálogos con los representantes de **Progen**, aunque exige resultados concretos y garantías de cumplimiento. “Nuestra prioridad es salvaguardar los intereses del país. Además, de asegurar la entrega de los equipos acordados”, concluyó Manzano.
-
-Por su parte, hasta el mediodía de este 13 de diciembre, la empresa **Progen** no emitió un pronunciamiento. Sin embargo, señaló que está preparando una respuesta oficial.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres ecuatorianas que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Lluvia de meteoros Gemínidas: ¿Cómo y dónde observarlas en Ecuador este diciembre 2024? 
-========================================================================================
-
-La lluvia de meteoros Gemínidas iluminará el cielo de Ecuador este diciembre.
------------------------------------------------------------------------------
-
-![Las Gemínidas iluminarán el cielo con su origen único (imagen referencial). Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/lluvia-de-meteoros-Geminidas.jpg)
-
-La **lluvia de meteoros Gemínidas** se aproxima y Ecuador se prepara para disfrutar de este **espectáculo astronómico**. La noche del 13 al 14 de diciembre de 2024, los cielos ecuatorianos se llenarán de **estrellas fugaces**, lo que ofrecerá una **experiencia visua**l única. Este fenómeno anual es uno de los más esperados del año y se caracteriza por su intensidad, con tasas que pueden alcanzar hasta **120 meteoros por hora** en condiciones ideales, de acuerdo con el Observatorio Astronómico de Quito.  
-
-### Más noticias
-
-* [Helicóptero de la NASA detectó fragmentos de una nave espacial](https://www.elcomercio.com/tecnologia/nasa-helicoptero-marte-nave-espacial.html "https://www.elcomercio.com/tecnologia/nasa-helicoptero-marte-nave-espacial.html") 
-* [Calendario de los eventos astronómicos más importantes de este 2024](https://www.elcomercio.com/tendencias/ciencia/astronomia-calendario-planetas-ecuador.html "https://www.elcomercio.com/tendencias/ciencia/astronomia-calendario-planetas-ecuador.html") 
-
-**¿Qué son las Gemínidas y por qué son importantes?** 
-------------------------------------------------------
-
-Las **Gemínidas** son una **lluvia de meteoros** que ocurre cuando la Tierra atraviesa la **órbita del asteroide Faetón**. Este **evento astronómico** se destaca por su espectacularidad y se considera una de las lluvias más impresionantes del calendario, ya que rivaliza con **las Perseidas y las Cuadrántidas**. El origen de las Gemínidas es único, ya que no provienen de un cometa, sino de un **asteroide rocoso** que libera partículas a medida que se acerca al Sol, a decir de [Nasanet](https://www.lanasa.net/universo/observacion-astronomica/ya-esta-aqui-la-ultima-lluvia-de-meteoros-del-ano-las-geminidas-2024 "https://www.lanasa.net/universo/observacion-astronomica/ya-esta-aqui-la-ultima-lluvia-de-meteoros-del-ano-las-geminidas-2024"). 
-
-**Fechas y horarios ideales para observar las Gemínidas en Ecuador** 
----------------------------------------------------------------------
-
-La actividad de la **lluvia de meteoros Gemínidas** tendrá su pico durante la noche del 13 al 14. Los mejores momentos para observar serán **desde las 20:30 hasta el amanece**r. A medida que avance la noche, **los meteoros parecerán irradiar** desde la constelación de Géminis, visible en dirección noreste al anochecer. 
-
-El punto más alto de la lluvia será alrededor de las 02:00 de la madrugada, cuando **los meteoros estarán más cerca del cenit**. 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDhpsEYqWYO/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Observatorio Astronómico de Quito (@oaq\_ecuador)](https://www.instagram.com/p/DDhpsEYqWYO/?utm_source=ig_embed&utm_campaign=loading)
-
-**Consejos prácticos: cómo prepararte para disfrutar del evento** 
-------------------------------------------------------------------
-
-Para disfrutar plenamente de la l**luvia de meteoros Gemínidas**, considera estos consejos: 
-
-* **Ropa adecuada:** Lleva ropa abrigada, ya que las temperaturas pueden descender durante la noche. 
-
-* **Comodidad:** Utiliza mantas o sillas cómodas para poder observar durante varias horas sin molestias. 
-
-* **Tiempo claro:** Verifica el pronóstico del tiempo antes del evento. Un cielo despejado es crucial para una buena visibilidad. 
-
-* **Equipamiento opcional:** Aunque no es necesario, llevar binoculares o cámaras puede mejorar la experiencia. 
-
-La **lluvia de meteoros Gemínidas** es una oportunidad única para **conectar con el cosmos** y disfrutar de un **espectáculo natural** inolvidable. Ecuador ofrece un escenario privilegiado para observar este **fenómeno astronómico**. Con la preparación adecuada y con los lugares correctos, los ecuatorianos podrán vivir una experiencia memorable bajo un manto estrellado. 
-
-¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?
-===========================================================================
-
-Liga de Quito disputará la final de vuelta de la Liga Pro y el DT Pablo 'Vitamina' Sánchez tiene a tres jugadores preferidos..
-------------------------------------------------------------------------------------------------------------------------------
-
-![Fernando Cornejo (izq.) y Álex Arce (der.), dos de los jugadores que más partidos han sumado con el DT Pablo 'Vitamina' Sánchez.](https://www.elcomercio.com/wp-content/uploads/2024/12/20241201140247-fbl-ligapro-liga-cuenca-scaled.jpg)
-
-**Liga de Quito** acaricia el título de la Liga Pro 2024 y se medirá ante Independiente del Valle en la final de vuelta del torneo tras imponerse en la de ida. Para el decisivo cotejo, el DT Pablo ‘Vitamina’ Sánchez contará con **Álex Arce, Fernando Cornejo y Leonel Quiñónez**, sus tres nombres de preferencia.
-
-El sábado 14 de diciembre del 2024, a las 15:30, el balón rodará en el Estadio de Independiente del Valle para definir al campeón. Los albos llegan con una ventaja de 3-0 en el duelo de ida gracias a un doblete de Álex Arce y un tanto de **Gabriel Villamil**.
-
-### Más noticias:
-
-* [La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito](https://www.elcomercio.com/deportes/pablo-sanchez-tatuaje-vitamina-liga-quito.html "La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito")
-* [IDV necesita una gesta para arrebatarle el título a Liga de Quito](https://www.elcomercio.com/deportes/futbol/idv-necesita-una-gesta-para-arrebatarle-el-titulo-a-liga-de-quito.html "IDV necesita una gesta para arrebatarle el título a Liga de Quito")
-* [Liga de Quito e IDV, dos estilos de juego para un solo campeón](https://www.elcomercio.com/deportes/futbol/liga-de-quito-e-idv-dos-estilos-de-juego-para-un-solo-campeon.html "Liga de Quito e IDV, dos estilos de juego para un solo campeón")
-
-Los albos llegan a su último partido después de lograr un repunte en su rendimiento durante la segunda etapa del torneo con el DT **Pablo ‘Vitamina’ Sánchez**. El entrenador llegó a mediados de año para reemplazar a Josep Alcácer y se coronó como ganador de la última ronda del campeonato, por lo que obtuvo su pasaje hacia la final. En la primera etapa, que ganó Independiente, la ‘U’ finalizó tercera.
-
-A raíz de la llegada de **Sánchez**, los albos mantuvieron el equipo base y sumaron refuerzos. A partir de la adaptación del estratega al equipo, y de este con él, Arce, Cornejo -quien llegó a pedido del DT- y Quiñónez se volvieron nombres fijos en el esquema táctico.
-
-Dentro del trajín de ‘Vitamina’ con el ‘Rey de Copas’, los tres jugadores se han convertido en los que más cotejos han disputado con él. **El trío supera la veintena de compromisos** y ha estado presente más allá de la Liga Pro.
-
-Los tres jugadores con más partidos en Liga de Quito
-----------------------------------------------------
-
-![Alex Arce fue la figura de Liga de Quito en la final de Liga Pro con dos goles.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-07T165654.936-1024x683.jpg)
-
-Alex Arce fue la figura de Liga de Quito en la final de ida de Liga Pro con dos goles. Foto: API
-
-**Álex Arce** es quien encabeza la lista de los jugadores con mayor cantidad de apariciones bajo la tutela de Pablo ‘Vitamina’ Sánchez. El delantero paraguayo ha sumado 23 apariciones con el entrenador argentino en tres torneos distintos.
-
-Arce representó a Liga con el entrenador en la **Liga Pro, la Copa Ecuador y la Copa Sudamericana**. A las oportunidades que le ha dado Sánchez, el paraguayo le ha respondido con goles, pues en los 23 juegos ha convertido en **18 oportunidades.**
-
-El ariete guaraní, a su vez, es el máximo goleador de la Liga Pro y su promedio de anotación es de 0.9. En 30 cotejos ha celebrado en **28 ocasiones.**
-
-Fernando Cornejo, el refuerzo de ‘Vitamina’
--------------------------------------------
-
-![Fernando Cornejo, jugador de Liga de Quito, en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/11/20241109136523-fbl-ligapro-ecuabet-liga-independiente-1024x683.jpg)
-
-Fernando Cornejo, jugador de Liga de Quito, en un partido de la Liga Pro. Foto: PI
-
-**Fernando Cornejo** fue uno de los refuerzos de Liga de Quito a pedido de Pablo ‘Vitamina’ Sánchez y llegó a mediados de 2024. El volante chileno coincidió con el entrenador en su etapa previa en Palestino de Chile, desde donde arribó a la ‘U’[.](https://en.wikipedia.org/wiki/L.D.U._Quito "https://en.wikipedia.org/wiki/L.D.U._Quito")
-
-A raíz de su llegada al conjunto azucena, Cornejo acumuló **23 apariciones**, las mismas que Arce. Este, sin embargo, solo marcó tres goles.
-
-Leonel Quiñónez, el lateral de confianza en Liga de Quito
----------------------------------------------------------
-
-![Ezequiel Piovi y Leonel Quiñónez de Liga de Quito celebran un gol en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/1000177912-1024x688.jpg)
-
-Ezequiel Piovi y Leonel Quiñónez de Liga de Quito celebran un gol en la Liga Pro. Foto: API
-
-Por detrás de Arce y Cornejo, **Leonel Quiñónez** es el jugador con más participaciones en la escuadra azucena. El lateral zurdo ha sido el que más ha estado presente dentro de la línea defensiva del entrenador argentino.
-
-Quiñónez suma **22 partidos** con Pablo Sánchez. Aunque no ha hecho goles, este ha sido fundamental en su sector y no solo ha sido una garantía defensiva, sino que ha aportado con **siete asistencias** en ataque.
-
-Consulado de Ecuador en Bogotá se pronuncia por muerte de niña
-==============================================================
-
-Gran Estación, por su parte, expresó sus condolencias a la familia y reafirmó su compromiso con las autoridades en la investigación.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Lugar donde murió niña en centro comercial Gran Estación de Bogotá.](https://www.elcomercio.com/wp-content/uploads/2024/12/centro-comercial-bogota-colombia.jpeg)
-
-Tras la tragedia en el **centro comercial Gran Estación**, el Consulado de Ecuador en Bogotá ofrece apoyo a la **familia y acompaña las investigaciones**, informó El Tiempo de Bogotá.
-
-### Más noticias
-
-* [Niña ecuatoriana de 5 años falleció en el centro comercial Gran Estación, en Bogotá](https://www.elcomercio.com/actualidad/mundo/siniestro-fatal-gran-estacion-bogota-nina-ecuatoriana-vida.html "https://www.elcomercio.com/actualidad/mundo/siniestro-fatal-gran-estacion-bogota-nina-ecuatoriana-vida.html")
-* [Una niña de 3 años, entre las víctimas que deja el accidente de un bus interprovincial en el cantón Biblián, en Cañar](https://www.elcomercio.com/actualidad/seguridad/nina-fallecidos-accidente-bus-canar.html "https://www.elcomercio.com/actualidad/seguridad/nina-fallecidos-accidente-bus-canar.html")
-* [Conmoción en Los Ríos por la forma en que una niña de 10 años murió](https://www.elcomercio.com/actualidad/seguridad/conmocion-rios-nina-muerte-violenta.html "https://www.elcomercio.com/actualidad/seguridad/conmocion-rios-nina-muerte-violenta.html")
-
-Hecho trágico en el centro comercial Gran Estación
---------------------------------------------------
-
-El 11 de diciembre de 2024, un trágico hecho cobró la **vida de una niña ecuatoriana** en el centro comercial Gran Estación de Bogotá. La menor, de 5 años, se encontraba junto a sus **padres caminando** por el segundo piso cuando un **vidrio de un establecimiento le cayó encima,** causándole un grave trauma craneoencefálico. El hecho ocurrió alrededor de las 11:45 a. m.
-
-Personal de emergencias acudió al lugar de inmediato, pero pese a los **esfuerzos de reanimación,** la niña falleció en el lugar. Un testigo, que habló con el canal Citytv, de la Casa Editorial El Tiempo, relató que la niña no se encontraba dentro del establecimiento donde se cayó el vidrio, sino caminando en el pasillo. “La niña convulsionó en el piso, la mamá estaba en shock, no podía verla”, mencionó.
-
-Investigación y acompañamiento consular a la familia
-----------------------------------------------------
-
-La **Fiscalía General de la Nación** asumió las investigaciones para esclarecer las causas del accidente y determinar posibles responsabilidades. En este contexto, el **Consulado de Ecuador en Bogotá** se pronunció sobre el lamentable suceso. A través de un comunicado, indicó que un primer acercamiento con la familia se **realizó el mismo 11 de diciembre** y que continuarían brindando asistencia y asesoría legal para la repatriación de la menor si fuera necesario, de acuerdo con El Tiempo de Bogotá.
-
-Gran Estación, por su parte, expresó sus **condolencias a la familia** y reafirmó su compromiso de colaborar con las **autoridades en la investigación**. Además, informó que estaba llevando a cabo una “revisión integral” de lo sucedido para garantizar la seguridad de los clientes en sus instalaciones.
-
-Esta noticia fue confirmada y seguida de cerca por El Tiempo, de Bogotá, que se mantiene en contacto con las **autoridades y con la familia afectad**a.
-
-Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos
-=======================================================================================
-
-El Ministerio de Energía ratificó el fin de los cortes de luz en Ecuador a partir del viernes 20 de diciembre.
---------------------------------------------------------------------------------------------------------------
-
-![Ecuador enfrentó cortes de luz programados de hasta 14 horas diarias](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-fin-ecuador.jpg)
-
-El Gobierno Nacional, a través del **Ministerio de Energía**, ratificó el **fin de los cortes de luz** en Ecuador, a partir del **viernes 20 de diciembre** de 2024.
-
-### Más noticias
-
-* [Cortes de luz en Cuenca del lunes 16 al jueves 19 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-en-cuenca-del-lunes-16-al-jueves-19-de-diciembre.html "Cortes de luz en Cuenca del lunes 16 al jueves 19 de diciembre")
-* [Cortes de luz en Guayaquil del lunes 16 al jueves 19 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-en-guayaquil-del-lunes-16-al-jueves-19-de-diciembre.html "Cortes de luz en Guayaquil del lunes 16 al jueves 19 de diciembre")
-* [Quito tendrá cortes de luz de dos horas del lunes 16 al jueves 19 de diciembre](https://www.elcomercio.com/actualidad/quito/quito-cortes-luz-dos-horas-lunes-16-jueves-19-diciembre.html "Quito tendrá cortes de luz de dos horas del lunes 16 al jueves 19 de diciembre")
-
-En un comunicado oficial difundido este viernes 13 de diciembre, la cartera de Estado aseguró que los apagones programados a nivel nacional **se suspenderán** en siete días.
-
-Para la **última semana** de racionamientos eléctricos, del lunes 16 al jueves 19 de diciembre, la programación se redujo a **dos horas**.
-
-Los apagones comenzaron en **abril**, pero se suspendieron luego de unos días. El lunes 23 de septiembre se retomaron los cortes de luz al país, esta vez, se extendieron por más de 80 días. En los días más críticos, la programación incluyó racionamientos de hasta **14 horas**.
-
-> 📍\[COMUNICADO OFICIAL\] [pic.twitter.com/rxyel6oF2I](https://t.co/rxyel6oF2I)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [December 13, 2024](https://twitter.com/RecNaturalesEC/status/1867593976963870831?ref_src=twsrc%5Etfw)
-
-Lluvias contribuyeron al fin de los cortes de luz
--------------------------------------------------
-
-El presidente **Daniel Noboa** anticipó en los días anteriores que el 20 de diciembre finalizarán los cortes de luz programados por la **crisis energética**.
-
-El Gobierno justificó su decisión tras analizar la situación **hidrológica** en Ecuador. Las lluvias considerables que cayeron en las zonas cercanas a las **hidroeléctricas**, sumadas a la **recuperación** de la capacidad instalada y la incorporación de nueva generación de energía, contribuyeron a la suspensión de los apagones.
-
-La **compra** de energía a **Colombia** y la generación eléctrica **privada** también fueron factores importantes en medio de esta **sequía.**
-
-Última semana con apagones programados
---------------------------------------
-
-Las empresas eléctricas publicaron los cronogramas para la última semana con cortes de luz programados, del lunes 16 al jueves **19 de diciembre**.
-
-### Quito
-
-La **Empresa Eléctrica Quito** (EEQ) publicó la programación completa de apagones:
-
-### Guayaquil
-
-Este es el cronograma de racionamientos publicado por la **Corporación Nacional de Electricidad** (CNEL)[:](https://www.cnelep.gob.ec/ "https://www.cnelep.gob.ec/")
-
-### Cuenca
-
-**Centrosur** compartió su programación de cortes de luz:
-
-Brasilia postulada como sede de la final de la Libertadores 2025
-================================================================
-
-La final única de la Copa Libertadores se instauró por primera ven en 2019 por la Conmebol.
--------------------------------------------------------------------------------------------
-
-![Interior del estadio Mané Garrincha de Brasilia en 2014.](https://www.elcomercio.com/wp-content/uploads/2024/12/mane_1.jpg)
-
-La Confederación Brasileña de Fútbol (CBF) postuló a **Brasilia como sede de la final de la Copa Libertadores de 2025**, que sería disputada en el Mané Garrincha, uno de los estadios construidos para el Mundial de 2014 y con capacidad para 70 000 espectadores, informó este viernes 13 de diciembre de 2024 la entidad.
-
-La candidatura fue presentada esta semana ante la **Confederación Sudamericana (Conmebol)**, responsable por el principal torneo de clubes de América y que pretende escoger a comienzos del próximo año la ciudad que acogerá la final de la Libertadores del 29 de noviembre próximo.
-
-### Más noticias:
-
-* [Kylian Mbappé, del Real Madrid, es duda para la Intercontinental](https://www.elcomercio.com/deportes/futbol/kylian-mbappe-del-real-madrid-es-duda-para-la-intercontinental.html "Kylian Mbappé, del Real Madrid, es duda para la Intercontinental")
-* [La Liga Pro, seis finales y cinco campeones desde 2019](https://www.elcomercio.com/deportes/futbol/liga-pro-finales-historia-campeones.html "La Liga Pro, seis finales y cinco campeones desde 2019")
-* [Liga de Quito pone precios para ver la final de vuelta a distancia](https://www.elcomercio.com/deportes/precios-final-vuelta-liga-rodrigo-paz-estadio.html "Liga de Quito pone precios para ver la final de vuelta a distancia")
-
-Brasilia recibió grandes eventos
---------------------------------
-
-La CBF recordó que Brasilia es una de las ciudades con las mejores redes aéreas del país, que ya fue **escenario de grandes eventos deportivos**, y que la candidatura cuenta con el apoyo del gobernador de la capital brasileña, Ibaneis Rocha.
-
-“Brasilia es una de las mejores ciudades para **recibir la principal competición entre clubes de Sudamérica**. La capital brasileña une una serie de factores importantes, como seguridad, capacidad hotelera, red aérea y la grandeza del Mané Garrincha”, afirmó el presidente de la CBF, Ednaldo Rodrigues.
-
-Entre los eventos futbolísticos que han tenido partidos en la ciudad destacan el **Mundial de 2014, la Copa Confederaciones de 2013**, el Mundial sub’17 de 2021 y la Copa América de 2021, así como algunos de los compromisos de la selección brasileña por eliminatorias mundialistas.
-
-La CBF destacó igualmente que el Mané Garrincha, con una elogiada grama renovada recientemente, fue escenario de dos de los partidos con mayor número de público del Campeonato Brasileño de este año: un Vasco da Gama-Palmeiras con 65.000 espectadores y un Flamengo-Criciuma con 60.000 asistentes.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/mane_2-1024x683.jpg)
-
-Las finales únicas de la Libertadores
--------------------------------------
-
-El modelo de finales únicas de la **Copa Libertadores se instauró en 2019**. El Monumental de Lima recibió a Flamengo, futuro campeón, y River Plate.
-
-En el 2020, en pleno año de la pandemia del covid-19 y todas sus restricciones, la final se trasladó al Maracaná de Río de Janeiro. Palmeiras se proclamó campeón y Santos el vicecampeón.
-
-En el **2021 el mítico Centenario de Montevideo** fue testigo del bicampeonato de Palmeiras. En el partido decisivo derrotaron a Flamengo.
-
-En el **2022 la Libertadores y su trofeo regresaron a Guayaquil** luego de 24 año. Flamengo fue el campeón al ganarle a Atlético Paranaense en el estadio Monumental.
-
-Para el 2023, Fluminense y Boca Juniors se citaron en el Maracaná. Los brasileños se llevaron el trofeo.
-
-La final de **2024 fue disputada en noviembre pasado en el Monumental de Buenos Aires**, en donde Botafogo se impuso al también brasileño Atlético Mineiro.
-
-San viernes
------------
-
-Ministra de Energía de Ecuador afirma que solo siete empresas tendrán un apagón de 15 días
-==========================================================================================
-
-Según Manzano, las empresas a las que el Gobierno no les dará energía durante este tiempo son Fruta del Norte y Mirador.
-------------------------------------------------------------------------------------------------------------------------
-
-![La ministra de Energía y Minas en funciones de Ecuador, Inés Manzano.](https://www.elcomercio.com/wp-content/uploads/2024/12/ines-manzano-cortesia.jpg)
-
-La ministra de Energía y Minas en funciones de [Ecuador](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador"), Inés Manzano, señaló que solo siete grandes empresas son las que el Gobierno prevé que tengan un apagón de **15 días consecutivos**. Aclaró que no es en todo el sector industrial, como alertaron y rechazaron este jueves algunos **gremios empresariales**.
-
-### Más noticias
-
-* [Ministra de Energía: ‘Ajústense los cinturones, se vienen sacudones’](https://www.elcomercio.com/actualidad/negocios/ministra-energia-ajustense-cinturones-vienen-sacudones.html "Ministra de Energía: ‘Ajústense los cinturones, se vienen sacudones’")
-* [Ministerio de Energía anunció reducción de cortes de luz para semana del 9 de diciembre](https://www.elcomercio.com/actualidad/ecuador/ministerio-de-energia-anuncio-reduccion-de-cortes-de-luz-para-semana-del-9-de-diciembre.html "Ministerio de Energía anunció reducción de cortes de luz para semana del 9 de diciembre")
-* [Inés Manzano dice que Colombia empezó a entregar energía a Ecuador](https://www.elcomercio.com/actualidad/negocios/ines-manzano-anuncia-nuevas-medidas-para-reducir-cortes-luz.html "Inés Manzano dice que Colombia empezó a entregar energía a Ecuador")
-
-Manzano señaló en una entrevista con **Radio Centro de Guayaquil** que el presidente de la **Federación Nacional de Cámaras de Industrias de Ecuador,** Francisco Jarrín, “se equivocó”. Se refirió que el error se dio al señalar el jueves en una entrevista que la ministra les anticipó que el **sector industrial** tendría un corte de electricidad de 15 días desde el 15 al 31 de diciembre.
-
-Jarrín aseguró en **Radio Sucesos** que la medida causaba **preocupación el sector productivo**, al que, dijo, “se le quiere **cargar el 100 % del costo de esta crisis**“, cuando ellos representan “apenas el 26 % del consumo de energía”, y cuando el Gobierno anunció que los **racionamientos de electricidad** para los hogares cesarán el 20 de diciembre.
-
-“De repente escucharon lo que quieren escuchar, **pero yo fui muy clara**, y con (la desconexión de) esas **siete empresas el resto del país** trabaja igual del 15 al 31″, agregó.
-
-Empresas a las que el Gobierno no les dará energía
---------------------------------------------------
-
-Según Manzano, las empresas a las que el **Gobierno no les dará energía** durante este tiempo son las **dos minas industriales** que operan en Ecuador (Fruta del Norte y Mirador), **dos acerías y tres cementeras**, que forman parte del **sector de consumo clasificado** bajo las categorías de mayor consumo del país.
-
-Y señaló que las **demás industrias** mantendrán los cortes que se coordinaron con ellas, en una forma de **“priorizar” que los apagones** cesen para el sector residencial.
-
-“Yo debo poner como **prioridad a todos los ciudadanos.** A nadie le gusta una decisión de esta naturaleza, pero es una manera también de apoyar a que toda la ciudadanía pueda tener energía”, agregó.
-
-Desde mediados de septiembre, **Ecuador tiene a diario apagones programados** que llegaron a ser de hasta 14 horas al día para el **sector doméstico**, mientras que en algunas zonas industriales llegaron a estar cinco días consecutivos.
-
-Algunas empresas no cumplen con horarios establecidos
------------------------------------------------------
-
-La ministra también señaló que hay algunas empresas que no cumplen con los **horarios establecidos**, lo que ha causado desajustes en el voltaje y **rechazó que los empresarios** hablen de pérdidas de plazas de trabajo.
-
-“No se trata ni siquiera de perder el empleo, nadie está hablando de nada de eso, en realidad creo que han hecho un comentario que no está apegado a la verdad”, mencionó.
-
-Con una **matriz de generación eléctrica** compuesta en más de 70 % por centrales hidroeléctricas, Ecuador vive una crisis energética que llevó a aplicar severos racionamientos de electricidad en distintos periodos desde finales de 2023 por sequías en los ríos que alimentan a sus principales plantas hidroeléctricas.
-
-El último periodo comenzó a mediados de septiembre y ha sido hasta ahora el más largo, con apagones programados diarios que oscilaron entre las cuatro y las 14 horas, a escala nacional.
-
-Sequía, plantas hidroeléctricas
--------------------------------
-
-Además de la **sequía, la falta de inversiones** y mantenimiento de **plantas hidroeléctricas** y termoeléctricas (que usan petróleo) en los últimos año, contribuyeron a la **crisis actual**, según han aceptado la autoridades. 
-
-Pichincha ampliará su dominio sobre Guayas en campeonato nacional
-=================================================================
-
-La final de la Liga Pro de 2024 se jugará el sábado 14 de diciembre en el estado de IDV.
-----------------------------------------------------------------------------------------
-
-![Ezequiel Piovi (i) y Richard Schunke en la final de ida de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/pichincha_guayas_1.jpg)
-
-La temporada será definida entre **Independiente del Valle y Liga de Quito**, dos equipos que nacieron y se formaron en Pichincha, la provincia que agrupa a seis de los 16 equipos que juegan en la Liga Pro 2024.
-
-Esta definición permitirá a **Pichincha ampliar su ventaja sobre Guayas** en cuanto a títulos nacionales, con lo que permanecerá un año más como la provincia que más títulos del campeonato local aglutinó con sus equipos.
-
-### Más noticias:
-
-* [Alex Arce y Jeison Medina, los goleadores que definirán la Liga Pro](https://www.elcomercio.com/deportes/futbol/alex-arce-y-jeison-medina-los-goleadores-que-definiran-la-liga-pro.html "Alex Arce y Jeison Medina, los goleadores que definirán la Liga Pro")
-* [Kylian Mbappé, del Real Madrid, es duda para la Intercontinental](https://www.elcomercio.com/deportes/futbol/kylian-mbappe-del-real-madrid-es-duda-para-la-intercontinental.html "Kylian Mbappé, del Real Madrid, es duda para la Intercontinental")
-* [La Liga Pro, seis finales y cinco campeones desde 2019](https://www.elcomercio.com/deportes/futbol/liga-pro-finales-historia-campeones.html "La Liga Pro, seis finales y cinco campeones desde 2019")
-
-La repartición de títulos
--------------------------
-
-En la historia de los campeonatos nacionales, Guayas empezó dominando las cinco primeras ediciones ganando los títulos con **Emelec (1957 y 1961), Barcelona Sporting Club (1960 y 1963)** y Everest (1962).
-
-En 1964 el Deportivo Quito rompe esa hegemonía y se convirtió en el primer representante de Pichincha en ser campeón nacional. **Ernesto Guerra fue la gran figura** en una temporada que dominó el fútbol ecuatoriano.
-
-La década de los 60 se cerró con seis títulos de Guayas y cuatro de Pichincha con El Nacional y Liga de Quito como los nuevos campeones.
-
-En al década de los 70 la ecuación se invirtió y **Pichincha alcanzó seis coronas** y Guayas se quedó con cuatro.
-
-En los **80 nuevamente los equipos de Guayas pasaron a ganar seis** trofeos y Pichincha cuatro; y en los 90 se dividieron cinco títulos por cada provincia.
-
-La década del 2000 tuvo como **invitados inesperados a Olmedo de Chimborazo y Deportivo Cuenca** de Azuay. Los dos equipos rompieron con la hegemonía de las dos provincias con mayor población a escala nacional.
-
-Dos títulos quedaron en manos del Guayas y siete en manos de Pichincha, con lo que se empezó a inclinar la balanza del balance general en su favor.
-
-Guayas retoma con **fuerza su dominio en la década de 2010 al alcanzar seis títulos**, tres fueron para Pichincha y uno fue a parar a Manabí, con Delfín como su máximo representante.
-
-En la década del **2020 el dominio es para Pichinch**a. Ya tiene asegurado tres títulos y el cuarto se sumará el sábado 14 de diciembre de 2024. Guayas alcanzó uno con Barcelona SC.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/12/pichincha_guayas_2-1024x683.jpg)
-
-Foto: API.
-
-Pichincha domina la sumatoria final
------------------------------------
-
-En la sumatoria final, **Pichincha tiene 32 títulos** repartidos en El Nacional (13), Liga de Quito (12), Deportivo Quito (5), Independiente del Valle (1) y Aucas.
-
-**Guayas le sigue muy de cerca con 31** coronas divididas en Barcelona SC (16), Emelec (14) y Everest (1).
-
-Chimborazo con Olmedo, Azuay con el Deportivo Cuenca y Manabí con Delfín, ganaron un solo trofeo.
-
-San viernes
------------
-
-El misterio detrás del viernes 13: origen y creencias populares
-===============================================================
-
-Es un día rodeado de supersticiones y miedos en diversas culturas.
-------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo45.jpg)
-
-El **viernes 13** es conocido mundialmente como un día de mala suerte. Aunque para muchos es solo una superstición, su origen tiene raíces profundas en la historia y la cultura popular.
-
-Se cree que la combinación del viernes, asociada con eventos desafortunados en tradiciones cristianas como la **crucifixión de Jesús**, y el número 13, considerado de mal augurio por varias culturas, dio lugar al temor que rodea esta fecha.
-
-### Más noticias:
-
-* **[Selena Gomez ‘comparte’ la receta para convertirse en multimillonaria](https://www.elcomercio.com/tendencias/entretenimiento/selena-gomez-fortuna-multimillonaria-negocios.html "https://www.elcomercio.com/tendencias/entretenimiento/selena-gomez-fortuna-multimillonaria-negocios.html")**
-* **[‘Heretic’, una película de terror psicológico que desafía la fe](https://www.elcomercio.com/tendencias/heretic-pelicula-terror.html "https://www.elcomercio.com/tendencias/heretic-pelicula-terror.html")**
-
-Según _The Light House_, estas creencias se reforzaron con el arresto de los Caballeros Templarios un viernes 13 de 1307, un evento trágico que marcó la historia.
-
-En la cultura popular, la saga de películas de terror ‘Viernes 13’ se popularizó aún más esta fecha, con el icónico asesino Jason Voorhees aterrorizando a audiencias de todo el mundo.
-
-Estas películas cimentaron la conexión entre el viernes 13 y el terror moderno, perpetuando la idea de que es un día para temer.
-
-En Ecuador, las supersticiones sobre el viernes 13 no son tan marcadas como en otros países. Sin embargo, algunos eventos culturales aprovechan esta fecha para promover actividades relacionadas con el misterio y el terror, como proyecciones de películas o recorridos en sitios históricos.
-
-Según _El Diario Ecuador_, también existen rituales para contrarrestar la mala suerte, como encender velas blancas o realizar limpias energéticas.
-
-En definitiva, ya sea un día para evitar riesgos o simplemente una excusa para disfrutar de un maratón de películas de terror, el viernes 13 sigue siendo una fecha enigmática que despierta todo tipo de emociones y debates. ¿Es solo un mito o un recordatorio de que el azar y la historia tienen sus propios caminos?
-
-La principal diferencia entre el **viernes 13** y el **martes 13** radica en las regiones culturales que atribuyen supersticiones a cada día. Mientras que el viernes 13 es asociado con mala suerte principalmente en países de habla inglesa y culturas occidentales influenciadas por esta tradición, el martes 13 tiene su raíz en países hispanohablantes y culturas mediterráneas como España y América Latina.
-
-Fiestas de Quito aportaron al turismo local
-===========================================
-
-Durante las fiestas de Quito, la capital recibió a 184 000 visitantes, quienes contribuyeron al impulso de la economía local.
------------------------------------------------------------------------------------------------------------------------------
-
-![Las fiestas de Quito tuvieron conciertos y eventos culturales.](https://www.elcomercio.com/wp-content/uploads/2024/12/Fiestas-Quito-1.jpg)
-
-El **Municipio** presentó un informe sobre el impacto económico de las fiestas de Quito de 2024, que incluyó una agenda de eventos artísticos, culturales y ferias de emprendimientos[.](https://en.wikipedia.org/wiki/Fiestas_de_Quito "https://en.wikipedia.org/wiki/Fiestas_de_Quito")
-
-Más noticias
-------------
-
-* [Fiestas de Quito lograron 400 000 asistentes en sus actos culturales y artísticos](https://www.elcomercio.com/actualidad/quito/fiestas-quito-economia-sectores-conciertos-artistas.html "Fiestas de Quito lograron 400 000 asistentes en sus actos culturales y artísticos")
-* [AMC desechó casi 5 000 litros de alcohol en fiestas de Quito](https://www.elcomercio.com/actualidad/quito/amc-desecho-casi-5-000-litros-de-alcohol-en-fiestas-de-quito.html "AMC desechó casi 5 000 litros de alcohol en fiestas de Quito")
-* [Más de 9 000 emergencias fueron atendidas durante las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/mas-9-000-emergencias-fiestas-quito.html "Más de 9 000 emergencias fueron atendidas durante las fiestas de Quito")
-
-Según el reporte, las fiestas de **Quito** dejaron ingresos de **26 214 590 dólares** en los establecimientos turísticos del Distrito Metropolitano.
-
-Estudio de impacto turístico
-----------------------------
-
-La Empresa Pública **Quito** **Turismo** realizó un estudio basado en encuestas a locales de alimentos y bebidas, **alojamiento** y **operadores** **turísticos**. Este análisis se dividió en dos etapas: del 30 de noviembre al 3 de diciembre y del 4 al 8 de diciembre, último día del feriado.
-
-* **Primera etapa**: Las ventas alcanzaron **13,6 millones de dólares**, distribuidos en:
-    * **12,7 millones** en establecimientos de alimentos y bebidas.
-    * **674 000 dólares** en alojamiento.
-    * **313 000 dólares** en operadores turísticos.
-* **Segunda etapa**: Las ventas llegaron a **12,3 millones de dólares**, repartidos en:
-    * **11,7 millones** en alimentos y bebidas.
-    * **258 000 dólares** en alojamiento.
-    * **323 000 dólares** en operadores turísticos.
-
-Además, el **Festival Gastronómico Sal Quiteña**, realizado en el **Parque** **Bicentenario** del 5 al 8 de diciembre, generó **304 000 dólares**. Este evento contó con la participación de casi **300 000 personas** que visitaron **150 stands** de comida.
-
-Llegada de turistas a Quito
----------------------------
-
-Durante la temporada de fiestas, Quito recibió **184 000 visitantes**, de los cuales:
-
-* **28 152** arribaron por vuelos domésticos e internacionales entre el 5 y 8 de diciembre.
-* **156 180** llegaron a las terminales terrestres de **Quitumbe** y **Carcelén** entre el 30 de noviembre y el 8 de diciembre.
-
-El feriado reportó un incremento de **3,2 millones de dólares** en comparación con el mismo periodo de 2023, cuando se generaron aproximadamente **9,5 millones de dólares** por gasto turístico.
-
-Una provincia registró el segundo temblor de la semana este viernes 13 de diciembre
-===================================================================================
-
-El temblor tuvo una magnitud de 3.5 en la escala de Richter. Usuarios de redes sociales comentaron no haber sentido el sismo
-----------------------------------------------------------------------------------------------------------------------------
-
-![Un temblor se registró la mañana de este viernes 13 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-13T111606.307.jpg)
-
-El **Instituto Geofísico** (IG) de la Politécnica Nacional informó este **viernes 13 de diciembre** de 2024 sobre la actividad sísmica registrada en Ecuador.
-
-### Más noticias
-
-* [¿Sintieron el temblor de 2.9 en Quito?](https://www.elcomercio.com/actualidad/quito/un-temblor-de-2-9-se-registro-en-quito-este-jueves-12-de-diciembre.html "¿Sintieron el temblor de 2.9 en Quito?")
-* [Lluvias se mantienen en Ecuador este viernes 13 de diciembre](https://www.elcomercio.com/actualidad/ecuador/lluvias-clima-ecuador-viernes-13-de-diciembre.html "Lluvias se mantienen en Ecuador este viernes 13 de diciembre")
-* [Un excoronel y un capitán de la Armada, involucrados en tráfico de droga](https://www.elcomercio.com/actualidad/seguridad/un-excoronel-y-un-capitan-armada-involucrados-en-trafico-de-droga.html "Un excoronel y un capitán de la Armada, involucrados en tráfico de droga")
-
-El epicentro se ubicó cerca de la costa
----------------------------------------
-
-Este viernes 13 de diciembre, **un temblor se registró en Ecuador**. El sismo tuvo una magnitud de 3.5 en la escala de Richter y se registró a una profundidad de 34,2 kilómetros.
-
-El **movimiento telúrico** se ubicó a una latitud de 2.587° S y a una longitud de 80.845° W.
-
-Su epicentro se localizó a **39,85 kilómetros de La Libertad,** provincia de Santa Elena.
-
-Este es el **segundo sismo que se registra en esta localidad** en esta semana, pues el martes 10 de diciembre hubo otro temblor en un epicentro cercano de la misma provincia.
-
-Usuarios en redes sociales comentaron que **no sintieron el sismo**. Tampoco fue perceptible en las provincias aledañas. Sin embargo, un usuario se mostró preocupado por la repetición de sismos.
-
-A pesar de que el sismo fue en el mar, **no existe riesgo de tsunami** en las costas debido a la poca magnitud y a que fue a bastante profundidad.
-
-> \[REVISADO\]  
-> Evento: igepn2024ylfj  
-> Ocurrido: 2024-12-13 11:04:03  
-> Mag.: 3.5MLv  
-> Prof.: 34.2 km  
-> Lat.: 2.587° S  
-> Long.: 80.845° W  
-> Localizado: a 39.85 km de La Libertad, Santa Elena  
-> Sintió este sismo? Repórtelo: [pic.twitter.com/HyRPsEOLIv](https://t.co/HyRPsEOLIv)
-> 
-> — Instituto Geofísico (@IGecuador) [December 13, 2024](https://twitter.com/IGecuador/status/1867604590679519628?ref_src=twsrc%5Etfw)
-
-Temblor en Santa Elena
-----------------------
-
-El martes 10 de diciembre, **un temblor se registró en Ecuador**. El sismo tuvo una magnitud de 4.2 en la escala de Richter y se registró a una profundidad de 10 kilómetros.
-
-El **movimiento telúrico** se ubicó a una latitud de 2.730° S y a una longitud de 80.953° W.
-
-Su epicentro se localizó a **55,47 kilómetros de La Libertad,** provincia de Santa Elena.
-
-Usuarios en redes sociales comentaron que **no sintieron el sismo**. Esto posiblemente porque el epicentro se ubicó [en el mar](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador").
-
-> \[REVISADO\]  
-> Evento: igepn2024ygac  
-> Ocurrido: 2024-12-10 14:43:58  
-> Mag.: 4.2MLv  
-> Prof.: 10.0 km  
-> Lat.: 2.730° S  
-> Long.: 80.953° W  
-> Localizado: a 55.47 km de La Libertad, Santa Elena  
-> Sintió este sismo? Repórtelo: [https://t.co/CQP0eSlvey](https://t.co/CQP0eSlvey) [pic.twitter.com/mKmoL5CVrP](https://t.co/mKmoL5CVrP)
-> 
-> — Instituto Geofísico (@IGecuador) [December 10, 2024](https://twitter.com/IGecuador/status/1866571743353262143?ref_src=twsrc%5Etfw)
-
-Enfermedades respiratorias en diciembre 2024: casos más frecuentes y alertas en Ecuador
-
-En Ecuador, entre noviembre y diciembre de 2024, hay un incremento de enfermedades respiratorias.
--------------------------------------------------------------------------------------------------
-
-![Las personas con síntomas respiratorios pueden acudir a los centros de salud.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-29.jpg)
-
-Las **enfermedades respiratorias** son parte de la recta final de 2024 en **Ecuado**r; hay **alertas** para diferenciarlas y actuar.
-
-El Ministerio de Salud informa que el covid está entre los cuadros que se presentan a escala nacional.
-
-### Más noticias
-
-* [Campaña de vacunación contra la influenza se desarrolla en Ecuador, ¿hasta cuándo?](https://www.elcomercio.com/actualidad/campana-vacunacion-influenza-desarrolla-ecuador-hasta-cuando.html "Campaña de vacunación contra la influenza se desarrolla en Ecuador, ¿hasta cuándo?")
-* [554 307 vacunas contra la influenza se aplicarán en Manabí y Santo Domingo de los Tsáchilas](https://www.elcomercio.com/actualidad/ecuador/dosis-vacunas-influenza-manabi-santo-domingo.html "554 307 vacunas contra la influenza se aplicarán en Manabí y Santo Domingo de los Tsáchilas")
-* [Influenza y otras enfermedades respiratorias están en auge en Ecuador](https://www.elcomercio.com/tendencias/salud/influenza-enfermedades-respiratorias-estan-en-auge-sintomas-ecuador.html "Influenza y otras enfermedades respiratorias están en auge en Ecuador")
-
-> Toma las siguientes recomendaciones para evitar contagiarte de influenza.😷  
-> Además, acude a nuestros establecimientos de salud 🏥para recibir la vacuna 💉y si presentas síntomas serás atendido por nuestros profesionales de la salud👨‍⚕️👩‍⚕️.[#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/uiyqVNFONu](https://t.co/uiyqVNFONu)
-> 
-> — Ministerio de Salud Pública 🇪🇨 (@Salud\_Ec) [December 13, 2024](https://twitter.com/Salud_Ec/status/1867555076090282452?ref_src=twsrc%5Etfw)
-
-Enfermedades respiratorias comunes este diciembre
--------------------------------------------------
-
-Durante el 2024 hasta la **semana epidemiológica 48**, el **Ministerio de Salud** reportó 13 808 casos de covid-19 a escala nacional. Pichincha es donde más cuadros se encontraron, con un 41,89%. Le siguen Guayas, Manabí y Azuay.
-
-En este 2024, la entidad registró **42 personas fallecidas** a causa del virus que causó una pandemia mundial en 2020.
-
-Infección respiratoria aguda grave
-----------------------------------
-
-En Ecuador, además, se han presentado casos de la denominada infección **respiratoria** aguda grave. En este 2024, suman **1 708 casos confirmados**.
-
-Al igual que con el covid-19, Pichincha está a la cabeza en número de personas con la dolencia. Aunque los casos se han mantenido a escala nacional, el **Ministerio de Salud** indicó, este 13 de diciembre, que en las dos últimas semanas se observó un decremento.
-
-Los virus que predominan
-------------------------
-
-En la mayoría de las provincias, el virus que prima es el **sincitial respiratorio (VSR)** con el 35,66%, seguido de SARS-CoV-2, con el 22,08%.
-
-En cambio, la Influenza B representa el 15,72%; el de la influenza AH3N2, 20,37%; influenza A H1N1 (2009), 5,2% y al final, la AH1N1 no subtipificable.
-
-Se reportan 58 fallecidos a nivel nacional por casos confirmados de infecciones respiratorias agudas graves hasta la semana epidemiológica 48.
-
-¿Cómo está la situación en Quito por afecciones respiratorias?
---------------------------------------------------------------
-
-Desde mediados de noviembre de 2024, en Quito se registra un aumento de casos de infecciones **respiratorias**.
-
-De acuerdo con el sistema de vigilancia epidemiológica, este incremento afecta, principalmente, a los grupos etarios de **1 a 4 años y de 5 a 9 años**. Predomina el virus de influenza A H3N2 y B.
-
-Sin embargo, la circulación del **SARS-CoV-2** ha disminuido y ahora se presenta de forma esporádica.
-
-¿Las infecciones respiratorias están al alza?
----------------------------------------------
-
-En la capital ecuatoriana, el incremento de casos es sobre todo de **gripes** de carácter leve. Estas requieren atención ambulatoria. Pero, sí hay un aumento de atenciones hospitalarias por neumonías.
-
-A pesar del incremento de pacientes con **afecciones respiratorias**, el sistema de salud no se ha saturado, tanto en primer nivel cuanto en hospitales. Así lo aseguró la Cartera de Estado.
-
-Las principales afectaciones
-----------------------------
-
-Para la temporada de lluvias, la presencia del virus de influenza es un hecho esperado. Principalmente, se están presentando cuadros leves caracterizados por tos, fiebre y dolor de garganta, más conocidos como gripe.
-
-Los niños menores de 5 años, los adultos mayores, las embarazadas y las personas con enfermedades crónicas están en mayor riesgo de complicaciones como neumonías.
-
-¿Cómo diferenciar los cuadros respiratorios?
---------------------------------------------
-
-El covid, la gripe, el resfriado común y el virus respiratorio sincitial comparten algunos síntomas similares.
-
-* **La gripe:** pueden incluir fiebre, escalofríos, dolor de cabeza, dolores corporales, tos seca, fatiga, congestión nasal y dolor de garganta. Aparecen entre el primer y cuarto día después de haber estado expuesto a una persona enferma.  
-    
-* **Covid:** fiebre, tos, fatiga, dolores musculares o corporales, congestión, dificultad para respirar, dolor de garganta, dolor de cabeza, estornudos, vómito, diarrea o pérdida del gusto/olfato.  
-    
-* **Resfriados:** fiebre, tos, fatiga, congestión nasal, dolor de garganta, estornudos y glándulas ligeramente inflamadas. Son infecciones de las vías respiratorias superiores que pueden ser causadas por muchos virus. Los niños sanos se resfrían entre 6 y 10 veces al año.
-
-Cómo prevenir contagios en reuniones navideñas
-----------------------------------------------
-
-Como parte de la prevención, las vacunas son una herramienta de cajón. En Ecuador, hasta febrero de 2025 estará en marcha la cruzada contra la influenza, en los centros de salud[.](https://es.wikipedia.org/wiki/Ecuador)
-
-* **Evitar** el contacto con personas enfermas, lavarse las manos con frecuencia y cubrirse tu boca al toser o estornudar
-* **Acudir** al centro de salud en caso de presentar fiebre mayor a 38 °C, tos o dolor de garganta intensos o en caso de identificar signos de alarma como dificultad al respirar, pérdida de la conciencia
-* **No automedicarse**
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres ecuatorianas que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito
-====================================================================
-
-Pablo 'Vitamina' Sánchez, DT de Liga de Quito, plasmará un recuerdo imborrable en su piel si logra ganar la Liga Pro 2024.
---------------------------------------------------------------------------------------------------------------------------
-
-![Pablo 'Vitamina' Sánchez, DT de Liga de Quito, en rueda de prensa.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T095658.242.jpg)
-
-**Liga de Quito** está por jugar la final de vuelta de la Liga Pro ante Independiente del Valle y hacerse con el título de la mano del DT Pablo ‘Vitamina’ Sánchez. El entrenador hizo una curiosa promesa en caso de ganar el campeonato nacional.
-
-Este sábado **14 de diciembre del 2024** se llevará a cabo el cotejo definitivo a las 15:30 con los albos como favoritos. En el partido de ida, el conjunto azucena sacó ventaja tras imponerse por un marcador de 3-0 en el Estadio Rodrigo Paz Delgado.
-
-### Más noticias:
-
-* [Éxito de ‘Vitamina’ Sánchez, DT de Liga, se traduce en premio de Liga Pro](https://www.elcomercio.com/deportes/exito-vitamina-sanchez-dt-liga-de-quito-traduce-premio-de-liga-pro.html "Éxito de ‘Vitamina’ Sánchez, DT de Liga, se traduce en premio de Liga Pro")
-* [Liga de Quito e IDV, dos estilos de juego para un solo campeón](https://www.elcomercio.com/deportes/futbol/liga-de-quito-e-idv-dos-estilos-de-juego-para-un-solo-campeon.html "Liga de Quito e IDV, dos estilos de juego para un solo campeón")
-* [Liga de Quito pone precios para ver la final de vuelta a distancia](https://www.elcomercio.com/deportes/precios-final-vuelta-liga-rodrigo-paz-estadio.html "Liga de Quito pone precios para ver la final de vuelta a distancia")
-
-Con aquel antecedente favorable, y con el ritmo ganador tras llegar a la final como **líderes de la segunda etapa**, los albos buscarán levantar su decimotercer trofeo liguero en la historia. En el caso de ‘Vitamina’, este sería su primer título como estratega en máxima división.
-
-A partir del momento trascendental que vive en su carrera, **Pablo Sánchez** experimenta días intensos y se ilusiona con el logro. En diálogo con la Radio Área Deportiva, este reveló lo que hará una vez que consiga la presea[.](https://en.wikipedia.org/wiki/L.D.U._Quito "https://en.wikipedia.org/wiki/L.D.U._Quito")
-
-Pablo ‘Vitamina’ Sánchez quiere dejar a Liga de Quito en la piel
-----------------------------------------------------------------
-
-Una de las primeras acciones que tiene pensadas realizar **Pablo ‘Vitamina’ Sánchez** si sale campeón es realizarse un tatuaje. De tal manera, el logró quedará plasmado para siempre en su piel y se juntará con otro que tiene un significado similar.
-
-“**Si todo sale bien y nos proclamamos campeones, es algo que llevaré en mi corazón. Si logro el título, algún tatuaje me voy a hacer para llevarlo de por vida en mi cuerpo, como me tatué cuando quedé campeón como jugador**“, señaló el estratega.
-
-Sánchez, además, destacó el momento que vive el grupo y el compromiso para lograr el objetivo. Asimismo, señaló que sus dirigidos han sabido imponerse ante las adversidades y respondido en los momentos importantes.
-
-El tatuaje previo de Pablo Sánchez
-----------------------------------
-
-Como mencionó **‘Vitamina’ Sánchez**, este ya contaba con un tatuaje previo que correspondía a su época de jugador y evocaba al momento en el que consiguió un título. Aquella presea la consiguió en 1995, cuando ganó la **Copa Conmebol** con Rosario Central.
-
-Cuando fue futbolista, aquel campeonato con el cuadro argentino fue el único que consiguió. Como entrenador, su presente con los albos es uno de los cúlmenes de su carrera. Antes, el único momento similar que vivió fue cuando logró el ascenso con **Universidad de Concepción**.
