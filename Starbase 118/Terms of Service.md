@@ -316,6 +316,16 @@ Read More
 Community News
 --------------
 
+[![](https://www.starbase118.net/wp-content/uploads/2024/12/Back-In-My-Day-768x513.jpg)](https://www.starbase118.net/2024/back-in-my-day-lt-commander-jansen-orrey-amity-outpost/)
+
+### [Back in My Day – Lt. Commander Jansen Orrey, Amity Outpost](https://www.starbase118.net/2024/back-in-my-day-lt-commander-jansen-orrey-amity-outpost/)
+
+srichardsciencenerd118 December 14, 2024
+
+Back in my day we had to walk 15 miles, in the snow, both ways… We’ve all heard stories like this at some point in
+
+[Read More »](https://www.starbase118.net/2024/back-in-my-day-lt-commander-jansen-orrey-amity-outpost/)
+
 [![](https://www.starbase118.net/wp-content/uploads/2015/02/starbase12-768x540.jpg)](https://www.starbase118.net/2024/devious-orion-syndicate-program-wreaks-havoc-on-starbase-118/)
 
 ### [Devious Orion Syndicate Program Wreaks Havoc on StarBase 118](https://www.starbase118.net/2024/devious-orion-syndicate-program-wreaks-havoc-on-starbase-118/)
@@ -335,16 +345,6 @@ docaharford December 10, 2024
 Join us for another in a series of interviews with winners of awards from our 2401 Awards Ceremony. Our goal is to give you insight
 
 [Read More »](https://www.starbase118.net/2024/award-winner-lt-madison-marsh-ops-luminary/)
-
-[![](https://www.starbase118.net/wp-content/uploads/2018/04/fleet-768x306.jpg)](https://www.starbase118.net/2024/november-2024-post-counts/)
-
-### [November 2024 Post Counts](https://www.starbase118.net/2024/november-2024-post-counts/)
-
-amackenzie December 8, 2024
-
-The month of November was defined by a journey of discovery and remarkable narrative skill within our Fleet. We saw a slight dip in our
-
-[Read More »](https://www.starbase118.net/2024/november-2024-post-counts/)
 
 Ready to get started?
 ---------------------
