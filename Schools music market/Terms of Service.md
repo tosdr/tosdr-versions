@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/black-history-month-music-quiz/)
+ [](https://schoolsmusicmarket.com/product/lets-learn-about-soul-music/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
