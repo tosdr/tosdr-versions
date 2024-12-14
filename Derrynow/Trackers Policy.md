@@ -264,13 +264,6 @@ Most Popular
 [PICTURES: Doireann Garrihy's husband Mark shares intimate snaps of wedding and honeymoon](https://www.derrynow.com/news/national-news/1679801/pictures-doireann-garrihy-s-husband-mark-shares-intimate-snaps-of-wedding-and-honeymoon.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1679367/derry-death-notices-friday-november-13-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, November 13, 2024](https://www.derrynow.com/news/deaths/1679367/derry-death-notices-friday-november-13-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: Ulster University Winter Graduations from Coleraine campus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Ulster University Winter Graduations from Coleraine campus")](https://www.derrynow.com/story-telling/pictures---videos/1680219/in-pictures-ulster-university-winter-graduations-from-coleraine-campus.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -303,15 +296,6 @@ Derry City Cemetery
 [Dancing with the Stars: Line-up almost complete with five celebs revealed on Late Late Show](https://www.derrynow.com/news/arts---entertainment/1680172/dancing-with-the-stars-line-up-almost-complete-with-five-celebs-revealed-on-late-late-show.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Donegal motorists caught driving on wrong side of dual carriageway while drunk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal motorists caught driving on wrong side of dual carriageway while drunk")](https://www.derrynow.com/news/local-news/1679847/donegal-motorists-caught-driving-on-wrong-side-of-dual-carriageway-while-drunk.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Donegal motorists caught driving on wrong side of dual carriageway while drunk](https://www.derrynow.com/news/local-news/1679847/donegal-motorists-caught-driving-on-wrong-side-of-dual-carriageway-while-drunk.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![James Meehan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "James Meehan")](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
 
 James Meehan
@@ -321,12 +305,30 @@ James Meehan
 [James Meehan: Convicted murder unlawfully at large as PSNI warns public not to approach](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Donegal motorists caught driving on wrong side of dual carriageway while drunk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal motorists caught driving on wrong side of dual carriageway while drunk")](https://www.derrynow.com/news/local-news/1679847/donegal-motorists-caught-driving-on-wrong-side-of-dual-carriageway-while-drunk.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Donegal motorists caught driving on wrong side of dual carriageway while drunk](https://www.derrynow.com/news/local-news/1679847/donegal-motorists-caught-driving-on-wrong-side-of-dual-carriageway-while-drunk.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry woman jailed for series of offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman jailed for series of offences")](https://www.derrynow.com/news/local-news/1680138/derry-woman-jailed-for-series-of-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Derry woman jailed for series of offences](https://www.derrynow.com/news/local-news/1680138/derry-woman-jailed-for-series-of-offences.html)
 --------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspected imitation firearm and quantity of suspected drugs seized in Derry INLA probe](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspected imitation firearm and quantity of suspected drugs seized in Derry INLA probe")](https://www.derrynow.com/news/local-news/1680358/suspected-imitation-firearm-and-quantity-of-suspected-drugs-seized-in-derry-inla-probe.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspected imitation firearm and quantity of suspected drugs seized in Derry INLA probe](https://www.derrynow.com/news/local-news/1680358/suspected-imitation-firearm-and-quantity-of-suspected-drugs-seized-in-derry-inla-probe.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man due to appear before court charged with possession of explosives](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man due to appear before court charged with possession of explosives")](https://www.derrynow.com/news/home/1680331/man-due-to-appear-before-court-charged-with-possession-of-explosives.html)
 
@@ -513,6 +515,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1680146/derry-death-notices-saturday-december-14-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, December 14, 2024](https://www.derrynow.com/news/deaths/1680146/derry-death-notices-saturday-december-14-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![James Meehan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "James Meehan")](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
 
 James Meehan
@@ -522,7 +531,7 @@ James Meehan
 [James Meehan: Convicted murder unlawfully at large as PSNI warns public not to approach](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Would you like to own a piece of regional history?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Would you like to own a piece of regional history?")](https://www.derrynow.com/news/home/1679733/would-you-like-to-own-a-piece-of-regional-history.html)
+[![Would you like to own a piece of regional history?](https://www.derrynow.com/resizer/165/93/true/2024_12_13/Co-founders_Brian_Ash_and_Jim_Nash-1734085121753.jpeg--.jpeg?1734085123713 "Would you like to own a piece of regional history?")](https://www.derrynow.com/news/home/1679733/would-you-like-to-own-a-piece-of-regional-history.html)
 
 Co-founders Brian Ash and Jim Nash.
 
@@ -553,15 +562,6 @@ PSNI
 
 [NW Transport Hub to host Christmas Food and Craft Market this weekend](https://www.derrynow.com/news/local-news/1680106/nw-transport-hub-to-host-christmas-food-and-craft-market-this-weekend.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man due to appear before court charged with possession of explosives](https://www.derrynow.com/resizer/165/93/true/2019/01/02084934/PSNI-logo.jpg--.jpg "Man due to appear before court charged with possession of explosives")](https://www.derrynow.com/news/home/1680331/man-due-to-appear-before-court-charged-with-possession-of-explosives.html)
-
-The man is charged with five offences.
-
-[Home](https://www.derrynow.com/)
-
-[Man due to appear before court charged with possession of explosives](https://www.derrynow.com/news/home/1680331/man-due-to-appear-before-court-charged-with-possession-of-explosives.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
