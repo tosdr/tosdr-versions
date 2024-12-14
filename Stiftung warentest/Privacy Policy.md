@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
-* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
+* [Gefälschte QR-Codes: Betrug am Park­schein­automat](https://www.test.de/Gefaelschte-QR-Codes-Betrug-am-Parkscheinautomat-6178561-0/ "Gefälschte QR-Codes - Betrug am Parkscheinautomat")
+* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
 * [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
+* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
-* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
+* [Gefälschte QR-Codes: Betrug am Park­schein­automat](https://www.test.de/Gefaelschte-QR-Codes-Betrug-am-Parkscheinautomat-6178561-0/ "Gefälschte QR-Codes - Betrug am Parkscheinautomat")
+* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
 * [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
+* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
-* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
+* [Gefälschte QR-Codes: Betrug am Park­schein­automat](https://www.test.de/Gefaelschte-QR-Codes-Betrug-am-Parkscheinautomat-6178561-0/ "Gefälschte QR-Codes - Betrug am Parkscheinautomat")
+* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
 * [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
+* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
-* [Ärger mit der Post­bank: Geld verschwunden, mieser Service – wie Post­bank-Kunden sich wehren können](https://www.test.de/Postbank-IT-Probleme-Kundenbeschwerden-6043637-0/ "Ärger mit der Postbank - Geld verschwunden, mieser Service – wie Postbank-Kunden sich wehren können")
-* [Vererben oder Vermachen: Vermächt­nis – so ähnlich wie Erbe, nur ganz anders](https://www.test.de/Vererben-oder-Vermachen-9-Fakten-zum-Vermaechtnis-5973967-0/ "Vererben oder Vermachen - Vermächtnis – so ähnlich wie Erbe, nur ganz anders")
+* [Gefälschte QR-Codes: Betrug am Park­schein­automat](https://www.test.de/Gefaelschte-QR-Codes-Betrug-am-Parkscheinautomat-6178561-0/ "Gefälschte QR-Codes - Betrug am Parkscheinautomat")
+* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
+* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
 * [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
-* [Fest­geld: Plutus Money täuscht Anleger](https://www.test.de/Festgeld-Plutus-Capital-taeuscht-Anleger-6062884-0/ "Festgeld - Plutus Money täuscht Anleger")
-* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
+* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
 
 Stiftung Warentest
 
