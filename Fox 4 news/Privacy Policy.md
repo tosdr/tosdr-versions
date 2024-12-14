@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Nancy Pelosi hospitalized in Luxembourg](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2022/12/32/18/PELOSI.jpg?ve=1&tl=1)
+ [![Amber Alert issued for abducted 7-year-old out of San Jacinto County](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/32/18/hazel-hodge.jpg?ve=1&tl=1)
 
- ![Nancy Pelosi hospitalized in Luxembourg](https://images.foxtv.com/images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2022/12/32/18/592/333/PELOSI.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nancy-pelosi-hospitalized-luxembourg)
+ ![Amber Alert issued for abducted 7-year-old out of San Jacinto County](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/32/18/592/333/hazel-hodge.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-issued-7-year-old-out-san-jacinto-county)
 
-### [Nancy Pelosi hospitalized in Luxembourg](https://www.fox4news.com/news/nancy-pelosi-hospitalized-luxembourg)
+### [Amber Alert issued for abducted 7-year-old out of San Jacinto County](https://www.fox4news.com/news/amber-alert-issued-7-year-old-out-san-jacinto-county)
 
- [![Amber Alert issued for missing brothers in East Texas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/amber-alert.jpg?ve=1&tl=1)
+ [![Randy Moss reveals cancer diagnosis; recovering from surgery](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/randy-moss1.jpg?ve=1&tl=1)
 
- ![Amber Alert issued for missing brothers in East Texas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/amber-alert.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-tyler-legend-sanford-kannon-oneal)
+ ![Randy Moss reveals cancer diagnosis; recovering from surgery](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/randy-moss1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/randy-moss-reveals-cancer-diagnosis-recovering-from-surgery)
 
-### [Amber Alert issued for missing brothers in East Texas](https://www.fox4news.com/news/amber-alert-tyler-legend-sanford-kannon-oneal)
+### [Randy Moss reveals cancer diagnosis; recovering from surgery](https://www.fox4news.com/news/randy-moss-reveals-cancer-diagnosis-recovering-from-surgery)
 
- [![Surf and Adventure Park coming to McKinney; 35-acre, $200M attraction](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/beach-2.jpeg?ve=1&tl=1)
+ [![Safety changes coming to Loop 12, 'the deadliest roadway in Dallas'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/vo-newsbrief-1-loop-12_00.00.00.52.jpg?ve=1&tl=1)
 
- ![Surf and Adventure Park coming to McKinney; 35-acre, $200M attraction](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/beach-2.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/surf-park-mckinney-cannon-beach)
+ ![Safety changes coming to Loop 12, 'the deadliest roadway in Dallas'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/vo-newsbrief-1-loop-12_00.00.00.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/loop-12-safety-changes)
 
-### [Surf and Adventure Park coming to McKinney; 35-acre, $200M attraction](https://www.fox4news.com/news/surf-park-mckinney-cannon-beach)
+### [Safety changes coming to Loop 12, 'the deadliest roadway in Dallas'](https://www.fox4news.com/news/loop-12-safety-changes)
 
- [![2 Mansfield officers hurt; suspect arrested following chase](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/mansfield-assault-chase-tvs-raw_mxf_00.14.20.14.jpg?ve=1&tl=1)
+ [![Father-son duo graduates from UT Arlington with master's degrees](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-dionne-uta-fall-commencement-father-son-530p_00.00.22.30.jpg?ve=1&tl=1)
 
- ![2 Mansfield officers hurt; suspect arrested following chase](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/mansfield-assault-chase-tvs-raw_mxf_00.14.20.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mansfield-police-assault-chase-diego-battle)
+ ![Father-son duo graduates from UT Arlington with master's degrees](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-dionne-uta-fall-commencement-father-son-530p_00.00.22.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/father-son-duo-graduates-from-ut-arlington-masters-degrees)
 
-### [2 Mansfield officers hurt; suspect arrested following chase](https://www.fox4news.com/news/mansfield-police-assault-chase-diego-battle)
+### [Father-son duo graduates from UT Arlington with master's degrees](https://www.fox4news.com/news/father-son-duo-graduates-from-ut-arlington-masters-degrees)
 
- [![YouTube TV raising monthly prices again. Here's what we know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/youtube-tv.jpg?ve=1&tl=1)
+ [![FBI says tip from San Francisco police helped identify UnitedHealth CEO shooting suspect](https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/12/32/18/luigi-mangione.jpg?ve=1&tl=1)
 
- ![YouTube TV raising monthly prices again. Here's what we know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/youtube-tv.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/youtube-tv-raising-monthly-prices-again)
+ ![FBI says tip from San Francisco police helped identify UnitedHealth CEO shooting suspect](https://images.foxtv.com/images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2024/12/32/18/592/333/luigi-mangione.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fbi-says-tip-from-san-francisco-police-helped-identify-unitedhealth-ceo-shooting-suspect)
 
-### [YouTube TV raising monthly prices again. Here's what we know](https://www.fox4news.com/news/youtube-tv-raising-monthly-prices-again)
+### [FBI says tip from San Francisco police helped identify UnitedHealth CEO shooting suspect](https://www.fox4news.com/news/fbi-says-tip-from-san-francisco-police-helped-identify-unitedhealth-ceo-shooting-suspect)
 
 ###### [News](https://www.fox4news.com/news)
 
