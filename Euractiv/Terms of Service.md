@@ -621,6 +621,8 @@ A ‘moratorium’ on job cuts: A workable solution to Europe’s industrial dec
 
 Centrist François Bayrou appointed French prime minister](https://www.euractiv.com/section/politics/news/centrist-francois-bayrou-appointed-french-prime-minister/)[13-12-2024
 
+Tech Pro Brief – CRA, GPSR in force, SMEs demand Eurostack, and TikTok Shop opens in Europe](https://www.euractiv.com/section/tech/news/tech-pro-brief-cra-gpsr-in-force-smes-demand-eurostack-and-tiktok-shop-opens-in-europe/)[13-12-2024
+
 Kazakhstan’s critical materials potential ripe for EU supply chain resilience](https://www.euractiv.com/section/economy-jobs/news/kazakhstans-critical-materials-potential-ripe-for-eu-supply-chain-resilience/)[13-12-2024
 
 EU interior ministers remain deadlocked on CSAM detection bill](https://www.euractiv.com/section/tech/news/eu-interior-ministers-remain-deadlocked-on-csam-detection-bill/)[13-12-2024
@@ -629,9 +631,7 @@ Italian court ok’s referendum on controversial autonomy law](https://www.eurac
 
 Full Schengen accession to boost Romania’s GDP by 2%](https://www.euractiv.com/section/politics/news/full-schengen-accession-to-boost-romanias-gdp-by-2/)[13-12-2024
 
-Slovakia’s striking doctors, opposition urge president to block ‘forced labour’ law](https://www.euractiv.com/section/politics/news/slovakias-striking-doctors-opposition-urge-president-to-block-forced-labour-law/)[13-12-2024
-
-Poland’s Morawiecki to replace Meloni as ECR head](https://www.euractiv.com/section/politics/news/polands-morawiecki-to-replace-meloni-as-ecr-head/)
+Slovakia’s striking doctors, opposition urge president to block ‘forced labour’ law](https://www.euractiv.com/section/politics/news/slovakias-striking-doctors-opposition-urge-president-to-block-forced-labour-law/)
 
 ###### Advertisement
 
