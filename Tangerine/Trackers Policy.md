@@ -3,7 +3,7 @@
 * [Personal](https://www.tangerine.ca/en/personal)
 * [Business](https://www.tangerine.ca/en/business)
 
-* [ABM Locator](https://tangerine.ca/app/#/locations?locale=en_CA)
+* ABM Locator
 * [Rates](https://www.tangerine.ca/en/rates)
 * [Help](https://www.tangerine.ca/en/help-centre)
 
@@ -202,7 +202,7 @@ Learn
 
 * [Rates](https://www.tangerine.ca/en/rates)
 
-* [ABM Locator](https://tangerine.ca/app/#/locations?locale=en_CA)
+* ABM Locator
 
 Feedback
 
@@ -312,7 +312,7 @@ Modifiez vos préférences de témoins à tout moment dans notre [**Centre de pr
 * [Help Centre](https://www.tangerine.ca/en/help-centre)
 * [Learning Centre](https://www.tangerine.ca/en/thejuice)
 * [Contact Us](https://www.tangerine.ca/en/help-centre/contact-us)
-* [ABM Locator](https://www.tangerine.ca/app/#/locations?locale=en_CA)
+* ABM Locator
 * [Rates](https://www.tangerine.ca/en/rates)
 
 **About Us**
