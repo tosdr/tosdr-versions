@@ -414,13 +414,13 @@ Top
     
     [The Real Locations of Shantaram](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
-* [![How to Rent a Motorcycle in Pakistan (with Prices)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9157-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
-    
-    [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
-    
 * [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
     [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
+    
+* [![How to Rent a Motorcycle in Pakistan (with Prices)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2023/08/img_9157-scaled.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
+    
+    [How to Rent a Motorcycle in Pakistan (with Prices)](https://blog.karlrock.com/how-to-rent-a-motorcycle-in-pakistan-with-prices/ "How to Rent a Motorcycle in Pakistan (with Prices)")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
