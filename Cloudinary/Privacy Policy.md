@@ -4,40 +4,44 @@
     
     Products
     
-    * ![Programmable Media Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="78" height="78"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
+    * ![Programmable Media Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)![Programmable Media Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
         
         [Programmable MediaAPIs to automate image and video lifecycles](https://cloudinary.com/products/programmable_media)
-    * ![Assets Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="37" height="37"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
+    * ![Assets Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)![Assets Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
         
         [AssetsDigital Asset Management](https://cloudinary.com/products/digital_asset_management)
-    * ![MediaFlows Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
+    * ![MediaFlows Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)![MediaFlows Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
         
         [MediaFlowsLow-code workflow automation for image & video](https://home.mediaflows.cloudinary.com/?utm_source=website&utm_medium=platform-nagivation)
     
     APIS
     
-    * ![Video API Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="72" height="66"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
+    * ![Video API Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)![Video API Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
         
         [Video APIAdd video to your website or app in minutes](https://cloudinary.com/video_api)
-    * ![Cloudinary AI Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="75" height="69"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
+    * ![Cloudinary AI Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)![Cloudinary AI Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
         
         [Cloudinary AIGenerative AI and Machine Learning to speed creativity](https://cloudinary.com/products/cloudinary_ai)
-    * ![Image API Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="72" height="66"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
+    * ![Image API Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)![Image API Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
         
         [Image APIChain image effects at a scale improving performance](https://cloudinary.com/image-api)
     
     BETA
     
-    * ![FinalTouch Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
+    * ![FinalTouch Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)![FinalTouch Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
         
         [FinalTouchCreate quality product photos with Gen-AI](https://final-tou.ch/)
-    * ![Dimensions Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
+    * ![Dimensions Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)![Dimensions Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
         
         [Dimensions3D models transformed into stunning creatives](https://www.welcome.dimensions.cloudinary.com/?utm_source=cloudinary&utm_medium=console&utm_campaign=product-page)
     * EXPLORE
         
-    * [Demos](https://cloudinary.com/demos)
-    * [Integrations](https://cloudinary.com/integrations)
+    * ![Demos Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)![Demos Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
+        
+        [Demos](https://cloudinary.com/demos)
+    * ![Integrations Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)![Integrations Icon](data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><rect width="100%" height="100%"><animate attributeName="fill" values="rgba(153,153,153,0.5);rgba(153,153,153,0.1);rgba(153,153,153,0.5)" dur="2s" repeatCount="indefinite" /></rect></svg>)
+        
+        [Integrations](https://cloudinary.com/integrations)
     
 * [Solutions](#)
     
