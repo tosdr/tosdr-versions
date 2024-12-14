@@ -131,68 +131,64 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[U.S. serviceman sentenced over sexual assault of underage girl in Okinawa](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439917.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.")](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Trilateral fighter project takes big step with joint venture deal](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439993.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.")](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[Ruling bloc proposes ¥1.23 million minimum threshold for taxable income](https://www.japantimes.co.jp/news/2024/12/13/japan/politics/ruling-bloc-taxable-income-proposal/ "Ruling bloc proposes ¥1.23 million minimum threshold for taxable income")
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+  [![Commuters in Tokyo in March 2023. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/440120.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Commuters in Tokyo in March 2023. ")](https://www.japantimes.co.jp/news/2024/12/13/japan/politics/ruling-bloc-taxable-income-proposal/ "Ruling bloc proposes ¥1.23 million minimum threshold for taxable income")
 
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+[The year that Shohei Ohtani achieved 'yokozuna' status … in the market](https://www.japantimes.co.jp/life/2024/12/13/lifestyle/2024-hit-products-japan/ "The year that Shohei Ohtani achieved 'yokozuna' status … in the market")
 
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![Shohei Ohtani's prowress on the diamond translated into an outsized influence on Japan's consumer trends this year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439307.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani's prowress on the diamond translated into an outsized influence on Japan's consumer trends this year.")](https://www.japantimes.co.jp/life/2024/12/13/lifestyle/2024-hit-products-japan/ "The year that Shohei Ohtani achieved 'yokozuna' status … in the market")
 
-[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+[Japan updates disaster shelter guidelines](https://www.japantimes.co.jp/news/2024/12/13/japan/shelter-guidelines-update/ "Japan updates disaster shelter guidelines")
 
-  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+  [![Evacuees from an area flooded by the Kinugawa river, in Joso, Ibaraki Prefecture, in 2015](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/440119.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Evacuees from an area flooded by the Kinugawa river, in Joso, Ibaraki Prefecture, in 2015")](https://www.japantimes.co.jp/news/2024/12/13/japan/shelter-guidelines-update/ "Japan updates disaster shelter guidelines")
 
 Editors' Picks
 --------------
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+[U.S. serviceman sentenced over sexual assault of underage girl in Okinawa](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
 
-By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
+By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
 
-  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
+  [![The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439917.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.")](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+[Trilateral fighter project takes big step with joint venture deal](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
 
-  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+  [![Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439993.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.")](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Ruling bloc proposes ¥1.23 million minimum threshold for taxable income](https://www.japantimes.co.jp/news/2024/12/13/japan/politics/ruling-bloc-taxable-income-proposal/ "Ruling bloc proposes ¥1.23 million minimum threshold for taxable income")
+
+  [![Commuters in Tokyo in March 2023. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/440120.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Commuters in Tokyo in March 2023. ")](https://www.japantimes.co.jp/news/2024/12/13/japan/politics/ruling-bloc-taxable-income-proposal/ "Ruling bloc proposes ¥1.23 million minimum threshold for taxable income")
 
 [LIFE](https://www.japantimes.co.jp/life/ "LIFE")
 
-[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+[The year that Shohei Ohtani achieved 'yokozuna' status … in the market](https://www.japantimes.co.jp/life/2024/12/13/lifestyle/2024-hit-products-japan/ "The year that Shohei Ohtani achieved 'yokozuna' status … in the market")
 
-By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
+By [Mark Schreiber](https://www.japantimes.co.jp/author/231/mark-schreiber/ "Mark Schreiber")  
 
-  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
-
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
-
-[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
-
-By F.D. Flam  
-
-  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+  [![Shohei Ohtani's prowress on the diamond translated into an outsized influence on Japan's consumer trends this year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439307.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani's prowress on the diamond translated into an outsized influence on Japan's consumer trends this year.")](https://www.japantimes.co.jp/life/2024/12/13/lifestyle/2024-hit-products-japan/ "The year that Shohei Ohtani achieved 'yokozuna' status … in the market")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+[Japan updates disaster shelter guidelines](https://www.japantimes.co.jp/news/2024/12/13/japan/shelter-guidelines-update/ "Japan updates disaster shelter guidelines")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+  [![Evacuees from an area flooded by the Kinugawa river, in Joso, Ibaraki Prefecture, in 2015](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/440119.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Evacuees from an area flooded by the Kinugawa river, in Joso, Ibaraki Prefecture, in 2015")](https://www.japantimes.co.jp/news/2024/12/13/japan/shelter-guidelines-update/ "Japan updates disaster shelter guidelines")
 
 Podcast
 -------
@@ -257,23 +253,21 @@ Latest News
 
 [Japan ready to team up with Trump over North Korea abduction issue](https://www.japantimes.co.jp/news/2024/12/14/japan/politics/north-korea-abductions-trump-cooperation/ "Japan ready to team up with Trump over North Korea abduction issue")
 
-2 hours ago
+8 hours ago
 
 [South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
 
-3 hours ago
+9 hours ago
 
 [Protesters in South Korea rejoice as lawmakers impeach Yoon](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/protesters-rejoice-yoon-impeachment/ "Protesters in South Korea rejoice as lawmakers impeach Yoon")
 
-4 hours ago
+10 hours ago
 
 [U.S. Marines begin to relocate from Okinawa to Guam](https://www.japantimes.co.jp/news/2024/12/14/japan/okinawa-marines-guam-relocation/ "U.S. Marines begin to relocate from Okinawa to Guam")
 
-4 hours ago
+10 hours ago
 
 [Tokyo police seek public's help on Setagaya family murder 24 years ago](https://www.japantimes.co.jp/news/2024/12/14/japan/crime-legal/setagaya-murder-police-information/ "Tokyo police seek public's help on Setagaya family murder 24 years ago")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
