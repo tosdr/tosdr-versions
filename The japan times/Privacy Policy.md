@@ -523,9 +523,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -567,23 +567,21 @@ Latest News
 
 [Japan ready to team up with Trump over North Korea abduction issue](https://www.japantimes.co.jp/news/2024/12/14/japan/politics/north-korea-abductions-trump-cooperation/ "Japan ready to team up with Trump over North Korea abduction issue")
 
-2 hours ago
+8 hours ago
 
 [South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
 
-3 hours ago
+9 hours ago
 
 [Protesters in South Korea rejoice as lawmakers impeach Yoon](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/protesters-rejoice-yoon-impeachment/ "Protesters in South Korea rejoice as lawmakers impeach Yoon")
 
-4 hours ago
+10 hours ago
 
 [U.S. Marines begin to relocate from Okinawa to Guam](https://www.japantimes.co.jp/news/2024/12/14/japan/okinawa-marines-guam-relocation/ "U.S. Marines begin to relocate from Okinawa to Guam")
 
-4 hours ago
+10 hours ago
 
 [Tokyo police seek public's help on Setagaya family murder 24 years ago](https://www.japantimes.co.jp/news/2024/12/14/japan/crime-legal/setagaya-murder-police-information/ "Tokyo police seek public's help on Setagaya family murder 24 years ago")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
