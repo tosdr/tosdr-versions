@@ -6,7 +6,7 @@
 
 Active Players
 
-1 , 0 7 5 , 7 0 2
+1 , 0 7 5 , 7 5 2
 
 * [Play](#)
     
@@ -147,7 +147,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1734188363) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1734210215) to resend activation email.
 
 OK
 
@@ -305,7 +305,7 @@ If you can't find the email, check your Spam folder
 
 ![verify your email](https://statics.pipeflare.io/assets/images/modals/email_verify.png)
 
-If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1734188363) to resend activation email.
+If you have not received an email [Please Click Here](https://pipeflare.io/auth/resend-activation-email?_t=1734210215) to resend activation email.
 
 OK
 
@@ -1159,7 +1159,7 @@ Coin Offers
 
 Only
 
-99
+98
 
 Left This Month
 
@@ -1170,7 +1170,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 200000
+x 205000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1188,7 +1188,7 @@ x 5
 
 Only
 
-99
+98
 
 Left This Month
 
@@ -1224,7 +1224,7 @@ Coin Offers
 
 Only
 
-99
+98
 
 Left This Month
 
@@ -1235,7 +1235,7 @@ sale
 
 ![1FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr1_2.png)
 
-x 200000
+x 205000
 
 ![2FLR](https://statics.pipeflare.io/assets/images/modals/gem-offers/flr2_2.png)
 
@@ -1253,7 +1253,7 @@ x 5
 
 Only
 
-99
+98
 
 Left This Month
 
