@@ -123,44 +123,44 @@ Advertisement
     Suicide
     
     Released in 2001, Suicide is a film directed by Eames Yates and explores the suicide of his own brother which occurred two years prior to this films release. Eames' brother Teddy was 40 when he shot h...](https://documentaryheaven.com/suicide/ "Suicide")
-* [![September Clues](/wp-content/thumbnails/1588-100x70.jpg?x53432)
+* [![Dispatches: The Killing Zone](/wp-content/thumbnails/481-100x70.png?x53432)
     
-    September Clues
+    Dispatches: The Killing Zone
     
-    This comprehensive analysis of the 9/11 broadcasts shows how the mainstream media actively participated in the 9/11 false-flag operation aimed at generating public support for illegal wars. This media...](https://documentaryheaven.com/september-clues/ "September Clues")
-* [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
+    While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
+* [![The Hour Of Our Time: The Legacy of William Cooper](/wp-content/thumbnails/1157-100x70.jpg?x53432)
     
-    Pedigree Dogs Exposed
+    The Hour Of Our Time: The Legacy of William Cooper
     
-    Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
+    Surrounding us in our day-to-day lives are mysteries, that to spend our days pondering would paralyze us from leading productive lives. So we turn away from these thoughts in order to seek out as trou...](https://documentaryheaven.com/the-hour-of-our-time-the-legacy-of-william-cooper/ "The Hour Of Our Time: The Legacy of William Cooper")
 
 ###### Throwback Documentaries
 
-* [![No End in Sight](/wp-content/thumbnails/1553-100x70.jpg?x53432)
+* [![Africa’s Cowboy Capitalists](/wp-content/thumbnails/7663-100x70.jpg?x53432)
     
-    No End in Sight
+    Africa’s Cowboy Capitalists
     
-    A staggering portrait of arrogance and incompetence, the documentary No End in Sight avoids the question of why the U.S. invaded Iraq in 2003, choosing instead to focus on the war's aftermath--and met](https://documentaryheaven.com/no-end-in-sight/ "No End in Sight")
-* [![The Hunt for Hitler’s Scientists](/wp-content/thumbnails/5813-100x70.jpg?x53432)
+    For maverick entrepreneur Ian Cox, Africa is the last frontier of free enterprise. The former small-time hustler has been busting his ass on the continent for years, selling and moving merchandise. In](https://documentaryheaven.com/africas-cowboy-capitalists/ "Africa’s Cowboy Capitalists")
+* [![The Rise and Fall of Nokia](/wp-content/thumbnails/14084-100x70.jpg?x53432)
     
-    The Hunt for Hitler’s Scientists
+    The Rise and Fall of Nokia
     
-    The British, American, and Russian governments were not content to sit idly by, waiting to be slammed by the advanced technology. Covert teams of commandos and agents were sent ahead of the front line](https://documentaryheaven.com/the-hunt-for-hitlers-scientists/ "The Hunt for Hitler’s Scientists")
-* [![The Devil Came On Horseback](/wp-content/thumbnails/5793-100x70.jpg?x53432)
+    Nokia is a Finnish multinational company, originally founded in 1865 as a pulp mill the company became famous for its rubber products. In the 1970's Nokia expanded its operations into mobile phones an](https://documentaryheaven.com/rise-fall-of-nokia/ "The Rise and Fall of Nokia")
+* [![The Memory Loss Tapes](/wp-content/thumbnails/6170-100x70.jpg?x53432)
     
-    The Devil Came On Horseback
+    The Memory Loss Tapes
     
-    The tragedy taking place in Darfur as seen through the eyes of an American witness and who has since returned to the US to take action to stop it.Using the photographs and first hand testimony of fo](https://documentaryheaven.com/the-devil-came-on-horseback/ "The Devil Came On Horseback")
-* [![Counterfeiting](/wp-content/thumbnails/8535-100x70.jpg?x53432)
+    While there is hope for the future as science gains momentum, millions of people are currently affected by the painful and deadly consequences of Alzheimer’s. This verité documentary profiles seven pe](https://documentaryheaven.com/the-memory-loss-tapes/ "The Memory Loss Tapes")
+* [![100 Years of Silence](/wp-content/thumbnails/6415-100x70.jpg?x53432)
     
-    Counterfeiting
+    100 Years of Silence
     
-    An investigation into a criminal industry that seems to be sweeping the world. It's a story about the brands we think we cant live without and demand going wild for their copies, especially as the qua](https://documentaryheaven.com/counterfeiting/ "Counterfeiting")
-* [![Rihanna: Road To Talk That Talk](/wp-content/thumbnails/7669-100x70.jpg?x53432)
+    One hundred years ago, the Herero people of Namibia were nearly exterminated by German colonial soldiers in what has become known as the first genocide of the 20th century.In the colonial pe](https://documentaryheaven.com/100-years-of-silence/ "100 Years of Silence")
+* [![Michael Collins](/wp-content/thumbnails/11435-100x70.png?x53432)
     
-    Rihanna: Road To Talk That Talk
+    Michael Collins
     
-    Rihanna takes us back back stage as she begins the journey into her latest album ‘Talk That Talk’. The video also takes us back stage on the last day of the LOUD Tour. Whilst visiting her native count](https://documentaryheaven.com/rihanna-road-to-talk-that-talk/ "Rihanna: Road To Talk That Talk")
+    This Easter marked the 100th anniversary of Ireland's 1916 Easter Rising. Michael Collins who was born in Clonakilty, Co. Cork on the 16th of October 1890 was a foot-soldier in this Rising and during](https://documentaryheaven.com/michael-collins/ "Michael Collins")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
