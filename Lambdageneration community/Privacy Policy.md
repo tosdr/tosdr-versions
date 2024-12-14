@@ -337,9 +337,10 @@ If you have any questions about this Privacy Policy, You can contact us by email
 
 [![LambdaGeneration](/_nuxt/img/logo-text.5e1ee43.png)](https://community.lambdageneration.com/)
 
-#### About
+#### INFO
 
 * [About](https://community.lambdageneration.com/about)
+* [Gamenights](https://gamenight.lambdageneration.com/)
 * [Changelog](https://community.lambdageneration.com/tagged/platformchangelog/new)
 
 #### Resources
@@ -348,13 +349,6 @@ If you have any questions about this Privacy Policy, You can contact us by email
 * [Terms](https://community.lambdageneration.com/terms)
 * [Privacy](https://community.lambdageneration.com/privacy)
 * [Contact](https://community.lambdageneration.com/contact)
-
-#### Play
-
-* [HLDM](http://hldm.lambdageneration.com/)
-* [HL2DM](http://hl2dm.lambdageneration.com/)
-* [Sven Co-op](http://sven.lambdageneration.com/)
-* [Garry's Mod](https://gmod.lambdageneration.com/)
 
 #### Misc
 
