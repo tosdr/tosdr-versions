@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 13, 2024**
+**December 14, 2024**
 
 * * *
 
@@ -229,6 +229,8 @@ this hour
 
 * * *
 
+* [Anglerfish's Fishing Rod: Unique Motor Control](https://www.sciencedaily.com/releases/2024/12/241212120224.htm)
+* [Critical Fertilizer Ingredient from Thin Air](https://www.sciencedaily.com/releases/2024/12/241213140619.htm)
 * [Heart of Jovian Moon's Volcanic Rage](https://www.sciencedaily.com/releases/2024/12/241213125505.htm)
 * [Planets Form Through Domino Effect](https://www.sciencedaily.com/releases/2024/12/241213125457.htm)
 * [Intense Gamma-Ray Outburst: Virgo Constellation](https://www.sciencedaily.com/releases/2024/12/241213140634.htm)
@@ -237,8 +239,6 @@ this hour
 * [Real-Time Insight On How New Species Form](https://www.sciencedaily.com/releases/2024/12/241212145810.htm)
 * [Air Pollution in India: Millions of Deaths](https://www.sciencedaily.com/releases/2024/12/241211190055.htm)
 * [Overfishing Has Halved Shark and Ray Populations](https://www.sciencedaily.com/releases/2024/12/241212190115.htm)
-* [Gene Transfer from Soil Bacteria to Humans](https://www.sciencedaily.com/releases/2024/12/241212150232.htm)
-* [Body-Heat Powered Wearable Devices](https://www.sciencedaily.com/releases/2024/12/241212145818.htm)
 
 Trending Topics
 ---------------
@@ -251,15 +251,15 @@ this week
 
 [Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
 
-[Language Acquisition](https://www.sciencedaily.com/news/mind_brain/language_acquisition/)
-
 [Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
+
+[Language Acquisition](https://www.sciencedaily.com/news/mind_brain/language_acquisition/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
-
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
 [Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
@@ -269,7 +269,7 @@ this week
 
 [Biodiversity](https://www.sciencedaily.com/news/earth_climate/biodiversity/)
 
-[Air Pollution](https://www.sciencedaily.com/news/earth_climate/air_pollution/)
+[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
   
 
