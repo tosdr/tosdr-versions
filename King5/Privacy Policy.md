@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e644cf07-e675-44ce-80da-5d67fbfe0924/20241214T015740/e644cf07-e675-44ce-80da-5d67fbfe0924_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e644cf07-e675-44ce-80da-5d67fbfe0924/20241214T015740/e644cf07-e675-44ce-80da-5d67fbfe0924_360x203.jpg)](https://www.king5.com/article/news/local/man-sentenced-just-over-5-years-in-prison-2015-long-beach-killing/281-f5861f81-c66a-4e08-bcd5-aa5c4efb5b79)
+    *  [![](https://media.king5.com/assets/KING/images/d970e0aa-7519-4fed-8df8-da09e782a18c/20241213T221148/d970e0aa-7519-4fed-8df8-da09e782a18c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d970e0aa-7519-4fed-8df8-da09e782a18c/20241213T221148/d970e0aa-7519-4fed-8df8-da09e782a18c_360x203.jpg)](https://www.king5.com/article/news/local/seattle/source-wisconsin-police-chief-top-candidate-seattle-police/281-031d5bc7-6fe5-45b1-a9fb-34430cd90046)
         
-        #### [Man sentenced to just over 5 years in prison for 2015 Long Beach killing](https://www.king5.com/article/news/local/man-sentenced-just-over-5-years-in-prison-2015-long-beach-killing/281-f5861f81-c66a-4e08-bcd5-aa5c4efb5b79) [![](https://media.king5.com/assets/KING/images/e644cf07-e675-44ce-80da-5d67fbfe0924/20241214T015740/e644cf07-e675-44ce-80da-5d67fbfe0924_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e644cf07-e675-44ce-80da-5d67fbfe0924/20241214T015740/e644cf07-e675-44ce-80da-5d67fbfe0924_360x203.jpg)](https://www.king5.com/article/news/local/man-sentenced-just-over-5-years-in-prison-2015-long-beach-killing/281-f5861f81-c66a-4e08-bcd5-aa5c4efb5b79)
+        #### [Source: Wisconsin police chief top candidate to head Seattle police](https://www.king5.com/article/news/local/seattle/source-wisconsin-police-chief-top-candidate-seattle-police/281-031d5bc7-6fe5-45b1-a9fb-34430cd90046)
         
-        #### [Manslaughter plea leads to maximum sentence of just over 5 years for man in 2015 Long Beach killing](https://www.king5.com/article/news/local/man-sentenced-just-over-5-years-in-prison-2015-long-beach-killing/281-f5861f81-c66a-4e08-bcd5-aa5c4efb5b79)
-    *  [![](https://media.king5.com/assets/KING/images/ed0bd12c-81db-4cd3-a9aa-0859bc6da845/20241120T011031/ed0bd12c-81db-4cd3-a9aa-0859bc6da845_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ed0bd12c-81db-4cd3-a9aa-0859bc6da845/20241120T011031/ed0bd12c-81db-4cd3-a9aa-0859bc6da845_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/gusty-winds-mountain-snow-coastal-flooding-western-washington/281-1316445b-691c-4796-93da-9054b5708fcc)
+    *  [![](https://media.king5.com/assets/KING/images/fe8eb00f-3f39-4715-b389-9e78f3c8edf0/20241214T021921/fe8eb00f-3f39-4715-b389-9e78f3c8edf0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fe8eb00f-3f39-4715-b389-9e78f3c8edf0/20241214T021921/fe8eb00f-3f39-4715-b389-9e78f3c8edf0_360x203.jpg)](https://www.king5.com/article/news/local/crash-blocks-all-lanes-sr-520-montlake-boulevard-seattle/281-34d7063e-0f91-450a-b735-9b32f5ef5430)
         
-        #### [Winter Weather and Coastal Flooding Advisories in effect for western Washington](https://www.king5.com/article/weather/weather-blog/gusty-winds-mountain-snow-coastal-flooding-western-washington/281-1316445b-691c-4796-93da-9054b5708fcc)
+        #### [2 people injured in multi-vehicle crash on SR 520 in Seattle](https://www.king5.com/article/news/local/crash-blocks-all-lanes-sr-520-montlake-boulevard-seattle/281-34d7063e-0f91-450a-b735-9b32f5ef5430)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -57,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d8929301-9d57-48f3-a106-097c43f94330/20241214T014922/d8929301-9d57-48f3-a106-097c43f94330_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d8929301-9d57-48f3-a106-097c43f94330/20241214T014922/d8929301-9d57-48f3-a106-097c43f94330_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/da6d2d6a-f22c-4567-abae-54cb0c319588/20241214T062759/da6d2d6a-f22c-4567-abae-54cb0c319588_16x9.jpg) ![](https://media.king5.com/assets/KING/images/da6d2d6a-f22c-4567-abae-54cb0c319588/20241214T062759/da6d2d6a-f22c-4567-abae-54cb0c319588_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -83,13 +82,13 @@ Navigation
     
     Latest Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/a58ac436-e3ec-4608-8ea8-e47010b09fd2/a58ac436-e3ec-4608-8ea8-e47010b09fd2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a58ac436-e3ec-4608-8ea8-e47010b09fd2/a58ac436-e3ec-4608-8ea8-e47010b09fd2_360x203.jpg)](https://www.king5.com/article/sports/former-wsu-football-coach-rolovich-university-of-california/281-872dfedb-489d-4312-abf6-c877b8b0ed69)
+        
+        #### [WSU coach fired for refusing to get COVID vaccine hired at Cal](https://www.king5.com/article/sports/former-wsu-football-coach-rolovich-university-of-california/281-872dfedb-489d-4312-abf6-c877b8b0ed69)
+        
     *  [![](https://media.king5.com/assets/KING/images/cf1a05cd-500c-4ea1-930e-d38a3b901fd4/20241213T165106/cf1a05cd-500c-4ea1-930e-d38a3b901fd4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf1a05cd-500c-4ea1-930e-d38a3b901fd4/20241213T165106/cf1a05cd-500c-4ea1-930e-d38a3b901fd4_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/how-to-watch-packers-seahawks/281-1dfa5b44-5f34-4733-9030-99b79f023c40)
         
         #### [Here's how to watch Seahawks vs. Packers on KING 5](https://www.king5.com/article/sports/nfl/seahawks/how-to-watch-packers-seahawks/281-1dfa5b44-5f34-4733-9030-99b79f023c40)
-        
-    *  [![](https://media.king5.com/assets/KING/images/d7682895-3031-4913-9253-ba94a1a893ab/20241210T175927/d7682895-3031-4913-9253-ba94a1a893ab_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d7682895-3031-4913-9253-ba94a1a893ab/20241210T175927/d7682895-3031-4913-9253-ba94a1a893ab_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/kraken-heroes-of-the-deep/281-4a020d9d-1427-4770-9968-42807986b47d)
-        
-        #### [How Kraken's Heroes of the Deep are chosen for each home game](https://www.king5.com/article/sports/nhl/kraken/kraken-heroes-of-the-deep/281-4a020d9d-1427-4770-9968-42807986b47d)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -108,7 +107,7 @@ Seattle, WA »
 
 44°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
