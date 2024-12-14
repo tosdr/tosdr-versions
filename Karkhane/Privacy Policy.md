@@ -37,24 +37,24 @@ Privacy Policy
 * [![کارگری می اندیشد](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![کارگری می اندیشد](https://karkhane.org/app/uploads/2024/05/Worker_b-95x65.jpg)](https://karkhane.org/5497/jedal_workers/)[چرا تلویزیون “جدال” سعی دارد “کارفروش” را به جای کارگر بنشاند؟](https://karkhane.org/5497/jedal_workers/)
-* [![تشکل‌های رسمی در قانون کار ایران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![کتابچه‌ی راهنمای قراردادِ کار و مزد 1400](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![تشکل‌های رسمی در قانون کار ایران](https://karkhane.org/app/uploads/2020/08/tasakkolhaye-rasmi-dar-qanun-e-kar-e-iran-95x65.jpg)](https://karkhane.org/2130/%d8%aa%d8%b4%da%a9%d9%84%d9%87%d8%a7%db%8c-%d8%b1%d8%b3%d9%85%db%8c-%d8%af%d8%b1-%d9%82%d8%a7%d9%86%d9%88%d9%86-%da%a9%d8%a7%d8%b1-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/)[تشکل‌های رسمی در قانون کار ایران، یک تحلیل کارگری](https://karkhane.org/2130/%d8%aa%d8%b4%da%a9%d9%84%d9%87%d8%a7%db%8c-%d8%b1%d8%b3%d9%85%db%8c-%d8%af%d8%b1-%d9%82%d8%a7%d9%86%d9%88%d9%86-%da%a9%d8%a7%d8%b1-%d8%a7%db%8c%d8%b1%d8%a7%d9%86/)
-* [![عدالت‌خواهانِ جوان (۱)؛ مشاورانِ اقتصاد مقاومتی و مبلغانِ تولید](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![کتابچه‌ی راهنمای قراردادِ کار و مزد 1400](https://karkhane.org/app/uploads/2021/06/ketabce-rahnama-e-qarardad-e-kar-o-mozd-1400-95x65.jpg)](https://karkhane.org/2865/%da%a9%d8%aa%d8%a7%d8%a8%da%86%d9%87-%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d9%82%d8%b1%d8%a7%d8%b1%d8%af%d8%a7%d8%af-%da%a9%d8%a7%d8%b1-%d9%88-%d9%85%d8%b2%d8%af-1400/)[کتابچه‌ی راهنمای قرارداد کار و مزد ۱۴۰۰](https://karkhane.org/2865/%da%a9%d8%aa%d8%a7%d8%a8%da%86%d9%87-%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d9%82%d8%b1%d8%a7%d8%b1%d8%af%d8%a7%d8%af-%da%a9%d8%a7%d8%b1-%d9%88-%d9%85%d8%b2%d8%af-1400/)
+* [![پهلوی کدام جواهرات را به یغما برد؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![عدالت‌خواهانِ جوان (۱)؛ مشاورانِ اقتصاد مقاومتی و مبلغانِ تولید](https://karkhane.org/app/uploads/2023/04/edalatxahan-e-javan-1-95x65.jpg)](https://karkhane.org/4909/edalatxahan-e-javan-1/)[عدالت‌خواهان جوان (۱)؛ مشاورانِ اقتصاد مقاومتی و مبلغانِ تولید](https://karkhane.org/4909/edalatxahan-e-javan-1/)
-* [![مسکن: نیاز ما، سود آن‌ها](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![مسکن: نیاز ما، سود آن‌ها](https://karkhane.org/app/uploads/2020/08/maskan-nyaz-e-ma-sud-e-anha-95x65.jpg)](https://karkhane.org/2136/%d9%85%d8%b3%da%a9%d9%86-%d9%86%db%8c%d8%a7%d8%b2-%d9%85%d8%a7%d8%8c-%d8%b3%d9%88%d8%af-%d8%a2%d9%86%d9%87%d8%a7/)[مسکن: نیاز ما، سود آن‌ها](https://karkhane.org/2136/%d9%85%d8%b3%da%a9%d9%86-%d9%86%db%8c%d8%a7%d8%b2-%d9%85%d8%a7%d8%8c-%d8%b3%d9%88%d8%af-%d8%a2%d9%86%d9%87%d8%a7/)
-* [![inflation and capitalism](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![inflation and capitalism](https://karkhane.org/app/uploads/2024/02/Capit-95x65.jpeg)](https://karkhane.org/5376/nirooyekar-dastmozad/)[نیروی کار، ‌دستمزد و تورم](https://karkhane.org/5376/nirooyekar-dastmozad/)
+    ![پهلوی کدام جواهرات را به یغما برد؟](https://karkhane.org/app/uploads/2023/02/pahlavi-che-javaherati-be-yaqma-bord-95x65.jpg)](https://karkhane.org/4805/pahlavi-plundered-jewelry/)[پهلوی کدام جواهرات را به یغما برد؟](https://karkhane.org/4805/pahlavi-plundered-jewelry/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://karkhane.org/app/uploads/2024/11/SizeOfArt_DailyDose_153a-95x65.jpg)](https://karkhane.org/6105/workers_hands/)[دست‌های کارگران](https://karkhane.org/6105/workers_hands/)
-* [![آموزش اقتصاد برای کارگران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![](https://karkhane.org/app/uploads/2024/06/noon_xordan-95x65.jpg)](https://karkhane.org/5566/%d9%85%d8%a7-%d8%b1%d9%88-%d8%a7%d8%b2-%d9%86%d9%88%d9%86-%d8%ae%d9%88%d8%b1%d8%af%d9%86-%d9%86%d9%86%d8%af%d8%a7%d8%b2/)[ما رو از نون خوردن ننداز](https://karkhane.org/5566/%d9%85%d8%a7-%d8%b1%d9%88-%d8%a7%d8%b2-%d9%86%d9%88%d9%86-%d8%ae%d9%88%d8%b1%d8%af%d9%86-%d9%86%d9%86%d8%af%d8%a7%d8%b2/)
+* [![فیلم کودک و استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![آموزش اقتصاد برای کارگران](https://karkhane.org/app/uploads/2021/11/amuzesh-e-eqtesad-bara-ye-kargaran-95x65.jpg)](https://karkhane.org/3235/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d8%ae%d8%b4-%db%8c%da%a9-%d9%85%d8%b2%d8%af/)[آموزش اقتصاد برای کارگران، بخش یک: «مزد چیست؟»](https://karkhane.org/3235/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%a8%d8%ae%d8%b4-%db%8c%da%a9-%d9%85%d8%b2%d8%af/)
+    ![فیلم کودک و استثمار](https://karkhane.org/app/uploads/2020/06/kudak-o-estesmār-featured-95x65.jpg)](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)[کودکان کارگر: یادداشتی بر فیلم «کودک و استثمار»](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)
+* [![سرِزمین: گزارشی از وضعیت زنان کشاورز افغانستانی حاشیه‌ی تهران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![سرِزمین: گزارشی از وضعیت زنان کشاورز افغانستانی حاشیه‌ی تهران](https://karkhane.org/app/uploads/2021/07/sar-e-zamin-gozareshi-az-zanan-e-keshavarz-e-mohajer-1-95x65.jpg)](https://karkhane.org/2921/%d8%b3%d8%b1%d8%b2%d9%85%db%8c%d9%86-%da%af%d8%b2%d8%a7%d8%b1%d8%b4-%d8%b2%d9%86%d8%a7%d9%86-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2-%d9%85%d9%87%d8%a7%d8%ac%d8%b1/)[سرِزمین: گزارشی از وضعیت زنان کشاورز افغانستانی حاشیه‌ی تهران](https://karkhane.org/2921/%d8%b3%d8%b1%d8%b2%d9%85%db%8c%d9%86-%da%af%d8%b2%d8%a7%d8%b1%d8%b4-%d8%b2%d9%86%d8%a7%d9%86-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2-%d9%85%d9%87%d8%a7%d8%ac%d8%b1/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![](https://karkhane.org/app/uploads/2024/10/1-95x65.jpg)](https://karkhane.org/5958/is_there_an_accident/)[حادثه‌ای در کار است یا نه؟!](https://karkhane.org/5958/is_there_an_accident/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
