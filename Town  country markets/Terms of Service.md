@@ -189,5 +189,3 @@ Town & Country Markets may amend this Agreement at any time by posting the amend
 |
 
 #### Copyright 2024
-
-![](https://www.facebook.com/tr?id=842297769727515&ev=PageView&noscript=1)
