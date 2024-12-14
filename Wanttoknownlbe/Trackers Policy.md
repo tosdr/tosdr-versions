@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/ziele-communicatie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/de-bizarre-handel-en-wandel-van-big-pharma/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
