@@ -84,6 +84,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[South Korea's parliament votes to impeach President Yoon over martial law declaration](https://nypost.com/2024/12/14/world-news/south-koreas-parliament-impeached-president-yoon-suk-yeol-over-martial-law-declaration/)
+
 Privacy Notice Highlights
 =========================
 
