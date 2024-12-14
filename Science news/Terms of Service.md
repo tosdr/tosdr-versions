@@ -94,19 +94,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [These discoveries in 2024 could be groundbreaking — if they’re true](https://www.sciencenews.org/article/2024-science-discoveries-could-be-true)
             
-            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")19 hours ago
+            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")December 13, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Cancer screening and quitting smoking have saved nearly 6 million lives](https://www.sciencenews.org/article/cancer-screening-save-6-million-lives)
             
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")21 hours ago
+            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")December 13, 2024
             
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
             ### [Humans have linked emotions to the same body parts for 3,000 years](https://www.sciencenews.org/article/link-emotions-body-parts-3000-years)
             
-            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")23 hours ago
+            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")December 13, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -124,7 +124,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Humans have linked emotions to the same body parts for 3,000 years](https://www.sciencenews.org/article/link-emotions-body-parts-3000-years)
             
-            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")23 hours ago
+            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")December 13, 2024
             
         * [Life](https://www.sciencenews.org/topic/life)
             
@@ -203,7 +203,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [These discoveries in 2024 could be groundbreaking — if they’re true](https://www.sciencenews.org/article/2024-science-discoveries-could-be-true)
             
-            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")19 hours ago
+            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")December 13, 2024
             
         * [Space](https://www.sciencenews.org/topic/space)
             
