@@ -14,9 +14,7 @@ Toggle Light / Dark / Auto color theme
 
 Toggle table of contents sidebar
 
-[![Logo](../_static/logo-128.png)
-
-Weblate 5.9 documentation](https://docs.weblate.org/en/latest/index.html)
+[![Logo](../_static/logo-text.svg)](https://docs.weblate.org/en/latest/index.html)
 
   
 
@@ -193,6 +191,11 @@ Change history
 * [Weblate 2.x series](https://docs.weblate.org/en/latest/changes/v2.html)
 * [Weblate 1.x series](https://docs.weblate.org/en/latest/changes/v1.html)
 * [Weblate 0.x series](https://docs.weblate.org/en/latest/changes/v0.html)
+
+Indices and tables
+
+* [Index](https://docs.weblate.org/en/latest/genindex.html)
+* [Module Index](https://docs.weblate.org/en/latest/py-modindex.html)
 
 [Back to top](#)
 
