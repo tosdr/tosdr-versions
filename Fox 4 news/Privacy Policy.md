@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Dallas weather: Warm weekend for December](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gewzxvgxmaawgcd.jpg?ve=1&tl=1)
+
+ ![Dallas weather: Warm weekend for December](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gewzxvgxmaawgcd.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-weekend-forecast-december-14)
+
+### [Warm weekend for December in DFW](https://www.fox4news.com/weather/dallas-weather-weekend-forecast-december-14)
+
+ [![No drone found after NJ residents report crash: Live updates](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/wipevo-drone-crash__569987db_a6fd_4ff0_a234_15debe_00.00.00.58.jpg?ve=1&tl=1)
+
+ ![No drone found after NJ residents report crash: Live updates](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/wipevo-drone-crash__569987db_a6fd_4ff0_a234_15debe_00.00.00.58.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nj-drones-over-new-jersey)
+
+### [No drone found after NJ residents report crash: Live updates](https://www.fox4news.com/news/nj-drones-over-new-jersey)
+
  [![Widow of slain Lewisville pawn shop owner finds closure after murder conviction](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-peyton-lewisville-pawn-shop-owner-murdered-9p_00.00.06.58.png?ve=1&tl=1)
 
  ![Widow of slain Lewisville pawn shop owner finds closure after murder conviction](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-peyton-lewisville-pawn-shop-owner-murdered-9p_00.00.06.58.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/widow-slain-lewisville-pawn-shop-owner)
 
 ### [Widow of slain Lewisville pawn shop owner finds closure after murder conviction](https://www.fox4news.com/news/widow-slain-lewisville-pawn-shop-owner)
 
+ [![Mangione Manhunt: From Midtown to Altoona | Documentary now streaming](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/thumbnail_mangione-manhunt_00160.jpg?ve=1&tl=1)
+
+ ![Mangione Manhunt: From Midtown to Altoona | Documentary now streaming](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/thumbnail_mangione-manhunt_00160.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trailer-mangione-manhunt-ceo-killer-documentary)
+
+### [Mangione Manhunt: From Midtown to Altoona | Documentary now streaming](https://www.fox4news.com/news/trailer-mangione-manhunt-ceo-killer-documentary)
+
  [![White Settlement kidnapping suspect arrested after wild police chase ends in crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/white-settlement-police-chase.jpg?ve=1&tl=1)
 
  ![White Settlement kidnapping suspect arrested after wild police chase ends in crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/white-settlement-police-chase.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/white-settlement-kidnapping-chase-crash-reginald-jameson)
 
 ### [White Settlement kidnapping suspect arrested after wild police chase ends in crash](https://www.fox4news.com/news/white-settlement-kidnapping-chase-crash-reginald-jameson)
-
- [![Taylor Swift makes surprise visit to KC children’s hospital: 'She was amazing'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2166943469.jpg?ve=1&tl=1)
-
- ![Taylor Swift makes surprise visit to KC children’s hospital: 'She was amazing'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2166943469.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/taylor-swift-kc-childrens-hospital)
-
-### [Taylor Swift makes surprise visit to KC children’s hospital: 'She was amazing'](https://www.fox4news.com/news/taylor-swift-kc-childrens-hospital)
-
- [![Knife-wielding man who 'wanted to harm police' shot and killed by DeSoto police officer](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-desoto-hunters-creek-ois-9p_00.00.00.00.jpg?ve=1&tl=1)
-
- ![Knife-wielding man who 'wanted to harm police' shot and killed by DeSoto police officer](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-desoto-hunters-creek-ois-9p_00.00.00.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/knife-wielding-man-who-wanted-harm-police-shot-killed-desoto-police-officer)
-
-### [Knife-wielding man who 'wanted to harm police' shot and killed by DeSoto police officer](https://www.fox4news.com/news/knife-wielding-man-who-wanted-harm-police-shot-killed-desoto-police-officer)
-
- [![TikTok denied request to halt potential US ban](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/tiktok1.jpg?ve=1&tl=1)
-
- ![TikTok denied request to halt potential US ban](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/tiktok1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tiktok-denied-request-halt-potential-us-ban)
-
-### [TikTok denied request to halt potential US ban](https://www.fox4news.com/news/tiktok-denied-request-halt-potential-us-ban)
 
 ###### [News](https://www.fox4news.com/news)
 
