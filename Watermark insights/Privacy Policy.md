@@ -53,9 +53,10 @@
         * [eBooks & guides](https://www.watermarkinsights.com/resources/ebooks-guides/)
         * [Reports](https://www.watermarkinsights.com/resources/reports/)
         * [Videos](https://www.watermarkinsights.com/resources/videos/)
-    * * ### Watermark Demo Week: Dec 10-12
+    * * ### Watermark  
+            Demo Week 2024
             
-            [Register now](https://event.on24.com/wcc/r/4778730/8F65A6CA0DF8F6763C63BEDFBF342BF4/5828487 "Read now")
+            [Watch on demand](https://event.on24.com/wcc/r/4778730/8F65A6CA0DF8F6763C63BEDFBF342BF4/5828487 "Read now")
             
             ![](https://www.watermarkinsights.com/wp-content/uploads/2024/11/Demo-Week-Nav-Ad.png)
             
@@ -140,9 +141,10 @@
         * [eBooks & guides](https://www.watermarkinsights.com/resources/ebooks-guides/)
         * [Reports](https://www.watermarkinsights.com/resources/reports/)
         * [Videos](https://www.watermarkinsights.com/resources/videos/)
-    * * ### Watermark Demo Week: Dec 10-12
+    * * ### Watermark  
+            Demo Week 2024
             
-            [Register now](https://event.on24.com/wcc/r/4778730/8F65A6CA0DF8F6763C63BEDFBF342BF4/5828487 "Read now")
+            [Watch on demand](https://event.on24.com/wcc/r/4778730/8F65A6CA0DF8F6763C63BEDFBF342BF4/5828487 "Read now")
             
             ![](https://www.watermarkinsights.com/wp-content/uploads/2024/11/Demo-Week-Nav-Ad.png)
             
