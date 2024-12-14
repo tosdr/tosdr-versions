@@ -17,8 +17,11 @@ Menu
 * [Lab Data Recovery](https://rossmanngroup.com/hard-drive-data-recovery-service/)
     
     * [![](http://rossmanngroup.com/wp-content/uploads/2022/07/hard-disk-1.png)Hard Drive Data Recovery](https://rossmanngroup.com/hard-drive-data-recovery-service/)
+    * [WD Passport Encrypted Hard Drive Data Recovery](https://rossmanngroup.com/wd-passport-encrypted-hard-drive-data-recovery-in-austin/)
+    * [Apple Fusion Drive Data Recovery](https://rossmanngroup.com/apple-fusion-drive-data-recovery-service-in-austin/)
     * [![](http://rossmanngroup.com/wp-content/uploads/2022/07/smartphone.png)iPhone Data Recovery](https://rossmanngroup.com/iphone-data-recovery/)
     * [![](http://rossmanngroup.com/wp-content/uploads/2022/07/smartphone-1.png)Samsung Galaxy data recovery](https://rossmanngroup.com/samsung-galaxy-android-phone-data-recovery/)
+    * [Intel Optane SSD Data Recovery](https://rossmanngroup.com/intel-optane-ssd-data-recovery-austin/)
     
 * [About Us](https://rossmanngroup.com/about-us/)
     
