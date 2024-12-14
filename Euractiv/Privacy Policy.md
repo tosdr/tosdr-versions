@@ -498,6 +498,7 @@ EU interior ministers remain deadlocked on CSAM detection bill](https://www.eura
 * [Energy, Environment & Transport Pro Brief](https://www.euractiv.com/euractiv-pro)
 * [Health Pro Brief](https://www.euractiv.com/euractiv-pro)
 * [Technology Pro Brief](https://www.euractiv.com/euractiv-pro)
+* [Advocacy Lab Spotlight](https://www.euractiv.com/advocacy-lab-spotlight)
 * [Jobletter](https://www.euractiv.com/newsletters)
 * [Browse all newsletters](https://www.euractiv.com/newsletters)
 
