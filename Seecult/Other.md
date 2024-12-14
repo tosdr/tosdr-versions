@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/mrd-bajic/fabrika/factory/fabrika-reset-bijenale-venecija-001.jpg?itok=2OtWCHuj)](http://seecult.org/galerija/galerija-umetnika/mrdan-bajic/fabrika-factory)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/perspektive-art-klinike/perspektive-9/perspektive-10.jpg?itok=wM6domPF)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/perspektive-art-klinike/perspektive-9)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kazinorojal.jpg?itok=2z_A-KgX)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kazanova.jpg?itok=TNsyumom)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
