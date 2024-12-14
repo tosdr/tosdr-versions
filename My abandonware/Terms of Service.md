@@ -118,9 +118,9 @@ Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/mya
 
 Screenshots needed
 
-* [The Sims 2: Family Fun Stuff](https://www.myabandonware.com/game/the-sims-2-family-fun-stuff-e44)
-* [Ultimate Writing & Creativity Center](https://www.myabandonware.com/game/ultimate-writing-creativity-center-m7j)
-* [NeoGeo Battle Coliseum](https://www.myabandonware.com/game/neogeo-battle-coliseum-sou)
+* [Actionliga Hockey](https://www.myabandonware.com/game/actionliga-hockey-q62)
+* [TNT](https://www.myabandonware.com/game/tnt-k29)
+* [Pumuckl Memo 2](https://www.myabandonware.com/game/pumuckl-memo-2-hj9)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
