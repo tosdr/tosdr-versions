@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,14 +148,13 @@
 
 Сейчас читают
 
-* [Открытый слоёный пирог с фетой и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=173732)
 * [Мещерская окрошка](https://www.russianfood.com/recipes/recipe.php?rid=3683)
-* [Бутерброды со свеклой](https://www.russianfood.com/recipes/recipe.php?rid=5523)
 * [«Конфетти»](https://www.russianfood.com/recipes/recipe.php?rid=11167)
-* [Бутерброды с маринованным огурцом](https://www.russianfood.com/recipes/recipe.php?rid=13116)
-* [Калду вэрде](https://www.russianfood.com/recipes/recipe.php?rid=13834)
-* [Салат «Пампас»](https://www.russianfood.com/recipes/recipe.php?rid=13841)
-* [Простая фейжоада из черной фасоли](https://www.russianfood.com/recipes/recipe.php?rid=13909)
+* [Клецки со шпиком](https://www.russianfood.com/recipes/recipe.php?rid=14662)
+* [Сосиски со стручковым перцем](https://www.russianfood.com/recipes/recipe.php?rid=16351)
+* [Сандвичи для гурманов](https://www.russianfood.com/recipes/recipe.php?rid=16381)
+* [Большая котлета с сосисками](https://www.russianfood.com/recipes/recipe.php?rid=16513)
+* [Котлета «тетя рина»](https://www.russianfood.com/recipes/recipe.php?rid=16526)
 
 |     |
 | --- |
@@ -177,6 +176,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Готовимся к вкусному!) Лучшие рецепты на Новый год (104)](https://www.russianfood.com/reading/?post_id=22990) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/708/sm_707680.jpg)](https://www.russianfood.com/reading/?post_id=22990)
+
+Рулет из скумбрии с черносливом. Грибы с крабовыми палочками. Куриные рулетики с фетой. Шоколадно-молочное желе с миндалём. Котлеты из брокколи с яйцами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22990)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22990#comments) | 14.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -374,20 +387,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_6 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175076#comments) | 12.12.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Закусочный пирог из лаваша, с сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174942) |     |
-
-[![Фото к рецепту: Закусочный пирог из лаваша, с сыром и зелёным горошком](//img1.russianfood.com/dycontent/images_upl/759/sm_758882.jpg "Фото к рецепту: Закусочный пирог из лаваша, с сыром и зелёным горошком")](https://www.russianfood.com/recipes/recipe.php?rid=174942)
-
-Лаваш позволяет приготовить такой закусочный пирог без замешивания теста. Молоко смешивается с яйцами, а затем к этой смеси добавляются зелёный горошек, два вида сыра - твёрдый и брынза, а также рваный на кусочки лаваш. Сверху пирог посыпается чёрным кунжутом. Вкусно и просто.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174942)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174942#comments) | 12.12.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -477,4 +476,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(101)
+(118)
