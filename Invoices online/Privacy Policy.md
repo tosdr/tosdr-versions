@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Anri van der Linde
+Henry Venter
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=107504592)  
-Fox Alarms & Security
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=0dba2bcba4b1cb5e125eafb6281191f60def2ae5e791845f087b38a123072d40&c=108662993)  
+Vplay Grafix
 
-![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=171453967)  
-Safe Train Mokgethwa (PTY) Ltd
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=0dba2bcba4b1cb5e125eafb6281191f60def2ae5e791845f087b38a123072d40&c=92798522)  
+Sarabi
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=151858673)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=0dba2bcba4b1cb5e125eafb6281191f60def2ae5e791845f087b38a123072d40&c=107722898)  
+Leef in Afrikaans
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=122168316)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=0dba2bcba4b1cb5e125eafb6281191f60def2ae5e791845f087b38a123072d40&c=60740422)  
+Fox Alarms & Security CC
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=137781627)  
-Salvage Genie
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=0dba2bcba4b1cb5e125eafb6281191f60def2ae5e791845f087b38a123072d40&c=205730571)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=57293137)  
-Karino Merinos ( PTY ) LTD
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=0dba2bcba4b1cb5e125eafb6281191f60def2ae5e791845f087b38a123072d40&c=177934887)  
+Redlum Group (Pty) Ltd
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=99283925)  
-Wiselink Broadband Vryheid
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=0dba2bcba4b1cb5e125eafb6281191f60def2ae5e791845f087b38a123072d40&c=36794569)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=98427396)  
-ELLIE'S CLEANING CHICKS
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=0dba2bcba4b1cb5e125eafb6281191f60def2ae5e791845f087b38a123072d40&c=76239810)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=173709463)  
-Dombieterfontein (PTY) LTD
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=0dba2bcba4b1cb5e125eafb6281191f60def2ae5e791845f087b38a123072d40&c=150315366)  
+Meyer Towing & Recovery
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=12179587)  
-Lemba Truck Stop
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=0dba2bcba4b1cb5e125eafb6281191f60def2ae5e791845f087b38a123072d40&c=177781787)  
+AMS Ambu Medical Supplies
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=50613774)  
-SLOANE STAR MEAT MARKET
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=0dba2bcba4b1cb5e125eafb6281191f60def2ae5e791845f087b38a123072d40&c=126141049)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=2634904)  
-OXYAIDER (PTY) LTD
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=0dba2bcba4b1cb5e125eafb6281191f60def2ae5e791845f087b38a123072d40&c=156307480)  
+Kainos (Pty) Ltd
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=33001083)  
-PROGRAPHIX PTY LTD
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=0dba2bcba4b1cb5e125eafb6281191f60def2ae5e791845f087b38a123072d40&c=3243671)  
+IEMS (PTY) ltd
 
-![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=58805729)  
-Protech Marketing
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=0dba2bcba4b1cb5e125eafb6281191f60def2ae5e791845f087b38a123072d40&c=98270538)  
+CLEVER STUDENTS
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=61dcca6d219222381751f9e5a6264ada1c994866b28cbb9e6d69d0c4e8b2b5f4&c=30046667)  
-Lily Fern & Co
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=0dba2bcba4b1cb5e125eafb6281191f60def2ae5e791845f087b38a123072d40&c=30919220)  
+Tiny Cuddles Photography
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
