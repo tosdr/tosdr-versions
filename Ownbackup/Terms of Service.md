@@ -128,6 +128,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Own Secure
+
+Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
+
 [Backup and Recovery
 
 Beyond ITSM and CMBD: Why Every ServiceNow Application Needs a Backup Plan](https://www.ownbackup.com/blog/beyond-itsm-and-cmbd-why-every-servicenow-application-needs-a-backup-plan)
@@ -135,10 +139,6 @@ Beyond ITSM and CMBD: Why Every ServiceNow Application Needs a Backup Plan](http
 [Company News
 
 It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-salesforce)
-
-[Own Secure
-
-Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
 
 Company
 
@@ -352,6 +352,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Own Secure
+
+Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
+
 [Backup and Recovery
 
 Beyond ITSM and CMBD: Why Every ServiceNow Application Needs a Backup Plan](https://www.ownbackup.com/blog/beyond-itsm-and-cmbd-why-every-servicenow-application-needs-a-backup-plan)
@@ -359,10 +363,6 @@ Beyond ITSM and CMBD: Why Every ServiceNow Application Needs a Backup Plan](http
 [Company News
 
 It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-salesforce)
-
-[Own Secure
-
-Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
 
 Company
 
