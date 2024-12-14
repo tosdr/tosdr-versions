@@ -31,6 +31,439 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+El Metro de Quito: ¿Un hito de modernización o una carga para la capital?
+=========================================================================
+
+El Metro es la obra emblemática de Quito en los últimos años, sin embargo, es una carga a para las arcas municipales.
+---------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T185150.974.jpg)
+
+El **Metro de Quito** es, sin duda, una de las grandes **obras de infraestructura** de la capital ecuatoriana. Una obra monumental que tomó **cuatro administraciones** municipales para materializarse: desde **Augusto Barrera,** pasando por **Mauricio Rodas, Jorge Yunda y Santiago Guarderas**, y finalmente, bajo la gestión del actual alcalde, **Pabel Muñoz,** se puso en marcha.
+
+Este sistema de transporte masivo, que ha generado **admiración** y **orgullo** entre los **quiteños**, marca un hito en el proceso de modernización de la ciudad, permitiendo que Quito se sume al selecto grupo de urbes con este tipo de infraestructura.
+
+No obstante, esta obra magnífica también ha sido una camisa de fuerza para la capital. Desde que se concibió la idea, el **Metro** se posicionó como el eje central de la **política municipal**, **relegando** otras **necesidades urgentes** de la ciudad. Su ejecución absorbía toda la atención y recursos, configurándose como una prioridad hegemónica que dejó en segundo plano problemáticas como la inseguridad, la pobreza y la exclusión social.
+
+Ahora, con el Metro en funcionamiento, la **carga económica** sigue pesando sobre el Municipio. A partir de 2025, Quito comenzará a pagar la deuda generada por esta obra. Además, el funcionamiento del sistema depende de un significativo subsidio: en 2025, el Municipio destinará más de USD 62 millones para garantizar su operación, incluyendo los costos de mantenimiento que no fueron considerados inicialmente.
+
+El Metro, aunque **vital y simbólico,** no puede ni debe monopolizar el presupuesto municipal. Quito es una ciudad con profundas contradicciones y demandas urgentes. La **falta de seguridad**, el aumento de la **pobreza** y la **desigualdad** social exigen respuestas inmediatas que no pueden esperar. Sin embargo, el **presupuesto** está destinado, en gran parte, al Metro y al pago de salarios de los trabajadores municipales, dejando poco margen para atender otras prioridades.
+
+> El Metro, aunque vital y simbólico, no puede ni debe monopolizar el presupuesto municipal. Quito es una ciudad con profundas contradicciones y demandas urgentes.
+
+> Es innegable que el Metro representa una obra impresionante y necesaria, pero también es una responsabilidad que ha **limitado las posibilidades de acción en otros frentes**. Además, su éxito a largo plazo depende de que no se quede como una **línea única**. Para que se convierta en el paradigma de movilidad moderna que Quito necesita, el sistema **debe expandirse**, con ramificaciones que articulen mejor la ciudad y ofrezcan una alternativa real al caótico tránsito actual.
+
+El **reto** para la **administración municipal** y para la ciudadanía es equilibrar la carga financiera y aprovechar plenamente esta infraestructura, sin descuidar los otros aspectos críticos que conforman el tejido urbano. Solo así, el Metro de Quito podrá consolidarse como un emblema de progreso y no como una carga que hipoteque el futuro de la capital.
+
+Lomo de cerdo asado con salsa de mango, un festín tropical
+==========================================================
+
+Descubre cómo preparar este delicioso plato, ideal para sorprender en cualquier ocasión especial. ¡Comparte esta receta con tus amigos!
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Este lomo de cerdo asado con salsa de mango no solo es un festín para el paladar, también es una opción equilibrada para disfrutar sin culpa.](https://www.elcomercio.com/wp-content/uploads/2024/12/2-1-1.jpg)
+
+El **lomo de cerdo asado** es una exquisita combinación de la jugosidad de la carne y el toque dulce y tropical del mango, ofreciendo una experiencia culinaria inigualable. Esta **receta** es ideal para sorprender en una cena familiar o destacar en una ocasión especial. Descubre a continuación cómo preparar este delicioso lomo de cerdo asado con salsa de mango, de manera sencilla y paso a paso.
+
+Ingredientes
+------------
+
+**Para el lomo de cerdo**
+
+* 1 kg de lomo de cerdo
+* 2 cucharadas de aceite de oliva
+* 2 dientes de ajo picados
+* 1 cucharadita de orégano seco
+* Sal y pimienta al gusto
+* 1 cucharadita de pimentón dulce
+* 1 limón (su jugo)
+
+**Para la salsa de mango**
+
+* 2 mangos maduros, pelados y cortados en cubos
+* 1/2 taza de cebolla roja picada
+* 1/4 taza de cilantro fresco picado
+* 1 chile jalapeño (opcional), sin semillas y picado
+* Jugo de 1 limón
+* Sal al gusto
+
+* * *
+
+> El lomo de cerdo se une a la dulzura y frescura del mango para crear una combinación explosiva
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/3-1.jpg)
+
+Lomo de cerdo asado servido con una fresca salsa de mango, ideal para cualquier celebración especial.
+
+Preparación del lomo de cerdo
+-----------------------------
+
+* En un bol grande, **mezclar** el aceite de oliva, los ajos picados, el orégano, el pimentón dulce, el jugo de limón, sal y pimienta. **Colocar** el lomo de cerdo en esta mezcla y asegurarse de cubrirlo bien.
+* **Dejar marinar** en el refrigerador durante al menos 1 hora (mejor si es toda la noche).
+* **Precalentar** el  horno a 180 °C (350 °F). En un sartén grande a fuego medio-alto, calentar un poco más de aceite.
+* **Retirar** el lomo de la marinada y **sellar** la carne por todos lados hasta que esté dorada (aproximadamente 3-4 minutos por cada lado). Una vez sellado, **colocar** el lomo en una bandeja y hornéalo durante aproximadamente 40 minutos o hasta que un termómetro insertado en la parte más gruesa registre 70 °C (160 °F).
+
+Preparación de la salsa de mango
+--------------------------------
+
+* En un bol mediano, **combinar** los cubos de mango, la cebolla roja, el cilantro y el chile jalapeño (si lo deseas).
+* **Agregar** el jugo de limón y sazona con sal al gusto.
+* **Mezclar** bien todos los ingredientes.
+* **Dejar** reposar la salsa durante unos minutos para que los sabores se integren.
+* **Colocar** las rodajas del lomo asado en un plato y verter generosamente la salsa de mango por encima.
+* Este plato se puede **acompañar** con arroz blanco o puré de papas para completar la comida.
+
+Consejos finales
+----------------
+
+Esta **receta** de **lomo de cerdo asado con salsa de mango** es una opción versátil que se puede adaptar a diferentes gustos. Si prefieres un toque más picante, puedes añadir más chile a la salsa o incluso algunas especias adicionales a la marinada del cerdo. Además, si deseas preparar este plato con anticipación, puedes marinar el lomo un día antes y simplemente hornearlo cuando estés listo para servirlo. La combinación del cerdo tierno y jugoso con la frescura del mango hará que este platillo sea un éxito entre tus invitados. ¡Anímate a probar esta deliciosa **receta**!
+
+Renuncia a la inteligencia
+==========================
+
+La política ecuatoriana privilegia emociones y retórica sobre la razón, debilitando el debate y fortaleciendo el autoritarismo.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+La **política ecuatoriana** está en un proceso regresivo, privilegia emociones primarias sobre la **inteligencia** y la razón. Gobernar ya no es comprender cómo funciona la **sociedad**, analizar sus problemas y pensar en las soluciones; se ha transformado en acumular **habilidades retóricas**, sino picardías, para hacerle creer a la sociedad que todo va bien.
+
+Los **gobernantes** no explican los **proyectos** de ley que pueden ser solo formas hábiles de incrementar las **recaudaciones**. Los **legisladores** no debaten los proyectos y, unos y otros, presionan a los jueces para que diriman las **discrepancias legales** que inventan los asesores como **arma política**.
+
+El contenido del último **proyecto**, denominado en plan de chacota “ley antipillos”, no ha sido analizado por nadie; toda la charlatanería se gastó para inducir a tomar partido por la **Asamblea** o por el gobierno, es decir, por uno o dos **debates** para negar su **aprobación**. Resultaron más avispados los asesores del gobierno.
+
+En la **superficial discusión** han participado políticos, constitucionalistas, medios de comunicación y el pueblo, que termina adoptando opiniones al estilo de las **redes sociales**: inamovibles, pero arbitrarias; sin fundamento, pero atrabiliarias. Igual que los **políticos**, los **ciudadanos** prefieren insultos y descalificaciones antes que razones. Los **constitucionalistas** también están aprendiendo a descalificar a los adversarios antes de decir su opinión.
+
+Si las discusiones  jurídicas tienen esas características, qué podíamos esperar de **artistas irreverentes**, de sus **promotores** y de sus **detractores**. Colgar un muñeco de cartón ha pasado de **crítica social** a ser acto político y **gesto terrorista**. Los artistas toman la crítica como censura y barbarie.
+
+Tomar partido por una **causa política**, sin reflexionar, sin fundamentar racionalmente la decisión, desde los **gobernantes** hasta los **gobernados**, es la forma más penosa de renunciar a la razón y a la **civilización**, es convertir en esclavos, a los **gobernados** y en **caudillos** a los **gobernantes**.
+
+Ecuador: Un, dos, tres, ¡vamos!
+===============================
+
+En Ecuador debemos vencer al pesimismo y recordar que unidos podemos resolver nuestros problemas, así que un, dos, tres, ¡vamos!
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
+
+Debido a los múltiples y álgidos **problemas** que atraviesa nuestro país, es muy común que algunos ecuatorianos tengan un cierto **pesimismo** frente al **futuro** del Ecuador. Sin embargo, hay hechos concretos que nos muestran que nuestro país está lleno de **gente buena** y que, unidos en un objetivo común, **podemos salir adelante**. La siguiente historia está basada en un hecho de la vida real y nos demuestra que, **trabajando en equipo**, podemos alcanzar **grandes resultados**.
+
+Una mañana lluviosa, una **pareja de aventureros** decide escribir una nueva página en su libro de experiencias y emprende camino, en su vehículo, desde Quito hacia el refugio del volcán **Guagua Pichincha**. Para llegar a su objetivo, deben atravesar la parroquia **Lloa**, a la cual se llega por una carretera de primer orden. Luego, desde Lloa hacia el refugio, deben tomar un camino de segundo orden, que es de **barro** y **cuesta arriba**. En ciertos tramos, este camino de segundo orden se torna **resbaladizo**, especialmente en días de lluvia.
+
+En Lloa, cuando el asfalto termina, los viajeros deben decidir si continuar por la **vía de segundo orden** para llegar hacia su destino, o ponerle fin a su **aventura**. La duda surge debido a que su vehículo carece de **tracción** en las cuatro ruedas, lo que podría dificultar el **ascenso**. Pese a la lluvia de la madrugada, el camino luce en **buenas condiciones**. Por esto, y debido a que en ese momento no hay lluvia, los viajeros se animan a continuar el trayecto hacia su destino. Están felices porque llegó el día en que llegarán al lugar al que tanto deseaban conocer.
+
+Manejan a **baja velocidad** y van disfrutando del paisaje maravilloso y la tranquilidad que ofrece el **páramo andino**. Cada cierto tiempo analizan el trayecto transcurrido y, pese a que han encontrado un poco de **lodo** y algunas **pendientes**, deciden continuar para acercarse a su **destino**. A solo cuatro kilómetros del refugio, los viajeros se encuentran con el **tramo más desafiante** de su aventura. Desde ese punto en adelante, el camino se torna más dificultoso: hay **curvas muy cerradas** y cuesta arriba.
+
+Los aventureros han atravesado con éxito varias **curvas difíciles** y están cada vez más cerca del refugio. A corta distancia observan una **curva muy cerrada**, con una **pendiente positiva bastante pronunciada**. Deben decidir muy rápido y sobre la marcha si continuar, pues no pueden perder **impulso**. Los viajeros deciden continuar. El conductor presiona el **acelerador** para ganar más impulso, y el acompañante le da ánimo. Sin embargo, no es suficiente: el auto **patina** y se detiene a muy pocos centímetros de coronar la curva cuesta arriba. Después de pocos segundos, intentan completar el ascenso para llegar a una planicie del camino, pero la **tracción** no es buena y el vehículo no avanza. En ese momento deciden poner fin a su **aventura** e intentan regresar.
+
+Para regresar deben **descender** la curva en reversa, pues no hay margen de maniobra para hacerlo de frente. Para no chocar con un vehículo que venía detrás, en dirección al refugio, se pegan a un lado del camino. Debido a esta maniobra, las dos **ruedas** del lado pasajero terminan **atrapadas** en el **fango** que había en la **cuneta**. El otro vehículo tampoco puede coronar la curva, y se detiene. En este punto, la suerte de los aventureros está echada: están **encunetados** y no podrán salir solos. Para colmo, empieza a caer la lluvia, hace bastante frío, y el camino está **bloqueado** por los dos autos que no pudieron completar el ascenso en la curva.
+
+Después de algunos minutos, varias **personas** se acercan para observar lo que ocurría. Algunos se marchan, pero otros (la mayoría) deciden voluntariamente **ayudar** a los **viajeros encunetados**. Hay una lluvia de ideas para seleccionar el mejor método para sacar al vehículo encunetado. Todas las posibles soluciones implican el uso de **fuerza bruta**, pues el camino está totalmente bloqueado. Unas siete personas **empujan** la parte trasera del auto atrapado para complementar el trabajo del motor. Desafortunadamente, pese al **gran esfuerzo** de todos, el vehículo encunetado no se mueve ni un centímetro. Entonces deciden probar otra alternativa: **levantar** la parte trasera del vehículo para alinearlo con la vía y luego dejar que la **gravedad** ayude al trabajo del motor. Después de varios “un, dos, tres, ¡vamos!”, logran sacar al vehículo de la **cuneta**. Los aventureros agradecen la **ayuda** recibida y después de recuperar la calma, disfrutan el **paisaje** y al cabo de un tiempo retornan en su vehículo, **sanos y salvos**, a Quito.
+
+De la misma manera que un grupo de **ecuatorianos solidarios** sacó el auto del fango, [los ecuatorianos podemos unirnos para superar las dificultades del país](https://www.elcomercio.com/opinion/eliminemos-subsidio-mediocridad-marco-benalcazar-columnista.html). Para esto necesitamos un **gran liderazgo**, que considere a todos los ciudadanos como parte del mismo **equipo llamado** **Ecuador**. Ese liderazgo debe ser **ejemplar** e **inspirador**. Debe considerar y tratar a los ciudadanos como **personas**, y no simplemente como un número más en una elección o en una estadística. La mayoría de los ecuatorianos somos **buenos**, **solidarios**, **trabajadores** y **honestos**, y de eso no debemos olvidarnos nunca, pues así evitaremos que el pesimismo nos gane. Así que, **un, dos, tres, ¡vamos a sacar al Ecuador adelante!**
+
+Cartas a Quito / 14 de diciembre de 2024
+========================================
+
+Estas son las cartas a Quito de este sábado 14 de diciembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+[Réplica a la Carta de Diego Valdivieso Anda](https://www.elcomercio.com/cartas/cartas-a-quito-13-de-diciembre-de-2024.html)
+----------------------------------------------------------------------------------------------------------------------------
+
+Minería responsable: Una alternativa viable para el desarrollo y la conservación
+--------------------------------------------------------------------------------
+
+Este es un espacio democrático donde los ciudadanos expresan su opinión. Respecto al artículo de autoría del ciudadano Valdivieso Anda, y como vocera de la industria minera responsable representada en la Cámara de Minería del Ecuador, quisiera comentar dicho artículo, en el que, en resumen, se afirma que el proyecto minero Loma Larga no debe ser permitido porque afectaría al ambiente. Esa afirmación no es correcta, y a continuación lo analizo.
+
+Proyectos como Loma Larga representan oportunidades para un desarrollo económico sostenible y son compatibles con la protección ambiental. Aquí algunas puntualizaciones:
+
+**Loma Larga no afecta páramos ni zonas protegidas:** es fundamental aclarar que el Proyecto Loma Larga no interfiere con el Parque Nacional Cajas ni el Área Nacional de Recreación Quimsacocha. Estudios realizados por el Ministerio del Ambiente, Agua y Transición Ecológica (MAATE) concluyen que las actividades del proyecto están fuera de estas zonas protegidas. Además, los principales impactos en los ecosistemas de páramo de la región están relacionados principalmente con actividades humanas,  pastoreo y deportes motorizados, no con minería planificada ni regulada.
+
+**El agua está protegida:** el manejo del agua en Loma Larga sigue estándares de clase mundial. Más del 90 % del recurso hídrico utilizado en las operaciones es reciclado, y las aguas tratadas cumplen con los criterios más estrictos antes de ser devueltas al ambiente. Varias universidades nacionales e internacionales han verificado que no hay presencia de metales pesados como mercurio o arsénico en las fuentes hídricas cercanas, brindando tranquilidad a las comunidades locales.
+
+**La minería responsable no es incompatible con la conservación:** Loma Larga opera bajo estrictos controles ambientales diseñados para minimizar impactos y preservar los recursos naturales. Estos controles incluyen monitoreo constante, medidas de mitigación y programas de educación y salud para las comunidades cercanas. Lejos de ser una amenaza, la minería responsable se convierte en una solución frente a actividades descontroladas que ya están deteriorando los ecosistemas locales.
+
+**Los beneficios sociales y económicos son reales:** además de proteger el ambiente, el proyecto genera empleo, impulsa la economía local y mejora la calidad de vida de las comunidades cercanas. Estos beneficios no solo son esenciales para el desarrollo del país, sino que también fortalecen la sostenibilidad a largo plazo.
+
+Cabe aclarar que el informe emitido por ETAPA, mencionado en el artículo del ciudadano Valdivieso Anda, se arrogaría competencias que no le corresponden. Según la sentencia de la Corte Constitucional, es el Ministerio del Ambiente, Agua y Transición Ecológica (MAATE) la entidad responsable de evaluar y garantizar la calidad del agua en Ecuador. Este informe paralelo no solo desinforma, sino que estaría -potencialmente- creando caos y obstruiría los procesos legales establecidos. La autoridad ambiental ya ha avalado los estudios técnicos y ambientales de Loma Larga, que cumplen con los estándares más rigurosos. Intentar deslegitimar esta decisión con argumentos fuera de jurisdicción solo generaría incertidumbre y confusión entre las comunidades.
+
+También es importante recordar que la consulta popular realizada en Cuenca en 2021 sobre la prohibición de actividades mineras aplica únicamente a proyectos futuros. Aquellos que ya tenían concesiones mineras aprobadas y títulos otorgados, como Loma Larga, pueden continuar operando bajo el marco legal vigente. Este resultado, sin embargo, limita la posibilidad de atraer nueva inversión minera responsable, privando a la región de oportunidades económicas y sociales esenciales para su desarrollo.
+
+El peligro real: extracción ilegal y crimen organizado:
+-------------------------------------------------------
+
+La experiencia en Azuay debería servirnos como advertencia. La paralización del proyecto Río Blanco, impulsada por supuestos “activistas pro derechos humanos”, no protegió el ambiente ni benefició a las comunidades. Todo lo contrario: el área ahora está invadida por extracción ilegal de minerales, controlada por el crimen organizado, que opera sin respetar las leyes ni los estándares ambientales. La contaminación con mercurio y otros químicos tóxicos ha aumentado exponencialmente, y la seguridad de la zona está gravemente comprometida. Curiosamente, este escenario parece no incomodar a quienes antes promovieron el cierre de este proyecto responsable.
+
+Debemos tener claro a qué debemos temer. No es a la minería responsable, que genera empleo, desarrollo y protege el ambiente bajo estrictos controles. El verdadero peligro radica en permitir que la extracción ilegal de minerales avance, destruyendo ecosistemas, contaminando fuentes de agua y poniendo en riesgo la vida de nuestras comunidades. Aprendamos de los errores del pasado y apoyemos proyectos como Loma Larga, que representan una alternativa viable y sostenible para el desarrollo de nuestra región.
+
+María Eulalia Silva, Presidenta Ejecutiva de la Cámara de Minería del Ecuador
+
+Lourdes Tibán publicó emotivo mensaje por fallecimiento de Raúl Ilaquiche
+=========================================================================
+
+Lourdes Tibán y Raúl Ilaquiche procrearon tres hijos. El hermano del fallecido dio su testimonio en el lugar del siniestro.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Raúl Ilaquiche fue despedido por su esposa Lourdes Tibán a través de un mensaje en su cuenta de Tik Tok.](https://www.elcomercio.com/wp-content/uploads/2024/12/lourdes-tiban-raul-ilaquiche-2.jpg)
+
+La **prefecta de Cotopaxi**, **Lourdes Tibán**, publicó un emotivo mensaje por el fallecimiento de su esposo, **Raúl Ilaquiche**, este viernes 13 de diciembre de 2024.
+
+Ilaquiche falleció esta tarde a causa de un **siniestro de tránsito** en el sector de **Tambillo**, antes del ingreso a **Quito**.
+
+### Más noticias:
+
+* [Raúl Ilaquiche, esposo de Lourdes Tibán, falleció en siniestro de tránsito este viernes](https://www.elcomercio.com/actualidad/seguridad/raul-ilaquiche-esposo-lourdes-tiban-fallecio-siniestro-transito.html "Raúl Ilaquiche, esposo de Lourdes Tibán, falleció en siniestro de tránsito este viernes")
+* [Diciembre, un mes propicio para la prevención los siniestros de tránsito](https://www.elcomercio.com/opinion/editorial/diciembre-mes-propicio-prevencion-siniestros-transito.html "Diciembre, un mes propicio para la prevención los siniestros de tránsito")
+
+Mensaje de Lourdes Tibán a Raúl Ilaquiche
+-----------------------------------------
+
+La tarde de este viernes, el **ECU 911** recibió una alerta sobre un siniestro de tránsito en Tambillo, antes del ingreso a Quito.
+
+Se trataba de un **vehículo volcado** con personas atrapadas.
+
+A las 19:20, la **Policía Nacional** informó, a través de radiofrecuencia, de la existencia de **dos personas heridas y un fallecido** en el lugar.  
+
+Tras confirmarse la muerte de **Raúl Ilaquiche**, **Lourdes Tibán** publicó un emotivo mensaje en su cuenta de Tik Tok.
+
+“**Solo la muerte nos pudo separar, el único amor que juré en la Iglesia**“, dijo la Prefecta de Cotopaxi al inicio de su mensaje.
+
+“Dios dame fuerzas para seguir adelante con nuestros **tres hijos**, fruto de nuestro amor único. Tus hijos tiene un gran legado que seguir”, añadió Tibán.
+
+El mensaje fue acompañado de una foto de los dos juntos en una publicación y la canción “**Camino al cielo**“, interpretada por **María de los Ángeles**.
+
+El hermano de Raúl Ilaquiche relató lo ocurrido
+-----------------------------------------------
+
+**Rodrigo Ilaquiche**, hermano de Raúl Ilaquiche, relató cómo ocurrió la tragedia.
+
+Se trasladaban **de Conocoto a Cotopaxi**, **Raúl Ilaquiche conducía su vehículo** y él iba de copiloto.
+
+Iban cinco ocupantes en el vehículo, entre ellos, **Julio César Pilalumbo**, líder del movimiento indígena.
+
+“Aquí en la curva, antes de llegar a Tambillo, **estaba lloviznando**, se fue la pista, salió a la derecha, el carro se dio la vuelta, no recuerdo si un carro topó en algo, pero tuvimos que rodar para la parte de abajo y dio dos vueltas y se quedó clavado el carro”, comentó.
+
+“El **chofer se quedó contra el volante y el asiento**, atrapado, no pudimos hacer nada, la ambulancia y todo lo demás llegó luego de 30 minutos y acabamos de perder a un líder de Cotopaxi”, añadió Rodrigo Ilaquiche.
+
+Área social, la gran deuda del presupuesto municipal de Quito
+=============================================================
+
+El presupuesto municipal para el 2025, si bien está aprobada, sigue en debate. Orientado hacia el Metro, redujo montos de inversión social.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![El presupuesto del Patronato San José aumentará para el 2025, pero esta institución no consta en el área de Servicios Sociales del Municipio, sino de la coordinación de la Alcaldía.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T151256.964.jpg)
+
+El **Concejo Metropolitano** de **Quito** aprobó el 10 de diciembre de 2024 el **presupuesto municipal** para el 2025, que ascenderá a **1 002 millones de dólares**. Esta cifra representa una leve reducción del 0,6% respecto al presupuesto inicial de **2024**, que fue de **1 009 millones**. Sin embargo, el enfoque del presupuesto ha generado cuestionamientos, ya que prioriza la administración de la ciudad y la movilidad, mientras que el **área social enfrenta recortes significativos.**
+
+### Más noticias
+
+* [Fiestas de Quito aportaron al turismo local](https://www.elcomercio.com/actualidad/quito/fiestas-quito-economia-local-turismo.html "Fiestas de Quito aportaron al turismo local")
+* [Quito presenta siniestros y alto tránsito vehicular este 13 de diciembre](https://www.elcomercio.com/actualidad/quito/quito-siniestros-transito-vehicular-lluvia.html "Quito presenta siniestros y alto tránsito vehicular este 13 de diciembre")
+* [La movilidad por Navidad y pregones de diciembre cambiará en Quito](https://www.elcomercio.com/actualidad/quito/movilidad-pregones-compras-navidad-quito.html "La movilidad por Navidad y pregones de diciembre cambiará en Quito")
+
+![chart visualization](https://public.flourish.studio/visualisation/20783825/thumbnail)
+
+Servicios sociales, en descenso
+-------------------------------
+
+Durante la sesión del Concejo, **nueve ediles de oposición a la mayoría correísta se abstuvieron** en la votación y **12 aprobaron** la proforma presupuestaria. Varios de ellos, durante el debate y en conversaciones posteriores con la prensa luego de la votación, coincidían en que la **movilidad** y la **administración** tienen demasiada **prioridad** frente a otras áreas que necesitan recursos para que sea una ayuda para la población en áreas como **seguridad**, **salud**, **educación**.
+
+El **oficialismo** no está de acuerdo con esa posición. De hecho, durante las explicaciones que le pidieron los concejales sobre la inversión presupuestaria, **Grace Rivera, secretaria general de Planificación**, dijo que se **incrementó** el presupuesto en **2,1 millones de dólares** para el **Patronato San José.**
+
+“Tenemos un incremento de **3,6 millones de dólares** en el área social, que corresponde a **educación**, **cultura**, **inclusión** **social** y **salud**, llegando a los 43,7 millones de dólares”, dijo Rivera.
+
+Lo mismo dijo **Diego Garrido,** concejal por la **Revolución Ciudadana,** el partido del **alcalde Pabel Muñoz.** “Hay una discusión abierta en la que creo que los números no dan para la interpretación en perspectiva”. Coincide con Rivera en que el **Patronato San José** tiene un aumento en los ingresos, y que, al ser el **brazo ejecutor de la política de inclusión social**, “hay aumento de más de dos millones de dólares”. 
+
+El **Patronato Municipal San José**, según la **proforma** del 2025 aprobada, **recibirá 35,6 millones** de dólares, que corresponde al **3,55%** del presupuesto general.
+
+![chart visualization](https://public.flourish.studio/visualisation/20783608/thumbnail)
+
+Un comparativo del presupuesto municipal
+----------------------------------------
+
+Aunque el **Patronato San José** recibirá 35,6 millones de dólares, equivalente al 3,55% del presupuesto general, estos recursos no se contabilizan en el rótulo de **Servicios Sociales,** sino en la Coordinación de Alcaldía.
+
+Además, comparado con el presupuesto de 2024, las áreas sociales enfrentan reducciones significativas:
+
+* **Salud**: de 43 millones a 16,4 millones (-61%).
+* **Educación y Deportes**: de 53,6 millones a 14,1 millones (-73,7%).
+* **Inclusión social**: de 6,46 millones a 2,74 millones (-57,6%).
+
+Estas cifras han generado **críticas** por parte de concejales opositores, quienes consideran que las reducciones afectan a sectores fundamentales para el **bienestar de la població**n[.](https://es.wikipedia.org/wiki/Patronato_de_San_Jos%C3%A9#:~:text=La%20instituci%C3%B3n%20estaba%20regida%20por,festividad%20el%2019%20de%20marzo. "https://es.wikipedia.org/wiki/Patronato_de_San_Jos%C3%A9#:~:text=La%20instituci%C3%B3n%20estaba%20regida%20por,festividad%20el%2019%20de%20marzo.")
+
+![chart visualization](https://public.flourish.studio/visualisation/20783738/thumbnail)
+
+Un presupuesto atado al Metro
+-----------------------------
+
+El **Metro** de Quito sigue siendo una prioridad presupuestaria, con una asignación de 62,3 millones de dólares en 2025, que incluye mantenimiento. Según **Fernando Carrión,** experto en urbanismo, esta “metrodependencia” limita la capacidad de la ciudad para atender otras necesidades.
+
+Todos los concejales, opositores y oficialistas reconocen los beneficios del Metro. Sin embargo, no es la solución a todos los problemas de movilidad que tiene Quito. **Fidel Chamba (SUMA), presidente** de la **Comisión de Presupuesto**, dijo que solo beneficia al 6% de los quiteños. Mientras tanto, Andrés Campaña, concejal opositor, criticó la falta de inversiones en el sistema general de transporte.
+
+Diego **Garrido (RC)** defendió la inversión en el **Metro**, destacando que es un **proyecto heredado** de administraciones anteriores y planteó que **“será necesario evaluar si marca el inicio de una nueva era en la movilidad de Quito”.** No obstante, admitió que la **deuda por la construcción del Metro** comenzará a pagarse en 2025, lo que representará un desafío financiero adicional para el Municipio.
+
+Nueva pugna entre Gobierno y Alcaldía de Guayaquil ¿Cuál es el motivo?
+======================================================================
+
+La pugna entre el Gobierno y la Alcaldía de Guayaquil esta vez enfrenta a Inés Manzano con Aquiles Alvarez.
+-----------------------------------------------------------------------------------------------------------
+
+![Una nueva pugna entre el Gobierno y la Alcaldía de Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/12/pugna-gobierno-alcaldia-guayaquil.jpg)
+
+Una nueva pugna entre el **Gobierno** y la **Alcaldía de Guayaquil** se dio este viernes 13 de diciembre de 2024.
+
+La ministra de Ambiente, **Inés Manzano** hizo una acusación y el alcalde de Guayaquil, **Aquiles Alvarez** respondió.
+
+### Más noticias:
+
+* [Aquiles Alvarez dice que no permitirá que se apague ‘el espíritu de la Navidad’ en Guayaquil](https://www.elcomercio.com/actualidad/ecuador/aquiles-alvarez-dice-que-no-permitira-que-se-apague-espiritu-navidad-guayaquil.html "Aquiles Alvarez dice que no permitirá que se apague ‘el espíritu de la Navidad’ en Guayaquil")
+* [Caso Triple A, audiencia de formulación de cargos se suspendió por segunda ocasión](https://www.elcomercio.com/actualidad/seguridad/caso-triple-a-audiencia-formulacion-cargos-suspendio-segunda-ocasion.html "Caso Triple A, audiencia de formulación de cargos se suspendió por segunda ocasión")
+
+Nueva pugna entre Gobierno y Alcaldía de Guayaquil
+--------------------------------------------------
+
+La ministra del Ambiente, **Inés Manzano**, realizó un recorrido por el Relleno Sanitario de las Iguanas, este viernes 13 de diciembre.
+
+El objetivo fue constatar si cumplen con las normativas ambientales respaldadas por el **Código Orgánico Ambiental.**
+
+Tras el recorrido, Manzano hizo declaraciones y arremetió contra la **Alcaldía de Guayaquil**.
+
+La Ministra señaló que hay entradas de vehículos con escombros, que realizaron una inspección de lugar, donde ponen y mezclan los **escombros**.
+
+Manzano agregó que no hay permisos para tener una escombrera y que el **relleno sanitario** “no es digno”.
+
+Añadió que ahí hay, posiblemente, un presunto conflicto con **Urvaseo**, que hace la recolección y transporta los residuos, y el mismo consorcio que maneja el relleno.
+
+“Creo que las autoridades de Guayaquil han dejado en abandono a **Guayaquil**“, señaló.
+
+Manzano señaló que realizará la denuncia a la **Fiscalía**.
+
+### Respuesta del Alcalde de Guayaquil
+
+A través de sus redes sociales, el alcalde **Aquiles Alvarez** respondió a la Ministra.
+
+Alvarez manifestó que se trata de una “persecución” que pasó de lo personal a lo institucional porque la denuncia no tiene argumentos.
+
+El Alcalde aseguró que existe un “**plan de acción** en contra de Guayaquil” que contiene cuatro pasos.
+
+La denuncia persona al Alcalde, la denuncia **Urvaseo**, el ingreso violentado con la Fiscalía al relleno sanitario y la denuncia ARCA.
+
+” Es un libreto de persecución increíble. Qué pena que la ministra, a la que toda la vida la he considerado una persona seria y con criterio, **muy buena vocera** de estos temas, con conocimiento de causa, en su momento liderando este tipo de conversaciones al más alto nivel, se preste para esto”, agregó.
+
+Y posteo un video en el que, según él, “se puede ver la prepotencia con la que la Ministra increpa a una funcionaria de **Interagua**, amenazando con meterla presa y meter preso a su jefe”. “Así trabajan, a punta de amenazas”, señaló.
+
+“No les tenemos miedo, sigan persiguiéndonos”, concluyó en su mensaje el **Alcalde de Guayaquil.**
+
+> La verdad que esta persecución pasó de lo personal (porque NO TIENEN NADA en su denuncia sin argumentos) a lo institucional (MUY ILUSTRE MUNICIPIO DE GUAYAQUIL).  
+>   
+> Plan de acción en contra de Guayaquil:  
+>   
+> 1- Denuncia personal al alcalde.  
+> 2- Denuncia Urvaseo.  
+> 3- Ingreso… [https://t.co/mQaxP9ouXv](https://t.co/mQaxP9ouXv) [pic.twitter.com/SOeSOp9oWW](https://t.co/SOeSOp9oWW)
+> 
+> — Aquiles Alvarez Henriques (@aquilesalvarez) [December 14, 2024](https://twitter.com/aquilesalvarez/status/1867742169773355054?ref_src=twsrc%5Etfw)
+
+Antonio Valencia respalda a Segundo Castillo con fuerte discurso
+================================================================
+
+Antonio Valencia y Segundo Castillo jugaron juntos el Mundial Alemania 2006.
+----------------------------------------------------------------------------
+
+![Antonio Valencia (i) y Segundo Castillo (d) en el 2009.](https://www.elcomercio.com/wp-content/uploads/2024/12/castillo_valencia_1.jpg)
+
+Antonio Valencia es el jugador más exitoso del **fútbol ecuatoriano en el fútbol ecuatoriano**. Se mantuvo en el fútbol europeo por 14 años a gran nivel y ganando títulos lacales y continentales.
+
+En Europa, **Antonio Valencia jugó en el Villarreal de España** y en los inglés Wigan Athletic y Manchester United. Con los ‘Diablos rojos’ fue capitán y campeón de la Premier League y la UEFA Europa League, solo por contar algunos.
+
+### Más noticias:
+
+* [(Video) Nilson Angulo anota y gana en Europa League](https://www.elcomercio.com/deportes/nilson-angulo-gol-anderlecht-europa-league.html "(Video) Nilson Angulo anota y gana en Europa League")
+* [Google vaticina victoria de Independiente en la final](https://www.elcomercio.com/deportes/futbol/google-algoritmo-final-independiente-valle.html "Google vaticina victoria de Independiente en la final")
+* [Glenda Morejón y David Hurtado tienen nuevo entrenador](https://www.elcomercio.com/deportes/atletismo/glenda-morejon-david-hurtado-nuevo-entrenador.html "Glenda Morejón y David Hurtado tienen nuevo entrenador")
+
+Antonio Valencia en la Selección
+--------------------------------
+
+Tras finalizar su aventura europea, Valencia regreso para el segundo semestre de 2019 a Liga de Quito como su principal refuerzo. Luego se **marchó al Querétaro en donde se retiró por una lesión** que lo aquejó en el cierre de su carrera.
+
+En México cerró una trayectoria que empezó en El Nacional en 2003. Su aparición llegó a refrescar al **fútbol ecuatoriano que por esos años gozaba** de haber clasificado al Mundial de Corea-Japón un año antes.
+
+En el 2004 debutó con la Camiseta de la Selección de Ecuador y en el 2005 marcó sus dos primeros goles en un partido ante **Paraguay en las eliminatorias a Alemania 2006**. Fue victoria de los ecuatorianos en el Olímpico Atahualpa por 5-2.
+
+Luego sumó a su hoja de vida personal jugar el referido Mundial y el de Brasil 2014. También dijo presente en la C**opa América Venezuela 2007, Argentina 2011**, Chile 2015, Estados Unidos 2016 y Brasil 2019.
+
+En ese trayecto coincidió con Segundo Alejandro Castillo, con el que también compartió equipo en El Nacional.
+
+Los une una gran amistad. **El ‘Toño’ no dejó pasar la oportunidad de respaldar al ‘Mortero’** en su tarea de ser entrenador de Barcelona Sporting Club, con el aditamento que es el año del centenario de los guayaquileños.
+
+Valencia y sus elogios a Castillo
+---------------------------------
+
+“Alejandro es la imagen del entrenador ecuatoriano. Lo está haciendo muy bien y los resultados en los seis partidos”, dijo el fundador, **dueño y entrenador del AV25**, equipo que milita en la Segunda Categoría de Pichincha.
+
+Castillo tomó las riendas de Barcelona SC en octubre de 2024. Reemplazó al argentino Ariel Holan.
+
+Ganó seis partidos y empató tres. Destaca el triunfo **8-1 ante Cumbayá, el 4-0 contra Delfín y 2-1** ante Emelec en el Clásico del Astillero. Todos estos partidos se jugaron en el estadio Monumental y aseguró su cupo a la Libertadores 2025.
+
+“Tiene mucha llegada a los jugados, lo quieren, lo respetan y está preparado”, agregó sobre las cualidades que tiene el esmeraldeño en su etapa como entrenador que está en sus primeros pasos.
+
+Detalló que el haber jugado en Europa, la **preparación que tiene como entrenador y su experiencia** en la Selección de Ecuador, son las cartas con las que el deportista tiene en su currículum para seguir como entrenador de BSC.
+
+En las próximas horas la dirigencia de los canarios debe oficializar la continuidad de Castillo como entrenador. Su contrato correrá por los siguientes 12 meses.
+
+Las declaraciones de Valencia fueron en ECDF.
+
+![Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/12/castillo_valencia_2-1024x683.jpg)
+
+Archivo histórico EL COMERCIO.
+
+San viernes
+-----------
+
+Liga de Quito, a un paso de igualar a El Nacional en campeonatos ecuatorianos
+=============================================================================
+
+Liga de Quito puede igualar a El Nacional en títulos en Liga Pro y a Barcelona SC en títulos nacionales si vence a Independiente del Valle.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Ezequiel Piovi y Leonel Quiñónez celebran un gol de Liga de Quito en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T181309.932.jpg)
+
+**Liga de Quito** está al borde de asegurar la Liga Pro de 2024 ante Independiente del Valle tras imponerse en la final de ida del torneo y espera por la revancha. De lograrlo, el equipo azucena llegará a los 13 títulos naciones e igualará a **El Nacional** como el tercero con más campeonatos ecuatorianos.
+
+Este sábado 14 de diciembre del 2024 a las 15:30, los albos visitarán el estadio de Independiente con el deber de aguantar un resultado. En la ida, el equipo azucena venció por 3-0 en el Estadio Rodrigo Paz Delgado con un doblete de **Álex Arce** y un tanto de **Gabriel Villamil**.
+
+### Más noticias:
+
+* [Liga de Quito podría celebrar en emblemático lugar](https://www.elcomercio.com/deportes/futbol/liga-quito-pileta-universidad-central.html "Liga de Quito podría celebrar en emblemático lugar")
+* [Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-valle-viernes13-terror-redes.html "Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito")
+* [¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?](https://www.elcomercio.com/deportes/liga-quito-jugadores-favoritos-vitamina-sanchez.html "¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?")
+
+A menos que los negriazules venzan por más de cuatro goles o lo hagan por tres para forzar la definición, los albos se alzarán como campeones. Aquel sería el segundo título de **Liga de Quito** en la década de 2020, sin embargo, antes consiguió once.
+
+El primer título de los universitarios data de **1969**. A partir de aquel momento, los albos volvieron a seguir con triunfos en **todas las décadas**, salvo en la de 1980.
+
+A la par de **Liga de Quito; El Nacional, Barcelona SC y Emelec** también forjaron una historia de campeones y se consagraron como los tres más ganadores a nivel liguero. Los dos últimos tienen la ventaja al contar con 16 y 14 títulos, sin embargo, los puros criollos poseen 13 y la ‘U’ está al acecho.
+
+Los 12 títulos de Liga de Quito y los 13 de El Nacional
+-------------------------------------------------------
+
+Desde su primera conquista en 1969, **Liga de Quito** se coronó en **1974** y en **1975**, donde alcanzó el primer bicampeonato. Después de su tercer título, los albos vivieron una sequía de 15 años sin levantar una copa[.](https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional#Palmar%C3%A9s "https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional#Palmar%C3%A9s")
+
+En **1990** volvió a la gloria y en **1998 y 1999** tuvo su segundo bicampeonato. A la llegada de los **2000**, en **2003, 2005 y 2007**, los albos volvieron a ganar. En **2018 y 2023** fueron las gestas.
+
+A la par, **El Nacional** consiguió sus triunfos en 1967, 1973, 1976, 1977, 1978, 1982, 1983, 1984, 1986, 1992, 1996, 2005 y 2006.
+
+Liga de Quito también persigue a Barcelona SC en títulos en el país
+-------------------------------------------------------------------
+
+A nivel de Ecuador, en torneos fuera de la Liga Pro, los albos están a un paso de igualar al equipo más ganador del país, **Barcelona SC**. Los toreros cuentan con **16 preseas**, todas producto de campeonatos ecuatorianos.
+
+Liga, además de los **12 torneos nacionales**, también cuentan con una **Copa Ecuador y dos Supercopas**.
+
 Raúl Ilaquiche, esposo de Lourdes Tibán, falleció en siniestro de tránsito este viernes
 =======================================================================================
 
@@ -41,7 +474,7 @@ El siniestro en el que falleció Raúl Ilaquiche, esposo de Lourdes Tibán, pref
 
 **Raúl Ilaquiche**, esposo de la **prefecta de Cotopaxi**, **Lourdes Tibán**, falleció la tarde de este viernes 13 de diciembre de 2024 en un siniestro de tránsito.
 
-El suceso ocurrió en el sector de **Tambillo**, cantón Mejía, Pichincha.
+El suceso ocurrió en el sector de **Tambillo**, cantón Mejía, Pichincha, antes del ingreso a Quito.
 
 ### Más noticias:
 
@@ -51,13 +484,36 @@ El suceso ocurrió en el sector de **Tambillo**, cantón Mejía, Pichincha.
 El fallecimiento del esposo de Lourdes Tibán, Raúl Ilaquiche, en un siniestro de tránsito
 -----------------------------------------------------------------------------------------
 
+La tarde de este viernes, el **ECU 911** recibió una alerta sobre un siniestro de tránsito en Tambillo, antes del ingreso a Quito.
+
+Se trataba de un **vehículo volcado** con **personas atrapadas**.
+
+A las 19:20, la **Policía Nacional** informó, a través de radiofrecuencia, de la existencia de dos personas heridas y un fallecido en el lugar.
+
 El **vehículo** en el que se transportaba **Raúl Ilaquiche** se volcó en la vía que estaba mojada por la lluvia.
 
-Informes preliminares señalaron que existen **dos heridos más**, producto de este siniestro de tránsito.
+**Dos personas** más resultaron heridas.
 
-En redes sociales, **prefectos** y otras autoridades seccionales se solidarizaron con Tibán.
+El **Ministerio de Salud** informó de un hombre de 34 años con herida en cabeza de 20 cm, trasladado a la Clínica Cotocollao.
 
-Ilaquiche es un indígena del pueblo **Kichwa de Tigua**.
+El **Cuerpo de Bomberos de Mejía** refirió un hombre de 44 años con trauma lumbar, trauma abdominal y trauma cerrado de tórax.
+
+Este segundo herido fue trasladado al Hospital Básico de **Machachi** para estabilización.
+
+En redes sociales, la **Presidencia de la República**, **prefectos** y otras autoridades seccionales se solidarizaron con Tibán.
+
+> Expresamos nuestras condolencias ante el sensible fallecimiento del señor Raúl Llaquiche.  
+>   
+> Paz en su tumba [pic.twitter.com/c4VD8s2rkX](https://t.co/c4VD8s2rkX)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [December 14, 2024](https://twitter.com/Presidencia_Ec/status/1867749725728125268?ref_src=twsrc%5Etfw)
+
+Producto del accidente, el ECU 911 registra una gran **congestión vehicular** sentido sur-norte, en el sector.
+
+¿Quién fue Raúl Ilaquiche, esposo de Lourdes Tibán?
+---------------------------------------------------
+
+**Raúl Ilaquiche** fue un indígena del pueblo **Kichwa de Tigua**.
 
 Fue **Premio Bartolomé de las Casas** 2008, autoridad indígena y exdiputado.
 
@@ -453,566 +909,3 @@ Tras el **derrocamiento del presidente sirio,** Israel también desplegó a su E
 Este mismo viernes, el **ministro de Defensa israelí, Israel Katz,** ordenó a sus tropas mantener durante los meses de invierno sus **posiciones en el lado sirio del monte Hermón**, en la zona desmilitarizada de los Altos del Golán, y lo justificó como “un asunto de seguridad de gran importancia”.
 
 Israel ya ocupaba la mayor parte de los **Altos del Golán** desde que los arrebató a Siria durante la Guerra de los Seis Días, de 1967.
-
-Liga de Quito podría celebrar en emblemático lugar
-==================================================
-
-Los hinchas de Liga de Quito tienen en la pileta de la Central un lugar emblemático de celebración.
----------------------------------------------------------------------------------------------------
-
-![Hinchas de Liga de Quito en la pileta de la Universidad Central en 2018.](https://www.elcomercio.com/wp-content/uploads/2024/12/pileta_central_2.jpg)
-
-**Liga de Quito** está a pocas horas de conseguir un nuevo título nacional. El sábado 14 de diciembre de 2024, desde las 15:30, jugará la final de vuelta de la Liga Pro ante Independiente del Valle.
-
-La final de ida la ganó Liga de Quito por 3-0. Para extender la definición a los tiros penales, **Independiente del Valle tiene que ganar** por la misma cantidad de goles y por más para alcanzar su segunda corona de la Liga Pro.
-
-### Más noticias
-
-* [(Video) Nilson Angulo anota y gana en Europa League](https://www.elcomercio.com/deportes/nilson-angulo-gol-anderlecht-europa-league.html "(Video) Nilson Angulo anota y gana en Europa League")
-* [Google vaticina victoria de Independiente en la final](https://www.elcomercio.com/deportes/futbol/google-algoritmo-final-independiente-valle.html "Google vaticina victoria de Independiente en la final")
-* [Glenda Morejón y David Hurtado tienen nuevo entrenador](https://www.elcomercio.com/deportes/atletismo/glenda-morejon-david-hurtado-nuevo-entrenador.html "Glenda Morejón y David Hurtado tienen nuevo entrenador")
-
-Los títulos de Liga de Quito
-----------------------------
-
-Liga de Quito, por donde se lo mire, es el **equipo más ganador del fútbol ecuatoriano** en toda su historia. En sus vitrinas reposan 20 títulos, 15 son nacionales y cinco son internacionales.
-
-En el campeonato nacional ganó los trofeos de 1969, 1974, 1975, 1990, 1998, 1999, 2003, **Apertura 2005, 2007, 2010, 2018** y 2023. Con 12 es el tercer equipo más ganador, por detrás de Emelec (14) y Barcelona Sporting Club.
-
-Las coronas internacionales llegaron con el sello de la **Copa Libertadores 2008**, la Copa Sudamericana 2009 y 2023 y la Recopa Sudamericana 2009 y 2010.
-
-![Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/12/pileta_central_3-1024x683.jpg)
-
-Archivo histórico EL COMERCIO.
-
-La pileta abrirá sus puertas
-----------------------------
-
-Liga de Quito tiene sus orígenes en la **Universidad Central del Ecuador**. La pileta de este centro educativo ha sido testigo de un sinnúmero de celebraciones de los títulos alcanzados por el equipo albo.
-
-Tras la última remodelación que data de hace más de una década, la pileta abandonó la parte exterior  
-de la **Plaza Indoamérica y fue movida unos metros** y ahora está en la parte interna del ingreso hacia el Teatro Universitario y las distintas facultades.
-
-Este viernes 13 de diciembre de 2024, la **Central lanzó un comunicado en el que anunciar** que la pileta estará lista para recibir a los miles de hinchad de LDU, una vez que se concrete la obtención del título de la Liga Pro.
-
-La UCE “permitirá el acceso a la Pileta para los hinchas del equipo (…) procederá a llenarla”, reza el texto del referido comunicado.
-
-Agregaron que contarán con el apoyo de la **Administración Zonal ‘La Mariscal’** para coordinar y garantizar la seguridad y en control de bebidas alcohólicas durante la celebración.
-
-![Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/12/pileta_central_1-1024x683.jpg)
-
-Archivo histórico EL COMERCIO.
-
-San viernes
------------
-
-¡Regresa ‘Malcolm in the middle’ con nuevos episodios!
-======================================================
-
-Los actores Bryan Cranston y Frankie Muniz confirman el esperado regreso
-------------------------------------------------------------------------
-
-![Los protagonistas de 'Malcolm in the middle', Frankie Muniz y Jane Kaczmarek.](https://www.elcomercio.com/wp-content/uploads/2024/12/Macolm.jpg)
-
-La icónica serie **‘Malcolm in the middle**‘ vuelve.
-
-Según el portal **Variety**, la **plataforma de streaming Disney Plus** producirá cuatro nuevos episodios de esta comedia, que marcaron a toda una generación.
-
-### Más noticias:
-
-* **[Selena Gomez reafirma su conexión con el español y su cultura](https://www.elcomercio.com/afull/selena-gomez-cine-peliculas-espanol.html)** 
-* **[‘Heretic’, una película de terror psicológico que desafía la fe](https://www.elcomercio.com/tendencias/heretic-pelicula-terror.html "https://www.elcomercio.com/tendencias/heretic-pelicula-terror.html")**
-
-Bryan Cranston (Hal), Frankie Muniz (Malcolm) y Jane Kaczmarek (Lois) ya están confirmados para retomar sus papeles.
-
-Vuelve con la esencia original
-------------------------------
-
-**Linwood Boomer**, creador de la serie, liderará este proyecto para garantizar que la esencia y el humor característico se mantengan intactos.
-
-Esta apuesta de Disney Plus combina nostalgia con historias frescas que prometen conectarse con una nueva generación de espectadores.
-
-¿De qué tratarán los nuevos capítulos?
---------------------------------------
-
-La trama tomará un salto temporal respecto a la serie original. Según **Variety**, Malcolm ahora es padre y, junto a su hija, enfrentará nuevos desafíos familiares.
-
-Los episodios incluirán el aniversario número 40 de bodas de Hal y Lois, evento que desatará el caos habitual.
-
-Los actores anticipan un proyecto inolvidable
----------------------------------------------
-
-El actor Frankie Muniz confesó a **Variety** su emoción por revivir el papel que lo catapultó a la fama. Por su parte, Justin Berfield (Reese) dejó entrever en redes sociales su posible participación en esta nueva entrega.
-
-Aunque aún no se ha anunciado la fecha de estreno, los fanáticos ya esperan con ansias este regreso. El proyecto, actualmente en desarrollo, promete devolver el humor irreverente y las dinámicas familiares que hicieron de ‘Malcolm in the middle’ un fenómeno global.
-
-¿De qué trata la serie ‘Malcolm in the middle’?
------------------------------------------------
-
-‘Malcolm in the Middle’ es una comedia de situación estadounidense que se emitió entre el año 2000 y 2006. La serie sigue la vida de Malcolm, un niño superdotado con un coeficiente intelectual extraordinario, y su disfuncional pero entrañable familia. Malcolm enfrenta los desafíos típicos de la adolescencia mientras lidia con los problemas caóticos y surrealistas que surgen en su hogar.
-
-La familia de Malcolm está compuesta por su madre Lois, una figura autoritaria y decidida que mantiene todo bajo control; Hal, su padre despreocupado y algo infantil; y sus hermanos: Reese, el rebelde; Dewey, el peculiar y creativo; y Francis, el alcalde, que siempre está metido en problemas. Más tarde, en la serie, presentamos a Jamie, el hermano menor.
-
-El tono de la serie mezcla humor absurdo con comentarios sociales sobre temas familiares, educativos y económicos. A lo largo de las siete temporadas, ‘Malcolm in the Middle’ explora las dinámicas familiares, los conflictos cotidianos y las aventuras de un grupo de personajes únicos, todo desde la perspectiva de Malcolm, quien ocasionalmente rompe la cuarta pared para hablar directamente al espectador.
-
-Elon Musk pide una consulta popular para convertir su base en Texas en un municipio
-===================================================================================
-
-Su propósito es que una vez que Starbase tenga categoría de ciudad, la zona cuente con todas las instalaciones "de categoría mundial".
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Elon Musk en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/12/elon-musk-efe.jpg)
-
-El empresario [Elon Musk](https://es.wikipedia.org/wiki/Elon_Musk "https://es.wikipedia.org/wiki/Elon_Musk"), la **persona más rica del mundo** y a quien el presidente electo de Estados Unidos**, Donald Trump**, encargó **reformar la administración pública** durante su segunda presidencia, quiere tener su propia ciudad y ya dio el primer paso para lograrlo.
-
-### Más noticias
-
-* [Elon Musk discute con el Congreso su plan para desmantelar la burocracia de EE.UU.](https://www.elcomercio.com/actualidad/mundo/elon-musk-discute-congreso-plan-desmantelar-burocracia-ee-uu.html "Elon Musk discute con el Congreso su plan para desmantelar la burocracia de EE.UU.")
-* [Elon Musk busca superdotados que trabajen más de 80 horas para su oficina gubernamental](https://www.elcomercio.com/actualidad/mundo/elon-musk-busca-superdotados-trabajen-80-horas-oficina-gubernamental.html "Elon Musk busca superdotados que trabajen más de 80 horas para su oficina gubernamental")
-* [Elon Musk será el responsable de la eficiencia gubernamental en el Gobierno de Trump](https://www.elcomercio.com/actualidad/mundo/elon-musk-sera-responsable-eficiencia-gubernamental-gobierno-trump.html "Elon Musk será el responsable de la eficiencia gubernamental en el Gobierno de Trump")
-
-Musk pidió en una **carta dirigida a un juez del condado texano de Cameron** y reproducida en su cuenta de X que se convoque una **consulta pública** para decidir si Starbase, **sede del proyecto Starship**. Se trata de su compañía aeroespacial **Space X**, localizada en **Boca Chica**, una zona ribereña del **Golfo de México** muy cercana de la frontera, se convierte en un **municipio a todos los efectos.**
-
-“La ciudad más joven del valle del Río Grande”, dice.
-
-El sur de Texas como entrada a Marte
-------------------------------------
-
-En su carta, Musk recuerda que está invirtiendo miles de millones de dólares en infraestructura y creando cientos de **millones en ingresos** para las **empresas locales** y en **impuestos para las arcas públicas**, “todo con el objetivo de hacer del **sur de Texas** la vía de entrada a Marte”.
-
-También hace hincapié en los **miles de empleos** que creó en el **sur de Texas** y en el condado de Cameron en particular y en que muchos de esos empleados viven ya en Starbase.
-
-Proyecto Starship
------------------
-
-“Para seguir ampliando la mano de **obra necesaria** para desarrollar y manufacturar rápidamente el proyecto Starship necesitamos tener la capacidad de hacer crecer **Starbase como una comunidad**“, subraya el dueño de la red X y del fabricante de automóviles eléctricos Tesla.
-
-Su propósito es que una vez que Starbase tenga categoría de ciudad, la zona cuente con todas las **instalaciones necesaria para ser un lugar** “de categoría mundial” para vivir.
-
-Actualmente, según dice Musk en la carta, Space X se encarga de **funciones públicas** como gestionar las carreteras y proveer escuelas y **centros de atención médica** para los que ya consideran ‘Starbase’ su hogar.
-
-El empresario de origen sudafricano subraya que su compromiso con el medioambiente de la zona de Starbase no se verá afectado si es declarada ciudad.
-
-Igual que hizo con Tesla en 2021, Musk trasladó la **sede central de SpaceX** a Texas y también su domicilio, en detrimento de California, un bastión demócrata sobre cuya gestión hace frecuentes críticas.
-
-En Texas, gobernado por el republicano de **línea dura Greg Abbott,** no existe un impuesto estatal sobre la renta para individuos.
-
-Asamblea Nacional aprobó reformas para sancionar los ‘camisetazos’
-==================================================================
-
-La Asamblea Nacional de Ecuador aprueba reformas para sancionar el 'camisetazos' y regular el juicio político.
---------------------------------------------------------------------------------------------------------------
-
-![Sesión del Pleno de la Asamblea este viernes 13 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T151922.253.jpg)
-
-La **Asamblea Nacional** aprobó el 13 de diciembre de 2024 reformas a la **Ley Orgánica de la Función Legislativa**, que incluyen sanciones para el transfuguismo político, conocido **como ‘camisetazos’**.
-
-### Más noticias
-
-* [Asamblea Nacional censuró a exministra de Energía Andrea Arrobo](https://www.elcomercio.com/actualidad/politica/andrea-arrobo-volvio-presentar-juicio-politico.html "Asamblea Nacional censuró a exministra de Energía Andrea Arrobo")
-* [Asamblea Nacional tiene juicios políticos pendientes por tramitar](https://www.elcomercio.com/actualidad/politica/juicios-politicos-pendientes-asamblea-nacional.html "Asamblea Nacional tiene juicios políticos pendientes por tramitar")
-* [‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-tomara-accion-si-publica-ley-antipillos.html "‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales")
-
-La votación, que contó con 77 votos a favor, fue respaldada por las **bancadas de la Revolución Ciudadana (RC), Partido Social Cristiano (PSC) y el movimiento Construye**. En contraste, 25 asambleístas de **Acción Democrática Nacional (ADN)** se opusieron a la propuesta, acusando a algunos partidos de beneficiarse del transfuguismo.
-
-El Ejecutivo enviará las reformas al presidente **[Daniel Noboa](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")** para que las revise; él podrá vetar total o parcialmente la iniciativa. Entre los cambios propuestos se encuentran ajustes en el procedimiento del juicio político y mecanismos de **participación ciudadana**.
-
-> El Pleno de la Asamblea aprobó, con 77 votos afirmativos, la [#ReformaLOFL](https://twitter.com/hashtag/ReformaLOFL?src=hash&ref_src=twsrc%5Etfw), que establece reglas más claras sobre el proceso legislativo, la responsabilidad de los legisladores, así como los mecanismos de fiscalización y transparencia  
-> Boletín [https://t.co/sFXkdbydiL](https://t.co/sFXkdbydiL) [pic.twitter.com/UVUryEqXOe](https://t.co/UVUryEqXOe)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [December 13, 2024](https://twitter.com/AsambleaEcuador/status/1867646301057560613?ref_src=twsrc%5Etfw)
-
-Sanciones para los ‘camisetazos’ en la Asamblea Nacional
---------------------------------------------------------
-
-Las reformas introducen un endurecimiento de las sanciones para los legisladores que cometan infracciones administrativas graves. Aunque, inicialmente se recomendó **que los asambleístas** que cambien de partido **perdieran su curul,** esta medida fue modificada.
-
-Ahora, se establece una suspensión sin remuneración de **hasta 90 días** para quienes se aparten sin justificación de las decisiones de su bancada. Los **presidentes y vicepresidentes** de la Asamblea los cesará si dejan la bancada que representaban al momento de su designación.
-
-La propuesta también incluye un nuevo tipo de falta administrativa: el **apartarse sin justificación plausible** de las decisiones tomadas por la bancada en asuntos sometidos a votación.
-
-Modificaciones al juicio político
----------------------------------
-
-Otro aspecto relevante de las reformas es la **regulación del proceso del juicio político**. Se permite que un legislador desista de una solicitud de enjuiciamiento político siempre que cuente con el respaldo necesario y antes de que la **Comisión de Fiscalización** haya calificado el trámite.
-
-Esta disposición busca establecer un proceso más claro y evitar abusos en el uso del juicio político, permitiendo una mayor transparencia en las decisiones legislativas.
-
-Mecanismos de participación ciudadana
--------------------------------------
-
-Las reformas también **abordan los mecanismos** de participación ciudadana, introduciendo varias modalidades como **consultas prelegislativas, foros y mesas itinerantes**.
-
-> Pablo Játiva: “[#LeyLavadoActivos](https://twitter.com/hashtag/LeyLavadoActivos?src=hash&ref_src=twsrc%5Etfw) ha sido motivo de controversia pues el Ejecutivo ha malinterpretado el archivo y el problema de fondo es que está dirimiendo y no es competente, sino que el órgano competente es la [@CorteConstEcu](https://twitter.com/CorteConstEcu?ref_src=twsrc%5Etfw). Estamos frente a un régimen autoritario” [pic.twitter.com/wI5t93ZEZ7](https://t.co/wI5t93ZEZ7)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [December 13, 2024](https://twitter.com/AsambleaEcuador/status/1867640908239581249?ref_src=twsrc%5Etfw)
-
-Estas medidas buscan fomentar una mayor interacción entre los ciudadanos y sus representantes en la Asamblea Nacional.
-
-Además, se incluye una disposición que garantiza la custodia del **presidente de la Asamblea**, quien tendrá un edecán designado por las **autoridades competentes**. Una vez que las autoridades publiquen estas reformas en el **Registro Oficial,** entrarán en vigencia durante el actual periodo legislativo.
-
-Volcán Cotopaxi presenta cambios en su actividad sísmica
-========================================================
-
-Emisiones de gas y vapor de agua llegan hasta los 500-600 metros sobre el nivel del cráter. No se registra emisión de ceniza en el Cotopaxi
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen de archivo del volcán Cotopaxi.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-13T151458.238.jpg)
-
-El **Instituto Geofísico** (IG) de la Politécnica Nacional informó este viernes 13 de diciembre de 2024 sobre un cambio en los informes de la actividad del **volcán Cotopaxi.**
-
-### Más noticias
-
-* [Una provincia registró el segundo temblor de la semana este viernes 13 de diciembre](https://www.elcomercio.com/actualidad/ecuador/una-provincia-registro-segundo-temblor-semana-viernes-13-de-diciembre.html "Una provincia registró el segundo temblor de la semana este viernes 13 de diciembre")
-* [Lluvias torrenciales se presentan en Ecuador este viernes 13 de diciembre](https://www.elcomercio.com/actualidad/ecuador/lluvias-clima-ecuador-viernes-13-de-diciembre.html "Lluvias torrenciales se presentan en Ecuador este viernes 13 de diciembre")
-* [Un excoronel y un capitán de la Armada, involucrados en tráfico de droga](https://www.elcomercio.com/actualidad/seguridad/un-excoronel-y-un-capitan-armada-involucrados-en-trafico-de-droga.html "Un excoronel y un capitán de la Armada, involucrados en tráfico de droga")
-
-Informes de monitoreos serán semanales
---------------------------------------
-
-El **Instituto Geofísico** dio a conocer que a partir de este viernes 13 de diciembre los informes de la actividad del **volcán Cotopaxi s**e emitirán de manera semanal y ya no mensual.
-
-Señaló que esta decisión corresponde a **variaciones leves en los parámetros de monitoreo** del volcán del informe de noviembre de 2024.
-
-Este informe señala que a lo largo del mes de **noviembre** se identificaron eventos volcano-tectónicos (11), eventos de largo período(849), tremor de emisión (3) y de Muy largo período (67).
-
-La mayoría de los sismos **son eventos superficiales** y se ubican entre 2 y 5 km bajo el cráter), solo destaca un evento profundo a 13 km bajo el cráter.
-
-Las magnitudes varían en un **rango de 0,4 a 1,5 en la escala** de Magnitud Local de la Vertical.
-
-Actividad sísmica
------------------
-
-En el volcán Cotopaxi se han registrado **señales sísmicas** de alrededor de un minuto de duración. Estas no tienen un inicio claro y en las cuales no se reconocen fases sísmicas, por ello se las llama **tremores.**
-
-Al observar las amplitudes de las señales que se atenúan conforme se alejan del cráter, se considera que las mismas **se originan en perturbaciones** del sistema hidrotermal del volcán.
-
-El informe indica que los eventos de tipo Largo período del mes de noviembre **no tienen señal acústica** asociada, por lo que **se descarta que se originen en explosiones.**
-
-Emisión de gases y ceniza
--------------------------
-
-A través de las cámaras ubicadas alrededor del volcán se observaron emisiones de gas y vapor de agua, con alturas promedio de 100 metros sobre el nivel de la cumbre. Estas emisiones eventualmente llegaron hasta los 500-600 metros sobre el cráter.
-
-En el mes de noviembre, no se registran emisiones de ceniza.
-
-El informe señala que si bien el flujo de gas no ha cambiado, el incremento en el número de medidas válidas indica mayor presencia de gas.
-
-> Informe Mensual [#Cotopaxi](https://twitter.com/hashtag/Cotopaxi?src=hash&ref_src=twsrc%5Etfw) N° 2024-011  
-> miércoles 11 de diciembre de 2024  
-> Nivel de Actividad:  
-> Superficial: Baja  
-> Tendencia Superficial: Ascendente  
-> Interna: Baja  
-> Tendencia Interna: Ascendente  
-> Revisarlo en: [https://t.co/85DRrIyGVv](https://t.co/85DRrIyGVv) [pic.twitter.com/M2i3w5RBhL](https://t.co/M2i3w5RBhL)
-> 
-> — Instituto Geofísico (@IGecuador) [December 11, 2024](https://twitter.com/IGecuador/status/1866902622957080657?ref_src=twsrc%5Etfw)
-
-Actividad esta semana
----------------------
-
-Durante esta semana, se han observado emisiones principalmente de vapor de agua y gases con alturas entre 100 y 900 metros sobre el nivel del cráter.
-
-La zona del volcán ha permanecido parcialmente nublada y se han registrado lluvias ligeras a [moderadas.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-> Informe Semanal [#Cotopaxi](https://twitter.com/hashtag/Cotopaxi?src=hash&ref_src=twsrc%5Etfw) N° 2024-005  
-> viernes 13 de diciembre de 2024  
-> Nivel de Actividad:  
-> Superficial: Baja  
-> Tendencia Superficial: Ascendente  
-> Interna: Baja  
-> Tendencia Interna: Ascendente  
-> Revisarlo en: [https://t.co/U4sT6pdZj1](https://t.co/U4sT6pdZj1) [pic.twitter.com/VAKyFaws7Q](https://t.co/VAKyFaws7Q)
-> 
-> — Instituto Geofísico (@IGecuador) [December 13, 2024](https://twitter.com/IGecuador/status/1867616727389139069?ref_src=twsrc%5Etfw)
-
-Richard Schunke, capitán y multicampeón con IDV
-===============================================
-
-Richard Schunke fue parte de los seis títulos de Independiente del Valle en su historia.
-----------------------------------------------------------------------------------------
-
-![Richard Schunke en la final de la Liga Pro 2021.](https://www.elcomercio.com/wp-content/uploads/2024/12/schunke_1.jpg)
-
-Hablar de **Richard Schunke** es hablar de la historia de Independiente del Valle en los últimos ocho años. El argentino es toda institución dentro de uno de los equipos más ganadores del siglo XXI de Ecuador.
-
-Richard Schunke con el pasar de los años se ganó un espacio en la **historia dorada de Independiente del Valle**. No en vano es el jugador que ganó todos los títulos que los rayados tienen en su corte, pero rica vida institucional.
-
-### Más noticias:
-
-* [Kevin Rodríguez logró victoria agónica en Europa League](https://www.elcomercio.com/deportes/kevin-rodriguez-logro-victoria-agonica-en-europa-league.html "Kevin Rodríguez logró victoria agónica en Europa League")
-* [El Manchester United sufre, pero gana en Europa League](https://www.elcomercio.com/deportes/manchester-united-europa-league-rangers.html "El Manchester United sufre, pero gana en Europa League")
-* [Alexander Domínguez jugó 16 finales con Liga de Quito](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-finales-liga-quito.html "Alexander Domínguez jugó 16 finales con Liga de Quito")
-
-La historia de Richard Schunke
-------------------------------
-
-Richard Hernán Schunke nació el **26 de noviembre de 1991 en la localidad de 25 de Mayo**, que pertenece a la provincia de Misiones, ubicada al noreste del país. Tiene una población de 1,2 millones de personas.
-
-Su debut en el fútbol profesional fue en 2011 en Almagro, club que pertenece al barrio del mismo nombre y forma parte de la **Ciudad Autónoma de Buenos Aires**. Hace local en el estadio Tres de Febrero con una capacidad para 19 000 personas.
-
-Toda su estancia la vivió en el fútbol de ascenso y no tuvo la oportunidad de debutar en la Primera.
-
-En el 2017 fue contratado por **Deportivo Cuenca**. Ese fue el inicio de una carrera en Ecuador llena de grandes satisfacciones para su vida personal y profesional.
-
-El Cuenca peleó en la mitad de la tabla y se quedó en el séptimo puesto con 61 puntos, por delante de equipos como **Liga de Quito (54), Universidad Católica 54), Guayaquil City (45)**, Clan Juvenil (29), y Fuerza Amarilla (28), estos dos últimos descendidos.
-
-![Facebook Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/12/schunke_2-1024x683.jpg)
-
-Facebook Independiente del Valle.
-
-Los títulos de Schunke
-----------------------
-
-Para el 2018 el defensa central fue contratado por **Independiente del Valle**. Hasta ese momento los capitalinos lo más cerca a ganar un título fue en el campeonato nacional de 2013 y la Copa Libertadores 2016.
-
-Con Schunke en el equipo sumaron las coronas de la **Copa Sudamericana 2019 y 2022** y la Recopa Sudamericana. Se añaden la Liga Pro 2021, la Copa Ecuador 2022 y la Supercopa Ecuador 2023.
-
-Según Transfermarkt, tiene nueve **goles marcados con los del Valle** y 16 asistencias.
-
-Uno de esos tantos fue en la final de vuelta de la **Liga Pro de 2021 ante Emelec**. Lo hizo en el George Capwell bajo una torrencial lluvia.
-
-San viernes
------------
-
-Cambios en la movilidad por trabajos en la av. Ladrón de Guevara en Quito
-=========================================================================
-
-Los tranajos en la avenida Ladrón de Guevara se realizarán hasta el 5 de enero de 2025.
----------------------------------------------------------------------------------------
-
-![Los trabajos en la avenida Ladrón de Guevara se iniciaron este viernes 13 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ladron-de-Guecara.jpg)
-
-El inicio de las obras de rehabilitación vial en la **avenida Ladrón de Guevara**, programado para el **viernes 13 de diciembre**, generará ajustes en la movilidad vehicular en el centro norte de Quito[.](https://es.wikipedia.org/wiki/Movilidad "https://es.wikipedia.org/wiki/Movilidad")
-
-Más noticias
-------------
-
-* [Av. Ladrón de Guevara estará cerrada desde el 13 de diciembre, en Quito](https://www.elcomercio.com/actualidad/quito/av-ladron-de-guevara-estara-cerrada-desde-el-13-de-diciembre-en-quito.html "Av. Ladrón de Guevara estará cerrada desde el 13 de diciembre, en Quito")
-* [La Estación Marín Central de la Ecovía en Quito se cierra, así será el servicio](https://www.elcomercio.com/actualidad/quito/ecovia-marin-central-estacion-servicio.html "La Estación Marín Central de la Ecovía en Quito se cierra, así será el servicio")
-* [Levantamiento de hormigón de la Ecovía, ¿derroche de recursos de Quito?](https://www.elcomercio.com/actualidad/quito/levantamiento-hormigon-ecovia-derroche-recursos-quito.html "Levantamiento de hormigón de la Ecovía, ¿derroche de recursos de Quito?")
-
-Las autoridades activarán un plan integral para garantizar la circulación durante las obras, que se extenderán hasta los primeros días de enero de 2025.
-
-Plan de movilidad
------------------
-
-La **Agencia Metropolitana de Tránsito (AMT)** y la **Secretaría de Movilidad** implementarán estrategias para reducir el impacto en el tráfico. Estas incluyen:
-
-* **Rutas alternas** señalizadas para desviar el tráfico.
-* **Carriles habilitados parcialmente** en los tramos de intervención.
-* **Contraflujos** en horarios pico para optimizar los tiempos de desplazamiento.
-
-La AMT detalló que el tramo desde la calle Toledo hasta la calle Andalucía permanecerá cerrado hasta el 18 de diciembre.
-
-Detalles de la intervención en la Ladrón de Guevara
----------------------------------------------------
-
-El cronograma establece jornadas de trabajo de lunes a viernes entre las **07:00 y las 18:00**, y horarios nocturnos de **21:00 a 04:00**.
-
-Durante fines de semana y feriados, las labores se ajustarán al progreso de la obra, con actividades diurnas y nocturnas.
-
-La obra abarcará 623 metros, desde la **Plaza Brasilia (redondel del Coliseo Rumiñahui)** hasta la **avenida 12 de Octubre**, en tres fases:
-
-> 🚧 [#CierreVial](https://twitter.com/hashtag/CierreVial?src=hash&ref_src=twsrc%5Etfw) |  
->   
-> 💡 Por la intervención de la av. Ladrón de Guevara a cargo de 👷🏽‍♂️ [@ObrasQuito](https://twitter.com/ObrasQuito?ref_src=twsrc%5Etfw).  
->   
-> 🛣️ El tramo desde la Toledo hasta la calle Andalucía permanecerá cerrado hasta el 18 de diciembre.  
->   
-> ✅ Planifica tu ruta y sal con tiempo a tu destino.  
->   
-> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/XzrvMiOs4H](https://t.co/XzrvMiOs4H)
-> 
-> — AMTQuito (@AMT\_Quito) [December 12, 2024](https://twitter.com/AMT_Quito/status/1867322935192535143?ref_src=twsrc%5Etfw)
-
-Primera fase: 13 al 18 de diciembre
------------------------------------
-
-Cierre de los dos carriles sur desde la **Plaza Brasilia** hasta la **calle Andalucía**, con habilitación de los carriles norte junto a la **Universidad Politécnica Nacional**.
-
-Segunda fase: 19 al 23 de diciembre
------------------------------------
-
-Cierre de los carriles norte entre la **calle Toledo** y la **calle Andalucía**, con circulación habilitada en los carriles sur.
-
-Tercera fase: 27 de diciembre al 5 de enero
--------------------------------------------
-
-Cierre total entre la **calle Andalucía** y la **avenida 12 de Octubre**. De forma simultánea, iniciará la rehabilitación de la **calle Queseras del Medio**, desde la **avenida 12 de Octubre** hasta la **calle Gran Colombia**, con proyección hacia la **avenida Velasco Ibarra**.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Selena Gomez reafirma su conexión con el español y su cultura 
-==============================================================
-
-Selena Gomez comparte cómo perdió su fluidez en español.
---------------------------------------------------------
-
-![Selena Gomez busca equilibrar sus raíces con la industria angloparlante de Hollywood. Foto: Instagram @selenagomez.](https://www.elcomercio.com/wp-content/uploads/2024/12/Selena-Gomez.jpg)
-
-**[Selena Gomez](https://www.instagram.com/selenagomez/ "https://www.instagram.com/selenagomez/")**, la reconocida **actriz y cantante mexicoamericana**, ha estado en el centro de la atención mediática tras su reciente participación en la película **‘Emilia Pérez’**. En una entrevista para el programa **‘Fresh Air’** de NPR, Gomez habló abiertamente sobre su **pérdida de fluidez en español**, un tema que ha generado tanto **apoyo como críticas**. Desde que comenzó su carrera a los 7 años, la mayoría de sus proyectos han sido en inglés. Esto, según ella, ha llevado a una **desconexión con el idioma** que habla parte de su familia. 
-
-### Más noticias
-
-* [La cifra que pagó Benny Blanco por el anillo de diamante de Selena Gomez](http://La cifra que pagó Benny Blanco por el anillo de diamante de Selena Gomez Este contenido ha sido publicado originalmente por EL COMERCIO. Si vas a hacer uso del mismo, por favor, cita la fuente y haz un enlace hacia la nota original en la dirección: https://www.elcomercio.com/afull/anillo-selena-gomez-compromiso.html)
-* [Se debate si el conflicto entre Derbez y Selena Gomez impactará la carrera del actor](https://www.elcomercio.com/tendencias/trending/eugenio-derbez-selena-gomez-emilia-perez.html "https://www.elcomercio.com/tendencias/trending/eugenio-derbez-selena-gomez-emilia-perez.html")
-
-**La pérdida del español de Selena Gomez** 
--------------------------------------------
-
-**Selena Gomez** explicó que, al mudarse de Texas a California para seguir su sueño con **Disney**, se vio inmersa en un entorno donde **el inglés predominaba**. “Conseguí mi primer trabajo a los 7 años, y la mayoría de mis trabajos desde ese momento fueron en inglés”, comentó, según cita [Univisión](https://www.univision.com/famosos/selena-gomez-eugenio-derbez-olvido-espanol-por-que "https://www.univision.com/famosos/selena-gomez-eugenio-derbez-olvido-espanol-por-que"). Esta experiencia es común entre muchos **mexicano-estadounidenses**, quienes enfrentan un dilema similar al intentar equilibrar sus raíces culturales con las demandas de una industria predominantemente **angloparlante.** 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDh467ZJgWG/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de CNN en Español (@cnnee)](https://www.instagram.com/reel/DDh467ZJgWG/?utm_source=ig_embed&utm_campaign=loading)
-
-A pesar de las **críticas sobre su pronunciación** en ‘Emilia Pérez’, donde interpreta a **Jessi del Monte**, Gomez se ha comprometido a seguir en proyectos en español. “No creo que sea lo último que haga en español y trato de honrar mi cultura tanto como sea posible”, afirmó, a decir de [El Universal](https://es-us.vida-estilo.yahoo.com/selena-gomez-revela-perdi%C3%B3-fluidez-154532701.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucGVycGxleGl0eS5haS8&guce_referrer_sig=AQAAABt2rmgC0dMwaFIO9Rfn6H2t8MBls1YadT1bHy-6eeG6QwnqF4xe3I7WIuS9xDUz0LSclHL5Se2K4PNNwEkzWKBz-GGD6_-dDrcMp45Xd1Z1_DJ58xP2J61-vznq1SY0MeRXCXF78Uu9XB9BHspHxD_dSsFsaDyGWl69put4Ht45 "https://es-us.vida-estilo.yahoo.com/selena-gomez-revela-perdi%C3%B3-fluidez-154532701.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucGVycGxleGl0eS5haS8&guce_referrer_sig=AQAAABt2rmgC0dMwaFIO9Rfn6H2t8MBls1YadT1bHy-6eeG6QwnqF4xe3I7WIuS9xDUz0LSclHL5Se2K4PNNwEkzWKBz-GGD6_-dDrcMp45Xd1Z1_DJ58xP2J61-vznq1SY0MeRXCXF78Uu9XB9BHspHxD_dSsFsaDyGWl69put4Ht45"). 
-
-Este compromiso refleja un deseo profundo de **reconectar con sus raíces** y contribuir a la **representación latina** en Hollywood. 
-
-**Críticas y controversias** 
------------------------------
-
-La **actuación de Selena** ha sido objeto de controversia. **Eugenio Derbez**, destacado actor mexicano, calificó su interpretación como **“indefendible”**, lo que provocó reacciones mixtas entre los fans y críticos, siguiendo con Univisión.  
-
-Sin embargo, **Derbez posteriormente se disculpó** por sus comentarios, al reconocer que la crítica no reflejaba el **esfuerzo que Gomez puso en su papel**, señala El Universal.  
-
-En respuesta a las críticas, **Selena defendió su actuación**: “Lamento haber hecho lo mejor que pude con el tiempo que me dieron”, cita [Reporte Índigo](https://reporteindigo.com/piensa/selena-gomez-revela-por-que-no-habla-bien-espanol-a-pesar-de-tener-raices-mexicanas/ "https://reporteindigo.com/piensa/selena-gomez-revela-por-que-no-habla-bien-espanol-a-pesar-de-tener-raices-mexicanas/").
-
-**Preparación para el papel** 
-------------------------------
-
-Para prepararse para su papel en **‘Emilia Pérez’**, Selena dedicó seis meses a **clases intensivas de español**. Este esfuerzo no solo fue un desafío profesional, sino también una forma de **rendir homenaje a su herencia cultural**. “Me hubiera gustado saber más. Me hubiera gustado saber mucho más de lo que sé”, reflexionó sobre su conexión con el idioma, según cita Univisión.  
-
-La película narra la historia de un **líder del narcotráfico** que finge su muerte y se somete a una **cirugía de reasignación de género**; un papel complejo que requirió no solo habilidades actorales sino también una comprensión profunda del idioma. 
-
-### Te recomendamos:
-
-Gobernador detalla situación en Napo tras protestas contra cárcel de Archidona
-==============================================================================
-
-Las protestas en contra de la construcción de una nueva cárcel en Archidona, en Napo, se mantienen por 11 días.
----------------------------------------------------------------------------------------------------------------
-
-![Organizaciones sociales e indígenas protestan en los exteriores de la Gobernación de Napo](https://www.elcomercio.com/wp-content/uploads/2024/12/carcel-archidona-napo.jpg)
-
-Gary Rivadeneyra, **Gobernador de Napo**, habló de la situación que vive la provincia en medio de las **protestas** que realizan organizaciones sociales e indígenas en contra de la construcción de la **cárcel** en **Archidona**.
-
-### Más noticias
-
-* [Protestas en contra de cárcel en Archidona se intensificaron; Gobernación fue tomada](https://www.elcomercio.com/actualidad/ecuador/protestas-contra-carcel-archidona-gobernacion.html "Protestas en contra de cárcel en Archidona se intensificaron; Gobernación fue tomada")
-* [Cárcel en Archidona: Gobierno, Asamblea y población tomaron decisiones](https://www.elcomercio.com/actualidad/ecuador/carcel-archidona-gobierno-asamblea-poblacion-decisiones.html "Cárcel en Archidona: Gobierno, Asamblea y población tomaron decisiones")
-* [Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-cambio-gobernado-napo-carcel.html "Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel")
-
-Protestas se intensificaron en Archidona
-----------------------------------------
-
-La noche de este jueves 12 de diciembre de 2024**, los reclamos se intensificaron** con la toma de la **Gobernación de Napo**. Los representantes de la denominada **Asamblea Popular Permanente**, opositora a la obra, afirmaron que las acciones de protesta **se radicalizarán** si no hay acuerdos.
-
-Rivadeneyra se refirió a este tema en una entrevista dada este viernes 13 a Radio Pública FM. El Gobernador manifestó que durante los hechos de ayer **no se registraron personas heridas**.
-
-“No hubo ninguna represión por parte de la **Policía Nacional** o las **Fuerzas Armadas**, evitamos las agresiones para que la gente realice la **toma simbólica** de la Gobernación”, comentó.
-
-Para el funcionario, las movilizaciones “tienen un claro **tinte político** que lo impulsan determinados actores”.
-
-“Ayer comprobamos que las protestas tienen un fondo político, las fomentan actores en búsqueda de **protagonismo** para las próximas elecciones. Detectamos varios alcaldes, asambleístas, políticos que están detrás de todo esto”, mencionó el Gobernador[.](https://es.wikipedia.org/wiki/Archidona_(Ecuador) "https://es.wikipedia.org/wiki/Archidona_(Ecuador)")
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDgSPQXKpoj/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DDgSPQXKpoj/?utm_source=ig_embed&utm_campaign=loading)
-
-Napo mantiene una ‘relativa calma’, aseguró el Gobernador
----------------------------------------------------------
-
-Sobre la situación de la provincia luego de las **intensas protestas** de este jueves, Rivadeneyra indicó que Napo amaneció con “**relativa calma**“.
-
-“El día de hoy están unos 20 manifestantes en los exteriores de la Gobernación, ayer habían unas 1 000 personas”, señaló.
-
-Sin embargo, el Gobernador confirmó que las vías de **entrada y salida** a Archidona, como a Napo, se mantienen cerradas. Mientras que la **Y de Baeza** está abierta al paso vehicular.
-
-“Buscaremos que se respeten los canales humanitarios, que los **carros de emergencia**, camiones con víveres y gasolina puedan ingresar, **tenemos un leve desabastecimiento**“, mencionó en su entrevista Rivadeneyra.
-
-Asimismo, explicó que se están tomando todas las precauciones para **evitar daños** a sectores estratégicos: “La Policía y el Ejército están prevenidos de daños en ciertos lugares, tenemos alertas de que quieren perjudicar, por ejemplo, el **bloque 21 de Yuralpa**“, dijo.
-
-Nueva cárcel en Archidona acogerá a 800 reos
---------------------------------------------
-
-Según el representante del Gobierno en Napo, “hubo mucha **desinformación** en el tema de la cárcel de Archidona”.
-
-El funcionario explicó que la nueva construcción no está destinada para más de 1 000 personas privadas de la libertad (PPL), “como algunos sectores afirman”, sino para **800**.
-
-“Lo que haremos es una repotenciación del centro penitenciario, actualmente ya hay una cárcel acá, están 300 reos viviendo en una infraestructura que está cerca de caerse”, dijo Rivadeneyra.
-
-“La nueva cárcel está pensada para ser un **centro regional**, es decir, para las personas que comentan los delitos en la Amazonía”, añadió.
-
-El principal objetivo, a decir por el Gobernador, es **reducir los amotinamientos y fugas**; y cuidar a los detenidos por delitos leves.
-
-“Tenemos al menos 150 ppl con delitos graves como asesinatos, que están mezclados con ciudadanos que cometieron **acciones leves**, queremos proteger a estas personas”, enfatizó.
-
-El proceso para la construcción de la nueva cárcel en Archidona **ya está adjudicado**, mas no está firmado el contrato debido a **acciones de protección** que se presentaron por organizaciones sociales. El 17 de diciembre las solicitudes serán tratadas.
-
-¿Qué contenían los bultos encontrados en un complejo judicial de Guayaquil?
-===========================================================================
-
-Agentes de la Policía hallaron inusual contenido en los bultos del complejo judicial de Guayaquil.
---------------------------------------------------------------------------------------------------
-
-![Bultos encontrados en un complejo judicial de Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T115106.404.jpg)
-
-La aparición de **dos bultos sospechoso**s en los exteriores del **complejo judicial Albán Borja** movilizó a agentes policiales y unidades especializadas este viernes 13 de diciembre de 2024.
-
-### Más noticias
-
-* [Cortes de luz en Guayaquil del lunes 16 al jueves 19 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-en-guayaquil-del-lunes-16-al-jueves-19-de-diciembre.html "Cortes de luz en Guayaquil del lunes 16 al jueves 19 de diciembre")
-* [Policía desarticula un centro de videovigilancia clandestino en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/policia-desarticula-centro-de-videovigilancia-clandestino-guayaquil.html "Policía desarticula un centro de videovigilancia clandestino en Guayaquil")
-* [Adulto mayor falleció tras ser liberado de un secuestro en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/adulto-mayor-fallece-tras-ser-liberado-secuestro-guayaquil.html "Adulto mayor falleció tras ser liberado de un secuestro en Guayaquil")
-
-El hallazgo de lo**s bultos con forma humana fue reportado a las 06:45** de este viernes por un guardia que realizaba rondas en el lugar. Al recibir la alerta, personal del **Grupo de Intervención y Rescate (GIR)** acudió para realizar una revisión inicial con canes y asegurar el área.
-
-Tras una inspección minuciosa, se confirmó que los paquetes **no contenían restos humanos**.
-
-Inspección y hallazgos en los bultos
-------------------------------------
-
-El procedimiento incluyó una **verificación preliminar de los alrededores y, posteriormente**, la apertura de los bultos a partir de las 09:00. Criminalística confirmó que en el interior **había papel periódico, descartando también la presencia de explosivos**.
-
-> IMPORTANTE ||  
->   
-> Ante la publicación que circula en redes sociales sobre dos bultos en el Complejo Judicial Albán Borja de [#Guayaquil](https://twitter.com/hashtag/Guayaquil?src=hash&ref_src=twsrc%5Etfw), unidades especializadas de la Policía Nacional acudieron al lugar, logrando verificar que las bolsas estaban llenas de papel. [#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/uz0MU00gy3](https://t.co/uz0MU00gy3)
-> 
-> — @PolicíaDMGZona8 (@PoliciaDMGZona8) [December 13, 2024](https://twitter.com/PoliciaDMGZona8/status/1867579706347753804?ref_src=twsrc%5Etfw)
-
-Jorge Loaiza, jefe de Operaciones del distrito Florida, indicó que revisan las **cámaras de seguridad** para identificar cómo y cuándo dejaron los paquetes.
-
-El hecho coincidió con la programación de una audiencia de alto perfil en contra de un presunto miembro de un **grupo de delincuencia organizada (GDO)**. “Por este tipo de audiencias tratan de **suspender con estos eventos**. Con estas alertas tratan de amedrentar a jueces”, manifestó Loaiza.
-
-Suspensión de actividades en el complejo judicial de Guayaquil
---------------------------------------------------------------
-
-Por la situación, suspendieron temporalmente las actividades en el complejo judicial para el acceso del personal judicial y del público. No obstante, se informó que las audiencias telemáticas continuarían según lo previsto.
-
-> Nuestra vocación de [#ServirYProteger](https://twitter.com/hashtag/ServirYProteger?src=hash&ref_src=twsrc%5Etfw) es permanente.[#BuenViernes](https://twitter.com/hashtag/BuenViernes?src=hash&ref_src=twsrc%5Etfw) [#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/cZEB4kfDwz](https://t.co/cZEB4kfDwz)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [December 13, 2024](https://twitter.com/PoliciaEcuador/status/1867562427837297122?ref_src=twsrc%5Etfw)
-
-Este incidente se produce apenas tres días después de que se **detectara un dispositivo explosivo en el mismo lugar**, dirigido a un juez que labora en esa dependencia. Funcionarios judiciales permanecieron en los exteriores **mientras se desarrollaban las inspecciones y verificaciones necesarias**.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
