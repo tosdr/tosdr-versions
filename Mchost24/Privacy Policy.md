@@ -1,6 +1,6 @@
-Unser Community Discord ist aktiv. Schau gerne mal vorbei.
+Black Week Angebot: Hol dir jetzt 40 % extra Guthaben zu jeder Aufladung!
 
-[Zu Discord](https://discord.com/invite/gSSUc8R)
+[Anmelden](#)
 
 [](#)
 
