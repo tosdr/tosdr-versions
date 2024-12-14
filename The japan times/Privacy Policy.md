@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 14, 2024](https://www.japantimes.co.jp/archive/2024/12/14/ "archive page")
+[December 15, 2024](https://www.japantimes.co.jp/archive/2024/12/15/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -468,21 +468,21 @@ Revised June 1, 2022
 
   [![The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439917.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.")](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
 
-[New Japanese condos now cost 10 times average salary, study shows](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
+[Trilateral fighter project takes big step with joint venture deal](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
 
-  [![Tokyo has the highest price-to-income ratio for high-rise condominiums in the country, at 17.78 times.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439829.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo has the highest price-to-income ratio for high-rise condominiums in the country, at 17.78 times.")](https://www.japantimes.co.jp/business/2024/12/12/economy/japan-condo-prices/ "New Japanese condos now cost 10 times average salary, study shows")
+  [![Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439993.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.")](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
 
-[28-year-old widow of ‘Don Juan of Kishu’ acquitted of his murder](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/don-juan-kishu-ruling/ "28-year-old widow of ‘Don Juan of Kishu’ acquitted of his murder")
+[Ruling bloc proposes ¥1.23 million minimum threshold for taxable income](https://www.japantimes.co.jp/news/2024/12/13/japan/politics/ruling-bloc-taxable-income-proposal/ "Ruling bloc proposes ¥1.23 million minimum threshold for taxable income")
 
-  [![A handout photo shows Kosuke Nozaki (right), who was found dead of a drug overdose, and Saki Sudo, who was his wife.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439738.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A handout photo shows Kosuke Nozaki (right), who was found dead of a drug overdose, and Saki Sudo, who was his wife.")](https://www.japantimes.co.jp/news/2024/12/12/japan/crime-legal/don-juan-kishu-ruling/ "28-year-old widow of ‘Don Juan of Kishu’ acquitted of his murder")
+  [![Commuters in Tokyo in March 2023. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/440120.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Commuters in Tokyo in March 2023. ")](https://www.japantimes.co.jp/news/2024/12/13/japan/politics/ruling-bloc-taxable-income-proposal/ "Ruling bloc proposes ¥1.23 million minimum threshold for taxable income")
 
-[JR East announces 10-year plan to drastically overhaul Suica](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
+[The year that Shohei Ohtani achieved 'yokozuna' status … in the market](https://www.japantimes.co.jp/life/2024/12/13/lifestyle/2024-hit-products-japan/ "The year that Shohei Ohtani achieved 'yokozuna' status … in the market")
 
-  [![The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439434.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The East Japan Railway Shinjuku Station in Tokyo. Within the next 10 years, JR East will develop automated walk-through gate technology so that passengers can enter the train platform without having to tap their Suica card or phone on the ticket gates. ")](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
+  [![Shohei Ohtani's prowress on the diamond translated into an outsized influence on Japan's consumer trends this year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439307.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani's prowress on the diamond translated into an outsized influence on Japan's consumer trends this year.")](https://www.japantimes.co.jp/life/2024/12/13/lifestyle/2024-hit-products-japan/ "The year that Shohei Ohtani achieved 'yokozuna' status … in the market")
 
-[Danger for yen emerges with speculation BOJ may stand pat longer](https://www.japantimes.co.jp/business/2024/12/12/markets/yen-risk-boj/ "Danger for yen emerges with speculation BOJ may stand pat longer")
+[Japan updates disaster shelter guidelines](https://www.japantimes.co.jp/news/2024/12/13/japan/shelter-guidelines-update/ "Japan updates disaster shelter guidelines")
 
-  [![The yen slumped to its weakest in level in more than two weeks on Wednesday as traders reacted to a report that BOJ officials saw little cost to waiting before raising rates.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439874.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The yen slumped to its weakest in level in more than two weeks on Wednesday as traders reacted to a report that BOJ officials saw little cost to waiting before raising rates.")](https://www.japantimes.co.jp/business/2024/12/12/markets/yen-risk-boj/ "Danger for yen emerges with speculation BOJ may stand pat longer")
+  [![Evacuees from an area flooded by the Kinugawa river, in Joso, Ibaraki Prefecture, in 2015](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/440119.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Evacuees from an area flooded by the Kinugawa river, in Joso, Ibaraki Prefecture, in 2015")](https://www.japantimes.co.jp/news/2024/12/13/japan/shelter-guidelines-update/ "Japan updates disaster shelter guidelines")
 
 [_'Kin'_ selected as the kanji of 2024 after strong year for Japanese athletes](https://www.japantimes.co.jp/news/2024/12/12/japan/japan-2024-kanji-of-the-year/ "'Kin' selected as the kanji of 2024 after strong year for Japanese athletes")
 
@@ -523,9 +523,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[South Korean president impeached after martial law declaration](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached after martial law declaration")
-
-25 mins ago
-
-[Who is Han Duck-soo, South Korea's acting president after Yoon impeachment?](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/han-duck-soo-profile/ "Who is Han Duck-soo, South Korea's acting president after Yoon impeachment?")
-
-1 hour ago
-
-[Observing a minute of silence for Ukraine's fallen soldiers](https://www.japantimes.co.jp/news/2024/12/14/world/society/ukraine-preserve-war-memory/ "Observing a minute of silence for Ukraine's fallen soldiers")
+[Japan ready to team up with Trump over North Korea abduction issue](https://www.japantimes.co.jp/news/2024/12/14/japan/politics/north-korea-abductions-trump-cooperation/ "Japan ready to team up with Trump over North Korea abduction issue")
 
 2 hours ago
 
-[Ishiba urges deeper G7 security cooperation as North Korea gets closer to Russia](https://www.japantimes.co.jp/news/2024/12/14/japan/politics/japan-ukraine-g7-ishiba/ "Ishiba urges deeper G7 security cooperation as North Korea gets closer to Russia")
-
-2 hours ago
-
-[Macron hands new French PM the tough job of managing Le Pen](https://www.japantimes.co.jp/news/2024/12/14/world/politics/france-new-prime-minister-tough-job/ "Macron hands new French PM the tough job of managing Le Pen")
+[South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
 
 3 hours ago
+
+[Protesters in South Korea rejoice as lawmakers impeach Yoon](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/protesters-rejoice-yoon-impeachment/ "Protesters in South Korea rejoice as lawmakers impeach Yoon")
+
+4 hours ago
+
+[U.S. Marines begin to relocate from Okinawa to Guam](https://www.japantimes.co.jp/news/2024/12/14/japan/okinawa-marines-guam-relocation/ "U.S. Marines begin to relocate from Okinawa to Guam")
+
+4 hours ago
+
+[Tokyo police seek public's help on Setagaya family murder 24 years ago](https://www.japantimes.co.jp/news/2024/12/14/japan/crime-legal/setagaya-murder-police-information/ "Tokyo police seek public's help on Setagaya family murder 24 years ago")
+
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
