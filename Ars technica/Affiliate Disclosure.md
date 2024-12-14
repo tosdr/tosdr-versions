@@ -84,17 +84,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: The optical disc onslaught continues, with LG quitting Blu-ray players](https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2162965259-768x432.jpg)](https://arstechnica.com/gadgets/2024/12/the-optical-disc-onslaught-continues-with-lg-quitting-blu-ray-players/)
+1. [![Listing image for first story in Most Read: The US military is now talking openly about going on the attack in space](https://cdn.arstechnica.net/wp-content/uploads/2024/12/spoc_spaceplane-768x432.jpg)](https://arstechnica.com/space/2024/12/the-us-military-is-now-talking-openly-about-going-on-the-attack-in-space/)
     
-    1. [The optical disc onslaught continues, with LG quitting Blu-ray players](https://arstechnica.com/gadgets/2024/12/the-optical-disc-onslaught-continues-with-lg-quitting-blu-ray-players/)
+    1. [The US military is now talking openly about going on the attack in space](https://arstechnica.com/space/2024/12/the-us-military-is-now-talking-openly-about-going-on-the-attack-in-space/)
     
-2. 2. [Russia takes unusual route to hack Starlink-connected devices in Ukraine](https://arstechnica.com/security/2024/12/russia-takes-unusual-route-to-hack-starlink-connected-devices-in-ukraine/)
+2. 2. [Twirling body horror in gymnastics video exposes AI’s flaws](https://arstechnica.com/information-technology/2024/12/twirling-body-horror-in-gymnastics-video-exposes-ais-flaws/)
     
-3. 3. [Intel Arc B580 review: A $249 RTX 4060 killer, one-and-a-half years later](https://arstechnica.com/gadgets/2024/12/review-intel-arc-b580-is-a-compelling-if-incredibly-tardy-250-midrange-gpu/)
+3. 3. [Rocket Report: Chinese national flies drone near Falcon 9, Trouble down under](https://arstechnica.com/space/2024/12/rocket-report-ukrainian-launch-firm-finds-maine-home-long-march-8a-debut-near/)
     
-4. 4. [Back where it started: “Do Not Track” removed from Firefox after 13 years](https://arstechnica.com/gadgets/2024/12/firefox-one-of-the-first-do-not-track-supporters-no-longer-offers-it/)
+4. 4. [The optical disc onslaught continues, with LG quitting Blu-ray players](https://arstechnica.com/gadgets/2024/12/the-optical-disc-onslaught-continues-with-lg-quitting-blu-ray-players/)
     
-5. 5. [Twirling body horror in gymnastics video exposes AI’s flaws](https://arstechnica.com/information-technology/2024/12/twirling-body-horror-in-gymnastics-video-exposes-ais-flaws/)
+5. 5. [Back where it started: “Do Not Track” removed from Firefox after 13 years](https://arstechnica.com/gadgets/2024/12/firefox-one-of-the-first-do-not-track-supporters-no-longer-offers-it/)
     
 
 Customize
