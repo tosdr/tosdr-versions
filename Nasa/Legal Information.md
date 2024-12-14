@@ -76,7 +76,7 @@ article2 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/persever
 
 ### Hubble Images a Grand Spiral
 
-article23 hours ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![What’s Up: December 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/parkcityutmeteor-credit-nasa-bill-dunford-jpg.webp)
+article1 day ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![What’s Up: December 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/parkcityutmeteor-credit-nasa-bill-dunford-jpg.webp)
 
 5 min read
 
@@ -247,7 +247,7 @@ Back
 
 ### Hubble Images a Grand Spiral
 
-article 23 hours ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Roman Integrated Payload Assembly](https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy-2.jpg?w=819)
+article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Roman Integrated Payload Assembly](https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy-2.jpg?w=819)
 
 4 min read
 
@@ -275,7 +275,7 @@ article 2 days ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-ken
 
 ### 30 Years Ago: NASA Selects its 15th Group of Astronauts 
 
-article 4 days ago](https://www.nasa.gov/history/30-years-ago-nasa-selects-its-15th-group-of-astronauts/)[![](https://images-assets.nasa.gov/image/iss038e020234/iss038e020234~large.jpg?w=1920&h=1275&fit=clip&crop=faces%2Cfocalpoint)
+article 5 days ago](https://www.nasa.gov/history/30-years-ago-nasa-selects-its-15th-group-of-astronauts/)[![](https://images-assets.nasa.gov/image/iss038e020234/iss038e020234~large.jpg?w=1920&h=1275&fit=clip&crop=faces%2Cfocalpoint)
 
 7 min read
 
@@ -335,7 +335,7 @@ article 3 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/ingenui
 
 ### Hubble Images a Grand Spiral
 
-article 23 hours ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Roman Integrated Payload Assembly](https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy-2.jpg?w=819)
+article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Roman Integrated Payload Assembly](https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy-2.jpg?w=819)
 
 4 min read
 
@@ -357,13 +357,13 @@ article 3 days ago](https://science.nasa.gov/missions/webb/found-first-actively-
 
 ### Amendment 83: New Opportunity: A.65 Responsive Science Initiatives Research
 
-article 15 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-83-new-opportunity-a-65-responsive-science-initiatives-research/)[![Hubble Images a Grand Spiral](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC5643_potw2450a.jpg)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-83-new-opportunity-a-65-responsive-science-initiatives-research/)[![Hubble Images a Grand Spiral](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC5643_potw2450a.jpg)
 
 2 min read
 
 ### Hubble Images a Grand Spiral
 
-article 23 hours ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Amendment 82: A.48 Commercial Satellite Data Earth Science and Applications Final Text and Due Dates Released](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/svs/a000000/a004700/a004745/landsat_w_sentinel_v2_ls8ls9sAsB_fade_08_60fps_4k_3240_print.jpg)
+article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Amendment 82: A.48 Commercial Satellite Data Earth Science and Applications Final Text and Due Dates Released](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/svs/a000000/a004700/a004745/landsat_w_sentinel_v2_ls8ls9sAsB_fade_08_60fps_4k_3240_print.jpg)
 
 2 min read
 
@@ -379,7 +379,7 @@ article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### High-Power Advanced Cable Technology
 
-article 13 hours ago](https://www.nasa.gov/hiact/)[![A man wearing a blue hard hat stands next to a large cylinder-shaped rig while operating it.](https://www.nasa.gov/wp-content/uploads/2024/12/dsr-1.jpg?w=819)
+article 22 hours ago](https://www.nasa.gov/hiact/)[![A man wearing a blue hard hat stands next to a large cylinder-shaped rig while operating it.](https://www.nasa.gov/wp-content/uploads/2024/12/dsr-1.jpg?w=819)
 
 2 min read
 
@@ -433,7 +433,7 @@ article 3 days ago](https://www.nasa.gov/learning-resources/moon-tree-progress-s
 
 ### NASA Technologies Aim to Solve Housekeeping’s Biggest Issue – Dust
 
-article 16 hours ago](https://www.nasa.gov/directorates/stmd/nasa-technologies-aim-to-solve-housekeepings-biggest-issue-dust/)[![Children sitting in a circle around a newly planted Moon tree and learning about NASA's Artemis I mission.](https://www.nasa.gov/wp-content/uploads/2024/12/img-7413-adria-gillespie.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/directorates/stmd/nasa-technologies-aim-to-solve-housekeepings-biggest-issue-dust/)[![Children sitting in a circle around a newly planted Moon tree and learning about NASA's Artemis I mission.](https://www.nasa.gov/wp-content/uploads/2024/12/img-7413-adria-gillespie.jpg?w=1024)
 
 3 min read
 
