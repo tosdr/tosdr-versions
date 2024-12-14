@@ -7,6 +7,7 @@
 * [Conflict of Interest Disclosure Form](https://isrii.org/conflict-of-interest-disclosure-form/)
 * [ISRII 13th Scientific Meeting](https://isrii.org/isrii-13th-scientific-meeting/)
 * [2025 Leadership Election](https://isrii.org/2025-leadership-election/)
+* [Peer Connection and Mentoring Program](https://isrii.org/peer-connection-and-mentoring-program/)
 
 [![ISRII](http://isrii.org/content/uploads/2024/09/isrii-logo-sm1.png)](https://isrii.org/)
 
