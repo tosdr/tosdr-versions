@@ -14,7 +14,7 @@ Menu
     
     * [Thousands of Syrians celebrate during first Friday prayers since Assad's fall](https://apnews.com/article/syria-friday-prayers-demonstrations-4667db0171da539e79662d1de23bd921)
     * [Russia targets Ukrainian infrastructure with a massive attack by cruise missiles and drones](https://apnews.com/article/russia-ukraine-war-aerial-attack-december-13-2024-801d7ba2438ea021d8568502f803bb3e)
-    * [Who was in ousted Syrian President Assad's inner circle and where are they now?](https://apnews.com/article/bashar-assad-maher-inner-circle-syria-3d6a78b643e6515a1b89ef5f1b9057f7)
+    * [US military flies American released from Syrian prison to Jordan, officials say](https://apnews.com/article/syria-timmerman-assad-timmerman-443d1c3b2b9cf551cdcfdff22bdcedc9)
     
     Newsletters
     
@@ -30,8 +30,8 @@ Menu
     
     TOP STORIES
     
-    * [McKinsey & Company agrees to pay $650M for helping Purdue Pharma boost opioid sales](https://apnews.com/article/mckinsey-justice-department-criminal-penalty-opioids-crisis-d47d1bc1c4e14288927c2aea2369b789)
-    * [Woman who falsely accused Duke lacrosse players of rape in 2006 publicly admits she lied](https://apnews.com/article/duke-lacrosse-false-rape-crystal-mangum-2a7bf854f4a640158e51c89e2a209ef8)
+    * [Texas' abortion pill lawsuit against New York doctor marks new challenge to interstate telemedicine](https://apnews.com/article/abortion-pills-lawsuit-shield-laws-texas-telemedicine-74c9b7d5c3c152e4c8f199b29132daec)
+    * [Drones, planes or UFOs? Americans abuzz over mysterious New Jersey sightings](https://apnews.com/article/drones-new-jersey-buzz-6ef6cfdd5dd6508da22b3c3a1d2f6718)
     * [Parts of Midwest brace for ice; Michigan first responders dash to safety during major crash](https://apnews.com/article/freezing-rain-ice-midwest-47a29adfac6c8ad93f92b705686785c6)
     
     Newsletters
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
+    * [US military flies American released from Syrian prison to Jordan, officials say](https://apnews.com/article/syria-timmerman-assad-timmerman-443d1c3b2b9cf551cdcfdff22bdcedc9)
     * [Only 3 in 10 are highly confident about Trump's Cabinet picks: AP-NORC poll](https://apnews.com/article/trump-cabinet-administration-biden-poll-be16ac992769e9c4636854eee7999dfb)
-    * [Veteran Daniel Penny, acquitted in NYC subway chokehold, will join Trump's suite at football game](https://apnews.com/article/daniel-perry-chokehold-vance-army-navy-227774aa980f18ee1c9647492e1dcfbe)
-    * [Watchdog finds FBI intelligence missteps before Jan. 6 riot, but no undercover agents were present](https://apnews.com/article/justice-department-inspector-general-capitol-riot-jan-6-79c7ea02cf66c874f9201ae8e9294239)
+    * [Trump wants to turn the clock on daylight saving time](https://apnews.com/article/trump-daylight-saving-time-36ccbf61bea70aaac0f5c43b8029957c)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
+    * [Pro Football Hall of Famer Randy Moss says he's being treated for cancer outside his bowel duct](https://apnews.com/article/randy-moss-85741a3a9bd6e80cf4d8a64fba8e5f16)
     * [Lindsey Vonn to enter World Cup ski races next weekend in Switzerland in her comeback at age 40](https://apnews.com/article/lindsey-vonn-ski-racing-acdc37bed64444ee601b56f8cf5f965c)
-    * [Veteran Daniel Penny, acquitted in NYC subway chokehold, will join Trump's suite at football game](https://apnews.com/article/daniel-perry-chokehold-vance-army-navy-227774aa980f18ee1c9647492e1dcfbe)
-    * [The Rams get 4 field goals to beat the 49ers 12-6 in a sloppy game](https://apnews.com/article/rams-49ers-score-bb42079ea0a1e616882b898ff0f9bafd)
+    * [De'Vondre Campbell won't be part of the 49ers after his refusal to enter a game, Kyle Shanahan says](https://apnews.com/article/49ers-devondre-campbell-b3517612e22b520bb7c25ceeb65c6a48)
     
     Newsletters
     
@@ -95,8 +95,8 @@ Menu
     TOP STORIES
     
     * [How to write a holiday rom-com for TV, according to the experts](https://apnews.com/article/hallmark-christmas-movie-holiday-romcom-writing-d4451b1563a274f490d9505fa23afd27)
-    * [How Timothée Chalamet transformed into Bob Dylan](https://apnews.com/article/timothee-chalamet-bob-dylan-complete-unknown-interview-982582d6c65895b7d461a1b97ed9e63e)
-    * [Ice Cube's mind stays on music with other endeavors from BIG3 to NFL partnership keeping him busy](https://apnews.com/article/ice-cube-man-down-db3b74c4d3d127302a871bc5a85304a3)
+    * [Saudi Arabia banned film for 35 years. The Red Sea festival is just one sign of the industry's rise](https://apnews.com/article/red-sea-film-festival-saudi-cinema-13c9762d8b72066987437179fa87bb2a)
+    * [Unique among 'Person of the Year' designees, Donald Trump gets a fact-check from Time magazine](https://apnews.com/article/time-trump-fact-check-3e1c54007f0486ac64f146948f7c4376)
     
 * [Business](https://apnews.com/business)
     
@@ -106,9 +106,9 @@ Menu
     
     TOP STORIES
     
+    * [Supreme Court will take up a challenge related to California's tough vehicle emissions standards](https://apnews.com/article/supreme-court-california-auto-emissions-climate-change-7aff58362d99dd0892b7a8540f3382c1)
     * [Musk says US is demanding he pay penalty over disclosures of his Twitter stock purchases](https://apnews.com/article/musk-sec-twitter-stock-purchases-penalty-letter-0eddad3db779c5b07988d7b9886b10b2)
     * [Senate begins final push to expand Social Security benefits for millions of people](https://apnews.com/article/senate-social-security-bill-cc9ba7856c1517bc4c9f8cde050954af)
-    * [Trump offers support for dockworkers union by saying ports shouldn't install more automated systems](https://apnews.com/article/trump-dockworkers-union-contract-trade-25b0f9922c8fb8c9b3c3c6ca56dadf47)
     
 * [Science](https://apnews.com/science)
     
@@ -126,9 +126,9 @@ Menu
     
     TOP STORIES
     
+    * [FACT FOCUS: Inspector general’s Jan. 6 report misrepresented as proof of FBI setup](https://apnews.com/article/fact-check-capitol-riot-fbi-justice-department-598b775804bdcef9cb065a67a4236033)
     * [FACT FOCUS: Vermont ruling does not say schools can vaccinate children without parental consent](https://apnews.com/article/fact-check-vermont-supreme-court-vaccination-ruling-0256fc7ad888230ee8dc51f6fe0d479a)
     * [FACT FOCUS: Posts misrepresent Biden administration spending on EV charging stations](https://apnews.com/article/fact-check-electric-vehicle-charging-stations-75-billion-buttigieg-1ddcd6ee193fc1847e5401c95c016ec3)
-    * [FACT FOCUS: Election officials knock down Starlink vote rigging conspiracy theories](https://apnews.com/article/fact-check-election-starlink-musk-steal-trump-38757341656d4f44243076d6356cb68b)
     
 * [Oddities](https://apnews.com/oddities)
     
@@ -213,9 +213,9 @@ Menu
     
     TOP STORIES
     
+    * [OpenAI's legal battle with Elon Musk reveals internal turmoil over avoiding AI 'dictatorship'](https://apnews.com/article/elon-musk-openai-lawsuit-sam-altman-chatgpt-36bc55dbb8b4f9e1e5675ff7564e5fa0)
     * [OpenAI's Altman will donate $1 million to Trump's inaugural fund](https://apnews.com/article/sam-altman-donald-trump-openai-3b7a87037f3718eb3edc73e94be8a61a)
     * [Nearly half of US teens are online 'constantly,' Pew report finds](https://apnews.com/article/teenagers-social-media-internet-pew-survey-02defc5b53dc4216da1efa63c82a30af)
-    * [US updates a science and technology pact with China to reflect growing rivalry and security threats](https://apnews.com/article/china-science-tech-agreement-f15ec895ce37b793f0418000ff8a11de)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -233,9 +233,9 @@ Menu
     
     TOP STORIES
     
+    * [On Gita Jayanti, Hare Krishnas celebrate the birth of the sacred text Bhagavad Gita](https://apnews.com/article/hindu-scripture-hare-krishna-bhagavad-gita-07b3aca4ef17bece83929aa91c523c68)
     * [How to write a holiday rom-com for TV, according to the experts](https://apnews.com/article/hallmark-christmas-movie-holiday-romcom-writing-d4451b1563a274f490d9505fa23afd27)
     * ['Crown of Thorns' returns to Notre Dame Cathedral for public veneration](https://apnews.com/article/notre-dame-france-relc-crown-of-thorns-f06a9d707663ebd407d78282530b3dd5)
-    * [Millions mark Mexico's Virgin of Guadalupe Day but calls for a truce in drug violence go unheeded](https://apnews.com/article/mexico-virgin-guadalupe-pilgrims-a834651291a20650426bff6486d7fcec)
     
     Newsletters
     
@@ -252,8 +252,8 @@ Menu
     * [Encuesta: Pocos estadounidenses tienen confianza en los seleccionados por Trump para su gabinete](https://apnews.com/article/eeuu-elecciones-trump-nuevo-gobierno-encuesta-fa5b30ade166aed70ff1f96abc2acc73)
     * [Destacado abogado de derechos humanos abandona Corte Penal Internacional por no procesar a Venezuela](https://apnews.com/article/venezuela-cpi-claudio-grossman-maduro-e9f88b398937eb39be06d986cc3b99f3)
     * [Miles de sirios celebran en Damasco en primer viernes de oraciones desde caída de Assad](https://apnews.com/article/siria-damasco-guerra-assad-festejos-4a07496ad7d360f196cf318cc5d51973)
-    * [Macron nombra a su aliado centrista Bayrou nuevo primer ministro de Francia](https://apnews.com/article/francia-macron-primer-ministro-centrista-91f7595554fa288f3da17fa636e4c9f6)
-    * [Oficina de DDHH de la ONU en Venezuela reanuda parcialmente sus actividades tras cierre](https://apnews.com/article/venezuela-onu-derechos-humanos-maduro-3781381d290164ace2357b06dceacb3a)
+    * [Jueza de Miami aprueba fianza para gemelos empresarios de bienes raíces acusados de tráfico sexual](https://apnews.com/article/eeuu-ny-trafico-sexual-alexander-florida-official-8601fd3a1c83dc74eb8e2f69c9e33751)
+    * [¿Drones, aviones u ovnis? Misteriosos avistamientos en Nueva Jersey causan revuelo](https://apnews.com/article/drones-jersey-luces-cielo-ovnis-599eea4b200ffa048b24bda90745b489)
     
 * [Quizzes](https://apnews.com/quizzes)
     
@@ -416,7 +416,7 @@ Submit Search
     
     * [Thousands of Syrians celebrate during first Friday prayers since Assad's fall](https://apnews.com/article/syria-friday-prayers-demonstrations-4667db0171da539e79662d1de23bd921)
     * [Russia targets Ukrainian infrastructure with a massive attack by cruise missiles and drones](https://apnews.com/article/russia-ukraine-war-aerial-attack-december-13-2024-801d7ba2438ea021d8568502f803bb3e)
-    * [Who was in ousted Syrian President Assad's inner circle and where are they now?](https://apnews.com/article/bashar-assad-maher-inner-circle-syria-3d6a78b643e6515a1b89ef5f1b9057f7)
+    * [US military flies American released from Syrian prison to Jordan, officials say](https://apnews.com/article/syria-timmerman-assad-timmerman-443d1c3b2b9cf551cdcfdff22bdcedc9)
     
     Newsletters
     
@@ -432,8 +432,8 @@ Submit Search
     
     TOP STORIES
     
-    * [McKinsey & Company agrees to pay $650M for helping Purdue Pharma boost opioid sales](https://apnews.com/article/mckinsey-justice-department-criminal-penalty-opioids-crisis-d47d1bc1c4e14288927c2aea2369b789)
-    * [Woman who falsely accused Duke lacrosse players of rape in 2006 publicly admits she lied](https://apnews.com/article/duke-lacrosse-false-rape-crystal-mangum-2a7bf854f4a640158e51c89e2a209ef8)
+    * [Texas' abortion pill lawsuit against New York doctor marks new challenge to interstate telemedicine](https://apnews.com/article/abortion-pills-lawsuit-shield-laws-texas-telemedicine-74c9b7d5c3c152e4c8f199b29132daec)
+    * [Drones, planes or UFOs? Americans abuzz over mysterious New Jersey sightings](https://apnews.com/article/drones-new-jersey-buzz-6ef6cfdd5dd6508da22b3c3a1d2f6718)
     * [Parts of Midwest brace for ice; Michigan first responders dash to safety during major crash](https://apnews.com/article/freezing-rain-ice-midwest-47a29adfac6c8ad93f92b705686785c6)
     
     Newsletters
@@ -462,9 +462,9 @@ Submit Search
     
     TOP STORIES
     
+    * [US military flies American released from Syrian prison to Jordan, officials say](https://apnews.com/article/syria-timmerman-assad-timmerman-443d1c3b2b9cf551cdcfdff22bdcedc9)
     * [Only 3 in 10 are highly confident about Trump's Cabinet picks: AP-NORC poll](https://apnews.com/article/trump-cabinet-administration-biden-poll-be16ac992769e9c4636854eee7999dfb)
-    * [Veteran Daniel Penny, acquitted in NYC subway chokehold, will join Trump's suite at football game](https://apnews.com/article/daniel-perry-chokehold-vance-army-navy-227774aa980f18ee1c9647492e1dcfbe)
-    * [Watchdog finds FBI intelligence missteps before Jan. 6 riot, but no undercover agents were present](https://apnews.com/article/justice-department-inspector-general-capitol-riot-jan-6-79c7ea02cf66c874f9201ae8e9294239)
+    * [Trump wants to turn the clock on daylight saving time](https://apnews.com/article/trump-daylight-saving-time-36ccbf61bea70aaac0f5c43b8029957c)
     
     Newsletters
     
@@ -492,9 +492,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Pro Football Hall of Famer Randy Moss says he's being treated for cancer outside his bowel duct](https://apnews.com/article/randy-moss-85741a3a9bd6e80cf4d8a64fba8e5f16)
     * [Lindsey Vonn to enter World Cup ski races next weekend in Switzerland in her comeback at age 40](https://apnews.com/article/lindsey-vonn-ski-racing-acdc37bed64444ee601b56f8cf5f965c)
-    * [Veteran Daniel Penny, acquitted in NYC subway chokehold, will join Trump's suite at football game](https://apnews.com/article/daniel-perry-chokehold-vance-army-navy-227774aa980f18ee1c9647492e1dcfbe)
-    * [The Rams get 4 field goals to beat the 49ers 12-6 in a sloppy game](https://apnews.com/article/rams-49ers-score-bb42079ea0a1e616882b898ff0f9bafd)
+    * [De'Vondre Campbell won't be part of the 49ers after his refusal to enter a game, Kyle Shanahan says](https://apnews.com/article/49ers-devondre-campbell-b3517612e22b520bb7c25ceeb65c6a48)
     
     Newsletters
     
@@ -522,8 +522,8 @@ Submit Search
     TOP STORIES
     
     * [How to write a holiday rom-com for TV, according to the experts](https://apnews.com/article/hallmark-christmas-movie-holiday-romcom-writing-d4451b1563a274f490d9505fa23afd27)
-    * [How Timothée Chalamet transformed into Bob Dylan](https://apnews.com/article/timothee-chalamet-bob-dylan-complete-unknown-interview-982582d6c65895b7d461a1b97ed9e63e)
-    * [Ice Cube's mind stays on music with other endeavors from BIG3 to NFL partnership keeping him busy](https://apnews.com/article/ice-cube-man-down-db3b74c4d3d127302a871bc5a85304a3)
+    * [Saudi Arabia banned film for 35 years. The Red Sea festival is just one sign of the industry's rise](https://apnews.com/article/red-sea-film-festival-saudi-cinema-13c9762d8b72066987437179fa87bb2a)
+    * [Unique among 'Person of the Year' designees, Donald Trump gets a fact-check from Time magazine](https://apnews.com/article/time-trump-fact-check-3e1c54007f0486ac64f146948f7c4376)
     
 * [Business](https://apnews.com/business)
     
@@ -538,9 +538,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Supreme Court will take up a challenge related to California's tough vehicle emissions standards](https://apnews.com/article/supreme-court-california-auto-emissions-climate-change-7aff58362d99dd0892b7a8540f3382c1)
     * [Musk says US is demanding he pay penalty over disclosures of his Twitter stock purchases](https://apnews.com/article/musk-sec-twitter-stock-purchases-penalty-letter-0eddad3db779c5b07988d7b9886b10b2)
     * [Senate begins final push to expand Social Security benefits for millions of people](https://apnews.com/article/senate-social-security-bill-cc9ba7856c1517bc4c9f8cde050954af)
-    * [Trump offers support for dockworkers union by saying ports shouldn't install more automated systems](https://apnews.com/article/trump-dockworkers-union-contract-trade-25b0f9922c8fb8c9b3c3c6ca56dadf47)
     
 * [Science](https://apnews.com/science)
     
@@ -564,9 +564,9 @@ Submit Search
     
     TOP STORIES
     
+    * [FACT FOCUS: Inspector general’s Jan. 6 report misrepresented as proof of FBI setup](https://apnews.com/article/fact-check-capitol-riot-fbi-justice-department-598b775804bdcef9cb065a67a4236033)
     * [FACT FOCUS: Vermont ruling does not say schools can vaccinate children without parental consent](https://apnews.com/article/fact-check-vermont-supreme-court-vaccination-ruling-0256fc7ad888230ee8dc51f6fe0d479a)
     * [FACT FOCUS: Posts misrepresent Biden administration spending on EV charging stations](https://apnews.com/article/fact-check-electric-vehicle-charging-stations-75-billion-buttigieg-1ddcd6ee193fc1847e5401c95c016ec3)
-    * [FACT FOCUS: Election officials knock down Starlink vote rigging conspiracy theories](https://apnews.com/article/fact-check-election-starlink-musk-steal-trump-38757341656d4f44243076d6356cb68b)
     
 * [Oddities](https://apnews.com/oddities)
     
@@ -664,9 +664,9 @@ Submit Search
     
     TOP STORIES
     
+    * [OpenAI's legal battle with Elon Musk reveals internal turmoil over avoiding AI 'dictatorship'](https://apnews.com/article/elon-musk-openai-lawsuit-sam-altman-chatgpt-36bc55dbb8b4f9e1e5675ff7564e5fa0)
     * [OpenAI's Altman will donate $1 million to Trump's inaugural fund](https://apnews.com/article/sam-altman-donald-trump-openai-3b7a87037f3718eb3edc73e94be8a61a)
     * [Nearly half of US teens are online 'constantly,' Pew report finds](https://apnews.com/article/teenagers-social-media-internet-pew-survey-02defc5b53dc4216da1efa63c82a30af)
-    * [US updates a science and technology pact with China to reflect growing rivalry and security threats](https://apnews.com/article/china-science-tech-agreement-f15ec895ce37b793f0418000ff8a11de)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -692,9 +692,9 @@ Submit Search
     
     TOP STORIES
     
+    * [On Gita Jayanti, Hare Krishnas celebrate the birth of the sacred text Bhagavad Gita](https://apnews.com/article/hindu-scripture-hare-krishna-bhagavad-gita-07b3aca4ef17bece83929aa91c523c68)
     * [How to write a holiday rom-com for TV, according to the experts](https://apnews.com/article/hallmark-christmas-movie-holiday-romcom-writing-d4451b1563a274f490d9505fa23afd27)
     * ['Crown of Thorns' returns to Notre Dame Cathedral for public veneration](https://apnews.com/article/notre-dame-france-relc-crown-of-thorns-f06a9d707663ebd407d78282530b3dd5)
-    * [Millions mark Mexico's Virgin of Guadalupe Day but calls for a truce in drug violence go unheeded](https://apnews.com/article/mexico-virgin-guadalupe-pilgrims-a834651291a20650426bff6486d7fcec)
     
     Newsletters
     
@@ -711,8 +711,8 @@ Submit Search
     * [Encuesta: Pocos estadounidenses tienen confianza en los seleccionados por Trump para su gabinete](https://apnews.com/article/eeuu-elecciones-trump-nuevo-gobierno-encuesta-fa5b30ade166aed70ff1f96abc2acc73)
     * [Destacado abogado de derechos humanos abandona Corte Penal Internacional por no procesar a Venezuela](https://apnews.com/article/venezuela-cpi-claudio-grossman-maduro-e9f88b398937eb39be06d986cc3b99f3)
     * [Miles de sirios celebran en Damasco en primer viernes de oraciones desde caída de Assad](https://apnews.com/article/siria-damasco-guerra-assad-festejos-4a07496ad7d360f196cf318cc5d51973)
-    * [Macron nombra a su aliado centrista Bayrou nuevo primer ministro de Francia](https://apnews.com/article/francia-macron-primer-ministro-centrista-91f7595554fa288f3da17fa636e4c9f6)
-    * [Oficina de DDHH de la ONU en Venezuela reanuda parcialmente sus actividades tras cierre](https://apnews.com/article/venezuela-onu-derechos-humanos-maduro-3781381d290164ace2357b06dceacb3a)
+    * [Jueza de Miami aprueba fianza para gemelos empresarios de bienes raíces acusados de tráfico sexual](https://apnews.com/article/eeuu-ny-trafico-sexual-alexander-florida-official-8601fd3a1c83dc74eb8e2f69c9e33751)
+    * [¿Drones, aviones u ovnis? Misteriosos avistamientos en Nueva Jersey causan revuelo](https://apnews.com/article/drones-jersey-luces-cielo-ovnis-599eea4b200ffa048b24bda90745b489)
     
 * [Quizzes](https://apnews.com/quizzes)
     
