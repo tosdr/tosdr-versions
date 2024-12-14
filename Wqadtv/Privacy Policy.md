@@ -32,11 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/a75dd119-9dec-4e36-aca0-5d043ea12b11/20241214T013801/a75dd119-9dec-4e36-aca0-5d043ea12b11_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a75dd119-9dec-4e36-aca0-5d043ea12b11/20241214T013801/a75dd119-9dec-4e36-aca0-5d043ea12b11_360x203.jpg)](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade)
         
-        #### [Renovations underway at Modern Woodmen Park](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade) [![](https://media.tegna-media.com/assets/WQAD/images/a75dd119-9dec-4e36-aca0-5d043ea12b11/20241214T013801/a75dd119-9dec-4e36-aca0-5d043ea12b11_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a75dd119-9dec-4e36-aca0-5d043ea12b11/20241214T013801/a75dd119-9dec-4e36-aca0-5d043ea12b11_360x203.jpg)](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade)
+        #### [Renovations underway at Modern Woodmen Park](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade)
         
-        #### [New turf, safety netting and more renovations coming to Modern Woodmen Park](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade) [![](https://media.tegna-media.com/assets/WQAD/images/a75dd119-9dec-4e36-aca0-5d043ea12b11/20241214T013801/a75dd119-9dec-4e36-aca0-5d043ea12b11_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a75dd119-9dec-4e36-aca0-5d043ea12b11/20241214T013801/a75dd119-9dec-4e36-aca0-5d043ea12b11_360x203.jpg)](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade)
-        
-        #### [Modern Woodmen Park getting new turf, netting and more](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/13c2d01f-fa3e-453e-bd3d-d66a65143f64/20241214T000608/13c2d01f-fa3e-453e-bd3d-d66a65143f64_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/13c2d01f-fa3e-453e-bd3d-d66a65143f64/20241214T000608/13c2d01f-fa3e-453e-bd3d-d66a65143f64_360x203.jpg)](https://www.wqad.com/article/news/local/dixon-rita-crumwell-biden-comptroller-pardon-commute/526-800e8733-dd1b-4bf9-b9f5-00f3b90fc0b4)
         
         #### [Dixon residents stunned by Biden's commutation of former comptroller Rita Crundwell](https://www.wqad.com/article/news/local/dixon-rita-crumwell-biden-comptroller-pardon-commute/526-800e8733-dd1b-4bf9-b9f5-00f3b90fc0b4)
@@ -59,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a9fea544-3446-40b3-9c92-ac0e5ae64eff/20241213T233121/a9fea544-3446-40b3-9c92-ac0e5ae64eff_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a9fea544-3446-40b3-9c92-ac0e5ae64eff/20241213T233121/a9fea544-3446-40b3-9c92-ac0e5ae64eff_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/74778919-de2c-4a3b-9c85-140f9c193272/20241214T043046/74778919-de2c-4a3b-9c85-140f9c193272_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/74778919-de2c-4a3b-9c85-140f9c193272/20241214T043046/74778919-de2c-4a3b-9c85-140f9c193272_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Weather Impact Alert: Ice Potential for Saturday morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -100,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-25°
+27°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Snow](/assets/shared-images/weather-icons/snow-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
