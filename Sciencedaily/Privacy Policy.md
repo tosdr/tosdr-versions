@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Heart of Jovian Moon's Volcanic Rage](https://www.sciencedaily.com/releases/2024/12/241213125505.htm)
+* [Planets Form Through Domino Effect](https://www.sciencedaily.com/releases/2024/12/241213125457.htm)
+* [Intense Gamma-Ray Outburst: Virgo Constellation](https://www.sciencedaily.com/releases/2024/12/241213140634.htm)
+* [Light Shed On the Origin of the Genetic Code](https://www.sciencedaily.com/releases/2024/12/241212190257.htm)
 * [Vastly Improved Carbon Capture Ability](https://www.sciencedaily.com/releases/2024/12/241212150325.htm)
 * [Real-Time Insight On How New Species Form](https://www.sciencedaily.com/releases/2024/12/241212145810.htm)
 * [Air Pollution in India: Millions of Deaths](https://www.sciencedaily.com/releases/2024/12/241211190055.htm)
 * [Overfishing Has Halved Shark and Ray Populations](https://www.sciencedaily.com/releases/2024/12/241212190115.htm)
 * [Gene Transfer from Soil Bacteria to Humans](https://www.sciencedaily.com/releases/2024/12/241212150232.htm)
 * [Body-Heat Powered Wearable Devices](https://www.sciencedaily.com/releases/2024/12/241212145818.htm)
-* [Ocean's Warm Blob: Massive Die-Off of Seabirds](https://www.sciencedaily.com/releases/2024/12/241212145713.htm)
-* [Hydrologists Map Changing River Landscapes](https://www.sciencedaily.com/releases/2024/12/241212145711.htm)
-* [A Dial for Tuning the Immune System](https://www.sciencedaily.com/releases/2024/12/241212150320.htm)
-* [Sculpting the Brain (Without Chisel or Scalpel)](https://www.sciencedaily.com/releases/2024/12/241210115421.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
+
 [Language Acquisition](https://www.sciencedaily.com/news/mind_brain/language_acquisition/)
 
 [Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
-
-[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
-[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
-[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
 
-[Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
-
 [Biodiversity](https://www.sciencedaily.com/news/earth_climate/biodiversity/)
+
+[Air Pollution](https://www.sciencedaily.com/news/earth_climate/air_pollution/)
 
   
 
