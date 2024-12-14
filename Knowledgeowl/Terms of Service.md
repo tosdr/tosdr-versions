@@ -324,13 +324,13 @@ Table of Contents Table of Contents Toggle navigation
             * [Access to the header via Custom Head](https://www.knowledgeowl.com/help/append-head)
             * [Reset your theme](https://www.knowledgeowl.com/help/reset-your-theme)
             * [Copy a knowledge base's theme](https://www.knowledgeowl.com/help/copy-a-theme)
-        * [Basic Settings](javascript:void(0);)
+        * [KB settings](javascript:void(0);)
             
-            * [Basic Settings](https://www.knowledgeowl.com/help/basic-settings-basic-settings)
-            * [Domain Settings](https://www.knowledgeowl.com/help/domain-settings)
-            * [Website Settings](https://www.knowledgeowl.com/help/website-settings)
+            * [Basic settings](https://www.knowledgeowl.com/help/basic-settings)
+            * [Domain settings](https://www.knowledgeowl.com/help/domain-settings)
+            * [Website settings](https://www.knowledgeowl.com/help/website-settings)
             * [Article List Settings](https://www.knowledgeowl.com/help/article-list-settings)
-            * [Editor Settings](https://www.knowledgeowl.com/help/editor-settings)
+            * [Article editor settings](https://www.knowledgeowl.com/help/article-editor-settings)
         * [How to use your own domain](javascript:void(0);)
             
             * [Private domain overview](https://www.knowledgeowl.com/help/private-domain-overview)
@@ -1428,7 +1428,7 @@ If you do not agree to the new terms and conditions, you may terminate this agre
     
 * [Author team order consistently displayed](https://www.knowledgeowl.com/help/author-team-order-consistently-displayed)
     
-* [Add a new glossary term](https://www.knowledgeowl.com/help/populate-the-glossary)
+* [Conditional content based on tags](https://www.knowledgeowl.com/help/conditional-content-based-on-tags)
     
 
    
