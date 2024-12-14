@@ -4,7 +4,7 @@ Accept Cookies and Terms
 
 [Leave Site](https://google.com/)
 
-[![Minecraft Servers](minecraft-servers.png.pagespeed.ce.7HRxM5qnQd.png)](https://minecraft-server.net/)
+[![Minecraft Servers](pagespeed_static/1.JiBnMqyl6S.gif)](https://minecraft-server.net/)
 
 * [Home](https://minecraft-server.net/)
 * [Server Login](https://minecraft-server.net/user_cpl/)
@@ -29,17 +29,17 @@ Version All 1.21.4 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 
 
 Active Servers
 
-[![StarlightVanilla](plugins/MineCraft/icons/25x25xStarlightVanilla_1733084759.png.pagespeed.ic.zTzQIgMQzH.jpg)
+[![JailmineNetwork](plugins/MineCraft/icons/25x25xJailmineNetwork_1709569987.png.pagespeed.ic.8D8j2R0whG.png)
 
-VPG | Modern Anarchy](https://minecraft-server.net/details/StarlightVanilla/ "VPG | Modern Anarchy")[![projectsurvival](plugins/MineCraft/icons/25x25xprojectsurvival_1731348416.png.pagespeed.ic.hQETp6pFjB.png)
+Jailmine Network](https://minecraft-server.net/details/JailmineNetwork/ "Jailmine Network")[![HeartSMP](plugins/MineCraft/icons/25x25xHeartSMP_1733143122.png.pagespeed.ic._3YAt9VHdc.png)
 
-MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4](https://minecraft-server.net/details/projectsurvival/ "MC.PROJECTS.GG TÜRK SURVIVAL SUNUCU - Mevsimler/Kanli Ay/Unvanlar/AntiXray/PvP - 1.20.4")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1732687836.png.pagespeed.ic.0wYsTOy-Nc.png)
+HeartSMP SEASON 2](https://minecraft-server.net/details/HeartSMP/ "HeartSMP SEASON 2")[![minetown-5791](plugins/MineCraft/icons/25x25xminetown-5791_1733509674.png.pagespeed.ic.XP_3OjI3ug.png)
 
-STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")[![CraftedSurvival](plugins/MineCraft/icons/25x25xCraftedSurvival_1724663271.png.pagespeed.ic.7xXnoJyxX-.png)
+Minetown - 1.8 - 1.21.3](https://minecraft-server.net/details/minetown-5791/ "Minetown - 1.8 - 1.21.3")[![TotalVanilla](plugins/MineCraft/icons/25x25xTotalVanilla_1734020162.png.pagespeed.ic.TdWQjrJnTo.jpg)
 
-Crafted Survival SMP](https://minecraft-server.net/details/CraftedSurvival/ "Crafted Survival SMP")[![HeartSMP](plugins/MineCraft/icons/25x25xHeartSMP_1733143122.png.pagespeed.ic._3YAt9VHdc.png)
+Total Vanilla](https://minecraft-server.net/details/TotalVanilla/ "Total Vanilla")[![HorusApl](plugins/MineCraft/icons/25x25xHorusApl_1733989251.png.pagespeed.ic.dbPZXbDd8P.png)
 
-HeartSMP SEASON 2](https://minecraft-server.net/details/HeartSMP/ "HeartSMP SEASON 2")
+ExeosCraft (1.21) | Economy SMP | McMMO | No Resets](https://minecraft-server.net/details/HorusApl/ "ExeosCraft (1.21) | Economy SMP | McMMO | No Resets")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +125,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.07022 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06146 - Created by [Debaucus](https://debauc.us/)
