@@ -20,6 +20,27 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/CWMP--360x180.png)](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
+    
+    ### [Canada Water towers set to reach almost 50 storeys in ‘massive’ increase](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
+    
+    [![Ayaan Al Waeys was just 35 when she tragically died in November 2022.](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-03-14-40-10-e1734104730383-350x180.jpg)](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
+    
+    ### [St Thomas’ Hospital is being accused of ‘negligence and discrimination’ after death of mum and baby](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
+    
+    [![Theo and Rebekah at his graduation at Goldsmiths, January 2023](https://southwarknews.co.uk/wp-content/uploads/2024/12/Theo-and-Rebekah-at-his-graduation-Goldsmiths-Jan-2023-e1734018073828-360x180.jpeg)](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
+    
+    ### [‘There must be someone out there’: Young Peckham woman’s plea for stem cell donors after fiancé’s cancer diagnosis](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
+    
+    [![Sadiq Khan laughs after being asked about a petition calling for him not to be knighted.
+    Photo from Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/12/Sadiq-Khan-laughs-after-being-asked-about-a-petition-calling-for-him-not-to-be-knighted-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-laughs-off-petition-calling-for-a-block-on-him-getting-a-knighthood/)
+    
+    ### [Sadiq Khan laughs off petition calling for a block on him getting a knighthood](https://southwarknews.co.uk/area/london/sadiq-khan-laughs-off-petition-calling-for-a-block-on-him-getting-a-knighthood/)
+    
+    [![Image from Creative Commons rawpixel](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-from-Creative-Commons-rawpixel-360x180.jpg)](https://southwarknews.co.uk/area/south-london/mum-of-two-disabled-kids-unable-to-live-with-them-after-she-was-housed-in-flat-with-no-wheelchair-access/)
+    
+    ### [Mum of two disabled kids unable to live with them after she was housed in flat with no wheelchair access](https://southwarknews.co.uk/area/south-london/mum-of-two-disabled-kids-unable-to-live-with-them-after-she-was-housed-in-flat-with-no-wheelchair-access/)
+    
     [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/fire-damages-crystal-palace-house/)
     
     ### [Fire damages Crystal Palace house](https://southwarknews.co.uk/area/crystal-palace/fire-damages-crystal-palace-house/)
@@ -35,26 +56,6 @@
     [![British Transport Police are investigating the incident (credit: Team London Bridge)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-13-12-2024-at-09.58-360x180.jpg)](https://southwarknews.co.uk/area/borough/four-women-assaulted-two-others-between-london-bridge-and-kent/)
     
     ### [‘Four women assaulted’ two others between London Bridge and Kent](https://southwarknews.co.uk/area/borough/four-women-assaulted-two-others-between-london-bridge-and-kent/)
-    
-    [![The Thames river near Butler's Wharf Pier. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-Thames-river-near-Butlers-Wharf-Pier.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/womans-body-found-in-thames-near-butlers-wharf-pier/)
-    
-    ### [Woman’s body found in Thames near Butler’s Wharf Pier](https://southwarknews.co.uk/area/bermondsey/womans-body-found-in-thames-near-butlers-wharf-pier/)
-    
-    [![Visitors at The Brunel Museum. Image provided by The Brunel Museum](https://southwarknews.co.uk/wp-content/uploads/2024/12/Visitors-at-The-Brunel-Museum.-Image-provided-by-The-Brunel-Museum-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/rotherhithe-museum-offering-2-tickets-for-locals-only/)
-    
-    ### [Rotherhithe museum offering £2 tickets for locals only](https://southwarknews.co.uk/area/bermondsey/rotherhithe-museum-offering-2-tickets-for-locals-only/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/SNOW-WHITE-LAUNCH_112-copy-360x180.jpeg)](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
-    
-    ### [Events for the whole family in south London this season](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
-    
-    [![(credit: Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/12/4920B8AD-10DE-44F8-9884-367651222716-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-playground-reopens-after-420k-makeover/)
-    
-    ### [Bermondsey playground reopens after £420k makeover](https://southwarknews.co.uk/area/bermondsey/bermondsey-playground-reopens-after-420k-makeover/)
-    
-    [![L: Blenheim Grove building has been left like this for years and still has no tenants. R: The arcade is next to be demolished but delays have pushed it back.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-11-12-2024-at-11.08-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/peckham-rye-businesses-blighted-by-delayed-station-square-regeneration-say-the-area-has-been-left-to-rot/)
-    
-    ### [Peckham Rye: Businesses blighted by delayed Station Square regeneration say the area has been ‘left to rot’](https://southwarknews.co.uk/news/news-plus/peckham-rye-businesses-blighted-by-delayed-station-square-regeneration-say-the-area-has-been-left-to-rot/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +106,27 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/CWMP--360x180.png)](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
+    
+    ### [Canada Water towers set to reach almost 50 storeys in ‘massive’ increase](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
+    
+    [![Ayaan Al Waeys was just 35 when she tragically died in November 2022.](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-03-14-40-10-e1734104730383-350x180.jpg)](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
+    
+    ### [St Thomas’ Hospital is being accused of ‘negligence and discrimination’ after death of mum and baby](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
+    
+    [![Theo and Rebekah at his graduation at Goldsmiths, January 2023](https://southwarknews.co.uk/wp-content/uploads/2024/12/Theo-and-Rebekah-at-his-graduation-Goldsmiths-Jan-2023-e1734018073828-360x180.jpeg)](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
+    
+    ### [‘There must be someone out there’: Young Peckham woman’s plea for stem cell donors after fiancé’s cancer diagnosis](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
+    
+    [![Sadiq Khan laughs after being asked about a petition calling for him not to be knighted.
+    Photo from Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/12/Sadiq-Khan-laughs-after-being-asked-about-a-petition-calling-for-him-not-to-be-knighted-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-laughs-off-petition-calling-for-a-block-on-him-getting-a-knighthood/)
+    
+    ### [Sadiq Khan laughs off petition calling for a block on him getting a knighthood](https://southwarknews.co.uk/area/london/sadiq-khan-laughs-off-petition-calling-for-a-block-on-him-getting-a-knighthood/)
+    
+    [![Image from Creative Commons rawpixel](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-from-Creative-Commons-rawpixel-360x180.jpg)](https://southwarknews.co.uk/area/south-london/mum-of-two-disabled-kids-unable-to-live-with-them-after-she-was-housed-in-flat-with-no-wheelchair-access/)
+    
+    ### [Mum of two disabled kids unable to live with them after she was housed in flat with no wheelchair access](https://southwarknews.co.uk/area/south-london/mum-of-two-disabled-kids-unable-to-live-with-them-after-she-was-housed-in-flat-with-no-wheelchair-access/)
+    
     [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/fire-damages-crystal-palace-house/)
     
     ### [Fire damages Crystal Palace house](https://southwarknews.co.uk/area/crystal-palace/fire-damages-crystal-palace-house/)
@@ -120,26 +142,6 @@ View All Result
     [![British Transport Police are investigating the incident (credit: Team London Bridge)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-13-12-2024-at-09.58-360x180.jpg)](https://southwarknews.co.uk/area/borough/four-women-assaulted-two-others-between-london-bridge-and-kent/)
     
     ### [‘Four women assaulted’ two others between London Bridge and Kent](https://southwarknews.co.uk/area/borough/four-women-assaulted-two-others-between-london-bridge-and-kent/)
-    
-    [![The Thames river near Butler's Wharf Pier. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-Thames-river-near-Butlers-Wharf-Pier.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/bermondsey/womans-body-found-in-thames-near-butlers-wharf-pier/)
-    
-    ### [Woman’s body found in Thames near Butler’s Wharf Pier](https://southwarknews.co.uk/area/bermondsey/womans-body-found-in-thames-near-butlers-wharf-pier/)
-    
-    [![Visitors at The Brunel Museum. Image provided by The Brunel Museum](https://southwarknews.co.uk/wp-content/uploads/2024/12/Visitors-at-The-Brunel-Museum.-Image-provided-by-The-Brunel-Museum-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/rotherhithe-museum-offering-2-tickets-for-locals-only/)
-    
-    ### [Rotherhithe museum offering £2 tickets for locals only](https://southwarknews.co.uk/area/bermondsey/rotherhithe-museum-offering-2-tickets-for-locals-only/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/SNOW-WHITE-LAUNCH_112-copy-360x180.jpeg)](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
-    
-    ### [Events for the whole family in south London this season](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
-    
-    [![(credit: Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/12/4920B8AD-10DE-44F8-9884-367651222716-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-playground-reopens-after-420k-makeover/)
-    
-    ### [Bermondsey playground reopens after £420k makeover](https://southwarknews.co.uk/area/bermondsey/bermondsey-playground-reopens-after-420k-makeover/)
-    
-    [![L: Blenheim Grove building has been left like this for years and still has no tenants. R: The arcade is next to be demolished but delays have pushed it back.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-11-12-2024-at-11.08-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/peckham-rye-businesses-blighted-by-delayed-station-square-regeneration-say-the-area-has-been-left-to-rot/)
-    
-    ### [Peckham Rye: Businesses blighted by delayed Station Square regeneration say the area has been ‘left to rot’](https://southwarknews.co.uk/news/news-plus/peckham-rye-businesses-blighted-by-delayed-station-square-regeneration-say-the-area-has-been-left-to-rot/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -243,42 +245,42 @@ Terms of Use
 
 ### Featured Articles
 
+[![Ayaan Al Waeys was just 35 when she tragically died in November 2022.](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-03-14-40-10-e1734104730383-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
+
+### [St Thomas’ Hospital is being accused of ‘negligence and discrimination’ after death of mum and baby](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
+
+[14th December 2024](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
+
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/12/candle-christmas-christmas-decoration-christmas-dinner-preview-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-soup-kitchen-to-provide-christmas-meals-for-third-year-running/)
+
+### [Peckham Soup Kitchen to provide Christmas meals for third year running](https://southwarknews.co.uk/area/peckham/peckham-soup-kitchen-to-provide-christmas-meals-for-third-year-running/) 
+
+[14th December 2024](https://southwarknews.co.uk/area/peckham/peckham-soup-kitchen-to-provide-christmas-meals-for-third-year-running/)
+
+[![Theo and Rebekah at his graduation at Goldsmiths, January 2023](https://southwarknews.co.uk/wp-content/uploads/2024/12/Theo-and-Rebekah-at-his-graduation-Goldsmiths-Jan-2023-e1734018073828-120x86.jpeg)](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
+
+### [‘There must be someone out there’: Young Peckham woman’s plea for stem cell donors after fiancé’s cancer diagnosis](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
+
+[14th December 2024](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
+
+[![Sadiq Khan laughs after being asked about a petition calling for him not to be knighted.
+Photo from Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/12/Sadiq-Khan-laughs-after-being-asked-about-a-petition-calling-for-him-not-to-be-knighted-120x86.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-laughs-off-petition-calling-for-a-block-on-him-getting-a-knighthood/)
+
+### [Sadiq Khan laughs off petition calling for a block on him getting a knighthood](https://southwarknews.co.uk/area/london/sadiq-khan-laughs-off-petition-calling-for-a-block-on-him-getting-a-knighthood/)
+
+[14th December 2024](https://southwarknews.co.uk/area/london/sadiq-khan-laughs-off-petition-calling-for-a-block-on-him-getting-a-knighthood/)
+
+[![Image from Creative Commons rawpixel](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-from-Creative-Commons-rawpixel-120x86.jpg)](https://southwarknews.co.uk/area/south-london/mum-of-two-disabled-kids-unable-to-live-with-them-after-she-was-housed-in-flat-with-no-wheelchair-access/)
+
+### [Mum of two disabled kids unable to live with them after she was housed in flat with no wheelchair access](https://southwarknews.co.uk/area/south-london/mum-of-two-disabled-kids-unable-to-live-with-them-after-she-was-housed-in-flat-with-no-wheelchair-access/)
+
+[14th December 2024](https://southwarknews.co.uk/area/south-london/mum-of-two-disabled-kids-unable-to-live-with-them-after-she-was-housed-in-flat-with-no-wheelchair-access/)
+
 [![Tai Yasharahyalah and his wife, Naiyahmi Yasharahyalah, were jailed for 24-and-a-half years and 19-and-a-half years respectively](https://southwarknews.co.uk/wp-content/uploads/2024/12/loopflex3-e1734087485675-120x86.jpg)](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
 
 ### [Man who embalmed and buried son in back garden jailed alongside wife for 24-and-a-half years](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
 
 [13th December 2024](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
-
-[![Craig Dorney, from Lewisham, took advantage of a young woman after they happened to meet getting out of separate taxis](https://southwarknews.co.uk/wp-content/uploads/2024/12/Craig-Dorney-from-Lewisham-took-advantage-of-a-young-woman-after-they-happened-to-meet-getting-out-of-separate-taxis-120x86.png)](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
-
-### [Opportunistic rapist foiled after victim recorded horrific attack](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
-
-[13th December 2024](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/12/SNOW-WHITE-LAUNCH_112-copy-120x86.jpeg)](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
-
-### [Events for the whole family in south London this season](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
-
-[12th December 2024](https://southwarknews.co.uk/news/community/events-for-the-whole-family-in-south-london-this-season/)
-
-[![(credit: Southwark Council)](https://southwarknews.co.uk/wp-content/uploads/2024/12/4920B8AD-10DE-44F8-9884-367651222716-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-playground-reopens-after-420k-makeover/)
-
-### [Bermondsey playground reopens after £420k makeover](https://southwarknews.co.uk/area/bermondsey/bermondsey-playground-reopens-after-420k-makeover/)
-
-[12th December 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-playground-reopens-after-420k-makeover/)
-
-[![The Aylesbury Estate in Walworth, Southwark. Credit: Herbie Russell](https://southwarknews.co.uk/wp-content/uploads/2024/07/The-Aylesbury-Estate-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
-
-### [Lib Dems claim Southwark Council failing to use empty homes powers](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
-
-[12th December 2024](https://southwarknews.co.uk/area/southwark/lib-dems-claim-southwark-council-failing-to-use-empty-homes-powers/)
-
-[![CGI of James Allen's Girls' School's new planned pre-prep building on East Dulwich Grove. 
-CREDIT: Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/12/CGI-of-James-Allens-Girls-Schools-120x86.jpg)](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
-
-### [London’s oldest private girls’ school wins approval for new home](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
-
-[12th December 2024](https://southwarknews.co.uk/featured/londons-oldest-private-girls-school-wins-approval-for-new-home/)
 
 ### USEFUL PAGES
 
