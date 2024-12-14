@@ -1,6 +1,6 @@
 [Skip to main content](#main)
 
-Last-minute gift alert: Sneakers up to 30% off! [Shop Holiday Sneak-Up Sale](https://www.zappos.com/sneakers-athletic-shoes/CK_XARC81wHgAQHiAgMBAhw.zso?s=isNew%2Fdesc%2FgoLiveDate%2Fdesc%2FrecentSalesStyle%2Fdesc%2F)
+Get up to 50% off sneakers, boots, and more. [Shop Procrastination Sale](https://www.zappos.com/null/4AEB4gICMByCAwO48AE.zso?s=recentSalesStyle%2Fdesc%2F&si=6246469%2C6522044%2C6469160%2C6459008%2C6534606%2C6466335%2C6220890%2C6439611%2C6244395%2C6413465%2C6416779%2C6514199%2C6212177%2C6256931&sy=1)
 
 Top 10 Most-Gifted UGG [Shop UGG Gifts](https://www.zappos.com/c/10-most-gifted-ugg)
 
