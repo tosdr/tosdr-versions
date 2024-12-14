@@ -137,67 +137,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![eelumi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1592639-1694895842.png)](https://lyricstranslate.com/en/translator/eelumi "eelumi")
+[![Wysewbahar](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1639028-1734197845.jpg)](https://lyricstranslate.com/en/translator/wysewbahar "Wysewbahar")
 
 New translation
 
-[Leevi and the Leavings - Kaivopuiston kuristaja](https://lyricstranslate.com/en/leevi-and-leavin-kaivopuiston-kuristaja-english)
+[LISA - ROCKSTAR](https://lyricstranslate.com/en/lisa-rockstar-turkish-7)
 
-Finnish → English
+English → Turkish
 
-[![Super Girl](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1308083-1547756752.png)](https://lyricstranslate.com/en/translator/super-girl "Super Girl")
-
-New translation
-
-[Nikos Vertis - Κάνεις πως δε με ακούς (Kánis pos dhe me akoús)](https://lyricstranslate.com/en/nikos-vertis-kanis-pos-dhe-me-akous-romanian)
-
-Greek → Romanian
-
-[![Valeriu Raut](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1118259-1658638924.jpg)](https://lyricstranslate.com/en/translator/valeriu-raut "Valeriu Raut")
+[![mnina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1591135-1704546240.jpg)](https://lyricstranslate.com/en/translator/mnina "mnina")
 
 New translation
 
-[Jehro - Continuando](https://lyricstranslate.com/en/jehro-continuando-romanian)
+[Stray Kids - 愛をくれたのに、なぜ (love is painful)](https://lyricstranslate.com/en/stray-kids-ai-wokuretanoninaze-lov-polish)
 
-Spanish → Romanian
+English → Polish
 
-[![Jessuka97](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1528319-1716847288.jpg)](https://lyricstranslate.com/en/translator/jessuka97 "Jessuka97")
+[![mnina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1591135-1704546240.jpg)](https://lyricstranslate.com/en/translator/mnina "mnina")
 
-Transcription request fulfilled
+New translation
 
-[Långt härifrån (Repris) \[Beyond (Reprise)\]](https://lyricstranslate.com/en/moana-2-ost-langt-harifran-repris-lyrics)
+[TWICE - Strategy](https://lyricstranslate.com/en/twice-strategy-polish)
 
-Swedish
+English → Polish
 
-[![Jessuka97](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1528319-1716847288.jpg)](https://lyricstranslate.com/en/translator/jessuka97 "Jessuka97")
+[![Nymph of water](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624550-1721669316.jpg)](https://lyricstranslate.com/en/translator/nymph-water "Nymph of water")
+
+New translation
+
+[2WEI - Burn](https://lyricstranslate.com/en/2wei-burn-greek)
+
+English → Greek
+
+[![mnina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1591135-1704546240.jpg)](https://lyricstranslate.com/en/translator/mnina "mnina")
+
+New translation
+
+[aespa - Savage](https://lyricstranslate.com/en/aespa-savage-polish)
+
+English → Polish
+
+[![mnina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1591135-1704546240.jpg)](https://lyricstranslate.com/en/translator/mnina "mnina")
+
+New translation
+
+[ENHYPEN - I NEED U](https://lyricstranslate.com/en/enhypen-i-need-u-polish)
+
+English → Polish
+
+[![mnina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1591135-1704546240.jpg)](https://lyricstranslate.com/en/translator/mnina "mnina")
+
+New translation
+
+[BABYMONSTER - Woke Up In Tokyo](https://lyricstranslate.com/en/babymonster-woke-tokyo-polish-0)
+
+English → Polish
+
+[![Jojo Tsoungui 2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1521569-1640113174.jpg)](https://lyricstranslate.com/en/translator/jojo-tsoungui-2 "Jojo Tsoungui 2")
 
 New song
 
-[Moana 2 (OST) - Långt härifrån (Repris) \[Beyond (Reprise)\]](https://lyricstranslate.com/en/moana-2-ost-langt-harifran-repris-lyrics)
+[Indochine - Drugstar](https://lyricstranslate.com/en/indochine-drugstar-lyrics)
 
-Swedish
-
-[![Eagles Hunter](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1298895-1590944054.jpg)](https://lyricstranslate.com/en/translator/eagles-hunter "Eagles Hunter")
-
-New comment
-
-Lyrics are not complete. A lot of lines are ...  [more](https://lyricstranslate.com/en/comment/1181224#comment-1181224)
-
-[![Laplage](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1112497-1596264636.jpg)](https://lyricstranslate.com/en/translator/laplage "Laplage")
-
-New translation
-
-[Rosé - not the same](https://lyricstranslate.com/en/rose-not-same-finnish)
-
-English → Finnish
-
-[![Baran-29](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1454896-1656511190.jpg)](https://lyricstranslate.com/en/translator/baran-29 "Baran-29")
-
-New translation
-
-[Cartoon Songs - The Flintstones (Closing Theme)](https://lyricstranslate.com/en/cartoon-songs-flintstones-closing-turkish)
-
-English → Turkish
+French
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
