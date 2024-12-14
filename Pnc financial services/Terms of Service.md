@@ -42,7 +42,7 @@ Get our mobile banking app:
 
 [![](/content/dam/pnc-com/images/universal/badges/badge_download-on-app-store.svg)](https://apps.apple.com/us/app/pnc-mobile-banking/id303113127)  
 
-[![](/content/dam/pnc-com/images/universal/badges/badge_get-it-on-google-play.svg)](https://play.google.com/store/apps/details?id=pinacleMobileiPhoneApp.android&amp;hl=en)
+[![](/content/dam/pnc-com/images/universal/badges/badge_get-it-on-google-play.svg)](https://play.google.com/store/apps/details?id=com.pnc.ecommerce.mobile)
 
 [![PNC Home](/content/experience-fragments/pnc-com/en/navigation/pnc-navigation---main-menu/master/_jcr_content/root/container/image.coreimg.svg/1657336133655/pnc-logo-rev.svg)](https://www.pnc.com/en/personal-banking.html)
 
@@ -250,7 +250,7 @@ Get our mobile banking app:
 
 [![](/content/dam/pnc-com/images/universal/badges/badge_download-on-app-store.svg)](https://apps.apple.com/us/app/pnc-mobile-banking/id303113127)  
 
-[![](/content/dam/pnc-com/images/universal/badges/badge_get-it-on-google-play.svg)](https://play.google.com/store/apps/details?id=pinacleMobileiPhoneApp.android&amp;hl=en)
+[![](/content/dam/pnc-com/images/universal/badges/badge_get-it-on-google-play.svg)](https://play.google.com/store/apps/details?id=com.pnc.ecommerce.mobile)
 
 Terms & Conditions
 ==================
