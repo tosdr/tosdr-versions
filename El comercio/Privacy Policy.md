@@ -31,6 +31,749 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Navidad en Ecuador, tradiciones, eventos y gastronomía que impulsan el turismo local
+====================================================================================
+
+En diversas ciudades de Ecuador se llevarán a cabo eventos navideños.
+---------------------------------------------------------------------
+
+![Imagen referencial. El pesebre de El Panecillo no se prenderá este año.](https://www.elcomercio.com/wp-content/uploads/2024/12/Navidad.jpg)
+
+Durante la temporada navideña de 2024, Ecuador ofrece una variedad de eventos y actividades públicas para disfrutar en familia[.](https://es.wikipedia.org/wiki/Navidad "https://es.wikipedia.org/wiki/Navidad")
+
+Más noticias
+------------
+
+* [Vacaciones escolares por Navidad y Año Nuevo se extendieron, ¿cómo se recuperarán?](https://www.elcomercio.com/actualidad/ecuador/vacaciones-escolares-navidad-nuevo-extendieron-recuperaran.html "Vacaciones escolares por Navidad y Año Nuevo se extendieron, ¿cómo se recuperarán?")
+* [Daniel Noboa reduce el IVA para feriados de Navidad y Año Nuevo](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-redujo-el-iva-8-durante-feriados-navidad-ano-nuevo.html "Daniel Noboa reduce el IVA para feriados de Navidad y Año Nuevo")
+* [Las 10 canciones imprescindibles para esta Navidad](https://www.elcomercio.com/tendencias/entretenimiento/canciones-navidad-playlist-imprescindibles-familia-union.html "Las 10 canciones imprescindibles para esta Navidad")
+
+A continuación, se presentan seis aspectos destacados para vivir unas vacaciones de **Navidad** con los amigos o familia:
+
+Centro Histórico de Quito
+-------------------------
+
+Este emblemático lugar se llena de luces, decoraciones y actividades culturales. Entre los eventos más destacados se encuentran:
+
+* **Exposición de Pesebres en la Iglesia de San Francisco**: Desde el 10 de diciembre de 2024 hasta el 2 de febrero de 2025, con horario de 09:00 a 17:00.
+* **Noche de Cuentos por el Kapak Raymi**: El 22 de diciembre de 2024, a las 18:00, en el Museo de la Ciudad.
+* **Corredor Cultural – Día de Inocentes**: El 29 de diciembre de 2024, de 15:00 a 18:00, en el Bulevar 24 de Mayo.
+
+El Panecillo, Quito
+-------------------
+
+El Panecillo se destaca por su tradicional pesebre gigante, una de las principales atracciones navideñas de la ciudad.
+
+Aunque este año el pesebre no contará con iluminación nocturna debido a la crisis energética, las figuras, que incluyen representaciones de **San José**, el **Niño** **Jesús**, el asno, el buey y la cuna, estarán disponibles para el público durante todo diciembre.
+
+Actividades navideñas en Guayaquil
+----------------------------------
+
+Guayaquil ofrece diversas actividades festivas como:
+
+* **Ferias y Eventos Culturales**:
+    * Feria Navideña del Coleccionismo: 14 y 15 de diciembre, de 10:00 a 17:00, en el Parque Forestal.
+    * Fiesta de Navidad Reina de Guayaquil: 21 de diciembre, desde las 10:00, en la Concha Acústica del Parque Samanes.
+
+Pase del Niño en Cuenca
+-----------------------
+
+Esta tradicional procesión, declarada Patrimonio Inmaterial del Estado en 2008 por el Ministerio de Cultura y Patrimonio, se realiza el 24 de diciembre.
+
+Se inicia con una misa en la Catedral de la Inmaculada a las 09:00, seguida de un desfile que recorre las principales calles del Centro Histórico.
+
+El evento reúne a miles de personas que desfilan con trajes tradicionales y bíblicos, carros alegóricos y danzas.
+
+Loja tiene una feria navideña
+-----------------------------
+
+Durante la temporada navideña de 2024, **Loja** presenta diversas actividades que celebran la cultura y el espíritu festivo.
+
+Una de las principales atracciones es la feria navideña Arte y Comunidad, que organiza el Centro de Apoyo Social Municipal (**Casmul**).
+
+Este evento se realiza en la **Plaza** de **San Sebastián** y reúne a 60 emprendedores locales que ofrecen una variedad de productos, como bisutería, artesanías, manualidades, postres y **artículos** **navideños**.
+
+La feria comenzó el 18 y será hasta el 24 de diciembre.
+
+Gastronomía Navideña de Ecuador
+-------------------------------
+
+La Navidad en Ecuador también es una oportunidad para disfrutar de su variada gastronomía.
+
+Platos típicos como el pavo relleno, el cerdo hornado, y el popular chocolate caliente con pan de Pascua son parte del menú en muchas mesas.
+
+ En la Sierra, los tamales y las humitas complementan las cenas navideñas, mientras que en la Costa se suelen preparar platos como la ensalada de gallina y dulces tradicionales.
+
+Las bebidas como la chicha de jora y el ponche son populares durante las reuniones familiares.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+¿Cómo afectan los siniestros de tránsito por consumo de alcohol a Quito?
+========================================================================
+
+Los siniestros por consumo de alcohol no registra una reducción significativa
+-----------------------------------------------------------------------------
+
+![Conducir bajo el efecto del alcohol o de cualquier droga aumenta el riesgo de que se produzca una colisión, que cause muertes o lesiones graves.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-70.jpg)
+
+En los últimos cuatro años, Quito registra un promedio de **425,5** siniestros de tránsito por conducción en **estado etílico**. De la siniestralidad global del distrito, este problema recurrente representa un **13%**.
+
+Más noticias
+------------
+
+* [El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-muerte-motociclistas.html "El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza")
+* [68 de 1111 personas usaron el cinturón de seguridad en 1603 siniestros en Quito](https://www.elcomercio.com/actualidad/68-personas-usaron-el-cinturon-en-1603-siniestros-ninguna-uso-casco-en-quito/ "https://www.elcomercio.com/actualidad/68-personas-usaron-el-cinturon-en-1603-siniestros-ninguna-uso-casco-en-quito/")
+* [En Quito, los siniestros de tránsito provocan más muertes que los crímenes violentos](https://www.elcomercio.com/actualidad/quito/en-quito-los-siniestros-de-transito-provocan-mas-muertes-que-los-crimenes-violentos.html "https://www.elcomercio.com/actualidad/quito/en-quito-los-siniestros-de-transito-provocan-mas-muertes-que-los-crimenes-violentos.html")
+
+El impacto del alcohol en los siniestros de tránsito en Quito
+-------------------------------------------------------------
+
+![visualization](https://public.flourish.studio/story/2768395/thumbnail)
+
+El consumo de alcohol es un problema recurrente, que sigue reflejándose en la siniestralidad de Quito. Al comparar el número de siniestros de **enero a octubre del 2024** con el mismo periodo de los tres años anteriores (2021-2023) se ve que es la cifra más alta: **403**.
+
+De acuerdo con los registros de la **Agencia Metropolitana de Tránsito (AMT)**, en los primeros 10 meses del **2021** se registraron 391 incidentes de este tipo. En **2022 y 2023** bajaron a 331 y 306, respectivamente. Pero este **2024** nuevamente repuntó. El aumento con respecto al año anterior es del 24%.
+
+Ahora bien, la conducción en estado de embriaguez preocupa aún más en las festividades decembrinas. Pero no necesariamente la tendencia es la misma todos los años. En 2021, las cifras muestran que octubre y diciembre tuvieron más siniestros de todo ese año y se extendió a enero del 2022. Pero, luego la siniestralidad por esta causa cayó significativamente hasta diciembre.
+
+En 2023, junio, noviembre y diciembre fueron los que meses que más siniestros tuvieron, sobre todo el último mes del año: 63 siniestros frente a los 30 de los 2022. Para finalizar este año se espera que campañas, como Márcale 0 al alcohol y los operativos de control den resultados.
+
+Más operativos, mayor siniestralidad por embriaguez
+---------------------------------------------------
+
+De manera global, los operativos de control por consumo de alcohol aumentaron de enero a octubre del 2024 de una manera significativa en comparación a los efectuados en los tres años anteriores juntos. En total se hicieron **1 402 operativos frente a 894**. Es decir, 36% más.
+
+> Si se compara por meses, el aumento de los controles ha sido considerable, pero no repercute en una disminución de la siniestralidad. La data muestra que mientras más operativos se hacían mayor era el número de siniestros. Esto se evidencia, sobre todo, de enero a junio de este año.
+
+Para entender mejor: en el primer trimestre de 2024 se hicieron 830 de los 1 402 operativos, es decir, el 59%. En estos meses se presentaron **125 siniestros**, cifra mayor a los de los tres años anteriores, en los cuales apenas se efectuaron 184 operativos. En otras palabras, 4,5 veces menos controles.
+
+El segundo trimestre, la tendencia es similar: más controles, mayor siniestralidad. En este periodo se hicieron 434 operativos, aún el doble de los tres años anteriores y los siniestros sumaron **127.**
+
+Finalmente, el tercer trimestre, la AMT redujo aún más los operativos y el número de siniestros cayó de 127 a **114**, aunque más que años pasados.
+
+Las cinco vías en las que más controles se hicieron fueron: las avenidas Simón Bolívar, Mariscal Sucre, Shyris, Panamericana Norte y Cóndor Ñan.
+
+![visualization](https://public.flourish.studio/story/2768400/thumbnail)
+
+Las consecuencias de conducir en estado etílico
+-----------------------------------------------
+
+En los cuatro años que se analizaron, 1125 personas afrontaron lesiones leves y graves. El pico más alto de lesionados fue el 2023. Este año todavía falta por cerrar con las cifras de noviembre y diciembre.
+
+En promedio, 281 personas al año sufrieron las consecuencias de este tipo de siniestros, que muchas veces está asociado con el exceso de velocidad.
+
+Estos incidentes, además, provocaron el fallecimiento de 52 personas. Una media de 13 al año, es decir, una familia por mes está de luto por un conductor que conduce en estado de embriaguez.
+
+Las cifras, según Alberto Hidalgo, experto en movilidad activa, reflejan un estancamiento en la reducción de fallecidos y lesionados, lo que indica que es necesario un enfoque más integral y contundente.
+
+Roberto Cabezas, jugador de Independiente Juniors, de 22 años, y Marco Angulo, futbolista de Liga de Quito futbolista de Liga de Quito, estuvieron involucrados en un accidente de tránsito, en el que se constató exceso de velocidad y la presencia de botellas de cerveza en el auto siniestrado.
+
+Cabezas murió la madrugada del pasado 7 de octubre, en la autopista general Rumiñahui. Ángulo pasó un mes hospitalizado, por trauma craneoencefálico severo. Falleció el 11 de noviembre de 2024. 
+
+Estos futbolistas son parte del grupo más vulnerable. Según la Fundación Cavat, los jóvenes entre 20 y 29 años representan el 43% de las víctimas fatales. Los hombres son la mayoría de involucrados (81%) y los siniestros ocurren, principalmente, en las noches de los sábados. Además, los motociclistas son especialmente vulnerables, constituyendo el 35% de los fallecidos.
+
+Además de lesiones y muertes que son prevenibles, la AMT explica que las detenciones por ingesta de alcohol también causan impacto en su entorno familiar y laboral. Muchos pierden su trabajo.
+
+Desde 2021 hasta octubre del 2024 se detuvieron a 1 677 personas por conducir en estado etílico. De acuerdo con el nivel de alcoholemia entran al Centro de Detención de  Infractores de Transito, desde cinco hasta 30 días, según lo establece el art. 385 del COIP (Código Orgánico Integral Penal).
+
+Desafíos que aún persisten frente al consumo de alcohol
+-------------------------------------------------------
+
+El personal de la AMT realizar operativos preventivos con alcohotectores desechables. Esto consiste en que el ciudadano sopla en una boquilla y el dispositivo electrónica marcará el grado  de alcohol ingerido. Si la prueba es positiva llama a un familiar o designa a un acompañante (‘conductor elegido’) para que maneje el auto.  Pero pese a estos operativos con fines educativos, los problemas aún persisten.
+
+Hay dos desafíos que ha identificado la AMT: escasa conciencia por parte de conductores jóvenes, entre 18 y 35 años, sobre la importancia de la seguridad vial y la siniestralidad por conducir bajo el efecto del alcohol y exceder la velocidad.  
+
+Por otra parte, está la falta de responsabilidad social en los centros de diversión, bares, restaurantes y empresas que venden licores. Para esto, la entidad cree necesario que se ofrezca transporte alternativo gratuito o subsidiado. En colaboración con  bares, discotecas y eventos, ofrecer transporte seguro, como buses nocturnos o descuentos en plataformas de autos privados.
+
+Para Hidalgo, las campañas, talleres y acciones en espacios públicos si contribuyen a sensibilizar a la población, pero su efectividad en términos de reducción de siniestros aún deja retos. Las cifras siguen siendo alarmantes, como reflejan las proyecciones y el no cumplimiento de los objetivos del **Plan Maestro de Movilidad Sostenible del DMQ y el Decenio de Acción para la Seguridad Vial 2021-2030**. Estos plantean la reducción, en un 50% muertes y lesiones graves, para 2030.
+
+¿Qué falta por hacer?
+---------------------
+
+Hidalgo destaca destaca la falta de un reglamento actualizado para la Ley Orgánica de Transporte Terrestre. Esto, añade, afecta la implementación de controles efectivos sobre el consumo de alcohol y los límites de velocidad. Recomienda actualizar este reglamento, implementar tecnología de control vial y fortalecer la educación vial, especialmente entre jóvenes y motociclistas.
+
+Por parte de las autoridades locales aún hay que establecer controles de alcoholemia en puntos estratégicos y en  horarios clave los fines de semana, feriados y en eventos masivos. Aun creen que la  presencia constante de estos controles puede ser un fuerte disuasivo. 
+
+También proponen incorporar dispositivos como cámaras con reconocimiento de  matrículas vinculadas a datos de conductores sancionados  previamente por alcoholemia. 
+
+La [Fundación Cavat](https://cavat-nicoleparedes.org/ "https://cavat-nicoleparedes.org/") promueve la creación de una unidad de atención integral para víctimas, que brinde apoyo legal, social y emocional a las personas afectadas. La Coalición por la Movilidad Segura Ecuador, conformada por 60 organizaciones, en cambio, lograron que se establezca un Día Oficial en Memoria de las Víctimas de Siniestros Viales. Además, de la creación de un espacio para un monumento conmemorativo, como una forma de visibilizar el impacto de los siniestros y generar conciencia.  
+
+  
+
+  
+  
+
+Posibles alineaciones de Liga de Quito e Independiente del Valle para la final
+==============================================================================
+
+Liga de Quito e Independiente del Valle tienen listos sus equipos para enfrentarse en la final de vuelta de la Liga Pro.
+------------------------------------------------------------------------------------------------------------------------
+
+![Jeison Medina (arriba) de Independiente del Valle disputa un balón ante Richard Mina de Liga de Quito (abajo).](https://www.elcomercio.com/wp-content/uploads/2024/12/20241207140877-fbl-ligapro-primera-final-liga-independiente-scaled.jpg)
+
+**Liga de Quito e Independiente del Valle** tendrán su revancha de la final de ida de la Liga Pro durante este sábado 14 de diciembre de 2024 a las 15:30. Para el nuevo cotejo, los rayados deberán plantear una alineación para dar vuelta a un 3-0 previo, mientras que a los albos parten con comodidad.
+
+El último compromiso del campeonato ecuatoriano se jugará en el Estadio de Independiente del Valle y los rayados **contarán con el apoyo de sus hinchas**. Para el cotejo se espera que el reducto de la escuadra negriazul cuente con un lleno total.
+
+### Más noticias:
+
+* [Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-valle-viernes13-terror-redes.html "Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito")
+* [¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?](https://www.elcomercio.com/deportes/liga-quito-jugadores-favoritos-vitamina-sanchez.html "¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?")
+* [La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito](https://www.elcomercio.com/deportes/pablo-sanchez-tatuaje-vitamina-liga-quito.html "La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito")
+
+De cara al compromiso, los futbolistas de **Independiente del Valle** manifestaron su confianza en la remontada y señalaron que no el sacrificio de su parte no faltaría. Asimismo, sostuvieron que no tenían margen de error y que debían saber manejar la presión para que no les juegue en contra.
+
+Del lado de Liga de Quito, el **DT Pablo ‘Vitamina’ Sánchez** también se expresó en la previa del compromiso. El entrenador sostuvo que su equipo merece ser campeón y que su cuerpo técnico está enamorado de sus jugadores. Asimismo, prometió un tatuaje para recordar el momento si gana el título.
+
+¿Qué planteamientos tendrán Liga de Quito e Independiente?
+----------------------------------------------------------
+
+**Liga de Quito**, desde la llegada del **DT Pablo ‘Vitamina’ Sánchez** a mediados de la temporada 2024, ha jugado con 4-3-3. Aquel sistema, además, fue el que utilizó el entrenador argentino durante la final de ida en la que goleó a los rayados.
+
+El esquema táctico obedece a una línea de cuatro defensores, sin embargo, lo más llamativo está en el medio campo. Allí, **Sánchez** utiliza un solo volante de contención y dos futbolistas más adelantados para funciones de conducción. En punta se ubica un solo centrodelantero y un extremo en cada andarivel[.](https://en.wikipedia.org/wiki/L.D.U._Quito "https://en.wikipedia.org/wiki/L.D.U._Quito")
+
+A diferencia de Pablo Sánchez, el DT **Javier Gandolfi** de Independiente del Valle llegó desde el inicio de la temporada 2024. Este ha utilizado de manera habitual un esquema de **4-2-3-1**, el mismo que le hizo ganar la primera etapa.
+
+En el **dibujo técnico**, los rayados también tienen cuatro defensores en el fondo. A su vez, en el centro del terreno de juego cuentan con dos volantes defensivos, dos laterales y un enganche que conecta el juego con la zona delantera. En punta hay un solo ‘nueve’.
+
+Alineación potencial de Liga de Quito
+-------------------------------------
+
+Alexander Domínguez (arquero); Daniel de la Cruz, Richard Mina, Ricardo Adé, Leonel Quiñónez (defensas); Ezquiel Piovi, Fernando Cornejo, Gabriel Villamil (volantes); Bryan Ramírez, Álex Arce y Jhojan Julio (delanteros).
+
+Alineación potencial de Independiente del Valle
+-----------------------------------------------
+
+Guido Villar (arquero); Matías Fernández, Richard Schunke, Mateo Carabajal, Yaimar Medina (defensas); Cristina Zabala, Joao Ortiz, Keny Arroyo, Bryan García, Renato Ibarra (volantes); Jeison Medina (delantero).
+
+Piero Hincapié se lució en triunfo clave del Leverkusen
+=======================================================
+
+El Bayer Leverkusen es el nuevo escolta de Bayern Múnich en la Bundesliga.
+--------------------------------------------------------------------------
+
+![Piero Hincapié domina el balón en la fecha 12 de la Bundesliga 2024/25.](https://www.elcomercio.com/wp-content/uploads/2024/12/hincapie_bundesliga_1.jpg)
+
+**Piero Hincapié** fue una de las figuras en un nuevo triunfo del Bayer Leverkusen en la jornada 14 de la Bundesliga. El juego se llevó a cabo este sábado 14 de diciembre ante el Augsburgo, exequipo de Carlos Gruezo.
+
+Piero Hincapié jugó de **titular y completó los 90 minutos**. Fue destacado durante la trasmisión del encuentro como uno de los pilares en la zona defensiva. Incluso, fue incluido en el podio, solo superado por el suizo Granit Xhaka.
+
+### Más noticias:
+
+* [Segundo Castillo será el DT de Barcelona en el centenario](https://www.elcomercio.com/deportes/futbol/segundo-castillo-mortero-dt-barcelona.html "Segundo Castillo será el DT de Barcelona en el centenario")
+* [Cierran caso de violación en el que se vinculaba a Mbappé](https://www.elcomercio.com/deportes/futbol/kylian-mbappe-caso-vinculacion-violacion.html "Cierran caso de violación en el que se vinculaba a Mbappé")
+* [Liga de Quito e IDV, dos estilos de juego para un solo campeón](https://www.elcomercio.com/deportes/futbol/liga-de-quito-e-idv-dos-estilos-de-juego-para-un-solo-campeon.html "Liga de Quito e IDV, dos estilos de juego para un solo campeón")
+
+Piero Hincapié y su impecable temporada
+---------------------------------------
+
+El sitio especializado **SofaScore calificó a Hincapié con un puntaje de 7,7 puntos**. Para este portal web la figura fue Florian Wirtz con 8,1 puntos.
+
+En la Bundesliga es titular fijo para el español Xabi Alonso. **Participó en 12 de los 14 partidos**, completó los 90 minutos en todos, y en los dos restantes ingresó al cambio para el segundo tiempo para hacer efectiva la rotación por la seguidilla de juegos.
+
+En la Champions League también se mantiene como titular. Jugó los 90 minutos en los triunfos ante el Feyenoord (0-4), Milan (1-0), **Salzburgo (5-0, pero salió a los 68′) e Inter (1-0)**; en el empate 1-1 contra el Stade Brestois; y en la derrota 4-0 en su visita al Liverpool.
+
+En la Copa Alemana se mantuvo como suplente ante el Carl Zeiss Jena y el SV Elversberg, pero fue requerido para visitar al **Bayern Múnich en el Allianz Arena en los octavos de final**. Fue triunfo para el Leverkusen por 0-1.
+
+![X del club.](https://www.elcomercio.com/wp-content/uploads/2024/12/hincapie_bundesliga_2-1024x683.jpg)
+
+X del club.
+
+Leverkusen es escolta
+---------------------
+
+El Leverkusen empieza a recuperar terreno y **ahora es el escolta del Bayern en la tabla de posiciones** de la Bundesliga. Alcanzó 29 puntos y un gol diferencia positivo de +12.
+
+Los ‘Bávaros’ fueron derrotados en su vista al **Mainz por 2-1 y se quedaron con 33 puntos**, muy cómodos en la primera casilla, pero con un escolta que intentará alcanzarlos y revalidar su título de campeón.
+
+El Leverkusen puede perder el segundo puesto si el Eintracht Frankfurt, equipo de Willian Pacho antes de marcharse al PSG, **le gana al Leipzig en condición de visitante**. Si eso se cumple llegarán a los 30 puntos.
+
+La fecha 15 tiene al Leverkusen de local para recibir al Friburgo. El balón rodará en el BayArena el sábado 21 de diciembre, desde las 12:30.
+
+Ese será el último compromiso del año. La **Bundesliga se reanudará el 10 de enero** de 2025 y será con un partidazo ante el Borussia Dortmund en el Signal Iduna Park.
+
+San viernes
+-----------
+
+Crisis cafetera: emergencia climática y costos elevan los precios
+=================================================================
+
+La emergencia climática intensifica los desafíos para los principales países productores de café.
+-------------------------------------------------------------------------------------------------
+
+![Fotografía de archivo de una taza y granos de café arábica, en Río de Janeiro (Brasil).](https://www.elcomercio.com/wp-content/uploads/2024/12/cafe-brasil-efe.jpg)
+
+La **crisis climática** y los **costos crecientes** están marcando la producción de **café en América.** Mientras **Colombia aumenta su producción, países como Perú, Costa Rica y Honduras** enfrentan desafíos por climas extremos, altos costos y mercados volátiles. Aunque los **precios internacionales** subieron, los **pequeños productores** luchan por obtener beneficios justos.
+
+### Más noticias
+
+* [Vera, una cafetera ultramoderna que también decora](https://www.elcomercio.com/tendencias/construir/vera-cafetera-ultramoderna-decoracion-lujo.html "https://www.elcomercio.com/tendencias/construir/vera-cafetera-ultramoderna-decoracion-lujo.html")
+* L[a exportación de café ecuatoriano de especialidad crece](https://www.elcomercio.com/actualidad/negocios/exportacion-cafe-ecuatoriano-especialidad-crecio.html "https://www.elcomercio.com/actualidad/negocios/exportacion-cafe-ecuatoriano-especialidad-crecio.html")
+* [El café y sus secretos revelados junto a curiosidades sorprendentes](https://www.elcomercio.com/tendencias/gastronomia/cafe-curiosidades-salud-efemeride.html "https://www.elcomercio.com/tendencias/gastronomia/cafe-curiosidades-salud-efemeride.html") 
+
+En 2024, los precios del café **alcanzaron máximos históricos**, impulsados por **factores climáticos extremos** que afectan a los **principales países productores.** Este panorama reconfigura la **economía cafetera global**. Beneficia a algunos actores **mientras desafía a otros**. Con un incremento del 70 % en los precios del café arábica, la situación pone en jaque tanto a productores como a consumidores.
+
+La emergencia climática intensifica los **desafíos para los principales países productores de café.** Si bien algunos lograron **aprovechar el auge de precios,** otros enfrentan **dificultades estructurales y climáticas** que amenazan la estabilidad del mercado. Con este panorama, la sostenibilidad y la innovación se convierten en claves para el futuro de la caficultura global.
+
+El aumento de los precios del café son consecuencia principalmente de las **sequías en Vietnam e Indonesia,** así como de las heladas que afectaron a Brasil en 2021 y 2022 y que afectaron a un 35 % de la cosecha de café arábica del país suramericano.
+
+Brasil: el gigante den dificultades
+-----------------------------------
+
+Brasil, el **mayor productor mundial de café**, enfrenta un panorama incierto. Tras recuperar su producción de arábica con un crecimiento del 1,7 % este año, las previsiones para 2025 son sombrías.
+
+Una **sequía de cinco meses amenaza** con reducir significativamente la próxima cosecha.
+
+Según Márcio Ferreira, presidente del Consejo de los Exportadores de Café (Cecafé), la reducción será notable: “Lo más probable es que la **producción del próximo año se reduzca significativamente**“, dice.
+
+Además, la presión de **fondos especulativos** y la **nueva legislación europea** sobre deforestación han contribuido a la volatilidad de los precios.
+
+Colombia: resilencia ante el desafío
+------------------------------------
+
+Colombia, por su parte, alcanzó **cifras récord en 2024.** La producción anual de **13,41 millones de sacos** refleja un crecimiento del **21 % en comparación con el año anterior.**
+
+Germán Bahamón, gerente de la **Federación Nacional de Cafeteros**, calificó estos resultados como “un testimonio de la resiliencia y capacidad de adaptación de los cafeteros colombianos”.
+
+Con ingresos de **14,2 billones de pesos (3 200 millones de dólares)**, el sector cafetero se consolida como motor económico del país, aupado por el incremento de los precios del café en el mercado internacional.
+
+“El 2024 fue un año de **tendencia alcista**. Cerramos el 2023 con un precio de **1,88 dólares por libra** (…) hoy, en noviembre de 2024, celebramos un precio de **3,18 dólares por libra**“, subraya.
+
+No obstante, Bahamón advierte sobre la necesidad de renovar cafetales y mantener políticas de fertilización para garantizar la sostenibilidad.
+
+México: una cosecha golpeada por la sequía
+------------------------------------------
+
+En México, la sequía afectó gravemente a los **productores** en estados clave como **Chiapas, Veracruz y Oaxaca**. Según testimonios locales, la producción ha caído más del 50 %.
+
+Moisés Ernesto, productor de Chiapas, describe la situación: “La planta está verde, pero no tiene la producción de café que debería dar”. Aunque **México sigue siendo el octavo** mayor exportador mundial, las condiciones adversas han puesto en peligro la estabilidad de su cosecha.
+
+Perú: estrategias para contrarrestar la caída
+---------------------------------------------
+
+En Perú, las cifras también reflejan una disminución. Con una producción de 250 000 toneladas, el **rendimiento promedio cayó a 658 kilos por hectárea,** significativamente por debajo del promedio mundial de 880 kilos.
+
+Factores como la **roya amarilla** y el **envejecimiento de las plantaciones** afectaron al rendimiento. La Junta Nacional del Café (JNC) solicitó **medidas urgentes**, como la renovación de **50 000 hectáreas** y la creación de un fondo de **120 millones de soles** (32 millones de dólares) para sostener la producción y apoyar a los 200 000 pequeños productores del país.
+
+Costa Rica: un crecimiento moderado en medio de desafíos
+--------------------------------------------------------
+
+Costa Rica espera un **aumento del 8,6 % en la cosecha** 2024-2025, alcanzando 1,75 millones de sacos de 46 kilos.
+
+A pesar de la mejora en los precios internacionales, hay **coyunturas internas** que están afectando a los **productores y exportadores**, como por ejemplo la caída del tipo de cambio del dólar en un 25 % desde julio de 2022.
+
+Las fluctuaciones en el tipo de cambio han generado quejas entre los productores, quienes enfrentan mayores costos locales con ingresos internacionales decrecientes.
+
+Honduras: beneficios inciertos
+------------------------------
+
+Honduras, con una proyección de **siete millones de quintales (317 800 toneladas)** para la temporada 2024-2025, enfrenta altos costos de producción que opacan los beneficios de los precios internacionales.
+
+“**No estamos recibiendo lo justo**“, afirmó un productor de El Paraíso. A pesar de esto, Pedro Mendoza, presidente del Instituto Hondureño del Café (IHCAFE), señaló que el aumento de los precios podría generar **nuevas oportunidades de empleo**, especialmente en la recolección.
+
+Toma precauciones al conducir durante las lluvias
+=================================================
+
+Cuando llueve, la calzada se vuelve resbalosa, lo que aumenta la probabilidad de siniestralidad.
+------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/04/Conducir-en-lluvia.jpg)
+
+En época de lluvia es importante **conducir** con **precaución**. El estado climático dificulta la **visibilidad** y la calzada se vuelve **resbalosa**, lo que aumenta la **probabilidad** de **siniestralidad**[.](https://es.wikipedia.org/wiki/Siniestro "https://es.wikipedia.org/wiki/Siniestro")
+
+### Más noticias
+
+* [Varios siniestros de tránsito se registraron la mañana de 14 de diciembre en Quito](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-simon-bolivar-ruminahui.html "Varios siniestros de tránsito se registraron la mañana de 14 de diciembre en Quito")
+* [Diciembre, un mes propicio para la prevención los siniestros de tránsito](https://www.elcomercio.com/opinion/editorial/diciembre-mes-propicio-prevencion-siniestros-transito.html "Diciembre, un mes propicio para la prevención los siniestros de tránsito")
+* [Diciembre, el mes con más siniestros de tránsito en Quito](https://www.elcomercio.com/actualidad/quito/diciembre-mes-mas-siniestros-transito-quito.html "Diciembre, el mes con más siniestros de tránsito en Quito")
+
+Con la presencia de las lluvias aumentan los **riesgos**. Cualquier maniobra se vuelve peligrosa si no se tienen en cuenta los **factores** **climáticos**.
+
+De acuerdo con el visor de siniestralidad de la Agencia Metropolitana de Tránsito de Quito (**AMT**), entre el 1 de enero y noviembre se reportaron 119 **siniestros de tránsito** relacionados con **condiciones** **ambientales** adversas.
+
+Por este motivo, hemos creado una lista de recomendaciones de cómo conducir en temporadas de lluvia.
+
+Recomendaciones para conducir en época de lluvias
+-------------------------------------------------
+
+* **Llantas en buen estado:** Para manejar en la lluvia es necesario tener las llantas del auto en buen estado. Deben tener un buen agarre, pues la calzada se vuelve resbaladiza y al momento de frenar puede existir un deslizamiento del automotor. Es fundamental que estén inflados con la presión recomendada en el manual de cada carro.
+* **Mantén la distancia entre vehículos:** Conducir a una distancia prudente entre vehículos, se cuenta con tiempo para reaccionar en caso de una emergencia. Con la calzada mojada es más difícil frenar con precisión y hacer maniobras bruscas se vuelve más peligroso.
+* **Mantén limpio el parabrisas:** Es obligatorio mantener limpio el parabrisas por dentro y por fuera para evitar que se empañe por el cambio de temperatura. En caso de que esto pase, es necesario encender la calefacción o aire acondicionado direccionado al vidrio.
+* **Luces prendidas:** No solo sirve para que puedas ver mejor, mientras conduces. También ayuda a los otros conductores a que te vean desde una distancia prudente y tengan sus precauciones.
+* **Usa los limpiaparabrisas:** Antes de salir, revisa que los limpiaparabrisas funcionen de manera óptima.
+* **Evita los charcos:** Puede ser difícil determinar la profundidad de los charcos, así que trata de no pasar sobre ellos para evitar el hidroplano.
+* **Mantén ambas manos sobre el volante:** Tener ambas manos firmes sobre el volante ayuda a tener el control del auto en caso de aquaplaning.
+* **Respetar los límites de velocidad:** Esta recomendación es crucial, aun cuando se maneja en condiciones secas. Ir a la velocidad debajo de lo permitida, ayuda a reaccionar a tiempo en caso de emergencia sin poner en riesgo a los demás y a uno mismo.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Tres siniestros de tránsito se registraron la mañana de 14 de diciembre en Quito
+================================================================================
+
+Los siniestros de tránsito ocasionaron cierres viales en las zonas afectadas.
+-----------------------------------------------------------------------------
+
+![La Autopista General Rumiñahui tiene alta carga vehicular por un siniestro de tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/12/Carga-vehicular-siniestros.jpg)
+
+La madrugada de este sábado, 14 de diciembre de 2024, se reportó un siniestro de tránsito en la intersección de las avenidas **Velasco** **Ibarra** y **Rumiñahui**, a la altura de **El** **Trébol, en Quito**[.](https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito "https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito")
+
+Más noticias
+------------
+
+* [Diciembre, un mes propicio para la prevención los siniestros de tránsito](https://www.elcomercio.com/opinion/editorial/diciembre-mes-propicio-prevencion-siniestros-transito.html "Diciembre, un mes propicio para la prevención los siniestros de tránsito")
+* [Diciembre, el mes con más siniestros de tránsito en Quito](https://www.elcomercio.com/actualidad/quito/diciembre-mes-mas-siniestros-transito-quito.html "Diciembre, el mes con más siniestros de tránsito en Quito")
+* [Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito](https://www.elcomercio.com/actualidad/quito/personas-fallecieron-siniestros-transito-durante-feriado-fiestas-quito.html "Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito")
+
+La alerta ingresó a través de la Línea Única para Emergencias 911 a las 5:05 am, donde se informó sobre el **impacto de un vehículo contra un poste**, en sentido norte -sur.
+
+Respuesta de las autoridades por el siniestro de tránsito
+---------------------------------------------------------
+
+De inmediato, el Centro de Operaciones coordinó con la Agencia Metropolitana de Tránsito (**AMT**) y la Empresa Eléctrica de Quito (**EEQ**) para atender la situación.
+
+La vía fue habilitada a las 10:37, tras la finalización de las labores realizadas por la EEQ en el lugar del siniestro de tránsito.
+
+Afectaciones al tránsito
+------------------------
+
+El siniestro provocó una fuerte congestión vehicular en los alrededores. Las autoridades recomiendan precaución a los conductores que transiten por el sector y sugieren tomar **rutas** **alternas** para evitar retrasos.
+
+> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 🚧 Cierre: autopista General Rumiñahui y Velasco Ibarra  
+> 🛣️ Carriles cerrados: derecho en sentido norte-sur.  
+>   
+> 👮‍♀️ Con precaución ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/psXq5WHepq](https://t.co/psXq5WHepq)
+> 
+> — AMTQuito (@AMT\_Quito) [December 14, 2024](https://twitter.com/AMT_Quito/status/1867901414418354682?ref_src=twsrc%5Etfw)
+
+Otros siniestros de tránsito en Quito
+-------------------------------------
+
+Además del siniestro registrado en la intersección de las avenidas **Velasco** **Ibarra** y **Rumiñahui**, otro incidente ocurrió en la **Autopista** **General** **Rumiñahui**, a la altura del peaje en el sector **Edén del Valle.**
+
+La **AMT** informó que este **siniestro** obligó al cierre de dos **carriles** **izquierdos** en dirección sur-norte. Una hora después, la vía fue habilitada nuevamente.
+
+> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 📍 Sector: Edén del Valle  
+> 🚧 Cierre: autopista General Rumiñahui a la altura del peaje  
+> 🛣️ Carriles cerrados: 2 carriles izquierdos en sentido sur-norte  
+>   
+> 👮‍♀️ Con precaución ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/YAVLphDjFm](https://t.co/YAVLphDjFm)
+> 
+> — AMTQuito (@AMT\_Quito) [December 14, 2024](https://twitter.com/AMT_Quito/status/1867883540555378905?ref_src=twsrc%5Etfw)
+
+En la avenida **Simón** **Bolívar**, la mañana de este 14 de diciembre de 2024, se reportó otro siniestro de tránsito en el sector de **San Martín**, según detalló la **AMT**.
+
+Este hecho provocó el cierre de tres carriles en el mismo sentido, sur-norte. Las autoridades lograron habilitar la vía más tarde, restableciendo la circulación vehicular.
+
+> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 📍 Sector: San Martín  
+> 🚧 Cierre: av. Simón Bolívar, en la curva de Santa Rosa  
+> 🛣️ Carriles cerrados: los 3 carriles de circulación en sentido sur-norte.  
+>   
+> 👮‍♀️ Con precaución ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zi53i9XuVF](https://t.co/zi53i9XuVF)
+> 
+> — AMTQuito (@AMT\_Quito) [December 14, 2024](https://twitter.com/AMT_Quito/status/1867878970508873783?ref_src=twsrc%5Etfw)
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Elena Rose es la embajadora urbana del amor propio y la autoaceptación
+======================================================================
+
+Elena Rose es la dueña de una canción con letra poderosa.
+---------------------------------------------------------
+
+![Elena Rose tiene 29 años. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T174257.363.jpg)
+
+Se llama **Andrea Elena Mangiamarchi,** pero la conocen como [**Elena Rose**.](https://www.youtube.com/@ElenaRose "https://www.youtube.com/@ElenaRose") Con su voz, carisma y letras conquista la escena musical latina.
+
+Desde pequeña, mostró un profundo interés por la música, influenciada por artistas de diversos géneros, desde Frank Sinatra hasta Daddy Yankee.
+
+Su vida transcurrió entre **Puerto Rico y Venezuela**, donde estudió periodismo antes de mudarse a Estados Unidos para perseguir su sueño musical.
+
+### **Más noticias:**
+
+* [La coreana que conquista Ecuador con su voz en coreano, inglés y español](https://www.elcomercio.com/tendencias/entretenimiento/yulia-song-coreana-ecuador-musica-artista-emergente.html "https://www.elcomercio.com/tendencias/entretenimiento/yulia-song-coreana-ecuador-musica-artista-emergente.html")
+* [Un joven que creció en una gasolinera es el rostro del reguetón ‘bueno’](https://www.elcomercio.com/tendencias/entretenimiento/cantante-colombiano-gasolinera-kapo-uwaie.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/cantante-colombiano-gasolinera-kapo-uwaie.html?source=Internal&ref=Single+Content+Link")
+* [Karol G enternece las redes con un disfraz inspirado en una película icónica](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-disfraz-matilda-famosa-colombia.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-disfraz-matilda-famosa-colombia.html?source=Internal&ref=Single+Content+Link")
+
+**Elena Rose se abrió camino con Dollar**
+-----------------------------------------
+
+Su trayectoria despegó en 2019, cuando **Elena escribió** Dollar, un éxito interpretado por Becky G y Myke Towers. En mayo de 2020, lanzó su sencillo debut **Sandunga**, una mezcla de reggaetón y pop que demostró su habilidad como artista.
+
+Desde entonces, trabaja con grandes nombres de la música latina como Ricky Martin, Rauw Alejandro, Selena Gomez y Maluma. Ahora es una de las voces más influyentes del género urbano.
+
+Uno de sus temas más destacados es Caracas en el 2000, lanzado en 2023 junto a Danny Ocean y Jerry Di. Esta canción se convirtió en un himno para muchos venezolanos.
+
+Me lo merezco, en cambio, se transformó en un himno mundial. Es una canción con una letra poderosa que invita a reflexionar sobre la importancia de amarse a uno mismo.
+
+¿A qué hora juegan la final de vuelta Independiente y Liga de Quito?
+====================================================================
+
+Liga de Quito e Independiente del Valle disputarán la final de vuelta de la Liga Pro en la que el cuadro azucena guarda ventaja.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Keny Arroyo (izq.) de Independiente del Valle disputa un balón con Leonel Quiñónez (der.) de Liga de Quito en la final de ida de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T131225.340.jpg)
+
+**Independiente del Valle** recibe a Liga de Quito en la final de vuelta de la Liga Pro en su estadio durante este sábado 14 de diciembre del 2024. Los equipos buscarán el título y los albos llegan con ventaja tras el cotejo de ida.
+
+El cuadro rayado tiene un reto ante los albos para su último partido de la temporada y debe anotarle cuatro goles para salir campeón directo y tres para llevar la definición a penales. En la ida, la ‘U’ se impuso en el **Estadio Rodrigo Paz Delgado** por un marcador de 3-0.
+
+### Más noticias:
+
+* [Liga de Quito, IDV y una recordada final de Liga Pro](https://www.elcomercio.com/deportes/liga-pro-final-independiente-liga-2023-2024.html "Liga de Quito, IDV y una recordada final de Liga Pro")
+* [¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?](https://www.elcomercio.com/deportes/liga-quito-jugadores-favoritos-vitamina-sanchez.html "¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?")
+* [IDV necesita una gesta para arrebatarle el título a Liga de Quito](https://www.elcomercio.com/deportes/futbol/idv-necesita-una-gesta-para-arrebatarle-el-titulo-a-liga-de-quito.html "IDV necesita una gesta para arrebatarle el título a Liga de Quito")
+
+Durante el primer partido, el cuadro azucena fue visiblemente superior a sus rivales de Sangolquí y **Álex Arce** brilló. El delantero paraguayo hizo un doblete y el tanto complementario lo metió el boliviano **Gabriel Villamil** en el cierre del encuentro[.](https://en.wikipedia.org/wiki/L.D.U._Quito "https://en.wikipedia.org/wiki/L.D.U._Quito")
+
+De cara al nuevo compromiso, los rayados recibirán al plantel universitario en su casa y contarán con el apoyo de su gente. Pese al panorama y al adverso marcador, estos aún no se han resignado y creen en la remontada, como mencionaron a los **medios de comunicación** en los días previos.
+
+En Liga de Quito, el clima es de optimismo, sin embargo, el **DT Pablo ‘Vitamina’** Sánchez también mencionó que no se debe subestimar al rival. Asimismo, señaló que su equipo merece ser campeón y agregó que, de hacerlo, se realizará un tatuaje para conmemorarlo.
+
+Hora y transmisión de Independiente del Valle vs. Liga de Quito
+---------------------------------------------------------------
+
+**Partido**: Independiente del Valle (0) vs. Liga de Quito (3).
+
+**Fecha**: sábado 14 de diciembre del 2024.
+
+**Hora**: 15:30.
+
+**Transmisión**: Vía streaming
+
+La final ‘tendrá acción’ en dos canchas
+---------------------------------------
+
+A pesar de que el cotejo como tal se llevará a cabo en el **Estadio de Independiente del Valle**, el Rodrigo Paz Delgado de **Liga de Quito** también abrirá sus puertas. El conjunto azucena decidió transmitir el compromiso en pantallas para los hinchas que acudan.
+
+Quienes deseen presenciar el cotejo desde la casa de la ‘U’ deberán pagar **un dólar** si son tarjetahabitantes. Los aficionados en general deberán pagar **dos dólares con cincuenta centavos**.
+
+‘Friends’ y siete series de los 90 para ver en streaming
+========================================================
+
+Las series de los 90, dicen los fans, tienen un elemento difícil de copiar
+--------------------------------------------------------------------------
+
+![Chandler, Rachel, Ross, Mónica, Joey y Phoebe son los personajes de 'Friends'.](https://www.elcomercio.com/wp-content/uploads/2024/12/series-El-Comercio.jpg)
+
+Las **series de los 90** capturaron la imaginación de una generación y siguen siendo una fuente de nostalgia para muchos. En el público ecuatoriano aún resuenan éxitos como ‘**Friends**‘, ‘**The Nanny**‘ y otros similares.
+
+Aunque algunas tramas pueden parecer un poco absurdas en 2024, en su época marcaron una revolución y engancharon a adolescentes y adultos por igual. Muchas de estas series se han mantenido vigentes, encontrando un nuevo hogar en las plataformas de _streaming_.
+
+### Más noticias
+
+* **[Animes y mangas de Akira Toriyama antes de ‘Dragon Ball’](https://www.elcomercio.com/afull/akira-toeiyama-dragon-ball-anime.html "https://www.elcomercio.com/afull/akira-toeiyama-dragon-ball-anime.html")** 
+
+Para los amantes de las series clásicas, hemos compilado una lista de diez series de los 90 que puedes disfrutar en streaming.
+
+Series de los noventa disponibles en streaming
+----------------------------------------------
+
+‘**El Príncipe del Rap en Bel-Air’ (1990)**
+-------------------------------------------
+
+Esta icónica serie es protagonizada por un joven Will Smith. La historia comienza con Will viviendo en el oeste de Filadelfia, donde no hacía mucho caso a la policía. Tras un altercado, su mamá lo envía a Bel-Air a vivir con sus tíos. En este nuevo entorno, Will, un chico de barrio, tiene que aprender a vivir entre la clase alta. La serie está disponible en [Prime](https://www.primevideo.com/-/es/detail/El-Pr%C3%ADncipe-del-Rap-en-Bel-Air/0JCAJP7CIR0HSYMN3SK9PUWRL9 "https://www.primevideo.com/-/es/detail/El-Pr%C3%ADncipe-del-Rap-en-Bel-Air/0JCAJP7CIR0HSYMN3SK9PUWRL9") Video.
+
+‘**Sala de Urgencias’ (1994)**
+------------------------------
+
+Considerada una de las mejores series sobre médicos, _Sala de Urgencias_ cuenta con 15 temporadas donde los médicos no solo salvan vidas, sino que también lidian con sus relaciones personales. La producción está ambientada en la sala de emergencia de un hospital urbano de Chicago. La serie está disponible en [Max](https://www.max.com/ec/es/shows/sala-de-urgencias/92d5fe53-2467-4030-8e81-9b3753afb64e "https://www.max.com/ec/es/shows/sala-de-urgencias/92d5fe53-2467-4030-8e81-9b3753afb64e").
+
+‘**Friends’ (1994)**
+--------------------
+
+Esta _sitcom_ presenta a Chandler, Rachel, Ross, Mónica, Joey y Phoebe, seis amigos que se apoyan en cualquier circunstancia de la vida. Su historia está llena de amor, lealtad y los problemas típicos de seis amigos solteros en Nueva York. La serie está disponible en [Max](https://www.max.com/ec/es/shows/friends/52dae4c7-2ab1-4bb9-ab1c-8100fd54e2f9 "https://www.max.com/ec/es/shows/friends/52dae4c7-2ab1-4bb9-ab1c-8100fd54e2f9").
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAOUiFStOAD/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DAOUiFStOAD/?utm_source=ig_embed&utm_campaign=loading)
+
+‘**Sex and the City’ (1998)**
+-----------------------------
+
+Carrie, Miranda, Charlotte y Samantha cuentan sus experiencias con el sexo y las relaciones. Carrie relata cómo ella y sus amigas lidian con romper el estereotipo de la mujer tradicional y practican el amor y el sexo sin ataduras. Las seis temporadas de la serie están en [Max](https://www.max.com/ec/es/shows/sex-and-the-city/2641fd06-387f-4d92-a322-accb8e180713 "https://www.max.com/ec/es/shows/sex-and-the-city/2641fd06-387f-4d92-a322-accb8e180713").
+
+‘**Buffy, la cazavampiros’ (1997)**
+-----------------------------------
+
+Buffy Summers es una adolescente que dedica su vida a cazar vampiros en la ciudad de Sunnydale. Como la única persona en el mundo capaz de enfrentarse a los vampiros, Buffy enfrenta numerosos desafíos. La serie está disponible en [Disney Plus](https://www.disneyplus.com/es-co/series/buffy-cazavampiros/DmJepBrlNiUe "https://www.disneyplus.com/es-co/series/buffy-cazavampiros/DmJepBrlNiUe").
+
+‘**Mr. Bean’ (1990)**
+---------------------
+
+Durante cinco años, _Mr. Bean_ hizo reír a muchos sin necesidad de palabras. Esta serie de humor mudo presenta 15 episodios donde las situaciones más simples y cotidianas toman un giro inesperado por la inocencia de Mr. Bean. La serie está disponible en [Apple TV](https://tv.apple.com/us/show/mr-bean/umc.cmc.7ak1j253pn0qhkwn1lz8ey9j4?l=es-MX "https://tv.apple.com/us/show/mr-bean/umc.cmc.7ak1j253pn0qhkwn1lz8ey9j4?l=es-MX").
+
+‘**Los Soprano**‘
+-----------------
+
+Esta serie cuenta la historia de Tony Soprano, un capo de la mafia que confía únicamente en su psiquiatra. Tony intenta ser un buen padre mientras maneja sus negocios ilegales y atiende a su esposa Carmela. La serie está disponible en [Max](https://www.max.com/ec/es/shows/sopranos/818c3d9d-1831-48a6-9583-0364a7f98453 "https://www.max.com/ec/es/shows/sopranos/818c3d9d-1831-48a6-9583-0364a7f98453").
+
+**‘The Nanny’**
+---------------
+
+Es una comedia de situación que sigue la historia de Fran Fine, una extravagante y carismática mujer de Queens, Nueva York, que accidentalmente se convierte en la niñera de los tres hijos del refinado y adinerado productor teatral Maxwell Sheffield. Con su estilo de moda llamativo, personalidad audaz y corazón generoso, Fran revoluciona la vida de la familia Sheffield. A pesar de su título y sus protagonistas, es una comedia más para adultos que para jóvenes y niños. Está en [Prime Video](https://www.primevideo.com/-/es/detail/The-Nanny/0G5WM9YCLCFT4TGUVQYHMP2BJU "https://www.primevideo.com/-/es/detail/The-Nanny/0G5WM9YCLCFT4TGUVQYHMP2BJU").
+
+Un sismo de 4.1 se registró en Durán, Guayas
+============================================
+
+El sismo de Durán se sintió en varias ciudades del Ecuador, según el reporte de usuarios en redes sociales.
+-----------------------------------------------------------------------------------------------------------
+
+![El sismo ocurrió la mañana de este 14 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/sismo-Duran.jpg)
+
+El **Instituto** **Geofísico** de la Escuela Politécnica Nacional informó sobre un **sismo** de magnitud 4.1 MLv ocurrido en **Durán**, provincia de **Guayas**, la mañana de este sábado 14 de diciembre de 2024[.](https://es.wikipedia.org/wiki/Terremoto "https://es.wikipedia.org/wiki/Terremoto")
+
+Más noticias
+------------
+
+* [Volcán Cotopaxi presenta cambios en su actividad sísmica](https://www.elcomercio.com/actualidad/ecuador/volcan-cotopaxi-cambios-actividad-sismica.html "Volcán Cotopaxi presenta cambios en su actividad sísmica")
+* [Una provincia registró el segundo temblor de la semana este viernes 13 de diciembre](https://www.elcomercio.com/actualidad/ecuador/una-provincia-registro-segundo-temblor-semana-viernes-13-de-diciembre.html "Una provincia registró el segundo temblor de la semana este viernes 13 de diciembre")
+* [Un temblor de 4.2 sacudió la costa de Ecuador este martes 10 de diciembre](https://www.elcomercio.com/actualidad/ecuador/temblor-4-2-sacudio-costa-ecuador-martes-10-de-diciembre.html "Un temblor de 4.2 sacudió la costa de Ecuador este martes 10 de diciembre")
+
+Según el reporte del Instituto **Geofísico**, el sismo tuvo una profundidad de 68 kilómetros, con coordenadas de latitud 2.373° S y longitud 79.792° W. El epicentro se localizó a 23,78 kilómetros de **Durán**.
+
+Percepción ciudadana sobre el sismo
+-----------------------------------
+
+En redes sociales, varios usuarios mencionaron haber percibido el **sismo** de manera leve en localidades como **Zaruma** y **Riobamba**. Hasta las 09:25 de este sábado, no se reportaron daños relacionados con este evento.
+
+Otros sismos recientes en Ecuador
+---------------------------------
+
+El viernes 13 de diciembre de 2024, el **Instituto** **Geofísico** registró otro sismo en Ecuador, con una magnitud de 3.5 en la escala de **Richter** y una profundidad de 34,2 kilómetros.
+
+Este **movimiento** **telúrico** ocurrió a una latitud de 2.587° S y longitud 80.845° W, con epicentro ubicado a 39,85 kilómetros de La Libertad, provincia de Santa Elena.
+
+Este fue el segundo **sismo** registrado en la misma localidad durante la semana, ya que el martes 10 de diciembre se detectó otro **temblor** en un epicentro cercano de la provincia de **Santa** **Elena**.
+
+Usuarios en redes sociales indicaron no haber sentido el movimiento. Sin embargo, uno de ellos expresó preocupación por la frecuencia de estos eventos.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+El Presidente de Corea del Sur fue destituido
+=============================================
+
+El proceso, en el que participaron 300 diputados, culminó con la destitución del presidente de Corea del Sur.
+-------------------------------------------------------------------------------------------------------------
+
+![El Parlamento decidió el sábado 14 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/Corea-del-sur.jpg)
+
+El **Parlamento** de **Corea** del **Sur** destituyó este sábado 14 de diciembre al presidente Yoon Suk-yeol, tras declarar la ley marcial el pasado 3 de septiembre[.](https://es.wikipedia.org/wiki/Corea_del_Sur "https://es.wikipedia.org/wiki/Corea_del_Sur")
+
+Más noticias
+------------
+
+* [El exministro de Corea del Sur fue arrestado por orden de la fiscalía](https://www.elcomercio.com/actualidad/mundo/exministro-corea-sur-arrestado-orden-fiscalia.html "El exministro de Corea del Sur fue arrestado por orden de la fiscalía")
+* [Tropas en el parlamento y protestas generan inestabilidad en Corea del Sur](https://www.elcomercio.com/actualidad/mundo/tropas-parlamento-protestas-generan-horas-jaque-democracia-surcoreana.html "Tropas en el parlamento y protestas generan inestabilidad en Corea del Sur")
+* [Piezas clave tras la decisión de Yoon de aplicar ley marcial en Corea del Sur](https://www.elcomercio.com/actualidad/mundo/piezas-clave-decision-yoon-aplicar-ley-marcial-pesimas-consecuencias.html "Piezas clave tras la decisión de Yoon de aplicar ley marcial en Corea del Sur")
+
+La decisión contó con el respaldo de **diputados** pertenecientes a su propio partido.
+
+Resultados de la votación en la Asamblea Nacional
+-------------------------------------------------
+
+Los 300 diputados de la **Asamblea** **Nacional** participaron en el proceso, que concluyó con 204 votos a favor de la moción presentada por la oposición, 85 en contra, tres abstenciones y ocho papeletas nulas.
+
+Para aprobar la destitución, se requería una mayoría de dos tercios, es decir, al menos 200 votos. Aunque el sufragio fue secreto, se estima que al menos 12 diputados del gobernante **Partido** del **Poder** **Popular** (PPP) apoyaron la moción, ya que la oposición cuenta con 192 escaños.
+
+La incertidumbre sobre el resultado persistió hasta el último momento. El **PPP** mantuvo durante horas una reunión a puerta cerrada para definir una **postura** **oficial**, que finalmente descartó apoyar la moción.
+
+Sin embargo, al menos siete miembros de esta formación ya habían manifestado públicamente su intención de votar a favor de la **destitución**, lo que quedó reflejado en el escrutinio.
+
+Consecuencias inmediatas y próximos pasos
+-----------------------------------------
+
+Concluido el conteo, **Yoon** quedó **inhabilitado** de forma inmediata, y el primer ministro **Han** **Duck**–**soo** asumió interinamente la jefatura de Estado y Gobierno.
+
+El **Tribunal** **Constitucional** deberá decidir en un plazo máximo de 180 días si el presidente violó la Constitución al declarar la ley marcial.
+
+Si se confirma la infracción, **Yoon** se convertiría en el segundo mandatario destituido en democracia en **Corea** del **Sur**.
+
+En 2017, la expresidenta **Park Geun-hye**, también conservadora, fue apartada del cargo y encarcelada por corrupción.
+
+En 2004, el liberal **Roh** **Moo**–**hyun** también enfrentó una destitución parlamentaria por supuesta **violación** de la **ley** **electoral**, aunque el **Tribunal** **Constitucional** lo restituyó en el cargo dos meses después.
+
+Reacciones en la ciudadanía
+---------------------------
+
+En los alrededores de la **Asamblea** **Nacional** en **Seúl**, miles de personas se congregaron para exigir la destitución de **Yoon** y celebraron con júbilo el resultado de la votación.
+
+¿Cuándo juega Liga de Quito con IDV en la final de vuelta?
+==========================================================
+
+Albos y rayados definirán al campeón 2024 en el fútbol ecuatoriano de la Liga Pro. ¿Cuándo juega Liga de Quito ante IDV?
+------------------------------------------------------------------------------------------------------------------------
+
+![Independiente del Valle y LDU definirán al campeón 2024 en Ecuador. ¿Cuándo juega Liga de Quito ante IDV?](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-61.jpg)
+
+Tras la contundente victoria de **Liga de Quito** por 3-0 en la final de ida, los rayados del Independiente del Valle enfrentarán un reto monumental para lograr la remontada y quedarse con el título. ¿Cuándo juega **Liga de Quito** con **IDV**?
+
+En **IDV**, a pesar de la desventaja, confían en su capacidad de superar este difícil marcador.
+
+### Más noticias:
+
+* [Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-valle-viernes13-terror-redes.html "Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito")
+* [Damián ‘Kitu’ Díaz sorprende a sus fanáticos en redes sociales](https://www.elcomercio.com/deportes/futbol/damian-kitu-diaz-sorprende-a-sus-fanaticos-en-redes-sociales.html "Damián ‘Kitu’ Díaz sorprende a sus fanáticos en redes sociales")
+* [¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?](https://www.elcomercio.com/deportes/liga-quito-jugadores-favoritos-vitamina-sanchez.html "¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?")
+
+Independiente del Valle
+-----------------------
+
+El equipo ha expresado su optimismo a través de un emotivo video titulado ‘Elijo creer’, en el que jugadores, cuerpo técnico y empleados del club transmiten su fe en una remontada histórica.
+
+Liga de Quito
+-------------
+
+Por su parte, **Liga de Quito** llega con una ventaja considerable, pero consciente de que el fútbol puede deparar sorpresas.
+
+El equipo dirigido por **[Pablo ‘Vitamina’ Sánchez](https://es.wikipedia.org/wiki/Pablo_S%C3%A1nchez)** buscará sellar su título con una buena actuación en la vuelta y convertirse en el primer club en ganar dos títulos desde la instauración de la Liga Profesional de Fútbol en Ecuador.
+
+La final de vuelta promete ser un cotejo lleno de emociones, donde **Independiente** luchará por la remontada y **Liga de Quito** defenderá su ventaja para alzar la copa.
+
+**LDU** buscará su título número 13 en los campeonatos ecuatorianos de fútbol, mientras que **IDV** la segunda estrella nacional de su historia.
+
+¿Cuándo juega Liga de Quito con IDV?
+------------------------------------
+
+La final de vuelta de la Liga Pro 2024 se jugará este sábado 14 de diciembre del 2024 a las 15:30, en la cancha del Independiente del Valle.
+
 El Metro de Quito: ¿Un hito de modernización o una carga para la capital?
 =========================================================================
 
@@ -118,50 +861,6 @@ Consejos finales
 
 Esta **receta** de **lomo de cerdo asado con salsa de mango** es una opción versátil que se puede adaptar a diferentes gustos. Si prefieres un toque más picante, puedes añadir más chile a la salsa o incluso algunas especias adicionales a la marinada del cerdo. Además, si deseas preparar este plato con anticipación, puedes marinar el lomo un día antes y simplemente hornearlo cuando estés listo para servirlo. La combinación del cerdo tierno y jugoso con la frescura del mango hará que este platillo sea un éxito entre tus invitados. ¡Anímate a probar esta deliciosa **receta**!
 
-Renuncia a la inteligencia
-==========================
-
-La política ecuatoriana privilegia emociones y retórica sobre la razón, debilitando el debate y fortaleciendo el autoritarismo.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
-
-La **política ecuatoriana** está en un proceso regresivo, privilegia emociones primarias sobre la **inteligencia** y la razón. Gobernar ya no es comprender cómo funciona la **sociedad**, analizar sus problemas y pensar en las soluciones; se ha transformado en acumular **habilidades retóricas**, sino picardías, para hacerle creer a la sociedad que todo va bien.
-
-Los **gobernantes** no explican los **proyectos** de ley que pueden ser solo formas hábiles de incrementar las **recaudaciones**. Los **legisladores** no debaten los proyectos y, unos y otros, presionan a los jueces para que diriman las **discrepancias legales** que inventan los asesores como **arma política**.
-
-El contenido del último **proyecto**, denominado en plan de chacota “ley antipillos”, no ha sido analizado por nadie; toda la charlatanería se gastó para inducir a tomar partido por la **Asamblea** o por el gobierno, es decir, por uno o dos **debates** para negar su **aprobación**. Resultaron más avispados los asesores del gobierno.
-
-En la **superficial discusión** han participado políticos, constitucionalistas, medios de comunicación y el pueblo, que termina adoptando opiniones al estilo de las **redes sociales**: inamovibles, pero arbitrarias; sin fundamento, pero atrabiliarias. Igual que los **políticos**, los **ciudadanos** prefieren insultos y descalificaciones antes que razones. Los **constitucionalistas** también están aprendiendo a descalificar a los adversarios antes de decir su opinión.
-
-Si las discusiones  jurídicas tienen esas características, qué podíamos esperar de **artistas irreverentes**, de sus **promotores** y de sus **detractores**. Colgar un muñeco de cartón ha pasado de **crítica social** a ser acto político y **gesto terrorista**. Los artistas toman la crítica como censura y barbarie.
-
-Tomar partido por una **causa política**, sin reflexionar, sin fundamentar racionalmente la decisión, desde los **gobernantes** hasta los **gobernados**, es la forma más penosa de renunciar a la razón y a la **civilización**, es convertir en esclavos, a los **gobernados** y en **caudillos** a los **gobernantes**.
-
-Ecuador: Un, dos, tres, ¡vamos!
-===============================
-
-En Ecuador debemos vencer al pesimismo y recordar que unidos podemos resolver nuestros problemas, así que un, dos, tres, ¡vamos!
---------------------------------------------------------------------------------------------------------------------------------
-
-![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
-
-Debido a los múltiples y álgidos **problemas** que atraviesa nuestro país, es muy común que algunos ecuatorianos tengan un cierto **pesimismo** frente al **futuro** del Ecuador. Sin embargo, hay hechos concretos que nos muestran que nuestro país está lleno de **gente buena** y que, unidos en un objetivo común, **podemos salir adelante**. La siguiente historia está basada en un hecho de la vida real y nos demuestra que, **trabajando en equipo**, podemos alcanzar **grandes resultados**.
-
-Una mañana lluviosa, una **pareja de aventureros** decide escribir una nueva página en su libro de experiencias y emprende camino, en su vehículo, desde Quito hacia el refugio del volcán **Guagua Pichincha**. Para llegar a su objetivo, deben atravesar la parroquia **Lloa**, a la cual se llega por una carretera de primer orden. Luego, desde Lloa hacia el refugio, deben tomar un camino de segundo orden, que es de **barro** y **cuesta arriba**. En ciertos tramos, este camino de segundo orden se torna **resbaladizo**, especialmente en días de lluvia.
-
-En Lloa, cuando el asfalto termina, los viajeros deben decidir si continuar por la **vía de segundo orden** para llegar hacia su destino, o ponerle fin a su **aventura**. La duda surge debido a que su vehículo carece de **tracción** en las cuatro ruedas, lo que podría dificultar el **ascenso**. Pese a la lluvia de la madrugada, el camino luce en **buenas condiciones**. Por esto, y debido a que en ese momento no hay lluvia, los viajeros se animan a continuar el trayecto hacia su destino. Están felices porque llegó el día en que llegarán al lugar al que tanto deseaban conocer.
-
-Manejan a **baja velocidad** y van disfrutando del paisaje maravilloso y la tranquilidad que ofrece el **páramo andino**. Cada cierto tiempo analizan el trayecto transcurrido y, pese a que han encontrado un poco de **lodo** y algunas **pendientes**, deciden continuar para acercarse a su **destino**. A solo cuatro kilómetros del refugio, los viajeros se encuentran con el **tramo más desafiante** de su aventura. Desde ese punto en adelante, el camino se torna más dificultoso: hay **curvas muy cerradas** y cuesta arriba.
-
-Los aventureros han atravesado con éxito varias **curvas difíciles** y están cada vez más cerca del refugio. A corta distancia observan una **curva muy cerrada**, con una **pendiente positiva bastante pronunciada**. Deben decidir muy rápido y sobre la marcha si continuar, pues no pueden perder **impulso**. Los viajeros deciden continuar. El conductor presiona el **acelerador** para ganar más impulso, y el acompañante le da ánimo. Sin embargo, no es suficiente: el auto **patina** y se detiene a muy pocos centímetros de coronar la curva cuesta arriba. Después de pocos segundos, intentan completar el ascenso para llegar a una planicie del camino, pero la **tracción** no es buena y el vehículo no avanza. En ese momento deciden poner fin a su **aventura** e intentan regresar.
-
-Para regresar deben **descender** la curva en reversa, pues no hay margen de maniobra para hacerlo de frente. Para no chocar con un vehículo que venía detrás, en dirección al refugio, se pegan a un lado del camino. Debido a esta maniobra, las dos **ruedas** del lado pasajero terminan **atrapadas** en el **fango** que había en la **cuneta**. El otro vehículo tampoco puede coronar la curva, y se detiene. En este punto, la suerte de los aventureros está echada: están **encunetados** y no podrán salir solos. Para colmo, empieza a caer la lluvia, hace bastante frío, y el camino está **bloqueado** por los dos autos que no pudieron completar el ascenso en la curva.
-
-Después de algunos minutos, varias **personas** se acercan para observar lo que ocurría. Algunos se marchan, pero otros (la mayoría) deciden voluntariamente **ayudar** a los **viajeros encunetados**. Hay una lluvia de ideas para seleccionar el mejor método para sacar al vehículo encunetado. Todas las posibles soluciones implican el uso de **fuerza bruta**, pues el camino está totalmente bloqueado. Unas siete personas **empujan** la parte trasera del auto atrapado para complementar el trabajo del motor. Desafortunadamente, pese al **gran esfuerzo** de todos, el vehículo encunetado no se mueve ni un centímetro. Entonces deciden probar otra alternativa: **levantar** la parte trasera del vehículo para alinearlo con la vía y luego dejar que la **gravedad** ayude al trabajo del motor. Después de varios “un, dos, tres, ¡vamos!”, logran sacar al vehículo de la **cuneta**. Los aventureros agradecen la **ayuda** recibida y después de recuperar la calma, disfrutan el **paisaje** y al cabo de un tiempo retornan en su vehículo, **sanos y salvos**, a Quito.
-
-De la misma manera que un grupo de **ecuatorianos solidarios** sacó el auto del fango, [los ecuatorianos podemos unirnos para superar las dificultades del país](https://www.elcomercio.com/opinion/eliminemos-subsidio-mediocridad-marco-benalcazar-columnista.html). Para esto necesitamos un **gran liderazgo**, que considere a todos los ciudadanos como parte del mismo **equipo llamado** **Ecuador**. Ese liderazgo debe ser **ejemplar** e **inspirador**. Debe considerar y tratar a los ciudadanos como **personas**, y no simplemente como un número más en una elección o en una estadística. La mayoría de los ecuatorianos somos **buenos**, **solidarios**, **trabajadores** y **honestos**, y de eso no debemos olvidarnos nunca, pues así evitaremos que el pesimismo nos gane. Así que, **un, dos, tres, ¡vamos a sacar al Ecuador adelante!**
-
 Cartas a Quito / 14 de diciembre de 2024
 ========================================
 
@@ -200,6 +899,50 @@ La experiencia en Azuay debería servirnos como advertencia. La paralización de
 Debemos tener claro a qué debemos temer. No es a la minería responsable, que genera empleo, desarrollo y protege el ambiente bajo estrictos controles. El verdadero peligro radica en permitir que la extracción ilegal de minerales avance, destruyendo ecosistemas, contaminando fuentes de agua y poniendo en riesgo la vida de nuestras comunidades. Aprendamos de los errores del pasado y apoyemos proyectos como Loma Larga, que representan una alternativa viable y sostenible para el desarrollo de nuestra región.
 
 María Eulalia Silva, Presidenta Ejecutiva de la Cámara de Minería del Ecuador
+
+Ecuador: Un, dos, tres, ¡vamos!
+===============================
+
+En Ecuador debemos vencer al pesimismo y recordar que unidos podemos resolver nuestros problemas, así que un, dos, tres, ¡vamos!
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
+
+Debido a los múltiples y álgidos **problemas** que atraviesa nuestro país, es muy común que algunos ecuatorianos tengan un cierto **pesimismo** frente al **futuro** del Ecuador. Sin embargo, hay hechos concretos que nos muestran que nuestro país está lleno de **gente buena** y que, unidos en un objetivo común, **podemos salir adelante**. La siguiente historia está basada en un hecho de la vida real y nos demuestra que, **trabajando en equipo**, podemos alcanzar **grandes resultados**.
+
+Una mañana lluviosa, una **pareja de aventureros** decide escribir una nueva página en su libro de experiencias y emprende camino, en su vehículo, desde Quito hacia el refugio del volcán **Guagua Pichincha**. Para llegar a su objetivo, deben atravesar la parroquia **Lloa**, a la cual se llega por una carretera de primer orden. Luego, desde Lloa hacia el refugio, deben tomar un camino de segundo orden, que es de **barro** y **cuesta arriba**. En ciertos tramos, este camino de segundo orden se torna **resbaladizo**, especialmente en días de lluvia.
+
+En Lloa, cuando el asfalto termina, los viajeros deben decidir si continuar por la **vía de segundo orden** para llegar hacia su destino, o ponerle fin a su **aventura**. La duda surge debido a que su vehículo carece de **tracción** en las cuatro ruedas, lo que podría dificultar el **ascenso**. Pese a la lluvia de la madrugada, el camino luce en **buenas condiciones**. Por esto, y debido a que en ese momento no hay lluvia, los viajeros se animan a continuar el trayecto hacia su destino. Están felices porque llegó el día en que llegarán al lugar al que tanto deseaban conocer.
+
+Manejan a **baja velocidad** y van disfrutando del paisaje maravilloso y la tranquilidad que ofrece el **páramo andino**. Cada cierto tiempo analizan el trayecto transcurrido y, pese a que han encontrado un poco de **lodo** y algunas **pendientes**, deciden continuar para acercarse a su **destino**. A solo cuatro kilómetros del refugio, los viajeros se encuentran con el **tramo más desafiante** de su aventura. Desde ese punto en adelante, el camino se torna más dificultoso: hay **curvas muy cerradas** y cuesta arriba.
+
+Los aventureros han atravesado con éxito varias **curvas difíciles** y están cada vez más cerca del refugio. A corta distancia observan una **curva muy cerrada**, con una **pendiente positiva bastante pronunciada**. Deben decidir muy rápido y sobre la marcha si continuar, pues no pueden perder **impulso**. Los viajeros deciden continuar. El conductor presiona el **acelerador** para ganar más impulso, y el acompañante le da ánimo. Sin embargo, no es suficiente: el auto **patina** y se detiene a muy pocos centímetros de coronar la curva cuesta arriba. Después de pocos segundos, intentan completar el ascenso para llegar a una planicie del camino, pero la **tracción** no es buena y el vehículo no avanza. En ese momento deciden poner fin a su **aventura** e intentan regresar.
+
+Para regresar deben **descender** la curva en reversa, pues no hay margen de maniobra para hacerlo de frente. Para no chocar con un vehículo que venía detrás, en dirección al refugio, se pegan a un lado del camino. Debido a esta maniobra, las dos **ruedas** del lado pasajero terminan **atrapadas** en el **fango** que había en la **cuneta**. El otro vehículo tampoco puede coronar la curva, y se detiene. En este punto, la suerte de los aventureros está echada: están **encunetados** y no podrán salir solos. Para colmo, empieza a caer la lluvia, hace bastante frío, y el camino está **bloqueado** por los dos autos que no pudieron completar el ascenso en la curva.
+
+Después de algunos minutos, varias **personas** se acercan para observar lo que ocurría. Algunos se marchan, pero otros (la mayoría) deciden voluntariamente **ayudar** a los **viajeros encunetados**. Hay una lluvia de ideas para seleccionar el mejor método para sacar al vehículo encunetado. Todas las posibles soluciones implican el uso de **fuerza bruta**, pues el camino está totalmente bloqueado. Unas siete personas **empujan** la parte trasera del auto atrapado para complementar el trabajo del motor. Desafortunadamente, pese al **gran esfuerzo** de todos, el vehículo encunetado no se mueve ni un centímetro. Entonces deciden probar otra alternativa: **levantar** la parte trasera del vehículo para alinearlo con la vía y luego dejar que la **gravedad** ayude al trabajo del motor. Después de varios “un, dos, tres, ¡vamos!”, logran sacar al vehículo de la **cuneta**. Los aventureros agradecen la **ayuda** recibida y después de recuperar la calma, disfrutan el **paisaje** y al cabo de un tiempo retornan en su vehículo, **sanos y salvos**, a Quito.
+
+De la misma manera que un grupo de **ecuatorianos solidarios** sacó el auto del fango, [los ecuatorianos podemos unirnos para superar las dificultades del país](https://www.elcomercio.com/opinion/eliminemos-subsidio-mediocridad-marco-benalcazar-columnista.html). Para esto necesitamos un **gran liderazgo**, que considere a todos los ciudadanos como parte del mismo **equipo llamado** **Ecuador**. Ese liderazgo debe ser **ejemplar** e **inspirador**. Debe considerar y tratar a los ciudadanos como **personas**, y no simplemente como un número más en una elección o en una estadística. La mayoría de los ecuatorianos somos **buenos**, **solidarios**, **trabajadores** y **honestos**, y de eso no debemos olvidarnos nunca, pues así evitaremos que el pesimismo nos gane. Así que, **un, dos, tres, ¡vamos a sacar al Ecuador adelante!**
+
+Renuncia a la inteligencia
+==========================
+
+La política ecuatoriana privilegia emociones y retórica sobre la razón, debilitando el debate y fortaleciendo el autoritarismo.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+La **política ecuatoriana** está en un proceso regresivo, privilegia emociones primarias sobre la **inteligencia** y la razón. Gobernar ya no es comprender cómo funciona la **sociedad**, analizar sus problemas y pensar en las soluciones; se ha transformado en acumular **habilidades retóricas**, sino picardías, para hacerle creer a la sociedad que todo va bien.
+
+Los **gobernantes** no explican los **proyectos** de ley que pueden ser solo formas hábiles de incrementar las **recaudaciones**. Los **legisladores** no debaten los proyectos y, unos y otros, presionan a los jueces para que diriman las **discrepancias legales** que inventan los asesores como **arma política**.
+
+El contenido del último **proyecto**, denominado en plan de chacota “ley antipillos”, no ha sido analizado por nadie; toda la charlatanería se gastó para inducir a tomar partido por la **Asamblea** o por el gobierno, es decir, por uno o dos **debates** para negar su **aprobación**. Resultaron más avispados los asesores del gobierno.
+
+En la **superficial discusión** han participado políticos, constitucionalistas, medios de comunicación y el pueblo, que termina adoptando opiniones al estilo de las **redes sociales**: inamovibles, pero arbitrarias; sin fundamento, pero atrabiliarias. Igual que los **políticos**, los **ciudadanos** prefieren insultos y descalificaciones antes que razones. Los **constitucionalistas** también están aprendiendo a descalificar a los adversarios antes de decir su opinión.
+
+Si las discusiones  jurídicas tienen esas características, qué podíamos esperar de **artistas irreverentes**, de sus **promotores** y de sus **detractores**. Colgar un muñeco de cartón ha pasado de **crítica social** a ser acto político y **gesto terrorista**. Los artistas toman la crítica como censura y barbarie.
+
+Tomar partido por una **causa política**, sin reflexionar, sin fundamentar racionalmente la decisión, desde los **gobernantes** hasta los **gobernados**, es la forma más penosa de renunciar a la razón y a la **civilización**, es convertir en esclavos, a los **gobernados** y en **caudillos** a los **gobernantes**.
 
 Lourdes Tibán publicó emotivo mensaje por fallecimiento de Raúl Ilaquiche
 =========================================================================
@@ -304,608 +1047,3 @@ El **Metro** de Quito sigue siendo una prioridad presupuestaria, con una asignac
 Todos los concejales, opositores y oficialistas reconocen los beneficios del Metro. Sin embargo, no es la solución a todos los problemas de movilidad que tiene Quito. **Fidel Chamba (SUMA), presidente** de la **Comisión de Presupuesto**, dijo que solo beneficia al 6% de los quiteños. Mientras tanto, Andrés Campaña, concejal opositor, criticó la falta de inversiones en el sistema general de transporte.
 
 Diego **Garrido (RC)** defendió la inversión en el **Metro**, destacando que es un **proyecto heredado** de administraciones anteriores y planteó que **“será necesario evaluar si marca el inicio de una nueva era en la movilidad de Quito”.** No obstante, admitió que la **deuda por la construcción del Metro** comenzará a pagarse en 2025, lo que representará un desafío financiero adicional para el Municipio.
-
-Nueva pugna entre Gobierno y Alcaldía de Guayaquil ¿Cuál es el motivo?
-======================================================================
-
-La pugna entre el Gobierno y la Alcaldía de Guayaquil esta vez enfrenta a Inés Manzano con Aquiles Alvarez.
------------------------------------------------------------------------------------------------------------
-
-![Una nueva pugna entre el Gobierno y la Alcaldía de Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/12/pugna-gobierno-alcaldia-guayaquil.jpg)
-
-Una nueva pugna entre el **Gobierno** y la **Alcaldía de Guayaquil** se dio este viernes 13 de diciembre de 2024.
-
-La ministra de Ambiente, **Inés Manzano** hizo una acusación y el alcalde de Guayaquil, **Aquiles Alvarez** respondió.
-
-### Más noticias:
-
-* [Aquiles Alvarez dice que no permitirá que se apague ‘el espíritu de la Navidad’ en Guayaquil](https://www.elcomercio.com/actualidad/ecuador/aquiles-alvarez-dice-que-no-permitira-que-se-apague-espiritu-navidad-guayaquil.html "Aquiles Alvarez dice que no permitirá que se apague ‘el espíritu de la Navidad’ en Guayaquil")
-* [Caso Triple A, audiencia de formulación de cargos se suspendió por segunda ocasión](https://www.elcomercio.com/actualidad/seguridad/caso-triple-a-audiencia-formulacion-cargos-suspendio-segunda-ocasion.html "Caso Triple A, audiencia de formulación de cargos se suspendió por segunda ocasión")
-
-Nueva pugna entre Gobierno y Alcaldía de Guayaquil
---------------------------------------------------
-
-La ministra del Ambiente, **Inés Manzano**, realizó un recorrido por el Relleno Sanitario de las Iguanas, este viernes 13 de diciembre.
-
-El objetivo fue constatar si cumplen con las normativas ambientales respaldadas por el **Código Orgánico Ambiental.**
-
-Tras el recorrido, Manzano hizo declaraciones y arremetió contra la **Alcaldía de Guayaquil**.
-
-La Ministra señaló que hay entradas de vehículos con escombros, que realizaron una inspección de lugar, donde ponen y mezclan los **escombros**.
-
-Manzano agregó que no hay permisos para tener una escombrera y que el **relleno sanitario** “no es digno”.
-
-Añadió que ahí hay, posiblemente, un presunto conflicto con **Urvaseo**, que hace la recolección y transporta los residuos, y el mismo consorcio que maneja el relleno.
-
-“Creo que las autoridades de Guayaquil han dejado en abandono a **Guayaquil**“, señaló.
-
-Manzano señaló que realizará la denuncia a la **Fiscalía**.
-
-### Respuesta del Alcalde de Guayaquil
-
-A través de sus redes sociales, el alcalde **Aquiles Alvarez** respondió a la Ministra.
-
-Alvarez manifestó que se trata de una “persecución” que pasó de lo personal a lo institucional porque la denuncia no tiene argumentos.
-
-El Alcalde aseguró que existe un “**plan de acción** en contra de Guayaquil” que contiene cuatro pasos.
-
-La denuncia persona al Alcalde, la denuncia **Urvaseo**, el ingreso violentado con la Fiscalía al relleno sanitario y la denuncia ARCA.
-
-” Es un libreto de persecución increíble. Qué pena que la ministra, a la que toda la vida la he considerado una persona seria y con criterio, **muy buena vocera** de estos temas, con conocimiento de causa, en su momento liderando este tipo de conversaciones al más alto nivel, se preste para esto”, agregó.
-
-Y posteo un video en el que, según él, “se puede ver la prepotencia con la que la Ministra increpa a una funcionaria de **Interagua**, amenazando con meterla presa y meter preso a su jefe”. “Así trabajan, a punta de amenazas”, señaló.
-
-“No les tenemos miedo, sigan persiguiéndonos”, concluyó en su mensaje el **Alcalde de Guayaquil.**
-
-> La verdad que esta persecución pasó de lo personal (porque NO TIENEN NADA en su denuncia sin argumentos) a lo institucional (MUY ILUSTRE MUNICIPIO DE GUAYAQUIL).  
->   
-> Plan de acción en contra de Guayaquil:  
->   
-> 1- Denuncia personal al alcalde.  
-> 2- Denuncia Urvaseo.  
-> 3- Ingreso… [https://t.co/mQaxP9ouXv](https://t.co/mQaxP9ouXv) [pic.twitter.com/SOeSOp9oWW](https://t.co/SOeSOp9oWW)
-> 
-> — Aquiles Alvarez Henriques (@aquilesalvarez) [December 14, 2024](https://twitter.com/aquilesalvarez/status/1867742169773355054?ref_src=twsrc%5Etfw)
-
-Antonio Valencia respalda a Segundo Castillo con fuerte discurso
-================================================================
-
-Antonio Valencia y Segundo Castillo jugaron juntos el Mundial Alemania 2006.
-----------------------------------------------------------------------------
-
-![Antonio Valencia (i) y Segundo Castillo (d) en el 2009.](https://www.elcomercio.com/wp-content/uploads/2024/12/castillo_valencia_1.jpg)
-
-Antonio Valencia es el jugador más exitoso del **fútbol ecuatoriano en el fútbol ecuatoriano**. Se mantuvo en el fútbol europeo por 14 años a gran nivel y ganando títulos lacales y continentales.
-
-En Europa, **Antonio Valencia jugó en el Villarreal de España** y en los inglés Wigan Athletic y Manchester United. Con los ‘Diablos rojos’ fue capitán y campeón de la Premier League y la UEFA Europa League, solo por contar algunos.
-
-### Más noticias:
-
-* [(Video) Nilson Angulo anota y gana en Europa League](https://www.elcomercio.com/deportes/nilson-angulo-gol-anderlecht-europa-league.html "(Video) Nilson Angulo anota y gana en Europa League")
-* [Google vaticina victoria de Independiente en la final](https://www.elcomercio.com/deportes/futbol/google-algoritmo-final-independiente-valle.html "Google vaticina victoria de Independiente en la final")
-* [Glenda Morejón y David Hurtado tienen nuevo entrenador](https://www.elcomercio.com/deportes/atletismo/glenda-morejon-david-hurtado-nuevo-entrenador.html "Glenda Morejón y David Hurtado tienen nuevo entrenador")
-
-Antonio Valencia en la Selección
---------------------------------
-
-Tras finalizar su aventura europea, Valencia regreso para el segundo semestre de 2019 a Liga de Quito como su principal refuerzo. Luego se **marchó al Querétaro en donde se retiró por una lesión** que lo aquejó en el cierre de su carrera.
-
-En México cerró una trayectoria que empezó en El Nacional en 2003. Su aparición llegó a refrescar al **fútbol ecuatoriano que por esos años gozaba** de haber clasificado al Mundial de Corea-Japón un año antes.
-
-En el 2004 debutó con la Camiseta de la Selección de Ecuador y en el 2005 marcó sus dos primeros goles en un partido ante **Paraguay en las eliminatorias a Alemania 2006**. Fue victoria de los ecuatorianos en el Olímpico Atahualpa por 5-2.
-
-Luego sumó a su hoja de vida personal jugar el referido Mundial y el de Brasil 2014. También dijo presente en la C**opa América Venezuela 2007, Argentina 2011**, Chile 2015, Estados Unidos 2016 y Brasil 2019.
-
-En ese trayecto coincidió con Segundo Alejandro Castillo, con el que también compartió equipo en El Nacional.
-
-Los une una gran amistad. **El ‘Toño’ no dejó pasar la oportunidad de respaldar al ‘Mortero’** en su tarea de ser entrenador de Barcelona Sporting Club, con el aditamento que es el año del centenario de los guayaquileños.
-
-Valencia y sus elogios a Castillo
----------------------------------
-
-“Alejandro es la imagen del entrenador ecuatoriano. Lo está haciendo muy bien y los resultados en los seis partidos”, dijo el fundador, **dueño y entrenador del AV25**, equipo que milita en la Segunda Categoría de Pichincha.
-
-Castillo tomó las riendas de Barcelona SC en octubre de 2024. Reemplazó al argentino Ariel Holan.
-
-Ganó seis partidos y empató tres. Destaca el triunfo **8-1 ante Cumbayá, el 4-0 contra Delfín y 2-1** ante Emelec en el Clásico del Astillero. Todos estos partidos se jugaron en el estadio Monumental y aseguró su cupo a la Libertadores 2025.
-
-“Tiene mucha llegada a los jugados, lo quieren, lo respetan y está preparado”, agregó sobre las cualidades que tiene el esmeraldeño en su etapa como entrenador que está en sus primeros pasos.
-
-Detalló que el haber jugado en Europa, la **preparación que tiene como entrenador y su experiencia** en la Selección de Ecuador, son las cartas con las que el deportista tiene en su currículum para seguir como entrenador de BSC.
-
-En las próximas horas la dirigencia de los canarios debe oficializar la continuidad de Castillo como entrenador. Su contrato correrá por los siguientes 12 meses.
-
-Las declaraciones de Valencia fueron en ECDF.
-
-![Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/12/castillo_valencia_2-1024x683.jpg)
-
-Archivo histórico EL COMERCIO.
-
-San viernes
------------
-
-Liga de Quito, a un paso de igualar a El Nacional en campeonatos ecuatorianos
-=============================================================================
-
-Liga de Quito puede igualar a El Nacional en títulos en Liga Pro y a Barcelona SC en títulos nacionales si vence a Independiente del Valle.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Ezequiel Piovi y Leonel Quiñónez celebran un gol de Liga de Quito en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T181309.932.jpg)
-
-**Liga de Quito** está al borde de asegurar la Liga Pro de 2024 ante Independiente del Valle tras imponerse en la final de ida del torneo y espera por la revancha. De lograrlo, el equipo azucena llegará a los 13 títulos naciones e igualará a **El Nacional** como el tercero con más campeonatos ecuatorianos.
-
-Este sábado 14 de diciembre del 2024 a las 15:30, los albos visitarán el estadio de Independiente con el deber de aguantar un resultado. En la ida, el equipo azucena venció por 3-0 en el Estadio Rodrigo Paz Delgado con un doblete de **Álex Arce** y un tanto de **Gabriel Villamil**.
-
-### Más noticias:
-
-* [Liga de Quito podría celebrar en emblemático lugar](https://www.elcomercio.com/deportes/futbol/liga-quito-pileta-universidad-central.html "Liga de Quito podría celebrar en emblemático lugar")
-* [Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-valle-viernes13-terror-redes.html "Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito")
-* [¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?](https://www.elcomercio.com/deportes/liga-quito-jugadores-favoritos-vitamina-sanchez.html "¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?")
-
-A menos que los negriazules venzan por más de cuatro goles o lo hagan por tres para forzar la definición, los albos se alzarán como campeones. Aquel sería el segundo título de **Liga de Quito** en la década de 2020, sin embargo, antes consiguió once.
-
-El primer título de los universitarios data de **1969**. A partir de aquel momento, los albos volvieron a seguir con triunfos en **todas las décadas**, salvo en la de 1980.
-
-A la par de **Liga de Quito; El Nacional, Barcelona SC y Emelec** también forjaron una historia de campeones y se consagraron como los tres más ganadores a nivel liguero. Los dos últimos tienen la ventaja al contar con 16 y 14 títulos, sin embargo, los puros criollos poseen 13 y la ‘U’ está al acecho.
-
-Los 12 títulos de Liga de Quito y los 13 de El Nacional
--------------------------------------------------------
-
-Desde su primera conquista en 1969, **Liga de Quito** se coronó en **1974** y en **1975**, donde alcanzó el primer bicampeonato. Después de su tercer título, los albos vivieron una sequía de 15 años sin levantar una copa[.](https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional#Palmar%C3%A9s "https://es.wikipedia.org/wiki/Club_Deportivo_El_Nacional#Palmar%C3%A9s")
-
-En **1990** volvió a la gloria y en **1998 y 1999** tuvo su segundo bicampeonato. A la llegada de los **2000**, en **2003, 2005 y 2007**, los albos volvieron a ganar. En **2018 y 2023** fueron las gestas.
-
-A la par, **El Nacional** consiguió sus triunfos en 1967, 1973, 1976, 1977, 1978, 1982, 1983, 1984, 1986, 1992, 1996, 2005 y 2006.
-
-Liga de Quito también persigue a Barcelona SC en títulos en el país
--------------------------------------------------------------------
-
-A nivel de Ecuador, en torneos fuera de la Liga Pro, los albos están a un paso de igualar al equipo más ganador del país, **Barcelona SC**. Los toreros cuentan con **16 preseas**, todas producto de campeonatos ecuatorianos.
-
-Liga, además de los **12 torneos nacionales**, también cuentan con una **Copa Ecuador y dos Supercopas**.
-
-Raúl Ilaquiche, esposo de Lourdes Tibán, falleció en siniestro de tránsito este viernes
-=======================================================================================
-
-El siniestro en el que falleció Raúl Ilaquiche, esposo de Lourdes Tibán, prefecta de Cotopaxi, ocurrió en Tambillo, al norte de Quito.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Raúl Illaquiche, esposo de Lourdes Tibán, falleció en un siniestro de tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/12/raul-ilaquiche-lourdes-tiban.jpg)
-
-**Raúl Ilaquiche**, esposo de la **prefecta de Cotopaxi**, **Lourdes Tibán**, falleció la tarde de este viernes 13 de diciembre de 2024 en un siniestro de tránsito.
-
-El suceso ocurrió en el sector de **Tambillo**, cantón Mejía, Pichincha, antes del ingreso a Quito.
-
-### Más noticias:
-
-* [Volcán Cotopaxi presenta cambios en su actividad sísmica](https://www.elcomercio.com/actualidad/ecuador/volcan-cotopaxi-cambios-actividad-sismica.html "Volcán Cotopaxi presenta cambios en su actividad sísmica")
-* [Ciclistas extraviados en el Parque Cotopaxi fueron encontrados](https://www.elcomercio.com/actualidad/ecuador/ciclistas-desaparecidos-parque-cotopax.html "Ciclistas extraviados en el Parque Cotopaxi fueron encontrados")
-
-El fallecimiento del esposo de Lourdes Tibán, Raúl Ilaquiche, en un siniestro de tránsito
------------------------------------------------------------------------------------------
-
-La tarde de este viernes, el **ECU 911** recibió una alerta sobre un siniestro de tránsito en Tambillo, antes del ingreso a Quito.
-
-Se trataba de un **vehículo volcado** con **personas atrapadas**.
-
-A las 19:20, la **Policía Nacional** informó, a través de radiofrecuencia, de la existencia de dos personas heridas y un fallecido en el lugar.
-
-El **vehículo** en el que se transportaba **Raúl Ilaquiche** se volcó en la vía que estaba mojada por la lluvia.
-
-**Dos personas** más resultaron heridas.
-
-El **Ministerio de Salud** informó de un hombre de 34 años con herida en cabeza de 20 cm, trasladado a la Clínica Cotocollao.
-
-El **Cuerpo de Bomberos de Mejía** refirió un hombre de 44 años con trauma lumbar, trauma abdominal y trauma cerrado de tórax.
-
-Este segundo herido fue trasladado al Hospital Básico de **Machachi** para estabilización.
-
-En redes sociales, la **Presidencia de la República**, **prefectos** y otras autoridades seccionales se solidarizaron con Tibán.
-
-> Expresamos nuestras condolencias ante el sensible fallecimiento del señor Raúl Llaquiche.  
->   
-> Paz en su tumba [pic.twitter.com/c4VD8s2rkX](https://t.co/c4VD8s2rkX)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [December 14, 2024](https://twitter.com/Presidencia_Ec/status/1867749725728125268?ref_src=twsrc%5Etfw)
-
-Producto del accidente, el ECU 911 registra una gran **congestión vehicular** sentido sur-norte, en el sector.
-
-¿Quién fue Raúl Ilaquiche, esposo de Lourdes Tibán?
----------------------------------------------------
-
-**Raúl Ilaquiche** fue un indígena del pueblo **Kichwa de Tigua**.
-
-Fue **Premio Bartolomé de las Casas** 2008, autoridad indígena y exdiputado.
-
-**Abogado**, PHD, docente Universitario y en libre ejercicio profesional.
-
-Actuaba como abogado defensor del líder de la **Confederación de Nacionalidades Indígenas del Ecuador (Conaie)**, Leonidas Iza.
-
-Un árbol grande cayó en Cuenca ¿Hubo heridos?
-=============================================
-
-Los Bomberos de Cuenca intervinieron en la emergencia del árbol caído en coordinación con otros organismos de socorro.
-----------------------------------------------------------------------------------------------------------------------
-
-![El árbol que cayó en Cuenca atravesó el río Tomebamba y alcanzó a una casa.](https://www.elcomercio.com/wp-content/uploads/2024/12/arbol-cuenca.jpg)
-
-Un **árbol** de gran tamaño cayó en **Cuenca** la tarde de este viernes 13 de diciembre de 2024.
-
-La emergencia fue atendida por el **Cuerpo de Bomberos** de esa ciudad en coordinación con otras instituciones.
-
-### Más noticias:
-
-* [Cortes de luz en Cuenca del lunes 16 al jueves 19 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-en-cuenca-del-lunes-16-al-jueves-19-de-diciembre.html "Cortes de luz en Cuenca del lunes 16 al jueves 19 de diciembre")
-* [Fuertes lluvias en Cuenca continúan; los ríos recuperan sus caudales](https://www.elcomercio.com/actualidad/cuenca/fuertes-lluvias-cuenca-rios-caudales.html "Fuertes lluvias en Cuenca continúan; los ríos recuperan sus caudales")
-
-Los daños ocasionados por el árbol caído en Cuenca
---------------------------------------------------
-
-La tarde de este viernes un árbol cayó en el sector del **Paseo Tres de Noviembre y los Cedros, sector Puertas del Sol**, Cuenca.
-
-El tronco del árbol cruzó el río, una calle y terminó afectando el cerramiento y **fachada de una vivienda** de la zona.
-
-Además, **dos mujeres y un menor** resultaron heridos.
-
-Fueron **trasladados** a una casa de salud para recibir atención por sus heridas.
-
-Personas que trabajan y residen en este sector ayudaron a los cuerpos de socorro a cortar el árbol para **rescatar** a las mujeres y el niño.
-
-Los **Bomberos de Cuenca** estabilizaron a las víctimas.
-
-El sargento **Pablo Sánchez** manifestó que dos pacientes fueron atendidos por la ambulancia del Cuerpo de Bomberos.
-
-El tercero por la ambulancia del **Ministerio de Salud**.
-
-Sánchez explicó que se debe tener precaución por la **época lluviosa**, pues las orillas de los ríos se mojan y la tierra se mueve, los árboles se desestabilizan y pueden caer.
-
-Policía reclutaba menores de edad y los preparaba para sicarios en Manabí
-=========================================================================
-
-Un policía en servicio activo fue detenido en Manabí por presuntamente reclutar niños y adolescentes para entrenarlos como sicarios.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![El policía recibió prisión preventiva mientras avanzan las investigaciones](https://www.elcomercio.com/wp-content/uploads/2024/12/sicariato-policia-ninos-manabi.jpg)
-
-Un **policía en servicio activo** fue detenido por su presunta participación en el delito de **trata de personas**. Se presume que el uniformado **reclutaba menores de edad** para que cometan asesinatos. al estilo **sicariato**.
-
-### Más noticias
-
-* [Policía encontró casi 12 millones de dólares en billetes falsos en Quito ¿Hay detenidos?](https://www.elcomercio.com/actualidad/seguridad/policia-encontro-casi-12-millones-dolares-billetes-falsos-quito-detenidos.html "Policía encontró casi 12 millones de dólares en billetes falsos en Quito ¿Hay detenidos?")
-* [Fiscalía procesa a tres personas, incluido un policía en operativo en Daule y Samborondón](https://www.elcomercio.com/actualidad/seguridad/fiscalia-procesa-tres-personas-policia-operativo-daule-samborondon.html "Fiscalía procesa a tres personas, incluido un policía en operativo en Daule y Samborondón")
-* [Policía desarticula un centro de videovigilancia clandestino en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/policia-desarticula-centro-de-videovigilancia-clandestino-guayaquil.html "Policía desarticula un centro de videovigilancia clandestino en Guayaquil")
-
-El cabo primero fue sorprendido mientras descansaba en su casa ubicada en el cantón **Jipijapa**, en la provincia de **Manabí**, la madrugada de este jueves 12 de diciembre.
-
-Las investigaciones previas al **operativo ‘Embestida’** señalan que el policía presuntamente **reclutaba niños y adolescentes**, y los entrenaba en el **manejo de armas**.
-
-Los menores de edad entrenados eran enviados a **cometer delitos**, que incluían **homicidios**.
-
-Fiscalía dictó prisión preventiva a policía
--------------------------------------------
-
-La Fiscalía dictó **prisión preventiva** de 90 días para el hombre, mientras se recogen más evidencias.
-
-El miembro de la Policía Nacional es investigado por el delito de **trata de personas** con fin de **reclutamiento forzoso** para conflictos armados o para el cometimiento de actos penados por la ley[.](https://www.policia.gob.ec/ "https://www.policia.gob.ec/")
-
-De verificarse su participación, el oficial podría recibir entre **16 a 19 años de prisión**. El artículo 92 del Código Orgánico Integral Penal (COIP) sanciona con este tiempo:
-
-“Si la infracción recae en personas de uno de los grupos de atención prioritaria (…) o existe **vínculo de autoridad civil, militar**, educativa, religiosa o laboral”.
-
-Excoronel y capitán, involucrados en tráfico de droga
------------------------------------------------------
-
-La **Policía Nacional** ejecutó en la madrugada del jueves el **operativo Gran Fénix 52 Gibraltar**, en conjunto con la Unidad de Drogas y Crimen Organizado y la Fiscalía.
-
-En total se realizaron10 allanamientos en las provincias de **Pichincha, Guayas y El Oro**, lo que culminó con la detención de ocho **ciudadanos ecuatorianos**. Entre ellos, **alias ‘Carlitos’**, identificado como un **objetivo de alto valor** por ser quien lideraba esta red de tráfico de sustancias.
-
-Entre los detenidos también se encontró un **coronel en servicio pasivo de la Policía**, quien era jefe de Antinarcóticos, y **un capitán de la Armada,** quienes serían parte de una red de narcotráfico.
-
-Los uniformados allanaron una casa en el sector de **El Condado,** norte de Quito, donde detuvieron al exservidor policial **Julio César Miño.**
-
-Según las autoridades, la organización utilizaba la **contaminación de contenedores** para enviar cocaína al continente europeo.
-
-Esta investigación se dio un año después de la incautación en España de un cargamento de 7,3 toneladas de droga.
-
-Max Verstappen cumple servicio comunitario impuesto como sanción por FIA
-========================================================================
-
-El piloto Max Verstappen, de 27 años, cumplió en Ruanda el servicio comunitario impuesto como sanción por la FIA
-----------------------------------------------------------------------------------------------------------------
-
-![El cuatro veces campeón mundial de pilotos de Fórmula 1, Max Verstappen, habla mientras realiza el servicio comunitario ordenado por la FIA en Kigali, Ruanda.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-62.jpg)
-
-El neerlandés **Max Verstappen** (Red Bull), que logró este año su cuarto **Mundial de Fórmula 1** (seguido), cumplió este viernes 13 de diciembre del 2024 en Ruanda el servicio comunitario impuesto como sanción por la **Federación Internacional del Automóvil** (FIA) por un exabrupto en una rueda de prensa el pasado septiembre en Singapur.
-
-En la capital ruandesa, Kigali, **Verstappen** -que este año logró su cuarta corona tras ganar nueve de las 24 carreras del Mundial más largo de la historia- se reunió, como parte de su servicio comunitario, con estudiantes del Colegio Politécnico Regional Integrado (IPRC, en sus siglas en inglés) que diseñaron un vehículo todoterreno.
-
-### Más noticias:
-
-* [Los cambios en la Fórmula 1 para el 2025](https://www.elcomercio.com/deportes/cambios-formula-1-2025-equipos-pilotos.html "Los cambios en la Fórmula 1 para el 2025")
-* [Richard Schunke, capitán y multicampeón con IDV](https://www.elcomercio.com/deportes/futbol/richard-schunke-titulos-independiente-valle.html "Richard Schunke, capitán y multicampeón con IDV")
-* [Pichincha ampliará su dominio sobre Guayas en campeonato nacional](https://www.elcomercio.com/deportes/futbol/pichincha-guayas-titulos-campeonato-naciona.html "Pichincha ampliará su dominio sobre Guayas en campeonato nacional")
-
-Max Verstappen
---------------
-
-“Muchas gracias por estar aquí. Es mi primera vez en este país”, afirmó el piloto, vestido con unos pantalones vaqueros y una camiseta gris y acompañado por el presidente de la FIA, Mohammed Ben Sulayem, y el ministro ruandés de Deportes, Richard Nyirishema, entre otros.
-
-**Max Verstappen**, de 27 años, les habló a los estudiantes del “sueño de llegar a la **Fórmula 1**“, que empieza a veces con logros como el automóvil diseñado por los alumnos.
-
-Tras su encuentro con los jóvenes, el corredor se puso un esmoquin para asistir en Kigali a la ceremonia de entrega de premios de la **FIA,** en la que recogerá oficialmente su trofeo de campeón del mundo en presencia del presidente de Ruanda, **Paul Kagame.**
-
-‘Max Max’ fue castigado por el organismo rector de la F1 por utilizar malas palabras el pasado septiembre durante una conferencia de prensa del **Gran Premio de Singapur 2024** al describir el comportamiento de su bólido.
-
-“Es política de la **FIA** garantizar que el lenguaje utilizado en sus foros públicos, como las conferencias de prensa, cumpla con los estándares generalmente aceptados para todos los públicos y transmisiones”, afirmó entonces el órgano rector, que obligó al piloto de Red Bull a “realizar algún trabajo de interés público”.
-
-Kigali acogió esta semana la **Asamblea General** anual de la **FIA**, que por primera vez tiene lugar en una ciudad africana, donde el presidente Kagame anunció la candidatura de Ruanda a albergar una carrera de Fórmula 1.
-
-“Me complace anunciar formalmente que Ruanda presenta su candidatura para devolver la emoción de las carreras a África albergando el Gran Premio de F1”, afirmó este viernes el mandatario ruandés.
-
-Cinco personas, a juicio por presunto lavado de activos en el caso PipMaster
-============================================================================
-
-Fiscalía investiga a la empresa PipMaster por presuntamente captar dinero de forma ilegal y utilizarlo en lavado de activos.
-----------------------------------------------------------------------------------------------------------------------------
-
-![PipMaster operaba como una estructura societaria con una variedad de locales comerciales](https://www.elcomercio.com/wp-content/uploads/2024/12/pipmaster-lavado-activos-juicio.jpg)
-
-Un Juez de la Unidad Penal de **Santo Domingo** llamó a **juicio** a **cinco personas naturales** y a 26 jurídicas por el **caso PipMaster**. La empresa es investigada por presuntamente **captar dinero de forma ilegal** y lavar activos con estos recursos.
-
-### Más noticias
-
-* [Fiscalía solicitó 9 años y 4 meses de prisión para expresidente del Consejo de la Judicatura](https://www.elcomercio.com/actualidad/seguridad/fiscalia-solicito-9-anos-4-meses-prision-expresidente-consejo-judicatura.html "Fiscalía solicitó 9 años y 4 meses de prisión para expresidente del Consejo de la Judicatura")
-* [Comisión de Fiscalización se refirió al juicio político de Juan Esteban Guarderas](https://www.elcomercio.com/actualidad/politica/comision-fiscalizacion-refirio-juicio-politico-juan-esteban-guarderas.html "Comisión de Fiscalización se refirió al juicio político de Juan Esteban Guarderas")
-* [Familia irá a juicio por actos de odio contra pariente transgénero, en Manabí](https://www.elcomercio.com/actualidad/ecuador/familia-juicio-secuestro-pariente-transgenero-manabi.html "Familia irá a juicio por actos de odio contra pariente transgénero, en Manabí")
-
-En la audiencia de este viernes 13 de diciembre de 2024 se dictó auto de llamamiento a juicio contra **Christian J.**, representante legal de la entidad, y otros cuatro ciudadanos.
-
-Fiscalía investiga el presunto lavado de 18 millones de dólares
----------------------------------------------------------------
-
-Según Fiscalía, las investigaciones apuntan a que la empresa captaba dinero a cambio de ofrecer **exorbitantes porcentajes de interés**. Asimismo, se presume que PipMaster lavó activos en **mercados nacionales e internacionales** por cerca de **18 millones de dólares**.
-
-La compañía operaba a nivel nacional, pero Quito y Santo Domingo eran las ciudades donde más dinero se movía. PipMaster ofrecían **altos retornos**, que iban desde el 8 % al **30 % mensual**, cuando el promedio entregado por bancos y cooperativas es menor al 1 %.
-
-PipMaster utilizaba la fachada de una **estructura societaria**, compuesta por varias empresas que se dedicaban a **actividades comerciales específicas**, como: restaurantes, cafetería, heladerías, actividad deportiva, salón de bolos, publicidad, capacitación, construcción, entre otros[.](https://www.fiscalia.gob.ec/sala-de-prensa/ "https://www.fiscalia.gob.ec/sala-de-prensa/")
-
-La mayoría de establecimientos utilizaban el prefijo Pip para identificarse comercialmente, por ejemplo: **Pip Coffee** o **Pip Home**.
-
-¿Cómo captaba dinero PipMaster?
--------------------------------
-
-**EL COMERCIO** conversó con uno de los afectados por PipMaster. ‘Mauricio’, nombre protegido, contó que conoció de la empresa por un cercano. Su amigo le recomendó a una ‘asesora comercial’ en Quito para que le explicara como funcionaba la ‘**inversión**‘.
-
-Según relató, la compañía contaba con colaboradores, cuyo trabajo era captar personas y acompañarlos hasta la **firma de los contratos**, que, según la entidad, servirían en un futuro para respaldar la transacción de forma legal.
-
-En la capital, las oficinas se ubicaban en un edificio de la av. Naciones Unidas, en el centro norte. En este lugar se ‘capacitaba’ a los asesores.
-
-“Cuando les preguntábamos el porqué de los altos retornos nos decían que ellos invierten el dinero en **bolsa de valores** internacionales y que, al estar el dinero en Estados Unidos, era seguro que no se perdería”, comentó Mauricio.
-
-El afectado colocó en PipMaster un determinado valor, que prefirió no contar cuanto. Durante un año y medio recibió cerca de **80 dólares mensuales**; esto, hasta junio de 2021. Al mes siguiente, Fiscalía **allanó las oficinas** de la empresa y los pagos se suspendieron.
-
-“Les escribí tanto a mi asesora, como al jefe de ella, al principio respondían afirmando que pronto se solucionaría todo, luego dejaron de responder, el último mensaje que recibí de ellos fue grosero, **ya no insistí más**“.
-
-> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | Caso [#PipMaster](https://twitter.com/hashtag/PipMaster?src=hash&ref_src=twsrc%5Etfw): Juez de la Unidad Penal de [#SantoDomingo](https://twitter.com/hashtag/SantoDomingo?src=hash&ref_src=twsrc%5Etfw) dictó auto de llamamiento a juicio contra Christian J., Natalia G., 3 personas naturales más y 26 personas jurídicas por presunto [#LavadoDeActivos](https://twitter.com/hashtag/LavadoDeActivos?src=hash&ref_src=twsrc%5Etfw). También dispuso el sobreseimiento a favor de una empresa. [pic.twitter.com/3M7tHFs9fa](https://t.co/3M7tHFs9fa)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [December 13, 2024](https://twitter.com/FiscaliaEcuador/status/1867408796491849917?ref_src=twsrc%5Etfw)
-
-Cronología del caso PipMaster
------------------------------
-
-**El 22 de julio de 2021**
-
-Fiscalía inició una investigación previa por el presunto delito de **lavado de activos**, teniendo como datos precedentes, la captación ilegal de dinero.
-
-La empresa fue reportada por la **Superintendencia de Compañías**, por no contar con la autorización para realizar operaciones de casa de valores. La investigación se originó en un reporte de operaciones inusuales e injustificadas.
-
-**12 de julio de 2022**
-
-Fiscalía, junto a la Policía Nacional realiza **30 allanamientos simultáneos** en seis provincias: Pichincha, Santo Domingo de los Tsáchilas, El Oro, Azuay, Orellana y Manabí.
-
-Las autoridades incautaron varias evidencias, como parte de la investigación previa[.](https://www.fiscalia.gob.ec/sala-de-prensa/ "https://www.fiscalia.gob.ec/sala-de-prensa/")
-
-**13 de julio de 2022**
-
-Al día siguiente, las seis personas aprehendidas en los operativos **recibieron cargos**.
-
-Fiscalía presentó más de 45 indicios contra los procesados, entre los que constaron información financiera, informes de la Superintendencia de Compañías, del Servicio de Rentas Internas (SRI) y de la Unidad de Análisis Financiero y Económico (UAFE).
-
-El Juez del caso dictó prisión preventiva para **Cristhian J., Vicente S. y Christian Andrés R.**; mientras que a **Gabriela A., Natalia G. e Iván G.** les dispuso la prohibición de salida del país y presentación periódica.
-
-**22 de julio de 2022**
-
-Dentro de la investigación se determinó la presunta participación de una estructura societaria, razón por la cual, la Fiscalía General del Estado vinculó a **26 personas jurídicas** a la causa por presunto lavado de activos, que involucra a la empresa PipMaster Cía. Ltda.
-
-**3 de agosto de 2022**
-
-La Sala Multicompetente de la Corte Provincial de Santo Domingo aceptó el recurso de apelación a la prisión preventiva de Cristhian J. A., Christian R. Z. y Vicente S. P. y les dictó **presentación diaria** ante Fiscalía.
-
-‘Como agua para chocolate’: Tita de la Garza a través de dos generaciones
-=========================================================================
-
-Azul Guaita y Lumi Cavazos han dado vida a Tita.
-------------------------------------------------
-
-![Azul Guaita y Lumi Cavazos han dado vida a Tita de la Garza, la protagonista de 'Como agua para chocolate'.](https://www.elcomercio.com/wp-content/uploads/2024/12/como-agua-para-chocolate-El-Comercio.jpg)
-
-Desde su creación en ‘**Como agua para chocolate**‘, de **Laura Esquivel**, **Tita de la Garza** simboliza la resistencia, la pasión y el poder transformador de las emociones.
-
-En un México marcado por las tradiciones, su vida está definida por una regla familiar: debe permanecer soltera para cuidar a su madre, Mamá Elena.
-
-### Más noticias:
-
-* **[¡Regresa ‘Malcolm in the middle’ con nuevos episodios!](https://www.elcomercio.com/afull/malcolm-in-the-middle-regreso-disney.html "https://www.elcomercio.com/afull/malcolm-in-the-middle-regreso-disney.html")**
-* **[‘Heretic’, una película de terror psicológico que desafía la fe](https://www.elcomercio.com/tendencias/heretic-pelicula-terror.html "https://www.elcomercio.com/tendencias/heretic-pelicula-terror.html")**
-
-Sin embargo, Tita encuentra en la cocina un refugio y un lenguaje para expresar sus deseos y desafíos. Este personaje icónico ha sido llevado a la pantalla en dos adaptaciones que destacan por su profundidad y sensibilidad.
-
-Lumi Cavazos: La Tita del cine
-------------------------------
-
-La película de 1992, dirigida por **Alfonso Arau**, introdujo a Tita al público internacional con una actuación inolvidable de **Lumi Cavazos**. Según _Variety_, Cavazos logró transmitir la intensidad emocional del personaje, fusionando fragilidad y fuerza con una autenticidad que cautivó audiencias en todo el mundo.
-
-Su interpretación le valió premios en festivales como Tokio y Gramado, lo que impulsó su carrera a nivel global y la llevó a trabajar en Hollywood. La película, considerada un éxito del cine mexicano, también popularizó la historia más allá de los lectores del libro.
-
-Azul Guaita: La Tita moderna
-----------------------------
-
-Tres décadas después, **HBO Max** lanzó en noviembre de 2024 una serie basada en la novela, con **Azul Guaita** como protagonista. La actriz mexicana ofreció una visión contemporánea de Tita, manteniendo la esencia del personaje original mientras conectaba con nuevas generaciones.
-
-En una entrevista para El País, Guaita expresó que interpretar a Tita fue un reto emocional y profesional: “Es un personaje que te transforma; te conecta con la fortaleza interior y la lucha por la libertad”.
-
-Un legado atemporal
--------------------
-
-Ambas interpretaciones han logrado mantener vivo el legado de Tita. Mientras Cavazos llevó al personaje a la gran pantalla en una época donde el cine mexicano buscaba consolidarse internacionalmente, Guaita lo reintroduce en un formato serial que explora su complejidad con mayor profundidad.
-
-La historia de Tita, cargada de simbolismo y emociones, sigue siendo un referente cultural que inspira a nuevas audiencias.
-
-La primera temporada de la **serie de Max** llegó a su fin, pero ‘Como agua para chocolate’ continúa. Mariano César, ejecutivo de contenidos locales de la compañía, anunció que habrá la segunda temporada.
-
-Vuelo de American Airlines aterriza de emergencia tras chocar con un ave
-========================================================================
-
-Las imágenes, publicadas en redes sociales, muestran el avión inclinándose mientras el motor se ve afectado.
-------------------------------------------------------------------------------------------------------------
-
-![Imagen de un avión American Airlines.](https://www.elcomercio.com/wp-content/uploads/2024/12/avion-american-oki.jpg)
-
-El vuelo 1722 de **[American Airlines](https://es.wikipedia.org/wiki/American_Airlines "https://es.wikipedia.org/wiki/American_Airlines")**, que partió la noche del 12 de diciembre de 2024, desde el **Aeropuerto LaGuardia** (LGA) de Nueva York, tuvo que realizar un **aterrizaje de emergencia** poco después de su despegue.
-
-### Más noticias
-
-* [Google Flights: Herramienta para buscar boletos de avión baratos](https://www.elcomercio.com/tecnologia/google-flights-herramienta-buscar-boletos-de-avion-baratos.html "https://www.elcomercio.com/tecnologia/google-flights-herramienta-buscar-boletos-de-avion-baratos.html")
-* [Ecuador registró más de 1,2 millones de pasajeros aéreos en primer trimestre](https://www.elcomercio.com/actualidad/negocios/ecuador-registro-pasajeros-aereos-trimestre.html "https://www.elcomercio.com/actualidad/negocios/ecuador-registro-pasajeros-aereos-trimestre.html")
-* [EE.UU. prohíbe a sus aerolíneas comerciales volar sobre Afganistán](https://www.elcomercio.com/actualidad/eeuu-prohibe-aerolineas-comerciales-afganistan.html "https://www.elcomercio.com/actualidad/eeuu-prohibe-aerolineas-comerciales-afganistan.html")
-
-La aeronave, que se dirigía a Charlotte, **Carolina del Norte**, sufrió una grave falla en uno de sus motores al ser impactado por un pájaro. Este incidente obligó a los pilotos a redirigir el vuelo al **Aeropuerto Internacional John F. Kennedy (JFK)**, ubicado a solo unos kilómetros de distancia, de acuerdo con El Diario NY.
-
-Momento crítico captado por un pasajero
----------------------------------------
-
-El suceso, que ocurrió poco después de las 19:20, fue registrado en **video por un pasajero**, quien captó el preciso instante en que el **motor derecho del avión** succiona al ave, causando una explosión y llamas.
-
-Las imágenes, publicadas en redes sociales, muestran el **avión inclinándose mientras el motor** se ve afectado. La Autoridad Portuaria de Nueva York y Nueva Jersey (PANYNJ) informó que el motor izquierdo quedó inutilizado, y el **avión pudo aterrizar con seguridad** utilizando solo el motor derecho.
-
-Afortunadamente, no se reportaron heridos. Sin embargo, algunos pasajeros, aterrados por la situación, compartieron su experiencia tras aterrizar. **“Pensé que iba a morir”,** expresó Amy Stamper, una de las afectadas. Los pasajeros fueron reprogramados para completar su vuelo la mañana siguiente.
-
-Historial de incidentes similares
----------------------------------
-
-Este incidente no es el primero de su tipo. En 2009, el **choque con aves fue la causa del famoso** ‘Milagro en el Hudson’, cuando un **avión de US Airways aterrizó a salvo en el río Hudson** tras perder ambos motores. Otros vuelos también sufrieron **desviaciones** similares por impactos con aves, como ocurrió en 2019 y 2020.
-
-Cortes de luz en Guayaquil este sábado 14 de diciembre
-======================================================
-
-Los cortes de luz en Guayaquil este sábado 14 de diciembre son de hasta tres horas, en el sector residencial.
--------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil este sábado 14 de diciembre son definidos por CNEL.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-guayaquil-sabado-14-diciembre.jpg)
-
-Los **cortes de luz** en **Guayaquil** este **sábado 14 de diciembre de 2024** son de hasta tres horas.
-
-La **CNEL** definió la programación de la suspensión de energía eléctrica en la capital.
-
-### Más noticias:
-
-* [Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos](https://www.elcomercio.com/actualidad/ecuador/gobierno-ratifica-fin-cortes-luz-ecuador.html "Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos")
-* [Quito tendrá cortes de luz de dos horas del lunes 16 al jueves 19 de diciembre](https://www.elcomercio.com/actualidad/quito/quito-cortes-luz-dos-horas-lunes-16-jueves-19-diciembre.html "Quito tendrá cortes de luz de dos horas del lunes 16 al jueves 19 de diciembre")
-
-Horarios de cortes de luz en Guayaquil este sábado 14 de diciembre
-------------------------------------------------------------------
-
-A diez días de que se cumplan tres meses de la implementación de cortes de luz programados, el Gobierno de **Daniel Noboa** ratificó el fin de los mismos para este 20 de diciembre.
-
-La dependencia de las lluvias para la **generación energética** hizo que el 23 de septiembre el Gobierno decidieron programar racionamientos eléctricos en todo el país.
-
-Ecuador atravesó por cortes de luz de hasta **14 horas diarias**, siendo los cortes de esta semana los más reducidos, con tres horas de duración.
-
-Los apagones comenzaron en **abril**, pero se suspendieron luego de unos días.
-
-Para la última semana de racionamientos eléctricos, del **lunes 16 al jueves 19 de diciembre**, la programación se redujo a dos horas.
-
-El Gobierno tomó en cuenta tres factores para terminar con los apagones: la **situación hidrológica** en Ecuador, los p**royectos de inversión emergentes** y la **compra de energía a Colombia**.
-
-El funcionamiento de las **hidroeléctricas** mejoró con el incremento de lluvias que favorecieron a los caudales de los ríos y los embalses.
-
-El Gobierno también confía en la activación y reactivación de proyectos hidroeléctricos, termoeléctricos y otros que mejorarán la **capacidad instalada**.
-
-La compra de energía a Colombia y la generación eléctrica privada también fueron factores importantes en medio de esta **sequía**.
-
-A continuación, los **cortes de luz** en **Guayaquil** este **sábado 14 de diciembre** de 2024 por sectores y horarios:
-
-Cortes de luz en Quito este sábado 14 de diciembre
-==================================================
-
-Los cortes de luz en Quito este sábado 14 de diciembre durarán tres horas.
---------------------------------------------------------------------------
-
-![Los cortes de luz en Quito este sábado 14 de diciembre son definidos por EEQ.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-quito-sabado-14-diciembre.jpg)
-
-Los **cortes de luz** en **Quito** este **sábado 14 de diciembre de 2024** son de hasta tres horas.
-
-La **Empresa Eléctrica Quito (EEQ)** definió la programación de la suspensión de energía eléctrica en la capital.
-
-### Más noticias:
-
-* [Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos](https://www.elcomercio.com/actualidad/ecuador/gobierno-ratifica-fin-cortes-luz-ecuador.html "Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos")
-* [Quito tendrá cortes de luz de dos horas del lunes 16 al jueves 19 de diciembre](https://www.elcomercio.com/actualidad/quito/quito-cortes-luz-dos-horas-lunes-16-jueves-19-diciembre.html "Quito tendrá cortes de luz de dos horas del lunes 16 al jueves 19 de diciembre")
-
-Horarios de cortes de luz en Quito este sábado 14 de diciembre
---------------------------------------------------------------
-
-A diez días de que se cumplan tres meses de la implementación de cortes de luz programados, el Gobierno de **Daniel Noboa** ratificó el fin de los mismos para este 20 de diciembre.
-
-La dependencia de las lluvias para la **generación energética** hizo que el 23 de septiembre el Gobierno decidieron programar racionamientos eléctricos en todo el país.
-
-Ecuador atravesó por cortes de luz de hasta **14 horas diarias**, siendo los cortes de esta semana los más reducidos, con tres horas de duración.
-
-Los apagones comenzaron en **abril**, pero se suspendieron luego de unos días.
-
-Para la última semana de racionamientos eléctricos, del **lunes 16 al jueves 19 de diciembre**, la programación se redujo a dos horas.
-
-El Gobierno tomó en cuenta tres factores para terminar con los apagones: la **situación hidrológica** en Ecuador, los p**royectos de inversión emergentes** y la **compra de energía a Colombia**.
-
-El funcionamiento de las **hidroeléctricas** mejoró con el incremento de lluvias que favorecieron a los caudales de los ríos y los embalses.
-
-El Gobierno también confía en la activación y reactivación de proyectos hidroeléctricos, termoeléctricos y otros que mejorarán la **capacidad instalada**.
-
-La compra de energía a Colombia y la generación eléctrica privada también fueron factores importantes en medio de esta **sequía**.
-
-A continuación, los **cortes de luz** en **Quito** este **sábado 14 de diciembre** de 2024 por sectores y horarios:
-
-Nuevas oleadas de bombardeos israelíes contra Siria, incluso a las afueras de Damasco
-=====================================================================================
-
-Una primera oleada alcanzó seis objetivos distintos en los alrededores de la capital siria y la provincia meridional de Al Sueida.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Soldados israelíes en un puesto de avanzada en los Altos del Golán anexados por Israel.](https://www.elcomercio.com/wp-content/uploads/2024/12/soldados-israel-guerra-efe.jpg)
-
-Israel lanzó este viernes, 13 de diciembre de 2024, dos **nuevas oleadas de bombardeos** contra objetivos militares pertenecientes al derrocado régimen de **Bashar al Asad** en diferentes puntos de Siria, que incluso alcanzaron las **afueras de Damasco,** informaron diversas fuentes.
-
-### Más noticias
-
-* [Kurdosirios repelen los ataques en el norte de Siria](https://www.elcomercio.com/actualidad/mundo/kurdosirios-repelen-ataques-norte-de-siria-y-anuncian-muerte-210-proturcos.html "Kurdosirios repelen los ataques en el norte de Siria")
-* [Protestas en Manbech, norte de Siria, tras ser tomada por facciones proturcas](https://www.elcomercio.com/actualidad/mundo/protestas-masivas-manbech-norte-siria-tras-ser-tomada-facciones-proturcas.html "Protestas en Manbech, norte de Siria, tras ser tomada por facciones proturcas")
-* [¿Qué sigue para Siria y el mundo tras la caída de Bashar al Asad?](https://www.elcomercio.com/actualidad/mundo/sigue-para-siria-mundo-caida-bashar-asad.html "¿Qué sigue para Siria y el mundo tras la caída de Bashar al Asad?")
-
-Una **primera oleada** alcanzó seis objetivos **distintos en los alrededores de la capital sir**ia y la provincia meridional de Al Sueida, según un comunicado del Observatorio Sirio de Derechos Humanos, con sede en el Reino Unido y una amplia red de colaboradores sobre el terreno.
-
-“La aviación israelí reanudó sus **ataques aéreos** con nuevas acciones dirigidas contra la cima del **Monte Qasioun en Damasco,** el aeropuerto de Jalajla a las afueras de Al Sueida (sur) y los laboratorios de Defensa e Investigación en Masyaf (noroeste)”, agregó poco después la organización en una segunda nota.
-
-Por su parte, la Televisión Siria, controlada por las autoridades interinas del país, confirmó que se produjeron **“intensos” bombardeos israelíes** contra los alrededores de Damasco, donde se pudieron escuchar varias explosiones.
-
-Bombardeos contra ejército sirio
---------------------------------
-
-Aunque Israel ya llevaba a cabo desde hace años **bombardeos contra objetivos del Ejército sirio** y de sus aliados proiraníes en Siria, la Fuerza Aérea israelí ha destruido cientos de objetivos militares en el país árabe desde la caída del Gobierno de Al Asad, el pasado día 8.
-
-Su intención sería **evitar que esta infraestructura y armamento caiga** en manos de los insurgentes que lo derrocaron.
-
-Tras el **derrocamiento del presidente sirio,** Israel también desplegó a su Ejército en la zona desmilitarizada con Siria.
-
-Este mismo viernes, el **ministro de Defensa israelí, Israel Katz,** ordenó a sus tropas mantener durante los meses de invierno sus **posiciones en el lado sirio del monte Hermón**, en la zona desmilitarizada de los Altos del Golán, y lo justificó como “un asunto de seguridad de gran importancia”.
-
-Israel ya ocupaba la mayor parte de los **Altos del Golán** desde que los arrebató a Siria durante la Guerra de los Seis Días, de 1967.
