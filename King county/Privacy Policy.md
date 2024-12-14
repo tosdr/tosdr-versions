@@ -8,7 +8,7 @@ Dec
 
 * * *
 
-13](https://kingcounty.gov/en/calendar)
+14](https://kingcounty.gov/en/calendar)
 
 language English
 
@@ -43,7 +43,7 @@ Global Navigation
 * [Pet licenses](https://kingcounty.gov/en/dept/executive-services/animals-pets-pests/regional-animal-services/pet-licenses)
 * [Found Pets](https://kingcounty.gov/en/dept/executive-services/animals-pets-pests/regional-animal-services/found-pet)
 * [Animal Control](https://kingcounty.gov/en/dept/executive-services/animals-pets-pests/regional-animal-services/animal-control-response)
-* [Diseases from animals](https://kingcounty.gov/legacy/depts/health/communicable-diseases/zoonotic/facts-resources.aspx)
+* [Diseases from animals](https://kingcounty.gov/en/dept/dph/health-safety/disease-illness/zoonotic-diseases/diseases-by-animal)
 * [Getting rid of rats and mice](https://kingcounty.gov/en/dept/dph/health-safety/environmental-health/getting-rid-of-rats-mice)
 
 ### Buildings And Property expand\_more
@@ -51,7 +51,7 @@ Global Navigation
 * [Building and fire inspections](https://kingcounty.gov/en/dept/local-services/buildings-property/inspections/building-inspections)
 * [Land use inspections](https://kingcounty.gov/en/dept/local-services/buildings-property/inspections/land-use-inspections)
 * [Parcel viewer property search](https://kingcounty.gov/en/dept/kcit/data-information-services/gis-center/maps-apps/parcel-viewer)
-* [Property tax payment information](https://kingcounty.gov/legacy/depts/finance-business-operations/treasury/property-tax.aspx)
+* [Property tax payment information](https://kingcounty.gov/en/dept/executive-services/buildings-property/treasury-operations/property-tax)
 * [Property research](https://kingcounty.gov/en/dept/local-services/buildings-property/property-research-and-maps/property-research)
 * [Property tax assessments (residential)](https://kingcounty.gov/en/dept/assessor/buildings-and-property/property-taxes/residential-property-taxes)
 * [Parcel sales search](https://info.kingcounty.gov/assessor/esales/eSales.aspx)
@@ -68,7 +68,7 @@ Global Navigation
 * [Death certificates](https://kingcounty.gov/en/dept/dph/certificates-permits-licenses/order-death-certificate)
 * [Fire and special event permit](https://kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use/permit-forms-application-materials/fire-permits)
 * [Gun (concealed pistol) licenses](https://kingcounty.gov/en/dept/sheriff/courts-jails-legal-system/sheriff-services/concealed-pistol-license)
-* [Car, truck, and boat licenses](https://kingcounty.gov/legacy/depts/records-licensing/licensing/vehicle-vessel.aspx)
+* [Car, truck, and boat licenses](https://kingcounty.gov/en/dept/executive-services/certificates-permits-licenses/records-licensing/vehicle-vessel-licensing)
 * [Food business permits](https://kingcounty.gov/en/dept/dph/certificates-permits-licenses/food-business-permits)
 * [Pet licenses](https://kingcounty.gov/en/dept/executive-services/animals-pets-pests/regional-animal-services/pet-licenses)
 
@@ -84,8 +84,8 @@ Global Navigation
 
 * [GIS maps and applications](https://kingcounty.gov/en/dept/kcit/data-information-services/gis-center/maps-apps)
 * [iMap - interactive mapping tool](https://kingcounty.gov/en/dept/kcit/data-information-services/gis-center/maps-apps/imap)
-* [Online records search](https://kingcounty.gov/legacy/depts/records-licensing/recorders-office/records-search.aspx)
-* [Recorder's office](https://kingcounty.gov/legacy/depts/records-licensing/recorders-office.aspx)
+* [Online records search](https://kingcounty.gov/en/dept/executive-services/certificates-permits-licenses/records-licensing/recorders-office/records-search)
+* [Recorder's office](https://kingcounty.gov/en/dept/executive-services/certificates-permits-licenses/records-licensing/recorders-office)
 
 ### Governance And Leadership expand\_more
 
@@ -99,16 +99,16 @@ Global Navigation
 * [COVID-19](https://kingcounty.gov/en/dept/dph/health-safety/disease-illness/covid-19)
 * [Environmental Health Services](https://kingcounty.gov/en/dept/dph/health-safety/environmental-health)
 * [Restaurant safety ratings](https://kingcounty.gov/en/dept/dph/health-safety/food-safety/search-restaurant-safety-ratings)
-* [Mental health services](https://kingcounty.gov/legacy/depts/community-human-services/mental-health-substance-abuse/services/mental-health.aspx)
+* [Mental health services](https://kingcounty.gov/en/dept/dchs/human-social-services/behavioral-health-recovery/mental-health-services)
 
 ### Human And Social Services expand\_more
 
-* [Crisis services](https://kingcounty.gov/legacy/depts/community-human-services/mental-health-substance-abuse/services/crisis-services.aspx)
-* [Best Starts for Kids](https://kingcounty.gov/legacy/depts/community-human-services/initiatives/best-starts-for-kids.aspx)
-* [Mental health services](https://kingcounty.gov/legacy/depts/community-human-services/mental-health-substance-abuse/services/mental-health.aspx)
-* [Homeless Housing Program](https://kingcounty.gov/legacy/depts/community-human-services/housing/services/homeless-housing.aspx)
+* [Crisis services](https://kingcounty.gov/en/dept/dchs/human-social-services/behavioral-health-recovery/crisis-services)
+* [Best Starts for Kids](https://kingcounty.gov/en/dept/dchs/human-social-services/community-funded-initiatives/best-starts-for-kids)
+* [Mental health services](https://kingcounty.gov/en/dept/dchs/human-social-services/behavioral-health-recovery/mental-health-services)
+* [Housing, finance, and other services](https://find-human-services.kingcounty.gov/)
 * [Veterans Program](https://kingcounty.gov/en/dept/dchs/human-social-services/king-county-veterans-program)
-* [Behavioral health and recovery](https://kingcounty.gov/legacy/depts/community-human-services/mental-health-substance-abuse.aspx)
+* [Behavioral health and recovery](https://kingcounty.gov/en/dept/dchs/human-social-services/behavioral-health-recovery/bhrd)
 
 ### Nature and Recreation expand\_more
 
@@ -116,7 +116,7 @@ Global Navigation
 * [Marymoor Park](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/parks/marymoor)
 * [Parks and recreation](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks)
 * [Facility rentals](https://kingcounty.gov/en/dept/dnrp/nature-recreation/parks-recreation/king-county-parks/rentals)
-* [Climate change](https://kingcounty.gov/legacy/services/environment/climate.aspx)
+* [Climate change](https://kingcounty.gov/en/dept/executive/governance-leadership/climate-office)
 * [Flood service warning system](https://kingcounty.gov/en/dept/dnrp/nature-recreation/environment-ecology-conservation/flood-services/flood-warning-alerts/warning-system)
 
 ### Transit, Transportation, and Roads expand\_more
