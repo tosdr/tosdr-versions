@@ -213,9 +213,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,23 +255,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Yoon Suk Yeol: from rising star to second impeachment vote](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/yoon-rise-and-fall/ "Yoon Suk Yeol: from rising star to second impeachment vote")
+
+1 hour ago
+
+[Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
+
+1 hour ago
+
+[Japanese firm delays bid to be first to put a satellite into orbit](https://www.japantimes.co.jp/news/2024/12/14/japan/science-health/space-one-kairos-rocket-delay/ "Japanese firm delays bid to be first to put a satellite into orbit")
+
+3 hours ago
+
+[South Korean president to face second impeachment vote](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president to face second impeachment vote")
+
+5 hours ago
+
 [Trilateral fighter project takes big step with joint venture deal](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
-
-8 hours ago
-
-[Ruling bloc proposes ¥1.23 million minimum threshold for taxable income](https://www.japantimes.co.jp/news/2024/12/13/japan/politics/ruling-bloc-taxable-income-proposal/ "Ruling bloc proposes ¥1.23 million minimum threshold for taxable income")
-
-9 hours ago
-
-[Japan updates disaster shelter guidelines](https://www.japantimes.co.jp/news/2024/12/13/japan/shelter-guidelines-update/ "Japan updates disaster shelter guidelines")
-
-9 hours ago
-
-[Macron names veteran centrist ally Francois Bayrou as France's prime minister](https://www.japantimes.co.jp/news/2024/12/13/world/politics/francois-bayrou-new-french-pm/ "Macron names veteran centrist ally Francois Bayrou as France's prime minister")
-
-9 hours ago
-
-[China eyes negotiations as Trump threatens new tariffs](https://www.japantimes.co.jp/business/2024/12/13/economy/china-negotiations-trump-tariff-threat/ "China eyes negotiations as Trump threatens new tariffs")
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
