@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/Red-Line-North-Side-Suspects-Septemer-2024-326x245.jpg)](https://cwbchicago.com/2024/12/16-year-old-charged-committing-4-robberies-along-the-red-line.html "16-year-old charged with committing 4 robberies along the Red Line")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/bb20-326x245.jpg)](https://cwbchicago.com/2024/12/man-found-dead-fatally-shot-in-a-south-chicago-alley-that-used-to-be-monitored-by-shotspotter.html "Man found dead, fatally shot in a South Chicago alley that used to be monitored by ShotSpotter")
 
-CTA
+South Chicago
 
-### [16-year-old charged with committing 4 robberies along the Red Line](https://cwbchicago.com/2024/12/16-year-old-charged-committing-4-robberies-along-the-red-line.html "16-year-old charged with committing 4 robberies along the Red Line")
+### [Man found dead, fatally shot in a South Chicago alley that used to be monitored by ShotSpotter](https://cwbchicago.com/2024/12/man-found-dead-fatally-shot-in-a-south-chicago-alley-that-used-to-be-monitored-by-shotspotter.html "Man found dead, fatally shot in a South Chicago alley that used to be monitored by ShotSpotter")
 
-[December 10, 2024 11:40 AM](https://cwbchicago.com/2024/12)
+[December 11, 2024 7:29 AM](https://cwbchicago.com/2024/12)
 
-A 16-year-old boy is charged with committing four robberies on CTA trains and platforms earlier this year, police say. Chicago police arrested the boy yesterday in the 1100 block of South Hamilton, which is where the county’s juvenile justice center is located, suggesting he may have other matters pending.[](https://cwbchicago.com/2024/12/16-year-old-charged-committing-4-robberies-along-the-red-line.html "16-year-old charged with committing 4 robberies along the Red Line")
+A man found unresponsive at the mouth of an alley in South Chicago overnight had been fatally shot, Chicago police said. The man, who suffered a gunshot wound to his head, was pronounced dead at the scene.[](https://cwbchicago.com/2024/12/man-found-dead-fatally-shot-in-a-south-chicago-alley-that-used-to-be-monitored-by-shotspotter.html "Man found dead, fatally shot in a South Chicago alley that used to be monitored by ShotSpotter")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/marcus-montgomery-map-326x245.jpg)](https://cwbchicago.com/2024/12/4x-felon-committed-2-carjackings-and-robbed-2-migrants-within-30-minutes-cpd-report-says.html "4x felon committed 2 carjackings and robbed 2 migrants within 30 minutes, CPD report says")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/3500-block-w-59th-ms-326x245.jpg)](https://cwbchicago.com/2024/12/10000-reward-offered-for-info-about-mass-shooting-that-left-3-dead-5-injured-at-chicago-house-party.html "$10,000 reward offered for info about mass shooting that left 3 dead, 5 injured at Chicago house party")
 
-Goose Island
+Gage Park
 
-### [4x felon committed 2 carjackings and robbed 2 migrants within 30 minutes, CPD report says](https://cwbchicago.com/2024/12/4x-felon-committed-2-carjackings-and-robbed-2-migrants-within-30-minutes-cpd-report-says.html "4x felon committed 2 carjackings and robbed 2 migrants within 30 minutes, CPD report says")
+### [$10,000 reward offered for info about mass shooting that left 3 dead, 5 injured at Chicago house party](https://cwbchicago.com/2024/12/10000-reward-offered-for-info-about-mass-shooting-that-left-3-dead-5-injured-at-chicago-house-party.html "$10,000 reward offered for info about mass shooting that left 3 dead, 5 injured at Chicago house party")
 
-[December 10, 2024 11:14 AM](https://cwbchicago.com/2024/12)
+[December 10, 2024 9:49 PM](https://cwbchicago.com/2024/12)
 
-A four-time convicted felon is charged with committing two carjackings within 30 minutes on Saturday afternoon, first in Old Town and then outside the migrant shelter located across from the Salt Shed. Two migrants who were working on a car outside the shelter reported that Marcus Montgomery, 39, robbed them, too, but they later decided against filing charges, a Chicago police report said.[](https://cwbchicago.com/2024/12/4x-felon-committed-2-carjackings-and-robbed-2-migrants-within-30-minutes-cpd-report-says.html "4x felon committed 2 carjackings and robbed 2 migrants within 30 minutes, CPD report says")
+Crime Stoppers is offering a reward for information that leads to the arrest or indictment of the people responsible for a mass shooting that left three people dead and five injured at a house party in Gage Park earlier this month.[](https://cwbchicago.com/2024/12/10000-reward-offered-for-info-about-mass-shooting-that-left-3-dead-5-injured-at-chicago-house-party.html "$10,000 reward offered for info about mass shooting that left 3 dead, 5 injured at Chicago house party")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/dec-9-map-326x245.jpg)](https://cwbchicago.com/2024/12/off-duty-fbi-agent-among-7-victims-targeted-in-3-hour-robbery-spree.html "Off-duty FBI agent among 7 victims targeted in 3-hour robbery spree")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/2100-block-west-north-ave-326x245.jpg)](https://cwbchicago.com/2024/12/15-year-shot-in-wicker-park-on-tuesday-afternoon.html "15-year-old shot in Wicker Park on Tuesday afternoon")
 
-Bucktown
+Wicker Park
 
-### [Off-duty FBI agent among 7 victims targeted in 3-hour robbery spree](https://cwbchicago.com/2024/12/off-duty-fbi-agent-among-7-victims-targeted-in-3-hour-robbery-spree.html "Off-duty FBI agent among 7 victims targeted in 3-hour robbery spree")
+### [15-year-old shot in Wicker Park on Tuesday afternoon](https://cwbchicago.com/2024/12/15-year-shot-in-wicker-park-on-tuesday-afternoon.html "15-year-old shot in Wicker Park on Tuesday afternoon")
 
-[December 10, 2024 8:11 AM](https://cwbchicago.com/2024/12)
+[December 10, 2024 7:31 PM](https://cwbchicago.com/2024/12)
 
-An off-duty FBI agent was among seven victims robbed during a string of holdups stretching from Noble Square to Humboldt Park on Monday evening. The area withered under nearly two years of relentless robber sprees until earlier this year. There are recent indications that the crews may be reconstituting.[](https://cwbchicago.com/2024/12/off-duty-fbi-agent-among-7-victims-targeted-in-3-hour-robbery-spree.html "Off-duty FBI agent among 7 victims targeted in 3-hour robbery spree")
+A 15-year-old boy was shot in Wicker Park on Tuesday afternoon, Chicago police said. Investigators were trying to figure out exactly where the shooting occurred.[](https://cwbchicago.com/2024/12/15-year-shot-in-wicker-park-on-tuesday-afternoon.html "15-year-old shot in Wicker Park on Tuesday afternoon")
 
 Search
 
