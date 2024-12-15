@@ -4,7 +4,7 @@ Sections
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
-[63°
+[60°
 
 ![Light Rain](/pf/resources/images/weather/status-icons/11.png?d=949)](https://www.actionnewsjax.com/weather/)
 
