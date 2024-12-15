@@ -6,7 +6,7 @@ Sections
 
 [63°
 
-![Heavy Rain](/pf/resources/images/weather/status-icons/40.png?d=949)](https://www.actionnewsjax.com/weather/)
+![Light Rain](/pf/resources/images/weather/status-icons/11.png?d=949)](https://www.actionnewsjax.com/weather/)
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
