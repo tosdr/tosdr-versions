@@ -56,13 +56,13 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [Get the Moana 2 Ticket 2 Adventure for $29.99! image link ![Get the Moana 2 Ticket 2 Adventure for $29.99!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/d774de30-b418-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-moanaticket2adventurebundle-292x118.png)](https://www.fandangomovietickets.com/moana2ticket2adventurebundle/?cmp=TARS~FANDANGO~Moana2ticket2adventurebundle_Footer) 
+* [Chance to win a vacation! image link ![Chance to win a vacation!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dc250740-a39a-11ef-a588-3b078e6b3d8a--fan-homepageofferunit-292x118.png)](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer) 
     
-    ### Get the Moana 2 Ticket 2 Adventure for $29.99!
+    ### Chance to win a vacation!
     
-    $29.99 is calling your name! Get 1 ticket to Moana 2, an exclusive limited release Disney pin set, and more.
+    Buy a ticket to Mufasa: The Lion King for a chance to win a vacation to the Walt Disney World® Resort!
     
-    [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventurebundle/?cmp=TARS~FANDANGO~Moana2ticket2adventurebundle_Footer)
+    [BUY TICKETS](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer)
     
 * [Save 15% off on the Moana 2 vinyl LP image link ![Save 15% off on the Moana 2 vinyl LP](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/5600fa30-acfe-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moana2-vinyl-gwp-292x118.png)](https://www.fandangomovietickets.com/Moana2VinylGWPOffer?cmp=TARS~FANDANGO~Moana2VinylTicketingOffer_Footer) 
     
@@ -72,21 +72,21 @@ Offers
     
     [BUY TICKETS](https://www.fandangomovietickets.com/Moana2VinylGWPOffer?cmp=TARS~FANDANGO~Moana2VinylTicketingOffer_Footer)
     
-* [Gladiator II Prop Auction image link ![Gladiator II Prop Auction](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/9f6f3b60-9899-11ef-8321-2b978811c524--fan-globalofferunit-homepage-gladiator2auction-292x118-v5.png)](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer) 
+* [Save $5 on the Sonic 3 Movie Collection image link ![Save $5 on the Sonic 3 Movie Collection](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/32e66790-ad0f-11ef-8321-2b978811c524--fan-globalofferunit-homepage-sonic2-gwp-292x118-v2.png)](https://www.fandangomovietickets.com/Sonic3GWPOffer?cmp=TARS~FANDANGO~Sonic3TicketingOffer_Footer) 
     
-    ### Gladiator II Prop Auction
+    ### Save $5 on the Sonic 3 Movie Collection
     
-    Take a piece of history home with official props straight from the movie set!
+    Buy a Ticket, Save $5 on the Sonic 3 Movie Collection to watch at home.
     
-    [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer)
+    [BUY TICKETS](https://www.fandangomovietickets.com/Sonic3GWPOffer?cmp=TARS~FANDANGO~Sonic3TicketingOffer_Footer)
     
-* [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
+* [Jingle All The Way To The Theater image link ![Jingle All The Way To The Theater](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/e65207d0-b278-11ef-a588-3b078e6b3d8a--fan-globalofferunit-holidayexhibitoroffers-holidays-292x118-1.png)](https://www.fandangomovietickets.com/holiday_theater_deals/?cmp=TARS~FANDANGO~holiday_exhibitor_offers_Footer) 
     
-    ### Popular Poster Pack
+    ### Jingle All The Way To The Theater
     
-    Get 2 movie tickets to Wicked, a limited edition poster, and more!
+    Enjoy holiday classics and limited-time specials at a theater near you! Grab your tickets today.
     
-    [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
+    [LEARN MORE](https://www.fandangomovietickets.com/holiday_theater_deals/?cmp=TARS~FANDANGO~holiday_exhibitor_offers_Footer)
     
 
 New & Coming soon
