@@ -8,7 +8,7 @@
 
   [![SD Bullion Free Shipping](https://sdbullion.com/media/wysiwyg/sitewide/free-shipping-over-199-300x55-min.jpg)](https://sdbullion.com/sd-bullion-shipping-policies)
 
-     [![Shop 2024 Tree of Life Silver Coins](https://sdbullion.com/media/wysiwyg/sticky_header/tree-of-life-585x75_1_.jpg)   ![Shop 2024 Tree of Life Silver Coins](https://sdbullion.com/media/wysiwyg/sticky_header/tree-of-life-585x75_1_.jpg)](https://sdbullion.com/shop-truth-coin-series)
+       [![Shop 2024 Tree of Life Silver Coins](https://sdbullion.com/media/wysiwyg/sticky_header/tree-of-life-585x75_1_.jpg)    ![Shop 2024 Tree of Life Silver Coins](https://sdbullion.com/media/wysiwyg/sticky_header/tree-of-life-585x75_1_.jpg)](https://sdbullion.com/shop-truth-coin-series)
 
 Search  Search
 
