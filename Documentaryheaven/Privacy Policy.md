@@ -123,44 +123,44 @@ Advertisement
     Suicide
     
     Released in 2001, Suicide is a film directed by Eames Yates and explores the suicide of his own brother which occurred two years prior to this films release. Eames' brother Teddy was 40 when he shot h...](https://documentaryheaven.com/suicide/ "Suicide")
-* [![September Clues](/wp-content/thumbnails/1588-100x70.jpg?x53432)
+* [![Dispatches: The Killing Zone](/wp-content/thumbnails/481-100x70.png?x53432)
     
-    September Clues
+    Dispatches: The Killing Zone
     
-    This comprehensive analysis of the 9/11 broadcasts shows how the mainstream media actively participated in the 9/11 false-flag operation aimed at generating public support for illegal wars. This media...](https://documentaryheaven.com/september-clues/ "September Clues")
-* [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
+    While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
+* [![The Hour Of Our Time: The Legacy of William Cooper](/wp-content/thumbnails/1157-100x70.jpg?x53432)
     
-    Pedigree Dogs Exposed
+    The Hour Of Our Time: The Legacy of William Cooper
     
-    Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
+    Surrounding us in our day-to-day lives are mysteries, that to spend our days pondering would paralyze us from leading productive lives. So we turn away from these thoughts in order to seek out as trou...](https://documentaryheaven.com/the-hour-of-our-time-the-legacy-of-william-cooper/ "The Hour Of Our Time: The Legacy of William Cooper")
 
 ###### Throwback Documentaries
 
-* [![When Albums Ruled the World](/wp-content/thumbnails/6976-100x70.jpg?x53432)
+* [![Secrets of war Vietnam Special Operations](/wp-content/thumbnails/3908-100x70.jpg?x53432)
     
-    When Albums Ruled the World
+    Secrets of war Vietnam Special Operations
     
-    Between the mid 1960s and the late 1970s, the long-playing record and the albums that graced its grooves changed popular music for ever. For the first time, musicians could escape the confines of the](https://documentaryheaven.com/when-albums-ruled-the-world/ "When Albums Ruled the World")
-* [![China from the Inside: Women of the Country](/wp-content/thumbnails/1737-100x70.jpg?x53432)
+    The Navy Seals and the Green Berets played critical roles during the lengthy Vietnam War. However, these Special Forces were not always allowed to fully coordinate their activities with the regular ai](https://documentaryheaven.com/secrets-of-war-vietnam-special-operations-2/ "Secrets of war Vietnam Special Operations")
+* [![Matter of Heart](/wp-content/thumbnails/2261-100x70.jpg?x53432)
     
-    China from the Inside: Women of the Country
+    Matter of Heart
     
-    China's women have always been under pressure: from men, from family, from work. Now more and more are under new pressure -- from themselves -- to take control of their lives; to get an education; to](https://documentaryheaven.com/china-inside-women-country/ "China from the Inside: Women of the Country")
-* [![Murder on the Streets](/wp-content/thumbnails/16417-100x70.jpg?x53432)
+    The psyche is the greatest of all cosmic wonders and the “sine qua non” of the world as an object. It is in the highest degree odd that Western man, with but very few – and ever fewer – exceptions, ap](https://documentaryheaven.com/matter-of-heart/ "Matter of Heart")
+* [![Do the Math: The Movie](/wp-content/thumbnails/7670-100x70.jpg?x53432)
     
-    Murder on the Streets
+    Do the Math: The Movie
     
-    Serious violence is on the rise across Britain, with 100 violent deaths in London in 2018 alone, including at least 16 teenagers. During the summer of that year, Panorama went to the heart of one com](https://documentaryheaven.com/murder-on-streets/ "Murder on the Streets")
-* [![Panda Makers](/wp-content/thumbnails/6854-100x70.jpg?x53432)
+    Do The Math chronicles climate crusader Bill McKibben as he works with a rising global movement in a David-vs-Goliath fight to change the terrifying math of the climate crisis.The fossil fuel indust](https://documentaryheaven.com/do-math-movie/ "Do the Math: The Movie")
+* [![The Human Mind](/wp-content/thumbnails/655-100x70.png?x53432)
     
-    Panda Makers
+    The Human Mind
     
-    Giant Pandas were on the brink of extinction but now they are coming back, thanks to an extraordinary conservation project. The Chengdu Research Base in central China is at the heart of a project to b](https://documentaryheaven.com/pandas/ "Panda Makers")
-* [![7/7 London Bombings: 10 Years On](/wp-content/thumbnails/14673-100x70.jpg?x53432)
+    In this three-part documentary, Robert Winston explores all aspects of the human mind - from how we learn, to how we're able to recognise faces and what makes one person 'click' with another.Episo](https://documentaryheaven.com/the-human-mind/ "The Human Mind")
+* [![Barbarians: The Vikings](/wp-content/thumbnails/9582-100x70.png?x53432)
     
-    7/7 London Bombings: 10 Years On
+    Barbarians: The Vikings
     
-    On July 7, 2005, a series of coordinated Islamist terrorists carried out several suicide attacks in London, England. They detonated four bombs on London's transport network, directly targeting innocen](https://documentaryheaven.com/7-7-london-bombings-10-years/ "7/7 London Bombings: 10 Years On")
+    12,00 years ago the Vikings explode out of the cold north sea, like beasts unleashed on an unsuspecting world. They come from a land of deep water fjords and bitter clan rivalries, today the area is k](https://documentaryheaven.com/barbarians-vikings/ "Barbarians: The Vikings")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
