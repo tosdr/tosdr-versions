@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Handling medical bills in injury settlements](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-do-you-have-to-pay-your-medical-bills-from-a-personal-injury-settlement.jpg "Handling Medical Bills in Injury Settlements")](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement "Handling Medical Bills in Injury Settlements")
+[![New mexico lung cancer lawyer](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-lawyer-new-mexico-scaled.jpg "New Mexico Lung Cancer Lawyer")](https://www.pintas.com/lung-cancer-lawyer/new-mexico/ "New Mexico Lung Cancer Lawyer")
 
-[#### Handling Medical Bills in Injury Settlements](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement)
+[#### New Mexico Lung Cancer Lawyer](https://www.pintas.com/lung-cancer-lawyer/new-mexico/)
 
-[![Is non-small cell lung cancer the same as mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-is-non-small-cell-lung-cancer-the-same-as-mesothelioma.jpg "Is Non-Small Cell Lung Cancer The Same As Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-non-small-cell-lung-cancer-the-same-as-mesothelioma/ "Is Non-Small Cell Lung Cancer The Same As Mesothelioma?")
+[![Does anyone survive mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-does-anyone-survive-mesothelioma.jpg "Does Anyone Survive Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-anyone-survive-mesothelioma/ "Does Anyone Survive Mesothelioma?")
 
-[#### Is Non-Small Cell Lung Cancer The Same As Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-non-small-cell-lung-cancer-the-same-as-mesothelioma/)
+[#### Does Anyone Survive Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-anyone-survive-mesothelioma/)
 
-[![Occupations with a high risk of asbestos exposure](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-occupations-with-a-high-risk-of-asbestos-exposure.jpg "Occupations With a High Risk of Asbestos Exposure")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/high-risk-occupations "Occupations With a High Risk of Asbestos Exposure")
+[![How are asbestos cases paid out?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-how-are-asbestos-cases-paid-out.jpg "How Are Asbestos Cases Paid Out?")](https://www.pintas.com/practice-areas/lung-cancer/how-are-asbestos-cases-paid-out/ "How Are Asbestos Cases Paid Out?")
 
-[#### Occupations With a High Risk of Asbestos Exposure](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/high-risk-occupations)
+[#### How Are Asbestos Cases Paid Out?](https://www.pintas.com/practice-areas/lung-cancer/how-are-asbestos-cases-paid-out/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
