@@ -200,6 +200,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [9 - 16](#second)
 * [17 - 24](#third)
 
+![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
+
+##### **ikzie** reacts on:
+
+##### De tijdlijnsplitsing…
+
+[Hoi Harriet, die mammografie test heb ik nooit ondergaan omd…](https://www.wanttoknow.nl/overige/de-tijdlijnsplitsing/comment-page-1/#comment-626380)
+
 ![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
 
 ##### **inhetmeer** reacts on:
@@ -447,14 +455,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Jankende NOS-journalisten, ga in de spiegel kijken…!!
 
 [Het begint op een soap te lijken namelijk een strijd van de…](https://www.wanttoknow.nl/overige/jankende-nos-journalisten-ga-in-de-spiegel-kijken/comment-page-1/#comment-626348)
-
-![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
-
-##### **ikzie** reacts on:
-
-##### Gesponsord medicijn-research: bétere resultaten..???
-
-[In this explosive episode, we delve into the story of Briann…](https://www.wanttoknow.nl/gezondheid/big-pharma/gesponsord-medicijn-research-betere-resultaten/comment-page-1/#comment-626347)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
