@@ -375,7 +375,7 @@ Copyright 2024 Dami Charf - www.damicharf.de - Alle Rechte vorbehalten
 
 [![](https://www.damicharf.com/wp-content/uploads/2024/12/Header-Weihnachtsaktion-2024_klein-768x192.jpg)](https://shop.damicharf.com/collections/online-kurse)
 
-#### **24% Weihnachtsrabatt vom 15. bis 22. Dezember**  
-**auf alle verfügbaren Selbsthilfe-Kurse.**
+### **24% Weihnachtsrabatt vom 15. bis 22. Dezember**  
+**auf alle verfügbaren Selbsthilfe-Kurse**
 
-[hier geht es zum Shop](https://shop.damicharf.com/collections/online-kurse)
+[ZU DEN KURSANGEBOTEN](https://traumaheilung.de/selbsthilfe/)
