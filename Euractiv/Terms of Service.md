@@ -613,6 +613,8 @@ Most recent
 
 [15-12-2024
 
+How Kallas’ plans to shake up foreign policy talks](https://www.euractiv.com/section/global-europe/news/how-kallas-plans-to-shake-up-foreign-policy-talks/)[15-12-2024
+
 South Korea’s acting president moves to reassure allies after impeachment](https://www.euractiv.com/section/global-europe/news/south-koreas-acting-president-moves-to-reassure-allies-after-impeachment/)[15-12-2024
 
 UK officially joins Indo-Pacific trade bloc](https://www.euractiv.com/section/economy-jobs/news/uk-officially-joins-indo-pacific-trade-bloc/)[15-12-2024
@@ -629,9 +631,7 @@ Serbia seeks to reduce Russian ownership in oil giant to avoid sanctions](https:
 
 Jordan to host Syria talks, EU to establish contact with HTS ‘soon’](https://www.euractiv.com/section/global-europe/news/jordan-to-host-syria-talks-eu-to-establish-contact-with-hts-soon/)[13-12-2024
 
-Russia and Turkey need each other as Putin’s influence wanes, experts say](https://www.euractiv.com/section/global-europe/news/russia-and-turkey-need-each-other-as-putins-influence-wanes-experts-say/)[13-12-2024
-
-Amid Stellantis jitters and a secular crisis, the French automotive industry is fearing for its survival](https://www.euractiv.com/section/economy-jobs/news/amid-stellantis-jitters-and-a-secular-crisis-the-french-automotive-industry-is-fearing-for-its-survival/)
+Russia and Turkey need each other as Putin’s influence wanes, experts say](https://www.euractiv.com/section/global-europe/news/russia-and-turkey-need-each-other-as-putins-influence-wanes-experts-say/)
 
 ###### Advertisement
 
