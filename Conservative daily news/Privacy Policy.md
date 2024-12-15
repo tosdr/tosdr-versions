@@ -1,7 +1,8 @@
-Saturday, December 14 2024
+Sunday, December 15 2024
 
 Breaking News
 
+* [What a Difference a Day (Election Day, Nov. 5, 2024) Makes](https://www.conservativedailynews.com/2024/12/what-a-difference-a-day-election-day-nov-5-2024-makes/)
 * [Stripper Who Falsely Accused Duke Lacrosse Team Of Vicious Gang Rape Finally Admits She Lied](https://www.conservativedailynews.com/2024/12/stripper-who-falsely-accused-duke-lacrosse-team-of-vicious-gang-rape-finally-admits-she-lied/)
 * [Yes Please! Trump Wants to End Twice Yearly Time Changes (DST)](https://www.conservativedailynews.com/2024/12/yes-please-trump-wants-to-end-twice-yearly-time-changes-dst/)
 * [Snapping Back Our National Security Culture To Its Proper Place](https://www.conservativedailynews.com/2024/12/snapping-back-our-national-security-culture-to-its-proper-place/)
@@ -9,7 +10,6 @@ Breaking News
 * [Dear Republicans, Go Big On Trump’s Tax Cuts](https://www.conservativedailynews.com/2024/12/dear-republicans-go-big-on-trumps-tax-cuts/)
 * [Court Deals Blow To Major Stock Exchange’s Efforts At Pushing Diversity Rules On Companies](https://www.conservativedailynews.com/2024/12/court-deals-blow-to-major-stock-exchanges-efforts-at-pushing-diversity-rules-on-companies/)
 * [Whoopi Goldberg Says RFK Jr Is Fat Shaming People By Encouraging Healthy Diets And Exercise](https://www.conservativedailynews.com/2024/12/whoopi-goldberg-says-rfk-jr-is-fat-shaming-people-by-encouraging-healthy-diets-and-exercise/)
-* [Mexico Already Feeling The Pinch Of Trump’s Tariff Threats](https://www.conservativedailynews.com/2024/12/mexico-already-feeling-the-pinch-of-trumps-tariff-threats/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,12 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![Donald Trump JD Vance 2024](https://www.conservativedailynews.com/wp-content/uploads/2024/07/03-vp-vance-dt-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/12/what-a-difference-a-day-election-day-nov-5-2024-makes/)
+    
+    [What a Difference a Day (Election Day, Nov. 5, 2024) Makes](https://www.conservativedailynews.com/2024/12/what-a-difference-a-day-election-day-nov-5-2024-makes/)
+    
+    December 14, 2024
+    
 * [![Bidenomics inflation middle class](https://www.conservativedailynews.com/wp-content/uploads/2024/06/04-irs-fist-ci-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/12/businesses-report-inflation-is-taking-wrench-to-their-cash-strapped-customers/)
     
     [Businesses Report Inflation Is Taking Wrench To Their Cash-Strapped Customers](https://www.conservativedailynews.com/2024/12/businesses-report-inflation-is-taking-wrench-to-their-cash-strapped-customers/)
@@ -172,15 +178,10 @@ Recent Posts
     
     December 13, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental-1-220x150.jpg)](https://www.conservativedailynews.com/2024/12/whoopi-goldberg-says-rfk-jr-is-fat-shaming-people-by-encouraging-healthy-diets-and-exercise/)
-    
-    [Whoopi Goldberg Says RFK Jr Is Fat Shaming People By Encouraging Healthy Diets And Exercise](https://www.conservativedailynews.com/2024/12/whoopi-goldberg-says-rfk-jr-is-fat-shaming-people-by-encouraging-healthy-diets-and-exercise/)
-    
-    December 13, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Silencer Saturday #359: A Primer On Subsonic Ammunition](https://www.thegunpage.com/silencer-saturday-359-a-primer-on-subsonic-ammunition/10612512)
 * [Getting Into VR Training? Spring For The Quest 3 Instead Of Cutting Corners With The 3s](https://www.thegunpage.com/getting-into-vr-training-spring-for-the-quest-3-instead-of-cutting-corners-with-the-3s/10612507)
 * [NEW Steyr DMR: Sniper Rifle Accuracy from a Battle Rifle](https://www.thegunpage.com/new-steyr-dmr-sniper-rifle-accuracy-from-a-battle-rifle/10612502)
 * [Lessons Learned: Therapy Can Help for Victims of Violent Attacks](https://www.thegunpage.com/lessons-learned-therapy-can-help-for-victims-of-violent-attacks/10612499)
@@ -190,7 +191,6 @@ Recent Posts
 * [TFB Podcast Roundup 159: The December 13th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-159-the-december-13th-roundup/10612496)
 * [Best Gifts For Concealed Carry](https://www.thegunpage.com/best-gifts-for-concealed-carry/10612493)
 * [Michigan’s Misguided Attempt to Bankrupt Gunmakers](https://www.thegunpage.com/michigans-misguided-attempt-to-bankrupt-gunmakers/10612489)
-* [NEXTORCH ND30B Civilian Electronic Distraction Device](https://www.thegunpage.com/nextorch-nd30b-civilian-electronic-distraction-device/10612491)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
