@@ -31,6 +31,1003 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Ley suspende incrementos de arriendo durante la emergencia energética
+=====================================================================
+
+El Gobierno suspendió temporalmente los incrementos automáticos en contratos de arriendo durante la emergencia eléctrica.
+-------------------------------------------------------------------------------------------------------------------------
+
+![Los arriendos no subirán mientras dure la emergencia eléctrica.](https://www.elcomercio.com/wp-content/uploads/2024/12/arriendo.jpg)
+
+El **Gobierno Nacional** suspendió temporalmente los **incrementos automáticos** en los contratos de **arriendo** mientras dure la emergencia en el sector eléctrico. La medida se establece en la Ley de Alivio Financiero y beneficia a miles de hogares en Ecuador[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Facilidades para pagar internet, telefonía y electricidad con la Ley de Alivio Financiero](https://www.elcomercio.com/actualidad/negocios/facilidades-pago-internet-telefonia-electricidad-emergencia.html "Facilidades para pagar internet, telefonía y electricidad con la Ley de Alivio Financiero")
+* [¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?](https://www.elcomercio.com/actualidad/negocios/como-acceder-seguro-desempleo-con-ley-alivio-financiero.html "¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?")
+* [Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios](https://www.elcomercio.com/actualidad/negocios/ley-de-alivio-financiero-en-ecuador-puntos-clave-y-fecha-de-acceso-a-los-mas-de-20-beneficios.html "Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios")
+
+Según el Censo 2022, cerca del 22% de los hogares del Ecuador vive en viviendas arrendadas. Es decir, cerca de 1,2 millones de familias viven en casas alquiladas.
+
+En Ecuador, el arriendo de inmuebles representa una práctica común y se lo formaliza con un contrato. Estos están regulados legalmente y contemplan aspectos clave como la **periodicidad en los ajustes** del canon de arriendo, también conocido como el monto que el arrendatario paga al arrendador. El incremento suele realizarse anualmente de forma automática. Por ejemplo, en 2024, el incremento máximo permitido para estos ajustes fue del 9,28%.
+
+Sin aumento el valor de los arriendos en 2025
+---------------------------------------------
+
+En 2025 no puede haber un **incremento en el arriendo** mientras dure la **emergencia eléctrica**. Esta ha obligado a las autoridades a programar **cortes de luz** desde mediados de septiembre de este 2024 y no se conoce con exactitud cuándo terminará.
+
+Con la entrada en vigor de esta disposición, los arrendatarios podrán renovar sus contratos sin preocuparse por incrementos en el canon de arriendo mientras dure la emergencia. Esto no solo brinda un alivio financiero directo, sino que también fomenta la **estabilidad habitacional** en momentos de incertidumbre económica.
+
+Es importante destacar que esta medida forma parte de un **conjunto de acciones para proteger** a los hogares afectados. Junto con las facilidades de pago para servicios básicos como electricidad e internet, la suspensión de incrementos en el arriendo, el Gobierno busca mitigar el impacto de la crisis.
+
+* * *
+
+> ### Esperanza
+> 
+> Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+> 
+> Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+> 
+> [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Aumento de penas a niños en Ecuador marca debate en Asamblea y Unicef
+=====================================================================
+
+Derechos humanos y el contexto violento que viven los menores en Ecuador están entre los elementos en contra del aumento de penas para menores.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial menor de edad privado de la libertad.](https://www.elcomercio.com/wp-content/uploads/2024/12/foto-menores.jpg)
+
+¿Juzgar a **menores de edad** o **niños** como adultos? La propuesta de aumento de **penas** en Ecuador que está en la lupa de la **Asamblea Nacional** y, a su vez, hay argumentos en contra, por parte de la **Unicef**.
+
+De aprobarse el proyecto, la variación se aplicará a **menores de edad o niños** en casos de delitos contra la vida: **sicariato, asesinato y homicidio**.
+
+### Más noticias
+
+* [Niños sicarios, el reflejo de la violencia que se expande en Ecuador](https://www.elcomercio.com/opinion/editorial/ninos-sicarios-violencia-ecuador.html)
+* [Niños y adolescentes reclutados por GDO viven una ‘doble criminalización’](https://www.elcomercio.com/actualidad/seguridad/ninos-adolescentes-reclutados-gdo-ecuador.html)
+* [‘Cara Sucia’, el sicario adolescente que sufrió dos ataques armados en Manabí](https://www.elcomercio.com/actualidad/cara-sucia-el-sicario-adolescente-que-sufrio-dos-ataques-armados-en-manabi.html?source=Internal&ref=Single+Content+Link)
+* [Camilo Ponce Enríquez está entre la dominación criminal e intentos para tomar el control](https://www.elcomercio.com/actualidad/seguridad/camilo-ponce-enriquez-esta-entre-la-dominacion-criminal-e-intentos-para-tomar-el-control.html)
+
+Aumento de penas a menores y la Asamblea
+----------------------------------------
+
+El 26 de noviembre de 2024, el informe para el segundo debate del proyecto de Código Orgánico de Protección Integral a Niñas, Niños y Adolescentes se incluyó en el orden del día de la sesión 983 del Pleno del Legislativo.
+
+No obstante, el documento no se trató y, hasta el 13 de diciembre, no se conoció la nueva fecha. Esto luego de que fue aprobado en la **Comisión de Protección Integral a Niñas, Niños y Adolescentes**.
+
+La premisa es **reducir la edad de imputabilidad** (que no tiene responsabilidad penal) de los menores, de **14 a 12 años.**
+
+Pero, ya en 2017, el **Comité de los Derechos del Niño** observó al Estado ecuatoriano por el incremento del máximo de la medida de privación de libertad o **penas** para adolescentes, de 4 a 8 años. También indicó que evite el aumento de la duración de estas medidas.
+
+> ✅ Junto a nuestro socio implementador [@NaciondePazVAE](https://twitter.com/naciondepazVAE?ref_src=twsrc%5Etfw), realizamos actividades en 23 comunidades de [#Esmeraldas](https://twitter.com/hashtag/Esmeraldas?src=hash&ref_src=twsrc%5Etfw) para promover una cultura de paz y fortalecer la prevención de violencia a través del juego, el arte y la música.  
+> 🎨 Las actividades combinaron metodologías del Tesoro… [pic.twitter.com/MgQt4dbpwc](https://t.co/MgQt4dbpwc)
+> 
+> — UNICEF Ecuador (@unicefecuador) [December 12, 2024](https://twitter.com/unicefecuador/status/1867215306147459397?ref_src=twsrc%5Etfw)
+
+Los derechos y el panorama que viven los niños
+----------------------------------------------
+
+**Unicef** Ecuador tiene una postura clara sobre el tema y remarca que contradice la Constitución. Esta establece que la privación de libertad para adolescentes debe ser el último recurso y por el menor tiempo posible. Además, atenta contra los estándares internacionales en materia de derechos humanos.
+
+En Ecuador aumentaron en 2024 las medidas privativas de libertad de 6 a 8 años para adolescentes, en el **Código Orgánico Integral Penal (COIP)**.
+
+**Unicef** sostiene que lejos de resolver el problema, la situación de violencia se ha agravado. Esto evidencia que la situación es de fondo y requiere un enfoque integral.
+
+Desde la organización apuntan a que **menos del 1%** de la población privada de la libertad es menor de 18 años. Esto determina la mínima incidencia de los delitos cometidos por niños, niñas y adolescentes.
+
+Eso sí, hay cifras que develan la violencia que enfrentan los menores en Ecuador. De acuerdo con datos del **Instituto Nacional de Estadísticas y Censo (INEC)**, la primera causa de muerte, entre los 5 y 17 años, es el homicidio, seguida por siniestros de tránsito y suicidio (todas muertes violentas).
+
+> ✨ Creer en los sueños de los niños, niñas y adolescentes, apoyarlos, criarlos con amor y respeto, y hacer todo lo posible para proteger sus derechos, debe ser el compromiso de todos y todas.✨  
+>   
+> 🙌 ¡Este es el momento de poner a la niñez y adolescencia en primer lugar! 💙  
+>   
+> 🔗… [pic.twitter.com/niArXY4VxJ](https://t.co/niArXY4VxJ)
+> 
+> — UNICEF Ecuador (@unicefecuador) [December 11, 2024](https://twitter.com/unicefecuador/status/1866863664944308583?ref_src=twsrc%5Etfw)
+
+El reclutamiento para cometer delitos
+-------------------------------------
+
+El estudio **Doble criminalización en cantones de alta peligrosidad en Ecuador: un análisis in situ**, realizado entre 2023 y 2024, incluye datos de la Dirección Nacional de Delitos Contra la Vida, Muertes Violentas, Desapariciones, Extorsión y Secuestros (Dinased).
+
+Las cifras refieren que cerca de **248 personas** de hasta 19 años de edad fueron asesinados en 2023. En el 2022, la cifra ascendió a 289 y en el 2020, 98.
+
+**Katherine Herrera Aguilar**, autora del análisis y consultora política en seguridad pública, remarca la responsabilidad del Estado. La falta de recursos, servicios y educación vuelven a los menores un blanco fácil de las organizaciones delictivas.
+
+Muchos son reclutados para convertirse en sicarios, se indica en la investigación. Menores de entre los **13 y 16 años** son captados a cambio de dinero. La investigación definió que reciben unos 4 000 dólares por trimestre, en los que se incluye vivienda y alimentación.
+
+Por eso, desde **Unicef** enfatizan que se debe priorizar las políticas de prevención e intervención temprana. El 20 de noviembre de 2024, justamente, la organización presentó la **Estrategia Nacional de Prevención de la Violencia contra niños, niñas y adolescentes**.
+
+En la elaboración de la propuesta participaron los poderes del **Estado y sociedad civil**.
+
+Los niños y adolescente en delitos
+----------------------------------
+
+La **Unicef** corrobora que los menores se han convertido en víctimas de reclutamiento por parte del  
+**crimen organizado**.
+
+Ese proceso es siempre forzado y se da en contextos de amenazas o situaciones de violencia. Este, a la par, responde a condiciones de abandono emocional, familiar y social que no se ha logrado atender de manera efectiva desde el **Estado y la sociedad**.
+
+Niños y adolescentes, habitualmente, son el último eslabón y las primeras víctimas en las organizaciones delictivas, por ejemplo, en acusaciones de **tráfico de drogas**, indica la organización de la ONU.
+
+Ellos suelen ser utilizados como vendedores minoristas de un negocio mucho más grande que implica la **producción, transporte y distribución**.
+
+¿Juzgar como adultos es criminalizar?
+-------------------------------------
+
+**Katherine Herrera** apela a que juzgar a los niños como adultos es criminalizarlos, sin entender el contexto. “No estamos dando una respuesta ni protección. Los menores son víctimas de violencia estructural”.
+
+Ella deja claro que no se están pensando en las alternativas para establecer una hoja de ruta y dar opciones para apartar a la niñez de los grupos de **delincuencia organizada**.
+
+Si la gente desconoce que hay un delito de trata de personas y reclutamiento, **“lo que vamos a tener es un populismo de persecución del delito. La persecución debe ir para quien recluta, no para el menor. Los reclutadores ven a los niños como objetos desechables”**.
+
+Con eso, no solo se castiga el **delito de trata**, sino que se previene que más menores caigan. Esto, dice la experta en seguridad, no quiere decir que no haya un proceso para los menores, pero enfocado en una correcta rehabilitación social y sin olvidar que también son víctimas[.](https://es.wikipedia.org/wiki/Ecuador)
+
+Contextos de la infancia según el INEC
+--------------------------------------
+
+* **1 de cada 2 niños y niñas** menores de 5 años recibe disciplina de forma violenta, ya sea psicológica o física de sus cuidadores.
+* **265 000 niños, niñas** y adolescentes están fuera del sistema educativo.  
+* **Los homicidios** son la principal causa de muerte de los adolescentes hombres entre 12 y 17 años. 
+* **Entre las adolescentes mujeres** de 12 a 17 años, el suicidio es la principal razón por la que mueren. 
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres ecuatorianas que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Contraloría investigará la contratación de generadores eléctricos
+=================================================================
+
+La Contraloría informó sobre el inicio de un examen especial para analizar las fases relacionadas con la adquisición de los generadores.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![Ecuador recibió un total de 23 generadores estacionarios en el puerto de Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/12/Generadores.jpg)
+
+La **Contraloría General** del Estado emitió un comunicado el 15 de diciembre sobre las acciones de control realizadas a los contratos emergentes de **CELEC EP** en el marco de la declaratoria de emergencia del sector eléctrico[.](https://es.wikipedia.org/wiki/Generador_el%C3%A9ctrico "https://es.wikipedia.org/wiki/Generador_el%C3%A9ctrico")
+
+Más noticias
+------------
+
+* [Gobierno toma acciones contra Progen por retrasos en generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/gobierno-toma-acciones-contra-progen-retrasos-entrega-generadores.html "Gobierno toma acciones contra Progen por retrasos en generadores eléctricos")
+* [Dos generadores eléctricos de 600 kW llegaron a Quito, ¿en qué se los utilizará?](https://www.elcomercio.com/actualidad/quito/generadores-electricos-quito-agua.html "Dos generadores eléctricos de 600 kW llegaron a Quito, ¿en qué se los utilizará?")
+* [Compensación del consumo energético, ¿ya se refleja este beneficio en la planilla de luz?](https://www.elcomercio.com/actualidad/ecuador/compensacion-consumo-energetico-refleja-beneficio-planilla-luz.html "Compensación del consumo energético, ¿ya se refleja este beneficio en la planilla de luz?")
+
+Según el comunicado, el organismo inició un **examen** **especial** para analizar las fases precontractual, contractual, ejecución y pago de los contratos relacionados con la “**Contratación** **Emergente** de Generación Terrestre en **Salitral**” y “**Contratación** **Emergente** de Generación Terrestre en **Quevedo**“.
+
+Finalidad de los contratos examinados por la Contraloría
+--------------------------------------------------------
+
+Estos contratos, firmados bajo el Acuerdo Ministerial MEM-MEM-2024-0005-AM, buscan mitigar la **crisis** **energética** del **Ecuador**.
+
+Sin embargo, el **Ministerio** de **Energía** identificó múltiples incumplimientos por parte de **Progen**, la empresa contratada para suministrar **generadores** **eléctricos**, lo que dificulta la ejecución de estos proyectos clave.
+
+> 📰 [#Boletín](https://twitter.com/hashtag/Bolet%C3%ADn?src=hash&ref_src=twsrc%5Etfw) | La Contraloría inició un examen especial a procesos de contratación en el sector eléctrico, efectuados en el marco de la declaratoria de emergencia.  
+>   
+> 🔗 Más información ▶️ [https://t.co/VVQpB18CL8](https://t.co/VVQpB18CL8) [pic.twitter.com/JqCUzRFExd](https://t.co/JqCUzRFExd)
+> 
+> — Contraloría Ecuador (@ContraloriaECU) [December 15, 2024](https://twitter.com/ContraloriaECU/status/1868149251647459389?ref_src=twsrc%5Etfw)
+
+Irregularidades en Salitral y Quevedo
+-------------------------------------
+
+En **Salitral**, ubicado en **Guayas** y con una capacidad de 100 megavatios (MW), **Progen** entregó 23 turbinas, pero faltan seis.
+
+Además, no se han recibido **componentes** **críticos** como tableros de control, transformadores de elevación y sistemas electrógenos. Estos elementos transforman la energía generada a voltajes adecuados para su **distribución**.
+
+El **Ministerio** de **Energía** indicó que los transformadores requeridos supuestamente se fabrican en **China** y **Estados** **Unidos**, aunque su origen y estado no han sido confirmados, según declaraciones de la ministra encargada de Energía, Inés Manzano, en Radio Centro.
+
+En **Quevedo**, **Los** **Ríos**, con una capacidad de 50 MW, la situación es más crítica. **Progen** no entregó los equipos ni realizó los pagos iniciales, lo que generó la emisión de notificaciones formales de **incumplimiento**, según el Ministerio.
+
+Negativa a inspecciones y falta de transparencia
+------------------------------------------------
+
+La ministra **Manzano** denunció que **Progen** negó en varias ocasiones el acceso para realizar **inspecciones** **técnicas**, pese a recibir notificaciones previas. Este hecho retrasa aún más los proyectos y genera dudas sobre la gestión del contrato.
+
+Acciones legales y administrativas
+----------------------------------
+
+Ante estas irregularidades, el **Ministerio** de **Energía** inició **procesos** **legales** y administrativos para exigir el cumplimiento de los contratos. De persistir los incumplimientos, **Progen** podría ser declarada **contratista** **incumplida**, lo que implicaría **multas** y **sanciones** **legales**.
+
+A pesar de ello, el **Gobierno** mantiene abierta la posibilidad de **diálogo** con la empresa, siempre que presente **resultados** **concretos** y garantías de cumplimiento.
+
+La ministra **Manzano** afirmó que el **Estado** debe garantizar el uso adecuado de los **recursos** **públicos** y priorizar los intereses del país.
+
+Liga de Quito queda a tres títulos de Barcelona Sporting Club
+=============================================================
+
+Liga de Quito y El Nacional comparten el tercer lugar del historial general con 13 títulos.
+-------------------------------------------------------------------------------------------
+
+![Jugadores de Liga de Quito celebran el título 13 del campeonato nacional.](https://www.elcomercio.com/wp-content/uploads/2024/12/plamares_ecuador_1.jpg)
+
+Liga de Quito, con el título que ganó el sábado 14 de diciembre de 2024 en la final de la Liga Pro ante el Independiente del Valle, **sumó 13 títulos en la historia de los campeonatos de fútbol en Ecuador** y quedó a tres del Barcelona, que tiene 16 coronas en sus vitrinas.  
+  
+Además de obtener el título de la actual temporada, el **‘Rey de Copas’ de Ecuador, como le dicen a Liga de Quito**, retuvo también el campeonato que ganó en 2023 al mismo rival: el Independiente del Valle.
+
+### Más noticias:
+
+* [Liga de Quito recibió mimos de sus rivales de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-felicitaciones-equipo-liga-pro.html "Liga de Quito recibió mimos de sus rivales de la Liga Pro")
+* [Liga de Quito se proclamó como bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como bicampeón de la Liga Pro")
+* [Liga de Quito y su senda gloriosa al título de la Liga Pro 2024](https://www.elcomercio.com/deportes/futbol/liga-de-quito-y-su-senda-gloriosa-al-titulo-de-la-liga-pro-2024.html "Liga de Quito y su senda gloriosa al título de la Liga Pro 2024")
+
+Liga de Quito cerca del liderato
+--------------------------------
+
+Los equipos con sede en Quito, la capital del país, **han ampliado con el de este sábado a 33 los títulos obtenidos**, frente a los 31 de clubes de Guayaquil, y los tres que se han repartido clubes de otras plazas: El Olmedo, de Riobamba; el Deportivo Cuenca, de Cuenca; y el Delfín, de Manta.  
+  
+El Barcelona sigue de líder de títulos nacionales con 16 trofeos, seguido de Emelec con 14, y El Nacional y Liga de Quito con 13, cada uno.  
+  
+Les siguen a estos el **Deportivo Quito (con 5 coronas), Aucas, Independiente del Valle**, Everest, Olmedo, Deportivo Cuenca y Delfín, con un título cada uno.
+
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/palmares_ecuador_2-1024x683.jpg)
+
+API.
+
+Arce fue el goleador
+--------------------
+
+El goleador paraguayo Álex Arce se vinculó a **Liga de Quito a comienzos de año en reemplazo del goleador** histórico del fútbol peruano, Paolo Guerrero, que había logrado con el club los títulos de la Liga Pro y de la Copa Sudamericana de 2023.
+
+Los 28 goles anotados por Arce, **en 32 partidos disputados, le valieron para romper el récord** impuesto en Liga por el uruguayo Francisco Bertocchi, con 26 tantos, en 1969.
+
+En el 2025 el goleador no seguirá en Liga. La directiva y el cuerpo técnico adelantaron que están trabajando para dar a conocer al nuevo delantero para la temporada que se avecina.
+
+Los podios del fútbol ecuatoriano
+---------------------------------
+
+San viernes
+-----------
+
+Hijo de Amparo Guillén muere dos días después de la actriz
+==========================================================
+
+El hijo de la actriz falleció en Cali, Colombia
+-----------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/%40misadorablesentenados_laserie-2-1.jpg)
+
+La comunidad artística ecuatoriana continúa está de luto tras la inesperada partida de la actriz Amparo Guillén, recordada por su papel de Lupita en _Mis adorables entenados_. La actriz falleció el 12 de diciembre de 2024 a causa de un infarto.
+
+Apenas dos días después, su hijo murió en Cali, Colombia, debido a un traumatismo craneal, una noticia que ha dejado consternados a familiares, amigos y admiradores.
+
+Guillén había viajado a Colombia para estar junto a su hijo, quien atravesaba una delicada situación de salud. Según fuentes cercanas, el joven falleció el sábado 14 de diciembre al mediodía, aunque los detalles del accidente que le provocó el traumatismo no han sido esclarecidos.
+
+El cuerpo de la actriz llegó a Guayaquil el mismo sábado 14 de diciembre, donde se realizará un velatorio íntimo. Además, se ha organizado un homenaje público en el Palacio de Cristal para el lunes 16 de diciembre, al que podrán asistir quienes deseen despedirla.
+
+Su hija, radicada en Estados Unidos, está a cargo de los trámites funerarios tanto de su madre como de su hermano.
+
+Amparo Guillén, nacida en Guayaquil, dejó una huella imborrable en el mundo del teatro, la televisión y la música. Inició su carrera en el grupo teatral Candilejas y alcanzó la fama en la televisión con papeles icónicos en producciones como _Por amor propio_ y _3 familias_. Pese a enfrentar problemas de salud y económicos en los últimos años, Guillén continuó trabajando, destacándose en su más reciente aparición en la película _Víctor presidente_.
+
+La actriz también será recordada por su valentía al superar momentos difíciles, incluidos problemas de adicción, y por su legado como una mujer resiliente. Su partida deja un vacío en el arte ecuatoriano, pero su legado seguirá vivo en el corazón de sus admiradores.
+
+‘Vitamina’ Sánchez y Alex Arce, figuras del título de Liga de Quito
+===================================================================
+
+Pablo 'Vitamina' Sánchez alcanzó el primer título de su carrera como entrenador.
+--------------------------------------------------------------------------------
+
+![Álex Arce abraza a Pablo Sánchez en la final de ida de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/arce_vitamina_1.jpg)
+
+El técnico argentino **Pablo ‘Vitamina’ Sánchez y el goleador paraguayo Alex Arce**, con 28 anotaciones, han sido claves en Liga de Quito para la obtención del título de este sábado en Ecuador.
+
+Y pese a haber perdido 1-0 hoy en el **partido de vuelta de la final ante el Independiente del Valle**, Liga de Quito se alzó con la corona porque se impuso por 3-1 en el encuentro de ida.
+
+### Más noticias:
+
+* [Liga de Quito se proclamó como bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como bicampeón de la Liga Pro")
+* [Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-hinchas-estadio-campeon-ligapro.html "Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro")
+* [Alexander Domínguez pide estatua junto a Rodrigo Paz](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-estatua-liga-quito.html "Alexander Domínguez pide estatua junto a Rodrigo Paz")
+
+‘Vitamina’ Sánchez ordenó la casa
+---------------------------------
+
+El estratega del equipo albo, como también le dicen a Liga de Quito, fue clave en el **armado de la plantilla que ganó la segunda fase** del torneo, lo que le dio derecho a disputar la final ante el Independiente, que fue primero en la primera fase.
+
+Sánchez llegó en junio de este año para conducir al ‘Rey de Copas’ de Ecuador a recuperar el protagonismo que no había alcanzado en la primera fase con el español Josep Alcácer.
+
+‘Vitamina’ logró mecanizar su idea de juego, **inspiró a la recuperación del nivel de varias figuras**, consolidó a otros de poca incidencia y encontró el puesto ideal de varios jugadores.
+
+Así, por ejemplo, el técnico convirtió en **extremo derecho al defensa izquierdo Bryan Ramírez**, cambio que resultó decisivo en la campaña de Liga, pues la mayoría de sus once asistencias finalizaron con goles convertidos, especialmente, por Arce.
+
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/arce_vitamina_3-1024x683.jpg)
+
+API.
+
+Álex Arce puso los goles
+------------------------
+
+El goleador paraguayo se había vinculado a Liga de Quito a comienzos de año en reemplazo del **goleador histórico del fútbol peruano, Paolo Guerrero**, que había logrado con el club los títulos de la Liga Pro y de la Copa Sudamericana de 2023.
+
+Los 28 goles anotados por Arce, en 32 partidos disputados, le valieron para romper el récord impuesto en Liga por el uruguayo Francisco Bertocchi, con 26 tantos, en 1969.
+
+La actual campaña de Liga de Quito fue consolidada desde el arco por **Alexander Domínguez y la fortaleza defensiva** del haitiano Ricardo Adé.
+
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/arce_vitamina_2-1024x683.jpg)
+
+API.
+
+La columna vertebral del bicampeón
+----------------------------------
+
+Asimismo, por la persistencia en la mitad de la cancha del argentino **Lucas Piovi, que encontró en el chileno Fernando Cornejo** al compañero ideal; mientras que Jhojan Julio logró recuperar su gran nivel con la ayuda de ‘Vitamina’ Sánchez.
+
+Pero no todo ha sido color de rosas para Liga de Quito, que a comienzos de año enfrentó una crisis administrativa por la salida de Esteban Paz de la directiva del club, **tras 26 años de que su familia condujera a la institución**.
+
+El ya fallecido Rodrigo Paz y su hijo Esteban administraron a Liga desde 1996, periodo en el que cosecharon 8 títulos del **campeonato ecuatoriano, una Copa Libertadores (2008**), dos Copas Sudamericanas (2009 y 2023) y dos Recopas Sudamericanas (2009 y 2010).
+
+Además de la salida de Esteban Paz, el técnico argentino Luis Zubeldía también abandonó el club a principios de 2024, tras haber ganado el título local en 2023 la Sudamericana de ese mismo año.
+
+Isaac Álvarez reemplazó a Esteban Paz y cerró el año 2024 con el título nacional y la clasificación del equipo a la fase de Grupos de la Copa Libertadores de 2025.
+
+Álvarez contrató al español Alcácer**, que perdió la Recopa Sudamericana de 2024 ante el Fluminense**, de Brasil; fue eliminado de la fase de Grupos de la Libertadores 2024 y dejó al equipo en el cuarto puesto de la primera fase de la Liga Pro.
+
+Alcácer se fue en mayo y el técnico argentino ‘Vitamina’ Sánchez lo reemplazó en junio.
+
+Con el actual título, **Liga de Quito sumó su décima tercera corona en Ecuador**, igualó la marca de El Nacional, pero quedó a uno de Emelec y a tres del líder de títulos nacionales, el Barcelona.
+
+El título de este sábado se ha sumado a los que Liga de Quito conquistó en 1969, 1974, 1975, 1990, 1998, 1999, 2003, Apertura 2005, 2007, 2010, 2018 y 2023.
+
+San viernes
+-----------
+
+La receta que encontró la ciencia para reducir la ira
+=====================================================
+
+Investigadores hallaron una relación entre la escritura de las emociones y la disminución del enojo.
+----------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/enojo-El-Comercio.jpg)
+
+Un estudio de expertos japoneses descubrió que cuando uno se siente cegado por la ira, tras recibir un insulto o ser provocado, en lugar de descargarse con las personas que la causaron o con quienes tiene cerca, para calmarse, es más efectivo escribir sus sentimientos y luego romper el papel.
+
+  
+Según la investigación, solo basta escribir en un papel la reacción ante un incidente negativo y luego triturarlo o tirarlo a la basura para reducir ese sentimiento.
+
+  
+Según la investigación, solo basta escribir en un papel la reacción ante un incidente negativo y luego triturarlo o tirarlo a la basura para reducir ese sentimiento.
+
+  
+Esa es la ‘receta’ hallada por un equipo de investigadores de la Universidad de Nagoya (Japón) en un estudio que publicó la revista Scientic Reports, basado en años de investigación sobre la asociación entre la palabra escrita y la reducción de la ira.
+
+  
+“Esperábamos que nuestro método suprimiera la ira hasta cierto punto”; sin embargo, “nos sorprendió que la ira se eliminara casi por completo”, dijo Nobuyuki Kawai, el autor principal del estudio y experto en ciencias cognitivas de la Universidad de Nagoya, en un comunicado de prensa publicado por ese centro educativo.
+
+  
+Al respecto, trabajos previos ya mostraban cómo las interacciones con objetos físicos pueden controlar el estado de ánimo de una persona. Sin embargo, muchas técnicas de control de la ira carecen del apoyo empírico de la investigación y pueden ser difíciles de recordar cuando se está enfadado.
+
+  
+Para el estudio de la Universidad de Nagoya se reclutó a 100 estudiantes a los que se les pidió que escribieran en un formato breve sus opiniones sobre distintos temas.
+
+  
+Kawi y su estudiante de posgrado Yuta Kanaya, ambos de la Escuela de Graduados en Informática de esta universidad, le pidieron al grupo de voluntarios escribir breves opiniones sobre problemas sociales importantes, por ejemplo si habría que prohibir fumar en público, y se les dijo que sus escritos serían evaluados.
+
+Liga de Quito recibió mimos de sus rivales de la Liga Pro
+=========================================================
+
+Liga de Quito es el equipo del momento en Ecuador. Desde distintos puntos fue felicitado.
+-----------------------------------------------------------------------------------------
+
+![Ezequiel Piovi celebra el título de la Liga Pro alcanzado con Liga de Quito en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/felicitaciones_1.jpg)
+
+Liga de Quito sigue de celebración. Y no es para menos. **El título número 13 del campeonato nacional** llegó rodeado de un año en el que afrontaron una transición dirigencial y el fallecimiento de uno de sus jugadores.
+
+La tarde del **sábado 14 de diciembre de 2024 para Liga de Quito** pasó a ser una de las jornadas más memorables de su historia. En el marcador global de las finales se impusieron por 3-1 ante Independiente del Valle.
+
+### Más detalles:
+
+* [Piero Hincapié se lució en triunfo clave del Leverkusen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-bayer-leverkusen-augsburgo.html "Piero Hincapié se lució en triunfo clave del Leverkusen")
+* [Liga de Quito se proclamó como bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como bicampeón de la Liga Pro")
+* [Alexander Domínguez pide estatua junto a Rodrigo Paz](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-estatua-liga-quito.html "Alexander Domínguez pide estatua junto a Rodrigo Paz")
+
+Liga de Quito fue elogiada
+--------------------------
+
+Una vez que la corona 13 para Liga fue una realidad, los **festejos arrancaron en el estadio de Independiente del Valle**, se extendieron hasta el Rodrigo Paz Delgado y poco a poco se tomaron distintos puntos de la capital ecuatoriana y del país.
+
+Pervis Estupiñán fue uno de los exjugadores formados en Liga que no se perdieron la final. El defensa publicó una fotografía en las historias de su cuenta de Instagram para mostrar el apoyo desde Inglaterra.
+
+Pero también hubo un reducido grupo de equipos de la Liga Pro que utilizaron sus redes sociales para dejarle un saludo al nuevo campeón nacional.
+
+Llamó la **atención que equipos de la capital ecuatorian**a como Aucas, Universidad Católica, Cumbayá y El Nacional no se hicieron presentes con la felicitación para LDU, no al menos de forma pública.
+
+La otra cara de la moneda fueron los equipos del Guayas. **Barcelona SC, el más ganador del torneo nacional** con 16 títulos, y Emelec, el segundo más ganador con 14, reaccionaron rápidamente al logro obtenido por sus rivales deportivos de la Liga Pro.
+
+“Felicitaciones Liga de Quito por su campeonato obtenido en la Liga Pro”: Emelec.
+
+“¡Felicidades, amigos de Liga de Quito! ¡Saludos, Bicampeones!”: Orense.
+
+“Felicitamos a Liga de Quito por alcanzar un nuevo campeonato de Liga Pro”: Barcelona SC
+
+“Felicidades, Liga de Quito. Campeón de la Liga Pro”: Independiente del Valle
+
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/felicitaciones_2-1024x683.jpg)
+
+API.
+
+¿Cómo ganó Liga su título?
+--------------------------
+
+ Liga de Quito retuvo el título de campeón de Ecuador -que ya obtuvo en 2023-, **pese a haber perdido por 1-0** el sábado 14 de diciembre de 2024 en el partido de vuelta de la final del torneo ante el Independiente del Valle, al que goleó por 3-1 en el encuentro de ida.
+
+Todos los intentos del cuadro del Valle resultaron vanos ante la jerarquía mostrada por el ‘Rey de Copas’ de Ecuador, Liga de Quito, que se adjudicó su décimo tercer título en el fútbol ecuatoriano.
+
+El gol de Luis Zárate, **que dio el triunfo de este sábado al Independiente**, fue insuficiente para remontar la ventaja del partido de ida.
+
+El afán de los del Valle por abrir el marcador les obligó a dejar espacios en defensa que los procuró aprovechar L**iga de Quito mediante el contraataque, aunque el portero del Independiente**, Guido Villar, ganó el mano a mano al boliviano Gabriel Villamil y a Jhojan Julio.
+
+El portero de Liga de Quito, **Alexander Domínguez, también hizo gala de grandes reflejos** al rechazar el balón sobre el travesaño, tras un remate de Renato Ibarra.
+
+El argentino Cristian Zabala se filtró entre los defensas de Liga y a espalda del colombiano Jeison Medina, pero no logró empujar la pelota al fondo del arco.
+
+El goleador de la temporada, **con 28 anotaciones, el paraguayo Alex Arce**, también disfrutó de una ocasión para marcar, pero el argentino Mateo Carabajal se interpuso en el remate.
+
+Sobre el final del primer tiempo, Domínguez salvó a Liga, pues sacó el balón desde el ángulo superior derecho, tras un tiro libre de Ibarra.
+
+Sobre el final, el árbitro **Guillermo Guerrero suspendió por tres minutos el partido** por la cantidad de humo que se acumuló en el campo de juego, luego de que hinchas de Liga de Quito encendieran bengalas en la tribuna para festejar anticipadamente el título.
+
+En la última acción del partido, el **paraguayo Zárate anotó**, tras una asistencia de Michael Hoyos. EFE
+
+San viernes
+-----------
+
+Pervis Estupiñán titular en nueva derrota del Brighton
+======================================================
+
+El Brighton ha perdido fuelle con cuatro encuentros seguidos sin conocer la victoria.
+-------------------------------------------------------------------------------------
+
+![Pervis Estupiñán en un partido con el Brighton en la temporada 2024/25.](https://www.elcomercio.com/wp-content/uploads/2024/12/pervis_derrota_2.jpg)
+
+El **ecuatoriano Pervis Estupiñán** volvió a ser titular en el partido correspondiente a la fecha 16 de la Premier League entre el Brighton y el Crystal Palace, jugado este domingo 15 de diciembre de 2024.
+
+Pervis Estupiñán jugó los 90 minutos y conformó la línea de cuatro del Brighton junto a Lewis Dunk,  
+Jan Paul van Hecke y Tariq Lamptey, los nombres que normalmente ocupan la titularidad en la ‘Gaviotas’.
+
+### Más noticias:
+
+* [Piero Hincapié se lució en triunfo clave del Leverkusen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-bayer-leverkusen-augsburgo.html "Piero Hincapié se lució en triunfo clave del Leverkusen")
+* [Liga de Quito se proclamó como bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como bicampeón de la Liga Pro")
+* [Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-hinchas-estadio-campeon-ligapro.html "Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro")
+
+El Brighton se aleja de Europa
+------------------------------
+
+Cinco partidos seguidos lleva sin perder el Crystal Palace, que venció al Brighton & Hove Albion (1-3) y escapa de la zona de descenso, de la que le separan cuatro puntos.
+
+Los de Oliver Glasner, tras un inicio terrible de campaña, **han remontado el vuelo y han sumado nueve de los últimos 15 puntos**, incluyendo las victorias contra Ipswich Town y Brighton y empates contra rivales a priori superiores como Manchester City, Aston Villa y Newcastle United.
+
+Los goles de Trevoh Chalobah e Ismaila Sarr en la primera media hora allanaron el camino de un Palace que aguantó el arreón del Brighton en la segunda mitad hasta que un error en la cesión de Lewis Dunk permitió que Sarr le robara la pelota y sentenciara en el mano a mano el encuentro.
+
+Tras 16 jornadas, **el Crystal Palace comienza a parecerse al del final de la temporada pasada**, que se salvó con holgura y con buen juego, y suma 16 puntos, suficientes para ver el descenso a cuatro unidades de distancia.
+
+El Brighton, **que hace no tanto peleaba por los puestos de Liga de Campeones**, ha perdido fuelle con cuatro encuentros seguidos sin conocer la victoria y cae hasta el noveno puesto con 24 puntos.
+
+![Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/12/pervis_derrota_1-1024x683.jpg)
+
+Facebook del club.
+
+Liverpool sobrevive al Fulham 
+------------------------------
+
+El Liverpool, con un hombre menos durante setenta minutos por la expulsión de Andy Robertson, sobrevivió a la insistencia del Fulham con un ejercicio de resiliencia que le **permitió contestar dos veces a su rival gracias a los aciertos** Cody Gapko y Diogo Jota, que rescataron un punto para el líder de la Premier League (2-2).
+
+El Fulham no era un rival de los asequibles para los hombres de Arne Slot. Acaricia la zona europea y ya demostró ser capaz de generar problemas a los grandes de la Premier League.
+
+De hecho, **consiguió empatar con el Arsenal (1-1) y con el Tottenham (1-1)**. Y generó muchísimos problemas al Manchester City, que acabó sumando una victoria agónica (3-2).
+
+Esos precedentes no invitaban a un duelo tranquilo para el Liverpool, que además acudió a la cita con una pequeña duda tras su pinchazo frente al Newcastle (3-3) tras una racha ganadora.
+
+Y la profecía de los más cautelosos de Anfield, se cumplió. El Fulham cumplió con las expectativas y fue un dolor de cabeza para su rival.
+
+El equipo de Arne Slot insistió para intentar culminar una victoria épica. **Tuvo nueve minutos de tiempo añadido para firmar la remontada**. La acarició con un remate de Diogo Jota que salvó el mejor del partido, Robinson, que se interpuso con su cuerpo en el camino de la pelota hacia la portería. Fue la ocasión de la épica que no llegó a buen puerto.
+
+El Liverpool, al final, no ganó, **pero se fue con buen sabor de boca porque resistió con un hombre menos** durante casi todo el partido. Eso sí, dará una oportunidad a sus perseguidores para recortar dos puntos en la lucha por el título.
+
+San viernes
+-----------
+
+Gobierno anuncia la compensación energética en las planillas de luz
+===================================================================
+
+El Gobierno Nacional anunció que ya está lista la compensación energética.
+--------------------------------------------------------------------------
+
+![La compensación durará hasta febrero de 2025](https://www.elcomercio.com/wp-content/uploads/2024/12/Plantillas-luz-.jpg)
+
+Desde noviembre, las familias ecuatorianas reciben una **compensación en sus planillas** de luz por los primeros 180 kilovatios hora (kWh) consumidos[.](https://es.wikipedia.org/wiki/Energ%C3%ADa_el%C3%A9ctrica#:~:text=de%20energ%C3%ADa%20el%C3%A9ctrica-,Apag%C3%B3n%20el%C3%A9ctrico,fallo%20de%20la%20red%20comercial. "https://es.wikipedia.org/wiki/Energ%C3%ADa_el%C3%A9ctrica#:~:text=de%20energ%C3%ADa%20el%C3%A9ctrica-,Apag%C3%B3n%20el%C3%A9ctrico,fallo%20de%20la%20red%20comercial.")
+
+Más noticias
+------------
+
+* [Cortes de luz en Guayaquil este sábado 14 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-14-diciembre.html "Cortes de luz en Guayaquil este sábado 14 de diciembre")
+* [¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?](https://www.elcomercio.com/actualidad/negocios/como-acceder-seguro-desempleo-con-ley-alivio-financiero.html "¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?")
+* [Compensación del consumo energético, ¿ya se refleja este beneficio en la planilla de luz?](https://www.elcomercio.com/actualidad/ecuador/compensacion-consumo-energetico-refleja-beneficio-planilla-luz.html "Compensación del consumo energético, ¿ya se refleja este beneficio en la planilla de luz?")
+
+Esta medida, establecida en el **Decreto** **Ejecutivo** N.° 442, fue impulsada por el presidente **Daniel** **Noboa** para “aliviar la economía de los hogares ante la emergencia energética que enfrenta el país”.
+
+Detalles de la compensación energética
+--------------------------------------
+
+El beneficio estará vigente hasta febrero de 2025. Durante estos cuatro meses, las familias no pagarán por los primeros 180 kWh de **consumo** **eléctrico**.
+
+Esto les permitirá destinar esos recursos a otras necesidades. Sin embargo, quienes excedan este límite deberán cubrir el valor correspondiente al consumo adicional.
+
+La medida aplica exclusivamente al rubro “Valor Consumo” en la **planilla** **de** **luz**. Otros conceptos, como **alumbrado** **público**, recolección de basura y contribuciones a los bomberos, continuarán facturándose de manera habitual y deberán ser cancelados.
+
+Para garantizar el cumplimiento de esta disposición, el Ministerio de **Energía** y **Minas** y la Agencia de Regulación y Control de Electricidad (**Arconel**) se encargarán de supervisar su correcta aplicación. De esta forma, el **Gobierno** busca mitigar los efectos de la emergencia energética y brindar un alivio económico temporal a los hogares del país.
+
+> Ya está vigente en tu planilla de luz la compensación del Gobierno Nacional de hasta 180 kWh. Medida dispuesta por el presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw). 🇪🇨👏[#ElNuevoEcuadorResuelve](https://twitter.com/hashtag/ElNuevoEcuadorResuelve?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/ha95d3h5nY](https://t.co/ha95d3h5nY)
+> 
+> — Comunicación Ecuador 🇪🇨 (@ComunicacionEc) [December 15, 2024](https://twitter.com/ComunicacionEc/status/1868303994566930631?ref_src=twsrc%5Etfw)
+
+El Gobierno anuncia el fin de los cortes de luz en Ecuador
+----------------------------------------------------------
+
+El **Gobierno** **Nacional**, a través del **Ministerio** **de** **Energía**, confirmó que los cortes de luz programados finalizarán el viernes 20 de diciembre de 2024.
+
+En un comunicado oficial emitido el viernes 13 de diciembre, la entidad aseguró que los apagones, que afectaron al país durante meses, concluirán en siete días.
+
+Para la última semana de **racionamientos**, del lunes 16 al jueves 19 de diciembre, se reducirá la duración de los cortes a dos horas diarias.
+
+Los **apagones** iniciaron en **abril** y se suspendieron temporalmente después de unos días. Sin embargo, el 23 de septiembre se retomaron y se extendieron durante más de 80 días. En los momentos más críticos, los **racionamientos** alcanzaron hasta 14 horas diarias.
+
+Bomberos de Quito intensifican campaña contra la pirotecnia
+===========================================================
+
+En las fiestas de Navidad y Fin de Año, el uso de la pirotecnia no autorizada está restringida. Los Bomberos de Quito previenen su uso.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Los Bomberos de Quito realizan talleres de prevención en contra del uso de pirotecnia.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T181215.306.jpg)
+
+Con la proximidad de las **fiestas** de **Navidad** y **Año Nuevo**, la pirotecnia es uno de los temas más complejos y delicados. El empleo de pirotecnia no autorizada representa un peligro para la seguridad de las personas, los animales y el medioambiente. Ante ello, las autoridades de la ciudad, sobre todo el Cuerpo de Bomberos de Quito, han intensificado una campaña de concienciación para mitigar los peligros asociados a los fuegos artificiales.
+
+### Más noticias
+
+* [Liga de Quito podrá celebrar en emblemático lugar](https://www.elcomercio.com/deportes/futbol/liga-quito-pileta-universidad-central.html "Liga de Quito podrá celebrar en emblemático lugar")
+* [Movilidad en Quito, cómo los pregones y compras navideñas afectarán el tráfico](https://www.elcomercio.com/actualidad/quito/movilidad-pregones-compras-navidad-quito.html "Movilidad en Quito, cómo los pregones y compras navideñas afectarán el tráfico")
+* [Policía encontró casi 12 millones de dólares en billetes falsos en Quito ¿Hay detenidos?](https://www.elcomercio.com/actualidad/seguridad/policia-encontro-casi-12-millones-dolares-billetes-falsos-quito-detenidos.html "Policía encontró casi 12 millones de dólares en billetes falsos en Quito ¿Hay detenidos?")
+
+Campaña contra la pirotecnia
+----------------------------
+
+Con el propósito de garantizar la seguridad ciudadana durante las festividades navideñas y de Fin de Año, el Cuerpo de Bomberos Quito intensifica su campaña de prevención e información sobre los peligros asociados al uso de pirotecnia. **Por esta razón**, la institución ha lanzado una serie de iniciativas para crear conciencia en la población.
+
+Bajo el lema “Hazlo bien, por tu bien”, la institución busca sensibilizar a la ciudadanía sobre las graves consecuencias de la manipulación inadecuada de estos materiales. **En este contexto**, la campaña pretende destacar los riesgos no solo para quienes los usan, sino también para quienes están a su alrededor.
+
+Consejos contra la pirotecnia
+-----------------------------
+
+**Cabe destacar que**, en Quito está prohibida la fabricación, comercialización y uso de productos no autorizados dentro del Distrito Metropolitano. **Dicho esto**, es importante señalar que estas restricciones no solo buscan cumplir con la normativa vigente, sino también proteger a las personas de las graves consecuencias que pueden generar los artefactos ilegales. **Por ejemplo**, la pirotecnia no autorizada puede provocar quemaduras, pérdida de la vista e incluso amputaciones.
+
+**Para evitar estas situaciones**, Bomberos Quito proporciona consejos prácticos que ayudan a prevenir incidentes y a disfrutar unas fiestas en paz.
+
+La campaña incluye una serie de recomendaciones clave para prevenir riesgos, **entre las cuales se destacan las siguientes**:
+
+* Prohibir que los menores de edad manipulen pirotecnia.
+* No almacenar material pirotécnico en viviendas.
+* Revisar instalaciones eléctricas y evitar sobrecargas.
+* Usar portavelas y superficies estables para evitar incendios.
+* Ubicar generadores eléctricos en espacios ventilados.
+* No usar pirotecnia en mal estado o no autorizada.
+* Considerar el bienestar de las mascotas, que pueden sufrir con los estruendos.
+
+Controles y operativos
+----------------------
+
+La **Agencia Metropolitana de Control (AMC)**, la **Policía Nacional** y los **Bomberos de Quito** han intensificado los operativos de control. Hasta la fecha, se han incautado de ocho kilos de material pirotécnico en siete intervenciones[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+Los Bomberos hacen un llamado a la ciudadanía para cerrar el año de manera segura y responsable. La institución subraya que prevenir es una responsabilidad compartida y que pequeñas acciones pueden marcar una gran diferencia en la protección de las personas y el entorno.
+
+Liga de Quito y sus históricos cinco ciclos exitosos
+====================================================
+
+A lo largo de su historia, Liga de Quito ha tenido varias rachas exitosas en las que ha conseguido múltiples títulos.
+---------------------------------------------------------------------------------------------------------------------
+
+![Richard Mina (i) y Leonel Quiñónez con el trofeo de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/liga_ciclos_1.jpg)
+
+**Liga de Quito** sumó un nuevo título el sábado 14 de diciembre, logrando su decimotercera estrella de campeonato nacional y consolidando una racha positiva que comenzó en 2023 con la obtención de dos copas importantes.
+
+En sus casi 100 años de historia como **Liga Deportiva Universitaria**, el club capitalino se ha convertido en el más exitoso del país con **21 títulos oficiale**s, conseguidos en diferentes épocas doradas. Algunas rachas fueron consecutivas, marcando ciclos de éxito, mientras que otras se dieron en años más distantes. A continuación, repasamos las mejores rachas de títulos de Liga de Quito.
+
+### Más noticias:
+
+* [Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-valle-viernes13-terror-redes.html "Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito")
+* [¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?](https://www.elcomercio.com/deportes/liga-quito-jugadores-favoritos-vitamina-sanchez.html "¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?")
+* [La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito](https://www.elcomercio.com/deportes/pablo-sanchez-tatuaje-vitamina-liga-quito.html "La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito")
+
+El primer bicampeonato de Liga de Quito (1974-1975)
+---------------------------------------------------
+
+En 1974 y 1975, la **‘U’ consiguió su segundo y tercer campeonato ecuatoriano**, consolidándose como el equipo más ganador de Pichincha en esa época y como uno de los más importantes del país.
+
+En 1974, Liga le arrebató el título a El Nacional en la final, impidiendo que los militares lograran su bicampeonato. Un año después, la ‘U’ terminó primera en el pentagonal final, superando a Deportivo Cuenca, y **selló su primer bicampeonato**.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-13T142515.057-1024x683.jpg)
+
+El segundo bicampeonato (1998-1999)
+-----------------------------------
+
+Liga de Quito sumó su segundo bicampeonato en 1998 y 1999. En el primero, protagonizó una final histórica al derrotar 7-0 a Emelec en la vuelta jugada en Casa Blanca, rompiendo una sequía de ocho años sin títulos nacionales.
+
+En 1999, la ‘U’ revalidó su supremacía al vencer en el partido definitorio a El Nacional, logrando su sexta estrella nacional y cerrando un ciclo de dos años de dominio absoluto.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-13T142555.040-1024x683.jpg)
+
+La época dorada (2007-2011)
+---------------------------
+
+La racha más gloriosa de Liga de Quito inició en 2007, cuando el equipo conquistó su noveno título nacional, pero esto fue solo el comienzo de una era inolvidable.
+
+En 2008, aunque fue subcampeón de la Liga ecuatoriana, Liga alcanzó el mayor logro para un equipo ecuatoriano: ganó la Copa Libertadores al vencer a Fluminense en el mítico Maracaná.
+
+En 2009, el éxito continuó con la obtención de la Recopa Sudamericana y la Copa Sudamericana, convirtiéndose en el primer equipo ecuatoriano en ganar los tres torneos internacionales organizados por Conmebol.
+
+En 2010, Liga volvió a sumar títulos: ganó otra Recopa Sudamericana y su décima estrella de campeonato nacional. Durante este periodo, también fue subcampeón del Mundial de Clubes y de la Suruga Bank.
+
+Esta época dorada cerró en 2011 con un subcampeonato en la Copa Sudamericana, dejando un legado de seis títulos en cinco años, incluidos cuatro internacionales.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-13T142546.757-1024x683.jpg)
+
+Más títulos nacionales (2018-2021)
+----------------------------------
+
+Liga de Quito rompió una sequía de ocho años en 2018 al consagrarse campeón nacional, logrando su undécima estrella.
+
+En 2019, añadió la Copa Ecuador a su palmarés. Aunque fue subcampeón de la Liga Pro en 2019 y 2021, el equipo también ganó las Supercopas Ecuador de 2020 y 2021, mostrando regularidad en la consecución de trofeos.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-13T142533.610-1024x683.jpg)
+
+De vuelta a la gloria (2023-2024)
+---------------------------------
+
+La racha más reciente de Liga de Quito comenzó en 2023. Tras cinco años sin títulos ligueros, la ‘U’ se coronó campeona de la Liga Pro, logrando su decimosegunda estrella nacional. Ese mismo año, conquistó su segunda Copa Sudamericana, rompiendo una espera de 13 años por un título internacional.
+
+En 2024, aunque fue subcampeón de la Recopa Sudamericana, cerró el año con su decimotercera estrella y su tercer bicampeonato nacional, reafirmando su posición como el equipo más exitoso del Ecuador.
+
+![Jugadores de Liga de Quito con el título de la Copa Sudamericana de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/11/liga_corona_1-1024x683.jpg)
+
+Militares se dirigen a Napo por movilizaciones sociales
+=======================================================
+
+Las comunidades de Napo expresan su rechazo a la construcción de una cárcel en la zona.
+---------------------------------------------------------------------------------------
+
+![Cinco camiones militares se movilizaron a Napo.](https://www.elcomercio.com/wp-content/uploads/2024/12/Militares-Napo.jpg)
+
+Un grupo de militares se dirige a Napo, donde se desarrolla una manifestación, y hace tres días se tomaron la **Gobernación**[.](https://es.wikipedia.org/wiki/Militar "https://es.wikipedia.org/wiki/Militar")
+
+Más noticias
+------------
+
+* [Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro](https://www.elcomercio.com/actualidad/seguridad/ministerio-defensa-despliegue-militares-el-oro.html "Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro")
+* [Gobernador detalla situación en Napo tras protestas contra cárcel de Archidona](https://www.elcomercio.com/actualidad/ecuador/gobernador-napo-protestas-carcel-archidona.html "Gobernador detalla situación en Napo tras protestas contra cárcel de Archidona")
+* [Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-cambio-gobernado-napo-carcel.html "Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel")
+
+En la provincia, las comunidades rechazan la construcción de la **cárcel en Archidona**. Después de 13 días de manifestaciones, no hay un acuerdo con el Gobierno de Daniel Noboa.
+
+Llegada de militares a Napo
+---------------------------
+
+La Confederación de **Nacionalidades** **Indígenas** de la Amazonía Ecuatoriana informó en sus redes sociales que cinco camiones con militares atravesaron la comunidad **Costa** **Azul** por la fuerza.
+
+Ante este hecho, pidieron a **Daniel** **Noboa** evitar la represión contra el pueblo y atender las demandas de las comunidades. Según su resolución regional, declararon: “No queremos la cárcel de **máxima** **seguridad** en la **Amazonía**“.
+
+> 🔴 [#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw) | 5 camiones de militares se dirigen a Tena, pasaron a la fuerza por la comunidad Costa Azul. Hacemos un llamado a nuestras comunidades de base a estar alertas en los puntos de resistencia. La Confeniae no permitirá que se violen nuestros derechos constitucionales. [pic.twitter.com/dzuB8pt8tV](https://t.co/dzuB8pt8tV)
+> 
+> — CONFENIAE (@confeniae1) [December 15, 2024](https://twitter.com/confeniae1/status/1868184891210535097?ref_src=twsrc%5Etfw)
+
+Manifestantes toman la Gobernación de Napo
+------------------------------------------
+
+El jueves 12 de diciembre, cerca de 3 000 personas, entre moradores, sindicalistas y dirigentes indígenas, participaron en la Asamblea Popular Permanente, según reportó la Confederación de Nacionalidades Indígenas del Ecuador (**Conaie**).
+
+Tras la falta de acuerdos, la **Conaie** indicó que las movilizaciones aumentarán con carácter regional, cumpliendo con lo establecido en la resolución de la **Asamblea**.
+
+Esa advertencia se concretó cuando, por la noche, los manifestantes ingresaron al edificio de la **Gobernación** de la provincia.
+
+Videos difundidos en redes sociales muestran a los manifestantes enfrentarse con la **Policía**. Los uniformados colocaron barricadas para delimitar el lugar, pero estas fueron derribadas.
+
+Los voceros de las **movilizaciones** anunciaron la reactivación del cierre de vías principales, incluyendo el acceso al puente del río **Misahuallí**.
+
+Gobierno adjudica la construcción de la cárcel
+----------------------------------------------
+
+El **Gobierno** impulsa la construcción de una segunda **cárcel de máxima seguridad**, con características similares a la de **Santa** **Elena**, que registra un avance superior al 30 % y una inversión de 52 millones de dólares.
+
+El 10 de diciembre, el Servicio de Atención Integral a Personas Adultas Privadas de la Libertad (**SNAI**) adjudicó el proyecto en **Archidona**, a pesar de los reclamos. La obra tiene un presupuesto de 51,97 millones de dólares.
+
+Como en el caso de **Santa** **Elena**, este proceso se declaró reservado y lo adjudicaron a la empresa Puentes y Calzadas Infraestructuras S.L., subsidiaria de la estatal China Road and Bridge Corporation, única invitada al proceso.
+
+Justina Zambrano, subsecretaria de **Gobernabilidad**, confirmó que el **Gobierno** mantiene el proyecto en su ubicación actual tras dialogar con autoridades locales.
+
+Asamblea en contra de la construcción de la cárcel en Archidona
+---------------------------------------------------------------
+
+Las preocupaciones sociales, culturales y ambientales relacionadas con el proyecto, debido a su cercanía con la zona urbana, fundamentaron la solicitud.
+
+La resolución expresó respaldo al pueblo de **Archidona**, con énfasis en niños, adolescentes y comunidades indígenas afectadas.
+
+Además, exhortaron al presidente **Daniel** **Noboa** y al **SNAI** a suspender la obra de inmediato y respetar los derechos constitucionales e internacionales. También pidieron evitar futuras construcciones de **cárceles** en **Napo** y la **Amazonía**. La moción recibió 95 votos afirmativos.
+
+Liga de Quito extendió los festejos del título hasta la madrugada
+=================================================================
+
+Liga de Quito se convirtió en el primer equipo en ser bicampeón de la Liga Pro.
+-------------------------------------------------------------------------------
+
+![Plantel de jugadores de Liga de Quito con el trofeo de campeones de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/festejos_1.jpg)
+
+**Liga de Quito**, su plantel de jugadores, cuerpo técnico, directivos e hinchas celebraron un nuevo título de la Liga Pro hasta las primeras horas de la madrugada de este domingo 15 de diciembre de 2024.
+
+Para conseguir este nuevo título, **el 13 del campeonato nacional en su historia**, Liga de Quito derrotó a Independiente del Valle con un marcador global de 3-1, suficiente para ser el primer bicampeón de la era Liga Pro.
+
+### Más noticias:
+
+* [Antonio Valencia respalda a Segundo Castillo con fuerte discurso](https://www.elcomercio.com/deportes/futbol/antonio-valencia-segundo-castillo-respaldo.html "Antonio Valencia respalda a Segundo Castillo con fuerte discurso")
+* [Liga de Quito, el tri-bicampeón: el saludo de Claudio Bieler](https://www.elcomercio.com/deportes/futbol/liga-quito-claudio-bieler-tri-bicampeon.html "Liga de Quito, el tri-bicampeón: el saludo de Claudio Bieler")
+* [Liga de Quito dedicó el título al fallecido Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-quito-titulo-marco-angulo.html "Liga de Quito dedicó el título al fallecido Marco Angulo")
+
+Los festejos de Liga de Quito
+-----------------------------
+
+Los festejos del título de la Liga Pro empezaron antes que se acabe el partido en el estadio de Independiente del Valle. Unos **minutos antes de llegar a los 90′ los miles de hinchas albos** desataron su alegría con cánticos y con el encendido de bengalas que inundó de humo el referido escenario.
+
+Por unos segundos **Guillermo Guerrero, juez central de la final, detuvo el encuentro** porque la cantidad de humo impedía tener la visibilidad completa del terreno de juego.
+
+Tras la reanudación y luego de cumplir con los nueve minutos de tiempo adicionado, se terminó el juego y oficialmente la **corona 13 era una realidad para los universitarios**, el equipo más ganador del fútbol ecuatoriano sumando sus cinco coronas internacionales.
+
+En el terreno de juego los jugadores festejaron eufóricamente lo conseguido, siempre con el recuerdo del fallecido Marco Angulo presente en todo momento, más aún cuando sus familiares recibieron la medalla que lo acreditaba como campeón.
+
+La tarima de la premiación se armó y uno a uno todos los integrantes de Liga de Quito pasaron frente a las autoridades de la **Liga Pro para recibir sus medallas y luego el trofeo de campeones**.
+
+El capitán Ezequiel Piovi se encargó de levantar la copa y comandar a sus compañeros en la vuelta olímpica.
+
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/festejos_3-1024x683.jpg)
+
+Los festejos se tomaron Quito
+-----------------------------
+
+Mientras todo eso sucedía en el estadio de Independiente del Valle al sur oriente de la capital ecuatoriana, al norte, en el **Rodrigo Paz Delgado, miles de hinchas azucenas** celebraron frente a las pantallas gigantes que se habilitaron para seguir el partido.
+
+El siguiente punto de celebración fue la emblemática pileta de la Universidad Central. En bus, en auto propio o a pie, los fanáticos llegaron desde d**istintos puntos de la ciudad hasta la pileta** para darse un baño de gloria como es tradicional con cada título conseguido.
+
+Cerca de las 23:00 la caravana que salió desde el Valle llegó a la Central. Los jugadores subidos en un bus descapotable **animaron aún más a sus seguidores que los esperaron** pese al intenso frío y la lluvia que cada tanto cayó en esa parte de la ciudad.
+
+Tras cumplir con el recorrido planificado por la directiva, el plantel de jugadores y cuerpo técnico se dirigieron a un hotel ubicado cerca del estadio Olímpico Atahualpa. Ahí tuvieron una cena de celebración cuando el reloj ya marcaban los primero minutos de este domingo.
+
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/festejos_2-1024x683.jpg)
+
+API.
+
+San viernes
+-----------
+
+Gustavo Petro visita Galápagos para fortalecer la cooperación con Ecuador
+=========================================================================
+
+El presidente de Colombia, Gustavo Petro, llegó a las Islas Galápagos. La visita oficial se da luego de la invitación del presidente Daniel Noboa.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La canciller ecuatoriana, Gabriela Sommerfeld, recibió al presidente de Colombia, Gustavo Petro, en las Islas Galápagos.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-92-1.jpg)
+
+El presidente de Colombia, Gustavo Petro, llegó en la tarde de este **14 de diciembre de 2024** a las **Islas Galápagos**. Durante su estadía, se reunirá con su homólogo ecuatoriano, **Daniel Noboa**, para tratar diversos temas relacionados con la **cooperación bilateral**, según informó la **Cancillería de Ecuador** en Quito.
+
+### Más noticias
+
+* [Daniel Noboa reduce el IVA para feriados de Navidad y Año Nuevo](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-redujo-el-iva-8-durante-feriados-navidad-ano-nuevo.html "Daniel Noboa reduce el IVA para feriados de Navidad y Año Nuevo")
+* [Daniel Noboa y su roce con el Legislativo por la ‘Ley Antipillos’, ¿quién tiene la razón?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-pugna-con-legislativo-ley-antipillos-quien-tiene-razon.html "Daniel Noboa y su roce con el Legislativo por la ‘Ley Antipillos’, ¿quién tiene la razón?")
+* [Gustavo Petro dice que ayudará a Ecuador con la fortaleza energética de](https://www.elcomercio.com/actualidad/negocios/gustavo-petro-colombia-ecuador-fortaleza-energetica-electricidad-exportaciones.html "Gustavo Petro dice que ayudará a Ecuador con la fortaleza energética de Colombia") [Colombia](https://www.elcomercio.com/actualidad/negocios/gustavo-petro-colombia-ecuador-fortaleza-energetica-electricidad-exportaciones.html "Gustavo Petro dice que ayudará a Ecuador con la fortaleza energética de Colombia")
+
+Petro llega por invitación de Noboa
+-----------------------------------
+
+En primer lugar, la canciller ecuatoriana, **Gabriela Sommerfeld**, recibió al mandatario colombiano en el aeropuerto de **Isla Baltra** en representación del presidente Noboa. Esta visita oficial responde a una invitación previa realizada por el jefe de Estado ecuatoriano.
+
+Además, la **Cancillería ecuatoriana** destacó que ambos mandatarios llevarán a cabo una reunión en las **Islas Encantadas** para discutir acciones concretas de cooperación bilateral. En este contexto, Petro estará acompañado por **Laura Sarabia**, directora del **Departamento Administrativo de la Presidencia de Colombia (Dapre)**.
+
+Por otro lado, la visita se prolongará hasta el próximo **domingo 15 de diciembre**, según confirmó la **Presidencia de Colombia** mediante un comunicado[.](https://es.wikipedia.org/wiki/Gustavo_Petro "https://es.wikipedia.org/wiki/Gustavo_Petro")
+
+La agenda de Petro y Noboa
+--------------------------
+
+Dentro de la agenda programada, está previsto que los mandatarios recorran las instalaciones del **Parque Nacional Galápagos** y la **Estación Científica Charles Darwin**, ambas ubicadas en **Isla Santa Cruz**, en el corazón del archipiélago.
+
+Finalmente, es importante recordar que Petro y Noboa han mantenido una relación diplomática cercana. De hecho, ambos líderes ya sostuvieron una reunión en octubre pasado durante la **COP16 sobre biodiversidad**, realizada en la ciudad colombiana de **Cali**. En aquella ocasión, discutieron sobre **cooperación energética** y establecieron los detalles para esta visita oficial a las **Islas Galápagos**.
+
+Raúl Ilaquiche tendrá sepultura en Tigua, conforme a su deseo
+=============================================================
+
+En las comunidades indígenas hubo consternación por el fallecimiento del abogado por los derechos humanos, Raúl Ilaquiche.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Lourdes Tibán y Raúl Ilaquiche se casaron el 14 de febrero del 2015](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-90-1.jpg)
+
+La muerte del **abogado** de los **derechos humanos**, **Raúl Ilaquiche**, en un siniestro de tránsito, en **Tambillo**, el 13 de diciembre del 2024, consternó a la **organización indígena** y a todo el **campo político** ecuatoriano. Su cuerpo será **sepultado** en **Tigua**, según fueron sus deseos, como contó su esposa y prefecta de Cotopaxi, Lourdes Tibán.
+
+### Más noticias
+
+* [Lourdes Tibán publicó emotivo mensaje por fallecimiento de Raúl Ilaquiche](https://www.elcomercio.com/actualidad/seguridad/lourdes-tiban-publico-emotivo-mensaje-fallecimiento-raul-ilaquiche.html "Lourdes Tibán publicó emotivo mensaje por fallecimiento de Raúl Ilaquiche")
+* [Raúl Ilaquiche, esposo de Lourdes Tibán, falleció en siniestro de tránsito este viernes](https://www.elcomercio.com/actualidad/seguridad/raul-ilaquiche-esposo-lourdes-tiban-fallecio-siniestro-transito.html "Raúl Ilaquiche, esposo de Lourdes Tibán, falleció en siniestro de tránsito este viernes")
+
+Cotopaxi llora por Ilaquiche
+----------------------------
+
+Los restos de **Ilaquiche**, un prominente abogado por los derechos humanos y premio Bartolomé de las Casas, otorgado por el Principado de Asturias, por su labor en la lucha por los derechos indígenas, será llevado este domingo 15 de diciembre a **Tigua**. Según su esposa, Lourdes Tibán, siempre quiso ser enterrado allá.
+
+“El sueño de él y la advertencia de todos los días era que le entierren en **Tigua**. Nadie está preparado para la muerte; no tenemos bóveda en Tigua, pero él hizo un cementerio (allí) con sus primos, con la comunidad”, añadió la **Prefecta** de **Cotopaxi**.
+
+Tras su fallecimiento, terminado el procedimiento de rigor, el cuerpo fue llevado a Salcedo. Hoy, 14 de abril del 2024, le rindieron honores en Pujilí, una ciudad que él amaba, según contó su esposa, y de la que quiso ser su alcalde. Una **multitud** lo acompañó durante toda la jornada.
+
+El **15 de diciembre,** a las 08:00, será trasladado a **Tigua**, para cumplir con el pedido de **Ilaquiche**.
+
+Un amor de nueve años
+---------------------
+
+Lourdes **Tibán** y Raúl **Iraquiche** se casaron un **14 de febrero del 2015**, Día de San Valentín. El casamiento fue muy divulgado. Ambos tuvieron tres hijos.
+
+El **mensaje de amor** que le envió Lourdes **Tibán** luego del fallecimiento fue **conmovedor**. **“Solo la muerte nos pudo separar. El único amor que juré en la Iglesia”.**
+
+Consternación en el ámbito político
+-----------------------------------
+
+“Él amaba la **Conaie**, amaba la organización”, dijo Tibán. Y desde todo el arco político, de derecha a izquierda, hubo mensajes de solidaridad con su familia[.](https://es.wikipedia.org/wiki/Confederaci%C3%B3n_de_Nacionalidades_Ind%C3%ADgenas_del_Ecuador "https://es.wikipedia.org/wiki/Confederaci%C3%B3n_de_Nacionalidades_Ind%C3%ADgenas_del_Ecuador")
+
+El **Ministerio de Gobierno** publicó en la red social X sus condolencias a Tibán y a su familia. Lo mismo hizo el expresidente **Guillermo Lasso,** quien dijo lamentar su partida.
+
+> Ante el lamentable fallecimiento del Dr. Raúl Ilaquiche, reconocido líder indígena y esposo de la Dra. [@lourdestiban1](https://twitter.com/lourdestiban1?ref_src=twsrc%5Etfw), Prefecta de [#Cotopaxi](https://twitter.com/hashtag/Cotopaxi?src=hash&ref_src=twsrc%5Etfw), enviamos nuestras más sinceras condolencias a su esposa, hijos, familia y seres queridos. 🕊️ [pic.twitter.com/nDD0HUGOVJ](https://t.co/nDD0HUGOVJ)
+> 
+> — Ministerio de Gobierno Ecuador (@MinGobiernoEc) [December 14, 2024](https://twitter.com/MinGobiernoEc/status/1867765176394821731?ref_src=twsrc%5Etfw)
+
+> Ante el lamentable fallecimiento del Dr. Raúl Ilaquiche, reconocido líder indígena y esposo de la Dra. [@lourdestiban1](https://twitter.com/lourdestiban1?ref_src=twsrc%5Etfw), Prefecta de [#Cotopaxi](https://twitter.com/hashtag/Cotopaxi?src=hash&ref_src=twsrc%5Etfw), enviamos nuestras más sinceras condolencias a su esposa, hijos, familia y seres queridos. 🕊️ [pic.twitter.com/nDD0HUGOVJ](https://t.co/nDD0HUGOVJ)
+> 
+> — Ministerio de Gobierno Ecuador (@MinGobiernoEc) [December 14, 2024](https://twitter.com/MinGobiernoEc/status/1867765176394821731?ref_src=twsrc%5Etfw)
+
+La **Conaie**, organización de la que formó parte y era una de sus prominentes figuras, expresó su **“profundo pesar** por el sensible fallecimiento de Raúl Illaquiche, compañero, líder y destacado abogado defensor de las causas sociales y los derechos colectivos, y esposo de Lourdes Tibán, actual prefecta de [#Cotopaxi](https://x.com/hashtag/Cotopaxi?src=hashtag_click)“.
+
+> \[Nota de condolencia\]  
+> Expresamos nuestro profundo pesar por el sensible fallecimiento de Raúl Illaquiche, compañero, líder y destacado abogado defensor de las causas sociales y los derechos colectivos, y esposo de Lourdes Tibán, actual prefecta de [#Cotopaxi](https://twitter.com/hashtag/Cotopaxi?src=hash&ref_src=twsrc%5Etfw).  
+> Raúl compartió hoy… [pic.twitter.com/GvnEtCW5bI](https://t.co/GvnEtCW5bI)
+> 
+> — CONAIE (@CONAIE\_Ecuador) [December 14, 2024](https://twitter.com/CONAIE_Ecuador/status/1867738242121928719?ref_src=twsrc%5Etfw)
+
+La **Ecuarunari** también envió un mensaje por el fallecimiento de quien fue su vicepresidente. “Desde la Confederación de Pueblos de la Nacionalidad Kichwa del Ecuador, ECUARUNARI, expresamos nuestro **profundo pesar** por el fallecimiento del Dr. Raúl Ilaquiche, referente en la defensa de los derechos colectivos de nuestros pueblos y nacionalidades.
+
+> 🕊️ Nota de condolencia  
+>   
+> Desde la Confederación de Pueblos de la Nacionalidad Kichwa del Ecuador, ECUARUNARI, expresamos nuestro profundo pesar por el fallecimiento del Dr. Raúl Ilaquiche, referente en la defensa de los derechos colectivos de nuestros pueblos y nacionalidades. [pic.twitter.com/waiKSjSRKW](https://t.co/waiKSjSRKW)
+> 
+> — ECUARUNARI (@ecuarunari\_ofic) [December 14, 2024](https://twitter.com/ecuarunari_ofic/status/1868025035228684375?ref_src=twsrc%5Etfw)
+
+La **Presidencia de la República** también envió sus condolencias vía X a la familia.
+
+> Expresamos nuestras condolencias ante el sensible fallecimiento del señor Raúl Ilaquiche.  
+>   
+> Paz en su tumba [pic.twitter.com/5BLiI9mzED](https://t.co/5BLiI9mzED)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [December 14, 2024](https://twitter.com/Presidencia_Ec/status/1867758248998408379?ref_src=twsrc%5Etfw)
+
+Liga de Quito y su senda gloriosa al título de la Liga Pro 2024
+===============================================================
+
+Liga de Quito se convirtió en el primer bicampeón del campeonato ecuatoriano bajo la denominación de Liga Pro.
+--------------------------------------------------------------------------------------------------------------
+
+![Alex Arce y Bryan Ramírez fueron jugadores claves en el título de Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-13T122710.382.jpg)
+
+**Liga de Quito** añadió un nuevo trofeo a su extenso palmarés. El ‘Rey de Copas’ se consagró campeón del fútbol ecuatoriano 2024 tras derrotar en la final de la **Liga Pro** a Independiente del Valle el pasado sábado 14 de diciembre.
+
+Con este título, la **‘U’ alcanzó su decimotercera estrella nacional**, igualando a El Nacional, uno de sus clásicos rivales. Ahora, solo se encuentra por detrás de Emelec, que suma 14 campeonatos, y de Barcelona SC, el máximo ganador con 16.
+
+### Más noticias:
+
+* [La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito](https://www.elcomercio.com/deportes/pablo-sanchez-tatuaje-vitamina-liga-quito.html "La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito")
+* [IDV necesita una gesta para arrebatarle el título a Liga de Quito](https://www.elcomercio.com/deportes/futbol/idv-necesita-una-gesta-para-arrebatarle-el-titulo-a-liga-de-quito.html "IDV necesita una gesta para arrebatarle el título a Liga de Quito")
+* [Liga de Quito e IDV, dos estilos de juego para un solo campeón](https://www.elcomercio.com/deportes/futbol/liga-de-quito-e-idv-dos-estilos-de-juego-para-un-solo-campeon.html "Liga de Quito e IDV, dos estilos de juego para un solo campeón")
+
+Sin embargo, Liga de Quito sigue **consolidándose como el club más exitoso del país,** acumulando 21 títulos oficiales en su historia, superando ampliamente a Barcelona SC, que cuenta con los mismos 16 nacionales.
+
+En el plano nacional, la ‘U’ ostenta 13 títulos de campeonato, una Copa Ecuador y dos Supercopas Ecuador. A nivel internacional, se mantiene como el equipo más laureado con una **Copa Libertadores**, dos **Copas Sudamericanas** y dos Recopas Sudamericanas.
+
+Liga de Quito y su camino al título
+-----------------------------------
+
+Liga de Quito comenzó la temporada 2024 con el director técnico español **Josep Alcácer**, una contratación algo polémica, ya que llegó para reemplazar a **Luis Zubeldía**, quien había tenido un año excepcional en 2023, logrando la Liga Pro y la Copa Sudamericana.
+
+Alcácer dirigió al equipo durante los primeros 13 partidos de la temporada, obteniendo 8 victorias, 2 empates y 3 derrotas. Sin embargo, su estilo y resultados dejaron dudas, y tras una racha de tres partidos sin ganar, que culminó con una derrota ante **Barcelona SC,** su etapa en Liga de Quito llegó a su fin.
+
+Durante las dos últimas fechas de la primera etapa, el club fue dirigido de manera interina por **Patricio Hurtado.** En esta primera fase, la ‘**U’ terminó en la tercera posición con 30 puntos**, logrando 9 victorias, 4 empates y 2 derrotas.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/06/ENDRICK-PALMEIRAS-2024-06-21T212935.277.jpg)
+
+Llegó ‘Vitamina’ Sánchez
+------------------------
+
+A mitad de año, **Liga de Quito contrató a Pablo ‘Vitamina’ Sánchez** para tomar las riendas del equipo en la segunda etapa, con el objetivo de llegar a la final.
+
+Bajo su dirección, la **‘U’ comenzó con un rendimiento espectacular**, sumando 5 victorias consecutivas en los primeros partidos. El equipo se consolidó en la cima de la tabla, mostrando un gran juego ofensivo.
+
+Sin embargo, después de ese inicio brillante, el equipo sufrió una caída, con 2 derrotas y un empate que lo relegaron al segundo puesto de la tabla. A pesar de la incertidumbre, Liga reaccionó y logró una racha de 7 partidos consecutivos sin perder, destacándose una **victoria clave ante Independiente del Valle**, que les permitió retomar la punta.
+
+Finalmente, **Liga terminó en el primer lugar de la segunda etapa** con 35 puntos, logrando 11 victorias, 2 empates y 2 derrotas.
+
+![Ezequiel Piovi, capitán de Liga de Quito, en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-28T144457.969-1024x683.jpg)
+
+La gran final
+-------------
+
+**Liga de Quito se enfrentó a Independiente del Valle**, repitiendo la final del año pasado, que terminó con victoria para la ‘U’ en penales. En el primer encuentro de la final de 2024, la **‘U’ goleó 3-0** a los rayados, dando un paso gigante hacia el título.
+
+En el partido de vuelta, a **pesar de perder 1-0**, la gran ventaja obtenida en la ida fue suficiente para que Liga se consagrara campeón por decimotercera vez en su historia.
+
+![Álex Arce, delantero de Liga de Quito, celebra un gol en la final de ida de la Liga Pro ante Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/12/20241207140923-fbl-ligapro-primera-final-liga-independiente-1024x681.jpg)
+
+Día del Otaku: Todo lo que necesitas saber sobre la comunidad que celebra el anime y el manga
+=============================================================================================
+
+La subcultura otaku abarca vestimenta, gustos y un estilo de vida único.
+------------------------------------------------------------------------
+
+![Otaku: apasionados que viven y crean cultura japonesa. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/Otakus.jpg)
+
+La **subcultura otaku** ha emergido como un fenómeno cultural significativo en los últimos años. De hecho, el **Día Mundial del Otaku** se celebra el 15 de diciembre, una fecha en la que los **amantes del anime y el manga** conmemoran su pasión por la **cultura japonesa**. 
+
+### Más noticias
+
+* [¿Qué es el Día del Orgullo Friki? ¿En qué se diferencia de ‘otaku’, ‘geek’ y ‘nerd’?](https://www.elcomercio.com/afull/dia-friki-otaku-anime-historia-efemeride.html "https://www.elcomercio.com/afull/dia-friki-otaku-anime-historia-efemeride.html") 
+* [‘Anime’, ‘cosplay’, invitados internacionales y más en Budokan Quito 2024](https://www.elcomercio.com/tendencias/cultura/budokan-anime-comics-eventos-quito.html "https://www.elcomercio.com/tendencias/cultura/budokan-anime-comics-eventos-quito.html") 
+
+Su relevancia se manifiesta en el creciente **interés por el anime, el manga y la cultura japonesa** a nivel global. Este movimiento no solo atrae a un grupo demográfico específico, sino que también se convierte en un **punto de encuentro cultural** para personas de diversas edades y antecedentes.  
+
+El término “otaku” se refiere a aquellos que tienen una **profunda conexión con estos elementos culturales**, Ya que dedican tiempo y recursos a su consumo y creación, de acuerdo con [Clarín](https://www.clarin.com/internacional/otaku-origen-costumbres-tipos-considera-sos-seguidor_0_1mXjIjOpu9.html "https://www.clarin.com/internacional/otaku-origen-costumbres-tipos-considera-sos-seguidor_0_1mXjIjOpu9.html"). 
+
+**¿Qué significa ser otaku?**
+-----------------------------
+
+Desde sus **inicios en Japón** en la década de 1970, el **concepto de otaku** ha evolucionado significativamente. Originalmente, se utilizaba para describir a personas **obsesionadas con el anime y el manga**, pero con el tiempo ha adquirido una connotación más amplia. Hoy en día, ser un otaku implica una **identificación con una cultura** que incluye no solo la visualización de series y películas, sino también la **participación activa** en comunidades que crean contenido original, a decir de [UOC](https://www.uoc.edu/es/news/2023/301-otakus-japon "https://www.uoc.edu/es/news/2023/301-otakus-japon").  
+
+**Consejos para entender mejor a los otakus**
+---------------------------------------------
+
+### **Vestimenta** 
+
+La vestimenta es un aspecto fundamental de la identidad otaku. El **‘cosplay’**, o disfrazarse como **personajes de anime o videojuegos**, es una práctica común en convenciones. **Los otakus personalizan su ropa** con imágenes de sus personajes favoritos, lo que no solo refleja su afición, sino que también actúa como un **signo de pertenencia** a esta comunidad, según [Crehana](https://www.crehana.com/blog/estilo-vida/que-es-el-anime/ "https://www.crehana.com/blog/estilo-vida/que-es-el-anime/"). 
+
+Además, los **colores de cabello vibrantes** y estilos únicos son comunes entre los otakus, especialmente entre las mujeres, quienes suelen optar por tonos como rosa o violeta. 
+
+### **Gustos** 
+
+Los gustos dentro de la **subcultura otaku** son diversos y abarcan varios medios. Los **anime y manga** son pilares fundamentales, pero también incluyen v**ideojuegos y música japonesa**. Series populares como ‘Attack on Titan’ y ‘My Hero Academia’ son referencias comunes entre los aficionados. 
+
+Además, los otakus suelen disfrutar de géneros específicos dentro del anime, como el **‘mecha’ o el ‘spokon’**, que ofrecen narrativas ricas y emocionantes, siguiendo con Crehana. 
+
+### **Lenguaje** 
+
+El **lenguaje utilizado** por los otakus incluye términos específicos que reflejan su cultura. Palabras como **“kawaii” (lindo) o “senpai” (mentor)** son ejemplos de cómo este grupo utiliza **el japonés para expresar conceptos** que son significativos dentro de su comunidad. Este lenguaje crea un sentido de exclusividad y pertenencia entre sus miembros, a decir de UOC.  
+
+### **Interacciones sociales** 
+
+Las interacciones sociales son otro componente clave del mundo otaku. **Las convenciones** se han convertido en eventos centrales donde los aficionados se reúnen para **compartir su pasión**. Estos eventos permiten a los otakus socializar, intercambiar ideas y exhibir sus disfraces. La comunidad también se extiende a **foros en línea** donde se discuten teorías sobre tramas y personajes, lo que crea un espacio para la colaboración creativa. 
+
+**Relevancia actual** 
+----------------------
+
+El **Día Mundial del Otaku**, celebrado cada 15 de diciembre, ha contribuido a **aumentar la visibilidad y aceptación** de esta subcultura. La popularidad de **plataformas de ‘streaming’**, como Crunchyroll, que ofrecen anime ha hecho que más personas se interesen por esta cultura. El fenómeno otaku no solo se limita al consumo; también abarca la creación de ‘fanart’ o ‘doujinshi’, desafiando las nociones tradicionales sobre los consumidores de cultura pop. 
+
+**La cultura otaku en el mundo y en Ecuador**
+---------------------------------------------
+
+En Ecuador, la **cultura otaku** ha crecido tanto que cuenta con varios **almacenes especializados** donde los fanáticos de este estilo pueden encontrar todo lo relacionado con sus series de anime y manga favoritas. Asimismo, hay restaurantes y hasta cines que apuestan por presentar **películas de anime en cartelera**. Un ejemplo de esto es la reciente adaptación al estilo anime de una obra de Tolkien, ‘La Guerra de los Rohirrim’. Además, existen grandes **festivales otaku** anuales como el **[Ichiban](https://www.facebook.com/ichiban.ecuador.9/?locale=es_LA "https://www.facebook.com/ichiban.ecuador.9/?locale=es_LA") y el [Budokan](https://www.instagram.com/budokanec/?hl=es "https://www.instagram.com/budokanec/?hl=es")**. 
+
+### Te recomendamos:
+
 Ernesto Albán Gómez
 ===================
 
@@ -57,35 +1054,6 @@ Desde esta columna, mi solidaridad y sentido pesar a su distinguida familia, ser
 
 Infinitas gracias, hasta siempre respetado y apreciado Maestro. La vida es efímera, pero el legado no…
 
-Cartas a Quito / 15 de diciembre de 2024
-========================================
-
-Estas son las cartas a Quito de este domingo 15 de diciembre de 2024
---------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-El Valle de Uravía y la consulta ambiental a la comunidad 
-----------------------------------------------------------
-
-“Toda decisión o autorización estatal que pueda afectar al ambiente deberá ser consultada a la comunidad, a la cual se informará amplia y oportunamente.” (Constitución de Montecristi, 2008) 
-
-El valle de Uravía, ubicado en la parroquia de Checa, Distrito Metropolitano de Quito, se encuentra en un grave riesgo estos días, ante la eventual decisión de la Empresa Metropolitana de Agua Potable y Saneamiento (EPMAPS) de construir en sus predios, una planta de tratamiento de aguas residuales (PTAR), trámite que no ha sido socializado con la comunidad afectada, como tampoco se ha realizado la consulta ambiental que contempla la Constitución. 
-
-Según el art. 71 de la Constitución, toda persona, comunidad, pueblo o nacionalidad podrá exigir a la autoridad pública el cumplimiento de los derechos de la naturaleza. Para aplicar e interpretar estos derechos se observarán los principios establecidos en la Constitución, en lo que proceda.  
-
-En el caso particular del valle de Uravía, ante el conocimiento del proyecto en mención,   solicitamos al  Ministerio del Ambiente, Agua y Transición Ecológica (MAATE) que  nos certifique si existe algún trámite ingresado para la obtención de la  licencia ambiental del proyecto PTAR – CHECA, a lo cual el MAATE, con fecha 15 de abril de 2024, nos hizo llegar el  Certificado de Intersección del proyecto de Planta de Tratamiento de Aguas Residuales para Checa, – ingresado en el 2019 en San Miguel de los Bancos, ¡¡¡…a más de 130 kms. de distancia de Checa…!!! -,   del que consta textualmente lo siguiente: “TIPO DE IMPACTO: BAJO. PTAR SECTOR CHECA, código CIIU E3700.00.03, le corresponde: REGISTRO AMBIENTAL” 
-
-Esto es, únicamente con un Registro Ambiental, obtenido automáticamente del Sistema Único de Información Ambiental (SUIA), pretendían continuar con el proyecto de la PTAR CHECA en el valle de Uravía, a pesar de que su uso de suelo corresponde a PROTECCION ECOLOGICA, a más de encontrarse inventariado en el Sistema de Información del Patrimonio Cultural del Ecuador, SIPCE, código no. AY-17-01-59-000-09-000005, desde al año 2009. 
-
-Ante el grave impacto al ecosistema que significaría  la pretendida construcción  de una planta de tratamiento de aguas residuales (PTAR)  en  el valle de Uravía,  se debe obligatoriamente realizar la respectiva consulta ambiental  a la comunidad, conforme ordena el art. 398 de la Constitución, previo a la  tramitación de  una licencia ambiental y del  inicio de cualquier proyecto constructivo  en el sitio, además de que se deben obtener todos los permisos adicionales que se requieran del Instituto Nacional de Patrimonio Cultural (INPC), al tratarse de un yacimiento arqueológico debidamente inventariado en el SIPCE. 
-
-A más de lo señalado, existe una socialización realizada en la parroquia de Checa, con fecha 18 de  marzo del 2023, por la consultora HAZEN AND SAWYER, con el fin de “supuestamente” cumplir con uno de los requisitos necesarios para la obtención de la LICENCIA AMBIENTAL, pero en dicha socialización aparecen únicamente las firmas de catorce personas, cuando la parroquia de Checa tiene más de nueve mil habitantes,  lo que transforma a dicha “socialización” en una auténtica burla a los chequenses y una tomadura de pelo de la  EPMAPS y de la  consultora HAZEN AND SAWYER a la comunidad. 
-
-Definitivamente, la participación ciudadana es clave en este tipo de proyectos de gran impacto ambiental, por lo que estaremos atentos de que se hagan las cosas respetando estrictamente el marco legal existente, esto es, se obtenga la Licencia Ambiental correspondiente, previa la realización de la consulta ambiental a la comunidad, sobre la conveniencia o no, de construir el  proyecto denominado Planta de Tratamiento de Aguas Residuales – Checa”, por parte de la EPMAPS en el milenario valle de Uravía. 
-
-Alfonso López J. 
-
 Turismo: Evaluación 2024
 ========================
 
@@ -110,922 +1078,3 @@ El manejo inadecuado de residuos en zonas urbanas y rurales proyecta una imagen 
 En lugar de **enfocar los recursos en la mejora de infraestructura y promoción**, algunos gobiernos locales han priorizado la organización de eventos de bajo impacto turístico y alto contenido festivo que no contribuyen a **atraer visitantes nacionales y menos internacionales**.
 
 El 2024 será recordado como un año crítico para el turismo en Ecuador. Sin embargo, la **crisis actual** también ofrece una oportunidad para implementar **reformas estructurales** que requieren un **liderazgo político** aun ausente y una colaboración entre **sectores público y privado** que no termina de cuajar.
-
-Crisis del Maíz en Ecuador ¿Qué está en juego para productores, consumidores y la industria?
-============================================================================================
-
-La histórica caída en la producción de maíz afecta desde los agricultores hasta tu mesa.
-----------------------------------------------------------------------------------------
-
-![La sequía y los incendios impactaron en la producción de maíz de este 2024. Foto: Prefectura de Manabí](https://www.elcomercio.com/wp-content/uploads/2024/12/maiz_1_720.jpg)
-
-La producción de **maíz duro amarillo** en **Ecuador** disminuyó por condiciones climáticas adversas y factores económicos, afectando a todos los eslabones de la cadena productiva. Esto genera un aumento en los costos de producción de alimentos, comercialización y, por ende, en los precios al consumidor.
-
-Más noticias
-------------
-
-* [Ecuador necesita cubrir un déficit de 152 mil t de maíz para evitar escasez en 2025](https://www.elcomercio.com/actualidad/danilo-palacios.html "https://www.elcomercio.com/actualidad/danilo-palacios.html")
-* [La importación de maíz amarillo se adelanta por la sequia en Ecuador](https://www.elcomercio.com/actualidad/negocios/importacion-maiz-amarillo-adelanta-sequia-ecuador.html "https://www.elcomercio.com/actualidad/negocios/importacion-maiz-amarillo-adelanta-sequia-ecuador.html")
-
-Caída histórica de la cosecha de maíz duro amarillo
----------------------------------------------------
-
-El **primer ciclo de invierno** (de enero a julio) de este 2024 muestra una **caída del 16,6%** en el número de hectáreas cosechadas de maíz duro amarillo.
-
-La producción de este insumo clave para la alimentación humana y animal se concentra en **seis provincias** del país. Pero **Loja**, debido a la sequía, es la más impactada.
-
-El área cosechada, que el **Ministerio de Agricultura y Ganadería (MAG)** calcula a partir de imágenes satelitales, muestra una disminución significativa, entre **2021 y 2024**.
-
-Las hectáreas cosechadas por los productores lojanos en el ciclo invernal pasó de 41 938 a 26 887, en estos años (**ver cuadro interactivo**). Esto representa una disminución histórica de **\-35,8%.** Las zonas maiceras más afectadas por la falta de lluvias ha sido **Puyango, Calvas y Pindal.**
-
-La provincia manabita, que alcanzó la mayor cantidad de hectareaje cosechado en 2021, también bajó un 21,7%. El Oro, que ya tenía una área cosechada pequeña, se redujo en 32,9%.
-
-Para el **ministro de Agricultura, Danilo Palacios**, una de las debilidades es que el 80% de los agricultores carecen de sistemas de riego eficientes.
-
-También afrontan un incremento de precios de ciertos insumos y fertilizantes. Por ejemplo, los 50 kg de urea llegó a costar 52 dólares en marzo del 2022, influenciado por la guerra entre Rusia y Ucrania. En los dos últimos años, el costo de este insumo se redujo a menos de 30 dólares. Pero aún hay fluctuaciones: entre febrero y marzo de este 2024, meses que corresponden al primer ciclo, el precio subió de 24 a 26 dólares. Alzas similares se ve en [fungicidas, herbicidas e insecticidas](https://sipa.agricultura.gob.ec/boletines/nacionales/agroquimicos/2024/boletin_agroquimicos_marzo_2024.pdf).
-
-Los Ríos y Guayas, segunda y tercera provincia productoras de maíz, son las menos impactadas.
-
-Con menor oferta de maíz proyectada ganan los importadores
-----------------------------------------------------------
-
-Frente a una menor cosecha en este 2024 y la presión de los industriales para que se autorice la importación, los técnicos del MAG establecieron a cuánto asciende el déficit. De esta forma, el ministro del ramo cuenta con datos para tomar medidas.
-
-Para establecer dicho déficit sumaron la producción neta del primer ciclo de invierno con una proyección de la producción del segundo ciclo seco, que arrancó, entre mayo y junio del 2024 y se extendió hasta noviembre, con la cosecha, según el MAG.
-
-La oferta disponible de maíz del primer ciclo, luego de descontar las pérdidas por desgranado, transporte, estiva, desestiba; autoconsumo y alimentación animal, se fijó en 1,32 millones de toneladas. En tanto, la producción del segundo ciclo se proyectó en 262 763 toneladas. Esta cifra es mucho menor a las producciones de los tres años anteriores. Por ejemplo, el año pasado fue de 380 955 toneladas.
-
-Esta reducción en la cantidad de maíz, según los técnicos, se debe principalmente a la sequía.
-
-Tras el cálculo, oficialmente se estableció que la oferta hasta marzo de 2025 asciende a 1,56 millones de toneladas de maíz,, versus una demanda de 1,72 millones de toneladas. La diferencia entre esta oferta y demanda dio como resultado un déficit de 152 650 toneladas. Este vacío se cubrirá, en parte, con una importación de 95 mil toneladas, por lo que los ganadores en esta ecuación son los importadores.
-
-Intermediarios, otros ganadores de la cadena del maíz
------------------------------------------------------
-
-Aurelio Zea, de la **Asociación de Maiceros Montubios El Roble de Los Ríos**, explica que un quintal de 102 libras de maíz húmedo y sucio y 30% de humedad se está vendiendo en 15,50 dólares. Y, si el nivel de humedad baja a 23% o menos, el precio de venta del productor sube a 18 dólares.
-
-Este valor ya es 1,50 dólares más que el precio mínimo de sustentación de 16,50 dólares, establecido por el Gobierno para este 2024.
-
-Los comerciantes o intermediarios, que compran a los agricultores, se encargan de la limpieza y el secado. El valor del transporte es adicional y varía, entre la Sierra y la Costa.
-
-Actualmente, Jorge Josse, presidente de Aprobal (Asociación de Productores de Alimentos Balanceados), explica que compran a los intermediarios un quintal en 20 dólares, en promedio, en Los Ríos y se transporta a Guayaquil. El flete por quintal es de 0,60 centavos, añade Zea. En Ambato, el quintal sube a una media de 22 dólares y un dólar por quintal de transporte, coinciden Josse y Zea.
-
-Durante los dos operativos realizados este año, entre el MAG y el INEN para controlar los equipos de medición y precios, en Manabí, Guayas y Los Ríos, se confirmaron dos problemas:
-
-* Uso de equipos descalibrados para medir la humedad y el peso del grano de maíz
-* No cumplimiento del pago del quintal a los comerciantes, conforme a la tabla de calificación basada en el precio mínimo de 16,50 dólares
-
-En consecuencia, Josse calcula que con estas cifras y una demanda de la industria de 115 mil toneladas por mes, el sobreprecio que paga toda la cadena del maíz suma 108 millones de dólares.
-
-Repercusión en la industria avícola, porcina y procesados
----------------------------------------------------------
-
-La industria de alimentos balanceados utiliza más del 40% de la producción nacional de maíz amarillo. El 30% se destina a la producción de aves y huevos y un 10% a la producción porcícola, según el MAG.
-
-El maíz representa un 60% de la dieta de **pollos, gallinas y cerdos**. Los precios de estos alimentos también han tenido variaciones al alza, con lo cual se afecta la economía de los consumidores.
-
-En noviembre de 2024, una cubeta de **30 huevos** medianos, en promedio, se pagó al productor 3,03 dólares, pero el consumidor consigue de 3,50 dólares en adelante. El ministro Palacios explicó a este medio que los productores prefieren vender las gallinas antes de que pongan los huevos para no perder.
-
-Según la **Corporación Nacional de Avicultores del Ecuador**, hay más de 13 millones de gallinas ponedoras en producción en el país y generan 10 millones de huevos diarios.
-
-Los precios de la libra de pollo en pie ha tenido fluctuaciones en este año. Para el productor, el MAG reporta un costo de 0,79 centavos de dólar, en noviembre, siete centavos más que en noviembre del 2023. Mientras que el consumidor encuentra la **libra de pollo** desde 1,10 dólares en adelante.
-
-El pollo entero figura en el tercer puesto de los alimentos con mayor incidencia en el índice inflacionario de noviembre pasado.
-
-Una tendencia similar al alza ocurre con los precios de la libra de **carne de cerdo**.
-
-Los consumidores de alimentos procesados (harinas, aceites, empacados) también pagan más, por la caída en la producción del maíz y los costos adicionales por la intermediación. Un litro de aceite vegetal, en Ambato, en enero pasado, se conseguía en 1,68 dólares, ahora subió a 1,94 dólares.
-
-Medidas urgentes a favor de toda la cadena productiva del maíz
---------------------------------------------------------------
-
-Las estrategias de riego tecnificado, por goteo y aspersión, para optimizar el uso del agua en la agricultura, deben implementarse de forma masiva por los maiceros, con el acompañamiento de los técnicos del MAG. Asimismo, las asistencias técnicas, por parte del Estado, deben extenderse, con el fin de que los productores saquen adelante sus siembras y no se vayan a otros productos, como el cacao.
-
-Aprobal, por su parte, hizo un llamado al Ministerio y, en general al sector maicero, para que se establezcan programas de transferencia de tecnología que permitan aumentar la productividad y reducir los costos unitarios, por quintal, de producción del maíz.
-
-Estas y otras acciones deben apuntar a que el sector logre competir con Perú y Colombia, en donde se puede adquirir un quintal de maíz, entre 10 y 12 dólares.  
-
-Liga de Quito, el tri-bicampeón: el saludo de Claudio Bieler
-============================================================
-
-El 'Taca' Claudio Bieler aprovechó el campeonato ganado por Liga de Quito para saludar al 'Rey de copas' de Ecuador
--------------------------------------------------------------------------------------------------------------------
-
-![Claudio Bieler, exjugador de Liga de Quito, felicitó al cuadro albo y a los nuevos campeones de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-16.jpg)
-
-**Claudio Bieler**, exdelantero de **Liga de Quito** y figura clave en la conquista de la **Copa Libertadores 2008**, no dejó pasar la oportunidad para felicitar al equipo universitario que se consagró **campeón** de Ecuador este 14 de diciembre del 2024.
-
-Este día, los jugadores albos celebraron el título número 13 de su historia, tras superar a **Independiente del Valle** (IDV) en la final, con un marcador global de 3-1.
-
-### Más noticias:
-
-* [Una masiva caravana de Liga de Quito se dirige a la pileta de la Universidad Central](https://www.elcomercio.com/deportes/futbol/liga-quito-campeon-caravana-hinchas-pileta-central.html "Una masiva caravana de Liga de Quito se dirige a la pileta de la Universidad Central")
-* [Liga de Quito dedicó el título al fallecido Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-quito-titulo-marco-angulo.html "Liga de Quito dedicó el título al fallecido Marco Angulo")
-* [Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-hinchas-estadio-campeon-ligapro.html "Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro")
-
-Claudio Bieler y Liga de Quito
-------------------------------
-
-A través de sus redes sociales, el ‘Taca’ expresó su apoyo al club que le dio tanto y escribió:
-
-“Felicidades tri-bicampeón **Liga de Quito**, salud ‘Rey de copas'”.
-
-Liga campeón
-------------
-
-Aunque **Liga de Quito** perdió 0-1 en el partido de vuelta, jugado en el estadio de IDV, el resultado conseguido en el Rodrigo Paz Delgado (3-0) fue suficiente para asegurar el triunfo global.
-
-El paraguayo **Álex Arce** y el boliviano Gabriel Villamil, autores de los goles en la ida, fueron clave en el éxito final del conjunto universitario.
-
-Los jugadores de **LDU** recibieron sus medallas y celebraron el campeonato ante los emocionados hinchas que viajaron para acompañar a su equipo.
-
-La premiación estuvo marcada por un ambiente de camaradería, incluso entre los jugadores y cuerpos técnicos de ambos equipos, quienes se abrazaron al final del encuentro, destacando el respeto mutuo en la competencia.
-
-Con este título, **LDU** refuerza su legado y se posiciona como el primer bicampeón de la Liga Pro, un reconocimiento que resalta el trabajo de los jugadores, cuerpo técnico y directiva.
-
-Además, son tres veces bicampeones en el fútbol ecuatoriano cuyo torneo se disputa desde 1957.
-
-![](https://www.elcomercio.com/wp-content/uploads/2023/04/biler-700x391.jpg)
-
-Claudio Bieler festeja un gol de Liga ante Barcelona en el 2012. Foto: EL COMERCIO
-
-Una masiva caravana de Liga de Quito se dirige a la pileta de la Universidad Central
-====================================================================================
-
-Los hinchas de Liga de Quito empiezan a reunirse en la Universidad Central. El equipo se dirigirá desde el estadio de IDV hasta ese lugar.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-15-1.jpg)
-
-**Liga de Quito** se coronó **campeón** de la **Liga Pro 2024** y sus hinchas empezaron a recorrer las calles de la capital ecuatoriana para culminar sus festejos en la **pileta de la Universidad Central**, en el centro norte de Quito.
-
-Los **jugadores,** después de la **premiación**, también recorrerán por varias vías y pasarán por la **Central.**
-
-Los albos superaron al **Independiente del Valle** en el marcador global, para adueñarse del título este 14 de diciembre del 2024.
-
-### Más noticias:
-
-* [(En vivo) Independiente y Liga de Quito empatan 0-0 en la final](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "(En vivo) Independiente y Liga de Quito empatan 0-0 en la final")
-* [Hinchas de Independiente creen en la remontada ante Liga de Quito](https://www.elcomercio.com/deportes/hinchas-independiente-creen-remontada-liga.html "Hinchas de Independiente creen en la remontada ante Liga de Quito")
-* [Posibles alineaciones de Liga de Quito e Independiente del Valle para la final](https://www.elcomercio.com/deportes/futbol/alineaciones-final-vuelta-liga-quito-independiente.html "Posibles alineaciones de Liga de Quito e Independiente del Valle para la final")
-
-Liga de Quito campeón
----------------------
-
-**Independiente** ganó 1-0 a **Liga**, pero eso no alcanzó.
-
-Al final, con un **marcador global de 3-1**, Liga de Quito alcanzó su título de campeón número 13 en los torneos nacionales que se disputan en Ecuador desde 1957.
-
-Este logro desató la alegría de **miles de hinchas** que celebran en varios lugares icónicos del país.
-
-En Quito, el punto de reunión principal será la pileta de la **Universidad Central del Ecuador**, ubicada en el centro norte de la capital ecuatoriana.
-
-Ese es el lugar en el que históricamente los hinchas albos celebran sus triunfos.
-
-Este 14 de diciembre **LDU** visitó al **IDV,** pero la ventaja alcanzada la semana pasada en el estadio Rodrigo Paz Delgado (3-0) fue suficiente para coronarse como bicampeones de la **Liga Pro**. Esto, porque en el 2023 también alzaron el título.
-
-Luego del triunfo, los hinchas de Liga se empezaron a dirigir hacia la **Universidad Central.**
-
-Así lo hicieron los que llegaron para apoyar al equipo en la cancha del IDV, como también quienes se reunieron en el estadio Rodrigo Paz Delgado para ver por la televisión la transmisión del partido.
-
-Además, muchos hinchas de manera individual también se dirigen hacia la pileta de la Central desde todos los puntos de Quito y sus alrededores.
-
-La caravana de Liga hacia la pileta
------------------------------------
-
-El equipo campeón de Liga de Quito se dirigirá a la Universidad Central, donde los esperarán sus eufóricos fanáticos.
-
-Saldrán desde el estadio de IDV, seguirán por la avenida General Rumiñahui, El Trébol, Coliseo General Rumiñahui y llegarán a la Universidad Central.
-
-Luego, los jugadores seguirán hasta la Plaza de las Américas y se finalizará en las Naciones Unidas, en el boulevard.
-
-> ¡ALIENTA AL BICAMPEÓN! 🙌🥹  
->   
-> Nos vemos en un rato, liguistas de 🤍 [pic.twitter.com/IWeYujDEab](https://t.co/IWeYujDEab)
-> 
-> — LDU Oficial (@LDU\_Oficial) [December 14, 2024](https://twitter.com/LDU_Oficial/status/1868072028923703495?ref_src=twsrc%5Etfw)
-
-13 títulos de Liga de Quito
----------------------------
-
-**LDU** alcanzó los 13 títulos de campeón en Ecuador. Iguala en esa cifra con **El Nacional** y estrecha la brecha con **Emelec** (14) y **Barcelona SC** (16).
-
-Luego, le siguen **Deportivo Quito** (5) y con un título Aucas, IDV, Delfín, Deportivo Cuenca, Olmedo y Everest.
-
-Sumados otros trofeos nacionales y los cinco títulos internacionales, Liga de Quito llegó a las 21 estrellas. Es el que más ganó en Ecuador.
-
-La Luna Fría brillará este diciembre y será visible desde Ecuador
-=================================================================
-
-La Luna Fría, última luna llena del año, será visible el 15 de diciembre.
--------------------------------------------------------------------------
-
-![La Luna Fría: un fenómeno celestial (imagen referencial). Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/Luna-Fria.jpg)
-
-El 15 de diciembre de 2024, el **cielo nocturno de Ecuador** se engalanará con la **Luna Fría**, la **última luna llena del año**. Este **fenómeno astronómico**, que marca el **cierre del calendario lunar**, será visible desde todo el país, siempre que las condiciones meteorológicas lo permitan. La **Luna Fría** es un evento esperado por los **amantes de la astronomía** y la naturaleza, ya que ofrece una conexión especial con el cosmos. 
-
-### Más noticias
-
-* [Helicóptero de la NASA detectó fragmentos de una nave espacial](https://www.elcomercio.com/tecnologia/nasa-helicoptero-marte-nave-espacial.html "https://www.elcomercio.com/tecnologia/nasa-helicoptero-marte-nave-espacial.html") 
-* [Calendario de los eventos astronómicos más importantes de este 2024](https://www.elcomercio.com/tendencias/ciencia/astronomia-calendario-planetas-ecuador.html "https://www.elcomercio.com/tendencias/ciencia/astronomia-calendario-planetas-ecuador.html") 
-
-**Origen del nombre Luna Fría** 
---------------------------------
-
-El término **Luna Fría** proviene de las tradiciones de las **culturas indígenas de América del Norte**. Este nombre hace referencia a la **llegada del invierno y a las bajas temperaturas** que lo acompañan. Las **comunidades ancestrales** asociaban esta luna llena con el **inicio de nevadas y heladas** en el hemisferio norte. Además, se vincula con **festividades de diciembre**, lo que marca un momento significativo en el ciclo anual, según [El Diario](https://eldiariony.com/2024/12/12/la-ultima-luna-llena-del-ano-todo-sobre-la-luna-fria-de-diciembre-2024/ "https://eldiariony.com/2024/12/12/la-ultima-luna-llena-del-ano-todo-sobre-la-luna-fria-de-diciembre-2024/") de Nueva York.  
-
-**Detalles astronómicos de este fenómeno** 
--------------------------------------------
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDcb3c-qUXZ/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Observatorio Astronómico de Quito (@oaq\_ecuador)](https://www.instagram.com/p/DDcb3c-qUXZ/?utm_source=ig_embed&utm_campaign=loading)
-
-Datos interesantes para aprender más sobre astronomía, gracias a la información proporcionada por el Observatorio Astronómico de Quito. 
-
-**Fecha:** 15 de diciembre de 2024 
-
-**Hora:** Aproximadamente 02:30 (hora de Ecuador continental)   
-
-**Magnitud:** -12.39 
-
-**Distancia a la Tierra:** Aproximadamente 365 mil kilómetros 
-
-**Duración visible:** La Luna será visible desde el anochecer hasta bien entrada la madrugada 
-
-**Recomendaciones para observar la Luna Fría** 
------------------------------------------------
-
-Para disfrutar al máximo de este **evento astronómico**, se sugieren las siguientes recomendaciones: 
-
-* **Evitar la contaminación lumínica:** Busca lugares alejados de luces artificiales para apreciar mejor el cielo. 
-
-* **Usar instrumentos opcionales:** Aunque se puede observar a simple vista, utilizar prismáticos o telescopios puede revelar más detalles sobre la superficie lunar. 
-
-* **Verificar las condiciones climáticas:** Asegúrate de que el cielo esté despejado en tu ubicación para evitar que las nubes obstruyan la vista. 
-
-* **Elegir horarios adecuados:** Los momentos cercanos a la salida y puesta de la luna suelen ofrecer las mejores vistas debido al efecto óptico conocido como ilusión lunar. 
-
-Liga de Quito dedicó el título al fallecido Marco Angulo
-========================================================
-
-Marco Angulo fue contratado por Liga de Quito al inicio de la temporada 2024.
------------------------------------------------------------------------------
-
-![Camiseta con la imagen de Marco Angulo en la previa de la final de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_9.jpg)
-
-**Liga de Quito** se proclamó como el primer bicampeón de la Liga Pro la tarde de este sábado 14 de diciembre de 2024 en el estadio de Independiente del Valle, ubicado al sur oriente de la capital ecuatoriana.
-
-En la final de vuelta el partido entre **Independiente del Valle y Liga de Quito terminó 1-0**, pero el marcador global fue 3-1 por el resultado conseguido en el Rodrigo Paz Delgado, con goles del paraguayo Álex Arce (2) y el boliviano Gabriel Villamil.
-
-### Más noticias:
-
-* [¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?](https://www.elcomercio.com/deportes/liga-quito-jugadores-favoritos-vitamina-sanchez.html "¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?")
-* [Damián ‘Kitu’ Díaz sorprende a sus fanáticos en redes sociales](https://www.elcomercio.com/deportes/futbol/damian-kitu-diaz-sorprende-a-sus-fanaticos-en-redes-sociales.html "Damián ‘Kitu’ Díaz sorprende a sus fanáticos en redes sociales")
-* [Liga de Quito podría celebrar en emblemático lugar](https://www.elcomercio.com/deportes/futbol/liga-quito-pileta-universidad-central.html "Liga de Quito podría celebrar en emblemático lugar")
-
-La declaraciones de los bicampeones
------------------------------------
-
-Finalizado el partido se desató la locura de los hinchas en las gradas y de los jugadores en el terreno de juego. **Cantos y bengalas se encendieron para el festejo** que se extenderá hasta altas horas del día en Quito y en otros puntos del país.
-
-Todos los jugadores le dedicaron el título a **Marco Angulo, jugador fallecido la noche del lunes** 11 de noviembre, como consecuencia de un siniestro de tránsito registrado la madrugada del lunes 7 de octubre en la autopista que une las localidades de Quito con Sangolquí.
-
-Antes de la premiación a los campeones y vicecampeones, la Liga Pro le entregó la medalla como monarca de la Liga Pro a la familia de Angulo. La presea dorada fue colgada en el cuello del hijo del deportista que se formó y debutó en Independiente del Valle.
-
-“Contento. Le queríamos dedicar esto a Marco. **Esto va para él. Fue un año muy duro**, nos dolió mucho lo de Marco. El grupo se mantuvo unido y pudimos sacar adelante, son todos buenas personas. Que todos lo disfruten mucho”: Ezequiel Piovi.
-
-“Mucha emoción y tristeza por lo que ocurrió con Marco. **Este título se va para el cielo**, nos lo prometimos y lo cumplimos. El partido lo controlamos, manejamos los momentos y pudimos obtener el título”: Bryan Ramírez.
-
-“Como plantel y como grupo **hablamos para darle esta alegría a Marco**. Era un sueño de él y ahora se lo pudimos cumplir”: Ricardo Adé.
-
-“Este título es dedicado para Marco Angulo y toda su familia (…) Liga es **un club grande que te exige y estoy feliz de lograr** el primer título de mi carrera. Hoy puedo decir que soy un técnico campeón y en adelante puedo decir que conseguí algo en mi carrera”: Pablo ‘Vitamina’ Sánchez.
-
-“Un título muy importante para mí. Siempre quise jugar una final con Liga y estoy contento porque la gané. **Viví mi primera final con nervios, pero sacamos adelante el partido** y ahora vamos a festejar”: Daniel de la Cruz.
-
-“Un nuevo tatuaje viene en camino. **Buscaré donde ponerlo**, primero creo que será en en cuello o en otro lugar, pero me lo haré”: José Quintero.
-
-“Estoy muy contento y feliz. Va a quedar en la **historia este primer doblete de la Liga Pro** para Liga de Quito”: Leonel Quiñónez.
-
-“Es una alegría muy grande e histórico en el club. **Ahora hay que celebrarlo con la familia**, ellos se sienten orgullosos y están en los momentos difíciles. Es un orgullo compartirlo con mi hermano (Madison)”: Jhojan Julio en declaraciones para Zapping.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_10-1024x683.jpg)
-
-API.
-
-San viernes
------------
-
-Lindsay Lohan reveló cuál es ‘la sustancia’
-===========================================
-
-La actriz habló de sus trucos para un rostro radiante.
-------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/lohan-El-Comercio.jpg)
-
-**Lindsay Lohan**, conocida por su papel icónico en ‘**Mean Girls**‘, ha sido objeto de admiración por su piel radiante a los 38 años.
-
-Según comentó en su Instagram el 9 de diciembre de 2024, su dermatóloga en Dubái, la Dra. Radmila Lukian, es una de las claves para mantener su juventud.
-
-Lohan compartió una _selfie_ desde la reconocida Clínica con un texto en el que afirmó que los tratamientos de Lukian forman parte esencial de su rutina. Lukian, descrita en su sitio web como “especialista en antienvejecimiento” con más de 20 años de experiencia, ha atendido a la actriz en múltiples ocasiones.
-
-“Es un placer cuidar la salud y la belleza de tu piel”, publicó la dermatóloga en Instagram en octubre, acompañando una foto con Lohan. La especialista atribuye los resultados al diseño de programas personalizados para cada paciente, asegurando que “se necesita tiempo, experiencia y conocimiento para obtener el resultado adecuado”.
-
-Tratamientos no invasivos: el enfoque de Lohan
-----------------------------------------------
-
-Aunque los rumores sobre cirugía plástica han circulado, Lohan ha sido clara en su preferencia por tratamientos no invasivos. En una entrevista con Cosmopolitan en 2022, declaró: “Me gustan mucho las experiencias faciales no intrusivas, como los láseres”. También reveló un consejo curioso para minimizar el dolor asociado a estos procedimientos: “Pide crema anestésica y aplícatela en casa una hora antes”.
-
-Más allá de la ciencia: ¿Magia o experiencia?
----------------------------------------------
-
-Las redes sociales estallaron con preguntas tras las publicaciones de Lohan y Lukian. Ante una consulta sobre los procedimientos realizados, la dermatóloga respondió de manera enigmática: “Algún tipo de magia”, acompañando el comentario con un emoji guiñando el ojo. Esto, sumado a la imagen de perfección de Lohan, ha generado especulaciones sobre la influencia de tratamientos secretos.
-
-Antes de que Lohan hablara del tema, usuarios en redes sociales compartían teorías sobre el posible uso real de ‘La Sustancia’, el compuesto ficticio que rejuvenece a Demi Moore en la película _The Substance_.
-
-La aparición de estrellas como Lindsay Lohan y Christina Aguilera luciendo más jóvenes alimentó los rumores. Sin embargo, Lohan aclaró que su cambio se debe a tratamientos no invasivos y cuidados dermatológicos en la Clínica Lucía de Dubái. A pesar de las explicaciones, los usuarios siguen vinculando la trama de la cinta con la realidad.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDX2anOycdO/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de 👾 Nivel Gamer 🕹️ (@nivelgamer)](https://www.instagram.com/p/DDX2anOycdO/?utm_source=ig_embed&utm_campaign=loading)
-
-Un modelo a seguir en autocuidado
----------------------------------
-
-La evolución de Lohan no solo refleja el impacto de la tecnología en la dermatología, sino también la importancia de un enfoque disciplinado en el cuidado personal. En un mundo donde la imagen pública cuenta, su compromiso con procedimientos naturales y personalizados la convierte en un referente para quienes buscan alternativas no invasivas para el rejuvenecimiento.
-
-Alexander Domínguez pide estatua junto a Rodrigo Paz
-====================================================
-
-Alexander Domínguez ganó la novena estrella con Liga de Quito. Cinco son internacionales.
------------------------------------------------------------------------------------------
-
-![Alexander Domínguez con el buzo de arquero de Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_7.jpg)
-
-**Alexander Domínguez** fue la máxima figura que tuvo Liga de Quito en la final de vuelta de la Liga Pro. Los ataques de Independiente del Valle terminaron en sus manos y ahogaron las opciones de gol de los locales.
-
-Durante los 90 minutos, **Alexander Domínguez se mostró seguro y manejó**, con su experiencia, las acciones de juego, y puso nerviosos a sus rivales con los segundos que le ganaba al tiempo al momento de tener el balón en su poder.
-
-### Más noticias:
-
-* [La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito](https://www.elcomercio.com/deportes/pablo-sanchez-tatuaje-vitamina-liga-quito.html "La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito")
-* [Pichincha ampliará su dominio sobre Guayas en campeonato nacional](https://www.elcomercio.com/deportes/futbol/pichincha-guayas-titulos-campeonato-naciona.html "Pichincha ampliará su dominio sobre Guayas en campeonato nacional")
-* [Brasilia postulada como sede de la final de la Libertadores 2025](https://www.elcomercio.com/deportes/futbol/brasil-brasilia-sede-final-libertadores.html "Brasilia postulada como sede de la final de la Libertadores 2025")
-
-La temporada de Domínguez
--------------------------
-
-La vuelta fue ganada por Independiente por 1-0, pero el 3-1 en el marcador global proclamó a Liga como el primer bicampeón de la Liga Pro, **‘Dida’ alcanzó su cuarta corona nacional** y la novena en su etapa de jugador universitario que arrancó en el 2006.
-
-Para LDU es el tercer bicampeonato de su historia luego de los logrados en 1974 y 1975 con el colombiano Leonel Montoya como entrenador; y en 1998 con el brasileño Paulo Massa y en 1999 con el chileno Manuel Pellegrini.
-
-En la final salvó, al menos, tres remates que tenían destino de gol que salieron de los pies de Keny Arroyo y Renato Ibarra, los dos jugados más incisivos de los del Valle que sucumbieron ante la fortaleza del experimentado arquero.
-
-Domínguez solo se **perdió dos partidos en toda la temporada**. El primero fue en la octava fecha de la primera etapa en la victoria 2-1 ante Delfín. Esa jornada el encargado de cuidar el arco de los albos fue Gonzalo Valle.
-
-El segundo fue en la victoria 5-0 ante el Deportivo Cuenca en el cierre de la segunda etapa de la Liga Pro en un repleto estadio Rodrigo Paz Delgado, con lo que aseguraron su boleto a las finales.
-
-El esmeraldeño fue suspendido una jornada por la expulsión en la jornada precia ante la **Universidad Católica en el Olímpico Atahualpa**. Ese encuentro terminó en el arco el defensa central Richard Mina.
-
-En el resto de partidos jugó todos los minutos y lo hizo a un nivel espectacular. Transfermarkt registra que en los **30 compromiso que disputó solo recibió 29 goles**, sacó su arco invicto en 11 oportunidades y acumuló 2 655 minutos.
-
-LDU alcanzó la corona 13 del torneo nacional en su historia. Ahora comparte el tercer lugar con El Nacional, como los más ganadores del país. **Emelec se quedó con 14** y Barcelona Sporting Club es primero con 16.
-
-![Instagram del futbolista.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_8-1024x683.jpg)
-
-Instagram del futbolista.
-
-Domínguez pide estatua
-----------------------
-
-“Son nueve títulos con Liga y uno en Deportes Tolima (Colombia). Ojalá no salgan a matarme algunos exfutbolistas. Estoy contengo y orgulloso. Hay que disfrutar con la familia que son los únicos que están en los momentos difíciles”, mencionó el portero.
-
-“Voy a hablar con el doctor (Isaac Álvarez) **para que me hagan una estatua junto a la de don Rodrigo** (Paz). Nadie ha ganado más título que yo en este club”, aseguró en medio de los festejos por el nuevo título en su cuenta personal.
-
-“La pasé muy mal cuando me suspendió la **Conmebol y no puede estar ante Lanús en la Copa Sudamericana** y también cuando no me convocaron a la Selección de Ecuador, pero ahora es momento  
-de festejar”, reflexionó sobre el momento complicado de la temporada.
-
-Finalmente, sobre su futuro, no descartó la opción de abandonar el equipo para jugar en Perú en el Alianza Lima, aunque recordó que tiene contrato por dos años con los capitalinos en declaraciones brindadas a Zapping.
-
-San viernes
------------
-
-Las faldas midi vaqueras son los nuevos jeans
-=============================================
-
-¿Cómo usar tu falda midi todo el año en Quito?
-----------------------------------------------
-
-![Outfits con falda vaquera](https://www.elcomercio.com/wp-content/uploads/2024/12/falda-vaquera-midi-El-Comercio-5.jpg)
-
-Las **faldas midi vaquera**s son un básico que nunca pasan de moda. Su longitud por debajo de la rodilla la hace ideal para **climas** como el de **Quito**, donde el sol y la lluvia pueden alternar en un mismo día.
-
-Además, al estar hecha de denim, combina durabilidad con estilo, lo que la convierte en una pieza imprescindible. Según Harper’s Bazaar, las faldas midi son versátiles y se adaptan a _looks_ casuales y formales dependiendo de cómo se estilicen.
-
-Según Harper’s Bazaar, esta prenda ha ganado terreno en los últimos años como un must-have en los guardarropas modernos.
-
-### Más noticias
-
-* **[‘Jeans’ con ‘jeans’, la tendencia que facilita la elección de tus ‘outfits’ diarios](https://www.elcomercio.com/tendencias/total-look-denim-moda-quito-jeans.html "https://www.elcomercio.com/tendencias/total-look-denim-moda-quito-jeans.html")**
-* **[Jeans ‘a la carta’ para probar a diario en Quito](https://www.elcomercio.com/tendencias/tipos-jeans-quito-flare-skinny-cuffed.html)**
-
-En Ecuador, distintas tiendas de ropa ya la ofertan en diferentes tonalidades de azul _denim_. Desde versiones más claras que evocan un estilo _vintage_, hasta tonos oscuros para un _look_ más formal, las opciones son amplias.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/falda-vaquera-midi-El-Comercio-5-1024x683.jpg)
-
-Además, hay marcas que le han agregado detalles que la hacen única: flecos, brillos sutiles, bolsillos funcionales y aberturas estratégicas que le aportan un toque de modernidad y movimiento.
-
-**¿Por qué se llama falda “midi”?**
------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/falda-vaquera-midi-El-Comercio-6-1024x683.jpg)
-
-El término “midi” hace referencia al largo característico de esta prenda, que se encuentra a medio camino entre una falda corta y una larga. Generalmente, su dobladillo termina justo por debajo de las rodillas o la mitad de las pantorrillas.
-
-Según Vogue, este largo se popularizó en la década de 1940, gracias a diseñadores como Christian Dior, quien lo incluyó en su famoso New Look.
-
-El concepto detrás del midi es su versatilidad: cubre lo suficiente para ser formal, pero deja entrever un poco de piel, lo que la hace favorecedora para todas las figuras. En 2024, esta falda es un ícono de estilo que se reinventa en tejidos como el _denim_ para un _look_ más contemporáneo.
-
-¿**Cómo llevar la falda midi vaquera en invierno**?
----------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/falda-vaquera-midi-El-Comercio-1-1024x683.jpg)
-
-Para los días fríos, combina tu **falda midi vaquera con un suéter de punto grueso** y **botas altas**. Esta mezcla te mantendrá abierta sin perder estilo. Completa el _look_ con una bufanda y una **chaqueta _oversize_**, de preferencia de cuero o lana.
-
-_Vogue_ recomienda optar por tonalidades neutras en invierno para lograr un atuendo elegante y funcional. Si necesitas un toque extra de calor, las medias térmicas en colores oscuros son el complemento ideal.
-
-**Estilo veraniego con falda vaquera**
---------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/falda-vaquera-midi-El-Comercio-2-1024x683.jpg)
-
-En verano, esta prenda se transforma en la estrella de un _look_ fresco y relajado. Un _crop top_ o una blusa ligera en tonos pastel son elecciones acertadas. Según Who What Wear, los tops sin hombros y camisetas ajustadas funcionan especialmente bien con la silueta de la falda midi. Las sandalias planas o plataformas son perfectas para un estilo casual, mientras que unas alpargatas pueden elevar el _outfit_ para ocasiones más formales.
-
-**Clásica y moderna**
----------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/falda-vaquera-midi-El-Comercio-1-1-1024x683.jpg)
-
-La falda midi vaquera ha evolucionado desde sus raíces clásicas en la moda de los años setenta. En 2023, marcas como Levi’s y Zara han apostado por versiones con detalles modernos como cortes asimétricos, botones frontales o bordados, según Elle. Esta prenda puede ser tanto minimalista como llamativa, dependiendo de cómo se combine.
-
-**Una inversión en versatilidad**
----------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/falda-vaquera-midi-El-Comercio-3-1024x683.jpg)
-
-Si bien la moda cambia constantemente, invertir en piezas clave como una falda midi vaquera asegura que tu guardarropa se mantenga relevante. Desde capas en invierno hasta telas ligeras en verano, esta prenda se adapta a cualquier estación y estilo personal. Como señala Marie Claire, es la definición de funcionalidad y estilo en una sola prenda.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/falda-vaquera-midi-El-Comercio-4-1024x683.jpg)
-
-Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro
-================================================================
-
-Hinchas de Liga de Quito llegaron al estadio Rodrigo Paz para alentar al 'Rey de copas' a la distancia. LDU ganó el campeonato.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Hinchas de Liga de Quito festejaron el título en el estadio Rodrigo Paz Delgado.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-14.jpg)
-
-**Liga de Quito** e **Independiente del Valle** se enfrentaron en la final de la Liga Pro 2024 y la afición alba no solo se hizo presente como visitante en el reducto de los rayados, sino en su casa. Los universitarios abrieron su estadio y sus hinchas pudieron presenciar el partido a la distancia.
-
-Este sábado 14 de diciembre del 2024, los albos jugaron en dos canchas a partir de las 15:00. La una fue la de Independiente del Valle y la otra el **Estadio Rodrigo Paz Delgado,** donde sus aficionados acudieron como si se tratase de un partido regular.
-
-### Más noticias:
-
-* [Liga de Quito se proclamó como Bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como Bicampeón de la Liga Pro")
-* [Hinchas de Independiente creen en la remontada ante Liga de Quito](https://www.elcomercio.com/deportes/hinchas-independiente-creen-remontada-liga.html "Hinchas de Independiente creen en la remontada ante Liga de Quito")
-* [Liga de Quito, a un paso de igualar a El Nacional en campeonatos ecuatorianos](https://www.elcomercio.com/deportes/liga-quito-titulos-el-nacional-barcelona-cantidad.html "Liga de Quito, a un paso de igualar a El Nacional en campeonatos ecuatorianos")
-
-Liga de Quito
--------------
-
-Después de imponerse en la final de ida por un marcador de 3-0, la dirigencia azucena decidió que retransmitiría la final en su recinto. Para ello instaló pantallas gigantes en el centro de la cancha y posicionó a los aficionados en las tribunas para que presencien el partido.
-
-Desde las 13:45, el escenario deportivo abrió las puertas para que sus hinchas ingresen. Asimismo, estos se agolparon en los exteriores del Rodrigo Paz Delgado, independientemente de que poseen entrada o no.
-
-Fiebre por Liga de Quito en Ponceano
-------------------------------------
-
-Aunque no era día de partido en el **Rodrigo Paz Delgado**, las calles de los alrededores se pintaron de blanco. Cobijados en banderas, con la camiseta de **Liga de Quito** y en soledad o con amigos y familia, los hinchas albos se acercaban al estadio.
-
-El clima de ímpetu estaba impulsado por el resultado previo y la afición estaba convencida de que si su equipo no ganaba, por lo menos, sería campeón**. Hinchas** como Andrea Murillo se mostraron emocionados y con nerviosismo y señalaron que esperaban un nuevo título a los 12 ligueros con los que ya cuenta.
-
-Al interior del estadio, el escenario no fue demasiado distinto. Las barras de los hinchas de Liga de Quito eran la banda sonora del lugar y la constante durante el compromiso.
-
-Un estadio que vibró con el campeonato de Liga de Quito
--------------------------------------------------------
-
-En el interior del Rodrigo Paz Delgado, los hinchas no dejaron de alentar y tuvieron un espectáculo complementario al partido. Antes de que se emita el cotejo, los hinchas albos contaron con un espectáculo musical y show artístico. Asimismo, ‘Cocodrigo’, mascota de los albos hizo su aparición.
-
-La efervescencia fue en aumento cuando, en las pantallas, se movió el balón. La primera jugada que por poco no terminó en gol, desató los gritos de los azucenas y marcó el ritmo de cómo vivirían el resto del compromiso.
-
-En función del histórico momento para Liga, inclusive, hubo aficionados que invadieron accesos no autorizados en el estadio. Pese a ello, estos fueron desalojados.
-
-A minutos de que acabe el cotejo y los albos se coronen campeones de la Liga Pro 2024, una bandera gigante saltó al terreno de juego. Una ilustración con la palabra “campeones”, la copa de la Liga Pro y el número 13 debido a la nueva estrella cerraron la jornada e inauguraron los momentos de máximo júbilo de los albos.
-
-Una vez que sonó el pitazo final, la euforia, los abrazos y la celebración en comunión de los hinchas primó. El show musical volvió para animar la fiesta y los aficionados se dispusieron a dirigirse hacia la Universidad Central, donde continuaría la fiesta.
-
-Liga de Quito se proclamó como bicampeón de la Liga Pro
-=======================================================
-
-Independiente del Valle fue campeón de la Liga Pro en 2021, mientras que Liga en 2023.
---------------------------------------------------------------------------------------
-
-![Jugadores de Liga de Quito con el trofeo de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/trofeo_liga-1.jpg)
-
-**Liga de Quito** se proclamó como el primer bicampeón de la Liga Pro. Lo hizo la tarde de este sábado 14 de diciembre de 2024, en el estadio de Independiente del Valle.
-
-El marcador fue 1-0 en favor de **Liga de Quito con un gol del paraguayo Luis Zárate a los 90+6′** del segundo tiempo, pero el triunfo 3-0 de la ida de los albos les permitió asegurar la corona 13 del torneo nacional.
-
-### San viernes
-
-* [Liga de Quito e IDV, dos estilos de juego para un solo campeón](https://www.elcomercio.com/deportes/futbol/liga-de-quito-e-idv-dos-estilos-de-juego-para-un-solo-campeon.html "Liga de Quito e IDV, dos estilos de juego para un solo campeón")
-* [Moisés Caicedo estuvo cerca de ganar un prestigioso premio en Inglaterra](https://www.elcomercio.com/deportes/futbol/moises-caicedo-estuvo-cerca-de-ganar-prestigioso-premio-en-inglaterra.html "Moisés Caicedo estuvo cerca de ganar un prestigioso premio en Inglaterra")
-* [IDV necesita una gesta para arrebatarle el título a Liga de Quito](https://www.elcomercio.com/deportes/futbol/idv-necesita-una-gesta-para-arrebatarle-el-titulo-a-liga-de-quito.html "IDV necesita una gesta para arrebatarle el título a Liga de Quito")
-
-Independiente del Valle vs. Liga de Quito
------------------------------------------
-
-* Los equipos saltan a la cancha.
-* Un 70% del estadio está lleno con hinchas de Liga de Quito que se riegan por todas las localidades.
-* Antonio Valencia y Nicolás Lapentti llevaron el trofeo de la Liga Pro.
-* Kiara Rodríguez, doble medallista paralímpica de Ecuador en los París 2024, entregó la moneda del sorteo de los capitanes.
-* Daniel Pintado, medallista de oro y plata en París 2024, entrega el balón con el que se jugará la final.
-
-### Primer tiempo:
-
-1′: Arranca el partido entre Independiente del Valle y Liga de Quito.
-
-2′: Se salva Independiente. Gabriel Villamil no puede definir ante Guido Villar.
-
-4′: Segunda opción malograda por Liga. Álex Arce no pudo definir un pase de Villamil.
-
-7′: Primer acercamiento de Independiente. Un remate de Renato Ibarra es bloqueado por Ezequiel Piovi.
-
-10′: Segundo remate de Independiente. Keny Arroyo remató con pierda derecha, pero Alexander Domínguez lo controla.
-
-14′: Independiente domina el partido, pero no tiene la claridad necesaria para abrir el marcador.
-
-17′: Se salva IDV: Jhojan Julio no pudo definir solo frente a Villar. El esférico impactó en una de la pierna derecha del arquero argentino.
-
-20′: Remate de Renato Ibarra que Domínguez lo desvía al tiro de esquina.
-
-27′: Un centro de Arroyo no llegó a Medina y tampoco Cristian Zabala pudo definir.
-
-30′: Domínguez poco a poco maneja el partido y se muestra seguro en todas las acciones que interviene.
-
-35′: Tarjeta amarilla para Mateo Carabajal (IDV) y Gabriel Villamil (LDU).
-
-37′: Tarjeta amarilla para Leonel Quiñónez (LDU).
-
-38′: Arce se pierde el gol frente a Villar. El pase fue de Piovi desde su propia cancha.
-
-40′: Zabala saca un remate desde el área grande, pero se va por sobre el arco de Domínguez.
-
-41′: Tarjeta amarilla para Renato Ibarra.
-
-45′: Se añaden cinco minutos.
-
-45+1′: Tarjetas amarillas para Ricardo Adé y Daniel de la Cruz (LDU).
-
-45+3′: Se salva Liga. Un tiro libre de Ibarra es salvado en extremo por Domínguez.
-
-45+5′: Final del PT. IDV y LDU empatan 0-0.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_5-1024x683.jpg)
-
-### Segundo tiempo:
-
-45′: Arranca el ST. En LDU ingresa José Quinteros por de la Cruz.
-
-46′: Tarjeta amarilla para Quintero (LDU).
-
-50′: IDV sigue con el control del balón, pero no es claro a la hora de atacar.
-
-54′: Por primera vez se desprende por la zona izquierda Bryan Ramírez, la revelación de la Liga Pro.
-
-55′: Cambio en Liga: Sale Villamil para que ingrese Madison Julio.
-
-58′: Tiro libre de Arroyo que cae en las manos de Domínguez.
-
-59′: Carabajal salva un ataque en profundidad de LDU por intermedio de Arce.
-
-60′: Cambio en IDV: Sale Ibarra e ingresa Michael Hoyos.
-
-63′: Alexander Domínguez vuelve a salvar a LDU.
-
-64′: Cambio en IDV: Ingresa Luis Zabala en lugar de Carabajal.
-
-71′: Cambios en LDU: Ingresan Lisandro Alzugaray y Gian Franco Allala por Leonel Quiñónez y Jhojan Julio.
-
-74′: Cambios en IDV: Ingresan Bryan García y Anthony Landázuri en lugar de Zabala y Fernández.
-
-80′: Cambio en LDU: Sale Álex Arce y en su lugar ingresó Michael Estrada. El paraguayo fue amonestado con tarjeta amarilla y la hinchada lo despide con una sonora ovación.
-
-82′: Tarjeta amarilla para Beder Caicedo (IDV).
-
-88′: Se detiene el partido por parte de Guillermo Guerrero. Las bengalas encendidas provocaron una gran cantidad de humo.
-
-90′: Se reanuda el compromiso.
-
-90′: Se añaden 90 minutos más al tiempo reglamentario.
-
-96′: Goooooooooooool de IDV. Zabala por el 1-0 y el marcador global ahora es 1-3 en favor de LDU.
-
-90+9′: Finaliza el partido. Liga de Quito es el primer bicampeón de la Liga Pro.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_12-1024x683.jpg)
-
-API.
-
-Independiente y Liga confirman alineaciones
--------------------------------------------
-
-Javier Gandolfi armó un equipo ofensivo para la final de vuelta de la Liga Pro. La principal novedad en el XI inicial es la inclusión del **mediocampista ecuatoriano Kendry Páez**, que seguramente jugará la última final de la Liga Pro en esta primera etapa con IDV.
-
-Páez fue titular por última vez en la fecha 13 ante la misma LDU. Fue en la derrota 2-1 en la fecha 13 de la segunda etapa. Jugó los 90 minutos y recibió una tarjeta amarilla al cierre del juego.
-
-En la final de ida arrancó en el **banco de suplentes**. Ingresó a los 62 minutos en lugar de Joao Ortiz.
-
-En la vuelta ocupará el lugar de Yaimar Medina, que en esta temporada se consolidó con un gran rendimiento que lo llevó a debutar en la **Selección de Ecuador en las eliminatorias** al Mundial 2026.
-
-Pablo ‘Vitamina’ Sánchez no hará cambios con relación al equipo estelar que jugó en la ida. **Álex Arce comanda la línea de ataque** y estará secundado por Jhojan Julio y Bryan Ramírez, la revelación de la plantilla.
-
-Alineación Independiente
-------------------------
-
-Guido Villar; Matías Fernández, Matero Carabajal, Richard Schunke y Beder Caicedo; Joao Ortiz, Cristian Zabala, Kendry Páez, Renato Ibarra y Keny Arroyo; Jeison Medina.
-
-Alineación Liga de Quito
-------------------------
-
-Alexander Domínguez; Daniel de la Cruz, Ricardo Adé, Richard Mina y Leonel Quiñónez; Ezequiel Piovi, Gabriel Villamil y Fernando Cornejo; Bryan Ramírez, Jhojan Julio y Álex Arce.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_6-1024x683.jpg)
-
-API.
-
-San viernes
------------
-
-Violento asalto a pasajeros en bus que iba a Pifo quedó registrado en video
-===========================================================================
-
-En la noche del 13 de diciembre, se viralizó el video de un asalto en un bus rumbo a Pifo. Según la Policía, la fecha pudo alterarse.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Imágenes del supuesto asalto en el bus que se dirigía a Pifo.](https://www.elcomercio.com/wp-content/uploads/2024/12/asalto-pifo.jpg)
-
-Un **video** captado por la **cámara** de **vigilancia** de un **bus interparroquial** revela el **violento asalto** perpetrado por **cuatro sujetos** contra los pasajeros la noche del **13 de diciembre de 2024.** El hecho ocurrió en una unidad que se dirigía a **Pifo**, según información difundida en redes sociales.
-
-### Más noticias
-
-* [Bloque de Seguridad asegura que hay una reducción del 17% de crímenes en Ecuador](https://www.elcomercio.com/actualidad/seguridad/bloque-de-seguridad-asegura-reduccion-de-crimenes-ecuador.html "Bloque de Seguridad asegura que hay una reducción del 17% de crímenes en Ecuador")
-* [Militar va a juicio por su presunta extralimitación durante un control de seguridad en Quevedo](https://www.elcomercio.com/actualidad/ecuador/militar-juicio-quevedo-extralimitacion-control.html "Militar va a juicio por su presunta extralimitación durante un control de seguridad en Quevedo")
-* [Policía reclutaba menores de edad y los preparaba para sicarios en Manabí](https://www.elcomercio.com/actualidad/seguridad/policia-reclutaba-menores-edad-sicarios-manabi.html "Policía reclutaba menores de edad y los preparaba para sicarios en Manabí")
-
-El video del asalto
--------------------
-
-La grabación, que dura aproximadamente **1 minuto y 39 segundos**, muestra cómo **tres hombres y una mujer** amenazan y someten a los pasajeros para despojarlos de sus pertenencias. Las imágenes captan el **inicio del violento asalto** cuando uno de los sujetos golpea al controlador del bus. Esto da paso a la intervención de los demás delincuentes, quienes **armados** con **cuchillos** y un **arma de fuego** intimidan a las víctimas.
-
-En medio del **caos**, se escucha a uno de los asaltantes decir a una de las víctimas: “80 dólares nomás… Ya”, mientras la mujer involucrada **golpea a un pasajero**, se cubre el rostro con una mascarilla y acumula las pertenencias robadas.
-
-Incertidumbre sobre la ubicación del asalto
--------------------------------------------
-
-Aunque el incidente fue reportado en redes sociales, hasta el momento la **Policía Nacional** no ha confirmado la información ni la ubicación exacta del suceso. Según declaraciones de las autoridades a **EL COMERCIO**, **existe la posibilidad de que la fecha registrada en el video esté alterada**, lo que genera dudas sobre el lugar y momento preciso del asalto.
-
-La **Policía Nacional** informó que el **domingo 15 de diciembre de 2024,** al mediodía, se ofrecerá una rueda de prensa para esclarecer los hechos. La vocería estará a cargo del **jefe del Distrito Tumbaco,** quien proporcionará detalles sobre las investigaciones en curso[.](https://es.wikipedia.org/wiki/Tumbaco "https://es.wikipedia.org/wiki/Tumbaco")
-
-Acción de los asaltantes
-------------------------
-
-El **violento atraco** duró apenas unos minutos, tiempo suficiente para que los delincuentes despojaran a los pasajeros de celulares, dinero y mochilas. Al finalizar el asalto, los tres hombres **huyeron** por la puerta delantera del bus, mientras que la mujer timbró para que el conductor abriera la puerta trasera.
-
-Este hecho ha generado **alarma** en la comunidad, destacando una vez más la **inseguridad** que afecta a los usuarios del **transporte** público en Ecuador. Las autoridades continúan investigando para identificar y capturar a los responsables.
-
-¿Cuál fruta ayuda para eliminar las heces acumuladas? Las 6 opciones que tiene
-==============================================================================
-
-Estos alimentos benefician al cuerpo para poder ir al baño regularmente.
-------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/fruta-El-Comercio.jpg)
-
-No **poder ir al baño puede ser un problema para muchas personas**, ya que pueden tener complicaciones de estreñimiento u otras inhibiciones. Por ello, expertos compartes consejos para ayudar a las personas con este problema. En este caso, **se trata de frutas que son ideales para eliminar las heces acumuladas**.
-
-  
-La clave **es alimentarse bien, tener una dieta equilibrada** y para ello, se debe consumir suficiente fibra y tomar mucho líquido, de acuerdo con _Medline Plus_ y los _Institutos Nacionales de Salud_ (NIH, por sus siglas en inglés)**.** Estas son las **6 frutas ideales para eliminar las heces acumuladas**:
-
-**Higos**: frescos o secos, los higos son una excelente fuente de fibra y tienen propiedades que estimulan el sistema digestivo.
-
-**Ciruelas**: frescas o en su versión seca (ciruelas pasas) son conocidas por su efecto laxante natural. Contienen sorbitol, un azúcar que facilita el tránsito intestinal.
-
-**Papaya**: rica en papaína, una enzima que favorece la digestión y alivia el estreñimiento. Además, su alto contenido de agua y fibra la hace ideal para limpiar el colon.
-
-**Kiwi**: posee un alto contenido de fibra soluble e insoluble, así como actínida, una enzima que mejora la digestión.
-
-**Manzana**: cuando se consume con cáscara, la manzana aporta pectina, una fibra soluble que suaviza las heces y mejora el tránsito intestinal.
-
-**Pera**: al igual que la manzana, es rica en pectina y contiene mucha agua, lo que facilita el movimiento intestinal.
-
-Los trucos que le ayudarán a ir al baño
----------------------------------------
-
-Si luego de consumir estas frutas, **su problema de estreñimiento continúa, deberá probar otros métodos.** El médico Karan Rangarajan, conocido como Dr. Karan Rajan en TikTok, brindó **algunos consejos para poder ir al baño sin problemas.**
-
-Según el especialista, se trata de un fácil ejercicio de respiración que consiste en **exhalar con fuerza mientras se cierra la boca y la nariz**. Rangarajan tambén dijo que fingir que **sopla burbujas o apagar una vela o hacer un mugido** alargado que suene como una “vaca cachonda” debería funcionar.
-
-Paquita la del Barrio alarma a sus fans por su estado de salud
-==============================================================
-
-Paquita la del Barrio, en el centro de rumores de salud
--------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PAQUITA-El-Comercio.jpg)
-
-El 13 de diciembre de 2024, rumores sobre una posible hospitalización de Paquita la del Barrio alarmaron a sus seguidores.
-
-Según el medio de espectáculos _@chamonic3_, la cantante había sido ingresada al Hospital Ángeles en Xalapa, Veracruz, e incluso intubada debido a un estado delicado.
-
-Esto generó preocupación inmediata, dado que la salud de la intérprete de “Rata de dos patas” ha sido tema constante en los últimos años.
-
-Sin embargo, estas afirmaciones fueron desmentidas rápidamente. El periodista Carlo Uriel, colaborador de _Flor Rubio_, aseguró que Paquita no estaba hospitalizada y solo había acudido a un chequeo médico de rutina.
-
-**La verdad detrás del chequeo médico de Paquita**
---------------------------------------------------
-
-En un comunicado oficial, el equipo de la cantante explicó que aprovechó su estancia en Veracruz para una consulta médica debido a malestares estomacales persistentes.
-
-Describieron los rumores como “muy desagradables” y confirmaron que Paquita está en condiciones de cumplir con su agenda, incluyendo su presentación en la Feria de Villa de Reyes en San Luis Potosí este fin de semana.
-
-Actualmente, Paquita la del Barrio se encuentra estable y en buen estado de salud, según lo informado por sus representantes. Este desenlace tranquiliza a sus fans, quienes en redes sociales expresaron su apoyo y buenos deseos.
-
-**Retiro de los escenarios: foco de especulaciones**
-----------------------------------------------------
-
-El reciente anuncio de Paquita sobre su retiro de los palenques para enfocarse en su calidad de vida ha intensificado el interés por su estado de salud. Sin embargo, este retiro no implica una pausa total en su carrera, como lo demuestra su participación en eventos programados.
-
-A sus 76 años, Francisca Viveros Barradas, nombre real de Paquita la del Barrio, continúa siendo una figura icónica de la música mexicana, enfrentando rumores con firmeza. Su equipo insta a los fans a no caer en información falsa y a confiar en los canales oficiales.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDIrir3uplo/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Paquita La del Barrio (@paquitaoficialb)](https://www.instagram.com/reel/DDIrir3uplo/?utm_source=ig_embed&utm_campaign=loading)
-
-Sucoreanos celebran con K-pop la destitución de Yoon Suk-yeol
-=============================================================
-
-La Asamblea destituyó a Yoon Suk-yeol y los surcoreanos festejaron así
-----------------------------------------------------------------------
-
-![Los manifestantes celebran tras la aprobación de una moción de juicio político contra el presidente Yoon Suk Yeol.](https://www.elcomercio.com/wp-content/uploads/2024/12/658f3893418a7ca7fd552e81d572f45c94f6a153.jpg)
-
-El sábado 14 de diciembre de 2024, la Asamblea Nacional de Corea del Sur aprobó la destitución del presidente Yoon Suk-yeol con 204 votos a favor y 85 en contra. El hecho provocó celebraciones masivas en Seúl y otras ciudades.
-
-Según la Policía, unas 208 000 personas se reunieron frente al Parlamento, mientras los organizadores afirman que participaron hasta dos millones. Este evento marca un punto crítico en la historia reciente del país.
-
-Los ciudadanos desafiaron temperaturas bajo cero para expresar su alegría. Las calles se llenaron de cánticos y luces, recordando **conciertos de K-pop**.
-
-Canciones como Into the New World del grupo Girls’ Generation se convirtieron en himnos de la protesta. Kim Gon-tae, manifestante de 48 años, expresó: “Hace una semana no logramos esto, pero hoy hemos ganado”, señala Yonhap News.
-
-**Razones detrás de la destitución presidencial**
--------------------------------------------------
-
-Yoon Suk-yeol fue destituido tras declarar la ley marcial el pasado 3 de diciembre. Argumentó que esta medida era necesaria para “proteger la democracia” ante supuestos actos “antiestatales” de la oposición.
-
-Sin embargo, esto provocó indignación nacional y aceleró su salida del poder. El primer ministro Han Duck-soo asumirá el cargo interinamente mientras el Tribunal Constitucional evalúa el caso en los próximos 180 días, dice la BBC.
-
-**El futuro político de Corea del Sur**
----------------------------------------
-
-La destitución definitiva de Yoon dependerá de un fallo del Tribunal Constitucional. Actualmente, la corte opera con seis magistrados, quienes deben emitir un fallo unánime para ratificar su salida.
-
-Si se nombran tres jueces adicionales, seis de los nueve deberán votar a favor para cesar definitivamente al mandatario, explica The Korea Herald.
-
-**Impacto cultural de las protestas pacíficas**
------------------------------------------------
-
-Estas manifestaciones han resaltado la unidad de los surcoreanos y su determinación por proteger la democracia. El uso de elementos culturales, como canciones de K-pop, refleja una movilización moderna y simbólica.
-
-  
-
-Isak Andic, fundador de las tiendas de moda Mango, murió
-========================================================
-
-Quién era Isak Andic y su legado empresarial
---------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/mango-El-Comercio.jpg)
-
-El empresario **Isak Andic**, **fundador de Mango**, falleció el sábado 14 de diciembre de 2024 a los 71 años mientras realizaba montañismo en las cuevas de Montserrat, en Collbató, Cataluña.
-
-Según información confirmada por Mango y medios como _El Mundo_ y _El País_, Andic sufrió una caída de más de 150 metros mientras estaba acompañado por su familia.
-
-Las unidades de rescate no pudieron salvar su vida.
-
-Andic nació en Estambul, Turquía, en 1953 y emigró con su familia a Barcelona en la década de los sesenta. Su espíritu emprendedor lo llevó a fundar Mango en 1984.
-
-La marca, que comenzó con una pequeña tienda en Paseo de Gracia, se expandió hasta convertirse en un gigante global de la moda, con 2.700 tiendas en 115 países, incluida Ecuador, donde su presencia destaca entre los grandes nombres del _retail_.
-
-**El impacto de Mango en la moda internacional**
-------------------------------------------------
-
-Bajo el liderazgo de Andic, Mango se consolidó como una de las principales marcas españolas, con una facturación récord de 3.100 millones de euros en 2023, dice _El Debate_. Su estrategia de expansión incluyó tanto puntos de venta físicos como un enfoque en comercio electrónico.
-
-En Ecuador, Mango es sinónimo de moda desde hace más de 20 años, ha atraído a clientes locales a través de sus tiendas en centros comerciales.
-
-**La reacción de Mango ante la pérdida**
-----------------------------------------
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDkZBDgowaE/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de MANGO (@mango)](https://www.instagram.com/p/DDkZBDgowaE/?utm_source=ig_embed&utm_campaign=loading)
-
-El CEO de Mango, Toni Ruiz, emitió un comunicado destacando el liderazgo y legado humano de Andic: “De nosotros depende que Mango siga siendo el proyecto al que Isak aspiraba”. La empresa continúa liderando el sector, honrando la visión de su fundador en sus operaciones actuales, dice _La Vanguardia_.
-
-Cruce de acusaciones entre Aquiles Álvarez e Inés Manzano por río Daule
-=======================================================================
-
-Municipio y Ministerio enfrentados por presunta contaminación ambiental.
-------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/daule-El-Comercio.jpg)
-
-El **río Daule** se ha convertido en el centro de una controversia que enfrenta al **alcalde de Guayaquil, Aquiles Álvarez, y a la ministra de Ambiente, Inés Manzano**.
-
-Según el Ministerio de Ambiente, la Agencia de Regulación y Control del Agua (ARCA) ha iniciado un proceso sancionador contra el Municipio, EMAPAG e Interagua debido a niveles alarmantes de coliformes fecales y otras sustancias en el río.
-
-Las plantas de tratamiento Guayacanes-Samanes y Sauces-Alborada son señaladas como responsables de descargas que exceden los límites legales, una infracción catalogada como “muy grave”.
-
-En un comunicado oficial, la ARCA enfatizó su compromiso con la regulación hídrica y el cumplimiento de la normativa ambiental para proteger el agua potable de Guayaquil.
-
-Álvarez acusa persecución política
-----------------------------------
-
-El alcalde Aquiles Álvarez respondió a través de sus redes sociales y calificó las acciones del Ministerio como parte de un “plan de persecución política” en su contra. Señaló que estas denuncias buscan desviar la atención de problemas nacionales como la crisis energética vinculada a Progen.
-
-En su mensaje, acusó a Manzano de actuar con prepotencia y amenazas, además de cuestionar el interés genuino de la ministra en los temas ambientales.
-
-Álvarez también recordó un supuesto conflicto de interés de Manzano relacionado con su pasado como consultora en temas ambientales. Sugirió que su actual postura podría tener motivaciones personales o políticas.
-
-Manzano defiende su postura y apunta al Municipio
--------------------------------------------------
-
-Inés Manzano, por su parte, rechazó las acusaciones y sostuvo que el problema de contaminación en el río Daule es real y grave. En declaraciones en redes sociales, afirmó que el equipo municipal es “mediocre” y que su falta de acción ha agravado la crisis ambiental.
-
-Manzano también defendió las inspecciones realizadas. Insistió en que su prioridad es proteger a la ciudadanía de las consecuencias de una gestión ambiental deficiente.
-
-Este enfrentamiento subraya las tensiones entre el Gobierno nacional y el Municipio de Guayaquil, en un contexto en el que las crisis ambientales se mezclan con intereses políticos y posibles conflictos de interés.
-
-Hinchas de Independiente creen en la remontada ante Liga de Quito
-=================================================================
-
-Independiente del Valle no es el favorito para ganar la Liga Pro 2024, pero su hinchada mantiene viva la esperanza.
--------------------------------------------------------------------------------------------------------------------
-
-![Hincha de Independiente del Valle en la previa de la final de vuelta de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_2.jpg)
-
-**Independiente del Valle** sufrió una dura derrota por 3-0 en la final de ida de la Liga Pro 2024 ante Liga de Quito el pasado 7 de diciembre, en el **Estadio Rodrigo Paz Delgado**. A pesar de las adversidades, la hinchada sigue creyendo en una posible remontada.
-
-La **presión recae sobre los rayados**, que deberán salir con todo desde el inicio para intimidar a los albos en la final de vuelta. El partido se jugará este sábado 14 de diciembre, a las 15:30 en el Estadio de Independiente del Valle, ubicado en el sector de Chillo Jijón, en el Valle de los Chillos.
-
-### Más noticias:
-
-* [Posibles alineaciones de Liga de Quito e Independiente del Valle para la final](https://www.elcomercio.com/deportes/futbol/alineaciones-final-vuelta-liga-quito-independiente.html "Posibles alineaciones de Liga de Quito e Independiente del Valle para la final")
-* [¿A qué hora juegan la final de vuelta Independiente y Liga de Quito?](https://www.elcomercio.com/deportes/hora-final-vuelta-independiente-liga-quito.html "¿A qué hora juegan la final de vuelta Independiente y Liga de Quito?")
-* [¿Cuándo juega Liga de Quito con IDV en la final de vuelta?](https://www.elcomercio.com/deportes/futbol/cuando-juega-liga-quito-idv-final-campeon.html "¿Cuándo juega Liga de Quito con IDV en la final de vuelta?")
-
-La afición de IDV se ilusiona con la remontada
-----------------------------------------------
-
-En la previa del partido, los exteriores del estadio se llenaron de **hinchas de Independiente del Valle**. Aunque la remontada parece una tarea difícil, muchos creen que todo es posible y mantienen la esperanza de lograr su segunda estrella nacional.
-
-“Con cómo ha sido la campaña de IDV esta temporada, **elijo creer.** No me hago muchas ilusiones, pero confío en que será un gran partido. Quiero que marquemos primero para ilusionarnos”, comentó Adrián, uno de los aficionados rayados.
-
-Andrés, otro hincha, señaló que, aunque la situación es complicada, la ilusión es lo último que se pierde y espera un **buen resultado para IDV**.
-
-Una aficionada, más optimista, **se atrevió a predecir un 4-0 a favor de su equipo**, destacando a Jeison Medina como la gran figura de la remontada.
-
-![Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_3-1024x683.jpg)
-
-Facebook del club.
-
-Un reto sin precedentes
------------------------
-
-Para levantar el título, **Independiente del Valle** no solo debe superar a un rival sólido como Liga de Quito, sino también romper con la historia. Según datos de Aurelio Dávila, en tres finales del fútbol ecuatoriano hubo un marcador de 3-0 en alguno de los partidos, y en todas, el equipo que logró esa ventaja terminó coronándose campeón.
-
-De estas finales, solo una registró el 3-0 en el partido de ida:
-
-**1988**: Emelec goleó 3-0 a Deportivo Quito en la ida y empató 1-1 en la vuelta para ser campeón.
-
-**2005**: Liga de Quito perdió 1-0 la ida contra Barcelona SC, pero ganó 3-0 en la vuelta y se llevó el Apertura.
-
-**2014**: Emelec empató 1-1 en la ida contra Barcelona SC y ganó 3-0 en la vuelta para llevarse el título.
-
-Romper esta tendencia será clave para que Independiente pueda escribir una nueva página en la historia del fútbol nacional.
-
-San viernes
------------
