@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ökodesign-Verordnung: Smartphones müssen bald länger halten](https://www.test.de/Oekodesign-Verordnung-Smartphones-muessen-bald-laenger-halten-6169413-0/ "Ökodesign-Verordnung - Smartphones müssen bald länger halten")
-* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
-* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
-* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
-* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
-* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
+* [Immobilien­kredite: Diese Bedingungen bieten die Baufinanzierer](https://www.test.de/Immobilienkredite-Diese-Bedingungen-bieten-die-Baufinanzierer-6096433-0/ "Immobilienkredite - Diese Bedingungen bieten die Baufinanzierer")
+* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Auslands­fonds und -ETF: Steuern zurück in Milliardenhöhe](https://www.test.de/erstattung-deutscher-quellensteuer-6164848-0/ "Auslandsfonds und -ETF - Steuern zurück in Milliardenhöhe")
+* [Glasfaser­ausbau: Warten auf Anschluss zum schnellen Internet](https://www.test.de/Glasfaserausbau-Warten-auf-Anschluss-zum-schnellen-Internet-6160446-0/ "Glasfaserausbau - Warten auf Anschluss zum schnellen Internet")
+* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ökodesign-Verordnung: Smartphones müssen bald länger halten](https://www.test.de/Oekodesign-Verordnung-Smartphones-muessen-bald-laenger-halten-6169413-0/ "Ökodesign-Verordnung - Smartphones müssen bald länger halten")
-* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
-* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
-* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
-* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
-* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
+* [Immobilien­kredite: Diese Bedingungen bieten die Baufinanzierer](https://www.test.de/Immobilienkredite-Diese-Bedingungen-bieten-die-Baufinanzierer-6096433-0/ "Immobilienkredite - Diese Bedingungen bieten die Baufinanzierer")
+* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Auslands­fonds und -ETF: Steuern zurück in Milliardenhöhe](https://www.test.de/erstattung-deutscher-quellensteuer-6164848-0/ "Auslandsfonds und -ETF - Steuern zurück in Milliardenhöhe")
+* [Glasfaser­ausbau: Warten auf Anschluss zum schnellen Internet](https://www.test.de/Glasfaserausbau-Warten-auf-Anschluss-zum-schnellen-Internet-6160446-0/ "Glasfaserausbau - Warten auf Anschluss zum schnellen Internet")
+* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ökodesign-Verordnung: Smartphones müssen bald länger halten](https://www.test.de/Oekodesign-Verordnung-Smartphones-muessen-bald-laenger-halten-6169413-0/ "Ökodesign-Verordnung - Smartphones müssen bald länger halten")
-* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
-* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
-* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
-* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
-* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
+* [Immobilien­kredite: Diese Bedingungen bieten die Baufinanzierer](https://www.test.de/Immobilienkredite-Diese-Bedingungen-bieten-die-Baufinanzierer-6096433-0/ "Immobilienkredite - Diese Bedingungen bieten die Baufinanzierer")
+* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Auslands­fonds und -ETF: Steuern zurück in Milliardenhöhe](https://www.test.de/erstattung-deutscher-quellensteuer-6164848-0/ "Auslandsfonds und -ETF - Steuern zurück in Milliardenhöhe")
+* [Glasfaser­ausbau: Warten auf Anschluss zum schnellen Internet](https://www.test.de/Glasfaserausbau-Warten-auf-Anschluss-zum-schnellen-Internet-6160446-0/ "Glasfaserausbau - Warten auf Anschluss zum schnellen Internet")
+* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ökodesign-Verordnung: Smartphones müssen bald länger halten](https://www.test.de/Oekodesign-Verordnung-Smartphones-muessen-bald-laenger-halten-6169413-0/ "Ökodesign-Verordnung - Smartphones müssen bald länger halten")
-* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
-* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
-* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
-* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
-* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
+* [Immobilien­kredite: Diese Bedingungen bieten die Baufinanzierer](https://www.test.de/Immobilienkredite-Diese-Bedingungen-bieten-die-Baufinanzierer-6096433-0/ "Immobilienkredite - Diese Bedingungen bieten die Baufinanzierer")
+* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Gut essen mit der Stiftung Warentest: Kotelett mit Papaya](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Kotelett-mit-Papaya-6064358-0/ "Gut essen mit der Stiftung Warentest - Kotelett mit Papaya")
+* [Auslands­fonds und -ETF: Steuern zurück in Milliardenhöhe](https://www.test.de/erstattung-deutscher-quellensteuer-6164848-0/ "Auslandsfonds und -ETF - Steuern zurück in Milliardenhöhe")
+* [Glasfaser­ausbau: Warten auf Anschluss zum schnellen Internet](https://www.test.de/Glasfaserausbau-Warten-auf-Anschluss-zum-schnellen-Internet-6160446-0/ "Glasfaserausbau - Warten auf Anschluss zum schnellen Internet")
+* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
 
 Stiftung Warentest
 
