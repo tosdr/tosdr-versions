@@ -54,9 +54,9 @@ Navigation
         
         #### [7.0 earthquake off Northern California prompts brief tsunami warning](https://www.kagstv.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
         
-    *  [![](https://media.kagstv.com/assets/KCEN/images/decbb1ba-246d-4df9-ac44-d8567565369c/20241211T230327/decbb1ba-246d-4df9-ac44-d8567565369c_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/decbb1ba-246d-4df9-ac44-d8567565369c/20241211T230327/decbb1ba-246d-4df9-ac44-d8567565369c_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/da1b63da-bf06-42db-b1fb-20e1d4b985af/20241215T040136/da1b63da-bf06-42db-b1fb-20e1d4b985af_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/da1b63da-bf06-42db-b1fb-20e1d4b985af/20241215T040136/da1b63da-bf06-42db-b1fb-20e1d4b985af_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
-        #### [Rain Chances Increase Tonight and Last into Saturday | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+        #### [Sunday brings another cloudy and misty day | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -97,7 +97,7 @@ Navigation
 
 Bryan, TX »
 
-69°
+68°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
