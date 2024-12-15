@@ -12,7 +12,7 @@ Buy (US$ 93.33)
 
 [Your account](# "Your account")
 
-[0](# "Your cart")
+[150](# "Your cart")
 
 #### Shopping Cart
 
@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Zettagrid](https://www.backup4all.com/how-to-backup-your-data-to-zettagrid-kb.html)  
+* [How to use "Backup on demand"](https://www.backup4all.com/how-to-use-backup-on-demand-feature-in-backup4all-kb.html)  
     
-* [How to back up data files from Scality using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scality-using-backup4all-kb.html)  
+* [How to backup your Twitter account](https://www.backup4all.com/how-to-backup-your-twitter-account-using-backup4all-kb.html)  
     
-* [How to backup your data to Cloudian](https://www.backup4all.com/how-to-backup-your-data-to-cloudian-kb.html)  
+* [How to restore a backup from Google Cloud Sto ...](https://www.backup4all.com/how-to-restore-a-backup-from-google-cloud-storage-kb.html)  
     
-* [Why the mirror files are not deleted from des ...](https://www.backup4all.com/why-the-mirror-files-are-not-deleted-from-destination-kb.html)  
+* [How to backup your data to CenturyLink](https://www.backup4all.com/how-to-backup-your-data-to-centurylink-kb.html)  
     
-* [How to restore a backup job created with a Ba ...](https://www.backup4all.com/how-to-restore-a-backup-job-created-with-a-backup4all-plugin-kb.html)  
+* [Backup to CD/DVD/Blu-ray using built-in burne ...](https://www.backup4all.com/backup-to-cd-dvd-using-built-in-burner-kb.html)  
     
 
 Choose language:
