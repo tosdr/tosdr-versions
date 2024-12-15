@@ -76,6 +76,7 @@ TOP MINECRAFT SERVERS
 Minecraft Java Servers
 ----------------------
 
+* [Java Minecraft Servers](https://best-minecraft-servers.co/minecraft-java-servers)
 * [Minecraft Official Website](https://www.minecraft.net/en-us/)
 * [What is a Minecraft Server?](https://en.wikipedia.org/wiki/Minecraft_server)
 * [What is Minecraft?](https://en.wikipedia.org/wiki/Minecraft)
@@ -96,7 +97,7 @@ NEW MINECRAFT SERVERS
 * [InsanityCraft](https://best-minecraft-servers.co/server-insanitycraft.100)
 * [CalamityMC](https://best-minecraft-servers.co/server-calamitymc.146)
 
-© Best Minecraft Servers - 14 Dec 2024 . Trademarks are the property of their respective owners, all sites and servers are added by users.
+© Best Minecraft Servers - 15 Dec 2024 . Trademarks are the property of their respective owners, all sites and servers are added by users.
 
 [Terms](https://best-minecraft-servers.co/terms) [Privacy](https://best-minecraft-servers.co/privacy) [Help](https://best-minecraft-servers.co/help) [Contacts](https://best-minecraft-servers.co/contacts)
 
