@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/health/skin-health/video/elevate-your-wintertime-baths-to-keep-skin-hydrated-and-cozy)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/health/skin-health/video/elevate-your-wintertime-baths-to-keep-skin-hydrated-and-cozy)[Bios](https://weather.com/bios)
+[Top Weather Stories](https://weather.com/home-garden/food/video/dont-let-the-weather-ruin-your-holiday-cookies-and-cakes)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/home-garden/food/video/dont-let-the-weather-ruin-your-holiday-cookies-and-cakes)[Bios](https://weather.com/bios)
 
 Products
 --------
