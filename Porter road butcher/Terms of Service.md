@@ -65,18 +65,6 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     Other Awesome Cuts
     ------------------
     
-    [### Best of Porter Road Box
-    
-    Subscribe & Save
-    
-    $145 ~ $18/LB
-    
-    You can prepare this by cooking
-    
-    ![on the grill](//porterroad.com/cdn/shop/t/145/assets/grill.svg?v=152896960878670572781695148406)![baked in the oven](//porterroad.com/cdn/shop/t/145/assets/oven.svg?v=160908168043637052471695148424)![in a skillet](//porterroad.com/cdn/shop/t/145/assets/skillet.svg?v=108406217759563483821695148445)
-    
-    Add to cart](https://porterroad.com/products/best-of-porter-road)
-    
     [### Digital Gift Card
     
     From $25
@@ -85,17 +73,29 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     
     See Details](https://porterroad.com/products/gift-card-1)
     
-    [### Filet Mignon
+    [### Teres Major
     
     Dry Aged
     
-    $34 ~ $68/LB
+    $30 ~ $40/LB
     
     You can prepare this by cooking
     
     ![on the grill](//porterroad.com/cdn/shop/t/145/assets/grill.svg?v=152896960878670572781695148406)![in a skillet](//porterroad.com/cdn/shop/t/145/assets/skillet.svg?v=108406217759563483821695148445)
     
-    Add to cart](https://porterroad.com/products/filet-mignon)
+    Add to cart](https://porterroad.com/products/teres-major)
+    
+    [### 1/3# Burger Patties
+    
+    Dry Aged
+    
+    $13 $13/LB
+    
+    You can prepare this by cooking
+    
+    ![on the grill](//porterroad.com/cdn/shop/t/145/assets/grill.svg?v=152896960878670572781695148406)![in a skillet](//porterroad.com/cdn/shop/t/145/assets/skillet.svg?v=108406217759563483821695148445)
+    
+    Add to cart](https://porterroad.com/products/1-3-burger-patties)
     
 * [Log in](https://porterroad.com/account/login)
 * ![cart icon](//porterroad.com/cdn/shop/t/145/assets/icon-cart.svg?v=170543295033461004641695148410)
