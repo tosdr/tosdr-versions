@@ -77,7 +77,7 @@ Last updated: 30/11/2024
   
 **6\. Refunds**
 
-* The company will provide full refunds for any product sold online or over the phone if:
+* The company will provide full refunds for any physical product sold online or over the phone if:
     * The customer asks within 14 days of receiving the product;
     * The product is returned in the state which it was received.
 * The company is not responsible for providing refunds on products sold through third-party vendors. These vendors usually have their own refund policies which you should check before purchasing products.
