@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/quick-start-beginners-ukulele-chord-sheet-pack/)
+ [](https://schoolsmusicmarket.com/product/songwriting-powerpoint-lets-write-a-chorus/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/world-music-day-assembly-pack/)
+ [](https://schoolsmusicmarket.com/product/exploring-hip-hop-bass-lines/)
 
 ###### Browse By Year/Grade
 
