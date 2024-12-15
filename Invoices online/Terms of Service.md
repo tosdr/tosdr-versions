@@ -196,57 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Henry Venter
+Johan Botha - Brand Xplosion
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=98326aee7e7f699fadca35196b338a1848935a374f93ed45eec225b48fc40a76&c=80637879)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=830069bdd03ccadf227c57f7a99b065972730f4d525eed194ee580684ce9be8a&c=94170572)  
+PROGRAPHIX PTY LTD
 
-![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=98326aee7e7f699fadca35196b338a1848935a374f93ed45eec225b48fc40a76&c=180042043)  
-NC Labour Hire
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=830069bdd03ccadf227c57f7a99b065972730f4d525eed194ee580684ce9be8a&c=57366122)  
+IYD
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=98326aee7e7f699fadca35196b338a1848935a374f93ed45eec225b48fc40a76&c=16156232)  
-J.M. HUMAN RESOURCES
+![valued client Mmakoma projects ](https://www.invoicesonline.co.za/scripts/image.php?bid=5917&file=logo_300_100&type=&fe=830069bdd03ccadf227c57f7a99b065972730f4d525eed194ee580684ce9be8a&c=113025722)  
+Mmakoma projects
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=98326aee7e7f699fadca35196b338a1848935a374f93ed45eec225b48fc40a76&c=161242237)  
-kidoscabbie
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=830069bdd03ccadf227c57f7a99b065972730f4d525eed194ee580684ce9be8a&c=144172328)  
+WIP Digital Solutions
 
-![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=98326aee7e7f699fadca35196b338a1848935a374f93ed45eec225b48fc40a76&c=46814442)  
-Stevens Consulting
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=830069bdd03ccadf227c57f7a99b065972730f4d525eed194ee580684ce9be8a&c=84090050)  
+IEMS (PTY) ltd
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=98326aee7e7f699fadca35196b338a1848935a374f93ed45eec225b48fc40a76&c=24201805)  
-TechnoDezi PTY(LTD)
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=830069bdd03ccadf227c57f7a99b065972730f4d525eed194ee580684ce9be8a&c=194266514)  
+Oukraal Merino's
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=98326aee7e7f699fadca35196b338a1848935a374f93ed45eec225b48fc40a76&c=53519479)  
-West Coast Horse Trails
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=830069bdd03ccadf227c57f7a99b065972730f4d525eed194ee580684ce9be8a&c=188452767)  
+ARCHITEK PTY LTD
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=98326aee7e7f699fadca35196b338a1848935a374f93ed45eec225b48fc40a76&c=26884998)  
-LEONARD
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=830069bdd03ccadf227c57f7a99b065972730f4d525eed194ee580684ce9be8a&c=13071200)  
+Karino Merinos ( PTY ) LTD
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=98326aee7e7f699fadca35196b338a1848935a374f93ed45eec225b48fc40a76&c=189149260)  
-MR Compressors& Industrial Supplies
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=830069bdd03ccadf227c57f7a99b065972730f4d525eed194ee580684ce9be8a&c=87398024)  
+Qothiphango Mining
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=98326aee7e7f699fadca35196b338a1848935a374f93ed45eec225b48fc40a76&c=22702531)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=830069bdd03ccadf227c57f7a99b065972730f4d525eed194ee580684ce9be8a&c=8702334)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=98326aee7e7f699fadca35196b338a1848935a374f93ed45eec225b48fc40a76&c=101279500)  
-Firstweb Hosting & Design
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=830069bdd03ccadf227c57f7a99b065972730f4d525eed194ee580684ce9be8a&c=141839135)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=98326aee7e7f699fadca35196b338a1848935a374f93ed45eec225b48fc40a76&c=63400433)  
-Desygn
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=830069bdd03ccadf227c57f7a99b065972730f4d525eed194ee580684ce9be8a&c=200979702)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=98326aee7e7f699fadca35196b338a1848935a374f93ed45eec225b48fc40a76&c=8202412)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=830069bdd03ccadf227c57f7a99b065972730f4d525eed194ee580684ce9be8a&c=122255888)  
+Konsortium Operations (PTY) LTD
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=98326aee7e7f699fadca35196b338a1848935a374f93ed45eec225b48fc40a76&c=153213094)  
-Kainos (Pty) Ltd
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=830069bdd03ccadf227c57f7a99b065972730f4d525eed194ee580684ce9be8a&c=213244128)  
+National Elite Security Services (PTY) LTD
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=98326aee7e7f699fadca35196b338a1848935a374f93ed45eec225b48fc40a76&c=210736583)  
-Little Nutty Professors
+![valued client CBR PAINTS / VERWE](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=830069bdd03ccadf227c57f7a99b065972730f4d525eed194ee580684ce9be8a&c=136977304)  
+CBR PAINTS / VERWE
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
