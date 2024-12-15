@@ -230,11 +230,12 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want to see behind the curtain? Try
+Want more stories with less ads? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+It's what the cool kids are doing.  
+It also helps us pay the bills.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +335,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [DUI - driving under the ice](https://www.fark.com/goto/13494572) ( [wmur.com](https://www.fark.com/goto/13494572) ) » [(2 comments)](https://www.fark.com/comments/13494572/DUI-driving-under-ice) |
-| [Discussion](https://www.fark.com/discussion/) | [Will Nat-X return? Will there be a drone sketch? How will Update handle the Biden pardons? Can Dana Carvey rejoin the cast? Has anyone seen Kevin Nealon or Colin Quinn lately? Chris Rock hosts, Gracie Abrams sings. SNL, 11:30PM ET on NBC](https://www.fark.com/goto/13493950) ( [deadline.com](https://www.fark.com/goto/13493950) ) » [(188 comments)](https://www.fark.com/comments/13493950/Will-Nat-X-return-Will-there-be-a-drone-sketch-How-will-Update-handle-Biden-pardons-Can-Dana-Carvey-rejoin-cast-Has-anyone-seen-Kevin-Nealon-Colin-Quinn-lately-Chris-Rock-hosts-Gracie-Abrams-sings-SNL-1130PM-ET-on-NBC) |
-| [Sports](https://www.fark.com/sports/) | [If you were excited about the 2024 Independence Bowl featuring Army vs. Marshall, bad news. Marshall has pulled out due to a major transfer-portal disaster resulting in loss of dozens of players plus a coach](https://www.fark.com/goto/13494480) ( [sports.yahoo.com](https://www.fark.com/goto/13494480) ) » [(7 comments)](https://www.fark.com/comments/13494480/If-you-were-excited-about-2024-Independence-Bowl-featuring-Army-vs-Marshall-bad-news-Marshall-has-pulled-out-due-to-a-major-transfer-portal-disaster-resulting-in-loss-of-dozens-of-players-plus-a-coach) |
-| [Business](https://www.fark.com/business/) | [It looks like emoluments are back on the menu, boys](https://www.fark.com/goto/13494304) ( [nypost.com](https://www.fark.com/goto/13494304) ) » [(47 comments)](https://www.fark.com/comments/13494304/It-looks-like-emoluments-are-back-on-menu-boys) |
-| [STEM](https://www.fark.com/stem/) | [Remember Covid-19? Well it definitely remembers you](https://www.fark.com/goto/13494718) ( [ineteconomics.org](https://www.fark.com/goto/13494718) ) » [(1 comment)](https://www.fark.com/comments/13494718/Remember-Covid-19-Well-it-definitely-remembers-you) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Kraven the Hunter's $11 million opening weekend makes Morbius look successful](https://www.fark.com/goto/13494560) ( [screenrant.com](https://www.fark.com/goto/13494560) ) » [(13 comments)](https://www.fark.com/comments/13494560/Kraven-Hunters-$11-million-opening-weekend-makes-Morbius-look-successful) |
-| [Fandom](https://www.fark.com/fandom/) | [South Korea has a Toyota Prius racing league](https://www.fark.com/goto/13494302) ( [thedrive.com](https://www.fark.com/goto/13494302) ) » [(9 comments)](https://www.fark.com/comments/13494302/South-Korea-has-a-Toyota-Prius-racing-league) |
-| [D'awww](https://www.fark.com/dawww/) | [Every time rescue dog goes to see Grandma, he does his Super Happy Spaz Dance](https://www.fark.com/goto/13494470) ( [youtube.com](https://www.fark.com/goto/13494470) ) » [(5 comments)](https://www.fark.com/comments/13494470/Every-time-rescue-dog-goes-to-see-Grandma-he-does-his-Super-Happy-Spaz-Dance) |
-| [Food](https://www.fark.com/food/) | [Eat a hot dog? That's 36 minutes off your life](https://www.fark.com/goto/13494370) ( [metro.co.uk](https://www.fark.com/goto/13494370) ) » [(61 comments)](https://www.fark.com/comments/13494370/Eat-a-hot-dog-Thats-36-minutes-off-your-life) |
-| [Politics](https://www.fark.com/politics/) | [Devin Nunes to Lead Presidential Intelligence Advisory Board... That's the joke](https://www.fark.com/goto/13494866) ( [mediaite.com](https://www.fark.com/goto/13494866) ) » [(7 comments)](https://www.fark.com/comments/13494866/Devin-Nunes-to-Lead-Presidential-Intelligence-Advisory-Board-Thats-joke) |
+| [Main](https://www.fark.com/) | [Turns out it actually might be trouble when the oil hits the anus after all](https://www.fark.com/goto/13494910) ( [timesofindia.indiatimes.com](https://www.fark.com/goto/13494910) ) » [(3 comments)](https://www.fark.com/comments/13494910/Turns-out-it-actually-might-be-trouble-when-oil-hits-anus-after-all) |
+| [Discussion](https://www.fark.com/discussion/) | [You know what we haven't had around here in a long time? A Braunschweiger thread, that's what. Or as Arnie puts it: BRAUNSCHWEIGAH T'READ--ARHGAWARAAHGRAHAWGH. LGT first-ever Fark Braunschweiger thread, discussion on the right](https://www.fark.com/goto/13494564) ( [fark.com](https://www.fark.com/goto/13494564) ) » [(35 comments)](https://www.fark.com/comments/13494564/You-know-what-we-havent-had-around-here-in-a-long-time-A-Braunschweiger-thread-thats-what-Or-as-Arnie-puts-it-BRAUNSCHWEIGAH-TREAD-ARHGAWARAAHGRAHAWGH-LGT-first-ever-Fark-Braunschweiger-thread-discussion-on-right) |
+| [Sports](https://www.fark.com/sports/) | [Army RB Kanye Udoh is done asking what he can do for his country, he now wants to know what a bunch of millionaires can do for his bank account](https://www.fark.com/goto/13494850) ( [msn.com](https://www.fark.com/goto/13494850) ) » [(5 comments)](https://www.fark.com/comments/13494850/Army-RB-Kanye-Udoh-is-done-asking-what-he-can-do-for-his-country-he-now-wants-to-know-what-a-bunch-of-millionaires-can-do-for-his-bank-account) |
+| [Business](https://www.fark.com/business/) | [You had better sit down for this, but a Vancouver-based crypto trading platform lied about how it would protect customer assets, stole $13 million from clients instead](https://www.fark.com/goto/13494570) ( [bc.ctvnews.ca](https://www.fark.com/goto/13494570) ) » [(4 comments)](https://www.fark.com/comments/13494570/You-had-better-sit-down-for-this-but-a-Vancouver-based-crypto-trading-platform-lied-about-how-it-would-protect-customer-assets-stole-$13-million-from-clients-instead) |
+| [STEM](https://www.fark.com/stem/) | [The way forward is synthetic fuels](https://www.fark.com/goto/13494486) ( [goodnewsnetwork.org](https://www.fark.com/goto/13494486) ) » [(2 comments)](https://www.fark.com/comments/13494486/The-way-forward-is-synthetic-fuels) |
+| [Entertainment](https://www.fark.com/entertainment/) | [The best Doctor Who in the classic series may be returning to the show. Yes, subby knows the character is actually "The Doctor"](https://www.fark.com/goto/13494924) ( [digitalspy.com](https://www.fark.com/goto/13494924) ) » [(5 comments)](https://www.fark.com/comments/13494924/The-best-Doctor-Who-in-classic-series-may-be-returning-to-show-Yes-subby-knows-character-is-actually-The-Doctor) |
+| [Fandom](https://www.fark.com/fandom/) | [Musk has so much spare time that he could level up to a speed record in Diablo 4 .... and he cheated (possible nsfw content on page)](https://www.fark.com/goto/13494532) ( [dailystar.co.uk](https://www.fark.com/goto/13494532) ) » [(7 comments)](https://www.fark.com/comments/13494532/Musk-has-so-much-spare-time-that-he-could-level-up-to-a-speed-record-in-Diablo-4-he-cheated-possible-nsfw-content-on-page) |
+| [D'awww](https://www.fark.com/dawww/) | [Everyone feels better with a good hairdo](https://www.fark.com/goto/13494882) ( [aol.com](https://www.fark.com/goto/13494882) ) » [(1 comment)](https://www.fark.com/comments/13494882/Everyone-feels-better-with-a-good-hairdo) |
+| [Food](https://www.fark.com/food/) | [Six-ingredient meal plans that lower inflammation, destroy your will to live](https://www.fark.com/goto/13494552) ( [eatingwell.com](https://www.fark.com/goto/13494552) ) » [(14 comments)](https://www.fark.com/comments/13494552/Six-ingredient-meal-plans-that-lower-inflammation-destroy-your-will-to-live) |
+| [Politics](https://www.fark.com/politics/) | [After TFG dismisses Doug Ford's plan to cut off electricity to the US, Doug Ford announces that he will cut off the sale of one thing that Americans value the most](https://www.fark.com/goto/13494720) ( [ctvnews.ca](https://www.fark.com/goto/13494720) ) » [(30 comments)](https://www.fark.com/comments/13494720/After-TFG-dismisses-Doug-Fords-plan-to-cut-off-electricity-to-US-Doug-Ford-announces-that-he-will-cut-off-sale-of-one-thing-that-Americans-value-most) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +354,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 15 2024 01:42:07  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 15 2024 07:43:33  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
