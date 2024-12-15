@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-mensaje-del-consulado-de-mxico-en-seattle-noticias-titulares-de-edmonds-y-lynnwood/281-e81190cc-ee51-4e52-bfbc-6e34b9ec4d7f)
+        
+        #### [Cinco Cosas: Mensaje del Consulado de México en Seattle, noticias titulares de Edmonds y Lynnwood](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-mensaje-del-consulado-de-mxico-en-seattle-noticias-titulares-de-edmonds-y-lynnwood/281-e81190cc-ee51-4e52-bfbc-6e34b9ec4d7f)
+        
     *  [![](https://media.king5.com/assets/KING/images/3ea0d3e2-e202-4c75-bf4a-ae1d157e14cc/20241215T060706/3ea0d3e2-e202-4c75-bf4a-ae1d157e14cc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3ea0d3e2-e202-4c75-bf4a-ae1d157e14cc/20241215T060706/3ea0d3e2-e202-4c75-bf4a-ae1d157e14cc_360x203.jpg)](https://www.king5.com/article/news/local/power-outages-western-washington-amid-wind-advisory/281-67cd4f6b-95b4-43d3-bc34-d397637ab9dc)
         
-        #### [30,000 without power in western Washington amid wind advisory](https://www.king5.com/article/news/local/power-outages-western-washington-amid-wind-advisory/281-67cd4f6b-95b4-43d3-bc34-d397637ab9dc)
-        
-    *  [![](https://media.king5.com/assets/KING/images/d3e9ed1c-6e08-4fcb-9b58-31dcd11ce045/20241212T163526/d3e9ed1c-6e08-4fcb-9b58-31dcd11ce045_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d3e9ed1c-6e08-4fcb-9b58-31dcd11ce045/20241212T163526/d3e9ed1c-6e08-4fcb-9b58-31dcd11ce045_360x203.jpg)](https://www.king5.com/article/sports/high-school/washington-school-districts-pushing-rules-trans-athletes-sports/281-c8905955-d36c-4900-bf55-b37785d941c1)
-        
-        #### [WIAA considers new policies for participation of transgender athletes in sports](https://www.king5.com/article/sports/high-school/washington-school-districts-pushing-rules-trans-athletes-sports/281-c8905955-d36c-4900-bf55-b37785d941c1)
+        #### [Power restored to more than 80,000 in western Washington following strong winds Saturday](https://www.king5.com/article/news/local/power-outages-western-washington-amid-wind-advisory/281-67cd4f6b-95b4-43d3-bc34-d397637ab9dc)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/61d85bd6-fa8a-44f7-81a2-fd9ce7d71aa8/20241215T061830/61d85bd6-fa8a-44f7-81a2-fd9ce7d71aa8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/61d85bd6-fa8a-44f7-81a2-fd9ce7d71aa8/20241215T061830/61d85bd6-fa8a-44f7-81a2-fd9ce7d71aa8_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/edb21d42-9c19-40f7-b16f-0fca8d1a2b2d/20241215T163027/edb21d42-9c19-40f7-b16f-0fca8d1a2b2d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/edb21d42-9c19-40f7-b16f-0fca8d1a2b2d/20241215T163027/edb21d42-9c19-40f7-b16f-0fca8d1a2b2d_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-42°
+47°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
