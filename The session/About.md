@@ -18,19 +18,29 @@ The exchange of [tunes](https://thesession.org/tunes) is what keeps traditional 
 Acknowledegments
 ----------------
 
-The Session uses these open source JavaScript libraries:
+The Session uses these open-source JavaScript libraries:
 
 * ### [abcjs](https://www.abcjs.net/)
     
-    An open source ABC music notation engraving library.
+    An open-source ABC music notation engraving library.
     
     Written by [Paul Rosen](https://github.com/sponsors/paulrosen) and [Gregory Dyke](https://github.com/tirno).
     
 * ### [Leaflet](https://leafletjs.com/)
     
-    An open source JavaScript library for mobile-friendly interactive maps.
+    An open-source JavaScript library for mobile-friendly interactive maps.
     
     Written by [Vladimir Agafonkin](http://agafonkin.com/en).
+    
+* ### [OpenFreeMap](https://openfreemap.org/)
+    
+    An open-source map-tile provider.
+    
+    Written by [Zsolt Ero](https://github.com/sponsors/hyperknot).
+    
+* ### [MapLibre GL JS](https://maplibre.org/)
+    
+    An open-source library for publishing maps.
     
 
 Map tiles are [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright).
