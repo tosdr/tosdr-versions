@@ -205,26 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Steampunk Forum](https://www.somethingawful.com/weekend-web/steampunk-forum/1/)
-* [The Macabre Fantasy Artwork of Ray O'Bannon (Part 2)](https://www.somethingawful.com/dungeons-and-dragons/macabre-art-returns/1/)
-* [Gary Oldman, Star Citizen!](https://www.somethingawful.com/photoshop-phriday/oldman-star-citizen/)
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [March 12, 2013](https://www.somethingawful.com/twitter-tuesday/tt03-12-13/)
+* [Design the Worst Band Shirt!](https://www.somethingawful.com/photoshop-phriday/worst-band-shirts/1/)
+* [Moon Patrol: The Erotic Adventures](https://www.somethingawful.com/feature-articles/moon-patrol-erotic/)
+* [Storytime: Silverhawks!](https://www.somethingawful.com/feature-articles/storytime-silverhawks/1/)
+* [Video Game Movies You'd Actually Want to See!](https://www.somethingawful.com/photoshop-phriday/game-film-adaptations/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/tinypastry.gif) [Baby's got a 12 pack. How bout we go back to the Bay Area and get some Crab](http://forums.somethingawful.com/showthread.php?threadid=4077498 "Baby's got a 12 pack. How bout we go back to the Bay Area and get some Crab")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [ITT: We are in a Saturday morning kids cartoon that uncool parents hate](http://forums.somethingawful.com/showthread.php?threadid=4077504 "ITT: We are in a Saturday morning kids cartoon that uncool parents hate")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/whine.png) [We have a Malcolm in the Middle reboot](http://forums.somethingawful.com/showthread.php?threadid=4077505 "We have a Malcolm in the Middle reboot")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-explosion.gif) [Power Rangers Jungle Fury theme](http://forums.somethingawful.com/showthread.php?threadid=4077494 "Power Rangers Jungle Fury theme")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [ITT: We are in a Saturday morning kids cartoon that uncool parents hate](http://forums.somethingawful.com/showthread.php?threadid=4077504 "ITT: We are in a Saturday morning kids cartoon that uncool parents hate")
 
 ### Random Articles
 
-* [Dating vs. Courtship](https://www.somethingawful.com/awful-links/awful-link-2999/)
-* [TheCarLoft (Thanks, Morey San!)](https://www.somethingawful.com/awful-links/thecarloft-vanilla-ice/)
-* [Embrace The Balds!](https://www.somethingawful.com/photoshop-phriday/bald-celebrities/1/)
-* [Absolution](https://www.somethingawful.com/movie-reviews/absolution/1/)
-* [The Secret Road to Money Heaven](https://www.somethingawful.com/news/secret-road-money/)
+* [Not Every Halloween Effigy is About YOU, Steve](https://www.somethingawful.com/news/halloween-effigy-neighbor/)
+* [The Faces of Anime](https://www.somethingawful.com/photoshop-phriday/faces-anime/1/)
+* [New Affordable Healthcare Plans](https://www.somethingawful.com/news/healthcare-changes/)
+* [Robin Hood](https://www.somethingawful.com/current-movie-reviews/fat-robin-hood/)
+* [The Bowlers' Alley](https://www.somethingawful.com/awful-links/awful-link-1025/)
 
 [Random!](https://www.somethingawful.com/random/)
 
