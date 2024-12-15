@@ -185,12 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Sergeant Delmas G. Akers](https://cdn.returningveterans.org/images/honor/Delmas_Akers_2.jpg)  
+![Mark Stimpson](https://cdn.returningveterans.org/images/honor/Mark_Stimpson.JPG)  
 
-**In Memory of Sergeant Delmas G. Akers**  
-United States Air Force  
+**In Honor of Mark Stimpson**  
 United States Army  
-Submitted by Monte Akers](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -233,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 12/15/24 - 1:11:00  
+Printed 12/15/24 - 7:19:53  
 © 2024 Returning Veterans Project
