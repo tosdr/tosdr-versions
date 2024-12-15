@@ -4,7 +4,7 @@ Valér
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "erősen felhős")
 
-2°5°
+1°6°
 
 Menü
 
