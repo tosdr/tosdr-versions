@@ -1,9 +1,10 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Z17bLwoAAcgAAABbC8I)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=Z18wtQoAAc0AAABaA5s)
 
 Es noticia
 
 * [Comprobar Lotería Navidad 2024](https://www.elmundo.es/loterias/loteria-navidad/comprobar-loteria.html)
 * [Últimas noticias](https://www.elmundo.es/ultimas-noticias.html)
+* [Javier Echenique](https://www.elmundo.es/economia/empresas/2024/12/15/675ed8cefdddff5a1d8b458e.html)
 * [Venezuela](https://www.elmundo.es/internacional/2024/12/14/675cc045e9cf4a41588b4581.html)
 * [Guerra Ucrania](https://www.elmundo.es/internacional/2024/12/15/675e7727a75cca89418e852c-directo.html)
 * [Bárbara Rey](https://www.elmundo.es/loc/casa-real/2024/12/14/675b22c1e4d4d88d288b4581.html)
