@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![The Likely Lads. Image shows from L to R: Terry Collier (James Bolam), Bob Ferris (Rodney Bewes)](https://cdn.comedy.co.uk/images/library/comedies/300x200/l/likely_lads.jpg "The Likely Lads. Image shows from L to R: Terry Collier (James Bolam), Bob Ferris (Rodney Bewes)")](https://www.comedy.co.uk/features/comedy-rewind/the-likely-lads/) Features
+
+[Comedy Rewind: A likely story - The Likely Lads](https://www.comedy.co.uk/features/comedy-rewind/the-likely-lads/)
+
 [![Gavin Webster](https://cdn.comedy.co.uk/images/library/people/300x200/g/gavin_webster_megaphone.jpg "Gavin Webster")](https://www.comedy.co.uk/live/fgwg/gavin-webster/) Live
 
 [First Gig, Worst Gig: Gavin Webster](https://www.comedy.co.uk/live/fgwg/gavin-webster/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Inside No. 9. Image shows left to right: Len Shelby (Steve Pemberton), Tommy Drake (Reece Shearsmith). Credit: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200_eps/i/inside_no_9_0402a.jpg "Inside No. 9. Image shows left to right: Len Shelby (Steve Pemberton), Tommy Drake (Reece Shearsmith). Credit: BBC")](https://www.comedy.co.uk/quiz/336/) Quiz
 
 [British Comedy Quiz #336](https://www.comedy.co.uk/quiz/336/)
-
-[![Michael McIntyre's 25th Year Stand-Up Special. Michael McIntyre. Credit: BBC, Hungry McBear](https://cdn.comedy.co.uk/images/library/comedies/300x200/m/michael_mcintyres_25th_year_stand_up_special.jpg "Michael McIntyre's 25th Year Stand-Up Special. Michael McIntyre. Credit: BBC, Hungry McBear")](https://www.comedy.co.uk/tv/michael-mcintyre-25th-year-stand-up/interview/michael-mcintyre-on-25-years-in-comedy/) TV
-
-[Michael McIntyre on 25 years in comedy](https://www.comedy.co.uk/tv/michael-mcintyre-25th-year-stand-up/interview/michael-mcintyre-on-25-years-in-comedy/)
 
 #### Subscribe to our newsletters
 
