@@ -2,7 +2,7 @@
 
 Previous
 
-[Enjoy 30% off palettes & sets. Use code: **DAY7** at checkout.](https://www.bobbibrowncosmetics.com/products/13996/palettes-and-sets)
+[Enjoy 40% off select Complexion. Use code: **DAY8** at checkout.](https://www.bobbibrowncosmetics.com/advent-calendar-offers)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
