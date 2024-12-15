@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Say a random sentence (9,971)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (9,971 posts)")
-* [What's The Worst Country? (89)](https://forum.nationstates.net/viewtopic.php?t=559465&f=20&view=unread#unread ""What's The Worst Country?" (89 posts)")
-* [Commend or Condemn AN II (3,003)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (3,003 posts)")
-* [What is the most terrifying thing abo… (838)](https://forum.nationstates.net/viewtopic.php?t=553705&f=25&view=unread#unread ""What is the most terrifying thing about AN" (838 posts)")
-* [Name a Country (119)](https://forum.nationstates.net/viewtopic.php?t=559472&f=25&view=unread#unread ""Name a Country" (119 posts)")
+* [UnitedHealthcare CEO Assassinated (1,620)](https://forum.nationstates.net/viewtopic.php?t=559227&f=20&view=unread#unread ""UnitedHealthcare CEO Assassinated" (1,620 posts)")
+* [Out of the 2 AN’s: Which one has the… (5,292)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (5,292 posts)")
+* [Tiami's Endless Tacos (2,928)](https://forum.nationstates.net/viewtopic.php?t=558437&f=20&view=unread#unread ""Tiami's Endless Tacos" (2,928 posts)")
+* [Geography Game II (11,873)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (11,873 posts)")
+* [Syrian Civil War: Dawn Of A New Syria (1,576)](https://forum.nationstates.net/viewtopic.php?t=558866&f=20&view=unread#unread ""Syrian Civil War: Dawn Of A New Syria" (1,576 posts)")
 
 Advertisement
 
