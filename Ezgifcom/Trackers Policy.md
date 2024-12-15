@@ -31,7 +31,7 @@ Files you upload are stored on our servers up to 1 hour after they are last used
 * [About and contacts](https://ezgif.com/about)
 * [Privacy and Cookies](https://ezgif.com/privacy)
 * [Search ezgif.com](https://ezgif.com/search)
-* [![](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ezgif&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/ezgif)
+* [![Buy Me A Coffee (donate)](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ezgif&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/ezgif)
 
 * **Video tools**
 * [GIF to MP4 converter](https://ezgif.com/gif-to-mp4 "Convert animated GIFs to MP4 videos")
