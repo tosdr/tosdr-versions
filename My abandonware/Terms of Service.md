@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Karate Fighter](https://www.myabandonware.com/game/karate-fighter-txe)
+* [Lump](https://www.myabandonware.com/game/lump-txd)
 * [Luxe Chalk](https://www.myabandonware.com/game/luxe-chalk-txc)
 * [Chalk](https://www.myabandonware.com/game/chalk-txb)
 * [Dante](https://www.myabandonware.com/game/dante-txa)
-* [Carrion](https://www.myabandonware.com/game/carrion-tx8)
-* [DeMilo 2](https://www.myabandonware.com/game/demilo-2-tx7)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
