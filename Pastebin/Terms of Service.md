@@ -328,35 +328,35 @@ If you have any questions about these Terms, the Service, or your account, pleas
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [NETFLIX UHD ACCOUNTS](https://pastebin.com/NW2m7MRJ)
+* [⭐ get any gift card for FREE⭐ P0](https://pastebin.com/9urKBB22)
     
-    JavaScript | 0 sec ago | 0.09 KB
+    JavaScript | 2 sec ago | 0.18 KB
     
-* [Binance Accounts Leaked](https://pastebin.com/N1bVXaFa)
+* [⭐ FREE giftcards method JZ](https://pastebin.com/cqqks6qA)
     
-    JavaScript | 4 sec ago | 0.09 KB
+    JavaScript | 4 sec ago | 0.18 KB
     
-* [Binance Accounts Leaked](https://pastebin.com/jd12H0xq)
+* [⭐ Binance Account hack C0](https://pastebin.com/Trsk3Kmr)
     
-    JavaScript | 4 sec ago | 0.09 KB
+    JavaScript | 6 sec ago | 0.18 KB
     
-* [⭐ FREE giftcards method 2S](https://pastebin.com/MzCM7dZQ)
+* [⭐ Binance Account hack 7I](https://pastebin.com/3CWCDsc5)
     
-    JavaScript | 7 sec ago | 0.18 KB
+    JavaScript | 9 sec ago | 0.18 KB
     
-* [⭐ get any gift card for FREE⭐ P0](https://pastebin.com/8p2U91AX)
+* [⭐ get any gift card for FREE](https://pastebin.com/da3zwCxi)
+    
+    JavaScript | 9 sec ago | 0.05 KB
+    
+* [⭐️ EARN $500 INSTANTLY 03](https://pastebin.com/fi4aBw7A)
     
     JavaScript | 11 sec ago | 0.18 KB
     
-* [Chaturbate Accounts with Tokens](https://pastebin.com/ffwmtGLd)
+* [⭐ Binance Account hack K6](https://pastebin.com/PYC36BCJ)
     
-    JavaScript | 12 sec ago | 0.09 KB
+    JavaScript | 12 sec ago | 0.18 KB
     
-* [NETFLIX UHD ACCOUNTS](https://pastebin.com/eMYEnyaB)
-    
-    JavaScript | 16 sec ago | 0.09 KB
-    
-* [⭐️ EARN $500 INSTANTLY 03](https://pastebin.com/FThYYkYb)
+* [⭐ get any gift card for FREE⭐ 0E](https://pastebin.com/QexKwPXs)
     
     JavaScript | 17 sec ago | 0.18 KB
     
