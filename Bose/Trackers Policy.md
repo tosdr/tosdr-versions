@@ -1,12 +1,12 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
+48-HOUR FLASH SALE: Last chance to get $130 off Diamond 60th Edition QuietComfort Ultra Headphones. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1)
+
 NEW HOLIDAY DEALS: Save up to 40% on gifts in time for the holidays. [Shop](https://www.bose.com/c/holiday-sale)
 
 EXCLUSIVE COLOR DROP: Enjoy $70 off Ultra Open Earbuds, now in Chilled Lilac. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CHILLED+LILAC)
 
 MY BOSE MEMBERS: Enjoy a Holiday Bonus Card, on us, after qualifying purchases. [Shop](https://www.bose.com/c/holiday-sale)
-
-Stress-free shopping | 90-day return policy | Holiday Price Match Promise [Learn how](https://www.bose.com/buy-direct-from-bose)
 
 [Cancel](#)
 
@@ -109,22 +109,20 @@ Back
     * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
-    [![](https://assets.bosecreative.com/m/4bd415f0c27b767/webimage-SF_NavFlyout_Holiday_12-Day-Push_UOE-Chilled-Lilac-Situ_Mobile.png)
+    [![](https://assets.bosecreative.com/m/105c2e7afb9dc5e/webimage-QCUHLE25-Diamond_SF_FlashSale1_NavFlyout_Mobile.png)
     
-    Ultra Open Earbuds
+    Last Chance
     
-    ### Now in Chilled Lilac](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CHILLED+LILAC "BUY NOW")
+    ### 48-hour Sale](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1 "SHOP")
     
      
     
-    Exclusive color drop
+    48-hour Flash Sale
+    ------------------
     
-    Hot deal. Chill hue.
-    --------------------
+    Last chance to get $130 off Diamond 60th Edition QuietComfort Ultra Headphones. 
     
-    Enjoy $70 off Ultra Open Earbuds, now in Chilled Lilac.
-    
-    [BUY NOW](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CHILLED+LILAC "BUY NOW")
+    [BUY NOW](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1 "BUY NOW")
     
 
 * [Explore](#)
