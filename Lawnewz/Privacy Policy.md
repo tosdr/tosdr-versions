@@ -244,23 +244,23 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Jeremy Rodgers (U.S. Attorney's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/12/j6-3-432x243.jpg)](https://lawandcrime.com/high-profile/trump-appointed-judge-convicts-man-for-repeatedly-hitting-officer-on-head-with-flagpole-during-jan-6-riots/)
+1. [![Jeremy Rodgers (U.S. Attorney's Office).](https://lawandcrime.com/wp-content/uploads/2024/12/j6-3-432x243.jpg)](https://lawandcrime.com/high-profile/trump-appointed-judge-convicts-man-for-repeatedly-hitting-officer-on-head-with-flagpole-during-jan-6-riots/)
     
     ### [Trump-appointed judge convicts man for repeatedly hitting officer on head with flagpole during Jan. 6 riots](https://lawandcrime.com/high-profile/trump-appointed-judge-convicts-man-for-repeatedly-hitting-officer-on-head-with-flagpole-during-jan-6-riots/)
     
-2. [![Left: Robert Paul Rundo, of Huntington Beach, California, holds down and punches a counter-protester at a political rally at Bolsa Chica State Beach in Huntington Beach, Calif. March 25, 2017. (Mindy Schauer/The Orange County Register via AP)](https://am21.mediaite.com/lc/cnt/uploads/2024/12/antifa-432x243.jpg)](https://lawandcrime.com/crime/white-supremacist-leader-who-claimed-he-was-fighting-antifa-gets-time-served/)
+2. [![Left: Robert Paul Rundo, of Huntington Beach, California, holds down and punches a counter-protester at a political rally at Bolsa Chica State Beach in Huntington Beach, Calif. March 25, 2017. (Mindy Schauer/The Orange County Register via AP)](https://lawandcrime.com/wp-content/uploads/2024/12/antifa-432x243.jpg)](https://lawandcrime.com/crime/white-supremacist-leader-who-claimed-he-was-fighting-antifa-gets-time-served/)
     
     ### [White supremacist leader who claimed he was fighting Antifa gets time served](https://lawandcrime.com/crime/white-supremacist-leader-who-claimed-he-was-fighting-antifa-gets-time-served/)
     
-3. [![Donald Trump, George Stephanopoulos](https://am23.mediaite.com/lc/cnt/uploads/2024/05/Trump-Stephanopoulos-432x243.jpg)](https://lawandcrime.com/high-profile/judge-in-defamation-case-against-abc-news-orders-trump-and-george-stephanopoulos-to-sit-for-up-to-4-hour-in-person-depositions-hands-president-elect-discovery-win/)
+3. [![Donald Trump, George Stephanopoulos](https://lawandcrime.com/wp-content/uploads/2024/05/Trump-Stephanopoulos-432x243.jpg)](https://lawandcrime.com/high-profile/judge-in-defamation-case-against-abc-news-orders-trump-and-george-stephanopoulos-to-sit-for-up-to-4-hour-in-person-depositions-hands-president-elect-discovery-win/)
     
     ### [Judge in defamation case against ABC News orders Trump and George Stephanopoulos to sit for up to 4-hour, in-person depositions, hands President-elect discovery win](https://lawandcrime.com/high-profile/judge-in-defamation-case-against-abc-news-orders-trump-and-george-stephanopoulos-to-sit-for-up-to-4-hour-in-person-depositions-hands-president-elect-discovery-win/)
     
-4. [![Tekquan Alexander mugshot](https://am23.mediaite.com/lc/cnt/uploads/2024/11/tekquan-alexander-mugshot-432x243.jpg)](https://lawandcrime.com/crime/dad-who-tortured-his-4-year-old-daughter-into-a-vegetative-state-told-girls-mother-that-she-fainted-during-a-time-out-learns-his-fate/)
+4. [![Tekquan Alexander mugshot](https://lawandcrime.com/wp-content/uploads/2024/11/tekquan-alexander-mugshot-432x243.jpg)](https://lawandcrime.com/crime/dad-who-tortured-his-4-year-old-daughter-into-a-vegetative-state-told-girls-mother-that-she-fainted-during-a-time-out-learns-his-fate/)
     
     ### [Dad who tortured his 4-year-old daughter into a ‘vegetative state,’ told girl’s mother that she fainted during a ‘time-out’ learns his fate](https://lawandcrime.com/crime/dad-who-tortured-his-4-year-old-daughter-into-a-vegetative-state-told-girls-mother-that-she-fainted-during-a-time-out-learns-his-fate/)
     
-5. [![Zak Young appears in a CNN chyron about Afghanistan.](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Zachary-Young-432x243.jpg)](https://lawandcrime.com/high-profile/some-kind-of-subsidiary-slush-fund-navy-veteran-suing-cnn-for-defamation-says-network-made-shocking-financial-admissions-amid-ongoing-discovery-dispute/)
+5. [![Zak Young appears in a CNN chyron about Afghanistan.](https://lawandcrime.com/wp-content/uploads/2024/10/Zachary-Young-432x243.jpg)](https://lawandcrime.com/high-profile/some-kind-of-subsidiary-slush-fund-navy-veteran-suing-cnn-for-defamation-says-network-made-shocking-financial-admissions-amid-ongoing-discovery-dispute/)
     
     ### ['Some kind of subsidiary slush fund': Navy veteran suing CNN for defamation says network made shocking financial admissions amid ongoing discovery dispute](https://lawandcrime.com/high-profile/some-kind-of-subsidiary-slush-fund-navy-veteran-suing-cnn-for-defamation-says-network-made-shocking-financial-admissions-amid-ongoing-discovery-dispute/)
     
