@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up data files from ThinkOn using ...](https://www.backup4all.com/how-to-back-up-data-files-from-thinkon-using-backup4all-kb.html)  
+* [How to back up data files from Constant using ...](https://www.backup4all.com/how-to-back-up-data-files-from-constant-using-backup4all-kb.html)  
     
-* [How to use and configure the Startup feature ...](https://www.backup4all.com/how-to-use-and-configure-the-startup-feature-in-backup4all-kb.html)  
+* [How to restore a backup using 7-Zip](https://www.backup4all.com/how-to-restore-a-backup-using-7-zip-kb.html)  
     
-* [Partnerships - FAQ](https://www.backup4all.com/partnerships-faq-kb.html)  
+* [How to restore a backup to Google Cloud Stora ...](https://www.backup4all.com/how-to-restore-a-backup-to-google-cloud-storage-kb.html)  
     
-* [Backup to Iomega REV drives](https://www.backup4all.com/backup-to-iomega-rev-drives-kb.html)  
+* [How to back up data files from LeoNovus using ...](https://www.backup4all.com/how-to-back-up-data-files-from-leonovus-using-backup4all-kb.html)  
     
-* [How to back up data files from IDC Frontier u ...](https://www.backup4all.com/how-to-back-up-data-files-from-idc-frontier-using-backup4all-kb.html)  
+* [How to backup your data to Box](https://www.backup4all.com/how-to-backup-your-data-to-box-kb.html)  
     
 
 Choose language:
