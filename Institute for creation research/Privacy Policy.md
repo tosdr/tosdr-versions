@@ -95,66 +95,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/supreme-joy)
-
-[Supreme Joy in Sacrificial Service](https://www.icr.org/article/supreme-joy/)
-
-“Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all. For the same cause also do ye joy,...
-
-BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/grace-god-creation)
-
-[The Grace of God in Creation](https://www.icr.org/article/grace-god-creation/)
-
-“He left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/identifying-antichrists)
-
-[Identifying Antichrists](https://www.icr.org/article/identifying-antichrists/)
-
-“Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we...
-
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
-
-Shop Related Products
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
-
-The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
-
-$9.99
-
-$19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
-
-The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
-
-$14.99
-
-$19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/5202651/file.jpg)
-
-The Fossil Record](https://store.icr.org/dr-john-morris-the-fossil-record.html)
-
-$19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
-
-The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
-
-$19.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
