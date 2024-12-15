@@ -58,6 +58,53 @@ Technology & Services
 
 [](https://store.kardia.com/cart)
 
+[![Kardia Logo By Alivecor](/_next/static/media/kardiabyalivecor.04617b1e.svg)](https://www.kardia.com/)
+
+Sign up for Kardia news, updates, and other exclusive content—straight to your inbox.
+
+* [![Instagram](/_next/static/media/instagram.12136b80.svg)](https://www.instagram.com/alivecor/)
+* [![Facebook](/_next/static/media/facebook.c0da46eb.svg)](https://www.facebook.com/AliveCor/)
+* [![Twitter](/_next/static/media/twitter.0d345f1e.svg)](https://www.twitter.com/alivecor/)
+* [![LinkedIn](/_next/static/media/linkedin.667cb934.svg)](http://www.linkedin.com/company/alivecor/)
+
+* Customer Service
+    * [(855) 338-8800](tel:+18553388800)
+* Products
+    * [KardiaMobile Card](https://store.kardia.com/products/kardiamobile-card)
+    * [KardiaMobile 6L](https://store.kardia.com/products/kardiamobile6l)
+    * [KardiaMobile](https://store.kardia.com/products/kardiamobile)
+    * [Compare Kardia Devices](https://store.kardia.com/pages/device-comparison)
+    * [KardiaCare](https://store.kardia.com/products/kardiacare)
+    * [International](https://www.kardia.com/en/international)
+* Support
+    * [FAQs](https://alivecor.zendesk.com/hc/en-us)
+    * [User Manuals](https://alivecor.zendesk.com/hc/en-us/articles/1500000462022)
+    * [Compatibility](https://www.kardia.com/compatibility)
+    * [Shipping](https://www.kardia.com/shipping)
+    * [Warranty & Returns](https://www.kardia.com/warranty/en)
+    * (855) 338-8800
+* [![AliveCor Logo](/_next/static/media/logo.22bdad7f.svg)](https://alivecor.com/)
+    
+    * [Mission](https://alivecor.com/mission)
+    * [Leadership](https://alivecor.com/leadership-team)
+    * [Research](https://alivecor.com/research)
+    * [Newsroom](https://alivecor.com/press)
+    * [Careers](https://alivecor.com/careers)
+    
+
+* [![Instagram](/_next/static/media/instagram.12136b80.svg)](https://www.instagram.com/alivecor/)
+* [![Facebook](/_next/static/media/facebook.c0da46eb.svg)](https://www.facebook.com/AliveCor/)
+* [![Twitter](/_next/static/media/twitter.0d345f1e.svg)](https://www.twitter.com/alivecor/)
+* [![LinkedIn](/_next/static/media/linkedin.667cb934.svg)](http://www.linkedin.com/company/alivecor/)
+
+* [Privacy](https://www.kardia.com/en/privacy)
+* [Security](https://www.kardia.com/en/security)
+* [Accessibility](https://www.kardia.com/accessibility)
+* [Telehealth Informed Consent](https://www.kardia.com/en/telehealth-informed-consent)
+* [Terms of Service](https://www.kardia.com/en/tos)
+
+©2024 AliveCor, Inc. All Rights Reserved. Patents www.alivecor.com/patents. AliveCor and Kardia are trademarks of AliveCor, Inc. in the United States and other countries. Apple is a trademark of Apple, Inc. registered in the U.S. and other countries. App Store is a service mark of Apple, Inc. Android is a trademark of Google Inc. Google Play is a trademark of Google Inc.
+
 PRIVACY NOTICE
 ==============
 
@@ -631,50 +678,3 @@ Gangnam-gu, Seoul KR
 **E-mail:** [Privacy@AliveCor.com](mailto:Privacy@AliveCor.com)
 
 **Last reviewed on: June 26, 2024**
-
-[![Kardia Logo By Alivecor](/_next/static/media/kardiabyalivecor.04617b1e.svg)](https://www.kardia.com/)
-
-Sign up for Kardia news, updates, and other exclusive content—straight to your inbox.
-
-* [![Instagram](/_next/static/media/instagram.12136b80.svg)](https://www.instagram.com/alivecor/)
-* [![Facebook](/_next/static/media/facebook.c0da46eb.svg)](https://www.facebook.com/AliveCor/)
-* [![Twitter](/_next/static/media/twitter.0d345f1e.svg)](https://www.twitter.com/alivecor/)
-* [![LinkedIn](/_next/static/media/linkedin.667cb934.svg)](http://www.linkedin.com/company/alivecor/)
-
-* Customer Service
-    * [(855) 338-8800](tel:+18553388800)
-* Products
-    * [KardiaMobile Card](https://store.kardia.com/products/kardiamobile-card)
-    * [KardiaMobile 6L](https://store.kardia.com/products/kardiamobile6l)
-    * [KardiaMobile](https://store.kardia.com/products/kardiamobile)
-    * [Compare Kardia Devices](https://store.kardia.com/pages/device-comparison)
-    * [KardiaCare](https://store.kardia.com/products/kardiacare)
-    * [International](https://www.kardia.com/en/international)
-* Support
-    * [FAQs](https://alivecor.zendesk.com/hc/en-us)
-    * [User Manuals](https://alivecor.zendesk.com/hc/en-us/articles/1500000462022)
-    * [Compatibility](https://www.kardia.com/compatibility)
-    * [Shipping](https://www.kardia.com/shipping)
-    * [Warranty & Returns](https://www.kardia.com/warranty/en)
-    * (855) 338-8800
-* [![AliveCor Logo](/_next/static/media/logo.22bdad7f.svg)](https://alivecor.com/)
-    
-    * [Mission](https://alivecor.com/mission)
-    * [Leadership](https://alivecor.com/leadership-team)
-    * [Research](https://alivecor.com/research)
-    * [Newsroom](https://alivecor.com/press)
-    * [Careers](https://alivecor.com/careers)
-    
-
-* [![Instagram](/_next/static/media/instagram.12136b80.svg)](https://www.instagram.com/alivecor/)
-* [![Facebook](/_next/static/media/facebook.c0da46eb.svg)](https://www.facebook.com/AliveCor/)
-* [![Twitter](/_next/static/media/twitter.0d345f1e.svg)](https://www.twitter.com/alivecor/)
-* [![LinkedIn](/_next/static/media/linkedin.667cb934.svg)](http://www.linkedin.com/company/alivecor/)
-
-* [Privacy](https://www.kardia.com/en/privacy)
-* [Security](https://www.kardia.com/en/security)
-* [Accessibility](https://www.kardia.com/accessibility)
-* [Telehealth Informed Consent](https://www.kardia.com/en/telehealth-informed-consent)
-* [Terms of Service](https://www.kardia.com/en/tos)
-
-©2024 AliveCor, Inc. All Rights Reserved. Patents www.alivecor.com/patents. AliveCor and Kardia are trademarks of AliveCor, Inc. in the United States and other countries. Apple is a trademark of Apple, Inc. registered in the U.S. and other countries. App Store is a service mark of Apple, Inc. Android is a trademark of Google Inc. Google Play is a trademark of Google Inc.
