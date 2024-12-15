@@ -678,6 +678,6 @@ Save Preferences
 
 [Terms of Service & Privacy Policy](https://www.agragps.com/terms-of-use/) [Cookies Policy](https://www.agragps.com/terms-of-use/)
 
-                                                                                 
+                                                                               
 
 [Digitalagentur Forge12 Interactive GmbH](https://www.forge12.com/ "Digital Agentur")
