@@ -32,13 +32,13 @@
 
 More
 
-[World Test Championship](https://www.cricbuzz.com/cricket-stats/points-table/test/icc-world-test-championship "World Test Championship") [World Cup Super League](https://www.cricbuzz.com/cricket-stats/points-table/odi/icc-men-cricket-world-cup-super-league "World Cup Super League") [Photos](https://www.cricbuzz.com/cricket-photo-gallery "Photo Gallery") [Mobile Apps](https://www.cricbuzz.com/mobileapps "Mobile Apps")[Careers](https://www.cricbuzz.com/careers "Careers")[Contact Us](https://www.cricbuzz.com/info/contact "Contact Us")
+[World Test Championship](https://www.cricbuzz.com/cricket-stats/points-table/test/icc-world-test-championship "World Test Championship") [World Cup Super League](https://www.cricbuzz.com/cricket-stats/points-table/odi/icc-men-cricket-world-cup-super-league "World Cup Super League") [Auction Tracker](https://www.cricbuzz.com/cricket-series/wpl-2025/auction "WPL Auction") [Photos](https://www.cricbuzz.com/cricket-photo-gallery "Photo Gallery") [Mobile Apps](https://www.cricbuzz.com/mobileapps "Mobile Apps")[Careers](https://www.cricbuzz.com/careers "Careers")[Contact Us](https://www.cricbuzz.com/info/contact "Contact Us")
 
 [{{premiumScreenName}}](https://www.cricbuzz.com/cb-plus/premium-content/home)
 
 My Account Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Live](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Live")[PRS vs MLS - Preview](https://www.cricbuzz.com/live-cricket-scores/101564/prs-vs-mls-1st-match-big-bash-league-2024-25 "Perth Scorchers v Melbourne Stars, 1st Match - Preview")[MUM vs MP - Preview](https://www.cricbuzz.com/live-cricket-scores/99106/mum-vs-mp-final-syed-mushtaq-ali-trophy-2024 "Mumbai v Madhya Pradesh, Final - Preview")[RSAW vs ENGW - Preview](https://www.cricbuzz.com/live-cricket-scores/94478/rsaw-vs-engw-only-test-england-women-tour-of-south-africa-2024 "South Africa Women v England Women, Only Test - Preview")[NZ vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-england-tour-of-new-zealand-2024 "New Zealand v England, 3rd Test - Stumps")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[MP vs MUM - Live](https://www.cricbuzz.com/live-cricket-scores/99106/mp-vs-mum-final-syed-mushtaq-ali-trophy-2024 "Madhya Pradesh v Mumbai, Final - Live")[INDW vs WIW - Toss](https://www.cricbuzz.com/live-cricket-scores/110013/indw-vs-wiw-1st-t20i-west-indies-women-tour-of-india-2024 "India Women v West Indies Women, 1st T20I - Toss")[ENGW vs RSAW - Live](https://www.cricbuzz.com/live-cricket-scores/94478/engw-vs-rsaw-only-test-england-women-tour-of-south-africa-2024 "England Women v South Africa Women, Only Test - Live")[AUS vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Stumps")[NZ vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-england-tour-of-new-zealand-2024 "New Zealand v England, 3rd Test - Stumps")
 
 AllLive NowToday
 
@@ -46,7 +46,7 @@ AllLive NowToday
     
     Australia v India
     
-    [Australia vs India  LIVE](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Live")
+    [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Stumps")
     
     3rd Test
     
@@ -66,17 +66,13 @@ AllLive NowToday
     
     3rd T20I
     
+* [Zimbabwe vs Afghanistan](https://www.cricbuzz.com/live-cricket-scores/109337/zim-vs-afg-1st-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 1st ODI - Upcoming")
+    
+    1st ODI
+    
 * Gulf Cricket T20I Championship
     
-    [Bahrain vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/112233/bhr-vs-uae-1st-match-gulf-cricket-t20i-championship "Bahrain v United Arab Emirates, 1st Match - UAE Won")
-    
-    1st Match
-    
-* [Saudi Arabia vs Kuwait](https://www.cricbuzz.com/live-cricket-scores/112237/sau-vs-kuw-2nd-match-gulf-cricket-t20i-championship "Saudi Arabia v Kuwait, 2nd Match - KUW Won")
-    
-    2nd Match
-    
-* [Bahrain vs Kuwait](https://www.cricbuzz.com/live-cricket-scores/112241/bhr-vs-kuw-3rd-match-gulf-cricket-t20i-championship "Bahrain v Kuwait, 3rd Match - BHR Won")
+    [Bahrain vs Kuwait](https://www.cricbuzz.com/live-cricket-scores/112241/bhr-vs-kuw-3rd-match-gulf-cricket-t20i-championship "Bahrain v Kuwait, 3rd Match - BHR Won")
     
     3rd Match
     
@@ -84,11 +80,11 @@ AllLive NowToday
     
     4th Match
     
-* [United Arab Emirates vs Oman](https://www.cricbuzz.com/live-cricket-scores/112257/uae-vs-oman-5th-match-gulf-cricket-t20i-championship "United Arab Emirates v Oman, 5th Match - Ings Break")
+* [United Arab Emirates vs Oman](https://www.cricbuzz.com/live-cricket-scores/112257/uae-vs-oman-5th-match-gulf-cricket-t20i-championship "United Arab Emirates v Oman, 5th Match - UAE Won")
     
     5th Match
     
-* [Saudi Arabia vs Qatar](https://www.cricbuzz.com/live-cricket-scores/112261/sau-vs-qat-6th-match-gulf-cricket-t20i-championship "Saudi Arabia v Qatar, 6th Match - Preview")
+* [Qatar vs Saudi Arabia](https://www.cricbuzz.com/live-cricket-scores/112261/qat-vs-sau-6th-match-gulf-cricket-t20i-championship "Qatar v Saudi Arabia, 6th Match - Complete")
     
     6th Match
     
@@ -104,6 +100,10 @@ AllLive NowToday
     
     9th Match
     
+* [Oman vs Bahrain](https://www.cricbuzz.com/live-cricket-scores/112285/oman-vs-bhr-10th-match-gulf-cricket-t20i-championship "Oman v Bahrain, 10th Match - Upcoming")
+    
+    10th Match
+    
 * ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024
     
     [Bahamas vs Suriname](https://www.cricbuzz.com/live-cricket-scores/111461/bhm-vs-sn-match-26-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Suriname, Match 26 - BHM Won")
@@ -114,13 +114,13 @@ AllLive NowToday
     
     Match 25
     
-* [Panama vs Belize](https://www.cricbuzz.com/live-cricket-scores/111469/pan-vs-blz-match-27-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Belize, Match 27 - BLZ Won")
-    
-    Match 27
-    
 * [Argentina vs Mexico](https://www.cricbuzz.com/live-cricket-scores/111477/arg-vs-mex-match-28-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Argentina v Mexico, Match 28 - ARG Won")
     
     Match 28
+    
+* [Panama vs Belize](https://www.cricbuzz.com/live-cricket-scores/111469/pan-vs-blz-match-27-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Belize, Match 27 - BLZ Won")
+    
+    Match 27
     
 * [Argentina vs Cayman Islands](https://www.cricbuzz.com/live-cricket-scores/111489/arg-vs-caym-match-30-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Argentina v Cayman Islands, Match 30 - Upcoming")
     
@@ -146,21 +146,17 @@ AllLive NowToday
     
     Match 33
     
-* [Suriname vs Belize](https://www.cricbuzz.com/live-cricket-scores/111521/sn-vs-blz-match-35-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Suriname v Belize, Match 35 - Upcoming")
-    
-    Match 35
-    
 * [Brazil vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111529/brazil-vs-arg-match-36-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Brazil v Argentina, Match 36 - Upcoming")
     
     Match 36
     
+* [Suriname vs Belize](https://www.cricbuzz.com/live-cricket-scores/111521/sn-vs-blz-match-35-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Suriname v Belize, Match 35 - Upcoming")
+    
+    Match 35
+    
 * Africa Continental Cup
     
-    [Nigeria vs Rwanda](https://www.cricbuzz.com/live-cricket-scores/112177/nga-vs-rwa-17th-match-africa-continental-cup "Nigeria v Rwanda, 17th Match - NGA Won")
-    
-    17th Match
-    
-* [Uganda vs Botswana](https://www.cricbuzz.com/live-cricket-scores/112185/uga-vs-bw-18th-match-africa-continental-cup "Uganda v Botswana, 18th Match - UGA Won")
+    [Uganda vs Botswana](https://www.cricbuzz.com/live-cricket-scores/112185/uga-vs-bw-18th-match-africa-continental-cup "Uganda v Botswana, 18th Match - UGA Won")
     
     18th Match
     
@@ -184,17 +180,25 @@ AllLive NowToday
     
     3rd T20I
     
+* [South Africa vs Pakistan](https://www.cricbuzz.com/live-cricket-scores/94345/rsa-vs-pak-1st-odi-south-africa-vs-pakistan2024-25 "South Africa v Pakistan, 1st ODI - Upcoming")
+    
+    1st ODI
+    
 * T20 LEAGUE
     
     BBL 2024-25
     
-    [Perth Scorchers vs Melbourne Stars](https://www.cricbuzz.com/live-cricket-scores/101564/prs-vs-mls-1st-match-bbl-2024-25 "Perth Scorchers v Melbourne Stars, 1st Match - Preview")
+    [Melbourne Stars vs Perth Scorchers](https://www.cricbuzz.com/live-cricket-scores/101564/mls-vs-prs-1st-match-bbl-2024-25 "Melbourne Stars v Perth Scorchers, 1st Match - PRS Won")
     
     1st Match
     
-* [Sydney Sixers vs Melbourne Renegades](https://www.cricbuzz.com/live-cricket-scores/101570/sys-vs-mlr-2nd-match-bbl-2024-25 "Sydney Sixers v Melbourne Renegades, 2nd Match - Upcoming")
+* [Sydney Sixers vs Melbourne Renegades](https://www.cricbuzz.com/live-cricket-scores/101570/sys-vs-mlr-2nd-match-bbl-2024-25 "Sydney Sixers v Melbourne Renegades, 2nd Match - Preview")
     
     2nd Match
+    
+* [Sydney Thunder vs Adelaide Strikers](https://www.cricbuzz.com/live-cricket-scores/101571/syt-vs-ads-3rd-match-bbl-2024-25 "Sydney Thunder v Adelaide Strikers, 3rd Match - Upcoming")
+    
+    3rd Match
     
 * Lanka T10 Super League, 2024
     
@@ -222,11 +226,11 @@ AllLive NowToday
     
     12th Match
     
-* [Hambantota Bangla Tigers vs Kandy Bolts](https://www.cricbuzz.com/live-cricket-scores/110229/hbt-vs-kdb-13th-match-lanka-t10-super-league-2024 "Hambantota Bangla Tigers v Kandy Bolts, 13th Match - Preview")
+* [Hambantota Bangla Tigers vs Kandy Bolts](https://www.cricbuzz.com/live-cricket-scores/110229/hbt-vs-kdb-13th-match-lanka-t10-super-league-2024 "Hambantota Bangla Tigers v Kandy Bolts, 13th Match - Complete")
     
     13th Match
     
-* [Colombo Jaguars vs Galle Marvels](https://www.cricbuzz.com/live-cricket-scores/110237/cljr-vs-gam-14th-match-lanka-t10-super-league-2024 "Colombo Jaguars v Galle Marvels, 14th Match - Preview")
+* [Colombo Jaguars vs Galle Marvels  LIVE](https://www.cricbuzz.com/live-cricket-scores/110237/cljr-vs-gam-14th-match-lanka-t10-super-league-2024 "Colombo Jaguars v Galle Marvels, 14th Match - Live")
     
     14th Match
     
@@ -246,25 +250,29 @@ AllLive NowToday
     
     18th Match
     
+* [Colombo Jaguars vs Jaffna Titans](https://www.cricbuzz.com/live-cricket-scores/110265/cljr-vs-jft-19th-match-lanka-t10-super-league-2024 "Colombo Jaguars v Jaffna Titans, 19th Match - Upcoming")
+    
+    19th Match
+    
+* [Kandy Bolts vs Nuwara Eliya Kings](https://www.cricbuzz.com/live-cricket-scores/110269/kdb-vs-nek-20th-match-lanka-t10-super-league-2024 "Kandy Bolts v Nuwara Eliya Kings, 20th Match - Upcoming")
+    
+    20th Match
+    
 * DOMESTIC
     
     SMA Trophy 2024
     
-    [Baroda vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/99102/brd-vs-mum-semi-final-1-sma-trophy-2024 "Baroda v Mumbai, Semi Final 1 - MUM Won")
-    
-    Semi Final 1
-    
-* [Delhi vs Madhya Pradesh](https://www.cricbuzz.com/live-cricket-scores/99104/del-vs-mp-semi-final-2-sma-trophy-2024 "Delhi v Madhya Pradesh, Semi Final 2 - MP Won")
+    [Delhi vs Madhya Pradesh](https://www.cricbuzz.com/live-cricket-scores/99104/del-vs-mp-semi-final-2-sma-trophy-2024 "Delhi v Madhya Pradesh, Semi Final 2 - MP Won")
     
     Semi Final 2
     
-* [Mumbai vs Madhya Pradesh](https://www.cricbuzz.com/live-cricket-scores/99106/mum-vs-mp-final-sma-trophy-2024 "Mumbai v Madhya Pradesh, Final - Preview")
+* [Madhya Pradesh vs Mumbai  LIVE](https://www.cricbuzz.com/live-cricket-scores/99106/mp-vs-mum-final-sma-trophy-2024 "Madhya Pradesh v Mumbai, Final - Live")
     
     Final
     
 * CSA Four-Day Series Division Two 2024-25
     
-    [Mpumalanga Rhinos vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104380/mpr-vs-estorm-12th-match-csa-four-day-series-division-two-2024-25 "Mpumalanga Rhinos v Eastern Storm, 12th Match - Stumps")
+    [Mpumalanga Rhinos vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104380/mpr-vs-estorm-12th-match-csa-four-day-series-division-two-2024-25 "Mpumalanga Rhinos v Eastern Storm, 12th Match - MPR Won")
     
     12th Match
     
@@ -276,13 +284,13 @@ AllLive NowToday
     
     South Africa Women v England Women, 2024
     
-    [South Africa Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/94478/rsaw-vs-engw-only-test-south-africa-women-v-england-women-2024 "South Africa Women v England Women, Only Test - Preview")
+    [England Women vs South Africa Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/94478/engw-vs-rsaw-only-test-south-africa-women-v-england-women-2024 "England Women v South Africa Women, Only Test - Live")
     
     Only Test
     
 * India Women v West Indies Women, 2024
     
-    [India Women vs West Indies Women](https://www.cricbuzz.com/live-cricket-scores/110013/indw-vs-wiw-1st-t20i-india-women-v-west-indies-women-2024 "India Women v West Indies Women, 1st T20I - Preview")
+    [India Women vs West Indies Women](https://www.cricbuzz.com/live-cricket-scores/110013/indw-vs-wiw-1st-t20i-india-women-v-west-indies-women-2024 "India Women v West Indies Women, 1st T20I - Toss")
     
     1st T20I
     
@@ -593,41 +601,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
-  [](https://www.cricbuzz.com/cricket-news/132765/collecitve-bowling-performance-puts-nz-in-command "Collecitve bowling performance puts NZ in command")
+  [](https://www.cricbuzz.com/cricket-news/132770/nahid-rana-added-to-bangladesh-t20i-squad-against-west-indies "Nahid Rana added to Bangladesh T20I squad against West Indies")
 
-[Collecitve bowling performance puts NZ in command](https://www.cricbuzz.com/cricket-news/132765/collecitve-bowling-performance-puts-nz-in-command "Collecitve bowling performance puts NZ in command")
+[Nahid Rana added to Bangladesh T20I squad against West Indies](https://www.cricbuzz.com/cricket-news/132770/nahid-rana-added-to-bangladesh-t20i-squad-against-west-indies "Nahid Rana added to Bangladesh T20I squad against West Indies")
 
-49m ago
+12m ago
 
-  [](https://www.cricbuzz.com/cricket-news/132764/head-puts-india-to-the-sword-once-again "Head ton helps Australia hit back after early strikes")
+  [](https://www.cricbuzz.com/cricket-news/132769/richardson-connolly-brush-aside-stars-in-bbl-opener " Richardson, Connolly brush aside Stars in BBL opener")
 
-[Head ton helps Australia hit back after early strikes](https://www.cricbuzz.com/cricket-news/132764/head-puts-india-to-the-sword-once-again "Head ton helps Australia hit back after early strikes")
+[Richardson, Connolly brush aside Stars in BBL opener](https://www.cricbuzz.com/cricket-news/132769/richardson-connolly-brush-aside-stars-in-bbl-opener " Richardson, Connolly brush aside Stars in BBL opener")
 
-2h ago
+35m ago
 
-  [](https://www.cricbuzz.com/cricket-news/132763/india-strike-thrice-in-riveting-session-of-play-before-lunch "India strike thrice in riveting session of play before Lunch ")
+  [](https://www.cricbuzz.com/cricket-news/132768/an-old-ghost-joins-the-horror-flick-cast-to-haunt-india "An old ghost joins the horror flick cast to haunt India")
 
-[India strike thrice in riveting session of play before Lunch](https://www.cricbuzz.com/cricket-news/132763/india-strike-thrice-in-riveting-session-of-play-before-lunch "India strike thrice in riveting session of play before Lunch ")
+[An old ghost joins the horror flick cast to haunt India](https://www.cricbuzz.com/cricket-news/132768/an-old-ghost-joins-the-horror-flick-cast-to-haunt-india "An old ghost joins the horror flick cast to haunt India")
 
-4h ago
+39m ago
 
-  [](https://www.cricbuzz.com/cricket-news/132762/amidst-test-recall-jeopardy-shami-picked-in-bengals-vht-squad "Amidst Test recall speculation, Shami picked in Bengal's VHT squad")
+  [](https://www.cricbuzz.com/cricket-news/132767/tons-from-head-smith-put-australia-in-the-box-seat "Tons from Head, Smith put Australia in the box seat")
 
-[Amidst Test recall speculation, Shami picked in Bengal's VHT squad](https://www.cricbuzz.com/cricket-news/132762/amidst-test-recall-jeopardy-shami-picked-in-bengals-vht-squad "Amidst Test recall speculation, Shami picked in Bengal's VHT squad")
+[Tons from Head, Smith put Australia in the box seat](https://www.cricbuzz.com/cricket-news/132767/tons-from-head-smith-put-australia-in-the-box-seat "Tons from Head, Smith put Australia in the box seat")
 
-12h ago
+5h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132761/crickets-lesser-spotted-test-comes-to-bloemfontein "Cricket's lesser spotted test comes to Bloemfontein")
+  [](https://www.cricbuzz.com/cricket-news/132766/stats-highlights-steve-smith-only-behind-ricky-ponting-now "Stats Highlights: Steve Smith only behind Ricky Ponting now")
 
-[Cricket's lesser spotted test comes to Bloemfontein](https://www.cricbuzz.com/cricket-news/132761/crickets-lesser-spotted-test-comes-to-bloemfontein "Cricket's lesser spotted test comes to Bloemfontein")
+[Stats Highlights: Steve Smith only behind Ricky Ponting now](https://www.cricbuzz.com/cricket-news/132766/stats-highlights-steve-smith-only-behind-ricky-ponting-now "Stats Highlights: Steve Smith only behind Ricky Ponting now")
 
-14h ago
+5h ago
 
-  [](https://www.cricbuzz.com/cricket-news/132760/new-zealand-pick-uncapped-bella-james-for-australia-odis "New Zealand pick uncapped Bella James for Australia ODIs")
+  [](https://www.cricbuzz.com/cricket-news/132765/collecitve-bowling-performance-puts-nz-in-command "Collective bowling performance puts NZ in command")
 
-[New Zealand pick uncapped Bella James for Australia ODIs](https://www.cricbuzz.com/cricket-news/132760/new-zealand-pick-uncapped-bella-james-for-australia-odis "New Zealand pick uncapped Bella James for Australia ODIs")
+[Collective bowling performance puts NZ in command](https://www.cricbuzz.com/cricket-news/132765/collecitve-bowling-performance-puts-nz-in-command "Collective bowling performance puts NZ in command")
 
-14h ago
+6h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
