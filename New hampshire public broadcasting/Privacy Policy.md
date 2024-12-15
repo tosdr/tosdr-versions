@@ -185,8 +185,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [| Christa](https://video.nhpbs.org/video/christa-ygbur1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**2024 Hyundai Palisade Night Edition & 2024 GMC Hummer EV SUV** | MotorWeek](https://video.nhpbs.org/video/2024-hyundai-palisade-night-edition-2024-gmc-hummer-ev-suv-s0cni5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Rising Star Wrestler overcomes tragedy in Wrangell INDIE ALASKA** | Indie Alaska](https://video.nhpbs.org/video/rising-star-wrestler-overcomes-tragedy-in-wrangell-indie-alaska-gsijwe?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**2024 Hyundai Palisade Night Edition & 2024 GMC Hummer EV SUV** | MotorWeek](https://video.nhpbs.org/video/2024-hyundai-palisade-night-edition-2024-gmc-hummer-ev-suv-s0cni5?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Violent Femmes 40th Anniversary with the Milwaukee Symphony Orchestra** | Milwaukee PBS Specials](https://video.nhpbs.org/video/violent-femmes-40th-anniversary-with-the-milwaukee-symphony-orchestra-gvuwzn?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**December 14, 2024 - PBS News Weekend full episode** | PBS News Hour](https://video.nhpbs.org/video/december-14-2024-pbs-news-weekend-full-episode-1734193546?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Season 6 Preview** | History with David Rubenstein](https://video.nhpbs.org/video/season-6-preview-9s6x6r?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
