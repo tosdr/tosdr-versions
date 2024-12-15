@@ -48,7 +48,7 @@ Our Data Protection Policy in compliance with the UK General Data Protection Reg
 
 ### Anti-Bribery Policy
 
-One of Whizz Education’s core values is to uphold responsible and fair business practices. It is committed to promoting and maintaining the highest level of ethical standards in relation to all of its business activities. Its reputation for maintaining lawful business practices is of paramount importance and the Anti-Bribery Policy available [here](https://www.whizz.com/wp-content/uploads/2023/01/Anti-Bribery-Policy.pdf.pagespeed.ce.M2QatezeDj.pdf) is designed to preserve these values. Whizz Education therefore has a zero tolerance policy towards bribery and corruption and is committed to acting fairly and with integrity in all of its business dealings and relationships and implementing and enforcing effective systems to counter bribery.
+One of Whizz Education’s core values is to uphold responsible and fair business practices. It is committed to promoting and maintaining the highest level of ethical standards in relation to all of its business activities. Its reputation for maintaining lawful business practices is of paramount importance and the Anti-Bribery Policy available [here](https://www.whizz.com/wp-content/uploads/2023/01/Anti-Bribery-Policy.pdf) is designed to preserve these values. Whizz Education therefore has a zero tolerance policy towards bribery and corruption and is committed to acting fairly and with integrity in all of its business dealings and relationships and implementing and enforcing effective systems to counter bribery.
 
 ### Disclaimer
 
