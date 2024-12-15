@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I was happy with the service. It's just that I don't need it for the moment. If and when I need it again I would be happy to resubscribe.
+First class support from a first class service. Thanks very much indeed ;)
 
-Tom Morton
+Paul Greer
