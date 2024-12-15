@@ -29,15 +29,17 @@ Version All 1.21.4 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 
 
 Active Servers
 
-[1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")[![VersenityGames](plugins/MineCraft/icons/25x25xVersenityGames_1730161639.png.pagespeed.ic.6SScOAerg5.png)
+[![PeenoiseMCOfficial](plugins/MineCraft/icons/25x25xPeenoiseMCOfficial_1730695625.png.pagespeed.ic.tgeK52Y0aK.jpg)
 
-Versenity Survival](https://minecraft-server.net/details/VersenityGames/ "Versenity Survival")[![StormyLagoon](plugins/MineCraft/icons/25x25xStormyLagoon_1734154442.png.pagespeed.ic.BpAXGCTt4U.png)
+peenoisemc.xyz](https://minecraft-server.net/details/PeenoiseMCOfficial/ "peenoisemc.xyz")[![Tilted_Tavern](plugins/MineCraft/icons/25x25xTilted_Tavern_1726404034.png.pagespeed.ic.TYT4nh9NT_.png)
 
-Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+Tilted Tavern](https://minecraft-server.net/details/Tilted_Tavern/ "Tilted Tavern")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
+CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")[![TotalVanilla](plugins/MineCraft/icons/25x25xTotalVanilla_1734020162.png.pagespeed.ic.TdWQjrJnTo.jpg)
 
-Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")
+Total Vanilla](https://minecraft-server.net/details/TotalVanilla/ "Total Vanilla")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1732687836.png.pagespeed.ic.0wYsTOy-Nc.png)
+
+STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -114,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06084 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06903 - Created by [Debaucus](https://debauc.us/)
