@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. java
+1. python
     
-2. machine learning
+2. excel
     
-3. French
+3. computer science
     
 
 Popular subjects
 
-1. [Web Development
+1. [Communication Skills
     
-    14,049 courses](https://www.classcentral.com/subject/web-development)
-2. [Data Analysis
+    4,410 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Python
     
-    9,090 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Machine Learning
+    10,255 courses](https://www.classcentral.com/subject/python)
+3. [Ethical Hacking
     
-    17,584 courses](https://www.classcentral.com/subject/machine-learning)
+    2,284 courses](https://www.classcentral.com/subject/ethical-hacking)
 
 Popular courses
 
-1. [Computing in Python I: Fundamentals and Procedural Programming
+1. [Introduction to Indoor Air Quality
     
-    Georgia Institute of Technology](https://www.classcentral.com/course/python-the-georgia-institute-of-technology-comput-11469)
-2. [Perdón y reconciliación: cómo sanar heridas
+    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/intro-indoor-air-quality-9706)
+2. [Viral Marketing and How to Craft Contagious Content
     
-    The Pontificia Universidad Javeriana](https://www.classcentral.com/course/social-science-pontificia-universidad-javeriana-p-11475)
-3. [Fundamentals of Neuroscience, Part 1: The Electrical Properties of the Neuron
+    University of Pennsylvania](https://www.classcentral.com/course/wharton-contagious-viral-marketing-5034)
+3. [Vital Signs: Understanding What the Body Is Telling Us
     
-    Harvard University](https://www.classcentral.com/course/neuroscience-harvard-university-fundamentals-of-n-942)
+    University of Pennsylvania](https://www.classcentral.com/course/vitalsigns-1887)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
