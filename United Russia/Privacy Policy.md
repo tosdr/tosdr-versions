@@ -289,6 +289,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» почтили память российских журналистов, погибших в зоне СВО и горячих точках](https://cdn.er.ru/media/news/December2024/AGhQy6qpvnq0Uc6eEUSj-small.jpg)](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-pochtili-pamyat-rossijskih-zhurnalistov-pogibshih-v-zone-svo-i-goryachih-tochkah)
+
+[Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» почтили память российских журналистов, погибших в зоне СВО и горячих точках](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-pochtili-pamyat-rossijskih-zhurnalistov-pogibshih-v-zone-svo-i-goryachih-tochkah)
+
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#памятныеакции](https://er.ru/activity/news?tags%5B0%5D=148650) [#журналисты](https://er.ru/activity/news?tags%5B0%5D=141454) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтерскаярота](https://er.ru/activity/news?tags%5B0%5D=1090569)
+
+Сегодня 13:30
+
 [![Там, где решается судьба страны: «Единая Россия» провела XXII Съезд](https://cdn.er.ru/media/news/December2024/49kHKTKhGXIB11dNQCNi-small.jpg)](https://er.ru/activity/news/tam-gde-reshaetsya-sudba-strany-edinaya-rossiya-provela-xxii-sezd)
 
 [Там, где решается судьба страны: «Единая Россия» провела XXII Съезд](https://er.ru/activity/news/tam-gde-reshaetsya-sudba-strany-edinaya-rossiya-provela-xxii-sezd)
@@ -326,14 +334,6 @@
 [«Единая Россия» на Съезде обновила состав Генерального совета](https://er.ru/activity/news/edinaya-rossiya-na-sezde-obnovila-sostav-generalnogo-soveta)
 
 [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#ротация](https://er.ru/activity/news?tags%5B0%5D=1628) [#ПГС](https://er.ru/activity/news?tags%5B0%5D=2749)
-
-14.12.24
-
-[![XXII Съезд «Единой России» произвёл ротацию Высшего совета партии](https://cdn.er.ru/media/news/December2024/SdOVoqwffuoedoL1WdcD-small.jpg)](https://er.ru/activity/news/xxii-sezd-edinoj-rossii-proizvyol-rotaciyu-vysshego-soveta-partii)
-
-[XXII Съезд «Единой России» произвёл ротацию Высшего совета партии](https://er.ru/activity/news/xxii-sezd-edinoj-rossii-proizvyol-rotaciyu-vysshego-soveta-partii)
-
-[#ВысшийСоветПартииЕР](https://er.ru/activity/news?tags%5B0%5D=1092448) [#ротация](https://er.ru/activity/news?tags%5B0%5D=1628) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999)
 
 14.12.24
 
