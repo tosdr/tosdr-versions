@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 15, 2024](https://www.japantimes.co.jp/archive/2024/12/15/ "archive page")
+[December 16, 2024](https://www.japantimes.co.jp/archive/2024/12/16/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -468,21 +468,21 @@ Revised June 1, 2022
 
   [![South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440177.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ")](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
 
-[U.S. serviceman sentenced over sexual assault of underage girl in Okinawa](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
+[U.S. Marines begin to relocate from Okinawa to Guam](https://www.japantimes.co.jp/news/2024/12/14/japan/okinawa-marines-guam-relocation/ "U.S. Marines begin to relocate from Okinawa to Guam")
 
-  [![The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439917.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.")](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
+  [![U.S. Marine Corps Air Station Futenma in Ginowan, Okinawa Prefecture, in 2021](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440174.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. Marine Corps Air Station Futenma in Ginowan, Okinawa Prefecture, in 2021")](https://www.japantimes.co.jp/news/2024/12/14/japan/okinawa-marines-guam-relocation/ "U.S. Marines begin to relocate from Okinawa to Guam")
 
-[Macron names veteran centrist ally Francois Bayrou as France's prime minister](https://www.japantimes.co.jp/news/2024/12/13/world/politics/francois-bayrou-new-french-pm/ "Macron names veteran centrist ally Francois Bayrou as France's prime minister")
+[Japan ready to team up with Trump over North Korea abduction issue](https://www.japantimes.co.jp/news/2024/12/14/japan/politics/north-korea-abductions-trump-cooperation/ "Japan ready to team up with Trump over North Korea abduction issue")
 
-  [![Francois Bayrou and French President Emmanuel Macron in Pau, France, in July 2023. On Friday, Macron named Bayrou as prime minister. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/440118.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Francois Bayrou and French President Emmanuel Macron in Pau, France, in July 2023. On Friday, Macron named Bayrou as prime minister. ")](https://www.japantimes.co.jp/news/2024/12/13/world/politics/francois-bayrou-new-french-pm/ "Macron names veteran centrist ally Francois Bayrou as France's prime minister")
+  [![Chief Cabinet Secretary Yoshimasa Hayashi speaks with students from Okayama University about the issue of North Korea's abductions of Japanese citizens decades ago, in Tokyo on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440179.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Chief Cabinet Secretary Yoshimasa Hayashi speaks with students from Okayama University about the issue of North Korea's abductions of Japanese citizens decades ago, in Tokyo on Saturday. ")](https://www.japantimes.co.jp/news/2024/12/14/japan/politics/north-korea-abductions-trump-cooperation/ "Japan ready to team up with Trump over North Korea abduction issue")
 
 [Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
 
   [![A Nippon Steel blast furnace building in Kashima, Ibaraki Prefecture, on Dec. 6](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440134.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Nippon Steel blast furnace building in Kashima, Ibaraki Prefecture, on Dec. 6")](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
 
-[Trilateral fighter project takes big step with joint venture deal](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
+[Protesters in South Korea rejoice as lawmakers impeach Yoon](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/protesters-rejoice-yoon-impeachment/ "Protesters in South Korea rejoice as lawmakers impeach Yoon")
 
-  [![Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439993.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.")](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
+  [![Protesters calling for the ouster of South Korean President Yoon Suk Yeol react after the result of the second impeachment vote outside the National Assembly in Seoul on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440172.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters calling for the ouster of South Korean President Yoon Suk Yeol react after the result of the second impeachment vote outside the National Assembly in Seoul on Saturday.")](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/protesters-rejoice-yoon-impeachment/ "Protesters in South Korea rejoice as lawmakers impeach Yoon")
 
 [The year that Shohei Ohtani achieved 'yokozuna' status … in the market](https://www.japantimes.co.jp/life/2024/12/13/lifestyle/2024-hit-products-japan/ "The year that Shohei Ohtani achieved 'yokozuna' status … in the market")
 
@@ -523,9 +523,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Chinese firms take on EV truck challenges](https://www.japantimes.co.jp/business/2024/12/15/chinese-firms-ev-truck-challenges/ "Chinese firms take on EV truck challenges")
-
-2 hours ago
-
-[South Korean opposition urges swift removal of impeached President Yoon](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-opposition-yoon-removal/ "South Korean opposition urges swift removal of impeached President Yoon")
-
-2 hours ago
-
-[South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
+[Latest scandal raises fresh questions about U.K.'s Prince Andrew](https://www.japantimes.co.jp/news/2024/12/15/world/prince-andrew-latest-scandal/ "Latest scandal raises fresh questions about U.K.'s Prince Andrew")
 
 3 hours ago
 
-[Indian-born CEO of Japanese company says nation needs immigration to thrive](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
+[Australia says remaining 'Bali Nine' members have returned from Indonesia](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/crime-legal/bali-nine-return-to-australia/ "Australia says remaining 'Bali Nine' members have returned from Indonesia")
 
 5 hours ago
 
-[Forging a career through digital transformation and mindset change](https://www.japantimes.co.jp/business/2024/12/15/women-work-satoko-shisai/ "Forging a career through digital transformation and mindset change")
+[Chinese firms take on EV truck challenges](https://www.japantimes.co.jp/business/2024/12/15/chinese-firms-ev-truck-challenges/ "Chinese firms take on EV truck challenges")
 
-6 hours ago
+8 hours ago
+
+[South Korean opposition urges swift removal of impeached President Yoon](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-opposition-yoon-removal/ "South Korean opposition urges swift removal of impeached President Yoon")
+
+8 hours ago
+
+[South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
+
+9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
