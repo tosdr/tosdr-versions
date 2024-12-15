@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr religion the stone mover](/freeblr/religion/the-stone-mover/card.svg)](https://jarick.works/freeblr/religion/the-stone-mover)[![freeblr family](/freeblr/family/card.svg)](https://jarick.works/freeblr/family)[![freeblr economics marx as utopian](/freeblr/economics/marx-as-utopian/card.svg)](https://jarick.works/freeblr/economics/marx-as-utopian)[![freeblr borders the age of the suitcase nuke](/freeblr/borders/the-age-of-the-suitcase-nuke/card.svg)](https://jarick.works/freeblr/borders/the-age-of-the-suitcase-nuke)
+[![freeblr justice social justice philosophy is a blank cheque for government power](/freeblr/justice/social-justice-philosophy-is-a-blank-cheque-for-government-power/card.svg)](https://jarick.works/freeblr/justice/social-justice-philosophy-is-a-blank-cheque-for-government-power)[![freeblr limited government how can governments be abolished](/freeblr/limited-government/how-can-governments-be-abolished/card.svg)](https://jarick.works/freeblr/limited-government/how-can-governments-be-abolished)[![freeblr government what are the myths of statism](/freeblr/government/what-are-the-myths-of-statism/card.svg)](https://jarick.works/freeblr/government/what-are-the-myths-of-statism)[![freeblr environment the problem of environmental protection](/freeblr/environment/the-problem-of-environmental-protection/card.svg)](https://jarick.works/freeblr/environment/the-problem-of-environmental-protection)
 
 [Follow](#follow)
 
