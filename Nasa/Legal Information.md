@@ -76,7 +76,7 @@ article2 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/persever
 
 ### Hubble Images a Grand Spiral
 
-article1 day ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![What’s Up: December 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/parkcityutmeteor-credit-nasa-bill-dunford-jpg.webp)
+article2 days ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![What’s Up: December 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2023/06/parkcityutmeteor-credit-nasa-bill-dunford-jpg.webp)
 
 5 min read
 
@@ -247,7 +247,7 @@ Back
 
 ### Hubble Images a Grand Spiral
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Roman Integrated Payload Assembly](https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy-2.jpg?w=819)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Roman Integrated Payload Assembly](https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy-2.jpg?w=819)
 
 4 min read
 
@@ -335,7 +335,7 @@ article 3 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/ingenui
 
 ### Hubble Images a Grand Spiral
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Roman Integrated Payload Assembly](https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy-2.jpg?w=819)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Roman Integrated Payload Assembly](https://www.nasa.gov/wp-content/uploads/2024/12/ipa-ssdif-1124-copy-2.jpg?w=819)
 
 4 min read
 
@@ -363,7 +363,7 @@ article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024
 
 ### Hubble Images a Grand Spiral
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Amendment 82: A.48 Commercial Satellite Data Earth Science and Applications Final Text and Due Dates Released](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/svs/a000000/a004700/a004745/landsat_w_sentinel_v2_ls8ls9sAsB_fade_08_60fps_4k_3240_print.jpg)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Amendment 82: A.48 Commercial Satellite Data Earth Science and Applications Final Text and Due Dates Released](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/svs/a000000/a004700/a004745/landsat_w_sentinel_v2_ls8ls9sAsB_fade_08_60fps_4k_3240_print.jpg)
 
 2 min read
 
@@ -379,7 +379,7 @@ article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### High-Power Advanced Cable Technology
 
-article 22 hours ago](https://www.nasa.gov/hiact/)[![A man wearing a blue hard hat stands next to a large cylinder-shaped rig while operating it.](https://www.nasa.gov/wp-content/uploads/2024/12/dsr-1.jpg?w=819)
+article 1 day ago](https://www.nasa.gov/hiact/)[![A man wearing a blue hard hat stands next to a large cylinder-shaped rig while operating it.](https://www.nasa.gov/wp-content/uploads/2024/12/dsr-1.jpg?w=819)
 
 2 min read
 
