@@ -95,8 +95,8 @@ Top downloads
 * [Mario Teaches Typing](https://www.myabandonware.com/game/mario-teaches-typing-1gl)
 * [Silent Hill 2: Restless Dreams](https://www.myabandonware.com/game/silent-hill-2-restless-dreams-bgd)
 * [Need for Speed: Most Wanted](https://www.myabandonware.com/game/need-for-speed-most-wanted-i4m)
-* [Prince of Persia](https://www.myabandonware.com/game/prince-of-persia-pd)
 * [Need for Speed: Underground 2](https://www.myabandonware.com/game/need-for-speed-underground-2-ega)
+* [Prince of Persia](https://www.myabandonware.com/game/prince-of-persia-pd)
 * [The House of the Dead 2](https://www.myabandonware.com/game/the-house-of-the-dead-2-beg)
 * [SimAnt](https://www.myabandonware.com/game/simant-197)
 * [The Typing of the Dead](https://www.myabandonware.com/game/the-typing-of-the-dead-bee)
@@ -118,9 +118,9 @@ Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/mya
 
 Screenshots needed
 
-* [Actionliga Hockey](https://www.myabandonware.com/game/actionliga-hockey-q62)
-* [TNT](https://www.myabandonware.com/game/tnt-k29)
-* [Pumuckl Memo 2](https://www.myabandonware.com/game/pumuckl-memo-2-hj9)
+* [Tokimeki Memorial: Forever with You](https://www.myabandonware.com/game/tokimeki-memorial-forever-with-you-p3y)
+* [Judge Dredd](https://www.myabandonware.com/game/judge-dredd-sg2)
+* [Disney's Lilo & Stitch Pinball](https://www.myabandonware.com/game/disney-s-lilo-stitch-pinball-rpx)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
