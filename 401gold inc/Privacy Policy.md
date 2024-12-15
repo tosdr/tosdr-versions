@@ -217,7 +217,7 @@ Hours of Operation
 |     |     |
 | --- | --- |
 | Mon - Fri | 10am – 6pm |
-| Sat | 10am – 4pm |
+| Sat | 11am – 4pm |
 | Sun | 12pm – 4pm |
 
 ###### Xmas Opening Hours
