@@ -205,23 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Design the Worst Band Shirt!](https://www.somethingawful.com/photoshop-phriday/worst-band-shirts/1/)
-* [Moon Patrol: The Erotic Adventures](https://www.somethingawful.com/feature-articles/moon-patrol-erotic/)
-* [Storytime: Silverhawks!](https://www.somethingawful.com/feature-articles/storytime-silverhawks/1/)
-* [Video Game Movies You'd Actually Want to See!](https://www.somethingawful.com/photoshop-phriday/game-film-adaptations/)
+* [Changeling: The Dreaming (1997)](https://www.somethingawful.com/dungeons-and-dragons/changeling-white-wolf/1/)
+* [Game and Movie Hybrids 2 (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/game-movie-hybrids-2/1/)
+* [BeastForum, AnimeNation, and Girl.com.au](https://www.somethingawful.com/weekend-web/beastforum-animenation-girlcomau/1/)
+* [Misspelled Movies II](https://www.somethingawful.com/photoshop-phriday/misspelled-movies-ii/1/)
+* [Chemtrail Central, RingSurf, and Xbox](https://www.somethingawful.com/weekend-web/chemtrail-central-ringsurf/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/whine.png) [We have a Malcolm in the Middle reboot](http://forums.somethingawful.com/showthread.php?threadid=4077505 "We have a Malcolm in the Middle reboot")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [ITT: We are in a Saturday morning kids cartoon that uncool parents hate](http://forums.somethingawful.com/showthread.php?threadid=4077504 "ITT: We are in a Saturday morning kids cartoon that uncool parents hate")
+* ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [NOT a 5 star experience!](http://forums.somethingawful.com/showthread.php?threadid=4077563 "NOT a 5 star experience!")
 
 ### Random Articles
 
-* [Not Every Halloween Effigy is About YOU, Steve](https://www.somethingawful.com/news/halloween-effigy-neighbor/)
-* [The Faces of Anime](https://www.somethingawful.com/photoshop-phriday/faces-anime/1/)
-* [New Affordable Healthcare Plans](https://www.somethingawful.com/news/healthcare-changes/)
-* [Robin Hood](https://www.somethingawful.com/current-movie-reviews/fat-robin-hood/)
-* [The Bowlers' Alley](https://www.somethingawful.com/awful-links/awful-link-1025/)
+* [A Timeline Of The Penn State Self-Implosion](https://www.somethingawful.com/news/penn-state-timeline/)
+* [My Dad the Ghost Rider](https://www.somethingawful.com/news/growing-up-super/1/)
+* [Going Towards the War In the Easts](https://www.somethingawful.com/news/going-towards-war/)
+* [A Modest Papal Proposal](https://www.somethingawful.com/news/papal-proposal/)
+* [Cut Features from The Beatles: Rock Band](https://www.somethingawful.com/news/beatles-rock-band/)
 
 [Random!](https://www.somethingawful.com/random/)
 
