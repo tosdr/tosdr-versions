@@ -1,7 +1,3 @@
-![](https://mc.yandex.ru/watch/53989831)
-
- Privacy policy - PsychonautWiki                        
-
 [](#)
 
  Open main menu
