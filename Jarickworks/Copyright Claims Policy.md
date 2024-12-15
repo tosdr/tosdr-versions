@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr health how government solved the health care crisis](/freeblr/health/how-government-solved-the-health-care-crisis/card.svg)](https://jarick.works/freeblr/health/how-government-solved-the-health-care-crisis)[![freeblr taxation taxation call it what it is](/freeblr/taxation/taxation-call-it-what-it-is/card.svg)](https://jarick.works/freeblr/taxation/taxation-call-it-what-it-is)[![freeblr borders](/freeblr/borders/card.svg)](https://jarick.works/freeblr/borders)[![freeblr faq is anarchism the same thing as libertarianism](/freeblr/faq/is-anarchism-the-same-thing-as-libertarianism/card.svg)](https://jarick.works/freeblr/faq/is-anarchism-the-same-thing-as-libertarianism)
+[![freeblr taxation private charity versus public welfare](/freeblr/taxation/private-charity-versus-public-welfare/card.svg)](https://jarick.works/freeblr/taxation/private-charity-versus-public-welfare)[![freeblr faq can anarcho capitalism work](/freeblr/faq/can-anarcho-capitalism-work/card.svg)](https://jarick.works/freeblr/faq/can-anarcho-capitalism-work)[![freeblr government how the state destroys social cooperation](/freeblr/government/how-the-state-destroys-social-cooperation/card.svg)](https://jarick.works/freeblr/government/how-the-state-destroys-social-cooperation)[![spekr what is conservatism](/spekr/what-is-conservatism/card.svg)](https://jarick.works/spekr/what-is-conservatism)
 
 [Follow](#follow)
 
