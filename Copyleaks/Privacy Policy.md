@@ -64,7 +64,7 @@
                 
                 ![What is Gemini](https://copyleaks.com/wp-content/uploads/2024/11/What-is-Gemini-BlogHeader-1-1.webp)](https://copyleaks.com/blog/what-is-gemini-ai-and-how-does-it-work)
                 
-                [What is Gemini AI and How Does it Work?](https://copyleaks.com/blog/what-is-gemini-ai-and-how-does-it-work)
+                [What is Gemini and How Does it Work?](https://copyleaks.com/blog/what-is-gemini-ai-and-how-does-it-work)
                 
                 [![AI prompt bubbles and a computer screen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201485%201116'%3E%3C/svg%3E)
                 
