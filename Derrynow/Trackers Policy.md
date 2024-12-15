@@ -257,6 +257,22 @@ Advertise with Us
 
 Most Popular
 
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1680147/derry-death-notices-sunday-december-15-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, December 15, 2024](https://www.derrynow.com/news/deaths/1680147/derry-death-notices-sunday-december-15-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
+
+Kevin Deery watched his team produce their best performance of the season.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Institute dominate league leaders Bangor at the Brandywell](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Twenty police officers injured in NI in less than 24 hours](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Twenty police officers injured in NI in less than 24 hours")](https://www.derrynow.com/news/national-news/1680768/twenty-police-officers-injured-in-ni-in-less-than-24-hours.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
@@ -273,38 +289,6 @@ New music collective Roe Valley Musicians.
 [Roe Valley Musicians bring busking back to Limavady](https://www.derrynow.com/news/local-news/1676978/roe-valley-musicians-bring-busking-back-to-limavady.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
-
-Kevin Deery watched his team produce their best performance of the season.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Institute dominate league leaders Bangor at the Brandywell](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![NI Science Festival reveals blooming great programme for 2025](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NI Science Festival reveals blooming great programme for 2025")](https://www.derrynow.com/news/local-news/1680111/ni-science-festival-reveals-blooming-great-programme-for-2025.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[NI Science Festival reveals blooming great programme for 2025](https://www.derrynow.com/news/local-news/1680111/ni-science-festival-reveals-blooming-great-programme-for-2025.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police investigate sudden death of woman in Banbridge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigate sudden death of woman in Banbridge")](https://www.derrynow.com/news/northern-ireland/1680994/police-investigate-sudden-death-of-woman-in-banbridge.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Police investigate sudden death of woman in Banbridge](https://www.derrynow.com/news/northern-ireland/1680994/police-investigate-sudden-death-of-woman-in-banbridge.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City's Cate Toland interviewed by Brendan McGilligan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City's Cate Toland interviewed by Brendan McGilligan")](https://www.derrynow.com/video/derry-sport/1680673/the-trajectory-of-the-derry-city-womens-team-is-brilliant-according-to-defender-cate-toland.html)
-
-Derry City's Cate Toland interviewed by Brendan McGilligan
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[The trajectory of the Derry City women’s team is ‘brilliant’ according to defender Cate Toland](https://www.derrynow.com/video/derry-sport/1680673/the-trajectory-of-the-derry-city-womens-team-is-brilliant-according-to-defender-cate-toland.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Ballinderry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinderry")](https://www.derrynow.com/news/derry-sport/1681019/ballinderry-crowned-ulster-champions-thanks-to-darren-lawn-s-late-winner.html)
 
 The Ballindery players celebrate their historic win.
@@ -313,6 +297,13 @@ The Ballindery players celebrate their historic win.
 
 [Ballinderry crowned Ulster champions thanks to Darren Lawn's late winner!](https://www.derrynow.com/news/derry-sport/1681019/ballinderry-crowned-ulster-champions-thanks-to-darren-lawn-s-late-winner.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police investigate sudden death of woman in Banbridge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigate sudden death of woman in Banbridge")](https://www.derrynow.com/news/northern-ireland/1680994/police-investigate-sudden-death-of-woman-in-banbridge.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Police investigate sudden death of woman in Banbridge](https://www.derrynow.com/news/northern-ireland/1680994/police-investigate-sudden-death-of-woman-in-banbridge.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Ronan Boyce interview with Brendan McGilligan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ronan Boyce interview with Brendan McGilligan")](https://www.derrynow.com/video/derry-sport/1680642/exciting-time-for-derry-city-and-their-fans-according-to-defender-ronan-boyce.html)
 
@@ -323,25 +314,41 @@ Ronan Boyce interview with Brendan McGilligan
 ['Exciting' time for Derry City and their fans according to defender Ronan Boyce](https://www.derrynow.com/video/derry-sport/1680642/exciting-time-for-derry-city-and-their-fans-according-to-defender-ronan-boyce.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![PSNI remain at scene of fire at old police station in Portadown](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI remain at scene of fire at old police station in Portadown")](https://www.derrynow.com/news/northern-ireland/1680616/psni-remain-at-scene-of-fire-at-old-police-station-in-portadown.html)
+[![Mayor thanks Derry and Strabane council staff with tasty breakfast treat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mayor thanks Derry and Strabane council staff with tasty breakfast treat")](https://www.derrynow.com/news/local-news/1680124/mayor-thanks-derry-and-strabane-council-staff-with-tasty-breakfast-treat.html)
+
+Martin Porter, Grounds Maintenance, and Stephen McGarrigle, gravedigger at DC&SDC, pictured with Derry City & Strabane District Council Mayor Lilian Seenoi-Barr.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Mayor thanks Derry and Strabane council staff with tasty breakfast treat](https://www.derrynow.com/news/local-news/1680124/mayor-thanks-derry-and-strabane-council-staff-with-tasty-breakfast-treat.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Next Irish government should begin planning for unity, says Eastwood](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Next Irish government should begin planning for unity, says Eastwood")](https://www.derrynow.com/news/northern-ireland/1681143/next-irish-government-should-begin-planning-for-unity-eastwood.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[PSNI remain at scene of fire at old police station in Portadown](https://www.derrynow.com/news/northern-ireland/1680616/psni-remain-at-scene-of-fire-at-old-police-station-in-portadown.html)
+[Next Irish government should begin planning for unity – Eastwood](https://www.derrynow.com/news/northern-ireland/1681143/next-irish-government-should-begin-planning-for-unity-eastwood.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![MacD on Music: Vandees Live In Sandy’s](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: Vandees Live In Sandy’s")](https://www.derrynow.com/news/arts---entertainment/1679880/macd-on-music-vandees-live-in-sandys.html)
+[![Co Down town in ‘shock’ following sudden death of woman](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Co Down town in ‘shock’ following sudden death of woman")](https://www.derrynow.com/news/northern-ireland/1681099/co-down-town-in-shock-following-sudden-death-of-woman.html)
 
-[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[MacD on Music: Vandees Live In Sandy’s](https://www.derrynow.com/news/arts---entertainment/1679880/macd-on-music-vandees-live-in-sandys.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
+[Co Down town in ‘shock’ following sudden death of woman](https://www.derrynow.com/news/northern-ireland/1681099/co-down-town-in-shock-following-sudden-death-of-woman.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Boys Indoor Primary School GAA Blitz held in Derry's Templemore Sports Complex](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Boys Indoor Primary School GAA Blitz held in Derry's Templemore Sports Complex")](https://www.derrynow.com/story-telling/pictures---videos/1676472/in-pictures-boys-indoor-primary-school-gaa-blitz-held-in-derry-s-templemore-sports-complex.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Boys Indoor Primary School GAA Blitz held in Derry's Templemore Sports Complex](https://www.derrynow.com/story-telling/pictures---videos/1676472/in-pictures-boys-indoor-primary-school-gaa-blitz-held-in-derry-s-templemore-sports-complex.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Ulster University Winter Graduations from Coleraine campus](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Ulster University Winter Graduations from Coleraine campus")](https://www.derrynow.com/story-telling/pictures---videos/1680219/in-pictures-ulster-university-winter-graduations-from-coleraine-campus.html)
 
@@ -405,13 +412,6 @@ Multimedia
 
 [IN PICTURES: Enagh Youth Forum's awards ceremony at the White Horse Hotel](https://www.derrynow.com/story-telling/pictures---videos/1674949/in-pictures-enagh-youth-forum-s-awards-ceremony-at-the-white-horse-hotel.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Paddy Tyre Tribute Concert in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Paddy Tyre Tribute Concert in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1676471/in-pictures-paddy-tyre-tribute-concert-in-derry-s-guildhall.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Paddy Tyre Tribute Concert in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1676471/in-pictures-paddy-tyre-tribute-concert-in-derry-s-guildhall.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +513,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Mayor thanks Derry and Strabane council staff with tasty breakfast treat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mayor thanks Derry and Strabane council staff with tasty breakfast treat")](https://www.derrynow.com/news/local-news/1680124/mayor-thanks-derry-and-strabane-council-staff-with-tasty-breakfast-treat.html)
+
+Martin Porter, Grounds Maintenance, and Stephen McGarrigle, gravedigger at DC&SDC, pictured with Derry City & Strabane District Council Mayor Lilian Seenoi-Barr.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Mayor thanks Derry and Strabane council staff with tasty breakfast treat](https://www.derrynow.com/news/local-news/1680124/mayor-thanks-derry-and-strabane-council-staff-with-tasty-breakfast-treat.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1680147/derry-death-notices-sunday-december-15-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -520,7 +529,7 @@ Advertise with Us
 [Derry Death Notices - Sunday, December 15, 2024](https://www.derrynow.com/news/deaths/1680147/derry-death-notices-sunday-december-15-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ballinderry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinderry")](https://www.derrynow.com/news/derry-sport/1681019/ballinderry-crowned-ulster-champions-thanks-to-darren-lawn-s-late-winner.html)
+[![Ballinderry](https://www.derrynow.com/resizer/165/93/true/2024_12_14/470216127_1017434850427492_4052435968559945983_n-1734216292930.jpg--.jpg?1734216292992 "Ballinderry")](https://www.derrynow.com/news/derry-sport/1681019/ballinderry-crowned-ulster-champions-thanks-to-darren-lawn-s-late-winner.html)
 
 The Ballindery players celebrate their historic win.
 
@@ -553,15 +562,6 @@ Ronan Boyce interview with Brendan McGilligan
 
 [MacD on Music: Vandees Live In Sandy’s](https://www.derrynow.com/news/arts---entertainment/1679880/macd-on-music-vandees-live-in-sandys.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Roe Valley Musicians bring busking back to Limavady](https://www.derrynow.com/resizer/165/93/true/2024_12_10/ICDP_10-12-24_Roe_Valley_Musicians_30385662-1733829314809.jpg--.jpg?1733829316585 "Roe Valley Musicians bring busking back to Limavady")](https://www.derrynow.com/news/local-news/1676978/roe-valley-musicians-bring-busking-back-to-limavady.html)
-
-New music collective Roe Valley Musicians.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Roe Valley Musicians bring busking back to Limavady](https://www.derrynow.com/news/local-news/1676978/roe-valley-musicians-bring-busking-back-to-limavady.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
