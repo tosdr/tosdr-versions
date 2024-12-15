@@ -43,20 +43,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Sabrina Carpenter smiling and looking to the side](https://www.women.com/img/gallery/the-best-dating-advice-we-learned-from-sabrina-carpenter-songs/intro-1733761713.jpg)](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+*  [![Gigi Hadid making a heart with her hands above her head](https://www.women.com/img/gallery/8-celebs-who-have-rocked-the-chic-flippy-bob/intro-1733769783.jpg)](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
     
-    [Relationships](https://www.women.com/category/relationships/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Relationships](https://www.women.com/category/relationships/) By Madison Emily Whisenand
+    [Beauty](https://www.women.com/category/beauty/) By Clementine Doyle
     
-    [The Best Dating Advice We Learned From Sabrina Carpenter Songs](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
-    ===========================================================================================================================================
+    [8 Celebs Who Have Rocked The Chic Flippy Bob](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
+    ============================================================================================================
     
-    Aside from cheeky lyrics and catchy melodies, one of the things that makes Sabrina Carpenter's music so compelling is its diaristic element.
+    Whether you opt for a gentle curve or a more dramatic flick, the flippy bob is a comeback style that's equal parts practical and chic.
     
-    By Madison Emily Whisenand [Read More](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+    By Clementine Doyle [Read More](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
     
-* *  [![A woman with winged eyeliner and pink lipstick](https://www.women.com/img/gallery/outdated-beauty-trends-to-leave-in-2024/intro-1733768782.jpg)](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+* *  [![Sabrina Carpenter smiling and looking to the side](https://www.women.com/img/gallery/the-best-dating-advice-we-learned-from-sabrina-carpenter-songs/intro-1733761713.jpg)](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+        
+        [Relationships](https://www.women.com/category/relationships/)
+        
+        [Relationships](https://www.women.com/category/relationships/) By Madison Emily Whisenand
+        
+        ### [The Best Dating Advice We Learned From Sabrina Carpenter Songs](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+        
+        Aside from cheeky lyrics and catchy melodies, one of the things that makes Sabrina Carpenter's music so compelling is its diaristic element.
+        
+        By Madison Emily Whisenand [Read More](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+        
+    *  [![A woman with winged eyeliner and pink lipstick](https://www.women.com/img/gallery/outdated-beauty-trends-to-leave-in-2024/intro-1733768782.jpg)](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -68,22 +80,34 @@
         
         By Bernadette Roe [Read More](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
         
-    *  [![Taylor Swift onstage with an acoustic guitar](https://www.women.com/img/gallery/taylor-swifts-most-iconic-eras-tour-outfits-ranked/intro-1734033449.jpg)](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Rose McMackin
-        
-        ### [Taylor Swift's Most Iconic Eras Tour Outfits, Ranked](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
-        
-        After nearly two years, the Eras Tour is officially over. But the memorable looks Taylor Swift brought to the stage left their mark on fashion history.
-        
-        By Rose McMackin [Read More](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
-        
 
 More Stories
 ------------
 
+*  [![Zendaya at the Challengers L.A. premiere](https://www.women.com/img/gallery/the-20-best-premiere-looks-on-2024-red-carpets/intro-1733421995.jpg)](https://www.women.com/1730450/best-premiere-looks-2024-red-carpet/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [The 20 Best Premiere Looks On 2024 Red Carpets](https://www.women.com/1730450/best-premiere-looks-2024-red-carpet/)
+    
+    Whether it was Zendaya making yet another fashion statement or Cynthia Erivo stunning at a "Wicked" premiere, 2024 was full of great red carpet looks.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1730450/best-premiere-looks-2024-red-carpet/)
+    
+*  [![Taylor Swift onstage with an acoustic guitar](https://www.women.com/img/gallery/taylor-swifts-most-iconic-eras-tour-outfits-ranked/intro-1734033449.jpg)](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Rose McMackin
+    
+    ### [Taylor Swift's Most Iconic Eras Tour Outfits, Ranked](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
+    
+    After nearly two years, the Eras Tour is officially over. But the memorable looks Taylor Swift brought to the stage left their mark on fashion history.
+    
+    By Rose McMackin [Read More](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
+    
 *  [![Close-up of Emma Watson smiling at 2022 Paris Fashion Week](https://www.women.com/img/gallery/the-best-books-from-emma-watsons-book-club-our-shared-shelf/intro-1733425939.jpg)](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
     
     [Living](https://www.women.com/category/living/)
@@ -383,30 +407,6 @@ More Stories
     As fabulous as her later projects are, Lindsay Lohan's looks, whether on the red carpet, during media tours, or on social media, channel the Parker twins.
     
     By Mila Williams [Read More](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
-    
-*  [![Zoe Kravitz and Channing Tatum in London for the Blink Twice premiere](https://www.women.com/img/gallery/the-red-flags-we-couldnt-ignore-in-channing-tatum-and-zoe-kravitzs-relationship/intro-1732124296.jpg)](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
-    
-    ### [The Red Flags We Couldn't Ignore In Channing Tatum And Zoe Kravitz's Relationship](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
-    
-    With every relationship that's not destined to make it, celebrity relationships included, there are red flags along the way that are hard to ignore.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1718419/red-flags-couldnt-ignore-channing-tatum-zoe-kravitz-relationship/)
-    
-*  [![Ariana Grande on the red carpet](https://www.women.com/img/gallery/all-of-ariana-grandes-wicked-tattoos-including-her-matching-ink-with-cynthia-erivo/intro-1732307595.jpg)](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [All Of Ariana Grande's Wicked Tattoos - Including Her Matching Ink With Cynthia Erivo](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
-    
-    The 2024 "Wicked" movie is ultra-personal for Ariana Grande, who got several Oz-inspired tattoos, including some matching ink with her co-star Cynthia Erivo.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1721081/ariana-grande-wicked-tattoos-matching-ink-cynthia-erivo/)
     
 
 Back
