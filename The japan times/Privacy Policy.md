@@ -523,9 +523,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -567,23 +567,17 @@ Latest News
 
 [Latest scandal raises fresh questions about U.K.'s Prince Andrew](https://www.japantimes.co.jp/news/2024/12/15/world/prince-andrew-latest-scandal/ "Latest scandal raises fresh questions about U.K.'s Prince Andrew")
 
-3 hours ago
+9 hours ago
 
 [Australia says remaining 'Bali Nine' members have returned from Indonesia](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/crime-legal/bali-nine-return-to-australia/ "Australia says remaining 'Bali Nine' members have returned from Indonesia")
 
-5 hours ago
+11 hours ago
 
 [Chinese firms take on EV truck challenges](https://www.japantimes.co.jp/business/2024/12/15/chinese-firms-ev-truck-challenges/ "Chinese firms take on EV truck challenges")
 
-8 hours ago
-
 [South Korean opposition urges swift removal of impeached President Yoon](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-opposition-yoon-removal/ "South Korean opposition urges swift removal of impeached President Yoon")
 
-8 hours ago
-
 [South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
-
-9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
