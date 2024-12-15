@@ -408,9 +408,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ How wonderful it is that nobody need wait a single moment before starting to improve the world”
+“ Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”
 
-[Anne Frank](http://en.wikipedia.org/wiki/Anne_Frank)
+[Marie Curie](http://en.wikipedia.org/wiki/Marie_Curie)
 
 [](https://www.adafruit.com/about)
 
