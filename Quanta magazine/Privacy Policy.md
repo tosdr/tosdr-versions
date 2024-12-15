@@ -291,6 +291,12 @@ Past Week
 
 _By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
 
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/12/EntropyDeepDive-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
+
+[#### What Is Entropy? A Measure of Just How Little We Really Know.](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
+
+_By_ [Zack Savitsky](https://www.quantamagazine.org/authors/zack-savitsky)
+
 [![](https://www.quantamagazine.org/wp-content/uploads/2024/12/Quantum-Error-Correction_crDave-Whyte-Thumbnail.webp)](https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/)
 
 [#### Quantum Computers Cross Critical Error Threshold](https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/)
@@ -302,12 +308,6 @@ _By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
 [#### Exotic New Superconductors Delight and Confound](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
 
 _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
-
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/12/EntropyDeepDive-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
-
-[#### What Is Entropy? A Measure of Just How Little We Really Know.](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
-
-_By_ [Zack Savitsky](https://www.quantamagazine.org/authors/zack-savitsky)
 
 The Quanta Newsletter
 
