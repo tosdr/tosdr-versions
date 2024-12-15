@@ -209,12 +209,6 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [11th December 2024](https://southwarknews.co.uk/sport/football/millwall/mourinho-jokingly-rules-out-becoming-next-millwall-boss-but-surprise-name-among-favourites-to-succeed-harris/)
 
-[![Walworth Road this morning at 4:30am. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-08-13-06-48-120x86.jpg)](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
-
-### [Man in ‘life-threatening’ condition and two arrests after incident on Walworth Road](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
-
-[8th December 2024](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
-
 [![Neil Harris applauds supporters after his side beat Swansea City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/N-Harris-25425727-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
 
 ### [Neil Harris addresses Lions fans as he explains decision to leave Millwall for second time](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
@@ -232,6 +226,12 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [After the stunning rescue mission, the head coach v manager tension, the control struggle – is it a final goodbye for Neil Harris and Millwall?](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
 
 [10th December 2024](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
+
+[![Walworth Road this morning at 4:30am. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-08-13-06-48-120x86.jpg)](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
+
+### [Man in ‘life-threatening’ condition and two arrests after incident on Walworth Road](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
+
+[8th December 2024](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
 
 [![L: Wyndham and Comber Estate (Google Maps). R: Leaseholders Peter and Michael.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-17.33-e1733506531831-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
 
