@@ -109,7 +109,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_2053143348_menu)
+ [Compartilhar](#elShareItem_765282988_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -146,7 +146,7 @@ Posts recomendados
 * Administrador
 * ![](https://www.clubedohardware.com.br/uploads/themes/team_admin.png)
 * * [11k](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/content/ "11.006 posts")
-* 13.191
+* 13.192
 * 16/01/2002
 *  Offline
 
@@ -304,7 +304,7 @@ As regras do Clube do Hardware poderão ser atualizadas periodicamente, sem avis
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1170271826_menu)
+ [Compartilhar](#elShareItem_150819567_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -347,15 +347,65 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![badanheiras](https://www.clubedohardware.com.br/uploads/members/profile/photo-502477.gif)](https://www.clubedohardware.com.br/profile/502477-badanheiras/ "Ir ao perfil de badanheiras")
+    * [![ymanelz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257882.thumb.jpeg.4475c52b6d98f1e7a98e8fd6f5029529.jpeg)](https://www.clubedohardware.com.br/profile/1257882-ymanelz/ "Ir ao perfil de ymanelz")
         
         0
+        
+        [Preciso de ideias de upgrade no meu pc sem gastar muito](https://www.clubedohardware.com.br/forums/topic/1705603-preciso-de-ideias-de-upgrade-no-meu-pc-sem-gastar-muito/?do=getNewComment "Preciso de ideias de upgrade no meu pc sem gastar muito")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [ymanelz](https://www.clubedohardware.com.br/profile/1257882-ymanelz/ "Ir ao perfil de ymanelz")  
+        4 minutos atrás
+        
+    * [![Adilson Taquaral](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4a8%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EAT%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1205893-adilson-taquaral/ "Ir ao perfil de Adilson Taquaral")
+        
+        0
+        
+        [placa-mãe nova para gen 13 14 de processadores intel](https://www.clubedohardware.com.br/forums/topic/1705602-placa-m%C3%A3e-nova-para-gen-13-14-de-processadores-intel/?do=getNewComment "placa-mãe nova para gen 13 14 de processadores intel")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Adilson Taquaral](https://www.clubedohardware.com.br/profile/1205893-adilson-taquaral/ "Ir ao perfil de Adilson Taquaral")  
+        9 minutos atrás
+        
+    * [![Erick_Morato](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/97dd05239abd1d6b70e07e65042703d3.thumb.jpg.8b346e5088dba65d12c790aa79e503c8.jpg)](https://www.clubedohardware.com.br/profile/1257970-erick_morato/ "Ir ao perfil de Erick_Morato")
+        
+        2
+        
+        [meu PC é bom mas não roda quase nada. o que pode ser?](https://www.clubedohardware.com.br/forums/topic/1705601-meu-pc-%C3%A9-bom-mas-n%C3%A3o-roda-quase-nada-o-que-pode-ser/?do=getNewComment "meu PC é bom mas não roda quase nada. o que pode ser?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Erick\_Morato](https://www.clubedohardware.com.br/profile/1257970-erick_morato/ "Ir ao perfil de Erick_Morato")  
+        21 minutos atrás
+        
+    * [![3duardo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257971.thumb.jpeg.0202d006adddda50c41d835080384061.jpeg)](https://www.clubedohardware.com.br/profile/1257971-3duardo/ "Ir ao perfil de 3duardo")
+        
+        0
+        
+        [posso colocar um processador com tdp maior que o atual?](https://www.clubedohardware.com.br/forums/topic/1705600-posso-colocar-um-processador-com-tdp-maior-que-o-atual/?do=getNewComment "posso colocar um processador com tdp maior que o atual?")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [3duardo](https://www.clubedohardware.com.br/profile/1257971-3duardo/ "Ir ao perfil de 3duardo")  
+        37 minutos atrás
+        
+    * [![James G](https://www.clubedohardware.com.br/uploads/members/monthly_2020_02/10452332_339037332954106_1825763666632517095_n.thumb.jpg.93950f39bd0b3adb6646c01981900ab6.jpg)](https://www.clubedohardware.com.br/profile/960365-james-g/ "Ir ao perfil de James G")
+        
+        0
+        
+        [Placa de Vídeo funciona só as vezes](https://www.clubedohardware.com.br/forums/topic/1705599-placa-de-v%C3%ADdeo-funciona-s%C3%B3-as-vezes/?do=getNewComment "Placa de Vídeo funciona só as vezes")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [James G](https://www.clubedohardware.com.br/profile/960365-james-g/ "Ir ao perfil de James G")  
+        2 horas atrás
+        
+    * [![badanheiras](https://www.clubedohardware.com.br/uploads/members/profile/photo-502477.gif)](https://www.clubedohardware.com.br/profile/502477-badanheiras/ "Ir ao perfil de badanheiras")
+        
+        1
         
         [Fonte PCYes Electro V 550W - Ryzen 5700X3D + AMD RX 5700](https://www.clubedohardware.com.br/forums/topic/1705598-fonte-pcyes-electro-v-550w-ryzen-5700x3d-amd-rx-5700/?do=getNewComment "Fonte PCYes Electro V 550W - Ryzen 5700X3D + AMD RX 5700")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
         Por [badanheiras](https://www.clubedohardware.com.br/profile/502477-badanheiras/ "Ir ao perfil de badanheiras")  
-        5 minutos atrás
+        6 horas atrás
         
     * [![Yordle](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1228394.thumb.png.ed4fdd029ead3f254d0ed8bfd1300913.png)](https://www.clubedohardware.com.br/profile/1228394-yordle/ "Ir ao perfil de Yordle")
         
@@ -365,27 +415,27 @@ Mais opções...
         
         [Gabinetes](https://www.clubedohardware.com.br/forums/forum/81-gabinetes/ "Gabinetes")  
         Por [Yordle](https://www.clubedohardware.com.br/profile/1228394-yordle/ "Ir ao perfil de Yordle")  
-        50 minutos atrás
+        6 horas atrás
         
     * [![Brucy_21](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257966.thumb.png.e0e1eed8e9eda2ec79eb829691b2218d.png)](https://www.clubedohardware.com.br/profile/1257966-brucy_21/ "Ir ao perfil de Brucy_21")
         
-        1
+        3
         
         [Minha placa-mãe estragou 2 vezes](https://www.clubedohardware.com.br/forums/topic/1705595-minha-placa-m%C3%A3e-estragou-2-vezes/?do=getNewComment "Minha placa-mãe estragou 2 vezes")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
         Por [Brucy\_21](https://www.clubedohardware.com.br/profile/1257966-brucy_21/ "Ir ao perfil de Brucy_21")  
-        1 hora atrás
+        7 horas atrás
         
     * [![Brucy_21](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257966.thumb.png.e0e1eed8e9eda2ec79eb829691b2218d.png)](https://www.clubedohardware.com.br/profile/1257966-brucy_21/ "Ir ao perfil de Brucy_21")
         
-        0
+        1
         
         [A internet do roteador para de funcionar depois de um tempo com ele ligado](https://www.clubedohardware.com.br/forums/topic/1705594-a-internet-do-roteador-para-de-funcionar-depois-de-um-tempo-com-ele-ligado/?do=getNewComment "A internet do roteador para de funcionar depois de um tempo com ele ligado")
         
         [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
         Por [Brucy\_21](https://www.clubedohardware.com.br/profile/1257966-brucy_21/ "Ir ao perfil de Brucy_21")  
-        2 horas atrás
+        8 horas atrás
         
     * [![lucastuning88](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b1c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/615869-lucastuning88/ "Ir ao perfil de lucastuning88")
         
@@ -395,57 +445,7 @@ Mais opções...
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
         Por [lucastuning88](https://www.clubedohardware.com.br/profile/615869-lucastuning88/ "Ir ao perfil de lucastuning88")  
-        2 horas atrás
-        
-    * [![Henrique1BR1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257961.thumb.jpeg.70b91ddee97ca233988aadcfe16820b5.jpeg)](https://www.clubedohardware.com.br/profile/1257961-henrique1br1/ "Ir ao perfil de Henrique1BR1")
-        
-        1
-        
-        [PC Ryzen 7 5700g e GeForce RTX 4060TI pouco FPS (240) no CS2](https://www.clubedohardware.com.br/forums/topic/1705590-pc-ryzen-7-5700g-e-geforce-rtx-4060ti-pouco-fps-240-no-cs2/?do=getNewComment "PC Ryzen 7 5700g e GeForce RTX 4060TI pouco FPS (240) no CS2")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [Henrique1BR1](https://www.clubedohardware.com.br/profile/1257961-henrique1br1/ "Ir ao perfil de Henrique1BR1")  
-        5 horas atrás
-        
-    * [![megag7765](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1144492.thumb.png.e6457ebefbd1524872713cb67c453317.png)](https://www.clubedohardware.com.br/profile/1144492-megag7765/ "Ir ao perfil de megag7765")
-        
-        8
-        
-        [Intel Core i5 10400f ou R5 8500g](https://www.clubedohardware.com.br/forums/topic/1705589-intel-core-i5-10400f-ou-r5-8500g/?do=getNewComment "Intel Core i5 10400f ou R5 8500g")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [megag7765](https://www.clubedohardware.com.br/profile/1144492-megag7765/ "Ir ao perfil de megag7765")  
-        6 horas atrás
-        
-    * [![Banunin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256467.thumb.png.2cbe5524a04f4036587342014e8d6318.png)](https://www.clubedohardware.com.br/profile/1256467-banunin/ "Ir ao perfil de Banunin")
-        
-        16
-        
-        [ASUS P5VD2-X Não consigo instalar windows, NENHUM DELES.](https://www.clubedohardware.com.br/forums/topic/1705587-asus-p5vd2-x-n%C3%A3o-consigo-instalar-windows-nenhum-deles/?do=getNewComment "ASUS P5VD2-X Não consigo instalar windows, NENHUM DELES.")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Banunin](https://www.clubedohardware.com.br/profile/1256467-banunin/ "Ir ao perfil de Banunin")  
-        6 horas atrás
-        
-    * [![paulow1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257954.thumb.png.93cdc12ce0ea255e649c5380661c7fda.png)](https://www.clubedohardware.com.br/profile/1257954-paulow1/ "Ir ao perfil de paulow1")
-        
-        2
-        
-        [Rx580 tela branca e as vezes tela preta](https://www.clubedohardware.com.br/forums/topic/1705586-rx580-tela-branca-e-as-vezes-tela-preta/?do=getNewComment "Rx580 tela branca e as vezes tela preta")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [paulow1](https://www.clubedohardware.com.br/profile/1257954-paulow1/ "Ir ao perfil de paulow1")  
-        6 horas atrás
-        
-    * [![Kajen](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23a1c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/572823-kajen/ "Ir ao perfil de Kajen")
-        
-        7
-        
-        [Internet no cabo está batendo 9mb/s](https://www.clubedohardware.com.br/forums/topic/1705585-internet-no-cabo-est%C3%A1-batendo-9mbs/?do=getNewComment "Internet no cabo está batendo 9mb/s")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [Kajen](https://www.clubedohardware.com.br/profile/572823-kajen/ "Ir ao perfil de Kajen")  
-        6 horas atrás
+        8 horas atrás
         
     
 
