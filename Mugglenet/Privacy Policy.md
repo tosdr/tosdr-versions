@@ -330,15 +330,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Despite Natalia Tena’s first audition being described as “a disaster,” she still landed the role of Nymphadora Tonks.
+Daniel Radcliffe’s ankle was shaved for the scene in Harry Potter and the Chamber of Secrets when he shows Lucius Malfoy his missing sock.
 
 ### Potter History
 
-July 16, 2007 – Harry Potter and the Order of the Phoenix film grosses $330 million worldwide.
+October 25, 2002 – Richard Harris, the actor who played Albus Dumbledore in the first two Harry Potter films, dies of Hodgkin’s disease. His role as Dumbledore is replaced a few months later by Michael Gambon.
 
 ### Potter Quote
 
-“What is it about my presence in your home that displeases you, Lucius?”
+“Hogwash.”
 
 [](#)
 
