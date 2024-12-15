@@ -293,15 +293,16 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![Zara Tindall initially saddled up for Magic Millions for a year. But a firm friendship with event owner Katie Page and a fondness for the Gold Coast keeps bringing the royal back.](https://static.ffx.io/images/$zoom_0.3562%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_109%2C$y_448/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/494dcebd22117352bd2f512344a448e0a925e81b)](https://www.afr.com/life-and-luxury/travel/the-royal-who-loves-coming-to-australia-each-summer-20241003-p5kfrc)
+[![ ](https://static.ffx.io/images/$zoom_0.6622%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/3665be55c9139e71a03f61749d78acbb82c70ce6)](https://www.afr.com/life-and-luxury/design/hip-industrial-designer-henry-wilson-has-a-brilliant-new-store-20241023-p5kklj)
 
-### [The royal who loves coming to Australia each summer](https://www.afr.com/life-and-luxury/travel/the-royal-who-loves-coming-to-australia-each-summer-20241003-p5kfrc)
+### [Hip industrial designer Henry Wilson has a brilliant new store](https://www.afr.com/life-and-luxury/design/hip-industrial-designer-henry-wilson-has-a-brilliant-new-store-20241023-p5kklj)
 
-* Jane Knight
+* 53 mins ago
+* Stephen Todd
 
-* ### [The retail boss who is obsessed with Christmas](https://www.afr.com/life-and-luxury/fashion-and-style/the-retail-boss-who-is-obsessed-with-christmas-20241023-p5kkll)
+* ### [The royal who loves coming to Australia each summer](https://www.afr.com/life-and-luxury/travel/the-royal-who-loves-coming-to-australia-each-summer-20241003-p5kfrc)
     
-* ### [From the Hamptons to the Australian Open: inside Ralph Lauren’s world](https://www.afr.com/life-and-luxury/fashion-and-style/from-the-hamptons-to-the-australian-open-inside-the-world-of-ralph-lauren-20240903-p5k7gp)
+* ### [The retail boss who is obsessed with Christmas](https://www.afr.com/life-and-luxury/fashion-and-style/the-retail-boss-who-is-obsessed-with-christmas-20241023-p5kkll)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
@@ -321,15 +322,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.1293%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_26/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/cc2e8c7101666bf040968f5bdb8773917c91fe3d)](https://www.afr.com/life-and-luxury/fashion-and-style/should-men-wear-shorts-out-at-night-20241209-p5kwtu)
+[![ ](https://static.ffx.io/images/$zoom_0.8663%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_527/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e854d9fdd180761cf5112d63b0c35951cb0a543d)](https://www.afr.com/life-and-luxury/health-and-wellness/cycling-makes-me-a-nicer-person-founder-admits-20241212-p5kxxx)
 
-### [Should men wear shorts out at night?](https://www.afr.com/life-and-luxury/fashion-and-style/should-men-wear-shorts-out-at-night-20241209-p5kwtu)
+### [Cycling makes me a nicer person, founder admits](https://www.afr.com/life-and-luxury/health-and-wellness/cycling-makes-me-a-nicer-person-founder-admits-20241212-p5kxxx)
 
-* Lauren Sams
+* 53 mins ago
+* Life & Leisure
 
-* ### [These award-winning restaurants and bars are designed to take you away](https://www.afr.com/life-and-luxury/design/these-award-winning-restaurants-and-bars-are-designed-to-take-you-away-20241205-p5kw2v)
+* ### [Alexandra Keating sees problems, and builds businesses to solve them](https://www.afr.com/life-and-luxury/fashion-and-style/alexandra-keating-sees-problems-and-builds-businesses-to-solve-them-20241211-p5kxnh)
     
-* ### [The only car you’ll ever need (if you have a spare $3.8m)](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/the-only-car-you-ll-ever-need-if-you-have-a-spare-3-8m-20241126-p5ktnl)
+* ### [Why Lake Como has become a hot ticket in winter](https://www.afr.com/life-and-luxury/travel/why-lake-como-has-become-a-hot-ticket-in-winter-20241118-p5krff)
     
 
 [Rich List](https://www.afr.com/rich-list)
