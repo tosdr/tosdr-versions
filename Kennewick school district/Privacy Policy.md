@@ -327,4 +327,4 @@ Other Links
 
 ©2024 Kennewick School District - all rights reserved | [Legal Notices](https://www.ksd.org/fs/pages/7)
 
-[Powered by Finalsite](https://www.finalsite.com/ "Powered by Finalsite opens in a new window")
+[Powered by Finalsite](https://www.finalsite.com/districts "Powered by Finalsite opens in a new window")
