@@ -155,7 +155,7 @@ English
 * [lt - Lietuvių 43%](https://lernu.net/reguloj?hl=lt)
 * [nl - Nederlands 100%](https://lernu.net/reguloj?hl=nl)
 * [no - Norsk bokmål 80%](https://lernu.net/reguloj?hl=no)
-* [pl - Polski 59%](https://lernu.net/reguloj?hl=pl)
+* [pl - Polski 61%](https://lernu.net/reguloj?hl=pl)
 * [pt - Português 91%](https://lernu.net/reguloj?hl=pt)
 * [rn - Kirundi 80%](https://lernu.net/reguloj?hl=rn)
 * [ro - Română 99%](https://lernu.net/reguloj?hl=ro)
