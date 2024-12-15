@@ -289,6 +289,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Там, где решается судьба страны: «Единая Россия» провела XXII Съезд](https://cdn.er.ru/media/news/December2024/49kHKTKhGXIB11dNQCNi-small.jpg)](https://er.ru/activity/news/tam-gde-reshaetsya-sudba-strany-edinaya-rossiya-provela-xxii-sezd)
+
+[Там, где решается судьба страны: «Единая Россия» провела XXII Съезд](https://er.ru/activity/news/tam-gde-reshaetsya-sudba-strany-edinaya-rossiya-provela-xxii-sezd)
+
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#народнаяпрограммаЕР](https://er.ru/activity/news?tags%5B0%5D=1093363)
+
+Сегодня 10:00
+
+[![Владимир Якушев: Сокращение состава Президиума Генсовета «Единой России» даст возможность чаще встречаться очно и проговаривать рабочие моменты](https://cdn.er.ru/media/news/December2024/h1ET09RpmFMPwTweB2Di-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-sokrashenie-sostava-prezidiuma-gensoveta-edinoj-rossii-dast-vozmozhnost-chashe-vstrechatsya-ochno-i-progovarivat-rabochie-momenty)
+
+[Владимир Якушев: Сокращение состава Президиума Генсовета «Единой России» даст возможность чаще встречаться очно и проговаривать рабочие моменты](https://er.ru/activity/news/vladimir-yakushev-sokrashenie-sostava-prezidiuma-gensoveta-edinoj-rossii-dast-vozmozhnost-chashe-vstrechatsya-ochno-i-progovarivat-rabochie-momenty)
+
+[#ПрезидиумГенсовета](https://er.ru/activity/news?tags%5B0%5D=115061) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#Грибов](https://er.ru/activity/news?tags%5B0%5D=13023) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#сторонники](https://er.ru/activity/news?tags%5B0%5D=663) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#МКС](https://er.ru/activity/news?tags%5B0%5D=3392) [#межрегиональныйкоординационныйсовет](https://er.ru/activity/news?tags%5B0%5D=130824)
+
+Сегодня 09:00
+
 [![Владимир Якушев избран секретарём Генсовета «Единой России»](https://cdn.er.ru/media/news/December2024/pDIC1VNZGnuEg85JtWJo-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-izbran-sekretaryom-gensoveta-edinoj-rossii)
 
 [Владимир Якушев избран секретарём Генсовета «Единой России»](https://er.ru/activity/news/vladimir-yakushev-izbran-sekretaryom-gensoveta-edinoj-rossii)
@@ -318,22 +334,6 @@
 [XXII Съезд «Единой России» произвёл ротацию Высшего совета партии](https://er.ru/activity/news/xxii-sezd-edinoj-rossii-proizvyol-rotaciyu-vysshego-soveta-partii)
 
 [#ВысшийСоветПартииЕР](https://er.ru/activity/news?tags%5B0%5D=1092448) [#ротация](https://er.ru/activity/news?tags%5B0%5D=1628) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999)
-
-14.12.24
-
-[![Олег Фунтиков, участник СВО: «Единая Россия» всегда двигается вперёд, даже в самые тяжёлые времена](https://cdn.er.ru/media/news/December2024/iwibnxh5Nfw14jhxwlSP-small.JPG)](https://er.ru/activity/news/oleg-funtikov-uchastnik-svo-edinaya-rossiya-vsegda-dvigaetsya-vperyod-dazhe-v-samye-tyazhyolye-vremena)
-
-[Олег Фунтиков, участник СВО: «Единая Россия» всегда двигается вперёд, даже в самые тяжёлые времена](https://er.ru/activity/news/oleg-funtikov-uchastnik-svo-edinaya-rossiya-vsegda-dvigaetsya-vperyod-dazhe-v-samye-tyazhyolye-vremena)
-
-[#Фунтиков](https://er.ru/activity/news?tags%5B0%5D=1095713) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633)
-
-14.12.24
-
-[![«Единая Россия» внесла изменения в партийный Устав](https://cdn.er.ru/media/news/December2024/53nanGJK2Yt2dIISNQjk-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-izmeneniya-v-partijnyj-ustav)
-
-[«Единая Россия» внесла изменения в партийный Устав](https://er.ru/activity/news/edinaya-rossiya-vnesla-izmeneniya-v-partijnyj-ustav)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#устав](https://er.ru/activity/news?tags%5B0%5D=978) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#изменения](https://er.ru/activity/news?tags%5B0%5D=121574)
 
 14.12.24
 
