@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr borders immigration controls are socialist](/freeblr/borders/immigration-controls-are-socialist/card.svg)](https://jarick.works/freeblr/borders/immigration-controls-are-socialist)[![freeblr health](/freeblr/health/card.svg)](https://jarick.works/freeblr/health)[![freeblr justice punishment versus restitution a formulation](/freeblr/justice/punishment-versus-restitution-a-formulation/card.svg)](https://jarick.works/freeblr/justice/punishment-versus-restitution-a-formulation)[![freeblr war the state](/freeblr/war/the-state/card.svg)](https://jarick.works/freeblr/war/the-state)
+[![freeblr limited government libertarian anarchism responses to ten objections](/freeblr/limited-government/libertarian-anarchism-responses-to-ten-objections/card.svg)](https://jarick.works/freeblr/limited-government/libertarian-anarchism-responses-to-ten-objections)[![freeblr faq are anarchists pacifists](/freeblr/faq/are-anarchists-pacifists/card.svg)](https://jarick.works/freeblr/faq/are-anarchists-pacifists)[![spekr what is minarchism](/spekr/what-is-minarchism/card.svg)](https://jarick.works/spekr/what-is-minarchism)[![freeblr limited government no rulers](/freeblr/limited-government/no-rulers/card.svg)](https://jarick.works/freeblr/limited-government/no-rulers)
 
 [Follow](#follow)
 
