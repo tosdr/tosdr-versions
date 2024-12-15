@@ -117,56 +117,56 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Jannie Schutte - myFinance-Online.co.za
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=e5b87de6dbbd61f29fec02e0c029609fbb69f48f6aff532f24ae813e7d57e85c&c=11953419)  
-Enhle Oarabile Kea
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=81779383)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=e5b87de6dbbd61f29fec02e0c029609fbb69f48f6aff532f24ae813e7d57e85c&c=161604123)  
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=171633250)  
+OXYAIDER (PTY) LTD
+
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=145643261)  
+Skinz Printing & Branding
+
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=11123595)  
+Redlum Group (Pty) Ltd
+
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=195295147)  
+Kainos (Pty) Ltd
+
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=43665376)  
+Stevens Consulting
+
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=177219788)  
+Stories (Pty) Ltd t/a Storietyd
+
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=134365895)  
+Network Grey (Pty) Ltd
+
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=124354482)  
+AMS Ambu Medical Supplies
+
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=76482171)  
+Forgotten Goods (Pty) Ltd
+
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=118833313)  
+#DiGi3 Marketing & Design
+
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=171393927)  
+Wiselink Broadband Vryheid
+
+![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=147071342)  
+NC Labour Hire
+
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=48413667)  
 OrgChart Hosting Pty Ltd
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=e5b87de6dbbd61f29fec02e0c029609fbb69f48f6aff532f24ae813e7d57e85c&c=182583761)  
-AFS Electrical
-
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=e5b87de6dbbd61f29fec02e0c029609fbb69f48f6aff532f24ae813e7d57e85c&c=1773617)  
-MSPCloud (Pty) Ltd
-
-![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=e5b87de6dbbd61f29fec02e0c029609fbb69f48f6aff532f24ae813e7d57e85c&c=132081099)  
-Sophia's Roses
-
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=e5b87de6dbbd61f29fec02e0c029609fbb69f48f6aff532f24ae813e7d57e85c&c=180505523)  
-Alliance Energy
-
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=e5b87de6dbbd61f29fec02e0c029609fbb69f48f6aff532f24ae813e7d57e85c&c=2200766)  
-NGB HOLDINGS PTY LTD
-
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=e5b87de6dbbd61f29fec02e0c029609fbb69f48f6aff532f24ae813e7d57e85c&c=96135409)  
-Three Moons Emporium
-
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=e5b87de6dbbd61f29fec02e0c029609fbb69f48f6aff532f24ae813e7d57e85c&c=199149448)  
-Adele Jordaan T/A Joyful Noise Music Room
-
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=e5b87de6dbbd61f29fec02e0c029609fbb69f48f6aff532f24ae813e7d57e85c&c=73828410)  
-Vplay Grafix
-
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=e5b87de6dbbd61f29fec02e0c029609fbb69f48f6aff532f24ae813e7d57e85c&c=81865638)  
-Digifax (Pty) Ltd trading as Digirent
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=e5b87de6dbbd61f29fec02e0c029609fbb69f48f6aff532f24ae813e7d57e85c&c=19936883)  
-ARCHITEK PTY LTD
-
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=e5b87de6dbbd61f29fec02e0c029609fbb69f48f6aff532f24ae813e7d57e85c&c=25267586)  
-Repairs In Motion
-
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=e5b87de6dbbd61f29fec02e0c029609fbb69f48f6aff532f24ae813e7d57e85c&c=74146022)  
-kidoscabbie
-
-![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=e5b87de6dbbd61f29fec02e0c029609fbb69f48f6aff532f24ae813e7d57e85c&c=160433980)  
+![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=80324671)  
 Protech Marketing
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
