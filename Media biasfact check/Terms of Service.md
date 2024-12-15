@@ -67,11 +67,11 @@
 
 MBFC News
 
+* [December 15, 2024 | Source of the Week: AF Post](https://mediabiasfactcheck.com/2024/12/15/source-of-the-week-af-post/ "Source of the Week: AF Post")
+* [December 15, 2024 | MBFC’s Daily Vetted Fact Checks for 12/15/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/15/mbfcs-daily-vetted-fact-checks-for-12-15-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 12/15/2024 (Weekend Edition)")
 * [December 14, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of DEC 8th – DEC 14th](https://mediabiasfactcheck.com/2024/12/14/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-dec-8th-dec-14th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of DEC 8th – DEC 14th")
 * [December 14, 2024 | MBFC’s Daily Vetted Fact Checks for 12/14/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/14/mbfcs-daily-vetted-fact-checks-for-12-14-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 12/14/2024 (Weekend Edition)")
 * [December 13, 2024 | Media News Daily: Top Stories for 12/13/2024](https://mediabiasfactcheck.com/2024/12/13/media-news-daily-top-stories-for-12-13-2024/ "Media News Daily: Top Stories for 12/13/2024")
-* [December 13, 2024 | MBFC’s Daily Vetted Fact Checks for 12/13/2024](https://mediabiasfactcheck.com/2024/12/13/mbfcs-daily-vetted-fact-checks-for-12-13-2024/ "MBFC’s Daily Vetted Fact Checks for 12/13/2024")
-* [December 12, 2024 | Media News Daily: Top Stories for 12/12/2024](https://mediabiasfactcheck.com/2024/12/12/media-news-daily-top-stories-for-12-12-2024/ "Media News Daily: Top Stories for 12/12/2024")
 
 Search for:  
 
@@ -147,6 +147,22 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [JoeHoft.com – Bias and Credibility](https://mediabiasfactcheck.com/joehoft-com-bias-and-credibility/)
+    
+    December 15, 2024
+    
+* [Accounting Education Journal – Bias and Credibility](https://mediabiasfactcheck.com/accounting-education-journal-bias/)
+    
+    December 15, 2024
+    
+* [Matt Walsh Bias Rating](https://mediabiasfactcheck.com/matt-walsh-bias-rating/)
+    
+    December 15, 2024
+    
+* [WJSU – NPR – Jackson – Bias and Credibility](https://mediabiasfactcheck.com/wjsu-npr-jackson-bias/)
+    
+    December 15, 2024
+    
 * [Nick Cater Bias Rating](https://mediabiasfactcheck.com/nick-cater-bias-rating/)
     
     December 14, 2024
@@ -163,44 +179,28 @@ No related posts.
     
     December 14, 2024
     
-* [Urban Transformations Journal – Bias and Credibility](https://mediabiasfactcheck.com/urban-transformations-journal-bias/)
-    
-    December 14, 2024
-    
-* [Poteau Daily News – Bias and Credibility](https://mediabiasfactcheck.com/poteau-daily-news-bias/)
-    
-    December 13, 2024
-    
-* [Clarissa Ward Bias Rating](https://mediabiasfactcheck.com/clarissa-ward-bias-rating/)
-    
-    December 13, 2024
-    
-* [Philly Leader – Bias and Credibility](https://mediabiasfactcheck.com/philly-leader-bias/)
-    
-    December 13, 2024
-    
 
 #### Recently Updated Pages
 
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - December 15, 2024
+    
+* [JoeHoft.com – Bias and Credibility](https://mediabiasfactcheck.com/joehoft-com-bias-and-credibility/ "View JoeHoft.com – Bias and Credibility") - December 15, 2024
+    
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - December 15, 2024
+    
+* [Accounting Education Journal – Bias and Credibility](https://mediabiasfactcheck.com/accounting-education-journal-bias/ "View Accounting Education Journal – Bias and Credibility") - December 15, 2024
+    
+* [Journalist Bias](https://mediabiasfactcheck.com/journalist-bias/ "View Journalist Bias") - December 15, 2024
+    
+* [Matt Walsh Bias Rating](https://mediabiasfactcheck.com/matt-walsh-bias-rating/ "View Matt Walsh Bias Rating") - December 15, 2024
+    
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 15, 2024
+    
+* [WJSU – NPR – Jackson – Bias and Credibility](https://mediabiasfactcheck.com/wjsu-npr-jackson-bias/ "View WJSU – NPR – Jackson –  Bias and Credibility") - December 15, 2024
+    
 * [Zimbabwe Government and Media Profile](https://mediabiasfactcheck.com/zimbabwe-media-profile/ "View Zimbabwe Government and Media Profile") - December 14, 2024
     
 * [Yemen Government and Media Profile](https://mediabiasfactcheck.com/yemen-government-and-media-profile/ "View Yemen Government and Media Profile") - December 14, 2024
-    
-* [Vietnam Government and Media Profile](https://mediabiasfactcheck.com/vietnam-media-profile/ "View Vietnam Government and Media Profile") - December 14, 2024
-    
-* [Venezuela Government and Media Profile](https://mediabiasfactcheck.com/venezuela-media-profile/ "View Venezuela Government and Media Profile") - December 14, 2024
-    
-* [Vatican City Government and Media Profile](https://mediabiasfactcheck.com/vatican-city-government-and-media-profile/ "View Vatican City Government and Media Profile") - December 14, 2024
-    
-* [Syria Government and Media Profile](https://mediabiasfactcheck.com/syria-government-and-media-profile/ "View Syria Government and Media Profile") - December 14, 2024
-    
-* [Uruguay Government and Media Profile](https://mediabiasfactcheck.com/uruguay-government-and-media-profile/ "View Uruguay Government and Media Profile") - December 14, 2024
-    
-* [United Kingdom Government and Media Profile](https://mediabiasfactcheck.com/united-kingdom-media-profile/ "View United Kingdom Government and Media Profile") - December 14, 2024
-    
-* [United Arab Emirates Government and Media Profile](https://mediabiasfactcheck.com/united-arab-emirates-media-profile/ "View United Arab Emirates Government and Media Profile") - December 14, 2024
-    
-* [Ukraine Government and Media Profile](https://mediabiasfactcheck.com/ukraine-media-profile/ "View Ukraine Government and Media Profile") - December 14, 2024
     
 
 #### Today’s Top Page Views
@@ -210,8 +210,8 @@ No related posts.
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [MBFC's Daily Vetted Fact Checks for 12/14/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/14/mbfcs-daily-vetted-fact-checks-for-12-14-2024-weekend-edition/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [Earth.com - Bias and Credibility](https://mediabiasfactcheck.com/earth-com-bias/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [The People's Voice (Newspunch) - Bias and Credibility](https://mediabiasfactcheck.com/news-punch/)
