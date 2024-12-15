@@ -257,13 +257,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1680146/derry-death-notices-saturday-december-14-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, December 14, 2024](https://www.derrynow.com/news/deaths/1680146/derry-death-notices-saturday-december-14-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Twenty police officers injured in NI in less than 24 hours](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Twenty police officers injured in NI in less than 24 hours")](https://www.derrynow.com/news/national-news/1680768/twenty-police-officers-injured-in-ni-in-less-than-24-hours.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
@@ -280,12 +273,28 @@ New music collective Roe Valley Musicians.
 [Roe Valley Musicians bring busking back to Limavady](https://www.derrynow.com/news/local-news/1676978/roe-valley-musicians-bring-busking-back-to-limavady.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
+
+Kevin Deery watched his team produce their best performance of the season.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Institute dominate league leaders Bangor at the Brandywell](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![NI Science Festival reveals blooming great programme for 2025](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NI Science Festival reveals blooming great programme for 2025")](https://www.derrynow.com/news/local-news/1680111/ni-science-festival-reveals-blooming-great-programme-for-2025.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [NI Science Festival reveals blooming great programme for 2025](https://www.derrynow.com/news/local-news/1680111/ni-science-festival-reveals-blooming-great-programme-for-2025.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police investigate sudden death of woman in Banbridge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigate sudden death of woman in Banbridge")](https://www.derrynow.com/news/northern-ireland/1680994/police-investigate-sudden-death-of-woman-in-banbridge.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Police investigate sudden death of woman in Banbridge](https://www.derrynow.com/news/northern-ireland/1680994/police-investigate-sudden-death-of-woman-in-banbridge.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City's Cate Toland interviewed by Brendan McGilligan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City's Cate Toland interviewed by Brendan McGilligan")](https://www.derrynow.com/video/derry-sport/1680673/the-trajectory-of-the-derry-city-womens-team-is-brilliant-according-to-defender-cate-toland.html)
 
@@ -296,21 +305,14 @@ Derry City's Cate Toland interviewed by Brendan McGilligan
 [The trajectory of the Derry City women’s team is ‘brilliant’ according to defender Cate Toland](https://www.derrynow.com/video/derry-sport/1680673/the-trajectory-of-the-derry-city-womens-team-is-brilliant-according-to-defender-cate-toland.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police investigate sudden death of woman in Banbridge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigate sudden death of woman in Banbridge")](https://www.derrynow.com/news/northern-ireland/1680994/police-investigate-sudden-death-of-woman-in-banbridge.html)
+[![Ballinderry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinderry")](https://www.derrynow.com/news/derry-sport/1681019/ballinderry-crowned-ulster-champions-thanks-to-darren-lawn-s-late-winner.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Police investigate sudden death of woman in Banbridge](https://www.derrynow.com/news/northern-ireland/1680994/police-investigate-sudden-death-of-woman-in-banbridge.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
-
-Kevin Deery watched his team produce their best performance of the season.
+The Ballindery players celebrate their historic win.
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Institute dominate league leaders Bangor at the Brandywell](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Ballinderry crowned Ulster champions thanks to Darren Lawn's late winner!](https://www.derrynow.com/news/derry-sport/1681019/ballinderry-crowned-ulster-champions-thanks-to-darren-lawn-s-late-winner.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Ronan Boyce interview with Brendan McGilligan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ronan Boyce interview with Brendan McGilligan")](https://www.derrynow.com/video/derry-sport/1680642/exciting-time-for-derry-city-and-their-fans-according-to-defender-ronan-boyce.html)
 
@@ -511,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1680147/derry-death-notices-sunday-december-15-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, December 15, 2024](https://www.derrynow.com/news/deaths/1680147/derry-death-notices-sunday-december-15-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Ballinderry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinderry")](https://www.derrynow.com/news/derry-sport/1681019/ballinderry-crowned-ulster-champions-thanks-to-darren-lawn-s-late-winner.html)
 
 The Ballindery players celebrate their historic win.
@@ -520,7 +529,7 @@ The Ballindery players celebrate their historic win.
 [Ballinderry crowned Ulster champions thanks to Darren Lawn's late winner!](https://www.derrynow.com/news/derry-sport/1681019/ballinderry-crowned-ulster-champions-thanks-to-darren-lawn-s-late-winner.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
+[![Institute](https://www.derrynow.com/resizer/165/93/true/2024_12_14/Institute_v_Ards_8-1734213402579.jpg--.jpg?1734213404158 "Institute")](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
 
 Kevin Deery watched his team produce their best performance of the season.
 
@@ -553,15 +562,6 @@ New music collective Roe Valley Musicians.
 
 [Roe Valley Musicians bring busking back to Limavady](https://www.derrynow.com/news/local-news/1676978/roe-valley-musicians-bring-busking-back-to-limavady.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City's Cate Toland interviewed by Brendan McGilligan](https://www.derrynow.com/resizer/165/93/true/2024_12_14/64128a4daa5eeefda950c11d0b823c97.jpg--.jpg "Derry City's Cate Toland interviewed by Brendan McGilligan")](https://www.derrynow.com/video/derry-sport/1680673/the-trajectory-of-the-derry-city-womens-team-is-brilliant-according-to-defender-cate-toland.html)
-
-Derry City's Cate Toland interviewed by Brendan McGilligan
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[The trajectory of the Derry City women’s team is ‘brilliant’ according to defender Cate Toland](https://www.derrynow.com/video/derry-sport/1680673/the-trajectory-of-the-derry-city-womens-team-is-brilliant-according-to-defender-cate-toland.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
