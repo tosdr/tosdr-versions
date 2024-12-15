@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![New mexico lung cancer lawyer](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-lawyer-new-mexico-scaled.jpg "New Mexico Lung Cancer Lawyer")](https://www.pintas.com/lung-cancer-lawyer/new-mexico/ "New Mexico Lung Cancer Lawyer")
+[![What is subdural hematoma?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-subdural-hematoma-scaled.jpg "What Is Subdural Hematoma?")](https://www.pintas.com/faq/what-is-subdural-hematoma/ "What Is Subdural Hematoma?")
 
-[#### New Mexico Lung Cancer Lawyer](https://www.pintas.com/lung-cancer-lawyer/new-mexico/)
+[#### What Is Subdural Hematoma?](https://www.pintas.com/faq/what-is-subdural-hematoma/)
 
-[![Does anyone survive mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-does-anyone-survive-mesothelioma.jpg "Does Anyone Survive Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-anyone-survive-mesothelioma/ "Does Anyone Survive Mesothelioma?")
+[![Can kids get mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-kids-get-mesothelioma-scaled.jpg "Can Kids Get Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-kids-get-mesothelioma/ "Can Kids Get Mesothelioma?")
 
-[#### Does Anyone Survive Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/does-anyone-survive-mesothelioma/)
+[#### Can Kids Get Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-kids-get-mesothelioma/)
 
-[![How are asbestos cases paid out?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-how-are-asbestos-cases-paid-out.jpg "How Are Asbestos Cases Paid Out?")](https://www.pintas.com/practice-areas/lung-cancer/how-are-asbestos-cases-paid-out/ "How Are Asbestos Cases Paid Out?")
+[![How much money is a nursing home abuse settlement?](https://www.pintas.com/wp-content/uploads/2023/04/sad-woman-senior-living-bed-300x200.jpeg "How Much Money Is a Nursing Home Abuse Settlement?")](https://www.pintas.com/faq/how-much-money-is-a-nursing-home-abuse-settlement/ "How Much Money Is a Nursing Home Abuse Settlement?")
 
-[#### How Are Asbestos Cases Paid Out?](https://www.pintas.com/practice-areas/lung-cancer/how-are-asbestos-cases-paid-out/)
+[#### How Much Money Is a Nursing Home Abuse Settlement?](https://www.pintas.com/faq/how-much-money-is-a-nursing-home-abuse-settlement/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
