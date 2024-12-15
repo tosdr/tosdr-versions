@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/psychiatrie-industrie-des-doods/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/indonesie-wil-gesubsidieerd-al-zn-regenwoud-omhakken/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
