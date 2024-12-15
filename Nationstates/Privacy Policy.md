@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Ukrainian War VIII: Three-Year Specia… (122)](https://forum.nationstates.net/viewtopic.php?t=559618&f=20&view=unread#unread ""Ukrainian War VIII: Three-Year Special Military Operation" (122 posts)")
-* [What Video Game Does AN's vibes remin… (120)](https://forum.nationstates.net/viewtopic.php?t=558820&f=25&view=unread#unread ""What Video Game Does AN's vibes remind you of?" (120 posts)")
-* [Callistan Forum (55)](https://forum.nationstates.net/viewtopic.php?t=548448&f=12&view=unread#unread ""Callistan Forum" (55 posts)")
-* [American Politics: Turnabout Trump (9,430)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (9,430 posts)")
-* [What do you think of when you see the… (10,101)](https://forum.nationstates.net/viewtopic.php?t=527620&f=25&view=unread#unread ""What do you think of when you see the AN's flag? V" (10,101 posts)")
+* [\[AT VOTE\] Medical Waste Management an… (57)](https://forum.nationstates.net/viewtopic.php?t=558648&f=9&view=unread#unread ""[AT VOTE] Medical Waste Management and Safety Act" (57 posts)")
+* [Baptism of Fire 85 EVERYTHING THREAD (20)](https://forum.nationstates.net/viewtopic.php?t=559469&f=7&view=unread#unread ""Baptism of Fire 85 EVERYTHING THREAD" (20 posts)")
+* [Out of the 2 AN’s: Which one has the… (5,276)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (5,276 posts)")
+* [Draft: Supporting Marijuana Smokers (42)](https://forum.nationstates.net/viewtopic.php?t=559326&f=9&view=unread#unread ""Draft: Supporting Marijuana Smokers" (42 posts)")
+* [Wikipedia Game Vol. IV (1,247)](https://forum.nationstates.net/viewtopic.php?t=551271&f=25&view=unread#unread ""Wikipedia Game Vol. IV" (1,247 posts)")
 
 Advertisement
 
