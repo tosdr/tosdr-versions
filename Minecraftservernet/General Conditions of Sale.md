@@ -29,17 +29,15 @@ Version All 1.21.4 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 
 
 Active Servers
 
-[![JailmineNetwork](plugins/MineCraft/icons/25x25xJailmineNetwork_1709569987.png.pagespeed.ic.8D8j2R0whG.png)
+[1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")[![VersenityGames](plugins/MineCraft/icons/25x25xVersenityGames_1730161639.png.pagespeed.ic.6SScOAerg5.png)
 
-Jailmine Network](https://minecraft-server.net/details/JailmineNetwork/ "Jailmine Network")[![HeartSMP](plugins/MineCraft/icons/25x25xHeartSMP_1733143122.png.pagespeed.ic._3YAt9VHdc.png)
+Versenity Survival](https://minecraft-server.net/details/VersenityGames/ "Versenity Survival")[![StormyLagoon](plugins/MineCraft/icons/25x25xStormyLagoon_1734154442.png.pagespeed.ic.BpAXGCTt4U.png)
 
-HeartSMP SEASON 2](https://minecraft-server.net/details/HeartSMP/ "HeartSMP SEASON 2")[![minetown-5791](plugins/MineCraft/icons/25x25xminetown-5791_1733509674.png.pagespeed.ic.XP_3OjI3ug.png)
+Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
 
-Minetown - 1.8 - 1.21.3](https://minecraft-server.net/details/minetown-5791/ "Minetown - 1.8 - 1.21.3")[![TotalVanilla](plugins/MineCraft/icons/25x25xTotalVanilla_1734020162.png.pagespeed.ic.TdWQjrJnTo.jpg)
+Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
 
-Total Vanilla](https://minecraft-server.net/details/TotalVanilla/ "Total Vanilla")[![HorusApl](plugins/MineCraft/icons/25x25xHorusApl_1733989251.png.pagespeed.ic.dbPZXbDd8P.png)
-
-ExeosCraft (1.21) | Economy SMP | McMMO | No Resets](https://minecraft-server.net/details/HorusApl/ "ExeosCraft (1.21) | Economy SMP | McMMO | No Resets")
+Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -116,4 +114,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06268 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06084 - Created by [Debaucus](https://debauc.us/)
