@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/blur-lights-generic-326x245.jpg)](https://cwbchicago.com/2024/12/cpd-terminates-chase-of-bucktown-robbery-crew-as-payouts-for-pursuit-crashes-mount.html "CPD terminates chase of Bucktown robbery crew as payouts for pursuit crashes mount")
+
+Bucktown
+
+### [CPD terminates chase of Bucktown robbery crew as payouts for pursuit crashes mount](https://cwbchicago.com/2024/12/cpd-terminates-chase-of-bucktown-robbery-crew-as-payouts-for-pursuit-crashes-mount.html "CPD terminates chase of Bucktown robbery crew as payouts for pursuit crashes mount")
+
+[December 12, 2024 10:23 AM](https://cwbchicago.com/2024/12)
+
+Shortly after armed robbers mugged a man in Bucktown on Wednesday night, Chicago cops located and began chasing the group’s getaway car. About three minutes later, a police supervisor, somewhat reluctantly, ordered an end to the pursuit. Earlier in the day, a jury awarded nearly $80 million to the family of a child killed by a driver who was being chased by CPD.[](https://cwbchicago.com/2024/12/cpd-terminates-chase-of-bucktown-robbery-crew-as-payouts-for-pursuit-crashes-mount.html "CPD terminates chase of Bucktown robbery crew as payouts for pursuit crashes mount")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/12/Kenneth-Merrit-Damarri-Conner-326x245.jpg)](https://cwbchicago.com/2024/12/feds-charge-2-men-accused-in-violent-carjacking-robbery-that-went-viral.html "Feds charge 2 men with violent carjacking that went viral")
 
 Beverly
@@ -263,19 +273,19 @@ Logan Square
 
 A shootout between the occupants of two cars ended with one man dead in Logan Square on Wednesday evening, according to Chicago police.[](https://cwbchicago.com/2024/12/car-to-car-shootout-leaves-one-dead-in-logan-square.html "Car-to-car shootout leaves one dead in Logan Square")
 
-[![](https://cwbchicago.com/wp-content/uploads/2022/10/Wrigley-Field-_-CPD-photo-326x245.jpg)](https://cwbchicago.com/2024/12/14-year-old-commited-2-armed-carjackings-and-an-armed-robbery-police-say.html "14-year-old commited 2 armed carjackings and an armed robbery, police say")
+#### Daily email newsletter
 
-Belmont Cragin
+Sign up to receive a daily summary of CWBChicago's latest stories.
 
-### [14-year-old commited 2 armed carjackings and an armed robbery, police say](https://cwbchicago.com/2024/12/14-year-old-commited-2-armed-carjackings-and-an-armed-robbery-police-say.html "14-year-old commited 2 armed carjackings and an armed robbery, police say")
+           
 
-[December 11, 2024 9:48 AM](https://cwbchicago.com/2024/12)
+Subscribe
 
-Prosecutors have filed charges in connection with three carjackings and robberies that occurred over two days in June, Chicago police said. The accused is a 14-year-old boy.[](https://cwbchicago.com/2024/12/14-year-old-commited-2-armed-carjackings-and-an-armed-robbery-police-say.html "14-year-old commited 2 armed carjackings and an armed robbery, police say")
+Loading...
 
-Search
+#### Thank you!
 
-Search
+You have successfully joined our subscriber list.
 
 #### Follow Us
 
@@ -283,9 +293,9 @@ Search
 * [Twitter](https://twitter.com/CWBChicago)
 * [YouTube](https://www.youtube.com/c/CWBChicago/videos)
 
-##### Get new posts by email:
+Search
 
-Subscribe
+Search
 
 ###### Become A Subscriber
 
