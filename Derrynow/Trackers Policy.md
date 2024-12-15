@@ -264,6 +264,22 @@ Most Popular
 [Derry Death Notices - Sunday, December 15, 2024](https://www.derrynow.com/news/deaths/1680147/derry-death-notices-sunday-december-15-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![IN PICTURES: Boys Indoor Primary School GAA Blitz held in Derry's Templemore Sports Complex](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Boys Indoor Primary School GAA Blitz held in Derry's Templemore Sports Complex")](https://www.derrynow.com/story-telling/pictures---videos/1676472/in-pictures-boys-indoor-primary-school-gaa-blitz-held-in-derry-s-templemore-sports-complex.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Boys Indoor Primary School GAA Blitz held in Derry's Templemore Sports Complex](https://www.derrynow.com/story-telling/pictures---videos/1676472/in-pictures-boys-indoor-primary-school-gaa-blitz-held-in-derry-s-templemore-sports-complex.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Mayor thanks Derry and Strabane council staff with tasty breakfast treat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mayor thanks Derry and Strabane council staff with tasty breakfast treat")](https://www.derrynow.com/news/local-news/1680124/mayor-thanks-derry-and-strabane-council-staff-with-tasty-breakfast-treat.html)
+
+Martin Porter, Grounds Maintenance, and Stephen McGarrigle, gravedigger at DC&SDC, pictured with Derry City & Strabane District Council Mayor Lilian Seenoi-Barr.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Mayor thanks Derry and Strabane council staff with tasty breakfast treat](https://www.derrynow.com/news/local-news/1680124/mayor-thanks-derry-and-strabane-council-staff-with-tasty-breakfast-treat.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
 
 Kevin Deery watched his team produce their best performance of the season.
@@ -272,22 +288,6 @@ Kevin Deery watched his team produce their best performance of the season.
 
 [Institute dominate league leaders Bangor at the Brandywell](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Twenty police officers injured in NI in less than 24 hours](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Twenty police officers injured in NI in less than 24 hours")](https://www.derrynow.com/news/national-news/1680768/twenty-police-officers-injured-in-ni-in-less-than-24-hours.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Twenty police officers injured in NI in less than 24 hours](https://www.derrynow.com/news/national-news/1680768/twenty-police-officers-injured-in-ni-in-less-than-24-hours.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Roe Valley Musicians bring busking back to Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roe Valley Musicians bring busking back to Limavady")](https://www.derrynow.com/news/local-news/1676978/roe-valley-musicians-bring-busking-back-to-limavady.html)
-
-New music collective Roe Valley Musicians.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Roe Valley Musicians bring busking back to Limavady](https://www.derrynow.com/news/local-news/1676978/roe-valley-musicians-bring-busking-back-to-limavady.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Ballinderry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinderry")](https://www.derrynow.com/news/derry-sport/1681019/ballinderry-crowned-ulster-champions-thanks-to-darren-lawn-s-late-winner.html)
 
@@ -314,21 +314,19 @@ Ronan Boyce interview with Brendan McGilligan
 ['Exciting' time for Derry City and their fans according to defender Ronan Boyce](https://www.derrynow.com/video/derry-sport/1680642/exciting-time-for-derry-city-and-their-fans-according-to-defender-ronan-boyce.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Mayor thanks Derry and Strabane council staff with tasty breakfast treat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mayor thanks Derry and Strabane council staff with tasty breakfast treat")](https://www.derrynow.com/news/local-news/1680124/mayor-thanks-derry-and-strabane-council-staff-with-tasty-breakfast-treat.html)
-
-Martin Porter, Grounds Maintenance, and Stephen McGarrigle, gravedigger at DC&SDC, pictured with Derry City & Strabane District Council Mayor Lilian Seenoi-Barr.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Mayor thanks Derry and Strabane council staff with tasty breakfast treat](https://www.derrynow.com/news/local-news/1680124/mayor-thanks-derry-and-strabane-council-staff-with-tasty-breakfast-treat.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Next Irish government should begin planning for unity, says Eastwood](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Next Irish government should begin planning for unity, says Eastwood")](https://www.derrynow.com/news/northern-ireland/1681143/next-irish-government-should-begin-planning-for-unity-eastwood.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
 [Next Irish government should begin planning for unity – Eastwood](https://www.derrynow.com/news/northern-ireland/1681143/next-irish-government-should-begin-planning-for-unity-eastwood.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police launch murder probe following ‘brutal and senseless’ death of woman](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police launch murder probe following ‘brutal and senseless’ death of woman")](https://www.derrynow.com/news/northern-ireland/1681252/police-launch-murder-probe-following-brutal-and-senseless-death-of-woman.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Police launch murder probe following ‘brutal and senseless’ death of woman](https://www.derrynow.com/news/northern-ireland/1681252/police-launch-murder-probe-following-brutal-and-senseless-death-of-woman.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Co Down town in ‘shock’ following sudden death of woman](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Co Down town in ‘shock’ following sudden death of woman")](https://www.derrynow.com/news/northern-ireland/1681099/co-down-town-in-shock-following-sudden-death-of-woman.html)
 
