@@ -137,7 +137,7 @@ Upcoming Events
 
 Dec 18
 
-10:01 am - 11:00 am EST
+10:01 am - 11:00 am UTC+0
 
 ### [12/18 @ 10am EST – Live Q&A with ALL the Engineers | Ask the CEO your tech questions](https://speedify.com/event/12-18-10am-est-can-one-weaker-connection-slow-you-down-ask-the-ceo-your-tech-questions/ "12/18 @ 10am EST – Live Q&A with ALL the Engineers | Ask the CEO your tech questions")
 
