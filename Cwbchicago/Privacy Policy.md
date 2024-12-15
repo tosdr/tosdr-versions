@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/bb20-326x245.jpg)](https://cwbchicago.com/2024/12/man-found-dead-fatally-shot-in-a-south-chicago-alley-that-used-to-be-monitored-by-shotspotter.html "Man found dead, fatally shot in a South Chicago alley that used to be monitored by ShotSpotter")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Kenneth-Merrit-Damarri-Conner-326x245.jpg)](https://cwbchicago.com/2024/12/feds-charge-2-men-accused-in-violent-carjacking-robbery-that-went-viral.html "Feds charge 2 men with violent carjacking that went viral")
 
-South Chicago
+Beverly
 
-### [Man found dead, fatally shot in a South Chicago alley that used to be monitored by ShotSpotter](https://cwbchicago.com/2024/12/man-found-dead-fatally-shot-in-a-south-chicago-alley-that-used-to-be-monitored-by-shotspotter.html "Man found dead, fatally shot in a South Chicago alley that used to be monitored by ShotSpotter")
+### [Feds charge 2 men with violent carjacking that went viral](https://cwbchicago.com/2024/12/feds-charge-2-men-accused-in-violent-carjacking-robbery-that-went-viral.html "Feds charge 2 men with violent carjacking that went viral")
 
-[December 11, 2024 7:29 AM](https://cwbchicago.com/2024/12)
+[December 12, 2024 4:44 AM](https://cwbchicago.com/2024/12)
 
-A man found unresponsive at the mouth of an alley in South Chicago overnight had been fatally shot, Chicago police said. The man, who suffered a gunshot wound to his head, was pronounced dead at the scene.[](https://cwbchicago.com/2024/12/man-found-dead-fatally-shot-in-a-south-chicago-alley-that-used-to-be-monitored-by-shotspotter.html "Man found dead, fatally shot in a South Chicago alley that used to be monitored by ShotSpotter")
+Bring on the feds! Two men accused of participating in one of last year’s most memorable crimes are now fighting federal charges in the case. A grand jury returned an indictment against Kenneth “Kenny Mac” Merritt and Damarri “Marri” Conner, charging them with federal counts of using a firearm during the commission of a violent crime and carjacking, according to court records.[](https://cwbchicago.com/2024/12/feds-charge-2-men-accused-in-violent-carjacking-robbery-that-went-viral.html "Feds charge 2 men with violent carjacking that went viral")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/3500-block-w-59th-ms-326x245.jpg)](https://cwbchicago.com/2024/12/10000-reward-offered-for-info-about-mass-shooting-that-left-3-dead-5-injured-at-chicago-house-party.html "$10,000 reward offered for info about mass shooting that left 3 dead, 5 injured at Chicago house party")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/2300-kimball-326x245.jpg)](https://cwbchicago.com/2024/12/car-to-car-shootout-leaves-one-dead-in-logan-square.html "Car-to-car shootout leaves one dead in Logan Square")
 
-Gage Park
+Logan Square
 
-### [$10,000 reward offered for info about mass shooting that left 3 dead, 5 injured at Chicago house party](https://cwbchicago.com/2024/12/10000-reward-offered-for-info-about-mass-shooting-that-left-3-dead-5-injured-at-chicago-house-party.html "$10,000 reward offered for info about mass shooting that left 3 dead, 5 injured at Chicago house party")
+### [Car-to-car shootout leaves one dead in Logan Square](https://cwbchicago.com/2024/12/car-to-car-shootout-leaves-one-dead-in-logan-square.html "Car-to-car shootout leaves one dead in Logan Square")
 
-[December 10, 2024 9:49 PM](https://cwbchicago.com/2024/12)
+[December 12, 2024 4:10 AM](https://cwbchicago.com/2024/12)
 
-Crime Stoppers is offering a reward for information that leads to the arrest or indictment of the people responsible for a mass shooting that left three people dead and five injured at a house party in Gage Park earlier this month.[](https://cwbchicago.com/2024/12/10000-reward-offered-for-info-about-mass-shooting-that-left-3-dead-5-injured-at-chicago-house-party.html "$10,000 reward offered for info about mass shooting that left 3 dead, 5 injured at Chicago house party")
+A shootout between the occupants of two cars ended with one man dead in Logan Square on Wednesday evening, according to Chicago police.[](https://cwbchicago.com/2024/12/car-to-car-shootout-leaves-one-dead-in-logan-square.html "Car-to-car shootout leaves one dead in Logan Square")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/2100-block-west-north-ave-326x245.jpg)](https://cwbchicago.com/2024/12/15-year-shot-in-wicker-park-on-tuesday-afternoon.html "15-year-old shot in Wicker Park on Tuesday afternoon")
+[![](https://cwbchicago.com/wp-content/uploads/2022/10/Wrigley-Field-_-CPD-photo-326x245.jpg)](https://cwbchicago.com/2024/12/14-year-old-commited-2-armed-carjackings-and-an-armed-robbery-police-say.html "14-year-old commited 2 armed carjackings and an armed robbery, police say")
 
-Wicker Park
+Belmont Cragin
 
-### [15-year-old shot in Wicker Park on Tuesday afternoon](https://cwbchicago.com/2024/12/15-year-shot-in-wicker-park-on-tuesday-afternoon.html "15-year-old shot in Wicker Park on Tuesday afternoon")
+### [14-year-old commited 2 armed carjackings and an armed robbery, police say](https://cwbchicago.com/2024/12/14-year-old-commited-2-armed-carjackings-and-an-armed-robbery-police-say.html "14-year-old commited 2 armed carjackings and an armed robbery, police say")
 
-[December 10, 2024 7:31 PM](https://cwbchicago.com/2024/12)
+[December 11, 2024 9:48 AM](https://cwbchicago.com/2024/12)
 
-A 15-year-old boy was shot in Wicker Park on Tuesday afternoon, Chicago police said. Investigators were trying to figure out exactly where the shooting occurred.[](https://cwbchicago.com/2024/12/15-year-shot-in-wicker-park-on-tuesday-afternoon.html "15-year-old shot in Wicker Park on Tuesday afternoon")
+Prosecutors have filed charges in connection with three carjackings and robberies that occurred over two days in June, Chicago police said. The accused is a 14-year-old boy.[](https://cwbchicago.com/2024/12/14-year-old-commited-2-armed-carjackings-and-an-armed-robbery-police-say.html "14-year-old commited 2 armed carjackings and an armed robbery, police say")
 
 Search
 
