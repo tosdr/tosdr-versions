@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Mega Millions drawing: Texas ticket wins $30,000 prize](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/03/32/18/Mega-Millions-ticket.jpg?ve=1&tl=1)
+ [![1 killed in Downtown Dallas shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/st-paul-shooting-mel-kdfweme002_18_39_58_mpg_00.01.59.22.jpg?ve=1&tl=1)
 
- ![Mega Millions drawing: Texas ticket wins $30,000 prize](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/03/32/18/592/333/Mega-Millions-ticket.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mega-millions-drawing-12-13-2024-texas)
+ ![1 killed in Downtown Dallas shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/st-paul-shooting-mel-kdfweme002_18_39_58_mpg_00.01.59.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/1-killed-downtown-dallas-shooting)
 
-### [Mega Millions drawing: Texas ticket wins $30,000 prize](https://www.fox4news.com/news/mega-millions-drawing-12-13-2024-texas)
+### [1 killed in Downtown Dallas shooting](https://www.fox4news.com/news/1-killed-downtown-dallas-shooting)
 
- [![Pelosi hospitalized, has hip surgery overseas after fall](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2185648532-scaled.jpg?ve=1&tl=1)
+ [![Trevon Diggs to undergo season-ending knee surgery](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2189585424.jpg?ve=1&tl=1)
 
- ![Pelosi hospitalized, has hip surgery overseas after fall](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2185648532-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pelosi-hospitalized-injured-surgery)
+ ![Trevon Diggs to undergo season-ending knee surgery](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2189585424.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/trevon-diggs-knee-surgery)
 
-### [Pelosi hospitalized, has hip surgery overseas after fall](https://www.fox4news.com/news/pelosi-hospitalized-injured-surgery)
+### [Trevon Diggs to undergo season-ending knee surgery](https://www.fox4news.com/sports/trevon-diggs-knee-surgery)
 
- [![Teacher accused of taping elementary student's head to desk](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/teacher-mugs.jpg?ve=1&tl=1)
+ [![Christmas tree light controllers sold at Target, Walmart recalled for fire risk](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-140379651-copy-scaled.jpg?ve=1&tl=1)
 
- ![Teacher accused of taping elementary student's head to desk](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/teacher-mugs.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/teacher-tapes-students-head-desk)
+ ![Christmas tree light controllers sold at Target, Walmart recalled for fire risk](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-140379651-copy-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mr-christmas-recall-tree-light-controllers-target-walmart-cracker-barrel)
 
-### [Teacher accused of taping elementary student's head to desk](https://www.fox4news.com/news/teacher-tapes-students-head-desk)
+### [Christmas tree light controllers sold at Target, Walmart recalled for fire risk](https://www.fox4news.com/news/mr-christmas-recall-tree-light-controllers-target-walmart-cracker-barrel)
 
- [![Dallas shooting: Car crashes into Pleasant Grove home, 2 shooting victims found inside](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/academy-dr-blurred.jpg?ve=1&tl=1)
+ [![ABC, Trump settle defamation lawsuit](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2165150477-copy-scaled.jpg?ve=1&tl=1)
 
- ![Dallas shooting: Car crashes into Pleasant Grove home, 2 shooting victims found inside](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/academy-dr-blurred.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-academy-drive)
+ ![ABC, Trump settle defamation lawsuit](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2165150477-copy-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/abc-trump-defamation-settlement-george-stephanopoulos)
 
-### [Car crashes into Pleasant Grove home, 2 shooting victims found inside](https://www.fox4news.com/news/dallas-shooting-academy-drive)
+### [ABC News agrees to give $15 million to Trump presidential library to settle defamation suit](https://www.fox4news.com/news/abc-trump-defamation-settlement-george-stephanopoulos)
 
- [![Amber Alert canceled after abducted 7-year-old found](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/32/18/hazel-hodge.jpg?ve=1&tl=1)
+ [![Arlington crash kills man trying to help stranded driver, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1)
 
- ![Amber Alert canceled after abducted 7-year-old found](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/32/18/592/333/hazel-hodge.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/amber-alert-issued-7-year-old-out-san-jacinto-county)
+ ![Arlington crash kills man trying to help stranded driver, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/arlington-police-department-generic-arlington-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-crash-watson-road-december-14)
 
-### [Amber Alert canceled after abducted 7-year-old found](https://www.fox4news.com/news/amber-alert-issued-7-year-old-out-san-jacinto-county)
+### [Arlington crash kills man trying to help stranded driver, police say](https://www.fox4news.com/news/arlington-crash-watson-road-december-14)
 
 ###### [News](https://www.fox4news.com/news)
 
