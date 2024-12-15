@@ -63,8 +63,6 @@ SIGN UP & SAVE!
 * [](#top-nav15)
     
 
-We are experiencing higher than normal call volume and appreciate your patience while we continue servicing our customers. If you would like to avoid the wait, please use the chat feature right here on the help desk and we'll be happy to assist there! Thank you!
-
 How can we help you?
 
 [Back to Home](https://www.fanatics.com/customer-help-desk/hd-1)
@@ -411,24 +409,24 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: 5949baf7d2ebb10f
+rc: 538a14bea09b3514
 
-vid: 2b153b20-baea-11ef-85ba-318e6837dd4a
+vid: 3dccc390-bb1d-11ef-988e-59a295fddf1d
 
 version: 1.1.0-rc-20241009-19.102623
 
 +
 
-Qualified Experiments #:* 15273:A:0:1
+Qualified Experiments #:* 15273:B:1:1
 * 15465:A:0:1
 * 15472:A:0:1
-Namespaces:* 4:3884:0
-* 8:1795:0
-* 10:539:0
-* 11:2706:0
-* 3:2888:0
-* 5:3978:0
-* 6:1072:0
-* 7:3314:0
-* 9:1649:0
-* 2:3937:0
+Namespaces:* 9:3234:0
+* 10:6468:0
+* 3:1335:0
+* 4:3859:0
+* 6:3333:0
+* 7:3592:0
+* 8:3021:0
+* 2:740:0
+* 5:4950:0
+* 11:4906:0
