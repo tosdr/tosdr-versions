@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -145,18 +145,6 @@
 |     |     |
 | [Картинки с выставок](https://www.russianfood.com/themes/?theme_id=18) | 4,98 |
 | Репортажи с выставок производителей продуктов питания. Рассказы о продукции известных и еще неизвестных брендов |     |
-
-Сейчас читают
-
-* [Мещерская окрошка](https://www.russianfood.com/recipes/recipe.php?rid=3683)
-* [Сандвичи для гурманов](https://www.russianfood.com/recipes/recipe.php?rid=16381)
-* [Салат из колбасы](https://www.russianfood.com/recipes/recipe.php?rid=17425)
-* [Рулет пикантный](https://www.russianfood.com/recipes/recipe.php?rid=17593)
-* [Сосиски, приготовленные на сковородке](https://www.russianfood.com/recipes/recipe.php?rid=17854)
-* [Кольраби фаршированная](https://www.russianfood.com/recipes/recipe.php?rid=17986)
-* [Начинка пикантная](https://www.russianfood.com/recipes/recipe.php?rid=18410)
-* [Бутерброды с колбасой и крутым яйцом](https://www.russianfood.com/recipes/recipe.php?rid=18893)
-* [Салат из фасоли с колбасой](https://www.russianfood.com/recipes/recipe.php?rid=19825)
 
 |     |
 | --- |
@@ -456,13 +444,6 @@
 |     |     |
 | [Подписаться письмом](mailto:home.cookery.prostierecepti-sub@subscribe.ru?subj=subscribe) |     |
 
-Новые рецепты:
-
-|     |
-| --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758737.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174955) |
-| [Суп с говяжьим фаршем и бататом](https://www.russianfood.com/recipes/recipe.php?rid=174955) |
-
 |     |     |     |
 | --- | --- | --- |
 | ![](//img1.russianfood.com/images/common/bottom_line1.jpg) | ![](//img1.russianfood.com/images/common/bottom_line2.jpg) |     |
@@ -478,4 +459,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(111)
+(107)
