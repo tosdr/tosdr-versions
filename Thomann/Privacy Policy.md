@@ -23,7 +23,7 @@ Shop now](https://www.thomann.de/intl/social_gifts-for-musicians.html)
 search  
 
 * [Repair Service](https://www.thomannmusic.com/helpdesk_repair.html)
-* [Satisfaction Guarantee](https://www.thomannmusic.com/helpdesk_satisfaction.html)
+* [Payment Security](https://www.thomannmusic.com/helpdesk_paymentsecurity.html)
 
 en · $
 
