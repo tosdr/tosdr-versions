@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schön­heits­kosmetik für Kinder: Wenn Kinder Anti-Aging-Creme wollen](https://www.test.de/Schoenheitskosmetik-fuer-Kinder-Wenn-Kinder-Anti-Aging-Creme-wollen-6160123-0/ "Schönheitskosmetik für Kinder - Wenn Kinder Anti-Aging-Creme wollen")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
-* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
-* [Vakuum-Set im Test: Viel Luft nach oben](https://www.test.de/Airtender-im-Test-6177777-0/ "Vakuum-Set im Test - Viel Luft nach oben")
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt")
+* [Neue Amazon-Kreditkarte: Keine Grund­gebühr, aber viel weniger Rabatt­punkte](https://www.test.de/Neue-Amazon-Kreditkarte-Keine-Grundgebuehr-aber-viel-weniger-Rabattpunkte-6145135-0/ "Neue Amazon-Kreditkarte - Keine Grundgebühr, aber viel weniger Rabattpunkte")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schön­heits­kosmetik für Kinder: Wenn Kinder Anti-Aging-Creme wollen](https://www.test.de/Schoenheitskosmetik-fuer-Kinder-Wenn-Kinder-Anti-Aging-Creme-wollen-6160123-0/ "Schönheitskosmetik für Kinder - Wenn Kinder Anti-Aging-Creme wollen")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
-* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
-* [Vakuum-Set im Test: Viel Luft nach oben](https://www.test.de/Airtender-im-Test-6177777-0/ "Vakuum-Set im Test - Viel Luft nach oben")
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt")
+* [Neue Amazon-Kreditkarte: Keine Grund­gebühr, aber viel weniger Rabatt­punkte](https://www.test.de/Neue-Amazon-Kreditkarte-Keine-Grundgebuehr-aber-viel-weniger-Rabattpunkte-6145135-0/ "Neue Amazon-Kreditkarte - Keine Grundgebühr, aber viel weniger Rabattpunkte")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schön­heits­kosmetik für Kinder: Wenn Kinder Anti-Aging-Creme wollen](https://www.test.de/Schoenheitskosmetik-fuer-Kinder-Wenn-Kinder-Anti-Aging-Creme-wollen-6160123-0/ "Schönheitskosmetik für Kinder - Wenn Kinder Anti-Aging-Creme wollen")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
-* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
-* [Vakuum-Set im Test: Viel Luft nach oben](https://www.test.de/Airtender-im-Test-6177777-0/ "Vakuum-Set im Test - Viel Luft nach oben")
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt")
+* [Neue Amazon-Kreditkarte: Keine Grund­gebühr, aber viel weniger Rabatt­punkte](https://www.test.de/Neue-Amazon-Kreditkarte-Keine-Grundgebuehr-aber-viel-weniger-Rabattpunkte-6145135-0/ "Neue Amazon-Kreditkarte - Keine Grundgebühr, aber viel weniger Rabattpunkte")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Schön­heits­kosmetik für Kinder: Wenn Kinder Anti-Aging-Creme wollen](https://www.test.de/Schoenheitskosmetik-fuer-Kinder-Wenn-Kinder-Anti-Aging-Creme-wollen-6160123-0/ "Schönheitskosmetik für Kinder - Wenn Kinder Anti-Aging-Creme wollen")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
-* [Dubioses Fest­geld: Vorsicht bei Alpha Blue Sky](https://www.test.de/Dubioses-Festgeld-Vorsicht-bei-Alpha-Blue-Sky-6146449-0/ "Dubioses Festgeld - Vorsicht bei Alpha Blue Sky")
-* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
-* [Vakuum-Set im Test: Viel Luft nach oben](https://www.test.de/Airtender-im-Test-6177777-0/ "Vakuum-Set im Test - Viel Luft nach oben")
-* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt")
+* [Neue Amazon-Kreditkarte: Keine Grund­gebühr, aber viel weniger Rabatt­punkte](https://www.test.de/Neue-Amazon-Kreditkarte-Keine-Grundgebuehr-aber-viel-weniger-Rabattpunkte-6145135-0/ "Neue Amazon-Kreditkarte - Keine Grundgebühr, aber viel weniger Rabattpunkte")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
 
 Stiftung Warentest
 
