@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/259446dc-b7a0-4050-938c-164552e1ed53/259446dc-b7a0-4050-938c-164552e1ed53_16x9.png) ![](https://media.tegna-media.com/assets/WQAD/images/259446dc-b7a0-4050-938c-164552e1ed53/259446dc-b7a0-4050-938c-164552e1ed53_360x203.png)](https://www.wqad.com/article/weather/closings/inclement-weather-closes-business-postponements/526-ec7045dd-18b4-40bb-88b7-32c5ff37c88d)
+    *  [![](https://media.tegna-media.com/assets/KSDK/images/fd29a416-9b2d-4e35-bd38-9ac848f68fb1/20241214T160217/fd29a416-9b2d-4e35-bd38-9ac848f68fb1_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/fd29a416-9b2d-4e35-bd38-9ac848f68fb1/20241214T160217/fd29a416-9b2d-4e35-bd38-9ac848f68fb1_360x203.jpg)](https://www.wqad.com/article/news/local/we-just-wanted-to-save-him-good-samaritans-rescue-waterloo-pilot-from-wrecked-plane/63-e20ee848-3974-40f3-bb63-91b16590d936)
         
-        #### [Icy roads lead to local business closures and event postponements](https://www.wqad.com/article/weather/closings/inclement-weather-closes-business-postponements/526-ec7045dd-18b4-40bb-88b7-32c5ff37c88d)
+        #### ['Help me!' | 2 men rescue pilot who was on fire after plane crash in southern Illinois](https://www.wqad.com/article/news/local/we-just-wanted-to-save-him-good-samaritans-rescue-waterloo-pilot-from-wrecked-plane/63-e20ee848-3974-40f3-bb63-91b16590d936)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a75dd119-9dec-4e36-aca0-5d043ea12b11/20241214T013801/a75dd119-9dec-4e36-aca0-5d043ea12b11_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a75dd119-9dec-4e36-aca0-5d043ea12b11/20241214T013801/a75dd119-9dec-4e36-aca0-5d043ea12b11_360x203.jpg)](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b2628b85-7490-49b4-9bb6-7a041fb3cf57/20241215T200012/b2628b85-7490-49b4-9bb6-7a041fb3cf57_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b2628b85-7490-49b4-9bb6-7a041fb3cf57/20241215T200012/b2628b85-7490-49b4-9bb6-7a041fb3cf57_360x203.jpg)](https://www.wqad.com/article/news/community/ywca-clinton-iowa-supportive-housing-initiative/526-bc8d83ce-5ab8-43fe-95f2-9ef0cbf5a779)
         
-        #### [Renovations underway at Modern Woodmen Park](https://www.wqad.com/article/news/local/renovations-modern-woodmen-park/526-0ef4e406-c7a2-48d8-b3e6-acee4b8b9ade)
+        #### [YWCA Clinton working to combat homelessness with new supportive housing initiative](https://www.wqad.com/article/news/community/ywca-clinton-iowa-supportive-housing-initiative/526-bc8d83ce-5ab8-43fe-95f2-9ef0cbf5a779)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,14 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/3431f491-daaa-437b-a8d7-868d481340e8/20241215T131304/3431f491-daaa-437b-a8d7-868d481340e8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3431f491-daaa-437b-a8d7-868d481340e8/20241215T131304/3431f491-daaa-437b-a8d7-868d481340e8_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/dense-fog-advisory-storm-track-8-weather-impact-alert/526-ec6de0de-8b99-468e-ae34-4364506568ae)
         
-        #### [Weather Impact Alert: Dense fog likely through Monday morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Dense fog advisory in effect until Monday morning: Storm Track 8 Weather Impact Alert](https://www.wqad.com/article/weather/weather-impact/dense-fog-advisory-storm-track-8-weather-impact-alert/526-ec6de0de-8b99-468e-ae34-4364506568ae) [![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/dense-fog-advisory-storm-track-8-weather-impact-alert/526-ec6de0de-8b99-468e-ae34-4364506568ae)
         
+        #### [Storm Track 8 Weather Impact Alert: Dense fog advisory in effect until Monday morning](https://www.wqad.com/article/weather/weather-impact/dense-fog-advisory-storm-track-8-weather-impact-alert/526-ec6de0de-8b99-468e-ae34-4364506568ae)
     *  [![](https://media.tegna-media.com/assets/KXTV/images/a2203ae4-8eb7-4437-9fad-9e21ccb57656/20241215T034150/a2203ae4-8eb7-4437-9fad-9e21ccb57656_16x9.jpg) ![](https://media.tegna-media.com/assets/KXTV/images/a2203ae4-8eb7-4437-9fad-9e21ccb57656/20241215T034150/a2203ae4-8eb7-4437-9fad-9e21ccb57656_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/tornado-damage-powerlines-car/103-94f4df2e-0470-4aef-82e7-a0adcae3d3f0)
         
-        #### [Tornado causes damage, several people injured after touching down in California](https://www.wqad.com/article/weather/weather-impact/tornado-damage-powerlines-car/103-94f4df2e-0470-4aef-82e7-a0adcae3d3f0)
+        #### [Several injured, significant damage caused after tornado touches down in California](https://www.wqad.com/article/weather/weather-impact/tornado-damage-powerlines-car/103-94f4df2e-0470-4aef-82e7-a0adcae3d3f0)
         
     
 * [Sports](https://www.wqad.com/sports)
