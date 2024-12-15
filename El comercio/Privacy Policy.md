@@ -31,6 +31,224 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Ernesto Albán Gómez
+===================
+
+Un homenaje a un destacado jurista y maestro, recordado por su sabiduría, humanidad y contribuciones al derecho, la educación y la sociedad.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+**Introducción:** Escribir con relación a alguien que ya no está, implica adentrarse con sinceridad en los pasillos del ayer, volver a recorrer los pasos ya andados, caminar despacio, en silencio y con respeto en aquellos espacios que se guardan en la memoria a manera de recuerdos, tratar de recopilarlos, quizás desordenadamente, ya que en la memoria el **orden cronológico** parecería ser relativo; tarea que se vuelve especial, cuando se la hace en memoria de un maestro, que sembró buenas semillas en la mente de sus alumnos.
+
+**a.- En la Facultad de Jurisprudencia:** Joven aún, quizás por los 21 años de edad, en la Facultad de Jurisprudencia de la U. Católica de Quito – embellecida por el patio central que hacía de parque, el mismo que compartimos con los estudiantes de economía –  facultad ubicada en aquel entonces en la Av. 12 de octubre y Carrión, un grupo de jóvenes privilegiados – lo escribo con humildad en razón de la calidad de las enseñanzas recibidas – tuvimos el honor de recibir clases de un gran maestro, grande tanto por su sencillez, cuanto por su conocimiento, me refiero al jurista doctor Ernesto Albán Gómez (+), catedrático que, con claridad nos enseñaba con profundidad, sabiduría y humanidad el derecho penal. Sin duda, fue una de las clases que más me gustaba asistir y estudiar; sin embargo, debo reconocer que no era solo por la materia en sí, sino también por la calidad humana del doctor Albán, el mismo que, nos explicaba con tranquilidad, con una sonrisa dibujada en su rostro iluminado de cálida mirada – propio de las almas nobles – quien nos motivaba inteligentemente a investigar, entender y darle sentido práctico a la normativa penal del país, muchas veces mediante el acertado método de la casuística. Recuerdo con agradecimiento y aprecio, como él, nos hizo ver, reflexionar y comprender la inconveniencia y riesgos de  la pena de muerte.
+
+**b.- Una vida fructífera de aporte a la sociedad:** Para aquel momento, el Dr. Albán ya había sido ministro de Educación en el gobierno de O. Hurtado, y si la memoria no me falla, decano de Derecho.
+
+Posteriormente, siendo presidente el Dr. Albán de “Novedades Jurídicas”, la más prestigiosa revista jurídica de la época, tuve el honor de escribir varios artículos para la misma, momentos en el que pude constatar su respeto a la libertad de opinión y delicadeza en jamás sugerir un enfoque en particular.
+
+El doctor Albán, junto con otros destacados magistrados, formó parte de una de las más respetables Cortes Supremas que ha tenido el Ecuador, cuya presencia avaló probidad, honestidad y justicia. Recibió un doctorado Honoris Causa por la Universidad Andina Simón Bolívar y fue miembro de la Academia Ecuatoriana de la Lengua.
+
+Pude conocer su valioso trabajo como autor de sus tomos Manual de Derecho Penal Ecuatoriano, de los cuales guardo con gratitud uno en particular, ya que tiene una dedicatoria personal. Su valiosa obra literaria, reflexiones y aportes al periodismo como subdirector de diario El Tiempo, articulista de opinión en diario Hoy, El Comercio, constituyeron un gran aporte intelectual.
+
+**c.- Agradecimiento y Solidaridad:** Estoy muy agradecido por su amistad, enseñanzas  y gran ejemplo de hombre de bien, es decir, por ser un gran ecuatoriano, de aquellos que tanto necesita el Ecuador, hoy y siempre, y que infortunadamente hay pocos.
+
+Desde esta columna, mi solidaridad y sentido pesar a su distinguida familia, seres queridos y  allegados.
+
+Infinitas gracias, hasta siempre respetado y apreciado Maestro. La vida es efímera, pero el legado no…
+
+Cartas a Quito / 15 de diciembre de 2024
+========================================
+
+Estas son las cartas a Quito de este domingo 15 de diciembre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+El Valle de Uravía y la consulta ambiental a la comunidad 
+----------------------------------------------------------
+
+“Toda decisión o autorización estatal que pueda afectar al ambiente deberá ser consultada a la comunidad, a la cual se informará amplia y oportunamente.” (Constitución de Montecristi, 2008) 
+
+El valle de Uravía, ubicado en la parroquia de Checa, Distrito Metropolitano de Quito, se encuentra en un grave riesgo estos días, ante la eventual decisión de la Empresa Metropolitana de Agua Potable y Saneamiento (EPMAPS) de construir en sus predios, una planta de tratamiento de aguas residuales (PTAR), trámite que no ha sido socializado con la comunidad afectada, como tampoco se ha realizado la consulta ambiental que contempla la Constitución. 
+
+Según el art. 71 de la Constitución, toda persona, comunidad, pueblo o nacionalidad podrá exigir a la autoridad pública el cumplimiento de los derechos de la naturaleza. Para aplicar e interpretar estos derechos se observarán los principios establecidos en la Constitución, en lo que proceda.  
+
+En el caso particular del valle de Uravía, ante el conocimiento del proyecto en mención,   solicitamos al  Ministerio del Ambiente, Agua y Transición Ecológica (MAATE) que  nos certifique si existe algún trámite ingresado para la obtención de la  licencia ambiental del proyecto PTAR – CHECA, a lo cual el MAATE, con fecha 15 de abril de 2024, nos hizo llegar el  Certificado de Intersección del proyecto de Planta de Tratamiento de Aguas Residuales para Checa, – ingresado en el 2019 en San Miguel de los Bancos, ¡¡¡…a más de 130 kms. de distancia de Checa…!!! -,   del que consta textualmente lo siguiente: “TIPO DE IMPACTO: BAJO. PTAR SECTOR CHECA, código CIIU E3700.00.03, le corresponde: REGISTRO AMBIENTAL” 
+
+Esto es, únicamente con un Registro Ambiental, obtenido automáticamente del Sistema Único de Información Ambiental (SUIA), pretendían continuar con el proyecto de la PTAR CHECA en el valle de Uravía, a pesar de que su uso de suelo corresponde a PROTECCION ECOLOGICA, a más de encontrarse inventariado en el Sistema de Información del Patrimonio Cultural del Ecuador, SIPCE, código no. AY-17-01-59-000-09-000005, desde al año 2009. 
+
+Ante el grave impacto al ecosistema que significaría  la pretendida construcción  de una planta de tratamiento de aguas residuales (PTAR)  en  el valle de Uravía,  se debe obligatoriamente realizar la respectiva consulta ambiental  a la comunidad, conforme ordena el art. 398 de la Constitución, previo a la  tramitación de  una licencia ambiental y del  inicio de cualquier proyecto constructivo  en el sitio, además de que se deben obtener todos los permisos adicionales que se requieran del Instituto Nacional de Patrimonio Cultural (INPC), al tratarse de un yacimiento arqueológico debidamente inventariado en el SIPCE. 
+
+A más de lo señalado, existe una socialización realizada en la parroquia de Checa, con fecha 18 de  marzo del 2023, por la consultora HAZEN AND SAWYER, con el fin de “supuestamente” cumplir con uno de los requisitos necesarios para la obtención de la LICENCIA AMBIENTAL, pero en dicha socialización aparecen únicamente las firmas de catorce personas, cuando la parroquia de Checa tiene más de nueve mil habitantes,  lo que transforma a dicha “socialización” en una auténtica burla a los chequenses y una tomadura de pelo de la  EPMAPS y de la  consultora HAZEN AND SAWYER a la comunidad. 
+
+Definitivamente, la participación ciudadana es clave en este tipo de proyectos de gran impacto ambiental, por lo que estaremos atentos de que se hagan las cosas respetando estrictamente el marco legal existente, esto es, se obtenga la Licencia Ambiental correspondiente, previa la realización de la consulta ambiental a la comunidad, sobre la conveniencia o no, de construir el  proyecto denominado Planta de Tratamiento de Aguas Residuales – Checa”, por parte de la EPMAPS en el milenario valle de Uravía. 
+
+Alfonso López J. 
+
+Turismo: Evaluación 2024
+========================
+
+La inseguridad y falta de infraestructura limitan el turismo en Ecuador, exigiendo reformas urgentes.
+-----------------------------------------------------------------------------------------------------
+
+![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
+
+El **turismo**, frecuentemente mencionado como prioritario por los **políticos**, enfrenta **desafíos estructurales** y **coyunturales** que han minado su desarrollo sostenible en Ecuador durante 2024.
+
+La **inseguridad** ha sido un factor determinante en la **percepción internacional de Ecuador** como destino turístico. El aumento de crímenes violentos, incluyendo incidentes en lugares antes considerados seguros, como centros comerciales, ha erosionado la confianza de turistas y residentes. Este fenómeno se ve amplificado por la **cobertura mediática internacional,** que prioriza noticias sobre **violencia extrema** en el “nuevo narcoestado”, como nos tilda “The Economist” de Inglaterra.
+
+Un **experto internacional** destacó que “no hay sujeto más sensible a la **percepción** de **seguridad** que el turista”. En este contexto, Ecuador enfrenta un reto doble: no solo debe abordar los **problemas de violencia,** sino también **implementar estrategias efectivas de manejo de crisis** para mitigar los impactos negativos en su imagen.
+
+En el **ámbito sudamericano,** Ecuador está perdiendo competitividad frente a sus vecinos.  
+Perú: La consolidación de Lima como un hub aeroportuario clave y su infraestructura turística bien desarrollada le han permitido mantener un crecimiento constante en llegadas internacionales. La ciudad-aeropuerto de El Callao, a estrenarse el próximo año, pondrá a Perú en las nubes. En Colombia, Iniciativas como la producción de la serie de Netflix sobre “Cien Años de Soledad”, refuerzan su atractivo internacional.
+
+**Ecuador**, en contraste, **enfrenta desafíos como altos costos, percepción de inestabilidad e inseguridad,** apagones, lo que nos coloca en una posición de desventaja competitiva, a lo que ahora se suma malas carreteras y pésimos servicios básicos, que afectan la experiencia del visitante.
+
+El manejo inadecuado de residuos en zonas urbanas y rurales proyecta una imagen poco favorable de sostenibilidad, un aspecto cada vez más valorado por los turistas internacionales.
+
+En lugar de **enfocar los recursos en la mejora de infraestructura y promoción**, algunos gobiernos locales han priorizado la organización de eventos de bajo impacto turístico y alto contenido festivo que no contribuyen a **atraer visitantes nacionales y menos internacionales**.
+
+El 2024 será recordado como un año crítico para el turismo en Ecuador. Sin embargo, la **crisis actual** también ofrece una oportunidad para implementar **reformas estructurales** que requieren un **liderazgo político** aun ausente y una colaboración entre **sectores público y privado** que no termina de cuajar.
+
+Crisis del Maíz en Ecuador ¿Qué está en juego para productores, consumidores y la industria?
+============================================================================================
+
+La histórica caída en la producción de maíz afecta desde los agricultores hasta tu mesa.
+----------------------------------------------------------------------------------------
+
+![La sequía y los incendios impactaron en la producción de maíz de este 2024. Foto: Prefectura de Manabí](https://www.elcomercio.com/wp-content/uploads/2024/12/maiz_1_720.jpg)
+
+La producción de **maíz duro amarillo** en **Ecuador** disminuyó por condiciones climáticas adversas y factores económicos, afectando a todos los eslabones de la cadena productiva. Esto genera un aumento en los costos de producción de alimentos, comercialización y, por ende, en los precios al consumidor.
+
+Más noticias
+------------
+
+* [Ecuador necesita cubrir un déficit de 152 mil t de maíz para evitar escasez en 2025](https://www.elcomercio.com/actualidad/danilo-palacios.html "https://www.elcomercio.com/actualidad/danilo-palacios.html")
+* [La importación de maíz amarillo se adelanta por la sequia en Ecuador](https://www.elcomercio.com/actualidad/negocios/importacion-maiz-amarillo-adelanta-sequia-ecuador.html "https://www.elcomercio.com/actualidad/negocios/importacion-maiz-amarillo-adelanta-sequia-ecuador.html")
+
+Caída histórica de la cosecha de maíz duro amarillo
+---------------------------------------------------
+
+El **primer ciclo de invierno** (de enero a julio) de este 2024 muestra una **caída del 16,6%** en el número de hectáreas cosechadas de maíz duro amarillo.
+
+La producción de este insumo clave para la alimentación humana y animal se concentra en **seis provincias** del país. Pero **Loja**, debido a la sequía, es la más impactada.
+
+El área cosechada, que el **Ministerio de Agricultura y Ganadería (MAG)** calcula a partir de imágenes satelitales, muestra una disminución significativa, entre **2021 y 2024**.
+
+Las hectáreas cosechadas por los productores lojanos en el ciclo invernal pasó de 41 938 a 26 887, en estos años (**ver cuadro interactivo**). Esto representa una disminución histórica de **\-35,8%.** Las zonas maiceras más afectadas por la falta de lluvias ha sido **Puyango, Calvas y Pindal.**
+
+La provincia manabita, que alcanzó la mayor cantidad de hectareaje cosechado en 2021, también bajó un 21,7%. El Oro, que ya tenía una área cosechada pequeña, se redujo en 32,9%.
+
+Para el **ministro de Agricultura, Danilo Palacios**, una de las debilidades es que el 80% de los agricultores carecen de sistemas de riego eficientes.
+
+También afrontan un incremento de precios de ciertos insumos y fertilizantes. Por ejemplo, los 50 kg de urea llegó a costar 52 dólares en marzo del 2022, influenciado por la guerra entre Rusia y Ucrania. En los dos últimos años, el costo de este insumo se redujo a menos de 30 dólares. Pero aún hay fluctuaciones: entre febrero y marzo de este 2024, meses que corresponden al primer ciclo, el precio subió de 24 a 26 dólares. Alzas similares se ve en [fungicidas, herbicidas e insecticidas](https://sipa.agricultura.gob.ec/boletines/nacionales/agroquimicos/2024/boletin_agroquimicos_marzo_2024.pdf).
+
+Los Ríos y Guayas, segunda y tercera provincia productoras de maíz, son las menos impactadas.
+
+Con menor oferta de maíz proyectada ganan los importadores
+----------------------------------------------------------
+
+Frente a una menor cosecha en este 2024 y la presión de los industriales para que se autorice la importación, los técnicos del MAG establecieron a cuánto asciende el déficit. De esta forma, el ministro del ramo cuenta con datos para tomar medidas.
+
+Para establecer dicho déficit sumaron la producción neta del primer ciclo de invierno con una proyección de la producción del segundo ciclo seco, que arrancó, entre mayo y junio del 2024 y se extendió hasta noviembre, con la cosecha, según el MAG.
+
+La oferta disponible de maíz del primer ciclo, luego de descontar las pérdidas por desgranado, transporte, estiva, desestiba; autoconsumo y alimentación animal, se fijó en 1,32 millones de toneladas. En tanto, la producción del segundo ciclo se proyectó en 262 763 toneladas. Esta cifra es mucho menor a las producciones de los tres años anteriores. Por ejemplo, el año pasado fue de 380 955 toneladas.
+
+Esta reducción en la cantidad de maíz, según los técnicos, se debe principalmente a la sequía.
+
+Tras el cálculo, oficialmente se estableció que la oferta hasta marzo de 2025 asciende a 1,56 millones de toneladas de maíz,, versus una demanda de 1,72 millones de toneladas. La diferencia entre esta oferta y demanda dio como resultado un déficit de 152 650 toneladas. Este vacío se cubrirá, en parte, con una importación de 95 mil toneladas, por lo que los ganadores en esta ecuación son los importadores.
+
+Intermediarios, otros ganadores de la cadena del maíz
+-----------------------------------------------------
+
+Aurelio Zea, de la **Asociación de Maiceros Montubios El Roble de Los Ríos**, explica que un quintal de 102 libras de maíz húmedo y sucio y 30% de humedad se está vendiendo en 15,50 dólares. Y, si el nivel de humedad baja a 23% o menos, el precio de venta del productor sube a 18 dólares.
+
+Este valor ya es 1,50 dólares más que el precio mínimo de sustentación de 16,50 dólares, establecido por el Gobierno para este 2024.
+
+Los comerciantes o intermediarios, que compran a los agricultores, se encargan de la limpieza y el secado. El valor del transporte es adicional y varía, entre la Sierra y la Costa.
+
+Actualmente, Jorge Josse, presidente de Aprobal (Asociación de Productores de Alimentos Balanceados), explica que compran a los intermediarios un quintal en 20 dólares, en promedio, en Los Ríos y se transporta a Guayaquil. El flete por quintal es de 0,60 centavos, añade Zea. En Ambato, el quintal sube a una media de 22 dólares y un dólar por quintal de transporte, coinciden Josse y Zea.
+
+Durante los dos operativos realizados este año, entre el MAG y el INEN para controlar los equipos de medición y precios, en Manabí, Guayas y Los Ríos, se confirmaron dos problemas:
+
+* Uso de equipos descalibrados para medir la humedad y el peso del grano de maíz
+* No cumplimiento del pago del quintal a los comerciantes, conforme a la tabla de calificación basada en el precio mínimo de 16,50 dólares
+
+En consecuencia, Josse calcula que con estas cifras y una demanda de la industria de 115 mil toneladas por mes, el sobreprecio que paga toda la cadena del maíz suma 108 millones de dólares.
+
+Repercusión en la industria avícola, porcina y procesados
+---------------------------------------------------------
+
+La industria de alimentos balanceados utiliza más del 40% de la producción nacional de maíz amarillo. El 30% se destina a la producción de aves y huevos y un 10% a la producción porcícola, según el MAG.
+
+El maíz representa un 60% de la dieta de **pollos, gallinas y cerdos**. Los precios de estos alimentos también han tenido variaciones al alza, con lo cual se afecta la economía de los consumidores.
+
+En noviembre de 2024, una cubeta de **30 huevos** medianos, en promedio, se pagó al productor 3,03 dólares, pero el consumidor consigue de 3,50 dólares en adelante. El ministro Palacios explicó a este medio que los productores prefieren vender las gallinas antes de que pongan los huevos para no perder.
+
+Según la **Corporación Nacional de Avicultores del Ecuador**, hay más de 13 millones de gallinas ponedoras en producción en el país y generan 10 millones de huevos diarios.
+
+Los precios de la libra de pollo en pie ha tenido fluctuaciones en este año. Para el productor, el MAG reporta un costo de 0,79 centavos de dólar, en noviembre, siete centavos más que en noviembre del 2023. Mientras que el consumidor encuentra la **libra de pollo** desde 1,10 dólares en adelante.
+
+El pollo entero figura en el tercer puesto de los alimentos con mayor incidencia en el índice inflacionario de noviembre pasado.
+
+Una tendencia similar al alza ocurre con los precios de la libra de **carne de cerdo**.
+
+Los consumidores de alimentos procesados (harinas, aceites, empacados) también pagan más, por la caída en la producción del maíz y los costos adicionales por la intermediación. Un litro de aceite vegetal, en Ambato, en enero pasado, se conseguía en 1,68 dólares, ahora subió a 1,94 dólares.
+
+Medidas urgentes a favor de toda la cadena productiva del maíz
+--------------------------------------------------------------
+
+Las estrategias de riego tecnificado, por goteo y aspersión, para optimizar el uso del agua en la agricultura, deben implementarse de forma masiva por los maiceros, con el acompañamiento de los técnicos del MAG. Asimismo, las asistencias técnicas, por parte del Estado, deben extenderse, con el fin de que los productores saquen adelante sus siembras y no se vayan a otros productos, como el cacao.
+
+Aprobal, por su parte, hizo un llamado al Ministerio y, en general al sector maicero, para que se establezcan programas de transferencia de tecnología que permitan aumentar la productividad y reducir los costos unitarios, por quintal, de producción del maíz.
+
+Estas y otras acciones deben apuntar a que el sector logre competir con Perú y Colombia, en donde se puede adquirir un quintal de maíz, entre 10 y 12 dólares.  
+
+Liga de Quito, el tri-bicampeón: el saludo de Claudio Bieler
+============================================================
+
+El 'Taca' Claudio Bieler aprovechó el campeonato ganado por Liga de Quito para saludar al 'Rey de copas' de Ecuador
+-------------------------------------------------------------------------------------------------------------------
+
+![Claudio Bieler, exjugador de Liga de Quito, felicitó al cuadro albo y a los nuevos campeones de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-16.jpg)
+
+**Claudio Bieler**, exdelantero de **Liga de Quito** y figura clave en la conquista de la **Copa Libertadores 2008**, no dejó pasar la oportunidad para felicitar al equipo universitario que se consagró **campeón** de Ecuador este 14 de diciembre del 2024.
+
+Este día, los jugadores albos celebraron el título número 13 de su historia, tras superar a **Independiente del Valle** (IDV) en la final, con un marcador global de 3-1.
+
+### Más noticias:
+
+* [Una masiva caravana de Liga de Quito se dirige a la pileta de la Universidad Central](https://www.elcomercio.com/deportes/futbol/liga-quito-campeon-caravana-hinchas-pileta-central.html "Una masiva caravana de Liga de Quito se dirige a la pileta de la Universidad Central")
+* [Liga de Quito dedicó el título al fallecido Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-quito-titulo-marco-angulo.html "Liga de Quito dedicó el título al fallecido Marco Angulo")
+* [Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-hinchas-estadio-campeon-ligapro.html "Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro")
+
+Claudio Bieler y Liga de Quito
+------------------------------
+
+A través de sus redes sociales, el ‘Taca’ expresó su apoyo al club que le dio tanto y escribió:
+
+“Felicidades tri-bicampeón **Liga de Quito**, salud ‘Rey de copas'”.
+
+Liga campeón
+------------
+
+Aunque **Liga de Quito** perdió 0-1 en el partido de vuelta, jugado en el estadio de IDV, el resultado conseguido en el Rodrigo Paz Delgado (3-0) fue suficiente para asegurar el triunfo global.
+
+El paraguayo **Álex Arce** y el boliviano Gabriel Villamil, autores de los goles en la ida, fueron clave en el éxito final del conjunto universitario.
+
+Los jugadores de **LDU** recibieron sus medallas y celebraron el campeonato ante los emocionados hinchas que viajaron para acompañar a su equipo.
+
+La premiación estuvo marcada por un ambiente de camaradería, incluso entre los jugadores y cuerpos técnicos de ambos equipos, quienes se abrazaron al final del encuentro, destacando el respeto mutuo en la competencia.
+
+Con este título, **LDU** refuerza su legado y se posiciona como el primer bicampeón de la Liga Pro, un reconocimiento que resalta el trabajo de los jugadores, cuerpo técnico y directiva.
+
+Además, son tres veces bicampeones en el fútbol ecuatoriano cuyo torneo se disputa desde 1957.
+
+![](https://www.elcomercio.com/wp-content/uploads/2023/04/biler-700x391.jpg)
+
+Claudio Bieler festeja un gol de Liga ante Barcelona en el 2012. Foto: EL COMERCIO
+
 Una masiva caravana de Liga de Quito se dirige a la pileta de la Universidad Central
 ====================================================================================
 
@@ -808,309 +1026,6 @@ De estas finales, solo una registró el 3-0 en el partido de ida:
 **2014**: Emelec empató 1-1 en la ida contra Barcelona SC y ganó 3-0 en la vuelta para llevarse el título.
 
 Romper esta tendencia será clave para que Independiente pueda escribir una nueva página en la historia del fútbol nacional.
-
-San viernes
------------
-
-Cómo usan los jóvenes ecuatorianos las tarjetas de crédito
-==========================================================
-
-Un estudio revela que más de 500 mil jóvenes ecuatorianos, entre 22 y 32 años, gestionan sus finanzas con tarjetas de crédito.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Los jóvenes optan por diferir sus compras en plazos menores a 12 meses.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-44-1.jpg)
-
-Más de **500 000 jóvenes ecuatorianos**, entre 22 y 32 años, cuentan con tarjetas de crédito activas. Este grupo demográfico utiliza esta herramienta financiera principalmente para **pagos diferidos**, marcando un cambio en el **consumo del país**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [La morosidad en las cooperativas pequeñas de Ecuador supera el 10%](https://www.elcomercio.com/actualidad/negocios/morosidad-cooperativas-pequenas-supera.html "La morosidad en las cooperativas pequeñas de Ecuador supera el 10%")
-* [Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz](https://www.elcomercio.com/actualidad/negocios/deudores-ecuador-podran-refinanciar-diferir-pagos-creditos.html "Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz")
-* [La morosidad sigue en aumento en Ecuador debido al desempleo y la crisis económica](https://www.elcomercio.com/actualidad/negocios/la-morosidad-sigue-en-aumento-en-ecuador-debido-al-desempleo-y-la-crisis-economica.html "La morosidad sigue en aumento en Ecuador debido al desempleo y la crisis económica")
-
-El 57% de los jóvenes prefiere diferir sus compras a **plazos menores a 12 meses**, con mayor incidencia entre mujeres casadas (59%).
-
-Por otro lado, los hombres jóvenes manejan mayores volúmenes de crédito, acumulando un saldo total de 680 millones de dólares, frente a los 510 millones de dólares registrados por las mujeres. Así lo señala el último estudio de Equifax: ‘Tarjetas de Crédito, el inicio de la historia financiera de los jóvenes 2024’.
-
-El análisis también destaca cómo los **cupos de crédito** evolucionan con la experiencia financiera. Al ingresar al sistema, un joven de 22 años tiene un cupo promedio de 500 dólares, que puede alcanzar los 2 500 dólares a los 32 años. Este modelo muestra la importancia de construir un historial crediticio sólido desde el inicio.
-
-Educación financiera para los jóvenes de Ecuador
-------------------------------------------------
-
-**David Castellanos**, docente de la **Universidad Andina Simón Bolívar**, resalta la importancia del comportamiento de los jóvenes. “El crédito diferido predomina en este segmento, lo que refleja la tendencia de los jóvenes a planificar mejor sus pagos”. Castellanos subraya que esta dinámica recalca la necesidad de una **educación financiera** adecuada para quienes comienzan su **vida financiera**.
-
-Según el **Banco Central del Ecuador** (BCE), el 96% de la población ecuatoriana no ha recibido educación financiera. Es decir, nueve de cada 10 personas en el país jamás recibieron capacitación sobre finanzas.
-
-La falta de conocimiento sobre el manejo de las finanzas personales se da en el país a pesar de que desde el 2013, la Superintendencia de Bancos establece que todas las instituciones controladas por el ente deben desarrollar programas de educación financiera para sus clientes, colaboradores y público en general.
-
-Navidad en Ecuador, tradiciones, eventos y gastronomía que impulsan el turismo local
-====================================================================================
-
-En diversas ciudades de Ecuador se llevarán a cabo eventos navideños.
----------------------------------------------------------------------
-
-![Imagen referencial. El pesebre de El Panecillo no se prenderá este año.](https://www.elcomercio.com/wp-content/uploads/2024/12/Navidad.jpg)
-
-Durante la temporada navideña de 2024, Ecuador ofrece una variedad de eventos y actividades públicas para disfrutar en familia[.](https://es.wikipedia.org/wiki/Navidad "https://es.wikipedia.org/wiki/Navidad")
-
-Más noticias
-------------
-
-* [Vacaciones escolares por Navidad y Año Nuevo se extendieron, ¿cómo se recuperarán?](https://www.elcomercio.com/actualidad/ecuador/vacaciones-escolares-navidad-nuevo-extendieron-recuperaran.html "Vacaciones escolares por Navidad y Año Nuevo se extendieron, ¿cómo se recuperarán?")
-* [Daniel Noboa reduce el IVA para feriados de Navidad y Año Nuevo](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-redujo-el-iva-8-durante-feriados-navidad-ano-nuevo.html "Daniel Noboa reduce el IVA para feriados de Navidad y Año Nuevo")
-* [Las 10 canciones imprescindibles para esta Navidad](https://www.elcomercio.com/tendencias/entretenimiento/canciones-navidad-playlist-imprescindibles-familia-union.html "Las 10 canciones imprescindibles para esta Navidad")
-
-A continuación, se presentan seis aspectos destacados para vivir unas vacaciones de **Navidad** con los amigos o familia:
-
-Centro Histórico de Quito
--------------------------
-
-Este emblemático lugar se llena de luces, decoraciones y actividades culturales. Entre los eventos más destacados se encuentran:
-
-* **Exposición de Pesebres en la Iglesia de San Francisco**: Desde el 10 de diciembre de 2024 hasta el 2 de febrero de 2025, con horario de 09:00 a 17:00.
-* **Noche de Cuentos por el Kapak Raymi**: El 22 de diciembre de 2024, a las 18:00, en el Museo de la Ciudad.
-* **Corredor Cultural – Día de Inocentes**: El 29 de diciembre de 2024, de 15:00 a 18:00, en el Bulevar 24 de Mayo.
-
-El Panecillo, Quito
--------------------
-
-El Panecillo se destaca por su tradicional pesebre gigante, una de las principales atracciones navideñas de la ciudad.
-
-Aunque este año el pesebre no contará con iluminación nocturna debido a la crisis energética, las figuras, que incluyen representaciones de **San José**, el **Niño** **Jesús**, el asno, el buey y la cuna, estarán disponibles para el público durante todo diciembre.
-
-Actividades navideñas en Guayaquil
-----------------------------------
-
-Guayaquil ofrece diversas actividades festivas como:
-
-* **Ferias y Eventos Culturales**:
-    * Feria Navideña del Coleccionismo: 14 y 15 de diciembre, de 10:00 a 17:00, en el Parque Forestal.
-    * Fiesta de Navidad Reina de Guayaquil: 21 de diciembre, desde las 10:00, en la Concha Acústica del Parque Samanes.
-
-Pase del Niño en Cuenca
------------------------
-
-Esta tradicional procesión, declarada Patrimonio Inmaterial del Estado en 2008 por el Ministerio de Cultura y Patrimonio, se realiza el 24 de diciembre.
-
-Se inicia con una misa en la Catedral de la Inmaculada a las 09:00, seguida de un desfile que recorre las principales calles del Centro Histórico.
-
-El evento reúne a miles de personas que desfilan con trajes tradicionales y bíblicos, carros alegóricos y danzas.
-
-Loja tiene una feria navideña
------------------------------
-
-Durante la temporada navideña de 2024, **Loja** presenta diversas actividades que celebran la cultura y el espíritu festivo.
-
-Una de las principales atracciones es la feria navideña Arte y Comunidad, que organiza el Centro de Apoyo Social Municipal (**Casmul**).
-
-Este evento se realiza en la **Plaza** de **San Sebastián** y reúne a 60 emprendedores locales que ofrecen una variedad de productos, como bisutería, artesanías, manualidades, postres y **artículos** **navideños**.
-
-La feria comenzó el 18 y será hasta el 24 de diciembre.
-
-Gastronomía Navideña de Ecuador
--------------------------------
-
-La Navidad en Ecuador también es una oportunidad para disfrutar de su variada gastronomía.
-
-Platos típicos como el pavo relleno, el cerdo hornado, y el popular chocolate caliente con pan de Pascua son parte del menú en muchas mesas.
-
- En la Sierra, los tamales y las humitas complementan las cenas navideñas, mientras que en la Costa se suelen preparar platos como la ensalada de gallina y dulces tradicionales.
-
-Las bebidas como la chicha de jora y el ponche son populares durante las reuniones familiares.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-¿Cómo afectan los siniestros de tránsito por consumo de alcohol a Quito?
-========================================================================
-
-Los siniestros por consumo de alcohol no registra una reducción significativa
------------------------------------------------------------------------------
-
-![Conducir bajo el efecto del alcohol o de cualquier droga aumenta el riesgo de que se produzca una colisión, que cause muertes o lesiones graves.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-70.jpg)
-
-En los últimos cuatro años, Quito registra un promedio de **425,5** siniestros de tránsito por conducción en **estado etílico**. De la siniestralidad global del distrito, este problema recurrente representa un **13%**.
-
-Más noticias
-------------
-
-* [El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-muerte-motociclistas.html "El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza")
-* [68 de 1111 personas usaron el cinturón de seguridad en 1603 siniestros en Quito](https://www.elcomercio.com/actualidad/68-personas-usaron-el-cinturon-en-1603-siniestros-ninguna-uso-casco-en-quito/ "https://www.elcomercio.com/actualidad/68-personas-usaron-el-cinturon-en-1603-siniestros-ninguna-uso-casco-en-quito/")
-* [En Quito, los siniestros de tránsito provocan más muertes que los crímenes violentos](https://www.elcomercio.com/actualidad/quito/en-quito-los-siniestros-de-transito-provocan-mas-muertes-que-los-crimenes-violentos.html "https://www.elcomercio.com/actualidad/quito/en-quito-los-siniestros-de-transito-provocan-mas-muertes-que-los-crimenes-violentos.html")
-
-El impacto del alcohol en los siniestros de tránsito en Quito
--------------------------------------------------------------
-
-![visualization](https://public.flourish.studio/story/2768395/thumbnail)
-
-El consumo de alcohol es un problema recurrente, que sigue reflejándose en la siniestralidad de Quito. Al comparar el número de siniestros de **enero a octubre del 2024** con el mismo periodo de los tres años anteriores (2021-2023) se ve que es la cifra más alta: **403**.
-
-De acuerdo con los registros de la **Agencia Metropolitana de Tránsito (AMT)**, en los primeros 10 meses del **2021** se registraron 391 incidentes de este tipo. En **2022 y 2023** bajaron a 331 y 306, respectivamente. Pero este **2024** nuevamente repuntó. El aumento con respecto al año anterior es del 24%.
-
-Ahora bien, la conducción en estado de embriaguez preocupa aún más en las festividades decembrinas. Pero no necesariamente la tendencia es la misma todos los años. En 2021, las cifras muestran que octubre y diciembre tuvieron más siniestros de todo ese año y se extendió a enero del 2022. Pero, luego la siniestralidad por esta causa cayó significativamente hasta diciembre.
-
-En 2023, junio, noviembre y diciembre fueron los que meses que más siniestros tuvieron, sobre todo el último mes del año: 63 siniestros frente a los 30 de los 2022. Para finalizar este año se espera que campañas, como Márcale 0 al alcohol y los operativos de control den resultados.
-
-Más operativos, mayor siniestralidad por embriaguez
----------------------------------------------------
-
-De manera global, los operativos de control por consumo de alcohol aumentaron de enero a octubre del 2024 de una manera significativa en comparación a los efectuados en los tres años anteriores juntos. En total se hicieron **1 402 operativos frente a 894**. Es decir, 36% más.
-
-> Si se compara por meses, el aumento de los controles ha sido considerable, pero no repercute en una disminución de la siniestralidad. La data muestra que mientras más operativos se hacían mayor era el número de siniestros. Esto se evidencia, sobre todo, de enero a junio de este año.
-
-Para entender mejor: en el primer trimestre de 2024 se hicieron 830 de los 1 402 operativos, es decir, el 59%. En estos meses se presentaron **125 siniestros**, cifra mayor a los de los tres años anteriores, en los cuales apenas se efectuaron 184 operativos. En otras palabras, 4,5 veces menos controles.
-
-El segundo trimestre, la tendencia es similar: más controles, mayor siniestralidad. En este periodo se hicieron 434 operativos, aún el doble de los tres años anteriores y los siniestros sumaron **127.**
-
-Finalmente, el tercer trimestre, la AMT redujo aún más los operativos y el número de siniestros cayó de 127 a **114**, aunque más que años pasados.
-
-Las cinco vías en las que más controles se hicieron fueron: las avenidas Simón Bolívar, Mariscal Sucre, Shyris, Panamericana Norte y Cóndor Ñan.
-
-![visualization](https://public.flourish.studio/story/2768400/thumbnail)
-
-Las consecuencias de conducir en estado etílico
------------------------------------------------
-
-En los cuatro años que se analizaron, 1125 personas afrontaron lesiones leves y graves. El pico más alto de lesionados fue el 2023. Este año todavía falta por cerrar con las cifras de noviembre y diciembre.
-
-En promedio, 281 personas al año sufrieron las consecuencias de este tipo de siniestros, que muchas veces está asociado con el exceso de velocidad.
-
-Estos incidentes, además, provocaron el fallecimiento de 52 personas. Una media de 13 al año, es decir, una familia por mes está de luto por un conductor que conduce en estado de embriaguez.
-
-Las cifras, según Alberto Hidalgo, experto en movilidad activa, reflejan un estancamiento en la reducción de fallecidos y lesionados, lo que indica que es necesario un enfoque más integral y contundente.
-
-Roberto Cabezas, jugador de Independiente Juniors, de 22 años, y Marco Angulo, futbolista de Liga de Quito futbolista de Liga de Quito, estuvieron involucrados en un accidente de tránsito, en el que se constató exceso de velocidad y la presencia de botellas de cerveza en el auto siniestrado.
-
-Cabezas murió la madrugada del pasado 7 de octubre, en la autopista general Rumiñahui. Ángulo pasó un mes hospitalizado, por trauma craneoencefálico severo. Falleció el 11 de noviembre de 2024. 
-
-Estos futbolistas son parte del grupo más vulnerable. Según la Fundación Cavat, los jóvenes entre 20 y 29 años representan el 43% de las víctimas fatales. Los hombres son la mayoría de involucrados (81%) y los siniestros ocurren, principalmente, en las noches de los sábados. Además, los motociclistas son especialmente vulnerables, constituyendo el 35% de los fallecidos.
-
-Además de lesiones y muertes que son prevenibles, la AMT explica que las detenciones por ingesta de alcohol también causan impacto en su entorno familiar y laboral. Muchos pierden su trabajo.
-
-Desde 2021 hasta octubre del 2024 se detuvieron a 1 677 personas por conducir en estado etílico. De acuerdo con el nivel de alcoholemia entran al Centro de Detención de  Infractores de Transito, desde cinco hasta 30 días, según lo establece el art. 385 del COIP (Código Orgánico Integral Penal).
-
-Desafíos que aún persisten frente al consumo de alcohol
--------------------------------------------------------
-
-El personal de la AMT realizar operativos preventivos con alcohotectores desechables. Esto consiste en que el ciudadano sopla en una boquilla y el dispositivo electrónica marcará el grado  de alcohol ingerido. Si la prueba es positiva llama a un familiar o designa a un acompañante (‘conductor elegido’) para que maneje el auto.  Pero pese a estos operativos con fines educativos, los problemas aún persisten.
-
-Hay dos desafíos que ha identificado la AMT: escasa conciencia por parte de conductores jóvenes, entre 18 y 35 años, sobre la importancia de la seguridad vial y la siniestralidad por conducir bajo el efecto del alcohol y exceder la velocidad.  
-
-Por otra parte, está la falta de responsabilidad social en los centros de diversión, bares, restaurantes y empresas que venden licores. Para esto, la entidad cree necesario que se ofrezca transporte alternativo gratuito o subsidiado. En colaboración con  bares, discotecas y eventos, ofrecer transporte seguro, como buses nocturnos o descuentos en plataformas de autos privados.
-
-Para Hidalgo, las campañas, talleres y acciones en espacios públicos si contribuyen a sensibilizar a la población, pero su efectividad en términos de reducción de siniestros aún deja retos. Las cifras siguen siendo alarmantes, como reflejan las proyecciones y el no cumplimiento de los objetivos del **Plan Maestro de Movilidad Sostenible del DMQ y el Decenio de Acción para la Seguridad Vial 2021-2030**. Estos plantean la reducción, en un 50% muertes y lesiones graves, para 2030.
-
-¿Qué falta por hacer?
----------------------
-
-Hidalgo destaca destaca la falta de un reglamento actualizado para la Ley Orgánica de Transporte Terrestre. Esto, añade, afecta la implementación de controles efectivos sobre el consumo de alcohol y los límites de velocidad. Recomienda actualizar este reglamento, implementar tecnología de control vial y fortalecer la educación vial, especialmente entre jóvenes y motociclistas.
-
-Por parte de las autoridades locales aún hay que establecer controles de alcoholemia en puntos estratégicos y en  horarios clave los fines de semana, feriados y en eventos masivos. Aun creen que la  presencia constante de estos controles puede ser un fuerte disuasivo. 
-
-También proponen incorporar dispositivos como cámaras con reconocimiento de  matrículas vinculadas a datos de conductores sancionados  previamente por alcoholemia. 
-
-La [Fundación Cavat](https://cavat-nicoleparedes.org/ "https://cavat-nicoleparedes.org/") promueve la creación de una unidad de atención integral para víctimas, que brinde apoyo legal, social y emocional a las personas afectadas. La Coalición por la Movilidad Segura Ecuador, conformada por 60 organizaciones, en cambio, lograron que se establezca un Día Oficial en Memoria de las Víctimas de Siniestros Viales. Además, de la creación de un espacio para un monumento conmemorativo, como una forma de visibilizar el impacto de los siniestros y generar conciencia.  
-
-  
-
-  
-  
-
-Posibles alineaciones de Liga de Quito e Independiente del Valle para la final
-==============================================================================
-
-Liga de Quito e Independiente del Valle tienen listos sus equipos para enfrentarse en la final de vuelta de la Liga Pro.
-------------------------------------------------------------------------------------------------------------------------
-
-![Jeison Medina (arriba) de Independiente del Valle disputa un balón ante Richard Mina de Liga de Quito (abajo).](https://www.elcomercio.com/wp-content/uploads/2024/12/20241207140877-fbl-ligapro-primera-final-liga-independiente-scaled.jpg)
-
-**Liga de Quito e Independiente del Valle** tendrán su revancha de la final de ida de la Liga Pro durante este sábado 14 de diciembre de 2024 a las 15:30. Para el nuevo cotejo, los rayados deberán plantear una alineación para dar vuelta a un 3-0 previo, mientras que a los albos parten con comodidad.
-
-El último compromiso del campeonato ecuatoriano se jugará en el Estadio de Independiente del Valle y los rayados **contarán con el apoyo de sus hinchas**. Para el cotejo se espera que el reducto de la escuadra negriazul cuente con un lleno total.
-
-### Más noticias:
-
-* [Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-valle-viernes13-terror-redes.html "Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito")
-* [¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?](https://www.elcomercio.com/deportes/liga-quito-jugadores-favoritos-vitamina-sanchez.html "¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?")
-* [La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito](https://www.elcomercio.com/deportes/pablo-sanchez-tatuaje-vitamina-liga-quito.html "La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito")
-
-De cara al compromiso, los futbolistas de **Independiente del Valle** manifestaron su confianza en la remontada y señalaron que no el sacrificio de su parte no faltaría. Asimismo, sostuvieron que no tenían margen de error y que debían saber manejar la presión para que no les juegue en contra.
-
-Del lado de Liga de Quito, el **DT Pablo ‘Vitamina’ Sánchez** también se expresó en la previa del compromiso. El entrenador sostuvo que su equipo merece ser campeón y que su cuerpo técnico está enamorado de sus jugadores. Asimismo, prometió un tatuaje para recordar el momento si gana el título.
-
-¿Qué planteamientos tendrán Liga de Quito e Independiente?
-----------------------------------------------------------
-
-**Liga de Quito**, desde la llegada del **DT Pablo ‘Vitamina’ Sánchez** a mediados de la temporada 2024, ha jugado con 4-3-3. Aquel sistema, además, fue el que utilizó el entrenador argentino durante la final de ida en la que goleó a los rayados.
-
-El esquema táctico obedece a una línea de cuatro defensores, sin embargo, lo más llamativo está en el medio campo. Allí, **Sánchez** utiliza un solo volante de contención y dos futbolistas más adelantados para funciones de conducción. En punta se ubica un solo centrodelantero y un extremo en cada andarivel[.](https://en.wikipedia.org/wiki/L.D.U._Quito "https://en.wikipedia.org/wiki/L.D.U._Quito")
-
-A diferencia de Pablo Sánchez, el DT **Javier Gandolfi** de Independiente del Valle llegó desde el inicio de la temporada 2024. Este ha utilizado de manera habitual un esquema de **4-2-3-1**, el mismo que le hizo ganar la primera etapa.
-
-En el **dibujo técnico**, los rayados también tienen cuatro defensores en el fondo. A su vez, en el centro del terreno de juego cuentan con dos volantes defensivos, dos laterales y un enganche que conecta el juego con la zona delantera. En punta hay un solo ‘nueve’.
-
-Alineación potencial de Liga de Quito
--------------------------------------
-
-Alexander Domínguez (arquero); Daniel de la Cruz, Richard Mina, Ricardo Adé, Leonel Quiñónez (defensas); Ezquiel Piovi, Fernando Cornejo, Gabriel Villamil (volantes); Bryan Ramírez, Álex Arce y Jhojan Julio (delanteros).
-
-Alineación potencial de Independiente del Valle
------------------------------------------------
-
-Guido Villar (arquero); Matías Fernández, Richard Schunke, Mateo Carabajal, Yaimar Medina (defensas); Cristina Zabala, Joao Ortiz, Keny Arroyo, Bryan García, Renato Ibarra (volantes); Jeison Medina (delantero).
-
-Piero Hincapié se lució en triunfo clave del Leverkusen
-=======================================================
-
-El Bayer Leverkusen es el nuevo escolta de Bayern Múnich en la Bundesliga.
---------------------------------------------------------------------------
-
-![Piero Hincapié domina el balón en la fecha 12 de la Bundesliga 2024/25.](https://www.elcomercio.com/wp-content/uploads/2024/12/hincapie_bundesliga_1.jpg)
-
-**Piero Hincapié** fue una de las figuras en un nuevo triunfo del Bayer Leverkusen en la jornada 14 de la Bundesliga. El juego se llevó a cabo este sábado 14 de diciembre ante el Augsburgo, exequipo de Carlos Gruezo.
-
-Piero Hincapié jugó de **titular y completó los 90 minutos**. Fue destacado durante la trasmisión del encuentro como uno de los pilares en la zona defensiva. Incluso, fue incluido en el podio, solo superado por el suizo Granit Xhaka.
-
-### Más noticias:
-
-* [Segundo Castillo será el DT de Barcelona en el centenario](https://www.elcomercio.com/deportes/futbol/segundo-castillo-mortero-dt-barcelona.html "Segundo Castillo será el DT de Barcelona en el centenario")
-* [Cierran caso de violación en el que se vinculaba a Mbappé](https://www.elcomercio.com/deportes/futbol/kylian-mbappe-caso-vinculacion-violacion.html "Cierran caso de violación en el que se vinculaba a Mbappé")
-* [Liga de Quito e IDV, dos estilos de juego para un solo campeón](https://www.elcomercio.com/deportes/futbol/liga-de-quito-e-idv-dos-estilos-de-juego-para-un-solo-campeon.html "Liga de Quito e IDV, dos estilos de juego para un solo campeón")
-
-Piero Hincapié y su impecable temporada
----------------------------------------
-
-El sitio especializado **SofaScore calificó a Hincapié con un puntaje de 7,7 puntos**. Para este portal web la figura fue Florian Wirtz con 8,1 puntos.
-
-En la Bundesliga es titular fijo para el español Xabi Alonso. **Participó en 12 de los 14 partidos**, completó los 90 minutos en todos, y en los dos restantes ingresó al cambio para el segundo tiempo para hacer efectiva la rotación por la seguidilla de juegos.
-
-En la Champions League también se mantiene como titular. Jugó los 90 minutos en los triunfos ante el Feyenoord (0-4), Milan (1-0), **Salzburgo (5-0, pero salió a los 68′) e Inter (1-0)**; en el empate 1-1 contra el Stade Brestois; y en la derrota 4-0 en su visita al Liverpool.
-
-En la Copa Alemana se mantuvo como suplente ante el Carl Zeiss Jena y el SV Elversberg, pero fue requerido para visitar al **Bayern Múnich en el Allianz Arena en los octavos de final**. Fue triunfo para el Leverkusen por 0-1.
-
-![X del club.](https://www.elcomercio.com/wp-content/uploads/2024/12/hincapie_bundesliga_2-1024x683.jpg)
-
-X del club.
-
-Leverkusen es escolta
----------------------
-
-El Leverkusen empieza a recuperar terreno y **ahora es el escolta del Bayern en la tabla de posiciones** de la Bundesliga. Alcanzó 29 puntos y un gol diferencia positivo de +12.
-
-Los ‘Bávaros’ fueron derrotados en su vista al **Mainz por 2-1 y se quedaron con 33 puntos**, muy cómodos en la primera casilla, pero con un escolta que intentará alcanzarlos y revalidar su título de campeón.
-
-El Leverkusen puede perder el segundo puesto si el Eintracht Frankfurt, equipo de Willian Pacho antes de marcharse al PSG, **le gana al Leipzig en condición de visitante**. Si eso se cumple llegarán a los 30 puntos.
-
-La fecha 15 tiene al Leverkusen de local para recibir al Friburgo. El balón rodará en el BayArena el sábado 21 de diciembre, desde las 12:30.
-
-Ese será el último compromiso del año. La **Bundesliga se reanudará el 10 de enero** de 2025 y será con un partidazo ante el Borussia Dortmund en el Signal Iduna Park.
 
 San viernes
 -----------
