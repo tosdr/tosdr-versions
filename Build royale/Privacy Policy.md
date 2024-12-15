@@ -12,6 +12,7 @@
 + ----------------- +
 
 The original developer is GoalieSave25 ( Mathew )
+Currently developed by Alez and LapaMauve
 Most art done by TheGiantSlug ( Joel Owen )
 With art help from Rippy, TNTSquid, Red Alpha, Alez, and Nathan
 And many thanks to the Build Royale community for their suggestions and contributions
@@ -27,6 +28,83 @@ on the home page or go to:
 + ------------------------------------------- +
 +     Build Royale - Game Version History     +
 + ------------------------------------------- +
+
+1.9.3 - ( 14/12/2024 ) ( Dec 14th, 2024 ):
+
+![](./thumbnail/19.png)
+
+New Season for the Battle Pass: Music!
+
+	- More skins are available in the chests
+	- A new battle pass with new cosmetics
+
+Winter Theme returns!
+	- You can get plenty of winter lood from snowy trees!
+	- New Giant Snowball you can push around, damages enemies but it hurts you as well.
+	- New Icicle throwable, quick and hardhitting, make sure to charge it up!
+	- New Candycane healing item, provides 20 health or shield over time, quick to consume.
+Snowballs ported to throwables.
+Throwable throwing angle adjusted to hopefully be more accurate.
+Tweaked various flags related to performing actions
+	- This includes but is not limited to
+		- Reloading
+		- Healing
+		- Opening Air Drops
+		- Reviving
+		- Cooking Grenades
+	- The results of these actions should be more consistent and less likely to randomly cancel eachother
+	- Due to the changes other issues might have been introduced
+Changed how the storm operates
+	- The zone now has "wandering" phases
+		- The zone will wander in a random direction with a random offset
+		- This change aims to make endzone more engaging
+		- The final circle will now always close towards it's center
+Reloading page now gives a warning if done during game.
+Added Minigun
+	- Starts with a slow rate of fire but increases over time (peaks at 25 bullets)
+	- Rate of fire slows down if not used
+	- Replaces LMG in airdrops
+Removed LMG from airdrops, can be obtained from chests now.
+Unvaulted Musket
+Vaulted Grenade Launcher
+Vaulted Grenade Pistol
+Vaulted Landmine
+Vaulted Flashbang
+Vaulted Burst Shotgun
+Vaulted Deagle
+Buffed Cluster Grenades
+	- Decreased cook time 3s => 2s
+	- Decreased lifespan to match new cooking time
+	- Increased underhand velocity 1400 => 1200
+	- Increased velocity from cooking 1000 => 1200
+	- Decreased time for clusters to explode 30 => 25
+Buffed Grenades
+	- Decreased cook time 3s => 2s
+	- Decreased lifespan to match new cooking time
+	- Increased overhand velocity 2000 => 2300
+	- Increased velocity from cooking 900 => 1200
+Buffed Gravity Nade (Pull)
+	- Increased range 320 => 360
+Buffed Grappler
+	- Increased velocity of pulling players 4000 => 4500
+	- Pulled players slide for 4 ticks
+	- Reworked physics while sliding
+		- This should allow the grappler to gain more speed within a shorter time
+Buffed Rifle
+	- Increased base damage 44 => 46
+	- Increased damage per rarity 6 => 7
+Nerfed Crossbow
+	- Decreased crossbow pierces 2 => 1
+	- Increased pierce damage reduction 15 => 60
+	- Damage 80 => 75
+Nerfed LMG
+	- Base damage 11 => 9
+Nerfed SMG
+	- Base damage 16 => 15
+Nerfed SPAS12
+	- Damage per rarirty 1.5 => 1
+	- Increased spread
+	- Lowered bullet lifespan 6 => 5
 
 1.9.2 - ( 23/04/2024 ) ( Apr 23rd, 2024 ):
 
