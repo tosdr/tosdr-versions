@@ -92,9 +92,9 @@ Most Read
     
 3. 3. [Rocket Report: Chinese national flies drone near Falcon 9, Trouble down under](https://arstechnica.com/space/2024/12/rocket-report-ukrainian-launch-firm-finds-maine-home-long-march-8a-debut-near/)
     
-4. 4. [Don’t use crypto to cheat on taxes: Bitcoin bro gets 2 years](https://arstechnica.com/tech-policy/2024/12/dont-use-crypto-to-cheat-on-taxes-bitcoin-bro-gets-2-years/)
+4. 4. [Yearlong supply-chain attack targeting security pros steals 390K credentials](https://arstechnica.com/security/2024/12/yearlong-supply-chain-attack-targeting-security-pros-steals-390k-credentials/)
     
-5. 5. [Yearlong supply-chain attack targeting security pros steals 390K credentials](https://arstechnica.com/security/2024/12/yearlong-supply-chain-attack-targeting-security-pros-steals-390k-credentials/)
+5. 5. [Bird flu jumps from birds to human in Louisiana; patient hospitalized](https://arstechnica.com/science/2024/12/person-hospitalized-in-louisiana-with-bird-flu-health-officials-report/)
     
 
 Customize
