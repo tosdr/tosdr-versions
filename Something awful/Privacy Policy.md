@@ -205,29 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Cereal Boxes](https://www.somethingawful.com/photoshop-phriday/cereal-boxes/1/)
-* [@dril's Greatest Hits](https://www.somethingawful.com/twitter-tuesday/tt08-14-12/1/)
-* [Genius Forum and Girls Inc.](https://www.somethingawful.com/weekend-web/genius-girl-forums/1/)
-* [The War for Lake Michigan](https://www.somethingawful.com/news/lake-michigan-war/1/)
-* [Thor the Conqueror](https://www.somethingawful.com/movie-reviews/thor-the-conqueror/)
+* [The Steampunk Forum](https://www.somethingawful.com/weekend-web/steampunk-forum/1/)
+* [The Macabre Fantasy Artwork of Ray O'Bannon (Part 2)](https://www.somethingawful.com/dungeons-and-dragons/macabre-art-returns/1/)
+* [Gary Oldman, Star Citizen!](https://www.somethingawful.com/photoshop-phriday/oldman-star-citizen/)
+* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
+* [March 12, 2013](https://www.somethingawful.com/twitter-tuesday/tt03-12-13/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Nancy Pelosi has stairs in her house...... and she fell down them](http://forums.somethingawful.com/showthread.php?threadid=4077476 "Nancy Pelosi has stairs in her house...... and she fell down them")
 * ![](https://fi.somethingawful.com/forums/posticons/tinypastry.gif) [Baby's got a 12 pack. How bout we go back to the Bay Area and get some Crab](http://forums.somethingawful.com/showthread.php?threadid=4077498 "Baby's got a 12 pack. How bout we go back to the Bay Area and get some Crab")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/whine.png) [We have a Malcolm in the Middle reboot](http://forums.somethingawful.com/showthread.php?threadid=4077505 "We have a Malcolm in the Middle reboot")
 * ![](https://fi.somethingawful.com/images/shitpost.gif) [ITT: We are in a Saturday morning kids cartoon that uncool parents hate](http://forums.somethingawful.com/showthread.php?threadid=4077504 "ITT: We are in a Saturday morning kids cartoon that uncool parents hate")
-* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [Punirunes - the touchable tamagotchi??](http://forums.somethingawful.com/showthread.php?threadid=4077483 "Punirunes - the touchable tamagotchi??")
-* ![](https://fi.somethingawful.com/forums/posticons/pi-herps.gif) [Would you rather fight 1 man-sized Godzilla or 20 terrapin-sized Gameras?](http://forums.somethingawful.com/showthread.php?threadid=4077471 "Would you rather fight 1 man-sized Godzilla or 20 terrapin-sized Gameras?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/whine.png) [We have a Malcolm in the Middle reboot](http://forums.somethingawful.com/showthread.php?threadid=4077505 "We have a Malcolm in the Middle reboot")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-explosion.gif) [Power Rangers Jungle Fury theme](http://forums.somethingawful.com/showthread.php?threadid=4077494 "Power Rangers Jungle Fury theme")
 
 ### Random Articles
 
-* [Spooky Tips for Subway Eating!](https://www.somethingawful.com/comedy-goldmine/spooky-subway-tips/)
-* [Help Us, Save Us, Take Us Away!](https://www.somethingawful.com/news/help-us-save/)
-* [Sasquatch Your Back!](https://www.somethingawful.com/news/sasquatch-your-back/)
-* [Daily Gaming Guyz - Xmas Special 2](https://www.somethingawful.com/daily-dirt/gaming-christmas-2/)
-* [This Pizza Took Me Eight Years To Make](https://www.somethingawful.com/news/pizza-recipe-how/)
+* [Dating vs. Courtship](https://www.somethingawful.com/awful-links/awful-link-2999/)
+* [TheCarLoft (Thanks, Morey San!)](https://www.somethingawful.com/awful-links/thecarloft-vanilla-ice/)
+* [Embrace The Balds!](https://www.somethingawful.com/photoshop-phriday/bald-celebrities/1/)
+* [Absolution](https://www.somethingawful.com/movie-reviews/absolution/1/)
+* [The Secret Road to Money Heaven](https://www.somethingawful.com/news/secret-road-money/)
 
 [Random!](https://www.somethingawful.com/random/)
 
