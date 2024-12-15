@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Since 2010 I am using your service and it has never let me down.
+It was easy to use and worked flawlessly!
 
-Annemiek Wegman
+Mike Schement
