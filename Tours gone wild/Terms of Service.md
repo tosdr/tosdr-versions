@@ -363,7 +363,7 @@ Get a Price Quote
 * More Details: (customization, desired experience, etc)
     
 * 
-* Name
+* Comments
     
     This field is for validation purposes and should be left unchanged.
     
