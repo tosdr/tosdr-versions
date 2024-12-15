@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr taxation private charity versus public welfare](/freeblr/taxation/private-charity-versus-public-welfare/card.svg)](https://jarick.works/freeblr/taxation/private-charity-versus-public-welfare)[![freeblr faq can anarcho capitalism work](/freeblr/faq/can-anarcho-capitalism-work/card.svg)](https://jarick.works/freeblr/faq/can-anarcho-capitalism-work)[![freeblr government how the state destroys social cooperation](/freeblr/government/how-the-state-destroys-social-cooperation/card.svg)](https://jarick.works/freeblr/government/how-the-state-destroys-social-cooperation)[![spekr what is conservatism](/spekr/what-is-conservatism/card.svg)](https://jarick.works/spekr/what-is-conservatism)
+[![freeblr human nature existence logic evidence and truth](/freeblr/human-nature/existence-logic-evidence-and-truth/card.svg)](https://jarick.works/freeblr/human-nature/existence-logic-evidence-and-truth)[![freeblr family eight dangerous myths about spanking](/freeblr/family/eight-dangerous-myths-about-spanking/card.svg)](https://jarick.works/freeblr/family/eight-dangerous-myths-about-spanking)[![freeblr human nature you dont own other people](/freeblr/human-nature/you-dont-own-other-people/card.svg)](https://jarick.works/freeblr/human-nature/you-dont-own-other-people)[![freeblr family how to prevent violent criminal behaviour in the next generation](/freeblr/family/how-to-prevent-violent-criminal-behaviour-in-the-next-generation/card.svg)](https://jarick.works/freeblr/family/how-to-prevent-violent-criminal-behaviour-in-the-next-generation)
 
 [Follow](#follow)
 
@@ -150,7 +150,7 @@ Follow
 
 ### Follow me on social media
 
-[Facebook](https://facebook.com/JarickWorks)[Gab](https://gab.com/JarickWorks)[Gettr](https://gettr.com/user/jarickworks)[LinkedIn](https://linkedin.com/in/jarickworks/)[Minds](https://minds.com/jarickworks/)[Pinterest](https://pinterest.com/JarickWorks/)[Reddit](https://reddit.com/user/JarickWorks)[Tumblr](https://tumblr.com/jarickworks)[X](https://twitter.com/JarickWorks)
+[Bluesky](https://bsky.app/profile/jarickworks.bsky.social)[Facebook](https://facebook.com/JarickWorks)[Gab](https://gab.com/JarickWorks)[Gettr](https://gettr.com/user/jarickworks)[LinkedIn](https://linkedin.com/in/jarickworks/)[Mastodon](https://mastodon.social/@jarickworks)[Minds](https://minds.com/jarickworks/)[Pinterest](https://pinterest.com/JarickWorks/)[Reddit](https://reddit.com/user/JarickWorks)[Threads](https://www.threads.net/@jarickworks)[Tumblr](https://tumblr.com/jarickworks)[X](https://twitter.com/JarickWorks)
 
 [Close](#)
 
@@ -166,7 +166,7 @@ Enquire
 
 ### Lodge your request
 
-[Facebook](https://facebook.com/JarickWorks)[Gab](https://gab.com/JarickWorks)[Gettr](https://gettr.com/user/jarickworks)[LinkedIn](https://linkedin.com/in/jarickworks/)[Minds](https://minds.com/jarickworks/)[Pinterest](https://pinterest.com/JarickWorks/)[Reddit](https://reddit.com/user/JarickWorks)[Tumblr](https://tumblr.com/jarickworks)[X](https://twitter.com/JarickWorks)
+[Bluesky](https://bsky.app/profile/jarickworks.bsky.social)[Facebook](https://facebook.com/JarickWorks)[Gab](https://gab.com/JarickWorks)[Gettr](https://gettr.com/user/jarickworks)[LinkedIn](https://linkedin.com/in/jarickworks/)[Mastodon](https://mastodon.social/@jarickworks)[Minds](https://minds.com/jarickworks/)[Pinterest](https://pinterest.com/JarickWorks/)[Reddit](https://reddit.com/user/JarickWorks)[Threads](https://www.threads.net/@jarickworks)[Tumblr](https://tumblr.com/jarickworks)[X](https://twitter.com/JarickWorks)
 
 [Close](#)
 
