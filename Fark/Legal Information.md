@@ -230,11 +230,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want to see behind the curtain? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More Farking, less working
+It's how we feed the squirrel
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Two hours of semi-randomly selected music with some 2-fers thrown in on Paul's Memory Bank tonight (8PM ET). On "The Adventures of Superman" The Voice of DOOM continues. Is there something other than kryptonite that can harm Superman?](https://www.fark.com/goto/13494658) ( [live365.com](https://www.fark.com/goto/13494658) ) » [(1 comment)](https://www.fark.com/comments/13494658/Two-hours-of-semi-randomly-selected-music-with-some-2-fers-thrown-in-on-Pauls-Memory-Bank-tonight-8PM-ET-On-The-Adventures-of-Superman-The-Voice-of-DOOM-continues-Is-there-something-other-than-kryptonite-that-can-harm-Superman) |
-| [Discussion](https://www.fark.com/discussion/) | [So who will win the Heisman Trophy when the special begins at 8:00 PM ET on ESPN. Will it be Dillon Gabriel? Travis Hunter? Ashton Jeanty? Cam Ward? Someone else? Isn't it the most beautiful trophy in sports?](https://www.fark.com/goto/13494080) ( [ncaa.com](https://www.fark.com/goto/13494080) ) » [(6 comments)](https://www.fark.com/comments/13494080/So-who-will-win-Heisman-Trophy-when-special-begins-at-800-PM-ET-on-ESPN-Will-it-be-Dillon-Gabriel-Travis-Hunter-Ashton-Jeanty-Cam-Ward-Someone-else-Isnt-it-most-beautiful-trophy-in-sports) |
-| [Sports](https://www.fark.com/sports/) | [So who will win the Heisman Trophy when the special begins at 8:00 PM ET on ESPN. Will it be Dillon Gabriel? Travis Hunter? Ashton Jeanty? Cam Ward? Someone else? Isn't it the most beautiful trophy in sports?](https://www.fark.com/goto/13494080) ( [ncaa.com](https://www.fark.com/goto/13494080) ) » [(6 comments)](https://www.fark.com/comments/13494080/So-who-will-win-Heisman-Trophy-when-special-begins-at-800-PM-ET-on-ESPN-Will-it-be-Dillon-Gabriel-Travis-Hunter-Ashton-Jeanty-Cam-Ward-Someone-else-Isnt-it-most-beautiful-trophy-in-sports) |
-| [Business](https://www.fark.com/business/) | [It looks like emoluments are back on the menu, boys](https://www.fark.com/goto/13494304) ( [nypost.com](https://www.fark.com/goto/13494304) ) » [(41 comments)](https://www.fark.com/comments/13494304/It-looks-like-emoluments-are-back-on-menu-boys) |
-| [STEM](https://www.fark.com/stem/) | [Criticality events, and why if you see the blue flash, that's VERY bad](https://www.fark.com/goto/13494466) ( [hackaday.com](https://www.fark.com/goto/13494466) ) » [(19 comments)](https://www.fark.com/comments/13494466/Criticality-events-why-if-you-see-blue-flash-thats-VERY-bad) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Someone has an MFA and doesn't get the joke. Or any](https://www.fark.com/goto/13494400) ( [pastemagazine.com](https://www.fark.com/goto/13494400) ) » [(17 comments)](https://www.fark.com/comments/13494400/Someone-has-an-MFA-doesnt-get-joke-Or-any) |
-| [Fandom](https://www.fark.com/fandom/) | [South Korea has a Toyota Prius racing league](https://www.fark.com/goto/13494302) ( [thedrive.com](https://www.fark.com/goto/13494302) ) » [(8 comments)](https://www.fark.com/comments/13494302/South-Korea-has-a-Toyota-Prius-racing-league) |
-| [D'awww](https://www.fark.com/dawww/) | [Every time rescue dog goes to see Grandma, he does his Super Happy Spaz Dance](https://www.fark.com/goto/13494470) ( [youtube.com](https://www.fark.com/goto/13494470) ) » [(4 comments)](https://www.fark.com/comments/13494470/Every-time-rescue-dog-goes-to-see-Grandma-he-does-his-Super-Happy-Spaz-Dance) |
-| [Food](https://www.fark.com/food/) | [Eat a hot dog? That's 36 minutes off your life](https://www.fark.com/goto/13494370) ( [metro.co.uk](https://www.fark.com/goto/13494370) ) » [(34 comments)](https://www.fark.com/comments/13494370/Eat-a-hot-dog-Thats-36-minutes-off-your-life) |
-| [Politics](https://www.fark.com/politics/) | [Three? No, wait, six](https://www.fark.com/goto/13494442) ( [cnn.com](https://www.fark.com/goto/13494442) ) » [(18 comments)](https://www.fark.com/comments/13494442/Three-No-wait-six) |
+| [Main](https://www.fark.com/) | [DUI - driving under the ice](https://www.fark.com/goto/13494572) ( [wmur.com](https://www.fark.com/goto/13494572) ) » [(2 comments)](https://www.fark.com/comments/13494572/DUI-driving-under-ice) |
+| [Discussion](https://www.fark.com/discussion/) | [Will Nat-X return? Will there be a drone sketch? How will Update handle the Biden pardons? Can Dana Carvey rejoin the cast? Has anyone seen Kevin Nealon or Colin Quinn lately? Chris Rock hosts, Gracie Abrams sings. SNL, 11:30PM ET on NBC](https://www.fark.com/goto/13493950) ( [deadline.com](https://www.fark.com/goto/13493950) ) » [(188 comments)](https://www.fark.com/comments/13493950/Will-Nat-X-return-Will-there-be-a-drone-sketch-How-will-Update-handle-Biden-pardons-Can-Dana-Carvey-rejoin-cast-Has-anyone-seen-Kevin-Nealon-Colin-Quinn-lately-Chris-Rock-hosts-Gracie-Abrams-sings-SNL-1130PM-ET-on-NBC) |
+| [Sports](https://www.fark.com/sports/) | [If you were excited about the 2024 Independence Bowl featuring Army vs. Marshall, bad news. Marshall has pulled out due to a major transfer-portal disaster resulting in loss of dozens of players plus a coach](https://www.fark.com/goto/13494480) ( [sports.yahoo.com](https://www.fark.com/goto/13494480) ) » [(7 comments)](https://www.fark.com/comments/13494480/If-you-were-excited-about-2024-Independence-Bowl-featuring-Army-vs-Marshall-bad-news-Marshall-has-pulled-out-due-to-a-major-transfer-portal-disaster-resulting-in-loss-of-dozens-of-players-plus-a-coach) |
+| [Business](https://www.fark.com/business/) | [It looks like emoluments are back on the menu, boys](https://www.fark.com/goto/13494304) ( [nypost.com](https://www.fark.com/goto/13494304) ) » [(47 comments)](https://www.fark.com/comments/13494304/It-looks-like-emoluments-are-back-on-menu-boys) |
+| [STEM](https://www.fark.com/stem/) | [Remember Covid-19? Well it definitely remembers you](https://www.fark.com/goto/13494718) ( [ineteconomics.org](https://www.fark.com/goto/13494718) ) » [(1 comment)](https://www.fark.com/comments/13494718/Remember-Covid-19-Well-it-definitely-remembers-you) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Kraven the Hunter's $11 million opening weekend makes Morbius look successful](https://www.fark.com/goto/13494560) ( [screenrant.com](https://www.fark.com/goto/13494560) ) » [(13 comments)](https://www.fark.com/comments/13494560/Kraven-Hunters-$11-million-opening-weekend-makes-Morbius-look-successful) |
+| [Fandom](https://www.fark.com/fandom/) | [South Korea has a Toyota Prius racing league](https://www.fark.com/goto/13494302) ( [thedrive.com](https://www.fark.com/goto/13494302) ) » [(9 comments)](https://www.fark.com/comments/13494302/South-Korea-has-a-Toyota-Prius-racing-league) |
+| [D'awww](https://www.fark.com/dawww/) | [Every time rescue dog goes to see Grandma, he does his Super Happy Spaz Dance](https://www.fark.com/goto/13494470) ( [youtube.com](https://www.fark.com/goto/13494470) ) » [(5 comments)](https://www.fark.com/comments/13494470/Every-time-rescue-dog-goes-to-see-Grandma-he-does-his-Super-Happy-Spaz-Dance) |
+| [Food](https://www.fark.com/food/) | [Eat a hot dog? That's 36 minutes off your life](https://www.fark.com/goto/13494370) ( [metro.co.uk](https://www.fark.com/goto/13494370) ) » [(61 comments)](https://www.fark.com/comments/13494370/Eat-a-hot-dog-Thats-36-minutes-off-your-life) |
+| [Politics](https://www.fark.com/politics/) | [Devin Nunes to Lead Presidential Intelligence Advisory Board... That's the joke](https://www.fark.com/goto/13494866) ( [mediaite.com](https://www.fark.com/goto/13494866) ) » [(7 comments)](https://www.fark.com/comments/13494866/Devin-Nunes-to-Lead-Presidential-Intelligence-Advisory-Board-Thats-joke) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 14 2024 19:43:24  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 15 2024 01:42:07  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
