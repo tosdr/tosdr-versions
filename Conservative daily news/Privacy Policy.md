@@ -2,6 +2,7 @@ Sunday, December 15 2024
 
 Breaking News
 
+* [Michigan Dems Rush Gun Control Through State Legislature Ahead Of Republican House Majority](https://www.conservativedailynews.com/2024/12/michigan-dems-rush-gun-control-through-state-legislature-ahead-of-republican-house-majority/)
 * [What a Difference a Day (Election Day, Nov. 5, 2024) Makes](https://www.conservativedailynews.com/2024/12/what-a-difference-a-day-election-day-nov-5-2024-makes/)
 * [Stripper Who Falsely Accused Duke Lacrosse Team Of Vicious Gang Rape Finally Admits She Lied](https://www.conservativedailynews.com/2024/12/stripper-who-falsely-accused-duke-lacrosse-team-of-vicious-gang-rape-finally-admits-she-lied/)
 * [Yes Please! Trump Wants to End Twice Yearly Time Changes (DST)](https://www.conservativedailynews.com/2024/12/yes-please-trump-wants-to-end-twice-yearly-time-changes-dst/)
@@ -9,7 +10,6 @@ Breaking News
 * [They Wanted Him Doing Time, Instead He Is On The Cover Of Time](https://www.conservativedailynews.com/2024/12/they-wanted-him-doing-time-instead-he-is-on-the-cover-of-time/)
 * [Dear Republicans, Go Big On Trump’s Tax Cuts](https://www.conservativedailynews.com/2024/12/dear-republicans-go-big-on-trumps-tax-cuts/)
 * [Court Deals Blow To Major Stock Exchange’s Efforts At Pushing Diversity Rules On Companies](https://www.conservativedailynews.com/2024/12/court-deals-blow-to-major-stock-exchanges-efforts-at-pushing-diversity-rules-on-companies/)
-* [Whoopi Goldberg Says RFK Jr Is Fat Shaming People By Encouraging Healthy Diets And Exercise](https://www.conservativedailynews.com/2024/12/whoopi-goldberg-says-rfk-jr-is-fat-shaming-people-by-encouraging-healthy-diets-and-exercise/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,18 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2016/02/gun-rights-unarmed-citizen-is-merely-a-subject.jpg)](https://www.conservativedailynews.com/2024/12/michigan-dems-rush-gun-control-through-state-legislature-ahead-of-republican-house-majority/)
+    
+    [Michigan Dems Rush Gun Control Through State Legislature Ahead Of Republican House Majority](https://www.conservativedailynews.com/2024/12/michigan-dems-rush-gun-control-through-state-legislature-ahead-of-republican-house-majority/)
+    
+    December 15, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/02-autismseal-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/sergeant-walz/)
+    
+    [Sergeant Walz](https://www.conservativedailynews.com/2024/12/sergeant-walz/)
+    
+    December 15, 2024
+    
 * [![Donald Trump JD Vance 2024](https://www.conservativedailynews.com/wp-content/uploads/2024/07/03-vp-vance-dt-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/12/what-a-difference-a-day-election-day-nov-5-2024-makes/)
     
     [What a Difference a Day (Election Day, Nov. 5, 2024) Makes](https://www.conservativedailynews.com/2024/12/what-a-difference-a-day-election-day-nov-5-2024-makes/)
@@ -166,21 +178,10 @@ Recent Posts
     
     December 13, 2024
     
-* [![Trump taxes](https://www.conservativedailynews.com/wp-content/uploads/2017/05/Trump-taxes.jpg)](https://www.conservativedailynews.com/2024/12/dear-republicans-go-big-on-trumps-tax-cuts/)
-    
-    [Dear Republicans, Go Big On Trump’s Tax Cuts](https://www.conservativedailynews.com/2024/12/dear-republicans-go-big-on-trumps-tax-cuts/)
-    
-    December 13, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/12/court-deals-blow-to-major-stock-exchanges-efforts-at-pushing-diversity-rules-on-companies/)
-    
-    [Court Deals Blow To Major Stock Exchange’s Efforts At Pushing Diversity Rules On Companies](https://www.conservativedailynews.com/2024/12/court-deals-blow-to-major-stock-exchanges-efforts-at-pushing-diversity-rules-on-companies/)
-    
-    December 13, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Man With Guns And Explosives Planning A Church Attack Arrested In Texas](https://www.thegunpage.com/man-with-guns-and-explosives-planning-a-church-attack-arrested-in-texas/10612520)  
 * [Set Up Your Gear For Success](https://www.thegunpage.com/set-up-your-gear-for-success/10612518)
 * [Silencer Saturday #359: A Primer On Subsonic Ammunition](https://www.thegunpage.com/silencer-saturday-359-a-primer-on-subsonic-ammunition/10612512)
 * [Getting Into VR Training? Spring For The Quest 3 Instead Of Cutting Corners With The 3s](https://www.thegunpage.com/getting-into-vr-training-spring-for-the-quest-3-instead-of-cutting-corners-with-the-3s/10612507)
@@ -190,7 +191,6 @@ Recent Posts
 * [The Russian RPL-20 Light Machine Gun](https://www.thegunpage.com/the-russian-rpl-20-light-machine-gun/10612497)
 * [POTD: The PZD Mk24 Light Machine Gun](https://www.thegunpage.com/potd-the-pzd-mk24-light-machine-gun/10612495)
 * [TFB Podcast Roundup 159: The December 13th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-159-the-december-13th-roundup/10612496)
-* [Best Gifts For Concealed Carry](https://www.thegunpage.com/best-gifts-for-concealed-carry/10612493)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
