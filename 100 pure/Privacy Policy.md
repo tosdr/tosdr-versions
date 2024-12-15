@@ -397,7 +397,7 @@ ADD TO TOTE
 
 ### [Vitamin C Serum](https://www.100percentpure.com/products/vitamin-c-serum)
 
-1425 reviews (1425)
+1427 reviews (1427)
 
 $58.00
 
