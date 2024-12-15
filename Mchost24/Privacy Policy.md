@@ -1,4 +1,4 @@
-Black Week Angebot: Hol dir jetzt 40 % extra Guthaben zu jeder Aufladung!
+Sichere dir jetzt 40 % extra Guthaben zu jeder Aufladung!
 
 [Anmelden](#)
 
