@@ -54,6 +54,7 @@ The store will not work correctly in the case when cookies are disabled.
     
 * [XMAS DEALS](https://www.womanizer.com/eu/sale)
     
+    * [Kinky Couple Collection](https://www.womanizer.com/eu/kinky-couple-collection)
     * [NEW
         
         24 Days of Pleasure](https://www.womanizer.com/eu/couples-advent-calendar)
