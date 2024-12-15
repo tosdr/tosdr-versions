@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr religion the stone mover](/freeblr/religion/the-stone-mover/card.svg)](https://jarick.works/freeblr/religion/the-stone-mover)[![spekr what is liberalism](/spekr/what-is-liberalism/card.svg)](https://jarick.works/spekr/what-is-liberalism)[![freeblr faq arent anarchists terrorists](/freeblr/faq/arent-anarchists-terrorists/card.svg)](https://jarick.works/freeblr/faq/arent-anarchists-terrorists)[![freeblr economics free markets and monopoly](/freeblr/economics/free-markets-and-monopoly/card.svg)](https://jarick.works/freeblr/economics/free-markets-and-monopoly)
+[![freeblr education](/freeblr/education/card.svg)](https://jarick.works/freeblr/education)[![freeblr government on the rule of law](/freeblr/government/on-the-rule-of-law/card.svg)](https://jarick.works/freeblr/government/on-the-rule-of-law)[![freeblr government what big government is all about](/freeblr/government/what-big-government-is-all-about/card.svg)](https://jarick.works/freeblr/government/what-big-government-is-all-about)[![freeblr limited government no rulers](/freeblr/limited-government/no-rulers/card.svg)](https://jarick.works/freeblr/limited-government/no-rulers)
 
 [Follow](#follow)
 
@@ -221,7 +221,7 @@ Follow
 
 ### Follow me on social media
 
-[Facebook](https://facebook.com/JarickWorks)[Gab](https://gab.com/JarickWorks)[Gettr](https://gettr.com/user/jarickworks)[LinkedIn](https://linkedin.com/in/jarickworks/)[Minds](https://minds.com/jarickworks/)[Pinterest](https://pinterest.com/JarickWorks/)[Reddit](https://reddit.com/user/JarickWorks)[Tumblr](https://tumblr.com/jarickworks)[X](https://twitter.com/JarickWorks)
+[Bluesky](https://bsky.app/profile/jarickworks.bsky.social)[Facebook](https://facebook.com/JarickWorks)[Gab](https://gab.com/JarickWorks)[Gettr](https://gettr.com/user/jarickworks)[LinkedIn](https://linkedin.com/in/jarickworks/)[Mastodon](https://mastodon.social/@jarickworks)[Minds](https://minds.com/jarickworks/)[Pinterest](https://pinterest.com/JarickWorks/)[Reddit](https://reddit.com/user/JarickWorks)[Threads](https://www.threads.net/@jarickworks)[Tumblr](https://tumblr.com/jarickworks)[X](https://twitter.com/JarickWorks)
 
 [Close](#)
 
@@ -237,7 +237,7 @@ Enquire
 
 ### Lodge your request
 
-[Facebook](https://facebook.com/JarickWorks)[Gab](https://gab.com/JarickWorks)[Gettr](https://gettr.com/user/jarickworks)[LinkedIn](https://linkedin.com/in/jarickworks/)[Minds](https://minds.com/jarickworks/)[Pinterest](https://pinterest.com/JarickWorks/)[Reddit](https://reddit.com/user/JarickWorks)[Tumblr](https://tumblr.com/jarickworks)[X](https://twitter.com/JarickWorks)
+[Bluesky](https://bsky.app/profile/jarickworks.bsky.social)[Facebook](https://facebook.com/JarickWorks)[Gab](https://gab.com/JarickWorks)[Gettr](https://gettr.com/user/jarickworks)[LinkedIn](https://linkedin.com/in/jarickworks/)[Mastodon](https://mastodon.social/@jarickworks)[Minds](https://minds.com/jarickworks/)[Pinterest](https://pinterest.com/JarickWorks/)[Reddit](https://reddit.com/user/JarickWorks)[Threads](https://www.threads.net/@jarickworks)[Tumblr](https://tumblr.com/jarickworks)[X](https://twitter.com/JarickWorks)
 
 [Close](#)
 
