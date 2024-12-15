@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -30,7 +30,7 @@
     
     [Забыли пароль?](https://www.russianfood.com/forum/ucp.php?mode=sendpassword)
     
-    [Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F%3Futm_source%3Dhomescreen%26utm_medium%3Dpwa-icon)
+    [Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F)
     
 
 [![](/images/common/bottom_logo3_1_cr.gif)](https://www.russianfood.com/)
@@ -50,7 +50,7 @@
 
 [Забыли пароль?](https://www.russianfood.com/forum/ucp.php?mode=sendpassword)  
 
-[Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F%3Futm_source%3Dhomescreen%26utm_medium%3Dpwa-icon)
+[Зарегистрироваться](https://www.russianfood.com/users/register.php?backurl=%2F)
 
 ![](/images/loading_16_green2.gif)
 
@@ -146,10 +146,6 @@
 | [Картинки с выставок](https://www.russianfood.com/themes/?theme_id=18) | 4,98 |
 | Репортажи с выставок производителей продуктов питания. Рассказы о продукции известных и еще неизвестных брендов |     |
 
-Сейчас читают
-
-* [Блинные треугольники с куриным фаршем](https://www.russianfood.com/recipes/recipe.php?rid=174962)
-
 |     |
 | --- |
 | Поиск рецептов<br>-------------- |
@@ -170,6 +166,48 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Рыбный день? Хоть сегодня! СКУМБРИЯ по-необычному (18)](https://www.russianfood.com/reading/?post_id=22996) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/491/sm_490394.jpg)](https://www.russianfood.com/reading/?post_id=22996)
+
+Рыба, тушенная в соево-томатном соусе. Скумбрия, запечённая с овощами. Открытый пирог со скумбрией, шпинатом и творогом. Скумбрия холодного копчения в домашних условиях.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22996)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22996#comments) | 15.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Самый сладкий обзор! Лучшие СЛАДОСТИ №24-50](https://www.russianfood.com/reading/?post_id=22995) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/751/sm_750369.jpg)](https://www.russianfood.com/reading/?post_id=22995)
+
+Пряный кекс с грушами. Банановое суфле. Шоколадный пирог из фасоли, без муки. Творожно-молочное желе с хурмой. Лимонное желе с мёдом. Творожный торт-желе "Зебра" с морковью и апельсином. Миндальные тарталетки с маковой начинкой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22995)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22995#comments) | 15.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Симпатичные "Змейки" и другие Лучшие рецепты на Новый год (105)](https://www.russianfood.com/reading/?post_id=22994) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/747/sm_746874.jpg)](https://www.russianfood.com/reading/?post_id=22994)
+
+Печенье "Змейки". Салат "Мимоза" со скумбрией. Профитроли с творожно-йогуртовым кремом. Куриные кармашки с ананасами и перцем. Лазанья-рататуй.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22994)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22994#comments) | 15.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -337,49 +375,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174953#comments) | 12.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Суп с говяжьим фаршем и бататом](https://www.russianfood.com/recipes/recipe.php?rid=174955) |     |
-
-[![Фото к рецепту: Суп с говяжьим фаршем и бататом](//img1.russianfood.com/dycontent/images_upl/759/sm_758737.jpg "Фото к рецепту: Суп с говяжьим фаршем и бататом")](https://www.russianfood.com/recipes/recipe.php?rid=174955)
-
-Суп с фаршем варится быстрее, чем на мясном бульоне. А замена обычного картофеля на батат, делает вкус интереснее.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174955)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174955#comments) | 12.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Простые вкусности. Лучшие рецепты для начинающих №24-50](https://www.russianfood.com/reading/?post_id=22982) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/760/sm_759568.jpg)](https://www.russianfood.com/reading/?post_id=22982)
-
-Яичные роллы с крабовыми палочками. Гнёзда из куриного фарша с грибами. Курица с грибами и тыквой в сливочно-соевом соусе. Тефтели под сливочно-грибным соусом. Жареная картошка с фаршем, сыром и помидорами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22982)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты для начинающих](https://www.russianfood.com/blogs/?id=338566) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22982#comments) | 12.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Новый взгляд на новогодние закуски. Лучшие рецепты ЗАКУСОК (41)](https://www.russianfood.com/reading/?post_id=22981) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/694/sm_693044.jpg)](https://www.russianfood.com/reading/?post_id=22981)
-
-Фаршированные яйца. Тефтели из индейки с овощами. Салат с курицей, пекинской капустой и огурцами. Вегетарианская рыба. Клафути с брокколи и брюссельской капустой.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22981)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22981#comments) | 12.12.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=174953#comments) | 12.12.24 |     |
 
 |     |
 | --- |
@@ -462,3 +458,5 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
+
+(130)
