@@ -128,50 +128,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Johan Botha - Brand Xplosion
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=9aa9808ecf19bbd4e33e1ecb8a9a521fb82279de3949362569050f9ba7fe779a&c=48273415)  
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=595feabe5f6f5b8522c01a2e8c716976bb8745c04973fbba8605206f0d79cc56&c=176408638)  
 Peter Salvage Pty Ltd
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=9aa9808ecf19bbd4e33e1ecb8a9a521fb82279de3949362569050f9ba7fe779a&c=145589031)  
-Mountain Lion Properties
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=595feabe5f6f5b8522c01a2e8c716976bb8745c04973fbba8605206f0d79cc56&c=18590120)  
+BEE SURE CONSULTING (PTY) LTD
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=9aa9808ecf19bbd4e33e1ecb8a9a521fb82279de3949362569050f9ba7fe779a&c=139635420)  
-AFS Electrical
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=595feabe5f6f5b8522c01a2e8c716976bb8745c04973fbba8605206f0d79cc56&c=50860047)  
+Itroniq (Pty) Ltd
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=9aa9808ecf19bbd4e33e1ecb8a9a521fb82279de3949362569050f9ba7fe779a&c=28688437)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=595feabe5f6f5b8522c01a2e8c716976bb8745c04973fbba8605206f0d79cc56&c=130720012)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=9aa9808ecf19bbd4e33e1ecb8a9a521fb82279de3949362569050f9ba7fe779a&c=73816775)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=595feabe5f6f5b8522c01a2e8c716976bb8745c04973fbba8605206f0d79cc56&c=49390673)  
+Moving Made Easy (PTY) Ltd
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=9aa9808ecf19bbd4e33e1ecb8a9a521fb82279de3949362569050f9ba7fe779a&c=161389272)  
-van Schaik rentals
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=595feabe5f6f5b8522c01a2e8c716976bb8745c04973fbba8605206f0d79cc56&c=197464948)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=9aa9808ecf19bbd4e33e1ecb8a9a521fb82279de3949362569050f9ba7fe779a&c=188260762)  
-Gemini-IT Group
-
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=9aa9808ecf19bbd4e33e1ecb8a9a521fb82279de3949362569050f9ba7fe779a&c=87641484)  
-Druce Digital
-
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=9aa9808ecf19bbd4e33e1ecb8a9a521fb82279de3949362569050f9ba7fe779a&c=214498960)  
-High Point Marketing CC t/a Leads For Africa
-
-![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=9aa9808ecf19bbd4e33e1ecb8a9a521fb82279de3949362569050f9ba7fe779a&c=82074515)  
-MONSTER SECURITY SERVICES (NORTHAM)
-
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=9aa9808ecf19bbd4e33e1ecb8a9a521fb82279de3949362569050f9ba7fe779a&c=57656413)  
-Moremi Kitchens Rustenburg
-
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=9aa9808ecf19bbd4e33e1ecb8a9a521fb82279de3949362569050f9ba7fe779a&c=166678054)  
-Mtunzini Group
-
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=9aa9808ecf19bbd4e33e1ecb8a9a521fb82279de3949362569050f9ba7fe779a&c=143258550)  
-Camp 4 Africa (Pty) Ltd
-
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=9aa9808ecf19bbd4e33e1ecb8a9a521fb82279de3949362569050f9ba7fe779a&c=114160806)  
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=595feabe5f6f5b8522c01a2e8c716976bb8745c04973fbba8605206f0d79cc56&c=180484954)  
 Kinetic Power Solutions (Pty) Ltd.
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=9aa9808ecf19bbd4e33e1ecb8a9a521fb82279de3949362569050f9ba7fe779a&c=204503748)  
-TIGERDSL
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=595feabe5f6f5b8522c01a2e8c716976bb8745c04973fbba8605206f0d79cc56&c=126787049)  
+Electro-Heat
+
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=595feabe5f6f5b8522c01a2e8c716976bb8745c04973fbba8605206f0d79cc56&c=82586711)  
+AquariumSmiths
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=595feabe5f6f5b8522c01a2e8c716976bb8745c04973fbba8605206f0d79cc56&c=123529806)  
+MSPCloud (Pty) Ltd
+
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=595feabe5f6f5b8522c01a2e8c716976bb8745c04973fbba8605206f0d79cc56&c=133027221)  
+LEO DEVELOPMENT GROUP
+
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=595feabe5f6f5b8522c01a2e8c716976bb8745c04973fbba8605206f0d79cc56&c=147980080)  
+PROGRAPHIX PTY LTD
+
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=595feabe5f6f5b8522c01a2e8c716976bb8745c04973fbba8605206f0d79cc56&c=43568612)  
+UMVIKELI PRIVATE SECURITY
+
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=595feabe5f6f5b8522c01a2e8c716976bb8745c04973fbba8605206f0d79cc56&c=109302983)  
+AMS Ambu Medical Supplies
+
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=595feabe5f6f5b8522c01a2e8c716976bb8745c04973fbba8605206f0d79cc56&c=79831179)  
+Lizzy Pop PTY(Ltd)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
