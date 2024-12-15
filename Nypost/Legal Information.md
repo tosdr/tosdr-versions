@@ -84,10 +84,6 @@ Search
 
 Search
 
-#### Exclusive
-
-[Finance expert, son of Florida judge accused of sucker-punching NYC eye doc, 2 health-care staffers in NJ](https://nypost.com/2024/12/15/us-news/finance-expert-accused-of-sucker-punching-nyc-doc-others/)
-
 Privacy Notice Highlights
 =========================
 
