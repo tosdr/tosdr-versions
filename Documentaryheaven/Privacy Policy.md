@@ -128,39 +128,39 @@ Advertisement
     Dispatches: The Killing Zone
     
     While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
-* [![The Hour Of Our Time: The Legacy of William Cooper](/wp-content/thumbnails/1157-100x70.jpg?x53432)
+* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
     
-    The Hour Of Our Time: The Legacy of William Cooper
+    Objectified
     
-    Surrounding us in our day-to-day lives are mysteries, that to spend our days pondering would paralyze us from leading productive lives. So we turn away from these thoughts in order to seek out as trou...](https://documentaryheaven.com/the-hour-of-our-time-the-legacy-of-william-cooper/ "The Hour Of Our Time: The Legacy of William Cooper")
+    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 
 ###### Throwback Documentaries
 
-* [![Secrets of war Vietnam Special Operations](/wp-content/thumbnails/3908-100x70.jpg?x53432)
+* [![Gordon Ramsay: Boiling Point](/wp-content/thumbnails/14427-100x70.jpg?x53432)
     
-    Secrets of war Vietnam Special Operations
+    Gordon Ramsay: Boiling Point
     
-    The Navy Seals and the Green Berets played critical roles during the lengthy Vietnam War. However, these Special Forces were not always allowed to fully coordinate their activities with the regular ai](https://documentaryheaven.com/secrets-of-war-vietnam-special-operations-2/ "Secrets of war Vietnam Special Operations")
-* [![Matter of Heart](/wp-content/thumbnails/2261-100x70.jpg?x53432)
+    Boiling Point is a five part documentary miniseries which was released by Channel 4 back in 1999. It follows now celebrity chief Gordon Ramsay over the course of an eight month period, a period which](https://documentaryheaven.com/gordon-ramsay-boiling-point/ "Gordon Ramsay: Boiling Point")
+* [![John Nash: A Beautiful Mind](/wp-content/thumbnails/9863-100x70.jpg?x53432)
     
-    Matter of Heart
+    John Nash: A Beautiful Mind
     
-    The psyche is the greatest of all cosmic wonders and the “sine qua non” of the world as an object. It is in the highest degree odd that Western man, with but very few – and ever fewer – exceptions, ap](https://documentaryheaven.com/matter-of-heart/ "Matter of Heart")
-* [![Do the Math: The Movie](/wp-content/thumbnails/7670-100x70.jpg?x53432)
+    In September 1949, the world learned that the Soviet Union had joined the United States as a nuclear power. This shocking news intensified fears in the US and put a premium on mathematicians. Mathemat](https://documentaryheaven.com/john-nash-beautiful-mind/ "John Nash: A Beautiful Mind")
+* [![The Missing Link](/wp-content/thumbnails/7093-100x70.jpg?x53432)
     
-    Do the Math: The Movie
+    The Missing Link
     
-    Do The Math chronicles climate crusader Bill McKibben as he works with a rising global movement in a David-vs-Goliath fight to change the terrifying math of the climate crisis.The fossil fuel indust](https://documentaryheaven.com/do-math-movie/ "Do the Math: The Movie")
-* [![The Human Mind](/wp-content/thumbnails/655-100x70.png?x53432)
+    Last year the discovery of a tiny fossilised jawbone hit the headlines. The jawbone, only a few centimetres long with seven rows of teeth, was found abandoned in a dusty museum where it had lain unnot](https://documentaryheaven.com/the-missing-link/ "The Missing Link")
+* [![Mao’s Bloody Revolution Revealed](/wp-content/thumbnails/730-100x70.png?x53432)
     
-    The Human Mind
+    Mao’s Bloody Revolution Revealed
     
-    In this three-part documentary, Robert Winston explores all aspects of the human mind - from how we learn, to how we're able to recognise faces and what makes one person 'click' with another.Episo](https://documentaryheaven.com/the-human-mind/ "The Human Mind")
-* [![Barbarians: The Vikings](/wp-content/thumbnails/9582-100x70.png?x53432)
+    Mao’s Bloody Revolution Revealed is hosted by Philip Short, BBC correspondent and author of Mao: A Life. Bloody Revolution can be divided into two parts. The first half of the documentary covers the c](https://documentaryheaven.com/maos-bloody-revolution-revealed/ "Mao’s Bloody Revolution Revealed")
+* [![A Brilliant Madness: John Nash](/wp-content/thumbnails/1721-100x70.jpg?x53432)
     
-    Barbarians: The Vikings
+    A Brilliant Madness: John Nash
     
-    12,00 years ago the Vikings explode out of the cold north sea, like beasts unleashed on an unsuspecting world. They come from a land of deep water fjords and bitter clan rivalries, today the area is k](https://documentaryheaven.com/barbarians-vikings/ "Barbarians: The Vikings")
+    A Brilliant Madness is the story of a mathematical genius whose career was cut short by a descent into madness. At the age of 30, John Nash, a stunningly original and famously eccentric MIT mathematic](https://documentaryheaven.com/brilliant-madness-john-nash/ "A Brilliant Madness: John Nash")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
