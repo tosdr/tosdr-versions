@@ -204,7 +204,7 @@ English
 * [lt - Lietuvių 43%](https://lernu.net/privateco?hl=lt)
 * [nl - Nederlands 100%](https://lernu.net/privateco?hl=nl)
 * [no - Norsk bokmål 80%](https://lernu.net/privateco?hl=no)
-* [pl - Polski 59%](https://lernu.net/privateco?hl=pl)
+* [pl - Polski 61%](https://lernu.net/privateco?hl=pl)
 * [pt - Português 91%](https://lernu.net/privateco?hl=pt)
 * [rn - Kirundi 80%](https://lernu.net/privateco?hl=rn)
 * [ro - Română 99%](https://lernu.net/privateco?hl=ro)
