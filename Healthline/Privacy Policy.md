@@ -164,21 +164,13 @@
 
 Subscribe
 
-[#### Parenthood](https://www.healthline.com/parenthood)
+[#### Eye Health](https://www.healthline.com/eye-health)
 
-* Stages
-    
-    * [Becoming a Parent](https://www.healthline.com/parenthood/becoming-a-parent)
-    * [Pregnancy](https://www.healthline.com/parenthood/pregnancy)
-    * [Postpartum](https://www.healthline.com/parenthood/postpartum)
-    * [Baby](https://www.healthline.com/parenthood/baby)
-    * [Toddler](https://www.healthline.com/parenthood/toddler)
-    
-* [Fertility](https://www.healthline.com/parenthood/fertility)
-* [Health & Wellness](https://www.healthline.com/parenthood/health-wellness)
-* [Conditions & Concerns](https://www.healthline.com/parenthood/conditions-concerns)
-* [Relationships](https://www.healthline.com/parenthood/relationships)
-* [Products](https://www.healthline.com/parenthood/products-gear)
+* [Eye Care](https://www.healthline.com/eye-health/eye-care)
+* [Macular Degeneration](https://www.healthline.com/eye-health/treating-macular-degeneration)
+* [Dry Eye Syndrome](https://www.healthline.com/eye-health/treating-dry-eye-syndrome)
+* [What to Eat](https://www.healthline.com/eye-health/nutrition-supplements)
+* [Blindness](https://www.healthline.com/eye-health/navigating-blindness)
 
 Privacy Policy
 ==============
