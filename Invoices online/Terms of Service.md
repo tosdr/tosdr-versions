@@ -196,63 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Kobus Venter
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=77276977)  
-Eruca (PTY)Ltd
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=142128225)  
+Cooper Power
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=85976925)  
-Digifax Pty) Ltd t/a Findfish
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=92664684)  
+Blue Sky Solar Services
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=110529901)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=29426904)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=40749362)  
-West Coast Horse Trails
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=212506139)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=154688266)  
-Vplay Grafix
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=41042027)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=149728325)  
-RADIO TYGERBERG 104FM NPC
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=167575535)  
+National Elite Security Services (PTY) LTD
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=194493557)  
-Tiny Cuddles Photography
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=198536176)  
+LEONARD
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=172122092)  
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=113454599)  
+AquariumSmiths
+
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=4092019)  
+VIR Electrical (PTY) LTD
+
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=160319885)  
+Import Maaw
+
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=198991805)  
+One2b
+
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=97953033)  
 Well Hung Art
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=205102130)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=45934046)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=44438859)  
-Skinz Printing & Branding
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=10982167)  
+Oukraal Merino's
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=168512281)  
-Norton Medical & Consult - Namibia
-
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=36488608)  
-MOSELA GROUP Pty(ltd)
-
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=155076557)  
-KTEN PARTS
-
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=100687786)  
-Entidee Enterprise PTY (ltd)
-
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=b5cc36e859c3f1e1af567344960e6783607c4f842552b1c555a4378d574c76f8&c=70065696)  
-Lindani Protection Services & Projects
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=72599552)  
+Desygn
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
