@@ -26,23 +26,21 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-nancymsnbc1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/pelosi-gets-hip-replacement-surgery-after-nasty-spill-x-users-short-on-sympathy/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cillizza-jones-1200x630.jpg)](https://americanwirenews.com/van-jones-admits-trump-is-smarter-than-the-left-this-dude-is-a-phenomenon/)
 
-[Pelosi gets hip replacement surgery after nasty spill – X users short on sympathy](https://americanwirenews.com/pelosi-gets-hip-replacement-surgery-after-nasty-spill-x-users-short-on-sympathy/)
+[Van Jones admits Trump is ‘smarter’ than the left: ‘This dude is a phenomenon’](https://americanwirenews.com/van-jones-admits-trump-is-smarter-than-the-left-this-dude-is-a-phenomenon/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-steffy-djt-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/total-victory-abc-news-agrees-to-pay-trump-16m-over-defamation-suit-stephanopoulos-to-apologize/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bowman-rapaport-1200x630.jpg)](https://americanwirenews.com/michael-rapaport-offers-to-fly-unemployed-squad-members-jamaal-bowman-cori-bush-to-west-bank/)
 
-[‘Total victory’: ABC News agrees to pay Trump $16M over defamation suit — Stephanopoulos to apologize](https://americanwirenews.com/total-victory-abc-news-agrees-to-pay-trump-16m-over-defamation-suit-stephanopoulos-to-apologize/)
+[Michael Rapaport offers to fly ‘unemployed’ squad members Jamaal Bowman, Cori Bush to West Bank](https://americanwirenews.com/michael-rapaport-offers-to-fly-unemployed-squad-members-jamaal-bowman-cori-bush-to-west-bank/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-biden-1200x630.jpeg)](https://americanwirenews.com/bidens-sentence-commutations-include-scranton-kids-for-cash-judge-fmr-illinois-official-who-stole-35m/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-djt-scream-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/leftists-vow-to-cancel-time-for-recognizing-trump-as-person-of-the-year/)
 
-(Official White House Photo by Oliver Contreras)
+[Leftists vow to cancel Time for recognizing Trump as ‘Person of the Year’](https://americanwirenews.com/leftists-vow-to-cancel-time-for-recognizing-trump-as-person-of-the-year/)
 
-[Biden’s sentence commutations include Scranton ‘kids for cash’ judge, fmr Illinois official who stole $35M](https://americanwirenews.com/bidens-sentence-commutations-include-scranton-kids-for-cash-judge-fmr-illinois-official-who-stole-35m/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-drones-1200x630.jpg)](https://americanwirenews.com/with-speculation-running-wild-biden-admin-labels-concerns-over-drone-sightings-a-slight-overreaction/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-wnbaowner-1200-x-628-1200x630.jpg)](https://americanwirenews.com/wnba-owner-claims-time-pick-of-caitlin-clark-as-athlete-of-the-year-could-invite-racism/)
-
-[WNBA owner claims Time pick of Caitlin Clark as ‘Athlete of the Year’ could invite racism](https://americanwirenews.com/wnba-owner-claims-time-pick-of-caitlin-clark-as-athlete-of-the-year-could-invite-racism/)
+[With speculation running wild, Biden admin labels concerns over drone sightings a ‘slight overreaction’](https://americanwirenews.com/with-speculation-running-wild-biden-admin-labels-concerns-over-drone-sightings-a-slight-overreaction/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-biden-xi-1200x630.jpeg)](https://americanwirenews.com/outrage-over-bidens-pardon-of-convicted-ccp-spies/)
 
@@ -50,21 +48,21 @@ Search for:
 
 [Outrage over Biden’s pardon of convicted CCP spies](https://americanwirenews.com/outrage-over-bidens-pardon-of-convicted-ccp-spies/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-paxton-1200x630.jpg)](https://americanwirenews.com/texas-ag-files-first-of-its-kind-lawsuit-against-ny-doc-who-prescribed-abortion-pill-via-telehealth/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-elias-1200-x-628-1200x630.jpg)](https://americanwirenews.com/edit-720-dem-legal-eagle-marc-elias-fumes-over-abc-settlement-ring-kissed/)
 
-[Texas AG files first-of-its-kind lawsuit against NY doc who prescribed abortion pill via ‘telehealth’](https://americanwirenews.com/texas-ag-files-first-of-its-kind-lawsuit-against-ny-doc-who-prescribed-abortion-pill-via-telehealth/)
+[Dem legal eagle Marc Elias fumes over ABC News settlement with Trump: ‘Ring kissed’](https://americanwirenews.com/edit-720-dem-legal-eagle-marc-elias-fumes-over-abc-settlement-ring-kissed/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-patel-1-1200x630.jpg)](https://americanwirenews.com/watchdog-report-reveals-fbi-spied-on-kash-patel/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/bidenbookssg-1200-x-628-1200x630.jpg)](https://americanwirenews.com/with-just-over-a-month-left-biden-renews-call-for-assault-weapons-ban/)
 
-[Watchdog report reveals FBI spied on Kash Patel](https://americanwirenews.com/watchdog-report-reveals-fbi-spied-on-kash-patel/)
+[With just over a month left, Biden renews call for assault weapons ban](https://americanwirenews.com/with-just-over-a-month-left-biden-renews-call-for-assault-weapons-ban/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-michael-moore-2-1200x630.jpg)](https://americanwirenews.com/michael-moore-wants-to-pour-gasoline-on-health-insurance-company-anger/)
 
 [Michael Moore wants to ‘pour gasoline’ on health insurance company anger](https://americanwirenews.com/michael-moore-wants-to-pour-gasoline-on-health-insurance-company-anger/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-vance-armynavy-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2022/12/SG-Olbermann-1200x630.jpg)
 
-### ‘Hero’ Daniel Penny receives special welcome as he joins Trump, Vance at Army-Navy game](https://americanwirenews.com/hero-daniel-penny-receives-special-welcome-as-he-joins-trump-vance-at-army-navy-game/)
+### Left-wing loon Keith Olbermann says he’s leaving X for Bluesky BUT forgets to leave](https://americanwirenews.com/left-wing-loon-keith-olbermann-says-hes-leaving-x-for-bluesky-but-forgets-to-leave/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -82,9 +80,17 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-chris-djt-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-drops-wicked-chris-christie-meme-over-nj-drone-mystery/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mangione-combs-220x180.jpg)](https://americanwirenews.com/suspected-unitedhealthcare-ceo-killer-retains-high-powered-ny-attorney-married-to-diddys-attorney/)
 
-[Trump drops wicked Chris Christie meme over NJ drone mystery](https://americanwirenews.com/trump-drops-wicked-chris-christie-meme-over-nj-drone-mystery/)
+[Suspected UnitedHealthcare CEO killer retains high-powered NY attorney married to Diddy’s attorney](https://americanwirenews.com/suspected-unitedhealthcare-ceo-killer-retains-high-powered-ny-attorney-married-to-diddys-attorney/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dncli-1200-x-628-220x180.jpg)](https://americanwirenews.com/dnc-official-says-dems-have-stench-of-loser-praises-trumps-tremendous-momentum/)
+
+[DNC official says Dems have ‘stench of loser,’ praises Trump’s ‘tremendous’ momentum](https://americanwirenews.com/dnc-official-says-dems-have-stench-of-loser-praises-trumps-tremendous-momentum/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mayorkas-220x180.png)](https://americanwirenews.com/mayorkas-claims-homeland-securitys-authority-to-incapacitate-drones-is-limited/)
+
+[Mayorkas claims Homeland Security’s authority to ‘incapacitate’ drones is ‘limited’](https://americanwirenews.com/mayorkas-claims-homeland-securitys-authority-to-incapacitate-drones-is-limited/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-sanders-manchin-sinema-220x180.jpg)](https://americanwirenews.com/dems-steaming-at-pathetic-manchin-and-sinema-for-sinking-biden-nominee/)
 
@@ -172,14 +178,6 @@ Getty Image
 
 [NYC mayor slams Biden admin for losing 500,000 migrant children, announces ‘sanctuary city’ changes](https://americanwirenews.com/nyc-mayor-slams-biden-admin-for-losing-500000-migrant-children-announces-sanctuary-city-changes/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-justin-kennedy-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/fox-host-mocks-soy-boy-trudeau-for-trump-snit-what-brand-of-tampons-do-you-use/)
-
-[Fox host mocks ‘soy boy’ Trudeau for Trump snit: ‘What brand of tampons do you use?’](https://americanwirenews.com/fox-host-mocks-soy-boy-trudeau-for-trump-snit-what-brand-of-tampons-do-you-use/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-pete-hegseth-220x180.png)](https://americanwirenews.com/we-are-back-hegseths-response-to-cnn-gets-cheers/)
-
-[We are back! Hegseth’s finger to CNN gets MAGA cheers](https://americanwirenews.com/we-are-back-hegseths-response-to-cnn-gets-cheers/)
-
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
     SIGN ME UP!
@@ -240,9 +238,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [BUSINESS](https://www.commdiginews.com/category/featured-business/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-target-hot-santa-1200x630.jpg)](https://americanwirenews.com/ladies-cant-get-enough-of-targets-non-woke-hot-santa-ads-put-me-on-the-naughty-list-please/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-steffy-djt-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/total-victory-abc-news-agrees-to-pay-trump-16m-over-defamation-suit-stephanopoulos-to-apologize/)
 
-[Ladies can’t get enough of Target’s non-woke ‘hot Santa’ ads: ‘Put me on the naughty list, please’](https://americanwirenews.com/ladies-cant-get-enough-of-targets-non-woke-hot-santa-ads-put-me-on-the-naughty-list-please/)
+[‘Total victory’: ABC News agrees to pay Trump $16M over defamation suit — Stephanopoulos to apologize](https://americanwirenews.com/total-victory-abc-news-agrees-to-pay-trump-16m-over-defamation-suit-stephanopoulos-to-apologize/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-steffy-djt-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/total-victory-abc-news-agrees-to-pay-trump-16m-over-defamation-suit-stephanopoulos-to-apologize/)
+
+[‘Total victory’: ABC News agrees to pay Trump $16M over defamation suit — Stephanopoulos to apologize](https://americanwirenews.com/total-victory-abc-news-agrees-to-pay-trump-16m-over-defamation-suit-stephanopoulos-to-apologize/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-target-hot-santa-220x180.jpg)](https://americanwirenews.com/ladies-cant-get-enough-of-targets-non-woke-hot-santa-ads-put-me-on-the-naughty-list-please/)
 
@@ -260,15 +262,15 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [California AG urges holiday shoppers to rat out stores without gender-neutral kids’ sections](https://americanwirenews.com/california-ag-urges-holiday-shoppers-to-rat-out-stores-without-gender-neutral-kids-sections/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-scott-jennings-4-220x180.jpg)](https://americanwirenews.com/la-times-adds-cnns-scott-jennings-to-editorial-board/)
-
-[LA Times adds CNN’s Scott Jennings to editorial board](https://americanwirenews.com/la-times-adds-cnns-scott-jennings-to-editorial-board/)
-
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hegseth-4-1200x630.jpg)](https://americanwirenews.com/leftist-outlet-buried-in-backlash-as-hegseth-email-is-made-public-this-isnt-journalism-its-unethical-garbage/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-vance-armynavy-1200x630.jpg)](https://americanwirenews.com/hero-daniel-penny-receives-special-welcome-as-he-joins-trump-vance-at-army-navy-game/)
 
-[Leftist outlet buried in backlash as Hegseth email is made public: ‘This isn’t journalism. It’s unethical garbage’](https://americanwirenews.com/leftist-outlet-buried-in-backlash-as-hegseth-email-is-made-public-this-isnt-journalism-its-unethical-garbage/)
+[‘Hero’ Daniel Penny receives special welcome as he joins Trump, Vance at Army-Navy game](https://americanwirenews.com/hero-daniel-penny-receives-special-welcome-as-he-joins-trump-vance-at-army-navy-game/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-vance-armynavy-220x180.jpg)](https://americanwirenews.com/hero-daniel-penny-receives-special-welcome-as-he-joins-trump-vance-at-army-navy-game/)
+
+[‘Hero’ Daniel Penny receives special welcome as he joins Trump, Vance at Army-Navy game](https://americanwirenews.com/hero-daniel-penny-receives-special-welcome-as-he-joins-trump-vance-at-army-navy-game/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hegseth-4-220x180.jpg)](https://americanwirenews.com/leftist-outlet-buried-in-backlash-as-hegseth-email-is-made-public-this-isnt-journalism-its-unethical-garbage/)
 
@@ -285,10 +287,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-maddow-220x180.jpg)](https://americanwirenews.com/rachel-maddow-links-unitedhealthcare-ceo-killer-to-trump-via-asinine-unabomber-connection/)
 
 [Rachel Maddow links UnitedHealthcare CEO killer to Trump via asinine Unabomber connection](https://americanwirenews.com/rachel-maddow-links-unitedhealthcare-ceo-killer-to-trump-via-asinine-unabomber-connection/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-klobuchar-220x180.jpg)](https://americanwirenews.com/dem-senator-demands-wray-serve-his-full-10-year-term-desantis-sets-her-straight/)
-
-[Dem senator demands Wray serve his full 10-year term, DeSantis sets her straight](https://americanwirenews.com/dem-senator-demands-wray-serve-his-full-10-year-term-desantis-sets-her-straight/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -318,9 +316,17 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-upenn-1200x630.png)](https://americanwirenews.com/socialist-upenn-professor-goes-dark-after-unwanted-attention-over-post-celebrating-ceos-murder/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-nancymsnbc1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/pelosi-gets-hip-replacement-surgery-after-nasty-spill-x-users-short-on-sympathy/)
 
-[Socialist UPenn professor goes dark after unwanted attention over post celebrating CEO’s murder](https://americanwirenews.com/socialist-upenn-professor-goes-dark-after-unwanted-attention-over-post-celebrating-ceos-murder/)
+[Pelosi gets hip replacement surgery after nasty spill – X users short on sympathy](https://americanwirenews.com/pelosi-gets-hip-replacement-surgery-after-nasty-spill-x-users-short-on-sympathy/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-nancymsnbc1-1200-x-628-220x180.jpg)](https://americanwirenews.com/pelosi-gets-hip-replacement-surgery-after-nasty-spill-x-users-short-on-sympathy/)
+
+[Pelosi gets hip replacement surgery after nasty spill – X users short on sympathy](https://americanwirenews.com/pelosi-gets-hip-replacement-surgery-after-nasty-spill-x-users-short-on-sympathy/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-garber-harvard-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/harvard-president-reportedly-tells-faculty-they-need-to-rethink-messaging-after-trump-win/)
+
+[Harvard president reportedly tells faculty they need to rethink messaging after Trump win](https://americanwirenews.com/harvard-president-reportedly-tells-faculty-they-need-to-rethink-messaging-after-trump-win/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-upenn-220x180.png)](https://americanwirenews.com/socialist-upenn-professor-goes-dark-after-unwanted-attention-over-post-celebrating-ceos-murder/)
 
@@ -333,13 +339,5 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-king-elementary-220x180.jpg)](https://americanwirenews.com/mom-mulls-suing-school-district-for-discriminating-against-her-son-because-hes-white/)
 
 [Mom mulls suing school district for discriminating against her son because he’s white](https://americanwirenews.com/mom-mulls-suing-school-district-for-discriminating-against-her-son-because-hes-white/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-paml-beach-220x180.png)](https://americanwirenews.com/member-of-violent-tren-de-aragua-gang-arrested-in-palm-beach-trumps-backyard/)
-
-[Member of violent Tren de Aragua gang arrested in Palm Beach, Trump’s backyard](https://americanwirenews.com/member-of-violent-tren-de-aragua-gang-arrested-in-palm-beach-trumps-backyard/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cuomo-1-220x180.png)](https://americanwirenews.com/ceo-killer-suspect-considered-bombing-first-his-lawyer-steals-line-from-airplane-2-at-presser/)
-
-[CEO killer suspect considered bombing first, his lawyer steals line from ‘Airplane 2’ at presser](https://americanwirenews.com/ceo-killer-suspect-considered-bombing-first-his-lawyer-steals-line-from-airplane-2-at-presser/)
 
 © 2024. All Rights Reserved. American Wire News
