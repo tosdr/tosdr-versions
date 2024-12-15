@@ -14,14 +14,6 @@ Recommendations
 
 Audio
 
-* [![Books for the Christmas Romance Fan](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/13132423/PRH_site_1200x628_Christmas_Romance_Fan.jpg)
-    
-    Books for the Christmas Romance Fan
-    
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/holiday-romantic-comedies/)
-
-* * *
-
 * [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
     
     Audiobooks for Kids
@@ -30,11 +22,19 @@ Audio
 
 * * *
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/12/08132549/PRH_Site_1200x628_DEC2024.jpg)
+* [![The Best Picture Books of 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/25110717/best-books-2024-600x314-picture.jpg)
     
-    New Releases
+    The Best Picture Books of 2024
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-december/)
+    Learn More >](https://www.readbrightly.com/picture-books-2024/)
+
+* * *
+
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
+    
+    Browse All Our Lists, Essays, and Interviews
+    
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
 * <
     
