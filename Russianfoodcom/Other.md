@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -166,6 +166,48 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Салат с фасолью, кукурузой, перцем и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174935) |     |
+
+[![Фото к рецепту: Салат с фасолью, кукурузой, перцем и помидорами](//img1.russianfood.com/dycontent/images_upl/761/sm_760757.jpg "Фото к рецепту: Салат с фасолью, кукурузой, перцем и помидорами")](https://www.russianfood.com/recipes/recipe.php?rid=174935)
+
+Салат с фасолью, кукурузой, перцем и помидорами получается питательным, витаминным и ярким благодаря разноцветным компонентам. Сочетание сочных овощей и питательной фасоли создает идеальный баланс вкуса и пользы. Заправляется салат смесью оливкового масла, соевого соуса, лимонного сока и горчицы в зёрнах.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174935)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174935#comments) | 15.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Слоёный салат со шпротами, сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174936) |     |
+
+[![Фото к рецепту: Слоёный салат со шпротами, сыром и зелёным горошком](//img1.russianfood.com/dycontent/images_upl/761/sm_760273.jpg "Фото к рецепту: Слоёный салат со шпротами, сыром и зелёным горошком")](https://www.russianfood.com/recipes/recipe.php?rid=174936)
+
+Слоёный салат со шпротами, сыром и зелёным горошком - идеальный рецепт для застолья. Яркий рыбный вкус, деликатная сливочность сыра, питательность яиц и зелёного горошка отлично дополняют друг друга. На праздничном столе такой салат смотрится очень аппетитно!
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174936)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174936#comments) | 15.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Салат с крабовыми палочками, ананасами и маслинами](https://www.russianfood.com/recipes/recipe.php?rid=174933) |     |
+
+[![Фото к рецепту: Салат с крабовыми палочками, ананасами и маслинами](//img1.russianfood.com/dycontent/images_upl/761/sm_760310.jpg "Фото к рецепту: Салат с крабовыми палочками, ананасами и маслинами")](https://www.russianfood.com/recipes/recipe.php?rid=174933)
+
+Идеально простой и необыкновенно вкусный салат с крабовыми палочками, ананасами и маслинами. Сочетание сладкой консервированной кукурузы, сочных ананасов и крабовых палочек прекрасно подходит для праздничного блюда.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174933)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174933#comments) | 15.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -335,48 +377,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Благотворительность](https://www.russianfood.com/blogs/?id=276205) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22986#comments) | 12.12.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Каждый со своим настроением. Лучшие СУПЫ №24-50](https://www.russianfood.com/reading/?post_id=22983) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/745/sm_744486.jpg)](https://www.russianfood.com/reading/?post_id=22983)
-
-Сырный суп с цветной капустой, грибами и сливками. Рыбный суп с тыквой и сливками. Сырный суп с грибами и брокколи. Суп с фаршем и бататом. Суп с брокколи и чечевицей. Томатный суп с цветной капустой. Борщ с тыквой.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22983)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22983#comments) | 12.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Сырный суп с шампиньонами и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174952) |     |
-
-[![Фото к рецепту: Сырный суп с шампиньонами и брокколи](//img1.russianfood.com/dycontent/images_upl/759/sm_758712.jpg "Фото к рецепту: Сырный суп с шампиньонами и брокколи")](https://www.russianfood.com/recipes/recipe.php?rid=174952)
-
-В кастрюле сперва обжариваются шампиньоны. Затем грибы готовятся несколько минут вместе с картофелем, морковью и капустой брокколи. Лук в рецепте не используется. Всё заливается водой, и в конце приготовления в суп добавляется плавленый сыр.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174952)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174952#comments) | 12.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Рыбный суп с тыквой и сливками](https://www.russianfood.com/recipes/recipe.php?rid=174953) |     |
-
-[![Фото к рецепту: Рыбный суп с тыквой и сливками](//img1.russianfood.com/dycontent/images_upl/759/sm_758757.jpg "Фото к рецепту: Рыбный суп с тыквой и сливками")](https://www.russianfood.com/recipes/recipe.php?rid=174953)
-
-Рыбный суп с тыквой и сливками - очень нежный суп со сливочно-сладким послевкусием.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174953)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=174953#comments) | 12.12.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -444,6 +444,13 @@
 |     |     |
 | [Подписаться письмом](mailto:home.cookery.prostierecepti-sub@subscribe.ru?subj=subscribe) |     |
 
+Новые рецепты:
+
+|     |     |     |
+| --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760273.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174936) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760757.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174935) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760310.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174933) |
+| [Слоёный салат со шпротами, сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174936) | [Салат с фасолью, кукурузой, перцем и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174935) | [Салат с крабовыми палочками, ананасами и маслинами](https://www.russianfood.com/recipes/recipe.php?rid=174933) |
+
 |     |     |     |
 | --- | --- | --- |
 | ![](//img1.russianfood.com/images/common/bottom_line1.jpg) | ![](//img1.russianfood.com/images/common/bottom_line2.jpg) |     |
@@ -459,4 +466,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(130)
+(94)
