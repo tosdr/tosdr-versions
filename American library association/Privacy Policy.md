@@ -113,7 +113,7 @@ This Privacy Policy applies only to the Services, and ALA’s collection, use, d
 
 Before accessing, using, or interacting with the Services you should carefully review the terms and conditions of this Privacy Policy.
 
-### **Eligibility to Use the Services**
+### Eligibility to Use the Services
 
 The Services are not directed to children under the age of 16. You may not use the Services if you are under the age of 16.
 
@@ -124,7 +124,8 @@ ALA collects data about you and your use of the Services (“**Personal Data**�
 
 ALA processes Personal Data collected through the Services on the lawful basis of legitimate interests to provide the Services to you. Such processing is necessary for the purposes of the legitimate interests pursued by ALA or by our Service Providers related to the Services.
 
-### The types of information ALA may collect about you include:
+The types of information ALA may collect about you include:
+-----------------------------------------------------------
 
 ### Information You Provide to Us
 
@@ -179,7 +180,7 @@ ALA may also collect information about you from publicly available sources. Info
 
 ### ALA Personnel
 
-ALA’s personnel may have access to your information as needed to provide and operate the Services in the normal course of business. This includes information regarding your use and interaction with the Services.
+ALA’s personnel may have access to your information, including mobile information and other contact information, as needed to provide and operate the Services in the normal course of business. This includes information regarding your use and interaction with the Services. No mobile information will be shared with parties/affiliates for marketing/promotional purposes.
 
 ### Service Providers
 
@@ -267,16 +268,12 @@ Contact ALA
 -----------
 
 Data Protection Officer  
-  
 American Library Association  
-  
 225 N Michigan Ave | Suite 1300  
-  
 Chicago, IL 60601  
-  
-[data-protection-officer@ala.org](mailto:data-protection-officer@ala.org?subject=Privacy%20Policy%20Inquiry)
+[**data-protection-officer@ala.org**](mailto:data-protection-officer@ala.org?subject=Privacy%20Policy%20Inquiry)
 
-Page last updated 8/16/2022
+Page last updated 12/15/2024
 
 * [![Email icon](/themes/custom/ala/assets/images/svg/email-2.svg)
     
