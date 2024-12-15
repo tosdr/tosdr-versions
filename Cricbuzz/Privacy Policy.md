@@ -38,7 +38,7 @@ More
 
 My Account Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Stumps")[NZ vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-england-tour-of-new-zealand-2024 "New Zealand v England, 3rd Test - Stumps")[ZIM vs AFG - AFG Won](https://www.cricbuzz.com/live-cricket-scores/109334/zim-vs-afg-3rd-t20i-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 3rd T20I - AFG Won")[RSA vs PAK - Abandon](https://www.cricbuzz.com/live-cricket-scores/94336/rsa-vs-pak-3rd-t20i-pakistan-tour-of-south-africa-2024-25 "South Africa v Pakistan, 3rd T20I - Abandon")[PRS vs MLS - Preview](https://www.cricbuzz.com/live-cricket-scores/101564/prs-vs-mls-1st-match-big-bash-league-2024-25 "Perth Scorchers v Melbourne Stars, 1st Match - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Live](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Live")[NZ vs ENG - Live](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-england-tour-of-new-zealand-2024 "New Zealand v England, 3rd Test - Live")[ZIM vs AFG - AFG Won](https://www.cricbuzz.com/live-cricket-scores/109334/zim-vs-afg-3rd-t20i-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 3rd T20I - AFG Won")[RSA vs PAK - Abandon](https://www.cricbuzz.com/live-cricket-scores/94336/rsa-vs-pak-3rd-t20i-pakistan-tour-of-south-africa-2024-25 "South Africa v Pakistan, 3rd T20I - Abandon")[PRS vs MLS - Preview](https://www.cricbuzz.com/live-cricket-scores/101564/prs-vs-mls-1st-match-big-bash-league-2024-25 "Perth Scorchers v Melbourne Stars, 1st Match - Preview")
 
 AllLive NowToday
 
@@ -46,13 +46,13 @@ AllLive NowToday
     
     Australia v India
     
-    [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Stumps")
+    [Australia vs India  LIVE](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Live")
     
     3rd Test
     
 * New Zealand v England, 2024
     
-    [New Zealand vs England](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-new-zealand-v-england-2024 "New Zealand v England, 3rd Test - Stumps")
+    [New Zealand vs England  LIVE](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-new-zealand-v-england-2024 "New Zealand v England, 3rd Test - Live")
     
     3rd Test
     
@@ -102,15 +102,7 @@ AllLive NowToday
     
 * ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024
     
-    [Bahamas vs Cayman Islands](https://www.cricbuzz.com/live-cricket-scores/111445/bhm-vs-caym-match-23-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Cayman Islands, Match 23 - CAYM Won")
-    
-    Match 23
-    
-* [Bermuda vs Belize](https://www.cricbuzz.com/live-cricket-scores/111449/ber-vs-blz-match-24-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Belize, Match 24 - BER Won")
-    
-    Match 24
-    
-* [Bahamas vs Suriname](https://www.cricbuzz.com/live-cricket-scores/111461/bhm-vs-sn-match-26-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Suriname, Match 26 - BHM Won")
+    [Bahamas vs Suriname](https://www.cricbuzz.com/live-cricket-scores/111461/bhm-vs-sn-match-26-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Suriname, Match 26 - BHM Won")
     
     Match 26
     
@@ -118,11 +110,11 @@ AllLive NowToday
     
     Match 25
     
-* [Mexico vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111477/mex-vs-arg-match-28-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Mexico v Argentina, Match 28 - Upcoming")
+* [Mexico vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111477/mex-vs-arg-match-28-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Mexico v Argentina, Match 28 - Toss")
     
     Match 28
     
-* [Panama vs Belize](https://www.cricbuzz.com/live-cricket-scores/111469/pan-vs-blz-match-27-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Belize, Match 27 - Upcoming")
+* [Panama vs Belize](https://www.cricbuzz.com/live-cricket-scores/111469/pan-vs-blz-match-27-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Belize, Match 27 - Toss")
     
     Match 27
     
@@ -134,13 +126,13 @@ AllLive NowToday
     
     Match 29
     
-* [Bahamas vs Bermuda](https://www.cricbuzz.com/live-cricket-scores/111493/bhm-vs-ber-match-31-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Bermuda, Match 31 - Upcoming")
-    
-    Match 31
-    
 * [Panama vs Mexico](https://www.cricbuzz.com/live-cricket-scores/111497/pan-vs-mex-match-32-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Mexico, Match 32 - Upcoming")
     
     Match 32
+    
+* [Bahamas vs Bermuda](https://www.cricbuzz.com/live-cricket-scores/111493/bhm-vs-ber-match-31-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Bermuda, Match 31 - Upcoming")
+    
+    Match 31
     
 * [Mexico vs Bahamas](https://www.cricbuzz.com/live-cricket-scores/111513/mex-vs-bhm-match-34-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Mexico v Bahamas, Match 34 - Upcoming")
     
@@ -174,11 +166,7 @@ AllLive NowToday
     
 * West Indies v Bangladesh, 2024
     
-    [Bangladesh vs West Indies](https://www.cricbuzz.com/live-cricket-scores/95227/ban-vs-wi-3rd-odi-west-indies-v-bangladesh-2024 "Bangladesh v West Indies, 3rd ODI - WI Won")
-    
-    3rd ODI
-    
-* [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95232/wi-vs-ban-1st-t20i-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 1st T20I - Upcoming")
+    [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95232/wi-vs-ban-1st-t20i-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 1st T20I - Upcoming")
     
     1st T20I
     
@@ -276,7 +264,7 @@ AllLive NowToday
     
     12th Match
     
-* [Limpopo vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/104378/limpo-vs-ncape-11th-match-csa-four-day-series-division-two-2024-25 "Limpopo v Northern Cape, 11th Match - Stumps")
+* [Limpopo vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/104378/limpo-vs-ncape-11th-match-csa-four-day-series-division-two-2024-25 "Limpopo v Northern Cape, 11th Match - NCAPE Won")
     
     11th Match
     
@@ -605,37 +593,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [Amidst Test recall jeopardy, Shami picked in Bengal's VHT squad](https://www.cricbuzz.com/cricket-news/132762/amidst-test-recall-jeopardy-shami-picked-in-bengals-vht-squad "Amidst Test recall jeopardy, Shami picked in Bengal's VHT squad")
 
-50m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132761/crickets-lesser-spotted-test-comes-to-bloemfontein "Cricket's lesser spotted test comes to Bloemfontein")
 
 [Cricket's lesser spotted test comes to Bloemfontein](https://www.cricbuzz.com/cricket-news/132761/crickets-lesser-spotted-test-comes-to-bloemfontein "Cricket's lesser spotted test comes to Bloemfontein")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132760/new-zealand-pick-uncapped-bella-james-for-australia-odis "New Zealand pick uncapped Bella James for Australia ODIs")
 
 [New Zealand pick uncapped Bella James for Australia ODIs](https://www.cricbuzz.com/cricket-news/132760/new-zealand-pick-uncapped-bella-james-for-australia-odis "New Zealand pick uncapped Bella James for Australia ODIs")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132759/resilience-of-madhya-pradesh-takes-on-the-might-of-mumbai-in-the-big-finale "Resilience of Madhya Pradesh takes on the might of Mumbai in the big finale")
 
 [Resilience of Madhya Pradesh takes on the might of Mumbai in the big finale](https://www.cricbuzz.com/cricket-news/132759/resilience-of-madhya-pradesh-takes-on-the-might-of-mumbai-in-the-big-finale "Resilience of Madhya Pradesh takes on the might of Mumbai in the big finale")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132758/nabi-seals-nervy-win-to-clinch-series-for-afghanistan "Nabi seals nervy win to clinch series for Afghanistan")
 
 [Nabi seals nervy win to clinch series for Afghanistan](https://www.cricbuzz.com/cricket-news/132758/nabi-seals-nervy-win-to-clinch-series-for-afghanistan "Nabi seals nervy win to clinch series for Afghanistan")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132757/no-drs-for-south-africa-england-womens-test "No DRS for South Africa, England women's Test")
 
 [No DRS for South Africa, England women's Test](https://www.cricbuzz.com/cricket-news/132757/no-drs-for-south-africa-england-womens-test "No DRS for South Africa, England women's Test")
 
-3h ago
+9h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
