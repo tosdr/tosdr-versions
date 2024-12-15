@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2044'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2029'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/servers-80x44.jpg.optimal.jpg)](https://thebackroomtech.com/2019/07/05/creating-an-sofs-share-on-s2d-using-virtual-machines/ "Creating an SOFS Share on S2D using Virtual Machines")[Creating an SOFS Share on S2D using Virtual Machines](https://thebackroomtech.com/2019/07/05/creating-an-sofs-share-on-s2d-using-virtual-machines/ "Creating an SOFS Share on S2D using Virtual Machines")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2030'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/microsoft-azure-files-80x29.png)](https://thebackroomtech.com/2019/01/15/setting-up-a-microsoft-azure-files-file-share/ "Setting Up A Microsoft Azure Files File Share")[Setting Up A Microsoft Azure Files File Share](https://thebackroomtech.com/2019/01/15/setting-up-a-microsoft-azure-files-file-share/ "Setting Up A Microsoft Azure Files File Share")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2026'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/suse-linux-80x30.png)](https://thebackroomtech.com/2008/08/11/howto-mount-a-usb-device-in-suse-linux/ "Howto: Mount a USB Device in SuSE Linux")[Howto: Mount a USB Device in SuSE Linux](https://thebackroomtech.com/2008/08/11/howto-mount-a-usb-device-in-suse-linux/ "Howto: Mount a USB Device in SuSE Linux")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2043'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2008-80x26.png)](https://thebackroomtech.com/2008/03/24/marks-windows-2008-dns-server-command-line-cheat-sheet/ "Mark’s Windows 2008 DNS Server Command Line Cheat Sheet")[Mark’s Windows 2008 DNS Server Command Line Cheat Sheet](https://thebackroomtech.com/2008/03/24/marks-windows-2008-dns-server-command-line-cheat-sheet/ "Mark’s Windows 2008 DNS Server Command Line Cheat Sheet")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2077%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/cisco-config-80x43.png)](https://thebackroomtech.com/2008/06/05/howto-export-3com-4xxx-family-switch-configurations-to-a-text-file-for-backup-and-change-management/ "How to Export 3com 4xxx Family Switch Configurations to a Text File for Backup and Change Management")[How to Export 3com 4xxx Family Switch Configurations to a Text File for Backup and Change Management](https://thebackroomtech.com/2008/06/05/howto-export-3com-4xxx-family-switch-configurations-to-a-text-file-for-backup-and-change-management/ "How to Export 3com 4xxx Family Switch Configurations to a Text File for Backup and Change Management")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2037'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/1-xenapp-install-77x52.png)](https://thebackroomtech.com/2018/04/09/simple-citrix-xenapp-install-and-deployment-step-by-step/ "Simple Citrix XenApp Install and Deployment – Step-by-Step")[Simple Citrix XenApp Install and Deployment – Step-by-Step](https://thebackroomtech.com/2018/04/09/simple-citrix-xenapp-install-and-deployment-step-by-step/ "Simple Citrix XenApp Install and Deployment – Step-by-Step")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/cacti-80x37.jpeg.optimal.jpeg)](https://thebackroomtech.com/2021/03/15/how-to-install-cacti-on-ubuntu-20-04-lts-server/ "How to Install Cacti on Ubuntu 20.04 LTS Server")[How to Install Cacti on Ubuntu 20.04 LTS Server](https://thebackroomtech.com/2021/03/15/how-to-install-cacti-on-ubuntu-20-04-lts-server/ "How to Install Cacti on Ubuntu 20.04 LTS Server")
+    ![](https://s11921.pcdn.co/wp-content/uploads/active-directory-1-80x52.jpeg.optimal.jpeg)](https://thebackroomtech.com/2019/03/18/fix-active-directory-1818-error-during-dcpromo/ "Fix Active Directory 1818 Error during DCPromo")[Fix Active Directory 1818 Error during DCPromo](https://thebackroomtech.com/2019/03/18/fix-active-directory-1818-error-during-dcpromo/ "Fix Active Directory 1818 Error during DCPromo")
 
 #### Our Publishing Family
 
