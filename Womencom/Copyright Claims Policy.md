@@ -43,32 +43,20 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![](https://www.women.com/img/gallery/taylor-swifts-most-iconic-eras-tour-outfits-ranked/intro-1734033449.jpg)](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
+*  [![Sabrina Carpenter smiling and looking to the side](https://www.women.com/img/gallery/the-best-dating-advice-we-learned-from-sabrina-carpenter-songs/intro-1733761713.jpg)](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Relationships](https://www.women.com/category/relationships/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Rose McMackin
+    [Relationships](https://www.women.com/category/relationships/) By Madison Emily Whisenand
     
-    [Taylor Swift's Most Iconic Eras Tour Outfits, Ranked](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
-    ===================================================================================================================================
+    [The Best Dating Advice We Learned From Sabrina Carpenter Songs](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+    ===========================================================================================================================================
     
-    After nearly two years, the Eras Tour is officially over. But the memorable looks Taylor Swift brought to the stage left their mark on fashion history.
+    Aside from cheeky lyrics and catchy melodies, one of the things that makes Sabrina Carpenter's music so compelling is its diaristic element.
     
-    By Rose McMackin [Read More](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
+    By Madison Emily Whisenand [Read More](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
     
-* *  [![Sabrina Carpenter smiling and looking to the side](https://www.women.com/img/gallery/the-best-dating-advice-we-learned-from-sabrina-carpenter-songs/intro-1733761713.jpg)](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
-        
-        [Relationships](https://www.women.com/category/relationships/)
-        
-        [Relationships](https://www.women.com/category/relationships/) By Madison Emily Whisenand
-        
-        ### [The Best Dating Advice We Learned From Sabrina Carpenter Songs](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
-        
-        Aside from cheeky lyrics and catchy melodies, one of the things that makes Sabrina Carpenter's music so compelling is its diaristic element.
-        
-        By Madison Emily Whisenand [Read More](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
-        
-    *  [![A woman with winged eyeliner and pink lipstick](https://www.women.com/img/gallery/outdated-beauty-trends-to-leave-in-2024/intro-1733768782.jpg)](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+* *  [![A woman with winged eyeliner and pink lipstick](https://www.women.com/img/gallery/outdated-beauty-trends-to-leave-in-2024/intro-1733768782.jpg)](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -79,6 +67,18 @@
         As new trends take hold in the new year, some of the most popular 2024 beauty looks are being left behind, including matte makeup and hydro hair.
         
         By Bernadette Roe [Read More](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+        
+    *  [![Taylor Swift onstage with an acoustic guitar](https://www.women.com/img/gallery/taylor-swifts-most-iconic-eras-tour-outfits-ranked/intro-1734033449.jpg)](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Rose McMackin
+        
+        ### [Taylor Swift's Most Iconic Eras Tour Outfits, Ranked](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
+        
+        After nearly two years, the Eras Tour is officially over. But the memorable looks Taylor Swift brought to the stage left their mark on fashion history.
+        
+        By Rose McMackin [Read More](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
         
 
 More Stories
