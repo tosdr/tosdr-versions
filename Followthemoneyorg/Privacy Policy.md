@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Donations to Ballot Measure Committees, by Industry, 2016](/assets/Images/teasers/small/Ballot-measures-by-industry.JPG)](https://www.followthemoney.org/research/institute-reports/2016-ballot-measures-overview)
+[![Bail Bond Industry Political Spending, By Type, 2009-2017](/assets/Images/teasers/small/bail-bond.JPG)](https://www.followthemoney.org/research/institute-reports/bail-bond-businesses-buck-for-bookings)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
