@@ -26,9 +26,9 @@
 
 [](https://amzn.to/45JqVq9)
 
-[](https://amzn.to/4cdoFKu)
-
 [](https://drawabox.com/rec/bucci/digitalpainting)
+
+[](https://drawabox.com/rec/proko/figuredrawing)
 
 [](https://amzn.to/4cDKBhz)
 
