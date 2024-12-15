@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr government government is force](/freeblr/government/government-is-force/card.svg)](https://jarick.works/freeblr/government/government-is-force)[![spekr what is communism](/spekr/what-is-communism/card.svg)](https://jarick.works/spekr/what-is-communism)[![freeblr war day of infamy july 26 1941](/freeblr/war/day-of-infamy-july-26-1941/card.svg)](https://jarick.works/freeblr/war/day-of-infamy-july-26-1941)[![freeblr government democracy is slavery](/freeblr/government/democracy-is-slavery/card.svg)](https://jarick.works/freeblr/government/democracy-is-slavery)
+[![freeblr religion the stone mover](/freeblr/religion/the-stone-mover/card.svg)](https://jarick.works/freeblr/religion/the-stone-mover)[![spekr what is liberalism](/spekr/what-is-liberalism/card.svg)](https://jarick.works/spekr/what-is-liberalism)[![freeblr faq arent anarchists terrorists](/freeblr/faq/arent-anarchists-terrorists/card.svg)](https://jarick.works/freeblr/faq/arent-anarchists-terrorists)[![freeblr economics free markets and monopoly](/freeblr/economics/free-markets-and-monopoly/card.svg)](https://jarick.works/freeblr/economics/free-markets-and-monopoly)
 
 [Follow](#follow)
 
