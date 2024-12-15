@@ -23,7 +23,7 @@ Israel
 Types of Data collected
 -----------------------
 
-Among the types of Personal Data that Royal Road collects, by itself or through third parties, there are: Cookies; Usage Data; email address; username; gender; date of birth; password; website; profile picture; picture; various types of Data; number of Users; city; device information; session statistics; latitude (of city); longitude (of city); browser information; User ID; page views; device logs; operating systems; browsing history; clicks; interaction events; scroll-to-page interactions; scroll position; crash data.
+Among the types of Personal Data that Royal Road collects, by itself or through third parties, there are: Cookies; Usage Data; email address; username; gender; date of birth; password; profile picture; website; picture; various types of Data; number of Users; city; device information; session statistics; latitude (of city); longitude (of city); browser information; User ID; page views; device logs; operating systems; browsing history; clicks; interaction events; scroll-to-page interactions; scroll position; crash data.
 
 Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.  
 Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using Royal Road.  
@@ -54,7 +54,7 @@ Unless specified otherwise in this document, Personal Data shall be processed an
 The purposes of processing
 --------------------------
 
-The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Analytics, Contacting the User, Traffic optimization and distribution, Handling payments, Commercial affiliation, Content commenting, Managing contacts and sending messages, Registration and authentication, SPAM protection, Advertising, Tag Management, Displaying content from external platforms, Social features, Infrastructure monitoring and Content performance and features testing (A/B testing).
+The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following: Analytics, Contacting the User, Traffic optimization and distribution, Handling payments, Commercial affiliation, Content commenting, Managing contacts and sending messages, Registration and authentication provided directly by Royal Road, SPAM protection, Advertising, Tag Management, Displaying content from external platforms, Registration and authentication, Social features, Infrastructure monitoring and Content performance and features testing (A/B testing).
 
 For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
 
@@ -442,6 +442,12 @@ Personal Data is collected for the following purposes and using the following se
     
     * a Sale in Virginia, Colorado, Connecticut, Utah, Texas, Oregon, Nevada, Delaware, Iowa, New Hampshire, New Jersey, Nebraska and Montana
     
+    #### BlueSnap (BlueSnap, Inc.)
+    
+    BlueSnap is a payment service provided by BlueSnap Inc., which allows Users to make online payments.  
+      
+    Place of processing: United States – [Privacy Policy](https://www.bluesnap.com/legal/privacy-policy/).
+    
 * ### Infrastructure monitoring
     
     This type of service allows Royal Road to monitor the use and behavior of its components so its performance, operation, maintenance and troubleshooting can be improved.  
@@ -497,17 +503,8 @@ Personal Data is collected for the following purposes and using the following se
 * ### Registration and authentication
     
     By registering or authenticating, Users allow Royal Road to identify them and give them access to dedicated services.  
-    Depending on what is described below, third parties may provide registration and authentication services. In this case, Royal Road will be able to access some Data, stored by these third party services, for registration or identification purposes.
-    
-    #### Direct registration (Royal Road)
-    
-    The User registers by filling out the registration form and providing the Personal Data directly to Royal Road.
-    
-    Personal Data processed: date of birth; email address; gender; password; profile picture; username; website.
-    
-    Category of Personal Information collected according to the CCPA: identifiers; biometric information; internet or other electronic network activity information; audio, electronic, visual, thermal, olfactory, or similar information.
-    
-    This processing constitutes:
+    Depending on what is described below, third parties may provide registration and authentication services. In this case, Royal Road will be able to access some Data, stored by these third-party services, for registration or identification purposes.  
+    Some of the services listed below may also collect Personal Data for targeting and profiling purposes; to find out more, please refer to the description of each service.
     
     #### Facebook Authentication (Facebook, Inc.)
     
@@ -563,6 +560,18 @@ Personal Data is collected for the following purposes and using the following se
     
     * a Sale in California
     
+* ### Registration and authentication provided directly by Royal Road
+    
+    By registering or authenticating, Users allow Royal Road to identify them and give them access to dedicated services. The Personal Data is collected and stored for registration or identification purposes only. The Data collected are only those necessary for the provision of the service requested by the Users.
+    
+    #### Direct registration (Royal Road)
+    
+    The User registers by filling out the registration form and providing the Personal Data directly to Royal Road.
+    
+    Personal Data processed: date of birth; email address; gender; password; profile picture; username; website.
+    
+    Category of Personal Information collected according to the CCPA: identifiers; internet or other electronic network activity information; audio, electronic, visual, thermal, olfactory, or similar information.
+    
 * ### Social features
     
     #### Public profile (Royal Road)
@@ -615,6 +624,16 @@ Personal Data is collected for the following purposes and using the following se
     Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
     
     This processing constitutes:
+    
+    #### OpenAI API
+    
+    The OpenAI API provided by OpenAI, L.L.C. is a service that helps the Owner to automate tasks through its AI engine.  
+      
+    We use OpenAI APIs only for the purpose of spam detection and classification to reduce false positives occurring during spam checks.  
+      
+    Place of processing: United States – [Privacy Policy](https://openai.com/policies/row-privacy-policy/).  
+      
+    [Data processing addendum](https://openai.com/policies/data-processing-addendum/)
     
 * ### Tag Management
     
@@ -806,7 +825,7 @@ _While such categorization of Personal Information is mainly based on California
 
 * ### Internet or other electronic network activity information
     
-    **Personal Information collected or disclosed:** Cookies, Usage Data, various types of Data as specified in the privacy policy of the service, email address, gender, date of birth, website, profile picture, various types of Data, Tracker, Trackers, number of Users, city, device information, session statistics, latitude (of city), longitude (of city), browser information, User ID, page views, device logs, operating systems, browsing history, clicks, interaction events, scroll-to-page interactions, scroll position, crash data
+    **Personal Information collected or disclosed:** Cookies, Usage Data, various types of Data as specified in the privacy policy of the service, email address, gender, date of birth, profile picture, website, various types of Data, Tracker, Trackers, number of Users, city, device information, session statistics, latitude (of city), longitude (of city), browser information, User ID, page views, device logs, operating systems, browsing history, clicks, interaction events, scroll-to-page interactions, scroll position, crash data
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username, password
     
@@ -818,12 +837,13 @@ _While such categorization of Personal Information is mainly based on California
     * Commercial affiliation
     * Further information about Personal Data
     * Content commenting
-    * Registration and authentication
+    * Registration and authentication provided directly by Royal Road
     * SPAM protection
     * Advertising
     * Managing contacts and sending messages
     * Tag Management
     * Displaying content from external platforms
+    * Registration and authentication
     * Social features
     * Content performance and features testing (A/B testing)
     
@@ -839,7 +859,7 @@ _While such categorization of Personal Information is mainly based on California
     
 * ### Identifiers
     
-    **Personal Information collected or disclosed:** email address, Cookies, Usage Data, gender, date of birth, website, profile picture, picture, various types of Data as specified in the privacy policy of the service, Trackers, number of Users, city, device information, session statistics, latitude (of city), longitude (of city), browser information, various types of Data, User ID
+    **Personal Information collected or disclosed:** email address, Cookies, Usage Data, gender, date of birth, profile picture, website, picture, various types of Data as specified in the privacy policy of the service, Trackers, number of Users, city, device information, session statistics, latitude (of city), longitude (of city), browser information, various types of Data, User ID
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username, password
     
@@ -848,11 +868,12 @@ _While such categorization of Personal Information is mainly based on California
     * Contacting the User
     * Content commenting
     * Managing contacts and sending messages
-    * Registration and authentication
+    * Registration and authentication provided directly by Royal Road
     * Social features
     * Advertising
     * Infrastructure monitoring
     * Analytics
+    * Registration and authentication
     * Further information about Personal Data
     
     **Retention period:** for the time necessary to fulfill the purpose
@@ -865,33 +886,15 @@ _While such categorization of Personal Information is mainly based on California
     
     **Service providers or contractors:** Royal Road, Royal Road, Functional Software, Inc.
     
-* ### Biometric information
-    
-    **Personal Information collected or disclosed:** gender, date of birth, email address, website, profile picture
-    
-    **Sensitive Personal Information collected or disclosed ℹ️:** username, password
-    
-    **Purposes:**
-    
-    * Registration and authentication
-    
-    **Retention period:** for the time necessary to fulfill the purpose
-    
-    **Sold or Shared ℹ️:** Yes
-    
-    **Targeted Advertising: ℹ️:** Yes
-    
-    **Service providers or contractors:** Royal Road
-    
 * ### Audio, electronic, visual, thermal, olfactory, or similar information
     
-    **Personal Information collected or disclosed:** gender, date of birth, email address, website, profile picture, picture
+    **Personal Information collected or disclosed:** gender, date of birth, email address, profile picture, website, picture
     
     **Sensitive Personal Information collected or disclosed ℹ️:** username, password
     
     **Purposes:**
     
-    * Registration and authentication
+    * Registration and authentication provided directly by Royal Road
     * Social features
     
     **Retention period:** for the time necessary to fulfill the purpose
@@ -1085,7 +1088,7 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to Royal Road, if not stated otherwise within this document.
 
-Latest update: July 03, 2023
+Latest update: December 15, 2024
 
 [iubenda](https://www.iubenda.com/en/privacy-and-cookie-policy-generator "iubenda - Privacy Policy generator") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
