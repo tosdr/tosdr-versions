@@ -26,13 +26,13 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-favreau-1200x630.jpg)](https://americanwirenews.com/former-obama-bro-rages-at-zuckerbergs-trump-donation-there-are-few-humans-more-full-of-st/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-nancymsnbc1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/pelosi-gets-hip-replacement-surgery-after-nasty-spill-x-users-short-on-sympathy/)
 
-[Former ‘Obama bro’ rages at Zuckerberg’s Trump donation: ‘There are few humans more full of s\*\*t…’](https://americanwirenews.com/former-obama-bro-rages-at-zuckerbergs-trump-donation-there-are-few-humans-more-full-of-st/)
+[Pelosi gets hip replacement surgery after nasty spill – X users short on sympathy](https://americanwirenews.com/pelosi-gets-hip-replacement-surgery-after-nasty-spill-x-users-short-on-sympathy/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-garber-harvard-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/harvard-president-reportedly-tells-faculty-they-need-to-rethink-messaging-after-trump-win/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-steffy-djt-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/total-victory-abc-news-agrees-to-pay-trump-16m-over-defamation-suit-stephanopoulos-to-apologize/)
 
-[Harvard president reportedly tells faculty they need to rethink messaging after Trump win](https://americanwirenews.com/harvard-president-reportedly-tells-faculty-they-need-to-rethink-messaging-after-trump-win/)
+[‘Total victory’: ABC News agrees to pay Trump $16M over defamation suit — Stephanopoulos to apologize](https://americanwirenews.com/total-victory-abc-news-agrees-to-pay-trump-16m-over-defamation-suit-stephanopoulos-to-apologize/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-biden-1200x630.jpeg)](https://americanwirenews.com/bidens-sentence-commutations-include-scranton-kids-for-cash-judge-fmr-illinois-official-who-stole-35m/)
 
@@ -62,11 +62,13 @@ Search for:
 
 [Michael Moore wants to ‘pour gasoline’ on health insurance company anger](https://americanwirenews.com/michael-moore-wants-to-pour-gasoline-on-health-insurance-company-anger/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hegseth-4-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-vance-armynavy-1200x630.jpg)
 
-### Leftist outlet buried in backlash as Hegseth email is made public: ‘This isn’t journalism. It’s unethical garbage’](https://americanwirenews.com/leftist-outlet-buried-in-backlash-as-hegseth-email-is-made-public-this-isnt-journalism-its-unethical-garbage/)
+### ‘Hero’ Daniel Penny receives special welcome as he joins Trump, Vance at Army-Navy game](https://americanwirenews.com/hero-daniel-penny-receives-special-welcome-as-he-joins-trump-vance-at-army-navy-game/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
+
+### [Former ‘Obama bro’ rages at Zuckerberg’s Trump donation: ‘There are few humans more full of s\*\*t…’](https://americanwirenews.com/former-obama-bro-rages-at-zuckerbergs-trump-donation-there-are-few-humans-more-full-of-st/)
 
 ### [San Diego County Sheriff will not adhere to Board of Supervisors ‘super sanctuary’ policy](https://americanwirenews.com/san-diego-county-sheriff-will-not-adhere-to-board-of-supervisors-super-sanctuary-policy/)
 
@@ -78,9 +80,11 @@ Search for:
 
 ### [DeSantis draws competition when he advises Daniel Penny to come to Florida ‘to get his life back’](https://americanwirenews.com/desantis-draws-competition-when-he-advises-daniel-penny-to-come-to-florida-to-get-his-life-back/)
 
-### [Megyn Kelly blasts WNBA phenom Caitlin Clark for ‘self-flagellation’ over white supremacy myth](https://americanwirenews.com/megyn-kelly-blasts-wnba-phenom-caitlin-clark-for-self-flagellation-over-white-supremacy-myth/)
-
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-chris-djt-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-drops-wicked-chris-christie-meme-over-nj-drone-mystery/)
+
+[Trump drops wicked Chris Christie meme over NJ drone mystery](https://americanwirenews.com/trump-drops-wicked-chris-christie-meme-over-nj-drone-mystery/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-sanders-manchin-sinema-220x180.jpg)](https://americanwirenews.com/dems-steaming-at-pathetic-manchin-and-sinema-for-sinking-biden-nominee/)
 
@@ -176,10 +180,6 @@ Getty Image
 
 [We are back! Hegseth’s finger to CNN gets MAGA cheers](https://americanwirenews.com/we-are-back-hegseths-response-to-cnn-gets-cheers/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-murkowski-220x180.jpg)](https://americanwirenews.com/rino-senator-invokes-ronald-reagan-to-explain-bucking-trump/)
-
-[RINO senator invokes Ronald Reagan to explain bucking Trump](https://americanwirenews.com/rino-senator-invokes-ronald-reagan-to-explain-bucking-trump/)
-
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
     SIGN ME UP!
@@ -266,9 +266,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trumpvictoryspeech-1200-x-628-1200x630.jpg)](https://americanwirenews.com/get-ready-to-rock-trump-pledges-expedited-permits-to-incentivize-american-business/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hegseth-4-1200x630.jpg)](https://americanwirenews.com/leftist-outlet-buried-in-backlash-as-hegseth-email-is-made-public-this-isnt-journalism-its-unethical-garbage/)
 
-[‘Get ready to rock!’ Trump pledges expedited permits to incentivize American business](https://americanwirenews.com/get-ready-to-rock-trump-pledges-expedited-permits-to-incentivize-american-business/)
+[Leftist outlet buried in backlash as Hegseth email is made public: ‘This isn’t journalism. It’s unethical garbage’](https://americanwirenews.com/leftist-outlet-buried-in-backlash-as-hegseth-email-is-made-public-this-isnt-journalism-its-unethical-garbage/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hegseth-4-220x180.jpg)](https://americanwirenews.com/leftist-outlet-buried-in-backlash-as-hegseth-email-is-made-public-this-isnt-journalism-its-unethical-garbage/)
+
+[Leftist outlet buried in backlash as Hegseth email is made public: ‘This isn’t journalism. It’s unethical garbage’](https://americanwirenews.com/leftist-outlet-buried-in-backlash-as-hegseth-email-is-made-public-this-isnt-journalism-its-unethical-garbage/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trumpvictoryspeech-1200-x-628-220x180.jpg)](https://americanwirenews.com/get-ready-to-rock-trump-pledges-expedited-permits-to-incentivize-american-business/)
 
@@ -285,10 +289,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-klobuchar-220x180.jpg)](https://americanwirenews.com/dem-senator-demands-wray-serve-his-full-10-year-term-desantis-sets-her-straight/)
 
 [Dem senator demands Wray serve his full 10-year term, DeSantis sets her straight](https://americanwirenews.com/dem-senator-demands-wray-serve-his-full-10-year-term-desantis-sets-her-straight/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-ana-navarro-220x180.jpg)](https://americanwirenews.com/ana-navarro-calls-for-people-to-open-up-their-wallets-for-liz-cheney/)
-
-[Ana Navarro calls for people to open up their wallets for Liz Cheney](https://americanwirenews.com/ana-navarro-calls-for-people-to-open-up-their-wallets-for-liz-cheney/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
