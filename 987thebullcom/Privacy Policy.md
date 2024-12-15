@@ -16,7 +16,7 @@
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
 * [Positively Portland Stories](http://www.positivelyportlandstories.com/)
-* [We Need Influencers!](https://music.musicdoodad.com/s3/46719df10aa2)
+* [We Need Influencers!](https://music.musicdoodad.com/s3/bd8977d61208)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
@@ -58,7 +58,7 @@
     * [Bull Sessions](https://www.987thebull.com/category/bull-tv/pdx-live-studio/)
     * [Coors Light Cam](https://www.987thebull.com/category/bull-tv/coors-light-country-cam/)
 * [Positively Portland Stories](http://www.positivelyportlandstories.com/)
-* [We Need Influencers!](https://music.musicdoodad.com/s3/46719df10aa2)
+* [We Need Influencers!](https://music.musicdoodad.com/s3/bd8977d61208)
 * [PNC Live Studio RSVP](http://www.pnclivestudio.com/)
 * [Portland Marketplace](https://www.portlandmarketplace.com/)
 
@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| 4x4xuLainey Wilson<br><br>10:40am |
-| Heartache On The DancefloorJon Pardi<br><br>10:37am |
-| Thought You Should KnowMorgan Wallen<br><br>10:34am |
-| I Got A GuyPost Malone Ft Luke Combs<br><br>10:31am |
-| Pink SkiesZach Bryan<br><br>10:28am |
+| RelapseWarren Zeiders<br><br>4:40pm |
+| Get Your Shine OnFlorida-Georgia Line<br><br>4:36pm |
+| Pink SkiesZach Bryan<br><br>4:33pm |
+| Sounds Like The RadioZach Top<br><br>4:30pm |
+| Let It Snow, Let It SnowGeorge Strait<br><br>4:28pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,14 +497,6 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
@@ -512,6 +504,14 @@ Spanish • Western
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
