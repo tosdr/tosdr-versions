@@ -181,6 +181,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Getting Into VR Training? Spring For The Quest 3 Instead Of Cutting Corners With The 3s](https://www.thegunpage.com/getting-into-vr-training-spring-for-the-quest-3-instead-of-cutting-corners-with-the-3s/10612507)
 * [NEW Steyr DMR: Sniper Rifle Accuracy from a Battle Rifle](https://www.thegunpage.com/new-steyr-dmr-sniper-rifle-accuracy-from-a-battle-rifle/10612502)
 * [Lessons Learned: Therapy Can Help for Victims of Violent Attacks](https://www.thegunpage.com/lessons-learned-therapy-can-help-for-victims-of-violent-attacks/10612499)
 * [SIG Sauer P320 X-Five SXG For USPSA Carry Optics, Limited Optics](https://www.thegunpage.com/sig-sauer-p320-x-five-sxg-for-uspsa-carry-optics-limited-optics/10612498)
@@ -190,7 +191,6 @@ Recent Posts
 * [Best Gifts For Concealed Carry](https://www.thegunpage.com/best-gifts-for-concealed-carry/10612493)
 * [Michigan’s Misguided Attempt to Bankrupt Gunmakers](https://www.thegunpage.com/michigans-misguided-attempt-to-bankrupt-gunmakers/10612489)
 * [NEXTORCH ND30B Civilian Electronic Distraction Device](https://www.thegunpage.com/nextorch-nd30b-civilian-electronic-distraction-device/10612491)
-* [We Can’t Stop Crime, So We’ll Go After Glock: New Jersey, Minnesota AGs Sue Manufacturer](https://www.thegunpage.com/we-cant-stop-crime-so-well-go-after-glock-new-jersey-minnesota-ags-sue-manufacturer/10612485)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
