@@ -441,7 +441,15 @@ If you have any questions about this Privacy Policy, please contact us:
 Most recent
 -----------
 
-[14-12-2024
+[15-12-2024
+
+South Korea’s acting president moves to reassure allies after impeachment](https://www.euractiv.com/section/global-europe/news/south-koreas-acting-president-moves-to-reassure-allies-after-impeachment/)[15-12-2024
+
+UK officially joins Indo-Pacific trade bloc](https://www.euractiv.com/section/economy-jobs/news/uk-officially-joins-indo-pacific-trade-bloc/)[15-12-2024
+
+Russia not leaving its two bases in Syria, sources say](https://www.euractiv.com/section/global-europe/news/russia-not-leaving-its-two-bases-in-syria-sources-say/)[15-12-2024
+
+North Korean troops join Russian assaults ‘in significant numbers’](https://www.euractiv.com/section/global-europe/news/north-korean-troops-join-russian-assaults-in-significant-numbers/)[14-12-2024
 
 Georgia ruling party installs loyalist president amid constitutional crisis, protests](https://www.euractiv.com/section/global-europe/news/georgia-ruling-party-installs-loyalist-president-amid-constitutional-crisis-protests/)[14-12-2024
 
@@ -453,15 +461,7 @@ Jordan to host Syria talks, EU to establish contact with HTS ‘soon’](https:/
 
 Russia and Turkey need each other as Putin’s influence wanes, experts say](https://www.euractiv.com/section/global-europe/news/russia-and-turkey-need-each-other-as-putins-influence-wanes-experts-say/)[13-12-2024
 
-Amid Stellantis jitters and a secular crisis, the French automotive industry is fearing for its survival](https://www.euractiv.com/section/economy-jobs/news/amid-stellantis-jitters-and-a-secular-crisis-the-french-automotive-industry-is-fearing-for-its-survival/)[13-12-2024
-
-A ‘moratorium’ on job cuts: A workable solution to Europe’s industrial decline?](https://www.euractiv.com/section/economy-jobs/news/a-moratorium-on-job-cuts-a-workable-solution-to-europes-industrial-decline/)[13-12-2024
-
-Centrist François Bayrou appointed French prime minister](https://www.euractiv.com/section/politics/news/centrist-francois-bayrou-appointed-french-prime-minister/)[13-12-2024
-
-Tech Pro Brief – CRA, GPSR in force, SMEs demand Eurostack, and TikTok Shop opens in Europe](https://www.euractiv.com/section/tech/news/tech-pro-brief-cra-gpsr-in-force-smes-demand-eurostack-and-tiktok-shop-opens-in-europe/)[13-12-2024
-
-Kazakhstan’s critical materials potential ripe for EU supply chain resilience](https://www.euractiv.com/section/economy-jobs/news/kazakhstans-critical-materials-potential-ripe-for-eu-supply-chain-resilience/)
+Amid Stellantis jitters and a secular crisis, the French automotive industry is fearing for its survival](https://www.euractiv.com/section/economy-jobs/news/amid-stellantis-jitters-and-a-secular-crisis-the-french-automotive-industry-is-fearing-for-its-survival/)
 
 ###### Advertisement
 
