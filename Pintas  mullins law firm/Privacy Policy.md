@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What is talcum powder used for?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-is-talc-powder-used-for-scaled.jpg "What Is Talcum Powder Used For?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-is-talc-powder-used-for/ "What Is Talcum Powder Used For?")
+[![What causes mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-causes-mesothelioma-lung-cancer-scaled.jpg "What Causes Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-causes-mesothelioma-lung-cancer/ "What Causes Mesothelioma Lung Cancer?")
 
-[#### What Is Talcum Powder Used For?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-is-talc-powder-used-for/)
+[#### What Causes Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-causes-mesothelioma-lung-cancer/)
 
-[![Signs of sexual abuse: were you a victim within the mormon church?](https://www.pintas.com/wp-content/uploads/2023/04/stephen-radford-86QxYjwq8LU-unsplash-300x199.jpg "Signs of Sexual Abuse: Were You a Victim within the Mormon Church?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-do-i-know-if-i-was-a-victim-of-sexual-abuse-by-the-mormon-church/ "Signs of Sexual Abuse: Were You a Victim within the Mormon Church?")
+[![Tactics of emotionally abusive care staff](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-some-tactics-that-emotionally-abusive-nursing-home-employees-use-scaled.jpg "Tactics of Emotionally Abusive Care Staff")](https://www.pintas.com/faq/what-are-some-tactics-that-emotionally-abusive-nursing-home-employees-use/ "Tactics of Emotionally Abusive Care Staff")
 
-[#### Signs of Sexual Abuse: Were You a Victim within the Mormon Church?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-do-i-know-if-i-was-a-victim-of-sexual-abuse-by-the-mormon-church/)
+[#### Tactics of Emotionally Abusive Care Staff](https://www.pintas.com/faq/what-are-some-tactics-that-emotionally-abusive-nursing-home-employees-use/)
 
-[![Can lung cancer be seen on a ct scan?](https://www.pintas.com/wp-content/uploads/2020/11/failure-to-diagnose-lung-cancer-can-lung-cancer-be-seen-on-a-ct-scan.jpg "Can Lung Cancer Be Seen on a CT Scan?")](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-seen-on-a-ct-scan/ "Can Lung Cancer Be Seen on a CT Scan?")
+[![How can i report abuse at a memory care facility?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-how-can-i-report-abuse-at-a-memory-care-facility-300x200.jpg "How Can I Report Abuse at a Memory Care Facility?")](https://www.pintas.com/faq/how-can-i-report-abuse-at-a-memory-care-facility/ "How Can I Report Abuse at a Memory Care Facility?")
 
-[#### Can Lung Cancer Be Seen on a CT Scan?](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-seen-on-a-ct-scan/)
+[#### How Can I Report Abuse at a Memory Care Facility?](https://www.pintas.com/faq/how-can-i-report-abuse-at-a-memory-care-facility/)
 
 ### Injured?  
 Tell Us What Happened.
