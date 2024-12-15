@@ -20,16 +20,16 @@ Sunday, December 15 2024
 
 Latest
 
+* [US offers $5 million for info on North Korean IT worker farms](https://digitpatrox.com/us-offers-5-million-for-info-on-north-korean-it-worker-farms/)
+* [Apple’s foldable iPad could be like ‘two iPad Pros side-by-side’](https://digitpatrox.com/apples-foldable-ipad-could-be-like-two-ipad-pros-side-by-side/)
+* [How to Get the Astral Rod in Fisch](https://digitpatrox.com/how-to-get-the-astral-rod-in-fisch/)
+* [Toxic Christmas Tree Water and Other Holiday Pet Dangers You Never Knew About](https://digitpatrox.com/toxic-christmas-tree-water-and-other-holiday-pet-dangers-you-never-knew-about/)
+* [Popular Midsized Sedans to Avoid and What to Buy Instead](https://digitpatrox.com/popular-midsized-sedans-to-avoid-and-what-to-buy-instead/)
+* [I Used AI Chatbots for a Week to Answer Common Questions—Here’s What Happened](https://digitpatrox.com/i-used-ai-chatbots-for-a-week-to-answer-common-questions-heres-what-happened/)
+* [I used ChatGPT to analyze my Apple Health activity and uncover trends — here’s what happened](https://digitpatrox.com/i-used-chatgpt-to-analyze-my-apple-health-activity-and-uncover-trends-heres-what-happened/)
+* [Germany blocks BadBox malware loaded on 30,000 Android devices](https://digitpatrox.com/germany-blocks-badbox-malware-loaded-on-30000-android-devices/)
 * [Monument Valley 3: a worthy update to a fabulous mobile game](https://digitpatrox.com/monument-valley-3-a-worthy-update-to-a-fabulous-mobile-game/)
 * [Today’s Wordle Hints, Answer for #1275 on December 15, 2024](https://digitpatrox.com/todays-wordle-hints-answer-for-1275-on-december-15-2024/)
-* [You Can Max Out Your IRA Contributions for Longer Than You Might Think](https://digitpatrox.com/you-can-max-out-your-ira-contributions-for-longer-than-you-might-think/)
-* [Best Used Cars for Under $10,000 That You Can Buy Now](https://digitpatrox.com/best-used-cars-for-under-10000-that-you-can-buy-now/)
-* [You Can Now Chat With Your PDFs in Google Drive—Here’s How](https://digitpatrox.com/you-can-now-chat-with-your-pdfs-in-google-drive-heres-how/)
-* [Apple TV Plus just needs to stop making movies — here’s why](https://digitpatrox.com/apple-tv-plus-just-needs-to-stop-making-movies-heres-why/)
-* [Russian cyberspies target Android users with new spyware](https://digitpatrox.com/russian-cyberspies-target-android-users-with-new-spyware/)
-* [Windows warns Phone Link won’t show ‘sensitive’ Android 15 notifications](https://digitpatrox.com/windows-warns-phone-link-wont-show-sensitive-android-15-notifications/)
-* [Today’s NYT Connections Hints, Answers for December 15, 2024](https://digitpatrox.com/todays-nyt-connections-hints-answers-for-december-15-2024/)
-* [The Best Ways to Ship Christmas Cookies](https://digitpatrox.com/the-best-ways-to-ship-christmas-cookies/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/2vbvZ-HP7yylk1FzD-lkQUT8kcI=/0x0:2478x1653/1200x628/filters:focal(1239x827:1240x828)/cdn.vox-cdn.com/uploads/chorus_asset/file/25788576/installer_64.jpeg)](https://digitpatrox.com/monument-valley-3-a-worthy-update-to-a-fabulous-mobile-game/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/08/12/north-korean-hackers.jpg)](https://digitpatrox.com/us-offers-5-million-for-info-on-north-korean-it-worker-farms/)
     
-    [Monument Valley 3: a worthy update to a fabulous mobile game](https://digitpatrox.com/monument-valley-3-a-worthy-update-to-a-fabulous-mobile-game/)
+    [US offers $5 million for info on North Korean IT worker farms](https://digitpatrox.com/us-offers-5-million-for-info-on-north-korean-it-worker-farms/)
     
-    3 minutes ago
+    55 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-hints-answer-for-1275-on-december-15-2024/)
+* [![](https://cdn.vox-cdn.com/thumbor/ztBNS0Wj8erxZNlvUyuPBcwA9vY=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25446231/247111_iPad_Pro_2024_AKrales_0891.jpg)](https://digitpatrox.com/apples-foldable-ipad-could-be-like-two-ipad-pros-side-by-side/)
     
-    [Today’s Wordle Hints, Answer for #1275 on December 15, 2024](https://digitpatrox.com/todays-wordle-hints-answer-for-1275-on-december-15-2024/)
+    [Apple’s foldable iPad could be like ‘two iPad Pros side-by-side’](https://digitpatrox.com/apples-foldable-ipad-could-be-like-two-ipad-pros-side-by-side/)
     
-    19 minutes ago
+    1 hour ago
     
-* [![](https://lifehacker.com/imagery/articles/01JF0GTGVB5YVX595Z8KTNJAQ4/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-max-out-your-ira-contributions-for-longer-than-you-might-think/)
+* [![](https://beebom.com/wp-content/uploads/2024/12/astral-rod-in-fisch.jpg)](https://digitpatrox.com/how-to-get-the-astral-rod-in-fisch/)
     
-    [You Can Max Out Your IRA Contributions for Longer Than You Might Think](https://digitpatrox.com/you-can-max-out-your-ira-contributions-for-longer-than-you-might-think/)
+    [How to Get the Astral Rod in Fisch](https://digitpatrox.com/how-to-get-the-astral-rod-in-fisch/)
     
-    3 hours ago
+    1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733245730/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Best-Used-Cars-Under-10000-Dollars-1224)](https://digitpatrox.com/best-used-cars-for-under-10000-that-you-can-buy-now/)
+* [![](https://lifehacker.com/imagery/articles/01HF2H32NRB987MMKVMH6F73D7/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/toxic-christmas-tree-water-and-other-holiday-pet-dangers-you-never-knew-about/)
     
-    [Best Used Cars for Under $10,000 That You Can Buy Now](https://digitpatrox.com/best-used-cars-for-under-10000-that-you-can-buy-now/)
+    [Toxic Christmas Tree Water and Other Holiday Pet Dangers You Never Knew About](https://digitpatrox.com/toxic-christmas-tree-water-and-other-holiday-pet-dangers-you-never-knew-about/)
     
-    3 hours ago
+    4 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/a-pdf-document-next-to-a-message-field-with-gemini-logos-around-it.jpg)](https://digitpatrox.com/you-can-now-chat-with-your-pdfs-in-google-drive-heres-how/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1722876253/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Popular-Midsized-Sedans-to-Avoid-and-What-to-Buy-Instead-0824)](https://digitpatrox.com/popular-midsized-sedans-to-avoid-and-what-to-buy-instead/)
     
-    [You Can Now Chat With Your PDFs in Google Drive—Here’s How](https://digitpatrox.com/you-can-now-chat-with-your-pdfs-in-google-drive-heres-how/)
+    [Popular Midsized Sedans to Avoid and What to Buy Instead](https://digitpatrox.com/popular-midsized-sedans-to-avoid-and-what-to-buy-instead/)
     
-    3 hours ago
+    4 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 minutes ago
+* [55 minutes ago
     
-    ### Monument Valley 3: a worthy update to a fabulous mobile game](https://digitpatrox.com/monument-valley-3-a-worthy-update-to-a-fabulous-mobile-game/)
-* [19 minutes ago
+    ### US offers $5 million for info on North Korean IT worker farms](https://digitpatrox.com/us-offers-5-million-for-info-on-north-korean-it-worker-farms/)
+* [1 hour ago
     
-    ### Today’s Wordle Hints, Answer for #1275 on December 15, 2024](https://digitpatrox.com/todays-wordle-hints-answer-for-1275-on-december-15-2024/)
-* [3 hours ago
+    ### Apple’s foldable iPad could be like ‘two iPad Pros side-by-side’](https://digitpatrox.com/apples-foldable-ipad-could-be-like-two-ipad-pros-side-by-side/)
+* [1 hour ago
     
-    ### You Can Max Out Your IRA Contributions for Longer Than You Might Think](https://digitpatrox.com/you-can-max-out-your-ira-contributions-for-longer-than-you-might-think/)
+    ### How to Get the Astral Rod in Fisch](https://digitpatrox.com/how-to-get-the-astral-rod-in-fisch/)
 
 Most Popular Topics
 
-* [October 26, 2024
+* [September 6, 2024
     
-    ### NYT Connections Today: Hints and Answers for October 26, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-october-26-2024/)
-* [1 week ago
+    ### Oracle can do for AI what it did for cloud – and CloudWorld 2024 is its chance to show that](https://digitpatrox.com/oracle-can-do-for-ai-what-it-did-for-cloud-and-cloudworld-2024-is-its-chance-to-show-that/)
+* [August 24, 2024
     
-    ### Romania’s election systems targeted in over 85,000 cyberattacks](https://digitpatrox.com/romanias-election-systems-targeted-in-over-85000-cyberattacks/)
-* [October 1, 2024
+    ### Why I Stopped Trusting Game Trailers Years Ago](https://digitpatrox.com/why-i-stopped-trusting-game-trailers-years-ago/)
+* [October 19, 2024
     
-    ### Cybersecurity teams are understaffed, overworked, and underfunded – and it’s taking a massive toll on mental health](https://digitpatrox.com/cybersecurity-teams-are-understaffed-overworked-and-underfunded-and-its-taking-a-massive-toll-on-mental-health/)
+    ### Tech giant Nidec confirms data breach following ransomware attack](https://digitpatrox.com/tech-giant-nidec-confirms-data-breach-following-ransomware-attack/)
 
 Last Modified Topics
 
 * [5 hours ago
     
-    ### Russian cyberspies target Android users with new spyware](https://digitpatrox.com/russian-cyberspies-target-android-users-with-new-spyware/)
-* [5 hours ago
+    ### I used ChatGPT to analyze my Apple Health activity and uncover trends — here’s what happened](https://digitpatrox.com/i-used-chatgpt-to-analyze-my-apple-health-activity-and-uncover-trends-heres-what-happened/)
+* [6 hours ago
     
-    ### Windows warns Phone Link won’t show ‘sensitive’ Android 15 notifications](https://digitpatrox.com/windows-warns-phone-link-wont-show-sensitive-android-15-notifications/)
-* [5 hours ago
+    ### Germany blocks BadBox malware loaded on 30,000 Android devices](https://digitpatrox.com/germany-blocks-badbox-malware-loaded-on-30000-android-devices/)
+* [6 hours ago
     
-    ### Today’s NYT Connections Hints, Answers for December 15, 2024](https://digitpatrox.com/todays-nyt-connections-hints-answers-for-december-15-2024/)
+    ### Monument Valley 3: a worthy update to a fabulous mobile game](https://digitpatrox.com/monument-valley-3-a-worthy-update-to-a-fabulous-mobile-game/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 11, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
