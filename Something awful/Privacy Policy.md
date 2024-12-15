@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Changeling: The Dreaming (1997)](https://www.somethingawful.com/dungeons-and-dragons/changeling-white-wolf/1/)
-* [Game and Movie Hybrids 2 (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/game-movie-hybrids-2/1/)
-* [BeastForum, AnimeNation, and Girl.com.au](https://www.somethingawful.com/weekend-web/beastforum-animenation-girlcomau/1/)
-* [Misspelled Movies II](https://www.somethingawful.com/photoshop-phriday/misspelled-movies-ii/1/)
-* [Chemtrail Central, RingSurf, and Xbox](https://www.somethingawful.com/weekend-web/chemtrail-central-ringsurf/1/)
+* [Wrestling the Twister: An Interview With M. Night Shyamalan](https://www.somethingawful.com/news/wrestling-twister-an/)
+* [Anime-Forums, PlayStation Forums, and Clan Recruitment](https://www.somethingawful.com/weekend-web/animeforums-playstation-forums/1/)
+* [Phake Games 4](https://www.somethingawful.com/photoshop-phriday/phake-games-4/1/)
+* [Dumbass of Love](https://www.somethingawful.com/comedy-goldmine/dumbass-of-love/1/)
+* [Murderous, Zionist piece of shit!](https://www.somethingawful.com/awfulvision/rooster-avatar-bush/1/)
 
 ### Popular Threads
 
@@ -217,11 +217,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [A Timeline Of The Penn State Self-Implosion](https://www.somethingawful.com/news/penn-state-timeline/)
-* [My Dad the Ghost Rider](https://www.somethingawful.com/news/growing-up-super/1/)
-* [Going Towards the War In the Easts](https://www.somethingawful.com/news/going-towards-war/)
-* [A Modest Papal Proposal](https://www.somethingawful.com/news/papal-proposal/)
-* [Cut Features from The Beatles: Rock Band](https://www.somethingawful.com/news/beatles-rock-band/)
+* [Feats of Prestidigitation](https://www.somethingawful.com/news/feats-of-prestidigitation/)
+* [Clan Hell: Clan Old School Doomers](https://www.somethingawful.com/clan-hell/clan-hell-clan-17/)
+* [Released Reactions](https://www.somethingawful.com/awful-links/awful-link-2813/)
+* [3rd Edition Dungeons & Dragons: Fiend Folio](https://www.somethingawful.com/dungeons-and-dragons/fiend-folio-3e/1/)
+* [Worst-Selling Books!](https://www.somethingawful.com/comedy-goldmine/worst-selling-books/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
