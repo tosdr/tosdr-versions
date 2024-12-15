@@ -35,10 +35,10 @@ Google, as a third party vendor, uses cookies to serve ads on this site. Google�
 Recent Updates
 --------------
 
+* [Espio The Chameleon Soundboard: Mario & Sonic at the Rio 2016 Olympic Games](https://www.sonicgalaxy.net/mas2016-espio/)
 * [Daisy Soundboard: Mario & Sonic at the Rio 2016 Olympic Games](https://www.sonicgalaxy.net/mas2016-daisy/)
 * [Sonic Colors Sprite Sheets – Nintendo DS](https://www.sonicgalaxy.net/sprites-ds-sc/)
 * [Metal Sonic Soundboard: Mario & Sonic at the Rio 2016 Olympic Games](https://www.sonicgalaxy.net/mas2016-metalsonic/)
 * [Roy Koopa Soundboard: Mario & Sonic at the Rio 2016 Olympic Games](https://www.sonicgalaxy.net/mas2016-roykoopa/)
-* [Sonic Advance 3 Sprite Sheets – Game Boy Advance](https://www.sonicgalaxy.net/sprites-gba-sa-3/)
 
 © 2013- • [Sonic Galaxy.net](https://www.sonicgalaxy.net/) • Division of [Realm of Darkness.net](https://www.realmofdarkness.net/) • [Contact](https://www.sonicgalaxy.net/contact) • [Privacy](https://www.sonicgalaxy.net/privacy) [Frontier Theme](https://ronangelo.com/frontier/)
