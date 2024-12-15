@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/shell-en-nebahat-albayraks-twee-gezichten/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/leef-in-angst-en-geef-je-macht-uit-handen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
