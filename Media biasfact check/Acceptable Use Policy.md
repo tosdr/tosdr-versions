@@ -193,12 +193,12 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [MBFC's Daily Vetted Fact Checks for 12/14/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/14/mbfcs-daily-vetted-fact-checks-for-12-14-2024-weekend-edition/)
 * [Earth.com - Bias and Credibility](https://mediabiasfactcheck.com/earth-com-bias/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [MBFC's Daily Vetted Fact Checks for 12/14/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/14/mbfcs-daily-vetted-fact-checks-for-12-14-2024-weekend-edition/)
 * [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [The People's Voice (Newspunch) - Bias and Credibility](https://mediabiasfactcheck.com/news-punch/)
+* [Daily Telegraph (UK) - Bias and Credibility](https://mediabiasfactcheck.com/daily-telegraph/)
 
 #### Subscribe via Email
 
