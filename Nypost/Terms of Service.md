@@ -84,10 +84,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Daniel Penny joins Trump and Vance at Army-Navy game](https://nypost.com/2024/12/14/us-news/daniel-penny-joins-trump-and-vance-at-army-navy-game/)
-
 Terms Of Use
 ============
 
