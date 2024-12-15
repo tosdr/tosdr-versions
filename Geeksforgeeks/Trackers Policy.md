@@ -17,7 +17,7 @@
         * [C](https://www.geeksforgeeks.org/courses/c-Programming-basic-to-advanced?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
     * [All Courses](https://www.geeksforgeeks.org/courses?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
 * Tutorials
-    * Python Tutorial
+    * [Python Tutorial](https://www.geeksforgeeks.org/python3-tutorial/?ref=ghm)
         * [Taking Input in Python](https://www.geeksforgeeks.org/taking-input-in-python/?ref=outind)
         * [Python Operators](https://www.geeksforgeeks.org/python-operators/?ref=outind)
         * [Python Data Types](https://www.geeksforgeeks.org/python-data-types/?ref=outind)
@@ -65,7 +65,7 @@
         * [Perl](https://www.geeksforgeeks.org/perl-programming-language/?ref=outind)
         * [Go Language](https://www.geeksforgeeks.org/golang/?ref=outind)
         * [Kotlin](https://www.geeksforgeeks.org/kotlin-programming-language/?ref=outind)
-    * System Design
+    * [System Design](https://www.geeksforgeeks.org/data-structures/?ref=ghm)
         * [System Design Tutorial](https://www.geeksforgeeks.org/system-design-tutorial/?ref=ghm)
         * [Software Design Patterns](https://www.geeksforgeeks.org/software-design-patterns/?ref=outind)
         * [System Design Roadmap](https://www.geeksforgeeks.org/complete-roadmap-to-learn-system-design/?ref=outind)
