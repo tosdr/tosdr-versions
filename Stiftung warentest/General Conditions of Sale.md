@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Auslands­fonds und -ETF: Steuern zurück in Milliardenhöhe](https://www.test.de/erstattung-deutscher-quellensteuer-6164848-0/ "Auslandsfonds und -ETF - Steuern zurück in Milliardenhöhe")
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
-* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
-* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Ökodesign-Verordnung: Smartphones müssen bald länger halten](https://www.test.de/Oekodesign-Verordnung-Smartphones-muessen-bald-laenger-halten-6169413-0/ "Ökodesign-Verordnung - Smartphones müssen bald länger halten")
+* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
+* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
+* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
+* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
+* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Auslands­fonds und -ETF: Steuern zurück in Milliardenhöhe](https://www.test.de/erstattung-deutscher-quellensteuer-6164848-0/ "Auslandsfonds und -ETF - Steuern zurück in Milliardenhöhe")
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
-* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
-* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Ökodesign-Verordnung: Smartphones müssen bald länger halten](https://www.test.de/Oekodesign-Verordnung-Smartphones-muessen-bald-laenger-halten-6169413-0/ "Ökodesign-Verordnung - Smartphones müssen bald länger halten")
+* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
+* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
+* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
+* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
+* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Auslands­fonds und -ETF: Steuern zurück in Milliardenhöhe](https://www.test.de/erstattung-deutscher-quellensteuer-6164848-0/ "Auslandsfonds und -ETF - Steuern zurück in Milliardenhöhe")
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
-* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
-* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Ökodesign-Verordnung: Smartphones müssen bald länger halten](https://www.test.de/Oekodesign-Verordnung-Smartphones-muessen-bald-laenger-halten-6169413-0/ "Ökodesign-Verordnung - Smartphones müssen bald länger halten")
+* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
+* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
+* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
+* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
+* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Auslands­fonds und -ETF: Steuern zurück in Milliardenhöhe](https://www.test.de/erstattung-deutscher-quellensteuer-6164848-0/ "Auslandsfonds und -ETF - Steuern zurück in Milliardenhöhe")
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
-* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
-* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Ökodesign-Verordnung: Smartphones müssen bald länger halten](https://www.test.de/Oekodesign-Verordnung-Smartphones-muessen-bald-laenger-halten-6169413-0/ "Ökodesign-Verordnung - Smartphones müssen bald länger halten")
+* [Onlinedepots: 15 Wert­papierdepots im Praxis­test](https://www.test.de/Onlinedepots-15-Wertpapierdepots-im-Praxistest-6010299-0/ "Onlinedepots - 15 Wertpapierdepots im Praxistest")
+* [Tages­geld und Fest­geld: Anlegen geht auch ohne Internet](https://www.test.de/Tagesgeld-Festgeld-Konten-ohne-Online-Banking-oder-App-6143253-0/ "Tagesgeld und Festgeld - Anlegen geht auch ohne Internet")
+* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
+* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
+* [Dubioses Zinsportal: Finger weg von Fest­geldtips.de](https://www.test.de/Dubioses-Zinsportal-Finger-weg-von-Festgeldtipsde-6103566-0/ "Dubioses Zinsportal - Finger weg von Festgeldtips.de")
 
 Stiftung Warentest
 
