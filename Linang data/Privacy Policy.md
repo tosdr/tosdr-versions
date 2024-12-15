@@ -1,6 +1,6 @@
 [![LinangData brand icon](https://linangdata.com/images/favicon-medium.gif)](https://linangdata.com/) [LinangData](https://linangdata.com/)
 
-* [Explore](javascript:)
+* [Quick Access](javascript:)
 * [News and Articles](https://linangdata.com/blog/)
 * [](https://www.facebook.com/LinangData/)
 * [](https://twitter.com/LinangData)
