@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/indonesie-wil-gesubsidieerd-al-zn-regenwoud-omhakken/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/schaliegas-kamp-op-de-bek-slaan/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
