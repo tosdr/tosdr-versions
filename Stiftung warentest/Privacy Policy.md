@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gefälschte QR-Codes: Betrug am Park­schein­automat](https://www.test.de/Gefaelschte-QR-Codes-Betrug-am-Parkscheinautomat-6178561-0/ "Gefälschte QR-Codes - Betrug am Parkscheinautomat")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
-* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
-* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
+* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gefälschte QR-Codes: Betrug am Park­schein­automat](https://www.test.de/Gefaelschte-QR-Codes-Betrug-am-Parkscheinautomat-6178561-0/ "Gefälschte QR-Codes - Betrug am Parkscheinautomat")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
-* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
-* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
+* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gefälschte QR-Codes: Betrug am Park­schein­automat](https://www.test.de/Gefaelschte-QR-Codes-Betrug-am-Parkscheinautomat-6178561-0/ "Gefälschte QR-Codes - Betrug am Parkscheinautomat")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
-* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
-* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
+* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gefälschte QR-Codes: Betrug am Park­schein­automat](https://www.test.de/Gefaelschte-QR-Codes-Betrug-am-Parkscheinautomat-6178561-0/ "Gefälschte QR-Codes - Betrug am Parkscheinautomat")
-* [BPA in Kleinkindbüchern: Carlsen ruft Baby-Pixi-Bücher zurück](https://www.test.de/BPA-in-Kleinkindbuechern-Carlsen-ruft-Baby-Pixi-Buecher-zurueck-6109118-0/ "BPA in Kleinkindbüchern - Carlsen ruft Baby-Pixi-Bücher zurück")
-* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
-* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
-* [Denkmal­geschütztes Haus: Wohnen im Denkmal – die Vorteile und die Nachteile](https://www.test.de/Denkmalschutz-Haus-mit-Auflagen-6070189-0/ "Denkmalgeschütztes Haus - Wohnen im Denkmal – die Vorteile und die Nachteile")
-* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
+* [Über­mäßiger Achselschweiß: Was ein neues Mittel gegen starkes Schwitzen bringt](https://www.test.de/Uebermaessiger-Achselschweiss-Was-ein-neues-Mittel-gegen-starkes-Schwitzen-bringt-5945115-0/ "Übermäßiger Achselschweiß - Was ein neues Mittel gegen starkes Schwitzen bringt")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Rohstoffe, Gold, Erneuer­bare Energien: Das Depot mit Rohstoffen bestü­cken](https://www.test.de/Rohstoffe-Gold-Erneuerbare-Energien-Das-Depot-mit-Rohstoffen-bestuecken-5973031-0/ "Rohstoffe, Gold, Erneuerbare Energien - Das Depot mit Rohstoffen bestücken")
 
 Stiftung Warentest
 
