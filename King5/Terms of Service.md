@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f9895f6b-342e-4a17-9c8a-b7ae79095bf1/20241215T012920/f9895f6b-342e-4a17-9c8a-b7ae79095bf1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f9895f6b-342e-4a17-9c8a-b7ae79095bf1/20241215T012920/f9895f6b-342e-4a17-9c8a-b7ae79095bf1_360x203.jpg)](https://www.king5.com/article/news/local/lynnwood-nonprofit-thrift-store-targeted-by-thief-twice-within-three-weeks/281-0f8b5fb7-a7e3-4c34-a13c-ed648c091c05)
+    *  [![](https://media.king5.com/assets/KING/images/3ea0d3e2-e202-4c75-bf4a-ae1d157e14cc/20241215T060706/3ea0d3e2-e202-4c75-bf4a-ae1d157e14cc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3ea0d3e2-e202-4c75-bf4a-ae1d157e14cc/20241215T060706/3ea0d3e2-e202-4c75-bf4a-ae1d157e14cc_360x203.jpg)](https://www.king5.com/article/news/local/power-outages-western-washington-amid-wind-advisory/281-67cd4f6b-95b4-43d3-bc34-d397637ab9dc)
         
-        #### [Lynnwood nonprofit thrift store targeted by thief twice within three weeks](https://www.king5.com/article/news/local/lynnwood-nonprofit-thrift-store-targeted-by-thief-twice-within-three-weeks/281-0f8b5fb7-a7e3-4c34-a13c-ed648c091c05) [![](https://media.king5.com/assets/KING/images/f9895f6b-342e-4a17-9c8a-b7ae79095bf1/20241215T012920/f9895f6b-342e-4a17-9c8a-b7ae79095bf1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f9895f6b-342e-4a17-9c8a-b7ae79095bf1/20241215T012920/f9895f6b-342e-4a17-9c8a-b7ae79095bf1_360x203.jpg)](https://www.king5.com/article/news/local/lynnwood-nonprofit-thrift-store-targeted-by-thief-twice-within-three-weeks/281-0f8b5fb7-a7e3-4c34-a13c-ed648c091c05)
+        #### [30,000 without power in western Washington amid wind advisory](https://www.king5.com/article/news/local/power-outages-western-washington-amid-wind-advisory/281-67cd4f6b-95b4-43d3-bc34-d397637ab9dc)
         
-        #### [Thief targets Lynnwood nonprofit thrift store twice in three weeks](https://www.king5.com/article/news/local/lynnwood-nonprofit-thrift-store-targeted-by-thief-twice-within-three-weeks/281-0f8b5fb7-a7e3-4c34-a13c-ed648c091c05)
-    *  [![](https://media.king5.com/assets/KING/images/ab022f17-a717-46b4-af85-67446b6eb08d/20241214T165907/ab022f17-a717-46b4-af85-67446b6eb08d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ab022f17-a717-46b4-af85-67446b6eb08d/20241214T165907/ab022f17-a717-46b4-af85-67446b6eb08d_360x203.jpg)](https://www.king5.com/article/news/local/power-outages-western-washington-amid-wind-advisory/281-67cd4f6b-95b4-43d3-bc34-d397637ab9dc)
+    *  [![](https://media.king5.com/assets/KING/images/d3e9ed1c-6e08-4fcb-9b58-31dcd11ce045/20241212T163526/d3e9ed1c-6e08-4fcb-9b58-31dcd11ce045_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d3e9ed1c-6e08-4fcb-9b58-31dcd11ce045/20241212T163526/d3e9ed1c-6e08-4fcb-9b58-31dcd11ce045_360x203.jpg)](https://www.king5.com/article/sports/high-school/washington-school-districts-pushing-rules-trans-athletes-sports/281-c8905955-d36c-4900-bf55-b37785d941c1)
         
-        #### [50,000 without power in western Washington amid wind advisory](https://www.king5.com/article/news/local/power-outages-western-washington-amid-wind-advisory/281-67cd4f6b-95b4-43d3-bc34-d397637ab9dc)
+        #### [WIAA considers new policies for participation of transgender athletes in sports](https://www.king5.com/article/sports/high-school/washington-school-districts-pushing-rules-trans-athletes-sports/281-c8905955-d36c-4900-bf55-b37785d941c1)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -57,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/7cad9286-892b-4702-9474-992ed0acfe70/20241214T161835/7cad9286-892b-4702-9474-992ed0acfe70_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7cad9286-892b-4702-9474-992ed0acfe70/20241214T161835/7cad9286-892b-4702-9474-992ed0acfe70_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/61d85bd6-fa8a-44f7-81a2-fd9ce7d71aa8/20241215T061830/61d85bd6-fa8a-44f7-81a2-fd9ce7d71aa8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/61d85bd6-fa8a-44f7-81a2-fd9ce7d71aa8/20241215T061830/61d85bd6-fa8a-44f7-81a2-fd9ce7d71aa8_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -83,13 +82,13 @@ Navigation
     
     Latest Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d7b61865-be70-4929-b902-7371b91cd9b3/20241215T014131/d7b61865-be70-4929-b902-7371b91cd9b3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d7b61865-be70-4929-b902-7371b91cd9b3/20241215T014131/d7b61865-be70-4929-b902-7371b91cd9b3_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/seahawks-going-for-five-straight-wins-hosting-green-bay-sunday-night/281-e8d152dd-74ef-48e8-948e-d3e211946a40)
+    *  [![](https://media.king5.com/assets/KING/images/c7d37dbc-2b68-4d6b-81c9-97678436af24/20241215T061553/c7d37dbc-2b68-4d6b-81c9-97678436af24_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c7d37dbc-2b68-4d6b-81c9-97678436af24/20241215T061553/c7d37dbc-2b68-4d6b-81c9-97678436af24_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/hagel-scores-2-guentzel-has-goal-and-assist-as-lightning-beat-kraken-5-1/281-7dcd9351-6adc-4095-91ea-da7252c8ae0f)
         
-        #### [Seahawks going for five straight wins, hosting Green Bay Sunday night](https://www.king5.com/article/sports/nfl/seahawks/seahawks-going-for-five-straight-wins-hosting-green-bay-sunday-night/281-e8d152dd-74ef-48e8-948e-d3e211946a40)
+        #### [Hagel scores 2, Guentzel has goal and assist as Lightning beat Kraken 5-1](https://www.king5.com/article/sports/nhl/kraken/hagel-scores-2-guentzel-has-goal-and-assist-as-lightning-beat-kraken-5-1/281-7dcd9351-6adc-4095-91ea-da7252c8ae0f)
         
-    *  [![](https://media.king5.com/assets/KING/images/fa85e45c-0032-40cc-ac7a-386db873d3cd/20241215T020622/fa85e45c-0032-40cc-ac7a-386db873d3cd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fa85e45c-0032-40cc-ac7a-386db873d3cd/20241215T020622/fa85e45c-0032-40cc-ac7a-386db873d3cd_360x203.jpg)](https://www.king5.com/article/sports/college/colorado-two-way-star-travis-hunter-wins-heisman-trophy-as-college-footballs-top-player/281-4c8bde13-e3a2-4c9c-a215-dfafdc797234)
+    *  [![](https://media.king5.com/assets/KING/images/a7d53cbe-924d-4ca8-a117-409bcbaa4043/20241203T072021/a7d53cbe-924d-4ca8-a117-409bcbaa4043_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a7d53cbe-924d-4ca8-a117-409bcbaa4043/20241203T072021/a7d53cbe-924d-4ca8-a117-409bcbaa4043_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaaf/cougars/washington-state-wins-91-78-against-missouri-state/281-86eb98e1-dc4e-400a-8319-e71751abc824)
         
-        #### [Colorado two-way star Travis Hunter wins Heisman Trophy as college football's top player](https://www.king5.com/article/sports/college/colorado-two-way-star-travis-hunter-wins-heisman-trophy-as-college-footballs-top-player/281-4c8bde13-e3a2-4c9c-a215-dfafdc797234)
+        #### [Washington State wins 91-78 against Missouri State](https://www.king5.com/article/sports/ncaa/ncaaf/cougars/washington-state-wins-91-78-against-missouri-state/281-86eb98e1-dc4e-400a-8319-e71751abc824)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -106,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-46°
+43°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
