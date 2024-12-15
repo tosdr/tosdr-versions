@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Many thanks for all your help in getting BBC iPlayer running.
+Since 2010 I am using your service and it has never let me down.
 
-Irene Schuster
+Annemiek Wegman
