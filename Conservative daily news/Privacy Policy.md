@@ -181,6 +181,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Set Up Your Gear For Success](https://www.thegunpage.com/set-up-your-gear-for-success/10612518)
 * [Silencer Saturday #359: A Primer On Subsonic Ammunition](https://www.thegunpage.com/silencer-saturday-359-a-primer-on-subsonic-ammunition/10612512)
 * [Getting Into VR Training? Spring For The Quest 3 Instead Of Cutting Corners With The 3s](https://www.thegunpage.com/getting-into-vr-training-spring-for-the-quest-3-instead-of-cutting-corners-with-the-3s/10612507)
 * [NEW Steyr DMR: Sniper Rifle Accuracy from a Battle Rifle](https://www.thegunpage.com/new-steyr-dmr-sniper-rifle-accuracy-from-a-battle-rifle/10612502)
@@ -190,7 +191,6 @@ Recent Posts
 * [POTD: The PZD Mk24 Light Machine Gun](https://www.thegunpage.com/potd-the-pzd-mk24-light-machine-gun/10612495)
 * [TFB Podcast Roundup 159: The December 13th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-159-the-december-13th-roundup/10612496)
 * [Best Gifts For Concealed Carry](https://www.thegunpage.com/best-gifts-for-concealed-carry/10612493)
-* [Michigan’s Misguided Attempt to Bankrupt Gunmakers](https://www.thegunpage.com/michigans-misguided-attempt-to-bankrupt-gunmakers/10612489)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Richard McDonough on [BYE! Dem Rep Says ‘Thousands’ Of Federal Employees Are So Shaken By Trump Election They Might Quit](https://www.conservativedailynews.com/2024/12/bye-dem-rep-says-thousands-of-federal-employees-are-so-shaken-by-trump-election-they-might-quit/#comment-783742)
 * charles wilkins on [Trouble Shooter](https://www.conservativedailynews.com/2024/12/a-f-branco-cartoon-trouble-shooter/#comment-783733)
 * Catboss on [BYE! Dem Rep Says ‘Thousands’ Of Federal Employees Are So Shaken By Trump Election They Might Quit](https://www.conservativedailynews.com/2024/12/bye-dem-rep-says-thousands-of-federal-employees-are-so-shaken-by-trump-election-they-might-quit/#comment-783724)
 * Singleshot on [Joni Ernst Introduces Bill To Ship A Chunk Of One Agency’s Employees Out Of DC](https://www.conservativedailynews.com/2024/12/joni-ernst-introduces-bill-to-ship-a-chunk-of-one-agencys-employees-out-of-dc/#comment-783722)
@@ -240,7 +241,6 @@ Recent Comments
 * KayCee on [Hunter Biden’s Pardon Really Rubbed America The Wrong Way, Poll Shows](https://www.conservativedailynews.com/2024/12/hunter-bidens-pardon-really-rubbed-america-the-wrong-way-poll-shows/#comment-783696)
 * KayCee on [People In North Carolina Are living In Tents While Biden Pledges Billions To Africa](https://www.conservativedailynews.com/2024/12/people-in-north-carolina-are-living-in-tents-while-biden-pledges-billions-to-africa/#comment-783690)
 * Stanley Warner on [Biden the Tyrant](https://www.conservativedailynews.com/2024/12/biden-the-tyrant/#comment-783683)
-* KayCee on [People In North Carolina Are living In Tents While Biden Pledges Billions To Africa](https://www.conservativedailynews.com/2024/12/people-in-north-carolina-are-living-in-tents-while-biden-pledges-billions-to-africa/#comment-783653)
 
 [Close](#)
 
