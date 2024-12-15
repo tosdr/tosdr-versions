@@ -335,15 +335,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![The Financial Review’s Primrose Riordan interviewing Andrew Forrest.](https://static.ffx.io/images/$zoom_0.7964%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_247%2C$y_94/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c773838cfaa0f068d2560e6983344762dc990597)](https://www.afr.com/companies/mining/i-sent-andrew-forrest-50-hard-questions-he-invited-me-to-have-a-talk-20241211-p5kxns)
+[![Naomi Simson started RedBalloon in 2001 and has become one of the country’s most recognisable founders.](https://static.ffx.io/images/$zoom_0.5777%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1038%2C$y_661/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ff46c79d6033ace414d4ec013898d23ea833406e)](https://www.afr.com/wealth/people/a-man-is-not-a-plan-how-naomi-simson-created-an-experiences-empire-20241119-p5krvm)
 
-### [I sent Andrew Forrest 50 hard questions. He invited me to have a talk](https://www.afr.com/companies/mining/i-sent-andrew-forrest-50-hard-questions-he-invited-me-to-have-a-talk-20241211-p5kxns)
+### [‘A man is not a plan’: How Naomi Simson created an experiences empire](https://www.afr.com/wealth/people/a-man-is-not-a-plan-how-naomi-simson-created-an-experiences-empire-20241119-p5krvm)
 
-* Primrose Riordan
+* Yolanda Redrup
 
-* ### [Fortescue executive chairman Andrew Forrest in his own words](https://www.afr.com/companies/mining/fortescue-executive-chairman-andrew-forrest-in-his-own-words-20241210-p5kx5n)
+* ### [I sent Andrew Forrest 50 hard questions. He invited me to have a talk](https://www.afr.com/companies/mining/i-sent-andrew-forrest-50-hard-questions-he-invited-me-to-have-a-talk-20241211-p5kxns)
     
-* ### [Inside the ‘unending chaos’ at Andrew Forrest’s Fortescue](https://www.afr.com/companies/energy/inside-the-unending-chaos-at-andrew-forrest-s-fortescue-20241008-p5kgrn)
+* ### [Fortescue executive chairman Andrew Forrest in his own words](https://www.afr.com/companies/mining/fortescue-executive-chairman-andrew-forrest-in-his-own-words-20241210-p5kx5n)
     
 
 [The Australian Financial Review](https://www.afr.com/)
