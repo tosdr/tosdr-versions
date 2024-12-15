@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/schaliegas-kamp-op-de-bek-slaan/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/boeken/frashokereti-een-boek-en-wat-voor-een/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
