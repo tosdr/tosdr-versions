@@ -335,7 +335,7 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Naomi Simson started RedBalloon in 2001 and has become one of the country’s most recognisable founders.](https://static.ffx.io/images/$zoom_0.5777%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1038%2C$y_661/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ff46c79d6033ace414d4ec013898d23ea833406e)](https://www.afr.com/wealth/people/a-man-is-not-a-plan-how-naomi-simson-created-an-experiences-empire-20241119-p5krvm)
+[![Naomi Simson started RedBalloon in 2001 and has become one of the country’s most recognisable founders.](https://static.ffx.io/images/$zoom_0.5777%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1036%2C$y_727/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ff46c79d6033ace414d4ec013898d23ea833406e)](https://www.afr.com/wealth/people/a-man-is-not-a-plan-how-naomi-simson-created-an-experiences-empire-20241119-p5krvm)
 
 ### [‘A man is not a plan’: How Naomi Simson created an experiences empire](https://www.afr.com/wealth/people/a-man-is-not-a-plan-how-naomi-simson-created-an-experiences-empire-20241119-p5krvm)
 
