@@ -23,22 +23,22 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Cleo patches critical zero-day exploited in data theft attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![CISA confirms critical Cleo bug exploitation in ransomware attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Cleo patches critical zero-day exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/cleo-patches-critical-zero-day-exploited-in-data-theft-attacks/)
-    * [![Bitcoin ATM firm Byte Federal hacked via GitLab flaw, 58K users exposed](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        CISA confirms critical Cleo bug exploitation in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-confirms-critical-cleo-bug-exploitation-in-ransomware-attacks/)
+    * [![Germany blocks BadBox malware loaded on 30,000 Android devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Bitcoin ATM firm Byte Federal hacked via GitLab flaw, 58K users exposed](https://www.bleepingcomputer.com/news/security/bitcoin-atm-firm-byte-federal-hacked-via-gitlab-flaw-58k-users-exposed/)
-    * [![Krispy Kreme cyberattack impacts online orders and operations](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Germany blocks BadBox malware loaded on 30,000 Android devices](https://www.bleepingcomputer.com/news/security/germany-blocks-badbox-malware-loaded-on-30-000-android-devices/)
+    * [![FTC warns of online task job scams hooking victims like gambling](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Krispy Kreme cyberattack impacts online orders and operations](https://www.bleepingcomputer.com/news/security/krispy-kreme-cyberattack-impacts-online-orders-and-operations/)
-    * [![Lynx ransomware behind Electrica energy supplier cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        FTC warns of online task job scams hooking victims like gambling](https://www.bleepingcomputer.com/news/security/ftc-warns-of-online-task-job-scams-hooking-victims-like-gambling/)
+    * [![New IOCONTROL malware used in critical infrastructure attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Lynx ransomware behind Electrica energy supplier cyberattack](https://www.bleepingcomputer.com/news/security/lynx-ransomware-behind-electrica-energy-supplier-cyberattack/)
+        New IOCONTROL malware used in critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/new-iocontrol-malware-used-in-critical-infrastructure-attacks/)
     
-    * [![Hackers steal 390,000 WordPress credentials from other hackers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![390,000 WordPress accounts stolen from hackers in supply chain attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Hackers steal 390,000 WordPress credentials from other hackers](https://www.bleepingcomputer.com/news/security/hackers-steal-390-000-wordpress-credentials-from-other-hackers/)
+        390,000 WordPress accounts stolen from hackers in supply chain attack](https://www.bleepingcomputer.com/news/security/390-000-wordpress-accounts-stolen-from-hackers-in-supply-chain-attack/)
     * [![Boost your career with this $39.99 Azure course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Boost your career with this $39.99 Azure course bundle deal](https://www.bleepingcomputer.com/offer/deals/boost-your-career-with-this-3999-azure-course-bundle-deal/)
@@ -358,9 +358,9 @@ Popular Stories
 * [![hacker shh](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Russian cyber spies hide behind other hackers to target Ukraine](https://www.bleepingcomputer.com/news/security/russian-cyber-spies-hide-behind-other-hackers-to-target-ukraine/)
-* [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Krispy Kreme](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    New stealthy Pumakit Linux rootkit malware spotted in the wild](https://www.bleepingcomputer.com/news/security/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
+    Krispy Kreme cyberattack impacts online orders and operations](https://www.bleepingcomputer.com/news/security/krispy-kreme-cyberattack-impacts-online-orders-and-operations/)
 
 ##### Follow us:
 
