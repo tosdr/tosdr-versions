@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Was really useful - just needed it for watching iplayer while in France for summer holiday. Back in the UK now.
+I was happy with the service. It's just that I don't need it for the moment. If and when I need it again I would be happy to resubscribe.
 
-James Riden
+Tom Morton
