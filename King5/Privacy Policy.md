@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/0266437b-4a95-4fdd-86fe-425c5a79e7f5/20241214T192052/0266437b-4a95-4fdd-86fe-425c5a79e7f5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0266437b-4a95-4fdd-86fe-425c5a79e7f5/20241214T192052/0266437b-4a95-4fdd-86fe-425c5a79e7f5_360x203.jpg)](https://www.king5.com/article/news/local/event-celebrates-dozens-formerly-unhoused-women-western-washington/281-bc8dd79a-61f7-4ad1-a8fb-4a4aeee82e79)
+    *  [![](https://media.king5.com/assets/KING/images/f9895f6b-342e-4a17-9c8a-b7ae79095bf1/20241215T012920/f9895f6b-342e-4a17-9c8a-b7ae79095bf1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f9895f6b-342e-4a17-9c8a-b7ae79095bf1/20241215T012920/f9895f6b-342e-4a17-9c8a-b7ae79095bf1_360x203.jpg)](https://www.king5.com/article/news/local/lynnwood-nonprofit-thrift-store-targeted-by-thief-twice-within-three-weeks/281-0f8b5fb7-a7e3-4c34-a13c-ed648c091c05)
         
-        #### ['Home for the Holidays' event celebrates dozens of formerly unhoused women across Western Washington](https://www.king5.com/article/news/local/event-celebrates-dozens-formerly-unhoused-women-western-washington/281-bc8dd79a-61f7-4ad1-a8fb-4a4aeee82e79)
+        #### [Lynnwood nonprofit thrift store targeted by thief twice within three weeks](https://www.king5.com/article/news/local/lynnwood-nonprofit-thrift-store-targeted-by-thief-twice-within-three-weeks/281-0f8b5fb7-a7e3-4c34-a13c-ed648c091c05) [![](https://media.king5.com/assets/KING/images/f9895f6b-342e-4a17-9c8a-b7ae79095bf1/20241215T012920/f9895f6b-342e-4a17-9c8a-b7ae79095bf1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f9895f6b-342e-4a17-9c8a-b7ae79095bf1/20241215T012920/f9895f6b-342e-4a17-9c8a-b7ae79095bf1_360x203.jpg)](https://www.king5.com/article/news/local/lynnwood-nonprofit-thrift-store-targeted-by-thief-twice-within-three-weeks/281-0f8b5fb7-a7e3-4c34-a13c-ed648c091c05)
         
+        #### [Thief targets Lynnwood nonprofit thrift store twice in three weeks](https://www.king5.com/article/news/local/lynnwood-nonprofit-thrift-store-targeted-by-thief-twice-within-three-weeks/281-0f8b5fb7-a7e3-4c34-a13c-ed648c091c05)
     *  [![](https://media.king5.com/assets/KING/images/ab022f17-a717-46b4-af85-67446b6eb08d/20241214T165907/ab022f17-a717-46b4-af85-67446b6eb08d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ab022f17-a717-46b4-af85-67446b6eb08d/20241214T165907/ab022f17-a717-46b4-af85-67446b6eb08d_360x203.jpg)](https://www.king5.com/article/news/local/power-outages-western-washington-amid-wind-advisory/281-67cd4f6b-95b4-43d3-bc34-d397637ab9dc)
         
-        #### [70,000 without power in western Washington amid wind advisory](https://www.king5.com/article/news/local/power-outages-western-washington-amid-wind-advisory/281-67cd4f6b-95b4-43d3-bc34-d397637ab9dc)
+        #### [50,000 without power in western Washington amid wind advisory](https://www.king5.com/article/news/local/power-outages-western-washington-amid-wind-advisory/281-67cd4f6b-95b4-43d3-bc34-d397637ab9dc)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -82,13 +83,13 @@ Navigation
     
     Latest Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a58ac436-e3ec-4608-8ea8-e47010b09fd2/a58ac436-e3ec-4608-8ea8-e47010b09fd2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a58ac436-e3ec-4608-8ea8-e47010b09fd2/a58ac436-e3ec-4608-8ea8-e47010b09fd2_360x203.jpg)](https://www.king5.com/article/sports/former-wsu-football-coach-rolovich-university-of-california/281-872dfedb-489d-4312-abf6-c877b8b0ed69)
+    *  [![](https://media.king5.com/assets/KING/images/d7b61865-be70-4929-b902-7371b91cd9b3/20241215T014131/d7b61865-be70-4929-b902-7371b91cd9b3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d7b61865-be70-4929-b902-7371b91cd9b3/20241215T014131/d7b61865-be70-4929-b902-7371b91cd9b3_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/seahawks-going-for-five-straight-wins-hosting-green-bay-sunday-night/281-e8d152dd-74ef-48e8-948e-d3e211946a40)
         
-        #### [WSU coach fired for refusing to get COVID vaccine hired at Cal](https://www.king5.com/article/sports/former-wsu-football-coach-rolovich-university-of-california/281-872dfedb-489d-4312-abf6-c877b8b0ed69)
+        #### [Seahawks going for five straight wins, hosting Green Bay Sunday night](https://www.king5.com/article/sports/nfl/seahawks/seahawks-going-for-five-straight-wins-hosting-green-bay-sunday-night/281-e8d152dd-74ef-48e8-948e-d3e211946a40)
         
-    *  [![](https://media.king5.com/assets/KING/images/cf1a05cd-500c-4ea1-930e-d38a3b901fd4/20241213T165106/cf1a05cd-500c-4ea1-930e-d38a3b901fd4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf1a05cd-500c-4ea1-930e-d38a3b901fd4/20241213T165106/cf1a05cd-500c-4ea1-930e-d38a3b901fd4_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/how-to-watch-packers-seahawks/281-1dfa5b44-5f34-4733-9030-99b79f023c40)
+    *  [![](https://media.king5.com/assets/KING/images/fa85e45c-0032-40cc-ac7a-386db873d3cd/20241215T020622/fa85e45c-0032-40cc-ac7a-386db873d3cd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fa85e45c-0032-40cc-ac7a-386db873d3cd/20241215T020622/fa85e45c-0032-40cc-ac7a-386db873d3cd_360x203.jpg)](https://www.king5.com/article/sports/college/colorado-two-way-star-travis-hunter-wins-heisman-trophy-as-college-footballs-top-player/281-4c8bde13-e3a2-4c9c-a215-dfafdc797234)
         
-        #### [Here's how to watch Seahawks vs. Packers on KING 5](https://www.king5.com/article/sports/nfl/seahawks/how-to-watch-packers-seahawks/281-1dfa5b44-5f34-4733-9030-99b79f023c40)
+        #### [Colorado two-way star Travis Hunter wins Heisman Trophy as college football's top player](https://www.king5.com/article/sports/college/colorado-two-way-star-travis-hunter-wins-heisman-trophy-as-college-footballs-top-player/281-4c8bde13-e3a2-4c9c-a215-dfafdc797234)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -105,9 +106,9 @@ Navigation
 
 Seattle, WA »
 
-49°
+46°
 
-![Mostly Cloudy/Wind](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
