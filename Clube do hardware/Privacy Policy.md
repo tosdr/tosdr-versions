@@ -130,105 +130,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Guilherme De Paula Martins](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257939.thumb.jpeg.4b60d3f2935875fb60d6eb82b8370d8f.jpeg)](https://www.clubedohardware.com.br/profile/1257939-guilherme-de-paula-martins/ "Ir ao perfil de Guilherme De Paula Martins")
+    * [![megag7765](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1144492.thumb.png.e6457ebefbd1524872713cb67c453317.png)](https://www.clubedohardware.com.br/profile/1144492-megag7765/ "Ir ao perfil de megag7765")
         
-        0
+        4
         
-        [Estou montando meu primeiro computador e preciso de algumas ajudas](https://www.clubedohardware.com.br/forums/topic/1705552-estou-montando-meu-primeiro-computador-e-preciso-de-algumas-ajudas/?do=getNewComment "Estou montando meu primeiro computador e preciso de algumas ajudas")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Guilherme De Paula Martins](https://www.clubedohardware.com.br/profile/1257939-guilherme-de-paula-martins/ "Ir ao perfil de Guilherme De Paula Martins")  
-        23 minutos atrás
-        
-    * [![Brunno22](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256034.thumb.jpeg.cb799fab942cdd13e85e3cc24f35d536.jpeg)](https://www.clubedohardware.com.br/profile/1256034-brunno22/ "Ir ao perfil de Brunno22")
-        
-        0
-        
-        [Qual impressora devo comprar? Epson L6270, Epson L6490, Canon Maxify GX4010](https://www.clubedohardware.com.br/forums/topic/1705547-qual-impressora-devo-comprar-epson-l6270-epson-l6490-canon-maxify-gx4010/?do=getNewComment "Qual impressora devo comprar? Epson L6270, Epson L6490, Canon Maxify GX4010")
-        
-        [Impressoras, scanners e multifuncionais](https://www.clubedohardware.com.br/forums/forum/27-impressoras-scanners-e-multifuncionais/ "Impressoras, scanners e multifuncionais")  
-        Por [Brunno22](https://www.clubedohardware.com.br/profile/1256034-brunno22/ "Ir ao perfil de Brunno22")  
-        40 minutos atrás
-        
-    * [![Edvaldo J. Frederico](https://www.clubedohardware.com.br/uploads/members/monthly_2023_10/eeuuu.thumb.jpg.e8be86be198d662fa77934a49a39799e.jpg)](https://www.clubedohardware.com.br/profile/285964-edvaldo-j-frederico/ "Ir ao perfil de Edvaldo J. Frederico")
-        
-        0
-        
-        [Core i5 13600KF + B660M Auros Pro DDR4 não libera seu máximo](https://www.clubedohardware.com.br/forums/topic/1705546-core-i5-13600kf-b660m-auros-pro-ddr4-n%C3%A3o-libera-seu-m%C3%A1ximo/?do=getNewComment "Core i5 13600KF + B660M Auros Pro DDR4 não libera seu máximo")
+        [Intel Core i5 10400f ou R5 8500g](https://www.clubedohardware.com.br/forums/topic/1705589-intel-core-i5-10400f-ou-r5-8500g/?do=getNewComment "Intel Core i5 10400f ou R5 8500g")
         
         [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Edvaldo J. Frederico](https://www.clubedohardware.com.br/profile/285964-edvaldo-j-frederico/ "Ir ao perfil de Edvaldo J. Frederico")  
-        41 minutos atrás
+        Por [megag7765](https://www.clubedohardware.com.br/profile/1144492-megag7765/ "Ir ao perfil de megag7765")  
+        15 minutos atrás
         
-    * [![Mateusz8](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257942.thumb.png.b7c47ed8f117e2678f4472711642f90b.png)](https://www.clubedohardware.com.br/profile/1257942-mateusz8/ "Ir ao perfil de Mateusz8")
+    * [![Banunin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256467.thumb.png.2cbe5524a04f4036587342014e8d6318.png)](https://www.clubedohardware.com.br/profile/1256467-banunin/ "Ir ao perfil de Banunin")
         
-        0
+        2
         
-        [Pc congelando nos jogos: Xeon E3 1270, RX 560 XT](https://www.clubedohardware.com.br/forums/topic/1705545-pc-congelando-nos-jogos-xeon-e3-1270-rx-560-xt/?do=getNewComment "Pc congelando nos jogos: Xeon E3 1270, RX 560 XT")
+        [ASUS P5VD2-X|| Não consigo instalar windows, NENHUM DELES.](https://www.clubedohardware.com.br/forums/topic/1705587-asus-p5vd2-x-n%C3%A3o-consigo-instalar-windows-nenhum-deles/?do=getNewComment "ASUS P5VD2-X|| Não consigo instalar windows, NENHUM DELES.")
         
-        [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
-        Por [Mateusz8](https://www.clubedohardware.com.br/profile/1257942-mateusz8/ "Ir ao perfil de Mateusz8")  
-        43 minutos atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Banunin](https://www.clubedohardware.com.br/profile/1256467-banunin/ "Ir ao perfil de Banunin")  
+        28 minutos atrás
         
-    * [![Kennyz3](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257940.thumb.png.806aefc991264982607a4439e7e4c27b.png)](https://www.clubedohardware.com.br/profile/1257940-kennyz3/ "Ir ao perfil de Kennyz3")
+    * [![paulow1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257954.thumb.png.93cdc12ce0ea255e649c5380661c7fda.png)](https://www.clubedohardware.com.br/profile/1257954-paulow1/ "Ir ao perfil de paulow1")
         
-        0
+        2
         
-        [Notebook dell socket g2 com processador i5: é possível fazer upgrade para i7?](https://www.clubedohardware.com.br/forums/topic/1705544-notebook-dell-socket-g2-com-processador-i5-%C3%A9-poss%C3%ADvel-fazer-upgrade-para-i7/?do=getNewComment "Notebook dell socket g2 com processador i5: é possível fazer upgrade para i7?")
+        [Rx580 tela branca e as vezes tela preta](https://www.clubedohardware.com.br/forums/topic/1705586-rx580-tela-branca-e-as-vezes-tela-preta/?do=getNewComment "Rx580 tela branca e as vezes tela preta")
         
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [Kennyz3](https://www.clubedohardware.com.br/profile/1257940-kennyz3/ "Ir ao perfil de Kennyz3")  
-        1 hora atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [paulow1](https://www.clubedohardware.com.br/profile/1257954-paulow1/ "Ir ao perfil de paulow1")  
+        42 minutos atrás
         
-    * [![rodrigoofera](https://www.clubedohardware.com.br/uploads/members/monthly_2023_10/Semttulo.thumb.jpg.04edc12dda89d65cb6f86634295c8e85.jpg)](https://www.clubedohardware.com.br/profile/913851-rodrigoofera/ "Ir ao perfil de rodrigoofera")
+    * [![Kajen](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23a1c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/572823-kajen/ "Ir ao perfil de Kajen")
         
-        0
+        5
         
-        [Computador não liga após troca de placa-mãe](https://www.clubedohardware.com.br/forums/topic/1705543-computador-n%C3%A3o-liga-ap%C3%B3s-troca-de-placa-m%C3%A3e/?do=getNewComment "Computador não liga após troca de placa-mãe")
+        [Internet no cabo está batendo 9mb/s](https://www.clubedohardware.com.br/forums/topic/1705585-internet-no-cabo-est%C3%A1-batendo-9mbs/?do=getNewComment "Internet no cabo está batendo 9mb/s")
         
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [rodrigoofera](https://www.clubedohardware.com.br/profile/913851-rodrigoofera/ "Ir ao perfil de rodrigoofera")  
-        1 hora atrás
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [Kajen](https://www.clubedohardware.com.br/profile/572823-kajen/ "Ir ao perfil de Kajen")  
+        50 minutos atrás
         
-    * [![Lucas Merigueti](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1211403.thumb.jpeg.c16d42de272e4c3b6d820c5083ad20b9.jpeg)](https://www.clubedohardware.com.br/profile/1211403-lucas-merigueti/ "Ir ao perfil de Lucas Merigueti")
+    * [![gabriel mucci](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244517.thumb.jpeg.f7ea15d4cd97cd2da59f73d4d1b535a4.jpeg)](https://www.clubedohardware.com.br/profile/1244517-gabriel-mucci/ "Ir ao perfil de gabriel mucci")
         
-        0
+        3
         
-        [Placa RX550 não da vídeo](https://www.clubedohardware.com.br/forums/topic/1705542-placa-rx550-n%C3%A3o-da-v%C3%ADdeo/?do=getNewComment "Placa RX550 não da vídeo")
+        [Pc não está reconhecimento todos os núcleos e threads do processador](https://www.clubedohardware.com.br/forums/topic/1705584-pc-n%C3%A3o-est%C3%A1-reconhecimento-todos-os-n%C3%BAcleos-e-threads-do-processador/?do=getNewComment "Pc não está reconhecimento todos os núcleos e threads do processador")
         
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Lucas Merigueti](https://www.clubedohardware.com.br/profile/1211403-lucas-merigueti/ "Ir ao perfil de Lucas Merigueti")  
-        1 hora atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [gabriel mucci](https://www.clubedohardware.com.br/profile/1244517-gabriel-mucci/ "Ir ao perfil de gabriel mucci")  
+        53 minutos atrás
         
-    * [![Willian Trento](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-1041927.thumb.jpeg.481fac87c46efe59e3719c7c3f4de539.jpeg)](https://www.clubedohardware.com.br/profile/1041927-willian-trento/ "Ir ao perfil de Willian Trento")
+    * [![Kajen](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23a1c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/572823-kajen/ "Ir ao perfil de Kajen")
         
         1
         
-        [Fonte MSI MAG A600DN é boa para Ryzen 5 3400G e futura GeForce RTX 3060?](https://www.clubedohardware.com.br/forums/topic/1705541-fonte-msi-mag-a600dn-%C3%A9-boa-para-ryzen-5-3400g-e-futura-geforce-rtx-3060/?do=getNewComment "Fonte MSI MAG A600DN é boa para Ryzen 5 3400G e futura GeForce RTX 3060?")
+        [Coolerbox do Ryz\\en 5 7600 ou melhor trocar?](https://www.clubedohardware.com.br/forums/topic/1705583-coolerbox-do-ryzen-5-7600-ou-melhor-trocar/?do=getNewComment "Coolerbox do Ryz\en 5 7600 ou melhor trocar?")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Kajen](https://www.clubedohardware.com.br/profile/572823-kajen/ "Ir ao perfil de Kajen")  
+        54 minutos atrás
+        
+    * [![Rudson Luchina](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257953.thumb.png.c9242aa5f681eb617be0a1bf56ca4515.png)](https://www.clubedohardware.com.br/profile/1257953-rudson-luchina/ "Ir ao perfil de Rudson Luchina")
+        
+        0
+        
+        [Fonte que caiba no gabinete Aigo Darkflash Korgan K275M](https://www.clubedohardware.com.br/forums/topic/1705577-fonte-que-caiba-no-gabinete-aigo-darkflash-korgan-k275m/?do=getNewComment "Fonte que caiba no gabinete Aigo Darkflash Korgan K275M")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Willian Trento](https://www.clubedohardware.com.br/profile/1041927-willian-trento/ "Ir ao perfil de Willian Trento")  
+        Por [Rudson Luchina](https://www.clubedohardware.com.br/profile/1257953-rudson-luchina/ "Ir ao perfil de Rudson Luchina")  
         1 hora atrás
         
-    * [![OJoo0oohn](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1225852.thumb.jpeg.14b49c94b784978c20c09a672d180417.jpeg)](https://www.clubedohardware.com.br/profile/1225852-ojoo0oohn/ "Ir ao perfil de OJoo0oohn")
+    * [![Perin](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47b62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257614-perin/ "Ir ao perfil de Perin")
         
-        1
+        4
         
-        [Compatibilidade entre os componentes](https://www.clubedohardware.com.br/forums/topic/1705539-compatibilidade-entre-os-componentes/?do=getNewComment "Compatibilidade entre os componentes")
+        [Recomendação de memória que funcione com Ryzen 5 5600GT e chip gráfico integrado](https://www.clubedohardware.com.br/forums/topic/1705573-recomenda%C3%A7%C3%A3o-de-mem%C3%B3ria-que-funcione-com-ryzen-5-5600gt-e-chip-gr%C3%A1fico-integrado/?do=getNewComment "Recomendação de memória que funcione com Ryzen 5 5600GT e chip gráfico integrado")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Perin](https://www.clubedohardware.com.br/profile/1257614-perin/ "Ir ao perfil de Perin")  
+        1 hora atrás
+        
+    * [![UlissesLaércio](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/Tetradrachm_Athens_480-420BC_MBA_Lyon(1).thumb.jpg.222920d193c81fac0b73a3dbf4e17823.jpg)](https://www.clubedohardware.com.br/profile/1122422-ulissesla%C3%A9rcio/ "Ir ao perfil de UlissesLaércio")
+        
+        2
+        
+        [Até R$ 2.500,00: ASUS Prime A320M-K/BR, 16GB e Ryzen 5 3200G, o que mudar?](https://www.clubedohardware.com.br/forums/topic/1705572-at%C3%A9-r-250000-asus-prime-a320m-kbr-16gb-e-ryzen-5-3200g-o-que-mudar/?do=getNewComment "Até R$ 2.500,00: ASUS Prime A320M-K/BR, 16GB e Ryzen 5 3200G, o que mudar?")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [OJoo0oohn](https://www.clubedohardware.com.br/profile/1225852-ojoo0oohn/ "Ir ao perfil de OJoo0oohn")  
+        Por [UlissesLaércio](https://www.clubedohardware.com.br/profile/1122422-ulissesla%C3%A9rcio/ "Ir ao perfil de UlissesLaércio")  
         1 hora atrás
         
     * [![Kuazul](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/73da9ff79fd9fa19603d15163f65ebbf.thumb.jpg.ed76668ad3726f5b856f06a894028a7c.jpg)](https://www.clubedohardware.com.br/profile/1247269-kuazul/ "Ir ao perfil de Kuazul")
         
         1
         
-        [Se um pino do processador estiver torto, ele ainda encaixa na placa-mãe?](https://www.clubedohardware.com.br/forums/topic/1705538-se-um-pino-do-processador-estiver-torto-ele-ainda-encaixa-na-placa-m%C3%A3e/?do=getNewComment "Se um pino do processador estiver torto, ele ainda encaixa na placa-mãe?")
+        [Montei o computador, ele liga porém não da Vídeo](https://www.clubedohardware.com.br/forums/topic/1705571-montei-o-computador-ele-liga-por%C3%A9m-n%C3%A3o-da-v%C3%ADdeo/?do=getNewComment "Montei o computador, ele liga porém não da Vídeo")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
         Por [Kuazul](https://www.clubedohardware.com.br/profile/1247269-kuazul/ "Ir ao perfil de Kuazul")  
-        2 horas atrás
+        1 hora atrás
         
     
 
