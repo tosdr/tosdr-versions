@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Dispatches: Iraq Reckoning](/wp-content/thumbnails/844-100x70.jpg?x53432)
+* [![The Cost of a Coke: 2nd Edition](/wp-content/thumbnails/418-100x70.png?x53432)
     
-    Dispatches: Iraq Reckoning
+    The Cost of a Coke: 2nd Edition
     
-    Peter Oborne, political editor of the Spectator, reports on the West's exit strategy for Iraq. He believes the invasion of Iraq is proving to be the greatest foreign policy failure since Munich. Oborn](https://documentaryheaven.com/dispatches-iraq-reckoning/ "Dispatches: Iraq Reckoning")
-* [![PT 3/3 Nerds 2.0.1: A Brief History of the Internet](/wp-content/thumbnails/2565-100x70.jpg?x53432)
+    Matt Beard’s film exposes the lies, moral bankruptcy and corruption that pervades Coca-Cola in Colombia and highlights conflicts of interest of Federal Judge Jose Martinez in presiding over the Coca-C](https://documentaryheaven.com/the-cost-of-a-coke-2nd-edition/ "The Cost of a Coke: 2nd Edition")
+* [![The Highlanders](/wp-content/thumbnails/6663-100x70.png?x53432)
     
-    PT 3/3 Nerds 2.0.1: A Brief History of the Internet
+    The Highlanders
     
-    Wiring the WorldNerds 2.0.1: A Brief History of the Internet (1998) is a three-hour documentary film written and hosted by Mark Stephens under the pseudonym Robert X. Cringely and produced by Oreg](https://documentaryheaven.com/pt-33-nerds-2-0-1-a-brief-history-of-the-internet/ "PT 3/3 Nerds 2.0.1: A Brief History of the Internet")
-* [![Secrets of World War II: Confusion Was Their Business](/wp-content/thumbnails/6765-100x70.jpg?x53432)
+    A Discovery Channel documentary that takes a look at the Scottish Highlanders.](https://documentaryheaven.com/the-highlanders/ "The Highlanders")
+* [![Yuri Gagarin: Starman](/wp-content/thumbnails/5670-100x70.jpg?x53432)
     
-    Secrets of World War II: Confusion Was Their Business
+    Yuri Gagarin: Starman
     
-    During the chaos and destruction of WWII, ordinary men and women from all walks of life were thrown into fearsome, real-life situations worthy of any Hollywood movie — the only difference is that this](https://documentaryheaven.com/secrets-of-world-war-ii-confusion-was-their-business/ "Secrets of World War II: Confusion Was Their Business")
-* [![The Mystery of the Human Hobbit](/wp-content/thumbnails/3633-100x70.jpg?x53432)
+    Yuri Alekseyevich Gagarin, Hero of the Soviet Union, was a Soviet cosmonaut. On 12 April 1961, he became the first human in outer space and the first to orbit the Earth. He received medals from around](https://documentaryheaven.com/yuri-gagarin-starman/ "Yuri Gagarin: Starman")
+* [![The VIP Paedophile Ring: What’s the Truth](/wp-content/thumbnails/10151-100x70.jpg?x53432)
     
-    The Mystery of the Human Hobbit
+    The VIP Paedophile Ring: What’s the Truth
     
-    Is the hobbit a new human species or nothing more than a modern human with a crippling deformity? On the far-flung island of Flores, in the Indonesian archipelago, a team of archaeologists happened up](https://documentaryheaven.com/the-mystery-of-the-human-hobbit/ "The Mystery of the Human Hobbit")
-* [![Jesus of Siberia](/wp-content/thumbnails/6594-100x70.jpg?x53432)
+    Are these the most serious accusations ever levelled against members of the British establishment? The claim that politicians, military leaders and secret service chiefs got together in order to tortu](https://documentaryheaven.com/vip-paedophile-ring-whats-truth/ "The VIP Paedophile Ring: What’s the Truth")
+* [![Beyond The Mat](/wp-content/thumbnails/6712-100x70.jpg?x53432)
     
-    Jesus of Siberia
+    Beyond The Mat
     
-    More than two decades ago, a 29-year-old patrol officer and talented painter named Sergey Anatolyevitch Torop publicly declared himself reborn as Vissarion. Since then he’s fostered a “unified religi](https://documentaryheaven.com/jesus-of-siberia/ "Jesus of Siberia")
+    Beyond the Mat is a 1999 documentary directed by Barry W. Blaustein. The movie focuses on the lives of professional wrestlers outside of the ring, primarily Mick Foley, Terry Funk, and Jake Roberts, a](https://documentaryheaven.com/beyond-the-mat/ "Beyond The Mat")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
