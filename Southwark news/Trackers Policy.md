@@ -20,6 +20,30 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-charity-launches-christmas-appeal-for-trauma-survivors/)
+    
+    ### [King’s College Hospital Charity launches Christmas appeal for trauma survivors](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-charity-launches-christmas-appeal-for-trauma-survivors/) 
+    
+    [![Andy and Diane and the steps separating Diane from the outside world](https://southwarknews.co.uk/wp-content/uploads/2024/12/Andy-and-Diane-and-the-steps-separating-Diane-from-the-outside-world-360x180.png)](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
+    
+    ### [Disabled woman has not left Borough flat in two years as fourteen steps separate her from freedom](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/sydenham-motorbike-360x180.jpg)](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
+    
+    ### [Elderly petrolhead gets surprise motorbike show at hospice in early Christmas gift](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
+    
+    [![Image credit:  King's College Hospital](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screenshot-2024-12-13-at-11.35.35-360x180.png)](https://southwarknews.co.uk/area/camberwell/child-patients-exploring-magical-world-of-fairies-and-goblins-thanks-to-interactive-artwork-at-south-london-hospital/)
+    
+    ### [Child patients exploring ‘magical world’ of fairies and goblins thanks to interactive artwork at South London hospital](https://southwarknews.co.uk/area/camberwell/child-patients-exploring-magical-world-of-fairies-and-goblins-thanks-to-interactive-artwork-at-south-london-hospital/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/ES-LB-Customers-Dec2021-DSC08859-copy-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/electric-shuffle-unveils-limited-edition-winter-menu-and-festive-brunch/)
+    
+    ### [Electric Shuffle unveils limited edition winter menu and Festive Brunch](https://southwarknews.co.uk/area/bermondsey/electric-shuffle-unveils-limited-edition-winter-menu-and-festive-brunch/)
+    
+    [![Protestors outside the Aylesham Centre in June (ACA)](https://southwarknews.co.uk/wp-content/uploads/2024/12/17-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/comment-labour-councillors-are-choosing-sides-in-tug-of-war-over-peckhams-future/)
+    
+    ### [Comment: Labour councillors are choosing sides in tug-of-war over Peckham’s future](https://southwarknews.co.uk/area/peckham/comment-labour-councillors-are-choosing-sides-in-tug-of-war-over-peckhams-future/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/CWMP--360x180.png)](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
     
     ### [Canada Water towers set to reach almost 50 storeys in ‘massive’ increase](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
@@ -31,31 +55,6 @@
     [![Theo and Rebekah at his graduation at Goldsmiths, January 2023](https://southwarknews.co.uk/wp-content/uploads/2024/12/Theo-and-Rebekah-at-his-graduation-Goldsmiths-Jan-2023-e1734018073828-360x180.jpeg)](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
     
     ### [‘There must be someone out there’: Young Peckham woman’s plea for stem cell donors after fiancé’s cancer diagnosis](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
-    
-    [![Sadiq Khan laughs after being asked about a petition calling for him not to be knighted.
-    Photo from Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/12/Sadiq-Khan-laughs-after-being-asked-about-a-petition-calling-for-him-not-to-be-knighted-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-laughs-off-petition-calling-for-a-block-on-him-getting-a-knighthood/)
-    
-    ### [Sadiq Khan laughs off petition calling for a block on him getting a knighthood](https://southwarknews.co.uk/area/london/sadiq-khan-laughs-off-petition-calling-for-a-block-on-him-getting-a-knighthood/)
-    
-    [![Image from Creative Commons rawpixel](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-from-Creative-Commons-rawpixel-360x180.jpg)](https://southwarknews.co.uk/area/south-london/mum-of-two-disabled-kids-unable-to-live-with-them-after-she-was-housed-in-flat-with-no-wheelchair-access/)
-    
-    ### [Mum of two disabled kids unable to live with them after she was housed in flat with no wheelchair access](https://southwarknews.co.uk/area/south-london/mum-of-two-disabled-kids-unable-to-live-with-them-after-she-was-housed-in-flat-with-no-wheelchair-access/)
-    
-    [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/fire-damages-crystal-palace-house/)
-    
-    ### [Fire damages Crystal Palace house](https://southwarknews.co.uk/area/crystal-palace/fire-damages-crystal-palace-house/)
-    
-    [![Tai Yasharahyalah and his wife, Naiyahmi Yasharahyalah, were jailed for 24-and-a-half years and 19-and-a-half years respectively](https://southwarknews.co.uk/wp-content/uploads/2024/12/loopflex3-e1734087485675-360x180.jpg)](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
-    
-    ### [Man who embalmed and buried son in back garden jailed alongside wife for 24-and-a-half years](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
-    
-    [![Craig Dorney, from Lewisham, took advantage of a young woman after they happened to meet getting out of separate taxis](https://southwarknews.co.uk/wp-content/uploads/2024/12/Craig-Dorney-from-Lewisham-took-advantage-of-a-young-woman-after-they-happened-to-meet-getting-out-of-separate-taxis-360x180.png)](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
-    
-    ### [Opportunistic rapist foiled after victim recorded horrific attack](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
-    
-    [![British Transport Police are investigating the incident (credit: Team London Bridge)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-13-12-2024-at-09.58-360x180.jpg)](https://southwarknews.co.uk/area/borough/four-women-assaulted-two-others-between-london-bridge-and-kent/)
-    
-    ### [‘Four women assaulted’ two others between London Bridge and Kent](https://southwarknews.co.uk/area/borough/four-women-assaulted-two-others-between-london-bridge-and-kent/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +105,30 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-charity-launches-christmas-appeal-for-trauma-survivors/)
+    
+    ### [King’s College Hospital Charity launches Christmas appeal for trauma survivors](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-charity-launches-christmas-appeal-for-trauma-survivors/) 
+    
+    [![Andy and Diane and the steps separating Diane from the outside world](https://southwarknews.co.uk/wp-content/uploads/2024/12/Andy-and-Diane-and-the-steps-separating-Diane-from-the-outside-world-360x180.png)](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
+    
+    ### [Disabled woman has not left Borough flat in two years as fourteen steps separate her from freedom](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/sydenham-motorbike-360x180.jpg)](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
+    
+    ### [Elderly petrolhead gets surprise motorbike show at hospice in early Christmas gift](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
+    
+    [![Image credit:  King's College Hospital](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screenshot-2024-12-13-at-11.35.35-360x180.png)](https://southwarknews.co.uk/area/camberwell/child-patients-exploring-magical-world-of-fairies-and-goblins-thanks-to-interactive-artwork-at-south-london-hospital/)
+    
+    ### [Child patients exploring ‘magical world’ of fairies and goblins thanks to interactive artwork at South London hospital](https://southwarknews.co.uk/area/camberwell/child-patients-exploring-magical-world-of-fairies-and-goblins-thanks-to-interactive-artwork-at-south-london-hospital/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/ES-LB-Customers-Dec2021-DSC08859-copy-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/electric-shuffle-unveils-limited-edition-winter-menu-and-festive-brunch/)
+    
+    ### [Electric Shuffle unveils limited edition winter menu and Festive Brunch](https://southwarknews.co.uk/area/bermondsey/electric-shuffle-unveils-limited-edition-winter-menu-and-festive-brunch/)
+    
+    [![Protestors outside the Aylesham Centre in June (ACA)](https://southwarknews.co.uk/wp-content/uploads/2024/12/17-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/comment-labour-councillors-are-choosing-sides-in-tug-of-war-over-peckhams-future/)
+    
+    ### [Comment: Labour councillors are choosing sides in tug-of-war over Peckham’s future](https://southwarknews.co.uk/area/peckham/comment-labour-councillors-are-choosing-sides-in-tug-of-war-over-peckhams-future/)
+    
     [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/CWMP--360x180.png)](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
     
     ### [Canada Water towers set to reach almost 50 storeys in ‘massive’ increase](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
@@ -117,31 +140,6 @@ View All Result
     [![Theo and Rebekah at his graduation at Goldsmiths, January 2023](https://southwarknews.co.uk/wp-content/uploads/2024/12/Theo-and-Rebekah-at-his-graduation-Goldsmiths-Jan-2023-e1734018073828-360x180.jpeg)](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
     
     ### [‘There must be someone out there’: Young Peckham woman’s plea for stem cell donors after fiancé’s cancer diagnosis](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
-    
-    [![Sadiq Khan laughs after being asked about a petition calling for him not to be knighted.
-    Photo from Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/12/Sadiq-Khan-laughs-after-being-asked-about-a-petition-calling-for-him-not-to-be-knighted-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-laughs-off-petition-calling-for-a-block-on-him-getting-a-knighthood/)
-    
-    ### [Sadiq Khan laughs off petition calling for a block on him getting a knighthood](https://southwarknews.co.uk/area/london/sadiq-khan-laughs-off-petition-calling-for-a-block-on-him-getting-a-knighthood/)
-    
-    [![Image from Creative Commons rawpixel](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-from-Creative-Commons-rawpixel-360x180.jpg)](https://southwarknews.co.uk/area/south-london/mum-of-two-disabled-kids-unable-to-live-with-them-after-she-was-housed-in-flat-with-no-wheelchair-access/)
-    
-    ### [Mum of two disabled kids unable to live with them after she was housed in flat with no wheelchair access](https://southwarknews.co.uk/area/south-london/mum-of-two-disabled-kids-unable-to-live-with-them-after-she-was-housed-in-flat-with-no-wheelchair-access/)
-    
-    [![Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/06/stock-fire-engines-1-london-fire-brigade-360x180.jpeg)](https://southwarknews.co.uk/area/crystal-palace/fire-damages-crystal-palace-house/)
-    
-    ### [Fire damages Crystal Palace house](https://southwarknews.co.uk/area/crystal-palace/fire-damages-crystal-palace-house/)
-    
-    [![Tai Yasharahyalah and his wife, Naiyahmi Yasharahyalah, were jailed for 24-and-a-half years and 19-and-a-half years respectively](https://southwarknews.co.uk/wp-content/uploads/2024/12/loopflex3-e1734087485675-360x180.jpg)](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
-    
-    ### [Man who embalmed and buried son in back garden jailed alongside wife for 24-and-a-half years](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
-    
-    [![Craig Dorney, from Lewisham, took advantage of a young woman after they happened to meet getting out of separate taxis](https://southwarknews.co.uk/wp-content/uploads/2024/12/Craig-Dorney-from-Lewisham-took-advantage-of-a-young-woman-after-they-happened-to-meet-getting-out-of-separate-taxis-360x180.png)](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
-    
-    ### [Opportunistic rapist foiled after victim recorded horrific attack](https://southwarknews.co.uk/area/south-london/opportunistic-rapist-foiled-after-victim-recorded-horrific-attack/)
-    
-    [![British Transport Police are investigating the incident (credit: Team London Bridge)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-13-12-2024-at-09.58-360x180.jpg)](https://southwarknews.co.uk/area/borough/four-women-assaulted-two-others-between-london-bridge-and-kent/)
-    
-    ### [‘Four women assaulted’ two others between London Bridge and Kent](https://southwarknews.co.uk/area/borough/four-women-assaulted-two-others-between-london-bridge-and-kent/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -209,6 +207,12 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [11th December 2024](https://southwarknews.co.uk/sport/football/millwall/mourinho-jokingly-rules-out-becoming-next-millwall-boss-but-surprise-name-among-favourites-to-succeed-harris/)
 
+[![Neil Harris acknowledges the away fans after his last game. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/Harris-Boro-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/i-dont-need-that-neil-harris-reacts-after-millwall-beaten-by-middlesbrough-in-his-last-game-in-charge/)
+
+### [‘I don’t need that’ – Neil Harris reacts after Millwall beaten by Middlesbrough in his last game in charge](https://southwarknews.co.uk/sport/football/millwall/i-dont-need-that-neil-harris-reacts-after-millwall-beaten-by-middlesbrough-in-his-last-game-in-charge/)
+
+[14th December 2024](https://southwarknews.co.uk/sport/football/millwall/i-dont-need-that-neil-harris-reacts-after-millwall-beaten-by-middlesbrough-in-his-last-game-in-charge/)
+
 [![Neil Harris applauds supporters after his side beat Swansea City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/N-Harris-25425727-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
 
 ### [Neil Harris addresses Lions fans as he explains decision to leave Millwall for second time](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
@@ -233,13 +237,19 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [8th December 2024](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
 
-[![L: Wyndham and Comber Estate (Google Maps). R: Leaseholders Peter and Michael.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-17.33-e1733506531831-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
-
-### [Exclusive: Over a thousand Camberwell households left ‘freezing’ as boiler serving whole estate breaks](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
-
-[9th December 2024](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
-
 ### Featured Articles
+
+[![Andy and Diane and the steps separating Diane from the outside world](https://southwarknews.co.uk/wp-content/uploads/2024/12/Andy-and-Diane-and-the-steps-separating-Diane-from-the-outside-world-120x86.png)](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
+
+### [Disabled woman has not left Borough flat in two years as fourteen steps separate her from freedom](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
+
+[15th December 2024](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
+
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/12/sydenham-motorbike-120x86.jpg)](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
+
+### [Elderly petrolhead gets surprise motorbike show at hospice in early Christmas gift](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
+
+[15th December 2024](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
 
 [![Ayaan Al Waeys was just 35 when she tragically died in November 2022.](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-03-14-40-10-e1734104730383-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
 
@@ -265,18 +275,6 @@ Photo from Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/12/
 ### [Sadiq Khan laughs off petition calling for a block on him getting a knighthood](https://southwarknews.co.uk/area/london/sadiq-khan-laughs-off-petition-calling-for-a-block-on-him-getting-a-knighthood/)
 
 [14th December 2024](https://southwarknews.co.uk/area/london/sadiq-khan-laughs-off-petition-calling-for-a-block-on-him-getting-a-knighthood/)
-
-[![Image from Creative Commons rawpixel](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-from-Creative-Commons-rawpixel-120x86.jpg)](https://southwarknews.co.uk/area/south-london/mum-of-two-disabled-kids-unable-to-live-with-them-after-she-was-housed-in-flat-with-no-wheelchair-access/)
-
-### [Mum of two disabled kids unable to live with them after she was housed in flat with no wheelchair access](https://southwarknews.co.uk/area/south-london/mum-of-two-disabled-kids-unable-to-live-with-them-after-she-was-housed-in-flat-with-no-wheelchair-access/)
-
-[14th December 2024](https://southwarknews.co.uk/area/south-london/mum-of-two-disabled-kids-unable-to-live-with-them-after-she-was-housed-in-flat-with-no-wheelchair-access/)
-
-[![Tai Yasharahyalah and his wife, Naiyahmi Yasharahyalah, were jailed for 24-and-a-half years and 19-and-a-half years respectively](https://southwarknews.co.uk/wp-content/uploads/2024/12/loopflex3-e1734087485675-120x86.jpg)](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
-
-### [Man who embalmed and buried son in back garden jailed alongside wife for 24-and-a-half years](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
-
-[13th December 2024](https://southwarknews.co.uk/area/peckham/man-who-embalmed-and-buried-son-in-back-garden-jailed-alongside-wife-for-24-and-a-half-years/)
 
 ### USEFUL PAGES
 
