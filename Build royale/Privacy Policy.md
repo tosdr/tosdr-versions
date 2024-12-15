@@ -29,6 +29,20 @@ on the home page or go to:
 +     Build Royale - Game Version History     +
 + ------------------------------------------- +
 
+1.9.4 - ( 15/12/2024 ) ( Dec 15th, 2024 ):
+
+Balancing
+	- Buffed Minigun
+		- Base Damage 9 => 10
+		- Bullet Velocity 2200 => 2400
+
+Bug Fixes
+	- Fixed an issue related to inputting letters related to keybinds.
+	- Fixed an issue where presents and the amber would spawn multiple weapons.
+	- Fixed an issue relating to new throwables and giant snowball not tracking damage or kills.
+	- Fixed an issue where vaulted weapons were used in missions.
+	- Fixed an issue where the spectator ui could be visible for normal players.
+
 1.9.3 - ( 14/12/2024 ) ( Dec 14th, 2024 ):
 
 ![](./thumbnail/19.png)
