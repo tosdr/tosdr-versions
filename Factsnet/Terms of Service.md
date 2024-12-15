@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![40 Facts About Peter Kay ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/40-facts-about-peter-kay/)
+[![50 Facts About Trevor Noah ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-trevor-noah/)
 
 Celebrity
 
-14 Dec 2024
+15 Dec 2024
 
-[40 Facts About Peter Kay](https://facts.net/celebrity/40-facts-about-peter-kay/)
+[50 Facts About Trevor Noah](https://facts.net/celebrity/50-facts-about-trevor-noah/)
 
-[![50 Facts About Quentin Johnston ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-quentin-johnston/)
+[![30 Facts About Megacystis Microcolon Intestinal Hypoperistalsis ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-megacystis-microcolon-intestinal-hypoperistalsis/)
 
-Celebrity
+Health Science
 
-14 Dec 2024
+15 Dec 2024
 
-[50 Facts About Quentin Johnston](https://facts.net/celebrity/50-facts-about-quentin-johnston/)
+[30 Facts About Megacystis Microcolon Intestinal Hypoperistalsis](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-megacystis-microcolon-intestinal-hypoperistalsis/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
