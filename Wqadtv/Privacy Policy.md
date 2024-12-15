@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/259446dc-b7a0-4050-938c-164552e1ed53/259446dc-b7a0-4050-938c-164552e1ed53_16x9.png) ![](https://media.tegna-media.com/assets/WQAD/images/259446dc-b7a0-4050-938c-164552e1ed53/259446dc-b7a0-4050-938c-164552e1ed53_360x203.png)](https://www.wqad.com/article/weather/closings/inclement-weather-closes-business-postponements/526-ec7045dd-18b4-40bb-88b7-32c5ff37c88d)
+    *  [![](https://media.tegna-media.com/assets/KXTV/images/a2203ae4-8eb7-4437-9fad-9e21ccb57656/20241215T034150/a2203ae4-8eb7-4437-9fad-9e21ccb57656_16x9.jpg) ![](https://media.tegna-media.com/assets/KXTV/images/a2203ae4-8eb7-4437-9fad-9e21ccb57656/20241215T034150/a2203ae4-8eb7-4437-9fad-9e21ccb57656_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/tornado-damage-powerlines-car/103-94f4df2e-0470-4aef-82e7-a0adcae3d3f0)
         
-        #### [Icy roads lead to local business closures and event postponements](https://www.wqad.com/article/weather/closings/inclement-weather-closes-business-postponements/526-ec7045dd-18b4-40bb-88b7-32c5ff37c88d)
+        #### [Tornado causes damage, several people injured after touching down in California](https://www.wqad.com/article/weather/weather-impact/tornado-damage-powerlines-car/103-94f4df2e-0470-4aef-82e7-a0adcae3d3f0)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/f6bbe81b-b677-4f12-b9a5-9f865484e82e/20241214T210622/f6bbe81b-b677-4f12-b9a5-9f865484e82e_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/f6bbe81b-b677-4f12-b9a5-9f865484e82e/20241214T210622/f6bbe81b-b677-4f12-b9a5-9f865484e82e_360x203.jpg)](https://www.wqad.com/article/news/nation-world/tornado-warning-san-francisco-ice-storms-iowa-nebraska/507-5687ff4c-ab1f-4835-981d-22a104c228ca)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/aec00dd0-c473-4129-b0ab-d250e709e7c9/20241215T004618/aec00dd0-c473-4129-b0ab-d250e709e7c9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aec00dd0-c473-4129-b0ab-d250e709e7c9/20241215T004618/aec00dd0-c473-4129-b0ab-d250e709e7c9_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Storms encase Great Plains in ice and generate rare tornado warning in San Francisco](https://www.wqad.com/article/news/nation-world/tornado-warning-san-francisco-ice-storms-iowa-nebraska/507-5687ff4c-ab1f-4835-981d-22a104c228ca)
+        #### [Rain to continue this evening before a foggy Sunday morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -74,13 +74,13 @@ Navigation
     
     Latest Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e5de6744-9f1a-4d76-9794-a6eae78eefe8/20240906T144305/e5de6744-9f1a-4d76-9794-a6eae78eefe8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e5de6744-9f1a-4d76-9794-a6eae78eefe8/20240906T144305/e5de6744-9f1a-4d76-9794-a6eae78eefe8_360x203.jpg)](https://www.wqad.com/article/sports/the-score/vote-for-this-weeks-midwest-technical-institute-score-standout-week-16/526-c20f8b6c-29e5-4dca-af0f-3cb05f45350a)
+        
+        #### [Vote for this week's Midwest Technical Institute Score Standout | Week 16](https://www.wqad.com/article/sports/the-score/vote-for-this-weeks-midwest-technical-institute-score-standout-week-16/526-c20f8b6c-29e5-4dca-af0f-3cb05f45350a)
+        
     *  [![](https://media.tegna-media.com/assets/WOI/images/fd4905da-00fb-403c-86b5-9dd1bb8deccb/20241212T044105/fd4905da-00fb-403c-86b5-9dd1bb8deccb_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/fd4905da-00fb-403c-86b5-9dd1bb8deccb/20241212T044105/fd4905da-00fb-403c-86b5-9dd1bb8deccb_360x203.jpg)](https://www.wqad.com/article/sports/college/iowa-women-rally-beat-iowa-state/524-5f64ac08-63bc-4058-9132-83bbb6ec72fa)
         
         #### [No. 21 Iowa women rally in fourth quarter to beat No. 18 Iowa State 75-69](https://www.wqad.com/article/sports/college/iowa-women-rally-beat-iowa-state/524-5f64ac08-63bc-4058-9132-83bbb6ec72fa)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/cb42fb9e-923e-4223-88fa-fd80b618a7a2/20241211T162504/cb42fb9e-923e-4223-88fa-fd80b618a7a2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cb42fb9e-923e-4223-88fa-fd80b618a7a2/20241211T162504/cb42fb9e-923e-4223-88fa-fd80b618a7a2_360x203.jpg)](https://www.wqad.com/article/sports/local-sports/lsu-kim-mulkey-davenport-divine-bourrage-quad-cities-basketball/526-34443888-079b-47cd-b27f-42c4e29b2e6e)
-        
-        #### [LSU's Kim Mulkey visits the Quad Cities to watch 5-star Davenport North recruit Divine Bourrage](https://www.wqad.com/article/sports/local-sports/lsu-kim-mulkey-davenport-divine-bourrage-quad-cities-basketball/526-34443888-079b-47cd-b27f-42c4e29b2e6e)
         
     
 * [VERIFY](https://www.wqad.com/verify)
@@ -97,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-33°
+36°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Fog](/assets/shared-images/weather-icons/fog-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
