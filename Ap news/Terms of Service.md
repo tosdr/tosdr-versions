@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
+    * [Christians in Syria mark country's transformation with tears as UN envoy urges an end to sanctions](https://apnews.com/article/syria-assad-sanctions-un-3f0031108d7e58c2343bd6a8fd42254c)
     * [One week into a new Syria, rebels aim for normalcy and Syrians vow not to be silent again](https://apnews.com/article/syria-week-one-transitional-government-c06673aa3317a194619710948264cdf1)
-    * [US officials have been in direct contact with the Syrian rebel group that ousted Assad, Blinken says](https://apnews.com/article/blinken-syria-assad-hts-transition-mideast-5fcff887a74dc9ec36e483c0b601a8c2)
-    * [A diminished Hezbollah is made even weaker by the toppling of Assad in Syria](https://apnews.com/article/lebanon-syria-iran-hezbollah-assad-hts-israel-fadc4fa97f2036a24f821f51e4eb6634)
+    * [Israel will close its Ireland embassy over Gaza tensions as Palestinian death toll nears 45,000](https://apnews.com/article/israel-palestinians-hamas-war-news-12-15-2024-b97bfffe851f87328ab24017da8d7a32)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
-    * [Rare tornado warning for San Francisco as major ice storm rakes Iowa, Nebraska](https://apnews.com/article/ice-iowa-nebraska-treacherous-road-tornado-fc5493b70887cb3c25d97190ffbf66b7)
-    * [Texas' abortion pill lawsuit against New York doctor marks new challenge to interstate telemedicine](https://apnews.com/article/abortion-pills-lawsuit-shield-laws-texas-telemedicine-74c9b7d5c3c152e4c8f199b29132daec)
-    * [Drones, planes or UFOs? Americans abuzz over mysterious New Jersey sightings](https://apnews.com/article/drones-new-jersey-buzz-6ef6cfdd5dd6508da22b3c3a1d2f6718)
+    * [US agencies should use advanced technology to identify mysterious drones, Schumer says](https://apnews.com/article/drones-new-york-jersey-schumer-80de1d64708677cfa7efc60249075d7b)
+    * [Storms across US bring heavy snow, dangerous ice and a tornado in California](https://apnews.com/article/winter-weather-snow-ice-storm-tornado-46d9848b6908aed8f79d0e1064699ee0)
+    * [The GOP stoked fears of noncitizens voting. Cases in Ohio show how rhetoric and reality diverge](https://apnews.com/article/noncitizen-voting-republicans-prosecutions-2024-election-ohio-ae9dafeeb47ea8941bf82f5988b269ef)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
+    * [The GOP stoked fears of noncitizens voting. Cases in Ohio show how rhetoric and reality diverge](https://apnews.com/article/noncitizen-voting-republicans-prosecutions-2024-election-ohio-ae9dafeeb47ea8941bf82f5988b269ef)
     * [ABC agrees to give $15 million to Donald Trump's presidential library to settle defamation lawsuit](https://apnews.com/article/abc-trump-lawsuit-defamation-stephanopoulos-04aea8663310af39ae2a85f4c1a56d68)
     * [Trump gets warm welcome as he watches Army-Navy game alongside key allies, nominees and Daniel Penny](https://apnews.com/article/trump-army-navy-football-penny-hegseth-desantis-85da138b3ac130b211afc414bf43514a)
-    * [Trump appoints longtime foreign policy adviser Richard Grenell to serve as special missions envoy](https://apnews.com/article/richard-grenell-secretary-of-state-trump-5e7410edd659870307a5eba762f8136c)
     
     Newsletters
     
@@ -73,8 +73,8 @@ Menu
     TOP STORIES
     
     * [Colorado two-way star Travis Hunter wins Heisman Trophy as college football's top player](https://apnews.com/article/heisman-trophy-travis-hunter-colorado-c76c411ca04108018eefb18beaa649fe)
-    * [Blake Horvath shines as Navy dominates in a 31-13 victory over Bryson Daily and No. 19 Army](https://apnews.com/article/army-navy-score-9d31c1bf631fd74b7130026af561825c)
-    * [Shiffrin recovering after abdominal surgery to clean out deep puncture wound suffered in race crash](https://apnews.com/article/mikaela-shiffrin-3d28bee5ef6f7dd543fe42b288fc6f68)
+    * [Mara gets another aerial message to thrash the Giants before game against the Ravens](https://apnews.com/article/giants-plane-mara-metlife-81d0ec2c54542e0c1218182fe1dae7e9)
+    * [Man United secures stunning late 2-1 comeback win against Man City](https://apnews.com/article/manchester-city-man-united-score-premier-league-b01866c0a6c7145aea9c8c79a1e3bbb6)
     
     Newsletters
     
@@ -94,9 +94,9 @@ Menu
     
     TOP STORIES
     
+    * [‘Kraven the Hunter’ had one of the worst openings for a Marvel-adjacent property, estimates show](https://apnews.com/article/box-office-b79d8c3a84483f15fc3dace19dbef5d5)
     * [ABC agrees to give $15 million to Donald Trump's presidential library to settle defamation lawsuit](https://apnews.com/article/abc-trump-lawsuit-defamation-stephanopoulos-04aea8663310af39ae2a85f4c1a56d68)
     * [Woman accusing Jay-Z and Sean 'Diddy' Combs of sexual assault acknowledges inconsistencies](https://apnews.com/article/jayz-rape-allegation-sean-combs-diddy-inconsistencies-667e3c5f2abca341975741e536969d71)
-    * [Storms across US bring heavy snow, dangerous ice and a tornado in California](https://apnews.com/article/winter-weather-snow-ice-storm-tornado-46d9848b6908aed8f79d0e1064699ee0)
     
 * [Business](https://apnews.com/business)
     
@@ -106,9 +106,9 @@ Menu
     
     TOP STORIES
     
+    * [‘Kraven the Hunter’ had one of the worst openings for a Marvel-adjacent property, estimates show](https://apnews.com/article/box-office-b79d8c3a84483f15fc3dace19dbef5d5)
+    * [Small businesses say cautious shoppers are seeking 'cozy' and 'festive' this holiday season](https://apnews.com/article/small-business-holiday-shopping-cozy-festive-decor-307a9f2ad66cf05ee1a848530aaab36a)
     * [Supreme Court will take up a challenge related to California's tough vehicle emissions standards](https://apnews.com/article/supreme-court-california-auto-emissions-climate-change-7aff58362d99dd0892b7a8540f3382c1)
-    * [Musk says US is demanding he pay penalty over disclosures of his Twitter stock purchases](https://apnews.com/article/musk-sec-twitter-stock-purchases-penalty-letter-0eddad3db779c5b07988d7b9886b10b2)
-    * [Trump hosts Apple CEO at Mar-a-Lago as big tech leaders continue outreach to president-elect](https://apnews.com/article/trump-apple-tim-cook-tech-0a9fb8e6df321f6553c23b5138ff1f06)
     
 * [Science](https://apnews.com/science)
     
@@ -190,9 +190,9 @@ Menu
     
     TOP STORIES
     
+    * [American chestnuts are part of yuletide lore. But in the US, they've nearly been wiped out](https://apnews.com/article/american-chestnut-trees-roasting-blight-chinese-restoration-1c3e50ef33a67926c0800222f0e7e619)
+    * [UN talks fail to reach agreement on dealing with rising risk of global drought](https://apnews.com/article/un-drought-desertification-climate-riyadh-saudi-arabia-a353d12a2fe8c19e932f96198fa3421d)
     * [Saudi Arabia's plans to host the men's World Cup will harm the climate, experts warn](https://apnews.com/article/climate-world-cup-saudi-arabia-greenhouse-gas-emissions-8750010f26aa1767b69e726c990f7388)
-    * [Environmental groups condemn new laws threatening soybean restrictions in Brazil's Amazon](https://apnews.com/article/brazil-amazon-soy-moratorium-mato-grosso-deforestation-greenpeace-dfeb8b1e5cf48c7ea7bf881499c8f508)
-    * [In Nigeria's lithium boom, many mines are illegal and children do much of the work](https://apnews.com/article/lithium-mining-energy-transition-child-labor-nigeria-africa-22155590dddf7ecc0b9fd55b221c6d9f)
     
 * [Health](https://apnews.com/health)
     
@@ -213,9 +213,9 @@ Menu
     
     TOP STORIES
     
+    * [US agencies should use advanced technology to identify mysterious drones, Schumer says](https://apnews.com/article/drones-new-york-jersey-schumer-80de1d64708677cfa7efc60249075d7b)
     * [Trump hosts Apple CEO at Mar-a-Lago as big tech leaders continue outreach to president-elect](https://apnews.com/article/trump-apple-tim-cook-tech-0a9fb8e6df321f6553c23b5138ff1f06)
     * [OpenAI's legal battle with Elon Musk reveals internal turmoil over avoiding AI 'dictatorship'](https://apnews.com/article/elon-musk-openai-lawsuit-sam-altman-chatgpt-36bc55dbb8b4f9e1e5675ff7564e5fa0)
-    * [OpenAI's Altman will donate $1 million to Trump's inaugural fund](https://apnews.com/article/sam-altman-donald-trump-openai-3b7a87037f3718eb3edc73e94be8a61a)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -225,17 +225,17 @@ Menu
     
     TOP STORIES
     
+    * [Small businesses say cautious shoppers are seeking 'cozy' and 'festive' this holiday season](https://apnews.com/article/small-business-holiday-shopping-cozy-festive-decor-307a9f2ad66cf05ee1a848530aaab36a)
+    * [American chestnuts are part of yuletide lore. But in the US, they've nearly been wiped out](https://apnews.com/article/american-chestnut-trees-roasting-blight-chinese-restoration-1c3e50ef33a67926c0800222f0e7e619)
     * [Flight takes kids to visit Santa at North Pole scene in transformed Denver airport hangar](https://apnews.com/article/denver-north-pole-flight-united-children-santa-977a175dda26c8bbb9fa83d821cbaced)
-    * [Argo the dog, a TSA calendar star, protects air travelers by sniffing out explosives](https://apnews.com/article/argo-dog-airport-transportation-security-063183f00f2945cae6d46fc04cba6c4a)
-    * [Thousands of Santas and a few Grinches hit the streets for annual SantaCon bar crawls](https://apnews.com/article/santacon-2024-christmas-santa-pub-crawl-nyc-b125cec8fc2937cf2a3dbb82a5b6edfa)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Pope Francis' makes 1st papal visit to France's Corsica awash in expressions of popular piety](https://apnews.com/article/pope-francis-corsica-visit-mediterranean-1422ac7938a526d02a82f739a51bcfcd)
+    * [Christians in Syria mark country's transformation with tears as UN envoy urges an end to sanctions](https://apnews.com/article/syria-assad-sanctions-un-3f0031108d7e58c2343bd6a8fd42254c)
+    * [Pope Francis makes 1st papal visit to France's Corsica awash in expressions of popular piety](https://apnews.com/article/pope-francis-corsica-visit-mediterranean-1422ac7938a526d02a82f739a51bcfcd)
     * [Notre Dame reopening spectacle caps a stellar year for luxury house LVMH](https://apnews.com/article/lvmh-notre-dame-branding-arnault-0d8076d36ed655136666b74d2ee681ed)
-    * [On Gita Jayanti, Hare Krishnas celebrate the birth of the sacred text Bhagavad Gita](https://apnews.com/article/hindu-scripture-hare-krishna-bhagavad-gita-07b3aca4ef17bece83929aa91c523c68)
     
     Newsletters
     
@@ -249,11 +249,11 @@ Menu
     
     TOP STORIES
     
-    * [Bolivia elige a jueces de altas cortes en las urnas en medio de polémica política y desconfianza](https://apnews.com/article/bolivia-elecciones-judiciales-11b359216ec6ca49408cc55b8bbcc20c)
-    * [Enviado especial de la ONU para Siria pide alivio de sanciones tras caída de Assad](https://apnews.com/article/siria-guerras-sanciones-onu-418a86b130f7a6c86493ebf7c309d05c)
+    * [El presidente Lula sale del hospital tras cirugía por una hemorragia cerebral](https://apnews.com/article/lula-brasil-presidente-salud-f74d1197875778eb119376fecae021e0)
+    * [Calculan cientos de muertos en el territorio francés de Mayotte al paso del ciclón Chido](https://apnews.com/article/chido-ciclon-francia-muertos-91d27cac3565f4c5ab67ec0419e78c53)
+    * [Israel cerrará embajada en Irlanda por tensiones en Gaza; son casi 45.000 los palestinos muertos](https://apnews.com/article/israel-palestinos-hamas-guerra-irlanda-embajada-israeli-6576237ea950740dd5f14edb6404d64e)
     * [Primera semana en la nueva Siria: Rebeldes buscan normalidad, los sirios prometen alzar la voz](https://apnews.com/article/siria-caida-assad-nuevos-lideres-cambios-71fb0017a062bb5528fdc7d8b7d977a2)
-    * [Líderes surcoreanos hacen llamada a la calma tras la moción contra el presidente Yoon](https://apnews.com/article/asia-surcorea-juicio-14e66f484abab99dc1559df5bb4df330)
-    * [El papa Francisco sale hacia Córcega para una visita centrada en "crisis y conflictos" regionales](https://apnews.com/article/papa-corcega-francia-visita-3b905f2b7db56e23ca0a28788b651dac)
+    * [Fotos comprometedoras de Assad causan burlas tras su caída en Siria](https://apnews.com/article/siria-assad-fotos-29922eb21da93b31d1141f6dac6c4993)
     
 * [Quizzes](https://apnews.com/quizzes)
     
@@ -414,9 +414,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Christians in Syria mark country's transformation with tears as UN envoy urges an end to sanctions](https://apnews.com/article/syria-assad-sanctions-un-3f0031108d7e58c2343bd6a8fd42254c)
     * [One week into a new Syria, rebels aim for normalcy and Syrians vow not to be silent again](https://apnews.com/article/syria-week-one-transitional-government-c06673aa3317a194619710948264cdf1)
-    * [US officials have been in direct contact with the Syrian rebel group that ousted Assad, Blinken says](https://apnews.com/article/blinken-syria-assad-hts-transition-mideast-5fcff887a74dc9ec36e483c0b601a8c2)
-    * [A diminished Hezbollah is made even weaker by the toppling of Assad in Syria](https://apnews.com/article/lebanon-syria-iran-hezbollah-assad-hts-israel-fadc4fa97f2036a24f821f51e4eb6634)
+    * [Israel will close its Ireland embassy over Gaza tensions as Palestinian death toll nears 45,000](https://apnews.com/article/israel-palestinians-hamas-war-news-12-15-2024-b97bfffe851f87328ab24017da8d7a32)
     
     Newsletters
     
@@ -432,9 +432,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Rare tornado warning for San Francisco as major ice storm rakes Iowa, Nebraska](https://apnews.com/article/ice-iowa-nebraska-treacherous-road-tornado-fc5493b70887cb3c25d97190ffbf66b7)
-    * [Texas' abortion pill lawsuit against New York doctor marks new challenge to interstate telemedicine](https://apnews.com/article/abortion-pills-lawsuit-shield-laws-texas-telemedicine-74c9b7d5c3c152e4c8f199b29132daec)
-    * [Drones, planes or UFOs? Americans abuzz over mysterious New Jersey sightings](https://apnews.com/article/drones-new-jersey-buzz-6ef6cfdd5dd6508da22b3c3a1d2f6718)
+    * [US agencies should use advanced technology to identify mysterious drones, Schumer says](https://apnews.com/article/drones-new-york-jersey-schumer-80de1d64708677cfa7efc60249075d7b)
+    * [Storms across US bring heavy snow, dangerous ice and a tornado in California](https://apnews.com/article/winter-weather-snow-ice-storm-tornado-46d9848b6908aed8f79d0e1064699ee0)
+    * [The GOP stoked fears of noncitizens voting. Cases in Ohio show how rhetoric and reality diverge](https://apnews.com/article/noncitizen-voting-republicans-prosecutions-2024-election-ohio-ae9dafeeb47ea8941bf82f5988b269ef)
     
     Newsletters
     
@@ -462,9 +462,9 @@ Submit Search
     
     TOP STORIES
     
+    * [The GOP stoked fears of noncitizens voting. Cases in Ohio show how rhetoric and reality diverge](https://apnews.com/article/noncitizen-voting-republicans-prosecutions-2024-election-ohio-ae9dafeeb47ea8941bf82f5988b269ef)
     * [ABC agrees to give $15 million to Donald Trump's presidential library to settle defamation lawsuit](https://apnews.com/article/abc-trump-lawsuit-defamation-stephanopoulos-04aea8663310af39ae2a85f4c1a56d68)
     * [Trump gets warm welcome as he watches Army-Navy game alongside key allies, nominees and Daniel Penny](https://apnews.com/article/trump-army-navy-football-penny-hegseth-desantis-85da138b3ac130b211afc414bf43514a)
-    * [Trump appoints longtime foreign policy adviser Richard Grenell to serve as special missions envoy](https://apnews.com/article/richard-grenell-secretary-of-state-trump-5e7410edd659870307a5eba762f8136c)
     
     Newsletters
     
@@ -493,8 +493,8 @@ Submit Search
     TOP STORIES
     
     * [Colorado two-way star Travis Hunter wins Heisman Trophy as college football's top player](https://apnews.com/article/heisman-trophy-travis-hunter-colorado-c76c411ca04108018eefb18beaa649fe)
-    * [Blake Horvath shines as Navy dominates in a 31-13 victory over Bryson Daily and No. 19 Army](https://apnews.com/article/army-navy-score-9d31c1bf631fd74b7130026af561825c)
-    * [Shiffrin recovering after abdominal surgery to clean out deep puncture wound suffered in race crash](https://apnews.com/article/mikaela-shiffrin-3d28bee5ef6f7dd543fe42b288fc6f68)
+    * [Mara gets another aerial message to thrash the Giants before game against the Ravens](https://apnews.com/article/giants-plane-mara-metlife-81d0ec2c54542e0c1218182fe1dae7e9)
+    * [Man United secures stunning late 2-1 comeback win against Man City](https://apnews.com/article/manchester-city-man-united-score-premier-league-b01866c0a6c7145aea9c8c79a1e3bbb6)
     
     Newsletters
     
@@ -521,9 +521,9 @@ Submit Search
     
     TOP STORIES
     
+    * [‘Kraven the Hunter’ had one of the worst openings for a Marvel-adjacent property, estimates show](https://apnews.com/article/box-office-b79d8c3a84483f15fc3dace19dbef5d5)
     * [ABC agrees to give $15 million to Donald Trump's presidential library to settle defamation lawsuit](https://apnews.com/article/abc-trump-lawsuit-defamation-stephanopoulos-04aea8663310af39ae2a85f4c1a56d68)
     * [Woman accusing Jay-Z and Sean 'Diddy' Combs of sexual assault acknowledges inconsistencies](https://apnews.com/article/jayz-rape-allegation-sean-combs-diddy-inconsistencies-667e3c5f2abca341975741e536969d71)
-    * [Storms across US bring heavy snow, dangerous ice and a tornado in California](https://apnews.com/article/winter-weather-snow-ice-storm-tornado-46d9848b6908aed8f79d0e1064699ee0)
     
 * [Business](https://apnews.com/business)
     
@@ -538,9 +538,9 @@ Submit Search
     
     TOP STORIES
     
+    * [‘Kraven the Hunter’ had one of the worst openings for a Marvel-adjacent property, estimates show](https://apnews.com/article/box-office-b79d8c3a84483f15fc3dace19dbef5d5)
+    * [Small businesses say cautious shoppers are seeking 'cozy' and 'festive' this holiday season](https://apnews.com/article/small-business-holiday-shopping-cozy-festive-decor-307a9f2ad66cf05ee1a848530aaab36a)
     * [Supreme Court will take up a challenge related to California's tough vehicle emissions standards](https://apnews.com/article/supreme-court-california-auto-emissions-climate-change-7aff58362d99dd0892b7a8540f3382c1)
-    * [Musk says US is demanding he pay penalty over disclosures of his Twitter stock purchases](https://apnews.com/article/musk-sec-twitter-stock-purchases-penalty-letter-0eddad3db779c5b07988d7b9886b10b2)
-    * [Trump hosts Apple CEO at Mar-a-Lago as big tech leaders continue outreach to president-elect](https://apnews.com/article/trump-apple-tim-cook-tech-0a9fb8e6df321f6553c23b5138ff1f06)
     
 * [Science](https://apnews.com/science)
     
@@ -638,9 +638,9 @@ Submit Search
     
     TOP STORIES
     
+    * [American chestnuts are part of yuletide lore. But in the US, they've nearly been wiped out](https://apnews.com/article/american-chestnut-trees-roasting-blight-chinese-restoration-1c3e50ef33a67926c0800222f0e7e619)
+    * [UN talks fail to reach agreement on dealing with rising risk of global drought](https://apnews.com/article/un-drought-desertification-climate-riyadh-saudi-arabia-a353d12a2fe8c19e932f96198fa3421d)
     * [Saudi Arabia's plans to host the men's World Cup will harm the climate, experts warn](https://apnews.com/article/climate-world-cup-saudi-arabia-greenhouse-gas-emissions-8750010f26aa1767b69e726c990f7388)
-    * [Environmental groups condemn new laws threatening soybean restrictions in Brazil's Amazon](https://apnews.com/article/brazil-amazon-soy-moratorium-mato-grosso-deforestation-greenpeace-dfeb8b1e5cf48c7ea7bf881499c8f508)
-    * [In Nigeria's lithium boom, many mines are illegal and children do much of the work](https://apnews.com/article/lithium-mining-energy-transition-child-labor-nigeria-africa-22155590dddf7ecc0b9fd55b221c6d9f)
     
 * [Health](https://apnews.com/health)
     
@@ -664,9 +664,9 @@ Submit Search
     
     TOP STORIES
     
+    * [US agencies should use advanced technology to identify mysterious drones, Schumer says](https://apnews.com/article/drones-new-york-jersey-schumer-80de1d64708677cfa7efc60249075d7b)
     * [Trump hosts Apple CEO at Mar-a-Lago as big tech leaders continue outreach to president-elect](https://apnews.com/article/trump-apple-tim-cook-tech-0a9fb8e6df321f6553c23b5138ff1f06)
     * [OpenAI's legal battle with Elon Musk reveals internal turmoil over avoiding AI 'dictatorship'](https://apnews.com/article/elon-musk-openai-lawsuit-sam-altman-chatgpt-36bc55dbb8b4f9e1e5675ff7564e5fa0)
-    * [OpenAI's Altman will donate $1 million to Trump's inaugural fund](https://apnews.com/article/sam-altman-donald-trump-openai-3b7a87037f3718eb3edc73e94be8a61a)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -684,17 +684,17 @@ Submit Search
     
     TOP STORIES
     
+    * [Small businesses say cautious shoppers are seeking 'cozy' and 'festive' this holiday season](https://apnews.com/article/small-business-holiday-shopping-cozy-festive-decor-307a9f2ad66cf05ee1a848530aaab36a)
+    * [American chestnuts are part of yuletide lore. But in the US, they've nearly been wiped out](https://apnews.com/article/american-chestnut-trees-roasting-blight-chinese-restoration-1c3e50ef33a67926c0800222f0e7e619)
     * [Flight takes kids to visit Santa at North Pole scene in transformed Denver airport hangar](https://apnews.com/article/denver-north-pole-flight-united-children-santa-977a175dda26c8bbb9fa83d821cbaced)
-    * [Argo the dog, a TSA calendar star, protects air travelers by sniffing out explosives](https://apnews.com/article/argo-dog-airport-transportation-security-063183f00f2945cae6d46fc04cba6c4a)
-    * [Thousands of Santas and a few Grinches hit the streets for annual SantaCon bar crawls](https://apnews.com/article/santacon-2024-christmas-santa-pub-crawl-nyc-b125cec8fc2937cf2a3dbb82a5b6edfa)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Pope Francis' makes 1st papal visit to France's Corsica awash in expressions of popular piety](https://apnews.com/article/pope-francis-corsica-visit-mediterranean-1422ac7938a526d02a82f739a51bcfcd)
+    * [Christians in Syria mark country's transformation with tears as UN envoy urges an end to sanctions](https://apnews.com/article/syria-assad-sanctions-un-3f0031108d7e58c2343bd6a8fd42254c)
+    * [Pope Francis makes 1st papal visit to France's Corsica awash in expressions of popular piety](https://apnews.com/article/pope-francis-corsica-visit-mediterranean-1422ac7938a526d02a82f739a51bcfcd)
     * [Notre Dame reopening spectacle caps a stellar year for luxury house LVMH](https://apnews.com/article/lvmh-notre-dame-branding-arnault-0d8076d36ed655136666b74d2ee681ed)
-    * [On Gita Jayanti, Hare Krishnas celebrate the birth of the sacred text Bhagavad Gita](https://apnews.com/article/hindu-scripture-hare-krishna-bhagavad-gita-07b3aca4ef17bece83929aa91c523c68)
     
     Newsletters
     
@@ -708,11 +708,11 @@ Submit Search
     
     TOP STORIES
     
-    * [Bolivia elige a jueces de altas cortes en las urnas en medio de polémica política y desconfianza](https://apnews.com/article/bolivia-elecciones-judiciales-11b359216ec6ca49408cc55b8bbcc20c)
-    * [Enviado especial de la ONU para Siria pide alivio de sanciones tras caída de Assad](https://apnews.com/article/siria-guerras-sanciones-onu-418a86b130f7a6c86493ebf7c309d05c)
+    * [El presidente Lula sale del hospital tras cirugía por una hemorragia cerebral](https://apnews.com/article/lula-brasil-presidente-salud-f74d1197875778eb119376fecae021e0)
+    * [Calculan cientos de muertos en el territorio francés de Mayotte al paso del ciclón Chido](https://apnews.com/article/chido-ciclon-francia-muertos-91d27cac3565f4c5ab67ec0419e78c53)
+    * [Israel cerrará embajada en Irlanda por tensiones en Gaza; son casi 45.000 los palestinos muertos](https://apnews.com/article/israel-palestinos-hamas-guerra-irlanda-embajada-israeli-6576237ea950740dd5f14edb6404d64e)
     * [Primera semana en la nueva Siria: Rebeldes buscan normalidad, los sirios prometen alzar la voz](https://apnews.com/article/siria-caida-assad-nuevos-lideres-cambios-71fb0017a062bb5528fdc7d8b7d977a2)
-    * [Líderes surcoreanos hacen llamada a la calma tras la moción contra el presidente Yoon](https://apnews.com/article/asia-surcorea-juicio-14e66f484abab99dc1559df5bb4df330)
-    * [El papa Francisco sale hacia Córcega para una visita centrada en "crisis y conflictos" regionales](https://apnews.com/article/papa-corcega-francia-visita-3b905f2b7db56e23ca0a28788b651dac)
+    * [Fotos comprometedoras de Assad causan burlas tras su caída en Siria](https://apnews.com/article/siria-assad-fotos-29922eb21da93b31d1141f6dac6c4993)
     
 * [Quizzes](https://apnews.com/quizzes)
     
