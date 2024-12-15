@@ -324,12 +324,11 @@ Table of Contents Table of Contents Toggle navigation
             * [Access to the header via Custom Head](https://www.knowledgeowl.com/help/append-head)
             * [Reset your theme](https://www.knowledgeowl.com/help/reset-your-theme)
             * [Copy a knowledge base's theme](https://www.knowledgeowl.com/help/copy-a-theme)
-        * [KB settings](javascript:void(0);)
+        * [Configure default behavior](javascript:void(0);)
             
             * [Basic settings](https://www.knowledgeowl.com/help/basic-settings)
             * [Domain settings](https://www.knowledgeowl.com/help/domain-settings)
             * [Website settings](https://www.knowledgeowl.com/help/website-settings)
-            * [Article List Settings](https://www.knowledgeowl.com/help/article-list-settings)
             * [Article editor settings](https://www.knowledgeowl.com/help/article-editor-settings)
         * [How to use your own domain](javascript:void(0);)
             
@@ -1428,7 +1427,7 @@ If you do not agree to the new terms and conditions, you may terminate this agre
     
 * [Author team order consistently displayed](https://www.knowledgeowl.com/help/author-team-order-consistently-displayed)
     
-* [Conditional content based on tags](https://www.knowledgeowl.com/help/conditional-content-based-on-tags)
+* [Add a new glossary term](https://www.knowledgeowl.com/help/populate-the-glossary)
     
 
    
