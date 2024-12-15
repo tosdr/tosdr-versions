@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/de-maandstonde-positief-beleefd/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/wat-we-nu-weer-onder-ogen-kregen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
