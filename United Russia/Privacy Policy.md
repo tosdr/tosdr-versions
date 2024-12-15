@@ -295,7 +295,7 @@
 
 [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#памятныеакции](https://er.ru/activity/news?tags%5B0%5D=148650) [#журналисты](https://er.ru/activity/news?tags%5B0%5D=141454) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтерскаярота](https://er.ru/activity/news?tags%5B0%5D=1090569)
 
-Сегодня 13:30
+15.12.24
 
 [![Там, где решается судьба страны: «Единая Россия» провела XXII Съезд](https://cdn.er.ru/media/news/December2024/49kHKTKhGXIB11dNQCNi-small.jpg)](https://er.ru/activity/news/tam-gde-reshaetsya-sudba-strany-edinaya-rossiya-provela-xxii-sezd)
 
@@ -303,7 +303,7 @@
 
 [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#народнаяпрограммаЕР](https://er.ru/activity/news?tags%5B0%5D=1093363)
 
-Сегодня 10:00
+15.12.24
 
 [![Владимир Якушев: Сокращение состава Президиума Генсовета «Единой России» даст возможность чаще встречаться очно и проговаривать рабочие моменты](https://cdn.er.ru/media/news/December2024/h1ET09RpmFMPwTweB2Di-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-sokrashenie-sostava-prezidiuma-gensoveta-edinoj-rossii-dast-vozmozhnost-chashe-vstrechatsya-ochno-i-progovarivat-rabochie-momenty)
 
@@ -311,7 +311,7 @@
 
 [#ПрезидиумГенсовета](https://er.ru/activity/news?tags%5B0%5D=115061) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#Грибов](https://er.ru/activity/news?tags%5B0%5D=13023) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#сторонники](https://er.ru/activity/news?tags%5B0%5D=663) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#МКС](https://er.ru/activity/news?tags%5B0%5D=3392) [#межрегиональныйкоординационныйсовет](https://er.ru/activity/news?tags%5B0%5D=130824)
 
-Сегодня 09:00
+15.12.24
 
 [![Владимир Якушев избран секретарём Генсовета «Единой России»](https://cdn.er.ru/media/news/December2024/pDIC1VNZGnuEg85JtWJo-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-izbran-sekretaryom-gensoveta-edinoj-rossii)
 
