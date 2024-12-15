@@ -107,69 +107,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![lesbianfactory](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1592976-1730458047.jpg)](https://lyricstranslate.com/en/translator/lesbianfactory "lesbianfactory")
+[![florazina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1420537-1730447693.jpg)](https://lyricstranslate.com/en/translator/florazina "florazina")
+
+New comment
+
+The song is already available here: https://...  [more](https://lyricstranslate.com/en/comment/1181437#comment-1181437)
+
+[![Guaglione](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/guaglione "Guaglione")
 
 New translation
 
-[Russian Folk - Проводы (Provody)](https://lyricstranslate.com/en/russian-folk-provody-yiddish)
+[Bali (OST) - 00. Bali (Générique) \[French\]](https://lyricstranslate.com/en/bali-ost-00-bali-generique-fre-german)
 
-Russian → Yiddish
+French → German
 
-[![road to progress](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1342528-1569415592.jpg)](https://lyricstranslate.com/en/translator/road-progress "road to progress")
+[![Manuela Colombo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1337319-1494181809.jpg)](https://lyricstranslate.com/en/translator/manuela-colombo "Manuela Colombo")
+
+New translation
+
+[Rose Ausländer - Daheim](https://lyricstranslate.com/en/rose-auslander-daheim-italian)
+
+German → Italian
+
+[![Panda love](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1458061-1655828855.jpg)](https://lyricstranslate.com/en/translator/panda-love "Panda love")
+
+New transcription request
+
+[Mufasa: The Lion King (ost) - 拜拜 \[Bye Bye\]](https://lyricstranslate.com/en/mufasa-lion-king-ost-%E6%8B%9C%E6%8B%9C-bye-bye)
+
+Chinese
+
+[![Thomas222](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1310118-1706205100.jpg)](https://lyricstranslate.com/en/translator/thomas222 "Thomas222")
+
+New translation
+
+[Dikla - אליפות (Alifut)](https://lyricstranslate.com/en/dikla-alifut-english)
+
+Hebrew → English
+
+[![xuen97](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/xuen97 "xuen97")
 
 New song
 
-[Philippe B - Cheveux courts, cheveux longs](https://lyricstranslate.com/en/philippe-b-cheveux-courts-cheveux-l-lyrics)
+[Energy (Taiwanese band) - 我們](https://lyricstranslate.com/en/energy-taiwanese-band-wo-men-lyrics)
 
-French
+Chinese
 
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1733199886.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
-
-New translation
-
-[Franco Ricciardi - Fai l'amore](https://lyricstranslate.com/en/franco-ricciardi-fai-lamore-english)
-
-Italian → English
-
-[![saspitite](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1633967-1729776092.png)](https://lyricstranslate.com/en/translator/saspitite "saspitite")
-
-New translation
-
-[Hevisaurus - Harri Hylje](https://lyricstranslate.com/en/hevisaurus-harri-hylje-english)
-
-Finnish → English
-
-[![Boyzillion2018](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/boyzillion2018 "Boyzillion2018")
-
-New translation
-
-[flowerovlove - breaking news](https://lyricstranslate.com/en/flowerovlove-breaking-news-korean)
-
-English → Korean
-
-[![Pietro Lignola](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1361061-1568016170.jpg)](https://lyricstranslate.com/en/translator/pietro-lignola "Pietro Lignola")
-
-New translation
-
-[Lenier - Déjame Robarte Un Beso](https://lyricstranslate.com/en/lenier-dejame-robarte-un-beso-neapolitan)
-
-Spanish → Neapolitan
-
-[![Luka](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1342875-1584833098.jpg)](https://lyricstranslate.com/en/translator/luka "Luka")
-
-New translation
-
-[Sofia the First (OST) - Sofia the First Theme Song (Hungarian) \[Főcímdal\]](https://lyricstranslate.com/en/sofia-first-ost-sofia-first-theme-son-croatian)
-
-Hungarian → Croatian
-
-[![Burghold](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1338222-1514825045.jpg)](https://lyricstranslate.com/en/translator/burghold "Burghold")
+[![mericbei](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612891-1711213708.jpg)](https://lyricstranslate.com/en/translator/mericbei "mericbei")
 
 New song
 
-[Danny McEvoy - Christmas Kinda Feeling](https://lyricstranslate.com/en/danny-mcevoy-christmas-kinda-feeling-lyrics)
+[Jace June - Her Island](https://lyricstranslate.com/en/jace-june-her-island-lyrics)
 
 English
+
+[![regenkind](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/regenkind "regenkind")
+
+New translation
+
+[Rozalén - Loba](https://lyricstranslate.com/en/rozalen-loba-english-0)
+
+Spanish → English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
