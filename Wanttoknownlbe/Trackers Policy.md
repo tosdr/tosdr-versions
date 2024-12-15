@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/leef-in-angst-en-geef-je-macht-uit-handen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/gaat-us-marine-wallstreet-betogers-helpen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
