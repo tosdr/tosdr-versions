@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/3431f491-daaa-437b-a8d7-868d481340e8/20241215T131304/3431f491-daaa-437b-a8d7-868d481340e8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/3431f491-daaa-437b-a8d7-868d481340e8/20241215T131304/3431f491-daaa-437b-a8d7-868d481340e8_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Weather Impact Alert: Dense fog likely through Monday morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/KXTV/images/a2203ae4-8eb7-4437-9fad-9e21ccb57656/20241215T034150/a2203ae4-8eb7-4437-9fad-9e21ccb57656_16x9.jpg) ![](https://media.tegna-media.com/assets/KXTV/images/a2203ae4-8eb7-4437-9fad-9e21ccb57656/20241215T034150/a2203ae4-8eb7-4437-9fad-9e21ccb57656_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/tornado-damage-powerlines-car/103-94f4df2e-0470-4aef-82e7-a0adcae3d3f0)
         
         #### [Tornado causes damage, several people injured after touching down in California](https://www.wqad.com/article/weather/weather-impact/tornado-damage-powerlines-car/103-94f4df2e-0470-4aef-82e7-a0adcae3d3f0)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/aec00dd0-c473-4129-b0ab-d250e709e7c9/20241215T004618/aec00dd0-c473-4129-b0ab-d250e709e7c9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/aec00dd0-c473-4129-b0ab-d250e709e7c9/20241215T004618/aec00dd0-c473-4129-b0ab-d250e709e7c9_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [Rain to continue this evening before a foggy Sunday morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -99,7 +99,7 @@ Davenport, IA »
 
 36°
 
-![Fog](/assets/shared-images/weather-icons/fog-night_210x210.png)
+![Fog](/assets/shared-images/weather-icons/fog-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
