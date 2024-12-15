@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Mark Stimpson](https://cdn.returningveterans.org/images/honor/Mark_Stimpson.JPG)  
+![Tech Sgt. Douglas Matthews](https://cdn.returningveterans.org/images/honor/Douglas_Matthews.jpg)  
 
-**In Honor of Mark Stimpson**  
-United States Army  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Tech Sgt. Douglas Matthews**  
+United States Air National Guard  
+Submitted by Stan and Jeanie Kramer](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 12/15/24 - 7:19:53  
+Printed 12/15/24 - 1:25:40  
 © 2024 Returning Veterans Project
