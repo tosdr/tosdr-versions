@@ -117,57 +117,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Kobus Venter
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=81779383)  
-RADIO TYGERBERG 104FM NPC
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=2674380d8db42097ed83f7a2943ee23af6d9ce25e868b24eae6d25d01f1ec510&c=154381789)  
+TRACKFORCE (Pty) Ltd
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=171633250)  
-OXYAIDER (PTY) LTD
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=2674380d8db42097ed83f7a2943ee23af6d9ce25e868b24eae6d25d01f1ec510&c=6907169)  
+AquariumSmiths
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=145643261)  
-Skinz Printing & Branding
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=2674380d8db42097ed83f7a2943ee23af6d9ce25e868b24eae6d25d01f1ec510&c=26026230)  
+Bchange Online CC
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=11123595)  
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=2674380d8db42097ed83f7a2943ee23af6d9ce25e868b24eae6d25d01f1ec510&c=50015737)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
+
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=2674380d8db42097ed83f7a2943ee23af6d9ce25e868b24eae6d25d01f1ec510&c=194690747)  
+Fox Alarms & Security CC
+
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=2674380d8db42097ed83f7a2943ee23af6d9ce25e868b24eae6d25d01f1ec510&c=85074727)  
+Peter Salvage Pty Ltd
+
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=2674380d8db42097ed83f7a2943ee23af6d9ce25e868b24eae6d25d01f1ec510&c=97047059)  
+SMART GUY PCS (PTY) LTD
+
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=2674380d8db42097ed83f7a2943ee23af6d9ce25e868b24eae6d25d01f1ec510&c=150674689)  
+One2b
+
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=2674380d8db42097ed83f7a2943ee23af6d9ce25e868b24eae6d25d01f1ec510&c=156804787)  
+Kinetic Power Solutions (Pty) Ltd.
+
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=2674380d8db42097ed83f7a2943ee23af6d9ce25e868b24eae6d25d01f1ec510&c=86016495)  
+Camp 4 Africa (Pty) Ltd
+
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=2674380d8db42097ed83f7a2943ee23af6d9ce25e868b24eae6d25d01f1ec510&c=70879000)  
+IYD
+
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=2674380d8db42097ed83f7a2943ee23af6d9ce25e868b24eae6d25d01f1ec510&c=208130725)  
+Brand's Fountains Deco and Events Coordinatoin
+
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=2674380d8db42097ed83f7a2943ee23af6d9ce25e868b24eae6d25d01f1ec510&c=30109695)  
+Firstweb Hosting & Design
+
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=2674380d8db42097ed83f7a2943ee23af6d9ce25e868b24eae6d25d01f1ec510&c=38865693)  
+Repairs In Motion
+
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=2674380d8db42097ed83f7a2943ee23af6d9ce25e868b24eae6d25d01f1ec510&c=17306031)  
 Redlum Group (Pty) Ltd
-
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=195295147)  
-Kainos (Pty) Ltd
-
-![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=43665376)  
-Stevens Consulting
-
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=177219788)  
-Stories (Pty) Ltd t/a Storietyd
-
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=134365895)  
-Network Grey (Pty) Ltd
-
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=124354482)  
-AMS Ambu Medical Supplies
-
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=76482171)  
-Forgotten Goods (Pty) Ltd
-
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=118833313)  
-#DiGi3 Marketing & Design
-
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=171393927)  
-Wiselink Broadband Vryheid
-
-![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=147071342)  
-NC Labour Hire
-
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=48413667)  
-OrgChart Hosting Pty Ltd
-
-![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=332ba1e6e8bd43ac744fc37fe6ac4e3d6b9b33bd0a6a847bf97564e1a16dbd5d&c=80324671)  
-Protech Marketing
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
