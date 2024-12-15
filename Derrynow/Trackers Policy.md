@@ -54,7 +54,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-14 Dec 2024
+15 Dec 2024
 
 * [Home
     
@@ -257,13 +257,6 @@ Advertise with Us
 
 Most Popular
 
-[![Dancing with the Stars: Line-up almost complete with five celebs revealed on Late Late Show](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dancing with the Stars: Line-up almost complete with five celebs revealed on Late Late Show")](https://www.derrynow.com/news/arts---entertainment/1680172/dancing-with-the-stars-line-up-almost-complete-with-five-celebs-revealed-on-late-late-show.html)
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[Dancing with the Stars: Line-up almost complete with five celebs revealed on Late Late Show](https://www.derrynow.com/news/arts---entertainment/1680172/dancing-with-the-stars-line-up-almost-complete-with-five-celebs-revealed-on-late-late-show.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1680146/derry-death-notices-saturday-december-14-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -271,12 +264,12 @@ Most Popular
 [Derry Death Notices - Saturday, December 14, 2024](https://www.derrynow.com/news/deaths/1680146/derry-death-notices-saturday-december-14-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Convicted murderer on the run from Londonderry prison](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Convicted murderer on the run from Londonderry prison")](https://www.derrynow.com/news/northern-ireland/1680400/convicted-murderer-on-the-run-from-londonderry-prison.html)
+[![Twenty police officers injured in NI in less than 24 hours](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Twenty police officers injured in NI in less than 24 hours")](https://www.derrynow.com/news/national-news/1680768/twenty-police-officers-injured-in-ni-in-less-than-24-hours.html)
 
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Convicted murderer on the run from Londonderry prison](https://www.derrynow.com/news/northern-ireland/1680400/convicted-murderer-on-the-run-from-londonderry-prison.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Twenty police officers injured in NI in less than 24 hours](https://www.derrynow.com/news/national-news/1680768/twenty-police-officers-injured-in-ni-in-less-than-24-hours.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Roe Valley Musicians bring busking back to Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roe Valley Musicians bring busking back to Limavady")](https://www.derrynow.com/news/local-news/1676978/roe-valley-musicians-bring-busking-back-to-limavady.html)
 
@@ -294,13 +287,6 @@ New music collective Roe Valley Musicians.
 [NI Science Festival reveals blooming great programme for 2025](https://www.derrynow.com/news/local-news/1680111/ni-science-festival-reveals-blooming-great-programme-for-2025.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Twenty police officers injured in NI in less than 24 hours](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Twenty police officers injured in NI in less than 24 hours")](https://www.derrynow.com/news/national-news/1680768/twenty-police-officers-injured-in-ni-in-less-than-24-hours.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Twenty police officers injured in NI in less than 24 hours](https://www.derrynow.com/news/national-news/1680768/twenty-police-officers-injured-in-ni-in-less-than-24-hours.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry City's Cate Toland interviewed by Brendan McGilligan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City's Cate Toland interviewed by Brendan McGilligan")](https://www.derrynow.com/video/derry-sport/1680673/the-trajectory-of-the-derry-city-womens-team-is-brilliant-according-to-defender-cate-toland.html)
 
 Derry City's Cate Toland interviewed by Brendan McGilligan
@@ -309,6 +295,31 @@ Derry City's Cate Toland interviewed by Brendan McGilligan
 
 [The trajectory of the Derry City women’s team is ‘brilliant’ according to defender Cate Toland](https://www.derrynow.com/video/derry-sport/1680673/the-trajectory-of-the-derry-city-womens-team-is-brilliant-according-to-defender-cate-toland.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police investigate sudden death of woman in Banbridge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigate sudden death of woman in Banbridge")](https://www.derrynow.com/news/northern-ireland/1680994/police-investigate-sudden-death-of-woman-in-banbridge.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Police investigate sudden death of woman in Banbridge](https://www.derrynow.com/news/northern-ireland/1680994/police-investigate-sudden-death-of-woman-in-banbridge.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
+
+Kevin Deery watched his team produce their best performance of the season.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Institute dominate league leaders Bangor at the Brandywell](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ronan Boyce interview with Brendan McGilligan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ronan Boyce interview with Brendan McGilligan")](https://www.derrynow.com/video/derry-sport/1680642/exciting-time-for-derry-city-and-their-fans-according-to-defender-ronan-boyce.html)
+
+Ronan Boyce interview with Brendan McGilligan
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+['Exciting' time for Derry City and their fans according to defender Ronan Boyce](https://www.derrynow.com/video/derry-sport/1680642/exciting-time-for-derry-city-and-their-fans-according-to-defender-ronan-boyce.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PSNI remain at scene of fire at old police station in Portadown](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI remain at scene of fire at old police station in Portadown")](https://www.derrynow.com/news/northern-ireland/1680616/psni-remain-at-scene-of-fire-at-old-police-station-in-portadown.html)
 
@@ -323,13 +334,6 @@ Derry City's Cate Toland interviewed by Brendan McGilligan
 
 [MacD on Music: Vandees Live In Sandy’s](https://www.derrynow.com/news/arts---entertainment/1679880/macd-on-music-vandees-live-in-sandys.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man suffers serious head injuries in Lisburn assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man suffers serious head injuries in Lisburn assault")](https://www.derrynow.com/news/northern-ireland/1680785/man-suffers-serious-head-injuries-in-lisburn-assault.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Man suffers serious head injuries in Lisburn assault](https://www.derrynow.com/news/northern-ireland/1680785/man-suffers-serious-head-injuries-in-lisburn-assault.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -507,14 +511,41 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![MacD on Music: Vandees Live In Sandy’s](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: Vandees Live In Sandy’s")](https://www.derrynow.com/news/arts---entertainment/1679880/macd-on-music-vandees-live-in-sandys.html)
+[![Ballinderry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinderry")](https://www.derrynow.com/news/derry-sport/1681019/ballinderry-crowned-ulster-champions-thanks-to-darren-lawn-s-late-winner.html)
+
+The Ballindery players celebrate their historic win.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ballinderry crowned Ulster champions thanks to Darren Lawn's late winner!](https://www.derrynow.com/news/derry-sport/1681019/ballinderry-crowned-ulster-champions-thanks-to-darren-lawn-s-late-winner.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
+
+Kevin Deery watched his team produce their best performance of the season.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Institute dominate league leaders Bangor at the Brandywell](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ronan Boyce interview with Brendan McGilligan](https://www.derrynow.com/resizer/165/93/true/2024_12_14/3675dac1699982eb9241e3c16cb96975.jpg--.jpg "Ronan Boyce interview with Brendan McGilligan")](https://www.derrynow.com/video/derry-sport/1680642/exciting-time-for-derry-city-and-their-fans-according-to-defender-ronan-boyce.html)
+
+Ronan Boyce interview with Brendan McGilligan
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+['Exciting' time for Derry City and their fans according to defender Ronan Boyce](https://www.derrynow.com/video/derry-sport/1680642/exciting-time-for-derry-city-and-their-fans-according-to-defender-ronan-boyce.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![MacD on Music: Vandees Live In Sandy’s](https://www.derrynow.com/resizer/165/93/true/2024_12_13/Music_col_Vandees_30458623-1734091986414_1734092024.jpg--.jpg?1734092024538 "MacD on Music: Vandees Live In Sandy’s")](https://www.derrynow.com/news/arts---entertainment/1679880/macd-on-music-vandees-live-in-sandys.html)
 
 [Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
 
 [MacD on Music: Vandees Live In Sandy’s](https://www.derrynow.com/news/arts---entertainment/1679880/macd-on-music-vandees-live-in-sandys.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Roe Valley Musicians bring busking back to Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Roe Valley Musicians bring busking back to Limavady")](https://www.derrynow.com/news/local-news/1676978/roe-valley-musicians-bring-busking-back-to-limavady.html)
+[![Roe Valley Musicians bring busking back to Limavady](https://www.derrynow.com/resizer/165/93/true/2024_12_10/ICDP_10-12-24_Roe_Valley_Musicians_30385662-1733829314809.jpg--.jpg?1733829316585 "Roe Valley Musicians bring busking back to Limavady")](https://www.derrynow.com/news/local-news/1676978/roe-valley-musicians-bring-busking-back-to-limavady.html)
 
 New music collective Roe Valley Musicians.
 
@@ -531,29 +562,6 @@ Derry City's Cate Toland interviewed by Brendan McGilligan
 
 [The trajectory of the Derry City women’s team is ‘brilliant’ according to defender Cate Toland](https://www.derrynow.com/video/derry-sport/1680673/the-trajectory-of-the-derry-city-womens-team-is-brilliant-according-to-defender-cate-toland.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![NI Science Festival reveals blooming great programme for 2025](https://www.derrynow.com/resizer/165/93/true/2024_12_13/NISF-02-1734101572090.JPG--.JPG?1734101573630 "NI Science Festival reveals blooming great programme for 2025")](https://www.derrynow.com/news/local-news/1680111/ni-science-festival-reveals-blooming-great-programme-for-2025.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[NI Science Festival reveals blooming great programme for 2025](https://www.derrynow.com/news/local-news/1680111/ni-science-festival-reveals-blooming-great-programme-for-2025.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1680146/derry-death-notices-saturday-december-14-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, December 14, 2024](https://www.derrynow.com/news/deaths/1680146/derry-death-notices-saturday-december-14-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![James Meehan](https://www.derrynow.com/resizer/165/93/true/2024_12_13/James_Meehan-1734115845967.jpg--.jpg?1734115846035 "James Meehan")](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
-
-James Meehan
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[James Meehan: Convicted murder unlawfully at large as PSNI warns public not to approach](https://www.derrynow.com/news/derry-news/1680394/james-meehan-convicted-murder-unlawfully-at-large-as-psni-warns-public-not-to-approach.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
