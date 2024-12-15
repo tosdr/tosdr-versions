@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/2015-vs-en-chinese-wetenschappers-maken-coronavirus/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/16-vs-staten-mondkapje-weg-wetenschappelijk-bewijs-fout/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
