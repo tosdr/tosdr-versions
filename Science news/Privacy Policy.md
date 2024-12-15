@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Subscribe today**
+**Enjoy unlimited access**
 
-Every print subscription comes with full digital access
+Only $2.99 a month
 
-[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
