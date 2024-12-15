@@ -1,7 +1,5 @@
     
 
-    
-
         [Skip to content](#MainContent)
 
 **FLASH SALE! FIRST COME, FIRST SERVED! CHOOSE YOUR DISCOUNT.**
