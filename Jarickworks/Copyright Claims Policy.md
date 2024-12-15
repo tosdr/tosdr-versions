@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr human nature existence logic evidence and truth](/freeblr/human-nature/existence-logic-evidence-and-truth/card.svg)](https://jarick.works/freeblr/human-nature/existence-logic-evidence-and-truth)[![freeblr family eight dangerous myths about spanking](/freeblr/family/eight-dangerous-myths-about-spanking/card.svg)](https://jarick.works/freeblr/family/eight-dangerous-myths-about-spanking)[![freeblr human nature you dont own other people](/freeblr/human-nature/you-dont-own-other-people/card.svg)](https://jarick.works/freeblr/human-nature/you-dont-own-other-people)[![freeblr family how to prevent violent criminal behaviour in the next generation](/freeblr/family/how-to-prevent-violent-criminal-behaviour-in-the-next-generation/card.svg)](https://jarick.works/freeblr/family/how-to-prevent-violent-criminal-behaviour-in-the-next-generation)
+[![freeblr borders immigration controls are socialist](/freeblr/borders/immigration-controls-are-socialist/card.svg)](https://jarick.works/freeblr/borders/immigration-controls-are-socialist)[![freeblr health](/freeblr/health/card.svg)](https://jarick.works/freeblr/health)[![freeblr justice punishment versus restitution a formulation](/freeblr/justice/punishment-versus-restitution-a-formulation/card.svg)](https://jarick.works/freeblr/justice/punishment-versus-restitution-a-formulation)[![freeblr war the state](/freeblr/war/the-state/card.svg)](https://jarick.works/freeblr/war/the-state)
 
 [Follow](#follow)
 
