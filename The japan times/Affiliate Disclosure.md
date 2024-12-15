@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 15, 2024](https://www.japantimes.co.jp/archive/2024/12/15/ "archive page")
+[December 16, 2024](https://www.japantimes.co.jp/archive/2024/12/16/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,66 +131,68 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-  [![South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440177.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ")](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-[U.S. serviceman sentenced over sexual assault of underage girl in Okinawa](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439917.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.")](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-[Macron names veteran centrist ally Francois Bayrou as France's prime minister](https://www.japantimes.co.jp/news/2024/12/13/world/politics/francois-bayrou-new-french-pm/ "Macron names veteran centrist ally Francois Bayrou as France's prime minister")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-  [![Francois Bayrou and French President Emmanuel Macron in Pau, France, in July 2023. On Friday, Macron named Bayrou as prime minister. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/440118.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Francois Bayrou and French President Emmanuel Macron in Pau, France, in July 2023. On Friday, Macron named Bayrou as prime minister. ")](https://www.japantimes.co.jp/news/2024/12/13/world/politics/francois-bayrou-new-french-pm/ "Macron names veteran centrist ally Francois Bayrou as France's prime minister")
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-[Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-  [![A Nippon Steel blast furnace building in Kashima, Ibaraki Prefecture, on Dec. 6](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440134.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Nippon Steel blast furnace building in Kashima, Ibaraki Prefecture, on Dec. 6")](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-[Trilateral fighter project takes big step with joint venture deal](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
+[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
-  [![Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439993.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.")](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
+  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
 Editors' Picks
 --------------
 
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
 
-  [![South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440177.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ")](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[U.S. serviceman sentenced over sexual assault of underage girl in Okinawa](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
-
-By [Jessica Speed](https://www.japantimes.co.jp/author/5338/jessica-speed/ "Jessica Speed")  
-
-  [![The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439917.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The Kadena Air Base in Okinawa Prefecture. Brennon Washington was stationed at the base when he abducted a minor on Dec. 24, 2023.")](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
-
-[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
-
-[Macron names veteran centrist ally Francois Bayrou as France's prime minister](https://www.japantimes.co.jp/news/2024/12/13/world/politics/francois-bayrou-new-french-pm/ "Macron names veteran centrist ally Francois Bayrou as France's prime minister")
-
-  [![Francois Bayrou and French President Emmanuel Macron in Pau, France, in July 2023. On Friday, Macron named Bayrou as prime minister. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/440118.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Francois Bayrou and French President Emmanuel Macron in Pau, France, in July 2023. On Friday, Macron named Bayrou as prime minister. ")](https://www.japantimes.co.jp/news/2024/12/13/world/politics/francois-bayrou-new-french-pm/ "Macron names veteran centrist ally Francois Bayrou as France's prime minister")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
-
-By [Shoko Oda](https://www.japantimes.co.jp/author/377/shoko-oda/ "Shoko Oda") and [Stephen Stapczynski](https://www.japantimes.co.jp/author/977/stephen-stapczynski/ "Stephen Stapczynski")  
-
-  [![A Nippon Steel blast furnace building in Kashima, Ibaraki Prefecture, on Dec. 6](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440134.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Nippon Steel blast furnace building in Kashima, Ibaraki Prefecture, on Dec. 6")](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Trilateral fighter project takes big step with joint venture deal](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
-  [![Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439993.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.")](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+
+By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
+
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+By F.D. Flam  
+
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
 Podcast
 -------
@@ -211,9 +213,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Chinese firms take on EV truck challenges](https://www.japantimes.co.jp/business/2024/12/15/chinese-firms-ev-truck-challenges/ "Chinese firms take on EV truck challenges")
-
-2 hours ago
-
-[South Korean opposition urges swift removal of impeached President Yoon](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-opposition-yoon-removal/ "South Korean opposition urges swift removal of impeached President Yoon")
-
-2 hours ago
-
-[South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
+[Latest scandal raises fresh questions about U.K.'s Prince Andrew](https://www.japantimes.co.jp/news/2024/12/15/world/prince-andrew-latest-scandal/ "Latest scandal raises fresh questions about U.K.'s Prince Andrew")
 
 3 hours ago
 
-[Indian-born CEO of Japanese company says nation needs immigration to thrive](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
+[Australia says remaining 'Bali Nine' members have returned from Indonesia](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/crime-legal/bali-nine-return-to-australia/ "Australia says remaining 'Bali Nine' members have returned from Indonesia")
 
 5 hours ago
 
-[Forging a career through digital transformation and mindset change](https://www.japantimes.co.jp/business/2024/12/15/women-work-satoko-shisai/ "Forging a career through digital transformation and mindset change")
+[Chinese firms take on EV truck challenges](https://www.japantimes.co.jp/business/2024/12/15/chinese-firms-ev-truck-challenges/ "Chinese firms take on EV truck challenges")
 
-6 hours ago
+8 hours ago
+
+[South Korean opposition urges swift removal of impeached President Yoon](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-opposition-yoon-removal/ "South Korean opposition urges swift removal of impeached President Yoon")
+
+8 hours ago
+
+[South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
+
+9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
