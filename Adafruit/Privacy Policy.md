@@ -408,9 +408,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The whole point of getting things done is knowing what to leave undone”
+“ How wonderful it is that nobody need wait a single moment before starting to improve the world”
 
-[Oswald Chambers](https://en.wikipedia.org/wiki/Oswald_Chambers)
+[Anne Frank](http://en.wikipedia.org/wiki/Anne_Frank)
 
 [](https://www.adafruit.com/about)
 
