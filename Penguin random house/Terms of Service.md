@@ -22,11 +22,11 @@ Audio
 
 * * *
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/12/08132549/PRH_Site_1200x628_DEC2024.jpg)
+* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/25164626/Audio_December_1200x628.jpg)
     
-    New Releases
+    New Stories to Listen to
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-december/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
 
 * * *
 
