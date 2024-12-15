@@ -44,11 +44,11 @@
         *  [![Kanye West Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Kanye West](https://www.songkick.com/artists/552177-kanye-west)
         *  [![Ed Sheeran Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Ed Sheeran](https://www.songkick.com/artists/2083334-ed-sheeran)
         
+        *  [![Ty Myers Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Ty Myers](https://www.songkick.com/artists/10358266-ty-myers)
+        *  [![Jesse Welles Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Jesse Welles](https://www.songkick.com/artists/10357549-jesse-welles)
         *  [![Real Boston Richey Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Real Boston Richey](https://www.songkick.com/artists/10357617-real-boston-richey)
         *  [![Max McNown Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Max McNown](https://www.songkick.com/artists/10357429-max-mcnown)
-        *  [![Jey Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Jey](https://www.songkick.com/artists/10357358-jey)
-        *  [![Mach-Hommy Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mach-Hommy](https://www.songkick.com/artists/10357141-machhommy)
-        *  [![Boy Wonder CF Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Boy Wonder CF](https://www.songkick.com/artists/10357027-boy-wonder-cf)
+        *  [![Arcane Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Arcane](https://www.songkick.com/artists/339114-arcane)
         
         Get your tour dates seen by one billion fans: [Sign up as an artist](https://tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=visitor)
         
