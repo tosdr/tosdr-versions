@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr education](/freeblr/education/card.svg)](https://jarick.works/freeblr/education)[![freeblr government on the rule of law](/freeblr/government/on-the-rule-of-law/card.svg)](https://jarick.works/freeblr/government/on-the-rule-of-law)[![freeblr government what big government is all about](/freeblr/government/what-big-government-is-all-about/card.svg)](https://jarick.works/freeblr/government/what-big-government-is-all-about)[![freeblr limited government no rulers](/freeblr/limited-government/no-rulers/card.svg)](https://jarick.works/freeblr/limited-government/no-rulers)
+[![freeblr religion the stone mover](/freeblr/religion/the-stone-mover/card.svg)](https://jarick.works/freeblr/religion/the-stone-mover)[![freeblr family](/freeblr/family/card.svg)](https://jarick.works/freeblr/family)[![freeblr economics marx as utopian](/freeblr/economics/marx-as-utopian/card.svg)](https://jarick.works/freeblr/economics/marx-as-utopian)[![freeblr borders the age of the suitcase nuke](/freeblr/borders/the-age-of-the-suitcase-nuke/card.svg)](https://jarick.works/freeblr/borders/the-age-of-the-suitcase-nuke)
 
 [Follow](#follow)
 
