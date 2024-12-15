@@ -153,7 +153,10 @@ Latest reactions
 
 Latest forum posts
 
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=16 "Christmas Quiz 2024")
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=17 "Christmas Quiz 2024")
+* [Almost half a screen filled with add](https://www.msx.org/forum/msx-talk/msx-resource-center/almost-half-a-screen-filled-with-add "Almost half a screen filled with add")
+* [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=4 "ZX Spectrum Convertions")
+* [Sony HB-75P video output issues](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75p-video-output-issues "Sony HB-75P video output issues")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=80 "WonderTANG! Who wants to juice up your MSX?")
 * [MX-10 Black Screen](https://www.msx.org/forum/msx-talk/hardware/mx-10-black-screen "MX-10 Black Screen")
 * [Tetris 2 - Special Edition on Blue MSX](https://www.msx.org/forum/msx-talk/software-and-gaming/tetris-2-special-edition-blue-msx?page=4 "Tetris 2 - Special Edition on Blue MSX")
@@ -163,9 +166,6 @@ Latest forum posts
 * [Question about the 2-button joysticks](https://www.msx.org/forum/msx-talk/development/question-about-the-2-button-joysticks?page=1 "Question about the 2-button joysticks")
 * [I made a full STDIO lib for SDCC](https://www.msx.org/forum/msx-talk/development/i-made-a-full-stdio-lib-for-sdcc "I made a full STDIO lib for SDCC")
 * [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx?page=2 "DalSoRi R2 on OpenMSX")
-* [vFM (virtual Full Music) MSX universal audio Cartridge](https://www.msx.org/forum/msx-talk/hardware/vfm-virtual-full-music-msx-universal-audio-cartridge?page=8 "vFM (virtual Full Music) MSX universal audio Cartridge")
-* [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=4 "ZX Spectrum Convertions")
-* [Nice video from the BBC](https://www.msx.org/forum/msx-talk/general-discussion/nice-video-from-the-bbc "Nice video from the BBC")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
