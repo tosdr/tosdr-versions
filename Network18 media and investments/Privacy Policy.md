@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Sun, Dec 15, 2024
+Mon, Dec 16, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Sharmila Tagore](https://www.news18.com/movies/sharmila-tagore-says-she-was-pregnant-with-saif-during-aradhana-reveals-problem-she-had-with-rajesh-khanna-9153830.html)
+    * [Zakir Hussain](https://www.news18.com/movies/zakir-hussain-passes-away-tabla-maestro-breathes-his-last-in-san-francisco-9157226.html)
+    * [Ranbir Kapoor](https://www.news18.com/movies/inside-ranbir-kapoor-alia-bhatts-massive-kitchen-photos-with-raha-centralised-ac-and-more-watch-9156895.html)
+    * [MobiKwik IPO](https://www.news18.com/business/ipo/mobikwik-ipo-know-latest-gmp-allotment-and-listing-dates-9156691.html)
+    * [Elon Musk](https://www.news18.com/world/indian-origin-ceo-asks-if-he-can-get-us-green-card-elon-musk-reacts-9157070.html)
+    * [Omar Abdullah](https://www.news18.com/politics/rift-in-india-bloc-widens-as-omar-abdullah-tells-ally-congress-to-stop-whining-about-evms-9156983.html)
     * [Idli Recipes](https://www.news18.com/web-stories/lifestyle/5-wholesome-south-indian-idli-recipes-2679427/)
-    * [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
-    * [Chennai Rain](https://www.news18.com/india/chennai-bengaluru-rains-imd-forecast-yellow-alert-karnataka-tamil-nadu-latest-updates-9154506.html)
-    * [Ding Liren](https://www.news18.com/sports/ding-liren-accused-of-losing-on-purpose-by-russian-chess-federation-president-calls-for-fide-investigation-9154398.html)
-    * [Vinod Kambli](https://www.news18.com/cricket/vinod-kambli-expresses-willingness-to-enter-rehab-amid-health-concerns-9154470.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Sharmila Tagore](https://www.news18.com/movies/sharmila-tagore-says-she-was-pregnant-with-saif-during-aradhana-reveals-problem-she-had-with-rajesh-khanna-9153830.html)
+* [Zakir Hussain](https://www.news18.com/movies/zakir-hussain-passes-away-tabla-maestro-breathes-his-last-in-san-francisco-9157226.html)
+* [Ranbir Kapoor](https://www.news18.com/movies/inside-ranbir-kapoor-alia-bhatts-massive-kitchen-photos-with-raha-centralised-ac-and-more-watch-9156895.html)
+* [MobiKwik IPO](https://www.news18.com/business/ipo/mobikwik-ipo-know-latest-gmp-allotment-and-listing-dates-9156691.html)
+* [Elon Musk](https://www.news18.com/world/indian-origin-ceo-asks-if-he-can-get-us-green-card-elon-musk-reacts-9157070.html)
+* [Omar Abdullah](https://www.news18.com/politics/rift-in-india-bloc-widens-as-omar-abdullah-tells-ally-congress-to-stop-whining-about-evms-9156983.html)
 * [Idli Recipes](https://www.news18.com/web-stories/lifestyle/5-wholesome-south-indian-idli-recipes-2679427/)
-* [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
-* [Chennai Rain](https://www.news18.com/india/chennai-bengaluru-rains-imd-forecast-yellow-alert-karnataka-tamil-nadu-latest-updates-9154506.html)
-* [Ding Liren](https://www.news18.com/sports/ding-liren-accused-of-losing-on-purpose-by-russian-chess-federation-president-calls-for-fide-investigation-9154398.html)
-* [Vinod Kambli](https://www.news18.com/cricket/vinod-kambli-expresses-willingness-to-enter-rehab-amid-health-concerns-9154470.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Dec 15, 2024
+Dec 16, 2024
 
 [View All](https://www.news18.com/short-news/)
 
