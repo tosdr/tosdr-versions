@@ -464,9 +464,9 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
+[South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
 
-  [![South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440177.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ")](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
+  [![South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440177.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ")](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
 
 [U.S. serviceman sentenced over sexual assault of underage girl in Okinawa](https://www.japantimes.co.jp/news/2024/12/13/japan/crime-legal/us-military-okinawa-ruling/ "U.S. serviceman sentenced over sexual assault of underage girl in Okinawa")
 
@@ -478,31 +478,31 @@ Revised June 1, 2022
 
 [Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
 
-  [![A Nippon Steel blast furnace building in Kashima, Ibaraki prefecture, on Dec. 6](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440134.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Nippon Steel blast furnace building in Kashima, Ibaraki prefecture, on Dec. 6")](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
+  [![A Nippon Steel blast furnace building in Kashima, Ibaraki Prefecture, on Dec. 6](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440134.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Nippon Steel blast furnace building in Kashima, Ibaraki Prefecture, on Dec. 6")](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
 
 [Trilateral fighter project takes big step with joint venture deal](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
 
   [![Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439993.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.")](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
+
+[The year that Shohei Ohtani achieved 'yokozuna' status … in the market](https://www.japantimes.co.jp/life/2024/12/13/lifestyle/2024-hit-products-japan/ "The year that Shohei Ohtani achieved 'yokozuna' status … in the market")
+
+  [![Shohei Ohtani's prowress on the diamond translated into an outsized influence on Japan's consumer trends this year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439307.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shohei Ohtani's prowress on the diamond translated into an outsized influence on Japan's consumer trends this year.")](https://www.japantimes.co.jp/life/2024/12/13/lifestyle/2024-hit-products-japan/ "The year that Shohei Ohtani achieved 'yokozuna' status … in the market")
+
+[Big franchises and bold voices dominated anime in 2024](https://www.japantimes.co.jp/culture/2024/12/13/film/2024-year-anime-japan/ "Big franchises and bold voices dominated anime in 2024")
+
+  [![In a year of anime hits, Kiyotaka Oshiyama’s “Look Back” stood out from the bunch.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439704.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "In a year of anime hits, Kiyotaka Oshiyama’s “Look Back” stood out from the bunch.")](https://www.japantimes.co.jp/culture/2024/12/13/film/2024-year-anime-japan/ "Big franchises and bold voices dominated anime in 2024")
+
+[Glass half full: Japan’s sake industry celebrates a brighter 2024](https://www.japantimes.co.jp/life/2024/12/15/food-drink/2024-in-review-sake-shochu/ "Glass half full: Japan’s sake industry celebrates a brighter 2024")
+
+  [![Despite ongoing struggles, 2024 had plenty of bright spots for Japan's sake industry.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439230.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Despite ongoing struggles, 2024 had plenty of bright spots for Japan's sake industry.")](https://www.japantimes.co.jp/life/2024/12/15/food-drink/2024-in-review-sake-shochu/ "Glass half full: Japan’s sake industry celebrates a brighter 2024")
 
 [_'Kin'_ selected as the kanji of 2024 after strong year for Japanese athletes](https://www.japantimes.co.jp/news/2024/12/12/japan/japan-2024-kanji-of-the-year/ "'Kin' selected as the kanji of 2024 after strong year for Japanese athletes")
 
   [![The head priest of Kiyomizu Temple writes the kanji "kin," which was chosen by the public as the character that best represents 2024, on Thursday in Kyoto.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439791.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The head priest of Kiyomizu Temple writes the kanji "kin," which was chosen by the public as the character that best represents 2024, on Thursday in Kyoto.")](https://www.japantimes.co.jp/news/2024/12/12/japan/japan-2024-kanji-of-the-year/ "'Kin' selected as the kanji of 2024 after strong year for Japanese athletes")
 
-[London calling: Sumo's U.K. trip brings back memories of 1991](https://www.japantimes.co.jp/sports/2024/12/11/sumo/london-sumo-tournament/ "London calling: Sumo's U.K. trip brings back memories of 1991")
+[USJ’s new Donkey Kong Country is a barrel of fun](https://www.japantimes.co.jp/life/2024/12/12/travel/donkey-kong-universal-studios-opening/ "USJ’s new Donkey Kong Country is a barrel of fun")
 
-  [![Japan’s national sport made its second foray into Western Europe, and first to the U.K., with a five-day tournament at London’s historic Royal Albert Hall in October 1991.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439479.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan’s national sport made its second foray into Western Europe, and first to the U.K., with a five-day tournament at London’s historic Royal Albert Hall in October 1991.")](https://www.japantimes.co.jp/sports/2024/12/11/sumo/london-sumo-tournament/ "London calling: Sumo's U.K. trip brings back memories of 1991")
-
-[Trilateral fighter project takes big step with joint venture deal](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
-
-  [![Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/13/439993.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Attendees view a concept model of the Global Combat Air Program (GCAP) fighter plane at the BAE Systems pavilion at the Farnborough International Airshow, in Farnborough, England, in July.")](https://www.japantimes.co.jp/news/2024/12/13/japan/gcap-japan-fighter-joint-venture/ "Trilateral fighter project takes big step with joint venture deal")
-
-[‘Hayao Miyazaki and the Heron’ documentary meditates on auteur's creativity and legacy](https://www.japantimes.co.jp/culture/2024/12/11/film/hayao-miyazaki-and-the-heron/ "‘Hayao Miyazaki and the Heron’ documentary meditates on auteur's creativity and legacy")
-
-  [![“Hayao Miyazaki and the Heron" provides an in-depth look into the octogenarian auteur’s creative process and personal reflections.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439437.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "“Hayao Miyazaki and the Heron" provides an in-depth look into the octogenarian auteur’s creative process and personal reflections.")](https://www.japantimes.co.jp/culture/2024/12/11/film/hayao-miyazaki-and-the-heron/ "‘Hayao Miyazaki and the Heron’ documentary meditates on auteur's creativity and legacy")
-
-[Yurie Collins: ‘Everyone seems sedated, fed-up … that’s why they turn to comedy’](https://www.japantimes.co.jp/community/2024/12/10/our-lives/comedian-yurie-collins-roast/ "Yurie Collins: ‘Everyone seems sedated, fed-up … that’s why they turn to comedy’")
-
-  [![Yurie Collins is a bilingual comedian based in Tokyo. In addition to being a prize-winning roast comic, her dating-themed "Tokyo Hoe Tales" shows have proven to be a hit with women of all nationalities. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438914.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yurie Collins is a bilingual comedian based in Tokyo. In addition to being a prize-winning roast comic, her dating-themed "Tokyo Hoe Tales" shows have proven to be a hit with women of all nationalities. ")](https://www.japantimes.co.jp/community/2024/12/10/our-lives/comedian-yurie-collins-roast/ "Yurie Collins: ‘Everyone seems sedated, fed-up … that’s why they turn to comedy’")
+  [![On Dec. 11, Universal Studios Japan officially unveiled its new Donkey Kong Country area, putting the iconic character in the spotlight for the first time in a while.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/12/439530.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "On Dec. 11, Universal Studios Japan officially unveiled its new Donkey Kong Country area, putting the iconic character in the spotlight for the first time in a while.")](https://www.japantimes.co.jp/life/2024/12/12/travel/donkey-kong-universal-studios-opening/ "USJ’s new Donkey Kong Country is a barrel of fun")
 
 Podcast
 -------
@@ -523,9 +523,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Chinese firms take on EV truck challenges](https://www.japantimes.co.jp/business/2024/12/15/chinese-firms-ev-truck-challenges/ "Chinese firms take on EV truck challenges")
+
+2 hours ago
+
+[South Korean opposition urges swift removal of impeached President Yoon](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-opposition-yoon-removal/ "South Korean opposition urges swift removal of impeached President Yoon")
+
+2 hours ago
+
+[South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
+
+3 hours ago
+
+[Indian-born CEO of Japanese company says nation needs immigration to thrive](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
+
+5 hours ago
+
 [Forging a career through digital transformation and mindset change](https://www.japantimes.co.jp/business/2024/12/15/women-work-satoko-shisai/ "Forging a career through digital transformation and mindset change")
 
-4 mins ago
-
-[Assad's final hours in Syria: Deception, despair and flight](https://www.japantimes.co.jp/news/2024/12/15/world/assad-final-hours-syria/ "Assad's final hours in Syria: Deception, despair and flight")
-
-2 hours ago
-
-[Trump reportedly eyeing businessman George Glass as envoy to Japan](https://www.japantimes.co.jp/news/2024/12/15/japan/politics/japanese-ambassador-to-japan/ "Trump reportedly eyeing businessman George Glass as envoy to Japan")
-
-2 hours ago
-
-[U.S. says it is in contact with new Syria rulers](https://www.japantimes.co.jp/news/2024/12/15/world/us-syria-rebels-contact/ "U.S. says it is in contact with new Syria rulers")
-
-2 hours ago
-
-[U.S. and Japanese Ospreys grounded this month after precautionary landing](https://www.japantimes.co.jp/news/2024/12/15/japan/ospreys-grounded/ "U.S. and Japanese Ospreys grounded this month after precautionary landing")
-
-2 hours ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
