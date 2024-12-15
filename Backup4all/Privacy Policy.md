@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to configure the email notifications](https://www.backup4all.com/how-to-configure-the-email-notifications-kb.html)  
+* [How to back up file names with other characte ...](https://www.backup4all.com/how-to-back-up-file-names-with-other-characters-than-english-kb.html)  
     
-* [How to create a shortcut](https://www.backup4all.com/how-to-create-a-shortcut-kb.html)  
+* [Backup to CD/DVD/Blu-ray using built-in burne ...](https://www.backup4all.com/backup-to-cd-dvd-using-built-in-burner-kb.html)  
     
-* [Configure the scheduler to run missed backups](https://www.backup4all.com/how-to-configure-the-scheduler-to-run-missed-backups-kb.html)  
+* [Backup to Amazon S3 using Backup4all 6 or old ...](https://www.backup4all.com/backup-to-amazon-s3-kb.html)  
     
-* [How to backup your data to OneDrive](https://www.backup4all.com/how-to-backup-your-data-to-onedrive-kb.html)  
+* [How to back up data files from Polycloud usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-polycloud-using-backup4all-kb.html)  
     
-* [FTP backup using passive mode](https://www.backup4all.com/ftp-backup-using-passive-mode-kb.html)  
+* [How to back up data files from Amazon S3 usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-amazon-s3-using-backup4all-kb.html)  
     
 
 Choose language:
