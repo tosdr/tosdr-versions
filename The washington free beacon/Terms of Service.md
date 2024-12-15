@@ -31,13 +31,13 @@ ADVERTISEMENT
     * [Editorials](https://freebeacon.com/author/washington-free-beacon-editors/)
     * [Men of the Year](https://freebeacon.com/men-of-the-year/)
 
-* [![](https://freebeacon.com/wp-content/uploads/2024/12/reactions-in-turkey-to-apparent-fall-of-assad-regime-in-syria-scaled-e1734107049969.jpg)
+* [![](https://s1.freebeacon.com/up/2024/12/reactions-in-turkey-to-apparent-fall-of-assad-regime-in-syria-scaled-e1734107049969.jpg)
     
     Turkey's Syrian Gambit Pays Off](https://freebeacon.com/columns/turkeys-syrian-gambit-pays-off/)
-* [![](https://freebeacon.com/wp-content/uploads/2024/12/suspect-arrested-in-pennsylvania-for-united-healthcare-ceo-brian-thomp-scaled-e1734028265781.jpg)
+* [![](https://s4.freebeacon.com/up/2024/12/suspect-arrested-in-pennsylvania-for-united-healthcare-ceo-brian-thomp-scaled-e1734028265781.jpg)
     
     Luigi Mangione: Touch of Evil](https://freebeacon.com/columns/luigi-mangione-touch-of-evil/)
-* [![](https://freebeacon.com/wp-content/uploads/2024/12/vice-president-elect-jd-vance-on-capitol-hill-for-lawmaker-meetings-wi-scaled-e1733418882260.jpg)
+* [![](https://s3.freebeacon.com/up/2024/12/vice-president-elect-jd-vance-on-capitol-hill-for-lawmaker-meetings-wi-scaled-e1733418882260.jpg)
     
     Trump's Tricky Transition Math](https://freebeacon.com/columns/trumps-tricky-transition-math/)
 
