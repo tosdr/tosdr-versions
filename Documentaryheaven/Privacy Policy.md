@@ -128,39 +128,39 @@ Advertisement
     Dispatches: The Killing Zone
     
     While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
-* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
+* [![The Hour Of Our Time: The Legacy of William Cooper](/wp-content/thumbnails/1157-100x70.jpg?x53432)
     
-    Objectified
+    The Hour Of Our Time: The Legacy of William Cooper
     
-    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+    Surrounding us in our day-to-day lives are mysteries, that to spend our days pondering would paralyze us from leading productive lives. So we turn away from these thoughts in order to seek out as trou...](https://documentaryheaven.com/the-hour-of-our-time-the-legacy-of-william-cooper/ "The Hour Of Our Time: The Legacy of William Cooper")
 
 ###### Throwback Documentaries
 
-* [![Gordon Ramsay: Boiling Point](/wp-content/thumbnails/14427-100x70.jpg?x53432)
+* [![Dispatches: Iraq Reckoning](/wp-content/thumbnails/844-100x70.jpg?x53432)
     
-    Gordon Ramsay: Boiling Point
+    Dispatches: Iraq Reckoning
     
-    Boiling Point is a five part documentary miniseries which was released by Channel 4 back in 1999. It follows now celebrity chief Gordon Ramsay over the course of an eight month period, a period which](https://documentaryheaven.com/gordon-ramsay-boiling-point/ "Gordon Ramsay: Boiling Point")
-* [![John Nash: A Beautiful Mind](/wp-content/thumbnails/9863-100x70.jpg?x53432)
+    Peter Oborne, political editor of the Spectator, reports on the West's exit strategy for Iraq. He believes the invasion of Iraq is proving to be the greatest foreign policy failure since Munich. Oborn](https://documentaryheaven.com/dispatches-iraq-reckoning/ "Dispatches: Iraq Reckoning")
+* [![PT 3/3 Nerds 2.0.1: A Brief History of the Internet](/wp-content/thumbnails/2565-100x70.jpg?x53432)
     
-    John Nash: A Beautiful Mind
+    PT 3/3 Nerds 2.0.1: A Brief History of the Internet
     
-    In September 1949, the world learned that the Soviet Union had joined the United States as a nuclear power. This shocking news intensified fears in the US and put a premium on mathematicians. Mathemat](https://documentaryheaven.com/john-nash-beautiful-mind/ "John Nash: A Beautiful Mind")
-* [![The Missing Link](/wp-content/thumbnails/7093-100x70.jpg?x53432)
+    Wiring the WorldNerds 2.0.1: A Brief History of the Internet (1998) is a three-hour documentary film written and hosted by Mark Stephens under the pseudonym Robert X. Cringely and produced by Oreg](https://documentaryheaven.com/pt-33-nerds-2-0-1-a-brief-history-of-the-internet/ "PT 3/3 Nerds 2.0.1: A Brief History of the Internet")
+* [![Secrets of World War II: Confusion Was Their Business](/wp-content/thumbnails/6765-100x70.jpg?x53432)
     
-    The Missing Link
+    Secrets of World War II: Confusion Was Their Business
     
-    Last year the discovery of a tiny fossilised jawbone hit the headlines. The jawbone, only a few centimetres long with seven rows of teeth, was found abandoned in a dusty museum where it had lain unnot](https://documentaryheaven.com/the-missing-link/ "The Missing Link")
-* [![Mao’s Bloody Revolution Revealed](/wp-content/thumbnails/730-100x70.png?x53432)
+    During the chaos and destruction of WWII, ordinary men and women from all walks of life were thrown into fearsome, real-life situations worthy of any Hollywood movie — the only difference is that this](https://documentaryheaven.com/secrets-of-world-war-ii-confusion-was-their-business/ "Secrets of World War II: Confusion Was Their Business")
+* [![The Mystery of the Human Hobbit](/wp-content/thumbnails/3633-100x70.jpg?x53432)
     
-    Mao’s Bloody Revolution Revealed
+    The Mystery of the Human Hobbit
     
-    Mao’s Bloody Revolution Revealed is hosted by Philip Short, BBC correspondent and author of Mao: A Life. Bloody Revolution can be divided into two parts. The first half of the documentary covers the c](https://documentaryheaven.com/maos-bloody-revolution-revealed/ "Mao’s Bloody Revolution Revealed")
-* [![A Brilliant Madness: John Nash](/wp-content/thumbnails/1721-100x70.jpg?x53432)
+    Is the hobbit a new human species or nothing more than a modern human with a crippling deformity? On the far-flung island of Flores, in the Indonesian archipelago, a team of archaeologists happened up](https://documentaryheaven.com/the-mystery-of-the-human-hobbit/ "The Mystery of the Human Hobbit")
+* [![Jesus of Siberia](/wp-content/thumbnails/6594-100x70.jpg?x53432)
     
-    A Brilliant Madness: John Nash
+    Jesus of Siberia
     
-    A Brilliant Madness is the story of a mathematical genius whose career was cut short by a descent into madness. At the age of 30, John Nash, a stunningly original and famously eccentric MIT mathematic](https://documentaryheaven.com/brilliant-madness-john-nash/ "A Brilliant Madness: John Nash")
+    More than two decades ago, a 29-year-old patrol officer and talented painter named Sergey Anatolyevitch Torop publicly declared himself reborn as Vissarion. Since then he’s fostered a “unified religi](https://documentaryheaven.com/jesus-of-siberia/ "Jesus of Siberia")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
