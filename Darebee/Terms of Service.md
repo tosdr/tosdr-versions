@@ -18,8 +18,6 @@
 * [my bookmarks](https://darebee.com/bookmarks.html)
 * [donate](https://darebee.com/support.html)
 
-[![](/images/promo/alerts/tree2024.gif)](https://www.community.darebee.com/threads/ornaments-2024.2105)
-
 Terms of Use
 ============
 
@@ -45,6 +43,8 @@ If you think someone is abusing our work and our trust, please, **[do let us kn
 
 With thanks,  
 The DAREBEE team
+
+[![](/images/promo/alerts/tree2024.gif)](https://www.community.darebee.com/threads/ornaments-2024.2105)
 
 [![How Does DAREBEE Work](/images/promo/verylow.gif "How Does DAREBEE Work")](https://darebee.com/support.html "How Does DAREBEE Work")
 
