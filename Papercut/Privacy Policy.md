@@ -16,6 +16,52 @@ Choose your login
 
 [Support](https://www.papercut.com/support/)
 
+Support
+
+How can we help?
+
+Powered by AI ![](https://storage.googleapis.com/cdn1.papercut.com/web/cloudcannon/uploads/two-sparkle-stars.svg) 
+
+Back to results
+
+![Lightbulb icon](https://storage.googleapis.com/cdn1.papercut.com/web/img/icon/duo-light/positive/light-bulb.svg)
+
+![Lightbulb icon](https://storage.googleapis.com/cdn1.papercut.com/web/img/icon/duo-light/positive/light-bulb.svg) 
+
+Here’s your answer
+------------------
+
+Sources:
+
+See More
+
+![Lightbulb icon](https://storage.googleapis.com/cdn1.papercut.com/web/img/icon/duo-light/positive/light-bulb.svg) 
+
+Oops!
+-----
+
+We currently don’t have an answer for this and our teams are working on resolving the issue. If you still need help,
+
+![User reading a resource](https://storage.googleapis.com/cdn1.papercut.com/web/img/icon/duo-light/positive/news.svg)
+
+Popular resources
+
+[Help center](https://www.papercut.com/help/)
+
+* * *
+
+[FAQs](https://www.papercut.com/faq/)
+
+* * *
+
+![Conversation bubbles](https://storage.googleapis.com/cdn1.papercut.com/web/img/icon/duo-light/positive/conversation-speech-bubble.svg)
+
+Contact us
+
+Message the Support team
+
+* * *
+
 Search
 
 [](https://www.papercut.com/)
