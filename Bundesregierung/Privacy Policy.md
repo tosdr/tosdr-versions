@@ -339,6 +339,6 @@ Folgen Sie uns
 
 [Nach oben](#)
 
-![](https://analytics.bundesregierung.de/piwik.php?idsite=2&rec=1&action_name=Datenschutzhinweis%20%7C%20Bundesregierung&url=https%3A%2F%2Fwww.bundesregierung.de%2Fblueprint%2Fservlet%2Fbreg-de%2Fservice%2Fdatenschutzhinweis&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F120.0.0.0%20Safari%2F537.36&urlref=)
+![](https://analytics.bundesregierung.de/piwik.php?idsite=2&rec=1&action_name=Datenschutzhinweis%20%7C%20Bundesregierung&url=https%3A%2F%2Fwww.bundesregierung.de%2Fblueprint%2Fservlet%2Fbreg-de%2Fservice%2Fdatenschutzhinweis&ua=node-fetch&urlref=)
 
 Bitte aktivieren sie JavaScript in Ihrem Browser um alle Funktionen dieser Seite nutzen zu können
