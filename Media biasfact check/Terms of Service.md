@@ -182,25 +182,25 @@ No related posts.
 
 #### Recently Updated Pages
 
+* [Zimbabwe Government and Media Profile](https://mediabiasfactcheck.com/zimbabwe-media-profile/ "View Zimbabwe Government and Media Profile") - December 14, 2024
+    
+* [Yemen Government and Media Profile](https://mediabiasfactcheck.com/yemen-government-and-media-profile/ "View Yemen Government and Media Profile") - December 14, 2024
+    
+* [Vietnam Government and Media Profile](https://mediabiasfactcheck.com/vietnam-media-profile/ "View Vietnam Government and Media Profile") - December 14, 2024
+    
+* [Venezuela Government and Media Profile](https://mediabiasfactcheck.com/venezuela-media-profile/ "View Venezuela Government and Media Profile") - December 14, 2024
+    
+* [Vatican City Government and Media Profile](https://mediabiasfactcheck.com/vatican-city-government-and-media-profile/ "View Vatican City Government and Media Profile") - December 14, 2024
+    
+* [Syria Government and Media Profile](https://mediabiasfactcheck.com/syria-government-and-media-profile/ "View Syria Government and Media Profile") - December 14, 2024
+    
+* [Uruguay Government and Media Profile](https://mediabiasfactcheck.com/uruguay-government-and-media-profile/ "View Uruguay Government and Media Profile") - December 14, 2024
+    
+* [United Kingdom Government and Media Profile](https://mediabiasfactcheck.com/united-kingdom-media-profile/ "View United Kingdom Government and Media Profile") - December 14, 2024
+    
 * [United Arab Emirates Government and Media Profile](https://mediabiasfactcheck.com/united-arab-emirates-media-profile/ "View United Arab Emirates Government and Media Profile") - December 14, 2024
     
 * [Ukraine Government and Media Profile](https://mediabiasfactcheck.com/ukraine-media-profile/ "View Ukraine Government and Media Profile") - December 14, 2024
-    
-* [Uganda Government and Media Profile](https://mediabiasfactcheck.com/uganda-government-and-media-profile/ "View Uganda Government and Media Profile") - December 14, 2024
-    
-* [Turkmenistan Government and Media Profile](https://mediabiasfactcheck.com/turkmenistan-government-and-media-profile/ "View Turkmenistan Government and Media Profile") - December 14, 2024
-    
-* [Turkey Government and Media Profile](https://mediabiasfactcheck.com/turkey-media-profile/ "View Turkey Government and Media Profile") - December 14, 2024
-    
-* [Tunisia Government and Media Profile](https://mediabiasfactcheck.com/tunisia-media-profile/ "View Tunisia Government and Media Profile") - December 14, 2024
-    
-* [Thailand Government and Media Profile](https://mediabiasfactcheck.com/thailand-government-and-media-profile/ "View Thailand Government and Media Profile") - December 14, 2024
-    
-* [Tanzania Government and Media Profile](https://mediabiasfactcheck.com/tanzania-government-and-media-profile/ "View Tanzania Government and Media Profile") - December 14, 2024
-    
-* [Tajikistan Government and Media Profile](https://mediabiasfactcheck.com/tajikistan-government-and-media-profile/ "View Tajikistan Government and Media Profile") - December 14, 2024
-    
-* [Taiwan (ROC) Government and Media Profile](https://mediabiasfactcheck.com/taiwan-roc-media-profile/ "View Taiwan (ROC) Government and Media Profile") - December 14, 2024
     
 
 #### Today’s Top Page Views
@@ -212,8 +212,8 @@ No related posts.
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
-* [MBFC's Daily Vetted Fact Checks for 12/13/2024](https://mediabiasfactcheck.com/2024/12/13/mbfcs-daily-vetted-fact-checks-for-12-13-2024/)
 * [Time Magazine - Bias and Credibility](https://mediabiasfactcheck.com/time/)
+* [MBFC's Daily Vetted Fact Checks for 12/13/2024](https://mediabiasfactcheck.com/2024/12/13/mbfcs-daily-vetted-fact-checks-for-12-13-2024/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
 
 #### Subscribe via Email
