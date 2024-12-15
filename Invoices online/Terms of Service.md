@@ -196,57 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Jannie Schutte - myFinance-Online.co.za
+Johan Botha - Brand Xplosion
 
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=142128225)  
-Cooper Power
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=75d52c65522df07ff8302f86c2a74deeadde99d3014dcc32f552ccead610e020&c=130751618)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=92664684)  
-Blue Sky Solar Services
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=75d52c65522df07ff8302f86c2a74deeadde99d3014dcc32f552ccead610e020&c=142101666)  
+Kainos (Pty) Ltd
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=29426904)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=75d52c65522df07ff8302f86c2a74deeadde99d3014dcc32f552ccead610e020&c=14912527)  
+AMS Ambu Medical Supplies
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=212506139)  
-MONSTER CONNECT (PTY) LTD
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=75d52c65522df07ff8302f86c2a74deeadde99d3014dcc32f552ccead610e020&c=65620463)  
+Multi CNC Solutions CC
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=41042027)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=75d52c65522df07ff8302f86c2a74deeadde99d3014dcc32f552ccead610e020&c=59102849)  
+IEMS (PTY) ltd
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=167575535)  
-National Elite Security Services (PTY) LTD
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=75d52c65522df07ff8302f86c2a74deeadde99d3014dcc32f552ccead610e020&c=46862907)  
+BEE SURE CONSULTING (PTY) LTD
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=198536176)  
-LEONARD
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=75d52c65522df07ff8302f86c2a74deeadde99d3014dcc32f552ccead610e020&c=114753152)  
+Dr V Naik Consult
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=113454599)  
-AquariumSmiths
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=75d52c65522df07ff8302f86c2a74deeadde99d3014dcc32f552ccead610e020&c=57510849)  
+Forgotten Goods (Pty) Ltd
 
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=4092019)  
-VIR Electrical (PTY) LTD
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=75d52c65522df07ff8302f86c2a74deeadde99d3014dcc32f552ccead610e020&c=45084720)  
+SR Travel Services
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=160319885)  
-Import Maaw
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=75d52c65522df07ff8302f86c2a74deeadde99d3014dcc32f552ccead610e020&c=178723248)  
+OXYAIDER (PTY) LTD
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=198991805)  
-One2b
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=75d52c65522df07ff8302f86c2a74deeadde99d3014dcc32f552ccead610e020&c=129660005)  
+Eruca (PTY)Ltd
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=97953033)  
-Well Hung Art
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=75d52c65522df07ff8302f86c2a74deeadde99d3014dcc32f552ccead610e020&c=42973227)  
+Sonic Electrical Services PTY Ltd
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=45934046)  
-NJR ICT Services (Pty) Ltd
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=75d52c65522df07ff8302f86c2a74deeadde99d3014dcc32f552ccead610e020&c=157474329)  
+TRACKFORCE (Pty) Ltd
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=10982167)  
-Oukraal Merino's
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=75d52c65522df07ff8302f86c2a74deeadde99d3014dcc32f552ccead610e020&c=52073506)  
+OptaServ
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=b005984649a80b7e228f8f5d484fa1f0f79a113ed0cbcd0056845a3a1f0ebbad&c=72599552)  
-Desygn
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=75d52c65522df07ff8302f86c2a74deeadde99d3014dcc32f552ccead610e020&c=62193209)  
+LEO DEVELOPMENT GROUP
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
