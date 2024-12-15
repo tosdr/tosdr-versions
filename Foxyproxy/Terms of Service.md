@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-You guys are awesome - that’s why I've been a customer for 8 years!
+Was really useful - just needed it for watching iplayer while in France for summer holiday. Back in the UK now.
 
-Rick Turner
+James Riden
