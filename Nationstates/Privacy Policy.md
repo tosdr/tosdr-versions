@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [The Collective Security League Assemb… (2,135)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (2,135 posts)")
-* [NFL Football Thread 24-25: The Road t… (9,019)](https://forum.nationstates.net/viewtopic.php?t=527922&f=20&view=unread#unread ""NFL Football Thread 24-25: The Road to New Orleans!" (9,019 posts)")
-* [Christian Discussion: No more Fun wit… (4,858)](https://forum.nationstates.net/viewtopic.php?t=523262&f=20&view=unread#unread ""Christian Discussion: No more Fun with Pope Puns" (4,858 posts)")
-* [Heirs of Icarus | OoC | Closed (197)](https://forum.nationstates.net/viewtopic.php?t=558264&f=31&view=unread#unread ""Heirs of Icarus | OoC | Closed" (197 posts)")
-* [2023-24 Israel-Iran proxy conflict (2,830)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (2,830 posts)")
+* [Ukrainian War VIII: Three-Year Specia… (122)](https://forum.nationstates.net/viewtopic.php?t=559618&f=20&view=unread#unread ""Ukrainian War VIII: Three-Year Special Military Operation" (122 posts)")
+* [What Video Game Does AN's vibes remin… (120)](https://forum.nationstates.net/viewtopic.php?t=558820&f=25&view=unread#unread ""What Video Game Does AN's vibes remind you of?" (120 posts)")
+* [Callistan Forum (55)](https://forum.nationstates.net/viewtopic.php?t=548448&f=12&view=unread#unread ""Callistan Forum" (55 posts)")
+* [American Politics: Turnabout Trump (9,430)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (9,430 posts)")
+* [What do you think of when you see the… (10,101)](https://forum.nationstates.net/viewtopic.php?t=527620&f=25&view=unread#unread ""What do you think of when you see the AN's flag? V" (10,101 posts)")
 
 Advertisement
 
