@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)4°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)3°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [Ski Alpin](https://www.watson.ch/fr/ski-alpin/)
-* [Politique](https://www.watson.ch/fr/politique/)
-* [Justice](https://www.watson.ch/fr/justice/)
-* [Snowboard](https://www.watson.ch/fr/snowboard/)
-* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [credit-suisse](https://www.watson.ch/fr/credit-suisse/)
-* [Italie](https://www.watson.ch/fr/italie/)
-* [Accident](https://www.watson.ch/fr/accident/)
+* [Miss France](https://www.watson.ch/fr/miss-france/)
 * [Football](https://www.watson.ch/fr/football/)
 * [Interview](https://www.watson.ch/fr/interview/)
 * [Mode](https://www.watson.ch/fr/mode/)
 * [Jeux olympiques](https://www.watson.ch/fr/jeux-olympiques/)
 * [France](https://www.watson.ch/fr/france/)
-* [Union Européenne](https://www.watson.ch/fr/union-europeenne/)
 * [Best of watson](https://www.watson.ch/fr/best-of-watson/)
+* [Super League](https://www.watson.ch/fr/super-league/)
 * [Banques](https://www.watson.ch/fr/banques/)
 * [Meurtre](https://www.watson.ch/fr/meurtre/)
-* [Super League](https://www.watson.ch/fr/super-league/)
+* [Accident](https://www.watson.ch/fr/accident/)
 * [ukraine](https://www.watson.ch/fr/ukraine/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [credit-suisse](https://www.watson.ch/fr/credit-suisse/)
 * [Syrie](https://www.watson.ch/fr/syrie/)
+* [Snowboard](https://www.watson.ch/fr/snowboard/)
+* [Politique](https://www.watson.ch/fr/politique/)
+* [Justice](https://www.watson.ch/fr/justice/)
+* [Italie](https://www.watson.ch/fr/italie/)
+* [Ski Alpin](https://www.watson.ch/fr/ski-alpin/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
