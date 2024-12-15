@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
+    * [US officials have been in direct contact with the Syrian rebel group that ousted Assad, Blinken says](https://apnews.com/article/blinken-syria-assad-hts-transition-mideast-5fcff887a74dc9ec36e483c0b601a8c2)
+    * [South Korea’s parliament votes to impeach President Yoon Suk Yeol over his martial law order](https://apnews.com/article/south-korea-martial-law-yoon-impeach-6432768aafc8b55be26215667e3c19d0)
     * [A diminished Hezbollah is made even weaker by the toppling of Assad in Syria](https://apnews.com/article/lebanon-syria-iran-hezbollah-assad-hts-israel-fadc4fa97f2036a24f821f51e4eb6634)
-    * [Thousands of Syrians celebrate during first Friday prayers since Assad's fall](https://apnews.com/article/syria-friday-prayers-demonstrations-4667db0171da539e79662d1de23bd921)
-    * [Russia targets Ukrainian infrastructure with a massive attack by cruise missiles and drones](https://apnews.com/article/russia-ukraine-war-aerial-attack-december-13-2024-801d7ba2438ea021d8568502f803bb3e)
     
     Newsletters
     
@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
+    * [Rare tornado warning for San Francisco as major ice storm rakes Iowa, Nebraska](https://apnews.com/article/ice-iowa-nebraska-treacherous-road-tornado-fc5493b70887cb3c25d97190ffbf66b7)
     * [Texas' abortion pill lawsuit against New York doctor marks new challenge to interstate telemedicine](https://apnews.com/article/abortion-pills-lawsuit-shield-laws-texas-telemedicine-74c9b7d5c3c152e4c8f199b29132daec)
     * [Drones, planes or UFOs? Americans abuzz over mysterious New Jersey sightings](https://apnews.com/article/drones-new-jersey-buzz-6ef6cfdd5dd6508da22b3c3a1d2f6718)
-    * [Parts of Midwest brace for ice; Michigan first responders dash to safety during major crash](https://apnews.com/article/freezing-rain-ice-midwest-47a29adfac6c8ad93f92b705686785c6)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [US military flies American released from Syrian prison to Jordan, officials say](https://apnews.com/article/syria-timmerman-assad-timmerman-443d1c3b2b9cf551cdcfdff22bdcedc9)
-    * [Only 3 in 10 are highly confident about Trump's Cabinet picks: AP-NORC poll](https://apnews.com/article/trump-cabinet-administration-biden-poll-be16ac992769e9c4636854eee7999dfb)
-    * [Trump wants to turn the clock on daylight saving time](https://apnews.com/article/trump-daylight-saving-time-36ccbf61bea70aaac0f5c43b8029957c)
+    * [ABC agrees to give $15 million to Donald Trump's presidential library to settle defamation lawsuit](https://apnews.com/article/abc-trump-lawsuit-defamation-stephanopoulos-04aea8663310af39ae2a85f4c1a56d68)
+    * [Trump attends the Army-Navy game alongside key allies, nominees and Daniel Penny](https://apnews.com/article/trump-army-navy-football-penny-hegseth-desantis-85da138b3ac130b211afc414bf43514a)
+    * [Trump nominees should ‘steer clear’ of undermining polio vaccine, McConnell says](https://apnews.com/article/rfk-jr-vaccines-mcconnell-polio-f7b7ffbc4ea2b274df658c85374a7a7f)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Joel Embiid sustains sinus fracture fighting for rebound, misses 2nd half of 76ers' loss to Pacers](https://apnews.com/article/joel-embiid-76ers-0ffbc24ddbd4f69102417a13343b9042)
     * [Travis Hunter and Ashton Jeanty give this year's Heisman Trophy ceremony a different vibe](https://apnews.com/article/heisman-trophy-hunter-jeanty-gabriel-ward-d427ea7d8187b7fa44e75c3dfab1f430)
-    * [De'Vondre Campbell won't be part of the 49ers after his refusal to enter a game, Kyle Shanahan says](https://apnews.com/article/49ers-devondre-campbell-b3517612e22b520bb7c25ceeb65c6a48)
+    * [Shiffrin recovering after abdominal surgery to clean out deep puncture wound suffered in race crash](https://apnews.com/article/mikaela-shiffrin-3d28bee5ef6f7dd543fe42b288fc6f68)
+    * [Marshall withdraws from Independence Bowl matchup against Army](https://apnews.com/article/marshall-independence-bowl-d11e34d60dd6a6305d0027f44a36698c)
     
     Newsletters
     
@@ -94,9 +94,9 @@ Menu
     
     TOP STORIES
     
+    * [ABC agrees to give $15 million to Donald Trump's presidential library to settle defamation lawsuit](https://apnews.com/article/abc-trump-lawsuit-defamation-stephanopoulos-04aea8663310af39ae2a85f4c1a56d68)
     * [Woman accusing Jay-Z and Sean 'Diddy' Combs of sexual assault acknowledges inconsistencies](https://apnews.com/article/jayz-rape-allegation-sean-combs-diddy-inconsistencies-667e3c5f2abca341975741e536969d71)
     * [How to write a holiday rom-com for TV, according to the experts](https://apnews.com/article/hallmark-christmas-movie-holiday-romcom-writing-d4451b1563a274f490d9505fa23afd27)
-    * [Saudi Arabia banned film for 35 years. The Red Sea festival is just one sign of the industry's rise](https://apnews.com/article/red-sea-film-festival-saudi-cinema-13c9762d8b72066987437179fa87bb2a)
     
 * [Business](https://apnews.com/business)
     
@@ -225,15 +225,15 @@ Menu
     
     TOP STORIES
     
+    * [Thousands of Santas and a few Grinches hit the streets for annual SantaCon bar crawls](https://apnews.com/article/santacon-2024-christmas-santa-pub-crawl-nyc-b125cec8fc2937cf2a3dbb82a5b6edfa)
     * [Stay sober and have a jolly holiday season with these expert tips](https://apnews.com/article/staying-sober-holiday-tips-c1a18cbf0090b5049224c3f5d578590b)
     * [Once taboo, more Japanese women are brewing sake](https://apnews.com/article/japan-sake-women-brewers-84906e38b2be31eac5365ac343c05a0b)
-    * [Stanley recalls millions of travel mugs over concerns the lids might fall off, causing burns](https://apnews.com/article/stanley-mug-recall-walmart-amazon-target-08fed4ae4f3f9269285f0ae3cb77a3ab)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Notre Dame Cathedral's reopening spectacle capped a stellar year for luxury house LVMH](https://apnews.com/article/lvmh-notre-dame-branding-arnault-0d8076d36ed655136666b74d2ee681ed)
+    * [Notre Dame reopening spectacle caps a stellar year for luxury house LVMH](https://apnews.com/article/lvmh-notre-dame-branding-arnault-0d8076d36ed655136666b74d2ee681ed)
     * [On Gita Jayanti, Hare Krishnas celebrate the birth of the sacred text Bhagavad Gita](https://apnews.com/article/hindu-scripture-hare-krishna-bhagavad-gita-07b3aca4ef17bece83929aa91c523c68)
     * [How to write a holiday rom-com for TV, according to the experts](https://apnews.com/article/hallmark-christmas-movie-holiday-romcom-writing-d4451b1563a274f490d9505fa23afd27)
     
@@ -249,11 +249,11 @@ Menu
     
     TOP STORIES
     
-    * [Parlamento surcoreano vota a favor de abrir juicio político al presidente por decreto de ley marcial](https://apnews.com/article/asia-surcorea-ley-marcial-yoon-destitucion-141a7298d386158456ac29c6c11bc32d)
+    * [Parlamento surcoreano aprueba moción para juicio político al presidente por decreto de ley marcial](https://apnews.com/article/asia-surcorea-ley-marcial-yoon-destitucion-141a7298d386158456ac29c6c11bc32d)
+    * [Policía brasileña arresta a exmiembro del gobierno de Bolsonaro por presunto complot golpista](https://apnews.com/article/brasil-bolsonaro-golpe-de-estado-braga-netto-135b94deb1f7bc34f3335d7cd57fd4f8)
+    * [Opositores venezolanos asilados en embajada de Argentina urgen a Brasil a buscar su salida del país](https://apnews.com/article/venezuela-argentina-embajada-brasil-oposicion-229d228b6e928d26e863904cea14d798)
     * [Bolivia elige a jueces de altas cortes en las urnas en medio de polémica política y desconfianza](https://apnews.com/article/bolivia-elecciones-judiciales-11b359216ec6ca49408cc55b8bbcc20c)
-    * [Conversaciones de la ONU no logran acuerdo para hacer frente al creciente riesgo de sequía global](https://apnews.com/article/onu-sequia-desertificacion-clima-arabia-saudi-b49662dc029a23b88f7e2c2d6f6876f8)
-    * [Encuesta: Pocos estadounidenses tienen confianza en los seleccionados por Trump para su gabinete](https://apnews.com/article/eeuu-elecciones-trump-nuevo-gobierno-encuesta-fa5b30ade166aed70ff1f96abc2acc73)
-    * [Jóvenes activistas se enfrentan a una agencia gubernamental en una demanda climática en Florida](https://apnews.com/article/florida-clima-demanda-jovenes-activistas-fd8c127f0ef881a69b0ef06305d5ab0a)
+    * [¿Quién es el presidente surcoreano que se someterá a un juicio político tras decretar ley marcial?](https://apnews.com/article/surcorea-ley-marcial-presidente-juicio-politico-3f3a4017503218ca498a5a4eb45e75bb)
     
 * [Quizzes](https://apnews.com/quizzes)
     
@@ -414,9 +414,9 @@ Submit Search
     
     TOP STORIES
     
+    * [US officials have been in direct contact with the Syrian rebel group that ousted Assad, Blinken says](https://apnews.com/article/blinken-syria-assad-hts-transition-mideast-5fcff887a74dc9ec36e483c0b601a8c2)
+    * [South Korea’s parliament votes to impeach President Yoon Suk Yeol over his martial law order](https://apnews.com/article/south-korea-martial-law-yoon-impeach-6432768aafc8b55be26215667e3c19d0)
     * [A diminished Hezbollah is made even weaker by the toppling of Assad in Syria](https://apnews.com/article/lebanon-syria-iran-hezbollah-assad-hts-israel-fadc4fa97f2036a24f821f51e4eb6634)
-    * [Thousands of Syrians celebrate during first Friday prayers since Assad's fall](https://apnews.com/article/syria-friday-prayers-demonstrations-4667db0171da539e79662d1de23bd921)
-    * [Russia targets Ukrainian infrastructure with a massive attack by cruise missiles and drones](https://apnews.com/article/russia-ukraine-war-aerial-attack-december-13-2024-801d7ba2438ea021d8568502f803bb3e)
     
     Newsletters
     
@@ -432,9 +432,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Rare tornado warning for San Francisco as major ice storm rakes Iowa, Nebraska](https://apnews.com/article/ice-iowa-nebraska-treacherous-road-tornado-fc5493b70887cb3c25d97190ffbf66b7)
     * [Texas' abortion pill lawsuit against New York doctor marks new challenge to interstate telemedicine](https://apnews.com/article/abortion-pills-lawsuit-shield-laws-texas-telemedicine-74c9b7d5c3c152e4c8f199b29132daec)
     * [Drones, planes or UFOs? Americans abuzz over mysterious New Jersey sightings](https://apnews.com/article/drones-new-jersey-buzz-6ef6cfdd5dd6508da22b3c3a1d2f6718)
-    * [Parts of Midwest brace for ice; Michigan first responders dash to safety during major crash](https://apnews.com/article/freezing-rain-ice-midwest-47a29adfac6c8ad93f92b705686785c6)
     
     Newsletters
     
@@ -462,9 +462,9 @@ Submit Search
     
     TOP STORIES
     
-    * [US military flies American released from Syrian prison to Jordan, officials say](https://apnews.com/article/syria-timmerman-assad-timmerman-443d1c3b2b9cf551cdcfdff22bdcedc9)
-    * [Only 3 in 10 are highly confident about Trump's Cabinet picks: AP-NORC poll](https://apnews.com/article/trump-cabinet-administration-biden-poll-be16ac992769e9c4636854eee7999dfb)
-    * [Trump wants to turn the clock on daylight saving time](https://apnews.com/article/trump-daylight-saving-time-36ccbf61bea70aaac0f5c43b8029957c)
+    * [ABC agrees to give $15 million to Donald Trump's presidential library to settle defamation lawsuit](https://apnews.com/article/abc-trump-lawsuit-defamation-stephanopoulos-04aea8663310af39ae2a85f4c1a56d68)
+    * [Trump attends the Army-Navy game alongside key allies, nominees and Daniel Penny](https://apnews.com/article/trump-army-navy-football-penny-hegseth-desantis-85da138b3ac130b211afc414bf43514a)
+    * [Trump nominees should ‘steer clear’ of undermining polio vaccine, McConnell says](https://apnews.com/article/rfk-jr-vaccines-mcconnell-polio-f7b7ffbc4ea2b274df658c85374a7a7f)
     
     Newsletters
     
@@ -492,9 +492,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Joel Embiid sustains sinus fracture fighting for rebound, misses 2nd half of 76ers' loss to Pacers](https://apnews.com/article/joel-embiid-76ers-0ffbc24ddbd4f69102417a13343b9042)
     * [Travis Hunter and Ashton Jeanty give this year's Heisman Trophy ceremony a different vibe](https://apnews.com/article/heisman-trophy-hunter-jeanty-gabriel-ward-d427ea7d8187b7fa44e75c3dfab1f430)
-    * [De'Vondre Campbell won't be part of the 49ers after his refusal to enter a game, Kyle Shanahan says](https://apnews.com/article/49ers-devondre-campbell-b3517612e22b520bb7c25ceeb65c6a48)
+    * [Shiffrin recovering after abdominal surgery to clean out deep puncture wound suffered in race crash](https://apnews.com/article/mikaela-shiffrin-3d28bee5ef6f7dd543fe42b288fc6f68)
+    * [Marshall withdraws from Independence Bowl matchup against Army](https://apnews.com/article/marshall-independence-bowl-d11e34d60dd6a6305d0027f44a36698c)
     
     Newsletters
     
@@ -521,9 +521,9 @@ Submit Search
     
     TOP STORIES
     
+    * [ABC agrees to give $15 million to Donald Trump's presidential library to settle defamation lawsuit](https://apnews.com/article/abc-trump-lawsuit-defamation-stephanopoulos-04aea8663310af39ae2a85f4c1a56d68)
     * [Woman accusing Jay-Z and Sean 'Diddy' Combs of sexual assault acknowledges inconsistencies](https://apnews.com/article/jayz-rape-allegation-sean-combs-diddy-inconsistencies-667e3c5f2abca341975741e536969d71)
     * [How to write a holiday rom-com for TV, according to the experts](https://apnews.com/article/hallmark-christmas-movie-holiday-romcom-writing-d4451b1563a274f490d9505fa23afd27)
-    * [Saudi Arabia banned film for 35 years. The Red Sea festival is just one sign of the industry's rise](https://apnews.com/article/red-sea-film-festival-saudi-cinema-13c9762d8b72066987437179fa87bb2a)
     
 * [Business](https://apnews.com/business)
     
@@ -684,15 +684,15 @@ Submit Search
     
     TOP STORIES
     
+    * [Thousands of Santas and a few Grinches hit the streets for annual SantaCon bar crawls](https://apnews.com/article/santacon-2024-christmas-santa-pub-crawl-nyc-b125cec8fc2937cf2a3dbb82a5b6edfa)
     * [Stay sober and have a jolly holiday season with these expert tips](https://apnews.com/article/staying-sober-holiday-tips-c1a18cbf0090b5049224c3f5d578590b)
     * [Once taboo, more Japanese women are brewing sake](https://apnews.com/article/japan-sake-women-brewers-84906e38b2be31eac5365ac343c05a0b)
-    * [Stanley recalls millions of travel mugs over concerns the lids might fall off, causing burns](https://apnews.com/article/stanley-mug-recall-walmart-amazon-target-08fed4ae4f3f9269285f0ae3cb77a3ab)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
-    * [Notre Dame Cathedral's reopening spectacle capped a stellar year for luxury house LVMH](https://apnews.com/article/lvmh-notre-dame-branding-arnault-0d8076d36ed655136666b74d2ee681ed)
+    * [Notre Dame reopening spectacle caps a stellar year for luxury house LVMH](https://apnews.com/article/lvmh-notre-dame-branding-arnault-0d8076d36ed655136666b74d2ee681ed)
     * [On Gita Jayanti, Hare Krishnas celebrate the birth of the sacred text Bhagavad Gita](https://apnews.com/article/hindu-scripture-hare-krishna-bhagavad-gita-07b3aca4ef17bece83929aa91c523c68)
     * [How to write a holiday rom-com for TV, according to the experts](https://apnews.com/article/hallmark-christmas-movie-holiday-romcom-writing-d4451b1563a274f490d9505fa23afd27)
     
@@ -708,11 +708,11 @@ Submit Search
     
     TOP STORIES
     
-    * [Parlamento surcoreano vota a favor de abrir juicio político al presidente por decreto de ley marcial](https://apnews.com/article/asia-surcorea-ley-marcial-yoon-destitucion-141a7298d386158456ac29c6c11bc32d)
+    * [Parlamento surcoreano aprueba moción para juicio político al presidente por decreto de ley marcial](https://apnews.com/article/asia-surcorea-ley-marcial-yoon-destitucion-141a7298d386158456ac29c6c11bc32d)
+    * [Policía brasileña arresta a exmiembro del gobierno de Bolsonaro por presunto complot golpista](https://apnews.com/article/brasil-bolsonaro-golpe-de-estado-braga-netto-135b94deb1f7bc34f3335d7cd57fd4f8)
+    * [Opositores venezolanos asilados en embajada de Argentina urgen a Brasil a buscar su salida del país](https://apnews.com/article/venezuela-argentina-embajada-brasil-oposicion-229d228b6e928d26e863904cea14d798)
     * [Bolivia elige a jueces de altas cortes en las urnas en medio de polémica política y desconfianza](https://apnews.com/article/bolivia-elecciones-judiciales-11b359216ec6ca49408cc55b8bbcc20c)
-    * [Conversaciones de la ONU no logran acuerdo para hacer frente al creciente riesgo de sequía global](https://apnews.com/article/onu-sequia-desertificacion-clima-arabia-saudi-b49662dc029a23b88f7e2c2d6f6876f8)
-    * [Encuesta: Pocos estadounidenses tienen confianza en los seleccionados por Trump para su gabinete](https://apnews.com/article/eeuu-elecciones-trump-nuevo-gobierno-encuesta-fa5b30ade166aed70ff1f96abc2acc73)
-    * [Jóvenes activistas se enfrentan a una agencia gubernamental en una demanda climática en Florida](https://apnews.com/article/florida-clima-demanda-jovenes-activistas-fd8c127f0ef881a69b0ef06305d5ab0a)
+    * [¿Quién es el presidente surcoreano que se someterá a un juicio político tras decretar ley marcial?](https://apnews.com/article/surcorea-ley-marcial-presidente-juicio-politico-3f3a4017503218ca498a5a4eb45e75bb)
     
 * [Quizzes](https://apnews.com/quizzes)
     
