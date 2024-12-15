@@ -28,7 +28,7 @@ Produkt
 [English](https://www.heavenhr.com/web/EN/en/data-protection)
 
 Datenschutz ist unsere Priorität
---------------------------------
+================================
 
 Bei HeavenHR steht der Schutz Ihrer Daten an erster Stelle. Unsere Server befinden sich ausschließlich in Deutschland, was bedeutet, dass Ihre Informationen den strengen deutschen Datenschutzgesetzen unterliegen. Wir verwenden modernste Verschlüsselungstechnologien, um Ihre Daten sicher zu halten. Zudem verzichten wir auf unnötige Drittanbieter, um maximale Sicherheit zu gewährleisten. Durch die Einhaltung aller relevanten Datenschutzbestimmungen gemäß DSGVO bieten wir Ihnen eine vertrauenswürdige Plattform für Ihre Personalverwaltung.
 
