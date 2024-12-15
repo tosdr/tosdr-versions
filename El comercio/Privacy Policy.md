@@ -31,6 +31,818 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Una masiva caravana de Liga de Quito se dirige a la pileta de la Universidad Central
+====================================================================================
+
+Los hinchas de Liga de Quito empiezan a reunirse en la Universidad Central. El equipo se dirigirá desde el estadio de IDV hasta ese lugar.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-15-1.jpg)
+
+**Liga de Quito** se coronó **campeón** de la **Liga Pro 2024** y sus hinchas empezaron a recorrer las calles de la capital ecuatoriana para culminar sus festejos en la **pileta de la Universidad Central**, en el centro norte de Quito.
+
+Los **jugadores,** después de la **premiación**, también recorrerán por varias vías y pasarán por la **Central.**
+
+Los albos superaron al **Independiente del Valle** en el marcador global, para adueñarse del título este 14 de diciembre del 2024.
+
+### Más noticias:
+
+* [(En vivo) Independiente y Liga de Quito empatan 0-0 en la final](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "(En vivo) Independiente y Liga de Quito empatan 0-0 en la final")
+* [Hinchas de Independiente creen en la remontada ante Liga de Quito](https://www.elcomercio.com/deportes/hinchas-independiente-creen-remontada-liga.html "Hinchas de Independiente creen en la remontada ante Liga de Quito")
+* [Posibles alineaciones de Liga de Quito e Independiente del Valle para la final](https://www.elcomercio.com/deportes/futbol/alineaciones-final-vuelta-liga-quito-independiente.html "Posibles alineaciones de Liga de Quito e Independiente del Valle para la final")
+
+Liga de Quito campeón
+---------------------
+
+**Independiente** ganó 1-0 a **Liga**, pero eso no alcanzó.
+
+Al final, con un **marcador global de 3-1**, Liga de Quito alcanzó su título de campeón número 13 en los torneos nacionales que se disputan en Ecuador desde 1957.
+
+Este logro desató la alegría de **miles de hinchas** que celebran en varios lugares icónicos del país.
+
+En Quito, el punto de reunión principal será la pileta de la **Universidad Central del Ecuador**, ubicada en el centro norte de la capital ecuatoriana.
+
+Ese es el lugar en el que históricamente los hinchas albos celebran sus triunfos.
+
+Este 14 de diciembre **LDU** visitó al **IDV,** pero la ventaja alcanzada la semana pasada en el estadio Rodrigo Paz Delgado (3-0) fue suficiente para coronarse como bicampeones de la **Liga Pro**. Esto, porque en el 2023 también alzaron el título.
+
+Luego del triunfo, los hinchas de Liga se empezaron a dirigir hacia la **Universidad Central.**
+
+Así lo hicieron los que llegaron para apoyar al equipo en la cancha del IDV, como también quienes se reunieron en el estadio Rodrigo Paz Delgado para ver por la televisión la transmisión del partido.
+
+Además, muchos hinchas de manera individual también se dirigen hacia la pileta de la Central desde todos los puntos de Quito y sus alrededores.
+
+La caravana de Liga hacia la pileta
+-----------------------------------
+
+El equipo campeón de Liga de Quito se dirigirá a la Universidad Central, donde los esperarán sus eufóricos fanáticos.
+
+Saldrán desde el estadio de IDV, seguirán por la avenida General Rumiñahui, El Trébol, Coliseo General Rumiñahui y llegarán a la Universidad Central.
+
+Luego, los jugadores seguirán hasta la Plaza de las Américas y se finalizará en las Naciones Unidas, en el boulevard.
+
+> ¡ALIENTA AL BICAMPEÓN! 🙌🥹  
+>   
+> Nos vemos en un rato, liguistas de 🤍 [pic.twitter.com/IWeYujDEab](https://t.co/IWeYujDEab)
+> 
+> — LDU Oficial (@LDU\_Oficial) [December 14, 2024](https://twitter.com/LDU_Oficial/status/1868072028923703495?ref_src=twsrc%5Etfw)
+
+13 títulos de Liga de Quito
+---------------------------
+
+**LDU** alcanzó los 13 títulos de campeón en Ecuador. Iguala en esa cifra con **El Nacional** y estrecha la brecha con **Emelec** (14) y **Barcelona SC** (16).
+
+Luego, le siguen **Deportivo Quito** (5) y con un título Aucas, IDV, Delfín, Deportivo Cuenca, Olmedo y Everest.
+
+Sumados otros trofeos nacionales y los cinco títulos internacionales, Liga de Quito llegó a las 21 estrellas. Es el que más ganó en Ecuador.
+
+La Luna Fría brillará este diciembre y será visible desde Ecuador
+=================================================================
+
+La Luna Fría, última luna llena del año, será visible el 15 de diciembre.
+-------------------------------------------------------------------------
+
+![La Luna Fría: un fenómeno celestial (imagen referencial). Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/Luna-Fria.jpg)
+
+El 15 de diciembre de 2024, el **cielo nocturno de Ecuador** se engalanará con la **Luna Fría**, la **última luna llena del año**. Este **fenómeno astronómico**, que marca el **cierre del calendario lunar**, será visible desde todo el país, siempre que las condiciones meteorológicas lo permitan. La **Luna Fría** es un evento esperado por los **amantes de la astronomía** y la naturaleza, ya que ofrece una conexión especial con el cosmos. 
+
+### Más noticias
+
+* [Helicóptero de la NASA detectó fragmentos de una nave espacial](https://www.elcomercio.com/tecnologia/nasa-helicoptero-marte-nave-espacial.html "https://www.elcomercio.com/tecnologia/nasa-helicoptero-marte-nave-espacial.html") 
+* [Calendario de los eventos astronómicos más importantes de este 2024](https://www.elcomercio.com/tendencias/ciencia/astronomia-calendario-planetas-ecuador.html "https://www.elcomercio.com/tendencias/ciencia/astronomia-calendario-planetas-ecuador.html") 
+
+**Origen del nombre Luna Fría** 
+--------------------------------
+
+El término **Luna Fría** proviene de las tradiciones de las **culturas indígenas de América del Norte**. Este nombre hace referencia a la **llegada del invierno y a las bajas temperaturas** que lo acompañan. Las **comunidades ancestrales** asociaban esta luna llena con el **inicio de nevadas y heladas** en el hemisferio norte. Además, se vincula con **festividades de diciembre**, lo que marca un momento significativo en el ciclo anual, según [El Diario](https://eldiariony.com/2024/12/12/la-ultima-luna-llena-del-ano-todo-sobre-la-luna-fria-de-diciembre-2024/ "https://eldiariony.com/2024/12/12/la-ultima-luna-llena-del-ano-todo-sobre-la-luna-fria-de-diciembre-2024/") de Nueva York.  
+
+**Detalles astronómicos de este fenómeno** 
+-------------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDcb3c-qUXZ/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Observatorio Astronómico de Quito (@oaq\_ecuador)](https://www.instagram.com/p/DDcb3c-qUXZ/?utm_source=ig_embed&utm_campaign=loading)
+
+Datos interesantes para aprender más sobre astronomía, gracias a la información proporcionada por el Observatorio Astronómico de Quito. 
+
+**Fecha:** 15 de diciembre de 2024 
+
+**Hora:** Aproximadamente 02:30 (hora de Ecuador continental)   
+
+**Magnitud:** -12.39 
+
+**Distancia a la Tierra:** Aproximadamente 365 mil kilómetros 
+
+**Duración visible:** La Luna será visible desde el anochecer hasta bien entrada la madrugada 
+
+**Recomendaciones para observar la Luna Fría** 
+-----------------------------------------------
+
+Para disfrutar al máximo de este **evento astronómico**, se sugieren las siguientes recomendaciones: 
+
+* **Evitar la contaminación lumínica:** Busca lugares alejados de luces artificiales para apreciar mejor el cielo. 
+
+* **Usar instrumentos opcionales:** Aunque se puede observar a simple vista, utilizar prismáticos o telescopios puede revelar más detalles sobre la superficie lunar. 
+
+* **Verificar las condiciones climáticas:** Asegúrate de que el cielo esté despejado en tu ubicación para evitar que las nubes obstruyan la vista. 
+
+* **Elegir horarios adecuados:** Los momentos cercanos a la salida y puesta de la luna suelen ofrecer las mejores vistas debido al efecto óptico conocido como ilusión lunar. 
+
+Liga de Quito dedicó el título al fallecido Marco Angulo
+========================================================
+
+Marco Angulo fue contratado por Liga de Quito al inicio de la temporada 2024.
+-----------------------------------------------------------------------------
+
+![Camiseta con la imagen de Marco Angulo en la previa de la final de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_9.jpg)
+
+**Liga de Quito** se proclamó como el primer bicampeón de la Liga Pro la tarde de este sábado 14 de diciembre de 2024 en el estadio de Independiente del Valle, ubicado al sur oriente de la capital ecuatoriana.
+
+En la final de vuelta el partido entre **Independiente del Valle y Liga de Quito terminó 1-0**, pero el marcador global fue 3-1 por el resultado conseguido en el Rodrigo Paz Delgado, con goles del paraguayo Álex Arce (2) y el boliviano Gabriel Villamil.
+
+### Más noticias:
+
+* [¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?](https://www.elcomercio.com/deportes/liga-quito-jugadores-favoritos-vitamina-sanchez.html "¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?")
+* [Damián ‘Kitu’ Díaz sorprende a sus fanáticos en redes sociales](https://www.elcomercio.com/deportes/futbol/damian-kitu-diaz-sorprende-a-sus-fanaticos-en-redes-sociales.html "Damián ‘Kitu’ Díaz sorprende a sus fanáticos en redes sociales")
+* [Liga de Quito podría celebrar en emblemático lugar](https://www.elcomercio.com/deportes/futbol/liga-quito-pileta-universidad-central.html "Liga de Quito podría celebrar en emblemático lugar")
+
+La declaraciones de los bicampeones
+-----------------------------------
+
+Finalizado el partido se desató la locura de los hinchas en las gradas y de los jugadores en el terreno de juego. **Cantos y bengalas se encendieron para el festejo** que se extenderá hasta altas horas del día en Quito y en otros puntos del país.
+
+Todos los jugadores le dedicaron el título a **Marco Angulo, jugador fallecido la noche del lunes** 11 de noviembre, como consecuencia de un siniestro de tránsito registrado la madrugada del lunes 7 de octubre en la autopista que une las localidades de Quito con Sangolquí.
+
+Antes de la premiación a los campeones y vicecampeones, la Liga Pro le entregó la medalla como monarca de la Liga Pro a la familia de Angulo. La presea dorada fue colgada en el cuello del hijo del deportista que se formó y debutó en Independiente del Valle.
+
+“Contento. Le queríamos dedicar esto a Marco. **Esto va para él. Fue un año muy duro**, nos dolió mucho lo de Marco. El grupo se mantuvo unido y pudimos sacar adelante, son todos buenas personas. Que todos lo disfruten mucho”: Ezequiel Piovi.
+
+“Mucha emoción y tristeza por lo que ocurrió con Marco. **Este título se va para el cielo**, nos lo prometimos y lo cumplimos. El partido lo controlamos, manejamos los momentos y pudimos obtener el título”: Bryan Ramírez.
+
+“Como plantel y como grupo **hablamos para darle esta alegría a Marco**. Era un sueño de él y ahora se lo pudimos cumplir”: Ricardo Adé.
+
+“Este título es dedicado para Marco Angulo y toda su familia (…) Liga es **un club grande que te exige y estoy feliz de lograr** el primer título de mi carrera. Hoy puedo decir que soy un técnico campeón y en adelante puedo decir que conseguí algo en mi carrera”: Pablo ‘Vitamina’ Sánchez.
+
+“Un título muy importante para mí. Siempre quise jugar una final con Liga y estoy contento porque la gané. **Viví mi primera final con nervios, pero sacamos adelante el partido** y ahora vamos a festejar”: Daniel de la Cruz.
+
+“Un nuevo tatuaje viene en camino. **Buscaré donde ponerlo**, primero creo que será en en cuello o en otro lugar, pero me lo haré”: José Quintero.
+
+“Estoy muy contento y feliz. Va a quedar en la **historia este primer doblete de la Liga Pro** para Liga de Quito”: Leonel Quiñónez.
+
+“Es una alegría muy grande e histórico en el club. **Ahora hay que celebrarlo con la familia**, ellos se sienten orgullosos y están en los momentos difíciles. Es un orgullo compartirlo con mi hermano (Madison)”: Jhojan Julio en declaraciones para Zapping.
+
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_10-1024x683.jpg)
+
+API.
+
+San viernes
+-----------
+
+Lindsay Lohan reveló cuál es ‘la sustancia’
+===========================================
+
+La actriz habló de sus trucos para un rostro radiante.
+------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/lohan-El-Comercio.jpg)
+
+**Lindsay Lohan**, conocida por su papel icónico en ‘**Mean Girls**‘, ha sido objeto de admiración por su piel radiante a los 38 años.
+
+Según comentó en su Instagram el 9 de diciembre de 2024, su dermatóloga en Dubái, la Dra. Radmila Lukian, es una de las claves para mantener su juventud.
+
+Lohan compartió una _selfie_ desde la reconocida Clínica con un texto en el que afirmó que los tratamientos de Lukian forman parte esencial de su rutina. Lukian, descrita en su sitio web como “especialista en antienvejecimiento” con más de 20 años de experiencia, ha atendido a la actriz en múltiples ocasiones.
+
+“Es un placer cuidar la salud y la belleza de tu piel”, publicó la dermatóloga en Instagram en octubre, acompañando una foto con Lohan. La especialista atribuye los resultados al diseño de programas personalizados para cada paciente, asegurando que “se necesita tiempo, experiencia y conocimiento para obtener el resultado adecuado”.
+
+Tratamientos no invasivos: el enfoque de Lohan
+----------------------------------------------
+
+Aunque los rumores sobre cirugía plástica han circulado, Lohan ha sido clara en su preferencia por tratamientos no invasivos. En una entrevista con Cosmopolitan en 2022, declaró: “Me gustan mucho las experiencias faciales no intrusivas, como los láseres”. También reveló un consejo curioso para minimizar el dolor asociado a estos procedimientos: “Pide crema anestésica y aplícatela en casa una hora antes”.
+
+Más allá de la ciencia: ¿Magia o experiencia?
+---------------------------------------------
+
+Las redes sociales estallaron con preguntas tras las publicaciones de Lohan y Lukian. Ante una consulta sobre los procedimientos realizados, la dermatóloga respondió de manera enigmática: “Algún tipo de magia”, acompañando el comentario con un emoji guiñando el ojo. Esto, sumado a la imagen de perfección de Lohan, ha generado especulaciones sobre la influencia de tratamientos secretos.
+
+Antes de que Lohan hablara del tema, usuarios en redes sociales compartían teorías sobre el posible uso real de ‘La Sustancia’, el compuesto ficticio que rejuvenece a Demi Moore en la película _The Substance_.
+
+La aparición de estrellas como Lindsay Lohan y Christina Aguilera luciendo más jóvenes alimentó los rumores. Sin embargo, Lohan aclaró que su cambio se debe a tratamientos no invasivos y cuidados dermatológicos en la Clínica Lucía de Dubái. A pesar de las explicaciones, los usuarios siguen vinculando la trama de la cinta con la realidad.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDX2anOycdO/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de 👾 Nivel Gamer 🕹️ (@nivelgamer)](https://www.instagram.com/p/DDX2anOycdO/?utm_source=ig_embed&utm_campaign=loading)
+
+Un modelo a seguir en autocuidado
+---------------------------------
+
+La evolución de Lohan no solo refleja el impacto de la tecnología en la dermatología, sino también la importancia de un enfoque disciplinado en el cuidado personal. En un mundo donde la imagen pública cuenta, su compromiso con procedimientos naturales y personalizados la convierte en un referente para quienes buscan alternativas no invasivas para el rejuvenecimiento.
+
+Alexander Domínguez pide estatua junto a Rodrigo Paz
+====================================================
+
+Alexander Domínguez ganó la novena estrella con Liga de Quito. Cinco son internacionales.
+-----------------------------------------------------------------------------------------
+
+![Alexander Domínguez con el buzo de arquero de Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_7.jpg)
+
+**Alexander Domínguez** fue la máxima figura que tuvo Liga de Quito en la final de vuelta de la Liga Pro. Los ataques de Independiente del Valle terminaron en sus manos y ahogaron las opciones de gol de los locales.
+
+Durante los 90 minutos, **Alexander Domínguez se mostró seguro y manejó**, con su experiencia, las acciones de juego, y puso nerviosos a sus rivales con los segundos que le ganaba al tiempo al momento de tener el balón en su poder.
+
+### Más noticias:
+
+* [La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito](https://www.elcomercio.com/deportes/pablo-sanchez-tatuaje-vitamina-liga-quito.html "La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito")
+* [Pichincha ampliará su dominio sobre Guayas en campeonato nacional](https://www.elcomercio.com/deportes/futbol/pichincha-guayas-titulos-campeonato-naciona.html "Pichincha ampliará su dominio sobre Guayas en campeonato nacional")
+* [Brasilia postulada como sede de la final de la Libertadores 2025](https://www.elcomercio.com/deportes/futbol/brasil-brasilia-sede-final-libertadores.html "Brasilia postulada como sede de la final de la Libertadores 2025")
+
+La temporada de Domínguez
+-------------------------
+
+La vuelta fue ganada por Independiente por 1-0, pero el 3-1 en el marcador global proclamó a Liga como el primer bicampeón de la Liga Pro, **‘Dida’ alcanzó su cuarta corona nacional** y la novena en su etapa de jugador universitario que arrancó en el 2006.
+
+Para LDU es el tercer bicampeonato de su historia luego de los logrados en 1974 y 1975 con el colombiano Leonel Montoya como entrenador; y en 1998 con el brasileño Paulo Massa y en 1999 con el chileno Manuel Pellegrini.
+
+En la final salvó, al menos, tres remates que tenían destino de gol que salieron de los pies de Keny Arroyo y Renato Ibarra, los dos jugados más incisivos de los del Valle que sucumbieron ante la fortaleza del experimentado arquero.
+
+Domínguez solo se **perdió dos partidos en toda la temporada**. El primero fue en la octava fecha de la primera etapa en la victoria 2-1 ante Delfín. Esa jornada el encargado de cuidar el arco de los albos fue Gonzalo Valle.
+
+El segundo fue en la victoria 5-0 ante el Deportivo Cuenca en el cierre de la segunda etapa de la Liga Pro en un repleto estadio Rodrigo Paz Delgado, con lo que aseguraron su boleto a las finales.
+
+El esmeraldeño fue suspendido una jornada por la expulsión en la jornada precia ante la **Universidad Católica en el Olímpico Atahualpa**. Ese encuentro terminó en el arco el defensa central Richard Mina.
+
+En el resto de partidos jugó todos los minutos y lo hizo a un nivel espectacular. Transfermarkt registra que en los **30 compromiso que disputó solo recibió 29 goles**, sacó su arco invicto en 11 oportunidades y acumuló 2 655 minutos.
+
+LDU alcanzó la corona 13 del torneo nacional en su historia. Ahora comparte el tercer lugar con El Nacional, como los más ganadores del país. **Emelec se quedó con 14** y Barcelona Sporting Club es primero con 16.
+
+![Instagram del futbolista.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_8-1024x683.jpg)
+
+Instagram del futbolista.
+
+Domínguez pide estatua
+----------------------
+
+“Son nueve títulos con Liga y uno en Deportes Tolima (Colombia). Ojalá no salgan a matarme algunos exfutbolistas. Estoy contengo y orgulloso. Hay que disfrutar con la familia que son los únicos que están en los momentos difíciles”, mencionó el portero.
+
+“Voy a hablar con el doctor (Isaac Álvarez) **para que me hagan una estatua junto a la de don Rodrigo** (Paz). Nadie ha ganado más título que yo en este club”, aseguró en medio de los festejos por el nuevo título en su cuenta personal.
+
+“La pasé muy mal cuando me suspendió la **Conmebol y no puede estar ante Lanús en la Copa Sudamericana** y también cuando no me convocaron a la Selección de Ecuador, pero ahora es momento  
+de festejar”, reflexionó sobre el momento complicado de la temporada.
+
+Finalmente, sobre su futuro, no descartó la opción de abandonar el equipo para jugar en Perú en el Alianza Lima, aunque recordó que tiene contrato por dos años con los capitalinos en declaraciones brindadas a Zapping.
+
+San viernes
+-----------
+
+Las faldas midi vaqueras son los nuevos jeans
+=============================================
+
+¿Cómo usar tu falda midi todo el año en Quito?
+----------------------------------------------
+
+![Outfits con falda vaquera](https://www.elcomercio.com/wp-content/uploads/2024/12/falda-vaquera-midi-El-Comercio-5.jpg)
+
+Las **faldas midi vaquera**s son un básico que nunca pasan de moda. Su longitud por debajo de la rodilla la hace ideal para **climas** como el de **Quito**, donde el sol y la lluvia pueden alternar en un mismo día.
+
+Además, al estar hecha de denim, combina durabilidad con estilo, lo que la convierte en una pieza imprescindible. Según Harper’s Bazaar, las faldas midi son versátiles y se adaptan a _looks_ casuales y formales dependiendo de cómo se estilicen.
+
+Según Harper’s Bazaar, esta prenda ha ganado terreno en los últimos años como un must-have en los guardarropas modernos.
+
+### Más noticias
+
+* **[‘Jeans’ con ‘jeans’, la tendencia que facilita la elección de tus ‘outfits’ diarios](https://www.elcomercio.com/tendencias/total-look-denim-moda-quito-jeans.html "https://www.elcomercio.com/tendencias/total-look-denim-moda-quito-jeans.html")**
+* **[Jeans ‘a la carta’ para probar a diario en Quito](https://www.elcomercio.com/tendencias/tipos-jeans-quito-flare-skinny-cuffed.html)**
+
+En Ecuador, distintas tiendas de ropa ya la ofertan en diferentes tonalidades de azul _denim_. Desde versiones más claras que evocan un estilo _vintage_, hasta tonos oscuros para un _look_ más formal, las opciones son amplias.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/falda-vaquera-midi-El-Comercio-5-1024x683.jpg)
+
+Además, hay marcas que le han agregado detalles que la hacen única: flecos, brillos sutiles, bolsillos funcionales y aberturas estratégicas que le aportan un toque de modernidad y movimiento.
+
+**¿Por qué se llama falda “midi”?**
+-----------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/falda-vaquera-midi-El-Comercio-6-1024x683.jpg)
+
+El término “midi” hace referencia al largo característico de esta prenda, que se encuentra a medio camino entre una falda corta y una larga. Generalmente, su dobladillo termina justo por debajo de las rodillas o la mitad de las pantorrillas.
+
+Según Vogue, este largo se popularizó en la década de 1940, gracias a diseñadores como Christian Dior, quien lo incluyó en su famoso New Look.
+
+El concepto detrás del midi es su versatilidad: cubre lo suficiente para ser formal, pero deja entrever un poco de piel, lo que la hace favorecedora para todas las figuras. En 2024, esta falda es un ícono de estilo que se reinventa en tejidos como el _denim_ para un _look_ más contemporáneo.
+
+¿**Cómo llevar la falda midi vaquera en invierno**?
+---------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/falda-vaquera-midi-El-Comercio-1-1024x683.jpg)
+
+Para los días fríos, combina tu **falda midi vaquera con un suéter de punto grueso** y **botas altas**. Esta mezcla te mantendrá abierta sin perder estilo. Completa el _look_ con una bufanda y una **chaqueta _oversize_**, de preferencia de cuero o lana.
+
+_Vogue_ recomienda optar por tonalidades neutras en invierno para lograr un atuendo elegante y funcional. Si necesitas un toque extra de calor, las medias térmicas en colores oscuros son el complemento ideal.
+
+**Estilo veraniego con falda vaquera**
+--------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/falda-vaquera-midi-El-Comercio-2-1024x683.jpg)
+
+En verano, esta prenda se transforma en la estrella de un _look_ fresco y relajado. Un _crop top_ o una blusa ligera en tonos pastel son elecciones acertadas. Según Who What Wear, los tops sin hombros y camisetas ajustadas funcionan especialmente bien con la silueta de la falda midi. Las sandalias planas o plataformas son perfectas para un estilo casual, mientras que unas alpargatas pueden elevar el _outfit_ para ocasiones más formales.
+
+**Clásica y moderna**
+---------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/falda-vaquera-midi-El-Comercio-1-1-1024x683.jpg)
+
+La falda midi vaquera ha evolucionado desde sus raíces clásicas en la moda de los años setenta. En 2023, marcas como Levi’s y Zara han apostado por versiones con detalles modernos como cortes asimétricos, botones frontales o bordados, según Elle. Esta prenda puede ser tanto minimalista como llamativa, dependiendo de cómo se combine.
+
+**Una inversión en versatilidad**
+---------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/falda-vaquera-midi-El-Comercio-3-1024x683.jpg)
+
+Si bien la moda cambia constantemente, invertir en piezas clave como una falda midi vaquera asegura que tu guardarropa se mantenga relevante. Desde capas en invierno hasta telas ligeras en verano, esta prenda se adapta a cualquier estación y estilo personal. Como señala Marie Claire, es la definición de funcionalidad y estilo en una sola prenda.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/falda-vaquera-midi-El-Comercio-4-1024x683.jpg)
+
+Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro
+================================================================
+
+Hinchas de Liga de Quito llegaron al estadio Rodrigo Paz para alentar al 'Rey de copas' a la distancia. LDU ganó el campeonato.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Hinchas de Liga de Quito festejaron el título en el estadio Rodrigo Paz Delgado.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-14.jpg)
+
+**Liga de Quito** e **Independiente del Valle** se enfrentaron en la final de la Liga Pro 2024 y la afición alba no solo se hizo presente como visitante en el reducto de los rayados, sino en su casa. Los universitarios abrieron su estadio y sus hinchas pudieron presenciar el partido a la distancia.
+
+Este sábado 14 de diciembre del 2024, los albos jugaron en dos canchas a partir de las 15:00. La una fue la de Independiente del Valle y la otra el **Estadio Rodrigo Paz Delgado,** donde sus aficionados acudieron como si se tratase de un partido regular.
+
+### Más noticias:
+
+* [Liga de Quito se proclamó como Bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como Bicampeón de la Liga Pro")
+* [Hinchas de Independiente creen en la remontada ante Liga de Quito](https://www.elcomercio.com/deportes/hinchas-independiente-creen-remontada-liga.html "Hinchas de Independiente creen en la remontada ante Liga de Quito")
+* [Liga de Quito, a un paso de igualar a El Nacional en campeonatos ecuatorianos](https://www.elcomercio.com/deportes/liga-quito-titulos-el-nacional-barcelona-cantidad.html "Liga de Quito, a un paso de igualar a El Nacional en campeonatos ecuatorianos")
+
+Liga de Quito
+-------------
+
+Después de imponerse en la final de ida por un marcador de 3-0, la dirigencia azucena decidió que retransmitiría la final en su recinto. Para ello instaló pantallas gigantes en el centro de la cancha y posicionó a los aficionados en las tribunas para que presencien el partido.
+
+Desde las 13:45, el escenario deportivo abrió las puertas para que sus hinchas ingresen. Asimismo, estos se agolparon en los exteriores del Rodrigo Paz Delgado, independientemente de que poseen entrada o no.
+
+Fiebre por Liga de Quito en Ponceano
+------------------------------------
+
+Aunque no era día de partido en el **Rodrigo Paz Delgado**, las calles de los alrededores se pintaron de blanco. Cobijados en banderas, con la camiseta de **Liga de Quito** y en soledad o con amigos y familia, los hinchas albos se acercaban al estadio.
+
+El clima de ímpetu estaba impulsado por el resultado previo y la afición estaba convencida de que si su equipo no ganaba, por lo menos, sería campeón**. Hinchas** como Andrea Murillo se mostraron emocionados y con nerviosismo y señalaron que esperaban un nuevo título a los 12 ligueros con los que ya cuenta.
+
+Al interior del estadio, el escenario no fue demasiado distinto. Las barras de los hinchas de Liga de Quito eran la banda sonora del lugar y la constante durante el compromiso.
+
+Un estadio que vibró con el campeonato de Liga de Quito
+-------------------------------------------------------
+
+En el interior del Rodrigo Paz Delgado, los hinchas no dejaron de alentar y tuvieron un espectáculo complementario al partido. Antes de que se emita el cotejo, los hinchas albos contaron con un espectáculo musical y show artístico. Asimismo, ‘Cocodrigo’, mascota de los albos hizo su aparición.
+
+La efervescencia fue en aumento cuando, en las pantallas, se movió el balón. La primera jugada que por poco no terminó en gol, desató los gritos de los azucenas y marcó el ritmo de cómo vivirían el resto del compromiso.
+
+En función del histórico momento para Liga, inclusive, hubo aficionados que invadieron accesos no autorizados en el estadio. Pese a ello, estos fueron desalojados.
+
+A minutos de que acabe el cotejo y los albos se coronen campeones de la Liga Pro 2024, una bandera gigante saltó al terreno de juego. Una ilustración con la palabra “campeones”, la copa de la Liga Pro y el número 13 debido a la nueva estrella cerraron la jornada e inauguraron los momentos de máximo júbilo de los albos.
+
+Una vez que sonó el pitazo final, la euforia, los abrazos y la celebración en comunión de los hinchas primó. El show musical volvió para animar la fiesta y los aficionados se dispusieron a dirigirse hacia la Universidad Central, donde continuaría la fiesta.
+
+Liga de Quito se proclamó como bicampeón de la Liga Pro
+=======================================================
+
+Independiente del Valle fue campeón de la Liga Pro en 2021, mientras que Liga en 2023.
+--------------------------------------------------------------------------------------
+
+![Jugadores de Liga de Quito con el trofeo de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/trofeo_liga-1.jpg)
+
+**Liga de Quito** se proclamó como el primer bicampeón de la Liga Pro. Lo hizo la tarde de este sábado 14 de diciembre de 2024, en el estadio de Independiente del Valle.
+
+El marcador fue 1-0 en favor de **Liga de Quito con un gol del paraguayo Luis Zárate a los 90+6′** del segundo tiempo, pero el triunfo 3-0 de la ida de los albos les permitió asegurar la corona 13 del torneo nacional.
+
+### San viernes
+
+* [Liga de Quito e IDV, dos estilos de juego para un solo campeón](https://www.elcomercio.com/deportes/futbol/liga-de-quito-e-idv-dos-estilos-de-juego-para-un-solo-campeon.html "Liga de Quito e IDV, dos estilos de juego para un solo campeón")
+* [Moisés Caicedo estuvo cerca de ganar un prestigioso premio en Inglaterra](https://www.elcomercio.com/deportes/futbol/moises-caicedo-estuvo-cerca-de-ganar-prestigioso-premio-en-inglaterra.html "Moisés Caicedo estuvo cerca de ganar un prestigioso premio en Inglaterra")
+* [IDV necesita una gesta para arrebatarle el título a Liga de Quito](https://www.elcomercio.com/deportes/futbol/idv-necesita-una-gesta-para-arrebatarle-el-titulo-a-liga-de-quito.html "IDV necesita una gesta para arrebatarle el título a Liga de Quito")
+
+Independiente del Valle vs. Liga de Quito
+-----------------------------------------
+
+* Los equipos saltan a la cancha.
+* Un 70% del estadio está lleno con hinchas de Liga de Quito que se riegan por todas las localidades.
+* Antonio Valencia y Nicolás Lapentti llevaron el trofeo de la Liga Pro.
+* Kiara Rodríguez, doble medallista paralímpica de Ecuador en los París 2024, entregó la moneda del sorteo de los capitanes.
+* Daniel Pintado, medallista de oro y plata en París 2024, entrega el balón con el que se jugará la final.
+
+### Primer tiempo:
+
+1′: Arranca el partido entre Independiente del Valle y Liga de Quito.
+
+2′: Se salva Independiente. Gabriel Villamil no puede definir ante Guido Villar.
+
+4′: Segunda opción malograda por Liga. Álex Arce no pudo definir un pase de Villamil.
+
+7′: Primer acercamiento de Independiente. Un remate de Renato Ibarra es bloqueado por Ezequiel Piovi.
+
+10′: Segundo remate de Independiente. Keny Arroyo remató con pierda derecha, pero Alexander Domínguez lo controla.
+
+14′: Independiente domina el partido, pero no tiene la claridad necesaria para abrir el marcador.
+
+17′: Se salva IDV: Jhojan Julio no pudo definir solo frente a Villar. El esférico impactó en una de la pierna derecha del arquero argentino.
+
+20′: Remate de Renato Ibarra que Domínguez lo desvía al tiro de esquina.
+
+27′: Un centro de Arroyo no llegó a Medina y tampoco Cristian Zabala pudo definir.
+
+30′: Domínguez poco a poco maneja el partido y se muestra seguro en todas las acciones que interviene.
+
+35′: Tarjeta amarilla para Mateo Carabajal (IDV) y Gabriel Villamil (LDU).
+
+37′: Tarjeta amarilla para Leonel Quiñónez (LDU).
+
+38′: Arce se pierde el gol frente a Villar. El pase fue de Piovi desde su propia cancha.
+
+40′: Zabala saca un remate desde el área grande, pero se va por sobre el arco de Domínguez.
+
+41′: Tarjeta amarilla para Renato Ibarra.
+
+45′: Se añaden cinco minutos.
+
+45+1′: Tarjetas amarillas para Ricardo Adé y Daniel de la Cruz (LDU).
+
+45+3′: Se salva Liga. Un tiro libre de Ibarra es salvado en extremo por Domínguez.
+
+45+5′: Final del PT. IDV y LDU empatan 0-0.
+
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_5-1024x683.jpg)
+
+### Segundo tiempo:
+
+45′: Arranca el ST. En LDU ingresa José Quinteros por de la Cruz.
+
+46′: Tarjeta amarilla para Quintero (LDU).
+
+50′: IDV sigue con el control del balón, pero no es claro a la hora de atacar.
+
+54′: Por primera vez se desprende por la zona izquierda Bryan Ramírez, la revelación de la Liga Pro.
+
+55′: Cambio en Liga: Sale Villamil para que ingrese Madison Julio.
+
+58′: Tiro libre de Arroyo que cae en las manos de Domínguez.
+
+59′: Carabajal salva un ataque en profundidad de LDU por intermedio de Arce.
+
+60′: Cambio en IDV: Sale Ibarra e ingresa Michael Hoyos.
+
+63′: Alexander Domínguez vuelve a salvar a LDU.
+
+64′: Cambio en IDV: Ingresa Luis Zabala en lugar de Carabajal.
+
+71′: Cambios en LDU: Ingresan Lisandro Alzugaray y Gian Franco Allala por Leonel Quiñónez y Jhojan Julio.
+
+74′: Cambios en IDV: Ingresan Bryan García y Anthony Landázuri en lugar de Zabala y Fernández.
+
+80′: Cambio en LDU: Sale Álex Arce y en su lugar ingresó Michael Estrada. El paraguayo fue amonestado con tarjeta amarilla y la hinchada lo despide con una sonora ovación.
+
+82′: Tarjeta amarilla para Beder Caicedo (IDV).
+
+88′: Se detiene el partido por parte de Guillermo Guerrero. Las bengalas encendidas provocaron una gran cantidad de humo.
+
+90′: Se reanuda el compromiso.
+
+90′: Se añaden 90 minutos más al tiempo reglamentario.
+
+96′: Goooooooooooool de IDV. Zabala por el 1-0 y el marcador global ahora es 1-3 en favor de LDU.
+
+90+9′: Finaliza el partido. Liga de Quito es el primer bicampeón de la Liga Pro.
+
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_12-1024x683.jpg)
+
+API.
+
+Independiente y Liga confirman alineaciones
+-------------------------------------------
+
+Javier Gandolfi armó un equipo ofensivo para la final de vuelta de la Liga Pro. La principal novedad en el XI inicial es la inclusión del **mediocampista ecuatoriano Kendry Páez**, que seguramente jugará la última final de la Liga Pro en esta primera etapa con IDV.
+
+Páez fue titular por última vez en la fecha 13 ante la misma LDU. Fue en la derrota 2-1 en la fecha 13 de la segunda etapa. Jugó los 90 minutos y recibió una tarjeta amarilla al cierre del juego.
+
+En la final de ida arrancó en el **banco de suplentes**. Ingresó a los 62 minutos en lugar de Joao Ortiz.
+
+En la vuelta ocupará el lugar de Yaimar Medina, que en esta temporada se consolidó con un gran rendimiento que lo llevó a debutar en la **Selección de Ecuador en las eliminatorias** al Mundial 2026.
+
+Pablo ‘Vitamina’ Sánchez no hará cambios con relación al equipo estelar que jugó en la ida. **Álex Arce comanda la línea de ataque** y estará secundado por Jhojan Julio y Bryan Ramírez, la revelación de la plantilla.
+
+Alineación Independiente
+------------------------
+
+Guido Villar; Matías Fernández, Matero Carabajal, Richard Schunke y Beder Caicedo; Joao Ortiz, Cristian Zabala, Kendry Páez, Renato Ibarra y Keny Arroyo; Jeison Medina.
+
+Alineación Liga de Quito
+------------------------
+
+Alexander Domínguez; Daniel de la Cruz, Ricardo Adé, Richard Mina y Leonel Quiñónez; Ezequiel Piovi, Gabriel Villamil y Fernando Cornejo; Bryan Ramírez, Jhojan Julio y Álex Arce.
+
+![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_6-1024x683.jpg)
+
+API.
+
+San viernes
+-----------
+
+Violento asalto a pasajeros en bus que iba a Pifo quedó registrado en video
+===========================================================================
+
+En la noche del 13 de diciembre, se viralizó el video de un asalto en un bus rumbo a Pifo. Según la Policía, la fecha pudo alterarse.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Imágenes del supuesto asalto en el bus que se dirigía a Pifo.](https://www.elcomercio.com/wp-content/uploads/2024/12/asalto-pifo.jpg)
+
+Un **video** captado por la **cámara** de **vigilancia** de un **bus interparroquial** revela el **violento asalto** perpetrado por **cuatro sujetos** contra los pasajeros la noche del **13 de diciembre de 2024.** El hecho ocurrió en una unidad que se dirigía a **Pifo**, según información difundida en redes sociales.
+
+### Más noticias
+
+* [Bloque de Seguridad asegura que hay una reducción del 17% de crímenes en Ecuador](https://www.elcomercio.com/actualidad/seguridad/bloque-de-seguridad-asegura-reduccion-de-crimenes-ecuador.html "Bloque de Seguridad asegura que hay una reducción del 17% de crímenes en Ecuador")
+* [Militar va a juicio por su presunta extralimitación durante un control de seguridad en Quevedo](https://www.elcomercio.com/actualidad/ecuador/militar-juicio-quevedo-extralimitacion-control.html "Militar va a juicio por su presunta extralimitación durante un control de seguridad en Quevedo")
+* [Policía reclutaba menores de edad y los preparaba para sicarios en Manabí](https://www.elcomercio.com/actualidad/seguridad/policia-reclutaba-menores-edad-sicarios-manabi.html "Policía reclutaba menores de edad y los preparaba para sicarios en Manabí")
+
+El video del asalto
+-------------------
+
+La grabación, que dura aproximadamente **1 minuto y 39 segundos**, muestra cómo **tres hombres y una mujer** amenazan y someten a los pasajeros para despojarlos de sus pertenencias. Las imágenes captan el **inicio del violento asalto** cuando uno de los sujetos golpea al controlador del bus. Esto da paso a la intervención de los demás delincuentes, quienes **armados** con **cuchillos** y un **arma de fuego** intimidan a las víctimas.
+
+En medio del **caos**, se escucha a uno de los asaltantes decir a una de las víctimas: “80 dólares nomás… Ya”, mientras la mujer involucrada **golpea a un pasajero**, se cubre el rostro con una mascarilla y acumula las pertenencias robadas.
+
+Incertidumbre sobre la ubicación del asalto
+-------------------------------------------
+
+Aunque el incidente fue reportado en redes sociales, hasta el momento la **Policía Nacional** no ha confirmado la información ni la ubicación exacta del suceso. Según declaraciones de las autoridades a **EL COMERCIO**, **existe la posibilidad de que la fecha registrada en el video esté alterada**, lo que genera dudas sobre el lugar y momento preciso del asalto.
+
+La **Policía Nacional** informó que el **domingo 15 de diciembre de 2024,** al mediodía, se ofrecerá una rueda de prensa para esclarecer los hechos. La vocería estará a cargo del **jefe del Distrito Tumbaco,** quien proporcionará detalles sobre las investigaciones en curso[.](https://es.wikipedia.org/wiki/Tumbaco "https://es.wikipedia.org/wiki/Tumbaco")
+
+Acción de los asaltantes
+------------------------
+
+El **violento atraco** duró apenas unos minutos, tiempo suficiente para que los delincuentes despojaran a los pasajeros de celulares, dinero y mochilas. Al finalizar el asalto, los tres hombres **huyeron** por la puerta delantera del bus, mientras que la mujer timbró para que el conductor abriera la puerta trasera.
+
+Este hecho ha generado **alarma** en la comunidad, destacando una vez más la **inseguridad** que afecta a los usuarios del **transporte** público en Ecuador. Las autoridades continúan investigando para identificar y capturar a los responsables.
+
+¿Cuál fruta ayuda para eliminar las heces acumuladas? Las 6 opciones que tiene
+==============================================================================
+
+Estos alimentos benefician al cuerpo para poder ir al baño regularmente.
+------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/fruta-El-Comercio.jpg)
+
+No **poder ir al baño puede ser un problema para muchas personas**, ya que pueden tener complicaciones de estreñimiento u otras inhibiciones. Por ello, expertos compartes consejos para ayudar a las personas con este problema. En este caso, **se trata de frutas que son ideales para eliminar las heces acumuladas**.
+
+  
+La clave **es alimentarse bien, tener una dieta equilibrada** y para ello, se debe consumir suficiente fibra y tomar mucho líquido, de acuerdo con _Medline Plus_ y los _Institutos Nacionales de Salud_ (NIH, por sus siglas en inglés)**.** Estas son las **6 frutas ideales para eliminar las heces acumuladas**:
+
+**Higos**: frescos o secos, los higos son una excelente fuente de fibra y tienen propiedades que estimulan el sistema digestivo.
+
+**Ciruelas**: frescas o en su versión seca (ciruelas pasas) son conocidas por su efecto laxante natural. Contienen sorbitol, un azúcar que facilita el tránsito intestinal.
+
+**Papaya**: rica en papaína, una enzima que favorece la digestión y alivia el estreñimiento. Además, su alto contenido de agua y fibra la hace ideal para limpiar el colon.
+
+**Kiwi**: posee un alto contenido de fibra soluble e insoluble, así como actínida, una enzima que mejora la digestión.
+
+**Manzana**: cuando se consume con cáscara, la manzana aporta pectina, una fibra soluble que suaviza las heces y mejora el tránsito intestinal.
+
+**Pera**: al igual que la manzana, es rica en pectina y contiene mucha agua, lo que facilita el movimiento intestinal.
+
+Los trucos que le ayudarán a ir al baño
+---------------------------------------
+
+Si luego de consumir estas frutas, **su problema de estreñimiento continúa, deberá probar otros métodos.** El médico Karan Rangarajan, conocido como Dr. Karan Rajan en TikTok, brindó **algunos consejos para poder ir al baño sin problemas.**
+
+Según el especialista, se trata de un fácil ejercicio de respiración que consiste en **exhalar con fuerza mientras se cierra la boca y la nariz**. Rangarajan tambén dijo que fingir que **sopla burbujas o apagar una vela o hacer un mugido** alargado que suene como una “vaca cachonda” debería funcionar.
+
+Paquita la del Barrio alarma a sus fans por su estado de salud
+==============================================================
+
+Paquita la del Barrio, en el centro de rumores de salud
+-------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/PAQUITA-El-Comercio.jpg)
+
+El 13 de diciembre de 2024, rumores sobre una posible hospitalización de Paquita la del Barrio alarmaron a sus seguidores.
+
+Según el medio de espectáculos _@chamonic3_, la cantante había sido ingresada al Hospital Ángeles en Xalapa, Veracruz, e incluso intubada debido a un estado delicado.
+
+Esto generó preocupación inmediata, dado que la salud de la intérprete de “Rata de dos patas” ha sido tema constante en los últimos años.
+
+Sin embargo, estas afirmaciones fueron desmentidas rápidamente. El periodista Carlo Uriel, colaborador de _Flor Rubio_, aseguró que Paquita no estaba hospitalizada y solo había acudido a un chequeo médico de rutina.
+
+**La verdad detrás del chequeo médico de Paquita**
+--------------------------------------------------
+
+En un comunicado oficial, el equipo de la cantante explicó que aprovechó su estancia en Veracruz para una consulta médica debido a malestares estomacales persistentes.
+
+Describieron los rumores como “muy desagradables” y confirmaron que Paquita está en condiciones de cumplir con su agenda, incluyendo su presentación en la Feria de Villa de Reyes en San Luis Potosí este fin de semana.
+
+Actualmente, Paquita la del Barrio se encuentra estable y en buen estado de salud, según lo informado por sus representantes. Este desenlace tranquiliza a sus fans, quienes en redes sociales expresaron su apoyo y buenos deseos.
+
+**Retiro de los escenarios: foco de especulaciones**
+----------------------------------------------------
+
+El reciente anuncio de Paquita sobre su retiro de los palenques para enfocarse en su calidad de vida ha intensificado el interés por su estado de salud. Sin embargo, este retiro no implica una pausa total en su carrera, como lo demuestra su participación en eventos programados.
+
+A sus 76 años, Francisca Viveros Barradas, nombre real de Paquita la del Barrio, continúa siendo una figura icónica de la música mexicana, enfrentando rumores con firmeza. Su equipo insta a los fans a no caer en información falsa y a confiar en los canales oficiales.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDIrir3uplo/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Paquita La del Barrio (@paquitaoficialb)](https://www.instagram.com/reel/DDIrir3uplo/?utm_source=ig_embed&utm_campaign=loading)
+
+Sucoreanos celebran con K-pop la destitución de Yoon Suk-yeol
+=============================================================
+
+La Asamblea destituyó a Yoon Suk-yeol y los surcoreanos festejaron así
+----------------------------------------------------------------------
+
+![Los manifestantes celebran tras la aprobación de una moción de juicio político contra el presidente Yoon Suk Yeol.](https://www.elcomercio.com/wp-content/uploads/2024/12/658f3893418a7ca7fd552e81d572f45c94f6a153.jpg)
+
+El sábado 14 de diciembre de 2024, la Asamblea Nacional de Corea del Sur aprobó la destitución del presidente Yoon Suk-yeol con 204 votos a favor y 85 en contra. El hecho provocó celebraciones masivas en Seúl y otras ciudades.
+
+Según la Policía, unas 208 000 personas se reunieron frente al Parlamento, mientras los organizadores afirman que participaron hasta dos millones. Este evento marca un punto crítico en la historia reciente del país.
+
+Los ciudadanos desafiaron temperaturas bajo cero para expresar su alegría. Las calles se llenaron de cánticos y luces, recordando **conciertos de K-pop**.
+
+Canciones como Into the New World del grupo Girls’ Generation se convirtieron en himnos de la protesta. Kim Gon-tae, manifestante de 48 años, expresó: “Hace una semana no logramos esto, pero hoy hemos ganado”, señala Yonhap News.
+
+**Razones detrás de la destitución presidencial**
+-------------------------------------------------
+
+Yoon Suk-yeol fue destituido tras declarar la ley marcial el pasado 3 de diciembre. Argumentó que esta medida era necesaria para “proteger la democracia” ante supuestos actos “antiestatales” de la oposición.
+
+Sin embargo, esto provocó indignación nacional y aceleró su salida del poder. El primer ministro Han Duck-soo asumirá el cargo interinamente mientras el Tribunal Constitucional evalúa el caso en los próximos 180 días, dice la BBC.
+
+**El futuro político de Corea del Sur**
+---------------------------------------
+
+La destitución definitiva de Yoon dependerá de un fallo del Tribunal Constitucional. Actualmente, la corte opera con seis magistrados, quienes deben emitir un fallo unánime para ratificar su salida.
+
+Si se nombran tres jueces adicionales, seis de los nueve deberán votar a favor para cesar definitivamente al mandatario, explica The Korea Herald.
+
+**Impacto cultural de las protestas pacíficas**
+-----------------------------------------------
+
+Estas manifestaciones han resaltado la unidad de los surcoreanos y su determinación por proteger la democracia. El uso de elementos culturales, como canciones de K-pop, refleja una movilización moderna y simbólica.
+
+  
+
+Isak Andic, fundador de las tiendas de moda Mango, murió
+========================================================
+
+Quién era Isak Andic y su legado empresarial
+--------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/mango-El-Comercio.jpg)
+
+El empresario **Isak Andic**, **fundador de Mango**, falleció el sábado 14 de diciembre de 2024 a los 71 años mientras realizaba montañismo en las cuevas de Montserrat, en Collbató, Cataluña.
+
+Según información confirmada por Mango y medios como _El Mundo_ y _El País_, Andic sufrió una caída de más de 150 metros mientras estaba acompañado por su familia.
+
+Las unidades de rescate no pudieron salvar su vida.
+
+Andic nació en Estambul, Turquía, en 1953 y emigró con su familia a Barcelona en la década de los sesenta. Su espíritu emprendedor lo llevó a fundar Mango en 1984.
+
+La marca, que comenzó con una pequeña tienda en Paseo de Gracia, se expandió hasta convertirse en un gigante global de la moda, con 2.700 tiendas en 115 países, incluida Ecuador, donde su presencia destaca entre los grandes nombres del _retail_.
+
+**El impacto de Mango en la moda internacional**
+------------------------------------------------
+
+Bajo el liderazgo de Andic, Mango se consolidó como una de las principales marcas españolas, con una facturación récord de 3.100 millones de euros en 2023, dice _El Debate_. Su estrategia de expansión incluyó tanto puntos de venta físicos como un enfoque en comercio electrónico.
+
+En Ecuador, Mango es sinónimo de moda desde hace más de 20 años, ha atraído a clientes locales a través de sus tiendas en centros comerciales.
+
+**La reacción de Mango ante la pérdida**
+----------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDkZBDgowaE/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de MANGO (@mango)](https://www.instagram.com/p/DDkZBDgowaE/?utm_source=ig_embed&utm_campaign=loading)
+
+El CEO de Mango, Toni Ruiz, emitió un comunicado destacando el liderazgo y legado humano de Andic: “De nosotros depende que Mango siga siendo el proyecto al que Isak aspiraba”. La empresa continúa liderando el sector, honrando la visión de su fundador en sus operaciones actuales, dice _La Vanguardia_.
+
+Cruce de acusaciones entre Aquiles Álvarez e Inés Manzano por río Daule
+=======================================================================
+
+Municipio y Ministerio enfrentados por presunta contaminación ambiental.
+------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/daule-El-Comercio.jpg)
+
+El **río Daule** se ha convertido en el centro de una controversia que enfrenta al **alcalde de Guayaquil, Aquiles Álvarez, y a la ministra de Ambiente, Inés Manzano**.
+
+Según el Ministerio de Ambiente, la Agencia de Regulación y Control del Agua (ARCA) ha iniciado un proceso sancionador contra el Municipio, EMAPAG e Interagua debido a niveles alarmantes de coliformes fecales y otras sustancias en el río.
+
+Las plantas de tratamiento Guayacanes-Samanes y Sauces-Alborada son señaladas como responsables de descargas que exceden los límites legales, una infracción catalogada como “muy grave”.
+
+En un comunicado oficial, la ARCA enfatizó su compromiso con la regulación hídrica y el cumplimiento de la normativa ambiental para proteger el agua potable de Guayaquil.
+
+Álvarez acusa persecución política
+----------------------------------
+
+El alcalde Aquiles Álvarez respondió a través de sus redes sociales y calificó las acciones del Ministerio como parte de un “plan de persecución política” en su contra. Señaló que estas denuncias buscan desviar la atención de problemas nacionales como la crisis energética vinculada a Progen.
+
+En su mensaje, acusó a Manzano de actuar con prepotencia y amenazas, además de cuestionar el interés genuino de la ministra en los temas ambientales.
+
+Álvarez también recordó un supuesto conflicto de interés de Manzano relacionado con su pasado como consultora en temas ambientales. Sugirió que su actual postura podría tener motivaciones personales o políticas.
+
+Manzano defiende su postura y apunta al Municipio
+-------------------------------------------------
+
+Inés Manzano, por su parte, rechazó las acusaciones y sostuvo que el problema de contaminación en el río Daule es real y grave. En declaraciones en redes sociales, afirmó que el equipo municipal es “mediocre” y que su falta de acción ha agravado la crisis ambiental.
+
+Manzano también defendió las inspecciones realizadas. Insistió en que su prioridad es proteger a la ciudadanía de las consecuencias de una gestión ambiental deficiente.
+
+Este enfrentamiento subraya las tensiones entre el Gobierno nacional y el Municipio de Guayaquil, en un contexto en el que las crisis ambientales se mezclan con intereses políticos y posibles conflictos de interés.
+
+Hinchas de Independiente creen en la remontada ante Liga de Quito
+=================================================================
+
+Independiente del Valle no es el favorito para ganar la Liga Pro 2024, pero su hinchada mantiene viva la esperanza.
+-------------------------------------------------------------------------------------------------------------------
+
+![Hincha de Independiente del Valle en la previa de la final de vuelta de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_2.jpg)
+
+**Independiente del Valle** sufrió una dura derrota por 3-0 en la final de ida de la Liga Pro 2024 ante Liga de Quito el pasado 7 de diciembre, en el **Estadio Rodrigo Paz Delgado**. A pesar de las adversidades, la hinchada sigue creyendo en una posible remontada.
+
+La **presión recae sobre los rayados**, que deberán salir con todo desde el inicio para intimidar a los albos en la final de vuelta. El partido se jugará este sábado 14 de diciembre, a las 15:30 en el Estadio de Independiente del Valle, ubicado en el sector de Chillo Jijón, en el Valle de los Chillos.
+
+### Más noticias:
+
+* [Posibles alineaciones de Liga de Quito e Independiente del Valle para la final](https://www.elcomercio.com/deportes/futbol/alineaciones-final-vuelta-liga-quito-independiente.html "Posibles alineaciones de Liga de Quito e Independiente del Valle para la final")
+* [¿A qué hora juegan la final de vuelta Independiente y Liga de Quito?](https://www.elcomercio.com/deportes/hora-final-vuelta-independiente-liga-quito.html "¿A qué hora juegan la final de vuelta Independiente y Liga de Quito?")
+* [¿Cuándo juega Liga de Quito con IDV en la final de vuelta?](https://www.elcomercio.com/deportes/futbol/cuando-juega-liga-quito-idv-final-campeon.html "¿Cuándo juega Liga de Quito con IDV en la final de vuelta?")
+
+La afición de IDV se ilusiona con la remontada
+----------------------------------------------
+
+En la previa del partido, los exteriores del estadio se llenaron de **hinchas de Independiente del Valle**. Aunque la remontada parece una tarea difícil, muchos creen que todo es posible y mantienen la esperanza de lograr su segunda estrella nacional.
+
+“Con cómo ha sido la campaña de IDV esta temporada, **elijo creer.** No me hago muchas ilusiones, pero confío en que será un gran partido. Quiero que marquemos primero para ilusionarnos”, comentó Adrián, uno de los aficionados rayados.
+
+Andrés, otro hincha, señaló que, aunque la situación es complicada, la ilusión es lo último que se pierde y espera un **buen resultado para IDV**.
+
+Una aficionada, más optimista, **se atrevió a predecir un 4-0 a favor de su equipo**, destacando a Jeison Medina como la gran figura de la remontada.
+
+![Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/12/final_pro_3-1024x683.jpg)
+
+Facebook del club.
+
+Un reto sin precedentes
+-----------------------
+
+Para levantar el título, **Independiente del Valle** no solo debe superar a un rival sólido como Liga de Quito, sino también romper con la historia. Según datos de Aurelio Dávila, en tres finales del fútbol ecuatoriano hubo un marcador de 3-0 en alguno de los partidos, y en todas, el equipo que logró esa ventaja terminó coronándose campeón.
+
+De estas finales, solo una registró el 3-0 en el partido de ida:
+
+**1988**: Emelec goleó 3-0 a Deportivo Quito en la ida y empató 1-1 en la vuelta para ser campeón.
+
+**2005**: Liga de Quito perdió 1-0 la ida contra Barcelona SC, pero ganó 3-0 en la vuelta y se llevó el Apertura.
+
+**2014**: Emelec empató 1-1 en la ida contra Barcelona SC y ganó 3-0 en la vuelta para llevarse el título.
+
+Romper esta tendencia será clave para que Independiente pueda escribir una nueva página en la historia del fútbol nacional.
+
+San viernes
+-----------
+
+Cómo usan los jóvenes ecuatorianos las tarjetas de crédito
+==========================================================
+
+Un estudio revela que más de 500 mil jóvenes ecuatorianos, entre 22 y 32 años, gestionan sus finanzas con tarjetas de crédito.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Los jóvenes optan por diferir sus compras en plazos menores a 12 meses.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-44-1.jpg)
+
+Más de **500 000 jóvenes ecuatorianos**, entre 22 y 32 años, cuentan con tarjetas de crédito activas. Este grupo demográfico utiliza esta herramienta financiera principalmente para **pagos diferidos**, marcando un cambio en el **consumo del país**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [La morosidad en las cooperativas pequeñas de Ecuador supera el 10%](https://www.elcomercio.com/actualidad/negocios/morosidad-cooperativas-pequenas-supera.html "La morosidad en las cooperativas pequeñas de Ecuador supera el 10%")
+* [Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz](https://www.elcomercio.com/actualidad/negocios/deudores-ecuador-podran-refinanciar-diferir-pagos-creditos.html "Deudores en Ecuador ya pueden refinanciar y diferir créditos por cortes de luz")
+* [La morosidad sigue en aumento en Ecuador debido al desempleo y la crisis económica](https://www.elcomercio.com/actualidad/negocios/la-morosidad-sigue-en-aumento-en-ecuador-debido-al-desempleo-y-la-crisis-economica.html "La morosidad sigue en aumento en Ecuador debido al desempleo y la crisis económica")
+
+El 57% de los jóvenes prefiere diferir sus compras a **plazos menores a 12 meses**, con mayor incidencia entre mujeres casadas (59%).
+
+Por otro lado, los hombres jóvenes manejan mayores volúmenes de crédito, acumulando un saldo total de 680 millones de dólares, frente a los 510 millones de dólares registrados por las mujeres. Así lo señala el último estudio de Equifax: ‘Tarjetas de Crédito, el inicio de la historia financiera de los jóvenes 2024’.
+
+El análisis también destaca cómo los **cupos de crédito** evolucionan con la experiencia financiera. Al ingresar al sistema, un joven de 22 años tiene un cupo promedio de 500 dólares, que puede alcanzar los 2 500 dólares a los 32 años. Este modelo muestra la importancia de construir un historial crediticio sólido desde el inicio.
+
+Educación financiera para los jóvenes de Ecuador
+------------------------------------------------
+
+**David Castellanos**, docente de la **Universidad Andina Simón Bolívar**, resalta la importancia del comportamiento de los jóvenes. “El crédito diferido predomina en este segmento, lo que refleja la tendencia de los jóvenes a planificar mejor sus pagos”. Castellanos subraya que esta dinámica recalca la necesidad de una **educación financiera** adecuada para quienes comienzan su **vida financiera**.
+
+Según el **Banco Central del Ecuador** (BCE), el 96% de la población ecuatoriana no ha recibido educación financiera. Es decir, nueve de cada 10 personas en el país jamás recibieron capacitación sobre finanzas.
+
+La falta de conocimiento sobre el manejo de las finanzas personales se da en el país a pesar de que desde el 2013, la Superintendencia de Bancos establece que todas las instituciones controladas por el ente deben desarrollar programas de educación financiera para sus clientes, colaboradores y público en general.
+
 Navidad en Ecuador, tradiciones, eventos y gastronomía que impulsan el turismo local
 ====================================================================================
 
@@ -302,748 +1114,3 @@ Ese será el último compromiso del año. La **Bundesliga se reanudará el 10 de
 
 San viernes
 -----------
-
-Crisis cafetera: emergencia climática y costos elevan los precios
-=================================================================
-
-La emergencia climática intensifica los desafíos para los principales países productores de café.
--------------------------------------------------------------------------------------------------
-
-![Fotografía de archivo de una taza y granos de café arábica, en Río de Janeiro (Brasil).](https://www.elcomercio.com/wp-content/uploads/2024/12/cafe-brasil-efe.jpg)
-
-La **crisis climática** y los **costos crecientes** están marcando la producción de **café en América.** Mientras **Colombia aumenta su producción, países como Perú, Costa Rica y Honduras** enfrentan desafíos por climas extremos, altos costos y mercados volátiles. Aunque los **precios internacionales** subieron, los **pequeños productores** luchan por obtener beneficios justos.
-
-### Más noticias
-
-* [Vera, una cafetera ultramoderna que también decora](https://www.elcomercio.com/tendencias/construir/vera-cafetera-ultramoderna-decoracion-lujo.html "https://www.elcomercio.com/tendencias/construir/vera-cafetera-ultramoderna-decoracion-lujo.html")
-* L[a exportación de café ecuatoriano de especialidad crece](https://www.elcomercio.com/actualidad/negocios/exportacion-cafe-ecuatoriano-especialidad-crecio.html "https://www.elcomercio.com/actualidad/negocios/exportacion-cafe-ecuatoriano-especialidad-crecio.html")
-* [El café y sus secretos revelados junto a curiosidades sorprendentes](https://www.elcomercio.com/tendencias/gastronomia/cafe-curiosidades-salud-efemeride.html "https://www.elcomercio.com/tendencias/gastronomia/cafe-curiosidades-salud-efemeride.html") 
-
-En 2024, los precios del café **alcanzaron máximos históricos**, impulsados por **factores climáticos extremos** que afectan a los **principales países productores.** Este panorama reconfigura la **economía cafetera global**. Beneficia a algunos actores **mientras desafía a otros**. Con un incremento del 70 % en los precios del café arábica, la situación pone en jaque tanto a productores como a consumidores.
-
-La emergencia climática intensifica los **desafíos para los principales países productores de café.** Si bien algunos lograron **aprovechar el auge de precios,** otros enfrentan **dificultades estructurales y climáticas** que amenazan la estabilidad del mercado. Con este panorama, la sostenibilidad y la innovación se convierten en claves para el futuro de la caficultura global.
-
-El aumento de los precios del café son consecuencia principalmente de las **sequías en Vietnam e Indonesia,** así como de las heladas que afectaron a Brasil en 2021 y 2022 y que afectaron a un 35 % de la cosecha de café arábica del país suramericano.
-
-Brasil: el gigante den dificultades
------------------------------------
-
-Brasil, el **mayor productor mundial de café**, enfrenta un panorama incierto. Tras recuperar su producción de arábica con un crecimiento del 1,7 % este año, las previsiones para 2025 son sombrías.
-
-Una **sequía de cinco meses amenaza** con reducir significativamente la próxima cosecha.
-
-Según Márcio Ferreira, presidente del Consejo de los Exportadores de Café (Cecafé), la reducción será notable: “Lo más probable es que la **producción del próximo año se reduzca significativamente**“, dice.
-
-Además, la presión de **fondos especulativos** y la **nueva legislación europea** sobre deforestación han contribuido a la volatilidad de los precios.
-
-Colombia: resilencia ante el desafío
-------------------------------------
-
-Colombia, por su parte, alcanzó **cifras récord en 2024.** La producción anual de **13,41 millones de sacos** refleja un crecimiento del **21 % en comparación con el año anterior.**
-
-Germán Bahamón, gerente de la **Federación Nacional de Cafeteros**, calificó estos resultados como “un testimonio de la resiliencia y capacidad de adaptación de los cafeteros colombianos”.
-
-Con ingresos de **14,2 billones de pesos (3 200 millones de dólares)**, el sector cafetero se consolida como motor económico del país, aupado por el incremento de los precios del café en el mercado internacional.
-
-“El 2024 fue un año de **tendencia alcista**. Cerramos el 2023 con un precio de **1,88 dólares por libra** (…) hoy, en noviembre de 2024, celebramos un precio de **3,18 dólares por libra**“, subraya.
-
-No obstante, Bahamón advierte sobre la necesidad de renovar cafetales y mantener políticas de fertilización para garantizar la sostenibilidad.
-
-México: una cosecha golpeada por la sequía
-------------------------------------------
-
-En México, la sequía afectó gravemente a los **productores** en estados clave como **Chiapas, Veracruz y Oaxaca**. Según testimonios locales, la producción ha caído más del 50 %.
-
-Moisés Ernesto, productor de Chiapas, describe la situación: “La planta está verde, pero no tiene la producción de café que debería dar”. Aunque **México sigue siendo el octavo** mayor exportador mundial, las condiciones adversas han puesto en peligro la estabilidad de su cosecha.
-
-Perú: estrategias para contrarrestar la caída
----------------------------------------------
-
-En Perú, las cifras también reflejan una disminución. Con una producción de 250 000 toneladas, el **rendimiento promedio cayó a 658 kilos por hectárea,** significativamente por debajo del promedio mundial de 880 kilos.
-
-Factores como la **roya amarilla** y el **envejecimiento de las plantaciones** afectaron al rendimiento. La Junta Nacional del Café (JNC) solicitó **medidas urgentes**, como la renovación de **50 000 hectáreas** y la creación de un fondo de **120 millones de soles** (32 millones de dólares) para sostener la producción y apoyar a los 200 000 pequeños productores del país.
-
-Costa Rica: un crecimiento moderado en medio de desafíos
---------------------------------------------------------
-
-Costa Rica espera un **aumento del 8,6 % en la cosecha** 2024-2025, alcanzando 1,75 millones de sacos de 46 kilos.
-
-A pesar de la mejora en los precios internacionales, hay **coyunturas internas** que están afectando a los **productores y exportadores**, como por ejemplo la caída del tipo de cambio del dólar en un 25 % desde julio de 2022.
-
-Las fluctuaciones en el tipo de cambio han generado quejas entre los productores, quienes enfrentan mayores costos locales con ingresos internacionales decrecientes.
-
-Honduras: beneficios inciertos
-------------------------------
-
-Honduras, con una proyección de **siete millones de quintales (317 800 toneladas)** para la temporada 2024-2025, enfrenta altos costos de producción que opacan los beneficios de los precios internacionales.
-
-“**No estamos recibiendo lo justo**“, afirmó un productor de El Paraíso. A pesar de esto, Pedro Mendoza, presidente del Instituto Hondureño del Café (IHCAFE), señaló que el aumento de los precios podría generar **nuevas oportunidades de empleo**, especialmente en la recolección.
-
-Toma precauciones al conducir durante las lluvias
-=================================================
-
-Cuando llueve, la calzada se vuelve resbalosa, lo que aumenta la probabilidad de siniestralidad.
-------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/04/Conducir-en-lluvia.jpg)
-
-En época de lluvia es importante **conducir** con **precaución**. El estado climático dificulta la **visibilidad** y la calzada se vuelve **resbalosa**, lo que aumenta la **probabilidad** de **siniestralidad**[.](https://es.wikipedia.org/wiki/Siniestro "https://es.wikipedia.org/wiki/Siniestro")
-
-### Más noticias
-
-* [Varios siniestros de tránsito se registraron la mañana de 14 de diciembre en Quito](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-simon-bolivar-ruminahui.html "Varios siniestros de tránsito se registraron la mañana de 14 de diciembre en Quito")
-* [Diciembre, un mes propicio para la prevención los siniestros de tránsito](https://www.elcomercio.com/opinion/editorial/diciembre-mes-propicio-prevencion-siniestros-transito.html "Diciembre, un mes propicio para la prevención los siniestros de tránsito")
-* [Diciembre, el mes con más siniestros de tránsito en Quito](https://www.elcomercio.com/actualidad/quito/diciembre-mes-mas-siniestros-transito-quito.html "Diciembre, el mes con más siniestros de tránsito en Quito")
-
-Con la presencia de las lluvias aumentan los **riesgos**. Cualquier maniobra se vuelve peligrosa si no se tienen en cuenta los **factores** **climáticos**.
-
-De acuerdo con el visor de siniestralidad de la Agencia Metropolitana de Tránsito de Quito (**AMT**), entre el 1 de enero y noviembre se reportaron 119 **siniestros de tránsito** relacionados con **condiciones** **ambientales** adversas.
-
-Por este motivo, hemos creado una lista de recomendaciones de cómo conducir en temporadas de lluvia.
-
-Recomendaciones para conducir en época de lluvias
--------------------------------------------------
-
-* **Llantas en buen estado:** Para manejar en la lluvia es necesario tener las llantas del auto en buen estado. Deben tener un buen agarre, pues la calzada se vuelve resbaladiza y al momento de frenar puede existir un deslizamiento del automotor. Es fundamental que estén inflados con la presión recomendada en el manual de cada carro.
-* **Mantén la distancia entre vehículos:** Conducir a una distancia prudente entre vehículos, se cuenta con tiempo para reaccionar en caso de una emergencia. Con la calzada mojada es más difícil frenar con precisión y hacer maniobras bruscas se vuelve más peligroso.
-* **Mantén limpio el parabrisas:** Es obligatorio mantener limpio el parabrisas por dentro y por fuera para evitar que se empañe por el cambio de temperatura. En caso de que esto pase, es necesario encender la calefacción o aire acondicionado direccionado al vidrio.
-* **Luces prendidas:** No solo sirve para que puedas ver mejor, mientras conduces. También ayuda a los otros conductores a que te vean desde una distancia prudente y tengan sus precauciones.
-* **Usa los limpiaparabrisas:** Antes de salir, revisa que los limpiaparabrisas funcionen de manera óptima.
-* **Evita los charcos:** Puede ser difícil determinar la profundidad de los charcos, así que trata de no pasar sobre ellos para evitar el hidroplano.
-* **Mantén ambas manos sobre el volante:** Tener ambas manos firmes sobre el volante ayuda a tener el control del auto en caso de aquaplaning.
-* **Respetar los límites de velocidad:** Esta recomendación es crucial, aun cuando se maneja en condiciones secas. Ir a la velocidad debajo de lo permitida, ayuda a reaccionar a tiempo en caso de emergencia sin poner en riesgo a los demás y a uno mismo.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Tres siniestros de tránsito se registraron la mañana de 14 de diciembre en Quito
-================================================================================
-
-Los siniestros de tránsito ocasionaron cierres viales en las zonas afectadas.
------------------------------------------------------------------------------
-
-![La Autopista General Rumiñahui tiene alta carga vehicular por un siniestro de tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/12/Carga-vehicular-siniestros.jpg)
-
-La madrugada de este sábado, 14 de diciembre de 2024, se reportó un siniestro de tránsito en la intersección de las avenidas **Velasco** **Ibarra** y **Rumiñahui**, a la altura de **El** **Trébol, en Quito**[.](https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito "https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito")
-
-Más noticias
-------------
-
-* [Diciembre, un mes propicio para la prevención los siniestros de tránsito](https://www.elcomercio.com/opinion/editorial/diciembre-mes-propicio-prevencion-siniestros-transito.html "Diciembre, un mes propicio para la prevención los siniestros de tránsito")
-* [Diciembre, el mes con más siniestros de tránsito en Quito](https://www.elcomercio.com/actualidad/quito/diciembre-mes-mas-siniestros-transito-quito.html "Diciembre, el mes con más siniestros de tránsito en Quito")
-* [Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito](https://www.elcomercio.com/actualidad/quito/personas-fallecieron-siniestros-transito-durante-feriado-fiestas-quito.html "Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito")
-
-La alerta ingresó a través de la Línea Única para Emergencias 911 a las 5:05 am, donde se informó sobre el **impacto de un vehículo contra un poste**, en sentido norte -sur.
-
-Respuesta de las autoridades por el siniestro de tránsito
----------------------------------------------------------
-
-De inmediato, el Centro de Operaciones coordinó con la Agencia Metropolitana de Tránsito (**AMT**) y la Empresa Eléctrica de Quito (**EEQ**) para atender la situación.
-
-La vía fue habilitada a las 10:37, tras la finalización de las labores realizadas por la EEQ en el lugar del siniestro de tránsito.
-
-Afectaciones al tránsito
-------------------------
-
-El siniestro provocó una fuerte congestión vehicular en los alrededores. Las autoridades recomiendan precaución a los conductores que transiten por el sector y sugieren tomar **rutas** **alternas** para evitar retrasos.
-
-> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
->   
-> 🚧 Cierre: autopista General Rumiñahui y Velasco Ibarra  
-> 🛣️ Carriles cerrados: derecho en sentido norte-sur.  
->   
-> 👮‍♀️ Con precaución ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/psXq5WHepq](https://t.co/psXq5WHepq)
-> 
-> — AMTQuito (@AMT\_Quito) [December 14, 2024](https://twitter.com/AMT_Quito/status/1867901414418354682?ref_src=twsrc%5Etfw)
-
-Otros siniestros de tránsito en Quito
--------------------------------------
-
-Además del siniestro registrado en la intersección de las avenidas **Velasco** **Ibarra** y **Rumiñahui**, otro incidente ocurrió en la **Autopista** **General** **Rumiñahui**, a la altura del peaje en el sector **Edén del Valle.**
-
-La **AMT** informó que este **siniestro** obligó al cierre de dos **carriles** **izquierdos** en dirección sur-norte. Una hora después, la vía fue habilitada nuevamente.
-
-> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
->   
-> 📍 Sector: Edén del Valle  
-> 🚧 Cierre: autopista General Rumiñahui a la altura del peaje  
-> 🛣️ Carriles cerrados: 2 carriles izquierdos en sentido sur-norte  
->   
-> 👮‍♀️ Con precaución ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/YAVLphDjFm](https://t.co/YAVLphDjFm)
-> 
-> — AMTQuito (@AMT\_Quito) [December 14, 2024](https://twitter.com/AMT_Quito/status/1867883540555378905?ref_src=twsrc%5Etfw)
-
-En la avenida **Simón** **Bolívar**, la mañana de este 14 de diciembre de 2024, se reportó otro siniestro de tránsito en el sector de **San Martín**, según detalló la **AMT**.
-
-Este hecho provocó el cierre de tres carriles en el mismo sentido, sur-norte. Las autoridades lograron habilitar la vía más tarde, restableciendo la circulación vehicular.
-
-> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
->   
-> 📍 Sector: San Martín  
-> 🚧 Cierre: av. Simón Bolívar, en la curva de Santa Rosa  
-> 🛣️ Carriles cerrados: los 3 carriles de circulación en sentido sur-norte.  
->   
-> 👮‍♀️ Con precaución ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zi53i9XuVF](https://t.co/zi53i9XuVF)
-> 
-> — AMTQuito (@AMT\_Quito) [December 14, 2024](https://twitter.com/AMT_Quito/status/1867878970508873783?ref_src=twsrc%5Etfw)
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Elena Rose es la embajadora urbana del amor propio y la autoaceptación
-======================================================================
-
-Elena Rose es la dueña de una canción con letra poderosa.
----------------------------------------------------------
-
-![Elena Rose tiene 29 años. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T174257.363.jpg)
-
-Se llama **Andrea Elena Mangiamarchi,** pero la conocen como [**Elena Rose**.](https://www.youtube.com/@ElenaRose "https://www.youtube.com/@ElenaRose") Con su voz, carisma y letras conquista la escena musical latina.
-
-Desde pequeña, mostró un profundo interés por la música, influenciada por artistas de diversos géneros, desde Frank Sinatra hasta Daddy Yankee.
-
-Su vida transcurrió entre **Puerto Rico y Venezuela**, donde estudió periodismo antes de mudarse a Estados Unidos para perseguir su sueño musical.
-
-### **Más noticias:**
-
-* [La coreana que conquista Ecuador con su voz en coreano, inglés y español](https://www.elcomercio.com/tendencias/entretenimiento/yulia-song-coreana-ecuador-musica-artista-emergente.html "https://www.elcomercio.com/tendencias/entretenimiento/yulia-song-coreana-ecuador-musica-artista-emergente.html")
-* [Un joven que creció en una gasolinera es el rostro del reguetón ‘bueno’](https://www.elcomercio.com/tendencias/entretenimiento/cantante-colombiano-gasolinera-kapo-uwaie.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/cantante-colombiano-gasolinera-kapo-uwaie.html?source=Internal&ref=Single+Content+Link")
-* [Karol G enternece las redes con un disfraz inspirado en una película icónica](https://www.elcomercio.com/tendencias/entretenimiento/karol-g-disfraz-matilda-famosa-colombia.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/karol-g-disfraz-matilda-famosa-colombia.html?source=Internal&ref=Single+Content+Link")
-
-**Elena Rose se abrió camino con Dollar**
------------------------------------------
-
-Su trayectoria despegó en 2019, cuando **Elena escribió** Dollar, un éxito interpretado por Becky G y Myke Towers. En mayo de 2020, lanzó su sencillo debut **Sandunga**, una mezcla de reggaetón y pop que demostró su habilidad como artista.
-
-Desde entonces, trabaja con grandes nombres de la música latina como Ricky Martin, Rauw Alejandro, Selena Gomez y Maluma. Ahora es una de las voces más influyentes del género urbano.
-
-Uno de sus temas más destacados es Caracas en el 2000, lanzado en 2023 junto a Danny Ocean y Jerry Di. Esta canción se convirtió en un himno para muchos venezolanos.
-
-Me lo merezco, en cambio, se transformó en un himno mundial. Es una canción con una letra poderosa que invita a reflexionar sobre la importancia de amarse a uno mismo.
-
-¿A qué hora juegan la final de vuelta Independiente y Liga de Quito?
-====================================================================
-
-Liga de Quito e Independiente del Valle disputarán la final de vuelta de la Liga Pro en la que el cuadro azucena guarda ventaja.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Keny Arroyo (izq.) de Independiente del Valle disputa un balón con Leonel Quiñónez (der.) de Liga de Quito en la final de ida de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T131225.340.jpg)
-
-**Independiente del Valle** recibe a Liga de Quito en la final de vuelta de la Liga Pro en su estadio durante este sábado 14 de diciembre del 2024. Los equipos buscarán el título y los albos llegan con ventaja tras el cotejo de ida.
-
-El cuadro rayado tiene un reto ante los albos para su último partido de la temporada y debe anotarle cuatro goles para salir campeón directo y tres para llevar la definición a penales. En la ida, la ‘U’ se impuso en el **Estadio Rodrigo Paz Delgado** por un marcador de 3-0.
-
-### Más noticias:
-
-* [Liga de Quito, IDV y una recordada final de Liga Pro](https://www.elcomercio.com/deportes/liga-pro-final-independiente-liga-2023-2024.html "Liga de Quito, IDV y una recordada final de Liga Pro")
-* [¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?](https://www.elcomercio.com/deportes/liga-quito-jugadores-favoritos-vitamina-sanchez.html "¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?")
-* [IDV necesita una gesta para arrebatarle el título a Liga de Quito](https://www.elcomercio.com/deportes/futbol/idv-necesita-una-gesta-para-arrebatarle-el-titulo-a-liga-de-quito.html "IDV necesita una gesta para arrebatarle el título a Liga de Quito")
-
-Durante el primer partido, el cuadro azucena fue visiblemente superior a sus rivales de Sangolquí y **Álex Arce** brilló. El delantero paraguayo hizo un doblete y el tanto complementario lo metió el boliviano **Gabriel Villamil** en el cierre del encuentro[.](https://en.wikipedia.org/wiki/L.D.U._Quito "https://en.wikipedia.org/wiki/L.D.U._Quito")
-
-De cara al nuevo compromiso, los rayados recibirán al plantel universitario en su casa y contarán con el apoyo de su gente. Pese al panorama y al adverso marcador, estos aún no se han resignado y creen en la remontada, como mencionaron a los **medios de comunicación** en los días previos.
-
-En Liga de Quito, el clima es de optimismo, sin embargo, el **DT Pablo ‘Vitamina’** Sánchez también mencionó que no se debe subestimar al rival. Asimismo, señaló que su equipo merece ser campeón y agregó que, de hacerlo, se realizará un tatuaje para conmemorarlo.
-
-Hora y transmisión de Independiente del Valle vs. Liga de Quito
----------------------------------------------------------------
-
-**Partido**: Independiente del Valle (0) vs. Liga de Quito (3).
-
-**Fecha**: sábado 14 de diciembre del 2024.
-
-**Hora**: 15:30.
-
-**Transmisión**: Vía streaming
-
-La final ‘tendrá acción’ en dos canchas
----------------------------------------
-
-A pesar de que el cotejo como tal se llevará a cabo en el **Estadio de Independiente del Valle**, el Rodrigo Paz Delgado de **Liga de Quito** también abrirá sus puertas. El conjunto azucena decidió transmitir el compromiso en pantallas para los hinchas que acudan.
-
-Quienes deseen presenciar el cotejo desde la casa de la ‘U’ deberán pagar **un dólar** si son tarjetahabitantes. Los aficionados en general deberán pagar **dos dólares con cincuenta centavos**.
-
-‘Friends’ y siete series de los 90 para ver en streaming
-========================================================
-
-Las series de los 90, dicen los fans, tienen un elemento difícil de copiar
---------------------------------------------------------------------------
-
-![Chandler, Rachel, Ross, Mónica, Joey y Phoebe son los personajes de 'Friends'.](https://www.elcomercio.com/wp-content/uploads/2024/12/series-El-Comercio.jpg)
-
-Las **series de los 90** capturaron la imaginación de una generación y siguen siendo una fuente de nostalgia para muchos. En el público ecuatoriano aún resuenan éxitos como ‘**Friends**‘, ‘**The Nanny**‘ y otros similares.
-
-Aunque algunas tramas pueden parecer un poco absurdas en 2024, en su época marcaron una revolución y engancharon a adolescentes y adultos por igual. Muchas de estas series se han mantenido vigentes, encontrando un nuevo hogar en las plataformas de _streaming_.
-
-### Más noticias
-
-* **[Animes y mangas de Akira Toriyama antes de ‘Dragon Ball’](https://www.elcomercio.com/afull/akira-toeiyama-dragon-ball-anime.html "https://www.elcomercio.com/afull/akira-toeiyama-dragon-ball-anime.html")** 
-
-Para los amantes de las series clásicas, hemos compilado una lista de diez series de los 90 que puedes disfrutar en streaming.
-
-Series de los noventa disponibles en streaming
-----------------------------------------------
-
-‘**El Príncipe del Rap en Bel-Air’ (1990)**
--------------------------------------------
-
-Esta icónica serie es protagonizada por un joven Will Smith. La historia comienza con Will viviendo en el oeste de Filadelfia, donde no hacía mucho caso a la policía. Tras un altercado, su mamá lo envía a Bel-Air a vivir con sus tíos. En este nuevo entorno, Will, un chico de barrio, tiene que aprender a vivir entre la clase alta. La serie está disponible en [Prime](https://www.primevideo.com/-/es/detail/El-Pr%C3%ADncipe-del-Rap-en-Bel-Air/0JCAJP7CIR0HSYMN3SK9PUWRL9 "https://www.primevideo.com/-/es/detail/El-Pr%C3%ADncipe-del-Rap-en-Bel-Air/0JCAJP7CIR0HSYMN3SK9PUWRL9") Video.
-
-‘**Sala de Urgencias’ (1994)**
-------------------------------
-
-Considerada una de las mejores series sobre médicos, _Sala de Urgencias_ cuenta con 15 temporadas donde los médicos no solo salvan vidas, sino que también lidian con sus relaciones personales. La producción está ambientada en la sala de emergencia de un hospital urbano de Chicago. La serie está disponible en [Max](https://www.max.com/ec/es/shows/sala-de-urgencias/92d5fe53-2467-4030-8e81-9b3753afb64e "https://www.max.com/ec/es/shows/sala-de-urgencias/92d5fe53-2467-4030-8e81-9b3753afb64e").
-
-‘**Friends’ (1994)**
---------------------
-
-Esta _sitcom_ presenta a Chandler, Rachel, Ross, Mónica, Joey y Phoebe, seis amigos que se apoyan en cualquier circunstancia de la vida. Su historia está llena de amor, lealtad y los problemas típicos de seis amigos solteros en Nueva York. La serie está disponible en [Max](https://www.max.com/ec/es/shows/friends/52dae4c7-2ab1-4bb9-ab1c-8100fd54e2f9 "https://www.max.com/ec/es/shows/friends/52dae4c7-2ab1-4bb9-ab1c-8100fd54e2f9").
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DAOUiFStOAD/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DAOUiFStOAD/?utm_source=ig_embed&utm_campaign=loading)
-
-‘**Sex and the City’ (1998)**
------------------------------
-
-Carrie, Miranda, Charlotte y Samantha cuentan sus experiencias con el sexo y las relaciones. Carrie relata cómo ella y sus amigas lidian con romper el estereotipo de la mujer tradicional y practican el amor y el sexo sin ataduras. Las seis temporadas de la serie están en [Max](https://www.max.com/ec/es/shows/sex-and-the-city/2641fd06-387f-4d92-a322-accb8e180713 "https://www.max.com/ec/es/shows/sex-and-the-city/2641fd06-387f-4d92-a322-accb8e180713").
-
-‘**Buffy, la cazavampiros’ (1997)**
------------------------------------
-
-Buffy Summers es una adolescente que dedica su vida a cazar vampiros en la ciudad de Sunnydale. Como la única persona en el mundo capaz de enfrentarse a los vampiros, Buffy enfrenta numerosos desafíos. La serie está disponible en [Disney Plus](https://www.disneyplus.com/es-co/series/buffy-cazavampiros/DmJepBrlNiUe "https://www.disneyplus.com/es-co/series/buffy-cazavampiros/DmJepBrlNiUe").
-
-‘**Mr. Bean’ (1990)**
----------------------
-
-Durante cinco años, _Mr. Bean_ hizo reír a muchos sin necesidad de palabras. Esta serie de humor mudo presenta 15 episodios donde las situaciones más simples y cotidianas toman un giro inesperado por la inocencia de Mr. Bean. La serie está disponible en [Apple TV](https://tv.apple.com/us/show/mr-bean/umc.cmc.7ak1j253pn0qhkwn1lz8ey9j4?l=es-MX "https://tv.apple.com/us/show/mr-bean/umc.cmc.7ak1j253pn0qhkwn1lz8ey9j4?l=es-MX").
-
-‘**Los Soprano**‘
------------------
-
-Esta serie cuenta la historia de Tony Soprano, un capo de la mafia que confía únicamente en su psiquiatra. Tony intenta ser un buen padre mientras maneja sus negocios ilegales y atiende a su esposa Carmela. La serie está disponible en [Max](https://www.max.com/ec/es/shows/sopranos/818c3d9d-1831-48a6-9583-0364a7f98453 "https://www.max.com/ec/es/shows/sopranos/818c3d9d-1831-48a6-9583-0364a7f98453").
-
-**‘The Nanny’**
----------------
-
-Es una comedia de situación que sigue la historia de Fran Fine, una extravagante y carismática mujer de Queens, Nueva York, que accidentalmente se convierte en la niñera de los tres hijos del refinado y adinerado productor teatral Maxwell Sheffield. Con su estilo de moda llamativo, personalidad audaz y corazón generoso, Fran revoluciona la vida de la familia Sheffield. A pesar de su título y sus protagonistas, es una comedia más para adultos que para jóvenes y niños. Está en [Prime Video](https://www.primevideo.com/-/es/detail/The-Nanny/0G5WM9YCLCFT4TGUVQYHMP2BJU "https://www.primevideo.com/-/es/detail/The-Nanny/0G5WM9YCLCFT4TGUVQYHMP2BJU").
-
-Un sismo de 4.1 se registró en Durán, Guayas
-============================================
-
-El sismo de Durán se sintió en varias ciudades del Ecuador, según el reporte de usuarios en redes sociales.
------------------------------------------------------------------------------------------------------------
-
-![El sismo ocurrió la mañana de este 14 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/sismo-Duran.jpg)
-
-El **Instituto** **Geofísico** de la Escuela Politécnica Nacional informó sobre un **sismo** de magnitud 4.1 MLv ocurrido en **Durán**, provincia de **Guayas**, la mañana de este sábado 14 de diciembre de 2024[.](https://es.wikipedia.org/wiki/Terremoto "https://es.wikipedia.org/wiki/Terremoto")
-
-Más noticias
-------------
-
-* [Volcán Cotopaxi presenta cambios en su actividad sísmica](https://www.elcomercio.com/actualidad/ecuador/volcan-cotopaxi-cambios-actividad-sismica.html "Volcán Cotopaxi presenta cambios en su actividad sísmica")
-* [Una provincia registró el segundo temblor de la semana este viernes 13 de diciembre](https://www.elcomercio.com/actualidad/ecuador/una-provincia-registro-segundo-temblor-semana-viernes-13-de-diciembre.html "Una provincia registró el segundo temblor de la semana este viernes 13 de diciembre")
-* [Un temblor de 4.2 sacudió la costa de Ecuador este martes 10 de diciembre](https://www.elcomercio.com/actualidad/ecuador/temblor-4-2-sacudio-costa-ecuador-martes-10-de-diciembre.html "Un temblor de 4.2 sacudió la costa de Ecuador este martes 10 de diciembre")
-
-Según el reporte del Instituto **Geofísico**, el sismo tuvo una profundidad de 68 kilómetros, con coordenadas de latitud 2.373° S y longitud 79.792° W. El epicentro se localizó a 23,78 kilómetros de **Durán**.
-
-Percepción ciudadana sobre el sismo
------------------------------------
-
-En redes sociales, varios usuarios mencionaron haber percibido el **sismo** de manera leve en localidades como **Zaruma** y **Riobamba**. Hasta las 09:25 de este sábado, no se reportaron daños relacionados con este evento.
-
-Otros sismos recientes en Ecuador
----------------------------------
-
-El viernes 13 de diciembre de 2024, el **Instituto** **Geofísico** registró otro sismo en Ecuador, con una magnitud de 3.5 en la escala de **Richter** y una profundidad de 34,2 kilómetros.
-
-Este **movimiento** **telúrico** ocurrió a una latitud de 2.587° S y longitud 80.845° W, con epicentro ubicado a 39,85 kilómetros de La Libertad, provincia de Santa Elena.
-
-Este fue el segundo **sismo** registrado en la misma localidad durante la semana, ya que el martes 10 de diciembre se detectó otro **temblor** en un epicentro cercano de la provincia de **Santa** **Elena**.
-
-Usuarios en redes sociales indicaron no haber sentido el movimiento. Sin embargo, uno de ellos expresó preocupación por la frecuencia de estos eventos.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-El Presidente de Corea del Sur fue destituido
-=============================================
-
-El proceso, en el que participaron 300 diputados, culminó con la destitución del presidente de Corea del Sur.
--------------------------------------------------------------------------------------------------------------
-
-![El Parlamento decidió el sábado 14 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/Corea-del-sur.jpg)
-
-El **Parlamento** de **Corea** del **Sur** destituyó este sábado 14 de diciembre al presidente Yoon Suk-yeol, tras declarar la ley marcial el pasado 3 de septiembre[.](https://es.wikipedia.org/wiki/Corea_del_Sur "https://es.wikipedia.org/wiki/Corea_del_Sur")
-
-Más noticias
-------------
-
-* [El exministro de Corea del Sur fue arrestado por orden de la fiscalía](https://www.elcomercio.com/actualidad/mundo/exministro-corea-sur-arrestado-orden-fiscalia.html "El exministro de Corea del Sur fue arrestado por orden de la fiscalía")
-* [Tropas en el parlamento y protestas generan inestabilidad en Corea del Sur](https://www.elcomercio.com/actualidad/mundo/tropas-parlamento-protestas-generan-horas-jaque-democracia-surcoreana.html "Tropas en el parlamento y protestas generan inestabilidad en Corea del Sur")
-* [Piezas clave tras la decisión de Yoon de aplicar ley marcial en Corea del Sur](https://www.elcomercio.com/actualidad/mundo/piezas-clave-decision-yoon-aplicar-ley-marcial-pesimas-consecuencias.html "Piezas clave tras la decisión de Yoon de aplicar ley marcial en Corea del Sur")
-
-La decisión contó con el respaldo de **diputados** pertenecientes a su propio partido.
-
-Resultados de la votación en la Asamblea Nacional
--------------------------------------------------
-
-Los 300 diputados de la **Asamblea** **Nacional** participaron en el proceso, que concluyó con 204 votos a favor de la moción presentada por la oposición, 85 en contra, tres abstenciones y ocho papeletas nulas.
-
-Para aprobar la destitución, se requería una mayoría de dos tercios, es decir, al menos 200 votos. Aunque el sufragio fue secreto, se estima que al menos 12 diputados del gobernante **Partido** del **Poder** **Popular** (PPP) apoyaron la moción, ya que la oposición cuenta con 192 escaños.
-
-La incertidumbre sobre el resultado persistió hasta el último momento. El **PPP** mantuvo durante horas una reunión a puerta cerrada para definir una **postura** **oficial**, que finalmente descartó apoyar la moción.
-
-Sin embargo, al menos siete miembros de esta formación ya habían manifestado públicamente su intención de votar a favor de la **destitución**, lo que quedó reflejado en el escrutinio.
-
-Consecuencias inmediatas y próximos pasos
------------------------------------------
-
-Concluido el conteo, **Yoon** quedó **inhabilitado** de forma inmediata, y el primer ministro **Han** **Duck**–**soo** asumió interinamente la jefatura de Estado y Gobierno.
-
-El **Tribunal** **Constitucional** deberá decidir en un plazo máximo de 180 días si el presidente violó la Constitución al declarar la ley marcial.
-
-Si se confirma la infracción, **Yoon** se convertiría en el segundo mandatario destituido en democracia en **Corea** del **Sur**.
-
-En 2017, la expresidenta **Park Geun-hye**, también conservadora, fue apartada del cargo y encarcelada por corrupción.
-
-En 2004, el liberal **Roh** **Moo**–**hyun** también enfrentó una destitución parlamentaria por supuesta **violación** de la **ley** **electoral**, aunque el **Tribunal** **Constitucional** lo restituyó en el cargo dos meses después.
-
-Reacciones en la ciudadanía
----------------------------
-
-En los alrededores de la **Asamblea** **Nacional** en **Seúl**, miles de personas se congregaron para exigir la destitución de **Yoon** y celebraron con júbilo el resultado de la votación.
-
-¿Cuándo juega Liga de Quito con IDV en la final de vuelta?
-==========================================================
-
-Albos y rayados definirán al campeón 2024 en el fútbol ecuatoriano de la Liga Pro. ¿Cuándo juega Liga de Quito ante IDV?
-------------------------------------------------------------------------------------------------------------------------
-
-![Independiente del Valle y LDU definirán al campeón 2024 en Ecuador. ¿Cuándo juega Liga de Quito ante IDV?](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-61.jpg)
-
-Tras la contundente victoria de **Liga de Quito** por 3-0 en la final de ida, los rayados del Independiente del Valle enfrentarán un reto monumental para lograr la remontada y quedarse con el título. ¿Cuándo juega **Liga de Quito** con **IDV**?
-
-En **IDV**, a pesar de la desventaja, confían en su capacidad de superar este difícil marcador.
-
-### Más noticias:
-
-* [Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-valle-viernes13-terror-redes.html "Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito")
-* [Damián ‘Kitu’ Díaz sorprende a sus fanáticos en redes sociales](https://www.elcomercio.com/deportes/futbol/damian-kitu-diaz-sorprende-a-sus-fanaticos-en-redes-sociales.html "Damián ‘Kitu’ Díaz sorprende a sus fanáticos en redes sociales")
-* [¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?](https://www.elcomercio.com/deportes/liga-quito-jugadores-favoritos-vitamina-sanchez.html "¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?")
-
-Independiente del Valle
------------------------
-
-El equipo ha expresado su optimismo a través de un emotivo video titulado ‘Elijo creer’, en el que jugadores, cuerpo técnico y empleados del club transmiten su fe en una remontada histórica.
-
-Liga de Quito
--------------
-
-Por su parte, **Liga de Quito** llega con una ventaja considerable, pero consciente de que el fútbol puede deparar sorpresas.
-
-El equipo dirigido por **[Pablo ‘Vitamina’ Sánchez](https://es.wikipedia.org/wiki/Pablo_S%C3%A1nchez)** buscará sellar su título con una buena actuación en la vuelta y convertirse en el primer club en ganar dos títulos desde la instauración de la Liga Profesional de Fútbol en Ecuador.
-
-La final de vuelta promete ser un cotejo lleno de emociones, donde **Independiente** luchará por la remontada y **Liga de Quito** defenderá su ventaja para alzar la copa.
-
-**LDU** buscará su título número 13 en los campeonatos ecuatorianos de fútbol, mientras que **IDV** la segunda estrella nacional de su historia.
-
-¿Cuándo juega Liga de Quito con IDV?
-------------------------------------
-
-La final de vuelta de la Liga Pro 2024 se jugará este sábado 14 de diciembre del 2024 a las 15:30, en la cancha del Independiente del Valle.
-
-El Metro de Quito: ¿Un hito de modernización o una carga para la capital?
-=========================================================================
-
-El Metro es la obra emblemática de Quito en los últimos años, sin embargo, es una carga a para las arcas municipales.
----------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T185150.974.jpg)
-
-El **Metro de Quito** es, sin duda, una de las grandes **obras de infraestructura** de la capital ecuatoriana. Una obra monumental que tomó **cuatro administraciones** municipales para materializarse: desde **Augusto Barrera,** pasando por **Mauricio Rodas, Jorge Yunda y Santiago Guarderas**, y finalmente, bajo la gestión del actual alcalde, **Pabel Muñoz,** se puso en marcha.
-
-Este sistema de transporte masivo, que ha generado **admiración** y **orgullo** entre los **quiteños**, marca un hito en el proceso de modernización de la ciudad, permitiendo que Quito se sume al selecto grupo de urbes con este tipo de infraestructura.
-
-No obstante, esta obra magnífica también ha sido una camisa de fuerza para la capital. Desde que se concibió la idea, el **Metro** se posicionó como el eje central de la **política municipal**, **relegando** otras **necesidades urgentes** de la ciudad. Su ejecución absorbía toda la atención y recursos, configurándose como una prioridad hegemónica que dejó en segundo plano problemáticas como la inseguridad, la pobreza y la exclusión social.
-
-Ahora, con el Metro en funcionamiento, la **carga económica** sigue pesando sobre el Municipio. A partir de 2025, Quito comenzará a pagar la deuda generada por esta obra. Además, el funcionamiento del sistema depende de un significativo subsidio: en 2025, el Municipio destinará más de USD 62 millones para garantizar su operación, incluyendo los costos de mantenimiento que no fueron considerados inicialmente.
-
-El Metro, aunque **vital y simbólico,** no puede ni debe monopolizar el presupuesto municipal. Quito es una ciudad con profundas contradicciones y demandas urgentes. La **falta de seguridad**, el aumento de la **pobreza** y la **desigualdad** social exigen respuestas inmediatas que no pueden esperar. Sin embargo, el **presupuesto** está destinado, en gran parte, al Metro y al pago de salarios de los trabajadores municipales, dejando poco margen para atender otras prioridades.
-
-> El Metro, aunque vital y simbólico, no puede ni debe monopolizar el presupuesto municipal. Quito es una ciudad con profundas contradicciones y demandas urgentes.
-
-> Es innegable que el Metro representa una obra impresionante y necesaria, pero también es una responsabilidad que ha **limitado las posibilidades de acción en otros frentes**. Además, su éxito a largo plazo depende de que no se quede como una **línea única**. Para que se convierta en el paradigma de movilidad moderna que Quito necesita, el sistema **debe expandirse**, con ramificaciones que articulen mejor la ciudad y ofrezcan una alternativa real al caótico tránsito actual.
-
-El **reto** para la **administración municipal** y para la ciudadanía es equilibrar la carga financiera y aprovechar plenamente esta infraestructura, sin descuidar los otros aspectos críticos que conforman el tejido urbano. Solo así, el Metro de Quito podrá consolidarse como un emblema de progreso y no como una carga que hipoteque el futuro de la capital.
-
-Lomo de cerdo asado con salsa de mango, un festín tropical
-==========================================================
-
-Descubre cómo preparar este delicioso plato, ideal para sorprender en cualquier ocasión especial. ¡Comparte esta receta con tus amigos!
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Este lomo de cerdo asado con salsa de mango no solo es un festín para el paladar, también es una opción equilibrada para disfrutar sin culpa.](https://www.elcomercio.com/wp-content/uploads/2024/12/2-1-1.jpg)
-
-El **lomo de cerdo asado** es una exquisita combinación de la jugosidad de la carne y el toque dulce y tropical del mango, ofreciendo una experiencia culinaria inigualable. Esta **receta** es ideal para sorprender en una cena familiar o destacar en una ocasión especial. Descubre a continuación cómo preparar este delicioso lomo de cerdo asado con salsa de mango, de manera sencilla y paso a paso.
-
-Ingredientes
-------------
-
-**Para el lomo de cerdo**
-
-* 1 kg de lomo de cerdo
-* 2 cucharadas de aceite de oliva
-* 2 dientes de ajo picados
-* 1 cucharadita de orégano seco
-* Sal y pimienta al gusto
-* 1 cucharadita de pimentón dulce
-* 1 limón (su jugo)
-
-**Para la salsa de mango**
-
-* 2 mangos maduros, pelados y cortados en cubos
-* 1/2 taza de cebolla roja picada
-* 1/4 taza de cilantro fresco picado
-* 1 chile jalapeño (opcional), sin semillas y picado
-* Jugo de 1 limón
-* Sal al gusto
-
-* * *
-
-> El lomo de cerdo se une a la dulzura y frescura del mango para crear una combinación explosiva
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/3-1.jpg)
-
-Lomo de cerdo asado servido con una fresca salsa de mango, ideal para cualquier celebración especial.
-
-Preparación del lomo de cerdo
------------------------------
-
-* En un bol grande, **mezclar** el aceite de oliva, los ajos picados, el orégano, el pimentón dulce, el jugo de limón, sal y pimienta. **Colocar** el lomo de cerdo en esta mezcla y asegurarse de cubrirlo bien.
-* **Dejar marinar** en el refrigerador durante al menos 1 hora (mejor si es toda la noche).
-* **Precalentar** el  horno a 180 °C (350 °F). En un sartén grande a fuego medio-alto, calentar un poco más de aceite.
-* **Retirar** el lomo de la marinada y **sellar** la carne por todos lados hasta que esté dorada (aproximadamente 3-4 minutos por cada lado). Una vez sellado, **colocar** el lomo en una bandeja y hornéalo durante aproximadamente 40 minutos o hasta que un termómetro insertado en la parte más gruesa registre 70 °C (160 °F).
-
-Preparación de la salsa de mango
---------------------------------
-
-* En un bol mediano, **combinar** los cubos de mango, la cebolla roja, el cilantro y el chile jalapeño (si lo deseas).
-* **Agregar** el jugo de limón y sazona con sal al gusto.
-* **Mezclar** bien todos los ingredientes.
-* **Dejar** reposar la salsa durante unos minutos para que los sabores se integren.
-* **Colocar** las rodajas del lomo asado en un plato y verter generosamente la salsa de mango por encima.
-* Este plato se puede **acompañar** con arroz blanco o puré de papas para completar la comida.
-
-Consejos finales
-----------------
-
-Esta **receta** de **lomo de cerdo asado con salsa de mango** es una opción versátil que se puede adaptar a diferentes gustos. Si prefieres un toque más picante, puedes añadir más chile a la salsa o incluso algunas especias adicionales a la marinada del cerdo. Además, si deseas preparar este plato con anticipación, puedes marinar el lomo un día antes y simplemente hornearlo cuando estés listo para servirlo. La combinación del cerdo tierno y jugoso con la frescura del mango hará que este platillo sea un éxito entre tus invitados. ¡Anímate a probar esta deliciosa **receta**!
-
-Cartas a Quito / 14 de diciembre de 2024
-========================================
-
-Estas son las cartas a Quito de este sábado 14 de diciembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-[Réplica a la Carta de Diego Valdivieso Anda](https://www.elcomercio.com/cartas/cartas-a-quito-13-de-diciembre-de-2024.html)
-----------------------------------------------------------------------------------------------------------------------------
-
-Minería responsable: Una alternativa viable para el desarrollo y la conservación
---------------------------------------------------------------------------------
-
-Este es un espacio democrático donde los ciudadanos expresan su opinión. Respecto al artículo de autoría del ciudadano Valdivieso Anda, y como vocera de la industria minera responsable representada en la Cámara de Minería del Ecuador, quisiera comentar dicho artículo, en el que, en resumen, se afirma que el proyecto minero Loma Larga no debe ser permitido porque afectaría al ambiente. Esa afirmación no es correcta, y a continuación lo analizo.
-
-Proyectos como Loma Larga representan oportunidades para un desarrollo económico sostenible y son compatibles con la protección ambiental. Aquí algunas puntualizaciones:
-
-**Loma Larga no afecta páramos ni zonas protegidas:** es fundamental aclarar que el Proyecto Loma Larga no interfiere con el Parque Nacional Cajas ni el Área Nacional de Recreación Quimsacocha. Estudios realizados por el Ministerio del Ambiente, Agua y Transición Ecológica (MAATE) concluyen que las actividades del proyecto están fuera de estas zonas protegidas. Además, los principales impactos en los ecosistemas de páramo de la región están relacionados principalmente con actividades humanas,  pastoreo y deportes motorizados, no con minería planificada ni regulada.
-
-**El agua está protegida:** el manejo del agua en Loma Larga sigue estándares de clase mundial. Más del 90 % del recurso hídrico utilizado en las operaciones es reciclado, y las aguas tratadas cumplen con los criterios más estrictos antes de ser devueltas al ambiente. Varias universidades nacionales e internacionales han verificado que no hay presencia de metales pesados como mercurio o arsénico en las fuentes hídricas cercanas, brindando tranquilidad a las comunidades locales.
-
-**La minería responsable no es incompatible con la conservación:** Loma Larga opera bajo estrictos controles ambientales diseñados para minimizar impactos y preservar los recursos naturales. Estos controles incluyen monitoreo constante, medidas de mitigación y programas de educación y salud para las comunidades cercanas. Lejos de ser una amenaza, la minería responsable se convierte en una solución frente a actividades descontroladas que ya están deteriorando los ecosistemas locales.
-
-**Los beneficios sociales y económicos son reales:** además de proteger el ambiente, el proyecto genera empleo, impulsa la economía local y mejora la calidad de vida de las comunidades cercanas. Estos beneficios no solo son esenciales para el desarrollo del país, sino que también fortalecen la sostenibilidad a largo plazo.
-
-Cabe aclarar que el informe emitido por ETAPA, mencionado en el artículo del ciudadano Valdivieso Anda, se arrogaría competencias que no le corresponden. Según la sentencia de la Corte Constitucional, es el Ministerio del Ambiente, Agua y Transición Ecológica (MAATE) la entidad responsable de evaluar y garantizar la calidad del agua en Ecuador. Este informe paralelo no solo desinforma, sino que estaría -potencialmente- creando caos y obstruiría los procesos legales establecidos. La autoridad ambiental ya ha avalado los estudios técnicos y ambientales de Loma Larga, que cumplen con los estándares más rigurosos. Intentar deslegitimar esta decisión con argumentos fuera de jurisdicción solo generaría incertidumbre y confusión entre las comunidades.
-
-También es importante recordar que la consulta popular realizada en Cuenca en 2021 sobre la prohibición de actividades mineras aplica únicamente a proyectos futuros. Aquellos que ya tenían concesiones mineras aprobadas y títulos otorgados, como Loma Larga, pueden continuar operando bajo el marco legal vigente. Este resultado, sin embargo, limita la posibilidad de atraer nueva inversión minera responsable, privando a la región de oportunidades económicas y sociales esenciales para su desarrollo.
-
-El peligro real: extracción ilegal y crimen organizado:
--------------------------------------------------------
-
-La experiencia en Azuay debería servirnos como advertencia. La paralización del proyecto Río Blanco, impulsada por supuestos “activistas pro derechos humanos”, no protegió el ambiente ni benefició a las comunidades. Todo lo contrario: el área ahora está invadida por extracción ilegal de minerales, controlada por el crimen organizado, que opera sin respetar las leyes ni los estándares ambientales. La contaminación con mercurio y otros químicos tóxicos ha aumentado exponencialmente, y la seguridad de la zona está gravemente comprometida. Curiosamente, este escenario parece no incomodar a quienes antes promovieron el cierre de este proyecto responsable.
-
-Debemos tener claro a qué debemos temer. No es a la minería responsable, que genera empleo, desarrollo y protege el ambiente bajo estrictos controles. El verdadero peligro radica en permitir que la extracción ilegal de minerales avance, destruyendo ecosistemas, contaminando fuentes de agua y poniendo en riesgo la vida de nuestras comunidades. Aprendamos de los errores del pasado y apoyemos proyectos como Loma Larga, que representan una alternativa viable y sostenible para el desarrollo de nuestra región.
-
-María Eulalia Silva, Presidenta Ejecutiva de la Cámara de Minería del Ecuador
-
-Ecuador: Un, dos, tres, ¡vamos!
-===============================
-
-En Ecuador debemos vencer al pesimismo y recordar que unidos podemos resolver nuestros problemas, así que un, dos, tres, ¡vamos!
---------------------------------------------------------------------------------------------------------------------------------
-
-![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
-
-Debido a los múltiples y álgidos **problemas** que atraviesa nuestro país, es muy común que algunos ecuatorianos tengan un cierto **pesimismo** frente al **futuro** del Ecuador. Sin embargo, hay hechos concretos que nos muestran que nuestro país está lleno de **gente buena** y que, unidos en un objetivo común, **podemos salir adelante**. La siguiente historia está basada en un hecho de la vida real y nos demuestra que, **trabajando en equipo**, podemos alcanzar **grandes resultados**.
-
-Una mañana lluviosa, una **pareja de aventureros** decide escribir una nueva página en su libro de experiencias y emprende camino, en su vehículo, desde Quito hacia el refugio del volcán **Guagua Pichincha**. Para llegar a su objetivo, deben atravesar la parroquia **Lloa**, a la cual se llega por una carretera de primer orden. Luego, desde Lloa hacia el refugio, deben tomar un camino de segundo orden, que es de **barro** y **cuesta arriba**. En ciertos tramos, este camino de segundo orden se torna **resbaladizo**, especialmente en días de lluvia.
-
-En Lloa, cuando el asfalto termina, los viajeros deben decidir si continuar por la **vía de segundo orden** para llegar hacia su destino, o ponerle fin a su **aventura**. La duda surge debido a que su vehículo carece de **tracción** en las cuatro ruedas, lo que podría dificultar el **ascenso**. Pese a la lluvia de la madrugada, el camino luce en **buenas condiciones**. Por esto, y debido a que en ese momento no hay lluvia, los viajeros se animan a continuar el trayecto hacia su destino. Están felices porque llegó el día en que llegarán al lugar al que tanto deseaban conocer.
-
-Manejan a **baja velocidad** y van disfrutando del paisaje maravilloso y la tranquilidad que ofrece el **páramo andino**. Cada cierto tiempo analizan el trayecto transcurrido y, pese a que han encontrado un poco de **lodo** y algunas **pendientes**, deciden continuar para acercarse a su **destino**. A solo cuatro kilómetros del refugio, los viajeros se encuentran con el **tramo más desafiante** de su aventura. Desde ese punto en adelante, el camino se torna más dificultoso: hay **curvas muy cerradas** y cuesta arriba.
-
-Los aventureros han atravesado con éxito varias **curvas difíciles** y están cada vez más cerca del refugio. A corta distancia observan una **curva muy cerrada**, con una **pendiente positiva bastante pronunciada**. Deben decidir muy rápido y sobre la marcha si continuar, pues no pueden perder **impulso**. Los viajeros deciden continuar. El conductor presiona el **acelerador** para ganar más impulso, y el acompañante le da ánimo. Sin embargo, no es suficiente: el auto **patina** y se detiene a muy pocos centímetros de coronar la curva cuesta arriba. Después de pocos segundos, intentan completar el ascenso para llegar a una planicie del camino, pero la **tracción** no es buena y el vehículo no avanza. En ese momento deciden poner fin a su **aventura** e intentan regresar.
-
-Para regresar deben **descender** la curva en reversa, pues no hay margen de maniobra para hacerlo de frente. Para no chocar con un vehículo que venía detrás, en dirección al refugio, se pegan a un lado del camino. Debido a esta maniobra, las dos **ruedas** del lado pasajero terminan **atrapadas** en el **fango** que había en la **cuneta**. El otro vehículo tampoco puede coronar la curva, y se detiene. En este punto, la suerte de los aventureros está echada: están **encunetados** y no podrán salir solos. Para colmo, empieza a caer la lluvia, hace bastante frío, y el camino está **bloqueado** por los dos autos que no pudieron completar el ascenso en la curva.
-
-Después de algunos minutos, varias **personas** se acercan para observar lo que ocurría. Algunos se marchan, pero otros (la mayoría) deciden voluntariamente **ayudar** a los **viajeros encunetados**. Hay una lluvia de ideas para seleccionar el mejor método para sacar al vehículo encunetado. Todas las posibles soluciones implican el uso de **fuerza bruta**, pues el camino está totalmente bloqueado. Unas siete personas **empujan** la parte trasera del auto atrapado para complementar el trabajo del motor. Desafortunadamente, pese al **gran esfuerzo** de todos, el vehículo encunetado no se mueve ni un centímetro. Entonces deciden probar otra alternativa: **levantar** la parte trasera del vehículo para alinearlo con la vía y luego dejar que la **gravedad** ayude al trabajo del motor. Después de varios “un, dos, tres, ¡vamos!”, logran sacar al vehículo de la **cuneta**. Los aventureros agradecen la **ayuda** recibida y después de recuperar la calma, disfrutan el **paisaje** y al cabo de un tiempo retornan en su vehículo, **sanos y salvos**, a Quito.
-
-De la misma manera que un grupo de **ecuatorianos solidarios** sacó el auto del fango, [los ecuatorianos podemos unirnos para superar las dificultades del país](https://www.elcomercio.com/opinion/eliminemos-subsidio-mediocridad-marco-benalcazar-columnista.html). Para esto necesitamos un **gran liderazgo**, que considere a todos los ciudadanos como parte del mismo **equipo llamado** **Ecuador**. Ese liderazgo debe ser **ejemplar** e **inspirador**. Debe considerar y tratar a los ciudadanos como **personas**, y no simplemente como un número más en una elección o en una estadística. La mayoría de los ecuatorianos somos **buenos**, **solidarios**, **trabajadores** y **honestos**, y de eso no debemos olvidarnos nunca, pues así evitaremos que el pesimismo nos gane. Así que, **un, dos, tres, ¡vamos a sacar al Ecuador adelante!**
-
-Renuncia a la inteligencia
-==========================
-
-La política ecuatoriana privilegia emociones y retórica sobre la razón, debilitando el debate y fortaleciendo el autoritarismo.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
-
-La **política ecuatoriana** está en un proceso regresivo, privilegia emociones primarias sobre la **inteligencia** y la razón. Gobernar ya no es comprender cómo funciona la **sociedad**, analizar sus problemas y pensar en las soluciones; se ha transformado en acumular **habilidades retóricas**, sino picardías, para hacerle creer a la sociedad que todo va bien.
-
-Los **gobernantes** no explican los **proyectos** de ley que pueden ser solo formas hábiles de incrementar las **recaudaciones**. Los **legisladores** no debaten los proyectos y, unos y otros, presionan a los jueces para que diriman las **discrepancias legales** que inventan los asesores como **arma política**.
-
-El contenido del último **proyecto**, denominado en plan de chacota “ley antipillos”, no ha sido analizado por nadie; toda la charlatanería se gastó para inducir a tomar partido por la **Asamblea** o por el gobierno, es decir, por uno o dos **debates** para negar su **aprobación**. Resultaron más avispados los asesores del gobierno.
-
-En la **superficial discusión** han participado políticos, constitucionalistas, medios de comunicación y el pueblo, que termina adoptando opiniones al estilo de las **redes sociales**: inamovibles, pero arbitrarias; sin fundamento, pero atrabiliarias. Igual que los **políticos**, los **ciudadanos** prefieren insultos y descalificaciones antes que razones. Los **constitucionalistas** también están aprendiendo a descalificar a los adversarios antes de decir su opinión.
-
-Si las discusiones  jurídicas tienen esas características, qué podíamos esperar de **artistas irreverentes**, de sus **promotores** y de sus **detractores**. Colgar un muñeco de cartón ha pasado de **crítica social** a ser acto político y **gesto terrorista**. Los artistas toman la crítica como censura y barbarie.
-
-Tomar partido por una **causa política**, sin reflexionar, sin fundamentar racionalmente la decisión, desde los **gobernantes** hasta los **gobernados**, es la forma más penosa de renunciar a la razón y a la **civilización**, es convertir en esclavos, a los **gobernados** y en **caudillos** a los **gobernantes**.
-
-Lourdes Tibán publicó emotivo mensaje por fallecimiento de Raúl Ilaquiche
-=========================================================================
-
-Lourdes Tibán y Raúl Ilaquiche procrearon tres hijos. El hermano del fallecido dio su testimonio en el lugar del siniestro.
----------------------------------------------------------------------------------------------------------------------------
-
-![Raúl Ilaquiche fue despedido por su esposa Lourdes Tibán a través de un mensaje en su cuenta de Tik Tok.](https://www.elcomercio.com/wp-content/uploads/2024/12/lourdes-tiban-raul-ilaquiche-2.jpg)
-
-La **prefecta de Cotopaxi**, **Lourdes Tibán**, publicó un emotivo mensaje por el fallecimiento de su esposo, **Raúl Ilaquiche**, este viernes 13 de diciembre de 2024.
-
-Ilaquiche falleció esta tarde a causa de un **siniestro de tránsito** en el sector de **Tambillo**, antes del ingreso a **Quito**.
-
-### Más noticias:
-
-* [Raúl Ilaquiche, esposo de Lourdes Tibán, falleció en siniestro de tránsito este viernes](https://www.elcomercio.com/actualidad/seguridad/raul-ilaquiche-esposo-lourdes-tiban-fallecio-siniestro-transito.html "Raúl Ilaquiche, esposo de Lourdes Tibán, falleció en siniestro de tránsito este viernes")
-* [Diciembre, un mes propicio para la prevención los siniestros de tránsito](https://www.elcomercio.com/opinion/editorial/diciembre-mes-propicio-prevencion-siniestros-transito.html "Diciembre, un mes propicio para la prevención los siniestros de tránsito")
-
-Mensaje de Lourdes Tibán a Raúl Ilaquiche
------------------------------------------
-
-La tarde de este viernes, el **ECU 911** recibió una alerta sobre un siniestro de tránsito en Tambillo, antes del ingreso a Quito.
-
-Se trataba de un **vehículo volcado** con personas atrapadas.
-
-A las 19:20, la **Policía Nacional** informó, a través de radiofrecuencia, de la existencia de **dos personas heridas y un fallecido** en el lugar.  
-
-Tras confirmarse la muerte de **Raúl Ilaquiche**, **Lourdes Tibán** publicó un emotivo mensaje en su cuenta de Tik Tok.
-
-“**Solo la muerte nos pudo separar, el único amor que juré en la Iglesia**“, dijo la Prefecta de Cotopaxi al inicio de su mensaje.
-
-“Dios dame fuerzas para seguir adelante con nuestros **tres hijos**, fruto de nuestro amor único. Tus hijos tiene un gran legado que seguir”, añadió Tibán.
-
-El mensaje fue acompañado de una foto de los dos juntos en una publicación y la canción “**Camino al cielo**“, interpretada por **María de los Ángeles**.
-
-El hermano de Raúl Ilaquiche relató lo ocurrido
------------------------------------------------
-
-**Rodrigo Ilaquiche**, hermano de Raúl Ilaquiche, relató cómo ocurrió la tragedia.
-
-Se trasladaban **de Conocoto a Cotopaxi**, **Raúl Ilaquiche conducía su vehículo** y él iba de copiloto.
-
-Iban cinco ocupantes en el vehículo, entre ellos, **Julio César Pilalumbo**, líder del movimiento indígena.
-
-“Aquí en la curva, antes de llegar a Tambillo, **estaba lloviznando**, se fue la pista, salió a la derecha, el carro se dio la vuelta, no recuerdo si un carro topó en algo, pero tuvimos que rodar para la parte de abajo y dio dos vueltas y se quedó clavado el carro”, comentó.
-
-“El **chofer se quedó contra el volante y el asiento**, atrapado, no pudimos hacer nada, la ambulancia y todo lo demás llegó luego de 30 minutos y acabamos de perder a un líder de Cotopaxi”, añadió Rodrigo Ilaquiche.
-
-Área social, la gran deuda del presupuesto municipal de Quito
-=============================================================
-
-El presupuesto municipal para el 2025, si bien está aprobada, sigue en debate. Orientado hacia el Metro, redujo montos de inversión social.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![El presupuesto del Patronato San José aumentará para el 2025, pero esta institución no consta en el área de Servicios Sociales del Municipio, sino de la coordinación de la Alcaldía.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T151256.964.jpg)
-
-El **Concejo Metropolitano** de **Quito** aprobó el 10 de diciembre de 2024 el **presupuesto municipal** para el 2025, que ascenderá a **1 002 millones de dólares**. Esta cifra representa una leve reducción del 0,6% respecto al presupuesto inicial de **2024**, que fue de **1 009 millones**. Sin embargo, el enfoque del presupuesto ha generado cuestionamientos, ya que prioriza la administración de la ciudad y la movilidad, mientras que el **área social enfrenta recortes significativos.**
-
-### Más noticias
-
-* [Fiestas de Quito aportaron al turismo local](https://www.elcomercio.com/actualidad/quito/fiestas-quito-economia-local-turismo.html "Fiestas de Quito aportaron al turismo local")
-* [Quito presenta siniestros y alto tránsito vehicular este 13 de diciembre](https://www.elcomercio.com/actualidad/quito/quito-siniestros-transito-vehicular-lluvia.html "Quito presenta siniestros y alto tránsito vehicular este 13 de diciembre")
-* [La movilidad por Navidad y pregones de diciembre cambiará en Quito](https://www.elcomercio.com/actualidad/quito/movilidad-pregones-compras-navidad-quito.html "La movilidad por Navidad y pregones de diciembre cambiará en Quito")
-
-![chart visualization](https://public.flourish.studio/visualisation/20783825/thumbnail)
-
-Servicios sociales, en descenso
--------------------------------
-
-Durante la sesión del Concejo, **nueve ediles de oposición a la mayoría correísta se abstuvieron** en la votación y **12 aprobaron** la proforma presupuestaria. Varios de ellos, durante el debate y en conversaciones posteriores con la prensa luego de la votación, coincidían en que la **movilidad** y la **administración** tienen demasiada **prioridad** frente a otras áreas que necesitan recursos para que sea una ayuda para la población en áreas como **seguridad**, **salud**, **educación**.
-
-El **oficialismo** no está de acuerdo con esa posición. De hecho, durante las explicaciones que le pidieron los concejales sobre la inversión presupuestaria, **Grace Rivera, secretaria general de Planificación**, dijo que se **incrementó** el presupuesto en **2,1 millones de dólares** para el **Patronato San José.**
-
-“Tenemos un incremento de **3,6 millones de dólares** en el área social, que corresponde a **educación**, **cultura**, **inclusión** **social** y **salud**, llegando a los 43,7 millones de dólares”, dijo Rivera.
-
-Lo mismo dijo **Diego Garrido,** concejal por la **Revolución Ciudadana,** el partido del **alcalde Pabel Muñoz.** “Hay una discusión abierta en la que creo que los números no dan para la interpretación en perspectiva”. Coincide con Rivera en que el **Patronato San José** tiene un aumento en los ingresos, y que, al ser el **brazo ejecutor de la política de inclusión social**, “hay aumento de más de dos millones de dólares”. 
-
-El **Patronato Municipal San José**, según la **proforma** del 2025 aprobada, **recibirá 35,6 millones** de dólares, que corresponde al **3,55%** del presupuesto general.
-
-![chart visualization](https://public.flourish.studio/visualisation/20783608/thumbnail)
-
-Un comparativo del presupuesto municipal
-----------------------------------------
-
-Aunque el **Patronato San José** recibirá 35,6 millones de dólares, equivalente al 3,55% del presupuesto general, estos recursos no se contabilizan en el rótulo de **Servicios Sociales,** sino en la Coordinación de Alcaldía.
-
-Además, comparado con el presupuesto de 2024, las áreas sociales enfrentan reducciones significativas:
-
-* **Salud**: de 43 millones a 16,4 millones (-61%).
-* **Educación y Deportes**: de 53,6 millones a 14,1 millones (-73,7%).
-* **Inclusión social**: de 6,46 millones a 2,74 millones (-57,6%).
-
-Estas cifras han generado **críticas** por parte de concejales opositores, quienes consideran que las reducciones afectan a sectores fundamentales para el **bienestar de la població**n[.](https://es.wikipedia.org/wiki/Patronato_de_San_Jos%C3%A9#:~:text=La%20instituci%C3%B3n%20estaba%20regida%20por,festividad%20el%2019%20de%20marzo. "https://es.wikipedia.org/wiki/Patronato_de_San_Jos%C3%A9#:~:text=La%20instituci%C3%B3n%20estaba%20regida%20por,festividad%20el%2019%20de%20marzo.")
-
-![chart visualization](https://public.flourish.studio/visualisation/20783738/thumbnail)
-
-Un presupuesto atado al Metro
------------------------------
-
-El **Metro** de Quito sigue siendo una prioridad presupuestaria, con una asignación de 62,3 millones de dólares en 2025, que incluye mantenimiento. Según **Fernando Carrión,** experto en urbanismo, esta “metrodependencia” limita la capacidad de la ciudad para atender otras necesidades.
-
-Todos los concejales, opositores y oficialistas reconocen los beneficios del Metro. Sin embargo, no es la solución a todos los problemas de movilidad que tiene Quito. **Fidel Chamba (SUMA), presidente** de la **Comisión de Presupuesto**, dijo que solo beneficia al 6% de los quiteños. Mientras tanto, Andrés Campaña, concejal opositor, criticó la falta de inversiones en el sistema general de transporte.
-
-Diego **Garrido (RC)** defendió la inversión en el **Metro**, destacando que es un **proyecto heredado** de administraciones anteriores y planteó que **“será necesario evaluar si marca el inicio de una nueva era en la movilidad de Quito”.** No obstante, admitió que la **deuda por la construcción del Metro** comenzará a pagarse en 2025, lo que representará un desafío financiero adicional para el Municipio.
