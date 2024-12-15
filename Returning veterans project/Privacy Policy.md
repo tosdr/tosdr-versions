@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Brian Radke](https://cdn.returningveterans.org/images/honor/4_Brian_Radke.png)  
+![William S Berger](https://cdn.returningveterans.org/images/honor/Uncle_Bill.jpg)  
 
-**In Honor of Brian Radke**  
+**In Memory of William S Berger**  
 United States Army  
-Submitted by Alan and Brenda Gardner](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Eric & Elizabeth Berger](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 12/14/24 - 1:15:59  
+Printed 12/14/24 - 7:12:51  
 © 2024 Returning Veterans Project
