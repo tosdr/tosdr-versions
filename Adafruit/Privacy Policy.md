@@ -97,10 +97,6 @@ Search
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
-    ![Angled shot of thin, green rectangular microcontroller with castellated pads.](https://cdn-shop.adafruit.com/310x233/6006-02.jpg)[Raspberry Pi Pico 2 - RP2350
-    
-    $5.00](https://www.adafruit.com/product/6006)
-    
     ![Angled shot of rectangular dev board.](https://cdn-shop.adafruit.com/310x233/5933-01.jpg)[Adafruit ESP32-C6 Feather - STEMMA QT
     
     $14.95](https://www.adafruit.com/product/5933)
@@ -112,6 +108,10 @@ Search
     ![Angled shot of black, rectangular doubler prototyping board.](https://cdn-shop.adafruit.com/310x233/5906-00.jpg)[Adafruit Proto Doubler PiCowbell for Pico and PicoW
     
     $7.50](https://www.adafruit.com/product/5906)
+    
+    ![Angled shot of black, rectangular microcontroller.](https://cdn-shop.adafruit.com/310x233/5890-05.jpg)[Adafruit ItsyBitsy ESP32 - wFL Antenna - 8 MB Flash / 2 MB PSRAM
+    
+    $14.95](https://www.adafruit.com/product/5890)
     
 * [Gift Ideas](https://www.adafruit.com/explore)
 * [What's New](https://www.adafruit.com/new)
@@ -408,9 +408,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Everyone you will ever meet knows something you don't”
+“ The whole point of getting things done is knowing what to leave undone”
 
-[Bill Nye](https://en.wikipedia.org/wiki/Bill_Nye)
+[Oswald Chambers](https://en.wikipedia.org/wiki/Oswald_Chambers)
 
 [](https://www.adafruit.com/about)
 
