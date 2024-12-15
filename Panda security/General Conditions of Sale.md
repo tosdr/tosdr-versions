@@ -11,6 +11,16 @@ If this is not what you’re looking for,
 
 [Visit our Welcome Page!](https://www.pandasecurity.com/)
 
+: :
+
+Renew and get **50% off**
+
+: :
+
+\-50%
+
+**Renew Panda Dome**
+
 ![Panda Security](/rfilescms/Teaser/CAMPAIGNS/XMAS/pandasecurity-image-teaser-rnw-xmas.png)
 
 ### Merry Christmas!
