@@ -439,15 +439,15 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![Meta](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Facebook, Instagram, WhatsApp hit by massive worldwide outage](https://www.bleepingcomputer.com/news/technology/facebook-instagram-whatsapp-hit-by-massive-worldwide-outage/)
-* [![hacker shh](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    New stealthy Pumakit Linux rootkit malware spotted in the wild](https://www.bleepingcomputer.com/news/security/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
+* [![Android](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Russian cyber spies hide behind other hackers to target Ukraine](https://www.bleepingcomputer.com/news/security/russian-cyber-spies-hide-behind-other-hackers-to-target-ukraine/)
-* [![Krispy Kreme](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Russian cyberspies target Android users with new spyware](https://www.bleepingcomputer.com/news/security/russian-cyberspies-target-android-users-with-new-spyware/)
+* [![Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Krispy Kreme cyberattack impacts online orders and operations](https://www.bleepingcomputer.com/news/security/krispy-kreme-cyberattack-impacts-online-orders-and-operations/)
+    Cleo patches critical zero-day exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/cleo-patches-critical-zero-day-exploited-in-data-theft-attacks/)
 
 ##### Follow us:
 
