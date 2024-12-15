@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### West Africa regional bloc approves exit timeline for 3 coup-hit nations](https://www.csmonitor.com/World/Africa/2024/1215/west-africa-ecowas-niger-mali-burkina-faso "West Africa regional bloc approves exit timeline for 3 coup-hit nations")
+
 [### South Korean parliament votes to impeach president over his martial law order](https://www.csmonitor.com/World/Asia-Pacific/2024/1214/South-Korean-parliament-votes-to-impeach-president-over-his-martial-law-order "South Korean parliament votes to impeach president over his martial law order")
 
 [### Waves of joy flood Damascus. But an undercurrent of distrust lingers.](https://www.csmonitor.com/World/Middle-East/2024/1213/syria-islamist-rebels-governing-damascus-mood "Waves of joy flood Damascus. But an undercurrent of distrust lingers.")
-
-[### Why are there mysterious drones flooding New Jersey’s airspace?](https://www.csmonitor.com/USA/2024/1213/drones-new-jersey-mysterious-aircraft-military-bases "Why are there mysterious drones flooding New Jersey’s airspace?")
 
 * * *
 
