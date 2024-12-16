@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Tech Sgt. Douglas Matthews](https://cdn.returningveterans.org/images/honor/Douglas_Matthews.jpg)  
+![Tony & Olga Duke](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
-**In Honor of Tech Sgt. Douglas Matthews**  
-United States Air National Guard  
-Submitted by Stan and Jeanie Kramer](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Tony & Olga Duke**  
+United States Navy  
+Submitted by Anthony Duke, Jr](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 12/15/24 - 1:25:40  
+Printed 12/15/24 - 7:21:57  
 © 2024 Returning Veterans Project
