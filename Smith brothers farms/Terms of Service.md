@@ -198,9 +198,9 @@ Hi
         
     * [New! (62)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (75)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (69)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Holiday (41)](https://www.smithbrothersfarms.com/holiday)
+    * [Holiday (40)](https://www.smithbrothersfarms.com/holiday)
         
         * BACK
         * [Holiday Treats (16)](https://www.smithbrothersfarms.com/holiday-treats)
@@ -268,14 +268,14 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (87)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (86)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
         * [Fruit (27)](https://www.smithbrothersfarms.com/fruit)
             
-        * [Vegetables (29)](https://www.smithbrothersfarms.com/vegetables)
+        * [Vegetables (28)](https://www.smithbrothersfarms.com/vegetables)
             
         * [Salad Kits (25)](https://www.smithbrothersfarms.com/salads)
             
@@ -326,12 +326,12 @@ Hi
         * [Sauces (6)](https://www.smithbrothersfarms.com/sauces-and-soups)
             
         
-    * [Coffee, Juice & Tea (55)](https://www.smithbrothersfarms.com/coffee-juice-tea)
+    * [Coffee, Juice & Tea (54)](https://www.smithbrothersfarms.com/coffee-juice-tea)
         
         * BACK
         * [Juice & Tea (23)](https://www.smithbrothersfarms.com/juice-3)
             
-        * [Coffee (32)](https://www.smithbrothersfarms.com/coffee-2)
+        * [Coffee (31)](https://www.smithbrothersfarms.com/coffee-2)
             
         
     * [Snacks (35)](https://www.smithbrothersfarms.com/snacks)
