@@ -223,7 +223,7 @@ Or, to find out how to bake actual cookies, head to [https://www.bbcgoodfood.com
 * [Modern Slavery Act](https://www.directlinegroup.co.uk/en/site-services/modern-slavery-act.html)
 * [Cost of Living](https://blog.greenflag.com/cost-of-living/)
 
-![Green Flag logo](/img/logos/greenflag-icon-only.png)  © GreenFlag Limited 2024.  
-Green Flag Limited is an appointed representative of U K Insurance Business Solutions Limited, which is authorised and regulated by the Financial Conduct Authority. [FCA Registration](https://register.fca.org.uk/s/) number 313783.  
+![Green Flag logo](/img/logos/greenflag-icon-only.png)  © Green Flag Ltd. 2024.  
+Green Flag Limited is an appointed representative of U K Insurance Business Solution Limited, which is authorised and regulated by the Financial Conduct Authority. [FCA Registration](https://register.fca.org.uk/s/) number 313783. Green Flag Limited, registered office: The Wharf, Neville Street, Leeds, LS1 4AZ. Registered in England and Wales, No. 01003081.  
   
-Green Flag Limited, registered office: The Wharf, Neville Street, Leeds, LS1 4AZ. Registered in England and Wales, No. 01003081.
+Green Flag Breakdown Cover is underwritten by U K Insurance Limited which is authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority. [Registration number](https://register.fca.org.uk/s/) 202810. Registered office: The Wharf, Neville Street, Leeds LS1 4AZ. Registered in England and Wales No.1179980
