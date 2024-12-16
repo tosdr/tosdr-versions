@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/news/trending/video/weathering-eras-how-taylors-tour-defied-storms-and-heat-0)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/news/trending/video/weathering-eras-how-taylors-tour-defied-storms-and-heat-0)[Bios](https://weather.com/bios)
+[Top Weather Stories](https://weather.com/storms/hurricane/video/tropical-cyclone-chido-mayotte-france)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/storms/hurricane/video/tropical-cyclone-chido-mayotte-france)[Bios](https://weather.com/bios)
 
 Products
 --------
