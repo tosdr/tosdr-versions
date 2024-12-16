@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 16, 2024](https://www.japantimes.co.jp/archive/2024/12/16/ "archive page")
+[December 17, 2024](https://www.japantimes.co.jp/archive/2024/12/17/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -30,8 +30,8 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [South Korea unrest](https://www.japantimes.co.jp/trending-2/ "South Korea unrest")
-* [Trump tariffs](https://www.japantimes.co.jp/trending/ "Trump tariffs")
+* [South Korea impeachment](https://www.japantimes.co.jp/tag/south-korea/ "South Korea impeachment")
+* [Yen](https://www.japantimes.co.jp/tag/yen/ "Yen")
 * [2024 in review](https://www.japantimes.co.jp/tag/2024-in-review/?type=column/ "2024 in review")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
@@ -131,64 +131,68 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Indian-born CEO of Japanese company says nation needs immigration to thrive](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-  [![Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440239.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August")](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-[Schoolgirl stabbed to death in Kitakyushu](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440205.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday")](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-[South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-  [![South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440177.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ")](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
 
-[Assad's final hours in Syria: Deception, despair and flight](https://www.japantimes.co.jp/news/2024/12/15/world/assad-final-hours-syria/ "Assad's final hours in Syria: Deception, despair and flight")
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-  [![A damaged poster of Syria's ousted leader, Bashar Assad, in Aleppo on Nov. 30 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440198.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A damaged poster of Syria's ousted leader, Bashar Assad, in Aleppo on Nov. 30 ")](https://www.japantimes.co.jp/news/2024/12/15/world/assad-final-hours-syria/ "Assad's final hours in Syria: Deception, despair and flight")
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
 
-[U.S. Marines begin to relocate from Okinawa to Guam](https://www.japantimes.co.jp/news/2024/12/14/japan/okinawa-marines-guam-relocation/ "U.S. Marines begin to relocate from Okinawa to Guam")
+[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
-  [![U.S. Marine Corps Air Station Futenma in Ginowan, Okinawa Prefecture, in 2021](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440174.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. Marine Corps Air Station Futenma in Ginowan, Okinawa Prefecture, in 2021")](https://www.japantimes.co.jp/news/2024/12/14/japan/okinawa-marines-guam-relocation/ "U.S. Marines begin to relocate from Okinawa to Guam")
+  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
 Editors' Picks
 --------------
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Indian-born CEO of Japanese company says nation needs immigration to thrive](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
-
-By [Simon STURDEE](https://www.japantimes.co.jp/author/5475/simon-sturdee/ "Simon STURDEE")  
-
-  [![Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440239.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August")](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Schoolgirl stabbed to death in Kitakyushu](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
-
-  [![A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440205.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday")](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
-
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
+[South Korea couple beat same-sex barriers to parenthood](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+By [Claire Lee](https://www.japantimes.co.jp/author/2400/claire-lee/ "Claire Lee")  
 
-  [![South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440177.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ")](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
-
-[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
-
-[Assad's final hours in Syria: Deception, despair and flight](https://www.japantimes.co.jp/news/2024/12/15/world/assad-final-hours-syria/ "Assad's final hours in Syria: Deception, despair and flight")
-
-By [Samia Nakhoul](https://www.japantimes.co.jp/author/1555/samia-nakhoul/ "Samia Nakhoul"), [Maya Gebeily](https://www.japantimes.co.jp/author/2356/maya-gebeily/ "Maya Gebeily"), [Parisa Hafezi](https://www.japantimes.co.jp/author/2212/parisa-hafezi/ "Parisa Hafezi") and [Suleiman Al-Khalidi](https://www.japantimes.co.jp/author/1990/suleiman-al-khalidi/ "Suleiman Al-Khalidi")  
-
-  [![A damaged poster of Syria's ousted leader, Bashar Assad, in Aleppo on Nov. 30 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440198.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A damaged poster of Syria's ousted leader, Bashar Assad, in Aleppo on Nov. 30 ")](https://www.japantimes.co.jp/news/2024/12/15/world/assad-final-hours-syria/ "Assad's final hours in Syria: Deception, despair and flight")
+  [![South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/08/06/244166.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean lesbian couple Kim Kyu-jin (left) and her wife, Kim Sae-yeon, pose with a "pregnant woman" badge during an interview in Seoul last month.")](https://www.japantimes.co.jp/news/2023/08/06/asia-pacific/social-issues/south-korea-couple-pregnant/ "South Korea couple beat same-sex barriers to parenthood")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[U.S. Marines begin to relocate from Okinawa to Guam](https://www.japantimes.co.jp/news/2024/12/14/japan/okinawa-marines-guam-relocation/ "U.S. Marines begin to relocate from Okinawa to Guam")
+[Japan unveils new overtourism countermeasures](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
 
-  [![U.S. Marine Corps Air Station Futenma in Ginowan, Okinawa Prefecture, in 2021](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440174.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. Marine Corps Air Station Futenma in Ginowan, Okinawa Prefecture, in 2021")](https://www.japantimes.co.jp/news/2024/12/14/japan/okinawa-marines-guam-relocation/ "U.S. Marines begin to relocate from Okinawa to Guam")
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/18/258248.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The majority of tourists in Japan tend to stay in Tokyo, Osaka or Kyoto, resulting in overcrowding in popular tourist spots and a strain on transportation systems.")](https://www.japantimes.co.jp/news/2023/10/18/japan/society/overtourism-prevention-plan/ "Japan unveils new overtourism countermeasures")
+
+[LIFE](https://www.japantimes.co.jp/life/ "LIFE")
+
+[Opportunities await the bold in the Year of the Wood Dragon](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+
+By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "Kathryn Wortley")  
+
+  [![2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/01/02/271400.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "2024 marks the Year of the Dragon in the Chinese zodiac, with the year predicted to be a good time for fresh starts.")](https://www.japantimes.co.jp/life/2024/01/02/lifestyle/year-of-the-dragon/ "Opportunities await the bold in the Year of the Wood Dragon")
+
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+
+[Don’t worry about global population collapse](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+By F.D. Flam  
+
+  [![Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2023/10/11/255902.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Most projections show the world will hit peak humanity in the 21st century as people choose to have smaller families and women gain power over their own reproduction.")](https://www.japantimes.co.jp/commentary/2023/10/11/world/global-population-collapse/ "Don’t worry about global population collapse")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Toyoko Kids: The lonely street children of Tokyo](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/02/05/278962.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Many young people who feel neglected at home flock to the Toyoko area to find a community where they can fit in.")](https://www.japantimes.co.jp/news/2024/02/05/japan/society/toyoko-kids-tokyo-subculture/ "Toyoko Kids: The lonely street children of Tokyo")
 
 Podcast
 -------
@@ -209,9 +213,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Philippines ratifies key defense pact with Japan](https://www.japantimes.co.jp/news/2024/12/16/japan/philippines-ratify-japan-defense-pact/ "Philippines ratifies key defense pact with Japan")
+
+3 hours ago
+
+[Emperor and empress to attend Hanshin Quake Memorial on anniversary](https://www.japantimes.co.jp/news/2024/12/16/japan/emperor-empress-hanshin-earthquake/ "Emperor and empress to attend Hanshin Quake Memorial on anniversary")
+
+4 hours ago
+
+[DPP tax chief hints at termination of talks with Japan's ruling bloc](https://www.japantimes.co.jp/news/2024/12/16/japan/politics/dpp-tax-talks-terminate/ "DPP tax chief hints at termination of talks with Japan's ruling bloc")
+
+6 hours ago
+
 [Bashar Assad's prisoner #3006 tells his story](https://www.japantimes.co.jp/news/2024/12/16/world/assad-prisoner-no-3006-story/ "Bashar Assad's prisoner #3006 tells his story")
 
-28 mins ago
+6 hours ago
 
 [Finance Ministry official arrested over alleged 'upskirting' photo](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-official-upskirting-arrest/ "Finance Ministry official arrested over alleged 'upskirting' photo")
 
-38 mins ago
-
-[Extradition of India's Gautam Adani seems unlikely, experts say](https://www.japantimes.co.jp/business/2024/12/16/companies/us-india-adani-extradition/ "Extradition of India's Gautam Adani seems unlikely, experts say")
-
-50 mins ago
-
-[MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/mufg-hanzawa-safe/ "MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes")
-
-59 mins ago
-
-[Inside South Korea's right-wing YouTube world openly embraced by Yoon](https://www.japantimes.co.jp/news/2024/12/16/asia-pacific/politics/south-korea-right-wing-youtube-yoon/ "Inside South Korea's right-wing YouTube world openly embraced by Yoon")
-
-1 hour ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
