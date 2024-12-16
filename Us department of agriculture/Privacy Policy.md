@@ -641,6 +641,18 @@ Location Opting In: When a individuals opt in to background location tracking by
 Trending News and Updates
 -------------------------
 
+Press Release
+
+![](/themes/custom/usda_uswds/img/USDA_logo.png)
+
+[Biden-Harris Administration Continues to Deliver Affordable Clean Energy to Rural Americans as Part of Investing in America Agenda](https://www.usda.gov/article/biden-harris-administration-continues-deliver-affordable-clean-energy-rural-americans-part-investing)
+
+December 16, 2024
+
+U.S. Department of Agriculture (USDA) Secretary Tom Vilsack today announced $78.3 million in partially forgivable loans for clean energy projects through the Powering Affordable Clean Energy (PACE) program to help lower electricity bills for households.
+
+[Learn More](https://www.usda.gov/article/biden-harris-administration-continues-deliver-affordable-clean-energy-rural-americans-part-investing)
+
 Blog
 
 ![](/sites/default/files/styles/trending_card_768x603/public/52402700931-3dd5f88c47-k.jpg?itok=qcWJUgxi)
@@ -672,16 +684,6 @@ Press Release
 December 11, 2024
 
 [Learn More](https://www.usda.gov/article/usda-announces-two-prominent-speakers-2025-agricultural-outlook-forum-0)
-
-Press Release
-
-![](/sites/default/files/styles/trending_card_768x603/public/twitter-card-oc-updated.jpg?itok=NeFDU92W)
-
-[USDA Announces Two Prominent Speakers for the 2025 Agricultural Outlook Forum](https://www.usda.gov/article/usda-announces-two-prominent-speakers-2025-agricultural-outlook-forum)
-
-December 11, 2024
-
-[Learn More](https://www.usda.gov/article/usda-announces-two-prominent-speakers-2025-agricultural-outlook-forum)
 
 ### AskUSDA
 
