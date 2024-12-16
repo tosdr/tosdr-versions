@@ -790,7 +790,7 @@ SPIEGEL Gruppe
 * [Startseite](https://www.spiegel.de/ "Startseite")
 * [Schlagzeilen](https://www.spiegel.de/schlagzeilen/ "Schlagzeilen")
 * [Nahostkonflikt](https://www.spiegel.de/thema/nahostkonflikt/ "Nahostkonflikt")
-* [US-Wahl](https://www.spiegel.de/thema/us-praesidentschaftswahl-2024/ "US-Wahl")
+* [Bundestagswahl](https://www.spiegel.de/thema/bundestagswahl-2025/ "Bundestagswahl")
 * [Ukrainekrieg](https://www.spiegel.de/thema/ukraine_konflikt/ "Ukrainekrieg")
 * [Newsletter](https://www.spiegel.de/newsletter "Newsletter")
 * [Debatte](https://www.spiegel.de/debatten/ "Debatte")
