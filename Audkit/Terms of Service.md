@@ -69,6 +69,12 @@ If you have any questions about these terms of use, please feel free to contact 
 
 [![AudKit](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20122%2033'%3E%3C/svg%3E)](https://www.audkit.com/)
 
+Follow us
+
+* [youtube](https://www.youtube.com/channel/UCCGCLTfjXcYf9UcM35qETMg)
+* [Pinterest](https://www.pinterest.com/audkits/)
+* [twitter](https://twitter.com/audkit)
+
 * Products
     * [Spotify Music Converter](https://www.audkit.com/spotilab-music-converter.html)
     * [Tidal Music Converter](https://www.audkit.com/tidizer-music-converter.html)
@@ -87,5 +93,23 @@ If you have any questions about these terms of use, please feel free to contact 
     * [Contact Us](https://www.audkit.com/contact-us.html)
 
 Copyright © 2024 AudKit. All Rights Reserved.
+
+   [![special entrance](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%2090'%3E%3C/svg%3E)
+
+00
+
+DAYS
+
+00
+
+HRS
+
+00
+
+MINS
+
+00
+
+SECS](https://www.audkit.com/store.html?utm_source=audkit&utm_medium=banner&utm_campaign=audkitchristmas2024&utm_content=footer-menu)
 
 [](javascript:;)
