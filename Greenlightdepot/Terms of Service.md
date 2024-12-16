@@ -510,7 +510,7 @@ Monday - Friday 9am - 6pm EST
 Overview
 
 * [About Us](https://greenlightdepot.com/pages/about-us)
-* [Rebate Program](https://greenlightdepot.com/pages/encentivizer)
+* [Find Rebates](https://greenlightdepot.com/pages/find-rebates)
 * [Sitemap](https://greenlightdepot.com/sitemap.xml)
 * [Blogs](https://greenlightdepot.com/blogs/news)
 
@@ -518,7 +518,6 @@ Company Policies
 
 * [Privacy Policy](https://greenlightdepot.com/policies/privacy-policy)
 * [Return/Refund Policy](https://greenlightdepot.com/policies/refund-policy)
-* [Shipping Policy](https://greenlightdepot.com/)
 * [Terms of Services](https://greenlightdepot.com/policies/terms-of-service)
 
 Resources
