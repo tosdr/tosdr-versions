@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)3°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)2°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,14 +54,10 @@
 
 Thèmes du moment
 
-* [Catastrophe naturelle](https://www.watson.ch/fr/catastrophe-naturelle/)
-* [Syrie](https://www.watson.ch/fr/syrie/)
-* [Football](https://www.watson.ch/fr/football/)
-* [Hockey sur glace](https://www.watson.ch/fr/hockey-sur-glace/)
 * [Commentaire](https://www.watson.ch/fr/commentaire/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Israël](https://www.watson.ch/fr/israel/)
+* [Politique](https://www.watson.ch/fr/politique/)
 * [Technologie](https://www.watson.ch/fr/technologie/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Transports](https://www.watson.ch/fr/transports/)
 * [Interview](https://www.watson.ch/fr/interview/)
@@ -69,11 +65,15 @@ Thèmes du moment
 * [Allemagne](https://www.watson.ch/fr/allemagne/)
 * [Russie](https://www.watson.ch/fr/russie/)
 * [Chine](https://www.watson.ch/fr/chine/)
+* [ukraine](https://www.watson.ch/fr/ukraine/)
 * [drone](https://www.watson.ch/fr/drone/)
 * [Gaza](https://www.watson.ch/fr/gaza/)
-* [ukraine](https://www.watson.ch/fr/ukraine/)
-* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Politique](https://www.watson.ch/fr/politique/)
+* [Israël](https://www.watson.ch/fr/israel/)
+* [Football](https://www.watson.ch/fr/football/)
+* [Hockey sur glace](https://www.watson.ch/fr/hockey-sur-glace/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Syrie](https://www.watson.ch/fr/syrie/)
+* [Catastrophe naturelle](https://www.watson.ch/fr/catastrophe-naturelle/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
