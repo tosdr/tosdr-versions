@@ -6,7 +6,7 @@ Sections
 
 [60°
 
-![Cloudy](/pf/resources/images/weather/status-icons/26.png?d=949)](https://www.actionnewsjax.com/weather/)
+![Mist](/pf/resources/images/weather/status-icons/20.png?d=949)](https://www.actionnewsjax.com/weather/)
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
