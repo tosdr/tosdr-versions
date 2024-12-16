@@ -56,7 +56,19 @@
     
     By Emily Hutchinson [Read More](https://www.women.com/1730450/best-premiere-looks-2024-red-carpet/)
     
-* *  [![Gigi Hadid making a heart with her hands above her head](https://www.women.com/img/gallery/8-celebs-who-have-rocked-the-chic-flippy-bob/intro-1733769783.jpg)](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
+* *  [![Dakota Fanning posing at Cannes](https://www.women.com/img/gallery/dakota-fannings-stunning-style-transformation-through-the-years/intro-1733427041.jpg)](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+        
+        ### [Dakota Fanning's Stunning Style Transformation Through The Years](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
+        
+        Dakota Fanning has grown up under the public eye, with an impressive career, and an even more impressive style transformation along the way.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
+        
+    *  [![Gigi Hadid making a heart with her hands above her head](https://www.women.com/img/gallery/8-celebs-who-have-rocked-the-chic-flippy-bob/intro-1733769783.jpg)](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -68,22 +80,22 @@
         
         By Clementine Doyle [Read More](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
         
-    *  [![Sabrina Carpenter smiling and looking to the side](https://www.women.com/img/gallery/the-best-dating-advice-we-learned-from-sabrina-carpenter-songs/intro-1733761713.jpg)](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
-        
-        [Relationships](https://www.women.com/category/relationships/)
-        
-        [Relationships](https://www.women.com/category/relationships/) By Madison Emily Whisenand
-        
-        ### [The Best Dating Advice We Learned From Sabrina Carpenter Songs](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
-        
-        Aside from cheeky lyrics and catchy melodies, one of the things that makes Sabrina Carpenter's music so compelling is its diaristic element.
-        
-        By Madison Emily Whisenand [Read More](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
-        
 
 More Stories
 ------------
 
+*  [![Sabrina Carpenter smiling and looking to the side](https://www.women.com/img/gallery/the-best-dating-advice-we-learned-from-sabrina-carpenter-songs/intro-1733761713.jpg)](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Madison Emily Whisenand
+    
+    ### [The Best Dating Advice We Learned From Sabrina Carpenter Songs](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+    
+    Aside from cheeky lyrics and catchy melodies, one of the things that makes Sabrina Carpenter's music so compelling is its diaristic element.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+    
 *  [![A woman with winged eyeliner and pink lipstick](https://www.women.com/img/gallery/outdated-beauty-trends-to-leave-in-2024/intro-1733768782.jpg)](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -395,18 +407,6 @@ More Stories
     As thrilling as being engaged is, it might not feel quite right, and that's ok. Ending an engagement but not the relationship is possible, but it takes work.
     
     By Amanda Chatel [Read More](https://www.women.com/1718643/break-engagement-without-breaking-up/)
-    
-*  [![Lindsay Lohan in a cream-colored silk gown and matching coat](https://www.women.com/img/gallery/3-lindsay-lohan-outfits-that-give-hallie-parker-and-3-that-are-so-annie-james/intro-1732207776.jpg)](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Mila Williams
-    
-    ### [3 Lindsay Lohan Outfits That Give Hallie Parker (And 3 That Are So Annie James)](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
-    
-    As fabulous as her later projects are, Lindsay Lohan's looks, whether on the red carpet, during media tours, or on social media, channel the Parker twins.
-    
-    By Mila Williams [Read More](https://www.women.com/1719538/lindsay-lohan-outfits-hallie-parker-annie-james-the-parent-trap/)
     
 
 Back
