@@ -130,6 +130,12 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/confused-220x150.jpg)](https://www.conservativedailynews.com/2024/12/13-practical-tips-to-cut-pet-food-costs-without-sacrificing-quality/)
+    
+    [13 Practical Tips to Cut Pet Food Costs Without Sacrificing Quality](https://www.conservativedailynews.com/2024/12/13-practical-tips-to-cut-pet-food-costs-without-sacrificing-quality/)
+    
+    December 16, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2019/03/House-of-Representatives.jpg)](https://www.conservativedailynews.com/2024/12/house-republicans-finally-putting-the-squeeze-on-bloated-pentagon-budget/)
     
     [House Republicans Finally Putting The Squeeze On Bloated Pentagon Budget](https://www.conservativedailynews.com/2024/12/house-republicans-finally-putting-the-squeeze-on-bloated-pentagon-budget/)
@@ -172,15 +178,10 @@ Recent Posts
     
     December 15, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2016/02/gun-rights-unarmed-citizen-is-merely-a-subject.jpg)](https://www.conservativedailynews.com/2024/12/michigan-dems-rush-gun-control-through-state-legislature-ahead-of-republican-house-majority/)
-    
-    [Michigan Dems Rush Gun Control Through State Legislature Ahead Of Republican House Majority](https://www.conservativedailynews.com/2024/12/michigan-dems-rush-gun-control-through-state-legislature-ahead-of-republican-house-majority/)
-    
-    December 15, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Twisting Stoner’s Mouse Gun](https://www.thegunpage.com/twisting-stoners-mouse-gun/10612526)
 * [Michigan Dems Rush Gun Control Through State Legislature Ahead Of Republican House Majority](https://www.thegunpage.com/michigan-dems-rush-gun-control-through-state-legislature-ahead-of-republican-house-majority/10612523)
 * [Man With Guns And Explosives Planning A Church Attack Arrested In Texas](https://www.thegunpage.com/man-with-guns-and-explosives-planning-a-church-attack-arrested-in-texas/10612520)  
 * [Set Up Your Gear For Success](https://www.thegunpage.com/set-up-your-gear-for-success/10612518)
@@ -190,7 +191,6 @@ Recent Posts
 * [Lessons Learned: Therapy Can Help for Victims of Violent Attacks](https://www.thegunpage.com/lessons-learned-therapy-can-help-for-victims-of-violent-attacks/10612499)
 * [SIG Sauer P320 X-Five SXG For USPSA Carry Optics, Limited Optics](https://www.thegunpage.com/sig-sauer-p320-x-five-sxg-for-uspsa-carry-optics-limited-optics/10612498)
 * [The Russian RPL-20 Light Machine Gun](https://www.thegunpage.com/the-russian-rpl-20-light-machine-gun/10612497)
-* [POTD: The PZD Mk24 Light Machine Gun](https://www.thegunpage.com/potd-the-pzd-mk24-light-machine-gun/10612495)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
