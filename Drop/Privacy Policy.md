@@ -3,6 +3,16 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
+[12 Days of Christmas
+
+Unwrap a daily coupon for 12 days straight.
+
+REVEAL A GIFT
+
+_keyboard\_arrow\_right_](http://www.drop.com/featured/12-days-of-christmas)
+
+Free Standard Shipping in the US on orders over $99
+
 Free Standard Shipping in the US on orders over $99
 
 [Drop](https://drop.com/)
