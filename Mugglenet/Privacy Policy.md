@@ -338,15 +338,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-You do not get to choose your Animagus. You simply become the animal that you resemble most.
+“Pensieve” is made up of two words: French for “to think” (“penser”) and an English synonym of “strainer” (“sieve”). A Pensieve strains your thoughts!
 
 ### Potter History
 
-April 28, 2005 – It is announced that the Harry Potter and the Half-Blood Prince audio edition is to be released on August 25, 2005 in the United Kingdom. The American edition is set to be released in the United States and Canada on July 16, 2005.
+September 1, 1998 – Harry Potter and the Sorcerer’s Stone is published by Scholastic in the United States.
 
 ### Potter Quote
 
-“If you’d ever had the pleasure to teach him, you’d know Newt is not a great follower of orders.”
+“Just because you’ve got the emotional range of a teaspoon doesn’t mean we all have.”
 
 [](#)
 
