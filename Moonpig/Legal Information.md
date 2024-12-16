@@ -334,6 +334,7 @@ Menu
     * [White Wine](https://www.moonpig.com/uk/gifts/alcohol/virgin-wines/white/)
     * [Rosé Wine](https://www.moonpig.com/uk/gifts/alcohol/rose-wine/)
     * [Personalised Drinks](https://www.moonpig.com/uk/gifts/alcohol/personalised-alcohol/)
+    * [Personalised Fizz](https://www.moonpig.com/uk/gifts/alcohol/personalised-alcohol/fizz/)
     * [Spirits & Whiskey](https://www.moonpig.com/uk/gifts/alcohol/spirits-whiskey/)
     * [Beer & Cider](https://www.moonpig.com/uk/gifts/alcohol/beer-cider/)
     
