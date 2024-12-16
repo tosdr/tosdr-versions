@@ -2,7 +2,7 @@
 
 Previous
 
-[Enjoy 40% off select Complexion. Use code: **DAY8** at checkout.](https://www.bobbibrowncosmetics.com/advent-calendar-offers)
+[Enjoy free 2-day shipping on any order. Use code: **DAY9** at checkout.](https://www.bobbibrowncosmetics.com/products/14358/best-sellers)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
