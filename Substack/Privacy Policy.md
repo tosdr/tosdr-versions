@@ -66,7 +66,7 @@ Resources
 **Privacy Policy**
 ==================
 
-Last Updated: October 24th, 2024
+Last Updated: December 16, 2024
 
 **Changes in the Last Update**
 
