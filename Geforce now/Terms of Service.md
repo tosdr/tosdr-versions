@@ -313,7 +313,8 @@ Main Menu
         * [Telecommunications - Aerial](https://developer.nvidia.com/aerial-sdk)
     * Top SDKs and Libraries
         
-        * [Parallel Programming - CUDA Toolkit](https://developer.nvidia.com/cuda-zone)
+        * [Parallel Programming - CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit)
+        * [Developer Tools - Nsight Tools](https://developer.nvidia.com/tools-overview)
         * [Edge AI applications - Jetpack](https://developer.nvidia.com/embedded/jetpack)
         * [BlueField data processing - DOCA](https://developer.nvidia.com/networking/doca)
         * [Accelerated Libraries - CUDA-X Libraries](https://developer.nvidia.com/gpu-accelerated-libraries)
@@ -748,7 +749,8 @@ NVIDIA NVIDIA logo
             * [Telecommunications - Aerial](https://developer.nvidia.com/aerial-sdk)
         * Top SDKs and Libraries
             
-            * [Parallel Programming - CUDA Toolkit](https://developer.nvidia.com/cuda-zone)
+            * [Parallel Programming - CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit)
+            * [Developer Tools - Nsight Tools](https://developer.nvidia.com/tools-overview)
             * [Edge AI applications - Jetpack](https://developer.nvidia.com/embedded/jetpack)
             * [BlueField data processing - DOCA](https://developer.nvidia.com/networking/doca)
             * [Accelerated Libraries - CUDA-X Libraries](https://developer.nvidia.com/gpu-accelerated-libraries)
