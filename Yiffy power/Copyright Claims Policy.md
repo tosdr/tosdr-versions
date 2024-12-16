@@ -1,10 +1,10 @@
-[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAEEAQAAAACTwSOZAAAAAnRSTlMAAHaTzTgAAAA2SURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwK8Bf/gAAd5Jwp8AAAAASUVORK5CYII=)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
 
-![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAEEAQAAAACTwSOZAAAAAnRSTlMAAHaTzTgAAAA2SURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwK8Bf/gAAd5Jwp8AAAAASUVORK5CYII=)
+![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
 
-![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAEEAQAAAACTwSOZAAAAAnRSTlMAAHaTzTgAAAA2SURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwK8Bf/gAAd5Jwp8AAAAASUVORK5CYII=)
+![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
 
-![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA+gAAAEEAQAAAACTwSOZAAAAAnRSTlMAAHaTzTgAAAA2SURBVHja7cEBAQAAAIIg/69uSEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwK8Bf/gAAd5Jwp8AAAAASUVORK5CYII=)
+![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201000%20260'%3E%3C/svg%3E)
 
 ![](https://yiff-party.com/wp-content/uploads/2022/12/Yiff-Party-1.6.png)](https://yiff-party.com/)
 
@@ -75,7 +75,7 @@ Latest commented posts
 
 [queen bee-lzebub and vortex (helluva boss and etc) created by pinkaxolotl](https://yiff-party.com/yiff/queen-bee-lzebub-and-vortex-helluva-boss-and-etc-created-by-pinkaxolotl/)
 
-0 359 2
+0 369 2
 
 December 3, 2024
 
@@ -91,7 +91,7 @@ November 18, 2024
 
 [affax created by eihman and fumiko](https://yiff-party.com/yiff/affax-created-by-eihman-and-fumiko/)
 
-0 546 1
+0 558 1
 
 November 27, 2024
 
@@ -99,7 +99,7 @@ November 27, 2024
 
 [created by k0 bemy](https://yiff-party.com/yiff-gif/created-by-k0-bemy/)
 
-0 350 1
+0 358 1
 
 December 5, 2024
 
