@@ -442,12 +442,12 @@ Popular Stories
 * [![Android](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Russian cyberspies target Android users with new spyware](https://www.bleepingcomputer.com/news/security/russian-cyberspies-target-android-users-with-new-spyware/)
-* [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    New stealthy Pumakit Linux rootkit malware spotted in the wild](https://www.bleepingcomputer.com/news/security/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
 * [![Retro Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     390,000 WordPress accounts stolen from hackers in supply chain attack](https://www.bleepingcomputer.com/news/security/390-000-wordpress-accounts-stolen-from-hackers-in-supply-chain-attack/)
+* [![Citrix](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Citrix shares mitigations for ongoing Netscaler password spray attacks](https://www.bleepingcomputer.com/news/security/citrix-shares-mitigations-for-ongoing-netscaler-password-spray-attacks/)
 
 ##### Follow us:
 
