@@ -68,11 +68,17 @@ You agree to defend, indemnify, and hold harmless Poll Everywhere, its affiliate
 
 ### 9\. TERMINATION
 
-(a) Termination by You: You may terminate your Account at any time.
+(a) Initial Term: If you have entered into an Order Form with Poll Everywhere for the Service, the initial term of these Terms of Service as applicable to the Order Form will be for the Service Term specified in the Order Form.
 
-(b) Suspension or Termination by Poll Everywhere: Poll Everywhere, in its sole discretion, has the right to suspend or terminate your Account and your access to the Service, for any reason at any time, including without limitation for any violation of these Terms of Service.
+(b) Renewal Terms: If you have entered into an Order Form with Poll Everywhere for the Service, the Service Term will automatically renew for successive Service Terms equal to the Service Term specified in the Order Form unless either party gives the other party written notice of non-renewal at least sixty (60) days prior to the expiration of the then-current Service Term, subject to subsection (c) below.
 
-(c) Consequences of Termination: Any termination of your Account will result in the deletion of your Account and its User Content, and the termination of your access to the Service.
+(c) Notice of Renewal: If you have entered into an Order Form with Poll Everywhere for the Service in your individual capacity for an initial Service Term of one (1) year or longer, Poll Everywhere will provide you with written notice at least fifteen (15) days and not more than forty-five (45) days before the renewal term begins. You may cancel the automatic renewal before it becomes effective by providing written notice to Poll Everywhere at support@polleverywhere.com.
+
+(d) Termination by You: You may terminate your Account at any time.
+
+(e) Suspension or Termination by Poll Everywhere: Poll Everywhere, in its sole discretion, has the right to suspend or terminate your Account and your access to the Service, for any reason at any time, including without limitation for any violation of these Terms of Service.
+
+(f) Consequences of Termination: Any termination of your Account will result in the deletion of your Account and its User Content, and the termination of your access to the Service.
 
 ### 10\. GENERAL
 
