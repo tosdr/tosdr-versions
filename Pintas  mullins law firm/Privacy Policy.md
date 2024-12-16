@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is there a statute of limitations for talcum powder lawsuits?](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-is-there-a-statute-of-limitations-for-talcum-powder-lawsuits.jpg "Is There a Statute of Limitations for Talcum Powder Lawsuits?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/statute-of-limitations "Is There a Statute of Limitations for Talcum Powder Lawsuits?")
+[![What are the signs of emotional abuse in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-signs-of-emotional-abuse-in-nursing-homes-scaled.jpg "What Are the Signs of Emotional Abuse in Nursing Homes?")](https://www.pintas.com/faq/what-are-the-signs-of-emotional-abuse-in-nursing-homes/ "What Are the Signs of Emotional Abuse in Nursing Homes?")
 
-[#### Is There a Statute of Limitations for Talcum Powder Lawsuits?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/statute-of-limitations)
+[#### What Are the Signs of Emotional Abuse in Nursing Homes?](https://www.pintas.com/faq/what-are-the-signs-of-emotional-abuse-in-nursing-homes/)
 
-[![What is advanced mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-what-is-advanced-mesothelioma-scaled.jpg "What Is Advanced Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/what-is-advanced-mesothelioma "What Is Advanced Mesothelioma?")
+[![How long do you have to file a lawsuit against a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home-scaled.jpg "How Long Do You Have to File a Lawsuit Against a Nursing Home?")](https://www.pintas.com/faq/how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home/ "How Long Do You Have to File a Lawsuit Against a Nursing Home?")
 
-[#### What Is Advanced Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/what-is-advanced-mesothelioma)
+[#### How Long Do You Have to File a Lawsuit Against a Nursing Home?](https://www.pintas.com/faq/how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home/)
 
-[![Can asbestos cause lung nodules?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-can-asbestos-cause-lung-nodules-scaled.jpg "Can Asbestos Cause Lung Nodules?")](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-lung-nodules/ "Can Asbestos Cause Lung Nodules?")
+[![How common is elder abuse in memory care facilities?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-how-common-is-elder-abuse-in-memory-care-facilities-300x200.jpg "How Common Is Elder Abuse in Memory Care Facilities?")](https://www.pintas.com/faq/how-common-is-elder-abuse-in-memory-care-facilities/ "How Common Is Elder Abuse in Memory Care Facilities?")
 
-[#### Can Asbestos Cause Lung Nodules?](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-lung-nodules/)
+[#### How Common Is Elder Abuse in Memory Care Facilities?](https://www.pintas.com/faq/how-common-is-elder-abuse-in-memory-care-facilities/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
