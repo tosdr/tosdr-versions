@@ -24,7 +24,7 @@
             * [Parchment Award K-12](https://www.parchment.com/platform/k-12/award-k-12/)
             * [Diploma Services](https://www.parchment.com/platform/k-12/diploma-services/)
             * [Records Digitization](https://www.parchment.com/platform/k-12/records-digitization/)
-            * [District Transfer](https://www.parchment.com/platform/k-12/#district-transfer)
+            * [District Transfer](https://www.parchment.com/platform/k-12/k-12-district-transfer/)
         * [SENDedu
             
             Help students complete their applications faster with SENDedu powered by Parchment](https://www.parchment.com/platform/sendedu-powered-by-parchment/)
