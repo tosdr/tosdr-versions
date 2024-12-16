@@ -72,6 +72,14 @@ Country UK AU & NZ SG MY US IE
     
     Latest News
     
+    ![](/media/322d15ow/7-magic-breakfast-1.jpg?rxy=0.5413029161190986,0.4241398759165257&width=300&height=295&v=1db4fc1aa958650)
+    
+    Posted 16th December 2024
+    
+    The Access Foundation donates £2.18m over last financial year, helping to address digital poverty
+    
+    [Read article on The Access Foundation donates £2.18m over last financial year, helping to address digital poverty](https://www.theaccessgroup.com/en-gb/about/news/the-access-foundation-donates-218m-over-last-financial-year-helping-to-address-digital-poverty/)
+    
     ![](/media/tchdpgk1/screenshot-2024-12-05-130556.png?width=300&height=295&v=1db4705d3ff63e0)
     
     Posted 5th December 2024
