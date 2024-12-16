@@ -31,6 +31,174 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La reforma ‘no más camisetazos’ sacude a la Asamblea Nacional
+=============================================================
+
+La Asamblea Nacional aprobó una reforma para evitar los llamados camisetazos, para recuperar la confianza de los ciudadanos.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Sesión del Pleno de la Asamblea.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T151922.253.jpg)
+
+La reciente aprobación de **reformas** a la Ley Orgánica de la Función Legislativa por parte del Parlamento marca un hito en la política ecuatoriana con respecto a los camisetazos en la Asamblea Nacional. La decisión, que incluye sanciones contra el **transfuguismo** político y modificaciones al proceso de juicio político, plantea, a pesar de todo, interrogantes sobre su impacto real en el sistema legislativo del país[.](https://es.wikipedia.org/wiki/Asamblea_Nacional_del_Ecuador "https://es.wikipedia.org/wiki/Asamblea_Nacional_del_Ecuador")
+
+El transfuguismo, coloquialmente conocido como los ‘**camisetazos**’, ha sido una constante que ha mermado la confianza ciudadana en las instituciones democráticas. Cuando un legislador cambia de partido o abandona las decisiones de su bancada, traiciona no solo a su **organización**, sino también a los votantes que depositaron su confianza en un proyecto político. Las reformas aprobadas por la Asamblea imponen **sanciones** como la suspensión sin remuneración de hasta 90 días. Aunque algunos sectores reclamaban la pérdida inmediata de la curul, este paso representa un intento significativo de frenar una práctica que ha debilitado la **gobernabilidad**.
+
+> La aprobación de estas reformas representa un esfuerzo por fortalecer la institucionalidad en nuestro país. Pero también plantea interrogantes sobre su aplicación y las posibles distorsiones que puedan surgir en el camino.
+
+No obstante, las **críticas** no se han hecho esperar. La oposición denuncia que estas medidas podrían ser usadas como un arma para **disciplinar** a legisladores que cuestionen las decisiones de sus partidos, limitando la diversidad de criterios en el debate parlamentario. Aquí surge una **preocupación** legítima: ¿será posible encontrar un equilibrio entre la **lealtad partidista y la representación auténtica** de las necesidades de los ciudadanos?
+
+El **juicio político**, herramienta clave para la fiscalización de autoridades, también se ve modificado. La nueva normativa permite que un legislador desista de una solicitud antes de que la Comisión de Fiscalización califique el trámite. Este cambio busca evitar **el uso indiscriminado** de los juicios políticos como mecanismos de presión o chantaje, una práctica que ha desgastado el **trabajo legislativo** y desviado la atención de temas prioritarios.
+
+Sin embargo, la efectividad de estas modificaciones dependerá de su aplicación. La experiencia demuestra que las leyes, por más bien intencionadas que sean, pueden convertirse en letra muerta si no existen instituciones capaces de garantizar su cumplimiento. Además, será crucial que estas reformas no obstaculicen la capacidad del Parlamento para exigir cuentas a quienes ostentan el poder.
+
+Otro aspecto destacado es la inclusión de **mecanismos de participación ciudadana**, como consultas prelegislativas y mesas itinerantes. Estas herramientas prometen acercar a los ciudadanos a la toma de decisiones. Sin embargo, la efectividad de estas **iniciativas** dependerá de cómo se implementen. La historia reciente muestra que muchas veces estas instancias terminan siendo procedimientos meramente formales, sin impacto real en las **decisiones** finales.
+
+La aprobación de estas [reformas](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-aprobo-reformas-para-sancionar-camisetazos.html "https://www.elcomercio.com/actualidad/politica/asamblea-nacional-aprobo-reformas-para-sancionar-camisetazos.html") representa un esfuerzo por fortalecer la institucionalidad en nuestro país. Pero también plantea interrogantes sobre su aplicación y las posibles **distorsiones** que puedan surgir en el camino. Si bien estas medidas buscan **restaurar la confianza** en la Asamblea Nacional, el verdadero reto radica en que los legisladores demuestren, con hechos, que están comprometidos con un cambio profundo en la forma de hacer **política**.
+
+En un país donde el **escepticismo** hacia la clase política está profundamente arraigado, estas reformas representan una oportunidad para reconstruir la legitimidad perdida. Pero para que esta oportunidad no se convierta en una más entre tantas promesas incumplidas, será indispensable una vigilancia activa por parte de los ciudadanos y un **compromiso real de los actores políticos**. Solo así se podrá garantizar que las leyes aprobadas sean un instrumento para el cambio y no un simple gesto simbólico destinado a acallar críticas momentáneas.
+
+Cartas a Quito / 16 de diciembre de 2024
+========================================
+
+Estas son las cartas a Quito de este lunes 16 de diciembre de 2024
+------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+De cara a las elecciones
+------------------------
+
+Los delincuentes que fungen de políticos, impulsados por la mafia, arremeten incansable y brutalmente a través de sus operadores en contra del orden establecido, recurren a métodos sanguinarios como: sicariatos, secuestros, extorsiones, incendios, sabotajes, etc., para mantener subyugada y aterrorizada a la población. Todo esto es posible, con la connivencia de asambleístas, fiscales y jueces corruptos que se confabulan para a favorecer a los enemigos del país, que atentan diariamente contra la vida, el patrimonio y la seguridad de los ciudadanos, cumpliendo consignas del “prófugo del ático” o “caco mayor”, y de poderosos delincuentes que, estando dentro o fuera del país, complotan tras bastidores.
+
+Tenemos tras las rejas a Glass, Pólit, Celi, Muentes, Terán, y en libertad al facineroso Iza (quien, no obstante, la rebuscada amnistía concedida por la Asamblea, continúa en deuda con la justicia y especialmente con Quito. El correismo y sus socios persisten en provocar el descalabro de la débil democracia del país, en su añorado afán de retomar el poder, a como dé lugar.
+
+Los ecuatorianos de bien, vemos con inmenso repudio la actitud de los partidos opositores al Gobierno, que, en razón de no contar con gente prestante, recurren a descalificados y serviles “coidearios”, para conformar sus cuadros políticos, sin que estos exhiban la más mínima idea de cómo diseñar o por lo menos esbozar un plan de gobierno para gestionar la crisis económica y social (causada por los desmanes del correísmo). La vicepresidente (actualmente suspendida y con reemplazo) cree tener en sus manos la varita mágica que le hará posible llegar al poder; se la percibe con aires de importancia y de actriz principal de este sainete, cuando en realidad le falta todo para aspirar a tomar las riendas del país.
+
+Es fundamental apoyar al presidente Noboa, quien, no obstante, el permanente boicot de la Asamblea y otros enemigos del país, y por el relativo corto tiempo de su período, ha demostrado capacidad y decisión para estabilizar y proyectar las cuentas públicas y combatir a la delincuencia organizada. La gestión realizada le ha merecido el reconocimiento de las mayorías, aspecto que le otorga las mejores posibilidades en las elecciones del 2025. Su triunfo, además, contaría con el beneplácito de la comunidad internacional, que reconoce su inmenso esfuerzo y logros alcanzados. 
+
+Leonardo Cueva Piedra
+
+Odiadores
+=========
+
+Un gobierno que encubrió corrupción y abusos con propaganda, dejando un país dividido entre fanatismo y defensa democrática.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
+
+“Cuando uno busca tan extremadamente los medios de hacerse temer, encuentra antes siempre el medio de odiar” Montesquieu. “**Nuestras peores debilidades y bajezas** las solemos cometer por causa de las gentes a quienes más despreciamos” Charles Dickens.
+
+Sorprende a la gente, bien intencionada, haberse percatado tardíamente que fue engañada, cuando se presentó públicamente la impactante **estrategia política**, de “mentes lúcidas, manos limpias y corazones ardientes” que fue captada inocentemente por una gran mayoría ciudadana; desgraciadamente esos tres engañosos versos no fueron más que la epidermis de un obeso **organismo gubernamental,** cuyas entrañas escondían planes preconcebidos para asaltar y aprovecharse de robustos presupuestos de gigantescas obras y de los más variados negocios en **construcciones, convenios y contratos.**
+
+A pesar del acompañamiento atosigante de una muy costosa y permanente **propaganda expuesta en medios visuales** y en **frecuentes asambleas**, que iniciaban con una marcha marcial que relegaba al himno nacional.
+
+Inesperadamente y al comienzo, en medio de **dudas e incredulidad**, periodistas de investigación y ciudadanos bien informados, algunos testigos de reuniones en las que se fraguaron ilícitos, hasta con **trascendencia internacional**, superaron el temor con el que la **masiva prepotencia gubernamental** de ese largo período, atemorizaba a la colectividad y presentaron denuncias valientes y patrióticas. Apareció una oposición decidida con acciones orientadas a frenar la inmensa serie de abusos que **afectaron a todas las áreas: profesionales** (se canceló a médicos experimentados y se los cambió por tecnólogos cubanos), suspendieron organizaciones gremiales, atacaron a **comunidades campesinas**, a jóvenes rebeldes,  se apoderaron de los ahorros del seguro particular de los profesores, comercializaron en condiciones desventajosas para el país el petróleo, a cambio de onerosos préstamos chinos y a cada denunciante le persiguieron con odio desbordante y cruel, no dudaron en suspender y amenazar con **juicio y prisión** a la dirigente de los profesores Mary Zamora, injuriaron con ruindad y patanería a la indígena  Lourdes Tibán y la Legisladora Cyntia Viteri, persiguieron cuáles hienas hambrientas al periodista Fernando Villavicencio, al legislador Kléver Jiménez y al médico Dr. Carlos Figueroa, los buscaron en sus hogares y rompieron la intimidad familiar, sin respetar a niños y mujeres. Persiguieron al periodista Emilio Palacio, al cantautor Jaime Guevara, secuestraron al denunciante Fernando Balda, no se descubrió quiénes fueron los culpables de los asesinatos del general Jorge Gabela, de Quinto Pazmiño y de su esposa. El odio desmedido, acrecentado por **prepotencia y sobrevaloración**, fue la expresión común de ese gobierno que se inventó un drama de auto insurrección que fue el pretexto para dar de baja a muchos policías, destruir sus carreras y sus familias. Los ejemplos abundan y necesitan mucha tinta y muchas hojas para poder ser señalados todos; pero no podemos dejar de destacar la irresponsable muestra de odio permitida por la municipalidad, en los festejos de la capital, con **demostraciones soeces de irrespeto y vulgaridad**.
+
+Es inadmisible constatar que, pese a estas evidencias, hay grupos de fanáticos que, cerrados y enceguecidos, se niegan a ver la verdad, ¿prima la ignorancia o la estupidez? El país debe escoger entre los verdaderos odiadores corruptos y los defensores de la democracia y la honestidad. ¿Quiénes son los odiadores?
+
+Verónica Abad tiene tres escenarios para su acción de protección
+================================================================
+
+Verónica Abad enfrenta tres escenarios en su acción de protección: nulidad total, reducción de sanción o rechazo total.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Audiencia](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T113140.902.jpg)
+
+La **vicepresidenta de la República, Verónica Abad**, asistió el pasado miércoles a la audiencia de acción de protección que interpuso para solicitar el archivo de la sanción que la suspende de su cargo por **150 días**. La reinstalación de la audiencia inició a las 09:00 bajo la conducción de la **jueza Nubia Vera**.
+
+### Más noticias
+
+* [Verónica Abad y su revés en la Corte Constitucional, ¿qué recursos le quedan?](https://www.elcomercio.com/actualidad/politica/veronica-abad-reves-corte-consitucional-que-recursos-quedan.html "Verónica Abad y su revés en la Corte Constitucional, ¿qué recursos le quedan?")
+* [Verónica Abad tiene nueva fecha de audiencia sobre su acción de protección](https://www.elcomercio.com/actualidad/politica/veronica-abad-enfrenta-decision-judicial-accion-proteccion.html "Verónica Abad tiene nueva fecha de audiencia sobre su acción de protección")
+* [Audiencia de acción de protección de Verónica Abad nuevamente cambió de fecha](https://www.elcomercio.com/actualidad/politica/veronica-abad-audiencia-suspension.html "Audiencia de acción de protección de Verónica Abad nuevamente cambió de fecha")
+
+La audiencia **continuará este 16 de diciembre a las 09:00**, con la advertencia de **evitar nuevas dilaciones**.
+
+En la sesión, se retomaron las intervenciones de los juristas que actúan como _**amicus curiae**_. Carlos Alcívar argumentó que el **Ministerio de Trabajo** carecía de competencia para emitir el acto administrativo contra Abad, señalando que esto podría constituir un **vicio de nulidad**.
+
+Por su parte, **Tanya Torres**, docente de **Derechos Humanos**, hizo un llamado a abordar el caso desde una perspectiva de derechos humanos, considerando las barreras **históricas y sociales que enfrentan las mujeres**.
+
+La ministra de Trabajo, Ivonne Núñez, participó de manera virtual y **aclaró que no respaldará a Ruth Espinoza, directora de Recursos y Sumarios Administrativos**, quien figura como legitimada activa en el caso. Núñez aseguró que su rol en la audiencia es exclusivamente como representante del Ministerio de Trabajo.
+
+Cerca del mediodía, la jueza Vera **suspendió la audiencia tras un pedido de la defensa de Abad, quienes señalaron que el expediente había crecido de siete a 17 cuerpos**, lo que dificultó su revisión en el tiempo asignado. Además, solicitaron información adicional sobre una consulta elevada a la Corte Constitucional relacionada con el caso, lo que también fue aprobado por la jueza.
+
+Verónica Abad y tres escenarios para su acción de protección
+------------------------------------------------------------
+
+Verónica Abad se encuentra en un proceso legal relacionado con su acción de protección contra la sanción administrativa impuesta por el Ministerio de Trabajo.
+
+Según las declaraciones de dos abogados expertos en derecho constitucional, Esteban Ron y Edison Guarango, se delinean tres posibles escenarios respecto a esta situación.
+
+Los tres escenarios, según Esteban Ron, experto en derecho constitucional
+-------------------------------------------------------------------------
+
+1. **Escenario favorable**: Si la jueza falla a favor de Abad, se declararía nulo el sumario administrativo. Esto significaría que la sanción sería considerada nula, lo que restituiría a Abad en su calidad de servidora pública y vicepresidenta. Sin embargo, quedaría pendiente si el presidente Daniel Noboa decide ratificar su delegación como embajadora.
+2. **Escenario intermedio**: La jueza podría optar por declarar una nulidad parcial, es decir, no acatar el procedimiento en su totalidad, sino cuestionar el fondo del asunto. En este caso, podría determinar que la sanción impuesta es desproporcionada y reducir el período de suspensión a menos de 150 días.
+3. **Escenario desfavorable**: Si la acción de protección es negada, la sanción de 150 días se mantendría vigente. En este escenario, ambas partes tendrían la opción de apelar la decisión ante la Corte Provincial.
+
+Posibles escenarios que enfrentaría Verónica Abad
+-------------------------------------------------
+
+Guarango señala que si la **jueza falla a favor de Abad**, esto implicaría que la resolución carecería de validez, permitiendo su reintegro al cargo de vicepresidenta.
+
+Además, menciona que, dentro del marco de las acciones de protección, el juez puede dictar diversas medidas de reparación. Explica que así está establecido en la **Ley de Garantías Jurisdiccionales y Control Institucional**.
+
+En caso de un fallo en contra, se seguiría el **mismo procedimiento que en la primera acción de protección** ante la **Corte Provincial**. Si esta también resulta desfavorable, Abad aún tendría la opción de presentar una acción extraordinaria de protección.
+
+Ambas partes pueden apelar las decisiones, pero con **efectos suspensivos**. Es decir, si se falla a favor de Abad, esa decisión debe cumplirse inmediatamente a pesar de cualquier apelación posterior.
+
+Ambos abogados destacan la **importancia del desenlace de esta acción judicial** y sus repercusiones para Verónica Abad en su rol político actual.
+
+Noboa y Alvarez, en nueva pugna por el caso Triple A
+====================================================
+
+La formulación de cargos de parte de la Fiscalía en el caso Triple A, desató una nueva batalla en X entre Aquiles Álvarez y Daniel Noboa.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![El presidente Daniel Noboa y el alcalde de Guayaquil, Aquiles Álvarez, protagonizaron un nuevo enfrentamiento político en la red social X.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-3.jpg)
+
+El caso **Triple A** escala aún más en la esfera política ecuatoriana. La **formulación de cargos** realizada por la **Fiscalía**, el 14 de diciembre de 2024, colocó al **presidente** de la República, **Daniel Noboa**, y al **alcalde** de **Guayaquil**, **Aquiles Alvarez**, en un nuevo enfrentamiento público. Las declaraciones cruzadas entre ambas figuras se desarrollaron principalmente a través de la red social X.
+
+### Más noticias
+
+* [Noboa y Petro acuerdan en Galápagos fortalecer cooperación en frontera Ecuador y Colombia](https://www.elcomercio.com/actualidad/daniel-noboa-gustavo-petro.html "Noboa y Petro acuerdan en Galápagos fortalecer cooperación en frontera Ecuador y Colombia")
+* [Aumento de penas a niños en Ecuador marca debate en Asamblea y Unicef](https://www.elcomercio.com/actualidad/seguridad/aumento-penas-menores-ecuador-asamblea-unicef-derechos.html "Aumento de penas a niños en Ecuador marca debate en Asamblea y Unicef")
+* [Navidad en Ecuador, tradiciones, eventos y gastronomía que impulsan el turismo local](https://www.elcomercio.com/actualidad/ecuador/navidad-ecuador-lugares-turismo-gastronomia.html "Navidad en Ecuador, tradiciones, eventos y gastronomía que impulsan el turismo local")
+
+Formulación de cargos en caso Triple A
+--------------------------------------
+
+El 14 de diciembre, la **Fiscalía General del Estado** informó que **formuló cargos** contra **cinco personas naturales** en el caso Triple A. Además, hay **cinco personas jurídicas** relacionadas con el caso. Entre los acusados figuran Fernando V., José C., Lady C., Jessenia V. y Carolina T. También están las empresas Fuelcorp S. A., Copedesa S. A., Corpalubri S. A., Ternape Petroleum S. A. e Indudiesel S. A.
+
+Según la **Fiscalía**, las imputaciones se fundamentan en “los elementos de convicción recabados” durante la **investigación**. Sin embargo, la audiencia de formulación de cargos fue suspendida por el juez del caso y se **reanudará** el **lunes 16 de diciembre, a las 14:00.** En esa sesión, las **defensas** de los procesados tendrán la oportunidad de **pronunciarse** sobre las **medidas** solicitadas por la Fiscalía.
+
+Aunque **Aquiles Álvarez** **no figura** directamente entre los acusados, está bajo escrutinio, lo que ha desencadenado un intenso debate público y político.
+
+La pugna entre Noboa y Alvarez
+------------------------------
+
+La **pugna** entre Noboa y Álvarez se **intensificó** el mismo día de la formulación de cargos. El presidente Daniel Noboa publicó en su cuenta de X: “Según lo que formuló la Fiscalía, **Copedesa** vendió más de 7 millones de galones a una estación con capacidad para cerca de 10 mil galones. En el Ecuador nos hemos acostumbrado a que prácticas que deberían espeluznarnos sean parte de la cotidianidad”.
+
+En su mensaje, Noboa también señaló al **“municipio correísta de Guayaquil”**, aludiendo a que este finalmente habría enfrentado a la justicia. Agregó que este caso representa solo el inicio de una serie de investigaciones relacionadas con irregularidades financieras y administrativas en el gobierno local[.](https://es.wikipedia.org/wiki/Presidente_del_Ecuador "https://es.wikipedia.org/wiki/Presidente_del_Ecuador")
+
+> Hoy, la Fiscalía determinó que COPEDESA vendió más de 7 millones de galones a una estación con capacidad para cerca de 10 mil galones. En el Ecuador, nos hemos acostumbrado a que prácticas que deberían espeluznarnos sean parte de la cotidianidad. Un secreto a voces que nadie…
+> 
+> — Daniel Noboa Azin (@DanielNoboaOk) [December 15, 2024](https://twitter.com/DanielNoboaOk/status/1868123660185186636?ref_src=twsrc%5Etfw)
+
+La **respuesta** del alcalde **Álvarez** no se hizo esperar. Desde su cuenta de X, criticó duramente al Presidente: “Un **Fiscal** al servicio de tus perversos requerimientos; el mismo Fiscal que usaste para perseguir a la familia de tu exesposa y al hijo de la vicepresidenta **Abad**. Hoy se instaló la audiencia de formulación de cargos sin sustento y sin pruebas, al puro estilo noboísta: del show, del escándalo, del invento”.
+
+Además, Álvarez **negó cualquier implicación directa** en las gasolineras investigadas, afirmando que estas son “**afiliadas**” y no de su propiedad. En este sentido, Álvarez **pidió una investigación** más amplia que incluya a otras estaciones, mencionando específicamente a **PETRONOBOA** S. A., una empresa vinculada a **Santiago Noboa**, hermano del presidente.
+
+> Un fiscal al servicio de tus perversos requerimientos; el mismo fiscal que usaste para perseguir a la familia de tu exesposa y al hijo de la vicepresidenta Abad.  
+>   
+> Hoy se instaló la audiencia de formulación de cargos, sin sustento y sin pruebas, al puro estilo noboísta: del show,… [https://t.co/ugqVsfpG5p](https://t.co/ugqVsfpG5p)
+> 
+> — Aquiles Alvarez Henriques (@aquilesalvarez) [December 15, 2024](https://twitter.com/aquilesalvarez/status/1868144587899887949?ref_src=twsrc%5Etfw)
+
+“Mientras usted **busca ganar puntos** con ataques infundados, nosotros seguimos trabajando por Guayaquil. No politice la justicia. Respete a nuestra ciudad y a su gente”, dijo Álvarez.
+
+Noboa, por su parte, dijo que “esto **no es persecución** a una persona o institución. Es indignación al ver que, en la ciudad donde crecí, afecten a todos los guayaquileños por culpa de un municipio indolente”.
+
 La Sobremesa, con Juan Pablo Holguín: el rescate de la comida casera
 ====================================================================
 
@@ -788,234 +956,3 @@ Descubre las historias de mujeres ecuatorianas que rompieron el silencio frente 
 Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Contraloría investigará la contratación de generadores eléctricos
-=================================================================
-
-La Contraloría informó sobre el inicio de un examen especial para analizar las fases relacionadas con la adquisición de los generadores.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![Ecuador recibió un total de 23 generadores estacionarios en el puerto de Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/12/Generadores.jpg)
-
-La **Contraloría General** del Estado emitió un comunicado el 15 de diciembre sobre las acciones de control realizadas a los contratos emergentes de **CELEC EP** en el marco de la declaratoria de emergencia del sector eléctrico[.](https://es.wikipedia.org/wiki/Generador_el%C3%A9ctrico "https://es.wikipedia.org/wiki/Generador_el%C3%A9ctrico")
-
-Más noticias
-------------
-
-* [Gobierno toma acciones contra Progen por retrasos en generadores eléctricos](https://www.elcomercio.com/actualidad/negocios/gobierno-toma-acciones-contra-progen-retrasos-entrega-generadores.html "Gobierno toma acciones contra Progen por retrasos en generadores eléctricos")
-* [Dos generadores eléctricos de 600 kW llegaron a Quito, ¿en qué se los utilizará?](https://www.elcomercio.com/actualidad/quito/generadores-electricos-quito-agua.html "Dos generadores eléctricos de 600 kW llegaron a Quito, ¿en qué se los utilizará?")
-* [Compensación del consumo energético, ¿ya se refleja este beneficio en la planilla de luz?](https://www.elcomercio.com/actualidad/ecuador/compensacion-consumo-energetico-refleja-beneficio-planilla-luz.html "Compensación del consumo energético, ¿ya se refleja este beneficio en la planilla de luz?")
-
-Según el comunicado, el organismo inició un **examen** **especial** para analizar las fases precontractual, contractual, ejecución y pago de los contratos relacionados con la “**Contratación** **Emergente** de Generación Terrestre en **Salitral**” y “**Contratación** **Emergente** de Generación Terrestre en **Quevedo**“.
-
-Finalidad de los contratos examinados por la Contraloría
---------------------------------------------------------
-
-Estos contratos, firmados bajo el Acuerdo Ministerial MEM-MEM-2024-0005-AM, buscan mitigar la **crisis** **energética** del **Ecuador**.
-
-Sin embargo, el **Ministerio** de **Energía** identificó múltiples incumplimientos por parte de **Progen**, la empresa contratada para suministrar **generadores** **eléctricos**, lo que dificulta la ejecución de estos proyectos clave.
-
-> 📰 [#Boletín](https://twitter.com/hashtag/Bolet%C3%ADn?src=hash&ref_src=twsrc%5Etfw) | La Contraloría inició un examen especial a procesos de contratación en el sector eléctrico, efectuados en el marco de la declaratoria de emergencia.  
->   
-> 🔗 Más información ▶️ [https://t.co/VVQpB18CL8](https://t.co/VVQpB18CL8) [pic.twitter.com/JqCUzRFExd](https://t.co/JqCUzRFExd)
-> 
-> — Contraloría Ecuador (@ContraloriaECU) [December 15, 2024](https://twitter.com/ContraloriaECU/status/1868149251647459389?ref_src=twsrc%5Etfw)
-
-Irregularidades en Salitral y Quevedo
--------------------------------------
-
-En **Salitral**, ubicado en **Guayas** y con una capacidad de 100 megavatios (MW), **Progen** entregó 23 turbinas, pero faltan seis.
-
-Además, no se han recibido **componentes** **críticos** como tableros de control, transformadores de elevación y sistemas electrógenos. Estos elementos transforman la energía generada a voltajes adecuados para su **distribución**.
-
-El **Ministerio** de **Energía** indicó que los transformadores requeridos supuestamente se fabrican en **China** y **Estados** **Unidos**, aunque su origen y estado no han sido confirmados, según declaraciones de la ministra encargada de Energía, Inés Manzano, en Radio Centro.
-
-En **Quevedo**, **Los** **Ríos**, con una capacidad de 50 MW, la situación es más crítica. **Progen** no entregó los equipos ni realizó los pagos iniciales, lo que generó la emisión de notificaciones formales de **incumplimiento**, según el Ministerio.
-
-Negativa a inspecciones y falta de transparencia
-------------------------------------------------
-
-La ministra **Manzano** denunció que **Progen** negó en varias ocasiones el acceso para realizar **inspecciones** **técnicas**, pese a recibir notificaciones previas. Este hecho retrasa aún más los proyectos y genera dudas sobre la gestión del contrato.
-
-Acciones legales y administrativas
-----------------------------------
-
-Ante estas irregularidades, el **Ministerio** de **Energía** inició **procesos** **legales** y administrativos para exigir el cumplimiento de los contratos. De persistir los incumplimientos, **Progen** podría ser declarada **contratista** **incumplida**, lo que implicaría **multas** y **sanciones** **legales**.
-
-A pesar de ello, el **Gobierno** mantiene abierta la posibilidad de **diálogo** con la empresa, siempre que presente **resultados** **concretos** y garantías de cumplimiento.
-
-La ministra **Manzano** afirmó que el **Estado** debe garantizar el uso adecuado de los **recursos** **públicos** y priorizar los intereses del país.
-
-Liga de Quito queda a tres títulos de Barcelona Sporting Club
-=============================================================
-
-Liga de Quito y El Nacional comparten el tercer lugar del historial general con 13 títulos.
--------------------------------------------------------------------------------------------
-
-![Jugadores de Liga de Quito celebran el título 13 del campeonato nacional.](https://www.elcomercio.com/wp-content/uploads/2024/12/plamares_ecuador_1.jpg)
-
-Liga de Quito, con el título que ganó el sábado 14 de diciembre de 2024 en la final de la Liga Pro ante el Independiente del Valle, **sumó 13 títulos en la historia de los campeonatos de fútbol en Ecuador** y quedó a tres del Barcelona, que tiene 16 coronas en sus vitrinas.  
-  
-Además de obtener el título de la actual temporada, el **‘Rey de Copas’ de Ecuador, como le dicen a Liga de Quito**, retuvo también el campeonato que ganó en 2023 al mismo rival: el Independiente del Valle.
-
-### Más noticias:
-
-* [Liga de Quito recibió mimos de sus rivales de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-felicitaciones-equipo-liga-pro.html "Liga de Quito recibió mimos de sus rivales de la Liga Pro")
-* [Liga de Quito se proclamó como bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como bicampeón de la Liga Pro")
-* [Liga de Quito y su senda gloriosa al título de la Liga Pro 2024](https://www.elcomercio.com/deportes/futbol/liga-de-quito-y-su-senda-gloriosa-al-titulo-de-la-liga-pro-2024.html "Liga de Quito y su senda gloriosa al título de la Liga Pro 2024")
-
-Liga de Quito cerca del liderato
---------------------------------
-
-Los equipos con sede en Quito, la capital del país, **han ampliado con el de este sábado a 33 los títulos obtenidos**, frente a los 31 de clubes de Guayaquil, y los tres que se han repartido clubes de otras plazas: El Olmedo, de Riobamba; el Deportivo Cuenca, de Cuenca; y el Delfín, de Manta.  
-  
-El Barcelona sigue de líder de títulos nacionales con 16 trofeos, seguido de Emelec con 14, y El Nacional y Liga de Quito con 13, cada uno.  
-  
-Les siguen a estos el **Deportivo Quito (con 5 coronas), Aucas, Independiente del Valle**, Everest, Olmedo, Deportivo Cuenca y Delfín, con un título cada uno.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/palmares_ecuador_2-1024x683.jpg)
-
-API.
-
-Arce fue el goleador
---------------------
-
-El goleador paraguayo Álex Arce se vinculó a **Liga de Quito a comienzos de año en reemplazo del goleador** histórico del fútbol peruano, Paolo Guerrero, que había logrado con el club los títulos de la Liga Pro y de la Copa Sudamericana de 2023.
-
-Los 28 goles anotados por Arce, **en 32 partidos disputados, le valieron para romper el récord** impuesto en Liga por el uruguayo Francisco Bertocchi, con 26 tantos, en 1969.
-
-En el 2025 el goleador no seguirá en Liga. La directiva y el cuerpo técnico adelantaron que están trabajando para dar a conocer al nuevo delantero para la temporada que se avecina.
-
-Los podios del fútbol ecuatoriano
----------------------------------
-
-San viernes
------------
-
-Hijo de Amparo Guillén muere dos días después de la actriz
-==========================================================
-
-El hijo de la actriz falleció en Cali, Colombia
------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/%40misadorablesentenados_laserie-2-1.jpg)
-
-La comunidad artística ecuatoriana continúa está de luto tras la inesperada partida de la actriz Amparo Guillén, recordada por su papel de Lupita en _Mis adorables entenados_. La actriz falleció el 12 de diciembre de 2024 a causa de un infarto.
-
-Apenas dos días después, su hijo murió en Cali, Colombia, debido a un traumatismo craneal, una noticia que ha dejado consternados a familiares, amigos y admiradores.
-
-### Más noticias:
-
-* **[‘Malcolm in the Middle’ vuelve a Disney+, pero con una notable ausencia](https://www.elcomercio.com/afull/malcolm-in-the-middle.html "https://www.elcomercio.com/afull/malcolm-in-the-middle.html")**
-* **[Filtran chats de Liam Payne antes de morir](https://www.elcomercio.com/afull/chats-liam-payne-one-direction.html "https://www.elcomercio.com/afull/chats-liam-payne-one-direction.html")**
-
-Guillén había viajado a Colombia para estar junto a su hijo, quien atravesaba una delicada situación de salud. Según fuentes cercanas, el joven falleció el sábado 14 de diciembre al mediodía, aunque los detalles del accidente que le provocó el traumatismo no han sido esclarecidos.
-
-El cuerpo de la actriz llegó a Guayaquil el mismo sábado 14 de diciembre, donde se realizará un velatorio íntimo. Además, se ha organizado un homenaje público en el Palacio de Cristal para el lunes 16 de diciembre, al que podrán asistir quienes deseen despedirla.
-
-Su hija, radicada en Estados Unidos, está a cargo de los trámites funerarios tanto de su madre como de su hermano.
-
-Amparo Guillén, nacida en Guayaquil, dejó una huella imborrable en el mundo del teatro, la televisión y la música. Inició su carrera en el grupo teatral Candilejas y alcanzó la fama en la televisión con papeles icónicos en producciones como _Por amor propio_ y _3 familias_. Pese a enfrentar problemas de salud y económicos en los últimos años, Guillén continuó trabajando, destacándose en su más reciente aparición en la película _Víctor presidente_.
-
-La actriz también será recordada por su valentía al superar momentos difíciles, incluidos problemas de adicción, y por su legado como una mujer resiliente. Su partida deja un vacío en el arte ecuatoriano, pero su legado seguirá vivo en el corazón de sus admiradores.
-
-‘Vitamina’ Sánchez y Alex Arce, figuras del título de Liga de Quito
-===================================================================
-
-Pablo 'Vitamina' Sánchez alcanzó el primer título de su carrera como entrenador.
---------------------------------------------------------------------------------
-
-![Álex Arce abraza a Pablo Sánchez en la final de ida de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/arce_vitamina_1.jpg)
-
-El técnico argentino **Pablo ‘Vitamina’ Sánchez y el goleador paraguayo Alex Arce**, con 28 anotaciones, han sido claves en Liga de Quito para la obtención del título de este sábado en Ecuador.
-
-Y pese a haber perdido 1-0 hoy en el **partido de vuelta de la final ante el Independiente del Valle**, Liga de Quito se alzó con la corona porque se impuso por 3-1 en el encuentro de ida.
-
-### Más noticias:
-
-* [Liga de Quito se proclamó como bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como bicampeón de la Liga Pro")
-* [Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-hinchas-estadio-campeon-ligapro.html "Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro")
-* [Alexander Domínguez pide estatua junto a Rodrigo Paz](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-estatua-liga-quito.html "Alexander Domínguez pide estatua junto a Rodrigo Paz")
-
-‘Vitamina’ Sánchez ordenó la casa
----------------------------------
-
-El estratega del equipo albo, como también le dicen a Liga de Quito, fue clave en el **armado de la plantilla que ganó la segunda fase** del torneo, lo que le dio derecho a disputar la final ante el Independiente, que fue primero en la primera fase.
-
-Sánchez llegó en junio de este año para conducir al ‘Rey de Copas’ de Ecuador a recuperar el protagonismo que no había alcanzado en la primera fase con el español Josep Alcácer.
-
-‘Vitamina’ logró mecanizar su idea de juego, **inspiró a la recuperación del nivel de varias figuras**, consolidó a otros de poca incidencia y encontró el puesto ideal de varios jugadores.
-
-Así, por ejemplo, el técnico convirtió en **extremo derecho al defensa izquierdo Bryan Ramírez**, cambio que resultó decisivo en la campaña de Liga, pues la mayoría de sus once asistencias finalizaron con goles convertidos, especialmente, por Arce.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/arce_vitamina_3-1024x683.jpg)
-
-API.
-
-Álex Arce puso los goles
-------------------------
-
-El goleador paraguayo se había vinculado a Liga de Quito a comienzos de año en reemplazo del **goleador histórico del fútbol peruano, Paolo Guerrero**, que había logrado con el club los títulos de la Liga Pro y de la Copa Sudamericana de 2023.
-
-Los 28 goles anotados por Arce, en 32 partidos disputados, le valieron para romper el récord impuesto en Liga por el uruguayo Francisco Bertocchi, con 26 tantos, en 1969.
-
-La actual campaña de Liga de Quito fue consolidada desde el arco por **Alexander Domínguez y la fortaleza defensiva** del haitiano Ricardo Adé.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/arce_vitamina_2-1024x683.jpg)
-
-API.
-
-La columna vertebral del bicampeón
-----------------------------------
-
-Asimismo, por la persistencia en la mitad de la cancha del argentino **Lucas Piovi, que encontró en el chileno Fernando Cornejo** al compañero ideal; mientras que Jhojan Julio logró recuperar su gran nivel con la ayuda de ‘Vitamina’ Sánchez.
-
-Pero no todo ha sido color de rosas para Liga de Quito, que a comienzos de año enfrentó una crisis administrativa por la salida de Esteban Paz de la directiva del club, **tras 26 años de que su familia condujera a la institución**.
-
-El ya fallecido Rodrigo Paz y su hijo Esteban administraron a Liga desde 1996, periodo en el que cosecharon 8 títulos del **campeonato ecuatoriano, una Copa Libertadores (2008**), dos Copas Sudamericanas (2009 y 2023) y dos Recopas Sudamericanas (2009 y 2010).
-
-Además de la salida de Esteban Paz, el técnico argentino Luis Zubeldía también abandonó el club a principios de 2024, tras haber ganado el título local en 2023 la Sudamericana de ese mismo año.
-
-Isaac Álvarez reemplazó a Esteban Paz y cerró el año 2024 con el título nacional y la clasificación del equipo a la fase de Grupos de la Copa Libertadores de 2025.
-
-Álvarez contrató al español Alcácer**, que perdió la Recopa Sudamericana de 2024 ante el Fluminense**, de Brasil; fue eliminado de la fase de Grupos de la Libertadores 2024 y dejó al equipo en el cuarto puesto de la primera fase de la Liga Pro.
-
-Alcácer se fue en mayo y el técnico argentino ‘Vitamina’ Sánchez lo reemplazó en junio.
-
-Con el actual título, **Liga de Quito sumó su décima tercera corona en Ecuador**, igualó la marca de El Nacional, pero quedó a uno de Emelec y a tres del líder de títulos nacionales, el Barcelona.
-
-El título de este sábado se ha sumado a los que Liga de Quito conquistó en 1969, 1974, 1975, 1990, 1998, 1999, 2003, Apertura 2005, 2007, 2010, 2018 y 2023.
-
-San viernes
------------
-
-La receta que encontró la ciencia para reducir la ira
-=====================================================
-
-Investigadores hallaron una relación entre la escritura de las emociones y la disminución del enojo.
-----------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/enojo-El-Comercio.jpg)
-
-Un estudio de expertos japoneses descubrió que cuando uno se siente cegado por la ira, tras recibir un insulto o ser provocado, en lugar de descargarse con las personas que la causaron o con quienes tiene cerca, para calmarse, es más efectivo escribir sus sentimientos y luego romper el papel.
-
-  
-Según la investigación, solo basta escribir en un papel la reacción ante un incidente negativo y luego triturarlo o tirarlo a la basura para reducir ese sentimiento.
-
-  
-Según la investigación, solo basta escribir en un papel la reacción ante un incidente negativo y luego triturarlo o tirarlo a la basura para reducir ese sentimiento.
-
-  
-Esa es la ‘receta’ hallada por un equipo de investigadores de la Universidad de Nagoya (Japón) en un estudio que publicó la revista Scientic Reports, basado en años de investigación sobre la asociación entre la palabra escrita y la reducción de la ira.
-
-  
-“Esperábamos que nuestro método suprimiera la ira hasta cierto punto”; sin embargo, “nos sorprendió que la ira se eliminara casi por completo”, dijo Nobuyuki Kawai, el autor principal del estudio y experto en ciencias cognitivas de la Universidad de Nagoya, en un comunicado de prensa publicado por ese centro educativo.
-
-  
-Al respecto, trabajos previos ya mostraban cómo las interacciones con objetos físicos pueden controlar el estado de ánimo de una persona. Sin embargo, muchas técnicas de control de la ira carecen del apoyo empírico de la investigación y pueden ser difíciles de recordar cuando se está enfadado.
-
-  
-Para el estudio de la Universidad de Nagoya se reclutó a 100 estudiantes a los que se les pidió que escribieran en un formato breve sus opiniones sobre distintos temas.
-
-  
-Kawi y su estudiante de posgrado Yuta Kanaya, ambos de la Escuela de Graduados en Informática de esta universidad, le pidieron al grupo de voluntarios escribir breves opiniones sobre problemas sociales importantes, por ejemplo si habría que prohibir fumar en público, y se les dijo que sus escritos serían evaluados.
