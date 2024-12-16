@@ -123,44 +123,44 @@ Advertisement
     Suicide
     
     Released in 2001, Suicide is a film directed by Eames Yates and explores the suicide of his own brother which occurred two years prior to this films release. Eames' brother Teddy was 40 when he shot h...](https://documentaryheaven.com/suicide/ "Suicide")
-* [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
+* [![Dispatches: The Killing Zone](/wp-content/thumbnails/481-100x70.png?x53432)
     
-    The Fog of War
+    Dispatches: The Killing Zone
     
-    Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
-* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
+    While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
+* [![The Hour Of Our Time: The Legacy of William Cooper](/wp-content/thumbnails/1157-100x70.jpg?x53432)
     
-    Objectified
+    The Hour Of Our Time: The Legacy of William Cooper
     
-    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+    Surrounding us in our day-to-day lives are mysteries, that to spend our days pondering would paralyze us from leading productive lives. So we turn away from these thoughts in order to seek out as trou...](https://documentaryheaven.com/the-hour-of-our-time-the-legacy-of-william-cooper/ "The Hour Of Our Time: The Legacy of William Cooper")
 
 ###### Throwback Documentaries
 
-* [![Unraveling the Madness of Kanye West](/wp-content/thumbnails/16540-100x70.jpg?x53432)
+* [![The Defectors](/wp-content/thumbnails/9493-100x70.jpg?x53432)
     
-    Unraveling the Madness of Kanye West
+    The Defectors
     
-    In today's musical landscape there are few artists more polarising than Kanye West. Unlike most entertainers, it's Kanye's unparalleled boldness that simultaneously propels him to new heights whilst](https://documentaryheaven.com/unraveling-madness-of-kanye-west/ "Unraveling the Madness of Kanye West")
-* [![Turnstile](/wp-content/thumbnails/7797-100x70.jpg?x53432)
+    In this Sky News special reporter Mark Stone meets up with several North Korean defectors in order to give them a chance to be heard and tell their story of how life once was for them living in the No](https://documentaryheaven.com/defectors/ "The Defectors")
+* [![We Ride: The Story of Snowboarding](/wp-content/thumbnails/7621-100x70.jpg?x53432)
     
-    Turnstile
+    We Ride: The Story of Snowboarding
     
-    Turnstile is focused on women involved in the criminal justice system and drug policy reform. The 36 minute film offers an exploration of three women’s experiences with addiction and incarceration, an](https://documentaryheaven.com/turnstile/ "Turnstile")
-* [![Pale Blue Dot: A Vision of the Human Future in Space](/wp-content/thumbnails/2359-100x70.jpg?x53432)
+    A compelling, dramatic and stylish cinematic journey into snowboarding’s unique history and the wider cultural forces that shaped it.Half a century ago, in his garage in the suburbs of Muskegon, M](https://documentaryheaven.com/we-ride-story-of-snowboarding/ "We Ride: The Story of Snowboarding")
+* [![For The Next Generation](/wp-content/thumbnails/5763-100x70.jpg?x53432)
     
-    Pale Blue Dot: A Vision of the Human Future in Space
+    For The Next Generation
     
-    The earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that in glory and triumph, they can become the momentary masters of a](https://documentaryheaven.com/pale-blue-dot/ "Pale Blue Dot: A Vision of the Human Future in Space")
-* [![WWII in HD EP4/10](/wp-content/thumbnails/4661-100x70.jpg?x53432)
+    A film aiming to inspire positive change in a time that is very difficult for many across the planet, and to spread awareness of some serious challenges that lie ahead.Question everything, includ](https://documentaryheaven.com/for-the-next-generation/ "For The Next Generation")
+* [![The Deep Earth](/wp-content/thumbnails/6696-100x70.png?x53432)
     
-    WWII in HD EP4/10
+    The Deep Earth
     
-    Episode 4: Battle Stations The Allies lay plans for the invasion of France; Bert Stiles and the 8th Air Force attempt to clear the skies over Normandy, while the Pacific remains a quagmire. D-Day arri](https://documentaryheaven.com/wwii-in-hd-ep4/ "WWII in HD EP4/10")
-* [![Richard Dawkins: Faith School Menace?](/wp-content/thumbnails/4743-100x70.jpg?x53432)
+    Broadcast (1998) A curious feature of our planet’s surface is that it has two distinct levels: the dry land on the continents, on average a few hundred metres above sea level, and the ocean floor, mak](https://documentaryheaven.com/the-deep-earth/ "The Deep Earth")
+* [![Invisible Worlds: Speed Limits](/wp-content/thumbnails/5001-100x70.jpg?x53432)
     
-    Richard Dawkins: Faith School Menace?
+    Invisible Worlds: Speed Limits
     
-    The number of faith schools in Britain is rising. Around 7,000 publicly-funded schools - one in three - now has a religious affiliation.As the coalition government paves the way for more faith-bas](https://documentaryheaven.com/richard-dawkins-faith-school-menace/ "Richard Dawkins: Faith School Menace?")
+    Speed Limits: Richard Hammond explores the extraordinary wonders of the world of detail hidden in the blink of an eye. The human eye takes about fifty milliseconds to blink. But it takes our brain aro](https://documentaryheaven.com/invisible-worlds-speed-limits/ "Invisible Worlds: Speed Limits")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
