@@ -297,7 +297,6 @@ Advertise
 
 ### [Hip industrial designer Henry Wilson has a brilliant new store](https://www.afr.com/life-and-luxury/design/hip-industrial-designer-henry-wilson-has-a-brilliant-new-store-20241023-p5kklj)
 
-* 53 mins ago
 * Stephen Todd
 
 * ### [The royal who loves coming to Australia each summer](https://www.afr.com/life-and-luxury/travel/the-royal-who-loves-coming-to-australia-each-summer-20241003-p5kfrc)
@@ -326,7 +325,6 @@ Advertise
 
 ### [Cycling makes me a nicer person, founder admits](https://www.afr.com/life-and-luxury/health-and-wellness/cycling-makes-me-a-nicer-person-founder-admits-20241212-p5kxxx)
 
-* 53 mins ago
 * Life & Leisure
 
 * ### [Alexandra Keating sees problems, and builds businesses to solve them](https://www.afr.com/life-and-luxury/fashion-and-style/alexandra-keating-sees-problems-and-builds-businesses-to-solve-them-20241211-p5kxnh)
