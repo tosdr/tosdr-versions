@@ -1,4 +1,4 @@
-[Horizons of Identity Security report reveals higher identity security maturity delivers outsized returns](https://www.sailpoint.com/identity-library/horizons-identity-security-3)
+[SailPoint and Imprivata enter strategic partnership to deliver unified identity security and access management for healthcare organizations](https://www.sailpoint.com/press-releases/sailpoint-imprivata-enter-strategic-partnership)
 
 Close
 
