@@ -291,19 +291,22 @@
 SANS Privacy Policy
 ===================
 
-**Updated: December 2023**
+Updated: December 2024
 
-### **SANS INSTITUTE PRIVACY POLICY**
+SANS INSTITUTE PRIVACY POLICY
+-----------------------------
 
-The Escal Institute of Advanced Technologies, Inc. d/b/the SANS Institute is a United States based company specializing in information security and cybersecurity training. The SANS Institute has wholly owned subsidiaries operating globally, including, but not limited to, SANS Training - UK Limited based in the United Kingdom (“SANS UK”), SANS Training Australia Pty Limited based in Australia (“SANS Australia”), SANS Training Singapore PTE LTD based in Singapore (“SANS Singapore”) and SANS Training Japan GK (“SANS Japan”).  The SANS Institute along with its wholly owned subsidiaries SANS UK, SANS Australia, SANS Singapore and SANS Japan are collectively referred throughout as “SANS”.
+The Escal Institute of Advanced Technologies, Inc. d/b/the SANS Institute is a United States based company specializing in information security and cybersecurity training. The SANS Institute has wholly owned subsidiaries operating globally, including, but not limited to, SANS Training - UK Limited based in the United Kingdom ("SANS UK"), SANS Training Australia Pty Limited based in Australia ("SANS Australia"), SANS Training Singapore PTE LTD based in Singapore ("SANS Singapore"), SANS Training Japan GK ("SANS Japan") and SANS Training Limited based in Ireland ("SANS Ireland"). The SANS Institute along with its wholly owned subsidiaries SANS UK, SANS Australia, SANS Singapore, SANS Japan and SANS Ireland are collectively referred throughout as "SANS".
 
-SANS also operates its Global Information Assurance Certification (“GIAC”) programs and academic programs offered through the SANS Technical Institute (“STI”).
+SANS also operates its Global Information Assurance Certification ("GIAC") programs and academic programs offered through the SANS Technology Institute ("STI").
 
-This Policy addresses how SANS, as a data controller, collects, uses, and otherwise processes personal information relating to individuals who visit our Websites and use our services, as well as personal information that is collected from business partners and via survey responses or competition entries.  “Personal information” is information that relates to an identified or identifiable living individual.
+SANS participates in the EU-U.S. Data Privacy Framework ("DPF"), the UK Extension to the DPF, and the Swiss-U.S. DPF as administered by the U.S. Department of Commerce. We strive to subject all personal data received from the European Union (EU), United Kingdom (UK), and Switzerland in reliance on the DPF Principles. To learn more about the DPF, please visit [https://www.dataprivacyframework.gov.](https://www.dataprivacyframework.gov/)
 
-When we refer to “Websites” we mean [www.sans.org](https://www.sans.org/) as well as the other websites that we operate and that link to this Policy.  Note that GIAC has its own privacy policy at [www.giac.org/legal/privacy](https://www.giac.org/privacy), and STI has its own Privacy Policy at [www.sans.edu/privacy](https://www.sans.edu/privacy).   This Policy does not apply to personal information collected and processed by GIAC or STI.
+This Policy addresses how SANS, as a data controller, collects, uses, and otherwise processes personal information relating to individuals who visit our Websites and use our services, as well as personal information that is collected from business partners and via survey responses or competition entries. "Personal information" is information that relates to an identified or identifiable living individual.
 
-We need to process personal information to provide services to you. Sometimes, we provide your personal information to third parties to help us provide our services. If you are not willing to provide your personal information and have it disclosed to third parties in accordance with this Privacy Policy, you may not be able to use our services.
+When we refer to "Websites" we mean [www.sans.org](http://www.sans.org/) as well as the other websites that we operate and that link to this Policy. Note that GIAC has its own privacy policy at [www.giac/privacy](http://www.giac/privacy), and STI has its own privacy policy at [www.sans.edu/privacy](http://www.sans.edu/privacy). This Policy does not apply to personal information collected and processed by GIAC or STI.
+
+We need to process personal information to provide services to you. Sometimes, we provide your personal information to third parties, including SANS affiliate organizations such as GIAC and STI, to help us provide our services. If you are not willing to provide your personal information and have it disclosed to third parties in accordance with this Policy, you may not be able to use our services.
 
 ### Basis of Processing
 
@@ -327,17 +330,17 @@ We collect your name, email address, phone number(s), address, company, departme
 
 We use various technologies to collect information from your computer or device and about your activities on our Websites. These are detailed below:
 
-1. **Information automatically collected** such as your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us, referring or exit website address, internet service provider, date/time stamp, operating system, locale and language preferences, and system configuration information.
-2. **Cookies**. When you visit our Websites we may assign your computer or device one or more cookies to facilitate access to our site and to personalize your online experience. These cookies may relate to tools such as Google Analytics and similar technologies. Through cookies we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Please see our [Cookie Policy](https://www.sans.org/mlp/cookie-notice/) for more detail.
-3. **Other technologies.** We may use standard internet technology, such as web beacons, session replay scripts, and other similar technologies, to track your use of our Websites. We also may include web beacons in promotional email messages or newsletters.  Web beacons are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer’s hard drive, pixel tags are embedded invisibly on web pages. We may use these, in connection with our Websites to, among other things, track the activities users of our services, improve ads, personalize and manage content, and gather usage information about our Websites. We may also use these in HTML emails to, to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded. Session replay software scripts capture information concerning a user’s interaction with the Websites, including keystrokes, mouse movements and clicks, movements within a webpage and through the Websites, interactions with menus, banners, and forms, and form field entries.  We may use third-party software embedded in the script of the Websites to monitor your interaction with the Websites and/or for our compliance verification purposes, which may mean that the third-party software provider also collects this information.  By using our Websites, you consent to this collection and disclosure of information.
+1. **Information automatically collected.** Information such as your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us, referring or exit website address, internet service provider, date/time stamp, operating system, locale and language preferences, and system configuration information.
+2. **Cookies**. When you visit our Websites, we may assign your computer or device one or more cookies to facilitate access to our site and to personalize your online experience. These cookies may relate to tools such as Google Analytics and similar technologies. Through cookies we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Please see our Cookie Policy for more detail.
+3. **Other technologies.** We may use standard internet technology, such as web beacons, session replay scripts, and other similar technologies, to track your use of our Websites. We also may include web beacons in promotional email messages or newsletters. Web beacons are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer's hard drive, pixel tags are embedded invisibly on web pages. We may use these, in connection with our Websites to, among other things, track the activities of users of our services, improve ads, personalize and manage content, and gather usage information about our Websites. We may also use these in HTML emails to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded. Session replay software scripts capture information concerning a user's interaction with the Websites, including keystrokes, mouse movements and clicks, movements within a webpage and through the Websites, interactions with menus, banners, and forms, and form field entries. We may use third-party software embedded in the script of the Websites to monitor your interaction with the Websites and/or for our compliance verification purposes, which may mean that the third-party software provider also collects this information. By using our Websites, you consent to this collection and disclosure of information.
 
 #### Information Collected from Other Sources
 
 We may also obtain information about you from advertising companies, ad networks business partners, contractors, and other third parties and add it to our account information or other information we have collected. We only do this where there is a lawful basis of processing your information such as your consent.
 
-#### Information Collected for Employer-Sponsored Training
+### Information Collected for Employer-Sponsored Training
 
-If your employer sponsors your training and provides us with your personal information, SANS acts as a data controller and your employer is also a data controller. SANS will work with your employer to fulfill any data rights requests. Your information and training records will be shared with your employer and we will process that information in accordance with this Privacy Policy.  SANS may also share your personal information and training records with SANS’s affiliates as necessary for customer support purposes. 
+If your employer sponsors your training and provides us with your personal information, SANS acts as a data controller and your employer is also a data controller. SANS will work with your employer to fulfill any data rights requests. Your information and training records will be shared with your employer and we will process that information in accordance with this Policy. SANS may also share your personal information and training records with SANS's affiliates as necessary for customer support purposes.
 
 ### How We Use Personal Information
 
@@ -350,10 +353,10 @@ We may use information that we collect about you to:
 * deliver the services that you have requested
 * manage your account and provide you with customer support
 * perform research and analysis about your use of or interest in our services, our content, or products, as well as services or content offered by others
-* communicate with you by email, postal mail, telephone, our websites, our applications, and/or mobile devices about products, services, or resources that may be of interest to you either from us or other third parties
+* communicate with you by email, postal mail, telephone, our Websites, our applications, and/or mobile devices about products, services, or resources that may be of interest to you either from us or other third parties
 * enforce our terms and conditions
 * manage our business and perform functions as otherwise described to you at the time of collection
-* for legal compliance purposes
+* for legal compliance purposes, including lawful requests by public authorities, including to meet national security or law enforcement requirements
 * occasionally notify you about special sales or services to personalize your experience with SANS (you can opt out if you wish)
 * process payment for any purchases or sales made on our Websites, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business
 
@@ -361,18 +364,18 @@ We may use information that we collect about you to:
 
 We will retain your personal information for as long as is needed to offer you services or comply with our legal obligations. For personal information that we process on behalf of a business partner or your employer, we will retain such personal information in accordance with the terms of our agreement with them.
 
-#### Disclosure of Personal Information
+### Disclosure of Personal Information
 
-We share or disclose your personal information where it is necessary to provide the services, including sharing information with third party service providers, when required by law, to protect rights and safety, and with your consent. These third parties are detailed below.
+We share or disclose your personal information where it is necessary to provide the Services, including sharing information with third party service providers, when required by law, to protect rights and safety, and with your consent. These third parties are detailed below.
 
-* **Authorized service providers:** These services may include fulfilling orders, processing credit card payments, delivering materials, providing customer service and marketing assistance, performing business and sales analysis, supporting our Websites’ functionality, and supporting contests, promotions, sweepstakes, surveys and other features offered through our Websites. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+* **Authorized service providers**: These services may include fulfilling orders, processing credit card payments, delivering materials, providing customer service and marketing assistance, performing business and sales analysis, supporting our Websites' functionality, and supporting contests, promotions, sweepstakes, surveys and other features offered through our Websites. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
 * **Co-Sponsoring organizations:** Some SANS training events are co-sponsored by other organizations. Examples include SANS private training events, sponsored webcasts, or sponsored whitepapers. When you register for an event, the co-sponsoring organization may have access to your registration data where you agree and provide your explicit consent.
-* **GIAC Certification Information:** GIAC Certified Professionals are listed on the GIAC website and their identities and certifications are considered public information. Published data includes Analyst Number, Certification Holder’s Name and Certification Expiration Date. No personal contact information is published.
-* **Business partners:** When you make purchases or engage in promotions offered through our Websites, we may share personal information with your consent with the businesses with which we partner to offer you those services, promotions, contests and/or sweepstakes.
+* **GIAC Certification Information:** GIAC Certified Professionals are listed on the GIAC website and their identities and certifications are considered public information. Published data includes Analyst Number, Certification Holder's Name, and Certification Expiration Date. No personal contact information is published.
+* **Business partners:** When you make purchases or engage in promotions offered through our Websites, we may share personal information with your consent with the businesses with which we partner to offer you those services, promotions, contests and/or sweepstakes.
 * **Business transfers:** We may disclose and/or transfer personal information as part of any actual or contemplated merger, sale, transfer of assets, acquisition, financing and/or restructuring of all or part of our business, bankruptcy or similar event, including related to due diligence conducted prior to such event when permitted by law.
 * **Protect our rights:** We may disclose personal information where we believe it necessary to respond to claims asserted against us, to comply with legal process (e.g., subpoenas or warrants), enforce or administer our agreements and terms, for fraud prevention, risk assessment, investigation and/or to protect the rights, property or safety of our company, our customers and/or others.
-* **Other situations:** We also may disclose your information where required by law, in response to a court order, or to prevent or detect crime.
-* **Aggregated and Non-personal Information:** We may share aggregated and non-personal information we collect under any of the circumstances set forth in this Policy. When we de-identify personal information, we have implemented reasonable measures as required by law to ensure that the de-identified data cannot be associated with any individual or customer.  We will only maintain and use such data in a de-identified manner and do not attempt to re-identify the data, except as permitted by law.
+* **Other situations:** We also may disclose your information where required by law, in response to a court order, or to prevent or detect crime.
+* **Aggregated and Non-personal Information:** We may share aggregated and non-personal information we collect under any of the circumstances set forth in this Policy. When we de-identify personal information, we have implemented reasonable measures as required by law to ensure that the de-identified data cannot be associated with any individual or customer. We will only maintain and use such data in a de-identified manner and do not attempt to re-identify the data, except as permitted by law.
 
 In general, we may disclose the following categories of personal information in support of our business purposes identified above:
 
@@ -387,15 +390,25 @@ In general, we may disclose the following categories of personal information in 
 
 We have disclosed the categories of personal information listed above to the following categories of third parties in the preceding twelve months: data analytics providers, service providers, and sponsors of SANS events, programs, and papers.
 
-#### **Categories of Personal Information Sold or Shared.**
+In compliance with the DPF Principles, SANS is responsible for the processing of personal data we receive under the DPF and subsequently transfer to a third party acting as an agent on our behalf. We require that all third-party agents with whom we share personal data agree to safeguard it in accordance with the DPF Principles and other applicable data protection laws.
 
-The California Consumer Privacy Act (“CCPA”) defines a “sale” as disclosing or making available to a third party personal information in exchange for monetary or other valuable consideration, and it defines “share” in pertinent part as disclosing personal information to a third party for cross-context behavioral advertising.
+SANS remains responsible under the DPF if a third-party agent processes such personal data in a manner inconsistent with the DPF Principles, unless we can demonstrate that we are not responsible for the event giving rise to the damage.
 
-As defined by the CCPA, the categories of personal information that we may “sell” include:
+We ensure that all third-party agents agree to:
 
-* Name, contact information and other identifiers
+* Process the personal data only for the limited and specified purposes consistent with the consent provided by the data subject.
+* Provide at least the same level of protection as the DPF Principles require.
+* Notify us if they can no longer meet these obligations, at which point we will take reasonable and appropriate steps to stop or remediate unauthorized processing.
 
-As defined by the CCPA, the categories of personal information that we may “share” include:
+#### Categories of Personal Information Sold or Shared.
+
+The California Consumer Privacy Act ("CCPA") defines a "sale" as disclosing or making available to a third party personal information in exchange for monetary or other valuable consideration, and it defines "share" in pertinent part as disclosing personal information to a third party for cross-context behavioral advertising.
+
+As defined by the CCPA, the categories of personal information that we may "sell" include:
+
+* Name, contact information, and other identifiers
+
+As defined by the CCPA, the categories of personal information that we may "share" include:
 
 * Name, contact information, and other identifiers
 
@@ -411,7 +424,7 @@ The business purpose for which we sell or share the data, as defined by the CCPA
 * To gain insights into online activities through analytics
 * To provide leads to sponsors of SANS events, programs and papers
 
-We have “sold” and “shared” the categories of personal information listed above to data analytics providers in the preceding twelve months.
+We have "sold" and "shared" the categories of personal information listed above to data analytics providers in the preceding twelve months.
 
 ### Your Privacy Rights
 
@@ -419,29 +432,51 @@ We have “sold” and “shared” the categories of personal information liste
 
 If you have an online account with us, you can review your personal information by logging into your account. You can also update your personal information by contacting us.
 
-You can ask us to delete, rectify, or port your data by submitting a request through your account or by contacting [privacy@sans.org](mailto:privacy@sans.org).
+You can ask us to delete, rectify, or port your data by submitting a request through your account or by contacting [privacy@sans.org](mailto:privacy@sans.org).
 
 We will handle your request as soon as possible; however, we may still need to retain certain information, for example information required for legal purposes.
+
+#### Independent Recourse Mechanism
+
+In compliance with the DPF Principles, SANS commits to resolve complaints about our collection or use of your personal information.
+
+For individuals in the European Union and the United Kingdom: We cooperate with the European Data Protection Authorities (DPAs). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, you may contact your local DPA. Contact details can be [found here](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm0IgX1CPW-7j9LvICLAlW3NhBu7rC3VoodLq9is0j3jwfhmEJTdy-RcdE0$).
+
+For individuals in Switzerland: We cooperate with the Swiss Federal Data Protection and Information Commissioner (FDPIC). You can reach the FDPIC at:
+
+Address: Feldeggweg 1, CH - 3003 Bern, Switzerland
+
+Phone: [+41 (0)58 462 43 95](tel:+41584624395)
+
+[Website](https://www.edoeb.admin.ch/edoeb/en/home.html)
+
+For individuals in the United States and other regions: We have selected BBB National Programs as our independent dispute resolution provider. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact BBB National Programs:
+
+[Website](https://bbbprograms.org/programs/all-programs/dpf)
+
+Email: [bbbnp.org](mailto:bbbnp.org)
+
+Mail: BBB National Programs, 1676 International Drive, Suite 550, McLean, VA 22102, USA
 
 #### Opt-Out
 
 We will not share personal data without your permission unless it is necessary for us to provide services to you.
 
-You can opt out of non-essential use of your data at any time by selecting the “Opt-Out” link found [here](https://www.sans.org/legal/do-not-share-sell/), or in the footer of the communication or on our Websites and following the instructions or contacting us.  You may also choose to enable in your Internet browser, where available, a universal signal that will automatically send an opt-out signal from your browser to participating websites, like ours, which will honor your preference.
+You can opt out of non-essential use of your data at any time by selecting the "Opt-Out" link found here, or in the footer of the communication or on our Websites and following the instructions or contacting us. You may also choose to enable in your Internet browser, where available, a universal signal that will automatically send an opt-out signal from your browser to participating websites, like ours, which will honor your preference.
 
 If you opt out of receiving promotional communications, you may continue to receive emails and notifications relating to business-related communications.
 
 ### Additional Information for Residents of Certain Jurisdictions
 
-You may have additional data protection rights afforded to you by the state or country where you reside, including but not limited to, in the United States, European Union member state, the United Kingdom or other jurisdictions. Please click [**here**](https://www.sans.org/legal/data-protection-rights/) for additional information regarding data protection rights that may be afforded to you by your state or country of residence.
+You may have additional data protection rights afforded to you by the state or country where you reside, including but not limited to, in the United States, European Union member state, the United Kingdom or other jurisdictions. Please click [here](https://www.sans.org/legal/do-not-share-sell/) for additional information regarding data protection rights that may be afforded to you by your state or country of residence.
 
 ### Federal Education Rights and Privacy Act (FERPA)
 
-Where applicable, SANS adheres to a U.S. federal law called the Family Educational Rights and Privacy Act (FERPA) that protects student educational records. The Act serves two primary purposes: It gives eligible students more control over their educational records, and it prohibits educational institutions from disclosing “personally identifiable information” in education records without the written consent of an eligible student or in certain other circumstances. To review our full FERPA policy, please visit the [Federal Education Rights Privacy Act Policy.](https://www.sans.edu/ferpa-policy/)  
+Where applicable, SANS adheres to a U.S. federal law called the Family Educational Rights and Privacy Act (FERPA) that protects student educational records. The Act serves two primary purposes: It gives eligible students more control over their educational records, and it prohibits educational institutions from disclosing "personally identifiable information" in education records without the written consent of an eligible student or in certain other circumstances. To review our full FERPA policy, please visit the [Federal Education Rights Privacy Act Policy](https://www.sans.edu/ferpa-policy/).
 
-### Children’s Personal Information
+### Children's Personal Information
 
-SANS does not knowingly collect or retain personal information about persons under the age of 16.  Any person who provides their personal information to SANS represents they are 16 or older.  When a person is under the age of 16 and desires to provide personal information to SANS, SANS strives to seek appropriate parental consent to process their information.  If SANS learns that it has collected personal information from an individual under the age of 16 without parental consent, SANS will take reasonable measures to delete such information (except where required to protect the individual or others or as required or allowed by law).  If you believe SANS has personal information from individuals under the age of 16, please contact SANS at [privacy@sans.org](mailto:privacy@sans.org).
+SANS does not knowingly collect or retain personal information about persons under the age of 16. Any person who provides their personal information to SANS represents they are 16 or older. When a person is under the age of 16 and desires to provide personal information to SANS, SANS strives to seek appropriate parental consent to process their information. If SANS learns that it has collected personal information from an individual under the age of 16 without parental consent, SANS will take reasonable measures to delete such information (except where required to protect the individual or others or as required or allowed by law). If you believe SANS has personal information from individuals under the age of 16, please contact SANS at [privacy@sans.org](mailto:privacy@sans.org).
 
 ### Other Important Information
 
@@ -449,11 +484,9 @@ SANS does not knowingly collect or retain personal information about persons und
 
 The security of your personal information is important to us. Be aware that the internet is a global communications vehicle open to threats, viruses, and intrusions from others, so we cannot promise - and you should not expect - that we will be able to protect your personal information in all circumstances.
 
-### **Contact Us**
+### Contact Us
 
-To make a request or exercise your data privacy rights, if you have a complaint, or if you have any questions or suggestions regarding this Policy or our processing of your personal information, please contact us at [privacy@sans.org](mailto:privacy@sans.org) or at +1 301-654-7267 and request to speak to the Data Privacy Department.
-
-  
+To make a request or exercise your data privacy rights, if you have a complaint, or if you have any questions or suggestions regarding this Policy or our processing of your personal information, please contact us at [privacy@sans.org](mailto:privacy@sans.org) or at +1 301-654-7267 and request to speak to the Data Privacy Department.
 
 * Register to Learn
 * [Courses](https://www.sans.org/cyber-security-courses/)
