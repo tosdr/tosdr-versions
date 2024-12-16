@@ -1,12 +1,12 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-48-HOUR FLASH SALE: Last chance to get $130 off Diamond 60th Edition QuietComfort Ultra Headphones. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1)
-
 NEW HOLIDAY DEALS: Save up to 40% on gifts in time for the holidays. [Shop](https://www.bose.com/c/holiday-sale)
 
 EXCLUSIVE COLOR DROP: Enjoy $70 off Ultra Open Earbuds, now in Chilled Lilac. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CHILLED+LILAC)
 
 MY BOSE MEMBERS: Enjoy a Holiday Bonus Card, on us, after qualifying purchases. [Shop](https://www.bose.com/c/holiday-sale)
+
+Order by 12 PM EST, Dec 20 with Free 2-day shipping for delivery by Dec 24. In-stock items only.
 
 [Cancel](#)
 
@@ -194,7 +194,7 @@ Back
 
 ### New Holiday Deals](https://www.bose.com/c/holiday-sale "SHOP")
 
-[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwaf0ae0f9/images/logo.svg)](https://www.bose.com/home "Bose Home")
+[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw6c9fe375/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
 [](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")[](https://www.bose.com/wishlist "Wish list")
 
