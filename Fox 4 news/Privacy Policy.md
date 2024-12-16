@@ -401,6 +401,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![3 juveniles escape from Granbury juvenile detention center](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/juvenile-inmate-escape-hood-county.jpg?ve=1&tl=1)
+
+ ![3 juveniles escape from Granbury juvenile detention center](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/juvenile-inmate-escape-hood-county.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/3-juveniles-escape-from-granbury-juvenile-detention-center)
+
+### [3 juveniles escape from Granbury juvenile detention center](https://www.fox4news.com/news/3-juveniles-escape-from-granbury-juvenile-detention-center)
+
+ [![Man killed while assisting stranded driver in Arlington crash; 2 others in critical condition](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/tyler-white-family-e1734354720891.png?ve=1&tl=1)
+
+ ![Man killed while assisting stranded driver in Arlington crash; 2 others in critical condition](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/tyler-white-family-e1734354720891.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tyler-white-arlington-crash)
+
+### [Man killed while assisting stranded driver in Arlington crash; 2 others in critical condition](https://www.fox4news.com/news/tyler-white-arlington-crash)
+
+ [![DPS trooper critically injured after being struck on Dallas North Tollway](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-dnt-trooper-ax-4a_00.00.09.46.jpg?ve=1&tl=1)
+
+ ![DPS trooper critically injured after being struck on Dallas North Tollway](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-dnt-trooper-ax-4a_00.00.09.46.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dps-trooper-critical-condition)
+
+### [DPS trooper critically injured after being struck on Dallas North Tollway](https://www.fox4news.com/news/dps-trooper-critical-condition)
+
  [![2 teens dead, 4 teens injured at 'makeshift club' shooting in northeast Houston](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/32/18/screenshot-2024-12-15-071216.png?ve=1&tl=1)
 
  ![2 teens dead, 4 teens injured at 'makeshift club' shooting in northeast Houston](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/32/18/592/333/screenshot-2024-12-15-071216.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-teens-dead-3-teens-injured-makeshift-club-shooting-north-houston)
@@ -412,24 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Fallen Terrell police officer remembered at vigil](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/officer-candanoza.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/terrell-police-officer-jacob-candanoza-vigil)
 
 ### [Fallen Terrell police officer remembered at vigil](https://www.fox4news.com/news/terrell-police-officer-jacob-candanoza-vigil)
-
- [![Texas House Speaker race shows state of GOP civil war | Texas: The Issue Is](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/house-speaker-race.jpg?ve=1&tl=1)
-
- ![Texas House Speaker race shows state of GOP civil war | Texas: The Issue Is](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/house-speaker-race.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-house-speaker-race-gop-civil-war-texas-issue-is)
-
-### [Texas House Speaker race shows state of GOP civil war | Texas: The Issue Is](https://www.fox4news.com/news/texas-house-speaker-race-gop-civil-war-texas-issue-is)
-
- [![Arlington suspects believed to be connected to 2 separate shootings](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/121524-sh-arlington-pd-shooting-little-rd_kdfwaee8_00.04.52.10.jpg?ve=1&tl=1)
-
- ![Arlington suspects believed to be connected to 2 separate shootings](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/121524-sh-arlington-pd-shooting-little-rd_kdfwaee8_00.04.52.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-shootings-humberto-barajas-angel-barajas)
-
-### [Arlington suspects believed to be connected to 2 separate shootings](https://www.fox4news.com/news/arlington-shootings-humberto-barajas-angel-barajas)
-
- [![Rush throws for career-high 3 TDs, Cowboys force 4 turnovers to beat Panthers 30-14](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2189591067.jpg?ve=1&tl=1)
-
- ![Rush throws for career-high 3 TDs, Cowboys force 4 turnovers to beat Panthers 30-14](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2189591067.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/rush-throws-career-high-3-tds-cowboys-force-4-turnovers-beat-panthers-30-14)
-
-### [Rush throws for career-high 3 TDs, Cowboys force 4 turnovers to beat Panthers 30-14](https://www.fox4news.com/sports/rush-throws-career-high-3-tds-cowboys-force-4-turnovers-beat-panthers-30-14)
 
 ###### [News](https://www.fox4news.com/news)
 
