@@ -5,9 +5,9 @@
 * [Go to content (c)](#content)
 * [Go to footer (f)](#shopify-section-footer)
 
-🔥 Cyber Monday Mega Sale! 🔥 Black Friday Mega Sale! 🔥 Cyber Monday Mega Sale! 🔥 Black Friday Mega Sale! 🔥 Cyber Monday Mega Sale!
+🎁Holiday Sales 2024 🎄Christmas Epic Sales 🎁Holiday Sales 2024 🎄Christmas Epic Sales 🎁Holiday Sales 2024
 
-🔥 Black Friday Mega Sale! 🔥 Cyber Monday Mega Sale! 🔥 Black Friday Mega Sale! 🔥 Cyber Monday Mega Sale! 🔥 Black Friday Mega Sale!
+🎄Christmas Epic Sales 🎁Holiday Sales 2024 🎄Christmas Epic Sales 🎁Holiday Sales 2024 🎄Christmas Epic Sales
 
 [![Savvy Smart and Deals Ltd](//savvysmartdeals.com/cdn/shop/files/savvy-logo_c16395f5-b834-4fcb-b105-3682b0b32199.png?v=1727427635&width=140)](https://www.rangextd.com/)
 
@@ -39,25 +39,25 @@ Search results
 
 * [Customer service](https://www.rangextd.com/pages/about-us)
 
- ![](//savvysmartdeals.com/cdn/shop/files/image_3.png?crop=center&height=530&v=1730346861&width=700)![](//savvysmartdeals.com/cdn/shop/files/Cyber_Monday.gif?crop=center&height=554&v=1730347650&width=700)
+ ![](//savvysmartdeals.com/cdn/shop/files/Christmas_Red_mobile.png?crop=center&height=530&v=1734343619&width=700)![](//savvysmartdeals.com/cdn/shop/files/Christmas_Red.png?crop=center&height=554&v=1734343619&width=700)
 
 [](https://www.rangextd.com/collections/all)
 
-* ![Collection image for: $20 OFF](//savvysmartdeals.com/cdn/shop/collections/20_Off.png?crop=center&height=300&v=1733136649&width=240)
+* ![Collection image for: Under $100 Wonders](//savvysmartdeals.com/cdn/shop/collections/20_Off.png?crop=center&height=300&v=1734343841&width=240)
     
-    [$20 OFF](https://www.rangextd.com/collections/20-off) 
+    [Under $100 Wonders](https://www.rangextd.com/collections/under-100) 
     
-* ![Collection image for: 40% OFF](//savvysmartdeals.com/cdn/shop/collections/40_off.png?crop=center&height=300&v=1733136635&width=240)
+* ![Collection image for: Curated For You](//savvysmartdeals.com/cdn/shop/collections/40_off.png?crop=center&height=300&v=1734343723&width=240)
     
-    [40% OFF](https://www.rangextd.com/collections/40-off) 
+    [Curated For You](https://www.rangextd.com/collections/for-you) 
     
-* ![Collection image for: 50% OFF](//savvysmartdeals.com/cdn/shop/collections/50_Off.png?crop=center&height=300&v=1733136625&width=240)
+* ![Collection image for: Perfect Picks Under $40](//savvysmartdeals.com/cdn/shop/collections/50_Off.png?crop=center&height=300&v=1734343712&width=240)
     
-    [50% OFF](https://www.rangextd.com/collections/50-off) 
+    [Perfect Picks Under $40](https://www.rangextd.com/collections/under-40) 
     
-* ![Collection image for: 62% OFF](//savvysmartdeals.com/cdn/shop/collections/62_Off.png?crop=center&height=300&v=1733136643&width=240)
+* ![Collection image for: Gifting Made Easy](//savvysmartdeals.com/cdn/shop/collections/62_Off.png?crop=center&height=300&v=1734343831&width=240)
     
-    [62% OFF](https://www.rangextd.com/collections/62-off) 
+    [Gifting Made Easy](https://www.rangextd.com/collections/gifting) 
     
 
 * ![](//savvysmartdeals.com/cdn/shop/files/preview_images/6b2f0772ddcd44f4a4cc0d311225af84.thumbnail.0000000000_small.jpg?v=1722599448)
@@ -82,9 +82,9 @@ Search results
     
     ### Holiday Gift Ideas
     
-    [See Deals](https://www.rangextd.com/collections/50-off) 
+    [See Deals](https://www.rangextd.com/collections/under-40) 
     
-    [](https://www.rangextd.com/collections/50-off)
+    [](https://www.rangextd.com/collections/under-40)
     
 * ![Banner image for: Luxury Sleep Upgrade](//savvysmartdeals.com/cdn/shop/files/02.gif?v=1729766345&width=620)
     
@@ -102,13 +102,13 @@ Discover the hottest items flying off the shelves.
 
 [Top 100 most sold](https://www.rangextd.com/collections/best-selling-items) 
 
-* Sale -50% [![Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](//savvysmartdeals.com/cdn/shop/files/bb10b229d0bf5f1d72f8fbb6b2406fd9.png?v=1721296782&width=465)![Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](//savvysmartdeals.com/cdn/shop/files/c1da1a43eb7a8fa6551480dd05ef6448_1bbfbacb-3496-41e4-839e-4be17870793c.jpg?v=1721296782&width=465)](https://www.rangextd.com/products/starscope-ver-3)
+* Sale -65% [![Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](//savvysmartdeals.com/cdn/shop/files/bb10b229d0bf5f1d72f8fbb6b2406fd9.png?v=1721296782&width=465)![Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](//savvysmartdeals.com/cdn/shop/files/c1da1a43eb7a8fa6551480dd05ef6448_1bbfbacb-3496-41e4-839e-4be17870793c.jpg?v=1721296782&width=465)](https://www.rangextd.com/products/starscope-ver-3)
     
     ### [Starscope Monocular Master - Enhanced Viewing, Clear and Crisp](https://www.rangextd.com/products/starscope-ver-3)
     
     Next day delivery
     
-    $159.99 $79.99
+    $159.99 $55.99
     
 * Sale -59% [![Blaux Bidet - Portable Clean, Convenient, Customizable](//savvysmartdeals.com/cdn/shop/files/hero6.jpg?v=1724830907&width=465)![Blaux Bidet - Portable Clean, Convenient, Customizable](//savvysmartdeals.com/cdn/shop/files/img7.jpg?v=1724830926&width=465)](https://www.rangextd.com/products/blaux-bidet-gen-2)
     
@@ -126,21 +126,21 @@ Discover the hottest items flying off the shelves.
     
     $159.99 $49.99
     
-* Sale -50% [![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/45b73ad83fddd9a705b1795e04ee6fb4.png?v=1721296571&width=465)![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/d4377ec58d44e370d98f033038246f58_89c6a325-b2bc-4e7e-a0cf-76c5d97ce655.png?v=1721296571&width=465)](https://www.rangextd.com/products/kore-2-0)
+* Sale -56% [![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/45b73ad83fddd9a705b1795e04ee6fb4.png?v=1721296571&width=465)![Kore 2.0 Elite Smart Watch - Health Tracker,](//savvysmartdeals.com/cdn/shop/files/d4377ec58d44e370d98f033038246f58_89c6a325-b2bc-4e7e-a0cf-76c5d97ce655.png?v=1721296571&width=465)](https://www.rangextd.com/products/kore-2-0)
     
     ### [Kore 2.0 Elite Smart Watch - Health Tracker,](https://www.rangextd.com/products/kore-2-0)
     
     Next day delivery
     
-    $179.99 $89.99
+    $179.99 $79.99
     
-* Sale -49% [![FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](//savvysmartdeals.com/cdn/shop/files/21ba131ff61860c60a2c3bfbf8df7c5c_16903b1f-bf28-4ae3-89d9-87f8b1a57bfc.png?v=1721296741&width=465)![FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](//savvysmartdeals.com/cdn/shop/files/7631a224fb1d2d168907c2429956350f.jpg?v=1721296741&width=465)](https://www.rangextd.com/products/smart-pet-qr-tag)
+* Sale -68% [![FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](//savvysmartdeals.com/cdn/shop/files/21ba131ff61860c60a2c3bfbf8df7c5c_16903b1f-bf28-4ae3-89d9-87f8b1a57bfc.png?v=1721296741&width=465)![FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](//savvysmartdeals.com/cdn/shop/files/7631a224fb1d2d168907c2429956350f.jpg?v=1721296741&width=465)](https://www.rangextd.com/products/smart-pet-qr-tag)
     
     ### [FindZ QR Pet Tag - Lost and Found Solution, Quick and Easy Identification](https://www.rangextd.com/products/smart-pet-qr-tag)
     
     Next day delivery
     
-    $62.99 $31.99
+    $62.99 $19.99
     
 * Sale -55% [![Hajimari Flying Nova Ball - Fun, Skill-Building, Portable Flight](//savvysmartdeals.com/cdn/shop/files/slide-1.png?v=1722601614&width=465)![Hajimari Flying Nova Ball - Fun, Skill-Building, Portable Flight](//savvysmartdeals.com/cdn/shop/files/slide-3.png?v=1722601614&width=465)](https://www.rangextd.com/products/hajimari-by-tesimai-g2)
     
@@ -150,13 +150,13 @@ Discover the hottest items flying off the shelves.
     
     $110.99 $49.99
     
-* Sale -52% [![MiSole Compression Socks - Support and Recovery](//savvysmartdeals.com/cdn/shop/files/slide-1.jpg?v=1722601451&width=465)![MiSole Compression Socks - Support and Recovery](//savvysmartdeals.com/cdn/shop/files/slide-2.jpg?v=1722601451&width=465)](https://www.rangextd.com/products/compression-socks)
+* Sale -60% [![MiSole Compression Socks - Support and Recovery](//savvysmartdeals.com/cdn/shop/files/slide-1.jpg?v=1722601451&width=465)![MiSole Compression Socks - Support and Recovery](//savvysmartdeals.com/cdn/shop/files/slide-2.jpg?v=1722601451&width=465)](https://www.rangextd.com/products/compression-socks)
     
     ### [MiSole Compression Socks - Support and Recovery](https://www.rangextd.com/products/compression-socks)
     
     Next day delivery
     
-    $99.99 $47.98
+    $99.99 $39.99
     
 * Sale -49% [![Dryer Morning Star Laundry Masher - Faster, Softer, Efficient Drying](//savvysmartdeals.com/cdn/shop/files/Stack.png?v=1727161715&width=465)![Dryer Morning Star Laundry Masher - Faster, Softer, Efficient Drying](//savvysmartdeals.com/cdn/shop/files/Stack1.png?v=1727161715&width=465)](https://www.rangextd.com/products/dryer-ball)
     
@@ -166,43 +166,43 @@ Discover the hottest items flying off the shelves.
     
     $78.99 $39.99
     
-* Sale -50% [![KoreScale Scale - Smarter Weighing](//savvysmartdeals.com/cdn/shop/files/6795ac12443aec661314765c76781104.png?v=1721296591&width=465)![KoreScale Scale - Smarter Weighing](//savvysmartdeals.com/cdn/shop/files/2293165cee4890476334155377155a5c_a4912df0-ad55-4923-961e-60afed608896.png?v=1721296591&width=465)](https://www.rangextd.com/products/korescale)
+* Sale -54% [![KoreScale Scale - Smarter Weighing](//savvysmartdeals.com/cdn/shop/files/6795ac12443aec661314765c76781104.png?v=1721296591&width=465)![KoreScale Scale - Smarter Weighing](//savvysmartdeals.com/cdn/shop/files/2293165cee4890476334155377155a5c_a4912df0-ad55-4923-961e-60afed608896.png?v=1721296591&width=465)](https://www.rangextd.com/products/korescale)
     
     ### [KoreScale Scale - Smarter Weighing](https://www.rangextd.com/products/korescale)
     
     Next day delivery
     
-    $218.99 $109.99
+    $218.99 $99.99
     
-* Sale -50% [![Laundry Masher Pineapple Scent Magic & Effortless Laundry](//savvysmartdeals.com/cdn/shop/files/6791804d9c4bfa31ddf85205b6a46c18.png?v=1721296637&width=465)![Laundry Masher Pineapple Scent Magic & Effortless Laundry](//savvysmartdeals.com/cdn/shop/files/a16aefae629a3fe7905835cda87d96e9_585744dd-bb2b-4967-a765-06f807cc54bf.png?v=1721296637&width=465)](https://www.rangextd.com/products/laundry-masher-pineapple)
+* Sale -64% [![Laundry Masher Pineapple Scent Magic & Effortless Laundry](//savvysmartdeals.com/cdn/shop/files/6791804d9c4bfa31ddf85205b6a46c18.png?v=1721296637&width=465)![Laundry Masher Pineapple Scent Magic & Effortless Laundry](//savvysmartdeals.com/cdn/shop/files/a16aefae629a3fe7905835cda87d96e9_585744dd-bb2b-4967-a765-06f807cc54bf.png?v=1721296637&width=465)](https://www.rangextd.com/products/laundry-masher-pineapple)
     
     ### [Laundry Masher Pineapple Scent Magic & Effortless Laundry](https://www.rangextd.com/products/laundry-masher-pineapple)
     
     Next day delivery
     
-    $110.99 $55.99
+    $110.99 $39.99
     
-* Sale -58% [![MiSole Acupuncture Insoles - Natural Relief](//savvysmartdeals.com/cdn/shop/files/e38b4c1c513f49672a7439b7cacf86be.png?v=1721296649&width=465)![MiSole Acupuncture Insoles - Natural Relief](//savvysmartdeals.com/cdn/shop/files/0d1d67310aa69eaa7426bc3f678e95df_9704dd6b-1048-42ca-a289-0bea7c4b2094.png?v=1721296649&width=465)](https://www.rangextd.com/products/mindinsole)
+* Sale -58% [![2 Packs of MiSole Acupuncture Insoles - Natural Relief](//savvysmartdeals.com/cdn/shop/files/e38b4c1c513f49672a7439b7cacf86be.png?v=1721296649&width=465)![2 Packs of MiSole Acupuncture Insoles - Natural Relief](//savvysmartdeals.com/cdn/shop/files/0d1d67310aa69eaa7426bc3f678e95df_9704dd6b-1048-42ca-a289-0bea7c4b2094.png?v=1721296649&width=465)](https://www.rangextd.com/products/mindinsole)
     
-    ### [MiSole Acupuncture Insoles - Natural Relief](https://www.rangextd.com/products/mindinsole)
+    ### [2 Packs of MiSole Acupuncture Insoles - Natural Relief](https://www.rangextd.com/products/mindinsole)
     
     $119.99 $49.99
     
-* Sale -50% [![Snapshot Action Cam - Adventure Ready, Capture the Moment](//savvysmartdeals.com/cdn/shop/files/stack.jpg?v=1727161028&width=465)![Snapshot Action Cam - Adventure Ready, Capture the Moment](//savvysmartdeals.com/cdn/shop/files/Stack4.jpg?v=1727161028&width=465)](https://www.rangextd.com/products/snapshot-camera)
+* Sale -57% [![Snapshot Action Cam - Adventure Ready, Capture the Moment](//savvysmartdeals.com/cdn/shop/files/stack.jpg?v=1727161028&width=465)![Snapshot Action Cam - Adventure Ready, Capture the Moment](//savvysmartdeals.com/cdn/shop/files/Stack4.jpg?v=1727161028&width=465)](https://www.rangextd.com/products/snapshot-camera)
     
     ### [Snapshot Action Cam - Adventure Ready, Capture the Moment](https://www.rangextd.com/products/snapshot-camera)
     
     Next day delivery
     
-    $139.99 $69.99
+    $139.99 $59.99
     
-* Sale -46% [![RangeXTD WiFi Extender - Seamless Coverage](//savvysmartdeals.com/cdn/shop/files/67c81fad9ac5ac20a93a1caae3a8ee10.png?v=1721296728&width=465)](https://www.rangextd.com/products/rangextd)
+* Sale -55% [![RangeXTD WiFi Extender - Seamless Coverage](//savvysmartdeals.com/cdn/shop/files/67c81fad9ac5ac20a93a1caae3a8ee10.png?v=1721296728&width=465)](https://www.rangextd.com/products/rangextd)
     
     ### [RangeXTD WiFi Extender - Seamless Coverage](https://www.rangextd.com/products/rangextd)
     
     Next day delivery
     
-    $110.99 $59.99
+    $110.99 $49.99
     
 
 [Top 100 most sold](https://www.rangextd.com/collections/best-selling-items) 
@@ -218,11 +218,11 @@ Don't Miss Out on Must-Have Devices & Unique Items!
     
     $75.00 $56.96
     
-* Sale -34% [![ChargeCard - Your Ultimate Portable Charger](//savvysmartdeals.com/cdn/shop/files/81U60BpbryL._AC_UF894_1000_QL80.jpg?v=1730364730&width=465)![ChargeCard - Your Ultimate Portable Charger](//savvysmartdeals.com/cdn/shop/files/mid2_jpg.webp?v=1730364730&width=465)](https://www.rangextd.com/products/chargecard-ultimate-portable)
+* Sale -49% [![ChargeCard - Your Ultimate Portable Charger](//savvysmartdeals.com/cdn/shop/files/81U60BpbryL._AC_UF894_1000_QL80.jpg?v=1730364730&width=465)![ChargeCard - Your Ultimate Portable Charger](//savvysmartdeals.com/cdn/shop/files/mid2_jpg.webp?v=1730364730&width=465)](https://www.rangextd.com/products/chargecard-ultimate-portable)
     
     ### [ChargeCard - Your Ultimate Portable Charger](https://www.rangextd.com/products/chargecard-ultimate-portable)
     
-    $60.59 $39.99
+    $78.99 $39.99
     
 * Sale -55% [![Experience the Future of Cleaning - Duck Vacuum](//savvysmartdeals.com/cdn/shop/files/71QvHUfavmL._AC_SL1500.jpg?v=1733995031&width=465)![Experience the Future of Cleaning - Duck Vacuum](//savvysmartdeals.com/cdn/shop/files/3224b87e11554039ae19fcd17622a1f0_1.jpg?v=1733995031&width=465)](https://www.rangextd.com/products/ducpowervac)
     
