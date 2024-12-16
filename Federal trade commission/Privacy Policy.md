@@ -224,7 +224,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [New FTC Data Show Skyrocketing Consumer Reports About Game-Like Online Job Scams](https://www.ftc.gov/news-events/news/press-releases/2024/12/new-ftc-data-show-skyrocketing-consumer-reports-about-game-online-job-scams)
+    ### [FTC Sues Southern Glazer’s for Illegal Price Discrimination](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-sues-southern-glazers-illegal-price-discrimination)
     
     December 12, 2024
     
