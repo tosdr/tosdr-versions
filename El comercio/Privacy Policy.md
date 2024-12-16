@@ -31,6 +31,166 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cortes de luz reducidos en Quito este lunes 16 de diciembre
+===========================================================
+
+Los cortes de luz en Quito de este lunes 16 de diciembre comprenden dos horas consecutivas de suspensión para el sector residencial
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial. Cortes de luz hoy serán de dos horas.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-16T081909.949.jpg)
+
+**Quito** tendrá **cortes de luz** de dos horas **este lunes 16 de diciembre** de 2024, para el sector residencial. La **Empresa Eléctrica Quito (EEQ)** publicó la programación de la suspensión del servicio de energía eléctrica para esta semana.
+
+### Más noticias
+
+* [Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos](https://www.elcomercio.com/actualidad/ecuador/gobierno-ratifica-fin-cortes-luz-ecuador.html "Gobierno ratifica el fin de los cortes de luz luego de más de 80 días de racionamientos")
+* [Compensación del consumo energético, ¿ya se refleja este beneficio en la planilla de luz?](https://www.elcomercio.com/actualidad/ecuador/compensacion-consumo-energetico-refleja-beneficio-planilla-luz.html "Compensación del consumo energético, ¿ya se refleja este beneficio en la planilla de luz?")
+* [Últimos días para matriculación y revisión técnica vehicular en Quito](https://www.elcomercio.com/actualidad/quito/ultimos-dias-para-matriculacion-y-revision-tecnica-vehicular-en-quito.html "Últimos días para matriculación y revisión técnica vehicular en Quito")
+
+Cortes de luz en Quito se reducen a dos horas
+---------------------------------------------
+
+El presidente **Daniel Noboa** anunció que el 20 de diciembre finalizarán los cortes de luz programados por la crisis energética.
+
+El Gobierno señaló que existe una **recuperación** de capacidad instalada y la incorporación de nueva generación de energía.
+
+Además, la **compra** de energía a **Colombia** y el aumento de los caudales y los embalses que abastecen a hidroeléctricas como **Mazar** y **Paute**, que permiten tomar esta nueva medida.
+
+Así, **Ecuador** no llegaría a los tres meses de los cortes de luz programados a causa de la crisis energética por la dependencia de las **lluvias**.
+
+La suspensión de **energía eléctrica** empezó el 23 de septiembre en todo el país.
+
+A partir de esa fecha, los ecuatorianos han tenido hasta **14 horas diarias** de cortes de luz.
+
+El período diario más reducido de cortes de luz es el de la semana actual, con la suspensión del servicio de energía eléctrica de hasta **tres horas.**
+
+Horarios de cortes de luz
+
+Sin embargo, desde la **próxima semana**, los cortes de luz están programados con **una duración de dos horas en la capital.**
+
+Son dos horas consecutivas para el **sector residencial**.
+
+Para el **sector industrial**, los cortes de luz siguen siendo de siete horas consecutivas.
+
+En Quito, la **Empresa Eléctrica** estableció el cronograma para este el [lunes 16 de diciembre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+Giséle Pelicot llegó al tribunal donde hoy se juzga a su exmarido, Dominique Pelicot
+====================================================================================
+
+El tribunal del macroproceso que juzga a 51 hombres por la violación de Giséle Pelicot inició este lunes 16 de diciembre sus deliberaciones
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Gisèle Pelicot llega al tribunal penal donde se juzga a su exmarido Dominique Pelicot, en Aviñón, sur de Francia, el 16 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-16T073417.580.jpg)
+
+El tribunal del macroproceso que **juzga a 51 hombres** por la sumisión química y violación de **Giséle Pelicot** inició este lunes sus deliberaciones después de tres meses y medio de vistas de un juicio que ha dado la vuelta al mundo.
+
+### Más noticias
+
+* [Fiscalía pide la pena máxima para exesposo de Gisèle Pelicot](https://www.elcomercio.com/actualidad/mundo/fiscalia-pide-pena-maxima-dominique-pelicot.html "Fiscalía pide la pena máxima para exesposo de Gisèle Pelicot")
+* [Recta final del juicio a Dominique Pelicot](https://www.elcomercio.com/actualidad/mundo/recta-final-juicio-dominique-pelicot.html "Recta final del juicio a Dominique Pelicot")
+* [Noboa y Petro acuerdan en Galápagos fortalecer cooperación en frontera Ecuador y Colombia](https://www.elcomercio.com/actualidad/daniel-noboa-gustavo-petro.html "Noboa y Petro acuerdan en Galápagos fortalecer cooperación en frontera Ecuador y Colombia")
+
+El tribunal inició la deliberación
+----------------------------------
+
+Después de que los **51 acusados** tuvieron hoy la oportunidad de dirigirse a la sala al término de las vistas, el presidente del Tribunal de Aviñón (sureste de Francia), Roger Arata, concluyó la corta sesión para el inicio de la deliberación.
+
+El **veredicto** se espera el jueves a partir de las 9:30 (8:30 GMT), en una sentencia que se prevé histórica, por **la cantidad de acusados y** por los hechos que se juzgan. **Decenas de violaciones** \-200 según la víctima, Giséle Pelicot, de 72 años- documentadas durante una década en miles de fotografías y videos.
+
+Ese material lo realizó el principal acusado, **Dominique Pelicot,** de 72 años, el exmarido y violador confeso de Gisèle Pelicot. Y quien afronta una **pena de hasta 20 años de prisión**, la máxima prevista para los delitos que se le imputan.
+
+La pena más baja requerida por la Fiscalía es de 4 años, para Joseph C., un hombre de 69 años acusado de **agresión sexual**, al no constatar el Ministerio Público penetración en los abusos cometidos.
+
+650 años de cárcel pedidos por la Fiscalía
+------------------------------------------
+
+En total, el conjunto d**e penas solicitadas para todos los acusados,** con edades que van de los 27 a los 74 años, **se elevan a 650 años de reclusión.**
+
+La sesión de este lunes duró menos de dos horas, cuando habitualmente suele ser de ocho, ya que la mayoría de **acusados no quiso ejercer su derecho a habla**r antes de la deliberación.
+
+Buena parte de ellos **se limitaron a agradecer al tribunal** y a sus abogados su desempeño, aunque otros también quisieron excusarse una vez más ante la víctima por el daño causado, que le puso en peligro de muerte.
+
+**Dominique Pelicot** aprovechó su último turno **para asumir su responsabilidad** y para extenderla también a los demás acusados: “Todos los que están aquí, a pesar de la presunción de inocencia, son culpables, como yo”, aseguró.
+
+Los agresores de Giséle Pelicot
+-------------------------------
+
+El **violador confeso** pidió perdón una vez más a la víctima, con la que estuvo casado durante medio siglo, así como a su familia. “La privación de no ver a los míos es peor que la privación de libertad”, reconoció.
+
+Después le tocó el turno a Jean-Pierre Maréchal, **el único juzgado que no violó a Gisèle Pelicot**, sino a su propia mujer, que también es víctima de agresión sexual por **Dominique Pelicot** en varias ocasiones.
+
+“Júzguenme por lo que he hecho y por lo que soy”, pidió Marechal, tras asumir su culpa.
+
+Hubo acusados que trataron de **eludir su culpa.** “No soy un violador”, dijo uno de ellos, a pesar de las fotos y videos que hizo **Dominique Pelicot** mientras cometían los delitos, prueba clave del juicio.
+
+Al terminar la sesión, la abogada de **Dominique Pelicot**, Béatrice Zavarro, declaró a la prensa que su cliente **“ha evolucionado a nivel humano”** a lo largo del proceso, en el que ha querido pedir perdón a su exmujer.
+
+El caso Pelicot
+---------------
+
+Las **decenas de violaciones** se produjeron en la casa que la expareja tenía en Mazan, al sureste de Francia, después de que Pelicot dejara a la víctima en estado de inconsciencia. Esto con altas cantidades de ansiolíticos que le suministró a escondidas entre 2011 y 2020.
+
+En ese estado, **la violaba reiteradamente** y decenas de hombres hacían lo mismo, tras ser contactados por él en foros de internet.
+
+Todo terminó cuando en septiembre de 2020 fue detenido **por grabar bajo las faldas de unas mujeres** en un supermercado de Carpentras.
+
+Al registrar los investigadores sus archivos informáticos, **descubrieron miles de videos y fotos** con las violaciones a las que sometió a su ahora exmujer.
+
+**Dominique Pelicot** ha sido acusado también en otros **dos casos de violencia de género**, uno por la violación y el asesinato de una mujer en 1991 y el otro por una [tentativa de violación](https://es.wikipedia.org/wiki/Gis%C3%A8le_P%C3%A9licot "https://es.wikipedia.org/wiki/Gis%C3%A8le_P%C3%A9licot") en 1999.
+
+Así funciona el Pico y placa este lunes 16 de diciembre
+=======================================================
+
+Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-13T160255.733.jpg)
+
+El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida se implementa para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
+
+### Más noticias
+
+* [Cambios en la movilidad por trabajos en la av. Ladrón de Guevara en Quito](https://www.elcomercio.com/actualidad/quito/cambios-movilidad-ladron-guevara.html "Cambios en la movilidad por trabajos en la av. Ladrón de Guevara en Quito")
+* [Volcán Cotopaxi presenta cambios en su actividad sísmica](https://www.elcomercio.com/actualidad/ecuador/volcan-cotopaxi-cambios-actividad-sismica.html "Volcán Cotopaxi presenta cambios en su actividad sísmica")
+* [Un excoronel y un capitán de la Armada, involucrados en tráfico de droga](https://www.elcomercio.com/actualidad/seguridad/un-excoronel-y-un-capitan-armada-involucrados-en-trafico-de-droga.html "Un excoronel y un capitán de la Armada, involucrados en tráfico de droga")
+
+Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
+
+La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
+
+Horarios del Pico y placa
+-------------------------
+
+En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
+
+Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
+
+Multas por infringir la medida
+------------------------------
+
+La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir, 69 dólares la primera vez.
+
+Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
+
+Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
+
+Límites en Quito para Pico y placa
+----------------------------------
+
+Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
+
+Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
+
+El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
+
+Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
+
+> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
+> 
+> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
+
 La reforma ‘no más camisetazos’ sacude a la Asamblea Nacional
 =============================================================
 
@@ -735,224 +895,3 @@ La matriculación vehicular y la revisión son **procesos obligatorios** para to
 > Con responsabilidad ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Zwx8UK09Rf](https://t.co/Zwx8UK09Rf)
 > 
 > — AMTQuito (@AMT\_Quito) [December 9, 2024](https://twitter.com/AMT_Quito/status/1866112814017896561?ref_src=twsrc%5Etfw)
-
-La relación entre ‘Los Sangurimas’ y ‘Cien años de soledad’
-===========================================================
-
-Existen varios paralelismos entre ‘Los Sangurimas’ y ‘Cien años de soledad’.
-----------------------------------------------------------------------------
-
-![Jacques Guillard sugirió que ‘Los Sangurimas’ inspiró ‘Cien años de soledad’. Foto: Instagram @netflixlat.](https://www.elcomercio.com/wp-content/uploads/2024/12/Cien-anos-de-soledad.jpg)
-
-La **literatura latinoamericana** ha sido testigo de **obras maestras** que se han mantenido a lo largo del tiempo por su **gran calidad literaria**. Entre ellas, destacan ejemplos notables como **‘Los Sangurimas’** de **José de la Cuadra** y **‘Cien años de soledad’** de **Gabriel García Márquez**.  
-
-### Más noticias
-
-* [Este es el pueblo que inspiró a García Márquez para crear Macondo en ‘Cien años de soledad’](https://www.elcomercio.com/tendencias/macondo-cien-anos-de-soledad.html "https://www.elcomercio.com/tendencias/macondo-cien-anos-de-soledad.html")
-* [La serie de Netflix ‘Cien años de soledad’ estrena su tráiler oficial](https://www.elcomercio.com/tendencias/la-serie-de-netflix-cien-anos-de-soledad-estrena-su-trailer-oficial.html "https://www.elcomercio.com/tendencias/la-serie-de-netflix-cien-anos-de-soledad-estrena-su-trailer-oficial.html")
-
-A continuación, se explora cómo, a lo largo de la **historia de la literatura latinoamericana**, varios **académicos y críticos** han sugerido que la primera fue precursora de la segunda, debido a **conexiones temáticas y narrativas** que enriquecen la comprensión del realismo mágico en la literatura. 
-
-Cabe destacar que el interés por **‘Cien años de soledad’** ha resurgido en las nuevas generaciones gracias también al impulso dado por la **serie de Netflix** sobre esta novela. 
-
-**El origen de ‘Los Sangurimas’**
----------------------------------
-
-Según la web del [Ministerio de Cultura y Patrimonio](https://www.culturaypatrimonio.gob.ec/jose-de-la-cuadra/ "https://www.culturaypatrimonio.gob.ec/jose-de-la-cuadra/"), **José de la Cuadra**, nacido en **Guayaquil** el 3 de septiembre de 1903, fue abogado, periodista, docente y uno de los grandes escritores ecuatorianos. Publicó obras como **‘La Tigra’ y ‘Los Sangurimas’**, esta última su novela más destacada, que retrata la **vida montubia con realismo socia**l y elementos de realismo mágico. Aborda las tensiones de una **sociedad patriarcal en la Costa ecuatoriana**. Su estilo evolucionó del **modernismo al realismo social**, convirtiéndolo en un referente del cuento ecuatoriano y sudamericano. También destacó como profesor, vicerrector y catedrático, además de ocupar varios cargos diplomáticos. Falleció en Guayaquil el 27 de febrero de 1941.
-
-**Paralelismos literarios**
----------------------------
-
-Según un artículo de **[María Isabel Mena](https://lljournal.commons.gc.cuny.edu/mena/#:~:text=%5B2%5D%20En%201977%2C%20Jacques,para%20escribir%20su%20obra%20maestra. "https://lljournal.commons.gc.cuny.edu/mena/#:~:text=%5B2%5D%20En%201977%2C%20Jacques,para%20escribir%20su%20obra%20maestra.")**, de la Universidad Central del Ecuador, **Jacques Guillard**, especialista en García Márquez, publicó en 1977 un estudio titulado **‘De Los Sangurimas a Cien años de soledad’** en la revista Cambio, en el que sugería que **García Márquez** podría haberse ‘inspirado’ en ‘Los Sangurimas’ para escribir su obra maestra.  
-
-Desde entonces, teóricos como Fernando Tinajero, Diego Araujo, María Augusta Vintimilla, Miguel Donoso Pareja y Fernando Nina han revisitado la idea de considerar ‘Los Sangurimas’ como una **precursora del real maravilloso o del realismo mágico**. 
-
-Según **Jorge Santtori**, escritor, docente y librero quiteño, aunque ‘Cien años de soledad’ de **Gabriel García Márquez** y ‘Los Sangurimas’ de **José de la Cuadra** comparten ciertos elementos, como el enfoque en **comunidades rurales y aisladas**, difieren significativamente en estilo y escuela literaria. Mientras que ‘Los Sangurimas’ pertenece al **realismo costumbrista** y explora mitos y tradiciones de la costa ecuatoriana, ‘Cien años de soledad’ se enmarca en el **realismo mágico**, caracterizado por la convivencia de lo cotidiano con lo fantástico.
-
-Santtori sugiere que **García Márquez** pudo haber leído la obra de De la Cuadra, pero destaca que **cada novela refleja su propio contexto y crítica social**, evitando considerarlas como una continuidad directa. Ambas abordan la **tensión entre la modernidad y la tradición**, y cuestionan los impactos de la industrialización en América Latina. Pese a las similitudes temáticas, sus narrativas son **estilísticamente opuestas**: lineal en ‘Los Sangurimas’ y no lineal en ‘Cien años de soledad’. 
-
-**Contexto histórico y cultural** 
-----------------------------------
-
-**‘Los Sangurimas’**, publicada en 1934, es una obra fundamental del **realismo literario ecuatoriano**. La novela narra la historia de una **familia montubia**, centrada en **Nicasio Sangurima**, un patriarca cuyas acciones y decisiones moldean el **destino de su estirpe**. 
-
-Por otro lado, **‘Cien años de soledad’**, publicada en 1967, se ha consagrado como un **ícono del realismo mágico**, al narrar la **saga de la familia Buendía** en el pueblo ficticio de **Macondo**. Ambas obras reflejan las **complejidades sociales y culturales** de sus respectivos contextos: Ecuador y Colombia durante el siglo XX. 
-
-**Temáticas compartidas** 
---------------------------
-
-Una de las **similitudes más notable**s entre ‘Los Sangurimas’ y ‘Cien años de soledad’ es el **tratamiento del incesto** y las **dinámicas familiares** complejas. En ‘Los Sangurimas’, se explora la relación incestuosa entre los miembros de la familia, un tema que también aparece en la obra de García Márquez con la relación entre **José Arcadio Buendía y Úrsula Iguarán**. Esta temática no solo resalta las **tensiones familiares**, sino que también refleja las costumbres y creencias arraigadas en las sociedades latinoamericanas, siguiendo con un artículo de Gabriela Vargas para la revista [Kipus](https://repositorio.uasb.edu.ec/bitstream/10644/1554/1/RK16-Ho-Vargas.pdf "https://repositorio.uasb.edu.ec/bitstream/10644/1554/1/RK16-Ho-Vargas.pdf").  
-
-Además, ambas novelas presentan un entorno donde **lo mágico y lo real coexisten** (característica típica del **realismo mágico**). En ‘Los Sangurimas’, **Nicasio Sangurima** es visto como un **personaje casi mítico**, con rumores sobre su **pacto con el diablo** que le otorga riqueza e inmortalidad. Esta **mezcla de realidad y fantasía** se encuentra también en **‘Cien años de soledad’**, donde los Buendía enfrentan situaciones extraordinarias que desafían las leyes naturales, de acuerdo con un artículo de Alfredo Alzugarat para [Kipus](https://repositorio.uasb.edu.ec/bitstream/10644/1230/1/RK-01-ES-Alzugarat.pdf "https://repositorio.uasb.edu.ec/bitstream/10644/1230/1/RK-01-ES-Alzugarat.pdf").  
-
-**Estructura narrativa** 
--------------------------
-
-La **estructura narrativa** también muestra **paralelismos significativos**. Ambas obras utilizan un **enfoque coral**, donde **múltiples personajes** contribuyen a la historia general. En **‘Los Sangurimas’**, cada miembro de la familia aporta su perspectiva a los eventos que se desarrollan, al crear un mosaico narrativo que refleja la **complejidad del linaje montubio**. De manera similar, **‘Cien años de soledad’** despliega una **narrativa intergeneracional** que abarca varias décadas, lo que permite al lector observar la evolución y decadencia del clan Buendía, a decir de José Luis Cáceres en un artículo para [LL Journal](https://lljournal.commons.gc.cuny.edu/2013-2-caceres-texto/ "https://lljournal.commons.gc.cuny.edu/2013-2-caceres-texto/").  
-
-**Antecedente en el realismo mágico** 
---------------------------------------
-
-El impacto de **‘Los Sangurimas’** en el desarrollo del **realismo mágico** es innegable. Autores como **Fernando Alegría** han señalado que esta novela sirve como **antecedente a ‘Cien años de soledad’**. La habilidad de De la Cuadra para **integrar elementos míticos** con **realidades sociales** ha sido reconocida como un eco en García Márquez, quien perfeccionó esta técnica para construir su propio universo literario, siguiendo con Gabriela Vargas.  
-
-**Relevancia contemporánea** 
------------------------------
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDAv83XSEcI/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Netflix Latinoamérica (@netflixlat)](https://www.instagram.com/p/DDAv83XSEcI/?utm_source=ig_embed&utm_campaign=loading)
-
-En tiempos recientes, el interés por estas obras ha resurgido entre nuevas generaciones. La **exploración de sus conexiones** ofrece una perspectiva fresca sobre cómo las **influencias literarias** trascienden fronteras geográficas y temporales. La relevancia del **realismo mágico** sigue vigente, aún resuena con lectores que buscan comprender sus raíces culturales, ejemplo de ello es la reciente serie de Netflix sobre ‘Cien años de soledad’.  
-
-### Te recomendamos:
-
-Ley suspende incrementos de arriendo durante la emergencia energética
-=====================================================================
-
-El Gobierno suspendió temporalmente los incrementos automáticos en contratos de arriendo durante la emergencia eléctrica.
--------------------------------------------------------------------------------------------------------------------------
-
-![Los arriendos no subirán mientras dure la emergencia eléctrica.](https://www.elcomercio.com/wp-content/uploads/2024/12/arriendo.jpg)
-
-El **Gobierno Nacional** suspendió temporalmente los **incrementos automáticos** en los contratos de **arriendo** mientras dure la emergencia en el sector eléctrico. La medida se establece en la Ley de Alivio Financiero y beneficia a miles de hogares en Ecuador[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Facilidades para pagar internet, telefonía y electricidad con la Ley de Alivio Financiero](https://www.elcomercio.com/actualidad/negocios/facilidades-pago-internet-telefonia-electricidad-emergencia.html "Facilidades para pagar internet, telefonía y electricidad con la Ley de Alivio Financiero")
-* [¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?](https://www.elcomercio.com/actualidad/negocios/como-acceder-seguro-desempleo-con-ley-alivio-financiero.html "¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?")
-* [Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios](https://www.elcomercio.com/actualidad/negocios/ley-de-alivio-financiero-en-ecuador-puntos-clave-y-fecha-de-acceso-a-los-mas-de-20-beneficios.html "Ley de alivio financiero en Ecuador: puntos clave y fecha de acceso a los más de 20 beneficios")
-
-Según el Censo 2022, cerca del 22% de los hogares del Ecuador vive en viviendas arrendadas. Es decir, cerca de 1,2 millones de familias viven en casas alquiladas.
-
-En Ecuador, el arriendo de inmuebles representa una práctica común y se lo formaliza con un contrato. Estos están regulados legalmente y contemplan aspectos clave como la **periodicidad en los ajustes** del canon de arriendo, también conocido como el monto que el arrendatario paga al arrendador. El incremento suele realizarse anualmente de forma automática. Por ejemplo, en 2024, el incremento máximo permitido para estos ajustes fue del 9,28%.
-
-Sin aumento el valor de los arriendos en 2025
----------------------------------------------
-
-En 2025 no puede haber un **incremento en el arriendo** mientras dure la **emergencia eléctrica**. Esta ha obligado a las autoridades a programar **cortes de luz** desde mediados de septiembre de este 2024 y no se conoce con exactitud cuándo terminará.
-
-Con la entrada en vigor de esta disposición, los arrendatarios podrán renovar sus contratos sin preocuparse por incrementos en el canon de arriendo mientras dure la emergencia. Esto no solo brinda un alivio financiero directo, sino que también fomenta la **estabilidad habitacional** en momentos de incertidumbre económica.
-
-Es importante destacar que esta medida forma parte de un **conjunto de acciones para proteger** a los hogares afectados. Junto con las facilidades de pago para servicios básicos como electricidad e internet, la suspensión de incrementos en el arriendo, el Gobierno busca mitigar el impacto de la crisis.
-
-* * *
-
-> ### Esperanza
-> 
-> Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-> 
-> Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-> 
-> [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Aumento de penas a niños en Ecuador marca debate en Asamblea y Unicef
-=====================================================================
-
-Derechos humanos y el contexto violento que viven los menores en Ecuador están entre los elementos en contra del aumento de penas para menores.
------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial menor de edad privado de la libertad.](https://www.elcomercio.com/wp-content/uploads/2024/12/foto-menores.jpg)
-
-¿Juzgar a **menores de edad** o **niños** como adultos? La propuesta de aumento de **penas** en Ecuador que está en la lupa de la **Asamblea Nacional** y, a su vez, hay argumentos en contra, por parte de la **Unicef**.
-
-De aprobarse el proyecto, la variación se aplicará a **menores de edad o niños** en casos de delitos contra la vida: **sicariato, asesinato y homicidio**.
-
-### Más noticias
-
-* [Niños sicarios, el reflejo de la violencia que se expande en Ecuador](https://www.elcomercio.com/opinion/editorial/ninos-sicarios-violencia-ecuador.html)
-* [Niños y adolescentes reclutados por GDO viven una ‘doble criminalización’](https://www.elcomercio.com/actualidad/seguridad/ninos-adolescentes-reclutados-gdo-ecuador.html)
-* [‘Cara Sucia’, el sicario adolescente que sufrió dos ataques armados en Manabí](https://www.elcomercio.com/actualidad/cara-sucia-el-sicario-adolescente-que-sufrio-dos-ataques-armados-en-manabi.html?source=Internal&ref=Single+Content+Link)
-* [Camilo Ponce Enríquez está entre la dominación criminal e intentos para tomar el control](https://www.elcomercio.com/actualidad/seguridad/camilo-ponce-enriquez-esta-entre-la-dominacion-criminal-e-intentos-para-tomar-el-control.html)
-
-Aumento de penas a menores y la Asamblea
-----------------------------------------
-
-El 26 de noviembre de 2024, el informe para el segundo debate del proyecto de Código Orgánico de Protección Integral a Niñas, Niños y Adolescentes se incluyó en el orden del día de la sesión 983 del Pleno del Legislativo.
-
-No obstante, el documento no se trató y, hasta el 13 de diciembre, no se conoció la nueva fecha. Esto luego de que fue aprobado en la **Comisión de Protección Integral a Niñas, Niños y Adolescentes**.
-
-La premisa es **reducir la edad de imputabilidad** (que no tiene responsabilidad penal) de los menores, de **14 a 12 años.**
-
-Pero, ya en 2017, el **Comité de los Derechos del Niño** observó al Estado ecuatoriano por el incremento del máximo de la medida de privación de libertad o **penas** para adolescentes, de 4 a 8 años. También indicó que evite el aumento de la duración de estas medidas.
-
-> ✅ Junto a nuestro socio implementador [@NaciondePazVAE](https://twitter.com/naciondepazVAE?ref_src=twsrc%5Etfw), realizamos actividades en 23 comunidades de [#Esmeraldas](https://twitter.com/hashtag/Esmeraldas?src=hash&ref_src=twsrc%5Etfw) para promover una cultura de paz y fortalecer la prevención de violencia a través del juego, el arte y la música.  
-> 🎨 Las actividades combinaron metodologías del Tesoro… [pic.twitter.com/MgQt4dbpwc](https://t.co/MgQt4dbpwc)
-> 
-> — UNICEF Ecuador (@unicefecuador) [December 12, 2024](https://twitter.com/unicefecuador/status/1867215306147459397?ref_src=twsrc%5Etfw)
-
-Los derechos y el panorama que viven los niños
-----------------------------------------------
-
-**Unicef** Ecuador tiene una postura clara sobre el tema y remarca que contradice la Constitución. Esta establece que la privación de libertad para adolescentes debe ser el último recurso y por el menor tiempo posible. Además, atenta contra los estándares internacionales en materia de derechos humanos.
-
-En Ecuador aumentaron en 2024 las medidas privativas de libertad de 6 a 8 años para adolescentes, en el **Código Orgánico Integral Penal (COIP)**.
-
-**Unicef** sostiene que lejos de resolver el problema, la situación de violencia se ha agravado. Esto evidencia que la situación es de fondo y requiere un enfoque integral.
-
-Desde la organización apuntan a que **menos del 1%** de la población privada de la libertad es menor de 18 años. Esto determina la mínima incidencia de los delitos cometidos por niños, niñas y adolescentes.
-
-Eso sí, hay cifras que develan la violencia que enfrentan los menores en Ecuador. De acuerdo con datos del **Instituto Nacional de Estadísticas y Censo (INEC)**, la primera causa de muerte, entre los 5 y 17 años, es el homicidio, seguida por siniestros de tránsito y suicidio (todas muertes violentas).
-
-> ✨ Creer en los sueños de los niños, niñas y adolescentes, apoyarlos, criarlos con amor y respeto, y hacer todo lo posible para proteger sus derechos, debe ser el compromiso de todos y todas.✨  
->   
-> 🙌 ¡Este es el momento de poner a la niñez y adolescencia en primer lugar! 💙  
->   
-> 🔗… [pic.twitter.com/niArXY4VxJ](https://t.co/niArXY4VxJ)
-> 
-> — UNICEF Ecuador (@unicefecuador) [December 11, 2024](https://twitter.com/unicefecuador/status/1866863664944308583?ref_src=twsrc%5Etfw)
-
-El reclutamiento para cometer delitos
--------------------------------------
-
-El estudio **Doble criminalización en cantones de alta peligrosidad en Ecuador: un análisis in situ**, realizado entre 2023 y 2024, incluye datos de la Dirección Nacional de Delitos Contra la Vida, Muertes Violentas, Desapariciones, Extorsión y Secuestros (Dinased).
-
-Las cifras refieren que cerca de **248 personas** de hasta 19 años de edad fueron asesinados en 2023. En el 2022, la cifra ascendió a 289 y en el 2020, 98.
-
-**Katherine Herrera Aguilar**, autora del análisis y consultora política en seguridad pública, remarca la responsabilidad del Estado. La falta de recursos, servicios y educación vuelven a los menores un blanco fácil de las organizaciones delictivas.
-
-Muchos son reclutados para convertirse en sicarios, se indica en la investigación. Menores de entre los **13 y 16 años** son captados a cambio de dinero. La investigación definió que reciben unos 4 000 dólares por trimestre, en los que se incluye vivienda y alimentación.
-
-Por eso, desde **Unicef** enfatizan que se debe priorizar las políticas de prevención e intervención temprana. El 20 de noviembre de 2024, justamente, la organización presentó la **Estrategia Nacional de Prevención de la Violencia contra niños, niñas y adolescentes**.
-
-En la elaboración de la propuesta participaron los poderes del **Estado y sociedad civil**.
-
-Los niños y adolescente en delitos
-----------------------------------
-
-La **Unicef** corrobora que los menores se han convertido en víctimas de reclutamiento por parte del  
-**crimen organizado**.
-
-Ese proceso es siempre forzado y se da en contextos de amenazas o situaciones de violencia. Este, a la par, responde a condiciones de abandono emocional, familiar y social que no se ha logrado atender de manera efectiva desde el **Estado y la sociedad**.
-
-Niños y adolescentes, habitualmente, son el último eslabón y las primeras víctimas en las organizaciones delictivas, por ejemplo, en acusaciones de **tráfico de drogas**, indica la organización de la ONU.
-
-Ellos suelen ser utilizados como vendedores minoristas de un negocio mucho más grande que implica la **producción, transporte y distribución**.
-
-¿Juzgar como adultos es criminalizar?
--------------------------------------
-
-**Katherine Herrera** apela a que juzgar a los niños como adultos es criminalizarlos, sin entender el contexto. “No estamos dando una respuesta ni protección. Los menores son víctimas de violencia estructural”.
-
-Ella deja claro que no se están pensando en las alternativas para establecer una hoja de ruta y dar opciones para apartar a la niñez de los grupos de **delincuencia organizada**.
-
-Si la gente desconoce que hay un delito de trata de personas y reclutamiento, **“lo que vamos a tener es un populismo de persecución del delito. La persecución debe ir para quien recluta, no para el menor. Los reclutadores ven a los niños como objetos desechables”**.
-
-Con eso, no solo se castiga el **delito de trata**, sino que se previene que más menores caigan. Esto, dice la experta en seguridad, no quiere decir que no haya un proceso para los menores, pero enfocado en una correcta rehabilitación social y sin olvidar que también son víctimas[.](https://es.wikipedia.org/wiki/Ecuador)
-
-Contextos de la infancia según el INEC
---------------------------------------
-
-* **1 de cada 2 niños y niñas** menores de 5 años recibe disciplina de forma violenta, ya sea psicológica o física de sus cuidadores.
-* **265 000 niños, niñas** y adolescentes están fuera del sistema educativo.  
-* **Los homicidios** son la principal causa de muerte de los adolescentes hombres entre 12 y 17 años. 
-* **Entre las adolescentes mujeres** de 12 a 17 años, el suicidio es la principal razón por la que mueren. 
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres ecuatorianas que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
