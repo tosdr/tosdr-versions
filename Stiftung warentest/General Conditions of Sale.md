@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wunder­sames aus dem Prüf­labor: Norm­fläzer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Normflaezer-6110428-0/ "Wundersames aus dem Prüflabor - Normfläzer")
-* [Shrink­flation: Die versteckte Preis­erhöhung](https://www.test.de/Shrinkflation-So-laeuft-die-versteckte-Preiserhoehung-6031412-0/ "Shrinkflation - Die versteckte Preiserhöhung")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [Drip Bars: Vitamin-Infusion? Für Gesunde unnötig](https://www.test.de/Drip-Bars-Vitamin-Infusion-Fuer-Gesunde-unnoetig-6160158-0/ "Drip Bars - Vitamin-Infusion? Für Gesunde unnötig")
-* [PWB Rechts­anwälte: Anleger­anwälte vor Gericht](https://www.test.de/PWB-Rechtsanwaelte-Anlegeranwaelte-vor-Gericht-6112529-0/ "PWB Rechtsanwälte - Anlegeranwälte vor Gericht")
-* [Digitale Biblio­theken: Unschlagbar günstig](https://www.test.de/Digitale-Bibliotheken-Unschlagbar-guenstig-6018849-0/ "Digitale Bibliotheken - Unschlagbar günstig")
+* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
+* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
+* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wunder­sames aus dem Prüf­labor: Norm­fläzer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Normflaezer-6110428-0/ "Wundersames aus dem Prüflabor - Normfläzer")
-* [Shrink­flation: Die versteckte Preis­erhöhung](https://www.test.de/Shrinkflation-So-laeuft-die-versteckte-Preiserhoehung-6031412-0/ "Shrinkflation - Die versteckte Preiserhöhung")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [Drip Bars: Vitamin-Infusion? Für Gesunde unnötig](https://www.test.de/Drip-Bars-Vitamin-Infusion-Fuer-Gesunde-unnoetig-6160158-0/ "Drip Bars - Vitamin-Infusion? Für Gesunde unnötig")
-* [PWB Rechts­anwälte: Anleger­anwälte vor Gericht](https://www.test.de/PWB-Rechtsanwaelte-Anlegeranwaelte-vor-Gericht-6112529-0/ "PWB Rechtsanwälte - Anlegeranwälte vor Gericht")
-* [Digitale Biblio­theken: Unschlagbar günstig](https://www.test.de/Digitale-Bibliotheken-Unschlagbar-guenstig-6018849-0/ "Digitale Bibliotheken - Unschlagbar günstig")
+* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
+* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
+* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wunder­sames aus dem Prüf­labor: Norm­fläzer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Normflaezer-6110428-0/ "Wundersames aus dem Prüflabor - Normfläzer")
-* [Shrink­flation: Die versteckte Preis­erhöhung](https://www.test.de/Shrinkflation-So-laeuft-die-versteckte-Preiserhoehung-6031412-0/ "Shrinkflation - Die versteckte Preiserhöhung")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [Drip Bars: Vitamin-Infusion? Für Gesunde unnötig](https://www.test.de/Drip-Bars-Vitamin-Infusion-Fuer-Gesunde-unnoetig-6160158-0/ "Drip Bars - Vitamin-Infusion? Für Gesunde unnötig")
-* [PWB Rechts­anwälte: Anleger­anwälte vor Gericht](https://www.test.de/PWB-Rechtsanwaelte-Anlegeranwaelte-vor-Gericht-6112529-0/ "PWB Rechtsanwälte - Anlegeranwälte vor Gericht")
-* [Digitale Biblio­theken: Unschlagbar günstig](https://www.test.de/Digitale-Bibliotheken-Unschlagbar-guenstig-6018849-0/ "Digitale Bibliotheken - Unschlagbar günstig")
+* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
+* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
+* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wunder­sames aus dem Prüf­labor: Norm­fläzer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Normflaezer-6110428-0/ "Wundersames aus dem Prüflabor - Normfläzer")
-* [Shrink­flation: Die versteckte Preis­erhöhung](https://www.test.de/Shrinkflation-So-laeuft-die-versteckte-Preiserhoehung-6031412-0/ "Shrinkflation - Die versteckte Preiserhöhung")
-* [Hoch­druck­reiniger im Test: Wer ist der beste Moos-Hammer?](https://www.test.de/Hochdruckreiniger-im-Test-Wer-ist-der-beste-Moos-Hammer-6140878-0/ "Hochdruckreiniger im Test - Wer ist der beste Moos-Hammer?")
-* [Drip Bars: Vitamin-Infusion? Für Gesunde unnötig](https://www.test.de/Drip-Bars-Vitamin-Infusion-Fuer-Gesunde-unnoetig-6160158-0/ "Drip Bars - Vitamin-Infusion? Für Gesunde unnötig")
-* [PWB Rechts­anwälte: Anleger­anwälte vor Gericht](https://www.test.de/PWB-Rechtsanwaelte-Anlegeranwaelte-vor-Gericht-6112529-0/ "PWB Rechtsanwälte - Anlegeranwälte vor Gericht")
-* [Digitale Biblio­theken: Unschlagbar günstig](https://www.test.de/Digitale-Bibliotheken-Unschlagbar-guenstig-6018849-0/ "Digitale Bibliotheken - Unschlagbar günstig")
+* [Fest­geld: Swed­bank-Angebot ist nicht echt](https://www.test.de/Festgeld-Swedbank-Angebot-ist-nicht-echt-6157210-0/ "Festgeld - Swedbank-Angebot ist nicht echt")
+* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
+* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
 
 Stiftung Warentest
 
