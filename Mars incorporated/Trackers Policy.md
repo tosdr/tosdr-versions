@@ -675,7 +675,7 @@ OUR PRIVACY STATEMENT
 
 #### Last Updated: November 2024 
 
-To print this Privacy Statement, please [click here(Opens a new window)](https://www.mars.com/sites/g/files/dfsbuz106/files/2024-12/Mars%20Privacy%20Statement_November%202024_Final_Clean%20for%20Printing.pdf).
+To print this Privacy Statement, please [click here](https://www.mars.com/sites/g/files/dfsbuz106/files/2024-12/Mars%20Privacy%20Statement_November%202024_Final_Clean%20for%20Printing.pdf).
 
 Overview
 --------
@@ -711,7 +711,7 @@ If you apply for a job at Mars, the data controller is the Mars affiliate group 
 
 We are committed to promptly responding to any questions or concerns you may have.  
 
-If you have a general question about our personal data practices or want to contact the global privacy team or the Mars Data Protection Officer, please [click here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/52a0b366-5dde-4e9c-8c03-72676aac0cb7.html). If you have a request regarding your data and would like to exercise your rights under applicable law, please [click here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/9a93104f-e847-4c4b-85e8-dc821086d0cf.html). 
+If you have a general question about our personal data practices or want to contact the global privacy team or the Mars Data Protection Officer, please [click here](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/52a0b366-5dde-4e9c-8c03-72676aac0cb7.html). If you have a request regarding your data and would like to exercise your rights under applicable law, please [click here](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/9a93104f-e847-4c4b-85e8-dc821086d0cf.html). 
 
  When does this Privacy Statement apply?
 
@@ -735,7 +735,7 @@ Personal data collected is used for: internal business purposes; basic business 
 
 We may share the personal data collected from you: within Mars and the Mars family of companies; with service providers, vendors or agents; to third parties during a change in ownership, such as a merger or bankruptcy; with law enforcement agencies, courts, regulators, government authorities; with our social media partners; or where we have received your direction or consent to the disclosure of your personal data.  
 
-For US residents, the “Sale or Sharing of Personal Data” section tells you how we may sell or share personal data. You can click on the “[Your Privacy Choices(Opens a new window)](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8)” link to ask that we don’t sell or share your personal data for targeted advertising or call us at 1-844-316-5985. If you have a general question, including about our collection of your personal data, please see the “Contact Us” section above. If you want to make a request about your data, please [click here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/9a93104f-e847-4c4b-85e8-dc821086d0cf.html). If it applies to your location, the data controller is:  
+For US residents, the “Sale or Sharing of Personal Data” section tells you how we may sell or share personal data. You can click on the “[Your Privacy Choices](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8)” link to ask that we don’t sell or share your personal data for targeted advertising or call us at 1-844-316-5985. If you have a general question, including about our collection of your personal data, please see the “Contact Us” section above. If you want to make a request about your data, please [click here](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/9a93104f-e847-4c4b-85e8-dc821086d0cf.html). If it applies to your location, the data controller is:  
 
 Mars, Incorporated    
 c/o: Chief Privacy Officer    
@@ -793,7 +793,7 @@ The cookies used by us are based on the International Chamber of Commerce guide 
 
 **“Strictly Necessary” cookies** let you move around the Sites and use essential features like secure areas, shopping baskets and online billing. The categories of personal data collected by these cookies may include Identifiers, Customer Records, Internet or Other Network Activity, and Sensitive Personal Data.  
 
-**“Performance” cookies**, which are also known as “analytics cookies,” collect details about how you use our Sites. For instance, they track which pages you visit, whether you run into problems, and your interaction with our advertising. The categories of personal data collected by these cookies may include Identifiers, Customer Records, Inferences from other personal data, Internet or Other Network Activity, and Sensitive Personal Data. These cookies may be controlled by third parties who provide web measurement services to us and may persist on your device once your session is closed. An example of performance cookies would include Google web measurement and pixel tag services from Google Inc and/or Google Ireland Limited ("Google"). For more information about how Google uses your personal data, including the legal basis that Google relied on and the way to exercise your privacy  rights requests against Google with regard to the personal data stored by Google, can be found at: [Business Data Responsibility (safety.google)(Opens a new window)](https://business.safety.google/privacy/). The general privacy policy from Google can be found at: [https://policies.google.com/privacy(Opens a new window)](https://policies.google.com/privacy).
+**“Performance” cookies**, which are also known as “analytics cookies,” collect details about how you use our Sites. For instance, they track which pages you visit, whether you run into problems, and your interaction with our advertising. The categories of personal data collected by these cookies may include Identifiers, Customer Records, Inferences from other personal data, Internet or Other Network Activity, and Sensitive Personal Data. These cookies may be controlled by third parties who provide web measurement services to us and may persist on your device once your session is closed. An example of performance cookies would include Google web measurement and pixel tag services from Google Inc and/or Google Ireland Limited ("Google"). For more information about how Google uses your personal data, including the legal basis that Google relied on and the way to exercise your privacy  rights requests against Google with regard to the personal data stored by Google, can be found at: [Business Data Responsibility (safety.google)](https://business.safety.google/privacy/). The general privacy policy from Google can be found at: [https://policies.google.com/privacy](https://policies.google.com/privacy).
 
 **“Functional” cookies** are used to provide services or to remember settings to improve your visit. The categories of personal data collected by these cookies may include Identifiers, Customer Records, Inferences from other personal data, Internet or Other Network Activity, and Sensitive Personal Data.
 
@@ -805,7 +805,7 @@ The categories of personal data collected by these cookies may include Identifie
 
 These cookies also allow you to share content across social media via the use of sharing settings and may allow the social networking website to track your activity. They may be set when you visit our Sites and when you visit third party websites showing our advertisements.  
 
-Third party cookies that we use include: “Like” and “Share” buttons from Meta Platforms Ireland Ltd (“Meta”), owner of e.g. Facebook and Instagram, is a joint data controller with us of the personal data that is collected via Meta cookies. We have entered in a Controller Addendum with Meta to determine the respective responsibilities for compliance with the obligations under the privacy laws with regard to the joint processing. Meta is responsible for enabling rights requests under privacy laws with regard to the personal data stored by Meta after the joint processing. More information about how Meta processes your personal data, including the legal basis Meta relies on and the ways to exercise your privacy rights requests against Meta with regard to the personal data stored by Meta, can be found in Meta’s privacy policy at [https://www.facebook.com/privacy/policy(Opens a new window)](https://www.facebook.com/privacy/policy).
+Third party cookies that we use include: “Like” and “Share” buttons from Meta Platforms Ireland Ltd (“Meta”), owner of e.g. Facebook and Instagram, is a joint data controller with us of the personal data that is collected via Meta cookies. We have entered in a Controller Addendum with Meta to determine the respective responsibilities for compliance with the obligations under the privacy laws with regard to the joint processing. Meta is responsible for enabling rights requests under privacy laws with regard to the personal data stored by Meta after the joint processing. More information about how Meta processes your personal data, including the legal basis Meta relies on and the ways to exercise your privacy rights requests against Meta with regard to the personal data stored by Meta, can be found in Meta’s privacy policy at [https://www.facebook.com/privacy/policy](https://www.facebook.com/privacy/policy).
 
 _**What are web beacons and how do we use them?**_  
 
@@ -815,13 +815,13 @@ _**Mobile location analytics data**_
 
 When allowed by law, we may use tracking tools to collect certain data about your Wi-Fi enabled mobile device, which includes the presence of your device in our stores, its signal strength, its brand, and a unique identifier known as its Media Access Control (“MAC”) address (collectively, “Customer Mobile Device Data”). This data may be collected to determine the amount, location, and frequency of customer visits to our stores. A mobile device’s MAC address identifies a specific device to the surrounding Wi-Fi networks.  
 
-You may opt-out of having your MAC address recorded by visiting the following link and entering your mobile device’s MAC address: [https://optout.smart-places.org/(Opens a new window)](https://optout.smart-places.org/). To learn more about the use of Customer Mobile Device Data and your choices, please visit: [https://smart-places.org/(Opens a new window)](https://smart-places.org/).  
+You may opt-out of having your MAC address recorded by visiting the following link and entering your mobile device’s MAC address: [https://optout.smart-places.org/](https://optout.smart-places.org/). To learn more about the use of Customer Mobile Device Data and your choices, please visit: [https://smart-places.org/](https://smart-places.org/).  
 
 _**AdChoices Notice**_
 
 At times we display ads both on our Sites and on the websites of third parties. When you visit one of our Sites or view ads that we serve elsewhere online, you may see different kinds of ads, such as text ads next to search results or video ads on web pages. Sometimes, these ads are based on the content of the pages on which they appear. Other times, these ads are generated by matching that ad to your interests, based on your online activities collected over time. With interest-based advertising, the goal is to show you the most relevant ads.
 
-We support the [Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance(Opens a new window)](http://www.aboutads.info/obaprinciples). Ads that we place online using interest-based data are expected to be delivered with the Advertising Option Icon to help you understand how your data is being collected and used and to provide choices for people who want more control. The Icon looks like this:
+We support the [Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance](http://www.aboutads.info/obaprinciples). Ads that we place online using interest-based data are expected to be delivered with the Advertising Option Icon to help you understand how your data is being collected and used and to provide choices for people who want more control. The Icon looks like this:
 
 ![](https://www.mars.com/sites/g/files/dfsbuz106/files/2024-11/advertisting-options-icon.png)
 
@@ -829,9 +829,9 @@ By clicking on the Icon when it appears, you can review and follow information a
 
 Depending on where you live, you may be able to access one convenient place to indicate your preferences, including the option to make one “universal” opt-out of interest-based advertising with participating entities:
 
-In the United States, visit this site: [Ad Choices(Opens a new window)](http://www.aboutads.info/choices/).    
-In Canada, visit this site: [Your Ad Choices(Opens a new window)](http://youradchoices.ca/).   
-In the EU, visit this site: [Your Online Choices(Opens a new window)](http://www.youronlinechoices.eu/).
+In the United States, visit this site: [Ad Choices](http://www.aboutads.info/choices/).    
+In Canada, visit this site: [Your Ad Choices](http://youradchoices.ca/).   
+In the EU, visit this site: [Your Online Choices](http://www.youronlinechoices.eu/).
 
 When you opt-out using these methods, a cookie will be placed on your device indicating that you have opted-out of interest-based advertising. If you delete your cookies, you will need to opt-out again.
 
@@ -841,7 +841,7 @@ _**What if you don't want cookies?**_
 
 You can manage your consent for all but Strictly Necessary cookies in our Privacy Preference Center via the Cookies Settings link (available in the footer of each Site). If you don’t consent to some types of cookies, it might impact your use of the Sites and the services we can offer.  
 
-To see which cookies are on our Sites and how these third parties use your personal data, go to the Privacy Preference Center via the Cookies Settings link (available in the footer of each Site), choose the type of cookies from the menu on the left, then click on “Cookies Details.” For example, to see how Google will use your personal data, visit [Google’s Privacy & Terms site(Opens a new window)](https://policies.google.com/technologies/partner-sites).
+To see which cookies are on our Sites and how these third parties use your personal data, go to the Privacy Preference Center via the Cookies Settings link (available in the footer of each Site), choose the type of cookies from the menu on the left, then click on “Cookies Details.” For example, to see how Google will use your personal data, visit [Google’s Privacy & Terms site](https://policies.google.com/technologies/partner-sites).
 
 **2\. Your browser settings**
 
@@ -850,14 +850,14 @@ Another way to control cookies it to set your computer to warn you when a cookie
 |     |     |
 | --- | --- |
 | **Browser** | **Cookies Management Link** |
-| Google Chrome | [https://support.google.com/chrome/answer/95647?hl=en(Opens a new window)](https://support.google.com/chrome/answer/95647?hl=en) |
-| Firefox | [https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US(Opens a new window)](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US) |
-| Opera | [https://help.opera.com/en/latest/security-and-privacy/(Opens a new window)](https://help.opera.com/en/latest/security-and-privacy/) |
-| Microsoft Internet Explorer | [https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d(Opens a new window)](https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d) |
-| Apple Safari | [https://support.apple.com/en-il/guide/safari/sfri11471/mac(Opens a new window)](https://support.apple.com/en-il/guide/safari/sfri11471/mac) |
-| Microsoft Edge | [https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09(Opens a new window)](https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09) |
+| Google Chrome | [https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en) |
+| Firefox | [https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US) |
+| Opera | [https://help.opera.com/en/latest/security-and-privacy/](https://help.opera.com/en/latest/security-and-privacy/) |
+| Microsoft Internet Explorer | [https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d](https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d) |
+| Apple Safari | [https://support.apple.com/en-il/guide/safari/sfri11471/mac](https://support.apple.com/en-il/guide/safari/sfri11471/mac) |
+| Microsoft Edge | [https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09](https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09) |
 
-You can also visit [www.aboutcookies.org(Opens a new window)](https://www.aboutcookies.org/) which contains more information on how to do this on many different browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. Please see your mobile phone’s manual for information on how to do this on your phone’s browser. Please be aware that restricting cookies may impact on the functionality of Mars Sites. 
+You can also visit [www.aboutcookies.org](https://www.aboutcookies.org/) which contains more information on how to do this on many different browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. Please see your mobile phone’s manual for information on how to do this on your phone’s browser. Please be aware that restricting cookies may impact on the functionality of Mars Sites. 
 
  How do we use your Personal Data and on which legal basis?
 
@@ -901,7 +901,7 @@ We may disclose your personal data to the following recipients:  
 
 To personalize our ads and marketing experiences, or to personalize our ads for current job openings, we work with ad and analytics partners, ad networks, and social media sites. These partnerships may be considered a ”sale” or “sharing” under some US laws, even when no money changes hands.  
 
-The personal data we might “sell” or “share” includes your basic name and contact information, online activity information, customer records, and sales data. When you login to your account on a web page where cookies are present, that may be considered a “sale” or “sharing” of your personal data. If you want to opt out of this use, click on this the “[Your Privacy Choices(Opens a new window)](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8)” link.
+The personal data we might “sell” or “share” includes your basic name and contact information, online activity information, customer records, and sales data. When you login to your account on a web page where cookies are present, that may be considered a “sale” or “sharing” of your personal data. If you want to opt out of this use, click on this the “[Your Privacy Choices](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8)” link.
 
 Mars does not sell or share the personal data of children under the age of 16.  
 
@@ -909,12 +909,12 @@ Mars does not sell or share the personal data of children under the age of 16. �
 
 * **Your Account:** Please log in to update your account information.
 * **Email Unsubscribe:** If you don’t want to receive marketing emails from us or emails about open jobs, please use the Unsubscribe link in any email you’ve received or make a request at Your Privacy Choices. Even if you opt out of marketing emails, you may still get emails to complete a transaction that you have already entered with us. When you opt out of job opportunity emails, you may still get emails about completing an application you have already started with us.  
-* **Contact Us Section:** You can exercise your rights by [clicking here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/9a93104f-e847-4c4b-85e8-dc821086d0cf.html).  
+* **Contact Us Section:** You can exercise your rights by [clicking here](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/9a93104f-e847-4c4b-85e8-dc821086d0cf.html).  
 * **Text or SMS Messaging:** We may also offer text/SMS messaging to you. In some circumstances, we might require you to opt-in to receive text messages from us. At any time, you may opt out of receiving particular text messages from us (other than text appointment reminders) by texting STOP in response to any text message.  
 * By Telephone: If you are in the United States, you may make a request by calling 1-844-316-5985, or by contacting a specific Mars entity with whom you have a relationship, including:  
-    * Banfield Pet Hospital: by clicking [here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/0dc4c871-2bc5-4cd4-9bd0-9a1fcda6a4da.html) or by calling 1-888-899-7071  
-    * BluePearl Specialty + Emergency Pet Hospital: by clicking [here(Opens a new window)](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/8edb85a7-4d33-4cc0-a790-a39c24788247) or by calling 1-855-900-8444  
-    * VCA Animal Hospitals: by clicking [here(Opens a new window)](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/ee429be4-395b-4009-bb73-51cf9babd6c6) or by calling 1-844-276-5786.  
+    * Banfield Pet Hospital: by clicking [here](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/0dc4c871-2bc5-4cd4-9bd0-9a1fcda6a4da.html) or by calling 1-888-899-7071  
+    * BluePearl Specialty + Emergency Pet Hospital: by clicking [here](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/8edb85a7-4d33-4cc0-a790-a39c24788247) or by calling 1-855-900-8444  
+    * VCA Animal Hospitals: by clicking [here](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/ee429be4-395b-4009-bb73-51cf9babd6c6) or by calling 1-844-276-5786.  
 
 _**Depending on your location, you might have different rights. Mars responds to rights requests according to local law.**_  
 
@@ -935,7 +935,7 @@ _**Residents of the EEA, UK, Switzerland, Canada, California, Colorado, Connecti
 **Residents of California, Colorado, Connecticut, Oregon, Montana, Texas, Utah and Virginia may have the following additional rights:**
 
 * **Right to opt-out of profiling:** If we base decisions solely on profiling or automated decision-making that may result in important legal or other effects, you may have the right to opt-out.  
-* **Right to opt-out of sale, sharing, and targeted advertising:** You may have the right to opt-out of the sale or sharing of your personal data to third parties for targeted advertising. To exercise this right, you may submit a request by [clicking here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/9a93104f-e847-4c4b-85e8-dc821086d0cf.html). Note that we do not sell or share the personal data of individuals under 16 years old. Please also note that in some jurisdictions, this is an opt-in right to which we comply by obtaining express consent at our points of collection.  
+* **Right to opt-out of sale, sharing, and targeted advertising:** You may have the right to opt-out of the sale or sharing of your personal data to third parties for targeted advertising. To exercise this right, you may submit a request by [clicking here](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/9a93104f-e847-4c4b-85e8-dc821086d0cf.html). Note that we do not sell or share the personal data of individuals under 16 years old. Please also note that in some jurisdictions, this is an opt-in right to which we comply by obtaining express consent at our points of collection.  
 * **Right to limit the use and disclosure of sensitive personal data:** You may have the right to limit the use and disclosure of your sensitive personal data if we use such information to infer characteristics about you. 
 * **Right to Nondiscrimination:** We will not discriminate against you for exercising any of these rights.
 
@@ -1011,7 +1011,7 @@ All other employees must follow our company policies about privacy and data secu
 
 The “Do Not Track” privacy preference may be available in some web browsers. It allows you to opt-out of tracking by websites. We try to honor Do Not Track settings; we may not be able to respond to all user settings or signals.  
 
-We honor the Global Privacy Control as another way to opt out of the sale of your personal data or the sharing of it for targeted advertising purposes. The GPC is available [here(Opens a new window)](https://globalprivacycontrol.org/). GPC only works on your browser ID. If you have an account with us, we can’t tell based on your browser ID as it is not linked to your account. In that case, please click this “[Your Privacy Choices(Opens a new window)](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8)” link.
+We honor the Global Privacy Control as another way to opt out of the sale of your personal data or the sharing of it for targeted advertising purposes. The GPC is available [here](https://globalprivacycontrol.org/). GPC only works on your browser ID. If you have an account with us, we can’t tell based on your browser ID as it is not linked to your account. In that case, please click this “[Your Privacy Choices](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8)” link.
 
 _**Chatbot Features and Session Replay Technology**_  
 
