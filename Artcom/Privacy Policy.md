@@ -2,11 +2,11 @@ Shop Now
 
 Expedited Shipping for Christmas Delivery Ends in..
 
-0DAYS19HRS7MINS
+0DAYS13HRS10MINS
 
 Expedited Shipping for Christmas Delivery Ends in..
 
-0DAYS19HRS7MINS
+0DAYS13HRS10MINS
 
 Shop Now
 
