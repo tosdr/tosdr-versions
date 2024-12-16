@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
+    * [Diljit Dosanjh](https://www.news18.com/movies/diljit-dosanjh-says-no-more-concerts-in-india-until-this-is-resolved-i-will-not-perform-here-9157548.html)
     * [Isa Guha](https://www.news18.com/cricket/im-deeply-sorry-isa-guha-issues-apology-for-her-remarks-on-bumrah-shastri-calls-her-brave-woman-ws-b-9157314.html)
     * [Zakir Hussain](https://www.news18.com/movies/zakir-hussain-passes-away-his-last-post-goes-viral-after-death-he-shared-a-wonder-moment-watch-9157335.html)
-    * [MobiKwik IPO](https://www.news18.com/business/ipo/mobikwik-ipo-know-latest-gmp-allotment-and-listing-dates-9156691.html)
+    * [Nirmala Sitharaman](https://www.news18.com/india/constitution-debate-rajya-sabha-nirmala-sitharaman-jairam-ramesh-indira-gandhi-latest-updates-9157632.html)
     * [Ranbir Kapoor](https://www.news18.com/movies/inside-ranbir-kapoor-alia-bhatts-massive-kitchen-photos-with-raha-centralised-ac-and-more-watch-9156895.html)
     * [Lok Sabha](https://www.news18.com/india/lok-sabha-constitution-debate-live-updates-parliament-winter-session-bjp-congress-pm-modi-speech-today-liveblog-9155792.html)
-    * [Elon Musk](https://www.news18.com/world/indian-origin-ceo-asks-if-he-can-get-us-green-card-elon-musk-reacts-9157070.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
+* [Diljit Dosanjh](https://www.news18.com/movies/diljit-dosanjh-says-no-more-concerts-in-india-until-this-is-resolved-i-will-not-perform-here-9157548.html)
 * [Isa Guha](https://www.news18.com/cricket/im-deeply-sorry-isa-guha-issues-apology-for-her-remarks-on-bumrah-shastri-calls-her-brave-woman-ws-b-9157314.html)
 * [Zakir Hussain](https://www.news18.com/movies/zakir-hussain-passes-away-his-last-post-goes-viral-after-death-he-shared-a-wonder-moment-watch-9157335.html)
-* [MobiKwik IPO](https://www.news18.com/business/ipo/mobikwik-ipo-know-latest-gmp-allotment-and-listing-dates-9156691.html)
+* [Nirmala Sitharaman](https://www.news18.com/india/constitution-debate-rajya-sabha-nirmala-sitharaman-jairam-ramesh-indira-gandhi-latest-updates-9157632.html)
 * [Ranbir Kapoor](https://www.news18.com/movies/inside-ranbir-kapoor-alia-bhatts-massive-kitchen-photos-with-raha-centralised-ac-and-more-watch-9156895.html)
 * [Lok Sabha](https://www.news18.com/india/lok-sabha-constitution-debate-live-updates-parliament-winter-session-bjp-congress-pm-modi-speech-today-liveblog-9155792.html)
-* [Elon Musk](https://www.news18.com/world/indian-origin-ceo-asks-if-he-can-get-us-green-card-elon-musk-reacts-9157070.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
