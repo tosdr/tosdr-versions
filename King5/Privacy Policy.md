@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e3fda8dd-5c0a-4b67-a0a6-ef4fefabde3f/20241216T054047/e3fda8dd-5c0a-4b67-a0a6-ef4fefabde3f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e3fda8dd-5c0a-4b67-a0a6-ef4fefabde3f/20241216T054047/e3fda8dd-5c0a-4b67-a0a6-ef4fefabde3f_360x203.jpg)](https://www.king5.com/article/news/local/woodinville-shop-target-kia-thieves-smashed-storefront/281-d5d5d17b-64b8-40fb-8a8e-adc442b9cf64)
+    *  [![](https://media.king5.com/assets/KING/images/c0310c6b-5a6e-400d-ab6a-4cebb6068434/20241216T140834/c0310c6b-5a6e-400d-ab6a-4cebb6068434_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c0310c6b-5a6e-400d-ab6a-4cebb6068434/20241216T140834/c0310c6b-5a6e-400d-ab6a-4cebb6068434_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/nfl-playoff-picture-seahawks-after-week-15/281-544d4f94-69a7-4ac3-a255-acf8f5d17c40)
         
-        #### [Woodinville shop a target of Kia thieves who smashed storefront, deputies say](https://www.king5.com/article/news/local/woodinville-shop-target-kia-thieves-smashed-storefront/281-d5d5d17b-64b8-40fb-8a8e-adc442b9cf64)
+        #### [NFL Playoff Picture: Where Seahawks stand after Week 15 loss to Packers](https://www.king5.com/article/sports/nfl/seahawks/nfl-playoff-picture-seahawks-after-week-15/281-544d4f94-69a7-4ac3-a255-acf8f5d17c40) [![](https://media.king5.com/assets/KING/images/c0310c6b-5a6e-400d-ab6a-4cebb6068434/20241216T140834/c0310c6b-5a6e-400d-ab6a-4cebb6068434_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c0310c6b-5a6e-400d-ab6a-4cebb6068434/20241216T140834/c0310c6b-5a6e-400d-ab6a-4cebb6068434_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/nfl-playoff-picture-seahawks-after-week-15/281-544d4f94-69a7-4ac3-a255-acf8f5d17c40)
         
-    *  [![](https://media.king5.com/assets/KING/images/c9134062-9bd8-4902-85c5-af77b751054c/20241216T053807/c9134062-9bd8-4902-85c5-af77b751054c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c9134062-9bd8-4902-85c5-af77b751054c/20241216T053807/c9134062-9bd8-4902-85c5-af77b751054c_360x203.jpg)](https://www.king5.com/article/news/local/1-dead-1-injured-house-fire-lynnwood/281-c45c86ac-9ac5-4fdd-897e-989f12f0cffb)
+        #### [Where Seahawks stand in NFL playoff picture after Week 15 loss to Packers](https://www.king5.com/article/sports/nfl/seahawks/nfl-playoff-picture-seahawks-after-week-15/281-544d4f94-69a7-4ac3-a255-acf8f5d17c40)
+    *  [![](https://media.king5.com/assets/KING/images/80b62468-6d28-4ece-9284-ccc38a83e057/20241128T020223/80b62468-6d28-4ece-9284-ccc38a83e057_16x9.jpg) ![](https://media.king5.com/assets/KING/images/80b62468-6d28-4ece-9284-ccc38a83e057/20241128T020223/80b62468-6d28-4ece-9284-ccc38a83e057_360x203.jpg)](https://www.king5.com/article/travel/holiday-travel-numbers-seatac-airport/281-ef6d5f97-618e-4c28-93ba-ee07124aedb9)
         
-        #### [1 killed, 1 injured in house fire in Lynnwood](https://www.king5.com/article/news/local/1-dead-1-injured-house-fire-lynnwood/281-c45c86ac-9ac5-4fdd-897e-989f12f0cffb)
+        #### [More than 2 million travelers expected to pass through SEA airport during the holidays](https://www.king5.com/article/travel/holiday-travel-numbers-seatac-airport/281-ef6d5f97-618e-4c28-93ba-ee07124aedb9)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/2827cd3c-da75-46de-8665-283a4276eb10/20241216T062350/2827cd3c-da75-46de-8665-283a4276eb10_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2827cd3c-da75-46de-8665-283a4276eb10/20241216T062350/2827cd3c-da75-46de-8665-283a4276eb10_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/fd0f7a8e-1c4d-411d-b785-37a1940a736d/20241216T125947/fd0f7a8e-1c4d-411d-b785-37a1940a736d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fd0f7a8e-1c4d-411d-b785-37a1940a736d/20241216T125947/fd0f7a8e-1c4d-411d-b785-37a1940a736d_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -107,7 +108,7 @@ Seattle, WA »
 
 42°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
