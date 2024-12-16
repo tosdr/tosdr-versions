@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Mon, Dec 16, 2024
+Tue, Dec 17, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,12 +128,11 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Diljit Dosanjh](https://www.news18.com/movies/diljit-dosanjh-says-no-more-concerts-in-india-until-this-is-resolved-i-will-not-perform-here-9157548.html)
-    * [Isa Guha](https://www.news18.com/cricket/im-deeply-sorry-isa-guha-issues-apology-for-her-remarks-on-bumrah-shastri-calls-her-brave-woman-ws-b-9157314.html)
-    * [Zakir Hussain](https://www.news18.com/movies/zakir-hussain-passes-away-his-last-post-goes-viral-after-death-he-shared-a-wonder-moment-watch-9157335.html)
-    * [Nirmala Sitharaman](https://www.news18.com/india/constitution-debate-rajya-sabha-nirmala-sitharaman-jairam-ramesh-indira-gandhi-latest-updates-9157632.html)
-    * [Ranbir Kapoor](https://www.news18.com/movies/inside-ranbir-kapoor-alia-bhatts-massive-kitchen-photos-with-raha-centralised-ac-and-more-watch-9156895.html)
-    * [Lok Sabha](https://www.news18.com/india/lok-sabha-constitution-debate-live-updates-parliament-winter-session-bjp-congress-pm-modi-speech-today-liveblog-9155792.html)
+    * [MobiKwik IPO](https://www.news18.com/business/ipo/mobikwik-ipo-allotment-finalised-gmp-at-59-14-a-step-by-step-guide-to-check-allotment-status-online-9157515.html)
+    * [Vishal Mega Mart IPO](https://www.news18.com/business/ipo/vishal-mega-mart-ipo-allotment-finalised-today-know-latest-gmp-how-to-check-allotment-status-online-9157576.html)
+    * [Champions Trophy Schedule](https://www.news18.com/cricket/icc-champions-trophy-2025-schedule-announcement-live-updates-match-date-time-venue-india-vs-pakistan-liveblog-9157982.html)
+    * [Brisbane Weather](https://www.news18.com/cricket/gabba-brisbane-weather-forecast-india-vs-australia-bgt-3rd-test-match-9157814.html)
+    * [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +169,11 @@ Follow us on
 
 In Trends:
 
-* [Diljit Dosanjh](https://www.news18.com/movies/diljit-dosanjh-says-no-more-concerts-in-india-until-this-is-resolved-i-will-not-perform-here-9157548.html)
-* [Isa Guha](https://www.news18.com/cricket/im-deeply-sorry-isa-guha-issues-apology-for-her-remarks-on-bumrah-shastri-calls-her-brave-woman-ws-b-9157314.html)
-* [Zakir Hussain](https://www.news18.com/movies/zakir-hussain-passes-away-his-last-post-goes-viral-after-death-he-shared-a-wonder-moment-watch-9157335.html)
-* [Nirmala Sitharaman](https://www.news18.com/india/constitution-debate-rajya-sabha-nirmala-sitharaman-jairam-ramesh-indira-gandhi-latest-updates-9157632.html)
-* [Ranbir Kapoor](https://www.news18.com/movies/inside-ranbir-kapoor-alia-bhatts-massive-kitchen-photos-with-raha-centralised-ac-and-more-watch-9156895.html)
-* [Lok Sabha](https://www.news18.com/india/lok-sabha-constitution-debate-live-updates-parliament-winter-session-bjp-congress-pm-modi-speech-today-liveblog-9155792.html)
+* [MobiKwik IPO](https://www.news18.com/business/ipo/mobikwik-ipo-allotment-finalised-gmp-at-59-14-a-step-by-step-guide-to-check-allotment-status-online-9157515.html)
+* [Vishal Mega Mart IPO](https://www.news18.com/business/ipo/vishal-mega-mart-ipo-allotment-finalised-today-know-latest-gmp-how-to-check-allotment-status-online-9157576.html)
+* [Champions Trophy Schedule](https://www.news18.com/cricket/icc-champions-trophy-2025-schedule-announcement-live-updates-match-date-time-venue-india-vs-pakistan-liveblog-9157982.html)
+* [Brisbane Weather](https://www.news18.com/cricket/gabba-brisbane-weather-forecast-india-vs-australia-bgt-3rd-test-match-9157814.html)
+* [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
@@ -430,7 +428,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Dec 16, 2024
+Dec 17, 2024
 
 [View All](https://www.news18.com/short-news/)
 
