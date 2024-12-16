@@ -1,12 +1,6 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-NEW HOLIDAY DEALS: Save up to 40% on gifts in time for the holidays. [Shop](https://www.bose.com/c/holiday-sale)
-
-EXCLUSIVE COLOR DROP: Enjoy $70 off Ultra Open Earbuds, now in Chilled Lilac. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CHILLED+LILAC)
-
-MY BOSE MEMBERS: Enjoy a Holiday Bonus Card, on us, after qualifying purchases. [Shop](https://www.bose.com/c/holiday-sale)
-
-Order by 12 PM EST, Dec 20 with Free 2-day shipping for delivery by Dec 24. In-stock items only.
+**Free 2-day shipping**: Order by 12 PM EST, Dec 20 for delivery by Dec 24.
 
 [Cancel](#)
 
