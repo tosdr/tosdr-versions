@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-It was easy to use and worked flawlessly!
+I was happy with the service. It's just that I don't need it for the moment. If and when I need it again I would be happy to resubscribe.
 
-Mike Schement
+Tom Morton
