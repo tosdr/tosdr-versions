@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
-* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
-* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
-* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
+* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
+* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
-* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
-* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
-* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
+* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
+* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
-* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
-* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
-* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
+* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
+* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Hautleiden Rosazea: Rosazea-Symptome richtig behandeln](https://www.test.de/Rosazea-Symptome-behandeln-6010975-0/ "Hautleiden Rosazea - Rosazea-Symptome richtig behandeln")
-* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
-* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
-* [Verein gründen: Die 3 wichtigsten Schritte](https://www.test.de/Gewusst-wie-Verein-gruenden-5965629-0/ "Verein gründen - Die 3 wichtigsten Schritte")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Verpackungs­ärger: Nivea Expert Filler Cellular Anti-Age Tages­pflege](https://www.test.de/Verpackungsaerger-Nivea-Expert-Filler-Cellular-Anti-Age-Tagespflege-6084938-0/ "Verpackungsärger - Nivea Expert Filler Cellular Anti-Age Tagespflege")
+* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
+* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
 
 Stiftung Warentest
 
