@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### From shoeboxes to empty lots, Rio’s favela museums break with tradition](https://www.csmonitor.com/World/Americas/2024/1216/Brazil-Rio-Favela-Community-Museum-Art "From shoeboxes to empty lots, Rio’s favela museums break with tradition")
+
 [### West Africa regional bloc approves exit timeline for 3 coup-hit nations](https://www.csmonitor.com/World/Africa/2024/1215/west-africa-ecowas-niger-mali-burkina-faso "West Africa regional bloc approves exit timeline for 3 coup-hit nations")
 
 [### South Korean parliament votes to impeach president over his martial law order](https://www.csmonitor.com/World/Asia-Pacific/2024/1214/South-Korean-parliament-votes-to-impeach-president-over-his-martial-law-order "South Korean parliament votes to impeach president over his martial law order")
-
-[### Waves of joy flood Damascus. But an undercurrent of distrust lingers.](https://www.csmonitor.com/World/Middle-East/2024/1213/syria-islamist-rebels-governing-damascus-mood "Waves of joy flood Damascus. But an undercurrent of distrust lingers.")
 
 * * *
 
