@@ -338,7 +338,7 @@ Consent(Required)
 
 Text "Texas" to 43457 to join, or by entering your phone number and selecting to opt in, you consent to join a recurring SMS/MMS text messaging program that will provide alerts, donation requests, updates, and other important information. By participating, you agree to the terms & privacy policy for auto dialed messages from The Republican Party of Texas to the phone number you provide. No consent is required to buy. Msg&data rates may apply. [Privacy Policy](https://texasgop.org/privacy-policy/) can be found here.
 
-        
+           
 
 ![](https://texasgop.org/wp-content/uploads/2023/07/Logo.png)[](https://texasgop.org/)
 
@@ -413,7 +413,7 @@ This website uses cookies to improve your web experience.
 
 Accept
 
-                                                              
+                                                             
 
 Loading...
 
