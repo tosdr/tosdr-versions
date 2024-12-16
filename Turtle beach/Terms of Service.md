@@ -4,6 +4,8 @@ It's Officially Last Minute! Order Now for Free Shipping by Christmas\*🎄 Plac
 
 Unique. Colorful. Innovative. Check out our PDP brand today. [SHOP NOW](https://pdp.com/ "shop now")
 
+Last-Minute Holiday Shoppers! Shop Turtlebeach.com, Pick Up at Best Buy! [Shop Now](https://www.turtlebeach.com/collections/buy-online-pick-up-in-store "Shop Now")
+
 Free Shipping on orders over $39
 
 [](https://www.turtlebeach.com/pages/terms-of-sale#shipping "Free Shipping on orders over $39")
