@@ -240,15 +240,24 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### Priority Support
+### DNSSEC
 
   
 
-#### Priority Support is staffed with experienced technicians and is an immediate, hands on approach to solving your unique problems.
+#### Our redundant DNS solution is fully supported with DNSSEC
 
   
 
-[Get Priority Support](https://www.dynu.com/Membership)  
+  
+
+[Learn more about DNSSEC](https://www.dynu.com/Resources/DNS-Records/DNSSEC)  
+  
+
+  
+
+[Enable DNSSEC for your domain](https://www.dynu.com/ControlPanel/DDNS)  
+  
+
   
 
 ### News
