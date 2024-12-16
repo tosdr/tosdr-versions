@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 640 utilisateurs actifs
+##### 811 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Microsoft supprime la fonctionnalité "Actions suggérées" de Windows 11](https://lecrabeinfo.net/microsoft-supprime-la-fonctionnalite-actions-suggerees-de-windows-11.html)
+* [Windows 10 : la mise à jour de décembre 2024 (KB5048652) est disponible, quoi de neuf ?](https://lecrabeinfo.net/windows-10-la-mise-a-jour-de-decembre-2024-kb5048652-est-disponible-quoi-de-neuf.html)
 * [Finalement, c'est non : Microsoft n'autorise pas l'installation de Windows 11 sur les PC non compatibles](https://lecrabeinfo.net/finalement-cest-non-microsoft-ne-nautorise-pas-linstallation-de-windows-11-sur-les-pc-non-compatibles.html)
-* [Windows 11 : les mises à jour de décembre 2024 (KB5048667 et KB5048685) sont disponibles, quoi de neuf ?](https://lecrabeinfo.net/windows-11-les-mises-a-jour-de-decembre-2024-kb5048667-et-kb5048685-sont-disponibles-quoi-de-neuf.html)
-* [Microsoft améliore Mobile connecté : enfin des fichiers partagés entre iPhone et Windows !](https://lecrabeinfo.net/microsoft-ameliore-mobile-connecte-enfin-des-fichiers-partages-entre-iphone-et-windows.html)
 
 ### Tendance
 
@@ -152,11 +152,11 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 039 membres
-* 975 articles
-* 27 097 commentaires
+* 68 038 membres
+* 976 articles
+* 27 100 commentaires
 * [2 686 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
-* [868 abonnés X](https://x.com/lecrabeinfo)
+* [867 abonnés X](https://x.com/lecrabeinfo)
 * [67 523 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
