@@ -770,7 +770,7 @@ Unit price /  per](https://www.atari.com/products/distressed-fuji-tee)     
 
 ![Atari 50 Pocket Player Pro](files/pocket-02.webp)
 
-Add to cart
+Sold out
 
 ##### Atari 50 Pocket Player Pro
 
@@ -916,9 +916,9 @@ Add to cart
 
 ##### Asteroids x Blue Kazoo Jigsaw Puzzle
 
-Regular price $45 Sale price $24.00
+Regular price $45 Sale price $19.00
 
-Regular price $24
+Regular price $19
 
 Unit price /  per](https://www.atari.com/products/asteroids%C2%AE) 
 
