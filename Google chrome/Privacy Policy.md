@@ -120,7 +120,7 @@ Frozen versions
 Looks like you’re already using Chrome browser. Nice!
 =====================================================
 
-The device you have runs on ChromeOS, which already has Chrome browser built-in. No need to manually install or update it — with automatic updates, you’ll always get the latest version. [Learn more about automatic updates.](https://www.google.com/chrome/browser-features/)
+The device you have runs on ChromeOS, which already has Chrome browser built-in. No need to manually install or update it — with automatic updates, you’ll always get the latest version. [Learn more about automatic updates.](https://www.google.com/chrome/browser-tools/)
 
 Looking for Chrome for a different operating system?
 ----------------------------------------------------
