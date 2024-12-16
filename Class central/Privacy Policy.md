@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. marketing
+1. English
     
 2. hacking
     
-3. data science
+3. html
     
 
 Popular subjects
 
-1. [Communication Skills
+1. [Web Development
     
-    4,410 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Python
+    14,261 courses](https://www.classcentral.com/subject/web-development)
+2. [Information Technology
     
-    10,255 courses](https://www.classcentral.com/subject/python)
+    5,347 courses](https://www.classcentral.com/subject/information-technology)
 3. [Ethical Hacking
     
-    2,284 courses](https://www.classcentral.com/subject/ethical-hacking)
+    2,303 courses](https://www.classcentral.com/subject/ethical-hacking)
 
 Popular courses
 
-1. [Introduction to Indoor Air Quality
+1. [Herramientas de la Inteligencia de Negocios
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/intro-indoor-air-quality-9706)
-2. [Viral Marketing and How to Craft Contagious Content
+    Galileo University](https://www.classcentral.com/course/business-intelligence-universidad-galileo-herrami-10281)
+2. [Let's Get Started: Building Self-Awareness
     
-    University of Pennsylvania](https://www.classcentral.com/course/wharton-contagious-viral-marketing-5034)
-3. [Vital Signs: Understanding What the Body Is Telling Us
+    University System of Maryland](https://www.classcentral.com/course/leadership-the-university-of-maryland-college-par-19743)
+3. [Introduction to Classical Music
     
-    University of Pennsylvania](https://www.classcentral.com/course/vitalsigns-1887)
+    Yale University](https://www.classcentral.com/course/introclassicalmusic-2987)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
