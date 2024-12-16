@@ -46,12 +46,12 @@
     * [Bespoke Programmes](mailto:cpd@veema.co.uk?subject=CPD%20Enquiry)
     * [7 – 9 Week Courses](https://veema.co.uk/7-9-week-courses/)
 * [CPD MEMBERSHIP](https://veema.co.uk/cpd-membership/)
-    * [Leadership Hub](https://veema.co.uk/leadership-hub/)
-    * [My Account](https://veema.co.uk/cpd-membership/my-account/)
+* [LEADERSHIP HUB](https://veema.co.uk/leadership-hub/)
+* [MY ACCOUNT](https://veema.co.uk/cpd-membership/my-account/)
 * [KEYNOTE SPEAKERS](https://veema.co.uk/keynote-speakers/)
 * [NEWS & MEDIA](https://veema.co.uk/news-media/)
-    * [Forthcoming Events](https://veema.co.uk/news-media/forthcoming-events/)
-    * [Photos](https://veema.co.uk/news-media/photos/)
+* [FORTHCOMING EVENTS](https://veema.co.uk/news-media/forthcoming-events/)
+* [PHOTOS](https://veema.co.uk/news-media/photos/)
 
 * +44 (0) 20 3637 4232
 * info@veema.co.uk
@@ -246,6 +246,40 @@ Organisation/School:
 Position:
 
 By following our newsfeed, you submit the information you have provided to us. We will use it to communicate with you regarding news, events or other services we feel you would like to hear about. We will never give away your data.
+
+×
+
+#### Fill in your name and number and we will call you back at your convenience!
+
+     
+
+First Name: \*  
+
+Last Name: \*  
+
+Direct School Email: \*  
+
+Message: \*  
+
+Date & Time: \* 
+
+×
+
+#### Download Brochure
+
+     
+
+First Name: \*  
+
+Last Name: \*  
+
+Direct School Email: \*  
+
+Organisation/School:
+
+Position:
+
+By downloading our membership brochure you agree to our terms and conditions and the information you have provided. We will not share your data for third party use.
 
 #### Photo Gallery
 
