@@ -282,55 +282,48 @@
 Cookie Policy
 =============
 
-This Cookie Policy describes how G2.com uses cookies and other technologies to provide you with the best possible experience on the Site, keep your account safe, track and understand usage of the Site, and show you relevant advertising.
+This Cookie Policy describes how G2.com (“G2” or “we”) uses cookies and similar  technologies to enhance your experience on the Site (as defined in the [Terms of Use](https://legal.g2.com/terms-of-use?_gl=1*11nkpoo*_gcl_au*MTk1NzE2MTc1Ny4xNzMwNzQ2NTMz*_ga*MTgyNjEwNzI2NS4xNzMwNzQ2NTMz*_ga_MFZ5NDXZ5F*MTczMzA2NzE2MS4xNC4wLjE3MzMwNjcxNjYuNTUuMC4w&hsLang=en)), secure your account, monitor site usage, and deliver relevant advertising.
 
-We use cookies for a variety of purposes. Essential cookies are used for authentication, to provide basic site functionality, and for security; these cookies are placed automatically on your device when you visit our Site, and you cannot opt out of these cookies. Personalization cookies are used to record your preferences and to enable certain features. Analytics cookies are used to help us understand how you use our site, and how our site is performing. Marketing cookies help us, and our partners, deliver relevant and targeted content to you. Personalization, analytics and marketing cookies are all optional, and you can [adjust your cookie settings](#) for these categories at any time.
+Personalization, analytics and marketing cookies (detailed below) are optional, and you can [modify your settings](https://legal.g2.com/cookie-policy?hsLang=en) for these categories at any time. 
 
-### What is a cookie?
+**1\. COOKIE DEFINITION**  
 
-A cookie is a small text file placed onto your device that helps us recognize you on the Site and remembers your preferences. Cookies may also be set by other websites or services that run content on the specific page you’re visiting. We work with various partners for advertising, marketing, and analytics (“G2.com Partners”), and you can [learn more about these partners](https://legal.g2.com/advertising?hsLang=en) in our Advertising section.
+A cookie is a small text file placed on your device that helps us recognize you and remembers your preferences on the Site. Cookies may also be set by third-party websites or services that provide  content on the page you’re visiting. We collaborate with various partners for advertising, marketing, and analytics, which are detailed in our Advertising section.
 
-### What types of cookies does G2 use?
+**2\. TYPES OF COOKIES USED BY G2**   
 
-G2.com uses “session cookies” and “persistent cookies.” Session cookies are temporary cookies that are erased when you close your web browser. A persistent cookie remains on your device until it expires or until you manually delete it. We also use “first-party cookies” – cookies that are set by us – and “third-party cookies” or requests that allow other organizations to have access to the information collected.
+G2 uses the following types of cookies:
 
-### How does G2 use cookies?
+1. **Session Cookies**:  Temporary cookies that are deleted  when you close your web browser. 
+2. **Persistent Cookies**: Cookies that remain on your device until they expire or are  manually deleted. 
+3. **First-Party Cookies**: Cookies that are set by us.
+4. **Third-Party Cookies**: Cookies set by third-parties that access the collected information.
 
-Cookies are used to help us understand how our Site is being utilized, to recognize you when you visit our Site, remember your preferences, and to allow us to bring you relevant advertising.
+**3\. HOW G2 USES COOKIES**   
 
-##### Essential
-
-These cookies are necessary for the maintenance and security of our Site, and you cannot opt out of them.
+1. **Necessary**: These cookies may not be opted out of and are automatically placed on your device when you visit the Site. These cookies are necessary for the following purposes:
 
 | Source | Purpose | Retention Period |
 | --- | --- | --- |
 | [G2.com](https://www.g2.com/legal/privacy) | Account authentication and functionality. | 13 months |
 | Osano | Provision of our cookie banner. | 6 months or 1 year, depending on location |
-| Cloudflare | We use [Cloudflare](https://www.cloudflare.com/security-policy/) tools to protect our site from security threats. No personal data is collected. | 13 months |
-| New Relic | We use [New Relic](https://newrelic.com/termsandconditions/privacy) for error tracking. | Session |
+| Cloudflare | Cloudflare tools are used to protect our site from security threats. | 12 months |
+| New Relic | New Relic is used for error tracking. | Session |
 
-##### Personalization
-
-We use these cookies to offer you a personalized site experience, but you can [opt-out of these cookies](#) at any time.
+2. **Personalization:**These cookies are used to offer you a personalized site experience and you may opt-out of these cookies at any time. The cookies are used for the following purposes:
 
 | Source | Purpose | Retention Period |
 | --- | --- | --- |
-| G2.com | No personal data is collected. We use session identifiers to show you relevant content on our Site | 13 months |
-| G2.com | Name, email and company information is stored when you fill a form so you don’t have to fill it again | 13 months |
-| LinkedIn | Geolocation, device and IP address is collected for authentication when you choose to log in with your [LinkedIn](https://www.linkedin.com/legal/privacy-policy) account | 6 hours to 2 years |
-| Vidyard | We use [Vidyard](https://www.vidyard.com/privacy/) to display video reviews on our Site. | Session/2 years |
-| Intercom | We use [Intercom](https://www.intercom.com/legal/privacy) to provide support and feedback on our Site | 7 days |
-| Twitter | Geolocation and device is collected when you choose to share with [Twitter](https://twitter.com/en/privacy) | 7 days |
+| G2.com | We use session identifiers to show you relevant content on our Site. | 12 months |
+| G2.com | Name, email and company information is stored when you fill a form so you do not have to fill it again. | 12 months |
+| LinkedIn | Geolocation, device and IP address are collected for authentication when you choose to log in with your LinkedIn account. | 6 hours to 2 years |
+| Vidyard | We use Vidyard to display video reviews on our Site. | Session/2 years |
+| Intercom | We use Intercom to provide support and feedback on our Site. | 7 days |
+| Twitter | Geolocation and device is collected when you choose to share with Twitter. | 7 days |
 
-##### Advertising
+3. **Advertising:**These marketing cookies allow us and our partners to deliver targeted content to you. We request your consent to use these cookies, and you can also opt-out of these cookies at any time.
 
-We request your consent to use these cookies, and you can also [opt-out of these cookies](#) at any time.
-
-These cookies help us serve relevant ads to you more effectively.
-
-Data we collect for advertising purposes includes usage of the site, IP address or mobile device location information (but only to the extent you have enabled location tracking on your device), and may include information from the G2.com Partners we use to help deliver relevant ads to you.
-
-For information about how you can opt out of receiving targeted advertising from many third-party providers, please visit the [Digital Advertising Alliance](https://optout.aboutads.info/?c=2&lang=EN)'s website.
+These cookies are used for the following purposes:
 
 | Source | purpose | Retention Period |
 | --- | --- | --- |
@@ -349,11 +342,9 @@ For information about how you can opt out of receiving targeted advertising from
 | [Extole](https://www.extole.com/privacy-policy/) | These types of cookies are for retargeting, so we can show you relevant ads based on your activity on our Site after you leave it. Information collected includes an identifier, and sometimes your geolocation, device type, and IP address. | 12 months |
 | [The Trade Desk](https://www.adsrvr.org/) | These types of cookies are for retargeting, so we can show you relevant ads based on your activity on our Site after you leave it. Information collected includes an identifier, and sometimes your geolocation, device type, and IP address. | 12 Months |
 
-##### Analytics
+4. **Analytics:** These cookies are used to identify and fix errors, understand Site usage and performance, research and test different features, and analyze how visitors arrive at and use our Site.
 
-These cookies are used to identify and fix errors, understand how visitors use our Site, research and test different features, and analyze how visitors arrive at and use our Site.
-
-We ask your opt-in consent for certain analytic cookies that collect some type of personal data. The rest of the analytic cookies do not collect any personally identifiable information, but are necessary for us to understand how visitors interact with our Site and to be able to optimize our Site and licensed content. In any case, you can [opt-out of these cookies](#) at any time and carry on browsing normally.
+We ask your opt-in consent for certain analytic cookies that collect some type of personal data. In any case, you can opt-out of these cookies at any time and carry on browsing normally. The following data is collected:
 
 | Source | Personal data collected | Retention Period |
 | --- | --- | --- |
@@ -364,19 +355,13 @@ We ask your opt-in consent for certain analytic cookies that collect some type o
 | Demandbase | We use Demandbase to better understand users’ interaction with our Site. Information collected includes an identifier, visitor activity, session time and count, and sometimes your geolocation, device type, and IP address. | 13 months |
 | FullStory | We use [FullStory](https://www.fullstory.com/legal/privacy-policy) to better understand users’ interaction with our Site. Information collected includes visitor activity and usage patterns, session time and count, product and vendor data, and sometimes your geolocation, device type, and IP address. |     |
 
-#### Global Privacy Control
+**4\. GLOBAL** **PRIVACY** **CONTROL**  
 
-G2.com takes your privacy and preferences very seriously, and we will not sell or share your personal information if you have a GPC enabled.
+To use Global Privacy Control opt-out preference signals, please follow the instructions [here](https://globalprivacycontrol.org/).
 
-### Contact
+**5\. CONTACT G2**  
 
-We will keep working on providing more choices and information on our privacy practices, but if you have questions or concerns regarding our use of cookies you can contact us at:
-
-privacy \[at\] g2.com
-
-Last Updated: Jan 10, 2023
-
- ![](//legal.g2.com/hubfs/raw_assets/public/apex/base/img/g2-chev-red.svg) For Buyers
+If you have questions or concerns regarding our use of cookies you can contact us at [privacy@g2.com](mailto:privacy@g2.com).   ![](//legal.g2.com/hubfs/raw_assets/public/apex/base/img/g2-chev-red.svg) For Buyers
 
 * [G2 Track](https://track.g2.com/?hsLang=en)
 * [Software Reviews](https://www.g2.com/categories)
