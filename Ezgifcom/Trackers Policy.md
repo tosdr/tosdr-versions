@@ -40,6 +40,7 @@ Files you upload are stored on our servers up to 1 hour after they are last used
 * [Video crop tool](https://ezgif.com/crop-video "Crop/trim a video")
 * [Video rotator](https://ezgif.com/rotate-video "Rotate a video")
 * [Any video to MP4](https://ezgif.com/video-to-mp4 "Convert video file in any other format to MP4 online")
+* [MP4 to MP3 converter](https://ezgif.com/mp4-to-mp3 "MP4 to MP3 (video to audio) converter")
 
 * **Popular file converters**
 * [PDF to GIF converter](https://ezgif.com/pdf-to-gif "Convert PDF to GIF (animated or sequence)")
@@ -47,11 +48,13 @@ Files you upload are stored on our servers up to 1 hour after they are last used
 * [WebP to PNG converter](https://ezgif.com/webp-to-png "Convert WebP images to PNG / APNG")
 * [HEIC to JPG converter](https://ezgif.com/heic-to-jpg "Convert HEIC images to JPG")
 * [AVIF to JPG converter](https://ezgif.com/avif-to-jpg "Online AVIF to JPG converter")
+* [PNG to JPG converter](https://ezgif.com/png-to-jpg "Online PNG to JPG converter")
 * [SVG to PNG converter](https://ezgif.com/svg-to-png "Online SVG to PNG converter")
 
 * **Other image tools**
 * [Image to Data URI](https://ezgif.com/image-to-datauri "Convert image files to DataURI code")
 * [MNG tools](https://ezgif.com/mng-maker "Animated MNG maker")
+* [QR and barcode generators](https://ezgif.com/qr-generator "Generate QR or barcode images")
 * [Crop PDF](https://ezgif.com/crop-pdf "Crop PDF documents")
 * [Metadata viewer](https://ezgif.com/view-metadata "View image metadata (exif)")
 * [SVG tools](https://ezgif.com/png-to-svg "Convert (vectorize) PNG images to SVG format")
