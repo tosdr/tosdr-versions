@@ -59,9 +59,7 @@ Members Only
 
 Monster of the Month w/ Colin Dickey: The Sphinx](https://www.atlasobscura.com/experiences/monster-of-the-month-w-colin-dickey-the-sphinx)
 
-Upcoming Courses
-
-[View All Courses »](https://www.atlasobscura.com/online-courses)
+Loading...
 
 Top Destinations
 
