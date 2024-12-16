@@ -1,4 +1,4 @@
-[![Check out the winners of the 2024 Goodreads Choice Awards](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1730829452i/471.jpg)](https://www.goodreads.com/choiceawards/best-books-2024?ref=gca_dec_24_gcaw_eb)
+[![Our preview of the big books of 2025](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/siteheaderbannerimages/1733338348i/483.jpg)](https://www.goodreads.com/blog/show/2842-readers-most-anticipated-books-of-2025?ref=BigBooks25_eb)
 
 [](https://www.goodreads.com/ "Goodreads Home")
 
