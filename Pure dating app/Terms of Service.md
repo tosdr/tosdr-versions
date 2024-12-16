@@ -170,9 +170,9 @@ Participation in the Photo Verification process does not result in any form of f
 
 ##### a. Introduction
 
-PURE offers Users the option to engage with an AI-driven chatbot (hereinafter, “**the** **Goddess**”) designed for diverse interactions, ranging from small-talk to deeper conversations, personalized ad suggestions, image generation and other functionalities.
+PURE offers Users the option to interact with an AI-driven chatbot (hereinafter, “**the** **Goddess**”), designed for diverse interactions. These range from casual small-talk to deeper conversations to provide companionship and support, delivering personalized ad and match suggestions by tailoring recommendations to enhance User’s engagement, sharing valuable dating tips to improve interactions within the PURE, assisting with PURE navigation by providing insights and assistance with its features, answering common support questions to ensure a smoother user experience and offering other functionalities.
 
-Through chatbot Users can engage in dialogue with a variety of characters. Before initiating a conversation, Users must select one of the characters from a predetermined list. Users can freely change to a different character, however, in this process, they are clearing the conversation history with the current Goddess. When manually clearing the chat history, all previously sent messages will be permanently deleted. Users can communicate with the Goddesses only in the English language. They can request a randomly generated photo from the selected character, reflecting her previously chosen physical appearance and features. 
+Users may reset the Goddess chat at any time by clicking the button located in the top-right corner of the chat. Resetting the chat will clear all messages within the conversation.
 
 Taking screenshots of the chat and copying and pasting within the Goddess's input field in chat are prohibited. These features are disabled to ensure the privacy, integrity of the platform and to safeguard associated User’s rights.
 
@@ -183,6 +183,7 @@ Users should only use the Goddess for engaging in communication in accordance wi
 * Any kind of advice related to medical care, mental health services, professional health services or emergencies;
 * any kind of payment or financial services, advice or guidance;
 * any kind of legal advice or representation;
+* Any kind of professional advice or service in any field, nor should any advice provided be deemed binding;
 * direct answers from the PURE moderation team or PURE support team. Proper responses regarding account-related issues or inquiries regarding PURE should be directed to the moderation or support team through established channels. Any explanation provided by the Goddess should not be considered binding in any way;
 * explanations or interpretations of PURE’s Terms and Conditions, Privacy Policy, guidelines and other policies. Users should refer to the official documentation or contact PURE’s Customer Support or Legal team for clarification. Any explanation provided by the Goddess should not be considered binding in any way;
 * explanations and views on ethical dilemmas. Users should not rely on the Goddess’ answers for resolving ethical dilemmas or moral questions;
