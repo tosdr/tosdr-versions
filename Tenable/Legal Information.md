@@ -86,7 +86,7 @@ Tenable One Exposure Management Platform enables you to gain visibility across y
 * [Tenable Vulnerability Management](https://www.tenable.com/products/vulnerability-management) [Try for free](#tenableio-4part)
 * [Tenable Security Center](https://www.tenable.com/products/security-center) [Request a demo](#tenable-sc-eval)
 * [Tenable Web App Scanning](https://www.tenable.com/products/web-app-scanning) [Try for free](#tenableio-was)
-* [Tenable Patch Managment](https://www.tenable.com/products/patch-management) [Request a demo](#patch-mgmt)
+* [Tenable Patch Management](https://www.tenable.com/products/patch-management) [Request a demo](#patch-mgmt)
 * [Tenable Enclave Security](https://www.tenable.com/products/enclave-security) [Request a demo](#enclave)
 * [Tenable Attack Surface Management](https://www.tenable.com/products/attack-surface-management) [Request a demo](#asm-eval)
 * [Tenable Nessus](https://www.tenable.com/products/nessus) [Try for free](#expert)
