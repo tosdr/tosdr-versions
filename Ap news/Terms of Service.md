@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
+    * [Death toll in Gaza Strip from Israel-Hamas war tops 45,000, Palestinians say](https://apnews.com/article/israel-palestinians-hamas-war-news-12-16-2024-9f7c8f0df71dc4c97a6b31aed6e13304)
+    * [France rushes help to Mayotte, where hundreds or even thousands died in Cyclone Chido](https://apnews.com/article/mayotte-cyclone-chido-climate-weather-43890b2cee0d90e67b6263f278782334)
     * [Christians in Syria mark country's transformation with tears as UN envoy urges an end to sanctions](https://apnews.com/article/syria-assad-sanctions-un-3f0031108d7e58c2343bd6a8fd42254c)
-    * [One week into a new Syria, rebels aim for normalcy and Syrians vow not to be silent again](https://apnews.com/article/syria-week-one-transitional-government-c06673aa3317a194619710948264cdf1)
-    * [Israel will close its Ireland embassy over Gaza tensions as Palestinian death toll nears 45,000](https://apnews.com/article/israel-palestinians-hamas-war-news-12-15-2024-b97bfffe851f87328ab24017da8d7a32)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
+    * [Journalists anticipate a renewed hostility toward their work under the incoming Trump administration](https://apnews.com/article/trump-press-media-news-1915c25137eb4605b95ab3b3ccc6fb4c)
     * [Former FBI informant will plead guilty to lying about phony bribery scheme involving the Bidens](https://apnews.com/article/alexander-smirnov-guilty-plea-biden-informant-fbi-62a3b7acce0345303f812ca6d0206b10)
-    * [Biden, Harris thank major Democratic donors and urge them to stay engaged after tough loss to Trump](https://apnews.com/article/biden-harris-dnc-donors-democrats-future-a535c094e16d1807161759bd02c12b57)
-    * [2024 was big for bitcoin. States could see a crypto policy blitz in 2025 in spite of the risks](https://apnews.com/article/cryptocurrency-pensions-treasury-pennsylvania-wisconsin-michigan-trump-68924e1d4dab3706c3e041f8f3649974)
+    * [A Biden proclamation will establish a national monument for the 1st US female Cabinet secretary](https://apnews.com/article/biden-national-monument-frances-perkins-labor-3b58f0c1bae51fe26017acb3688eb505)
     
     Newsletters
     
@@ -95,8 +95,8 @@ Menu
     TOP STORIES
     
     * [Popeye and Tintin enter the public domain in 2025 along with novels from Faulkner and Hemingway](https://apnews.com/article/public-domain-2025-popeye-tintin-e71ca89b7a430e68e66a7c6ce45a98eb)
+    * [Journalists anticipate a renewed hostility toward their work under the incoming Trump administration](https://apnews.com/article/trump-press-media-news-1915c25137eb4605b95ab3b3ccc6fb4c)
     * [‘Kraven the Hunter’ had one of the worst openings for a Marvel-adjacent property, estimates show](https://apnews.com/article/box-office-b79d8c3a84483f15fc3dace19dbef5d5)
-    * [Zakir Hussain, one of India's most accomplished classical musicians, dies at 73](https://apnews.com/article/india-zakir-hussain-tabla-musician-obituary-4e6b09e2a85a35e417d486188c433fe2)
     
 * [Business](https://apnews.com/business)
     
@@ -106,9 +106,9 @@ Menu
     
     TOP STORIES
     
+    * [Federal Reserve is likely to slow its rate cuts with inflation pressures still elevated](https://apnews.com/article/federal-reserve-inflation-rates-trump-economy-prices-4abfd4fad49db65cad4a2b5607d9e952)
+    * [Journalists anticipate a renewed hostility toward their work under the incoming Trump administration](https://apnews.com/article/trump-press-media-news-1915c25137eb4605b95ab3b3ccc6fb4c)
     * [2024 was big for bitcoin. States could see a crypto policy blitz in 2025 in spite of the risks](https://apnews.com/article/cryptocurrency-pensions-treasury-pennsylvania-wisconsin-michigan-trump-68924e1d4dab3706c3e041f8f3649974)
-    * [As schools cut back on bus service, parents are turning to rideshare apps](https://apnews.com/article/school-bus-rideshare-chicago-3fdcedfc4f957f748bf109066806bc88)
-    * [‘Kraven the Hunter’ had one of the worst openings for a Marvel-adjacent property, estimates show](https://apnews.com/article/box-office-b79d8c3a84483f15fc3dace19dbef5d5)
     
 * [Science](https://apnews.com/science)
     
@@ -233,9 +233,9 @@ Menu
     
     TOP STORIES
     
+    * [A second top Church of England cleric is facing calls to resign over his handling of abuse claims](https://apnews.com/article/church-of-england-archbishop-abuse-scandal-9553d1e0d7e1e675a686e0d2cd90fe64)
     * [Takeaways from AP's reporting on a child sex abuse crisis inside a secretive Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-398b68475c2eab693e40e35552030e87)
     * [Survivors seek a reckoning as FBI investigates child sex abuse in little-known Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-a94073c27168a7998c1a225f72672a3d)
-    * [Christians in Syria mark country's transformation with tears as UN envoy urges an end to sanctions](https://apnews.com/article/syria-assad-sanctions-un-3f0031108d7e58c2343bd6a8fd42254c)
     
     Newsletters
     
@@ -249,11 +249,11 @@ Menu
     
     TOP STORIES
     
+    * [Los muertos en Gaza de la guerra entre Israel y Hamás superan los 45.000, según palestinos](https://apnews.com/article/gaza-hamas-israel-guerra-ataques-5fcf44407f59568166a4985408be97ff)
     * [El presidente Lula sale del hospital tras cirugía por una hemorragia cerebral](https://apnews.com/article/lula-brasil-presidente-salud-f74d1197875778eb119376fecae021e0)
-    * [Investigadores surcoreanos citan al presidente Yoon a declarar por decreto de ley marcial](https://apnews.com/article/yoon-corea-juicio-politico-ley-marcial-surcorea-02bbeeecc6d92c291153a5349c68bb3c)
-    * [Calculan cientos de muertos en el territorio francés de Mayotte al paso del ciclón Chido](https://apnews.com/article/chido-ciclon-francia-muertos-91d27cac3565f4c5ab67ec0419e78c53)
-    * [Israel cerrará embajada en Irlanda por tensiones en Gaza; son casi 45.000 los palestinos muertos](https://apnews.com/article/israel-palestinos-hamas-guerra-irlanda-embajada-israeli-6576237ea950740dd5f14edb6404d64e)
-    * [Popeye y Tintín pasarán a dominio público en 2025 junto con novelas de Faulkner y Hemingway](https://apnews.com/article/dominio-publico-tintin-popeye-faulkner-hemingway-1b870c586c7199861a0c2cc6cab385b5)
+    * [Francia envía ayuda a Mayotte tras el ciclón Chido, que dejó cientos o incluso miles de muertos](https://apnews.com/article/mayotte-chido-ciclon-francia-97ceaa5ce30b98d6f910ae9d84c6254a)
+    * [Investigadores surcoreanos buscan interrogar al presidente Yoon por imposición de ley marcial](https://apnews.com/article/yoon-corea-juicio-politico-ley-marcial-surcorea-02bbeeecc6d92c291153a5349c68bb3c)
+    * [Periodistas anticipan hostilidad renovada hacia su labor con la nueva administración Trump](https://apnews.com/article/trump-medios-ce66779e77d316dff2466f3fbe0a82e7)
     
 * [Quizzes](https://apnews.com/quizzes)
     
@@ -414,9 +414,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Death toll in Gaza Strip from Israel-Hamas war tops 45,000, Palestinians say](https://apnews.com/article/israel-palestinians-hamas-war-news-12-16-2024-9f7c8f0df71dc4c97a6b31aed6e13304)
+    * [France rushes help to Mayotte, where hundreds or even thousands died in Cyclone Chido](https://apnews.com/article/mayotte-cyclone-chido-climate-weather-43890b2cee0d90e67b6263f278782334)
     * [Christians in Syria mark country's transformation with tears as UN envoy urges an end to sanctions](https://apnews.com/article/syria-assad-sanctions-un-3f0031108d7e58c2343bd6a8fd42254c)
-    * [One week into a new Syria, rebels aim for normalcy and Syrians vow not to be silent again](https://apnews.com/article/syria-week-one-transitional-government-c06673aa3317a194619710948264cdf1)
-    * [Israel will close its Ireland embassy over Gaza tensions as Palestinian death toll nears 45,000](https://apnews.com/article/israel-palestinians-hamas-war-news-12-15-2024-b97bfffe851f87328ab24017da8d7a32)
     
     Newsletters
     
@@ -462,9 +462,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Journalists anticipate a renewed hostility toward their work under the incoming Trump administration](https://apnews.com/article/trump-press-media-news-1915c25137eb4605b95ab3b3ccc6fb4c)
     * [Former FBI informant will plead guilty to lying about phony bribery scheme involving the Bidens](https://apnews.com/article/alexander-smirnov-guilty-plea-biden-informant-fbi-62a3b7acce0345303f812ca6d0206b10)
-    * [Biden, Harris thank major Democratic donors and urge them to stay engaged after tough loss to Trump](https://apnews.com/article/biden-harris-dnc-donors-democrats-future-a535c094e16d1807161759bd02c12b57)
-    * [2024 was big for bitcoin. States could see a crypto policy blitz in 2025 in spite of the risks](https://apnews.com/article/cryptocurrency-pensions-treasury-pennsylvania-wisconsin-michigan-trump-68924e1d4dab3706c3e041f8f3649974)
+    * [A Biden proclamation will establish a national monument for the 1st US female Cabinet secretary](https://apnews.com/article/biden-national-monument-frances-perkins-labor-3b58f0c1bae51fe26017acb3688eb505)
     
     Newsletters
     
@@ -522,8 +522,8 @@ Submit Search
     TOP STORIES
     
     * [Popeye and Tintin enter the public domain in 2025 along with novels from Faulkner and Hemingway](https://apnews.com/article/public-domain-2025-popeye-tintin-e71ca89b7a430e68e66a7c6ce45a98eb)
+    * [Journalists anticipate a renewed hostility toward their work under the incoming Trump administration](https://apnews.com/article/trump-press-media-news-1915c25137eb4605b95ab3b3ccc6fb4c)
     * [‘Kraven the Hunter’ had one of the worst openings for a Marvel-adjacent property, estimates show](https://apnews.com/article/box-office-b79d8c3a84483f15fc3dace19dbef5d5)
-    * [Zakir Hussain, one of India's most accomplished classical musicians, dies at 73](https://apnews.com/article/india-zakir-hussain-tabla-musician-obituary-4e6b09e2a85a35e417d486188c433fe2)
     
 * [Business](https://apnews.com/business)
     
@@ -538,9 +538,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Federal Reserve is likely to slow its rate cuts with inflation pressures still elevated](https://apnews.com/article/federal-reserve-inflation-rates-trump-economy-prices-4abfd4fad49db65cad4a2b5607d9e952)
+    * [Journalists anticipate a renewed hostility toward their work under the incoming Trump administration](https://apnews.com/article/trump-press-media-news-1915c25137eb4605b95ab3b3ccc6fb4c)
     * [2024 was big for bitcoin. States could see a crypto policy blitz in 2025 in spite of the risks](https://apnews.com/article/cryptocurrency-pensions-treasury-pennsylvania-wisconsin-michigan-trump-68924e1d4dab3706c3e041f8f3649974)
-    * [As schools cut back on bus service, parents are turning to rideshare apps](https://apnews.com/article/school-bus-rideshare-chicago-3fdcedfc4f957f748bf109066806bc88)
-    * [‘Kraven the Hunter’ had one of the worst openings for a Marvel-adjacent property, estimates show](https://apnews.com/article/box-office-b79d8c3a84483f15fc3dace19dbef5d5)
     
 * [Science](https://apnews.com/science)
     
@@ -692,9 +692,9 @@ Submit Search
     
     TOP STORIES
     
+    * [A second top Church of England cleric is facing calls to resign over his handling of abuse claims](https://apnews.com/article/church-of-england-archbishop-abuse-scandal-9553d1e0d7e1e675a686e0d2cd90fe64)
     * [Takeaways from AP's reporting on a child sex abuse crisis inside a secretive Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-398b68475c2eab693e40e35552030e87)
     * [Survivors seek a reckoning as FBI investigates child sex abuse in little-known Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-a94073c27168a7998c1a225f72672a3d)
-    * [Christians in Syria mark country's transformation with tears as UN envoy urges an end to sanctions](https://apnews.com/article/syria-assad-sanctions-un-3f0031108d7e58c2343bd6a8fd42254c)
     
     Newsletters
     
@@ -708,11 +708,11 @@ Submit Search
     
     TOP STORIES
     
+    * [Los muertos en Gaza de la guerra entre Israel y Hamás superan los 45.000, según palestinos](https://apnews.com/article/gaza-hamas-israel-guerra-ataques-5fcf44407f59568166a4985408be97ff)
     * [El presidente Lula sale del hospital tras cirugía por una hemorragia cerebral](https://apnews.com/article/lula-brasil-presidente-salud-f74d1197875778eb119376fecae021e0)
-    * [Investigadores surcoreanos citan al presidente Yoon a declarar por decreto de ley marcial](https://apnews.com/article/yoon-corea-juicio-politico-ley-marcial-surcorea-02bbeeecc6d92c291153a5349c68bb3c)
-    * [Calculan cientos de muertos en el territorio francés de Mayotte al paso del ciclón Chido](https://apnews.com/article/chido-ciclon-francia-muertos-91d27cac3565f4c5ab67ec0419e78c53)
-    * [Israel cerrará embajada en Irlanda por tensiones en Gaza; son casi 45.000 los palestinos muertos](https://apnews.com/article/israel-palestinos-hamas-guerra-irlanda-embajada-israeli-6576237ea950740dd5f14edb6404d64e)
-    * [Popeye y Tintín pasarán a dominio público en 2025 junto con novelas de Faulkner y Hemingway](https://apnews.com/article/dominio-publico-tintin-popeye-faulkner-hemingway-1b870c586c7199861a0c2cc6cab385b5)
+    * [Francia envía ayuda a Mayotte tras el ciclón Chido, que dejó cientos o incluso miles de muertos](https://apnews.com/article/mayotte-chido-ciclon-francia-97ceaa5ce30b98d6f910ae9d84c6254a)
+    * [Investigadores surcoreanos buscan interrogar al presidente Yoon por imposición de ley marcial](https://apnews.com/article/yoon-corea-juicio-politico-ley-marcial-surcorea-02bbeeecc6d92c291153a5349c68bb3c)
+    * [Periodistas anticipan hostilidad renovada hacia su labor con la nueva administración Trump](https://apnews.com/article/trump-medios-ce66779e77d316dff2466f3fbe0a82e7)
     
 * [Quizzes](https://apnews.com/quizzes)
     
