@@ -175,7 +175,7 @@ Dart 3.6 is here! Read the [blog post](https://medium.com/dartlang/announcing-da
             * [webdev](https://dart.dev/tools/webdev)
     * [Static analysis](#sidenav-7-4)
         * [Customizing static analysis](https://dart.dev/tools/analysis)
-        * [Fixing common type problems](https://dart.dev/guides/language/sound-problems)
+        * [Fixing common type problems](https://dart.dev/deprecated/sound-problems)
         * [Fixing type promotion failures](https://dart.dev/tools/non-promotion-reasons)
         * [Linter rules](https://dart.dev/tools/linter-rules)
         * [Diagnostic messages](https://dart.dev/tools/diagnostic-messages)
