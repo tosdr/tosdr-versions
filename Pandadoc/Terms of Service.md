@@ -171,8 +171,8 @@
     
     Security & Сompliance
     
-    * [Signature certificate](https://support.pandadoc.com/hc/en-us/articles/360007915133--Signature-certificate-of-completed-documents)
-    * [Two-factor authentication](https://support.pandadoc.com/hc/en-us/articles/16804817099927-Two-factor-authentication-2FA-)
+    * [Signature certificate](https://support.pandadoc.com/en/articles/9714781-signature-certificate-of-completed-documents)
+    * [Two-factor authentication](https://support.pandadoc.com/en/articles/9715012-two-factor-authentication-2fa)
     * [GDPR compliance](https://www.pandadoc.com/gdpr/)
     * [HIPAA compliance](https://www.pandadoc.com/hipaa/)
     * [View more](https://www.pandadoc.com/security/)
@@ -304,7 +304,7 @@ Looks like you haven't picked a time for your personalized demo. Pick a time now
         
     * Support
         
-        * [Help center](https://support.pandadoc.com/hc/en-us?__hstc=149726313.c068d78ce51fd3577889c56e5ceb8409.1659002682403.1704881971903.1704887309662.101&__hssc=149726313.1.1704887309662&__hsfp=2851389664)
+        * [Help center](https://support.pandadoc.com/en/)
         * [Contact us](https://www.pandadoc.com/contact/)
         * [Onboarding services](https://www.pandadoc.com/customer-experience/onboarding/)
         * [Professional services](https://www.pandadoc.com/customer-experience/services/)
@@ -318,8 +318,8 @@ Looks like you haven't picked a time for your personalized demo. Pick a time now
         
     * Security & Сompliance
         
-        * [Signature certificate](https://support.pandadoc.com/hc/en-us/articles/360007915133--Signature-certificate-of-completed-documents)
-        * [Two-factor authentication](https://support.pandadoc.com/hc/en-us/articles/16804817099927-Two-factor-authentication-2FA-)
+        * [Signature certificate](https://support.pandadoc.com/en/articles/9714781-signature-certificate-of-completed-documents)
+        * [Two-factor authentication](https://support.pandadoc.com/en/articles/9715012-two-factor-authentication-2fa)
         * [GDPR compliance](https://www.pandadoc.com/gdpr/)
         * [HIPAA compliance](https://www.pandadoc.com/hipaa/)
         * [View more](https://www.pandadoc.com/security/)
@@ -333,7 +333,7 @@ Looks like you haven't picked a time for your personalized demo. Pick a time now
     
 
 * English (United States) Nederlands (Nederland) Français (France) Polski (Polska) Español (España) Deutsch (Deutschland) Svenska (Sverige) Português (Portugal) English (United States)
-* [Help Center](https://support.pandadoc.com/hc/en-us)
+* [Help Center](https://support.pandadoc.com/en/)
 * [Log In](https://app.pandadoc.com/login/?lng=en-US)
 
 [Request a demo](https://www.pandadoc.com/getdemo/?ss=page_master-services-agreement_header-nav)
