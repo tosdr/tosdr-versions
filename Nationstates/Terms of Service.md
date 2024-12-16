@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [UnitedHealthcare CEO Assassinated (1,620)](https://forum.nationstates.net/viewtopic.php?t=559227&f=20&view=unread#unread ""UnitedHealthcare CEO Assassinated" (1,620 posts)")
-* [Out of the 2 AN’s: Which one has the… (5,292)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (5,292 posts)")
-* [Tiami's Endless Tacos (2,928)](https://forum.nationstates.net/viewtopic.php?t=558437&f=20&view=unread#unread ""Tiami's Endless Tacos" (2,928 posts)")
-* [Geography Game II (11,873)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (11,873 posts)")
-* [Syrian Civil War: Dawn Of A New Syria (1,576)](https://forum.nationstates.net/viewtopic.php?t=558866&f=20&view=unread#unread ""Syrian Civil War: Dawn Of A New Syria" (1,576 posts)")
+* [F7 makes a sentence (618)](https://forum.nationstates.net/viewtopic.php?t=557888&f=25&view=unread#unread ""F7 makes a sentence" (618 posts)")
+* ["Cease & Desist" - 2024 Governmental… (26)](https://forum.nationstates.net/viewtopic.php?t=559566&f=5&view=unread#unread """Cease & Desist" - 2024 Governmental Crisis [IC/MT/CLOSED]" (26 posts)")
+* [NS would be better if… (60)](https://forum.nationstates.net/viewtopic.php?t=559710&f=20&view=unread#unread ""NS would be better if…" (60 posts)")
+* [American Politics: Turnabout Trump (9,503)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (9,503 posts)")
+* [NSSCRA 16- Everything Thread (IC Only!) (120)](https://forum.nationstates.net/viewtopic.php?t=557928&f=7&view=unread#unread ""NSSCRA 16- Everything Thread (IC Only!)" (120 posts)")
 
 Advertisement
 
