@@ -28,23 +28,23 @@ Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change 
 
 [For Business](https://www.rev.com/solutions)
 
-[Newsrooms & Journalists
+[Law Firms
 
-Capture Every Detail And Break Every Story](https://www.rev.com/solutions/news-broadcast)[Research & Consulting
+Build Stronger Cases With AI-powered Legal Transcripts](https://www.rev.com/solutions/law-firms)[Research & Consulting
 
 Accelerate Research Insights and Publish with Precision](https://www.rev.com/solutions/market-research)[Healthcare
 
-Built for HIPAA Compliance, Capture & Protect Clinical Conversations](https://www.rev.com/solutions/industries?health)[Legal & Court Reporting
+Built for HIPAA Compliance, Capture & Protect Clinical Conversations](https://www.rev.com/solutions/industries?health)[Newsrooms & Journalists
 
-A Trusted Partner from Transcription to Certification](https://www.rev.com/solutions/legal)[Education
+Capture Every Detail And Break Every Story](https://www.rev.com/solutions/news-broadcast)[Education
 
 Make Learning Accessible and Boost Classroom Productivity](https://www.rev.com/solutions/education)[Financial Services
 
-Turn Investor Calls into Actionable Intelligence](https://www.rev.com/solutions/industries?fin)[Video Distribution & Accessibility
+Turn Investor Calls into Actionable Intelligence](https://www.rev.com/solutions/industries?fin)[Legal & Court Reporting
 
-Unlock New Revenue with Accessible, Platform-Tailored Content](https://www.rev.com/solutions/video-distribution)[Law Firms
+A Trusted Partner from Transcription to Certification](https://www.rev.com/solutions/legal)[Video Distribution & Accessibility
 
-Build Stronger Cases With AI-powered Legal Transcripts](https://www.rev.com/solutions/law-firms)[Government
+Unlock New Revenue with Accessible, Platform-Tailored Content](https://www.rev.com/solutions/video-distribution)[Government
 
 Empower Smarter Civic Decisions with AI Insights](https://www.rev.com/solutions/industries?gov)
 
@@ -86,19 +86,19 @@ Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change 
 
 [Back to menu](#)
 
-[Newsrooms & Journalists
+[Law Firms
+
+Build Stronger Cases With AI-powered Legal Transcripts](https://www.rev.com/solutions/law-firms)[Newsrooms & Journalists
 
 Capture Every Detail And Break Every Story](https://www.rev.com/solutions/news-broadcast)[Legal & Court Reporting
 
-A Trusted Partner from Transcription to Certification](https://www.rev.com/solutions/legal)[Video Distribution & Accessibility
-
-Unlock New Revenue with Accessible, Platform-Tailored Content](https://www.rev.com/solutions/video-distribution)[Research & Consulting
+A Trusted Partner from Transcription to Certification](https://www.rev.com/solutions/legal)[Research & Consulting
 
 Accelerate Research Insights and Publish with Precision](https://www.rev.com/solutions/market-research)[Education
 
-Make Learning Accessible and Boost Classroom Productivity](https://www.rev.com/solutions/education)[Law Firms
+Make Learning Accessible and Boost Classroom Productivity](https://www.rev.com/solutions/education)[Video Distribution & Accessibility
 
-Build Stronger Cases With AI-powered Legal Transcripts](https://www.rev.com/solutions/law-firms)[Government
+Unlock New Revenue with Accessible, Platform-Tailored Content](https://www.rev.com/solutions/video-distribution)[Government
 
 Empower Smarter Civic Decisions with AI Insights](https://www.rev.com/solutions/industries?gov)[Financial Services
 
