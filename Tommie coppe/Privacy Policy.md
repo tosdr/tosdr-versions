@@ -1,18 +1,18 @@
 [Skip to main content](#main-content)
 
-Save 40% Sitewide! DETAILS
+BOGO Free Sitewide! DETAILS
 
-SAVE 40% SITEWIDE
+BUY 1 GET 1 FREE
 
 Close the Modal
 
-#### Celebrate the Holidays Pain-Free
+#### Mix & match or double up!
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
 
-Offer valid 12/9/2024 7AM ET - 12/16/2024 6AM ET.
+Offer valid 12/16/2024 8AM ET - 12/20/2024 6AM ET.
 
-Sitewide discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+To receive Buy 1 Get 1 Free discount, must add two (2) eligible items to cart. Discount automatically applied on lowest priced item. Exclusions apply. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 COMPRESSION SOCKS
 
