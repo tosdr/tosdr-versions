@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [F7 makes a sentence (618)](https://forum.nationstates.net/viewtopic.php?t=557888&f=25&view=unread#unread ""F7 makes a sentence" (618 posts)")
-* ["Cease & Desist" - 2024 Governmental… (26)](https://forum.nationstates.net/viewtopic.php?t=559566&f=5&view=unread#unread """Cease & Desist" - 2024 Governmental Crisis [IC/MT/CLOSED]" (26 posts)")
-* [NS would be better if… (60)](https://forum.nationstates.net/viewtopic.php?t=559710&f=20&view=unread#unread ""NS would be better if…" (60 posts)")
-* [American Politics: Turnabout Trump (9,503)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (9,503 posts)")
-* [NSSCRA 16- Everything Thread (IC Only!) (120)](https://forum.nationstates.net/viewtopic.php?t=557928&f=7&view=unread#unread ""NSSCRA 16- Everything Thread (IC Only!)" (120 posts)")
+* [NS Cliches II: Re-Rebooted (10,475)](https://forum.nationstates.net/viewtopic.php?t=520417&f=25&view=unread#unread ""NS Cliches II: Re-Rebooted" (10,475 posts)")
+* [\[R\] DOS User (9)](https://forum.nationstates.net/viewtopic.php?t=559729&f=16&view=unread#unread ""[R] DOS User" (9 posts)")
+* [Trade between Pakania and Freedom Fre… (1,856)](https://forum.nationstates.net/viewtopic.php?t=558680&f=5&view=unread#unread ""Trade between Pakania and Freedom Freelandia (Invite Only)" (1,856 posts)")
+* [MCU/Superhero Discussion Thread (8,476)](https://forum.nationstates.net/viewtopic.php?t=410049&f=19&view=unread#unread ""MCU/Superhero Discussion Thread" (8,476 posts)")
+* [\[DRAFT\] The Sky’s the Milit! (7)](https://forum.nationstates.net/viewtopic.php?t=554623&f=13&view=unread#unread ""[DRAFT] The Sky’s the Milit!" (7 posts)")
 
 Advertisement
 
