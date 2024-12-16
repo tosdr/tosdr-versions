@@ -217,29 +217,29 @@ Terms of Use
 
 [14th December 2024](https://southwarknews.co.uk/sport/football/millwall/i-dont-need-that-neil-harris-reacts-after-millwall-beaten-by-middlesbrough-in-his-last-game-in-charge/)
 
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/12/CWMP--120x86.png)](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
+
+### [Canada Water towers set to reach almost 50 storeys in ‘massive’ increase](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
+
+[14th December 2024](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
+
 [![Neil Harris applauds supporters after his side beat Swansea City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/N-Harris-25425727-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
 
 ### [Neil Harris addresses Lions fans as he explains decision to leave Millwall for second time](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
 
 [10th December 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
 
-[![Ryan Leonard after Millwall's loss to Coventry City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/R-Leonard-001277-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
+[![Andy and Diane and the steps separating Diane from the outside world](https://southwarknews.co.uk/wp-content/uploads/2024/12/Andy-and-Diane-and-the-steps-separating-Diane-from-the-outside-world-120x86.png)](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
 
-### [Lenny set to miss Sheffield United clash – but reinforcements on the way after Millwall midfielder made season debut against Coventry City](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
+### [Disabled woman has not left Borough flat in two years as fourteen steps separate her from freedom](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
 
-[9th December 2024](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
+[15th December 2024](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
 
 [![Millwall head coach Neil Harris salutes the fans. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/06/N-Harris-399393-2-scaled-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
 
 ### [After the stunning rescue mission, the head coach v manager tension, the control struggle – is it a final goodbye for Neil Harris and Millwall?](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
 
 [10th December 2024](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
-
-[![Walworth Road this morning at 4:30am. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-08-13-06-48-120x86.jpg)](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
-
-### [Man in ‘life-threatening’ condition and two arrests after incident on Walworth Road](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
-
-[8th December 2024](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
 
 ### Featured Articles
 
