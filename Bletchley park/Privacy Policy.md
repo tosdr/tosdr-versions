@@ -634,7 +634,7 @@ You can ask us to send your personal information directly to another service pro
 
 **13\. CHANGES TO THIS POLICY**
 
-We may review this policy from time to time and any changes will be notified to you by posting an updated version on our website and/or by contacting you by email. Any changes will take effect 7 days after the date of our email or the date on which we post the Modified terms on our website, whichever is the earlier. We recommend you regularly check for changes and review this policy whenever you visit our website. If you do not agree with any aspect of the updated policy you must immediately notify us and cease using our services.
+We may review this policy from time to time and any changes will be notified to you by posting an updated version on our website and/or by contacting you by email. Any changes will take effect 7 days after the date of our email or the date on which we post the modified terms on our website, whichever is the earlier. We recommend you regularly check for changes and review this policy whenever you visit our website. If you do not agree with any aspect of the updated policy you must immediately notify us and cease using our services.
 
 **14\. CONTACT US**
 
