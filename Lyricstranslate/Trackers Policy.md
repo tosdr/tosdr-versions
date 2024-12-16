@@ -137,69 +137,65 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Wysewbahar](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1639028-1734197845.jpg)](https://lyricstranslate.com/en/translator/wysewbahar "Wysewbahar")
+[![Speed up Clips](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/speed-clips "Speed up Clips")
 
 New translation
 
-[LISA - ROCKSTAR](https://lyricstranslate.com/en/lisa-rockstar-turkish-7)
+[Hozier - Take Me to Church](https://lyricstranslate.com/en/hozier-take-me-church-ukrainian-0)
 
-English → Turkish
+English → Ukrainian
 
-[![mnina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1591135-1704546240.jpg)](https://lyricstranslate.com/en/translator/mnina "mnina")
-
-New translation
-
-[Stray Kids - 愛をくれたのに、なぜ (love is painful)](https://lyricstranslate.com/en/stray-kids-ai-wokuretanoninaze-lov-polish)
-
-English → Polish
-
-[![mnina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1591135-1704546240.jpg)](https://lyricstranslate.com/en/translator/mnina "mnina")
+[![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1733560633.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
 
 New translation
 
-[TWICE - Strategy](https://lyricstranslate.com/en/twice-strategy-polish)
+[Bruno Filippini - La felicità (1999 version)](https://lyricstranslate.com/en/bruno-filippini-la-felicita-1999-version-english)
 
-English → Polish
+Italian → English
 
-[![Nymph of water](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624550-1721669316.jpg)](https://lyricstranslate.com/en/translator/nymph-water "Nymph of water")
-
-New translation
-
-[2WEI - Burn](https://lyricstranslate.com/en/2wei-burn-greek)
-
-English → Greek
-
-[![mnina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1591135-1704546240.jpg)](https://lyricstranslate.com/en/translator/mnina "mnina")
-
-New translation
-
-[aespa - Savage](https://lyricstranslate.com/en/aespa-savage-polish)
-
-English → Polish
-
-[![mnina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1591135-1704546240.jpg)](https://lyricstranslate.com/en/translator/mnina "mnina")
-
-New translation
-
-[ENHYPEN - I NEED U](https://lyricstranslate.com/en/enhypen-i-need-u-polish)
-
-English → Polish
-
-[![mnina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1591135-1704546240.jpg)](https://lyricstranslate.com/en/translator/mnina "mnina")
-
-New translation
-
-[BABYMONSTER - Woke Up In Tokyo](https://lyricstranslate.com/en/babymonster-woke-tokyo-polish-0)
-
-English → Polish
-
-[![Jojo Tsoungui 2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1521569-1640113174.jpg)](https://lyricstranslate.com/en/translator/jojo-tsoungui-2 "Jojo Tsoungui 2")
+[![Merlot](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1426285-1733560633.jpg)](https://lyricstranslate.com/en/translator/merlot "Merlot")
 
 New song
 
-[Indochine - Drugstar](https://lyricstranslate.com/en/indochine-drugstar-lyrics)
+[Bruno Filippini - La felicità (1999 version)](https://lyricstranslate.com/en/bruno-filippini-la-felicita-1999-version-lyrics)
 
-French
+Italian
+
+[![FrostNova7122](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1627717-1728405694.jpg)](https://lyricstranslate.com/en/translator/frostnova7122 "FrostNova7122")
+
+New song
+
+[Vadim Kazachenko - Судьба](https://lyricstranslate.com/en/vadim-kazachenko-sudba-lyrics)
+
+Russian
+
+[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
+
+New song
+
+[Blood on the Dance Floor - Revenge Will Have It's Day](https://lyricstranslate.com/en/blood-dance-floor-revenge-will-have-its-da-lyrics)
+
+English
+
+[![Feedeeri☆](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1568446-1726261869.jpg)](https://lyricstranslate.com/en/translator/feedeeri%E2%98%86 "Feedeeri☆")
+
+New comment
+
+/ᐠ. .ᐟ\\ฅ /ᐠ. .ᐟ\\ฅ   [more](https://lyricstranslate.com/en/comment/1181967#comment-1181967)
+
+[![RetroPanda](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1536684-1650612822.jpg)](https://lyricstranslate.com/en/translator/retropanda "RetroPanda")
+
+New comment
+
+Kitten!  ฅ^•ﻌ•^ฅ      [more](https://lyricstranslate.com/en/comment/1181966#comment-1181966)
+
+[![Pufflez](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624906-1730197410.jpg)](https://lyricstranslate.com/en/translator/pufflez "Pufflez")
+
+New translation
+
+[Gummibär - Go For The Goal](https://lyricstranslate.com/en/gummibar-go-goal-swahili)
+
+English → Swahili
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
