@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Subscribe today**
+**Enjoy unlimited access**
 
-Every print subscription comes with full digital access
+Only $2.99 a month
 
-[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Britain’s largest ancient massacre may have included cannibalism](https://www.sciencenews.org/article/britain-ancient-massacre-cannibalism)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")9 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")15 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
@@ -120,6 +120,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Life
         --------------------
         
+        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+            
+            ### [The message-sending part of neurons may be blobby, not smooth](https://www.sciencenews.org/article/axons-may-be-blobby-neuron)
+            
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")1 hour ago
+            
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
             ### [Humans have linked emotions to the same body parts for 3,000 years](https://www.sciencenews.org/article/link-emotions-body-parts-3000-years)
@@ -131,12 +137,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [The ‘Blob,’ an unprecedented marine heat wave, killed 4 million seabirds](https://www.sciencenews.org/article/blob-marine-heat-wave-killed-seabirds)
             
             By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")December 12, 2024
-            
-        * [Genetics](https://www.sciencenews.org/topic/genetics)
-            
-            ### [Neandertal genes in people today came from hook-ups around 47,000 years ago](https://www.sciencenews.org/article/neandertal-mate-people-47000-years-ago)
-            
-            By [McKenzie Prillaman](https://www.sciencenews.org/author/mckenzie-prillaman "Posts by McKenzie Prillaman")December 12, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
