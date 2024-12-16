@@ -38,9 +38,9 @@ Search for:
 
 [Leftists vow to cancel Time for recognizing Trump as ‘Person of the Year’](https://americanwirenews.com/leftists-vow-to-cancel-time-for-recognizing-trump-as-person-of-the-year/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-drones-1200x630.jpg)](https://americanwirenews.com/with-speculation-running-wild-biden-admin-labels-concerns-over-drone-sightings-a-slight-overreaction/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dncli-1200-x-628-1200x630.jpg)](https://americanwirenews.com/dnc-official-says-dems-have-stench-of-loser-praises-trumps-tremendous-momentum/)
 
-[With speculation running wild, Biden admin labels concerns over drone sightings a ‘slight overreaction’](https://americanwirenews.com/with-speculation-running-wild-biden-admin-labels-concerns-over-drone-sightings-a-slight-overreaction/)
+[DNC official says Dems have ‘stench of loser,’ praises Trump’s ‘tremendous’ momentum](https://americanwirenews.com/dnc-official-says-dems-have-stench-of-loser-praises-trumps-tremendous-momentum/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-biden-xi-1200x630.jpeg)](https://americanwirenews.com/outrage-over-bidens-pardon-of-convicted-ccp-spies/)
 
@@ -83,10 +83,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mangione-combs-220x180.jpg)](https://americanwirenews.com/suspected-unitedhealthcare-ceo-killer-retains-high-powered-ny-attorney-married-to-diddys-attorney/)
 
 [Suspected UnitedHealthcare CEO killer retains high-powered NY attorney married to Diddy’s attorney](https://americanwirenews.com/suspected-unitedhealthcare-ceo-killer-retains-high-powered-ny-attorney-married-to-diddys-attorney/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dncli-1200-x-628-220x180.jpg)](https://americanwirenews.com/dnc-official-says-dems-have-stench-of-loser-praises-trumps-tremendous-momentum/)
-
-[DNC official says Dems have ‘stench of loser,’ praises Trump’s ‘tremendous’ momentum](https://americanwirenews.com/dnc-official-says-dems-have-stench-of-loser-praises-trumps-tremendous-momentum/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mayorkas-220x180.png)](https://americanwirenews.com/mayorkas-claims-homeland-securitys-authority-to-incapacitate-drones-is-limited/)
 
@@ -177,6 +173,10 @@ Getty Image
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-eric-adams-220x180.jpg)](https://americanwirenews.com/nyc-mayor-slams-biden-admin-for-losing-500000-migrant-children-announces-sanctuary-city-changes/)
 
 [NYC mayor slams Biden admin for losing 500,000 migrant children, announces ‘sanctuary city’ changes](https://americanwirenews.com/nyc-mayor-slams-biden-admin-for-losing-500000-migrant-children-announces-sanctuary-city-changes/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-justin-kennedy-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/fox-host-mocks-soy-boy-trudeau-for-trump-snit-what-brand-of-tampons-do-you-use/)
+
+[Fox host mocks ‘soy boy’ Trudeau for Trump snit: ‘What brand of tampons do you use?’](https://americanwirenews.com/fox-host-mocks-soy-boy-trudeau-for-trump-snit-what-brand-of-tampons-do-you-use/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
