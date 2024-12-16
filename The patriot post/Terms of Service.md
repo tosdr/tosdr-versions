@@ -195,7 +195,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112836-live-a-worthy-life-2024-12-16)
+     [](https://patriotpost.us/memes/112865-time-mczine-2024-12-16)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -207,14 +207,14 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Gary Bauer Biden Sabotages America](https://patriotpost.us/opinion/112848-biden-sabotages-america-2024-12-16)
+*      [Christine Flowers Fortunate and Happy to Give Address at Naturalization Ceremony](https://patriotpost.us/opinion/112846-fortunate-and-happy-to-give-address-at-naturalization-ceremony-2024-12-16)
+*      [Jeff Jacoby Go Home, Massachusetts Lawmakers](https://patriotpost.us/opinion/112847-go-home-massachusetts-lawmakers-2024-12-16)
+*      [Rich Lowry The Musk Factor](https://patriotpost.us/opinion/112845-the-musk-factor-2024-12-16)
+*      [The Washington Stand Taylor Lorenz, Luigi Mangione, and Post-Christian America’s Bloodlust](https://patriotpost.us/opinion/112844-taylor-lorenz-luigi-mangione-and-post-christian-americas-bloodlust-2024-12-16)
+*      [The Babylon Bee Ray Epps Announces Resignation From FBI](https://patriotpost.us/opinion/112843-ray-epps-announces-resignation-from-fbi-2024-12-16)
+*      [Guest Commentary Congress: Investigate Chinese-Owned Companies for Skirting Trump Trade Rules](https://patriotpost.us/opinion/112821-congress-investigate-chinese-owned-companies-for-skirting-trump-trade-rules-2024-12-16)
 *      [Matthew Continetti Luigi Mangione: Touch of Evil](https://patriotpost.us/opinion/112819-luigi-mangione-touch-of-evil-2024-12-14)
-*      [Tony Perkins Embracing the Courage to Act](https://patriotpost.us/opinion/112818-embracing-the-courage-to-act-2024-12-14)
-*      [Michael Reagan The Upside-Down Mentality of the Left](https://patriotpost.us/opinion/112807-the-upside-down-mentality-of-the-left-2024-12-13)
-*      [Ken Blackwell Iran’s Surge of Political Death Sentences Demands Firm International Response](https://patriotpost.us/opinion/112806-irans-surge-of-political-death-sentences-demands-firm-international-response-2024-12-13)
-*      [Tim Graham Journalists Deserve All the Angst That Trump’s Win Brings](https://patriotpost.us/opinion/112805-journalists-deserve-all-the-angst-that-trumps-win-brings-2024-12-13)
-*      [Michael Barone Free Speech: Why a Tech Titan Backed Trump](https://patriotpost.us/opinion/112804-free-speech-why-a-tech-titan-backed-trump-2024-12-13)
-*      [Victor Davis Hanson The Evaporation of the Obama Mystique](https://patriotpost.us/opinion/112803-the-evaporation-of-the-obama-mystique-2024-12-13)
-*      [Josh Hammer How Not to Think About Syria](https://patriotpost.us/opinion/112802-how-not-to-think-about-syria-2024-12-13)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,11 +228,13 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“The instrument by which it \[government\] must act are either the AUTHORITY of the laws or FORCE. If the first be destroyed, the last must be substituted; and where this becomes the ordinary instrument of government there is an end to liberty!” —Alexander Hamilton (1794)
+“If there is a form of government, then, whose principle and foundation is virtue, will not every sober man acknowledge it better calculated to promote the general happiness than any other form?” —John Adams (1776)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
