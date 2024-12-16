@@ -282,12 +282,28 @@
 
 [![Единая Россия](../../img/logo-large-white.svg)
 
-Народная программа](https://er.ru/media/documents/August2024/cuUoF8dNMx5WxwOT0UuW.pdf)
+Народная программа](https://er.ru/media/documents/December2024/SmUJrib12shGBVnqaXF9.pdf)
 
 Последние новости
 -----------------
 
 [Все новости](https://er.ru/activity/news)
+
+[![«Единая Россия»: Приоритетом на ближайшие годы станет капремонт школ по всей стране](https://cdn.er.ru/media/news/December2024/Swvf9Dnl4jmKAYh20eUi-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-prioritetom-na-blizhajshie-gody-stanet-kapremont-shkol-po-vsej-strane)
+
+[«Единая Россия»: Приоритетом на ближайшие годы станет капремонт школ по всей стране](https://er.ru/activity/news/edinaya-rossiya-prioritetom-na-blizhajshie-gody-stanet-kapremont-shkol-po-vsej-strane)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Кравцов](https://er.ru/activity/news?tags%5B0%5D=38915) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#строительствошкол](https://er.ru/activity/news?tags%5B0%5D=108885) [#детскиесады](https://er.ru/activity/news?tags%5B0%5D=107844) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 14:40
+
+[![Будем воплощать: «Единая Россия» исполнит мечты детей - участников акции «Ёлка желаний»](https://cdn.er.ru/media/news/December2024/S7gFQF5aFf1WuG6MBL0Q-small.JPG)](https://er.ru/activity/news/budem-voploshat-edinaya-rossiya-ispolnit-mechty-detej-uchastnikov-akcii-yolka-zhelanij)
+
+[Будем воплощать: «Единая Россия» исполнит мечты детей - участников акции «Ёлка желаний»](https://er.ru/activity/news/budem-voploshat-edinaya-rossiya-ispolnit-mechty-detej-uchastnikov-akcii-yolka-zhelanij)
+
+[#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Грызлов](https://er.ru/activity/news?tags%5B0%5D=68) [#акция](https://er.ru/activity/news?tags%5B0%5D=122836) [#елкажеланий](https://er.ru/activity/news?tags%5B0%5D=142041) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#новыйгод](https://er.ru/activity/news?tags%5B0%5D=99117)
+
+Сегодня 14:17
 
 [![Алёна Аршинова: По проекту «Единой России» «Парта Героя» открыто 22 тысячи парт](https://cdn.er.ru/media/news/December2024/8TnHzC6rEVdeLQAvyNBU-small.jpg)](https://er.ru/activity/news/alyona-arshinova-po-proektu-edinoj-rossii-parta-geroya-otkryto-22-tysyachi-part)
 
@@ -320,22 +336,6 @@
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#детскиесады](https://er.ru/activity/news?tags%5B0%5D=107844) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 Сегодня 10:39
-
-[![Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» почтили память российских журналистов, погибших в зоне СВО и горячих точках](https://cdn.er.ru/media/news/December2024/AGhQy6qpvnq0Uc6eEUSj-small.jpg)](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-pochtili-pamyat-rossijskih-zhurnalistov-pogibshih-v-zone-svo-i-goryachih-tochkah)
-
-[Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» почтили память российских журналистов, погибших в зоне СВО и горячих точках](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-pochtili-pamyat-rossijskih-zhurnalistov-pogibshih-v-zone-svo-i-goryachih-tochkah)
-
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#памятныеакции](https://er.ru/activity/news?tags%5B0%5D=148650) [#журналисты](https://er.ru/activity/news?tags%5B0%5D=141454) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтерскаярота](https://er.ru/activity/news?tags%5B0%5D=1090569)
-
-15.12.24
-
-[![Там, где решается судьба страны: «Единая Россия» провела XXII Съезд](https://cdn.er.ru/media/news/December2024/49kHKTKhGXIB11dNQCNi-small.jpg)](https://er.ru/activity/news/tam-gde-reshaetsya-sudba-strany-edinaya-rossiya-provela-xxii-sezd)
-
-[Там, где решается судьба страны: «Единая Россия» провела XXII Съезд](https://er.ru/activity/news/tam-gde-reshaetsya-sudba-strany-edinaya-rossiya-provela-xxii-sezd)
-
-[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#народнаяпрограммаЕР](https://er.ru/activity/news?tags%5B0%5D=1093363)
-
-15.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
