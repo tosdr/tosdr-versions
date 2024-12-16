@@ -23,7 +23,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Brightening Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-4641 reviews (4641)
+4643 reviews (4644)
 
 $16.00 $29.00
 
@@ -49,7 +49,7 @@ CHOOSE Size
 
 ### [Multi-Vitamin + Antioxidants Ultra Riché PM Treatment](https://www.100percentpure.com/products/multi-vitamin-antioxidants-ultra-riche-pm-treatment)
 
-1049 reviews (1049)
+1051 reviews (1051)
 
 $64.00
 
@@ -81,7 +81,7 @@ ADD TO TOTE
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2421 reviews (2421)
+2422 reviews (2422)
 
 $28.00 $28.00
 
@@ -577,7 +577,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[🎉 12 Days- Buy One Get One 50% OFF USE CODE: DAY1 ✨](https://www.100percentpure.com/collections/cleansers "https://www.100percentpure.com/collections/cleansers")
+[🎉 12 Days- Buy One Get One Cleansers 50% OFF USE CODE: DAY1 ✨](https://www.100percentpure.com/collections/cleansers "https://www.100percentpure.com/collections/cleansers")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
