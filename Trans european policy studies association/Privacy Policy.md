@@ -21,11 +21,7 @@
 [Projects](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjEwMTEiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
 ---------------------------------------------------------------------------------------------------------------
 
-Search
-
 Search 
-
-Close this search box.
 
 [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%20650'%3E%3C/svg%3E)
 
