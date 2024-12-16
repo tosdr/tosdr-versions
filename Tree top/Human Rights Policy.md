@@ -71,11 +71,11 @@
     
     Recipe
     
-    **Apple Sauce Muffins**
+    **Tara's Tree Topper Energy Bites**
     
-    [Read Recipe](https://treetop.com/recipes/apple-sauce-muffins/)
+    [Read Recipe](https://treetop.com/recipes/taras-tree-topper-energy-bites/)
     
-    ![Apple Sauce Muffins](https://treetop.com/wp-content/uploads/2023/10/apple-sauce-muffins-1.jpg)
+    ![](https://treetop.com/wp-content/uploads/2024/11/taras-tree-topper-energy-bites.jpg)
     
 * [About Us](https://treetop.com/about-us/)
     
