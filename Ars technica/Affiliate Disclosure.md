@@ -90,9 +90,9 @@ Most Read
     
 2. 2. [Rocket Report: Chinese national flies drone near Falcon 9, Trouble down under](https://arstechnica.com/space/2024/12/rocket-report-ukrainian-launch-firm-finds-maine-home-long-march-8a-debut-near/)
     
-3. 3. [Yearlong supply-chain attack targeting security pros steals 390K credentials](https://arstechnica.com/security/2024/12/yearlong-supply-chain-attack-targeting-security-pros-steals-390k-credentials/)
+3. 3. [Twirling body horror in gymnastics video exposes AI’s flaws](https://arstechnica.com/information-technology/2024/12/twirling-body-horror-in-gymnastics-video-exposes-ais-flaws/)
     
-4. 4. [Twirling body horror in gymnastics video exposes AI’s flaws](https://arstechnica.com/information-technology/2024/12/twirling-body-horror-in-gymnastics-video-exposes-ais-flaws/)
+4. 4. [Yearlong supply-chain attack targeting security pros steals 390K credentials](https://arstechnica.com/security/2024/12/yearlong-supply-chain-attack-targeting-security-pros-steals-390k-credentials/)
     
 5. 5. [Bird flu jumps from birds to human in Louisiana; patient hospitalized](https://arstechnica.com/science/2024/12/person-hospitalized-in-louisiana-with-bird-flu-health-officials-report/)
     
