@@ -1,4 +1,4 @@
-[Order by 12/15 to arrive before Christmas](https://www.aventon.com/collections/ebikes)
+[LIMITED TIME: $300 Off on Ramblas or Sinch2. Sale Ends 12/24](https://www.aventon.com/collections/ebikes)
 
 ——
 
