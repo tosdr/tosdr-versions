@@ -1,4 +1,4 @@
-[](https://www.leawo.org/promotion/special-offer/)![close-banner](/images/banner/20200716/close.jpg)
+[](https://www.leawo.org/promotion/special-offer/?bb)![close-banner](/images/banner/20200716/close.jpg)
 
 [](https://www.leawo.org/tunescopy/promotion/)![close-banner](/images/banner/20200716/close.jpg)
 
