@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 15, 2024**
+**December 16, 2024**
 
 * * *
 
@@ -251,25 +251,25 @@ this week
 
 [Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
 
-[Pancreatic Cancer](https://www.sciencedaily.com/news/health_medicine/pancreatic_cancer/)
+[Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
-[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
+[Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
-
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
+
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
 [Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
+[Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
+
+[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
 [Biodiversity](https://www.sciencedaily.com/news/earth_climate/biodiversity/)
-
-[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
   
 
