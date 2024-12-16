@@ -1,8 +1,8 @@
 [Skip to content](#skip-content-target-id)
 
-[Save on small brand finds. Shop offers](https://www.notonthehighstreet.com/sale/view-all-sale-items)
+[Get 10% off £40+ with code: HURRY10](https://www.notonthehighstreet.com/christmas/christmas-gifts)
 
-Discover savings on thousands of incredible small brand finds. [Shop offers](https://www.notonthehighstreet.com/sale/view-all-sale-items)
+[Get your Christmas shopping sorted with 10% off £40+ with code: HURRY10](https://www.notonthehighstreet.com/christmas/christmas-gifts)
 
 [![](https://static-files.notonthehighstreet.com/webapps/shared/img/logo/NOTHS_logo.svg)](https://www.notonthehighstreet.com/)
 
