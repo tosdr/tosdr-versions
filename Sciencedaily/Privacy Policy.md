@@ -230,9 +230,9 @@ this week
 
 [Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
 
-[Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
+[Pancreatic Cancer](https://www.sciencedaily.com/news/health_medicine/pancreatic_cancer/)
 
-[Language Acquisition](https://www.sciencedaily.com/news/mind_brain/language_acquisition/)
+[Perception](https://www.sciencedaily.com/news/mind_brain/perception/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -240,7 +240,7 @@ this week
 
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
-[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
+[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
