@@ -20,16 +20,16 @@ Monday, December 16 2024
 
 Latest
 
-* [Businesses know they have major skills deficits, but less than half plan on hiring more women](https://digitpatrox.com/businesses-know-they-have-major-skills-deficits-but-less-than-half-plan-on-hiring-more-women/)
-* [This iPhone 15 Pro Max Is Less Than $900](https://digitpatrox.com/this-iphone-15-pro-max-is-less-than-900/)
-* [The Best and Worst Energy Bars](https://digitpatrox.com/the-best-and-worst-energy-bars/)
-* [Powerhouse Gaming Headset With Haptic Feedback](https://digitpatrox.com/powerhouse-gaming-headset-with-haptic-feedback/)
-* [Asus PA278CFRV review | ITPro](https://digitpatrox.com/asus-pa278cfrv-review-itpro/)
-* [Netflix has a new disaster drama show that’s already crashed the top 10](https://digitpatrox.com/netflix-has-a-new-disaster-drama-show-thats-already-crashed-the-top-10/)
-* [2025 in tech: what’s coming for gadgets, regulation, and AI](https://digitpatrox.com/2025-in-tech-whats-coming-for-gadgets-regulation-and-ai/)
-* [7 Years Later, a New HDMI Standard Could Be Coming Soon](https://digitpatrox.com/7-years-later-a-new-hdmi-standard-could-be-coming-soon/)
-* [What Is Core Sleep? (Or What Your Apple Watch Thinks It Is)](https://digitpatrox.com/what-is-core-sleep-or-what-your-apple-watch-thinks-it-is/)
-* [What to Do If You Buy a Dud Appliance](https://digitpatrox.com/what-to-do-if-you-buy-a-dud-appliance/)
+* [Google’s Whisk AI generator will ‘remix’ the pictures you plug in](https://digitpatrox.com/googles-whisk-ai-generator-will-remix-the-pictures-you-plug-in/)
+* [Google Releases Veo 2 Video Generation Model to Rival Sora](https://digitpatrox.com/google-releases-veo-2-video-generation-model-to-rival-sora/)
+* [Texas medical school notifies 1.5 million people of two data breaches that compromised SSNs, medical records, and financial info](https://digitpatrox.com/texas-medical-school-notifies-1-5-million-people-of-two-data-breaches-that-compromised-ssns-medical-records-and-financial-info/)
+* [Klarna has stopped hiring amid its relentless AI efficiency drive](https://digitpatrox.com/klarna-has-stopped-hiring-amid-its-relentless-ai-efficiency-drive/)
+* [What IT hiring looks like heading into 2025 – Computerworld](https://digitpatrox.com/what-it-hiring-looks-like-heading-into-2025-computerworld/)
+* [How to Use Microsoft Windows Recall](https://digitpatrox.com/how-to-use-microsoft-windows-recall/)
+* [How to correctly install graphics drivers when upgrading to a new GPU on Windows 11](https://digitpatrox.com/how-to-correctly-install-graphics-drivers-when-upgrading-to-a-new-gpu-on-windows-11/)
+* [How to Find a Great Home Health Aide](https://digitpatrox.com/how-to-find-a-great-home-health-aide/)
+* [Why You Still Need Excel Skills in Today’s AI World](https://digitpatrox.com/why-you-still-need-excel-skills-in-todays-ai-world/)
+* [How to use Airplane mode on Android & Samsung Galaxy devices](https://digitpatrox.com/how-to-use-airplane-mode-on-android-samsung-galaxy-devices/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/C7yTkwWyCFU6qegvGcbBYa-1200-80.jpg)](https://digitpatrox.com/businesses-know-they-have-major-skills-deficits-but-less-than-half-plan-on-hiring-more-women/)
+* [![](https://cdn.vox-cdn.com/thumbor/27GikmT3l83HxnHHUzkV3iDr1ME=/0x0:1752x1167/1200x628/filters:focal(876x584:877x585)/cdn.vox-cdn.com/uploads/chorus_asset/file/25792808/ai_label_3.png)](https://digitpatrox.com/googles-whisk-ai-generator-will-remix-the-pictures-you-plug-in/)
     
-    [Businesses know they have major skills deficits, but less than half plan on hiring more women](https://digitpatrox.com/businesses-know-they-have-major-skills-deficits-but-less-than-half-plan-on-hiring-more-women/)
+    [Google’s Whisk AI generator will ‘remix’ the pictures you plug in](https://digitpatrox.com/googles-whisk-ai-generator-will-remix-the-pictures-you-plug-in/)
     
-    55 minutes ago
+    4 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JF03TJ5GC8TVCD61TV9FCVAA/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/this-iphone-15-pro-max-is-less-than-900/)
+* [![](https://beebom.com/wp-content/uploads/2024/12/google-releases-veo-2-video-generation-model.jpg)](https://digitpatrox.com/google-releases-veo-2-video-generation-model-to-rival-sora/)
     
-    [This iPhone 15 Pro Max Is Less Than $900](https://digitpatrox.com/this-iphone-15-pro-max-is-less-than-900/)
+    [Google Releases Veo 2 Video Generation Model to Rival Sora](https://digitpatrox.com/google-releases-veo-2-video-generation-model-to-rival-sora/)
+    
+    20 minutes ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Texas-medical-school-data-breach-compromises-almost-1.5-million-patients-1.jpg)](https://digitpatrox.com/texas-medical-school-notifies-1-5-million-people-of-two-data-breaches-that-compromised-ssns-medical-records-and-financial-info/)
+    
+    [Texas medical school notifies 1.5 million people of two data breaches that compromised SSNs, medical records, and financial info](https://digitpatrox.com/texas-medical-school-notifies-1-5-million-people-of-two-data-breaches-that-compromised-ssns-medical-records-and-financial-info/)
+    
+    1 hour ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/nhn9u4wJDLMnUKnNw6XCjU-1200-80.jpg)](https://digitpatrox.com/klarna-has-stopped-hiring-amid-its-relentless-ai-efficiency-drive/)
+    
+    [Klarna has stopped hiring amid its relentless AI efficiency drive](https://digitpatrox.com/klarna-has-stopped-hiring-amid-its-relentless-ai-efficiency-drive/)
     
     2 hours ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733435022/prod/content/dam/CRO-Images-2024/Magazine/CR-Magazine-InlineHero-Energy-Bars-Jan-Feb25-1224)](https://digitpatrox.com/the-best-and-worst-energy-bars/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3623583-0-39613200-1734352353-shutterstock_797089132.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/what-it-hiring-looks-like-heading-into-2025-computerworld/)
     
-    [The Best and Worst Energy Bars](https://digitpatrox.com/the-best-and-worst-energy-bars/)
-    
-    2 hours ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/12/00-the-razer-kraken-v4-pro-headset-with-lighting-effects-7_54038909302_o.jpg)](https://digitpatrox.com/powerhouse-gaming-headset-with-haptic-feedback/)
-    
-    [Powerhouse Gaming Headset With Haptic Feedback](https://digitpatrox.com/powerhouse-gaming-headset-with-haptic-feedback/)
+    [What IT hiring looks like heading into 2025 – Computerworld](https://digitpatrox.com/what-it-hiring-looks-like-heading-into-2025-computerworld/)
     
     2 hours ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/nC4kbEUxtaSzuJuT7eRtDG-1200-80.jpg)](https://digitpatrox.com/asus-pa278cfrv-review-itpro/)
-    
-    [Asus PA278CFRV review | ITPro](https://digitpatrox.com/asus-pa278cfrv-review-itpro/)
-    
-    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [55 minutes ago
+* [4 minutes ago
     
-    ### Businesses know they have major skills deficits, but less than half plan on hiring more women](https://digitpatrox.com/businesses-know-they-have-major-skills-deficits-but-less-than-half-plan-on-hiring-more-women/)
-* [2 hours ago
+    ### Google’s Whisk AI generator will ‘remix’ the pictures you plug in](https://digitpatrox.com/googles-whisk-ai-generator-will-remix-the-pictures-you-plug-in/)
+* [20 minutes ago
     
-    ### This iPhone 15 Pro Max Is Less Than $900](https://digitpatrox.com/this-iphone-15-pro-max-is-less-than-900/)
-* [2 hours ago
+    ### Google Releases Veo 2 Video Generation Model to Rival Sora](https://digitpatrox.com/google-releases-veo-2-video-generation-model-to-rival-sora/)
+* [1 hour ago
     
-    ### The Best and Worst Energy Bars](https://digitpatrox.com/the-best-and-worst-energy-bars/)
+    ### Texas medical school notifies 1.5 million people of two data breaches that compromised SSNs, medical records, and financial info](https://digitpatrox.com/texas-medical-school-notifies-1-5-million-people-of-two-data-breaches-that-compromised-ssns-medical-records-and-financial-info/)
 
 Most Popular Topics
 
-* [2 weeks ago
+* [3 weeks ago
     
-    ### Data center firm Latos introduces itself with plans for 40 new facilities in the UK](https://digitpatrox.com/data-center-firm-latos-introduces-itself-with-plans-for-40-new-facilities-in-the-uk/)
-* [September 22, 2024
+    ### Grab Your Dream OnePlus Devices With These Black Friday Deals](https://digitpatrox.com/grab-your-dream-oneplus-devices-with-these-black-friday-deals/)
+* [November 13, 2024
     
-    ### Manage Your Outlook Attachments Like a Pro with These 8 Tips](https://digitpatrox.com/manage-your-outlook-attachments-like-a-pro-with-these-8-tips/)
-* [October 3, 2024
+    ### How to show file extensions on Windows 10](https://digitpatrox.com/how-to-show-file-extensions-on-windows-10/)
+* [September 4, 2024
     
-    ### Linux malware “perfctl” behind years-long crypto-mining campaign](https://digitpatrox.com/linux-malware-perfctl-behind-years-long-crypto-mining-campaign/)
+    ### Everything we know about the TfL cyber attack so far](https://digitpatrox.com/everything-we-know-about-the-tfl-cyber-attack-so-far/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [3 hours ago
     
-    ### 2025 in tech: what’s coming for gadgets, regulation, and AI](https://digitpatrox.com/2025-in-tech-whats-coming-for-gadgets-regulation-and-ai/)
-* [4 hours ago
+    ### How to correctly install graphics drivers when upgrading to a new GPU on Windows 11](https://digitpatrox.com/how-to-correctly-install-graphics-drivers-when-upgrading-to-a-new-gpu-on-windows-11/)
+* [3 hours ago
     
-    ### 7 Years Later, a New HDMI Standard Could Be Coming Soon](https://digitpatrox.com/7-years-later-a-new-hdmi-standard-could-be-coming-soon/)
-* [7 hours ago
+    ### How to Find a Great Home Health Aide](https://digitpatrox.com/how-to-find-a-great-home-health-aide/)
+* [3 hours ago
     
-    ### What Is Core Sleep? (Or What Your Apple Watch Thinks It Is)](https://digitpatrox.com/what-is-core-sleep-or-what-your-apple-watch-thinks-it-is/)
+    ### Why You Still Need Excel Skills in Today’s AI World](https://digitpatrox.com/why-you-still-need-excel-skills-in-todays-ai-world/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 12, 2024
+    
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [October 4, 2024
     
     ### Wordle Answer for Today, October 4, 2024](https://digitpatrox.com/wordle-answer-for-today-october-4-2024/)
