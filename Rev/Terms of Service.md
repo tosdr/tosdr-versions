@@ -34,7 +34,7 @@ Capture Every Detail And Break Every Story](https://www.rev.com/solutions/news-b
 
 Accelerate Research Insights and Publish with Precision](https://www.rev.com/solutions/market-research)[Healthcare
 
-Capture and Safeguard Every Clinical Conversation](https://www.rev.com/solutions/industries?health)[Legal & Court Reporting
+Built for HIPAA Compliance, Capture & Protect Clinical Conversations](https://www.rev.com/solutions/industries?health)[Legal & Court Reporting
 
 A Trusted Partner from Transcription to Certification](https://www.rev.com/solutions/legal)[Education
 
@@ -104,7 +104,7 @@ Empower Smarter Civic Decisions with AI Insights](https://www.rev.com/solutions/
 
 Turn Investor Calls into Actionable Intelligence](https://www.rev.com/solutions/industries?fin)[Healthcare
 
-Capture and Safeguard Every Clinical Conversation](https://www.rev.com/solutions/industries?health)
+Built for HIPAA Compliance, Capture & Protect Clinical Conversations](https://www.rev.com/solutions/industries?health)
 
 ![](https://cdn.prod.website-files.com/65dd0e80788a2f545d95cd65/671a59a9292987d0e61ba2db_voicehub-promo-image.png)
 
