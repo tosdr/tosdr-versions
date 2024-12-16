@@ -307,7 +307,13 @@ article 7 days ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-sw
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/12/nasas-europa-clipper-mission.jpg?w=1024)
+[![NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets](https://science.nasa.gov/wp-content/uploads/2023/06/davinci-probe-on-surface-1280x900-1.jpg)
+
+5 min read
+
+### NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets
+
+article 2 hours ago](https://science.nasa.gov/uncategorized/davincis-many-firsts-at-venus/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/nasas-europa-clipper-mission.jpg?w=1024)
 
 7 min read
 
@@ -319,17 +325,17 @@ article 4 days ago](https://www.nasa.gov/centers-and-facilities/kennedy/nasa-ken
 
 ### NASA’s Perseverance Rover Reaches Top of Jezero Crater Rim
 
-article 4 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/)[![NASA’s Ingenuity Mars Helicopter](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia26238-ingentuity-ripples-cropped.jpg?w=1024)
-
-5 min read
-
-### NASA Performs First Aircraft Accident Investigation on Another World
-
-article 5 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/ingenuity-helicopter/nasa-performs-first-aircraft-accident-investigation-on-another-world/)
+article 4 days ago](https://www.nasa.gov/missions/mars-2020-perseverance/perseverance-rover/nasas-perseverance-rover-reaches-top-of-jezero-crater-rim/)
 
 ### Featured
 
-[![Hubble Images a Grand Spiral](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC5643_potw2450a.jpg)
+[![NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JC439JQCXEY252WM2K1QF6Q6-2K.jpg)
+
+7 min read
+
+### NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe
+
+article 37 mins ago](https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/)[![Hubble Images a Grand Spiral](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC5643_potw2450a.jpg)
 
 2 min read
 
@@ -341,35 +347,29 @@ article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-images-a-gra
 
 ### NASA Successfully Integrates Roman Mission’s Telescope, Instruments
 
-article 4 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-roman-missions-telescope-instruments/)[![Found: First Actively Forming Galaxy as Lightweight as Young Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JD0MVRQ4ANVGZJV5PM1Z7AJM-1K.png)
-
-6 min read
-
-### Found: First Actively Forming Galaxy as Lightweight as Young Milky Way
-
-article 5 days ago](https://science.nasa.gov/missions/webb/found-first-actively-forming-galaxy-as-lightweight-as-young-milky-way/)
+article 4 days ago](https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-roman-missions-telescope-instruments/)
 
 ### Highlights
 
-[![Amendment 83: New Opportunity: A.65 Responsive Science Initiatives Research](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/ER2%20over%20Sierras.jpeg)
+[![NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2024/webb-STScI-01JC439JQCXEY252WM2K1QF6Q6-2K.jpg)
+
+7 min read
+
+### NASA’s Webb Finds Planet-Forming Disks Lived Longer in Early Universe
+
+article 37 mins ago](https://science.nasa.gov/missions/webb/nasas-webb-finds-planet-forming-disks-lived-longer-in-early-universe/)[![NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets](https://science.nasa.gov/wp-content/uploads/2023/06/davinci-probe-on-surface-1280x900-1.jpg)
+
+5 min read
+
+### NASA DAVINCI Mission’s Many ‘Firsts’ to Unlock Venus’ Hidden Secrets
+
+article 2 hours ago](https://science.nasa.gov/uncategorized/davincis-many-firsts-at-venus/)[![Amendment 83: New Opportunity: A.65 Responsive Science Initiatives Research](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/ER2%20over%20Sierras.jpeg)
 
 1 min read
 
 ### Amendment 83: New Opportunity: A.65 Responsive Science Initiatives Research
 
-article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-83-new-opportunity-a-65-responsive-science-initiatives-research/)[![Hubble Images a Grand Spiral](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC5643_potw2450a.jpg)
-
-2 min read
-
-### Hubble Images a Grand Spiral
-
-article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-images-a-grand-spiral/)[![Amendment 82: A.48 Commercial Satellite Data Earth Science and Applications Final Text and Due Dates Released](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/svs/a000000/a004700/a004745/landsat_w_sentinel_v2_ls8ls9sAsB_fade_08_60fps_4k_3240_print.jpg)
-
-2 min read
-
-### Amendment 82: A.48 Commercial Satellite Data Earth Science and Applications Final Text and Due Dates Released
-
-article 4 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-82-a-48-commercial-satellite-data-earth-science-and-applications-final-text-and-due-dates-released/)
+article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-83-new-opportunity-a-65-responsive-science-initiatives-research/)
 
 ### Highlights
 
