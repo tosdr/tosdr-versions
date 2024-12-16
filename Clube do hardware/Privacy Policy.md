@@ -130,105 +130,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Juan_barbosa](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23939393%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257992-juan_barbosa/ "Ir ao perfil de Juan_barbosa")
+    * [![Joao Duques](https://www.clubedohardware.com.br/uploads/members/monthly_2018_04/One-Piece-Monkey-D-Luffy-Laugh-Decal_1024x1024_ee8e1bc0-3a6e-4080-9b1d-095243b4339f_1024x1024.thumb.jpg.7e432c331e8c4d09cca514bd44eb9753.jpg)](https://www.clubedohardware.com.br/profile/956499-joao-duques/ "Ir ao perfil de Joao Duques")
         
         0
         
-        [Câmera não consegue formatar cartão de memória](https://www.clubedohardware.com.br/forums/topic/1705635-c%C3%A2mera-n%C3%A3o-consegue-formatar-cart%C3%A3o-de-mem%C3%B3ria/?do=getNewComment "Câmera não consegue formatar cartão de memória")
+        [Sugestões de processadores para utilizar com a RTX 4060 ti?](https://www.clubedohardware.com.br/forums/topic/1705671-sugest%C3%B5es-de-processadores-para-utilizar-com-a-rtx-4060-ti/?do=getNewComment "Sugestões de processadores para utilizar com a RTX 4060 ti?")
         
-        [Câmeras e filmadoras](https://www.clubedohardware.com.br/forums/forum/46-c%C3%A2meras-e-filmadoras/ "Câmeras e filmadoras")  
-        Por [Juan\_barbosa](https://www.clubedohardware.com.br/profile/1257992-juan_barbosa/ "Ir ao perfil de Juan_barbosa")  
-        3 minutos atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Joao Duques](https://www.clubedohardware.com.br/profile/956499-joao-duques/ "Ir ao perfil de Joao Duques")  
+        5 minutos atrás
         
-    * [![DaviH](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236962c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ED%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1201765-davih/ "Ir ao perfil de DaviH")
+    * [![Vinicius1332](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/teste.thumb.jpg.69c6a9c13d7b7cf3d2bf646a7833fca2.jpg)](https://www.clubedohardware.com.br/profile/991594-vinicius1332/ "Ir ao perfil de Vinicius1332")
         
-        1
+        4
         
-        [Windows 10 com registro "corrompido". Nenhum programa do windows abre!](https://www.clubedohardware.com.br/forums/topic/1705634-windows-10-com-registro-corrompido-nenhum-programa-do-windows-abre/?do=getNewComment "Windows 10 com registro "corrompido". Nenhum programa do windows abre!")
+        [memória RAM Juhor DDR4 2666MHZ vs DDR4 3200mhz (Ryzen 5 5500)](https://www.clubedohardware.com.br/forums/topic/1705666-mem%C3%B3ria-ram-juhor-ddr4-2666mhz-vs-ddr4-3200mhz-ryzen-5-5500/?do=getNewComment "memória RAM Juhor DDR4 2666MHZ vs DDR4 3200mhz (Ryzen 5 5500)")
         
-        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
-        Por [DaviH](https://www.clubedohardware.com.br/profile/1201765-davih/ "Ir ao perfil de DaviH")  
-        13 minutos atrás
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Vinicius1332](https://www.clubedohardware.com.br/profile/991594-vinicius1332/ "Ir ao perfil de Vinicius1332")  
+        57 minutos atrás
         
-    * [![Diegoferrarijr](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257991.thumb.png.6f6d7dd9359f2435eac419b89eda1c85.png)](https://www.clubedohardware.com.br/profile/1257991-diegoferrarijr/ "Ir ao perfil de Diegoferrarijr")
-        
-        0
-        
-        [Edição de imagens para um vídeo](https://www.clubedohardware.com.br/forums/topic/1705633-edi%C3%A7%C3%A3o-de-imagens-para-um-v%C3%ADdeo/?do=getNewComment "Edição de imagens para um vídeo")
-        
-        [Gravação e edição de imagens, áudio e vídeo](https://www.clubedohardware.com.br/forums/forum/54-grava%C3%A7%C3%A3o-e-edi%C3%A7%C3%A3o-de-imagens-%C3%A1udio-e-v%C3%ADdeo/ "Gravação e edição de imagens, áudio e vídeo")  
-        Por [Diegoferrarijr](https://www.clubedohardware.com.br/profile/1257991-diegoferrarijr/ "Ir ao perfil de Diegoferrarijr")  
-        19 minutos atrás
-        
-    * [![Rafael Angelo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257988.thumb.png.626047b6056270beb35642f8da029b57.png)](https://www.clubedohardware.com.br/profile/1257988-rafael-angelo/ "Ir ao perfil de Rafael Angelo")
-        
-        1
-        
-        [Recomendação de computador para jogos como CS2 e Valorant por até R$ 5.500,00](https://www.clubedohardware.com.br/forums/topic/1705631-recomenda%C3%A7%C3%A3o-de-computador-para-jogos-como-cs2-e-valorant-por-at%C3%A9-r-550000/?do=getNewComment "Recomendação de computador para jogos como CS2 e Valorant por até R$ 5.500,00")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Rafael Angelo](https://www.clubedohardware.com.br/profile/1257988-rafael-angelo/ "Ir ao perfil de Rafael Angelo")  
-        1 hora atrás
-        
-    * [![Yovelynnx0](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257982.thumb.jpeg.e4b99299c0252f9f4fe7df447ef152fc.jpeg)](https://www.clubedohardware.com.br/profile/1257982-yovelynnx0/ "Ir ao perfil de Yovelynnx0")
+    * [![leoca](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253477.thumb.png.27807af6d24bf398a9280255b749e0d5.png)](https://www.clubedohardware.com.br/profile/1253477-leoca/ "Ir ao perfil de leoca")
         
         2
         
-        [Placa de vídeo RX 7600: Crashs aleatórios e instabilidade em jogos](https://www.clubedohardware.com.br/forums/topic/1705630-placa-de-v%C3%ADdeo-rx-7600-crashs-aleat%C3%B3rios-e-instabilidade-em-jogos/?do=getNewComment "Placa de vídeo RX 7600: Crashs aleatórios e instabilidade em jogos")
+        [placa-mãe para Ryzen 7 5700x3d](https://www.clubedohardware.com.br/forums/topic/1705665-placa-m%C3%A3e-para-ryzen-7-5700x3d/?do=getNewComment "placa-mãe para Ryzen 7 5700x3d")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Yovelynnx0](https://www.clubedohardware.com.br/profile/1257982-yovelynnx0/ "Ir ao perfil de Yovelynnx0")  
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [leoca](https://www.clubedohardware.com.br/profile/1253477-leoca/ "Ir ao perfil de leoca")  
         1 hora atrás
         
-    * [![XVIII](https://www.clubedohardware.com.br/uploads/members/monthly_2017_12/DDWbNQ5UAAAQtZZ.thumb.jpg.2c31b598c9343391dbeac2f5226d219d.jpg)](https://www.clubedohardware.com.br/profile/937315-xviii/ "Ir ao perfil de XVIII")
-        
-        6
-        
-        [Recomendação de compra de até R$ 4.200,00: PC Gamer ou PS5 Slim?](https://www.clubedohardware.com.br/forums/topic/1705626-recomenda%C3%A7%C3%A3o-de-compra-de-at%C3%A9-r-420000-pc-gamer-ou-ps5-slim/?do=getNewComment "Recomendação de compra de até R$ 4.200,00: PC Gamer ou PS5 Slim?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [XVIII](https://www.clubedohardware.com.br/profile/937315-xviii/ "Ir ao perfil de XVIII")  
-        1 hora atrás
-        
-    * [![Raelfilho10](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23bdc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257985-raelfilho10/ "Ir ao perfil de Raelfilho10")
+    * [![Yuri Renan](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1196898.thumb.jpeg.118376c45b139b556ec999f1ab7d310f.jpeg)](https://www.clubedohardware.com.br/profile/1196898-yuri-renan/ "Ir ao perfil de Yuri Renan")
         
         1
         
-        [Placa-mãe Machinist X99 MR9A Pro com erros de beeps 1-1-2-1](https://www.clubedohardware.com.br/forums/topic/1705625-placa-m%C3%A3e-machinist-x99-mr9a-pro-com-erros-de-beeps-1-1-2-1/?do=getNewComment "Placa-mãe Machinist X99 MR9A Pro com erros de beeps 1-1-2-1")
+        [placa-mãe maxxdigital h61 aceita water cooler?](https://www.clubedohardware.com.br/forums/topic/1705664-placa-m%C3%A3e-maxxdigital-h61-aceita-water-cooler/?do=getNewComment "placa-mãe maxxdigital h61 aceita water cooler?")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Raelfilho10](https://www.clubedohardware.com.br/profile/1257985-raelfilho10/ "Ir ao perfil de Raelfilho10")  
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Yuri Renan](https://www.clubedohardware.com.br/profile/1196898-yuri-renan/ "Ir ao perfil de Yuri Renan")  
         1 hora atrás
         
-    * [![zigrioth](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257981.thumb.jpeg.1a2527319cc15bf82e6daa80b985ca11.jpeg)](https://www.clubedohardware.com.br/profile/1257981-zigrioth/ "Ir ao perfil de zigrioth")
+    * [![Pablo Gustavo h](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251694.thumb.png.2e4810e96b77040598f6114f5e176b5a.png)](https://www.clubedohardware.com.br/profile/1251694-pablo-gustavo-h/ "Ir ao perfil de Pablo Gustavo h")
+        
+        3
+        
+        [GTX 1050 cpuz reconhece, fan gira mas nada de dar imagem](https://www.clubedohardware.com.br/forums/topic/1705663-gtx-1050-cpuz-reconhece-fan-gira-mas-nada-de-dar-imagem/?do=getNewComment "GTX 1050 cpuz reconhece, fan gira mas nada de dar imagem")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Pablo Gustavo h](https://www.clubedohardware.com.br/profile/1251694-pablo-gustavo-h/ "Ir ao perfil de Pablo Gustavo h")  
+        1 hora atrás
+        
+    * [![Odavizera77](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258006.thumb.jpeg.6752a672cd4e04639e86273670fc2ece.jpeg)](https://www.clubedohardware.com.br/profile/1258006-odavizera77/ "Ir ao perfil de Odavizera77")
+        
+        3
+        
+        [Pc reiniciando durante o jogo - Intel Core I5 3470, AMD RX 580, Corsair CV 550](https://www.clubedohardware.com.br/forums/topic/1705662-pc-reiniciando-durante-o-jogo-intel-core-i5-3470-amd-rx-580-corsair-cv-550/?do=getNewComment "Pc reiniciando durante o jogo - Intel Core I5 3470, AMD RX 580, Corsair CV 550")
+        
+        [Computador reiniciando](https://www.clubedohardware.com.br/forums/forum/121-computador-reiniciando/ "Computador reiniciando")  
+        Por [Odavizera77](https://www.clubedohardware.com.br/profile/1258006-odavizera77/ "Ir ao perfil de Odavizera77")  
+        1 hora atrás
+        
+    * [![luwnc](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255023.thumb.jpeg.5402b264424e7f58604eb21dd868dab7.jpeg)](https://www.clubedohardware.com.br/profile/1255023-luwnc/ "Ir ao perfil de luwnc")
+        
+        2
+        
+        [Atualizei a BIOS da GPU AMD RX 470 para RX 570 e perdi opções de freesync](https://www.clubedohardware.com.br/forums/topic/1705661-atualizei-a-bios-da-gpu-amd-rx-470-para-rx-570-e-perdi-op%C3%A7%C3%B5es-de-freesync/?do=getNewComment "Atualizei a BIOS da GPU AMD RX 470 para RX 570 e perdi opções de freesync")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [luwnc](https://www.clubedohardware.com.br/profile/1255023-luwnc/ "Ir ao perfil de luwnc")  
+        1 hora atrás
+        
+    * [![Litt2](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1226465.thumb.png.034140813a43110bc97944323c82b454.png)](https://www.clubedohardware.com.br/profile/1226465-litt2/ "Ir ao perfil de Litt2")
         
         5
         
-        [placa-mãe mancer sem unlock de frequência](https://www.clubedohardware.com.br/forums/topic/1705623-placa-m%C3%A3e-mancer-sem-unlock-de-frequ%C3%AAncia/?do=getNewComment "placa-mãe mancer sem unlock de frequência")
+        [Bom PC 1080p? A520M A Pro, Ryzen 5 5500, 16GB e Radeon RX 6600?](https://www.clubedohardware.com.br/forums/topic/1705660-bom-pc-1080p-a520m-a-pro-ryzen-5-5500-16gb-e-radeon-rx-6600/?do=getNewComment "Bom PC 1080p? A520M A Pro, Ryzen 5 5500, 16GB e Radeon RX 6600?")
         
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [zigrioth](https://www.clubedohardware.com.br/profile/1257981-zigrioth/ "Ir ao perfil de zigrioth")  
-        2 horas atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Litt2](https://www.clubedohardware.com.br/profile/1226465-litt2/ "Ir ao perfil de Litt2")  
+        1 hora atrás
         
-    * [![Mengineer](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/inter.thumb.jpg.14ab9347fec0eee301c8699d353a18ad.jpg)](https://www.clubedohardware.com.br/profile/1254776-mengineer/ "Ir ao perfil de Mengineer")
+    * [![ArturKJS2](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257218.thumb.png.4d4539524ed9736aaa1d240febc52997.png)](https://www.clubedohardware.com.br/profile/1257218-arturkjs2/ "Ir ao perfil de ArturKJS2")
+        
+        6
+        
+        [Melhorar placa de vídeo até R$ 500,00?](https://www.clubedohardware.com.br/forums/topic/1705659-melhorar-placa-de-v%C3%ADdeo-at%C3%A9-r-50000/?do=getNewComment "Melhorar placa de vídeo até R$ 500,00?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [ArturKJS2](https://www.clubedohardware.com.br/profile/1257218-arturkjs2/ "Ir ao perfil de ArturKJS2")  
+        1 hora atrás
+        
+    * [![Fujsan](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258004.thumb.png.b261e358420c03ab0ce55804753a1267.png)](https://www.clubedohardware.com.br/profile/1258004-fujsan/ "Ir ao perfil de Fujsan")
         
         1
         
-        [Placa que tenha uma boa relação energia versus velocidade?](https://www.clubedohardware.com.br/forums/topic/1705622-placa-que-tenha-uma-boa-rela%C3%A7%C3%A3o-energia-versus-velocidade/?do=getNewComment "Placa que tenha uma boa relação energia versus velocidade?")
+        [PC Liga vídeo só depois de esquentar](https://www.clubedohardware.com.br/forums/topic/1705658-pc-liga-v%C3%ADdeo-s%C3%B3-depois-de-esquentar/?do=getNewComment "PC Liga vídeo só depois de esquentar")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Mengineer](https://www.clubedohardware.com.br/profile/1254776-mengineer/ "Ir ao perfil de Mengineer")  
-        2 horas atrás
-        
-    * [![felzeed](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244769.thumb.jpeg.aa622e84ddde4a68ff956f25bce45a75.jpeg)](https://www.clubedohardware.com.br/profile/1244769-felzeed/ "Ir ao perfil de felzeed")
-        
-        2
-        
-        [SSD WD Blue SN580 é compatível com placa-mãe Gigabyte B650M WiFi?](https://www.clubedohardware.com.br/forums/topic/1705621-ssd-wd-blue-sn580-%C3%A9-compat%C3%ADvel-com-placa-m%C3%A3e-gigabyte-b650m-wifi/?do=getNewComment "SSD WD Blue SN580 é compatível com placa-mãe Gigabyte B650M WiFi?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [felzeed](https://www.clubedohardware.com.br/profile/1244769-felzeed/ "Ir ao perfil de felzeed")  
-        2 horas atrás
+        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
+        Por [Fujsan](https://www.clubedohardware.com.br/profile/1258004-fujsan/ "Ir ao perfil de Fujsan")  
+        1 hora atrás
         
     
 
@@ -386,10 +386,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
