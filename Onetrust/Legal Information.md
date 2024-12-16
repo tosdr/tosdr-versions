@@ -170,9 +170,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
-* [Revisiting IAPP DPC 2024: Top trends on the latest data protection developments](https://www.onetrust.com/resources/revisiting-iapp-dpc-2024-top-trends-on-the-latest-data-protection-developments-webinar/)
-* [The PDPL in Saudi Arabia is now in effect: is your business ready?](https://www.onetrust.com/resources/the-pdpl-in-saudi-arabia-is-now-in-effect-is-your-business-ready-webinar/)
-* [Unpacking global regulatory frameworks to enhance third-party operational resilience](https://www.onetrust.com/resources/unpacking-global-regulatory-frameworks-to-enhance-third-party-operational-resilience-webinar/)
+* [Automating metadata capture: Future-proofing data management for AI](https://www.onetrust.com/resources/automating-metadata-capture-future-proofing-data-management-for-ai-webinar/)
+* [How Samsung achieved seamless global consent management with OneTrust](https://www.onetrust.com/resources/how-samsung-achieved-seamless-global-consent-management-with-onetrust-webinar/)
+* [PIA and DPIA demo webinar with Data Privacy Group](https://www.onetrust.com/resources/pia-and-dpia-demo-webinar-with-data-privacy-group-webinar/)
 
 ### Platform
 
