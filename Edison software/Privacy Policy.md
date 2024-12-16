@@ -6,7 +6,7 @@
 
 [Skip to Content](#page)
 
-[![Edison Mail](//images.squarespace-cdn.com/content/v1/6193ecda19fd5e3743ed1d8d/4ca61181-6959-4e81-9d98-f3783e3492bb/logo-text-grey.png?format=1500w)](https://www.edison.tech/)
+[![Edison Mail](//images.squarespace-cdn.com/content/v1/6193ecda19fd5e3743ed1d8d/aa0e672f-1ec4-4357-89cc-5727fb1bf1f1/edison-logo-grey.png?format=1500w)](https://www.edison.tech/)
 
 [Features](https://www.edison.tech/features)
 
@@ -30,7 +30,7 @@
 
 Open Menu Close Menu
 
-[![Edison Mail](//images.squarespace-cdn.com/content/v1/6193ecda19fd5e3743ed1d8d/4ca61181-6959-4e81-9d98-f3783e3492bb/logo-text-grey.png?format=1500w)](https://www.edison.tech/)
+[![Edison Mail](//images.squarespace-cdn.com/content/v1/6193ecda19fd5e3743ed1d8d/aa0e672f-1ec4-4357-89cc-5727fb1bf1f1/edison-logo-grey.png?format=1500w)](https://www.edison.tech/)
 
 [Features](https://www.edison.tech/features)
 
@@ -394,7 +394,7 @@ Alternatively, VeraSafe can be contacted at:
 [Work & Business](https://www.edison.tech/work-business)  
 [University Support](https://www.edison.tech/blog/edison-mail-for-college-university)
 
-![Edison Mail](https://images.squarespace-cdn.com/content/v1/6193ecda19fd5e3743ed1d8d/19cd5c9f-b72b-497a-b7c9-4885d7e4c3ed/logo-dark.jpg)
+![](https://images.squarespace-cdn.com/content/v1/6193ecda19fd5e3743ed1d8d/aa0e672f-1ec4-4357-89cc-5727fb1bf1f1/edison-logo-grey.png)
 
 Your Privacy Choices ![](https://oag.ca.gov/sites/all/files/agweb/images/privacy/privacyoptions.svg) 
 
