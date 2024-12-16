@@ -44,7 +44,7 @@ Institutions
 
 Research & Insights
 
-[Residents Survey](https://www.amboss.com/us/institutions/residents-survey)[Step 2 CK](https://www.amboss.com/us/usmle/scores)
+[Residents Survey (Nov '24)](https://www.amboss.com/us/institutions/residents-survey)[Residents Survey (Jan '24)](https://www.amboss.com/us/institutions/residents-survey-202401)[Step 2 CK](https://www.amboss.com/us/usmle/scores)
 
 [Pricing](https://www.amboss.com/us/pricing)
 
