@@ -43,70 +43,82 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![](https://www.women.com/img/gallery/the-20-best-premiere-looks-on-2024-red-carpets/intro-1733421995.jpg)](https://www.women.com/1730450/best-premiere-looks-2024-red-carpet/)
+*  [![Close up of feet getting a pedicure](https://www.women.com/img/gallery/every-type-of-pedicure-explained/intro-1733419200.jpg)](https://www.women.com/1730467/every-type-pedicure-explained/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
     
-    [The 20 Best Premiere Looks On 2024 Red Carpets](https://www.women.com/1730450/best-premiere-looks-2024-red-carpet/)
-    ====================================================================================================================
+    [Every Type Of Pedicure, Explained](https://www.women.com/1730467/every-type-pedicure-explained/)
+    =================================================================================================
     
-    Whether it was Zendaya making yet another fashion statement or Cynthia Erivo stunning at a "Wicked" premiere, 2024 was full of great red carpet looks.
+    As beneficial as pedicures can be for the mind and body, rolling into a salon and trying to figure out which pedicure to get can sometimes be overwhelming.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1730450/best-premiere-looks-2024-red-carpet/)
+    By Amanda Chatel [Read More](https://www.women.com/1730467/every-type-pedicure-explained/)
     
-* *  [![Dakota Fanning posing at Cannes](https://www.women.com/img/gallery/dakota-fannings-stunning-style-transformation-through-the-years/intro-1733427041.jpg)](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
+* *  [![](https://www.women.com/img/gallery/the-best-dating-advice-we-learned-from-sabrina-carpenter-songs/intro-1733761713.jpg)](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
         
-        [Fashion](https://www.women.com/category/fashion/)
+        [Relationships](https://www.women.com/category/relationships/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
+        [Relationships](https://www.women.com/category/relationships/) By Madison Emily Whisenand
         
-        ### [Dakota Fanning's Stunning Style Transformation Through The Years](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
+        ### [The Best Dating Advice We Learned From Sabrina Carpenter Songs](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
         
-        Dakota Fanning has grown up under the public eye, with an impressive career, and an even more impressive style transformation along the way.
+        Aside from cheeky lyrics and catchy melodies, one of the things that makes Sabrina Carpenter's music so compelling is its diaristic element.
         
-        By Amanda Chatel [Read More](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
+        By Madison Emily Whisenand [Read More](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
         
-    *  [![Gigi Hadid making a heart with her hands above her head](https://www.women.com/img/gallery/8-celebs-who-have-rocked-the-chic-flippy-bob/intro-1733769783.jpg)](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
+    *  [![](https://www.women.com/img/gallery/outdated-beauty-trends-to-leave-in-2024/intro-1733768782.jpg)](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Clementine Doyle
+        [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
         
-        ### [8 Celebs Who Have Rocked The Chic Flippy Bob](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
+        ### [Outdated Beauty Trends To Leave In 2024](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
         
-        Whether you opt for a gentle curve or a more dramatic flick, the flippy bob is a comeback style that's equal parts practical and chic.
+        As new trends take hold in the new year, some of the most popular 2024 beauty looks are being left behind, including matte makeup and hydro hair.
         
-        By Clementine Doyle [Read More](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
+        By Bernadette Roe [Read More](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
         
 
 More Stories
 ------------
 
-*  [![Sabrina Carpenter smiling and looking to the side](https://www.women.com/img/gallery/the-best-dating-advice-we-learned-from-sabrina-carpenter-songs/intro-1733761713.jpg)](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+*  [![Dakota Fanning posing at Cannes](https://www.women.com/img/gallery/dakota-fannings-stunning-style-transformation-through-the-years/intro-1733427041.jpg)](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
     
-    [Relationships](https://www.women.com/category/relationships/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Relationships](https://www.women.com/category/relationships/) By Madison Emily Whisenand
+    [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
     
-    ### [The Best Dating Advice We Learned From Sabrina Carpenter Songs](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+    ### [Dakota Fanning's Stunning Style Transformation Through The Years](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
     
-    Aside from cheeky lyrics and catchy melodies, one of the things that makes Sabrina Carpenter's music so compelling is its diaristic element.
+    Dakota Fanning has grown up under the public eye, with an impressive career, and an even more impressive style transformation along the way.
     
-    By Madison Emily Whisenand [Read More](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+    By Amanda Chatel [Read More](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
     
-*  [![A woman with winged eyeliner and pink lipstick](https://www.women.com/img/gallery/outdated-beauty-trends-to-leave-in-2024/intro-1733768782.jpg)](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+*  [![Gigi Hadid making a heart with her hands above her head](https://www.women.com/img/gallery/8-celebs-who-have-rocked-the-chic-flippy-bob/intro-1733769783.jpg)](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
     
     [Beauty](https://www.women.com/category/beauty/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
+    [Beauty](https://www.women.com/category/beauty/) By Clementine Doyle
     
-    ### [Outdated Beauty Trends To Leave In 2024](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+    ### [8 Celebs Who Have Rocked The Chic Flippy Bob](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
     
-    As new trends take hold in the new year, some of the most popular 2024 beauty looks are being left behind, including matte makeup and hydro hair.
+    Whether you opt for a gentle curve or a more dramatic flick, the flippy bob is a comeback style that's equal parts practical and chic.
     
-    By Bernadette Roe [Read More](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+    By Clementine Doyle [Read More](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
+    
+*  [![Zendaya at the Challengers L.A. premiere](https://www.women.com/img/gallery/the-20-best-premiere-looks-on-2024-red-carpets/intro-1733421995.jpg)](https://www.women.com/1730450/best-premiere-looks-2024-red-carpet/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [The 20 Best Premiere Looks On 2024 Red Carpets](https://www.women.com/1730450/best-premiere-looks-2024-red-carpet/)
+    
+    Whether it was Zendaya making yet another fashion statement or Cynthia Erivo stunning at a "Wicked" premiere, 2024 was full of great red carpet looks.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1730450/best-premiere-looks-2024-red-carpet/)
     
 *  [![Taylor Swift onstage with an acoustic guitar](https://www.women.com/img/gallery/taylor-swifts-most-iconic-eras-tour-outfits-ranked/intro-1734033449.jpg)](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
     
@@ -395,18 +407,6 @@ More Stories
     Kaia Gerber's book club, Library Science, kicked off in March 2024 and offers a totally curated vibe of unique and unusual books.
     
     By Bernadette Roe [Read More](https://www.women.com/1720621/best-picks-kaia-gerber-book-club/)
-    
-*  [![Lesbian couple taking an engagement selfie on a boat](https://www.women.com/img/gallery/can-you-break-your-engagement-without-breaking-up/intro-1732131514.jpg)](https://www.women.com/1718643/break-engagement-without-breaking-up/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
-    
-    ### [Can You Break Your Engagement Without Breaking Up?](https://www.women.com/1718643/break-engagement-without-breaking-up/)
-    
-    As thrilling as being engaged is, it might not feel quite right, and that's ok. Ending an engagement but not the relationship is possible, but it takes work.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1718643/break-engagement-without-breaking-up/)
     
 
 Back
