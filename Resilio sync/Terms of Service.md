@@ -151,7 +151,11 @@ Bringing connectivity to the edge of the network](https://www.resilio.com/indust
 
 Resources
 
-[![](/images/handshake.svg)
+[![](/images/learning.svg)
+
+Resource Center  
+
+![](/images/right.svg)](https://www.resilio.com/resources/)[![](/images/handshake.svg)
 
 Case Studies  
 
@@ -165,17 +169,9 @@ Events
 
 ![](/images/right.svg)](https://www.resilio.com/resources/#type=event)[![](/images/exchange.svg)
 
-P2P vs. Client Server  
+Why P2P is Faster?  
 
-![](/images/right.svg)](https://www.resilio.com/blog/whats-the-difference-between-peer-to-peer-and-client-server)[![](/images/round-play_circle_outline-24px_1.svg)![](/images/video-playlist.svg)
-
-Resilio Platform Demos & Tutorials  
-
-![](/images/right.svg)](https://www.resilio.com/tech/connect-tutorials/)[![](/images/learning.svg)
-
-Resource Center  
-
-![](/images/right.svg)](https://www.resilio.com/resources/)[![](/images/letterbox.svg)
+![](/images/right.svg)](https://www.resilio.com/blog/whats-the-difference-between-peer-to-peer-and-client-server)[![](/images/letterbox.svg)
 
 Blog  
 
@@ -237,7 +233,7 @@ Industries
 
 Resources
 
-[Case Studies](https://www.resilio.com/resources/#type=case_study) [Webinars](https://www.resilio.com/resources/#type=webinar) [Events](https://www.resilio.com/resources/#type=event) [P2P vs. Client Server](https://www.resilio.com/blog/whats-the-difference-between-peer-to-peer-and-client-server) [Resilio Platform Demos & Tutorials](https://www.resilio.com/tech/connect-tutorials/) [Resource Center](https://www.resilio.com/resources/) [blog](https://www.resilio.com/blog/)
+[Case Studies](https://www.resilio.com/resources/#type=case_study) [Webinars](https://www.resilio.com/resources/#type=webinar) [Events](https://www.resilio.com/resources/#type=event) [P2P vs. Client Server](https://www.resilio.com/blog/whats-the-difference-between-peer-to-peer-and-client-server) [Resource Center](https://www.resilio.com/resources/) [blog](https://www.resilio.com/blog/)
 
 Support: Resilio Platform
 
@@ -436,9 +432,7 @@ For resilio Active Everywhere Platform
 
 ![](/images/right.svg)](https://helpfiles.resilio.com/ConnectTicket)[Report Security Vulnerability
 
-![](/images/right.svg)](https://connect.resilio.com/hc/en-us/articles/360000293380)[Demos & Tutorials
-
-![](/images/right.svg)](https://www.resilio.com/tech/connect-tutorials/)
+![](/images/right.svg)](https://connect.resilio.com/hc/en-us/articles/360000293380)
 
 ![](/images/web-help.svg)
 
