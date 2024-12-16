@@ -90,6 +90,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Humans
         ----------------------
         
+        * [Anthropology](https://www.sciencenews.org/topic/anthropology)
+            
+            ### [Britain’s largest ancient massacre may have included cannibalism](https://www.sciencenews.org/article/britain-ancient-massacre-cannibalism)
+            
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")3 hours ago
+            
         * [Space](https://www.sciencenews.org/topic/space)
             
             ### [These discoveries in 2024 could be groundbreaking — if they’re true](https://www.sciencenews.org/article/2024-science-discoveries-could-be-true)
@@ -101,12 +107,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Cancer screening and quitting smoking have saved nearly 6 million lives](https://www.sciencenews.org/article/cancer-screening-save-6-million-lives)
             
             By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")December 13, 2024
-            
-        * [Anthropology](https://www.sciencenews.org/topic/anthropology)
-            
-            ### [Humans have linked emotions to the same body parts for 3,000 years](https://www.sciencenews.org/article/link-emotions-body-parts-3000-years)
-            
-            By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")December 13, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
