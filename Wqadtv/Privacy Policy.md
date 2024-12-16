@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ecd486af-6cb4-41c4-beed-c9af7ca74988/20241215T234948/ecd486af-6cb4-41c4-beed-c9af7ca74988_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ecd486af-6cb4-41c4-beed-c9af7ca74988/20241215T234948/ecd486af-6cb4-41c4-beed-c9af7ca74988_360x203.jpg)](https://www.wqad.com/article/news/local/first-lego-league-challenge-illinois-moline/526-a25c454f-8129-4c01-a2ea-54c0534411bf)
+        
+        #### [Illinois kids compete in local qualifier for national LEGO robotics competition](https://www.wqad.com/article/news/local/first-lego-league-challenge-illinois-moline/526-a25c454f-8129-4c01-a2ea-54c0534411bf)
+        
     *  [![](https://media.tegna-media.com/assets/KSDK/images/fd29a416-9b2d-4e35-bd38-9ac848f68fb1/20241214T160217/fd29a416-9b2d-4e35-bd38-9ac848f68fb1_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/fd29a416-9b2d-4e35-bd38-9ac848f68fb1/20241214T160217/fd29a416-9b2d-4e35-bd38-9ac848f68fb1_360x203.jpg)](https://www.wqad.com/article/news/local/we-just-wanted-to-save-him-good-samaritans-rescue-waterloo-pilot-from-wrecked-plane/63-e20ee848-3974-40f3-bb63-91b16590d936)
         
         #### ['Help me!' | 2 men rescue pilot who was on fire after plane crash in southern Illinois](https://www.wqad.com/article/news/local/we-just-wanted-to-save-him-good-samaritans-rescue-waterloo-pilot-from-wrecked-plane/63-e20ee848-3974-40f3-bb63-91b16590d936)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b2628b85-7490-49b4-9bb6-7a041fb3cf57/20241215T200012/b2628b85-7490-49b4-9bb6-7a041fb3cf57_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b2628b85-7490-49b4-9bb6-7a041fb3cf57/20241215T200012/b2628b85-7490-49b4-9bb6-7a041fb3cf57_360x203.jpg)](https://www.wqad.com/article/news/community/ywca-clinton-iowa-supportive-housing-initiative/526-bc8d83ce-5ab8-43fe-95f2-9ef0cbf5a779)
-        
-        #### [YWCA Clinton working to combat homelessness with new supportive housing initiative](https://www.wqad.com/article/news/community/ywca-clinton-iowa-supportive-housing-initiative/526-bc8d83ce-5ab8-43fe-95f2-9ef0cbf5a779)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,14 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/87d3d090-c5c1-4b11-8ad3-4c03b96d3503/20241215T235901/87d3d090-c5c1-4b11-8ad3-4c03b96d3503_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/87d3d090-c5c1-4b11-8ad3-4c03b96d3503/20241215T235901/87d3d090-c5c1-4b11-8ad3-4c03b96d3503_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Weather Impact Alert: Dense fog to continue through Monday morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/dense-fog-advisory-storm-track-8-weather-impact-alert/526-ec6de0de-8b99-468e-ae34-4364506568ae)
         
-        #### [Dense fog advisory in effect until Monday morning: Storm Track 8 Weather Impact Alert](https://www.wqad.com/article/weather/weather-impact/dense-fog-advisory-storm-track-8-weather-impact-alert/526-ec6de0de-8b99-468e-ae34-4364506568ae) [![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/dense-fog-advisory-storm-track-8-weather-impact-alert/526-ec6de0de-8b99-468e-ae34-4364506568ae)
-        
-        #### [Storm Track 8 Weather Impact Alert: Dense fog advisory in effect until Monday morning](https://www.wqad.com/article/weather/weather-impact/dense-fog-advisory-storm-track-8-weather-impact-alert/526-ec6de0de-8b99-468e-ae34-4364506568ae)
-    *  [![](https://media.tegna-media.com/assets/KXTV/images/a2203ae4-8eb7-4437-9fad-9e21ccb57656/20241215T034150/a2203ae4-8eb7-4437-9fad-9e21ccb57656_16x9.jpg) ![](https://media.tegna-media.com/assets/KXTV/images/a2203ae4-8eb7-4437-9fad-9e21ccb57656/20241215T034150/a2203ae4-8eb7-4437-9fad-9e21ccb57656_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/tornado-damage-powerlines-car/103-94f4df2e-0470-4aef-82e7-a0adcae3d3f0)
-        
-        #### [Several injured, significant damage caused after tornado touches down in California](https://www.wqad.com/article/weather/weather-impact/tornado-damage-powerlines-car/103-94f4df2e-0470-4aef-82e7-a0adcae3d3f0)
+        #### [Dense fog advisory in effect until Monday morning: Storm Track 8 Weather Impact Alert](https://www.wqad.com/article/weather/weather-impact/dense-fog-advisory-storm-track-8-weather-impact-alert/526-ec6de0de-8b99-468e-ae34-4364506568ae)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -79,9 +78,9 @@ Navigation
         
         #### [Vote for this week's Midwest Technical Institute Score Standout | Week 16](https://www.wqad.com/article/sports/the-score/vote-for-this-weeks-midwest-technical-institute-score-standout-week-16/526-c20f8b6c-29e5-4dca-af0f-3cb05f45350a)
         
-    *  [![](https://media.tegna-media.com/assets/WOI/images/fd4905da-00fb-403c-86b5-9dd1bb8deccb/20241212T044105/fd4905da-00fb-403c-86b5-9dd1bb8deccb_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/fd4905da-00fb-403c-86b5-9dd1bb8deccb/20241212T044105/fd4905da-00fb-403c-86b5-9dd1bb8deccb_360x203.jpg)](https://www.wqad.com/article/sports/college/iowa-women-rally-beat-iowa-state/524-5f64ac08-63bc-4058-9132-83bbb6ec72fa)
+    *  [![](https://media.tegna-media.com/assets/WOI/images/ccb45ed0-c056-4f75-9676-cabc93b9874f/20241215T223701/ccb45ed0-c056-4f75-9676-cabc93b9874f_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/ccb45ed0-c056-4f75-9676-cabc93b9874f/20241215T223701/ccb45ed0-c056-4f75-9676-cabc93b9874f_360x203.jpg)](https://www.wqad.com/article/sports/ncaa/iowa-hawkeyes/iowa-new-orleans-big-ten-mens-absketball-game-recap-score/524-03ad9647-dbfb-4952-9282-3b3b093aebc7)
         
-        #### [No. 21 Iowa women rally in fourth quarter to beat No. 18 Iowa State 75-69](https://www.wqad.com/article/sports/college/iowa-women-rally-beat-iowa-state/524-5f64ac08-63bc-4058-9132-83bbb6ec72fa)
+        #### [Owen Freeman's career-best 22 points lead Iowa in 104-57 win over New Orleans](https://www.wqad.com/article/sports/ncaa/iowa-hawkeyes/iowa-new-orleans-big-ten-mens-absketball-game-recap-score/524-03ad9647-dbfb-4952-9282-3b3b093aebc7)
         
     
 * [VERIFY](https://www.wqad.com/verify)
@@ -98,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-36°
+39°
 
-![Fog](/assets/shared-images/weather-icons/fog-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
