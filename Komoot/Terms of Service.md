@@ -187,13 +187,3 @@ Im Folgenden findest du die Nutzungsbedingungen für komoot. Wir legen größten
 [](https://www.facebook.com/komoot)[](https://www.instagram.com/komoot)[](https://www.twitter.com/komoot)
 
 [Nutzungsbedingungen](https://www.komoot.de/de-de/terms-of-service)[Datenschutz](https://www.komoot.de/de-de/privacy)[Datenschutzeinstellungen](#)[Community-Richtlinien](https://www.komoot.de/de-de/community/guidelines)[Prämienprogramm für Sicherheitslücken](https://www.komoot.de/de-de/security/bug-bounty)[Impressum](https://www.komoot.de/de-de/imprint)
-
-[Touren](https://www.komoot.de/de-de/discover)
-
-[Routenplaner](https://www.komoot.de/de-de/plan)
-
-[Features](https://www.komoot.de/de-de/features)
-
-[Shop](https://www.komoot.de/de-de/shop)
-
-Deutsch
