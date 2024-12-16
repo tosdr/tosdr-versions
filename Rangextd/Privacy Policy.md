@@ -23,18 +23,18 @@ Search results
 * [_0_ Cart](https://www.rangextd.com/cart)
 
 *  [![All Savvy Products](//savvysmartdeals.com/cdn/shop/collections/Savvy_Smart-Logo-900.jpg?crop=center&height=60&v=1730201125&width=60)All Savvy Products](https://www.rangextd.com/collections/all-items) _(1)_
-*  [![Personal Essentials](//savvysmartdeals.com/cdn/shop/collections/personal-care.png?crop=center&height=60&v=1727247097&width=60)Personal Essentials](https://www.rangextd.com/collections/personal-essentials) _(2)_
+*  [![Health & Wellness](//savvysmartdeals.com/cdn/shop/collections/personal-care.png?crop=center&height=60&v=1727247097&width=60)Personal Essentials](https://www.rangextd.com/collections/health-wellness) _(2)_
 *  [![Family Essentials](//savvysmartdeals.com/cdn/shop/collections/img-5.png?crop=center&height=60&v=1727247156&width=60)Family Essentials](https://www.rangextd.com/collections/family-essentials) _(3)_
 *  [![Travel](//savvysmartdeals.com/cdn/shop/collections/home-automotive-accessories.png?crop=center&height=60&v=1724829778&width=60)Travel](https://www.rangextd.com/collections/travel-mobility) _(4)_
-*  [![Auto Care & Tools](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=60&v=1728032127&width=60)Auto Care & Tools](https://www.rangextd.com/collections/auto-care-tools) _(5)_
+*  [![Gadgetcrate](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=60&v=1734333989&width=60)Auto Care & Tools](https://www.rangextd.com/collections/gadgetcrate) _(5)_
 *  [![Trending Now](//savvysmartdeals.com/cdn/shop/collections/OIG4.n.ENILTqNjmnlFCZsrcJ.jpg?crop=center&height=60&v=1730341005&width=60)Trending Now](https://www.rangextd.com/collections/trending-now) _(6)_
 * [More](https://www.rangextd.com/)
 
 *  [![All Savvy Products](//savvysmartdeals.com/cdn/shop/collections/Savvy_Smart-Logo-900.jpg?crop=center&height=60&v=1730201125&width=60)All Savvy Products](https://www.rangextd.com/collections/all-items) _(1)_
-*  [![Personal Essentials](//savvysmartdeals.com/cdn/shop/collections/personal-care.png?crop=center&height=60&v=1727247097&width=60)Personal Essentials](https://www.rangextd.com/collections/personal-essentials) _(2)_
+*  [![Health & Wellness](//savvysmartdeals.com/cdn/shop/collections/personal-care.png?crop=center&height=60&v=1727247097&width=60)Personal Essentials](https://www.rangextd.com/collections/health-wellness) _(2)_
 *  [![Family Essentials](//savvysmartdeals.com/cdn/shop/collections/img-5.png?crop=center&height=60&v=1727247156&width=60)Family Essentials](https://www.rangextd.com/collections/family-essentials) _(3)_
 *  [![Travel](//savvysmartdeals.com/cdn/shop/collections/home-automotive-accessories.png?crop=center&height=60&v=1724829778&width=60)Travel](https://www.rangextd.com/collections/travel-mobility) _(4)_
-*  [![Auto Care & Tools](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=60&v=1728032127&width=60)Auto Care & Tools](https://www.rangextd.com/collections/auto-care-tools) _(5)_
+*  [![Gadgetcrate](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=60&v=1734333989&width=60)Auto Care & Tools](https://www.rangextd.com/collections/gadgetcrate) _(5)_
 *  [![Trending Now](//savvysmartdeals.com/cdn/shop/collections/OIG4.n.ENILTqNjmnlFCZsrcJ.jpg?crop=center&height=60&v=1730341005&width=60)Trending Now](https://www.rangextd.com/collections/trending-now) _(6)_
 
 * [Customer service](https://www.rangextd.com/pages/about-us)
@@ -64,7 +64,7 @@ Search results
     
     ### Personal Essentials
     
-    [See More Deals](https://www.rangextd.com/collections/personal-essentials) 
+    [See More Deals](https://www.rangextd.com/collections/health-wellness) 
     
 * ![](//savvysmartdeals.com/cdn/shop/files/preview_images/eeb11ea8fcec4f4aadcf4f3ad61cb4d7.thumbnail.0000000000_small.jpg?v=1730432247)
     
