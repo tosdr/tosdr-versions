@@ -1,5 +1,5 @@
   
-Privacy policy – G FUEL                                                                                                        
+Privacy policy – G FUEL                                                                                                     
 
 [Skip to content](#MainContent)  
 
@@ -626,19 +626,13 @@ Rated 5.0 out of 5 stars
 
 Rated 4.9 out of 5 stars
 
-11 Reviews
+12 Reviews
 
 4.7
 
 Rated 4.7 out of 5 stars
 
 2,894 Reviews
-
-4.7
-
-Rated 4.7 out of 5 stars
-
-30 Reviews
 
 4.7
 
@@ -663,3 +657,9 @@ Rated 4.7 out of 5 stars
 Rated 4.8 out of 5 stars
 
 44 Reviews
+
+4.5
+
+Rated 4.5 out of 5 stars
+
+26 Reviews
