@@ -16,7 +16,7 @@ Search term
 
   
 
- [![Zapmap logo](/themes/custom/zap_map/assets/logo.svg)](https://www.zap-map.com/)[![Zapmap for Business logo white](/themes/custom/zap_map/assets/logo-business.svg)](https://www.zap-map.com/for-business)
+ [![Zapmap logo](/themes/custom/zap_map/assets/logo-xmas.svg)](https://www.zap-map.com/)[![Zapmap for Business logo white](/themes/custom/zap_map/assets/logo-business-xmas.svg)](https://www.zap-map.com/for-business)
 
 User account menu
 
