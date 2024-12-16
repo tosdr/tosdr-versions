@@ -205,23 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Wrestling the Twister: An Interview With M. Night Shyamalan](https://www.somethingawful.com/news/wrestling-twister-an/)
-* [Anime-Forums, PlayStation Forums, and Clan Recruitment](https://www.somethingawful.com/weekend-web/animeforums-playstation-forums/1/)
-* [Phake Games 4](https://www.somethingawful.com/photoshop-phriday/phake-games-4/1/)
-* [Dumbass of Love](https://www.somethingawful.com/comedy-goldmine/dumbass-of-love/1/)
-* [Murderous, Zionist piece of shit!](https://www.somethingawful.com/awfulvision/rooster-avatar-bush/1/)
+* [Slacker Music FAQ](https://www.somethingawful.com/garbage-day/slacker-music-faq/1/)
+* [Animal Human Hybrids](https://www.somethingawful.com/comedy-goldmine/animal-human-hybrids/1/)
+* [Street Style](https://www.somethingawful.com/fashion-swat/street-style/1/)
+* [The View From Below](https://www.somethingawful.com/daily-dirt/instruction-for-america/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [NOT a 5 star experience!](http://forums.somethingawful.com/showthread.php?threadid=4077563 "NOT a 5 star experience!")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-article.gif) [What's 'In' and 'Out' for 2025?](http://forums.somethingawful.com/showthread.php?threadid=4077585 "What's 'In' and 'Out' for 2025?")
 
 ### Random Articles
 
-* [Feats of Prestidigitation](https://www.somethingawful.com/news/feats-of-prestidigitation/)
-* [Clan Hell: Clan Old School Doomers](https://www.somethingawful.com/clan-hell/clan-hell-clan-17/)
-* [Released Reactions](https://www.somethingawful.com/awful-links/awful-link-2813/)
-* [3rd Edition Dungeons & Dragons: Fiend Folio](https://www.somethingawful.com/dungeons-and-dragons/fiend-folio-3e/1/)
-* [Worst-Selling Books!](https://www.somethingawful.com/comedy-goldmine/worst-selling-books/1/)
+* [Bush Starting War, The Perfect Crime](https://www.somethingawful.com/news/bush-starting-war/)
+* [Holy Rollerz](https://www.somethingawful.com/awful-links/holy-rollerz-carclub/)
+* [The Celebrity Goo Game](https://www.somethingawful.com/awful-links/awful-link-2525/)
+* [reCAPTCHA 2!](https://www.somethingawful.com/photoshop-phriday/recaptcha-recaptcha2-paint/1/)
+* [Memos from Bear Cave: Bathroom Crisis](https://www.somethingawful.com/news/bear-cave-bathrooms/)
 
 [Random!](https://www.somethingawful.com/random/)
 
