@@ -72,9 +72,9 @@ MENUMENU
                 * [Activities to Improve Smooth Visual Pursuits](https://www.theottoolbox.com/activities-smooth-pursuits/)
                 * [What is Visual Scanning](https://www.theottoolbox.com/what-is-visual-scanning/)
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
-        * * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        * * [![Juguetes para agarrar el lápiz](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![](https://www.theottoolbox.com/wp-content/uploads/2023/12/pencil-grasp-toy-giveaway-1.png)](https://www.theottoolbox.com/gift-guide-toys-to-improve-pencil-grasp/)
+                ![Juguetes para agarrar el lápiz](https://www.theottoolbox.com/wp-content/uploads/2021/11/pencil-grasp-toys.jpg)](https://www.theottoolbox.com/gift-guide-toys-to-improve-pencil-grasp/)
                 
                 #### [Toys to Improve Pencil Grasp](https://www.theottoolbox.com/gift-guide-toys-to-improve-pencil-grasp/)
                 
