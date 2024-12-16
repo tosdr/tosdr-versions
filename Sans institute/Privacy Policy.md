@@ -304,7 +304,7 @@ SANS participates in the EU-U.S. Data Privacy Framework ("DPF"), the UK Extensio
 
 This Policy addresses how SANS, as a data controller, collects, uses, and otherwise processes personal information relating to individuals who visit our Websites and use our services, as well as personal information that is collected from business partners and via survey responses or competition entries. "Personal information" is information that relates to an identified or identifiable living individual.
 
-When we refer to "Websites" we mean [www.sans.org](http://www.sans.org/) as well as the other websites that we operate and that link to this Policy. Note that GIAC has its own privacy policy at [www.giac/privacy](http://www.giac/privacy), and STI has its own privacy policy at [www.sans.edu/privacy](http://www.sans.edu/privacy). This Policy does not apply to personal information collected and processed by GIAC or STI.
+When we refer to "Websites" we mean [www.sans.org](https://www.sans.org/) as well as the other websites that we operate and that link to this Policy. Note that GIAC has its own privacy policy at [www.giac/privacy](https://www.giac.org/legal/privacy/), and STI has its own privacy policy at [www.sans.edu/privacy](https://www.sans.edu/privacy). This Policy does not apply to personal information collected and processed by GIAC or STI.
 
 We need to process personal information to provide services to you. Sometimes, we provide your personal information to third parties, including SANS affiliate organizations such as GIAC and STI, to help us provide our services. If you are not willing to provide your personal information and have it disclosed to third parties in accordance with this Policy, you may not be able to use our services.
 
@@ -338,7 +338,7 @@ We use various technologies to collect information from your computer or device 
 
 We may also obtain information about you from advertising companies, ad networks business partners, contractors, and other third parties and add it to our account information or other information we have collected. We only do this where there is a lawful basis of processing your information such as your consent.
 
-### Information Collected for Employer-Sponsored Training
+#### Information Collected for Employer-Sponsored Training
 
 If your employer sponsors your training and provides us with your personal information, SANS acts as a data controller and your employer is also a data controller. SANS will work with your employer to fulfill any data rights requests. Your information and training records will be shared with your employer and we will process that information in accordance with this Policy. SANS may also share your personal information and training records with SANS's affiliates as necessary for customer support purposes.
 
@@ -484,7 +484,7 @@ SANS does not knowingly collect or retain personal information about persons und
 
 The security of your personal information is important to us. Be aware that the internet is a global communications vehicle open to threats, viruses, and intrusions from others, so we cannot promise - and you should not expect - that we will be able to protect your personal information in all circumstances.
 
-### Contact Us
+#### Contact Us
 
 To make a request or exercise your data privacy rights, if you have a complaint, or if you have any questions or suggestions regarding this Policy or our processing of your personal information, please contact us at [privacy@sans.org](mailto:privacy@sans.org) or at +1 301-654-7267 and request to speak to the Data Privacy Department.
 
