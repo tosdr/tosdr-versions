@@ -1,6 +1,6 @@
 [](https://uploadcare.com/)
 
-[Uploader](https://uploadcare.com/products/file-uploader/)[Image CDN](https://uploadcare.com/cdn/image-cdn/)[Pricing](https://uploadcare.com/pricing/)
+[File Uploader](https://uploadcare.com/products/file-uploader/)[Image CDN](https://uploadcare.com/cdn/image-cdn/)[Pricing](https://uploadcare.com/pricing/)
 
 Developers
 
@@ -262,7 +262,7 @@ This Agreement and any applicable Order Form constitutes the entire agreement be
 
 [](https://x.com/uploadcare "X")[](https://linkedin.com/company/uploadcare "LinkedIn")[](https://www.youtube.com/@uploadcare "YouTube")[](https://github.com/uploadcare "GitHub")[](https://discord.gg/mKWRgRsVz8 "Discord")
 
-Products[Platform](https://uploadcare.com/features/)[File uploader](https://uploadcare.com/products/file-uploader/)[Image CDN](https://uploadcare.com/cdn/image-cdn/)[Proxy](https://uploadcare.com/docs/delivery/proxy/)[API](https://uploadcare.com/api/)[Image processing](https://uploadcare.com/cdn/image-processing/)[Adaptive delivery](https://uploadcare.com/products/adaptive-delivery/)[Speed optimization](https://uploadcare.com/cdn/speed-optimization/)[GIF to video](https://uploadcare.com/docs/transformations/gif-to-video/)[Video processing](https://uploadcare.com/docs/transformations/video-encoding/)[Document conversion](https://uploadcare.com/products/document-conversion/)[Recognition](https://uploadcare.com/products/intelligence/)[Security](https://uploadcare.com/products/security/)[Demo](https://uploadcare.com/demo/)[Pricing](https://uploadcare.com/pricing/)[JS upload library](https://uploadcare.com/products/file-uploader/js/)
+Products[Platform](https://uploadcare.com/features/)[File Uploader](https://uploadcare.com/products/file-uploader/)[Image CDN](https://uploadcare.com/cdn/image-cdn/)[Proxy](https://uploadcare.com/docs/delivery/proxy/)[API](https://uploadcare.com/api/)[Image processing](https://uploadcare.com/cdn/image-processing/)[Adaptive delivery](https://uploadcare.com/products/adaptive-delivery/)[Speed optimization](https://uploadcare.com/cdn/speed-optimization/)[GIF to video](https://uploadcare.com/docs/transformations/gif-to-video/)[Video processing](https://uploadcare.com/docs/transformations/video-encoding/)[Document conversion](https://uploadcare.com/products/document-conversion/)[Recognition](https://uploadcare.com/products/intelligence/)[Security](https://uploadcare.com/products/security/)[Demo](https://uploadcare.com/demo/)[Pricing](https://uploadcare.com/pricing/)[JS upload library](https://uploadcare.com/products/file-uploader/js/)
 
 Resources[Case studies](https://uploadcare.com/customers/)[Community](https://community.uploadcare.com/)[Blog](https://uploadcare.com/blog/)[Learning Center](https://uploadcare.com/learning/)[E-learning solutions](https://uploadcare.com/solutions/elearning/)[E-commerce solutions](https://uploadcare.com/solutions/ecommerce/)[Agencies solutions](https://uploadcare.com/solutions/devshops/)[Marketplace solutions](https://uploadcare.com/solutions/marketplaces/)[Healthcare solutions](https://uploadcare.com/solutions/healthcare/)
 
