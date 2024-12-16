@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ecd486af-6cb4-41c4-beed-c9af7ca74988/20241215T234948/ecd486af-6cb4-41c4-beed-c9af7ca74988_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ecd486af-6cb4-41c4-beed-c9af7ca74988/20241215T234948/ecd486af-6cb4-41c4-beed-c9af7ca74988_360x203.jpg)](https://www.wqad.com/article/news/local/first-lego-league-challenge-illinois-moline/526-a25c454f-8129-4c01-a2ea-54c0534411bf)
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/eda68603-f861-4a2f-99c8-fae2130d8990/eda68603-f861-4a2f-99c8-fae2130d8990_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/eda68603-f861-4a2f-99c8-fae2130d8990/eda68603-f861-4a2f-99c8-fae2130d8990_360x203.jpg)](https://www.wqad.com/article/news/local/burlington-assault-parent-basketball-referee/526-9e8e8c35-28d6-4c48-b75f-8b28ec1af191)
         
-        #### [Illinois kids compete in local qualifier for national LEGO robotics competition](https://www.wqad.com/article/news/local/first-lego-league-challenge-illinois-moline/526-a25c454f-8129-4c01-a2ea-54c0534411bf)
+        #### [Police: Charges expected after parent assaults referee at Burlington middle school basketball game](https://www.wqad.com/article/news/local/burlington-assault-parent-basketball-referee/526-9e8e8c35-28d6-4c48-b75f-8b28ec1af191) [![](https://media.tegna-media.com/assets/WNEP/images/eda68603-f861-4a2f-99c8-fae2130d8990/eda68603-f861-4a2f-99c8-fae2130d8990_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/eda68603-f861-4a2f-99c8-fae2130d8990/eda68603-f861-4a2f-99c8-fae2130d8990_360x203.jpg)](https://www.wqad.com/article/news/local/burlington-assault-parent-basketball-referee/526-9e8e8c35-28d6-4c48-b75f-8b28ec1af191)
         
-    *  [![](https://media.tegna-media.com/assets/KSDK/images/fd29a416-9b2d-4e35-bd38-9ac848f68fb1/20241214T160217/fd29a416-9b2d-4e35-bd38-9ac848f68fb1_16x9.jpg) ![](https://media.tegna-media.com/assets/KSDK/images/fd29a416-9b2d-4e35-bd38-9ac848f68fb1/20241214T160217/fd29a416-9b2d-4e35-bd38-9ac848f68fb1_360x203.jpg)](https://www.wqad.com/article/news/local/we-just-wanted-to-save-him-good-samaritans-rescue-waterloo-pilot-from-wrecked-plane/63-e20ee848-3974-40f3-bb63-91b16590d936)
+        #### [Police: Referee assaulted by parent at Burlington middle school basketball game](https://www.wqad.com/article/news/local/burlington-assault-parent-basketball-referee/526-9e8e8c35-28d6-4c48-b75f-8b28ec1af191)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/6c6ea849-579d-4645-be5b-7ec670c929b7/20241216T223321/6c6ea849-579d-4645-be5b-7ec670c929b7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/6c6ea849-579d-4645-be5b-7ec670c929b7/20241216T223321/6c6ea849-579d-4645-be5b-7ec670c929b7_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-community-schools-board-member-resigning-iowa-house/526-3e4c4c64-9ddf-4418-8f24-197005959481)
         
-        #### ['Help me!' | 2 men rescue pilot who was on fire after plane crash in southern Illinois](https://www.wqad.com/article/news/local/we-just-wanted-to-save-him-good-samaritans-rescue-waterloo-pilot-from-wrecked-plane/63-e20ee848-3974-40f3-bb63-91b16590d936)
+        #### [Davenport school board member stepping down to serve in Iowa House](https://www.wqad.com/article/news/local/davenport-community-schools-board-member-resigning-iowa-house/526-3e4c4c64-9ddf-4418-8f24-197005959481)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -58,7 +59,7 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/950a06d5-4c60-4e65-8aa9-63231a299142/20241216T131601/950a06d5-4c60-4e65-8aa9-63231a299142_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/950a06d5-4c60-4e65-8aa9-63231a299142/20241216T131601/950a06d5-4c60-4e65-8aa9-63231a299142_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Weather Impact Alert: Dense fog continues Monday morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [A little more warmth before highs back in the 30s](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/a6a79638-65d3-46fc-a550-d1d6da26d69b/a6a79638-65d3-46fc-a550-d1d6da26d69b_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/a6a79638-65d3-46fc-a550-d1d6da26d69b/a6a79638-65d3-46fc-a550-d1d6da26d69b_360x203.jpg)](https://www.wqad.com/article/news/nation-world/winter-solstice-shortest-day-of-the-year-2024/507-18e8fd4e-8808-496d-bda3-cfcc289778a2)
         
@@ -97,9 +98,9 @@ Navigation
 
 Davenport, IA »
 
-37°
+38°
 
-![Fog](/assets/shared-images/weather-icons/fog-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
