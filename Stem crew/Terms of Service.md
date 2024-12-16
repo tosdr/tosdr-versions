@@ -28,7 +28,10 @@ Search for:
     * [ZERO Days](https://www.stemcrew.org/zerodays/)
     
 * [Climate Education](https://protectourfuture.org/)
-* [About Us](https://www.stemcrew.org/contact/)
+* [1851 trust](https://www.stemcrew.org/1851trust/)
+    
+    * [Contact us](https://www.stemcrew.org/contact/)
+    
 
 * [Home](https://www.stemcrew.org/)
 * [Resources](https://www.stemcrew.org/resources/)
@@ -45,7 +48,8 @@ Search for:
     * [Sub-2hr Marathon](https://www.stemcrew.org/ineos159challenge/)
     * [ZERO Days](https://www.stemcrew.org/zerodays/)
 * [Climate Education](https://protectourfuture.org/)
-* [About Us](https://www.stemcrew.org/contact/)
+* [1851 trust](https://www.stemcrew.org/1851trust/)
+    * [Contact us](https://www.stemcrew.org/contact/)
 
 [](#)
 
