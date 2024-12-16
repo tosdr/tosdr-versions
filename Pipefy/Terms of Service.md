@@ -12,6 +12,10 @@ Products
 
 [Custom Workflows Bridge processes, teams and tools](https://www.pipefy.com/custom-workflows-software/)
 
+[Financial Services Automate the financial processes with the Pipefy Ai BPA platform
+
+New](https://www.pipefy.com/financial-services/)
+
 [![lumen-header__mega-menu-cta](https://www.pipefy.com/wp-content/themes/pipefy-2020/assets/img/lumen-products-mega-menu-cta-en.png)](https://www.pipefy.com/templates/)
 
 Platform
@@ -29,6 +33,10 @@ Platform
 [No-code Build powerful workflows without any code](https://www.pipefy.com/blog/no-code-platform/)
 
 [Automation Extend your workflow efficiency](https://www.pipefy.com/business-process-automation-software/)
+
+[Signature Management Create, Sign, and Manage Your Contracts
+
+New](https://www.pipefy.com/pipesign/)
 
 [![lumen-header__mega-menu-cta](https://www.pipefy.com/wp-content/themes/pipefy-2020/assets/img/lumen-platform-mega-menu-cta-en.png)](https://www.pipefy.com/artificial-intelligence/)
 
