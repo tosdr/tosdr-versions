@@ -19,18 +19,24 @@
 
 * [Latest activity](https://www.obscuregamers.com/whats-new/latest-activity)
     
+* [Register](https://www.obscuregamers.com/register/)
+    
 
 [![Obscure Gamers](/styles/fivestyle/five-logo.png)](https://www.obscuregamers.com/forums/)
 
 [![Obscure Gamers](/styles/fivestyle/five-logo.png)](https://www.obscuregamers.com/forums/)
 
-[Log in](https://www.obscuregamers.com/login/)
+[Log in](https://www.obscuregamers.com/login/) [Register](https://www.obscuregamers.com/register/)
 
 [What's new](https://www.obscuregamers.com/whats-new/ "What's new")
 
 Menu
 
 [Log in](https://www.obscuregamers.com/login/)
+
+* * *
+
+[Register](https://www.obscuregamers.com/register/)
 
 * * *
 
