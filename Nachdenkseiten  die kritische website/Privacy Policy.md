@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Merz wird schlimmer, als es Lindner je war – Heiner Flassbeck & Albrecht Müller im Gespräch](https://www.nachdenkseiten.de/wp-content/uploads/2024/12/241203-Heiner-Flassbeck-und-Albrecht-Mueller-im-Gespraech-Cover-YT-FB.jpg "Merz wird schlimmer, als es Lindner je war – Heiner Flassbeck & Albrecht Müller im Gespräch")](https://www.nachdenkseiten.de/?p=125623)
+[![Dirk Pohlmann von apolut im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2022/12/2022-12-apolut-Pohlmann-im-Gespraech-mit-Albrecht-Mueller.jpg "Dirk Pohlmann von apolut im Gespräch mit Albrecht Müller")](https://www.nachdenkseiten.de/?p=91393)
 
-* [Merz wird schlimmer, als es Lindner je war – Heiner Flassbeck & Albrecht Müller im Gespräch](https://www.nachdenkseiten.de/?p=125623)
+* [Dirk Pohlmann von apolut im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/?p=91393)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
