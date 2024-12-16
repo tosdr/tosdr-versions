@@ -80,19 +80,19 @@ Schedule your customized solution demo and learn how we can help you **manage an
 
 ×
 
-VPAT Request
-------------
+Validate product accessibility
+------------------------------
 
-Second some text
+A VPAT demonstrates whether your product is accessible—critical for keeping contracts and closing new deals. Validate your product’s state of compliance with our comprehensive process.
 
 ![](data:image/svg+xml;nitro-empty-id=NTcwOjEyMg==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjggMjkiIHdpZHRoPSIyOCIgaGVpZ2h0PSIyOSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)
 
 ×
 
-Audit Request
--------------
+Audit your digital experience
+-----------------------------
 
-third some text
+Ready to know whether your website, app, platform, or other digital experience is accessible? Our team combines automation with manual evaluation to test your experience against all applicable standards.
 
 Privacy Statement
 =================
