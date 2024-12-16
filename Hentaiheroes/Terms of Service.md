@@ -31,7 +31,7 @@ If you want to check a bank transaction, please contact our support or our partn
 
 #### Legal information
 
-This site is operated by the company Phoenix Media, registration number 200333035, domiciled at no1 street 6 september, office 1, floor 1, 1000, Sofia, Bulgaria
+This site is operated by the company Gamadu, registration number ΗΕ 419214, domiciled at Platonos & K. Mourouzi, Georgia Court, 2nd Floor, Flat/office 202, 4001 Limassol, Cyprus
 
 #### Terms of Use
 
