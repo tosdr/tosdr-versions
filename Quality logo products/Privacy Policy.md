@@ -58,7 +58,7 @@ Save 8% with Promo Code **NEWCUSTOMER8** at Checkout - _LIMITED TIME OFFER!_
     
     * [H2GO](https://www.qualitylogoproducts.com/h2go-brand-promotional-products.htm)
     * [YETI](https://www.qualitylogoproducts.com/yeti-brand-promotional-products.htm)
-    * [CamelBak](https://www.qualitylogoproducts.com/camelbak-brand-promotional-products.htm)
+    * [BruMate](https://www.qualitylogoproducts.com/brumate-brand-promotional-products.htm)
 * [Coffee Mugs](https://www.qualitylogoproducts.com/mug-personalized.htm)
     * [Ceramic](https://www.qualitylogoproducts.com/ceramic-travel-coffee-mugs.htm)
     * [Microwave Safe](https://www.qualitylogoproducts.com/microwave-safe-ceramic-mugs.htm)
