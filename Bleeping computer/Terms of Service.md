@@ -36,6 +36,9 @@
         
         New IOCONTROL malware used in critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/new-iocontrol-malware-used-in-critical-infrastructure-attacks/)
     
+    * [![Clop ransomware claims responsibility for Cleo data theft attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Clop ransomware claims responsibility for Cleo data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
     * [![Winnti hackers target other threat actors with new Glutton PHP backdoor](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Winnti hackers target other threat actors with new Glutton PHP backdoor](https://www.bleepingcomputer.com/news/security/winnti-hackers-target-other-threat-actors-with-new-glutton-php-backdoor/)
@@ -45,9 +48,6 @@
     * [![390,000 WordPress accounts stolen from hackers in supply chain attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         390,000 WordPress accounts stolen from hackers in supply chain attack](https://www.bleepingcomputer.com/news/security/390-000-wordpress-accounts-stolen-from-hackers-in-supply-chain-attack/)
-    * [![Boost your career with this $39.99 Azure course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Boost your career with this $39.99 Azure course bundle deal](https://www.bleepingcomputer.com/offer/deals/boost-your-career-with-this-3999-azure-course-bundle-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -358,9 +358,9 @@ Popular Stories
 * [![Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     New stealthy Pumakit Linux rootkit malware spotted in the wild](https://www.bleepingcomputer.com/news/security/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
-* [![Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Retro Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Cleo patches critical zero-day exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/cleo-patches-critical-zero-day-exploited-in-data-theft-attacks/)
+    390,000 WordPress accounts stolen from hackers in supply chain attack](https://www.bleepingcomputer.com/news/security/390-000-wordpress-accounts-stolen-from-hackers-in-supply-chain-attack/)
 
 ##### Follow us:
 
