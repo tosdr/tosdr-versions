@@ -4,7 +4,7 @@ Etelka, Aletta
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "közepesen felhős")
 
-5°11°
+9°11°
 
 Menü
 
