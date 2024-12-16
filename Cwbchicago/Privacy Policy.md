@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2023/12/Chaqwon-Birden-Jahhuan-Green-Marquise-Ramyyeh-and-Kahdaffie-Green-326x245.jpg)](https://cwbchicago.com/2024/12/4-men-face-federal-charges-for-robbing-electrical-workers-of-high-end-camera.html "4 men face federal charges for robbing electrical workers of high-end camera")
+
+Roseland
+
+### [4 men face federal charges for robbing electrical workers of high-end camera](https://cwbchicago.com/2024/12/4-men-face-federal-charges-for-robbing-electrical-workers-of-high-end-camera.html "4 men face federal charges for robbing electrical workers of high-end camera")
+
+[December 13, 2024 7:03 PM](https://cwbchicago.com/2024/12)
+
+Four men, including a frequent subject of CWBChicago’s reporting, were charged with federal robbery and firearms charges this week that accuse them of robbing electrical workers of expensive specialized equipment. We first told you about the robbery one year ago, just a few days after the workers were targeted in the 9700 block of South Martin Luther King Drive.[](https://cwbchicago.com/2024/12/4-men-face-federal-charges-for-robbing-electrical-workers-of-high-end-camera.html "4 men face federal charges for robbing electrical workers of high-end camera")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/1400-western-041A-326x245.jpg)](https://cwbchicago.com/2024/12/road-rage-gunman-shoots-11-year-old-boy-in-wicker-park.html "Road rage gunman shoots 11-year-old boy in Wicker Park")
+
+Wicker Park
+
+### [Road rage gunman shoots 11-year-old boy in Wicker Park](https://cwbchicago.com/2024/12/road-rage-gunman-shoots-11-year-old-boy-in-wicker-park.html "Road rage gunman shoots 11-year-old boy in Wicker Park")
+
+[December 13, 2024 11:21 AM](https://cwbchicago.com/2024/12)
+
+A man, angered by a traffic crash, opened fire on another car on a bustling Wicker Park street Friday morning, leaving an 11-year-old boy injured, Chicago police said. The brazen shooting occurred at 8:27 a.m. in the 1400 block of North Western Avenue.[](https://cwbchicago.com/2024/12/road-rage-gunman-shoots-11-year-old-boy-in-wicker-park.html "Road rage gunman shoots 11-year-old boy in Wicker Park")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/12/Tayvon-Andrews-and-David-Brantley-326x245.jpg)](https://cwbchicago.com/2024/12/goose-island-carjackers-busted-after-pursuit-by-cpd-helicopter-and-state-police-report-says.html "Goose Island carjackers busted after pursuit by CPD helicopter and state police, report says")
 
 Goose Island
@@ -252,26 +272,6 @@ Goose Island
 [December 13, 2024 8:16 AM](https://cwbchicago.com/2024/12)
 
 Two men are sitting in the Cook County jail, accused of carjacking an Uber Eats driver near Goose Island. And they can thank one of Chicago’s most effective apprehension partnerships: a CPD helicopter and Illinois State Police ground units.[](https://cwbchicago.com/2024/12/goose-island-carjackers-busted-after-pursuit-by-cpd-helicopter-and-state-police-report-says.html "Goose Island carjackers busted after pursuit by CPD helicopter and state police, report says")
-
-[![](https://cwbchicago.com/wp-content/uploads/2023/12/Carlos-Pascual-Gomez-326x245.jpg)](https://cwbchicago.com/2024/12/migrant-gets-2-years-for-stabbing-man-at-grand-red-line-station.html "Migrant gets 2 years for stabbing man at Grand Red Line station")
-
-CTA
-
-### [Migrant gets 2 years for stabbing man at Grand Red Line station](https://cwbchicago.com/2024/12/migrant-gets-2-years-for-stabbing-man-at-grand-red-line-station.html "Migrant gets 2 years for stabbing man at Grand Red Line station")
-
-[December 13, 2024 6:30 AM](https://cwbchicago.com/2024/12)
-
-A migrant who faced attempted murder charges for stabbing a man at the Grand Red Line station one year ago has pleaded guilty to a lesser charge. Judge Peggy Chiampas gave Carlos Pascual Gomez, 33, a two-year sentence on Wednesday for aggravated battery with a deadly weapon.[](https://cwbchicago.com/2024/12/migrant-gets-2-years-for-stabbing-man-at-grand-red-line-station.html "Migrant gets 2 years for stabbing man at Grand Red Line station")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Karris-Turner-r-326x245.jpg)](https://cwbchicago.com/2024/12/10-days-after-getting-out-of-prison-man-caused-5-car-expressway-crash-that-left-woman-paralyzed-officials-say.html "10 days after getting out of prison, man caused 5 car expressway crash that left woman paralyzed, officials say")
-
-Fuller Park
-
-### [10 days after getting out of prison, man caused 5 car expressway crash that left woman paralyzed, officials say](https://cwbchicago.com/2024/12/10-days-after-getting-out-of-prison-man-caused-5-car-expressway-crash-that-left-woman-paralyzed-officials-say.html "10 days after getting out of prison, man caused 5 car expressway crash that left woman paralyzed, officials say")
-
-[December 12, 2024 11:29 AM](https://cwbchicago.com/2024/12)
-
-Just ten days after getting out of prison for his eighth felony conviction, Karris Turner caused a crash on the Dan Ryan Expressway that left a woman paralyzed and his new girlfriend with two badly broken legs, officials say.[](https://cwbchicago.com/2024/12/10-days-after-getting-out-of-prison-man-caused-5-car-expressway-crash-that-left-woman-paralyzed-officials-say.html "10 days after getting out of prison, man caused 5 car expressway crash that left woman paralyzed, officials say")
 
 #### Daily email newsletter
 
