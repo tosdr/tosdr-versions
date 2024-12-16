@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/87d3d090-c5c1-4b11-8ad3-4c03b96d3503/20241215T235901/87d3d090-c5c1-4b11-8ad3-4c03b96d3503_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/87d3d090-c5c1-4b11-8ad3-4c03b96d3503/20241215T235901/87d3d090-c5c1-4b11-8ad3-4c03b96d3503_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/950a06d5-4c60-4e65-8aa9-63231a299142/20241216T131601/950a06d5-4c60-4e65-8aa9-63231a299142_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/950a06d5-4c60-4e65-8aa9-63231a299142/20241216T131601/950a06d5-4c60-4e65-8aa9-63231a299142_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Weather Impact Alert: Dense fog to continue through Monday morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Weather Impact Alert: Dense fog continues Monday morning](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/dense-fog-advisory-storm-track-8-weather-impact-alert/526-ec6de0de-8b99-468e-ae34-4364506568ae)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/a6a79638-65d3-46fc-a550-d1d6da26d69b/a6a79638-65d3-46fc-a550-d1d6da26d69b_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/a6a79638-65d3-46fc-a550-d1d6da26d69b/a6a79638-65d3-46fc-a550-d1d6da26d69b_360x203.jpg)](https://www.wqad.com/article/news/nation-world/winter-solstice-shortest-day-of-the-year-2024/507-18e8fd4e-8808-496d-bda3-cfcc289778a2)
         
-        #### [Dense fog advisory in effect until Monday morning: Storm Track 8 Weather Impact Alert](https://www.wqad.com/article/weather/weather-impact/dense-fog-advisory-storm-track-8-weather-impact-alert/526-ec6de0de-8b99-468e-ae34-4364506568ae)
+        #### [Winter solstice 2024: What it means and why it's the shortest day of the year](https://www.wqad.com/article/news/nation-world/winter-solstice-shortest-day-of-the-year-2024/507-18e8fd4e-8808-496d-bda3-cfcc289778a2)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -99,7 +99,7 @@ Davenport, IA »
 
 37°
 
-![Fog](/assets/shared-images/weather-icons/fog-night_210x210.png)
+![Fog](/assets/shared-images/weather-icons/fog-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
