@@ -2,14 +2,14 @@ Sunday, December 15 2024
 
 Breaking News
 
+* [House Republicans Finally Putting The Squeeze On Bloated Pentagon Budget](https://www.conservativedailynews.com/2024/12/house-republicans-finally-putting-the-squeeze-on-bloated-pentagon-budget/)
+* [DOGE Must Focus On Big Picture To Achieve Big Change](https://www.conservativedailynews.com/2024/12/doge-must-focus-on-big-picture-to-achieve-big-change/)
+* [Pam Bondi Will Clean Up The DOJ And Bring Back Justice For All](https://www.conservativedailynews.com/2024/12/pam-bondi-will-clean-up-the-doj-and-bring-back-justice-for-all/)
+* [Norway Provides An Object Lesson On How Not To Make Energy Policy](https://www.conservativedailynews.com/2024/12/norway-provides-an-object-lesson-on-how-not-to-make-energy-policy/)
+* [Biden Official Signals Support For Two Of RFK’s Signature Issues On His Way Out The Door](https://www.conservativedailynews.com/2024/12/biden-official-signals-support-for-two-of-rfks-signature-issues-on-his-way-out-the-door/)
+* [125th Playing Of The Game & 1,500 Days And Posts](https://www.conservativedailynews.com/2024/12/125th-playing-of-the-game-1500-days-and-posts/)
 * [Michigan Dems Rush Gun Control Through State Legislature Ahead Of Republican House Majority](https://www.conservativedailynews.com/2024/12/michigan-dems-rush-gun-control-through-state-legislature-ahead-of-republican-house-majority/)
 * [What a Difference a Day (Election Day, Nov. 5, 2024) Makes](https://www.conservativedailynews.com/2024/12/what-a-difference-a-day-election-day-nov-5-2024-makes/)
-* [Stripper Who Falsely Accused Duke Lacrosse Team Of Vicious Gang Rape Finally Admits She Lied](https://www.conservativedailynews.com/2024/12/stripper-who-falsely-accused-duke-lacrosse-team-of-vicious-gang-rape-finally-admits-she-lied/)
-* [Yes Please! Trump Wants to End Twice Yearly Time Changes (DST)](https://www.conservativedailynews.com/2024/12/yes-please-trump-wants-to-end-twice-yearly-time-changes-dst/)
-* [Snapping Back Our National Security Culture To Its Proper Place](https://www.conservativedailynews.com/2024/12/snapping-back-our-national-security-culture-to-its-proper-place/)
-* [They Wanted Him Doing Time, Instead He Is On The Cover Of Time](https://www.conservativedailynews.com/2024/12/they-wanted-him-doing-time-instead-he-is-on-the-cover-of-time/)
-* [Dear Republicans, Go Big On Trump’s Tax Cuts](https://www.conservativedailynews.com/2024/12/dear-republicans-go-big-on-trumps-tax-cuts/)
-* [Court Deals Blow To Major Stock Exchange’s Efforts At Pushing Diversity Rules On Companies](https://www.conservativedailynews.com/2024/12/court-deals-blow-to-major-stock-exchanges-efforts-at-pushing-diversity-rules-on-companies/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -110,35 +110,14 @@ Support CDN!
 Your donations help us purchase content, pay for servers, and reduce advertising. We are currently fundraising for December. [CLICK HERE](https://www.conservativedailynews.com/privacy-policy/support-conservative-news) to help out or to see what we do with the money.  
 **Current Fundraising for December:**
 
-Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.45%
+Created using the Donation Thermometer plugin https://wordpress.org/plugins/donation-thermometer/.46%
 
 Red = Recurring Donations  
 Orange = One-Time Donations
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/I-quit-business-travel-220x150.png)](https://www.conservativedailynews.com/2024/12/bye-dem-rep-says-thousands-of-federal-employees-are-so-shaken-by-trump-election-they-might-quit/)
+* [![Biden energy policy](https://www.conservativedailynews.com/wp-content/uploads/2023/03/mrz030523dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/norway-provides-an-object-lesson-on-how-not-to-make-energy-policy/)
     
-    [BYE! Dem Rep Says ‘Thousands’ Of Federal Employees Are So Shaken By Trump Election They Might Quit](https://www.conservativedailynews.com/2024/12/bye-dem-rep-says-thousands-of-federal-employees-are-so-shaken-by-trump-election-they-might-quit/)
-    
-    December 12, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/12/alan-dershowitz-predicts-daniel-penny-will-win-civil-lawsuit/)
-    
-    [Alan Dershowitz Predicts Daniel Penny Will ‘Win’ Civil Lawsuit](https://www.conservativedailynews.com/2024/12/alan-dershowitz-predicts-daniel-penny-will-win-civil-lawsuit/)
-    
-    December 11, 2024
-    
-
-Recent Posts
-
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2016/02/gun-rights-unarmed-citizen-is-merely-a-subject.jpg)](https://www.conservativedailynews.com/2024/12/michigan-dems-rush-gun-control-through-state-legislature-ahead-of-republican-house-majority/)
-    
-    [Michigan Dems Rush Gun Control Through State Legislature Ahead Of Republican House Majority](https://www.conservativedailynews.com/2024/12/michigan-dems-rush-gun-control-through-state-legislature-ahead-of-republican-house-majority/)
-    
-    December 15, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/02-autismseal-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/sergeant-walz/)
-    
-    [Sergeant Walz](https://www.conservativedailynews.com/2024/12/sergeant-walz/)
+    [Norway Provides An Object Lesson On How Not To Make Energy Policy](https://www.conservativedailynews.com/2024/12/norway-provides-an-object-lesson-on-how-not-to-make-energy-policy/)
     
     December 15, 2024
     
@@ -148,39 +127,61 @@ Recent Posts
     
     December 14, 2024
     
-* [![Bidenomics inflation middle class](https://www.conservativedailynews.com/wp-content/uploads/2024/06/04-irs-fist-ci-1080a-220x150.jpg)](https://www.conservativedailynews.com/2024/12/businesses-report-inflation-is-taking-wrench-to-their-cash-strapped-customers/)
+
+Recent Posts
+
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/03/House-of-Representatives.jpg)](https://www.conservativedailynews.com/2024/12/house-republicans-finally-putting-the-squeeze-on-bloated-pentagon-budget/)
     
-    [Businesses Report Inflation Is Taking Wrench To Their Cash-Strapped Customers](https://www.conservativedailynews.com/2024/12/businesses-report-inflation-is-taking-wrench-to-their-cash-strapped-customers/)
+    [House Republicans Finally Putting The Squeeze On Bloated Pentagon Budget](https://www.conservativedailynews.com/2024/12/house-republicans-finally-putting-the-squeeze-on-bloated-pentagon-budget/)
     
-    December 13, 2024
+    December 15, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Child-shocked.png)](https://www.conservativedailynews.com/2024/12/stripper-who-falsely-accused-duke-lacrosse-team-of-vicious-gang-rape-finally-admits-she-lied/)
+* [![Donald Trump White House Beware of DOGE](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/doge-must-focus-on-big-picture-to-achieve-big-change/)
     
-    [Stripper Who Falsely Accused Duke Lacrosse Team Of Vicious Gang Rape Finally Admits She Lied](https://www.conservativedailynews.com/2024/12/stripper-who-falsely-accused-duke-lacrosse-team-of-vicious-gang-rape-finally-admits-she-lied/)
+    [DOGE Must Focus On Big Picture To Achieve Big Change](https://www.conservativedailynews.com/2024/12/doge-must-focus-on-big-picture-to-achieve-big-change/)
     
-    December 13, 2024
+    December 15, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/03/realistic-red-alarm-clock-ringing_48799-1275-220x150.jpg)](https://www.conservativedailynews.com/2024/12/yes-please-trump-wants-to-end-twice-yearly-time-changes-dst/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/Pam-Bondi-220x150.jpg)](https://www.conservativedailynews.com/2024/12/pam-bondi-will-clean-up-the-doj-and-bring-back-justice-for-all/)
     
-    [Yes Please! Trump Wants to End Twice Yearly Time Changes (DST)](https://www.conservativedailynews.com/2024/12/yes-please-trump-wants-to-end-twice-yearly-time-changes-dst/)
+    [Pam Bondi Will Clean Up The DOJ And Bring Back Justice For All](https://www.conservativedailynews.com/2024/12/pam-bondi-will-clean-up-the-doj-and-bring-back-justice-for-all/)
     
-    December 13, 2024
+    December 15, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/07/04-all-u-can-b-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/snapping-back-our-national-security-culture-to-its-proper-place/)
+* [![Biden energy policy](https://www.conservativedailynews.com/wp-content/uploads/2023/03/mrz030523dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/norway-provides-an-object-lesson-on-how-not-to-make-energy-policy/)
     
-    [Snapping Back Our National Security Culture To Its Proper Place](https://www.conservativedailynews.com/2024/12/snapping-back-our-national-security-culture-to-its-proper-place/)
+    [Norway Provides An Object Lesson On How Not To Make Energy Policy](https://www.conservativedailynews.com/2024/12/norway-provides-an-object-lesson-on-how-not-to-make-energy-policy/)
     
-    December 13, 2024
+    December 15, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5912-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/they-wanted-him-doing-time-instead-he-is-on-the-cover-of-time/)
+* [![FDA logo](https://www.conservativedailynews.com/wp-content/uploads/2018/02/FDA-logo.jpg)](https://www.conservativedailynews.com/2024/12/biden-official-signals-support-for-two-of-rfks-signature-issues-on-his-way-out-the-door/)
     
-    [They Wanted Him Doing Time, Instead He Is On The Cover Of Time](https://www.conservativedailynews.com/2024/12/they-wanted-him-doing-time-instead-he-is-on-the-cover-of-time/)
+    [Biden Official Signals Support For Two Of RFK’s Signature Issues On His Way Out The Door](https://www.conservativedailynews.com/2024/12/biden-official-signals-support-for-two-of-rfks-signature-issues-on-his-way-out-the-door/)
     
-    December 13, 2024
+    December 15, 2024
+    
+* [![Joe Biden missing sleeping](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg121524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/the-year-we-had-no-president/)
+    
+    [The Year We Had No President](https://www.conservativedailynews.com/2024/12/the-year-we-had-no-president/)
+    
+    December 15, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5917-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/125th-playing-of-the-game-1500-days-and-posts/)
+    
+    [125th Playing Of The Game & 1,500 Days And Posts](https://www.conservativedailynews.com/2024/12/125th-playing-of-the-game-1500-days-and-posts/)
+    
+    December 15, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2016/02/gun-rights-unarmed-citizen-is-merely-a-subject.jpg)](https://www.conservativedailynews.com/2024/12/michigan-dems-rush-gun-control-through-state-legislature-ahead-of-republican-house-majority/)
+    
+    [Michigan Dems Rush Gun Control Through State Legislature Ahead Of Republican House Majority](https://www.conservativedailynews.com/2024/12/michigan-dems-rush-gun-control-through-state-legislature-ahead-of-republican-house-majority/)
+    
+    December 15, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Michigan Dems Rush Gun Control Through State Legislature Ahead Of Republican House Majority](https://www.thegunpage.com/michigan-dems-rush-gun-control-through-state-legislature-ahead-of-republican-house-majority/10612523)
 * [Man With Guns And Explosives Planning A Church Attack Arrested In Texas](https://www.thegunpage.com/man-with-guns-and-explosives-planning-a-church-attack-arrested-in-texas/10612520)  
 * [Set Up Your Gear For Success](https://www.thegunpage.com/set-up-your-gear-for-success/10612518)
 * [Silencer Saturday #359: A Primer On Subsonic Ammunition](https://www.thegunpage.com/silencer-saturday-359-a-primer-on-subsonic-ammunition/10612512)
@@ -190,7 +191,6 @@ Recent Posts
 * [SIG Sauer P320 X-Five SXG For USPSA Carry Optics, Limited Optics](https://www.thegunpage.com/sig-sauer-p320-x-five-sxg-for-uspsa-carry-optics-limited-optics/10612498)
 * [The Russian RPL-20 Light Machine Gun](https://www.thegunpage.com/the-russian-rpl-20-light-machine-gun/10612497)
 * [POTD: The PZD Mk24 Light Machine Gun](https://www.thegunpage.com/potd-the-pzd-mk24-light-machine-gun/10612495)
-* [TFB Podcast Roundup 159: The December 13th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-159-the-december-13th-roundup/10612496)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
