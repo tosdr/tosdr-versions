@@ -26,59 +26,61 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cillizza-jones-1200x630.jpg)](https://americanwirenews.com/van-jones-admits-trump-is-smarter-than-the-left-this-dude-is-a-phenomenon/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-iaann-1200-x-628-1200x630.jpg)](https://americanwirenews.com/ex-top-pollster-defends-herself-from-critics-after-horrific-iowa-pro-kamala-misfire/)
 
-[Van Jones admits Trump is ‘smarter’ than the left: ‘This dude is a phenomenon’](https://americanwirenews.com/van-jones-admits-trump-is-smarter-than-the-left-this-dude-is-a-phenomenon/)
+[Ex-top pollster defends herself from critics after horrific Iowa pro-Kamala misfire](https://americanwirenews.com/ex-top-pollster-defends-herself-from-critics-after-horrific-iowa-pro-kamala-misfire/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bowman-rapaport-1200x630.jpg)](https://americanwirenews.com/michael-rapaport-offers-to-fly-unemployed-squad-members-jamaal-bowman-cori-bush-to-west-bank/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-musk-ramaswamy-1200x630.jpg)](https://americanwirenews.com/doge-duo-hint-at-what-could-be-first-to-go/)
 
-[Michael Rapaport offers to fly ‘unemployed’ squad members Jamaal Bowman, Cori Bush to West Bank](https://americanwirenews.com/michael-rapaport-offers-to-fly-unemployed-squad-members-jamaal-bowman-cori-bush-to-west-bank/)
+[DOGE duo hint at what could be first to go](https://americanwirenews.com/doge-duo-hint-at-what-could-be-first-to-go/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-djt-scream-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/leftists-vow-to-cancel-time-for-recognizing-trump-as-person-of-the-year/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-sasmith-1200-x-628-1200x630.jpg)](https://americanwirenews.com/stephen-a-smith-red-pilled-on-j6-blasts-corrupt-dems/)
 
-[Leftists vow to cancel Time for recognizing Trump as ‘Person of the Year’](https://americanwirenews.com/leftists-vow-to-cancel-time-for-recognizing-trump-as-person-of-the-year/)
+[Stephen A. Smith red-pilled on J6, blasts ‘corrupt’ Dems](https://americanwirenews.com/stephen-a-smith-red-pilled-on-j6-blasts-corrupt-dems/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dncli-1200-x-628-1200x630.jpg)](https://americanwirenews.com/dnc-official-says-dems-have-stench-of-loser-praises-trumps-tremendous-momentum/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bush-era-1200x630.jpg)](https://americanwirenews.com/more-than-100-house-dems-urge-biden-to-ratify-equal-rights-amendment-before-he-leaves/)
 
-[DNC official says Dems have ‘stench of loser,’ praises Trump’s ‘tremendous’ momentum](https://americanwirenews.com/dnc-official-says-dems-have-stench-of-loser-praises-trumps-tremendous-momentum/)
+[More than 100 House Dems urge Biden to ratify Equal Rights Amendment before he leaves](https://americanwirenews.com/more-than-100-house-dems-urge-biden-to-ratify-equal-rights-amendment-before-he-leaves/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-biden-xi-1200x630.jpeg)](https://americanwirenews.com/outrage-over-bidens-pardon-of-convicted-ccp-spies/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-brandon-johnson-1200x630.jpg)](https://americanwirenews.com/chicago-mayor-johnson-blasts-evilness-of-trump-deportation-plan-invokes-jesus/)
 
-(Official White House Photo by Adam Schultz)
+[Chicago Mayor Johnson blasts ‘evilness’ of Trump deportation plan, invokes Jesus](https://americanwirenews.com/chicago-mayor-johnson-blasts-evilness-of-trump-deportation-plan-invokes-jesus/)
 
-[Outrage over Biden’s pardon of convicted CCP spies](https://americanwirenews.com/outrage-over-bidens-pardon-of-convicted-ccp-spies/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mangione-1200x630.png)](https://americanwirenews.com/justine-bateman-notes-one-major-missing-factor-of-unitedhealthcare-ceo-murder-story/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-elias-1200-x-628-1200x630.jpg)](https://americanwirenews.com/edit-720-dem-legal-eagle-marc-elias-fumes-over-abc-settlement-ring-kissed/)
+[Justine Bateman notes one MAJOR missing factor of UnitedHealthcare CEO murder story](https://americanwirenews.com/justine-bateman-notes-one-major-missing-factor-of-unitedhealthcare-ceo-murder-story/)
 
-[Dem legal eagle Marc Elias fumes over ABC News settlement with Trump: ‘Ring kissed’](https://americanwirenews.com/edit-720-dem-legal-eagle-marc-elias-fumes-over-abc-settlement-ring-kissed/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rogan-1-1200x630.jpg)](https://americanwirenews.com/joe-rogan-becomes-genuinely-concerned-about-drones-after-aerospace-ceos-chilling-video/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/bidenbookssg-1200-x-628-1200x630.jpg)](https://americanwirenews.com/with-just-over-a-month-left-biden-renews-call-for-assault-weapons-ban/)
+[Joe Rogan becomes ‘genuinely concerned’ about drones after aerospace CEO’s chilling video](https://americanwirenews.com/joe-rogan-becomes-genuinely-concerned-about-drones-after-aerospace-ceos-chilling-video/)
 
-[With just over a month left, Biden renews call for assault weapons ban](https://americanwirenews.com/with-just-over-a-month-left-biden-renews-call-for-assault-weapons-ban/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/trump-war-room-daniel-penny-1200x630.png)](https://americanwirenews.com/msnbcs-ruhle-frets-daniel-penny-joining-trump-at-army-navy-game-akin-to-celebrating-violence/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-michael-moore-2-1200x630.jpg)](https://americanwirenews.com/michael-moore-wants-to-pour-gasoline-on-health-insurance-company-anger/)
+[MSNBC’s Ruhle frets Daniel Penny joining Trump at Army-Navy game akin to ‘celebrating violence’](https://americanwirenews.com/msnbcs-ruhle-frets-daniel-penny-joining-trump-at-army-navy-game-akin-to-celebrating-violence/)
 
-[Michael Moore wants to ‘pour gasoline’ on health insurance company anger](https://americanwirenews.com/michael-moore-wants-to-pour-gasoline-on-health-insurance-company-anger/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-aoc-comer-split-1200-x-628-1200x630.jpg)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/12/SG-Olbermann-1200x630.jpg)
-
-### Left-wing loon Keith Olbermann says he’s leaving X for Bluesky BUT forgets to leave](https://americanwirenews.com/left-wing-loon-keith-olbermann-says-hes-leaving-x-for-bluesky-but-forgets-to-leave/)
+### AOC gets some surprise help in troubled Oversight Committee bid](https://americanwirenews.com/aoc-gets-some-surprise-help-in-troubled-oversight-committee-bid/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Former ‘Obama bro’ rages at Zuckerberg’s Trump donation: ‘There are few humans more full of s\*\*t…’](https://americanwirenews.com/former-obama-bro-rages-at-zuckerbergs-trump-donation-there-are-few-humans-more-full-of-st/)
+### [Plane forced to make emergency landing in NY after bird destroys engine: ‘I thought I was gonna die’](https://americanwirenews.com/plane-forced-to-make-emergency-landing-in-ny-after-bird-destroys-engine-i-thought-i-was-gonna-die/)
 
-### [San Diego County Sheriff will not adhere to Board of Supervisors ‘super sanctuary’ policy](https://americanwirenews.com/san-diego-county-sheriff-will-not-adhere-to-board-of-supervisors-super-sanctuary-policy/)
+### [Vance announces Daniel Penny will be his guest at Army-Navy football game, sticks it to Alvin Bragg](https://americanwirenews.com/vance-announces-daniel-penny-will-be-his-guest-at-army-navy-football-game-rips-ny-mob-district-attorney/)
 
-### [Fetterman call for Trump ‘hush money’ pardon in first-ever Truth Social post](https://americanwirenews.com/fetterman-call-for-trump-hush-money-pardon-in-first-ever-truth-social-post/)
+### [North Carolina GOP overrides Dem Gov, scores a big win for voter integrity](https://americanwirenews.com/north-carolina-gop-overrides-dem-gov-scores-a-big-win-for-voter-integrity/)
 
-### [‘Liberty in Laundry’: House passes bill blocking Biden washing machine restrictions](https://americanwirenews.com/liberty-in-laundry-house-passes-bill-blocking-biden-washing-machine-restrictions/)
+### [Conservative group offers list of radical leftists for Pam Bondi to clean out of DOJ](https://americanwirenews.com/conservative-group-offers-list-of-radical-leftists-for-pam-bondi-to-clean-out-of-doj/)
 
-### [Google tells Bud Light ‘hold my beer’ with new WOKE Christmas ad](https://americanwirenews.com/google-tells-bud-light-hold-my-beer-with-new-woke-christmas-ad/)
+### [Convicted killer who accused Duke lacrosse players of rape admits it was a lie: ‘Hope they can forgive me’](https://americanwirenews.com/convicted-killer-who-accused-duke-lacrosse-players-of-rape-admits-it-was-a-lie-hope-they-can-forgive-me/)
 
-### [DeSantis draws competition when he advises Daniel Penny to come to Florida ‘to get his life back’](https://americanwirenews.com/desantis-draws-competition-when-he-advises-daniel-penny-to-come-to-florida-to-get-his-life-back/)
+### [Trump gives his diagnosis on the cause of Kamala campaign’s death](https://americanwirenews.com/trump-gives-his-diagnosis-on-the-cause-of-kamala-campaigns-death/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kamdncholiday-1200-x-628-220x180.jpg)](https://americanwirenews.com/kamala-plots-2028-white-house-do-over-practices-with-new-word-salad-speech/)
+
+[Kamala plots 2028 White House do-over, practices with new word salad speech](https://americanwirenews.com/kamala-plots-2028-white-house-do-over-practices-with-new-word-salad-speech/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mangione-combs-220x180.jpg)](https://americanwirenews.com/suspected-unitedhealthcare-ceo-killer-retains-high-powered-ny-attorney-married-to-diddys-attorney/)
 
@@ -87,6 +89,36 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mayorkas-220x180.png)](https://americanwirenews.com/mayorkas-claims-homeland-securitys-authority-to-incapacitate-drones-is-limited/)
 
 [Mayorkas claims Homeland Security’s authority to ‘incapacitate’ drones is ‘limited’](https://americanwirenews.com/mayorkas-claims-homeland-securitys-authority-to-incapacitate-drones-is-limited/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-armynavy-220x180.jpg)](https://americanwirenews.com/cbs-sports-blasted-for-all-but-ignoring-most-notable-vip-attending-army-navy-game/)
+
+[CBS Sports blasted for all but ignoring most notable VIP attending Army-Navy game](https://americanwirenews.com/cbs-sports-blasted-for-all-but-ignoring-most-notable-vip-attending-army-navy-game/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-drones-220x180.jpg)](https://americanwirenews.com/with-speculation-running-wild-biden-admin-labels-concerns-over-drone-sightings-a-slight-overreaction/)
+
+[With speculation running wild, Biden admin labels concerns over drone sightings a ‘slight overreaction’](https://americanwirenews.com/with-speculation-running-wild-biden-admin-labels-concerns-over-drone-sightings-a-slight-overreaction/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-chris-djt-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-drops-wicked-chris-christie-meme-over-nj-drone-mystery/)
+
+[Trump drops wicked Chris Christie meme over NJ drone mystery](https://americanwirenews.com/trump-drops-wicked-chris-christie-meme-over-nj-drone-mystery/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-paxton-220x180.jpg)](https://americanwirenews.com/texas-ag-files-first-of-its-kind-lawsuit-against-ny-doc-who-prescribed-abortion-pill-via-telehealth/)
+
+[Texas AG files first-of-its-kind lawsuit against NY doc who prescribed abortion pill via ‘telehealth’](https://americanwirenews.com/texas-ag-files-first-of-its-kind-lawsuit-against-ny-doc-who-prescribed-abortion-pill-via-telehealth/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-biden-220x180.jpeg)](https://americanwirenews.com/bidens-sentence-commutations-include-scranton-kids-for-cash-judge-fmr-illinois-official-who-stole-35m/)
+
+[Biden’s sentence commutations include Scranton ‘kids for cash’ judge, fmr Illinois official who stole $35M](https://americanwirenews.com/bidens-sentence-commutations-include-scranton-kids-for-cash-judge-fmr-illinois-official-who-stole-35m/)
+
+(Official White House Photo by Oliver Contreras)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-favreau-220x180.jpg)](https://americanwirenews.com/former-obama-bro-rages-at-zuckerbergs-trump-donation-there-are-few-humans-more-full-of-st/)
+
+[Former ‘Obama bro’ rages at Zuckerberg’s Trump donation: ‘There are few humans more full of s\*\*t…’](https://americanwirenews.com/former-obama-bro-rages-at-zuckerbergs-trump-donation-there-are-few-humans-more-full-of-st/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-wnbaowner-1200-x-628-220x180.jpg)](https://americanwirenews.com/wnba-owner-claims-time-pick-of-caitlin-clark-as-athlete-of-the-year-could-invite-racism/)
+
+[WNBA owner claims Time pick of Caitlin Clark as ‘Athlete of the Year’ could invite racism](https://americanwirenews.com/wnba-owner-claims-time-pick-of-caitlin-clark-as-athlete-of-the-year-could-invite-racism/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-sanders-manchin-sinema-220x180.jpg)](https://americanwirenews.com/dems-steaming-at-pathetic-manchin-and-sinema-for-sinking-biden-nominee/)
 
@@ -107,6 +139,10 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sgmcconnell-kennedy-220x180.jpg)](https://americanwirenews.com/mitch-plays-the-polio-card-in-a-pre-confirmation-attack-on-rfk-jr/)
 
 [Mitch plays the polio card in a pre-confirmation attack on RFK Jr.](https://americanwirenews.com/mitch-plays-the-polio-card-in-a-pre-confirmation-attack-on-rfk-jr/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-patel-1-220x180.jpg)](https://americanwirenews.com/watchdog-report-reveals-fbi-spied-on-kash-patel/)
+
+[Watchdog report reveals FBI spied on Kash Patel](https://americanwirenews.com/watchdog-report-reveals-fbi-spied-on-kash-patel/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-flotuschristmas-1200-x-628-220x180.jpg)](https://americanwirenews.com/jill-bidens-happy-holidays-wish-corrected-with-epic-response-by-kids/)
 
@@ -141,42 +177,6 @@ Getty Image
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-peterson-220x180.png)](https://americanwirenews.com/renowned-psychologist-jordan-peterson-announces-hes-leaving-canada-for-the-u-s-and-why/)
 
 [Renowned psychologist Jordan Peterson announces he’s leaving Canada for the U.S. and why](https://americanwirenews.com/renowned-psychologist-jordan-peterson-announces-hes-leaving-canada-for-the-u-s-and-why/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-briana-boston-220x180.jpg)](https://americanwirenews.com/florida-mom-accused-of-luis-mangione-copycat-crime-weeps-in-court-after-arrest/)
-
-[Florida mom accused of Luigi Mangione ‘copycat’ crime weeps in court after arrest](https://americanwirenews.com/florida-mom-accused-of-luis-mangione-copycat-crime-weeps-in-court-after-arrest/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/rf-pexels-grounded-flight-220x180.jpg)](https://americanwirenews.com/plane-forced-to-make-emergency-landing-in-ny-after-bird-destroys-engine-i-thought-i-was-gonna-die/)
-
-[Plane forced to make emergency landing in NY after bird destroys engine: ‘I thought I was gonna die’](https://americanwirenews.com/plane-forced-to-make-emergency-landing-in-ny-after-bird-destroys-engine-i-thought-i-was-gonna-die/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-vance-penny-220x180.jpg)](https://americanwirenews.com/vance-announces-daniel-penny-will-be-his-guest-at-army-navy-football-game-rips-ny-mob-district-attorney/)
-
-[Vance announces Daniel Penny will be his guest at Army-Navy football game, sticks it to Alvin Bragg](https://americanwirenews.com/vance-announces-daniel-penny-will-be-his-guest-at-army-navy-football-game-rips-ny-mob-district-attorney/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-north-carolina-220x180.png)](https://americanwirenews.com/north-carolina-gop-overrides-dem-gov-scores-a-big-win-for-voter-integrity/)
-
-[North Carolina GOP overrides Dem Gov, scores a big win for voter integrity](https://americanwirenews.com/north-carolina-gop-overrides-dem-gov-scores-a-big-win-for-voter-integrity/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bondi-220x180.jpg)](https://americanwirenews.com/conservative-group-offers-list-of-radical-leftists-for-pam-bondi-to-clean-out-of-doj/)
-
-[Conservative group offers list of radical leftists for Pam Bondi to clean out of DOJ](https://americanwirenews.com/conservative-group-offers-list-of-radical-leftists-for-pam-bondi-to-clean-out-of-doj/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mangum-220x180.jpg)](https://americanwirenews.com/convicted-killer-who-accused-duke-lacrosse-players-of-rape-admits-it-was-a-lie-hope-they-can-forgive-me/)
-
-[Convicted killer who accused Duke lacrosse players of rape admits it was a lie: ‘Hope they can forgive me’](https://americanwirenews.com/convicted-killer-who-accused-duke-lacrosse-players-of-rape-admits-it-was-a-lie-hope-they-can-forgive-me/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trumpharrisabc-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-gives-his-diagnosis-on-the-cause-of-kamala-campaigns-death/)
-
-[Trump gives his diagnosis on the cause of Kamala campaign’s death](https://americanwirenews.com/trump-gives-his-diagnosis-on-the-cause-of-kamala-campaigns-death/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-eric-adams-220x180.jpg)](https://americanwirenews.com/nyc-mayor-slams-biden-admin-for-losing-500000-migrant-children-announces-sanctuary-city-changes/)
-
-[NYC mayor slams Biden admin for losing 500,000 migrant children, announces ‘sanctuary city’ changes](https://americanwirenews.com/nyc-mayor-slams-biden-admin-for-losing-500000-migrant-children-announces-sanctuary-city-changes/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-justin-kennedy-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/fox-host-mocks-soy-boy-trudeau-for-trump-snit-what-brand-of-tampons-do-you-use/)
-
-[Fox host mocks ‘soy boy’ Trudeau for Trump snit: ‘What brand of tampons do you use?’](https://americanwirenews.com/fox-host-mocks-soy-boy-trudeau-for-trump-snit-what-brand-of-tampons-do-you-use/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -246,6 +246,10 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [‘Total victory’: ABC News agrees to pay Trump $16M over defamation suit — Stephanopoulos to apologize](https://americanwirenews.com/total-victory-abc-news-agrees-to-pay-trump-16m-over-defamation-suit-stephanopoulos-to-apologize/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-googlead-220x180.jpg)](https://americanwirenews.com/google-tells-bud-light-hold-my-beer-with-new-woke-christmas-ad/)
+
+[Google tells Bud Light ‘hold my beer’ with new WOKE Christmas ad](https://americanwirenews.com/google-tells-bud-light-hold-my-beer-with-new-woke-christmas-ad/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-target-hot-santa-220x180.jpg)](https://americanwirenews.com/ladies-cant-get-enough-of-targets-non-woke-hot-santa-ads-put-me-on-the-naughty-list-please/)
 
 [Ladies can’t get enough of Target’s non-woke ‘hot Santa’ ads: ‘Put me on the naughty list, please’](https://americanwirenews.com/ladies-cant-get-enough-of-targets-non-woke-hot-santa-ads-put-me-on-the-naughty-list-please/)
@@ -257,10 +261,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/police-sg-thompson-gunman-220x180.jpg)](https://americanwirenews.com/unitedhealthcare-ceo-assassin-left-a-3-word-message-at-the-scene-on-bullet-casings/)
 
 [UnitedHealthcare CEO assassin left a 3-word message at the scene on bullet casings](https://americanwirenews.com/unitedhealthcare-ceo-assassin-left-a-3-word-message-at-the-scene-on-bullet-casings/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bonta-1200-x-628-220x180.jpg)](https://americanwirenews.com/california-ag-urges-holiday-shoppers-to-rat-out-stores-without-gender-neutral-kids-sections/)
-
-[California AG urges holiday shoppers to rat out stores without gender-neutral kids’ sections](https://americanwirenews.com/california-ag-urges-holiday-shoppers-to-rat-out-stores-without-gender-neutral-kids-sections/)
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
@@ -276,17 +276,17 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Leftist outlet buried in backlash as Hegseth email is made public: ‘This isn’t journalism. It’s unethical garbage’](https://americanwirenews.com/leftist-outlet-buried-in-backlash-as-hegseth-email-is-made-public-this-isnt-journalism-its-unethical-garbage/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trumpvictoryspeech-1200-x-628-220x180.jpg)](https://americanwirenews.com/get-ready-to-rock-trump-pledges-expedited-permits-to-incentivize-american-business/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-eric-adams-220x180.jpg)](https://americanwirenews.com/nyc-mayor-slams-biden-admin-for-losing-500000-migrant-children-announces-sanctuary-city-changes/)
 
-[‘Get ready to rock!’ Trump pledges expedited permits to incentivize American business](https://americanwirenews.com/get-ready-to-rock-trump-pledges-expedited-permits-to-incentivize-american-business/)
+[NYC mayor slams Biden admin for losing 500,000 migrant children, announces ‘sanctuary city’ changes](https://americanwirenews.com/nyc-mayor-slams-biden-admin-for-losing-500000-migrant-children-announces-sanctuary-city-changes/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-wild-gaetz-220x180.jpg)](https://americanwirenews.com/unscrupulous-dem-behind-gaetz-report-leak-mia-at-house-ethics-committee-meeting/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-justin-kennedy-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/fox-host-mocks-soy-boy-trudeau-for-trump-snit-what-brand-of-tampons-do-you-use/)
 
-[Unscrupulous Dem behind Gaetz report leak MIA at House ethics committee meeting](https://americanwirenews.com/unscrupulous-dem-behind-gaetz-report-leak-mia-at-house-ethics-committee-meeting/)
+[Fox host mocks ‘soy boy’ Trudeau for Trump snit: ‘What brand of tampons do you use?’](https://americanwirenews.com/fox-host-mocks-soy-boy-trudeau-for-trump-snit-what-brand-of-tampons-do-you-use/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-maddow-220x180.jpg)](https://americanwirenews.com/rachel-maddow-links-unitedhealthcare-ceo-killer-to-trump-via-asinine-unabomber-connection/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-pete-hegseth-220x180.png)](https://americanwirenews.com/we-are-back-hegseths-response-to-cnn-gets-cheers/)
 
-[Rachel Maddow links UnitedHealthcare CEO killer to Trump via asinine Unabomber connection](https://americanwirenews.com/rachel-maddow-links-unitedhealthcare-ceo-killer-to-trump-via-asinine-unabomber-connection/)
+[We are back! Hegseth’s finger to CNN gets MAGA cheers](https://americanwirenews.com/we-are-back-hegseths-response-to-cnn-gets-cheers/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -328,16 +328,16 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Harvard president reportedly tells faculty they need to rethink messaging after Trump win](https://americanwirenews.com/harvard-president-reportedly-tells-faculty-they-need-to-rethink-messaging-after-trump-win/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-upenn-220x180.png)](https://americanwirenews.com/socialist-upenn-professor-goes-dark-after-unwanted-attention-over-post-celebrating-ceos-murder/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-live-prison-interview-220x180.jpg)](https://americanwirenews.com/fellow-inmates-of-alleged-ceo-killer-yell-to-reporter-through-prison-fence-in-bizarre-live-shot/)
 
-[Socialist UPenn professor goes dark after unwanted attention over post celebrating CEO’s murder](https://americanwirenews.com/socialist-upenn-professor-goes-dark-after-unwanted-attention-over-post-celebrating-ceos-murder/)
+[Fellow inmates of alleged CEO killer yell to reporter through prison fence in bizarre live shot](https://americanwirenews.com/fellow-inmates-of-alleged-ceo-killer-yell-to-reporter-through-prison-fence-in-bizarre-live-shot/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rogan-220x180.jpg)](https://americanwirenews.com/joe-rogan-slams-f-ing-gross-health-insurance-as-a-dirty-dirty-business/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-covington-220x180.jpg)](https://americanwirenews.com/mma-fighter-puts-fing-scumbag-lebron-james-on-blast-people-think-hes-a-role-model/)
 
-[Joe Rogan slams ‘f-ing gross’ health insurance as a ‘dirty, dirty business’](https://americanwirenews.com/joe-rogan-slams-f-ing-gross-health-insurance-as-a-dirty-dirty-business/)
+[MMA fighter puts ‘f\*\*ing scumbag’ LeBron James on blast: ‘People think he’s a role model?!’](https://americanwirenews.com/mma-fighter-puts-fing-scumbag-lebron-james-on-blast-people-think-hes-a-role-model/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-king-elementary-220x180.jpg)](https://americanwirenews.com/mom-mulls-suing-school-district-for-discriminating-against-her-son-because-hes-white/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-satanic-display-220x180.jpg)](https://americanwirenews.com/satanic-holiday-statue-erected-in-front-of-new-hampshire-state-house-didnt-last-long-found-in-three-pieces/)
 
-[Mom mulls suing school district for discriminating against her son because he’s white](https://americanwirenews.com/mom-mulls-suing-school-district-for-discriminating-against-her-son-because-hes-white/)
+[Satanic holiday statue erected in front of New Hampshire State House didn’t last long: ‘Found in three pieces’](https://americanwirenews.com/satanic-holiday-statue-erected-in-front-of-new-hampshire-state-house-didnt-last-long-found-in-three-pieces/)
 
 © 2024. All Rights Reserved. American Wire News
