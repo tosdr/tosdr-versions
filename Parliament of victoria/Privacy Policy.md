@@ -117,6 +117,10 @@ Main menu
     
     #### [Latest](https://parliament.vic.gov.au/link/c5bd7124b44e42c2929fdf47bfd51f6e.aspx)
     
+    * [Christmas hampers handover 2024](https://parliament.vic.gov.au/link/97e69b89ef954786a0b129687f5ddcc0.aspx)
+        
+        16 December 2024
+        
     * [Invested in young people](https://parliament.vic.gov.au/link/00f455b55d064c6a99ed90af74bd9f55.aspx)
         
         12 December 2024
@@ -124,10 +128,6 @@ Main menu
     * [Ritual with responsibility](https://parliament.vic.gov.au/link/42fade07882d4668a4c24106669b0ec5.aspx)
         
         10 December 2024
-        
-    * [Bill to abolish committal hearings debated](https://parliament.vic.gov.au/link/8b24ed84ac7e40d18f6542665c9ed5a1.aspx)
-        
-        06 December 2024
         
     
 * [Visit](https://parliament.vic.gov.au/visit/)Expand Visit
