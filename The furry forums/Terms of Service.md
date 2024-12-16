@@ -17,7 +17,7 @@ Login with username, password and session length
 News:
 -----
 
-[Donations](https://www.thefurryforum.com/forums/index.php?action=treasury) keep our forum going! You get some nifty [perks](https://www.thefurryforum.com/forums/index.php?topic=15189.0) with it too!
+All forum announcements and updates are posted [here](https://www.thefurryforum.com/forums/index.php?board=17.0)!
 
   
   
