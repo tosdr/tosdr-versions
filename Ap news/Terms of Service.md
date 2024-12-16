@@ -30,9 +30,9 @@ Menu
     
     TOP STORIES
     
+    * [Survivors seek a reckoning as FBI investigates child sex abuse in little-known Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-a94073c27168a7998c1a225f72672a3d)
+    * [Takeaways from AP's reporting on a child sex abuse crisis inside a secretive Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-398b68475c2eab693e40e35552030e87)
     * [US agencies should use advanced technology to identify mysterious drones, Schumer says](https://apnews.com/article/drones-new-york-jersey-schumer-80de1d64708677cfa7efc60249075d7b)
-    * [Storms across US bring heavy snow, dangerous ice and a tornado in California](https://apnews.com/article/winter-weather-snow-ice-storm-tornado-46d9848b6908aed8f79d0e1064699ee0)
-    * [The GOP stoked fears of noncitizens voting. Cases in Ohio show how rhetoric and reality diverge](https://apnews.com/article/noncitizen-voting-republicans-prosecutions-2024-election-ohio-ae9dafeeb47ea8941bf82f5988b269ef)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [The GOP stoked fears of noncitizens voting. Cases in Ohio show how rhetoric and reality diverge](https://apnews.com/article/noncitizen-voting-republicans-prosecutions-2024-election-ohio-ae9dafeeb47ea8941bf82f5988b269ef)
-    * [ABC agrees to give $15 million to Donald Trump's presidential library to settle defamation lawsuit](https://apnews.com/article/abc-trump-lawsuit-defamation-stephanopoulos-04aea8663310af39ae2a85f4c1a56d68)
-    * [Trump gets warm welcome as he watches Army-Navy game alongside key allies, nominees and Daniel Penny](https://apnews.com/article/trump-army-navy-football-penny-hegseth-desantis-85da138b3ac130b211afc414bf43514a)
+    * [Former FBI informant will plead guilty to lying about phony bribery scheme involving the Bidens](https://apnews.com/article/alexander-smirnov-guilty-plea-biden-informant-fbi-62a3b7acce0345303f812ca6d0206b10)
+    * [Biden, Harris thank major Democratic donors and urge them to stay engaged after tough loss to Trump](https://apnews.com/article/biden-harris-dnc-donors-democrats-future-a535c094e16d1807161759bd02c12b57)
+    * [2024 was big for bitcoin. States could see a crypto policy blitz in 2025 in spite of the risks](https://apnews.com/article/cryptocurrency-pensions-treasury-pennsylvania-wisconsin-michigan-trump-68924e1d4dab3706c3e041f8f3649974)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Colorado two-way star Travis Hunter wins Heisman Trophy as college football's top player](https://apnews.com/article/heisman-trophy-travis-hunter-colorado-c76c411ca04108018eefb18beaa649fe)
-    * [Mara gets another aerial message to thrash the Giants before game against the Ravens](https://apnews.com/article/giants-plane-mara-metlife-81d0ec2c54542e0c1218182fe1dae7e9)
-    * [Man United secures stunning late 2-1 comeback win against Man City](https://apnews.com/article/manchester-city-man-united-score-premier-league-b01866c0a6c7145aea9c8c79a1e3bbb6)
+    * [Jordan Love throws for 2 TDs and Packers beat Seahawks 30-13 as Seattle QB Geno Smith injures knee](https://apnews.com/article/packers-seahawks-score-6c5dc8a39b11bd28fe1d257f1989dee0)
+    * [Josh Allen has another huge game to lift Bills to a 48-42 victory that snaps Lions' winning streak](https://apnews.com/article/lions-bills-score-allen-ffc9cd77565c69ed327f06e2950478ee)
+    * [Mahomes throws 2 TD passes, leaves with ankle injury in Chiefs' 21-7 win. X-rays negative on star QB](https://apnews.com/article/browns-chiefs-score-mahomes-dc7a77ac602c6aa0c550dd6bf5288f27)
     
     Newsletters
     
@@ -94,9 +94,9 @@ Menu
     
     TOP STORIES
     
+    * [Popeye and Tintin enter the public domain in 2025 along with novels from Faulkner and Hemingway](https://apnews.com/article/public-domain-2025-popeye-tintin-e71ca89b7a430e68e66a7c6ce45a98eb)
     * [‘Kraven the Hunter’ had one of the worst openings for a Marvel-adjacent property, estimates show](https://apnews.com/article/box-office-b79d8c3a84483f15fc3dace19dbef5d5)
-    * [ABC agrees to give $15 million to Donald Trump's presidential library to settle defamation lawsuit](https://apnews.com/article/abc-trump-lawsuit-defamation-stephanopoulos-04aea8663310af39ae2a85f4c1a56d68)
-    * [Woman accusing Jay-Z and Sean 'Diddy' Combs of sexual assault acknowledges inconsistencies](https://apnews.com/article/jayz-rape-allegation-sean-combs-diddy-inconsistencies-667e3c5f2abca341975741e536969d71)
+    * [Zakir Hussain, one of India's most accomplished classical musicians, dies at 73](https://apnews.com/article/india-zakir-hussain-tabla-musician-obituary-4e6b09e2a85a35e417d486188c433fe2)
     
 * [Business](https://apnews.com/business)
     
@@ -106,9 +106,9 @@ Menu
     
     TOP STORIES
     
+    * [2024 was big for bitcoin. States could see a crypto policy blitz in 2025 in spite of the risks](https://apnews.com/article/cryptocurrency-pensions-treasury-pennsylvania-wisconsin-michigan-trump-68924e1d4dab3706c3e041f8f3649974)
+    * [As schools cut back on bus service, parents are turning to rideshare apps](https://apnews.com/article/school-bus-rideshare-chicago-3fdcedfc4f957f748bf109066806bc88)
     * [‘Kraven the Hunter’ had one of the worst openings for a Marvel-adjacent property, estimates show](https://apnews.com/article/box-office-b79d8c3a84483f15fc3dace19dbef5d5)
-    * [Small businesses say cautious shoppers are seeking 'cozy' and 'festive' this holiday season](https://apnews.com/article/small-business-holiday-shopping-cozy-festive-decor-307a9f2ad66cf05ee1a848530aaab36a)
-    * [Supreme Court will take up a challenge related to California's tough vehicle emissions standards](https://apnews.com/article/supreme-court-california-auto-emissions-climate-change-7aff58362d99dd0892b7a8540f3382c1)
     
 * [Science](https://apnews.com/science)
     
@@ -190,7 +190,7 @@ Menu
     
     TOP STORIES
     
-    * [American chestnuts are part of yuletide lore. But in the US, they've nearly been wiped out](https://apnews.com/article/american-chestnut-trees-roasting-blight-chinese-restoration-1c3e50ef33a67926c0800222f0e7e619)
+    * [American chestnuts are part of Yuletide lore. But in the US, they've nearly been wiped out](https://apnews.com/article/american-chestnut-trees-roasting-blight-chinese-restoration-1c3e50ef33a67926c0800222f0e7e619)
     * [UN talks fail to reach agreement on dealing with rising risk of global drought](https://apnews.com/article/un-drought-desertification-climate-riyadh-saudi-arabia-a353d12a2fe8c19e932f96198fa3421d)
     * [Saudi Arabia's plans to host the men's World Cup will harm the climate, experts warn](https://apnews.com/article/climate-world-cup-saudi-arabia-greenhouse-gas-emissions-8750010f26aa1767b69e726c990f7388)
     
@@ -214,8 +214,8 @@ Menu
     TOP STORIES
     
     * [US agencies should use advanced technology to identify mysterious drones, Schumer says](https://apnews.com/article/drones-new-york-jersey-schumer-80de1d64708677cfa7efc60249075d7b)
-    * [Trump hosts Apple CEO at Mar-a-Lago as big tech leaders continue outreach to president-elect](https://apnews.com/article/trump-apple-tim-cook-tech-0a9fb8e6df321f6553c23b5138ff1f06)
-    * [OpenAI's legal battle with Elon Musk reveals internal turmoil over avoiding AI 'dictatorship'](https://apnews.com/article/elon-musk-openai-lawsuit-sam-altman-chatgpt-36bc55dbb8b4f9e1e5675ff7564e5fa0)
+    * [As schools cut back on bus service, parents are turning to rideshare apps](https://apnews.com/article/school-bus-rideshare-chicago-3fdcedfc4f957f748bf109066806bc88)
+    * [Hackers hit Rhode Island benefits system in major cyberattack. Personal data could be released soon](https://apnews.com/article/cybersecurity-breach-data-rhode-island-56875d6b20ce94de7b240c5b2f43e4a8)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -225,17 +225,17 @@ Menu
     
     TOP STORIES
     
-    * [Small businesses say cautious shoppers are seeking 'cozy' and 'festive' this holiday season](https://apnews.com/article/small-business-holiday-shopping-cozy-festive-decor-307a9f2ad66cf05ee1a848530aaab36a)
-    * [American chestnuts are part of yuletide lore. But in the US, they've nearly been wiped out](https://apnews.com/article/american-chestnut-trees-roasting-blight-chinese-restoration-1c3e50ef33a67926c0800222f0e7e619)
-    * [Flight takes kids to visit Santa at North Pole scene in transformed Denver airport hangar](https://apnews.com/article/denver-north-pole-flight-united-children-santa-977a175dda26c8bbb9fa83d821cbaced)
+    * [As schools cut back on bus service, parents are turning to rideshare apps](https://apnews.com/article/school-bus-rideshare-chicago-3fdcedfc4f957f748bf109066806bc88)
+    * [Milan's Via MonteNapoleone usurps New York's Fifth Avenue as world's most upscale shopping street](https://apnews.com/article/milan-shopping-montenapoleone-fifth-avenue-09f40b45e279d71cf1f1b95e9b0871ae)
+    * [What to stream: MrBeast jumps to TV, Little Big Town's holiday special and Squid Game: Unleashed](https://apnews.com/article/stream-tv-movies-music-december-2024-town-3f20e1a38e93d0d8fe102dc03d6ab3c8)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Takeaways from AP's reporting on a child sex abuse crisis inside a secretive Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-398b68475c2eab693e40e35552030e87)
+    * [Survivors seek a reckoning as FBI investigates child sex abuse in little-known Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-a94073c27168a7998c1a225f72672a3d)
     * [Christians in Syria mark country's transformation with tears as UN envoy urges an end to sanctions](https://apnews.com/article/syria-assad-sanctions-un-3f0031108d7e58c2343bd6a8fd42254c)
-    * [Pope Francis makes 1st papal visit to France's Corsica awash in expressions of popular piety](https://apnews.com/article/pope-francis-corsica-visit-mediterranean-1422ac7938a526d02a82f739a51bcfcd)
-    * [Notre Dame reopening spectacle caps a stellar year for luxury house LVMH](https://apnews.com/article/lvmh-notre-dame-branding-arnault-0d8076d36ed655136666b74d2ee681ed)
     
     Newsletters
     
@@ -250,10 +250,10 @@ Menu
     TOP STORIES
     
     * [El presidente Lula sale del hospital tras cirugía por una hemorragia cerebral](https://apnews.com/article/lula-brasil-presidente-salud-f74d1197875778eb119376fecae021e0)
+    * [Investigadores surcoreanos citan al presidente Yoon a declarar por decreto de ley marcial](https://apnews.com/article/yoon-corea-juicio-politico-ley-marcial-surcorea-02bbeeecc6d92c291153a5349c68bb3c)
     * [Calculan cientos de muertos en el territorio francés de Mayotte al paso del ciclón Chido](https://apnews.com/article/chido-ciclon-francia-muertos-91d27cac3565f4c5ab67ec0419e78c53)
     * [Israel cerrará embajada en Irlanda por tensiones en Gaza; son casi 45.000 los palestinos muertos](https://apnews.com/article/israel-palestinos-hamas-guerra-irlanda-embajada-israeli-6576237ea950740dd5f14edb6404d64e)
-    * [Primera semana en la nueva Siria: Rebeldes buscan normalidad, los sirios prometen alzar la voz](https://apnews.com/article/siria-caida-assad-nuevos-lideres-cambios-71fb0017a062bb5528fdc7d8b7d977a2)
-    * [Fotos comprometedoras de Assad causan burlas tras su caída en Siria](https://apnews.com/article/siria-assad-fotos-29922eb21da93b31d1141f6dac6c4993)
+    * [Popeye y Tintín pasarán a dominio público en 2025 junto con novelas de Faulkner y Hemingway](https://apnews.com/article/dominio-publico-tintin-popeye-faulkner-hemingway-1b870c586c7199861a0c2cc6cab385b5)
     
 * [Quizzes](https://apnews.com/quizzes)
     
@@ -432,9 +432,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Survivors seek a reckoning as FBI investigates child sex abuse in little-known Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-a94073c27168a7998c1a225f72672a3d)
+    * [Takeaways from AP's reporting on a child sex abuse crisis inside a secretive Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-398b68475c2eab693e40e35552030e87)
     * [US agencies should use advanced technology to identify mysterious drones, Schumer says](https://apnews.com/article/drones-new-york-jersey-schumer-80de1d64708677cfa7efc60249075d7b)
-    * [Storms across US bring heavy snow, dangerous ice and a tornado in California](https://apnews.com/article/winter-weather-snow-ice-storm-tornado-46d9848b6908aed8f79d0e1064699ee0)
-    * [The GOP stoked fears of noncitizens voting. Cases in Ohio show how rhetoric and reality diverge](https://apnews.com/article/noncitizen-voting-republicans-prosecutions-2024-election-ohio-ae9dafeeb47ea8941bf82f5988b269ef)
     
     Newsletters
     
@@ -462,9 +462,9 @@ Submit Search
     
     TOP STORIES
     
-    * [The GOP stoked fears of noncitizens voting. Cases in Ohio show how rhetoric and reality diverge](https://apnews.com/article/noncitizen-voting-republicans-prosecutions-2024-election-ohio-ae9dafeeb47ea8941bf82f5988b269ef)
-    * [ABC agrees to give $15 million to Donald Trump's presidential library to settle defamation lawsuit](https://apnews.com/article/abc-trump-lawsuit-defamation-stephanopoulos-04aea8663310af39ae2a85f4c1a56d68)
-    * [Trump gets warm welcome as he watches Army-Navy game alongside key allies, nominees and Daniel Penny](https://apnews.com/article/trump-army-navy-football-penny-hegseth-desantis-85da138b3ac130b211afc414bf43514a)
+    * [Former FBI informant will plead guilty to lying about phony bribery scheme involving the Bidens](https://apnews.com/article/alexander-smirnov-guilty-plea-biden-informant-fbi-62a3b7acce0345303f812ca6d0206b10)
+    * [Biden, Harris thank major Democratic donors and urge them to stay engaged after tough loss to Trump](https://apnews.com/article/biden-harris-dnc-donors-democrats-future-a535c094e16d1807161759bd02c12b57)
+    * [2024 was big for bitcoin. States could see a crypto policy blitz in 2025 in spite of the risks](https://apnews.com/article/cryptocurrency-pensions-treasury-pennsylvania-wisconsin-michigan-trump-68924e1d4dab3706c3e041f8f3649974)
     
     Newsletters
     
@@ -492,9 +492,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Colorado two-way star Travis Hunter wins Heisman Trophy as college football's top player](https://apnews.com/article/heisman-trophy-travis-hunter-colorado-c76c411ca04108018eefb18beaa649fe)
-    * [Mara gets another aerial message to thrash the Giants before game against the Ravens](https://apnews.com/article/giants-plane-mara-metlife-81d0ec2c54542e0c1218182fe1dae7e9)
-    * [Man United secures stunning late 2-1 comeback win against Man City](https://apnews.com/article/manchester-city-man-united-score-premier-league-b01866c0a6c7145aea9c8c79a1e3bbb6)
+    * [Jordan Love throws for 2 TDs and Packers beat Seahawks 30-13 as Seattle QB Geno Smith injures knee](https://apnews.com/article/packers-seahawks-score-6c5dc8a39b11bd28fe1d257f1989dee0)
+    * [Josh Allen has another huge game to lift Bills to a 48-42 victory that snaps Lions' winning streak](https://apnews.com/article/lions-bills-score-allen-ffc9cd77565c69ed327f06e2950478ee)
+    * [Mahomes throws 2 TD passes, leaves with ankle injury in Chiefs' 21-7 win. X-rays negative on star QB](https://apnews.com/article/browns-chiefs-score-mahomes-dc7a77ac602c6aa0c550dd6bf5288f27)
     
     Newsletters
     
@@ -521,9 +521,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Popeye and Tintin enter the public domain in 2025 along with novels from Faulkner and Hemingway](https://apnews.com/article/public-domain-2025-popeye-tintin-e71ca89b7a430e68e66a7c6ce45a98eb)
     * [‘Kraven the Hunter’ had one of the worst openings for a Marvel-adjacent property, estimates show](https://apnews.com/article/box-office-b79d8c3a84483f15fc3dace19dbef5d5)
-    * [ABC agrees to give $15 million to Donald Trump's presidential library to settle defamation lawsuit](https://apnews.com/article/abc-trump-lawsuit-defamation-stephanopoulos-04aea8663310af39ae2a85f4c1a56d68)
-    * [Woman accusing Jay-Z and Sean 'Diddy' Combs of sexual assault acknowledges inconsistencies](https://apnews.com/article/jayz-rape-allegation-sean-combs-diddy-inconsistencies-667e3c5f2abca341975741e536969d71)
+    * [Zakir Hussain, one of India's most accomplished classical musicians, dies at 73](https://apnews.com/article/india-zakir-hussain-tabla-musician-obituary-4e6b09e2a85a35e417d486188c433fe2)
     
 * [Business](https://apnews.com/business)
     
@@ -538,9 +538,9 @@ Submit Search
     
     TOP STORIES
     
+    * [2024 was big for bitcoin. States could see a crypto policy blitz in 2025 in spite of the risks](https://apnews.com/article/cryptocurrency-pensions-treasury-pennsylvania-wisconsin-michigan-trump-68924e1d4dab3706c3e041f8f3649974)
+    * [As schools cut back on bus service, parents are turning to rideshare apps](https://apnews.com/article/school-bus-rideshare-chicago-3fdcedfc4f957f748bf109066806bc88)
     * [‘Kraven the Hunter’ had one of the worst openings for a Marvel-adjacent property, estimates show](https://apnews.com/article/box-office-b79d8c3a84483f15fc3dace19dbef5d5)
-    * [Small businesses say cautious shoppers are seeking 'cozy' and 'festive' this holiday season](https://apnews.com/article/small-business-holiday-shopping-cozy-festive-decor-307a9f2ad66cf05ee1a848530aaab36a)
-    * [Supreme Court will take up a challenge related to California's tough vehicle emissions standards](https://apnews.com/article/supreme-court-california-auto-emissions-climate-change-7aff58362d99dd0892b7a8540f3382c1)
     
 * [Science](https://apnews.com/science)
     
@@ -638,7 +638,7 @@ Submit Search
     
     TOP STORIES
     
-    * [American chestnuts are part of yuletide lore. But in the US, they've nearly been wiped out](https://apnews.com/article/american-chestnut-trees-roasting-blight-chinese-restoration-1c3e50ef33a67926c0800222f0e7e619)
+    * [American chestnuts are part of Yuletide lore. But in the US, they've nearly been wiped out](https://apnews.com/article/american-chestnut-trees-roasting-blight-chinese-restoration-1c3e50ef33a67926c0800222f0e7e619)
     * [UN talks fail to reach agreement on dealing with rising risk of global drought](https://apnews.com/article/un-drought-desertification-climate-riyadh-saudi-arabia-a353d12a2fe8c19e932f96198fa3421d)
     * [Saudi Arabia's plans to host the men's World Cup will harm the climate, experts warn](https://apnews.com/article/climate-world-cup-saudi-arabia-greenhouse-gas-emissions-8750010f26aa1767b69e726c990f7388)
     
@@ -665,8 +665,8 @@ Submit Search
     TOP STORIES
     
     * [US agencies should use advanced technology to identify mysterious drones, Schumer says](https://apnews.com/article/drones-new-york-jersey-schumer-80de1d64708677cfa7efc60249075d7b)
-    * [Trump hosts Apple CEO at Mar-a-Lago as big tech leaders continue outreach to president-elect](https://apnews.com/article/trump-apple-tim-cook-tech-0a9fb8e6df321f6553c23b5138ff1f06)
-    * [OpenAI's legal battle with Elon Musk reveals internal turmoil over avoiding AI 'dictatorship'](https://apnews.com/article/elon-musk-openai-lawsuit-sam-altman-chatgpt-36bc55dbb8b4f9e1e5675ff7564e5fa0)
+    * [As schools cut back on bus service, parents are turning to rideshare apps](https://apnews.com/article/school-bus-rideshare-chicago-3fdcedfc4f957f748bf109066806bc88)
+    * [Hackers hit Rhode Island benefits system in major cyberattack. Personal data could be released soon](https://apnews.com/article/cybersecurity-breach-data-rhode-island-56875d6b20ce94de7b240c5b2f43e4a8)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -684,17 +684,17 @@ Submit Search
     
     TOP STORIES
     
-    * [Small businesses say cautious shoppers are seeking 'cozy' and 'festive' this holiday season](https://apnews.com/article/small-business-holiday-shopping-cozy-festive-decor-307a9f2ad66cf05ee1a848530aaab36a)
-    * [American chestnuts are part of yuletide lore. But in the US, they've nearly been wiped out](https://apnews.com/article/american-chestnut-trees-roasting-blight-chinese-restoration-1c3e50ef33a67926c0800222f0e7e619)
-    * [Flight takes kids to visit Santa at North Pole scene in transformed Denver airport hangar](https://apnews.com/article/denver-north-pole-flight-united-children-santa-977a175dda26c8bbb9fa83d821cbaced)
+    * [As schools cut back on bus service, parents are turning to rideshare apps](https://apnews.com/article/school-bus-rideshare-chicago-3fdcedfc4f957f748bf109066806bc88)
+    * [Milan's Via MonteNapoleone usurps New York's Fifth Avenue as world's most upscale shopping street](https://apnews.com/article/milan-shopping-montenapoleone-fifth-avenue-09f40b45e279d71cf1f1b95e9b0871ae)
+    * [What to stream: MrBeast jumps to TV, Little Big Town's holiday special and Squid Game: Unleashed](https://apnews.com/article/stream-tv-movies-music-december-2024-town-3f20e1a38e93d0d8fe102dc03d6ab3c8)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Takeaways from AP's reporting on a child sex abuse crisis inside a secretive Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-398b68475c2eab693e40e35552030e87)
+    * [Survivors seek a reckoning as FBI investigates child sex abuse in little-known Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-a94073c27168a7998c1a225f72672a3d)
     * [Christians in Syria mark country's transformation with tears as UN envoy urges an end to sanctions](https://apnews.com/article/syria-assad-sanctions-un-3f0031108d7e58c2343bd6a8fd42254c)
-    * [Pope Francis makes 1st papal visit to France's Corsica awash in expressions of popular piety](https://apnews.com/article/pope-francis-corsica-visit-mediterranean-1422ac7938a526d02a82f739a51bcfcd)
-    * [Notre Dame reopening spectacle caps a stellar year for luxury house LVMH](https://apnews.com/article/lvmh-notre-dame-branding-arnault-0d8076d36ed655136666b74d2ee681ed)
     
     Newsletters
     
@@ -709,10 +709,10 @@ Submit Search
     TOP STORIES
     
     * [El presidente Lula sale del hospital tras cirugía por una hemorragia cerebral](https://apnews.com/article/lula-brasil-presidente-salud-f74d1197875778eb119376fecae021e0)
+    * [Investigadores surcoreanos citan al presidente Yoon a declarar por decreto de ley marcial](https://apnews.com/article/yoon-corea-juicio-politico-ley-marcial-surcorea-02bbeeecc6d92c291153a5349c68bb3c)
     * [Calculan cientos de muertos en el territorio francés de Mayotte al paso del ciclón Chido](https://apnews.com/article/chido-ciclon-francia-muertos-91d27cac3565f4c5ab67ec0419e78c53)
     * [Israel cerrará embajada en Irlanda por tensiones en Gaza; son casi 45.000 los palestinos muertos](https://apnews.com/article/israel-palestinos-hamas-guerra-irlanda-embajada-israeli-6576237ea950740dd5f14edb6404d64e)
-    * [Primera semana en la nueva Siria: Rebeldes buscan normalidad, los sirios prometen alzar la voz](https://apnews.com/article/siria-caida-assad-nuevos-lideres-cambios-71fb0017a062bb5528fdc7d8b7d977a2)
-    * [Fotos comprometedoras de Assad causan burlas tras su caída en Siria](https://apnews.com/article/siria-assad-fotos-29922eb21da93b31d1141f6dac6c4993)
+    * [Popeye y Tintín pasarán a dominio público en 2025 junto con novelas de Faulkner y Hemingway](https://apnews.com/article/dominio-publico-tintin-popeye-faulkner-hemingway-1b870c586c7199861a0c2cc6cab385b5)
     
 * [Quizzes](https://apnews.com/quizzes)
     
