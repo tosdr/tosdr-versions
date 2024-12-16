@@ -101,7 +101,7 @@ New & Coming soon
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234527/FND_poster_Nosferatu_Succumb-Presale.jpg)
     
     Nosferatu (2024)](https://www.fandango.com/nosferatu-2024-234527/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234545/FND_poster_Sonic3-Presale.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234545/STH3_2025X3000_ONLINE_TEASER_ONE_SHEET_SHATTER.jpg)
     
     Sonic the Hedgehog 3 (2024)](https://www.fandango.com/sonic-the-hedgehog-3-2024-234545/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234518/LOTR_WOTR.jpg)
@@ -110,7 +110,7 @@ New & Coming soon
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234519/G2_DOM_Online_Payoff_1-Sheet_06_FIN12.jpg)
     
     Gladiator II (2024)](https://www.fandango.com/gladiator-ii-2024-234519/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234521/FND_poster_Mufasa-Presale.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234521/Wonderwall_Payoff_Digital_1Sheet_v7_sm.jpg)
     
     Mufasa: The Lion King (2024)](https://www.fandango.com/mufasa-the-lion-king-2024-234521/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235322/red_one.jpg)
