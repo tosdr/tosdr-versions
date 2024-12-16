@@ -240,6 +240,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Manly Know-How](https://www.artofmanliness.com/skills/manly-know-how/)
 * [Outdoor/Survival](https://www.artofmanliness.com/skills/outdoor-survival/)
 
+[![Person in a santa costume holding a perfect snowball.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-make-the-perfect-snowball-an-illustrated-guide/)
+
+[Skill of the Week: Make the Perfect Snowball](https://www.artofmanliness.com/skills/how-to/how-to-make-the-perfect-snowball-an-illustrated-guide/)
+
 [![Illustration of a person crossing their arms over a yellow shirt, reminiscent of Houdini's daring escape from a straitjacket, with a red arrow pointing down on the right side.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-escape-straitjacket/)
 
 [How to Escape a Straitjacket Like Houdini](https://www.artofmanliness.com/skills/how-to/how-to-escape-straitjacket/)
@@ -251,10 +255,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Illustration of a person at a shooting range encountering common pistol misfires, with their firearm clicking instead of firing and question marks floating above their head.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-handle-3-common-pistol-misfires/)
 
 [How to Handle 3 Common Pistol Misfires](https://www.artofmanliness.com/skills/how-to/how-to-handle-3-common-pistol-misfires/)
-
-[![A person in a red shirt and blue pants rides a horse and swings a lasso, showcasing advanced rope techniques in a desert landscape.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/how-to/how-to-tie-a-lasso/)
-
-[How to Tie a Lasso](https://www.artofmanliness.com/skills/how-to/how-to-tie-a-lasso/)
 
 [![A cartoon of a man decorating a Christmas tree with lights.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/how-to-put-lights-on-your-christmas-tree/)
 
