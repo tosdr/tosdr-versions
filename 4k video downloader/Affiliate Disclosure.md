@@ -205,6 +205,6 @@ Send
 
 [](https://www.4kdownload.com/-54 "Home page")
 
-© 2024 Open Media. All rights reserved.
+© 2024 InterPromo GMBH. All rights reserved.
 
 English Deutsch français italiano español Português Brasileiro Nederlands polski 简体中文 繁體中文 한국어 日本語 Русский
