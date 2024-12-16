@@ -195,7 +195,7 @@ Please enter your location to help us display the correct information for your a
 Enhancing lives today and accelerating a spectrum of solutions for tomorrow.
 ============================================================================
 
-![Tonya and Tyler](/sites/default/files/styles/wysiwyg_fullscreen_width/public/Tonya-and-Tyler_hero_widecropv2%20copy.png?itok=sSMXWbDJ "Tonya and Tyler hero no background")
+[![Tonya & Tyler - Make a year-end donation](/sites/default/files/styles/wysiwyg_fullscreen_width/public/Tonya-and-Tyler_hero_widecropv2_button.png?itok=sgBj8Ylh "Tonya & Tyler Hero no background year-end")](https://donate.autismspeaks.org/-/XRRJYKYY)
 
 Autism information and support
 
