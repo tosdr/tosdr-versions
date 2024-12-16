@@ -21,11 +21,11 @@ Check out the following sections to see what you can do with this.
 Link to a repository's latest artifact
 
 Insert the GitHub URL of a workflow file that uses [actions/upload-artifact](https://github.com/actions/upload-artifact#readme).  
-Example: [https://github.com/quassel/quassel/blob/master/.github/workflows/main.yml](https://github.com/quassel/quassel/blob/master/.github/workflows/main.yml)  
+Example: [https://github.com/oprypin/nightly.link/blob/master/.github/workflows/upload-test.yml](https://github.com/oprypin/nightly.link/blob/master/.github/workflows/upload-test.yml)  
 Note that the _branch_ which you're on also matters.
 
-Following this form (and having selected the "Windows" artifact), you will end up at  
-[https://nightly.link/quassel/quassel/workflows/main/master/Windows](https://nightly.link/quassel/quassel/workflows/main/master/Windows) \[[.zip](https://nightly.link/quassel/quassel/workflows/main/master/Windows.zip)\]  
+Following this form (and having selected the "some-artifact" artifact), you will end up at  
+[https://nightly.link/oprypin/nightly.link/workflows/upload-test/master/some-artifact](https://nightly.link/oprypin/nightly.link/workflows/upload-test/master/some-artifact) \[[.zip](https://nightly.link/oprypin/nightly.link/workflows/upload-test/master/some-artifact.zip)\]  
 which is a link that always downloads the latest artifact from a succeeding run on that repo+workflow+branch.
 
 To allow any completed workflow runs, not only successful ones, append `?status=completed` to the URL.
@@ -34,8 +34,8 @@ If you have several workflows or branches, you can adapt the URL by hand in a pr
 
 Link to a particular artifact
 
-If GitHub gave you a link such as [https://github.com/quassel/quassel/suites/27171785749/artifacts/1811635631](https://github.com/quassel/quassel/suites/27171785749/artifacts/1811635631),  
-you can just change the prefix to [https://nightly.link/quassel/quassel/suites/27171785749/artifacts/1811635631](https://nightly.link/quassel/quassel/suites/27171785749/artifacts/1811635631),  
+If GitHub gave you a link such as [https://github.com/oprypin/nightly.link/suites/31707785707/artifacts/2279766120](https://github.com/oprypin/nightly.link/suites/31707785707/artifacts/2279766120),  
+you can just change the prefix to [https://nightly.link/oprypin/nightly.link/suites/31707785707/artifacts/2279766120](https://nightly.link/oprypin/nightly.link/suites/31707785707/artifacts/2279766120),  
 and you get a download URL that works the same but doesn't give a "404" error to users who aren't logged into GitHub.
 
 Or, paste it into the field above.
@@ -44,9 +44,9 @@ Extra links for a particular run
 
 A _run_ is basically a collection of _jobs_. Even though it's the job that produces artifacts, they get associated with the parent run.
 
-Example run: [https://github.com/quassel/quassel/actions/runs/10388804461](https://github.com/quassel/quassel/actions/runs/10388804461).  
+Example run: [https://github.com/oprypin/nightly.link/actions/runs/12182165716](https://github.com/oprypin/nightly.link/actions/runs/12182165716).  
 You _have to_ provide the _run_ to nightly.link if you want to find the artifacts.  
-Again, you can just change the prefix like [https://nightly.link/quassel/quassel/actions/runs/10388804461](https://nightly.link/quassel/quassel/actions/runs/10388804461) to get there.  
+Again, you can just change the prefix like [https://nightly.link/oprypin/nightly.link/actions/runs/12182165716](https://nightly.link/oprypin/nightly.link/actions/runs/12182165716) to get there.  
 
 If, instead, you click into a _job_, you can access its logs.  
 Example job: [https://github.com/oprypin/nightly.link/runs/1849327325?check\_suite\_focus=true](https://github.com/oprypin/nightly.link/runs/1849327325?check_suite_focus=true)  
