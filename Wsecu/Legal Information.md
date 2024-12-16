@@ -143,5 +143,3 @@ Joint marketing
 A formal agreement between non-affiliated financial companies that together marketfinancial products or services to you.• Our joint marketing partners include providers of investment and financial services andinsurance companies.
 
 Page 2 of 2
-
-REVISED 07/2023
