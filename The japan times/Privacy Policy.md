@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 16, 2024](https://www.japantimes.co.jp/archive/2024/12/16/ "archive page")
+[December 17, 2024](https://www.japantimes.co.jp/archive/2024/12/17/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -30,8 +30,8 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [South Korea unrest](https://www.japantimes.co.jp/trending-2/ "South Korea unrest")
-* [Trump tariffs](https://www.japantimes.co.jp/trending/ "Trump tariffs")
+* [South Korea impeachment](https://www.japantimes.co.jp/tag/south-korea/ "South Korea impeachment")
+* [Yen](https://www.japantimes.co.jp/tag/yen/ "Yen")
 * [2024 in review](https://www.japantimes.co.jp/tag/2024-in-review/?type=column/ "2024 in review")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
@@ -472,17 +472,17 @@ Revised June 1, 2022
 
   [![A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440205.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday")](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
 
-[South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
+[How India’s soft power led to a border deal with China](https://www.japantimes.co.jp/commentary/2024/12/15/world/india-china-border-deal-how/ "How India’s soft power led to a border deal with China")
 
-  [![South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440177.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ")](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
+  [![Indian Prime Minister Narendra Modi and Chinese leader Xi Jinping meet at the BRICS summit in Kazan, Russia, in October. India and China reached a border deal for Chinese forces to retreat from disputed territory and for India to resume border patrols.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/439003.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian Prime Minister Narendra Modi and Chinese leader Xi Jinping meet at the BRICS summit in Kazan, Russia, in October. India and China reached a border deal for Chinese forces to retreat from disputed territory and for India to resume border patrols.")](https://www.japantimes.co.jp/commentary/2024/12/15/world/india-china-border-deal-how/ "How India’s soft power led to a border deal with China")
 
-[Assad's final hours in Syria: Deception, despair and flight](https://www.japantimes.co.jp/news/2024/12/15/world/assad-final-hours-syria/ "Assad's final hours in Syria: Deception, despair and flight")
+[Latest scandal raises fresh questions about U.K.'s Prince Andrew](https://www.japantimes.co.jp/news/2024/12/15/world/prince-andrew-latest-scandal/ "Latest scandal raises fresh questions about U.K.'s Prince Andrew")
 
-  [![A damaged poster of Syria's ousted leader, Bashar Assad, in Aleppo on Nov. 30 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440198.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A damaged poster of Syria's ousted leader, Bashar Assad, in Aleppo on Nov. 30 ")](https://www.japantimes.co.jp/news/2024/12/15/world/assad-final-hours-syria/ "Assad's final hours in Syria: Deception, despair and flight")
+  [![Queen Elizabeth II and Prince Andrew leave after Prince Philip's Thanksgiving Service at Westminster Abbey in March 2022. Revelations that a suspected Chinese spy became a confidant of Britain's Prince Andrew is renewing scrutiny of King Charles' disgraced brother.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440344.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Queen Elizabeth II and Prince Andrew leave after Prince Philip's Thanksgiving Service at Westminster Abbey in March 2022. Revelations that a suspected Chinese spy became a confidant of Britain's Prince Andrew is renewing scrutiny of King Charles' disgraced brother.")](https://www.japantimes.co.jp/news/2024/12/15/world/prince-andrew-latest-scandal/ "Latest scandal raises fresh questions about U.K.'s Prince Andrew")
 
-[U.S. Marines begin to relocate from Okinawa to Guam](https://www.japantimes.co.jp/news/2024/12/14/japan/okinawa-marines-guam-relocation/ "U.S. Marines begin to relocate from Okinawa to Guam")
+[Women are writing a new chapter in Japanese literature in the 2020s](https://www.japantimes.co.jp/culture/2024/12/15/books/japanese-literature-translation/ "Women are writing a new chapter in Japanese literature in the 2020s")
 
-  [![U.S. Marine Corps Air Station Futenma in Ginowan, Okinawa Prefecture, in 2021](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440174.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. Marine Corps Air Station Futenma in Ginowan, Okinawa Prefecture, in 2021")](https://www.japantimes.co.jp/news/2024/12/14/japan/okinawa-marines-guam-relocation/ "U.S. Marines begin to relocate from Okinawa to Guam")
+  [!["Butter," Asako Yuzuki’s thrilling novel inspired by a real-life femme fatale, was named the Waterstones Book of the Year in 2024.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440024.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 ""Butter," Asako Yuzuki’s thrilling novel inspired by a real-life femme fatale, was named the Waterstones Book of the Year in 2024.")](https://www.japantimes.co.jp/culture/2024/12/15/books/japanese-literature-translation/ "Women are writing a new chapter in Japanese literature in the 2020s")
 
 [Women are writing a new chapter in Japanese literature in the 2020s](https://www.japantimes.co.jp/culture/2024/12/15/books/japanese-literature-translation/ "Women are writing a new chapter in Japanese literature in the 2020s")
 
@@ -523,9 +523,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Philippines ratifies key defense pact with Japan](https://www.japantimes.co.jp/news/2024/12/16/japan/philippines-ratify-japan-defense-pact/ "Philippines ratifies key defense pact with Japan")
+
+3 hours ago
+
+[Emperor and empress to attend Hanshin Quake Memorial on anniversary](https://www.japantimes.co.jp/news/2024/12/16/japan/emperor-empress-hanshin-earthquake/ "Emperor and empress to attend Hanshin Quake Memorial on anniversary")
+
+4 hours ago
+
+[DPP tax chief hints at termination of talks with Japan's ruling bloc](https://www.japantimes.co.jp/news/2024/12/16/japan/politics/dpp-tax-talks-terminate/ "DPP tax chief hints at termination of talks with Japan's ruling bloc")
+
+6 hours ago
+
 [Bashar Assad's prisoner #3006 tells his story](https://www.japantimes.co.jp/news/2024/12/16/world/assad-prisoner-no-3006-story/ "Bashar Assad's prisoner #3006 tells his story")
 
-28 mins ago
+6 hours ago
 
 [Finance Ministry official arrested over alleged 'upskirting' photo](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-official-upskirting-arrest/ "Finance Ministry official arrested over alleged 'upskirting' photo")
 
-38 mins ago
-
-[Extradition of India's Gautam Adani seems unlikely, experts say](https://www.japantimes.co.jp/business/2024/12/16/companies/us-india-adani-extradition/ "Extradition of India's Gautam Adani seems unlikely, experts say")
-
-50 mins ago
-
-[MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/mufg-hanzawa-safe/ "MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes")
-
-59 mins ago
-
-[Inside South Korea's right-wing YouTube world openly embraced by Yoon](https://www.japantimes.co.jp/news/2024/12/16/asia-pacific/politics/south-korea-right-wing-youtube-yoon/ "Inside South Korea's right-wing YouTube world openly embraced by Yoon")
-
-1 hour ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
