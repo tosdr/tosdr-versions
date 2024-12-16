@@ -142,15 +142,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [France chooses Eviden to secure Cooperative, Intelligent Transport Systems (C-ITS)](https://atos.net/en/2024/press-release_2024_12_16/france-chooses-eviden-to-secure-cooperative-intelligent-transport-systems-c-its)
         * [Eviden ranked as a Market Leader in Analytics, AI, Data Platforms and Automation (AADA) in HFS Research Quadfecta Assessment for 2024](https://atos.net/en/2024/press-release_2024_12_12/eviden-ranked-as-a-market-leader-in-analytics-ai-data-platforms-and-automation-aada-in-hfs-research-quadfecta-assessment-for-2024)
         * [NTT Group Chooses Evidian Identity Governance & Administration as the Cornerstone of their Identity Management Infrastructure in Japan](https://atos.net/en/2024/press-release_2024_12_10/ntt-group-chooses-evidian-identity-governance-administration-as-the-cornerstone-of-their-identity-management-infrastructure-in-japan)
-        * [Atos ranked as a Leader in ISG’s report Mainframes – Services and Solutions in Europe](https://atos.net/en/2024/news_2024_12_05/atos-ranked-as-a-leader-in-isgs-report-mainframes-services-and-solutions-in-europe)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Dec 12, 2024
+        Dec 16, 2024
         
-        ### Eviden ranked as a Market Leader in Analytics, AI, Data Platforms and Automation (AADA) in HFS Research Quadfecta Assessment for 2024
+        ### France chooses Eviden to secure Cooperative, Intelligent Transport Systems (C-ITS)
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
