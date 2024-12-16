@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![OS News Centre HERO (1336 × 560px) (1)](/siteassets/resources/images/-news-centre/body-images/2024/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/os-news-centre-hero-1336--560px-1.jpg?width=1920&height=1085&quality=80)
+
+### Time for tech firms to act: UK online safety regulation comes into force
+
+16 December 2024](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/time-for-tech-firms-to-act-uk-online-safety-regulation-comes-into-force/)
+
 [![Elderly lady with a concerned look listening to a call on her home telephone](/siteassets/resources/images/-news-centre/thumbnail-images/phones/elderly-lady-concerned-on-home-telephone.jpg?width=1920&height=1085&quality=80)
 
 ### What is ‘line rental’? Why do I have to pay it?
@@ -150,12 +156,6 @@
 ### Ultrafast broadband and landline bundles see biggest price drop in 2024
 
 12 December 2024](https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/ultrafast-broadband-and-landline-bundles-see-biggest-price-drop-in-2024/)
-
-[![Channel 4 logo](/siteassets/resources/images/-news-centre/body-images/2024/new-ten-year-public-service-broadcast-licence-for-channel-4/c4-indent-web.jpg?width=1920&height=1085&quality=80)
-
-### Channel 4 Statement
-
-10 December 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/channel-4-statement/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/?language=cy)
 
