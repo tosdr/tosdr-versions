@@ -295,7 +295,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Кравцов](https://er.ru/activity/news?tags%5B0%5D=38915) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#строительствошкол](https://er.ru/activity/news?tags%5B0%5D=108885) [#детскиесады](https://er.ru/activity/news?tags%5B0%5D=107844) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 14:40
+16.12.24
 
 [![Будем воплощать: «Единая Россия» исполнит мечты детей - участников акции «Ёлка желаний»](https://cdn.er.ru/media/news/December2024/S7gFQF5aFf1WuG6MBL0Q-small.JPG)](https://er.ru/activity/news/budem-voploshat-edinaya-rossiya-ispolnit-mechty-detej-uchastnikov-akcii-yolka-zhelanij)
 
@@ -303,7 +303,7 @@
 
 [#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Грызлов](https://er.ru/activity/news?tags%5B0%5D=68) [#акция](https://er.ru/activity/news?tags%5B0%5D=122836) [#елкажеланий](https://er.ru/activity/news?tags%5B0%5D=142041) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#новыйгод](https://er.ru/activity/news?tags%5B0%5D=99117)
 
-Сегодня 14:17
+16.12.24
 
 [![Алёна Аршинова: По проекту «Единой России» «Парта Героя» открыто 22 тысячи парт](https://cdn.er.ru/media/news/December2024/8TnHzC6rEVdeLQAvyNBU-small.jpg)](https://er.ru/activity/news/alyona-arshinova-po-proektu-edinoj-rossii-parta-geroya-otkryto-22-tysyachi-part)
 
@@ -311,7 +311,7 @@
 
 [#Аршинова](https://er.ru/activity/news?tags%5B0%5D=3886) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#новаяшкола](https://er.ru/activity/news?tags%5B0%5D=109372) [#ЛицаГероев](https://er.ru/activity/news?tags%5B0%5D=1093607) [#ПартаГероя](https://er.ru/activity/news?tags%5B0%5D=1091818)
 
-Сегодня 11:55
+16.12.24
 
 [![В «Единой России» предложили инициативы по усилению контроля за капремонтом и строительством школ](https://cdn.er.ru/media/news/December2024/4NnExge5d7NXgfzeZ8em-small.jpg)](https://er.ru/activity/news/v-edinoj-rossii-predlozhili-iniciativy-po-usileniyu-kontrolya-za-kapremontom-i-stroitelstvom-shkol)
 
@@ -319,7 +319,7 @@
 
 [#Федорищев](https://er.ru/activity/news?tags%5B0%5D=1095521) [#Самарская область](https://er.ru/activity/news?tags%5B0%5D=2275) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#школы](https://er.ru/activity/news?tags%5B0%5D=121418) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637) [#детскиесады](https://er.ru/activity/news?tags%5B0%5D=107844)
 
-Сегодня 11:40
+16.12.24
 
 [![Сергей Кравцов: Работа «Единой России» и Минпросвещения позволила превысить показатели по строительству новых школ](https://cdn.er.ru/media/news/December2024/XWBOV3qIeeFupgoBxiKL-small.JPG)](https://er.ru/activity/news/sergej-kravcov-rabota-edinoj-rossii-i-minprosvesheniya-pozvolila-prevysit-pokazateli-po-stroitelstvu-novyh-shkol)
 
@@ -327,7 +327,7 @@
 
 [#Кравцов](https://er.ru/activity/news?tags%5B0%5D=38915) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 10:55
+16.12.24
 
 [![Владимир Якушев: Приоритетом «Единой России» на ближайшие годы станет выполнение поручения по капремонту всех школ, где это необходимо](https://cdn.er.ru/media/news/December2024/lPhHWdFqla3PNCYCFUA6-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-prioritetom-edinoj-rossii-na-blizhajshie-gody-stanet-vypolnenie-porucheniya-po-kapremontu-vseh-shkol-gde-eto-neobhodimo)
 
@@ -335,7 +335,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#детскиесады](https://er.ru/activity/news?tags%5B0%5D=107844) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 10:39
+16.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
