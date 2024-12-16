@@ -410,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If you can't make a mistake, you can't make anything”
+“ From what we get, we can make a living; what we give, however, makes a life”
 
-[Marva Collins](https://en.wikipedia.org/wiki/Marva_Collins)
+[Arthur Ashe](https://en.wikipedia.org/wiki/Arthur_Ashe)
 
 [](https://www.adafruit.com/about)
 
