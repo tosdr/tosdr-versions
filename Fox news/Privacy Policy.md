@@ -314,36 +314,36 @@
 
 This material may not be published, broadcast, rewritten, or redistributed. ©2024 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by [Factset](https://go.factset.com/legal). Powered and implemented by [FactSet Digital Solutions](https://www.factset.com/solutions/digital-solutions). [Legal Statement](https://www.factset.com/privacy). Mutual Fund and ETF data provided by [Refinitiv Lipper](https://lipperalpha.refinitiv.com/).
 
-     [![GOP lawmaker throws AOC a bone with powerful committee endorsement, explains why - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/720/405/fa9d929ec809944dac680f19c215061a.jpg?tl=1&ve=1)
+     [![GOP lawmaker throws AOC a bone with powerful committee endorsement, explains why - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/720/405/8460263ca57679e68b9516f0324997f7.jpg?tl=1&ve=1)
 
 UNLIKELY ALLIANCE](https://www.foxnews.com/media/gop-house-oversight-chair-backs-dem-squad-member-ranking-member-role-best-got)
 
 ### [GOP lawmaker throws AOC a bone with powerful committee endorsement, explains why](https://www.foxnews.com/media/gop-house-oversight-chair-backs-dem-squad-member-ranking-member-role-best-got)
 
-     [![Two men arrested for allegedly flying drone in dangerous spot, third suspect flees - Fox News](https://a57.foxnews.com/livenews.foxnews.com/images/2024/12/343/193/22bad8a7878d7c7cc153610ba8336b28.jpg?tl=1&ve=1&tl=1&ve=1)
+     [![ABC News host quits X, goes silent on his $15M mistake regarding Trump - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/b67baa73a1218c47152a3786cb97415a.png?tl=1&ve=1)
 
-FLIGHT RISK](https://www.foxnews.com/live-news/drones-new-jersey-sightings-mystery-12-15)LIVE UPDATES
+BYE, GEORGE](https://www.foxnews.com/media/george-stephanopoulos-doesnt-mention-abc-news-settlement-trumps-defamation-lawsuit-his-sunday-show)
 
-### [Two men arrested for allegedly flying drone in dangerous spot, third suspect flees](https://www.foxnews.com/live-news/drones-new-jersey-sightings-mystery-12-15)
+### [ABC News host quits X, goes silent on his $15M mistake regarding Trump](https://www.foxnews.com/media/george-stephanopoulos-doesnt-mention-abc-news-settlement-trumps-defamation-lawsuit-his-sunday-show)
+
+3 min read
+
+     [![Russian soldiers killed by North Koreans after enlisting them for help, Ukraine says - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/1e3caed602b30c1d2f6f45f5312f1c2c.jpg?tl=1&ve=1)
+
+FRIENDLY FIRE](https://www.foxnews.com/world/russian-paramilitary-soldiers-killed-friendly-fire-attack-north-koreans-after-enlisting-dprk-help)
+
+### [Russian soldiers killed by North Koreans after enlisting them for help, Ukraine says](https://www.foxnews.com/world/russian-paramilitary-soldiers-killed-friendly-fire-attack-north-koreans-after-enlisting-dprk-help)
+
+3 min read
+
+[Video
+
+EYES WIDE OPEN](https://www.foxnews.com/video/6366044534112)WATCH
+
+### [Trump team aims to restore trust as Biden admin dismisses Americans' fears over drones](https://www.foxnews.com/video/6366044534112)
 
 * [Biden admin’s statements reveal truth about drones, former CIA officer alleges](https://www.foxnews.com/us/nj-drone-sightings-could-classified-exercise-former-cia-officer)
 * [Feds toss drone blame at Americans](https://www.foxnews.com/us/biden-administration-officials-downplay-concerns-drone-sightings-slight-overreaction)
-
-     [![Consequences could come fast after lawmakers fail to release emergency spending bill details - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/bcc802a4a8115cd9587e0afa9747916b.jpg?tl=1&ve=1)
-
-TICK TOCK](https://www.foxnews.com/politics/lawmakers-may-slip-day-releasing-text-emergency-spending-bill-days-before-deadline)
-
-### [Consequences could come fast after lawmakers fail to release emergency spending bill details](https://www.foxnews.com/politics/lawmakers-may-slip-day-releasing-text-emergency-spending-bill-days-before-deadline)
-
-4 min read
-
-     [![Dolphins wide receiver needs his jersey cut off after scary head injury on bad hit - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/343/193/grant-dubose.jpg?tl=1&ve=1)
-
-CARTED OFF](https://www.foxnews.com/sports/dolphins-grant-dubose-needs-jersey-cut-off-leaves-game-stretcher-after-scary-hit-vs-texans)sports
-
-### [Dolphins wide receiver needs his jersey cut off after scary head injury on bad hit](https://www.foxnews.com/sports/dolphins-grant-dubose-needs-jersey-cut-off-leaves-game-stretcher-after-scary-hit-vs-texans)
-
-3 min read
 
      [![Trump's cost cutters drop hints about what's first on the chopping block - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/6cf2101fc7b7c3aa589421fe40d732de.jpg?tl=1&ve=1)
 
@@ -353,21 +353,29 @@ WASTE MANAGEMENT](https://www.foxbusiness.com/politics/elon-musk-vivek-ramaswamy
 
 6 min read
 
+     [![Socialist apparel brand to launch disturbing 'most-wanted CEO' playing cards - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/1827a532c8a668be8d16bf103ba329b9.png?tl=1&ve=1)
+
+BAD DEAL](https://www.foxbusiness.com/economy/socialist-fashion-brand-launch-most-wanted-ceos-playing-cards-wake-brian-thompson-murder)
+
+### [Socialist apparel brand to launch disturbing 'most-wanted CEO' playing cards](https://www.foxbusiness.com/economy/socialist-fashion-brand-launch-most-wanted-ceos-playing-cards-wake-brian-thompson-murder)
+
+4 min read
+
+     [![Chiefs give injury update after Patrick Mahomes gets crushed while making a pass - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/343/193/patrick-mahomes-.jpg?tl=1&ve=1)
+
+'HEAL' MARY](https://www.foxnews.com/sports/chiefs-give-injury-update-patrick-mahomes-after-getting-shaken-up-win-over-browns)sports
+
+### [Chiefs give injury update after Patrick Mahomes gets crushed while making a pass](https://www.foxnews.com/sports/chiefs-give-injury-update-patrick-mahomes-after-getting-shaken-up-win-over-browns)
+
+3 min read
+
      [![Sylvester Stallone blindsides, angers neighbors with request to protect $35M mansion - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/d7387e1fa0ad6b47dd446aa53a7e82cc.jpg?tl=1&ve=1)
 
-ROCKING THE BOAT](https://www.foxnews.com/entertainment/sylvester-stallone-angers-palm-beach-neighbors-unique-request-protect-35-million-mansion)entertainment
+ROCKY WATERS](https://www.foxnews.com/entertainment/sylvester-stallone-angers-palm-beach-neighbors-unique-request-protect-35-million-mansion)entertainment
 
 ### [Sylvester Stallone blindsides, angers neighbors with request to protect $35M mansion](https://www.foxnews.com/entertainment/sylvester-stallone-angers-palm-beach-neighbors-unique-request-protect-35-million-mansion)
 
 5 min read
-
-     [![Retired four-star general pulls back the curtain on Trump’s ‘huge opportunity’ to top Biden - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/57786b46bb3c5f09c4177a3efdaa098b.jpg?tl=1&ve=1)
-
-SHADOW OF TERROR](https://www.foxnews.com/world/trump-once-stopped-erdogan-attacks-us-backed-kurds-syria-has-opportunity-do-again-jack-keane)
-
-### [Retired four-star general pulls back the curtain on Trump’s ‘huge opportunity’ to top Biden](https://www.foxnews.com/world/trump-once-stopped-erdogan-attacks-us-backed-kurds-syria-has-opportunity-do-again-jack-keane)
-
-7 min read
 
      [![Taylor Swift remarks on 49ers' star QB: 'He put me through a lot last February' - Fox News](//a57.foxnews.com/prod-hp.foxnews.com/images/2024/12/343/193/bd5da9d82f604ca8f8c77ebe48523688.jpg?tl=1&ve=1)
 
@@ -376,14 +384,6 @@ SHADOW OF TERROR](https://www.foxnews.com/world/trump-once-stopped-erdogan-attac
 ### [Taylor Swift remarks on 49ers' star QB: 'He put me through a lot last February'](https://www.foxnews.com/sports/taylor-swift-remarks-49ers-brock-purdy-he-put-me-through-lot-last-february)
 
 3 min read
-
-     [![Belichick's former players don't mince words on his decision to coach at UNC - Fox News](//a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/12/343/193/a1ad08c0-bill-belichick2.jpg?tl=1&ve=1)
-
-CHAPEL 'BILL'](https://www.foxnews.com/sports/bill-belichicks-former-players-speak-out-after-coachs-shocking-decision-take-north-carolina-job)sports
-
-### [Belichick's former players don't mince words on his decision to coach at UNC](https://www.foxnews.com/sports/bill-belichicks-former-players-speak-out-after-coachs-shocking-decision-take-north-carolina-job)
-
-4 min read
 
 [Video
 
@@ -426,7 +426,7 @@ Christmas
 
 [](https://www.foxnews.com/video/5614615980001)
 
-### [WATCH LIVE: Commentary on the week’s biggest stories on ‘Life, Liberty & Levin’](https://www.foxnews.com/video/5614615980001)
+### [WATCH LIVE: Today’s top stories on ‘Fox News Sunday’](https://www.foxnews.com/video/5614615980001)
 
      [![Who is Alina Habba? The fiery attorney Trump tapped as counselor to the president - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/who-alina-habba-trumps-fierce-legal-defender-picked-serve-counselor-president)
 
@@ -434,41 +434,41 @@ Christmas
 
 [DONALD TRUMP](https://www.foxnews.com/category/person/donald-trump) 11 min read
 
-      [![Chiefs give injury update after star QB gets crushed while making a pass - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/chiefs-give-injury-update-patrick-mahomes-after-getting-shaken-up-win-over-browns)sports
-
-### [Chiefs give injury update after star QB gets crushed while making a pass](https://www.foxnews.com/sports/chiefs-give-injury-update-patrick-mahomes-after-getting-shaken-up-win-over-browns)
-
-[KANSAS CITY CHIEFS](https://www.foxnews.com/category/sports/nfl/kansas-city-chiefs) 3 min read
-
      [![Accused Ivy League killer stuns court with game-changing legal defense move - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/unitedhealthcare-ceo-killing-suspect-retains-high-powered-new-york-attorney)
 
 ### [Accused Ivy League killer stuns court with game-changing legal defense move](https://www.foxnews.com/us/unitedhealthcare-ceo-killing-suspect-retains-high-powered-new-york-attorney)
 
 [NEW YORK CITY](https://www.foxnews.com/category/us/new-york-city) 4 min read
 
-[Video](https://www.foxnews.com/video/6366034745112) watch
+     [![Liberals flip out after ABC settles Trump defamation lawsuit: 'He is on a roll' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/liberals-unload-abcs-settlement-trump-defend-george-stephanopoulos-knee-bent-ring-kissed)
 
-### [Former FBI official weighs in on if something 'nefarious' brewing with mystery drones](https://www.foxnews.com/video/6366034745112)
+### [Liberals flip out after ABC settles Trump defamation lawsuit: 'He is on a roll'](https://www.foxnews.com/media/liberals-unload-abcs-settlement-trump-defend-george-stephanopoulos-knee-bent-ring-kissed)
 
-[fox news live](https://www.foxnews.com/video)
+[MEDIA](https://www.foxnews.com/category/media) 5 min read
+
+[Video](https://www.foxnews.com/video/6366048297112) WATCH
+
+### [Expert says voters are dumping progressive DAs as frustration grows with their 'woke' agendas](https://www.foxnews.com/video/6366048297112)
+
+[sunday night in america](https://www.foxnews.com/video)
+
+     [![Bernie Sanders outlines what policy he looks forward to working with Trump on - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/bernie-sanders-believes-hunter-biden-pardon-sets-dangerous-precedent)
+
+### [Bernie Sanders outlines what policy he looks forward to working with Trump on](https://www.foxnews.com/politics/bernie-sanders-believes-hunter-biden-pardon-sets-dangerous-precedent)
+
+[POLITICS](https://www.foxnews.com/category/politics) 3 min read
+
+      [![Belichick's former players don't mince words on his decision to coach at UNC - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/bill-belichicks-former-players-speak-out-after-coachs-shocking-decision-take-north-carolina-job)sports
+
+### [Belichick's former players don't mince words on his decision to coach at UNC](https://www.foxnews.com/sports/bill-belichicks-former-players-speak-out-after-coachs-shocking-decision-take-north-carolina-job)
+
+[NORTH CAROLINA TAR HEELS](https://www.foxnews.com/category/sports/ncaa/north-carolina-tar-heels) 4 min read
 
       [![Artifact with out-of-place inscription found sticking out of dirt at holy site in Israel - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/lifestyle/artifact-strange-inscription-dug-holy-site-jerusalem-unusual-location)lifestyle
 
 ### [Artifact with out-of-place inscription found sticking out of dirt at holy site in Israel](https://www.foxnews.com/lifestyle/artifact-strange-inscription-dug-holy-site-jerusalem-unusual-location)
 
 [ARCHAEOLOGY](https://www.foxnews.com/category/science/archaeology) 4 min read
-
-     [![Stephanopoulos skips news about network's settlement with Trump - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/george-stephanopoulos-doesnt-mention-abc-news-settlement-trumps-defamation-lawsuit-his-sunday-show)
-
-### [Stephanopoulos skips news about network's settlement with Trump](https://www.foxnews.com/media/george-stephanopoulos-doesnt-mention-abc-news-settlement-trumps-defamation-lawsuit-his-sunday-show)
-
-[MEDIA](https://www.foxnews.com/category/media) 3 min read
-
-     [![Presents to keep kids present this holiday season - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/media/top-toys-presents-keep-kids-present-holiday-season)
-
-### [TOP TOYS: Presents to keep kids present this holiday season](https://www.foxbusiness.com/media/top-toys-presents-keep-kids-present-holiday-season)
-
-[LIFESTYLE](https://www.foxbusiness.com/tag/lifestyle) 4 min read
 
 [](https://www.foxnews.com/games)
 
@@ -486,29 +486,29 @@ Christmas
 
 [ENTERTAINMENT](https://www.foxnews.com/category/entertainment) 5 min read
 
+      [![49ers likely to suspend star player for rest of the season over refusal to enter game - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/49ers-devondre-campbells-refusal-enter-game-likely-lead-suspension-report)sports
+
+### [49ers likely to suspend star player for rest of the season over refusal to enter game](https://www.foxnews.com/sports/49ers-devondre-campbells-refusal-enter-game-likely-lead-suspension-report)
+
+[SAN FRANCISCO 49ERS](https://www.foxnews.com/category/sports/nfl/san-francisco-49ers) 3 min read
+
      [![Mob terrorizes innocent drivers as 'intersection takeover' descends into fiery chaos - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/fiery-chaos-florida-intersection-sheriffs-office-searching-dozens-suspects)
 
 ### [Mob terrorizes innocent drivers as 'intersection takeover' descends into fiery chaos](https://www.foxnews.com/us/fiery-chaos-florida-intersection-sheriffs-office-searching-dozens-suspects)
 
 [FLORIDA](https://www.foxnews.com/category/us/us-regions/southeast/florida) 3 min read
 
-      [![What Kevin Costner told the cast of 'Yellowstone' at their first meeting - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/kevin-costner-told-yellowstone-cast-he-scared-hell-shows-first-table-read)entertainment
+     [![Consequences could come fast after lawmakers fail to release emergency spending bill details - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/lawmakers-may-slip-day-releasing-text-emergency-spending-bill-days-before-deadline)
 
-### [What Kevin Costner told the cast of 'Yellowstone' at their first meeting](https://www.foxnews.com/entertainment/kevin-costner-told-yellowstone-cast-he-scared-hell-shows-first-table-read)
+### [Consequences could come fast after lawmakers fail to release emergency spending bill details](https://www.foxnews.com/politics/lawmakers-may-slip-day-releasing-text-emergency-spending-bill-days-before-deadline)
 
-[ENTERTAINMENT](https://www.foxnews.com/category/entertainment) 4 min read
+[DISASTER RESPONSE](https://www.foxnews.com/category/us/disasters/disaster-response) 4 min read
 
-     [![Liberals flip out after ABC settles Trump defamation lawsuit: 'He is on a roll' - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/liberals-unload-abcs-settlement-trump-defend-george-stephanopoulos-knee-bent-ring-kissed)
+     [![Dangers of Biden's policy on full display as ICE arrests murder suspect released on parole - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/ice-arrests-previously-caught-released-senegalese-illegal-immigrant-wanted-murder-brazil)
 
-### [Liberals flip out after ABC settles Trump defamation lawsuit: 'He is on a roll'](https://www.foxnews.com/media/liberals-unload-abcs-settlement-trump-defend-george-stephanopoulos-knee-bent-ring-kissed)
+### [Dangers of Biden's policy on full display as ICE arrests murder suspect released on parole](https://www.foxnews.com/us/ice-arrests-previously-caught-released-senegalese-illegal-immigrant-wanted-murder-brazil)
 
-[MEDIA](https://www.foxnews.com/category/media) 5 min read
-
-     [![Killer doctor's son played key role in his demise as he recalls haunting sounds decades later - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/killer-doctors-son-played-key-role-demise-recalls-haunting-sounds-decades-later)
-
-### [Killer doctor's son played key role in his demise as he recalls haunting sounds decades later](https://www.foxnews.com/us/killer-doctors-son-played-key-role-demise-recalls-haunting-sounds-decades-later)
-
-[OHIO](https://www.foxnews.com/category/us/us-regions/midwest/ohio) 9 min read
+[U.S.](https://www.foxnews.com/category/us) 4 min read
 
 [](https://foxnews.com/trumptransition)
 
@@ -550,29 +550,17 @@ Christmas
 
 [TENNESSEE TITANS](https://www.foxnews.com/category/sports/nfl/tennessee-titans) 2 min read
 
+     [![Killer doctor's son played key role in his demise as he recalls haunting sounds decades later - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/killer-doctors-son-played-key-role-demise-recalls-haunting-sounds-decades-later)
+
+### [Killer doctor's son played key role in his demise as he recalls haunting sounds decades later](https://www.foxnews.com/us/killer-doctors-son-played-key-role-demise-recalls-haunting-sounds-decades-later)
+
+[OHIO](https://www.foxnews.com/category/us/us-regions/midwest/ohio) 9 min read
+
       [!['Fast Times' star spotted looking casual in Hollywood ahead of new projects - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/fast-times-ridgemont-high-star-jennifer-jason-leigh-spotted-hollywood-ahead-new-projects)entertainment
 
 ### ['Fast Times' star spotted looking casual in Hollywood ahead of new projects](https://www.foxnews.com/entertainment/fast-times-ridgemont-high-star-jennifer-jason-leigh-spotted-hollywood-ahead-new-projects)
 
 [ENTERTAINMENT](https://www.foxnews.com/category/entertainment) 4 min read
-
-      [![Brace yourself — prices for a key breakfast staple are about to get even higher - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/lifestyle/egg-prices-higher-continue-2025)lifestyle
-
-### [Brace yourself — prices for a key breakfast staple are about to get even higher](https://www.foxbusiness.com/lifestyle/egg-prices-higher-continue-2025)
-
-[Lifestyle](https://www.foxbusiness.com/category/lifestyle) 3 min read
-
-     [![Pollster whose dead-wrong Iowa survey shook up election finally speaks up - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/former-pollster-ann-selzer-hits-back-criticisms-over-iowa-poll-they-accusing-me-crime)
-
-### [Pollster whose dead-wrong Iowa survey shook up election finally speaks up](https://www.foxnews.com/media/former-pollster-ann-selzer-hits-back-criticisms-over-iowa-poll-they-accusing-me-crime)
-
-[MEDIA](https://www.foxnews.com/category/media) 4 min read
-
-      [![49ers likely to suspend star player for rest of the season over refusal to enter game - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/49ers-devondre-campbells-refusal-enter-game-likely-lead-suspension-report)sports
-
-### [49ers likely to suspend star player for rest of the season over refusal to enter game](https://www.foxnews.com/sports/49ers-devondre-campbells-refusal-enter-game-likely-lead-suspension-report)
-
-[SAN FRANCISCO 49ERS](https://www.foxnews.com/category/sports/nfl/san-francisco-49ers) 3 min read
 
       [![Jamie Foxx condemns the devil after altercation left him with stitches - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/jamie-foxx-denounces-the-devil-physical-altercation-beverly-hills-restaurant-left-him-stitches)entertainment
 
@@ -580,17 +568,23 @@ Christmas
 
 [JAMIE FOXX](https://www.foxnews.com/category/person/jamie-foxx) 4 min read
 
-     [![Former power couple's penthouse hits the market — and it's in high demand - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/fox-news-entertainment/paul-newman-joanne-woodwards-former-new-york-city-penthouse-market-nearly-10-million)
+      [![Brace yourself — prices for a key breakfast staple are about to get even higher - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/lifestyle/egg-prices-higher-continue-2025)lifestyle
 
-### [Former power couple's penthouse hits the market — and it's in high demand](https://www.foxbusiness.com/fox-news-entertainment/paul-newman-joanne-woodwards-former-new-york-city-penthouse-market-nearly-10-million)
+### [Brace yourself — prices for a key breakfast staple are about to get even higher](https://www.foxbusiness.com/lifestyle/egg-prices-higher-continue-2025)
 
-[ENTERTAINMENT](https://www.foxbusiness.com/tag/entertainment) 4 min read
+[Lifestyle](https://www.foxbusiness.com/category/lifestyle) 3 min read
 
-     [![Top NYC mayor adviser resigns suddenly, ditching 'brother' Adams after phone seizure - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/top-advisor-nyc-mayor-eric-adams-abruptly-resigns-amid-federal-investigation)
+      [![Dolphins wide receiver needs his jersey cut off after scary head injury on bad hit - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/dolphins-grant-dubose-needs-jersey-cut-off-leaves-game-stretcher-after-scary-hit-vs-texans)sports
 
-### [Top NYC mayor adviser resigns suddenly, ditching 'brother' Adams after phone seizure](https://www.foxnews.com/politics/top-advisor-nyc-mayor-eric-adams-abruptly-resigns-amid-federal-investigation)
+### [Dolphins wide receiver needs his jersey cut off after scary head injury on bad hit](https://www.foxnews.com/sports/dolphins-grant-dubose-needs-jersey-cut-off-leaves-game-stretcher-after-scary-hit-vs-texans)
 
-[NEW YORK CITY](https://www.foxnews.com/category/us/new-york-city) 4 min read
+[MIAMI DOLPHINS](https://www.foxnews.com/category/sports/nfl/miami-dolphins) 3 min read
+
+     [![Pollster whose dead-wrong Iowa survey shook up election finally speaks up - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/former-pollster-ann-selzer-hits-back-criticisms-over-iowa-poll-they-accusing-me-crime)
+
+### [Pollster whose dead-wrong Iowa survey shook up election finally speaks up](https://www.foxnews.com/media/former-pollster-ann-selzer-hits-back-criticisms-over-iowa-poll-they-accusing-me-crime)
+
+[MEDIA](https://www.foxnews.com/category/media) 4 min read
 
      [![Viewers prove critics wrong as uplifting movie hits 98 percent approval - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/author-books-inspired-reagan-movie-reflects-wild-disparity-between-critics-audience-reviews)
 
@@ -598,23 +592,29 @@ Christmas
 
 [MEDIA](https://www.foxnews.com/category/media) 5 min read
 
-     [![What the billionaire rap mogul stands to lose as he faces sexual assault accusation - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/jay-zs-empire-what-billionaire-stands-lose-he-faces-sexual-assault-accusation)
+     [![Retired four-star general pulls back the curtain on Trump’s ‘huge opportunity’ to top Biden - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/trump-once-stopped-erdogan-attacks-us-backed-kurds-syria-has-opportunity-do-again-jack-keane)
 
-### [What the billionaire rap mogul stands to lose as he faces sexual assault accusation](https://www.foxnews.com/entertainment/jay-zs-empire-what-billionaire-stands-lose-he-faces-sexual-assault-accusation)
+### [Retired four-star general pulls back the curtain on Trump’s ‘huge opportunity’ to top Biden](https://www.foxnews.com/world/trump-once-stopped-erdogan-attacks-us-backed-kurds-syria-has-opportunity-do-again-jack-keane)
 
-[ENTERTAINMENT](https://www.foxnews.com/category/entertainment) 5 min read
+[SYRIA](https://www.foxnews.com/category/world/conflicts/syria) 7 min read
 
-[Video](https://www.foxnews.com/video/6366032060112) WATCH
+      [![What Kevin Costner told the 'Yellowstone' cast at their first meeting to break the ice - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/entertainment/kevin-costner-told-yellowstone-cast-he-scared-hell-shows-first-table-read)entertainment
 
-### [Pete Hegseth ‘throws punches’ at mainstream media sharks circling for a takedown](https://www.foxnews.com/video/6366032060112)
+### [What Kevin Costner told the 'Yellowstone' cast at their first meeting to break the ice](https://www.foxnews.com/entertainment/kevin-costner-told-yellowstone-cast-he-scared-hell-shows-first-table-read)
 
-[VIDEO](https://www.foxnews.com/video)
+[ENTERTAINMENT](https://www.foxnews.com/category/entertainment) 4 min read
 
-     [![Bernie Sanders condemns UnitedHeathcare CEO killing, then appears to justify it - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/media/bernie-sanders-joins-list-progressives-condemning-violence-while-offering-explanation-ceo-shooting)
+     [![Recent hurricanes cause Florida citrus production to fall as farms work through damage - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/small-business/recent-hurricanes-florida-citrus-production-fall-farms-work-through-damage)
 
-### [Bernie Sanders condemns UnitedHeathcare CEO killing, then appears to justify it](https://www.foxnews.com/media/bernie-sanders-joins-list-progressives-condemning-violence-while-offering-explanation-ceo-shooting)
+### [Recent hurricanes cause Florida citrus production to fall as farms work through damage](https://www.foxbusiness.com/small-business/recent-hurricanes-florida-citrus-production-fall-farms-work-through-damage)
 
-[BERNIE SANDERS](https://www.foxnews.com/category/person/bernie-sanders) 3 min read
+[AGRICULTURE](https://www.foxbusiness.com/tag/agriculture) 4 min read
+
+     [![10 food gifts for the man in your family who's difficult to buy for this Christmas - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/food-drink/10-food-gifts-man-your-family-whos-difficult-buy-christmas)
+
+### [10 food gifts for the man in your family who's difficult to buy for this Christmas](https://www.foxnews.com/food-drink/10-food-gifts-man-your-family-whos-difficult-buy-christmas)
+
+[HOLIDAY GIFT GUIDE](https://www.foxnews.com/category/columns/holiday-gift-guide) 5 min read
 
       [![Rally cries echo in NYC as families fight for hostages' release from Hamas - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/category/topic/anti-semitism)ANTISEMITISM EXPOSED
 
@@ -718,21 +718,21 @@ Warm up with big game POT ROAST](https://www.foxnews.com/food-drink/winter-pot-r
 [OutKick](https://www.outkick.com/)
 -----------------------------------
 
-     [![A.J. Brown, Jalen Hurts Right The Ship After Drama-Filled Week - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/a-j-brown-jalen-hurts-right-ship-after-drama-filled-week)
+     [!['Yellowstone' Shocks Fans With Ending Nobody Saw Coming - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/culture/yellowstone-finale-review)
+
+### ['Yellowstone' Shocks Fans With Ending Nobody Saw Coming](https://www.outkick.com/culture/yellowstone-finale-review)
+
+### [Bills Beat Lions In A Shootout And Josh Allen Is The NFL's Best Player Right Now](https://www.outkick.com/sports/bills-beat-lions-shootout-josh-allen-nfls-best-player-right-now)
+
+   [![Bills Beat Lions In A Shootout And Josh Allen Is The NFL&apos;s Best Player Right Now - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/bills-beat-lions-shootout-josh-allen-nfls-best-player-right-now)
 
 ### [A.J. Brown, Jalen Hurts Right The Ship After Drama-Filled Week](https://www.outkick.com/sports/a-j-brown-jalen-hurts-right-ship-after-drama-filled-week)
+
+   [![PHILADELPHIA, PENNSYLVANIA - DECEMBER 15: Jalen Hurts #1 of the Philadelphia Eagles greets A.J. Brown #11 of the Philadelphia Eagles on field prior to the game against the Pittsburgh Steelers at Lincoln Financial Field on December 15, 2024 in Philadelphia, Pennsylvania. (Photo by Mitchell Leff/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/a-j-brown-jalen-hurts-right-ship-after-drama-filled-week)
 
 ### [Tampa Bay Buccaneers Looking Like Legit Contenders After Dominating Chargers](https://www.outkick.com/sports/tampa-bay-buccaneers-legit-contenders-la-chargers-nfl)
 
    [![Tampa Bay Buccaneers Looking Like Legit Contenders After Dominating Chargers - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/tampa-bay-buccaneers-legit-contenders-la-chargers-nfl)
-
-### [Calen Bullock Responds After Delivering Hit That Sent Dolphins WR Grant Dubose To Hospital](https://www.outkick.com/sports/calen-bullock-delivering-hit-dolphins-wr-grant-dubose)
-
-   [![Calen Bullock Responds After Delivering Hit That Sent Dolphins WR Grant Dubose To Hospital - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/calen-bullock-delivering-hit-dolphins-wr-grant-dubose)
-
-### [Jonathan Taylor Embarrassingly Drops Ball Before Goal Line, Costs Colts TD](https://www.outkick.com/sports/jonathan-taylor-drops-football-colts-broncos-fumble-endzone)
-
-   [![Dec 15, 2024; Denver, Colorado, USA; Indianapolis Colts running back Jonathan Taylor (28) runs the ball in the first quarter against the Denver Broncos at Empower Field at Mile High. Mandatory Credit: Isaiah J. Downing-Imagn Images - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.outkick.com/sports/jonathan-taylor-drops-football-colts-broncos-fumble-endzone)
 
 [Digital Originals](https://www.foxnews.com/category/us/digital-originals)
 --------------------------------------------------------------------------
@@ -832,9 +832,13 @@ Warm up with big game POT ROAST](https://www.foxnews.com/food-drink/winter-pot-r
 [World](https://www.foxnews.com/world)
 --------------------------------------
 
-     [![Israeli hostages' families hold Central Park rally, call on Biden, Trump to bring loved ones home - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/israeli-hostages-families-hold-central-park-rally-call-biden-trump-bring-loved-ones-home)
+     [![Russian paramilitary soldiers killed in friendly fire attack by North Koreans after enlisting DPRK help - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/russian-paramilitary-soldiers-killed-friendly-fire-attack-north-koreans-after-enlisting-dprk-help)
+
+### [Russian paramilitary soldiers killed in friendly fire attack by North Koreans after enlisting DPRK help](https://www.foxnews.com/world/russian-paramilitary-soldiers-killed-friendly-fire-attack-north-koreans-after-enlisting-dprk-help)
 
 ### [Israeli hostages' families hold Central Park rally, call on Biden, Trump to bring loved ones home](https://www.foxnews.com/world/israeli-hostages-families-hold-central-park-rally-call-biden-trump-bring-loved-ones-home)
+
+   [![Israeli hostages&apos; families hold Central Park rally, call on Biden, Trump to bring loved ones home - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/israeli-hostages-families-hold-central-park-rally-call-biden-trump-bring-loved-ones-home)
 
 ### [Mother of an American journalist imprisoned in Syria sees hope following news of Travis Timmerman's release](https://www.foxnews.com/world/mother-american-journalist-imprisoned-syria-sees-hope-following-news-travis-timmermans-release)
 
@@ -844,10 +848,6 @@ Warm up with big game POT ROAST](https://www.foxnews.com/food-drink/winter-pot-r
 
    [![A Georgia middle school teacher was arrested after allegedly threatening to cut off the head of a Muslim student who confronted him about an Israeli flag in his classroom.
 (Photo by Alex Wong/Getty Images) - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/israel-close-embassy-ireland-over-anti-israel-policies)
-
-### [Trump once stopped Erdogan attacks on US-backed Kurds in Syria, and has opportunity to do it again: Jack Keane](https://www.foxnews.com/world/trump-once-stopped-erdogan-attacks-us-backed-kurds-syria-has-opportunity-do-again-jack-keane)
-
-   [![Trump once stopped Erdogan attacks on US-backed Kurds in Syria, and has opportunity to do it again: Jack Keane - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/world/trump-once-stopped-erdogan-attacks-us-backed-kurds-syria-has-opportunity-do-again-jack-keane)
 
 [Opinion](https://www.foxnews.com/opinion)
 ------------------------------------------
@@ -966,28 +966,32 @@ Warm up with big game POT ROAST](https://www.foxnews.com/food-drink/winter-pot-r
 [Sports](https://www.foxnews.com/sports)
 ----------------------------------------
 
-     [![Chiefs give injury update on Patrick Mahomes after getting shaken up in win over Browns - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/chiefs-give-injury-update-patrick-mahomes-after-getting-shaken-up-win-over-browns)
+     [![2024 NFL Playoff Picture: Only three AFC spots remain; NFC race down to the wire - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/nfl-playoff-picture-2024)
+
+### [2024 NFL Playoff Picture: Only three AFC spots remain; NFC race down to the wire](https://www.foxnews.com/sports/nfl-playoff-picture-2024)
+
+### [College football transfer portal tracker: Penn State QB Beau Pribula enters](https://www.foxnews.com/sports/2024-college-football-transfer-portal-tracker)
+
+   [![College football transfer portal tracker: Penn State QB Beau Pribula enters - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/2024-college-football-transfer-portal-tracker)
+
+### [Josh Allen dazzles in Bills’ win over Lions in high-scoring bout](https://www.foxnews.com/sports/josh-allen-dazzles-bills-win-over-lions-high-scoring-bout)
+
+   [![Buffalo Bills quarterback Josh Allen (17) scrambles out of the pocket against the Detroit Lions in the first quarter at Ford Field. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/josh-allen-dazzles-bills-win-over-lions-high-scoring-bout)
 
 ### [Chiefs give injury update on Patrick Mahomes after getting shaken up in win over Browns](https://www.foxnews.com/sports/chiefs-give-injury-update-patrick-mahomes-after-getting-shaken-up-win-over-browns)
 
-### [Bill Belichick's former players speak out after coach's shocking decision to take North Carolina job](https://www.foxnews.com/sports/bill-belichicks-former-players-speak-out-after-coachs-shocking-decision-take-north-carolina-job)
-
-   [![New North Carolina head football coach Bill Belichick speaks to the crowd at Dean Smith Center during halftime of an NCAA college basketball game between La Salle and North Carolina in Chapel Hill, N.C., Saturday, Dec. 14, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/bill-belichicks-former-players-speak-out-after-coachs-shocking-decision-take-north-carolina-job)
-
-### [Ravens star Lamar Jackson launches 5 touchdowns to destroy Giants](https://www.foxnews.com/sports/ravens-star-lamar-jackson-launches-5-touchdowns-destroy-giants)
-
-   [![Baltimore Ravens quarterback Lamar Jackson (8) drops back to pass during the second half against the New York Giants at MetLife Stadium. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/ravens-star-lamar-jackson-launches-5-touchdowns-destroy-giants)
-
-### [College football coaching carousel and changes tracker: New Mexico hires Jason Eck as HC](https://www.foxnews.com/sports/college-football-coaching-changes-tracker)
-
-   [![College football coaching carousel and changes tracker: New Mexico hires Jason Eck as HC - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/college-football-coaching-changes-tracker)
+   [![Kansas City Chiefs quarterback Patrick Mahomes (15) throws a pass during the second half against the Cleveland Browns at Huntington Bank Field. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/sports/chiefs-give-injury-update-patrick-mahomes-after-getting-shaken-up-win-over-browns)
 
 [U.S.](https://www.foxnews.com/us)
 ----------------------------------
 
-     [![Fiery chaos at Florida intersection has sheriff's office searching for dozens of suspects - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/fiery-chaos-florida-intersection-sheriffs-office-searching-dozens-suspects)
+     [![ICE arrests previously caught and released Senegalese illegal immigrant wanted for murder in Brazil - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/ice-arrests-previously-caught-released-senegalese-illegal-immigrant-wanted-murder-brazil)
+
+### [ICE arrests previously caught and released Senegalese illegal immigrant wanted for murder in Brazil](https://www.foxnews.com/us/ice-arrests-previously-caught-released-senegalese-illegal-immigrant-wanted-murder-brazil)
 
 ### [Fiery chaos at Florida intersection has sheriff's office searching for dozens of suspects](https://www.foxnews.com/us/fiery-chaos-florida-intersection-sheriffs-office-searching-dozens-suspects)
+
+   [![Fiery chaos at Florida intersection has sheriff&apos;s office searching for dozens of suspects - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/fiery-chaos-florida-intersection-sheriffs-office-searching-dozens-suspects)
 
 ### [NJ drone sightings could be a 'classified exercise': former CIA officer](https://www.foxnews.com/us/nj-drone-sightings-could-classified-exercise-former-cia-officer)
 
@@ -996,10 +1000,6 @@ Warm up with big game POT ROAST](https://www.foxnews.com/food-drink/winter-pot-r
 ### [Shooting at pop-up party in Houston leaves 2 teenagers dead, others wounded: police](https://www.foxnews.com/us/shooting-pop-up-party-houston-leaves-2-teenagers-dead-others-wounded-police)
 
    [![Members of the Houston Police Department hold a press briefing after a shooting in the 10100 block of Jensen Drive. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/shooting-pop-up-party-houston-leaves-2-teenagers-dead-others-wounded-police)
-
-### [Suzanne Simpson's DNA found on murder suspect husband's saw that can cut metal](https://www.foxnews.com/us/suzanne-simpson-dna-found-murder-suspect-husbands-saw-that-can-cut-metal)
-
-   [![Brad Simpson appeared in court to face murder charges in his wife&apos;s disappearance. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/suzanne-simpson-dna-found-murder-suspect-husbands-saw-that-can-cut-metal)
 
 [Family](https://www.foxnews.com/family)
 ----------------------------------------
@@ -1084,21 +1084,21 @@ iStock - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https:
 [Business](https://www.foxbusiness.com/)
 ----------------------------------------
 
-     [![Egg prices are higher and will continue into 2025 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/lifestyle/egg-prices-higher-continue-2025)
+     [![Recent hurricanes cause Florida citrus production to fall as farms work through damage - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/small-business/recent-hurricanes-florida-citrus-production-fall-farms-work-through-damage)
+
+### [Recent hurricanes cause Florida citrus production to fall as farms work through damage](https://www.foxbusiness.com/small-business/recent-hurricanes-florida-citrus-production-fall-farms-work-through-damage)
+
+### [Socialist fashion brand to launch 'most-wanted CEOs' playing cards in wake of Brian Thompson murder](https://www.foxbusiness.com/economy/socialist-fashion-brand-launch-most-wanted-ceos-playing-cards-wake-brian-thompson-murder)
+
+   [![Comrade Workwear is planning to launch &quot;most-wanted CEO playing cards&quot; in the wake of Brian Thompson&apos;s murder. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/economy/socialist-fashion-brand-launch-most-wanted-ceos-playing-cards-wake-brian-thompson-murder)
 
 ### [Egg prices are higher and will continue into 2025](https://www.foxbusiness.com/lifestyle/egg-prices-higher-continue-2025)
+
+   [![In the hands of a woman packing eggs in the supermarket - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/lifestyle/egg-prices-higher-continue-2025)
 
 ### [More Americans have brighter outlook on state of finances for next year: survey](https://www.foxbusiness.com/personal-finance/more-americans-have-bright-outlook-state-finances-coming-year-survey)
 
    [![Close up of a young woman doing her bills in the kitchen - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/personal-finance/more-americans-have-bright-outlook-state-finances-coming-year-survey)
-
-### [Elon Musk and Vivek Ramaswamy point to DOGE targets](https://www.foxbusiness.com/politics/elon-musk-vivek-ramaswamy-point-doge-targets)
-
-   [![Vivek Ramaswamy and Elon Musk. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/politics/elon-musk-vivek-ramaswamy-point-doge-targets)
-
-### [Paul Newman, Joanne Woodward's former New York City penthouse on the market for nearly $10 million](https://www.foxbusiness.com/fox-news-entertainment/paul-newman-joanne-woodwards-former-new-york-city-penthouse-market-nearly-10-million)
-
-   [![Paul Newman and Joanne Woodward&apos;s former home is on the market for $9.9 million. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxbusiness.com/fox-news-entertainment/paul-newman-joanne-woodwards-former-new-york-city-penthouse-market-nearly-10-million)
 
 [Faith & Values](https://www.foxnews.com/faith-values)
 ------------------------------------------------------
@@ -1217,9 +1217,13 @@ iStock - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https:
 [Full Episodes](https://www.foxnews.com/video/topics/latest-news-video)
 -----------------------------------------------------------------------
 
-      [![The Journal Editorial Report - Sunday, December 15 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6366042678112)
+      [![The Big Weekend Show - Sunday, December 15 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6366047713112)
+
+### [The Big Weekend Show - Sunday, December 15](https://www.foxnews.com/video/6366047713112)
 
 ### [The Journal Editorial Report - Sunday, December 15](https://www.foxnews.com/video/6366042678112)
+
+    [![The Journal Editorial Report - Sunday, December 15 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6366042678112)
 
 ### [Sunday Morning Futures w/ Maria Bartiromo - Sunday, December 15](https://www.foxnews.com/video/6366041653112)
 
@@ -1228,10 +1232,6 @@ iStock - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https:
 ### [#MediaBuzz - Sunday, December 15](https://www.foxnews.com/video/6366040983112)
 
     [![#MediaBuzz - Sunday, December 15 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6366040983112)
-
-### [One Nation with Brian Kilmeade - Saturday, December 14](https://www.foxnews.com/video/6366016801112)
-
-    [![One Nation with Brian Kilmeade - Saturday, December 14 - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)Video](https://www.foxnews.com/video/6366016801112)
 
 [Latest Wires](https://www.foxnews.com/category/topic/associated-press)
 -----------------------------------------------------------------------
@@ -1293,9 +1293,13 @@ iStock - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https:
 [Immigration](https://www.foxnews.com/category/us/immigration)
 --------------------------------------------------------------
 
-     [!['Knows how to get things done': Border Patrol union rallies around Noem as DHS chief - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/knows-how-get-things-done-border-patrol-union-rallies-around-noem-dhs-chief)
+     [![ICE arrests previously caught and released Senegalese illegal immigrant wanted for murder in Brazil - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/us/ice-arrests-previously-caught-released-senegalese-illegal-immigrant-wanted-murder-brazil)
+
+### [ICE arrests previously caught and released Senegalese illegal immigrant wanted for murder in Brazil](https://www.foxnews.com/us/ice-arrests-previously-caught-released-senegalese-illegal-immigrant-wanted-murder-brazil)
 
 ### ['Knows how to get things done': Border Patrol union rallies around Noem as DHS chief](https://www.foxnews.com/politics/knows-how-get-things-done-border-patrol-union-rallies-around-noem-dhs-chief)
+
+   [![Former President and Republican presidential candidate Donald Trump listens as North Dakota Governor Kristi Noem speaks during a Buckeye Values PAC Rally in Vandalia, Ohio, on March 16, 2024. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/knows-how-get-things-done-border-patrol-union-rallies-around-noem-dhs-chief)
 
 ### [Family demands action after 7-year-old's death in DUI crash involving migrant who had prior arrest](https://www.foxnews.com/media/family-demands-action-after-7-year-olds-death-dui-crash-involving-migrant-who-had-prior-arrest)
 
@@ -1305,16 +1309,16 @@ iStock - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https:
 
    [![This split shows President Biden and migrants from Syria in Europe. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/european-countries-put-freeze-syrian-asylum-claims-after-assads-fall-unclear-us-follow)
 
-### ['Legal authority': Senate Dems demand Biden extend protections for illegal immigrants ahead of Trump admin](https://www.foxnews.com/politics/legal-authority-senate-dems-demand-biden-extend-protections-illegal-immigrants-ahead-trump-admin)
-
-   [![This split shows President Biden and pro-DACA protesters. - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://www.foxnews.com/politics/legal-authority-senate-dems-demand-biden-extend-protections-illegal-immigrants-ahead-trump-admin)
-
 [Fox News Podcasts](https://radio.foxnews.com/podcast/)
 -------------------------------------------------------
 
-     [![Waiter Admits Doing Drugs With Liam Payne - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/12/15/waiter-admits-doing-drugs-with-liam-payne/)
+     [![Paul Mauro: Crime, Corruption & Court Cases - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/12/15/paul-mauro-crime-corruption-court-cases/)
+
+### [Paul Mauro: Crime, Corruption & Court Cases](https://radio.foxnews.com/2024/12/15/paul-mauro-crime-corruption-court-cases/)
 
 ### [Waiter Admits Doing Drugs With Liam Payne](https://radio.foxnews.com/2024/12/15/waiter-admits-doing-drugs-with-liam-payne/)
+
+   [![Waiter Admits Doing Drugs With Liam Payne - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/12/15/waiter-admits-doing-drugs-with-liam-payne/)
 
 ### [Fox Sports Update – NBA Cup Finalists](https://radio.foxnews.com/2024/12/15/fox-sports-update-nba-cup-finalists/)
 
@@ -1323,10 +1327,6 @@ iStock - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https:
 ### [Extra: Time Is Running Out For TikTok](https://radio.foxnews.com/2024/12/15/extra-time-is-running-out-for-tiktok/)
 
    [![Extra: Time Is Running Out For TikTok - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/12/15/extra-time-is-running-out-for-tiktok/)
-
-### [Jamie Foxx Birthday Dinner Altercation](https://radio.foxnews.com/2024/12/15/jamie-foxx-birthday-dinner-altercation/)
-
-   [![Jamie Foxx Birthday Dinner Altercation - Fox News](//static.foxnews.com/static/orion/img/clear-16x9.gif)](https://radio.foxnews.com/2024/12/15/jamie-foxx-birthday-dinner-altercation/)
 
 ##### [U.S.](https://www.foxnews.com/us)
 
