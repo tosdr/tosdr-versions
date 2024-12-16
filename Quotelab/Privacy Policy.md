@@ -158,9 +158,7 @@ Allowance Disclaimer: Allowance amounts cannot be combined with other benefit al
 
 \*\* Members may receive a monthly or quarterly allowance in the form of a benefits prepaid card to pay for a wide range of approved groceries and utilities. Unused amounts will expire at the end of the month or quarter.
 
-\*The benefits mentioned are Special Supplemental Benefits for the Chronically Ill (SSBCI). You may qualify for SSBCI if you have a high risk for hospitalization and require intensive care coordination to manage chronic conditions such as Chronic Kidney Diseases, Chronic Lung Disorders, Cardiovascular Disorders, Chronic Heart Failure, or Diabetes. For a full list of chronic conditions or to learn more about other eligibility requirements needed to qualify for SSBCI benefits, please refer to Chapter 4 in the plan’s Evidence of Coverage.
-
-Benefit(s) mentioned may be part of a special supplemental program for chronically ill members with one of the following conditions: Diabetes mellitus, Cardiovascular disorders, Chronic and disabling mental health conditions, Chronic lung disorders, Chronic heart failure. This is not a complete list of qualifying conditions. Having a qualifying condition alone does not mean you will receive the benefit(s). Other requirements may apply.
+\*For \[Humana\] and \[Molina\], some benefits mentioned may be part of a special supplemental program for the chronically ill. Benefit(s) mentioned may be part of a special supplemental program for chronically ill members with one of the following conditions: Diabetes mellitus, Cardiovascular disorders, Chronic and disabling mental health conditions, Chronic lung disorders, Chronic heart failure. This is not a complete list of qualifying conditions. Having a qualifying condition alone does not mean you will receive the benefit(s). Other requirements may apply.
 
 1Transportation services are issued as one-way trips and provided on an annual basis. Benefits vary by plan.
 
