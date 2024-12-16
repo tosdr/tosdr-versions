@@ -2,11 +2,11 @@
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
-20% Off Denver Steak [save](https://porterroad.com/products/denver-steak)
+15% off gift cards [Go](https://porterroad.com/products/gift-card-1)
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
-20% Off Denver Steak [save](https://porterroad.com/products/denver-steak)
+15% off gift cards [Go](https://porterroad.com/products/gift-card-1)
 
 ![close button](//porterroad.com/cdn/shop/t/145/assets/x.svg?v=149134315310457235151695148459)
 
@@ -77,7 +77,9 @@ Get 1 LB of our newest Smash Burger Blend along with 2 packs of Dilly Garlic Pic
     
     Pre-Order](https://porterroad.com/products/best-of-porter-road)
     
-    [### Digital Gift Card
+    [Save 15%
+    
+    ### Digital Gift Card
     
     From $25
     
