@@ -39,7 +39,7 @@
     * [Channel Lineups](https://shop.hellotds.com/tv/tdstv-plus/channellineup.html)
     * [TV Everywhere](https://shop.hellotds.com/tv/tdstv-plus/tv-everywhere.html)
 * [Home Phone](https://shop.hellotds.com/phone.html)
-* [Blog](http://blog.hellotds.com/)
+* [Blog](https://blog.tdstelecom.com/)
 * [Support](https://hellotds.com/support.html)
     * [Internet Support](https://hellotds.com/support/internet.html)
     * [TDS TV+ Support](https://hellotds.com/support/tds-tv-plus.html)
