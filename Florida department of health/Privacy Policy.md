@@ -2,7 +2,7 @@
 
 [Facebook](https://www.facebook.com/FLDepartmentofHealth) [Twitter](https://twitter.com/HealthyFla) [Youtube](https://www.youtube.com/user/fldoh/) [Pinterest](https://www.pinterest.com/HealthyFla/)
 
- [![Google Maps](/_new/_files/images/Google_Maps_Icon_clr.svg)](https://www.floridahealth.gov/all-county-locations.html)[Counties Toggle Counties](#)
+ [![FL Health Map Locations](/_new/_files/images/Google_Maps_Icon_clr.svg)](https://www.floridahealth.gov/all-county-locations.html)[Counties Toggle Counties](#)
 
 * [Alachua County](https://alachua.floridahealth.gov/)
 * [Baker County](https://baker.floridahealth.gov/)
