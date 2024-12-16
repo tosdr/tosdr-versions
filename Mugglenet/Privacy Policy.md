@@ -330,15 +330,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Dementors don’t breed but grow, like fungus, where there is decay.
+Magic makes electronics go haywire, so Muggle devices don’t work at or near Hogwarts.
 
 ### Potter History
 
-August 2, 2007 – Scholastic announced that Deathly Hallows sold 11.5 million copies in ten days.
+December 11, 2008 – The first stop for Harry Potter: The Exhibition is announced as Chicago, Illinois, opening on April 30, 2009.
 
 ### Potter Quote
 
-“I ain’t got the brains to make this up.”
+“Sir, I wondered what you know about . . . about Horcruxes?”
 
 [](#)
 
