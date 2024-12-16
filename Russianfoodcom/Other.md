@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -146,6 +146,10 @@
 | [Картинки с выставок](https://www.russianfood.com/themes/?theme_id=18) | 4,98 |
 | Репортажи с выставок производителей продуктов питания. Рассказы о продукции известных и еще неизвестных брендов |     |
 
+Сейчас читают
+
+* [Селёдка под шубой с грибами (без свёклы)](https://www.russianfood.com/recipes/recipe.php?rid=159198)
+
 |     |
 | --- |
 | Поиск рецептов<br>-------------- |
@@ -166,6 +170,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Нежнейшие ленивые манты и другие Лучшие рецепты БЫСТРЕЕ! №24-51](https://www.russianfood.com/reading/?post_id=22997) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/741/sm_740678.jpg)](https://www.russianfood.com/reading/?post_id=22997)
+
+Ленивые манты с фаршем и картошкой. Салат с цветной капустой и кукурузой. Рыбная солянка с крабовыми палочками. Слойки-завитушки со сгущёнкой. Омлет с овощами и овсянкой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22997)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22997#comments) | 16.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -193,7 +211,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174936#comments) | 15.12.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174936#comments) | 15.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -363,20 +381,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175128#comments) | 12.12.24 |     |
 
-|     |     |
-| --- | --- |
-| Благотворительность › [Благотворительность](https://www.russianfood.com/themes/?theme_id=23)<br><br>[Девочке нужны постоянные занятия со специалистами и курсы реабилитации.](https://www.russianfood.com/reading/?post_id=22986) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/760/sm_759984.jpg)](https://www.russianfood.com/reading/?post_id=22986)
-
-Кристину ждут в одном из РЦ г. Санкт-Петербурга, чтобы продолжить работу по закреплению уже приобретенных умений и развитию новых. Курс реабилитации в этом центре стоит 89 910 рублей, и мы знаем, что с вашей помощью нам удастся помочь Кристине попасть на необходимый ей курс реабилитации.
-
-[Читать дальше](https://www.russianfood.com/reading/?post_id=22986)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Благотворительность](https://www.russianfood.com/blogs/?id=276205) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22986#comments) | 12.12.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -448,8 +452,8 @@
 
 |     |     |     |
 | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760273.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174936) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760757.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174935) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760310.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174933) |
-| [Слоёный салат со шпротами, сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174936) | [Салат с фасолью, кукурузой, перцем и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174935) | [Салат с крабовыми палочками, ананасами и маслинами](https://www.russianfood.com/recipes/recipe.php?rid=174933) |
+| [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760757.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174935) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760273.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174936) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760310.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174933) |
+| [Салат с фасолью, кукурузой, перцем и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174935) | [Слоёный салат со шпротами, сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174936) | [Салат с крабовыми палочками, ананасами и маслинами](https://www.russianfood.com/recipes/recipe.php?rid=174933) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -466,4 +470,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(94)
+(111)
