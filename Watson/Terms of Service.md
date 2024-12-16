@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)7°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez clair, brumeux](https://www.watson.ch/fr/_watsui/static/img/weather/w-2.svg)0°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -55,24 +55,24 @@
 Thèmes du moment
 
 * [Transports](https://www.watson.ch/fr/transports/)
-* [Vaud](https://www.watson.ch/fr/vaud/)
 * [Bachar al-Assad](https://www.watson.ch/fr/bachar-al-assad/)
 * [train](https://www.watson.ch/fr/train/)
 * [Allemagne](https://www.watson.ch/fr/allemagne/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [guerre](https://www.watson.ch/fr/guerre/)
-* [drone](https://www.watson.ch/fr/drone/)
-* [Ski nordique](https://www.watson.ch/fr/ski-nordique/)
 * [Banques](https://www.watson.ch/fr/banques/)
+* [Ski nordique](https://www.watson.ch/fr/ski-nordique/)
 * [Santé](https://www.watson.ch/fr/sante/)
+* [Musique](https://www.watson.ch/fr/musique/)
+* [Conseil des Etats](https://www.watson.ch/fr/conseil-des-etats/)
+* [Vidéo](https://www.watson.ch/fr/video/)
 * [Politique](https://www.watson.ch/fr/politique/)
-* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Emploi](https://www.watson.ch/fr/emploi/)
+* [Justice](https://www.watson.ch/fr/justice/)
+* [France](https://www.watson.ch/fr/france/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [Chine](https://www.watson.ch/fr/chine/)
+* [Assurance maladie](https://www.watson.ch/fr/assurance-maladie/)
 * [Argent](https://www.watson.ch/fr/argent/)
+* [Football](https://www.watson.ch/fr/football/)
 * [CFF](https://www.watson.ch/fr/cff/)
-* [Poutine](https://www.watson.ch/fr/poutine/)
 * [Syrie](https://www.watson.ch/fr/syrie/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
