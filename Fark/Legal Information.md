@@ -230,12 +230,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more stories with less ads? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's what the cool kids are doing.  
-It also helps us pay the bills.
+Come on, it's $10 a month, just do it.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -335,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [When the oil hits the Crimea](https://www.fark.com/goto/13495090) ( [news.yahoo.com](https://www.fark.com/goto/13495090) ) » [(1 comment)](https://www.fark.com/comments/13495090/When-oil-hits-Crimea) |
-| [Discussion](https://www.fark.com/discussion/) | [Eclectic mostly-jazz tunage, with crooners, Bop, Soul, classics & contemporary cats. Featured is a double-double with Laila Biali & Caity Gyorgy, Art Blakey, Aretha, Ray Charles, Angélique Kidjo & more. Fuse 'n Flow, 1:00 PM ET](https://www.fark.com/goto/13495164) ( [bigeradio.com](https://www.fark.com/goto/13495164) ) » [(14 comments)](https://www.fark.com/comments/13495164/Eclectic-mostly-jazz-tunage-with-crooners-Bop-Soul-classics-contemporary-cats-Featured-is-a-double-double-with-Laila-Biali-Caity-Gyorgy-Art-Blakey-Aretha-Ray-Charles-Anglique-Kidjo-more-Fuse-n-Flow-100-PM-ET) |
-| [Sports](https://www.fark.com/sports/) | [Teddy two-gloves helps his old High School get their hands on a State Championship](https://www.fark.com/goto/13495028) ( [espn.com](https://www.fark.com/goto/13495028) ) » [(3 comments)](https://www.fark.com/comments/13495028/Teddy-two-gloves-helps-his-old-High-School-get-their-hands-on-a-State-Championship) |
-| [Business](https://www.fark.com/business/) | [You had better sit down for this, but a Vancouver-based crypto trading platform lied about how it would protect customer assets, stole $13 million from clients instead](https://www.fark.com/goto/13494570) ( [bc.ctvnews.ca](https://www.fark.com/goto/13494570) ) » [(26 comments)](https://www.fark.com/comments/13494570/You-had-better-sit-down-for-this-but-a-Vancouver-based-crypto-trading-platform-lied-about-how-it-would-protect-customer-assets-stole-$13-million-from-clients-instead) |
-| [STEM](https://www.fark.com/stem/) | [Beating swords into ploughshares](https://www.fark.com/goto/13495062) ( [cbsnews.com](https://www.fark.com/goto/13495062) ) » [(3 comments)](https://www.fark.com/comments/13495062/Beating-swords-into-ploughshares) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Moana 2 keeps it shiny at #1 with $26.6 million while Wicked brews up $23 million in green at #2. Few were cravin' Kraven, $12 million at #3. Gladiator 2 runs out of testosterone at #4 with $7 million as Lord of the Rings: Anime Walking trips at #6](https://www.fark.com/goto/13495008) ( [deadline.com](https://www.fark.com/goto/13495008) ) » [(7 comments)](https://www.fark.com/comments/13495008/Moana-2-keeps-it-shiny-at-1-with-$266-million-while-Wicked-brews-up-$23-million-in-green-at-2-Few-were-cravin-Kraven-$12-million-at-3-Gladiator-2-runs-out-of-testosterone-at-4-with-$7-million-as-Lord-of-Rings-Anime-Walking-trips-at-6) |
-| [Fandom](https://www.fark.com/fandom/) | [56 years ago, car ownership finally became affordable to the average elementary school student](https://www.fark.com/goto/13494952) ( [usatoday.com](https://www.fark.com/goto/13494952) ) » [(10 comments)](https://www.fark.com/comments/13494952/-56-years-ago-car-ownership-finally-became-affordable-to-average-elementary-school-student) |
-| [D'awww](https://www.fark.com/dawww/) | [Everyone feels better with a good hairdo](https://www.fark.com/goto/13494882) ( [aol.com](https://www.fark.com/goto/13494882) ) » [(10 comments)](https://www.fark.com/comments/13494882/Everyone-feels-better-with-a-good-hairdo) |
-| [Food](https://www.fark.com/food/) | [Explore these sandwiches of bygone days that have fallen out of favor - if you dare](https://www.fark.com/goto/13494972) ( [thetakeout.com](https://www.fark.com/goto/13494972) ) » [(43 comments)](https://www.fark.com/comments/13494972/Explore-these-sandwiches-of-bygone-days-that-have-fallen-out-of-favor-if-you-dare) |
-| [Politics](https://www.fark.com/politics/) | [How do you say "oops" in Korean?](https://www.fark.com/goto/13495096) ( [kyivindependent.com](https://www.fark.com/goto/13495096) ) » [(10 comments)](https://www.fark.com/comments/13495096/How-do-you-say-oops-in-Korean) |
+| [Main](https://www.fark.com/) | [Photoshop this Champagne pool](https://www.fark.com/goto/13491782) ( [upload.wikimedia.org](https://www.fark.com/goto/13491782) ) » [(11 comments)](https://www.fark.com/comments/13491782/Photoshop-this-Champagne-pool) |
+| [Discussion](https://www.fark.com/discussion/) | [Can Jordan Love and the Green Bay Packers fly higher than the Seattle Seahawks? Or will Geno Smith and the 'Hawks defend their nest and come out with a victory? Sunday Night Football gets it going at 8:20 PM ET on NBC/Peacock](https://www.fark.com/goto/13494694) ( [espn.com](https://www.fark.com/goto/13494694) ) » [(44 comments)](https://www.fark.com/comments/13494694/Can-Jordan-Love-the-Green-Bay-Packers-fly-higher-than-Seattle-Seahawks-Or-will-Geno-Smith-the-Hawks-defend-their-nest-come-out-with-a-victory-Sunday-Night-Football-gets-it-going-at-820-PM-ET-on-NBCPeacock) |
+| [Sports](https://www.fark.com/sports/) | [Can Jordan Love and the Green Bay Packers fly higher than the Seattle Seahawks? Or will Geno Smith and the 'Hawks defend their nest and come out with a victory? Sunday Night Football gets it going at 8:20 PM ET on NBC/Peacock](https://www.fark.com/goto/13494694) ( [espn.com](https://www.fark.com/goto/13494694) ) » [(44 comments)](https://www.fark.com/comments/13494694/Can-Jordan-Love-the-Green-Bay-Packers-fly-higher-than-Seattle-Seahawks-Or-will-Geno-Smith-the-Hawks-defend-their-nest-come-out-with-a-victory-Sunday-Night-Football-gets-it-going-at-820-PM-ET-on-NBCPeacock) |
+| [Business](https://www.fark.com/business/) | [Ghost cars spook NYC](https://www.fark.com/goto/13495170) ( [the-sun.com](https://www.fark.com/goto/13495170) ) » [(9 comments)](https://www.fark.com/comments/13495170/Ghost-cars-spook-NYC) |
+| [STEM](https://www.fark.com/stem/) | [After forcing people to buy new computers to upgrade to Windows 11, Microsoft now wants you to buy a phone to log into Outlook. Good luck with convincing Grandma to give up her landline](https://www.fark.com/goto/13495274) ( [forbes.com](https://www.fark.com/goto/13495274) ) » [(32 comments)](https://www.fark.com/comments/13495274/After-forcing-people-to-buy-new-computers-to-upgrade-to-Windows-11-Microsoft-now-wants-you-to-buy-a-phone-to-log-into-Outlook-Good-luck-with-convincing-Grandma-to-give-up-her-landline) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Return of the Return of the Living Dead](https://www.fark.com/goto/13495290) ( [gizmodo.com](https://www.fark.com/goto/13495290) ) » [(13 comments)](https://www.fark.com/comments/13495290/Return-of-Return-of-Living-Dead) |
+| [Fandom](https://www.fark.com/fandom/) | [56 years ago, car ownership finally became affordable to the average elementary school student](https://www.fark.com/goto/13494952) ( [usatoday.com](https://www.fark.com/goto/13494952) ) » [(21 comments)](https://www.fark.com/comments/13494952/-56-years-ago-car-ownership-finally-became-affordable-to-average-elementary-school-student) |
+| [D'awww](https://www.fark.com/dawww/) | [Everyone feels better with a good hairdo](https://www.fark.com/goto/13494882) ( [aol.com](https://www.fark.com/goto/13494882) ) » [(11 comments)](https://www.fark.com/comments/13494882/Everyone-feels-better-with-a-good-hairdo) |
+| [Food](https://www.fark.com/food/) | [Raw milk's rise in popularity on both the extreme right and left means it's time to party like it's 1699](https://www.fark.com/goto/13495216) ( [theguardian.com](https://www.fark.com/goto/13495216) ) » [(31 comments)](https://www.fark.com/comments/13495216/Raw-milks-rise-in-popularity-on-both-extreme-right-left-means-its-time-to-party-like-its-1699) |
+| [Politics](https://www.fark.com/politics/) | [Recalibrating intensifies for democrats](https://www.fark.com/goto/13495286) ( [thehill.com](https://www.fark.com/goto/13495286) ) » [(111 comments)](https://www.fark.com/comments/13495286/Recalibrating-intensifies-for-democrats) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -354,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 15 2024 14:42:17  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 15 2024 20:42:10  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
