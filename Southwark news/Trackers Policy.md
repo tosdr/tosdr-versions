@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![L: Umana Yana owner, Debbie Monfries. R: Debbie with rapper Central Cee when he visited her shop.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-16-12-2024-at-14.50-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
+    
+    ### [Herne Hill restaurant owner to host free soup kitchen funded by rapper Central Cee](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
+    
+    [![The Aylesham Centre's central arcade filled with handcart traders](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screenshot-2024-12-14-at-09.44.12-745x560-1-360x180.png)](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
+    
+    ### [Berkeley drops Aylesham Centre affordable housing offer to 12 per cent](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
+    
     [![Police would like to speak to the two men pictured in connection with their investigation. Image: BTP](https://southwarknews.co.uk/wp-content/uploads/2024/12/NCA-360x180.jpg)](https://southwarknews.co.uk/area/south-london/police-release-cctv-images-after-alleged-attempted-knife-point-robbery-at-new-cross-station/)
     
     ### [Police release CCTV images after alleged attempted knife-point robbery at New Cross station](https://southwarknews.co.uk/area/south-london/police-release-cctv-images-after-alleged-attempted-knife-point-robbery-at-new-cross-station/)
@@ -47,14 +55,6 @@
     [![Image credit:  King's College Hospital](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screenshot-2024-12-13-at-11.35.35-360x180.png)](https://southwarknews.co.uk/area/camberwell/child-patients-exploring-magical-world-of-fairies-and-goblins-thanks-to-interactive-artwork-at-south-london-hospital/)
     
     ### [Child patients exploring ‘magical world’ of fairies and goblins thanks to interactive artwork at South London hospital](https://southwarknews.co.uk/area/camberwell/child-patients-exploring-magical-world-of-fairies-and-goblins-thanks-to-interactive-artwork-at-south-london-hospital/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/ES-LB-Customers-Dec2021-DSC08859-copy-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/electric-shuffle-unveils-limited-edition-winter-menu-and-festive-brunch/)
-    
-    ### [Electric Shuffle unveils limited edition winter menu and Festive Brunch](https://southwarknews.co.uk/area/bermondsey/electric-shuffle-unveils-limited-edition-winter-menu-and-festive-brunch/)
-    
-    [![Protestors outside the Aylesham Centre in June (ACA)](https://southwarknews.co.uk/wp-content/uploads/2024/12/17-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/comment-labour-councillors-are-choosing-sides-in-tug-of-war-over-peckhams-future/)
-    
-    ### [Comment: Labour councillors are choosing sides in tug-of-war over Peckham’s future](https://southwarknews.co.uk/area/peckham/comment-labour-councillors-are-choosing-sides-in-tug-of-war-over-peckhams-future/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![L: Umana Yana owner, Debbie Monfries. R: Debbie with rapper Central Cee when he visited her shop.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-16-12-2024-at-14.50-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
+    
+    ### [Herne Hill restaurant owner to host free soup kitchen funded by rapper Central Cee](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
+    
+    [![The Aylesham Centre's central arcade filled with handcart traders](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screenshot-2024-12-14-at-09.44.12-745x560-1-360x180.png)](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
+    
+    ### [Berkeley drops Aylesham Centre affordable housing offer to 12 per cent](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
+    
     [![Police would like to speak to the two men pictured in connection with their investigation. Image: BTP](https://southwarknews.co.uk/wp-content/uploads/2024/12/NCA-360x180.jpg)](https://southwarknews.co.uk/area/south-london/police-release-cctv-images-after-alleged-attempted-knife-point-robbery-at-new-cross-station/)
     
     ### [Police release CCTV images after alleged attempted knife-point robbery at New Cross station](https://southwarknews.co.uk/area/south-london/police-release-cctv-images-after-alleged-attempted-knife-point-robbery-at-new-cross-station/)
@@ -132,14 +140,6 @@ View All Result
     [![Image credit:  King's College Hospital](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screenshot-2024-12-13-at-11.35.35-360x180.png)](https://southwarknews.co.uk/area/camberwell/child-patients-exploring-magical-world-of-fairies-and-goblins-thanks-to-interactive-artwork-at-south-london-hospital/)
     
     ### [Child patients exploring ‘magical world’ of fairies and goblins thanks to interactive artwork at South London hospital](https://southwarknews.co.uk/area/camberwell/child-patients-exploring-magical-world-of-fairies-and-goblins-thanks-to-interactive-artwork-at-south-london-hospital/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/ES-LB-Customers-Dec2021-DSC08859-copy-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/electric-shuffle-unveils-limited-edition-winter-menu-and-festive-brunch/)
-    
-    ### [Electric Shuffle unveils limited edition winter menu and Festive Brunch](https://southwarknews.co.uk/area/bermondsey/electric-shuffle-unveils-limited-edition-winter-menu-and-festive-brunch/)
-    
-    [![Protestors outside the Aylesham Centre in June (ACA)](https://southwarknews.co.uk/wp-content/uploads/2024/12/17-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/comment-labour-councillors-are-choosing-sides-in-tug-of-war-over-peckhams-future/)
-    
-    ### [Comment: Labour councillors are choosing sides in tug-of-war over Peckham’s future](https://southwarknews.co.uk/area/peckham/comment-labour-councillors-are-choosing-sides-in-tug-of-war-over-peckhams-future/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -207,11 +207,11 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [11th December 2024](https://southwarknews.co.uk/sport/football/millwall/mourinho-jokingly-rules-out-becoming-next-millwall-boss-but-surprise-name-among-favourites-to-succeed-harris/)
 
-[![Neil Harris acknowledges the away fans after his last game. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/Harris-Boro-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/i-dont-need-that-neil-harris-reacts-after-millwall-beaten-by-middlesbrough-in-his-last-game-in-charge/)
+[![Neil Harris speaks to the press. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/N-Harris-press-Boro-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-reveals-his-plans-after-stepping-down-as-millwall-head-coach-and-southend-united-are-part-of-them/)
 
-### [‘I don’t need that’ – Neil Harris reacts after Millwall beaten by Middlesbrough in his last game in charge](https://southwarknews.co.uk/sport/football/millwall/i-dont-need-that-neil-harris-reacts-after-millwall-beaten-by-middlesbrough-in-his-last-game-in-charge/)
+### [Neil Harris reveals his plans after stepping down as Millwall head coach](https://southwarknews.co.uk/sport/football/millwall/neil-harris-reveals-his-plans-after-stepping-down-as-millwall-head-coach-and-southend-united-are-part-of-them/)
 
-[14th December 2024](https://southwarknews.co.uk/sport/football/millwall/i-dont-need-that-neil-harris-reacts-after-millwall-beaten-by-middlesbrough-in-his-last-game-in-charge/)
+[16th December 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-reveals-his-plans-after-stepping-down-as-millwall-head-coach-and-southend-united-are-part-of-them/)
 
 [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/CWMP--120x86.png)](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
 
@@ -219,11 +219,11 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [14th December 2024](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
 
-[![Neil Harris speaks to the press. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/N-Harris-press-Boro-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-reveals-his-plans-after-stepping-down-as-millwall-head-coach-and-southend-united-are-part-of-them/)
+[![Neil Harris acknowledges the away fans after his last game. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/Harris-Boro-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/i-dont-need-that-neil-harris-reacts-after-millwall-beaten-by-middlesbrough-in-his-last-game-in-charge/)
 
-### [Neil Harris reveals his plans after stepping down as Millwall head coach](https://southwarknews.co.uk/sport/football/millwall/neil-harris-reveals-his-plans-after-stepping-down-as-millwall-head-coach-and-southend-united-are-part-of-them/)
+### [‘I don’t need that’ – Neil Harris reacts after Millwall beaten by Middlesbrough in his last game in charge](https://southwarknews.co.uk/sport/football/millwall/i-dont-need-that-neil-harris-reacts-after-millwall-beaten-by-middlesbrough-in-his-last-game-in-charge/)
 
-[16th December 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-reveals-his-plans-after-stepping-down-as-millwall-head-coach-and-southend-united-are-part-of-them/)
+[14th December 2024](https://southwarknews.co.uk/sport/football/millwall/i-dont-need-that-neil-harris-reacts-after-millwall-beaten-by-middlesbrough-in-his-last-game-in-charge/)
 
 [![Andy and Diane and the steps separating Diane from the outside world](https://southwarknews.co.uk/wp-content/uploads/2024/12/Andy-and-Diane-and-the-steps-separating-Diane-from-the-outside-world-120x86.png)](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
 
@@ -238,6 +238,18 @@ This site uses cookies – small text files that are placed on your machine to h
 [10th December 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
 
 ### Featured Articles
+
+[![L: Umana Yana owner, Debbie Monfries. R: Debbie with rapper Central Cee when he visited her shop.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-16-12-2024-at-14.50-120x86.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
+
+### [Herne Hill restaurant owner to host free soup kitchen funded by rapper Central Cee](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
+
+[16th December 2024](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
+
+[![The Aylesham Centre's central arcade filled with handcart traders](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screenshot-2024-12-14-at-09.44.12-745x560-1-120x86.png)](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
+
+### [Berkeley drops Aylesham Centre affordable housing offer to 12 per cent](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
+
+[16th December 2024](https://southwarknews.co.uk/featured/berkeley-drops-aylesham-centre-affordable-housing-offer-to-12-per-cent/)
 
 [![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
 
@@ -262,18 +274,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [St Thomas’ Hospital is being accused of ‘negligence and discrimination’ after death of mum and baby](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
 
 [14th December 2024](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/12/candle-christmas-christmas-decoration-christmas-dinner-preview-120x86.jpg)](https://southwarknews.co.uk/area/peckham/peckham-soup-kitchen-to-provide-christmas-meals-for-third-year-running/)
-
-### [Peckham Soup Kitchen to provide Christmas meals for third year running](https://southwarknews.co.uk/area/peckham/peckham-soup-kitchen-to-provide-christmas-meals-for-third-year-running/) 
-
-[14th December 2024](https://southwarknews.co.uk/area/peckham/peckham-soup-kitchen-to-provide-christmas-meals-for-third-year-running/)
-
-[![Theo and Rebekah at his graduation at Goldsmiths, January 2023](https://southwarknews.co.uk/wp-content/uploads/2024/12/Theo-and-Rebekah-at-his-graduation-Goldsmiths-Jan-2023-e1734018073828-120x86.jpeg)](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
-
-### [‘There must be someone out there’: Young Peckham woman’s plea for stem cell donors after fiancé’s cancer diagnosis](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
-
-[14th December 2024](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
 
 ### USEFUL PAGES
 
