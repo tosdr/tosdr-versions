@@ -15,56 +15,56 @@
     
     Trending
     
-    * [Bashar al-Assad](https://www.euronews.com/tag/bashar-al-assad)
-    * [war in Syria](https://www.euronews.com/tag/war-in-syria)
-    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
     * [Syria](https://www.euronews.com/tag/syria)
-    * [European Union](https://www.euronews.com/tag/european-union)
-    * [Cinema](https://www.euronews.com/tag/cinema)
+    * [Israel](https://www.euronews.com/tag/israel)
+    * [israel defense forces IDF](https://www.euronews.com/tag/israel-defense-forces-idf)
+    * [Gender equality](https://www.euronews.com/tag/gender-equality)
+    * [Germany](https://www.euronews.com/tag/germany)
+    * [Olaf Scholz](https://www.euronews.com/tag/olaf-scholz)
     
     * * *
     
     Latest stories
     
-    [![The Jaguar Type 00 electric model in Rhodon Rose, also known as 'Miami Pink'](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The Jaguar Type 00 electric model in Rhodon Rose, also known as 'Miami Pink'")
+    [![Tintin, Popeye and the Roaring Twenties: What’s entering the public domain in 2025?  ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Tintin, Popeye and the Roaring Twenties: What’s entering the public domain in 2025?  ")
     
-    ![The Jaguar Type 00 electric model in Rhodon Rose, also known as 'Miami Pink'](https://static.euronews.com/articles/stories/08/89/86/78/368x207_cmsv2_6ecbd7e7-bf51-5e87-b160-71f76a4f1f39-8898678.jpg "The Jaguar Type 00 electric model in Rhodon Rose, also known as 'Miami Pink'")](https://www.euronews.com/business/2024/12/09/jaguars-all-electric-models-set-for-a-higher-than-expected-price-surge)
-    
-    Now playing Next
-    
-    [Business](https://www.euronews.com/business/business)
-    
-    ### [Jaguar's all-electric models set for a higher-than-thought price surge](https://www.euronews.com/business/2024/12/09/jaguars-all-electric-models-set-for-a-higher-than-expected-price-surge)
-    
-    [![Opposition fighters stand next a government forces tank which was left on a highway, in Damascus, 8 December 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Opposition fighters stand next a government forces tank which was left on a highway, in Damascus, 8 December 2024")
-    
-    ![Opposition fighters stand next a government forces tank which was left on a highway, in Damascus, 8 December 2024](https://static.euronews.com/articles/stories/08/89/92/06/368x207_cmsv2_b7f1e967-86d3-56a8-9d7f-96c6cf2daade-8899206.jpg "Opposition fighters stand next a government forces tank which was left on a highway, in Damascus, 8 December 2024")](https://www.euronews.com/2024/12/09/al-assads-reign-is-over-who-are-the-key-players-in-the-new-syria-and-who-stands-to-gain-or)
+    ![Tintin, Popeye and the Roaring Twenties: What’s entering the public domain in 2025?  ](https://static.euronews.com/articles/stories/08/91/35/20/368x207_cmsv2_0b2e96bb-85f9-520b-b9d4-1db483b4ee5f-8913520.jpg "Tintin, Popeye and the Roaring Twenties: What’s entering the public domain in 2025?  ")](https://www.euronews.com/culture/2024/12/16/tintin-popeye-and-the-roaring-twenties-whats-entering-the-public-domain-in-2025)
     
     Now playing Next
     
-    [Syria](https://www.euronews.com/news/asia/syria)
+    [Culture news](https://www.euronews.com/culture/culture-news)
     
-    ### [Who are the key players in Syria and who stands to gain or lose?](https://www.euronews.com/2024/12/09/al-assads-reign-is-over-who-are-the-key-players-in-the-new-syria-and-who-stands-to-gain-or)
+    ### [Tintin & Popeye: What else is entering the public domain in 2025?](https://www.euronews.com/culture/2024/12/16/tintin-popeye-and-the-roaring-twenties-whats-entering-the-public-domain-in-2025)
     
-    [![The logo of a Eurostar train at Gare du Nord train station.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The logo of a Eurostar train at Gare du Nord train station.")
+    [![Carlien Scheele, EIGE director.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Carlien Scheele, EIGE director.")
     
-    ![The logo of a Eurostar train at Gare du Nord train station.](https://static.euronews.com/articles/stories/08/89/93/14/368x207_cmsv2_449aa490-3c8b-5f19-80b5-36494ba447bc-8899314.jpg "The logo of a Eurostar train at Gare du Nord train station.")](https://www.euronews.com/travel/2024/12/09/eurostar-trenitalia-deutsche-bahn-what-are-the-best-and-worst-rail-operators-in-europe)
-    
-    Now playing Next
-    
-    [Travel News](https://www.euronews.com/travel/travel-news)
-    
-    ### [Eurostar worst-performing rail operator in Europe, report says](https://www.euronews.com/travel/2024/12/09/eurostar-trenitalia-deutsche-bahn-what-are-the-best-and-worst-rail-operators-in-europe)
-    
-    [![What is the role of gold in Russia’s wartime trade relations?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "What is the role of gold in Russia’s wartime trade relations?")
-    
-    ![What is the role of gold in Russia’s wartime trade relations?](https://static.euronews.com/articles/stories/08/89/48/06/368x207_cmsv2_264685a3-31d4-5921-beec-162460eaf890-8894806.jpg "What is the role of gold in Russia’s wartime trade relations?")](https://www.euronews.com/my-europe/2024/12/09/what-is-the-role-of-gold-in-russias-wartime-trade-relations)
+    ![Carlien Scheele, EIGE director.](https://static.euronews.com/articles/stories/08/91/29/80/368x207_cmsv2_d7ca0394-5129-587a-8d32-07ef76843a81-8912980.jpg "Carlien Scheele, EIGE director.")](https://www.euronews.com/my-europe/2024/12/16/womens-parity-vital-to-eu-competitiveness-drive-says-agency-director)
     
     Now playing Next
     
-    [Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [What is the role of gold in Russia’s wartime trade relations?](https://www.euronews.com/my-europe/2024/12/09/what-is-the-role-of-gold-in-russias-wartime-trade-relations)
+    ### [Women's parity vital to EU competitiveness drive, says agency director](https://www.euronews.com/my-europe/2024/12/16/womens-parity-vital-to-eu-competitiveness-drive-says-agency-director)
+    
+    [![In this photo released by South Korean President Office via Yonhap, South Korean President Yoon Suk Yeol speaks at the presidential residence in Seoul, South Korea, December. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this photo released by South Korean President Office via Yonhap, South Korean President Yoon Suk Yeol speaks at the presidential residence in Seoul, South Korea, December. ")
+    
+    ![In this photo released by South Korean President Office via Yonhap, South Korean President Yoon Suk Yeol speaks at the presidential residence in Seoul, South Korea, December. ](https://static.euronews.com/articles/stories/08/91/33/68/368x207_cmsv2_a46b7b5e-81c4-5c99-b0da-166701cb5be1-8913368.jpg "In this photo released by South Korean President Office via Yonhap, South Korean President Yoon Suk Yeol speaks at the presidential residence in Seoul, South Korea, December. ")](https://www.euronews.com/2024/12/16/south-korean-court-begins-president-yoons-impeachment-process)
+    
+    Now playing Next
+    
+    [South Korea](https://www.euronews.com/news/asia/south-korea)
+    
+    ### [South Korea court begins President Yoon's impeachment trial](https://www.euronews.com/2024/12/16/south-korean-court-begins-president-yoons-impeachment-process)
+    
+    [![Euronews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronews")
+    
+    ![Euronews](https://static.euronews.com/articles/stories/08/91/00/10/368x207_cmsv2_e76670b5-6e3b-5073-b5f6-93648ee7cb85-8910010.jpg "Euronews")](https://www.euronews.com/my-europe/2024/12/16/are-conservatives-set-to-take-back-power-in-germany-radio-schuman)
+    
+    Now playing Next
+    
+    [Radio Schuman](https://www.euronews.com/my-europe/europe-news/radio-schuman)
+    
+    ### [Are conservatives set to take back power in Germany?](https://www.euronews.com/my-europe/2024/12/16/are-conservatives-set-to-take-back-power-in-germany-radio-schuman)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -82,7 +82,6 @@
     * [EuroVerify](https://www.euronews.com/my-europe/my-europe-series/euro-verify)
     * [Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
     * [EU Decoded](https://www.euronews.com/my-europe/my-europe-series/eu-decoded)
-    * [State Of The Union](https://www.euronews.com/my-europe/my-europe-series/state-of-the-union)
     * [Smart Regions](https://www.euronews.com/my-europe/my-europe-series/smart-regions)
     * [The Europe Conversation](https://www.euronews.com/my-europe/my-europe-series/the-europe-conversation)
     
@@ -171,6 +170,29 @@
         The Big Question
         
         Deep dive conversations with business leaders](https://www.euronews.com/business/business-series/the-big-question)
+    
+* [Travel](https://www.euronews.com/travel)
+    
+    Categories
+    
+    * [Travel News](https://www.euronews.com/travel/travel-news)
+    * [Destinations](https://www.euronews.com/travel/destinations)
+    * [Experiences](https://www.euronews.com/travel/experiences)
+    * [Stays](https://www.euronews.com/travel/stays)
+    * [People](https://www.euronews.com/travel/people)
+    
+    * * *
+    
+    Programmes
+    
+    * [Adventures](https://www.euronews.com/travel/travel-series/adventures)
+    * [Conscious Travel](https://www.euronews.com/travel/travel-series/conscious-travel)
+    * [Explore](https://www.euronews.com/travel/travel-series/explore)
+    * [Golf Travel Tales](https://www.euronews.com/travel/travel-series/golf-travel-tales)
+    * [Notes From The Usa](https://www.euronews.com/travel/travel-news/notes-from-the-usa)
+    * [Soul Of The South](https://www.euronews.com/travel/travel-series/soul-of-the-south)
+    * [Taste](https://www.euronews.com/travel/travel-series/taste)
+    * [Women Beyond Borders](https://www.euronews.com/travel/travel-series/women-beyond-borders)
     
 * [Euroviews](https://www.euronews.com/tag/euroviews)
 * [Next](https://www.euronews.com/next)
@@ -288,35 +310,14 @@
     * [The Kitchen](https://www.euronews.com/culture/food-and-drink/the-kitchen)
     * [The Star Ingredient](https://www.euronews.com/culture/food-and-drink/the-star-ingredient)
     
-* [Travel](https://www.euronews.com/travel)
-    
-    Categories
-    
-    * [Travel News](https://www.euronews.com/travel/travel-news)
-    * [Destinations](https://www.euronews.com/travel/destinations)
-    * [Experiences](https://www.euronews.com/travel/experiences)
-    * [Stays](https://www.euronews.com/travel/stays)
-    * [People](https://www.euronews.com/travel/people)
-    
-    * * *
-    
-    Programmes
-    
-    * [Adventures](https://www.euronews.com/travel/travel-series/adventures)
-    * [Conscious Travel](https://www.euronews.com/travel/travel-series/conscious-travel)
-    * [Explore](https://www.euronews.com/travel/travel-series/explore)
-    * [Golf Travel Tales](https://www.euronews.com/travel/travel-series/golf-travel-tales)
-    * [Notes From The Usa](https://www.euronews.com/travel/travel-news/notes-from-the-usa)
-    * [Soul Of The South](https://www.euronews.com/travel/travel-series/soul-of-the-south)
-    * [Taste](https://www.euronews.com/travel/travel-series/taste)
-    * [Women Beyond Borders](https://www.euronews.com/travel/travel-series/women-beyond-borders)
-    
 * [Videos](https://www.euronews.com/video)
 
 More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -335,6 +336,7 @@ Partner content
 * [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
 * [Experience Brazil](https://www.euronews.com/partnercontent/embratur/experience-brazil/EN-index.html)
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
+* [Kerala Tourism](https://www.euronews.com/partnercontent/travel/kerala-tourism/)
 * [My Tokyo](https://www.euronews.com/partnercontent/tcvb/my-tokyo/EN-index.html)
 * [Powering Progress](https://www.euronews.com/partnercontent/iberdrola/renewables/EN-index.html)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
@@ -361,62 +363,62 @@ Close menu sidebar
 
 Trending
 
-* [Bashar al-Assad](https://www.euronews.com/tag/bashar-al-assad)
-* [war in Syria](https://www.euronews.com/tag/war-in-syria)
-* [Donald Trump](https://www.euronews.com/tag/donald-trump)
 * [Syria](https://www.euronews.com/tag/syria)
-* [European Union](https://www.euronews.com/tag/european-union)
-* [Cinema](https://www.euronews.com/tag/cinema)
+* [Israel](https://www.euronews.com/tag/israel)
+* [israel defense forces IDF](https://www.euronews.com/tag/israel-defense-forces-idf)
+* [Gender equality](https://www.euronews.com/tag/gender-equality)
+* [Germany](https://www.euronews.com/tag/germany)
+* [Olaf Scholz](https://www.euronews.com/tag/olaf-scholz)
 
 * * *
 
 Latest stories
 
-[![The Jaguar Type 00 electric model in Rhodon Rose, also known as 'Miami Pink'](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The Jaguar Type 00 electric model in Rhodon Rose, also known as 'Miami Pink'")
+[![Tintin, Popeye and the Roaring Twenties: What’s entering the public domain in 2025?  ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Tintin, Popeye and the Roaring Twenties: What’s entering the public domain in 2025?  ")
 
-![The Jaguar Type 00 electric model in Rhodon Rose, also known as 'Miami Pink'](https://static.euronews.com/articles/stories/08/89/86/78/368x207_cmsv2_6ecbd7e7-bf51-5e87-b160-71f76a4f1f39-8898678.jpg "The Jaguar Type 00 electric model in Rhodon Rose, also known as 'Miami Pink'")](https://www.euronews.com/business/2024/12/09/jaguars-all-electric-models-set-for-a-higher-than-expected-price-surge)
+![Tintin, Popeye and the Roaring Twenties: What’s entering the public domain in 2025?  ](https://static.euronews.com/articles/stories/08/91/35/20/368x207_cmsv2_0b2e96bb-85f9-520b-b9d4-1db483b4ee5f-8913520.jpg "Tintin, Popeye and the Roaring Twenties: What’s entering the public domain in 2025?  ")](https://www.euronews.com/culture/2024/12/16/tintin-popeye-and-the-roaring-twenties-whats-entering-the-public-domain-in-2025)
 
 Now playing Next
 
-[Business](https://www.euronews.com/business/business)
+[Culture news](https://www.euronews.com/culture/culture-news)
 
-### [Jaguar's all-electric models set for a higher-than-thought price surge](https://www.euronews.com/business/2024/12/09/jaguars-all-electric-models-set-for-a-higher-than-expected-price-surge)
+### [Tintin & Popeye: What else is entering the public domain in 2025?](https://www.euronews.com/culture/2024/12/16/tintin-popeye-and-the-roaring-twenties-whats-entering-the-public-domain-in-2025)
 
 * * *
 
-[![Opposition fighters stand next a government forces tank which was left on a highway, in Damascus, 8 December 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Opposition fighters stand next a government forces tank which was left on a highway, in Damascus, 8 December 2024")
+[![Carlien Scheele, EIGE director.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Carlien Scheele, EIGE director.")
 
-![Opposition fighters stand next a government forces tank which was left on a highway, in Damascus, 8 December 2024](https://static.euronews.com/articles/stories/08/89/92/06/368x207_cmsv2_b7f1e967-86d3-56a8-9d7f-96c6cf2daade-8899206.jpg "Opposition fighters stand next a government forces tank which was left on a highway, in Damascus, 8 December 2024")](https://www.euronews.com/2024/12/09/al-assads-reign-is-over-who-are-the-key-players-in-the-new-syria-and-who-stands-to-gain-or)
+![Carlien Scheele, EIGE director.](https://static.euronews.com/articles/stories/08/91/29/80/368x207_cmsv2_d7ca0394-5129-587a-8d32-07ef76843a81-8912980.jpg "Carlien Scheele, EIGE director.")](https://www.euronews.com/my-europe/2024/12/16/womens-parity-vital-to-eu-competitiveness-drive-says-agency-director)
 
 Now playing Next
 
-[Syria](https://www.euronews.com/news/asia/syria)
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Who are the key players in Syria and who stands to gain or lose?](https://www.euronews.com/2024/12/09/al-assads-reign-is-over-who-are-the-key-players-in-the-new-syria-and-who-stands-to-gain-or)
+### [Women's parity vital to EU competitiveness drive, says agency director](https://www.euronews.com/my-europe/2024/12/16/womens-parity-vital-to-eu-competitiveness-drive-says-agency-director)
 
 * * *
 
-[![The logo of a Eurostar train at Gare du Nord train station.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The logo of a Eurostar train at Gare du Nord train station.")
+[![In this photo released by South Korean President Office via Yonhap, South Korean President Yoon Suk Yeol speaks at the presidential residence in Seoul, South Korea, December. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this photo released by South Korean President Office via Yonhap, South Korean President Yoon Suk Yeol speaks at the presidential residence in Seoul, South Korea, December. ")
 
-![The logo of a Eurostar train at Gare du Nord train station.](https://static.euronews.com/articles/stories/08/89/93/14/368x207_cmsv2_449aa490-3c8b-5f19-80b5-36494ba447bc-8899314.jpg "The logo of a Eurostar train at Gare du Nord train station.")](https://www.euronews.com/travel/2024/12/09/eurostar-trenitalia-deutsche-bahn-what-are-the-best-and-worst-rail-operators-in-europe)
+![In this photo released by South Korean President Office via Yonhap, South Korean President Yoon Suk Yeol speaks at the presidential residence in Seoul, South Korea, December. ](https://static.euronews.com/articles/stories/08/91/33/68/368x207_cmsv2_a46b7b5e-81c4-5c99-b0da-166701cb5be1-8913368.jpg "In this photo released by South Korean President Office via Yonhap, South Korean President Yoon Suk Yeol speaks at the presidential residence in Seoul, South Korea, December. ")](https://www.euronews.com/2024/12/16/south-korean-court-begins-president-yoons-impeachment-process)
 
 Now playing Next
 
-[Travel News](https://www.euronews.com/travel/travel-news)
+[South Korea](https://www.euronews.com/news/asia/south-korea)
 
-### [Eurostar worst-performing rail operator in Europe, report says](https://www.euronews.com/travel/2024/12/09/eurostar-trenitalia-deutsche-bahn-what-are-the-best-and-worst-rail-operators-in-europe)
+### [South Korea court begins President Yoon's impeachment trial](https://www.euronews.com/2024/12/16/south-korean-court-begins-president-yoons-impeachment-process)
 
 * * *
 
-[![What is the role of gold in Russia’s wartime trade relations?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "What is the role of gold in Russia’s wartime trade relations?")
+[![Euronews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronews")
 
-![What is the role of gold in Russia’s wartime trade relations?](https://static.euronews.com/articles/stories/08/89/48/06/368x207_cmsv2_264685a3-31d4-5921-beec-162460eaf890-8894806.jpg "What is the role of gold in Russia’s wartime trade relations?")](https://www.euronews.com/my-europe/2024/12/09/what-is-the-role-of-gold-in-russias-wartime-trade-relations)
+![Euronews](https://static.euronews.com/articles/stories/08/91/00/10/368x207_cmsv2_e76670b5-6e3b-5073-b5f6-93648ee7cb85-8910010.jpg "Euronews")](https://www.euronews.com/my-europe/2024/12/16/are-conservatives-set-to-take-back-power-in-germany-radio-schuman)
 
 Now playing Next
 
-[Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
+[Radio Schuman](https://www.euronews.com/my-europe/europe-news/radio-schuman)
 
-### [What is the role of gold in Russia’s wartime trade relations?](https://www.euronews.com/my-europe/2024/12/09/what-is-the-role-of-gold-in-russias-wartime-trade-relations)
+### [Are conservatives set to take back power in Germany?](https://www.euronews.com/my-europe/2024/12/16/are-conservatives-set-to-take-back-power-in-germany-radio-schuman)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -434,7 +436,6 @@ Programmes
 * [EuroVerify](https://www.euronews.com/my-europe/my-europe-series/euro-verify)
 * [Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
 * [EU Decoded](https://www.euronews.com/my-europe/my-europe-series/eu-decoded)
-* [State Of The Union](https://www.euronews.com/my-europe/my-europe-series/state-of-the-union)
 * [Smart Regions](https://www.euronews.com/my-europe/my-europe-series/smart-regions)
 * [The Europe Conversation](https://www.euronews.com/my-europe/my-europe-series/the-europe-conversation)
 
@@ -524,6 +525,29 @@ Featured
     The Big Question
     
     Deep dive conversations with business leaders](https://www.euronews.com/business/business-series/the-big-question)
+
+[Travel](https://www.euronews.com/travel)
+
+Categories
+
+* [Travel News](https://www.euronews.com/travel/travel-news)
+* [Destinations](https://www.euronews.com/travel/destinations)
+* [Experiences](https://www.euronews.com/travel/experiences)
+* [Stays](https://www.euronews.com/travel/stays)
+* [People](https://www.euronews.com/travel/people)
+
+* * *
+
+Programmes
+
+* [Adventures](https://www.euronews.com/travel/travel-series/adventures)
+* [Conscious Travel](https://www.euronews.com/travel/travel-series/conscious-travel)
+* [Explore](https://www.euronews.com/travel/travel-series/explore)
+* [Golf Travel Tales](https://www.euronews.com/travel/travel-series/golf-travel-tales)
+* [Notes From The Usa](https://www.euronews.com/travel/travel-news/notes-from-the-usa)
+* [Soul Of The South](https://www.euronews.com/travel/travel-series/soul-of-the-south)
+* [Taste](https://www.euronews.com/travel/travel-series/taste)
+* [Women Beyond Borders](https://www.euronews.com/travel/travel-series/women-beyond-borders)
 
 [Euroviews](https://www.euronews.com/tag/euroviews)
 
@@ -642,35 +666,14 @@ Programmes
 * [The Kitchen](https://www.euronews.com/culture/food-and-drink/the-kitchen)
 * [The Star Ingredient](https://www.euronews.com/culture/food-and-drink/the-star-ingredient)
 
-[Travel](https://www.euronews.com/travel)
-
-Categories
-
-* [Travel News](https://www.euronews.com/travel/travel-news)
-* [Destinations](https://www.euronews.com/travel/destinations)
-* [Experiences](https://www.euronews.com/travel/experiences)
-* [Stays](https://www.euronews.com/travel/stays)
-* [People](https://www.euronews.com/travel/people)
-
-* * *
-
-Programmes
-
-* [Adventures](https://www.euronews.com/travel/travel-series/adventures)
-* [Conscious Travel](https://www.euronews.com/travel/travel-series/conscious-travel)
-* [Explore](https://www.euronews.com/travel/travel-series/explore)
-* [Golf Travel Tales](https://www.euronews.com/travel/travel-series/golf-travel-tales)
-* [Notes From The Usa](https://www.euronews.com/travel/travel-news/notes-from-the-usa)
-* [Soul Of The South](https://www.euronews.com/travel/travel-series/soul-of-the-south)
-* [Taste](https://www.euronews.com/travel/travel-series/taste)
-* [Women Beyond Borders](https://www.euronews.com/travel/travel-series/women-beyond-borders)
-
 [Videos](https://www.euronews.com/video)
 
 More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -689,6 +692,7 @@ Partner content
 * [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
 * [Experience Brazil](https://www.euronews.com/partnercontent/embratur/experience-brazil/EN-index.html)
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
+* [Kerala Tourism](https://www.euronews.com/partnercontent/travel/kerala-tourism/)
 * [My Tokyo](https://www.euronews.com/partnercontent/tcvb/my-tokyo/EN-index.html)
 * [Powering Progress](https://www.euronews.com/partnercontent/iberdrola/renewables/EN-index.html)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
