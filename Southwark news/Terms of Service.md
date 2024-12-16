@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Police would like to speak to the two men pictured in connection with their investigation. Image: BTP](https://southwarknews.co.uk/wp-content/uploads/2024/12/NCA-360x180.jpg)](https://southwarknews.co.uk/area/south-london/police-release-cctv-images-after-alleged-attempted-knife-point-robbery-at-new-cross-station/)
+    
+    ### [Police release CCTV images after alleged attempted knife-point robbery at New Cross station](https://southwarknews.co.uk/area/south-london/police-release-cctv-images-after-alleged-attempted-knife-point-robbery-at-new-cross-station/)
+    
+    [![Sadiq Khan at Mayor's Question Time. Credit - London Assembly webcast](https://southwarknews.co.uk/wp-content/uploads/2024/05/Sadiq-Khan-at-Mayors-Question-Time.-Credit-London-Assembly-webcast-360x180.jpg)](https://southwarknews.co.uk/area/london/is-london-hitting-the-targets-on-the-way-to-becoming-a-net-zero-city-by-2030/)
+    
+    ### [Is London hitting the targets on the way to becoming a net zero city by 2030?](https://southwarknews.co.uk/area/london/is-london-hitting-the-targets-on-the-way-to-becoming-a-net-zero-city-by-2030/)
+    
+    [![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
+    
+    ### [Bermondsey fire: Four rescued as firefighters urge smoking safety](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
+    
     [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-charity-launches-christmas-appeal-for-trauma-survivors/)
     
     ### [King’s College Hospital Charity launches Christmas appeal for trauma survivors](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-charity-launches-christmas-appeal-for-trauma-survivors/) 
@@ -43,18 +55,6 @@
     [![Protestors outside the Aylesham Centre in June (ACA)](https://southwarknews.co.uk/wp-content/uploads/2024/12/17-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/comment-labour-councillors-are-choosing-sides-in-tug-of-war-over-peckhams-future/)
     
     ### [Comment: Labour councillors are choosing sides in tug-of-war over Peckham’s future](https://southwarknews.co.uk/area/peckham/comment-labour-councillors-are-choosing-sides-in-tug-of-war-over-peckhams-future/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/CWMP--360x180.png)](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
-    
-    ### [Canada Water towers set to reach almost 50 storeys in ‘massive’ increase](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
-    
-    [![Ayaan Al Waeys was just 35 when she tragically died in November 2022.](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-03-14-40-10-e1734104730383-350x180.jpg)](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
-    
-    ### [St Thomas’ Hospital is being accused of ‘negligence and discrimination’ after death of mum and baby](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
-    
-    [![Theo and Rebekah at his graduation at Goldsmiths, January 2023](https://southwarknews.co.uk/wp-content/uploads/2024/12/Theo-and-Rebekah-at-his-graduation-Goldsmiths-Jan-2023-e1734018073828-360x180.jpeg)](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
-    
-    ### [‘There must be someone out there’: Young Peckham woman’s plea for stem cell donors after fiancé’s cancer diagnosis](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Police would like to speak to the two men pictured in connection with their investigation. Image: BTP](https://southwarknews.co.uk/wp-content/uploads/2024/12/NCA-360x180.jpg)](https://southwarknews.co.uk/area/south-london/police-release-cctv-images-after-alleged-attempted-knife-point-robbery-at-new-cross-station/)
+    
+    ### [Police release CCTV images after alleged attempted knife-point robbery at New Cross station](https://southwarknews.co.uk/area/south-london/police-release-cctv-images-after-alleged-attempted-knife-point-robbery-at-new-cross-station/)
+    
+    [![Sadiq Khan at Mayor's Question Time. Credit - London Assembly webcast](https://southwarknews.co.uk/wp-content/uploads/2024/05/Sadiq-Khan-at-Mayors-Question-Time.-Credit-London-Assembly-webcast-360x180.jpg)](https://southwarknews.co.uk/area/london/is-london-hitting-the-targets-on-the-way-to-becoming-a-net-zero-city-by-2030/)
+    
+    ### [Is London hitting the targets on the way to becoming a net zero city by 2030?](https://southwarknews.co.uk/area/london/is-london-hitting-the-targets-on-the-way-to-becoming-a-net-zero-city-by-2030/)
+    
+    [![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
+    
+    ### [Bermondsey fire: Four rescued as firefighters urge smoking safety](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
+    
     [![King's College Hospital. Credit: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/09/Kings-College-Hospital.-Credit-Robert-Firth-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-charity-launches-christmas-appeal-for-trauma-survivors/)
     
     ### [King’s College Hospital Charity launches Christmas appeal for trauma survivors](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-charity-launches-christmas-appeal-for-trauma-survivors/) 
@@ -128,18 +140,6 @@ View All Result
     [![Protestors outside the Aylesham Centre in June (ACA)](https://southwarknews.co.uk/wp-content/uploads/2024/12/17-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/comment-labour-councillors-are-choosing-sides-in-tug-of-war-over-peckhams-future/)
     
     ### [Comment: Labour councillors are choosing sides in tug-of-war over Peckham’s future](https://southwarknews.co.uk/area/peckham/comment-labour-councillors-are-choosing-sides-in-tug-of-war-over-peckhams-future/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/CWMP--360x180.png)](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
-    
-    ### [Canada Water towers set to reach almost 50 storeys in ‘massive’ increase](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
-    
-    [![Ayaan Al Waeys was just 35 when she tragically died in November 2022.](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-03-14-40-10-e1734104730383-350x180.jpg)](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
-    
-    ### [St Thomas’ Hospital is being accused of ‘negligence and discrimination’ after death of mum and baby](https://southwarknews.co.uk/area/camberwell/st-thomas-hospital-is-being-accused-of-negligence-and-discrimination-after-death-of-mum-and-baby/)
-    
-    [![Theo and Rebekah at his graduation at Goldsmiths, January 2023](https://southwarknews.co.uk/wp-content/uploads/2024/12/Theo-and-Rebekah-at-his-graduation-Goldsmiths-Jan-2023-e1734018073828-360x180.jpeg)](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
-    
-    ### [‘There must be someone out there’: Young Peckham woman’s plea for stem cell donors after fiancé’s cancer diagnosis](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -223,11 +223,11 @@ Terms of Use
 
 [14th December 2024](https://southwarknews.co.uk/news/canada-water-towers-set-to-reach-almost-50-storeys-in-massive-increase/)
 
-[![Neil Harris applauds supporters after his side beat Swansea City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/N-Harris-25425727-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
+[![Neil Harris speaks to the press. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/N-Harris-press-Boro-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-reveals-his-plans-after-stepping-down-as-millwall-head-coach-and-southend-united-are-part-of-them/)
 
-### [Neil Harris addresses Lions fans as he explains decision to leave Millwall for second time](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
+### [Neil Harris reveals his plans after stepping down as Millwall head coach](https://southwarknews.co.uk/sport/football/millwall/neil-harris-reveals-his-plans-after-stepping-down-as-millwall-head-coach-and-southend-united-are-part-of-them/)
 
-[10th December 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
+[16th December 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-reveals-his-plans-after-stepping-down-as-millwall-head-coach-and-southend-united-are-part-of-them/)
 
 [![Andy and Diane and the steps separating Diane from the outside world](https://southwarknews.co.uk/wp-content/uploads/2024/12/Andy-and-Diane-and-the-steps-separating-Diane-from-the-outside-world-120x86.png)](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
 
@@ -235,13 +235,19 @@ Terms of Use
 
 [15th December 2024](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
 
-[![Millwall head coach Neil Harris salutes the fans. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/06/N-Harris-399393-2-scaled-1-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
+[![Neil Harris applauds supporters after his side beat Swansea City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/N-Harris-25425727-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
 
-### [After the stunning rescue mission, the head coach v manager tension, the control struggle – is it a final goodbye for Neil Harris and Millwall?](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
+### [Neil Harris addresses Lions fans as he explains decision to leave Millwall for second time](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
 
-[10th December 2024](https://southwarknews.co.uk/sport/football/millwall/after-the-stunning-rescue-mission-the-head-coach-v-manager-tension-the-control-struggle-is-it-a-final-goodbye-for-neil-harris-and-millwall/)
+[10th December 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
 
 ### Featured Articles
+
+[![(photo: London Fire Brigade)](https://southwarknews.co.uk/wp-content/uploads/2024/10/Image-29-10-2024-at-10.03-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
+
+### [Bermondsey fire: Four rescued as firefighters urge smoking safety](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
+
+[16th December 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-fire-four-rescued-as-firefighters-urge-smoking-safety/)
 
 [![Andy and Diane and the steps separating Diane from the outside world](https://southwarknews.co.uk/wp-content/uploads/2024/12/Andy-and-Diane-and-the-steps-separating-Diane-from-the-outside-world-120x86.png)](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
 
@@ -272,13 +278,6 @@ Terms of Use
 ### [‘There must be someone out there’: Young Peckham woman’s plea for stem cell donors after fiancé’s cancer diagnosis](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
 
 [14th December 2024](https://southwarknews.co.uk/featured/there-must-be-someone-out-there-young-peckham-womans-plea-for-stem-cell-donors-after-fiances-cancer-diagnosis/)
-
-[![Sadiq Khan laughs after being asked about a petition calling for him not to be knighted.
-Photo from Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/12/Sadiq-Khan-laughs-after-being-asked-about-a-petition-calling-for-him-not-to-be-knighted-120x86.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-laughs-off-petition-calling-for-a-block-on-him-getting-a-knighthood/)
-
-### [Sadiq Khan laughs off petition calling for a block on him getting a knighthood](https://southwarknews.co.uk/area/london/sadiq-khan-laughs-off-petition-calling-for-a-block-on-him-getting-a-knighthood/)
-
-[14th December 2024](https://southwarknews.co.uk/area/london/sadiq-khan-laughs-off-petition-calling-for-a-block-on-him-getting-a-knighthood/)
 
 ### USEFUL PAGES
 
