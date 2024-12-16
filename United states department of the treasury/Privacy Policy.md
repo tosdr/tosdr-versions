@@ -575,6 +575,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    December 16, 2024
+    
+    [Treasury Sanctions Key Facilitators Behind North Korea’s Illicit Financial Activities and Military Support to Russia](https://home.treasury.gov/news/press-releases/jy2751)
+    
     December 12, 2024
     
     [U.S. Treasury Announces $47 Million in Awards from the SIPPRA Program](https://home.treasury.gov/news/press-releases/jy2747)
@@ -582,10 +586,6 @@ MENU MENU
     December 12, 2024
     
     [Treasury’s Office of Cybersecurity and Critical Infrastructure Protection Issues Consumer Advisory to Protect Against Cyber Fraud During the Holiday Shopping Season](https://home.treasury.gov/news/press-releases/jy2746)
-    
-    December 10, 2024
-    
-    [Treasury Department Announces Disbursement of $20 Billion Loan to Benefit Ukraine, To Be Repaid with Proceeds Earned from Immobilized Russian Sovereign Assets](https://home.treasury.gov/news/press-releases/jy2744)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
