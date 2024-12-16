@@ -410,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ A strong spirit transcends rules”
+“ Don't worry about what anybody else is going to do… The best way to predict the future is to invent it. Really smart people with reasonable funding can do just about anything that doesn't violate too many of Newton's Laws!”
 
-[Prince](https://en.wikipedia.org/wiki/Prince_(musician))
+[Alan Kay](https://computerhistory.org/profile/alan-kay/)
 
 [](https://www.adafruit.com/about)
 
