@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr limited government libertarian anarchism responses to ten objections](/freeblr/limited-government/libertarian-anarchism-responses-to-ten-objections/card.svg)](https://jarick.works/freeblr/limited-government/libertarian-anarchism-responses-to-ten-objections)[![freeblr faq are anarchists pacifists](/freeblr/faq/are-anarchists-pacifists/card.svg)](https://jarick.works/freeblr/faq/are-anarchists-pacifists)[![spekr what is minarchism](/spekr/what-is-minarchism/card.svg)](https://jarick.works/spekr/what-is-minarchism)[![freeblr limited government no rulers](/freeblr/limited-government/no-rulers/card.svg)](https://jarick.works/freeblr/limited-government/no-rulers)
+[![spekr what is anarcho communism](/spekr/what-is-anarcho-communism/card.svg)](https://jarick.works/spekr/what-is-anarcho-communism)[![freeblr money does money inspire us to cooperate](/freeblr/money/does-money-inspire-us-to-cooperate/card.svg)](https://jarick.works/freeblr/money/does-money-inspire-us-to-cooperate)[![freeblr human nature the pluralism of liberty](/freeblr/human-nature/the-pluralism-of-liberty/card.svg)](https://jarick.works/freeblr/human-nature/the-pluralism-of-liberty)[![freeblr religion anarchism and atheism theism and statism](/freeblr/religion/anarchism-and-atheism-theism-and-statism/card.svg)](https://jarick.works/freeblr/religion/anarchism-and-atheism-theism-and-statism)
 
 [Follow](#follow)
 
