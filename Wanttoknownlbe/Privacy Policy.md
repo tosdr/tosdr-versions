@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/frashokereti-een-boek-en-wat-voor-een/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/help-geldstroom-vrije-energie-uitvinder-paul-pantone-staat-stil/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -151,8 +151,6 @@ Advertentie
 E-mailadres
 
 Inschrijven
-
-[![Ring of Harmony aanbieding banner](https://www.wanttoknow.nl/wp-content/uploads/Ring-of-Harmony-banner-NB-aug-2023.jpg)](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/)
 
 #### Quote van de week
 
