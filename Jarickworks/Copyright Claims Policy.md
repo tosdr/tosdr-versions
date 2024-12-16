@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![spekr what is anarcho communism](/spekr/what-is-anarcho-communism/card.svg)](https://jarick.works/spekr/what-is-anarcho-communism)[![freeblr money does money inspire us to cooperate](/freeblr/money/does-money-inspire-us-to-cooperate/card.svg)](https://jarick.works/freeblr/money/does-money-inspire-us-to-cooperate)[![freeblr human nature the pluralism of liberty](/freeblr/human-nature/the-pluralism-of-liberty/card.svg)](https://jarick.works/freeblr/human-nature/the-pluralism-of-liberty)[![freeblr religion anarchism and atheism theism and statism](/freeblr/religion/anarchism-and-atheism-theism-and-statism/card.svg)](https://jarick.works/freeblr/religion/anarchism-and-atheism-theism-and-statism)
+[![freeblr money hard money in the voluntaryist tradition](/freeblr/money/hard-money-in-the-voluntaryist-tradition/card.svg)](https://jarick.works/freeblr/money/hard-money-in-the-voluntaryist-tradition)[![freeblr money the power in money](/freeblr/money/the-power-in-money/card.svg)](https://jarick.works/freeblr/money/the-power-in-money)[![freeblr human nature rights](/freeblr/human-nature/rights/card.svg)](https://jarick.works/freeblr/human-nature/rights)[![freeblr limited government how the state thrives how the state fails](/freeblr/limited-government/how-the-state-thrives-how-the-state-fails/card.svg)](https://jarick.works/freeblr/limited-government/how-the-state-thrives-how-the-state-fails)
 
 [Follow](#follow)
 
