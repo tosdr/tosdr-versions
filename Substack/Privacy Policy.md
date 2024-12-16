@@ -465,9 +465,9 @@ If you have any questions or concerns regarding our privacy policies, please sen
 
 > Substack Inc.
 > 
-> 111 Sutter Street, 7th Floor
+> 731 Sansome Street
 > 
-> San Francisco CA 94104
+> San Francisco CA 94111
 > 
 > USA
 > 
