@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![spekr what is democratic socialism](/spekr/what-is-democratic-socialism/card.svg)](https://jarick.works/spekr/what-is-democratic-socialism)[![freeblr health a monopoly on violence](/freeblr/health/a-monopoly-on-violence/card.svg)](https://jarick.works/freeblr/health/a-monopoly-on-violence)[![freeblr market how free are free markets](/freeblr/market/how-free-are-free-markets/card.svg)](https://jarick.works/freeblr/market/how-free-are-free-markets)[![freeblr faq how would anarcho capitalists handle the public goods problem](/freeblr/faq/how-would-anarcho-capitalists-handle-the-public-goods-problem/card.svg)](https://jarick.works/freeblr/faq/how-would-anarcho-capitalists-handle-the-public-goods-problem)
+[![spekr what is communism](/spekr/what-is-communism/card.svg)](https://jarick.works/spekr/what-is-communism)[![freeblr borders open borders or no borders](/freeblr/borders/open-borders-or-no-borders/card.svg)](https://jarick.works/freeblr/borders/open-borders-or-no-borders)[![freeblr economics the crackdown on price gouging helps no one except politicians and the media](/freeblr/economics/the-crackdown-on-price-gouging-helps-no-one-except-politicians-and-the-media/card.svg)](https://jarick.works/freeblr/economics/the-crackdown-on-price-gouging-helps-no-one-except-politicians-and-the-media)[![freeblr environment how environmentalism disdains the poor](/freeblr/environment/how-environmentalism-disdains-the-poor/card.svg)](https://jarick.works/freeblr/environment/how-environmentalism-disdains-the-poor)
 
 [Follow](#follow)
 
