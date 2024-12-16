@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c0310c6b-5a6e-400d-ab6a-4cebb6068434/20241216T140834/c0310c6b-5a6e-400d-ab6a-4cebb6068434_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c0310c6b-5a6e-400d-ab6a-4cebb6068434/20241216T140834/c0310c6b-5a6e-400d-ab6a-4cebb6068434_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/nfl-playoff-picture-seahawks-after-week-15/281-544d4f94-69a7-4ac3-a255-acf8f5d17c40)
+    *  [![](https://media.king5.com/assets/KING/images/d0ce27a1-2100-4ec3-b9e2-e7ae795abef3/20240628T201247/d0ce27a1-2100-4ec3-b9e2-e7ae795abef3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d0ce27a1-2100-4ec3-b9e2-e7ae795abef3/20240628T201247/d0ce27a1-2100-4ec3-b9e2-e7ae795abef3_360x203.jpg)](https://www.king5.com/article/news/local/senate-investigation-amazon-warehouse-worker-injuries/281-e845aa31-8da2-4ee4-94b3-e6f350ac1cf5)
         
-        #### [NFL Playoff Picture: Where Seahawks stand after Week 15 loss to Packers](https://www.king5.com/article/sports/nfl/seahawks/nfl-playoff-picture-seahawks-after-week-15/281-544d4f94-69a7-4ac3-a255-acf8f5d17c40) [![](https://media.king5.com/assets/KING/images/c0310c6b-5a6e-400d-ab6a-4cebb6068434/20241216T140834/c0310c6b-5a6e-400d-ab6a-4cebb6068434_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c0310c6b-5a6e-400d-ab6a-4cebb6068434/20241216T140834/c0310c6b-5a6e-400d-ab6a-4cebb6068434_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/nfl-playoff-picture-seahawks-after-week-15/281-544d4f94-69a7-4ac3-a255-acf8f5d17c40)
+        #### [Senate investigation reveals 'deeply troubling' pattern of injuries at Amazon warehouses](https://www.king5.com/article/news/local/senate-investigation-amazon-warehouse-worker-injuries/281-e845aa31-8da2-4ee4-94b3-e6f350ac1cf5)
         
-        #### [Where Seahawks stand in NFL playoff picture after Week 15 loss to Packers](https://www.king5.com/article/sports/nfl/seahawks/nfl-playoff-picture-seahawks-after-week-15/281-544d4f94-69a7-4ac3-a255-acf8f5d17c40)
-    *  [![](https://media.king5.com/assets/KING/images/80b62468-6d28-4ece-9284-ccc38a83e057/20241128T020223/80b62468-6d28-4ece-9284-ccc38a83e057_16x9.jpg) ![](https://media.king5.com/assets/KING/images/80b62468-6d28-4ece-9284-ccc38a83e057/20241128T020223/80b62468-6d28-4ece-9284-ccc38a83e057_360x203.jpg)](https://www.king5.com/article/travel/holiday-travel-numbers-seatac-airport/281-ef6d5f97-618e-4c28-93ba-ee07124aedb9)
+    *  [![](https://media.king5.com/assets/KING/images/ff696224-563e-4e26-b354-953aa54d4015/ff696224-563e-4e26-b354-953aa54d4015_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ff696224-563e-4e26-b354-953aa54d4015/ff696224-563e-4e26-b354-953aa54d4015_360x203.jpg)](https://www.king5.com/article/news/politics/state-politics/new-crime-justice-laws-jan-1/281-6836a038-f1fc-493e-a83d-9f90bf50857a)
         
-        #### [More than 2 million travelers expected to pass through SEA airport during the holidays](https://www.king5.com/article/travel/holiday-travel-numbers-seatac-airport/281-ef6d5f97-618e-4c28-93ba-ee07124aedb9)
+        #### [These new Washington crime and justice laws go into effect Jan. 1](https://www.king5.com/article/news/politics/state-politics/new-crime-justice-laws-jan-1/281-6836a038-f1fc-493e-a83d-9f90bf50857a)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -57,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/CCT/images/a6a79638-65d3-46fc-a550-d1d6da26d69b/a6a79638-65d3-46fc-a550-d1d6da26d69b_16x9.jpg) ![](https://media.king5.com/assets/CCT/images/a6a79638-65d3-46fc-a550-d1d6da26d69b/a6a79638-65d3-46fc-a550-d1d6da26d69b_360x203.jpg)](https://www.king5.com/article/news/nation-world/winter-solstice-shortest-day-of-the-year-2024/507-18e8fd4e-8808-496d-bda3-cfcc289778a2)
+        
+        #### [Winter solstice 2024: What it means and why it's the shortest day of the year](https://www.king5.com/article/news/nation-world/winter-solstice-shortest-day-of-the-year-2024/507-18e8fd4e-8808-496d-bda3-cfcc289778a2)
+        
     *  [![](https://media.king5.com/assets/KING/images/fd0f7a8e-1c4d-411d-b785-37a1940a736d/20241216T125947/fd0f7a8e-1c4d-411d-b785-37a1940a736d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fd0f7a8e-1c4d-411d-b785-37a1940a736d/20241216T125947/fd0f7a8e-1c4d-411d-b785-37a1940a736d_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/ed0bd12c-81db-4cd3-a9aa-0859bc6da845/20241120T011031/ed0bd12c-81db-4cd3-a9aa-0859bc6da845_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ed0bd12c-81db-4cd3-a9aa-0859bc6da845/20241120T011031/ed0bd12c-81db-4cd3-a9aa-0859bc6da845_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/gusty-winds-mountain-snow-coastal-flooding-western-washington/281-1316445b-691c-4796-93da-9054b5708fcc)
-        
-        #### [Winter Weather and Coastal Flooding Advisories in effect for western Washington](https://www.king5.com/article/weather/weather-blog/gusty-winds-mountain-snow-coastal-flooding-western-washington/281-1316445b-691c-4796-93da-9054b5708fcc)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -106,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-42°
+49°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
