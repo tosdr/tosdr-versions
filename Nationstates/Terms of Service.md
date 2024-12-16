@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [UK Politics Thread: The Name's Yang..… (692)](https://forum.nationstates.net/viewtopic.php?t=558706&f=20&view=unread#unread ""UK Politics Thread: The Name's Yang... Chris Yang" (692 posts)")
-* [Into the Storm (Post-Apoc/Journey IC) (211)](https://forum.nationstates.net/viewtopic.php?t=555679&f=31&view=unread#unread ""Into the Storm (Post-Apoc/Journey IC)" (211 posts)")
-* [Tiami's Endless Tacos (2,976)](https://forum.nationstates.net/viewtopic.php?t=558437&f=20&view=unread#unread ""Tiami's Endless Tacos" (2,976 posts)")
-* [NS would be better if… (146)](https://forum.nationstates.net/viewtopic.php?t=559710&f=20&view=unread#unread ""NS would be better if…" (146 posts)")
-* [\[Draft\] Safe and Inclusive Spaces Act (40)](https://forum.nationstates.net/viewtopic.php?t=559688&f=9&view=unread#unread ""[Draft] Safe and Inclusive Spaces Act" (40 posts)")
+* [NFL Football Thread 24-25: The Road t… (9,051)](https://forum.nationstates.net/viewtopic.php?t=527922&f=20&view=unread#unread ""NFL Football Thread 24-25: The Road to New Orleans!" (9,051 posts)")
+* [Guess the AU's Favorite Nation-State (448)](https://forum.nationstates.net/viewtopic.php?t=555093&f=25&view=unread#unread ""Guess the AU's Favorite Nation-State" (448 posts)")
+* [American Politics: Turnabout Trump (9,655)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (9,655 posts)")
+* [Say a random sentence (9,994)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (9,994 posts)")
+* [Making a picture for all who reply(Jo… (181)](https://forum.nationstates.net/viewtopic.php?t=559463&f=25&view=unread#unread ""Making a picture for all who reply(Jorsania version)" (181 posts)")
 
 Advertisement
 
