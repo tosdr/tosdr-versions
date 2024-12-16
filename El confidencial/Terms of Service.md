@@ -567,7 +567,7 @@ Servicios
 [Lotería](https://www.elconfidencial.com/sorteos-y-loterias/ "Lotería")
 
 * [Lotería de Navidad 2024](https://www.elconfidencial.com/loteria-de-navidad/ "Lotería de Navidad 2024")
-* [Comprobar Lotería de Navidad 2024](https://www.elconfidencial.com/loteria-de-navidad/comprobar/ "Comprobar Lotería de Navidad 2024")
+* [Comprobar Lotería de Navidad 2024](https://www.elconfidencial.com/loteria-de-navidad/2024-12-15/loteria-navidad-2024-gordo-directo_4024110/ "Comprobar Lotería de Navidad 2024")
 * [Buscador Lotería de Navidad 2024](https://www.elconfidencial.com/loteria-de-navidad/buscador/ "Buscador Lotería de Navidad 2024")
 * [Lotería del Niño 2025](https://www.elconfidencial.com/loteria-nino/ "Lotería del Niño 2025")
 * [Comprobar Lotería del Niño 2025](https://www.elconfidencial.com/loteria-nino/comprobar/ "Comprobar Lotería del Niño 2025")
