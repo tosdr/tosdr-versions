@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/het-kan-een-hele-klus-zijn/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/hoe-monsanto-en-het-amerikaanse-leger-samenwerken/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
