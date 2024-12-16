@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Subscribe today**
+**Enjoy unlimited access**
 
-Every print subscription comes with full digital access
+Only $2.99 a month
 
-[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Britain’s largest ancient massacre may have included cannibalism](https://www.sciencenews.org/article/britain-ancient-massacre-cannibalism)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")15 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")21 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
@@ -120,23 +120,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Life
         --------------------
         
+        * [Life](https://www.sciencenews.org/topic/life)
+            
+            ### [Here are 8 remarkable scientific firsts of 2024](https://www.sciencenews.org/article/remarkable-scientific-firsts-of-2024)
+            
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")3 hours ago
+            
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [The message-sending part of neurons may be blobby, not smooth](https://www.sciencenews.org/article/axons-may-be-blobby-neuron)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")50 minutes ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")7 hours ago
             
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
             ### [Humans have linked emotions to the same body parts for 3,000 years](https://www.sciencenews.org/article/link-emotions-body-parts-3000-years)
             
             By [Jason Bittel](https://www.sciencenews.org/author/jason-bittel "Posts by Jason Bittel")December 13, 2024
-            
-        * [Life](https://www.sciencenews.org/topic/life)
-            
-            ### [The ‘Blob,’ an unprecedented marine heat wave, killed 4 million seabirds](https://www.sciencenews.org/article/blob-marine-heat-wave-killed-seabirds)
-            
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")December 12, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -173,6 +173,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Physics
         -----------------------
         
+        * [Life](https://www.sciencenews.org/topic/life)
+            
+            ### [Here are 8 remarkable scientific firsts of 2024](https://www.sciencenews.org/article/remarkable-scientific-firsts-of-2024)
+            
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")3 hours ago
+            
         * [Physics](https://www.sciencenews.org/topic/physics)
             
             ### [Notre Dame is reopening. What does that mean for its acoustics?](https://www.sciencenews.org/article/notre-dame-reopening-acoustics-fire) 
@@ -185,12 +191,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Skyler Ware](https://www.sciencenews.org/author/skyler-ware "Posts by Skyler Ware")December 3, 2024
             
-        * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-            
-            ### [50 years ago, physics underwent a major revolution](https://www.sciencenews.org/article/50-years-particle-physics-revolution)
-            
-            By [Cassie Martin](https://www.sciencenews.org/author/cassie-martin "Posts by Cassie Martin")November 29, 2024
-            
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
@@ -199,6 +199,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Space
         ---------------------
         
+        * [Life](https://www.sciencenews.org/topic/life)
+            
+            ### [Here are 8 remarkable scientific firsts of 2024](https://www.sciencenews.org/article/remarkable-scientific-firsts-of-2024)
+            
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")3 hours ago
+            
         * [Space](https://www.sciencenews.org/topic/space)
             
             ### [These discoveries in 2024 could be groundbreaking — if they’re true](https://www.sciencenews.org/article/2024-science-discoveries-could-be-true)
@@ -210,12 +216,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [The 2024 eclipse gave a rare view of the sun. Here’s a peek at early data](https://www.sciencenews.org/article/2024-eclipse-sun-early-data-corona)
             
             By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")December 13, 2024
-            
-        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
-            
-            ### [NASA’s Perseverance rover found a new potential setting for Martian life](https://www.sciencenews.org/article/nasa-perseverance-rover-potential-life-setting)
-            
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")December 12, 2024
             
 
 Terms of Service
