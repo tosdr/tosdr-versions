@@ -1,5 +1,3 @@
-[](https://www.fanatics.com/zip-faq/ch-15935565+z-9624997-2875498770)
-
 [Skip to Main Content](#main-content)[Skip to Footer](#global-footer)
 
 SIGN UP & SAVE!
@@ -35,7 +33,7 @@ SIGN UP & SAVE!
     
     [wwe](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)[wnba](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)
     
-    [nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
+    [nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)[collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
     
 * [nfl](https://www.fanatics.com/nfl/o-3572+z-953036859-1253393850)
 * [college](https://www.fanatics.com/college/o-27+z-9314487535-1329600116)
@@ -48,13 +46,15 @@ SIGN UP & SAVE!
     
     [wnba](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)[nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
     
+    [collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
+    
 * [nba](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)
 * [nhl](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
 * [soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
 * [wwe](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
 * [wnba](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)
 * [nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
-* [collectibles](#top-nav11)
+* [collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
 * [more](#top-nav12)
 * [sale](#top-nav13)
 * [players](#top-nav14)
@@ -407,24 +407,24 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: 3142b7933288764c
+rc: 6e909f352d6a2d35
 
-vid: 25837f40-bb4f-11ef-8658-b18d67992863
+vid: 828a6d20-bb81-11ef-a401-e36f7a9cea44
 
 version: 1.1.0-rc-20241009-19.102623
 
 +
 
-Qualified Experiments #:* 15273:B:1:1
-* 15465:B:1:1
+Qualified Experiments #:* 15273:A:0:1
+* 15465:A:0:1
 * 15472:A:0:1
-Namespaces:* 5:2056:0
-* 6:2538:0
-* 8:3482:0
-* 10:7371:0
-* 2:3693:0
-* 3:3062:0
-* 4:4234:0
-* 7:1447:0
-* 9:359:0
-* 11:4535:0
+Namespaces:* 4:888:0
+* 5:4648:0
+* 11:4623:0
+* 2:1874:0
+* 3:4503:0
+* 6:509:0
+* 7:3293:0
+* 8:4718:0
+* 9:1725:0
+* 10:1928:0
