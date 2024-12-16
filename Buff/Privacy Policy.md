@@ -40,9 +40,7 @@ Menu
 * [iOS](https://apps.apple.com/il/app/buff-game/id1556876835)
 * [Android](https://play.google.com/store/apps/details?id=com.buff.game.appmobile)
 
-[![](https://www.buff.game/wp-content/uploads/2021/04/apple.svg)](https://apps.apple.com/il/app/buff-game/id1556876835)
-
-[![](https://www.buff.game/wp-content/uploads/2021/04/google.svg)](https://play.google.com/store/apps/details?id=com.buff.game.appmobile)
+[![](https://www.buff.game/wp-content/uploads/2021/04/google.svg)](https://play.google.com/store/apps/details?id=com.buff.play)
 
 [Download](https://download.overwolf.com/install/Download?PartnerId=3762)
 
