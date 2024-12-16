@@ -24,6 +24,7 @@
     * [Blog](https://mybrightwheel.com/blog "Brightwheel Blog shares ideas and inspiration that help you run an amazing early education center")
 * [Pricing](https://mybrightwheel.com/pricing/)
 * [Request a Demo](https://mybrightwheel.com/demo/ "Request your free, personalized demo and we’ll show you how easy it is to get started on brightwheel.")
+
 * [Log In](https://schools.mybrightwheel.com/sign-in)
 * [Get a demo](https://mybrightwheel.com/demo/ "Request your free, personalized demo and we’ll show you how easy it is to get started on brightwheel.")
 
