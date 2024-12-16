@@ -129,7 +129,7 @@ FR
         
         up to 2% Cash Back](https://www.rakuten.ca/staples-canada)[Samsung
         
-        up to 5% Cash Back](https://www.rakuten.ca/samsung.com)
+        up to 8% Cash Back](https://www.rakuten.ca/samsung.com)
         
         Featured Shops & Deals
         
