@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Trevor Noah ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-trevor-noah/)
+[![25 Facts About Ganoderenic Acid ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2286%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/25-facts-about-ganoderenic-acid/)
 
-Celebrity
+Chemistry
 
-15 Dec 2024
+13 Dec 2024
 
-[50 Facts About Trevor Noah](https://facts.net/celebrity/50-facts-about-trevor-noah/)
+[25 Facts About Ganoderenic Acid](https://facts.net/science/chemistry/25-facts-about-ganoderenic-acid/)
 
-[![30 Facts About Megacystis Microcolon Intestinal Hypoperistalsis ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-megacystis-microcolon-intestinal-hypoperistalsis/)
+[![50 Facts About Ted Turner ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22103%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/50-facts-about-ted-turner/)
 
-Health Science
+People
 
-15 Dec 2024
+13 Dec 2024
 
-[30 Facts About Megacystis Microcolon Intestinal Hypoperistalsis](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-megacystis-microcolon-intestinal-hypoperistalsis/)
+[50 Facts About Ted Turner](https://facts.net/history/people/50-facts-about-ted-turner/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
