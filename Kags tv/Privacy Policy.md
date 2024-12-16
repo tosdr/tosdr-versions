@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.kagstv.com/assets/CCT/images/a6a79638-65d3-46fc-a550-d1d6da26d69b/a6a79638-65d3-46fc-a550-d1d6da26d69b_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/a6a79638-65d3-46fc-a550-d1d6da26d69b/a6a79638-65d3-46fc-a550-d1d6da26d69b_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/winter-solstice-shortest-day-of-the-year-2024/507-18e8fd4e-8808-496d-bda3-cfcc289778a2)
+        
+        #### [Winter solstice 2024: What it means and why it's the shortest day of the year](https://www.kagstv.com/article/news/nation-world/winter-solstice-shortest-day-of-the-year-2024/507-18e8fd4e-8808-496d-bda3-cfcc289778a2)
+        
     *  [![](https://media.kagstv.com/assets/CCT/images/fad0fab5-244c-46a0-b557-991936b12207/20241205T231747/fad0fab5-244c-46a0-b557-991936b12207_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/fad0fab5-244c-46a0-b557-991936b12207/20241205T231747/fad0fab5-244c-46a0-b557-991936b12207_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
         
         #### [7.0 earthquake off Northern California prompts brief tsunami warning](https://www.kagstv.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
-        
-    *  [![](https://media.kagstv.com/assets/KCEN/images/df8a3bb9-c7c3-4c2c-8a96-35f4ded64507/20241216T130759/df8a3bb9-c7c3-4c2c-8a96-35f4ded64507_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/df8a3bb9-c7c3-4c2c-8a96-35f4ded64507/20241216T130759/df8a3bb9-c7c3-4c2c-8a96-35f4ded64507_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
-        
-        #### [Two fronts and rain chances until midweek | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -97,9 +97,9 @@ Navigation
 
 Bryan, TX »
 
-67°
+81°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
