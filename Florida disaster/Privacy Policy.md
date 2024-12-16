@@ -62,7 +62,6 @@ Search
         * [Watershed Planning Program](https://www.floridadisaster.org/dem/mitigation/watershed-planning/)
         * [Swift Current](https://www.floridadisaster.org/dem/mitigation/swift-current/)
         * [Residential Mitigation](https://www.floridadisaster.org/dem/mitigation/residential-mitigation/)
-    * [STORM Revolving Loan Fund](https://www.floridadisaster.org/dem/safeguarding-tomorrow-through-ongoing-risk-mitigation-storm-revolving-loan-fund/)
     * [Procurement](https://www.floridadisaster.org/dem/procurement-and-contract-management/)
         * [How to Do Business With the State](https://www.floridadisaster.org/dem/procurement-and-contract-management/how-to-do-business-with-the-state/)
     * [Preparedness](https://www.floridadisaster.org/dem/preparedness/)
@@ -224,9 +223,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Saturday, December 14, 2024**
+**Monday, December 16, 2024**
 
-**...Coastal Showers Developing Along the East Coast and Moving Inland Towards the I-75 Corridor to Increase In Coverage Late This Afternoon and This Evening and Continue Through the Overnight Hours...Mostly Dry Conditions Elsewhere...Breezy Winds With Gusts Upwards of 15-25 MPH Statewide Today; Locally Stronger Gusts Up to 35 MPH Possible Along the Immedate East Coastline...Moderate to High Risk for Rip Currents Along Florida Panhandle and East Coast...Beach and Boating Conditions to Become Increasingly Hazardous Along Florida's Atlantic Coast Throughout the Day Due to Breezy Onshore Winds and Long-Period Swells; High Surf Advisories In Effect For Large Breaking Waves Upwards of 5-10'; Minor to Moderate Beach Erosion Expected; Coastal Flood Advisories In Effect for Minor Coastal Flooding...**
+**...Widespread Fog Throughout Big Bend and Suwannee Valley; Dense Fog Throughout Northeast Florida to Linger Through Mid-to-Late Morning Hours...Mostly Dry Conditions Across West Florida...Isolated Showers Throughout the Day Across East Florida; Possible Thunderstorm or Two Along Southeast Florida and Keys Later Today...Breezy Winds Throughout the Peninsula; Wind Gusts of 15-25 MPH Throughout and 30-35 MPH Along Portions of East Coast...Above Normal High Temperatures for this Time of Year...Showers to Continue Overnight Along East Coast and Move Towards I-95 Corridor...Another Round of Widespread Fog Possible Throughout North Florida and Nature Coast; Dense Fog Possible Throughout Northeast Florida Early Tuesday Morning...Dangerous Ocean Swells and Onshore Winds to Continue High Risk for Rip Currents Along East Coast Beaches; Moderate Risk for Rip Currents Along Panhandle Beaches...Lingering Instances of Coastal Flooding Possible Near and During High Tide for Portions of East Coast...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
