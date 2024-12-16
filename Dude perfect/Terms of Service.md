@@ -401,6 +401,7 @@ DUDE PERFECT
 ------------
 
 * [Your Account](https://dudeperfect.store/account)
+* [Careers](https://jobs.gusto.com/boards/dude-perfect-llc-2148d39f-e2f6-40bb-b350-a60eb2eba621)
 * [Military - First Responder - Educator Discounts](https://dudeperfect.store/pages/military-first-responder-educator-discount)
 * [Do not sell or share my personal information](https://dudeperfect.store/pages/ccpa-opt-out)
 
