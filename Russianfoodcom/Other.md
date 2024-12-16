@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,7 +148,7 @@
 
 Сейчас читают
 
-* [Селёдка под шубой с грибами (без свёклы)](https://www.russianfood.com/recipes/recipe.php?rid=159198)
+* [Рулетики из сельди, с плавленым сыром и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174565)
 
 |     |
 | --- |
@@ -170,6 +170,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Кулинарные приключения начинаются. Лучшие САЛАТЫ №24-51](https://www.russianfood.com/reading/?post_id=22999) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/555/sm_554687.jpg)](https://www.russianfood.com/reading/?post_id=22999)
+
+Салат с курицей, шампиньонами и овощами. Селёдка под шубой с грибами, без свёклы. Винегрет с яблоком. Салат с креветками и красной икрой. Крабовый салат с морской капустой. Салат с фасолью и грибами. Салат с курицей, яблоками, орехами и гранатом.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22999)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22999#comments) | 16.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Обновим фуршетное меню! Лучшие рецепты на КОРПОРАТИВ (28)](https://www.russianfood.com/reading/?post_id=22998) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/702/sm_701513.jpg)](https://www.russianfood.com/reading/?post_id=22998)
+
+Яичные рулетики с крабовыми палочками. Салат "Чафан" с курицей. Слоёные рулетики с беконом и мягким сыром. Мильфей с киви и бананами. Блины из шпината с фетой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22998)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на праздники](https://www.russianfood.com/blogs/?id=394640) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22998#comments) | 16.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -353,34 +381,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты на праздники](https://www.russianfood.com/blogs/?id=394640) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22987#comments) | 13.12.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Калья](https://www.russianfood.com/recipes/recipe.php?rid=175124) |     |
-
-[![Фото к рецепту: Калья](//img1.russianfood.com/dycontent/images_upl/760/sm_759617.jpg "Фото к рецепту: Калья")](https://www.russianfood.com/recipes/recipe.php?rid=175124)
-
-Калья – старинное русское блюдо, рыбный суп с добавлением солёных огурцов и рассола.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175124)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [ИВАНЫЧ](https://www.russianfood.com/blogs/?id=18150) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175124#comments) | 13.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Миндальное печенье](https://www.russianfood.com/recipes/recipe.php?rid=175128) |     |
-
-[![Фото к рецепту: Миндальное печенье](//img1.russianfood.com/dycontent/images_upl/761/sm_760115.jpg "Фото к рецепту: Миндальное печенье")](https://www.russianfood.com/recipes/recipe.php?rid=175128)
-
-Миндальное печенье готовить очень просто, а получается оно необыкновенно вкусным. Воздушное, хрустящее, с насыщенным вкусом миндаля. Если вы не знаете, куда потратить яичные белки, рекомендую это печенье.) Приготовьте и попробуйте.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175128)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175128#comments) | 12.12.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -452,8 +452,8 @@
 
 |     |     |     |
 | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760757.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174935) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760273.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174936) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760310.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174933) |
-| [Салат с фасолью, кукурузой, перцем и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174935) | [Слоёный салат со шпротами, сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174936) | [Салат с крабовыми палочками, ананасами и маслинами](https://www.russianfood.com/recipes/recipe.php?rid=174933) |
+| [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760273.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174936) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760757.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174935) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760310.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174933) |
+| [Слоёный салат со шпротами, сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174936) | [Салат с фасолью, кукурузой, перцем и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174935) | [Салат с крабовыми палочками, ананасами и маслинами](https://www.russianfood.com/recipes/recipe.php?rid=174933) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -470,4 +470,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(111)
+(105)
