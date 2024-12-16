@@ -1,10 +1,8 @@
     
 
-    
-
         [Skip to content](#MainContent)
 
-**FLASH SALE! FIRST COME, FIRST SERVED! CHOOSE YOUR DISCOUNT.**
+**FREE STANDARD SHIPPING ON ORDERS $50+.**
 
 [![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Logo_Flatlg_900x.png?v=1614326358)](https://areyougame.com/)
 
