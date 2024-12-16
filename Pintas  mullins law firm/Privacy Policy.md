@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the signs of emotional abuse in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-signs-of-emotional-abuse-in-nursing-homes-scaled.jpg "What Are the Signs of Emotional Abuse in Nursing Homes?")](https://www.pintas.com/faq/what-are-the-signs-of-emotional-abuse-in-nursing-homes/ "What Are the Signs of Emotional Abuse in Nursing Homes?")
+[![How are infections spread in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-are-infections-spread-in-nursing-homes.jpg "How Are Infections Spread in Nursing Homes?")](https://www.pintas.com/faq/how-are-infections-spread-in-nursing-homes/ "How Are Infections Spread in Nursing Homes?")
 
-[#### What Are the Signs of Emotional Abuse in Nursing Homes?](https://www.pintas.com/faq/what-are-the-signs-of-emotional-abuse-in-nursing-homes/)
+[#### How Are Infections Spread in Nursing Homes?](https://www.pintas.com/faq/how-are-infections-spread-in-nursing-homes/)
 
-[![How long do you have to file a lawsuit against a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home-scaled.jpg "How Long Do You Have to File a Lawsuit Against a Nursing Home?")](https://www.pintas.com/faq/how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home/ "How Long Do You Have to File a Lawsuit Against a Nursing Home?")
+[![How can i recover damages for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-can-i-recover-damages-for-mesothelioma.jpg "How Can I Recover Damages for Mesothelioma?")](https://www.pintas.com/lung-cancer/how-can-i-recover-damages-for-mesothelioma/ "How Can I Recover Damages for Mesothelioma?")
 
-[#### How Long Do You Have to File a Lawsuit Against a Nursing Home?](https://www.pintas.com/faq/how-long-do-you-have-to-file-a-lawsuit-against-a-nursing-home/)
+[#### How Can I Recover Damages for Mesothelioma?](https://www.pintas.com/lung-cancer/how-can-i-recover-damages-for-mesothelioma/)
 
-[![How common is elder abuse in memory care facilities?](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-how-common-is-elder-abuse-in-memory-care-facilities-300x200.jpg "How Common Is Elder Abuse in Memory Care Facilities?")](https://www.pintas.com/faq/how-common-is-elder-abuse-in-memory-care-facilities/ "How Common Is Elder Abuse in Memory Care Facilities?")
+[![Can blood tests show lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-can-blood-tests-show-lung-cancer.jpg "Can Blood Tests Show Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-blood-tests-show-lung-cancer/ "Can Blood Tests Show Lung Cancer?")
 
-[#### How Common Is Elder Abuse in Memory Care Facilities?](https://www.pintas.com/faq/how-common-is-elder-abuse-in-memory-care-facilities/)
+[#### Can Blood Tests Show Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-blood-tests-show-lung-cancer/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
