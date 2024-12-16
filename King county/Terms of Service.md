@@ -8,7 +8,7 @@ Dec
 
 * * *
 
-15](https://www.kingcounty.gov/en/calendar)
+16](https://www.kingcounty.gov/en/calendar)
 
 language English
 
@@ -32,6 +32,7 @@ Global Navigation
 ### About King County expand\_more
 
 * [Careers](https://www.kingcounty.gov/en/legacy/audience/employees/career2)
+* [Contact us](https://contact.kingcounty.gov/)
 * [Departments](https://www.kingcounty.gov/en/shared-topics/about-king-county/departments)
 * [Employee resources](https://kingcounty.gov/legacy/audience/employees)
 * [King County TV (KCTV)](https://www.kingcounty.gov/en/independents/about-king-county/king-county-tv)
@@ -280,15 +281,14 @@ Footer Links
 
 [![King County Facebook page](https://cdn.kingcounty.gov/-/media/king-county/icons/home-page/social-media/fb_icon.png?rev=489d5ece3977404a994d5a9f059e0e08&hash=DE43299EFC1A99EA00B836CF2F72AFCD)](https://www.facebook.com/KingCountyWA) [![King County Instagram page](https://cdn.kingcounty.gov/-/media/king-county/icons/home-page/social-media/lin_icon.png?rev=a8e13b4adfc94d87999abf0c1a4f94f1&hash=AE6553596217AEA51CA6FCD7DB928ACD)](https://www.linkedin.com/company/5871?trk=vsrp_companies_res_name&trkInfo=VSRPsearchId%3A458746911379615462711%2CVSRPtargetId%3A) [![King  County Twitter page](https://cdn.kingcounty.gov/-/media/king-county/icons/home-page/social-media/twit_icon.png?rev=cc89cceda56947429fd603b107b24a3a&hash=D2BC16DDCB9344C868A9D6F88425F696)](https://twitter.com/kingcountywa)
 
-* [Terms of use](https://kingcounty.gov/about/website/termsOfUse.aspx)
+* [Terms of use](https://www.kingcounty.gov/en/shared-topics/about-king-county/terms-of-use)
 * [Privacy](https://kingcounty.gov/about/website/privacy)
 * [Data transparency](https://kingcounty.gov/about/website/Transparency)
-* [Website feedback](https://www.kingcounty.gov/en/new-website)
 
-* [Contact us](https://blue.kingcounty.gov/about/contact/)
-* [Staff directory](https://directory.kingcounty.gov/EmpSearch.asp)
+* [Contact us](https://contact.kingcounty.gov/)
+* [Directory](https://directory.kingcounty.gov/EmpSearch.asp)
 * [Elected officials](https://www.kingcounty.gov/en/shared-topics/governance-leadership/elected-officials)
-* [Phone list](https://kingcounty.gov/about/contact-us/phone-directory.aspx)
+* [Customer service](https://www.kingcounty.gov/en/dept/executive/about-king-county/customer-service)
 
 * [Departments](https://www.kingcounty.gov/en/shared-topics/about-king-county/departments)
 * [Office locations](https://www.kingcounty.gov/en/shared-topics/about-king-county/buildings-locations)
