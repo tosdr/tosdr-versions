@@ -197,7 +197,7 @@ In accordance with the Digital Millennium Copyright Act (DMCA) and other applica
   
 CONTACT REGARDING SUSPECTED INFRINGEMENT  
   
-Please contact our designated agent at 972-265-1900 or at [copyright@kingsisle.com](mailto:copyright@kingsisle.com) if you become aware of any content that may infringe the copyright of a third party or that you believe to be in violation of these Terms of Use.  
+Please contact our designated agent at 512-623-5900 or at [copyright@kingsisle.com](mailto:copyright@kingsisle.com) if you become aware of any content that may infringe the copyright of a third party or that you believe to be in violation of these Terms of Use.  
   
 BINDING ARBITRATION; CHOICE OF LAW; CLASS ACTION WAIVER  
   
@@ -227,7 +227,7 @@ The terms related to protection of the Company’s intellectual property rights,
   
 The Company’s failure to insist upon or enforce strict performance of any provision of these Terms of Use shall not constitute a waiver of the provision. Neither a course of dealing or conduct between you and the Company nor any trade practices shall be deemed to modify these Terms of Use.
 
-[](https://www.pirate101.com/autologin/free_game?jsessionid=99SaO%2B2ee8MGWgMTWUu6pWCkoYwr8vCs03qiuQfjDwATtzKPbPs7iiI6DiMtlTxvb3mf3l7Wvx%2FjsoeKCkR8qqhbZ1Yv%2FRNNlVqmkEMuqI0carKCh3GMaHyHTJ5Omjn%2B)
+[](https://www.pirate101.com/autologin/free_game?jsessionid=Hk08HeImITdZvB412c36G7mnLrm10DJqU7a4RjqXLTyWyk8Sb%2BnqLRQgB2PBcWnZ3Cg3WbBDevGsaox7MWes%2F2hY4bY%2BL0t05OrN%2BEvhVQUcYQ2FBfmL1bh%2BD%2Fuxqwte)
 
 * [Free Online Games](https://www.wizard101.com/)
     * [Free to Play Wizard101](https://www.wizard101.com/)
