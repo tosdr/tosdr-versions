@@ -441,27 +441,27 @@ If you have any questions about this Privacy Policy, please contact us:
 Most recent
 -----------
 
-[15-12-2024
+[16-12-2024
 
-How Kallas’ plans to shake up foreign policy talks](https://www.euractiv.com/section/global-europe/news/how-kallas-plans-to-shake-up-foreign-policy-talks/)[15-12-2024
+Serbia used Israeli firm’s tech to enable spy campaign, Amnesty says](https://www.euractiv.com/section/digital/news/serbia-used-israeli-firms-tech-to-enable-spy-campaign-amnesty-says/)[16-12-2024
 
-South Korea’s acting president moves to reassure allies after impeachment](https://www.euractiv.com/section/global-europe/news/south-koreas-acting-president-moves-to-reassure-allies-after-impeachment/)[15-12-2024
+Israel plans to double population on occupied Golan, citing threats from Syria](https://www.euractiv.com/section/global-europe/news/israel-plans-to-double-population-on-occupied-golan-citing-threats-from-syria/)[16-12-2024
 
-UK officially joins Indo-Pacific trade bloc](https://www.euractiv.com/section/economy-jobs/news/uk-officially-joins-indo-pacific-trade-bloc/)[15-12-2024
+Polish ruling parties nominate different presidential candidates](https://www.euractiv.com/section/politics/news/the-capitals-polish-ruling-parties-nominate-different-presidential-candidates/)[16-12-2024
 
-Russia not leaving its two bases in Syria, sources say](https://www.euractiv.com/section/global-europe/news/russia-not-leaving-its-two-bases-in-syria-sources-say/)[15-12-2024
+Romania ready to support Moldova amid energy crisis](https://www.euractiv.com/section/politics/news/romania-ready-to-support-moldova-amid-energy-crisis/)[16-12-2024
 
-North Korean troops join Russian assaults ‘in significant numbers’](https://www.euractiv.com/section/global-europe/news/north-korean-troops-join-russian-assaults-in-significant-numbers/)[14-12-2024
+ALDE party lends a hand in forming Bulgaria’s government](https://www.euractiv.com/section/politics/news/alde-party-lends-a-hand-in-forming-bulgarias-government/)[16-12-2024
 
-Georgia ruling party installs loyalist president amid constitutional crisis, protests](https://www.euractiv.com/section/global-europe/news/georgia-ruling-party-installs-loyalist-president-amid-constitutional-crisis-protests/)[14-12-2024
+Puigdemont raises the stakes, issues new warning to Sánchez](https://www.euractiv.com/section/politics/news/puigdemont-raises-the-stakes-issues-new-warning-to-sanchez/)[16-12-2024
 
-Kremlin praises Trump for criticising Ukrainian strikes deep into Russia](https://www.euractiv.com/section/global-europe/news/kremlin-praises-trump-for-criticising-ukrainian-strikes-deep-into-russia/)[14-12-2024
+Portuguese president dismisses concerns about deficit](https://www.euractiv.com/section/politics/news/portuguese-president-dismisses-concerns-about-deficit/)[16-12-2024
 
-Serbia seeks to reduce Russian ownership in oil giant to avoid sanctions](https://www.euractiv.com/section/eet/news/serbia-seeks-to-reduce-russian-ownership-in-oil-giant-to-avoid-sanctions/)[14-12-2024
+Meloni resigns as ECR president, endorses Poland’s Morawiecki for leadership](https://www.euractiv.com/section/politics/news/meloni-resigns-as-ecr-president-endorses-polands-morawiecki-for-leadership/)[16-12-2024
 
-Jordan to host Syria talks, EU to establish contact with HTS ‘soon’](https://www.euractiv.com/section/global-europe/news/jordan-to-host-syria-talks-eu-to-establish-contact-with-hts-soon/)[13-12-2024
+Several hundreds, maybe thousands, may have died in Mayotte cyclone](https://www.euractiv.com/section/eet/news/several-hundreds-maybe-thousands-may-have-died-in-mayotte-cyclone/)[16-12-2024
 
-Russia and Turkey need each other as Putin’s influence wanes, experts say](https://www.euractiv.com/section/global-europe/news/russia-and-turkey-need-each-other-as-putins-influence-wanes-experts-say/)
+Polish ruling parties nominate different presidential candidates](https://www.euractiv.com/section/politics/news/polish-ruling-parties-nominate-different-presidential-candidates/)
 
 ###### Advertisement
 
