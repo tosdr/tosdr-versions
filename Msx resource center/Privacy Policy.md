@@ -137,9 +137,9 @@ MSX Music player
 
 Latest reactions
 
+* [Cube Droid Holiday Special](https://www.msx.org/news/software/en/cube-droid-holiday-special "Cube Droid Holiday Special")
 * [MOAI-TECH #13 online magazine](https://www.msx.org/news/websites/en/moai-tech-13-online-magazine "MOAI-TECH #13 online magazine")
 * [The Goonies enhanced](https://www.msx.org/news/en/the-goonies-enhanced "The Goonies enhanced")
-* [Cube Droid Holiday Special](https://www.msx.org/news/software/en/cube-droid-holiday-special "Cube Droid Holiday Special")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [openMSX 20.0 released](https://www.msx.org/news/en/openmsx-200-released "openMSX 20.0 released")
 * [Wammes Witkop passed away](https://www.msx.org/news/en/wammes-witkop-passed-away "Wammes Witkop passed away")
@@ -150,15 +150,15 @@ Latest reactions
 
 Latest forum posts
 
-* [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=4 "ZX Spectrum Convertions")
-* [Just for fun: holiday themed headers for MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/just-for-fun-holiday-themed-headers-for-mrc?page=2 "Just for fun: holiday themed headers for MRC")
-* [2 floppies with different content on MSX 1, showing the same content...](https://www.msx.org/forum/msx-talk/openmsx/2-floppies-with-different-content-on-msx-1-showing-the-same-content "2 floppies with different content on MSX 1, showing the same content...")
 * [MANBOW 2 on MegaFlashROM SCC 512 (old model of MFR)](https://www.msx.org/forum/msx-talk/general-discussion/manbow-2-on-megaflashrom-scc-512-old-model-of-mfr "MANBOW 2 on MegaFlashROM SCC 512 (old model of MFR)")
+* [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=5 "ZX Spectrum Convertions")
+* [Almost half a screen filled with add](https://www.msx.org/forum/msx-talk/msx-resource-center/almost-half-a-screen-filled-with-add "Almost half a screen filled with add")
+* [2 floppies with different content on MSX 1, showing the same content...](https://www.msx.org/forum/msx-talk/openmsx/2-floppies-with-different-content-on-msx-1-showing-the-same-content "2 floppies with different content on MSX 1, showing the same content...")
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=17 "Christmas Quiz 2024")
+* [Just for fun: holiday themed headers for MRC](https://www.msx.org/forum/msx-talk/msx-resource-center/just-for-fun-holiday-themed-headers-for-mrc?page=2 "Just for fun: holiday themed headers for MRC")
 * [Emulation rendering delays](https://www.msx.org/forum/msx-talk/emulation/emulation-rendering-delays "Emulation rendering delays")
 * [Glass Z80 assembler](https://www.msx.org/forum/msx-talk/development/glass-z80-assembler?page=21 "Glass Z80 assembler")
 * [Sony HB-75P video output issues](https://www.msx.org/forum/msx-talk/hardware/sony-hb-75p-video-output-issues "Sony HB-75P video output issues")
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=17 "Christmas Quiz 2024")
-* [Almost half a screen filled with add](https://www.msx.org/forum/msx-talk/msx-resource-center/almost-half-a-screen-filled-with-add "Almost half a screen filled with add")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=80 "WonderTANG! Who wants to juice up your MSX?")
 * [MX-10 Black Screen](https://www.msx.org/forum/msx-talk/hardware/mx-10-black-screen "MX-10 Black Screen")
 * [Tetris 2 - Special Edition on Blue MSX](https://www.msx.org/forum/msx-talk/software-and-gaming/tetris-2-special-edition-blue-msx?page=4 "Tetris 2 - Special Edition on Blue MSX")
