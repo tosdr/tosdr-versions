@@ -38,7 +38,7 @@ More
 
 My Account Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Stumps")[NZ vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-england-tour-of-new-zealand-2024 "New Zealand v England, 3rd Test - Stumps")[WI vs BAN - Preview](https://www.cricbuzz.com/live-cricket-scores/95232/wi-vs-ban-1st-t20i-bangladesh-tour-of-west-indies-2024 "West Indies v Bangladesh, 1st T20I - Preview")[SYS vs MLR - Preview](https://www.cricbuzz.com/live-cricket-scores/101570/sys-vs-mlr-2nd-match-big-bash-league-2024-25 "Sydney Sixers v Melbourne Renegades, 2nd Match - Preview")[INDW vs WIW - INDW Won](https://www.cricbuzz.com/live-cricket-scores/110013/indw-vs-wiw-1st-t20i-west-indies-women-tour-of-india-2024 "India Women v West Indies Women, 1st T20I - INDW Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Break](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Break")[NZ vs ENG - Live](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-england-tour-of-new-zealand-2024 "New Zealand v England, 3rd Test - Live")[BAN vs WI - Live](https://www.cricbuzz.com/live-cricket-scores/95232/ban-vs-wi-1st-t20i-bangladesh-tour-of-west-indies-2024 "Bangladesh v West Indies, 1st T20I - Live")[SYS vs MLR - Preview](https://www.cricbuzz.com/live-cricket-scores/101570/sys-vs-mlr-2nd-match-big-bash-league-2024-25 "Sydney Sixers v Melbourne Renegades, 2nd Match - Preview")[INDW vs WIW - INDW Won](https://www.cricbuzz.com/live-cricket-scores/110013/indw-vs-wiw-1st-t20i-west-indies-women-tour-of-india-2024 "India Women v West Indies Women, 1st T20I - INDW Won")
 
 AllLive NowToday
 
@@ -46,13 +46,13 @@ AllLive NowToday
     
     Australia v India
     
-    [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Stumps")
+    [Australia vs India](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-australia-v-india "Australia v India, 3rd Test - Break")
     
     3rd Test
     
 * New Zealand v England, 2024
     
-    [New Zealand vs England](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-new-zealand-v-england-2024 "New Zealand v England, 3rd Test - Stumps")
+    [New Zealand vs England  LIVE](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-new-zealand-v-england-2024 "New Zealand v England, 3rd Test - Live")
     
     3rd Test
     
@@ -118,19 +118,19 @@ AllLive NowToday
     
     Match 27
     
-* [Argentina vs Cayman Islands](https://www.cricbuzz.com/live-cricket-scores/111489/arg-vs-caym-match-30-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Argentina v Cayman Islands, Match 30 - Upcoming")
-    
-    Match 30
-    
-* [Belize vs Brazil](https://www.cricbuzz.com/live-cricket-scores/111485/blz-vs-brazil-match-29-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Belize v Brazil, Match 29 - Upcoming")
+* [Brazil vs Belize](https://www.cricbuzz.com/live-cricket-scores/111485/brazil-vs-blz-match-29-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Brazil v Belize, Match 29 - BLZ Won")
     
     Match 29
+    
+* [Cayman Islands vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111489/caym-vs-arg-match-30-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Cayman Islands v Argentina, Match 30 - CAYM Won")
+    
+    Match 30
     
 * [Panama vs Mexico](https://www.cricbuzz.com/live-cricket-scores/111497/pan-vs-mex-match-32-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Mexico, Match 32 - Upcoming")
     
     Match 32
     
-* [Bahamas vs Bermuda](https://www.cricbuzz.com/live-cricket-scores/111493/bhm-vs-ber-match-31-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Bermuda, Match 31 - Upcoming")
+* [Bermuda vs Bahamas](https://www.cricbuzz.com/live-cricket-scores/111493/ber-vs-bhm-match-31-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Bahamas, Match 31 - Complete")
     
     Match 31
     
@@ -158,17 +158,17 @@ AllLive NowToday
     
 * West Indies v Bangladesh, 2024
     
-    [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95232/wi-vs-ban-1st-t20i-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 1st T20I - Preview")
+    [Bangladesh vs West Indies  LIVE](https://www.cricbuzz.com/live-cricket-scores/95232/ban-vs-wi-1st-t20i-west-indies-v-bangladesh-2024 "Bangladesh v West Indies, 1st T20I - Live")
     
     1st T20I
     
-* South Africa vs Pakistan,2024-25
-    
-    [Pakistan vs South Africa](https://www.cricbuzz.com/live-cricket-scores/94334/pak-vs-rsa-2nd-t20i-south-africa-vs-pakistan2024-25 "Pakistan v South Africa, 2nd T20I - RSA Won")
+* [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95241/wi-vs-ban-2nd-t20i-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 2nd T20I - Upcoming")
     
     2nd T20I
     
-* [South Africa vs Pakistan](https://www.cricbuzz.com/live-cricket-scores/94336/rsa-vs-pak-3rd-t20i-south-africa-vs-pakistan2024-25 "South Africa v Pakistan, 3rd T20I - Abandon")
+* South Africa vs Pakistan,2024-25
+    
+    [South Africa vs Pakistan](https://www.cricbuzz.com/live-cricket-scores/94336/rsa-vs-pak-3rd-t20i-south-africa-vs-pakistan2024-25 "South Africa v Pakistan, 3rd T20I - Abandon")
     
     3rd T20I
     
@@ -585,41 +585,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132783/puttick-wants-afghanistan-to-add-odi-smarts "Puttick wants Afghanistan to add ODI smarts")
+
+[Puttick wants Afghanistan to add ODI smarts](https://www.cricbuzz.com/cricket-news/132783/puttick-wants-afghanistan-to-add-odi-smarts "Puttick wants Afghanistan to add ODI smarts")
+
+29m ago
+
   [](https://www.cricbuzz.com/cricket-news/132782/the-smat-final-more-than-just-a-game-for-the-chinnaswamy-faithful "The SMAT final - More than just a game for the Chinnaswamy faithful")
 
 [The SMAT final - More than just a game for the Chinnaswamy faithful](https://www.cricbuzz.com/cricket-news/132782/the-smat-final-more-than-just-a-game-for-the-chinnaswamy-faithful "The SMAT final - More than just a game for the Chinnaswamy faithful")
 
-1h ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132781/maia-bouchier-from-dads-couch-to-test-crease "Maia Bouchier: from dad's couch to Test crease")
 
 [Maia Bouchier: from dad's couch to Test crease](https://www.cricbuzz.com/cricket-news/132781/maia-bouchier-from-dads-couch-to-test-crease "Maia Bouchier: from dad's couch to Test crease")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132780/jemimah-rodrigues-smriti-mandhana-set-up-indias-comfortable-win "Rodrigues, Mandhana set up India's comfortable win")
 
 [Rodrigues, Mandhana set up India's comfortable win](https://www.cricbuzz.com/cricket-news/132780/jemimah-rodrigues-smriti-mandhana-set-up-indias-comfortable-win "Rodrigues, Mandhana set up India's comfortable win")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132779/bcci-in-need-of-new-treasurer-with-ashish-shelar-set-to-step-down "BCCI in need of new treasurer as Ashish Shelar set to step down")
 
 [BCCI in need of new treasurer as Ashish Shelar set to step down](https://www.cricbuzz.com/cricket-news/132779/bcci-in-need-of-new-treasurer-with-ashish-shelar-set-to-step-down "BCCI in need of new treasurer as Ashish Shelar set to step down")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132778/winds-of-change-blow-in-bloemfontein "Winds of change blow in Bloemfontein")
 
 [Winds of change blow in Bloemfontein](https://www.cricbuzz.com/cricket-news/132778/winds-of-change-blow-in-bloemfontein "Winds of change blow in Bloemfontein")
 
-1h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132777/shakibs-bowling-suspension-by-ecb-extends-to-international-cricket-confirms-bcb "Shakib's bowling suspension by ECB extends to international cricket, confirms BCB")
-
-[Shakib's bowling suspension by ECB extends to international cricket, confirms BCB](https://www.cricbuzz.com/cricket-news/132777/shakibs-bowling-suspension-by-ecb-extends-to-international-cricket-confirms-bcb "Shakib's bowling suspension by ECB extends to international cricket, confirms BCB")
-
-2h ago
+7h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
