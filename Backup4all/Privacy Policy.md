@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to back up file names with other characte ...](https://www.backup4all.com/how-to-back-up-file-names-with-other-characters-than-english-kb.html)  
+* [Downloading - FAQ](https://www.backup4all.com/downloading-faq-kb.html)  
     
-* [Backup to CD/DVD/Blu-ray using built-in burne ...](https://www.backup4all.com/backup-to-cd-dvd-using-built-in-burner-kb.html)  
+* [How to back up data files from Verizon using ...](https://www.backup4all.com/how-to-back-up-data-files-from-verizon-using-backup4all-kb.html)  
     
-* [Backup to Amazon S3 using Backup4all 6 or old ...](https://www.backup4all.com/backup-to-amazon-s3-kb.html)  
+* [Backup music with Backup4all](https://www.backup4all.com/backup-music-with-backup4all-kb.html)  
     
-* [How to back up data files from Polycloud usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-polycloud-using-backup4all-kb.html)  
+* [Using Backup4all - FAQ 2](https://www.backup4all.com/using-backup4all-faq-2-kb.html)  
     
-* [How to back up data files from Amazon S3 usin ...](https://www.backup4all.com/how-to-back-up-data-files-from-amazon-s3-using-backup4all-kb.html)  
+* [How to restore your data files from MinIO usi ...](https://www.backup4all.com/how-to-restore-your-data-files-from-minio-using-backup4all-kb.html)  
     
 
 Choose language:
