@@ -63,10 +63,12 @@
                 * [Financial Management](https://factsmgt.com/products/school-management/financial-management/)
                 * [Specialty Modules](https://factsmgt.com/products/school-management/specialty-modules/)
                 * [Reporting & Analytics](https://factsmgt.com/products/school-management/reporting-analytics/)
+                * [Security and Compliance](https://factsmgt.com/school-management-security/)
         * * [Tuition Management](https://factsmgt.com/products/financial-management/)
                 * [Payment Plans](https://factsmgt.com/products/financial-management/tuition-management/)
                 * [Payment Forms](https://factsmgt.com/products/financial-management/payment-forms/)
                 * [Incidental Billing & Prepay Accounts](https://factsmgt.com/products/financial-management/incidental-billing-prepay-accounts/)
+                * [Security and Compliance](https://factsmgt.com/tuition-management-security/)
         * * ![Smiling person holding a tablet device](/wp-content/uploads/Header-Featured-Circle.png)
                 
                 Elevating the Education Experience
