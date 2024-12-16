@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/wat-we-nu-weer-onder-ogen-kregen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/vaccin-schandaal-in-italie-aan-het-licht/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -137,8 +137,6 @@ Advertentie
 E-mailadres
 
 Inschrijven
-
-[![Ring of Harmony aanbieding banner](https://www.wanttoknow.nl/wp-content/uploads/Ring-of-Harmony-banner-NB-aug-2023.jpg)](https://www.wanttoknow.nl/aanbieding/ring-of-harmony-terug-naar-de-natuurlijke-balans-zomer-2024/)
 
 #### Quote van de week
 
