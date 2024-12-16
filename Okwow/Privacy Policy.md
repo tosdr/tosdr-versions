@@ -1,6 +1,8 @@
 ![Social Icons](https://okwow.com/wp-content/themes/zento/assets/images/svg-icons.svg) 
 
-[![OkWoW](https://okwow.com/wp-content/uploads/2024/09/logoOKwow.png)](https://okwow.com/)
+[![OkWow](https://okwow.com/wp-content/uploads/2024/09/logoOKwow.png)](https://okwow.com/)
+
+Your Site for Freebies and More!
 
 * [All Sweeps](https://okwow.com/categories/)
     * [Beauty](https://okwow.com/category/beauty/)
@@ -24,7 +26,7 @@
 
 * [Quick Search...](#search-lightbox)
 
-[![OkWoW](https://okwow.com/wp-content/uploads/2024/09/logoOKwow.png)](https://okwow.com/)
+[![OkWow](https://okwow.com/wp-content/uploads/2024/09/logoOKwow.png)](https://okwow.com/)
 
 [Subscribe (opens in a new tab)](https://go.okwow.com/?zRid=OK&utm_content=ok_amazon_250&utm_source=onsite_ok&utm_campaign=email_signup&utm_medium=subscribe_CTA)
 
@@ -307,9 +309,9 @@ Sign up to get daily giveaways, and more!
 * [CA Consumer: Do Not Sell or Share](https://privacyportal.onetrust.com/webform/06e3ef68-7a5d-49e9-8d24-7d52841ec504/5f6ba518-f562-4ee0-a07c-e107b4daee04)
 * [Nevada Consumer: Do Not Sell](https://privacyportal.onetrust.com/webform/06e3ef68-7a5d-49e9-8d24-7d52841ec504/b3462ddd-8dd5-4876-a420-01064184e416)
 
-![](https://okwow.com/wp-content/uploads/2024/09/pam-Footer.png)
+![pam-logo-footer](https://okwow.com/wp-content/uploads/2024/09/pam-Footer.png)
 
-![](https://okwow.com/wp-content/uploads/2024/11/logo-1024x243.webp)
+![okwow-logo-footer](https://okwow.com/wp-content/uploads/2024/11/logo-1024x243.webp)
 
 ### Quick Links
 
@@ -326,8 +328,8 @@ Sign up to get daily giveaways, and more!
 
 ![](https://okwow.com/wp-content/uploads/2024/09/logoOKwow-1024x243.png)
 
-**This website or its third-party tools process personal data. You can opt out of the sale of your personal information by clicking on the “Do not Sell or Share my Personal Information" link [here](#).  
-**The third-party product names, logos, brands, and trademarks shown on this website are the property of their respective owners. These companies are not affiliated with OkWow. These third parties do not sponsor or endorse this website, its content, or services.
+**This website or its third-party tools process personal data. You can opt out of the sale of your personal information by clicking on the “Do not Sell or Share my Personal Information" link [here](https://okwownewstg.wpenginepowered.com/#).** The third-party product names, logos, brands, and trademarks shown on this website are the property of their respective owners. These companies are not affiliated with OkWow. These third parties do not sponsor or endorse this website, its content, or services.  
+Copyright © 2024.  OkWow is a registered trademark of Tibrio LLC.
 
 [Skip to content](#content)
 
