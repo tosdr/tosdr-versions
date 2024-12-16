@@ -123,44 +123,44 @@ Advertisement
     Suicide
     
     Released in 2001, Suicide is a film directed by Eames Yates and explores the suicide of his own brother which occurred two years prior to this films release. Eames' brother Teddy was 40 when he shot h...](https://documentaryheaven.com/suicide/ "Suicide")
-* [![Dispatches: The Killing Zone](/wp-content/thumbnails/481-100x70.png?x53432)
+* [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
     
-    Dispatches: The Killing Zone
+    The Fog of War
     
-    While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
-* [![The Hour Of Our Time: The Legacy of William Cooper](/wp-content/thumbnails/1157-100x70.jpg?x53432)
+    Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
+* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
     
-    The Hour Of Our Time: The Legacy of William Cooper
+    Objectified
     
-    Surrounding us in our day-to-day lives are mysteries, that to spend our days pondering would paralyze us from leading productive lives. So we turn away from these thoughts in order to seek out as trou...](https://documentaryheaven.com/the-hour-of-our-time-the-legacy-of-william-cooper/ "The Hour Of Our Time: The Legacy of William Cooper")
+    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 
 ###### Throwback Documentaries
 
-* [![The Cost of a Coke: 2nd Edition](/wp-content/thumbnails/418-100x70.png?x53432)
+* [![Unraveling the Madness of Kanye West](/wp-content/thumbnails/16540-100x70.jpg?x53432)
     
-    The Cost of a Coke: 2nd Edition
+    Unraveling the Madness of Kanye West
     
-    Matt Beard’s film exposes the lies, moral bankruptcy and corruption that pervades Coca-Cola in Colombia and highlights conflicts of interest of Federal Judge Jose Martinez in presiding over the Coca-C](https://documentaryheaven.com/the-cost-of-a-coke-2nd-edition/ "The Cost of a Coke: 2nd Edition")
-* [![The Highlanders](/wp-content/thumbnails/6663-100x70.png?x53432)
+    In today's musical landscape there are few artists more polarising than Kanye West. Unlike most entertainers, it's Kanye's unparalleled boldness that simultaneously propels him to new heights whilst](https://documentaryheaven.com/unraveling-madness-of-kanye-west/ "Unraveling the Madness of Kanye West")
+* [![Turnstile](/wp-content/thumbnails/7797-100x70.jpg?x53432)
     
-    The Highlanders
+    Turnstile
     
-    A Discovery Channel documentary that takes a look at the Scottish Highlanders.](https://documentaryheaven.com/the-highlanders/ "The Highlanders")
-* [![Yuri Gagarin: Starman](/wp-content/thumbnails/5670-100x70.jpg?x53432)
+    Turnstile is focused on women involved in the criminal justice system and drug policy reform. The 36 minute film offers an exploration of three women’s experiences with addiction and incarceration, an](https://documentaryheaven.com/turnstile/ "Turnstile")
+* [![Pale Blue Dot: A Vision of the Human Future in Space](/wp-content/thumbnails/2359-100x70.jpg?x53432)
     
-    Yuri Gagarin: Starman
+    Pale Blue Dot: A Vision of the Human Future in Space
     
-    Yuri Alekseyevich Gagarin, Hero of the Soviet Union, was a Soviet cosmonaut. On 12 April 1961, he became the first human in outer space and the first to orbit the Earth. He received medals from around](https://documentaryheaven.com/yuri-gagarin-starman/ "Yuri Gagarin: Starman")
-* [![The VIP Paedophile Ring: What’s the Truth](/wp-content/thumbnails/10151-100x70.jpg?x53432)
+    The earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that in glory and triumph, they can become the momentary masters of a](https://documentaryheaven.com/pale-blue-dot/ "Pale Blue Dot: A Vision of the Human Future in Space")
+* [![WWII in HD EP4/10](/wp-content/thumbnails/4661-100x70.jpg?x53432)
     
-    The VIP Paedophile Ring: What’s the Truth
+    WWII in HD EP4/10
     
-    Are these the most serious accusations ever levelled against members of the British establishment? The claim that politicians, military leaders and secret service chiefs got together in order to tortu](https://documentaryheaven.com/vip-paedophile-ring-whats-truth/ "The VIP Paedophile Ring: What’s the Truth")
-* [![Beyond The Mat](/wp-content/thumbnails/6712-100x70.jpg?x53432)
+    Episode 4: Battle Stations The Allies lay plans for the invasion of France; Bert Stiles and the 8th Air Force attempt to clear the skies over Normandy, while the Pacific remains a quagmire. D-Day arri](https://documentaryheaven.com/wwii-in-hd-ep4/ "WWII in HD EP4/10")
+* [![Richard Dawkins: Faith School Menace?](/wp-content/thumbnails/4743-100x70.jpg?x53432)
     
-    Beyond The Mat
+    Richard Dawkins: Faith School Menace?
     
-    Beyond the Mat is a 1999 documentary directed by Barry W. Blaustein. The movie focuses on the lives of professional wrestlers outside of the ring, primarily Mick Foley, Terry Funk, and Jake Roberts, a](https://documentaryheaven.com/beyond-the-mat/ "Beyond The Mat")
+    The number of faith schools in Britain is rising. Around 7,000 publicly-funded schools - one in three - now has a religious affiliation.As the coalition government paves the way for more faith-bas](https://documentaryheaven.com/richard-dawkins-faith-school-menace/ "Richard Dawkins: Faith School Menace?")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
