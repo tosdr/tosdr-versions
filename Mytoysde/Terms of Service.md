@@ -6,13 +6,13 @@ Schließen
 
 [](https://www.mirapodo.de/ "zur Homepage")
 
-   
+ 
 
 ![](https://i.otto.de/i/otto/001_2021_42_sale_deal_des_tages_kleine_shoppromotion_design_189585?w=200&h=200&upscale=true)Deal des Tages![](https://i.otto.de/i/otto/mpp360_131652_163773?w=200&h=200&upscale=true)Deals der Woche![](https://i.otto.de/i/otto/mpp360_131654_163774?w=200&h=200&upscale=true)Deals des  
 Monats![](https://i.otto.de/i/otto/mpp360_138686_173168?w=200&h=200&upscale=true)Super-Sale![](https://i.otto.de/i/otto/001_2022_29_sale_tmr_kleine_shoppromotion_266383?w=200&h=200&upscale=true)Top Marken  
 reduziert![](https://i.otto.de/i/otto/mpp360_231940_345734?w=200&h=200&upscale=true)Winter-Sale
 
-  
+ 
 
 [s Service](https://www.mirapodo.de/shoppages/service/)
 
@@ -254,6 +254,7 @@ Ratenschutz-Versicherung\*\*
 * [AGB](https://www.mirapodo.de/shoppages/service/agb) ・
 * [Datenschutz](https://www.mirapodo.de/shoppages/service/datenschutz) ・
 * [Impressum](https://www.mirapodo.de/shoppages/service/impressum) ・
+* [Produktsicherheitsrückrufe](https://www.mirapodo.de/shoppages/produktsicherheitsrueckrufe) ・
 * Lob & Kritik
 
 Preisangaben inkl. Steuer und zzgl. Service- und Versandkosten
