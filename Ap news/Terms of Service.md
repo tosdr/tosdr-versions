@@ -12,9 +12,9 @@ Menu
     
     TOP STORIES
     
-    * [Death toll in Gaza Strip from Israel-Hamas war tops 45,000, Palestinians say](https://apnews.com/article/israel-palestinians-hamas-war-news-12-16-2024-9f7c8f0df71dc4c97a6b31aed6e13304)
-    * [France rushes help to Mayotte, where hundreds or even thousands died in Cyclone Chido](https://apnews.com/article/mayotte-cyclone-chido-climate-weather-43890b2cee0d90e67b6263f278782334)
-    * [Christians in Syria mark country's transformation with tears as UN envoy urges an end to sanctions](https://apnews.com/article/syria-assad-sanctions-un-3f0031108d7e58c2343bd6a8fd42254c)
+    * [Syria's ousted leader Assad says he wanted to keep fighting but Russian allies evacuated him](https://apnews.com/article/syria-war-assad-russia-news-16-december-2024-72a8e44f762da2ff78434ff76faeb633)
+    * [Death toll in Gaza from the Israel-Hamas war tops 45,000 Palestinians, health officials say](https://apnews.com/article/israel-palestinians-hamas-war-news-12-16-2024-9f7c8f0df71dc4c97a6b31aed6e13304)
+    * [Middle East latest: Assad says he wanted to stay in Syria but Russia evacuated him](https://apnews.com/article/israel-hamas-war-syria-news-16-december-2024-4ed0ec24506a1b78f0561ed0cc8f0994)
     
     Newsletters
     
@@ -32,7 +32,7 @@ Menu
     
     * [Survivors seek a reckoning as FBI investigates child sex abuse in little-known Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-a94073c27168a7998c1a225f72672a3d)
     * [Takeaways from AP's reporting on a child sex abuse crisis inside a secretive Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-398b68475c2eab693e40e35552030e87)
-    * [US agencies should use advanced technology to identify mysterious drones, Schumer says](https://apnews.com/article/drones-new-york-jersey-schumer-80de1d64708677cfa7efc60249075d7b)
+    * [Police say multiple people injured at a Wisconsin school shooting](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
     
     Newsletters
     
@@ -52,9 +52,9 @@ Menu
     
     TOP STORIES
     
-    * [Journalists anticipate a renewed hostility toward their work under the incoming Trump administration](https://apnews.com/article/trump-press-media-news-1915c25137eb4605b95ab3b3ccc6fb4c)
-    * [Former FBI informant will plead guilty to lying about phony bribery scheme involving the Bidens](https://apnews.com/article/alexander-smirnov-guilty-plea-biden-informant-fbi-62a3b7acce0345303f812ca6d0206b10)
-    * [A Biden proclamation will establish a national monument for the 1st US female Cabinet secretary](https://apnews.com/article/biden-national-monument-frances-perkins-labor-3b58f0c1bae51fe26017acb3688eb505)
+    * [Trump says he will 'look at' pardon for embattled New York mayor Eric Adams](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
+    * [Former FBI informant pleads guilty to lying about phony bribery scheme involving the Bidens](https://apnews.com/article/alexander-smirnov-guilty-plea-biden-informant-fbi-62a3b7acce0345303f812ca6d0206b10)
+    * [As he prepares to leave leadership, McConnell challenges Trump on foreign policy](https://apnews.com/article/mcconnell-trump-isolationism-foreign-affairs-dcad297fa82e1794612fa2582e21162f)
     
     Newsletters
     
@@ -72,9 +72,9 @@ Menu
     
     TOP STORIES
     
-    * [Jordan Love throws for 2 TDs and Packers beat Seahawks 30-13 as Seattle QB Geno Smith injures knee](https://apnews.com/article/packers-seahawks-score-6c5dc8a39b11bd28fe1d257f1989dee0)
-    * [Josh Allen has another huge game to lift Bills to a 48-42 victory that snaps Lions' winning streak](https://apnews.com/article/lions-bills-score-allen-ffc9cd77565c69ed327f06e2950478ee)
-    * [Mahomes throws 2 TD passes, leaves with ankle injury in Chiefs' 21-7 win. X-rays negative on star QB](https://apnews.com/article/browns-chiefs-score-mahomes-dc7a77ac602c6aa0c550dd6bf5288f27)
+    * [Chiefs QB Patrick Mahomes has high-ankle sprain, status for Houston remains unclear, AP source says](https://apnews.com/article/kansas-city-chiefs-patrick-mahomes-injury-b1d2fa37c154828f6f76f78312f0562e)
+    * [Dolphins' Grant DuBose has movement in extremities after scary hit to the head vs. Texans](https://apnews.com/article/dolphins-grant-dubose-injury-ee9725cd29930e910e05f02c7247b8fc)
+    * [NFL can't revise the onside kick fast enough for Dan Campbell: Analysis](https://apnews.com/article/campbell-lions-onside-kick-allen-bills-aad163d5edb6c548cbd39fcba66a2c0e)
     
     Newsletters
     
@@ -94,9 +94,9 @@ Menu
     
     TOP STORIES
     
-    * [Popeye and Tintin enter the public domain in 2025 along with novels from Faulkner and Hemingway](https://apnews.com/article/public-domain-2025-popeye-tintin-e71ca89b7a430e68e66a7c6ce45a98eb)
-    * [Journalists anticipate a renewed hostility toward their work under the incoming Trump administration](https://apnews.com/article/trump-press-media-news-1915c25137eb4605b95ab3b3ccc6fb4c)
-    * [‘Kraven the Hunter’ had one of the worst openings for a Marvel-adjacent property, estimates show](https://apnews.com/article/box-office-b79d8c3a84483f15fc3dace19dbef5d5)
+    * [These three new sports dramas punch above their weight](https://apnews.com/article/sports-movies-unstoppable-day-fight-fire-inside-26efbc7f942ce5c251a6cd8dad881b4a)
+    * [Stage spoofs of Hallmark TV movies are Christmas gifts for theaters](https://apnews.com/article/hallmark-christmas-holiday-movie-parody-theater-a2ffe1465b9492e88c58d683904ac87b)
+    * [Kane Brown 'gave everything' on his new album, 'The High Road.' The journey home meant experimenting](https://apnews.com/article/kane-brown-interview-high-road-c7eef2070190bb158a885581d131b600)
     
 * [Business](https://apnews.com/business)
     
@@ -107,8 +107,8 @@ Menu
     TOP STORIES
     
     * [Federal Reserve is likely to slow its rate cuts with inflation pressures still elevated](https://apnews.com/article/federal-reserve-inflation-rates-trump-economy-prices-4abfd4fad49db65cad4a2b5607d9e952)
+    * [Trump says he will 'look at' pardon for embattled New York mayor Eric Adams](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
     * [Journalists anticipate a renewed hostility toward their work under the incoming Trump administration](https://apnews.com/article/trump-press-media-news-1915c25137eb4605b95ab3b3ccc6fb4c)
-    * [2024 was big for bitcoin. States could see a crypto policy blitz in 2025 in spite of the risks](https://apnews.com/article/cryptocurrency-pensions-treasury-pennsylvania-wisconsin-michigan-trump-68924e1d4dab3706c3e041f8f3649974)
     
 * [Science](https://apnews.com/science)
     
@@ -118,9 +118,9 @@ Menu
     
     TOP STORIES
     
+    * [How old are Saturn's rings? Study suggests they could be 4.5 billion years old just like the planet](https://apnews.com/article/rings-of-saturn-age-f4f88140895f146d61f427d1378cd981)
     * [Ancient genes pinpoint when humans and Neanderthals mixed and mingled](https://apnews.com/article/neanderthal-dna-gene-human-origins-africa-1c584991f8028979993315c6793048eb)
     * [How to catch the Geminids, one of the strongest meteor showers of the year](https://apnews.com/article/how-to-watch-geminid-meteor-shower-0404b8c198028749bc6c95313e3f8ecf)
-    * [What are the benefits of weighted blankets? Here's what the science says](https://apnews.com/article/weighted-blankets-better-sleep-c84dae91049c7b9906e9de9408274c46)
     
 * [Fact Check](https://apnews.com/ap-fact-check)
     
@@ -136,9 +136,9 @@ Menu
     
     TOP STORIES
     
+    * [Stay sober and have a jolly holiday season with these expert tips](https://apnews.com/article/staying-sober-holiday-tips-c1a18cbf0090b5049224c3f5d578590b)
     * [Working Well: When holidays present rude customers, taking breaks and the high road preserve peace](https://apnews.com/article/working-holiday-stress-customer-service-a91c5a58cc32f214b8937a40677afb52)
     * [More beans and less red meat: Nutrition experts weigh in on US dietary guidelines](https://apnews.com/article/usda-hhs-dietary-guidelines-d6a9c6f0554f279497acb5714b3032b9)
-    * [What are the benefits of weighted blankets? Here's what the science says](https://apnews.com/article/weighted-blankets-better-sleep-c84dae91049c7b9906e9de9408274c46)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -190,17 +190,17 @@ Menu
     
     TOP STORIES
     
+    * [Can U.N. summits save the planet? A faltering year of talks brings up questions about the process](https://apnews.com/article/united-nations-climate-biodiversity-plastics-drought-summits-failure-64b40bc06287a92d33bcdbfea4f3bf5f)
     * [American chestnuts are part of Yuletide lore. But in the US, they've nearly been wiped out](https://apnews.com/article/american-chestnut-trees-roasting-blight-chinese-restoration-1c3e50ef33a67926c0800222f0e7e619)
     * [UN talks fail to reach agreement on dealing with rising risk of global drought](https://apnews.com/article/un-drought-desertification-climate-riyadh-saudi-arabia-a353d12a2fe8c19e932f96198fa3421d)
-    * [Saudi Arabia's plans to host the men's World Cup will harm the climate, experts warn](https://apnews.com/article/climate-world-cup-saudi-arabia-greenhouse-gas-emissions-8750010f26aa1767b69e726c990f7388)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [Are you catching holiday blues instead of cheer? Here are some ways to find peace](https://apnews.com/article/holiday-christmas-mental-health-depression-anxiety-c65eef56bfa54bff48a8d00d5b782280)
     * [Some breast cancer patients can avoid certain surgeries, studies suggest](https://apnews.com/article/breast-cancer-treatment-surgery-dcis-lymph-nodes-983e2835a4ecd1f90f53105a5bab4bb9)
     * [More beans and less red meat: Nutrition experts weigh in on US dietary guidelines](https://apnews.com/article/usda-hhs-dietary-guidelines-d6a9c6f0554f279497acb5714b3032b9)
-    * [US health panel adds self-testing option for cervical cancer screening](https://apnews.com/article/cervical-cancer-pap-test-hpv-4fca6f6072531a976a27cf369878fb59)
     * [America is trying to fix its maternal mortality crisis with federal, state and local programs](https://apnews.com/article/maternal-mortality-healthy-start-oklahoma-california-new-york-city-0aa1fa2a141ef82607026b384cc14af7)
     * [Europe offers clues for solving America's maternal mortality crisis](https://apnews.com/article/maternal-mortality-rate-us-global-deaths-norway-211218f769e9a5a6e856a485fb31aef3)
     * [Rural communities of color across the US find new ways to get the health care they need](https://apnews.com/article/rural-health-disparities-hospitals-closing-medicaid-961564a03a264812ce60006e416bd3ca)
@@ -214,8 +214,8 @@ Menu
     TOP STORIES
     
     * [US agencies should use advanced technology to identify mysterious drones, Schumer says](https://apnews.com/article/drones-new-york-jersey-schumer-80de1d64708677cfa7efc60249075d7b)
-    * [As schools cut back on bus service, parents are turning to rideshare apps](https://apnews.com/article/school-bus-rideshare-chicago-3fdcedfc4f957f748bf109066806bc88)
-    * [Hackers hit Rhode Island benefits system in major cyberattack. Personal data could be released soon](https://apnews.com/article/cybersecurity-breach-data-rhode-island-56875d6b20ce94de7b240c5b2f43e4a8)
+    * [Schools are cutting bus service for children. Parents are turning to ride-hailing apps](https://apnews.com/article/school-bus-rideshare-chicago-3fdcedfc4f957f748bf109066806bc88)
+    * [Senate report alleges Amazon rejected warehouse safety recommendations due to productivity concerns](https://apnews.com/article/amazon-warehouse-worker-injuries-senate-committee-eb5b72dd501be0bcce9d919c34731290)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -225,17 +225,17 @@ Menu
     
     TOP STORIES
     
-    * [As schools cut back on bus service, parents are turning to rideshare apps](https://apnews.com/article/school-bus-rideshare-chicago-3fdcedfc4f957f748bf109066806bc88)
-    * [Milan's Via MonteNapoleone usurps New York's Fifth Avenue as world's most upscale shopping street](https://apnews.com/article/milan-shopping-montenapoleone-fifth-avenue-09f40b45e279d71cf1f1b95e9b0871ae)
-    * [What to stream: MrBeast jumps to TV, Little Big Town's holiday special and Squid Game: Unleashed](https://apnews.com/article/stream-tv-movies-music-december-2024-town-3f20e1a38e93d0d8fe102dc03d6ab3c8)
+    * [Are you catching holiday blues instead of cheer? Here are some ways to find peace](https://apnews.com/article/holiday-christmas-mental-health-depression-anxiety-c65eef56bfa54bff48a8d00d5b782280)
+    * [Stage spoofs of Hallmark TV movies are Christmas gifts for theaters](https://apnews.com/article/hallmark-christmas-holiday-movie-parody-theater-a2ffe1465b9492e88c58d683904ac87b)
+    * [Short ribs braised in wine and aromatics make for an elegant holiday dinner](https://apnews.com/article/holiday-dinner-braised-short-ribs-milk-street-a3bf12c0f33b3f3c9924adad0567f2e4)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Police say multiple people injured at a Wisconsin school shooting](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
     * [A second top Church of England cleric is facing calls to resign over his handling of abuse claims](https://apnews.com/article/church-of-england-archbishop-abuse-scandal-9553d1e0d7e1e675a686e0d2cd90fe64)
     * [Takeaways from AP's reporting on a child sex abuse crisis inside a secretive Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-398b68475c2eab693e40e35552030e87)
-    * [Survivors seek a reckoning as FBI investigates child sex abuse in little-known Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-a94073c27168a7998c1a225f72672a3d)
     
     Newsletters
     
@@ -249,11 +249,11 @@ Menu
     
     TOP STORIES
     
+    * [Trump amenaza deportaciones masivas y Centroamérica se prepara ante llegada de migrantes vulnerables](https://apnews.com/article/honduras-trump-deportaciones-masivas-america-central-inmigracion-27dbe55e62a2ee02c67c1fd289316356)
     * [Los muertos en Gaza de la guerra entre Israel y Hamás superan los 45.000, según palestinos](https://apnews.com/article/gaza-hamas-israel-guerra-ataques-5fcf44407f59568166a4985408be97ff)
-    * [El presidente Lula sale del hospital tras cirugía por una hemorragia cerebral](https://apnews.com/article/lula-brasil-presidente-salud-f74d1197875778eb119376fecae021e0)
-    * [Francia envía ayuda a Mayotte tras el ciclón Chido, que dejó cientos o incluso miles de muertos](https://apnews.com/article/mayotte-chido-ciclon-francia-97ceaa5ce30b98d6f910ae9d84c6254a)
-    * [Investigadores surcoreanos buscan interrogar al presidente Yoon por imposición de ley marcial](https://apnews.com/article/yoon-corea-juicio-politico-ley-marcial-surcorea-02bbeeecc6d92c291153a5349c68bb3c)
-    * [Periodistas anticipan hostilidad renovada hacia su labor con la nueva administración Trump](https://apnews.com/article/trump-medios-ce66779e77d316dff2466f3fbe0a82e7)
+    * [Assad, presidente depuesto de Siria, quería seguir luchando pero aliados rusos lo evacuaron.](https://apnews.com/article/siria-assad-rusia-guerra-9030c2a2f26e69d194dcd222cb2a86fb)
+    * [Alemania: Canciller Scholz pierde voto de confianza y anticipa elecciones en febrero](https://apnews.com/article/alemania-scholz-voto-de-confianza-parlamento-elecciones-gobierno-e55493ff75190687822696177177e4b7)
+    * [EEUU: 2024 fue un gran año para el bitcoin; se anticipa oleada de políticas cripto para 2025](https://apnews.com/article/criptomonedas-eeuu-pensiones-tesoro-pensilvania-wisconsin-michigan-trump-0049dc7e557f918e15e80d25118fab17)
     
 * [Quizzes](https://apnews.com/quizzes)
     
@@ -414,9 +414,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Death toll in Gaza Strip from Israel-Hamas war tops 45,000, Palestinians say](https://apnews.com/article/israel-palestinians-hamas-war-news-12-16-2024-9f7c8f0df71dc4c97a6b31aed6e13304)
-    * [France rushes help to Mayotte, where hundreds or even thousands died in Cyclone Chido](https://apnews.com/article/mayotte-cyclone-chido-climate-weather-43890b2cee0d90e67b6263f278782334)
-    * [Christians in Syria mark country's transformation with tears as UN envoy urges an end to sanctions](https://apnews.com/article/syria-assad-sanctions-un-3f0031108d7e58c2343bd6a8fd42254c)
+    * [Syria's ousted leader Assad says he wanted to keep fighting but Russian allies evacuated him](https://apnews.com/article/syria-war-assad-russia-news-16-december-2024-72a8e44f762da2ff78434ff76faeb633)
+    * [Death toll in Gaza from the Israel-Hamas war tops 45,000 Palestinians, health officials say](https://apnews.com/article/israel-palestinians-hamas-war-news-12-16-2024-9f7c8f0df71dc4c97a6b31aed6e13304)
+    * [Middle East latest: Assad says he wanted to stay in Syria but Russia evacuated him](https://apnews.com/article/israel-hamas-war-syria-news-16-december-2024-4ed0ec24506a1b78f0561ed0cc8f0994)
     
     Newsletters
     
@@ -434,7 +434,7 @@ Submit Search
     
     * [Survivors seek a reckoning as FBI investigates child sex abuse in little-known Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-a94073c27168a7998c1a225f72672a3d)
     * [Takeaways from AP's reporting on a child sex abuse crisis inside a secretive Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-398b68475c2eab693e40e35552030e87)
-    * [US agencies should use advanced technology to identify mysterious drones, Schumer says](https://apnews.com/article/drones-new-york-jersey-schumer-80de1d64708677cfa7efc60249075d7b)
+    * [Police say multiple people injured at a Wisconsin school shooting](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
     
     Newsletters
     
@@ -462,9 +462,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Journalists anticipate a renewed hostility toward their work under the incoming Trump administration](https://apnews.com/article/trump-press-media-news-1915c25137eb4605b95ab3b3ccc6fb4c)
-    * [Former FBI informant will plead guilty to lying about phony bribery scheme involving the Bidens](https://apnews.com/article/alexander-smirnov-guilty-plea-biden-informant-fbi-62a3b7acce0345303f812ca6d0206b10)
-    * [A Biden proclamation will establish a national monument for the 1st US female Cabinet secretary](https://apnews.com/article/biden-national-monument-frances-perkins-labor-3b58f0c1bae51fe26017acb3688eb505)
+    * [Trump says he will 'look at' pardon for embattled New York mayor Eric Adams](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
+    * [Former FBI informant pleads guilty to lying about phony bribery scheme involving the Bidens](https://apnews.com/article/alexander-smirnov-guilty-plea-biden-informant-fbi-62a3b7acce0345303f812ca6d0206b10)
+    * [As he prepares to leave leadership, McConnell challenges Trump on foreign policy](https://apnews.com/article/mcconnell-trump-isolationism-foreign-affairs-dcad297fa82e1794612fa2582e21162f)
     
     Newsletters
     
@@ -492,9 +492,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Jordan Love throws for 2 TDs and Packers beat Seahawks 30-13 as Seattle QB Geno Smith injures knee](https://apnews.com/article/packers-seahawks-score-6c5dc8a39b11bd28fe1d257f1989dee0)
-    * [Josh Allen has another huge game to lift Bills to a 48-42 victory that snaps Lions' winning streak](https://apnews.com/article/lions-bills-score-allen-ffc9cd77565c69ed327f06e2950478ee)
-    * [Mahomes throws 2 TD passes, leaves with ankle injury in Chiefs' 21-7 win. X-rays negative on star QB](https://apnews.com/article/browns-chiefs-score-mahomes-dc7a77ac602c6aa0c550dd6bf5288f27)
+    * [Chiefs QB Patrick Mahomes has high-ankle sprain, status for Houston remains unclear, AP source says](https://apnews.com/article/kansas-city-chiefs-patrick-mahomes-injury-b1d2fa37c154828f6f76f78312f0562e)
+    * [Dolphins' Grant DuBose has movement in extremities after scary hit to the head vs. Texans](https://apnews.com/article/dolphins-grant-dubose-injury-ee9725cd29930e910e05f02c7247b8fc)
+    * [NFL can't revise the onside kick fast enough for Dan Campbell: Analysis](https://apnews.com/article/campbell-lions-onside-kick-allen-bills-aad163d5edb6c548cbd39fcba66a2c0e)
     
     Newsletters
     
@@ -521,9 +521,9 @@ Submit Search
     
     TOP STORIES
     
-    * [Popeye and Tintin enter the public domain in 2025 along with novels from Faulkner and Hemingway](https://apnews.com/article/public-domain-2025-popeye-tintin-e71ca89b7a430e68e66a7c6ce45a98eb)
-    * [Journalists anticipate a renewed hostility toward their work under the incoming Trump administration](https://apnews.com/article/trump-press-media-news-1915c25137eb4605b95ab3b3ccc6fb4c)
-    * [‘Kraven the Hunter’ had one of the worst openings for a Marvel-adjacent property, estimates show](https://apnews.com/article/box-office-b79d8c3a84483f15fc3dace19dbef5d5)
+    * [These three new sports dramas punch above their weight](https://apnews.com/article/sports-movies-unstoppable-day-fight-fire-inside-26efbc7f942ce5c251a6cd8dad881b4a)
+    * [Stage spoofs of Hallmark TV movies are Christmas gifts for theaters](https://apnews.com/article/hallmark-christmas-holiday-movie-parody-theater-a2ffe1465b9492e88c58d683904ac87b)
+    * [Kane Brown 'gave everything' on his new album, 'The High Road.' The journey home meant experimenting](https://apnews.com/article/kane-brown-interview-high-road-c7eef2070190bb158a885581d131b600)
     
 * [Business](https://apnews.com/business)
     
@@ -539,8 +539,8 @@ Submit Search
     TOP STORIES
     
     * [Federal Reserve is likely to slow its rate cuts with inflation pressures still elevated](https://apnews.com/article/federal-reserve-inflation-rates-trump-economy-prices-4abfd4fad49db65cad4a2b5607d9e952)
+    * [Trump says he will 'look at' pardon for embattled New York mayor Eric Adams](https://apnews.com/article/trump-maralago-press-conference-44beea6cf8c93f070638842712bf3aca)
     * [Journalists anticipate a renewed hostility toward their work under the incoming Trump administration](https://apnews.com/article/trump-press-media-news-1915c25137eb4605b95ab3b3ccc6fb4c)
-    * [2024 was big for bitcoin. States could see a crypto policy blitz in 2025 in spite of the risks](https://apnews.com/article/cryptocurrency-pensions-treasury-pennsylvania-wisconsin-michigan-trump-68924e1d4dab3706c3e041f8f3649974)
     
 * [Science](https://apnews.com/science)
     
@@ -556,9 +556,9 @@ Submit Search
     
     TOP STORIES
     
+    * [How old are Saturn's rings? Study suggests they could be 4.5 billion years old just like the planet](https://apnews.com/article/rings-of-saturn-age-f4f88140895f146d61f427d1378cd981)
     * [Ancient genes pinpoint when humans and Neanderthals mixed and mingled](https://apnews.com/article/neanderthal-dna-gene-human-origins-africa-1c584991f8028979993315c6793048eb)
     * [How to catch the Geminids, one of the strongest meteor showers of the year](https://apnews.com/article/how-to-watch-geminid-meteor-shower-0404b8c198028749bc6c95313e3f8ecf)
-    * [What are the benefits of weighted blankets? Here's what the science says](https://apnews.com/article/weighted-blankets-better-sleep-c84dae91049c7b9906e9de9408274c46)
     
 * [Fact Check](https://apnews.com/ap-fact-check)
     
@@ -574,9 +574,9 @@ Submit Search
     
     TOP STORIES
     
+    * [Stay sober and have a jolly holiday season with these expert tips](https://apnews.com/article/staying-sober-holiday-tips-c1a18cbf0090b5049224c3f5d578590b)
     * [Working Well: When holidays present rude customers, taking breaks and the high road preserve peace](https://apnews.com/article/working-holiday-stress-customer-service-a91c5a58cc32f214b8937a40677afb52)
     * [More beans and less red meat: Nutrition experts weigh in on US dietary guidelines](https://apnews.com/article/usda-hhs-dietary-guidelines-d6a9c6f0554f279497acb5714b3032b9)
-    * [What are the benefits of weighted blankets? Here's what the science says](https://apnews.com/article/weighted-blankets-better-sleep-c84dae91049c7b9906e9de9408274c46)
     
 * [Newsletters](https://apnews.com/newsletters)
     
@@ -638,17 +638,17 @@ Submit Search
     
     TOP STORIES
     
+    * [Can U.N. summits save the planet? A faltering year of talks brings up questions about the process](https://apnews.com/article/united-nations-climate-biodiversity-plastics-drought-summits-failure-64b40bc06287a92d33bcdbfea4f3bf5f)
     * [American chestnuts are part of Yuletide lore. But in the US, they've nearly been wiped out](https://apnews.com/article/american-chestnut-trees-roasting-blight-chinese-restoration-1c3e50ef33a67926c0800222f0e7e619)
     * [UN talks fail to reach agreement on dealing with rising risk of global drought](https://apnews.com/article/un-drought-desertification-climate-riyadh-saudi-arabia-a353d12a2fe8c19e932f96198fa3421d)
-    * [Saudi Arabia's plans to host the men's World Cup will harm the climate, experts warn](https://apnews.com/article/climate-world-cup-saudi-arabia-greenhouse-gas-emissions-8750010f26aa1767b69e726c990f7388)
     
 * [Health](https://apnews.com/health)
     
     TOP STORIES
     
+    * [Are you catching holiday blues instead of cheer? Here are some ways to find peace](https://apnews.com/article/holiday-christmas-mental-health-depression-anxiety-c65eef56bfa54bff48a8d00d5b782280)
     * [Some breast cancer patients can avoid certain surgeries, studies suggest](https://apnews.com/article/breast-cancer-treatment-surgery-dcis-lymph-nodes-983e2835a4ecd1f90f53105a5bab4bb9)
     * [More beans and less red meat: Nutrition experts weigh in on US dietary guidelines](https://apnews.com/article/usda-hhs-dietary-guidelines-d6a9c6f0554f279497acb5714b3032b9)
-    * [US health panel adds self-testing option for cervical cancer screening](https://apnews.com/article/cervical-cancer-pap-test-hpv-4fca6f6072531a976a27cf369878fb59)
     * [America is trying to fix its maternal mortality crisis with federal, state and local programs](https://apnews.com/article/maternal-mortality-healthy-start-oklahoma-california-new-york-city-0aa1fa2a141ef82607026b384cc14af7)
     * [Europe offers clues for solving America's maternal mortality crisis](https://apnews.com/article/maternal-mortality-rate-us-global-deaths-norway-211218f769e9a5a6e856a485fb31aef3)
     * [Rural communities of color across the US find new ways to get the health care they need](https://apnews.com/article/rural-health-disparities-hospitals-closing-medicaid-961564a03a264812ce60006e416bd3ca)
@@ -665,8 +665,8 @@ Submit Search
     TOP STORIES
     
     * [US agencies should use advanced technology to identify mysterious drones, Schumer says](https://apnews.com/article/drones-new-york-jersey-schumer-80de1d64708677cfa7efc60249075d7b)
-    * [As schools cut back on bus service, parents are turning to rideshare apps](https://apnews.com/article/school-bus-rideshare-chicago-3fdcedfc4f957f748bf109066806bc88)
-    * [Hackers hit Rhode Island benefits system in major cyberattack. Personal data could be released soon](https://apnews.com/article/cybersecurity-breach-data-rhode-island-56875d6b20ce94de7b240c5b2f43e4a8)
+    * [Schools are cutting bus service for children. Parents are turning to ride-hailing apps](https://apnews.com/article/school-bus-rideshare-chicago-3fdcedfc4f957f748bf109066806bc88)
+    * [Senate report alleges Amazon rejected warehouse safety recommendations due to productivity concerns](https://apnews.com/article/amazon-warehouse-worker-injuries-senate-committee-eb5b72dd501be0bcce9d919c34731290)
     
 * [Lifestyle](https://apnews.com/lifestyle)
     
@@ -684,17 +684,17 @@ Submit Search
     
     TOP STORIES
     
-    * [As schools cut back on bus service, parents are turning to rideshare apps](https://apnews.com/article/school-bus-rideshare-chicago-3fdcedfc4f957f748bf109066806bc88)
-    * [Milan's Via MonteNapoleone usurps New York's Fifth Avenue as world's most upscale shopping street](https://apnews.com/article/milan-shopping-montenapoleone-fifth-avenue-09f40b45e279d71cf1f1b95e9b0871ae)
-    * [What to stream: MrBeast jumps to TV, Little Big Town's holiday special and Squid Game: Unleashed](https://apnews.com/article/stream-tv-movies-music-december-2024-town-3f20e1a38e93d0d8fe102dc03d6ab3c8)
+    * [Are you catching holiday blues instead of cheer? Here are some ways to find peace](https://apnews.com/article/holiday-christmas-mental-health-depression-anxiety-c65eef56bfa54bff48a8d00d5b782280)
+    * [Stage spoofs of Hallmark TV movies are Christmas gifts for theaters](https://apnews.com/article/hallmark-christmas-holiday-movie-parody-theater-a2ffe1465b9492e88c58d683904ac87b)
+    * [Short ribs braised in wine and aromatics make for an elegant holiday dinner](https://apnews.com/article/holiday-dinner-braised-short-ribs-milk-street-a3bf12c0f33b3f3c9924adad0567f2e4)
     
 * [Religion](https://apnews.com/religion)
     
     TOP STORIES
     
+    * [Police say multiple people injured at a Wisconsin school shooting](https://apnews.com/article/wisconsin-school-shooting-498c8ad26d299602553201ad639a4a5c)
     * [A second top Church of England cleric is facing calls to resign over his handling of abuse claims](https://apnews.com/article/church-of-england-archbishop-abuse-scandal-9553d1e0d7e1e675a686e0d2cd90fe64)
     * [Takeaways from AP's reporting on a child sex abuse crisis inside a secretive Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-398b68475c2eab693e40e35552030e87)
-    * [Survivors seek a reckoning as FBI investigates child sex abuse in little-known Christian sect](https://apnews.com/article/christian-sect-child-sex-abuse-scandal-a94073c27168a7998c1a225f72672a3d)
     
     Newsletters
     
@@ -708,11 +708,11 @@ Submit Search
     
     TOP STORIES
     
+    * [Trump amenaza deportaciones masivas y Centroamérica se prepara ante llegada de migrantes vulnerables](https://apnews.com/article/honduras-trump-deportaciones-masivas-america-central-inmigracion-27dbe55e62a2ee02c67c1fd289316356)
     * [Los muertos en Gaza de la guerra entre Israel y Hamás superan los 45.000, según palestinos](https://apnews.com/article/gaza-hamas-israel-guerra-ataques-5fcf44407f59568166a4985408be97ff)
-    * [El presidente Lula sale del hospital tras cirugía por una hemorragia cerebral](https://apnews.com/article/lula-brasil-presidente-salud-f74d1197875778eb119376fecae021e0)
-    * [Francia envía ayuda a Mayotte tras el ciclón Chido, que dejó cientos o incluso miles de muertos](https://apnews.com/article/mayotte-chido-ciclon-francia-97ceaa5ce30b98d6f910ae9d84c6254a)
-    * [Investigadores surcoreanos buscan interrogar al presidente Yoon por imposición de ley marcial](https://apnews.com/article/yoon-corea-juicio-politico-ley-marcial-surcorea-02bbeeecc6d92c291153a5349c68bb3c)
-    * [Periodistas anticipan hostilidad renovada hacia su labor con la nueva administración Trump](https://apnews.com/article/trump-medios-ce66779e77d316dff2466f3fbe0a82e7)
+    * [Assad, presidente depuesto de Siria, quería seguir luchando pero aliados rusos lo evacuaron.](https://apnews.com/article/siria-assad-rusia-guerra-9030c2a2f26e69d194dcd222cb2a86fb)
+    * [Alemania: Canciller Scholz pierde voto de confianza y anticipa elecciones en febrero](https://apnews.com/article/alemania-scholz-voto-de-confianza-parlamento-elecciones-gobierno-e55493ff75190687822696177177e4b7)
+    * [EEUU: 2024 fue un gran año para el bitcoin; se anticipa oleada de políticas cripto para 2025](https://apnews.com/article/criptomonedas-eeuu-pensiones-tesoro-pensilvania-wisconsin-michigan-trump-0049dc7e557f918e15e80d25118fab17)
     
 * [Quizzes](https://apnews.com/quizzes)
     
