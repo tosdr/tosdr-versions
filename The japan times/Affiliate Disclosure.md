@@ -131,6 +131,14 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Indian-born CEO of Japanese company says nation needs immigration to thrive](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
+
+  [![Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440239.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August")](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
+
+[Schoolgirl stabbed to death in Kitakyushu](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
+
+  [![A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440205.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday")](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
+
 [South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
 
   [![South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440177.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ")](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
@@ -139,20 +147,26 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![U.S. Marine Corps Air Station Futenma in Ginowan, Okinawa Prefecture, in 2021](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440174.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. Marine Corps Air Station Futenma in Ginowan, Okinawa Prefecture, in 2021")](https://www.japantimes.co.jp/news/2024/12/14/japan/okinawa-marines-guam-relocation/ "U.S. Marines begin to relocate from Okinawa to Guam")
 
-[Japan ready to team up with Trump over North Korea abduction issue](https://www.japantimes.co.jp/news/2024/12/14/japan/politics/north-korea-abductions-trump-cooperation/ "Japan ready to team up with Trump over North Korea abduction issue")
+[Trump reportedly eyeing businessman George Glass as envoy to Japan](https://www.japantimes.co.jp/news/2024/12/15/japan/politics/japanese-ambassador-to-japan/ "Trump reportedly eyeing businessman George Glass as envoy to Japan")
 
-  [![Chief Cabinet Secretary Yoshimasa Hayashi speaks with students from Okayama University about the issue of North Korea's abductions of Japanese citizens decades ago, in Tokyo on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440179.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Chief Cabinet Secretary Yoshimasa Hayashi speaks with students from Okayama University about the issue of North Korea's abductions of Japanese citizens decades ago, in Tokyo on Saturday. ")](https://www.japantimes.co.jp/news/2024/12/14/japan/politics/north-korea-abductions-trump-cooperation/ "Japan ready to team up with Trump over North Korea abduction issue")
-
-[Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
-
-  [![A Nippon Steel blast furnace building in Kashima, Ibaraki Prefecture, on Dec. 6](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440134.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Nippon Steel blast furnace building in Kashima, Ibaraki Prefecture, on Dec. 6")](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
-
-[Protesters in South Korea rejoice as lawmakers impeach Yoon](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/protesters-rejoice-yoon-impeachment/ "Protesters in South Korea rejoice as lawmakers impeach Yoon")
-
-  [![Protesters calling for the ouster of South Korean President Yoon Suk Yeol react after the result of the second impeachment vote outside the National Assembly in Seoul on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440172.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters calling for the ouster of South Korean President Yoon Suk Yeol react after the result of the second impeachment vote outside the National Assembly in Seoul on Saturday.")](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/protesters-rejoice-yoon-impeachment/ "Protesters in South Korea rejoice as lawmakers impeach Yoon")
+  [![George Glass in July 2017](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440197.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "George Glass in July 2017")](https://www.japantimes.co.jp/news/2024/12/15/japan/politics/japanese-ambassador-to-japan/ "Trump reportedly eyeing businessman George Glass as envoy to Japan")
 
 Editors' Picks
 --------------
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Indian-born CEO of Japanese company says nation needs immigration to thrive](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
+
+By [Simon STURDEE](https://www.japantimes.co.jp/author/5475/simon-sturdee/ "Simon STURDEE")  
+
+  [![Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440239.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lekh Juneja, chairman and CEO of Kameda Seika, at the company's headquarters in the city of Niigata in August")](https://www.japantimes.co.jp/business/2024/12/15/companies/india-born-kameda-ceo/ "Indian-born CEO of Japanese company says nation needs immigration to thrive")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Schoolgirl stabbed to death in Kitakyushu](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
+
+  [![A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440205.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday")](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
 
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
@@ -170,23 +184,9 @@ By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan ready to team up with Trump over North Korea abduction issue](https://www.japantimes.co.jp/news/2024/12/14/japan/politics/north-korea-abductions-trump-cooperation/ "Japan ready to team up with Trump over North Korea abduction issue")
+[Trump reportedly eyeing businessman George Glass as envoy to Japan](https://www.japantimes.co.jp/news/2024/12/15/japan/politics/japanese-ambassador-to-japan/ "Trump reportedly eyeing businessman George Glass as envoy to Japan")
 
-  [![Chief Cabinet Secretary Yoshimasa Hayashi speaks with students from Okayama University about the issue of North Korea's abductions of Japanese citizens decades ago, in Tokyo on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440179.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Chief Cabinet Secretary Yoshimasa Hayashi speaks with students from Okayama University about the issue of North Korea's abductions of Japanese citizens decades ago, in Tokyo on Saturday. ")](https://www.japantimes.co.jp/news/2024/12/14/japan/politics/north-korea-abductions-trump-cooperation/ "Japan ready to team up with Trump over North Korea abduction issue")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
-
-By [Shoko Oda](https://www.japantimes.co.jp/author/377/shoko-oda/ "Shoko Oda") and [Stephen Stapczynski](https://www.japantimes.co.jp/author/977/stephen-stapczynski/ "Stephen Stapczynski")  
-
-  [![A Nippon Steel blast furnace building in Kashima, Ibaraki Prefecture, on Dec. 6](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440134.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Nippon Steel blast furnace building in Kashima, Ibaraki Prefecture, on Dec. 6")](https://www.japantimes.co.jp/business/2024/12/14/companies/nippon-steel-plan-b-focus/ "Nippon Steel’s plan B now in focus as $14 billion U.S. deal falters")
-
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[Protesters in South Korea rejoice as lawmakers impeach Yoon](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/protesters-rejoice-yoon-impeachment/ "Protesters in South Korea rejoice as lawmakers impeach Yoon")
-
-  [![Protesters calling for the ouster of South Korean President Yoon Suk Yeol react after the result of the second impeachment vote outside the National Assembly in Seoul on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440172.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters calling for the ouster of South Korean President Yoon Suk Yeol react after the result of the second impeachment vote outside the National Assembly in Seoul on Saturday.")](https://www.japantimes.co.jp/news/2024/12/14/asia-pacific/protesters-rejoice-yoon-impeachment/ "Protesters in South Korea rejoice as lawmakers impeach Yoon")
+  [![George Glass in July 2017](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440197.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "George Glass in July 2017")](https://www.japantimes.co.jp/news/2024/12/15/japan/politics/japanese-ambassador-to-japan/ "Trump reportedly eyeing businessman George Glass as envoy to Japan")
 
 Podcast
 -------
@@ -198,18 +198,18 @@ Podcast
 Longform
 --------
 
-  [![People in cities across Japan will pop into their local convenience store for any number of products they believe will help them with a night of drinking. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/437913.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People in cities across Japan will pop into their local convenience store for any number of products they believe will help them with a night of drinking. ")](https://www.japantimes.co.jp/life/2024/12/06/lifestyle/effective-hangover-drinks-japan/ "Hangover cures are everywhere in Japan — but do they work?")
+  [![Yasuyuki Yoshida stirs a brew in a fermentation tank at his brewery in Hakusan. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/439354.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yasuyuki Yoshida stirs a brew in a fermentation tank at his brewery in Hakusan. ")](https://www.japantimes.co.jp/news/2024/12/16/japan/society/noto-sake-breweries-earthquake/ "The quake that shook Noto's sake brewing tradition")
 
-[Hangover cures are everywhere in Japan — but do they work?](https://www.japantimes.co.jp/life/2024/12/06/lifestyle/effective-hangover-drinks-japan/ "Hangover cures are everywhere in Japan — but do they work?")
+[The quake that shook Noto's sake brewing tradition](https://www.japantimes.co.jp/news/2024/12/16/japan/society/noto-sake-breweries-earthquake/ "The quake that shook Noto's sake brewing tradition")
 
-By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Huong Ha")  
+By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "Alex K.T. Martin")  
 
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -249,19 +249,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Latest scandal raises fresh questions about U.K.'s Prince Andrew](https://www.japantimes.co.jp/news/2024/12/15/world/prince-andrew-latest-scandal/ "Latest scandal raises fresh questions about U.K.'s Prince Andrew")
+[Lowering tensions key priority for incoming ASEAN chair Malaysia](https://www.japantimes.co.jp/news/2024/12/16/japan/politics/malaysia-ambassador-japan-interview/ "Lowering tensions key priority for incoming ASEAN chair Malaysia")
 
-9 hours ago
+13 mins ago
 
-[Australia says remaining 'Bali Nine' members have returned from Indonesia](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/crime-legal/bali-nine-return-to-australia/ "Australia says remaining 'Bali Nine' members have returned from Indonesia")
+[Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-student-stabbing/ "Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds")
 
-11 hours ago
+15 mins ago
 
-[Chinese firms take on EV truck challenges](https://www.japantimes.co.jp/business/2024/12/15/chinese-firms-ev-truck-challenges/ "Chinese firms take on EV truck challenges")
+[Emergency teams to be equipped with unmanned water-cannon robots](https://www.japantimes.co.jp/news/2024/12/16/japan/japan-disaster-robots/ "Emergency teams to be equipped with unmanned water-cannon robots")
 
-[South Korean opposition urges swift removal of impeached President Yoon](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-opposition-yoon-removal/ "South Korean opposition urges swift removal of impeached President Yoon")
+1 hour ago
 
-[South Korean president impeached over martial law decree](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
+[Companies rush to high-end rice cookers as consumer tastes change](https://www.japantimes.co.jp/news/2024/12/16/japan/rice-cooker-manufacturers/ "Companies rush to high-end rice cookers as consumer tastes change")
+
+1 hour ago
+
+[South Korea's won and stocks take spotlight after impeachment vote](https://www.japantimes.co.jp/business/2024/12/16/markets/korean-won-stocks-impeachment/ "South Korea's won and stocks take spotlight after impeachment vote")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
