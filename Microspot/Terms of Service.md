@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/8419.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/6120.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -87,6 +87,10 @@ ACTIONGaming Week](https://www.microspot.ch/fr/cms/actions-jeux)
 [![Apple Dreamteam](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-Xmas-11-CM2-Apple-Week-2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyMjA3MTJ8aW1hZ2UvanBlZ3xhREl5TDJoaE1DODROakI0TkRnMFgwa3lORjlUY0ZCZldHMWhjMTh4TVY5RFRUSmZRWEJ3YkdWZlYyVmxhMTh5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE5qQjRORGcwWDBreU5GOVRjRkJmV0cxaGMxOHhNVjlEVFRKZlFYQndiR1ZmVjJWbGExOHlMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXxjNjJlYWQ5ZDJmMmY5ZGNhMDAxNGFjMTM0Yjc4ZTRhMThkODhlMTZiNDcwODZjMzM5MzNlNzZkOGM0NmI2ODY5&w=2360&q=75)
 
 Dreamteam.Génial seul et encore mieux ensemble.](https://www.microspot.ch/fr/brand/apple)
+
+[![Produits Sony](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-Xmas-05-CM1-Promos-KW50-52-23.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyMzU0MDl8aW1hZ2UvanBlZ3xhR1l5TDJnMU9DODROakI0TkRnMFgwa3lORjlUY0ZCZldHMWhjMTh3TlY5RFRURmZVSEp2Ylc5elgwdFhOVEF0TlRKZk1qTXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemcyTUhnME9EUmZTVEkwWDFOd1VGOVliV0Z6WHpBMVgwTk5NVjlRY205dGIzTmZTMWMxTUMwMU1sOHlNeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8ZGQzY2M2Zjg2NmNjZWEzYzJkY2E4MTU3MDI0YWRkYjY5NzFmZTc2N2JhNmMyNDcwMGYyYjlkY2IwMzcxYjhlYg&w=2360&q=75)
+
+ACTUALITÉSdes articles SONY sélectionnés au meilleurs prix](https://www.microspot.ch/fr/brand/sony)
 
 [![hp](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-Xmas-02-CM2-Promos-KW50-6.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyMDk1NDd8aW1hZ2UvanBlZ3xhR1V6TDJobU1DODROakI0TkRnMFgwa3lORjlUY0ZCZldHMWhjMTh3TWw5RFRUSmZVSEp2Ylc5elgwdFhOVEJmTmk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EWXdlRFE0TkY5Sk1qUmZVM0JRWDFodFlYTmZNREpmUTAweVgxQnliMjF2YzE5TFZ6VXdYell1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrfGE2NTQwYTY5Yjc0MTJkYTcyYzFhY2I2ZmU4YTZlNTkxNWFhMzA2YWNjMTE3OTAwYzYwZmVkMzdkMzcwYjAxNzM&w=2360&q=75)
 
@@ -135,8 +139,6 @@ Hiver en Suisse
 
 Tout ce dont vous avez besoin pour l'hiver](https://www.microspot.ch/fr/cms/hiver)
 
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-SpP-Xmas-12-CM1-Kamera3.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyNTIzODd8aW1hZ2UvanBlZ3xhR1kxTDJnMU1TOHhNVGd3ZURNMU1GOUpNalJmVTNCUVgxaHRZWE5mTVRKZlEwMHhYMHRoYldWeVlUTXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMekV4T0RCNE16VXdYMGt5TkY5VGNGQmZXRzFoYzE4eE1sOURUVEZmUzJGdFpYSmhNeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8YjZkM2I5ZTk1Nzk5MWJkM2I3OGU2ZDg3NmMzMzIxZTZjMDdhMWIyZWEyM2EzODY3ZGVkY2RiM2NkOTdiODEwMw&w=2360&q=75)](https://www.microspot.ch/fr/cms/vente-appareils-photo-exposes)
-
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0743-CM1-DAB11.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4NDAwM3xpbWFnZS9qcGVnfGFETmpMMmhoTUM4eE1UZ3dlRE0xTUY5Sk1qUmZNRGMwTTE5RFRURmZSRUZDTVRFdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6RXhPREI0TXpVd1gwa3lORjh3TnpRelgwTk5NVjlFUVVJeE1TNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXxmN2RmZjg1ODI4Yzc5MTQzODNlMmRiOWM0YTM2MzRmMWFjN2I0NTU4MGI2MmNmMTRkMjhlYzZjYWU4YjUwMmIw&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-0743-CM1-DAB5.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3NzQ5NHxpbWFnZS9qcGVnfGFEbGxMMmd4TlM4NE1qaDRNelV3WDBreU5GOHdOelF6WDBOTk1WOUVRVUkxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1qaDRNelV3WDBreU5GOHdOelF6WDBOTk1WOUVRVUkxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8OGRkODQwY2JkMjU2NThiYWQ2Mzg2NzM0YTViODE0NmQ5ODNjM2Y4NTM5MjA2MWJhNDhjZDA2NmM1OTViMWIyNQ&w=2360&q=75)](https://www.microspot.ch/fr/cms/dab)
 
 Testé pour vous
@@ -160,14 +162,14 @@ PHILIPS
 
 Sonicare 7100](https://www.microspot.ch/fr/cms/blog/conseils/philips-sonicare-7100)
 
-Test: VALERA MatrixCare AI Metallic
------------------------------------
+Test: XIAOMI Pompe électrique Air Compressor 2
+----------------------------------------------
 
-![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F915x515-I24-SoMe-Blog-Valera-Haartrockner.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3NzYwOXxpbWFnZS9qcGVnfGFERTVMMmcyT1M4NU1UVjROVEUxWDBreU5GOVRiMDFsWDBKc2IyZGZWbUZzWlhKaFgwaGhZWEowY205amEyNWxjaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T1RFMWVEVXhOVjlKTWpSZlUyOU5aVjlDYkc5blgxWmhiR1Z5WVY5SVlXRnlkSEp2WTJ0dVpYSXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8MTk2NDc3NzQxNDkwYjBhMTg3Y2ZmNTMzYThhYjE0MTEzNDRjNmI3YTNkZDM2MWE4ZDdjYTBjNDA2YWU0ODRiZA&w=2360&q=75)
+![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F915x515-I24-SoMe-Blog-Xiaomi-Pumpe.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3NjI1NnxpbWFnZS9qcGVnfGFEWTNMMmcwWWk4NU1UVjROVEUxWDBreU5GOVRiMDFsWDBKc2IyZGZXR2xoYjIxcFgxQjFiWEJsTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NU1UVjROVEUxWDBreU5GOVRiMDFsWDBKc2IyZGZXR2xoYjIxcFgxQjFiWEJsTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8YTEzMGNmYTRhZmZkNjM1ZWM3YTNkYWU2ZjdkNDA1MmZmMWZiMjQ5NWM5ZmQzYjVmMTkxODBiZmQ0ZTY1MjQyNg&w=2360&q=75)
 
-Un sèche-cheveux sèche les cheveux, il n'y a pas grand-chose à en dire. C'est en tout cas ce que je pensais jusqu'à présent. Mais après avoir testé avec ma femme le sèche-cheveux à haute vitesse MatrixCare AI du fabricant suisse Valera, je peux dire que l'on peut s'échiner avec un sèche-cheveux 0815 ou se sécher les cheveux de manière professionnelle. Et après le test, une chose est claire pour moi : cette dernière option est clairement beaucoup plus amusante.
+XIAOMI a lancé le Air Compressor 2, un appareil compact pour les pneus et les balles par exemple. Les embouts et les performances parlent clairement en faveur de l'appareil de test du fabricant chinois.
 
-[Continuer la lecture](https://www.microspot.ch/fr/cms/blog/conseils/valera-matrixcare-ai-metallic)
+[Continuer la lecture](https://www.microspot.ch/fr/cms/blog/conseils/xiaomi-air-compressor-2)
 
 Nos opérateurs
 --------------
@@ -215,6 +217,10 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
+[Garantie Plus
+
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
+
 [Retrait gratuit
 
 dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
@@ -222,10 +228,6 @@ dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_C
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
-[Garantie Plus
-
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 interdiscount.ch
 
