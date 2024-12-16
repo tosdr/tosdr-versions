@@ -85,7 +85,6 @@ Anzeigen
 * [Verantwortungsvollste Arbeitgeber 2025](https://www.zeit.de/angebote/most-responsible-employer-2025/index)
 * [Feier dein Geschmack](https://www.zeit.de/angebote/zeit-magazin/vomfass/index)
 * [Jens Bisky, Die Entscheidung](https://www.zeit.de/angebote/biskydieentscheidung/index)
-* [Gemeinsam für Demokratie](https://cmk.zeit.de/cms/hub/13121/anzeige/dm-drogerie-markt-gmbh)
 * [congstar Fairnessheld\*innen](https://www.zeit.de/campus/angebote/congstar/fairnessheldinnen/index)
 * [ZEIT LEO Weltretter-Mission](https://zeitleo.de/weltretter-mission/)
 * [How it works: Studium und Job](https://www.zeit.de/campus/angebote/howitworks/index)
