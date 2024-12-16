@@ -115,7 +115,7 @@ You can review their privacy and cookie policy [here](https://www.snigel.com/pri
 
 ![](https://www4.dict.cc/img/hr4.gif)
 
-English-German online dictionary developed to help you share your knowledge with others. [More information](https://www.dict.cc/?s=about%3A)  
+English-German dictionary developed to help you share your knowledge with others. [More information](https://www.dict.cc/?s=about%3A)  
 Contains translations by TU Chemnitz and Mr Honey's Business Dictionary (German-English). Thank you!  
 Links to this dictionary or to single translations are very welcome! [Questions and Answers](https://www.dict.cc/?s=about%3Afaq)
 
