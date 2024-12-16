@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/WTSP/images/b6b94ba3-f112-4914-82c1-1a05cfad0756/20241203T203340/b6b94ba3-f112-4914-82c1-1a05cfad0756_16x9.jpg) ![](https://media.kagstv.com/assets/WTSP/images/b6b94ba3-f112-4914-82c1-1a05cfad0756/20241203T203340/b6b94ba3-f112-4914-82c1-1a05cfad0756_360x203.jpg)](https://www.kagstv.com/article/news/local/traffic-stop-college-station-pd-leads-to-recovery-of-stolen-firearms/500-ae5fe217-0b5c-495d-98fe-0669ee6c9ece)
+        
+        #### [Houston man arrested following traffic stop in College Station](https://www.kagstv.com/article/news/local/traffic-stop-college-station-pd-leads-to-recovery-of-stolen-firearms/500-ae5fe217-0b5c-495d-98fe-0669ee6c9ece)
+        
     *  [![](https://media.kagstv.com/assets/KCEN/images/aec5fccf-e576-4589-a4a5-e445b25625ec/20241213T145457/aec5fccf-e576-4589-a4a5-e445b25625ec_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/aec5fccf-e576-4589-a4a5-e445b25625ec/20241213T145457/aec5fccf-e576-4589-a4a5-e445b25625ec_360x203.jpg)](https://www.kagstv.com/article/news/crime/robertson-county-authorities-looking-to-identify-suspects-in-drive-in-hearne-grocery-theft/500-d1850ee4-d49c-404a-a9bd-861b69443251)
         
         #### [Robertson County authorities looking to identify suspects in drive-in grocery theft](https://www.kagstv.com/article/news/crime/robertson-county-authorities-looking-to-identify-suspects-in-drive-in-hearne-grocery-theft/500-d1850ee4-d49c-404a-a9bd-861b69443251)
-        
-    *  [![](https://media.kagstv.com/assets/WFAA/images/2cc373a1-c51f-4d35-bb20-14aaf968d40a/20241213T041308/2cc373a1-c51f-4d35-bb20-14aaf968d40a_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/2cc373a1-c51f-4d35-bb20-14aaf968d40a/20241213T041308/2cc373a1-c51f-4d35-bb20-14aaf968d40a_360x203.jpg)](https://www.kagstv.com/article/news/local/lawsuit-alleges-2-year-old-girl-was-trapped-inside-drain-full-of-water-at-north-texas-daycare/287-5839c574-f823-4719-a148-258a7cf05e2d)
-        
-        #### ['Unforgivable' | Newly filed lawsuit alleges 2-year-old girl was trapped inside drain full of water at North Texas daycare](https://www.kagstv.com/article/news/local/lawsuit-alleges-2-year-old-girl-was-trapped-inside-drain-full-of-water-at-north-texas-daycare/287-5839c574-f823-4719-a148-258a7cf05e2d)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -54,9 +54,9 @@ Navigation
         
         #### [7.0 earthquake off Northern California prompts brief tsunami warning](https://www.kagstv.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
         
-    *  [![](https://media.kagstv.com/assets/KCEN/images/b941022e-eade-463c-b53b-fa7c57414d8b/20241215T225922/b941022e-eade-463c-b53b-fa7c57414d8b_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/b941022e-eade-463c-b53b-fa7c57414d8b/20241215T225922/b941022e-eade-463c-b53b-fa7c57414d8b_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/df8a3bb9-c7c3-4c2c-8a96-35f4ded64507/20241216T130759/df8a3bb9-c7c3-4c2c-8a96-35f4ded64507_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/df8a3bb9-c7c3-4c2c-8a96-35f4ded64507/20241216T130759/df8a3bb9-c7c3-4c2c-8a96-35f4ded64507_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
-        #### [Unseasonal warm and wet weather continues | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+        #### [Two fronts and rain chances until midweek | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -97,9 +97,9 @@ Navigation
 
 Bryan, TX »
 
-69°
+67°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
