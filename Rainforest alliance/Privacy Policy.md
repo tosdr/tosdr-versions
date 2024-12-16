@@ -273,12 +273,6 @@ Translation disclaimer
 
 Rainforest Alliance’s website is originally published in English and contains information translated into other languages by third party translators.  Translations are provided as a service to our website visitors and are provided “as is”.  Rainforest Alliance makes no warranty of any kind, either expressed or implied, as to the accuracy, reliability, or correctness of any translations from English into any other language.   Any discrepancies or differences arising from translations are not binding and have no legal effect.  If any questions arise regarding the accuracy of any translated materials, please refer to the original English version. 
 
-![rainforest alliance spending](/wp-content/themes/rainforest-replant/dist/img/donation_graph_replant.svg)
-
-In 2023, 77% of our income supported sustainability programs. [Learn More](https://www.rainforest-alliance.org/audited-financial-documents)
-
-![charity-watch](/wp-content/themes/rainforest-replant/dist/img/charity-watch-mono.svg)
-
 Join our Mailing List
 ---------------------
 
@@ -292,7 +286,7 @@ general or business(Required)
 
  Send me business updates
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -342,31 +336,6 @@ Habitats Matter.
 Your gift helps protect vital forest habitats for wildlife.
 
 [Donate Today](#)
-
-X
-
-People & Forests
-
-Support nature’s guardians.  
-Act now!
-
-[Give Today](#)
-
-X
-
-Gifts Matched Today!
-
-Your donation today will be matched. Act now!
-
-[Match My Gift](#)
-
-X
-
-Save Forests Today!
-
-Your gift helps protect tropical forests!
-
-[Give Today](#)
 
 X
 
