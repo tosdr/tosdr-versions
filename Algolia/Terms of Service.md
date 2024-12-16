@@ -1,11 +1,11 @@
 * [* Deutsch](https://www.algolia.com/de/policies/sla/ "Switch to ")[* English](#)[* français](https://www.algolia.com/fr/policies/sla/ "Switch to ")
     
 
-[New:
+[Event:
 
-Data Transformation for AI Search
+Come see us at NRF 2025, Booth #4275, January 12-14!
 
-Learn more](https://www.algolia.com/products/features/data-transformation)
+Learn more](https://www.algolia.com/lp/event-nrf-2025)
 
 * [Company](https://www.algolia.com/about)
 * [Partners](https://partners.algolia.com/)
