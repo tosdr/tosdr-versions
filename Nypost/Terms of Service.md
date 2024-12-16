@@ -4,8 +4,8 @@ Primary Menu Sections
 
 * [US News](https://nypost.com/us-news/)
     * [Metro](https://nypost.com/metro/)
+    * [Long Island](https://nypost.com/long-island/)
     * [Politics](https://nypost.com/politics/)
-    * [Swing States 2024](https://nypost.com/swing-states/)
 * [World News](https://nypost.com/world-news/)
 * [Page Six](https://pagesix.com/)
 * [Sports](https://nypost.com/sports/)
