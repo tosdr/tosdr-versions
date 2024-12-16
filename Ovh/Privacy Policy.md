@@ -131,14 +131,14 @@ Log in to order, manage your products and services, and track your orders.
             * [Advance Servers New](https://www.ovhcloud.com/en/bare-metal/advance/) Versatile servers for small and medium businesses.
             * [Game Servers New](https://www.ovhcloud.com/en/bare-metal/game/) For video games and streaming platforms.
             * [Storage Servers](https://www.ovhcloud.com/en/bare-metal/storage/) Servers for archiving, backup, and distributed storage.
-            * [Scale Servers New](https://www.ovhcloud.com/en/bare-metal/scale/) Specifically designed for complex, high-resilience infrastructures.
-            * [High Grade Servers New](https://www.ovhcloud.com/en/bare-metal/high-grade/) The most powerful servers, optimised for critical loads.
+            * [Scale Servers](https://www.ovhcloud.com/en/bare-metal/scale/) Specifically designed for complex, high-resilience infrastructures.
+            * [High Grade Servers](https://www.ovhcloud.com/en/bare-metal/high-grade/) The most powerful servers, optimised for critical loads.
             * [Operating systems and applications](https://www.ovhcloud.com/en/bare-metal/os/) Operating systems and applications adapted to your needs
-            * [Dedicated server availability by region New](https://www.ovhcloud.com/en/bare-metal/regions-availability/) The availability of our servers in various regions around the world
+            * [Dedicated server availability by region](https://www.ovhcloud.com/en/bare-metal/regions-availability/) The availability of our servers in various regions around the world
         * Use cases
             
-            * [AZ and resilience New](https://www.ovhcloud.com/en/bare-metal/uc-3-az-resilience/)
-            * Grid computing New
+            * [AZ and resilience](https://www.ovhcloud.com/en/bare-metal/uc-3-az-resilience/)
+            * [Grid computing](https://www.ovhcloud.com/en/bare-metal/uc-grid-computing/)
             * [SAP HANA](https://www.ovhcloud.com/en/bare-metal/uc-sap-hana/)
             * Virtualisation and containerisation
             * Website Business Application
@@ -602,8 +602,8 @@ Log in to order, manage your products and services, and track your orders.
             * [Nvidia](https://www.ovhcloud.com/en/solutions/nvidia/) Nvidia GPU solutions for accelerating your innovation and AI projects
             * [MongoDB](https://www.ovhcloud.com/en/public-cloud/mongodb/) MongoDB solutions that simplify data management
             * [OpenStack](https://www.ovhcloud.com/en/public-cloud/openstack/) OpenStack solutions integrated with OVHcloud for cloud infrastructure
-            * [Intel](https://www.ovhcloud.com/en/bare-metal/dedicated-servers-intel/) Top-of-the-line cloud solutions powered by AMD processors
-            * [AMD](https://www.ovhcloud.com/en/bare-metal/dedicated-servers-amd/) Expert solutions powered by Intel® Xeon® that accelerate cloud processes
+            * [Intel](https://www.ovhcloud.com/en/bare-metal/dedicated-servers-intel/) Expert solutions powered by Intel® Xeon® that accelerate cloud processes
+            * [AMD](https://www.ovhcloud.com/en/bare-metal/dedicated-servers-amd/) Top-of-the-line cloud solutions powered by AMD processors
             * [Hadoop Cloudera](https://www.ovhcloud.com/en/solutions/uc-big-data-managed-hadoop-clusters/) Your 100% managed Cloudera solution with Claranet
 * [Ecosystem](https://www.ovhcloud.com/en/ecosystem/)
     * Back to menu
