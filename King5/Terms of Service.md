@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f1c29d74-9d2d-487b-82b9-2a7e51f9567f/20241215T220320/f1c29d74-9d2d-487b-82b9-2a7e51f9567f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f1c29d74-9d2d-487b-82b9-2a7e51f9567f/20241215T220320/f1c29d74-9d2d-487b-82b9-2a7e51f9567f_360x203.jpg)](https://www.king5.com/article/news/local/1-dead-1-injured-house-fire-lynnwood/281-c45c86ac-9ac5-4fdd-897e-989f12f0cffb)
+    *  [![](https://media.king5.com/assets/KING/images/e3fda8dd-5c0a-4b67-a0a6-ef4fefabde3f/20241216T054047/e3fda8dd-5c0a-4b67-a0a6-ef4fefabde3f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e3fda8dd-5c0a-4b67-a0a6-ef4fefabde3f/20241216T054047/e3fda8dd-5c0a-4b67-a0a6-ef4fefabde3f_360x203.jpg)](https://www.king5.com/article/news/local/woodinville-shop-target-kia-thieves-smashed-storefront/281-d5d5d17b-64b8-40fb-8a8e-adc442b9cf64)
         
-        #### [1 dead, 1 injured in house fire in Lynnwood](https://www.king5.com/article/news/local/1-dead-1-injured-house-fire-lynnwood/281-c45c86ac-9ac5-4fdd-897e-989f12f0cffb)
+        #### [Woodinville shop a target of Kia thieves who smashed storefront, deputies say](https://www.king5.com/article/news/local/woodinville-shop-target-kia-thieves-smashed-storefront/281-d5d5d17b-64b8-40fb-8a8e-adc442b9cf64)
         
-    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-mensaje-del-consulado-de-mxico-en-seattle-noticias-titulares-de-edmonds-y-lynnwood/281-e81190cc-ee51-4e52-bfbc-6e34b9ec4d7f)
+    *  [![](https://media.king5.com/assets/KING/images/c9134062-9bd8-4902-85c5-af77b751054c/20241216T053807/c9134062-9bd8-4902-85c5-af77b751054c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c9134062-9bd8-4902-85c5-af77b751054c/20241216T053807/c9134062-9bd8-4902-85c5-af77b751054c_360x203.jpg)](https://www.king5.com/article/news/local/1-dead-1-injured-house-fire-lynnwood/281-c45c86ac-9ac5-4fdd-897e-989f12f0cffb)
         
-        #### [Cinco Cosas: Mensaje del Consulado de México en Seattle, noticias titulares de Edmonds y Lynnwood](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-mensaje-del-consulado-de-mxico-en-seattle-noticias-titulares-de-edmonds-y-lynnwood/281-e81190cc-ee51-4e52-bfbc-6e34b9ec4d7f)
+        #### [1 killed, 1 injured in house fire in Lynnwood](https://www.king5.com/article/news/local/1-dead-1-injured-house-fire-lynnwood/281-c45c86ac-9ac5-4fdd-897e-989f12f0cffb)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/edb21d42-9c19-40f7-b16f-0fca8d1a2b2d/20241215T163027/edb21d42-9c19-40f7-b16f-0fca8d1a2b2d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/edb21d42-9c19-40f7-b16f-0fca8d1a2b2d/20241215T163027/edb21d42-9c19-40f7-b16f-0fca8d1a2b2d_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/2827cd3c-da75-46de-8665-283a4276eb10/20241216T062350/2827cd3c-da75-46de-8665-283a4276eb10_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2827cd3c-da75-46de-8665-283a4276eb10/20241216T062350/2827cd3c-da75-46de-8665-283a4276eb10_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -82,13 +82,13 @@ Navigation
     
     Latest Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d7b61865-be70-4929-b902-7371b91cd9b3/20241215T014131/d7b61865-be70-4929-b902-7371b91cd9b3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d7b61865-be70-4929-b902-7371b91cd9b3/20241215T014131/d7b61865-be70-4929-b902-7371b91cd9b3_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/seahawks-going-for-five-straight-wins-hosting-green-bay-sunday-night/281-e8d152dd-74ef-48e8-948e-d3e211946a40)
+    *  [![](https://media.king5.com/assets/KING/images/e50b0e0a-39b4-4744-9204-ec41698d3150/20241216T032903/e50b0e0a-39b4-4744-9204-ec41698d3150_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e50b0e0a-39b4-4744-9204-ec41698d3150/20241216T032903/e50b0e0a-39b4-4744-9204-ec41698d3150_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/three-takeaways-seahawks-23-13-loss-green-bay-packers-sunday-night-football/281-4218c0ca-835c-4b93-a0ea-b2b54b638f3c)
         
-        #### [Seahawks going for five straight wins, hosting Green Bay Sunday night](https://www.king5.com/article/sports/nfl/seahawks/seahawks-going-for-five-straight-wins-hosting-green-bay-sunday-night/281-e8d152dd-74ef-48e8-948e-d3e211946a40)
+        #### [Three takeaways from the Seahawks' 30-13 loss to the Packers on Sunday Night Football](https://www.king5.com/article/sports/nfl/seahawks/three-takeaways-seahawks-23-13-loss-green-bay-packers-sunday-night-football/281-4218c0ca-835c-4b93-a0ea-b2b54b638f3c)
         
-    *  [![](https://media.king5.com/assets/KING/images/cf1a05cd-500c-4ea1-930e-d38a3b901fd4/20241213T165106/cf1a05cd-500c-4ea1-930e-d38a3b901fd4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf1a05cd-500c-4ea1-930e-d38a3b901fd4/20241213T165106/cf1a05cd-500c-4ea1-930e-d38a3b901fd4_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/how-to-watch-packers-seahawks/281-1dfa5b44-5f34-4733-9030-99b79f023c40)
+    *  [![](https://media.king5.com/assets/KING/images/c85738ba-9ecf-4d56-9029-3f97eddd2e60/20241216T034403/c85738ba-9ecf-4d56-9029-3f97eddd2e60_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c85738ba-9ecf-4d56-9029-3f97eddd2e60/20241216T034403/c85738ba-9ecf-4d56-9029-3f97eddd2e60_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/seahawks-qb-geno-smith-exits-with-knee-injury-in-3rd-quarter-against-green-bay/281-2419e00a-ab6a-4df6-9955-e2a297b5a80a)
         
-        #### [Here's how to watch Seahawks vs. Packers on KING 5](https://www.king5.com/article/sports/nfl/seahawks/how-to-watch-packers-seahawks/281-1dfa5b44-5f34-4733-9030-99b79f023c40)
+        #### [Seahawks QB Geno Smith exits with knee injury against Green Bay and will undergo testing](https://www.king5.com/article/sports/nfl/seahawks/seahawks-qb-geno-smith-exits-with-knee-injury-in-3rd-quarter-against-green-bay/281-2419e00a-ab6a-4df6-9955-e2a297b5a80a)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-43°
+42°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
