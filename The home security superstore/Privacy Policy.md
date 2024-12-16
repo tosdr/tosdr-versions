@@ -19,7 +19,7 @@ All
 * Baton Flashlights
 * Self-Defense Batons
 * Body Cams
-* Byrna® Guns
+* Byrna Guns
 * Cell Phone Taser & Stun Guns
 * Concealed Carry Gun Holsters & Purses
 * Counter Surveillance
@@ -63,7 +63,7 @@ Menu
             
             Kubotans](https://www.thehomesecuritysuperstore.com/collections/kubotans)
         
-    * [TASER®](https://www.thehomesecuritysuperstore.com/collections/taser)
+    * [TASER](https://www.thehomesecuritysuperstore.com/collections/taser)
         
         * [![Pulse](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Pulse-01_1.png?v=1731687843&width=300)
             
@@ -76,7 +76,7 @@ Menu
             X1](https://www.thehomesecuritysuperstore.com/collections/taser-x1)
         * [![7 CQ](//www.thehomesecuritysuperstore.com/cdn/shop/collections/61CnWJP7oaL._AC_SL1080.jpg?v=1729534951&width=300)
             
-            7 CQ](https://www.thehomesecuritysuperstore.com/collections/taser%C2%AE-7-cq)
+            7 CQ](https://www.thehomesecuritysuperstore.com/collections/taser-7-cq)
         
     * [Stun Guns](https://www.thehomesecuritysuperstore.com/collections/stun-guns)
         
@@ -107,12 +107,12 @@ Menu
         * [![Disguised Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/SWPP3500RPK-Main-Subdued-Light-SWSpark.jpg?v=1563417268&width=300)
             
             Disguised Stun Guns](https://www.thehomesecuritysuperstore.com/collections/disguised-stun-guns)
-        * [![Streetwise™ Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/StreetwiseTMLOGO.jpg?v=1563407553&width=300)
+        * [![Streetwise Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/StreetwiseTMLOGO.jpg?v=1563407553&width=300)
             
-            Streetwise™ Stun Guns](https://www.thehomesecuritysuperstore.com/collections/streetwise-stun-guns)
-        * [![ZAP™ Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/ZAP_500x500_5452b0ef-7b5d-4b54-a94f-3a398d62a7b7.jpg?v=1563420962&width=300)
+            Streetwise Stun Guns](https://www.thehomesecuritysuperstore.com/collections/streetwise-stun-guns)
+        * [![ZAP Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/ZAP_500x500_5452b0ef-7b5d-4b54-a94f-3a398d62a7b7.jpg?v=1563420962&width=300)
             
-            ZAP™ Stun Guns](https://www.thehomesecuritysuperstore.com/collections/zap-stun-guns)
+            ZAP Stun Guns](https://www.thehomesecuritysuperstore.com/collections/zap-stun-guns)
         
     * [Batons](https://www.thehomesecuritysuperstore.com/collections/batons)
         
@@ -143,15 +143,15 @@ Menu
         
     * [Pepper Spray](https://www.thehomesecuritysuperstore.com/collections/pepper-spray)
         
-        * [![Fox Labs® Police Spray](//www.thehomesecuritysuperstore.com/cdn/shop/collections/FOXLabsPepperSpray_500x500_b7442927-eb76-488e-87b6-f1dec790aa27.jpg?v=1563415342&width=300)
+        * [![Fox Labs Police Spray](//www.thehomesecuritysuperstore.com/cdn/shop/collections/FOXLabsPepperSpray_500x500_b7442927-eb76-488e-87b6-f1dec790aa27.jpg?v=1563415342&width=300)
             
-            Fox Labs® Police Spray](https://www.thehomesecuritysuperstore.com/collections/fox-labs-police-spray)
-        * [![Byrna®](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Byrna_symbol_Orange_circle_Black.jpg?v=1697221293&width=300)
+            Fox Labs Police Spray](https://www.thehomesecuritysuperstore.com/collections/fox-labs-police-spray)
+        * [![Byrna](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Byrna_symbol_Orange_circle_Black.jpg?v=1697221293&width=300)
             
-            Byrna®](https://www.thehomesecuritysuperstore.com/collections/byrna-pepper)
-        * [![Mace® Pepper Spray](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MACEPepperSpray_500x500_9149139a-d4ad-4e56-a5bf-692859e3c703.jpg?v=1690829951&width=300)
+            Byrna](https://www.thehomesecuritysuperstore.com/collections/byrna-pepper)
+        * [![Mace Pepper Spray](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MACEPepperSpray_500x500_9149139a-d4ad-4e56-a5bf-692859e3c703.jpg?v=1690829951&width=300)
             
-            Mace® Pepper Spray](https://www.thehomesecuritysuperstore.com/collections/mace-pepper-spray)
+            Mace Pepper Spray](https://www.thehomesecuritysuperstore.com/collections/mace-pepper-spray)
         * [![Pepper Spray Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PepperGuns_500x500_4a78ac8b-c531-4e25-b2b3-2eaed5edd2b8.jpg?v=1679076325&width=300)
             
             Pepper Spray Guns](https://www.thehomesecuritysuperstore.com/collections/pepper-spray-guns)
@@ -231,9 +231,9 @@ Menu
         
         [Self Defense Weapons](https://www.thehomesecuritysuperstore.com/collections/self-defense-weapons)
         
-    * ![TASER®](//www.thehomesecuritysuperstore.com/cdn/shop/collections/92262793289.png?v=1698959415&width=60)
+    * ![TASER](//www.thehomesecuritysuperstore.com/cdn/shop/collections/92262793289.png?v=1698959415&width=60)
         
-        [TASER®](https://www.thehomesecuritysuperstore.com/collections/taser)
+        [TASER](https://www.thehomesecuritysuperstore.com/collections/taser)
         
     * ![Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/StunGuns_500x500_c6a11b45-34eb-4bee-ac61-640239c04f08.jpg?v=1729877333&width=60)
         
@@ -301,7 +301,7 @@ Menu
         X1](https://www.thehomesecuritysuperstore.com/collections/taser-x1)
     * [![7 CQ](//www.thehomesecuritysuperstore.com/cdn/shop/collections/61CnWJP7oaL._AC_SL1080.jpg?crop=center&height=300&v=1729534951&width=300)
         
-        7 CQ](https://www.thehomesecuritysuperstore.com/collections/taser%C2%AE-7-cq)
+        7 CQ](https://www.thehomesecuritysuperstore.com/collections/taser-7-cq)
     
     * [![Shooting Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/ShootingStunGuns_500x500_ac96f016-0fdc-4820-ac96-fb70e2ce9914.jpg?crop=center&height=300&v=1723059628&width=300)
         
@@ -330,12 +330,12 @@ Menu
     * [![Disguised Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/SWPP3500RPK-Main-Subdued-Light-SWSpark.jpg?crop=center&height=300&v=1563417268&width=300)
         
         Disguised Stun Guns](https://www.thehomesecuritysuperstore.com/collections/disguised-stun-guns)
-    * [![Streetwise™ Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/StreetwiseTMLOGO.jpg?crop=center&height=300&v=1563407553&width=300)
+    * [![Streetwise Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/StreetwiseTMLOGO.jpg?crop=center&height=300&v=1563407553&width=300)
         
-        Streetwise™ Stun Guns](https://www.thehomesecuritysuperstore.com/collections/streetwise-stun-guns)
-    * [![ZAP™ Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/ZAP_500x500_5452b0ef-7b5d-4b54-a94f-3a398d62a7b7.jpg?crop=center&height=300&v=1563420962&width=300)
+        Streetwise Stun Guns](https://www.thehomesecuritysuperstore.com/collections/streetwise-stun-guns)
+    * [![ZAP Stun Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/ZAP_500x500_5452b0ef-7b5d-4b54-a94f-3a398d62a7b7.jpg?crop=center&height=300&v=1563420962&width=300)
         
-        ZAP™ Stun Guns](https://www.thehomesecuritysuperstore.com/collections/zap-stun-guns)
+        ZAP Stun Guns](https://www.thehomesecuritysuperstore.com/collections/zap-stun-guns)
     
     * [![Expandable Batons](//www.thehomesecuritysuperstore.com/cdn/shop/collections/ExpandableBatons_500x500_126671ca-f786-40c3-81ed-84374dfb1f63.jpg?crop=center&height=300&v=1700069369&width=300)
         
@@ -362,15 +362,15 @@ Menu
         
         Push Button Baton](https://www.thehomesecuritysuperstore.com/collections/ez-close-push-button-batons)
     
-    * [![Fox Labs® Police Spray](//www.thehomesecuritysuperstore.com/cdn/shop/collections/FOXLabsPepperSpray_500x500_b7442927-eb76-488e-87b6-f1dec790aa27.jpg?crop=center&height=300&v=1563415342&width=300)
+    * [![Fox Labs Police Spray](//www.thehomesecuritysuperstore.com/cdn/shop/collections/FOXLabsPepperSpray_500x500_b7442927-eb76-488e-87b6-f1dec790aa27.jpg?crop=center&height=300&v=1563415342&width=300)
         
-        Fox Labs® Police Spray](https://www.thehomesecuritysuperstore.com/collections/fox-labs-police-spray)
-    * [![Byrna®](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Byrna_symbol_Orange_circle_Black.jpg?crop=center&height=300&v=1697221293&width=300)
+        Fox Labs Police Spray](https://www.thehomesecuritysuperstore.com/collections/fox-labs-police-spray)
+    * [![Byrna](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Byrna_symbol_Orange_circle_Black.jpg?crop=center&height=300&v=1697221293&width=300)
         
-        Byrna®](https://www.thehomesecuritysuperstore.com/collections/byrna-pepper)
-    * [![Mace® Pepper Spray](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MACEPepperSpray_500x500_9149139a-d4ad-4e56-a5bf-692859e3c703.jpg?crop=center&height=300&v=1690829951&width=300)
+        Byrna](https://www.thehomesecuritysuperstore.com/collections/byrna-pepper)
+    * [![Mace Pepper Spray](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MACEPepperSpray_500x500_9149139a-d4ad-4e56-a5bf-692859e3c703.jpg?crop=center&height=300&v=1690829951&width=300)
         
-        Mace® Pepper Spray](https://www.thehomesecuritysuperstore.com/collections/mace-pepper-spray)
+        Mace Pepper Spray](https://www.thehomesecuritysuperstore.com/collections/mace-pepper-spray)
     * [![Pepper Spray Guns](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PepperGuns_500x500_4a78ac8b-c531-4e25-b2b3-2eaed5edd2b8.jpg?crop=center&height=300&v=1679076325&width=300)
         
         Pepper Spray Guns](https://www.thehomesecuritysuperstore.com/collections/pepper-spray-guns)
