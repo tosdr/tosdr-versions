@@ -33,7 +33,7 @@ SIGN UP & SAVE!
     
     [wwe](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)[wnba](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)
     
-    [nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)[collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
+    [nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
     
 * [nfl](https://www.fanatics.com/nfl/o-3572+z-953036859-1253393850)
 * [college](https://www.fanatics.com/college/o-27+z-9314487535-1329600116)
@@ -46,20 +46,20 @@ SIGN UP & SAVE!
     
     [wnba](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)[nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
     
-    [collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
-    
 * [nba](https://www.fanatics.com/nba/o-1370+z-938737729-293541727)
 * [nhl](https://www.fanatics.com/nhl/o-2428+z-935562038-1765108222)
 * [soccer](https://www.fanatics.com/soccer-gear/x-381605+z-94277330-4058512167)
 * [wwe](https://www.fanatics.com/wwe/o-1233766982+z-954942-2049841969)
 * [wnba](https://www.fanatics.com/wnba/o-7082+z-89298516-572363254)
 * [nascar](https://www.fanatics.com/nascar/o-3580+z-7979470-3715318076)
-* [collectibles](https://www.fanatics.com/collectibles-and-memorabilia/d-31559959+z-9268241-3885281878)
+* [collectibles](#top-nav11)
 * [more](#top-nav12)
 * [sale](#top-nav13)
 * [players](#top-nav14)
 * [](#top-nav15)
     
+
+We are experiencing higher than normal call volume and appreciate your patience while we continue servicing our customers. If you would like to avoid the wait, please use the chat feature right here on the help desk and we'll be happy to assist there! Thank you!
 
 How can we help you?
 
@@ -407,24 +407,24 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: 457b4b66dd0f4a6f
+rc: 05360eb201781976
 
-vid: 23bb9ca0-bbb4-11ef-874d-2f61518f50fb
+vid: d062c1e0-bbe6-11ef-8c4a-3fd69d70679c
 
 version: 1.1.0-rc-20241009-19.102623
 
 +
 
-Qualified Experiments #:* 15273:A:0:1
-* 15465:A:0:1
+Qualified Experiments #:* 15273:B:1:1
+* 15465:B:1:1
 * 15472:A:0:1
-Namespaces:* 6:2592:0
-* 7:3706:0
-* 8:3138:0
-* 10:2684:0
-* 11:8704:0
-* 3:3739:0
-* 4:1989:0
-* 9:1731:0
-* 2:2653:0
-* 5:1016:0
+Namespaces:* 7:3463:0
+* 8:467:0
+* 2:301:0
+* 3:4206:0
+* 4:738:0
+* 6:2773:0
+* 5:4097:0
+* 9:1329:0
+* 10:2588:0
+* 11:5579:0
