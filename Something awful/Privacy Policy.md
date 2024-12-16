@@ -205,23 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Slacker Music FAQ](https://www.somethingawful.com/garbage-day/slacker-music-faq/1/)
-* [Animal Human Hybrids](https://www.somethingawful.com/comedy-goldmine/animal-human-hybrids/1/)
-* [Street Style](https://www.somethingawful.com/fashion-swat/street-style/1/)
-* [The View From Below](https://www.somethingawful.com/daily-dirt/instruction-for-america/1/)
+* [Xenophobic Persecution in the U.K.](https://www.somethingawful.com/awful-links/awful-link-2524/)
+* [Beyond The Mat!](https://www.somethingawful.com/photoshop-phriday/wrestlers-natural-environment/1/)
+* [Fire From Below](https://www.somethingawful.com/movie-reviews/fire-from-below/)
+* [November 9, 2010](https://www.somethingawful.com/forum-fridays/ff11-09-10/1/)
+* [Nocturnal Illusion](https://www.somethingawful.com/hentai-game-reviews/nocturnal-illusion/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/movies.png) [Impromptu Movie Night: come watch Jurassic Park (1994)](http://forums.somethingawful.com/showthread.php?threadid=4077604 "Impromptu Movie Night: come watch Jurassic Park (1994)")
 * ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [NOT a 5 star experience!](http://forums.somethingawful.com/showthread.php?threadid=4077563 "NOT a 5 star experience!")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-article.gif) [What's 'In' and 'Out' for 2025?](http://forums.somethingawful.com/showthread.php?threadid=4077585 "What's 'In' and 'Out' for 2025?")
 
 ### Random Articles
 
-* [Bush Starting War, The Perfect Crime](https://www.somethingawful.com/news/bush-starting-war/)
-* [Holy Rollerz](https://www.somethingawful.com/awful-links/holy-rollerz-carclub/)
-* [The Celebrity Goo Game](https://www.somethingawful.com/awful-links/awful-link-2525/)
-* [reCAPTCHA 2!](https://www.somethingawful.com/photoshop-phriday/recaptcha-recaptcha2-paint/1/)
-* [Memos from Bear Cave: Bathroom Crisis](https://www.somethingawful.com/news/bear-cave-bathrooms/)
+* [Skinema (Thanks, Biffmotron!)](https://www.somethingawful.com/awful-links/skinema-dermatology-celebrity/)
+* [A Good Day to Die Hard; Identity Thief; Beautiful Creatures; Safe Haven](https://www.somethingawful.com/current-movie-reviews/good-day-die/1/)
+* [The Dog I Like](https://www.somethingawful.com/news/dog-i-like/1/)
+* [Dweebs in the ALCS, Jocks in the NLCS](https://www.somethingawful.com/news/mlb-playoff/)
+* [Firework Safety Coloring Book](https://www.somethingawful.com/news/firework-safety-coloring/)
 
 [Random!](https://www.somethingawful.com/random/)
 
