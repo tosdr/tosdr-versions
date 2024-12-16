@@ -72,7 +72,7 @@ Please review these terms and conditions of use carefully before using our Appli
 
 4KDownload.com, 4K Video Downloader Plus, 4K YouTube to MP3, 4K Strogram, 4K Slideshow Maker, 4K Image Compressor, and 4K Video to MP3
 
-This document states the terms and conditions (“Terms”) upon which Open Media (“we” or “us”) will provide service to you on its Applications, applications and related services (collectively, the “Application”). As used in this document, the terms “you” or “your” refers to you, any entity you represent, your or its representatives, successors, assigns and affiliates, and any of your or their devices.
+This document states the terms and conditions (“Terms”) upon which InterPromo (“we” or “us”) will provide service to you on its Applications, applications and related services (collectively, the “Application”). As used in this document, the terms “you” or “your” refers to you, any entity you represent, your or its representatives, successors, assigns and affiliates, and any of your or their devices.
 
 **By visiting, accessing, using, downloading, copying, installing and/or joining (collectively “using”) the Application, you express your understanding and acceptance of these Terms. If you do not agree to be bound by these Terms, cease using the Application and delete it. These Terms constitute a binding contractual agreement between you and us. These Terms also contain an arbitration clause under which certain claims may not be brought in a court or decided by a jury, so please read this document carefully.**
 
@@ -163,22 +163,22 @@ This document states the terms and conditions (“Terms”) upon which Open Medi
 ### 8\. Fees
 
 * You acknowledge that we reserve the right to charge for any or all of our services and to change our fees from time to time in our sole discretion. If at any time we terminate your rights to use the Application because of a breach of these Terms, you shall not be entitled to a refund of any portion of your fees. In all other respects, such fees shall be governed by additional rules, terms, conditions or agreements posted on the Application and/or imposed by any sales agent or payment processing company, as may be amended from time to time.
-* "PREMIUM" VERSION. That which is established in this clause will only be applied to users of the "premium" version of the software. Open Media. declares that the "premium" version of this software offers the following characteristics:
+* "PREMIUM" VERSION. That which is established in this clause will only be applied to users of the "premium" version of the software. InterPromo. declares that the "premium" version of this software offers the following characteristics:
 
 It is free of publicity/advertisements.
 
 It has all declared functions activated.
 
-It allows free updates from the date of acquisition. However the user understands that Open Media does not have the obligation to execute these updates during this time or any whatsoever at any other moment.
+It allows free updates from the date of acquisition. However the user understands that InterPromo does not have the obligation to execute these updates during this time or any whatsoever at any other moment.
 
-Open Media reserves the right to dissolve this agreement with the user of the premium version without previous notice if any of the clauses included in the document have been violated.
+InterPromo reserves the right to dissolve this agreement with the user of the premium version without previous notice if any of the clauses included in the document have been violated.
 
 ### 9\. Privacy Policy
 
 * We retain a separate Privacy Policy and your assent to these Terms also signifies that you have read and understand the Privacy Policy. We reserve the right to amend the Privacy Policy at any time by posting such amendments to the Application or our website. No other notification may be made to you about any amendments. Your continued use of the App following such amendments will be deemed your acknowledgement of the Privacy Policy and acceptance of the same.
 * You acknowledge that we may collect and use anonymous technical data and related information, including but not limited to technical information about your device, system and application software, and peripherals, that is gathered periodically to facilitate the provision of updates to the Application.
 * You understand, acknowledge and agree that we may access, preserve and disclose your information if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably desirable or necessary for us.
-* Email Communication. You agree that Open Media may communicate with you via email and any similar technology for any purpose relating to the Software, other Open Media products and any services or software which may in the future be provided by Open Media or on Open Media's behalf. If you do not want to receive communication from Open Media, you can unsubscribe at any time following the instructions contained in any email received from Open Media or by writing an opt-out request to Open Media at support@4kdownload.com.
+* Email Communication. You agree that InterPromo may communicate with you via email and any similar technology for any purpose relating to the Software, other InterPromo products and any services or software which may in the future be provided by InterPromo or on InterPromo's behalf. If you do not want to receive communication from InterPromo, you can unsubscribe at any time following the instructions contained in any email received from InterPromo or by writing an opt-out request to InterPromo at support@4kdownload.com.
 
 ### 10\. Copyright Claims
 
@@ -333,6 +333,6 @@ Send
 
 [](https://www.4kdownload.com/-54 "Home page")
 
-© 2024 Open Media. All rights reserved.
+© 2024 InterPromo GMBH. All rights reserved.
 
 English Deutsch français italiano español Português Brasileiro Nederlands polski 简体中文 繁體中文 한국어 日本語 Русский
