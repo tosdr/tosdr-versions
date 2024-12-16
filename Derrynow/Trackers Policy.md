@@ -257,13 +257,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1680147/derry-death-notices-sunday-december-15-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, December 15, 2024](https://www.derrynow.com/news/deaths/1680147/derry-death-notices-sunday-december-15-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: Boys Indoor Primary School GAA Blitz held in Derry's Templemore Sports Complex](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Boys Indoor Primary School GAA Blitz held in Derry's Templemore Sports Complex")](https://www.derrynow.com/story-telling/pictures---videos/1676472/in-pictures-boys-indoor-primary-school-gaa-blitz-held-in-derry-s-templemore-sports-complex.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -321,6 +314,13 @@ Martin Porter, Grounds Maintenance, and Stephen McGarrigle, gravedigger at DC&SD
 
 [Assault victim found unconscious in street with head injuries](https://www.derrynow.com/news/northern-ireland/1681233/assault-victim-found-unconscious-in-street-with-head-injuries.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1680148/derry-death-notices-monday-december-16-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, December 16, 2024](https://www.derrynow.com/news/deaths/1680148/derry-death-notices-monday-december-16-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -498,6 +498,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1680148/derry-death-notices-monday-december-16-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, December 16, 2024](https://www.derrynow.com/news/deaths/1680148/derry-death-notices-monday-december-16-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Mayor thanks Derry and Strabane council staff with tasty breakfast treat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mayor thanks Derry and Strabane council staff with tasty breakfast treat")](https://www.derrynow.com/news/local-news/1680124/mayor-thanks-derry-and-strabane-council-staff-with-tasty-breakfast-treat.html)
 
 Martin Porter, Grounds Maintenance, and Stephen McGarrigle, gravedigger at DC&SDC, pictured with Derry City & Strabane District Council Mayor Lilian Seenoi-Barr.
@@ -507,7 +514,7 @@ Martin Porter, Grounds Maintenance, and Stephen McGarrigle, gravedigger at DC&SD
 [Mayor thanks Derry and Strabane council staff with tasty breakfast treat](https://www.derrynow.com/news/local-news/1680124/mayor-thanks-derry-and-strabane-council-staff-with-tasty-breakfast-treat.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1680147/derry-death-notices-sunday-december-15-2024.html)
+[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1680147/derry-death-notices-sunday-december-15-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
@@ -540,13 +547,6 @@ Ronan Boyce interview with Brendan McGilligan
 
 ['Exciting' time for Derry City and their fans according to defender Ronan Boyce](https://www.derrynow.com/video/derry-sport/1680642/exciting-time-for-derry-city-and-their-fans-according-to-defender-ronan-boyce.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![MacD on Music: Vandees Live In Sandy’s](https://www.derrynow.com/resizer/165/93/true/2024_12_13/Music_col_Vandees_30458623-1734091986414_1734092024.jpg--.jpg?1734092024538 "MacD on Music: Vandees Live In Sandy’s")](https://www.derrynow.com/news/arts---entertainment/1679880/macd-on-music-vandees-live-in-sandys.html)
-
-[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
-
-[MacD on Music: Vandees Live In Sandy’s](https://www.derrynow.com/news/arts---entertainment/1679880/macd-on-music-vandees-live-in-sandys.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
