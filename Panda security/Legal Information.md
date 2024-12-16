@@ -53,15 +53,15 @@ Forgot your customer ID? [Click here](https://webservices.pandasecurity.com/Pass
 
 Renew now
 
-![Panda Security](/rfilescms/Teaser/CAMPAIGNS/xmas_acq_50.webp)
+![Panda Security](/rfilescms/Teaser/CAMPAIGNS/xmas_acq_60.webp)
 
 ### Merry Christmas!
 
-\-50% on all Panda Dome products
+\-60% on all Panda Dome products
 
-\-50%
+\-60%
 
-[Buy](https://www.pandasecurity.com/security-promotion/?campaign=dome2305&coupon=50OFFMULTIP&track=190478)
+[Buy](https://www.pandasecurity.com/security-promotion/?campaign=dome2305&coupon=60OFFMULTIP&track=190478)
 
 * Protection
 * [Panda Dome product range](https://www.pandasecurity.com/en/homeusers/)
@@ -869,7 +869,7 @@ Panda Security, a WatchGuard Technologies brand, offers the most advanced protec
 
 ##### Business - WatchGuard Technologies
 
-[Watchguard](https://www.watchguard.com/) [Endpoint Security](https://www.watchguard.com/wgrd-products/endpoint-security/) [Network Security](https://www.watchguard.com/wgrd-products/network-security/) [Authpoint MFA](https://www.watchguard.com/wgrd-products/authpoint/) [Secure Wi-Fi](https://www.watchguard.com/wgrd-products/secure-wifi/) [Partners](https://www.watchguard.com/wgrd-partners/)
+[WatchGuard](https://www.watchguard.com/) [Endpoint Security](https://www.watchguard.com/wgrd-products/endpoint-security/) [Network Security](https://www.watchguard.com/wgrd-products/network-security/) [Authpoint MFA](https://www.watchguard.com/wgrd-products/authpoint/) [Secure Wi-Fi](https://www.watchguard.com/wgrd-products/secure-wifi/) [Partners](https://www.watchguard.com/wgrd-partners/)
 
 ![Visa](/rfilescms/Payments/visa.png "Visa") ![Master Card](/rfilescms/Payments/mastercard.png "Master Card") ![Maestro](/rfilescms/Payments/maestro.png "Maestro") ![Pay Pal](/rfilescms/Payments/paypal.png "Pay Pal") ![Apple Pay](/rfilescms/Payments/applepay.png "Apple Pay")
 
