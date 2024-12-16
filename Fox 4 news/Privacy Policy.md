@@ -401,6 +401,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![2 teens dead, 4 teens injured at 'makeshift club' shooting in northeast Houston](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/32/18/screenshot-2024-12-15-071216.png?ve=1&tl=1)
+
+ ![2 teens dead, 4 teens injured at 'makeshift club' shooting in northeast Houston](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/32/18/592/333/screenshot-2024-12-15-071216.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-teens-dead-3-teens-injured-makeshift-club-shooting-north-houston)
+
+### [2 teens dead, 4 teens injured at 'makeshift club' shooting in northeast Houston](https://www.fox4news.com/news/2-teens-dead-3-teens-injured-makeshift-club-shooting-north-houston)
+
+ [![Fallen Terrell police officer remembered at vigil](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/officer-candanoza.jpg?ve=1&tl=1)
+
+ ![Fallen Terrell police officer remembered at vigil](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/officer-candanoza.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/terrell-police-officer-jacob-candanoza-vigil)
+
+### [Fallen Terrell police officer remembered at vigil](https://www.fox4news.com/news/terrell-police-officer-jacob-candanoza-vigil)
+
+ [![Texas House Speaker race shows state of GOP civil war | Texas: The Issue Is](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/house-speaker-race.jpg?ve=1&tl=1)
+
+ ![Texas House Speaker race shows state of GOP civil war | Texas: The Issue Is](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/house-speaker-race.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-house-speaker-race-gop-civil-war-texas-issue-is)
+
+### [Texas House Speaker race shows state of GOP civil war | Texas: The Issue Is](https://www.fox4news.com/news/texas-house-speaker-race-gop-civil-war-texas-issue-is)
+
  [![Arlington suspects believed to be connected to 2 separate shootings](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/121524-sh-arlington-pd-shooting-little-rd_kdfwaee8_00.04.52.10.jpg?ve=1&tl=1)
 
  ![Arlington suspects believed to be connected to 2 separate shootings](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/121524-sh-arlington-pd-shooting-little-rd_kdfwaee8_00.04.52.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-shootings-humberto-barajas-angel-barajas)
@@ -412,24 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Rush throws for career-high 3 TDs, Cowboys force 4 turnovers to beat Panthers 30-14](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2189591067.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/rush-throws-career-high-3-tds-cowboys-force-4-turnovers-beat-panthers-30-14)
 
 ### [Rush throws for career-high 3 TDs, Cowboys force 4 turnovers to beat Panthers 30-14](https://www.fox4news.com/sports/rush-throws-career-high-3-tds-cowboys-force-4-turnovers-beat-panthers-30-14)
-
- [![Ocean heat wave known as 'The Blob' blamed for killing half the population of bird species](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/fox-wx-heatwave1.jpg?ve=1&tl=1)
-
- ![Ocean heat wave known as 'The Blob' blamed for killing half the population of bird species](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/fox-wx-heatwave1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ocean-heat-wave-known-the-blob-blamed-killing-half-population-bird-species)
-
-### [Ocean heat wave known as 'The Blob' blamed for killing half the population of bird species](https://www.fox4news.com/news/ocean-heat-wave-known-the-blob-blamed-killing-half-population-bird-species)
-
- [![Gov. Hochul announces federal drone detection system for NY](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/snapshot-98.jpg?ve=1&tl=1)
-
- ![Gov. Hochul announces federal drone detection system for NY](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/snapshot-98.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/officials-ny-nj-demand-more-action-after-recent-drone-sightings)
-
-### [Gov. Hochul announces federal drone detection system for NY](https://www.fox4news.com/news/officials-ny-nj-demand-more-action-after-recent-drone-sightings)
-
- [![Michelob Ultra tops Bud Light as No. 1 draft beer in US](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-499836820.jpg?ve=1&tl=1)
-
- ![Michelob Ultra tops Bud Light as No. 1 draft beer in US](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-499836820.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/michelob-ultra-tops-bud-light-no-1-draft-beer-us)
-
-### [Michelob Ultra tops Bud Light as No. 1 draft beer in US](https://www.fox4news.com/news/michelob-ultra-tops-bud-light-no-1-draft-beer-us)
 
 ###### [News](https://www.fox4news.com/news)
 
