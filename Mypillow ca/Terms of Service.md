@@ -103,6 +103,8 @@ Apply
 
 [](https://www.mypillow.ca/mystore-general-redirect)
 
+[](https://www.mypillow.com/bedding)
+
 [](https://www.mypillow.com/the-classic-collection)
 
 [](https://www.mypillow.com/all-new-mypillow-2-0-pick-your-size-goanywhere-pillow-medium-loft-1)
@@ -118,8 +120,6 @@ Apply
 [](https://www.mypillow.com/mymattress-topper)
 
 [](https://www.mypillow.com/couch-and-recliner-pillows)
-
-[](https://www.mypillow.com/bedding)
 
 [](https://www.mypillow.ca/clothing)
 
