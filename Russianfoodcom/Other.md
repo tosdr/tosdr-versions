@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,7 +148,16 @@
 
 Сейчас читают
 
-* [Рулетики из сельди, с плавленым сыром и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174565)
+* [Свинина в сладком устрично-соевом маринаде (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=161755)
+* [Шампиньоны, запечённые с овощами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=162761)
+* [Слоёный салат с куриной печенью, рисом и жареным луком](https://www.russianfood.com/recipes/recipe.php?rid=174438)
+* [Салат с ветчиной, сельдереем, кукурузой и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174192)
+* [Слойки с клюквой и бананом](https://www.russianfood.com/recipes/recipe.php?rid=174932)
+* [Творожная запеканка с айвой](https://www.russianfood.com/recipes/recipe.php?rid=174937)
+* [Печенье с грушей и овсяными хлопьями](https://www.russianfood.com/recipes/recipe.php?rid=174462)
+* [Салат с ветчиной, грейпфрутом и апельсином](https://www.russianfood.com/recipes/recipe.php?rid=174580)
+* [Шоколадное печенье с фисташками](https://www.russianfood.com/recipes/recipe.php?rid=174171)
+* [Овощной салат с грибами, оливками и моцареллой](https://www.russianfood.com/recipes/recipe.php?rid=174058)
 
 |     |
 | --- |
@@ -170,6 +179,132 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Песочный пирог со сливами и сметанной заливкой](https://www.russianfood.com/recipes/recipe.php?rid=174028) |     |
+
+[![Фото к рецепту: Песочный пирог со сливами и сметанной заливкой](//img1.russianfood.com/dycontent/images_upl/743/sm_742568.jpg "Фото к рецепту: Песочный пирог со сливами и сметанной заливкой")](https://www.russianfood.com/recipes/recipe.php?rid=174028)
+
+Невероятный аромат лета в каждом кусочке! Хрустящее песочное тесто идеально сочетается с сочной сливовой начинкой и нежной сметанной заливкой, создавая гармонию вкуса и текстуры. Приготовление пирога не вызовет сложностей, зато такое угощение можно подать даже к праздничному столу.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174028)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174028#comments) | 16.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Шоколадное печенье с фисташками](https://www.russianfood.com/recipes/recipe.php?rid=174171) |     |
+
+[![Фото к рецепту: Шоколадное печенье с фисташками](//img1.russianfood.com/dycontent/images_upl/745/sm_744312.jpg "Фото к рецепту: Шоколадное печенье с фисташками")](https://www.russianfood.com/recipes/recipe.php?rid=174171)
+
+Шоколадное печенье с фисташками представляет собой идеальное сочетание шоколада и орехов. Перед выпеканием заготовки посыпаются измельчёнными фисташками, придающими печенью приятный хруст.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174171)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174171#comments) | 16.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Печенье с грушей и овсяными хлопьями](https://www.russianfood.com/recipes/recipe.php?rid=174462) |     |
+
+[![Фото к рецепту: Печенье с грушей и овсяными хлопьями](//img1.russianfood.com/dycontent/images_upl/757/sm_756528.jpg "Фото к рецепту: Печенье с грушей и овсяными хлопьями")](https://www.russianfood.com/recipes/recipe.php?rid=174462)
+
+Печенье с грушей и овсяными хлопьями обладает насыщенным ароматом и интересной структурой. Для теста используется два вида муки: пшеничная и кукурузная. Сочетание сочных груш, питательных овсяных хлопьев и ароматной корицы создаёт великолепное вкусовое сочетание, которое придаст уюта любому домашнему чаепитию.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174462)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174462#comments) | 16.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Творожная запеканка с айвой](https://www.russianfood.com/recipes/recipe.php?rid=174937) |     |
+
+[![Фото к рецепту: Творожная запеканка с айвой](//img1.russianfood.com/dycontent/images_upl/761/sm_760735.jpg "Фото к рецепту: Творожная запеканка с айвой")](https://www.russianfood.com/recipes/recipe.php?rid=174937)
+
+Воздушная, ароматная, буквально тающая во рту творожная запеканка с айвой. Айва тушится с добавлением корицы, мускатного ореха и коричневого сахара, благодаря чему запеканка приобретает невероятно аппетитный аромат.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174937)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174937#comments) | 16.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Слойки с клюквой и бананом](https://www.russianfood.com/recipes/recipe.php?rid=174932) |     |
+
+[![Фото к рецепту: Слойки с клюквой и бананом](//img1.russianfood.com/dycontent/images_upl/761/sm_760696.jpg "Фото к рецепту: Слойки с клюквой и бананом")](https://www.russianfood.com/recipes/recipe.php?rid=174932)
+
+Слойки с клюквой и бананом - простая домашняя выпечка. Сочетание кисленькой клюквы, сладкого банана и хрустящего теста создает неповторимый вкус. Такие слойки можно подать не только в качестве сладости к чаю, но и на завтрак или перекус.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174932)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174932#comments) | 16.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Овощной салат с грибами, оливками и моцареллой](https://www.russianfood.com/recipes/recipe.php?rid=174058) |     |
+
+[![Фото к рецепту: Овощной салат с грибами, оливками и моцареллой](//img1.russianfood.com/dycontent/images_upl/755/sm_754714.jpg "Фото к рецепту: Овощной салат с грибами, оливками и моцареллой")](https://www.russianfood.com/recipes/recipe.php?rid=174058)
+
+Овощной салат с грибами, оливками и сыром прост в приготовлении, но его вкус ярок и многообразен. Микс овощей дополняется ароматными обжаренными шампиньонами и кислинкой оливок. Особенно нежный вкус блюду придают кусочки сыра моцарелла.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174058)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174058#comments) | 16.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Салат с ветчиной, сельдереем, кукурузой и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174192) |     |
+
+[![Фото к рецепту: Салат с ветчиной, сельдереем, кукурузой и сыром](//img1.russianfood.com/dycontent/images_upl/753/sm_752882.jpg "Фото к рецепту: Салат с ветчиной, сельдереем, кукурузой и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=174192)
+
+Яркий и сытный салат с ветчиной, сельдереем, кукурузой и сыром. Такой салат радует скоростью и простотой приготовления. Ничего варить или запекать не нужно. Ингредиенты нарезаются, соединяются и заправляются смесью майонеза и горчицы в зёрнах.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174192)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174192#comments) | 16.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Слоёный салат с куриной печенью, рисом и жареным луком](https://www.russianfood.com/recipes/recipe.php?rid=174438) |     |
+
+[![Фото к рецепту: Слоёный салат с куриной печенью, рисом и жареным луком](//img1.russianfood.com/dycontent/images_upl/757/sm_756493.jpg "Фото к рецепту: Слоёный салат с куриной печенью, рисом и жареным луком")](https://www.russianfood.com/recipes/recipe.php?rid=174438)
+
+Вкусное праздничное блюдо вполне может быть бюджетным. Слоёный салат с куриной печенью, рисом и жареным луком состоит из небольшого количества доступных продуктов, а его вкус богат яркими вкусовыми нотками.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174438)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174438#comments) | 16.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Салат с ветчиной, грейпфрутом и апельсином](https://www.russianfood.com/recipes/recipe.php?rid=174580) |     |
+
+[![Фото к рецепту: Салат с ветчиной, грейпфрутом и апельсином](//img1.russianfood.com/dycontent/images_upl/761/sm_760403.jpg "Фото к рецепту: Салат с ветчиной, грейпфрутом и апельсином")](https://www.russianfood.com/recipes/recipe.php?rid=174580)
+
+Яркий, вкусный, освежающий салат с ветчиной, грейпфрутом и апельсином. Цитрусовые и ветчина составляют отличный вкусовой тандем с горчично-йогуртовой заправкой.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174580)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174580#comments) | 16.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -225,7 +360,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174935#comments) | 15.12.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174935#comments) | 15.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -239,7 +374,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174936#comments) | 15.12.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174936#comments) | 15.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -253,133 +388,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174933#comments) | 15.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Рыбный день? Хоть сегодня! СКУМБРИЯ по-необычному (18)](https://www.russianfood.com/reading/?post_id=22996) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/491/sm_490394.jpg)](https://www.russianfood.com/reading/?post_id=22996)
-
-Рыба, тушенная в соево-томатном соусе. Скумбрия, запечённая с овощами. Открытый пирог со скумбрией, шпинатом и творогом. Скумбрия холодного копчения в домашних условиях.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22996)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22996#comments) | 15.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Самый сладкий обзор! Лучшие СЛАДОСТИ №24-50](https://www.russianfood.com/reading/?post_id=22995) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/751/sm_750369.jpg)](https://www.russianfood.com/reading/?post_id=22995)
-
-Пряный кекс с грушами. Банановое суфле. Шоколадный пирог из фасоли, без муки. Творожно-молочное желе с хурмой. Лимонное желе с мёдом. Творожный торт-желе "Зебра" с морковью и апельсином. Миндальные тарталетки с маковой начинкой.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22995)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22995#comments) | 15.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Симпатичные "Змейки" и другие Лучшие рецепты на Новый год (105)](https://www.russianfood.com/reading/?post_id=22994) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/747/sm_746874.jpg)](https://www.russianfood.com/reading/?post_id=22994)
-
-Печенье "Змейки". Салат "Мимоза" со скумбрией. Профитроли с творожно-йогуртовым кремом. Куриные кармашки с ананасами и перцем. Лазанья-рататуй.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22994)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22994#comments) | 15.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Всегда насытит – теплом, уютом и буквально. Лучшая ВЫПЕЧКА №24](https://www.russianfood.com/reading/?post_id=22992) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/755/sm_754976.jpg)](https://www.russianfood.com/reading/?post_id=22992)
-
-Апельсиновые кексы. Постный апельсиновый манник. Лимонные блонди с глазурью. Пирожки с капустой. Гата с сухофруктами и орехами. Слоёная галета с цукини, рикоттой и тыквой. Слоёная ёлочка с сыром и шпинатом.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22992)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22992#comments) | 14.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Солнечные блинчики и другие яркие вкусности. ТЫКВА по-необычному (21)](https://www.russianfood.com/reading/?post_id=22991) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/692/sm_691335.jpg)](https://www.russianfood.com/reading/?post_id=22991)
-
-Тыквенные блины на кефире. Тыквенное печенье. Муссовый тыквенный торт. Запеканка из тыквы с фаршем и сыром.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22991)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22991#comments) | 14.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Готовимся к вкусному!) Лучшие рецепты на Новый год (104)](https://www.russianfood.com/reading/?post_id=22990) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/708/sm_707680.jpg)](https://www.russianfood.com/reading/?post_id=22990)
-
-Рулет из скумбрии с черносливом. Грибы с крабовыми палочками. Куриные рулетики с фетой. Шоколадно-молочное желе с миндалём. Котлеты из брокколи с яйцами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22990)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22990#comments) | 14.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Вкусное блюдо на тарелке любо. Лучшие рецепты НА ВЫХОДНЫЕ №24-50](https://www.russianfood.com/reading/?post_id=22989) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/704/sm_703598.jpg)](https://www.russianfood.com/reading/?post_id=22989)
-
-Котлеты из перловки с творогом. Рыба с цитрусами. Грудка в вине и молоке. Картофельный гратен с творогом и сыром. Голубцы из пекинской капусты с фаршем. Котлеты из брокколи, овсянки и сыра. Полента с говядиной.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22989)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на выходные](https://www.russianfood.com/blogs/?id=325002) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22989#comments) | 13.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Фейерверк новогодних вкусов. Лучшие рецепты на Новый год (103)](https://www.russianfood.com/reading/?post_id=22988) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/713/sm_712614.jpg)](https://www.russianfood.com/reading/?post_id=22988)
-
-Сметанное желе «Мозаика». Капустный салат с овощами и рыбными консервами. Жаркое с картошкой и копчёностями. Рыбные котлеты в томате. Овощное ассорти с булгуром.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22988)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22988#comments) | 13.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Пусть фуршет пройдет на славу! Лучшие рецепты на КОРПОРАТИВ (27)](https://www.russianfood.com/reading/?post_id=22987) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/712/sm_711288.jpg)](https://www.russianfood.com/reading/?post_id=22987)
-
-Рулетики из ветчины с сыром и яйцом. Печёночные рулетики с сыром. Шоколадный трайфл с бананами. Жареные крабовые палочки с грибами. Салат с курицей, киви и яблоком.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22987)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на праздники](https://www.russianfood.com/blogs/?id=394640) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22987#comments) | 13.12.24 |     |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174933#comments) | 15.12.24 |     |
 
 |     |
 | --- |
@@ -450,10 +459,12 @@
 
 Новые рецепты:
 
-|     |     |     |
-| --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760273.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174936) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760757.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174935) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760310.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174933) |
-| [Слоёный салат со шпротами, сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174936) | [Салат с фасолью, кукурузой, перцем и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174935) | [Салат с крабовыми палочками, ананасами и маслинами](https://www.russianfood.com/recipes/recipe.php?rid=174933) |
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760757.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174935) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760403.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174580) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756528.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174462) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744312.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174171) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742568.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174028) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756493.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174438) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760310.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174933) |
+| [Салат с фасолью, кукурузой, перцем и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=174935) | [Салат с ветчиной, грейпфрутом и апельсином](https://www.russianfood.com/recipes/recipe.php?rid=174580) | [Печенье с грушей и овсяными хлопьями](https://www.russianfood.com/recipes/recipe.php?rid=174462) | [Шоколадное печенье с фисташками](https://www.russianfood.com/recipes/recipe.php?rid=174171) | [Песочный пирог со сливами и сметанной заливкой](https://www.russianfood.com/recipes/recipe.php?rid=174028) | [Слоёный салат с куриной печенью, рисом и жареным луком](https://www.russianfood.com/recipes/recipe.php?rid=174438) | [Салат с крабовыми палочками, ананасами и маслинами](https://www.russianfood.com/recipes/recipe.php?rid=174933) |
+| [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754714.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174058) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760735.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174937) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174192) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760273.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174936) | [![](//img1.russianfood.com/dycontent/images_upl/761/alt1_760696.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174932) |
+| [Овощной салат с грибами, оливками и моцареллой](https://www.russianfood.com/recipes/recipe.php?rid=174058) | [Творожная запеканка с айвой](https://www.russianfood.com/recipes/recipe.php?rid=174937) | [Салат с ветчиной, сельдереем, кукурузой и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174192) | [Слоёный салат со шпротами, сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174936) | [Слойки с клюквой и бананом](https://www.russianfood.com/recipes/recipe.php?rid=174932) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -470,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(105)
+(170)
