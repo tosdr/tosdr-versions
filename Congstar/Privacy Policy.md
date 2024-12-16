@@ -88,16 +88,20 @@
         * [Handyankauf](https://www.congstar.de/handys/handyankauf/)
         * [Nachhaltige Smartphones](https://www.congstar.de/handys/nachhaltige-smartphones/)
     
-* [Internet](https://www.congstar.de/internet/)
+* [Internet](https://www.congstar.de/internet/dsl-tarife-im-vergleich/)
     
-    [Übersicht](https://www.congstar.de/internet/)
+    [Übersicht](https://www.congstar.de/internet/dsl-tarife-im-vergleich/)
     
     * [Internet über DSL](#)
-        * [DSL Tarife im Vergleich](https://www.congstar.de/internet/dsl-tarife-im-vergleich/)
+        * [DSL-Tarife im Vergleich](https://www.congstar.de/internet/dsl-tarife-im-vergleich/)
         * [congstar Zuhause 100 Flex](https://www.congstar.de/internet/dsl/congstar-zuhause-100-flex/)
         * [congstar Zuhause 250 Flex](https://www.congstar.de/internet/dsl/congstar-zuhause-250-flex/)
     
-    * [Internet über LTE](#)
+* [Homespot](https://www.congstar.de/internet/homespot/)
+    
+    [Übersicht](https://www.congstar.de/internet/homespot/)
+    
+    * [Homespot Tarife](#)
         * [Homespot Tarife im Vergleich](https://www.congstar.de/internet/homespot/)
         * [Homespot L (300 GB)](https://www.congstar.de/internet/homespot/homespot-l/)
         * [Homespot M (150 GB)](https://www.congstar.de/internet/homespot/homespot-m/)
