@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Jannie Schutte - myFinance-Online.co.za
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=2871fce1517df3543eb990192be7f3c7b378df36209a9f359411887aa874d287&c=107347717)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client Mmakoma projects ](https://www.invoicesonline.co.za/scripts/image.php?bid=5917&file=logo_300_100&type=&fe=761bd19f4ed6e12c3e458c2a3a10e9bcfe82b269386c749c1a2b555c511c15c3&c=120680270)  
+Mmakoma projects
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=2871fce1517df3543eb990192be7f3c7b378df36209a9f359411887aa874d287&c=211949680)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=761bd19f4ed6e12c3e458c2a3a10e9bcfe82b269386c749c1a2b555c511c15c3&c=91768656)  
+Atalie Scented Candles Pty Ltd
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=2871fce1517df3543eb990192be7f3c7b378df36209a9f359411887aa874d287&c=195570881)  
-Wiselink Broadband Pty Ltd
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=761bd19f4ed6e12c3e458c2a3a10e9bcfe82b269386c749c1a2b555c511c15c3&c=193613202)  
+NEW BEGINNINGS DESIGNS
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=2871fce1517df3543eb990192be7f3c7b378df36209a9f359411887aa874d287&c=36499062)  
-MSPCloud (Pty) Ltd
-
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=2871fce1517df3543eb990192be7f3c7b378df36209a9f359411887aa874d287&c=134400451)  
-United Paintball Federation
-
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=2871fce1517df3543eb990192be7f3c7b378df36209a9f359411887aa874d287&c=202825299)  
-BD Maintenance
-
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=2871fce1517df3543eb990192be7f3c7b378df36209a9f359411887aa874d287&c=33706772)  
-Moremi Kitchens Rustenburg
-
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=2871fce1517df3543eb990192be7f3c7b378df36209a9f359411887aa874d287&c=113766936)  
-NGB HOLDINGS PTY LTD
-
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=2871fce1517df3543eb990192be7f3c7b378df36209a9f359411887aa874d287&c=38837203)  
-Cooper Power
-
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=2871fce1517df3543eb990192be7f3c7b378df36209a9f359411887aa874d287&c=193594958)  
-VIR Electrical (PTY) LTD
-
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=2871fce1517df3543eb990192be7f3c7b378df36209a9f359411887aa874d287&c=164968498)  
-Henry's Home Renovations
-
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=2871fce1517df3543eb990192be7f3c7b378df36209a9f359411887aa874d287&c=125910275)  
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=761bd19f4ed6e12c3e458c2a3a10e9bcfe82b269386c749c1a2b555c511c15c3&c=7527540)  
 Tiny Cuddles Photography
 
-![valued client KZN TRADE DISTRIBUTORS](https://www.invoicesonline.co.za/scripts/image.php?bid=8747&file=logo_300_100&type=&fe=2871fce1517df3543eb990192be7f3c7b378df36209a9f359411887aa874d287&c=83544960)  
-KZN TRADE DISTRIBUTORS
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=761bd19f4ed6e12c3e458c2a3a10e9bcfe82b269386c749c1a2b555c511c15c3&c=16018706)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=2871fce1517df3543eb990192be7f3c7b378df36209a9f359411887aa874d287&c=133212185)  
-VerdanTech Pty Ltd
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=761bd19f4ed6e12c3e458c2a3a10e9bcfe82b269386c749c1a2b555c511c15c3&c=21838270)  
+Imvubu General Trading
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=2871fce1517df3543eb990192be7f3c7b378df36209a9f359411887aa874d287&c=200681679)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=761bd19f4ed6e12c3e458c2a3a10e9bcfe82b269386c749c1a2b555c511c15c3&c=141258800)  
+Norton Medical & Consult - Namibia
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=761bd19f4ed6e12c3e458c2a3a10e9bcfe82b269386c749c1a2b555c511c15c3&c=205080447)  
+Gemini-IT Group
+
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=761bd19f4ed6e12c3e458c2a3a10e9bcfe82b269386c749c1a2b555c511c15c3&c=213694000)  
+OPTIMUS ELECTRICAL PTY (LTD)
+
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=761bd19f4ed6e12c3e458c2a3a10e9bcfe82b269386c749c1a2b555c511c15c3&c=65484144)  
+Wiselink Broadband Pty Ltd
+
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=761bd19f4ed6e12c3e458c2a3a10e9bcfe82b269386c749c1a2b555c511c15c3&c=34909879)  
+LEO DEVELOPMENT GROUP
+
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=761bd19f4ed6e12c3e458c2a3a10e9bcfe82b269386c749c1a2b555c511c15c3&c=135546648)  
+Electro-Heat
+
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=761bd19f4ed6e12c3e458c2a3a10e9bcfe82b269386c749c1a2b555c511c15c3&c=126278854)  
+CGHK Enterprises (PTY) LTD
+
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=761bd19f4ed6e12c3e458c2a3a10e9bcfe82b269386c749c1a2b555c511c15c3&c=163840282)  
+MONSTER SECURITY SERVICES
+
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=761bd19f4ed6e12c3e458c2a3a10e9bcfe82b269386c749c1a2b555c511c15c3&c=191776345)  
+Little Nutty Professors
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
