@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr faq is anarchism the same thing as libertarianism](/freeblr/faq/is-anarchism-the-same-thing-as-libertarianism/card.svg)](https://jarick.works/freeblr/faq/is-anarchism-the-same-thing-as-libertarianism)[![freeblr government what big government is all about](/freeblr/government/what-big-government-is-all-about/card.svg)](https://jarick.works/freeblr/government/what-big-government-is-all-about)[![freeblr taxation six lessons on the history and economics of taxation](/freeblr/taxation/six-lessons-on-the-history-and-economics-of-taxation/card.svg)](https://jarick.works/freeblr/taxation/six-lessons-on-the-history-and-economics-of-taxation)[![freeblr market market anarchism versus market statism](/freeblr/market/market-anarchism-versus-market-statism/card.svg)](https://jarick.works/freeblr/market/market-anarchism-versus-market-statism)
+[![spekr what is democratic socialism](/spekr/what-is-democratic-socialism/card.svg)](https://jarick.works/spekr/what-is-democratic-socialism)[![freeblr health a monopoly on violence](/freeblr/health/a-monopoly-on-violence/card.svg)](https://jarick.works/freeblr/health/a-monopoly-on-violence)[![freeblr market how free are free markets](/freeblr/market/how-free-are-free-markets/card.svg)](https://jarick.works/freeblr/market/how-free-are-free-markets)[![freeblr faq how would anarcho capitalists handle the public goods problem](/freeblr/faq/how-would-anarcho-capitalists-handle-the-public-goods-problem/card.svg)](https://jarick.works/freeblr/faq/how-would-anarcho-capitalists-handle-the-public-goods-problem)
 
 [Follow](#follow)
 
