@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![25 Facts About Ganoderenic Acid ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2286%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/25-facts-about-ganoderenic-acid/)
+[![40 Facts About Rumeysa Gelgi ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/40-facts-about-rumeysa-gelgi/)
 
-Chemistry
+Celebrity
 
-13 Dec 2024
+16 Dec 2024
 
-[25 Facts About Ganoderenic Acid](https://facts.net/science/chemistry/25-facts-about-ganoderenic-acid/)
+[40 Facts About Rumeysa Gelgi](https://facts.net/celebrity/40-facts-about-rumeysa-gelgi/)
 
-[![50 Facts About Ted Turner ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22103%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/50-facts-about-ted-turner/)
+[![25 Facts About Lipidosis With Triglyceride Storage Disease ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2277%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-lipidosis-with-triglyceride-storage-disease/)
 
-People
+Health Science
 
-13 Dec 2024
+16 Dec 2024
 
-[50 Facts About Ted Turner](https://facts.net/history/people/50-facts-about-ted-turner/)
+[25 Facts About Lipidosis With Triglyceride Storage Disease](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-lipidosis-with-triglyceride-storage-disease/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
