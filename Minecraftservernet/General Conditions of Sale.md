@@ -29,17 +29,15 @@ Version All 1.21.4 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 
 
 Active Servers
 
-[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
+[![StormyLagoon](plugins/MineCraft/icons/25x25xStormyLagoon_1734154442.png.pagespeed.ic.BpAXGCTt4U.png)
 
-Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![EcoSMP](plugins/MineCraft/icons/25x25xEcoSMP_1714532090.png.pagespeed.ic._cNYKCUl0B.png)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![WoodySurvival](plugins/MineCraft/icons/25x25xWoodySurvival_1733849606.png.pagespeed.ic.fPtUr4j4Mi.png)
+EcoSMP](https://minecraft-server.net/details/EcoSMP/ "EcoSMP")[![troete](plugins/MineCraft/icons/25x25xtroete_1725906453.png.pagespeed.ic.inCJFl11BP.png)
 
-Woody Survival](https://minecraft-server.net/details/WoodySurvival/ "Woody Survival")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
+RuinSpirit](https://minecraft-server.net/details/troete/ "RuinSpirit") [Obsidian Gang](https://minecraft-server.net/details/Obsidian_Gang/ "Obsidian Gang")[![A2rath](plugins/MineCraft/icons/25x25xA2rath_1731694115.png.pagespeed.ic.GN-yKvGqoG.png)
 
-Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![TotalVanilla](plugins/MineCraft/icons/25x25xTotalVanilla_1734020162.png.pagespeed.ic.TdWQjrJnTo.jpg)
-
-Total Vanilla](https://minecraft-server.net/details/TotalVanilla/ "Total Vanilla")
+Fermium MC - SURVIVAL](https://minecraft-server.net/details/A2rath/ "Fermium MC - SURVIVAL")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -116,4 +114,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06194 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0594 - Created by [Debaucus](https://debauc.us/)
