@@ -64,7 +64,9 @@ The Dropbox Privacy Policy: frequently asked questions
 
 Updated Apr 09, 2024
 
-![person icon](https://paper-attachments.dropboxusercontent.com/s_20ECF084CA2978F4008D6E0DFF8CFF48214CBD33165009395DA333A536AE1544_1679690140929_person.png "person icon") The information in this article applies to all Dropbox customers.
+person icon
+
+The information in this article applies to all Dropbox users.
 
 1\. How long does Dropbox keep my files after I delete my account?
 ------------------------------------------------------------------
@@ -262,7 +264,7 @@ Thanks for your feedback!
 
 [#### Data storage](https://help.dropbox.com/security/physical-location-data-storage)
 
-All files stored in Dropbox are encrypted and secured in online servers. Learn where these servers are and how to change where your data is stored.
+All files stored in Dropbox are encrypted and secured in online servers. Learn more about Dropbox servers, where they're located, and how to change where your data is stored.
 
 [View article](https://help.dropbox.com/security/physical-location-data-storage)
 
