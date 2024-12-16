@@ -1,6 +1,6 @@
 6.0.12
 
-1734338899320
+1734360465176
 
                                       
 
@@ -12,7 +12,7 @@ en
 
 4.0.1
 
-1734338004121
+1734360958362
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1734338723824
+1734360858057
 
 You need to enable JavaScript to run this app.
 
@@ -51,7 +51,6 @@ Search product or brand
 [Checkout](https://www.next.co.uk/secure/checkout/transfer/checkoutcta)
 
 * [christmas](https://www.next.co.uk/christmas "CHRISTMAS")
-* [for you](https://www.next.co.uk/# "For You")
 * [women](https://www.next.co.uk/women "WOMEN")
 * [men](https://www.next.co.uk/men "MEN")
 * [boys](https://www.next.co.uk/boys "BOYS")
@@ -618,31 +617,7 @@ Please note the redemption of the 10% welcome offer to credit applies only to Ne
 
 * The Next Free Gift will be automatically added to bag when you buy any Next Fragrance.
 * The Next Gift contains:
-    * Watermelon & Aloe Body Butter
-* To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount.
-* This offer applies to selected indicated items when purchased at full price.
-* The Next Gift will be automatically added once 1 qualifying Next product has been added to the bag on either the Product or Shopping Bag Pages.
-* The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
-* This offer is not available to staff.
-* Offer applies while stocks last.
-
-### Next Promotion
-
-* The Next Free Gift will be automatically added to bag when you buy any Next Fragrance.
-* The Next Gift contains:
     * Strawberry & Acai Body Scrub
-* To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount.
-* This offer applies to selected indicated items when purchased at full price.
-* The Next Gift will be automatically added once 1 qualifying Next product has been added to the bag on either the Product or Shopping Bag Pages.
-* The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
-* This offer is not available to staff.
-* Offer applies while stocks last.
-
-### Next Promotion
-
-* The Next Free Gift will be automatically added to bag when you buy any Next Fragrance.
-* The Next Gift contains:
-    * Strawberry & Acai Body Butter
 * To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount.
 * This offer applies to selected indicated items when purchased at full price.
 * The Next Gift will be automatically added once 1 qualifying Next product has been added to the bag on either the Product or Shopping Bag Pages.
@@ -3496,7 +3471,7 @@ You need to enable JavaScript to run this app.
 
 4.0.1
 
-1734337974211
+1734360679979
 
 ##### Our Social Networks
 
