@@ -298,44 +298,6 @@ You can access, delete and control certain uses of your information as set forth
 
 [Home](https://snuggiestore.com/) [Shop All](https://snuggiestore.com/collections/all) [0 Cart](https://snuggiestore.com/cart)
 
-Your cart 0
------------
-
-You are eligible for free shipping. Spend **$0.00** more to reach free shipping!
-
-Your cart is currently empty.
-
-Not sure where to start?  
-Try these collections:
-
-* [![](//snuggiestore.com/cdn/shop/products/Snuggie-Sherpa-Charcoal-Main-Image_b04a6660-1672-449c-8f98-46092af3c98a.jpg?v=1663352637&width=3000)
-    
-    ### Shop All](https://snuggiestore.com/collections/e-shop-all)
-
-Order note Estimate Shipping
-
-#### Order note
-
-Order note
-
-Apply
-
-#### Estimate Shipping
-
-Country/region
-
-Province
-
-Postal/ZIP code 
-
-Calculate
-
-Estimated total $0.00 USD
-
-Taxes and shipping calculated at checkout
-
-[View cart](https://snuggiestore.com/cart) Check out
-
 Search
 ------
 
