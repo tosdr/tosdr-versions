@@ -3,7 +3,7 @@
 * [Request Info](https://go.uopeople.edu/request_info.html)
 * [Login](#)
     
-    * [UoPeople Portal](https://your.uopeople.edu/Account/SignIn?ReturnUrl=%2f)
+    * [UoPeople Portal](https://portal.uopeople.edu/login)
     * [Online Campus](https://my.uopeople.edu/login/index.php)
 
 * [UoPeople Arabic](https://ar.uopeople.edu/)
