@@ -448,7 +448,7 @@ En cas de litige, les tribunaux de Lausanne (Suisse) sont exclusivement compéte
 * [Contact](https://www.rts.ch/entreprise/contact/)
 * [FAQ](https://www.rts.ch/entreprise/vos-questions/)
 * [Travailler à la RTS](https://jobs.rts.ch/fr/emplois-carriere/)
-* [S'abonner à nos newsletters](https://www.rts.ch/newsletters/2023/information/decouvrez-les-newsletters-de-la-rts-27427199.html)
+* [S'abonner à nos newsletters](https://www.rts.ch/newsletters/)
 
 * [Assister à nos émissions](https://avecvous.rts.ch/evenements/emissions/)
 * [Visiter nos studios](https://avecvous.rts.ch/evenements/visites/)
@@ -464,7 +464,7 @@ En cas de litige, les tribunaux de Lausanne (Suisse) sont exclusivement compéte
 * [Conditions générales](https://www.rts.ch/conditions)
 * [Charte de confidentialité](https://www.rts.ch/charte)
 * Gestion des cookies
-* [Jurisprudence](https://www.rts.ch/entreprise/vos-questions/13388287.html)
+* [Jurisprudence](https://www.rts.ch/entreprise/vos-questions/2022/minute-par-minute/jurisprudence-decisions-de-l-aiep-et-du-csp-27676776.html)
 * [Médiation](https://ssrsr.ch/mediation/)
 
 [SRF](https://www.srf.ch/) [RSI](https://www.rsi.ch/) [RTR](https://www.rtr.ch/) [SWI](https://www.swissinfo.ch/) [Play Suisse](https://www.playsuisse.ch/)
