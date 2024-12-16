@@ -2,10 +2,12 @@
 
 * Es noticia:
 * [Barcelona - Leganés](https://www.marca.com/futbol/laliga-ea-sports/barcelona-leganes/2024/12/15/01_0101_20241215_178_957-directo.html)
+* [Raphinha](https://www.marca.com/radio/2024/12/15/intensidad-empujon-sobre-raphinha-suficiente-senalar-penalti.html)
+* [Tenerife Deportivo](https://www.marca.com/futbol/segunda-division/2024/12/15/depor-queria-jugar-partido-aplazado-tenerife-disputara-finales-enero-febrero.html)
 * [Lo Celso](https://www.marca.com/futbol/primera-division/cronica/2024/12/15/675f2f5722601def788b4591.html)
 * [Villarreal Betis](https://www.marca.com/futbol/laliga-ea-sports/villarreal-betis/2024/12/15/01_0101_20241215_449_185-directo.html)
 * [Real Sociedad - Las Palmas](https://www.marca.com/futbol/laliga-ea-sports/real-sociedad-las-palmas/2024/12/15/01_0101_20241215_188_407-directo.html)
-* [Racing Santander - Huesca](https://www.marca.com/futbol/laliga-hypermotion/racing-santander-huesca/2024/12/15/01_0102_20241215_189_2894-directo.html)
+* [Simone Muratore](https://www.marca.com/futbol/liga-italiana/2024/12/15/simone-muratore-anuncia-retirada-26-anos-tumor-cerebral.html)
 * [Vinicius](https://www.marca.com/futbol/real-madrid/2024/12/15/rayo-indignado-vinicius-mandarlos-segunda-desear-mal-deportivo-feo.html)
 * [Tenerife - Deportivo de la Coruña](https://www.marca.com/futbol/segunda-division/2024/12/15/aplazado-tenerife-deportivo-borrasca-dorothea.html)
 * [Manchester City](https://www.marca.com/futbol/premier-league/2024/12/15/manchester-united-ahonda-herida-guardiola.html)
