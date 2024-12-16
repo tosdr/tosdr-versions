@@ -46,10 +46,7 @@ Menu
     * [October](https://nationaltoday.com/october-holidays/)
     * [November](https://nationaltoday.com/november-holidays/)
     * [December](https://nationaltoday.com/december-holidays/)
-* [Resources](https://nationaltoday.com/gifts/)
-    * [Reviews](https://nationaltoday.com/review/)
-    * [Gift Guides](https://nationaltoday.com/gifts/)
-    * [Blog](https://nationaltoday.com/blog/)
+* [Videos](https://nationaltoday.com/videos/)
 
 [Log in](https://nationaltoday.com/login-page/) [Sign up](https://nationaltoday.com/sign-up/)
 
@@ -57,6 +54,7 @@ Search Search Cancel
 
 Search National Today  Submit
 
+* [](https://www.facebook.com/nationaltoday/ "Follow us on Facebook")
 * [](https://www.instagram.com/nationaltoday_/ "Follow us on Instagram")
 * [](https://x.com/NationalToday_ "Follow us on X")
 * [](https://www.tiktok.com/@www.nationaltoday.com "Follow us on TikTok")
@@ -324,6 +322,7 @@ We keep track of fun holidays and special moments on the cultural calendar — g
 
 ### Follow us on
 
+* [](https://www.facebook.com/nationaltoday/ "Follow us on Facebook")
 * [](https://www.instagram.com/nationaltoday_/ "Follow us on Instagram")
 * [](https://x.com/NationalToday_ "Follow us on X")
 * [](https://www.tiktok.com/@www.nationaltoday.com "Follow us on TikTok")
