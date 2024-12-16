@@ -230,6 +230,8 @@ Chat
 * [Lesbian Chat](https://taimi.com/lesbian-chat/)
 * [Transgender Chat](https://taimi.com/transgender-chat/)
 
+![adjust](https://view.adjust.com/impression/goc7ths?campaign=https://taimi.com/billing)
+
 [Get Taimi App for Free](#)
 
 ![](https://taimi.com/wp-content/themes/Taimi_WP/assets/images/press-room-modal.svg)
