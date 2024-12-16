@@ -152,13 +152,13 @@ Free standard shipping on any $35 purchase
         * [Makeup Guides](https://www.ulta.com/discover/makeup)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/award-winners-best-sellers-set-pimprod2047894?sku=2629605)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/featured/wk46_makeup_overlay_nyxprofessionalmakeup_new)
         
-        Tarte
+        NYX Professional Makeup
         
-        New & exclusive! The Award Winners Best-Sellers Set
+        New! Buttermelt Glaze
         
-        [Shop now](https://www.ulta.com/p/award-winners-best-sellers-set-pimprod2047894?sku=2629605)
+        [Shop now](https://www.ulta.com/featured/wk46_makeup_overlay_nyxprofessionalmakeup_new)
         
     * Skin Care
         
@@ -269,13 +269,13 @@ Free standard shipping on any $35 purchase
         * [Skin Care Guides](https://www.ulta.com/discover/skin)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/limited-edition-glass-skin-brilliance-kit-pimprod2046949?sku=2630181)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/big-barrier-super-set-pimprod2047592?sku=2630501)
         
-        PEACH & LILY
+        Bubble
         
-        New & exclusive! Limited Edition Glass Skin Brilliance Kit
+        New & exclusive! Big Barrier Super Set
         
-        [Shop now](https://www.ulta.com/p/limited-edition-glass-skin-brilliance-kit-pimprod2046949?sku=2630181)
+        [Shop now](https://www.ulta.com/p/big-barrier-super-set-pimprod2047592?sku=2630501)
         
     * Hair Care
         
@@ -452,13 +452,13 @@ Free standard shipping on any $35 purchase
         * [Fragrance Crush](https://www.ulta.com/discover/fragrance-perfume-crush)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/vault-collection-pimprod2048025?sku=2631803)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/parfum-discovery-set-pimprod2048385?sku=2631678)
         
-        Ariana Grande
+        Orebella
         
-        Online only & exclusive! Vault Collection
+        New & exclusive! Parfum Discovery Set
         
-        [Shop now](https://www.ulta.com/p/vault-collection-pimprod2048025?sku=2631803)
+        [Shop now](https://www.ulta.com/p/parfum-discovery-set-pimprod2048385?sku=2631678)
         
     * Body Care
         
@@ -687,13 +687,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=tools-brushes)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/airlight-pro-hair-dryer-augmented-with-infrared-light-technology-pimprod2048810?sku=2631456)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/hair-steamer-pimprod2048104?sku=2628739)
         
-        L'Oréal
+        PATTERN
         
-        New & exclusive! Airlight Pro Dryer
+        New & exclusive! The Hair Steamer
         
-        [Shop now](https://www.ulta.com/p/airlight-pro-hair-dryer-augmented-with-infrared-light-technology-pimprod2048810?sku=2631456)
+        [Shop now](https://www.ulta.com/p/hair-steamer-pimprod2048104?sku=2628739)
         
     
     Browse By
