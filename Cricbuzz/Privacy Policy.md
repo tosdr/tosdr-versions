@@ -8,7 +8,7 @@
 
 [Series](https://www.cricbuzz.com/cricket-schedule/series/all)
 
-[India tour of Australia, 2024-25](https://www.cricbuzz.com/cricket-series/7745/india-tour-of-australia-2024-25 "India tour of Australia, 2024-25") [West Indies Women tour of India, 2024](https://www.cricbuzz.com/cricket-series/9209/west-indies-women-tour-of-india-2024 "West Indies Women tour of India, 2024") [England tour of New Zealand, 2024](https://www.cricbuzz.com/cricket-series/7853/england-tour-of-new-zealand-2024 "England tour of New Zealand, 2024") [Pakistan tour of South Africa, 2024 -25](https://www.cricbuzz.com/cricket-series/8044/pakistan-tour-of-south-africa-2024-25 "Pakistan tour of South Africa, 2024 -25") [Big Bash League 2024-25](https://www.cricbuzz.com/cricket-series/8535/big-bash-league-2024-25 "Big Bash League 2024-25") [Sri Lanka tour of New Zealand, 2024-25](https://www.cricbuzz.com/cricket-series/8553/sri-lanka-tour-of-new-zealand-2024-25 "Sri Lanka tour of New Zealand, 2024-25") [Vijay Hazare Trophy 2024-25](https://www.cricbuzz.com/cricket-series/8357/vijay-hazare-trophy-2024-25 "Vijay Hazare Trophy 2024-25") [Afghanistan tour of Zimbabwe, 2024-25](https://www.cricbuzz.com/cricket-series/9171/afghanistan-tour-of-zimbabwe-2024-25 "Afghanistan tour of Zimbabwe, 2024-25") [Lanka T10 Super League, 2024](https://www.cricbuzz.com/cricket-series/9225/lanka-t10-super-league-2024 "Lanka T10 Super League, 2024") [All Series »](https://www.cricbuzz.com/cricket-schedule/series/all)
+[India tour of Australia, 2024-25](https://www.cricbuzz.com/cricket-series/7745/india-tour-of-australia-2024-25 "India tour of Australia, 2024-25") [West Indies Women tour of India, 2024](https://www.cricbuzz.com/cricket-series/9209/west-indies-women-tour-of-india-2024 "West Indies Women tour of India, 2024") [England tour of New Zealand, 2024](https://www.cricbuzz.com/cricket-series/7853/england-tour-of-new-zealand-2024 "England tour of New Zealand, 2024") [Pakistan tour of South Africa, 2024 -25](https://www.cricbuzz.com/cricket-series/8044/pakistan-tour-of-south-africa-2024-25 "Pakistan tour of South Africa, 2024 -25") [Big Bash League 2024-25](https://www.cricbuzz.com/cricket-series/8535/big-bash-league-2024-25 "Big Bash League 2024-25") [Sri Lanka tour of New Zealand, 2024-25](https://www.cricbuzz.com/cricket-series/8553/sri-lanka-tour-of-new-zealand-2024-25 "Sri Lanka tour of New Zealand, 2024-25") [Vijay Hazare Trophy 2024-25](https://www.cricbuzz.com/cricket-series/8357/vijay-hazare-trophy-2024-25 "Vijay Hazare Trophy 2024-25") [Australia Women tour of New Zealand, 2024](https://www.cricbuzz.com/cricket-series/8563/australia-women-tour-of-new-zealand-2024 "Australia Women tour of New Zealand, 2024") [Afghanistan tour of Zimbabwe, 2024-25](https://www.cricbuzz.com/cricket-series/9171/afghanistan-tour-of-zimbabwe-2024-25 "Afghanistan tour of Zimbabwe, 2024-25") [All Series »](https://www.cricbuzz.com/cricket-schedule/series/all)
 
 [Teams](https://www.cricbuzz.com/cricket-team)
 
@@ -38,7 +38,7 @@ More
 
 My Account Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Stumps")[MLR vs SYS - SYS Won](https://www.cricbuzz.com/live-cricket-scores/101570/mlr-vs-sys-2nd-match-big-bash-league-2024-25 "Melbourne Renegades v Sydney Sixers, 2nd Match - SYS Won")[ENGW vs RSAW - Live](https://www.cricbuzz.com/live-cricket-scores/94478/engw-vs-rsaw-only-test-england-women-tour-of-south-africa-2024 "England Women v South Africa Women, Only Test - Live")[NZ vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-england-tour-of-new-zealand-2024 "New Zealand v England, 3rd Test - Stumps")[ZIM vs AFG - Preview](https://www.cricbuzz.com/live-cricket-scores/109337/zim-vs-afg-1st-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 1st ODI - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUS vs IND - Stumps](https://www.cricbuzz.com/live-cricket-scores/91796/aus-vs-ind-3rd-test-india-tour-of-australia-2024-25 "Australia v India, 3rd Test - Stumps")[ENGW vs RSAW - Stumps](https://www.cricbuzz.com/live-cricket-scores/94478/engw-vs-rsaw-only-test-england-women-tour-of-south-africa-2024 "England Women v South Africa Women, Only Test - Stumps")[NZ vs ENG - Stumps](https://www.cricbuzz.com/live-cricket-scores/92408/nz-vs-eng-3rd-test-england-tour-of-new-zealand-2024 "New Zealand v England, 3rd Test - Stumps")[SYT vs ADS - Preview](https://www.cricbuzz.com/live-cricket-scores/101571/syt-vs-ads-3rd-match-big-bash-league-2024-25 "Sydney Thunder v Adelaide Strikers, 3rd Match - Preview")[ZIM vs AFG - Preview](https://www.cricbuzz.com/live-cricket-scores/109337/zim-vs-afg-1st-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 1st ODI - Preview")
 
 AllLive NowToday
 
@@ -68,11 +68,7 @@ AllLive NowToday
     
 * Afghanistan tour of Zimbabwe, 2024-25
     
-    [Zimbabwe vs Afghanistan](https://www.cricbuzz.com/live-cricket-scores/109334/zim-vs-afg-3rd-t20i-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 3rd T20I - AFG Won")
-    
-    3rd T20I
-    
-* [Zimbabwe vs Afghanistan](https://www.cricbuzz.com/live-cricket-scores/109337/zim-vs-afg-1st-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 1st ODI - Preview")
+    [Zimbabwe vs Afghanistan](https://www.cricbuzz.com/live-cricket-scores/109337/zim-vs-afg-1st-odi-afghanistan-tour-of-zimbabwe-2024-25 "Zimbabwe v Afghanistan, 1st ODI - Preview")
     
     1st ODI
     
@@ -90,7 +86,7 @@ AllLive NowToday
     
     7th Match
     
-* [United Arab Emirates vs Kuwait](https://www.cricbuzz.com/live-cricket-scores/112273/uae-vs-kuw-8th-match-gulf-cricket-t20i-championship "United Arab Emirates v Kuwait, 8th Match - Complete")
+* [United Arab Emirates vs Kuwait](https://www.cricbuzz.com/live-cricket-scores/112273/uae-vs-kuw-8th-match-gulf-cricket-t20i-championship "United Arab Emirates v Kuwait, 8th Match - UAE Won")
     
     8th Match
     
@@ -112,15 +108,7 @@ AllLive NowToday
     
 * ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024
     
-    [Bahamas vs Suriname](https://www.cricbuzz.com/live-cricket-scores/111461/bhm-vs-sn-match-26-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Suriname, Match 26 - BHM Won")
-    
-    Match 26
-    
-* [Cayman Islands vs Brazil](https://www.cricbuzz.com/live-cricket-scores/111453/caym-vs-brazil-match-25-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Cayman Islands v Brazil, Match 25 - CAYM Won")
-    
-    Match 25
-    
-* [Argentina vs Mexico](https://www.cricbuzz.com/live-cricket-scores/111477/arg-vs-mex-match-28-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Argentina v Mexico, Match 28 - ARG Won")
+    [Argentina vs Mexico](https://www.cricbuzz.com/live-cricket-scores/111477/arg-vs-mex-match-28-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Argentina v Mexico, Match 28 - ARG Won")
     
     Match 28
     
@@ -136,21 +124,21 @@ AllLive NowToday
     
     Match 29
     
-* [Bermuda vs Bahamas](https://www.cricbuzz.com/live-cricket-scores/111493/ber-vs-bhm-match-31-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Bahamas, Match 31 - BER Won")
-    
-    Match 31
-    
 * [Panama vs Mexico](https://www.cricbuzz.com/live-cricket-scores/111497/pan-vs-mex-match-32-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Mexico, Match 32 - PAN Won")
     
     Match 32
     
-* [Mexico vs Bahamas](https://www.cricbuzz.com/live-cricket-scores/111513/mex-vs-bhm-match-34-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Mexico v Bahamas, Match 34 - Preview")
+* [Bermuda vs Bahamas](https://www.cricbuzz.com/live-cricket-scores/111493/ber-vs-bhm-match-31-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Bahamas, Match 31 - BER Won")
     
-    Match 34
+    Match 31
     
 * [Cayman Islands vs Bermuda](https://www.cricbuzz.com/live-cricket-scores/111505/caym-vs-ber-match-33-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Cayman Islands v Bermuda, Match 33 - Preview")
     
     Match 33
+    
+* [Mexico vs Bahamas](https://www.cricbuzz.com/live-cricket-scores/111513/mex-vs-bhm-match-34-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Mexico v Bahamas, Match 34 - Preview")
+    
+    Match 34
     
 * [Brazil vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111529/brazil-vs-arg-match-36-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Brazil v Argentina, Match 36 - Upcoming")
     
@@ -159,12 +147,6 @@ AllLive NowToday
 * [Suriname vs Belize](https://www.cricbuzz.com/live-cricket-scores/111521/sn-vs-blz-match-35-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Suriname v Belize, Match 35 - Upcoming")
     
     Match 35
-    
-* Africa Continental Cup
-    
-    [Nigeria vs Uganda](https://www.cricbuzz.com/live-cricket-scores/112209/nga-vs-uga-final-africa-continental-cup "Nigeria v Uganda, Final - UGA Won")
-    
-    Final
     
 * West Indies v Bangladesh, 2024
     
@@ -198,19 +180,7 @@ AllLive NowToday
     
 * Lanka T10 Super League, 2024
     
-    [Colombo Jaguars vs Kandy Bolts](https://www.cricbuzz.com/live-cricket-scores/110205/cljr-vs-kdb-10th-match-lanka-t10-super-league-2024 "Colombo Jaguars v Kandy Bolts, 10th Match - Abandon")
-    
-    10th Match
-    
-* [Galle Marvels vs Jaffna Titans](https://www.cricbuzz.com/live-cricket-scores/110213/gam-vs-jft-11th-match-lanka-t10-super-league-2024 "Galle Marvels v Jaffna Titans, 11th Match - JFT Won")
-    
-    11th Match
-    
-* [Nuwara Eliya Kings vs Hambantota Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/110221/nek-vs-hbt-12th-match-lanka-t10-super-league-2024 "Nuwara Eliya Kings v Hambantota Bangla Tigers, 12th Match - HBT Won")
-    
-    12th Match
-    
-* [Hambantota Bangla Tigers vs Kandy Bolts](https://www.cricbuzz.com/live-cricket-scores/110229/hbt-vs-kdb-13th-match-lanka-t10-super-league-2024 "Hambantota Bangla Tigers v Kandy Bolts, 13th Match - HBT Won")
+    [Hambantota Bangla Tigers vs Kandy Bolts](https://www.cricbuzz.com/live-cricket-scores/110229/hbt-vs-kdb-13th-match-lanka-t10-super-league-2024 "Hambantota Bangla Tigers v Kandy Bolts, 13th Match - HBT Won")
     
     13th Match
     
@@ -226,23 +196,23 @@ AllLive NowToday
     
     16th Match
     
-* [Hambantota Bangla Tigers vs Colombo Jaguars](https://www.cricbuzz.com/live-cricket-scores/110253/hbt-vs-cljr-17th-match-lanka-t10-super-league-2024 "Hambantota Bangla Tigers v Colombo Jaguars, 17th Match - Delay")
+* [Hambantota Bangla Tigers vs Colombo Jaguars](https://www.cricbuzz.com/live-cricket-scores/110253/hbt-vs-cljr-17th-match-lanka-t10-super-league-2024 "Hambantota Bangla Tigers v Colombo Jaguars, 17th Match - Abandon")
     
     17th Match
     
-* [Jaffna Titans vs Kandy Bolts](https://www.cricbuzz.com/live-cricket-scores/110261/jft-vs-kdb-18th-match-lanka-t10-super-league-2024 "Jaffna Titans v Kandy Bolts, 18th Match - Preview")
+* [Jaffna Titans vs Kandy Bolts](https://www.cricbuzz.com/live-cricket-scores/110261/jft-vs-kdb-18th-match-lanka-t10-super-league-2024 "Jaffna Titans v Kandy Bolts, 18th Match - Abandon")
     
     18th Match
     
-* [Colombo Jaguars vs Jaffna Titans](https://www.cricbuzz.com/live-cricket-scores/110265/cljr-vs-jft-19th-match-lanka-t10-super-league-2024 "Colombo Jaguars v Jaffna Titans, 19th Match - Upcoming")
+* [Colombo Jaguars vs Jaffna Titans](https://www.cricbuzz.com/live-cricket-scores/110265/cljr-vs-jft-19th-match-lanka-t10-super-league-2024 "Colombo Jaguars v Jaffna Titans, 19th Match - Preview")
     
     19th Match
     
-* [Kandy Bolts vs Nuwara Eliya Kings](https://www.cricbuzz.com/live-cricket-scores/110269/kdb-vs-nek-20th-match-lanka-t10-super-league-2024 "Kandy Bolts v Nuwara Eliya Kings, 20th Match - Upcoming")
+* [Kandy Bolts vs Nuwara Eliya Kings](https://www.cricbuzz.com/live-cricket-scores/110269/kdb-vs-nek-20th-match-lanka-t10-super-league-2024 "Kandy Bolts v Nuwara Eliya Kings, 20th Match - Preview")
     
     20th Match
     
-* [Galle Marvels vs Hambantota Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/110273/gam-vs-hbt-21st-match-lanka-t10-super-league-2024 "Galle Marvels v Hambantota Bangla Tigers, 21st Match - Upcoming")
+* [Galle Marvels vs Hambantota Bangla Tigers](https://www.cricbuzz.com/live-cricket-scores/110273/gam-vs-hbt-21st-match-lanka-t10-super-league-2024 "Galle Marvels v Hambantota Bangla Tigers, 21st Match - Preview")
     
     21st Match
     
@@ -254,6 +224,10 @@ AllLive NowToday
     
     Eliminator
     
+* [TBC vs TBC](https://www.cricbuzz.com/live-cricket-scores/110289/tbc-vs-tbc-qualifier-2-lanka-t10-super-league-2024 "TBC v TBC, Qualifier 2 - Upcoming")
+    
+    Qualifier 2
+    
 * DOMESTIC
     
     SMA Trophy 2024
@@ -264,13 +238,13 @@ AllLive NowToday
     
 * CSA Four-Day Series Division Two 2024-25
     
-    [Mpumalanga Rhinos vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104380/mpr-vs-estorm-12th-match-csa-four-day-series-division-two-2024-25 "Mpumalanga Rhinos v Eastern Storm, 12th Match - MPR Won")
-    
-    12th Match
-    
-* [Limpopo vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/104378/limpo-vs-ncape-11th-match-csa-four-day-series-division-two-2024-25 "Limpopo v Northern Cape, 11th Match - NCAPE Won")
+    [Limpopo vs Northern Cape](https://www.cricbuzz.com/live-cricket-scores/104378/limpo-vs-ncape-11th-match-csa-four-day-series-division-two-2024-25 "Limpopo v Northern Cape, 11th Match - NCAPE Won")
     
     11th Match
+    
+* [Mpumalanga Rhinos vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104380/mpr-vs-estorm-12th-match-csa-four-day-series-division-two-2024-25 "Mpumalanga Rhinos v Eastern Storm, 12th Match - MPR Won")
+    
+    12th Match
     
 * WOMEN
     
@@ -280,13 +254,13 @@ AllLive NowToday
     
     1st T20I
     
-* [India Women vs West Indies Women](https://www.cricbuzz.com/live-cricket-scores/110021/indw-vs-wiw-2nd-t20i-india-women-v-west-indies-women-2024 "India Women v West Indies Women, 2nd T20I - Upcoming")
+* [India Women vs West Indies Women](https://www.cricbuzz.com/live-cricket-scores/110021/indw-vs-wiw-2nd-t20i-india-women-v-west-indies-women-2024 "India Women v West Indies Women, 2nd T20I - Preview")
     
     2nd T20I
     
 * South Africa Women v England Women, 2024
     
-    [England Women vs South Africa Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/94478/engw-vs-rsaw-only-test-south-africa-women-v-england-women-2024 "England Women v South Africa Women, Only Test - Live")
+    [England Women vs South Africa Women](https://www.cricbuzz.com/live-cricket-scores/94478/engw-vs-rsaw-only-test-south-africa-women-v-england-women-2024 "England Women v South Africa Women, Only Test - Stumps")
     
     Only Test
     
@@ -296,7 +270,7 @@ AllLive NowToday
     
     1st T20I
     
-* [Gibraltar Women vs Jersey Women](https://www.cricbuzz.com/live-cricket-scores/112329/gibw-vs-jerw-2nd-t20i-gibraltar-women-v-jersey-women-2024 "Gibraltar Women v Jersey Women, 2nd T20I - Upcoming")
+* [Gibraltar Women vs Jersey Women](https://www.cricbuzz.com/live-cricket-scores/112329/gibw-vs-jerw-2nd-t20i-gibraltar-women-v-jersey-women-2024 "Gibraltar Women v Jersey Women, 2nd T20I - JERW Won")
     
     2nd T20I
     
@@ -607,41 +581,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132802/england-fetch-handy-first-innings-lead-after-south-africas-collapse "England fetch handy first innings lead after South Africa's collapse")
+
+[England fetch handy first innings lead after South Africa's collapse](https://www.cricbuzz.com/cricket-news/132802/england-fetch-handy-first-innings-lead-after-south-africas-collapse "England fetch handy first innings lead after South Africa's collapse")
+
+45m ago
+
+  [](https://www.cricbuzz.com/cricket-news/132801/drs-disaster-strikes-again-as-england-surge-ahead "DRS disaster strikes again as England surge ahead")
+
+[DRS disaster strikes again as England surge ahead](https://www.cricbuzz.com/cricket-news/132801/drs-disaster-strikes-again-as-england-surge-ahead "DRS disaster strikes again as England surge ahead")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132800/sammy-appointed-west-indies-all-format-coach "Sammy appointed West Indies' all-format coach")
+
+[Sammy appointed West Indies' all-format coach](https://www.cricbuzz.com/cricket-news/132800/sammy-appointed-west-indies-all-format-coach "Sammy appointed West Indies' all-format coach")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132799/between-champions-trophy-dreams-and-injury-woes-south-africa-prepare-for-pakistan-challenge "Between Champions Trophy dreams and injury woes, SA prepare for PAK challenge")
+
+[Between Champions Trophy dreams and injury woes, SA prepare for PAK challenge](https://www.cricbuzz.com/cricket-news/132799/between-champions-trophy-dreams-and-injury-woes-south-africa-prepare-for-pakistan-challenge "Between Champions Trophy dreams and injury woes, SA prepare for PAK challenge")
+
+5h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132798/ankit-rajpoot-retires-from-indian-cricket-at-31 "Ankit Rajpoot retires from Indian cricket at 31")
+
+[Ankit Rajpoot retires from Indian cricket at 31](https://www.cricbuzz.com/cricket-news/132798/ankit-rajpoot-retires-from-indian-cricket-at-31 "Ankit Rajpoot retires from Indian cricket at 31")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/132797/we-are-in-transition-so-its-my-job-to-help-the-others-bumrah "We are in transition so it's my job to help the others - Bumrah")
 
 [We are in transition so it's my job to help the others - Bumrah](https://www.cricbuzz.com/cricket-news/132797/we-are-in-transition-so-its-my-job-to-help-the-others-bumrah "We are in transition so it's my job to help the others - Bumrah")
 
-24m ago
-
-  [](https://www.cricbuzz.com/cricket-news/132796/we-are-definitely-concerned-bcb-chief-selector-on-littons-form "'We are definitely concerned' - BCB chief selector on Litton's form")
-
-['We are definitely concerned' - BCB chief selector on Litton's form](https://www.cricbuzz.com/cricket-news/132796/we-are-definitely-concerned-bcb-chief-selector-on-littons-form "'We are definitely concerned' - BCB chief selector on Litton's form")
-
-52m ago
-
-  [](https://www.cricbuzz.com/cricket-news/132795/moises-henriques-powers-sydney-sixers-winning-start "Henriques powers Sixers' winning start")
-
-[Henriques powers Sixers' winning start](https://www.cricbuzz.com/cricket-news/132795/moises-henriques-powers-sydney-sixers-winning-start "Henriques powers Sixers' winning start")
-
-58m ago
-
-  [](https://www.cricbuzz.com/cricket-news/132794/self-belief-key-to-suryansh-shedges-rapid-rise "Self belief key to Suryansh Shedge's rapid rise")
-
-[Self belief key to Suryansh Shedge's rapid rise](https://www.cricbuzz.com/cricket-news/132794/self-belief-key-to-suryansh-shedges-rapid-rise "Self belief key to Suryansh Shedge's rapid rise")
-
-1h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132793/more-gloom-for-india-in-brisbane-ft-the-rain "More gloom for India in Brisbane ft. the rain")
-
-[More gloom for India in Brisbane ft. the rain](https://www.cricbuzz.com/cricket-news/132793/more-gloom-for-india-in-brisbane-ft-the-rain "More gloom for India in Brisbane ft. the rain")
-
-3h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132792/always-believed-hasan-mahmud-can-win-the-game-for-us-mahedi-hasan "Always believed Hasan Mahmud can win the game for us: Mahedi Hasan")
-
-[Always believed Hasan Mahmud can win the game for us: Mahedi Hasan](https://www.cricbuzz.com/cricket-news/132792/always-believed-hasan-mahmud-can-win-the-game-for-us-mahedi-hasan "Always believed Hasan Mahmud can win the game for us: Mahedi Hasan")
-
-5h ago
+6h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
