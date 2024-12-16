@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Dairy Dash](https://www.myabandonware.com/game/dairy-dash-qg4)
+* [Classic Car Racing](https://www.myabandonware.com/game/classic-car-racing-m3f)
 * [Family Guy: Back to the Multiverse](https://www.myabandonware.com/game/family-guy-back-to-the-multiverse-jo0)
 * [RC Boat Challenge: Special Edition](https://www.myabandonware.com/game/rc-boat-challenge-special-edition-txf)
 * [Karate Fighter](https://www.myabandonware.com/game/karate-fighter-txe)
-* [Lump](https://www.myabandonware.com/game/lump-txd)
-* [Luxe Chalk](https://www.myabandonware.com/game/luxe-chalk-txc)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
