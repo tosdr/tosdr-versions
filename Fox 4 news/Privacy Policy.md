@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![2 teens dead, 4 teens injured at 'makeshift club' shooting in northeast Houston](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/32/18/screenshot-2024-12-15-071216.png?ve=1&tl=1)
+ [![Arlington suspects believed to be connected to 2 separate shootings](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/121524-sh-arlington-pd-shooting-little-rd_kdfwaee8_00.04.52.10.jpg?ve=1&tl=1)
 
- ![2 teens dead, 4 teens injured at 'makeshift club' shooting in northeast Houston](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/32/18/592/333/screenshot-2024-12-15-071216.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-teens-dead-3-teens-injured-makeshift-club-shooting-north-houston)
+ ![Arlington suspects believed to be connected to 2 separate shootings](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/121524-sh-arlington-pd-shooting-little-rd_kdfwaee8_00.04.52.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/arlington-shootings-humberto-barajas-angel-barajas)
 
-### [2 teens dead, 4 teens injured at 'makeshift club' shooting in northeast Houston](https://www.fox4news.com/news/2-teens-dead-3-teens-injured-makeshift-club-shooting-north-houston)
+### [Arlington suspects believed to be connected to 2 separate shootings](https://www.fox4news.com/news/arlington-shootings-humberto-barajas-angel-barajas)
 
- [![Ken Paxton sues New York doctor accused of prescribing abortion pills to Texas woman](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/GettyImages-1241560350.jpg?ve=1&tl=1)
+ [![Rush throws for career-high 3 TDs, Cowboys force 4 turnovers to beat Panthers 30-14](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2189591067.jpg?ve=1&tl=1)
 
- ![Ken Paxton sues New York doctor accused of prescribing abortion pills to Texas woman](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/01/32/18/592/333/GettyImages-1241560350.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ken-paxton-sues-new-york-doctor-accused-prescribing-abortion-pills-texas-woman)
+ ![Rush throws for career-high 3 TDs, Cowboys force 4 turnovers to beat Panthers 30-14](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2189591067.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/rush-throws-career-high-3-tds-cowboys-force-4-turnovers-beat-panthers-30-14)
 
-### [Ken Paxton sues New York doctor accused of prescribing abortion pills to Texas woman](https://www.fox4news.com/news/ken-paxton-sues-new-york-doctor-accused-prescribing-abortion-pills-texas-woman)
+### [Rush throws for career-high 3 TDs, Cowboys force 4 turnovers to beat Panthers 30-14](https://www.fox4news.com/sports/rush-throws-career-high-3-tds-cowboys-force-4-turnovers-beat-panthers-30-14)
 
- [![Man found shot in vehicle behind supermarket in Far North Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/121524-sh-dpd-shooting-coit-rd_kdfwae3c_186_mp4_00.00.47.28.jpg?ve=1&tl=1)
+ [![Ocean heat wave known as 'The Blob' blamed for killing half the population of bird species](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/fox-wx-heatwave1.jpg?ve=1&tl=1)
 
- ![Man found shot in vehicle behind supermarket in Far North Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/121524-sh-dpd-shooting-coit-rd_kdfwae3c_186_mp4_00.00.47.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-found-shot-vehicle-behind-supermarket-far-north-dallas)
+ ![Ocean heat wave known as 'The Blob' blamed for killing half the population of bird species](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/fox-wx-heatwave1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ocean-heat-wave-known-the-blob-blamed-killing-half-population-bird-species)
 
-### [Man found shot in vehicle behind supermarket in Far North Dallas](https://www.fox4news.com/news/man-found-shot-vehicle-behind-supermarket-far-north-dallas)
+### [Ocean heat wave known as 'The Blob' blamed for killing half the population of bird species](https://www.fox4news.com/news/ocean-heat-wave-known-the-blob-blamed-killing-half-population-bird-species)
 
- [![Egg prices are higher — and they're not cracking anytime soon](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/eggs.jpg?ve=1&tl=1)
+ [![Gov. Hochul announces federal drone detection system for NY](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/snapshot-98.jpg?ve=1&tl=1)
 
- ![Egg prices are higher — and they're not cracking anytime soon](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/eggs.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/egg-prices-2025)
+ ![Gov. Hochul announces federal drone detection system for NY](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/snapshot-98.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/officials-ny-nj-demand-more-action-after-recent-drone-sightings)
 
-### [Egg prices are higher — and they're not cracking anytime soon](https://www.fox4news.com/news/egg-prices-2025)
+### [Gov. Hochul announces federal drone detection system for NY](https://www.fox4news.com/news/officials-ny-nj-demand-more-action-after-recent-drone-sightings)
 
- [![Watch: Suspect gets stuck in chimney while hiding from police](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/suspect-chimney.jpg?ve=1&tl=1)
+ [![Michelob Ultra tops Bud Light as No. 1 draft beer in US](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-499836820.jpg?ve=1&tl=1)
 
- ![Watch: Suspect gets stuck in chimney while hiding from police](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/suspect-chimney.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/watch-suspect-gets-stuck-chimney-while-hiding-from-police)
+ ![Michelob Ultra tops Bud Light as No. 1 draft beer in US](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-499836820.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/michelob-ultra-tops-bud-light-no-1-draft-beer-us)
 
-### [Watch: Suspect gets stuck in chimney while hiding from police](https://www.fox4news.com/news/watch-suspect-gets-stuck-chimney-while-hiding-from-police)
+### [Michelob Ultra tops Bud Light as No. 1 draft beer in US](https://www.fox4news.com/news/michelob-ultra-tops-bud-light-no-1-draft-beer-us)
 
 ###### [News](https://www.fox4news.com/news)
 
