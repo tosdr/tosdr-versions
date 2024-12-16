@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/12/architecture-aimasia-residence-feature.jpg)
+
+[](https://theinspirationgrid.com/aimasia-residence-by-tom-dixon-a31-architecture/)
+
+### Aimasia Residence by Tom Dixon & A31 Architecture
+
+![](https://inspgr.id/app/uploads/2024/12/art-victoria-rose-richards-feature.jpg)
+
+[](https://theinspirationgrid.com/intricate-aerial-embroideries-by-victoria-rose-richards/)
+
+### Intricate Aerial Embroideries by Victoria Rose Richards
+
 ![](https://inspgr.id/app/uploads/2024/12/packaging-mui-coffee-feature.jpg)
 
 [](https://theinspirationgrid.com/mui-coffee-roastery-branding-packaging-by-happycentro/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/cool-celebrity-caricatures-by-pol-serra/)
 
 ### Cool Celebrity Caricatures by Pol Serra
-
-![](https://inspgr.id/app/uploads/2024/12/art-hudy-feature.jpg)
-
-[](https://theinspirationgrid.com/intriguing-resin-sculptures-by-hudy/)
-
-### Intriguing Resin Sculptures by Hudy
-
-![](https://inspgr.id/app/uploads/2024/12/photo-poirier-24-feature.jpg)
-
-[](https://theinspirationgrid.com/the-goetheanum-photos-by-thibaud-poirier/)
-
-### The Goetheanum: Photos by Thibaud Poirier
 
 Awesome products for creatives
 ------------------------------
