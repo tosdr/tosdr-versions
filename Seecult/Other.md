@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-papic/5-fotki-iz-foldera-quotsituacijaquot/situacijabilansodluka-3.jpg?itok=sZgF-DQD)](http://seecult.org/galerija/galerija-umetnika/dragan-papic/5-fotki-iz-foldera-situacija)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/proljece.jpg?itok=wuHWTOBB)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/maja-obradovic.jpg?itok=dcr2JRj8)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/brazilian-girls-201007/sabina3.jpg?itok=KUuSPx3Y)](http://seecult.org/galerija/foto-galerija/foto-arhiva/26-skopje-jazz-festival/brazilian-girls-201007)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
