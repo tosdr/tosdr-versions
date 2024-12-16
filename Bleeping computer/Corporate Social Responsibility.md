@@ -36,6 +36,9 @@
         
         New IOCONTROL malware used in critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/new-iocontrol-malware-used-in-critical-infrastructure-attacks/)
     
+    * [![Save on Microsoft Office Home 2024 for Mac or PC in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Save on Microsoft Office Home 2024 for Mac or PC in this deal](https://www.bleepingcomputer.com/offer/deals/save-on-microsoft-office-home-2024-for-mac-or-pc-in-this-deal/)
     * [![Clop ransomware claims responsibility for Cleo data theft attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Clop ransomware claims responsibility for Cleo data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
@@ -45,9 +48,6 @@
     * [![Train in advanced cybersecurity skills with this $65 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Train in advanced cybersecurity skills with this $65 course bundle deal](https://www.bleepingcomputer.com/offer/deals/train-in-advanced-cybersecurity-skills-with-this-65-course-bundle-deal/)
-    * [![390,000 WordPress accounts stolen from hackers in supply chain attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        390,000 WordPress accounts stolen from hackers in supply chain attack](https://www.bleepingcomputer.com/news/security/390-000-wordpress-accounts-stolen-from-hackers-in-supply-chain-attack/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
