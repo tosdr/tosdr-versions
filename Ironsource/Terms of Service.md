@@ -102,11 +102,11 @@
             
             [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#)
             
-            [**Blog**](#)[](https://www.is.com/community/blog/state-of-play-a-qa-with-samantha-benjamin-on-the-shift-from-hyper-to-hybrid-casual/)
+            [**Blog**](#)[](https://www.is.com/community/blog/breaking-down-match-triple-3d/)
             
-            State of Play: a Q&A with Samantha Benjamin on the shift from hyper to hybrid-casual
+            Breaking down Match Triple 3D: What game developers can learn from Lihuhu’s monetization strategy
             
-            [Read more >](https://www.is.com/community/blog/state-of-play-a-qa-with-samantha-benjamin-on-the-shift-from-hyper-to-hybrid-casual/)
+            [Read more >](https://www.is.com/community/blog/breaking-down-match-triple-3d/)
             
 * [Company](#)
     * [About](https://www.is.com/about/)
