@@ -145,6 +145,10 @@ Help
 * [Search](https://www.o2.co.uk/searchresult)
 * [Basket](https://www.o2.co.uk/shop/basket)
 
+* [Home](https://www.o2.co.uk/)
+
+Cookie Policy
+
 O2 Cookie Policy
 ================
 
@@ -612,7 +616,3 @@ Shop
 ©2024 Telefonica UK Limited
 
 In relation to consumer credit, Telefónica UK Limited is authorised and regulated by the Financial Conduct Authority (Reference Number 718822)
-
-* [Home](https://www.o2.co.uk/)
-
-Cookie Policy
