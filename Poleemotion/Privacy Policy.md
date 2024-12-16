@@ -84,16 +84,16 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 À ne pas manquer en ce moment!
 ------------------------------
 
-[](https://app.pole-emotion.ch/evjf)
+[![image pour C'est le moment de choisir votre Cadeau de Noël](/storage/highlights/newsflash/highlight.webp?v=612920)
 
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=378063)](https://app.pole-emotion.ch/evjf)
+##### C'est le moment de choisir votre Cadeau de Noël
 
-[##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
+**Pourquoi ne pas demander au Père Noël un bon-cadeau valable dans toutes l'école avec un choix de discipline ?**
 
-[**Envie de faire plaisir à la future mariée ?  
-Pourquoi pas un cours sur mesure pour elle**](https://app.pole-emotion.ch/evjf)
+**Bon valable 1 année sur toutes les prestations te les abonnements.  
+1 bon de 100 Ch...**](https://app.pole-emotion.ch/news/bon-cadeau)
 
-[](https://app.pole-emotion.ch/evjf)[**https://app.pole-emotion.ch/evjf**](https://www.pole-emotion.ch/evjf "ton cours EVJF ")
+**
 
 ABO - Freedom
 
@@ -115,7 +115,19 @@ Dès 104.- CHF
 
 [En savoir plus](https://app.pole-emotion.ch/illimite)
 
-[Rejoins-nous sur Instagram
+
+
+
+
+
+
+
+
+
+
+**
+
+**[Rejoins-nous sur Instagram
 
 ![](https://scontent-zrh1-1.cdninstagram.com/v/t51.29350-15/467700360_1216338762776460_9092083183542917455_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=18de74&_nc_ohc=yG2hGOfvvacQ7kNvgGab6x_&_nc_zt=23&_nc_ht=scontent-zrh1-1.cdninstagram.com&edm=ANo9K5cEAAAA&_nc_gid=A0_9-pJ6wtyeYKnyAhCDtlK&oh=00_AYAsOQggwRMpRh0pUpZjcfckpPZZWQGlgiyk_d4ttEbfbw&oe=67560501)
 
@@ -302,3 +314,5 @@ Contact
 Designed by[](javascript:linkTo_UnCryptMailto('nbjmup;benjoAqpmf.fnpujpo/di');)
 
 [](#coursEssaiOffert)
+
+**
