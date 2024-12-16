@@ -117,59 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> Thanks Adriaan...
 > 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Johan Botha - Brand Xplosion
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=a4f0d1fe0346b79d981cccc196b56b49677c23eaa1688b0dc1924b4f53ebcb56&c=186839100)  
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=4431bbc8092cec34d1a02189bb4723424d5ecb921345bf8a04f0f951f6f8e265&c=93359498)  
 Tagline Brands
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=a4f0d1fe0346b79d981cccc196b56b49677c23eaa1688b0dc1924b4f53ebcb56&c=132722718)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client Eruca (PTY)Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7150&file=logo_300_100&type=&fe=4431bbc8092cec34d1a02189bb4723424d5ecb921345bf8a04f0f951f6f8e265&c=112132220)  
+Eruca (PTY)Ltd
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=a4f0d1fe0346b79d981cccc196b56b49677c23eaa1688b0dc1924b4f53ebcb56&c=77553639)  
-Alliance Energy
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=4431bbc8092cec34d1a02189bb4723424d5ecb921345bf8a04f0f951f6f8e265&c=113047567)  
+OptaServ
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=a4f0d1fe0346b79d981cccc196b56b49677c23eaa1688b0dc1924b4f53ebcb56&c=76421486)  
-SA Security Brokerz (Pty) Ltd
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=4431bbc8092cec34d1a02189bb4723424d5ecb921345bf8a04f0f951f6f8e265&c=6616929)  
+Firstweb Hosting & Design
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=a4f0d1fe0346b79d981cccc196b56b49677c23eaa1688b0dc1924b4f53ebcb56&c=60837259)  
-Iurus Inc
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=a4f0d1fe0346b79d981cccc196b56b49677c23eaa1688b0dc1924b4f53ebcb56&c=85662397)  
-Kaylas Creations
-
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=a4f0d1fe0346b79d981cccc196b56b49677c23eaa1688b0dc1924b4f53ebcb56&c=64595413)  
-OrgChart Hosting Pty Ltd
-
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=a4f0d1fe0346b79d981cccc196b56b49677c23eaa1688b0dc1924b4f53ebcb56&c=91799552)  
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=4431bbc8092cec34d1a02189bb4723424d5ecb921345bf8a04f0f951f6f8e265&c=176768485)  
 AMS Ambu Medical Supplies
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=a4f0d1fe0346b79d981cccc196b56b49677c23eaa1688b0dc1924b4f53ebcb56&c=188368681)  
-Konsortium Operations ( Roamfree Meats )
+![valued client Protech Marketing](https://www.invoicesonline.co.za/scripts/image.php?bid=8712&file=logo_300_100&type=&fe=4431bbc8092cec34d1a02189bb4723424d5ecb921345bf8a04f0f951f6f8e265&c=76521812)  
+Protech Marketing
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=a4f0d1fe0346b79d981cccc196b56b49677c23eaa1688b0dc1924b4f53ebcb56&c=30437116)  
-van Schaik rentals
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=4431bbc8092cec34d1a02189bb4723424d5ecb921345bf8a04f0f951f6f8e265&c=164250724)  
+ARCHITEK PTY LTD
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=a4f0d1fe0346b79d981cccc196b56b49677c23eaa1688b0dc1924b4f53ebcb56&c=153783737)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=4431bbc8092cec34d1a02189bb4723424d5ecb921345bf8a04f0f951f6f8e265&c=113766003)  
+CGHK Enterprises (PTY) LTD
 
-![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=a4f0d1fe0346b79d981cccc196b56b49677c23eaa1688b0dc1924b4f53ebcb56&c=115390353)  
-Super Sound Man (PTY) Ltd
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=4431bbc8092cec34d1a02189bb4723424d5ecb921345bf8a04f0f951f6f8e265&c=125723637)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=a4f0d1fe0346b79d981cccc196b56b49677c23eaa1688b0dc1924b4f53ebcb56&c=79858380)  
-Cooper Power
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=4431bbc8092cec34d1a02189bb4723424d5ecb921345bf8a04f0f951f6f8e265&c=113412731)  
+Dombieterfontein (PTY) LTD
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=a4f0d1fe0346b79d981cccc196b56b49677c23eaa1688b0dc1924b4f53ebcb56&c=83174470)  
-KTEN PARTS
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=4431bbc8092cec34d1a02189bb4723424d5ecb921345bf8a04f0f951f6f8e265&c=104775945)  
+Bchange Online CC
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=a4f0d1fe0346b79d981cccc196b56b49677c23eaa1688b0dc1924b4f53ebcb56&c=34620523)  
-Fox Alarms & Security CC
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=4431bbc8092cec34d1a02189bb4723424d5ecb921345bf8a04f0f951f6f8e265&c=209547585)  
+APTV Telecoms CC
+
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=4431bbc8092cec34d1a02189bb4723424d5ecb921345bf8a04f0f951f6f8e265&c=92988300)  
+Safe Train Mokgethwa (PTY) Ltd
+
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=4431bbc8092cec34d1a02189bb4723424d5ecb921345bf8a04f0f951f6f8e265&c=168853531)  
+Network Grey (Pty) Ltd
+
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=4431bbc8092cec34d1a02189bb4723424d5ecb921345bf8a04f0f951f6f8e265&c=1413310)  
+Forgotten Goods (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
