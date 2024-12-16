@@ -398,7 +398,7 @@ Schließen
 * [Aktuelle Nachrichten](https://www.zeit.de/index "ZEIT ONLINE")
 * Nutzungs- und Geschäftsbedingungen
 
-[ZEIT ONLINE](https://www.zeit.de/index "Nachrichten auf ZEIT ONLINE") [Nach oben](https://www.zeit.de/administratives/agb-kommentare-artikel "Zurück nach oben")
+[ZEIT ONLINE](https://www.zeit.de/index "Nachrichten auf ZEIT ONLINE") [Nach oben](#top "Zurück nach oben")
 
 * [Impressum](https://www.zeit.de/impressum/index)
 * [Hilfe & Kontakt](https://www.zeit.de/hilfe/hilfe)
