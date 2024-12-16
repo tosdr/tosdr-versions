@@ -308,7 +308,7 @@ Europe's leading entertainment brand
 
  
 
-* [![slide-Fremantle signs partnership with the Jamie Oliver Group](/.galleries/images/Fremantle-Jamie-Oliver_16-9.png?__scale=undefined&description=)
+* [![slide-Fremantle signs partnership with the Jamie Oliver Group](/.galleries/images/Fremantle-Jamie-Oliver_16-9-v2.png?__scale=undefined&description=)
     
     Fremantle signs partnership with the Jamie Oliver Group
     
