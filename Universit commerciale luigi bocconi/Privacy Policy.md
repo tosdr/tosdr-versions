@@ -214,7 +214,12 @@ About Us
     
     [Overview](https://www.unibocconi.eu/en/about-us/quality-assurance)
     
-    * [Quality assurance Bodies](https://www.unibocconi.eu/en/about-us/quality-assurance/quality-assurance-bodies)
+    * Quality assurance Bodies
+        
+        [Overview](https://www.unibocconi.eu/en/about-us/quality-assurance/quality-assurance-bodies)
+        
+        * [Annual Report](https://www.unibocconi.eu/en/about-us/quality-assurance/quality-assurance-bodies/annual-report)
+        
     * [Teaching Quality Assurance](https://www.unibocconi.eu/en/about-us/quality-assurance/teaching-quality-assurance)
     * [Quality Assurance in Research](https://www.unibocconi.eu/en/about-us/quality-assurance/quality-assurance-research)
     * [Quality Assurance in Third Mission - Social Impact](https://www.unibocconi.eu/en/about-us/quality-assurance/quality-assurance-third-mission-social-impact)
