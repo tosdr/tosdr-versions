@@ -31,6 +31,613 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La Sobremesa, con Juan Pablo Holguín: el rescate de la comida casera
+====================================================================
+
+El chef Juan Pablo Holguín estuvo en La Sobremesa, con El Señor del Sombrero, para hablar de su libro de recetas: Chiquita.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Juan Pablo Holguín y el Señor del Sombrero, dialogan en este podcast sobre la cocina casera,](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-88-1.jpg)
+
+Siempre hay que celebrar la publicación de un **libro de cocina**. Son aquellos recetarios que han acompañado a los cocineros, sean amateurs o profesionales, varias veces en la vida. Mayormente, **esconden historias**, recuerdos de cómo surgió un plato o cómo la familia lo fue preparando a lo largo de los años. En ese sentido, **Juan Pablo Holguín** publicó el libro **Chiquita: historias y recetas de la cocina de la abuela**, en el que va al **rescate de la comida casera.**
+
+### Más noticias
+
+* [Martín Kohan, entre el asado, el fútbol, el café y el teléfono,](https://www.elcomercio.com/sabores/kohan-asado-futbol-cafe-telefono.html "Martín Kohan, entre el asado, el fútbol, el café y el teléfono, en La Sobremesa") [en](https://www.elcomercio.com/sabores/kohan-asado-futbol-cafe-telefono.html "Martín Kohan, entre el asado, el fútbol, el café y el teléfono, en La Sobremesa") [La Sobremesa](https://www.elcomercio.com/sabores/kohan-asado-futbol-cafe-telefono.html "Martín Kohan, entre el asado, el fútbol, el café y el teléfono, en La Sobremesa")
+* [El sabor y la bohemia se juntan en un lugar llamado La Carnicería](https://www.elcomercio.com/sabores/restaurante-la-carniceria-sabor-bohemia.html "El sabor y la bohemia se juntan en un lugar llamado La Carnicería")
+* [CATS, la buena comida de un restaurante clásico de Quito](https://www.elcomercio.com/videos/sabores-video/cats-restaurante-buena-comida-buen-ambiente.html "CATS, la buena comida de un restaurante clásico de Quito")
+
+¿Quién es Juan Pablo Holguín?
+-----------------------------
+
+Juan Pablo Holguín llegó al podcast **La Sobremesa con el Señor del Sombrero** para hablar de su libro **Chiquita**. Su vida ha oscilado entre la cocina y la investigación. Fue uno de los nominados en esta categoría en el certamen del 12 de diciembre por el Día de la Gastronomía.
+
+Ha trabajado **20 años en restaurantes** y durante 14 ha ejercido como **docente** de algunos centros universitarios.
+
+Un tributo a la cocina casera y en honor a la abuela
+----------------------------------------------------
+
+Las **abuelas** cumplen un rol fundamental en la cocina casera. No en vano, los **italianos** tienen como referencia la tradición casera, la que heredan de la _nona_. Con esto adquiere aún más sentido el libro. Holguín buscar compartir las recetas familiares y rendir un homenaje a su abuela Mariana Calisto.
+
+Además, tiene un tercer objetivo y que quizá sea la más vital para estos tiempos de vorágine urbana: destacar la comida casera.
+
+Y en ese sentido, este libro adquiere valor. Su objetivo es **compartir las recetas familiares** que lo marcaron en su vida, pero también rendir **homenaje** a su **abuela**, **Mariana Calisto**. Finalmente, busca destacar la comida casera en estos tiempos en que muchas **tradiciones** se disipan.
+
+“La cocina casera está perdiendo espacio porque **la sociedad cambia**, pero también tiene que ver la **forma de alimentarse** de las personas. La introducción de **productos precocidos**, que **ahorran tiempo** y quizá sean más económicos, pero nunca va a tener ese sentimiento familiar”, dice[.](https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Ecuador "https://es.wikipedia.org/wiki/Gastronom%C3%ADa_de_Ecuador") 
+
+Escuche a **Juan Pablo Holguín,** en el podcast **La Sobremesa con el Señor del Sombrero**, para conocer mejor lo que piensa este chef y cómo se fueron preparando las recetas, algunas de nombres extraños, como pedos de monja, o de nombres con historia, como el puchero independentista.
+
+¿Cómo fue el desempeño de los ecuatorianos en la Champions League en 2024?
+==========================================================================
+
+La Uefa Champions League no regresará hasta 2025, y algunos ecuatorianos aún luchan por clasificar a la siguiente ronda.
+------------------------------------------------------------------------------------------------------------------------
+
+![Joel Ordóñez (d) en un partido de la Champions League ante en Aston Villa.](https://www.elcomercio.com/wp-content/uploads/2024/12/champions_ecuador_1.jpg)
+
+La **Champions League 2024/25** está siendo histórica para Ecuador, ya que por primera vez varios futbolistas del país compiten en el torneo más prestigioso de Europa. Entre ellos, destacan Piero Hincapié, Willian Pacho, Joel Ordóñez y Ángelo Preciado.
+
+A falta de dos fechas para que termine la fase de liga, **ya se han disputado seis jornadas**. Algunos ecuatorianos tienen bien encaminada su clasificación, mientras que otros deberán luchar en los últimos compromisos.
+
+### Más noticias:
+
+* [Piero Hincapié se lució en triunfo clave del Leverkusen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-bayer-leverkusen-augsburgo.html "Piero Hincapié se lució en triunfo clave del Leverkusen")
+* [Liga de Quito se proclamó como bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como bicampeón de la Liga Pro")
+* [Liga de Quito dedicó el título al fallecido Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-quito-titulo-marco-angulo.html "Liga de Quito dedicó el título al fallecido Marco Angulo")
+
+Piero Hincapié – Bayer Leverkusen
+---------------------------------
+
+Piero Hincapié es el ecuatoriano con mejor desempeño hasta ahora en esta Champions. Su equipo, el Bayer Leverkusen, ocupa la cuarta posición con 13 puntos, gracias a cuatro victorias, un empate y una derrota.
+
+A falta de dos partidos, los “Farmacéuticos” prácticamente tienen asegurado su paso a la siguiente ronda y solo resta definir si avanzarán directamente a octavos de final o a dieciseisavos.
+
+### Estadísticas de Hincapié:
+
+* **Partidos:** 6
+* **Intercepciones:** 4
+* **Entradas:** 11
+* **Recuperaciones:** 26
+* **Despejes:** 13
+* **Duelos ganados:** 56%
+* **Pases completados:** 91%
+
+![Piero Hincapié es una de las figuras del Bayer Leverkusen en la Champions League.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-25T153342.853-1024x683.jpg)
+
+Willian Pacho – París Saint-Germain
+-----------------------------------
+
+El PSG de Willian Pacho ha sido una de las decepciones del torneo. Pese al buen nivel del ecuatoriano y la calidad de su plantilla, la clasificación está en riesgo.
+
+Actualmente, el equipo parisino ocupa la posición 25, fuera de los puestos de clasificación, con 7 puntos producto de dos victorias, un empate y tres derrotas.
+
+**Estadísticas de Pacho:**
+
+* **Partidos:** 6
+* **Intercepciones:** 13
+* **Entradas:** 14
+* **Recuperaciones:** 37
+* **Despejes:** 19
+* **Duelos ganados:** 59%
+* **Pases completados:** 94%
+
+![Willian Pacho en un partido con el París Saint-Germain.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-26T165203.844-1024x683.jpg)
+
+Joel Ordóñez – Club Brujas
+--------------------------
+
+Joel Ordóñez ha debutado esta temporada en la Champions League y, a pesar de su juventud, ha demostrado estar a la altura de la competición, siendo fundamental para el Club Brujas.
+
+El equipo belga está en la posición 18 con 10 puntos, tras tres victorias, un empate y dos derrotas, y mantiene vivas sus esperanzas de avanzar de ronda.
+
+**Estadísticas de Ordóñez:**
+
+* **Partidos:** 6
+* **Intercepciones:** 8
+* **Entradas:** 4
+* **Recuperaciones:** 16
+* **Despejes:** 30
+* **Duelos ganados:** 44%
+* **Pases completados:** 92%
+
+![Joel Ordóñez es una de las figuras del Club Brujas del fútbol de Bélgica.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-12T115858.266-1024x683.jpg)
+
+Angelo Preciado – Sparta Praga
+------------------------------
+
+Ángelo Preciado ha tenido una participación limitada en esta Champions debido a una lesión que lo apartó de los últimos encuentros.
+
+Su equipo, el Sparta Praga, está prácticamente eliminado, con solo 4 puntos tras una victoria, un empate y cuatro derrotas.
+
+**Estadísticas de Preciado:**
+
+* **Partidos:** 3
+* **Intercepciones:** 6
+* **Entradas:** 6
+* **Recuperaciones:** 21
+* **Despejes:** 11
+* **Duelos ganados:** 56%
+* **Pases completados:** 52%
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/09/ENDRICK-PALMEIRAS-2024-09-18T131724.148.jpg)
+
+Ángelo Preciado ganó en su debut en la Champions League.
+
+San viernes
+-----------
+
+Siete muertos, en posible ajuste de cuentas, en Guayaquil
+=========================================================
+
+Sujetos en motocicleta abrieron fuego en el bloque 7 de Flor de Bastión.
+------------------------------------------------------------------------
+
+![Imagen referencial de Flor de Bastión, en Guayaquil, en donde hubo un ataque armado por supuesto ajuste de cuentas.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-1-1.jpg)
+
+Una nueva **masacre** sacudió a **Guayaquil** la mañana de este **domingo 15 de diciembre de 2024**. Hay **siete muertes** y varios **heridos**, entre ellos **menores de edad.** Hasta el momento, la **Policía Nacional** no ha emitido **ningún comunicado** ni divulgado el hecho en redes sociales.
+
+### Más noticias
+
+* [Bloque de Seguridad asegura que hay una reducción del 17% de crímenes en Ecuador](https://www.elcomercio.com/actualidad/seguridad/bloque-de-seguridad-asegura-reduccion-de-crimenes-ecuador.html "Bloque de Seguridad asegura que hay una reducción del 17% de crímenes en Ecuador")
+* [Bloque de Seguridad interviene ciudadelas privadas de la vía a Daule](https://www.elcomercio.com/actualidad/seguridad/bloque-de-seguridad-interviene-ciudadelas-privadas-via-a-daule.html "Bloque de Seguridad interviene ciudadelas privadas de la vía a Daule")
+* [Policía reclutaba menores de edad y los preparaba para sicarios en Manabí](https://www.elcomercio.com/actualidad/seguridad/policia-reclutaba-menores-edad-sicarios-manabi.html "Policía reclutaba menores de edad y los preparaba para sicarios en Manabí")
+
+Posible ajuste de cuentas en Flor de Bastión
+--------------------------------------------
+
+Aproximadamente a las **11:00** de este 15 de diciembre, en el bloque 7 de Flor de Bastión, al noroeste de Guayaquil, se produjo una balacera. Siete personas murieron y hay varios heridos. Si bien se espera el pronunciamiento oficial, en varias redes sociales se informa de que hay **menores de edad heridos.**
+
+Según **versiones extraoficiales**, varias **personas armadas** llegaron en motocicletas e ingresaron a una **vivienda**. Uno de los motivos sería un **ajuste de cuentas** en Guayaquil. Habría sido en contra de quienes **desertaron** de una **banda** y se unieron a **otra**.
+
+Hubo un **operativo policial** tras los hechos. Sin embargo, hasta las 18:06 de este domingo 15 de diciembre del 2024, no había un pronunciamiento oficial de la Policía Nacional[.](https://es.wikipedia.org/wiki/Polic%C3%ADa_Nacional_del_Ecuador "https://es.wikipedia.org/wiki/Polic%C3%ADa_Nacional_del_Ecuador")[](https://es.wikipedia.org/wiki/Polic%C3%ADa_Nacional_del_Ecuador "https://es.wikipedia.org/wiki/Polic%C3%ADa_Nacional_del_Ecuador")
+
+No es el único hecho criminal
+-----------------------------
+
+En la noche del **14 de diciembre del 2024**, encontraron el **cuerpo de una mujer**, que fue **asesinada** a tiros. Además de ser **menor de edad**, tenía un **embarazo de dos meses.**
+
+Según testigos y familiares, la **obligaron** a subirse a un **vehículo**. Luego, la familia recibió una llamada para que reconocieran el cuerpo. El hecho ocurrió en el **bloque 2 de Flor de Bastión.**
+
+Estos son parte de los hechos de violencia en esta zona de Guayaquil. Las tensiones entre los grupos delincuenciales es algo que causa preocupación entre los residentes del Puerto Principal.
+
+Noboa y Petro acuerdan en Galápagos fortalecer cooperación en frontera Ecuador y Colombia
+=========================================================================================
+
+Ambos gobernantes recorrieron la Estación Científica 'Charles Darwin'.
+----------------------------------------------------------------------
+
+![Fotografía cedida por la presidencia de Colombia del mandatario colombiano, Gustavo Petro (i), y su homólogo ecuatoriano, Daniel Noboa, durante su encuentro este sábado en las Islas Galápagos (Ecuador).](https://www.elcomercio.com/wp-content/uploads/2024/12/9b819510072028bf6450557ffddd40b2810eafac.jpg)
+
+Los **presidentes de Ecuador, Daniel Noboa, y de Colombia, Gustavo Petro**, han acordado este domingo 15 de diciembre de 2024, tras un encuentro en las Islas Galápagos, fortalecer la cooperación fronteriza y la protección ambiental.
+
+Así lo informó la Secretaría General de Comunicación de la Presidencia de Ecuador en un comunicado que resumió el encuentro mantenido este fin de semana por ambos mandatarios en la Isla Santa Cruz, en el corazón de las Galápagos, mil kilómetros al oeste de las costas continentales ecuatorianas.
+
+Petro, que inició el sábado la fugaz visita oficial a Galápagos, por invitación de Noboa, retornará este domingo a su país, según fuentes oficiales colombianas.
+
+Ambos gobernantes recorrieron en Santa Cruz la **Estación Científica ‘Charles Darwin’** y del Parque Nacional Galápagos, entidad encargada de vigilar y proteger la rica biodiversidad de este archipiélago que cuenta con especies de flora y fauna únicas en el planeta.
+
+Durante una intervención conjunta en la sede del Parque Nacional Galápagos, los dos jefes de Estado han expresado su interés de trabajar conjuntamente en asuntos de la agenda bilateral y regional.
+
+“Debemos ya entender que las necesidades y la compatibilidad de nuestras naciones siempre van a ser mayor que con otras potencias y, si es que nosotros nos juntamos, seremos una potencia imbatible”, aseguró Noboa en su intervención.
+
+Precisó que ambos gobiernos han decidido organizar una “mesa de trabajo” conjunta para empezar a discutir estrategias que permitan cambiar la realidad de la zona fronteriza, sobre todo en la región costera del río Mataje, afectada por el accionar de grupos de delincuencia organizada y el narcotráfico.
+
+“Conversamos sobre Mataje. Vamos a tener una mesa de trabajo entre nuestros ministerios de Defensa para analizar y tomar la mejor decisión. Al final del día, los beneficiarios deben ser las poblaciones que están ahí” asentadas, señaló el mandatario ecuatoriano.
+
+La zona del Mataje, en la frontera continental de ambos países, es un lugar “de cruce de economías ilegales”, recordó Petro tras enfatizar en que lo que se busca es que esa se convierta en una zona para “el cruce de economías lícitas”.
+
+Petro recordó que ambos países son ricos en producción agrícola y puso como ejemplo el café y el cacao que se cultivan en Colombia y Ecuador, productos que gozan de gran acogida en los mercados mundiales.
+
+El impulso de estos objetivos podría articular la lucha de ambos países contra el narcotráfico, uno de los flagelos que azota a ambos lados de la frontera y que tiene repercusiones regionales, añadió el colombiano.
+
+“Las tensiones sociales y políticas serán inmensas, pero América Latina tiene que unirse” para salir adelante, afirmó Petro que no dudó en reiterar que Latinoamérica puede convertirse en “la potencia mundial de la vida”.
+
+Por su parte, la ministra ecuatoriana de Relaciones Exteriores, Gabriela Sommerfeld, anunció que autoridades de ambos países trabajarán en una “hoja de ruta” para ser analizada en la reunión del Gabinete Binacional, programada para los próximos meses.
+
+Esa reunión periódica entre los mandatarios con representantes de sus gabinetes de ministros, es un mecanismo ideado para coordinar, discutir y dar seguimiento a las acciones comunes que se acuerdan en dichos encuentros.
+
+Petro y Noboa no han logrado escapar a la influencia que genera el archipiélago de Galápagos y han hablado también de la necesidad que supone para sus gobiernos el cuidado del medio ambiente.
+
+El presidente Petro expresó su preocupación sobre las proyecciones de aumento de la temperatura en la región para el año 2030, estimadas en las últimas reuniones de la COP-16 y COP-29, que alertan de un incremento del 15 por ciento en las emisiones de dióxido de carbono.
+
+“Esto significa una catástrofe, no solo para la vida natural sino para nosotros mismos, y sobre todo para los pueblos que vivimos al sur, porque tiene un efecto social diferencial”, ya que “entre más pobres, más efectos tiene”, advirtió el mandatario colombiano.
+
+Noboa por su parte, destacó los niveles de cooperación entre Ecuador y Colombia y agradeció a Petro por haber apoyado a su país con la venta de energía eléctrica, en medio de la crisis de generación que ha afectado a Ecuador en los últimos meses y que ha derivado en la aplicación de prolongados apagones a escala nacional.
+
+“Siempre estaremos agradecidos y es una lección importante de cómo debemos como región estar interconectados en materia energética”, apostilló Noboa. EFE
+
+Planillas de luz llegan con rebajas por los cortes
+==================================================
+
+Las planillas de luz comenzaron a llegar con rebajas significativas. Algunos las sienten como una compensación luego de soportar los cortes de luz.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Este mes comenzaron a llegar las planillas de luz con los descuentos ofrecidos por el Gobierno.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-1.jpg)
+
+Las **planillas** del **servicio eléctrico** están llegando con las **rebajas** prometidas por el **Gobierno**. Así lo confirmaron algunas personas consultadas por **EL COMERCIO** y cuentan que en algunos casos son descuentos considerables.
+
+### Más noticias
+
+* [Quito tendrá cortes de luz de dos horas del lunes 16 al jueves 19 de diciembre](https://www.elcomercio.com/actualidad/quito/quito-cortes-luz-dos-horas-lunes-16-jueves-19-diciembre.html "Quito tendrá cortes de luz de dos horas del lunes 16 al jueves 19 de diciembre")
+* [Cortes de luz en Cuenca del lunes 16 al jueves 19 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-en-cuenca-del-lunes-16-al-jueves-19-de-diciembre.html "Cortes de luz en Cuenca del lunes 16 al jueves 19 de diciembre")
+* [Cortes de luz en Guayaquil del lunes 16 al jueves 19 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-en-guayaquil-del-lunes-16-al-jueves-19-de-diciembre.html "Cortes de luz en Guayaquil del lunes 16 al jueves 19 de diciembre")
+
+Planillas de luz con rebaja, una promesa de Gobierno
+----------------------------------------------------
+
+El **30 de octubre** del **2024**, el presidente **Daniel Noboa** emitió el **Decreto Ejecutivo 442.** En este anunciaba un descuento en las planillas de luz hasta el consumo de **180 kilovatios por hora.**
+
+Ahora, estas **planillas**, con considerables descuentos, llegaron a los hogares ecuatorianos. Es una medida que regirá en las facturas de **noviembre**, **diciembre** de este 2024, y de **enero** y **febrero** del próximo año.
+
+Rebaja en las planillas
+-----------------------
+
+**Reynaldo Valdivieso** solía pagar alrededor de **19 dólares** mensuales en las planillas de luz. En su casa, todo es eléctrico. La factura para pagar este mes salió **6,76 dólares.** Lo mismo pasó en la casa de su madre. Normalmente, la planilla es de **48 dólares**; ahora deberá pagar **25 dólares.**
+
+En cambio, Álex Farfán, con un local comercial en San Antonio de Pichincha, solo debió pagar alrededor de **3,8 dólares,** cuando regularmente era de **9,3**. Y Susana Lizarzaburu deberá pagar 6 dólares, frente a los 18 que cancelaba anteriormente[.](https://es.wikipedia.org/wiki/Ministerio_de_Energ%C3%ADa_y_Minas_(Ecuador)#:~:text=%E2%80%8B%20Actualmente%20el%20Ministerio%20de,Antonio%20Goncalves%20Guillermo%20Lasso. "https://es.wikipedia.org/wiki/Ministerio_de_Energ%C3%ADa_y_Minas_(Ecuador)#:~:text=%E2%80%8B%20Actualmente%20el%20Ministerio%20de,Antonio%20Goncalves%20Guillermo%20Lasso.")
+
+¿La reducción en las planillas compensa?
+----------------------------------------
+
+**Valdivieso** sí cree que por lo menos es una medida compensatoria. “Sí, creo que **en algo alivia** el malestar que nos han dejado los cortes de luz”, afirma. En esa misma tónica, Lizarzaburu dice que “sí siento que **algo me recompensa**“.
+
+En cambio, Farfán no cree que se compense totalmente, pero en algo ayuda. “No, definitivamente no, pero como esto provocó disminución en las ventas (en el local), en una mínima parte alivia y **alegra no pagar** por un servicio que no se tuvo al 100%”, afirma.
+
+‘Marimar’ de Thalía es la mejor canción de telenovela
+=====================================================
+
+El icónico tema de Thalía lidera el ranking de Billboard.
+---------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/marimar-El-Comercio.jpg)
+
+La revista **Billboard** ha nombrado a ‘**Marimar**‘, interpretada por **Thalía**, como la **mejor canción de telenovela de todos los tiempos**. Este tema, que dio vida a la historia de la costeñita más famosa de México, encabeza el ranking **The 100 Best Telenovela Theme Songs**.
+
+### Más noticias
+
+* **[Filtran chats de Liam Payne antes de morir](https://www.elcomercio.com/afull/chats-liam-payne-one-direction.html "https://www.elcomercio.com/afull/chats-liam-payne-one-direction.html")**
+
+La canción se popularizó en 1995 como parte de la banda sonora de la telenovela ‘Marimar’, producida por Televisa y protagonizada por **Thalía y Eduardo Capetillo**. Su pegajoso coro, “**Marimar, costeñita soy**”, marcó una generación y sigue siendo recordado con nostalgia.
+
+El anuncio que emocionó a los fans de Thalía
+--------------------------------------------
+
+El reconocimiento fue anunciado en redes sociales, donde Thalía, con sus 22 millones de seguidores en **Instagram**, agradeció emocionada. “Gracias a mi público amado que siempre revive esta etapa de mi vida”, escribió la actriz y cantante, quien además destacó la importancia del tema en su carrera.
+
+Thalía no solo protagonizó Marimar, sino que también se consolidó como un ícono de las telenovelas con producciones como María la del Barrio y Rosalinda. Estas historias llevaron su música y actuación a toda Latinoamérica, Europa y Estados Unidos.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDIRqKKpedU/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Thalia (@thalia)](https://www.instagram.com/p/DDIRqKKpedU/?utm_source=ig_embed&utm_campaign=loading)
+
+Otras canciones memorables del ranking
+--------------------------------------
+
+**El listado de Billboard** también incluye clásicos como **Rebelde de ‘RBD**‘, que marcó el fenómeno juvenil de 2004, y Abrázame muy fuerte de Juan Gabriel, tema principal de la telenovela homónima de 2000.
+
+Enrique Iglesias aparece con Por amarte, banda sonora de **Marisol** (1996), mientras Belinda brilla con **El baile del sapito**, recordado por su telenovela **‘Cómplices al rescate’** (2002). **Luis Miguel** también figura con ‘**Amor, amor, amor**‘, del drama **‘El manantial’** (2001).
+
+Estos temas son parte esencial del legado cultural de las telenovelas, donde música y narrativa se entrelazan para dejar huella en millones de espectadores.
+
+Amparo Guillén será velada en el icónico Palacio de Cristal
+===========================================================
+
+El Palacio de Cristal abrirá sus puertas para despedirla.
+---------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/amparo-guillen-El-Comercio.jpg)
+
+Los restos de **Amparo Guillén**, recordada como ‘**Lupita**’ en la serie ‘**Mis Adorables Entenados**’, llegarán este 16 de diciembre de 2024 a Ecuador.
+
+Según confirmó el actor Andrés Garzón en Instagram, el velorio tendrá lugar en el Palacio de Cristal del Malecón 2000, en Guayaquil.
+
+### Más noticias:
+
+* **[Hijo de Amparo Guillén muere dos días después de la actriz](https://www.elcomercio.com/tendencias/hijo-de-amparo-guillen-muere-dos-dias-despues-de-la-actriz.html "https://www.elcomercio.com/tendencias/hijo-de-amparo-guillen-muere-dos-dias-despues-de-la-actriz.html")**
+* **[Raúl Ilaquiche tendrá sepultura en Tigua, conforme a su deseo](https://www.elcomercio.com/actualidad/raul-ilaquiche-sepultura-tigua-deseo.html "https://www.elcomercio.com/actualidad/raul-ilaquiche-sepultura-tigua-deseo.html")**
+
+El homenaje será entre las 09:00 y 16:00, permitiendo que los seguidores de la actriz puedan rendirle tributo. “Están invitados para dar el adiós a esta querida madre de la televisión ecuatoriana”, escribió Garzón en su publicación.
+
+Posteriormente, los restos serán trasladados a la Sala de Descanso de la Junta de Beneficencia, donde se velarán hasta el 17 de diciembre, a las 17:00.
+
+Un lugar especial para una actriz inolvidable
+---------------------------------------------
+
+El Palacio de Cristal, uno de los espacios más emblemáticos de Guayaquil, será el escenario de esta despedida. La locación fue elegida para permitir que la mayor cantidad de personas pueda rendir homenaje a la actriz que marcó una época.
+
+Amparo Guillén, quien falleció el 12 de diciembre a causa de un infarto en Colombia, será recordada como una de las figuras más entrañables de la televisión nacional. En vida, dio vida a personajes inolvidables, entre ellos, ‘Lupita’, la madre abnegada y amorosa de ‘Mis Adorables Entenados’.
+
+‘Mis Adorables Entenados’: un legado cultural
+---------------------------------------------
+
+La serie, emitida en los años 90, se convirtió en un fenómeno cultural. Guillén compartió pantalla con grandes actores como Oswaldo Segura, Andrés Garzón y Héctor Garzón. El carisma y la calidez de su personaje conquistaron a toda una generación de televidentes.
+
+Su fallecimiento coincidió con un momento difícil para su familia. Según Diario Extra, la actriz estaba en Colombia para visitar a su hijo Roberto Ávila, quien estaba hospitalizado por un traumatismo cerebral. Tristemente, él también falleció días después de su madre.
+
+El legado de Amparo Guillén trasciende la pantalla. Su trabajo en la televisión ecuatoriana y el cariño de su público la convierten en un ícono inolvidable.
+
+Videojuego ecuatoriano Despelote llega a Nintendo Switch en 2025
+================================================================
+
+El anuncio se realizó durante el evento Wholesome Snack: The Game Awards Edition.
+---------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/despelote-El-Comercio.jpg)
+
+El videojuego ecuatoriano **Despelote**, desarrollado por Julián Cordero y Sebastián Valbuena, confirmó su lanzamiento en **Nintendo Switch** para principios de 2025.
+
+Este título, distribuido por **Panic**, destaca por su enfoque narrativo y su ambientación **nostálgica en Quito de los años 90**.
+
+A diferencia de los simuladores de fútbol tradicionales, Despelote ofrece una experiencia única basada en la vida cotidiana de Julián, un niño de ocho años, mientras Ecuador vive la emoción de clasificarse al Mundial de Fútbol 2002.
+
+La cuenta oficial de Nintendo Latinoamérica celebró el anuncio con un video promocional que emocionó a los usuarios. Comentarios como “¡Qué maravilla!”, “Esto es arte puro”, inundaron las redes tras el lanzamiento del tráiler.
+
+Quito y su esencia en el corazón del juego
+------------------------------------------
+
+> Despelote es un juego de fútbol, pero se trata de la gente. Adéntrate en las calles y parques de Quito a través de los ojos y los oídos de Julián, un pequeño de ocho años. Echa un pase, acomoda y dispara tu pelota de fútbol a lo largo del pueblo, y descubre qué sucede cuando… [pic.twitter.com/Ma7AvEhb9R](https://t.co/Ma7AvEhb9R)
+> 
+> — Nintendo Latinoamérica (@NintendoLatam) [December 11, 2024](https://twitter.com/NintendoLatam/status/1866994921187500397?ref_src=twsrc%5Etfw)
+
+El arte de _Despelote_ combina gráficos 3D con tonos sepia, representando las calles y paisajes de Quito de manera auténtica. Los desarrolladores utilizaron referencias reales de fotos y sonidos de la ciudad, incluidos colegios y barrios emblemáticos, para recrear su atmósfera.
+
+La cuenta oficial del juego en X (antes Twitter) muestra imágenes del proceso, destacando el trabajo de Valbuena en el diseño artístico.
+
+Julián Cordero, en una entrevista para Hipertextual, mencionó que el nombre del juego surgió de un comentario de su madre: “Eso suena como un despelote”. Así, este título refleja el caos y la alegría de una infancia ecuatoriana.
+
+Expandiendo fronteras
+---------------------
+
+Aunque _Despelote_ ya estaba confirmado para PlayStation 4, PlayStation 5, Xbox Series y PC, la llegada a Nintendo Switch marca un hito especial. Nintendo es una plataforma global que abre oportunidades para que más jugadores experimenten este juego lleno de autenticidad cultural.
+
+Según Cordero, el juego busca conectar al jugador con la nostalgia y las emociones de una época inolvidable para Ecuador. La incorporación de la perspectiva en primera persona y la interacción en las calles de Quito hacen de _Despelote_ una propuesta innovadora y personal.
+
+El videojuego estará disponible en las principales plataformas, incluidas Steam y Epic Games Store, a partir de 2025.
+
+Moisés Caicedo brilló, Chelsea ganó y es escolta del Liverpool
+==============================================================
+
+Moisés Caicedo y el Chelsea son escoltas del Liverpool en la tabla de la Premier League.
+----------------------------------------------------------------------------------------
+
+![Moisés Caicedo en un partido de la Premier League con el Chelsea.](https://www.elcomercio.com/wp-content/uploads/2024/12/moi_segundo_1.jpg)
+
+**Moisés Caicedo** tuvo una nueva jornada a gran nivel en la fecha 16 de la Premier League. Este domingo 15 de diciembre de 2024 fue clave en la victoria 2-1 ante el difícil, complicado y bien estructurado Brentford.
+
+Moisés Caicedo completo **16 titularidades de 16 posibles en la Premier League**. Completó los 90 minutos en 15 y solo salió del terreno de juego en la victoria 1-2 ante el Leicester City. Salió a los 81′ para dar espacio a Roméo Lavia.
+
+### Más noticias:
+
+* [Piero Hincapié se lució en triunfo clave del Leverkusen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-bayer-leverkusen-augsburgo.html "Piero Hincapié se lució en triunfo clave del Leverkusen")
+* [Liga de Quito se proclamó como bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como bicampeón de la Liga Pro")
+* [Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-hinchas-estadio-campeon-ligapro.html "Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro")
+
+Triunfo clave del Chelsea
+-------------------------
+
+El Chelsea dominó las acciones del partido desde el primer minuto. **Jadon Sancho, Cole Palmer, Noni Madueke y Nicolas Jackson** conformaron el cuarteto de ataque que presionó a la línea de tres de la visita.
+
+Los cuatro atacantes tuvieron el respaldo de **Caicedo y Enzo Pérez**. Los sudamericanos se encargaron de darle el equilibrio necesario a la estructura de Enzo Maresca y de dar el primer pase para iniciar los ataques.
+
+A los 43 minutos del primer tiempo llegó el 1-0 con un certero golpe de cabeza del defensor izquierdo Marca Cucurella. **La jugada la lideró por la zona derecha Madueke**. El británico de 22 años levantó un preciso centro para que conecte el español.
+
+El 2-0 fue obra de Jackson a los 80 minutos. La jugada la se inició en el propio terreno de los de Londres con un balón recuperado de Caicedo. Rápidamente, pasó el balón a Fernández que envió un pase en profundidad para uno de los goleadores del encuentro.
+
+El 2-1 se registró a lo 90 minutos con la firma del camerunés Bryan Mbeumo. El atacante **aprovechó una jugada en la que el ecuatoriano perdió** el balón cerca del área rival. El contragolpe fue preciso y veloz para descontar en el marcador.
+
+El rendimiento de los locales promedio los 7,4 puntos para el sitio especializado SofaScore. El **‘Niño Moi’ alcanzó los 7,3 punto de forma individual**, mientras que 365Scores lo calificó con 7,5.
+
+![EFE.](https://www.elcomercio.com/wp-content/uploads/2024/12/moi_tercero_3-1024x683.jpg)
+
+EFE.
+
+Chelsea es escolta
+------------------
+
+Con este resultado los ‘Blues’ se consolidan en el **segundo lugar de la tabla con 34 puntos** y un gol diferencia positivo de +19. Su campaña se resumen en 10 victorias, cuatro empates y dos derrotas.
+
+Liverpool es el líder con 36 puntos, pero con un partido menos que los de Londres. De ganar ese encuentro pendiente la distancia con el Chelsea se podrá extender de dos a cinco puntos y mantendrá  
+una ventaja cómoda en la tabla.
+
+Arsenal (30), Nottingham Forest (28), **Manchester City (27), Aston Villa (25), Bournemouth (24)**, Fulham (24), Brighton (24) y Tottenham (23) completan los 10 primeros lugares de la tabla y están peleando por los cupos a la Champions League, la Europa League y la Conference League.
+
+El calendario del **Chelsea en el 2024 aún tiene por delante el encuentro ante el Shamrock Rovers** en la sexta fecha de la Conference; y luego ante el Everton, Fulham y el Ipswich Town por la Premier.
+
+![EFE.](https://www.elcomercio.com/wp-content/uploads/2024/12/moi_segundo_2-1024x683.jpg)
+
+EFE.
+
+### San viernes
+
+‘Malcolm in the Middle’ vuelve a Disney+, pero con una notable ausencia
+=======================================================================
+
+¿A qué se debe la ausencia de uno de los actores principales del elenco?
+------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/malcolm-El-Comercio.jpg)
+
+El icónico programa de comedia, ‘**Malcolm in the Middle**’, regresa después de 18 años con cuatro nuevos episodios.
+
+**Disney+** anunció la noticia mediante un video promocional que incluyó a Frankie Muniz (Malcolm), Bryan Cranston (Hal) y Jane Kaczmarek (Lois).
+
+“He estado esperando este momento por 18 años”, declaró Muniz emocionado. Sin embargo, la ausencia de Erik Per Sullivan, quien interpretó a Dewey, dejó a muchos seguidores con dudas sobre su regreso.
+
+La vida de Erik Per Sullivan tras ‘Malcolm in the Middle’
+---------------------------------------------------------
+
+Erik Per Sullivan, conocido por dar vida al carismático y peculiar Dewey, se alejó del mundo de la actuación tras el final de la serie en 2006. Según una entrevista de Jane Kaczmarek con el canal de YouTube Malcolm France, Sullivan decidió enfocar su vida en los estudios.
+
+* **[Seis frases icónicas de ‘Malcolm in the middle’ que todo fan recuerda](https://www.elcomercio.com/tendencias/malcolm-in-the-middle-frases-meme-comic-con-guayaquil.html)**
+* **[Las 11 escenas detrás de la ‘intro’ de ‘Malcolm in the Middle’](https://www.elcomercio.com/afull/malcolm-serie-television-musica-curiosidades.html "https://www.elcomercio.com/afull/malcolm-serie-television-musica-curiosidades.html")**
+
+“Está muy bien. No le interesaba actuar en absoluto después de ‘Malcolm”, explicó la actriz.
+
+Sullivan, nacido en Worcester en 1991, comenzó en la serie a los siete años y finalizó a los 14. Desde entonces, ha preferido mantenerse alejado de los reflectores.
+
+Kaczmarek agregó que el actor se dedica a estudiar literatura en una universidad prestigiosa en los Estados Unidos, aunque no reveló el nombre por respeto a su privacidad. “Le encanta Charles Dickens”, detalló.
+
+Un regreso esperado, pero con ausencias
+---------------------------------------
+
+El regreso de ‘Malcolm in the Middle’ promete revivir la nostalgia de millones de fans. Los nuevos episodios explorarán cómo Malcolm y su hija se reencuentran con el caos familiar en el 40° aniversario de bodas de Hal y Lois.
+
+Sin embargo, no se ha confirmado la participación de otros miembros del elenco original, como Christopher Masterson (Francis), Justin Berfield (Reese) y el pequeño Jamie.
+
+Mientras los seguidores esperan la serie con entusiasmo, muchos lamentan la ausencia de Sullivan. Su decisión de alejarse de la actuación lo ha convertido en una figura enigmática, pero su interpretación de Dewey sigue viva en la memoria colectiva.
+
+Como mencionó el portal Screen Rant, “Erik Per Sullivan marcó una generación, aunque su tiempo en pantalla fue breve”.
+
+Filtran chats de Liam Payne antes de morir
+==========================================
+
+El misterio de los últimos mensajes de Liam Payne sale a luz.
+-------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/liam-El-Comercio.jpg)
+
+El 16 de octubre de 2024, el mundo se estremeció con la trágica muerte de **Liam Payne**, exintegrante de **One Direction.** El cantante, de 32 años, falleció tras caer del tercer piso del hotel CasaSur, en Palermo, Buenos Aires.
+
+Aunque en un inicio se reportó como un accidente, las investigaciones revelaron un contexto más complejo, con cinco personas ya implicadas en el caso.
+
+El periodista Rolando Barbano, en el programa _Telenoche_ (eltrece), expuso los últimos chats de Payne, obtenidos del celular del cantante, como parte de la investigación judicial.
+
+Los últimos chats: soledad y controversia
+-----------------------------------------
+
+Según lo expuesto en Telenoche, que recoge un artículo de la revista VEA, Payne conversó con una prostituta que contrató el día de su muerte. En sus mensajes, escritos cerca de las 09:46, Payne expresó su deseo de “jugar” y le ofreció 5 000 dólares por pasar el día con él.
+
+“Veni a mi hotel. Nos enfiestamos solo vos y yo”, escribió. La mujer aceptó la propuesta, pero llegó acompañada de una amiga, lo que generó tensión más tarde por el pago acordado.
+
+El cantante intentó renegociar el monto, escribiendo: “Es un montón. Discutámoslo. Negociemos”. La respuesta fue: “Es todo el día, las dos juntas”.
+
+Sin embargo, la situación se salió de control y culminó en un escándalo dentro del hotel, situación que conoció su amigo **Rogelio** **Nores**, señala el medio.
+
+Investigación en marcha: cinco implicados
+-----------------------------------------
+
+La jueza Laura Bruniard lidera la investigación que involucra a cinco personas. Entre ellos están Rogelio Nores, amigo y mánager de Payne, acusado de abandono de persona, seguido de muerte y facilitación de estupefacientes. También figuran Braian Paiz y Ezequiel Pereyra, empleados del hotel, junto con Gilda Martín, gerenta de CasaSur, y Esteban Grassi, jefe de seguridad.
+
+Grassi hizo una llamada de emergencia previa al hallazgo del cuerpo, lo que plantea dudas sobre el tiempo en que ocurrió la tragedia. Según fuentes judiciales, Payne habría consumido alcohol, drogas y medicamentos psiquiátricos antes del accidente.
+
+La tragedia de Liam Payne, quien alcanzó la fama con One Direction y luego con su carrera solista, deja un vacío en sus fans. Los chats filtrados y las investigaciones en curso arrojan luz sobre sus últimos momentos, pero también generan más preguntas que respuestas.
+
+Últimos días para matriculación y revisión técnica vehicular en Quito
+=====================================================================
+
+Las multas por no cumplir con el proceso de matrícula y revisión vehicular en Quito van desde 25 hasta 50 dólares
+-----------------------------------------------------------------------------------------------------------------
+
+![Los centros de revisión matricular atenderán de lunes a sábado.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-13T181818.039.jpg)
+
+La **Agencia Metropolitana de Tránsito** (AMT) informó sobre las últimas fechas habilitadas para cumplir los procesos obligatorios vehiculares en Quito. Estos son la **matriculación,** revisión y liberación de vehículos.
+
+### Más noticias
+
+* [Cortes de luz en Quito este sábado 14 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-sabado-14-diciembre.html "Cortes de luz en Quito este sábado 14 de diciembre")
+* [Av. Ladrón de Guevara estará cerrada desde el 13 de diciembre, en Quito](https://www.elcomercio.com/actualidad/quito/av-ladron-de-guevara-estara-cerrada-desde-el-13-de-diciembre-en-quito.html "Av. Ladrón de Guevara estará cerrada desde el 13 de diciembre, en Quito")
+* [Volcán Cotopaxi presenta cambios en su actividad sísmica](https://www.elcomercio.com/actualidad/ecuador/volcan-cotopaxi-cambios-actividad-sismica.html "Volcán Cotopaxi presenta cambios en su actividad sísmica")
+
+Último plazo para que matricules tu auto
+----------------------------------------
+
+La AMT informó que, debido al cierre del año fiscal del Servicio de Rentas Internas (SRI) y de la Agencia Nacional de Tránsito (ANT), las fechas serán las siguientes:
+
+* La **matriculación en línea** se podrá hacer hasta el 19 de diciembre de 2024 a través de la página [www.amt.gob.ec](https://www.amt.gob.ec/ "https://www.amt.gob.ec/")
+* **Matriculación de vehículos nuevos** por parte de las concesionarias hasta el 19 de diciembre de 2024.
+* El **Centro de Matriculación Bicentenario y Quitumbe** atenderán trámites presenciales hasta el 27 de diciembre, de lunes a viernes, de 08:00 a 16:30.
+* En **Centros de Revisión Técnica Vehicular** se atenderá hasta el 27 de diciembre de 2024, de lunes a viernes, de 08:00 a 17:00; sábados, de 08:00 a 12:00.
+* En los **Centros de Retención Vehicular,** se hará la liberación de vehículos ingresados por infringir ordenanzas y leyes hasta el 27 de diciembre de 2024. Los horarios son de lunes a viernes de 08:00 a 21:00, sábados y feriados de 08:00 a 14:00.
+
+Multas por no cumplir el proceso
+--------------------------------
+
+La matriculación vehicular y la revisión son **procesos obligatorios** para todos los dueños de automotores. Si no cumples con el trámite en el año en curso, deberás pagar las **siguientes multas.**
+
+* **25 dólares** por calendarización (no matricular en el mes que te correspondía según el último dígito de la placa)
+* **25 dólares de recargo anual** por no pagar la matrícula
+* **50 dólares como multa anual** por convocatoria, es decir, por no aprobar la revisión técnica vehicular
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) |  
+> ¡Aún estás a tiempo!  
+> 🗓️ Diciembre es el mes para ponerte al día con tu vehículo.  
+> ✅ Realiza la Revisión Técnica Vehicular y matrícula el automotor, evita que la multa siga creciendo.  
+> ☝️¡Cierra el año sin preocupaciones!  
+>   
+> Con responsabilidad ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Zwx8UK09Rf](https://t.co/Zwx8UK09Rf)
+> 
+> — AMTQuito (@AMT\_Quito) [December 9, 2024](https://twitter.com/AMT_Quito/status/1866112814017896561?ref_src=twsrc%5Etfw)
+
+La relación entre ‘Los Sangurimas’ y ‘Cien años de soledad’
+===========================================================
+
+Existen varios paralelismos entre ‘Los Sangurimas’ y ‘Cien años de soledad’.
+----------------------------------------------------------------------------
+
+![Jacques Guillard sugirió que ‘Los Sangurimas’ inspiró ‘Cien años de soledad’. Foto: Instagram @netflixlat.](https://www.elcomercio.com/wp-content/uploads/2024/12/Cien-anos-de-soledad.jpg)
+
+La **literatura latinoamericana** ha sido testigo de **obras maestras** que se han mantenido a lo largo del tiempo por su **gran calidad literaria**. Entre ellas, destacan ejemplos notables como **‘Los Sangurimas’** de **José de la Cuadra** y **‘Cien años de soledad’** de **Gabriel García Márquez**.  
+
+### Más noticias
+
+* [Este es el pueblo que inspiró a García Márquez para crear Macondo en ‘Cien años de soledad’](https://www.elcomercio.com/tendencias/macondo-cien-anos-de-soledad.html "https://www.elcomercio.com/tendencias/macondo-cien-anos-de-soledad.html")
+* [La serie de Netflix ‘Cien años de soledad’ estrena su tráiler oficial](https://www.elcomercio.com/tendencias/la-serie-de-netflix-cien-anos-de-soledad-estrena-su-trailer-oficial.html "https://www.elcomercio.com/tendencias/la-serie-de-netflix-cien-anos-de-soledad-estrena-su-trailer-oficial.html")
+
+A continuación, se explora cómo, a lo largo de la **historia de la literatura latinoamericana**, varios **académicos y críticos** han sugerido que la primera fue precursora de la segunda, debido a **conexiones temáticas y narrativas** que enriquecen la comprensión del realismo mágico en la literatura. 
+
+Cabe destacar que el interés por **‘Cien años de soledad’** ha resurgido en las nuevas generaciones gracias también al impulso dado por la **serie de Netflix** sobre esta novela. 
+
+**El origen de ‘Los Sangurimas’**
+---------------------------------
+
+Según la web del [Ministerio de Cultura y Patrimonio](https://www.culturaypatrimonio.gob.ec/jose-de-la-cuadra/ "https://www.culturaypatrimonio.gob.ec/jose-de-la-cuadra/"), **José de la Cuadra**, nacido en **Guayaquil** el 3 de septiembre de 1903, fue abogado, periodista, docente y uno de los grandes escritores ecuatorianos. Publicó obras como **‘La Tigra’ y ‘Los Sangurimas’**, esta última su novela más destacada, que retrata la **vida montubia con realismo socia**l y elementos de realismo mágico. Aborda las tensiones de una **sociedad patriarcal en la Costa ecuatoriana**. Su estilo evolucionó del **modernismo al realismo social**, convirtiéndolo en un referente del cuento ecuatoriano y sudamericano. También destacó como profesor, vicerrector y catedrático, además de ocupar varios cargos diplomáticos. Falleció en Guayaquil el 27 de febrero de 1941.
+
+**Paralelismos literarios**
+---------------------------
+
+Según un artículo de **[María Isabel Mena](https://lljournal.commons.gc.cuny.edu/mena/#:~:text=%5B2%5D%20En%201977%2C%20Jacques,para%20escribir%20su%20obra%20maestra. "https://lljournal.commons.gc.cuny.edu/mena/#:~:text=%5B2%5D%20En%201977%2C%20Jacques,para%20escribir%20su%20obra%20maestra.")**, de la Universidad Central del Ecuador, **Jacques Guillard**, especialista en García Márquez, publicó en 1977 un estudio titulado **‘De Los Sangurimas a Cien años de soledad’** en la revista Cambio, en el que sugería que **García Márquez** podría haberse ‘inspirado’ en ‘Los Sangurimas’ para escribir su obra maestra.  
+
+Desde entonces, teóricos como Fernando Tinajero, Diego Araujo, María Augusta Vintimilla, Miguel Donoso Pareja y Fernando Nina han revisitado la idea de considerar ‘Los Sangurimas’ como una **precursora del real maravilloso o del realismo mágico**. 
+
+Según **Jorge Santtori**, escritor, docente y librero quiteño, aunque ‘Cien años de soledad’ de **Gabriel García Márquez** y ‘Los Sangurimas’ de **José de la Cuadra** comparten ciertos elementos, como el enfoque en **comunidades rurales y aisladas**, difieren significativamente en estilo y escuela literaria. Mientras que ‘Los Sangurimas’ pertenece al **realismo costumbrista** y explora mitos y tradiciones de la costa ecuatoriana, ‘Cien años de soledad’ se enmarca en el **realismo mágico**, caracterizado por la convivencia de lo cotidiano con lo fantástico.
+
+Santtori sugiere que **García Márquez** pudo haber leído la obra de De la Cuadra, pero destaca que **cada novela refleja su propio contexto y crítica social**, evitando considerarlas como una continuidad directa. Ambas abordan la **tensión entre la modernidad y la tradición**, y cuestionan los impactos de la industrialización en América Latina. Pese a las similitudes temáticas, sus narrativas son **estilísticamente opuestas**: lineal en ‘Los Sangurimas’ y no lineal en ‘Cien años de soledad’. 
+
+**Contexto histórico y cultural** 
+----------------------------------
+
+**‘Los Sangurimas’**, publicada en 1934, es una obra fundamental del **realismo literario ecuatoriano**. La novela narra la historia de una **familia montubia**, centrada en **Nicasio Sangurima**, un patriarca cuyas acciones y decisiones moldean el **destino de su estirpe**. 
+
+Por otro lado, **‘Cien años de soledad’**, publicada en 1967, se ha consagrado como un **ícono del realismo mágico**, al narrar la **saga de la familia Buendía** en el pueblo ficticio de **Macondo**. Ambas obras reflejan las **complejidades sociales y culturales** de sus respectivos contextos: Ecuador y Colombia durante el siglo XX. 
+
+**Temáticas compartidas** 
+--------------------------
+
+Una de las **similitudes más notable**s entre ‘Los Sangurimas’ y ‘Cien años de soledad’ es el **tratamiento del incesto** y las **dinámicas familiares** complejas. En ‘Los Sangurimas’, se explora la relación incestuosa entre los miembros de la familia, un tema que también aparece en la obra de García Márquez con la relación entre **José Arcadio Buendía y Úrsula Iguarán**. Esta temática no solo resalta las **tensiones familiares**, sino que también refleja las costumbres y creencias arraigadas en las sociedades latinoamericanas, siguiendo con un artículo de Gabriela Vargas para la revista [Kipus](https://repositorio.uasb.edu.ec/bitstream/10644/1554/1/RK16-Ho-Vargas.pdf "https://repositorio.uasb.edu.ec/bitstream/10644/1554/1/RK16-Ho-Vargas.pdf").  
+
+Además, ambas novelas presentan un entorno donde **lo mágico y lo real coexisten** (característica típica del **realismo mágico**). En ‘Los Sangurimas’, **Nicasio Sangurima** es visto como un **personaje casi mítico**, con rumores sobre su **pacto con el diablo** que le otorga riqueza e inmortalidad. Esta **mezcla de realidad y fantasía** se encuentra también en **‘Cien años de soledad’**, donde los Buendía enfrentan situaciones extraordinarias que desafían las leyes naturales, de acuerdo con un artículo de Alfredo Alzugarat para [Kipus](https://repositorio.uasb.edu.ec/bitstream/10644/1230/1/RK-01-ES-Alzugarat.pdf "https://repositorio.uasb.edu.ec/bitstream/10644/1230/1/RK-01-ES-Alzugarat.pdf").  
+
+**Estructura narrativa** 
+-------------------------
+
+La **estructura narrativa** también muestra **paralelismos significativos**. Ambas obras utilizan un **enfoque coral**, donde **múltiples personajes** contribuyen a la historia general. En **‘Los Sangurimas’**, cada miembro de la familia aporta su perspectiva a los eventos que se desarrollan, al crear un mosaico narrativo que refleja la **complejidad del linaje montubio**. De manera similar, **‘Cien años de soledad’** despliega una **narrativa intergeneracional** que abarca varias décadas, lo que permite al lector observar la evolución y decadencia del clan Buendía, a decir de José Luis Cáceres en un artículo para [LL Journal](https://lljournal.commons.gc.cuny.edu/2013-2-caceres-texto/ "https://lljournal.commons.gc.cuny.edu/2013-2-caceres-texto/").  
+
+**Antecedente en el realismo mágico** 
+--------------------------------------
+
+El impacto de **‘Los Sangurimas’** en el desarrollo del **realismo mágico** es innegable. Autores como **Fernando Alegría** han señalado que esta novela sirve como **antecedente a ‘Cien años de soledad’**. La habilidad de De la Cuadra para **integrar elementos míticos** con **realidades sociales** ha sido reconocida como un eco en García Márquez, quien perfeccionó esta técnica para construir su propio universo literario, siguiendo con Gabriela Vargas.  
+
+**Relevancia contemporánea** 
+-----------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDAv83XSEcI/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Netflix Latinoamérica (@netflixlat)](https://www.instagram.com/p/DDAv83XSEcI/?utm_source=ig_embed&utm_campaign=loading)
+
+En tiempos recientes, el interés por estas obras ha resurgido entre nuevas generaciones. La **exploración de sus conexiones** ofrece una perspectiva fresca sobre cómo las **influencias literarias** trascienden fronteras geográficas y temporales. La relevancia del **realismo mágico** sigue vigente, aún resuena con lectores que buscan comprender sus raíces culturales, ejemplo de ello es la reciente serie de Netflix sobre ‘Cien años de soledad’.  
+
+### Te recomendamos:
+
 Ley suspende incrementos de arriendo durante la emergencia energética
 =====================================================================
 
@@ -297,6 +904,11 @@ La comunidad artística ecuatoriana continúa está de luto tras la inesperada p
 
 Apenas dos días después, su hijo murió en Cali, Colombia, debido a un traumatismo craneal, una noticia que ha dejado consternados a familiares, amigos y admiradores.
 
+### Más noticias:
+
+* **[‘Malcolm in the Middle’ vuelve a Disney+, pero con una notable ausencia](https://www.elcomercio.com/afull/malcolm-in-the-middle.html "https://www.elcomercio.com/afull/malcolm-in-the-middle.html")**
+* **[Filtran chats de Liam Payne antes de morir](https://www.elcomercio.com/afull/chats-liam-payne-one-direction.html "https://www.elcomercio.com/afull/chats-liam-payne-one-direction.html")**
+
 Guillén había viajado a Colombia para estar junto a su hijo, quien atravesaba una delicada situación de salud. Según fuentes cercanas, el joven falleció el sábado 14 de diciembre al mediodía, aunque los detalles del accidente que le provocó el traumatismo no han sido esclarecidos.
 
 El cuerpo de la actriz llegó a Guayaquil el mismo sábado 14 de diciembre, donde se realizará un velatorio íntimo. Además, se ha organizado un homenaje público en el Palacio de Cristal para el lunes 16 de diciembre, al que podrán asistir quienes deseen despedirla.
@@ -407,674 +1019,3 @@ Para el estudio de la Universidad de Nagoya se reclutó a 100 estudiantes a los 
 
   
 Kawi y su estudiante de posgrado Yuta Kanaya, ambos de la Escuela de Graduados en Informática de esta universidad, le pidieron al grupo de voluntarios escribir breves opiniones sobre problemas sociales importantes, por ejemplo si habría que prohibir fumar en público, y se les dijo que sus escritos serían evaluados.
-
-Liga de Quito recibió mimos de sus rivales de la Liga Pro
-=========================================================
-
-Liga de Quito es el equipo del momento en Ecuador. Desde distintos puntos fue felicitado.
------------------------------------------------------------------------------------------
-
-![Ezequiel Piovi celebra el título de la Liga Pro alcanzado con Liga de Quito en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/felicitaciones_1.jpg)
-
-Liga de Quito sigue de celebración. Y no es para menos. **El título número 13 del campeonato nacional** llegó rodeado de un año en el que afrontaron una transición dirigencial y el fallecimiento de uno de sus jugadores.
-
-La tarde del **sábado 14 de diciembre de 2024 para Liga de Quito** pasó a ser una de las jornadas más memorables de su historia. En el marcador global de las finales se impusieron por 3-1 ante Independiente del Valle.
-
-### Más detalles:
-
-* [Piero Hincapié se lució en triunfo clave del Leverkusen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-bayer-leverkusen-augsburgo.html "Piero Hincapié se lució en triunfo clave del Leverkusen")
-* [Liga de Quito se proclamó como bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como bicampeón de la Liga Pro")
-* [Alexander Domínguez pide estatua junto a Rodrigo Paz](https://www.elcomercio.com/deportes/futbol/alexander-dominguez-estatua-liga-quito.html "Alexander Domínguez pide estatua junto a Rodrigo Paz")
-
-Liga de Quito fue elogiada
---------------------------
-
-Una vez que la corona 13 para Liga fue una realidad, los **festejos arrancaron en el estadio de Independiente del Valle**, se extendieron hasta el Rodrigo Paz Delgado y poco a poco se tomaron distintos puntos de la capital ecuatoriana y del país.
-
-Pervis Estupiñán fue uno de los exjugadores formados en Liga que no se perdieron la final. El defensa publicó una fotografía en las historias de su cuenta de Instagram para mostrar el apoyo desde Inglaterra.
-
-Pero también hubo un reducido grupo de equipos de la Liga Pro que utilizaron sus redes sociales para dejarle un saludo al nuevo campeón nacional.
-
-Llamó la **atención que equipos de la capital ecuatorian**a como Aucas, Universidad Católica, Cumbayá y El Nacional no se hicieron presentes con la felicitación para LDU, no al menos de forma pública.
-
-La otra cara de la moneda fueron los equipos del Guayas. **Barcelona SC, el más ganador del torneo nacional** con 16 títulos, y Emelec, el segundo más ganador con 14, reaccionaron rápidamente al logro obtenido por sus rivales deportivos de la Liga Pro.
-
-“Felicitaciones Liga de Quito por su campeonato obtenido en la Liga Pro”: Emelec.
-
-“¡Felicidades, amigos de Liga de Quito! ¡Saludos, Bicampeones!”: Orense.
-
-“Felicitamos a Liga de Quito por alcanzar un nuevo campeonato de Liga Pro”: Barcelona SC
-
-“Felicidades, Liga de Quito. Campeón de la Liga Pro”: Independiente del Valle
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/felicitaciones_2-1024x683.jpg)
-
-API.
-
-¿Cómo ganó Liga su título?
---------------------------
-
- Liga de Quito retuvo el título de campeón de Ecuador -que ya obtuvo en 2023-, **pese a haber perdido por 1-0** el sábado 14 de diciembre de 2024 en el partido de vuelta de la final del torneo ante el Independiente del Valle, al que goleó por 3-1 en el encuentro de ida.
-
-Todos los intentos del cuadro del Valle resultaron vanos ante la jerarquía mostrada por el ‘Rey de Copas’ de Ecuador, Liga de Quito, que se adjudicó su décimo tercer título en el fútbol ecuatoriano.
-
-El gol de Luis Zárate, **que dio el triunfo de este sábado al Independiente**, fue insuficiente para remontar la ventaja del partido de ida.
-
-El afán de los del Valle por abrir el marcador les obligó a dejar espacios en defensa que los procuró aprovechar L**iga de Quito mediante el contraataque, aunque el portero del Independiente**, Guido Villar, ganó el mano a mano al boliviano Gabriel Villamil y a Jhojan Julio.
-
-El portero de Liga de Quito, **Alexander Domínguez, también hizo gala de grandes reflejos** al rechazar el balón sobre el travesaño, tras un remate de Renato Ibarra.
-
-El argentino Cristian Zabala se filtró entre los defensas de Liga y a espalda del colombiano Jeison Medina, pero no logró empujar la pelota al fondo del arco.
-
-El goleador de la temporada, **con 28 anotaciones, el paraguayo Alex Arce**, también disfrutó de una ocasión para marcar, pero el argentino Mateo Carabajal se interpuso en el remate.
-
-Sobre el final del primer tiempo, Domínguez salvó a Liga, pues sacó el balón desde el ángulo superior derecho, tras un tiro libre de Ibarra.
-
-Sobre el final, el árbitro **Guillermo Guerrero suspendió por tres minutos el partido** por la cantidad de humo que se acumuló en el campo de juego, luego de que hinchas de Liga de Quito encendieran bengalas en la tribuna para festejar anticipadamente el título.
-
-En la última acción del partido, el **paraguayo Zárate anotó**, tras una asistencia de Michael Hoyos. EFE
-
-San viernes
------------
-
-Pervis Estupiñán titular en nueva derrota del Brighton
-======================================================
-
-El Brighton ha perdido fuelle con cuatro encuentros seguidos sin conocer la victoria.
--------------------------------------------------------------------------------------
-
-![Pervis Estupiñán en un partido con el Brighton en la temporada 2024/25.](https://www.elcomercio.com/wp-content/uploads/2024/12/pervis_derrota_2.jpg)
-
-El **ecuatoriano Pervis Estupiñán** volvió a ser titular en el partido correspondiente a la fecha 16 de la Premier League entre el Brighton y el Crystal Palace, jugado este domingo 15 de diciembre de 2024.
-
-Pervis Estupiñán jugó los 90 minutos y conformó la línea de cuatro del Brighton junto a Lewis Dunk,  
-Jan Paul van Hecke y Tariq Lamptey, los nombres que normalmente ocupan la titularidad en la ‘Gaviotas’.
-
-### Más noticias:
-
-* [Piero Hincapié se lució en triunfo clave del Leverkusen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-bayer-leverkusen-augsburgo.html "Piero Hincapié se lució en triunfo clave del Leverkusen")
-* [Liga de Quito se proclamó como bicampeón de la Liga Pro](https://www.elcomercio.com/deportes/futbol/independiente-valle-liga-quito-marcador.html "Liga de Quito se proclamó como bicampeón de la Liga Pro")
-* [Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-quito-hinchas-estadio-campeon-ligapro.html "Liga de Quito tuvo apoyo de su afición desde su casa en Liga Pro")
-
-El Brighton se aleja de Europa
-------------------------------
-
-Cinco partidos seguidos lleva sin perder el Crystal Palace, que venció al Brighton & Hove Albion (1-3) y escapa de la zona de descenso, de la que le separan cuatro puntos.
-
-Los de Oliver Glasner, tras un inicio terrible de campaña, **han remontado el vuelo y han sumado nueve de los últimos 15 puntos**, incluyendo las victorias contra Ipswich Town y Brighton y empates contra rivales a priori superiores como Manchester City, Aston Villa y Newcastle United.
-
-Los goles de Trevoh Chalobah e Ismaila Sarr en la primera media hora allanaron el camino de un Palace que aguantó el arreón del Brighton en la segunda mitad hasta que un error en la cesión de Lewis Dunk permitió que Sarr le robara la pelota y sentenciara en el mano a mano el encuentro.
-
-Tras 16 jornadas, **el Crystal Palace comienza a parecerse al del final de la temporada pasada**, que se salvó con holgura y con buen juego, y suma 16 puntos, suficientes para ver el descenso a cuatro unidades de distancia.
-
-El Brighton, **que hace no tanto peleaba por los puestos de Liga de Campeones**, ha perdido fuelle con cuatro encuentros seguidos sin conocer la victoria y cae hasta el noveno puesto con 24 puntos.
-
-![Facebook del club.](https://www.elcomercio.com/wp-content/uploads/2024/12/pervis_derrota_1-1024x683.jpg)
-
-Facebook del club.
-
-Liverpool sobrevive al Fulham 
-------------------------------
-
-El Liverpool, con un hombre menos durante setenta minutos por la expulsión de Andy Robertson, sobrevivió a la insistencia del Fulham con un ejercicio de resiliencia que le **permitió contestar dos veces a su rival gracias a los aciertos** Cody Gapko y Diogo Jota, que rescataron un punto para el líder de la Premier League (2-2).
-
-El Fulham no era un rival de los asequibles para los hombres de Arne Slot. Acaricia la zona europea y ya demostró ser capaz de generar problemas a los grandes de la Premier League.
-
-De hecho, **consiguió empatar con el Arsenal (1-1) y con el Tottenham (1-1)**. Y generó muchísimos problemas al Manchester City, que acabó sumando una victoria agónica (3-2).
-
-Esos precedentes no invitaban a un duelo tranquilo para el Liverpool, que además acudió a la cita con una pequeña duda tras su pinchazo frente al Newcastle (3-3) tras una racha ganadora.
-
-Y la profecía de los más cautelosos de Anfield, se cumplió. El Fulham cumplió con las expectativas y fue un dolor de cabeza para su rival.
-
-El equipo de Arne Slot insistió para intentar culminar una victoria épica. **Tuvo nueve minutos de tiempo añadido para firmar la remontada**. La acarició con un remate de Diogo Jota que salvó el mejor del partido, Robinson, que se interpuso con su cuerpo en el camino de la pelota hacia la portería. Fue la ocasión de la épica que no llegó a buen puerto.
-
-El Liverpool, al final, no ganó, **pero se fue con buen sabor de boca porque resistió con un hombre menos** durante casi todo el partido. Eso sí, dará una oportunidad a sus perseguidores para recortar dos puntos en la lucha por el título.
-
-San viernes
------------
-
-Gobierno anuncia la compensación energética en las planillas de luz
-===================================================================
-
-El Gobierno Nacional anunció que ya está lista la compensación energética.
---------------------------------------------------------------------------
-
-![La compensación durará hasta febrero de 2025](https://www.elcomercio.com/wp-content/uploads/2024/12/Plantillas-luz-.jpg)
-
-Desde noviembre, las familias ecuatorianas reciben una **compensación en sus planillas** de luz por los primeros 180 kilovatios hora (kWh) consumidos[.](https://es.wikipedia.org/wiki/Energ%C3%ADa_el%C3%A9ctrica#:~:text=de%20energ%C3%ADa%20el%C3%A9ctrica-,Apag%C3%B3n%20el%C3%A9ctrico,fallo%20de%20la%20red%20comercial. "https://es.wikipedia.org/wiki/Energ%C3%ADa_el%C3%A9ctrica#:~:text=de%20energ%C3%ADa%20el%C3%A9ctrica-,Apag%C3%B3n%20el%C3%A9ctrico,fallo%20de%20la%20red%20comercial.")
-
-Más noticias
-------------
-
-* [Cortes de luz en Guayaquil este sábado 14 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-sabado-14-diciembre.html "Cortes de luz en Guayaquil este sábado 14 de diciembre")
-* [¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?](https://www.elcomercio.com/actualidad/negocios/como-acceder-seguro-desempleo-con-ley-alivio-financiero.html "¿Cómo acceder al seguro de desempleo con la ley de alivio financiero?")
-* [Compensación del consumo energético, ¿ya se refleja este beneficio en la planilla de luz?](https://www.elcomercio.com/actualidad/ecuador/compensacion-consumo-energetico-refleja-beneficio-planilla-luz.html "Compensación del consumo energético, ¿ya se refleja este beneficio en la planilla de luz?")
-
-Esta medida, establecida en el **Decreto** **Ejecutivo** N.° 442, fue impulsada por el presidente **Daniel** **Noboa** para “aliviar la economía de los hogares ante la emergencia energética que enfrenta el país”.
-
-Detalles de la compensación energética
---------------------------------------
-
-El beneficio estará vigente hasta febrero de 2025. Durante estos cuatro meses, las familias no pagarán por los primeros 180 kWh de **consumo** **eléctrico**.
-
-Esto les permitirá destinar esos recursos a otras necesidades. Sin embargo, quienes excedan este límite deberán cubrir el valor correspondiente al consumo adicional.
-
-La medida aplica exclusivamente al rubro “Valor Consumo” en la **planilla** **de** **luz**. Otros conceptos, como **alumbrado** **público**, recolección de basura y contribuciones a los bomberos, continuarán facturándose de manera habitual y deberán ser cancelados.
-
-Para garantizar el cumplimiento de esta disposición, el Ministerio de **Energía** y **Minas** y la Agencia de Regulación y Control de Electricidad (**Arconel**) se encargarán de supervisar su correcta aplicación. De esta forma, el **Gobierno** busca mitigar los efectos de la emergencia energética y brindar un alivio económico temporal a los hogares del país.
-
-> Ya está vigente en tu planilla de luz la compensación del Gobierno Nacional de hasta 180 kWh. Medida dispuesta por el presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw). 🇪🇨👏[#ElNuevoEcuadorResuelve](https://twitter.com/hashtag/ElNuevoEcuadorResuelve?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/ha95d3h5nY](https://t.co/ha95d3h5nY)
-> 
-> — Comunicación Ecuador 🇪🇨 (@ComunicacionEc) [December 15, 2024](https://twitter.com/ComunicacionEc/status/1868303994566930631?ref_src=twsrc%5Etfw)
-
-El Gobierno anuncia el fin de los cortes de luz en Ecuador
-----------------------------------------------------------
-
-El **Gobierno** **Nacional**, a través del **Ministerio** **de** **Energía**, confirmó que los cortes de luz programados finalizarán el viernes 20 de diciembre de 2024.
-
-En un comunicado oficial emitido el viernes 13 de diciembre, la entidad aseguró que los apagones, que afectaron al país durante meses, concluirán en siete días.
-
-Para la última semana de **racionamientos**, del lunes 16 al jueves 19 de diciembre, se reducirá la duración de los cortes a dos horas diarias.
-
-Los **apagones** iniciaron en **abril** y se suspendieron temporalmente después de unos días. Sin embargo, el 23 de septiembre se retomaron y se extendieron durante más de 80 días. En los momentos más críticos, los **racionamientos** alcanzaron hasta 14 horas diarias.
-
-Bomberos de Quito intensifican campaña contra la pirotecnia
-===========================================================
-
-En las fiestas de Navidad y Fin de Año, el uso de la pirotecnia no autorizada está restringida. Los Bomberos de Quito previenen su uso.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Los Bomberos de Quito realizan talleres de prevención en contra del uso de pirotecnia.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-13T181215.306.jpg)
-
-Con la proximidad de las **fiestas** de **Navidad** y **Año Nuevo**, la pirotecnia es uno de los temas más complejos y delicados. El empleo de pirotecnia no autorizada representa un peligro para la seguridad de las personas, los animales y el medioambiente. Ante ello, las autoridades de la ciudad, sobre todo el Cuerpo de Bomberos de Quito, han intensificado una campaña de concienciación para mitigar los peligros asociados a los fuegos artificiales.
-
-### Más noticias
-
-* [Liga de Quito podrá celebrar en emblemático lugar](https://www.elcomercio.com/deportes/futbol/liga-quito-pileta-universidad-central.html "Liga de Quito podrá celebrar en emblemático lugar")
-* [Movilidad en Quito, cómo los pregones y compras navideñas afectarán el tráfico](https://www.elcomercio.com/actualidad/quito/movilidad-pregones-compras-navidad-quito.html "Movilidad en Quito, cómo los pregones y compras navideñas afectarán el tráfico")
-* [Policía encontró casi 12 millones de dólares en billetes falsos en Quito ¿Hay detenidos?](https://www.elcomercio.com/actualidad/seguridad/policia-encontro-casi-12-millones-dolares-billetes-falsos-quito-detenidos.html "Policía encontró casi 12 millones de dólares en billetes falsos en Quito ¿Hay detenidos?")
-
-Campaña contra la pirotecnia
-----------------------------
-
-Con el propósito de garantizar la seguridad ciudadana durante las festividades navideñas y de Fin de Año, el Cuerpo de Bomberos Quito intensifica su campaña de prevención e información sobre los peligros asociados al uso de pirotecnia. **Por esta razón**, la institución ha lanzado una serie de iniciativas para crear conciencia en la población.
-
-Bajo el lema “Hazlo bien, por tu bien”, la institución busca sensibilizar a la ciudadanía sobre las graves consecuencias de la manipulación inadecuada de estos materiales. **En este contexto**, la campaña pretende destacar los riesgos no solo para quienes los usan, sino también para quienes están a su alrededor.
-
-Consejos contra la pirotecnia
------------------------------
-
-**Cabe destacar que**, en Quito está prohibida la fabricación, comercialización y uso de productos no autorizados dentro del Distrito Metropolitano. **Dicho esto**, es importante señalar que estas restricciones no solo buscan cumplir con la normativa vigente, sino también proteger a las personas de las graves consecuencias que pueden generar los artefactos ilegales. **Por ejemplo**, la pirotecnia no autorizada puede provocar quemaduras, pérdida de la vista e incluso amputaciones.
-
-**Para evitar estas situaciones**, Bomberos Quito proporciona consejos prácticos que ayudan a prevenir incidentes y a disfrutar unas fiestas en paz.
-
-La campaña incluye una serie de recomendaciones clave para prevenir riesgos, **entre las cuales se destacan las siguientes**:
-
-* Prohibir que los menores de edad manipulen pirotecnia.
-* No almacenar material pirotécnico en viviendas.
-* Revisar instalaciones eléctricas y evitar sobrecargas.
-* Usar portavelas y superficies estables para evitar incendios.
-* Ubicar generadores eléctricos en espacios ventilados.
-* No usar pirotecnia en mal estado o no autorizada.
-* Considerar el bienestar de las mascotas, que pueden sufrir con los estruendos.
-
-Controles y operativos
-----------------------
-
-La **Agencia Metropolitana de Control (AMC)**, la **Policía Nacional** y los **Bomberos de Quito** han intensificado los operativos de control. Hasta la fecha, se han incautado de ocho kilos de material pirotécnico en siete intervenciones[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-Los Bomberos hacen un llamado a la ciudadanía para cerrar el año de manera segura y responsable. La institución subraya que prevenir es una responsabilidad compartida y que pequeñas acciones pueden marcar una gran diferencia en la protección de las personas y el entorno.
-
-Liga de Quito y sus históricos cinco ciclos exitosos
-====================================================
-
-A lo largo de su historia, Liga de Quito ha tenido varias rachas exitosas en las que ha conseguido múltiples títulos.
----------------------------------------------------------------------------------------------------------------------
-
-![Richard Mina (i) y Leonel Quiñónez con el trofeo de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/liga_ciclos_1.jpg)
-
-**Liga de Quito** sumó un nuevo título el sábado 14 de diciembre, logrando su decimotercera estrella de campeonato nacional y consolidando una racha positiva que comenzó en 2023 con la obtención de dos copas importantes.
-
-En sus casi 100 años de historia como **Liga Deportiva Universitaria**, el club capitalino se ha convertido en el más exitoso del país con **21 títulos oficiale**s, conseguidos en diferentes épocas doradas. Algunas rachas fueron consecutivas, marcando ciclos de éxito, mientras que otras se dieron en años más distantes. A continuación, repasamos las mejores rachas de títulos de Liga de Quito.
-
-### Más noticias:
-
-* [Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-valle-viernes13-terror-redes.html "Independiente del Valle intenta ‘aterrorizar’ a Liga de Quito")
-* [¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?](https://www.elcomercio.com/deportes/liga-quito-jugadores-favoritos-vitamina-sanchez.html "¿Cuáles son los jugadores favoritos de ‘Vitamina’ Sánchez en Liga de Quito?")
-* [La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito](https://www.elcomercio.com/deportes/pablo-sanchez-tatuaje-vitamina-liga-quito.html "La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito")
-
-El primer bicampeonato de Liga de Quito (1974-1975)
----------------------------------------------------
-
-En 1974 y 1975, la **‘U’ consiguió su segundo y tercer campeonato ecuatoriano**, consolidándose como el equipo más ganador de Pichincha en esa época y como uno de los más importantes del país.
-
-En 1974, Liga le arrebató el título a El Nacional en la final, impidiendo que los militares lograran su bicampeonato. Un año después, la ‘U’ terminó primera en el pentagonal final, superando a Deportivo Cuenca, y **selló su primer bicampeonato**.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-13T142515.057-1024x683.jpg)
-
-El segundo bicampeonato (1998-1999)
------------------------------------
-
-Liga de Quito sumó su segundo bicampeonato en 1998 y 1999. En el primero, protagonizó una final histórica al derrotar 7-0 a Emelec en la vuelta jugada en Casa Blanca, rompiendo una sequía de ocho años sin títulos nacionales.
-
-En 1999, la ‘U’ revalidó su supremacía al vencer en el partido definitorio a El Nacional, logrando su sexta estrella nacional y cerrando un ciclo de dos años de dominio absoluto.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-13T142555.040-1024x683.jpg)
-
-La época dorada (2007-2011)
----------------------------
-
-La racha más gloriosa de Liga de Quito inició en 2007, cuando el equipo conquistó su noveno título nacional, pero esto fue solo el comienzo de una era inolvidable.
-
-En 2008, aunque fue subcampeón de la Liga ecuatoriana, Liga alcanzó el mayor logro para un equipo ecuatoriano: ganó la Copa Libertadores al vencer a Fluminense en el mítico Maracaná.
-
-En 2009, el éxito continuó con la obtención de la Recopa Sudamericana y la Copa Sudamericana, convirtiéndose en el primer equipo ecuatoriano en ganar los tres torneos internacionales organizados por Conmebol.
-
-En 2010, Liga volvió a sumar títulos: ganó otra Recopa Sudamericana y su décima estrella de campeonato nacional. Durante este periodo, también fue subcampeón del Mundial de Clubes y de la Suruga Bank.
-
-Esta época dorada cerró en 2011 con un subcampeonato en la Copa Sudamericana, dejando un legado de seis títulos en cinco años, incluidos cuatro internacionales.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-13T142546.757-1024x683.jpg)
-
-Más títulos nacionales (2018-2021)
-----------------------------------
-
-Liga de Quito rompió una sequía de ocho años en 2018 al consagrarse campeón nacional, logrando su undécima estrella.
-
-En 2019, añadió la Copa Ecuador a su palmarés. Aunque fue subcampeón de la Liga Pro en 2019 y 2021, el equipo también ganó las Supercopas Ecuador de 2020 y 2021, mostrando regularidad en la consecución de trofeos.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-13T142533.610-1024x683.jpg)
-
-De vuelta a la gloria (2023-2024)
----------------------------------
-
-La racha más reciente de Liga de Quito comenzó en 2023. Tras cinco años sin títulos ligueros, la ‘U’ se coronó campeona de la Liga Pro, logrando su decimosegunda estrella nacional. Ese mismo año, conquistó su segunda Copa Sudamericana, rompiendo una espera de 13 años por un título internacional.
-
-En 2024, aunque fue subcampeón de la Recopa Sudamericana, cerró el año con su decimotercera estrella y su tercer bicampeonato nacional, reafirmando su posición como el equipo más exitoso del Ecuador.
-
-![Jugadores de Liga de Quito con el título de la Copa Sudamericana de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/11/liga_corona_1-1024x683.jpg)
-
-Militares se dirigen a Napo por movilizaciones sociales
-=======================================================
-
-Las comunidades de Napo expresan su rechazo a la construcción de una cárcel en la zona.
----------------------------------------------------------------------------------------
-
-![Cinco camiones militares se movilizaron a Napo.](https://www.elcomercio.com/wp-content/uploads/2024/12/Militares-Napo.jpg)
-
-Un grupo de militares se dirige a Napo, donde se desarrolla una manifestación, y hace tres días se tomaron la **Gobernación**[.](https://es.wikipedia.org/wiki/Militar "https://es.wikipedia.org/wiki/Militar")
-
-Más noticias
-------------
-
-* [Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro](https://www.elcomercio.com/actualidad/seguridad/ministerio-defensa-despliegue-militares-el-oro.html "Daniel Noboa dispuso el despliegue de 2 406 militares en El Oro")
-* [Gobernador detalla situación en Napo tras protestas contra cárcel de Archidona](https://www.elcomercio.com/actualidad/ecuador/gobernador-napo-protestas-carcel-archidona.html "Gobernador detalla situación en Napo tras protestas contra cárcel de Archidona")
-* [Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-cambio-gobernado-napo-carcel.html "Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel")
-
-En la provincia, las comunidades rechazan la construcción de la **cárcel en Archidona**. Después de 13 días de manifestaciones, no hay un acuerdo con el Gobierno de Daniel Noboa.
-
-Llegada de militares a Napo
----------------------------
-
-La Confederación de **Nacionalidades** **Indígenas** de la Amazonía Ecuatoriana informó en sus redes sociales que cinco camiones con militares atravesaron la comunidad **Costa** **Azul** por la fuerza.
-
-Ante este hecho, pidieron a **Daniel** **Noboa** evitar la represión contra el pueblo y atender las demandas de las comunidades. Según su resolución regional, declararon: “No queremos la cárcel de **máxima** **seguridad** en la **Amazonía**“.
-
-> 🔴 [#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw) | 5 camiones de militares se dirigen a Tena, pasaron a la fuerza por la comunidad Costa Azul. Hacemos un llamado a nuestras comunidades de base a estar alertas en los puntos de resistencia. La Confeniae no permitirá que se violen nuestros derechos constitucionales. [pic.twitter.com/dzuB8pt8tV](https://t.co/dzuB8pt8tV)
-> 
-> — CONFENIAE (@confeniae1) [December 15, 2024](https://twitter.com/confeniae1/status/1868184891210535097?ref_src=twsrc%5Etfw)
-
-Manifestantes toman la Gobernación de Napo
-------------------------------------------
-
-El jueves 12 de diciembre, cerca de 3 000 personas, entre moradores, sindicalistas y dirigentes indígenas, participaron en la Asamblea Popular Permanente, según reportó la Confederación de Nacionalidades Indígenas del Ecuador (**Conaie**).
-
-Tras la falta de acuerdos, la **Conaie** indicó que las movilizaciones aumentarán con carácter regional, cumpliendo con lo establecido en la resolución de la **Asamblea**.
-
-Esa advertencia se concretó cuando, por la noche, los manifestantes ingresaron al edificio de la **Gobernación** de la provincia.
-
-Videos difundidos en redes sociales muestran a los manifestantes enfrentarse con la **Policía**. Los uniformados colocaron barricadas para delimitar el lugar, pero estas fueron derribadas.
-
-Los voceros de las **movilizaciones** anunciaron la reactivación del cierre de vías principales, incluyendo el acceso al puente del río **Misahuallí**.
-
-Gobierno adjudica la construcción de la cárcel
-----------------------------------------------
-
-El **Gobierno** impulsa la construcción de una segunda **cárcel de máxima seguridad**, con características similares a la de **Santa** **Elena**, que registra un avance superior al 30 % y una inversión de 52 millones de dólares.
-
-El 10 de diciembre, el Servicio de Atención Integral a Personas Adultas Privadas de la Libertad (**SNAI**) adjudicó el proyecto en **Archidona**, a pesar de los reclamos. La obra tiene un presupuesto de 51,97 millones de dólares.
-
-Como en el caso de **Santa** **Elena**, este proceso se declaró reservado y lo adjudicaron a la empresa Puentes y Calzadas Infraestructuras S.L., subsidiaria de la estatal China Road and Bridge Corporation, única invitada al proceso.
-
-Justina Zambrano, subsecretaria de **Gobernabilidad**, confirmó que el **Gobierno** mantiene el proyecto en su ubicación actual tras dialogar con autoridades locales.
-
-Asamblea en contra de la construcción de la cárcel en Archidona
----------------------------------------------------------------
-
-Las preocupaciones sociales, culturales y ambientales relacionadas con el proyecto, debido a su cercanía con la zona urbana, fundamentaron la solicitud.
-
-La resolución expresó respaldo al pueblo de **Archidona**, con énfasis en niños, adolescentes y comunidades indígenas afectadas.
-
-Además, exhortaron al presidente **Daniel** **Noboa** y al **SNAI** a suspender la obra de inmediato y respetar los derechos constitucionales e internacionales. También pidieron evitar futuras construcciones de **cárceles** en **Napo** y la **Amazonía**. La moción recibió 95 votos afirmativos.
-
-Liga de Quito extendió los festejos del título hasta la madrugada
-=================================================================
-
-Liga de Quito se convirtió en el primer equipo en ser bicampeón de la Liga Pro.
--------------------------------------------------------------------------------
-
-![Plantel de jugadores de Liga de Quito con el trofeo de campeones de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/festejos_1.jpg)
-
-**Liga de Quito**, su plantel de jugadores, cuerpo técnico, directivos e hinchas celebraron un nuevo título de la Liga Pro hasta las primeras horas de la madrugada de este domingo 15 de diciembre de 2024.
-
-Para conseguir este nuevo título, **el 13 del campeonato nacional en su historia**, Liga de Quito derrotó a Independiente del Valle con un marcador global de 3-1, suficiente para ser el primer bicampeón de la era Liga Pro.
-
-### Más noticias:
-
-* [Antonio Valencia respalda a Segundo Castillo con fuerte discurso](https://www.elcomercio.com/deportes/futbol/antonio-valencia-segundo-castillo-respaldo.html "Antonio Valencia respalda a Segundo Castillo con fuerte discurso")
-* [Liga de Quito, el tri-bicampeón: el saludo de Claudio Bieler](https://www.elcomercio.com/deportes/futbol/liga-quito-claudio-bieler-tri-bicampeon.html "Liga de Quito, el tri-bicampeón: el saludo de Claudio Bieler")
-* [Liga de Quito dedicó el título al fallecido Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-quito-titulo-marco-angulo.html "Liga de Quito dedicó el título al fallecido Marco Angulo")
-
-Los festejos de Liga de Quito
------------------------------
-
-Los festejos del título de la Liga Pro empezaron antes que se acabe el partido en el estadio de Independiente del Valle. Unos **minutos antes de llegar a los 90′ los miles de hinchas albos** desataron su alegría con cánticos y con el encendido de bengalas que inundó de humo el referido escenario.
-
-Por unos segundos **Guillermo Guerrero, juez central de la final, detuvo el encuentro** porque la cantidad de humo impedía tener la visibilidad completa del terreno de juego.
-
-Tras la reanudación y luego de cumplir con los nueve minutos de tiempo adicionado, se terminó el juego y oficialmente la **corona 13 era una realidad para los universitarios**, el equipo más ganador del fútbol ecuatoriano sumando sus cinco coronas internacionales.
-
-En el terreno de juego los jugadores festejaron eufóricamente lo conseguido, siempre con el recuerdo del fallecido Marco Angulo presente en todo momento, más aún cuando sus familiares recibieron la medalla que lo acreditaba como campeón.
-
-La tarima de la premiación se armó y uno a uno todos los integrantes de Liga de Quito pasaron frente a las autoridades de la **Liga Pro para recibir sus medallas y luego el trofeo de campeones**.
-
-El capitán Ezequiel Piovi se encargó de levantar la copa y comandar a sus compañeros en la vuelta olímpica.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/festejos_3-1024x683.jpg)
-
-Los festejos se tomaron Quito
------------------------------
-
-Mientras todo eso sucedía en el estadio de Independiente del Valle al sur oriente de la capital ecuatoriana, al norte, en el **Rodrigo Paz Delgado, miles de hinchas azucenas** celebraron frente a las pantallas gigantes que se habilitaron para seguir el partido.
-
-El siguiente punto de celebración fue la emblemática pileta de la Universidad Central. En bus, en auto propio o a pie, los fanáticos llegaron desde d**istintos puntos de la ciudad hasta la pileta** para darse un baño de gloria como es tradicional con cada título conseguido.
-
-Cerca de las 23:00 la caravana que salió desde el Valle llegó a la Central. Los jugadores subidos en un bus descapotable **animaron aún más a sus seguidores que los esperaron** pese al intenso frío y la lluvia que cada tanto cayó en esa parte de la ciudad.
-
-Tras cumplir con el recorrido planificado por la directiva, el plantel de jugadores y cuerpo técnico se dirigieron a un hotel ubicado cerca del estadio Olímpico Atahualpa. Ahí tuvieron una cena de celebración cuando el reloj ya marcaban los primero minutos de este domingo.
-
-![API.](https://www.elcomercio.com/wp-content/uploads/2024/12/festejos_2-1024x683.jpg)
-
-API.
-
-San viernes
------------
-
-Gustavo Petro visita Galápagos para fortalecer la cooperación con Ecuador
-=========================================================================
-
-El presidente de Colombia, Gustavo Petro, llegó a las Islas Galápagos. La visita oficial se da luego de la invitación del presidente Daniel Noboa.
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La canciller ecuatoriana, Gabriela Sommerfeld, recibió al presidente de Colombia, Gustavo Petro, en las Islas Galápagos.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-92-1.jpg)
-
-El presidente de Colombia, Gustavo Petro, llegó en la tarde de este **14 de diciembre de 2024** a las **Islas Galápagos**. Durante su estadía, se reunirá con su homólogo ecuatoriano, **Daniel Noboa**, para tratar diversos temas relacionados con la **cooperación bilateral**, según informó la **Cancillería de Ecuador** en Quito.
-
-### Más noticias
-
-* [Daniel Noboa reduce el IVA para feriados de Navidad y Año Nuevo](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-redujo-el-iva-8-durante-feriados-navidad-ano-nuevo.html "Daniel Noboa reduce el IVA para feriados de Navidad y Año Nuevo")
-* [Daniel Noboa y su roce con el Legislativo por la ‘Ley Antipillos’, ¿quién tiene la razón?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-pugna-con-legislativo-ley-antipillos-quien-tiene-razon.html "Daniel Noboa y su roce con el Legislativo por la ‘Ley Antipillos’, ¿quién tiene la razón?")
-* [Gustavo Petro dice que ayudará a Ecuador con la fortaleza energética de](https://www.elcomercio.com/actualidad/negocios/gustavo-petro-colombia-ecuador-fortaleza-energetica-electricidad-exportaciones.html "Gustavo Petro dice que ayudará a Ecuador con la fortaleza energética de Colombia") [Colombia](https://www.elcomercio.com/actualidad/negocios/gustavo-petro-colombia-ecuador-fortaleza-energetica-electricidad-exportaciones.html "Gustavo Petro dice que ayudará a Ecuador con la fortaleza energética de Colombia")
-
-Petro llega por invitación de Noboa
------------------------------------
-
-En primer lugar, la canciller ecuatoriana, **Gabriela Sommerfeld**, recibió al mandatario colombiano en el aeropuerto de **Isla Baltra** en representación del presidente Noboa. Esta visita oficial responde a una invitación previa realizada por el jefe de Estado ecuatoriano.
-
-Además, la **Cancillería ecuatoriana** destacó que ambos mandatarios llevarán a cabo una reunión en las **Islas Encantadas** para discutir acciones concretas de cooperación bilateral. En este contexto, Petro estará acompañado por **Laura Sarabia**, directora del **Departamento Administrativo de la Presidencia de Colombia (Dapre)**.
-
-Por otro lado, la visita se prolongará hasta el próximo **domingo 15 de diciembre**, según confirmó la **Presidencia de Colombia** mediante un comunicado[.](https://es.wikipedia.org/wiki/Gustavo_Petro "https://es.wikipedia.org/wiki/Gustavo_Petro")
-
-La agenda de Petro y Noboa
---------------------------
-
-Dentro de la agenda programada, está previsto que los mandatarios recorran las instalaciones del **Parque Nacional Galápagos** y la **Estación Científica Charles Darwin**, ambas ubicadas en **Isla Santa Cruz**, en el corazón del archipiélago.
-
-Finalmente, es importante recordar que Petro y Noboa han mantenido una relación diplomática cercana. De hecho, ambos líderes ya sostuvieron una reunión en octubre pasado durante la **COP16 sobre biodiversidad**, realizada en la ciudad colombiana de **Cali**. En aquella ocasión, discutieron sobre **cooperación energética** y establecieron los detalles para esta visita oficial a las **Islas Galápagos**.
-
-Raúl Ilaquiche tendrá sepultura en Tigua, conforme a su deseo
-=============================================================
-
-En las comunidades indígenas hubo consternación por el fallecimiento del abogado por los derechos humanos, Raúl Ilaquiche.
---------------------------------------------------------------------------------------------------------------------------
-
-![Lourdes Tibán y Raúl Ilaquiche se casaron el 14 de febrero del 2015](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-90-1.jpg)
-
-La muerte del **abogado** de los **derechos humanos**, **Raúl Ilaquiche**, en un siniestro de tránsito, en **Tambillo**, el 13 de diciembre del 2024, consternó a la **organización indígena** y a todo el **campo político** ecuatoriano. Su cuerpo será **sepultado** en **Tigua**, según fueron sus deseos, como contó su esposa y prefecta de Cotopaxi, Lourdes Tibán.
-
-### Más noticias
-
-* [Lourdes Tibán publicó emotivo mensaje por fallecimiento de Raúl Ilaquiche](https://www.elcomercio.com/actualidad/seguridad/lourdes-tiban-publico-emotivo-mensaje-fallecimiento-raul-ilaquiche.html "Lourdes Tibán publicó emotivo mensaje por fallecimiento de Raúl Ilaquiche")
-* [Raúl Ilaquiche, esposo de Lourdes Tibán, falleció en siniestro de tránsito este viernes](https://www.elcomercio.com/actualidad/seguridad/raul-ilaquiche-esposo-lourdes-tiban-fallecio-siniestro-transito.html "Raúl Ilaquiche, esposo de Lourdes Tibán, falleció en siniestro de tránsito este viernes")
-
-Cotopaxi llora por Ilaquiche
-----------------------------
-
-Los restos de **Ilaquiche**, un prominente abogado por los derechos humanos y premio Bartolomé de las Casas, otorgado por el Principado de Asturias, por su labor en la lucha por los derechos indígenas, será llevado este domingo 15 de diciembre a **Tigua**. Según su esposa, Lourdes Tibán, siempre quiso ser enterrado allá.
-
-“El sueño de él y la advertencia de todos los días era que le entierren en **Tigua**. Nadie está preparado para la muerte; no tenemos bóveda en Tigua, pero él hizo un cementerio (allí) con sus primos, con la comunidad”, añadió la **Prefecta** de **Cotopaxi**.
-
-Tras su fallecimiento, terminado el procedimiento de rigor, el cuerpo fue llevado a Salcedo. Hoy, 14 de abril del 2024, le rindieron honores en Pujilí, una ciudad que él amaba, según contó su esposa, y de la que quiso ser su alcalde. Una **multitud** lo acompañó durante toda la jornada.
-
-El **15 de diciembre,** a las 08:00, será trasladado a **Tigua**, para cumplir con el pedido de **Ilaquiche**.
-
-Un amor de nueve años
----------------------
-
-Lourdes **Tibán** y Raúl **Iraquiche** se casaron un **14 de febrero del 2015**, Día de San Valentín. El casamiento fue muy divulgado. Ambos tuvieron tres hijos.
-
-El **mensaje de amor** que le envió Lourdes **Tibán** luego del fallecimiento fue **conmovedor**. **“Solo la muerte nos pudo separar. El único amor que juré en la Iglesia”.**
-
-Consternación en el ámbito político
------------------------------------
-
-“Él amaba la **Conaie**, amaba la organización”, dijo Tibán. Y desde todo el arco político, de derecha a izquierda, hubo mensajes de solidaridad con su familia[.](https://es.wikipedia.org/wiki/Confederaci%C3%B3n_de_Nacionalidades_Ind%C3%ADgenas_del_Ecuador "https://es.wikipedia.org/wiki/Confederaci%C3%B3n_de_Nacionalidades_Ind%C3%ADgenas_del_Ecuador")
-
-El **Ministerio de Gobierno** publicó en la red social X sus condolencias a Tibán y a su familia. Lo mismo hizo el expresidente **Guillermo Lasso,** quien dijo lamentar su partida.
-
-> Ante el lamentable fallecimiento del Dr. Raúl Ilaquiche, reconocido líder indígena y esposo de la Dra. [@lourdestiban1](https://twitter.com/lourdestiban1?ref_src=twsrc%5Etfw), Prefecta de [#Cotopaxi](https://twitter.com/hashtag/Cotopaxi?src=hash&ref_src=twsrc%5Etfw), enviamos nuestras más sinceras condolencias a su esposa, hijos, familia y seres queridos. 🕊️ [pic.twitter.com/nDD0HUGOVJ](https://t.co/nDD0HUGOVJ)
-> 
-> — Ministerio de Gobierno Ecuador (@MinGobiernoEc) [December 14, 2024](https://twitter.com/MinGobiernoEc/status/1867765176394821731?ref_src=twsrc%5Etfw)
-
-> Ante el lamentable fallecimiento del Dr. Raúl Ilaquiche, reconocido líder indígena y esposo de la Dra. [@lourdestiban1](https://twitter.com/lourdestiban1?ref_src=twsrc%5Etfw), Prefecta de [#Cotopaxi](https://twitter.com/hashtag/Cotopaxi?src=hash&ref_src=twsrc%5Etfw), enviamos nuestras más sinceras condolencias a su esposa, hijos, familia y seres queridos. 🕊️ [pic.twitter.com/nDD0HUGOVJ](https://t.co/nDD0HUGOVJ)
-> 
-> — Ministerio de Gobierno Ecuador (@MinGobiernoEc) [December 14, 2024](https://twitter.com/MinGobiernoEc/status/1867765176394821731?ref_src=twsrc%5Etfw)
-
-La **Conaie**, organización de la que formó parte y era una de sus prominentes figuras, expresó su **“profundo pesar** por el sensible fallecimiento de Raúl Illaquiche, compañero, líder y destacado abogado defensor de las causas sociales y los derechos colectivos, y esposo de Lourdes Tibán, actual prefecta de [#Cotopaxi](https://x.com/hashtag/Cotopaxi?src=hashtag_click)“.
-
-> \[Nota de condolencia\]  
-> Expresamos nuestro profundo pesar por el sensible fallecimiento de Raúl Illaquiche, compañero, líder y destacado abogado defensor de las causas sociales y los derechos colectivos, y esposo de Lourdes Tibán, actual prefecta de [#Cotopaxi](https://twitter.com/hashtag/Cotopaxi?src=hash&ref_src=twsrc%5Etfw).  
-> Raúl compartió hoy… [pic.twitter.com/GvnEtCW5bI](https://t.co/GvnEtCW5bI)
-> 
-> — CONAIE (@CONAIE\_Ecuador) [December 14, 2024](https://twitter.com/CONAIE_Ecuador/status/1867738242121928719?ref_src=twsrc%5Etfw)
-
-La **Ecuarunari** también envió un mensaje por el fallecimiento de quien fue su vicepresidente. “Desde la Confederación de Pueblos de la Nacionalidad Kichwa del Ecuador, ECUARUNARI, expresamos nuestro **profundo pesar** por el fallecimiento del Dr. Raúl Ilaquiche, referente en la defensa de los derechos colectivos de nuestros pueblos y nacionalidades.
-
-> 🕊️ Nota de condolencia  
->   
-> Desde la Confederación de Pueblos de la Nacionalidad Kichwa del Ecuador, ECUARUNARI, expresamos nuestro profundo pesar por el fallecimiento del Dr. Raúl Ilaquiche, referente en la defensa de los derechos colectivos de nuestros pueblos y nacionalidades. [pic.twitter.com/waiKSjSRKW](https://t.co/waiKSjSRKW)
-> 
-> — ECUARUNARI (@ecuarunari\_ofic) [December 14, 2024](https://twitter.com/ecuarunari_ofic/status/1868025035228684375?ref_src=twsrc%5Etfw)
-
-La **Presidencia de la República** también envió sus condolencias vía X a la familia.
-
-> Expresamos nuestras condolencias ante el sensible fallecimiento del señor Raúl Ilaquiche.  
->   
-> Paz en su tumba [pic.twitter.com/5BLiI9mzED](https://t.co/5BLiI9mzED)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [December 14, 2024](https://twitter.com/Presidencia_Ec/status/1867758248998408379?ref_src=twsrc%5Etfw)
-
-Liga de Quito y su senda gloriosa al título de la Liga Pro 2024
-===============================================================
-
-Liga de Quito se convirtió en el primer bicampeón del campeonato ecuatoriano bajo la denominación de Liga Pro.
---------------------------------------------------------------------------------------------------------------
-
-![Alex Arce y Bryan Ramírez fueron jugadores claves en el título de Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-13T122710.382.jpg)
-
-**Liga de Quito** añadió un nuevo trofeo a su extenso palmarés. El ‘Rey de Copas’ se consagró campeón del fútbol ecuatoriano 2024 tras derrotar en la final de la **Liga Pro** a Independiente del Valle el pasado sábado 14 de diciembre.
-
-Con este título, la **‘U’ alcanzó su decimotercera estrella nacional**, igualando a El Nacional, uno de sus clásicos rivales. Ahora, solo se encuentra por detrás de Emelec, que suma 14 campeonatos, y de Barcelona SC, el máximo ganador con 16.
-
-### Más noticias:
-
-* [La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito](https://www.elcomercio.com/deportes/pablo-sanchez-tatuaje-vitamina-liga-quito.html "La ‘locura’ de ‘Vitamina’ Sánchez si queda campeón con Liga de Quito")
-* [IDV necesita una gesta para arrebatarle el título a Liga de Quito](https://www.elcomercio.com/deportes/futbol/idv-necesita-una-gesta-para-arrebatarle-el-titulo-a-liga-de-quito.html "IDV necesita una gesta para arrebatarle el título a Liga de Quito")
-* [Liga de Quito e IDV, dos estilos de juego para un solo campeón](https://www.elcomercio.com/deportes/futbol/liga-de-quito-e-idv-dos-estilos-de-juego-para-un-solo-campeon.html "Liga de Quito e IDV, dos estilos de juego para un solo campeón")
-
-Sin embargo, Liga de Quito sigue **consolidándose como el club más exitoso del país,** acumulando 21 títulos oficiales en su historia, superando ampliamente a Barcelona SC, que cuenta con los mismos 16 nacionales.
-
-En el plano nacional, la ‘U’ ostenta 13 títulos de campeonato, una Copa Ecuador y dos Supercopas Ecuador. A nivel internacional, se mantiene como el equipo más laureado con una **Copa Libertadores**, dos **Copas Sudamericanas** y dos Recopas Sudamericanas.
-
-Liga de Quito y su camino al título
------------------------------------
-
-Liga de Quito comenzó la temporada 2024 con el director técnico español **Josep Alcácer**, una contratación algo polémica, ya que llegó para reemplazar a **Luis Zubeldía**, quien había tenido un año excepcional en 2023, logrando la Liga Pro y la Copa Sudamericana.
-
-Alcácer dirigió al equipo durante los primeros 13 partidos de la temporada, obteniendo 8 victorias, 2 empates y 3 derrotas. Sin embargo, su estilo y resultados dejaron dudas, y tras una racha de tres partidos sin ganar, que culminó con una derrota ante **Barcelona SC,** su etapa en Liga de Quito llegó a su fin.
-
-Durante las dos últimas fechas de la primera etapa, el club fue dirigido de manera interina por **Patricio Hurtado.** En esta primera fase, la ‘**U’ terminó en la tercera posición con 30 puntos**, logrando 9 victorias, 4 empates y 2 derrotas.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/06/ENDRICK-PALMEIRAS-2024-06-21T212935.277.jpg)
-
-Llegó ‘Vitamina’ Sánchez
-------------------------
-
-A mitad de año, **Liga de Quito contrató a Pablo ‘Vitamina’ Sánchez** para tomar las riendas del equipo en la segunda etapa, con el objetivo de llegar a la final.
-
-Bajo su dirección, la **‘U’ comenzó con un rendimiento espectacular**, sumando 5 victorias consecutivas en los primeros partidos. El equipo se consolidó en la cima de la tabla, mostrando un gran juego ofensivo.
-
-Sin embargo, después de ese inicio brillante, el equipo sufrió una caída, con 2 derrotas y un empate que lo relegaron al segundo puesto de la tabla. A pesar de la incertidumbre, Liga reaccionó y logró una racha de 7 partidos consecutivos sin perder, destacándose una **victoria clave ante Independiente del Valle**, que les permitió retomar la punta.
-
-Finalmente, **Liga terminó en el primer lugar de la segunda etapa** con 35 puntos, logrando 11 victorias, 2 empates y 2 derrotas.
-
-![Ezequiel Piovi, capitán de Liga de Quito, en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-28T144457.969-1024x683.jpg)
-
-La gran final
--------------
-
-**Liga de Quito se enfrentó a Independiente del Valle**, repitiendo la final del año pasado, que terminó con victoria para la ‘U’ en penales. En el primer encuentro de la final de 2024, la **‘U’ goleó 3-0** a los rayados, dando un paso gigante hacia el título.
-
-En el partido de vuelta, a **pesar de perder 1-0**, la gran ventaja obtenida en la ida fue suficiente para que Liga se consagrara campeón por decimotercera vez en su historia.
-
-![Álex Arce, delantero de Liga de Quito, celebra un gol en la final de ida de la Liga Pro ante Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/12/20241207140923-fbl-ligapro-primera-final-liga-independiente-1024x681.jpg)
-
-Día del Otaku: Todo lo que necesitas saber sobre la comunidad que celebra el anime y el manga
-=============================================================================================
-
-La subcultura otaku abarca vestimenta, gustos y un estilo de vida único.
-------------------------------------------------------------------------
-
-![Otaku: apasionados que viven y crean cultura japonesa. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/Otakus.jpg)
-
-La **subcultura otaku** ha emergido como un fenómeno cultural significativo en los últimos años. De hecho, el **Día Mundial del Otaku** se celebra el 15 de diciembre, una fecha en la que los **amantes del anime y el manga** conmemoran su pasión por la **cultura japonesa**. 
-
-### Más noticias
-
-* [¿Qué es el Día del Orgullo Friki? ¿En qué se diferencia de ‘otaku’, ‘geek’ y ‘nerd’?](https://www.elcomercio.com/afull/dia-friki-otaku-anime-historia-efemeride.html "https://www.elcomercio.com/afull/dia-friki-otaku-anime-historia-efemeride.html") 
-* [‘Anime’, ‘cosplay’, invitados internacionales y más en Budokan Quito 2024](https://www.elcomercio.com/tendencias/cultura/budokan-anime-comics-eventos-quito.html "https://www.elcomercio.com/tendencias/cultura/budokan-anime-comics-eventos-quito.html") 
-
-Su relevancia se manifiesta en el creciente **interés por el anime, el manga y la cultura japonesa** a nivel global. Este movimiento no solo atrae a un grupo demográfico específico, sino que también se convierte en un **punto de encuentro cultural** para personas de diversas edades y antecedentes.  
-
-El término “otaku” se refiere a aquellos que tienen una **profunda conexión con estos elementos culturales**, Ya que dedican tiempo y recursos a su consumo y creación, de acuerdo con [Clarín](https://www.clarin.com/internacional/otaku-origen-costumbres-tipos-considera-sos-seguidor_0_1mXjIjOpu9.html "https://www.clarin.com/internacional/otaku-origen-costumbres-tipos-considera-sos-seguidor_0_1mXjIjOpu9.html"). 
-
-**¿Qué significa ser otaku?**
------------------------------
-
-Desde sus **inicios en Japón** en la década de 1970, el **concepto de otaku** ha evolucionado significativamente. Originalmente, se utilizaba para describir a personas **obsesionadas con el anime y el manga**, pero con el tiempo ha adquirido una connotación más amplia. Hoy en día, ser un otaku implica una **identificación con una cultura** que incluye no solo la visualización de series y películas, sino también la **participación activa** en comunidades que crean contenido original, a decir de [UOC](https://www.uoc.edu/es/news/2023/301-otakus-japon "https://www.uoc.edu/es/news/2023/301-otakus-japon").  
-
-**Consejos para entender mejor a los otakus**
----------------------------------------------
-
-### **Vestimenta** 
-
-La vestimenta es un aspecto fundamental de la identidad otaku. El **‘cosplay’**, o disfrazarse como **personajes de anime o videojuegos**, es una práctica común en convenciones. **Los otakus personalizan su ropa** con imágenes de sus personajes favoritos, lo que no solo refleja su afición, sino que también actúa como un **signo de pertenencia** a esta comunidad, según [Crehana](https://www.crehana.com/blog/estilo-vida/que-es-el-anime/ "https://www.crehana.com/blog/estilo-vida/que-es-el-anime/"). 
-
-Además, los **colores de cabello vibrantes** y estilos únicos son comunes entre los otakus, especialmente entre las mujeres, quienes suelen optar por tonos como rosa o violeta. 
-
-### **Gustos** 
-
-Los gustos dentro de la **subcultura otaku** son diversos y abarcan varios medios. Los **anime y manga** son pilares fundamentales, pero también incluyen v**ideojuegos y música japonesa**. Series populares como ‘Attack on Titan’ y ‘My Hero Academia’ son referencias comunes entre los aficionados. 
-
-Además, los otakus suelen disfrutar de géneros específicos dentro del anime, como el **‘mecha’ o el ‘spokon’**, que ofrecen narrativas ricas y emocionantes, siguiendo con Crehana. 
-
-### **Lenguaje** 
-
-El **lenguaje utilizado** por los otakus incluye términos específicos que reflejan su cultura. Palabras como **“kawaii” (lindo) o “senpai” (mentor)** son ejemplos de cómo este grupo utiliza **el japonés para expresar conceptos** que son significativos dentro de su comunidad. Este lenguaje crea un sentido de exclusividad y pertenencia entre sus miembros, a decir de UOC.  
-
-### **Interacciones sociales** 
-
-Las interacciones sociales son otro componente clave del mundo otaku. **Las convenciones** se han convertido en eventos centrales donde los aficionados se reúnen para **compartir su pasión**. Estos eventos permiten a los otakus socializar, intercambiar ideas y exhibir sus disfraces. La comunidad también se extiende a **foros en línea** donde se discuten teorías sobre tramas y personajes, lo que crea un espacio para la colaboración creativa. 
-
-**Relevancia actual** 
-----------------------
-
-El **Día Mundial del Otaku**, celebrado cada 15 de diciembre, ha contribuido a **aumentar la visibilidad y aceptación** de esta subcultura. La popularidad de **plataformas de ‘streaming’**, como Crunchyroll, que ofrecen anime ha hecho que más personas se interesen por esta cultura. El fenómeno otaku no solo se limita al consumo; también abarca la creación de ‘fanart’ o ‘doujinshi’, desafiando las nociones tradicionales sobre los consumidores de cultura pop. 
-
-**La cultura otaku en el mundo y en Ecuador**
----------------------------------------------
-
-En Ecuador, la **cultura otaku** ha crecido tanto que cuenta con varios **almacenes especializados** donde los fanáticos de este estilo pueden encontrar todo lo relacionado con sus series de anime y manga favoritas. Asimismo, hay restaurantes y hasta cines que apuestan por presentar **películas de anime en cartelera**. Un ejemplo de esto es la reciente adaptación al estilo anime de una obra de Tolkien, ‘La Guerra de los Rohirrim’. Además, existen grandes **festivales otaku** anuales como el **[Ichiban](https://www.facebook.com/ichiban.ecuador.9/?locale=es_LA "https://www.facebook.com/ichiban.ecuador.9/?locale=es_LA") y el [Budokan](https://www.instagram.com/budokanec/?hl=es "https://www.instagram.com/budokanec/?hl=es")**. 
-
-### Te recomendamos:
-
-Ernesto Albán Gómez
-===================
-
-Un homenaje a un destacado jurista y maestro, recordado por su sabiduría, humanidad y contribuciones al derecho, la educación y la sociedad.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
-
-**Introducción:** Escribir con relación a alguien que ya no está, implica adentrarse con sinceridad en los pasillos del ayer, volver a recorrer los pasos ya andados, caminar despacio, en silencio y con respeto en aquellos espacios que se guardan en la memoria a manera de recuerdos, tratar de recopilarlos, quizás desordenadamente, ya que en la memoria el **orden cronológico** parecería ser relativo; tarea que se vuelve especial, cuando se la hace en memoria de un maestro, que sembró buenas semillas en la mente de sus alumnos.
-
-**a.- En la Facultad de Jurisprudencia:** Joven aún, quizás por los 21 años de edad, en la Facultad de Jurisprudencia de la U. Católica de Quito – embellecida por el patio central que hacía de parque, el mismo que compartimos con los estudiantes de economía –  facultad ubicada en aquel entonces en la Av. 12 de octubre y Carrión, un grupo de jóvenes privilegiados – lo escribo con humildad en razón de la calidad de las enseñanzas recibidas – tuvimos el honor de recibir clases de un gran maestro, grande tanto por su sencillez, cuanto por su conocimiento, me refiero al jurista doctor Ernesto Albán Gómez (+), catedrático que, con claridad nos enseñaba con profundidad, sabiduría y humanidad el derecho penal. Sin duda, fue una de las clases que más me gustaba asistir y estudiar; sin embargo, debo reconocer que no era solo por la materia en sí, sino también por la calidad humana del doctor Albán, el mismo que, nos explicaba con tranquilidad, con una sonrisa dibujada en su rostro iluminado de cálida mirada – propio de las almas nobles – quien nos motivaba inteligentemente a investigar, entender y darle sentido práctico a la normativa penal del país, muchas veces mediante el acertado método de la casuística. Recuerdo con agradecimiento y aprecio, como él, nos hizo ver, reflexionar y comprender la inconveniencia y riesgos de  la pena de muerte.
-
-**b.- Una vida fructífera de aporte a la sociedad:** Para aquel momento, el Dr. Albán ya había sido ministro de Educación en el gobierno de O. Hurtado, y si la memoria no me falla, decano de Derecho.
-
-Posteriormente, siendo presidente el Dr. Albán de “Novedades Jurídicas”, la más prestigiosa revista jurídica de la época, tuve el honor de escribir varios artículos para la misma, momentos en el que pude constatar su respeto a la libertad de opinión y delicadeza en jamás sugerir un enfoque en particular.
-
-El doctor Albán, junto con otros destacados magistrados, formó parte de una de las más respetables Cortes Supremas que ha tenido el Ecuador, cuya presencia avaló probidad, honestidad y justicia. Recibió un doctorado Honoris Causa por la Universidad Andina Simón Bolívar y fue miembro de la Academia Ecuatoriana de la Lengua.
-
-Pude conocer su valioso trabajo como autor de sus tomos Manual de Derecho Penal Ecuatoriano, de los cuales guardo con gratitud uno en particular, ya que tiene una dedicatoria personal. Su valiosa obra literaria, reflexiones y aportes al periodismo como subdirector de diario El Tiempo, articulista de opinión en diario Hoy, El Comercio, constituyeron un gran aporte intelectual.
-
-**c.- Agradecimiento y Solidaridad:** Estoy muy agradecido por su amistad, enseñanzas  y gran ejemplo de hombre de bien, es decir, por ser un gran ecuatoriano, de aquellos que tanto necesita el Ecuador, hoy y siempre, y que infortunadamente hay pocos.
-
-Desde esta columna, mi solidaridad y sentido pesar a su distinguida familia, seres queridos y  allegados.
-
-Infinitas gracias, hasta siempre respetado y apreciado Maestro. La vida es efímera, pero el legado no…
-
-Turismo: Evaluación 2024
-========================
-
-La inseguridad y falta de infraestructura limitan el turismo en Ecuador, exigiendo reformas urgentes.
------------------------------------------------------------------------------------------------------
-
-![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
-
-El **turismo**, frecuentemente mencionado como prioritario por los **políticos**, enfrenta **desafíos estructurales** y **coyunturales** que han minado su desarrollo sostenible en Ecuador durante 2024.
-
-La **inseguridad** ha sido un factor determinante en la **percepción internacional de Ecuador** como destino turístico. El aumento de crímenes violentos, incluyendo incidentes en lugares antes considerados seguros, como centros comerciales, ha erosionado la confianza de turistas y residentes. Este fenómeno se ve amplificado por la **cobertura mediática internacional,** que prioriza noticias sobre **violencia extrema** en el “nuevo narcoestado”, como nos tilda “The Economist” de Inglaterra.
-
-Un **experto internacional** destacó que “no hay sujeto más sensible a la **percepción** de **seguridad** que el turista”. En este contexto, Ecuador enfrenta un reto doble: no solo debe abordar los **problemas de violencia,** sino también **implementar estrategias efectivas de manejo de crisis** para mitigar los impactos negativos en su imagen.
-
-En el **ámbito sudamericano,** Ecuador está perdiendo competitividad frente a sus vecinos.  
-Perú: La consolidación de Lima como un hub aeroportuario clave y su infraestructura turística bien desarrollada le han permitido mantener un crecimiento constante en llegadas internacionales. La ciudad-aeropuerto de El Callao, a estrenarse el próximo año, pondrá a Perú en las nubes. En Colombia, Iniciativas como la producción de la serie de Netflix sobre “Cien Años de Soledad”, refuerzan su atractivo internacional.
-
-**Ecuador**, en contraste, **enfrenta desafíos como altos costos, percepción de inestabilidad e inseguridad,** apagones, lo que nos coloca en una posición de desventaja competitiva, a lo que ahora se suma malas carreteras y pésimos servicios básicos, que afectan la experiencia del visitante.
-
-El manejo inadecuado de residuos en zonas urbanas y rurales proyecta una imagen poco favorable de sostenibilidad, un aspecto cada vez más valorado por los turistas internacionales.
-
-En lugar de **enfocar los recursos en la mejora de infraestructura y promoción**, algunos gobiernos locales han priorizado la organización de eventos de bajo impacto turístico y alto contenido festivo que no contribuyen a **atraer visitantes nacionales y menos internacionales**.
-
-El 2024 será recordado como un año crítico para el turismo en Ecuador. Sin embargo, la **crisis actual** también ofrece una oportunidad para implementar **reformas estructurales** que requieren un **liderazgo político** aun ausente y una colaboración entre **sectores público y privado** que no termina de cuajar.
