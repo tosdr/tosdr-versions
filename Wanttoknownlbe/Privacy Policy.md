@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/hoe-cia-en-mossad-isis-in-het-leven-riepen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/kfc-plofkip-zorgt-voor-kfp-nominatie/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
