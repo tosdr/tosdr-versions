@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![spekr what is communism](/spekr/what-is-communism/card.svg)](https://jarick.works/spekr/what-is-communism)[![freeblr borders open borders or no borders](/freeblr/borders/open-borders-or-no-borders/card.svg)](https://jarick.works/freeblr/borders/open-borders-or-no-borders)[![freeblr economics the crackdown on price gouging helps no one except politicians and the media](/freeblr/economics/the-crackdown-on-price-gouging-helps-no-one-except-politicians-and-the-media/card.svg)](https://jarick.works/freeblr/economics/the-crackdown-on-price-gouging-helps-no-one-except-politicians-and-the-media)[![freeblr environment how environmentalism disdains the poor](/freeblr/environment/how-environmentalism-disdains-the-poor/card.svg)](https://jarick.works/freeblr/environment/how-environmentalism-disdains-the-poor)
+[![freeblr faq what criticisms have been made of anarchism](/freeblr/faq/what-criticisms-have-been-made-of-anarchism/card.svg)](https://jarick.works/freeblr/faq/what-criticisms-have-been-made-of-anarchism)[![freeblr taxation private charity versus public welfare](/freeblr/taxation/private-charity-versus-public-welfare/card.svg)](https://jarick.works/freeblr/taxation/private-charity-versus-public-welfare)[![freeblr limited government libertarian anarchism responses to ten objections](/freeblr/limited-government/libertarian-anarchism-responses-to-ten-objections/card.svg)](https://jarick.works/freeblr/limited-government/libertarian-anarchism-responses-to-ten-objections)[![spekr what is libertarian capitalism](/spekr/what-is-libertarian-capitalism/card.svg)](https://jarick.works/spekr/what-is-libertarian-capitalism)
 
 [Follow](#follow)
 
