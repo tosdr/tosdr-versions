@@ -170,10 +170,10 @@ Back to top
 * [Contact](https://www.sanofi.com/en/contact)
 * [Legal notice](https://www.sanofi.com/en/legal-notice)
 * [Privacy & data protection](https://www.sanofi.com/en/privacy-and-data-protection)
-* [Our publications](https://www.sanofi.com/en/publications)
 * [Cookies Policy](https://www.sanofi.com/en/data-privacy)
-* [Sitemap](https://www.sanofi.com/en/sitemap)
+* [Our publications](https://www.sanofi.com/en/publications)
 * [Directory](https://www.sanofi.com/en/directory)
+* [Sitemap](https://www.sanofi.com/en/sitemap)
 * [Accessibility: partial compliance](https://www.sanofi.com/en/accessibility-partial-compliance)
 * [Code of Conduct](https://www.codeofconduct.sanofi/)
 
