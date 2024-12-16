@@ -1,10 +1,10 @@
-**Sales:** [+44(0) 20 3808 5949](tel:+442038085949)
+[+44(0) 20 3808 5949](tel:+442038085949)
 
 [Docs & API](https://client.cdn77.com/support)[24/7 support](https://www.cdn77.com/contact)
 
 [![CDN77 logo](/_next/static/media/cdn77.ece79b85.svg)](https://www.cdn77.com/ "Homepage")
 
-**Sales:** [+44(0) 20 3808 5949](tel:+442038085949)
+[+44(0) 20 3808 5949](tel:+442038085949)
 
 [Docs & API](https://client.cdn77.com/support)[24/7 support](https://www.cdn77.com/contact)
 
