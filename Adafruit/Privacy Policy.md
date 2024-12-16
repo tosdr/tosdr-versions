@@ -1,5 +1,7 @@
 Due to high demand USPS orders may not ship for up to 3-4 business days.
 
+🎁📦🚚 [Approaching Holiday Shipping Deadline](https://www.adafruit.com/Holiday): Place all UPS UPS 3 Day orders by 11 am ET Tuesday, December 17🎄⛄❄️
+
 Glitch your gift list! Use code [gibson15](https://blog.adafruit.com/2024/12/09/gibson15/) for 15% off the [2024 Adafruit Holiday Gift Guide](https://www.adafruit.com/explore/holiday-gift-guide-2024)!
 
   Skip Navigation
@@ -408,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.”
+“ If you can't make a mistake, you can't make anything”
 
-[Marie Curie](http://en.wikipedia.org/wiki/Marie_Curie)
+[Marva Collins](https://en.wikipedia.org/wiki/Marva_Collins)
 
 [](https://www.adafruit.com/about)
 
