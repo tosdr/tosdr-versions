@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2029'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2044'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/microsoft-azure-files-80x29.png)](https://thebackroomtech.com/2019/01/15/setting-up-a-microsoft-azure-files-file-share/ "Setting Up A Microsoft Azure Files File Share")[Setting Up A Microsoft Azure Files File Share](https://thebackroomtech.com/2019/01/15/setting-up-a-microsoft-azure-files-file-share/ "Setting Up A Microsoft Azure Files File Share")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2026'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/01-microsoft-remote-desktop-install-app-store-80x44.png)](https://thebackroomtech.com/2018/11/08/how-to-connect-to-a-windows-ec2-instance-from-mac/ "How to Connect to a Windows EC2 Instance from Mac")[How to Connect to a Windows EC2 Instance from Mac](https://thebackroomtech.com/2018/11/08/how-to-connect-to-a-windows-ec2-instance-from-mac/ "How to Connect to a Windows EC2 Instance from Mac")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2039'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2008-80x26.png)](https://thebackroomtech.com/2008/03/24/marks-windows-2008-dns-server-command-line-cheat-sheet/ "Mark’s Windows 2008 DNS Server Command Line Cheat Sheet")[Mark’s Windows 2008 DNS Server Command Line Cheat Sheet](https://thebackroomtech.com/2008/03/24/marks-windows-2008-dns-server-command-line-cheat-sheet/ "Mark’s Windows 2008 DNS Server Command Line Cheat Sheet")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2077%2052'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/encryption-1-80x39.jpeg.optimal.jpeg)](https://thebackroomtech.com/2019/07/04/enable-encryption-for-microsoft-sql-server-connections/ "Enable Encryption for Microsoft SQL Server Connections")[Enable Encryption for Microsoft SQL Server Connections](https://thebackroomtech.com/2019/07/04/enable-encryption-for-microsoft-sql-server-connections/ "Enable Encryption for Microsoft SQL Server Connections")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2030'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/1-xenapp-install-77x52.png)](https://thebackroomtech.com/2018/04/09/simple-citrix-xenapp-install-and-deployment-step-by-step/ "Simple Citrix XenApp Install and Deployment – Step-by-Step")[Simple Citrix XenApp Install and Deployment – Step-by-Step](https://thebackroomtech.com/2018/04/09/simple-citrix-xenapp-install-and-deployment-step-by-step/ "Simple Citrix XenApp Install and Deployment – Step-by-Step")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2052'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/suse-linux-80x30.png)](https://thebackroomtech.com/2008/08/11/howto-mount-a-usb-device-in-suse-linux/ "Howto: Mount a USB Device in SuSE Linux")[Howto: Mount a USB Device in SuSE Linux](https://thebackroomtech.com/2008/08/11/howto-mount-a-usb-device-in-suse-linux/ "Howto: Mount a USB Device in SuSE Linux")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/active-directory-1-80x52.jpeg.optimal.jpeg)](https://thebackroomtech.com/2019/03/18/fix-active-directory-1818-error-during-dcpromo/ "Fix Active Directory 1818 Error during DCPromo")[Fix Active Directory 1818 Error during DCPromo](https://thebackroomtech.com/2019/03/18/fix-active-directory-1818-error-during-dcpromo/ "Fix Active Directory 1818 Error during DCPromo")
+    ![](https://s11921.pcdn.co/wp-content/uploads/recovery-options-70x52.png)](https://thebackroomtech.com/2010/08/28/windows-xp-or-windows-7-wont-boot-into-safe-mode/ "Windows XP or Windows 7 Won’t Boot into Safe Mode")[Windows XP or Windows 7 Won’t Boot into Safe Mode](https://thebackroomtech.com/2010/08/28/windows-xp-or-windows-7-wont-boot-into-safe-mode/ "Windows XP or Windows 7 Won’t Boot into Safe Mode")
 
 #### Our Publishing Family
 
