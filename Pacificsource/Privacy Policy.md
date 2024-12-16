@@ -700,7 +700,6 @@ An electronic submission has the same force and effect as if you had submitted a
 * [![Facebook](/sites/default/files/2022-02/icn-soc-facebook.svg)](https://www.facebook.com/PacificSource)
 * [![Youtube](/sites/default/files/2022-02/icn-soc-youtube.svg)](https://www.youtube.com/user/pacificsource)
 * [![Linkedin](/sites/default/files/2022-02/icn-soc-linkedin.svg)](https://www.linkedin.com/company/pacificsource-health-plans?trk=mini-profile)
-* [![social icon x](/sites/default/files/2023-11/icn-x.svg)](https://www.twitter.com/pacificsource)
 * [![PacificSource Instagram icon](/sites/default/files/2023-12/icn-soc-instagram_0.svg)](https://www.instagram.com/pacificsourcehealthplans/?hl=en)
 
 * [![Apple store link](/sites/default/files/2022-02/icn-apple-badge.svg)](https://apps.apple.com/us/app/mypacificsource/id903064328)
