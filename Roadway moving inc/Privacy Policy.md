@@ -160,15 +160,15 @@ Back To Main
     * [![](https://www.roadwaymoving.com/wp-content/uploads/2023/10/icon-offers.svg)GET YOUR FREE QUOTE NOW!](https://roadwaymoving.com/full-form/)
 * * [![Icon - USA map](https://www.roadwaymoving.com/wp-content/uploads/2023/10/icon-usa.svg)Roadway Locations by Region](#)
         
-        * ![new york movers](https://www.roadwaymoving.com/wp-content/uploads/2023/11/new-york.jpg)
+        * ![Roadway Movers NYC](https://www.roadwaymoving.com/wp-content/uploads/2024/12/roadway-movers-nyc.jpg)
             
             [Northeast](https://www.roadwaymoving.com/locations/?region=northeast)
             
-        * ![storage San Francisco](https://www.roadwaymoving.com/wp-content/smush-webp/2023/11/storage-San-Francisco-scaled.jpg.webp)
+        * ![Roadway Movers California](https://www.roadwaymoving.com/wp-content/uploads/2024/12/roadway-moving-california.jpg)
             
             [West](https://www.roadwaymoving.com/locations/?region=west)
             
-        * ![Roadway Moving's truck in Florida, during a move](https://www.roadwaymoving.com/wp-content/uploads/2023/11/florida.jpg)
+        * ![Roadway Movers Florida](https://www.roadwaymoving.com/wp-content/uploads/2024/12/roadway-moving-florida.jpg)
             
             [Southeast](https://www.roadwaymoving.com/locations/?region=southeast)
             
@@ -322,7 +322,7 @@ Back To Main
      [![icon - right arrow](https://www.roadwaymoving.com/wp-content/themes/roadway2/public/images/icon-arrow-up-right.2894ad.svg) White Glove Moving](https://www.roadwaymoving.com/search?search=White%20Glove%20Moving)
     
 
-![Roadway storage in transiit workers](https://roadwaymoving.com/wp-content/uploads/2023/10/roadway-storage-in-transiit-workers.jpg)
+![Roadway's movers with a happy customer](https://www.roadwaymoving.com/wp-content/uploads/2024/12/roadway-movers-with-a-happy-customer.jpg)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -342,9 +342,9 @@ Ready to get moving?
 
 [All Locations](https://roadwaymoving.com/locations/)
 
-![storage movers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Roadway Moving's crew with a happy customer](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![storage movers](https://roadwaymoving.com/wp-content/uploads/2023/11/lauraharrier-copy-1024x653.jpg)
+![Roadway Moving's crew with a happy customer](https://www.roadwaymoving.com/wp-content/uploads/2024/12/roadway-moving-crew-with-a-happy-customer.jpg)
 
 ![Icon - Pin on a map](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -360,9 +360,9 @@ Choose your Roadway Storage service:
 
 [See our storage process](https://roadwaymoving.com/storage/)
 
-![happy moving experience](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Roadway Movers with a happy customer during a move](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![happy moving experience](https://roadwaymoving.com/wp-content/uploads/2023/11/11.9.22-Anne-V-1-scaled.jpg)
+![Roadway Movers with a happy customer during a move](https://www.roadwaymoving.com/wp-content/uploads/2024/12/roadway-moving-team-during-a-move.jpg)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -404,9 +404,9 @@ Popular Cities
 
 [West Palm Beach](https://roadwaymoving.com/locations/florida/west-palm-beach/)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Roadway Moving's team](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://roadwaymoving.com/wp-content/uploads/2023/10/roadway-yankees-new-york-winning-team-1024x574.jpg)
+![Roadway Moving's team](https://www.roadwaymoving.com/wp-content/uploads/2024/12/roadway-moving-team.jpg)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -426,9 +426,9 @@ Ready to get moving?
 
 [All Locations](https://roadwaymoving.com/locations/)
 
-![roadway-moving-game-of-thrones-treating-customer-like-a-king](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Roadway Moving treating customer like a king from the Game of Thrones](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![roadway-moving-game-of-thrones-treating-customer-like-a-king](https://roadwaymoving.com/wp-content/uploads/2023/11/roadway-moving-game-of-thrones-treating-customer-like-a-king.jpg)
+![Roadway Moving treating customer like a king from the Game of Thrones](https://www.roadwaymoving.com/wp-content/uploads/2024/12/roadway-moving-game-of-thrones-treating-customer-like-a-king.jpg)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -442,9 +442,9 @@ Ready to get moving?
 
 [Certificate of Insurance (COI)](https://roadwaymoving.com/certificate-of-insurance-coi/)
 
-![moving day](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Happy customers with Roadway Moving's crew](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![moving day](https://roadwaymoving.com/wp-content/uploads/2023/11/Mayra8-1copy.jpg)
+![Happy customers with Roadway Moving's crew](https://www.roadwaymoving.com/wp-content/uploads/2024/12/happy-family-with-roadway-movers.jpg)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
