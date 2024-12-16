@@ -613,6 +613,12 @@ Most recent
 
 [16-12-2024
 
+Lagarde: US protectionism could inflict ‘new dents’ on European economy](https://www.euractiv.com/section/economy-jobs/news/lagarde-us-protectionism-could-inflict-new-dents-on-european-economy/)[16-12-2024
+
+Sweden ramps up criticism of Berlin in energy price feud](https://www.euractiv.com/section/politics/news/sweden-ramps-up-criticism-of-berlin-in-energy-price-feud/)[16-12-2024
+
+EU communication satellite network to see light of day with new €10.6 bn deal](https://www.euractiv.com/section/global-europe/news/eu-communication-satellite-network-to-see-light-of-day-with-new-e10-6-bn-deal/)[16-12-2024
+
 Serbia used Israeli firm’s tech to enable spy campaign, Amnesty says](https://www.euractiv.com/section/digital/news/serbia-used-israeli-firms-tech-to-enable-spy-campaign-amnesty-says/)[16-12-2024
 
 Israel plans to double population on occupied Golan, citing threats from Syria](https://www.euractiv.com/section/global-europe/news/israel-plans-to-double-population-on-occupied-golan-citing-threats-from-syria/)[16-12-2024
@@ -625,13 +631,7 @@ ALDE party lends a hand in forming Bulgaria’s government](https://www.euractiv
 
 Puigdemont raises the stakes, issues new warning to Sánchez](https://www.euractiv.com/section/politics/news/puigdemont-raises-the-stakes-issues-new-warning-to-sanchez/)[16-12-2024
 
-Portuguese president dismisses concerns about deficit](https://www.euractiv.com/section/politics/news/portuguese-president-dismisses-concerns-about-deficit/)[16-12-2024
-
-Meloni resigns as ECR president, endorses Poland’s Morawiecki for leadership](https://www.euractiv.com/section/politics/news/meloni-resigns-as-ecr-president-endorses-polands-morawiecki-for-leadership/)[16-12-2024
-
-Several hundreds, maybe thousands, may have died in Mayotte cyclone](https://www.euractiv.com/section/eet/news/several-hundreds-maybe-thousands-may-have-died-in-mayotte-cyclone/)[16-12-2024
-
-Polish ruling parties nominate different presidential candidates](https://www.euractiv.com/section/politics/news/polish-ruling-parties-nominate-different-presidential-candidates/)
+Portuguese president dismisses concerns about deficit](https://www.euractiv.com/section/politics/news/portuguese-president-dismisses-concerns-about-deficit/)
 
 ###### Advertisement
 
@@ -659,7 +659,7 @@ Polish ruling parties nominate different presidential candidates](https://www.eu
 
 ##### Newsletters
 
-* [The Capitals](https://www.euractiv.com/newsletters)
+* [The Capitals](https://www.euractiv.com/subscribe-to-the-capitals/)
 * [The Brief](https://www.euractiv.com/the-brief/)
 * [Economy Brief](https://www.euractiv.com/subscribe-to-the-economy-brief/)
 * [EU Politics Decoded](https://www.euractiv.com/get-eu-elections-decoded-in-your-inbox/)
@@ -669,7 +669,7 @@ Polish ruling parties nominate different presidential candidates](https://www.eu
 * [Health Pro Brief](https://www.euractiv.com/euractiv-pro)
 * [Technology Pro Brief](https://www.euractiv.com/euractiv-pro)
 * [Advocacy Lab Spotlight](https://www.euractiv.com/advocacy-lab-spotlight)
-* [Jobletter](https://www.euractiv.com/newsletters)
+* [Jobletter](https://jobs.euractiv.com/newsletter)
 * [Browse all newsletters](https://www.euractiv.com/newsletters)
 
 ##### Services
