@@ -182,25 +182,25 @@ No related posts.
 
 #### Recently Updated Pages
 
-* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - December 15, 2024
+* [The Times UK and The Sunday Times – Bias and Credibility](https://mediabiasfactcheck.com/the-times-of-london/ "View The Times UK and The Sunday Times – Bias and Credibility") - December 15, 2024
     
-* [JoeHoft.com – Bias and Credibility](https://mediabiasfactcheck.com/joehoft-com-bias-and-credibility/ "View JoeHoft.com – Bias and Credibility") - December 15, 2024
+* [Scientific American – Bias and Credibility](https://mediabiasfactcheck.com/scientific-american/ "View Scientific American – Bias and Credibility") - December 15, 2024
     
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - December 15, 2024
+* [Middle East Eye – Bias and Credibility](https://mediabiasfactcheck.com/middle-east-eye/ "View Middle East Eye – Bias and Credibility") - December 15, 2024
     
-* [Accounting Education Journal – Bias and Credibility](https://mediabiasfactcheck.com/accounting-education-journal-bias/ "View Accounting Education Journal – Bias and Credibility") - December 15, 2024
+* [Semafor – Bias and Credibility](https://mediabiasfactcheck.com/semafor-bias/ "View Semafor – Bias and Credibility") - December 15, 2024
     
-* [Journalist Bias](https://mediabiasfactcheck.com/journalist-bias/ "View Journalist Bias") - December 15, 2024
+* [US News World Report – Bias and Credibility](https://mediabiasfactcheck.com/us-news-world-report/ "View US News World Report – Bias and Credibility") - December 15, 2024
     
-* [Matt Walsh Bias Rating](https://mediabiasfactcheck.com/matt-walsh-bias-rating/ "View Matt Walsh Bias Rating") - December 15, 2024
+* [The Jerusalem Post – Bias and Credibility](https://mediabiasfactcheck.com/the-jerusalem-post/ "View The Jerusalem Post – Bias and Credibility") - December 15, 2024
     
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 15, 2024
+* [Financial Times – Bias and Credibility](https://mediabiasfactcheck.com/financial-times/ "View Financial Times – Bias and Credibility") - December 15, 2024
     
-* [WJSU – NPR – Jackson – Bias and Credibility](https://mediabiasfactcheck.com/wjsu-npr-jackson-bias/ "View WJSU – NPR – Jackson –  Bias and Credibility") - December 15, 2024
+* [Just The News – Bias and Credibility](https://mediabiasfactcheck.com/just-the-news/ "View Just The News – Bias and Credibility") - December 15, 2024
     
-* [Zimbabwe Government and Media Profile](https://mediabiasfactcheck.com/zimbabwe-media-profile/ "View Zimbabwe Government and Media Profile") - December 14, 2024
+* [Raw Story – Bias and Credibility](https://mediabiasfactcheck.com/raw-story/ "View Raw Story – Bias and Credibility") - December 15, 2024
     
-* [Yemen Government and Media Profile](https://mediabiasfactcheck.com/yemen-government-and-media-profile/ "View Yemen Government and Media Profile") - December 14, 2024
+* [CNBC – Bias and Credibility](https://mediabiasfactcheck.com/cnbc/ "View CNBC – Bias and Credibility") - December 15, 2024
     
 
 #### Today’s Top Page Views
@@ -211,10 +211,10 @@ No related posts.
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Earth.com - Bias and Credibility](https://mediabiasfactcheck.com/earth-com-bias/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [MBFC's Daily Vetted Fact Checks for 12/14/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/14/mbfcs-daily-vetted-fact-checks-for-12-14-2024-weekend-edition/)
-* [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [Daily Telegraph (UK) - Bias and Credibility](https://mediabiasfactcheck.com/daily-telegraph/)
+* [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
+* [MBFC's Daily Vetted Fact Checks for 12/14/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/14/mbfcs-daily-vetted-fact-checks-for-12-14-2024-weekend-edition/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 
 #### Subscribe via Email
 
