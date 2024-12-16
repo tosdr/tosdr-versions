@@ -29,8 +29,6 @@ My Account
 
 Sign in
 
-JLCPCB Help Center
-
 Terms & Conditions
 
 Effective Date: September 14, 2024
