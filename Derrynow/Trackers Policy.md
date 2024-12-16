@@ -257,63 +257,14 @@ Advertise with Us
 
 Most Popular
 
-[![IN PICTURES: Boys Indoor Primary School GAA Blitz held in Derry's Templemore Sports Complex](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Boys Indoor Primary School GAA Blitz held in Derry's Templemore Sports Complex")](https://www.derrynow.com/story-telling/pictures---videos/1676472/in-pictures-boys-indoor-primary-school-gaa-blitz-held-in-derry-s-templemore-sports-complex.html)
+[![Derry man charged with assaulting his partner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with assaulting his partner")](https://www.derrynow.com/news/local-news/1681635/derry-man-charged-with-assaulting-his-partner.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Boys Indoor Primary School GAA Blitz held in Derry's Templemore Sports Complex](https://www.derrynow.com/story-telling/pictures---videos/1676472/in-pictures-boys-indoor-primary-school-gaa-blitz-held-in-derry-s-templemore-sports-complex.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Mayor thanks Derry and Strabane council staff with tasty breakfast treat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mayor thanks Derry and Strabane council staff with tasty breakfast treat")](https://www.derrynow.com/news/local-news/1680124/mayor-thanks-derry-and-strabane-council-staff-with-tasty-breakfast-treat.html)
-
-Martin Porter, Grounds Maintenance, and Stephen McGarrigle, gravedigger at DC&SDC, pictured with Derry City & Strabane District Council Mayor Lilian Seenoi-Barr.
+Derry Magistrates' Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Mayor thanks Derry and Strabane council staff with tasty breakfast treat](https://www.derrynow.com/news/local-news/1680124/mayor-thanks-derry-and-strabane-council-staff-with-tasty-breakfast-treat.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police launch murder probe following ‘brutal and senseless’ death of woman](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police launch murder probe following ‘brutal and senseless’ death of woman")](https://www.derrynow.com/news/northern-ireland/1681252/police-launch-murder-probe-following-brutal-and-senseless-death-of-woman.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Police launch murder probe following ‘brutal and senseless’ death of woman](https://www.derrynow.com/news/northern-ireland/1681252/police-launch-murder-probe-following-brutal-and-senseless-death-of-woman.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Next Irish government should begin planning for unity, says Eastwood](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Next Irish government should begin planning for unity, says Eastwood")](https://www.derrynow.com/news/northern-ireland/1681143/next-irish-government-should-begin-planning-for-unity-eastwood.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Next Irish government should begin planning for unity – Eastwood](https://www.derrynow.com/news/northern-ireland/1681143/next-irish-government-should-begin-planning-for-unity-eastwood.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Co Down town in ‘shock’ following sudden death of woman](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Co Down town in ‘shock’ following sudden death of woman")](https://www.derrynow.com/news/northern-ireland/1681099/co-down-town-in-shock-following-sudden-death-of-woman.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Co Down town in ‘shock’ following sudden death of woman](https://www.derrynow.com/news/northern-ireland/1681099/co-down-town-in-shock-following-sudden-death-of-woman.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Householder attacked by hammer-wielding intruder in ‘terrifying’ ordeal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Householder attacked by hammer-wielding intruder in ‘terrifying’ ordeal")](https://www.derrynow.com/news/northern-ireland/1681180/householder-attacked-by-hammer-wielding-intruder-in-terrifying-ordeal.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Householder attacked by hammer-wielding intruder in ‘terrifying’ ordeal](https://www.derrynow.com/news/northern-ireland/1681180/householder-attacked-by-hammer-wielding-intruder-in-terrifying-ordeal.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Car passenger dies in single-vehicle crash](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Car passenger dies in single-vehicle crash")](https://www.derrynow.com/news/northern-ireland/1681200/car-passenger-dies-in-single-vehicle-crash.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Car passenger dies in single-vehicle crash](https://www.derrynow.com/news/northern-ireland/1681200/car-passenger-dies-in-single-vehicle-crash.html)
+[Derry man charged with assaulting his partner](https://www.derrynow.com/news/local-news/1681635/derry-man-charged-with-assaulting-his-partner.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Assault victim found unconscious in street with head injuries](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Assault victim found unconscious in street with head injuries")](https://www.derrynow.com/news/northern-ireland/1681233/assault-victim-found-unconscious-in-street-with-head-injuries.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Assault victim found unconscious in street with head injuries](https://www.derrynow.com/news/northern-ireland/1681233/assault-victim-found-unconscious-in-street-with-head-injuries.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1680148/derry-death-notices-monday-december-16-2024.html)
 
@@ -322,11 +273,85 @@ Martin Porter, Grounds Maintenance, and Stephen McGarrigle, gravedigger at DC&SD
 [Derry Death Notices - Monday, December 16, 2024](https://www.derrynow.com/news/deaths/1680148/derry-death-notices-monday-december-16-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![PICTURES: Ireland's sporting heroes and partners step out in style to the RTÉ Sport Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Ireland's sporting heroes and partners step out in style to the RTÉ Sport Awards")](https://www.derrynow.com/news/national-news/1681764/pictures-ireland-s-sporting-heroes-and-partners-step-out-in-style-to-the-rte-sport-awards.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: Ireland's sporting heroes and partners step out in style to the RTÉ Sport Awards](https://www.derrynow.com/news/national-news/1681764/pictures-ireland-s-sporting-heroes-and-partners-step-out-in-style-to-the-rte-sport-awards.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry woman charged with breaching bail condition remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman charged with breaching bail condition remanded")](https://www.derrynow.com/news/local-news/1681706/county-derry-woman-charged-with-breaching-bail-condition-remanded.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[County Derry woman charged with breaching bail condition remanded](https://www.derrynow.com/news/local-news/1681706/county-derry-woman-charged-with-breaching-bail-condition-remanded.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman appears at Derry Magistrates' Court charged with assaulting her partner](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman appears at Derry Magistrates' Court charged with assaulting her partner")](https://www.derrynow.com/news/local-news/1681679/woman-appears-at-derry-magistrates-court-charged-with-assaulting-her-partner.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman appears at Derry Magistrates' Court charged with assaulting her partner](https://www.derrynow.com/news/local-news/1681679/woman-appears-at-derry-magistrates-court-charged-with-assaulting-her-partner.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Prospective pupils welcomed to Hollybush PS annual Open Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Prospective pupils welcomed to Hollybush PS annual Open Day")](https://www.derrynow.com/story-telling/pictures---videos/1678367/in-pictures-prospective-pupils-welcomed-to-hollybush-ps-annual-open-day.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Prospective pupils welcomed to Hollybush PS annual Open Day](https://www.derrynow.com/story-telling/pictures---videos/1678367/in-pictures-prospective-pupils-welcomed-to-hollybush-ps-annual-open-day.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police launch murder probe following ‘brutal and senseless’ death of woman](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police launch murder probe following ‘brutal and senseless’ death of woman")](https://www.derrynow.com/news/northern-ireland/1681252/police-launch-murder-probe-following-brutal-and-senseless-death-of-woman.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Police launch murder probe following ‘brutal and senseless’ death of woman](https://www.derrynow.com/news/northern-ireland/1681252/police-launch-murder-probe-following-brutal-and-senseless-death-of-woman.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Assault victim found unconscious in street with head injuries](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Assault victim found unconscious in street with head injuries")](https://www.derrynow.com/news/northern-ireland/1681233/assault-victim-found-unconscious-in-street-with-head-injuries.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Assault victim found unconscious in street with head injuries](https://www.derrynow.com/news/northern-ireland/1681233/assault-victim-found-unconscious-in-street-with-head-injuries.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![54-year-old Tyrone man pleads guilty to committing series of historical sex assaults](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "54-year-old Tyrone man pleads guilty to committing series of historical sex assaults")](https://www.derrynow.com/news/local-news/1681783/54-year-old-tyrone-man-pleads-guilty-to-committing-series-of-historical-sex-assaults.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[54-year-old Tyrone man pleads guilty to committing series of historical sex assaults](https://www.derrynow.com/news/local-news/1681783/54-year-old-tyrone-man-pleads-guilty-to-committing-series-of-historical-sex-assaults.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Next Irish government should begin planning for unity, says Eastwood](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Next Irish government should begin planning for unity, says Eastwood")](https://www.derrynow.com/news/local-news/1681575/next-irish-government-should-begin-planning-for-unity-says-eastwood.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Next Irish government should begin planning for unity, says Eastwood](https://www.derrynow.com/news/local-news/1681575/next-irish-government-should-begin-planning-for-unity-says-eastwood.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Derry XC attracts best talent to Thornhill College venue](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry XC attracts best talent to Thornhill College venue")](https://www.derrynow.com/story-telling/pictures---videos/1681638/in-pictures-derry-xc-attracts-best-talent-to-thornhill-college-venue.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry XC attracts best talent to Thornhill College venue](https://www.derrynow.com/story-telling/pictures---videos/1681638/in-pictures-derry-xc-attracts-best-talent-to-thornhill-college-venue.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Prospective pupils welcomed to Hollybush PS annual Open Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Prospective pupils welcomed to Hollybush PS annual Open Day")](https://www.derrynow.com/story-telling/pictures---videos/1678367/in-pictures-prospective-pupils-welcomed-to-hollybush-ps-annual-open-day.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Prospective pupils welcomed to Hollybush PS annual Open Day](https://www.derrynow.com/story-telling/pictures---videos/1678367/in-pictures-prospective-pupils-welcomed-to-hollybush-ps-annual-open-day.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Boys Indoor Primary School GAA Blitz held in Derry's Templemore Sports Complex](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Boys Indoor Primary School GAA Blitz held in Derry's Templemore Sports Complex")](https://www.derrynow.com/story-telling/pictures---videos/1676472/in-pictures-boys-indoor-primary-school-gaa-blitz-held-in-derry-s-templemore-sports-complex.html)
 
@@ -383,20 +408,6 @@ Multimedia
 
 [IN PICTURES: Celtic FC Foundation hosts Christmas Ability Counts Tournament in Derry](https://www.derrynow.com/story-telling/pictures---videos/1676474/in-pictures-celtic-fc-foundation-hosts-christmas-ability-counts-tournament-in-derry.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Jack and Saoirse. Jost Jewels. (Photos - Deirdre Heaney, nwpresspics)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Jack and Saoirse. Jost Jewels. (Photos - Deirdre Heaney, nwpresspics)")](https://www.derrynow.com/story-telling/pictures---videos/1676468/in-pictures-north-west-learning-disability-centre-s-christmas-craft-fair.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: North West Learning Disability Centre's Christmas Craft Fair](https://www.derrynow.com/story-telling/pictures---videos/1676468/in-pictures-north-west-learning-disability-centre-s-christmas-craft-fair.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Enagh Youth Forum's awards ceremony at the White Horse Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Enagh Youth Forum's awards ceremony at the White Horse Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1674949/in-pictures-enagh-youth-forum-s-awards-ceremony-at-the-white-horse-hotel.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Enagh Youth Forum's awards ceremony at the White Horse Hotel](https://www.derrynow.com/story-telling/pictures---videos/1674949/in-pictures-enagh-youth-forum-s-awards-ceremony-at-the-white-horse-hotel.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -498,55 +509,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1680148/derry-death-notices-monday-december-16-2024.html)
+[![54-year-old Tyrone man pleads guilty to committing series of historical sex assaults](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "54-year-old Tyrone man pleads guilty to committing series of historical sex assaults")](https://www.derrynow.com/news/local-news/1681783/54-year-old-tyrone-man-pleads-guilty-to-committing-series-of-historical-sex-assaults.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[54-year-old Tyrone man pleads guilty to committing series of historical sex assaults](https://www.derrynow.com/news/local-news/1681783/54-year-old-tyrone-man-pleads-guilty-to-committing-series-of-historical-sex-assaults.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry woman charged with breaching bail condition remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman charged with breaching bail condition remanded")](https://www.derrynow.com/news/local-news/1681706/county-derry-woman-charged-with-breaching-bail-condition-remanded.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[County Derry woman charged with breaching bail condition remanded](https://www.derrynow.com/news/local-news/1681706/county-derry-woman-charged-with-breaching-bail-condition-remanded.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman appears at Derry Magistrates' Court charged with assaulting her partner](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Woman appears at Derry Magistrates' Court charged with assaulting her partner")](https://www.derrynow.com/news/local-news/1681679/woman-appears-at-derry-magistrates-court-charged-with-assaulting-her-partner.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman appears at Derry Magistrates' Court charged with assaulting her partner](https://www.derrynow.com/news/local-news/1681679/woman-appears-at-derry-magistrates-court-charged-with-assaulting-her-partner.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man charged with assaulting his partner](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Derry man charged with assaulting his partner")](https://www.derrynow.com/news/local-news/1681635/derry-man-charged-with-assaulting-his-partner.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with assaulting his partner](https://www.derrynow.com/news/local-news/1681635/derry-man-charged-with-assaulting-his-partner.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Next Irish government should begin planning for unity, says Eastwood](https://www.derrynow.com/resizer/165/93/true/pa/2024_12_15/1734263707647_0.jpg--.jpg?1734263707717 "Next Irish government should begin planning for unity, says Eastwood")](https://www.derrynow.com/news/local-news/1681575/next-irish-government-should-begin-planning-for-unity-says-eastwood.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Next Irish government should begin planning for unity, says Eastwood](https://www.derrynow.com/news/local-news/1681575/next-irish-government-should-begin-planning-for-unity-says-eastwood.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%281%29-1695307127889.jpg--.jpg?1695307127981 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1680148/derry-death-notices-monday-december-16-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Monday, December 16, 2024](https://www.derrynow.com/news/deaths/1680148/derry-death-notices-monday-december-16-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Mayor thanks Derry and Strabane council staff with tasty breakfast treat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mayor thanks Derry and Strabane council staff with tasty breakfast treat")](https://www.derrynow.com/news/local-news/1680124/mayor-thanks-derry-and-strabane-council-staff-with-tasty-breakfast-treat.html)
-
-Martin Porter, Grounds Maintenance, and Stephen McGarrigle, gravedigger at DC&SDC, pictured with Derry City & Strabane District Council Mayor Lilian Seenoi-Barr.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Mayor thanks Derry and Strabane council staff with tasty breakfast treat](https://www.derrynow.com/news/local-news/1680124/mayor-thanks-derry-and-strabane-council-staff-with-tasty-breakfast-treat.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1680147/derry-death-notices-sunday-december-15-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, December 15, 2024](https://www.derrynow.com/news/deaths/1680147/derry-death-notices-sunday-december-15-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ballinderry](https://www.derrynow.com/resizer/165/93/true/2024_12_14/470216127_1017434850427492_4052435968559945983_n-1734216292930.jpg--.jpg?1734216292992 "Ballinderry")](https://www.derrynow.com/news/derry-sport/1681019/ballinderry-crowned-ulster-champions-thanks-to-darren-lawn-s-late-winner.html)
-
-The Ballindery players celebrate their historic win.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ballinderry crowned Ulster champions thanks to Darren Lawn's late winner!](https://www.derrynow.com/news/derry-sport/1681019/ballinderry-crowned-ulster-champions-thanks-to-darren-lawn-s-late-winner.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Institute](https://www.derrynow.com/resizer/165/93/true/2024_12_14/Institute_v_Ards_8-1734213402579.jpg--.jpg?1734213404158 "Institute")](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
-
-Kevin Deery watched his team produce their best performance of the season.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Institute dominate league leaders Bangor at the Brandywell](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ronan Boyce interview with Brendan McGilligan](https://www.derrynow.com/resizer/165/93/true/2024_12_14/3675dac1699982eb9241e3c16cb96975.jpg--.jpg "Ronan Boyce interview with Brendan McGilligan")](https://www.derrynow.com/video/derry-sport/1680642/exciting-time-for-derry-city-and-their-fans-according-to-defender-ronan-boyce.html)
-
-Ronan Boyce interview with Brendan McGilligan
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-['Exciting' time for Derry City and their fans according to defender Ronan Boyce](https://www.derrynow.com/video/derry-sport/1680642/exciting-time-for-derry-city-and-their-fans-according-to-defender-ronan-boyce.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
