@@ -18,7 +18,7 @@ Using information available, combined with skills acquired, can help make good d
 
        
 
-[Ground Shipping deadline: Order by 12 PM CST on 12/16 for delivery by 12/24! 🎁](https://sphero.com/pages/support?hcUrl=%2Fen-US%2F2024-holiday-shipping-schedule-758510)
+[Order by 12 PM CST on Dec 18 and select 3-Day Shipping to get your gifts by Dec 24! 🎁 See the full holiday shipping schedule >](https://sphero.com/pages/support?hcUrl=%2Fen-US%2F2024-holiday-shipping-schedule-758510)
 
 * Shop
 * Educator Resources
