@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Hugo van Sittert
+Henry Venter
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=7ecee418552944be47409fcca2e438b06bb5802dfdc59aa18a9d750380c5fbf8&c=185566438)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=63411816)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=7ecee418552944be47409fcca2e438b06bb5802dfdc59aa18a9d750380c5fbf8&c=4656392)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client Eruca](https://www.invoicesonline.co.za/scripts/image.php?bid=8439&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=97729669)  
+Eruca
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=7ecee418552944be47409fcca2e438b06bb5802dfdc59aa18a9d750380c5fbf8&c=200755904)  
-Iurus Inc
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=202953343)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=7ecee418552944be47409fcca2e438b06bb5802dfdc59aa18a9d750380c5fbf8&c=211128769)  
-CLEVER STUDENTS
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=121969735)  
+Website Café (PTY) LTD
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=7ecee418552944be47409fcca2e438b06bb5802dfdc59aa18a9d750380c5fbf8&c=61366592)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=22120409)  
+Abandoned Vehicle and Truck Solutions
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=7ecee418552944be47409fcca2e438b06bb5802dfdc59aa18a9d750380c5fbf8&c=153619561)  
-Peter Salvage Pty Ltd
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=79772196)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=7ecee418552944be47409fcca2e438b06bb5802dfdc59aa18a9d750380c5fbf8&c=78477950)  
-West Coast Horse Trails
+![valued client Mmakoma projects ](https://www.invoicesonline.co.za/scripts/image.php?bid=5917&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=116614160)  
+Mmakoma projects
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=7ecee418552944be47409fcca2e438b06bb5802dfdc59aa18a9d750380c5fbf8&c=119574222)  
-Repairs In Motion
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=27497613)  
+CGHK Enterprises (PTY) LTD
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=7ecee418552944be47409fcca2e438b06bb5802dfdc59aa18a9d750380c5fbf8&c=184185047)  
-Lindani Protection Services & Projects
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=56953062)  
+IYD
 
-![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=7ecee418552944be47409fcca2e438b06bb5802dfdc59aa18a9d750380c5fbf8&c=173087402)  
-Sophia's Roses
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=214389101)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=7ecee418552944be47409fcca2e438b06bb5802dfdc59aa18a9d750380c5fbf8&c=189387630)  
-Karino Merinos ( PTY ) LTD
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=5466173)  
+J.M. HUMAN RESOURCES
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=7ecee418552944be47409fcca2e438b06bb5802dfdc59aa18a9d750380c5fbf8&c=104517358)  
-APTV Telecoms CC
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=85959013)  
+United Paintball Federation
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=7ecee418552944be47409fcca2e438b06bb5802dfdc59aa18a9d750380c5fbf8&c=171943562)  
-LEO DEVELOPMENT GROUP
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=204247269)  
+All Trucking Solutions
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=7ecee418552944be47409fcca2e438b06bb5802dfdc59aa18a9d750380c5fbf8&c=199837271)  
-Little Nutty Professors
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=87886156)  
+Nogana Events and Decor
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=7ecee418552944be47409fcca2e438b06bb5802dfdc59aa18a9d750380c5fbf8&c=212832543)  
-BD Maintenance
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=164190964)  
+Durbanville Classifieds (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
