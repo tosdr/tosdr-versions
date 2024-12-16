@@ -22,8 +22,8 @@ Los documentos legales necesarios para ofrecer nuestros servicios. El documento 
 
 Los derechos y obligaciones del Usuario y el Proveedor resultantes de la utilización del Servicio se rigen por las presentes Condiciones Generales.
 
-Introductory Provisions
------------------------
+Disposiciones introductorias
+----------------------------
 
 Estas condiciones generales son parte integrante del acuerdo de servicio celebrado entre el usuario y el proveedor (en lo sucesivo denominado "**Acuerdo**") y definir las normas y condiciones vinculantes para la prestación de Servicios y Productos y el uso de los mismos. Las presentes condiciones generales regulan la relación contractual entre el prestador de servicios y el usuario.
 
