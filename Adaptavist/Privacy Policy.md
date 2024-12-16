@@ -834,6 +834,6 @@ Website by
 
 [Brew Digital
 
-chevron icon](https://www.brewdigital.com/)
+chevron icon](https://brewdigital.com/)
 
 [Contact us](https://www.adaptavist.com/contact)
