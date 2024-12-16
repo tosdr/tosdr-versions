@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Sunday, December 15 2024
+Monday, December 16 2024
 
 Latest
 
+* [NYT Strands today — hints, spangram and answers for game #288 (Monday, December 16 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-288-monday-december-16-2024/)
+* [Clop ransomware claims responsibility for Cleo data theft attacks](https://digitpatrox.com/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
+* [This mod turns the PSP into a tiny PS2 with Bluetooth controller support](https://digitpatrox.com/this-mod-turns-the-psp-into-a-tiny-ps2-with-bluetooth-controller-support/)
+* [How to Get the Petal Dress in Dress to Impress Winter Update](https://digitpatrox.com/how-to-get-the-petal-dress-in-dress-to-impress-winter-update/)
+* [WhatsApp Now Lets You Call Select Members of a Group Chat](https://digitpatrox.com/whatsapp-now-lets-you-call-select-members-of-a-group-chat/)
+* [How to Clean Holiday Decor Items](https://digitpatrox.com/how-to-clean-holiday-decor-items/)
+* [Which Is Best for Your Home Theater?](https://digitpatrox.com/which-is-best-for-your-home-theater/)
+* [New Nintendo Switch 2: 5 biggest rumored changes](https://digitpatrox.com/new-nintendo-switch-2-5-biggest-rumored-changes/)
 * [US offers $5 million for info on North Korean IT worker farms](https://digitpatrox.com/us-offers-5-million-for-info-on-north-korean-it-worker-farms/)
 * [Apple’s foldable iPad could be like ‘two iPad Pros side-by-side’](https://digitpatrox.com/apples-foldable-ipad-could-be-like-two-ipad-pros-side-by-side/)
-* [How to Get the Astral Rod in Fisch](https://digitpatrox.com/how-to-get-the-astral-rod-in-fisch/)
-* [Toxic Christmas Tree Water and Other Holiday Pet Dangers You Never Knew About](https://digitpatrox.com/toxic-christmas-tree-water-and-other-holiday-pet-dangers-you-never-knew-about/)
-* [Popular Midsized Sedans to Avoid and What to Buy Instead](https://digitpatrox.com/popular-midsized-sedans-to-avoid-and-what-to-buy-instead/)
-* [I Used AI Chatbots for a Week to Answer Common Questions—Here’s What Happened](https://digitpatrox.com/i-used-ai-chatbots-for-a-week-to-answer-common-questions-heres-what-happened/)
-* [I used ChatGPT to analyze my Apple Health activity and uncover trends — here’s what happened](https://digitpatrox.com/i-used-chatgpt-to-analyze-my-apple-health-activity-and-uncover-trends-heres-what-happened/)
-* [Germany blocks BadBox malware loaded on 30,000 Android devices](https://digitpatrox.com/germany-blocks-badbox-malware-loaded-on-30000-android-devices/)
-* [Monument Valley 3: a worthy update to a fabulous mobile game](https://digitpatrox.com/monument-valley-3-a-worthy-update-to-a-fabulous-mobile-game/)
-* [Today’s Wordle Hints, Answer for #1275 on December 15, 2024](https://digitpatrox.com/todays-wordle-hints-answer-for-1275-on-december-15-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/08/12/north-korean-hackers.jpg)](https://digitpatrox.com/us-offers-5-million-for-info-on-north-korean-it-worker-farms/)
+* [![](https://cdn.mos.cms.futurecdn.net/TPjnbnuxSnR2Hxho3tzVYJ-1200-80.jpg)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-288-monday-december-16-2024/)
     
-    [US offers $5 million for info on North Korean IT worker farms](https://digitpatrox.com/us-offers-5-million-for-info-on-north-korean-it-worker-farms/)
+    [NYT Strands today — hints, spangram and answers for game #288 (Monday, December 16 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-288-monday-december-16-2024/)
     
-    55 minutes ago
+    27 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/ztBNS0Wj8erxZNlvUyuPBcwA9vY=/0x0:2700x1800/1200x628/filters:focal(1350x900:1351x901)/cdn.vox-cdn.com/uploads/chorus_asset/file/25446231/247111_iPad_Pro_2024_AKrales_0891.jpg)](https://digitpatrox.com/apples-foldable-ipad-could-be-like-two-ipad-pros-side-by-side/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/12/15/hacker-card.jpg)](https://digitpatrox.com/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
     
-    [Apple’s foldable iPad could be like ‘two iPad Pros side-by-side’](https://digitpatrox.com/apples-foldable-ipad-could-be-like-two-ipad-pros-side-by-side/)
+    [Clop ransomware claims responsibility for Cleo data theft attacks](https://digitpatrox.com/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
     
-    1 hour ago
+    2 hours ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/12/astral-rod-in-fisch.jpg)](https://digitpatrox.com/how-to-get-the-astral-rod-in-fisch/)
+* [![](https://cdn.vox-cdn.com/thumbor/yVpKtxA-rxfq-ZThDx5NOOnkiv4=/0x0:1500x1125/1200x628/filters:focal(750x563:751x564)/cdn.vox-cdn.com/uploads/chorus_asset/file/25791257/PS_Placeable.jpg)](https://digitpatrox.com/this-mod-turns-the-psp-into-a-tiny-ps2-with-bluetooth-controller-support/)
     
-    [How to Get the Astral Rod in Fisch](https://digitpatrox.com/how-to-get-the-astral-rod-in-fisch/)
+    [This mod turns the PSP into a tiny PS2 with Bluetooth controller support](https://digitpatrox.com/this-mod-turns-the-psp-into-a-tiny-ps2-with-bluetooth-controller-support/)
     
-    1 hour ago
+    2 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01HF2H32NRB987MMKVMH6F73D7/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/toxic-christmas-tree-water-and-other-holiday-pet-dangers-you-never-knew-about/)
+* [![](https://beebom.com/wp-content/uploads/2024/12/Dress-to-Impress-Petal-Dress-showcase-image.jpg?w=1250&quality=75)](https://digitpatrox.com/how-to-get-the-petal-dress-in-dress-to-impress-winter-update/)
     
-    [Toxic Christmas Tree Water and Other Holiday Pet Dangers You Never Knew About](https://digitpatrox.com/toxic-christmas-tree-water-and-other-holiday-pet-dangers-you-never-knew-about/)
+    [How to Get the Petal Dress in Dress to Impress Winter Update](https://digitpatrox.com/how-to-get-the-petal-dress-in-dress-to-impress-winter-update/)
     
-    4 hours ago
+    2 hours ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1722876253/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Popular-Midsized-Sedans-to-Avoid-and-What-to-Buy-Instead-0824)](https://digitpatrox.com/popular-midsized-sedans-to-avoid-and-what-to-buy-instead/)
+* [![](https://lifehacker.com/imagery/articles/01JF0D06EDXRBH8XX5ZAN6BB6R/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/whatsapp-now-lets-you-call-select-members-of-a-group-chat/)
     
-    [Popular Midsized Sedans to Avoid and What to Buy Instead](https://digitpatrox.com/popular-midsized-sedans-to-avoid-and-what-to-buy-instead/)
+    [WhatsApp Now Lets You Call Select Members of a Group Chat](https://digitpatrox.com/whatsapp-now-lets-you-call-select-members-of-a-group-chat/)
     
-    4 hours ago
+    5 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [55 minutes ago
+* [27 minutes ago
     
-    ### US offers $5 million for info on North Korean IT worker farms](https://digitpatrox.com/us-offers-5-million-for-info-on-north-korean-it-worker-farms/)
-* [1 hour ago
+    ### NYT Strands today — hints, spangram and answers for game #288 (Monday, December 16 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-288-monday-december-16-2024/)
+* [2 hours ago
     
-    ### Apple’s foldable iPad could be like ‘two iPad Pros side-by-side’](https://digitpatrox.com/apples-foldable-ipad-could-be-like-two-ipad-pros-side-by-side/)
-* [1 hour ago
+    ### Clop ransomware claims responsibility for Cleo data theft attacks](https://digitpatrox.com/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
+* [2 hours ago
     
-    ### How to Get the Astral Rod in Fisch](https://digitpatrox.com/how-to-get-the-astral-rod-in-fisch/)
+    ### This mod turns the PSP into a tiny PS2 with Bluetooth controller support](https://digitpatrox.com/this-mod-turns-the-psp-into-a-tiny-ps2-with-bluetooth-controller-support/)
 
 Most Popular Topics
 
-* [September 6, 2024
+* [3 weeks ago
     
-    ### Oracle can do for AI what it did for cloud – and CloudWorld 2024 is its chance to show that](https://digitpatrox.com/oracle-can-do-for-ai-what-it-did-for-cloud-and-cloudworld-2024-is-its-chance-to-show-that/)
-* [August 24, 2024
+    ### Protecting enterprise endpoints against the festive cyber surge](https://digitpatrox.com/protecting-enterprise-endpoints-against-the-festive-cyber-surge/)
+* [September 4, 2024
     
-    ### Why I Stopped Trusting Game Trailers Years Ago](https://digitpatrox.com/why-i-stopped-trusting-game-trailers-years-ago/)
-* [October 19, 2024
+    ### How to Join Apple Intelligence Waitlist and What’s the Waitlist Time](https://digitpatrox.com/how-to-join-apple-intelligence-waitlist-and-whats-the-waitlist-time/)
+* [September 23, 2024
     
-    ### Tech giant Nidec confirms data breach following ransomware attack](https://digitpatrox.com/tech-giant-nidec-confirms-data-breach-following-ransomware-attack/)
+    ### Today’s Wordle Answer and Hints (September 24, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-24-2024/)
 
 Last Modified Topics
 
 * [5 hours ago
     
-    ### I used ChatGPT to analyze my Apple Health activity and uncover trends — here’s what happened](https://digitpatrox.com/i-used-chatgpt-to-analyze-my-apple-health-activity-and-uncover-trends-heres-what-happened/)
-* [6 hours ago
+    ### Which Is Best for Your Home Theater?](https://digitpatrox.com/which-is-best-for-your-home-theater/)
+* [5 hours ago
     
-    ### Germany blocks BadBox malware loaded on 30,000 Android devices](https://digitpatrox.com/germany-blocks-badbox-malware-loaded-on-30000-android-devices/)
-* [6 hours ago
+    ### New Nintendo Switch 2: 5 biggest rumored changes](https://digitpatrox.com/new-nintendo-switch-2-5-biggest-rumored-changes/)
+* [7 hours ago
     
-    ### Monument Valley 3: a worthy update to a fabulous mobile game](https://digitpatrox.com/monument-valley-3-a-worthy-update-to-a-fabulous-mobile-game/)
+    ### US offers $5 million for info on North Korean IT worker farms](https://digitpatrox.com/us-offers-5-million-for-info-on-north-korean-it-worker-farms/)
 
 Most Viewed Topics
 
-* [August 11, 2024
+* [August 12, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
