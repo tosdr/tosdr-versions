@@ -13,7 +13,7 @@ Learn more](https://www.algolia.com/products/features/data-transformation)
 *  [![](/files/live/sites/algolia-assets/files/icons/person_blue.svg) Login](https://dashboard.algolia.com/users/sign_in)
 *  [![](/files/live/sites/algolia-assets/files/icons/Check%20Square.svg) Logout](https://dashboard.algolia.com/users/sign_out)
 
-[Algolia mark blue Algolia logo blue](https://www.algolia.com/)
+[Algolia mark white Algolia logo white](https://www.algolia.com/)
 
 Menu
 
@@ -223,8 +223,8 @@ This SLA applies to Subscribers who subscribe to the listed Algolia subscription
 * [Version 1 (Before August 17, 2017)](https://www.algolia.com/policies/old/sla-before-2017-08-17)
 * [Version 2 (August 17, 2017)](https://www.algolia.com/policies/old/sla-2017-08-17)
 * [Version 3 (January 31, 2019)](https://www.algolia.com/policies/old/sla-2019-01-31)
-* [Version 5 (April 30, 2023)](https://www.algolia.com/policies/old/sla-2023-05-01)
 * [Version 4 (February 12, 2021)](https://www.algolia.com/policies/old/sla-2021-02-12)
+* [Version 5 (April 30, 2023)](https://www.algolia.com/policies/old/sla-2023-05-01)
 * [Version 6 (Before December 9th, 2024)](https://www.algolia.com/policies/old/sla-before-2024-12-09)
 
 #### Solutions
