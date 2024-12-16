@@ -84,7 +84,7 @@
     
     For homeowners
     
-    [Get solar](https://start.enphase.com/form-enph/?lsid=692) [Find an installer](https://enphase.com/installer-locator) [Find an EV charger](https://enphase.com/r/ev-chargers/find-an-ev-charger)
+    [Get solar](https://start.enphase.com/form-enph/?lsid=692) [Find an installer](https://enphase.com/installer-locator) [Find an EV charger](https://enphase.com/r/ev-chargers/find-an-ev-charger) [Get portable energy](https://enphase.com/homeowners/portable-energy)
     
     For installers
     
@@ -521,7 +521,7 @@ Your session expired. Please login again to continue to purchase.
     * [NEM 3.0](https://enphase.com/installers/nem3)
     * [Commercial](https://enphase.com/installers/commercial)
     * [Critical updates](https://enphase.com/installers/updates)
-    * [Storage](https://enphase.com/installers/storage/gen2)
+    * [Storage](https://enphase.com/installers/storage)
     
 * Support
     
