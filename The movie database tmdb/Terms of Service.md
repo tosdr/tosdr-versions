@@ -179,7 +179,7 @@ This Agreement was last updated on: May 10, 2024.
 * [Privacy Policy](https://www.themoviedb.org/privacy-policy)
 * [DMCA Policy](https://www.themoviedb.org/dmca-policy)
 
-Build 5dfdc28 (8303)
+Build be6a233 (8306)
 
 Can't find a movie or TV show? Login to create it.
 
