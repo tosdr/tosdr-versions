@@ -1,15 +1,15 @@
-[![Antiwar.com](https://dgxhtav2e25a8.cloudfront.net/antiwar_logo.gif)](https://antiwar.com/)
+[![Antiwar.com](https://d27srd8s9736cr.cloudfront.net/antiwar_logo.gif)](https://antiwar.com/)
 
 |     |
 | --- |
-| ![viewpoint highlights](https://dgxhtav2e25a8.cloudfront.net/highlights.jpg) |
+| ![viewpoint highlights](https://d27srd8s9736cr.cloudfront.net/highlights.jpg) |
 |     |
 
  
 
 |     |
 | --- |
-| [![news highlights](https://dgxhtav2e25a8.cloudfront.net/breaking.jpg)](https://news.antiwar.com/) |
+| [![news highlights](https://d27srd8s9736cr.cloudfront.net/breaking.jpg)](https://news.antiwar.com/) |
 |     |
 
  
