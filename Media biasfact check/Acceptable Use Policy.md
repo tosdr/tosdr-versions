@@ -67,11 +67,11 @@
 
 MBFC News
 
+* [December 16, 2024 | Media News Daily: Top Stories for 12/16/2024](https://mediabiasfactcheck.com/2024/12/16/media-news-daily-top-stories-for-12-16-2024/ "Media News Daily: Top Stories for 12/16/2024")
+* [December 16, 2024 | MBFC’s Daily Vetted Fact Checks for 12/16/2024](https://mediabiasfactcheck.com/2024/12/16/mbfcs-daily-vetted-fact-checks-for-12-16-2024/ "MBFC’s Daily Vetted Fact Checks for 12/16/2024")
 * [December 15, 2024 | Source of the Week: AF Post](https://mediabiasfactcheck.com/2024/12/15/source-of-the-week-af-post/ "Source of the Week: AF Post")
 * [December 15, 2024 | MBFC’s Daily Vetted Fact Checks for 12/15/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/15/mbfcs-daily-vetted-fact-checks-for-12-15-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 12/15/2024 (Weekend Edition)")
 * [December 14, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of DEC 8th – DEC 14th](https://mediabiasfactcheck.com/2024/12/14/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-dec-8th-dec-14th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of DEC 8th – DEC 14th")
-* [December 14, 2024 | MBFC’s Daily Vetted Fact Checks for 12/14/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/14/mbfcs-daily-vetted-fact-checks-for-12-14-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 12/14/2024 (Weekend Edition)")
-* [December 13, 2024 | Media News Daily: Top Stories for 12/13/2024](https://mediabiasfactcheck.com/2024/12/13/media-news-daily-top-stories-for-12-13-2024/ "Media News Daily: Top Stories for 12/13/2024")
 
 Search for:  
 
@@ -131,6 +131,22 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 
 #### Recently Added Sources or Pages
 
+* [Annual Review of Physical Chemistry – Bias and Credibility](https://mediabiasfactcheck.com/annual-review-of-physical-chemistry-bias/)
+    
+    December 16, 2024
+    
+* [Roanoke College Institute for Policy and Opinion Research – Bias and Credibility](https://mediabiasfactcheck.com/roanoke-college-institute-for-policy-and-opinion-research-bias-and-credibility/)
+    
+    December 16, 2024
+    
+* [Glasgow Live – Bias and Credibility](https://mediabiasfactcheck.com/glasgow-live-bias-and-credibility/)
+    
+    December 16, 2024
+    
+* [Candace Owens Bias Rating](https://mediabiasfactcheck.com/candace-owens-bias-rating/)
+    
+    December 16, 2024
+    
 * [JoeHoft.com – Bias and Credibility](https://mediabiasfactcheck.com/joehoft-com-bias-and-credibility/)
     
     December 15, 2024
@@ -147,44 +163,28 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
     
     December 15, 2024
     
-* [Nick Cater Bias Rating](https://mediabiasfactcheck.com/nick-cater-bias-rating/)
-    
-    December 14, 2024
-    
-* [AF Post – Bias and Credibility](https://mediabiasfactcheck.com/af-post-bias-and-credibility/)
-    
-    December 14, 2024
-    
-* [Cootamundra Herald – Bias and Credibility](https://mediabiasfactcheck.com/cootamundra-herald-bias/)
-    
-    December 14, 2024
-    
-* [Quincy Herald-Whig – Bias and Credibility](https://mediabiasfactcheck.com/quincy-herald-whig-bias/)
-    
-    December 14, 2024
-    
 
 #### Recently Updated Pages
 
+* [Chris Hayes Bias Rating](https://mediabiasfactcheck.com/chris-hayes-bias-rating/ "View Chris Hayes Bias Rating") - December 16, 2024
+    
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - December 16, 2024
+    
+* [Annual Review of Physical Chemistry – Bias and Credibility](https://mediabiasfactcheck.com/annual-review-of-physical-chemistry-bias/ "View Annual Review of Physical Chemistry – Bias and Credibility") - December 16, 2024
+    
+* [Credible Pollsters Used By MBFC](https://mediabiasfactcheck.com/credible-pollsters-used-by-mbfc/ "View Credible Pollsters Used By MBFC") - December 16, 2024
+    
+* [Roanoke College Institute for Policy and Opinion Research – Bias and Credibility](https://mediabiasfactcheck.com/roanoke-college-institute-for-policy-and-opinion-research-bias-and-credibility/ "View Roanoke College Institute for Policy and Opinion Research – Bias and Credibility") - December 16, 2024
+    
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 16, 2024
+    
+* [Glasgow Live – Bias and Credibility](https://mediabiasfactcheck.com/glasgow-live-bias-and-credibility/ "View Glasgow Live – Bias and Credibility") - December 16, 2024
+    
+* [Journalist Bias](https://mediabiasfactcheck.com/journalist-bias/ "View Journalist Bias") - December 16, 2024
+    
+* [Candace Owens Bias Rating](https://mediabiasfactcheck.com/candace-owens-bias-rating/ "View Candace Owens Bias Rating") - December 16, 2024
+    
 * [The Times UK and The Sunday Times – Bias and Credibility](https://mediabiasfactcheck.com/the-times-of-london/ "View The Times UK and The Sunday Times – Bias and Credibility") - December 15, 2024
-    
-* [Scientific American – Bias and Credibility](https://mediabiasfactcheck.com/scientific-american/ "View Scientific American – Bias and Credibility") - December 15, 2024
-    
-* [Middle East Eye – Bias and Credibility](https://mediabiasfactcheck.com/middle-east-eye/ "View Middle East Eye – Bias and Credibility") - December 15, 2024
-    
-* [Semafor – Bias and Credibility](https://mediabiasfactcheck.com/semafor-bias/ "View Semafor – Bias and Credibility") - December 15, 2024
-    
-* [US News World Report – Bias and Credibility](https://mediabiasfactcheck.com/us-news-world-report/ "View US News World Report – Bias and Credibility") - December 15, 2024
-    
-* [The Jerusalem Post – Bias and Credibility](https://mediabiasfactcheck.com/the-jerusalem-post/ "View The Jerusalem Post – Bias and Credibility") - December 15, 2024
-    
-* [Financial Times – Bias and Credibility](https://mediabiasfactcheck.com/financial-times/ "View Financial Times – Bias and Credibility") - December 15, 2024
-    
-* [Just The News – Bias and Credibility](https://mediabiasfactcheck.com/just-the-news/ "View Just The News – Bias and Credibility") - December 15, 2024
-    
-* [Raw Story – Bias and Credibility](https://mediabiasfactcheck.com/raw-story/ "View Raw Story – Bias and Credibility") - December 15, 2024
-    
-* [CNBC – Bias and Credibility](https://mediabiasfactcheck.com/cnbc/ "View CNBC – Bias and Credibility") - December 15, 2024
     
 
 #### Today’s Top Page Views
@@ -192,11 +192,11 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [Earth.com - Bias and Credibility](https://mediabiasfactcheck.com/earth-com-bias/)
-* [MBFC's Daily Vetted Fact Checks for 12/15/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/15/mbfcs-daily-vetted-fact-checks-for-12-15-2024-weekend-edition/)
+* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [MBFC's Daily Vetted Fact Checks for 12/15/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/15/mbfcs-daily-vetted-fact-checks-for-12-15-2024-weekend-edition/)
 * [Next News Network - Bias and Credibility](https://mediabiasfactcheck.com/next-news-network/)
 * [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
 
