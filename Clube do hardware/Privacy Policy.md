@@ -128,107 +128,119 @@ Política de privacidade
 
 [](https://whatsapp.com/channel/0029VaA51oy9hXF2RfactE03 "WhatsApp Clube do Hardware")
 
+* ### Popular agora
+    
+    * [![raphael.zattar](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256165.thumb.jpeg.20ce2b5f4572c8ead9998ff9f6748539.jpeg)](https://www.clubedohardware.com.br/profile/1256165-raphaelzattar/ "Ir ao perfil de raphael.zattar")
+        
+        11
+        
+        [Recomendações Refrigeração Intel Core i7-10700 - 10ª Geração - LGA1200 .](https://www.clubedohardware.com.br/forums/topic/1705696-recomenda%C3%A7%C3%B5es-refrigera%C3%A7%C3%A3o-intel-core-i7-10700-10%C2%AA-gera%C3%A7%C3%A3o-lga1200/ "Visualizar tópico")
+        
+        Por [raphael.zattar](https://www.clubedohardware.com.br/profile/1256165-raphaelzattar/ "Ir ao perfil de raphael.zattar")  
+        1 hora atrás
+        
+    
 * ### Últimos tópicos
     
-    * [![JACK-s](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258014.thumb.png.b79a5575cadf4e8aa92c78a1249626fd.png)](https://www.clubedohardware.com.br/profile/1258014-jack-s/ "Ir ao perfil de JACK-s")
+    * [![TestePC](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/cifra.thumb.jpg.b1fdf12858adcee64d87ac03a882d384.jpg)](https://www.clubedohardware.com.br/profile/1249698-testepc/ "Ir ao perfil de TestePC")
         
         0
         
-        [Minha placa de Vídeo está travada e n entrega os fps esperado](https://www.clubedohardware.com.br/forums/topic/1705690-minha-placa-de-v%C3%ADdeo-est%C3%A1-travada-e-n-entrega-os-fps-esperado/?do=getNewComment "Minha placa de Vídeo está travada e n entrega os fps esperado")
+        [PC trava e desliga, pode ser a fonte?](https://www.clubedohardware.com.br/forums/topic/1705698-pc-trava-e-desliga-pode-ser-a-fonte/?do=getNewComment "PC trava e desliga, pode ser a fonte?")
+        
+        [Computador desligando sozinho](https://www.clubedohardware.com.br/forums/forum/258-computador-desligando-sozinho/ "Computador desligando sozinho")  
+        Por [TestePC](https://www.clubedohardware.com.br/profile/1249698-testepc/ "Ir ao perfil de TestePC")  
+        28 minutos atrás
+        
+    * [![Nandiel](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257763.thumb.jpeg.b7310abf35af88fb3581fef578eae519.jpeg)](https://www.clubedohardware.com.br/profile/1257763-nandiel/ "Ir ao perfil de Nandiel")
+        
+        2
+        
+        [Existe processador Intel Xeon para LGA1150 com vídeo integrado?](https://www.clubedohardware.com.br/forums/topic/1705697-existe-processador-intel-xeon-para-lga1150-com-v%C3%ADdeo-integrado/?do=getNewComment "Existe processador Intel Xeon para LGA1150 com vídeo integrado?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Nandiel](https://www.clubedohardware.com.br/profile/1257763-nandiel/ "Ir ao perfil de Nandiel")  
+        1 hora atrás
+        
+    * [![raphael.zattar](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256165.thumb.jpeg.20ce2b5f4572c8ead9998ff9f6748539.jpeg)](https://www.clubedohardware.com.br/profile/1256165-raphaelzattar/ "Ir ao perfil de raphael.zattar")
+        
+        11
+        
+        [Recomendações Refrigeração Intel Core i7-10700 - 10ª Geração - LGA1200 .](https://www.clubedohardware.com.br/forums/topic/1705696-recomenda%C3%A7%C3%B5es-refrigera%C3%A7%C3%A3o-intel-core-i7-10700-10%C2%AA-gera%C3%A7%C3%A3o-lga1200/?do=getNewComment "Recomendações Refrigeração Intel Core i7-10700 - 10ª Geração - LGA1200 .")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [raphael.zattar](https://www.clubedohardware.com.br/profile/1256165-raphaelzattar/ "Ir ao perfil de raphael.zattar")  
+        1 hora atrás
+        
+    * [![rodrigoofera](https://www.clubedohardware.com.br/uploads/members/monthly_2023_10/Semttulo.thumb.jpg.04edc12dda89d65cb6f86634295c8e85.jpg)](https://www.clubedohardware.com.br/profile/913851-rodrigoofera/ "Ir ao perfil de rodrigoofera")
+        
+        3
+        
+        [Fazer jumper para testar fonte de alimentação](https://www.clubedohardware.com.br/forums/topic/1705695-fazer-jumper-para-testar-fonte-de-alimenta%C3%A7%C3%A3o/?do=getNewComment "Fazer jumper para testar fonte de alimentação")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [rodrigoofera](https://www.clubedohardware.com.br/profile/913851-rodrigoofera/ "Ir ao perfil de rodrigoofera")  
+        1 hora atrás
+        
+    * [![Marcelo Stefanini](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258015.thumb.jpeg.097c064602351cf28fc7d9b81bb25f26.jpeg)](https://www.clubedohardware.com.br/profile/1258015-marcelo-stefanini/ "Ir ao perfil de Marcelo Stefanini")
+        
+        2
+        
+        [Potenciômetros não estão atuando no volume do som](https://www.clubedohardware.com.br/forums/topic/1705694-potenci%C3%B4metros-n%C3%A3o-est%C3%A3o-atuando-no-volume-do-som/?do=getNewComment "Potenciômetros não estão atuando no volume do som")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [Marcelo Stefanini](https://www.clubedohardware.com.br/profile/1258015-marcelo-stefanini/ "Ir ao perfil de Marcelo Stefanini")  
+        1 hora atrás
+        
+    * [![DonCorleone](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/wp12091224-bills-dbz-wallpapers.thumb.jpg.2ccd1da8fdf7283a5d11f9a32f811d46.jpg)](https://www.clubedohardware.com.br/profile/1241368-doncorleone/ "Ir ao perfil de DonCorleone")
+        
+        1
+        
+        [Qual destas Radeon é melhor? ASUS RX 7600 Dual ou Gigabyte RX 7600 3xFan](https://www.clubedohardware.com.br/forums/topic/1705693-qual-destas-radeon-%C3%A9-melhor-asus-rx-7600-dual-ou-gigabyte-rx-7600-3xfan/?do=getNewComment "Qual destas Radeon é melhor? ASUS RX 7600 Dual ou Gigabyte RX 7600 3xFan")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [DonCorleone](https://www.clubedohardware.com.br/profile/1241368-doncorleone/ "Ir ao perfil de DonCorleone")  
+        2 horas atrás
+        
+    * [![JACK-s](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258014.thumb.png.b79a5575cadf4e8aa92c78a1249626fd.png)](https://www.clubedohardware.com.br/profile/1258014-jack-s/ "Ir ao perfil de JACK-s")
+        
+        3
+        
+        [GeForce RTX 4060 Ti não passa de 120 FPS](https://www.clubedohardware.com.br/forums/topic/1705690-geforce-rtx-4060-ti-n%C3%A3o-passa-de-120-fps/?do=getNewComment "GeForce RTX 4060 Ti não passa de 120 FPS")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
         Por [JACK-s](https://www.clubedohardware.com.br/profile/1258014-jack-s/ "Ir ao perfil de JACK-s")  
-        23 minutos atrás
+        6 horas atrás
         
     * [![Tailson696](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258013.thumb.png.eafcf5597efe07c00d20477f6dd552dc.png)](https://www.clubedohardware.com.br/profile/1258013-tailson696/ "Ir ao perfil de Tailson696")
         
-        0
+        1
         
-        [Minhas teclas não estão funcionando corretamente](https://www.clubedohardware.com.br/forums/topic/1705688-minhas-teclas-n%C3%A3o-est%C3%A3o-funcionando-corretamente/?do=getNewComment "Minhas teclas não estão funcionando corretamente")
+        [Caracteres aleatórios após troca por firmware errado - Machenike K500 B61](https://www.clubedohardware.com.br/forums/topic/1705688-caracteres-aleat%C3%B3rios-ap%C3%B3s-troca-por-firmware-errado-machenike-k500-b61/?do=getNewComment "Caracteres aleatórios após troca por firmware errado - Machenike K500 B61")
         
         [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
         Por [Tailson696](https://www.clubedohardware.com.br/profile/1258013-tailson696/ "Ir ao perfil de Tailson696")  
-        1 hora atrás
+        7 horas atrás
         
     * [![1japavlr](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/animeloud.thumb.jpeg.a934e6cbc70c8b157af2505985246c52.jpeg)](https://www.clubedohardware.com.br/profile/1256832-1japavlr/ "Ir ao perfil de 1japavlr")
         
-        0
+        1
         
         [Monitor para Edição de Vídeo e Jogos](https://www.clubedohardware.com.br/forums/topic/1705686-monitor-para-edi%C3%A7%C3%A3o-de-v%C3%ADdeo-e-jogos/?do=getNewComment "Monitor para Edição de Vídeo e Jogos")
         
         [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
         Por [1japavlr](https://www.clubedohardware.com.br/profile/1256832-1japavlr/ "Ir ao perfil de 1japavlr")  
-        2 horas atrás
+        8 horas atrás
         
     * [![wo0nderwall](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258010.thumb.jpeg.660fc657d432ba26eb4a0152a5cff259.jpeg)](https://www.clubedohardware.com.br/profile/1258010-wo0nderwall/ "Ir ao perfil de wo0nderwall")
         
-        2
+        3
         
         [Pc desliga o monitor e o teclado DO NADA! As vezes apenas congela a tela.](https://www.clubedohardware.com.br/forums/topic/1705685-pc-desliga-o-monitor-e-o-teclado-do-nada-as-vezes-apenas-congela-a-tela/?do=getNewComment "Pc desliga o monitor e o teclado DO NADA! As vezes apenas congela a tela.")
         
         [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
         Por [wo0nderwall](https://www.clubedohardware.com.br/profile/1258010-wo0nderwall/ "Ir ao perfil de wo0nderwall")  
-        2 horas atrás
-        
-    * [![uilians macario](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1221739.thumb.jpeg.6716ea218f3a977a71af745c2bb0f731.jpeg)](https://www.clubedohardware.com.br/profile/1221739-uilians-macario/ "Ir ao perfil de uilians macario")
-        
-        1
-        
-        [Placa de vídeo Radeon RX 580 2048SP perde sinal durante jogos](https://www.clubedohardware.com.br/forums/topic/1705684-placa-de-v%C3%ADdeo-radeon-rx-580-2048sp-perde-sinal-durante-jogos/?do=getNewComment "Placa de vídeo Radeon RX 580 2048SP perde sinal durante jogos")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [uilians macario](https://www.clubedohardware.com.br/profile/1221739-uilians-macario/ "Ir ao perfil de uilians macario")  
-        3 horas atrás
-        
-    * [![Fabricio S S J](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462a0%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFS%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253956-fabricio-s-s-j/ "Ir ao perfil de Fabricio S S J")
-        
-        1
-        
-        [como medir a temperatura de uma apu?](https://www.clubedohardware.com.br/forums/topic/1705683-como-medir-a-temperatura-de-uma-apu/?do=getNewComment "como medir a temperatura de uma apu?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Fabricio S S J](https://www.clubedohardware.com.br/profile/1253956-fabricio-s-s-j/ "Ir ao perfil de Fabricio S S J")  
-        3 horas atrás
-        
-    * [![Luis Eduardo Rbm](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257950.thumb.png.4f29fe9f17269aada9878de4a07267bf.png)](https://www.clubedohardware.com.br/profile/1257950-luis-eduardo-rbm/ "Ir ao perfil de Luis Eduardo Rbm")
-        
-        2
-        
-        [Recomendação de placa de vídeo. Focar em placa AMD? RX 6600? Orçamento R$ 1500](https://www.clubedohardware.com.br/forums/topic/1705682-recomenda%C3%A7%C3%A3o-de-placa-de-v%C3%ADdeo-focar-em-placa-amd-rx-6600-or%C3%A7amento-r-1500/?do=getNewComment "Recomendação de placa de vídeo. Focar em placa AMD? RX 6600? Orçamento R$ 1500")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Luis Eduardo Rbm](https://www.clubedohardware.com.br/profile/1257950-luis-eduardo-rbm/ "Ir ao perfil de Luis Eduardo Rbm")  
-        3 horas atrás
-        
-    * [![Robson Akiriel](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1174940.thumb.jpeg.6380c7423063cde310da7109040cd83b.jpeg)](https://www.clubedohardware.com.br/profile/1174940-robson-akiriel/ "Ir ao perfil de Robson Akiriel")
-        
-        2
-        
-        [PC trava no logo do Windows após upgrade da BIOS e troca de processador](https://www.clubedohardware.com.br/forums/topic/1705681-pc-trava-no-logo-do-windows-ap%C3%B3s-upgrade-da-bios-e-troca-de-processador/?do=getNewComment "PC trava no logo do Windows após upgrade da BIOS e troca de processador")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Robson Akiriel](https://www.clubedohardware.com.br/profile/1174940-robson-akiriel/ "Ir ao perfil de Robson Akiriel")  
-        4 horas atrás
-        
-    * [![j0otazz](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4bb62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1258009-j0otazz/ "Ir ao perfil de j0otazz")
-        
-        2
-        
-        [Placa-mãe B550M-K é uma boa opção para Ryzen 5 5500 com RTX 3060?](https://www.clubedohardware.com.br/forums/topic/1705680-placa-m%C3%A3e-b550m-k-%C3%A9-uma-boa-op%C3%A7%C3%A3o-para-ryzen-5-5500-com-rtx-3060/?do=getNewComment "Placa-mãe B550M-K é uma boa opção para Ryzen 5 5500 com RTX 3060?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [j0otazz](https://www.clubedohardware.com.br/profile/1258009-j0otazz/ "Ir ao perfil de j0otazz")  
-        4 horas atrás
-        
-    * [![Samuel Lourenço F. da Silv](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257237.thumb.png.50bd8c67b5746b19d0130efc69d6cadb.png)](https://www.clubedohardware.com.br/profile/1257237-samuel-louren%C3%A7o-f-da-silv/ "Ir ao perfil de Samuel Lourenço F. da Silv")
-        
-        3
-        
-        [Qual placa-mãe devo escolher?](https://www.clubedohardware.com.br/forums/topic/1705679-qual-placa-m%C3%A3e-devo-escolher/?do=getNewComment "Qual placa-mãe devo escolher?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Samuel Lourenço F. da Silv](https://www.clubedohardware.com.br/profile/1257237-samuel-louren%C3%A7o-f-da-silv/ "Ir ao perfil de Samuel Lourenço F. da Silv")  
-        5 horas atrás
+        8 horas atrás
         
     
 
