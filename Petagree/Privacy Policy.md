@@ -1,6 +1,6 @@
 ×
 
-         
+        
 
 _**Family Owned and Operated Since 1993!**_
 
@@ -221,41 +221,39 @@ Search results
 * [Equipment Financing](https://apply.timepayment.com/about-financing/?dealercode=0693X&id=&ref=&apptype=B%2CC) _(9)_
 * [Treats Rewards](https://www.petagree.net/pages/rewards-page-325555) _(10)_
 
-* [![iGroom Squeaky Clean Shampoo - Gallon](//petagree.com/cdn/shop/t/31/assets/placeholder-pixel_small.png?v=33125877389226915141708617313)](https://www.petagree.net/products/igroom-squeaky-clean-shampoo-gallon)
-    
-    [View options](https://www.petagree.net/products/igroom-squeaky-clean-shampoo-gallon)
-    
-    ### iGroom [iGroom Squeaky Clean Shampoo - Gallon](https://www.petagree.net/products/igroom-squeaky-clean-shampoo-gallon)
-    
-    Out of stock
-    
-    $58.75
-    
-    [View options](https://www.petagree.net/products/igroom-squeaky-clean-shampoo-gallon)
-    
-* [![Davis Quick-Dry Shampoo - Gallon](//petagree.com/cdn/shop/t/31/assets/placeholder-pixel_small.png?v=33125877389226915141708617313)](https://www.petagree.net/products/davis-quick-dry-shampoo-gallon)
+* Sale -50% [![Pet-Agree Grab Bags](//petagree.com/cdn/shop/t/31/assets/placeholder-pixel_small.png?v=33125877389226915141708617313)](https://www.petagree.net/products/pet-agree-grab-bags)
     
     Quantity  Add to cart
     
-    ### Davis [Davis Quick-Dry Shampoo - Gallon](https://www.petagree.net/products/davis-quick-dry-shampoo-gallon)
+    ### Pet-Agroom [Pet-Agree Grab Bags](https://www.petagree.net/products/pet-agree-grab-bags)
     
-    19 in stock
-    
-    $59.74
+    $100.00$50.00
     
     Quantity  Add to cart
     
-* [![iGroom Tearless Facial Shampoo - Gallon](//petagree.com/cdn/shop/t/31/assets/placeholder-pixel_small.png?v=33125877389226915141708617313)](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
+* [![Wall Mount Dryer - Pink](//petagree.com/cdn/shop/t/31/assets/placeholder-pixel_small.png?v=33125877389226915141708617313)](https://www.petagree.net/products/wall-mount-dryer-pink)
     
-    [View options](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
+    Quantity  Add to cart
     
-    ### iGroom [iGroom Tearless Facial Shampoo - Gallon](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
+    ### Pet-Agroom [Wall Mount Dryer - Pink](https://www.petagree.net/products/wall-mount-dryer-pink)
     
-    Out of stock
+    4 in stock
     
-    $64.00
+    $759.95
     
-    [View options](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
+    Quantity  Add to cart
+    
+* [![Wall Mount Dryer - White](//petagree.com/cdn/shop/t/31/assets/placeholder-pixel_small.png?v=33125877389226915141708617313)](https://www.petagree.net/products/wall-mount-dryer-white)
+    
+    Quantity  Add to cart
+    
+    ### Pet-Agroom [Wall Mount Dryer - White](https://www.petagree.net/products/wall-mount-dryer-white)
+    
+    4 in stock
+    
+    $759.95
+    
+    Quantity  Add to cart
     
 
 * ![](//petagree.com/cdn/shop/t/31/assets/placeholder-pixel_small.png?v=33125877389226915141708617313)
