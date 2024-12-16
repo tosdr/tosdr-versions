@@ -1,4 +1,4 @@
-25% OFF BUNDLES + FREE SHIPPING ON ORDERS $49+
+ORDER BY DEC 19 TO RECEIVE BY XMAS WITH 2 DAY DELIVERY
 
 Menu
 
@@ -261,7 +261,7 @@ Menu
 
 [0](https://www.poweruptoys.com/cart "Cart")
 
-25% OFF BUNDLES + FREE SHIPPING ON ORDERS $49+
+ORDER BY DEC 19 TO RECEIVE BY XMAS WITH 2 DAY DELIVERY
 
 * [](mailto:support@poweruptoys.com "Email POWERUP®")
 * [](https://www.facebook.com/Poweruptoys "POWERUP® on Facebook")
