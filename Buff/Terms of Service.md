@@ -40,9 +40,7 @@ Menu
 * [iOS](https://apps.apple.com/il/app/buff-game/id1556876835)
 * [Android](https://play.google.com/store/apps/details?id=com.buff.game.appmobile)
 
-[![](https://www.buff.game/wp-content/uploads/2021/04/apple.svg)](https://apps.apple.com/il/app/buff-game/id1556876835)
-
-[![](https://www.buff.game/wp-content/uploads/2021/04/google.svg)](https://play.google.com/store/apps/details?id=com.buff.game.appmobile)
+[![](https://www.buff.game/wp-content/uploads/2021/04/google.svg)](https://play.google.com/store/apps/details?id=com.buff.play)
 
 [Download](https://download.overwolf.com/install/Download?PartnerId=3762)
 
@@ -157,7 +155,7 @@ Redemption of Buff Points may be subject to a minimum requirement (the “**Poin
 
 Buff Points accumulated and not redeemed may be subject to a maximum life time pursuant to which such Buff Points will expire (the “**Buff Points Validity Period**”).  
 
-To request a redemption from your account (if and as applicable), click on “Marketplace” in your account for Buff Desktop Points or on \[\_\_\_\_\] for Buff Mobile Points.  
+To request a redemption from your account (if and as applicable), click on “Marketplace” in your account for Buff Desktop Points or on the reward and point page for Buff Mobile Points.  
 
 Redemption of Buff Mobile Points may require you to follow a URL cashout link provided to you by Buff following your request to redeem Buff Mobile Points (a “**Redemption Link**”). Such Redemption Link, shall remain active for a limited time period as shall be displayed to you at the time you request or receive the Redemption Link. 
 
