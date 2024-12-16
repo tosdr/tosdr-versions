@@ -56,19 +56,7 @@
     
     By Emily Hutchinson [Read More](https://www.women.com/1730450/best-premiere-looks-2024-red-carpet/)
     
-* *  [![](https://www.women.com/img/gallery/taylor-swifts-most-iconic-eras-tour-outfits-ranked/intro-1734033449.jpg)](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Rose McMackin
-        
-        ### [Taylor Swift's Most Iconic Eras Tour Outfits, Ranked](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
-        
-        After nearly two years, the Eras Tour is officially over. But the memorable looks Taylor Swift brought to the stage left their mark on fashion history.
-        
-        By Rose McMackin [Read More](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
-        
-    *  [![Gigi Hadid making a heart with her hands above her head](https://www.women.com/img/gallery/8-celebs-who-have-rocked-the-chic-flippy-bob/intro-1733769783.jpg)](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
+* *  [![Gigi Hadid making a heart with her hands above her head](https://www.women.com/img/gallery/8-celebs-who-have-rocked-the-chic-flippy-bob/intro-1733769783.jpg)](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -80,22 +68,22 @@
         
         By Clementine Doyle [Read More](https://www.women.com/1734199/celebs-rocked-chic-flippy-bob/)
         
+    *  [![Sabrina Carpenter smiling and looking to the side](https://www.women.com/img/gallery/the-best-dating-advice-we-learned-from-sabrina-carpenter-songs/intro-1733761713.jpg)](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+        
+        [Relationships](https://www.women.com/category/relationships/)
+        
+        [Relationships](https://www.women.com/category/relationships/) By Madison Emily Whisenand
+        
+        ### [The Best Dating Advice We Learned From Sabrina Carpenter Songs](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+        
+        Aside from cheeky lyrics and catchy melodies, one of the things that makes Sabrina Carpenter's music so compelling is its diaristic element.
+        
+        By Madison Emily Whisenand [Read More](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
+        
 
 More Stories
 ------------
 
-*  [![Sabrina Carpenter smiling and looking to the side](https://www.women.com/img/gallery/the-best-dating-advice-we-learned-from-sabrina-carpenter-songs/intro-1733761713.jpg)](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
-    
-    [Relationships](https://www.women.com/category/relationships/)
-    
-    [Relationships](https://www.women.com/category/relationships/) By Madison Emily Whisenand
-    
-    ### [The Best Dating Advice We Learned From Sabrina Carpenter Songs](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
-    
-    Aside from cheeky lyrics and catchy melodies, one of the things that makes Sabrina Carpenter's music so compelling is its diaristic element.
-    
-    By Madison Emily Whisenand [Read More](https://www.women.com/1732909/best-dating-advice-sabrina-carpenter-songs/)
-    
 *  [![A woman with winged eyeliner and pink lipstick](https://www.women.com/img/gallery/outdated-beauty-trends-to-leave-in-2024/intro-1733768782.jpg)](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -107,6 +95,18 @@ More Stories
     As new trends take hold in the new year, some of the most popular 2024 beauty looks are being left behind, including matte makeup and hydro hair.
     
     By Bernadette Roe [Read More](https://www.women.com/1733088/outdated-beauty-trends-leave-in-2024/)
+    
+*  [![Taylor Swift onstage with an acoustic guitar](https://www.women.com/img/gallery/taylor-swifts-most-iconic-eras-tour-outfits-ranked/intro-1734033449.jpg)](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Rose McMackin
+    
+    ### [Taylor Swift's Most Iconic Eras Tour Outfits, Ranked](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
+    
+    After nearly two years, the Eras Tour is officially over. But the memorable looks Taylor Swift brought to the stage left their mark on fashion history.
+    
+    By Rose McMackin [Read More](https://www.women.com/1736902/taylor-swift-iconic-eras-tour-outfits-ranked/)
     
 *  [![Close-up of Emma Watson smiling at 2022 Paris Fashion Week](https://www.women.com/img/gallery/the-best-books-from-emma-watsons-book-club-our-shared-shelf/intro-1733425939.jpg)](https://www.women.com/1730588/best-books-emma-watson-book-club-our-shared-shelf/)
     
