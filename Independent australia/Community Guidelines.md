@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [ABC propels Dutton’s disinformation dealers](https://independentaustralia.net/article-display/abc-propels-duttons-disinformation-dealers,19256 "Permanent Link : ABC propels Dutton’s disinformation dealers")
+* [U.S. loses control of airspace as mysterious drone sightings escalate](https://independentaustralia.net/article-display/us-loses-control-of-airspace-as-mysterious-drone-sightings-escalate,19265 "Permanent Link : U.S. loses control of airspace as mysterious drone sightings escalate")
+* [Can the veiled power of the Press Council be wielded against Mount Fang?](https://independentaustralia.net/article-display/can-the-veiled-power-of-the-press-council-be-wielded-against-mount-fang,19264 "Permanent Link : Can the veiled power of the Press Council be wielded against Mount Fang?")
 * [BOOK REVIEW: The Leaves](https://independentaustralia.net/article-display/book-review-the-leaves,19257 "Permanent Link : BOOK REVIEW: The Leaves")
 * [POEM: Charity](https://independentaustralia.net/article-display/poem-charity,19245 "Permanent Link : POEM: Charity")
 * [When you're not the voice](https://independentaustralia.net/article-display/when-youre-not-the-voice,19258 "Permanent Link : When you're not the voice")
 * [QUIZ: IA Interrogates! #3](https://independentaustralia.net/article-display/quiz-ia-interrogates-3,19263 "Permanent Link : QUIZ: IA Interrogates! #3")
-* [Blowing minds and bending spoons: A taste of Uri Geller](https://independentaustralia.net/article-display/blowing-minds-and-bending-spoons-a-taste-of-uri-geller,19252 "Permanent Link : Blowing minds and bending spoons: A taste of Uri Geller")
-* [New talent and legends nominated for Tamworth Country Music Awards](https://independentaustralia.net/article-display/new-talent-and-legends-nominated-for-tamworth-country-music-awards,19259 "Permanent Link : New talent and legends nominated for Tamworth Country Music Awards")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
