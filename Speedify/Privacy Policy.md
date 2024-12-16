@@ -134,14 +134,14 @@ Speedify is the only app that combines all of your Internet connections to keep 
 
 * [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
-* [How to Connect If Starbucks WiFi Login Screen Won't Pop Up](https://speedify.com/blog/starbucks-wifi-wont-pop-up-fix/)
+* [WhatsApp Hangs and Is Not Working - Here's How to Fix It](https://speedify.com/blog/fix-internet-disconnecting/fix-whatsapp-hangs-and-is-not-working/)
 
 Upcoming Events
 ---------------
 
 Dec 18
 
-10:01 am - 11:00 am UTC+0
+10:01 am - 11:00 am EST
 
 ### [12/18 @ 10am EST – Live Q&A with ALL the Engineers | Ask the CEO your tech questions](https://speedify.com/event/12-18-10am-est-can-one-weaker-connection-slow-you-down-ask-the-ceo-your-tech-questions/ "12/18 @ 10am EST – Live Q&A with ALL the Engineers | Ask the CEO your tech questions")
 
