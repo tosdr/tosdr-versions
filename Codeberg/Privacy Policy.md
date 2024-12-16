@@ -12,9 +12,9 @@ This website requires JavaScript.
 
 [](https://codeberg.org/Codeberg/org.rss)
 
-Watch [39](https://codeberg.org/Codeberg/org/watchers)
+Watch [40](https://codeberg.org/Codeberg/org/watchers)
 
-Star [62](https://codeberg.org/Codeberg/org/stars)
+Star [63](https://codeberg.org/Codeberg/org/stars)
 
 Fork
 
