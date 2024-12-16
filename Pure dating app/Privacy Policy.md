@@ -203,7 +203,7 @@ Switzerland
 
 #### 12\. AI-driven chatbot “Goddess”
 
-PURE offers Users the option to engage with an AI-driven chatbot (hereinafter, “**the Goddess**”) designed for diverse interactions, ranging from small talk to deeper conversations, personalized ad suggestions, image generation, and other functionalities. For more detailed information regarding the rules, purpose, limitations, prohibited content, and behavior please refer to our Terms and Conditions ([here](https://pure.app/content/en/terms)). Users' engagement with the Goddess indicates consent to data collection and usage as outlined in this Privacy Policy.
+PURE offers Users the option to engage with an AI-driven chatbot (hereinafter, “**the Goddess**”) designed for diverse interactions. These range from casual small-talk to deeper conversations to provide companionship and support, delivering personalized ad and match suggestions, sharing dating tips, assisting with PURE navigation, answering common support questions and offering other functionalities. For more detailed information regarding the rules, purpose, limitations, prohibited content and behavior, please refer to our Terms and Conditions ([here](https://pure.app/content/en/terms)). Users' engagement with the Goddess indicates consent to data collection and usage as outlined in this Privacy Policy.
 
 ##### a. Data collection
 
