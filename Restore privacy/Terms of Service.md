@@ -254,65 +254,65 @@ Sidebar
 LATEST NEWS
 -----------
 
-[![Windows 11 December Patch Tuesday Fixes 72 Flaws, One Zero-Day](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+[![Rhode Island's IT System Breached, Citizen Data Compromised](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20389'%3E%3C/svg%3E)
 
-![Windows 11 December Patch Tuesday Fixes 72 Flaws, One Zero-Day](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0764-400x400.png)](https://cyberinsider.com/windows-11-december-patch-tuesday-fixes-72-flaws-one-zero-day/)
+![Rhode Island's IT System Breached, Citizen Data Compromised](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Miami-Beach-Alerts-Residents-to-Data-Breach-from-Docs-Exposure-400x389.jpg)](https://cyberinsider.com/rhode-islands-it-system-breached-citizen-data-compromised/)
 
-### [Windows 11 December Patch Tuesday Fixes 72 Flaws, One Zero-Day](https://cyberinsider.com/windows-11-december-patch-tuesday-fixes-72-flaws-one-zero-day/)
+### [Rhode Island’s IT System Breached, Citizen Data Compromised](https://cyberinsider.com/rhode-islands-it-system-breached-citizen-data-compromised/)
 
-[![93% of Chipset Flaws on Android Devices Persist Across Generations](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+[![Russia Blocks Viber Messenger Over Alleged Legal Violations](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
 
-![93% of Chipset Flaws on Android Devices Persist Across Generations](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0763-400x400.png)](https://cyberinsider.com/93-of-chipset-flaws-on-android-devices-persist-across-generations/)
+![Russia Blocks Viber Messenger Over Alleged Legal Violations](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0777-400x400.jpeg)](https://cyberinsider.com/russia-blocks-viber-messenger-over-alleged-legal-violations/)
 
-### [93% of Chipset Flaws on Android Devices Persist Across Generations](https://cyberinsider.com/93-of-chipset-flaws-on-android-devices-persist-across-generations/)
+### [Russia Blocks Viber Messenger Over Alleged Legal Violations](https://cyberinsider.com/russia-blocks-viber-messenger-over-alleged-legal-violations/)
 
-[![Microsoft 365 Outage Disrupts Access to Web-Based Applications Worldwide](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+[![Google’s Quantum Chip Willow is a Major Leap, But Not a Threat to Encryption](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
 
-![Microsoft 365 Outage Disrupts Access to Web-Based Applications Worldwide](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0761-400x400.jpeg)](https://cyberinsider.com/microsoft-365-outage-disrupts-access-to-web-based-applications-worldwide/)
+![Google’s Quantum Chip Willow is a Major Leap, But Not a Threat to Encryption](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0776-400x400.png)](https://cyberinsider.com/googles-quantum-chip-willow-is-a-major-leap-but-not-a-threat-to-encryption/)
 
-### [Microsoft 365 Outage Disrupts Access to Web-Based Applications Worldwide](https://cyberinsider.com/microsoft-365-outage-disrupts-access-to-web-based-applications-worldwide/)
+### [Google’s Quantum Chip Willow is a Major Leap, But Not a Threat to Encryption](https://cyberinsider.com/googles-quantum-chip-willow-is-a-major-leap-but-not-a-threat-to-encryption/)
 
-[![Fortnite Players to Receive $72M in Refunds Following FTC Settlement](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+[![BSI Disrupts "BadBox" Malware Pre-Loaded on 30,000 Devices](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
 
-![Fortnite Players to Receive $72M in Refunds Following FTC Settlement](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Fortnite-Players-to-Receive-72M-in-Refunds-Following-FTC-Settlement-400x400.jpg)](https://cyberinsider.com/fortnite-players-to-receive-72m-in-refunds-following-ftc-settlement/)
+![BSI Disrupts "BadBox" Malware Pre-Loaded on 30,000 Devices](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0775-400x400.jpeg)](https://cyberinsider.com/bsi-disrupts-badbox-malware-pre-loaded-on-30000-devices/)
 
-### [Fortnite Players to Receive $72M in Refunds Following FTC Settlement](https://cyberinsider.com/fortnite-players-to-receive-72m-in-refunds-following-ftc-settlement/)
+### [BSI Disrupts “BadBox” Malware Pre-Loaded on 30,000 Devices](https://cyberinsider.com/bsi-disrupts-badbox-malware-pre-loaded-on-30000-devices/)
 
-[![WPForms Used in 6 Million WordPress Sites Vulnerable to Arbitrary Refunds](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+[![Kadokawa Paid $3 Million Ransom, BlackSuit Ransomware Still Leaked Stolen Data](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
 
-![WPForms Used in 6 Million WordPress Sites Vulnerable to Arbitrary Refunds](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/WPForms-Used-in-6-Million-WordPress-Sites-Vulnerable-to-Arbitrary-Refunds-400x400.jpg)](https://cyberinsider.com/wpforms-used-in-6-million-wordpress-sites-vulnerable-to-arbitrary-refunds/)
+![Kadokawa Paid $3 Million Ransom, BlackSuit Ransomware Still Leaked Stolen Data](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0774-400x400.jpeg)](https://cyberinsider.com/kadokawa-paid-3-million-ransom-blacksuit-ransomware-still-leaked-stolen-data/)
 
-### [WPForms Used in 6 Million WordPress Sites Vulnerable to Arbitrary Refunds](https://cyberinsider.com/wpforms-used-in-6-million-wordpress-sites-vulnerable-to-arbitrary-refunds/)
+### [Kadokawa Paid $3 Million Ransom, BlackSuit Ransomware Still Leaked Stolen Data](https://cyberinsider.com/kadokawa-paid-3-million-ransom-blacksuit-ransomware-still-leaked-stolen-data/)
 
-[![Senior Dating and Ladies.com App Breaches Expose 917k User Records](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+[![Microsoft Teams Exploited in Attacks Delivering DarkGate Malware](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
 
-![Senior Dating and Ladies.com App Breaches Expose 917k User Records](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Senior-Dating-and-Ladies.com-App-Breaches-Expose-917k-User-Records-400x400.jpg)](https://cyberinsider.com/senior-dating-and-ladies-com-app-breaches-expose-917k-user-records/)
+![Microsoft Teams Exploited in Attacks Delivering DarkGate Malware](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0772-400x400.jpeg)](https://cyberinsider.com/microsoft-teams-exploited-in-attacks-delivering-darkgate-malware/)
 
-### [Senior Dating and Ladies.com App Breaches Expose 917k User Records](https://cyberinsider.com/senior-dating-and-ladies-com-app-breaches-expose-917k-user-records/)
+### [Microsoft Teams Exploited in Attacks Delivering DarkGate Malware](https://cyberinsider.com/microsoft-teams-exploited-in-attacks-delivering-darkgate-malware/)
 
-[![O.MG Cable Scan Is a Wake Up Call for Hardware Security](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+[![Volkswagen and Skoda Flaws Allow Engine Disruption and Owner Data Theft](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
 
-![O.MG Cable Scan Is a Wake Up Call for Hardware Security](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0757-400x400.jpeg)](https://cyberinsider.com/o-mg-cable-scan-is-a-wake-up-call-for-hardware-security/)
+![Volkswagen and Skoda Flaws Allow Engine Disruption and Owner Data Theft](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Volkswagen-and-Skoda-Flaws-Allow-Engine-Disruption-and-Owner-Data-Theft-400x400.png)](https://cyberinsider.com/volkswagen-and-skoda-flaws-allow-engine-disruption-and-owner-data-theft/)
 
-### [O.MG Cable Scan Is a Wake Up Call for Hardware Security](https://cyberinsider.com/o-mg-cable-scan-is-a-wake-up-call-for-hardware-security/)
+### [Volkswagen and Skoda Flaws Allow Engine Disruption and Owner Data Theft](https://cyberinsider.com/volkswagen-and-skoda-flaws-allow-engine-disruption-and-owner-data-theft/)
 
-[![International 'Phone Phishing' Gang Dismantled in Europe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+[![Bitcoin ATM Operator Byte Federal Reports Customer Data Breach](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
 
-![International 'Phone Phishing' Gang Dismantled in Europe](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0756-400x400.png)](https://cyberinsider.com/international-phone-phishing-gang-dismantled-in-europe/)
+![Bitcoin ATM Operator Byte Federal Reports Customer Data Breach](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0768-400x400.png)](https://cyberinsider.com/bitcoin-atm-operator-byte-federal-reports-customer-data-breach/)
 
-### [International ‘Phone Phishing’ Gang Dismantled in Europe](https://cyberinsider.com/international-phone-phishing-gang-dismantled-in-europe/)
+### [Bitcoin ATM Operator Byte Federal Reports Customer Data Breach](https://cyberinsider.com/bitcoin-atm-operator-byte-federal-reports-customer-data-breach/)
 
-[![New Realst Stealer Campaign Targets Windows and macOS Systems](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+[![Apple Fixes Encryption Flaw in Passwords App with iOS 18.2 Update](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
 
-![New Realst Stealer Campaign Targets Windows and macOS Systems](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/New-Realst-Stealer-Campaign-Targets-Windows-and-macOS-Systems-400x400.jpg)](https://cyberinsider.com/new-realst-stealer-campaign-targets-windows-and-macos-systems/)
+![Apple Fixes Encryption Flaw in Passwords App with iOS 18.2 Update](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0765-400x400.png)](https://cyberinsider.com/apple-fixes-encryption-flaw-in-passwords-app-with-ios-18-2-update/)
 
-### [New Realst Stealer Campaign Targets Windows and macOS Systems](https://cyberinsider.com/new-realst-stealer-campaign-targets-windows-and-macos-systems/)
+### [Apple Fixes Encryption Flaw in Passwords App with iOS 18.2 Update](https://cyberinsider.com/apple-fixes-encryption-flaw-in-passwords-app-with-ios-18-2-update/)
 
-[![SD Express Card Flaw Exposes Laptops and Consoles to Memory Attacks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+[![Krispy Kreme Reports Cybersecurity Incident Impacting Online Orders](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
 
-![SD Express Card Flaw Exposes Laptops and Consoles to Memory Attacks](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/SD-Express-Card-Flaw-Exposes-Laptops-and-Consoles-to-Memory-Attacks-400x400.jpg)](https://cyberinsider.com/sd-express-card-flaw-exposes-laptops-and-consoles-to-memory-attacks/)
+![Krispy Kreme Reports Cybersecurity Incident Impacting Online Orders](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Krispy-Kreme-Reports-Cybersecurity-Incident-Impacting-Online-Orders-400x400.png)](https://cyberinsider.com/krispy-kreme-reports-cybersecurity-incident-impacting-online-orders/)
 
-### [SD Express Card Flaw Exposes Laptops and Consoles to Memory Attacks](https://cyberinsider.com/sd-express-card-flaw-exposes-laptops-and-consoles-to-memory-attacks/)
+### [Krispy Kreme Reports Cybersecurity Incident Impacting Online Orders](https://cyberinsider.com/krispy-kreme-reports-cybersecurity-incident-impacting-online-orders/)
 
 Copyright © 2024 · CyberInsider.com · All Rights Reserved · [Privacy Policy](https://cyberinsider.com/privacy-policy/) ·  [Terms of Use](https://cyberinsider.com//terms-of-use/) · [Contact](https://cyberinsider.com/contact/)
 
