@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How are infections spread in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-are-infections-spread-in-nursing-homes.jpg "How Are Infections Spread in Nursing Homes?")](https://www.pintas.com/faq/how-are-infections-spread-in-nursing-homes/ "How Are Infections Spread in Nursing Homes?")
+[![How do you get mesothelioma cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-how-do-you-get-mesothelioma-cancer.jpg "How Do You Get Mesothelioma Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma/how-do-you-get-mesothelioma-cancer/ "How Do You Get Mesothelioma Cancer?")
 
-[#### How Are Infections Spread in Nursing Homes?](https://www.pintas.com/faq/how-are-infections-spread-in-nursing-homes/)
+[#### How Do You Get Mesothelioma Cancer?](https://www.pintas.com/lung-cancer/mesothelioma/how-do-you-get-mesothelioma-cancer/)
 
-[![How can i recover damages for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-can-i-recover-damages-for-mesothelioma.jpg "How Can I Recover Damages for Mesothelioma?")](https://www.pintas.com/lung-cancer/how-can-i-recover-damages-for-mesothelioma/ "How Can I Recover Damages for Mesothelioma?")
+[![Detecting mesothelioma in its early stages](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-how-early-can-mesothelioma-be-detected.jpg "Detecting Mesothelioma in Its Early Stages")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-early-can-mesothelioma-be-detected/ "Detecting Mesothelioma in Its Early Stages")
 
-[#### How Can I Recover Damages for Mesothelioma?](https://www.pintas.com/lung-cancer/how-can-i-recover-damages-for-mesothelioma/)
+[#### Detecting Mesothelioma in Its Early Stages](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-early-can-mesothelioma-be-detected/)
 
-[![Can blood tests show lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-can-blood-tests-show-lung-cancer.jpg "Can Blood Tests Show Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-blood-tests-show-lung-cancer/ "Can Blood Tests Show Lung Cancer?")
+[![Who can be sued in a mormon church sex abuse case?](https://www.pintas.com/wp-content/uploads/2023/04/General-law2-300x177.jpg "Who Can Be Sued in a Mormon Church Sex Abuse Case?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-can-be-sued-in-a-mormon-church-sexual-abuse-case/ "Who Can Be Sued in a Mormon Church Sex Abuse Case?")
 
-[#### Can Blood Tests Show Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-blood-tests-show-lung-cancer/)
+[#### Who Can Be Sued in a Mormon Church Sex Abuse Case?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/who-can-be-sued-in-a-mormon-church-sexual-abuse-case/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
