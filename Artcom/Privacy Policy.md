@@ -1,6 +1,14 @@
-[Easy Gifting - Send a Gift Card](https://www.art.com/gift-cards/GC0025?amount=50&pid=GC0025-2)
+Shop Now
 
-[Easy Gifting - Send a Gift Card](https://www.art.com/gift-cards/GC0025?amount=50&pid=GC0025-2)|[Expedite Shipping for Christmas Delivery](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
+Expedited Shipping for Christmas Delivery Ends in..
+
+0DAYS19HRS7MINS
+
+Expedited Shipping for Christmas Delivery Ends in..
+
+0DAYS19HRS7MINS
+
+Shop Now
 
 [](https://www.art.com/ "Art.com")
 
