@@ -54,7 +54,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-15 Dec 2024
+16 Dec 2024
 
 * [Home
     
@@ -280,39 +280,12 @@ Martin Porter, Grounds Maintenance, and Stephen McGarrigle, gravedigger at DC&SD
 [Mayor thanks Derry and Strabane council staff with tasty breakfast treat](https://www.derrynow.com/news/local-news/1680124/mayor-thanks-derry-and-strabane-council-staff-with-tasty-breakfast-treat.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Institute](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Institute")](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
-
-Kevin Deery watched his team produce their best performance of the season.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Institute dominate league leaders Bangor at the Brandywell](https://www.derrynow.com/news/derry-sport/1681010/institute-dominate-league-leaders-bangor-at-the-brandywell.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ballinderry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ballinderry")](https://www.derrynow.com/news/derry-sport/1681019/ballinderry-crowned-ulster-champions-thanks-to-darren-lawn-s-late-winner.html)
-
-The Ballindery players celebrate their historic win.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ballinderry crowned Ulster champions thanks to Darren Lawn's late winner!](https://www.derrynow.com/news/derry-sport/1681019/ballinderry-crowned-ulster-champions-thanks-to-darren-lawn-s-late-winner.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police investigate sudden death of woman in Banbridge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigate sudden death of woman in Banbridge")](https://www.derrynow.com/news/northern-ireland/1680994/police-investigate-sudden-death-of-woman-in-banbridge.html)
+[![Police launch murder probe following ‘brutal and senseless’ death of woman](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police launch murder probe following ‘brutal and senseless’ death of woman")](https://www.derrynow.com/news/northern-ireland/1681252/police-launch-murder-probe-following-brutal-and-senseless-death-of-woman.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[Police investigate sudden death of woman in Banbridge](https://www.derrynow.com/news/northern-ireland/1680994/police-investigate-sudden-death-of-woman-in-banbridge.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ronan Boyce interview with Brendan McGilligan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ronan Boyce interview with Brendan McGilligan")](https://www.derrynow.com/video/derry-sport/1680642/exciting-time-for-derry-city-and-their-fans-according-to-defender-ronan-boyce.html)
-
-Ronan Boyce interview with Brendan McGilligan
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-['Exciting' time for Derry City and their fans according to defender Ronan Boyce](https://www.derrynow.com/video/derry-sport/1680642/exciting-time-for-derry-city-and-their-fans-according-to-defender-ronan-boyce.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Police launch murder probe following ‘brutal and senseless’ death of woman](https://www.derrynow.com/news/northern-ireland/1681252/police-launch-murder-probe-following-brutal-and-senseless-death-of-woman.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Next Irish government should begin planning for unity, says Eastwood](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Next Irish government should begin planning for unity, says Eastwood")](https://www.derrynow.com/news/northern-ireland/1681143/next-irish-government-should-begin-planning-for-unity-eastwood.html)
 
@@ -321,19 +294,33 @@ Ronan Boyce interview with Brendan McGilligan
 [Next Irish government should begin planning for unity – Eastwood](https://www.derrynow.com/news/northern-ireland/1681143/next-irish-government-should-begin-planning-for-unity-eastwood.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police launch murder probe following ‘brutal and senseless’ death of woman](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police launch murder probe following ‘brutal and senseless’ death of woman")](https://www.derrynow.com/news/northern-ireland/1681252/police-launch-murder-probe-following-brutal-and-senseless-death-of-woman.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Police launch murder probe following ‘brutal and senseless’ death of woman](https://www.derrynow.com/news/northern-ireland/1681252/police-launch-murder-probe-following-brutal-and-senseless-death-of-woman.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Co Down town in ‘shock’ following sudden death of woman](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Co Down town in ‘shock’ following sudden death of woman")](https://www.derrynow.com/news/northern-ireland/1681099/co-down-town-in-shock-following-sudden-death-of-woman.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
 [Co Down town in ‘shock’ following sudden death of woman](https://www.derrynow.com/news/northern-ireland/1681099/co-down-town-in-shock-following-sudden-death-of-woman.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Householder attacked by hammer-wielding intruder in ‘terrifying’ ordeal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Householder attacked by hammer-wielding intruder in ‘terrifying’ ordeal")](https://www.derrynow.com/news/northern-ireland/1681180/householder-attacked-by-hammer-wielding-intruder-in-terrifying-ordeal.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Householder attacked by hammer-wielding intruder in ‘terrifying’ ordeal](https://www.derrynow.com/news/northern-ireland/1681180/householder-attacked-by-hammer-wielding-intruder-in-terrifying-ordeal.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Car passenger dies in single-vehicle crash](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Car passenger dies in single-vehicle crash")](https://www.derrynow.com/news/northern-ireland/1681200/car-passenger-dies-in-single-vehicle-crash.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Car passenger dies in single-vehicle crash](https://www.derrynow.com/news/northern-ireland/1681200/car-passenger-dies-in-single-vehicle-crash.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Assault victim found unconscious in street with head injuries](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Assault victim found unconscious in street with head injuries")](https://www.derrynow.com/news/northern-ireland/1681233/assault-victim-found-unconscious-in-street-with-head-injuries.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Assault victim found unconscious in street with head injuries](https://www.derrynow.com/news/northern-ireland/1681233/assault-victim-found-unconscious-in-street-with-head-injuries.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
