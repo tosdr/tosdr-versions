@@ -23,9 +23,9 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![CISA confirms critical Cleo bug exploitation in ransomware attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Clop ransomware claims responsibility for Cleo data theft attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CISA confirms critical Cleo bug exploitation in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-confirms-critical-cleo-bug-exploitation-in-ransomware-attacks/)
+        Clop ransomware claims responsibility for Cleo data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
     * [![Germany blocks BadBox malware loaded on 30,000 Android devices](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Germany blocks BadBox malware loaded on 30,000 Android devices](https://www.bleepingcomputer.com/news/security/germany-blocks-badbox-malware-loaded-on-30-000-android-devices/)
@@ -36,18 +36,18 @@
         
         New IOCONTROL malware used in critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/new-iocontrol-malware-used-in-critical-infrastructure-attacks/)
     
+    * [![ConnectOnCall breach exposes health data of over 910,000 patients](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        ConnectOnCall breach exposes health data of over 910,000 patients](https://www.bleepingcomputer.com/news/security/connectoncall-breach-exposes-health-data-of-over-910-000-patients/)
+    * [![Rhode Island confirms data breach after Brain Cipher ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Rhode Island confirms data breach after Brain Cipher ransomware attack](https://www.bleepingcomputer.com/news/security/rhode-island-confirms-data-breach-after-brain-cipher-ransomware-attack/)
+    * [![New Android NoviSpy spyware linked to Qualcomm zero-day bugs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        New Android NoviSpy spyware linked to Qualcomm zero-day bugs](https://www.bleepingcomputer.com/news/security/new-android-novispy-spyware-linked-to-qualcomm-zero-day-bugs/)
     * [![Save on Microsoft Office Home 2024 for Mac or PC in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Save on Microsoft Office Home 2024 for Mac or PC in this deal](https://www.bleepingcomputer.com/offer/deals/save-on-microsoft-office-home-2024-for-mac-or-pc-in-this-deal/)
-    * [![Clop ransomware claims responsibility for Cleo data theft attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Clop ransomware claims responsibility for Cleo data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
-    * [![Winnti hackers target other threat actors with new Glutton PHP backdoor](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Winnti hackers target other threat actors with new Glutton PHP backdoor](https://www.bleepingcomputer.com/news/security/winnti-hackers-target-other-threat-actors-with-new-glutton-php-backdoor/)
-    * [![Train in advanced cybersecurity skills with this $65 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Train in advanced cybersecurity skills with this $65 course bundle deal](https://www.bleepingcomputer.com/offer/deals/train-in-advanced-cybersecurity-skills-with-this-65-course-bundle-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
