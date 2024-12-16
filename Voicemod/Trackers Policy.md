@@ -186,7 +186,7 @@ Follow us for more!
 * [Newsroom](https://www.voicemod.com/newsroom)
 * [Support](https://www.voicemod.net/en/support/ "Support (FAQ)")
 * [Careers](https://www.voicemod.com/careers)
-* [Rizzmas](https://www.voicemod.net/en/winter-holidays/)
+* [Voicemod discount](https://www.voicemod.net/en/winter-holidays/)
 
 Supercharge Your Voice
 ----------------------
