@@ -84,6 +84,10 @@ Search
 
 Search
 
+#### Exclusive
+
+[NYC Mayor Adams' top aide expected to be indicted as probes swirl, sources say](https://nypost.com/2024/12/15/us-news/adams-top-aide-ingrid-lewis-martin-expected-to-be-indicted-as-probes-swirl-sources/)
+
 Privacy Notice Highlights
 =========================
 
