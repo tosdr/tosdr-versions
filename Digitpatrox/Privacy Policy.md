@@ -20,16 +20,16 @@ Monday, December 16 2024
 
 Latest
 
-* [NYT Strands today — hints, spangram and answers for game #288 (Monday, December 16 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-288-monday-december-16-2024/)
-* [Clop ransomware claims responsibility for Cleo data theft attacks](https://digitpatrox.com/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
-* [This mod turns the PSP into a tiny PS2 with Bluetooth controller support](https://digitpatrox.com/this-mod-turns-the-psp-into-a-tiny-ps2-with-bluetooth-controller-support/)
-* [How to Get the Petal Dress in Dress to Impress Winter Update](https://digitpatrox.com/how-to-get-the-petal-dress-in-dress-to-impress-winter-update/)
-* [WhatsApp Now Lets You Call Select Members of a Group Chat](https://digitpatrox.com/whatsapp-now-lets-you-call-select-members-of-a-group-chat/)
-* [How to Clean Holiday Decor Items](https://digitpatrox.com/how-to-clean-holiday-decor-items/)
-* [Which Is Best for Your Home Theater?](https://digitpatrox.com/which-is-best-for-your-home-theater/)
-* [New Nintendo Switch 2: 5 biggest rumored changes](https://digitpatrox.com/new-nintendo-switch-2-5-biggest-rumored-changes/)
-* [US offers $5 million for info on North Korean IT worker farms](https://digitpatrox.com/us-offers-5-million-for-info-on-north-korean-it-worker-farms/)
-* [Apple’s foldable iPad could be like ‘two iPad Pros side-by-side’](https://digitpatrox.com/apples-foldable-ipad-could-be-like-two-ipad-pros-side-by-side/)
+* [What Is Core Sleep? (Or What Your Apple Watch Thinks It Is)](https://digitpatrox.com/what-is-core-sleep-or-what-your-apple-watch-thinks-it-is/)
+* [What to Do If You Buy a Dud Appliance](https://digitpatrox.com/what-to-do-if-you-buy-a-dud-appliance/)
+* [How to Check if a Screenshot Has Been Photoshopped](https://digitpatrox.com/how-to-check-if-a-screenshot-has-been-photoshopped/)
+* [Apple’s heading in the wrong direction with the iPhone 17 Air — here’s why](https://digitpatrox.com/apples-heading-in-the-wrong-direction-with-the-iphone-17-air-heres-why/)
+* [Winnti hackers target other threat actors with new Glutton PHP backdoor](https://digitpatrox.com/winnti-hackers-target-other-threat-actors-with-new-glutton-php-backdoor/)
+* [Instagram’s head says social media needs more context because of AI](https://digitpatrox.com/instagrams-head-says-social-media-needs-more-context-because-of-ai/)
+* [Today’s NYT Connections Hints, Answers for December 16, 2024](https://digitpatrox.com/todays-nyt-connections-hints-answers-for-december-16-2024/)
+* [The Xbox Game Pass Bundle Is $62 Off at Amazon Right Now](https://digitpatrox.com/the-xbox-game-pass-bundle-is-62-off-at-amazon-right-now/)
+* [Daily Aspirin: Who Should Take, Who Should Not](https://digitpatrox.com/daily-aspirin-who-should-take-who-should-not/)
+* [Microsoft, It’s Time for a Battery Percentage in Windows](https://digitpatrox.com/microsoft-its-time-for-a-battery-percentage-in-windows/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/TPjnbnuxSnR2Hxho3tzVYJ-1200-80.jpg)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-288-monday-december-16-2024/)
+* [![](https://lifehacker.com/imagery/articles/01HRFAN0BXFKGGM0DVG583AYZZ/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/what-is-core-sleep-or-what-your-apple-watch-thinks-it-is/)
     
-    [NYT Strands today — hints, spangram and answers for game #288 (Monday, December 16 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-288-monday-december-16-2024/)
+    [What Is Core Sleep? (Or What Your Apple Watch Thinks It Is)](https://digitpatrox.com/what-is-core-sleep-or-what-your-apple-watch-thinks-it-is/)
     
-    27 minutes ago
+    28 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/12/15/hacker-card.jpg)](https://digitpatrox.com/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733424360/prod/content/dam/CRO-Images-2024/Magazine/CR-Magazine-InlineHero-If-You-Buy-a-Dud-Appliance-Jan-Feb25-1224)](https://digitpatrox.com/what-to-do-if-you-buy-a-dud-appliance/)
     
-    [Clop ransomware claims responsibility for Cleo data theft attacks](https://digitpatrox.com/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
+    [What to Do If You Buy a Dud Appliance](https://digitpatrox.com/what-to-do-if-you-buy-a-dud-appliance/)
     
-    2 hours ago
+    38 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/yVpKtxA-rxfq-ZThDx5NOOnkiv4=/0x0:1500x1125/1200x628/filters:focal(750x563:751x564)/cdn.vox-cdn.com/uploads/chorus_asset/file/25791257/PS_Placeable.jpg)](https://digitpatrox.com/this-mod-turns-the-psp-into-a-tiny-ps2-with-bluetooth-controller-support/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/12/a-phone-with-a-magnifying-glass-a-screenshot-icon-and-warning-signs-around-it.jpg)](https://digitpatrox.com/how-to-check-if-a-screenshot-has-been-photoshopped/)
     
-    [This mod turns the PSP into a tiny PS2 with Bluetooth controller support](https://digitpatrox.com/this-mod-turns-the-psp-into-a-tiny-ps2-with-bluetooth-controller-support/)
+    [How to Check if a Screenshot Has Been Photoshopped](https://digitpatrox.com/how-to-check-if-a-screenshot-has-been-photoshopped/)
     
-    2 hours ago
+    39 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/12/Dress-to-Impress-Petal-Dress-showcase-image.jpg?w=1250&quality=75)](https://digitpatrox.com/how-to-get-the-petal-dress-in-dress-to-impress-winter-update/)
+* [![](https://cdn.mos.cms.futurecdn.net/ofGqkYpx8Yc37L34gTHoMT-1200-80.jpg)](https://digitpatrox.com/apples-heading-in-the-wrong-direction-with-the-iphone-17-air-heres-why/)
     
-    [How to Get the Petal Dress in Dress to Impress Winter Update](https://digitpatrox.com/how-to-get-the-petal-dress-in-dress-to-impress-winter-update/)
+    [Apple’s heading in the wrong direction with the iPhone 17 Air — here’s why](https://digitpatrox.com/apples-heading-in-the-wrong-direction-with-the-iphone-17-air-heres-why/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://lifehacker.com/imagery/articles/01JF0D06EDXRBH8XX5ZAN6BB6R/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/whatsapp-now-lets-you-call-select-members-of-a-group-chat/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/06/15/emoji-hacker.jpg)](https://digitpatrox.com/winnti-hackers-target-other-threat-actors-with-new-glutton-php-backdoor/)
     
-    [WhatsApp Now Lets You Call Select Members of a Group Chat](https://digitpatrox.com/whatsapp-now-lets-you-call-select-members-of-a-group-chat/)
+    [Winnti hackers target other threat actors with new Glutton PHP backdoor](https://digitpatrox.com/winnti-hackers-target-other-threat-actors-with-new-glutton-php-backdoor/)
     
-    5 hours ago
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [27 minutes ago
+* [28 minutes ago
     
-    ### NYT Strands today — hints, spangram and answers for game #288 (Monday, December 16 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-288-monday-december-16-2024/)
-* [2 hours ago
+    ### What Is Core Sleep? (Or What Your Apple Watch Thinks It Is)](https://digitpatrox.com/what-is-core-sleep-or-what-your-apple-watch-thinks-it-is/)
+* [38 minutes ago
     
-    ### Clop ransomware claims responsibility for Cleo data theft attacks](https://digitpatrox.com/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
-* [2 hours ago
+    ### What to Do If You Buy a Dud Appliance](https://digitpatrox.com/what-to-do-if-you-buy-a-dud-appliance/)
+* [39 minutes ago
     
-    ### This mod turns the PSP into a tiny PS2 with Bluetooth controller support](https://digitpatrox.com/this-mod-turns-the-psp-into-a-tiny-ps2-with-bluetooth-controller-support/)
+    ### How to Check if a Screenshot Has Been Photoshopped](https://digitpatrox.com/how-to-check-if-a-screenshot-has-been-photoshopped/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [August 27, 2024
     
-    ### Protecting enterprise endpoints against the festive cyber surge](https://digitpatrox.com/protecting-enterprise-endpoints-against-the-festive-cyber-surge/)
-* [September 4, 2024
+    ### You Can Get Windows 11 Pro on Sale for $23 Right Now](https://digitpatrox.com/you-can-get-windows-11-pro-on-sale-for-23-right-now/)
+* [October 25, 2024
     
-    ### How to Join Apple Intelligence Waitlist and What’s the Waitlist Time](https://digitpatrox.com/how-to-join-apple-intelligence-waitlist-and-whats-the-waitlist-time/)
-* [September 23, 2024
+    ### How to Make the Perfect Cup or Pot of Tea](https://digitpatrox.com/how-to-make-the-perfect-cup-or-pot-of-tea/)
+* [September 17, 2024
     
-    ### Today’s Wordle Answer and Hints (September 24, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-september-24-2024/)
+    ### My Favorite iPhone 16 Feature Has Nothing To Do With AI or the Camera](https://digitpatrox.com/my-favorite-iphone-16-feature-has-nothing-to-do-with-ai-or-the-camera/)
 
 Last Modified Topics
 
+* [3 hours ago
+    
+    ### Today’s NYT Connections Hints, Answers for December 16, 2024](https://digitpatrox.com/todays-nyt-connections-hints-answers-for-december-16-2024/)
 * [5 hours ago
     
-    ### Which Is Best for Your Home Theater?](https://digitpatrox.com/which-is-best-for-your-home-theater/)
-* [5 hours ago
+    ### The Xbox Game Pass Bundle Is $62 Off at Amazon Right Now](https://digitpatrox.com/the-xbox-game-pass-bundle-is-62-off-at-amazon-right-now/)
+* [6 hours ago
     
-    ### New Nintendo Switch 2: 5 biggest rumored changes](https://digitpatrox.com/new-nintendo-switch-2-5-biggest-rumored-changes/)
-* [7 hours ago
-    
-    ### US offers $5 million for info on North Korean IT worker farms](https://digitpatrox.com/us-offers-5-million-for-info-on-north-korean-it-worker-farms/)
+    ### Daily Aspirin: Who Should Take, Who Should Not](https://digitpatrox.com/daily-aspirin-who-should-take-who-should-not/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 11, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
