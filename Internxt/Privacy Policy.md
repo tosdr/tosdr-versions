@@ -1,3 +1,9 @@
+🎄It’s the most wonderful time of the year! 80% off ALL premium plans!
+
+[Claim deal](https://internxt.com/pricing)
+
+[🎄 It’s the most wonderful time of the year! 80% off ALL premium plans!](https://internxt.com/pricing)
+
 [![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)[![Internxt logo](https://pub-a9deffb393604831b8b467f4ec97bf3a.r2.dev/website/logos/internxt/cool-gray-90.svg)](https://internxt.com/)
 
 [Pricing](https://internxt.com/pricing)
@@ -286,12 +292,10 @@ The data collected or provided voluntarily through the Web Page, either by brows
 | Identity | Internxt Universal Technologies, S.L. |
 | --- | --- |
 | CIF | B98936354 |
-| Postal address | La Marina de València, Muelle de la Aduana s/n, Edificio Lanzadera, - 46024 – València (Valencia/València) |
-| Phone | 677753624 |
+| Postal address | C/ La Travesia s/n, Edificio Angels, 46024, Valencia, España |
 | E-mail | hello@internxt.com |
-| DPD Contact: | dpd@prodatvalencia.es |
+| DPD Contact: | legal@egida.es |
 | URL: | www.internxt.com |
-| Mercantile Registry | Valencia/València, Tomo ..., Libro ..., Folio ..., Sección ..., Hoja V-.... |
 
 If, for any reason, you wish to contact us on any matter related to the processing of your personal data or privacy (with our Data Protection Officer), you can do so through any of the means indicated above.
 
@@ -823,12 +827,10 @@ The data collected or provided voluntarily through the Web Page, either by brows
 | Identity | Internxt Universal Technologies, S.L. |
 | --- | --- |
 | CIF | B98936354 |
-| Postal address | La Marina de València, Muelle de la Aduana s/n, Edificio Lanzadera, - 46024 – València (Valencia/València) |
-| Phone | 677753624 |
+| Postal address | C/ La Travesia s/n, Edificio Angels, 46024, Valencia, España |
 | E-mail | hello@internxt.com |
-| DPD Contact: | dpd@prodatvalencia.es |
+| DPD Contact: | legal@egida.es |
 | URL: | www.internxt.com |
-| Mercantile Registry | Valencia/València, Tomo ..., Libro ..., Folio ..., Sección ..., Hoja V-.... |
 
 If, for any reason, you wish to contact us on any matter related to the processing of your personal data or privacy (with our Data Protection Officer), you can do so through any of the means indicated above.
 
