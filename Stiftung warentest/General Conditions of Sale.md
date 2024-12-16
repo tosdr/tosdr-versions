@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
-* [Vakuum-Set im Test: Viel Luft nach oben](https://www.test.de/Airtender-im-Test-6177777-0/ "Vakuum-Set im Test - Viel Luft nach oben")
-* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
-* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
-* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
+* [Kfz-Versicherung: Doch keine Haft­pflicht für Aufsitzrasenmäher?](https://www.test.de/Kfz-Versicherung-Haftpflicht-fuer-Aufsitzrasenmaeher-6063315-0/ "Kfz-Versicherung - Doch keine Haftpflicht für Aufsitzrasenmäher?")
+* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
+* [Tipps vom Tier­arzt: Den Hund bei Eis und Schnee schützen](https://www.test.de/Tipps-vom-Tierarzt-Den-Hund-bei-Eis-und-Schnee-schuetzen-6178300-0/ "Tipps vom Tierarzt - Den Hund bei Eis und Schnee schützen")
+* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
+* [Anla­gepro­dukt Cannabis: Plåntz AG zahlt nicht](https://www.test.de/Anlageprodukt-Cannabis-Plntz-AG-zahlt-nicht-6167394-0/ "Anlageprodukt Cannabis - Plåntz AG zahlt nicht")
+* [Glasfaser­ausbau: Warten auf Anschluss zum schnellen Internet](https://www.test.de/Glasfaserausbau-Warten-auf-Anschluss-zum-schnellen-Internet-6160446-0/ "Glasfaserausbau - Warten auf Anschluss zum schnellen Internet")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
-* [Vakuum-Set im Test: Viel Luft nach oben](https://www.test.de/Airtender-im-Test-6177777-0/ "Vakuum-Set im Test - Viel Luft nach oben")
-* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
-* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
-* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
+* [Kfz-Versicherung: Doch keine Haft­pflicht für Aufsitzrasenmäher?](https://www.test.de/Kfz-Versicherung-Haftpflicht-fuer-Aufsitzrasenmaeher-6063315-0/ "Kfz-Versicherung - Doch keine Haftpflicht für Aufsitzrasenmäher?")
+* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
+* [Tipps vom Tier­arzt: Den Hund bei Eis und Schnee schützen](https://www.test.de/Tipps-vom-Tierarzt-Den-Hund-bei-Eis-und-Schnee-schuetzen-6178300-0/ "Tipps vom Tierarzt - Den Hund bei Eis und Schnee schützen")
+* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
+* [Anla­gepro­dukt Cannabis: Plåntz AG zahlt nicht](https://www.test.de/Anlageprodukt-Cannabis-Plntz-AG-zahlt-nicht-6167394-0/ "Anlageprodukt Cannabis - Plåntz AG zahlt nicht")
+* [Glasfaser­ausbau: Warten auf Anschluss zum schnellen Internet](https://www.test.de/Glasfaserausbau-Warten-auf-Anschluss-zum-schnellen-Internet-6160446-0/ "Glasfaserausbau - Warten auf Anschluss zum schnellen Internet")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
-* [Vakuum-Set im Test: Viel Luft nach oben](https://www.test.de/Airtender-im-Test-6177777-0/ "Vakuum-Set im Test - Viel Luft nach oben")
-* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
-* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
-* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
+* [Kfz-Versicherung: Doch keine Haft­pflicht für Aufsitzrasenmäher?](https://www.test.de/Kfz-Versicherung-Haftpflicht-fuer-Aufsitzrasenmaeher-6063315-0/ "Kfz-Versicherung - Doch keine Haftpflicht für Aufsitzrasenmäher?")
+* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
+* [Tipps vom Tier­arzt: Den Hund bei Eis und Schnee schützen](https://www.test.de/Tipps-vom-Tierarzt-Den-Hund-bei-Eis-und-Schnee-schuetzen-6178300-0/ "Tipps vom Tierarzt - Den Hund bei Eis und Schnee schützen")
+* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
+* [Anla­gepro­dukt Cannabis: Plåntz AG zahlt nicht](https://www.test.de/Anlageprodukt-Cannabis-Plntz-AG-zahlt-nicht-6167394-0/ "Anlageprodukt Cannabis - Plåntz AG zahlt nicht")
+* [Glasfaser­ausbau: Warten auf Anschluss zum schnellen Internet](https://www.test.de/Glasfaserausbau-Warten-auf-Anschluss-zum-schnellen-Internet-6160446-0/ "Glasfaserausbau - Warten auf Anschluss zum schnellen Internet")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
-* [Vakuum-Set im Test: Viel Luft nach oben](https://www.test.de/Airtender-im-Test-6177777-0/ "Vakuum-Set im Test - Viel Luft nach oben")
-* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
-* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
-* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
-* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
+* [Kfz-Versicherung: Doch keine Haft­pflicht für Aufsitzrasenmäher?](https://www.test.de/Kfz-Versicherung-Haftpflicht-fuer-Aufsitzrasenmaeher-6063315-0/ "Kfz-Versicherung - Doch keine Haftpflicht für Aufsitzrasenmäher?")
+* [Boden­reiniger im Test: Sanft gepflegt mit einem Wisch](https://www.test.de/Bodenreiniger-im-Test-5992245-0/ "Bodenreiniger im Test - Sanft gepflegt mit einem Wisch")
+* [Tipps vom Tier­arzt: Den Hund bei Eis und Schnee schützen](https://www.test.de/Tipps-vom-Tierarzt-Den-Hund-bei-Eis-und-Schnee-schuetzen-6178300-0/ "Tipps vom Tierarzt - Den Hund bei Eis und Schnee schützen")
+* [Fritzbox als Netz­werk­speicher: Private Cloud mit Fritzbox – ohne extra Netz­werk­speicher](https://www.test.de/Fritzbox-als-Netzwerkspeicher-Eine-guenstige-NAS-Alternative-mit-Abstrichen-6137663-0/ "Fritzbox als Netzwerkspeicher - Private Cloud mit Fritzbox – ohne extra Netzwerkspeicher")
+* [Anla­gepro­dukt Cannabis: Plåntz AG zahlt nicht](https://www.test.de/Anlageprodukt-Cannabis-Plntz-AG-zahlt-nicht-6167394-0/ "Anlageprodukt Cannabis - Plåntz AG zahlt nicht")
+* [Glasfaser­ausbau: Warten auf Anschluss zum schnellen Internet](https://www.test.de/Glasfaserausbau-Warten-auf-Anschluss-zum-schnellen-Internet-6160446-0/ "Glasfaserausbau - Warten auf Anschluss zum schnellen Internet")
 
 Stiftung Warentest
 
