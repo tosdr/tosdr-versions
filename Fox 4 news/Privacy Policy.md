@@ -401,35 +401,43 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![3 juveniles escape from Granbury juvenile detention center](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/juvenile-inmate-escape-hood-county.jpg?ve=1&tl=1)
+ [![Drone sighting latest: Ohio military base, arrests near Boston airport](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/drones.jpg?ve=1&tl=1)
 
- ![3 juveniles escape from Granbury juvenile detention center](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/juvenile-inmate-escape-hood-county.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/3-juveniles-escape-from-granbury-juvenile-detention-center)
+ ![Drone sighting latest: Ohio military base, arrests near Boston airport](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/drones.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/drones-what-we-know-about-mysterious-reports-nj-ny-east-coast)
 
-### [3 juveniles escape from Granbury juvenile detention center](https://www.fox4news.com/news/3-juveniles-escape-from-granbury-juvenile-detention-center)
+### [Drone sighting latest: Ohio military base, arrests near Boston airport](https://www.fox4news.com/news/drones-what-we-know-about-mysterious-reports-nj-ny-east-coast)
 
- [![Man killed while assisting stranded driver in Arlington crash; 2 others in critical condition](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/tyler-white-family-e1734354720891.png?ve=1&tl=1)
+ [![Madison, Wisconsin school shooting: What’s known about the victims](https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2024/12/32/18/madison-christian-school-shooting-reunification-area.jpg?ve=1&tl=1)
 
- ![Man killed while assisting stranded driver in Arlington crash; 2 others in critical condition](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/tyler-white-family-e1734354720891.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tyler-white-arlington-crash)
+ ![Madison, Wisconsin school shooting: What’s known about the victims](https://images.foxtv.com/images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2024/12/32/18/592/333/madison-christian-school-shooting-reunification-area.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/madison-wisconsin-school-shooting-whats-known-about-victims)
 
-### [Man killed while assisting stranded driver in Arlington crash; 2 others in critical condition](https://www.fox4news.com/news/tyler-white-arlington-crash)
+### [Madison, Wisconsin school shooting: What’s known about the victims](https://www.fox4news.com/news/madison-wisconsin-school-shooting-whats-known-about-victims)
 
- [![DPS trooper critically injured after being struck on Dallas North Tollway](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-dnt-trooper-ax-4a_00.00.09.46.jpg?ve=1&tl=1)
+ [![Former Lewisville ISD teacher charged with sexual assault, improper relationship with student](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/alainee-simonson-mugshot-scaled.jpg?ve=1&tl=1)
 
- ![DPS trooper critically injured after being struck on Dallas North Tollway](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-dnt-trooper-ax-4a_00.00.09.46.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dps-trooper-critical-condition)
+ ![Former Lewisville ISD teacher charged with sexual assault, improper relationship with student](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/alainee-simonson-mugshot-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/former-lewisville-isd-teacher-charged-sexual-assault-improper-relationship-student)
 
-### [DPS trooper critically injured after being struck on Dallas North Tollway](https://www.fox4news.com/news/dps-trooper-critical-condition)
+### [Former Lewisville ISD teacher charged with sexual assault, improper relationship with student](https://www.fox4news.com/news/former-lewisville-isd-teacher-charged-sexual-assault-improper-relationship-student)
 
- [![2 teens dead, 4 teens injured at 'makeshift club' shooting in northeast Houston](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/32/18/screenshot-2024-12-15-071216.png?ve=1&tl=1)
+ [![LIVE UPDATES: Madison, Wisconsin school shooting: 3 dead, including shooter; 6 hurt](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/download.png?ve=1&tl=1)
 
- ![2 teens dead, 4 teens injured at 'makeshift club' shooting in northeast Houston](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/12/32/18/592/333/screenshot-2024-12-15-071216.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-teens-dead-3-teens-injured-makeshift-club-shooting-north-houston)
+ ![LIVE UPDATES: Madison, Wisconsin school shooting: 3 dead, including shooter; 6 hurt](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/download.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/madison-abundant-life-christian-school-shooting)
 
-### [2 teens dead, 4 teens injured at 'makeshift club' shooting in northeast Houston](https://www.fox4news.com/news/2-teens-dead-3-teens-injured-makeshift-club-shooting-north-houston)
+### [LIVE UPDATES: Madison, Wisconsin school shooting: 3 dead, including shooter; 6 hurt](https://www.fox4news.com/news/madison-abundant-life-christian-school-shooting)
 
- [![Fallen Terrell police officer remembered at vigil](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/officer-candanoza.jpg?ve=1&tl=1)
+ [![Mesquite man charged with capital murder of 'severely malnourished' 9 month old](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/leon-johnson-dallas-county-jail.jpg?ve=1&tl=1)
 
- ![Fallen Terrell police officer remembered at vigil](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/officer-candanoza.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/terrell-police-officer-jacob-candanoza-vigil)
+ ![Mesquite man charged with capital murder of 'severely malnourished' 9 month old](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/leon-johnson-dallas-county-jail.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mesquite-man-charged-capital-murder-severely-malnourished-9-month-old)
 
-### [Fallen Terrell police officer remembered at vigil](https://www.fox4news.com/news/terrell-police-officer-jacob-candanoza-vigil)
+### [Mesquite man charged with capital murder of 'severely malnourished' 9 month old](https://www.fox4news.com/news/mesquite-man-charged-capital-murder-severely-malnourished-9-month-old)
+
+[](https://www.fox4news.com/news/madison-abundant-life-christian-school-shooting)
+
+BREAKING NEWS
+
+[LIVE UPDATES: Madison, Wisconsin school shooting: 3 dead, including shooter; 5 others hurt](https://www.fox4news.com/news/madison-abundant-life-christian-school-shooting)
+
+[A shooting at the Abundant Life Christian School in Madison, Wisconsin, on Monday, left at least five people dead, including the suspected shooter, and five others injured.](https://www.fox4news.com/news/madison-abundant-life-christian-school-shooting) 
 
 ###### [News](https://www.fox4news.com/news)
 
