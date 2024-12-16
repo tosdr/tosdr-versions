@@ -216,7 +216,7 @@ Remove all filters
 
 Sorting
 
-[FREE SHIPPING ON ORDERS OVER 100 EUR](https://www.skatedeluxe.com/en/i/customer-service/shipping "FREE SHIPPING ON ORDERS OVER 100 EUR")
+[FREE SHIPPING ON ORDERS OVER 20 EUR](https://www.skatedeluxe.com/en/i/customer-service/shipping "FREE SHIPPING ON ORDERS OVER 100 EUR")
 
 [FAST SHIPPING](https://www.skatedeluxe.com/en/i/customer-service/shipping "fastest Skateshop")
 
