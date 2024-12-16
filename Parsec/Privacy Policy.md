@@ -23,16 +23,6 @@ This Privacy Policy will provide you with information on how Unity Technologies 
 
 This Privacy Policy also applies to Personal Information we collect offline, such as when you call us or interact with Unity in person, such as at an industry event or at a place of business.
 
-[Technical and Organisational Measures including Technical and Organisational Measure to ensure the Security of the Data](https://unity.com/legal/technical-and-organisational-measures)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Technical and Organisational Measures (TOMs) are strategic safeguards designed to protect data security and ensure adherence to data protection regulations. These are incorporated by reference in Unity’s [Data Protection Addendum.](https://unity.com/legal/unity-data-processing-addendum-dpa)
-
-[Sub-Processors](https://unity.com/legal/subprocessors)
--------------------------------------------------------
-
-Sub-processors are third-party companies that assist Unity by handling personal data on Unity's behalf. These are incorporated by reference in Unity’s [Data Protection Addendum](https://unity.com/legal/unity-data-processing-addendum-dpa).
-
 [Game Player and App User Privacy FAQ](https://parsecgaming.com/legal/game-player-and-app-user-privacy-faq)
 -----------------------------------------------------------------------------------------------------------
 
@@ -48,16 +38,30 @@ This sets forth Unity’s policies and procedures regarding the Unity software p
 
 This sets forth special privacy terms regarding use of the Unity MARS Companion App.
 
+[**Unity Data Processing Addendum (“DPA”)**](https://unity.com/legal/unity-data-processing-addendum-dpa)
+--------------------------------------------------------------------------------------------------------
+
+This Data Processing Addendum (this “DPA”) is incorporated into and forms an integral part of the Unity Terms of Service. This agreement determines the rights and obligations of each party when processing personal information.
+
 [DPA Amendment for EU, UK, and Swiss SCCs](https://images.response.unity3d.com/Web/Unity/%7B24ba944e-c78e-4c4b-83e9-edde4d37216c%7D_Amendment_to_Unity_Data_Processing_Addendum_-_FINAL.pdf)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-In 2021, the European Commission and the Swiss Federal Data Protection and Information Commission issued new Standard Contractual Clauses ("2021 SCCs"). Additionally, in 2022, the UK Parliament approved the UK International Data Transfer Addendum to the EU SCCs (“UK Addendum”). The 2021 SCCs and UK Addendum replace the Standard Contractual Clauses enacted in 2010 (“2010 SCCs”). This is a pre-signed copy of this document which you may download, execute on your side, and return to DPA@unity3d.com.  
-  
-[GENERATIVE AI SUPPLEMENTAL PRIVACY NOTICE](https://unity.com/legal/supplemental-privacy-statement-unity-muse)  
+In 2021, the European Commission and the Swiss Federal Data Protection and Information Commission issued new Standard Contractual Clauses ("2021 SCCs"). Additionally, in 2022, the UK Parliament approved the UK International Data Transfer Addendum to the EU SCCs (“UK Addendum”). The 2021 SCCs and UK Addendum replace the Standard Contractual Clauses enacted in 2010 (“2010 SCCs”). This is a pre-signed copy of this document which you may download, execute on your side, and return to DPA@unity3d.com.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Technical and Organisational Measures including Technical and Organisational Measure to ensure the Security of the Data](https://unity.com/legal/technical-and-organisational-measures)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-This notice explains Unity's processing activities with respect to Personal Information collected through users of Generative AI Tools  
+Technical and Organisational Measures (TOMs) are strategic safeguards designed to protect data security and ensure adherence to data protection regulations. These are incorporated by reference in Unity’s [Data Protection Addendum.](https://unity.com/legal/unity-data-processing-addendum-dpa)
+
+[Sub-Processors](https://unity.com/legal/subprocessors)
+-------------------------------------------------------
+
+Sub-processors are third-party companies that assist Unity by handling personal data on Unity's behalf. These are incorporated by reference in Unity’s [Data Protection Addendum](https://unity.com/legal/unity-data-processing-addendum-dpa).
+
+[GENERATIVE AI SUPPLEMENTAL PRIVACY NOTICE](https://unity.com/legal/supplemental-privacy-statement-unity-muse)
+--------------------------------------------------------------------------------------------------------------
+
+This notice explains Unity's processing activities with respect to Personal Information collected through users of Generative AI Tools
 
 Language
 
