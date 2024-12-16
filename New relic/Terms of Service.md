@@ -1,5 +1,9 @@
 [Skip to main content](#main-content)
 
+New Relic Now Start training on Intelligent Observability February 25th.
+
+[Save your seat.](https://newrelic.com/event/new-relic-now-2025)
+
 [](https://newrelic.com/ "New Relic Logo")
 
 Search toggle Main navigation menu, 6 items
