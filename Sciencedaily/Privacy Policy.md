@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
-
 [Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
 [Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
+
+[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
-
 [Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
+
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
+[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
 
 [Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
-[Biodiversity](https://www.sciencedaily.com/news/earth_climate/biodiversity/)
+[Air Pollution](https://www.sciencedaily.com/news/earth_climate/air_pollution/)
 
   
 
