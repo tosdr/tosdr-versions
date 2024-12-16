@@ -10,15 +10,15 @@ Quick Look
 
 Change your current location »
 
-Current![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1456) \-Mostly Sunny
+Current![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1457) \-Mostly Sunny
 
-Tonight![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1456)Low \-Mostly Sunny
+Tonight![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1457)Low \-Mostly Sunny
 
-Tomorrow![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1456)High \-Mostly Sunny
+Tomorrow![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1457)High \-Mostly Sunny
 
 View full weather report
 
-[![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main.svg?d=1456)![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main_sm.svg?d=1456)](https://www.al.com/)
+[![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main.svg?d=1457)![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main_sm.svg?d=1457)](https://www.al.com/)
 
 * [Birmingham](https://www.al.com/birmingham)
 * [Huntsville](https://www.al.com/huntsville)
@@ -32,7 +32,7 @@ View full weather report
 Advance Local Privacy Notice Overview
 =====================================
 
-When you access, use, subscribe to, sign-up for, or register to use any of the websites, mobile apps, products, services, publications, or other [Products and Services](https://www.al.com/user-agreement/#glossary) owned or operated by Advance Local or one of our [brands](https://www.advancelocal.com/our-businesses/?_categories=media), [Personal Information](#categories_top) about you. In this section we provide an overview of our privacy practices. You'll find the full [Advance Local Privacy Policy](#static__privacy-policy) (the “Privacy Policy”) below. We encourage you to read the full Privacy Policy in addition to this overview. All Capitalized terms used in this overview are defined in the full Privacy Policy below.
+When you access, use, subscribe to, sign-up for, or register to use any of the websites, mobile apps, products, services, publications, or other [Products and Services](https://www.al.com/user-agreement/#glossary) owned or operated by Advance Local or one of our [brands](https://www.advancelocal.com/our-businesses/?_categories=media), we and third parties may collect, process, and retain [Personal Information](#categories_top) about you. In this section we provide an overview of our privacy practices. You'll find the full [Advance Local Privacy Policy](#static__privacy-policy) (the “Privacy Policy”) below. We encourage you to read the full Privacy Policy in addition to this overview. All Capitalized terms used in this overview are defined in the full Privacy Policy below.
 
 Personal Information We Collect
 -------------------------------
@@ -71,7 +71,7 @@ Your Rights
 
 You may have rights related to your Personal Information, including the right to access, delete, correct, transfer, and opt out of the use of it for certain purposes. Those rights vary, depending on your relationship with us, where you are located, and the laws that apply in your location.
 
-For example, residents of California, Colorado, Connecticut, Virginia, Utah, Oregon, Texas, Montana, and certain other states have a variety of privacy rights, including, but not limited to, the right to opt-out of “sales” and/or “sharing” of Personal Information, which includes Targeted Advertising; and limit, opt-out, or opt-in, as applicable, to the use and disclosure of your [Sensitive Personal Information](#senitive_info). For a more detailed description of these and other rights that may be available to you, please see these sections below:
+For example, residents of California, Colorado, Connecticut, Delaware, Iowa, Montana, Oregon, Nebraska, New Hampshire, New Jersey, Texas, Utah, and Virginia, and certain other states have a variety of privacy rights, including, but not limited to, the right to opt-out of “sales” and/or “sharing” of Personal Information, which includes Targeted Advertising; and limit, opt-out, or opt-in, as applicable, to the use and disclosure of your [Sensitive Personal Information](#senitive_info). For a more detailed description of these and other rights that may be available to you, please see these sections below:
 
 * [Tracking Techniques and Technologies and Targeted Advertising](#tracking_top)
 * [Opting-out of Third-Party Tracking Technologies](#optout_tracking_top)
@@ -83,9 +83,9 @@ There is more detail, including on the topics above, in the Privacy Policy, and 
 Advance Local Privacy Policy
 ============================
 
-Last Updated: July 1, 2024
+Last Updated: January 1, 2025
 
-Note for Residents of California, Colorado, Connecticut, Virginia, Utah, Oregon, Texas and Montana: : This Privacy Policy describes how we collect, use, disclose, sell, share, and retain your Personal Information in connection with our Products and Services and your rights and choices over our processing of your Personal Information. The [Exercising Your Privacy Rights, Including the Right to Opt Out of Targeted Advertising](#optout_top) section below contains specific details related to your rights under California and other applicable laws, including your right to opt-out of “sales” and/or “sharing” of Personal Information, which includes Targeted Advertising; limit, opt-out, or opt-in, as applicable, to the use and disclosure of your Sensitive Personal Information and know, access, correct, delete, restrict, object, and/or have portability of, your Personal Information.
+Note for residents of California, Colorado, Connecticut, Delaware, Iowa, Montana, Oregon, Nebraska, New Hampshire, New Jersey, Texas, Utah, and Virginia : This Privacy Policy describes how we collect, use, disclose, sell, share, and retain your Personal Information in connection with our Products and Services and your rights and choices over our processing of your Personal Information. The [Exercising Your Privacy Rights, Including the Right to Opt Out of Targeted Advertising](#optout_top) section below contains specific details related to your rights under California and other applicable laws, including your right to opt-out of “sales” and/or “sharing” of Personal Information, which includes Targeted Advertising; limit, opt-out, or opt-in, as applicable, to the use and disclosure of your Sensitive Personal Information and know, access, correct, delete, restrict, object, and/or have portability of, your Personal Information.
 
 This Advance Local Privacy Policy ("Privacy Policy") describes how Advance Local Media LLC and its Local Media Groups (“Advance Local” “we,” “us,” or “our”) collect, use, disclose, and retain [Personal Information](#categories_top) about the individuals and the devices and browsers that interact with each website, mobile site, application, email/text/SMS campaign, event, and/or other activity, offering, or publication (regardless of how distributed, transmitted, published, or broadcast) provided by us that links to, or references, his document, including without limitation all Content, features and functionality thereof, such as widgets, plug-ins, and embeddable players (collectively, the “Services”), as well as any merchandise, item, product and/or service, or other online or offline activity, offering, product or services that links to or references this Privacy Policy, including without limitation Content, sweepstakes, contests, surveys, events, email newsletters, newspapers, magazines and other publications that may be featured, mentioned, reviewed, described, auctioned, given away, rented, sold, distributed, or otherwise available on or through the Services either by us or third parties (collectively, the “Products”). This Privacy Policy also describes the rights that you may have regarding our processing of your Personal Information under applicable local law.
 
@@ -227,7 +227,7 @@ Where required by applicable law, we enable you to opt out of or provide you wit
 7. Understanding Your Privacy Rights and Choices
     ---------------------------------------------
     
-    The states of California, Colorado, Connecticut, Virginia, Utah, Oregon, Texas, and Montana provide its residents certain rights regarding our processing of your Personal Information, including the right to opt-out of Targeted Adverting and/or what is sometimes called “sales” or “sharing” of your Personal Information, and other rights detailed immediately below.
+    The states of California, Colorado, Connecticut, Delaware, Iowa, Montana, Oregon, Nebraska, New Hampshire, New Jersey, Texas, Utah, and Virginia provide its residents certain rights regarding our processing of your Personal Information, including the right to opt-out of Targeted Adverting and/or what is sometimes called “sales” or “sharing” of your Personal Information, and other rights detailed immediately below.
     
     * request information about our processing of your Personal Information (right to know), including, depending on your state of residence, a list of specific third parties to whom we have disclosed your Personal Information;
     * request a copy of your Personal Information (right to access);
@@ -248,7 +248,7 @@ Where required by applicable law, we enable you to opt out of or provide you wit
 8. Exercising Your Privacy Rights, Including the Right to Opt Out of Targeted Advertising
     --------------------------------------------------------------------------------------
     
-    To exercise your rights under applicable local law, or if, in accordance with applicable local law in California, Colorado, Connecticut, Virginia, Utah, Oregon, Texas, and Montana, you are an authorized agent, or a parent or guardian seeking to exercise rights on behalf of a minor, please follow the instructions provided below.
+    To exercise your rights under applicable local law, or if, in accordance with applicable local law in California, Colorado, Connecticut, Delaware, Iowa, Montana, Oregon, Nebraska, New Hampshire, New Jersey, Texas, Utah, and Virginia, you are an authorized agent, or a parent or guardian seeking to exercise rights on behalf of a minor, please follow the instructions provided below.
     
     Opting Out of a “Sale” or “Sharing” of Your Personal Information or of its Use for Targeted Advertising  
     Please note that when following the processes described below, you may need to make your Opt-Out choices on each website, mobile application, browser, and device that you use, and if your browser's cookies are cleared, you may need to repeat the process. However, if you have created an account to log in across several of our apps and/or websites, we will make reasonable efforts to apply your opt-out request to each of those apps and websites.
@@ -550,7 +550,7 @@ Where required by applicable law, we enable you to opt out of or provide you wit
 Footer Navigation
 -----------------
 
-![Visit the al.com home page](/pf/resources/images/al/logos/logo_footer.png?d=1456)
+![Visit the al.com home page](/pf/resources/images/al/logos/logo_footer.png?d=1457)
 
 About Us
 
@@ -629,17 +629,17 @@ More on AL.com
 * [Sponsor Content](https://www.al.com/sponsor-content-index/?prx_adpz=1111)
 * [Post a job](https://jobs.al.com/AdminNet/Employer/Marketing/3315)
 
-* Your Privacy Choices![California Consumer Privacy Act (CCPA) Opt-Out Icon](/pf/resources/images/common/icons/privacyoptions.svg?d=1456)
+* Your Privacy Choices![California Consumer Privacy Act (CCPA) Opt-Out Icon](/pf/resources/images/common/icons/privacyoptions.svg?d=1457)
 * [Privacy Policy](https://www.al.com/privacy-policy/)
 * |[User Agreement](https://www.al.com/user-agreement/)
-* |[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.svg?d=1456)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
+* |[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.svg?d=1457)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
 
 Disclaimer
 ----------
 
-[![Advance Local logo](/pf/resources/images/common/logos/AdvanceLocal_horizontal.svg?d=1456)](https://www.advancelocal.com/)
+[![Advance Local logo](/pf/resources/images/common/logos/AdvanceLocal_horizontal.svg?d=1457)](https://www.advancelocal.com/)
 
-Use of and/or registration on any portion of this site constitutes acceptance of our [User Agreement](https://www.al.com/user-agreement/), (updated 8/1/2024) and acknowledgement of our [Privacy Policy](https://www.al.com/privacy-policy/), and [Your Privacy Choices and Rights](https://www.al.com/privacy-policy/#rights_top) (updated 7/1/2024).
+Use of and/or registration on any portion of this site constitutes acceptance of our [User Agreement](https://www.al.com/user-agreement/), (updated 8/1/2024) and acknowledgement of our [Privacy Policy](https://www.al.com/privacy-policy/), and [Your Privacy Choices and Rights](https://www.al.com/privacy-policy/#rights_top) (updated 1/1/2025).
 
 © 2024 Advance Local Media LLC. All rights reserved ([About Us](https://www.al.com/aboutus/)).  
 The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Advance Local.
@@ -648,4 +648,4 @@ The material on this site may not be reproduced, distributed, transmitted, cache
 
 **YouTube's privacy policy** is available [here](https://policies.google.com/privacy "YouTube Privacy Policy") and **YouTube's terms of service** is available [here](https://www.youtube.com/t/terms "YouTube Terms of Service").
 
-[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.svg?d=1456)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
+[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.svg?d=1457)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
