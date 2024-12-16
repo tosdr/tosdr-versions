@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
 * [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
-* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
-* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
-* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [Arzt­besuch: Zuzahlung nicht vorschnell akzeptieren](https://www.test.de/Arztbesuch-Zuzahlung-nicht-vorschnell-akzeptieren-6176444-0/ "Arztbesuch - Zuzahlung nicht vorschnell akzeptieren")
+* [Gut essen mit der Stiftung Warentest: Sommer­rollen mit Dip](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Sommerrollen-mit-Dip-6029819-0/ "Gut essen mit der Stiftung Warentest - Sommerrollen mit Dip")
+* [Fonds­gebundene Renten­versicherung von myPension: Günstig, aber unflexibel](https://www.test.de/Fondsgebundene-Rentenversicherung-von-myPension-Guenstig-aber-unflexibel-6035038-0/ "Fondsgebundene Rentenversicherung von myPension - Günstig, aber unflexibel")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
 * [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
-* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
-* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
-* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [Arzt­besuch: Zuzahlung nicht vorschnell akzeptieren](https://www.test.de/Arztbesuch-Zuzahlung-nicht-vorschnell-akzeptieren-6176444-0/ "Arztbesuch - Zuzahlung nicht vorschnell akzeptieren")
+* [Gut essen mit der Stiftung Warentest: Sommer­rollen mit Dip](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Sommerrollen-mit-Dip-6029819-0/ "Gut essen mit der Stiftung Warentest - Sommerrollen mit Dip")
+* [Fonds­gebundene Renten­versicherung von myPension: Günstig, aber unflexibel](https://www.test.de/Fondsgebundene-Rentenversicherung-von-myPension-Guenstig-aber-unflexibel-6035038-0/ "Fondsgebundene Rentenversicherung von myPension - Günstig, aber unflexibel")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
 * [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
-* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
-* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
-* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [Arzt­besuch: Zuzahlung nicht vorschnell akzeptieren](https://www.test.de/Arztbesuch-Zuzahlung-nicht-vorschnell-akzeptieren-6176444-0/ "Arztbesuch - Zuzahlung nicht vorschnell akzeptieren")
+* [Gut essen mit der Stiftung Warentest: Sommer­rollen mit Dip](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Sommerrollen-mit-Dip-6029819-0/ "Gut essen mit der Stiftung Warentest - Sommerrollen mit Dip")
+* [Fonds­gebundene Renten­versicherung von myPension: Günstig, aber unflexibel](https://www.test.de/Fondsgebundene-Rentenversicherung-von-myPension-Guenstig-aber-unflexibel-6035038-0/ "Fondsgebundene Rentenversicherung von myPension - Günstig, aber unflexibel")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Suppenpulver und Suppenwürfel: Gute für eine schnelle Brühe](https://www.test.de/Suppenpulver-und-Suppenwuerfel-Gute-fuer-eine-schnelle-Bruehe-6074089-0/ "Suppenpulver und Suppenwürfel - Gute für eine schnelle Brühe")
+* [Strom­preis­erhöhung im Ferien­haus: Wider­spruch ist sinn­voll](https://www.test.de/Strompreiserhoehung-im-Ferienhaus-Widerspruch-ist-sinnvoll-5954040-0/ "Strompreiserhöhung im Ferienhaus - Widerspruch ist sinnvoll")
 * [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
-* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
-* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
-* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
-* [Arzt­besuch: Zuzahlung nicht vorschnell akzeptieren](https://www.test.de/Arztbesuch-Zuzahlung-nicht-vorschnell-akzeptieren-6176444-0/ "Arztbesuch - Zuzahlung nicht vorschnell akzeptieren")
+* [Gut essen mit der Stiftung Warentest: Sommer­rollen mit Dip](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Sommerrollen-mit-Dip-6029819-0/ "Gut essen mit der Stiftung Warentest - Sommerrollen mit Dip")
+* [Fonds­gebundene Renten­versicherung von myPension: Günstig, aber unflexibel](https://www.test.de/Fondsgebundene-Rentenversicherung-von-myPension-Guenstig-aber-unflexibel-6035038-0/ "Fondsgebundene Rentenversicherung von myPension - Günstig, aber unflexibel")
 
 Stiftung Warentest
 
