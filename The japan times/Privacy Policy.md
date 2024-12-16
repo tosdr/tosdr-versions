@@ -476,6 +476,10 @@ Revised June 1, 2022
 
   [![South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440177.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korean President Yoon Suk Yeol delivers an address to the nation at his official residence in Seoul on Saturday after the National Assembly voted to impeach him earlier in the day. ")](https://www.japantimes.co.jp/news/2024/12/15/asia-pacific/politics/south-korea-yoon-suk-yeol-impeachment/ "South Korean president impeached over martial law decree")
 
+[Assad's final hours in Syria: Deception, despair and flight](https://www.japantimes.co.jp/news/2024/12/15/world/assad-final-hours-syria/ "Assad's final hours in Syria: Deception, despair and flight")
+
+  [![A damaged poster of Syria's ousted leader, Bashar Assad, in Aleppo on Nov. 30 ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440198.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A damaged poster of Syria's ousted leader, Bashar Assad, in Aleppo on Nov. 30 ")](https://www.japantimes.co.jp/news/2024/12/15/world/assad-final-hours-syria/ "Assad's final hours in Syria: Deception, despair and flight")
+
 [U.S. Marines begin to relocate from Okinawa to Guam](https://www.japantimes.co.jp/news/2024/12/14/japan/okinawa-marines-guam-relocation/ "U.S. Marines begin to relocate from Okinawa to Guam")
 
   [![U.S. Marine Corps Air Station Futenma in Ginowan, Okinawa Prefecture, in 2021](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/14/440174.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. Marine Corps Air Station Futenma in Ginowan, Okinawa Prefecture, in 2021")](https://www.japantimes.co.jp/news/2024/12/14/japan/okinawa-marines-guam-relocation/ "U.S. Marines begin to relocate from Okinawa to Guam")
@@ -519,9 +523,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -561,23 +565,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Lowering tensions key priority for incoming ASEAN chair Malaysia](https://www.japantimes.co.jp/news/2024/12/16/japan/politics/malaysia-ambassador-japan-interview/ "Lowering tensions key priority for incoming ASEAN chair Malaysia")
+[Bashar Assad's prisoner #3006 tells his story](https://www.japantimes.co.jp/news/2024/12/16/world/assad-prisoner-no-3006-story/ "Bashar Assad's prisoner #3006 tells his story")
 
-13 mins ago
+28 mins ago
 
-[Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-student-stabbing/ "Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds")
+[Finance Ministry official arrested over alleged 'upskirting' photo](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-official-upskirting-arrest/ "Finance Ministry official arrested over alleged 'upskirting' photo")
 
-15 mins ago
+38 mins ago
 
-[Emergency teams to be equipped with unmanned water-cannon robots](https://www.japantimes.co.jp/news/2024/12/16/japan/japan-disaster-robots/ "Emergency teams to be equipped with unmanned water-cannon robots")
+[Extradition of India's Gautam Adani seems unlikely, experts say](https://www.japantimes.co.jp/business/2024/12/16/companies/us-india-adani-extradition/ "Extradition of India's Gautam Adani seems unlikely, experts say")
 
-1 hour ago
+50 mins ago
 
-[Companies rush to high-end rice cookers as consumer tastes change](https://www.japantimes.co.jp/news/2024/12/16/japan/rice-cooker-manufacturers/ "Companies rush to high-end rice cookers as consumer tastes change")
+[MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/mufg-hanzawa-safe/ "MUFG Bank apologizes for theft of ¥1 billion in valuables from deposit boxes")
 
-1 hour ago
+59 mins ago
 
-[South Korea's won and stocks take spotlight after impeachment vote](https://www.japantimes.co.jp/business/2024/12/16/markets/korean-won-stocks-impeachment/ "South Korea's won and stocks take spotlight after impeachment vote")
+[Inside South Korea's right-wing YouTube world openly embraced by Yoon](https://www.japantimes.co.jp/news/2024/12/16/asia-pacific/politics/south-korea-right-wing-youtube-yoon/ "Inside South Korea's right-wing YouTube world openly embraced by Yoon")
 
 1 hour ago
 
