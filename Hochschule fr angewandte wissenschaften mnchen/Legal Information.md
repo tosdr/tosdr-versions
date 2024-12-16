@@ -161,33 +161,35 @@ D-80335 München
 Responsible editors for the departments
 ---------------------------------------
 
-**Lothstraße Campus**
+**Campus Lothstraße**
 
-* [Prof. Dr. Carsten Tille](mailto:carsten.tille@hm.edu "Prof. Dr. Carsten Tille") (Department 03)
-* [Katja Lindner-Bergner](mailto:katja.lindner-bergner@hm.edu "Katja Lindner-Bergner") (Department 04)
-* [Prof. Thomas Kuen](mailto:thomas.kuen@hm.edu "Prof. Thomas Kuen") (Department 05)
-* [Kathrin Resch](mailto:kresch@hm.edu "Kathrin Resch") (Department 06)
-* [Michaela Rambausek](mailto:michaela.rambausek@hm.edu "Michaela Rambausek") (Department 07)
-* [Katharina Senger](mailto:katharina.senger@hm.edu "Katharina Senger") (Department 09)
-* [Prof. Ben Santo](mailto:ben.santo@hm.edu "Prof. Ben Santo") (Department 12)
-* [Prof. Ben Santo](mailto:ben.santo@hm.edu "Prof. Ben Santo") (Microsite "Einblick", Department 12)
-* [Prof. Matthias Edler-Golla](mailto:matthias.edler-golla@hm.edu "Prof. Matthias Edler-Golla") (Microsite "Insights", Department 12)
-* [Christine Schrödl](mailto:christine.schroedl@hm.edu "Christine Schrödl") (Department 13)
-* [Prof. Dr. Felix Kolbeck](mailto:felix.kolbeck@hm.edu "Prof. Dr. Felix Kolbeck ") (Department 14)
-* [Petra Hell](mailto:petra.hell@hm.edu "Petra Hell") (Library)
-
-  
-**Pasing Campus**
-
-* [Romy Schorcht](mailto:romy.schorcht@hm.edu "Romy Schorcht") (Department 10)
-* [Katrin Kümpfbeck](mailto:katrin.kuempfbeck@hm.edu "Katrin Kümpfbeck") (Department 11)
+* Prof. Dr. Andreas Gubner (FK03)
+* Katja Lindner Bergner (FK04)
+* Debora Kuder (FK05)
+* Kathrin Resch (FK06)
+* Michaela Rambausek (FK07)
+* Katharina Senger (FK09)
+* Tina Barankay (FK12)
+* Prof. Ben Santo (Microsite "Einblick", FK12)
+* Prof. Matthias Edler-Golla (Microsite "Insights", FK12)
+* Christine Schrödl (FK13)
+* Prof. Dr.-Ing. Torsten Busacker (FK14)
+* Diana Weidmann (MUC.DAI)
+* Katja Koralewski (Bibliothek)
+* Klaus Krehbiel (Zentrale IT)
 
   
-**Karlstraße Campus**
+**Campus Pasing**
 
-* [Johanna Hansmann](mailto:johanna.hansmann@hm.edu "Johanna Hansmann") (Department 01)
-* [Lea Held](mailto:lea.held@hm.edu "Lea Held") (Department 02)
-* [Petra Wurzer](mailto:petra.wurzer@hm.edu "Petra Wurzer") (Department 08)
+* Prof. Dr. Markus Wessler (HM Business School)
+* Katrin Kümpfbeck (FK11)
+
+  
+**Campus Karlstraße**
+
+* Sabine Buchner (FK01)
+* Kirsten Last (FK02)
+* Petra Wurzer (FK08)
 
   
 **Address of all above mentioned responsible editors:**  
@@ -200,8 +202,8 @@ Technical Implementation and Management
 HM webteam (advice & coordination)  
 [E-Mail](mailto:redakteurs-support@hm.edu "E-Mail")
 
-asioso GmbH, Munich  
-[www.asioso.de](http://www.asioso.de/ "CMS asioso")
+Digitas GmbH, Hamburg (ongoing operation)  
+[www.digitas.de](https://www.digitas.de/ "Website Digitas")
 
 Mailprovider of HM Hochschule München
 -------------------------------------
@@ -215,10 +217,18 @@ The Bavarian Academy of Sciences is a corporation under public law.
 Corporate Design
 ----------------
 
+**Design concept**  
 Keller Maurer Design  
 Baumstrasse 4 - Hof 1  
 80469 Munich  
 [www.km-d.com](https://www.km-d.com/)
+
+  
+**Technical realisation**  
+asioso GmbH  
+Wilhelmine-Reichard-Str. 26  
+80935 Munich  
+[www.asioso.com](https://www.asioso.com/ "Website asioso")
 
 Picture Credits
 ---------------
