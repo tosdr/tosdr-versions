@@ -749,6 +749,18 @@ Languages
 
 Blog
 
+Dec. 13, 2024
+
+[How to create inclusive meetings](https://blog.prezi.com/inclusive-meetings-2/)
+
+Dec. 10, 2024
+
+[Year end review presentations: how to create an effective and engaging one](https://blog.prezi.com/year-end-review-presentation/)
+
+Dec. 6, 2024
+
+[Interesting business topics for presentations](https://blog.prezi.com/business-topics-for-presentation/)
+
 [Latest posts](https://blog.prezi.com/)
 
 infogram
