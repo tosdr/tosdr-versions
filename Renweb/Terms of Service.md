@@ -60,7 +60,7 @@
                 * [Administration & Communication](https://factsmgt.com/products/school-management/administration-communication/)
                 * [Teaching & Learning](https://factsmgt.com/products/school-management/teaching-learning/)
                 * [Health & Wellbeing](https://factsmgt.com/products/school-management/health-wellbeing/)
-                * [AUNZ Financial Management](https://factsmgt.com/products/school-management/financial-management/)
+                * [Financial Management](https://factsmgt.com/products/school-management/financial-management/)
                 * [Specialty Modules](https://factsmgt.com/products/school-management/specialty-modules/)
                 * [Reporting & Analytics](https://factsmgt.com/products/school-management/reporting-analytics/)
         * * [Tuition Management](https://factsmgt.com/products/financial-management/)
