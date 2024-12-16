@@ -716,6 +716,13 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [UCL Wins At The 2024 Global MOOC And Online Education Alliance (GMA) Awards](https://www.futurelearn.com/info/press/ucl-wins-at-the-2024-global-mooc-and-online-education-alliance-gma-awards)
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    FutureLearn partner, University College London (UCL), has won an award at the 2024 Global MOOC …
+    
+    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
+    
 * [FutureLearn Hosts The China-UK Digital Higher Education Dialogue](https://www.futurelearn.com/info/press/futurelearn-hosts-the-china-uk-digital-higher-education-dialogue)
     ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
@@ -738,15 +745,6 @@ Powered By
     As the world observes Human Rights Day on 10 December, FutureLearn, the UK’s leading platform …
     
     Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
-    
-* [![student researching master's vs bachelor's degrees](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/GettyImages-1243744124-150x150.jpg.optimal.jpg)](https://www.futurelearn.com/info/blog/masters-degrees-vs-bachelors-degrees)
-    
-    [Master’s Degrees vs Bachelor’s Degrees](https://www.futurelearn.com/info/blog/masters-degrees-vs-bachelors-degrees)
-    --------------------------------------------------------------------------------------------------------------------
-    
-    Discover the key differences between bachelor's and master's degrees, including career prospects, costs, and time …
-    
-    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
