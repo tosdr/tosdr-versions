@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![hire](/hire/card.svg)](https://jarick.works/hire)[![freeblr taxation the hidden cost of taxation](/freeblr/taxation/the-hidden-cost-of-taxation/card.svg)](https://jarick.works/freeblr/taxation/the-hidden-cost-of-taxation)[![freeblr justice the nature of law](/freeblr/justice/the-nature-of-law/card.svg)](https://jarick.works/freeblr/justice/the-nature-of-law)[![freeblr justice on the need for a final arbiter](/freeblr/justice/on-the-need-for-a-final-arbiter/card.svg)](https://jarick.works/freeblr/justice/on-the-need-for-a-final-arbiter)
+[![freeblr limited government minarchism versus anarchism](/freeblr/limited-government/minarchism-versus-anarchism/card.svg)](https://jarick.works/freeblr/limited-government/minarchism-versus-anarchism)[![freeblr ethics liberty as a lack of unchosen positive obligations](/freeblr/ethics/liberty-as-a-lack-of-unchosen-positive-obligations/card.svg)](https://jarick.works/freeblr/ethics/liberty-as-a-lack-of-unchosen-positive-obligations)[![freeblr human nature you dont own other people](/freeblr/human-nature/you-dont-own-other-people/card.svg)](https://jarick.works/freeblr/human-nature/you-dont-own-other-people)[![freeblr money what determines the value of money](/freeblr/money/what-determines-the-value-of-money/card.svg)](https://jarick.works/freeblr/money/what-determines-the-value-of-money)
 
 [Follow](#follow)
 
