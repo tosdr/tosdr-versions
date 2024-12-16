@@ -20,7 +20,9 @@ Compare
 
 [Gong](https://grain.com/compare/gong)[Clari](https://grain.com/compare/clari)[Jiminny](https://grain.com/compare/jiminny)
 
-[Pricing](https://grain.com/pricing)[Sign In](https://grain.com/login)
+[Pricing](https://grain.com/pricing)
+
+[Grain for Sales](https://grain.com/conversation-intelligence)[Sign In](https://grain.com/login)
 
 [Get Grain for Free](#get-started-section)
 
@@ -239,6 +241,8 @@ Use Cases
 Company
 
 [About Us](https://grain.com/company)
+
+[Customers](https://grain.com/customers)
 
 [Careers](https://grain.com/careers)
 
