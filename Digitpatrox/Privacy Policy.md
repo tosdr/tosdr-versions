@@ -20,16 +20,16 @@ Monday, December 16 2024
 
 Latest
 
+* [Businesses know they have major skills deficits, but less than half plan on hiring more women](https://digitpatrox.com/businesses-know-they-have-major-skills-deficits-but-less-than-half-plan-on-hiring-more-women/)
+* [This iPhone 15 Pro Max Is Less Than $900](https://digitpatrox.com/this-iphone-15-pro-max-is-less-than-900/)
+* [The Best and Worst Energy Bars](https://digitpatrox.com/the-best-and-worst-energy-bars/)
+* [Powerhouse Gaming Headset With Haptic Feedback](https://digitpatrox.com/powerhouse-gaming-headset-with-haptic-feedback/)
+* [Asus PA278CFRV review | ITPro](https://digitpatrox.com/asus-pa278cfrv-review-itpro/)
+* [Netflix has a new disaster drama show that’s already crashed the top 10](https://digitpatrox.com/netflix-has-a-new-disaster-drama-show-thats-already-crashed-the-top-10/)
+* [2025 in tech: what’s coming for gadgets, regulation, and AI](https://digitpatrox.com/2025-in-tech-whats-coming-for-gadgets-regulation-and-ai/)
+* [7 Years Later, a New HDMI Standard Could Be Coming Soon](https://digitpatrox.com/7-years-later-a-new-hdmi-standard-could-be-coming-soon/)
 * [What Is Core Sleep? (Or What Your Apple Watch Thinks It Is)](https://digitpatrox.com/what-is-core-sleep-or-what-your-apple-watch-thinks-it-is/)
 * [What to Do If You Buy a Dud Appliance](https://digitpatrox.com/what-to-do-if-you-buy-a-dud-appliance/)
-* [How to Check if a Screenshot Has Been Photoshopped](https://digitpatrox.com/how-to-check-if-a-screenshot-has-been-photoshopped/)
-* [Apple’s heading in the wrong direction with the iPhone 17 Air — here’s why](https://digitpatrox.com/apples-heading-in-the-wrong-direction-with-the-iphone-17-air-heres-why/)
-* [Winnti hackers target other threat actors with new Glutton PHP backdoor](https://digitpatrox.com/winnti-hackers-target-other-threat-actors-with-new-glutton-php-backdoor/)
-* [Instagram’s head says social media needs more context because of AI](https://digitpatrox.com/instagrams-head-says-social-media-needs-more-context-because-of-ai/)
-* [Today’s NYT Connections Hints, Answers for December 16, 2024](https://digitpatrox.com/todays-nyt-connections-hints-answers-for-december-16-2024/)
-* [The Xbox Game Pass Bundle Is $62 Off at Amazon Right Now](https://digitpatrox.com/the-xbox-game-pass-bundle-is-62-off-at-amazon-right-now/)
-* [Daily Aspirin: Who Should Take, Who Should Not](https://digitpatrox.com/daily-aspirin-who-should-take-who-should-not/)
-* [Microsoft, It’s Time for a Battery Percentage in Windows](https://digitpatrox.com/microsoft-its-time-for-a-battery-percentage-in-windows/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01HRFAN0BXFKGGM0DVG583AYZZ/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/what-is-core-sleep-or-what-your-apple-watch-thinks-it-is/)
+* [![](https://cdn.mos.cms.futurecdn.net/C7yTkwWyCFU6qegvGcbBYa-1200-80.jpg)](https://digitpatrox.com/businesses-know-they-have-major-skills-deficits-but-less-than-half-plan-on-hiring-more-women/)
     
-    [What Is Core Sleep? (Or What Your Apple Watch Thinks It Is)](https://digitpatrox.com/what-is-core-sleep-or-what-your-apple-watch-thinks-it-is/)
+    [Businesses know they have major skills deficits, but less than half plan on hiring more women](https://digitpatrox.com/businesses-know-they-have-major-skills-deficits-but-less-than-half-plan-on-hiring-more-women/)
     
-    28 minutes ago
+    55 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733424360/prod/content/dam/CRO-Images-2024/Magazine/CR-Magazine-InlineHero-If-You-Buy-a-Dud-Appliance-Jan-Feb25-1224)](https://digitpatrox.com/what-to-do-if-you-buy-a-dud-appliance/)
+* [![](https://lifehacker.com/imagery/articles/01JF03TJ5GC8TVCD61TV9FCVAA/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/this-iphone-15-pro-max-is-less-than-900/)
     
-    [What to Do If You Buy a Dud Appliance](https://digitpatrox.com/what-to-do-if-you-buy-a-dud-appliance/)
+    [This iPhone 15 Pro Max Is Less Than $900](https://digitpatrox.com/this-iphone-15-pro-max-is-less-than-900/)
     
-    38 minutes ago
+    2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/12/a-phone-with-a-magnifying-glass-a-screenshot-icon-and-warning-signs-around-it.jpg)](https://digitpatrox.com/how-to-check-if-a-screenshot-has-been-photoshopped/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733435022/prod/content/dam/CRO-Images-2024/Magazine/CR-Magazine-InlineHero-Energy-Bars-Jan-Feb25-1224)](https://digitpatrox.com/the-best-and-worst-energy-bars/)
     
-    [How to Check if a Screenshot Has Been Photoshopped](https://digitpatrox.com/how-to-check-if-a-screenshot-has-been-photoshopped/)
+    [The Best and Worst Energy Bars](https://digitpatrox.com/the-best-and-worst-energy-bars/)
     
-    39 minutes ago
+    2 hours ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/ofGqkYpx8Yc37L34gTHoMT-1200-80.jpg)](https://digitpatrox.com/apples-heading-in-the-wrong-direction-with-the-iphone-17-air-heres-why/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/12/00-the-razer-kraken-v4-pro-headset-with-lighting-effects-7_54038909302_o.jpg)](https://digitpatrox.com/powerhouse-gaming-headset-with-haptic-feedback/)
     
-    [Apple’s heading in the wrong direction with the iPhone 17 Air — here’s why](https://digitpatrox.com/apples-heading-in-the-wrong-direction-with-the-iphone-17-air-heres-why/)
+    [Powerhouse Gaming Headset With Haptic Feedback](https://digitpatrox.com/powerhouse-gaming-headset-with-haptic-feedback/)
     
-    1 hour ago
+    2 hours ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/06/15/emoji-hacker.jpg)](https://digitpatrox.com/winnti-hackers-target-other-threat-actors-with-new-glutton-php-backdoor/)
+* [![](https://cdn.mos.cms.futurecdn.net/nC4kbEUxtaSzuJuT7eRtDG-1200-80.jpg)](https://digitpatrox.com/asus-pa278cfrv-review-itpro/)
     
-    [Winnti hackers target other threat actors with new Glutton PHP backdoor](https://digitpatrox.com/winnti-hackers-target-other-threat-actors-with-new-glutton-php-backdoor/)
+    [Asus PA278CFRV review | ITPro](https://digitpatrox.com/asus-pa278cfrv-review-itpro/)
     
     3 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [28 minutes ago
+* [55 minutes ago
     
-    ### What Is Core Sleep? (Or What Your Apple Watch Thinks It Is)](https://digitpatrox.com/what-is-core-sleep-or-what-your-apple-watch-thinks-it-is/)
-* [38 minutes ago
+    ### Businesses know they have major skills deficits, but less than half plan on hiring more women](https://digitpatrox.com/businesses-know-they-have-major-skills-deficits-but-less-than-half-plan-on-hiring-more-women/)
+* [2 hours ago
     
-    ### What to Do If You Buy a Dud Appliance](https://digitpatrox.com/what-to-do-if-you-buy-a-dud-appliance/)
-* [39 minutes ago
+    ### This iPhone 15 Pro Max Is Less Than $900](https://digitpatrox.com/this-iphone-15-pro-max-is-less-than-900/)
+* [2 hours ago
     
-    ### How to Check if a Screenshot Has Been Photoshopped](https://digitpatrox.com/how-to-check-if-a-screenshot-has-been-photoshopped/)
+    ### The Best and Worst Energy Bars](https://digitpatrox.com/the-best-and-worst-energy-bars/)
 
 Most Popular Topics
 
-* [August 27, 2024
+* [2 weeks ago
     
-    ### You Can Get Windows 11 Pro on Sale for $23 Right Now](https://digitpatrox.com/you-can-get-windows-11-pro-on-sale-for-23-right-now/)
-* [October 25, 2024
+    ### Data center firm Latos introduces itself with plans for 40 new facilities in the UK](https://digitpatrox.com/data-center-firm-latos-introduces-itself-with-plans-for-40-new-facilities-in-the-uk/)
+* [September 22, 2024
     
-    ### How to Make the Perfect Cup or Pot of Tea](https://digitpatrox.com/how-to-make-the-perfect-cup-or-pot-of-tea/)
-* [September 17, 2024
+    ### Manage Your Outlook Attachments Like a Pro with These 8 Tips](https://digitpatrox.com/manage-your-outlook-attachments-like-a-pro-with-these-8-tips/)
+* [October 3, 2024
     
-    ### My Favorite iPhone 16 Feature Has Nothing To Do With AI or the Camera](https://digitpatrox.com/my-favorite-iphone-16-feature-has-nothing-to-do-with-ai-or-the-camera/)
+    ### Linux malware “perfctl” behind years-long crypto-mining campaign](https://digitpatrox.com/linux-malware-perfctl-behind-years-long-crypto-mining-campaign/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [4 hours ago
     
-    ### Today’s NYT Connections Hints, Answers for December 16, 2024](https://digitpatrox.com/todays-nyt-connections-hints-answers-for-december-16-2024/)
-* [5 hours ago
+    ### 2025 in tech: what’s coming for gadgets, regulation, and AI](https://digitpatrox.com/2025-in-tech-whats-coming-for-gadgets-regulation-and-ai/)
+* [4 hours ago
     
-    ### The Xbox Game Pass Bundle Is $62 Off at Amazon Right Now](https://digitpatrox.com/the-xbox-game-pass-bundle-is-62-off-at-amazon-right-now/)
-* [6 hours ago
+    ### 7 Years Later, a New HDMI Standard Could Be Coming Soon](https://digitpatrox.com/7-years-later-a-new-hdmi-standard-could-be-coming-soon/)
+* [7 hours ago
     
-    ### Daily Aspirin: Who Should Take, Who Should Not](https://digitpatrox.com/daily-aspirin-who-should-take-who-should-not/)
+    ### What Is Core Sleep? (Or What Your Apple Watch Thinks It Is)](https://digitpatrox.com/what-is-core-sleep-or-what-your-apple-watch-thinks-it-is/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [October 4, 2024
     
     ### Wordle Answer for Today, October 4, 2024](https://digitpatrox.com/wordle-answer-for-today-october-4-2024/)
