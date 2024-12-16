@@ -118,9 +118,9 @@ Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/mya
 
 Screenshots needed
 
-* [Tokimeki Memorial: Forever with You](https://www.myabandonware.com/game/tokimeki-memorial-forever-with-you-p3y)
-* [Judge Dredd](https://www.myabandonware.com/game/judge-dredd-sg2)
-* [Disney's Lilo & Stitch Pinball](https://www.myabandonware.com/game/disney-s-lilo-stitch-pinball-rpx)
+* [Lissy: 50 Pferde-Spiele](https://www.myabandonware.com/game/lissy-50-pferde-spiele-stp)
+* [Hisō Kihei X-Serd](https://www.myabandonware.com/game/hiso-kihei-x-serd-kqj)
+* [Indoor Football](https://www.myabandonware.com/game/indoor-football-oni)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
