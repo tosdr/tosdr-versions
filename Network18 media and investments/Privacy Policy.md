@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Zakir Hussain](https://www.news18.com/movies/zakir-hussain-passes-away-tabla-maestro-breathes-his-last-in-san-francisco-9157226.html)
-    * [Ranbir Kapoor](https://www.news18.com/movies/inside-ranbir-kapoor-alia-bhatts-massive-kitchen-photos-with-raha-centralised-ac-and-more-watch-9156895.html)
+    * [Isa Guha](https://www.news18.com/cricket/im-deeply-sorry-isa-guha-issues-apology-for-her-remarks-on-bumrah-shastri-calls-her-brave-woman-ws-b-9157314.html)
+    * [Zakir Hussain](https://www.news18.com/movies/zakir-hussain-passes-away-his-last-post-goes-viral-after-death-he-shared-a-wonder-moment-watch-9157335.html)
     * [MobiKwik IPO](https://www.news18.com/business/ipo/mobikwik-ipo-know-latest-gmp-allotment-and-listing-dates-9156691.html)
+    * [Ranbir Kapoor](https://www.news18.com/movies/inside-ranbir-kapoor-alia-bhatts-massive-kitchen-photos-with-raha-centralised-ac-and-more-watch-9156895.html)
+    * [Lok Sabha](https://www.news18.com/india/lok-sabha-constitution-debate-live-updates-parliament-winter-session-bjp-congress-pm-modi-speech-today-liveblog-9155792.html)
     * [Elon Musk](https://www.news18.com/world/indian-origin-ceo-asks-if-he-can-get-us-green-card-elon-musk-reacts-9157070.html)
-    * [Omar Abdullah](https://www.news18.com/politics/rift-in-india-bloc-widens-as-omar-abdullah-tells-ally-congress-to-stop-whining-about-evms-9156983.html)
-    * [Idli Recipes](https://www.news18.com/web-stories/lifestyle/5-wholesome-south-indian-idli-recipes-2679427/)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Zakir Hussain](https://www.news18.com/movies/zakir-hussain-passes-away-tabla-maestro-breathes-his-last-in-san-francisco-9157226.html)
-* [Ranbir Kapoor](https://www.news18.com/movies/inside-ranbir-kapoor-alia-bhatts-massive-kitchen-photos-with-raha-centralised-ac-and-more-watch-9156895.html)
+* [Isa Guha](https://www.news18.com/cricket/im-deeply-sorry-isa-guha-issues-apology-for-her-remarks-on-bumrah-shastri-calls-her-brave-woman-ws-b-9157314.html)
+* [Zakir Hussain](https://www.news18.com/movies/zakir-hussain-passes-away-his-last-post-goes-viral-after-death-he-shared-a-wonder-moment-watch-9157335.html)
 * [MobiKwik IPO](https://www.news18.com/business/ipo/mobikwik-ipo-know-latest-gmp-allotment-and-listing-dates-9156691.html)
+* [Ranbir Kapoor](https://www.news18.com/movies/inside-ranbir-kapoor-alia-bhatts-massive-kitchen-photos-with-raha-centralised-ac-and-more-watch-9156895.html)
+* [Lok Sabha](https://www.news18.com/india/lok-sabha-constitution-debate-live-updates-parliament-winter-session-bjp-congress-pm-modi-speech-today-liveblog-9155792.html)
 * [Elon Musk](https://www.news18.com/world/indian-origin-ceo-asks-if-he-can-get-us-green-card-elon-musk-reacts-9157070.html)
-* [Omar Abdullah](https://www.news18.com/politics/rift-in-india-bloc-widens-as-omar-abdullah-tells-ally-congress-to-stop-whining-about-evms-9156983.html)
-* [Idli Recipes](https://www.news18.com/web-stories/lifestyle/5-wholesome-south-indian-idli-recipes-2679427/)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
@@ -455,8 +455,7 @@ Latest Blogs
 
 Trending Topics
 
-* [World Chess Championship](https://www.news18.com/topics/world-chess-championship/)
-* [D Gukesh](https://www.news18.com/topics/d-gukesh/)
+* [India vs Australia](https://www.news18.com/topics/india-vs-australia/)
 * [Delhi Elections](https://www.news18.com/topics/delhi-elections/)
 * [Chennai Weather](https://www.news18.com/topics/chennai-weather/)
 * [Lawrence Bishnoi](https://www.news18.com/topics/lawrence-bishnoi/)
@@ -475,6 +474,7 @@ Trending Topics
 * [Shraddha Kapoor](https://www.news18.com/topics/Shraddha-Kapoor/)
 * [Kerala Lottery Results](https://www.news18.com/topics/kerala-lottery-result/)
 * [Shillong Teer Results](https://www.news18.com/topics/shillong-lottery-result/)
+* [Web Stories](https://www.news18.com/web-stories/)
 
 Hot On Social
 
