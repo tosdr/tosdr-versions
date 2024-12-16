@@ -410,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ From what we get, we can make a living; what we give, however, makes a life”
+“ A strong spirit transcends rules”
 
-[Arthur Ashe](https://en.wikipedia.org/wiki/Arthur_Ashe)
+[Prince](https://en.wikipedia.org/wiki/Prince_(musician))
 
 [](https://www.adafruit.com/about)
 
