@@ -190,15 +190,15 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
+* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [Earth.com - Bias and Credibility](https://mediabiasfactcheck.com/earth-com-bias/)
+* [MBFC's Daily Vetted Fact Checks for 12/15/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/15/mbfcs-daily-vetted-fact-checks-for-12-15-2024-weekend-edition/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [Next News Network - Bias and Credibility](https://mediabiasfactcheck.com/next-news-network/)
 * [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
-* [MBFC's Daily Vetted Fact Checks for 12/14/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/14/mbfcs-daily-vetted-fact-checks-for-12-14-2024-weekend-edition/)
-* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 
 #### Subscribe via Email
 
