@@ -9,7 +9,7 @@ Please confirm your location and we’ll send you to the appropriate site!
 
 [No, I'm not in Australia](#)
 
-![Dismiss modal icon](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/66cc892582cc0cb8c1782479_x%20icon.svg "Close")![Card showing 'One free month of YNAB.'](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/66d76202445deb92bf908584_ReferralCardWithSparks-Spendful.png)
+![Dismiss modal icon](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/66cc892582cc0cb8c1782479_x%20icon.svg "Close")![Card showing 'One free month of YNAB.'](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/675f9022e4ca9512ef776e4f_Referrals-Card-Sparks.svg)
 
 A friend
 --------
