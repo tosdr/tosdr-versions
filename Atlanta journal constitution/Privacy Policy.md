@@ -1,3 +1,5 @@
+[Breaking: 3 dead, 7 wounded in a shooting at a Wisconsin school](https://www.ajc.com/news/nation-world/police-say-multiple-people-injured-at-a-wisconsin-school-shooting/VOWFI7MBTFBDVM5GRUUZHPWKBE/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1891)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1891)](https://www.ajc.com/)
 
 Log In
@@ -14,7 +16,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-avoiding-useless-fights/ATK4YLLF25D7DG37LDHMDO36JI/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Best Diners in Georgia](https://www.ajc.com/food-and-dining/best-diners-in-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
