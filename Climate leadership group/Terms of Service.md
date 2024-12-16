@@ -45,7 +45,7 @@ Main menu button
         
     * [Scaling Up Climate Action](https://www.c40.org/what-we-do/scaling-up-climate-action/)
         
-        * [Adaptation & Water](https://www.c40.org/what-we-do/scaling-up-climate-action/adaptation-water/)
+        * [Water, Heat and Nature](https://www.c40.org/what-we-do/scaling-up-climate-action/water-heat-nature/)
         * [Air Quality](https://www.c40.org/what-we-do/scaling-up-climate-action/air-quality/)
         * [Energy & Buildings](https://www.c40.org/what-we-do/scaling-up-climate-action/energy-and-buildings/)
         * [Food Systems](https://www.c40.org/what-we-do/scaling-up-climate-action/food-systems/)
