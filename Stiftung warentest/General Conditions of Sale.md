@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
+* [Vakuum-Set im Test: Viel Luft nach oben](https://www.test.de/Airtender-im-Test-6177777-0/ "Vakuum-Set im Test - Viel Luft nach oben")
+* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
 * [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
-* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
-* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
-* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt")
-* [Neue Amazon-Kreditkarte: Keine Grund­gebühr, aber viel weniger Rabatt­punkte](https://www.test.de/Neue-Amazon-Kreditkarte-Keine-Grundgebuehr-aber-viel-weniger-Rabattpunkte-6145135-0/ "Neue Amazon-Kreditkarte - Keine Grundgebühr, aber viel weniger Rabattpunkte")
-* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
+* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
+* [Vakuum-Set im Test: Viel Luft nach oben](https://www.test.de/Airtender-im-Test-6177777-0/ "Vakuum-Set im Test - Viel Luft nach oben")
+* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
 * [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
-* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
-* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
-* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt")
-* [Neue Amazon-Kreditkarte: Keine Grund­gebühr, aber viel weniger Rabatt­punkte](https://www.test.de/Neue-Amazon-Kreditkarte-Keine-Grundgebuehr-aber-viel-weniger-Rabattpunkte-6145135-0/ "Neue Amazon-Kreditkarte - Keine Grundgebühr, aber viel weniger Rabattpunkte")
-* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
+* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
+* [Vakuum-Set im Test: Viel Luft nach oben](https://www.test.de/Airtender-im-Test-6177777-0/ "Vakuum-Set im Test - Viel Luft nach oben")
+* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
 * [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
-* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
-* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
-* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt")
-* [Neue Amazon-Kreditkarte: Keine Grund­gebühr, aber viel weniger Rabatt­punkte](https://www.test.de/Neue-Amazon-Kreditkarte-Keine-Grundgebuehr-aber-viel-weniger-Rabattpunkte-6145135-0/ "Neue Amazon-Kreditkarte - Keine Grundgebühr, aber viel weniger Rabattpunkte")
-* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
+* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Gold als Depotbei­mischung: Mehr Stabilität, aber auch weniger Rendite](https://www.test.de/Gold-als-Depotbeimischung-Mehr-Stabilitaet-aber-auch-weniger-Rendite-6159011-0/ "Gold als Depotbeimischung - Mehr Stabilität, aber auch weniger Rendite")
+* [Vakuum-Set im Test: Viel Luft nach oben](https://www.test.de/Airtender-im-Test-6177777-0/ "Vakuum-Set im Test - Viel Luft nach oben")
+* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
 * [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
-* [Fake-E-Mails: Betrüger geben sich als Finanz­aufsicht aus](https://www.test.de/Fake-E-Mails-Betrueger-geben-sich-als-Finanzaufsicht-aus-6168134-0/ "Fake-E-Mails - Betrüger geben sich als Finanzaufsicht aus")
-* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
-* [Kohlen­dioxid-Kosten­aufteilungs­gesetz: Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt](https://www.test.de/kohlendioxidkostenaufteilungsgesetz-6006338-0/ "Kohlendioxid-Kostenaufteilungsgesetz - Wie sich die CO2-Abgabe auf Mieter und Vermieter verteilt")
-* [Neue Amazon-Kreditkarte: Keine Grund­gebühr, aber viel weniger Rabatt­punkte](https://www.test.de/Neue-Amazon-Kreditkarte-Keine-Grundgebuehr-aber-viel-weniger-Rabattpunkte-6145135-0/ "Neue Amazon-Kreditkarte - Keine Grundgebühr, aber viel weniger Rabattpunkte")
-* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Hundesnacks im Test: Hunde hassen diesen Test](https://www.test.de/Hundesnacks-im-Test-6152236-0/ "Hundesnacks im Test - Hunde hassen diesen Test")
+* [Über­wachung im Internet: So werden Sie getrackt – 10 Techniken jenseits von Cookies](https://www.test.de/Tracking-So-werden-Sie-getrackt-10-Techniken-jenseits-von-Cookies-5965179-0/ "Überwachung im Internet - So werden Sie getrackt – 10 Techniken jenseits von Cookies")
 
 Stiftung Warentest
 
