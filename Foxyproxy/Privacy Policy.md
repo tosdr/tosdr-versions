@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I was happy with the service. It's just that I don't need it for the moment. If and when I need it again I would be happy to resubscribe.
+Just finished my first month of FoxyProxy, and I am happy to renew for 3 months on recurring payments - the service works GREAT. it is so easy and I don't have to have some other application running changing all my other internet apps. I've just moved to the US from the UK, and I am still able to function on some sites as though I were still in the UK, which makes my life a LOT easier. Thanks for a great products.
 
-Tom Morton
+Stephen Daniels
