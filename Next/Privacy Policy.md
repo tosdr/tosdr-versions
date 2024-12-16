@@ -1,6 +1,6 @@
 6.0.12
 
-1734338899320
+1734360465176
 
                                    
 
@@ -12,7 +12,7 @@ en
 
 4.0.1
 
-1734338004121
+1734360958362
 
      Next Cookies & Privacy Policy | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1734338723824
+1734360858057
 
 You need to enable JavaScript to run this app.
 
@@ -51,7 +51,6 @@ Search product or brand
 [Checkout](https://www.next.co.uk/secure/checkout/transfer/checkoutcta)
 
 * [christmas](https://www.next.co.uk/christmas "CHRISTMAS")
-* [for you](https://www.next.co.uk/# "For You")
 * [women](https://www.next.co.uk/women "WOMEN")
 * [men](https://www.next.co.uk/men "MEN")
 * [boys](https://www.next.co.uk/boys "BOYS")
@@ -496,7 +495,7 @@ You need to enable JavaScript to run this app.
 
 4.0.1
 
-1734337974211
+1734360679979
 
 ##### Our Social Networks
 
