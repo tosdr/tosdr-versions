@@ -1,4 +1,4 @@
-            [Skip to content](#MainContent)
+                           [Skip to content](#MainContent)
 
 [](https://www.perfectsleepchair.com/products/journey-gift-card)
 
@@ -15,9 +15,7 @@ Sales
 
 [888-404-1724](tel:888-404-1724)
 
-M-F 9am - 7pm EST
-
-Sat 10am - 6pm EST
+M-F 9am - 8pm EST
 
 Service
 
@@ -46,9 +44,7 @@ Sales
 
 [888-404-1724](tel:888-404-1724)
 
-M-F 9am - 7pm EST
-
-Sat 10am - 6pm EST
+M-F 9am - 8pm EST
 
 Service
 
@@ -579,8 +575,7 @@ Reviews LoadedReviews Added
 
 **Sales:**  
 [888-404-1724](tel:8884041724)  
-M-F 9am - 7pm EST  
-Sat 10am - 6pm EST  
+M-F 9am - 8pm EST  
   
 **Customer Service:**  
 [800-958-8324](tel:8009588324)  
