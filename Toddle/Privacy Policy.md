@@ -93,7 +93,7 @@ Privacy Policy | Toddle
         ![](https://www.toddleapp.com/wp-content/uploads/2024/09/Group-27574.webp)
         
 * [Why Toddle](https://www.toddleapp.com/why-toddle/)
-* [Learn](https://learn.toddleapp.com/)
+* [Learn](https://www.toddleapp.com/learn/)
 * [Pricing](https://www.toddleapp.com/pricing/)
 * [AI Tutors New!](https://www.toddleapp.com/ai-tutors/)
 
@@ -193,7 +193,7 @@ Privacy Policy | Toddle
         ![](https://www.toddleapp.com/wp-content/uploads/2024/09/Group-27574.webp)
         
 * [Why Toddle](https://www.toddleapp.com/why-toddle/)
-* [Learn](https://learn.toddleapp.com/)
+* [Learn](https://www.toddleapp.com/learn/)
 * [Pricing](https://www.toddleapp.com/pricing/)
 * [AI Tutors New!](https://www.toddleapp.com/ai-tutors/)
 
@@ -696,7 +696,7 @@ Book time with us. We would love to learn more about your school’s needs and d
 * [Toddle Demo Day – Edition 1](https://www.toddleapp.com/events/demo-day-jan2024/)
 * [Toddle Demo Day – Edition 2](https://www.toddleapp.com/events/demo-day-may2024/)
 * [TIES 2024](https://www.toddleapp.com/events/ties/)
-* [ChatGPT Crash Course for Educators (Part 1)](https://learn.toddleapp.com/talk-post/chatgpt-crash-course-for-educators/)
+* [ChatGPT Crash Course for Educators (Part 1)](https://www.toddleapp.com/learn/talk-post/chatgpt-crash-course-for-educators/)
 * [Leading with AI](https://www.toddleapp.com/events/leading-with-ai/)
 
   
@@ -704,10 +704,10 @@ Book time with us. We would love to learn more about your school’s needs and d
 ### Resources
 
 * [School Leaders Project](https://slp.toddleapp.com/)
-* [School’s vision for AI](https://learn.toddleapp.com/blog-post/future-of-ai-in-education/)
-* [99 thinking tools for every inquiry classroom](https://learn.toddleapp.com/resource-post/thinking-tools-for-every-inquiry-math-ela-science-and-more/)
-* [Mastering GPT for lesson planning](https://learn.toddleapp.com/blog-post/mastering-chatgpt-lesson-planning/)
-* [Building rubrics for authentic assessments](https://learn.toddleapp.com/resource-post/building-rubrics-for-efficient-and-authentic-assessment/)
+* [School’s vision for AI](https://www.toddleapp.com/learn/blog-post/future-of-ai-in-education/)
+* [99 thinking tools for every inquiry classroom](https://www.toddleapp.com/learn/resource-post/thinking-tools-for-every-inquiry-math-ela-science-and-more/)
+* [Mastering GPT for lesson planning](https://www.toddleapp.com/learn/blog-post/mastering-chatgpt-lesson-planning/)
+* [Building rubrics for authentic assessments](https://www.toddleapp.com/learn/resource-post/building-rubrics-for-efficient-and-authentic-assessment/)
 
 ### Connect with us
 
