@@ -152,13 +152,13 @@ Free standard shipping on any $35 purchase
         * [Makeup Guides](https://www.ulta.com/discover/makeup)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/featured/wk46_makeup_overlay_nyxprofessionalmakeup_new)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/buttermelt-glaze-skin-tint-spf-30-pimprod2049129?sku=2634231)
         
         NYX Professional Makeup
         
         New! Buttermelt Glaze
         
-        [Shop now](https://www.ulta.com/featured/wk46_makeup_overlay_nyxprofessionalmakeup_new)
+        [Shop now](https://www.ulta.com/p/buttermelt-glaze-skin-tint-spf-30-pimprod2049129?sku=2634231)
         
     * Skin Care
         
@@ -1043,7 +1043,7 @@ Free standard shipping on any $35 purchase
             
         * [### Makeup Obsession](https://www.ulta.com/discover/makeup/best-lip-products-guide)
             
-        * [### Skinfatuation](https://www.ulta.com/discover/skin/best-face-serums)
+        * [### Skinfatuation](https://www.ulta.com/discover/skin/best-face-moisturizers)
             
         * [### Fragrance Finder](https://www.ulta.com/discover/fragrance-finder)
             
