@@ -3,7 +3,7 @@
 * [Go to search](#search-autocomplete)
 * [Go to footer](#enw-site-footer)
 
- English [English](https://www.euronews.com/) [Français](https://fr.euronews.com/) [Deutsch](https://de.euronews.com/) [Italiano](https://it.euronews.com/) [Español](https://es.euronews.com/) [Português](https://pt.euronews.com/) [Pусский](https://ru.euronews.com/) [Türkçe](https://tr.euronews.com/) [Ελληνικά](https://gr.euronews.com/) [Magyar](https://hu.euronews.com/) [فارسی](https://parsi.euronews.com/) [العربية](https://arabic.euronews.com/) [Shqip](https://www.euronews.al/) [Română](https://www.euronews.ro/) [ქართული](https://euronewsgeorgia.com/) [български](https://euronewsbulgaria.com/) [Srpski](https://www.euronews.rs/)
+ English [English](https://www.euronews.com/) [Français](https://fr.euronews.com/) [Deutsch](https://de.euronews.com/) [Italiano](https://it.euronews.com/) [Español](https://es.euronews.com/) [Português](https://pt.euronews.com/) [Polski](https://pl.euronews.com/) [Pусский](https://ru.euronews.com/) [Türkçe](https://tr.euronews.com/) [Ελληνικά](https://gr.euronews.com/) [Magyar](https://hu.euronews.com/) [فارسی](https://parsi.euronews.com/) [العربية](https://arabic.euronews.com/) [Shqip](https://www.euronews.al/) [Română](https://www.euronews.ro/) [ქართული](https://euronewsgeorgia.com/) [български](https://euronewsbulgaria.com/) [Srpski](https://www.euronews.rs/) [BHS](https://www.euronews.ba/)
 
 [Newsletter Newsletters](https://www.euronews.com/newsletters) [Events Events](https://events.euronews.com/events) [Podcasts](https://podcasts.euronews.com/)
 
@@ -17,54 +17,54 @@
     
     * [Syria](https://www.euronews.com/tag/syria)
     * [Israel](https://www.euronews.com/tag/israel)
-    * [israel defense forces IDF](https://www.euronews.com/tag/israel-defense-forces-idf)
-    * [Gender equality](https://www.euronews.com/tag/gender-equality)
-    * [Germany](https://www.euronews.com/tag/germany)
-    * [Olaf Scholz](https://www.euronews.com/tag/olaf-scholz)
+    * [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
+    * [Music](https://www.euronews.com/tag/music)
+    * [Cinema](https://www.euronews.com/tag/cinema)
+    * [Keir Starmer](https://www.euronews.com/tag/keir-starmer)
     
     * * *
     
     Latest stories
     
-    [![Tintin, Popeye and the Roaring Twenties: What’s entering the public domain in 2025?  ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Tintin, Popeye and the Roaring Twenties: What’s entering the public domain in 2025?  ")
+    [![https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court")
     
-    ![Tintin, Popeye and the Roaring Twenties: What’s entering the public domain in 2025?  ](https://static.euronews.com/articles/stories/08/91/35/20/368x207_cmsv2_0b2e96bb-85f9-520b-b9d4-1db483b4ee5f-8913520.jpg "Tintin, Popeye and the Roaring Twenties: What’s entering the public domain in 2025?  ")](https://www.euronews.com/culture/2024/12/16/tintin-popeye-and-the-roaring-twenties-whats-entering-the-public-domain-in-2025)
+    ![https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court](https://static.euronews.com/articles/stories/08/87/61/34/368x207_cmsv2_0c366287-45a6-5780-9cd5-aa24d0c3c358-8876134.jpg "https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court")](https://www.euronews.com/culture/2024/12/16/grammy-nominated-rapper-slowthai-found-not-guilty-of-raping-two-women-during-house-party)
     
     Now playing Next
     
     [Culture news](https://www.euronews.com/culture/culture-news)
     
-    ### [Tintin & Popeye: What else is entering the public domain in 2025?](https://www.euronews.com/culture/2024/12/16/tintin-popeye-and-the-roaring-twenties-whats-entering-the-public-domain-in-2025)
+    ### [Grammy-nominated rapper Slowthai cleared of raping two women](https://www.euronews.com/culture/2024/12/16/grammy-nominated-rapper-slowthai-found-not-guilty-of-raping-two-women-during-house-party)
     
-    [![Carlien Scheele, EIGE director.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Carlien Scheele, EIGE director.")
+    [![German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ")
     
-    ![Carlien Scheele, EIGE director.](https://static.euronews.com/articles/stories/08/91/29/80/368x207_cmsv2_d7ca0394-5129-587a-8d32-07ef76843a81-8912980.jpg "Carlien Scheele, EIGE director.")](https://www.euronews.com/my-europe/2024/12/16/womens-parity-vital-to-eu-competitiveness-drive-says-agency-director)
-    
-    Now playing Next
-    
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-    
-    ### [Women's parity vital to EU competitiveness drive, says agency director](https://www.euronews.com/my-europe/2024/12/16/womens-parity-vital-to-eu-competitiveness-drive-says-agency-director)
-    
-    [![In this photo released by South Korean President Office via Yonhap, South Korean President Yoon Suk Yeol speaks at the presidential residence in Seoul, South Korea, December. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this photo released by South Korean President Office via Yonhap, South Korean President Yoon Suk Yeol speaks at the presidential residence in Seoul, South Korea, December. ")
-    
-    ![In this photo released by South Korean President Office via Yonhap, South Korean President Yoon Suk Yeol speaks at the presidential residence in Seoul, South Korea, December. ](https://static.euronews.com/articles/stories/08/91/33/68/368x207_cmsv2_a46b7b5e-81c4-5c99-b0da-166701cb5be1-8913368.jpg "In this photo released by South Korean President Office via Yonhap, South Korean President Yoon Suk Yeol speaks at the presidential residence in Seoul, South Korea, December. ")](https://www.euronews.com/2024/12/16/south-korean-court-begins-president-yoons-impeachment-process)
+    ![German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ](https://static.euronews.com/articles/stories/08/91/39/32/368x207_cmsv2_eea2fdd9-dae6-5b2e-8423-985759dd056b-8913932.jpg "German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ")](https://www.euronews.com/2024/12/16/scholz-loses-no-confidence-vote-against-him-triggering-early-elections)
     
     Now playing Next
     
-    [South Korea](https://www.euronews.com/news/asia/south-korea)
+    [World News](https://www.euronews.com/programs/world)
     
-    ### [South Korea court begins President Yoon's impeachment trial](https://www.euronews.com/2024/12/16/south-korean-court-begins-president-yoons-impeachment-process)
+    ### [Breaking news. Germany's Scholz loses no-confidence vote, triggering early election](https://www.euronews.com/2024/12/16/scholz-loses-no-confidence-vote-against-him-triggering-early-elections)
     
-    [![Euronews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronews")
+    [![People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ")
     
-    ![Euronews](https://static.euronews.com/articles/stories/08/91/00/10/368x207_cmsv2_e76670b5-6e3b-5073-b5f6-93648ee7cb85-8910010.jpg "Euronews")](https://www.euronews.com/my-europe/2024/12/16/are-conservatives-set-to-take-back-power-in-germany-radio-schuman)
+    ![People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ](https://static.euronews.com/articles/stories/08/91/40/86/368x207_cmsv2_27a7c4d5-bd22-5072-9cce-166888f5504a-8914086.jpg "People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ")](https://www.euronews.com/2024/12/16/european-central-bank-warns-of-how-a-shift-in-us-trade-policies-could-affect-the-eu)
     
     Now playing Next
     
-    [Radio Schuman](https://www.euronews.com/my-europe/europe-news/radio-schuman)
+    [World News](https://www.euronews.com/programs/world)
     
-    ### [Are conservatives set to take back power in Germany?](https://www.euronews.com/my-europe/2024/12/16/are-conservatives-set-to-take-back-power-in-germany-radio-schuman)
+    ### [European Central Bank warns of effects of shift in US trade policies](https://www.euronews.com/2024/12/16/european-central-bank-warns-of-how-a-shift-in-us-trade-policies-could-affect-the-eu)
+    
+    [![Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.")
+    
+    ![Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.](https://static.euronews.com/articles/stories/08/91/46/34/368x207_cmsv2_3e610f7b-5881-5c53-bd40-6e3b19c0928a-8914634.jpg "Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.")](https://www.euronews.com/business/2024/12/16/canal-shares-see-drop-on-london-trading-debut-after-split-from-vivendi)
+    
+    Now playing Next
+    
+    [Business](https://www.euronews.com/business/business)
+    
+    ### [Canal+ shares drop on London trading debut after split from Vivendi](https://www.euronews.com/business/2024/12/16/canal-shares-see-drop-on-london-trading-debut-after-split-from-vivendi)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -316,8 +316,6 @@ More
 
 Special coverage
 
-* [Climate](https://www.euronews.com/special/climate)
-* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -357,7 +355,7 @@ Services
 
 Close menu sidebar
 
- English [English](https://www.euronews.com/) [Français](https://fr.euronews.com/) [Deutsch](https://de.euronews.com/) [Italiano](https://it.euronews.com/) [Español](https://es.euronews.com/) [Português](https://pt.euronews.com/) [Pусский](https://ru.euronews.com/) [Türkçe](https://tr.euronews.com/) [Ελληνικά](https://gr.euronews.com/) [Magyar](https://hu.euronews.com/) [فارسی](https://parsi.euronews.com/) [العربية](https://arabic.euronews.com/) [Shqip](https://www.euronews.al/) [Română](https://www.euronews.ro/) [ქართული](https://euronewsgeorgia.com/) [български](https://euronewsbulgaria.com/) [Srpski](https://www.euronews.rs/)
+ English [English](https://www.euronews.com/) [Français](https://fr.euronews.com/) [Deutsch](https://de.euronews.com/) [Italiano](https://it.euronews.com/) [Español](https://es.euronews.com/) [Português](https://pt.euronews.com/) [Polski](https://pl.euronews.com/) [Pусский](https://ru.euronews.com/) [Türkçe](https://tr.euronews.com/) [Ελληνικά](https://gr.euronews.com/) [Magyar](https://hu.euronews.com/) [فارسی](https://parsi.euronews.com/) [العربية](https://arabic.euronews.com/) [Shqip](https://www.euronews.al/) [Română](https://www.euronews.ro/) [ქართული](https://euronewsgeorgia.com/) [български](https://euronewsbulgaria.com/) [Srpski](https://www.euronews.rs/) [BHS](https://www.euronews.ba/)
 
 [Latest](https://www.euronews.com/just-in)
 
@@ -365,60 +363,60 @@ Trending
 
 * [Syria](https://www.euronews.com/tag/syria)
 * [Israel](https://www.euronews.com/tag/israel)
-* [israel defense forces IDF](https://www.euronews.com/tag/israel-defense-forces-idf)
-* [Gender equality](https://www.euronews.com/tag/gender-equality)
-* [Germany](https://www.euronews.com/tag/germany)
-* [Olaf Scholz](https://www.euronews.com/tag/olaf-scholz)
+* [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
+* [Music](https://www.euronews.com/tag/music)
+* [Cinema](https://www.euronews.com/tag/cinema)
+* [Keir Starmer](https://www.euronews.com/tag/keir-starmer)
 
 * * *
 
 Latest stories
 
-[![Tintin, Popeye and the Roaring Twenties: What’s entering the public domain in 2025?  ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Tintin, Popeye and the Roaring Twenties: What’s entering the public domain in 2025?  ")
+[![https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court")
 
-![Tintin, Popeye and the Roaring Twenties: What’s entering the public domain in 2025?  ](https://static.euronews.com/articles/stories/08/91/35/20/368x207_cmsv2_0b2e96bb-85f9-520b-b9d4-1db483b4ee5f-8913520.jpg "Tintin, Popeye and the Roaring Twenties: What’s entering the public domain in 2025?  ")](https://www.euronews.com/culture/2024/12/16/tintin-popeye-and-the-roaring-twenties-whats-entering-the-public-domain-in-2025)
+![https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court](https://static.euronews.com/articles/stories/08/87/61/34/368x207_cmsv2_0c366287-45a6-5780-9cd5-aa24d0c3c358-8876134.jpg "https://www.theguardian.com/music/2024/dec/16/slowthai-cleared-oxford-crown-court")](https://www.euronews.com/culture/2024/12/16/grammy-nominated-rapper-slowthai-found-not-guilty-of-raping-two-women-during-house-party)
 
 Now playing Next
 
 [Culture news](https://www.euronews.com/culture/culture-news)
 
-### [Tintin & Popeye: What else is entering the public domain in 2025?](https://www.euronews.com/culture/2024/12/16/tintin-popeye-and-the-roaring-twenties-whats-entering-the-public-domain-in-2025)
+### [Grammy-nominated rapper Slowthai cleared of raping two women](https://www.euronews.com/culture/2024/12/16/grammy-nominated-rapper-slowthai-found-not-guilty-of-raping-two-women-during-house-party)
 
 * * *
 
-[![Carlien Scheele, EIGE director.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Carlien Scheele, EIGE director.")
+[![German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ")
 
-![Carlien Scheele, EIGE director.](https://static.euronews.com/articles/stories/08/91/29/80/368x207_cmsv2_d7ca0394-5129-587a-8d32-07ef76843a81-8912980.jpg "Carlien Scheele, EIGE director.")](https://www.euronews.com/my-europe/2024/12/16/womens-parity-vital-to-eu-competitiveness-drive-says-agency-director)
+![German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ](https://static.euronews.com/articles/stories/08/91/39/32/368x207_cmsv2_eea2fdd9-dae6-5b2e-8423-985759dd056b-8913932.jpg "German Chancellor Olaf Scholz attends the cabinet meeting at the chancellery in Berlin, Germany, Wednesday, Dec. 11, 2024. ")](https://www.euronews.com/2024/12/16/scholz-loses-no-confidence-vote-against-him-triggering-early-elections)
 
 Now playing Next
 
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+[World News](https://www.euronews.com/programs/world)
 
-### [Women's parity vital to EU competitiveness drive, says agency director](https://www.euronews.com/my-europe/2024/12/16/womens-parity-vital-to-eu-competitiveness-drive-says-agency-director)
+### [Breaking news. Germany's Scholz loses no-confidence vote, triggering early election](https://www.euronews.com/2024/12/16/scholz-loses-no-confidence-vote-against-him-triggering-early-elections)
 
 * * *
 
-[![In this photo released by South Korean President Office via Yonhap, South Korean President Yoon Suk Yeol speaks at the presidential residence in Seoul, South Korea, December. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "In this photo released by South Korean President Office via Yonhap, South Korean President Yoon Suk Yeol speaks at the presidential residence in Seoul, South Korea, December. ")
+[![People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ")
 
-![In this photo released by South Korean President Office via Yonhap, South Korean President Yoon Suk Yeol speaks at the presidential residence in Seoul, South Korea, December. ](https://static.euronews.com/articles/stories/08/91/33/68/368x207_cmsv2_a46b7b5e-81c4-5c99-b0da-166701cb5be1-8913368.jpg "In this photo released by South Korean President Office via Yonhap, South Korean President Yoon Suk Yeol speaks at the presidential residence in Seoul, South Korea, December. ")](https://www.euronews.com/2024/12/16/south-korean-court-begins-president-yoons-impeachment-process)
+![People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ](https://static.euronews.com/articles/stories/08/91/40/86/368x207_cmsv2_27a7c4d5-bd22-5072-9cce-166888f5504a-8914086.jpg "People buy groceries at a Walmart Superstore in Secaucus, New Jersey, July 11, 2024. ")](https://www.euronews.com/2024/12/16/european-central-bank-warns-of-how-a-shift-in-us-trade-policies-could-affect-the-eu)
 
 Now playing Next
 
-[South Korea](https://www.euronews.com/news/asia/south-korea)
+[World News](https://www.euronews.com/programs/world)
 
-### [South Korea court begins President Yoon's impeachment trial](https://www.euronews.com/2024/12/16/south-korean-court-begins-president-yoons-impeachment-process)
+### [European Central Bank warns of effects of shift in US trade policies](https://www.euronews.com/2024/12/16/european-central-bank-warns-of-how-a-shift-in-us-trade-policies-could-affect-the-eu)
 
 * * *
 
-[![Euronews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronews")
+[![Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.")
 
-![Euronews](https://static.euronews.com/articles/stories/08/91/00/10/368x207_cmsv2_e76670b5-6e3b-5073-b5f6-93648ee7cb85-8910010.jpg "Euronews")](https://www.euronews.com/my-europe/2024/12/16/are-conservatives-set-to-take-back-power-in-germany-radio-schuman)
+![Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.](https://static.euronews.com/articles/stories/08/91/46/34/368x207_cmsv2_3e610f7b-5881-5c53-bd40-6e3b19c0928a-8914634.jpg "Vivendi Chairman Vincent Bollore attends a hearing of a parliamentary inquiry commission at the National Assembly in Paris. 13 March 2024.")](https://www.euronews.com/business/2024/12/16/canal-shares-see-drop-on-london-trading-debut-after-split-from-vivendi)
 
 Now playing Next
 
-[Radio Schuman](https://www.euronews.com/my-europe/europe-news/radio-schuman)
+[Business](https://www.euronews.com/business/business)
 
-### [Are conservatives set to take back power in Germany?](https://www.euronews.com/my-europe/2024/12/16/are-conservatives-set-to-take-back-power-in-germany-radio-schuman)
+### [Canal+ shares drop on London trading debut after split from Vivendi](https://www.euronews.com/business/2024/12/16/canal-shares-see-drop-on-london-trading-debut-after-split-from-vivendi)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -672,8 +670,6 @@ More
 
 Special coverage
 
-* [Climate](https://www.euronews.com/special/climate)
-* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
