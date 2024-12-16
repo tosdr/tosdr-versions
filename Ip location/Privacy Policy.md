@@ -94,21 +94,21 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 ### IP Tools
 
-![](/assets/icons/16x16/tools.png) [Trace Email Source](https://iplocation.net/trace-email)  
-![](/assets/icons/16x16/tools.png) [Verify Email Address](https://iplocation.net/verify-email-address)  
-![](/assets/icons/16x16/tools.png) [Proxy Check](https://iplocation.net/proxy-check)  
-![](/assets/icons/16x16/tools.png) [Subnet Calculator](https://iplocation.net/subnet-calculator)  
-![](/assets/icons/16x16/tools.png) [IP-to-Integer Converter](https://iplocation.net/ip-to-integer-converter)  
+![Tools Icon](/assets/icons/16x16/tools.png) [Trace Email Source](https://iplocation.net/trace-email)  
+![Tools Icon](/assets/icons/16x16/tools.png) [Verify Email Address](https://iplocation.net/verify-email-address)  
+![Tools Icon](/assets/icons/16x16/tools.png) [Proxy Check](https://iplocation.net/proxy-check)  
+![Tools Icon](/assets/icons/16x16/tools.png) [Subnet Calculator](https://iplocation.net/subnet-calculator)  
+![Tools Icon](/assets/icons/16x16/tools.png) [IP-to-Integer Converter](https://iplocation.net/ip-to-integer-converter)  
 
 ### Domain Tools
 
-![](/assets/icons/16x16/tools.png)[Who is Hosting a Website](https://iplocation.net/who-is-hosting-website)  
-![](/assets/icons/16x16/tools.png) [Alexa Traffic Rank Checker](https://iplocation.net/alexa-traffic-rank)  
-![](/assets/icons/16x16/tools.png)[Domain Age Checker](https://iplocation.net/domain-age)  
-![](/assets/icons/16x16/tools.png)[Reverse DNS Lookup](https://iplocation.net/reverse-dns)  
-![](/assets/icons/16x16/tools.png)[HTTP Server Header Check](https://iplocation.net/http-server-header)  
-![](/assets/icons/16x16/tools.png)[Is my website down?](https://iplocation.net/is-it-down)  
-![](/assets/icons/16x16/tools.png)[What is my User Agent?](https://iplocation.net/user-agent)  
+![Tools Icon](/assets/icons/16x16/tools.png)[Who is Hosting a Website](https://iplocation.net/who-is-hosting-website)  
+![Tools Icon](/assets/icons/16x16/tools.png) [Alexa Traffic Rank Checker](https://iplocation.net/alexa-traffic-rank)  
+![Tools Icon](/assets/icons/16x16/tools.png)[Domain Age Checker](https://iplocation.net/domain-age)  
+![Tools Icon](/assets/icons/16x16/tools.png)[Reverse DNS Lookup](https://iplocation.net/reverse-dns)  
+![Tools Icon](/assets/icons/16x16/tools.png)[HTTP Server Header Check](https://iplocation.net/http-server-header)  
+![Tools Icon](/assets/icons/16x16/tools.png)[Is my website down?](https://iplocation.net/is-it-down)  
+![Tools Icon](/assets/icons/16x16/tools.png)[What is my User Agent?](https://iplocation.net/user-agent)  
 
 ### Blog Categories
 
@@ -120,8 +120,8 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 * [Productivity (21)](https://www.iplocation.net/blog/category/productivity)
 * [Cloud Services (85)](https://www.iplocation.net/blog/category/cloud-services)
 * [Computing (58)](https://www.iplocation.net/blog/category/computing)
-* [Crypto & Blockchain (37)](https://www.iplocation.net/blog/category/blockchain)
-* [Cybersecurity (273)](https://www.iplocation.net/blog/category/cybersecurity)
+* [Crypto & Blockchain (38)](https://www.iplocation.net/blog/category/blockchain)
+* [Cybersecurity (274)](https://www.iplocation.net/blog/category/cybersecurity)
 * [Distributed Denial of Service (10)](https://www.iplocation.net/blog/category/ddos)
 * [Password (21)](https://www.iplocation.net/blog/category/password)
 * [Safety (27)](https://www.iplocation.net/blog/category/safety)
@@ -142,7 +142,7 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 * [Parenting (2)](https://www.iplocation.net/blog/category/parenting)
 * [Network (94)](https://www.iplocation.net/blog/category/network)
 * [Online Resources (13)](https://www.iplocation.net/blog/category/online-resources)
-* [Online Tools (79)](https://www.iplocation.net/blog/category/online-tools)
+* [Online Tools (80)](https://www.iplocation.net/blog/category/online-tools)
 * [Privacy (137)](https://www.iplocation.net/blog/category/privacy)
 * [Virtual Private Network (91)](https://www.iplocation.net/blog/category/vpn)
 * [Proxy (55)](https://www.iplocation.net/blog/category/proxy)
@@ -152,19 +152,19 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 * [Smartphone (50)](https://www.iplocation.net/blog/category/smartphone)
 * [Social Media (77)](https://www.iplocation.net/blog/category/social-media)
 * [Social Media Marketing (40)](https://www.iplocation.net/blog/category/social-media-marketing)
-* [Software (187)](https://www.iplocation.net/blog/category/software)
+* [Software (188)](https://www.iplocation.net/blog/category/software)
 * [Software Development (141)](https://www.iplocation.net/blog/category/software-development)
 * [Software Testing (16)](https://www.iplocation.net/blog/category/software-testing)
 * [Mobile App Development (13)](https://www.iplocation.net/blog/category/mobile-app-development)
-* [Web Development (7)](https://www.iplocation.net/blog/category/web-development)
-* [Technology (58)](https://www.iplocation.net/blog/category/technology)
+* [Web Development (8)](https://www.iplocation.net/blog/category/web-development)
+* [Technology (60)](https://www.iplocation.net/blog/category/technology)
 * [Information Technology (9)](https://www.iplocation.net/blog/category/information-technology)
 * [Electronics (1)](https://www.iplocation.net/blog/category/electronics)
 * [Travel (19)](https://www.iplocation.net/blog/category/travel)
-* [World Wide Web (165)](https://www.iplocation.net/blog/category/web)
+* [World Wide Web (166)](https://www.iplocation.net/blog/category/web)
 * [Search Engine Optimization (65)](https://www.iplocation.net/blog/category/seo)
 * [Web Hosting (28)](https://www.iplocation.net/blog/category/web-hosting)
-* [Web Design (15)](https://www.iplocation.net/blog/category/web-design)
+* [Web Design (16)](https://www.iplocation.net/blog/category/web-design)
 
 ### About Us
 
