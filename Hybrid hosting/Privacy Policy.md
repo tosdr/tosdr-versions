@@ -1,6 +1,8 @@
+**50% off All Services until Dec 31, 11:59PM, First Month Free Colocation if ordered before Dec 28th. (Use code "EoY24")** Learn More
+
 [![Hybrid Hosting Logo](/vendor/logo-side.svg)](https://hybridhosting.co/)
 
-[Minecraft Servers](https://hybridhosting.co/minecraft)[Colocation](https://hybridhosting.co/colocation)[Dedicated](#)[About us](#)
+[Minecraft Servers](https://hybridhosting.co/minecraft)[Colocation](https://hybridhosting.co/colocation)[Dedicated](https://hybridhosting.co/dedicated)[About us](https://hybridhosting.co/about)
 
 Log in
 
