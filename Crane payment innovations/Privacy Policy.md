@@ -959,9 +959,9 @@ Quick Links
 
 Also of Interest
 
-* [Reimagine Vending](https://www.cranepi.com/en/reimagine/custom-experience)
+* [Casino Cashless Payments](https://www.cranepi.com/en/casino-cashless-payments)
 * [Depot Repair Centers](https://service.cranepi.com/our-solutions/depot-repair-centers)
-* [Simplifi](https://www.cranepi.com/en/simplifi)
+* [Self-Checkout Solutions](https://www.cranepi.com/en/markets/self-checkout-solutions)
 
 [](https://www.linkedin.com/company/crane-payment-innovations)[](https://twitter.com/CPI_Official)[](http://www.youtube.com/cranepayments)
 
