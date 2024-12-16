@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr money hard money in the voluntaryist tradition](/freeblr/money/hard-money-in-the-voluntaryist-tradition/card.svg)](https://jarick.works/freeblr/money/hard-money-in-the-voluntaryist-tradition)[![freeblr money the power in money](/freeblr/money/the-power-in-money/card.svg)](https://jarick.works/freeblr/money/the-power-in-money)[![freeblr human nature rights](/freeblr/human-nature/rights/card.svg)](https://jarick.works/freeblr/human-nature/rights)[![freeblr limited government how the state thrives how the state fails](/freeblr/limited-government/how-the-state-thrives-how-the-state-fails/card.svg)](https://jarick.works/freeblr/limited-government/how-the-state-thrives-how-the-state-fails)
+[![hire](/hire/card.svg)](https://jarick.works/hire)[![freeblr taxation the hidden cost of taxation](/freeblr/taxation/the-hidden-cost-of-taxation/card.svg)](https://jarick.works/freeblr/taxation/the-hidden-cost-of-taxation)[![freeblr justice the nature of law](/freeblr/justice/the-nature-of-law/card.svg)](https://jarick.works/freeblr/justice/the-nature-of-law)[![freeblr justice on the need for a final arbiter](/freeblr/justice/on-the-need-for-a-final-arbiter/card.svg)](https://jarick.works/freeblr/justice/on-the-need-for-a-final-arbiter)
 
 [Follow](#follow)
 
