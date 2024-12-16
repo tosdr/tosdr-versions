@@ -540,59 +540,51 @@ Copyright © Weights & Biases. All rights reserved.
     
     ##### Use cases
     
-    * [Blog & Tutorials](https://wandb.ai/fully-connected)
-    * [Events](https://wandb.ai/site/resources/events/)
-    * [AI Courses](https://www.wandb.courses/)
-    * [Gradient Dissent Podcast](https://wandb.ai/site/resources/podcast)
-    * [Our Community](https://wandb.ai/site/community/)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
-    * [Blog & Tutorials](https://wandb.ai/fully-connected)
-    * [Events](https://wandb.ai/site/resources/events/)
-    * [AI Courses](https://www.wandb.courses/)
-    * [Gradient Dissent Podcast](https://wandb.ai/site/resources/podcast)
-    * [Our Community](https://wandb.ai/site/community/)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
     ##### Industries
     
-    * [Blog & Tutorials](https://wandb.ai/fully-connected)
-    * [Events](https://wandb.ai/site/resources/events/)
-    * [AI Courses](https://www.wandb.courses/)
-    * [Gradient Dissent Podcast](https://wandb.ai/site/resources/podcast)
-    * [Our Community](https://wandb.ai/site/community/)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
-    * [Blog & Tutorials](https://wandb.ai/fully-connected)
-    * [Events](https://wandb.ai/site/resources/events/)
-    * [AI Courses](https://www.wandb.courses/)
-    * [Gradient Dissent Podcast](https://wandb.ai/site/resources/podcast)
-    * [Our Community](https://wandb.ai/site/community/)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
 * Ecosystem
     
     Close Ecosystem Open Ecosystem
     
-    * [Blog & Tutorials](https://wandb.ai/fully-connected)
-    * [Events](https://wandb.ai/site/resources/events/)
-    * [AI Courses](https://www.wandb.courses/)
-    * [Gradient Dissent Podcast](https://wandb.ai/site/resources/podcast)
-    * [Our Community](https://wandb.ai/site/community/)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
-    * [Blog & Tutorials](https://wandb.ai/fully-connected)
-    * [Events](https://wandb.ai/site/resources/events/)
-    * [AI Courses](https://www.wandb.courses/)
-    * [Gradient Dissent Podcast](https://wandb.ai/site/resources/podcast)
-    * [Our Community](https://wandb.ai/site/community/)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
-    * [Blog & Tutorials](https://wandb.ai/fully-connected)
-    * [Events](https://wandb.ai/site/resources/events/)
-    * [AI Courses](https://www.wandb.courses/)
-    * [Gradient Dissent Podcast](https://wandb.ai/site/resources/podcast)
-    * [Our Community](https://wandb.ai/site/community/)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
-    * [Blog & Tutorials](https://wandb.ai/fully-connected)
-    * [Events](https://wandb.ai/site/resources/events/)
-    * [AI Courses](https://www.wandb.courses/)
-    * [Gradient Dissent Podcast](https://wandb.ai/site/resources/podcast)
-    * [Our Community](https://wandb.ai/site/community/)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
 * [Docs](https://docs.wandb.ai/?_gl=1*5c2zod*_ga*MTkyNzM3MzY2Mi4xNjg2NzM3MzM0*_ga_JH1SJHJQXJ*MTY4Njg5NDA3MC4xNS4xLjE2ODY4OTcyMTIuNjAuMC4w)
     
@@ -602,30 +594,26 @@ Copyright © Weights & Biases. All rights reserved.
     
     Close Enterprise Open Enterprise
     
-    * [Blog & Tutorials](https://wandb.ai/fully-connected)
-    * [Events](https://wandb.ai/site/resources/events/)
-    * [AI Courses](https://www.wandb.courses/)
-    * [Gradient Dissent Podcast](https://wandb.ai/site/resources/podcast)
-    * [Our Community](https://wandb.ai/site/community/)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
-    * [Blog & Tutorials](https://wandb.ai/fully-connected)
-    * [Events](https://wandb.ai/site/resources/events/)
-    * [AI Courses](https://www.wandb.courses/)
-    * [Gradient Dissent Podcast](https://wandb.ai/site/resources/podcast)
-    * [Our Community](https://wandb.ai/site/community/)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
 * Company
     
     Close Company Open Company
     
-    * [Blog & Tutorials](https://wandb.ai/fully-connected)
-    * [Events](https://wandb.ai/site/resources/events/)
-    * [AI Courses](https://www.wandb.courses/)
-    * [Gradient Dissent Podcast](https://wandb.ai/site/resources/podcast)
-    * [Our Community](https://wandb.ai/site/community/)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
-    * [Blog & Tutorials](https://wandb.ai/fully-connected)
-    * [Events](https://wandb.ai/site/resources/events/)
-    * [AI Courses](https://www.wandb.courses/)
-    * [Gradient Dissent Podcast](https://wandb.ai/site/resources/podcast)
-    * [Our Community](https://wandb.ai/site/community/)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
