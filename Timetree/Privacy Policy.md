@@ -138,6 +138,7 @@ Altered on August 9th, 2023
     * [Premium Acceptable Use Policy](https://timetreeapp.com/intl/en/terms/premium-service)
     * [Calendar Chat User Agreement](https://timetreeapp.com/intl/en/terms/chat)
     * [Public Calendar Acceptable Use Policy](https://timetreeapp.com/intl/en/terms/public-calendar)
+    * [Public Calendar Store Acceptable Use Policy](https://timetreeapp.com/intl/en/terms/pubcal-store-service)
     * [Privacy Policy](https://timetreeapp.com/intl/en/terms/privacy)
 * TimeTree, Inc.
     * [Corporate](https://timetreeapp.com/intl/en/corporate)
