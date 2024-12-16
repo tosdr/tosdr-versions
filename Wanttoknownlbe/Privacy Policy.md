@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/mh17-als-ik-premier-was/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/hoe-cia-en-mossad-isis-in-het-leven-riepen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -197,6 +197,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
+
+##### **ikzie** reacts on:
+
+##### Het gouden Trump-tijdperk begint NU!
+
+[Hoi arnold2, zo denk ik er ook over, Trump de grote verlosse…](https://www.wanttoknow.nl/politiek/het-gouden-trump-tijdperk-begint-nu/comment-page-1/#comment-626383)
 
 ![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
 
@@ -445,14 +453,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Fleur Agema moet/wil KLEUR BEKENNEN…!!
 
 [In de oppositie was Agema nogal eens stevig te horen........…](https://www.wanttoknow.nl/overige/fleur-agema-moet-wil-kleur-bekennen/comment-page-1/#comment-626350)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### Jankende NOS-journalisten, ga in de spiegel kijken…!!
-
-[Ouderwets en niet meer van deze tijd is een uiting welke vol…](https://www.wanttoknow.nl/overige/jankende-nos-journalisten-ga-in-de-spiegel-kijken/comment-page-1/#comment-626349)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
