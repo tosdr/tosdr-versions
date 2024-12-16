@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![leg incumbents](/assets/logos/LegIncumbentSuccess2012.png)](http://www.followthemoney.org/assets/ANNUAL-REPORTS/NIMSP-Annual-Report-2013.pdf)
-
-In 2012, most legislative incumbents won.
+[![Hassan Banks on Little](/assets/Images/teasers/full/NH-Banking-2014.png)](http://www.followthemoney.org/research/blog/maggie-hassan-banks-on-jerry-little/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
