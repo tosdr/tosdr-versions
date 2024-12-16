@@ -10,7 +10,7 @@
 
 [![University of the People Logo](https://www.uopeople.edu/wp-content/uploads/2022/05/logo-uop.webp "logo-uop")](https://www.uopeople.edu/)
 
-* [Apply Now](https://go.uopeople.edu/admission-application.html)
+* [Apply Now](https://apply.uopeople.edu/)
 
 * [Academic Programs](https://www.uopeople.edu/programs/)
     
@@ -108,8 +108,8 @@
     * [Why UoPeople](https://www.uopeople.edu/give/why-uopeople/)
     * [More Ways to Give](https://www.uopeople.edu/give/other-ways-to-give/)
     * [Pay It Forward](https://www.uopeople.edu/give/pay-it-forward/)
-* [Apply Now](https://go.uopeople.edu/admission-application.html)
-* [APPLY NOW](https://go.uopeople.edu/admission-application.html)
+* [Apply Now](https://apply.uopeople.edu/)
+* [APPLY NOW](https://apply.uopeople.edu/)
 * [Request Info](https://go.uopeople.edu/request_info.html)
 * [Login](#)
     
