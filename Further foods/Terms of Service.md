@@ -197,6 +197,33 @@ Diet Restrictions Dairy-free Egg-free Gluten-free Low Carb Low Sodium Nightshade
 
 RESET [Search](https://www.furtherfood.com/search?type=article)
 
+[![Image of Gelatin cups with jar of Gelatin](//www.furtherfood.com/cdn/shop/articles/20241216183735-img_3039_1200x900.jpg?v=1734374802)
+
+![Image of Gelatin cups with jar of Gelatin](//www.furtherfood.com/cdn/shop/articles/20241216183735-img_3039_1200x900.jpg?v=1734374802)](https://www.furtherfood.com/blogs/recipes/gelatin-holiday-fruit-cups)
+
+[Gelatin Holiday Fruit Cups](https://www.furtherfood.com/blogs/recipes/gelatin-holiday-fruit-cups)
+--------------------------------------------------------------------------------------------------
+
+Add a touch of elegance and nutrition to your holiday celebrations with theseGelatin Ho...
+
+[![Image of cocoa bomb on top of hot cocoa mug](//www.furtherfood.com/cdn/shop/articles/20241216181956-img_2980_1200x900.jpg?v=1734373616)
+
+![Image of cocoa bomb on top of hot cocoa mug](//www.furtherfood.com/cdn/shop/articles/20241216181956-img_2980_1200x900.jpg?v=1734373616)](https://www.furtherfood.com/blogs/recipes/hazelnut-collagen-hot-cocoa-bombs)
+
+[Hazelnut Collagen Hot Cocoa Bombs](https://www.furtherfood.com/blogs/recipes/hazelnut-collagen-hot-cocoa-bombs)
+----------------------------------------------------------------------------------------------------------------
+
+Indulge in the ultimate winter treat with these Hazelnut Collagen Hot Cocoa Bombs! Pack...
+
+[![Image of Superfood Matcha Energy bars cut up in squares](//www.furtherfood.com/cdn/shop/articles/20241216181650-img_3064_1200x900.jpg?v=1734373088)
+
+![Image of Superfood Matcha Energy bars cut up in squares](//www.furtherfood.com/cdn/shop/articles/20241216181650-img_3064_1200x900.jpg?v=1734373088)](https://www.furtherfood.com/blogs/recipes/superfood-matcha-cranberry-energy-bars)
+
+[Superfood Matcha Cranberry Energy Bars](https://www.furtherfood.com/blogs/recipes/superfood-matcha-cranberry-energy-bars)
+--------------------------------------------------------------------------------------------------------------------------
+
+Fuel your day with these wholesome and delicious Superfood Matcha Cranberry Energy Bars...
+
 [![Image of protein powder bag with puppy chow](//www.furtherfood.com/cdn/shop/articles/20241213143016-photo-20nov-2022-202024-2c-202-2014-2031-20pm-20-1_1200x900.jpg?v=1734100807)
 
 ![Image of protein powder bag with puppy chow](//www.furtherfood.com/cdn/shop/articles/20241213143016-photo-20nov-2022-202024-2c-202-2014-2031-20pm-20-1_1200x900.jpg?v=1734100807)](https://www.furtherfood.com/blogs/recipes/protein-holiday-puppy-chow)
@@ -223,33 +250,6 @@ Indulge in the perfect blend of creamy, crunchy, and festive flavors with this M
 --------------------------------------------------------------------------------------------------
 
 The holiday season is here, and there's no better way to embrace the cozy vibes than wi...
-
-[![Image of Elderberry jar and spritzer](//www.furtherfood.com/cdn/shop/articles/20241119203805-img_1664-20-1_1200x900.jpg?v=1732049051)
-
-![Image of Elderberry jar and spritzer](//www.furtherfood.com/cdn/shop/articles/20241119203805-img_1664-20-1_1200x900.jpg?v=1732049051)](https://www.furtherfood.com/blogs/recipes/elderberry-mocktail-spritzer)
-
-[Elderberry Mocktail Spritzer](https://www.furtherfood.com/blogs/recipes/elderberry-mocktail-spritzer)
-------------------------------------------------------------------------------------------------------
-
-This Elderberry Spritz Mocktail is a refreshing and immunity-boosting drink perfect for...
-
-[![Peanut Butter Cup Ghosties](//www.furtherfood.com/cdn/shop/articles/20241017125129-9ec0d382-d7bc-473e-a894-99401a88bd95-202_1200x871.jpg?v=1729172215)
-
-![Peanut Butter Cup Ghosties](//www.furtherfood.com/cdn/shop/articles/20241017125129-9ec0d382-d7bc-473e-a894-99401a88bd95-202_1200x871.jpg?v=1729172215)](https://www.furtherfood.com/blogs/recipes/peanut-butter-cup-ghosties)
-
-[Peanut Butter Cup Ghosties](https://www.furtherfood.com/blogs/recipes/peanut-butter-cup-ghosties)
---------------------------------------------------------------------------------------------------
-
-Looking for a fun, festive treat that's both delicious and nutritious? These Peanut But...
-
-[![Pumpkin Spice Latte](//www.furtherfood.com/cdn/shop/articles/20240923133139-img_0446-20-1_1200x900.jpg?v=1727105651)
-
-![Pumpkin Spice Latte](//www.furtherfood.com/cdn/shop/articles/20240923133139-img_0446-20-1_1200x900.jpg?v=1727105651)](https://www.furtherfood.com/blogs/recipes/pumpkin-spice-latte)
-
-[Pumpkin Spice Latte](https://www.furtherfood.com/blogs/recipes/pumpkin-spice-latte)
-------------------------------------------------------------------------------------
-
-This quick and easy Pumpkin Spice Latte is the perfect cozy drink to satisfy your fall cravings. Made with a shot of espresso and a scoop of Further Food Pumpkin Spice Collagen, it delivers a flavorful boost of protein and seasonal spices.
 
 * 1
 * [2](https://www.furtherfood.com/blogs/recipes?page=2)
