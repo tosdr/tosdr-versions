@@ -1,4 +1,6 @@
-     
+      
+
+ 
 
 [![EDUCBA](https://cdn.educba.com/academy/wp-content/uploads/2023/06/mobile_website_logo_transparent_background.png)](https://www.educba.com/)
 
@@ -41,6 +43,7 @@ There is no shipping cost as the course delivery takes place on educba.com itsel
 If there is any book couriered on request/requirement basis and Certificate dispatch, it is valid only in India in the locations which are covered by leading courier agencies. Remote areas in India and International shipments will attract extra shipment charges.
 
 Footer
+------
 
 ###### Follow us!
 
@@ -148,7 +151,7 @@ By signing up, you agree to our [Terms of Use](https://www.educba.com/terms-and-
 
 X
 
-![EDUCBA](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20155%200'%3E%3C/svg%3E)
+![EDUCBA](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20155%2049'%3E%3C/svg%3E)
 
 ![EDUCBA](https://cdn.educba.com/images/website_logo_transparent_background.png)
 
@@ -160,7 +163,7 @@ x
 
 x
 
-![EDUCBA](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20155%200'%3E%3C/svg%3E)
+![EDUCBA](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20155%2049'%3E%3C/svg%3E)
 
 ![EDUCBA](https://cdn.educba.com/images/website_logo_transparent_background.png)
 
