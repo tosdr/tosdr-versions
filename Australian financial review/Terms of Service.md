@@ -307,29 +307,31 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![MinRes founder Chris Ellison will still be at the company into 2026.](https://static.ffx.io/images/$zoom_0.3147%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_21/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1741e3e3548e5d364f723047189c53910d0a5a95)](https://www.afr.com/work-and-careers/leaders/drumstick-awards-the-five-biggest-corporate-stuff-ups-of-2024-20241209-p5kx0s)
+[![  ](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/9ae99fb0036f9744ca24f9054c3d81e161786128)](https://www.afr.com/work-and-careers/leaders/why-gurner-gave-up-alcohol-and-what-he-learnt-20241216-p5kyqy)
 
-### [Drumstick Awards: The five biggest corporate stuff-ups of 2024](https://www.afr.com/work-and-careers/leaders/drumstick-awards-the-five-biggest-corporate-stuff-ups-of-2024-20241209-p5kx0s)
+### [Why Gurner gave up alcohol – and what he learnt](https://www.afr.com/work-and-careers/leaders/why-gurner-gave-up-alcohol-and-what-he-learnt-20241216-p5kyqy)
 
-* James Thomson
+* 56 mins ago
+* Sally Patten
 
-* ### [How accountants will help save the planet](https://www.afr.com/work-and-careers/careers/how-accountants-will-help-save-the-planet-20241209-p5kww2)
+* ### [Drumstick Awards: The five biggest corporate stuff-ups of 2024](https://www.afr.com/work-and-careers/leaders/drumstick-awards-the-five-biggest-corporate-stuff-ups-of-2024-20241209-p5kx0s)
     
-* ### [This woman made history when she took over her local A-League club](https://www.afr.com/work-and-careers/leaders/this-woman-made-history-when-she-took-over-her-local-a-league-club-20241021-p5kk1e)
+* ### [How accountants will help save the planet](https://www.afr.com/work-and-careers/careers/how-accountants-will-help-save-the-planet-20241209-p5kww2)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.8663%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_527/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e854d9fdd180761cf5112d63b0c35951cb0a543d)](https://www.afr.com/life-and-luxury/health-and-wellness/cycling-makes-me-a-nicer-person-founder-admits-20241212-p5kxxx)
+[![ ](https://static.ffx.io/images/$zoom_0.138%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/202bc1acb52a3e744b257aa522a1ac32c3d9fa02)](https://www.afr.com/technology/this-25-000-tv-breaks-the-extreme-barrier-20241212-p5kxwa)
 
-### [Cycling makes me a nicer person, founder admits](https://www.afr.com/life-and-luxury/health-and-wellness/cycling-makes-me-a-nicer-person-founder-admits-20241212-p5kxxx)
+### [This $25,000 TV breaks the extreme barrier](https://www.afr.com/technology/this-25-000-tv-breaks-the-extreme-barrier-20241212-p5kxwa)
 
-* Life & Leisure
+* 56 mins ago
+* John Davidson
 
-* ### [Alexandra Keating sees problems, and builds businesses to solve them](https://www.afr.com/life-and-luxury/fashion-and-style/alexandra-keating-sees-problems-and-builds-businesses-to-solve-them-20241211-p5kxnh)
+* ### [Inside Melbourne’s latest luxury hotel](https://www.afr.com/life-and-luxury/design/inside-melbourne-s-latest-luxury-hotel-20241212-p5kxw6)
     
-* ### [Why Lake Como has become a hot ticket in winter](https://www.afr.com/life-and-luxury/travel/why-lake-como-has-become-a-hot-ticket-in-winter-20241118-p5krff)
+* ### [Max Allen’s pick of the chardonnays for summer drinking](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-s-pick-of-the-chardonnays-for-summer-drinking-20241211-p5kxn1)
     
 
 [Rich List](https://www.afr.com/rich-list)
