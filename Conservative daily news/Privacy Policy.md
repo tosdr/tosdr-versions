@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Gun Review – Cimarron ’62 Pocket Navy Conversion](https://www.thegunpage.com/gun-review-cimarron-62-pocket-navy-conversion/10612534)
+* [MI: Anti-gun Bills Moving in the House](https://www.thegunpage.com/mi-anti-gun-bills-moving-in-the-house/10612532)
+* [While Some Clamor for More Gun Laws, Judges Aren’t Enforcing Existing Laws](https://www.thegunpage.com/while-some-clamor-for-more-gun-laws-judges-arent-enforcing-existing-laws/10612530)
+* [TFB Weekly Web Deals 118: Deals for December 16th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-118-deals-for-december-16th-2024/10612529)
+* [Biden DOJ Rolls Out New Gun Control Measures](https://www.thegunpage.com/biden-doj-rolls-out-new-gun-control-measures/10612527)
+* [U.S. Army Marksmanship Unit To Lead Training At 2025 CMP Talladega Spring Classic](https://www.thegunpage.com/u-s-army-marksmanship-unit-to-lead-training-at-2025-cmp-talladega-spring-classic/10612533)
 * [Twisting Stoner’s Mouse Gun](https://www.thegunpage.com/twisting-stoners-mouse-gun/10612526)
 * [Michigan Dems Rush Gun Control Through State Legislature Ahead Of Republican House Majority](https://www.thegunpage.com/michigan-dems-rush-gun-control-through-state-legislature-ahead-of-republican-house-majority/10612523)
 * [Man With Guns And Explosives Planning A Church Attack Arrested In Texas](https://www.thegunpage.com/man-with-guns-and-explosives-planning-a-church-attack-arrested-in-texas/10612520)  
 * [Set Up Your Gear For Success](https://www.thegunpage.com/set-up-your-gear-for-success/10612518)
-* [Silencer Saturday #359: A Primer On Subsonic Ammunition](https://www.thegunpage.com/silencer-saturday-359-a-primer-on-subsonic-ammunition/10612512)
-* [Getting Into VR Training? Spring For The Quest 3 Instead Of Cutting Corners With The 3s](https://www.thegunpage.com/getting-into-vr-training-spring-for-the-quest-3-instead-of-cutting-corners-with-the-3s/10612507)
-* [NEW Steyr DMR: Sniper Rifle Accuracy from a Battle Rifle](https://www.thegunpage.com/new-steyr-dmr-sniper-rifle-accuracy-from-a-battle-rifle/10612502)
-* [Lessons Learned: Therapy Can Help for Victims of Violent Attacks](https://www.thegunpage.com/lessons-learned-therapy-can-help-for-victims-of-violent-attacks/10612499)
-* [SIG Sauer P320 X-Five SXG For USPSA Carry Optics, Limited Optics](https://www.thegunpage.com/sig-sauer-p320-x-five-sxg-for-uspsa-carry-optics-limited-optics/10612498)
-* [The Russian RPL-20 Light Machine Gun](https://www.thegunpage.com/the-russian-rpl-20-light-machine-gun/10612497)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* charles wilkins on [The Year We Had No President](https://www.conservativedailynews.com/2024/12/the-year-we-had-no-president/#comment-783758)
 * Richard McDonough on [BYE! Dem Rep Says ‘Thousands’ Of Federal Employees Are So Shaken By Trump Election They Might Quit](https://www.conservativedailynews.com/2024/12/bye-dem-rep-says-thousands-of-federal-employees-are-so-shaken-by-trump-election-they-might-quit/#comment-783742)
 * charles wilkins on [Trouble Shooter](https://www.conservativedailynews.com/2024/12/a-f-branco-cartoon-trouble-shooter/#comment-783733)
 * Catboss on [BYE! Dem Rep Says ‘Thousands’ Of Federal Employees Are So Shaken By Trump Election They Might Quit](https://www.conservativedailynews.com/2024/12/bye-dem-rep-says-thousands-of-federal-employees-are-so-shaken-by-trump-election-they-might-quit/#comment-783724)
@@ -240,7 +241,6 @@ Recent Comments
 * KayCee on [Bad Gifts](https://www.conservativedailynews.com/2024/12/bad-gifts-2/#comment-783697)
 * KayCee on [Hunter Biden’s Pardon Really Rubbed America The Wrong Way, Poll Shows](https://www.conservativedailynews.com/2024/12/hunter-bidens-pardon-really-rubbed-america-the-wrong-way-poll-shows/#comment-783696)
 * KayCee on [People In North Carolina Are living In Tents While Biden Pledges Billions To Africa](https://www.conservativedailynews.com/2024/12/people-in-north-carolina-are-living-in-tents-while-biden-pledges-billions-to-africa/#comment-783690)
-* Stanley Warner on [Biden the Tyrant](https://www.conservativedailynews.com/2024/12/biden-the-tyrant/#comment-783683)
 
 [Close](#)
 
