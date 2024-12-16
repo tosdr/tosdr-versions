@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/hpv-vaccin-gardasil-vernielt-eierstokken-jonge-vrouw/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mit-professor-opwarming-van-aarde-propaganda/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -131,6 +131,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Het gouden Trump-tijdperk begint NU!
+
+[inhetmeer Misschien zie ik wel veel erg zwart/wit maar ik be…](https://www.wanttoknow.nl/politiek/het-gouden-trump-tijdperk-begint-nu/comment-page-1/#comment-626381)
 
 ![ikzie](https://secure.gravatar.com/avatar/99005f7fd1b9bebeaf2ae5766f00b3c6?s=50&d=identicon&r=g)
 
@@ -379,14 +387,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Jankende NOS-journalisten, ga in de spiegel kijken…!!
 
 [Ouderwets en niet meer van deze tijd is een uiting welke vol…](https://www.wanttoknow.nl/overige/jankende-nos-journalisten-ga-in-de-spiegel-kijken/comment-page-1/#comment-626349)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### Jankende NOS-journalisten, ga in de spiegel kijken…!!
-
-[Het begint op een soap te lijken namelijk een strijd van de…](https://www.wanttoknow.nl/overige/jankende-nos-journalisten-ga-in-de-spiegel-kijken/comment-page-1/#comment-626348)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
