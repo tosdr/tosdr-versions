@@ -91,10 +91,6 @@
         * [Calculator: lifetime mortgage repayments](https://restless.co.uk/mortgages/equity-release/lifetime-mortgage-calculator/)
     * [Money saving tools](https://restless.co.uk/money/money-saving-comparison-tools/)
         * [See all money saving tools](https://restless.co.uk/money/money-saving-comparison-tools/)
-        * [Car insurance](https://insurance.restless.co.uk/car-insurance-quote/index.php?id=c4d089c5f110fa1e4fc727d337cba36f)
-        * [Home insurance](https://insurance.restless.co.uk/home-insurance-quote/index.php?id=c4d089c5f110fa1e4fc727d337cba36f&ref1=user.customer_id)
-        * [Pet insurance](https://restless.co.uk/money/insurance/compare-pet-insurance/)
-        * [Bicycle insurance](https://restless.co.uk/money/insurance/compare-bicycle-insurance/)
         * [Travel insurance](https://restless.co.uk/money/insurance/staysure-travel-insurance/)
         * [Get expert mortgage advice\*](https://restless.co.uk/mortgages/mortgage-advice/)
         * [Equity release calculator](https://restless.co.uk/mortgages/equity-release/equity-release-calculator/)
@@ -106,10 +102,6 @@
         * [Managing your money on benefits​](https://restless.co.uk/money/government-benefits/#managingMoneyBenefits)
         * [Help for those on low incomes​](https://restless.co.uk/money/government-benefits/#helpLowIncome)
     * [Insurance](https://restless.co.uk/money/insurance/)
-        * [Compare car insurance quotes](https://restless.co.uk/money/insurance/compare-car-insurance/)
-        * [See home insurance deals](https://restless.co.uk/money/insurance/compare-home-insurance/)
-        * [Compare pet insurance quotes](https://restless.co.uk/money/insurance/compare-pet-insurance/)
-        * [Compare bicycle insurance quotes](https://restless.co.uk/money/insurance/compare-bicycle-insurance/)
         * [Get a travel insurance quote](https://restless.co.uk/money/insurance/staysure-travel-insurance/)
         * [Insurance tips & help](https://restless.co.uk/money/insurance/#insuranceTipsHelp)
         * [Home insurance​](https://restless.co.uk/money/insurance/#homeInsurance)
@@ -531,6 +523,30 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![12 last-minute sunshine holidays](https://media.restless.co.uk/uploads/2023/08/last-minute-sunshine-holidays-768x384.jpg)](https://restless.co.uk/travel/last-minute-sunshine-holidays/)
+
+### [12 last-minute sunshine holidays](https://restless.co.uk/travel/last-minute-sunshine-holidays/)
+
+[Read More »](https://restless.co.uk/travel/last-minute-sunshine-holidays/)
+
+[![10 far flung walking adventures for a 2025 escape](https://media.restless.co.uk/uploads/2024/12/far-flung-walking-adventures-for-a-2025-escape-768x512.jpg)](https://restless.co.uk/travel/far-flung-walking-adventures-for-an-escape/)
+
+### [10 far flung walking adventures for a 2025 escape](https://restless.co.uk/travel/far-flung-walking-adventures-for-an-escape/)
+
+[Read More »](https://restless.co.uk/travel/far-flung-walking-adventures-for-an-escape/)
+
+[![10 enriching UK breaks](https://media.restless.co.uk/uploads/2024/09/enriching-uk-breaks-e1726831157473-768x384.jpg)](https://restless.co.uk/travel/enriching-uk-breaks/)
+
+### [10 enriching UK breaks](https://restless.co.uk/travel/enriching-uk-breaks/)
+
+[Read More »](https://restless.co.uk/travel/enriching-uk-breaks/)
+
+[![12 of the cheapest countries to visit in Europe](https://media.restless.co.uk/uploads/2022/12/the-cheapest-countries-to-visit-in-europe-768x513.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
+
+### [12 of the cheapest countries to visit in Europe](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
+
+[Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
+
 [![7 of the cheapest Caribbean islands to visit on a budget](https://media.restless.co.uk/uploads/2023/08/the-cheapest-caribbean-islands-to-visit-on-a-budget-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
 
 ### [7 of the cheapest Caribbean islands to visit on a budget](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
@@ -543,32 +559,14 @@ New in travel
 
 [Read More »](https://restless.co.uk/travel/group-tours-of-the-uk-lesser-known-places-to-visit-in-2025/)
 
-[![10 of the world’s most diverse and beautiful countries](https://media.restless.co.uk/uploads/2024/10/the-worlds-most-diverse-and-beautiful-countries-768x512.jpg)](https://restless.co.uk/travel/the-worlds-most-diverse-and-beautiful-countries/)
-
-### [10 of the world’s most diverse and beautiful countries](https://restless.co.uk/travel/the-worlds-most-diverse-and-beautiful-countries/)
-
-[Read More »](https://restless.co.uk/travel/the-worlds-most-diverse-and-beautiful-countries/)
-
-[![14 unmissable Black Friday travel deals](https://media.restless.co.uk/uploads/2024/11/unmissable-black-friday-travel-deals-768x334.jpg)](https://restless.co.uk/travel/unmissable-black-friday-travel-deals/)
-
-### [14 unmissable Black Friday travel deals](https://restless.co.uk/travel/unmissable-black-friday-travel-deals/)
-
-[Read More »](https://restless.co.uk/travel/unmissable-black-friday-travel-deals/)
-
-[![11 things to see and do on a Caribbean cruise](https://media.restless.co.uk/uploads/2024/11/things-to-see-and-do-on-a-caribbean-cruise-768x512.jpg)](https://restless.co.uk/travel/things-to-see-and-do-on-a-caribbean-cruise/)
-
-### [11 things to see and do on a Caribbean cruise](https://restless.co.uk/travel/things-to-see-and-do-on-a-caribbean-cruise/)
-
-[Read More »](https://restless.co.uk/travel/things-to-see-and-do-on-a-caribbean-cruise/)
-
-[![8 fascinating tours where you can really get to know a country](https://media.restless.co.uk/uploads/2024/10/fascinating-tours-where-you-can-really-get-to-know-a-country-768x349.jpg)](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/)
-
-### [8 fascinating tours where you can really get to know a country](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/) 
-
-[Read More »](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/)
-
 Popular travel guides
 ---------------------
+
+[![12 of the cheapest countries to visit in Europe](https://media.restless.co.uk/uploads/2022/12/the-cheapest-countries-to-visit-in-europe-768x513.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
+
+### [12 of the cheapest countries to visit in Europe](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
+
+[Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
 
 [![7 of the cheapest Caribbean islands to visit on a budget](https://media.restless.co.uk/uploads/2023/08/the-cheapest-caribbean-islands-to-visit-on-a-budget-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
 
@@ -599,12 +597,6 @@ Popular travel guides
 ### [11 travel destinations where you can avoid crowds](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
 
 [Read More »](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
-
-[![12 of the cheapest countries to visit in Europe](https://media.restless.co.uk/uploads/2022/12/the-cheapest-countries-to-visit-in-europe-768x513.jpg)](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
-
-### [12 of the cheapest countries to visit in Europe](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
-
-[Read More »](https://restless.co.uk/travel/the-cheapest-countries-to-visit-in-europe/)
 
 [![9 holiday destinations you can fly to in two hours or under](https://media.restless.co.uk/uploads/2023/07/holiday-destinations-you-can-fly-to-in-two-hours-or-under-768x525.jpg)](https://restless.co.uk/travel/countries-you-can-get-to-in-two-hours-or-under/)
 
