@@ -70,12 +70,13 @@ Refund Policy
 
 Our company cares about any feedback from the users of our apps. If you send us a message informing about an error, any question or just a suggestion, you will receive a fast and competent answer from our technical support team within 48 hours. As a rule all the majority of problems is solved "on the spot". Numerous positive reports concerning our specialists and products prove that perfectly well. However please read the refund policy for 4K Applications.
 
-1\. 4K Download provides full refund of your payment in the following cases:
+1\. 4K Download provides a full refund of your payment in the following cases:
 
-* When you stably encounter an error which is preventing you from using our software properly, and if we are not able to correct the error within 30 days.  
-    Please, NOTE! In this case refund is only given if you provide detailed information about your error, requested by our support staff, such as screenshots of error messages, log files, detailed descriptions of your actions, file samples, etc.
+* When you encounter an error that prevents you from using our software properly, and if we are not able to correct the error within 30 days.  
+    Please, NOTE! In this case, a refund is only given if you provide detailed information about your error, as requested by our support staff, such as screenshots of error messages, log files, detailed descriptions of your actions, file samples, etc.
 * If you accidentally bought the software more than once.
 * If you can’t activate the application on your computer due the technical reasons.
+* If you request a refund within the first six months after purchasing a license for a reasonable cause as outlined in this policy. No refund requests will be considered or honored after six months from the date of purchase.
 
 2\. We reserve the right to decline refund requests in the following cases:
 
@@ -158,6 +159,6 @@ Send
 
 [](https://www.4kdownload.com/-54 "Home page")
 
-© 2024 Open Media. All rights reserved.
+© 2024 InterPromo GMBH. All rights reserved.
 
 English Deutsch français italiano español Português Brasileiro Nederlands polski 简体中文 繁體中文 한국어 日本語 Русский
