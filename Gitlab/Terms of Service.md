@@ -1991,7 +1991,7 @@
         * [ ]  [GitLab Event Information](https://handbook.gitlab.com/handbook/marketing/events/)
             * [ ]  [Event Requirements](https://handbook.gitlab.com/handbook/marketing/events/event-requirements/)
         * [ ]  [GitLab Marketing Team READMEs](https://handbook.gitlab.com/handbook/marketing/readmes/)
-            * [ ]  [Ashley Kramer README (Interim Chief Revenue Officer, and Chief Marketing & Strategy Officer)](https://handbook.gitlab.com/handbook/marketing/readmes/ashley-kramer/)
+            * [ ]  [Ashley Kramer's README](https://handbook.gitlab.com/handbook/marketing/readmes/ashley-kramer/)
             * [ ]  [Brian Tabbert README (Director, Sales Development (AMER))](https://handbook.gitlab.com/handbook/marketing/readmes/brian-tabbert/)
             * [ ]  [Christine Lee README (VP, Marketing Ops & Analytics)](https://handbook.gitlab.com/handbook/marketing/readmes/christine-lee/)
             * [ ]  [Dave Steer README (VP Product Marketing)](https://handbook.gitlab.com/handbook/marketing/readmes/dave-steer/)
