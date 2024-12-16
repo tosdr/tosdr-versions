@@ -170,4 +170,4 @@ Contact Us
 
 [GDPR](https://corbettmaths.com/2018/06/13/gdpr/)
 
-Corbettmaths © 2012 – 2024
+Corbettmaths © 2012 – 2025
