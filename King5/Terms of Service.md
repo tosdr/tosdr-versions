@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/f1c29d74-9d2d-487b-82b9-2a7e51f9567f/20241215T220320/f1c29d74-9d2d-487b-82b9-2a7e51f9567f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f1c29d74-9d2d-487b-82b9-2a7e51f9567f/20241215T220320/f1c29d74-9d2d-487b-82b9-2a7e51f9567f_360x203.jpg)](https://www.king5.com/article/news/local/1-dead-1-injured-house-fire-lynnwood/281-c45c86ac-9ac5-4fdd-897e-989f12f0cffb)
+        
+        #### [1 dead, 1 injured in house fire in Lynnwood](https://www.king5.com/article/news/local/1-dead-1-injured-house-fire-lynnwood/281-c45c86ac-9ac5-4fdd-897e-989f12f0cffb)
+        
     *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-mensaje-del-consulado-de-mxico-en-seattle-noticias-titulares-de-edmonds-y-lynnwood/281-e81190cc-ee51-4e52-bfbc-6e34b9ec4d7f)
         
         #### [Cinco Cosas: Mensaje del Consulado de México en Seattle, noticias titulares de Edmonds y Lynnwood](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-mensaje-del-consulado-de-mxico-en-seattle-noticias-titulares-de-edmonds-y-lynnwood/281-e81190cc-ee51-4e52-bfbc-6e34b9ec4d7f)
-        
-    *  [![](https://media.king5.com/assets/KING/images/3ea0d3e2-e202-4c75-bf4a-ae1d157e14cc/20241215T060706/3ea0d3e2-e202-4c75-bf4a-ae1d157e14cc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3ea0d3e2-e202-4c75-bf4a-ae1d157e14cc/20241215T060706/3ea0d3e2-e202-4c75-bf4a-ae1d157e14cc_360x203.jpg)](https://www.king5.com/article/news/local/power-outages-western-washington-amid-wind-advisory/281-67cd4f6b-95b4-43d3-bc34-d397637ab9dc)
-        
-        #### [Power restored to more than 80,000 in western Washington following strong winds Saturday](https://www.king5.com/article/news/local/power-outages-western-washington-amid-wind-advisory/281-67cd4f6b-95b4-43d3-bc34-d397637ab9dc)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -82,13 +82,13 @@ Navigation
     
     Latest Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c7d37dbc-2b68-4d6b-81c9-97678436af24/20241215T061553/c7d37dbc-2b68-4d6b-81c9-97678436af24_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c7d37dbc-2b68-4d6b-81c9-97678436af24/20241215T061553/c7d37dbc-2b68-4d6b-81c9-97678436af24_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/hagel-scores-2-guentzel-has-goal-and-assist-as-lightning-beat-kraken-5-1/281-7dcd9351-6adc-4095-91ea-da7252c8ae0f)
+    *  [![](https://media.king5.com/assets/KING/images/d7b61865-be70-4929-b902-7371b91cd9b3/20241215T014131/d7b61865-be70-4929-b902-7371b91cd9b3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d7b61865-be70-4929-b902-7371b91cd9b3/20241215T014131/d7b61865-be70-4929-b902-7371b91cd9b3_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/seahawks-going-for-five-straight-wins-hosting-green-bay-sunday-night/281-e8d152dd-74ef-48e8-948e-d3e211946a40)
         
-        #### [Hagel scores 2, Guentzel has goal and assist as Lightning beat Kraken 5-1](https://www.king5.com/article/sports/nhl/kraken/hagel-scores-2-guentzel-has-goal-and-assist-as-lightning-beat-kraken-5-1/281-7dcd9351-6adc-4095-91ea-da7252c8ae0f)
+        #### [Seahawks going for five straight wins, hosting Green Bay Sunday night](https://www.king5.com/article/sports/nfl/seahawks/seahawks-going-for-five-straight-wins-hosting-green-bay-sunday-night/281-e8d152dd-74ef-48e8-948e-d3e211946a40)
         
-    *  [![](https://media.king5.com/assets/KING/images/a7d53cbe-924d-4ca8-a117-409bcbaa4043/20241203T072021/a7d53cbe-924d-4ca8-a117-409bcbaa4043_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a7d53cbe-924d-4ca8-a117-409bcbaa4043/20241203T072021/a7d53cbe-924d-4ca8-a117-409bcbaa4043_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaaf/cougars/washington-state-wins-91-78-against-missouri-state/281-86eb98e1-dc4e-400a-8319-e71751abc824)
+    *  [![](https://media.king5.com/assets/KING/images/cf1a05cd-500c-4ea1-930e-d38a3b901fd4/20241213T165106/cf1a05cd-500c-4ea1-930e-d38a3b901fd4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf1a05cd-500c-4ea1-930e-d38a3b901fd4/20241213T165106/cf1a05cd-500c-4ea1-930e-d38a3b901fd4_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/how-to-watch-packers-seahawks/281-1dfa5b44-5f34-4733-9030-99b79f023c40)
         
-        #### [Washington State wins 91-78 against Missouri State](https://www.king5.com/article/sports/ncaa/ncaaf/cougars/washington-state-wins-91-78-against-missouri-state/281-86eb98e1-dc4e-400a-8319-e71751abc824)
+        #### [Here's how to watch Seahawks vs. Packers on KING 5](https://www.king5.com/article/sports/nfl/seahawks/how-to-watch-packers-seahawks/281-1dfa5b44-5f34-4733-9030-99b79f023c40)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-47°
+43°
 
-![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
