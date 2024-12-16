@@ -84,17 +84,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: The US military is now talking openly about going on the attack in space](https://cdn.arstechnica.net/wp-content/uploads/2024/12/spoc_spaceplane-768x432.jpg)](https://arstechnica.com/space/2024/12/the-us-military-is-now-talking-openly-about-going-on-the-attack-in-space/)
+1. [![Listing image for first story in Most Read: Buying a TV in 2025? Expect lower prices, more ads, and an OS war.](https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-168653771-768x432.jpg)](https://arstechnica.com/gadgets/2024/12/buying-a-tv-in-2025-expect-lower-prices-more-ads-and-an-os-war/)
     
-    1. [The US military is now talking openly about going on the attack in space](https://arstechnica.com/space/2024/12/the-us-military-is-now-talking-openly-about-going-on-the-attack-in-space/)
+    1. [Buying a TV in 2025? Expect lower prices, more ads, and an OS war.](https://arstechnica.com/gadgets/2024/12/buying-a-tv-in-2025-expect-lower-prices-more-ads-and-an-os-war/)
     
-2. 2. [Yearlong supply-chain attack targeting security pros steals 390K credentials](https://arstechnica.com/security/2024/12/yearlong-supply-chain-attack-targeting-security-pros-steals-390k-credentials/)
+2. 2. [The US military is now talking openly about going on the attack in space](https://arstechnica.com/space/2024/12/the-us-military-is-now-talking-openly-about-going-on-the-attack-in-space/)
     
 3. 3. [Bird flu jumps from birds to human in Louisiana; patient hospitalized](https://arstechnica.com/science/2024/12/person-hospitalized-in-louisiana-with-bird-flu-health-officials-report/)
     
-4. 4. [Twirling body horror in gymnastics video exposes AI’s flaws](https://arstechnica.com/information-technology/2024/12/twirling-body-horror-in-gymnastics-video-exposes-ais-flaws/)
+4. 4. [Researchers hone in on headache-causing compounds in red wine](https://arstechnica.com/health/2024/12/researchers-hone-in-on-headache-causing-compounds-in-red-wine/)
     
-5. 5. [Rocket Report: Chinese national flies drone near Falcon 9, Trouble down under](https://arstechnica.com/space/2024/12/rocket-report-ukrainian-launch-firm-finds-maine-home-long-march-8a-debut-near/)
+5. 5. [Yearlong supply-chain attack targeting security pros steals 390K credentials](https://arstechnica.com/security/2024/12/yearlong-supply-chain-attack-targeting-security-pros-steals-390k-credentials/)
     
 
 Customize
