@@ -2,7 +2,7 @@
 
 [Skip to content](#main)
 
-\*\*\* Pi 500 launch - shipping delays expected (1-2 days) \*\*\*\*\*\* Pi 500 launch - shipping delays expected (1-2 days) \*\*\*
+\*\*\* Pi 500 launch - shipping delays expected (2-3 days) \*\*\*\*\*\* Pi 500 launch - shipping delays expected (2-3 days) \*\*\*
 
 Navigation
 
