@@ -254,6 +254,7 @@ Ratenschutz-Versicherung\*\*
 * [AGB](https://www.mirapodo.de/shoppages/service/agb) ・
 * [Datenschutz](https://www.mirapodo.de/shoppages/service/datenschutz) ・
 * [Impressum](https://www.mirapodo.de/shoppages/service/impressum) ・
+* [Produktsicherheitsrückrufe](https://www.mirapodo.de/shoppages/produktsicherheitsrueckrufe) ・
 * Lob & Kritik
 
 Preisangaben inkl. Steuer und zzgl. Service- und Versandkosten
