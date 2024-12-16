@@ -81,7 +81,7 @@ Privacy Policy
 PRIVACY POLICY FOR KRISP
 ------------------------
 
-_Last updated: October 25, 2024_
+_Last updated: December 16, 2024_
 
 Welcome to [www.krisp.ai](https://www.krisp.ai/) (“**Site**”), hosted by Krisp Technologies, Inc. (“**Company**”, “**we**”, “**us**” and/or “**our**”). Company provides AI meeting assistant and noise cancellation technologies to individuals and businesses (“**Krisp**”). In order to provide the Site and/or Krisp, we collect personal data from our Site visitors (“**Site Visitors**”) and our customers (“**Customers**”). We also collect the personal data of our Customers’ Authorized Users (as defined in the [Krisp Terms of Use](https://krisp.ai/terms-of-use/)) when they use Krisp, and we also collect certain information from third parties. All references to “you” and “your” in this Privacy Policy mean the Site Visitors, Customers, including the person accepting this Privacy Policy on behalf of an entity or organization, and Authorized Users, as the case may be.
 
@@ -298,7 +298,9 @@ In addition, Company will preserve or disclose your personal information in limi
 
 We respect and are committed to safeguarding your privacy and have undertaken and put in place reasonable security measures.
 
-To learn about our Security measures, please visit our [Security for AI Meeting Assistant](https://krisp.ai/security-for-ai-meeting-assistant) page.
+To learn about our Security measures, please visit our [Security for AI Meeting Assistant](https://krisp.ai/security-for-ai-meeting-assistant) page.  
+
+In addition to these measures, we ensure full compliance with the Payment Card Industry Data Security Standard (PCI-DSS) when our services involve the processing or storage of payment cardholder data. Our PCI-DSS compliance has been independently validated by a Qualified Security Assessor, and we maintain an Attestation of Compliance as evidence of our adherence to these rigorous industry standards. For any questions or to request more information about our PCI-DSS compliance, please contact us at [\[email protected\]](https://krisp.ai/cdn-cgi/l/email-protection).
 
 ### **“DO NOT TRACK”**
 
