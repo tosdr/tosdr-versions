@@ -320,6 +320,14 @@ Recurs yearly
 
 2015
 
+#### Sun, Dec 22
+
+Ralph Fiennes's birthday
+
+Recurs yearly
+
+Lord Voldemort (GoF-DH2)
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -330,15 +338,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Magic makes electronics go haywire, so Muggle devices don’t work at or near Hogwarts.
+You do not get to choose your Animagus. You simply become the animal that you resemble most.
 
 ### Potter History
 
-December 11, 2008 – The first stop for Harry Potter: The Exhibition is announced as Chicago, Illinois, opening on April 30, 2009.
+April 28, 2005 – It is announced that the Harry Potter and the Half-Blood Prince audio edition is to be released on August 25, 2005 in the United Kingdom. The American edition is set to be released in the United States and Canada on July 16, 2005.
 
 ### Potter Quote
 
-“Sir, I wondered what you know about . . . about Horcruxes?”
+“If you’d ever had the pleasure to teach him, you’d know Newt is not a great follower of orders.”
 
 [](#)
 
