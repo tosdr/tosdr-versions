@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Trevor Noah ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-trevor-noah/)
+[![50 Facts About Lil Baby ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-lil-baby/)
 
 Celebrity
 
-15 Dec 2024
+16 Dec 2024
 
-[50 Facts About Trevor Noah](https://facts.net/celebrity/50-facts-about-trevor-noah/)
+[50 Facts About Lil Baby](https://facts.net/celebrity/50-facts-about-lil-baby/)
 
-[![30 Facts About Megacystis Microcolon Intestinal Hypoperistalsis ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-megacystis-microcolon-intestinal-hypoperistalsis/)
+[![30 Facts About Russ Vought ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/30-facts-about-russ-vought/)
 
-Health Science
+People
 
-15 Dec 2024
+16 Dec 2024
 
-[30 Facts About Megacystis Microcolon Intestinal Hypoperistalsis](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-megacystis-microcolon-intestinal-hypoperistalsis/)
+[30 Facts About Russ Vought](https://facts.net/history/people/30-facts-about-russ-vought/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
