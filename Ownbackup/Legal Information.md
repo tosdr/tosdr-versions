@@ -132,9 +132,9 @@ On The Blog
 
 Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
 
-[Backup and Recovery
+[Events
 
-Beyond ITSM and CMBD: Why Every ServiceNow Application Needs a Backup Plan](https://www.ownbackup.com/blog/beyond-itsm-and-cmbd-why-every-servicenow-application-needs-a-backup-plan)
+Unlocking Value: Key Insights from Own 2024 Customer Events](https://www.ownbackup.com/blog/unlocking-value-key-insights-from-own-2024-customer-events)
 
 [Company News
 
@@ -356,9 +356,9 @@ On The Blog
 
 Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
 
-[Backup and Recovery
+[Events
 
-Beyond ITSM and CMBD: Why Every ServiceNow Application Needs a Backup Plan](https://www.ownbackup.com/blog/beyond-itsm-and-cmbd-why-every-servicenow-application-needs-a-backup-plan)
+Unlocking Value: Key Insights from Own 2024 Customer Events](https://www.ownbackup.com/blog/unlocking-value-key-insights-from-own-2024-customer-events)
 
 [Company News
 
