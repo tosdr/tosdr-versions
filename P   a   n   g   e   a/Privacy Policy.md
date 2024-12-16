@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,776 members - 452,884,629 ads shown  
+131,777 members - 452,893,896 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -44,7 +44,7 @@ CREATE ACCOUNT
 WHAT IS LAYERED ADVERTISING?  
 This uses just ONE step to explode multiple ads out all at once, including: your email ad and post a banner ad all with just one click. No credits to assign, no hassles, so this is a serious time saver!  
   
-You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,776 MEMBERS!  
+You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,777 MEMBERS!  
   
   
 
@@ -55,13 +55,13 @@ Sometimes spelled Pangaea, was a single land mass 300 million years ago. All of 
 
 paid member banners
 
-[![](https://viraltrafficgames.com/getimg.php?id=1)](https://viraltrafficgames.com/?rid=10247)
+[![](https://homebiz2020.com/banners/sapphire/sapphire1_125x125.png)](https://sapphiresolos.com/?id=85722)
 
 [![](https://ezbanex.com/images/fb-125x125.png)](https://ezbanex.com/r/1645)
 
-[![](https://boomerangblaster.com/ban99.gif)](https://boomerangblaster.com/romanjeff)
+[![](https://imgallery.llsvr.com/jeffaman.665f8c470cd25.gif)](https://track.toprated.vip/maryanne450)
 
-[![](https://www.securebannerhosting.com/banners/-17081107211574135324.jpg)](https://lllpg.com/zz2bwygy/pangea125paid)
+[![](https://1bannerbox.com/1252.gif)](https://1bannerbox.com/genesis)
 
 ![](26yrs0.gif)
 
