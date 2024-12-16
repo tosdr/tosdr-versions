@@ -289,6 +289,38 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Алёна Аршинова: По проекту «Единой России» «Парта Героя» открыто 22 тысячи парт](https://cdn.er.ru/media/news/December2024/8TnHzC6rEVdeLQAvyNBU-small.jpg)](https://er.ru/activity/news/alyona-arshinova-po-proektu-edinoj-rossii-parta-geroya-otkryto-22-tysyachi-part)
+
+[Алёна Аршинова: По проекту «Единой России» «Парта Героя» открыто 22 тысячи парт](https://er.ru/activity/news/alyona-arshinova-po-proektu-edinoj-rossii-parta-geroya-otkryto-22-tysyachi-part)
+
+[#Аршинова](https://er.ru/activity/news?tags%5B0%5D=3886) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#новаяшкола](https://er.ru/activity/news?tags%5B0%5D=109372) [#ЛицаГероев](https://er.ru/activity/news?tags%5B0%5D=1093607) [#ПартаГероя](https://er.ru/activity/news?tags%5B0%5D=1091818)
+
+Сегодня 11:55
+
+[![В «Единой России» предложили инициативы по усилению контроля за капремонтом и строительством школ](https://cdn.er.ru/media/news/December2024/4NnExge5d7NXgfzeZ8em-small.jpg)](https://er.ru/activity/news/v-edinoj-rossii-predlozhili-iniciativy-po-usileniyu-kontrolya-za-kapremontom-i-stroitelstvom-shkol)
+
+[В «Единой России» предложили инициативы по усилению контроля за капремонтом и строительством школ](https://er.ru/activity/news/v-edinoj-rossii-predlozhili-iniciativy-po-usileniyu-kontrolya-za-kapremontom-i-stroitelstvom-shkol)
+
+[#Федорищев](https://er.ru/activity/news?tags%5B0%5D=1095521) [#Самарская область](https://er.ru/activity/news?tags%5B0%5D=2275) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#школы](https://er.ru/activity/news?tags%5B0%5D=121418) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637) [#детскиесады](https://er.ru/activity/news?tags%5B0%5D=107844)
+
+Сегодня 11:40
+
+[![Сергей Кравцов: Работа «Единой России» и Минпросвещения позволила превысить показатели по строительству новых школ](https://cdn.er.ru/media/news/December2024/XWBOV3qIeeFupgoBxiKL-small.JPG)](https://er.ru/activity/news/sergej-kravcov-rabota-edinoj-rossii-i-minprosvesheniya-pozvolila-prevysit-pokazateli-po-stroitelstvu-novyh-shkol)
+
+[Сергей Кравцов: Работа «Единой России» и Минпросвещения позволила превысить показатели по строительству новых школ](https://er.ru/activity/news/sergej-kravcov-rabota-edinoj-rossii-i-minprosvesheniya-pozvolila-prevysit-pokazateli-po-stroitelstvu-novyh-shkol)
+
+[#Кравцов](https://er.ru/activity/news?tags%5B0%5D=38915) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 10:55
+
+[![Владимир Якушев: Приоритетом «Единой России» на ближайшие годы станет выполнение поручения по капремонту всех школ, где это необходимо](https://cdn.er.ru/media/news/December2024/lPhHWdFqla3PNCYCFUA6-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-prioritetom-edinoj-rossii-na-blizhajshie-gody-stanet-vypolnenie-porucheniya-po-kapremontu-vseh-shkol-gde-eto-neobhodimo)
+
+[Владимир Якушев: Приоритетом «Единой России» на ближайшие годы станет выполнение поручения по капремонту всех школ, где это необходимо](https://er.ru/activity/news/vladimir-yakushev-prioritetom-edinoj-rossii-na-blizhajshie-gody-stanet-vypolnenie-porucheniya-po-kapremontu-vseh-shkol-gde-eto-neobhodimo)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#детскиесады](https://er.ru/activity/news?tags%5B0%5D=107844) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 10:39
+
 [![Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» почтили память российских журналистов, погибших в зоне СВО и горячих точках](https://cdn.er.ru/media/news/December2024/AGhQy6qpvnq0Uc6eEUSj-small.jpg)](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-pochtili-pamyat-rossijskih-zhurnalistov-pogibshih-v-zone-svo-i-goryachih-tochkah)
 
 [Активисты «Молодой Гвардии Единой России» и «Волонтёрской Роты» почтили память российских журналистов, погибших в зоне СВО и горячих точках](https://er.ru/activity/news/aktivisty-molodoj-gvardii-edinoj-rossii-i-volontyorskoj-roty-pochtili-pamyat-rossijskih-zhurnalistov-pogibshih-v-zone-svo-i-goryachih-tochkah)
@@ -304,38 +336,6 @@
 [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#народнаяпрограммаЕР](https://er.ru/activity/news?tags%5B0%5D=1093363)
 
 15.12.24
-
-[![Владимир Якушев: Сокращение состава Президиума Генсовета «Единой России» даст возможность чаще встречаться очно и проговаривать рабочие моменты](https://cdn.er.ru/media/news/December2024/h1ET09RpmFMPwTweB2Di-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-sokrashenie-sostava-prezidiuma-gensoveta-edinoj-rossii-dast-vozmozhnost-chashe-vstrechatsya-ochno-i-progovarivat-rabochie-momenty)
-
-[Владимир Якушев: Сокращение состава Президиума Генсовета «Единой России» даст возможность чаще встречаться очно и проговаривать рабочие моменты](https://er.ru/activity/news/vladimir-yakushev-sokrashenie-sostava-prezidiuma-gensoveta-edinoj-rossii-dast-vozmozhnost-chashe-vstrechatsya-ochno-i-progovarivat-rabochie-momenty)
-
-[#ПрезидиумГенсовета](https://er.ru/activity/news?tags%5B0%5D=115061) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#Грибов](https://er.ru/activity/news?tags%5B0%5D=13023) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#сторонники](https://er.ru/activity/news?tags%5B0%5D=663) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#МКС](https://er.ru/activity/news?tags%5B0%5D=3392) [#межрегиональныйкоординационныйсовет](https://er.ru/activity/news?tags%5B0%5D=130824)
-
-15.12.24
-
-[![Владимир Якушев избран секретарём Генсовета «Единой России»](https://cdn.er.ru/media/news/December2024/pDIC1VNZGnuEg85JtWJo-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-izbran-sekretaryom-gensoveta-edinoj-rossii)
-
-[Владимир Якушев избран секретарём Генсовета «Единой России»](https://er.ru/activity/news/vladimir-yakushev-izbran-sekretaryom-gensoveta-edinoj-rossii)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#секретарьгенсовета](https://er.ru/activity/news?tags%5B0%5D=111802) [#ГенсоветЕР](https://er.ru/activity/news?tags%5B0%5D=144794)
-
-14.12.24
-
-[![«Единая Россия» внесла изменения в народную программу партии](https://cdn.er.ru/media/news/December2024/mjF4ghSQD3d7MXVskDQH-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-izmeneniya-v-narodnuyu-programmu-partii)
-
-[«Единая Россия» внесла изменения в народную программу партии](https://er.ru/activity/news/edinaya-rossiya-vnesla-izmeneniya-v-narodnuyu-programmu-partii)
-
-[#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
-
-14.12.24
-
-[![«Единая Россия» на Съезде обновила состав Генерального совета](https://cdn.er.ru/media/news/December2024/5JKZKbOd9JMCN41Juim7-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-na-sezde-obnovila-sostav-generalnogo-soveta)
-
-[«Единая Россия» на Съезде обновила состав Генерального совета](https://er.ru/activity/news/edinaya-rossiya-na-sezde-obnovila-sostav-generalnogo-soveta)
-
-[#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#ротация](https://er.ru/activity/news?tags%5B0%5D=1628) [#ПГС](https://er.ru/activity/news?tags%5B0%5D=2749)
-
-14.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
