@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[Last Minute Holiday Shopping | 15% Off Sitewide!](https://www.thehomesecuritysuperstore.com/collections/homepage-high-recommended-products?utm_source=website&utm_medium=banner&utm_campaign=Last+Minute+Holiday+Shopping+15%25+Off+Sitewide)
+[Buy 1 Get 1 Free Keychain Weapons I Click Here!](https://www.thehomesecuritysuperstore.com/collections/bogo-free-keychain-weapons?utm_source=website&utm_medium=banner&utm_campaign=Buy+1+Get+1+Free+Keychain+Weapons)
 
-TODAY'S OFFER: :: | Last Minute Holiday Shopping | 15% Off Sitewide!
+TODAY'S OFFER: :: | Buy 1 Get 1 Free Keychain Weapons I Click Here!
 
 TODAY'S OFFER: : :
 
- Last Minute Holiday Shopping 15% Off Sitewide!
+ Buy 1 Get 1 Free Keychain Weapons I Click Here!
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
