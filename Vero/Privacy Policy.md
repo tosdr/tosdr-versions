@@ -61,7 +61,21 @@ Open Menu Close Menu
 Privacy Policy
 ==============
 
-Effective Date: June 30, 2024
+**RECENT CHANGES**
+
+We regularly review our policies to ensure we’re presenting important information to our Members in a clear and straightforward way that’s easy to understand. We periodically update our Privacy Policy and other policies like our [Terms of Use](https://vero.co/terms-of-use) and [Community Guidelines](https://vero.co/community-guidelines) as we introduce new services and features, respond to new laws around the world, and protect your privacy and rights.
+
+**Here are some highlights of what we’ve updated in our Privacy Policy:**
+
+* We have recently updated our Privacy Policy to reflect our certification to the Data Privacy Framework (DPF), a set of privacy obligations designed to ensure that personal data transferred from the European Union, the UK and Switzerland to the United States receives an equivalent level of protection as it would under European, UK or Swiss law. Our participation in the Data Privacy Framework reflects our commitment to continue to meet high standards of data privacy and security, and ensuring your personal information is handled with care, transparency, and in compliance with the Data Privacy Framework principles. 
+    
+* For more information about the Data Privacy Framework principles and to view our certification, please visit the US Department of Commerce’s [Data Privacy Framework website](https://www.dataprivacyframework.gov/s/).
+    
+
+**VERO Privacy Policy**
+-----------------------
+
+### **Revised: December 16, 2024**
 
 Welcome to VERO, the online and mobile social networking service of VERO Labs, Inc. (“VERO,” “we,” or “us”).
 
@@ -69,9 +83,9 @@ VERO respects your privacy. It’s one of the core values of our social network.
 
 The purpose of this privacy policy (“Privacy Policy”) is to help explain how we collect, use, protect, and disclose information and data when you use the VERO website (the “Site”) and any VERO mobile application (including the “VERO App”), application programming interfaces, and other services we offer (collectively the “Services”).
 
-This Privacy Policy also explains your choices about the collection and use of your information, including opting out of certain uses of your Personal Information (defined below). This Privacy Policy applies to all users of the VERO Website and Services. In addition to the Privacy Policy, please also read our Terms of Use.
+This Privacy Policy also explains your choices about the collection and use of your information, including opting out of certain uses of your Personal Information (defined below). This Privacy Policy applies to all users of the VERO Website and Services. In addition to the Privacy Policy, please also read our [Terms of Use](https://vero.co/terms-of-use).
 
-Your use of VERO Services is at all times subject to the Terms of Use and it’s where you can find any terms not directly defined in this Privacy Policy.
+Your use of VERO Services is at all times subject to the [Terms of Use](https://vero.co/terms-of-use) and it’s where you can find any terms not directly defined in this Privacy Policy.
 
 We have tried to make this Privacy Policy clear and easy to understand, and we recommend you read it carefully. If you have any questions about this policy, please get in touch with us at [\[email protected\]](https://vero.co/cdn-cgi/l/email-protection) and the team will be happy to help.
 
@@ -115,16 +129,18 @@ You may control your information in the following ways:
 
 You may be asked to provide us with Personal Information when you register with or use the VERO Website, the VERO App, or any of our other Services, and at other times.
 
-In addition, we collect the following information but solely for security purposes. We make use of security tools such as anti-fraud / hacking detection and code decompile detectors in our app that are designed to further protect your data and require us to collect the following information:
+In addition, we collect the following information for security purposes. We make use of security tools such as anti-fraud / hacking detection and code decompile detectors in our app that are designed to further protect your data and require us to collect the following information:
 
 * device identifiers, operating system and log data (e.g., the date/time of visit, the time spent on our Services, the electronic path taken to our Services, through our Services and when exiting our Services, and any errors that may occur during the visit to our Services); and
     
 * IP address; and
     
-* and general geographic location based on IP address or device location.
+* and general geographic location based on IP address or device location. 
     
 
-This data is only used for security purposes in using tools to guard against bad actors like frauds and hackers and their malicious code / bots and not for any other purpose.
+This data is used for security purposes in using tools to guard against bad actors like frauds and hackers and their malicious code / bots and not for any other purpose.
+
+If you report a problem with the VERO App to us, we may also ask you to send log data to us to enable us to diagnose and fix that problem. 
 
 **Usage Info:** If you opt into this feature, we also automatically collect how much time you are spending in the app (“Usage Info”), which powers the “Usage Info” feature on the VERO App. If you choose to enable it, this feature shows your time spent on the VERO App broken out by days and times to better inform you of how you use the VERO App – no other user can access this information. This information is only stored on your device, your iCloud account (if on iOS), and anonymized and encrypted on our servers.
 
@@ -165,7 +181,7 @@ We collect information from the following sources:
 
 **We collect information directly from you**. We collect contact and certain identifying information directly from you when you register for an account on the VERO App. Also, if you choose to cross-reference your contact list on your device with the list of users on the VERO App, your contacts’ phone numbers (though not their names) may be used and stored to allow you to: invite your contacts to the VERO App, connect with those who are also already on the VERO App, or provide you with updates if and when your contacts join the VERO App.
 
-[**We collect information from your activity on the Services**. We automatically collect information regarding the actions you take on the VERO App and Site (“Analytics Data”), which we use for our own analytical purposes to improve the VERO App and our other Services. All Analytics Data collected from the App is anonymized and aggregated. We do not share Analytics Data from the App with any third parties other than our Service Provider which provides us the analytics platform. Analytics Data collected from certain portions of the VERO Website may be used for advertising purposes. Please see below and the “](#yui_3_17_2_1_1733783121752_410)[Third-Party](https://vero.co/privacy-policy#thirdpartydata) [Data Collection and Online Advertising” sections of our Privacy Policy for more information.](#yui_3_17_2_1_1733783121752_410)
+**We collect information from your activity on the Services**. We automatically collect information regarding the actions you take on the VERO App and Site (“Analytics Data”), which we use for our own analytical purposes to improve the VERO App and our other Services. All Analytics Data collected from the App is anonymized and aggregated. We do not share Analytics Data from the App with any third parties other than our Service Provider which provides us the analytics platform. Analytics Data collected from certain portions of the VERO Website may be used for advertising purposes. Please see below and the “Third-Party Data Collection and Online Advertising” sections of our Privacy Policy for more information.
 
 **Advertising and referrals**. We do not display advertising on the VERO website or app, but we may collect certain identifying information (e.g. device ID, or IP address) and Internet or other electronic activity on certain portions of the VERO website passively using tools like browser cookies, SDKs, and other similar technologies through Service Providers for referral tracking. For example, if you click on one of our ads for the VERO App on another website, we may track that action and market the VERO App to you through another ad. We may also use this information for our own analytics purposes to improve the VERO app and our other Services. This activity is further described in the “[Cookies and Anonymous Identifiers](#Cookies-And-Anonymous-Identifiers) and “[Third-Party Data Collection and Online Advertising](https://vero.co/privacy-policy#thirdpartydata)” sections below.
 
@@ -185,7 +201,7 @@ We cooperate with government and law enforcement officials and private parties (
 
 **Ad Networks and Advertising Partners**
 
-[We work with third-party ad networks and advertising partners to deliver advertising and personalized content promoting the VERO app on other websites and services. These parties may collect information directly from a browser or device when an individual visits our Website through cookies or other data collection technologies. This information is used to provide and inform targeted advertising, as well as to provide advertising-related services such as reporting, attribution, analytics and market research. For more information, please see the “Third-Party Data Collection and Online Advertising” section.](https://vero.co/privacy-policy#thirdpartydata)
+We work with third-party ad networks and advertising partners to deliver advertising and personalized content promoting the VERO app on other websites and services. These parties may collect information directly from a browser or device when an individual visits our Website through cookies or other data collection technologies. This information is used to provide and inform targeted advertising, as well as to provide advertising-related services such as reporting, attribution, analytics and market research. For more information, please see the “Third-Party Data Collection and Online Advertising” section.
 
 **Cookies and Anonymous Identifiers**
 
@@ -219,14 +235,14 @@ We do not display third party advertising on the VERO Website, the VERO App, or 
 
 Specifically, we permit third party online advertising networks, social media companies and other third-party services, to collect information about your use of the VERO Website over time so that they may play or display ads for our products and services on other websites or services you may use, and on other devices you may use. Typically, though not always, the information used for interest-based advertising is collected through tracking technologies, such as cookies, web beacons, embedded scripts, location-identifying technologies, and similar technology, which recognize the device you are using and collect information, including click stream information, browser type, time and date you visited the VERO Websites, AdID, and other similar information. If permitted by your device settings, they may also collect location data through GPS, Wi-Fi or other methods. We and our third-party partners use this information to make the advertisements you see online more relevant to your interests, as well as to provide advertising-related services such as reporting, attribution, analytics and market research. We may also use services provided by third parties (such as social media platforms) to serve targeted ads to you and others on such platforms.
 
- We may engage in the following:
+We may engage in the following:
 
 *  **Social Media Platforms**. We may display targeted advertising to you through social media platforms, such as Facebook, Twitter, Instagram, Pinterest, and other social media forums. These companies have interest-based advertising programs that allow us to direct advertisements to users who have shown interest in our services while those users are on the social media platform, or to groups of other users who share similar traits, such as likely commercial interests and demographics. They may collect information from our website visitors through a first-party pixel, in order to direct targeted advertising to you or to a custom audience on the social media platform. These advertisements are governed by the privacy policies of those social media companies that provide them. If you do not want to receive targeted ads on your social networks, you may be able to adjust your advertising preferences through your settings on those networks.
     
 * **Third Party Partners**.  We work with certain third-party partners to provide advertising-related services, including on specific portions of the VERO Website. We do this to promote VERO on third party websites. For example, we use Google Analytics to recognize you and link the devices you use when you visit specific portions of the VERO Website on your browser or mobile device or otherwise engage with us.  We share a unique identifier with Google to facilitate the service. Google Analytics allows us to better understand how our users interact with our Services and to tailor our advertisements and content to you.  For information on how Google Analytics collects and processes data, as well as how you can control information sent to Google, review Google's website, “How Google uses data when you use our partners’ sites or apps” located at [http://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). You can learn about Google Analytics’ currently available opt-outs, including the Google Analytics Browser Ad-On here: [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/).
     
 
- We may also utilize certain forms of display advertising and other advanced features through Google Analytics to advertise our Services to you on third party websites. These features enable us to use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the Google Ads advertising cookie) or other third-party cookies together to inform, optimize, and display ads based on your past visits to the Services.  You may control your advertising preferences or opt-out of certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at  [https://google.com/ads/preferences,](https://google.com/ads/preferences,) or by visiting NAI’s online resources at  [http://www.networkadvertising.org/choices.](http://www.networkadvertising.org/choices.)
+We may also utilize certain forms of display advertising and other advanced features through Google Analytics to advertise our Services to you on third party websites. These features enable us to use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the Google Ads advertising cookie) or other third-party cookies together to inform, optimize, and display ads based on your past visits to the Services.  You may control your advertising preferences or opt-out of certain Google advertising products by visiting the Google Ads Preferences Manager, currently available at  [https://google.com/ads/preferences,](https://google.com/ads/preferences,) or by visiting NAI’s online resources at  [http://www.networkadvertising.org/choices.](http://www.networkadvertising.org/choices.)
 
 To learn more about interest-based advertising and how you may be able to opt-out of some of this advertising, you may wish to visit the Digital Advertising Alliance’s (DAA) resources and/or the Network Advertising Initiative’s (NAI) online resources, at [http://www.aboutads.info/choices](http://www.aboutads.info/choices) or [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/). You may also be able to limit interest-based advertising through the settings menu on your mobile device by selecting “limit ad tracking” (iOS) or “opt-out of interest-based ads” (Android).  You may also be able to opt-out of some — but not all — interest-based advertising served by mobile ad networks by visiting [http://youradchoices.com/appchoices](http://youradchoices.com/appchoices) and downloading the mobile AppChoices app.
 
@@ -250,7 +266,49 @@ Please be aware that your Personal Information and communications may be transfe
 
 **11) EU, UK and Switzerland Residents**
 
-If you are located in EU, UK, or Switzerland, please see the “[Additional EU, UK and Switzerland Privacy Disclosures](#Additional-EU-UK-And-Switzerland-Privacy-Disclosures)” for additional EU, UK and Switzerland -specific privacy disclosures.
+If you are located in EU, UK, or Switzerland, please see the “[Additional EU, UK and Switzerland Privacy Disclosures](#Additional-EU-UK-And-Switzerland-Privacy-Disclosures)” for additional EU, UK and Switzerland-specific privacy disclosures.
+
+_Important Notice for Individuals of the European Economic Area, United Kingdom, and Switzerland_
+
+VERO complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF), as set forth by the U.S. Department of Commerce. VERO has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal information received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. VERO has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal information received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+
+VERO is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). 
+
+_Complaints per the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF_
+
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF Principles, VERO commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to the DPF Principles. European Union, UK, or Swiss individuals with inquiries or complaints regarding this notice should first contact VERO at [\[email protected\]](https://vero.co/cdn-cgi/l/email-protection).
+
+VERO has committed to refer unresolved privacy complaints under the Data Privacy Framework Principles to an independent dispute resolution mechanism, the [JAMS](https://www.jamsadr.com/submit/) dispute resolution mechanism. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please [visit JAMS](https://www.jamsadr.com/submit/) for more information and to file a complaint. This service is provided free of charge to you.
+
+If your DPF complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See DPF Annex 1 at [https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2). 
+
+_Onward Transfer to Third Parties_
+
+In the event that we disclose your personal information to third parties to perform certain business-related services on our behalf as our “agents” (as such term is utilized under the Data Privacy Framework), we will do so only for limited and specified purposes consistent with any notice provided to you or your choices regarding processing and disclosure. These companies perform services at our instruction and pursuant to contracts which require they provide at least the same level of privacy protection as is required under the Data Privacy Framework and notify us if they are no longer able to provide such protections, at which point we will take reasonable remedial steps. We may also disclose personal information to our affiliates in order to support marketing, sale, and delivery of any services, or other business operations as disclosed in this Privacy Policy.
+
+VERO’s accountability for personal information that it receives under the DPF and subsequently transfers to a third party is described in the [DPF Principles](https://www.dataprivacyframework.gov/s/article/3-ACCOUNTABILITY-FOR-ONWARD-TRANSFER-dpf?tabset-35584=2). In particular, VERO remains responsible and liable under the DPF Principles if third-party agents that it engages to process the personal information on its behalf do so in a manner inconsistent with the Principles, unless VERO proves that it is not responsible for the event giving rise to the damage.
+
+In certain situations, we may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+_Option to Limit Certain Onward Transfers to Third Parties_
+
+Individuals have the opportunity to opt-out of sharing of their personal information with third parties other than our agents or before we use it for a purpose other than which it was originally collected or subsequently authorized. To limit the use and disclosure of your personal information under the Data Privacy Framework, please submit a written request to [\[email protected\]](https://vero.co/cdn-cgi/l/email-protection) indicating as such.
+
+We will not disclose your sensitive personal information to any third party without first obtaining your opt-in consent. 
+
+In each instance, please allow us a reasonable time to process your response.
+
+_Your DPF Rights_
+
+Upon request to [\[email protected\]](https://vero.co/cdn-cgi/l/email-protection), we will confirm whether we are processing your personal information pursuant to the DPF and provide you with the data within a reasonable time. You also have the right to correct, amend, or delete the personal information processed pursuant to the DPF where it is inaccurate or has been processed in violation of our privacy disclosures to you, except where the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy in the case in question, or where the rights of persons other than the individual would be violated. We may require payment of a non-excessive fee to defray our expenses in this regard. Please allow us a reasonable time to respond to your inquiries and requests.
+
+_Personal Information Retention_
+
+We will retain the personal information processed pursuant to the DPF in a form that identifies you pursuant to our retention policy described above. We may continue processing such personal information for longer periods, but only for the time and to the extent such processing reasonably serves the purposes of archiving in the public interest, journalism, literature and art, scientific or historical research and statistical analysis, and subject to the protection of our privacy disclosures. After such time periods have expired, we may either delete your personal information or retain it in a form such that it does not identify you personally.
+
+_How We Protect Your Data_
+
+We will implement reasonable and appropriate security measures to protect your personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction, taking into account the risks involved in processing and the nature of such data. 
 
 **12) How Long Does VERO Keep Information About Me**
 
@@ -268,7 +326,7 @@ We may change this Privacy Policy from time to time. If we decide to change this
 
 If you have any questions about this Privacy Policy or the Services, please contact us at any time at [\[email protected\]](https://vero.co/cdn-cgi/l/email-protection).
 
-**ADDITIONAL U.S. STATE PRIVACY DISCLOSURES**
+### **ADDITIONAL U.S. STATE PRIVACY DISCLOSURES**
 
 **For Nevada Residents**: If you are a resident of the State of Nevada, Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt out of future sales of certain covered information that a website operator has collected or will collect about the resident. Although we do not sell covered information, please contact us at [\[email protected\]](https://vero.co/cdn-cgi/l/email-protection) with the subject line “Nevada Opt Out Request” to submit such a request.
 
@@ -398,7 +456,7 @@ Depending on your state of residency, you may be able to appeal a decision we ha
 * Virginia Residents: If your appeal is denied, you may contact the Virginia Attorney General to submit a complaint [here](https://www.oag.state.va.us/consumercomplaintform/form/start?AspxAutoDetectCookieSupport=1).
     
 
-**CALIFORNIA-SPECIFIC DISCLOSURES**
+### **CALIFORNIA-SPECIFIC DISCLOSURES**
 
 The following disclosures only apply to residents of the State of California.
 
@@ -430,7 +488,9 @@ For more information about our collection of personal information, the sources o
 
 In addition, please see the “[Third-Party Data Collection and Online Advertising](#Third-Party-Data-Collection-and-Online-Advertising)” section of the Privacy Policy to learn more about the specific circumstances in which third-party advertising networks, social media companies and other third party businesses collect and disclose your personal information directly from your browser or device through cookies or tracking technologies when you visit or interact with certain portions of our websites.
 
-**Minors**. We do not sell the personal information and do not have actual knowledge that we sell the personal information of minors under 16 years of age unless we have obtained any applicable consents. If you are between the ages of 13-16 and would like to opt into the sale or sharing of your personal information for targeted advertising purposes, please email us at [\[email protected\]](https://vero.co/cdn-cgi/l/email-protection).
+**Minors**.
+
+We do not sell the personal information and do not have actual knowledge that we sell the personal information of minors under 16 years of age unless we have obtained any applicable consents.
 
 If you are under the age of 18 and you want to remove your name or comments from our website or publicly displayed content, please contact us directly at [\[email protected\]](https://vero.co/cdn-cgi/l/email-protection). We may not be able to modify or delete your information in all circumstances.
 
@@ -439,7 +499,7 @@ If you wish to submit a privacy request on behalf of your minor child in accorda
 * **“Shine the Light”**. The California “Shine the Light” law gives residents of California the right under certain circumstances to request information from us regarding the manner in which we share certain categories of personal information (as defined in the Shine the Light law) with third parties for their direct marketing purposes. We do not share personal information with third parties for the third parties’ direct marketing purposes (Civ. Code §1798.83).
     
 
-**ADDITIONAL EU, UK AND SWITZERLAND PRIVACY DISCLOSURES**
+### **ADDITIONAL EU, UK AND SWITZERLAND PRIVACY DISCLOSURES**
 
 1. **OUR APPROACH TO PRIVACY**
     
@@ -450,7 +510,7 @@ If you wish to submit a privacy request on behalf of your minor child in accorda
 
 2. **WHO IS RESPONSIBLE FOR YOUR PERSONAL DATA?**
 
-VERO Labs, Inc., a company duly incorporated and organised under the laws of the United States of America, having its registered address at 101 W 23rd St., Suite 2394, New York, NY 10011, USA is the data controller of the personal data we hold about you. This means that we determine and are responsible for how your personal data is used.
+VERO Labs, Inc., a company duly incorporated and organised under the laws of the United States of America, having its registered address at 228 Park Avenue S, Suite 131065, New York, NY 10003-1502, USA is the data controller of the personal data we hold about you. This means that we determine and are responsible for how your personal data is used.
 
 3. **PERSONAL DATA WE COLLECT ABOUT YOU AND HOW WE USE IT**
 
