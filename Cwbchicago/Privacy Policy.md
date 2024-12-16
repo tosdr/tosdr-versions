@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/blur-lights-generic-326x245.jpg)](https://cwbchicago.com/2024/12/cpd-terminates-chase-of-bucktown-robbery-crew-as-payouts-for-pursuit-crashes-mount.html "CPD terminates chase of Bucktown robbery crew as payouts for pursuit crashes mount")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Tayvon-Andrews-and-David-Brantley-326x245.jpg)](https://cwbchicago.com/2024/12/goose-island-carjackers-busted-after-pursuit-by-cpd-helicopter-and-state-police-report-says.html "Goose Island carjackers busted after pursuit by CPD helicopter and state police, report says")
 
-Bucktown
+Goose Island
 
-### [CPD terminates chase of Bucktown robbery crew as payouts for pursuit crashes mount](https://cwbchicago.com/2024/12/cpd-terminates-chase-of-bucktown-robbery-crew-as-payouts-for-pursuit-crashes-mount.html "CPD terminates chase of Bucktown robbery crew as payouts for pursuit crashes mount")
+### [Goose Island carjackers busted after pursuit by CPD helicopter and state police, report says](https://cwbchicago.com/2024/12/goose-island-carjackers-busted-after-pursuit-by-cpd-helicopter-and-state-police-report-says.html "Goose Island carjackers busted after pursuit by CPD helicopter and state police, report says")
 
-[December 12, 2024 10:23 AM](https://cwbchicago.com/2024/12)
+[December 13, 2024 8:16 AM](https://cwbchicago.com/2024/12)
 
-Shortly after armed robbers mugged a man in Bucktown on Wednesday night, Chicago cops located and began chasing the group’s getaway car. About three minutes later, a police supervisor, somewhat reluctantly, ordered an end to the pursuit. Earlier in the day, a jury awarded nearly $80 million to the family of a child killed by a driver who was being chased by CPD.[](https://cwbchicago.com/2024/12/cpd-terminates-chase-of-bucktown-robbery-crew-as-payouts-for-pursuit-crashes-mount.html "CPD terminates chase of Bucktown robbery crew as payouts for pursuit crashes mount")
+Two men are sitting in the Cook County jail, accused of carjacking an Uber Eats driver near Goose Island. And they can thank one of Chicago’s most effective apprehension partnerships: a CPD helicopter and Illinois State Police ground units.[](https://cwbchicago.com/2024/12/goose-island-carjackers-busted-after-pursuit-by-cpd-helicopter-and-state-police-report-says.html "Goose Island carjackers busted after pursuit by CPD helicopter and state police, report says")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Kenneth-Merrit-Damarri-Conner-326x245.jpg)](https://cwbchicago.com/2024/12/feds-charge-2-men-accused-in-violent-carjacking-robbery-that-went-viral.html "Feds charge 2 men with violent carjacking that went viral")
+[![](https://cwbchicago.com/wp-content/uploads/2023/12/Carlos-Pascual-Gomez-326x245.jpg)](https://cwbchicago.com/2024/12/migrant-gets-2-years-for-stabbing-man-at-grand-red-line-station.html "Migrant gets 2 years for stabbing man at Grand Red Line station")
 
-Beverly
+CTA
 
-### [Feds charge 2 men with violent carjacking that went viral](https://cwbchicago.com/2024/12/feds-charge-2-men-accused-in-violent-carjacking-robbery-that-went-viral.html "Feds charge 2 men with violent carjacking that went viral")
+### [Migrant gets 2 years for stabbing man at Grand Red Line station](https://cwbchicago.com/2024/12/migrant-gets-2-years-for-stabbing-man-at-grand-red-line-station.html "Migrant gets 2 years for stabbing man at Grand Red Line station")
 
-[December 12, 2024 4:44 AM](https://cwbchicago.com/2024/12)
+[December 13, 2024 6:30 AM](https://cwbchicago.com/2024/12)
 
-Bring on the feds! Two men accused of participating in one of last year’s most memorable crimes are now fighting federal charges in the case. A grand jury returned an indictment against Kenneth “Kenny Mac” Merritt and Damarri “Marri” Conner, charging them with federal counts of using a firearm during the commission of a violent crime and carjacking, according to court records.[](https://cwbchicago.com/2024/12/feds-charge-2-men-accused-in-violent-carjacking-robbery-that-went-viral.html "Feds charge 2 men with violent carjacking that went viral")
+A migrant who faced attempted murder charges for stabbing a man at the Grand Red Line station one year ago has pleaded guilty to a lesser charge. Judge Peggy Chiampas gave Carlos Pascual Gomez, 33, a two-year sentence on Wednesday for aggravated battery with a deadly weapon.[](https://cwbchicago.com/2024/12/migrant-gets-2-years-for-stabbing-man-at-grand-red-line-station.html "Migrant gets 2 years for stabbing man at Grand Red Line station")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/2300-kimball-326x245.jpg)](https://cwbchicago.com/2024/12/car-to-car-shootout-leaves-one-dead-in-logan-square.html "Car-to-car shootout leaves one dead in Logan Square")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Karris-Turner-r-326x245.jpg)](https://cwbchicago.com/2024/12/10-days-after-getting-out-of-prison-man-caused-5-car-expressway-crash-that-left-woman-paralyzed-officials-say.html "10 days after getting out of prison, man caused 5 car expressway crash that left woman paralyzed, officials say")
 
-Logan Square
+Fuller Park
 
-### [Car-to-car shootout leaves one dead in Logan Square](https://cwbchicago.com/2024/12/car-to-car-shootout-leaves-one-dead-in-logan-square.html "Car-to-car shootout leaves one dead in Logan Square")
+### [10 days after getting out of prison, man caused 5 car expressway crash that left woman paralyzed, officials say](https://cwbchicago.com/2024/12/10-days-after-getting-out-of-prison-man-caused-5-car-expressway-crash-that-left-woman-paralyzed-officials-say.html "10 days after getting out of prison, man caused 5 car expressway crash that left woman paralyzed, officials say")
 
-[December 12, 2024 4:10 AM](https://cwbchicago.com/2024/12)
+[December 12, 2024 11:29 AM](https://cwbchicago.com/2024/12)
 
-A shootout between the occupants of two cars ended with one man dead in Logan Square on Wednesday evening, according to Chicago police.[](https://cwbchicago.com/2024/12/car-to-car-shootout-leaves-one-dead-in-logan-square.html "Car-to-car shootout leaves one dead in Logan Square")
+Just ten days after getting out of prison for his eighth felony conviction, Karris Turner caused a crash on the Dan Ryan Expressway that left a woman paralyzed and his new girlfriend with two badly broken legs, officials say.[](https://cwbchicago.com/2024/12/10-days-after-getting-out-of-prison-man-caused-5-car-expressway-crash-that-left-woman-paralyzed-officials-say.html "10 days after getting out of prison, man caused 5 car expressway crash that left woman paralyzed, officials say")
 
 #### Daily email newsletter
 
