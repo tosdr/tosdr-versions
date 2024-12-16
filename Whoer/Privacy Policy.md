@@ -6,6 +6,7 @@
 * [Antidetect Browser](https://wade.is/?utm_source=whoer&utm_campaign=header_main)
 * Services
     * [Proxy](https://lteboost.com/en?ref=whoerTopBanner)
+    * [DDoS Protection](https://ddos-guard.net/?utm_source=whoer-en&utm_medium=menu-button&utm_campaign=whoer_menu-button_ny25_en)
     * [Speed test](https://whoer.net/speedtest)
     * [Ping](https://whoer.net/ping)
     * [Whois](https://whoer.net/checkwhois)
@@ -22,6 +23,7 @@
 * [Download](https://whoer.net/download)
 * [Antidetect](https://wade.is/?utm_source=whoer&utm_campaign=header_main)
 * [Proxy](https://lteboost.com/en?ref=whoerTopBanner)
+* [DDoS Protection](https://ddos-guard.net/?utm_source=whoer-en&utm_medium=menu-button&utm_campaign=whoer_menu-button_ny25_en)
 * [Speed test](https://whoer.net/speedtest)
 * [Ping](https://whoer.net/ping)
 * [Whois](https://whoer.net/checkwhois)
@@ -193,6 +195,7 @@ Services
 * [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=footer)
 * [Free VPN](https://whoer.net/vpn/trial)
 * [Proxy](https://lteboost.com/en?ref=whoerBottomBanner)
+* [DDoS Protection](https://ddos-guard.net/?utm_source=whoer-en&utm_medium=menu-button&utm_campaign=whoer_menu-button_ny25_en)
 * [Speed test](https://whoer.net/speedtest)
 * [Ping](https://whoer.net/ping)
 * [Whois](https://whoer.net/checkwhois)
