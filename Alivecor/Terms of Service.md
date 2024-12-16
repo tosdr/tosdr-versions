@@ -1,4 +1,4 @@
-[Holiday Sale: Get $20 OFF KardiaMobile 6L | Shop Now](https://store.kardia.com/products/kardiamobile6l)
+[Holiday Sale: Get $30 OFF KardiaMobile 6L | Shop Now](https://store.kardia.com/products/kardiamobile6l)
 
 [![AliveCor Logo](/_next/static/media/kardia.2422ce05.svg)](https://www.kardia.com/en)
 
