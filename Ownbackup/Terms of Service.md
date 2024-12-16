@@ -128,13 +128,13 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Own Secure
-
-Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
-
 [Events
 
 Unlocking Value: Key Insights from Own 2024 Customer Events](https://www.ownbackup.com/blog/unlocking-value-key-insights-from-own-2024-customer-events)
+
+[Own Secure
+
+Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
 
 [Company News
 
@@ -352,13 +352,13 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Own Secure
-
-Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
-
 [Events
 
 Unlocking Value: Key Insights from Own 2024 Customer Events](https://www.ownbackup.com/blog/unlocking-value-key-insights-from-own-2024-customer-events)
+
+[Own Secure
+
+Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
 
 [Company News
 
