@@ -109,7 +109,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_39316201_menu)
+ [Compartilhar](#elShareItem_1782397690_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -304,7 +304,7 @@ As regras do Clube do Hardware poderão ser atualizadas periodicamente, sem avis
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1563625382_menu)
+ [Compartilhar](#elShareItem_155698367_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -347,105 +347,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Vinicius1332](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/teste.thumb.jpg.69c6a9c13d7b7cf3d2bf646a7833fca2.jpg)](https://www.clubedohardware.com.br/profile/991594-vinicius1332/ "Ir ao perfil de Vinicius1332")
+    * [![JACK-s](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258014.thumb.png.b79a5575cadf4e8aa92c78a1249626fd.png)](https://www.clubedohardware.com.br/profile/1258014-jack-s/ "Ir ao perfil de JACK-s")
         
-        4
+        0
         
-        [memória RAM Juhor DDR4 2666MHZ vs DDR4 3200mhz (Ryzen 5 5500)](https://www.clubedohardware.com.br/forums/topic/1705666-mem%C3%B3ria-ram-juhor-ddr4-2666mhz-vs-ddr4-3200mhz-ryzen-5-5500/?do=getNewComment "memória RAM Juhor DDR4 2666MHZ vs DDR4 3200mhz (Ryzen 5 5500)")
+        [Minha placa de Vídeo está travada e n entrega os fps esperado](https://www.clubedohardware.com.br/forums/topic/1705690-minha-placa-de-v%C3%ADdeo-est%C3%A1-travada-e-n-entrega-os-fps-esperado/?do=getNewComment "Minha placa de Vídeo está travada e n entrega os fps esperado")
         
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Vinicius1332](https://www.clubedohardware.com.br/profile/991594-vinicius1332/ "Ir ao perfil de Vinicius1332")  
-        54 minutos atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [JACK-s](https://www.clubedohardware.com.br/profile/1258014-jack-s/ "Ir ao perfil de JACK-s")  
+        20 minutos atrás
         
-    * [![leoca](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253477.thumb.png.27807af6d24bf398a9280255b749e0d5.png)](https://www.clubedohardware.com.br/profile/1253477-leoca/ "Ir ao perfil de leoca")
+    * [![Tailson696](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258013.thumb.png.eafcf5597efe07c00d20477f6dd552dc.png)](https://www.clubedohardware.com.br/profile/1258013-tailson696/ "Ir ao perfil de Tailson696")
+        
+        0
+        
+        [Minhas teclas não estão funcionando corretamente](https://www.clubedohardware.com.br/forums/topic/1705688-minhas-teclas-n%C3%A3o-est%C3%A3o-funcionando-corretamente/?do=getNewComment "Minhas teclas não estão funcionando corretamente")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [Tailson696](https://www.clubedohardware.com.br/profile/1258013-tailson696/ "Ir ao perfil de Tailson696")  
+        57 minutos atrás
+        
+    * [![1japavlr](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/animeloud.thumb.jpeg.a934e6cbc70c8b157af2505985246c52.jpeg)](https://www.clubedohardware.com.br/profile/1256832-1japavlr/ "Ir ao perfil de 1japavlr")
+        
+        0
+        
+        [Monitor para Edição de Vídeo e Jogos](https://www.clubedohardware.com.br/forums/topic/1705686-monitor-para-edi%C3%A7%C3%A3o-de-v%C3%ADdeo-e-jogos/?do=getNewComment "Monitor para Edição de Vídeo e Jogos")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [1japavlr](https://www.clubedohardware.com.br/profile/1256832-1japavlr/ "Ir ao perfil de 1japavlr")  
+        2 horas atrás
+        
+    * [![wo0nderwall](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258010.thumb.jpeg.660fc657d432ba26eb4a0152a5cff259.jpeg)](https://www.clubedohardware.com.br/profile/1258010-wo0nderwall/ "Ir ao perfil de wo0nderwall")
         
         2
         
-        [placa-mãe para Ryzen 7 5700x3d](https://www.clubedohardware.com.br/forums/topic/1705665-placa-m%C3%A3e-para-ryzen-7-5700x3d/?do=getNewComment "placa-mãe para Ryzen 7 5700x3d")
+        [Pc desliga o monitor e o teclado DO NADA! As vezes apenas congela a tela.](https://www.clubedohardware.com.br/forums/topic/1705685-pc-desliga-o-monitor-e-o-teclado-do-nada-as-vezes-apenas-congela-a-tela/?do=getNewComment "Pc desliga o monitor e o teclado DO NADA! As vezes apenas congela a tela.")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [leoca](https://www.clubedohardware.com.br/profile/1253477-leoca/ "Ir ao perfil de leoca")  
-        1 hora atrás
+        [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
+        Por [wo0nderwall](https://www.clubedohardware.com.br/profile/1258010-wo0nderwall/ "Ir ao perfil de wo0nderwall")  
+        2 horas atrás
         
-    * [![Yuri Renan](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1196898.thumb.jpeg.118376c45b139b556ec999f1ab7d310f.jpeg)](https://www.clubedohardware.com.br/profile/1196898-yuri-renan/ "Ir ao perfil de Yuri Renan")
+    * [![uilians macario](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1221739.thumb.jpeg.6716ea218f3a977a71af745c2bb0f731.jpeg)](https://www.clubedohardware.com.br/profile/1221739-uilians-macario/ "Ir ao perfil de uilians macario")
         
         1
         
-        [placa-mãe maxxdigital h61 aceita water cooler?](https://www.clubedohardware.com.br/forums/topic/1705664-placa-m%C3%A3e-maxxdigital-h61-aceita-water-cooler/?do=getNewComment "placa-mãe maxxdigital h61 aceita water cooler?")
+        [Placa de vídeo Radeon RX 580 2048SP perde sinal durante jogos](https://www.clubedohardware.com.br/forums/topic/1705684-placa-de-v%C3%ADdeo-radeon-rx-580-2048sp-perde-sinal-durante-jogos/?do=getNewComment "Placa de vídeo Radeon RX 580 2048SP perde sinal durante jogos")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [uilians macario](https://www.clubedohardware.com.br/profile/1221739-uilians-macario/ "Ir ao perfil de uilians macario")  
+        3 horas atrás
+        
+    * [![Fabricio S S J](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462a0%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EFS%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1253956-fabricio-s-s-j/ "Ir ao perfil de Fabricio S S J")
+        
+        1
+        
+        [como medir a temperatura de uma apu?](https://www.clubedohardware.com.br/forums/topic/1705683-como-medir-a-temperatura-de-uma-apu/?do=getNewComment "como medir a temperatura de uma apu?")
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Yuri Renan](https://www.clubedohardware.com.br/profile/1196898-yuri-renan/ "Ir ao perfil de Yuri Renan")  
-        1 hora atrás
+        Por [Fabricio S S J](https://www.clubedohardware.com.br/profile/1253956-fabricio-s-s-j/ "Ir ao perfil de Fabricio S S J")  
+        3 horas atrás
         
-    * [![Pablo Gustavo h](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251694.thumb.png.2e4810e96b77040598f6114f5e176b5a.png)](https://www.clubedohardware.com.br/profile/1251694-pablo-gustavo-h/ "Ir ao perfil de Pablo Gustavo h")
-        
-        3
-        
-        [GTX 1050 cpuz reconhece, fan gira mas nada de dar imagem](https://www.clubedohardware.com.br/forums/topic/1705663-gtx-1050-cpuz-reconhece-fan-gira-mas-nada-de-dar-imagem/?do=getNewComment "GTX 1050 cpuz reconhece, fan gira mas nada de dar imagem")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Pablo Gustavo h](https://www.clubedohardware.com.br/profile/1251694-pablo-gustavo-h/ "Ir ao perfil de Pablo Gustavo h")  
-        1 hora atrás
-        
-    * [![Odavizera77](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258006.thumb.jpeg.6752a672cd4e04639e86273670fc2ece.jpeg)](https://www.clubedohardware.com.br/profile/1258006-odavizera77/ "Ir ao perfil de Odavizera77")
-        
-        3
-        
-        [Pc reiniciando durante o jogo - Intel Core I5 3470, AMD RX 580, Corsair CV 550](https://www.clubedohardware.com.br/forums/topic/1705662-pc-reiniciando-durante-o-jogo-intel-core-i5-3470-amd-rx-580-corsair-cv-550/?do=getNewComment "Pc reiniciando durante o jogo - Intel Core I5 3470, AMD RX 580, Corsair CV 550")
-        
-        [Computador reiniciando](https://www.clubedohardware.com.br/forums/forum/121-computador-reiniciando/ "Computador reiniciando")  
-        Por [Odavizera77](https://www.clubedohardware.com.br/profile/1258006-odavizera77/ "Ir ao perfil de Odavizera77")  
-        1 hora atrás
-        
-    * [![luwnc](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255023.thumb.jpeg.5402b264424e7f58604eb21dd868dab7.jpeg)](https://www.clubedohardware.com.br/profile/1255023-luwnc/ "Ir ao perfil de luwnc")
-        
-        1
-        
-        [Atualizei a BIOS da GPU AMD RX 470 para RX 570 e perdi opções de freesync](https://www.clubedohardware.com.br/forums/topic/1705661-atualizei-a-bios-da-gpu-amd-rx-470-para-rx-570-e-perdi-op%C3%A7%C3%B5es-de-freesync/?do=getNewComment "Atualizei a BIOS da GPU AMD RX 470 para RX 570 e perdi opções de freesync")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [luwnc](https://www.clubedohardware.com.br/profile/1255023-luwnc/ "Ir ao perfil de luwnc")  
-        1 hora atrás
-        
-    * [![Litt2](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1226465.thumb.png.034140813a43110bc97944323c82b454.png)](https://www.clubedohardware.com.br/profile/1226465-litt2/ "Ir ao perfil de Litt2")
-        
-        5
-        
-        [Bom PC 1080p? A520M A Pro, Ryzen 5 5500, 16GB e Radeon RX 6600?](https://www.clubedohardware.com.br/forums/topic/1705660-bom-pc-1080p-a520m-a-pro-ryzen-5-5500-16gb-e-radeon-rx-6600/?do=getNewComment "Bom PC 1080p? A520M A Pro, Ryzen 5 5500, 16GB e Radeon RX 6600?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Litt2](https://www.clubedohardware.com.br/profile/1226465-litt2/ "Ir ao perfil de Litt2")  
-        1 hora atrás
-        
-    * [![ArturKJS2](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257218.thumb.png.4d4539524ed9736aaa1d240febc52997.png)](https://www.clubedohardware.com.br/profile/1257218-arturkjs2/ "Ir ao perfil de ArturKJS2")
-        
-        5
-        
-        [Melhorar placa de vídeo até R$ 500,00?](https://www.clubedohardware.com.br/forums/topic/1705659-melhorar-placa-de-v%C3%ADdeo-at%C3%A9-r-50000/?do=getNewComment "Melhorar placa de vídeo até R$ 500,00?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [ArturKJS2](https://www.clubedohardware.com.br/profile/1257218-arturkjs2/ "Ir ao perfil de ArturKJS2")  
-        1 hora atrás
-        
-    * [![Fujsan](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258004.thumb.png.b261e358420c03ab0ce55804753a1267.png)](https://www.clubedohardware.com.br/profile/1258004-fujsan/ "Ir ao perfil de Fujsan")
-        
-        1
-        
-        [PC Liga vídeo só depois de esquentar](https://www.clubedohardware.com.br/forums/topic/1705658-pc-liga-v%C3%ADdeo-s%C3%B3-depois-de-esquentar/?do=getNewComment "PC Liga vídeo só depois de esquentar")
-        
-        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
-        Por [Fujsan](https://www.clubedohardware.com.br/profile/1258004-fujsan/ "Ir ao perfil de Fujsan")  
-        1 hora atrás
-        
-    * [![Raph123](https://www.clubedohardware.com.br/uploads/members/monthly_2022_04/Gorila-5-1.thumb.jpg.34b4f8e26bfc44a6b6979cfb25986767.jpg)](https://www.clubedohardware.com.br/profile/897516-raph123/ "Ir ao perfil de Raph123")
+    * [![Luis Eduardo Rbm](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257950.thumb.png.4f29fe9f17269aada9878de4a07267bf.png)](https://www.clubedohardware.com.br/profile/1257950-luis-eduardo-rbm/ "Ir ao perfil de Luis Eduardo Rbm")
         
         2
         
-        [Fonte Corsair CX 430 aguenta essa configuração](https://www.clubedohardware.com.br/forums/topic/1705657-fonte-corsair-cx-430-aguenta-essa-configura%C3%A7%C3%A3o/?do=getNewComment "Fonte Corsair CX 430 aguenta essa configuração")
+        [Recomendação de placa de vídeo. Focar em placa AMD? RX 6600? Orçamento R$ 1500](https://www.clubedohardware.com.br/forums/topic/1705682-recomenda%C3%A7%C3%A3o-de-placa-de-v%C3%ADdeo-focar-em-placa-amd-rx-6600-or%C3%A7amento-r-1500/?do=getNewComment "Recomendação de placa de vídeo. Focar em placa AMD? RX 6600? Orçamento R$ 1500")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Raph123](https://www.clubedohardware.com.br/profile/897516-raph123/ "Ir ao perfil de Raph123")  
-        2 horas atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Luis Eduardo Rbm](https://www.clubedohardware.com.br/profile/1257950-luis-eduardo-rbm/ "Ir ao perfil de Luis Eduardo Rbm")  
+        3 horas atrás
+        
+    * [![Robson Akiriel](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1174940.thumb.jpeg.6380c7423063cde310da7109040cd83b.jpeg)](https://www.clubedohardware.com.br/profile/1174940-robson-akiriel/ "Ir ao perfil de Robson Akiriel")
+        
+        2
+        
+        [PC trava no logo do Windows após upgrade da BIOS e troca de processador](https://www.clubedohardware.com.br/forums/topic/1705681-pc-trava-no-logo-do-windows-ap%C3%B3s-upgrade-da-bios-e-troca-de-processador/?do=getNewComment "PC trava no logo do Windows após upgrade da BIOS e troca de processador")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Robson Akiriel](https://www.clubedohardware.com.br/profile/1174940-robson-akiriel/ "Ir ao perfil de Robson Akiriel")  
+        4 horas atrás
+        
+    * [![j0otazz](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4bb62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1258009-j0otazz/ "Ir ao perfil de j0otazz")
+        
+        2
+        
+        [Placa-mãe B550M-K é uma boa opção para Ryzen 5 5500 com RTX 3060?](https://www.clubedohardware.com.br/forums/topic/1705680-placa-m%C3%A3e-b550m-k-%C3%A9-uma-boa-op%C3%A7%C3%A3o-para-ryzen-5-5500-com-rtx-3060/?do=getNewComment "Placa-mãe B550M-K é uma boa opção para Ryzen 5 5500 com RTX 3060?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [j0otazz](https://www.clubedohardware.com.br/profile/1258009-j0otazz/ "Ir ao perfil de j0otazz")  
+        4 horas atrás
+        
+    * [![Samuel Lourenço F. da Silv](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257237.thumb.png.50bd8c67b5746b19d0130efc69d6cadb.png)](https://www.clubedohardware.com.br/profile/1257237-samuel-louren%C3%A7o-f-da-silv/ "Ir ao perfil de Samuel Lourenço F. da Silv")
+        
+        3
+        
+        [Qual placa-mãe devo escolher?](https://www.clubedohardware.com.br/forums/topic/1705679-qual-placa-m%C3%A3e-devo-escolher/?do=getNewComment "Qual placa-mãe devo escolher?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Samuel Lourenço F. da Silv](https://www.clubedohardware.com.br/profile/1257237-samuel-louren%C3%A7o-f-da-silv/ "Ir ao perfil de Samuel Lourenço F. da Silv")  
+        4 horas atrás
         
     
 
