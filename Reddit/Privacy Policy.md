@@ -8,14 +8,6 @@ Expand user menu Open settings menu
 
 * [Log In / Sign Up](https://www.reddit.com/login/)* [Advertise on Reddit](https://accounts.reddit.com/adsregister?utm_source=web3x_consumer&utm_name=user_menu_cta)* [Shop Collectible Avatars](https://www.redditinc.com/avatar/shop)
 
-### Get the Reddit app
-
-Scan this QR code to download the app now
-
-Or check it out in the app stores
-
-[](https://play.google.com/store/apps/details?id=com.reddit.frontpage)[](https://apps.apple.com/US/app/id1064216828)
-
 Reddit Privacy Policy* [All](https://redditinc.com/policies/all)
 * [User Agreement](https://redditinc.com/policies/user-agreement)
 * [Reddit Privacy Policy](https://www.redditinc.com/policies/privacy-policy)
