@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Transformation
+[Creativity
 
-### The genial core of Jane Austen’s art](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1213/The-genial-core-of-Jane-Austen-s-art "The genial core of Jane Austen’s art")
+### Innovation by failure in Germany](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1216/Innovation-by-failure-in-Germany "Innovation by failure in Germany")
 
-[Hope
+[Community
 
-### Waves of joy flood Damascus. But an undercurrent of distrust lingers.](https://www.csmonitor.com/World/Middle-East/2024/1213/syria-islamist-rebels-governing-damascus-mood "Waves of joy flood Damascus. But an undercurrent of distrust lingers.")
+### Move over, Vikings. Sweden’s new seafaring heroes are knitting grannies.](https://www.csmonitor.com/The-Culture/Music/2024/1216/christmas-swedish-knitting-choir-gotland "Move over, Vikings. Sweden’s new seafaring heroes are knitting grannies.")
 
-[Freedom
+[Safety
 
-### Why Florida and almost half of US states are enshrining a right to hunt and fish](https://www.csmonitor.com/Environment/2024/1213/fishing-hunting-state-constitution-florida "Why Florida and almost half of US states are enshrining a right to hunt and fish")
+### Floods are battering South Sudan. This aid worker helps villagers plan for the worst.](https://www.csmonitor.com/World/Making-a-difference/2024/1216/south-sudan-flooding-light-for-the-world "Floods are battering South Sudan. This aid worker helps villagers plan for the worst.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### From shoeboxes to empty lots, Rio’s favela museums break with tradition](https://www.csmonitor.com/World/Americas/2024/1216/Brazil-Rio-Favela-Community-Museum-Art "From shoeboxes to empty lots, Rio’s favela museums break with tradition")
+[### Floods are battering South Sudan. This aid worker helps villagers plan for the worst.](https://www.csmonitor.com/World/Making-a-difference/2024/1216/south-sudan-flooding-light-for-the-world "Floods are battering South Sudan. This aid worker helps villagers plan for the worst.")
 
-[### West Africa regional bloc approves exit timeline for 3 coup-hit nations](https://www.csmonitor.com/World/Africa/2024/1215/west-africa-ecowas-niger-mali-burkina-faso "West Africa regional bloc approves exit timeline for 3 coup-hit nations")
+[### Some school districts lack busses and drivers. Ridesharing apps are filling the gap.](https://www.csmonitor.com/USA/2024/1216/school-bus-rideshare-apps "Some school districts lack busses and drivers. Ridesharing apps are filling the gap.")
 
-[### South Korean parliament votes to impeach president over his martial law order](https://www.csmonitor.com/World/Asia-Pacific/2024/1214/South-Korean-parliament-votes-to-impeach-president-over-his-martial-law-order "South Korean parliament votes to impeach president over his martial law order")
+[### Trump’s tariffs pressure Canada, but sealing the world’s longest land border isn’t easy](https://www.csmonitor.com/World/Americas/2024/1216/trump-deportation-migrants-canada-border "Trump’s tariffs pressure Canada, but sealing the world’s longest land border isn’t easy")
 
 * * *
 
