@@ -24,7 +24,7 @@ Send date
 
 Save Cancel
 
-**Free Economy Shipping On All Orders**
+[**Holiday Shipping Guidelines**](https://www.fjallraven.com/us/en-us/customer-service/shipping/)
 
 Back to
 
@@ -34,7 +34,7 @@ Back to
 
  [![](/4ab56e/globalassets/material-icons/gift-card-icom-01.png) Gift Cards](https://www.fjallraven.com/us/en-us/customer-service/gift-card-information/)[![](https://www.fjallraven.com/4a75b5/globalassets/fjallraven/us/homepage/2024/fjr_nav_pre-loved_rgb-4.svg)
 
-Pre-Loved](https://preloved.fjallraven.com/?utm_source=fjallraven&utm_medium=referral&utm_campaign=homepage) [Store Locator](https://www.fjallraven.com/us/en-us/store-locator/)
+Pre-Loved](https://preloved.fjallraven.com/?utm_source=fjallraven&utm_medium=referral&utm_campaign=homepage) [Store Locator](https://www.fjallraven.com/us/en-us/store-locater-north-america/)
 
 English | United States ($)
 
@@ -533,7 +533,7 @@ Asia
     * [![](https://www.fjallraven.com/4a75b5/globalassets/fjallraven/us/homepage/2024/fjr_nav_pre-loved_rgb-4.svg)
         
         Pre-Loved](https://preloved.fjallraven.com/?utm_source=fjallraven&utm_medium=referral&utm_campaign=homepage)
-    * [Store Locator](https://www.fjallraven.com/us/en-us/store-locator/)
+    * [Store Locator](https://www.fjallraven.com/us/en-us/store-locater-north-america/)
     * [My account](https://www.fjallraven.com/us/en-us/my-account/login/)
 
 [**Free 3-Day Shipping Until 12/17**](https://www.fjallraven.com/us/en-us/customer-service/shipping/)
@@ -845,7 +845,7 @@ Discover
 Discover
 
 * [Fjällräven Experience](https://experience.fjallraven.com/us/en-us)
-* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=c9d5f2f1-cb22-48df-984a-411927168bc8)
+* [Fjällräven Polar](https://experience.fjallraven.com/polar/2025?id=07645fed-fe9c-4a44-981e-461cd3ef0308)
 * [Fjällräven Classic](https://classic.fjallraven.com/)
 * [Our Community](https://www.fjallraven.com/us/en-us/our-community/)
 * Do Not Sell or Share My Personal Information
