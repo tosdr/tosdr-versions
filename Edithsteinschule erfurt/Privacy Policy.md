@@ -332,7 +332,7 @@ Im Rahmen der Verbesserung der Sicherheit sowohl für die hier gespeicherten Dat
 
 **16.12.2024 – 04.02.2025**
 
-Terminvereinbarung zur Schüleranmeldung hier online möglich
+Terminvereinbarung zur Schüleranmeldung [hier online](https://www.terminland.de/ess-erfurt/?m=31742) möglich
 
 **22.12.2024**
 
