@@ -1,4 +1,4 @@
-      
+       
 
 [![EDUCBA](https://www.educba.com/academy/wp-content/uploads/2023/06/mobile_website_logo_transparent_background.png)](https://www.educba.com/)
 
@@ -237,6 +237,7 @@ You agree that your completion of the registration procedure constitutes agreeme
 General provisions. In any dispute arising from the relationship between you and company or these terms of use, the prevailing party shall be entitled to reasonable attorneys’ fees and costs. The failure by company to enforce any right or provision under these terms of use shall not constitute a waiver of that provision or any other provision of these terms of use. If any provision of these terms of use shall be determined to be invalid or unenforceable by a court of competent jurisdiction, the other provisions shall remain in full force and effect
 
 Footer
+------
 
 ###### Follow us!
 
