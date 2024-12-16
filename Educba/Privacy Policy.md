@@ -1,4 +1,4 @@
-      
+       
 
 [![EDUCBA](https://www.educba.com/academy/wp-content/uploads/2023/06/mobile_website_logo_transparent_background.png)](https://www.educba.com/)
 
@@ -117,6 +117,7 @@ To help us improve and understand how people use EDUCBA. For example, cookies he
 We also work with a number of analytics partners, including Google Analytics, and Comm100, who use cookies and similar technologies to help us analyze how users use the Services, including by noting the sites from which you arrive. Those service providers may either collect that data themselves or we may disclose it to them.
 
 Footer
+------
 
 ###### Follow us!
 
