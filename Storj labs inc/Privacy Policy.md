@@ -80,9 +80,7 @@ Service Providers](https://www.storj.io/partner/service-providers)[![outline of 
 
 Resellers](https://www.storj.io/partner/resellers)[![outline of tilde symbol](https://cdn.prod.website-files.com/65d78d3b8dbb1f54a94020c7/660596203f1a66d48f0b22b3_Icon%20Weight%3Dlight%2C%20Icon%20List%3Dcode.svg)
 
-Technology Alliances](https://www.storj.io/partner/technology-alliance)[![outline of cloud symbol](https://cdn.prod.website-files.com/65d78d3b8dbb1f54a94020c7/66059620bf5a365b66c783a5_Icon%20Weight%3Dlight%2C%20Icon%20List%3Dcloud.svg)
-
-Storage Providers](https://www.storj.io/partner/storage-providers)[![outline of star](https://cdn.prod.website-files.com/65d78d3b8dbb1f54a94020c7/66059622a8a4ad4fffd7a01c_Icon%20Weight%3Dlight%2C%20Icon%20List%3Dstar.svg)
+Technology Alliances](https://www.storj.io/partner/technology-alliance)[![outline of star](https://cdn.prod.website-files.com/65d78d3b8dbb1f54a94020c7/66059622a8a4ad4fffd7a01c_Icon%20Weight%3Dlight%2C%20Icon%20List%3Dstar.svg)
 
 Partner Library](https://www.storj.io/partner/library)
 
@@ -370,7 +368,7 @@ Product
 
 **Company**
 
-[About](https://www.storj.io/company/about)[Careers](https://www.storj.io/company/careers)[News and events](https://www.storj.io/company/news-events)[Blog](https://www.storj.io/blog)[Resources](https://www.storj.io/resource-center)[Making a difference](https://www.storj.io/company/making-a-difference)[Media kit](https://www.storj.io/company/media-kit)
+[About](https://www.storj.io/company/about)[Careers](https://www.storj.io/company/careers)[News and events](https://www.storj.io/company/news-events)[Blog](https://www.storj.io/blog)[Resources](https://www.storj.io/resource-center)[Making a difference](https://www.storj.io/company/making-a-difference)[Media kit](https://www.storj.io/company/media-kit)[Storage providers](https://www.storj.io/partner/storage-providers)
 
 Support
 
