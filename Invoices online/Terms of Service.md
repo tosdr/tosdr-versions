@@ -196,61 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
+> Enjoying Invoices Online
 > ------------------------
 > 
-> Thanks Adriaan...
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
 > 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> I have upgraded to the Gold account in order to support you guys!
 
-Johan Botha - Brand Xplosion
+Shaun Gartshore
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=d4ac74bb2d81c34fda5eb6769b2c75cb8244b5a9f6f332adb653b3f3cacf2cfb&c=149493280)  
-Qothiphango Mining
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=4dc4a106a1be6747e6e8feb0de06dd2688c93e41ccd7ae163acbcf9c743f6215&c=110027229)  
+TechnoDezi PTY(LTD)
 
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=d4ac74bb2d81c34fda5eb6769b2c75cb8244b5a9f6f332adb653b3f3cacf2cfb&c=84301121)  
-kidoscabbie
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=4dc4a106a1be6747e6e8feb0de06dd2688c93e41ccd7ae163acbcf9c743f6215&c=211857525)  
+Karino Merinos ( PTY ) LTD
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=d4ac74bb2d81c34fda5eb6769b2c75cb8244b5a9f6f332adb653b3f3cacf2cfb&c=189507621)  
-Kainos (Pty) Ltd
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=4dc4a106a1be6747e6e8feb0de06dd2688c93e41ccd7ae163acbcf9c743f6215&c=13310102)  
+Cape Adventure Zone
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=d4ac74bb2d81c34fda5eb6769b2c75cb8244b5a9f6f332adb653b3f3cacf2cfb&c=29992746)  
-LEO DEVELOPMENT GROUP
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=4dc4a106a1be6747e6e8feb0de06dd2688c93e41ccd7ae163acbcf9c743f6215&c=184759942)  
+Super Sound Man (PTY) Ltd
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=d4ac74bb2d81c34fda5eb6769b2c75cb8244b5a9f6f332adb653b3f3cacf2cfb&c=29499515)  
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=4dc4a106a1be6747e6e8feb0de06dd2688c93e41ccd7ae163acbcf9c743f6215&c=37198080)  
+Environment Friendly Toilets (Pty) Ltd
+
+![valued client CBR PAINTS / VERWE](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=4dc4a106a1be6747e6e8feb0de06dd2688c93e41ccd7ae163acbcf9c743f6215&c=214479144)  
+CBR PAINTS / VERWE
+
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=4dc4a106a1be6747e6e8feb0de06dd2688c93e41ccd7ae163acbcf9c743f6215&c=123308216)  
 NIMAWELL
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=d4ac74bb2d81c34fda5eb6769b2c75cb8244b5a9f6f332adb653b3f3cacf2cfb&c=204552615)  
-McKaynine Mobility
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=4dc4a106a1be6747e6e8feb0de06dd2688c93e41ccd7ae163acbcf9c743f6215&c=122873785)  
+Little Nutty Professors
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=d4ac74bb2d81c34fda5eb6769b2c75cb8244b5a9f6f332adb653b3f3cacf2cfb&c=213656528)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=4dc4a106a1be6747e6e8feb0de06dd2688c93e41ccd7ae163acbcf9c743f6215&c=212749923)  
+Depot Diesel (Pty) Ltd
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=d4ac74bb2d81c34fda5eb6769b2c75cb8244b5a9f6f332adb653b3f3cacf2cfb&c=18487828)  
-FX ACCOUNTING
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=4dc4a106a1be6747e6e8feb0de06dd2688c93e41ccd7ae163acbcf9c743f6215&c=178272076)  
+IYD
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=d4ac74bb2d81c34fda5eb6769b2c75cb8244b5a9f6f332adb653b3f3cacf2cfb&c=80096901)  
-Myfinance-Online
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=4dc4a106a1be6747e6e8feb0de06dd2688c93e41ccd7ae163acbcf9c743f6215&c=43352907)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=d4ac74bb2d81c34fda5eb6769b2c75cb8244b5a9f6f332adb653b3f3cacf2cfb&c=86174696)  
-FlipDesign - Renovation Contracting Firm
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=4dc4a106a1be6747e6e8feb0de06dd2688c93e41ccd7ae163acbcf9c743f6215&c=144158575)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=d4ac74bb2d81c34fda5eb6769b2c75cb8244b5a9f6f332adb653b3f3cacf2cfb&c=171013173)  
-MSPCloud (Pty) Ltd
-
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=d4ac74bb2d81c34fda5eb6769b2c75cb8244b5a9f6f332adb653b3f3cacf2cfb&c=127204050)  
-VS Auto Spares and Repairs (Pty) LTD
-
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=d4ac74bb2d81c34fda5eb6769b2c75cb8244b5a9f6f332adb653b3f3cacf2cfb&c=27215210)  
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=4dc4a106a1be6747e6e8feb0de06dd2688c93e41ccd7ae163acbcf9c743f6215&c=204199721)  
 Printo
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=d4ac74bb2d81c34fda5eb6769b2c75cb8244b5a9f6f332adb653b3f3cacf2cfb&c=139386416)  
-Goju-Ryu Pretoria East
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=4dc4a106a1be6747e6e8feb0de06dd2688c93e41ccd7ae163acbcf9c743f6215&c=201731143)  
+Tagline Brands
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=d4ac74bb2d81c34fda5eb6769b2c75cb8244b5a9f6f332adb653b3f3cacf2cfb&c=155420110)  
-Tiny Cuddles Photography
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=4dc4a106a1be6747e6e8feb0de06dd2688c93e41ccd7ae163acbcf9c743f6215&c=56746456)  
+Norton Medical & Consult - Namibia
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
