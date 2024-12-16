@@ -1,3 +1,9 @@
+**
+
+The LWTech campus and Early Learning Center will be closed Monday, 12/16 due to a power outage. Employees, please coordinate with your supervisor.
+
+**close alert
+
 [Skip to Main Content](#mainContent)[Skip to Footer](#mainFooter)
 
 [Visit](https://www.lwtech.edu/admissions/campus-tour.aspx)[Give](https://www.lwtech.edu/foundation/bright-futures/index.aspx)[Get Started](https://www.lwtech.edu/admissions/get-started-at-lwtech.aspx)
