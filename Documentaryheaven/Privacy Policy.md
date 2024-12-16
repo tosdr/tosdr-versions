@@ -123,44 +123,44 @@ Advertisement
     Suicide
     
     Released in 2001, Suicide is a film directed by Eames Yates and explores the suicide of his own brother which occurred two years prior to this films release. Eames' brother Teddy was 40 when he shot h...](https://documentaryheaven.com/suicide/ "Suicide")
-* [![Dispatches: The Killing Zone](/wp-content/thumbnails/481-100x70.png?x53432)
+* [![September Clues](/wp-content/thumbnails/1588-100x70.jpg?x53432)
     
-    Dispatches: The Killing Zone
+    September Clues
     
-    While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
-* [![The Hour Of Our Time: The Legacy of William Cooper](/wp-content/thumbnails/1157-100x70.jpg?x53432)
+    This comprehensive analysis of the 9/11 broadcasts shows how the mainstream media actively participated in the 9/11 false-flag operation aimed at generating public support for illegal wars. This media...](https://documentaryheaven.com/september-clues/ "September Clues")
+* [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
     
-    The Hour Of Our Time: The Legacy of William Cooper
+    Pedigree Dogs Exposed
     
-    Surrounding us in our day-to-day lives are mysteries, that to spend our days pondering would paralyze us from leading productive lives. So we turn away from these thoughts in order to seek out as trou...](https://documentaryheaven.com/the-hour-of-our-time-the-legacy-of-william-cooper/ "The Hour Of Our Time: The Legacy of William Cooper")
+    Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
 
 ###### Throwback Documentaries
 
-* [![Soldier Child](/wp-content/thumbnails/6622-100x70.jpg?x53432)
+* [![Wolves in Chernobyl Dead Zone](/wp-content/thumbnails/6997-100x70.jpg?x53432)
     
-    Soldier Child
+    Wolves in Chernobyl Dead Zone
     
-    Since 1990, the people of Northern Uganda have watched in horror as tens of thousands of children have been kidnapped from their homes, marched to Sudan, and then trained as child soldiers in a rebel](https://documentaryheaven.com/soldier-child/ "Soldier Child")
-* [![The Sun (2007)](/wp-content/thumbnails/4559-100x70.jpg?x53432)
+    What happens to nature after a nuclear accident? And how does wildlife deal with the world it inherits after human inhabitants have fled?In 1986 a nuclear meltdown at the infamous Chernobyl power](https://documentaryheaven.com/wolves-in-chernobyl-dead-zone/ "Wolves in Chernobyl Dead Zone")
+* [![Seeing Stars](/wp-content/thumbnails/6132-100x70.jpg?x53432)
     
-    The Sun (2007)
+    Seeing Stars
     
-    This documentary explores the past, present and future of the star’s unique importance to Earth.The SOHO and TRACE satellites, as well as the Swedish solar telescope on Las Palmas, provide viewers](https://documentaryheaven.com/the-sun-2007/ "The Sun (2007)")
-* [![The Russians Are Coming](/wp-content/thumbnails/7951-100x70.jpeg?x53432)
+    Around the world, a new generation of astronomers are hunting for the most mysterious objects in the universe. Young stars, black holes, even other forms of life.They have created a dazzling new set](https://documentaryheaven.com/seeing-stars/ "Seeing Stars")
+* [![Baja Smugglers](/wp-content/thumbnails/7768-100x70.jpg?x53432)
     
-    The Russians Are Coming
+    Baja Smugglers
     
-    Russian money has poured into London, but is organised crime coming with it? Reporter Darragh MacIntyre investigates a death in a Russian prison that has brought the threat of violence to the UK. Coul](https://documentaryheaven.com/russians-are-coming/ "The Russians Are Coming")
-* [![Hunt for Manchester’s Serial Killer](/wp-content/thumbnails/10659-100x70.jpg?x53432)
+    Daredevil outlaws. The Mexican drug war. All night trips on small fishing boats called "pangas" that smuggle migrant workers & marijuana into the United States. This is Baja Smugglers.](https://documentaryheaven.com/baja-smugglers/ "Baja Smugglers")
+* [![Chronos](/wp-content/thumbnails/6367-100x70.jpg?x53432)
     
-    Hunt for Manchester’s Serial Killer
+    Chronos
     
-    There has been a lot of speculation lately surrounding the concept of there being a serial killer on the loose in the city Manchester in the United Kingdom. This hypothetical serial killer has been du](https://documentaryheaven.com/hunt-for-manchesters-serial-killer/ "Hunt for Manchester’s Serial Killer")
-* [![D Day to Berlin](/wp-content/thumbnails/6493-100x70.png?x53432)
+    Chronos is an abstract film made in 1985 and directed by Ron Fricke, created with custom-built time-lapse cameras. Chronos has no actors or dialog. The soundtrack consists of a single continuous piece](https://documentaryheaven.com/chronos/ "Chronos")
+* [![Brand Irish](/wp-content/thumbnails/16491-100x70.png?x53432)
     
-    D Day to Berlin
+    Brand Irish
     
-    From the moment that Allied forces established the first beachhead in Normandy on D-Day, the end of the war in Europe was in sight. But although many soldiers joked about being in ‘Berlin by Chri](https://documentaryheaven.com/d-day-to-berlin/ "D Day to Berlin")
+    If you feel as though you might understand the Irish then you may want to think again. For a small Island of just 4.9 million people, the impact this nation has around the world is incredible. Irelan](https://documentaryheaven.com/brand-irish/ "Brand Irish")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
