@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Defectors](/wp-content/thumbnails/9493-100x70.jpg?x53432)
+* [![Soldier Child](/wp-content/thumbnails/6622-100x70.jpg?x53432)
     
-    The Defectors
+    Soldier Child
     
-    In this Sky News special reporter Mark Stone meets up with several North Korean defectors in order to give them a chance to be heard and tell their story of how life once was for them living in the No](https://documentaryheaven.com/defectors/ "The Defectors")
-* [![We Ride: The Story of Snowboarding](/wp-content/thumbnails/7621-100x70.jpg?x53432)
+    Since 1990, the people of Northern Uganda have watched in horror as tens of thousands of children have been kidnapped from their homes, marched to Sudan, and then trained as child soldiers in a rebel](https://documentaryheaven.com/soldier-child/ "Soldier Child")
+* [![The Sun (2007)](/wp-content/thumbnails/4559-100x70.jpg?x53432)
     
-    We Ride: The Story of Snowboarding
+    The Sun (2007)
     
-    A compelling, dramatic and stylish cinematic journey into snowboarding’s unique history and the wider cultural forces that shaped it.Half a century ago, in his garage in the suburbs of Muskegon, M](https://documentaryheaven.com/we-ride-story-of-snowboarding/ "We Ride: The Story of Snowboarding")
-* [![For The Next Generation](/wp-content/thumbnails/5763-100x70.jpg?x53432)
+    This documentary explores the past, present and future of the star’s unique importance to Earth.The SOHO and TRACE satellites, as well as the Swedish solar telescope on Las Palmas, provide viewers](https://documentaryheaven.com/the-sun-2007/ "The Sun (2007)")
+* [![The Russians Are Coming](/wp-content/thumbnails/7951-100x70.jpeg?x53432)
     
-    For The Next Generation
+    The Russians Are Coming
     
-    A film aiming to inspire positive change in a time that is very difficult for many across the planet, and to spread awareness of some serious challenges that lie ahead.Question everything, includ](https://documentaryheaven.com/for-the-next-generation/ "For The Next Generation")
-* [![The Deep Earth](/wp-content/thumbnails/6696-100x70.png?x53432)
+    Russian money has poured into London, but is organised crime coming with it? Reporter Darragh MacIntyre investigates a death in a Russian prison that has brought the threat of violence to the UK. Coul](https://documentaryheaven.com/russians-are-coming/ "The Russians Are Coming")
+* [![Hunt for Manchester’s Serial Killer](/wp-content/thumbnails/10659-100x70.jpg?x53432)
     
-    The Deep Earth
+    Hunt for Manchester’s Serial Killer
     
-    Broadcast (1998) A curious feature of our planet’s surface is that it has two distinct levels: the dry land on the continents, on average a few hundred metres above sea level, and the ocean floor, mak](https://documentaryheaven.com/the-deep-earth/ "The Deep Earth")
-* [![Invisible Worlds: Speed Limits](/wp-content/thumbnails/5001-100x70.jpg?x53432)
+    There has been a lot of speculation lately surrounding the concept of there being a serial killer on the loose in the city Manchester in the United Kingdom. This hypothetical serial killer has been du](https://documentaryheaven.com/hunt-for-manchesters-serial-killer/ "Hunt for Manchester’s Serial Killer")
+* [![D Day to Berlin](/wp-content/thumbnails/6493-100x70.png?x53432)
     
-    Invisible Worlds: Speed Limits
+    D Day to Berlin
     
-    Speed Limits: Richard Hammond explores the extraordinary wonders of the world of detail hidden in the blink of an eye. The human eye takes about fifty milliseconds to blink. But it takes our brain aro](https://documentaryheaven.com/invisible-worlds-speed-limits/ "Invisible Worlds: Speed Limits")
+    From the moment that Allied forces established the first beachhead in Normandy on D-Day, the end of the war in Europe was in sight. But although many soldiers joked about being in ‘Berlin by Chri](https://documentaryheaven.com/d-day-to-berlin/ "D Day to Berlin")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
