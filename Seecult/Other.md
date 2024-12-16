@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tatjana-ilic/projekat-frekvencije/frekv.jpg?itok=bNmAkBNz)](http://seecult.org/galerija/galerija-umetnika/tatjana-ilic/projekat-frekvencije)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-papic/5-fotki-iz-foldera-quotsituacijaquot/situacijabilansodluka-3.jpg?itok=sZgF-DQD)](http://seecult.org/galerija/galerija-umetnika/dragan-papic/5-fotki-iz-foldera-situacija)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/groningen-gitarski-duo.jpg?itok=7MrXu1ID)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/maja-obradovic.jpg?itok=dcr2JRj8)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -314,6 +314,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Božidar Prodanović - zagonetnost realnih prizora](http://seecult.org/vest/bozidar-prodanovic-zagonetnost-realnih-prizora)
+* [28\. Festival podvodnog filma](http://seecult.org/vest/28-festival-podvodnog-filma)
 * [Preobražaj u JDP-u](http://seecult.org/vest/preobrazaj-u-jdp-u)
 * [Kultura uz studente u blokadi](http://seecult.org/vest/kultura-uz-studente-u-blokadi)
 * [Preminuo Volfgang Beker](http://seecult.org/vest/preminuo-volfgang-beker)
@@ -322,8 +324,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Ako ne kontrolišemo – ignorišemo, to je zvanična kulturna politika](http://seecult.org/vest/ako-ne-kontrolisemo-ignorisemo-je-zvanicna-kulturna-politika)
 * [Direktorka JDP ponovo u UO UTE](http://seecult.org/vest/direktorka-jdp-ponovo-u-uo-ute)
 * [Buden gost Filozofskog teatra](http://seecult.org/vest/buden-gost-filozofskog-teatra-0)
-* [Provokativna završnica 12. Vizualizatora](http://seecult.org/vest/provokativna-zavrsnica-12-vizualizatora)
-* [Posveta katedrali Notr-Dam](http://seecult.org/vest/posveta-katedrali-notr-dam)
 
 * [Konkursi](#tab1_1)
 
