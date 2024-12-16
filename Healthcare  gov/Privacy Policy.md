@@ -132,7 +132,7 @@ Featured
 
 Apply & enroll in 2025 coverage today
 
-[Beat the December 15 deadline to enroll in health coverage that starts January 1. Apply now.](https://www.healthcare.gov/apply-and-enroll/how-to-apply/)
+[Enroll by December 18 for health coverage that starts January 1. Apply now.](https://www.healthcare.gov/apply-and-enroll/how-to-apply/)
 
 [Get Answers](https://www.healthcare.gov/get-answers/)
 
