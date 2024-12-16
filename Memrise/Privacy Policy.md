@@ -54,6 +54,7 @@ Select page language
     * [Learn Galician](https://www.memrise.com/en/learn-galician)
     * [Learn Welsh](https://www.memrise.com/en/learn-welsh)
     * [Learn Somali](https://www.memrise.com/en/learn-somali)
+    * [Learn Hausa](https://www.memrise.com/en/learn-hausa)
 * [Courses](javascript:;)
     * [Arabic](https://www.memrise.com/en/learn-arabic/arabic-course)
     * [Chinese](https://www.memrise.com/en/learn-chinese/chinese-course)
@@ -420,5 +421,9 @@ If you have any questions about our Privacy Policy or our data practices, please
 * [Learn Somali](https://www.memrise.com/en/learn-somali)
 * [Mexican Spanish Course](https://www.memrise.com/en/learn-spanish/mexican-spanish-course)
 * [Mexican Spanish Phrasebook](https://www.memrise.com/en/learn-spanish/mexican-spanish-course/phrasebook)
+* [](javascript:;)
+* [Learn Hausa](https://www.memrise.com/en/learn-hausa)
+* [](javascript:;)
+* [](javascript:;)
 
 [Terms of Use](https://www.memrise.com/terms/) [Privacy Policy](https://www.memrise.com/privacy/) [Cookie Policy](https://www.memrise.com/cookies/)
