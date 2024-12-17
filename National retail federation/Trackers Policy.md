@@ -60,9 +60,9 @@ REGISTER NOW](https://nrfbigshow.nrf.com/)
 
 [Loss Prevention](https://nrf.com/resources/retail-safety-and-security-resource)[Sustainability](https://nrf.com/resources/nrf-center-retail-sustainability)[Cybersecurity](https://nrf.com/resources/nrf-center-digital-risk-innovation)[Retail Law](https://nrf.com/resources/retail-law-resource-center)
 
-[![Center for Retail and Consumer Insights](https://a-us.storyblok.com/f/1021220/1000x667/4f6ed0d787/2024nrf-nav-crci2-1000x667.jpg)
+[![Center for Retail & Consumer Insights](https://a-us.storyblok.com/f/1021220/1000x667/4f6ed0d787/2024nrf-nav-crci2-1000x667.jpg)
 
-Center for Retail and Consumer Insights
+Center for Retail & Consumer Insights
 
 LEARN MORE](https://nrf.com/research-insights/center-retail-consumer-insights/)
 
