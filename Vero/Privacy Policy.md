@@ -181,9 +181,9 @@ We collect information from the following sources:
 
 **We collect information directly from you**. We collect contact and certain identifying information directly from you when you register for an account on the VERO App. Also, if you choose to cross-reference your contact list on your device with the list of users on the VERO App, your contacts’ phone numbers (though not their names) may be used and stored to allow you to: invite your contacts to the VERO App, connect with those who are also already on the VERO App, or provide you with updates if and when your contacts join the VERO App.
 
-**We collect information from your activity on the Services**. We automatically collect information regarding the actions you take on the VERO App and Site (“Analytics Data”), which we use for our own analytical purposes to improve the VERO App and our other Services. All Analytics Data collected from the App is anonymized and aggregated. We do not share Analytics Data from the App with any third parties other than our Service Provider which provides us the analytics platform. Analytics Data collected from certain portions of the VERO Website may be used for advertising purposes. Please see below and the “Third-Party Data Collection and Online Advertising” sections of our Privacy Policy for more information.
+**We collect information from your activity on the Services**. We automatically collect information regarding the actions you take on the VERO App and Site (“Analytics Data”), which we use for our own analytical purposes to improve the VERO App and our other Services. All Analytics Data collected from the App is anonymized and aggregated. We do not share Analytics Data from the App with any third parties other than our Service Provider which provides us the analytics platform. Analytics Data collected from certain portions of the VERO Website may be used for advertising purposes. Please see below and the “[Third-Party Data Collection and Online Advertising](#Third-Party-Data-Collection-and-Online-Advertising)” sections of our Privacy Policy for more information.
 
-**Advertising and referrals**. We do not display advertising on the VERO website or app, but we may collect certain identifying information (e.g. device ID, or IP address) and Internet or other electronic activity on certain portions of the VERO website passively using tools like browser cookies, SDKs, and other similar technologies through Service Providers for referral tracking. For example, if you click on one of our ads for the VERO App on another website, we may track that action and market the VERO App to you through another ad. We may also use this information for our own analytics purposes to improve the VERO app and our other Services. This activity is further described in the “[Cookies and Anonymous Identifiers](#Cookies-And-Anonymous-Identifiers) and “[Third-Party Data Collection and Online Advertising](https://vero.co/privacy-policy#thirdpartydata)” sections below.
+**Advertising and referrals**. We do not display advertising on the VERO website or app, but we may collect certain identifying information (e.g. device ID, or IP address) and Internet or other electronic activity on certain portions of the VERO website passively using tools like browser cookies, SDKs, and other similar technologies through Service Providers for referral tracking. For example, if you click on one of our ads for the VERO App on another website, we may track that action and market the VERO App to you through another ad. We may also use this information for our own analytics purposes to improve the VERO app and our other Services. This activity is further described in the “[Cookies and Anonymous Identifiers](#Cookies-And-Anonymous-Identifiers ) and “[Third-Party Data Collection and Online Advertising](#Third-Party-Data-Collection-and-Online-Advertising)” sections below.
 
 **3) When We Share Information with Third Parties**
 
@@ -201,7 +201,7 @@ We cooperate with government and law enforcement officials and private parties (
 
 **Ad Networks and Advertising Partners**
 
-We work with third-party ad networks and advertising partners to deliver advertising and personalized content promoting the VERO app on other websites and services. These parties may collect information directly from a browser or device when an individual visits our Website through cookies or other data collection technologies. This information is used to provide and inform targeted advertising, as well as to provide advertising-related services such as reporting, attribution, analytics and market research. For more information, please see the “Third-Party Data Collection and Online Advertising” section.
+We work with third-party ad networks and advertising partners to deliver advertising and personalized content promoting the VERO app on other websites and services. These parties may collect information directly from a browser or device when an individual visits our Website through cookies or other data collection technologies. This information is used to provide and inform targeted advertising, as well as to provide advertising-related services such as reporting, attribution, analytics and market research. For more information, please see the “[Third-Party Data Collection and Online Advertising](#Third-Party-Data-Collection-and-Online-Advertising)” section.
 
 **Cookies and Anonymous Identifiers**
 
@@ -262,11 +262,11 @@ The VERO Website, the VERO App, and our other Services are intended for users wh
 
 **10) Location of Processing**
 
-Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country. We store and process the information that we collect in the United States in accordance with this Privacy Policy though our Service Providers may store and process data outside the United States. The laws in the United States may not be as protective of your privacy as those in your location. By using the VERO Website or Services, you agree that the collection, use, transfer, and disclosure of your Personal Information and communications will be governed by the applicable laws in the United States. If you are located in the EU, UK or Switzerland, please see the “[Additional EU, UK and Switzerland Privacy Disclosures](#Additional-EU-UK-And-Switzerland-Privacy-Disclosures)” for additional information about how your personal information may be transferred internationally.
+Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country. We store and process the information that we collect in the United States in accordance with this Privacy Policy though our Service Providers may store and process data outside the United States. The laws in the United States may not be as protective of your privacy as those in your location. By using the VERO Website or Services, you agree that the collection, use, transfer, and disclosure of your Personal Information and communications will be governed by the applicable laws in the United States. If you are located in the EU, UK or Switzerland, please see the “[Additional EU, UK and Switzerland Privacy Disclosures](#ADDITIONAL-EU-UK-AND-SWITZERLAND-PRIVACY-DISCLOSURES)” for additional information about how your personal information may be transferred internationally.
 
 **11) EU, UK and Switzerland Residents**
 
-If you are located in EU, UK, or Switzerland, please see the “[Additional EU, UK and Switzerland Privacy Disclosures](#Additional-EU-UK-And-Switzerland-Privacy-Disclosures)” for additional EU, UK and Switzerland-specific privacy disclosures.
+If you are located in EU, UK, or Switzerland, please see the “[Additional EU, UK and Switzerland Privacy Disclosures](#ADDITIONAL-EU-UK-AND-SWITZERLAND-PRIVACY-DISCLOSURES)” for additional EU, UK and Switzerland-specific privacy disclosures.
 
 _Important Notice for Individuals of the European Economic Area, United Kingdom, and Switzerland_
 
@@ -312,11 +312,11 @@ We will implement reasonable and appropriate security measures to protect your p
 
 **12) How Long Does VERO Keep Information About Me**
 
-Following termination or deactivation of your account, we may retain your profile information and user content for a commercially reasonable amount of time for backup, archival, or audit purposes, but in no event for longer than is allowed under applicable data protection laws. For individuals based in the EU, UK or Switzerland please see the “[Additional EU, UK and Switzerland Privacy Disclosures](#Additional-EU-UK-And-Switzerland-Privacy-Disclosures%22)”.
+Following termination or deactivation of your account, we may retain your profile information and user content for a commercially reasonable amount of time for backup, archival, or audit purposes, but in no event for longer than is allowed under applicable data protection laws. For individuals based in the EU, UK or Switzerland please see the “[Additional EU, UK and Switzerland Privacy Disclosures](#ADDITIONAL-EU-UK-AND-SWITZERLAND-PRIVACY-DISCLOSURES)”.
 
 **13) U.S. State Privacy Rights**
 
-If you are a resident of the States of California, Colorado, Connecticut, Nevada, Utah and Virginia, you have additional rights regarding your Personal Information. Please see the “[Additional U.S. State Privacy Disclosures](#Additional-US-State-Privacy-Disclosures)” below for additional information.
+If you are a resident of the States of California, Colorado, Connecticut, Nevada, Utah and Virginia, you have additional rights regarding your Personal Information. Please see the “[Additional U.S. State Privacy Disclosures](#ADDITIONAL-US-STATE-PRIVACY-DISCLOSURES)” below for additional information.
 
 **14) Privacy Policy Changes**
 
@@ -351,7 +351,7 @@ The categories of third parties to whom we may sell or share the personal inform
 * Social Networks
     
 
-We may also disclose personal information for the purposes described in the “[When We Share Information with Third Parties](#When-We-Share-Information-With-Third%20Parties)” section of our Privacy Policy.
+We may also disclose personal information for the purposes described in the “[When We Share Information with Third Parties](#When-We-Share-Information-with-Third-Parties)” section of our Privacy Policy.
 
 **Data Retention**
 
@@ -481,7 +481,7 @@ The following disclosures only apply to residents of the State of California.
 
 For more information about our collection of personal information, the sources of personal information, and how we use this information, please see the “[Information We Collect](#Information-We-Collect)” section of our Privacy Policy.
 
-* **Disclosure of Personal Information**. In the last 12 months, we may have disclosed all of the categories of information we collect for a business purpose to service providers or other third parties at the consumer’s direction, as outlined in the “When We Share Information with Third Parties” section of the Privacy Policy.
+* **Disclosure of Personal Information**. In the last 12 months, we may have disclosed all of the categories of information we collect for a business purpose to service providers or other third parties at the consumer’s direction, as outlined in the “[When We Share Information with Third Parties](#When-We-Share-Information-with-Third-Parties)” section of the Privacy Policy.
     
 * **Sale or Sharing of Personal Information**. In the last 12 months, we have “sold” or “shared” the following categories of personal information: Identifiers and Internet/Network Information. The categories of third parties to whom we “sell” or “share” your personal information may include: online advertising networks and analytics providers, and social networks.
     
@@ -808,7 +808,7 @@ VERO Labs, Inc., a company duly incorporated and organised under the laws of the
 
 6. **RECIPIENTS**
 
-We may share your personal data with the categories of third parties described in the “[When We Share Information with Third Parties](#When-We-Share-Information-With-Third%20Parties)" section of the main Privacy Policy above as well as at paragraphs 3 and 4 of this addendum (as required in accordance with the uses set out in Annex 1 and Annex 2).
+We may share your personal data with the categories of third parties described in the “[When We Share Information with Third Parties](#When-We-Share-Information-with-Third-Parties)" section of the main Privacy Policy above as well as at paragraphs 3 and 4 of this addendum (as required in accordance with the uses set out in Annex 1 and Annex 2).
 
 7. **MARKETING**
 
