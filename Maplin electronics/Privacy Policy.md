@@ -142,7 +142,7 @@ Browse
         * [to USB-A](https://www.maplin.co.uk/collections/usb-a-to-usb-a-cables)
         * [to Other](https://www.maplin.co.uk/collections/usb-a-to-other)
         * [USB-A Extension Cables](https://www.maplin.co.uk/collections/usb-a-extension-cables)
-        * [USB-A Adapters](https://www.maplin.co.uk/collections/usb-a-adapters-1)
+        * [USB-A Adapters](https://www.maplin.co.uk/collections/usb-a-adapters)
         * [USB-A Hubs](https://www.maplin.co.uk/collections/usb-a-hubs)
         
     * Lightning (iPhone)
@@ -963,7 +963,7 @@ Browse
     * [to USB-A](https://www.maplin.co.uk/collections/usb-a-to-usb-a-cables)
     * [to Other](https://www.maplin.co.uk/collections/usb-a-to-other)
     * [USB-A Extension Cables](https://www.maplin.co.uk/collections/usb-a-extension-cables)
-    * [USB-A Adapters](https://www.maplin.co.uk/collections/usb-a-adapters-1)
+    * [USB-A Adapters](https://www.maplin.co.uk/collections/usb-a-adapters)
     * [USB-A Hubs](https://www.maplin.co.uk/collections/usb-a-hubs)
     
     [Lightning (iPhone)](https://www.maplin.co.uk/collections/lightning-cables-adapters)
