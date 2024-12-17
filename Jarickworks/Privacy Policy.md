@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr faq how would left anarchy work](/freeblr/faq/how-would-left-anarchy-work/card.svg)](https://jarick.works/freeblr/faq/how-would-left-anarchy-work)[![freeblr government only cowards vote](/freeblr/government/only-cowards-vote/card.svg)](https://jarick.works/freeblr/government/only-cowards-vote)[![freeblr money the gold standard](/freeblr/money/the-gold-standard/card.svg)](https://jarick.works/freeblr/money/the-gold-standard)[![spekr what is mutualism](/spekr/what-is-mutualism/card.svg)](https://jarick.works/spekr/what-is-mutualism)
+[![freeblr economics kill private capital kill civilisation](/freeblr/economics/kill-private-capital-kill-civilisation/card.svg)](https://jarick.works/freeblr/economics/kill-private-capital-kill-civilisation)[![freeblr human nature freedom liberty peace happiness and prosperity](/freeblr/human-nature/freedom-liberty-peace-happiness-and-prosperity/card.svg)](https://jarick.works/freeblr/human-nature/freedom-liberty-peace-happiness-and-prosperity)[![freeblr faq what justifications are there for anarcho capitalism](/freeblr/faq/what-justifications-are-there-for-anarcho-capitalism/card.svg)](https://jarick.works/freeblr/faq/what-justifications-are-there-for-anarcho-capitalism)[![freeblr government the state a review](/freeblr/government/the-state-a-review/card.svg)](https://jarick.works/freeblr/government/the-state-a-review)
 
 [Follow](#follow)
 
