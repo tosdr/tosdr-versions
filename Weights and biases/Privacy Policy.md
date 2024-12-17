@@ -540,51 +540,67 @@ Copyright © Weights & Biases. All rights reserved.
     
     ##### Use cases
     
-    * [Careers](https://wandb.ai/site/careers/)
-    * [Trust & security](https://wandb.ai/site/security)
-    * [Legal](https://wandb.ai/site/legal-home/)
-    * [About Us](https://wandb.ai/site/company/about-us/)
+    * [Website terms of use](https://wandb.ai/site/website-terms-of-use)
+    * [Privacy policy](https://wandb.ai/site/privacy)
+    * [English](https://wandb.ai/site/privacy "English")
+        * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
+        * [한국어 (Korean)](https://wandb.ai/site/ko/privacy/ "Korean")
+        * [Deutsch (German)](https://wandb.ai/site/de/privacy/ "German")
     
-    * [Careers](https://wandb.ai/site/careers/)
-    * [Trust & security](https://wandb.ai/site/security)
-    * [Legal](https://wandb.ai/site/legal-home/)
-    * [About Us](https://wandb.ai/site/company/about-us/)
+    * [Website terms of use](https://wandb.ai/site/website-terms-of-use)
+    * [Privacy policy](https://wandb.ai/site/privacy)
+    * [English](https://wandb.ai/site/privacy "English")
+        * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
+        * [한국어 (Korean)](https://wandb.ai/site/ko/privacy/ "Korean")
+        * [Deutsch (German)](https://wandb.ai/site/de/privacy/ "German")
     
     ##### Industries
     
-    * [Careers](https://wandb.ai/site/careers/)
-    * [Trust & security](https://wandb.ai/site/security)
-    * [Legal](https://wandb.ai/site/legal-home/)
-    * [About Us](https://wandb.ai/site/company/about-us/)
+    * [Website terms of use](https://wandb.ai/site/website-terms-of-use)
+    * [Privacy policy](https://wandb.ai/site/privacy)
+    * [English](https://wandb.ai/site/privacy "English")
+        * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
+        * [한국어 (Korean)](https://wandb.ai/site/ko/privacy/ "Korean")
+        * [Deutsch (German)](https://wandb.ai/site/de/privacy/ "German")
     
-    * [Careers](https://wandb.ai/site/careers/)
-    * [Trust & security](https://wandb.ai/site/security)
-    * [Legal](https://wandb.ai/site/legal-home/)
-    * [About Us](https://wandb.ai/site/company/about-us/)
+    * [Website terms of use](https://wandb.ai/site/website-terms-of-use)
+    * [Privacy policy](https://wandb.ai/site/privacy)
+    * [English](https://wandb.ai/site/privacy "English")
+        * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
+        * [한국어 (Korean)](https://wandb.ai/site/ko/privacy/ "Korean")
+        * [Deutsch (German)](https://wandb.ai/site/de/privacy/ "German")
     
 * Ecosystem
     
     Close Ecosystem Open Ecosystem
     
-    * [Careers](https://wandb.ai/site/careers/)
-    * [Trust & security](https://wandb.ai/site/security)
-    * [Legal](https://wandb.ai/site/legal-home/)
-    * [About Us](https://wandb.ai/site/company/about-us/)
+    * [Website terms of use](https://wandb.ai/site/website-terms-of-use)
+    * [Privacy policy](https://wandb.ai/site/privacy)
+    * [English](https://wandb.ai/site/privacy "English")
+        * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
+        * [한국어 (Korean)](https://wandb.ai/site/ko/privacy/ "Korean")
+        * [Deutsch (German)](https://wandb.ai/site/de/privacy/ "German")
     
-    * [Careers](https://wandb.ai/site/careers/)
-    * [Trust & security](https://wandb.ai/site/security)
-    * [Legal](https://wandb.ai/site/legal-home/)
-    * [About Us](https://wandb.ai/site/company/about-us/)
+    * [Website terms of use](https://wandb.ai/site/website-terms-of-use)
+    * [Privacy policy](https://wandb.ai/site/privacy)
+    * [English](https://wandb.ai/site/privacy "English")
+        * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
+        * [한국어 (Korean)](https://wandb.ai/site/ko/privacy/ "Korean")
+        * [Deutsch (German)](https://wandb.ai/site/de/privacy/ "German")
     
-    * [Careers](https://wandb.ai/site/careers/)
-    * [Trust & security](https://wandb.ai/site/security)
-    * [Legal](https://wandb.ai/site/legal-home/)
-    * [About Us](https://wandb.ai/site/company/about-us/)
+    * [Website terms of use](https://wandb.ai/site/website-terms-of-use)
+    * [Privacy policy](https://wandb.ai/site/privacy)
+    * [English](https://wandb.ai/site/privacy "English")
+        * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
+        * [한국어 (Korean)](https://wandb.ai/site/ko/privacy/ "Korean")
+        * [Deutsch (German)](https://wandb.ai/site/de/privacy/ "German")
     
-    * [Careers](https://wandb.ai/site/careers/)
-    * [Trust & security](https://wandb.ai/site/security)
-    * [Legal](https://wandb.ai/site/legal-home/)
-    * [About Us](https://wandb.ai/site/company/about-us/)
+    * [Website terms of use](https://wandb.ai/site/website-terms-of-use)
+    * [Privacy policy](https://wandb.ai/site/privacy)
+    * [English](https://wandb.ai/site/privacy "English")
+        * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
+        * [한국어 (Korean)](https://wandb.ai/site/ko/privacy/ "Korean")
+        * [Deutsch (German)](https://wandb.ai/site/de/privacy/ "German")
     
 * [Docs](https://docs.wandb.ai/?_gl=1*5c2zod*_ga*MTkyNzM3MzY2Mi4xNjg2NzM3MzM0*_ga_JH1SJHJQXJ*MTY4Njg5NDA3MC4xNS4xLjE2ODY4OTcyMTIuNjAuMC4w)
     
@@ -594,26 +610,34 @@ Copyright © Weights & Biases. All rights reserved.
     
     Close Enterprise Open Enterprise
     
-    * [Careers](https://wandb.ai/site/careers/)
-    * [Trust & security](https://wandb.ai/site/security)
-    * [Legal](https://wandb.ai/site/legal-home/)
-    * [About Us](https://wandb.ai/site/company/about-us/)
+    * [Website terms of use](https://wandb.ai/site/website-terms-of-use)
+    * [Privacy policy](https://wandb.ai/site/privacy)
+    * [English](https://wandb.ai/site/privacy "English")
+        * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
+        * [한국어 (Korean)](https://wandb.ai/site/ko/privacy/ "Korean")
+        * [Deutsch (German)](https://wandb.ai/site/de/privacy/ "German")
     
-    * [Careers](https://wandb.ai/site/careers/)
-    * [Trust & security](https://wandb.ai/site/security)
-    * [Legal](https://wandb.ai/site/legal-home/)
-    * [About Us](https://wandb.ai/site/company/about-us/)
+    * [Website terms of use](https://wandb.ai/site/website-terms-of-use)
+    * [Privacy policy](https://wandb.ai/site/privacy)
+    * [English](https://wandb.ai/site/privacy "English")
+        * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
+        * [한국어 (Korean)](https://wandb.ai/site/ko/privacy/ "Korean")
+        * [Deutsch (German)](https://wandb.ai/site/de/privacy/ "German")
     
 * Company
     
     Close Company Open Company
     
-    * [Careers](https://wandb.ai/site/careers/)
-    * [Trust & security](https://wandb.ai/site/security)
-    * [Legal](https://wandb.ai/site/legal-home/)
-    * [About Us](https://wandb.ai/site/company/about-us/)
+    * [Website terms of use](https://wandb.ai/site/website-terms-of-use)
+    * [Privacy policy](https://wandb.ai/site/privacy)
+    * [English](https://wandb.ai/site/privacy "English")
+        * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
+        * [한국어 (Korean)](https://wandb.ai/site/ko/privacy/ "Korean")
+        * [Deutsch (German)](https://wandb.ai/site/de/privacy/ "German")
     
-    * [Careers](https://wandb.ai/site/careers/)
-    * [Trust & security](https://wandb.ai/site/security)
-    * [Legal](https://wandb.ai/site/legal-home/)
-    * [About Us](https://wandb.ai/site/company/about-us/)
+    * [Website terms of use](https://wandb.ai/site/website-terms-of-use)
+    * [Privacy policy](https://wandb.ai/site/privacy)
+    * [English](https://wandb.ai/site/privacy "English")
+        * [日本語 (Japanese)](https://wandb.ai/site/ja/privacy/ "Japanese")
+        * [한국어 (Korean)](https://wandb.ai/site/ko/privacy/ "Korean")
+        * [Deutsch (German)](https://wandb.ai/site/de/privacy/ "German")
