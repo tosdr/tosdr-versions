@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![A Cold Place to Live Outside: Homelessness in the Canadian Arctic](/wp-content/thumbnails/8091-100x70.jpg?x53432)
+* [![Scientology And Me](/wp-content/thumbnails/822-100x70.png?x53432)
     
-    A Cold Place to Live Outside: Homelessness in the Canadian Arctic
+    Scientology And Me
     
-    This film is a part of a research project being lead by Dr. Michael Young in the School of Humanitarian Studies. It documents some of the problems associated with homelessness, addictions and mental h](https://documentaryheaven.com/homelessness-canadian-arctic/ "A Cold Place to Live Outside: Homelessness in the Canadian Arctic")
-* [![I Am Heath Ledger](/wp-content/thumbnails/14195-100x70.jpg?x53432)
+    John Sweeney investigates the Church of Scientology, endorsed by some major Hollywood celebrities, but which continues to face the criticism that it is less of a religion and more of a cult. Some form](https://documentaryheaven.com/scientology-and-me/ "Scientology And Me")
+* [![The Killing Fields: Enemies of the People](/wp-content/thumbnails/6734-100x70.jpg?x53432)
     
-    I Am Heath Ledger
+    The Killing Fields: Enemies of the People
     
-    I Am Heath Ledger is a new feature length film which details the life of hollywood actor Heath Ledger. It is a celebration of his life which was tragically cut short in 2008 when Ledger pass](https://documentaryheaven.com/i-am-heath-ledger/ "I Am Heath Ledger")
-* [![The Sustainable City](/wp-content/thumbnails/2469-100x70.jpg?x53432)
+    One of the most harrowing and compelling personal documentaries of our time, ENEMIES OF THE PEOPLE exposes for the first time the truth about the Killing Fields and the Khmer Rouge who were behind Cam](https://documentaryheaven.com/the-killing-fields-enemies-of-the-people/ "The Killing Fields: Enemies of the People")
+* [![Seven Wonders of the Microbe World (combined)](/wp-content/thumbnails/6259-100x70.jpg?x53432)
     
-    The Sustainable City
+    Seven Wonders of the Microbe World (combined)
     
-    Today, the way ecology is being incorporated into architecture has evolved considerably. Sustainable architecture, or green architecture, aims to minimize the negative impact of buildings on the envir](https://documentaryheaven.com/the-sustainable-city/ "The Sustainable City")
-* [![Dreamville Presents: REVENGE](/wp-content/thumbnails/14618-100x70.jpeg?x53432)
+    From black death to cholera, microbes have been resonsible for some of the worlds most devastating diseases. But at the same time this tiny single cell organisms have aided our survival on earth helpi](https://documentaryheaven.com/seven-wonders-of-the-microbe-world-combined/ "Seven Wonders of the Microbe World (combined)")
+* [![Alan and Marcus Go Forth and Multiply](/wp-content/thumbnails/2950-100x70.jpg?x53432)
     
-    Dreamville Presents: REVENGE
+    Alan and Marcus Go Forth and Multiply
     
-    Hip Hop artist J. Cole released his latest album Revenge of The Dreamers III on July 5th (2019), the album was accompanied by a 30 minute documentary Dreamville Presents: REVENGE. A film which pro](https://documentaryheaven.com/dreamville-presents-revenge/ "Dreamville Presents: REVENGE")
-* [![America in Color: The 1920s](/wp-content/thumbnails/13948-100x70.jpg?x53432)
+    Ever since he was at school, actor and comedian Alan Davies has hated maths. And like many people, he is not much good at it either. But Alan has always had a sneaking suspicion that he was missing ou](https://documentaryheaven.com/alan-and-marcus-go-forth-and-multiply/ "Alan and Marcus Go Forth and Multiply")
+* [![Iraq for Sale: The War Profiteers](/wp-content/thumbnails/3387-100x70.jpg?x53432)
     
-    America in Color: The 1920s
+    Iraq for Sale: The War Profiteers
     
-    This is the story of America, seen in color for the first time and it's the roaring 20's, the country is flourishing and the economy isn't the only thing roaring. Henry Ford ignites the auto industry,](https://documentaryheaven.com/america-in-color-1920s/ "America in Color: The 1920s")
+    Join documentary filmmaker Robert Greenwald (Wal-Mart: The High Cost of Low Price, Outfoxed) in assessing the damage done to average Americans when corporations decide to wage war. For critics of the](https://documentaryheaven.com/iraq-for-sale/ "Iraq for Sale: The War Profiteers")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
