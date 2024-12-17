@@ -275,6 +275,13 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
+![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live-grey.svg)
+
+GHSA Football State Championship 1A Division 1 : Northeast vs Toombs County at 1 P.M.
+-------------------------------------------------------------------------------------
+
+[WATCH LIVE](https://www.gpb.org/sports/football/match/2024/12/17/2024-ghsa-1a-division-1-football-championship-northeast-vs-toombs)
+
 Messages
 --------
 
