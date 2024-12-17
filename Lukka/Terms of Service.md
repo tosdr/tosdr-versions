@@ -47,8 +47,6 @@
 * [Insights](https://lukka.tech/insights/)
 * [Trust Center](https://lukka.tech/trust-center/)
 
-Menu
-
 * Who We Serve
     * [Funds and Fund Administrators](https://lukka.tech/who-we-serve/funds-and-fund-administrators/)
     * [Traditional Financial Institutions](https://lukka.tech/who-we-serve/traditional-financial-institutions/)
@@ -147,8 +145,6 @@ Menu
 * [Insights](https://lukka.tech/insights/)
 * [Trust Center](https://lukka.tech/trust-center/)
 * [Contact Us](https://lukka.tech/contact-us/)
-
-Menu
 
 * Who We Serve
     * [Funds and Fund Administrators](https://lukka.tech/who-we-serve/funds-and-fund-administrators/)
