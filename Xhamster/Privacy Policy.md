@@ -28,7 +28,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223005%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D&xhStatsUid=6761535ccaffd0.079778486a7&xhSessionToken=7d4270d851c814d846b3eb3d7a8fcdac6277a432&xhSessionStartedAt=1734431580)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&xhStatsUid=6761a9136c1b82.1575492069c&xhSessionToken=ba5759afdab04bbaafef6f90f567fca76728138c&xhSessionStartedAt=1734453523)
 
 [Categories](https://xhamster.com/categories)
 
@@ -48,7 +48,7 @@ Sex Chat](https://xhamster.com/ff/out?utm_source=xhamster&utm_medium=menu&utm_ca
 
 Premium
 
-Sale](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=guest&utm_content=landingpage&exp=%7B%223005%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%7D)
+Sale](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_campaign=guest&utm_content=landingpage)
 
 [🔥AI Jerk Off](https://tsyndicate.com/api/v1/direct/82b7126ec17b4b8c8814dd0067da91ef)
 
@@ -62,7 +62,7 @@ AI Girlfriend](https://lovescape.com/?userId=9841b8dfe0948b15d2ade18982de21bd512
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
-[+14 MONTHS FREE 🌟🎄🎅 Grab the Once-a-Year Offer 🔥 JOIN FAPHOUSE](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=christmas-2024&utm_medium=desktop-headline)
+[Bored of PORN? 😈 Jerk off with REAL GIRLS in video chat TRY FOR FREE](https://xhamsterflirt.com/?utm_source=xhamster-headline&utm_medium=all-pages)
 
 Privacy Policy
 ==============
