@@ -115,21 +115,21 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
-   [![](https://img.atlasobscura.com/sOANvyOzZou1ZEJPn6fN5kDIi8u_z4cMfVm3jTIfaUE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wNzky/ZTRlZS00M2E4LTQw/YjAtYjNkNS0zMGQ2/ZGU2MzljZTM3MDNj/ZmMwZGE4YjUxOWZi/ZWNfMjAyNDExMDJf/MTIxNTQwLmpwZw.jpg)
+   [![Kiyomizu-Kannondo Temple and the pine tree.](https://img.atlasobscura.com/BXhWeZ2UKdfLKKKvrqk_IcMJ4avTZw_0WDp4ZmKiszU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81ZDg4/NjUxZi0wYWIzLTQ2/MmItOTc1My03YzM0/YTZhZGU3MWMwYThm/NWFhNTg5MTJiNTY2/YzZfMDdGQTgzOEQt/NEIxNi00RDQ0LUEz/NzUtMzQwNjE0NjJC/NDUxLmpwZWc.jpg)
+
+Moon Pine Tree](https://www.atlasobscura.com/places/moon-pine-tree)
+
+   [![The Poltalloch House has a long history behind it. ](https://img.atlasobscura.com/MXN75cjU_0Vhs2kSat8HKlj09fCjQ853wGbMoAnJemM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80NTc3/ODdlZS1hNDM3LTRh/ZjQtYTNmNi1jYjA0/YjU0MjBlNmIxNTM1/MjA1MWM1MTFhYTBj/OTBfSU1HXzgwNTQu/anBlZw.jpg)
+
+Poltalloch House](https://www.atlasobscura.com/places/poltalloch-house)
+
+   [![Entrance to the cemetery.](https://img.atlasobscura.com/mMmfUMir11LsVeu2EDFkqNWWjplfTt56v9mlTw71xno/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wMWJj/ZmFiNS02M2VlLTQ3/ZmEtYTg3YS00Y2Qz/OTJlNDdhODIyODk1/ODJmOTE0MTZhM2Iw/ZjNfUFhMXzIwMjQw/MzE3XzExMDUxNzEw/My5qcGc.jpg)
+
+Lumley Commonwealth War Grave Cemetery](https://www.atlasobscura.com/places/lumley-commonwealth-war-grave-cemetery)
+
+   [![Malmö Spetsbunker](https://img.atlasobscura.com/sOANvyOzZou1ZEJPn6fN5kDIi8u_z4cMfVm3jTIfaUE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wNzky/ZTRlZS00M2E4LTQw/YjAtYjNkNS0zMGQ2/ZGU2MzljZTM3MDNj/ZmMwZGE4YjUxOWZi/ZWNfMjAyNDExMDJf/MTIxNTQwLmpwZw.jpg)
 
 Malmö Spetsbunker (Malmö Winkel Tower)](https://www.atlasobscura.com/places/malmo-winkel-tower)
-
-   [![Processing facility](https://img.atlasobscura.com/DC7gSktsGEpXQHfmG3xH_cPhSgRndHf0OkejT2ObY3c/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84MzIy/Zjk0Mi0yZGJkLTQw/ZjQtOGQzYi1iNWZi/YTYwNjJjNWI5Njg1/MDI5Y2E4YzdiZDk5/MDlfSU1HXzAyMzYu/SlBH.jpg)
-
-Ahouli Mines](https://www.atlasobscura.com/places/ahouli-mines)
-
-   [![](https://img.atlasobscura.com/FZbuZYokIRW1BqjVASEcczvgCzU5LkfXa22fXCH-xCc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80Nzlm/ZmRhOC04MDJlLTQ2/ZTQtOGM1Mi0zNzMy/MjdiZDdjYmFkOGRj/ZWE5MjIzYmM2YjAx/ODhfMTAwMDA5MjQw/My5qcGc.jpg)
-
-Geneva Skateboard Musuem](https://www.atlasobscura.com/places/geneva-skateboard-musuem)
-
-   [![](https://img.atlasobscura.com/g2LtOXTISg9WNcP2yygLdBDdpKIYjjPJKw9MQ1u1bVY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wNmEw/NGEyNi1kMDlmLTRh/NjctODMwNy1iMTMy/ZDZiNTZhZTA2NTc0/ZGNiY2NkODI0Mzg1/NTFfMjAyMjEyMTZf/MTM1OTU2LmpwZw.jpg)
-
-Ghost Lore Museum](https://www.atlasobscura.com/places/ghost-lore-museum)
 
 Latest Places to Eat & Drink
 
@@ -163,6 +163,15 @@ Most Recent Stories
 
 [View All Stories »](https://www.atlasobscura.com/articles)
 
+   [![Two glasses of tonic water, with one glowing under UV light.  ](https://img.atlasobscura.com/aP1I_d6CUwy1RCRgehHaNY1dD2CLbB8mtevayLWkSA0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy80YTJmY2U5YWRk/ZjYxYzE3YzBfdXYg/Z2luIHRvbmljLmpw/Zw.jpg)
+
+How to Make Fluorescent Food](https://www.atlasobscura.com/articles/how-to-make-a-fluorescent-cake)
+
+   [![Order fideuà loaded with meat and seafood at Xiringuito Escribà.
+](https://img.atlasobscura.com/7AtSiKil8Csjnf1b-_e45c138R3PflOWFwIvwWJkydQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9jYmM3OWEzMi1i/MmJlLTQyMjgtOGVh/ZC1mMWE4ZGFhM2Jk/ZDYxZTg5NWY3ZDY1/MDUyYjViYmJfMjAy/NDA5IEJhcmNlbG9u/YSBTcGFpbi02MDQ5/LmpwZw.jpg)
+
+Gastro Obscura's 10 Essential Places to Eat and Drink in Barcelona](https://www.atlasobscura.com/articles/best-restaurants-barcelona)
+
    [![Even colorful rainbows can carry spooky superstitions.](https://img.atlasobscura.com/38NZ-ERrucKhN1nEY6WE75KmIKZgTW7QzowM5wIwqYI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy83NTdmZTIwMy00/NDM1LTQ5NGItODU4/Yi1kYzM5Zjc1ODg4/YjM3ZmIyZGViNTkx/YzE3NjAzZGVfMTAx/NDI0MDEtYjMxZi00/YTZhLWJhNDItNWZj/NGQ1YTEwOGViOWQy/OWMxMjhhY2QxMjg0/ZTM5X1JhaW5ib3cg/VGFib29fR2V0dHlJ/bWFnZXMtMTAzNjUx/NTQ4LmpwZw.jpg)
 
 5 Superstitious Stories for Friday the 13th](https://www.atlasobscura.com/articles/superstitious-stories-friday-the-13th)
@@ -170,14 +179,6 @@ Most Recent Stories
    [![At Milovice Nature Reserve in Czechia, tauros cattle have been introduced with other species like horses in a recreated "prehistoric" environment.](https://img.atlasobscura.com/4OT42sfCK8aVI-Jb76aevGBcak1moQNAK6sXPDiPXgw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9lMTVhZGU3NzM4/YjExY2QyMzhfUmVr/b25zdHJ1a3Rpb25f/QXVlcm9jaHNlX2lt/X1RpZXItRnJlaWdl/bGHMiG5kZV9OYXRp/b25hbHBhcmt6ZW50/cnVtc19GYWxrZW5z/dGVpbl9kZXNfQmF5/ZXJpc2NoZW5fV2Fs/ZC5qcGc.jpg)
 
 The Story of the Aurochs Is More Complicated Than We Thought](https://www.atlasobscura.com/articles/where-did-aurochs-live)
-
-   [![A mural celebrating Russian space exploration remains on the wall at Prypiat's abandoned post office, which once served nearly 50,000 residents.](https://img.atlasobscura.com/NGfw-15712DvEJKO5bFVCTDpbIZcGVT-7qeQ0qJFsvM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9lYTdmOWQxZDk1/ZjQ4YjAzM2FfRFND/MDAyMjBfMS5qcGc.jpg)
-
-Tragedy Lingers Inside Chornobyl's Abandoned City](https://www.atlasobscura.com/articles/abandoned-chernobyl-disaster-ukraine)
-
-   [![Kids gather around cinematographer Megan Eleanor Clark's camera for the filming of Atlas Obscura's film, The Ugandan Quidditch Movement.](https://img.atlasobscura.com/q4pZWb9uJQodcHdvwrJKfXY-suSufBQIjSUTdfXQ5aE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9kMzVlZWJmMWU5/NmI4NGE3NzlfSU1H/XzEzNTUuSlBH.jpg)
-
-Harry Potter's Favorite Sport Is Changing Lives in Rural Uganda](https://www.atlasobscura.com/articles/harry-potter-quidditch-uganda)
 
 No search results found for  
 “”
