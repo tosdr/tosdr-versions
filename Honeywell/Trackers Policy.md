@@ -97,7 +97,7 @@
     
     Industries
     
-    *  [![Honeywell Verticals](/content/dam/honeywellbt/en/images/content-images/nav-icons/products-and-solutions/Overview_Nav_Products%20and%20Solutions.svg) What We Do](https://www.honeywell.com/us/en/industries/overview)
+    *  [![Honeywell Verticals](/content/dam/honeywellbt/en/images/content-images/nav-icons/products-and-solutions/Overview_Nav_Products%20and%20Solutions.svg) What We Do](https://www.honeywell.com/us/en/industries)
     *  [![Honeywell Products](/content/dam/aerobt/en/images/icons/navigation/AeroBT-Aerospace_Products.svg) Our Products](https://www.honeywell.com/us/en/industries/products)
     *  [![Aerospace](/content/dam/honeywellbt/en/images/content-images/nav-icons/products-and-solutions/Aerospace_Nav_Products%20and%20Solutions.svg) Aerospace](https://www.honeywell.com/us/en/industries/aerospace)
     *  [![Building Technologies](/content/dam/honeywellbt/en/images/content-images/nav-icons/products-and-solutions/Buildings%20and%20Cities_Nav_Products%20and%20Solutions.svg) Commercial Buildings](https://www.honeywell.com/us/en/industries/buildings-cities)
@@ -116,7 +116,7 @@
     Company
     
     *  [![About Us](/content/dam/honeywellbt/en/images/content-images/nav-icons/company/History_Nav_Company.svg) About Us](https://www.honeywell.com/us/en/company/about-us)
-    *  [![Investors](/content/dam/honeywellbt/en/images/content-images/nav-icons/company/Investors_opt%20A_Nav_Company.svg) Investors](https://www.honeywell.com/us/en/company/investor-relations)
+    *  [![Investors](/content/dam/honeywellbt/en/images/content-images/nav-icons/company/Investors_opt%20A_Nav_Company.svg) Investors](https://investor.honeywell.com/)
     *  [![Our History](/content/dam/honeywellbt/en/images/content-images/nav-icons/company/hon-icons-history.svg) History](https://www.honeywell.com/us/en/company/our-history)
     *  [![Cybersecurity](/content/dam/honeywellbt/en/images/content-images/nav-icons/company/hon-corp-ot-cybersecurity-icon.svg) OT Cybersecurity](https://www.honeywell.com/us/en/company/ot-cybersecurity)
     *  [![Quantum](/content/dam/honeywellbt/en/images/content-images/nav-icons/company/Quantum_opt%20A_Nav_Company.svg) Quantum](https://www.honeywell.com/us/en/company/quantum)
@@ -3700,7 +3700,7 @@ Company
 
 * [About Us](https://www.honeywell.com/us/en/company/about-us)
 * [History](https://www.honeywell.com/us/en/company/our-history)
-* [Investors](https://www.honeywell.com/us/en/company/investor-relations)
+* [Investors](https://investor.honeywell.com/)
 * [Leadership](https://www.honeywell.com/us/en/company/leadership)
 * [Inclusion & Diversity](https://www.honeywell.com/us/en/company/inclusion-and-diversity)
 * [Accessibility](https://www.honeywell.com/us/en/company/inclusion-and-diversity/accessibility)
@@ -3716,7 +3716,7 @@ Careers
 
 [toggle view](#?)
 
-* [Careers](https://www.honeywell.com/us/en/careers)
+* [Careers](https://careers.honeywell.com/)
 * [Job Search](https://careers.honeywell.com/us/en/search-results)
 
 Contact Us
