@@ -52,6 +52,8 @@ Resources
 
 [Customer Service Course](https://academy.tidio.com/course/customer-experiences)
 
+[Tidio Live Chat Preview](https://www.tidio.com/live-chat/#widget-preview)
+
 Help Desk
 
 [Learn more about Help Desk](https://www.tidio.com/help-desk/)
@@ -153,6 +155,8 @@ Resources
 [Tidio vs LiveChat](https://www.tidio.com/vs/live-chat/)
 
 [Customer Service Course](https://academy.tidio.com/course/customer-experiences)
+
+[Tidio Live Chat Preview](https://www.tidio.com/live-chat/#widget-preview)
 
 Help Desk
 
