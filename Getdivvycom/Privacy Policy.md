@@ -108,11 +108,11 @@ Learn & Connect
 
 [Learning Center](https://getdivvy.com/learning)[Guides](https://getdivvy.com/guides)[Webinars](https://getdivvy.com/webinars)[Business Templates](https://getdivvy.com/business-templates)[BILL Product Updates](https://getdivvy.com/product-updates)[Find an Accountant](https://getdivvy.com/find-an-accountant)
 
-3 modern solutions to top accounting  firm challenges
+How 3 wealth management orgs transformed AP
 
-[Get the Guide](https://getdivvy.com/guides/international-accounting-day)
+[Get the Guide](https://getdivvy.com/guides/transforming-accounts-payable)
 
-![](https://cdn.prod.website-files.com/63e56114746188c54e2936e0/671ff0f19abf29dd11135a04_iad-thumb.webp)
+![](https://cdn.prod.website-files.com/63e56114746188c54e2936e0/67460106ec2022153ffffad3_guide-transforming-accounts-payable-cover.webp)
 
 Company
 
