@@ -57,15 +57,15 @@ Smart, Fearless Journalism
 membership ticker
 -----------------
 
-[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPR63%7CPAHPR63/)
+[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPR65%7CPAHPR65/)
 
-Autocratic forces are ascendant.
+We could use your help.
 
-Truth-telling independent media is one remaining bulwark against an autocrat’s unrestrained exercise of power. At a time when billionaire owners of corporate media are making accommodations to political leaders, our nonprofit newsroom cannot be bought, bent, or broken. **Depend on it, and please stand with us**.
+If you’ve been thinking about supporting nonprofit _Mother Jones_ this year, you couldn’t pick a better time than now. Any gift you make online—_this week only_—**will be matched dollar-for-dollar**, thanks to a $25,000 matching gift from a generous donor. Corporations and powerful people with deep pockets will never sustain the fierce journalism we do. **That’s why we need _you_ to show up for us right now**.
 
-Autocratic forces are ascendant in America. But truth-telling independent media is one remaining bulwark against the unrestrained exercise of power. At a time when billionaire owners of corporate media are making accommodations to political leaders, our nonprofit newsroom cannot be bought or broken. **Please stand with us**.
+If you’ve been thinking about supporting nonprofit _Mother Jones_ this year, you couldn’t pick a better time than now. Any gift you make online—_this week only_—**will be matched dollar-for-dollar**, thanks to a $25,000 matching gift from a generous donor. Corporations and powerful people with deep pockets will never sustain the fierce journalism we do. **That’s why we need _you_ to show up for us right now**.
 
-[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPMRY%7CPAHPMRY/)
+[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPMSA%7CPAHPMSA/)
 
 Terms of Service
 ================
