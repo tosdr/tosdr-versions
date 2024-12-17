@@ -523,9 +523,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,23 +565,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Trump picks businessman George Glass as Japan ambassador](https://www.japantimes.co.jp/news/2024/12/17/japan/politics/trump-japan-george-glass-ambassador/ "Trump picks businessman George Glass as Japan ambassador")
+[Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/17/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
 
-36 mins ago
+24 mins ago
 
-[Starmer’s China reset plans get undercut by royal access scandal](https://www.japantimes.co.jp/news/2024/12/17/world/politics/starmer-china-royal-access-scandal/ "Starmer’s China reset plans get undercut by royal access scandal")
-
-1 hour ago
-
-[New fencing installed to help manage tourists at Mount Fuji photo spot](https://www.japantimes.co.jp/news/2024/12/17/japan/mount-fuji-fence/ "New fencing installed to help manage tourists at Mount Fuji photo spot")
+[Cambodian interns accuse farmer of sexual abuse and wage theft](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/cambodia-technical-interns-lawsuit/ "Cambodian interns accuse farmer of sexual abuse and wage theft")
 
 1 hour ago
 
-[Chipmaker Kioxia faces a tough debut in Tokyo’s busy IPO arena](https://www.japantimes.co.jp/business/2024/12/17/companies/japan-kioxia-ipo-tough-debut/ "Chipmaker Kioxia faces a tough debut in Tokyo’s busy IPO arena")
+[Tajik migrants fear for income and security as Russia reels from terror attack](https://www.japantimes.co.jp/news/2024/12/17/world/politics/russia-tajik-economic-security-risks/ "Tajik migrants fear for income and security as Russia reels from terror attack")
 
 1 hour ago
 
-[Germany's Scholz loses confidence vote, triggering early elections](https://www.japantimes.co.jp/news/2024/12/17/world/politics/germany-scholz-confidence-elections/ "Germany's Scholz loses confidence vote, triggering early elections")
+[Japan to let investigators go undercover to crack down on _yami baito_](https://www.japantimes.co.jp/news/2024/12/17/japan/crime-legal/yamibaito-first-ministerial-meeting/ "Japan to let investigators go undercover to crack down on yami baito")
+
+1 hour ago
+
+[Japan and India startups to study using lasers to tackle space debris](https://www.japantimes.co.jp/business/2024/12/17/companies/japan-india-space-debris/ "Japan and India startups to study using lasers to tackle space debris")
 
 2 hours ago
 
