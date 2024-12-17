@@ -44,14 +44,14 @@
     * [Manufacturing and Supply](https://www.sanofi.com/en/our-science/manufacturing-and-supply)
 * Your Health
     * [Your Health](https://www.sanofi.com/en/your-health)
-    * Vaccines
-        * [Vaccines](https://www.sanofi.com/en/your-health/vaccines)
+    * Vaccines & Infectious Diseases
+        * [Vaccines & Infectious Diseases](https://www.sanofi.com/en/your-health/vaccines)
         * [Influenza](https://www.sanofi.com/en/your-health/vaccines/influenza)
         * [Meningococcal Meningitis](https://www.sanofi.com/en/your-health/vaccines/meningococcal-meningitis)
-        * [Pertussis](https://www.sanofi.com/en/your-health/vaccines/pertussis)
+        * [E. coli sepsis](https://www.sanofi.com/en/your-health/vaccines/e-coli-sepsis)
         * [Respiratory Syncytial Virus (RSV)](https://www.sanofi.com/en/your-health/vaccines/respiratory-syncytial-virus)
         * [Production](https://www.sanofi.com/en/your-health/vaccines/production)
-        * [Why vaccines matter](https://www.sanofi.com/en/your-health/vaccines/why-vaccines-matter)
+        * [Why Vaccines Matter](https://www.sanofi.com/en/your-health/vaccines/why-vaccines-matter)
     * Medicines
         * [Medicines](https://www.sanofi.com/en/your-health/medicines)
         * [Immunology](https://www.sanofi.com/en/your-health/medicines/immunology)
