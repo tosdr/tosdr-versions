@@ -130,6 +130,42 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/03-pardondrone-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/fly-by-night/)
+    
+    [Fly By Night](https://www.conservativedailynews.com/2024/12/fly-by-night/)
+    
+    December 17, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/04/vaccine-5895477_640-220x150.jpg)](https://www.conservativedailynews.com/2024/12/vaccine-questions-shouldnt-be-verboten/)
+    
+    [Vaccine Questions Shouldn’t Be Verboten](https://www.conservativedailynews.com/2024/12/vaccine-questions-shouldnt-be-verboten/)
+    
+    December 17, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/03/Senior-Citizens-2.jpg)](https://www.conservativedailynews.com/2024/12/10-essential-resources-for-caregivers/)
+    
+    [10 Essential Resources for Caregivers](https://www.conservativedailynews.com/2024/12/10-essential-resources-for-caregivers/)
+    
+    December 17, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/gv121624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/a-bidenomics-christmas/)
+    
+    [A Bidenomics Christmas](https://www.conservativedailynews.com/2024/12/a-bidenomics-christmas/)
+    
+    December 17, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg121624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/actual-loser/)
+    
+    [Actual Loser](https://www.conservativedailynews.com/2024/12/actual-loser/)
+    
+    December 17, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/mrz121624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/next-2/)
+    
+    [Next](https://www.conservativedailynews.com/2024/12/next-2/)
+    
+    December 17, 2024
+    
 * [![Joe Biden missing sleeping](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg121524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-tuesday-december-17-2024/)
     
     [President Joe Biden’s Schedule for Tuesday, December 17, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-tuesday-december-17-2024/)
@@ -142,55 +178,19 @@ Recent Posts
     
     December 16, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5921-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/the-smooth-transition-was-another-biden-fallacy/)
-    
-    [The Smooth Transition Was Another Biden Fallacy](https://www.conservativedailynews.com/2024/12/the-smooth-transition-was-another-biden-fallacy/)
-    
-    December 16, 2024
-    
-* [![A man in uniform and metal helmet stands at attention while wearing a medal around his neck.](https://www.conservativedailynews.com/wp-content/uploads/2024/12/450705-A-D0439-008-220x150.jpg)](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-army-col-charles-p-murray-jr/)
-    
-    [Medal of Honor Monday: Army Col. Charles P. Murray Jr.](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-army-col-charles-p-murray-jr/)
-    
-    December 16, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/11/confused-220x150.jpg)](https://www.conservativedailynews.com/2024/12/13-practical-tips-to-cut-pet-food-costs-without-sacrificing-quality/)
-    
-    [13 Practical Tips to Cut Pet Food Costs Without Sacrificing Quality](https://www.conservativedailynews.com/2024/12/13-practical-tips-to-cut-pet-food-costs-without-sacrificing-quality/)
-    
-    December 16, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/03/House-of-Representatives.jpg)](https://www.conservativedailynews.com/2024/12/house-republicans-finally-putting-the-squeeze-on-bloated-pentagon-budget/)
-    
-    [House Republicans Finally Putting The Squeeze On Bloated Pentagon Budget](https://www.conservativedailynews.com/2024/12/house-republicans-finally-putting-the-squeeze-on-bloated-pentagon-budget/)
-    
-    December 15, 2024
-    
-* [![Donald Trump White House Beware of DOGE](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg112524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/doge-must-focus-on-big-picture-to-achieve-big-change/)
-    
-    [DOGE Must Focus On Big Picture To Achieve Big Change](https://www.conservativedailynews.com/2024/12/doge-must-focus-on-big-picture-to-achieve-big-change/)
-    
-    December 15, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/Pam-Bondi-220x150.jpg)](https://www.conservativedailynews.com/2024/12/pam-bondi-will-clean-up-the-doj-and-bring-back-justice-for-all/)
-    
-    [Pam Bondi Will Clean Up The DOJ And Bring Back Justice For All](https://www.conservativedailynews.com/2024/12/pam-bondi-will-clean-up-the-doj-and-bring-back-justice-for-all/)
-    
-    December 15, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [CEO Killing: Activists Seek Ghost Gun Laws, But Ignore the Facts & Law](https://www.thegunpage.com/ceo-killing-activists-seek-ghost-gun-laws-but-ignore-the-facts-law/10612562)
+* [Bushmaster Announces The Muta II BM556](https://www.thegunpage.com/bushmaster-announces-the-muta-ii-bm556/10612558)
+* [Florida 13-Year-Old Sells A Gun To 19-Year-Old Then Fatally Shoots Him](https://www.thegunpage.com/florida-13-year-old-sells-a-gun-to-19-year-old-then-fatally-shoots-him/10612555)
+* [New CMP Rimfire League Announced at Lake Erie Arms](https://www.thegunpage.com/new-cmp-rimfire-league-announced-at-lake-erie-arms/10612559)
+* [TSA on Pace to Catch Fewer Firearms at Airport Checkpoints in 2024](https://www.thegunpage.com/tsa-on-pace-to-catch-fewer-firearms-at-airport-checkpoints-in-2024/10612553)
+* [NBC falsely claims magazine disconnects increase safety](https://www.thegunpage.com/nbc-falsely-claims-magazine-disconnects-increase-safety/10612551)
+* [Fairless Captures Distinguished Rifleman Badge With M1 Garand: ‘It Gave Me A Chance’](https://www.thegunpage.com/fairless-captures-distinguished-rifleman-badge-with-m1-garand-it-gave-me-a-chance/10612557)
+* [Addressing Unsportsmanlike Behavior In USPSA Competition](https://www.thegunpage.com/addressing-unsportsmanlike-behavior-in-uspsa-competition/10612550)
 * [TFB Review: Nocpix VISTA H50 Thermal Monocular](https://www.thegunpage.com/tfb-review-nocpix-vista-h50-thermal-monocular/10612546)
 * [POTD: Recon Marines with M27RWK in Latvia](https://www.thegunpage.com/potd-recon-marines-with-m27rwk-in-latvia/10612547)
-* [The Rimfire Report: NRL22 – The Poor Man's Precision Shooting Sport](https://www.thegunpage.com/the-rimfire-report-nrl22-the-poor-mans-precision-shooting-sport/10612548)
-* [John Commerford Appointed Interim Executive Director of NRA-ILA](https://www.thegunpage.com/john-commerford-appointed-interim-executive-director-of-nra-ila/10612542)
-* [Low Back Pressure Suppressors – Do They Really Make A Difference?](https://www.thegunpage.com/low-back-pressure-suppressors-do-they-really-make-a-difference/10612543)
-* [A Pilgrimage to the CMP North Store](https://www.thegunpage.com/a-pilgrimage-to-the-cmp-north-store/10612540)
-* [Gun Review – Cimarron ’62 Pocket Navy Conversion](https://www.thegunpage.com/gun-review-cimarron-62-pocket-navy-conversion/10612534)
-* [Several New Ruger RXM Holsters From DeSantis Gunhide](https://www.thegunpage.com/several-new-ruger-rxm-holsters-from-desantis-gunhide/10612539)
-* [MI: Anti-gun Bills Moving in the House](https://www.thegunpage.com/mi-anti-gun-bills-moving-in-the-house/10612532)
-* [While Some Clamor for More Gun Laws, Judges Aren’t Enforcing Existing Laws](https://www.thegunpage.com/while-some-clamor-for-more-gun-laws-judges-arent-enforcing-existing-laws/10612530)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
