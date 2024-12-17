@@ -22,7 +22,7 @@ Shop now](https://www.thomann.de/intl/basket_coupon.html)
 
 search  
 
-* [Repair Service](https://www.thomannmusic.com/helpdesk_repair.html)
+* [3-Year Thomann Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
 * [Payment Security](https://www.thomannmusic.com/helpdesk_paymentsecurity.html)
 
 en · $
