@@ -5,6 +5,7 @@ Search...
 3. [Personal loans](https://www.rate.com/personal-loans)
 4. [Reverse mortgage](https://www.rate.com/hecm-reverse-mortgage)
 5. Insurance
+6. [Home search](https://www.rate.com/home-search)
 
 Back to main menu
 
@@ -21,6 +22,7 @@ ContactEnglish
 * [Personal loans](https://www.rate.com/personal-loans)
 * [Reverse mortgage](https://www.rate.com/hecm-reverse-mortgage)
 * Insurance
+* [Home search](https://www.rate.com/home-search)
 
 1. [Search](https://www.rate.com/site-search?&referrerPageUrl=https://www.rate.com/)
 2. English
