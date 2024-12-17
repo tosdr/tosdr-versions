@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Lil Baby ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-lil-baby/)
+[![40 Facts About Sal Ammoniac ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22124%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-sal-ammoniac/)
 
-Celebrity
+Earth Sciences
 
-16 Dec 2024
+17 Dec 2024
 
-[50 Facts About Lil Baby](https://facts.net/celebrity/50-facts-about-lil-baby/)
+[40 Facts About Sal Ammoniac](https://facts.net/earth-and-life-science/earth-sciences/40-facts-about-sal-ammoniac/)
 
-[![30 Facts About Russ Vought ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/30-facts-about-russ-vought/)
+[![40 Facts About Mucolipidosis Type 4 ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-mucolipidosis-type-4/)
 
-People
+Health Science
 
-16 Dec 2024
+17 Dec 2024
 
-[30 Facts About Russ Vought](https://facts.net/history/people/30-facts-about-russ-vought/)
+[40 Facts About Mucolipidosis Type 4](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-mucolipidosis-type-4/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
