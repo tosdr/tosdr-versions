@@ -401,35 +401,37 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Armed robbery at Fairview Dillard's: Suspects threaten employee before fleeing with designer bags](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-94818532.jpg?ve=1&tl=1)
+ [![Man sentenced for 2022 murder of Arlington car dealership owner](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/screenshot-2024-12-17-134513.png?ve=1&tl=1)
 
- ![Armed robbery at Fairview Dillard's: Suspects threaten employee before fleeing with designer bags](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-94818532.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dillards-robbery-texas)
+ ![Man sentenced for 2022 murder of Arlington car dealership owner](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/screenshot-2024-12-17-134513.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-sentenced-2022-murder-arlington-car-dealership-owner)
 
-### [Armed robbery at Fairview Dillard's: Suspects threaten employee before fleeing with designer bags](https://www.fox4news.com/news/dillards-robbery-texas)
+### [Man sentenced for 2022 murder of Arlington car dealership owner](https://www.fox4news.com/news/man-sentenced-2022-murder-arlington-car-dealership-owner)
 
- [![Possible drone sightings latest: Ohio military base, arrests near Boston airport](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/drones.jpg?ve=1&tl=1)
+ [![Live updates: Wisconsin school shooting: Police to give update Tuesday](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/gettyimages-2190292044.jpg?ve=1&tl=1)
 
- ![Possible drone sightings latest: Ohio military base, arrests near Boston airport](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/drones.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/drones-what-we-know-about-mysterious-reports-nj-ny-east-coast)
+ ![Live updates: Wisconsin school shooting: Police to give update Tuesday](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/gettyimages-2190292044.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/madison-wisconsin-school-shooting-latest-dec-17-2024)
 
-### [Possible drone sightings latest: Ohio military base, arrests near Boston airport](https://www.fox4news.com/news/drones-what-we-know-about-mysterious-reports-nj-ny-east-coast)
+Live Now
 
- [!['Flying naked' is the latest travel trend dividing the internet, and it doesn't mean what you think](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2158694552.jpg?ve=1&tl=1)
+### [Live updates: Wisconsin school shooting: Police to give update Tuesday](https://www.fox4news.com/news/madison-wisconsin-school-shooting-latest-dec-17-2024)
 
- !['Flying naked' is the latest travel trend dividing the internet, and it doesn't mean what you think](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2158694552.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/flying-naked-travel-trend-dividing-internet-doesnt-mean-what-you-think)
+ [![These North Texas cities are among the best in America for the young and wealthy](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Family-at-the-playground.jpg?ve=1&tl=1)
 
-### ['Flying naked' is the latest travel trend dividing the internet, and it doesn't mean what you think](https://www.fox4news.com/news/flying-naked-travel-trend-dividing-internet-doesnt-mean-what-you-think)
+ ![These North Texas cities are among the best in America for the young and wealthy](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Family-at-the-playground.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-best-places-to-live-young-wealthy)
 
- [![Madison Christian school shooting; 3 dead, suspected teen shooter identified](https://images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2024/12/32/18/4p-school-shooting-in-madison-vo_witi939a_146_mxf_00.00.06.10.jpg?ve=1&tl=1)
+### [These North Texas cities are among the best in America for the young and wealthy](https://www.fox4news.com/news/dallas-best-places-to-live-young-wealthy)
 
- ![Madison Christian school shooting; 3 dead, suspected teen shooter identified](https://images.foxtv.com/images.foxtv.com/static.fox6now.com/www.fox6now.com/content/uploads/2024/12/32/18/592/333/4p-school-shooting-in-madison-vo_witi939a_146_mxf_00.00.06.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/shooting-reported-madison-abundant-life-christian-school)
+ [![Funeral held for fallen Terrell police officer Jacob Candanoza](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/terrell-officer-funeral-_-part-2_2024_12_17t1004ct_00.01.15.04.jpg?ve=1&tl=1)
 
-### [Madison Christian school shooting; 3 dead, suspected teen shooter identified](https://www.fox4news.com/news/shooting-reported-madison-abundant-life-christian-school)
+ ![Funeral held for fallen Terrell police officer Jacob Candanoza](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/terrell-officer-funeral-_-part-2_2024_12_17t1004ct_00.01.15.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/terrell-police-officer-jacob-candanoza-funeral)
 
- [![Southlake shooting suspect tried to bite officers, had to be sedated during arrest: report](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/southlake-shooting-suspect.jpg?ve=1&tl=1)
+### [Funeral held for fallen Terrell police officer Jacob Candanoza](https://www.fox4news.com/news/terrell-police-officer-jacob-candanoza-funeral)
 
- ![Southlake shooting suspect tried to bite officers, had to be sedated during arrest: report](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/southlake-shooting-suspect.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/southlake-shooting-suspect-sean-jordan-arrest-affidavit-report)
+ [![Ellis County detention officer dies after being assaulted by inmate](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/ellis-county-jailer-killed.jpg?ve=1&tl=1)
 
-### [Southlake shooting suspect tried to bite officers, had to be sedated during arrest: report](https://www.fox4news.com/news/southlake-shooting-suspect-sean-jordan-arrest-affidavit-report)
+ ![Ellis County detention officer dies after being assaulted by inmate](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/ellis-county-jailer-killed.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ellis-county-detention-officer-isaiah-bias-death)
+
+### [Ellis County detention officer dies after being assaulted by inmate](https://www.fox4news.com/news/ellis-county-detention-officer-isaiah-bias-death)
 
 ###### [News](https://www.fox4news.com/news)
 
