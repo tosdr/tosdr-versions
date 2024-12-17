@@ -18,7 +18,7 @@ Free Returns up to 30 Days Contiguous U.S.
 
 ![](//www.zak.com/cdn/shop/files/kelso-straw-shell-nav.jpg?v=1684360079&width=1000)
 
-[Kelso Leak Proof Straw](https://www.zak.com/collections/kelso-leak-proof-tumblers)
+[Kelso Leak-Proof Straw](https://www.zak.com/collections/kelso-leak-proof-tumblers)
 
 [](https://www.zak.com/collections/beacon-covered-spout-bottles)
 
@@ -104,7 +104,7 @@ Hide menu [Kids](https://www.zak.com/collections/kids)
 
 ![](//www.zak.com/cdn/shop/files/kelso-straw-shell-nav.jpg?v=1684360079&width=1000)
 
-[Kelso Leak Proof Straw](https://www.zak.com/collections/kelso-leak-proof-tumblers)
+[Kelso Leak-Proof Straw](https://www.zak.com/collections/kelso-leak-proof-tumblers)
 
 [](https://www.zak.com/collections/beacon-covered-spout-bottles)
 
