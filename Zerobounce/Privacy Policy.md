@@ -287,7 +287,7 @@ NEED MORE INFORMATION OR HAVING DIFFICULTY ACCESSING THIS INFORMATION?
 
 If You have a disability which interferes with Your ability to access this Privacy Policy, we can make accommodations to present the Privacy Policy in an alternative format, to assist You. If You would like to receive this information in another format that is accessible to Your needs (for example: audio, large print, etc.) please contact us.
 
-© 2023 www.zerobounce.net. All rights reserved.
+© 2025 www.zerobounce.net. All rights reserved.
 
 [![Footer Zerobounce](https://www.zerobounce.net/cdn-cgi/image/fit=scale-down,format=auto,quality=90,width=157,metadata=none/static/logo.png)Zero Bounce](https://www.zerobounce.net/ "Zerobounce")
 
