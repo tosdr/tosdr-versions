@@ -1,19 +1,11 @@
 [](https://www.media.net/)
 
-* [Home](https://www.media.net/)
-* [Marketplace](https://www.media.net/marketplace)
-* [contextual ads](https://www.media.net/contextualads)
-* [programmatic](https://www.media.net/programmatic)
-* [buyers](https://www.media.net/buyers)
-* [about](https://www.media.net/aboutus)
-* [sign in](https://pubconsole.media.net/login) [Contact Us](https://www.media.net/contact)
-* [sign in](https://pubconsole.media.net/login)
-* [Contact Us](https://www.media.net/contact)
-
-![back to top](https://s31073.pcdn.co/wp-content/themes/media.net/images/back-to-top.png)
+[Publishers](https://www.media.net/publishers)[Advertisers](https://www.media.net/advertiser)[Contextual SearchSignals](https://www.media.net/contextualads)[Deals Desk](https://www.media.net/deals-desk)[Outcomes First](https://www.media.net/outcomes) [Deals Desk](https://www.media.net/deals-desk)
 
 Opt Out
--------
+=======
+
+![background](https://s31073.pcdn.co/wp-content/themes/media.net/images/wbf-heading-background.svg)
 
 Media.net takes your privacy extremely seriously and hence shall never use personally identifiable information to target any advertising. Our privacy policy available at [www.media.net/privacy-policy](https://www.media.net/privacy-policy) details the principles we stand by as regards the data we collect and use through our services.
 
@@ -35,7 +27,7 @@ You may also opt out of Media.net and other Network Advertising Initiative membe
 
 Interest-based ads are currently turned off.
 
-[Opt In](javascript:void(0);)
+[Opt In](javascript:void(0))
 
 To opt-in to 'interest-based ads' from Media.net, click on the Opt In button above. By clicking on this button you are agreeing to Media.net collecting secure, non-personal identification information to show highly targeted, relevant Media.net ads catered to your interests.
 
@@ -43,7 +35,7 @@ Browser cookies are disabled, turn on the cookies and try again.
 
 Interest-based ads are currently turned on.
 
-[Opt Out](javascript:void(0);)
+[Opt Out](javascript:void(0))
 
 Once you have opted out, Media.net will not use any data collected by its cookies to influence or personalize Media.net ads. Your preference (to opt-out) will be stored in an opt-out cookie.
 
@@ -53,24 +45,46 @@ Once you have opted out, Media.net will not use any data collected by its cookie
 * Opting-out does not stop information from being collected. However, Media.net shall not use any information collected from you for the purpose of displaying personalized ads.
 * Since we identify you based on your browser, you will have to 'opt out' on all browsers you use.
 
-* [](https://www.media.net/)
-* [About](https://www.media.net/aboutus)
-* [Marketplace](https://www.media.net/marketplace)
-* [programmatic](https://www.media.net/programmatic)
-* [contextual ads](https://www.media.net/contextualads)
-* [buyers](https://www.media.net/buyers)
-* [Careers](https://careers.media.net/)
-* [Resources](https://www.media.net/resources)
-* [Contact Us](https://www.media.net/contact)
+### Let’s talk about what Media.net can do for you!
 
-* [OPT OUT](https://www.media.net/optout)
-* [Do Not Sell or Share My Personal Information](#)
-* [terms of service](https://www.media.net/legal/tos)
+ 
 
-* Policies:
-* [inventory policy](https://www.media.net/legal/inventorypolicies)
-* [ad quality policy](https://www.media.net/ad-quality-policy)
-* [privacy policy](https://www.media.net/privacy-policy)
-* [preferences](https://www.media.net/preferences)
+Submit
 
-copyright © 2024 media.net all rights reserved
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+Company
+
+[About Us](https://www.media.net/aboutus)[Press Room](https://www.media.net/resources)
+
+Solutions
+
+[For Publishers](https://www.media.net/publishers)[For Advertisers](https://www.media.net/advertiser)[Outcomes First](https://www.media.net/outcomes)[Contextual SearchSignals](https://www.media.net/contextualads)[Deals Desk](https://www.media.net/deals-desk)
+
+Legal & Compliance
+
+[Terms of Service](https://www.media.net/legal/tos)[Inventory Policy](https://www.media.net/legal/inventorypolicies)[Ad Quality Policy](https://www.media.net/ad-quality-policy)[Privacy Policy](https://www.media.net/privacy-policy)
+
+Your Choices
+
+[Opt Out](https://www.media.net/optout)[Preferences](https://www.media.net/preferences)[Do Not Sell or Share My Personal Information](#)
+
+![](https://s31073.pcdn.co/wp-content/themes/media.net/images/webf/iab_logo_c.png)
+
+![](https://s31073.pcdn.co/wp-content/themes/media.net/images/webf/iab_tech_lab_c.png)
+
+![](https://s31073.pcdn.co/wp-content/themes/media.net/images/webf/daa_logo.png)
+
+![](https://s31073.pcdn.co/wp-content/themes/media.net/images/webf/group-201321319195.png)
+
+![](https://s31073.pcdn.co/wp-content/themes/media.net/images/webf/local_media_consortium_logo.png)
+
+![](https://s31073.pcdn.co/wp-content/themes/media.net/images/webf/tag_logo.png)
+
+[© 2024 Media.net](https://www.media.net/)
+
+[](https://www.instagram.com/medianetads)[](https://x.com/medianetads)[](https://www.linkedin.com/company/media.net)
+
+[Contact Us](https://www.media.net/contact)
