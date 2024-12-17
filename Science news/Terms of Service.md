@@ -90,6 +90,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Humans
         ----------------------
         
+        * [Archaeology](https://www.sciencenews.org/topic/archaeology)
+            
+            ### [Archaeology’s top discoveries of 2024 include preserved brains and a lost city](https://www.sciencenews.org/article/archaeology-discovery-brains-lost-city)
+            
+            By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")4 hours ago
+            
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
             ### [Britain’s largest ancient massacre may have included cannibalism](https://www.sciencenews.org/article/britain-ancient-massacre-cannibalism)
@@ -101,12 +107,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [These discoveries in 2024 could be groundbreaking — if they’re true](https://www.sciencenews.org/article/2024-science-discoveries-could-be-true)
             
             By [Maria Temming](https://www.sciencenews.org/author/maria-temming "Posts by Maria Temming")December 13, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Cancer screening and quitting smoking have saved nearly 6 million lives](https://www.sciencenews.org/article/cancer-screening-save-6-million-lives)
-            
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")December 13, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -124,13 +124,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Sheep earwax can record a dangerous diet](https://www.sciencenews.org/article/sheep-earwax-record-dangerous-diet)
             
-            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")2 hours ago
+            By [Jake Buehler](https://www.sciencenews.org/author/jake-buehler "Posts by Jake Buehler")8 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [Here are 8 remarkable scientific firsts of 2024](https://www.sciencenews.org/article/remarkable-scientific-firsts-of-2024)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")22 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")December 16, 2024
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -177,7 +177,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Here are 8 remarkable scientific firsts of 2024](https://www.sciencenews.org/article/remarkable-scientific-firsts-of-2024)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")22 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")December 16, 2024
             
         * [Physics](https://www.sciencenews.org/topic/physics)
             
@@ -203,7 +203,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Here are 8 remarkable scientific firsts of 2024](https://www.sciencenews.org/article/remarkable-scientific-firsts-of-2024)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")22 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")December 16, 2024
             
         * [Space](https://www.sciencenews.org/topic/space)
             
