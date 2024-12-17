@@ -40,8 +40,6 @@
 * [Careers](https://adstradata.com/careers/)
 * [Connect](#connect)
 
-Menu
-
 * [Home](https://adstradata.com/)
 * [Segments](#)
     * [Auto](https://adstradata.com/auto-3/)
@@ -315,9 +313,3 @@ access our thought piece.
 Email 
 
 Submit
-
-Thank you!  
-Click here to read the White Paper
------------------------------------------------
-
-[Click here](https://adstradata.com/wp-content/uploads/2021/11/ADSTRA-White-PaperOct2021.pdf)
