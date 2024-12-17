@@ -615,7 +615,7 @@ Follow us on:
 * [Syndication and Commissioning](https://www.telegraph.co.uk/syndication/)
 * [Fantasy Sport](https://fantasyfootball.telegraph.co.uk/)
 * [UK Voucher Codes](https://www.telegraph.co.uk/vouchercodes)
-* [Betting Offers](https://www.telegraph.co.uk/betting/free-bets-offers/)
+* [Betting Offers](https://www.telegraph.co.uk/betting/sport/free-bets/)
 * [Tax Strategy](https://www.telegraph.co.uk/about-us/press-acquisitions-limited-tax-strategy-financial-year-2024/)
 * [Broadband and Mobile Deals](https://www.telegraph.co.uk/compare)
 * [Newsletters](https://telegraph.co.uk/newsletters)
