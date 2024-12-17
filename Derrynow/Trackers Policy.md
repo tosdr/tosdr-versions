@@ -257,13 +257,6 @@ Advertise with Us
 
 Most Popular
 
-[![IN PICTURES: Derry Factory Girls and Factory Workers Reunion Dance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry Factory Girls and Factory Workers Reunion Dance")](https://www.derrynow.com/story-telling/pictures---videos/1681641/in-pictures-derry-factory-girls-and-factory-workers-reunion-dance.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry Factory Girls and Factory Workers Reunion Dance](https://www.derrynow.com/story-telling/pictures---videos/1681641/in-pictures-derry-factory-girls-and-factory-workers-reunion-dance.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Throwback Tuesday: Out and About with the County Derry Post (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About with the County Derry Post (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1681642/throwback-tuesday-out-and-about-with-the-county-derry-post-2014.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -271,28 +264,14 @@ Most Popular
 [Throwback Tuesday: Out and About with the County Derry Post (2014)](https://www.derrynow.com/story-telling/pictures---videos/1681642/throwback-tuesday-out-and-about-with-the-county-derry-post-2014.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![36-year-old man charged with series of offences including creeper style burglary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "36-year-old man charged with series of offences including creeper style burglary")](https://www.derrynow.com/news/local-news/1682073/36-year-old-man-charged-with-series-of-offences-including-creeper-style-burglary.html)
+[!['Unimaginable' - Tributes paid after woman dies giving birth at University Hospital Galway](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Unimaginable' - Tributes paid after woman dies giving birth at University Hospital Galway")](https://www.derrynow.com/news/national-news/1682567/unimaginable-tributes-paid-after-woman-dies-giving-birth-at-university-hospital-galway.html)
 
-PSNI
+'Unimaginable' - Tributes paid after woman dies giving birth at University Hospital Galway
 
-[Local News](https://www.derrynow.com/section/975/news)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[36-year-old man charged with series of offences including creeper style burglary](https://www.derrynow.com/news/local-news/1682073/36-year-old-man-charged-with-series-of-offences-including-creeper-style-burglary.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1681643/derry-death-notices-tuesday-december-17-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, December 17, 2024](https://www.derrynow.com/news/deaths/1681643/derry-death-notices-tuesday-december-17-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Western Trust and Destined Children's Christmas Party](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Western Trust and Destined Children's Christmas Party")](https://www.derrynow.com/story-telling/pictures---videos/1679007/in-pictures-western-trust-and-destined-children-s-christmas-party.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Western Trust and Destined Children's Christmas Party](https://www.derrynow.com/story-telling/pictures---videos/1679007/in-pictures-western-trust-and-destined-children-s-christmas-party.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+['Unimaginable' - Tributes paid after woman dies giving birth at University Hospital Galway](https://www.derrynow.com/news/national-news/1682567/unimaginable-tributes-paid-after-woman-dies-giving-birth-at-university-hospital-galway.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PROPERTY: Spacious five bedroom home in rural Derry hits the market at great price](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: Spacious five bedroom home in rural Derry hits the market at great price")](https://www.derrynow.com/news/property/1681916/property-spacious-five-bedroom-home-in-rural-derry-hits-the-market-at-great-price.html)
 
@@ -301,14 +280,28 @@ PSNI
 [PROPERTY: Spacious five bedroom home in rural Derry hits the market at great price](https://www.derrynow.com/news/property/1681916/property-spacious-five-bedroom-home-in-rural-derry-hits-the-market-at-great-price.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Call for action as Letterkenny is now Ireland’s largest town without any rail plans](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Call for action as Letterkenny is now Ireland’s largest town without any rail plans")](https://www.derrynow.com/news/local-news/1681794/call-for-action-as-letterkenny-is-now-irelands-largest-town-without-any-rail-plans.html)
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1681643/derry-death-notices-tuesday-december-17-2024.html)
 
-Into The West state that restoring the 35km rail link between Letterkenny and Derry would deliver huge benefits
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, December 17, 2024](https://www.derrynow.com/news/deaths/1681643/derry-death-notices-tuesday-december-17-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry member of Irish Defence Forces to be sentenced later for rape of a fellow officer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry member of Irish Defence Forces to be sentenced later for rape of a fellow officer")](https://www.derrynow.com/news/local-news/1682815/derry-member-of-irish-defence-forces-to-be-sentenced-later-for-rape-of-a-fellow-officer.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Call for action as Letterkenny is now Ireland’s largest town without any rail plans](https://www.derrynow.com/news/local-news/1681794/call-for-action-as-letterkenny-is-now-irelands-largest-town-without-any-rail-plans.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry member of Irish Defence Forces to be sentenced later for rape of a fellow officer](https://www.derrynow.com/news/local-news/1682815/derry-member-of-irish-defence-forces-to-be-sentenced-later-for-rape-of-a-fellow-officer.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for elderly Derry man charged with assault](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for elderly Derry man charged with assault")](https://www.derrynow.com/news/local-news/1682675/suspended-sentence-for-elderly-derry-man-charged-with-assault.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspended sentence for elderly Derry man charged with assault](https://www.derrynow.com/news/local-news/1682675/suspended-sentence-for-elderly-derry-man-charged-with-assault.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man described in court as 'a violent offender' charged with series of motoring and burglary offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man described in court as 'a violent offender' charged with series of motoring and burglary offences")](https://www.derrynow.com/news/local-news/1682546/man-described-in-court-as-a-violent-offender-charged-with-series-of-motoring-and-burglary-offences.html)
 
@@ -319,27 +312,50 @@ Derry Magistrates' Court
 [Man described in court as 'a violent offender' charged with series of motoring and burglary offences](https://www.derrynow.com/news/local-news/1682546/man-described-in-court-as-a-violent-offender-charged-with-series-of-motoring-and-burglary-offences.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Annette McGavigan was shot on September 6, 1971.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Annette McGavigan was shot on September 6, 1971.")](https://www.derrynow.com/news/local-news/1682149/teenager-s-inquest-verdict-of-significant-importance-in-cases-of-annette-mcgavigan-and-patrick-duffy.html)
+[![ALERT: Urgent recall notice for dessert following possible presence of Listeria](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ALERT: Urgent recall notice for dessert following possible presence of Listeria")](https://www.derrynow.com/news/national-news/1682621/alert-urgent-recall-notice-for-dessert-following-possible-presence-of-listeria.html)
 
-Annette McGavigan was shot on September 6, 1971.
+Photo: Pixabay
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[ALERT: Urgent recall notice for dessert following possible presence of Listeria](https://www.derrynow.com/news/national-news/1682621/alert-urgent-recall-notice-for-dessert-following-possible-presence-of-listeria.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man who posted messages about Derry mayor branded 'a right wing, racist conspiracy theorist'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who posted messages about Derry mayor branded 'a right wing, racist conspiracy theorist'")](https://www.derrynow.com/news/local-news/1682638/man-who-posted-messages-about-derry-mayor-branded-a-right-wing-racist-conspiracy-theorist.html)
+
+Mayor of Derry and Strabane, Cllr Lilian Seenoi Barr.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Teenager's inquest verdict of 'significant importance' in cases of Annette McGavigan and Patrick Duffy](https://www.derrynow.com/news/local-news/1682149/teenager-s-inquest-verdict-of-significant-importance-in-cases-of-annette-mcgavigan-and-patrick-duffy.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man who posted messages about Derry mayor branded 'a right wing, racist conspiracy theorist'](https://www.derrynow.com/news/local-news/1682638/man-who-posted-messages-about-derry-mayor-branded-a-right-wing-racist-conspiracy-theorist.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![LIVING WELL WITH GRAHAM - How to build lean muscle and boost your metabolism!](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "LIVING WELL WITH GRAHAM - How to build lean muscle and boost your metabolism!")](https://www.derrynow.com/news/local-news/1682146/living-well-with-graham-how-to-build-lean-muscle-and-boost-your-metabolism.html)
+[![Police in Derry investigating after masked men attempt to force entry into van](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry investigating after masked men attempt to force entry into van")](https://www.derrynow.com/news/local-news/1682753/police-in-derry-investigating-after-masked-men-attempt-to-force-entry-into-van.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[LIVING WELL WITH GRAHAM - How to build lean muscle and boost your metabolism!](https://www.derrynow.com/news/local-news/1682146/living-well-with-graham-how-to-build-lean-muscle-and-boost-your-metabolism.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Police in Derry investigating after masked men attempt to force entry into van](https://www.derrynow.com/news/local-news/1682753/police-in-derry-investigating-after-masked-men-attempt-to-force-entry-into-van.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Festive cheer at Derry Credit Union 'Santa Saturday'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Festive cheer at Derry Credit Union 'Santa Saturday'")](https://www.derrynow.com/story-telling/pictures---videos/1681851/in-pictures-festive-cheer-at-derry-credit-union-santa-saturday.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Festive cheer at Derry Credit Union 'Santa Saturday'](https://www.derrynow.com/story-telling/pictures---videos/1681851/in-pictures-festive-cheer-at-derry-credit-union-santa-saturday.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Eden Place Arts Centre Students Christmas Exhibition](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Eden Place Arts Centre Students Christmas Exhibition")](https://www.derrynow.com/story-telling/pictures---videos/1679008/in-pictures-eden-place-arts-centre-students-christmas-exhibition.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Eden Place Arts Centre Students Christmas Exhibition](https://www.derrynow.com/story-telling/pictures---videos/1679008/in-pictures-eden-place-arts-centre-students-christmas-exhibition.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![PROPERTY: Spacious five bedroom home in rural Derry hits the market at great price](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PROPERTY: Spacious five bedroom home in rural Derry hits the market at great price")](https://www.derrynow.com/news/property/1681916/property-spacious-five-bedroom-home-in-rural-derry-hits-the-market-at-great-price.html)
 
@@ -396,20 +412,6 @@ Multimedia
 
 [IN PICTURES: Ulster University Winter Graduations from Coleraine campus](https://www.derrynow.com/story-telling/pictures---videos/1680219/in-pictures-ulster-university-winter-graduations-from-coleraine-campus.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Thursday: Partytime out and about with the Derry News (2009)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about with the Derry News (2009)")](https://www.derrynow.com/story-telling/pictures---videos/1678368/throwback-thursday-partytime-out-and-about-with-the-derry-news-2009.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about with the Derry News (2009)](https://www.derrynow.com/story-telling/pictures---videos/1678368/throwback-thursday-partytime-out-and-about-with-the-derry-news-2009.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Trojans Youth and Community Group annual youth presentations](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Trojans Youth and Community Group annual youth presentations")](https://www.derrynow.com/story-telling/pictures---videos/1676473/in-pictures-trojans-youth-and-community-group-annual-youth-presentations.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Trojans Youth and Community Group annual youth presentations](https://www.derrynow.com/story-telling/pictures---videos/1676473/in-pictures-trojans-youth-and-community-group-annual-youth-presentations.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,59 +513,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Man who posted messages about Derry mayor branded 'a right wing, racist conspiracy theorist'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who posted messages about Derry mayor branded 'a right wing, racist conspiracy theorist'")](https://www.derrynow.com/news/local-news/1682638/man-who-posted-messages-about-derry-mayor-branded-a-right-wing-racist-conspiracy-theorist.html)
+[!['no place in our city for these kind of racist, fascist threats' - Foyle MP](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'no place in our city for these kind of racist, fascist threats' - Foyle MP")](https://www.derrynow.com/news/local-news/1683055/no-place-in-our-city-for-these-kind-of-racist-fascist-threats-foyle-mp.html)
 
-Mayor of Derry and Strabane, Cllr Lilian Seenoi Barr.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man who posted messages about Derry mayor branded 'a right wing, racist conspiracy theorist'](https://www.derrynow.com/news/local-news/1682638/man-who-posted-messages-about-derry-mayor-branded-a-right-wing-racist-conspiracy-theorist.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Slaughtneil](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Slaughtneil")](https://www.derrynow.com/news/derry-sport/1682619/sport-is-cruel-at-times-slaughtneil-s-paul-mccormack.html)
-
-Slaughtneil narrowly lost out to Sarsfields on Sunday. Pic by Mark Doherty.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-['Sport is cruel at times' - Slaughtneil's Paul McCormack](https://www.derrynow.com/news/derry-sport/1682619/sport-is-cruel-at-times-slaughtneil-s-paul-mccormack.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![The late Max Boggs ](https://www.derrynow.com/resizer/165/93/true/2024_12_16/Max_Boggs-1734351001011.jpg--.jpg?1734351001061 "The late Max Boggs ")](https://www.derrynow.com/news/county-derry-post/1681724/tractor-run-to-take-place-in-memory-of-farming-lover-max.html)
-
-The late Max Boggs
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Tractor run to take place in memory of farming lover Max](https://www.derrynow.com/news/county-derry-post/1681724/tractor-run-to-take-place-in-memory-of-farming-lover-max.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_12_17/2975973-1734439569165.jpg--.jpg?1734439571985 "Derry City")](https://www.derrynow.com/news/derry-sport/1682598/derry-city-to-begin-the-2025-season-at-the-home-of-champions-shelbourne.html)
-
-Derry City will meet Shelbourne on the opening day of the 2025 season.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry City to begin the 2025 season at the home of champions Shelbourne](https://www.derrynow.com/news/derry-sport/1682598/derry-city-to-begin-the-2025-season-at-the-home-of-champions-shelbourne.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Girls Zoe Bruce-Brand and Sadhbh Callan from Broadbridge Primary School, Eglinton and Maeve O’Donnell from Hollybush Primary School, Culmore, with Athletics NI Coach Luke Dinsmore at Portstewart](https://www.derrynow.com/resizer/165/93/true/2024_12_17/2._Zoe_Bruce-Brand_and_Sadhbh_Callan_from_Broadbridge_Primary_School%2C_Eglinton_and_Maeve_ODonnell_from_Hollybush_Primary_School%2C_Culmore%2C_with_Athletics_NI_Coach_Luke_Dinsmore_at_Portste-1734439377564.jpg--.jpg?1734439378593 "Derry Girls Zoe Bruce-Brand and Sadhbh Callan from Broadbridge Primary School, Eglinton and Maeve O’Donnell from Hollybush Primary School, Culmore, with Athletics NI Coach Luke Dinsmore at Portstewart")](https://www.derrynow.com/news/derry-sport/1682594/ready-set-go-flahavans-gives-derry-pupils-a-boost-in-athletics-ni-league.html)
-
-Derry Girls Zoe Bruce-Brand and Sadhbh Callan from Broadbridge Primary School, Eglinton and Maeve O’Donnell from Hollybush Primary School, Culmore, with Athletics NI Coach Luke Dinsmore at Portstewart
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ready, Set, Go! Flahavan’s gives Derry pupils a boost in Athletics NI League](https://www.derrynow.com/news/derry-sport/1682594/ready-set-go-flahavans-gives-derry-pupils-a-boost-in-athletics-ni-league.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man described in court as 'a violent offender' charged with series of motoring and burglary offences](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Man described in court as 'a violent offender' charged with series of motoring and burglary offences")](https://www.derrynow.com/news/local-news/1682546/man-described-in-court-as-a-violent-offender-charged-with-series-of-motoring-and-burglary-offences.html)
-
-Derry Magistrates' Court
+Foyle MP Colum Eastwood.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man described in court as 'a violent offender' charged with series of motoring and burglary offences](https://www.derrynow.com/news/local-news/1682546/man-described-in-court-as-a-violent-offender-charged-with-series-of-motoring-and-burglary-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+['no place in our city for these kind of racist, fascist threats' - Foyle MP](https://www.derrynow.com/news/local-news/1683055/no-place-in-our-city-for-these-kind-of-racist-fascist-threats-foyle-mp.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police in Derry charge 30-year-old man with burglary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry charge 30-year-old man with burglary")](https://www.derrynow.com/news/local-news/1683054/police-in-derry-charge-30-year-old-man-with-burglary.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police in Derry charge 30-year-old man with burglary](https://www.derrynow.com/news/local-news/1683054/police-in-derry-charge-30-year-old-man-with-burglary.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Historic moment as first paramedics graduate from Derry's Magee campus](https://www.derrynow.com/resizer/165/93/true/2024_12_17/UU_Paramedics_2-1734451461857.jpg--.jpg?1734451463108 "Historic moment as first paramedics graduate from Derry's Magee campus")](https://www.derrynow.com/news/local-news/1682870/historic-moment-as-first-paramedics-graduate-from-derry-s-magee-campus.html)
+
+The first ever cohort of paramedics to be trained in Northern Ireland graduate from Ulster University in Derry.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Historic moment as first paramedics graduate from Derry's Magee campus](https://www.derrynow.com/news/local-news/1682870/historic-moment-as-first-paramedics-graduate-from-derry-s-magee-campus.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![49-year-old man arrested on suspicion of a number of offences in Derry](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "49-year-old man arrested on suspicion of a number of offences in Derry")](https://www.derrynow.com/news/local-news/1682786/49-year-old-man-arrested-on-suspicion-of-a-number-of-offences-in-derry.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[49-year-old man arrested on suspicion of a number of offences in Derry](https://www.derrynow.com/news/local-news/1682786/49-year-old-man-arrested-on-suspicion-of-a-number-of-offences-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police in Derry investigating after masked men attempt to force entry into van](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Police in Derry investigating after masked men attempt to force entry into van")](https://www.derrynow.com/news/local-news/1682753/police-in-derry-investigating-after-masked-men-attempt-to-force-entry-into-van.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police in Derry investigating after masked men attempt to force entry into van](https://www.derrynow.com/news/local-news/1682753/police-in-derry-investigating-after-masked-men-attempt-to-force-entry-into-van.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Third Electrical Switchgear Academy with Derry-based Vertiv welcomed](https://www.derrynow.com/resizer/165/93/true/2024_12_17/capture34-1698922592699.JPG--massive_jobs_boost_as_vertiv_to_expand_derry_operation_with_200_new_jobs-1734445766940.jpg--.jpg?1734445766974 "Third Electrical Switchgear Academy with Derry-based Vertiv welcomed")](https://www.derrynow.com/news/local-news/1682727/third-electrical-switchgear-academy-with-derry-based-vertiv-welcomed.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Third Electrical Switchgear Academy with Derry-based Vertiv welcomed](https://www.derrynow.com/news/local-news/1682727/third-electrical-switchgear-academy-with-derry-based-vertiv-welcomed.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
