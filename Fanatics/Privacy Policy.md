@@ -1,3 +1,5 @@
+[](https://www.visible.com/)
+
 [Skip to Main Content](#main-content)[Skip to Footer](#global-footer)
 
 SIGN UP & SAVE!
@@ -555,24 +557,24 @@ Follow Us
 * PayPal
 * Apple Pay
 
-rc: e4fe6b1e558927f5
+rc: 65423de458e925e5
 
-vid: 09fe74d0-bc19-11ef-ad40-87f912857c43
+vid: a73efea0-bc4a-11ef-a3cd-97e8c4d721dd
 
 version: 1.1.0-rc-20241009-20.102758
 
 +
 
-Qualified Experiments #:* 15273:A:0:1
+Qualified Experiments #:* 15273:B:1:1
 * 15465:B:1:1
 * 15472:A:0:1
-Namespaces:* 3:1542:0
-* 5:95:0
-* 6:3147:0
-* 8:2363:0
-* 10:6370:0
-* 11:8108:0
-* 2:2944:0
-* 7:4626:0
-* 9:258:0
-* 4:1539:0
+Namespaces:* 3:1702:0
+* 4:1507:0
+* 5:3261:0
+* 8:4174:0
+* 9:2411:0
+* 2:2500:0
+* 6:4412:0
+* 7:2150:0
+* 10:6175:0
+* 11:5271:0
