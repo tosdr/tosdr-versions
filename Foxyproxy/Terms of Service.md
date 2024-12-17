@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for the great service, works very well!
+Rarely these days do products live up to the hype. FoxyProxy not only lives up to the hype but exceeds it beyond all expectations. Runs solid, straight out of a very easy to install package (VPN).
 
-Antonio
+Phillip Cumberbatch‎
