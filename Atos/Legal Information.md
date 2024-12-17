@@ -142,15 +142,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Eviden Achieves AWS Security Incident Response Specialization to Deliver Unmatched Cyber Resilience for AWS Cloud Customers](https://atos.net/en/2024/news_2024_12_17/eviden-achieves-aws-security-incident-response-specialization-to-deliver-unmatched-cyber-resilience-for-aws-cloud-customers)
         * [Eviden’s Trustway Crypt2pay to help SalisPay & CredoPay to secure and protect sensitive payment data required for card transactions in India, Oman and UAE](https://atos.net/en/2024/uncategorized_2024_12_17/evidens-trustway-crypt2pay-to-help-salispay-credopay-to-secure-and-protect-sensitive-payment-data-required-for-card-transactions-in-india-oman-and-uae)
         * [Atos to evolve CNES's customizable flight software and maintain it for the next five years](https://atos.net/en/2024/press-release_2024_12_16/atos-to-evolve-cness-customizable-flight-software-and-maintain-it-for-the-next-five-years)
-        * [France chooses Eviden to secure Cooperative, Intelligent Transport Systems (C-ITS)](https://atos.net/en/2024/press-release_2024_12_16/france-chooses-eviden-to-secure-cooperative-intelligent-transport-systems-c-its)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
         Dec 17, 2024
         
-        ### Eviden’s Trustway Crypt2pay to help SalisPay & CredoPay to secure and protect sensitive payment data required for card transactions in India, Oman and UAE
+        ### Eviden Achieves AWS Security Incident Response Specialization to Deliver Unmatched Cyber Resilience for AWS Cloud Customers
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
@@ -168,9 +168,9 @@ Atos homepage](https://atos.net/en/)
         ### Latest articles
         
         * [Workplace sustainability: Strategies for success in enterprise IT](https://atos.net/en/blog/workplace-sustainability-strategies-for-success-in-enterprise-it)
+        * [It’s time to expect more from managed infrastructure services](https://atos.net/en/blog/expect-more-from-managed-infrastructure-services)
         * [Regenerative IT: Sustainable technology and environmental stewardship](https://atos.net/en/blog/regenerative-it-sustainable-technology-environmental-stewardship)
         * [Building an inclusive future with digital accessibility maturity assessments](https://atos.net/en/blog/building-an-inclusive-future-with-digital-accessibility-maturity-assessments)
-        * [GraphRAG: Transforming business intelligence](https://atos.net/en/blog/graphrag-transforming-business-intelligence-retrieval-augmented-generation)
         
         [All articles](https://atos.net/en/blog)
         
