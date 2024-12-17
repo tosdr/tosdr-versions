@@ -4,9 +4,9 @@ Sections
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
-[67°
+[63°
 
-![Mostly Cloudy](/pf/resources/images/weather/status-icons/28.png?d=949)](https://www.actionnewsjax.com/weather/)
+![Light Rain](/pf/resources/images/weather/status-icons/11.png?d=949)](https://www.actionnewsjax.com/weather/)
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
@@ -114,7 +114,7 @@ _Last Updated February 26, 2024_
 
   
 
-This Privacy Statement describes how CMG Media Corporation d/b/a Cox Media Group, along with our affiliates, (collectively, “CMG”) collects personal information through websites, mobile and other online applications, and products and services operated by [CMG Network](https://www.actionnewsjax.com/privacy-policy/%E2%80%9Chttps://www.cmg.com/brands/%E2%80%9C) (collectively, the “CMG Network Sites”) that link to this Privacy Statement, and the rights and choices available to individuals with respect to that information.
+This Privacy Statement describes how CMG Media Corporation d/b/a Cox Media Group, along with our affiliates, (collectively, “CMG”) collects personal information through websites, mobile and other online applications, and products and services operated by [CMG Network](https://www.cmg.com/brands/) (collectively, the “CMG Network Sites”) that link to this Privacy Statement, and the rights and choices available to individuals with respect to that information.
 
   
 
