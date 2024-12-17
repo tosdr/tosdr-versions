@@ -328,10 +328,11 @@ USA
 
 **International**  
 Sumdog Ltd  
-43 Queensferry Street Lane  
+CodeBase  
+Argyle House3 Lady Lawson Street  
 Edinburgh  
-EH2 4PF  
-Scotland, UK
+EH3 9DR  
+United Kingdom
 
 [![Sumdog](https://learn.sumdog.com/hubfs/raw_assets/public/Sumdog_December2023/images/Sumdog_logo.svg "Sumdog")](https://learn.sumdog.com/)
 
