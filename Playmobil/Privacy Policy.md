@@ -1,6 +1,6 @@
-[🎁 Use code FROSTYFUN to Double the Fun, 30% OFF EXTRA on Top of Sales! 🎁](https://www.playmobil.com/en-us/web-shop/sale/)
+["🎁 Final Days! Code FROSTYFUN Expires 18.12 – Don’t Miss Holiday Fun! ❄️"](https://www.playmobil.com/en-us/web-shop/)
 
-[🎁 Use code FROSTYFUN to Double the Fun, 30% OFF EXTRA on Top of Sales! 🎁](https://www.playmobil.com/en-us/web-shop/sale/)
+["🎁 Final Days! Code FROSTYFUN Expires 18.12 – Don’t Miss Holiday Fun! ❄️"](https://www.playmobil.com/en-us/web-shop/)
 
 [](https://www.playmobil.us/en-us/)
 
