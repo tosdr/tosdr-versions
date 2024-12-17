@@ -207,28 +207,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Wende im Erpressungsfall: Staatsanwalt jagt Schumis Krankenschwester
-
-Wende im Erpressungsfall: Staatsanwalt jagt Schumis Krankenschwester
-
-Wende im Erpressungsfall: Staatsanwalt jagt Schumis Krankenschwester
-
-Wende im Erpressungsfall: Staatsanwalt jagt Schumis Krankenschwester
-
-Wende im Erpressungsfall: Staatsanwalt jagt Schumis Krankenschwester
-
-Wende im Erpressungsfall: Staatsanwalt jagt Schumis Krankenschwester
-
-Wende im Erpressungsfall: Staatsanwalt jagt Schumis Krankenschwester
-
-Wende im Erpressungsfall: Staatsanwalt jagt Schumis Krankenschwester
-
-Wende im Erpressungsfall: Staatsanwalt jagt Schumis Krankenschwester
-
-Wende im Erpressungsfall: Staatsanwalt jagt Schumis Krankenschwester](https://www.bild.de/regional/nordrhein-westfalen/erpressung-staatsanwalt-jagt-krankenschwester-von-michael-schumacher-6761421ae91835077f84cc11)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
