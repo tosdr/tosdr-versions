@@ -30,7 +30,7 @@ Subscribe
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-* [South Korea impeachment](https://www.japantimes.co.jp/tag/south-korea/ "South Korea impeachment")
+* [Trump transition](https://www.japantimes.co.jp/tag/donald-trump/ "Trump transition")
 * [Yen](https://www.japantimes.co.jp/tag/yen/ "Yen")
 * [2024 in review](https://www.japantimes.co.jp/tag/2024-in-review/?type=column/ "2024 in review")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
@@ -139,17 +139,17 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440205.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday")](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
 
-[How India’s soft power led to a border deal with China](https://www.japantimes.co.jp/commentary/2024/12/15/world/india-china-border-deal-how/ "How India’s soft power led to a border deal with China")
+[Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-student-stabbing/ "Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds")
 
-  [![Indian Prime Minister Narendra Modi and Chinese leader Xi Jinping meet at the BRICS summit in Kazan, Russia, in October. India and China reached a border deal for Chinese forces to retreat from disputed territory and for India to resume border patrols.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/439003.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian Prime Minister Narendra Modi and Chinese leader Xi Jinping meet at the BRICS summit in Kazan, Russia, in October. India and China reached a border deal for Chinese forces to retreat from disputed territory and for India to resume border patrols.")](https://www.japantimes.co.jp/commentary/2024/12/15/world/india-china-border-deal-how/ "How India’s soft power led to a border deal with China")
+  [![Flowers and offerings are placed outside a McDonald's restaurant in Kitakyushu, Fukuoka Prefecture, where two junior high school students were stabbed by a man on Saturday, one fatally.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440394.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Flowers and offerings are placed outside a McDonald's restaurant in Kitakyushu, Fukuoka Prefecture, where two junior high school students were stabbed by a man on Saturday, one fatally.")](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-student-stabbing/ "Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds")
 
-[Latest scandal raises fresh questions about U.K.'s Prince Andrew](https://www.japantimes.co.jp/news/2024/12/15/world/prince-andrew-latest-scandal/ "Latest scandal raises fresh questions about U.K.'s Prince Andrew")
+[Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/16/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
 
-  [![Queen Elizabeth II and Prince Andrew leave after Prince Philip's Thanksgiving Service at Westminster Abbey in March 2022. Revelations that a suspected Chinese spy became a confidant of Britain's Prince Andrew is renewing scrutiny of King Charles' disgraced brother.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440344.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Queen Elizabeth II and Prince Andrew leave after Prince Philip's Thanksgiving Service at Westminster Abbey in March 2022. Revelations that a suspected Chinese spy became a confidant of Britain's Prince Andrew is renewing scrutiny of King Charles' disgraced brother.")](https://www.japantimes.co.jp/news/2024/12/15/world/prince-andrew-latest-scandal/ "Latest scandal raises fresh questions about U.K.'s Prince Andrew")
+  [![A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440420.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.")](https://www.japantimes.co.jp/business/2024/12/16/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
 
-[Women are writing a new chapter in Japanese literature in the 2020s](https://www.japantimes.co.jp/culture/2024/12/15/books/japanese-literature-translation/ "Women are writing a new chapter in Japanese literature in the 2020s")
+[Akie Abe, widow of slain prime minister, meets with Trump](https://www.japantimes.co.jp/news/2024/12/16/japan/politics/akie-abe-donald-trump/ "Akie Abe, widow of slain prime minister, meets with Trump")
 
-  [!["Butter," Asako Yuzuki’s thrilling novel inspired by a real-life femme fatale, was named the Waterstones Book of the Year in 2024.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440024.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 ""Butter," Asako Yuzuki’s thrilling novel inspired by a real-life femme fatale, was named the Waterstones Book of the Year in 2024.")](https://www.japantimes.co.jp/culture/2024/12/15/books/japanese-literature-translation/ "Women are writing a new chapter in Japanese literature in the 2020s")
+  [![U.S. President-elect Donald Trump (left) and his wife, Melania (right), pose for a photo with Akie Abe, the widow of assassinated former Prime Minister Shinzo Abe, at his Mar-a-Lago resort in Palm Beach, Florida, on Sunday in this image posted on Melania Trump's X social media account.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440452.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump (left) and his wife, Melania (right), pose for a photo with Akie Abe, the widow of assassinated former Prime Minister Shinzo Abe, at his Mar-a-Lago resort in Palm Beach, Florida, on Sunday in this image posted on Melania Trump's X social media account.")](https://www.japantimes.co.jp/news/2024/12/16/japan/politics/akie-abe-donald-trump/ "Akie Abe, widow of slain prime minister, meets with Trump")
 
 Editors' Picks
 --------------
@@ -168,27 +168,27 @@ By [Simon STURDEE](https://www.japantimes.co.jp/author/5475/simon-sturdee/ "Simo
 
   [![A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440205.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A McDonald's in Kitakyushu where a junior high school student was stabbed to death on Saturday")](https://www.japantimes.co.jp/news/2024/12/15/japan/crime-legal/fukuoka-mcdonalds-stabbing/ "Schoolgirl stabbed to death in Kitakyushu")
 
-[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[How India’s soft power led to a border deal with China](https://www.japantimes.co.jp/commentary/2024/12/15/world/india-china-border-deal-how/ "How India’s soft power led to a border deal with China")
+[Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-student-stabbing/ "Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds")
 
-By [Dalbir Ahlawat](https://www.japantimes.co.jp/author/6162/dalbir-ahlawat/ "Dalbir Ahlawat")  
+  [![Flowers and offerings are placed outside a McDonald's restaurant in Kitakyushu, Fukuoka Prefecture, where two junior high school students were stabbed by a man on Saturday, one fatally.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440394.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Flowers and offerings are placed outside a McDonald's restaurant in Kitakyushu, Fukuoka Prefecture, where two junior high school students were stabbed by a man on Saturday, one fatally.")](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-student-stabbing/ "Fatal knife attack in Kitakyushu McDonald’s took less than 30 seconds")
 
-  [![Indian Prime Minister Narendra Modi and Chinese leader Xi Jinping meet at the BRICS summit in Kazan, Russia, in October. India and China reached a border deal for Chinese forces to retreat from disputed territory and for India to resume border patrols.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/439003.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian Prime Minister Narendra Modi and Chinese leader Xi Jinping meet at the BRICS summit in Kazan, Russia, in October. India and China reached a border deal for Chinese forces to retreat from disputed territory and for India to resume border patrols.")](https://www.japantimes.co.jp/commentary/2024/12/15/world/india-china-border-deal-how/ "How India’s soft power led to a border deal with China")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
+[Taiwan’s bullet train a testament to shinkansen’s export potential](https://www.japantimes.co.jp/business/2024/12/16/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
 
-[Latest scandal raises fresh questions about U.K.'s Prince Andrew](https://www.japantimes.co.jp/news/2024/12/15/world/prince-andrew-latest-scandal/ "Latest scandal raises fresh questions about U.K.'s Prince Andrew")
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
 
-  [![Queen Elizabeth II and Prince Andrew leave after Prince Philip's Thanksgiving Service at Westminster Abbey in March 2022. Revelations that a suspected Chinese spy became a confidant of Britain's Prince Andrew is renewing scrutiny of King Charles' disgraced brother.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440344.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Queen Elizabeth II and Prince Andrew leave after Prince Philip's Thanksgiving Service at Westminster Abbey in March 2022. Revelations that a suspected Chinese spy became a confidant of Britain's Prince Andrew is renewing scrutiny of King Charles' disgraced brother.")](https://www.japantimes.co.jp/news/2024/12/15/world/prince-andrew-latest-scandal/ "Latest scandal raises fresh questions about U.K.'s Prince Andrew")
+  [![A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440420.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Taiwan High Speed Rail bullet train arrives at Nangang Station in the city of Taipei.")](https://www.japantimes.co.jp/business/2024/12/16/taiwan-hsr-shinkansen/ "Taiwan’s bullet train a testament to shinkansen’s export potential")
 
-[CULTURE](https://www.japantimes.co.jp/culture/ "CULTURE")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Women are writing a new chapter in Japanese literature in the 2020s](https://www.japantimes.co.jp/culture/2024/12/15/books/japanese-literature-translation/ "Women are writing a new chapter in Japanese literature in the 2020s")
+[Akie Abe, widow of slain prime minister, meets with Trump](https://www.japantimes.co.jp/news/2024/12/16/japan/politics/akie-abe-donald-trump/ "Akie Abe, widow of slain prime minister, meets with Trump")
 
-By [Mike Fu](https://www.japantimes.co.jp/author/6008/mike-fu/ "Mike Fu")  
+By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
 
-  [!["Butter," Asako Yuzuki’s thrilling novel inspired by a real-life femme fatale, was named the Waterstones Book of the Year in 2024.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/15/440024.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 ""Butter," Asako Yuzuki’s thrilling novel inspired by a real-life femme fatale, was named the Waterstones Book of the Year in 2024.")](https://www.japantimes.co.jp/culture/2024/12/15/books/japanese-literature-translation/ "Women are writing a new chapter in Japanese literature in the 2020s")
+  [![U.S. President-elect Donald Trump (left) and his wife, Melania (right), pose for a photo with Akie Abe, the widow of assassinated former Prime Minister Shinzo Abe, at his Mar-a-Lago resort in Palm Beach, Florida, on Sunday in this image posted on Melania Trump's X social media account.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/16/440452.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump (left) and his wife, Melania (right), pose for a photo with Akie Abe, the widow of assassinated former Prime Minister Shinzo Abe, at his Mar-a-Lago resort in Palm Beach, Florida, on Sunday in this image posted on Melania Trump's X social media account.")](https://www.japantimes.co.jp/news/2024/12/16/japan/politics/akie-abe-donald-trump/ "Akie Abe, widow of slain prime minister, meets with Trump")
 
 Podcast
 -------
@@ -209,9 +209,9 @@ By [Alex K.T. Martin](https://www.japantimes.co.jp/author/219/alex-kt-martin/ "A
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,19 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Philippines ratifies key defense pact with Japan](https://www.japantimes.co.jp/news/2024/12/16/japan/philippines-ratify-japan-defense-pact/ "Philippines ratifies key defense pact with Japan")
+[Trump picks businessman George Glass as Japan ambassador](https://www.japantimes.co.jp/news/2024/12/17/japan/politics/trump-japan-george-glass-ambassador/ "Trump picks businessman George Glass as Japan ambassador")
 
-9 hours ago
+34 mins ago
 
-[Emperor and empress to attend Hanshin Quake Memorial on anniversary](https://www.japantimes.co.jp/news/2024/12/16/japan/emperor-empress-hanshin-earthquake/ "Emperor and empress to attend Hanshin Quake Memorial on anniversary")
+[Starmer’s China reset plans get undercut by royal access scandal](https://www.japantimes.co.jp/news/2024/12/17/world/politics/starmer-china-royal-access-scandal/ "Starmer’s China reset plans get undercut by royal access scandal")
 
-10 hours ago
+1 hour ago
 
-[DPP tax chief hints at termination of talks with Japan's ruling bloc](https://www.japantimes.co.jp/news/2024/12/16/japan/politics/dpp-tax-talks-terminate/ "DPP tax chief hints at termination of talks with Japan's ruling bloc")
+[New fencing installed to help manage tourists at Mount Fuji photo spot](https://www.japantimes.co.jp/news/2024/12/17/japan/mount-fuji-fence/ "New fencing installed to help manage tourists at Mount Fuji photo spot")
 
-[Bashar Assad's prisoner #3006 tells his story](https://www.japantimes.co.jp/news/2024/12/16/world/assad-prisoner-no-3006-story/ "Bashar Assad's prisoner #3006 tells his story")
+1 hour ago
 
-[Finance Ministry official arrested over alleged 'upskirting' photo](https://www.japantimes.co.jp/news/2024/12/16/japan/crime-legal/japan-official-upskirting-arrest/ "Finance Ministry official arrested over alleged 'upskirting' photo")
+[Chipmaker Kioxia faces a tough debut in Tokyo’s busy IPO arena](https://www.japantimes.co.jp/business/2024/12/17/companies/japan-kioxia-ipo-tough-debut/ "Chipmaker Kioxia faces a tough debut in Tokyo’s busy IPO arena")
+
+1 hour ago
+
+[Germany's Scholz loses confidence vote, triggering early elections](https://www.japantimes.co.jp/news/2024/12/17/world/politics/germany-scholz-confidence-elections/ "Germany's Scholz loses confidence vote, triggering early elections")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
