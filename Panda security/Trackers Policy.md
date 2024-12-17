@@ -55,13 +55,13 @@ Renew now
 
 * Protection
 * [Panda Dome product range](https://www.pandasecurity.com/en/homeusers/)
+* [Panda Dome Free](https://www.pandasecurity.com/en/homeusers/free-antivirus/)
 * [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/)
 * [Panda Dome Advanced](https://www.pandasecurity.com/en/dome/advanced/)
 * [Panda Dome Complete](https://www.pandasecurity.com/en/dome/complete/)
 * [Panda Dome Premium](https://www.pandasecurity.com/en/dome/premium/)
 * [Panda Dome Family](https://www.pandasecurity.com/en/homeusers/dome-family/)
 * [Panda Dome for Android](https://www.pandasecurity.com/en/homeusers/android-antivirus/)
-* [Panda Dome Free](https://www.pandasecurity.com/en/homeusers/free-antivirus/)
 
 * Privacy
 * [Panda VPN](https://www.pandasecurity.com/en/homeusers/vpn/)
@@ -166,7 +166,7 @@ Platforms
 
 Protection
 
-[Panda Dome product range](https://www.pandasecurity.com/en/homeusers/) [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/) [Panda Dome Advanced](https://www.pandasecurity.com/en/dome/advanced/) [Panda Dome Complete](https://www.pandasecurity.com/en/dome/complete/) [Panda Dome Premium](https://www.pandasecurity.com/en/dome/premium/) [Panda Dome Family](https://www.pandasecurity.com/en/homeusers/dome-family/) [Panda Dome for Android](https://www.pandasecurity.com/en/homeusers/android-antivirus/) [Panda Dome Free](https://www.pandasecurity.com/en/homeusers/free-antivirus/)
+[Panda Dome product range](https://www.pandasecurity.com/en/homeusers/) [Panda Dome Free](https://www.pandasecurity.com/en/homeusers/free-antivirus/) [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/) [Panda Dome Advanced](https://www.pandasecurity.com/en/dome/advanced/) [Panda Dome Complete](https://www.pandasecurity.com/en/dome/complete/) [Panda Dome Premium](https://www.pandasecurity.com/en/dome/premium/) [Panda Dome Family](https://www.pandasecurity.com/en/homeusers/dome-family/) [Panda Dome for Android](https://www.pandasecurity.com/en/homeusers/android-antivirus/)
 
 Privacy
 
