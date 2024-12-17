@@ -1,3 +1,8 @@
+* [Game Pass / PS Plus](https://www.xfire.com/search-game-subscriptions/)
+    * [Email Alerts](https://www.xfire.com/#signup)
+    * [Game Filter](https://www.xfire.com/#filter)
+    * [Game Pass Calendar](https://www.xfire.com/xbox-game-subscriptions/)
+    * [PlayStation Plus Calendar](https://www.xfire.com/playstation-game-subscriptions/)
 * [Ranks & Reviews](https://www.xfire.com/games/)
     * [PC](https://www.xfire.com/game-platform/pc/)
     * [PlayStation 5](https://www.xfire.com/game-platform/playstation5/)
@@ -9,11 +14,6 @@
     * [Linux](https://www.xfire.com/game-platform/linux/)
     * [Android](https://www.xfire.com/game-platform/android/)
     * [iOS](https://www.xfire.com/game-platform/ios/)
-* [Game Pass / PS Plus](https://www.xfire.com/search-game-subscriptions/)
-    * [Email Alerts](https://www.xfire.com/#signup)
-    * [Game Search](https://www.xfire.com/search-game-subscriptions/)
-    * [Game Pass Calendar](https://www.xfire.com/xbox-game-subscriptions/)
-    * [PlayStation Plus Calendar](https://www.xfire.com/playstation-game-subscriptions/)
 * [Wordle](https://www.xfire.com/wordle/)
     * [Word Lists](https://www.xfire.com/wordle/1-letter-in-position/)
     * [Word Finder](https://www.xfire.com/wordle-word-finder-tool/)
@@ -46,8 +46,6 @@ About Xfire
 [](#)
 
  Search
-
-[Instant Game Alerts](https://www.xfire.com/#signup) | [Game Reviews](https://www.xfire.com/games/)
 
 Terms
 =====
