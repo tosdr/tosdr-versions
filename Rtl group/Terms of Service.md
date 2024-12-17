@@ -308,6 +308,14 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-Joining forces: Smartclip and M6 Publicité](/.galleries/images/Smartclip-M6-Publicite_16-9.png?__scale=undefined&description=)
+    
+    Joining forces: Smartclip and M6 Publicité
+    
+    17.12.2024
+    
+    Smartclip, RTL Group’s ad-tech business, and M6 Publicité, the advertising sales house of Groupe M6, announce a strategic technology partnership.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Joining-forces-Smartclip-and-M6-Publicite/)
+    
 * [![slide-Fremantle signs partnership with the Jamie Oliver Group](/.galleries/images/Fremantle-Jamie-Oliver_16-9-v2.png?__scale=undefined&description=)
     
     Fremantle signs partnership with the Jamie Oliver Group
@@ -331,14 +339,6 @@ Europe's leading entertainment brand
     09.12.2024
     
     RTL Deutschland partners with Perplexity AI to test the integration of AI-powered innovations into NTV, _Stern_ and other news offerings.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschland-partners-with-Perplexity-AI/)
-    
-* [![slide-RTL Deutschland secures Bundesliga rights](/.galleries/images/RTL-Deutschland-Bundesliga_16-9.jpg?__scale=undefined&description=)
-    
-    RTL Deutschland secures Bundesliga rights
-    
-    05.12.2024
-    
-    RTL Deutschland has secured two Bundesliga packages in the DFL (German Football League) auction for media rights from the 2025/26 season onwards.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschland-secures-Bundesliga-rights/)
     
 * [![slide-Quarterly statement: January to September 2024](/.galleries/images/Q3-2024_Title-EN_16-9.png?__scale=undefined&description=)
     
