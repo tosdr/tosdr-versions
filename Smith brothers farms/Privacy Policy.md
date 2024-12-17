@@ -196,14 +196,14 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (62)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (57)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (71)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Holiday (40)](https://www.smithbrothersfarms.com/holiday)
+    * [Holiday (38)](https://www.smithbrothersfarms.com/holiday)
         
         * BACK
-        * [Holiday Treats (16)](https://www.smithbrothersfarms.com/holiday-treats)
+        * [Holiday Treats (15)](https://www.smithbrothersfarms.com/holiday-treats)
             
         
     * [Milk & Cream (54)](https://www.smithbrothersfarms.com/milk-cream)
@@ -282,7 +282,7 @@ Hi
         * [Prepared Produce (5)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (103)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (102)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
         * [Bread & Buns (35)](https://www.smithbrothersfarms.com/bread)
@@ -295,7 +295,7 @@ Hi
             
         * [Muffins & Scones (8)](https://www.smithbrothersfarms.com/muffins)
             
-        * [Treats (18)](https://www.smithbrothersfarms.com/desserts)
+        * [Treats (17)](https://www.smithbrothersfarms.com/desserts)
             
         * [Cookies (4)](https://www.smithbrothersfarms.com/cookie)
             
@@ -344,7 +344,7 @@ Hi
         * [Peanut Butter (3)](https://www.smithbrothersfarms.com/peanut-butter-2)
             
         
-    * [Merchandise (9)](https://www.smithbrothersfarms.com/merchandise)
+    * [Merchandise (8)](https://www.smithbrothersfarms.com/merchandise)
         
         * BACK
         * [Apparel (8)](https://www.smithbrothersfarms.com/apparel-and-caps-2)
