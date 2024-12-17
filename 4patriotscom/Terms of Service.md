@@ -34,15 +34,15 @@ Search
     
     [Shop All](https://4patriots.com/category/deals)
     
-    [![72 Hour Food Kit in front of the Christmas tree](https://assets.catsy.com/catsy.1040/DEPT-2403-CATEGORY-TILE-SOLAR-GENERATORS-100W-PANEL-680x680.jpg)
+    [![](https://assets.catsy.com/catsy.1040/PPG-2KX-2411-HOLIDAY-FAMILY-LIFESTYLE-CATEGORY-680x680.jpg)
     
-    50% OFF 100W Solar Panel](https://4patriots.com/product/100w-portable-folding-solar-panel)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F1abd78e7a79a48ddb14cce805c8646b8?width=343)
+    $500 Off NEW Generator 2500](https://4patriots.com/product/patriot-power-solar-generator-2500x-solar-panel)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F1abd78e7a79a48ddb14cce805c8646b8?width=343)
     
-    B1G1 Mini Generator Deal](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![](https://assets.catsy.com/catsy.1040/CAR-2411-HOLIDAY-LIFESTYLE-CATEGORY-680x680.jpg)
+    B1G1 Mini Generator Deal](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![](https://assets.catsy.com/catsy.1040/PPC-CX-2411-2-HOLIDAY-LIFESTYLE-CATEGORY-680x680.jpg)
     
-    #1 Emergency Kit for Cars](https://4patriots.com/product/patriot-power-all-in-one-emergency-car-kit-95-pieces)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F18eb4df89fce447fb8df45519e514965?width=343)
+    \[Stocking Stuffer\] Buy More & Save](https://4patriots.com/product/patriot-power-cell-cx-portable-solar-power-bank?)[![72 Hour Food Kit in front of the Christmas tree](https://assets.catsy.com/catsy.1040/F4P-2411-NONNAS-BEST-LASAGNA-HOLIDAY-LIFESTYLE-CATEGORY-680x680.jpg)
     
-    "Mini" Cooler & Warmer](https://4patriots.com/product/freedom-fridge-electric-cooler-warmer)
+    3-Month Kit + 2 Free Mini Kits](https://4patriots.com/product/3-month-emergency-survival-food-kit?)
     
     [![](https://assets.catsy.com/catsy.1040/SITE-AD-2411-BFCM-DESKTOP-PROMO-EVERGREEN-704x1000.jpg)](https://4patriots.com/category/deals)[![](https://assets.catsy.com/catsy.1040/SITE-AD-2411-BFCM-MOBILE-PROMO-EVERGREEN-854x674.jpg)](https://4patriots.com/product/emergency-food-ration-bars)
     
@@ -120,13 +120,13 @@ Search
     
     Best Sellers](https://4patriots.com/category/solar-power/solar-power-best-sellers)
     
-    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F9d91ba3bcad84853a4e844895c0f9d68?width=500)](https://4patriots.com/product/patriot-power-solar-generator-2000x-solar-panel)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F8914726f809e418088d6636627921cd9?width=638)](https://4patriots.com/product/patriot-power-solar-generator-2000x-solar-panel)
+    [![](https://assets.catsy.com/catsy.1040/SITE-AD-2409-PPG-2KX-CHARGING-DEVICES-704x1000.jpg)](https://4patriots.com/product/patriot-power-solar-generator-2000x-solar-panel)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F8914726f809e418088d6636627921cd9?width=638)](https://4patriots.com/product/patriot-power-solar-generator-2000x-solar-panel)
     
-    ###### Limited Time - Save 50% On Extra Panel
+    ###### Power When You Need It, Where You Need it
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
-    [Shop 100W Solar Panel](https://4patriots.com/product/100w-portable-folding-solar-panel)
+    [Shop Generator 2500X](https://4patriots.com/product/patriot-power-solar-generator-2500x-solar-panel)
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
