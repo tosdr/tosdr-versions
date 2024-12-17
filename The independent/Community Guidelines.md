@@ -27,6 +27,7 @@ Menu
     * [UK Politics](https://www.independent.co.uk/news/uk/politics)
     * [Health](https://www.independent.co.uk/news/health)
     * [Business](https://www.independent.co.uk/news/business)
+    * [Money](https://www.independent.co.uk/money)
     * [Science](https://www.independent.co.uk/news/science)
     * [Space](https://www.independent.co.uk/space)
     * [News Videos](https://www.independent.co.uk/tv/us-news)
@@ -61,7 +62,6 @@ Menu
 * [Lifestyle](https://www.independent.co.uk/life-style)
     * [Lifestyle](https://www.independent.co.uk/life-style)
     * [Tech](https://www.independent.co.uk/tech)
-    * [Money](https://www.independent.co.uk/money)
     * [Food & Drink](https://www.independent.co.uk/life-style/food-and-drink)
     * [Fashion](https://www.independent.co.uk/life-style/fashion)
     * [Love & Sex](https://www.independent.co.uk/life-style/love-sex)
@@ -143,6 +143,10 @@ Please refresh the page or navigate to another page on the site to be automatica
 
 Code of Conduct
 ===============
+
+Related links
+
+1. [Related links](#related-links)
 
 It is important to us that we get things right. Our commitment to high standards is embodied in our company Code of Conduct, which is set out in full below. This Code applies to all members of our editorial staff, as well as freelancers who work for us, and our business partners.
 
@@ -446,7 +450,6 @@ If we publish information that turns out to be inaccurate it is important that t
     * [Independent Urdu](https://www.independenturdu.com/)
     * [The Standard](https://www.standard.co.uk/)
 * [Extras](https://www.independent.co.uk/)
-    * [Advisor](https://www.independent.co.uk/advisor)
     * [Puzzles](https://puzzles.independent.co.uk/)
     * [All topics](https://www.independent.co.uk/topics-list)
     * [Betting Offers](https://www.independent.co.uk/sport/free-bets-b2581138.html)
