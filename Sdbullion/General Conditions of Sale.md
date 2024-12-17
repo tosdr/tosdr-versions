@@ -1052,9 +1052,9 @@ Search  Search
         
         [In Stock Platinum](https://sdbullion.com/products/platinum-products)
         
-* [Deals](https://sdbullion.com/deals)
+* [Doc's Deals](https://sdbullion.com/deals)
     
-    [Deals](https://sdbullion.com/deals) [chevron-right](#/)
+    [Doc's Deals](https://sdbullion.com/deals) [chevron-right](#/)
     
     * [chevron-right Top Sellers](https://sdbullion.com/best-selling-gold-silver-bullion)
         
@@ -1065,7 +1065,7 @@ Search  Search
         [New Releases](https://sdbullion.com/new-releases)
         
     
-    * [chevron-left Deals](#/)
+    * [chevron-left Doc's Deals](#/)
     * [chevron-right Top Sellers](https://sdbullion.com/best-selling-gold-silver-bullion)
         
         [Top Sellers](https://sdbullion.com/best-selling-gold-silver-bullion)
@@ -1104,10 +1104,6 @@ Search  Search
         
         [IRA Approved Platinum](https://sdbullion.com/platinum/ira-approved-platinum)
         
-* [❄ Holiday ❄](https://sdbullion.com/silver/docs-holiday-collection)
-    
-    [❄ Holiday ❄](https://sdbullion.com/silver/docs-holiday-collection)
-    
 * [Rare Coins](https://sdbullion.com/rare-coins)
     
     [Rare Coins](https://sdbullion.com/rare-coins) [chevron-right](#/)
@@ -2885,9 +2881,9 @@ x
         
         [In Stock Platinum](https://sdbullion.com/products/platinum-products)
         
-* [Deals](https://sdbullion.com/deals)
+* [Doc's Deals](https://sdbullion.com/deals)
     
-    [Deals](https://sdbullion.com/deals) [chevron-right](#/)
+    [Doc's Deals](https://sdbullion.com/deals) [chevron-right](#/)
     
     * [chevron-right Top Sellers](https://sdbullion.com/best-selling-gold-silver-bullion)
         
@@ -2898,7 +2894,7 @@ x
         [New Releases](https://sdbullion.com/new-releases)
         
     
-    * [chevron-left Deals](#/)
+    * [chevron-left Doc's Deals](#/)
     * [chevron-right Top Sellers](https://sdbullion.com/best-selling-gold-silver-bullion)
         
         [Top Sellers](https://sdbullion.com/best-selling-gold-silver-bullion)
@@ -2937,10 +2933,6 @@ x
         
         [IRA Approved Platinum](https://sdbullion.com/platinum/ira-approved-platinum)
         
-* [❄ Holiday ❄](https://sdbullion.com/silver/docs-holiday-collection)
-    
-    [❄ Holiday ❄](https://sdbullion.com/silver/docs-holiday-collection)
-    
 * [Rare Coins](https://sdbullion.com/rare-coins)
     
     [Rare Coins](https://sdbullion.com/rare-coins) [chevron-right](#/)
