@@ -84,6 +84,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Shooter at Abundant Life Christian School in Wisconsin ID'd as 15-year-old](https://nypost.com/2024/12/16/us-news/shooter-at-abundant-life-christian-school-in-idd-as-natalie-samantha-rupnow/)
+
 Privacy Notice Highlights
 =========================
 
