@@ -577,7 +577,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[🎉 12 Days- Buy One Get One Cleansers 50% OFF USE CODE: DAY1 ✨](https://www.100percentpure.com/collections/cleansers "https://www.100percentpure.com/collections/cleansers")
+[🎉 12 Days- Buy One Get One Toners 50% OFF USE CODE: DAY2 ✨](https://www.100percentpure.com/collections/natural-toner "https://www.100percentpure.com/collections/natural-toner")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
