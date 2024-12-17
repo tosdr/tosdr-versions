@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 177 utilisateurs actifs
+##### 630 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Tiny11 : Windows 11 en version allégée ! Comment l’installer sur son PC ?](https://lecrabeinfo.net/tiny11-windows-11-en-version-allegee-comment-linstaller-sur-son-pc.html)
 * [Microsoft supprime la fonctionnalité "Actions suggérées" de Windows 11](https://lecrabeinfo.net/microsoft-supprime-la-fonctionnalite-actions-suggerees-de-windows-11.html)
 * [Windows 10 : la mise à jour de décembre 2024 (KB5048652) est disponible, quoi de neuf ?](https://lecrabeinfo.net/windows-10-la-mise-a-jour-de-decembre-2024-kb5048652-est-disponible-quoi-de-neuf.html)
-* [Finalement, c'est non : Microsoft n'autorise pas l'installation de Windows 11 sur les PC non compatibles](https://lecrabeinfo.net/finalement-cest-non-microsoft-ne-nautorise-pas-linstallation-de-windows-11-sur-les-pc-non-compatibles.html)
 
 ### Tendance
 
