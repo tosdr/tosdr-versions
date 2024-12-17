@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Henry Venter
+Hugo van Sittert
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=63411816)  
-Frequency Fanatics (Pty) Ltd
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=58002318)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Eruca](https://www.invoicesonline.co.za/scripts/image.php?bid=8439&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=97729669)  
-Eruca
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=54787149)  
+Oak Tree Immigration
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=202953343)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=178369404)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=121969735)  
-Website Café (PTY) LTD
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=195417122)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=22120409)  
-Abandoned Vehicle and Truck Solutions
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=37200701)  
+SLOANE STAR MEAT MARKET
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=79772196)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=92530634)  
+Moremi Kitchens Rustenburg
 
-![valued client Mmakoma projects ](https://www.invoicesonline.co.za/scripts/image.php?bid=5917&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=116614160)  
-Mmakoma projects
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=31344646)  
+National Elite Security Services (PTY) LTD
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=27497613)  
-CGHK Enterprises (PTY) LTD
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=35635375)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=56953062)  
-IYD
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=38996220)  
+Vplay Grafix
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=214389101)  
-Safe-Train Consulting (PTY) Ltd
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=203169723)  
+MR Compressors& Industrial Supplies
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=5466173)  
-J.M. HUMAN RESOURCES
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=40552597)  
+Entidee Enterprise PTY (ltd)
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=85959013)  
-United Paintball Federation
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=52222751)  
+NWET Pty LTD
 
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=204247269)  
-All Trucking Solutions
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=21084384)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=87886156)  
-Nogana Events and Decor
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=126048529)  
+MONSTER SECURITY GUARDING
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=46707720dae342faf6af4c29c85b34701bceafd118f0a37ada859a00a30c0983&c=164190964)  
-Durbanville Classifieds (Pty) Ltd
+![valued client CBR PAINTS / VERWE](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=59015096)  
+CBR PAINTS / VERWE
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
