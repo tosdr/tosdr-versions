@@ -343,6 +343,10 @@ Affiliates of MDPI to fulfill MDPI’s services and contractual obligations
 
 5.5
 
+If you are associated with a university, institution, or society that has entered into an agreement with MDPI, your personal data like name and email address may be disclosed or shared in accordance with the terms and purposes stipulated in that agreement.
+
+5.6
+
 If we transfer data to recipients in a third country (located outside the European Economic Area, “EEA”), we will only do so if there is an adequate data protection level in accordance with Art. 44 - 50 GDPR. Some third countries are certified by the European Commission through so-called adequacy decisions as having a data protection standard that is comparable to the level in the European Economic Area. You can find a list of these countries at [https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions\_en](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en). If a country does not have a comparable data protection standard, we ensure that data protection is sufficiently guaranteed by other measures. This is possible, for example, through binding corporate rules, standard contractual clauses of the European Commission for the protection of personal data, certificates or recognised codes of conduct. Otherwise, we do not transfer your personal data to countries outside the EU or the EEA or to international organisations, unless expressly stated otherwise in this privacy policy.
 
 6
@@ -370,7 +374,7 @@ Please send your written request to MDPI AG, Grosspeteranlage 5, 4052 Basel, Swi
 
 You also have the right to complain to a data protection supervisory authority about our processing of your personal data.
 
-This Privacy Policy was last updated on 20 November 2024.
+This Privacy Policy was last updated on 17 December 2024.
 
 ### Further Information
 
