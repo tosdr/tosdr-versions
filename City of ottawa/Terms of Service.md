@@ -53,7 +53,7 @@ Learn more about our commitment to accessibility at the City
 * [Commitment, policies, plans and supports](https://ottawa.ca/en/node/1014390)
 * [Accessibility design standards and features](https://ottawa.ca/en/node/1014611)
 * [Accessibility news and events](https://ottawa.ca/en/city-hall/creating-equal-inclusive-and-diverse-city/accessibility-city/accessibility-news-and)
-* [Transportation Services](https://ottawa.ca/en/node/1029246)
+* [Transportation Services](https://ottawa.ca/en/city-hall/creating-equal-inclusive-and-diverse-city/accessibility-city/transportation)
 * [Housing](https://ottawa.ca/en/node/1029247)
 * [Safety and emergency preparedness](https://ottawa.ca/en/node/1029250)
 * [Community supports, healthcare and recreation](https://ottawa.ca/en/node/1029251)
