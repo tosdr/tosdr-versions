@@ -1,6 +1,6 @@
 [](https://app.net/ "Home")
 
-[##### FOR SALE](https://app.net/forsale)[##### Classified Ads](https://app.net/cads)[##### Chat](https://app.net/chat)
+[##### FOR SALE](https://app.net/forsale)[##### Newsfeed](https://app.net/cads)[##### Chat](https://app.net/chat)
 
 [Advertise With Us](https://app.net/prices)
 
