@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Hugo van Sittert
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=58002318)  
-NJR ICT Services (Pty) Ltd
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=81190467)  
+OrgChart Hosting Pty Ltd
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=54787149)  
-Oak Tree Immigration
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=133025154)  
+Tagline Brands
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=178369404)  
-RADIO TYGERBERG 104FM NPC
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=172779113)  
+#DiGi3 Marketing & Design
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=195417122)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=4864471)  
+Imvubu General Trading
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=37200701)  
-SLOANE STAR MEAT MARKET
-
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=92530634)  
-Moremi Kitchens Rustenburg
-
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=31344646)  
-National Elite Security Services (PTY) LTD
-
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=35635375)  
-Digifax Pty) Ltd t/a Findfish
-
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=38996220)  
-Vplay Grafix
-
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=203169723)  
-MR Compressors& Industrial Supplies
-
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=40552597)  
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=195853907)  
 Entidee Enterprise PTY (ltd)
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=52222751)  
-NWET Pty LTD
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=54543693)  
+Norton Medical & Consult - Namibia
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=21084384)  
-Konsortium Operations ( Roamfree Meats )
+![valued client Hydroworld PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=27537970)  
+Hydroworld PTY LTD
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=126048529)  
-MONSTER SECURITY GUARDING
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=157239645)  
+Mtunzini Group
 
-![valued client CBR PAINTS / VERWE](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=8711344ef673e63accc03f7e4cf44575df252d9226addf332d690d3f21ddea1b&c=59015096)  
-CBR PAINTS / VERWE
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=111059702)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+
+![valued client Safe Train Mokgethwa (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8103&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=33422384)  
+Safe Train Mokgethwa (PTY) Ltd
+
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=20779481)  
+Brilliant Roof Products
+
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=113137291)  
+AMS Ambu Medical Supplies
+
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=23685033)  
+MONSTER SECURITY SERVICES
+
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=69178448)  
+SR Travel Services
+
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=032019a0fb5c67118d2d98162e0412e876907aa9ad1d59ec6564888e16fed839&c=176965927)  
+Oukraal Merino's
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
