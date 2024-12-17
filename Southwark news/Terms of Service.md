@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Kesna Clarke fires home. Image: Dave Anderson](https://southwarknews.co.uk/wp-content/uploads/2024/10/Kesna-Clarke-Fisher--360x180.jpg)](https://southwarknews.co.uk/news/high-flying-fish-keep-up-scefl-premierdivision-promotion-charge/)
+    
+    ### [High-flying Fish keep up SCEFL PremierDivision promotion charge](https://southwarknews.co.uk/news/high-flying-fish-keep-up-scefl-premierdivision-promotion-charge/)
+    
+    [![Bermondsey and Old Southwark MP Neil Coyle (left) and Iqbal Mohamed, MP for Dewsbury (right)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Bermondsey-and-Old-Southwark-MP-Neil-Coyle-left-and-Iqbal-Mohamed-MP-for-Dewsbury-right-360x180.png)](https://southwarknews.co.uk/area/bermondsey/labour-mp-slams-independent-mp-who-argued-against-banning-first-cousin-marriage/)
+    
+    ### [Labour MP slams independent MP who argued against banning first-cousin marriage](https://southwarknews.co.uk/area/bermondsey/labour-mp-slams-independent-mp-who-argued-against-banning-first-cousin-marriage/)
+    
     [![L: Umana Yana owner, Debbie Monfries. R: Debbie with rapper Central Cee when he visited her shop.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-16-12-2024-at-14.50-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
     
     ### [Herne Hill restaurant owner to host free soup kitchen funded by rapper Central Cee](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
@@ -47,14 +55,6 @@
     [![Andy and Diane and the steps separating Diane from the outside world](https://southwarknews.co.uk/wp-content/uploads/2024/12/Andy-and-Diane-and-the-steps-separating-Diane-from-the-outside-world-360x180.png)](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
     
     ### [Disabled woman has not left Borough flat in two years as fourteen steps separate her from freedom](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/sydenham-motorbike-360x180.jpg)](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
-    
-    ### [Elderly petrolhead gets surprise motorbike show at hospice in early Christmas gift](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
-    
-    [![Image credit:  King's College Hospital](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screenshot-2024-12-13-at-11.35.35-360x180.png)](https://southwarknews.co.uk/area/camberwell/child-patients-exploring-magical-world-of-fairies-and-goblins-thanks-to-interactive-artwork-at-south-london-hospital/)
-    
-    ### [Child patients exploring ‘magical world’ of fairies and goblins thanks to interactive artwork at South London hospital](https://southwarknews.co.uk/area/camberwell/child-patients-exploring-magical-world-of-fairies-and-goblins-thanks-to-interactive-artwork-at-south-london-hospital/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Kesna Clarke fires home. Image: Dave Anderson](https://southwarknews.co.uk/wp-content/uploads/2024/10/Kesna-Clarke-Fisher--360x180.jpg)](https://southwarknews.co.uk/news/high-flying-fish-keep-up-scefl-premierdivision-promotion-charge/)
+    
+    ### [High-flying Fish keep up SCEFL PremierDivision promotion charge](https://southwarknews.co.uk/news/high-flying-fish-keep-up-scefl-premierdivision-promotion-charge/)
+    
+    [![Bermondsey and Old Southwark MP Neil Coyle (left) and Iqbal Mohamed, MP for Dewsbury (right)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Bermondsey-and-Old-Southwark-MP-Neil-Coyle-left-and-Iqbal-Mohamed-MP-for-Dewsbury-right-360x180.png)](https://southwarknews.co.uk/area/bermondsey/labour-mp-slams-independent-mp-who-argued-against-banning-first-cousin-marriage/)
+    
+    ### [Labour MP slams independent MP who argued against banning first-cousin marriage](https://southwarknews.co.uk/area/bermondsey/labour-mp-slams-independent-mp-who-argued-against-banning-first-cousin-marriage/)
+    
     [![L: Umana Yana owner, Debbie Monfries. R: Debbie with rapper Central Cee when he visited her shop.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-16-12-2024-at-14.50-360x180.jpg)](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
     
     ### [Herne Hill restaurant owner to host free soup kitchen funded by rapper Central Cee](https://southwarknews.co.uk/area/herne-hill/herne-hill-restaurant-owner-to-host-free-soup-kitchen-funded-by-rapper-central-cee/)
@@ -132,14 +140,6 @@ View All Result
     [![Andy and Diane and the steps separating Diane from the outside world](https://southwarknews.co.uk/wp-content/uploads/2024/12/Andy-and-Diane-and-the-steps-separating-Diane-from-the-outside-world-360x180.png)](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
     
     ### [Disabled woman has not left Borough flat in two years as fourteen steps separate her from freedom](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/sydenham-motorbike-360x180.jpg)](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
-    
-    ### [Elderly petrolhead gets surprise motorbike show at hospice in early Christmas gift](https://southwarknews.co.uk/news/community/elderly-petrolhead-gets-surprise-motorbike-show-at-hospice-in-early-christmas-gift/)
-    
-    [![Image credit:  King's College Hospital](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screenshot-2024-12-13-at-11.35.35-360x180.png)](https://southwarknews.co.uk/area/camberwell/child-patients-exploring-magical-world-of-fairies-and-goblins-thanks-to-interactive-artwork-at-south-london-hospital/)
-    
-    ### [Child patients exploring ‘magical world’ of fairies and goblins thanks to interactive artwork at South London hospital](https://southwarknews.co.uk/area/camberwell/child-patients-exploring-magical-world-of-fairies-and-goblins-thanks-to-interactive-artwork-at-south-london-hospital/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -235,11 +235,11 @@ Terms of Use
 
 [15th December 2024](https://southwarknews.co.uk/area/borough/disabled-woman-has-not-left-borough-flat-in-two-years-as-fourteen-steps-separate-her-from-freedom/)
 
-[![Neil Harris applauds supporters after his side beat Swansea City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/N-Harris-25425727-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
+[![Neil Harris speaks to Romain Ese. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/b32c7390-96d5-11ef-a0ae-55537b2d2117-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/millwalls-head-coach-search-clean-slate-out-of-contract-players-esse-and-was-harris-making-point-not-starting-club-signing/)
 
-### [Neil Harris addresses Lions fans as he explains decision to leave Millwall for second time](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
+### [Millwall’s head coach search: clean slate, out-of-contract players, Esse – and was Harris making point not starting ‘club’ signing?](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/millwalls-head-coach-search-clean-slate-out-of-contract-players-esse-and-was-harris-making-point-not-starting-club-signing/)
 
-[10th December 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
+[13th December 2024](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/millwalls-head-coach-search-clean-slate-out-of-contract-players-esse-and-was-harris-making-point-not-starting-club-signing/)
 
 ### Featured Articles
 
