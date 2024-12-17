@@ -84,9 +84,9 @@ Search
 
 Search
 
-#### NJ DRONE SAGA
+#### Pictured
 
-[NJ pilot's drone lost power in restricted flight space — while mystery drone kept flying](https://nypost.com/2024/12/17/us-news/new-jersey-drone-pilot-lost-power-while-approaching-mystery-drone/)
+[Wisconsin Christian school shooter seen in first photos](https://nypost.com/2024/12/17/us-news/natalie-samantha-rupnow-seen-in-first-photos-after-she-killed-2-in-wisconsin-christian-school-shooting/)
 
 Terms Of Use
 ============
