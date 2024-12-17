@@ -410,9 +410,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ To be successful, you have to have your heart in your business and your business in your heart”
+“ Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found”
 
-[Thomas J. Watson](http://en.wikipedia.org/wiki/Thomas_J._Watson)
+[Pema Chödrön](https://en.wikipedia.org/wiki/Pema_Ch%C3%B6dr%C3%B6n)
 
 [](https://www.adafruit.com/about)
 
