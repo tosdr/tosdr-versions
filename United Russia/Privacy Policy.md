@@ -289,6 +289,38 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» усилит реализацию государственной политики по сохранению и укреплению традиционных ценностей](https://cdn.er.ru/media/news/December2024/zhNsc9hkCu8qUMY1dplh-small.png)](https://er.ru/activity/news/edinaya-rossiya-usilit-realizaciyu-gosudarstvennoj-politiki-po-sohraneniyu-i-ukrepleniyu-tradicionnyh-cennostej)
+
+[«Единая Россия» усилит реализацию государственной политики по сохранению и укреплению традиционных ценностей](https://er.ru/activity/news/edinaya-rossiya-usilit-realizaciyu-gosudarstvennoj-politiki-po-sohraneniyu-i-ukrepleniyu-tradicionnyh-cennostej)
+
+[#Мирвозможностей](https://er.ru/activity/news?tags%5B0%5D=1095786) [#РоманРоманов](https://er.ru/activity/news?tags%5B0%5D=1090697) [#XXIIСъездЕР](https://er.ru/activity/news?tags%5B0%5D=1095999) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Республика Мордовия](https://er.ru/activity/news?tags%5B0%5D=1090160) [#традиционные ценности](https://er.ru/activity/news?tags%5B0%5D=51661) [#духовныеценности](https://er.ru/activity/news?tags%5B0%5D=134254)
+
+Сегодня 12:43
+
+[![«Единая Россия» распространит на доноров меры поддержки, предусмотренные для волонтёров](https://cdn.er.ru/media/news/December2024/KDKIJlKouBhlgiuMdUmB-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-rasprostranit-na-donorov-mery-podderzhki-predusmotrennye-dlya-volontyorov)
+
+[«Единая Россия» распространит на доноров меры поддержки, предусмотренные для волонтёров](https://er.ru/activity/news/edinaya-rossiya-rasprostranit-na-donorov-mery-podderzhki-predusmotrennye-dlya-volontyorov)
+
+[#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#доноры крови](https://er.ru/activity/news?tags%5B0%5D=69279) [#молодежнаяполитика](https://er.ru/activity/news?tags%5B0%5D=109512)
+
+Сегодня 12:03
+
+[![«Единая Россия» усилит ответственность за продажу вейпов детям](https://cdn.er.ru/media/news/December2024/YJZnjAgLDlmkMgEQ9JbK-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-usilit-otvetstvennost-za-prodazhu-vejpov-detyam)
+
+[«Единая Россия» усилит ответственность за продажу вейпов детям](https://er.ru/activity/news/edinaya-rossiya-usilit-otvetstvennost-za-prodazhu-vejpov-detyam)
+
+[#Башанкаев](https://er.ru/activity/news?tags%5B0%5D=114445) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#вейпы](https://er.ru/activity/news?tags%5B0%5D=96999) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#никотиносодержащаяпродукция](https://er.ru/activity/news?tags%5B0%5D=143416)
+
+Сегодня 11:40
+
+[![Владимир Якушев: Российские ракетные войска обладают мощнейшим в мире вооружением, но их главная сила – твёрдые духом и верные долгу люди](https://cdn.er.ru/media/news/December2024/ihFZ9rQIkyE5JoctCrO6-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-rossijskie-raketnye-vojska-obladayut-moshnejshim-v-mire-vooruzheniem-no-ih-glavnaya-sila-tvyordye-duhom-i-vernye-dolgu-lyudi)
+
+[Владимир Якушев: Российские ракетные войска обладают мощнейшим в мире вооружением, но их главная сила – твёрдые духом и верные долгу люди](https://er.ru/activity/news/vladimir-yakushev-rossijskie-raketnye-vojska-obladayut-moshnejshim-v-mire-vooruzheniem-no-ih-glavnaya-sila-tvyordye-duhom-i-vernye-dolgu-lyudi)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172) [#ракетные войска](https://er.ru/activity/news?tags%5B0%5D=12521)
+
+Сегодня 10:28
+
 [![«Единая Россия»: Приоритетом на ближайшие годы станет капремонт школ по всей стране](https://cdn.er.ru/media/news/December2024/Swvf9Dnl4jmKAYh20eUi-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-prioritetom-na-blizhajshie-gody-stanet-kapremont-shkol-po-vsej-strane)
 
 [«Единая Россия»: Приоритетом на ближайшие годы станет капремонт школ по всей стране](https://er.ru/activity/news/edinaya-rossiya-prioritetom-na-blizhajshie-gody-stanet-kapremont-shkol-po-vsej-strane)
@@ -302,38 +334,6 @@
 [Будем воплощать: «Единая Россия» исполнит мечты детей - участников акции «Ёлка желаний»](https://er.ru/activity/news/budem-voploshat-edinaya-rossiya-ispolnit-mechty-detej-uchastnikov-akcii-yolka-zhelanij)
 
 [#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Грызлов](https://er.ru/activity/news?tags%5B0%5D=68) [#акция](https://er.ru/activity/news?tags%5B0%5D=122836) [#елкажеланий](https://er.ru/activity/news?tags%5B0%5D=142041) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#новыйгод](https://er.ru/activity/news?tags%5B0%5D=99117)
-
-16.12.24
-
-[![Алёна Аршинова: По проекту «Единой России» «Парта Героя» открыто 22 тысячи парт](https://cdn.er.ru/media/news/December2024/8TnHzC6rEVdeLQAvyNBU-small.jpg)](https://er.ru/activity/news/alyona-arshinova-po-proektu-edinoj-rossii-parta-geroya-otkryto-22-tysyachi-part)
-
-[Алёна Аршинова: По проекту «Единой России» «Парта Героя» открыто 22 тысячи парт](https://er.ru/activity/news/alyona-arshinova-po-proektu-edinoj-rossii-parta-geroya-otkryto-22-tysyachi-part)
-
-[#Аршинова](https://er.ru/activity/news?tags%5B0%5D=3886) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#новаяшкола](https://er.ru/activity/news?tags%5B0%5D=109372) [#ЛицаГероев](https://er.ru/activity/news?tags%5B0%5D=1093607) [#ПартаГероя](https://er.ru/activity/news?tags%5B0%5D=1091818)
-
-16.12.24
-
-[![В «Единой России» предложили инициативы по усилению контроля за капремонтом и строительством школ](https://cdn.er.ru/media/news/December2024/4NnExge5d7NXgfzeZ8em-small.jpg)](https://er.ru/activity/news/v-edinoj-rossii-predlozhili-iniciativy-po-usileniyu-kontrolya-za-kapremontom-i-stroitelstvom-shkol)
-
-[В «Единой России» предложили инициативы по усилению контроля за капремонтом и строительством школ](https://er.ru/activity/news/v-edinoj-rossii-predlozhili-iniciativy-po-usileniyu-kontrolya-za-kapremontom-i-stroitelstvom-shkol)
-
-[#Федорищев](https://er.ru/activity/news?tags%5B0%5D=1095521) [#Самарская область](https://er.ru/activity/news?tags%5B0%5D=2275) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#школы](https://er.ru/activity/news?tags%5B0%5D=121418) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637) [#детскиесады](https://er.ru/activity/news?tags%5B0%5D=107844)
-
-16.12.24
-
-[![Сергей Кравцов: Работа «Единой России» и Минпросвещения позволила превысить показатели по строительству новых школ](https://cdn.er.ru/media/news/December2024/XWBOV3qIeeFupgoBxiKL-small.JPG)](https://er.ru/activity/news/sergej-kravcov-rabota-edinoj-rossii-i-minprosvesheniya-pozvolila-prevysit-pokazateli-po-stroitelstvu-novyh-shkol)
-
-[Сергей Кравцов: Работа «Единой России» и Минпросвещения позволила превысить показатели по строительству новых школ](https://er.ru/activity/news/sergej-kravcov-rabota-edinoj-rossii-i-minprosvesheniya-pozvolila-prevysit-pokazateli-po-stroitelstvu-novyh-shkol)
-
-[#Кравцов](https://er.ru/activity/news?tags%5B0%5D=38915) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-16.12.24
-
-[![Владимир Якушев: Приоритетом «Единой России» на ближайшие годы станет выполнение поручения по капремонту всех школ, где это необходимо](https://cdn.er.ru/media/news/December2024/lPhHWdFqla3PNCYCFUA6-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-prioritetom-edinoj-rossii-na-blizhajshie-gody-stanet-vypolnenie-porucheniya-po-kapremontu-vseh-shkol-gde-eto-neobhodimo)
-
-[Владимир Якушев: Приоритетом «Единой России» на ближайшие годы станет выполнение поручения по капремонту всех школ, где это необходимо](https://er.ru/activity/news/vladimir-yakushev-prioritetom-edinoj-rossii-na-blizhajshie-gody-stanet-vypolnenie-porucheniya-po-kapremontu-vseh-shkol-gde-eto-neobhodimo)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#детскиесады](https://er.ru/activity/news?tags%5B0%5D=107844) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 16.12.24
 
