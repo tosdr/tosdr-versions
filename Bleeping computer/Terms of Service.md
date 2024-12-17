@@ -36,6 +36,9 @@
         
         New IOCONTROL malware used in critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/new-iocontrol-malware-used-in-critical-infrastructure-attacks/)
     
+    * [![Microsoft Visio: The go-to tool for visualizing data is $17.97 in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft Visio: The go-to tool for visualizing data is $17.97 in this deal](https://www.bleepingcomputer.com/offer/deals/microsoft-visio-the-go-to-tool-for-visualizing-data-is-1797-in-this-deal/)
     * [![FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](https://www.bleepingcomputer.com/news/security/fbi-spots-hiatusrat-malware-attacks-targeting-web-cameras-dvrs/)
@@ -45,9 +48,6 @@
     * [![Kali Linux 2024.4 released with 14 new tools, deprecates some features](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Kali Linux 2024.4 released with 14 new tools, deprecates some features](https://www.bleepingcomputer.com/news/security/kali-linux-20244-released-with-14-new-tools-deprecates-some-features/)
-    * [![Windows kernel bug now exploited in attacks to gain SYSTEM privileges](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Windows kernel bug now exploited in attacks to gain SYSTEM privileges](https://www.bleepingcomputer.com/news/security/windows-kernel-bug-now-exploited-in-attacks-to-gain-system-privileges/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -358,9 +358,9 @@ Popular Stories
 * [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Windows kernel bug now exploited in attacks to gain SYSTEM privileges](https://www.bleepingcomputer.com/news/security/windows-kernel-bug-now-exploited-in-attacks-to-gain-system-privileges/)
-* [![Hacker Emoji](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Kali Linux](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Winnti hackers target other threat actors with new Glutton PHP backdoor](https://www.bleepingcomputer.com/news/security/winnti-hackers-target-other-threat-actors-with-new-glutton-php-backdoor/)
+    Kali Linux 2024.4 released with 14 new tools, deprecates some features](https://www.bleepingcomputer.com/news/security/kali-linux-20244-released-with-14-new-tools-deprecates-some-features/)
 
 ##### Follow us:
 
