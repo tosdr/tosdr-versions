@@ -120,15 +120,11 @@ Hear from from industry leaders on all things B2B marketing.
 
 [Explore Qualified+](https://www.qualified.com/plus)
 
-LIVE
-
-from Qualified Headquarters
-
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6759d60a6e3c41b78bb0b411_The%20New%20AI%20Marketing%20Funnel%20-%20Mobile.svg)
 
-Tuesday, December 17th, 10am PT | Virtual Event
+Relive the magic from the event on demand
 
-[Register NOW](https://www.qualified.com/the-new-ai-marketing-funnel-event)
+[Watch NOW](https://www.qualified.com/the-new-ai-marketing-funnel-event)
 
 Say hello to
 
@@ -420,16 +416,11 @@ Functional Cookies
 
 [Watch Now](#)
 
-LIVE
-
-From Qualified Headquarters
-
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/6758877cc8b5d174df3c3b40_1%20The%20New%20AI%20Marketing%20Funnel.svg)
 
-Tuesday, December 17th,  
-10am PT | Virtual Event
+Relive the magic from the event on demand
 
-[Register Now](https://www.qualified.com/the-new-ai-marketing-funnel-event)
+[Watch Now](https://www.qualified.com/the-new-ai-marketing-funnel-event)
 
 PRODUCT
 
