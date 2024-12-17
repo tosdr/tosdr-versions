@@ -338,14 +338,14 @@ We will do our best to promptly deal with your request.
 
 Syracuse, NY 13244
 
-[1.315.443.1870](tel:1.315.443.1870)
+[315.443.1870](tel:+13154431870)
 
-* [Follow us on facebook](https://www.facebook.com/syracuseuniversity)
-* [Follow us on instagram](http://instagram.com/syracuseu)
-* [Follow us on linkedin-in](https://www.linkedin.com/edu/school?id=19054)
-* [Follow us on youtube](http://www.youtube.com/user/Syracuse)
-* [Follow us on tiktok](https://www.tiktok.com/@syracuseu)
-* [Follow us on twitter](https://twitter.com/syracuseu)
+* [](https://www.facebook.com/syracuseuniversity)
+* [](http://instagram.com/syracuseu)
+* [](https://www.linkedin.com/edu/school?id=19054)
+* [](http://www.youtube.com/user/Syracuse)
+* [](https://www.tiktok.com/@syracuseu)
+* [](https://twitter.com/syracuseu)
 
 [Contact Us](https://www.syracuse.edu/about/contact/) [Emergency Contact](https://www.syracuse.edu/about/contact/emergencies/)
 
