@@ -232,13 +232,13 @@ this week
 
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
-[Vaccines](https://www.sciencedaily.com/news/health_medicine/vaccines/)
+[Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
-
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+
+[Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
 [Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
@@ -246,9 +246,9 @@ this week
 
 [Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
 
-[Pollution](https://www.sciencedaily.com/news/earth_climate/pollution/)
+[Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
 
-[Sea Life](https://www.sciencedaily.com/news/plants_animals/sea_life/)
+[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
 
   
 
