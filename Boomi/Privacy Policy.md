@@ -1,6 +1,6 @@
-Join us at Boomi World 2025 May 12 - 15 in Dallas
+Boomi Boosts Data Management Capabilities With the Acquisition of Modern Data Integration Provider Rivery.
 
-[Register Now!](https://boomiworld.com/)
+[Learn more](https://boomi.com/resources/resources-library/boomi-acquires-rivery-data-management)
 
 cross
 
@@ -444,13 +444,13 @@ cross
     
     Join us at our flagship event in Dallas to connect, learn, and discover how to unleash the power of AI to accelerate your business with the Boomi Enterprise Platform.](https://boomiworld.com/)
     
-      [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201280%20720'%3E%3C/svg%3E)
+      [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20936%20630'%3E%3C/svg%3E)
     
-     ![](https://boomi.com/wp-content/uploads/boomi-power-of-connnection.jpg)
+     ![](https://boomi.com/wp-content/uploads/TN-PressReleaseRivery.png)
     
-    Transcending Technological Boundaries: Boomi’s Vision for a Connected World
+    Boomi Boosts Data Management Capabilities With Acquisition of Modern Data Integration Provider Rivery
     
-    Discover how Boomi is revolutionizing the future of technology with its groundbreaking vision for seamless integration and automation, enabling organizations around the world to harness the transformative power of AI.](https://boomi.com/resources/resources-library/transcending-technological-boundaries-boomis-vision-for-a-connected-world)
+    Dec 17, 2024 — Boomi today announced a definitive agreement to acquire Rivery, a modern data integration provider that offers cutting-edge Change Data Capture (CDC) for real-time, efficient data movement.](https://boomi.com/resources/resources-library/boomi-acquires-rivery-data-management)
     
 * Partners
     
