@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_67614fee241e2)
+* [fun from day one!](#tab_6761a55013649)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_67614fee241e2)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_6761a55013649)
     
-* [fomo no more!](#tab_67614fee241f3)
+* [fomo no more!](#tab_6761a5501365b)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_67614fee241f3)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_6761a5501365b)
     
-* [we’ve got you covered, dude](#tab_67614fee24200)
+* [we’ve got you covered, dude](#tab_6761a55013669)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_67614fee24200)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_6761a55013669)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -177,29 +177,41 @@ Cinema room
 Cinema room  
 **After a day of adventure around the city, kick back in our inviting cinema room for a laid-back evening.
 
-#### Holiday Hearts & Arts
+#### Game Night
 
-**Wednesday| 20:00  
+**Tuesday | 19:00  
 The Dude Bar  
-**Let’s spread some love and joy in the world! Create your own Christmas card for your loved ones, or let us send it to elderly people to share the holiday spirit.
+**Giant Jenga, Cards against Humanity, Uno…we’ve got it all! Mingle and play fun games with fellow travellers. Loser gets the next round? 😉
 
-#### Jolly Quizmas
+#### Canvas & Cocoa
+
+**Wednesday| 19:00  
+The Dude Bar  
+**Enjoy painting, sipping on warm cocoa and unwinding in a cozy atmosphere. Bring your creative spirit and share in the joy of creating something special.
+
+#### Jolly Jams Boozy Bingo
 
 **Thursday| 20:00  
 The Dude Bar  
-**It’s a quiz…X-mas themed….FUN FUN FUN. Get in the holiday spirit with our Christmas Pub Quiz. Festive trivia, great prizes and plenty of Holiday cheer.
+**Join us for Christmas music bingo, a festive night filled with Christmas cheer, free shots, and drinks! Test your luck with our unique twist on a classic game.
 
-#### Karaoke Party
+#### Jingle Bell Rock-Aoke
 
 **Friday | 20:00  
 The Dude Bar  
 **What’s your go-to karaoke song? Come show us on Friday, all singers get a free shot. Bring your friends, or make some new ones singing your heart out!
 
-#### Golden Glitz Christmas
+#### Sleighin’ and Playin
 
 **Saturday | 20:00  
 The Dude Bar  
-**We’re hosting a party at the bar and would love for you to join in the fun. Enjoy great vibes with a live DJ, exciting games and plenty of good times to go around.
+**Join us for a festive evening of fun, games, and holiday cheer! Get ready to celebrate the season with laughter, good company, and plenty of activities to keep the holiday spirit.
+
+#### Bracletes & Bonds
+
+**Sunday| 11:00  
+The Dude Bar  
+**Create a one-of-a-kind Amsterdam souvenir at Bracelets & Bonds! Design your own bracelet with charms and colors inspired by the city, making it a truly personal keepsake.
 
 Trusted by over 10,000 visitors worldwide
 -----------------------------------------
