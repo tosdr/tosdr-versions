@@ -1,3 +1,5 @@
+[Advertiser Disclosure](#)
+
 FinanceBuzz Advertiser Disclosure
 =================================
 
