@@ -1,5 +1,3 @@
-[Breaking: 3 dead, 7 wounded in a shooting at a Wisconsin school](https://www.ajc.com/news/nation-world/police-say-multiple-people-injured-at-a-wisconsin-school-shooting/VOWFI7MBTFBDVM5GRUUZHPWKBE/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1891)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1891)](https://www.ajc.com/)
 
 Log In
