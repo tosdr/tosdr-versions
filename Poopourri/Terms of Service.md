@@ -4,13 +4,13 @@
 
 ![](https://s.amazon-adsystem.com/iu3?pid=67ae216d-997c-4448-b1c3-25887206ec47&event=PageView)
 
-                  
+              
 
    [Skip to Content](#main-content) [Skip to Navigation](#masthead)
 
 [Free Shipping On All Orders Over $35\*](https://www.poopourri.com/collections/all-products)
 
-[![~Pourri](//pourri.com/cdn/shop/t/824/assets/pourri--logo-150.gif?v=92675186479064556311734113813)](https://www.poopourri.com/)
+[![~Pourri](//pourri.com/cdn/shop/t/826/assets/pourri--logo-150.gif?v=92675186479064556311734387708)](https://www.poopourri.com/)
 
 shop
 
@@ -31,7 +31,7 @@ shop
     ### Bundle + Save
     
     * [Build Your Own Bundle](https://www.poopourri.com/pages/build-your-own-bundle)
-    * [Up To 40% Sale](https://www.poopourri.com/collections/sale)
+    * [Up To 60% Sale](https://www.poopourri.com/collections/sale)
     
     ### Gifts
     
@@ -60,11 +60,11 @@ shop
 * [Sale](https://www.poopourri.com/collections/sale)
 * Search  
     
-* ![customer account icon](//pourri.com/cdn/shop/t/824/assets/icon--nav-account-v2.svg?v=125546052516818336491734113704)
+* ![customer account icon](//pourri.com/cdn/shop/t/826/assets/icon--nav-account-v2.svg?v=125546052516818336491734387601)
     
     **Sign in** to earn rewards
     
-*  ![shopping bag icon](//pourri.com/cdn/shop/t/824/assets/icon--cart.svg?v=43504665361036498501734113700) **0**
+*  ![shopping bag icon](//pourri.com/cdn/shop/t/826/assets/icon--cart.svg?v=43504665361036498501734387597) **0**
 
 X* [![cat-image](//pourri.com/cdn/shop/files/best-smeller-mob_small.jpg?v=18042034792411084763)
     
@@ -80,33 +80,33 @@ X* [![cat-image](//pourri.com/cdn/shop/files/best-smeller-mob_small.jpg?v=180420
     
     ### Sale
     
-    Save Up to 40%](https://www.poopourri.com/collections/sale)
-* [![cat-image](//pourri.com/cdn/shop/t/824/assets/bar-menu--poo.jpg?v=47379815496088024721734113563)
+    Save Up to 60%](https://www.poopourri.com/collections/sale)
+* [![cat-image](//pourri.com/cdn/shop/t/826/assets/bar-menu--poo.jpg?v=47379815496088024721734387467)
     
     ### Poo~Pourri
     
     Before-You-Go Toilet Fresheners](https://www.poopourri.com/collections/toilet-sprays)
-* [![cat-image](//pourri.com/cdn/shop/t/824/assets/Travel-collection-mob.jpg?v=169265678626251582081734113947)
+* [![cat-image](//pourri.com/cdn/shop/t/826/assets/Travel-collection-mob.jpg?v=169265678626251582081734387828)
     
     ### Travel Collection
     
     Shop Travel-Sized Fresheners](https://www.poopourri.com/collections/gifts-for-travel)
-* [![cat-image](//pourri.com/cdn/shop/t/824/assets/bar-menu--home.jpg?v=1526822056388772681734113561)
+* [![cat-image](//pourri.com/cdn/shop/t/826/assets/bar-menu--home.jpg?v=1526822056388772681734387465)
     
     ### Home~Pourri
     
     Multi-Purpose Odor Fresheners](https://www.poopourri.com/collections/home-pourri)
-* [![cat-image](//pourri.com/cdn/shop/t/824/assets/bar-menu--pet.jpg?v=181139846575367696271734113562)
+* [![cat-image](//pourri.com/cdn/shop/t/826/assets/bar-menu--pet.jpg?v=181139846575367696271734387466)
     
     ### Pet~Pourri
     
     Pet Odor Fresheners](https://www.poopourri.com/collections/pet-pourri)
-* [![cat-image](//pourri.com/cdn/shop/t/824/assets/bar-menu--pot.jpg?v=37423939330182177851734113564)
+* [![cat-image](//pourri.com/cdn/shop/t/826/assets/bar-menu--pot.jpg?v=37423939330182177851734387468)
     
     ### Pot~Pourri
     
     Smoke Odor Fresheners](https://www.poopourri.com/products/pot-pourri-high-hopes)
-* [![cat-image](//pourri.com/cdn/shop/t/824/assets/bar-menu--sole.jpg?v=184380636308178010761734113566)
+* [![cat-image](//pourri.com/cdn/shop/t/826/assets/bar-menu--sole.jpg?v=184380636308178010761734387469)
     
     ### Sole~Pourri
     
@@ -139,7 +139,7 @@ X* [![cat-image](//pourri.com/cdn/shop/files/best-smeller-mob_small.jpg?v=180420
 * [![cat-image](//pourri.com/cdn/shop/files/BWP_PrimeBlue_Preferred_small.png?v=10131370912576904514)
     
     ### Buy With Prime](https://www.poopourri.com/pages/buy-with-prime)
-* [![cat-image](//pourri.com/cdn/shop/t/824/assets/bar-menu--all.jpg?v=127310225224191499861734113560)
+* [![cat-image](//pourri.com/cdn/shop/t/826/assets/bar-menu--all.jpg?v=127310225224191499861734387463)
     
     ### Shop All Products](https://www.poopourri.com/collections/all-products)
 * Search  
@@ -188,7 +188,7 @@ Register
 
 Loading...
 
-![customer account icon](//pourri.com/cdn/shop/t/824/assets/icon--nav-account-v2.svg?v=125546052516818336491734113704)
+![customer account icon](//pourri.com/cdn/shop/t/826/assets/icon--nav-account-v2.svg?v=125546052516818336491734387601)
 
 **Sign in to earn rewards** Don’t have an account? Create an account
 
@@ -287,7 +287,7 @@ For any content that you submit, you grant **Scentsible, LLC** a perpetual, ir
 
 All content that you submit may be used at **Scentsible, LLC's** sole discretion. **Scentsible, LLC** reserves the right to change, condense, withhold publication, remove or delete any content on **Scentsible, LLC's** website that **Scentsible, LLC** deems, in its sole discretion, to violate the content guidelines or any other provision of these Terms of Use. **Scentsible, LLC** does not guarantee that you will have any recourse through **Scentsible, LLC** to edit or delete any content you have submitted. Ratings and written comments are generally posted within two to four business days. However, **Scentsible, LLC** reserves the right to remove or to refuse to post any submission to the extent authorized by law. You acknowledge that you, not **Scentsible, LLC**, are responsible for the contents of your submission. None of the content that you submit shall be subject to any obligation of confidence on the part of **Scentsible, LLC**, its agents, subsidiaries, affiliates, partners or third party service providers and their respective directors, officers and employees.
 
-![Poo~Pourri](//pourri.com/cdn/shop/t/824/assets/pourri--logo-300.jpg?v=158840465595963141081734113814)
+![Poo~Pourri](//pourri.com/cdn/shop/t/826/assets/pourri--logo-300.jpg?v=158840465595963141081734387709)
 
 Freshen funky odors without funky ingredients—guaranteed
 
@@ -297,7 +297,7 @@ About![Expander Arrow](https://cdn.shopify.com/s/files/1/1020/1629/files/nv_righ
 
 Quick Links![Expander Arrow](https://cdn.shopify.com/s/files/1/1020/1629/files/nv_right-arrow.svg?v=1583784384)
 
-[Careers](https://www.poopourri.com/pages/careers "Careers") [FAQ](https://www.poopourri.com/pages/faq "FAQ") [Find a Store](https://www.poopourri.com/pages/air-care "Find a Store") [Refer a Friend](https://www.poopourri.com/pages/refer-a-friend "Refer a Friend") [Wholesale](https://wholesale.poopourri.com/ "Wholesale")
+[Careers](https://www.poopourri.com/pages/careers "Careers") [FAQ](https://www.poopourri.com/pages/faq "FAQ") [Find a Store](https://www.poopourri.com/pages/air-care "Find a Store") [Refer a Friend](https://www.poopourri.com/pages/refer-a-friend "Refer a Friend") [Wholesale](https://wholesale.poopourri.com/ "Wholesale") [Rewards](https://www.poopourri.com/pages/rewards "Rewards")
 
 Legal![Expander Arrow](https://cdn.shopify.com/s/files/1/1020/1629/files/nv_right-arrow.svg?v=1583784384)
 
@@ -331,6 +331,7 @@ INTERNATIONAL INQUIRIES[international@pourri.com](mailto:international@pourri.co
 * [Find a Store](https://www.poopourri.com/pages/air-care)
 * [Refer a Friend](https://www.poopourri.com/pages/refer-a-friend)
 * [Wholesale](https://wholesale.poopourri.com/)
+* [Rewards](https://www.poopourri.com/pages/rewards)
 
 ### Legal
 
