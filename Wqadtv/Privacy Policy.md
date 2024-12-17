@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dc43c520-5bfe-4b11-b2dd-2c9771bfd057/dc43c520-5bfe-4b11-b2dd-2c9771bfd057_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
+        #### [Boil orders in the Quad Cities region](https://www.wqad.com/article/news/local/public-safety/active-boil-order-quad-cities-region/526-a30b1950-412f-4da4-bbd1-8b9cc7f56990)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/d903ddac-aaa4-482d-b09f-d9961a916434/d903ddac-aaa4-482d-b09f-d9961a916434_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d903ddac-aaa4-482d-b09f-d9961a916434/d903ddac-aaa4-482d-b09f-d9961a916434_360x203.jpg)](https://www.wqad.com/article/news/local/good-news/mr-thanksgiving-bob-vogelbaugh-moline-illinois-key-to-the-city/526-569f7e7f-87fd-4380-b8f6-c27017a0e1e4)
         
-        #### [Mr. Thanksgiving will be presented with Key to the City during Tuesday's Moline City Council meeting](https://www.wqad.com/article/news/local/good-news/mr-thanksgiving-bob-vogelbaugh-moline-illinois-key-to-the-city/526-569f7e7f-87fd-4380-b8f6-c27017a0e1e4) [![](https://media.tegna-media.com/assets/WQAD/images/d903ddac-aaa4-482d-b09f-d9961a916434/d903ddac-aaa4-482d-b09f-d9961a916434_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d903ddac-aaa4-482d-b09f-d9961a916434/d903ddac-aaa4-482d-b09f-d9961a916434_360x203.jpg)](https://www.wqad.com/article/news/local/good-news/mr-thanksgiving-bob-vogelbaugh-moline-illinois-key-to-the-city/526-569f7e7f-87fd-4380-b8f6-c27017a0e1e4)
-        
         #### [Mr. Thanksgiving will receive Key to the City during Tuesday city council meeting in Moline](https://www.wqad.com/article/news/local/good-news/mr-thanksgiving-bob-vogelbaugh-moline-illinois-key-to-the-city/526-569f7e7f-87fd-4380-b8f6-c27017a0e1e4)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d10b8a2e-5b2f-4206-a4fc-ced4d1f6d93e/20241216T193858/d10b8a2e-5b2f-4206-a4fc-ced4d1f6d93e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d10b8a2e-5b2f-4206-a4fc-ced4d1f6d93e/20241216T193858/d10b8a2e-5b2f-4206-a4fc-ced4d1f6d93e_360x203.jpg)](https://www.wqad.com/article/news/local/chris-cournoyer-iowa-governor-kim-reynolds-lt/526-847141a9-8e29-446b-af61-92a918746f3a)
-        
-        #### [Iowa Gov. Kim Reynolds appoints state Sen. Chris Cournoyer of LeClaire new lieutenant governor](https://www.wqad.com/article/news/local/chris-cournoyer-iowa-governor-kim-reynolds-lt/526-847141a9-8e29-446b-af61-92a918746f3a)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -57,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a81718f2-063e-4567-b360-bccc9ee4ad75/20241216T231024/a81718f2-063e-4567-b360-bccc9ee4ad75_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a81718f2-063e-4567-b360-bccc9ee4ad75/20241216T231024/a81718f2-063e-4567-b360-bccc9ee4ad75_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/35afca09-805b-4cb6-a7ba-96feb0103649/20241217T131440/35afca09-805b-4cb6-a7ba-96feb0103649_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/35afca09-805b-4cb6-a7ba-96feb0103649/20241217T131440/35afca09-805b-4cb6-a7ba-96feb0103649_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [A little more warmth before highs back in the 30s](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Quiet skies and mild temperatures continue Tuesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/a6a79638-65d3-46fc-a550-d1d6da26d69b/a6a79638-65d3-46fc-a550-d1d6da26d69b_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/a6a79638-65d3-46fc-a550-d1d6da26d69b/a6a79638-65d3-46fc-a550-d1d6da26d69b_360x203.jpg)](https://www.wqad.com/article/news/nation-world/winter-solstice-shortest-day-of-the-year-2024/507-18e8fd4e-8808-496d-bda3-cfcc289778a2)
         
@@ -98,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-31°
+34°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
