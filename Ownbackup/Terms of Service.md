@@ -128,17 +128,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Events
+[Own Discover
 
-Unlocking Value: Key Insights from Own 2024 Customer Events](https://www.ownbackup.com/blog/unlocking-value-key-insights-from-own-2024-customer-events)
+Agentforce and the Rising Importance of Quality Historical Data](https://www.ownbackup.com/blog/agentforce-and-the-rising-importance-of-quality-historical-data)
 
-[Own Secure
+[Agentforce
 
-Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
+How Salesforce Admins Can Use Historical Data to Drive Agentforce Success](https://www.ownbackup.com/blog/how-salesforce-admins-can-use-historical-data-to-drive-agentforce-success)
 
-[Company News
+[Salesforce
 
-It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-salesforce)
+Fuel AI and Forecasting: Is Your Salesforce Data Prepared?](https://www.ownbackup.com/blog/fuel-ai-and-forecasting-is-your-salesforce-data-prepared)
 
 Company
 
@@ -352,17 +352,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Events
+[Own Discover
 
-Unlocking Value: Key Insights from Own 2024 Customer Events](https://www.ownbackup.com/blog/unlocking-value-key-insights-from-own-2024-customer-events)
+Agentforce and the Rising Importance of Quality Historical Data](https://www.ownbackup.com/blog/agentforce-and-the-rising-importance-of-quality-historical-data)
 
-[Own Secure
+[Agentforce
 
-Streamline Salesforce Security to Accelerate Your Next Innovation](https://www.ownbackup.com/blog/streamline-salesforce-security-to-accelerate-your-next-innovation)
+How Salesforce Admins Can Use Historical Data to Drive Agentforce Success](https://www.ownbackup.com/blog/how-salesforce-admins-can-use-historical-data-to-drive-agentforce-success)
 
-[Company News
+[Salesforce
 
-It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-salesforce)
+Fuel AI and Forecasting: Is Your Salesforce Data Prepared?](https://www.ownbackup.com/blog/fuel-ai-and-forecasting-is-your-salesforce-data-prepared)
 
 Company
 
