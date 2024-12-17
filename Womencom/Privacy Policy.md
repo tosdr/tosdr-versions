@@ -43,32 +43,20 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![ariana grande at a wicked premiere](https://www.women.com/img/gallery/ariana-grande-is-stunning-without-makeup/intro-1733955439.jpg)](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
+*  [![Ariana Grande](https://www.women.com/img/gallery/the-best-dressed-stars-of-2024-ranked/intro-1734458003.jpg)](https://www.women.com/1740546/best-dressed-stars-2024-ranked/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+    [Fashion](https://www.women.com/category/fashion/) By Madison Emily Whisenand
     
-    [Ariana Grande Is Stunning Without Makeup](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
-    ================================================================================================================
+    [The Best Dressed Stars Of 2024, Ranked](https://www.women.com/1740546/best-dressed-stars-2024-ranked/)
+    =======================================================================================================
     
-    Ariana Grande may be an R.E.M. beauty mogul, but her pov on makeup use has evolved over the years. Plus, she's just as gorgeous without it.
+    From actors, rappers, and pop girlies alike, 2024 was defined by eclectic outfits, method dressing, and merging the old with the new.
     
-    By Amanda Chatel [Read More](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
+    By Madison Emily Whisenand [Read More](https://www.women.com/1740546/best-dressed-stars-2024-ranked/)
     
-* *  [![Barry Keoghan with Sabrina Carpenter](https://www.women.com/img/gallery/all-the-red-flags-we-noticed-in-sabrina-carpenter-and-barry-keoghans-relationship/intro-1733859839.jpg)](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
-        
-        [Relationships](https://www.women.com/category/relationships/)
-        
-        [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
-        
-        ### [All The Red Flags We Noticed In Sabrina Carpenter And Barry Keoghan's Relationship](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
-        
-        Sabrina Carpenter and Barry Keoghan called off their relationship in December 2024, but there were plenty of red flags before they broke up.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
-        
-    *  [![Close up of feet getting a pedicure](https://www.women.com/img/gallery/every-type-of-pedicure-explained/intro-1733419200.jpg)](https://www.women.com/1730467/every-type-pedicure-explained/)
+* *  [![](https://www.women.com/img/gallery/every-type-of-pedicure-explained/intro-1733419200.jpg)](https://www.women.com/1730467/every-type-pedicure-explained/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -80,10 +68,34 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1730467/every-type-pedicure-explained/)
         
+    *  [![ariana grande at a wicked premiere](https://www.women.com/img/gallery/ariana-grande-is-stunning-without-makeup/intro-1733955439.jpg)](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
+        
+        ### [Ariana Grande Is Stunning Without Makeup](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
+        
+        Ariana Grande may be an R.E.M. beauty mogul, but her pov on makeup use has evolved over the years. Plus, she's just as gorgeous without it.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1735909/ariana-grande-stunning-without-makeup/)
+        
 
 More Stories
 ------------
 
+*  [![Barry Keoghan with Sabrina Carpenter](https://www.women.com/img/gallery/all-the-red-flags-we-noticed-in-sabrina-carpenter-and-barry-keoghans-relationship/intro-1733859839.jpg)](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
+    
+    [Relationships](https://www.women.com/category/relationships/)
+    
+    [Relationships](https://www.women.com/category/relationships/) By Emily Hutchinson
+    
+    ### [All The Red Flags We Noticed In Sabrina Carpenter And Barry Keoghan's Relationship](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
+    
+    Sabrina Carpenter and Barry Keoghan called off their relationship in December 2024, but there were plenty of red flags before they broke up.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1734369/sabrina-carpenter-barry-keoghan-red-flags-relationship/)
+    
 *  [![Dakota Fanning posing at Cannes](https://www.women.com/img/gallery/dakota-fannings-stunning-style-transformation-through-the-years/intro-1733427041.jpg)](https://www.women.com/1730627/dakota-fanning-stunning-style-transformation/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -216,7 +228,7 @@ More Stories
     
     By Emily Hutchinson [Read More](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
     
-*  [![Britney Spears on the stage](https://www.women.com/img/gallery/britney-spearss-hair-transformation-over-the-years/intro-1733346595.jpg)](https://www.women.com/1729572/britney-spears-hair-transformation/)
+*  [![Britney Spears on the stage](https://www.women.com/img/gallery/britney-spearss-hair-transformation-over-the-years/intro-1734461659.jpg)](https://www.women.com/1729572/britney-spears-hair-transformation/)
     
     [Beauty](https://www.women.com/category/beauty/)
     
@@ -395,18 +407,6 @@ More Stories
     Taylor Swift is all about taking risks, and occasionally, they flop. In 2024, Swift switched things up and started doing things differently.
     
     By Bernadette Roe [Read More](https://www.women.com/1719639/taylor-swift-outfits-totally-missed-mark-2024/)
-    
-*  [![HER with an afro](https://www.women.com/img/gallery/20-celebs-who-look-gorgeous-with-their-natural-hair/intro-1731701805.jpg)](https://www.women.com/1714855/celebs-look-gorgeous-with-their-natural-hair/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [20 Celebs Who Look Gorgeous With Their Natural Hair](https://www.women.com/1714855/celebs-look-gorgeous-with-their-natural-hair/)
-    
-    From Michelle Obama to Taylor Swift, these celebrity women are proudly showing the world that the hair you're born with is worth celebrating.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1714855/celebs-look-gorgeous-with-their-natural-hair/)
     
 
 Back
