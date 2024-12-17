@@ -95,68 +95,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/three-appearings-of-Christ)
-
-[The Three Appearings of Christ](https://www.icr.org/article/three-appearings-of-Christ/)
-
-“For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/teacher)
-
-[The Teacher](https://www.icr.org/article/teacher/)
-
-“And the servant of the Lord must not strive; but be gentle unto all men, apt to teach, patient.” (2 Timothy 2:24) Patience and gentleness...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/knowing-him)
-
-[Knowing Him](https://www.icr.org/article/knowing-him/)
-
-“And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is...
-
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60049696/file.jpg)
-
-Living in Light of Genesis](https://store.icr.org/living-in-the-light-of-genesis.html)
-
-$15.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/49457244/file.jpg)
-
-Adam or Apes](https://store.icr.org/adam-or-apes.html)
-
-$12.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
-
-Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
-
-$2.99
-
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
-
-Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
-
-$29.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9372978/file.jpg)
-
-Discovering Dinosaurs](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs.html)
-
-$7.99
-
-$9.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
