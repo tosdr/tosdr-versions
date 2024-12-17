@@ -18,24 +18,24 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 3
-    
-    |     |     |
-    | --- | --- |
-    | NZL | 347 & 453 |
-    | ENG | 143 & 2 /18 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250803)
-* [Men's Test
-    
-    Day 3
+    Day 4 Session 1
     
     |     |     |
     | --- | --- |
     | AUS | 445 |
-    | IND | 4 /51 |
+    | IND | 5 /131 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250503)
+* [Men's Test
+    
+    NZL won by 423 runs
+    
+    |     |     |
+    | --- | --- |
+    | NZL | 347 & 453 |
+    | ENG | 143 & 234 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250803)
 * [Women's Test
     
     Day 2
@@ -46,100 +46,100 @@ FOX SCORES
     | ENG | 9 /395d & 1 /31 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WTEST2024-250101)
-* [WNCL
+* [Men's ODI
     
-    NSW won by 159 runs
+    17/12 23:00 AEST
     
     |     |     |
     | --- | --- |
-    | TAS | 129 |
-    | NSW | 5 /288 |
+    | RSA | –   |
+    | PAK | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WNCL2024-250114)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODI2024-251101)
+* [Women's T20I
+    
+    18/12 0:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | IND | –   |
+    | WI  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WT20I2024-250402)
 * [Big Bash League
     
-    SYD6 won by 5 wkts
+    17/12 19:15 AEST
     
     |     |     |
     | --- | --- |
-    | SYD6 | 5 /172 |
-    | MELR | 7 /169 |
+    | SYDT | –   |
+    | ADE | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/BBL2024-250102)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/BBL2024-250103)
 * NFL
     
 * [NFL
     
-    17/12 12:00 AEST
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | MIN | –   |
-    | CHI | –   |
+    | MIN | 10  |
+    | CHI | 0   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251531)
 * [NFL
     
-    17/12 12:30 AEST
+    1st Qtr
     
     |     |     |
     | --- | --- |
-    | LV  | –   |
-    | ATL | –   |
+    | LV  | 0   |
+    | ATL | 0   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251532)
 * Basketball
     
 * [NBA
     
-    Full Time
+    3 Qtr Time
     
     |     |     |
     | --- | --- |
-    | LAL | 116 |
-    | MEM | 110 |
+    | DET | 97  |
+    | MIA | 81  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011222/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011223/box-score)
 * [NBA
     
-    17/12 11:00 AEST
+    3 Qtr Time
     
     |     |     |
     | --- | --- |
-    | DET | –   |
-    | MIA | –   |
+    | CHA | 79  |
+    | PHI | 95  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011223)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011224/box-score)
 * [NBA
     
-    17/12 11:00 AEST
+    3rd Qtr
     
     |     |     |
     | --- | --- |
-    | CHA | –   |
-    | PHI | –   |
+    | TOR | 53  |
+    | CHI | 63  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011224)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011226/box-score)
 * [NBA
     
-    17/12 11:30 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | TOR | –   |
-    | CHI | –   |
+    | BKN | 40  |
+    | CLE | 72  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011226)
-* [NBA
-    
-    17/12 11:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | BKN | –   |
-    | CLE | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011225)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011225/box-score)
 * [NBA
     
     17/12 14:00 AEST
@@ -164,12 +164,12 @@ FOX SCORES
     
 * [Premier League
     
-    17/12 7:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BOU | –   |
-    | WHU | –   |
+    | BOU | 1   |
+    | WHU | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251610)
 
