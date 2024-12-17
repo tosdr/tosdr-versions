@@ -645,6 +645,30 @@ Press Release
 
 ![](/themes/custom/usda_uswds/img/USDA_logo.png)
 
+[Biden-Harris Administration Announces a Policy Framework to Combat Demand-Driven Illegal Deforestation](https://www.usda.gov/article/biden-harris-administration-announces-policy-framework-combat-demand-driven-illegal-deforestation)
+
+December 17, 2024
+
+The Biden-Harris Administration today released a policy framework to guide potential demand-side measures to reduce the importation of deforestation-linked commodities.
+
+[Learn More](https://www.usda.gov/article/biden-harris-administration-announces-policy-framework-combat-demand-driven-illegal-deforestation)
+
+Blog
+
+![Reese Baker, U.S. Department of Agriculture (USDA) 1890 National Scholar and junior at Southern University A&M in Baton Rouge, Louisiana](/sites/default/files/styles/trending_card_768x603/public/oppe-1890-natl-scholar-healthy-food-blog-121724.jpg?itok=YBVbjecw)
+
+[1890 National Scholar Works to Improve Access to Affordable, Healthy Food](https://www.usda.gov/about-usda/news/blog/2024/12/17/1890-national-scholar-works-improve-access-affordable-healthy-food)
+
+December 17, 2024
+
+“Many people come to college but don’t know what they want to do,” said Reese Baker, U.S. Department of Agriculture (USDA) 1890 National Scholar and junior at Southern University A&M in Baton Rouge, Louisiana. Baker had also felt the same way until she changed her major and followed her passion for agriculture.
+
+[Learn More](https://www.usda.gov/about-usda/news/blog/2024/12/17/1890-national-scholar-works-improve-access-affordable-healthy-food)
+
+Press Release
+
+![](/themes/custom/usda_uswds/img/USDA_logo.png)
+
 [Biden-Harris Administration Continues to Deliver Affordable Clean Energy to Rural Americans as Part of Investing in America Agenda](https://www.usda.gov/article/biden-harris-administration-continues-deliver-affordable-clean-energy-rural-americans-part-investing)
 
 December 16, 2024
@@ -664,26 +688,6 @@ December 11, 2024
 We’re thrilled to introduce the new and improved USDA.gov!
 
 [Learn More](https://www.usda.gov/about-usda/news/blog/2024/12/11/exciting-news-welcome-new-usdagov)
-
-Press Release
-
-![](/sites/default/files/styles/trending_card_768x603/public/twitter-card-fs-updated.jpg?itok=U-FAdQyi)
-
-[Biden-Harris Administration announces nearly $335M in grants to support private forestland management and conservation as part of President Biden’s Investing in America Agenda](https://www.usda.gov/article/biden-harris-administration-announces-nearly-335m-grants-support-private-forestland-management-and)
-
-December 11, 2024
-
-[Learn More](https://www.usda.gov/article/biden-harris-administration-announces-nearly-335m-grants-support-private-forestland-management-and)
-
-Press Release
-
-![](/sites/default/files/styles/trending_card_768x603/public/twitter-card-oc-updated.jpg?itok=NeFDU92W)
-
-[USDA Announces Two Prominent Speakers for the 2025 Agricultural Outlook Forum](https://www.usda.gov/article/usda-announces-two-prominent-speakers-2025-agricultural-outlook-forum-0)
-
-December 11, 2024
-
-[Learn More](https://www.usda.gov/article/usda-announces-two-prominent-speakers-2025-agricultural-outlook-forum-0)
 
 ### AskUSDA
 
