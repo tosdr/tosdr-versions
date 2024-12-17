@@ -254,6 +254,36 @@ Sidebar
 LATEST NEWS
 -----------
 
+[![Meta Agrees to $50 Million Settlement for Australian Facebook Users](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![Meta Agrees to $50 Million Settlement for Australian Facebook Users](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Meta-Agrees-to-50-Million-Settlement-for-Australian-Facebook-Users-400x400.jpg)](https://cyberinsider.com/meta-agrees-to-50-million-settlement-for-australian-facebook-users/)
+
+### [Meta Agrees to $50 Million Settlement for Australian Facebook Users](https://cyberinsider.com/meta-agrees-to-50-million-settlement-for-australian-facebook-users/)
+
+[![FBI Warns of HiatusRAT Campaigns Targeting Web Cameras and DVRs](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![FBI Warns of HiatusRAT Campaigns Targeting Web Cameras and DVRs](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0785-400x400.png)](https://cyberinsider.com/fbi-warns-of-hiatusrat-campaigns-targeting-web-cameras-and-dvrs/)
+
+### [FBI Warns of HiatusRAT Campaigns Targeting Web Cameras and DVRs](https://cyberinsider.com/fbi-warns-of-hiatusrat-campaigns-targeting-web-cameras-and-dvrs/)
+
+[![CISA Warns of New Windows Vulnerability Used in Hacker Attacks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![CISA Warns of New Windows Vulnerability Used in Hacker Attacks](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/CISA-Warns-of-New-Windows-Vulnerability-Used-in-Hacker-Attacks-400x400.jpg)](https://cyberinsider.com/cisa-warns-of-new-windows-vulnerability-used-in-hacker-attacks/)
+
+### [CISA Warns of New Windows Vulnerability Used in Hacker Attacks](https://cyberinsider.com/cisa-warns-of-new-windows-vulnerability-used-in-hacker-attacks/)
+
+[![HIBP Notifies 23 Million Users of Mysterious “Hopamedia” Data Exposure](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![HIBP Notifies 23 Million Users of Mysterious “Hopamedia” Data Exposure](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/HIBP-Notifies-23-Million-Users-of-Mysterious-Hopamedia-Data-Exposure-400x400.jpg)](https://cyberinsider.com/hibp-notifies-23-million-users-of-mysterious-hopamedia-data-exposure/)
+
+### [HIBP Notifies 23 Million Users of Mysterious “Hopamedia” Data Exposure](https://cyberinsider.com/hibp-notifies-23-million-users-of-mysterious-hopamedia-data-exposure/)
+
+[![New NoviSpy Android Spyware Exploits Zero-Day Flaw in Qualcomm Chips](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![New NoviSpy Android Spyware Exploits Zero-Day Flaw in Qualcomm Chips](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/New-NoviSpy-Android-Spyware-Exploits-Zero-Day-Flaw-in-Qualcomm-Chips-400x400.png)](https://cyberinsider.com/new-novispy-android-spyware-exploits-zero-day-flaw-in-qualcomm-chips/)
+
+### [New NoviSpy Android Spyware Exploits Zero-Day Flaw in Qualcomm Chips](https://cyberinsider.com/new-novispy-android-spyware-exploits-zero-day-flaw-in-qualcomm-chips/)
+
 [![Rhode Island's IT System Breached, Citizen Data Compromised](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20389'%3E%3C/svg%3E)
 
 ![Rhode Island's IT System Breached, Citizen Data Compromised](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Miami-Beach-Alerts-Residents-to-Data-Breach-from-Docs-Exposure-400x389.jpg)](https://cyberinsider.com/rhode-islands-it-system-breached-citizen-data-compromised/)
@@ -283,36 +313,6 @@ LATEST NEWS
 ![Kadokawa Paid $3 Million Ransom, BlackSuit Ransomware Still Leaked Stolen Data](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0774-400x400.jpeg)](https://cyberinsider.com/kadokawa-paid-3-million-ransom-blacksuit-ransomware-still-leaked-stolen-data/)
 
 ### [Kadokawa Paid $3 Million Ransom, BlackSuit Ransomware Still Leaked Stolen Data](https://cyberinsider.com/kadokawa-paid-3-million-ransom-blacksuit-ransomware-still-leaked-stolen-data/)
-
-[![Microsoft Teams Exploited in Attacks Delivering DarkGate Malware](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Microsoft Teams Exploited in Attacks Delivering DarkGate Malware](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0772-400x400.jpeg)](https://cyberinsider.com/microsoft-teams-exploited-in-attacks-delivering-darkgate-malware/)
-
-### [Microsoft Teams Exploited in Attacks Delivering DarkGate Malware](https://cyberinsider.com/microsoft-teams-exploited-in-attacks-delivering-darkgate-malware/)
-
-[![Volkswagen and Skoda Flaws Allow Engine Disruption and Owner Data Theft](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Volkswagen and Skoda Flaws Allow Engine Disruption and Owner Data Theft](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Volkswagen-and-Skoda-Flaws-Allow-Engine-Disruption-and-Owner-Data-Theft-400x400.png)](https://cyberinsider.com/volkswagen-and-skoda-flaws-allow-engine-disruption-and-owner-data-theft/)
-
-### [Volkswagen and Skoda Flaws Allow Engine Disruption and Owner Data Theft](https://cyberinsider.com/volkswagen-and-skoda-flaws-allow-engine-disruption-and-owner-data-theft/)
-
-[![Bitcoin ATM Operator Byte Federal Reports Customer Data Breach](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Bitcoin ATM Operator Byte Federal Reports Customer Data Breach](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0768-400x400.png)](https://cyberinsider.com/bitcoin-atm-operator-byte-federal-reports-customer-data-breach/)
-
-### [Bitcoin ATM Operator Byte Federal Reports Customer Data Breach](https://cyberinsider.com/bitcoin-atm-operator-byte-federal-reports-customer-data-breach/)
-
-[![Apple Fixes Encryption Flaw in Passwords App with iOS 18.2 Update](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Apple Fixes Encryption Flaw in Passwords App with iOS 18.2 Update](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0765-400x400.png)](https://cyberinsider.com/apple-fixes-encryption-flaw-in-passwords-app-with-ios-18-2-update/)
-
-### [Apple Fixes Encryption Flaw in Passwords App with iOS 18.2 Update](https://cyberinsider.com/apple-fixes-encryption-flaw-in-passwords-app-with-ios-18-2-update/)
-
-[![Krispy Kreme Reports Cybersecurity Incident Impacting Online Orders](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Krispy Kreme Reports Cybersecurity Incident Impacting Online Orders](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Krispy-Kreme-Reports-Cybersecurity-Incident-Impacting-Online-Orders-400x400.png)](https://cyberinsider.com/krispy-kreme-reports-cybersecurity-incident-impacting-online-orders/)
-
-### [Krispy Kreme Reports Cybersecurity Incident Impacting Online Orders](https://cyberinsider.com/krispy-kreme-reports-cybersecurity-incident-impacting-online-orders/)
 
 Copyright © 2024 · CyberInsider.com · All Rights Reserved · [Privacy Policy](https://cyberinsider.com/privacy-policy/) ·  [Terms of Use](https://cyberinsider.com//terms-of-use/) · [Contact](https://cyberinsider.com/contact/)
 
