@@ -328,6 +328,20 @@ Recurs yearly
 
 Lord Voldemort (GoF-DH2)
 
+#### Mon, Dec 23
+
+Alison Sudol's birthday
+
+Recurs yearly
+
+Queenie Goldstein
+
+Nick Moran's birthday
+
+Recurs yearly
+
+Scabior
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -338,15 +352,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Unlocking Charm (Alohomora) is known as “thief’s friend.”
+Quidditch started in the 11th century at a place called Queerditch Marsh, which is not marked on Muggle maps because wizards have made the place unplottable. Originally, it was quite a crude game played on broomsticks with just the Quaffle.
 
 ### Potter History
 
-June 2, 1999 – Harry Potter and the Chamber of Secrets is published in the United States.
+January 3, 2006 – Harry Potter and the Goblet of Fire was named the highest-earning film internationally for 2005. It earned $850 million.
 
 ### Potter Quote
 
-“It’s S-P-E-W. Stands for the Society for the Promotion of Elfish Welfare.”
+“Cedric was a person who exemplified many of the qualities that distinguish Hufflepuff house. He was a good and loyal friend, a hard worker, he valued fair play. His death has affected you all, whether you knew him well or not. I think that you have the right, therefore, to know exactly how it came about. \[…\] Cedric Diggory was murdered by Lord Voldemort.”
 
 [](#)
 
