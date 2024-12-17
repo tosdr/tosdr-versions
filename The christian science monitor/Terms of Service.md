@@ -94,15 +94,15 @@ Recent Stories
 
 [Resilience
 
+### Why Zimbabweans keep watching their money go up in smoke](https://www.csmonitor.com/World/Africa/2024/1217/zimbabwe-ZiG-financial-crisis-mbare-musika-fire "Why Zimbabweans keep watching their money go up in smoke")
+
+[Resilience
+
 ### As a post-Assad Syria reopens, Syrians ask: Can we go home?](https://www.csmonitor.com/World/Middle-East/2024/1216/syria-refugees-return-home-rebuild "As a post-Assad Syria reopens, Syrians ask: Can we go home?")
 
 [Creativity
 
 ### Innovation by failure in Germany](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1216/Innovation-by-failure-in-Germany "Innovation by failure in Germany")
-
-[Community
-
-### Move over, Vikings. Sweden’s new seafaring heroes are knitting grannies.](https://www.csmonitor.com/The-Culture/Music/2024/1216/christmas-swedish-knitting-choir-gotland "Move over, Vikings. Sweden’s new seafaring heroes are knitting grannies.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Why Zimbabweans keep watching their money go up in smoke](https://www.csmonitor.com/World/Africa/2024/1217/zimbabwe-ZiG-financial-crisis-mbare-musika-fire "Why Zimbabweans keep watching their money go up in smoke")
+
 [### As a post-Assad Syria reopens, Syrians ask: Can we go home?](https://www.csmonitor.com/World/Middle-East/2024/1216/syria-refugees-return-home-rebuild "As a post-Assad Syria reopens, Syrians ask: Can we go home?")
 
 [### What South Korea’s impeachment battle means for US security alliance](https://www.csmonitor.com/World/Asia-Pacific/2024/1216/South-Korea-impeachment-foreign-policy-US-alliance "What South Korea’s impeachment battle means for US security alliance")
-
-[### Floods are battering South Sudan. This aid worker helps villagers plan for the worst.](https://www.csmonitor.com/World/Making-a-difference/2024/1216/south-sudan-flooding-light-for-the-world "Floods are battering South Sudan. This aid worker helps villagers plan for the worst.")
 
 * * *
 
