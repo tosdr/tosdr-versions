@@ -213,6 +213,18 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
+    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
+    
+    **19.09.2024 | 10:00**
+    
+    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
+    
+    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
+    
+    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
+    
+    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    
     [10:00 Antonio Pichillá Quiacaín, LJ](javascript:void(0);)
     
     **19.09.2024 | 10:00**
@@ -226,18 +238,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     Kustosinja razstave: Yasmín Martín Vodopivec
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
-    
-    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
-    
-    **19.09.2024 | 10:00**
-    
-    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
-    
-    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
-    
-    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
-    
-    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
     
     [10:00 Slikarska zbirka Muzeja za umetnost in obrt Zagreb, LJ](javascript:void(0);)
     
@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/milovan-destil-markovic/flag-series/flagseries-j-w.jpg?itok=AniN_Yki)](http://seecult.org/galerija/galerija-umetnika/milovan-destil-markovic/flag-series)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/instalacija-s-kadom/132-3271.jpg?itok=Sro048iF)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/instalacija-s-kadom)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/pepersi1.jpg?itok=vOOts2VM)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/sesira.jpg?itok=S0-ZwwsP)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -314,16 +314,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Od AI do nove osećajnosti](http://seecult.org/vest/od-ai-do-nove-osecajnosti)
+* [Mister Dolar ponovo na Terazijama](http://seecult.org/vest/mister-dolar-ponovo-na-terazijama)
+* [Na početku sveta](http://seecult.org/vest/na-pocetku-sveta)
+* [Legat Zorana Simjanovića u Jugoslovenskoj kinoteci](http://seecult.org/vest/legat-zorana-simjanovica-u-jugoslovenskoj-kinoteci)
 * [Božidar Prodanović - zagonetnost realnih prizora](http://seecult.org/vest/bozidar-prodanovic-zagonetnost-realnih-prizora)
 * [28\. Festival podvodnog filma](http://seecult.org/vest/28-festival-podvodnog-filma)
 * [Preobražaj u JDP-u](http://seecult.org/vest/preobrazaj-u-jdp-u)
 * [Kultura uz studente u blokadi](http://seecult.org/vest/kultura-uz-studente-u-blokadi)
 * [Preminuo Volfgang Beker](http://seecult.org/vest/preminuo-volfgang-beker)
 * [Milošu Tomiću nagrada Branko Vučićević](http://seecult.org/vest/milosu-tomicu-nagrada-branko-vucicevic)
-* [Dobitinici nagrada UFUS-a](http://seecult.org/vest/dobitinici-nagrada-ufus)
-* [Ako ne kontrolišemo – ignorišemo, to je zvanična kulturna politika](http://seecult.org/vest/ako-ne-kontrolisemo-ignorisemo-je-zvanicna-kulturna-politika)
-* [Direktorka JDP ponovo u UO UTE](http://seecult.org/vest/direktorka-jdp-ponovo-u-uo-ute)
-* [Buden gost Filozofskog teatra](http://seecult.org/vest/buden-gost-filozofskog-teatra-0)
 
 * [Konkursi](#tab1_1)
 
