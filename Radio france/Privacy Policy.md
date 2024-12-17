@@ -113,7 +113,7 @@ Menu principal
 
 [](https://twitter.com/radiofrance/ "Radio France sur Twitter - Nouvelle fenêtre")[](https://www.facebook.com/pages/Groupe-Radio-France/225248330547 "Radio France sur Facebook - Nouvelle fenêtre")[](https://www.instagram.com/radiofrance/ "Radio France sur Instagram - Nouvelle fenêtre")[](https://www.linkedin.com/company/radio-france/ "Radio France sur Linkedin - Nouvelle fenêtre")
 
-[![Radio France](/themes/custom/radiofrance/logo.svg?1734448866)](https://www.radiofrance.com/ "Radio France : retour à l'accueil")
+[![Radio France](/themes/custom/radiofrance/logo.svg?1734469928)](https://www.radiofrance.com/ "Radio France : retour à l'accueil")
 
 [](#collapse-menu-ecouter "Écouter")
 
@@ -309,7 +309,7 @@ Vous cherchez Sélectionnez Sélectionnez une valeur pour le champ "Vous êtes"
     * [Médiatrice](https://mediateur.radiofrance.com/ "Médiatrice - Nouvelle fenêtre")
     * [Comité éthique](https://www.radiofrance.com/comite-ethique-de-radio-france "Comité éthique")
 
-* [Billetterie](https://billetterie.maisondelaradio.fr/ "Billetterie - Nouvelle fenêtre")
+* [Billetterie](https://billetterie.maisondelaradioetdelamusique.fr/content "Billetterie - Nouvelle fenêtre")
 * * [Newsletters](https://www.radiofrance.com/newsletters "Newsletters")
     * [Les Brochures](https://www.radiofrance.com/consulter-ou-recevoir-nos-brochures "Les Brochures")
 
