@@ -18,6 +18,7 @@ Yes, please No, thanks
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
     * [Hardware Wallet](https://shop.ledger.com/pages/hardware-wallet "Hardware Wallet")
+    * [Gift Cards](https://shop.ledger.com/products/gift-card "Gift Cards")
     * [Packs](https://shop.ledger.com/#category-bundle "Packs")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
     * [Collaborations](https://www.ledger.com/collaborations "Collaborations")
