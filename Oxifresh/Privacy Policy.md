@@ -386,15 +386,15 @@ What Customers Are Saying
 
 Based on 306,950 Carpet Cleaning Services Reviews
 
-The technician was excellent and the quality of the carpet cleaning was very good. Great customer service experience. **DK.** - Pickerington, OH - 12/15/2024
+Sara was on time, friendly and worked quickly. Some areas of the carpet do not look as good as I had hoped. I will vacuum them as it was suggested. And perhaps it will look better. **MD.** - Avery, TX - 12/16/2024
+
+(4.5 Out of 5 stars)
+
+Cleveland was awesome!! Very knowledgeable and great personality! Thank you for a great job! We are very happy with the results!! **KH.** - Longwood, FL - 12/15/2024
 
 (5.0 Out of 5 stars)
 
-Shannon did a very professional good job! **JG.** - Wahpeton, ND - 12/14/2024
-
-(5.0 Out of 5 stars)
-
-**CH.** - Makoti, ND - 12/14/2024
+Chou cleaned some of our carpeting this week. He always does a great job for us. The Oxi Fresh system works very well Stains are gone traffic areas are cleaned very well and the carpet is not soaking wet. Carpet is nice and soft. Kathy **KC.** - Grand Rapids, MI - 12/14/2024
 
 (5.0 Out of 5 stars)
 
