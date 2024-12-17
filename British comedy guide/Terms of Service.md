@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Cerys Bradley](https://cdn.comedy.co.uk/images/library/people/300x200/c/cerys_bradley_b.jpg "Cerys Bradley")](https://www.comedy.co.uk/live/random8/cerys-bradley-2024/) Live
+
+[Random 8: Cerys Bradley](https://www.comedy.co.uk/live/random8/cerys-bradley-2024/)
+
 [![The Likely Lads. Image shows from L to R: Terry Collier (James Bolam), Bob Ferris (Rodney Bewes)](https://cdn.comedy.co.uk/images/library/comedies/300x200/l/likely_lads.jpg "The Likely Lads. Image shows from L to R: Terry Collier (James Bolam), Bob Ferris (Rodney Bewes)")](https://www.comedy.co.uk/features/comedy-rewind/the-likely-lads/) Features
 
 [Comedy Rewind: A likely story - The Likely Lads](https://www.comedy.co.uk/features/comedy-rewind/the-likely-lads/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Gavin & Stacey. Image shows left to right: Nessa (Ruth Jones), Smithy (James Corden)](https://cdn.comedy.co.uk/images/library/comedies/300x200/g/gavin_and_stacey_smithy_nessa.jpg "Gavin & Stacey. Image shows left to right: Nessa (Ruth Jones), Smithy (James Corden)")](https://www.comedy.co.uk/tv/gavin_stacey/features/the-quiz/) Shop
 
 [Gavin & Stacey: The quiz](https://www.comedy.co.uk/tv/gavin_stacey/features/the-quiz/)
-
-[![Inside No. 9. Image shows left to right: Len Shelby (Steve Pemberton), Tommy Drake (Reece Shearsmith). Credit: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200_eps/i/inside_no_9_0402a.jpg "Inside No. 9. Image shows left to right: Len Shelby (Steve Pemberton), Tommy Drake (Reece Shearsmith). Credit: BBC")](https://www.comedy.co.uk/quiz/336/) Quiz
-
-[British Comedy Quiz #336](https://www.comedy.co.uk/quiz/336/)
 
 #### Subscribe to our newsletters
 
