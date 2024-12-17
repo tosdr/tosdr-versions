@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2023/12/Generic-red-tape-edited-326x245.jpg)](https://cwbchicago.com/2024/12/gunman-opens-fire-on-car-occupied-by-2-off-duty-cops-on-west-side-police-say.html "Gunman opens fire on car occupied by 2 off-duty cops on West Side, police say")
+
+Austin
+
+### [Gunman opens fire on car occupied by 2 off-duty cops on West Side, police say](https://cwbchicago.com/2024/12/gunman-opens-fire-on-car-occupied-by-2-off-duty-cops-on-west-side-police-say.html "Gunman opens fire on car occupied by 2 off-duty cops on West Side, police say")
+
+[December 14, 2024 12:54 PM](https://cwbchicago.com/2024/12)
+
+Chicago police and COPA are investigating a shooting that involved two off-duty CPD officers on the West Side overnight. A 26-year-old man was injured during the incident.[](https://cwbchicago.com/2024/12/gunman-opens-fire-on-car-occupied-by-2-off-duty-cops-on-west-side-police-say.html "Gunman opens fire on car occupied by 2 off-duty cops on West Side, police say")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/12/BB21-326x245.jpg)](https://cwbchicago.com/2024/12/gunshot-victim-flags-down-passerby-for-help-in-neighborhood-previously-served-by-shotspotter.html "Gunshot victim flags down passerby for help in neighborhood previously served by ShotSpotter")
 
 Back of the Yards
@@ -263,16 +273,6 @@ Rogers Park
 [December 14, 2024 8:24 AM](https://cwbchicago.com/2024/12)
 
 Prosecutors have charged an Evanston man with participating in a shootout on a busy West Rogers Park street that has seen more than its share of gunfire and murders this year.[](https://cwbchicago.com/2024/12/man-charged-with-participating-in-brazen-shootout-near-howard-cta-station.html "Man charged with participating in brazen shootout near Howard CTA station")
-
-[![](https://cwbchicago.com/wp-content/uploads/2023/12/Chaqwon-Birden-Jahhuan-Green-Marquise-Ramyyeh-and-Kahdaffie-Green-326x245.jpg)](https://cwbchicago.com/2024/12/4-men-face-federal-charges-for-robbing-electrical-workers-of-high-end-camera.html "4 men face federal charges for robbing electrical workers of high-end camera")
-
-Roseland
-
-### [4 men face federal charges for robbing electrical workers of high-end camera](https://cwbchicago.com/2024/12/4-men-face-federal-charges-for-robbing-electrical-workers-of-high-end-camera.html "4 men face federal charges for robbing electrical workers of high-end camera")
-
-[December 13, 2024 7:03 PM](https://cwbchicago.com/2024/12)
-
-Four men, including a frequent subject of CWBChicago’s reporting, were charged with federal robbery and firearms charges this week that accuse them of robbing electrical workers of expensive specialized equipment. We first told you about the robbery one year ago, just a few days after the workers were targeted in the 9700 block of South Martin Luther King Drive.[](https://cwbchicago.com/2024/12/4-men-face-federal-charges-for-robbing-electrical-workers-of-high-end-camera.html "4 men face federal charges for robbing electrical workers of high-end camera")
 
 #### Daily email newsletter
 
