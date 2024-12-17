@@ -403,6 +403,14 @@ What You Should Know
 
 [View all](https://www.rangextd.com/blogs/news) 
 
+* ![ChargeCard: The Lifesaver That Saved My Trip](//savvysmartdeals.com/cdn/shop/articles/pre-2-cc.gif?v=1734431283)
+    
+    ### ChargeCard: The Lifesaver That Saved My Trip
+    
+    Never Be Powerless When It Matters Most It was 8:30 PM, and I was stuck in the middle of JFK Airport. My phone had just...
+    
+    [Read more](https://www.rangextd.com/blogs/news/chargecard-saves-my-life) 
+    
 * ![Revolutionary Bottle Instantly Turns 'Dirty' Water Pure and Safe!](//savvysmartdeals.com/cdn/shop/articles/uvbrite-adv-1-09.jpg?v=1730113195)
     
     ### Revolutionary Bottle Instantly Turns 'Dirty' Water Pure and Safe!
@@ -426,14 +434,6 @@ What You Should Know
     Let’s face it—everything is getting more expensive, the cost of living is getting higher all the time and I'm constantly on the lookout for ways...
     
     [Read more](https://www.rangextd.com/blogs/news/laundry-masher-pineapple-the-ultimate-hack-to-save-big-on-laundry-costs) 
-    
-* ![The Best Way to Stay Clean Anywhere: Blaux Portable Bidet](//savvysmartdeals.com/cdn/shop/articles/Blaux-bidet-in-action.gif?v=1727855234)
-    
-    ### The Best Way to Stay Clean Anywhere: Blaux Portable Bidet
-    
-    Have you ever found yourself in a less-than-ideal bathroom situation? Maybe the toilet paper ran out, or the restroom looked like it hadn't been cleaned...
-    
-    [Read more](https://www.rangextd.com/blogs/news/the-best-way-to-stay-clean-anywhere-blaux-portable-bidet) 
     
 
 [View all](https://www.rangextd.com/blogs/news) 
