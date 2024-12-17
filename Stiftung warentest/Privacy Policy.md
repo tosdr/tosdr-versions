@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
+* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
 * [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
-* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [Toaster im Test: Klein bräunt besser](https://www.test.de/Toaster-im-Test-Klein-braeunt-besser-6132973-0/ "Toaster im Test - Klein bräunt besser")
-* [Fest­geld: Abzo­cker von One Wall Street](https://www.test.de/Festgeld-Abzocker-von-One-Wall-Street-6077062-0/ "Festgeld - Abzocker von One Wall Street")
-* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
+* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
 * [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
-* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [Toaster im Test: Klein bräunt besser](https://www.test.de/Toaster-im-Test-Klein-braeunt-besser-6132973-0/ "Toaster im Test - Klein bräunt besser")
-* [Fest­geld: Abzo­cker von One Wall Street](https://www.test.de/Festgeld-Abzocker-von-One-Wall-Street-6077062-0/ "Festgeld - Abzocker von One Wall Street")
-* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
+* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
 * [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
-* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [Toaster im Test: Klein bräunt besser](https://www.test.de/Toaster-im-Test-Klein-braeunt-besser-6132973-0/ "Toaster im Test - Klein bräunt besser")
-* [Fest­geld: Abzo­cker von One Wall Street](https://www.test.de/Festgeld-Abzocker-von-One-Wall-Street-6077062-0/ "Festgeld - Abzocker von One Wall Street")
-* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
+* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
 * [Kosten bei der Geld­anlage: Wenn aus Nach­kommastellen Tausende Euro werden](https://www.test.de/Kosten-bei-der-Geldanlage-Wenn-aus-Nachkommastellen-Tausende-Euro-werden-6086265-0/ "Kosten bei der Geldanlage - Wenn aus Nachkommastellen Tausende Euro werden")
-* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [Toaster im Test: Klein bräunt besser](https://www.test.de/Toaster-im-Test-Klein-braeunt-besser-6132973-0/ "Toaster im Test - Klein bräunt besser")
-* [Fest­geld: Abzo­cker von One Wall Street](https://www.test.de/Festgeld-Abzocker-von-One-Wall-Street-6077062-0/ "Festgeld - Abzocker von One Wall Street")
-* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
 
 Stiftung Warentest
 
