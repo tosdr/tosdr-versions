@@ -91,8 +91,8 @@ An ID and a private key (jointly, the “ID Data”) will be automatically creat
   
 You agree to notify us immediately of any unauthorized use of your account or any other breach of security. We will not be liable for any loss that you may incur as a result of someone else using your ID Data, either with or without your knowledge. However, you could be held liable for losses incurred by us or another party due to someone else using your account. You may not use anyone else's ID Data at any time, without the permission of the account holder.  
 
-7\. Your Data Protection Rights
--------------------------------
+7\. Payments
+------------
 
 Any fees charged by us are exclusive of taxes. Therefore, we may calculate and add any applicable taxes or fees, including, but not limited to VAT and other taxes and fees under the laws applicable to you. Such taxes and fees will be calculated according to the payment information provided by you to us at the time of purchasing the Services. For this purpose, you must provide us with an accurate information, including the information about your country of residence, and agree to indemnify and hold harmless us, our affiliates and their respective directors, officers, employees and agents from and against all claims and expenses, including attorneys' fees, arising in connection with the inaccurate, false or incomplete information.  
   
