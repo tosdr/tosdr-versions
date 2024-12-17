@@ -142,11 +142,11 @@ Resource Library
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
+* [Root Causes 447: NIST Deprecates RSA-2048 and ECC 256](https://www.sectigo.com/resource-library/root-causes-447-nist-deprecates-rsa-2048-and-ecc-256)
+* [Root Causes 446: Sectigo Assumes Five CABF Offices](https://www.sectigo.com/resource-library/root-causes-446-sectigo-assumes-five-cabf-offices)
 * [Root Causes 445: Seven Reasons to Shorten Certificate Lifespans](https://www.sectigo.com/resource-library/root-causes-445-seven-reasons-to-shorten-certificate-lifespans)
 * [Root Causes 444: What Happens to the WebPKI if Google Sells Chrome?](https://www.sectigo.com/resource-library/root-causes-444-what-happens-to-the-webpki-if-google-sells-chrome)
 * [Root Causes 443: Is MSCA Going Away?](https://www.sectigo.com/resource-library/root-causes-443-is-msca-going-away)
-* [Root Causes 442: Apple Proposal to Reduce SSL Lifespan Updated](https://www.sectigo.com/resource-library/root-causes-442-apple-proposal-to-reduce-ssl-lifespan-updated)
-* [Root Causes 441: New White House Initiative Targets BGP](https://www.sectigo.com/resource-library/root-causes-441-new-white-house-initiative-targets-bgp)
 
 The total economic impact™ of Sectigo Certificate Manager
 
@@ -242,11 +242,11 @@ Login
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
     * [The 2025 cryptography trends: Challenges and opportunities for IT teams](https://www.sectigo.com/resource-library/the-2025-cryptography-trends-challenges-and-opportunities-for-it-teams)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
+    * [Root Causes 447: NIST Deprecates RSA-2048 and ECC 256](https://www.sectigo.com/resource-library/root-causes-447-nist-deprecates-rsa-2048-and-ecc-256)
+    * [Root Causes 446: Sectigo Assumes Five CABF Offices](https://www.sectigo.com/resource-library/root-causes-446-sectigo-assumes-five-cabf-offices)
     * [Root Causes 445: Seven Reasons to Shorten Certificate Lifespans](https://www.sectigo.com/resource-library/root-causes-445-seven-reasons-to-shorten-certificate-lifespans)
     * [Root Causes 444: What Happens to the WebPKI if Google Sells Chrome?](https://www.sectigo.com/resource-library/root-causes-444-what-happens-to-the-webpki-if-google-sells-chrome)
     * [Root Causes 443: Is MSCA Going Away?](https://www.sectigo.com/resource-library/root-causes-443-is-msca-going-away)
-    * [Root Causes 442: Apple Proposal to Reduce SSL Lifespan Updated](https://www.sectigo.com/resource-library/root-causes-442-apple-proposal-to-reduce-ssl-lifespan-updated)
-    * [Root Causes 441: New White House Initiative Targets BGP](https://www.sectigo.com/resource-library/root-causes-441-new-white-house-initiative-targets-bgp)
     
 * Company
     
