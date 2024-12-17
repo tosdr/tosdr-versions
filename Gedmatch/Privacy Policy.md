@@ -20,8 +20,6 @@
     * [Privacy and Security](https://www.gedmatch.com/privacy-security/)
     * [Contact](https://www.gedmatch.com/contact/)
 
-Menu
-
 * [Applications](https://www.gedmatch.com/applications/)
 * [Education](https://www.gedmatch.com/education/)
     * [How it Works](https://www.gedmatch.com/how-it-works/)
@@ -64,8 +62,6 @@ Menu
     * [Contact](https://www.gedmatch.com/contact/)
 * [Sign In](https://app.gedmatch.com/login1.php)
 * [Join For Free](https://app.gedmatch.com/register.php)
-
-Menu
 
 * [Applications](https://www.gedmatch.com/applications/)
 * [Education](https://www.gedmatch.com/education/)
