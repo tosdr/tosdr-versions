@@ -214,8 +214,6 @@ Discover why industry leaders and scaling start-ups love, use and trust Tiny pro
 
 * * *
 
-[Overview](https://www.tiny.cloud/legal/)[Privacy](https://www.tiny.cloud/legal/privacy/)[Terms](https://www.tiny.cloud/legal/terms/)[Cloud Services](https://www.tiny.cloud/legal/cloud-use-subscription-agreement/)[Cloud Services Enterprise](https://www.tiny.cloud/legal/cloud-use-subscription-agreement-enterprise/)[Research](https://www.tiny.cloud/legal/research-program-agreement/)[Attribution](https://www.tiny.cloud/legal/attribution-requirements/)[Enterprise](https://www.tiny.cloud/legal/tiny-self-hosted-enterprise-agreement/)[OEM & SaaS](https://www.tiny.cloud/legal/tiny-self-hosted-oem-saas-agreement/)[Setka](https://www.tiny.cloud/legal/setka/)[Plupload](https://www.tiny.cloud/legal/plupload/)
-
 Privacy Policy
 ==============
 
