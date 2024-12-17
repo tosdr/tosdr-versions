@@ -16,12 +16,12 @@ Browse
     * Alkaline Batteries
         
         * [Alkaline Batteries](https://www.maplin.co.uk/collections/alkaline-batteries)
-        * [AA Batteries](https://www.maplin.co.uk/collections/aa-batteries)
-        * [AAA Batteries](https://www.maplin.co.uk/collections/aaa-batteries)
-        * [C Batteries](https://www.maplin.co.uk/collections/c-batteries)
-        * [D Batteries](https://www.maplin.co.uk/collections/d-batteries)
-        * [9V Batteries](https://www.maplin.co.uk/collections/9v-batteries)
-        * [LR1/E90 Batteries](https://www.maplin.co.uk/collections/lr1-e90-batteries)
+        * [AA Batteries](https://www.maplin.co.uk/collections/alkaline-aa-batteries)
+        * [AAA Batteries](https://www.maplin.co.uk/collections/alkaline-aaa-batteries)
+        * [C Batteries](https://www.maplin.co.uk/collections/alkaline-c-batteries)
+        * [D Batteries](https://www.maplin.co.uk/collections/alkaline-d-batteries)
+        * [9V Batteries](https://www.maplin.co.uk/collections/alkaline-9v-batteries)
+        * [LR1/E90 Batteries](https://www.maplin.co.uk/collections/alkaline-lr1-e90-batteries)
         
     * Rechargeable Batteries
         
@@ -120,10 +120,10 @@ Browse
     * USB-C
         
         * [USB-C](https://www.maplin.co.uk/collections/usb-c-cables-adapters)
-        * [to USB-C](https://www.maplin.co.uk/collections/usb-c-to-usb-c)
+        * [to USB-C](https://www.maplin.co.uk/collections/usb-c-to-usb-c-cables)
+        * [to Lightning](https://www.maplin.co.uk/collections/usb-c-to-lightning-cables)
         * [to USB-A](https://www.maplin.co.uk/collections/usb-c-to-usb-a-cables)
         * [to USB-B](https://www.maplin.co.uk/collections/usb-c-to-usb-b-cables)
-        * [to Lightning](https://www.maplin.co.uk/collections/usb-c-to-lightning-cables)
         * [to HDMI](https://www.maplin.co.uk/collections/usb-c-to-hdmi-cables)
         * [to DisplayPort](https://www.maplin.co.uk/collections/usb-c-to-displayport)
         * [to VGA](https://www.maplin.co.uk/collections/usb-c-to-vga-cables)
@@ -134,12 +134,12 @@ Browse
     * USB-A
         
         * [USB-A](https://www.maplin.co.uk/collections/usb-a-cables-adapters)
-        * [to USB-A](https://www.maplin.co.uk/collections/usb-a-to-usb-a-cables)
         * [to USB-C](https://www.maplin.co.uk/collections/usb-c-to-usb-a-cables)
+        * [to Lightning](https://www.maplin.co.uk/collections/usb-a-to-lightning-cables)
         * [to Micro USB](https://www.maplin.co.uk/collections/usb-a-to-micro-usb-cables)
         * [to Mini USB](https://www.maplin.co.uk/collections/usb-a-to-mini-usb-cables)
         * [to USB-B](https://www.maplin.co.uk/collections/usb-a-to-usb-b-cables)
-        * [to Lightning](https://www.maplin.co.uk/collections/usb-a-to-lightning-cables)
+        * [to USB-A](https://www.maplin.co.uk/collections/usb-a-to-usb-a-cables)
         * [to Other](https://www.maplin.co.uk/collections/usb-a-to-other)
         * [USB-A Extension Cables](https://www.maplin.co.uk/collections/usb-a-extension-cables)
         * [USB-A Adapters](https://www.maplin.co.uk/collections/usb-a-adapters-1)
@@ -842,12 +842,12 @@ Browse
     
     [Alkaline Batteries](https://www.maplin.co.uk/collections/alkaline-batteries)
     
-    * [AA Batteries](https://www.maplin.co.uk/collections/aa-batteries)
-    * [AAA Batteries](https://www.maplin.co.uk/collections/aaa-batteries)
-    * [C Batteries](https://www.maplin.co.uk/collections/c-batteries)
-    * [D Batteries](https://www.maplin.co.uk/collections/d-batteries)
-    * [9V Batteries](https://www.maplin.co.uk/collections/9v-batteries)
-    * [LR1/E90 Batteries](https://www.maplin.co.uk/collections/lr1-e90-batteries)
+    * [AA Batteries](https://www.maplin.co.uk/collections/alkaline-aa-batteries)
+    * [AAA Batteries](https://www.maplin.co.uk/collections/alkaline-aaa-batteries)
+    * [C Batteries](https://www.maplin.co.uk/collections/alkaline-c-batteries)
+    * [D Batteries](https://www.maplin.co.uk/collections/alkaline-d-batteries)
+    * [9V Batteries](https://www.maplin.co.uk/collections/alkaline-9v-batteries)
+    * [LR1/E90 Batteries](https://www.maplin.co.uk/collections/alkaline-lr1-e90-batteries)
     
     [Rechargeable Batteries](https://www.maplin.co.uk/collections/rechargeable-batteries)
     
@@ -942,10 +942,10 @@ Browse
     
     [USB-C](https://www.maplin.co.uk/collections/usb-c-cables-adapters)
     
-    * [to USB-C](https://www.maplin.co.uk/collections/usb-c-to-usb-c)
+    * [to USB-C](https://www.maplin.co.uk/collections/usb-c-to-usb-c-cables)
+    * [to Lightning](https://www.maplin.co.uk/collections/usb-c-to-lightning-cables)
     * [to USB-A](https://www.maplin.co.uk/collections/usb-c-to-usb-a-cables)
     * [to USB-B](https://www.maplin.co.uk/collections/usb-c-to-usb-b-cables)
-    * [to Lightning](https://www.maplin.co.uk/collections/usb-c-to-lightning-cables)
     * [to HDMI](https://www.maplin.co.uk/collections/usb-c-to-hdmi-cables)
     * [to DisplayPort](https://www.maplin.co.uk/collections/usb-c-to-displayport)
     * [to VGA](https://www.maplin.co.uk/collections/usb-c-to-vga-cables)
@@ -955,12 +955,12 @@ Browse
     
     [USB-A](https://www.maplin.co.uk/collections/usb-a-cables-adapters)
     
-    * [to USB-A](https://www.maplin.co.uk/collections/usb-a-to-usb-a-cables)
     * [to USB-C](https://www.maplin.co.uk/collections/usb-c-to-usb-a-cables)
+    * [to Lightning](https://www.maplin.co.uk/collections/usb-a-to-lightning-cables)
     * [to Micro USB](https://www.maplin.co.uk/collections/usb-a-to-micro-usb-cables)
     * [to Mini USB](https://www.maplin.co.uk/collections/usb-a-to-mini-usb-cables)
     * [to USB-B](https://www.maplin.co.uk/collections/usb-a-to-usb-b-cables)
-    * [to Lightning](https://www.maplin.co.uk/collections/usb-a-to-lightning-cables)
+    * [to USB-A](https://www.maplin.co.uk/collections/usb-a-to-usb-a-cables)
     * [to Other](https://www.maplin.co.uk/collections/usb-a-to-other)
     * [USB-A Extension Cables](https://www.maplin.co.uk/collections/usb-a-extension-cables)
     * [USB-A Adapters](https://www.maplin.co.uk/collections/usb-a-adapters-1)
