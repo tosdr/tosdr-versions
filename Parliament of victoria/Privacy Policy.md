@@ -1,5 +1,9 @@
 [Skip to Content](#mainContent)
 
+Alert
+
+**Site maintenance Wednesday 18 December** This website will be unavailable 6.00pm - 8.30pm (AEDT)
+
 Main menu
 
 [Parliament of Victoria](https://parliament.vic.gov.au/)
