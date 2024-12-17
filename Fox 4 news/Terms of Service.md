@@ -393,14 +393,6 @@ Nothing contained in this Agreement limits Fox’s right to comply with governme
 
 Please contact the Site Administrator with any questions regarding this Agreement by sending an email to: [**Terms-KDFW@fox.com**](mailto:Terms-KDFW@fox.com)
 
-[](https://www.fox4news.com/news/madison-abundant-life-christian-school-shooting)
-
-BREAKING NEWS
-
-[LIVE UPDATES: Madison, Wisconsin school shooting: 3 dead, including shooter; 5 others hurt](https://www.fox4news.com/news/madison-abundant-life-christian-school-shooting)
-
-[A shooting at the Abundant Life Christian School in Madison, Wisconsin, on Monday, left at least five people dead, including the suspected shooter, and five others injured.](https://www.fox4news.com/news/madison-abundant-life-christian-school-shooting) 
-
 ###### [News](https://www.fox4news.com/news)
 
 * [Local News](https://www.fox4news.com/local-news)
