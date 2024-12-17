@@ -241,29 +241,11 @@ Past Week
 
 ### Most Read Articles
 
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/12/PrimeCounts-cr.SamuelVelasco-Thumbnail.webp)](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
+[](https://www.quantamagazine.org/terms-conditions/)
 
-[#### Mathematicians Uncover a New Way to Count Prime Numbers](https://www.quantamagazine.org/mathematicians-uncover-a-new-way-to-count-prime-numbers-20241211/)
+[#### Terms & Conditions](https://www.quantamagazine.org/terms-conditions/)
 
-_By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
-
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/12/EntropyDeepDive-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
-
-[#### What Is Entropy? A Measure of Just How Little We Really Know.](https://www.quantamagazine.org/what-is-entropy-a-measure-of-just-how-little-we-really-know-20241213/)
-
-_By_ [Zack Savitsky](https://www.quantamagazine.org/authors/zack-savitsky)
-
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/12/Quantum-Error-Correction_crDave-Whyte-Thumbnail.webp)](https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/)
-
-[#### Quantum Computers Cross Critical Error Threshold](https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/)
-
-_By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
-
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/12/Superconductor-Zoo_crMark-Belan-Thumbnail.webp)](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
-
-[#### Exotic New Superconductors Delight and Confound](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
-
-_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
+_By_ [Quanta Magazine](https://www.quantamagazine.org/authors/quanta)
 
 The Quanta Newsletter
 
