@@ -85,7 +85,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![beagle shell](/beagle/shell/card.svg)](https://jarick.works/beagle/shell)[![freeblr faq how would left anarchy work](/freeblr/faq/how-would-left-anarchy-work/card.svg)](https://jarick.works/freeblr/faq/how-would-left-anarchy-work)[![freeblr economics what is property](/freeblr/economics/what-is-property/card.svg)](https://jarick.works/freeblr/economics/what-is-property)[![freeblr war the prince](/freeblr/war/the-prince/card.svg)](https://jarick.works/freeblr/war/the-prince)
+[![freeblr environment anarchy and the problem of the commons](/freeblr/environment/anarchy-and-the-problem-of-the-commons/card.svg)](https://jarick.works/freeblr/environment/anarchy-and-the-problem-of-the-commons)[![spekr what is authoritarian socialism](/spekr/what-is-authoritarian-socialism/card.svg)](https://jarick.works/spekr/what-is-authoritarian-socialism)[![freeblr justice the rule of law without the state](/freeblr/justice/the-rule-of-law-without-the-state/card.svg)](https://jarick.works/freeblr/justice/the-rule-of-law-without-the-state)[![freeblr borders the libertarian immigration conundrum](/freeblr/borders/the-libertarian-immigration-conundrum/card.svg)](https://jarick.works/freeblr/borders/the-libertarian-immigration-conundrum)
 
 [Follow](#follow)
 
