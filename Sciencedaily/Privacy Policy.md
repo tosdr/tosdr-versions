@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 16, 2024**
+**December 17, 2024**
 
 * * *
 
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
+
 [Prostate Cancer](https://www.sciencedaily.com/news/health_medicine/prostate_cancer/)
 
-[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
-
-[Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
+[Pharmacology](https://www.sciencedaily.com/news/health_medicine/pharmacology/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
-
 [Medical Technology](https://www.sciencedaily.com/news/matter_energy/medical_technology/)
 
-[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
+[Sun](https://www.sciencedaily.com/news/space_time/sun/)
+
+[Detectors](https://www.sciencedaily.com/news/matter_energy/detectors/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Sustainability](https://www.sciencedaily.com/news/earth_climate/sustainability/)
-
 [Fish](https://www.sciencedaily.com/news/plants_animals/fish/)
 
-[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
+[Bacteria](https://www.sciencedaily.com/news/plants_animals/bacteria/)
+
+[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
 
   
 
