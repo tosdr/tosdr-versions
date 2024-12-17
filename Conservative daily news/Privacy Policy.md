@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [John Commerford Appointed Interim Executive Director of NRA-ILA](https://www.thegunpage.com/john-commerford-appointed-interim-executive-director-of-nra-ila/10612542)
+* [Low Back Pressure Suppressors – Do They Really Make A Difference?](https://www.thegunpage.com/low-back-pressure-suppressors-do-they-really-make-a-difference/10612543)
+* [A Pilgrimage to the CMP North Store](https://www.thegunpage.com/a-pilgrimage-to-the-cmp-north-store/10612540)
 * [Gun Review – Cimarron ’62 Pocket Navy Conversion](https://www.thegunpage.com/gun-review-cimarron-62-pocket-navy-conversion/10612534)
+* [Several New Ruger RXM Holsters From DeSantis Gunhide](https://www.thegunpage.com/several-new-ruger-rxm-holsters-from-desantis-gunhide/10612539)
 * [MI: Anti-gun Bills Moving in the House](https://www.thegunpage.com/mi-anti-gun-bills-moving-in-the-house/10612532)
 * [While Some Clamor for More Gun Laws, Judges Aren’t Enforcing Existing Laws](https://www.thegunpage.com/while-some-clamor-for-more-gun-laws-judges-arent-enforcing-existing-laws/10612530)
 * [TFB Weekly Web Deals 118: Deals for December 16th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-118-deals-for-december-16th-2024/10612529)
 * [Biden DOJ Rolls Out New Gun Control Measures](https://www.thegunpage.com/biden-doj-rolls-out-new-gun-control-measures/10612527)
 * [U.S. Army Marksmanship Unit To Lead Training At 2025 CMP Talladega Spring Classic](https://www.thegunpage.com/u-s-army-marksmanship-unit-to-lead-training-at-2025-cmp-talladega-spring-classic/10612533)
-* [Twisting Stoner’s Mouse Gun](https://www.thegunpage.com/twisting-stoners-mouse-gun/10612526)
-* [Michigan Dems Rush Gun Control Through State Legislature Ahead Of Republican House Majority](https://www.thegunpage.com/michigan-dems-rush-gun-control-through-state-legislature-ahead-of-republican-house-majority/10612523)
-* [Man With Guns And Explosives Planning A Church Attack Arrested In Texas](https://www.thegunpage.com/man-with-guns-and-explosives-planning-a-church-attack-arrested-in-texas/10612520)  
-* [Set Up Your Gear For Success](https://www.thegunpage.com/set-up-your-gear-for-success/10612518)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
