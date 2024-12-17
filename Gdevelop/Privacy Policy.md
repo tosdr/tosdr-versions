@@ -202,8 +202,8 @@ Türkçe
 
 Join the community
 
-* [](https://discord.gg/GDevelop "discord")
 * [](https://forum.gdevelop.io/ "forums")
+* [](https://discord.gg/GDevelop "discord")
 
 Stay tuned
 
