@@ -1,10 +1,5 @@
 [![Math is Fun](images/style/logo.svg)](https://www.mathsisfun.com/)
 
-[Show Ads](javascript:showAds())
-
-[Hide Ads](javascript:hideAds())  
-[About Ads](https://www.mathsisfun.com/about-ads.html)
-
 Privacy Statement for mathsisfun.com
 ====================================
 
@@ -12,7 +7,7 @@ Also Read: [Internet Safety Guide](https://www.mathsisfun.com/internet-safety.ht
 
 ### Overview
 
-Mathsisfun.com does not have memberships or subscriptions, and **does not keep any personally identifiable information** (except what you say when you [contact us](https://www.mathsisfun.com/contact.php)).
+Mathsisfun.com does not have subscriptions, and **does not keep any personally identifiable information** (except what you say when you [contact us](https://www.mathsisfun.com/contact.php)).
 
 We use "cookies" to store some settings such as when you click "Hide Ads". Advertisers may also use information about you that is out of our control.
 
@@ -63,11 +58,6 @@ Security
 
 Mathsisfun.com is a free information-only service and sells no products directly. At no time will mathsisfun.com directly request address or payment details. However, some partner sites do sell direct. Please check as mathsisfun.com cannot be responsible for insecure transactions from other web sites.
 
-Notification of Changes
------------------------
+Last Updated: 17 Dec 2024
 
-If we decide to change our privacy policy, we will notify users on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
-
-Last Updated: Tuesday 10 Mar 2019
-
-Copyright © 2019 MathsIsFun.com
+Copyright © 2024 Rod Pierce
