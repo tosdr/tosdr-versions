@@ -156,7 +156,7 @@ Designing where you want to go today
 
 [Donate](#donate)
 
-[![freeblr market markets and freedom](/freeblr/market/markets-and-freedom/card.svg)](https://jarick.works/freeblr/market/markets-and-freedom)[![beagle productivity](/beagle/productivity/card.svg)](https://jarick.works/beagle/productivity)[![freeblr government what are the myths of statism](/freeblr/government/what-are-the-myths-of-statism/card.svg)](https://jarick.works/freeblr/government/what-are-the-myths-of-statism)[![freeblr money what determines the value of money](/freeblr/money/what-determines-the-value-of-money/card.svg)](https://jarick.works/freeblr/money/what-determines-the-value-of-money)
+[![freeblr money hard money in the voluntaryist tradition](/freeblr/money/hard-money-in-the-voluntaryist-tradition/card.svg)](https://jarick.works/freeblr/money/hard-money-in-the-voluntaryist-tradition)[![freeblr government statist reasoning not me but everybody else](/freeblr/government/statist-reasoning-not-me-but-everybody-else/card.svg)](https://jarick.works/freeblr/government/statist-reasoning-not-me-but-everybody-else)[![hire](/hire/card.svg)](https://jarick.works/hire)[![freeblr faq are anarchists pacifists](/freeblr/faq/are-anarchists-pacifists/card.svg)](https://jarick.works/freeblr/faq/are-anarchists-pacifists)
 
 [Follow](#follow)
 
