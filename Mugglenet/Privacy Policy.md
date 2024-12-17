@@ -338,15 +338,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Dementors don’t breed but grow, like fungus, where there is decay.
+The Unlocking Charm (Alohomora) is known as “thief’s friend.”
 
 ### Potter History
 
-February 7, 2006 – Filming begins on Harry Potter and the Order of the Phoenix.
+June 2, 1999 – Harry Potter and the Chamber of Secrets is published in the United States.
 
 ### Potter Quote
 
-“I ain’t got the brains to make this up.”
+“It’s S-P-E-W. Stands for the Society for the Promotion of Elfish Welfare.”
 
 [](#)
 
