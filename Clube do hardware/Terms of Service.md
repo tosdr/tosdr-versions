@@ -109,7 +109,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_553845425_menu)
+ [Compartilhar](#elShareItem_2016375869_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -304,7 +304,7 @@ As regras do Clube do Hardware poderão ser atualizadas periodicamente, sem avis
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1688850704_menu)
+ [Compartilhar](#elShareItem_377814266_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -347,105 +347,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Jeová J. da Silva Oliveira](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c478%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJJ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1201564-jeov%C3%A1-j-da-silva-oliveira/ "Ir ao perfil de Jeová J. da Silva Oliveira")
+    * [![ZiulGabriel](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254974.thumb.png.50217f6febea77fc9ccc837398add7e6.png)](https://www.clubedohardware.com.br/profile/1254974-ziulgabriel/ "Ir ao perfil de ZiulGabriel")
         
         0
         
-        [E aí, meu setup ficou bom?](https://www.clubedohardware.com.br/forums/topic/1705790-e-a%C3%AD-meu-setup-ficou-bom/?do=getNewComment "E aí, meu setup ficou bom?")
+        [Leds vermelhos piscando na placa-mãe e apagando](https://www.clubedohardware.com.br/forums/topic/1705807-leds-vermelhos-piscando-na-placa-m%C3%A3e-e-apagando/?do=getNewComment "Leds vermelhos piscando na placa-mãe e apagando")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Jeová J. da Silva Oliveira](https://www.clubedohardware.com.br/profile/1201564-jeov%C3%A1-j-da-silva-oliveira/ "Ir ao perfil de Jeová J. da Silva Oliveira")  
-        9 minutos atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [ZiulGabriel](https://www.clubedohardware.com.br/profile/1254974-ziulgabriel/ "Ir ao perfil de ZiulGabriel")  
+        1 hora atrás
         
-    * [![iapereira](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c484%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EI%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1039988-iapereira/ "Ir ao perfil de iapereira")
+    * [![Paulocfrd](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258071.thumb.png.19dc31cef11f3172bcaf0520cc990d84.png)](https://www.clubedohardware.com.br/profile/1258071-paulocfrd/ "Ir ao perfil de Paulocfrd")
+        
+        0
+        
+        [Fans do gabinete conectados no sys fan 2 não giram na config padrão da BIOS](https://www.clubedohardware.com.br/forums/topic/1705806-fans-do-gabinete-conectados-no-sys-fan-2-n%C3%A3o-giram-na-config-padr%C3%A3o-da-bios/?do=getNewComment "Fans do gabinete conectados no sys fan 2 não giram na config padrão da BIOS")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Paulocfrd](https://www.clubedohardware.com.br/profile/1258071-paulocfrd/ "Ir ao perfil de Paulocfrd")  
+        1 hora atrás
+        
+    * [![winnermarcelosc](https://www.clubedohardware.com.br/uploads/members/monthly_2020_11/imported-photo-1024817.thumb.jpeg.31c825d589e5f1a8a999a406f5ebca34.jpeg)](https://www.clubedohardware.com.br/profile/1024817-winnermarcelosc/ "Ir ao perfil de winnermarcelosc")
+        
+        0
+        
+        [Artefatos na tela do pc // após troca de cpu cooler](https://www.clubedohardware.com.br/forums/topic/1705805-artefatos-na-tela-do-pc-ap%C3%B3s-troca-de-cpu-cooler/?do=getNewComment "Artefatos na tela do pc // após troca de cpu cooler")
+        
+        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
+        Por [winnermarcelosc](https://www.clubedohardware.com.br/profile/1024817-winnermarcelosc/ "Ir ao perfil de winnermarcelosc")  
+        3 horas atrás
+        
+    * [![vytu](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1215882.thumb.png.408edf0a56f06e10a6bc47be7c8e37ec.png)](https://www.clubedohardware.com.br/profile/1215882-vytu/ "Ir ao perfil de vytu")
+        
+        0
+        
+        [Possível defeito na fonte](https://www.clubedohardware.com.br/forums/topic/1705804-poss%C3%ADvel-defeito-na-fonte/?do=getNewComment "Possível defeito na fonte")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [vytu](https://www.clubedohardware.com.br/profile/1215882-vytu/ "Ir ao perfil de vytu")  
+        3 horas atrás
+        
+    * [![Cipheri](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257727.thumb.png.f883393cb89a2a488c317b8075dc0859.png)](https://www.clubedohardware.com.br/profile/1257727-cipheri/ "Ir ao perfil de Cipheri")
+        
+        0
+        
+        [Recomendação de Fonte boa](https://www.clubedohardware.com.br/forums/topic/1705803-recomenda%C3%A7%C3%A3o-de-fonte-boa/?do=getNewComment "Recomendação de Fonte boa")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Cipheri](https://www.clubedohardware.com.br/profile/1257727-cipheri/ "Ir ao perfil de Cipheri")  
+        3 horas atrás
+        
+    * [![lcsartori](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258066.thumb.png.1abdcc5efbdadab1699fe30054ad7bd7.png)](https://www.clubedohardware.com.br/profile/1258066-lcsartori/ "Ir ao perfil de lcsartori")
         
         1
         
-        [Windows não reconhece placa quando uso cabo Rise Mode (e somente ele)](https://www.clubedohardware.com.br/forums/topic/1705789-windows-n%C3%A3o-reconhece-placa-quando-uso-cabo-rise-mode-e-somente-ele/?do=getNewComment "Windows não reconhece placa quando uso cabo Rise Mode (e somente ele)")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [iapereira](https://www.clubedohardware.com.br/profile/1039988-iapereira/ "Ir ao perfil de iapereira")  
-        22 minutos atrás
-        
-    * [![duduhdxd](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/images(4).thumb.jpg.63008a3f96cc9ec4c5cc99362d1ae114.jpg)](https://www.clubedohardware.com.br/profile/1258040-duduhdxd/ "Ir ao perfil de duduhdxd")
-        
-        0
-        
-        [Meu PC está dando 100% uso de disco](https://www.clubedohardware.com.br/forums/topic/1705788-meu-pc-est%C3%A1-dando-100-uso-de-disco/?do=getNewComment "Meu PC está dando 100% uso de disco")
+        [Meu PC está congelando/desligando sozinho.](https://www.clubedohardware.com.br/forums/topic/1705802-meu-pc-est%C3%A1-congelandodesligando-sozinho/?do=getNewComment "Meu PC está congelando/desligando sozinho.")
         
         [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
-        Por [duduhdxd](https://www.clubedohardware.com.br/profile/1258040-duduhdxd/ "Ir ao perfil de duduhdxd")  
-        23 minutos atrás
+        Por [lcsartori](https://www.clubedohardware.com.br/profile/1258066-lcsartori/ "Ir ao perfil de lcsartori")  
+        3 horas atrás
         
-    * [![kiroon12](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2389c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1215537-kiroon12/ "Ir ao perfil de kiroon12")
-        
-        2
-        
-        [A placa de vídeo Radeon RX 6600 usa conector PCIe 6+2 pinos?](https://www.clubedohardware.com.br/forums/topic/1705784-a-placa-de-v%C3%ADdeo-radeon-rx-6600-usa-conector-pcie-62-pinos/?do=getNewComment "A placa de vídeo Radeon RX 6600 usa conector PCIe 6+2 pinos?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [kiroon12](https://www.clubedohardware.com.br/profile/1215537-kiroon12/ "Ir ao perfil de kiroon12")  
-        59 minutos atrás
-        
-    * [![Heitor_](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46962%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EH%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255559-heitor_/ "Ir ao perfil de Heitor_")
+    * [![nir20137](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4ac62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EN%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/692640-nir20137/ "Ir ao perfil de nir20137")
         
         3
         
-        [ligar fans na B550m pro vdh wifi msi](https://www.clubedohardware.com.br/forums/topic/1705782-ligar-fans-na-b550m-pro-vdh-wifi-msi/?do=getNewComment "ligar fans na B550m pro vdh wifi msi")
+        [Troca de processador Intel Core i3-8100](https://www.clubedohardware.com.br/forums/topic/1705801-troca-de-processador-intel-core-i3-8100/?do=getNewComment "Troca de processador Intel Core i3-8100")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Heitor\_](https://www.clubedohardware.com.br/profile/1255559-heitor_/ "Ir ao perfil de Heitor_")  
-        1 hora atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [nir20137](https://www.clubedohardware.com.br/profile/692640-nir20137/ "Ir ao perfil de nir20137")  
+        4 horas atrás
         
-    * [![Rafaiaz](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46296%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1258060-rafaiaz/ "Ir ao perfil de Rafaiaz")
+    * [![Perin](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47b62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257614-perin/ "Ir ao perfil de Perin")
+        
+        3
+        
+        [4 Módulos de 8GB é ruim?](https://www.clubedohardware.com.br/forums/topic/1705800-4-m%C3%B3dulos-de-8gb-%C3%A9-ruim/?do=getNewComment "4 Módulos de 8GB é ruim?")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Perin](https://www.clubedohardware.com.br/profile/1257614-perin/ "Ir ao perfil de Perin")  
+        4 horas atrás
+        
+    * [![Akat](https://www.clubedohardware.com.br/uploads/members/monthly_2024_01/imported-photo-1224164.thumb.png.dff6ab7d23051a48d550fe30070f12a5.png)](https://www.clubedohardware.com.br/profile/1224164-akat/ "Ir ao perfil de Akat")
         
         0
         
-        [Led da fan muda a cor errada](https://www.clubedohardware.com.br/forums/topic/1705781-led-da-fan-muda-a-cor-errada/?do=getNewComment "Led da fan muda a cor errada")
+        [Monitor com faixa na tela que vai mudando de cor](https://www.clubedohardware.com.br/forums/topic/1705799-monitor-com-faixa-na-tela-que-vai-mudando-de-cor/?do=getNewComment "Monitor com faixa na tela que vai mudando de cor")
         
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Rafaiaz](https://www.clubedohardware.com.br/profile/1258060-rafaiaz/ "Ir ao perfil de Rafaiaz")  
-        1 hora atrás
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Akat](https://www.clubedohardware.com.br/profile/1224164-akat/ "Ir ao perfil de Akat")  
+        4 horas atrás
         
-    * [![mate0s](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258059.thumb.jpeg.98cf8f21e5e721f072734ff8ca0ac1f2.jpeg)](https://www.clubedohardware.com.br/profile/1258059-mate0s/ "Ir ao perfil de mate0s")
-        
-        1
-        
-        [Congelando na BIOS ou após loading do windows](https://www.clubedohardware.com.br/forums/topic/1705780-congelando-na-bios-ou-ap%C3%B3s-loading-do-windows/?do=getNewComment "Congelando na BIOS ou após loading do windows")
-        
-        [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
-        Por [mate0s](https://www.clubedohardware.com.br/profile/1258059-mate0s/ "Ir ao perfil de mate0s")  
-        1 hora atrás
-        
-    * [![FrostX](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257453.thumb.jpeg.afad70a9158869413761a4265effab48.jpeg)](https://www.clubedohardware.com.br/profile/1257453-frostx/ "Ir ao perfil de FrostX")
-        
-        8
-        
-        [Dicas de upgrade até R$ 500 no PC: Core 2 Quad Q8400, 3GB DDR2 e GeForce 8400GS](https://www.clubedohardware.com.br/forums/topic/1705779-dicas-de-upgrade-at%C3%A9-r-500-no-pc-core-2-quad-q8400-3gb-ddr2-e-geforce-8400gs/?do=getNewComment "Dicas de upgrade até R$ 500 no PC: Core 2 Quad Q8400, 3GB DDR2 e GeForce 8400GS")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [FrostX](https://www.clubedohardware.com.br/profile/1257453-frostx/ "Ir ao perfil de FrostX")  
-        2 horas atrás
-        
-    * [![pedro_fridrich](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1258058.thumb.jpeg.5b31df47c9b92505ee76d067b1810731.jpeg)](https://www.clubedohardware.com.br/profile/1258058-pedro_fridrich/ "Ir ao perfil de pedro_fridrich")
+    * [![Mario Sergio Affonso](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/fhfgfhhfhhf.thumb.jpg.b425d91d712edeabf01d895183195779.jpg)](https://www.clubedohardware.com.br/profile/825330-mario-sergio-affonso/ "Ir ao perfil de Mario Sergio Affonso")
         
         2
         
-        [Placa-mãe Mancer A520M-DX suporta SSD Corsair MP600 M.2 1TB?](https://www.clubedohardware.com.br/forums/topic/1705777-placa-m%C3%A3e-mancer-a520m-dx-suporta-ssd-corsair-mp600-m2-1tb/?do=getNewComment "Placa-mãe Mancer A520M-DX suporta SSD Corsair MP600 M.2 1TB?")
+        [Pc desliga sozinho sem motivo aparente](https://www.clubedohardware.com.br/forums/topic/1705798-pc-desliga-sozinho-sem-motivo-aparente/?do=getNewComment "Pc desliga sozinho sem motivo aparente")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [pedro\_fridrich](https://www.clubedohardware.com.br/profile/1258058-pedro_fridrich/ "Ir ao perfil de pedro_fridrich")  
-        2 horas atrás
-        
-    * [![oexilado](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47662%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EO%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1258056-oexilado/ "Ir ao perfil de oexilado")
-        
-        2
-        
-        [Dicas para montar PC para jogos até R$ 3.000,00](https://www.clubedohardware.com.br/forums/topic/1705776-dicas-para-montar-pc-para-jogos-at%C3%A9-r-300000/?do=getNewComment "Dicas para montar PC para jogos até R$ 3.000,00")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [oexilado](https://www.clubedohardware.com.br/profile/1258056-oexilado/ "Ir ao perfil de oexilado")  
-        2 horas atrás
+        [Computador desligando sozinho](https://www.clubedohardware.com.br/forums/forum/258-computador-desligando-sozinho/ "Computador desligando sozinho")  
+        Por [Mario Sergio Affonso](https://www.clubedohardware.com.br/profile/825330-mario-sergio-affonso/ "Ir ao perfil de Mario Sergio Affonso")  
+        5 horas atrás
         
     
 
@@ -605,11 +605,5 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 [×](#)
 
 * Criar novo...
-
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
-
-**EBOOK GRÁTIS!**
-
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&cd%5Bitem_id%5D=690576&cd%5Bitem_name%5D=Regras+do+Clube+do+Hardware&cd%5Bitem_type%5D=topic&cd%5Bcategory_name%5D=Avisos da administração)
