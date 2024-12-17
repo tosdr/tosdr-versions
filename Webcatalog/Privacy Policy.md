@@ -7,7 +7,7 @@ Theme
 Privacy Policy
 ==============
 
-_Last updated on **December 9, 2024**._
+_Last updated on **December 17, 2024**._
 
 Your privacy is critically important to us, and we have a few fundamental principles we abide by:
 
@@ -75,6 +75,19 @@ We may log information when you access the Website. This may include your IP add
 We may receive information from cookies, which are pieces of data your browser stores and sends back to us when making requests, and similar technologies. We use this information to deliver and maintain our services and our site, improve your experience, understand user activity, personalize content and advertisements, measure the effectiveness of advertising, and improve the quality of our Services. For example, we store and retrieve information about your preferred language and other settings.
 
 See our Section 3 below for more information about how WebCatalog uses cookies and about how you can disable cookies.
+
+#### 2.3. Advertising Data
+
+### 2.3. Advertising
+
+We use advertising services provided by third-party companies, including NitroPay, to display ads on our Website. These companies may use aggregated and anonymized data to serve you personalized ads based on your interests. The data collected may include, but is not limited to:
+
+* Device information
+* Browser type and settings
+* Usage data
+* Anonymized IP address
+
+This data is collected in compliance with GDPR and CCPA, ensuring that all personal data is anonymized and aggregated before it is used for advertising purposes.
 
 3\. Cookies Policy
 ------------------
