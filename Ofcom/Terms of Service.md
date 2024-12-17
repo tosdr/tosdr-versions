@@ -157,7 +157,7 @@
 
 12 December 2024](https://www.ofcom.org.uk/phones-and-broadband/bills-and-charges/ultrafast-broadband-and-landline-bundles-see-biggest-price-drop-in-2024/)
 
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/)
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy)
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
